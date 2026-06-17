@@ -26,6 +26,9 @@ Platonov, S.
 - t-001
   global_id: t-31911
   teiginys: 'S. F. Platonovo „Geschichte Russlands vom Beginn bis zur Jetztzeit“ išleista Leipcige 1927 m.'
+  susije_objektai: 'mentioned_place: Kaunas; mentioned_place: Krokuva; mentioned_place: Leipcigas; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1927 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

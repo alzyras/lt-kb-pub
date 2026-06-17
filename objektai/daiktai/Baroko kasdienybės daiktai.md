@@ -40,6 +40,8 @@ Nenurodyta
 - t-001
   global_id: t-77920
   teiginys: 'Lietuvoje barokas išplito iki kasdienybės daiktų, įskaitant baldus, indus, drabužius ir knygas.'
+  sudarymo_pagrindimas: 'Pradinis teiginys yra sulipęs su antrašte ir turi nutrūkusių fragmentų.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; mentioned_object: [[objektai/zodynas/barokas|barokas]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -67,11 +69,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/drabužis]]
-
-### Susiję objektai
-- [[objektai/zodynas/barokas]]
-- [[objektai/daiktai/Drabužiai]]

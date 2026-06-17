@@ -22,9 +22,11 @@ Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas sa
 - t-001
   global_id: t-60439
   teiginys: 'Karaliaučiaus komtūras paskyrė Stavimėlą į Pelužio būrį, išvykusį ginklu atkeršyti už Pelužio patirtas skriaudas.'
+  sudarymo_pagrindimas: 'Citata tiesiogiai pagrindžia Stavimėlo paskyrimą į Pelužio žygio būrį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Pelužis|Pelužis]]; mentioned_place: Lietuva; mentioned_place: Semba; mentioned_place: Viena'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Pelužis.md#claim-t-90003|Pelužis]]: Pelužio prašymu Karaliaučiaus komtūras jam paskyrė Martyną iš Golino, Konradą Velnią, Stavimėlą ir 20 kitų vyrų.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -47,13 +49,3 @@ Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas sa
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Martynas iš Golino]]
-- [[objektai/zodynas/komtūras]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/asmenys/Pelužis]]
-- [[objektai/asmenys/Konradas, vardu Divelis]]
-- [[objektai/ivykiai/Pelužio ir plėšikautojų antpuolis, per kurį nužudyta 70 Lietuvos kunigaikščių]]
-- [[objektai/paprociai/Vestuvių puotos girtavimas iki užmigimo]]

@@ -23,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-Urbono VI bulės originalas su vertimu į lenkų kalbą išspausdintas leidinyje „Dzieje Dobroczynności“ 1822 m. 1389 m. pabaigoje Poznanės vyskupas Dobrogostas Vilniuje paskelbė popiežiaus Urbono VI bulę.
+Ne­ paisant tos Vilniuje buvusios maišaties, vis dėlto 1389 me­ tams baigiantis atvyko Poznanės vyskupas Dobrogostas ir kaip popiežiaus Urbono VI pasiuntinys paskelbė bulę, ku­ rios galia, atsiliepiant į karaliaus Vladislovo ir karalienės Jad­ vygos prašymą. Tačiau Vilniaus diecezijos senųjų turto doVilnensis.
 
 ## Teiginiai
 
@@ -31,6 +31,11 @@ Urbono VI bulės originalas su vertimu į lenkų kalbą išspausdintas leidinyje
 - t-001
   global_id: t-88343
   teiginys: 'Urbono VI bulės originalas su vertimu į lenkų kalbą išspausdintas leidinyje „Dzieje Dobroczynności“ 1822 m.'
+  sudarymo_pagrindimas: 'Pirminis teiginys yra OCR fragmentas, o citata leidžia suformuluoti aiškų faktą apie bulės publikavimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/diecezija|diecezija]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1822 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pirminis teiginys yra OCR fragmentas, o citata leidžia suformuluoti aiškų faktą apie bulės publikavimą.'
   pagrindžia:
     - c-002
 
@@ -38,6 +43,11 @@ Urbono VI bulės originalas su vertimu į lenkų kalbą išspausdintas leidinyje
 - t-002
   global_id: t-88344
   teiginys: '1389 m. pabaigoje Poznanės vyskupas Dobrogostas Vilniuje paskelbė popiežiaus Urbono VI bulę.'
+  sudarymo_pagrindimas: 'Teiginys yra konkretus, faktinis ir paremtas citatos informacija.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_person: [[objektai/asmenys/Dobrogostas|Dobrogostas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Poznanė; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1389 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus, faktinis ir paremtas citatos informacija.'
   pagrindžia:
     - c-001
 

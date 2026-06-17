@@ -14,7 +14,7 @@ tags:
 
 ## Santrauka
 
-Didieji Lietuvos kunigaikščiai Žemaičių krašto vidaus reikaluose turėjo nedaug įtakos, bet pavojaus metu teikė pagalbą. Po Zigmanto mirties kilusių konkurentų kovų metu žemaičiai iš Kazimiero gavo privilegiją, apdraudusią jų teises ir savitą vidaus tvarkymąsi.
+Žemaičiai ilgai išlaikė savitą vidaus tvarkymąsi ir socialinį savitumą. Didieji Lietuvos kunigaikščiai krašto vidaus reikaluose turėjo ribotą įtaką, bet pavojaus metu teikdavo pagalbą, o skirtingos žemaičių privilegijos išliko iki pat XVI amžiaus.
 
 ## Laikotarpis ir datos
 
@@ -37,21 +37,27 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 <a id="claim-t-05373"></a>
 - t-001
   global_id: t-05373
   teiginys: 'Didieji Lietuvos kunigaikščiai Žemaičių krašto vidaus reikaluose turėjo nedaug įtakos, bet pavojaus metu teikė pagalbą.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nusako Žemaičių savivaldos padėtį ir yra pagrįstas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
-- t-004
+<a id="claim-t-67250"></a>
+- t-002
+  global_id: t-67250
   teiginys: 'Po Zigmanto mirties kilusių konkurentų kovų metu žemaičiai iš Kazimiero gavo privilegiją, apdraudusią jų teises ir savitą vidaus tvarkymąsi.'
+  sudarymo_pagrindimas: 'Perrašyta glaustesniu, aiškiu sakiniu be perteklinės kontekstinės pradžios.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]'
   pagrindžia:
     - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -68,6 +74,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Po Zigmanto mirties kilusių konkurentų kovų metu žemaičiai iš Kazimiero gavo privilegiją, apdraudusią jų teises ir savitą vidaus tvarkymąsi.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -77,18 +84,8 @@ Nenurodyta
     padarinių tik Žemaičiams: konkurentų kovų metu jie išgavo
     iš Kazimiero privilegiją, kuri apdraudė visas jų teises ir visiems
     laikams laidavo jiems savotišką vidaus tvarkymąsi.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/Žemaičių kunigaikštystės privilegija|Žemaičių kunigaikštystės privilegija (privilegija)]]
-- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
-- [[objektai/zodynas/kunigaikštija]]
-- [[objektai/grupes/Žemaičiai]]
-- [[objektai/zodynas/kunigaikščiai]]
+    - t-002

@@ -18,6 +18,11 @@ atnaujinta: ''
 - t-001
   global_id: t-185349
   teiginys: 'Čekai pasiūlė Jogailai ir Vytautui Čekijos karaliaus vainiką, manydami, kad jie norės atkeršyti už pablogėjusius santykius.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pašalintas neaiškus įvardis ir sutvarkytas sakinys.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Čekija'
   pagrindžia:
     - c-001
 
@@ -25,6 +30,11 @@ atnaujinta: ''
 - t-002
   global_id: t-185350
   teiginys: 'Čekai neišsižadėjo sumanymo ir antrą kartą siuntė žygūnus palenkti Jogailą bei Vytautą priimti karaliaus vainiką.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata pagrindžia veiksmą ir motyvą, pradinis tekstas per daug abstraktus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_object: [[objektai/zodynas/žygūnai|žygūnai]]'
   pagrindžia:
     - c-002
 
@@ -32,6 +42,11 @@ atnaujinta: ''
 - t-003
   global_id: t-185351
   teiginys: 'Žygimantas, Dimitro Kaributaičio sūnus, apibūdintas kaip prityręs karvedys, galintis užsidėti bet kokios karalystės vainiką.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys susijęs su apibūdinimu, todėl palikta tik citatos remiama formuluotė.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Čekai|Čekai]]'
   pagrindžia:
     - c-003
 
@@ -99,9 +114,3 @@ atnaujinta: ''
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
-- [[objektai/grupes/Čekai]]
-- [[objektai/zodynas/žygūnai]]

@@ -28,6 +28,8 @@ periodo_grupes: []
 - t-001
   global_id: t-88005
   teiginys: 'Strijkovskis plačiai aprašė Kęstučio gudrybes puolant Vilnių, o Kojelevičius juo sekė.'
+  sudarymo_pagrindimas: 'Citata pagrindžia aiškų faktą apie Strijkovskio pasakojimą; pašalintos nuorodos ir OCR klaidos.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Polockas; mentioned_place: Vorskla'
   pagrindžia:
     - c-004
 
@@ -35,6 +37,8 @@ periodo_grupes: []
 - t-002
   global_id: t-88006
   teiginys: 'Stryjkowski savo kronikoje aiškino Šventaragio vardo kilmę.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/Grzybowski|Grzybowski]]; mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]'
   pagrindžia:
     - c-005
 
@@ -42,6 +46,8 @@ periodo_grupes: []
 - t-003
   global_id: t-88007
   teiginys: 'Strijkovskis savo kronikoje Vilniaus įkūrimą priskyrė Gediminui.'
+  sudarymo_pagrindimas: 'Citata tiesiogiai remia glaustą teiginį apie Strijkovskio kronikos aiškinimą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_place: Aukštutinė pilis; mentioned_place: Luckas; mentioned_place: Trakai; mentioned_place: Vengrija; mentioned_place: Vilniaus Aukštutinė pilis; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -49,6 +55,8 @@ periodo_grupes: []
 - t-004
   global_id: t-88008
   teiginys: 'Strijkovskis užsiminė apie mūšį prie Sudervėlės upelio, siejamą su lietuvių sumuštų kryžiuočių kapaviete.'
+  sudarymo_pagrindimas: 'Teiginys perrašytas į pilną sakinį apie Strijkovskio minimą mūšį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Kalvė|Kalvė]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Tame (Baigos brolis)|Tame (Baigos brolis)]]; mentioned_place: Kaimas; mentioned_place: Sudervėlė; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 
@@ -56,6 +64,8 @@ periodo_grupes: []
 - t-005
   global_id: t-88009
   teiginys: 'Strijkovskis minėjo pagonių šventyklą Antakalnyje, kurios vietoje, pagal padavimus, Goštautas pastatydino Šv. Petro bažnyčią.'
+  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir suformuotas pilnas sakinys apie Strijkovskio minimą objektą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]'
   pagrindžia:
     - c-002
 
@@ -192,14 +202,3 @@ periodo_grupes: []
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Kalvė]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/pagonybė]]
-- [[objektai/autoriai/M. Strijkovskis Stryjkowski]]
-- [[objektai/daiktai/Pilaitės pilkapis prie Sudervėlės]]

@@ -16,7 +16,7 @@ amziai:
 
 ## Santrauka
 
-Per vasalinės priesaikos ceremoniją Kolomyjoje Stepono palydovų ant žemės suguldytos vėliavėlės simbolizavo jų moldaviškąsias valdas. Redakcinė pastaba nurodo, kad priesaikos ceremonijoje Steponas perdavė Kazimierui didelę šilkinę vėliavą su Moldavijos herbu. Redakcinė pastaba nurodo, kad Moldavijos vaivada Steponas į Kolomyją atvyko tarp 1485 m. rugsėjo 6 ir 12 d.
+Redakcinė pastaba nurodo, kad Moldavijos vaivada Steponas į Kolomyją atvyko tarp 1485 m. rugsėjo 6 ir 12 d. Redakcinė pastaba nurodo, kad Stepono vasalinė priesaika įvyko Kolomyjoje 1485 m. rugsėjo 15 d.
 
 ## Laikotarpis ir datos
 
@@ -46,27 +46,45 @@ Nenurodyta
 - t-001
   global_id: t-186761
   teiginys: 'Per vasalinės priesaikos ceremoniją Kolomyjoje Stepono palydovų ant žemės suguldytos vėliavėlės simbolizavo jų moldaviškąsias valdas.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/algininkai|algininkai]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/autoriai/M. Strijkovskis|M. Strijkovskis]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Kolomyja; mentioned_place: Moldavija; mentioned_place: Sniatinas'
   pagrindžia:
     - c-002
 
 <a id="claim-t-186762"></a>
 - t-002
   global_id: t-186762
-  teiginys: 'Redakcinė pastaba nurodo, kad priesaikos ceremonijoje Steponas perdavė Kazimierui didelę šilkinę vėliavą su Moldavijos herbu.'
+  teiginys: 'Per priesaikos ceremoniją vaivada Steponas perdavė karaliui Kazimierui didelę šilkinę vėliavą su Moldavijos herbu.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Cituota pastaba tiesiogiai palaiko aiškų faktinį sakinį.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Herbas|Herbas]]; mentioned_object: [[objektai/zodynas/algininkai|algininkai]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]; mentioned_person: [[objektai/autoriai/M. Strijkovskis|M. Strijkovskis]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Moldavija; mentioned_place: Sniatinas'
   pagrindžia:
     - c-002
 
 <a id="claim-t-186763"></a>
 - t-003
   global_id: t-186763
-  teiginys: 'Redakcinė pastaba nurodo, kad Moldavijos vaivada Steponas į Kolomyją atvyko tarp 1485 m. rugsėjo 6 ir 12 d.'
+  teiginys: 'Redakcinėje pastaboje Moldavijos vaivados Stepono atvykimas į Kolomyją datuojamas 1485 m. rugsėjo 6-12 d.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Sakinys sutrumpintas ir išvalytas nuo perteklinio veiksmažodžio.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_person: [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]]; mentioned_place: Kolomyja; mentioned_place: Lenkija; mentioned_place: Moldavija; mentioned_place: Prutas; mentioned_place: Ukraina'
+  temporaliniai_duomenys: 'įvykio data: 1485 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Sakinys sutrumpintas ir išvalytas nuo perteklinio veiksmažodžio.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-186764"></a>
 - t-004
   global_id: t-186764
-  teiginys: 'Redakcinė pastaba nurodo, kad Stepono vasalinė priesaika įvyko Kolomyjoje 1485 m. rugsėjo 15 d.'
+  teiginys: 'Redakcinėje pastaboje Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje datuojama 1485 m. rugsėjo 15 d.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Sakinys padarytas glaustesnis ir aiškiau susietas su įvykiu.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_person: [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]]; mentioned_place: Kolomyja; mentioned_place: Lenkija; mentioned_place: Moldavija; mentioned_place: Prutas; mentioned_place: Ukraina'
+  temporaliniai_duomenys: 'įvykio data: 1485 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Sakinys padarytas glaustesnis ir aiškiau susietas su įvykiu.'
   pagrindžia:
     - c-001
 
@@ -113,12 +131,3 @@ Nenurodyta
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/M. Strijkovskis|Motiejus Strijkovskis (kronikininkas)]]
-- [[objektai/asmenys/Steponas]]
-- [[objektai/asmenys/Vladislovas Lokietka]]
-- [[objektai/zodynas/algininkai]]
-- [[objektai/zodynas/vaivada]]
-- [[objektai/zodynas/vėliava]]

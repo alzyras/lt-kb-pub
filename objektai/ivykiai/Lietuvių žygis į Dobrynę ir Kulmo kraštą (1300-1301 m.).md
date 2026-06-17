@@ -38,6 +38,11 @@ Nenurodyta
 - t-001
   global_id: t-185608
   teiginys: 'Šeši tūkstančiai lietuvių karių iš Livonijos staigiai įsiveržė į Dobrynę ir nuniokojo visą kraštą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pirminis teiginys sugadintas puslapio antraštės ir OCR fragmentų.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Dobrynė; mentioned_place: Drevanta; mentioned_place: Kulmas; mentioned_place: Livonija; mentioned_place: Ryga'
   pagrindžia:
     - c-001
 
@@ -45,6 +50,11 @@ Nenurodyta
 - t-002
   global_id: t-185609
   teiginys: 'Į Kulmo kraštą persikėlusi šimtinė lietuvių karių nuniokojo kaimus, bet vėliau patyrė pralaimėjimą ir neteko septyniasdešimties vyrų.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata palaiko aiškų faktą; pašalintas OCR ir antraštės triukšmas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Kulmas'
   pagrindžia:
     - c-002
 
@@ -108,10 +118,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/žygis]]

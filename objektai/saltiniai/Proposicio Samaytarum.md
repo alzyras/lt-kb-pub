@@ -23,6 +23,8 @@ Pasiuntiniai įteikė susirinkimui raštą (Proposicio Samay­ tarum), kuriame s
 - t-001
   global_id: t-34984
   teiginys: 'Žemaičių pasiuntiniai „Proposicio Samaytarum“ skundėsi, kad Ordinas trukdė žemaičiams priimti katalikybę.'
+  sudarymo_pagrindimas: 'Pradiniame teiginyje neaiškiai įvardyti pasiuntiniai, todėl sakinys patikslintas pagal citatą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-001
 

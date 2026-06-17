@@ -30,6 +30,11 @@ Nenurodyta
 - t-001
   global_id: t-185660
   teiginys: 'Sustiprinęs Palenkę ir Polesę, Vytautas su žmona, šeimyna, turtais ir šalininkais pasitraukė į Mazoviją pas Jonušą ir Zemovitą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir išplėsta nutrūkusi nuoroda į kunigaikščius.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Kamenecas; mentioned_place: Lenkija; mentioned_place: Mazovija; mentioned_place: Palenkė'
   pagrindžia:
     - c-001
 
@@ -37,6 +42,11 @@ Nenurodyta
 - t-002
   global_id: t-185661
   teiginys: 'Ordino magistras Konradas Celneris parėmė Vytauto sumanymus ir nutarė nepraleisti progos pradėti karą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Sakinys yra pilnas, aiškus ir paremtas citata apie karo pradžios kontekstą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Užstato daiktai Trakų žydų privilegijoje|Užstato daiktai Trakų žydų privilegijoje]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/asmenys/Konradas Celneris|Konradas Celneris]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -44,6 +54,11 @@ Nenurodyta
 - t-003
   global_id: t-185662
   teiginys: 'Vytautas užrašė kryžiuočiams visą Žemaitiją kaip užstatą, kad gautų tris šimtus tūkstančių kapų karo reikmėms.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Nutrūkęs teiginys perrašytas į pilną sakinį pagal citatą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Užstato daiktai Trakų žydų privilegijoje|Užstato daiktai Trakų žydų privilegijoje]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Nemunas; mentioned_place: Prūsija'
   pagrindžia:
     - c-003
 
@@ -135,16 +150,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Ginklai]]
-- [[objektai/asmenys/Konradas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/daiktai/Užstato daiktai Trakų žydų privilegijoje]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/asmenys/Konradas Celneris]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/asmenys/Jonušas (Mazovijos kunigaikštis)]]
-- [[objektai/asmenys/Zemovitas]]

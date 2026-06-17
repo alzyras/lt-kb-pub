@@ -20,9 +20,12 @@ Jau Ptolemajas II a.
 - t-001
   global_id: t-17607
   teiginys: 'Ptolemajas II a. žinojo galindus ir jotvingius, arba sūduvius.'
+  sudarymo_pagrindimas: 'Perrašyta sklandžiau, pašalinant neaiškią formuluotę apie gentį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Galindai|Galindai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_group: [[objektai/grupes/Žiemgaliai|Žiemgaliai]]; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
-
+- susijęs iš Geografija: Klaudijas Ptolemajas „Geografijoje“ pateikė galindų ir sūdinų vardus kaip du neabejotinus baltų kilčių vardus.
+- susijęs iš Geografija: Klaudijas Ptolemajas „Geografijoje“ pateikė galindų ir sūdinų vardus kaip du neabejotinus baltų kilčių vardus.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -37,10 +40,3 @@ Jau Ptolemajas II a.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Baltai]]
-- [[objektai/grupes/Galindai]]
-- [[objektai/grupes/Žiemgaliai]]
-- [[objektai/grupes/Sūduviai]]

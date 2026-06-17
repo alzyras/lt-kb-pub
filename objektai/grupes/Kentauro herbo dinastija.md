@@ -18,6 +18,11 @@ Bychovco kronikos pasakojime, išmirus Kentauro herbo dinastijos kunigaikščiam
 - t-001
   global_id: t-187771
   teiginys: 'Bychovco kronikos pasakojime, išmirus Kentauro herbo dinastijos kunigaikščiams, Lietuvos sostas atiteko Vyteniui.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Sakinys gramatiškas ir tinkamai atribuuoja legendinį Bychovco kronikos pasakojimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Romėnai|Romėnai]]; mentioned_object: [[objektai/daiktai/Herbas|Herbas]]; mentioned_object: [[objektai/daiktai/Kentauras|Kentauras]]; mentioned_person: [[objektai/asmenys/Palemonas|Palemonas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -43,13 +48,3 @@ Bychovco kronikos pasakojime, išmirus Kentauro herbo dinastijos kunigaikščiam
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Herbas]]
-- [[objektai/daiktai/Kentauras]]
-- [[objektai/daiktai/Kentauro herbas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Palemonas]]
-- [[objektai/grupes/Romėnai]]
-- [[objektai/grupes/Gediminaičių dinastija]]

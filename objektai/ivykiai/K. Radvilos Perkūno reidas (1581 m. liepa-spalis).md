@@ -42,6 +42,11 @@ Nenurodyta
 - t-001
   global_id: t-78613
   teiginys: '1581 m. rugpjūčio 25 d. Kristupo Radvilos pajėgos nusiaubė Rževo apylinkes, sudegino Urdomo miestą ir pasuko Staricos link.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_person: [[objektai/asmenys/Ivanas|Ivanas]]; mentioned_place: Pskovas; mentioned_place: Rusija; mentioned_place: Rževas; mentioned_place: Starica; mentioned_place: Urdomas; mentioned_place: Volga'
+  temporaliniai_duomenys: 'įvykio data: 1581 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-002
 
@@ -49,6 +54,9 @@ Nenurodyta
 - t-002
   global_id: t-78614
   teiginys: '1581 m. Kristupas Radvila Perkūnas prie Šelomos upės sumušė rusų dalinį ir pasuko į Rusijos gilumą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Kristupas Radvila|Kristupas Radvila]]; mentioned_person: [[objektai/asmenys/Kristupas Radvila Perkūnas|Kristupas Radvila Perkūnas]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Rusija; mentioned_place: Rževas'
+  temporaliniai_duomenys: 'įvykio data: 1581 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -56,6 +64,8 @@ Nenurodyta
 - t-003
   global_id: t-78615
   teiginys: 'Kristupas Radvila nusprendė imtis iniciatyvos ir pasuko Rževo link, į Rusijos teritorijos gilumą.'
+  sudarymo_pagrindimas: 'Reikia išplėsti pavardę iki aiškaus asmens vardo.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Kristupas Radvila|Kristupas Radvila]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Rusija; mentioned_place: Rževas'
   pagrindžia:
     - c-001
 
@@ -63,6 +73,11 @@ Nenurodyta
 - t-004
   global_id: t-78616
   teiginys: 'Kristupo Radvilos pajėgos nusiaubė Dubno ir Opokos apylinkes, užėmė Cholmą ir sudegino Starają Rusą.'
+  sudarymo_pagrindimas: 'Pradinis teiginys netiksliai apibendrina vietoves; citata leidžia tikslesnį faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Cholmas; mentioned_place: Dubnas; mentioned_place: Pskovas'
+  temporaliniai_duomenys: 'įvykio data: 1581 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys netiksliai apibendrina vietoves; citata leidžia tikslesnį faktą.'
   pagrindžia:
     - c-003
 
@@ -70,6 +85,9 @@ Nenurodyta
 - t-005
   global_id: t-78617
   teiginys: 'Radvilos pajėgos nusiaubė Rževo, Toropeco ir Staricos apylinkes, o Ivanas IV buvo priverstas evakuoti savo šeimą ir dvarą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_person: [[objektai/asmenys/Ivanas|Ivanas]]; mentioned_place: Pskovas; mentioned_place: Rusija; mentioned_place: Rževas; mentioned_place: Starica; mentioned_place: Toropecas; mentioned_place: Urdomas; mentioned_place: Volga'
+  temporaliniai_duomenys: 'įvykio data: 1581 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 
@@ -77,9 +95,20 @@ Nenurodyta
 - t-006
   global_id: t-78618
   teiginys: 'Kristupo Radvilos Perkūno reido metu lietuvių pajėgos nusiaubė Dubno apylinkes, užėmė Cholmą, sudegino Starają Rusą ir nusiaubė Opokos apylinkes.'
+  sudarymo_pagrindimas: 'Pašalintas OCR ir puslapio antraštės triukšmas, palikti citatos faktai.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Dubnas; mentioned_place: Pskovas'
+  temporaliniai_duomenys: 'įvykio data: 1581 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas OCR ir puslapio antraštės triukšmas, palikti citatos faktai.'
   pagrindžia:
     - c-003
-
+- susijęs iš [[objektai/asmenys/Steponas Batoras.md#claim-t-113968|Steponas Batoras]]: Steponas Batoras plačiai naudojo Vilniaus patrankų liejykloje pagamintus pabūklus karuose su Maskva.
+- susijęs iš [[objektai/asmenys/Steponas Batoras.md#claim-t-113987|Steponas Batoras]]: Steponas Batoras rūpinosi Žygimanto Augusto įsteigta Vilniaus patrankų liejykla ir naudojo jos pabūklus karuose su Maskva.
+- susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
+- susijęs iš Opokos apylinkės: 1581 m. K. Radvilos Perkūno reido metu buvo nusiaubtos Opokos apylinkės.
+- susijęs iš Staraja Rusa: Starajos Rusos miestas buvo sudegintas, o jo įgula sunaikinta.
+- susijęs iš Staraja Rusa: Per 1581 m. reidą K. Radvila sudegino Starają Rusą ir sunaikino jos įgulą.
+- susijęs iš Toropecas: Rugsėjo 9 d. lietuviai susirėmė su Toropeco įgula ir nukovė 200 rusų šaulių.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -163,18 +192,3 @@ Nenurodyta
   pagrindžia:
     - t-006
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Didžiojo Naugardo respublika]]
-- [[objektai/asmenys/Ivanas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Radvila]]
-- [[objektai/grupes/Radvilos]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/zodynas/įgula]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/autoriai/Karolis Zikaras]]
-- [[objektai/asmenys/Steponas Batoras]]
-- [[objektai/asmenys/Kristupas Radvila]]
-- [[objektai/asmenys/Kristupas Radvila Perkūnas]]

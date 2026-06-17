@@ -28,6 +28,11 @@ Tos dotacijos Vil­ niaus vyskupijai nuorašo vertimas iš lotynų kalbos, atlik
 - t-001
   global_id: t-88058
   teiginys: 'Grigalius Kniaževičius iš lotynų kalbos išvertė Vilniaus vyskupijos dotacijos nuorašą, išspausdintą 1822 m. „Dzieje dobroczynności“.'
+  sudarymo_pagrindimas: 'Teiginys paremtas citata, bet reikėjo pašalinti laužymus ir sutrumpinti.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_object: [[objektai/zodynas/nuorašas|nuorašas]]; mentioned_person: [[objektai/asmenys/Grigalius (vicekancleris)|Grigalius (vicekancleris)]]; mentioned_place: Rūdninkai; mentioned_place: Trakai; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1822 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys paremtas citata, bet reikėjo pašalinti laužymus ir sutrumpinti.'
   pagrindžia:
     - c-001
 
@@ -60,10 +65,3 @@ Tos dotacijos Vil­ niaus vyskupijai nuorašo vertimas iš lotynų kalbos, atlik
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lotynai]]
-- [[objektai/zodynas/kapitula]]
-- [[objektai/zodynas/kunigas]]
-- [[objektai/zodynas/nuorašas]]

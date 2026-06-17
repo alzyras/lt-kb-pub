@@ -31,6 +31,11 @@ Dusburgietis teigia, kad apie Sicilijos karalystės dovanojimą Karoliui 1263 vi
 - t-001
   global_id: t-60040
   teiginys: '1265 m. popiežius Klemensas IV apvainikavo Karolį Sicilijos karaliumi.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys, tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_person: [[objektai/asmenys/Klemensas IV|Klemensas IV]]'
+  temporaliniai_duomenys: 'įvykio data: 1265 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys, tiesiogiai paremtas citata.'
   pagrindžia:
     - c-002
 
@@ -38,6 +43,11 @@ Dusburgietis teigia, kad apie Sicilijos karalystės dovanojimą Karoliui 1263 vi
 - t-002
   global_id: t-60041
   teiginys: '1263 m. popiežius Urbonas atidavė Sicilijos karalystę Karoliui, Provanso grafui ir Prancūzijos karaliaus broliui.'
+  sudarymo_pagrindimas: 'Teiginys yra išbaigtas, taisyklingas ir atitinka citatos informaciją.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Manfredas|Manfredas]]; mentioned_place: Prancūzija'
+  temporaliniai_duomenys: 'įvykio data: 1263 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra išbaigtas, taisyklingas ir atitinka citatos informaciją.'
   pagrindžia:
     - c-001
 
@@ -45,6 +55,11 @@ Dusburgietis teigia, kad apie Sicilijos karalystės dovanojimą Karoliui 1263 vi
 - t-003
   global_id: t-60042
   teiginys: '1268 m. Karolis, Sicilijos karalius, paėmė į nelaisvę ir nugalabijo Konradiną, imperatoriaus Fridricho II anūką.'
+  sudarymo_pagrindimas: 'Teiginys gramatiškas, konkretus ir paremtas pateikta citata.'
+  susije_objektai: 'mentioned_place: Vokietija'
+  temporaliniai_duomenys: 'įvykio data: 1268 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys gramatiškas, konkretus ir paremtas pateikta citata.'
   pagrindžia:
     - c-003
 
@@ -96,9 +111,3 @@ Dusburgietis teigia, kad apie Sicilijos karalystės dovanojimą Karoliui 1263 vi
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Karolis]]
-- [[objektai/asmenys/Klemensas IV]]
-- [[objektai/asmenys/Fridrichas II]]

@@ -27,9 +27,14 @@ Vartojamos formos: `įšleiti`, `įšleitėj`.
 - t-001
   global_id: t-70421
   teiginys: '`Įšleitė` šiame tekste reiškia geografinę sritį, panašią į pašlaitę, slėnį ar įdubą.'
+  susije_objektai: 'mentioned_place: Isteris'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/grupes/Egiptiečiai.md#claim-t-07832|Egiptiečiai]]: Egiptiečiai buvo viena tautų, su kuriomis gilioje senovėje Lietuvos tauta turėjo pažinčių ir prekiavo.
+- susijęs iš [[objektai/grupes/Finikiečiai.md#claim-t-07833|Finikiečiai]]: Finikiečiai buvo viena tautų, su kuriomis gilioje senovėje Lietuvos tauta turėjo pažinčių ir prekiavo.
+- susijęs iš Isteris: Isteris, arba Dunojus, yra viena iš didžiųjų pietinės įšleities upių.
+- susijęs iš Žalioji giria: Žalioji giria dengė vakarinę daugiau kaip šimtą mylių į rytus ir vakarus nusidriekusios kalvos pusę.
+- susijęs iš Žemaičių jūra: Į Žemaičių jūrą tekėjo šiaurinės kalvos įšleitės upės, tarp jų Daugava, Nemunas, Pragaras ir Isla.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -43,9 +48,3 @@ Vartojamos formos: `įšleiti`, `įšleitėj`.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Medė|medė]]
-- [[objektai/grupes/Egiptiečiai]]
-- [[objektai/grupes/Finikiečiai]]

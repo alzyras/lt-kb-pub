@@ -43,6 +43,12 @@ Nenurodyta
 - t-001
   global_id: t-62452
   teiginys: '1315 m. apie rugpjūčio 15 d. lietuviai iš Žemaitijos slapta atžygiavo prie Ragainės pilies ir ją užpuolė.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pašalintas nereikalingas šaltinio įvardijimas ir OCR liekana.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_place: Ragainė'
+  temporaliniai_duomenys: 'įvykio data: 1315 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas nereikalingas šaltinio įvardijimas ir OCR liekana.'
   pagrindžia:
     - c-001
 
@@ -66,10 +72,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Skalviai]]
-- [[objektai/zodynas/netikėliai]]
-- [[objektai/asmenys/Jonas, vadinamas Pope]]

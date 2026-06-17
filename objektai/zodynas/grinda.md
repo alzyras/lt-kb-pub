@@ -22,6 +22,8 @@ Dusburgietis teigia, kad už pelkės tilto prie grindos247, prie dabartinio vie�
 - t-001
   global_id: t-58848
   teiginys: 'Prie grindos ir dabartinio vieškelio broliai sutvirtino malūną kaip pilį ir paliko jame sargybą.'
+  sudarymo_pagrindimas: 'Pradinis teiginys yra fragmentiškas; citata pagrindžia sakinį apie vietą prie grindos.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_place: Prūsai'
   pagrindžia:
     - c-002
 
@@ -29,6 +31,8 @@ Dusburgietis teigia, kad už pelkės tilto prie grindos247, prie dabartinio vie�
 - t-002
   global_id: t-58849
   teiginys: 'Prie Baigos per vandenis ir pelkę ėjęs grįstas kelias buvo greičiausiai panašus į žemaičių kūlgrindas.'
+  sudarymo_pagrindimas: 'Citata yra paaiškinamoji pastaba su OCR triukšmu; ji pagrindžia sutvarkytą faktinį sakinį.'
+  susije_objektai: 'mentioned_place: Baiga'
   pagrindžia:
     - c-001
 
@@ -60,8 +64,3 @@ Dusburgietis teigia, kad už pelkės tilto prie grindos247, prie dabartinio vie�
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Malūnas]]
-- [[objektai/zodynas/ginklanešiai]]

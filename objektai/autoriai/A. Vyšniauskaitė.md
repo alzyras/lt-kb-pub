@@ -20,7 +20,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Vyšniauskaitė.— V., 1964.
+Dusburgietis teigia, kad vyšniauskaitė.— V., 1964.
 
 ## Teiginiai
 
@@ -28,9 +28,11 @@ Vyšniauskaitė.— V., 1964.
 - t-001
   global_id: t-60669
   teiginys: 'Vyšniauskaitė.— V., 1964.'
+  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-001
-
+- susijęs iš Lietuvių etnografijos bruožai Redagavo A. Vyšniauskaitė: A. Vyšniauskaitė redagavo 1964 m. išleistus „Lietuvių etnografijos bruožus“.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -43,7 +45,3 @@ Vyšniauskaitė.— V., 1964.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]

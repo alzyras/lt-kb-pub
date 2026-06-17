@@ -48,6 +48,8 @@ Nenurodyta
 - t-001
   global_id: t-47822
   teiginys: 'Per Rygą Lietuva iš Vakarų gaudavo būtinų prekių, tarp jų druskos, vilnonių medžiagų ir geležies.'
+  sudarymo_pagrindimas: 'Sakinys sutrumpintas ir aiškiai siejamas su vilnonėmis medžiagomis.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Ryga'
   pagrindžia:
     - c-001
 
@@ -55,6 +57,7 @@ Nenurodyta
 - t-002
   global_id: t-47823
   teiginys: 'Per Rygą Lietuva iš Vakarų gaudavo būtiniausių dalykų, tarp jų druską, vilnones medžiagas ir geležį.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Ryga'
   pagrindžia:
     - c-001
 
@@ -76,8 +79,3 @@ Nenurodyta
   pagrindžia:
     - t-001
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Gediminas]]
-- [[objektai/daiktai/Druska]]

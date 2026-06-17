@@ -22,6 +22,8 @@ tags:
 - t-001
   global_id: t-87644
   teiginys: 'Vilniaus burmistras Charitonas Charotičius gavo patvirtinimą žemei Maišiagalos ir Rudaminos paviete pagal karaliaus Aleksandro jo broliui duotą privilegiją.'
+  sudarymo_pagrindimas: 'Teiginys paremtas citata, bet pradiniame tekste yra OCR triukšmo ir fragmentiškumo.'
+  susije_objektai: 'mentioned_place: Maišiagala; mentioned_place: Rudamina; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

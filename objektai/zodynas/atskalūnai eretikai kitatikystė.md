@@ -28,6 +28,11 @@ amziai:
 - t-001
   global_id: t-86513
   teiginys: '1542 m. Vilniuje išleistas dekretas suteikė Vilniaus ir kitiems Lietuvos vyskupams valdžią tirti ir bausti atskalūnus.'
+  sudarymo_pagrindimas: 'Pradinis sakinys nutrūkęs; citata remia aiškų enciklopedinį teiginį.'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1542 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis sakinys nutrūkęs; citata remia aiškų enciklopedinį teiginį.'
   pagrindžia:
     - c-001
 

@@ -3,10 +3,18 @@ tipas: asmuo
 pavadinimas: 'J. Aukštuolaitis'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+datos:
+  - '1919 m.'
+date_start: '1919'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'modernioji Lietuva'
 ---
 # J. Aukštuolaitis
 
@@ -20,6 +28,9 @@ Tačiau pirmaisiais saksų savanoriais ne visuomet buvo galima pasitikėti, riuo
 - t-001
   global_id: t-40151
   teiginys: 'J. Aukštuolaitis vadovavo Tauragėje besikūrusiam Žemaičių batalionui, kuris netrukus buvo išformuotas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/Savanoris|Savanoris]]; mentioned_object: [[objektai/zodynas/avantiūristas|avantiūristas]]; mentioned_object: [[objektai/zodynas/komendantūra|komendantūra]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Gardinas; mentioned_place: Kaunas; mentioned_place: Kėdainiai; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: po 1919 m.; įvykio data: 1919 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -56,12 +67,3 @@ Tačiau pirmaisiais saksų savanoriais ne visuomet buvo galima pasitikėti, riuo
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Savanoris]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/avantiūristas]]
-- [[objektai/zodynas/komendantūra]]
-- [[objektai/zodynas/Miera|miera]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

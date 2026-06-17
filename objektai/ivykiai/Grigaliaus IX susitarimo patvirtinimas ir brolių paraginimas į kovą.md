@@ -45,6 +45,12 @@ Nenurodyta
 - t-001
   global_id: t-62796
   teiginys: '1230 m. popiežius Grigalius IX patvirtino susitarimą su Teutonų ordino broliais ir paragino juos kovoti.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_person: [[objektai/asmenys/Grigalius (vicekancleris)|Grigalius (vicekancleris)]]; mentioned_person: [[objektai/asmenys/Grigalius IX|Grigalius IX]]; mentioned_place: Lenkija'
+  temporaliniai_duomenys: 'įvykio data: 1230 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
     - c-002
@@ -53,6 +59,9 @@ Nenurodyta
 - t-002
   global_id: t-62797
   teiginys: 'Popiežius Grigalius IX patvirtino susitarimą su Teutonų ordino broliais ir įpareigojo juos atgauti krikščionims priklausančias žemes.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytą popiežiaus veiksmą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_person: [[objektai/asmenys/Grigalius (vicekancleris)|Grigalius (vicekancleris)]]; mentioned_person: [[objektai/asmenys/Grigalius IX|Grigalius IX]]; mentioned_place: Lenkija'
   pagrindžia:
     - c-001
     - c-003
@@ -113,11 +122,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Grigalius (vicekancleris)]]
-- [[objektai/grupes/Teutonai]]
-- [[objektai/zodynas/netikėliai]]
-- [[objektai/asmenys/Grigalius IX]]
-- [[objektai/grupes/Kryžiuočių ordinas]]

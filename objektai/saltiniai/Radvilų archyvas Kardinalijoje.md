@@ -28,6 +28,11 @@ Moks­ lininkui ir gerbiamam bičiuliui Mikalojui Malinovskiui dėkingas už gal
 - t-001
   global_id: t-88326
   teiginys: 'Radvilų archyve Kardinalijoje buvęs 1493 m. aktas buvo surašytas gryna slavų kalba ir puikiai išsilaikęs.'
+  sudarymo_pagrindimas: 'Antraštinis triukšmas pakeistas citatos palaikomu faktu apie archyve buvusį aktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_person: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]; mentioned_place: Kardinalija; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1493 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Antraštinis triukšmas pakeistas citatos palaikomu faktu apie archyve buvusį aktą.'
   pagrindžia:
     - c-002
 
@@ -35,6 +40,8 @@ Moks­ lininkui ir gerbiamam bičiuliui Mikalojui Malinovskiui dėkingas už gal
 - t-002
   global_id: t-88327
   teiginys: 'Radvilų archyve Kardinalijoje buvo saugomi vertingi istorijos šaltiniai, prie kurių prieigą palengvino Mikalojus Malinovskis.'
+  sudarymo_pagrindimas: 'Citata palaiko archyvo reikšmę ir Malinovskio vaidmenį suteikiant prieigą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/senatas|senatas]]; mentioned_person: [[objektai/asmenys/Adomas (auksakalys)|Adomas (auksakalys)]]; mentioned_person: [[objektai/asmenys/Mikalojus Malinovskis|Mikalojus Malinovskis]]; mentioned_person: [[objektai/asmenys/Pranciškus|Pranciškus]]; mentioned_place: Kardinalija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

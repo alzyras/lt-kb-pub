@@ -27,6 +27,9 @@ Sokolovski, Dr.
 - t-001
   global_id: t-36113
   teiginys: 'Dr. Pr. Aug. Sokolovskio „Dzieje Polski“ antrasis tomas buvo išleistas Varšuvoje 1900 m.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Varšuva'
+  temporaliniai_duomenys: 'įvykio data: 1900 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

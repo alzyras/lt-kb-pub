@@ -30,9 +30,15 @@ Prūsijos ordi­ nas iš sykio griebėsi tos patogios progos pradėti karą ir n
 - t-001
   global_id: t-87535
   teiginys: 'Konradas Jungingenas kartu su Švitrigaila įsibrovė į Lietuvą ir niokojo žemes nuo Gardino apylinkių iki Šalčininkų.'
+  sudarymo_pagrindimas: 'Citata palaiko Konrado Jungingeno dalyvavimą žygyje į Lietuvą ir nurodo niokotas vietoves.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Ulrichas von Jungingenas|Ulrichas von Jungingenas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Panemunė; mentioned_place: Prūsija; mentioned_place: Vilnius; mentioned_place: Šalčininkai'
+  temporaliniai_duomenys: 'įvykio data: 1394 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko Konrado Jungingeno dalyvavimą žygyje į Lietuvą ir nurodo niokotas vietoves.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176655|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1398 m. spalio 12 d. Salyne Vytautas ir Konradas Jungingenas galutinai patvirtino sutartį.
+- susijęs iš [[objektai/ivykiai/Salyno sutartis.md#claim-t-66871|Salyno sutartis]]: 1398 m. balandžio 23 d. Gardine buvo surašyta preliminarinė taika, o spalio 12 d. Salyne Vytautas ir Konradas Jungingenas galutinai patvirtino sutartį.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -57,10 +63,3 @@ Prūsijos ordi­ nas iš sykio griebėsi tos patogios progos pradėti karą ir n
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/daiktai/Žirgai]]
-- [[objektai/ivykiai/Salyno sutartis]]

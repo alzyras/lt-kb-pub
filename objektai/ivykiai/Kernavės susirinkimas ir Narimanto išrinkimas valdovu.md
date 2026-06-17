@@ -30,6 +30,11 @@ Nenurodyta
 - t-001
   global_id: t-185713
   teiginys: 'Valdovo ir kariuomenės netekę lietuvių didikai sukvietė Kernavės susirinkimą valstybės vidaus reikalams kuo greičiau sutvarkyti.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata palaiko faktą, bet pradžia su autoriumi nereikalinga.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)|Narimantas (Pinsko kunigaikštis)]]; mentioned_person: [[objektai/asmenys/Traidenis|Traidenis]]; mentioned_person: [[objektai/asmenys/Trobius|Trobius]]; mentioned_place: Kernavė'
   pagrindžia:
     - c-001
 
@@ -68,10 +73,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]]
-- [[objektai/asmenys/Traidenis|Traidenis (valdovas, XIII a.)]]
-- [[objektai/asmenys/Trobius]]

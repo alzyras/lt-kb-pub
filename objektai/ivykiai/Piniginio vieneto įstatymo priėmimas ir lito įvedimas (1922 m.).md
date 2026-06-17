@@ -48,6 +48,7 @@ Nenurodyta
 - t-001
   global_id: t-23350
   teiginys: 'Piniginio vieneto įstatymas skelbė litą auksu paremtu Lietuvos piniginiu vienetu, sudarytu iš 100 centų.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/litas|litas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -55,6 +56,11 @@ Nenurodyta
 - t-002
   global_id: t-23351
   teiginys: '1922 m. spalio 1 d. Lietuvoje įvestas litas.'
+  sudarymo_pagrindimas: 'Teiginys yra trumpas, pilnas ir tiesiogiai pagrįstas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Steigiamasis seimas|Steigiamasis seimas]]; mentioned_object: [[objektai/zodynas/litas|litas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1922 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra trumpas, pilnas ir tiesiogiai pagrįstas citata.'
   pagrindžia:
     - c-002
 
@@ -62,6 +68,9 @@ Nenurodyta
 - t-003
   global_id: t-23352
   teiginys: 'Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Piniginio vieneto įstatymą, kuris skelbė, kad piniginis Lietuvos vienetas yra auksu paremtas litas, kurį sudaro 100 centų.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Steigiamasis seimas|Steigiamasis seimas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1922 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -113,14 +122,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/politinis-sprendimas]]
-
-### Susiję objektai
-- [[objektai/grupes/Steigiamasis seimas]]
-- [[objektai/zodynas/litas]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/daiktai/Lietuvos pinigai]]
-- [[objektai/zodynas/ostmarkės auksinai]]

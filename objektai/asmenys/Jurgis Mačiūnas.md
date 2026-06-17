@@ -30,6 +30,11 @@ Fantazuokime toliau: su dirigentų Sauliaus Sondeckio, Gintaro Rinkevičiaus ir 
 - t-001
   global_id: t-63776
   teiginys: 'Jurgis Mačiūnas citatoje įvardijamas kaip „Fluxus“ kūrėjas tarp su Lietuva siejamų garsių vardų.'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo ne apie Jurgį Mačiūną, bet citata palaiko faktą apie jo vaidmenį.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Gintaras|Gintaras]]; mentioned_person: [[objektai/asmenys/Chaim Soutin|Chaim Soutin]]; mentioned_person: [[objektai/asmenys/Jascha Heifetz|Jascha Heifetz]]; mentioned_person: [[objektai/asmenys/Victor David Brenner|Victor David Brenner]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Prancūzija; mentioned_place: Tryškiai; mentioned_place: Turkija; mentioned_place: Vilnius; mentioned_place: Šiauliai'
+  temporaliniai_duomenys: 'įvykio data: 1901 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys buvo ne apie Jurgį Mačiūną, bet citata palaiko faktą apie jo vaidmenį.'
   pagrindžia:
     - c-001
 
@@ -61,9 +66,3 @@ Fantazuokime toliau: su dirigentų Sauliaus Sondeckio, Gintaro Rinkevičiaus ir 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Gintaras]]
-- [[objektai/daiktai/JAV vieno cento moneta]]
-- [[objektai/posakiai/„idealiąją Lietuvą“]]

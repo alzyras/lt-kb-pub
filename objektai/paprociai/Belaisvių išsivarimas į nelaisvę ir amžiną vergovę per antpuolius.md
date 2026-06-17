@@ -41,6 +41,9 @@ Nenurodyta
 - t-001
   global_id: t-62669
   teiginys: 'Per prūsų antpuolį prie Fogelzango vyrai buvo išžudyti, o moterys ir vaikai išvaryti į amžiną nelaisvę.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Sakinys sutrumpintas, pašalinta neaiški nuoroda „šitai pastebėję“.'
+  susije_objektai: 'mentioned_place: Kulmenzė; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
     - c-002
@@ -79,7 +82,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/Kulmenzės javapjūtės žudynės]]

@@ -28,6 +28,11 @@ Dusburgietis teigia, kad prätorius M.
 - t-001
   global_id: t-61258
   teiginys: 'M. Prätoriaus „Deliciae Prussicae oder Preussische Schaubühne“ rankraščio ištraukas 1871 m. Berlyne išleido W. Piersonas.'
+  sudarymo_pagrindimas: 'Citata pagrindžia leidinio, redaktoriaus ir leidimo vietos bei metų faktus.'
+  susije_objektai: 'mentioned_place: Berlynas'
+  temporaliniai_duomenys: 'įvykio data: 1871 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia leidinio, redaktoriaus ir leidimo vietos bei metų faktus.'
   pagrindžia:
     - c-001
 

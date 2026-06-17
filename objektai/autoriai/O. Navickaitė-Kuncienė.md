@@ -29,6 +29,9 @@ Navickaitė-Kuncienė, O. Navickaitė, O.
 - t-001
   global_id: t-30884
   teiginys: 'O. Navickaitė-Kuncienė 1966 m. paskelbė darbą apie seniausių X-XIII a. svorio matų sistemų Lietuvoje klausimą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kailiai|Kailiai]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1966 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -36,6 +39,9 @@ Navickaitė-Kuncienė, O. Navickaitė, O.
 - t-002
   global_id: t-30885
   teiginys: 'O. Navickaitė paskelbė darbą apie Veršvų kapinyno laidojimo papročius.'
+  susije_objektai: 'mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1948-1958; įvykio data: 1958 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 

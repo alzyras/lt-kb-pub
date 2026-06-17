@@ -5,8 +5,9 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1920 m.'
+  - '1926 m.'
 date_start: '1920'
-date_end: ''
+date_end: '1926'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -28,6 +29,11 @@ Nors paktas minėjo Lietuvos ir Sovietų Rusijos 1920 m. ir 1926 m. sutartis kai
 - t-001
   global_id: t-21156
   teiginys: 'SSRS ir Lietuvos savitarpio pagalbos sutartis rėmėsi 1920 m. ir 1926 m. Lietuvos bei Sovietų Rusijos sutartimis kaip baziniais dokumentais.'
+  sudarymo_pagrindimas: 'Citata pagrindžia paminėjimą, bet pradinis teiginys buvo per ilgas ir mažiau aiškus.'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: SSRS; mentioned_place: Vilnius; mentioned_place: Vokietija'
+  temporaliniai_duomenys: 'sutarties data: 1920 m.; sutarties data: 1926 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia paminėjimą, bet pradinis teiginys buvo per ilgas ir mažiau aiškus.'
   pagrindžia:
     - c-001
 

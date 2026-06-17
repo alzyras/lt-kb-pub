@@ -14,7 +14,7 @@ tags:
 
 ## Santrauka
 
-LDK kariuomenė sutiko laikinai paklusti Stanislovui Liubomirskiui tik karalaičiui Vladislovui ją įkalbėjus.
+Vėliau, kai kariai sužinojo apie savo vado mirtį, lietuvių kariuomenė nenorėjo paklusti karalystės didžiajam etmonui Stanislovui Liubomirskiui, tik karalaičiui Vladislovui įkalbėjus LDK kariuomenė sutiko jam laikinai paklusti.
 
 ## Teiginiai
 
@@ -22,6 +22,8 @@ LDK kariuomenė sutiko laikinai paklusti Stanislovui Liubomirskiui tik karalaič
 - t-001
   global_id: t-40442
   teiginys: 'LDK kariuomenė sutiko laikinai paklusti Stanislovui Liubomirskiui tik karalaičiui Vladislovui ją įkalbėjus.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/zodynas/husarai|husarai]]; mentioned_place: Chotinas; mentioned_place: Venecija'
   pagrindžia:
     - c-001
 
@@ -57,11 +59,3 @@ LDK kariuomenė sutiko laikinai paklusti Stanislovui Liubomirskiui tik karalaič
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Artilerija]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Lietuvos kariuomenė]]
-- [[objektai/zodynas/husarai]]

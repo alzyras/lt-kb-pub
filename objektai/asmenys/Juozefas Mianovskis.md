@@ -23,6 +23,8 @@ Atrodo, kad anoji liejykla buvusi toje vieto­ je, kur dabar stovi Medicinos Chi
 - t-001
   global_id: t-87737
   teiginys: 'Juzefo Mianovskio užmiesčio namas, pramintas Belvederiu, stovėjo spėjamoje senosios liejyklos vietoje.'
+  sudarymo_pagrindimas: 'Citata patvirtina namo pavadinimą ir siejamą vietą; pradinis tekstas buvo OCR fragmentas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Skyrai|Skyrai]]; mentioned_place: Lenkija; mentioned_place: Venecija; mentioned_place: Vilija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -55,7 +57,3 @@ Atrodo, kad anoji liejykla buvusi toje vieto­ je, kur dabar stovi Medicinos Chi
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Skyrai]]

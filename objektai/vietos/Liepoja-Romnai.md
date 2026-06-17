@@ -20,6 +20,8 @@ Septintąjį–aštuntąjį dešimtmeti Lietuvą perkerta geležinkelis Peterbur
 - t-001
   global_id: t-21555
   teiginys: 'Septintąjį–aštuntąjį dešimtmetį Lietuvą kirto geležinkelio linija Liepoja–Romnai.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir turi rašybos klaidą, citata pagrindžia glaustesnį sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Nemunas'
   pagrindžia:
     - c-001
 

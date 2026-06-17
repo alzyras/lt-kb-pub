@@ -9,10 +9,10 @@ date_start: '1918'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XX'
 tags:
   - ivykis
+amziai:
+  - 'XX'
 ---
 # Lietuvos nepriklausomybės pripažinimo aktas (1918 m. kovo 23 d.)
 
@@ -33,18 +33,22 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 <a id="claim-t-01732"></a>
 - t-001
   global_id: t-01732
   teiginys: '1918 m. kovo 23 d. kaizeris Vilhelmas II pasirašė Lietuvos nepriklausomybės pripažinimo aktą, susiedamas jį su artimais santykiais su Vokietija.'
+  sudarymo_pagrindimas: 'Citata tiesiogiai pagrindžia pripažinimo akto pasirašymą ir jo sąlygą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Vilhelmas|Vilhelmas]]; mentioned_place: Lietuva; mentioned_place: Vokietija'
+  temporaliniai_duomenys: 'įvykio data: 1918 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata tiesiogiai pagrindžia pripažinimo akto pasirašymą ir jo sąlygą.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1918 m. kovo 23 d. kaizeris Vilhelmas II pasirašė Lietuvos nepriklausomybės pripažinimo aktą, susiedamas jį su artimais santykiais su Vokietija.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kovo mėn.
@@ -55,15 +59,8 @@ Nenurodyta
     kaizeris Vilhelmas II tą pačią dieną pasirašė pripažinimo aktą,
     surišdamas tą pripažinimą su artimų santykių užmezgimu su
     Vokietija.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Vilhelmas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

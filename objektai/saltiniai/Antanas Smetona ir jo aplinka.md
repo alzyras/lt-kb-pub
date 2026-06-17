@@ -4,9 +4,10 @@ pavadinimas: 'Antanas Smetona ir jo aplinka'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
+  - '1990 m.'
   - '1991 m.'
   - '2012 m.'
-date_start: '1991'
+date_start: '1990'
 date_end: '2012'
 sukurta: ''
 atnaujinta: ''
@@ -28,6 +29,11 @@ Antanas Smetona ir jo aplinka. Eidinto knygos „Antanas Smetona ir jo aplinka�
 - t-001
   global_id: t-75438
   teiginys: 'A. Eidinto knyga „Antanas Smetona ir jo aplinka“ išleista Vilniuje 2012 m.'
+  sudarymo_pagrindimas: 'Pradinis tekstas yra fragmentas, bet citata pagrindžia bibliografinį faktą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/diplomatija|diplomatija]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/autoriai/Alfonsas Eidintas|Alfonsas Eidintas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: po 1990 m.; įvykio data: 1990 m.; įvykio data: 2012 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis tekstas yra fragmentas, bet citata pagrindžia bibliografinį faktą.'
   pagrindžia:
     - c-001
 
@@ -35,6 +41,11 @@ Antanas Smetona ir jo aplinka. Eidinto knygos „Antanas Smetona ir jo aplinka�
 - t-002
   global_id: t-75439
   teiginys: 'A. Eidinto knyga „Antanas Smetona ir jo aplinka“ išleista Vilniuje 2012 metais.'
+  sudarymo_pagrindimas: 'Pašalintas nutrūkęs fragmentas ir paliktas citatos palaikomas bibliografinis faktas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/diplomatija|diplomatija]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/autoriai/Alfonsas Eidintas|Alfonsas Eidintas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: po 1990 m.; įvykio data: 1990 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas nutrūkęs fragmentas ir paliktas citatos palaikomas bibliografinis faktas.'
   pagrindžia:
     - c-001
 

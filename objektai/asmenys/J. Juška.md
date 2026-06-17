@@ -10,6 +10,7 @@ tags:
   - karas
   - miestas
   - mūšis
+  - transportas
 ---
 # J. Juška
 
@@ -23,9 +24,11 @@ Juška: „Daug tą dieną žuvo mūsiškių, bet gal ne mažiau žuvo ir okupan
 - t-001
   global_id: t-40156
   teiginys: 'J. Juška prisiminė, kad tą dieną žuvo daug savųjų ir gal ne mažiau okupantų karių.'
+  susije_objektai: 'mentioned_object: [[objektai/posakiai/karas po karo|karas po karo]]'
   pagrindžia:
     - c-001
-
+- susijęs iš J. Juškos pasakojimas apie Ažagų-Eimuliškio miško kautynes: J. Juška teigė, kad Ažagų-Eimuliškio miško kautynėse okupantų pajėgos žmonių skaičiumi galėjo būti 10 ar 20 kartų pranašesnės už partizanus.
+- susijęs iš J. Juškos pasakojimas apie Ažagų-Eimuliškio miško kautynes: J. Juška pasakojo, kad Ažagų-Eimuliškio miško kautynės prasidėjo ankstų rytą ir truko iki pavakario.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -51,10 +54,3 @@ Juška: „Daug tą dieną žuvo mūsiškių, bet gal ne mažiau žuvo ir okupan
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/transportas]]
-
-### Susiję objektai
-- [[objektai/posakiai/karas po karo]]

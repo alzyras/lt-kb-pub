@@ -20,6 +20,7 @@ Vėliau sutinkama gausi valstiečių grupė, vad. «judrioji » (« pochožije �
 - t-001
   global_id: t-32751
   teiginys: 'Judrioji valstiečių grupė buvo gausi anksčiau laisvų ūkininkų grupė, turėjusi teisę išsikelti kito pono priklausomybėn.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]'
   pagrindžia:
     - c-001
 
@@ -40,7 +41,3 @@ Vėliau sutinkama gausi valstiečių grupė, vad. «judrioji » (« pochožije �
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/kunigaikščiai]]

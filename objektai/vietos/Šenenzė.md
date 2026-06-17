@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Šenenzė rodyklėje siejama su formomis Schonense ir Schönsee bei dabartiniu Kowalewo Pomorskie.
+Dusburgietis teigia, kad sarkis, Sareka) Šaumburgas Šenenbergas, Šenburgas, Šenbergas Šenenzė (Schonense, vėliau Schönsee, dab.
 
 ## Teiginiai
 
@@ -20,6 +20,8 @@ tags:
 - t-001
   global_id: t-91899
   teiginys: 'Šenenzė rodyklėje siejama su formomis Schonense ir Schönsee bei dabartiniu Kowalewo Pomorskie.'
+  sudarymo_pagrindimas: 'Rodyklės įrašas palaiko vietovardžio formas ir dabartinį atitikmenį.'
+  susije_objektai: 'mentioned_place: Šalčininkai'
   pagrindžia:
     - c-001
 

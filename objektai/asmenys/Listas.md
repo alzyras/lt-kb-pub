@@ -20,6 +20,8 @@ Dusburgietis teigia, kad kai čia laivai įstrigo seklumoje ir toliau neįsteng�
 - t-001
   global_id: t-60376
   teiginys: 'Prie Junigedos pilies laivams įstrigus seklumoje, netikėliai nukovė brolį Listą, brolį Heinmaną Kindą ir 25 vyrus.'
+  sudarymo_pagrindimas: 'Pradinis teiginys turi boilerplate; citata pagrindžia aiškų sakinį apie Listo žūtį.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_place: Junigeda'
   pagrindžia:
     - c-001
 
@@ -38,9 +40,3 @@ Dusburgietis teigia, kad kai čia laivai įstrigo seklumoje ir toliau neįsteng�
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Laivai]]
-- [[objektai/zodynas/netikėliai]]
-- [[objektai/ivykiai/Brolio Ditricho iš Ezbeko ir kitų brolių žūtis žygyje link Gardino (1295 m. gegužės 20 d.)]]

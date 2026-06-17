@@ -20,7 +20,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Jonas Kristupas Glaubicas įvardytas pagrindiniu Vilniaus baroko mokyklos architektu. Jonas Kristupas Glaubicas buvo iš vokiškų žemių atvykęs liuteronas ir produktyviausias XVIII a. architektas Vilniuje bei LDK. Jonas Kristupas Glaubicas kūrė liuteronams, katalikams, graikams katalikams, stačiatikiams ir žydams.
+Jonas Kristupas Glaubicas pristatomas kaip pagrindinis Vilniaus baroko mokyklos architektas ir šios mokyklos stilistikos formuotojas, kūręs daugiakonfesiame Vilniuje.
 
 ## Teiginiai
 
@@ -28,6 +28,7 @@ Jonas Kristupas Glaubicas įvardytas pagrindiniu Vilniaus baroko mokyklos archit
 - t-001
   global_id: t-23201
   teiginys: 'Jonas Kristupas Glaubicas įvardytas pagrindiniu Vilniaus baroko mokyklos architektu.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/zodynas/barokas|barokas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Europa; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -35,6 +36,9 @@ Jonas Kristupas Glaubicas įvardytas pagrindiniu Vilniaus baroko mokyklos archit
 - t-002
   global_id: t-23202
   teiginys: 'Jonas Kristupas Glaubicas buvo iš vokiškų žemių atvykęs liuteronas ir produktyviausias XVIII a. architektas Vilniuje bei LDK.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1700-1767; įvykio data: 1767 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-003
 
@@ -42,6 +46,11 @@ Jonas Kristupas Glaubicas įvardytas pagrindiniu Vilniaus baroko mokyklos archit
 - t-003
   global_id: t-23203
   teiginys: 'Jonas Kristupas Glaubicas kūrė liuteronams, katalikams, graikams katalikams, stačiatikiams ir žydams.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie asmens veiklą ir paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]'
+  temporaliniai_duomenys: 'įvykio data: 1700-1767; įvykio data: 1767 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie asmens veiklą ir paremtas citata.'
   pagrindžia:
     - c-003
 
@@ -49,6 +58,9 @@ Jonas Kristupas Glaubicas įvardytas pagrindiniu Vilniaus baroko mokyklos archit
 - t-004
   global_id: t-23204
   teiginys: 'J. K. Glaubico 1737–1767 m. kūrybos laikotarpis įvardijamas kaip vienas ryškiausių senosios Lietuvos civilizacijos reiškinių.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Vidurio Europa|Vidurio Europa]]; mentioned_place: Bokštai; mentioned_place: Europa; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1737-1767; įvykio data: 1767 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 
@@ -56,6 +68,11 @@ Jonas Kristupas Glaubicas įvardytas pagrindiniu Vilniaus baroko mokyklos archit
 - t-005
   global_id: t-23205
   teiginys: 'Jonas Kristupas Glaubicas laikomas pagrindiniu originalios Vilniaus baroko mokyklos architektu.'
+  sudarymo_pagrindimas: 'Teiginys palaikomas citatos, bet reikėjo paversti jį glaustu enciklopediniu sakiniu.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Vidurio Europa|Vidurio Europa]]; mentioned_object: [[objektai/zodynas/barokas|barokas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Bokštai; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1737-1767; įvykio data: 1767 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys palaikomas citatos, bet reikėjo paversti jį glaustu enciklopediniu sakiniu.'
   pagrindžia:
     - c-002
 
@@ -63,6 +80,9 @@ Jonas Kristupas Glaubicas įvardytas pagrindiniu Vilniaus baroko mokyklos archit
 - t-006
   global_id: t-23206
   teiginys: 'Glaubicas suformavo baroko architektūrinio stiliaus atmainą, neturinčią analogo – Vilniaus baroko mokyklą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Vidurio Europa|Vidurio Europa]]; mentioned_object: [[objektai/zodynas/barokas|barokas]]; mentioned_place: Bokštai; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1737-1767; įvykio data: 1767 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 
@@ -70,9 +90,17 @@ Jonas Kristupas Glaubicas įvardytas pagrindiniu Vilniaus baroko mokyklos archit
 - t-008
   global_id: t-24544
   teiginys: 'Jono Kristupo Glaubico kūrybos trisdešimtmetis 1737–1767 m. knygoje vertinamas kaip ryškus senosios Lietuvos civilizacijos reiškinys.'
+  sudarymo_pagrindimas: 'Vertinamajam teiginiui reikia aiškios atribucijos ir pilno vardo.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Vidurio Europa|Vidurio Europa]]; mentioned_place: Bokštai; mentioned_place: Europa; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1737-1767; įvykio data: 1767 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Vertinamajam teiginiui reikia aiškios atribucijos ir pilno vardo.'
   pagrindžia:
     - c-004
-
+- susijęs iš [[objektai/grupes/Vilniaus baroko mokykla.md#claim-t-183195|Vilniaus baroko mokykla]]: J. K. Glaubicas suformavo analogų neturinčią baroko architektūros atmainą – Vilniaus baroko mokyklą.
+- susijęs iš Vilnius: Jonas Kristupas Glaubicas suformavo analogų neturinčią Vilniaus baroko mokyklą.
+- susijęs iš [[objektai/zodynas/Baroko epocha Vilniaus baroko mokykla.md#claim-t-21978|Baroko epocha Vilniaus baroko mokykla]]: XVIII a. susiformavo originali Vilniaus baroko mokykla, kurios pagrindiniu architektu laikomas Jonas Kristupas Glaubicas.
+- susijęs iš [[objektai/zodynas/Baroko epocha.md#claim-t-21979|Baroko epocha]]: XVIII a. susiformavo originali Vilniaus baroko mokykla, kurios pagrindiniu architektu laikomas Jonas Kristupas Glaubicas.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -145,14 +173,3 @@ Jonas Kristupas Glaubicas įvardytas pagrindiniu Vilniaus baroko mokyklos archit
   statusas: verified
   pagrindžia:
     - t-008
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Artilerija]]
-- [[objektai/zodynas/barokas]]
-- [[objektai/grupes/Žydai]]
-- [[objektai/zodynas/Baroko epocha]]
-- [[objektai/zodynas/Baroko epocha Vilniaus baroko mokykla]]
-- [[objektai/grupes/Stačiatikiai]]
-- [[objektai/grupes/Vilniaus baroko mokykla]]
-- [[objektai/grupes/Katalikų Bažnyčia]]

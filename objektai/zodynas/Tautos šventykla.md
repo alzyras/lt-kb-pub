@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Kaune Prisikėlimo bažnyčią sumanyta pastatyti kaip tautos šventyklą, lietuvišku stiliumi ir ornamentika atspindinčią lietuvių tautos religinę ir tautinę dvasią. Prisikėlimo bažnyčią Kaune sumanyta pastatyti kaip tautos šventyklą, atspindinčią lietuvių religinę ir tautinę dvasią.
+Sumanyta pastatyti Kaune Prisikėlimo 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 173 bažnyčią – tautos šventyklą, lietuvišku stiliumi ir lietuviškai ornamentuotą, atspindinčią lietuvių tautos religinę ir tautinę dvasią.
 
 ## Teiginiai
 
@@ -21,6 +21,8 @@ Kaune Prisikėlimo bažnyčią sumanyta pastatyti kaip tautos šventyklą, lietu
 - t-001
   global_id: t-75592
   teiginys: 'Kaune Prisikėlimo bažnyčią sumanyta pastatyti kaip tautos šventyklą, lietuvišku stiliumi ir ornamentika atspindinčią lietuvių tautos religinę ir tautinę dvasią.'
+  sudarymo_pagrindimas: 'Pirminis teiginys gramatiškai ne visai tiksliai perteikė stiliaus ir ornamentikos ryšį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kaunas'
   pagrindžia:
     - c-001
 
@@ -28,6 +30,8 @@ Kaune Prisikėlimo bažnyčią sumanyta pastatyti kaip tautos šventyklą, lietu
 - t-002
   global_id: t-75593
   teiginys: 'Prisikėlimo bažnyčią Kaune sumanyta pastatyti kaip tautos šventyklą, atspindinčią lietuvių religinę ir tautinę dvasią.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kaunas'
   pagrindžia:
     - c-001
 
@@ -50,7 +54,3 @@ Kaune Prisikėlimo bažnyčią sumanyta pastatyti kaip tautos šventyklą, lietu
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]

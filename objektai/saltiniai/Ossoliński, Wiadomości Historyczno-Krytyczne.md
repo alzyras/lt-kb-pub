@@ -21,6 +21,7 @@ Bandymo pabėgti atveju būtų ištremtas, savo eilėmis girdamas ir liaupsinda�
 - t-001
   global_id: t-88322
   teiginys: 'Ossolińskis veikale „Wiadomości Historyczno-Krytyczne“ patvirtino, kad eilėmis buvo šlovinamas Rotundas.'
+  sudarymo_pagrindimas: 'Citata palaiko faktą apie veikale pateiktą patvirtinimą.'
   pagrindžia:
     - c-002
 
@@ -28,6 +29,7 @@ Bandymo pabėgti atveju būtų ištremtas, savo eilėmis girdamas ir liaupsinda�
 - t-002
   global_id: t-88323
   teiginys: 'Ossolińskis veikale „Wiadomości Historyczno-Krytyczne“ aprašė Goslickio gyvenimą.'
+  sudarymo_pagrindimas: 'Pirminis teiginys beveik tinkamas, bet reikėjo pašalinti OCR triukšmą.'
   pagrindžia:
     - c-001
 

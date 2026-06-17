@@ -21,6 +21,8 @@ Dar didesnio atgarsio susilaukė vadinamasis 45 pabaltijiečių memorandumas, ad
 - t-001
   global_id: t-26481
   teiginys: '45 pabaltijiečių memorandumas buvo svarbiausias LLL paskelbtas dokumentas, turėjęs tarptautinį rezonansą.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: SSRS; mentioned_place: Vokietija'
   pagrindžia:
     - c-001
 

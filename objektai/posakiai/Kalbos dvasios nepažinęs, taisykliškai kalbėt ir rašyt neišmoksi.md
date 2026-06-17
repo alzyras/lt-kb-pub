@@ -20,6 +20,8 @@ Norint suvokti kalbos dailumą ir grynumą, reikalinga pirmučiau­ siai kalbos 
 - t-001
   global_id: t-34395
   teiginys: 'Kalbos dvasios nepažinimas siejamas su nesugebėjimu taisyklingai kalbėti ir rašyti.'
+  sudarymo_pagrindimas: 'Pradinis sakinys buvo ne apie patį posakį ir skambėjo kaip fragmentiška nuostata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-001
 
@@ -39,7 +41,3 @@ Norint suvokti kalbos dailumą ir grynumą, reikalinga pirmučiau­ siai kalbos 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]

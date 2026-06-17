@@ -21,9 +21,11 @@ Lasickio knygutę « apie Žemaičių dievus », kurioje paprasti kalbos žodži
 - t-001
   global_id: t-30684
   teiginys: 'S. Stanevičius kritikavo J. Lasickio knygutę apie žemaičių dievus, nes joje paprasti kalbos žodžiai esą paversti dievų vardais.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/S. Stanevičius|S. Stanevičius]]'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/autoriai/Lasickis J.md#claim-t-60742|Lasickis J]]: J. Lasickis Ragainą laikė miškų deive.
 ## Reikšmingi paminėjimai
 
 - c-001

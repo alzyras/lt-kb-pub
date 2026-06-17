@@ -18,7 +18,7 @@ amziai:
 
 ## Santrauka
 
-Prieš Parčevo seimą didysis kunigaikštis Aleksandras su Elena ir didikais apžiūrėjo Rusų žemę, lankėsi Smolenske, Vitebske ir Polocke. Tą rudenį Lenkijos karaliaus ir Aleksandro atstovai susitarė sušaukti seimą Parčeve. Lietuvos metraštis teigia, kad Parčeve priimti nutarimai liko paslaptyje.
+Tą rudenį Lenkijos karaliaus ir Aleksandro atstovai susitarė sušaukti seimą Parčeve. Tą pačią žiemą Aleksandras su Elena apžiūrinėjo Rusų žemę prieš grįždamas į Vilnių.
 
 ## Laikotarpis ir datos
 
@@ -48,27 +48,36 @@ Nenurodyta
 - t-001
   global_id: t-186648
   teiginys: 'Prieš Parčevo seimą didysis kunigaikštis Aleksandras su Elena ir didikais apžiūrėjo Rusų žemę, lankėsi Smolenske, Vitebske ir Polocke.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir tiesiogiai paremtas citata.'
+  susije_objektai: 'territory: Lenkija; territory: Lietuva; territory: Parčevas; territory: Polockas; territory: Vilnius; territory: Vitebskas; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Parčevas; mentioned_place: Polockas; mentioned_place: Vilnius; mentioned_place: Vitebskas'
   pagrindžia:
     - c-002
 
 <a id="claim-t-186649"></a>
 - t-002
   global_id: t-186649
-  teiginys: 'Tą rudenį Lenkijos karaliaus ir Aleksandro atstovai susitarė sušaukti seimą Parčeve.'
+  teiginys: 'Lenkijos karaliaus Olbrachto ir Lietuvos didžiojo kunigaikščio Aleksandro atstovai per pasitarimą nutarė sušaukti seimą Parčeve.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Parčevo seimo sušaukimo sprendimą ir jį priėmusius atstovus. Citata tiesiogiai remia subjektus, veiksmą ir seimo vietą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Parčevas; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
 <a id="claim-t-186650"></a>
 - t-003
   global_id: t-186650
-  teiginys: 'Lietuvos metraštis teigia, kad Parčeve priimti nutarimai liko paslaptyje.'
+  teiginys: 'Lietuvos metraštis pasakoja, kad Parčevo seime priimti sumanymai ir nutarimai liko didelė paslaptis.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Šaltinio vertinimas apie paslaptį paliktas atribuuotas ir suformuluotas glaustai.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Brasta; mentioned_place: Lietuva; mentioned_place: Liublinas; mentioned_place: Parčevas; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Parčeve priimti nutarimai liko paslaptyje.'
+  santrauka: 'Lietuvos metraštis pasakoja, kad Parčevo seime priimti sumanymai ir nutarimai liko didelė paslaptis.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     Tą pačią žiemą didysis kunigaikštis
@@ -115,16 +124,3 @@ Nenurodyta
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Aleksandras]]
-- [[objektai/asmenys/Aleksandras Jogailaitis]]
-- [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
-- [[objektai/zodynas/didysis kunigaikštis]]
-- [[objektai/zodynas/ponai]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/zodynas/vaivada]]
-- [[objektai/zodynas/metraštis]]

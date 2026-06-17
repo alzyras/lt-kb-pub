@@ -21,6 +21,8 @@ Dusburgietis teigia, kad tad maldaute maldauju tuos, kurie skaitys šią knygą:
 - t-001
   global_id: t-59138
   teiginys: 'Pratarmėje Petras Dusburgietis ragino skaitytojus nesibaiminti visokeriopų vargų ir nelaikyti įvykių pražūtingais giminei.'
+  sudarymo_pagrindimas: 'Pradinis teiginys negramatiškas ir per daug cituoja, bet citata pagrindžia aiškią mintį.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/Petras Dusburgietis|Petras Dusburgietis]]'
   pagrindžia:
     - c-001
 
@@ -43,7 +45,3 @@ Dusburgietis teigia, kad tad maldaute maldauju tuos, kurie skaitys šią knygą:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/Petras Dusburgietis]]

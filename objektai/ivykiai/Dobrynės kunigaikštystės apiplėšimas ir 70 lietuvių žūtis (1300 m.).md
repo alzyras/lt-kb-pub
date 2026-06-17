@@ -43,6 +43,9 @@ Nenurodyta
 - t-001
   global_id: t-62769
   teiginys: 'Brolių kariuomenė nukovė 70 lietuvių, išgelbėjo daug belaisvių krikščionių, o likę lietuviai bėgdami prarado daug žmonių ir arklių.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo nutrūkęs; perrašyta į vientisą, citata paremtą sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/posakiai/kur akys veda, kur kojos neša|kur akys veda, kur kojos neša]]; mentioned_place: Narevas'
   pagrindžia:
     - c-001
 
@@ -67,8 +70,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/posakiai/kur akys veda, kur kojos neša]]

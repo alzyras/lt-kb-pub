@@ -3,6 +3,10 @@ tipas: asmuo
 pavadinimas: 'Mikalojus Kopernikas'
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+datos:
+  - '1841 m.'
+date_start: '1841'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -10,6 +14,10 @@ tags:
   - dokumentas
   - ordinas
   - valstybė
+amziai:
+  - 'XIX'
+periodo_grupes:
+  - 'naujieji laikai'
 ---
 # Mikalojus Kopernikas
 
@@ -23,6 +31,11 @@ Be to, rengė astronomo Mikalojaus Ko­ perniko raštus, dalyvavo leidžiant sen
 - t-001
   global_id: t-87785
   teiginys: 'Mikalojus Kopernikas buvo astronomas, kurio raštus rengė M. Balinskis.'
+  sudarymo_pagrindimas: 'Citata palaiko tik trumpą faktą apie Koperniką ir jo raštų rengimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_person: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1841 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko tik trumpą faktą apie Koperniką ir jo raštų rengimą.'
   pagrindžia:
     - c-001
 
@@ -48,7 +61,3 @@ Be to, rengė astronomo Mikalojaus Ko­ perniko raštus, dalyvavo leidžiant sen
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]

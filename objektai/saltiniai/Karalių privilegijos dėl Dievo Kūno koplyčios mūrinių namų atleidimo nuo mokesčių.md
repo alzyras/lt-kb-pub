@@ -5,6 +5,7 @@ saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1601 m.'
+  - '1633 m.'
   - '1664 m.'
 date_start: '1601'
 date_end: '1664'
@@ -29,6 +30,11 @@ Mūrinius namus, kurie buvo skirti tos koplyčios paja­ moms, privilegijomis nu
 - t-001
   global_id: t-88435
   teiginys: 'Dievo Kūno koplyčiai skirtus mūrinius namus nuo mokesčių atleido Žygimantas III, Vladislovas IV ir Jonas Kazimieras.'
+  sudarymo_pagrindimas: 'Faktas pagrįstas, bet teiginyje yra OCR skiemenavimo ir formos klaidų.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus magistratas|Vilniaus magistratas]]; mentioned_person: [[objektai/asmenys/Grigalius (vicekancleris)|Grigalius (vicekancleris)]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas Kazimieras|Jonas Kazimieras]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_person: [[objektai/asmenys/Vladislovas IV|Vladislovas IV]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lenkija; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1601 m.; įvykio data: 1633 m.; įvykio data: 1664 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Faktas pagrįstas, bet teiginyje yra OCR skiemenavimo ir formos klaidų.'
   pagrindžia:
     - c-001
 

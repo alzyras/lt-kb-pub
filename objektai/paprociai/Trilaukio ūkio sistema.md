@@ -47,6 +47,9 @@ Nenurodyta
 - t-001
   global_id: t-31536
   teiginys: '1557 m. valakų reforma Lietuvoje įvedė visuotinę trilaukio ūkio sistemą su vieneriems metams paliekamu pūdymu.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Valakų reforma (1557 m.)|Valakų reforma (1557 m.)]]; mentioned_group: [[objektai/grupes/Valakai|Valakai]]; mentioned_object: [[objektai/paprociai/Lydimoji žemdirbystė|Lydimoji žemdirbystė]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1557 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -70,9 +73,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/paprociai/Lydimoji žemdirbystė]]
-- [[objektai/grupes/Valakai]]
-- [[objektai/ivykiai/Valakų reforma (1557 m.)]]

@@ -4,9 +4,10 @@ pavadinimas: 'Klevo kuopa'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
+  - '1943 m.'
   - '1945 m.'
   - '1949 m.'
-date_start: '1945'
+date_start: '1943'
 date_end: '1949'
 sukurta: ''
 atnaujinta: ''
@@ -19,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-1945 m. Kazimieras Kontrimas-Tėvas vadovavo Kretingos apskrities partizanų Klevo kuopai.
+1945 m. vadovavo Kretingos apskrities partizanų Klevo kuopai.
 
 ## Teiginiai
 
@@ -27,6 +28,11 @@ amziai:
 - t-001
   global_id: t-40924
   teiginys: '1945 m. Kazimieras Kontrimas-Tėvas vadovavo Kretingos apskrities partizanų Klevo kuopai.'
+  sudarymo_pagrindimas: 'Citata tiesiogiai pagrindžia tikslesnį sakinį su vadovavusiu asmeniu.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kardas|Kardas]]; mentioned_place: Kretinga; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1943 m.; įvykio data: po 1945 m.; įvykio data: 1945 m.; įvykio data: 1949 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data.'
+  temporalinis_llm_pakomentavimas: 'Citata tiesiogiai pagrindžia tikslesnį sakinį su vadovavusiu asmeniu.'
   pagrindžia:
     - c-001
 
@@ -47,7 +53,3 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Kardas]]

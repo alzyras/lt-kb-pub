@@ -3,11 +3,17 @@ tipas: zodyno_irasas
 pavadinimas: 'Žuvusių karių kultas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1934 m.'
+date_start: '1934'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - karas
   - sąvoka
+amziai:
+  - 'XX'
 ---
 # Žuvusių karių kultas
 
@@ -21,6 +27,11 @@ tags:
 - t-001
   global_id: t-22353
   teiginys: '1934 m. lapkričio 23 d. Kauno Karo muziejaus sodelyje palaidotas Nežinomas kareivis, rūpintasi karių kapais ir kurtas žuvusių karių kultas.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas, konkretus ir tiesiogiai paremtas citata.'
+  susije_objektai: 'location: Kaunas; location: Lietuva; mentioned_place: Kaunas; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'mirties data: 1934 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „mirties data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas, konkretus ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -44,9 +55,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/Nežinomo kareivio palaidojimas Kaune (1934 m. lapkričio 23 d.)]]
-- [[objektai/daiktai/Paminklas Žuvusiems už Lietuvos laisvę]]
-- [[objektai/paprociai/Tautinių atminties vietų kūrimas, žuvusių karių kultas ir kariuomenės dienos minėjimas]]

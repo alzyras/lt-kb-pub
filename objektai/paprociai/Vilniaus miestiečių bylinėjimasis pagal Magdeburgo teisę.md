@@ -49,6 +49,11 @@ Nenurodyta
 - t-001
   global_id: t-87309
   teiginys: '1564 m. Žygimantas Augustas atskyrė Vilniaus miestiečius nuo Statuto galios ir suteikė daugiau laisvės bylinėtis pagal Magdeburgo teisę.'
+  sudarymo_pagrindimas: 'Teiginys gramatiškai ir tiksliai apibendrina citatoje pateiktą sprendimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/statutas|statutas]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_person: [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]]; mentioned_place: Bełskas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1564 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys gramatiškai ir tiksliai apibendrina citatoje pateiktą sprendimą.'
   pagrindžia:
     - c-001
 
@@ -78,12 +83,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Augustas]]
-- [[objektai/grupes/Bajorai]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/zodynas/statutas]]
-- [[objektai/asmenys/Žygimantas]]
-- [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]]

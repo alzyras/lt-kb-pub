@@ -5,14 +5,16 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1100 m.'
+  - '1166 m.'
 date_start: '1100'
-date_end: ''
+date_end: '1166'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
 amziai:
   - 'XI'
+  - 'XII'
 ---
 # Rogero knyga
 
@@ -26,6 +28,9 @@ Neaiškumų teikia ir Ispanijos arabų geografas-keliautoj as Al'- Idrisi (1100-
 - t-001
   global_id: t-31905
   teiginys: '„Rogero knygos“ skyriuje apie rytų Pabaltijį Al-Idrisi, pasak Ivinskio, jau buvo paminėjęs Kauną.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Arabai|Arabai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Ispanija; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1100-1166'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

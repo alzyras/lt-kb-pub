@@ -30,6 +30,11 @@ Pičeta : Agrarnaja reforma Sigizmundą Avgusta v Litovsko-russkom gosudarstve (
 - t-001
   global_id: t-100138
   teiginys: 'V. Pičeta parašė veikalą „Agrarnaja reforma Sigizmundą Avgusta v Litovsko-russkom gosudarstve“, išleistą 1917 m.'
+  sudarymo_pagrindimas: 'Pradinis tekstas yra bibliografinis fragmentas, todėl reikia pilno sakinio.'
+  susije_objektai: 'mentioned_place: Maskva'
+  temporaliniai_duomenys: 'įvykio data: 1917 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis tekstas yra bibliografinis fragmentas, todėl reikia pilno sakinio.'
   pagrindžia:
     - c-001
 

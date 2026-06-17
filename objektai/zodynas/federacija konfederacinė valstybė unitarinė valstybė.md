@@ -3,6 +3,10 @@ tipas: zodyno_irasas
 pavadinimas: 'federacija konfederacinė valstybė unitarinė valstybė'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1588 m.'
+date_start: '1588'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -10,6 +14,8 @@ tags:
   - karalius
   - sąvoka
   - tauta
+amziai:
+  - 'XVI'
 ---
 # federacija konfederacinė valstybė unitarinė valstybė
 
@@ -23,6 +29,11 @@ Išliko ne tik atskiras LDK valstybės titulas ir teritorija, bet ir atskira vyk
 - t-001
   global_id: t-22144
   teiginys: 'LDK turėjo atskirą valstybės titulą, teritoriją, vykdomąją valdžią, iždą, kariuomenę, teismus ir teisinę sistemą.'
+  sudarymo_pagrindimas: 'Pradiniam teiginiui trūko aiškaus sakinio subjekto.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/senatas|senatas]]; mentioned_object: [[objektai/zodynas/statutas|statutas]]; mentioned_place: Didžioji Lenkija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Mažoji Lenkija; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1588 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradiniam teiginiui trūko aiškaus sakinio subjekto.'
   pagrindžia:
     - c-001
 
@@ -45,12 +56,3 @@ Išliko ne tik atskiras LDK valstybės titulas ir teritorija, bet ir atskira vyk
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/etmonas]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/zodynas/senatas]]
-- [[objektai/zodynas/statutas]]
-- [[objektai/daiktai/Didysis Lietuvos antspaudas]]
-- [[objektai/zodynas/federacija federacinė valstybė]]

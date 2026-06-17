@@ -21,6 +21,8 @@ tags:
 - t-001
   global_id: t-80649
   teiginys: '3-iajai divizijai buvo numatyta užimti gynybines pozicijas ruože Vištyčio ežeras–Rūdelė–Smalėnai–Klevai–Dimitravo ežeras.'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo fragmentiškas ir su OCR klaidomis; citata leidžia suformuoti pilną sakinį apie 3-iąją diviziją.'
+  susije_objektai: 'mentioned_place: Augustavas'
   pagrindžia:
     - c-001
 
@@ -40,9 +42,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/2-oji divizija]]
-- [[objektai/grupes/3-ioji divizija]]
-- [[objektai/grupes/oji divizija]]

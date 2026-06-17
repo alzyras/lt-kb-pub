@@ -4,9 +4,10 @@ pavadinimas: 'S. Sužiedėlis'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
+  - '1930 m.'
   - '1970 m.'
-date_start: '1970'
-date_end: ''
+date_start: '1930'
+date_end: '1970'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -14,7 +15,7 @@ tags:
 amziai:
   - 'XX'
 periodo_grupes:
-  - 'XX a.'
+  - 'modernioji Lietuva'
 ---
 # S. Sužiedėlis
 
@@ -34,6 +35,7 @@ S. Sužiedėlis 1930 m. kolektyvinėje monografijoje „Vytautas Didysis“ įra
 - t-001
   global_id: t-97219
   teiginys: 'Sužiedėlis, S.: Apuolė , EnL, I, 112-113 p. 5.'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -41,6 +43,7 @@ S. Sužiedėlis 1930 m. kolektyvinėje monografijoje „Vytautas Didysis“ įra
 - t-002
   global_id: t-97222
   teiginys: '34, 1970, 57-74 p. — Sužiedėlis, S.: Apuolė , EnL, I, 112-113 p.'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -48,9 +51,20 @@ S. Sužiedėlis 1930 m. kolektyvinėje monografijoje „Vytautas Didysis“ įra
 - t-003
   global_id: t-97223
   teiginys: 'S. Sužiedėlis 1930 m. paskelbė darbą „Vytautas Didysis ir Lietuvos christianizacija“.'
+  sudarymo_pagrindimas: 'Citata pateikia autoriaus ir darbo bibliografinę nuorodą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/christianizacija|christianizacija]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1930 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pateikia autoriaus ir darbo bibliografinę nuorodą.'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/autoriai/Dieckmann Ch.md#claim-t-26471|Dieckmann Ch]]: Ch. Dieckmannas ir S. Sužiedėlis parašė veikalą apie Lietuvos žydų persekiojimą ir masines žudynes 1941 m. vasarą ir rudenį.
+- susijęs iš [[objektai/autoriai/Sužiedėlis S.md#claim-t-26479|Sužiedėlis S]]: S. Sužiedėlis kartu su Ch. Dieckmannu parašė leidinį apie Lietuvos žydų persekiojimą ir masines žudynes 1941 m. vasarą ir rudenį.
+- susijęs iš [[objektai/autoriai/Sužiedėlis, S.md#claim-t-31007|Sužiedėlis, S]]: S. Sužiedėlis 1930 m. paskelbė publikaciją „Vytautas Didysis ir Lietuvos christianizacija“.
+- susijęs iš Lietuvos ir Livonijos konfliktas 1556-1557: Sužiedėlis 1937 m. „Athenaeume“ paskelbė studiją „Lietuvos ir Livonijos konfliktas 1556-1557“.
+- susijęs iš Livonijos prijungimas prie Lietuvos: Sužiedėlis 1933 m. „Athenaeume“ paskelbė studiją „Livonijos prijungimas prie Lietuvos“.
+- susijęs iš Mykolo Radvilos pastangos prijungti Lietuvai Rygą: Sužiedėlis 1936 m. „Athenaeume“ paskelbė studiją „Mykolo Radvilos pastangos prijungti Lietuvai Rygą“.
+- susijęs iš [[objektai/zodynas/konjunktūrinis istorikas.md#claim-t-99984|konjunktūrinis istorikas]]: Neturėdamas pastovaus atlyginimo, Matusas buvo priverstas tapti konjunktūriniu istoriku ir istorijos žurnalistu.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -85,8 +99,3 @@ S. Sužiedėlis 1930 m. kolektyvinėje monografijoje „Vytautas Didysis“ įra
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/christianizacija]]
-- [[objektai/zodynas/konjunktūrinis istorikas]]

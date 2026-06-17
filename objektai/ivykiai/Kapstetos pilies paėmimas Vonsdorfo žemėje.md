@@ -46,6 +46,11 @@ Nenurodyta
 - t-001
   global_id: t-91914
   teiginys: 'Karaliaučiaus komtūras su sembų kariuomene įsiveržė į Vonsdorfo žemę, užėmė Kapstetos pilį, ją sudegino ir nusiaubė kraštą.'
+  sudarymo_pagrindimas: 'Pradinė formuluotė turi OCR triukšmo, o citata remia aiškų įvykio aprašymą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/Vėlė|Vėlė]]; mentioned_person: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_person: [[objektai/asmenys/Tirskas|Tirskas]]; mentioned_place: Kapsteta; mentioned_place: Oliva; mentioned_place: Prieglius; mentioned_place: Prūsai; mentioned_place: Tvankstė (pilis); mentioned_place: Vonsdorfas; mentioned_place: Vėluva'
+  temporaliniai_duomenys: 'įvykio data: 1257 m.; įvykio data: 1258 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinė formuluotė turi OCR triukšmo, o citata remia aiškų įvykio aprašymą.'
   pagrindžia:
     - c-001
 
@@ -88,12 +93,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/K. Būga]]
-- [[objektai/daiktai/Malūnas]]
-- [[objektai/grupes/Sembai]]
-- [[objektai/asmenys/Tirskas]]
-- [[objektai/zodynas/komtūras]]
-- [[objektai/zodynas/Vėlė|vėlė]]

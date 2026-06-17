@@ -39,6 +39,8 @@ Nenurodyta
 - t-001
   global_id: t-66922
   teiginys: 'Sventopelkas subūrė 2000 karių, perplukdė juos per Vyslą ir įsibrovė į Kulmo žemę.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys ir tiksliai atitinka citatos informaciją.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/tėvonija|tėvonija]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Kulmas; mentioned_place: Pomeranija; mentioned_place: Vysla'
   pagrindžia:
     - c-001
 
@@ -46,6 +48,8 @@ Nenurodyta
 - t-002
   global_id: t-66923
   teiginys: 'Prie Kulmo miesto broliai ir jų sąjungininkai užpuolė Sventopelko kariauną, o po kautynių Sventopelkas pabėgo prie Vyslos.'
+  sudarymo_pagrindimas: 'Citata palaiko faktą, bet pradinis teiginys turi religinės retorikos ir neaiškių įvardžių.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Saracėnai|Saracėnai]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Kulmas; mentioned_place: Vysla'
   pagrindžia:
     - c-002
 
@@ -96,10 +100,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Laivai]]
-- [[objektai/grupes/Saracėnai]]
-- [[objektai/asmenys/Sventopelkas]]
-- [[objektai/zodynas/tėvonija]]

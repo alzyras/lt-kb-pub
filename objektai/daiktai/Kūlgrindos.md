@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Kūlgrindomis galėjo naudotis tik prityrusio vadovo vedami žmonės. Kūlgrindomis žemaičiai vadino akmenimis grįstus vingrius kelius su klastingais posūkiais.
+Kūlgrindos buvo slapti akmenimis grįsti keliai per vandeningas ar klampias vietas. Jais galėjo naudotis tik prityrusio vadovo vedami žmonės, o jų liekanų, pasak šaltinio, dar buvo galima rasti Lietuvoje.
 
 ## Pavadinimai šaltiniuose
 Nenurodyta
@@ -34,22 +34,27 @@ Jos tarnavo slaptam susisiekimui tarp pilių ir apsaugai nuo priešo.
 Nenurodyta
 
 ## Teiginiai
-- t-004
-  teiginys: 'Kūlgrindomis žemaičiai vadino akmenimis grįstus vingrius kelius su klastingais posūkiais.'
-  pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-005
+
+<a id="claim-t-06734"></a>
+- t-001
+  global_id: t-06734
   teiginys: 'Kūlgrindomis galėjo naudotis tik prityrusio vadovo vedami žmonės.'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+
+<a id="claim-t-06735"></a>
+- t-002
+  global_id: t-06735
+  teiginys: 'Kūlgrindomis žemaičiai vadino akmenimis grįstus vingrius kelius su klastingais posūkiais.'
+  sudarymo_pagrindimas: 'Citata tiksliau nusako pavadinimo vartojimą ir kelių ypatybes.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_place: Lietuva'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Kūlgrindomis žemaičiai vadino akmenimis grįstus vingrius kelius su klastingais posūkiais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tie keliai būdavo tokie
@@ -58,18 +63,9 @@ Nenurodyta
     naudotis. Tokie akmenimis grįsti keliai žemaičių buvo vadinami
     kūlgrindomis (kūlis—akmuo). Ir dabar dar galima rasti
     Lietuvoje tokių kelių liekanų.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-004
-    - t-005
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/transportas]]
-
-### Susiję objektai
-- [[objektai/grupes/Žemaičiai]]
+    - t-002
+    - t-001

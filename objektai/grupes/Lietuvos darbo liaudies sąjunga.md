@@ -3,12 +3,18 @@ tipas: grupe
 pavadinimas: 'Lietuvos darbo liaudies sąjunga'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1940 m.'
+date_start: '1940'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - elekcija
   - grupe
   - seimas
+amziai:
+  - 'XX'
 ---
 # Lietuvos darbo liaudies sąjunga
 
@@ -22,6 +28,11 @@ tags:
 - t-001
   global_id: t-77820
   teiginys: 'Visi 79 kandidatai 1940 m. rinkimuose į Liaudies seimą atstovavo Lietuvos darbo liaudies sąjungai.'
+  sudarymo_pagrindimas: 'Pradinis teiginys labiau apie rinkimų tvarką, o citata leidžia aiškų faktą apie note objektą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lietuva; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1940 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys labiau apie rinkimų tvarką, o citata leidžia aiškų faktą apie note objektą.'
   pagrindžia:
     - c-002
 
@@ -29,6 +40,11 @@ tags:
 - t-002
   global_id: t-77821
   teiginys: 'Oficialiais duomenimis, 99,19 proc. balsavusiųjų 1940 m. liepos 14-15 d. rinkimuose balsavo už Lietuvos darbo liaudies sąjungos kandidatus.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir tiesiogiai susijęs su organizacijos kandidatais.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1940 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, faktinis ir tiesiogiai susijęs su organizacijos kandidatais.'
   pagrindžia:
     - c-001
 
@@ -68,7 +84,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/seimas]]

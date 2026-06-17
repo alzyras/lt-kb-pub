@@ -1,24 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Trobai'
-variantai:
-  - 'Trobų'
-aliases: []
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
 atnaujinta: ''
-laikotarpis: ''
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: ''
 tags:
   - vieta
 ---
@@ -29,18 +15,19 @@ tags:
 Trobai šiame gabale minimi Trobų kunigaikščio titulo kontekste.
 
 ## Teiginiai
+
 <a id="claim-t-187358"></a>
 - t-001
   global_id: t-187358
   teiginys: 'Trobai šiame gabale minimi Trobų kunigaikščio titulo kontekste.'
+  teiginio_tipas: 'faktas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Lengvenis|Lengvenis]]; mentioned_place: Krokuva'
   pagrindžia:
     - c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Trobai šiame gabale minimi Trobų kunigaikščio titulo kontekste.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     301
@@ -56,10 +43,8 @@ Trobai šiame gabale minimi Trobų kunigaikščio titulo kontekste.
     žr. Alšėniškis Simonas Simo­
     naitis
     Sirputis, Traidenio b.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

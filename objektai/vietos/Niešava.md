@@ -11,12 +11,12 @@ date_start: '1424'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XV'
-  - 'XXI'
 tags:
   - pilis
   - vieta
+amziai:
+  - 'XV'
+  - 'XXI'
 ---
 # Niešava
 
@@ -25,20 +25,40 @@ tags:
 Čia jie gavo iš Konrado žemių su Niešavos pilaite, o patys pasistatė Fogelzango pilį.
 
 ## Teiginiai
+
+<a id="claim-t-68823"></a>
+- t-001
+  global_id: t-68823
+  teiginys: 'Prie Niešavos jie iš Konrado gavo žemių su pilaite ir pasistatė Fogelzango pilį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Rusija'
+  pagrindžia:
+    - c-002
+
 <a id="claim-t-68824"></a>
 - t-002
   global_id: t-68824
   teiginys: '1424 m. Niešavos miestelyje sudaryta prekybos sutartis dėl laisvo tranzito.'
+  sudarymo_pagrindimas: 'Perrašyta gramatiškai, pašalinus žodžių lūžius.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/tranzitas|tranzitas]]; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Rusija'
+  temporaliniai_duomenys: 'sutarties data: 1424 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Perrašyta gramatiškai, pašalinus žodžių lūžius.'
   pagrindžia:
     - c-001
-- t-003
-  teiginys: 'Prie Niešavos jie iš Konrado gavo žemių su pilaite ir pasistatė Fogelzango pilį.'
-  pagrindžia:
-    - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-
+- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179394|Livonijos ordinas]]: 1424 m. Niešavos sutartis leido Lietuvos, Žemaičių, Lenkijos, Maskvos ir Rusijos pirkliams laisvai prekiauti Vokiečių ir Livonijos ordinų žemėse.
+- susijęs iš [[objektai/ivykiai/Kryžiuočių ordino atsikraustymas į Prūsus.md#claim-t-01677|Kryžiuočių ordino atsikraustymas į Prūsus]]: 1230 m. pirmieji Vokiečių ordino atstovai jau buvo pasiekę Prūsų pasienį.
+- susijęs iš [[objektai/ivykiai/Lietuvos ir ordino sienos galutinis patvirtinimas pagal Melno taiką (1422 m.).md#claim-t-66698|Lietuvos ir ordino sienos galutinis patvirtinimas pagal Melno taiką (1422 m.)]]: Melno taika sutarta siena išsilaikė penkis šimtmečius, Lietuvai atiteko žymi dalis Žemaičių ir Sūduvos dykros, o Lenkijai Niešavos kraštas.
+- susijęs iš [[objektai/ivykiai/Niešavo prekybos sutartis („über transitus“) (1424 m.).md#claim-t-35870|Niešavo prekybos sutartis („über transitus“) (1424 m.)]]: 1424 m. Niešavoje sudaryta prekybos sutartis „über transitus“ nustatė laisvą tranzitinę prekybą tarp kelių kraštų pirklių.
+- susijęs iš [[objektai/ivykiai/Niešavo prekybos sutartis („über transitus“) (1424 m.).md#claim-t-35871|Niešavo prekybos sutartis („über transitus“) (1424 m.)]]: Niešavos prekybos sutartis užbaigė lietuvių prekybą ilgai trikdžiusius neramumus.
+- susijęs iš Fogelzango pilis: 1230 m. pirmieji ordino atstovai Prūsų pasienyje pasistatė Fogelzango pilį.
+- susijęs iš Niešavos kraštas (kraštas): Lietuvai atiteko žymi dalis Žemaičių ir Sūduvos dykros, o Lenkija gavo Niešavos kraštą.
+- susijęs iš Sūduva: Lietuvai atiteko žymi dalis Žemaičių ir Sūduvos dykros, o Lenkija gavo Niešavos kraštą.
+- susijęs iš [[objektai/zodynas/dykra.md#claim-t-05593|dykra]]: Melno dokumente sienos daugiausia ėjo per dykras ir miškų plotus be gyvenviečių, todėl jų nebuvo galima tiksliai išvesti.
+- susijęs iš [[objektai/zodynas/dykra.md#claim-t-05595|dykra]]: Melno dokumente ribos ėjo per dykras ir miškus be gyvenviečių.
+- susijęs iš [[objektai/zodynas/dykra.md#claim-t-89547|dykra]]: Melno dokumente dykros minimos kaip negyvenami plotai, per kuriuos buvo sunku tiksliai išvesti sienas.
+- susijęs iš [[objektai/zodynas/dykra.md#claim-t-89552|dykra]]: Lietuvai atiteko žymi dalis Žemaičių ir Sūduvos dykros, o Lenkija gavo Niešavos kraštą.
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: '1424 m. Niešavos miestelyje sudaryta prekybos sutartis dėl laisvo tranzito.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -57,8 +77,8 @@ tags:
   statusas: verified
   pagrindžia:
     - t-002
+
 - c-002
-  santrauka: 'Prie Niešavos jie iš Konrado gavo žemių su pilaite ir pasistatė Fogelzango pilį.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     1230 m. pirmieji ordino atstovai jau buvo Prūsų pasieny.
@@ -70,10 +90,8 @@ tags:
     savo sodybų jie pradėjo
     nuolatinį karą su aisčių
     kiltimis.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-003
+    - t-001

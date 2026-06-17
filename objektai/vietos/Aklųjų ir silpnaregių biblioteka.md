@@ -27,6 +27,11 @@ Kai buvo užimti Lietuvos radijo ir televizijos pastatai, radijo laidų rengimas
 - t-001
   global_id: t-41585
   teiginys: 'Kai buvo užimti Lietuvos radijo ir televizijos pastatai, radijo laidų rengimas ir transliavimas buvo perkeltas į Aklųjų ir silpnaregių biblioteką, turėjusią visą reikiamą įrangą.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatinis, aiškus ir paremtas citata.'
+  susije_objektai: 'mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'pastatymo data: 1916 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatinis, aiškus ir paremtas citata.'
   pagrindžia:
     - c-001
 

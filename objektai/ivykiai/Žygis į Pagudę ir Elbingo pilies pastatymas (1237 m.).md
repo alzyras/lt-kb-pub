@@ -45,6 +45,12 @@ Nenurodyta
 - t-001
   global_id: t-62962
   teiginys: '1237 m. magistras su broliais ir maldininkais atvyko į Pagudę ir pastatė Elbingo pilį saloje prie Elbingo upės žiočių.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Pašalintas boilerplate ir paliktas konkretus šaltinio palaikomas faktas.'
+  susije_objektai: 'location: Elbingas; location: Pagudė; mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/maldininkai|maldininkai]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_place: Elbingas; mentioned_place: Pagudė'
+  temporaliniai_duomenys: 'pastatymo data: 1237 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas boilerplate ir paliktas konkretus šaltinio palaikomas faktas.'
   pagrindžia:
     - c-001
 
@@ -52,6 +58,12 @@ Nenurodyta
 - t-002
   global_id: t-62963
   teiginys: '1237 m. žygyje į Pagudę magistras su broliais pastatė Elbingo pilį saloje prie Elbingo upės žiočių.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys buvo kontekstinis fragmentas; citata remia glaustą faktą apie pilies pastatymą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Elbingas; mentioned_place: Pagudė'
+  temporaliniai_duomenys: 'pastatymo data: 1237 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys buvo kontekstinis fragmentas; citata remia glaustą faktą apie pilies pastatymą.'
   pagrindžia:
     - c-001
 
@@ -77,14 +89,3 @@ Nenurodyta
     - t-001
     - t-002
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Laivai]]
-- [[objektai/grupes/Pagudėnai]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/netikėliai]]
-- [[objektai/zodynas/maldininkai]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/zodynas/maldininkai maldininko įžadai|maldininkai / maldininko įžadai]]

@@ -40,6 +40,8 @@ Nenurodyta
 - t-001
   global_id: t-59715
   teiginys: 'Broliai paženklino save šventojo kryžiaus ženklu ir prasiveržė pro didelę lietuvių kariuomenę.'
+  sudarymo_pagrindimas: 'Citata tiesiogiai sieja šventojo kryžiaus ženklą su brolių veiksmu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/daiktai/Paplotėlis|Paplotėlis]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_place: Lietuva; mentioned_place: Nemunas'
   pagrindžia:
     - c-001
 
@@ -61,13 +63,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Kryžius]]
-- [[objektai/grupes/Kuršiai]]
-- [[objektai/asmenys/Kūnas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/daiktai/Paplotėlis]]
-- [[objektai/zodynas/komtūras]]
-- [[objektai/zodynas/žygis]]

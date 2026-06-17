@@ -22,6 +22,8 @@ Tokiomis patrimonia S.
 - t-001
   global_id: t-28598
   teiginys: 'Patrimonia S. Petri tuo metu buvo tapusi ne viena Europos šalis.'
+  sudarymo_pagrindimas: 'Pradinis teiginys fragmentiškas, o citata pagrindžia pilną sakinį.'
+  susije_objektai: 'mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-001
 

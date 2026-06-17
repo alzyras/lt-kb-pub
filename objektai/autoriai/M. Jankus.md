@@ -15,18 +15,21 @@ tags:
 Jankus ir lietuvių draugas vokietis S.
 
 ## Teiginiai
+
 <a id="claim-t-01103"></a>
 - t-001
   global_id: t-01103
   teiginys: 'M. Jankus rašė „Aušrai“ kartu su Šernu, S. Zauerveinu ir Didžiosios Lietuvos lietuviais inteligentais.'
+  sudarymo_pagrindimas: 'Sakinys sutrumpintas ir tiksliau atitinka citatoje išvardytus autorius.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/autoriai/Zauerveinas|Zauerveinas]]; mentioned_person: [[objektai/autoriai/Šernas|Šernas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-
+- susijęs iš [[objektai/autoriai/Zauerveinas.md#claim-t-54145|Zauerveinas]]: Zauerveinas tyrė lietuvių kalbą, kovojo už lietuvių teises ir lietuvių laikraščiuose kėlė tautos susipratimą.
+- susijęs iš [[objektai/autoriai/Zauerveinas.md#claim-t-54145|Zauerveinas]]: Zauerveinas tyrė lietuvių kalbą, kovojo už lietuvių teises ir lietuvių laikraščiuose kėlė tautos susipratimą.
+- susijęs iš [[objektai/autoriai/Šernas.md#claim-t-01173|Šernas]]: Šernas „Lietuviškoje Ceitungoje“ pradėjo spausdinti patriotiškus straipsnius apie lietuvių praeitį ir svetimųjų jungą.
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'M. Jankus rašė „Aušrai“ kartu su Šernu, S. Zauerveinu ir Didžiosios Lietuvos lietuviais inteligentais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Visi jie buvo vien informacinio pobūdžio, ir tautiškosios
@@ -49,17 +52,11 @@ Jankus ir lietuvių draugas vokietis S.
     (autorius giesmės „Lie-
     tuviai esame mes gi-
     mę").
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/redaktorius]]
-
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
+- [[objektai/autoriai/Zauerveinas]] kariavo_pries M. Jankus

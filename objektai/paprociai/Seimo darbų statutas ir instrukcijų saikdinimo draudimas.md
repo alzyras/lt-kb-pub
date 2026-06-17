@@ -31,26 +31,43 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 <a id="claim-t-02018"></a>
 - t-001
   global_id: t-02018
   teiginys: 'Iki statuto seimo darbai vyko be nustatytos tvarkos ir dažnai iširdavo atstovams nesusitarus išrinkti maršalkos.'
+  sudarymo_pagrindimas: 'Sutrumpinta ir susieta su note objektu apie seimo darbų tvarką.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/maršalka|maršalka]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/statutas|statutas]]'
   pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+    - c-002
+
 <a id="claim-t-02019"></a>
 - t-002
   global_id: t-02019
   teiginys: 'Atstovų priesaikos griežtai laikytis seimelių instrukcijų buvo uždraustos, nes dėl jų anksčiau iširdavo daug seimų.'
+  sudarymo_pagrindimas: 'Sakinys sutrumpintas ir padarytas aiškesnis.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]'
   pagrindžia:
-    - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Iki statuto seimo darbai vyko be nustatytos tvarkos ir dažnai iširdavo atstovams nesusitarus išrinkti maršalkos.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Kadangi anksčiau daug seimų iširdavo
+    dėl to, kad atstovai seimeliuose būdavo saikdinami griežtai lai-
+    kytis instrukcijų, tai šitokios priesaikos dabar buvo uždraustos.
+    Be to, netiesiogiai buvo apribotas ir _liberum veto._ Priimant
+    seimo tvarkos įstatymą, _veto_ panaikinimui pasipriešino Rusų
+    atstovas Repninas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Lig šiol seimo darbai eidavo
@@ -70,34 +87,8 @@ Nenurodyta
     toje turėjo būti svarstomi sei-
     melių pageidavimai, surašyti instrukcijose, ir pačiam gale —
     visoki privatūs prašymai.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Atstovų priesaikos griežtai laikytis seimelių instrukcijų buvo uždraustos, nes dėl jų anksčiau iširdavo daug seimų.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Kadangi anksčiau daug seimų iširdavo
-    dėl to, kad atstovai seimeliuose būdavo saikdinami griežtai lai-
-    kytis instrukcijų, tai šitokios priesaikos dabar buvo uždraustos.
-    Be to, netiesiogiai buvo apribotas ir _liberum veto._ Priimant
-    seimo tvarkos įstatymą, _veto_ panaikinimui pasipriešino Rusų
-    atstovas Repninas.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Rusai]]
-- [[objektai/zodynas/maršalka]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/zodynas/statutas]]

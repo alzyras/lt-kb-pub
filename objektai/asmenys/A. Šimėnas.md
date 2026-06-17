@@ -20,6 +20,7 @@ tags:
 - t-001
   global_id: t-39986
   teiginys: 'A. Šimėnui buvo siūloma pasitraukti į pogrindį ir palaukti kelias dienas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -46,7 +47,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

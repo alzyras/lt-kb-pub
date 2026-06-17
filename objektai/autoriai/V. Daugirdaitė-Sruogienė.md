@@ -20,9 +20,11 @@ Sruogienė, V.
 - t-001
   global_id: t-31022
   teiginys: 'V. Daugirdaitė-Sruogienė parašė Lietuvių enciklopedijos straipsnį apie Norimantą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-001
-
+- susijęs iš Vilnius: V. Daugirdaitė-Sruogienė iki 1944 m. buvo istorijos mokytoja Kaune ir Vilniuje.
+- susijęs iš Vilnius: V. Daugirdaitė-Sruogienė iki 1944 m. buvo istorijos mokytoja Kaune ir Vilniuje.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -40,7 +42,3 @@ Sruogienė, V.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]

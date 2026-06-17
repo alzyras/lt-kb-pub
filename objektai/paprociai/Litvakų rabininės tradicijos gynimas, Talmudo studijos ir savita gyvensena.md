@@ -43,6 +43,8 @@ Nenurodyta
 - t-001
   global_id: t-54306
   teiginys: 'Vilniaus Gaonas gynė rabininę tradiciją, inicijavo akcijas prieš chasidizmą ir sustabdė jo plitimą Lietuvoje.'
+  sudarymo_pagrindimas: 'Teiginį verta susieti su rabininės tradicijos gynimu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Chasidai|Chasidai]]; mentioned_person: [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas|Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -50,6 +52,8 @@ Nenurodyta
 - t-002
   global_id: t-54307
   teiginys: 'Vilniaus Gaono siūlymu buvo pertvarkytas žydų teologijos dėstymas ješivose (religinėse mokslo įstaigose) ir jose patobulintos Talmudo studijos jidiš kalba.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/Jidiš|Jidiš]]; mentioned_object: [[objektai/zodynas/ješiva|ješiva]]; mentioned_person: [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas|Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -91,12 +95,3 @@ Nenurodyta
   pagrindžia:
     - t-004
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Chasidai]]
-- [[objektai/zodynas/Jidiš]]
-- [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]
-- [[objektai/zodynas/ješiva]]
-- [[objektai/grupes/Žydai]]
-- [[objektai/zodynas/chasidizmas rabinizmas]]

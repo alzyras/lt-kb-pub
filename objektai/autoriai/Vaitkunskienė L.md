@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Vaitkunskienė L., Sidabras..., p. 10 ir kt.
+Dusburgietis teigia, kad vaitkunskienė L., Sidabras..., p. 10 ir kt.
 
 ## Teiginiai
 
@@ -20,6 +20,8 @@ Vaitkunskienė L., Sidabras..., p. 10 ir kt.
 - t-001
   global_id: t-60806
   teiginys: 'Vaitkunskienė L., Sidabras..., p. 10 ir kt.'
+  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Sidabro dirbiniai|Sidabro dirbiniai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -36,7 +38,3 @@ Vaitkunskienė L., Sidabras..., p. 10 ir kt.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Sidabro dirbiniai]]

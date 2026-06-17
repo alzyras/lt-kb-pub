@@ -6,6 +6,7 @@ saltiniai:
 datos:
   - '1190 m.'
   - '1191 m.'
+  - '1245 m.'
   - '1264 m.'
 date_start: '1190'
 date_end: '1264'
@@ -32,6 +33,11 @@ Dusburgietis teigia, kad prologas — pirmoji, viena iš svarbiausių Vokiečių
 - t-001
   global_id: t-60968
   teiginys: 'Dusburgietis Vokiečių ordino pradžią datavo 1190 m., kai Akono apgulos metu vyrai iš Bremeno ir Liubeko įrengė ligoninę.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir paremtas citatoje pateikta Dusburgiečio datavimo tradicija.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_place: Bremenas; mentioned_place: Jeruzalė; mentioned_place: Liubekas; mentioned_place: Vokietija'
+  temporaliniai_duomenys: 'įvykio data: 1190 m.; įvykio data: po 1191 m.; įvykio data: 1191 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, aiškus ir paremtas citatoje pateikta Dusburgiečio datavimo tradicija.'
   pagrindžia:
     - c-001
 
@@ -39,6 +45,8 @@ Dusburgietis teigia, kad prologas — pirmoji, viena iš svarbiausių Vokiečių
 - t-002
   global_id: t-60969
   teiginys: 'Dusburgietis panaudojo Vokiečių ordino statutų prologą, pateikdamas vokiškąją ir tendencingą Ordino įsikūrimo versiją.'
+  sudarymo_pagrindimas: 'Šaltinio atribucija čia tinkama, nes teiginys kalba apie Dusburgiečio naudotą versiją ir jos vertinimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
   pagrindžia:
     - c-003
 
@@ -46,6 +54,11 @@ Dusburgietis teigia, kad prologas — pirmoji, viena iš svarbiausių Vokiečių
 - t-003
   global_id: t-60970
   teiginys: 'Vokiečių ordino statutų prologas buvo pirmoji ir viena svarbiausių statutų dalių.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie prologą ir atitinka citatą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/regula|regula]]; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1245 m.; įvykio data: apie 1245 m.; įvykio data: 1264 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie prologą ir atitinka citatą.'
   pagrindžia:
     - c-002
 

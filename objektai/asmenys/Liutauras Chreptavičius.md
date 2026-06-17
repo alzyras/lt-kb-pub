@@ -29,9 +29,11 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
 - t-001
   global_id: t-87544
   teiginys: 'Lietuvos maršalka Chreptavičius pateikė ataskaitą apie Vilniaus monetų kalyklos veiklą ir jos pajamas karaliaus iždui.'
+  sudarymo_pagrindimas: 'Citata patvirtina Chreptavičiaus ataskaitą, bet nepateikia vardo Liutauras.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/maršalka|maršalka]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/zodynas/piniginiai vienetai ir apskaitos matai monetų kalykloje.md#claim-t-86607|piniginiai vienetai ir apskaitos matai monetų kalykloje]]: Liutauras Chreptavičius didžiajam kunigaikščiui pateikė ketverių metų monetų kalyklos apskaitą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -53,10 +55,3 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/maršalka]]
-- [[objektai/zodynas/vaivada]]
-- [[objektai/zodynas/piniginiai vienetai ir apskaitos matai monetų kalykloje]]
-- [[objektai/daiktai/Aleksandro laikų Vilniaus monetos ir kalyklos metalai]]

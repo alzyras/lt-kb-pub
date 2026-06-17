@@ -27,6 +27,11 @@ Dusburgietis teigia, kad pakarklis P.
 - t-001
   global_id: t-61211
   teiginys: 'P. Pakarklio „Kryžiuočių valstybės santvarkos bruožai“ išleistas 1948 m.'
+  sudarymo_pagrindimas: 'Citata nurodo šio leidinio autorių, pavadinimą ir leidimo metus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Prūsai'
+  temporaliniai_duomenys: 'įvykio data: 1948 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata nurodo šio leidinio autorių, pavadinimą ir leidimo metus.'
   pagrindžia:
     - c-001
 

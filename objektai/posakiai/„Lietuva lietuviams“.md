@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Ketvirtajame dešimtmetyje laikraštyje „Verslas“ verslininkai puldinėjo žydų prekybininkus ir atvirai kėlė šūkį „Lietuva lietuviams“. Ketvirtajame dešimtmetyje laikraštyje „Verslas“ verslininkai atvirai kėlė šūkį „Lietuva lietuviams“.
+Lietuviams plūstelėjus į miestus ir veržiantis į pramonę bei prekybą, prasidėjus ekonomikos krizei, sustiprėjo konkurencija.
 
 ## Teiginiai
 
@@ -21,6 +21,8 @@ Ketvirtajame dešimtmetyje laikraštyje „Verslas“ verslininkai puldinėjo ž
 - t-001
   global_id: t-20850
   teiginys: 'Ketvirtajame dešimtmetyje laikraštyje „Verslas“ verslininkai puldinėjo žydų prekybininkus ir atvirai kėlė šūkį „Lietuva lietuviams“.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas, konkretus ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]'
   pagrindžia:
     - c-001
 
@@ -28,9 +30,14 @@ Ketvirtajame dešimtmetyje laikraštyje „Verslas“ verslininkai puldinėjo ž
 - t-002
   global_id: t-183498
   teiginys: 'Ketvirtajame dešimtmetyje laikraštyje „Verslas“ verslininkai atvirai kėlė šūkį „Lietuva lietuviams“.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys aiškiai sieja šūkį su laikraščiu „Verslas“ ir yra paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]'
   pagrindžia:
     - c-001
-
+- susijęs iš Verslas: Ketvirtajame dešimtmetyje verslininkai laikraštyje „Verslas“ agresyviai puldinėjo žydų prekybininkus ir kėlė šūkį „Lietuva lietuviams“.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -51,8 +58,3 @@ Ketvirtajame dešimtmetyje laikraštyje „Verslas“ verslininkai puldinėjo ž
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Žydai]]

@@ -29,6 +29,8 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
 - t-001
   global_id: t-65156
   teiginys: 'Dusburgiečio pasakojime galindų pagausėjo tiek, kad jų žemė nebegalėjo jų išmaitinti.'
+  sudarymo_pagrindimas: 'Citata perteikia kronikos pasakojimą, todėl tinka atribucija autoriui.'
+  susije_objektai: 'mentioned_place: Galinda'
   pagrindžia:
     - c-001
 
@@ -36,6 +38,8 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
 - t-002
   global_id: t-65157
   teiginys: 'Galindų žemė driekėsi į pietus nuo Bartos, nuo Alnos aukštumos vakaruose iki Nagutino ir Snervų ežerų rytuose.'
+  sudarymo_pagrindimas: 'Teiginys yra faktinis sakinys apie galindų žemę ir atitinka citatos informaciją.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Barta; mentioned_place: Nagutinas; mentioned_place: Narevas; mentioned_place: Snervai'
   pagrindžia:
     - c-002
 
@@ -43,9 +47,29 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
 - t-003
   global_id: t-183881
   teiginys: 'Dusburgiečio pasakojime galindai nutarė žudyti gimusias mergaites, o berniukus palikti karui.'
+  teiginio_tipas: 'saltinio_teiginys'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis teiginys dubliuoja ankstesnį fragmentą; citata palaiko kitą konkretų faktą.'
+  susije_objektai: 'mentioned_place: Galinda'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Michailas Jaroslavičius.md#claim-t-79112|Michailas Jaroslavičius]]: Lietuviai prie Protvos nukovė Maskvos didįjį kunigaikštį Michailą Jaroslavičių.
+- susijęs iš [[objektai/asmenys/Michailas Jaroslavičius.md#claim-t-79113|Michailas Jaroslavičius]]: Pamaskvėje prie Protvos lietuviai nukovė Maskvos didįjį kunigaikštį Michailą Jaroslavičių.
+- susijęs iš [[objektai/asmenys/Ptolemajas.md#claim-t-17607|Ptolemajas]]: Ptolemajas II a. žinojo galindus ir jotvingius, arba sūduvius.
+- susijęs iš [[objektai/autoriai/Jaskanis J.md#claim-t-60720|Jaskanis J]]: J. Jaskanio recenzija cituojama prie nuomonės, kad prūsiškuosius ir rytinius galindus siejo tik vardų panašumas.
+- susijęs iš [[objektai/autoriai/Вилинбахов В. Б.md#claim-t-91957|Вилинбахов В. Б]]: Imperatoriaus Voluziano (252— 253 m.) titule įrašyti ir galindai (Вилинбахов В.
+- susijęs iš [[objektai/grupes/Skalviai.md#claim-t-89218|Skalviai]]: Materialinės kultūros požiūriu skalviai prie Nemuno žemupio siejami su kuršiais, kalbėjusiais pereinamąja kalba tarp prūsų, žemaičių ir latvių.
+- susijęs iš [[objektai/grupes/Žiemgaliai.md#claim-t-89342|Žiemgaliai]]: Ankstyvaisiais Viduramžiais Vakarų metraštininkai pradėjo minėti žiemgalius.
+- susijęs iš [[objektai/ivykiai/Galindų žygis be ginklų ir Galindos žemės nusiaubimas.md#claim-t-91904|Galindų žygis be ginklų ir Galindos žemės nusiaubimas]]: Galindų žynė paragino žemės galinguosius be ginklų kariauti su krikščionimis.
+- susijęs iš [[objektai/posakiai/Jei gims berniukas, nužudykite jį, jeigu mergaitė — palikite gyvą.md#claim-t-184030|Jei gims berniukas, nužudykite jį, jeigu mergaitė — palikite gyvą]]: Dusburgiečio pasakojime galindai nutarė žudyti gimusias mergaites, o berniukus palikti karui.
+- susijęs iš [[objektai/posakiai/Jei gims berniukas, nužudykite jį, jeigu mergaitė — palikite gyvą.md#claim-t-59099|Jei gims berniukas, nužudykite jį, jeigu mergaitė — palikite gyvą]]: Dusburgiečio pasakojime galindai nutarė žudyti gimusias mergaites, o berniukus palikti karui.
+- susijęs iš Geografija: Klaudijas Ptolemajas „Geografijoje“ pateikė galindų ir sūdinų vardus kaip du neabejotinus baltų kilčių vardus.
+- susijęs iš Geografija: Klaudijas Ptolemajas „Geografijoje“ pateikė galindų ir sūdinų vardus kaip du neabejotinus baltų kilčių vardus.
+- susijęs iš Vanagas A. Galindai Ispanijoje ir Amerikoje: A. Vanago straipsnis „Galindai Ispanijoje ir Amerikoje“ paskelbtas žurnale „Mokslas ir gyvenimas“ 1965 m.
+- susijęs iš Вилинбахов В. Б., Энговатов Н. В. Предварительные замечания о западных галиндах и восточной голяди: V. B. Vilinbachovo ir N. V. Engovatovo straipsnis apie vakarų galindus ir rytų goliadę paskelbtas 1963 m. 23 tome.
+- susijęs iš Galinda: Galindos žemė buvo į pietus nuo Bartos, nuo Alnos aukštumos vakaruose iki Nagutino ir Snervų ežerų rytuose.
+- susijęs iš Protvos upė: Prie Protvos upės liko asimiliacijai atkirsta toliausiai į rytus įsiterpusi baltiškos kilmės Goliadės atplaiša.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -83,15 +107,3 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Adynos|adynos]]
-- [[objektai/autoriai/Jaskanis J]]
-- [[objektai/asmenys/Michailas Jaroslavičius]]
-- [[objektai/asmenys/Ptolemajas]]
-- [[objektai/grupes/Skalviai]]
-- [[objektai/grupes/Žiemgaliai]]
-- [[objektai/autoriai/Вилинбахов В. Б]]
-- [[objektai/ivykiai/Galindų žygis be ginklų ir Galindos žemės nusiaubimas]]
-- [[objektai/posakiai/Jei gims berniukas, nužudykite jį, jeigu mergaitė — palikite gyvą]]

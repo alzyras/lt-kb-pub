@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Frydrichas fon Valenrodas kariuomenei išsirikiavus mūšio lauke vadovavo kairiajam sparnui. Frydrichas fon Valenrodas kariuomenei išsirikiavus mūšio lauke vadovavo kairiajam sparnui.
+Kariuomenei išsirikiavus mūšio lauke, kairiajam sparnui vadovavo didysis maršalas Frydrichas fon Valenrodas, dešiniajam - didysis komtūras Kunas fon Lichtenšteinas.
 
 ## Teiginiai
 
@@ -21,6 +21,8 @@ Frydrichas fon Valenrodas kariuomenei išsirikiavus mūšio lauke vadovavo kairi
 - t-001
   global_id: t-40112
   teiginys: 'Frydrichas fon Valenrodas kariuomenei išsirikiavus mūšio lauke vadovavo kairiajam sparnui.'
+  sudarymo_pagrindimas: 'Perrašyta, kad sakinys prasidėtų aiškiu note objekto subjektu.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-001
 
@@ -53,7 +55,3 @@ Frydrichas fon Valenrodas kariuomenei išsirikiavus mūšio lauke vadovavo kairi
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/komtūras]]

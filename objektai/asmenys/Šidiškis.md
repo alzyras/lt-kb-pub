@@ -20,6 +20,8 @@ tags:
 - t-001
   global_id: t-39829
   teiginys: '1-ojo būrio kareivis Šidiškis prašė leidimo pulti lenkus durtuvais.'
+  sudarymo_pagrindimas: 'Teiginį galima sutrumpinti ir sutvarkyti apie patį asmenį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/Kariauna|Kariauna]]; mentioned_person: [[objektai/asmenys/Cipkevičius|Cipkevičius]]'
   pagrindžia:
     - c-001
 
@@ -27,9 +29,14 @@ tags:
 - t-002
   global_id: t-183771
   teiginys: '1 būrio kareivis Šidiškis prašė leidimo pulti lenkus durtuvais.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Reikia pašalinti pirmojo asmens formą ir padaryti teiginį enciklopediniu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/Kariauna|Kariauna]]; mentioned_person: [[objektai/asmenys/Cipkevičius|Cipkevičius]]'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/asmenys/Cipkevičius.md#claim-t-39718|Cipkevičius]]: 1-ojo būrio kareivis Cipkevičius kartu su Šidiškiu prašė leidimo pulti lenkus durtuvais.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -56,7 +63,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]

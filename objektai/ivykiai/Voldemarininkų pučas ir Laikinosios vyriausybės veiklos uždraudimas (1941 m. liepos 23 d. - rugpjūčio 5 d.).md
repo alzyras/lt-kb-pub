@@ -4,9 +4,10 @@ pavadinimas: 'Voldemarininkų pučas ir Laikinosios vyriausybės veiklos uždrau
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
+  - '1940 m.'
   - '1941 m.'
-date_start: '1941'
-date_end: ''
+date_start: '1940'
+date_end: '1941'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -18,7 +19,7 @@ amziai:
 
 ## Santrauka
 
-Liepos 23-iosios naktį naciai per gestapui paklususius voldemarininkus įvykdė pučą ir perėmė batalionų bei policijos vadovybę. Po Laikinosios vyriausybės veiklos sustabdymo naciai 1941 m. rugsėjo 26 d. uždarė LAF, kai dauguma ministrų atsisakė tapti tarėjais.
+Nepatenkinti LV egzistavimu naciai liepos 23-iosios naktį voldemarininkų nacionalistų, paklususių gestapui, rankomis įvykdė pučą, pašalinę LAF paskirtus asmenis, paėmė batalionų ir policijos vadovybę į savo rankas. Vyriausybės pirmininkui J.
 
 ## Laikotarpis ir datos
 
@@ -42,6 +43,11 @@ Nenurodyta
 - t-001
   global_id: t-20563
   teiginys: 'Liepos 23-iosios naktį naciai per gestapui paklususius voldemarininkus įvykdė pučą ir perėmė batalionų bei policijos vadovybę.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Voldemarininkai|Voldemarininkai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: iki 1940 m.; įvykio data: 1940 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -49,6 +55,11 @@ Nenurodyta
 - t-002
   global_id: t-20564
   teiginys: 'Po Laikinosios vyriausybės veiklos sustabdymo naciai 1941 m. rugsėjo 26 d. uždarė LAF, kai dauguma ministrų atsisakė tapti tarėjais.'
+  sudarymo_pagrindimas: 'Perrašyta, kad faktas būtų aiškiai susietas su Laikinosios vyriausybės veiklos sustabdymo kontekstu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Voldemarininkai|Voldemarininkai]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1941 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Perrašyta, kad faktas būtų aiškiai susietas su Laikinosios vyriausybės veiklos sustabdymo kontekstu.'
   pagrindžia:
     - c-002
 
@@ -89,12 +100,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/grupes/Voldemarininkai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Lietuvių aktyvistų frontas]]
-- [[objektai/grupes/Lietuvių nacionalistų partija]]

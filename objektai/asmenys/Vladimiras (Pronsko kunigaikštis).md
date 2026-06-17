@@ -21,6 +21,9 @@ Didysis kunigaikštis Dmitrijus buvo užsidaręs Kremliuje, jo pusbrolis kunigai
 - t-001
   global_id: t-39673
   teiginys: 'Pronsko kunigaikštis Vladimiras su Riazanės kariais žygiavo Maskvos link.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'territory: Maskva; territory: Pronskas; territory: Riazanė; territory: Vladimiras; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Dmitrijus|Dmitrijus]]; mentioned_person: [[objektai/asmenys/Vladimiras Andrejevičius|Vladimiras Andrejevičius]]; mentioned_place: Maskva; mentioned_place: Pronskas; mentioned_place: Riazanė; mentioned_place: Vladimiras'
+  semantiniai_rysiai: '[[objektai/asmenys/Vladimiras (Pronsko kunigaikštis)|Vladimiras (Pronsko kunigaikštis)]] buvo valdovas Maskva; [[objektai/asmenys/Vladimiras (Pronsko kunigaikštis)|Vladimiras (Pronsko kunigaikštis)]] buvo valdovas Pronskas; [[objektai/asmenys/Vladimiras (Pronsko kunigaikštis)|Vladimiras (Pronsko kunigaikštis)]] buvo valdovas Riazanė; [[objektai/asmenys/Vladimiras (Pronsko kunigaikštis)|Vladimiras (Pronsko kunigaikštis)]] buvo valdovas Vladimiras'
   pagrindžia:
     - c-001
 
@@ -65,7 +68,8 @@ Didysis kunigaikštis Dmitrijus buvo užsidaręs Kremliuje, jo pusbrolis kunigai
     - t-002
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Dmitrijus]]
-- [[objektai/asmenys/Vladimiras Andrejevičius]]
-- [[objektai/zodynas/didysis kunigaikštis]]
+- Vladimiras (Pronsko kunigaikštis) buvo_valdovas [[objektai/vietos/Kremlius]]
+- Vladimiras (Pronsko kunigaikštis) buvo_valdovas [[objektai/vietos/Maskva]]
+- Vladimiras (Pronsko kunigaikštis) buvo_valdovas [[objektai/vietos/Pronskas]]
+- Vladimiras (Pronsko kunigaikštis) buvo_valdovas [[objektai/vietos/Riazanė]]
+- Vladimiras (Pronsko kunigaikštis) buvo_valdovas [[objektai/vietos/Vladimiras]]

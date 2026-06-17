@@ -12,13 +12,14 @@ date_start: '1788'
 date_end: '1792'
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XVIII'
 tags:
   - grupe
   - karalius
   - reforma
   - seimas
+  - valstybė
+amziai:
+  - 'XVIII'
 ---
 # Ketverių metų seimas
 
@@ -27,10 +28,16 @@ tags:
 Tatai buvo daroma 1788—1792 m. ketverių metų, arba reformų, seime. Šitaip seimas veikė net ištisus 4 metus ir per tą laiką pakeitė visą valstybės santvarką. Priimtoje konstitucijoje buvo pasakyta, kad ji galėsianti būti pataisyta tik po 25 metų tam reikalui sušaukto specialaus seimo.
 
 ## Teiginiai
+
 <a id="claim-t-74186"></a>
 - t-001
   global_id: t-74186
   teiginys: 'Ketverių metų seimas 1791 m. patvirtino Paulavos respublikos įstatus.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Ketverių metų seimo sprendimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Targovicos konfederacija|Targovicos konfederacija]]; mentioned_object: [[objektai/zodynas/konfederacija|konfederacija]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Paulava; mentioned_place: Rusija; mentioned_place: Targovica'
+  temporaliniai_duomenys: 'įvykio data: 1791 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie Ketverių metų seimo sprendimą.'
   pagrindžia:
     - c-001
 
@@ -38,6 +45,11 @@ Tatai buvo daroma 1788—1792 m. ketverių metų, arba reformų, seime. Šitaip 
 - t-002
   global_id: t-74187
   teiginys: 'Nuo 1788 m. posėdžiavęs Ketverių metų seimas priėmė Gegužės trečiosios konstituciją.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiksliai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]'
+  temporaliniai_duomenys: 'įvykio data: po 1788 m.; įvykio data: 1788 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir tiksliai paremtas citata.'
   pagrindžia:
     - c-002
 
@@ -45,20 +57,35 @@ Tatai buvo daroma 1788—1792 m. ketverių metų, arba reformų, seime. Šitaip 
 - t-003
   global_id: t-182896
   teiginys: 'Ketverių metų seimas veikė ištisus ketverius metus ir per tą laiką pakeitė visą valstybės santvarką.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pašalintas kontekstinis žodis ir aiškiai įvardytas seimas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Rusija; mentioned_place: Viena'
   pagrindžia:
     - c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+
 <a id="claim-t-182897"></a>
 - t-004
   global_id: t-182897
   teiginys: 'Ketverių metų seimo priimta konstitucija galėjo būti taisoma tik po 25 metų specialiai sušauktame seime.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys susietas su note objektu ir išlaikytas citatos faktas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Targovicos konfederacija|Targovicos konfederacija]]; mentioned_object: [[objektai/zodynas/konfederacija|konfederacija]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Rusija; mentioned_place: Targovica'
   pagrindžia:
     - c-004
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-
+- susijęs iš [[objektai/asmenys/Povilas Ksaveras Bžostovskis.md#claim-t-23215|Povilas Ksaveras Bžostovskis]]: Povilo Ksavero Bžostovskio įkurtos Paulavos respublikos įstatus 1791 m. patvirtino Ketverių metų seimas.
+- susijęs iš [[objektai/grupes/Bajorai.md#claim-t-169566|Bajorai]]: Ketverių metų seimas pirmą kartą bandė miestiečių luomui suteikti beveik lygias teises su bajorais.
+- susijęs iš [[objektai/ivykiai/Gegužės trečiosios konstitucijos priėmimas.md#claim-t-75099|Gegužės trečiosios konstitucijos priėmimas]]: Nuo 1788 m. posėdžiavęs Ketverių metų seimas priėmė Gegužės trečiosios konstituciją.
+- susijęs iš [[objektai/ivykiai/Gegužės trečiosios konstitucijos priėmimas.md#claim-t-75101|Gegužės trečiosios konstitucijos priėmimas]]: Nuo 1788 m. posėdžiavęs Ketverių metų seimas priėmė Gegužės trečiosios konstituciją.
+- susijęs iš [[objektai/ivykiai/Ketverių metų seimas (1788–1792 m.).md#claim-t-78620|Ketverių metų seimas (1788–1792 m.)]]: Ketverių metų seimas 1791 m. gegužės 3 d. priėmė konstituciją ir kitus įstatymus, turėjusius reformuoti valstybę bei atsikratyti Rusijos protektorato.
+- susijęs iš [[objektai/ivykiai/Paulavos respublikos įkūrimas ir įstatų patvirtinimas.md#claim-t-77886|Paulavos respublikos įkūrimas ir įstatų patvirtinimas]]: Povilas Ksaveras Bžostovskis įkūrė Paulavos respubliką, kurios įstatus 1791 m. patvirtino Ketverių metų seimas.
+- susijęs iš Gegužės 3 d. konstitucija (1791 m.): Nuo 1788 m. posėdžiavęs Ketverių metų seimas priėmė Gegužės 3 d. konstituciją.
+- susijęs iš Paulavos respublikos įstatai (1791 m.): 1791 m. Ketverių metų seimas patvirtino P. K. Bžostovskio įkurtos Paulavos respublikos įstatus.
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Ketverių metų seimas 1791 m. patvirtino Paulavos respublikos įstatus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -74,6 +101,7 @@ Tatai buvo daroma 1788—1792 m. ketverių metų, arba reformų, seime. Šitaip 
   statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Nuo 1788 m. posėdžiavęs Ketverių metų seimas priėmė Gegužės trečiosios konstituciją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -92,6 +120,7 @@ Tatai buvo daroma 1788—1792 m. ketverių metų, arba reformų, seime. Šitaip 
   statusas: verified
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'Ketverių metų seimas veikė ištisus ketverius metus ir per tą laiką pakeitė visą valstybės santvarką.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -110,13 +139,12 @@ Tatai buvo daroma 1788—1792 m. ketverių metų, arba reformų, seime. Šitaip 
     karus, Rusija nusiuntė į Res-
     publiką savo kariuomenę ir su-
     griovė visas reformas.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-003
+
 - c-004
   santrauka: 'Ketverių metų seimo priimta konstitucija galėjo būti taisoma tik po 25 metų specialiai sušauktame seime.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -128,26 +156,8 @@ Tatai buvo daroma 1788—1792 m. ketverių metų, arba reformų, seime. Šitaip 
     ganizavo reformų priešų konfederaciją ir, davusi jai savo ka-
     riuomenės, viską sugriovė. Ta konfederacija dėl jos akto pa-
     skelbimo vietos yra vadinama Targovicos konfederacija.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bajorai]]
-- [[objektai/asmenys/Bžostovskis (Vilniaus vyskupas)]]
-- [[objektai/asmenys/Povilas Ksaveras Bžostovskis]]
-- [[objektai/grupes/Targovicos konfederacija]]
-- [[objektai/zodynas/konfederacija]]
-- [[objektai/zodynas/luomas]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/ivykiai/Gegužės trečiosios konstitucijos priėmimas]]
-- [[objektai/ivykiai/Ketverių metų seimas (1788–1792 m.)]]
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/ivykiai/Paulavos respublikos įkūrimas ir įstatų patvirtinimas]]
-- [[objektai/ivykiai/Targovicos konfederacija (1792—1793 m.)]]

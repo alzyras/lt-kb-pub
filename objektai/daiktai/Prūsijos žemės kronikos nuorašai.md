@@ -49,6 +49,11 @@ Nenurodyta
 - t-001
   global_id: t-59704
   teiginys: 'M. Tepenas 1861 m. paskelbė kronikos mokslinį leidimą, parengtą pagal Torunės, Karaliaučiaus, Berlyno ir kitus nuorašus.'
+  sudarymo_pagrindimas: 'Teiginys yra savarankiškas, faktinis ir paremtas citata.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_person: [[objektai/autoriai/M. Tepenas|M. Tepenas]]; mentioned_place: Berlynas'
+  temporaliniai_duomenys: 'įvykio data: 1861 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra savarankiškas, faktinis ir paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -72,8 +77,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/Dusburgas]]
-- [[objektai/autoriai/M. Tepenas]]

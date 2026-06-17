@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-„Laisvųjų riterių“ brolija parengė XIII a. Vakarų Europos riterio rekonstrukciją.
+Vakarų Europos riterio rekonstrukcija.
 
 ## Teiginiai
 
@@ -20,6 +20,8 @@ tags:
 - t-001
   global_id: t-80641
   teiginys: '„Laisvųjų riterių“ brolija parengė XIII a. Vakarų Europos riterio rekonstrukciją.'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo fragmentas be aiškaus predikato; citata leidžia suformuluoti pilną sakinį.'
+  susije_objektai: 'mentioned_place: Europa'
   pagrindžia:
     - c-001
 

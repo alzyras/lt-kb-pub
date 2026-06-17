@@ -11,31 +11,36 @@ tags:
   - karalius
   - tauta
   - valdovas
+  - valstybė
 ---
 # Didžioji Lietuvos kunigaikštystė
 
 ## Santrauka
 
-Ivinskio vertinimu, Didžioji Lietuvos kunigaikštystė Jogailos laikais ilgiau nebegalėjo būti valdoma pagonio. Ivinskio vertinimu, Didžioji Lietuvos kunigaikštystė Jogailos laikais ilgiau nebegalėjo būti valdoma pagonio. Liublino unijos akto trečiasis paragrafas skelbė, kad Didžioji Lietuvos Kunigaikštystė ir Lenkijos Karalystė sudaro vieną bendrą valstybę.
+„Didžioji Lietuvos kunigaikštystė ir Lenkų karalystė yra vienas nedalomas ir vienalytis kūnas, o taip pat ne skirtinga, bet viena bendra valstybė, kuri iš dviejų valstybių ir dviejų tautų suėjo ir susijungė į vieną visuomenę". Lietuviams reikalaujant, Lietuvai buvo paliktas nepaliestas visas valdžios aparatas (.. 10 ir 17).
 
 ## Teiginiai
+
 <a id="claim-t-96094"></a>
 - t-001
   global_id: t-96094
   teiginys: 'Ivinskio vertinimu, Didžioji Lietuvos kunigaikštystė Jogailos laikais ilgiau nebegalėjo būti valdoma pagonio.'
+  sudarymo_pagrindimas: 'Citata perteikia autoriaus vertinimą, todėl teiginys perrašytas su atribucija ir aiškiu kontekstu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 
-<a id="claim-t-96095"></a>
-- t-002
-  global_id: t-96095
+<a id="claim-t-96096"></a>
+- t-003
+  global_id: t-96096
   teiginys: 'Liublino unijos akto trečiasis paragrafas skelbė, kad Didžioji Lietuvos Kunigaikštystė ir Lenkijos Karalystė sudaro vieną bendrą valstybę.'
+  sudarymo_pagrindimas: 'Pašalinti citatos ir OCR artefaktai, išlaikant pagrindinį citata paremtą faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Lenkijos karalystė; mentioned_place: Lietuva; mentioned_place: Liublinas; mentioned_place: Viena'
   pagrindžia:
     - c-004
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-
+- susijęs iš [[objektai/zodynas/dominija.md#claim-t-173017|dominija]]: Dokumente numatyta, kad po Vytauto mirties Didžioji Lietuvos Kunigaikštystė ir jos dominijos turi tekti Jogailai ir Lenkijai.
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Ivinskio vertinimu, Didžioji Lietuvos kunigaikštystė Jogailos laikais ilgiau nebegalėjo būti valdoma pagonio.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -52,6 +57,7 @@ Ivinskio vertinimu, Didžioji Lietuvos kunigaikštystė Jogailos laikais ilgiau 
   statusas: verified
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Ivinskio vertinimu, Didžioji Lietuvos kunigaikštystė Jogailos laikais ilgiau nebegalėjo būti valdoma pagonio.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -69,6 +75,7 @@ Ivinskio vertinimu, Didžioji Lietuvos kunigaikštystė Jogailos laikais ilgiau 
   statusas: verified
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'Ivinskio vertinimu, Didžioji Lietuvos kunigaikštystė Jogailos laikais ilgiau nebegalėjo būti valdoma pagonio.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -86,6 +93,7 @@ Ivinskio vertinimu, Didžioji Lietuvos kunigaikštystė Jogailos laikais ilgiau 
   statusas: verified
   pagrindžia:
     - t-001
+
 - c-004
   santrauka: 'Liublino unijos akto trečiasis paragrafas skelbė, kad Didžioji Lietuvos Kunigaikštystė ir Lenkijos Karalystė sudaro vieną bendrą valstybę.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -98,23 +106,8 @@ Ivinskio vertinimu, Didžioji Lietuvos kunigaikštystė Jogailos laikais ilgiau 
     Toliau sakoma, kad taip sujungtos valstybės turėsiančios vieną
     bendrą valdovą, kuris būsiąs bendrai renkamas Lietuvoje ir ka-
     rūnuojamas Krokuvoje (§ 4).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/asmenys/Gediminas]]
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/kunigaikštija]]
-- [[objektai/zodynas/unija]]
-- [[objektai/zodynas/dominija]]
+    - t-003

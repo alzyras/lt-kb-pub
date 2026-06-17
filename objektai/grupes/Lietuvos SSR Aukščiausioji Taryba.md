@@ -3,6 +3,15 @@ tipas: grupe
 pavadinimas: 'Lietuvos SSR Aukščiausioji Taryba'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1936 m.'
+  - '1940 m.'
+  - '1945 m.'
+  - '1946 m.'
+  - '1947 m.'
+  - '1988 m.'
+date_start: '1936'
+date_end: '1988'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -10,12 +19,14 @@ tags:
   - karas
   - tauta
   - valstybė
+amziai:
+  - 'XX'
 ---
 # Lietuvos SSR Aukščiausioji Taryba
 
 ## Santrauka
 
-Lietuvos SSR Aukščiausiosios Tarybos sudaryta valstybinė komisija išnagrinėjo ir viešai pasmerkė Molotovo–Ribentropo pakto ir slaptųjų protokolų padarinius – 1940 m. vasarą sovietų valstybės įvykdytą Lietuvos okupaciją ir neteisėtą prijungimą. 1989 m. gegužės 18 d. LPS reikalavimu priimtos konstitucinės pataisos paskelbė Lietuvos įstatymų viršenybę SSRS įstatymų atžvilgiu. 1940 m. rugpjūčio 25 d. Liaudies seimas buvo pervadintas Lietuvos SSR Aukščiausiąja Taryba.
+Pavertus Lietuvą SSRS sudedamąja dalimi, savanoriškumo kamufliažo atsisakyta – valdymo sistema tvarkyta pagal Sovietų Sąjungos modelį: rugpjūčio 25 dieną Liaudies seimas buvo pervadintas Lietuvos SSR Aukščiausiąja Taryba, kitą dieną formaliai aukščiausiąja. Sugrąžindamas Lietuvoje sovietų valdžią J. Spalio 6-ąją Aukščiausiosios Tarybos Prezidiumas suteikė lietuvių kalbai valstybinės kalbos statusą ir legalizavo Lietuvos trispalvę, V.
 
 ## Teiginiai
 
@@ -23,6 +34,11 @@ Lietuvos SSR Aukščiausiosios Tarybos sudaryta valstybinė komisija išnagrinė
 - t-001
   global_id: t-65775
   teiginys: 'Lietuvos SSR Aukščiausiosios Tarybos sudaryta valstybinė komisija išnagrinėjo ir viešai pasmerkė Molotovo–Ribentropo pakto ir slaptųjų protokolų padarinius – 1940 m. vasarą sovietų valstybės įvykdytą Lietuvos okupaciją ir neteisėtą prijungimą.'
+  sudarymo_pagrindimas: 'Teiginys yra išsamus, gramatiškas ir tiesiogiai susijęs su institucijos veiksmu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Estai|Estai]]; mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_object: [[objektai/zodynas/Aukausenos|Aukausenos]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Aukščiausiosios Tarybos rūmai; mentioned_place: Baltija; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1940 m.; įvykio data: 1989 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra išsamus, gramatiškas ir tiesiogiai susijęs su institucijos veiksmu.'
   pagrindžia:
     - c-005
 
@@ -30,6 +46,11 @@ Lietuvos SSR Aukščiausiosios Tarybos sudaryta valstybinė komisija išnagrinė
 - t-002
   global_id: t-65776
   teiginys: '1989 m. gegužės 18 d. LPS reikalavimu priimtos konstitucinės pataisos paskelbė Lietuvos įstatymų viršenybę SSRS įstatymų atžvilgiu.'
+  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytą datą, reikalavimą ir pataisų turinį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Suverenitetas|Suverenitetas]]; mentioned_object: [[objektai/zodynas/konstitucijos|konstitucijos]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Aukščiausiosios Tarybos rūmai; mentioned_place: Lietuva; mentioned_place: SSRS'
+  temporaliniai_duomenys: 'įvykio data: po 1988 m.; įvykio data: 1988 m.; įvykio data: 1989 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia citatoje nurodytą datą, reikalavimą ir pataisų turinį.'
   pagrindžia:
     - c-004
 
@@ -37,6 +58,11 @@ Lietuvos SSR Aukščiausiosios Tarybos sudaryta valstybinė komisija išnagrinė
 - t-003
   global_id: t-65777
   teiginys: '1940 m. rugpjūčio 25 d. Liaudies seimas buvo pervadintas Lietuvos SSR Aukščiausiąja Taryba.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nurodo datą, veiksmą ir institucijos pavadinimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Liaudies seimas|Liaudies seimas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lietuva; mentioned_place: SSRS'
+  temporaliniai_duomenys: 'įvykio data: po 1936 m.; įvykio data: 1936 m.; įvykio data: 1940 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo datą, veiksmą ir institucijos pavadinimą.'
   pagrindžia:
     - c-001
 
@@ -44,6 +70,11 @@ Lietuvos SSR Aukščiausiosios Tarybos sudaryta valstybinė komisija išnagrinė
 - t-004
   global_id: t-65779
   teiginys: '1988 m. spalio 6 d. Lietuvos SSR Aukščiausiosios Tarybos Prezidiumas suteikė lietuvių kalbai valstybinės kalbos statusą ir legalizavo Lietuvos trispalvę.'
+  sudarymo_pagrindimas: 'Pridėti metai, kad data būtų aiški ir enciklopediška.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/autoriai/Vincas Kudirka|Vincas Kudirka]]; mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Aukščiausiosios Tarybos rūmai; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1988 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pridėti metai, kad data būtų aiški ir enciklopediška.'
   pagrindžia:
     - c-003
 
@@ -51,6 +82,11 @@ Lietuvos SSR Aukščiausiosios Tarybos sudaryta valstybinė komisija išnagrinė
 - t-005
   global_id: t-65780
   teiginys: 'Po karo rinkimai į Lietuvos SSR Aukščiausiąją Tarybą pirmą kartą vyko 1947 m.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir citata patvirtina rinkimų laiką.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/J. Stalinas|J. Stalinas]]; mentioned_place: Baltija; mentioned_place: Lietuva; mentioned_place: SSRS'
+  temporaliniai_duomenys: 'įvykio data: iki 1945 m.; įvykio data: 1945 m.; įvykio data: 1946 m.; įvykio data: 1947 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys ir citata patvirtina rinkimų laiką.'
   pagrindžia:
     - c-002
 
@@ -155,33 +191,3 @@ Lietuvos SSR Aukščiausiosios Tarybos sudaryta valstybinė komisija išnagrinė
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/grupes/Estai]]
-- [[objektai/asmenys/Gediminas]]
-- [[objektai/asmenys/J. Stalinas]]
-- [[objektai/grupes/Latviai]]
-- [[objektai/grupes/Liaudies seimas|Liaudies seimas (seimas)]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/Suverenitetas]]
-- [[objektai/daiktai/Vytis]]
-- [[objektai/zodynas/Aukausenos|aukausenos]]
-- [[objektai/zodynas/konstitucijos]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/ivykiai/Algirdo Brazausko tapimas LKP CK pirmuoju sekretoriumi ir Vilniaus arkikatedros grąžinimas tikintiesiems (1988 m. spalis)]]
-- [[objektai/paprociai/Baltijos kelias kaip gyvos žmonių grandinės komemoracinė protesto forma]]
-- [[objektai/daiktai/Baltijos kelio gedulo kaspinai ir žvakutės]]
-- [[objektai/ivykiai/Lietuvių kalbos ir Lietuvos simbolių legalizavimas (1988 m. spalio 6 d.)]]
-- [[objektai/grupes/Lietuvos SSR liaudies komisarų taryba|Lietuvos SSR liaudies komisarų taryba (institucija)]]
-- [[objektai/ivykiai/Lietuvos SSR sovietinės valdžios institucijų įforminimas (1940 m. rugpjūčio 25-26 d.)]]
-- [[objektai/ivykiai/Lietuvos konstitucinės pataisos ir suvereniteto deklaracija (1989 m. gegužės 18 d.)]]
-- [[objektai/ivykiai/Okupacinės valdžios rinkimai į aukščiausias institucijas po karo (1946-1947 m.)]]
-- [[objektai/autoriai/V. Kudirka]]
-- [[objektai/asmenys/Vincas Kudirka]]
-- [[objektai/zodynas/savanoriškumo kamufliažas]]
-- [[objektai/zodynas/suverenitetas suverenumas]]
-- [[objektai/zodynas/suverenumas suverenitetas]]

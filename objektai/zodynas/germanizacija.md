@@ -15,21 +15,26 @@ tags:
 
 ## Santrauka
 
-Mažojoje Lietuvoje germanizacijos politika sustiprėjo tik XIX a. pabaigoje ir nespėjo suvokietinti visų lietuvių. XIX a. Mažojoje Lietuvoje pasaulietiniai lietuvių inteligentai pradėjo kovoti su germanizacijos pastangomis.
+Tuo tarpu Mažojoje Lietuvoje ilgą laiką svetimieji buvo tik ponai, o kolonistų daugiau buvo prigabenta tik XVIII amž.; pagaliau pati germanizacijos politika M. Tuo būdu ordino laikais tik Mažoji Lietuva išvengė germanizacijos. Naujas lietuviškasis sąjūdis, kuris truko iki pat mūsų laikų, ten prasidėjo tik XIX amž., kai su germanizacijos pastangomis jau ėmė kovoti pasauliniai lietuviai inteligentai.
 
 ## Teiginiai
+
 <a id="claim-t-03004"></a>
 - t-001
   global_id: t-03004
   teiginys: 'Mažojoje Lietuvoje germanizacijos politika sustiprėjo tik XIX a. pabaigoje ir nespėjo suvokietinti visų lietuvių.'
+  sudarymo_pagrindimas: 'Pirminis teiginys nutrūkęs ir turi OCR santrumpų.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-
+- susijęs iš [[objektai/grupes/Oberostas.md#claim-t-74883|Oberostas]]: Oberosto režimas nusavino maistą, apkrovė gyventojus mokesčiais ir prievolėmis, išvežė pramonės įmones ir pradėjo germanizaciją mokyklose.
+- susijęs iš [[objektai/grupes/Oberostas.md#claim-t-74886|Oberostas]]: Oberosto karinis kolonijinis režimas nusavindavo maistą, apkrovė valstiečius mokesčiais bei prievolėmis ir pradėjo germanizaciją mokyklose.
+- susijęs iš Gumbinė: XVIII a. Prūsijoje įsteigto Lietuvos departamento centras buvo Gumbinė.
+- susijęs iš Prūsija: XVIII a. Prūsijoje veikė Lietuvos departamentas su centru Gumbinėje, tačiau lietuvių kalbos vartojimas Prūsijoje ilgainiui siaurėjo.
+- susijęs iš Prūsija: XVIII a. Prūsijoje oficialiai vartotas Lietuvos vardas, nes buvo įsteigtas Lietuvos departamentas su centru Gumbinėje.
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Mažojoje Lietuvoje germanizacijos politika sustiprėjo tik XIX a. pabaigoje ir nespėjo suvokietinti visų lietuvių.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Beje, už M. Lietuvos ribų lietuvių (t. y. vad. prūsų) nuo XVI
@@ -40,17 +45,8 @@ Mažojoje Lietuvoje germanizacijos politika sustiprėjo tik XIX a. pabaigoje ir 
     ponai, o kolonistų daugiau buvo prigabenta tik XVIII amž.;
     pagaliau pati germanizacijos politika M. Lietuvoj tesustiprėjo
     tik į XIX amž. galą, todėl nė nespėjo čia suvirškinti visų lietuvių.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/germanizacija vokietinimas vokietėjimas]]
-- [[objektai/grupes/Oberostas]]

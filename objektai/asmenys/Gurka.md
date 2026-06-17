@@ -18,6 +18,11 @@ Grafas Gurka kartu su Slucko kunigaikščiu Simeonu ilgą laiką kėlė naujus n
 - t-001
   global_id: t-186206
   teiginys: 'Grafas Gurka kartu su Slucko kunigaikščiu Simeonu ilgą laiką kėlė naujus neramumus dėl Elžbietos.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata palaiko faktą, bet reikia išskleisti „ta pati moteris“ ir sutvarkyti sakinį.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Simeonas|Simeonas]]; mentioned_place: Liublinas; mentioned_place: Praha; mentioned_place: Sluckas'
   pagrindžia:
     - c-001
 
@@ -41,8 +46,3 @@ Grafas Gurka kartu su Slucko kunigaikščiu Simeonu ilgą laiką kėlė naujus n
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Namas]]
-- [[objektai/asmenys/Simeonas]]

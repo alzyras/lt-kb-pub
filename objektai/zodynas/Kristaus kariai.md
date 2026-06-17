@@ -10,12 +10,13 @@ tags:
   - kunigaikštis
   - ordinas
   - sąvoka
+  - vyskupas
 ---
 # Kristaus kariai
 
 ## Santrauka
 
-Kristaus kariais vadinti Dobrynės broliai. Kristaus kariai buvo broliai, burti kunigaikščio žemei ginti ir vilkėję baltą apsiaustą su raudonu kalaviju bei žvaigžde.
+Dusburgietis teigia, kad apie Kristaus karių ordino brolius Kai šis kunigaikštis, matydamas savo žemę taip negailestingai varginamą, pagaliau suprato, kad ji pati viena neįstengs apsiginti, jis, Prūsijos žemės vyskupo Kristijono ir kai kurių savo didikų patariamas, savo žemei ginti. Dusburgietis teigia, kad cezaris176, devyni broliai iš Švedijos, vardu Gamptai177, taip pat Hugonas, vadinamas Potyre178, galop brolis Kristijonas, Prūsijos vyskupas, ir broliai Kristaus kariai, tai yra vadinamieji Dobrynės broliai.
 
 ## Teiginiai
 
@@ -23,6 +24,8 @@ Kristaus kariais vadinti Dobrynės broliai. Kristaus kariai buvo broliai, burti 
 - t-001
   global_id: t-58854
   teiginys: 'Kristaus kariais vadinti Dobrynės broliai.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas, glaustas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Dobrynės broliai|Dobrynės broliai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Dobrynė; mentioned_place: Jeruzalė; mentioned_place: Prūsija'
   pagrindžia:
     - c-002
 
@@ -30,9 +33,11 @@ Kristaus kariais vadinti Dobrynės broliai. Kristaus kariai buvo broliai, burti 
 - t-002
   global_id: t-58855
   teiginys: 'Kristaus kariai buvo broliai, burti kunigaikščio žemei ginti ir vilkėję baltą apsiaustą su raudonu kalaviju bei žvaigžde.'
+  sudarymo_pagrindimas: 'Citata pagrindžia ordino brolių paskirtį ir išvaizdos ženklus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_place: Livonija; mentioned_place: Palenkė; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Viena'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Konradas (Mazovijos kunigaikštis).md#claim-t-59930|Konradas (Mazovijos kunigaikštis)]]: Konradas sumanė pasikviesti Teutonų namų ordino brolius ginti savo žemės, tikėjimo ir tikinčiųjų, nes Kristaus kariai nesulaukė sėkmės.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -72,16 +77,3 @@ Kristaus kariais vadinti Dobrynės broliai. Kristaus kariai buvo broliai, burti 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Kalavijas]]
-- [[objektai/asmenys/Kristijonas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Teutonai]]
-- [[objektai/zodynas/netikėliai]]
-- [[objektai/grupes/Dobrynės broliai]]
-- [[objektai/asmenys/Konradas (Mazovijos kunigaikštis)]]
-- [[objektai/daiktai/Baltas apsiaustas su raudonu kalaviju bei žvaigžde]]
-- [[objektai/asmenys/Brunonas]]
-- [[objektai/ivykiai/Kristaus karių, arba Dobrynės brolių, subūrimas ir įkurdinimas]]

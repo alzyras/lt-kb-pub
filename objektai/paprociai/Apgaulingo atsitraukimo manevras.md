@@ -5,6 +5,9 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1270 m.'
+  - '1279 m.'
+  - '1410 m.'
+  - '1514 m.'
   - '2026 m.'
 date_start: '1270'
 date_end: '2026'
@@ -18,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Lietuvių karvedžiai nuo seno mėgo apgaulingo atsitraukimo manevrą ir juo versdavo priešininką suardyti savo rikiuotę. Lietuvių karvedžiai nuo seno mėgo apgaulingo atsitraukimo manevrą, kurį su laiku vis įdomiau įgyvendindavo ir provokuodami suardyti priešo rikiuotę priversdavo jį pralaimėti. Švedijos kariuomenės vadovybė sureagavo į lietuvių imituotą atsitraukimą ir įsakė pulti „besitraukiančius“ lietuvius.
+Karolis Chodkevičius įsakė frontui imituoti atsitraukimą. Švedų kariuomenės vadovybė sureagavo puldama besitraukiančius lietuvius.
 
 ## Laikotarpis ir datos
 
@@ -46,6 +49,7 @@ Nenurodyta
 - t-001
   global_id: t-71787
   teiginys: 'Lietuvių karvedžiai nuo seno mėgo apgaulingo atsitraukimo manevrą ir juo versdavo priešininką suardyti savo rikiuotę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]'
   pagrindžia:
     - c-002
 
@@ -53,6 +57,8 @@ Nenurodyta
 - t-002
   global_id: t-71788
   teiginys: 'Lietuvių karvedžiai nuo seno mėgo apgaulingo atsitraukimo manevrą, kurį su laiku vis įdomiau įgyvendindavo ir provokuodami suardyti priešo rikiuotę priversdavo jį pralaimėti.'
+  sudarymo_pagrindimas: 'Sakinys pilnas, gramatiškas ir paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]'
   pagrindžia:
     - c-002
 
@@ -60,6 +66,11 @@ Nenurodyta
 - t-003
   global_id: t-71789
   teiginys: 'Švedijos kariuomenės vadovybė sureagavo į lietuvių imituotą atsitraukimą ir įsakė pulti „besitraukiančius“ lietuvius.'
+  sudarymo_pagrindimas: 'Reikia pašalinti perteklinį skliaustinį komentarą ir suformuluoti glaustą sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_place: Švedija'
+  temporaliniai_duomenys: 'įvykio data: 1270 m.; įvykio data: 1279 m.; įvykio data: 1410 m.; įvykio data: 1514 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia pašalinti perteklinį skliaustinį komentarą ir suformuluoti glaustą sakinį.'
   pagrindžia:
     - c-001
 
@@ -67,6 +78,11 @@ Nenurodyta
 - t-004
   global_id: t-71790
   teiginys: 'Karolis Chodkevičius įsakė Lietuvos kariuomenei imituoti atsitraukimą visu frontu.'
+  sudarymo_pagrindimas: 'Perrašyta tiksliau ir enciklopediškiau, pašalinant neaiškų žodį „visam“.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_place: Lietuva; mentioned_place: Švedija'
+  temporaliniai_duomenys: 'įvykio data: 1270 m.; įvykio data: 1279 m.; įvykio data: 1410 m.; įvykio data: 1514 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Perrašyta tiksliau ir enciklopediškiau, pašalinant neaiškų žodį „visam“.'
   pagrindžia:
     - c-001
 
@@ -111,10 +127,3 @@ Nenurodyta
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Chodkevičiai]]
-- [[objektai/asmenys/Karolis]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Švedai]]

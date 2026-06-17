@@ -29,7 +29,10 @@ Vartojamos formos: `liuosais`, `liuosybę`.
   teiginys: '`Liuosybė` šiame tekste reiškia laisvę ir nevaržomą gyvenimą.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/daiktai/Vyženos.md#claim-t-08351|Vyženos]]: Vyženos buvo toks svarbus daiktas, kad vaikai turėjo mokėti jas vyžti.
+- susijęs iš [[objektai/paprociai/Karo grobio dalijimas į keturias dalis.md#claim-t-07781|Karo grobio dalijimas į keturias dalis]]: Karo grobis buvo dalijamas į keturias dalis: dievams, kunigaikščiui su tarnais ar kunigais, kareiviams ir žuvusiųjų giminėms.
+- susijęs iš [[objektai/zodynas/Karmūšų.md#claim-t-07690|karmūšų]]: Karmūšų vietos buvo kovų laukai, kuriuose su priešais grūmėsi ir žuvo kariai.
+- susijęs iš [[objektai/zodynas/Karmūšų.md#claim-t-07691|karmūšų]]: Karmūšų vietos buvo vadinamos šventomis, nes jose žuvo už laisvę ir namus kovoję žmonės.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -41,10 +44,3 @@ Vartojamos formos: `liuosais`, `liuosybę`.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/paprociai/Karo grobio dalijimas į keturias dalis]]
-- [[objektai/paprociai/Kovų vietų neliečiamumas]]
-- [[objektai/daiktai/Vyženos]]
-- [[objektai/zodynas/Karmūšų|karmūšų]]

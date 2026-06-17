@@ -26,6 +26,11 @@ Dusburgietis teigia, kad mortensen G.
 - t-001
   global_id: t-61185
   teiginys: 'G. Mortenseno „Beiträge zu den Nationalitäten und Siedlungsverhältnissen von Pr. Litauen“ išleista Berlyne 1927 m.'
+  sudarymo_pagrindimas: 'Citata pateikia autorių, pavadinimą, leidimo vietą ir metus.'
+  susije_objektai: 'mentioned_place: Berlynas'
+  temporaliniai_duomenys: 'įvykio data: 1927 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pateikia autorių, pavadinimą, leidimo vietą ir metus.'
   pagrindžia:
     - c-001
 

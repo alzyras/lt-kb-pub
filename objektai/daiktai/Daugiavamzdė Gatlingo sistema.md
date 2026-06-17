@@ -41,6 +41,7 @@ Nenurodyta
 - t-001
   global_id: t-40704
   teiginys: 'JAV buvo gaminamas kulkosvaidžio prototipas - daugiavamzdė Gatlingo sistema.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Parakas|Parakas]]; mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
 
@@ -64,9 +65,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Ginklai]]
-- [[objektai/daiktai/Parakas]]
-- [[objektai/daiktai/Šautuvai]]

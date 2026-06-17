@@ -28,6 +28,11 @@ C z a c k i Rozpra­ wa o żydach, p. 107, Vilniuje, Zavadzkio sp., 1807.
 - t-001
   global_id: t-88480
   teiginys: 'T. Czackio veikalas „Rozprawa o żydach“ 1807 m. buvo išspausdintas Vilniuje, Zavadzkio spaustuvėje.'
+  sudarymo_pagrindimas: 'Citata pateikia bibliografinę informaciją, o pradinis teiginys yra netvarkingas fragmentas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/statutas|statutas]]; mentioned_place: Griunvaldas; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1807 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pateikia bibliografinę informaciją, o pradinis teiginys yra netvarkingas fragmentas.'
   pagrindžia:
     - c-001
 

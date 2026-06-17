@@ -5,6 +5,7 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1944 m.'
+  - '1945 m.'
   - '1951 m.'
 date_start: '1944'
 date_end: '1951'
@@ -21,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-1945 m. gegužės 16 d. Kalniškės miške apie 90 partizanų puolė NKVD kariuomenės 220-asis Kutuzovo ordino pulkas. 1944 m. Jonas Neifalta su žmona pasitraukė į Kalniškės mišką ir pradėjo vadovauti iš gimtinės kaimų suburtiems vyrams. Kalniškės miškas tęsiasi apie kilometrą už Krosnos Lazdijų link ir yra 3–4 km pločio bei apie 8 km ilgio kalvotas mišrus miškas.
+Kartu su žmona 1944 m. jis pasitraukė į Kalniškės mišką, kur pradėjo vadovauti iš gimtinės kaimų suburtiems vyrams kovoje su okupantais. Prieš mūšį Apie kilometrą už Krosnos, Lazdijų link, kairėje plento pusėje, tęsiasi 3-4 km pločio ir apie 8 km ilgio kalvotas, mišrus Kalniškės miškas. “ Mūšis 220-ojo pasienio pulko kariai apsupo Kalniškės mišką, kuriame buvo įrengta partizanų stovykla.
 
 ## Teiginiai
 
@@ -29,6 +30,11 @@ amziai:
 - t-001
   global_id: t-171634
   teiginys: '1945 m. gegužės 16 d. Kalniškės miške apie 90 partizanų puolė NKVD kariuomenės 220-asis Kutuzovo ordino pulkas.'
+  sudarymo_pagrindimas: 'Perrašyta su taisyklinga vietovardžio forma ir išlaikytais citatos faktais.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Buiničius|Buiničius]]'
+  temporaliniai_duomenys: 'įvykio data: 1945 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Perrašyta su taisyklinga vietovardžio forma ir išlaikytais citatos faktais.'
   pagrindžia:
     - c-002
 
@@ -36,6 +42,11 @@ amziai:
 - t-002
   global_id: t-171635
   teiginys: '1944 m. Jonas Neifalta su žmona pasitraukė į Kalniškės mišką ir pradėjo vadovauti iš gimtinės kaimų suburtiems vyrams.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai sieja Joną Neifaltą su Kalniškės mišku ir yra pagrįstas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Parakas|Parakas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]'
+  temporaliniai_duomenys: 'įvykio data: 1944 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai sieja Joną Neifaltą su Kalniškės mišku ir yra pagrįstas citata.'
   pagrindžia:
     - c-003
 
@@ -43,6 +54,11 @@ amziai:
 - t-003
   global_id: t-171636
   teiginys: 'Kalniškės miškas tęsiasi apie kilometrą už Krosnos Lazdijų link ir yra 3–4 km pločio bei apie 8 km ilgio kalvotas mišrus miškas.'
+  sudarymo_pagrindimas: 'Perrašyta į sklandesnį sakinį, išlaikant citatoje nurodytą vietą ir apibūdinimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]; mentioned_place: Krosna; mentioned_place: Lazdijai; mentioned_place: Simnas'
+  temporaliniai_duomenys: 'įvykio data: 1945 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Perrašyta į sklandesnį sakinį, išlaikant citatoje nurodytą vietą ir apibūdinimą.'
   pagrindžia:
     - c-004
 
@@ -50,9 +66,14 @@ amziai:
 - t-004
   global_id: t-171638
   teiginys: 'Kalniškės miškas yra apie 3–4 km pločio ir 8 km ilgio mišrus miškas, kuriame 1945 m. įvyko Kalniškės mūšis.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir apima citatos pagrįstus duomenis apie mišką bei mūšį.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Kalniškės mūšis (1945 m. gegužės 16-17 d.)|Kalniškės mūšis (1945 m. gegužės 16-17 d.)]]; mentioned_place: Krosna; mentioned_place: Lazdijai; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'mūšio data: 1945 m.; mūšio data: 1945-1951; mūšio data: 1951 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir apima citatos pagrįstus duomenis apie mišką bei mūšį.'
   pagrindžia:
     - c-001
-
+- susijęs iš Krosna: Apie kilometrą už Krosnos Lazdijų link kairėje plento pusėje driekėsi kalvotas mišrus Kalniškės miškas.
 ## Reikšmingi paminėjimai
 
 - c-001

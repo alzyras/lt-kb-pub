@@ -1,27 +1,19 @@
 ---
 tipas: daiktas
-pavadinimas: "Kentauro herbas"
-variantai: ["Kentauro herbo"]
-aliases: []
+pavadinimas: 'Kentauro herbas'
 saltiniai:
-  - "objektai/saltiniai/Lietuvos metraštis, Bychovco kronika (1971 m.).md"
-bukle: juodrastis
-laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: ""
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
+datos:
+  - '1766 m.'
+date_start: '1766'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
   - simbolis
+amziai:
+  - 'XVIII'
 ---
 # Kentauro herbas
 
@@ -34,30 +26,40 @@ Komentare nurodoma, kad komentare cituojamoje M. Strijkovskio vietoje Kukovaitis
 - Kentauro herbo
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Naudojimas
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 <a id="claim-t-186855"></a>
 - t-001
   global_id: t-186855
-  teiginys: 'Komentare nurodoma, kad komentare cituojamoje M. Strijkovskio vietoje Kukovaitis siejamas su Kentauro herbo gimine; Kentauro herbas šiame pasakojime vartojamas kaip giminės identifikavimo simbolis.'
+  teiginys: 'M. Strijkovskio kronikos citatoje Kukovaitis vadinamas Živinbudo sūnumi iš Kentauro herbo giminės.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Šaltinio formuluotė apie giminę turi būti atribuuota ir pateikta be dubliuoto komentaro.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Herbas|Herbas]]; mentioned_object: [[objektai/daiktai/Kentauras|Kentauras]]; mentioned_person: [[objektai/asmenys/Kukovaitis|Kukovaitis]]; mentioned_person: [[objektai/autoriai/M. Strijkovskis|M. Strijkovskis]]; mentioned_person: [[objektai/autoriai/T. Narbutas|T. Narbutas]]; mentioned_person: [[objektai/asmenys/Živinbudas|Živinbudas]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1766 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Šaltinio formuluotė apie giminę turi būti atribuuota ir pateikta be dubliuoto komentaro.'
   pagrindžia:
     - c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Komentare nurodoma, kad komentare cituojamoje M. Strijkovskio vietoje Kukovaitis siejamas su Kentauro herbo gimine; Kentauro herbas šiame pasakojime vartojamas kaip giminės identifikavimo simbolis.'
+  santrauka: 'M. Strijkovskio kronikos citatoje Kukovaitis vadinamas Živinbudo sūnumi iš Kentauro herbo giminės.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     1 1  Po šio žodžio BK rankraštyje buvo spraga, kurią T. Narbutas
@@ -65,25 +67,8 @@ Nenurodyta
     dimas, p. 2391 tęsia pasakojimą tokiu sakiniu: „Tuo pat metu mirė
     Kukovaitis, 2ivinbudo iš Kentauro herbo giminės sūnus. Užnerto
     Lietuvos valdovas".
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/simbolis]]
-
-### Susiję objektai
-- [[objektai/daiktai/Herbas]]
-- [[objektai/daiktai/Kentauras]]
-- [[objektai/autoriai/M. Strijkovskis|Motiejus Strijkovskis (kronikininkas)]]
-- [[objektai/autoriai/T. Narbutas]]
-- [[objektai/daiktai/Bychovco kronikos rankraštis]]
-- [[objektai/grupes/Gediminaičių dinastija]]
-- [[objektai/grupes/Kentauro herbo dinastija]]
-- [[objektai/ivykiai/Kęstučio ir Algirdo perversmas prieš Jaunutį]]
-- [[objektai/asmenys/Kukovaitis]]

@@ -37,6 +37,14 @@ Nenurodyta
 - t-001
   global_id: t-185537
   teiginys: 'Po Elžbietos laidotuvių Augustas pradėjo lankyti Barborą Radvilaitę, Vilniaus kašteliono Jurgio dukrą ir Stanislovo Goštauto našlę.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys pilnas, gramatiškas ir tiksliai nusako citatoje pagrįstą faktą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kaštelionas|kaštelionas]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_place: Trakai; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1545 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys pilnas, gramatiškas ir tiksliai nusako citatoje pagrįstą faktą.'
   pagrindžia:
     - c-001
 
@@ -44,6 +52,14 @@ Nenurodyta
 - t-002
   global_id: t-185538
   teiginys: 'Augustas ir Barbora Radvilaitė prisiekė santuokinę ištikimybę Stanislovo Kęsgailos ir dviejų Radvilų akivaizdoje.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys aiškiai įvardija santuokos veikėjus, veiksmą ir liudytojus.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_person: [[objektai/asmenys/Kęsgaila|Kęsgaila]]; mentioned_place: Augsburgas; mentioned_place: Dubingiai; mentioned_place: Nesvyžius; mentioned_place: Olyka'
+  temporaliniai_duomenys: 'įvykio data: 1546 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai įvardija santuokos veikėjus, veiksmą ir liudytojus.'
   pagrindžia:
     - c-002
 
@@ -124,12 +140,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Augustas]]
-- [[objektai/asmenys/Barbora Radvilaitė]]
-- [[objektai/asmenys/Karolis]]
-- [[objektai/asmenys/Kęsgaila]]
-- [[objektai/zodynas/kaštelionas]]
-- [[objektai/paprociai/Slaptas santuokos sudarymas krikščioniškomis apeigomis ir ištikimybės priesaika liudytojų akivaizdoje]]

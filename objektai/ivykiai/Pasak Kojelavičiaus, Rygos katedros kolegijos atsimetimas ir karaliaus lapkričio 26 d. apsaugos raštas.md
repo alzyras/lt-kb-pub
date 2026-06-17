@@ -30,6 +30,11 @@ Nenurodyta
 - t-001
   global_id: t-185760
   teiginys: 'Pasak Kojelavičiaus, Rygos arkivyskupo katedros dvasininkai pasidalijo kolegijos valdas ir išsižadėjo skaistybės.'
+  teiginio_tipas: 'saltinio_teiginys'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Vertinamojo pobūdžio autoriaus pasakojimas perrašytas į gramatišką sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Liuteronai|Liuteronai]]; mentioned_place: Livonija; mentioned_place: Ryga'
   pagrindžia:
     - c-001
 
@@ -56,7 +61,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Liuteronai]]

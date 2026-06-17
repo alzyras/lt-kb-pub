@@ -34,6 +34,7 @@ Nenurodyta
 - t-001
   global_id: t-07784
   teiginys: 'Po audros gaspadorius linksmindamasis keldavo namiškiams puotą ar gėrynę.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Gaspadorius|Gaspadorius]]'
   pagrindžia:
     - c-002
 
@@ -41,6 +42,7 @@ Nenurodyta
 - t-002
   global_id: t-07785
   teiginys: 'Kilus audrai arba grasinant krušai šeimininkas tris kartus apeidavo savo rugius ar varstą su lašinių paltimi ir melsdavo Perūną.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Aukausenos|Aukausenos]]; mentioned_object: [[objektai/zodynas/Gaspadorius|Gaspadorius]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]'
   pagrindžia:
     - c-001
 
@@ -71,9 +73,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Aukausenos|aukausenos]]
-- [[objektai/zodynas/Gaspadorius|gaspadorius]]
-- [[objektai/zodynas/Miera|miera]]

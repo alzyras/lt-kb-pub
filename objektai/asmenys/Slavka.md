@@ -18,6 +18,11 @@ Kambarinis Slavka savo kūnu bandė užstoti leisgyvį valdovą nuo smūgių, be
 - t-001
   global_id: t-186162
   teiginys: 'Kambarinis Slavka savo kūnu bandė užstoti leisgyvį valdovą nuo smūgių, bet Jonas jį nuvilko į šalį ir išmetė pro langą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Slavkos veiksmą ir citata jį patvirtina.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]'
   pagrindžia:
     - c-001
 

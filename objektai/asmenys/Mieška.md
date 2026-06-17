@@ -15,6 +15,7 @@ tags:
   - karalius
   - krikštas
   - kunigaikštis
+  - valdovas
 amziai:
   - 'X'
   - 'XI'
@@ -33,6 +34,12 @@ Paminėkime tokią grandinę: Lenkijos valdovo Mieško krikštas (966), Kijevo R
 - t-001
   global_id: t-78066
   teiginys: 'Lenkijos valdovas Mieška krikštijosi 966 m.'
+  sudarymo_pagrindimas: 'Teiginys yra trumpas, gramatiškas ir paremtas citata.'
+  susije_objektai: 'territory: Islandija; territory: Kijevas; territory: Kijevo Rusia; territory: Lenkija; territory: Lietuva; territory: Prūsija; territory: Švedija; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_object: [[objektai/zodynas/apsikarūnavimas|apsikarūnavimas]]; mentioned_object: [[objektai/zodynas/christianizacija|christianizacija]]; mentioned_person: [[objektai/asmenys/Adalbertas|Adalbertas]]; mentioned_person: [[objektai/asmenys/Netimeras|Netimeras]]; mentioned_place: Islandija; mentioned_place: Kijevas; mentioned_place: Kijevo Rusia; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Švedija'
+  semantiniai_rysiai: '[[objektai/asmenys/Mieška|Mieška]] buvo valdovas Islandija; [[objektai/asmenys/Mieška|Mieška]] buvo valdovas Kijevas; [[objektai/asmenys/Mieška|Mieška]] buvo valdovas Kijevo Rusia; [[objektai/asmenys/Mieška|Mieška]] buvo valdovas Lenkija; [[objektai/asmenys/Mieška|Mieška]] buvo valdovas Lietuva; [[objektai/asmenys/Mieška|Mieška]] buvo valdovas Prūsija; [[objektai/asmenys/Mieška|Mieška]] buvo valdovas Švedija'
+  temporaliniai_duomenys: 'valdymo laikotarpis: 966 m'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Mieška buvo valdovas Islandija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Mieška buvo valdovas Kijevas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Mieška buvo valdovas Kijevo Rusia“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Mieška buvo valdovas Lenkija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Mieška buvo valdovas Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Mieška buvo valdovas Prūsija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Mieška buvo valdovas Švedija“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra trumpas, gramatiškas ir paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -56,8 +63,10 @@ Paminėkime tokią grandinę: Lenkijos valdovo Mieško krikštas (966), Kijevo R
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Adynos|adynos]]
-- [[objektai/zodynas/apsikarūnavimas]]
-- [[objektai/zodynas/christianizacija]]
-- [[objektai/zodynas/konversija christianizacija europeizacija]]
+- Mieška buvo_valdovas [[objektai/vietos/Islandija]]
+- Mieška buvo_valdovas [[objektai/vietos/Kijevas]]
+- Mieška buvo_valdovas [[objektai/vietos/Kijevo Rusia]]
+- Mieška buvo_valdovas [[objektai/vietos/Lenkija]]
+- Mieška buvo_valdovas [[objektai/vietos/Lietuva]]
+- Mieška buvo_valdovas [[objektai/vietos/Prūsija]]
+- Mieška buvo_valdovas [[objektai/vietos/Švedija]]

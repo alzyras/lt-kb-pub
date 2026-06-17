@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Z. Zinkevičiaus darbas nurodytas aiškinant Naugarduko žemės vadinimą Krivičių žeme.
+Dusburgietis teigia, kad zinkevičius Z., Lietuvių kalbos kilmė, p. 252.
 
 ## Teiginiai
 
@@ -20,6 +20,8 @@ Z. Zinkevičiaus darbas nurodytas aiškinant Naugarduko žemės vadinimą Krivi�
 - t-001
   global_id: t-60829
   teiginys: 'Z. Zinkevičiaus darbas nurodytas aiškinant Naugarduko žemės vadinimą Krivičių žeme.'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo sugadintas OCR ir bibliografijos fragmentais; citata pagrindžia Zinkevičiaus darbo nuorodą šiame aiškinime.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Krivičiai|Krivičiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Naugardukas; mentioned_place: Nemunas'
   pagrindžia:
     - c-001
 
@@ -38,8 +40,3 @@ Z. Zinkevičiaus darbas nurodytas aiškinant Naugarduko žemės vadinimą Krivi�
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Krivičiai]]
-- [[objektai/grupes/Lietuviai]]

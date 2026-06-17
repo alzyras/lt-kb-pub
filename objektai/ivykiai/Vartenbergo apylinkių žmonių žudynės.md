@@ -39,6 +39,9 @@ Nenurodyta
 - t-001
   global_id: t-62521
   teiginys: 'Vartenbergo pilis stovėjo Kulmo žemėje ant kalno ežero viduryje, o joje gyveno Ordino broliai su ginklanešiais.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys gramatiškas ir pagrįstas citatoje pateiktu Vartenbergo aprašymu.'
+  susije_objektai: 'location: Kulmas; location: Sūduva; location: Vartenbergas; location: Viena; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Kulmas; mentioned_place: Sūduva; mentioned_place: Vartenbergas; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -46,6 +49,11 @@ Nenurodyta
 - t-002
   global_id: t-183973
   teiginys: 'Vieną sekmadienį iš Sūduvos atvykusi kariuomenė išžudė Vartenbergo apylinkių kaimų žmones, o moteris ir vaikus išsivarė į nelaisvę.'
+  teiginio_tipas: 'saltinio_teiginys'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys tiksliai apibendrina citatoje aprašytas žudynes.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Kulmas; mentioned_place: Sūduva; mentioned_place: Vartenbergas; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -71,12 +79,3 @@ Nenurodyta
   pagrindžia:
     - t-001
     - t-002
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/ežeras]]
-
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Sūduviai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

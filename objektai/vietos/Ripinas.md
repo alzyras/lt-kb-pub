@@ -18,9 +18,14 @@ Lipnas ir Ripinas buvo žiauriai nusiaubti per žygį, kai buvo užimta ir sudeg
 - t-001
   global_id: t-185301
   teiginys: 'Lipnas ir Ripinas buvo žiauriai nusiaubti per žygį, kai buvo užimta ir sudeginta Dobrynė.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis teiginys turi OCR klaidą ir nereikalingą autorinę formuluotę.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_place: Bobrovnikai; mentioned_place: Dobrynė; mentioned_place: Lipnas; mentioned_place: Zlotorija'
   pagrindžia:
     - c-001
-
+- susijęs iš Lipnas: Po Dobrynės užėmimo ir sudeginimo buvo žiauriai nusiaubti Lipnas ir Ripinas.
 ## Reikšmingi paminėjimai
 
 - c-001

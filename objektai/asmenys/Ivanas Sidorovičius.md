@@ -31,9 +31,14 @@ Pergalė jam buvo lemta ir tąsyk: du­ syk pakartotas žygis, nepaisant dideli�
 - t-001
   global_id: t-87909
   teiginys: 'Ivanas Sidorovičius buvo Pskovo bojarinas, atvykęs į Vilnių prašyti Vytauto paleisti belaisvius.'
+  sudarymo_pagrindimas: 'Pradinė pretenzija nutrūkusi, o citata leidžia aiškiai nusakyti jo veiksmą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/bojarinai|bojarinai]]; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_person: [[objektai/asmenys/Ivanas|Ivanas]]; mentioned_person: [[objektai/asmenys/Joachimas (Pskovo vietininkas)|Joachimas (Pskovo vietininkas)]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Pskovas; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1429 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinė pretenzija nutrūkusi, o citata leidžia aiškiai nusakyti jo veiksmą.'
   pagrindžia:
     - c-001
-
+- susijęs iš Vilnius: 1427 m. po Vytauto žygių į Vilnių atvyko Pskovo pasiuntiniai Joachimas Pavlovičius ir Ivanas Sidorovičius.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -61,13 +66,5 @@ Pergalė jam buvo lemta ir tąsyk: du­ syk pakartotas žygis, nepaisant dideli�
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Joachimas (Pskovo vietininkas)]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/bojarinai]]
-- [[objektai/zodynas/vietininkas]]
-- [[objektai/asmenys/Ivanas]]
-- [[objektai/asmenys/Joachimas Pavlovičius]]
-- [[objektai/grupes/Pskovo respublika]]
-- [[objektai/zodynas/posadnikas bojarinas vietininkas]]
+- Ivanas Sidorovičius keliavo_i [[objektai/vietos/Lietuva]]
+- Ivanas Sidorovičius keliavo_i [[objektai/vietos/Pskovas]]

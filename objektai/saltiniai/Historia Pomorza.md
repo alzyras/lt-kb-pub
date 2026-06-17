@@ -28,6 +28,11 @@ Dusburgietis teigia, kad historia Pomorza / Pod red. G.
 - t-001
   global_id: t-61079
   teiginys: '„Historia Pomorza“ pirmojo tomo pirmąją dalį iki 1466 m. redagavo G. Labuda, ji išleista Poznanėje 1969 m.'
+  sudarymo_pagrindimas: 'Citata palaiko leidinio redaktorių, tomo dalį, chronologinę aprėptį, vietą ir metus.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Poznanė'
+  temporaliniai_duomenys: 'įvykio data: iki 1466 m.; įvykio data: 1466 m.; įvykio data: 1969 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko leidinio redaktorių, tomo dalį, chronologinę aprėptį, vietą ir metus.'
   pagrindžia:
     - c-001
 

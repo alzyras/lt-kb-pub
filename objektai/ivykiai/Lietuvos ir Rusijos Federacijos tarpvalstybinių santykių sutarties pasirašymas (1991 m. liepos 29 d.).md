@@ -23,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-Lietuva pripažino Rusiją nepriklausoma valstybe. Spalio pradžioje Lietuva ir Rusijos Federacija užmezgė diplomatinius santykius. Draugiški Lietuvos ir Rusijos vadovų santykiai leido parengti Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį.
+Draugiški valstybių vadovų santykiai leido parengti Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį. Spalio pradžioje tarp abiejų valstybių buvo užmegzti diplomatiniai santykiai.
 
 ## Laikotarpis ir datos
 
@@ -47,6 +47,11 @@ Nenurodyta
 - t-001
   global_id: t-75146
   teiginys: 'Lietuva pripažino Rusiją nepriklausoma valstybe.'
+  sudarymo_pagrindimas: 'Pradinis teiginys yra sakinio fragmentas; citata aiškiai pagrindžia trumpesnį pilną sakinį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/aneksija|aneksija]]; mentioned_place: Baltija; mentioned_place: Lietuva; mentioned_place: Rusija'
+  temporaliniai_duomenys: 'įvykio data: 1997 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys yra sakinio fragmentas; citata aiškiai pagrindžia trumpesnį pilną sakinį.'
   pagrindžia:
     - c-003
 
@@ -54,6 +59,9 @@ Nenurodyta
 - t-002
   global_id: t-75147
   teiginys: 'Spalio pradžioje Lietuva ir Rusijos Federacija užmezgė diplomatinius santykius.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusijos Federacija|Rusijos Federacija]]; mentioned_object: [[objektai/zodynas/aneksija|aneksija]]; mentioned_place: Lietuva; mentioned_place: Rusija'
+  temporaliniai_duomenys: 'įvykio data: 1940 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 
@@ -61,6 +69,11 @@ Nenurodyta
 - t-003
   global_id: t-75148
   teiginys: 'Draugiški Lietuvos ir Rusijos vadovų santykiai leido parengti Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Borisas (Tverės kunigaikštis)|Borisas (Tverės kunigaikštis)]]; mentioned_person: [[objektai/asmenys/Borisas Jelcinas|Borisas Jelcinas]]; mentioned_place: Baltija; mentioned_place: Estija; mentioned_place: Latvija; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: po 1991 m.; įvykio data: 1991 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -68,6 +81,14 @@ Nenurodyta
 - t-004
   global_id: t-183243
   teiginys: 'Vytautas Landsbergis ir Borisas Jelcinas 1991 m. liepos 29 d. pasirašė Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia sutarties pasirašymo faktą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/aneksija|aneksija]]; mentioned_person: [[objektai/asmenys/Borisas (Tverės kunigaikštis)|Borisas (Tverės kunigaikštis)]]; mentioned_person: [[objektai/asmenys/Borisas Jelcinas|Borisas Jelcinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Vytautas Landsbergis|Vytautas Landsbergis]]; mentioned_place: Lietuva; mentioned_place: Rusija'
+  temporaliniai_duomenys: 'įvykio data: 1940 m.; įvykio data: 1991 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia sutarties pasirašymo faktą.'
   pagrindžia:
     - c-004
 
@@ -137,14 +158,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Borisas (Tverės kunigaikštis)]]
-- [[objektai/asmenys/Borisas Jelcinas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/aneksija]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Rusijos Federacija]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/asmenys/Vytautas Landsbergis]]

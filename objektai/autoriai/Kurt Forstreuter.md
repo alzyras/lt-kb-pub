@@ -20,6 +20,8 @@ Forstreuter ir kt.) tuos laiškus tarė esant rygiečių falsifikatais, arba ben
 - t-001
   global_id: t-100101
   teiginys: 'Kurtas Forstreuteris Gedimino laiškus laikė rygiečių falsifikatais arba bent stipriai įtartinais.'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo fragmentiškas ir turėjo neaiškią nuorodą į laiškus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rygiečiai|Rygiečiai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/autoriai/K. Forstreuter|K. Forstreuter]]'
   pagrindžia:
     - c-001
 
@@ -37,8 +39,3 @@ Forstreuter ir kt.) tuos laiškus tarė esant rygiečių falsifikatais, arba ben
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Rygiečiai]]
-- [[objektai/grupes/Vokiečiai]]

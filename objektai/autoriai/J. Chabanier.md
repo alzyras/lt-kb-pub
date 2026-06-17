@@ -28,6 +28,9 @@ Chabanier : Les Tatars Lithuaniens.
 - t-001
   global_id: t-30662
   teiginys: 'J. Chabanier 1960 m. Paryžiuje paskelbė darbą „Les Tatars Lithuaniens“.'
+  susije_objektai: 'mentioned_place: Paryžius'
+  temporaliniai_duomenys: 'įvykio data: 1960 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

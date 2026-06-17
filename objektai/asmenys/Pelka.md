@@ -27,9 +27,20 @@ periodo_grupes: []
 - t-001
   global_id: t-87821
   teiginys: 'Gniezno arkivyskupas Pelka 1253 m. įšventino Petrą ir pirmąjį Lietuvos vyskupą Vitą vyskupais.'
+  sudarymo_pagrindimas: 'Citata aiškiai nurodo Pelkos atliktą įšventinimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/kustodas|kustodas]]; mentioned_person: [[objektai/asmenys/Vitas|Vitas]]; mentioned_place: Gniezno; mentioned_place: Lietuva; mentioned_place: Poznanė; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1253 m.; įvykio data: 1822 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata aiškiai nurodo Pelkos atliktą įšventinimą.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Petras (Poznanės vyskupas).md#claim-t-87823|Petras (Poznanės vyskupas)]]: 1253 m. Petras, išrinktas Poznanės vyskupu, Gniezno arkivyskupo Pelkos buvo įšventintas vyskupu.
+- susijęs iš [[objektai/asmenys/Vitas.md#claim-t-87602|Vitas]]: 1253 m. dominikonas Vitas Gniezno arkivyskupo Pelkos buvo įšventintas pirmuoju Lietuvos vyskupu.
+- susijęs iš [[objektai/autoriai/Godzislavas Baško.md#claim-t-88090|Godzislavas Baško]]: Godzislavo Baško parašyta „Kronika Lechitów i Polaków“ mini, kad Vitas buvo pirmasis Lietuvos vyskupas.
+- susijęs iš Kronika Lechitów i Polaków: „Kronika Lechitów i Polaków“ mini, kad 1253 m. Vitas buvo įšventintas pirmuoju Lietuvos vyskupu.
+- susijęs iš Lietuva: XIII a., Mindaugui pasiskelbus Lietuvos karaliumi ir siekus priimti Romos tikėjimą, popiežius paskyrė Lietuvai vyskupą.
+- susijęs iš Poznanė: Kroniką „Lechitów i Polaków“ parašė Poznanės kustodas Godzislovas Baško.
+- susijęs iš Poznanė: „Kronika Lechitów i Polaków“ buvo parašyta Poznanės kustodo Godzislavo Baško.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -55,8 +66,3 @@ periodo_grupes: []
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/zodynas/kustodas]]

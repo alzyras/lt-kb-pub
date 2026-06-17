@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-LPS steigiamasis suvažiavimas priėmė įstatus kartu su bendrąja programa ir 30 rezoliucijų įvairiais klausimais. LPS steigiamasis suvažiavimas priėmė įstatus kartu su bendrąja programa ir 30 rezoliucijų įvairiais politikos, kultūros bei visuomenės klausimais.
+Suvažiavimas priėmė bendrąją programą, įstatus, 30 rezoliucijų politikos, kultūros, ekonomikos, visuomeninio gyvenimo, demokratijos ir kitais klausimais.
 
 ## Teiginiai
 
@@ -20,6 +20,8 @@ LPS steigiamasis suvažiavimas priėmė įstatus kartu su bendrąja programa ir 
 - t-001
   global_id: t-21102
   teiginys: 'LPS steigiamasis suvažiavimas priėmė įstatus kartu su bendrąja programa ir 30 rezoliucijų įvairiais klausimais.'
+  sudarymo_pagrindimas: 'Teiginys pritaikytas pastabos objektui ir išlaiko citatos pagrindžiamą informaciją.'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -27,6 +29,11 @@ LPS steigiamasis suvažiavimas priėmė įstatus kartu su bendrąja programa ir 
 - t-002
   global_id: t-183376
   teiginys: 'LPS steigiamasis suvažiavimas priėmė įstatus kartu su bendrąja programa ir 30 rezoliucijų įvairiais politikos, kultūros bei visuomenės klausimais.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Reikia aiškiai įvardyti LPS steigiamąjį suvažiavimą ir susieti teiginį su įstatais.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva; mentioned_place: SSRS'
   pagrindžia:
     - c-002
 

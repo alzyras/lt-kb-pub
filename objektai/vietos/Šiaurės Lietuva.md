@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Bermontininkai užėmė Šiaurės Lietuvą ir judėdami į pietus pasiekė net Raseinius. Lemiamų kovų su bolševikais įkarštyje Šiaurės Lietuvoje ir Latvijoje susitelkė naujas Lietuvos ir kitų Baltijos valstybių priešas – bermontininkai. Šiaurės Lietuva atsidūrė bermontininkų rankose, o judėdami į pietus bermontininkai pasiekė net Raseinius.
+“LIETUVOS asies Mūšio priešistorė Lemiamų kovų su bolševikais įkarštyje Šiaurės Lietuvoje ir Latvijoje susitelkė naujas Lietuvos ir kitų Baltijos valstybių priešas - bermontininkai. Bermontininkų rankose atsidūrė Šiaurės Lietuva, palaipsniui judėdami į pietus bermontininkai pasiekė net Raseinius.
 
 ## Teiginiai
 
@@ -23,6 +23,8 @@ Bermontininkai užėmė Šiaurės Lietuvą ir judėdami į pietus pasiekė net R
 - t-001
   global_id: t-80579
   teiginys: 'Bermontininkai užėmė Šiaurės Lietuvą ir judėdami į pietus pasiekė net Raseinius.'
+  sudarymo_pagrindimas: 'Pradinis teiginys turi antraštės ir OCR triukšmo, o citata palaiko aiškų faktinį sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bermontininkai|Bermontininkai]]; mentioned_group: [[objektai/grupes/Vakarų Lietuvos (Jūros) sritis|Vakarų Lietuvos (Jūros) sritis]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_place: Lietuva; mentioned_place: Raseiniai'
   pagrindžia:
     - c-002
 
@@ -30,6 +32,8 @@ Bermontininkai užėmė Šiaurės Lietuvą ir judėdami į pietus pasiekė net R
 - t-002
   global_id: t-80580
   teiginys: 'Lemiamų kovų su bolševikais įkarštyje Šiaurės Lietuvoje ir Latvijoje susitelkė naujas Lietuvos ir kitų Baltijos valstybių priešas – bermontininkai.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Šiaurės Lietuvą ir bermontininkų susitelkimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bermontininkai|Bermontininkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Baltija; mentioned_place: Latvija; mentioned_place: Lietuva; mentioned_place: Rusija'
   pagrindžia:
     - c-001
 
@@ -37,6 +41,8 @@ Bermontininkai užėmė Šiaurės Lietuvą ir judėdami į pietus pasiekė net R
 - t-003
   global_id: t-80581
   teiginys: 'Šiaurės Lietuva atsidūrė bermontininkų rankose, o judėdami į pietus bermontininkai pasiekė net Raseinius.'
+  sudarymo_pagrindimas: 'Sakinys yra aiškus, gramatiškas ir paremtas citata apie bermontininkų užimtą Šiaurės Lietuvą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bermontininkai|Bermontininkai]]; mentioned_group: [[objektai/grupes/Vakarų Lietuvos (Jūros) sritis|Vakarų Lietuvos (Jūros) sritis]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_place: Lietuva; mentioned_place: Raseiniai'
   pagrindžia:
     - c-002
 

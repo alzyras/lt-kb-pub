@@ -42,6 +42,9 @@ Nenurodyta
 - t-001
   global_id: t-62671
   teiginys: 'Prūsijos ir Livonijos žmonės priešinosi kuršių belaisvių grąžinimui, remdamiesi visiems žinomais karo papročiais.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pašalinta perteklinė įžanga ir aiškiai įvardyti veikėjai bei ginčo objektas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Livonija; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
     - c-002
@@ -83,10 +86,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kuršiai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/ivykiai/Durbės mūšis (1260 m.)]]
-- [[objektai/zodynas/atskalūnybė atskalūnai]]

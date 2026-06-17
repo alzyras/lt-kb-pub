@@ -18,9 +18,17 @@ Pasak Kojelavičiaus, Ovčina ėjo tokias pat pareigas kaip Glinskis ir gyveno s
 - t-001
   global_id: t-186154
   teiginys: 'Pasak Kojelavičiaus, Ovčina ėjo tokias pat pareigas kaip Glinskis ir gyveno su Vasilijaus našle.'
+  teiginio_tipas: 'saltinio_teiginys'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata palaiko teiginį, bet dėl autoriaus vertinamojo pasakojimo tinka aiški šaltinio atribucija.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vasilijus|Vasilijus]]'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Fiodoras Ovčina.md#claim-t-186039|Fiodoras Ovčina]]: Fiodoras Ovčina sukurstė maskvėnus pradėti karą prieš Lietuvą ir, pasivadinęs caro globėju, užgrobė valdžią.
+- susijęs iš [[objektai/asmenys/Fiodoras Ovčina.md#claim-t-186040|Fiodoras Ovčina]]: Fiodoras Ovčina klastingomis kalbomis sukurstė karą prieš Lietuvą.
+- susijęs iš [[objektai/asmenys/Jonas Gornostajus.md#claim-t-186049|Jonas Gornostajus]]: Jonas Gornostajus, Lietuvos iždo vyriausiasis valdytojas, karaliaus ir senato vardu atsakė į Ivano Ovčinos laišką.
+- susijęs iš [[objektai/asmenys/Mykolas Glinskis.md#claim-t-184806|Mykolas Glinskis]]: Ovčina apkaltino Mykolą Glinskį antru mėginimu bėgti į Lietuvą, pasmerkė jį mirti ir įkalino apakintą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -42,7 +50,3 @@ Pasak Kojelavičiaus, Ovčina ėjo tokias pat pareigas kaip Glinskis ir gyveno s
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Vasilijus]]

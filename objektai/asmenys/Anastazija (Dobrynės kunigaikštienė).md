@@ -20,9 +20,16 @@ Per vieną tokių antpuolių baisiausiai nukentėjo Dobry­ nės kunigaikštyst�
 - t-001
   global_id: t-87619
   teiginys: 'Anastazija valdė Dobrynės kunigaikštystę maždaug tuo metu, kai ši smarkiai nukentėjo per lietuvių antpuolį.'
+  sudarymo_pagrindimas: 'Citata palaiko faktą apie Anastazijos valdytą kunigaikštystę ir jos nuniokojimą.'
+  susije_objektai: 'territory: Dobrynė; territory: Mazovija; territory: Viena; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Dobrynė; mentioned_place: Mazovija; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/asmenys/Anastazija (Dobrynės kunigaikštienė)|Anastazija (Dobrynės kunigaikštienė)]] valdė teritoriją Dobrynė; [[objektai/asmenys/Anastazija (Dobrynės kunigaikštienė)|Anastazija (Dobrynės kunigaikštienė)]] valdė teritoriją Mazovija; [[objektai/asmenys/Anastazija (Dobrynės kunigaikštienė)|Anastazija (Dobrynės kunigaikštienė)]] valdė teritoriją Viena'
   pagrindžia:
     - c-001
-
+- susijęs iš Dobrynės kunigaikštystė: Per vieną lietuvių antpuolį smarkiai nukentėjo Dobrynės kunigaikštystė, tuo metu valdoma kunigaikštienės Anastazijos.
+- susijęs iš Dobrynės žemė kunigaikštystė (sujungti pirminiai pavadinimai Dobrynės kunigaikštystė; Dobrynės žemė): Per vieną lietuvių antpuolį smarkiai nukentėjo Dobrynės kunigaikštystė, tuo metu valdoma kunigaikštienės Anastazijos.
+- susijęs iš Kopylis: Slucko kunigaikštienės Anastazijos išstatyti bajorų ir kaimiečių būriai apie Kopylį ir Petrikovičius nukovė daug skitų.
+- susijęs iš Lojevas: Ties Lojevu maždaug 4000 totorių ekspedicinės pajėgos persikėlė į dešinįjį Dniepro krantą ir patraukė Mozyriaus bei Slucko link.
+- susijęs iš Petrikovičiai: Slucko kunigaikštienės Anastazijos išstatyti bajorų ir kaimiečių būriai apie Kopylį ir Petrikovičius nukovė daug skitų.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -46,5 +53,6 @@ Per vieną tokių antpuolių baisiausiai nukentėjo Dobry­ nės kunigaikštyst�
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
+- Anastazija (Dobrynės kunigaikštienė) valde_teritorija [[objektai/vietos/Dobrynė]]
+- Anastazija (Dobrynės kunigaikštienė) valde_teritorija [[objektai/vietos/Mazovija]]
+- Anastazija (Dobrynės kunigaikštienė) valde_teritorija [[objektai/vietos/Viena]]

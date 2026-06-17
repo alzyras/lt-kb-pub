@@ -23,6 +23,8 @@ Clemenceau) rašte vokiečiams paaiškino, kad sąjungininkai nepažeidė tautų
 - t-001
   global_id: t-77859
   teiginys: 'Prancūzija Žoržo Klemanso rašte aiškino, kad Klaipėdos regionas „visada buvo lietuviškas“, o Klaipėdos uostas buvo vienintelis Lietuvos išėjimas į jūrą.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, pilnas ir atitinka citatoje pateiktą informaciją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva; mentioned_place: Prancūzija; mentioned_place: Vokietija'
   pagrindžia:
     - c-001
 
@@ -45,9 +47,3 @@ Clemenceau) rašte vokiečiams paaiškino, kad sąjungininkai nepažeidė tautų
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/tautų apsisprendimo teisė tautų apsisprendimo principas]]
-- [[objektai/asmenys/Žoržas B. Klemansas]]

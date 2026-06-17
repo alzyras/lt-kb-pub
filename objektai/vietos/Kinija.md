@@ -27,6 +27,8 @@ Vienas jų tada rašė: „Reikia taip pat neužmiršti, kad čia mums plačiai 
 - t-001
   global_id: t-76525
   teiginys: 'Vilniaus akademiją steigę jėzuitai manė, kad per Maskoviją ir totorius galima pasiekti Kiniją.'
+  sudarymo_pagrindimas: 'Reikia pašalinti nutrūkusią citatą ir paversti fragmentą pilnu faktiniu sakiniu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Krokuva; mentioned_place: Maskva; mentioned_place: Peterburgas; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -34,6 +36,11 @@ Vienas jų tada rašė: „Reikia taip pat neužmiršti, kad čia mums plačiai 
 - t-002
   global_id: t-76526
   teiginys: 'Andrius Rudamina Kinijoje misionieriavo 1626–1634 m. ir rašė asketikos veikalus kinų kalba.'
+  sudarymo_pagrindimas: 'Pašalintas ilgas kontekstas ir suformuluotas konkretus citata pagrįstas sakinys.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/autoriai/Andrius Rudamina|Andrius Rudamina]]; mentioned_place: Rudamina; mentioned_place: Vilnius; mentioned_place: Švedija'
+  temporaliniai_duomenys: 'įvykio data: 1626-1634; įvykio data: 1634 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas ilgas kontekstas ir suformuluotas konkretus citata pagrįstas sakinys.'
   pagrindžia:
     - c-001
 
@@ -41,9 +48,18 @@ Vienas jų tada rašė: „Reikia taip pat neužmiršti, kad čia mums plačiai 
 - t-003
   global_id: t-76527
   teiginys: 'Andrius Rudamina 1626–1634 m. misionieriavo Kinijoje ir rašė asketikos veikalus kinų kalba.'
+  sudarymo_pagrindimas: 'Sutrumpinta iki aiškaus fakto apie Kiniją, pašalintas konteksto perteklius.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/autoriai/Andrius Rudamina|Andrius Rudamina]]; mentioned_place: Rudamina; mentioned_place: Vilnius; mentioned_place: Švedija'
+  temporaliniai_duomenys: 'įvykio data: 1626-1634; įvykio data: 1634 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Sutrumpinta iki aiškaus fakto apie Kiniją, pašalintas konteksto perteklius.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/autoriai/Andrius Rudamina.md#claim-t-23222|Andrius Rudamina]]: Rudamina 1626–1634 m. misionieriavo Kinijoje.
+- susijęs iš [[objektai/autoriai/Andrius Rudamina.md#claim-t-23223|Andrius Rudamina]]: Andrius Rudamina 1626–1634 m. misionieriavo Kinijoje ir rašė asketikos veikalus kinų kalba.
+- susijęs iš [[objektai/autoriai/Andrius Rudamina.md#claim-t-23224|Andrius Rudamina]]: Andrius Rudamina, Vilniaus universiteto auklėtinis, 1626–1634 m. misionieriavo Kinijoje ir rašė asketikos veikalus kinų kalba.
+- susijęs iš [[objektai/grupes/Jėzuitų ordinas.md#claim-t-172131|Jėzuitų ordinas]]: 1569 m. vyskupo kvietimu į Vilnių atvykę jėzuitai gavo lėšų kolegijai ir planavo ją pertvarkyti į universitetą.
+- susijęs iš [[objektai/posakiai/„Reikia taip pat neužmiršti, kad čia mums plačiai atsiveria durys į Maskoviją...“.md#claim-t-77854|„Reikia taip pat neužmiršti, kad čia mums plačiai atsiveria durys į Maskoviją...“]]: Vilniaus akademiją steigęs jėzuitas rašė, kad iš Vilniaus atsiveria kelias į Maskoviją, o per totorius galima pasiekti Kiniją.
 ## Reikšmingi paminėjimai
 
 - c-001

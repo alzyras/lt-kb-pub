@@ -27,17 +27,19 @@ Vartojamos formos: `savo prasma`, `savo prasma dirbtais`, `savo prasma dirbo`.
 - t-001
   global_id: t-07658
   teiginys: 'Prasma nusako savą darbo būdą, kuriuo žmonės patys gaminosi buities padargus.'
+  sudarymo_pagrindimas: 'Citata tiesiogiai sieja prasmą su pačių dirbamais reikmenimis.'
   pagrindžia:
-    - c-002
     - c-001
+    - c-002
 
 <a id="claim-t-07659"></a>
 - t-002
   global_id: t-07659
   teiginys: 'Prasma siejama su pačių pasigamintais daiktais, pavyzdžiui, šepečiais.'
+  sudarymo_pagrindimas: 'Citata rodo vartoseną apie savo prasma dirbtus šepečius.'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/daiktai/Namų baldai ir rakandai.md#claim-t-08309|Namų baldai ir rakandai]]: Vyriškieji patys dailidavo namų baldus, rakandus ir įvairius būtos padargus.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -60,7 +62,3 @@ Vartojamos formos: `savo prasma`, `savo prasma dirbtais`, `savo prasma dirbo`.
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Namų baldai ir rakandai]]

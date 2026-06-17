@@ -30,6 +30,9 @@ Statybininkų šalmai ir dujokaukės - gautos Vilniaus miesto tarybos | | Lietuv
 - t-001
   global_id: t-40315
   teiginys: 'Sovietų konstruktorius M. Kalašnikovas 1947 m. sukūrė automatinį šautuvą AK-47.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Statybininkų šalmai|Statybininkų šalmai]]; mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1947 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -57,9 +60,3 @@ Statybininkų šalmai ir dujokaukės - gautos Vilniaus miesto tarybos | | Lietuv
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Statybininkų šalmai]]
-- [[objektai/daiktai/Šautuvai]]
-- [[objektai/daiktai/Sovietų automatinis šautuvas AK-47]]

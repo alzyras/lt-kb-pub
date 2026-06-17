@@ -28,6 +28,8 @@ Jaśkiewicz : A Study in Lithuanian Mythologie.
 - t-001
   global_id: t-31031
   teiginys: 'V. K. Jaśkiewicz paskelbė studiją apie Jono Lasickio aprašytus žemaičių dievus.'
+  sudarymo_pagrindimas: 'Bibliografinė citata palaiko faktą apie autoriaus studijos temą.'
+  susije_objektai: 'mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

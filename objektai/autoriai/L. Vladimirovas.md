@@ -30,9 +30,12 @@ Vladimirovo straipsniai: Caro vyriausybės politika kultūros-švietimo srityje 
 - t-001
   global_id: t-30785
   teiginys: 'L. Vladimirovas parašė straipsnių apie caro valdžios kultūros ir švietimo politiką Lietuvoje, bibliotekų istoriją ir lietuvių kultūros-švietimo draugijas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/autoriai/Motiejus Valančius|Motiejus Valančius]]; mentioned_place: Kražiai; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1871-1904; įvykio data: 1904 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/autoriai/Lietuvos istorikai ir socialinės istorijos tyrėjai.md#claim-t-179537|Lietuvos istorikai ir socialinės istorijos tyrėjai]]: L. Vladimirovas rašė apie caro vyriausybės politiką kultūros ir švietimo srityje Lietuvoje 1871-1904 m.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -52,7 +55,3 @@ Vladimirovo straipsniai: Caro vyriausybės politika kultūros-švietimo srityje 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]

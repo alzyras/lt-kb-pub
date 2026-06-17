@@ -43,6 +43,8 @@ Nenurodyta
 - t-001
   global_id: t-66575
   teiginys: 'Brolis Bertoldas su tūkstančiu Sembos vyrų nesėkmingai bandė sutrukdyti Junigedos pilies statybai, o paskui sudegino Medrabos pilį.'
+  sudarymo_pagrindimas: 'Pradinė formuluotė nutrūkusi; citata leidžia įvardyti veikėją, veiksmą ir rezultatą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_person: [[objektai/asmenys/Bertoldas|Bertoldas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Junigeda; mentioned_place: Medraba; mentioned_place: Semba'
   pagrindžia:
     - c-002
 
@@ -50,6 +52,11 @@ Nenurodyta
 - t-002
   global_id: t-66576
   teiginys: '1291 m. per Velykas lietuviai Junigedos valsčiuje pastatė pilį ir pavadino ją tuo pačiu vardu.'
+  sudarymo_pagrindimas: 'Teiginys pašalina citatos intarpų triukšmą ir yra pagrįstas šaltiniu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Junigeda; mentioned_place: Medraba; mentioned_place: Nemunas; mentioned_place: Veliuona'
+  temporaliniai_duomenys: 'pastatymo data: 1291 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys pašalina citatos intarpų triukšmą ir yra pagrįstas šaltiniu.'
   pagrindžia:
     - c-001
 
@@ -102,11 +109,3 @@ Nenurodyta
   pagrindžia:
     - t-003
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Gediminas]]
-- [[objektai/grupes/Krikščionys]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/netikėliai]]
-- [[objektai/asmenys/Bertoldas]]

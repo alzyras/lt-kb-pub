@@ -23,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-Atsisakęs krikšto, Gediminas neatsisakė tikslo artinti Lietuvą prie Vakarų Europos, kviesdamas vokiečių kolonistus. Gediminas kvietė į Lietuvą pirklius, amatininkus ir įvairių amatų žmones su šeimomis, žadėdamas laisvą atvykimą ir išvykimą. Lietuvos valdovai kvietė pirklius ir amatininkus iš svetur, nes nepasitikėjo savųjų įgūdžiais.
+Reikšmingiausiu Gedimino politikos atspindžiu yra laikomi jo laiškai. Krikšto atsisakymas nereiškė, kad Gediminas atsisakė ir kito tikslo – priartinti Lietuvą prie Vakarų Europos, kviesdamas atvykti vokiečių ko. Senieji lietuviai neturėjo rašto ir sunku pasakyti, kokia yra tautinė beraštės visuomenės savimonė.
 
 ## Laikotarpis ir datos
 
@@ -51,6 +51,9 @@ Nenurodyta
 - t-001
   global_id: t-113464
   teiginys: 'Atsisakęs krikšto, Gediminas neatsisakė tikslo artinti Lietuvą prie Vakarų Europos, kviesdamas vokiečių kolonistus.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Gedimino krikšto akcija|Gedimino krikšto akcija]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1323-1324; įvykio data: 1324 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 
@@ -58,6 +61,8 @@ Nenurodyta
 - t-002
   global_id: t-113465
   teiginys: 'Gediminas kvietė į Lietuvą pirklius, amatininkus ir įvairių amatų žmones su šeimomis, žadėdamas laisvą atvykimą ir išvykimą.'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo puslapio ir pastabos triukšmas, o citata palaiko aiškų faktą.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)|Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)]]; mentioned_object: [[objektai/zodynas/nuorašas|nuorašas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Ryga'
   pagrindžia:
     - c-001
 
@@ -65,6 +70,8 @@ Nenurodyta
 - t-003
   global_id: t-113466
   teiginys: 'Lietuvos valdovai kvietė pirklius ir amatininkus iš svetur, nes nepasitikėjo savųjų įgūdžiais.'
+  sudarymo_pagrindimas: 'Patikslintas objektas ir išlaikyta tik citatos paremta mintis.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Karaimai|Karaimai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-004
 
@@ -72,6 +79,11 @@ Nenurodyta
 - t-006
   global_id: t-113469
   teiginys: '1323–1324 m. Gedimino krikšto akcija žlugo dėl žemaičių ir stačiatikių dvariškių pasipriešinimo, bet Gediminas toliau kvietė vokiečių kolonistus.'
+  sudarymo_pagrindimas: 'Papildytas sakinys apie kvietimą kolonistams, nes tai tiesiogiai siejasi su note objektu ir remiama citata.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Gedimino krikšto akcija|Gedimino krikšto akcija]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1323-1324; įvykio data: 1324 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Papildytas sakinys apie kvietimą kolonistams, nes tai tiesiogiai siejasi su note objektu ir remiama citata.'
   pagrindžia:
     - c-002
 
@@ -157,17 +169,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-005
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Baltai]]
-- [[objektai/asmenys/Gediminas]]
-- [[objektai/ivykiai/Gedimino krikšto akcija|Gedimino krikšto akcija (krikštas)]]
-- [[objektai/ivykiai/Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)]]
-- [[objektai/grupes/Karaimai]]
-- [[objektai/grupes/Stačiatikiai]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/nuorašas]]
-- [[objektai/zodynas/unija]]
-- [[objektai/grupes/Totoriai]]

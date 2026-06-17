@@ -29,6 +29,9 @@ amziai:
 - t-001
   global_id: t-36137
   teiginys: 'Antonio Mierzyńskio „Źródła do mytologii litewskiej“ I ir II tomai išleisti Varšuvoje 1892 ir 1896 m.'
+  susije_objektai: 'mentioned_place: Varšuva'
+  temporaliniai_duomenys: 'įvykio data: 1896 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

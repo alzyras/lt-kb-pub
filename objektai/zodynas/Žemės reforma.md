@@ -22,6 +22,8 @@ Pati žemės reformos strategija kuriama ir diegiama vadovaujantis iš viršaus 
 - t-001
   global_id: t-75594
   teiginys: 'Dėl žemės reformos dauguma Lietuvos ūkių buvo per smulkūs, kad šeimai garantuotų minimalų gyvenimo lygį atitinkančias pajamas.'
+  sudarymo_pagrindimas: 'Pataisyta gramatika ir pašalintas laužymas.'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -29,9 +31,10 @@ Pati žemės reformos strategija kuriama ir diegiama vadovaujantis iš viršaus 
 - t-002
   global_id: t-75597
   teiginys: 'Žemės reformos strategija buvo kuriama ir diegiama iš viršaus į apačią, nepaisant žemės ūkyje dirbusiųjų nuomonės.'
+  sudarymo_pagrindimas: 'Teiginys yra aiški faktinė santrauka apie žemės reformos strategiją.'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/autoriai/Vaskela G.md#claim-t-17744|Vaskela G]]: G. Vaskela parašė knygą „Žemės reforma Lietuvoje 1919–1940 m.“, išleistą Vilniuje 1998 m.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -67,7 +70,3 @@ Pati žemės reformos strategija kuriama ir diegiama vadovaujantis iš viršaus 
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/Vaskela G]]

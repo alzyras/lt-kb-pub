@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Dariaus ir Girėno mauzoliejus Kaune buvo pastatytas lakūnams kaip didvyriams, naikintas per nacių okupaciją ir baigtas naikinti sovietmečiu.
+Kaune laukiančią ore pasirodant lėktuvo kone šimtatūkstantinę minią žmonių gauta žinia pravirkdė.
 
 ## Pavadinimai šaltiniuose
 
@@ -40,6 +40,8 @@ Nenurodyta
 - t-001
   global_id: t-77922
   teiginys: 'Dariaus ir Girėno mauzoliejus Kaune buvo pastatytas lakūnams kaip didvyriams, naikintas per nacių okupaciją ir baigtas naikinti sovietmečiu.'
+  sudarymo_pagrindimas: 'Reikia aiškiau susieti mauzoliejų su Dariaus ir Girėno asmenimis.'
+  susije_objektai: 'mentioned_place: Kaunas; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -60,8 +62,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/S. Dariaus ir S. Girėno skrydis per Atlantą ir „Lituanicos“ katastrofa (1933 m. liepos 15-17 d.)]]
-- [[objektai/posakiai/„paskirti save Tėvynės garbei“]]

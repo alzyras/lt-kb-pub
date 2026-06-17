@@ -22,9 +22,14 @@ Gorbačiovo reformoms, o jį patį nuvers „vanagai“.
 - t-001
   global_id: t-20828
   teiginys: 'Vakarams pasirinkimas „Gorbis ar Lietuva“ buvo nelengvas, nes jie baiminosi pakenkti M. Gorbačiovo reformoms.'
+  sudarymo_pagrindimas: 'Pradinis teiginys fragmentiškas, o citata leidžia suformuluoti pilną sakinį.'
+  susije_objektai: 'mentioned_place: Baltija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Michailas Gorbačiovas.md#claim-t-101681|Michailas Gorbačiovas]]: Gorbačiovo reformoms, o jį patį nuvers „vanagai“.
+- susijęs iš [[objektai/ivykiai/Lietuvos nepriklausomybės tarptautinis pripažinimas (1991 m. vasario 11 d. – rugsėjo 6 d.).md#claim-t-183251|Lietuvos nepriklausomybės tarptautinis pripažinimas (1991 m. vasario 11 d. – rugsėjo 6 d.)]]: 1991 m. vasario 11 d. Islandijos Altingas pirmasis pripažino Lietuvos nepriklausomybę.
+- susijęs iš [[objektai/ivykiai/Lietuvos nepriklausomybės tarptautinis pripažinimas (1991 m. vasario 11 d. – rugsėjo 6 d.).md#claim-t-75173|Lietuvos nepriklausomybės tarptautinis pripažinimas (1991 m. vasario 11 d. – rugsėjo 6 d.)]]: Lietuvos tarptautinis pripažinimas užtruko, nes Vakarai baiminosi, kad Baltijos valstybių pripažinimas pakenks M. Gorbačiovo reformoms.
+- susijęs iš Islandija: 1991 m. vasario 11 d. Islandijos Altingas pirmasis pripažino Lietuvos nepriklausomybę.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -42,8 +47,3 @@ Gorbačiovo reformoms, o jį patį nuvers „vanagai“.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/Lietuvos nepriklausomybės tarptautinis pripažinimas (1991 m. vasario 11 d. – rugsėjo 6 d.)]]
-- [[objektai/asmenys/Michailas Gorbačiovas]]

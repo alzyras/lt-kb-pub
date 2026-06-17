@@ -26,6 +26,11 @@ Dusburgietis teigia, kad vanagas A.
 - t-001
   global_id: t-61344
   teiginys: 'A. Vanago „Lietuvių hidronimų etimologinis žodynas“ išleistas Vilniuje 1981 m.'
+  sudarymo_pagrindimas: 'Citata pateikia autorių, leidinio pavadinimą, vietą ir metus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1981 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pateikia autorių, leidinio pavadinimą, vietą ir metus.'
   pagrindžia:
     - c-001
 

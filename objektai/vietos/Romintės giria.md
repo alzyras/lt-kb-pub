@@ -14,7 +14,7 @@ tags:
 
 ## Santrauka
 
-Nadruvos pietryčiuose, Pisos intako Romintės (dab.
+Dusburgietis teigia, kad nadruvos pietryčiuose, Pisos intako Romintės (dab.
 
 ## Teiginiai
 
@@ -22,6 +22,8 @@ Nadruvos pietryčiuose, Pisos intako Romintės (dab.
 - t-001
   global_id: t-58719
   teiginys: 'Nadruvos pietryčiuose, Pisos intako Romintės (dab.'
+  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
+  susije_objektai: 'mentioned_place: Kaimas; mentioned_place: Nadruva; mentioned_place: Viena'
   pagrindžia:
     - c-001
 

@@ -45,6 +45,12 @@ Nenurodyta
 - t-001
   global_id: t-62539
   teiginys: '1260 m. Vengrijos karalius su įvairiataute 40 tūkstančių raitelių kariuomene užpuolė Čekijos karalių.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytą įvykį, datą ir kariuomenės dydį.'
+  susije_objektai: 'mentioned_place: Vargiai; mentioned_place: Vengrija; mentioned_place: Viena; mentioned_place: Čekija'
+  temporaliniai_duomenys: 'įvykio data: 1260 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia citatoje nurodytą įvykį, datą ir kariuomenės dydį.'
   pagrindžia:
     - c-001
 

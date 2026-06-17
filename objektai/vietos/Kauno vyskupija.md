@@ -4,9 +4,10 @@ pavadinimas: 'Kauno vyskupija'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
+  - '1911 m.'
   - '1923 m.'
-date_start: '1923'
-date_end: ''
+date_start: '1911'
+date_end: '1923'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -27,6 +28,9 @@ Plačiai pasiremdamas Kauno vyskupijos kurijos archyvine medžiaga, jis išleido
 - t-001
   global_id: t-32236
   teiginys: 'Veikalas „Žemaičių vysk. M. Valančius“ buvo parengtas plačiai remiantis Kauno vyskupijos kurijos archyvine medžiaga.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/A. Alekna|A. Alekna]]; mentioned_place: Kaunas; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1911 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

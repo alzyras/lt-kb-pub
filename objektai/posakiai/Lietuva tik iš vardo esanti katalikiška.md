@@ -26,6 +26,7 @@ Formulė pateikiama kaip Ordino propagandinis teiginys, menkinantis Lietuvos kri
 - t-001
   global_id: t-11645
   teiginys: 'Formulė pateikiama kaip Ordino skleidžiamas teiginys, menkinantis Lietuvos katalikiškumą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -45,7 +46,3 @@ Formulė pateikiama kaip Ordino propagandinis teiginys, menkinantis Lietuvos kri
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Stačiatikiai]]

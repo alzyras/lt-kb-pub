@@ -46,6 +46,9 @@ Nenurodyta
 - t-001
   global_id: t-62844
   teiginys: 'Kulmo ir Lubavos žemių dovanojimui patvirtinti buvo išduotas raštas su antspaudu, kad dovanojimo nebūtų galima atšaukti.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Reikia išplėsti kontekstą ir pašalinti pradinį nutrūkusį jungtuką.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Grigalius (vicekancleris)|Grigalius (vicekancleris)]]; mentioned_place: Krušvica; mentioned_place: Kujavija; mentioned_place: Kulmas; mentioned_place: Lubava; mentioned_place: Mazovija; mentioned_place: Prūsija'
   pagrindžia:
     - c-002
 
@@ -53,6 +56,12 @@ Nenurodyta
 - t-002
   global_id: t-62845
   teiginys: 'Kulmo ir Lubavos žemių dovanojimas buvo atliktas apie 1226 arba 1230 metus, dalyvaujant dvasininkų ir pasauliečių liudytojams.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Citata palaiko su dovanojimo įvykiu susijusią datą ir liudytojų buvimą.'
+  susije_objektai: 'mentioned_place: Kulmas; mentioned_place: Lubava; mentioned_place: Prūsija'
+  temporaliniai_duomenys: 'įvykio data: 1226 m.; įvykio data: apie 1226 m.; įvykio data: 1230 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko su dovanojimo įvykiu susijusią datą ir liudytojų buvimą.'
   pagrindžia:
     - c-001
     - c-003
@@ -61,6 +70,9 @@ Nenurodyta
 - t-003
   global_id: t-62846
   teiginys: 'Kulmo ir Lubavos žemės buvo atiduotos Teutonų namų ordino broliams, suteikiant jiems visas turėtas teises ir naudas.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Teiginys aiškiai apibendrina dovanojimo turinį ir yra paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Agota|Agota]]; mentioned_person: [[objektai/asmenys/Grigalius (vicekancleris)|Grigalius (vicekancleris)]]; mentioned_place: Kujavija; mentioned_place: Kulmas; mentioned_place: Lubava; mentioned_place: Mazovija; mentioned_place: Prūsija'
   pagrindžia:
     - c-003
 
@@ -121,16 +133,3 @@ Nenurodyta
   pagrindžia:
     - t-003
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Agota|Agota (kunigaikščio žmona, XIII a.)]]
-- [[objektai/asmenys/Grigalius (vicekancleris)]]
-- [[objektai/grupes/Teutonai]]
-- [[objektai/asmenys/Boguslavas (jaunesnysis Dirsovijos grafas)]]
-- [[objektai/asmenys/Boguslavas (vyresnysis Dirsovijos grafas)]]
-- [[objektai/asmenys/Gernuldas]]
-- [[objektai/asmenys/Giunteris (Mazovijos vyskupas)]]
-- [[objektai/asmenys/Jonas (kancleris)]]
-- [[objektai/asmenys/Mykolas (Kujavijos vyskupas)]]
-- [[objektai/asmenys/Vilhelmas (dekanas)]]

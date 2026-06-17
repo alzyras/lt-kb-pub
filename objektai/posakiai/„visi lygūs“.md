@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Stalinizmo epochoje saugumo pareigūnai vienodai galėjo suimti profesorių, ministrą ar eilinį žmogų, todėl šia prasme buvo „visi lygūs“. Stalinizmo epochoje saugumo pareigūnai vienodai galėjo suimti profesorių, ministrą ar eilinį žmogų, todėl šia prasme buvo „visi lygūs“.
+Kūrybai pasitarnavo vadinamoji „brežnevinė epocha“: kuo žmogus buvo žinomesnis, tuo sunkiau jam buvo iškelti baudžiamąją bylą (stalinizmo epochoje buvo „visi lygūs“ – saugumo pareigūnai vienodai galėjo suimti ir profesorių, ir ministrą, ir eilinį žmogų).
 
 ## Teiginiai
 
@@ -20,9 +20,11 @@ Stalinizmo epochoje saugumo pareigūnai vienodai galėjo suimti profesorių, min
 - t-001
   global_id: t-20963
   teiginys: 'Stalinizmo epochoje saugumo pareigūnai vienodai galėjo suimti profesorių, ministrą ar eilinį žmogų, todėl šia prasme buvo „visi lygūs“.'
+  sudarymo_pagrindimas: 'Teiginys pilnai perteikia citatos mintį apie posakio reikšmę stalinizmo kontekste.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/posakiai/„Prokrusto komunistinė lova“.md#claim-t-20866|„Prokrusto komunistinė lova“]]: Sovietmečiu nepavyko visiškai parklupdyti Lietuvos kultūros ir sugrūsti jos į „Prokrusto komunistinę lovą“.
+- susijęs iš [[objektai/zodynas/socialistinis realizmas.md#claim-t-22301|socialistinis realizmas]]: Brežnevinėje epochoje menininkai vis dažniau atsiribodavo nuo socialistinio realizmo ir vengė derinti meną su politika bei propaganda.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -58,8 +60,3 @@ Stalinizmo epochoje saugumo pareigūnai vienodai galėjo suimti profesorių, min
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/socialistinis realizmas]]
-- [[objektai/posakiai/„Prokrusto komunistinė lova“]]

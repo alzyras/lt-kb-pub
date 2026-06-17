@@ -11,9 +11,6 @@ datos:
   - '1243 m.'
   - '1245 m.'
   - '1259 m.'
-  - '1262 m.'
-  - '1263 m.'
-  - '1269 m.'
   - '1285 m.'
 date_start: '1229'
 date_end: '1285'
@@ -31,7 +28,7 @@ amziai:
 
 ## Santrauka
 
-Sembų ir lietuvių bendri karo veiksmai siejami su Ordinui priklausiusios Klaipėdos pilies apgultimi XIII a. šeštajame dešimtmetyje. Mindaugo žūtis, netvirta Lietuvos vidaus padėtis ir sudėtinga tarptautinė aplinka sunkino bendrą kovą prieš Ordino agresiją. Dalis nadruvių, pagudėnų, sūduvių ir bartų pasitraukė į Lietuvos valstybę ir dalyvavo kovoje prieš Ordino bei Aukso ordos agresiją.
+Dusburgietis teigia, kad lietuvos ir vakarinių baltų (prūsų, jotvingių) bendradarbiavimas tapo ypač ryškus tada, kai prasidėjo kova prieš pavyslyje įsikūrusį Kryžiuočių ordiną. Dusburgietis teigia, kad sembų ir lietuvių (žemaičių) bendrus veiksmus galima įžiūrėti Ordinui priklausiusios Klaipėdos pilies apgulties eigoje (XIII a. Dusburgietis teigia, kad netikėtas Mindaugo žuvimas, netvirta padėtis Lietuvos viduje, sudėtinga tarptautinė aplinka sunkino bendrą kovą prieš Ordino agresiją.
 
 ## Laikotarpis ir datos
 
@@ -59,6 +56,11 @@ Nenurodyta
 - t-001
   global_id: t-59725
   teiginys: 'Sembų ir lietuvių bendri karo veiksmai siejami su Ordinui priklausiusios Klaipėdos pilies apgultimi XIII a. šeštajame dešimtmetyje.'
+  sudarymo_pagrindimas: 'Citata remia aiškų teiginį apie bendrus veiksmus, pašalintas nutrūkęs fragmentas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Dauguva; mentioned_place: Kulmas; mentioned_place: Lietuva; mentioned_place: Prieglius; mentioned_place: Prūsai; mentioned_place: Semba; mentioned_place: Vysla; mentioned_place: Vėluva'
+  temporaliniai_duomenys: 'įvykio data: 1262 m.; įvykio data: 1263 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata remia aiškų teiginį apie bendrus veiksmus, pašalintas nutrūkęs fragmentas.'
   pagrindžia:
     - c-001
 
@@ -66,6 +68,11 @@ Nenurodyta
 - t-002
   global_id: t-59726
   teiginys: 'Mindaugo žūtis, netvirta Lietuvos vidaus padėtis ir sudėtinga tarptautinė aplinka sunkino bendrą kovą prieš Ordino agresiją.'
+  sudarymo_pagrindimas: 'Teiginys yra faktinis, gramatiškas ir paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_group: [[objektai/grupes/Žiemgaliai|Žiemgaliai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_person: [[objektai/asmenys/Nameisis|Nameisis]]; mentioned_person: [[objektai/asmenys/Traidenis|Traidenis]]; mentioned_place: Kristburgas; mentioned_place: Lietuva; mentioned_place: Prūsai; mentioned_place: Semba'
+  temporaliniai_duomenys: 'įvykio data: 1277 m.; įvykio data: 1280 m.; įvykio data: 1282 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra faktinis, gramatiškas ir paremtas citata.'
   pagrindžia:
     - c-004
 
@@ -73,6 +80,11 @@ Nenurodyta
 - t-003
   global_id: t-59727
   teiginys: 'Dalis nadruvių, pagudėnų, sūduvių ir bartų pasitraukė į Lietuvos valstybę ir dalyvavo kovoje prieš Ordino bei Aukso ordos agresiją.'
+  sudarymo_pagrindimas: 'Perrašyta, kad būtų aiškesnis bendros kovos objektas ir pašalintas neapibrėžtumas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Prūsai'
+  temporaliniai_duomenys: 'įvykio data: 1285 m.; įvykio data: 1292 m.; įvykio data: 1293 m.; įvykio data: 1337 m.; įvykio data: 1410 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Perrašyta, kad būtų aiškesnis bendros kovos objektas ir pašalintas neapibrėžtumas.'
   pagrindžia:
     - c-002
 
@@ -80,6 +92,11 @@ Nenurodyta
 - t-004
   global_id: t-59728
   teiginys: 'Lietuvos ir vakarinių baltų bendradarbiavimas ypač išryškėjo prasidėjus kovai prieš Pavyslyje įsikūrusį Kryžiuočių ordiną.'
+  sudarymo_pagrindimas: 'Pašalinta netiksli autorinė įžanga ir suformuotas glaustas faktinis sakinys.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Jotvingiai|Jotvingiai]]; mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_place: Kulmas; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1236 m.; įvykio data: 1242 m.; įvykio data: 1243 m.; įvykio data: 1245 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalinta netiksli autorinė įžanga ir suformuotas glaustas faktinis sakinys.'
   pagrindžia:
     - c-003
 
@@ -162,23 +179,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Auksinė Orda]]
-- [[objektai/grupes/Baltai]]
-- [[objektai/grupes/Bartai]]
-- [[objektai/asmenys/Gediminas]]
-- [[objektai/grupes/Jotvingiai]]
-- [[objektai/grupes/Kalavijuočių ordinas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
-- [[objektai/asmenys/Nameisis]]
-- [[objektai/grupes/Sembai]]
-- [[objektai/grupes/Sūduviai]]
-- [[objektai/asmenys/Traidenis|Traidenis (valdovas, XIII a.)]]
-- [[objektai/zodynas/Miera|miera]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Žiemgaliai]]
-- [[objektai/zodynas/žygis]]

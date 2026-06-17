@@ -10,13 +10,13 @@ date_start: '1435'
 date_end: '1500'
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XV'
 tags:
   - grupe
   - kunigas
   - mokslininkas
   - ordinas
+amziai:
+  - 'XV'
 ---
 # Bernardinų ordinas
 
@@ -25,10 +25,16 @@ tags:
 Pradžios mokslu, be parapijų kunigų, dar rūpinosi šių ordinų vienuoliai: domininkonai, karmelitai, bernardinai, pranciškonai, augustinijonai ir kt.
 
 ## Teiginiai
+
 <a id="claim-t-181538"></a>
 - t-001
   global_id: t-181538
   teiginys: '1469 metais į Vilnių pakviestam Bernardinų ordinui bažnyčiai ir vienuolynui statyti buvo atiduotas slėnis palei Vilnią prie Karališkojo malūno.'
+  sudarymo_pagrindimas: 'Pašalintas puslapio triukšmas ir sutvarkyta mintis.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_object: [[objektai/zodynas/neofitai|neofitai]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Karališkasis malūnas Vilniuje; mentioned_place: Lietuva; mentioned_place: Pskovas; mentioned_place: Vilniaus monetų kalykla; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 900 m'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas puslapio triukšmas ir sutvarkyta mintis.'
   pagrindžia:
     - c-002
 
@@ -36,10 +42,13 @@ Pradžios mokslu, be parapijų kunigų, dar rūpinosi šių ordinų vienuoliai: 
 - t-002
   global_id: t-181539
   teiginys: 'Vilniaus vaivada Mikalojus Radvila dosniai prisidėjo prie Bernardinų bažnyčios permūrijimo, kai jai dėl menkų pamatų grėsė griūtis.'
+  sudarymo_pagrindimas: 'Kontekstinis fragmentas paverstas pilnu sakiniu.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/maršalka|maršalka]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Vilniaus vaivada Mikalojus Radvila dosniai prisidėjo prie Bernardinų bažnyčios permūrijimo, kai jai dėl menkų pamatų grėsė griūtis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -57,6 +66,7 @@ Pradžios mokslu, be parapijų kunigų, dar rūpinosi šių ordinų vienuoliai: 
   statusas: verified
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: '1469 metais į Vilnių pakviestam Bernardinų ordinui bažnyčiai ir vienuolynui statyti buvo atiduotas slėnis palei Vilnią prie Karališkojo malūno.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -109,17 +119,3 @@ Pradžios mokslu, be parapijų kunigų, dar rūpinosi šių ordinų vienuoliai: 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Malūnas]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/zodynas/maršalka]]
-- [[objektai/zodynas/neofitai]]
-- [[objektai/zodynas/vaivada]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Mikalojus Radvila]]
-- [[objektai/asmenys/Radvila]]
-- [[objektai/daiktai/Bernardinų bažnyčios pamatai, perstatymas ir karaliaus malūnas]]
-- [[objektai/paprociai/Bernardinų kvietimas neofitams įtvirtinti ir religinė Vilniaus fundacija]]
-- [[objektai/asmenys/Mikalojus Radvila II]]

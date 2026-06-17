@@ -45,6 +45,9 @@ Nenurodyta
 - t-001
   global_id: t-62321
   teiginys: 'Popiežius Klemensas V mirė balandžio 20 d., praėjus metams nuo kometos pasirodymo.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo nutrūkęs ir su bibliografine nuoroda; citata pagrindžia mirties datą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Klemensas V|Klemensas V]]'
   pagrindžia:
     - c-001
 
@@ -63,7 +66,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Klemensas V]]

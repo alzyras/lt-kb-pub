@@ -36,6 +36,14 @@ Nenurodyta
 - t-001
   global_id: t-185612
   teiginys: '1263 m. Mindaugo kariuomenė persikėlė per Vyslą, išgabeno didelį grobį iš Lovičiaus apygardų ir visa kita sunaikino ugnimi bei kalaviju.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Sakinys paverstas savarankišku faktiniu teiginiu be boilerplate ir skiemenavimo klaidų.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lovičius'
+  temporaliniai_duomenys: 'įvykio data: 1263 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Sakinys paverstas savarankišku faktiniu teiginiu be boilerplate ir skiemenavimo klaidų.'
   pagrindžia:
     - c-001
 
@@ -63,8 +71,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
-- [[objektai/daiktai/Kalavijas]]

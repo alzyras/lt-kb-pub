@@ -12,14 +12,14 @@ date_start: '1514'
 date_end: '1530'
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XVI'
-periodo_grupes:
-  - 'LDK'
 tags:
   - asmuo
   - ginklas
   - pilis
+amziai:
+  - 'XVI'
+periodo_grupes:
+  - 'LDK'
 ---
 # Konstantinas Ostrogiškis
 
@@ -28,10 +28,13 @@ tags:
 Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Konstantinas Ostrogiškis gotiką nunešė iki savo tėvonijos – Ukrainos Voluinėje. Lietuvos ir Lenkijos kariuomenė, vadovaujama Konstantino Ostrogiškio, 1514 m. rugsėjo 8 d. sutriuškina Maskvos kariuomenę prie Oršos L I E T U V O S I S T O R I J A 78 Vilniaus universitetas Sakoma: aidint patrankoms, mūzos tyli.
 
 ## Teiginiai
+
 <a id="claim-t-181590"></a>
 - t-001
   global_id: t-181590
   teiginys: 'Konstantinas Ostrogiškis netoli Medininkų vartų pastatė mūrinę Švč. Trejybės cerkvę ir įkurdino bazilijonus.'
+  sudarymo_pagrindimas: 'Teiginys yra glaustas, gramatiškas ir tiksliai paremtas citata.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]; mentioned_place: Medininkai'
   pagrindžia:
     - c-001
 
@@ -39,6 +42,11 @@ Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Konstantinas Ost
 - t-002
   global_id: t-183553
   teiginys: 'Konstantinas Ostrogiškis gotikos stiliumi perstatydino Vilniaus ir Naugarduko cerkves ir skleidė gotiką savo tėvonijoje Voluinėje.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginį verta suformuluoti enciklopediškiau ir be metaforiško posakio.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_object: [[objektai/zodynas/gotika|gotika]]; mentioned_object: [[objektai/zodynas/tėvonija|tėvonija]]; mentioned_person: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]; mentioned_place: Naugardukas; mentioned_place: Ukraina; mentioned_place: Vilnius; mentioned_place: Voluinė'
   pagrindžia:
     - c-002
 
@@ -46,6 +54,11 @@ Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Konstantinas Ost
 - t-003
   global_id: t-184755
   teiginys: 'Aleksandras pasiuntė Konstantino Ostrogiškio vedamus lengvuosius dalinius į Smolenską, o pats su pagrindinėmis jėgomis patraukė iš paskos.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir atitinka citatos informaciją.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Ivanas|Ivanas]]; mentioned_person: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]; mentioned_place: Smolenskas'
   pagrindžia:
     - c-003
 
@@ -53,6 +66,12 @@ Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Konstantinas Ost
 - t-004
   global_id: t-184757
   teiginys: 'Užbaigęs karą su Maskva, karalius pasiuntė Konstantiną Ostrogiškį su dalimi algininkų į Volynę.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Konstantiną Ostrogiškį ir yra paremtas citata.'
+  susije_objektai: 'territory: Krymas; territory: Maskva; territory: Volynė; mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/algininkai|algininkai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Eustachijus (raštininkas)|Eustachijus (raštininkas)]]; mentioned_person: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]; mentioned_place: Krymas; mentioned_place: Maskva; mentioned_place: Volynė'
+  semantiniai_rysiai: '[[objektai/asmenys/Konstantinas Ostrogiškis|Konstantinas Ostrogiškis]] buvo valdovas Krymas; [[objektai/asmenys/Konstantinas Ostrogiškis|Konstantinas Ostrogiškis]] buvo valdovas Maskva; [[objektai/asmenys/Konstantinas Ostrogiškis|Konstantinas Ostrogiškis]] buvo valdovas Volynė'
   pagrindžia:
     - c-004
 
@@ -60,6 +79,11 @@ Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Konstantinas Ost
 - t-005
   global_id: t-184758
   teiginys: 'Konstantinas Ostrogiškis įsakė lietuvių vėliavoms apsimestinai trauktis, tikėdamasis išardyti priešo raitelių rikiuotę.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata palaiko veiksmą ir tikslą, bet pradinį teiginį reikia glaudinti.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_person: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]'
   pagrindžia:
     - c-005
 
@@ -67,10 +91,21 @@ Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Konstantinas Ost
 - t-006
   global_id: t-184759
   teiginys: 'Po pergalės Konstantinas Ostrogiškis suskaičiavo belaisvius ir išsiuntė karaliui 380 žymiausių bajorų su laišku apie pergalę.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys gramatiškas, konkretus ir tiesiogiai pagrįstas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_person: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]; mentioned_place: Maskva; mentioned_place: Smolenskas'
   pagrindžia:
     - c-006
-
+- susijęs iš [[objektai/grupes/Bazilijonų ordinas.md#claim-t-178764|Bazilijonų ordinas]]: Konstantinas Ostrogiškis prie Švč. Trejybės cerkvės netoli Medininkų vartų įkurdino Šv. Bazilijaus ordino vienuolius.
+- susijęs iš Medininkų vartai: Konstantinas Ostrogiškis netoli Medininkų vartų pastatė mūrinę Švč. Trejybės cerkvę.
+- susijęs iš Naugardukas: Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Konstantinas Ostrogiškis gotiką nunešė iki savo tėvonijos – Ukrainos Voluinėje.
+- susijęs iš Orša: Po Smolensko paėmimo 1514 m. Konstantinas Ostrogiškis ties Orša smarkiai sumušė Maskvos kariuomenę.
+- susijęs iš Voluinė: Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Konstantinas Ostrogiškis gotiką nunešė iki savo tėvonijos – Ukrainos Voluinėje.
+- susijęs iš Švč. Trejybės cerkvė ir bazilijonų vienuolynas Vilniuje: Kunigaikštis Konstantinas Ostrogiškis prie Švč. Trejybės cerkvės įkurdino Šv. Bazilijaus ordino vienuolius.
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Konstantinas Ostrogiškis netoli Medininkų vartų pastatė mūrinę Švč. Trejybės cerkvę ir įkurdino bazilijonus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -85,6 +120,7 @@ Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Konstantinas Ost
   statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Konstantinas Ostrogiškis gotikos stiliumi perstatydino Vilniaus ir Naugarduko cerkves ir skleidė gotiką savo tėvonijoje Voluinėje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -102,6 +138,7 @@ Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Konstantinas Ost
   statusas: verified
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'Aleksandras pasiuntė Konstantino Ostrogiškio vedamus lengvuosius dalinius į Smolenską, o pats su pagrindinėmis jėgomis patraukė iš paskos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -129,6 +166,7 @@ Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Konstantinas Ost
   statusas: verified
   pagrindžia:
     - t-003
+
 - c-004
   santrauka: 'Užbaigęs karą su Maskva, karalius pasiuntė Konstantiną Ostrogiškį su dalimi algininkų į Volynę.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -151,6 +189,7 @@ Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Konstantinas Ost
   statusas: verified
   pagrindžia:
     - t-004
+
 - c-005
   santrauka: 'Konstantinas Ostrogiškis įsakė lietuvių vėliavoms apsimestinai trauktis, tikėdamasis išardyti priešo raitelių rikiuotę.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -168,6 +207,7 @@ Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Konstantinas Ost
   statusas: verified
   pagrindžia:
     - t-005
+
 - c-006
   santrauka: 'Po pergalės Konstantinas Ostrogiškis suskaičiavo belaisvius ir išsiuntė karaliui 380 žymiausių bajorų su laišku apie pergalę.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -189,16 +229,6 @@ Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Konstantinas Ost
     - t-006
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kazokai]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Maskvėnai]]
-- [[objektai/grupes/Stačiatikiai]]
-- [[objektai/zodynas/algininkai]]
-- [[objektai/zodynas/gotika]]
-- [[objektai/zodynas/tėvonija]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/grupes/Bajorai]]
-- [[objektai/grupes/Bazilijonų ordinas]]
-- [[objektai/paprociai/Padėkos pamaldos už karinę pergalę]]
+- Konstantinas Ostrogiškis buvo_valdovas [[objektai/vietos/Krymas]]
+- Konstantinas Ostrogiškis buvo_valdovas [[objektai/vietos/Maskva]]
+- Konstantinas Ostrogiškis buvo_valdovas [[objektai/vietos/Volynė]]

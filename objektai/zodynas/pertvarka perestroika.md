@@ -3,11 +3,18 @@ tipas: zodyno_irasas
 pavadinimas: 'pertvarka perestroika'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1939 m.'
+  - '1940 m.'
+date_start: '1939'
+date_end: '1940'
 sukurta: ''
 atnaujinta: ''
 tags:
   - reforma
   - sąvoka
+amziai:
+  - 'XX'
 ---
 # pertvarka perestroika
 
@@ -21,6 +28,11 @@ SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, kita
 - t-001
   global_id: t-22242
   teiginys: 'Pradiniame etape Sąjūdis rėmė Maskvoje pradėtas perestroikos reformas ir siekė jas įgyvendinti Lietuvoje.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie perestroikos reformas Lietuvoje.'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Rusija'
+  temporaliniai_duomenys: 'įvykio data: 1939-1940; įvykio data: 1940 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie perestroikos reformas Lietuvoje.'
   pagrindžia:
     - c-002
 
@@ -28,6 +40,8 @@ SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, kita
 - t-002
   global_id: t-22243
   teiginys: 'SSRS pradėjus Michailo Gorbačiovo pertvarką, LKP vadovai Petras Griškevičius ir Rimgaudas Songaila Lietuvoje laikėsi pasyviai.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, todėl suformuluotas vientisas sakinys pagal citatą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis|Lietuvos Persitvarkymo Sąjūdis]]; mentioned_person: [[objektai/asmenys/Petras Griškevičius|Petras Griškevičius]]; mentioned_person: [[objektai/asmenys/Rimgaudas Songaila|Rimgaudas Songaila]]; mentioned_place: Lietuva; mentioned_place: SSRS; mentioned_place: Ukraina'
   pagrindžia:
     - c-001
 
@@ -98,12 +112,3 @@ SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, kita
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis]]
-- [[objektai/asmenys/Rimgaudas Songaila]]
-- [[objektai/posakiai/„Viešumas, demokratija, suverenumas“]]
-- [[objektai/asmenys/Petras Griškevičius]]
-- [[objektai/posakiai/Viešumas, demokratija, suverenumas]]

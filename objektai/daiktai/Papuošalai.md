@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Kapinynuose aptiktų apyrankių ir kitų papuošalų ornamentai buvo giminingi lietuvių kaimo audinių ir juostų raštams. Kapinynuose aptiktų apyrankių ir kitų papuošalų ornamentai buvo giminingi lietuvių kaimo audinių ir juostų raštams. Kai kurių papuošalų prototipai yra randami dar prieškristiniais laikais keltų plotuose.
+Iš žalvario, aukso, sidabro, stiklo ir gintaro buvo dirbami papuošalai. Papuošalai buvo puošiami aukso, sidabro plokštelėmis, mėlyno stiklo akutėmis ir įvairiaspalviu emaliu.
 
 ## Pavadinimai šaltiniuose
 
@@ -49,6 +49,8 @@ Nenurodyta
 - t-001
   global_id: t-47814
   teiginys: 'Kapinynuose aptiktų apyrankių ir kitų papuošalų ornamentai buvo giminingi lietuvių kaimo audinių ir juostų raštams.'
+  sudarymo_pagrindimas: 'Perrašyta į aiškesnį enciklopedinį sakinį be neapibrėžto laiko įvardijimo.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kaimas'
   pagrindžia:
     - c-002
 
@@ -56,9 +58,19 @@ Nenurodyta
 - t-003
   global_id: t-47816
   teiginys: 'Kai kurių papuošalų prototipai yra randami dar prieškristiniais laikais keltų plotuose.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/autoriai/Henrikas Latvis.md#claim-t-171491|Henrikas Latvis]]: Henrikas Latvis priklauso XIII a. Livonijos šaltiniams, kurie liudija gerą pagonių lietuvių apsiginklavimą.
+- susijęs iš [[objektai/daiktai/Geležiniai ginklai ir įrankiai.md#claim-t-47810|Geležiniai ginklai ir įrankiai]]: Patobulėjo ginklų, įrankių ir papuošalų formos.
+- susijęs iš [[objektai/daiktai/Geležiniai ginklai ir įrankiai.md#claim-t-47811|Geležiniai ginklai ir įrankiai]]: Iš geležies buvo gaminami ginklai, tokie kaip ietys ir kirviai, bei įrankiai, tokie kaip dalgiai, pjautuvai, peiliai ir ylos.
+- susijęs iš [[objektai/daiktai/Gintaro ir stiklo karoliai.md#claim-t-71563|Gintaro ir stiklo karoliai]]: Buvo mėgiami gintaro ir stiklo karoliai.
+- susijęs iš [[objektai/daiktai/Juostos.md#claim-t-47812|Juostos]]: Apyrankių ir kitų papuošalų ornamentai buvo giminingi lietuvių kaimo audinių ir juostų raštams.
+- susijęs iš [[objektai/daiktai/Juostos.md#claim-t-47813|Juostos]]: Apyrankių ir kitų papuošalų ornamentai buvo giminingi lietuvių kaimo audinių ir juostų raštams.
+- susijęs iš [[objektai/daiktai/Lietuvos žalvario (bronzos) amžiaus dirbiniai.md#claim-t-64967|Lietuvos žalvario (bronzos) amžiaus dirbiniai]]: Lietuvos žalvario amžiaus dirbinių sąraše minimi kirviai, kalavijai, iečių galai, papuošalai ir statulėlė.
+- susijęs iš [[objektai/paprociai/Aisčių laidotuvių ir vėlinių apeigos.md#claim-t-05333|Aisčių laidotuvių ir vėlinių apeigos]]: Aisčių laidotuvių apeigose mirusiųjų kapai darėsi turtingesni, o drauge su mirusiaisiais buvo pakasami išpuošti žirgai.
+- susijęs iš Tikocinas: Testamente nurodyta, kad Tikocine buvę apmušalai ir kiti užtiesalai turėjo atitekti karalaitėms seserims.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -91,17 +103,3 @@ Nenurodyta
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/papuošalas]]
-
-### Susiję objektai
-- [[objektai/grupes/Baltai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/paprociai/Aisčių laidotuvių ir vėlinių apeigos]]
-- [[objektai/daiktai/Geležiniai ginklai ir įrankiai]]
-- [[objektai/daiktai/Gintaro ir stiklo karoliai]]
-- [[objektai/autoriai/Henrikas Latvis]]
-- [[objektai/daiktai/Juostos]]
-- [[objektai/daiktai/Lietuvos žalvario (bronzos) amžiaus dirbiniai]]

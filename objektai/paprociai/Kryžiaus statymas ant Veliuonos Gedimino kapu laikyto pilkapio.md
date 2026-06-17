@@ -42,6 +42,8 @@ Nenurodyta
 - t-001
   global_id: t-87275
   teiginys: 'Ant Veliuonoje Gedimino kapu laikyto pilkapio nuo neatmenamų laikų būdavo statomas kryžius.'
+  sudarymo_pagrindimas: 'Citata tiesiogiai pagrindžia paprotį, bet pradinis tekstas nutrūkęs ir su antraštės triukšmu.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Bajerburgas; mentioned_place: Veliuona; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -72,9 +74,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Gediminas]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/daiktai/Kryžius]]

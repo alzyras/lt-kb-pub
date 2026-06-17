@@ -6,19 +6,20 @@ saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1410 m.'
+  - '1431 m.'
 date_start: '1410'
-date_end: ''
+date_end: '1431'
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XV'
-periodo_grupes:
-  - 'LDK'
 tags:
   - asmuo
   - miestas
   - ordinas
   - pilis
+amziai:
+  - 'XV'
+periodo_grupes:
+  - 'LDK'
 ---
 # Henrikas von Plauenas
 
@@ -27,10 +28,16 @@ tags:
 Tuo tarpu ordino vadovybę paėmęs komtūras Henrikas von Plauenas suskubo surinkti jėgų, ir sąjungininkams nebepasisekė paimti Marijenburgo; ypač nepasisekė dėl to, kad Vytautas, dėl gerai nežinomų priežasčių, netrukus su savo kariuomene grįžo namo. 47) Švitco komtūro Henriko v.
 
 ## Teiginiai
+
 <a id="claim-t-176403"></a>
 - t-001
   global_id: t-176403
   teiginys: 'Henrikas von Plauenas po 1410 m. smūgio rengė Ordino revanšą ir rinko jėgas iš Vakarų Europos.'
+  sudarymo_pagrindimas: 'Teiginys glaustai perteikia citatoje nurodytą Henriko von Plaueno veikimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Europa; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: po 1410 m.; įvykio data: 1410 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys glaustai perteikia citatoje nurodytą Henriko von Plaueno veikimą.'
   pagrindžia:
     - c-002
 
@@ -38,6 +45,8 @@ Tuo tarpu ordino vadovybę paėmęs komtūras Henrikas von Plauenas suskubo suri
 - t-002
   global_id: t-176404
   teiginys: 'Po Makro raporto Henrikas von Plauenas vyko pas Vaclovą, Vokietijos elektorius ir Karolį VI prašyti pagalbos prieš Vytautą.'
+  sudarymo_pagrindimas: 'Teiginys yra išsamus, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_object: [[objektai/zodynas/elektorius|elektorius]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Dubysa; mentioned_place: Europa; mentioned_place: Nemunas; mentioned_place: Prancūzija; mentioned_place: Vokietija; mentioned_place: Čekija'
   pagrindžia:
     - c-001
 
@@ -45,12 +54,23 @@ Tuo tarpu ordino vadovybę paėmęs komtūras Henrikas von Plauenas suskubo suri
 - t-003
   global_id: t-176405
   teiginys: 'Henrikas von Plauenas citatoje įvardijamas kaip Švitco komtūras.'
+  sudarymo_pagrindimas: 'Citata pateikia neaiškų alternatyvų sąrašą, todėl būtina šaltinio vartosenos atribucija.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/vaitas|vaitas]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Bartenšteinas; mentioned_place: Braunsbergas; mentioned_place: Brodnica; mentioned_place: Dancigas; mentioned_place: Elbingas; mentioned_place: Heilsbergas; mentioned_place: Kulmas; mentioned_place: Livonija; mentioned_place: Neumarkas; mentioned_place: Ortelsburgas; mentioned_place: Ragainė; mentioned_place: Štetinas; mentioned_place: Šveicarija'
+  temporaliniai_duomenys: 'įvykio data: 1431 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pateikia neaiškų alternatyvų sąrašą, todėl būtina šaltinio vartosenos atribucija.'
   pagrindžia:
-    - c-005
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-
+    - c-003
+- susijęs iš [[objektai/asmenys/Henrikas von Plauen.md#claim-t-30262|Henrikas von Plauen]]: Schwetzo komtūras Henrikas von Plauenas Marienburge surinko apie 5000 vyrų įgulą.
+- susijęs iš [[objektai/asmenys/Karolis VI.md#claim-t-184283|Karolis VI]]: Ordino magistras Henrikas von Plauenas prašė Prancūzijos karaliaus Karolio VI pagalbos prieš Vytautą.
+- susijęs iš [[objektai/asmenys/Karolis VI.md#claim-t-35184|Karolis VI]]: Ordino magistras Henrikas von Plauenas prašė Prancūzijos karaliaus Karolio VI pagalbos prieš Vytautą.
+- susijęs iš [[objektai/asmenys/Vaclovas Čekietis.md#claim-t-184288|Vaclovas Čekietis]]: Ordino magistras Henrikas von Plauenas po Makro raporto vyko pas Čekijos karalių Vaclovą prašyti pagalbos prieš Vytautą.
+- susijęs iš [[objektai/asmenys/Vaclovas Čekietis.md#claim-t-35305|Vaclovas Čekietis]]: Vaclovas Čekietis buvo Čekijos karalius ir Zigmanto brolis, pas kurį Henrikas von Plauenas vyko prašyti pagalbos prieš Vytautą.
+- susijęs iš Tornas: Po 1411 m. Torno sutarties santykiai nepagerėjo, nors joje buvo susitarta dėl laisvos savitarpio prekybos.
+- susijęs iš Tornas: Po 1411 m. Torno sutarties santykiai nepagerėjo, nors sutartyje buvo susitarta dėl laisvos savitarpio prekybos.
+- susijęs iš Torno: Po 1411 m. Torno sutarties Vytauto ir Ordino santykiai nepagerėjo, nors sutartyje susitarta dėl laisvos savitarpio prekybos.
 ## Reikšmingi paminėjimai
+
 - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -67,6 +87,7 @@ Tuo tarpu ordino vadovybę paėmęs komtūras Henrikas von Plauenas suskubo suri
   pagrindžia:
     - t-002
     - t-001
+
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -86,24 +107,8 @@ Tuo tarpu ordino vadovybę paėmęs komtūras Henrikas von Plauenas suskubo suri
   pagrindžia:
     - t-001
     - t-001
-- c-004
-  santrauka: 'Po Makro raporto Henrikas von Plauenas vyko pas Vaclovą, Vokietijos elektorius ir Karolį VI prašyti pagalbos prieš Vytautą.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Todėl Makras,
-    įteikdamas jį imperatoriui Zigmantui, pažymėjo, kad Ordinas
-    nori su Lietuva karo.
 
-    Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po
-    Makro raporto išvyko pas Čekijos karalių Vaclovą (Zigmanto
-    brolį), Vokietijos elektorius ir Prancūzijos karalių Karolį VI
-    prašyti pagalbos prieš Vytautą. Vak.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-- c-005
+- c-003
   santrauka: 'Henrikas von Plauenas citatoje įvardijamas kaip Švitco komtūras.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -126,23 +131,26 @@ Tuo tarpu ordino vadovybę paėmęs komtūras Henrikas von Plauenas suskubo suri
     senosios komturijos ir pilies, 50) Gnievkovos komturijos, pilies ir miesto,
     51) Heiligenbeilio miesto, 52) Braunšveigo kunigaikščio, 53—56) Livonijos
     magistro (paimtos 1431 m.).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-003
 
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Slavai]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/elektorius]]
-- [[objektai/zodynas/komtūras]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/unija]]
-- [[objektai/zodynas/vaitas]]
-- [[objektai/asmenys/Vaclovas Čekietis]]
+- c-004
+  santrauka: 'Po Makro raporto Henrikas von Plauenas vyko pas Vaclovą, Vokietijos elektorius ir Karolį VI prašyti pagalbos prieš Vytautą.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Todėl Makras,
+    įteikdamas jį imperatoriui Zigmantui, pažymėjo, kad Ordinas
+    nori su Lietuva karo.
+
+    Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po
+    Makro raporto išvyko pas Čekijos karalių Vaclovą (Zigmanto
+    brolį), Vokietijos elektorius ir Prancūzijos karalių Karolį VI
+    prašyti pagalbos prieš Vytautą. Vak.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-004

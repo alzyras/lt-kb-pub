@@ -20,6 +20,7 @@ Tuo keliu nuėjo ne tik Dauguvos pilys, kaip Gercike, Kukenois, bet ir pats Polo
 - t-001
   global_id: t-32176
   teiginys: 'Gercikė buvo viena iš Dauguvos pilių, patekusių į lietuvių įtakos sferą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Dauguva; mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-001
 

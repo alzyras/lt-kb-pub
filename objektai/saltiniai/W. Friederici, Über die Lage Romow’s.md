@@ -20,6 +20,8 @@ Dusburgietis teigia, kad intako Auksinės žemupio vietovardžius Kreiwutschen i
 - t-001
   global_id: t-61361
   teiginys: 'W. Friederici darbe minimas bandymas sieti Auksinės žemupio vietovardžius Kreiwutschen ir Romanuppen su Kriviu ir Romove arba Romuva.'
+  sudarymo_pagrindimas: 'Pirminis teiginys buvo negramatiškas, bet citata palaiko aiškų teiginį apie šaltinyje minimą interpretaciją.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Krivis|Krivis]]; mentioned_place: Auksinė; mentioned_place: Prieglius; mentioned_place: Romuva'
   pagrindžia:
     - c-001
 

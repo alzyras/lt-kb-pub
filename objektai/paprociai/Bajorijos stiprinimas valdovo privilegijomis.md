@@ -53,6 +53,10 @@ Nenurodyta
 - t-001
   global_id: t-28917
   teiginys: 'Bajorija valdovo privilegijomis 1387, 1413, 1434 ir 1447 m. buvo palaikoma ir stiprinama kaip atskiras galingas visuomenės sluoksnis.'
+  sudarymo_pagrindimas: 'Reikia pašalinti OCR triukšmą ir suformuluoti glaustesnį sakinį.'
+  temporaliniai_duomenys: 'įvykio data: 1447 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia pašalinti OCR triukšmą ir suformuluoti glaustesnį sakinį.'
   pagrindžia:
     - c-001
 
@@ -60,6 +64,14 @@ Nenurodyta
 - t-002
   global_id: t-184345
   teiginys: 'Valdovo privilegijos 1387, 1413, 1434 ir 1447 m. palaikė bajoriją kaip atskirą ir stiprėjantį visuomenės sluoksnį.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata palaiko teiginį, bet jame buvo OCR triukšmo ir perteklinė konstrukcija.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]'
+  temporaliniai_duomenys: 'įvykio data: 1447 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko teiginį, bet jame buvo OCR triukšmo ir perteklinė konstrukcija.'
   pagrindžia:
     - c-002
 
@@ -102,9 +114,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Rusai]]
-- [[objektai/zodynas/baudžiavinė epocha]]
-- [[objektai/zodynas/luominė diferenciacija]]

@@ -30,6 +30,8 @@ Dusburgietis teigia, kad šitai padaryta apie 1226 (1230) viešpaties metus173, 
 - t-001
   global_id: t-60390
   teiginys: 'Kujavijos vyskupas Mykolas buvo tarp liudytojų, dalyvavusių tvirtinant Kulmo ir Lubavos žemių dovanojimą Ordinui.'
+  sudarymo_pagrindimas: 'Citata nurodo Mykolą kaip vieną dovanojimo rašto liudytojų.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Agota|Agota]]; mentioned_person: [[objektai/asmenys/Grigalius (vicekancleris)|Grigalius (vicekancleris)]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_place: Kujavija; mentioned_place: Kulmas; mentioned_place: Lubava; mentioned_place: Mazovija; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
 
@@ -57,18 +59,3 @@ Dusburgietis teigia, kad šitai padaryta apie 1226 (1230) viešpaties metus173, 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Agota|Agota (kunigaikščio žmona, XIII a.)]]
-- [[objektai/asmenys/Grigalius (vicekancleris)]]
-- [[objektai/grupes/Teutonai]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Mykolas]]
-- [[objektai/asmenys/Boguslavas (jaunesnysis Dirsovijos grafas)]]
-- [[objektai/asmenys/Boguslavas (vyresnysis Dirsovijos grafas)]]
-- [[objektai/asmenys/Gernuldas]]
-- [[objektai/asmenys/Giunteris (Mazovijos vyskupas)]]
-- [[objektai/asmenys/Jonas (kancleris)]]
-- [[objektai/ivykiai/Kulmo ir Lubavos žemių dovanojimas Teutonų namų ordino broliams]]
-- [[objektai/asmenys/Vilhelmas (dekanas)]]

@@ -5,8 +5,9 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1072 m.'
+  - '1076 m.'
 date_start: '1072'
-date_end: ''
+date_end: '1076'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -28,9 +29,15 @@ O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. sa
 - t-001
   global_id: t-30554
   teiginys: 'Adomas Bremenietis 1072-1076 m. veikalo „Gesta Hammaburgensis ecclesiae pontificum“ ketvirtoje knygoje pateikė žinių apie prūsus.'
+  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje pateiktą informaciją apie autorių ir veikalą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_object: [[objektai/posakiai/homines humanissimi|homines humanissimi]]; mentioned_person: [[objektai/asmenys/Adalbertas|Adalbertas]]; mentioned_person: [[objektai/asmenys/Adomas (auksakalys)|Adomas (auksakalys)]]; mentioned_place: Baltija; mentioned_place: Europa; mentioned_place: Prūsai; mentioned_place: Skandinavija'
+  temporaliniai_duomenys: 'įvykio data: 1072-1076; įvykio data: 1076 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia citatoje pateiktą informaciją apie autorių ir veikalą.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/posakiai/homines humanissimi.md#claim-t-31557|homines humanissimi]]: Adomas Bremenietis sembus arba prūsus vadino „homines humanissimi“ ir teigė, kad jie gelbėja pavojuje atsidūrusius jūroje.
+- susijęs iš [[objektai/posakiai/moterų kraštas.md#claim-t-28744|moterų kraštas (kraštas)]]: Adomas Bremenietis minėjo moterų „karalystę“, nors rytinių baltų vardų apskritai nepaminėjo.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -51,9 +58,3 @@ O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. sa
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Adynos|adynos]]
-- [[objektai/posakiai/homines humanissimi]]
-- [[objektai/posakiai/moterų kraštas|moterų kraštas (kraštas)]]

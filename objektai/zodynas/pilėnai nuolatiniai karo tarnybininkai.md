@@ -22,6 +22,8 @@ Gedimino laikais Lietuvoje buvo išplėtotas mūrinių pilių tinklas, susiforma
 - t-001
   global_id: t-42497
   teiginys: 'Gedimino laikais Lietuvoje buvo išplėtotas mūrinių pilių tinklas, susiformavo nuolatinių karo tarnybininkų sluoksnis - pilėnai, raiteliai, gerieji žmonės - kariai, galintys bet kada stoti į tarnybą.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie pilėnus ir kitus nuolatinius karo tarnybininkus, paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Mongolai|Mongolai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -45,11 +47,3 @@ Gedimino laikais Lietuvoje buvo išplėtotas mūrinių pilių tinklas, susiforma
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Gediminas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Mongolai]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/paprociai/Lietuvių kariavimo būdas ir pilių įgulos]]

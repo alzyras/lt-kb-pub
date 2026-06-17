@@ -26,6 +26,11 @@ Dusburgietis teigia, kad wczesnośredniowieczne Chełmno w świetle źródeł ar
 - t-001
   global_id: t-61098
   teiginys: 'A. Kolos straipsnis apie ankstyvųjų viduramžių Chełmno pirminę lokalizaciją paskelbtas 1977 m. Torunės mokslo draugijos leidinio 29 numeryje.'
+  sudarymo_pagrindimas: 'Citata yra bibliografinis įrašas, iš kurio galima sudaryti tvarkingą faktinį sakinį.'
+  susije_objektai: 'mentioned_place: Torunė'
+  temporaliniai_duomenys: 'įvykio data: 1977 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata yra bibliografinis įrašas, iš kurio galima sudaryti tvarkingą faktinį sakinį.'
   pagrindžia:
     - c-001
 

@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Gegužės 13 d. rinktinės pajėgos susitelkė Krekenavos ir Ramygalos rajonuose. Pagal nurodytą tvarką dalinys 2 val. turėjo būti Ramygaloje, o 4 val. vykti į šiaurę vieškeliu Ramygala-Panevėžys.
+Rinktinės pajėgos gegužės 13 d. susitelkė Krekenavos-Ramygalos rajonuose. - Ramygaloje, 4 val. Po pietų išžygiavome Ramygalos kryptimi.
 
 ## Teiginiai
 
@@ -21,6 +21,8 @@ Gegužės 13 d. rinktinės pajėgos susitelkė Krekenavos ir Ramygalos rajonuose
 - t-001
   global_id: t-42087
   teiginys: 'Gegužės 13 d. rinktinės pajėgos susitelkė Krekenavos ir Ramygalos rajonuose.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir tiksliai perteikia citatos faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Krekenava'
   pagrindžia:
     - c-001
 
@@ -28,9 +30,10 @@ Gegužės 13 d. rinktinės pajėgos susitelkė Krekenavos ir Ramygalos rajonuose
 - t-002
   global_id: t-42088
   teiginys: 'Pagal nurodytą tvarką dalinys 2 val. turėjo būti Ramygaloje, o 4 val. vykti į šiaurę vieškeliu Ramygala-Panevėžys.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]'
   pagrindžia:
     - c-002
-
+- susijęs iš Krekenava: Gegužės 13 d. Panevėžio rinktinės pajėgos susitelkė Krekenavos ir Ramygalos rajonuose.
 ## Reikšmingi paminėjimai
 
 - c-001

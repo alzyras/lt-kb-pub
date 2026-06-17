@@ -42,6 +42,7 @@ Nenurodyta
 - t-001
   global_id: t-08280
   teiginys: 'Moterų audimo įrankiai buvo jų vyrų dirbti, o šiame sąraše minimos staklės, skietai, mastuvai, lankčiai ir vytuvai.'
+  teiginio_tipas: 'faktas'
   pagrindžia:
     - c-001
 

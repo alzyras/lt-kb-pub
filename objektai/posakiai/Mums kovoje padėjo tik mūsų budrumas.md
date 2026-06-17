@@ -19,7 +19,7 @@ amziai:
 
 ## Santrauka
 
-Kovoje padėjo budrumas ir geras miško pažinimas, iki kiekvieno kelmo ir krūmelio.
+Ši frazė yra partizanų ištarta savos sėkmės ir išlikimo formulė, susieta su budrumu ir miško pažinimu.
 
 ## Forma
 

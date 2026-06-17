@@ -40,6 +40,7 @@ Nenurodyta
 - t-001
   global_id: t-40760
   teiginys: 'Sausio 13-osios dienos brolijos ženklelio dailininkas buvo Domantas Vildžiūnas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/autoriai/Karolis Zikaras|Karolis Zikaras]]'
   pagrindžia:
     - c-001
 
@@ -55,9 +56,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/Karolis Zikaras]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Sausio 13-osios dienos brolija]]

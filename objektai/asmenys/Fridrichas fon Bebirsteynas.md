@@ -14,6 +14,7 @@ tags:
   - didikas
   - kunigaikštis
   - miestas
+  - sutartis
 amziai:
   - 'XV'
 periodo_grupes:
@@ -23,7 +24,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Didysis kunigaikštis Švitrigaila pranešė priėmęs Fridrichą fon Bebirsteyną į savo dvariškių būrį kaip patikėtinį.
+Prekybos sutartis su Pskovu, kaip ir prieš metus sudarytoji su Naugardu, buvo patvirtinta Vilniuje ir, ano gą poną Fridrichą fon Bebirsteyną, priėmiau į savo dvariškių būrį ir kaip malonų patikėtinį", bei prašo, kad panašią paslaugą padarytų to paties svečio.
 
 ## Teiginiai
 
@@ -31,6 +32,12 @@ Didysis kunigaikštis Švitrigaila pranešė priėmęs Fridrichą fon Bebirsteyn
 - t-001
   global_id: t-87675
   teiginys: 'Didysis kunigaikštis Švitrigaila pranešė priėmęs Fridrichą fon Bebirsteyną į savo dvariškių būrį kaip patikėtinį.'
+  sudarymo_pagrindimas: 'Reikia aiškiai įvardyti didįjį kunigaikštį ir pašalinti puslapio triukšmo kontekstą.'
+  susije_objektai: 'territory: Lenkija; territory: Lietuva; territory: Livonija; territory: Prūsija; territory: Rusija; territory: Silezija; territory: Vilnius; territory: Vokietija; territory: Vroclavas; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Rusija; mentioned_place: Silezija; mentioned_place: Vilnius; mentioned_place: Vokietija; mentioned_place: Vroclavas'
+  semantiniai_rysiai: '[[objektai/asmenys/Fridrichas fon Bebirsteynas|Fridrichas fon Bebirsteynas]] buvo valdovas Lenkija; [[objektai/asmenys/Fridrichas fon Bebirsteynas|Fridrichas fon Bebirsteynas]] buvo valdovas Lietuva; [[objektai/asmenys/Fridrichas fon Bebirsteynas|Fridrichas fon Bebirsteynas]] buvo valdovas Livonija; [[objektai/asmenys/Fridrichas fon Bebirsteynas|Fridrichas fon Bebirsteynas]] buvo valdovas Prūsija; [[objektai/asmenys/Fridrichas fon Bebirsteynas|Fridrichas fon Bebirsteynas]] buvo valdovas Rusija; [[objektai/asmenys/Fridrichas fon Bebirsteynas|Fridrichas fon Bebirsteynas]] buvo valdovas Silezija; [[objektai/asmenys/Fridrichas fon Bebirsteynas|Fridrichas fon Bebirsteynas]] buvo valdovas Vilnius; [[objektai/asmenys/Fridrichas fon Bebirsteynas|Fridrichas fon Bebirsteynas]] buvo valdovas Vokietija; [[objektai/asmenys/Fridrichas fon Bebirsteynas|Fridrichas fon Bebirsteynas]] buvo valdovas Vroclavas'
+  temporaliniai_duomenys: 'valdymo laikotarpis: 1432 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Fridrichas fon Bebirsteynas buvo valdovas Lenkija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Fridrichas fon Bebirsteynas buvo valdovas Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Fridrichas fon Bebirsteynas buvo valdovas Livonija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Fridrichas fon Bebirsteynas buvo valdovas Prūsija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Fridrichas fon Bebirsteynas buvo valdovas Rusija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Fridrichas fon Bebirsteynas buvo valdovas Silezija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Fridrichas fon Bebirsteynas buvo valdovas Vilnius“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Fridrichas fon Bebirsteynas buvo valdovas Vokietija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Fridrichas fon Bebirsteynas buvo valdovas Vroclavas“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia aiškiai įvardyti didįjį kunigaikštį ir pašalinti puslapio triukšmo kontekstą.'
   pagrindžia:
     - c-001
 
@@ -72,6 +79,12 @@ Didysis kunigaikštis Švitrigaila pranešė priėmęs Fridrichą fon Bebirsteyn
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/didysis kunigaikštis]]
-- [[objektai/asmenys/Švitrigaila]]
+- Fridrichas fon Bebirsteynas buvo_valdovas [[objektai/vietos/Lenkija]]
+- Fridrichas fon Bebirsteynas buvo_valdovas [[objektai/vietos/Lietuva]]
+- Fridrichas fon Bebirsteynas buvo_valdovas [[objektai/vietos/Livonija]]
+- Fridrichas fon Bebirsteynas buvo_valdovas [[objektai/vietos/Prūsija]]
+- Fridrichas fon Bebirsteynas buvo_valdovas [[objektai/vietos/Rusija]]
+- Fridrichas fon Bebirsteynas buvo_valdovas [[objektai/vietos/Silezija]]
+- Fridrichas fon Bebirsteynas buvo_valdovas [[objektai/vietos/Vilnius]]
+- Fridrichas fon Bebirsteynas buvo_valdovas [[objektai/vietos/Vokietija]]
+- Fridrichas fon Bebirsteynas buvo_valdovas [[objektai/vietos/Vroclavas]]

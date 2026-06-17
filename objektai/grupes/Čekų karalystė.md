@@ -10,21 +10,26 @@ atnaujinta: ''
 
 ## Santrauka
 
-Čekų karalystė teikė didžią garbę kronikoje šlovingu vadinamam valdovui.
+Lietuvos metraštis Čekų karalystę vaizduoja teikusią didžią garbę šlovingajam valdovui.
 
 ## Teiginiai
 
 <a id="claim-t-187785"></a>
 - t-001
   global_id: t-187785
-  teiginys: 'Čekų karalystė teikė didžią garbę kronikoje šlovingu vadinamam valdovui.'
+  teiginys: 'Lietuvos metraštis Čekų karalystę vaizduoja teikusią didžią garbę šlovingajam valdovui.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Reikia inline priskyrimo vertinamajam valdovo apibūdinimui.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Konstantinopolis; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Čekų karalystė teikė didžią garbę kronikoje šlovingu vadinamam valdovui.'
+  santrauka: 'Lietuvos metraštis Čekų karalystę vaizduoja teikusią didžią garbę šlovingajam valdovui.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     Net ir
@@ -38,7 +43,3 @@ atnaujinta: ''
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Čekai]]

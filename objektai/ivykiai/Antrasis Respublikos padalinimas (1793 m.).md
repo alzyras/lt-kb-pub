@@ -11,20 +11,20 @@ date_start: '1793'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XVIII'
-  - 'XXI'
 tags:
   - ivykis
   - karalius
   - seimas
   - sutartis
+amziai:
+  - 'XVIII'
+  - 'XXI'
 ---
 # Antrasis Respublikos padalinimas (1793 m.)
 
 ## Santrauka
 
-1793 m. sausio 23 d. Prūsija su Rusija pasirašė susitarimą dėl II Respublikos padalijimo, po kurio ATR neteko apie 300 tūkst. kv. km teritorijos. Po 1793 m. okupacijų Rusijai ir Prūsijai reikėjo gauti karaliaus bei seimo padalinimo patvirtinimą ir sudaryti naują taikos sutartį.
+Tuo būdu prieš pirmąjį Respublikos padalinimą buvusi perskirta Prūsų Brandenburgo valstybė dabar turėjo būti ne tik galutinai sujungta į vieną plotą, bet net išlygintos ir labai praplėstos jos sienos. Tuomet, kaip ir 1772 m., iš karaliaus ir seimo tereikėjo gauti tik padalinimo patvirtinimą; su apkarpyta Respublika reikėjo padaryti naują taikos sutartį.
 
 ## Laikotarpis ir datos
 
@@ -43,15 +43,21 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 <a id="claim-t-66451"></a>
 - t-001
   global_id: t-66451
   teiginys: '1793 m. sausio 23 d. Prūsija su Rusija pasirašė susitarimą dėl II Respublikos padalijimo, po kurio ATR neteko apie 300 tūkst. kv. km teritorijos.'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo nutrūkęs; citata pagrindžia užbaigtą sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/zodynas/konfederacija|konfederacija]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Prūsija; mentioned_place: Rusija; mentioned_place: Targovica'
+  temporaliniai_duomenys: 'įvykio data: 1793 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys buvo nutrūkęs; citata pagrindžia užbaigtą sakinį.'
   pagrindžia:
     - c-001
 
-
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: '1793 m. sausio 23 d. Prūsija su Rusija pasirašė susitarimą dėl II Respublikos padalijimo, po kurio ATR neteko apie 300 tūkst. kv. km teritorijos.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -71,10 +77,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/zodynas/konfederacija]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

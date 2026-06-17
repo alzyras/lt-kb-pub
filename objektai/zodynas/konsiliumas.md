@@ -10,31 +10,32 @@ date_start: '1936'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - sąvoka
 amziai:
   - 'XX'
   - 'XXI'
-tags:
-  - sąvoka
 ---
 # konsiliumas
 
 ## Santrauka
 
-Švitrigailos ir Zigmanto kovos metu Bazelyje vyko visuotinis Bažnyčios suvažiavimas, vadintas konsiliumu.
+Švitrigailos ir Zigmanto kovos metu Bazely (Šveicarijoj) vyko visuotinis Bažnyčios suvažiavimas, arba konsiliumas.
 
 ## Teiginiai
+
 <a id="claim-t-70190"></a>
 - t-001
   global_id: t-70190
   teiginys: 'Švitrigailos ir Zigmanto kovos metu Bazelyje vyko visuotinis Bažnyčios suvažiavimas, vadintas konsiliumu.'
+  sudarymo_pagrindimas: 'Pradiniame teiginyje susimaišė antraštė ir sakinys, todėl jis pataisytas į vientisą faktą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Konstanca'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Švitrigailos ir Zigmanto kovos metu Bazelyje vyko visuotinis Bažnyčios suvažiavimas, vadintas konsiliumu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **3. Bažnyčios suvažiavimas Bazely ir bažnytinės unijos**
@@ -43,16 +44,8 @@ tags:
     vyko visuotinis Bažnyčios suvažiavimas, arba konsiliumas. Ja-
     me, tarp kitko, buvo iškeltas ir bažnytinės unijos klausimas, ku-
     ris jau buvo spręstas Konstancos suvažiavime.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
-- [[objektai/zodynas/unija]]
-- [[objektai/asmenys/Švitrigaila]]

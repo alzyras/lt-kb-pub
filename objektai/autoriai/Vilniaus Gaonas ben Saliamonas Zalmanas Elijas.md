@@ -35,6 +35,7 @@ Vilniaus Gaonas ben Saliamonas Zalmanas Elijas pristatomas kaip viena iškiliaus
 - t-001
   global_id: t-75429
   teiginys: 'Tai kartu paaiškina ir Vilniaus Gaono autoritetą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/Jidiš|Jidiš]]; mentioned_object: [[objektai/zodynas/ješiva|ješiva]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-005
 
@@ -42,6 +43,7 @@ Vilniaus Gaonas ben Saliamonas Zalmanas Elijas pristatomas kaip viena iškiliaus
 - t-002
   global_id: t-75430
   teiginys: 'Didžiausiu Vilniaus Gaono nuopelnu laikytas Babilono Talmudo redagavimas ir komentavimas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -49,6 +51,9 @@ Vilniaus Gaonas ben Saliamonas Zalmanas Elijas pristatomas kaip viena iškiliaus
 - t-003
   global_id: t-75431
   teiginys: 'Vilnių išgarsino Vilniaus Gaonas ben Saliamonas Zalmanas Elijas, gyvenęs 1720–1797 m. ir laikomas viena iškiliausių pasaulio žydų istorijos asmenybių.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/akcijos|akcijos]]; mentioned_place: Viena; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1720-1797; įvykio data: 1797 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-004
 
@@ -56,6 +61,8 @@ Vilniaus Gaonas ben Saliamonas Zalmanas Elijas pristatomas kaip viena iškiliaus
 - t-005
   global_id: t-75433
   teiginys: 'Vilniaus Gaonas savo autoritetu ir pastangomis sustabdė chasidizmo plitimą Lietuvoje.'
+  sudarymo_pagrindimas: 'Sakinys yra pilnas, gramatiškas ir tiksliai remiasi citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Chasidai|Chasidai]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -63,6 +70,8 @@ Vilniaus Gaonas ben Saliamonas Zalmanas Elijas pristatomas kaip viena iškiliaus
 - t-007
   global_id: t-75435
   teiginys: 'Vilniaus Gaonas inicijavo akcijas prieš chasidizmą, paskelbė chasidus eretikais ir sustabdė chasidizmo plitimą Lietuvoje.'
+  sudarymo_pagrindimas: 'Sakinys aiškiai nusako Vilniaus Gaono veiksmus ir yra paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Chasidai|Chasidai]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -70,6 +79,8 @@ Vilniaus Gaonas ben Saliamonas Zalmanas Elijas pristatomas kaip viena iškiliaus
 - t-008
   global_id: t-75436
   teiginys: 'Vilniaus Gaono siūlymu buvo pertvarkytas žydų teologijos dėstymas ješivose (religinėse mokslo įstaigose) ir jose patobulintos Talmudo studijos jidiš kalba.'
+  sudarymo_pagrindimas: 'Sakinys aiškiai nusako Vilniaus Gaono siūlymo rezultatą ir remiasi citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/Jidiš|Jidiš]]; mentioned_object: [[objektai/zodynas/ješiva|ješiva]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-005
 
@@ -77,9 +88,55 @@ Vilniaus Gaonas ben Saliamonas Zalmanas Elijas pristatomas kaip viena iškiliaus
 - t-009
   global_id: t-75437
   teiginys: 'Vilniaus Gaonas ben Saliamonas Zalmanas Elijas gyveno 1720–1797 m. ir laikomas viena iškiliausių pasaulio žydų istorijos asmenybių.'
+  sudarymo_pagrindimas: 'Sakinys aiškiai apibūdina asmenį ir jo reikšmę pagal citatą.'
+  susije_objektai: 'location: Lietuva; location: Viena; location: Vilnius; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/akcijos|akcijos]]; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas|Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]] gyveno Lietuva; [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas|Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]] gyveno Viena; [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas|Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]] gyveno Vilnius'
+  temporaliniai_duomenys: 'gyvenimo laikotarpis: 1720-1797; gyvenimo laikotarpis: 1797 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Vilniaus Gaonas ben Saliamonas Zalmanas Elijas gyveno Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Vilniaus Gaonas ben Saliamonas Zalmanas Elijas gyveno Viena“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Vilniaus Gaonas ben Saliamonas Zalmanas Elijas gyveno Vilnius“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Sakinys aiškiai apibūdina asmenį ir jo reikšmę pagal citatą.'
   pagrindžia:
     - c-003
-
+- susijęs iš [[objektai/asmenys/Adomas Mickevičius.md#claim-t-45928|Adomas Mickevičius (poetas)]]: Adomas Mickevičius buvo vienas didžiųjų Vilniaus romantizmo mokyklos atstovų.
+- susijęs iš [[objektai/asmenys/Julius Slovackis.md#claim-t-19011|Julius Slovackis]]: Julius Slovackis buvo vienas didžiųjų Vilniaus romantizmo mokyklos atstovų.
+- susijęs iš [[objektai/daiktai/Herbai.md#claim-t-92962|Herbai]]: Herbyne „Stemmata Polonica“ užfiksuotas XVI a. vidurio LDK herbas Vytis.
+- susijęs iš [[objektai/daiktai/Herbai.md#claim-t-92964|Herbai]]: LDK herbas Vytis XVI a. viduryje buvo pavaizduotas herbyno „Stemmata Polonica“ egzemplioriuje, saugomame Paryžiuje.
+- susijęs iš [[objektai/grupes/Abiejų Tautų Respublika.md#claim-t-80773|Abiejų Tautų Respublika]]: Abiejų Tautų Respublika buvo sunaikinta trimis XVIII a. pabaigos padalijimais, kuriuose dalyvavo Rusija, Austrija ir Prūsija.
+- susijęs iš [[objektai/grupes/Abiejų Tautų Respublika.md#claim-t-80782|Abiejų Tautų Respublika]]: Abiejų Tautų Respublika per Gdanską aprūpino Vakarus javais ir sukūrė religinės tolerancijos bei bajoriškosios demokratijos tradiciją.
+- susijęs iš [[objektai/grupes/Chasidai.md#claim-t-169573|Chasidai]]: Chasidai siūlė reformuoti ortodoksinį rabinizmą, sureikšminti individą ir nuoširdų tikėjimą bei sušvelninti buitį normuojančius įstatymus.
+- susijęs iš [[objektai/grupes/Chasidai.md#claim-t-169575|Chasidai]]: Vilniaus Gaonas paskelbė chasidus eretikais ir savo autoritetu sustabdė chasidizmo plitimą Lietuvoje.
+- susijęs iš [[objektai/grupes/Chasidai.md#claim-t-169576|Chasidai]]: Vilniaus Gaonas paskelbė chasidus eretikais ir savo autoritetu sustabdė chasidizmo plitimą Lietuvoje.
+- susijęs iš [[objektai/grupes/LGGRTC Genocido aukų muziejus.md#claim-t-77827|LGGRTC Genocido aukų muziejus]]: Leidinyje panaudotos nuotraukos iš LGGRTC Genocido aukų muziejaus fondų.
+- susijęs iš [[objektai/grupes/Litvakai.md#claim-t-183170|Litvakai]]: Vilniaus Gaono autoritetui priskiriama įtaka litvakų reputacijai kaip griežtos religinės tradicijos ir pagarbaus požiūrio į mokslą žydų.
+- susijęs iš [[objektai/grupes/Litvakai.md#claim-t-45104|Litvakai]]: Vilniaus Gaono autoritetas galėjo lemti, kad litvakai imti laikyti iškiliais žydais, išsiskyrusiais religine tradicija, racionalumu ir pagarba išsimokslinimui.
+- susijęs iš [[objektai/grupes/Vilniaus baroko architektūros mokykla.md#claim-t-20068|Vilniaus baroko architektūros mokykla]]: Abiejų Tautų Respublika išpuoselėjo europiniu mastu reikšmingą Vilniaus baroko architektūros mokyklą.
+- susijęs iš [[objektai/grupes/Vilniaus romantizmo mokykla.md#claim-t-75020|Vilniaus romantizmo mokykla]]: Vilniaus romantizmo mokyklos didieji atstovai buvo Adomas Mickevičius ir Julius Slovackis.
+- susijęs iš [[objektai/grupes/Vilniaus romantizmo mokykla.md#claim-t-75021|Vilniaus romantizmo mokykla]]: Vilniaus romantizmo mokyklos didieji atstovai buvo Adomas Mickevičius ir Julius Slovackis.
+- susijęs iš [[objektai/grupes/Žydai.md#claim-t-117389|Žydai]]: Vilniaus Gaono autoritetas prisidėjo prie litvakų įvaizdžio kaip religinei tradicijai, racionalumui ir išsimokslinimui atsidavusių žydų.
+- susijęs iš [[objektai/grupes/Žydai.md#claim-t-183206|Žydai]]: Vilniaus Gaono autoritetas prisidėjo prie litvakų įvaizdžio kaip religinei tradicijai, racionalumui ir išsimokslinimui atsidavusių žydų.
+- susijęs iš [[objektai/ivykiai/Abiejų Tautų Respublikos padalijimai ir sunaikinimas (XVIII a. pabaiga-1795 m.).md#claim-t-75089|Abiejų Tautų Respublikos padalijimai ir sunaikinimas (XVIII a. pabaiga-1795 m.)]]: Abiejų Tautų Respublika buvo sunaikinta trimis XVIII a. pabaigos padalijimais, kuriuose dalyvavo Rusija, Austrija ir Prūsija.
+- susijęs iš [[objektai/paprociai/Abiejų Tautų Respublikos religinės tolerancijos, bajoriškosios demokratijos ir teisinės tradicijos.md#claim-t-54209|Abiejų Tautų Respublikos religinės tolerancijos, bajoriškosios demokratijos ir teisinės tradicijos]]: Abiejų Tautų Respublika sukūrė religinės tolerancijos, bajoriškosios demokratijos ir teisinę tradiciją, davusią Lietuvos Statutus ir 1791 m. konstituciją.
+- susijęs iš [[objektai/paprociai/Litvakų rabininės tradicijos gynimas, Talmudo studijos ir savita gyvensena.md#claim-t-183324|Litvakų rabininės tradicijos gynimas, Talmudo studijos ir savita gyvensena]]: Vilniaus Gaono siūlymu buvo pertvarkytas žydų teologijos dėstymas ješivose (religinėse mokslo įstaigose) ir jose patobulintos Talmudo studijos jidiš kalba.
+- susijęs iš [[objektai/paprociai/Litvakų rabininės tradicijos gynimas, Talmudo studijos ir savita gyvensena.md#claim-t-54306|Litvakų rabininės tradicijos gynimas, Talmudo studijos ir savita gyvensena]]: Vilniaus Gaonas gynė rabininę tradiciją, inicijavo akcijas prieš chasidizmą ir sustabdė jo plitimą Lietuvoje.
+- susijęs iš [[objektai/paprociai/Litvakų rabininės tradicijos gynimas, Talmudo studijos ir savita gyvensena.md#claim-t-54307|Litvakų rabininės tradicijos gynimas, Talmudo studijos ir savita gyvensena]]: Vilniaus Gaono siūlymu buvo pertvarkytas žydų teologijos dėstymas ješivose (religinėse mokslo įstaigose) ir jose patobulintos Talmudo studijos jidiš kalba.
+- susijęs iš [[objektai/paprociai/Litvakų rabininės tradicijos gynimas, Talmudo studijos ir savita gyvensena.md#claim-t-54308|Litvakų rabininės tradicijos gynimas, Talmudo studijos ir savita gyvensena]]: Vilniaus Gaonas gynė rabininę tradiciją, inicijavo akcijas prieš chasidizmą ir sustabdė jo plitimą Lietuvoje.
+- susijęs iš [[objektai/posakiai/„duona, tolerancija, demokratija, konstitucija, barokas“.md#claim-t-20890|„duona, tolerancija, demokratija, konstitucija, barokas“]]: Abiejų Tautų Respublikos XVII–XVIII a. įnašas į Europos ir pasaulio civilizaciją apibendrintas formule „duona, tolerancija, demokratija, konstitucija, barokas“.
+- susijęs iš 1918–1940 m. Lietuvos žemėlapis: „1918–1940 m. Lietuvos žemėlapis“ nurodytas tarp Mokslo ir enciklopedijų leidybos centro fondų medžiagos.
+- susijęs iš Abiejų Tautų tarpusavio įžadas: Turinyje „Gegužės trečiosios konstitucija ir Abiejų Tautų tarpusavio įžadas“ nurodytas 91 puslapyje.
+- susijęs iš Babilono Talmudas: Vilniaus Gaonas redagavo ir komentavo Babilono Talmudą; tai citatoje įvardijama kaip didžiausias jo nuopelnas.
+- susijęs iš Lietuvos diplomatija nuo 1990 m. kovo 11: Leidinį „Lietuvos diplomatija nuo 1990 m. kovo 11“ 2001 m. Vilniuje išleido Lietuvos užsienio reikalų ministerija.
+- susijęs iš Lietuvos diplomatija nuo 1990 m. kovo 11: Leidinys „Lietuvos diplomatija nuo 1990 m. kovo 11“ išleistas Vilniuje Lietuvos užsienio reikalų ministerijos 2001 m.
+- susijęs iš Stemmata Polonica: XVI a. vidurio herbyne „Stemmata Polonica“, saugomame Paryžiuje, pavaizduotas LDK herbas Vytis.
+- susijęs iš Amsterdamas: Abiejų Tautų Respublika XVII–XVIII a. aprūpino Vakarus javais per Gdanską į Amsterdamą.
+- susijęs iš Amsterdamas: Abiejų Tautų Respublika XVII–XVIII a. aprūpino Vakarus javais per Gdanską į Amsterdamą.
+- susijęs iš Gdanskas: Per Gdanską Abiejų Tautų Respublika XVII–XVIII a. aprūpino Vakarus javais, gabendama juos į Amsterdamą.
+- susijęs iš Gdanskas: Per Gdanską Abiejų Tautų Respublika XVII–XVIII a. aprūpino Vakarus javais, gabendama juos į Amsterdamą.
+- susijęs iš Vilnius: XVI–XVIII a. Vilnius tapo Europos sostine ant dviejų pasaulių ribos, kurioje sugyveno dešimt konfesijų.
+- susijęs iš Vilnius: XVI–XVIII a. Vilnius buvo Europos sostinė, kurioje sugyveno dešimt konfesijų, o žydų pasaulyje jis vadintas Vilniaus Gaono miestu ir Šiaurės Jeruzale.
+- susijęs iš [[objektai/zodynas/bajoriškoji demokratija luominė monarchija.md#claim-t-22069|bajoriškoji demokratija luominė monarchija]]: Abiejų Tautų Respublika sukūrė Vakarams tuomet beveik nežinomą religinės tolerancijos ir bajoriškosios demokratijos tradiciją.
+- susijęs iš [[objektai/zodynas/bajoriškoji demokratija.md#claim-t-25330|bajoriškoji demokratija]]: Abiejų Tautų Respublika aprūpino Vakarus javais ir sukūrė religinės tolerancijos bei bajoriškosios demokratijos tradiciją.
+- susijęs iš [[objektai/zodynas/chasidizmas rabinizmas.md#claim-t-22092|chasidizmas rabinizmas]]: Vilniaus Gaonas inicijavo akcijas prieš chasidizmą ir savo autoritetu sustabdė jo plitimą Lietuvoje.
+- susijęs iš [[objektai/zodynas/ješiva.md#claim-t-23436|ješiva]]: Vilniaus Gaono siūlymu ješivose buvo pertvarkytas žydų teologijos dėstymas ir patobulintos Talmudo studijos jidiš kalba.
+- susijęs iš [[objektai/zodynas/ješiva.md#claim-t-26964|ješiva]]: Vilniaus Gaono siūlymu ješivose buvo pertvarkytas žydų teologijos dėstymas ir patobulintos Talmudo studijos jidiš kalba.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -171,22 +228,6 @@ Vilniaus Gaonas ben Saliamonas Zalmanas Elijas pristatomas kaip viena iškiliaus
     - t-008
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Chasidai]]
-- [[objektai/zodynas/Jidiš]]
-- [[objektai/zodynas/akcijos]]
-- [[objektai/zodynas/ješiva]]
-- [[objektai/grupes/Žydai]]
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/ivykiai/Abiejų Tautų Respublikos padalijimai ir sunaikinimas (XVIII a. pabaiga-1795 m.)]]
-- [[objektai/paprociai/Abiejų Tautų Respublikos religinės tolerancijos, bajoriškosios demokratijos ir teisinės tradicijos]]
-- [[objektai/daiktai/Herbai]]
-- [[objektai/grupes/LGGRTC Genocido aukų muziejus]]
-- [[objektai/grupes/Litvakai]]
-- [[objektai/paprociai/Litvakų rabininės tradicijos gynimas, Talmudo studijos ir savita gyvensena]]
-- [[objektai/grupes/Vilniaus baroko architektūros mokykla]]
-- [[objektai/grupes/Vilniaus romantizmo mokykla]]
-- [[objektai/zodynas/bajoriškoji demokratija]]
-- [[objektai/zodynas/bajoriškoji demokratija luominė monarchija]]
-- [[objektai/zodynas/chasidizmas rabinizmas]]
-- [[objektai/posakiai/„duona, tolerancija, demokratija, konstitucija, barokas“]]
+- Vilniaus Gaonas ben Saliamonas Zalmanas Elijas gyveno [[objektai/vietos/Lietuva]]
+- Vilniaus Gaonas ben Saliamonas Zalmanas Elijas gyveno [[objektai/vietos/Viena]]
+- Vilniaus Gaonas ben Saliamonas Zalmanas Elijas gyveno [[objektai/vietos/Vilnius]]

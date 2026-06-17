@@ -43,6 +43,8 @@ Nenurodyta
 - t-001
   global_id: t-87035
   teiginys: 'Aleksandras leido Vilniuje statyti Svečių namus, nes rusų pirklių kontrolę siejo ir su miesto saugumu.'
+  sudarymo_pagrindimas: 'Pirminis teiginys buvo bibliografinė nuoroda, o citata palaiko aiškesnį faktinį teiginį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -50,6 +52,8 @@ Nenurodyta
 - t-002
   global_id: t-87036
   teiginys: 'Vilniuje karalius leido pastatyti Svečių namus, kuriuose rusų pirkliai turėjo apsistoti ir sumokėti prekių muitą.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'territory: Pskovas; territory: Vilnius; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Rusų pirkliai|Rusų pirkliai]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Pskovas; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -99,12 +103,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/grupes/Rusų pirkliai]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/asmenys/Aleksandras]]
-- [[objektai/zodynas/svečiai Svečių namai]]

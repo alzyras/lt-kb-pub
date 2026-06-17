@@ -18,6 +18,11 @@ Vestfalijos vėliavininkas Degenhartas atleido savo priešininkams, nužudžiusi
 - t-001
   global_id: t-186194
   teiginys: 'Vestfalijos vėliavininkas Degenhartas atleido savo priešininkams, nužudžiusiems jo tėvą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo fragmentiškas, bet citata palaiko pilną faktinį sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/vėliavininkas|vėliavininkas]]'
   pagrindžia:
     - c-001
 
@@ -38,9 +43,3 @@ Vestfalijos vėliavininkas Degenhartas atleido savo priešininkams, nužudžiusi
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Teutonai]]
-- [[objektai/zodynas/vėliavininkas]]

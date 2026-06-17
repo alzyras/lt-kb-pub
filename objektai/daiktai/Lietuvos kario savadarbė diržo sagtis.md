@@ -19,7 +19,7 @@ amziai:
 
 ## Santrauka
 
-Pirmaisiais mėnesiais besikurianti Lietuvos kariuomenė nepajėgė pirmųjų savanorių aprūpinti ginklais, uniformomis ir ekipuote. Lietuvos kario savadarbė diržo sagtis siejosi su pirmaisiais Lietuvos kariuomenės mėnesiais, kai savanoriams trūko ekipuotės. Lietuvos kariai prie vokiškų sagčių pritvirtindavo Vytį, uždengdami imperijos karūną ir šūkį „GOT MIT UNS“.
+Jesu P k vertė trauktis Kolupių kaime, prie vieškelio iš Kėdainių į Šėtą, buvusią Panevėžio būrio LIETUVOS KARIO SAVADARBĖ DIRŽO SAGTIS Besikurianti Lietuvos kariuomenė pirmaisiais savo egzistavimo mėnesiais nebuvo pajėgi aprūpinti pirmųjų savanorių. Lietuvos kariai prie gautų vokiečių kariuomenės sagčių (kairėje) pritvirtindavo Lietuvos simbolį - Vytj (dešinėje), taip uždengdami vokišką imperijos karūną su šūkiu „GOT MIT UNS“ („DIEVAS SU MUMIS“) Kėdainių gynyba Karininkai J.
 
 ## Pavadinimai šaltiniuose
 
@@ -47,6 +47,11 @@ Nenurodyta
 - t-001
   global_id: t-78668
   teiginys: 'Pirmaisiais mėnesiais besikurianti Lietuvos kariuomenė nepajėgė pirmųjų savanorių aprūpinti ginklais, uniformomis ir ekipuote.'
+  sudarymo_pagrindimas: 'Pirminis teiginys sugadintas OCR triukšmo, bet citata pagrindžia aiškų faktą apie aprūpinimo stoką.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_place: Kolupiai; mentioned_place: Kėdainiai; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1919 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pirminis teiginys sugadintas OCR triukšmo, bet citata pagrindžia aiškų faktą apie aprūpinimo stoką.'
   pagrindžia:
     - c-001
 
@@ -54,6 +59,9 @@ Nenurodyta
 - t-002
   global_id: t-78669
   teiginys: 'Lietuvos kario savadarbė diržo sagtis siejosi su pirmaisiais Lietuvos kariuomenės mėnesiais, kai savanoriams trūko ekipuotės.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_place: Kolupiai; mentioned_place: Kėdainiai; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1919 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -61,6 +69,8 @@ Nenurodyta
 - t-003
   global_id: t-78670
   teiginys: 'Lietuvos kariai prie vokiškų sagčių pritvirtindavo Vytį, uždengdami imperijos karūną ir šūkį „GOT MIT UNS“.'
+  sudarymo_pagrindimas: 'Citata palaiko aiškesnį, glaustesnį teiginį apie sagties pritaikymą.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)|Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]; mentioned_person: [[objektai/asmenys/J. Mikoliūnas|J. Mikoliūnas]]; mentioned_place: Kėdainiai; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 
@@ -68,9 +78,12 @@ Nenurodyta
 - t-004
   global_id: t-78671
   teiginys: 'Lietuvos kariai prie vokiečių kariuomenės sagčių pritvirtindavo Vytį, taip uždengdami vokišką imperijos karūną.'
+  sudarymo_pagrindimas: 'Perrašyta tiksliau ir enciklopediškiau, išlaikant citatos faktus.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)|Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]; mentioned_person: [[objektai/asmenys/J. Mikoliūnas|J. Mikoliūnas]]; mentioned_place: Kėdainiai; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
-
+- susijęs iš Kolupiai: 1919 m. Kolupių kaime prie vieškelio iš Kėdainių į Šėtą bolševikai privertė trauktis Panevėžio būrio poziciją.
+- susijęs iš [[objektai/zodynas/Savanoris.md#claim-t-42426|Savanoris]]: Pirmaisiais mėnesiais besikurianti Lietuvos kariuomenė nepajėgė aprūpinti pirmųjų savanorių ginklais, uniformomis ir ekipuote.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -141,19 +154,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Artilerija]]
-- [[objektai/daiktai/Ginklai]]
-- [[objektai/asmenys/J. Mikoliūnas]]
-- [[objektai/daiktai/Karūna]]
-- [[objektai/ivykiai/Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)]]
-- [[objektai/grupes/Lietuvos kariuomenė]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/Miera|miera]]
-- [[objektai/daiktai/Šautuvai]]
-- [[objektai/zodynas/Savanoris]]
-- [[objektai/daiktai/Geltonas lankelis ant kepurės]]
-- [[objektai/asmenys/K. Dragunevičius]]
-- [[objektai/daiktai/Lietuvos kariuomenės savanorio rankovės antsiuvas]]

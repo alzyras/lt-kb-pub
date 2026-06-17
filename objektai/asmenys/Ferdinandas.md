@@ -18,9 +18,14 @@ Maskvėnų metraščiai mini Zigmantą Herberšteiną kaip karaliaus Ferdinando 
 - t-001
   global_id: t-186108
   teiginys: 'Maskvėnų metraščiai mini Zigmantą Herberšteiną kaip karaliaus Ferdinando atstovą taikos reikaluose.'
+  teiginio_tipas: 'saltinio_teiginys'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Reikia išlaikyti šaltinio atribuciją, nes faktas paremtas metraščių minėjimu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/ivykiai/Ferdinando pergalė prieš Granados karalių.md#claim-t-62779|Ferdinando pergalė prieš Granados karalių]]: Kastilijos karalius Ferdinandas nugalėjo Granados saracėnų karalių, kuris vėliau turėjo jam mokėti duoklę.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -39,8 +44,3 @@ Maskvėnų metraščiai mini Zigmantą Herberšteiną kaip karaliaus Ferdinando 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Maskvėnai]]
-- [[objektai/ivykiai/Ferdinando pergalė prieš Granados karalių]]

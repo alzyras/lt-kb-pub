@@ -34,6 +34,11 @@ Tačiau antros šio sąjūdžio kartos atstovas, aukštaitis, kunigas ir poetas,
 - t-001
   global_id: t-26483
   teiginys: '„Anykščių šilelis“ apibūdinamas kaip Antano Baranausko lietuvių literatūros šedevras.'
+  sudarymo_pagrindimas: 'Pašalinta perteklinė citata ir paliktas aiškus teiginys apie kūrinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_person: [[objektai/asmenys/Antanas Baranauskas|Antanas Baranauskas]]'
+  temporaliniai_duomenys: 'įvykio data: 1859 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalinta perteklinė citata ir paliktas aiškus teiginys apie kūrinį.'
   pagrindžia:
     - c-001
 

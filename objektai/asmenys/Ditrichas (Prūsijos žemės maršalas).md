@@ -29,6 +29,8 @@ Dusburgietis teigia, kad tuo metu Prūsijos žemės maršalu buvo brolis Ditrich
 - t-001
   global_id: t-89685
   teiginys: 'Brolis Ditrichas buvo Prūsijos žemės maršalas Helmericho, šeštojo Prūsijos žemės magistro, vadovavimo metu.'
+  sudarymo_pagrindimas: 'Pradinis teiginys apie Helmerichą, bet citata remia faktą apie Ditrichą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_place: Kulmenzė; mentioned_place: Prūsija'
   pagrindžia:
     - c-002
 
@@ -36,6 +38,8 @@ Dusburgietis teigia, kad tuo metu Prūsijos žemės maršalu buvo brolis Ditrich
 - t-002
   global_id: t-89686
   teiginys: 'Lubavos žemėje prūsai nukovė Prūsijos žemės maršalą Ditrichą per mūšį su Helmericho kariuomene.'
+  sudarymo_pagrindimas: 'Pradinis teiginys apie Helmericho veiksmą, bet citata remia faktą apie Ditrichą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Helmerichas|Helmerichas]]; mentioned_person: [[objektai/asmenys/Herkus Mantas|Herkus Mantas]]; mentioned_place: Kulmas; mentioned_place: Lubava; mentioned_place: Prūsai; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
 
@@ -43,6 +47,8 @@ Dusburgietis teigia, kad tuo metu Prūsijos žemės maršalu buvo brolis Ditrich
 - t-003
   global_id: t-89687
   teiginys: 'Brolis Ditrichas buvo Prūsijos žemės maršalas tuo metu, kai Helmerichas vadovavo Prūsijos žemei.'
+  sudarymo_pagrindimas: 'Šaltinio atribucija nereikalinga, sakinys sukonkretintas apie Ditrichą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Helmerichas|Helmerichas]]; mentioned_place: Kulmenzė; mentioned_place: Prūsija'
   pagrindžia:
     - c-002
 
@@ -50,6 +56,8 @@ Dusburgietis teigia, kad tuo metu Prūsijos žemės maršalu buvo brolis Ditrich
 - t-004
   global_id: t-89688
   teiginys: 'Lubavos žemėje prūsai nukovė Prūsijos žemės maršalą Ditrichą, magistrą Helmerichą ir keturiasdešimt brolių.'
+  sudarymo_pagrindimas: 'Pradinis tekstas fragmentiškas; citata remia aiškų teiginį apie Ditricho žūtį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Helmerichas|Helmerichas]]; mentioned_person: [[objektai/asmenys/Herkus Mantas|Herkus Mantas]]; mentioned_place: Kulmas; mentioned_place: Lubava; mentioned_place: Prūsai; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
 
@@ -98,12 +106,3 @@ Dusburgietis teigia, kad tuo metu Prūsijos žemės maršalu buvo brolis Ditrich
   pagrindžia:
     - t-001
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Herkus Mantas]]
-- [[objektai/grupes/Notangai]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/maršalas]]
-- [[objektai/asmenys/Helmerichas]]
-- [[objektai/ivykiai/Lubavos žemės mūšis, kuriame žuvo magistras Helmerichas ir maršalas Ditrichas (1263 m.)]]

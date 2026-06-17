@@ -28,6 +28,9 @@ Smolka: Kiejstut i Jagiełło , 1889, 99p. (^8) SRP, II, 601; III, 115116 p. Smo
 - t-001
   global_id: t-54136
   teiginys: 'St. Smolka 1889 m. paskelbė veikalą „Kiejstut i Jagiełło“.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]'
+  temporaliniai_duomenys: 'įvykio data: 1889 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 
@@ -35,6 +38,9 @@ Smolka: Kiejstut i Jagiełło , 1889, 99p. (^8) SRP, II, 601; III, 115116 p. Smo
 - t-002
   global_id: t-54137
   teiginys: 'St. Smolka 1889 m. Krokuvoje paskelbė darbą „Kiejstut i Jagiełło“ „Pamiętnik AU“ 7 tome.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Kaunas; mentioned_place: Krokuva'
+  temporaliniai_duomenys: 'įvykio data: 1889 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -42,9 +48,14 @@ Smolka: Kiejstut i Jagiełło , 1889, 99p. (^8) SRP, II, 601; III, 115116 p. Smo
 - t-003
   global_id: t-54138
   teiginys: 'St. Smolka 1889 m. Krokuvoje paskelbė darbą „Kiejstut i Jagiełło“.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_place: Kaunas; mentioned_place: Krokuva'
+  temporaliniai_duomenys: 'įvykio data: 1889 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/autoriai/Fr. Papée.md#claim-t-30617|Fr. Papée]]: Fr. Papée su St. Smolka parengė veikalą „Władysław Jagiełło“.
+- susijęs iš [[objektai/autoriai/Pr. Papée.md#claim-t-30930|Pr. Papée]]: Fr. Papée kartu su St. Smolka parengė darbą Władysław Jagiełło Encyklopedja Polska leidiniui.
+- susijęs iš Władysław Jagiełło: St. Smolka ir Fr. Papée parengė tekstą „Władysław Jagiełło“, paskelbtą „Encyklopedja Polska“ V tomo 1 dalyje.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -75,7 +86,3 @@ Smolka: Kiejstut i Jagiełło , 1889, 99p. (^8) SRP, II, 601; III, 115116 p. Smo
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Pilys]]

@@ -20,9 +20,12 @@ Man buvo ati­ duota iš pono Pekarskio 96 raudonieji auksinai, kuriuos už užs
 - t-001
   global_id: t-87820
   teiginys: 'Pekarskiui buvo paskolinti 800 zlotų sidabrui, užstatytam Jo Karališkosios Didenybės reikalams.'
+  sudarymo_pagrindimas: 'Teiginys yra faktinis, išsamus ir paremtas citatos duomenimis apie paskolą Pekarskiui.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Raudonieji|Raudonieji]]; mentioned_object: [[objektai/daiktai/Užstato daiktai Trakų žydų privilegijoje|Užstato daiktai Trakų žydų privilegijoje]]; mentioned_person: [[objektai/asmenys/Mogilnickis|Mogilnickis]]; mentioned_place: Brasta; mentioned_place: Lukovas'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Markas (žydas kreditorius).md#claim-t-87547|Markas (žydas kreditorius)]]: Žydui kreditoriui Markui už šešių savaičių palūkanas nuo 250 zlotų buvo sumokėta 15 florinų.
+- susijęs iš [[objektai/zodynas/raudonasis auksinas, taleris ir dukatas.md#claim-t-86492|raudonasis auksinas, taleris ir dukatas]]: Ponas Pekarskis perdavė 96 raudonuosius auksinus, imtus Brastoje po 56 lenkiškus grašius už vienetą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -48,9 +51,3 @@ Man buvo ati­ duota iš pono Pekarskio 96 raudonieji auksinai, kuriuos už užs
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Raudonieji]]
-- [[objektai/daiktai/Užstato daiktai Trakų žydų privilegijoje]]
-- [[objektai/zodynas/raudonasis auksinas, taleris ir dukatas]]

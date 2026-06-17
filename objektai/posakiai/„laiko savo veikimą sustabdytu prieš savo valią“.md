@@ -3,10 +3,16 @@ tipas: posakis
 pavadinimas: '„laiko savo veikimą sustabdytu prieš savo valią“'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1941 m.'
+date_start: '1941'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - posakis
+amziai:
+  - 'XX'
 ---
 # „laiko savo veikimą sustabdytu prieš savo valią“
 
@@ -20,9 +26,14 @@ Ambrazevičiui teko konstatuoti, kad vyriausybė „laiko savo veikimą sustabdy
 - t-001
   global_id: t-77848
   teiginys: 'Naciams 1941 m. rugpjūčio 5 d. uždraudus LV veiklą, J. Ambrazevičius konstatavo, kad vyriausybė veikimą sustabdė prieš savo valią.'
+  sudarymo_pagrindimas: 'Išplėstas kontekstas ir pašalinta fragmentiška citatos konstrukcija.'
+  temporaliniai_duomenys: 'įvykio data: 1941 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Išplėstas kontekstas ir pašalinta fragmentiška citatos konstrukcija.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/autoriai/Juozas Ambrazevičius.md#claim-t-183343|Juozas Ambrazevičius]]: Juozas Ambrazevičius konstatavo, kad vyriausybė savo veikimą sustabdė prieš savo valią.
+- susijęs iš J. Ambrazevičiaus pareiškimas dėl Laikinosios vyriausybės veikimo sustabdymo: J. Ambrazevičius konstatavo, kad Laikinoji vyriausybė savo veikimą sustabdė prieš savo valią.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -42,7 +53,3 @@ Ambrazevičiui teko konstatuoti, kad vyriausybė „laiko savo veikimą sustabdy
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/Juozas Ambrazevičius]]

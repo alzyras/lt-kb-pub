@@ -20,6 +20,8 @@ Kai Dniepro baseine prasidėjo variagų (normanų) laikotarpis, —atvykus iš S
 - t-001
   global_id: t-31364
   teiginys: 'Variagų laikotarpiu Dniepro baseine lietuviai išplėtojo prekybinius santykius rytų kryptimi.'
+  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir sakinys sutrumpintas iki aiškaus fakto.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Dniepras; mentioned_place: Gudija; mentioned_place: Skandinavija'
   pagrindžia:
     - c-001
 
@@ -40,8 +42,3 @@ Kai Dniepro baseine prasidėjo variagų (normanų) laikotarpis, —atvykus iš S
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/variagų (normanų) laikotarpis]]

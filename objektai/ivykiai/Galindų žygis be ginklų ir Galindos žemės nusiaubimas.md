@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Galindų žynė paragino žemės galinguosius be ginklų kariauti su krikščionimis. Manoma, kad Galindos žemės nusiaubimą daugiausia lėmė XI-XIII a. pradžios pasienio karai, ypač su Lenkija.
+Dusburgietis teigia, kad ši, užjausdama savąją lytį, sušaukė pas save visos žemės galingesniuosius ir jiems pasakė: „Jūsų dievai nori, kad be ginklų, be kalavijų ir kitų gynimosi priemonių kariautumėte su krikščionimis“. Dusburgietis teigia, kad šios klastingos tautos [gyvenamų žemių] viduryje, Nadruvoje, buvo vieta, kurią vadino Romove204, gavusi savo vardą nuo Romos, o ten gyveno žmogus, 203 Manoma, kad pagrindinė Galindos žemės nusiaubimo priežastis buvo pasienio karai, ypač su Lenkija XI—XIII a.
 
 ## Laikotarpis ir datos
 
@@ -39,6 +39,8 @@ Nenurodyta
 - t-001
   global_id: t-91904
   teiginys: 'Galindų žynė paragino žemės galinguosius be ginklų kariauti su krikščionimis.'
+  sudarymo_pagrindimas: 'Įvardytas veikėjas ir pašalintas neaiškus įvardis.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Galindai|Galindai]]; mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Kalavijai|Kalavijai]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_place: Galinda'
   pagrindžia:
     - c-001
 
@@ -46,6 +48,8 @@ Nenurodyta
 - t-002
   global_id: t-91905
   teiginys: 'Manoma, kad Galindos žemės nusiaubimą daugiausia lėmė XI-XIII a. pradžios pasienio karai, ypač su Lenkija.'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo su OCR ir išnašų triukšmu, bet citata palaiko glaustą faktinį sakinį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/dykra|dykra]]; mentioned_place: Galinda; mentioned_place: Lenkija'
   pagrindžia:
     - c-002
 
@@ -91,13 +95,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Kalavijai]]
-- [[objektai/grupes/Sūduviai]]
-- [[objektai/zodynas/dykra]]
-- [[objektai/zodynas/netikėliai]]
-- [[objektai/grupes/Galindai]]
-- [[objektai/daiktai/Ginklai]]
-- [[objektai/grupes/Krikščionys]]

@@ -36,6 +36,14 @@ Nenurodyta
 - t-001
   global_id: t-185836
   teiginys: 'Lietuviai staigiu antpuoliu užėmė Dobrynę, kai sekmadienį žmonės buvo išėję iš kaimų į bažnyčias.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Nepatikimos OCR vietos praleistos, paliktas citatos aiškiai pagrįstas faktas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Dobrynė'
+  temporaliniai_duomenys: 'įvykio data: 1297 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Nepatikimos OCR vietos praleistos, paliktas citatos aiškiai pagrįstas faktas.'
   pagrindžia:
     - c-001
 
@@ -67,10 +75,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/asmenys/Burchardas Aremas]]

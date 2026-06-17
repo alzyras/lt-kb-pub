@@ -15,6 +15,7 @@ tags:
   - kraštas
   - kunigaikštis
   - ordinas
+  - pilis
 amziai:
   - 'XIII'
 periodo_grupes:
@@ -32,6 +33,11 @@ Dusburgietis teigia, kad apie brolį Poponą, antrą Prūsijos žemės magistrą
 - t-001
   global_id: t-59944
   teiginys: 'Poponas iš Osternos buvo antras Prūsijos žemės magistras, pareigas ėjo septynerius metus ir 1241 m. jų atsisakė.'
+  sudarymo_pagrindimas: 'Reikia pašalinti antraštės triukšmą ir perteklinę atribuciją.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Vokietija'
+  temporaliniai_duomenys: 'įvykio data: 1241 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia pašalinti antraštės triukšmą ir perteklinę atribuciją.'
   pagrindžia:
     - c-005
 
@@ -39,6 +45,8 @@ Dusburgietis teigia, kad apie brolį Poponą, antrą Prūsijos žemės magistrą
 - t-002
   global_id: t-59945
   teiginys: 'Poponas iš Osternos tuo metu buvo šeštasis Teutonų namų ordino didysis magistras.'
+  sudarymo_pagrindimas: 'Reikia pašalinti antraštės triukšmą ir autorystės boilerplate.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Livonija; mentioned_place: Prūsija'
   pagrindžia:
     - c-003
 
@@ -46,6 +54,12 @@ Dusburgietis teigia, kad apie brolį Poponą, antrą Prūsijos žemės magistrą
 - t-003
   global_id: t-59946
   teiginys: '1244 m. magistras Poponas atvyko su keturiais broliais, o dar šeši broliai atvyko iš Markos, Meiseno ir Tiuringijos.'
+  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytą informaciją.'
+  susije_objektai: 'location: Austrija; location: Kulmas; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Austrija; mentioned_place: Kulmas'
+  semantiniai_rysiai: '[[objektai/asmenys/Poponas iš Osternos|Poponas iš Osternos]] keliavo į Austrija; [[objektai/asmenys/Poponas iš Osternos|Poponas iš Osternos]] keliavo į Kulmas'
+  temporaliniai_duomenys: 'kelionės data: 1244 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Poponas iš Osternos keliavo į Austrija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Poponas iš Osternos keliavo į Kulmas“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia citatoje nurodytą informaciją.'
   pagrindžia:
     - c-002
 
@@ -53,6 +67,8 @@ Dusburgietis teigia, kad apie brolį Poponą, antrą Prūsijos žemės magistrą
 - t-004
   global_id: t-59947
   teiginys: 'Magistras Poponas pavedė Konradui Bremeriui nuplukdyti į Elbingą tris maisto prikrautus laivus.'
+  sudarymo_pagrindimas: 'Pradinis teiginys sujungia antraštę, ilgą kontekstą ir nutrūksta.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Elbingas'
   pagrindžia:
     - c-004
 
@@ -60,9 +76,11 @@ Dusburgietis teigia, kad apie brolį Poponą, antrą Prūsijos žemės magistrą
 - t-005
   global_id: t-59948
   teiginys: 'Magistras Poponas pasiuntė žvalgus stebėti Sventopelko ir su savo bei kunigaikščio Kazimiero kariuomene įsikūrė prie Višogrudo.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pomeranai|Pomeranai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Svečė; mentioned_place: Višogrudas'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/ivykiai/Popono iš Osternos atsisakymas Prūsijos magistro pareigų ir vėlesnis išrinkimas didžiuoju magistru.md#claim-t-62442|Popono iš Osternos atsisakymas Prūsijos magistro pareigų ir vėlesnis išrinkimas didžiuoju magistru]]: Poponas iš Osternos septynerius metus buvo antrasis Prūsijos žemės magistras, 1241 m. atsisakė pareigų ir vėliau tapo didžiuoju magistru.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -180,14 +198,9 @@ Dusburgietis teigia, kad apie brolį Poponą, antrą Prūsijos žemės magistrą
     - t-006
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Konradas]]
-- [[objektai/daiktai/Laivai]]
-- [[objektai/grupes/Pomeranai]]
-- [[objektai/asmenys/Sventopelkas]]
-- [[objektai/grupes/Teutonai]]
-- [[objektai/zodynas/ginklanešiai]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/didysis magistras]]
-- [[objektai/ivykiai/Popono iš Osternos atsisakymas Prūsijos magistro pareigų ir vėlesnis išrinkimas didžiuoju magistru]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
+- Poponas iš Osternos keliavo_i [[objektai/vietos/Austrija]]
+- Poponas iš Osternos keliavo_i [[objektai/vietos/Krokuva]]
+- Poponas iš Osternos keliavo_i [[objektai/vietos/Kulmas]]
+- Poponas iš Osternos keliavo_i [[objektai/vietos/Lenkija]]
+- Poponas iš Osternos keliavo_i [[objektai/vietos/Prūsija]]
+- Poponas iš Osternos keliavo_i [[objektai/vietos/Santyras]]

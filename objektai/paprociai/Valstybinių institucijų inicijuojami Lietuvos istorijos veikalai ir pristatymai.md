@@ -5,8 +5,12 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1936 m.'
+  - '1939 m.'
+  - '1990 m.'
+  - '2004 m.'
+  - '2013 m.'
 date_start: '1936'
-date_end: ''
+date_end: '2013'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -15,12 +19,13 @@ tags:
   - tauta
 amziai:
   - 'XX'
+  - 'XXI'
 ---
 # Valstybinių institucijų inicijuojami Lietuvos istorijos veikalai ir pristatymai (institucija)
 
 ## Santrauka
 
-1936 m. Lietuvos Respublikos švietimo ministerijos iniciatyva lietuvių istorikai parašė ir išleido plačios apimties Lietuvos istoriją. 2013 m. Lietuvos pirmininkavimas Europos Sąjungai buvo siejamas su proga tęsti Lietuvos ir jos istorijos pristatymo pasauliui tradiciją. Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respublikos užsienio reikalų ministerija inicijavo specialų Lietuvos skyrių.
+Apibendrinamojo pobūdžio istorijos darbai paprastai gimsta lūžiniais valstybės raidos etapais ir išskirtinėmis progomis. Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respublikos užsienio reikalų ministerija (ministras Stasys Lozoraitis) inicijavo ir, Magdalenai Avietėnaitei vadovaujant, parengė specialų Lietuvos skyrių, atskleidusį meno, tautodailės, ekonomikos. 1990 m. kovo 11 d. atkūrusi nepriklausomybę, 2004 m. tapusi visateise demokratinių NATO ir ES valstybių šeimos nare, 2013-aisiais Lietuva imsis istorinės pareigos pirmininkauti Europos Sąjungai – laisvų ir demokratinių Europos valstybių susivienijimui.
 
 ## Laikotarpis ir datos
 
@@ -48,6 +53,11 @@ Nenurodyta
 - t-001
   global_id: t-54362
   teiginys: '1936 m. Lietuvos Respublikos švietimo ministerijos iniciatyva lietuvių istorikai parašė ir išleido plačios apimties Lietuvos istoriją.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiksliai atitinka citatos informaciją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/autoriai/A. Šapoka|A. Šapoka]]; mentioned_person: [[objektai/autoriai/Adolfas Šapoka|Adolfas Šapoka]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1936 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir tiksliai atitinka citatos informaciją.'
   pagrindžia:
     - c-003
 
@@ -55,6 +65,11 @@ Nenurodyta
 - t-002
   global_id: t-54363
   teiginys: '2013 m. Lietuvos pirmininkavimas Europos Sąjungai buvo siejamas su proga tęsti Lietuvos ir jos istorijos pristatymo pasauliui tradiciją.'
+  sudarymo_pagrindimas: 'Pradinis teiginys pateikia kontekstą, bet geresnis sakinys tiesiogiau sieja faktą su pristatymo tradicija.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Lietuvos pirmininkavimas Europos Sąjungai (2013 m.)|Lietuvos pirmininkavimas Europos Sąjungai (2013 m.)]]; mentioned_group: [[objektai/grupes/NATO|NATO]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Europa; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1990 m.; įvykio data: 2004 m.; įvykio data: 2013 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys pateikia kontekstą, bet geresnis sakinys tiesiogiau sieja faktą su pristatymo tradicija.'
   pagrindžia:
     - c-001
 
@@ -62,6 +77,11 @@ Nenurodyta
 - t-003
   global_id: t-54364
   teiginys: 'Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respublikos užsienio reikalų ministerija inicijavo specialų Lietuvos skyrių.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas, turi aiškų veikėją ir veiksmą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos Respublikos užsienio reikalų ministerija|Lietuvos Respublikos užsienio reikalų ministerija]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1939 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas, turi aiškų veikėją ir veiksmą.'
   pagrindžia:
     - c-002
 
@@ -69,6 +89,14 @@ Nenurodyta
 - t-005
   global_id: t-183336
   teiginys: 'Valstybės institucijos kartais inicijuoja apibendrinamuosius istorijos darbus, kad valstybės kelias būtų įamžintas ir įvertintas platesne perspektyva.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata leidžia suformuluoti teiginį tiesiogiai apie valstybinių institucijų vaidmenį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/autoriai/A. Šapoka|A. Šapoka]]; mentioned_person: [[objektai/autoriai/Adolfas Šapoka|Adolfas Šapoka]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1936 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata leidžia suformuluoti teiginį tiesiogiai apie valstybinių institucijų vaidmenį.'
   pagrindžia:
     - c-003
 
@@ -131,20 +159,3 @@ Nenurodyta
   pagrindžia:
     - t-005
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/autoriai/Adolfas Šapoka]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/NATO]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Lietuvos Respublikos užsienio reikalų ministerija|Lietuvos Respublikos užsienio reikalų ministerija (institucija)]]
-- [[objektai/ivykiai/Lietuvos pirmininkavimas Europos Sąjungai (2013 m.)]]
-- [[objektai/grupes/Europos Sąjunga]]
-- [[objektai/ivykiai/Lietuvos nepriklausomybės atkūrimas (1990 III 11)]]
-- [[objektai/ivykiai/Lietuvos skyriaus parengimas 1939 m. pasaulinei parodai Niujorke]]
-- [[objektai/ivykiai/Lietuvos įstojimas į ES ir NATO (2004 m.)]]
-- [[objektai/asmenys/Magdalena Avietėnaitė]]
-- [[objektai/daiktai/Monumentalios Lietuvos istorijos drobės]]
-- [[objektai/asmenys/Stasys Lozoraitis]]

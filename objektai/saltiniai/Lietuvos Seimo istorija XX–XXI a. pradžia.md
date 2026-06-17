@@ -19,7 +19,7 @@ amziai:
 
 ## Santrauka
 
-Veikalas „Lietuvos Seimo istorija: XX–XXI a. pradžia“ 2009 m. išleistas Vilniuje.
+Lietuvos Seimo istorija: XX–XXI a.
 
 ## Teiginiai
 
@@ -27,6 +27,11 @@ Veikalas „Lietuvos Seimo istorija: XX–XXI a. pradžia“ 2009 m. išleistas 
 - t-001
   global_id: t-78154
   teiginys: 'Veikalas „Lietuvos Seimo istorija: XX–XXI a. pradžia“ 2009 m. išleistas Vilniuje.'
+  sudarymo_pagrindimas: 'Pradinis tekstas yra tik pavadinimo fragmentas, o citata leidžia suformuluoti bibliografinį faktą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 2009 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis tekstas yra tik pavadinimo fragmentas, o citata leidžia suformuluoti bibliografinį faktą.'
   pagrindžia:
     - c-001
 

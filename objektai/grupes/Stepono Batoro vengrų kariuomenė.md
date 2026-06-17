@@ -29,6 +29,8 @@ amziai:
 - t-001
   global_id: t-86827
   teiginys: 'Žygyje prieš Maskvos kunigaikštį ties Velikije Lūki Gabrielis Bekešas vadovavo Stepono Batoro vengrų kariuomenės riteriams.'
+  sudarymo_pagrindimas: 'Pirminis tekstas nutrūkęs, bet citata leidžia suformuluoti pilną teiginį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_object: [[objektai/zodynas/tėvonija|tėvonija]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Gabrielius Bekešas|Gabrielius Bekešas]]; mentioned_person: [[objektai/asmenys/Grigalius (vicekancleris)|Grigalius (vicekancleris)]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_place: Alanta; mentioned_place: Maskva; mentioned_place: Ukmergė; mentioned_place: Velikije Lūki'
   pagrindžia:
     - c-001
 
@@ -36,6 +38,8 @@ amziai:
 - t-002
   global_id: t-86828
   teiginys: 'Gabrielis Bekešas Skornatas buvo Stepono Batoro vengrų pulkų vadas ir ištikimai tarnavo valdovui bei Respublikai.'
+  sudarymo_pagrindimas: 'Citata remia faktą apie vengrų pulkų vadą ir jo tarnybą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_person: [[objektai/asmenys/Gabrielius Bekešas|Gabrielius Bekešas]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Varšuva'
   pagrindžia:
     - c-002
 
@@ -110,15 +114,3 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/asmenys/Gabrielius Bekešas]]
-- [[objektai/asmenys/Grigalius (vicekancleris)]]
-- [[objektai/grupes/Vengrai]]
-- [[objektai/zodynas/ponai]]
-- [[objektai/zodynas/tėvonija]]
-- [[objektai/asmenys/Steponas Batoras]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/ivykiai/Gabrieliaus Bekešo vadovavimas vengrų kariuomenei žygyje prieš Maskvos kunigaikštį ties Velikije Lūki]]

@@ -31,6 +31,9 @@ Ordinui į pagalbą atvyko Meiseno markgrafas Henrikas su 500 riterių ir su „
 - t-001
   global_id: t-63616
   teiginys: 'Meiseno markgrafas Henrikas atvyko į Prūsijos žemę su penkiais šimtais kilmingų kovai pasirengusių vyrų ir dideliais turtais.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai perteikia citatoje nurodytą Henriko atvykimą ir palydą.'
+  susije_objektai: 'location: Prūsija; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Prūsija'
+  semantiniai_rysiai: '[[objektai/asmenys/Henrikas (Meiseno markgrafas)|Henrikas (Meiseno markgrafas)]] keliavo į Prūsija'
   pagrindžia:
     - c-001
 
@@ -38,6 +41,12 @@ Ordinui į pagalbą atvyko Meiseno markgrafas Henrikas su 500 riterių ir su „
 - t-002
   global_id: t-63617
   teiginys: 'Meiseno markgrafas Henrikas atvyko Ordinui į pagalbą su 500 riterių ir kartu su Kryžiuočių ordinu niokojo Pamedę.'
+  sudarymo_pagrindimas: 'Teiginys yra konkretus, pilnas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'location: Europa; location: Lietuva; location: Pamedė; location: Prūsai; mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/kryžininkai|kryžininkai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Pamedė; mentioned_place: Prūsai'
+  semantiniai_rysiai: '[[objektai/asmenys/Henrikas (Meiseno markgrafas)|Henrikas (Meiseno markgrafas)]] keliavo į Europa; [[objektai/asmenys/Henrikas (Meiseno markgrafas)|Henrikas (Meiseno markgrafas)]] keliavo į Lietuva; [[objektai/asmenys/Henrikas (Meiseno markgrafas)|Henrikas (Meiseno markgrafas)]] keliavo į Pamedė; [[objektai/asmenys/Henrikas (Meiseno markgrafas)|Henrikas (Meiseno markgrafas)]] keliavo į Prūsai'
+  temporaliniai_duomenys: 'kelionės data: 1236 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Henrikas (Meiseno markgrafas) keliavo į Europa“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Henrikas (Meiseno markgrafas) keliavo į Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Henrikas (Meiseno markgrafas) keliavo į Pamedė“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Henrikas (Meiseno markgrafas) keliavo į Prūsai“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus, pilnas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-002
 
@@ -45,6 +54,11 @@ Ordinui į pagalbą atvyko Meiseno markgrafas Henrikas su 500 riterių ir su „
 - t-003
   global_id: t-184076
   teiginys: 'Meiseno markgrafas Henrikas ryžosi naikinti netikėlius ir plėsti krikščionių žemes.'
+  teiginio_tipas: 'saltinio_teiginys'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys pilnas, faktinis ir tiesiogiai paremtas citatos sakiniu.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
 
@@ -96,11 +110,8 @@ Ordinui į pagalbą atvyko Meiseno markgrafas Henrikas su 500 riterių ir su „
     - t-002
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kalavijuočių ordinas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/zodynas/kryžininkai]]
-- [[objektai/zodynas/netikėliai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/autoriai/Henrikas]]
-- [[objektai/ivykiai/Henriko Meiseno markgrafo žygis į Pamedę, pilių naikinimas ir pamedėnų pavergimas]]
+- Henrikas (Meiseno markgrafas) keliavo_i [[objektai/vietos/Europa]]
+- Henrikas (Meiseno markgrafas) keliavo_i [[objektai/vietos/Lietuva]]
+- Henrikas (Meiseno markgrafas) keliavo_i [[objektai/vietos/Pamedė]]
+- Henrikas (Meiseno markgrafas) keliavo_i [[objektai/vietos/Prūsai]]
+- Henrikas (Meiseno markgrafas) keliavo_i [[objektai/vietos/Prūsija]]

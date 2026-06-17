@@ -21,6 +21,8 @@ tags:
 - t-001
   global_id: t-87621
   teiginys: 'Žygimantas Senasis rašė Vilniaus miestiečiui Andrejui Tyckiui dėl Smolensko muito ir smuklių arendavimo.'
+  sudarymo_pagrindimas: 'Citata palaiko konkretų faktą apie laišką Andrejui Tyckiui, bet pradinį tekstą reikia sutvarkyti.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_person: [[objektai/asmenys/Žygimantas Senasis|Žygimantas Senasis]]; mentioned_place: Lietuva; mentioned_place: Smolenskas; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

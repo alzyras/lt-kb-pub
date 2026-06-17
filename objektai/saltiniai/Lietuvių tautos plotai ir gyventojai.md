@@ -27,6 +27,9 @@ amziai:
 - t-001
   global_id: t-31800
   teiginys: 'K. Pakšto „Lietuvių tautos plotai ir gyventojai“ paskelbta „Aidų“ 3 numeryje 1957 m., 97-107 puslapiuose.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kailiai|Kailiai]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1957 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

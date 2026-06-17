@@ -27,6 +27,11 @@ Semkowicz : Pierwsze przywileje fundacyjne Witolda dla Kościoła na Żmudzi , K
 - t-001
   global_id: t-31983
   teiginys: 'W. Semkowicziaus „Pierwsze przywileje fundacyjne Witolda dla Kościoła na Żmudzi“ išspausdintas KH 44 tome 1930 m., p. 348-355.'
+  sudarymo_pagrindimas: 'Citata leidžia iš dangling inicialo sudaryti pilną bibliografinį teiginį.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1930 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata leidžia iš dangling inicialo sudaryti pilną bibliografinį teiginį.'
   pagrindžia:
     - c-001
 

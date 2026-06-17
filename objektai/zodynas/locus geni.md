@@ -30,6 +30,8 @@ Vartojama istoriografiniame ir romantinės pasaulėžiūros aptarimo kontekste.
 - t-001
   global_id: t-54812
   teiginys: 'Vilniaus miesto istorijos rašymo tradicijos atsiradimas siejamas su locus geni akcentavimu romantinėje pasaulėžiūroje.'
+  sudarymo_pagrindimas: 'Pradinis teiginys silpnai siejosi su antrašte; citata tiesiogiai pagrindžia faktą apie locus geni.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -51,8 +53,3 @@ Vartojama istoriografiniame ir romantinės pasaulėžiūros aptarimo kontekste.
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Aleksandras Balinskis]]
-- [[objektai/autoriai/Mykolas Balinskis]]

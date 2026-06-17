@@ -43,6 +43,12 @@ Nenurodyta
 - t-001
   global_id: t-62804
   teiginys: 'Herkus Mantas žuvo 1273 m. vasarą arba rudenį.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Teiginys aiškiai pateikia citatoje nurodytą Herkaus Manto žūties datavimą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Herkus Mantas|Herkus Mantas]]; mentioned_person: [[objektai/asmenys/Mantas|Mantas]]'
+  temporaliniai_duomenys: 'įvykio data: 1273 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai pateikia citatoje nurodytą Herkaus Manto žūties datavimą.'
   pagrindžia:
     - c-001
 
@@ -50,6 +56,9 @@ Nenurodyta
 - t-002
   global_id: t-62805
   teiginys: 'Herkų Mantą palapinėje užklupo Henrikas iš Šenenbergo ir Helvigas iš Goldbacho, paskui jį pakorė ir pervėrė kalaviju.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pašalintas šaltinio įvadas, fragmentiškumas ir OCR nuoroda; faktas suformuluotas pilnu sakiniu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_person: [[objektai/asmenys/Helvigas iš Goldbacho|Helvigas iš Goldbacho]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Henrikas iš Šenenbergo|Henrikas iš Šenenbergo]]; mentioned_person: [[objektai/asmenys/Herkus Mantas|Herkus Mantas]]; mentioned_place: Kristburgas'
   pagrindžia:
     - c-002
 
@@ -83,13 +92,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Helvigas iš Goldbacho]]
-- [[objektai/autoriai/Henrikas]]
-- [[objektai/asmenys/Herkus Mantas]]
-- [[objektai/asmenys/Mantas]]
-- [[objektai/grupes/Notangai]]
-- [[objektai/asmenys/Henrikas iš Šenenbergo]]
-- [[objektai/daiktai/Kalavijas]]

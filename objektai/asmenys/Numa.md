@@ -22,6 +22,8 @@ Dusburgietis teigia, kad tačiau du bartai, būtent: Numa ir Derska, nusekė, br
 - t-001
   global_id: t-60185
   teiginys: 'Numa ir Derska tarpininkavo bartams, kad broliai grąžintų į nelaisvę paimtas jų žmonas ir vaikus.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir perkrautas konteksto fragmentais.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Derska|Derska]]; mentioned_place: Gardinas; mentioned_place: Semba'
   pagrindžia:
     - c-001
 
@@ -29,9 +31,18 @@ Dusburgietis teigia, kad tačiau du bartai, būtent: Numa ir Derska, nusekė, br
 - t-002
   global_id: t-60186
   teiginys: 'Numa ir Derska pelnė brolių palankumą, išžudė lietuvius ir išsigabeno grobį į Pagudę.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas pateikta citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Derska|Derska]]; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Pagudė'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/asmenys/Derska.md#claim-t-60100|Derska]]: Derska su Numa tarpininkavo bartams, kad broliai grąžintų į nelaisvę paimtas jų žmonas ir vaikus.
+- susijęs iš [[objektai/asmenys/Derska.md#claim-t-60101|Derska]]: Derska su Numa pasitiko lietuvių kariuomenę, išžudė lietuvius ir visą grobį išsigabeno į Pagudę.
+- susijęs iš [[objektai/asmenys/Ditrichas (Sembos fogtas).md#claim-t-59840|Ditrichas (Sembos fogtas)]]: Sembos fogtui Ditrichui nepatiko, kad broliai bartams grąžino į nelaisvę paimtas žmonas ir vaikus.
+- susijęs iš [[objektai/autoriai/Batūra R.md#claim-t-91941|Batūra R]]: 191—192; Batūra R., Karinė..., р.
+- susijęs iš [[objektai/autoriai/R. Batūra.md#claim-t-97211|Romas Batūra]]: 191—192; Batūra R., Karinė..., р.
+- susijęs iš [[objektai/grupes/Bartai.md#claim-t-184473|Bartai]]: Bartai Numa ir Derska, pabėgę iš Prūsijos į Lietuvą, išdavė lietuvių būrius, tikėdamiesi kryžiuočių atleidimo.
+- susijęs iš [[objektai/ivykiai/Bartų sugrįžimas pas brolius ir lietuvių išžudymas.md#claim-t-66482|Bartų sugrįžimas pas brolius ir lietuvių išžudymas]]: Numa ir Derska pelnė brolių palankumą, pasitiko lietuvių kariuomenę, išžudė lietuvius ir grobį išsigabeno į Pagudę.
+- susijęs iš [[objektai/ivykiai/Bartų sugrįžimas pas brolius ir lietuvių išžudymas.md#claim-t-66483|Bartų sugrįžimas pas brolius ir lietuvių išžudymas]]: Kai broliai rengėsi pulti Gardino pilį, iš Pagudės pabėgę bartai su lietuviais surengė žygį prieš Lenkiją.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -74,11 +85,3 @@ Dusburgietis teigia, kad tačiau du bartai, būtent: Numa ir Derska, nusekė, br
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bartai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/ivykiai/Bartų sugrįžimas pas brolius ir lietuvių išžudymas]]
-- [[objektai/asmenys/Derska]]
-- [[objektai/asmenys/Ditrichas (Sembos fogtas)]]

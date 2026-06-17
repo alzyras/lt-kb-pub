@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Veliuonos suvažiavime taikos labui sutikta atsisakyti Klaipėdos su trijų mylių ruožu nuo jūros. Veliuonoje susitarimo nepasiekta, nes Ordinas tikėjosi naudos iš Romos tarpininkavimo. Veliuonoje aptartas naujos sienos projektas po dvejų metų buvo priimtas prie Melno ežero.
+Tai reiškė projektą naujos sienos, kuri už dvejų metų buvo priimta prie Melno ežero. Bet Veliuonoje nieko nebuvo pasiekta, nes ordinas laukė sau naudos iš Romos tarpininkavimo.
 
 ## Laikotarpis ir datos
 
@@ -45,6 +45,8 @@ Nenurodyta
 - t-001
   global_id: t-31481
   teiginys: 'Veliuonos suvažiavime taikos labui sutikta atsisakyti Klaipėdos su trijų mylių ruožu nuo jūros.'
+  sudarymo_pagrindimas: 'Rewrite failed deterministic gates: missing_factual_predicate'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/posakiai/Taikos labui|Taikos labui]]; mentioned_place: Veliuona'
   pagrindžia:
     - c-002
 
@@ -52,6 +54,7 @@ Nenurodyta
 - t-002
   global_id: t-31482
   teiginys: 'Veliuonoje susitarimo nepasiekta, nes Ordinas tikėjosi naudos iš Romos tarpininkavimo.'
+  susije_objektai: 'mentioned_place: Veliuona'
   pagrindžia:
     - c-001
 
@@ -59,6 +62,11 @@ Nenurodyta
 - t-003
   global_id: t-184342
   teiginys: 'Veliuonoje aptartas naujos sienos projektas po dvejų metų buvo priimtas prie Melno ežero.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis teiginys prasideda neaiškiu kontekstiniu žodžiu, todėl jį reikia sukonkretinti.'
+  susije_objektai: 'mentioned_place: Veliuona'
   pagrindžia:
     - c-003
 
@@ -110,10 +118,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/ežeras]]
-
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]

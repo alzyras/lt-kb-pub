@@ -44,6 +44,7 @@ Nenurodyta
 - t-001
   global_id: t-67116
   teiginys: 'Traukiant į karę žalčio pasirodymas kelyje buvo laikomas laimės ženklu.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai pagrįstas citata apie žalčio ženklą.'
   pagrindžia:
     - c-002
 
@@ -51,6 +52,7 @@ Nenurodyta
 - t-002
   global_id: t-67117
   teiginys: 'Prieš pradėdami karą senovės kalnėnai ir žemaičiai pirmiausia klausdavo žynių apie būsimą laimę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalnėnai|Kalnėnai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -82,8 +84,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kalnėnai]]
-- [[objektai/grupes/Žemaičiai]]

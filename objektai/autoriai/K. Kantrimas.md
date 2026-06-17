@@ -13,21 +13,22 @@ tags:
 
 ## Santrauka
 
-K. Kantrimas buvo universiteto bibliotekininkas ir neįvykdyto projekto autorius.
+Kantrimas. Kantrimas savo memoriale kuratoriui Čartoriskiui rašo, esą, didesnėje lietuviškųjų gubernijų dalyje kaimiečiai kalbą lietuviškai.
 
 ## Teiginiai
+
 <a id="claim-t-01076"></a>
 - t-001
   global_id: t-01076
   teiginys: 'K. Kantrimas buvo universiteto bibliotekininkas ir neįvykdyto projekto autorius.'
+  sudarymo_pagrindimas: 'Pirminis teiginys neturi faktinio predikato, bet citata aiškiai palaiko perrašymą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'K. Kantrimas buvo universiteto bibliotekininkas ir neįvykdyto projekto autorius.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Projekto autorius buvo universiteto bibliotekininkas K. Kantri-
@@ -36,14 +37,8 @@ K. Kantrimas buvo universiteto bibliotekininkas ir neįvykdyto projekto autorius
     tik tuo metu prasidėjo rusų reakcija prieš lenkiškąją universiteto
     linkmę, ir vadovybei nebebuvo kada galvoti apie savo darbo
     plėtimą; reikėjo tik rūpintis išlaikyti tai, kas pasiekta.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Rusai]]

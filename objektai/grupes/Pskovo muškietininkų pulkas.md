@@ -3,10 +3,16 @@ tipas: grupe
 pavadinimas: 'Pskovo muškietininkų pulkas'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+datos:
+  - '1792 m.'
+date_start: '1792'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+amziai:
+  - 'XVIII'
 ---
 # Pskovo muškietininkų pulkas
 
@@ -20,6 +26,11 @@ Vilniuje buvusią rusų įgulą sudarė: Narvos muškietininkų pulko vienas bat
 - t-001
   global_id: t-78425
   teiginys: 'Lietuviams puolant Vilnių balandžio 23 d., rusų įguloje buvo du Pskovo muškietininkų pulko batalionai.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nurodo Pskovo muškietininkų pulko batalionus Vilniaus rusų įguloje.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/zodynas/muškietininkai|muškietininkai]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]; mentioned_place: Donas; mentioned_place: Narva; mentioned_place: Prūsija; mentioned_place: Pskovas; mentioned_place: Rusija; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1792 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo Pskovo muškietininkų pulko batalionus Vilniaus rusų įguloje.'
   pagrindžia:
     - c-001
 
@@ -27,6 +38,7 @@ Vilniuje buvusią rusų įgulą sudarė: Narvos muškietininkų pulko vienas bat
 - t-002
   global_id: t-78426
   teiginys: 'Vilniaus rusų įguloje buvo du Pskovo muškietininkų pulko batalionai.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/zodynas/muškietininkai|muškietininkai]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_place: Donas; mentioned_place: Narva; mentioned_place: Pskovas; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -81,15 +93,3 @@ Vilniuje buvusią rusų įgulą sudarė: Narvos muškietininkų pulko vienas bat
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Artilerija]]
-- [[objektai/grupes/Kazokai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/zodynas/muškietininkai]]
-- [[objektai/zodynas/įgula]]
-- [[objektai/daiktai/Šautuvai]]
-- [[objektai/grupes/Dono kazokų pulkas]]
-- [[objektai/grupes/Narvos muškietininkų pulkas]]

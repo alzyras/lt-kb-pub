@@ -42,6 +42,9 @@ Nenurodyta
 - t-001
   global_id: t-62733
   teiginys: 'Po mūšio viena moteris su kitais Kulmo pilėnais nuėjo į kovos lauką laidoti žuvusiųjų kūnų.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus ir tiesiogiai paremtas citata apie žuvusiųjų laidojimą.'
+  susije_objektai: 'mentioned_place: Kulmas; mentioned_place: Pilėnai; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -66,7 +69,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/laidotuvės]]

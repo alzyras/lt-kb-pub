@@ -42,6 +42,7 @@ Nenurodyta
 - t-001
   global_id: t-35875
   teiginys: 'Sandomiro suvažiavime Olesnickis pasiūlė Vytautui Jogailos karūną, tačiau abejojama, ar tam pritarė Jogaila.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Sandomiras'
   pagrindžia:
     - c-001
 
@@ -59,7 +60,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]

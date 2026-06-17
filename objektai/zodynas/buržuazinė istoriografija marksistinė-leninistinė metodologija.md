@@ -27,6 +27,8 @@ Jie yra griežtai atsiriboję ir pasmerkę vad. «buržuazinę » istoriografij�
 - t-001
   global_id: t-99979
   teiginys: 'Tarybiniai istorikai griežtai atsiribojo nuo vadinamosios buržuazinės istoriografijos ir ją pasmerkė.'
+  sudarymo_pagrindimas: 'Pradinis teiginys turi neaiškų įvardį, bet citata leidžia įvardyti subjektą.'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

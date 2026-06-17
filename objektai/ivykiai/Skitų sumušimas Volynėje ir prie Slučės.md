@@ -30,6 +30,11 @@ Nenurodyta
 - t-001
   global_id: t-185768
   teiginys: 'Krymo skitai trimis žygio voromis smarkiai nuniokojo Volynę, kai dėl karo su Maskva joje nebuvo likę karių ir karvedžių.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys gramatiškas, aiškus ir atitinka citatoje nurodytą įvykio aplinkybę.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/algininkai|algininkai]]; mentioned_object: [[objektai/zodynas/skitai|skitai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]; mentioned_place: Krymas; mentioned_place: Maskva; mentioned_place: Sluckas; mentioned_place: Volynė'
   pagrindžia:
     - c-001
 
@@ -37,6 +42,11 @@ Nenurodyta
 - t-002
   global_id: t-185769
   teiginys: 'Lukošius Moravecas su dviem šimtais pėstininkų prie Slučės upės užpuolė siaubėjus ir juos sumušė.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus sakinys su veikėju, veiksmu, vieta ir rezultatu.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Lukošius Moravecas|Lukošius Moravecas]]; mentioned_place: Sluckas; mentioned_place: Slučė'
   pagrindžia:
     - c-002
 
@@ -87,11 +97,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Konstantinas (Karijotaitis)]]
-- [[objektai/zodynas/algininkai]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/asmenys/Lukošius Moravecas]]
-- [[objektai/zodynas/skitai]]

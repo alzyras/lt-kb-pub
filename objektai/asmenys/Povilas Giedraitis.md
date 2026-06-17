@@ -31,6 +31,11 @@ Sklypas, skir­ tas fabrikui statyti, buvo „prie Vil­ niaus miesto, už Vilij
 - t-001
   global_id: t-87836
   teiginys: 'Vilniaus gorodničius Povilas Giedraitis 1547 m. gegužės 22 d. karaliaus valia perdavė Paleckio žiniai sklypą fabrikui statyti.'
+  sudarymo_pagrindimas: 'Citata tiesiogiai pagrindžia Povilo Giedraičio veiksmą ir datą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Belvederis; mentioned_place: Vilija; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1547 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata tiesiogiai pagrindžia Povilo Giedraičio veiksmą ir datą.'
   pagrindžia:
     - c-001
 
@@ -59,7 +64,3 @@ Sklypas, skir­ tas fabrikui statyti, buvo „prie Vil­ niaus miesto, už Vilij
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

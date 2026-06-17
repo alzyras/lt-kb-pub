@@ -3,11 +3,17 @@ tipas: zodyno_irasas
 pavadinimas: 'Tiesioginis valdymas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1994 m.'
+date_start: '1994'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - kraštas
   - sąvoka
+amziai:
+  - 'XX'
 ---
 # Tiesioginis valdymas
 
@@ -21,6 +27,11 @@ Nepaisant nepriklausomybės pradžioje susovietintų Vilniaus krašto lenkų kom
 - t-001
   global_id: t-22029
   teiginys: 'Lietuvos valdžiai terminuotai įvedus tiesioginį valdymą Vilniaus ir Šalčininkų rajonuose, santykiai su Lenkija nepablogėjo.'
+  sudarymo_pagrindimas: 'Teiginys turi aiškų subjektą, veiksmą ir citatos palaikomą rezultatą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Varšuva; mentioned_place: Vilnius; mentioned_place: Šalčininkai'
+  temporaliniai_duomenys: 'įvykio data: 1994 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys turi aiškų subjektą, veiksmą ir citatos palaikomą rezultatą.'
   pagrindžia:
     - c-001
 
@@ -44,9 +55,3 @@ Nepaisant nepriklausomybės pradžioje susovietintų Vilniaus krašto lenkų kom
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/Teritorinė autonomija]]

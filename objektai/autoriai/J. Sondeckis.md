@@ -21,6 +21,8 @@ Sondeckis išvertė lietuviškai^141.
 - t-001
   global_id: t-30700
   teiginys: 'J. Sondeckis lietuviškai išvertė žymią dalį paskaitų Lietuvos istorijos temomis.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

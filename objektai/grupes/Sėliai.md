@@ -10,11 +10,11 @@ date_start: '1936'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - grupe
 amziai:
   - 'XX'
   - 'XXI'
-tags:
-  - grupe
 ---
 # Sėliai
 
@@ -23,17 +23,27 @@ tags:
 kairiajame Dauguvos vidurupio krante, siekdami dabartines Utenos ir Zarasų apskritis, gyveno sėliai.
 
 ## Teiginiai
+
 <a id="claim-t-52441"></a>
 - t-001
   global_id: t-52441
   teiginys: 'Sėliai gyveno kairiajame Dauguvos vidurupio krante ir siekė dabartines Utenos bei Zarasų apskritis.'
+  susije_objektai: 'location: Dauguva; location: Latvija; location: Lietuva; location: Utena; location: Zarasai; mentioned_object: [[objektai/grupes/Jotvingai|Jotvingai]]; mentioned_place: Dauguva; mentioned_place: Latvija; mentioned_place: Lietuva; mentioned_place: Utena; mentioned_place: Zarasai'
+  semantiniai_rysiai: '[[objektai/grupes/Sėliai|Sėliai]] gyveno Dauguva; [[objektai/grupes/Sėliai|Sėliai]] gyveno Latvija; [[objektai/grupes/Sėliai|Sėliai]] gyveno Lietuva; [[objektai/grupes/Sėliai|Sėliai]] gyveno Utena; [[objektai/grupes/Sėliai|Sėliai]] gyveno Zarasai'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+- susijęs iš [[objektai/asmenys/Visvaldis.md#claim-t-79219|Visvaldis]]: Visvaldis buvo nugalėtas Rygos vyskupo Alberto.
+- susijęs iš [[objektai/asmenys/Visvaldis.md#claim-t-79220|Visvaldis]]: Visvaldis buvo nugalėtas Rygos vyskupo Alberto.
+- susijęs iš [[objektai/grupes/Latviai.md#claim-t-169588|Latviai]]: Latviai asimiliavo dalį išnykusių kuršių, žiemgalių ir sėlių kilčių teritorijų.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179244|Lietuviai]]: Lietuviai asimiliavo pietines žiemgalių ir sėlių sritis.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179253|Lietuviai]]: Lietuviai, kaip teigiama citatoje, asimiliavo pietines žiemgalių ir sėlių sritis.
+- susijęs iš [[objektai/grupes/Žiemgaliai.md#claim-t-89348|Žiemgaliai]]: Pietines žiemgalių ir sėlių sritis asimiliavo lietuviai.
+- susijęs iš [[objektai/grupes/Žiemgaliai.md#claim-t-89353|Žiemgaliai]]: Lietuviai asimiliavo pietines žiemgalių ir sėlių sritis.
+- susijęs iš [[objektai/posakiai/Liet’gola Lethi vel Lethigalli.md#claim-t-184359|Liet’gola Lethi vel Lethigalli]]: Nestoro kronikoje tikrieji latviai vadinti „Liet’gola“, o Latvijos Henrikas juos įvardijo kaip „Lethi vel Lethigalli“.
+- susijęs iš Padauguvio Sėla: Užėmę Padauguvio Sėlą tarp Dysnos ir Egluonos, lietuviai persikėlė į dešinįjį Dauguvos krantą ir gyveno Daugpilio apylinkėje.
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Sėliai gyveno kairiajame Dauguvos vidurupio krante ir siekė dabartines Utenos bei Zarasų apskritis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Į pie-
@@ -48,20 +58,16 @@ kairiajame Dauguvos vidurupio krante, siekdami dabartines Utenos ir Zarasų apsk
     tis, gyveno sėliai, o į šiaurę nuo jų, t. y. dešiniajam Dauguvos
     vidurupio krante gyveno latgãliai (taip šitų sričių gyven-
     tojus vadina senieji raštai).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
     - t-002
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Albertas]]
-- [[objektai/grupes/Latviai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/posakiai/Liet’gola Lethi vel Lethigalli]]
-- [[objektai/asmenys/Visvaldis]]
-- [[objektai/grupes/Žiemgaliai]]
+- Sėliai gyveno [[objektai/vietos/Dauguva]]
+- Sėliai gyveno [[objektai/vietos/Latvija]]
+- Sėliai gyveno [[objektai/vietos/Lietuva]]
+- Sėliai gyveno [[objektai/vietos/Utena]]
+- Sėliai gyveno [[objektai/vietos/Zarasai]]

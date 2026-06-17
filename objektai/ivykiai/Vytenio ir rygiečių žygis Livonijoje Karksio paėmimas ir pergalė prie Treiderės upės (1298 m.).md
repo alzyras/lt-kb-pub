@@ -36,6 +36,14 @@ Nenurodyta
 - t-001
   global_id: t-185672
   teiginys: '1298 m. rygiečiams pažadėjus atlyginimą, Vytenis sutelkė kariuomenę ir pagrindines pajėgas atvedė prie Karksio.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata leidžia suformuluoti pilną faktinį sakinį be boilerplate.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rygiečiai|Rygiečiai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Vytenis|Vytenis]]; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1298 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata leidžia suformuluoti pilną faktinį sakinį be boilerplate.'
   pagrindžia:
     - c-001
 
@@ -43,6 +51,11 @@ Nenurodyta
 - t-002
   global_id: t-185673
   teiginys: 'Magistras Brunonas prie Treiderės upės užpuolė grobiu apsikrovusius Vytenio karius.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Sakinys gramatiškas, faktinis ir paremtas pateikta citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Brunonas|Brunonas]]; mentioned_place: Livonija'
   pagrindžia:
     - c-002
 
@@ -50,6 +63,11 @@ Nenurodyta
 - t-003
   global_id: t-185674
   teiginys: 'Prie Treiderės upės lietuviai atrėmė kryžiuočių puolimą, privertė juos bėgti, o mūšyje žuvo magistras Brunonas.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata palaiko aiškesnį įvykio rezultatą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Brunonas|Brunonas]]; mentioned_place: Viena'
   pagrindžia:
     - c-003
 
@@ -132,13 +150,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Brunonas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Vytenis]]
-- [[objektai/zodynas/komtūras]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/grupes/Rygiečiai]]

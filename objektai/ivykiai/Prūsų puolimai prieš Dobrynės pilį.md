@@ -46,6 +46,9 @@ Nenurodyta
 - t-001
   global_id: t-62902
   teiginys: 'Prūsai kelis kartus su gausybe ginkluotų vyrų puolė Dobrynės pilį ir privertė brolius vengti rodytis už pilies sienų.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pradinis teiginys turi perteklinę įžangą ir nuorodos liekaną, citata pagrindžia aiškų faktą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_place: Dobrynė; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
 
@@ -67,7 +70,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/netikėliai]]

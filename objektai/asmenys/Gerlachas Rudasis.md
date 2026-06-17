@@ -30,9 +30,12 @@ Dusburgietis teigia, kad kaip tik tuo metu iš Livonijos buvo atvykęs ir brolis
 - t-001
   global_id: t-60289
   teiginys: 'Gerlachas Rudasis atvyko iš Livonijos ir pranešė, kad magistras Folkvinas, daug brolių bei maldininkų krito kovoje.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Gerlacho Rudojo pranešimą.'
+  susije_objektai: 'location: Livonija; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/maldininkai|maldininkai]]; mentioned_place: Livonija'
+  semantiniai_rysiai: '[[objektai/asmenys/Gerlachas Rudasis|Gerlachas Rudasis]] keliavo į Livonija'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/zodynas/maldininkai maldininko įžadai.md#claim-t-70229|maldininkai / maldininko įžadai]]: Brolis Gerlachas Rudasis pranešė, kad Livonijoje kovoje žuvo magistras Folkvinas, daug brolių, maldininkų ir kitų žmonių.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -53,13 +56,4 @@ Dusburgietis teigia, kad kaip tik tuo metu iš Livonijos buvo atvykęs ir brolis
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/drabužis]]
-
-### Susiję objektai
-- [[objektai/daiktai/Drabužiai]]
-- [[objektai/daiktai/Kryžius]]
-- [[objektai/grupes/Teutonai]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/maldininkai]]
-- [[objektai/zodynas/maldininkai maldininko įžadai|maldininkai / maldininko įžadai]]
+- Gerlachas Rudasis keliavo_i [[objektai/vietos/Livonija]]

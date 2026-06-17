@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Lietuvos komunistų partija TSKP platformos pagrindu įkūrė slaptą Nacionalinio gelbėjimo komitetą, parengusį prezidentinio valdymo įvedimo Lietuvoje planą.
+Lietuvos komunistų partija (ant TSKP platformos) įkūrė slaptą Nacionalinio gelbėjimo komitetą, kuris parengė prezidentinio valdymo įvedimo Lietuvoje planą.
 
 ## Teiginiai
 
@@ -20,6 +20,8 @@ Lietuvos komunistų partija TSKP platformos pagrindu įkūrė slaptą Nacionalin
 - t-001
   global_id: t-41101
   teiginys: 'Lietuvos komunistų partija TSKP platformos pagrindu įkūrė slaptą Nacionalinio gelbėjimo komitetą, parengusį prezidentinio valdymo įvedimo Lietuvoje planą.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos komunistų partija|Lietuvos komunistų partija]]; mentioned_object: [[objektai/zodynas/konstitucijos|konstitucijos]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Michailas Gorbačiovas|Michailas Gorbačiovas]]; mentioned_place: Lietuva; mentioned_place: SSRS'
   pagrindžia:
     - c-001
 
@@ -40,10 +42,3 @@ Lietuvos komunistų partija TSKP platformos pagrindu įkūrė slaptą Nacionalin
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuvos komunistų partija]]
-- [[objektai/asmenys/Michailas Gorbačiovas]]
-- [[objektai/zodynas/konstitucijos]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

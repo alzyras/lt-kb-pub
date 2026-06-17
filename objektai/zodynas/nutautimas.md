@@ -14,35 +14,37 @@ tags:
 
 ## Santrauka
 
-Šapokos redaguotoje Lietuvos istorijoje teigta, kad SSRS lietuvių nutautimą spartino atskyrimas nuo tautos kamieno ir komunistinis auklėjimas. SSSR lietuvių nutautimas aiškintas jų atskyrimu nuo tautos kamieno ir auklėjimu komunistiškoje dvasioje. Jungtinėse Amerikos Valstybėse susibūrusiems lietuvių išeiviams grėsė rimtas nutautimo pavojus.
+Apskritai tautiška S.S.S.R-os lietuvių būklė gana liūdna: ten sparčiai eina jų nutautimas, nes jie atskirti nuo savo tautos ka- mieno ir auklėjami tautiškumui priešingoje — komunistiškoje dvasioje. nutautimas: daugumas jų susibūrė J. Amerikos Valstybėse, kur betgi lietuviams išeiviams jau gresia rimtas pavojus nutausti.
 
 ## Teiginiai
+
 <a id="claim-t-100285"></a>
 - t-001
   global_id: t-100285
-  teiginys: 'SSSR lietuvių nutautimas aiškintas jų atskyrimu nuo tautos kamieno ir auklėjimu komunistiškoje dvasioje.'
+  teiginys: 'Šapokos redaguotoje Lietuvos istorijoje teigta, kad SSRS lietuvių nutautimą spartino atskyrimas nuo tautos kamieno ir komunistinis auklėjimas.'
+  sudarymo_pagrindimas: 'Teiginys perteikia vertinamąją interpretaciją, todėl reikalinga šaltinio atribucija ir tvarkingesnė formuluotė.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/autoriai/A. Šapoka|A. Šapoka]]; mentioned_place: Lietuva; mentioned_place: SSRS'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+
 <a id="claim-t-100286"></a>
 - t-002
   global_id: t-100286
-  teiginys: 'Jungtinėse Amerikos Valstybėse susibūrusiems lietuvių išeiviams grėsė rimtas nutautimo pavojus.'
+  teiginys: 'SSSR lietuvių nutautimas aiškintas jų atskyrimu nuo tautos kamieno ir auklėjimu komunistiškoje dvasioje.'
+  sudarymo_pagrindimas: 'Pašalintos OCR klaidos ir teiginys sukonkretintas.'
   pagrindžia:
-    - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+    - c-001
+
 <a id="claim-t-100287"></a>
 - t-003
   global_id: t-100287
-  teiginys: 'Šapokos redaguotoje Lietuvos istorijoje teigta, kad SSRS lietuvių nutautimą spartino atskyrimas nuo tautos kamieno ir komunistinis auklėjimas.'
+  teiginys: 'Jungtinėse Amerikos Valstybėse susibūrusiems lietuvių išeiviams grėsė rimtas nutautimo pavojus.'
+  sudarymo_pagrindimas: 'Perrašyta taip, kad teiginys aiškiai būtų apie nutautimą ir liktų paremtas citata.'
   pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'SSSR lietuvių nutautimas aiškintas jų atskyrimu nuo tautos kamieno ir auklėjimu komunistiškoje dvasioje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -55,14 +57,13 @@ tags:
     dvasioje. Ten varomoji lietuviška kultūrinė veikla tėra tiktai
     priemonė komunizmui skleisti ir agituoti prieš tautišką nepri-
     klausomąją Lietuvą.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
+    - t-002
     - t-001
-    - t-003
+
 - c-002
   santrauka: 'Jungtinėse Amerikos Valstybėse susibūrusiems lietuvių išeiviams grėsė rimtas nutautimo pavojus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -76,14 +77,8 @@ tags:
     o prisišliejo prie kitų ir dirbo kitų naudai ir garbei. Daugumas
     jų susibūrė J. Amerikos Valstybėse, kur betgi lietuviams išeiviams
     jau gresia rimtas pavojus nutausti.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
+    - t-003

@@ -21,9 +21,12 @@ Lietuvos - 2-asis pėstininkų pulkas, 6-asis raitųjų šaulių pulkas, 12-asis
 - t-001
   global_id: t-38927
   teiginys: '2-asis pėstininkų pulkas buvo vienas iš Lietuvos sukilėlių dalinių, sudariusių sukilėlių kariuomenės pagrindą Panerių mūšyje.'
+  sudarymo_pagrindimas: 'Pirminis tekstas yra sąrašo fragmentas, bet citata pagrindžia aiškų faktinį sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Poznanės raitininkų eskadronai|Poznanės raitininkų eskadronai]]; mentioned_group: [[objektai/grupes/Trakų sukilėlių daliniai|Trakų sukilėlių daliniai]]; mentioned_object: [[objektai/zodynas/ulonai|ulonai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Paneriai; mentioned_place: Poznanė; mentioned_place: Trakai'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/daiktai/Mosin-Nagant šautuvas.md#claim-t-39209|Mosin-Nagant šautuvas]]: Po 1877-1878 m. Rusijos-Turkijos karo Rusijos karinė vadovybė nurodė sukurti naujo tipo ginklą, kuriuo tapo Mosin-Nagant šautuvas.
+- susijęs iš [[objektai/daiktai/Rusiškas 1870 m. modelio šautuvas Berdan Nr. 2.md#claim-t-40758|Rusiškas 1870 m. modelio šautuvas Berdan Nr. 2]]: Pirmojo pasaulinio karo metu, pradėjus trūkti ginklų, buvo naudojami ir senieji Berdan šautuvai.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -46,14 +49,3 @@ Lietuvos - 2-asis pėstininkų pulkas, 6-asis raitųjų šaulių pulkas, 12-asis
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Poznanės raitininkų eskadronai]]
-- [[objektai/grupes/Trakų sukilėlių daliniai]]
-- [[objektai/zodynas/ulonai]]
-- [[objektai/daiktai/Mosin-Nagant šautuvas]]
-- [[objektai/daiktai/Rusiškas 1870 m. modelio šautuvas Berdan Nr. 2]]
-- [[objektai/grupes/12-asis ulonų pulkas]]
-- [[objektai/grupes/7-asis pėstininkų pulkas]]
-- [[objektai/grupes/Kališo raitelių dalinys]]

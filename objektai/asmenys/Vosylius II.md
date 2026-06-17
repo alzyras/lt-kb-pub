@@ -31,6 +31,10 @@ Bet dar Minske jį sutiko duktė Sofija, Maskvos kunigaikštienė su nepilnameč
 - t-001
   global_id: t-35334
   teiginys: 'Nuo 1425 m. Vytauto globojamas jo anūkas Vosylius II valdė Didžiąją Maskvos kunigaikštiją.'
+  susije_objektai: 'territory: Maskva; territory: Odojevas; territory: Pskovas; mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_person: [[objektai/asmenys/Vosylius|Vosylius]]; mentioned_place: Maskva; mentioned_place: Odojevas; mentioned_place: Pskovas'
+  semantiniai_rysiai: '[[objektai/asmenys/Vosylius II|Vosylius II]] valdė teritoriją Maskva; [[objektai/asmenys/Vosylius II|Vosylius II]] valdė teritoriją Odojevas; [[objektai/asmenys/Vosylius II|Vosylius II]] valdė teritoriją Pskovas'
+  temporaliniai_duomenys: 'valdymo pradžia: po 1425 m.; valdymo pradžia: 1425 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Vosylius II valdė teritoriją Maskva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Vosylius II valdė teritoriją Odojevas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Vosylius II valdė teritoriją Pskovas“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -38,6 +42,7 @@ Bet dar Minske jį sutiko duktė Sofija, Maskvos kunigaikštienė su nepilnameč
 - t-002
   global_id: t-35335
   teiginys: 'Vosylius II, Vytauto anūkas ir didysis Maskvos kunigaikštis, buvo pakviestas į iškilmes kartu su kitais valdovais ir didikais.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_person: [[objektai/asmenys/Vosylius|Vosylius]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Odojevas; mentioned_place: Rusija'
   pagrindžia:
     - c-002
 
@@ -78,8 +83,6 @@ Bet dar Minske jį sutiko duktė Sofija, Maskvos kunigaikštienė su nepilnameč
     - t-002
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Totoriai]]
-- [[objektai/zodynas/chanas]]
-- [[objektai/asmenys/Vosylius]]
-- [[objektai/zodynas/kunigaikštija]]
+- Vosylius II valde_teritorija [[objektai/vietos/Maskva]]
+- Vosylius II valde_teritorija [[objektai/vietos/Odojevas]]
+- Vosylius II valde_teritorija [[objektai/vietos/Pskovas]]

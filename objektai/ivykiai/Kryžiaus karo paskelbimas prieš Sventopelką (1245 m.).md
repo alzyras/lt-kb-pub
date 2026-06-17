@@ -45,6 +45,12 @@ Nenurodyta
 - t-001
   global_id: t-62841
   teiginys: '1245 m. apaštališkojo sosto legatas paskelbė kryžiaus karą prieš Sventopelką ir įsakė jį skelbti įvairiose karalystėse bei provincijose.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys gramatiškas ir tiksliai atitinka citatą apie legato paskelbtą kryžiaus karą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Prūsija'
+  temporaliniai_duomenys: 'įvykio data: 1245 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys gramatiškas ir tiksliai atitinka citatą apie legato paskelbtą kryžiaus karą.'
   pagrindžia:
     - c-001
     - c-002
@@ -85,8 +91,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Kryžius]]
-- [[objektai/asmenys/Sventopelkas]]

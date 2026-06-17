@@ -3,6 +3,10 @@ tipas: ivykis
 pavadinimas: 'Vitebsko karo lauko seimas (seimas)'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1562 m.'
+date_start: '1562'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -10,6 +14,8 @@ tags:
   - karas
   - seimas
   - unija
+amziai:
+  - 'XVI'
 ---
 # Vitebsko karo lauko seimas (seimas)
 
@@ -39,9 +45,16 @@ Nenurodyta
 - t-001
   global_id: t-20553
   teiginys: 'Vitebsko karo lauko seimas pasiuntė Žemaičių seniūną Joną Jeronimaitį Chodkevičių į Lenkiją prašyti karinės pagalbos ir unijos.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Vitebsko karo lauko seimo veiksmą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vitebskas'
+  temporaliniai_duomenys: 'įvykio data: 1562 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie Vitebsko karo lauko seimo veiksmą.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Jonas Jeronimaitis Chodkevičius.md#claim-t-101650|Jonas Jeronimaitis Chodkevičius]]: 1562 m. Vitebsko karo lauko seimas siuntė Žemaičių seniūną Joną Jeronimaitį Chodkevičių į Lenkiją prašyti karinės pagalbos ir unijos.
+- susijęs iš Liublino unijos aktas (1569 m.): 1562 m. Vitebsko karo lauko seimas pasiuntė Joną Jeronimaitį Chodkevičių į Lenkiją prašyti karinės pagalbos ir unijos.
+- susijęs iš Vitebskas: 1562 m. Vitebsko karo lauko seimas siuntė Joną Jeronimaitį Chodkevičių į Lenkiją prašyti karinės pagalbos ir unijos.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -56,12 +69,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Chodkevičiai]]
-- [[objektai/zodynas/kunigaikštija]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/zodynas/seniūnas]]
-- [[objektai/zodynas/unija]]
-- [[objektai/asmenys/Jonas Jeronimaitis Chodkevičius]]

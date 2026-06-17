@@ -43,6 +43,9 @@ Nenurodyta
 - t-001
   global_id: t-62110
   teiginys: 'Lietuviai prieš išpuolį prieš Ragainės brolius metė burtus, kurie nežadėjo sėkmės, todėl tuojau pasuko atgal.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pašalintas antraštės triukšmas ir paliktas citatos palaikomas papročio faktas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Aukaimis; mentioned_place: Ragainė'
   pagrindžia:
     - c-001
 
@@ -63,9 +66,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/paprociai/Burtų traukimas prieš svarbesnius darbus]]
-- [[objektai/ivykiai/Ragainės brolių išpuolis prieš 36 lietuvius (1290 m. birželio 25 d.)]]

@@ -20,6 +20,8 @@ tags:
 - t-001
   global_id: t-39019
   teiginys: '14-ame kvartale stovėjęs Vytauto būrys nebuvo apsuptas ir smogė rusams į nugarą.'
+  sudarymo_pagrindimas: 'Citata remia informatyvesnį sakinį apie būrio veiksmą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]'
   pagrindžia:
     - c-001
 
@@ -39,7 +41,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Rusai]]

@@ -26,6 +26,11 @@ amziai:
 - t-001
   global_id: t-31866
   teiginys: 'R. Jablonskytė-Rimantienė straipsnį „O drevuejšich kul’turnych oblastjach na territorii Litvy“ paskelbė 1955 m. žurnalo „Sovetskaja Etnografija“ 3 tome.'
+  sudarymo_pagrindimas: 'Reikia pataisyti leidinio apibūdinimą ir pašalinti OCR triukšmą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_person: [[objektai/asmenys/Marija|Marija]]; mentioned_person: [[objektai/autoriai/R. Jablonskytė-Rimantienė|R. Jablonskytė-Rimantienė]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Maskva; mentioned_place: Milanas; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1955 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia pataisyti leidinio apibūdinimą ir pašalinti OCR triukšmą.'
   pagrindžia:
     - c-001
 

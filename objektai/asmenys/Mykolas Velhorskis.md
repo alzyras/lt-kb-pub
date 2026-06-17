@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Iš Lenkijos atsiųstas generolas leitenantas Mykolas Velhorskis pakeitė ankstesnį Lietuvos sukilėlių vadą. Jokūbą Jasinskį Lietuvos sukilėlių vado pareigose pakeitęs lenkų generolas Mykolas Velhorskis nesugebėjo tinkamai vadovauti.
+Jį pakeitė iš Lenkijos atsiųstas generolas leitenantas Mykolas Velhorskis. Vietoje Jokūbo Jasinskio Lietuvos sukilėlių vadu paskirtas lenkų generolas Michalas Velhorskis nesugebėjo tinkamai vadovauti.
 
 ## Teiginiai
 
@@ -23,6 +23,7 @@ Iš Lenkijos atsiųstas generolas leitenantas Mykolas Velhorskis pakeitė ankste
 - t-001
   global_id: t-40363
   teiginys: 'Iš Lenkijos atsiųstas generolas leitenantas Mykolas Velhorskis pakeitė ankstesnį Lietuvos sukilėlių vadą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_person: [[objektai/asmenys/Tadas Kosciuška|Tadas Kosciuška]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -30,9 +31,11 @@ Iš Lenkijos atsiųstas generolas leitenantas Mykolas Velhorskis pakeitė ankste
 - t-002
   global_id: t-40364
   teiginys: 'Jokūbą Jasinskį Lietuvos sukilėlių vado pareigose pakeitęs lenkų generolas Mykolas Velhorskis nesugebėjo tinkamai vadovauti.'
+  sudarymo_pagrindimas: 'Reikia sulietuvinti asmenvardį pagal antraštę ir pašalinti gremėzdišką sakinio pradžią.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_person: [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)|Jokūbas (vėliau Urbonas IV)]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Rusija'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/ivykiai/Jokūbo Jasinskio pašalinimas iš Lietuvos sukilėlių vado pareigų (1794 m. gegužės 4 d.).md#claim-t-41273|Jokūbo Jasinskio pašalinimas iš Lietuvos sukilėlių vado pareigų (1794 m. gegužės 4 d.)]]: 1794 m. gegužės 4 d. Tadas Kosciuška pašalino Jokūbą Jasinskį iš Lietuvos sukilėlių vado pareigų.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -91,11 +94,3 @@ Iš Lenkijos atsiųstas generolas leitenantas Mykolas Velhorskis pakeitė ankste
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Artilerija]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/ivykiai/Jokūbo Jasinskio pašalinimas iš Lietuvos sukilėlių vado pareigų (1794 m. gegužės 4 d.)]]

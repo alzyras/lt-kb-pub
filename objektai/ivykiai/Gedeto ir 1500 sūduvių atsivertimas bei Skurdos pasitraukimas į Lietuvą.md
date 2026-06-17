@@ -20,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-Kimenavos sūduvių vadas Gedetas su šeimyna ir 1500 vyrų bei moterų pasitraukė pas Ordino brolius ir priėmė krikštą. Kitos Sūduvos dalies vadas Skurda su savo žmonėmis pasitraukė į Lietuvos žemę. Gedetas su savo namais, šeimyna ir 1500 sūduvių pasitraukė pas brolius ir priėmė krikštą, o Skurda su žmonėmis išvyko į Lietuvą.
+Dusburgietis teigia, kad kai Gedetas515, kilmingas ir atkaklus vyras, turėjęs didelę galią bei daug turtų, Kimenavos sūduvių vadas, jau nebegalėjo atsispirti dažniems bei smarkiems brolių antpuoliams, su savo namais bei šeimyna ir su tūkstančiu penkiais šimtais vyrų bei moterų jis. Dusburgietis teigia, kad tačiau Skurdą516, kitos Sūduvos dalies vadas, paniekinęs tikėjimo malones, patraukė su savo žmonėmis į Lietuvos žemę, ir šitaip Sūduvos žemė po šiai dienai lieka negyvenama517.
 
 ## Laikotarpis ir datos
 
@@ -44,6 +44,8 @@ Nenurodyta
 - t-001
   global_id: t-89365
   teiginys: 'Kimenavos sūduvių vadas Gedetas su šeimyna ir 1500 vyrų bei moterų pasitraukė pas Ordino brolius ir priėmė krikštą.'
+  sudarymo_pagrindimas: 'Sakinys paremtas citata, bet patikslintas neaiškus pasakymas „pas brolius“.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_person: [[objektai/asmenys/Gedetas|Gedetas]]; mentioned_place: Kimenava; mentioned_place: Lietuva; mentioned_place: Sūduva'
   pagrindžia:
     - c-001
 
@@ -51,6 +53,8 @@ Nenurodyta
 - t-002
   global_id: t-89366
   teiginys: 'Kitos Sūduvos dalies vadas Skurda su savo žmonėmis pasitraukė į Lietuvos žemę.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_person: [[objektai/asmenys/Skurda|Skurda]]; mentioned_place: Kimenava; mentioned_place: Lietuva; mentioned_place: Sūduva'
   pagrindžia:
     - c-001
 
@@ -58,6 +62,8 @@ Nenurodyta
 - t-003
   global_id: t-89367
   teiginys: 'Gedetas su savo namais, šeimyna ir 1500 sūduvių pasitraukė pas brolius ir priėmė krikštą, o Skurda su žmonėmis išvyko į Lietuvą.'
+  sudarymo_pagrindimas: 'Citata remia Gedeto atsivertimą ir Skurdos pasitraukimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_person: [[objektai/asmenys/Gedetas|Gedetas]]; mentioned_person: [[objektai/asmenys/Skurda|Skurda]]; mentioned_place: Kimenava; mentioned_place: Lietuva; mentioned_place: Sūduva'
   pagrindžia:
     - c-001
 
@@ -84,10 +90,3 @@ Nenurodyta
     - t-003
     - t-001
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Sūduviai]]
-- [[objektai/asmenys/Gedetas]]
-- [[objektai/asmenys/Skurda]]
-- [[objektai/paprociai/Kilmingų sūduvių atvykimas pas brolius su namais bei šeimyna priimti krikšto|Kilmingų sūduvių atvykimas pas brolius su namais bei šeimyna priimti krikšto (krikštas)]]

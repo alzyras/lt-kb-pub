@@ -4,6 +4,11 @@ pavadinimas: 'Vyriausiasis Lietuvos tribunolas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+datos:
+  - '1578 m.'
+  - '1785 m.'
+date_start: '1578'
+date_end: '1785'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -11,30 +16,45 @@ tags:
   - grupe
   - kunigas
   - miestas
+amziai:
+  - 'XVI'
+  - 'XVIII'
 ---
 # Vyriausiasis Lietuvos tribunolas
 
 ## Santrauka
 
-Vyriausiajame Lietuvos tribunole pirmininkaudavo iš deputatų renkamas tribunolo maršalka. 1785 m. kovo 14 d. Vyriausiasis Lietuvos tribunolas Vilniuje pavedė Pabaisko bažnyčios fundacijos privilegiją įrašyti į Tribunolo viešąsias knygas. Steponui Batorui 1578 m. Lenkijoje įkūrus bajorijos renkamą tribunolą, netrukus toks tribunolas buvo įsteigtas ir Lietuvoje.
+Bet pagaliau, kai Steponas Batoras, ruošdamasis į karą prieš Maskvą (1578 m.), atsisakė nuo savo teismų ir įkūrė pačios bajorijos renkamą tribunolą Lenkijoje, tai netrukus tas pats buvo padaryta ir Lietuvoje. Vyriausiojo Lietuvos tribunolo reikalas buvo svarstytas net keliuose atskiruose Lietuvos seimuose, ir galutinai jis buvo įkurtas 1581 m. Su mažais pakeitimais jis toks pat išliko iki pat nepriklausomybės pabaigos. Tribunole pirmininkaudavo iš tų pačių deputatų renkamas pirmininkas, vadinamas tribunolo maršalka.
 
 ## Teiginiai
+
+<a id="claim-t-113374"></a>
+- t-001
+  global_id: t-113374
+  teiginys: '1785 m. kovo 14 d. Vyriausiasis Lietuvos tribunolas Vilniuje pavedė Pabaisko bažnyčios fundacijos privilegiją įrašyti į Tribunolo viešąsias knygas.'
+  sudarymo_pagrindimas: 'Citata remia konkretų Tribunolo veiksmą, pašalintas priedų ir puslapių triukšmas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/fundacija|fundacija]]; mentioned_object: [[objektai/zodynas/globėjas|globėjas]]; mentioned_object: [[objektai/zodynas/klebonija|klebonija]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_object: [[objektai/zodynas/pavietas|pavietas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/tribunolas|tribunolas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Mozyrius; mentioned_place: Ukmergė; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1785 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata remia konkretų Tribunolo veiksmą, pašalintas priedų ir puslapių triukšmas.'
+  pagrindžia:
+    - c-001
+
 <a id="claim-t-113375"></a>
 - t-002
   global_id: t-113375
-  teiginys: '1785 m. kovo 14 d. Vyriausiasis Lietuvos tribunolas Vilniuje pavedė Pabaisko bažnyčios fundacijos privilegiją įrašyti į Tribunolo viešąsias knygas.'
+  teiginys: 'Steponui Batorui 1578 m. Lenkijoje įkūrus bajorijos renkamą tribunolą, netrukus toks tribunolas buvo įsteigtas ir Lietuvoje.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/tribunolas|tribunolas]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Maskva'
+  temporaliniai_duomenys: 'įvykio data: 1578 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
-
-- t-003
-  teiginys: 'Steponui Batorui 1578 m. Lenkijoje įkūrus bajorijos renkamą tribunolą, netrukus toks tribunolas buvo įsteigtas ir Lietuvoje.'
-  pagrindžia:
-    - c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-
+- susijęs iš [[objektai/ivykiai/Vyriausiojo Lietuvos tribunolo įkūrimas (1581 m.).md#claim-t-66984|Vyriausiojo Lietuvos tribunolo įkūrimas (1581 m.)]]: Vyriausiasis Lietuvos tribunolas buvo svarstytas keliuose Lietuvos seimuose ir galutinai įkurtas 1581 m.
+- susijęs iš [[objektai/paprociai/Vyriausiojo Lietuvos tribunolo teisėjų rinkimas seimeliuose.md#claim-t-02047|Vyriausiojo Lietuvos tribunolo teisėjų rinkimas seimeliuose]]: Vyriausiasis Lietuvos tribunolas buvo galutinai įkurtas 1581 m., o jo teisėjais buvo visų seimelių renkami bajorijos atstovai.
+- susijęs iš [[objektai/zodynas/tribunolas.md#claim-t-82098|tribunolas]]: Vyriausiasis Lietuvos tribunolas buvo galutinai įkurtas 1581 m.
 ## Reikšmingi paminėjimai
-- c-002
+
+- c-001
   santrauka: '1785 m. kovo 14 d. Vyriausiasis Lietuvos tribunolas Vilniuje pavedė Pabaisko bažnyčios fundacijos privilegiją įrašyti į Tribunolo viešąsias knygas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -82,9 +102,9 @@ Vyriausiajame Lietuvos tribunole pirmininkaudavo iš deputatų renkamas tribunol
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Steponui Batorui 1578 m. Lenkijoje įkūrus bajorijos renkamą tribunolą, netrukus toks tribunolas buvo įsteigtas ir Lietuvoje.'
+    - t-001
+
+- c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Be to, ji reika-
@@ -95,25 +115,8 @@ Vyriausiajame Lietuvos tribunole pirmininkaudavo iš deputatų renkamas tribunol
     atsisakė nuo savo teismų ir įkūrė pačios bajorijos renkamą tri-
     bunolą Lenkijoje, tai netrukus tas pats buvo padaryta ir
     Lietuvoje.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/paprociai/Vyriausiojo Lietuvos tribunolo teisėjų rinkimas seimeliuose]]
-- [[objektai/zodynas/kunigas]]
-- [[objektai/zodynas/pavietas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/tribunolas]]
-- [[objektai/asmenys/Steponas]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/zodynas/didysis kunigaikštis]]
-- [[objektai/zodynas/fundacija]]
-- [[objektai/zodynas/globėjas]]
-- [[objektai/zodynas/klebonija]]
-- [[objektai/ivykiai/Vyriausiojo Lietuvos tribunolo įkūrimas (1581 m.)]]
+    - t-002

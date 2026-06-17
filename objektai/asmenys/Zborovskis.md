@@ -18,6 +18,11 @@ Kunigaikščių dukterį išsivežus Dimitrui, jos motina maldavo lenkų didikus
 - t-001
   global_id: t-186267
   teiginys: 'Kunigaikščių dukterį išsivežus Dimitrui, jos motina maldavo lenkų didikus užtarti, ypač Kališo vaivadą Zborovskį.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata palaiko aiškesnį sakinį be OCR klaidų ir perteklinės atribucijos.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -52,9 +57,3 @@ Kunigaikščių dukterį išsivežus Dimitrui, jos motina maldavo lenkų didikus
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/vaivada]]

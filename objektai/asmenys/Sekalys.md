@@ -26,6 +26,14 @@ Kunigaikščio Sekalio vedami polovcai keliais iš eilės antpuoliais smarkiai n
 - t-001
   global_id: t-186251
   teiginys: 'Kunigaikščio Sekalio vedami polovcai keliais iš eilės antpuoliais smarkiai nusiaubė Rusią.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Sekalį ir atitinka citatos turinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Gimbutas|Gimbutas]]; mentioned_person: [[objektai/asmenys/Kernius|Kernius]]; mentioned_place: Dauguva; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_place: Polockas'
+  temporaliniai_duomenys: 'įvykio data: 1058 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie Sekalį ir atitinka citatos turinį.'
   pagrindžia:
     - c-001
 
@@ -70,8 +78,3 @@ Kunigaikščio Sekalio vedami polovcai keliais iš eilės antpuoliais smarkiai n
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Rusai]]

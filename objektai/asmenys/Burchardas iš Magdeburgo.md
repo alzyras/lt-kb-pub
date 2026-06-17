@@ -30,6 +30,8 @@ Dusburgietis teigia, kad tačiau kąi į Kulmo pilį atvyko nemažos kariuomenė
 - t-001
   global_id: t-60096
   teiginys: 'Burchardas iš Magdeburgo buvo Magdeburgo burggrafas ir kilo iš tos pačios giminės kaip Brunonas iš Kverfurto.'
+  sudarymo_pagrindimas: 'Citata palaiko biografinį faktą, pašalintas išnašos triukšmas.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Brunonas|Brunonas]]; mentioned_person: [[objektai/asmenys/Brunonas iš Kverfurto|Brunonas iš Kverfurto]]; mentioned_place: Prūsai'
   pagrindžia:
     - c-002
 
@@ -37,6 +39,8 @@ Dusburgietis teigia, kad tačiau kąi į Kulmo pilį atvyko nemažos kariuomenė
 - t-002
   global_id: t-60097
   teiginys: 'Burchardas iš Magdeburgo su magistru ir broliais perkėlė Marienverderio pilį iš Kvedino salos į Pamedės valsčių.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nusako Burchardo veiksmą ir pilies perkėlimo kryptį.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_place: Kulmas; mentioned_place: Kulmo žemė; mentioned_place: Marienverderis; mentioned_place: Pamedė; mentioned_place: Saksonija; mentioned_place: Salos; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -75,12 +79,3 @@ Dusburgietis teigia, kad tačiau kąi į Kulmo pilį atvyko nemažos kariuomenė
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Brunonas]]
-- [[objektai/daiktai/Pilys]]
-- [[objektai/zodynas/ginklanešiai]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/netikėliai]]
-- [[objektai/asmenys/Brunonas iš Kverfurto]]

@@ -12,14 +12,17 @@ tags:
 
 ## Santrauka
 
-Kunigaikštytės Sofijos palyda iš Gdansko laivais plaukė per jūrą ir pasiekė Pernu bei Pskovą. Vytautas išleido kunigaikštytę Sofiją iš Marienburgo, o jos palyda iš Gdansko laivais pasiekė Pernu ir Pskovą.
+Sofijos palyda per jūrą pasiekė Pernu.
 
 ## Teiginiai
 
 <a id="claim-t-187285"></a>
 - t-001
   global_id: t-187285
-  teiginys: 'Kunigaikštytės Sofijos palyda iš Gdansko laivais plaukė per jūrą ir pasiekė Pernu bei Pskovą.'
+  teiginys: 'Kunigaikštytė Sofija su palyda iš Gdansko laivais per jūrą pasiekė Pernu ir Pskovą.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Sakinys sutrumpintas ir aiškiau susietas su Sofija kaip objektu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Sofija|Sofija]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Marienburgas; mentioned_place: Pskovas'
   pagrindžia:
     - c-001
 
@@ -27,13 +30,19 @@ Kunigaikštytės Sofijos palyda iš Gdansko laivais plaukė per jūrą ir pasiek
 - t-002
   global_id: t-187632
   teiginys: 'Vytautas išleido kunigaikštytę Sofiją iš Marienburgo, o jos palyda iš Gdansko laivais pasiekė Pernu ir Pskovą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys aiškus, gramatiškas ir paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pskoviečiai|Pskoviečiai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Marienburgas; mentioned_place: Pskovas'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/ivykiai/Treniotos žygis į Mazoviją (1264 m.).md#claim-t-185649|Treniotos žygis į Mazoviją (1264 m.)]]: Treniota, paėmęs valdžią, pradėjo niokoti Mazoviją ir sudegino kaimus ligi pat Červinsko.
+- susijęs iš Pskovas: Vytauto dukterį Sofiją lydėję asmenys iš Gdansko laivais per Pernu pasiekė Pskovą.
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kunigaikštytės Sofijos palyda iš Gdansko laivais plaukė per jūrą ir pasiekė Pernu bei Pskovą.'
+  santrauka: 'Kunigaikštytė Sofija su palyda iš Gdansko laivais per jūrą pasiekė Pernu ir Pskovą.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     Didysis kunigaikštis Vytautas, paėmęs Kreivąją pi­

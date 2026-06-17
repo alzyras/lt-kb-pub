@@ -20,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-Partizanai be paliovos apšaudė valtimis plaukiančius enkavėdistus, mūšis tęsėsi visą savaitę, o Dzūkų būriui įsakyta trauktis į Palių pakraštį. 1945 m. rugpjūčio 18 d. Alytaus NKVD slaptame pranešime J. Bartašiūnui rašyta, kad operacijos metu nukauta 17 partizanų. Alytaus NKVD 1945 m. rugpjūčio 18 d. slaptame pranešime rašyta, kad per Žuvinto Palių operaciją nukauta 17 partizanų.
+NKVD apsupo Žuvinto ežerą ir Palias, partizanai slėpėsi salose ir pelkėse, o mūšis tęsėsi visą savaitę. Partizanai be paliovos apšaudė valtimis plaukiančius enkavėdistus, mūšis tęsėsi visą savaitę, o Dzūkų būriui įsakyta trauktis į Palių pakraštį Partizanai slapstėsi Žuvinto ežero salose, o Juozas Kasparavičius-Strausas apgaule privertė rusų valtis artintis.
 
 ## Laikotarpis ir datos
 
@@ -44,6 +44,8 @@ Nenurodyta
 - t-001
   global_id: t-71779
   teiginys: 'Partizanai be paliovos apšaudė valtimis plaukiančius enkavėdistus, mūšis tęsėsi visą savaitę, o Dzūkų būriui įsakyta trauktis į Palių pakraštį.'
+  susije_objektai: 'event: [[objektai/ivykiai/Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)|Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)]]; mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Valtys|Valtys]]; mentioned_place: Buktos (Žaliosios) miškas; mentioned_place: Žuvintas; mentioned_place: Žuvinto ežeras'
+  semantiniai_rysiai: '[[objektai/grupes/NKVD|NKVD]] dalyvavo mūšyje [[objektai/ivykiai/Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)|Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)]]; [[objektai/grupes/Rusai|Rusai]] dalyvavo mūšyje [[objektai/ivykiai/Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)|Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)]]'
   pagrindžia:
     - c-001
 
@@ -51,6 +53,11 @@ Nenurodyta
 - t-002
   global_id: t-71780
   teiginys: '1945 m. rugpjūčio 18 d. Alytaus NKVD slaptame pranešime J. Bartašiūnui rašyta, kad operacijos metu nukauta 17 partizanų.'
+  sudarymo_pagrindimas: 'Sakinys aiškiai nurodo šaltinyje minimą pranešimą ir jo turinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_place: Alytus'
+  temporaliniai_duomenys: 'įvykio data: 1945 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Sakinys aiškiai nurodo šaltinyje minimą pranešimą ir jo turinį.'
   pagrindžia:
     - c-002
 
@@ -58,6 +65,11 @@ Nenurodyta
 - t-003
   global_id: t-71781
   teiginys: 'Alytaus NKVD 1945 m. rugpjūčio 18 d. slaptame pranešime rašyta, kad per Žuvinto Palių operaciją nukauta 17 partizanų.'
+  sudarymo_pagrindimas: 'Sakinys papildytas data ir objektu, remiantis citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_place: Alytus; mentioned_place: Žuvintas'
+  temporaliniai_duomenys: 'įvykio data: 1945 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Sakinys papildytas data ir objektu, remiantis citata.'
   pagrindžia:
     - c-002
 
@@ -65,6 +77,11 @@ Nenurodyta
 - t-004
   global_id: t-71782
   teiginys: 'Alytaus NKVD 1945 m. rugpjūčio 18 d. slaptame pranešime J. Bartašiūnui rašyta, kad per operaciją nukauta 17 partizanų.'
+  sudarymo_pagrindimas: 'Sakinys aiškus, gramatiškas ir paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_place: Alytus'
+  temporaliniai_duomenys: 'įvykio data: 1945 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Sakinys aiškus, gramatiškas ir paremtas citata.'
   pagrindžia:
     - c-002
 
@@ -72,9 +89,13 @@ Nenurodyta
 - t-005
   global_id: t-71783
   teiginys: 'Žuvinto Palių kautynėse enkavėdistai, pritrūkę valčių, kluonų durimis kaip plaustais plaukė per ežerą.'
+  sudarymo_pagrindimas: 'Perrašyta susiejant veiksmą su kautynių objektu ir sutrumpinant sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Valtys|Valtys]]; mentioned_place: Buktos (Žaliosios) miškas; mentioned_place: Žuvintas; mentioned_place: Žuvinto ežeras'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/autoriai/Dalius Žygelis.md#claim-t-40613|Dalius Žygelis]]: Dalius Žygelis buvo kelių tekstų apie 1945–1949 m. Lietuvos partizanų kautynes bendraautoris.
+- susijęs iš [[objektai/autoriai/Ričardas Čekutis.md#claim-t-40672|Ričardas Čekutis]]: Ričardas Čekutis kartu su Daliumi Žygeliu parašė tekstus apie 1945 m. Kiauneliškių, Kalniškės ir Merkinės kautynes.
+- susijęs iš [[objektai/grupes/Varniškių būrys.md#claim-t-41192|Varniškių būrys]]: 1945 m. balandį Varniškių būrio partizanai veikė Paliose.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -144,10 +165,5 @@ Nenurodyta
     - t-004
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/NKVD]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/daiktai/Valtys]]
-- [[objektai/autoriai/Dalius Žygelis]]
-- [[objektai/autoriai/Ričardas Čekutis]]
-- [[objektai/grupes/Varniškių būrys]]
+- [[objektai/grupes/NKVD]] dalyvavo_musyje Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)
+- [[objektai/grupes/Rusai]] dalyvavo_musyje Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)

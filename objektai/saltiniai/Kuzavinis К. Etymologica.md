@@ -26,6 +26,11 @@ Dusburgietis teigia, kad kuzavinis К.
 - t-001
   global_id: t-61114
   teiginys: 'K. Kuzavinio „Etymologica“ paskelbta 1966 m. žurnalo „Baltistica“ 1 tomo 2 numeryje, p. 177–184.'
+  sudarymo_pagrindimas: 'Citata leidžia suformuluoti pilną bibliografinį faktą apie šaltinį.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
+  temporaliniai_duomenys: 'įvykio data: 1966 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata leidžia suformuluoti pilną bibliografinį faktą apie šaltinį.'
   pagrindžia:
     - c-001
 

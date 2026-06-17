@@ -31,6 +31,9 @@ Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po Makro raporto išvyk
 - t-001
   global_id: t-35304
   teiginys: '1392 m. Vaclovas Čekietis kartu su Zigmantu Vengriečiu ir Ordinu buvo tarp mėgintos sudaryti koalicijos prieš Lenkiją vyriausių vadų.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vaclovas|Vaclovas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Lenkija'
+  temporaliniai_duomenys: 'įvykio data: 1343 m.; įvykio data: 1392 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 
@@ -38,6 +41,8 @@ Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po Makro raporto išvyk
 - t-002
   global_id: t-35305
   teiginys: 'Vaclovas Čekietis buvo Čekijos karalius ir Zigmanto brolis, pas kurį Henrikas von Plauenas vyko prašyti pagalbos prieš Vytautą.'
+  susije_objektai: 'territory: Dubysa; territory: Europa; territory: Nemunas; territory: Prancūzija; territory: Vokietija; territory: Čekija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_object: [[objektai/zodynas/elektorius|elektorius]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Henrikas von Plauenas|Henrikas von Plauenas]]; mentioned_person: [[objektai/asmenys/Vaclovas|Vaclovas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Dubysa; mentioned_place: Europa; mentioned_place: Nemunas; mentioned_place: Prancūzija; mentioned_place: Vokietija; mentioned_place: Čekija'
+  semantiniai_rysiai: '[[objektai/asmenys/Vaclovas Čekietis|Vaclovas Čekietis]] buvo valdovas Dubysa; [[objektai/asmenys/Vaclovas Čekietis|Vaclovas Čekietis]] buvo valdovas Europa; [[objektai/asmenys/Vaclovas Čekietis|Vaclovas Čekietis]] buvo valdovas Nemunas; [[objektai/asmenys/Vaclovas Čekietis|Vaclovas Čekietis]] buvo valdovas Prancūzija; [[objektai/asmenys/Vaclovas Čekietis|Vaclovas Čekietis]] buvo valdovas Vokietija; [[objektai/asmenys/Vaclovas Čekietis|Vaclovas Čekietis]] buvo valdovas Čekija'
   pagrindžia:
     - c-001
 
@@ -45,6 +50,11 @@ Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po Makro raporto išvyk
 - t-003
   global_id: t-184288
   teiginys: 'Ordino magistras Henrikas von Plauenas po Makro raporto vyko pas Čekijos karalių Vaclovą prašyti pagalbos prieš Vytautą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir citata patvirtina Vaclovo paminėtą vaidmenį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/elektorius|elektorius]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Henrikas von Plauenas|Henrikas von Plauenas]]; mentioned_place: Lietuva; mentioned_place: Prancūzija; mentioned_place: Vokietija; mentioned_place: Čekija'
   pagrindžia:
     - c-003
 
@@ -100,13 +110,9 @@ Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po Makro raporto išvyk
     - t-003
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/Henrikas]]
-- [[objektai/asmenys/Henrikas von Plauenas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Slavai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/elektorius]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/asmenys/Vaclovas]]
-- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
+- Vaclovas Čekietis buvo_valdovas [[objektai/vietos/Dubysa]]
+- Vaclovas Čekietis buvo_valdovas [[objektai/vietos/Europa]]
+- Vaclovas Čekietis buvo_valdovas [[objektai/vietos/Nemunas]]
+- Vaclovas Čekietis buvo_valdovas [[objektai/vietos/Prancūzija]]
+- Vaclovas Čekietis buvo_valdovas [[objektai/vietos/Vokietija]]
+- Vaclovas Čekietis buvo_valdovas [[objektai/vietos/Čekija]]

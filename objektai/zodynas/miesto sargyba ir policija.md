@@ -29,9 +29,14 @@ Atrodo, kad kiekvienas jų miestui ginti privalėjo tu­ rėti šarvus, muškiet
 - t-001
   global_id: t-86596
   teiginys: '1522 m. karaliaus Žygimanto įsakymu miesto sargyba ir policija buvo sugrąžintos magistratui, kuris turėjo išlaikyti 24 sargybinius.'
+  sudarymo_pagrindimas: 'Perrašyta, kad veiksnys ir tarinys derėtų ir sakinys būtų sklandesnis.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Patrankos|Patrankos]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Krokuva'
+  temporaliniai_duomenys: 'įvykio data: 1522 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Perrašyta, kad veiksnys ir tarinys derėtų ir sakinys būtų sklandesnis.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/grupes/Vilniaus magistratas.md#claim-t-172819|Vilniaus magistratas]]: Karaliaus Žygimanto 1522 m. įsakymu miesto sargyba ir policija buvo sugrąžinta Vilniaus magistratui.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -53,11 +58,3 @@ Atrodo, kad kiekvienas jų miestui ginti privalėjo tu­ rėti šarvus, muškiet
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Patrankos]]
-- [[objektai/asmenys/Žygimantas]]
-- [[objektai/grupes/Vilniaus magistratas]]
-- [[objektai/asmenys/Vladislovas Jogaila]]
-- [[objektai/asmenys/Žygimantas Senasis]]

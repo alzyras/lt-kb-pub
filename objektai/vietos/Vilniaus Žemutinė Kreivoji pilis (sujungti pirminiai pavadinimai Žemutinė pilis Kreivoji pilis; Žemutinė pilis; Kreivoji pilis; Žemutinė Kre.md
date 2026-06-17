@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Žemutinė pilis, vadinta Kreivąja, driekėsi pilies kalno papėdėje palei Viliją. Per svetimšalių puolimą Žemutinėje pilyje keliose vietose įsiplieskė ugnis ir apėmė medinius statinius. Žemutinė pilis taip pat vadinta Kreivąja pilimi.
+O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai vieno gar­ siausių Lietuvos didikų Manvydo rūmai, o kalno papėdėje, palei Viliją, driekėsi Žemutinė pilis, vadinta Kreivąja. Iš Žemutinės pilies vakarinių var­ tų vedė kelias per du tiltus, nutiestus per Vilnios upę ir Ving­ rių upokšnį, kuris šalimais su ana upe įtekėjo į Viliją. Aukštutinė pilis, aukštų mūrų bei bokštų saugoma, ir Žemutinė, apačioje besidriekianti, kur buvo kunigaikščių menės, vadinta Kreivąja.
 
 ## Teiginiai
 
@@ -23,6 +23,8 @@ tags:
 - t-001
   global_id: t-85901
   teiginys: 'Žemutinė pilis, vadinta Kreivąja, driekėsi pilies kalno papėdėje palei Viliją.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai atitinka citatos duomenis.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Manvydas|Manvydas]]; mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_place: Lietuva; mentioned_place: Vilija; mentioned_place: Vilnelė'
   pagrindžia:
     - c-002
 
@@ -30,6 +32,8 @@ tags:
 - t-002
   global_id: t-85902
   teiginys: 'Per svetimšalių puolimą Žemutinėje pilyje keliose vietose įsiplieskė ugnis ir apėmė medinius statinius.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas citatoje aprašytu gaisru.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rytas|Rytas]]'
   pagrindžia:
     - c-003
 
@@ -37,6 +41,8 @@ tags:
 - t-003
   global_id: t-85903
   teiginys: 'Žemutinė pilis taip pat vadinta Kreivąja pilimi.'
+  sudarymo_pagrindimas: 'Pradinis teiginys yra sąrašo fragmentas, bet citata palaiko pavadinimų tapatinimą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_place: Žemutinė pilis'
   pagrindžia:
     - c-004
 
@@ -44,6 +50,8 @@ tags:
 - t-004
   global_id: t-85904
   teiginys: 'Iš Žemutinės pilies vakarinių vartų kelias vedė per du tiltus, nutiestus per Vilnią ir Vingrių upokšnį.'
+  sudarymo_pagrindimas: 'Teiginys glaustai ir tiksliai perteikia citatoje nurodytą kelią.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Ukmergė; mentioned_place: Vilija'
   pagrindžia:
     - c-001
 
@@ -51,6 +59,8 @@ tags:
 - t-005
   global_id: t-85905
   teiginys: 'Žemutinė pilis, vadinta Kreivąja, driekėsi apačioje, joje buvo kunigaikščių menės.'
+  sudarymo_pagrindimas: 'Pirminis sakinys gremėzdiškas; citata leidžia glaustai atskirti Žemutinės pilies faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Statinės|Statinės]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Bokštai'
   pagrindžia:
     - c-005
 

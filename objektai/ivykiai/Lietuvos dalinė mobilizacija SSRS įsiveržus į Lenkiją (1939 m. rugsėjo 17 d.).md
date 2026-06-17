@@ -44,6 +44,11 @@ Nenurodyta
 - t-001
   global_id: t-75135
   teiginys: '1939 m. rugsėjo 17 d., SSRS įsiveržus į Lenkiją, Lietuvos prezidentas paskelbė dalinę mobilizaciją, demonstruodamas pasiryžimą ginti nepriklausomybę.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie įvykį ir jo motyvą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_place: Lietuva; mentioned_place: SSRS; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1939 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie įvykį ir jo motyvą.'
   pagrindžia:
     - c-002
 
@@ -51,6 +56,11 @@ Nenurodyta
 - t-002
   global_id: t-75136
   teiginys: '1939 m. rugsėjo 17 d., SSRS įsiveržus į Lenkiją, Lietuvos prezidentas paskelbė dalinę mobilizaciją.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_person: [[objektai/asmenys/Joachimas (Pskovo vietininkas)|Joachimas (Pskovo vietininkas)]]; mentioned_place: Lietuva; mentioned_place: Liublinas; mentioned_place: SSRS; mentioned_place: Vokietija'
+  temporaliniai_duomenys: 'įvykio data: 1939 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -93,8 +103,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Joachimas (Pskovo vietininkas)]]
-- [[objektai/grupes/Lietuvos kariuomenė]]

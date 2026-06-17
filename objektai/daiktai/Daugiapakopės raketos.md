@@ -4,14 +4,16 @@ pavadinimas: 'Daugiapakopės raketos'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
+  - '1579 m.'
   - '1650 m.'
-date_start: '1650'
-date_end: ''
+date_start: '1579'
+date_end: '1650'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ginklas
 amziai:
+  - 'XVI'
   - 'XVII'
 ---
 # Daugiapakopės raketos
@@ -53,6 +55,8 @@ Nenurodyta
 - t-001
   global_id: t-45476
   teiginys: 'Kazimiero Semenavičiaus veikale „Artis magnae artilleriae“ išdėstyta daugiapakopių raketų teorija.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/zodynas/Vidurio Europa|Vidurio Europa]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/autoriai/Kazimieras Semenavičius|Kazimieras Semenavičius]]; mentioned_place: Europa; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 
@@ -60,6 +64,11 @@ Nenurodyta
 - t-002
   global_id: t-45477
   teiginys: 'Kazimiero Semenavičiaus veikale „Artis magnae artilleriae“ buvo išdėstyta daugiapakopių raketų teorija.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/zodynas/Vidurio Europa|Vidurio Europa]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/autoriai/Kazimieras Semenavičius|Kazimieras Semenavičius]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1579 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir paremtas citata.'
   pagrindžia:
     - c-002
 
@@ -67,9 +76,12 @@ Nenurodyta
 - t-003
   global_id: t-45479
   teiginys: 'K. Semenavičiaus raketų brėžiniai buvo publikuoti Amsterdame 1650 m.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/Kazimieras Semenavičius|Kazimieras Semenavičius]]; mentioned_place: Amsterdamas; mentioned_place: Europa; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1650 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Kazimieras Simanavičius.md#claim-t-39577|Kazimieras Simanavičius]]: Kazimieras Simanavičius pirmasis aptarė daugiapakopės raketos ir raketinės artilerijos idėjas.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -123,11 +135,3 @@ Nenurodyta
 ## Šaltiniai ir įrodymai
 
 Nenurodyta
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Artilerija]]
-- [[objektai/autoriai/Kazimieras Semenavičius]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/asmenys/Kazimieras Simanavičius]]
-- [[objektai/daiktai/Daugiapakopės raketos ir raketų brėžiniai]]

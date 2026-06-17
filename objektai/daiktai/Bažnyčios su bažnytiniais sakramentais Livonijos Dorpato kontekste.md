@@ -5,8 +5,9 @@ saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1323 m.'
+  - '1325 m.'
 date_start: '1323'
-date_end: ''
+date_end: '1325'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -21,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-1323 m. per Užgavėnes lietuviai įsiveržė į Revelio žemę ir Dorpato vyskupiją, pagrobė 4000 žmonių ir sudegino 42 parapijų bažnyčias su sakramentais. Kunigaikštystėje buvo apiplėšti ir sudeginti ištisi kaimai bei dešimtys bažnyčių, o paimtų į nelaisvę žmonių skaičius siekė apie 9000.
+[Taip pat pagonys lietuviai Viešpaties me­ tais 1323-iais per Užgavėnes įsiver­ žė į Danijos karalystės Revelio že­ mę Livonijos srityse ir net Dorpato vyskupiją, kurias piešdami ir degin­ dami iki pamatų sugriovę sunaiki­ no ir pagrobė 4 000 vyrų ir moterų. Ištisi kaimai visoje kunigaikš­ tystėje, dešimtys bažnyčių buvo apiplėšta ir sudeginta: pa­ imtų į nelaisvę priskaičiuota iki devynių tūkstančių.
 
 ## Pavadinimai šaltiniuose
 
@@ -49,6 +50,11 @@ Nenurodyta
 - t-001
   global_id: t-87020
   teiginys: '1323 m. per Užgavėnes lietuviai įsiveržė į Revelio žemę ir Dorpato vyskupiją, pagrobė 4000 žmonių ir sudegino 42 parapijų bažnyčias su sakramentais.'
+  sudarymo_pagrindimas: 'Reikia patikslinti, kad sudegintos bažnyčios buvo su sakramentais, kaip nurodyta citatoje.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/pagonys|pagonys]]; mentioned_place: Dorpatas; mentioned_place: Livonija; mentioned_place: Revelis'
+  temporaliniai_duomenys: 'įvykio data: 1323 m.; įvykio data: 1325 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia patikslinti, kad sudegintos bažnyčios buvo su sakramentais, kaip nurodyta citatoje.'
   pagrindžia:
     - c-002
 
@@ -56,6 +62,8 @@ Nenurodyta
 - t-002
   global_id: t-87021
   teiginys: 'Kunigaikštystėje buvo apiplėšti ir sudeginti ištisi kaimai bei dešimtys bažnyčių, o paimtų į nelaisvę žmonių skaičius siekė apie 9000.'
+  sudarymo_pagrindimas: 'Citata palaiko faktą, bet pradinį sakinį reikėjo sutvarkyti.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Brodnica; mentioned_place: Dobrynė; mentioned_place: Drevenca; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -116,10 +124,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/zodynas/pagonys]]

@@ -3,6 +3,10 @@ tipas: paprotys
 pavadinimas: 'Abiejų Tautų Respublikos religinės tolerancijos, bajoriškosios demokratijos ir teisinės tradicijos'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1791 m.'
+date_start: '1791'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -10,12 +14,14 @@ tags:
   - miestas
   - mokslininkas
   - paprotys
+amziai:
+  - 'XVIII'
 ---
 # Abiejų Tautų Respublikos religinės tolerancijos, bajoriškosios demokratijos ir teisinės tradicijos
 
 ## Santrauka
 
-Abiejų Tautų Respublika sukūrė religinės tolerancijos, bajoriškosios demokratijos ir teisinę tradiciją, davusią Lietuvos Statutus ir 1791 m. konstituciją.
+davė labai reikšmingus fenomenus, kurių trumpa formulė būtų tokia – duona, tolerancija, demokratija, konstitucija, barokas.
 
 ## Laikotarpis ir datos
 
@@ -43,6 +49,11 @@ Nenurodyta
 - t-001
   global_id: t-54209
   teiginys: 'Abiejų Tautų Respublika sukūrė religinės tolerancijos, bajoriškosios demokratijos ir teisinę tradiciją, davusią Lietuvos Statutus ir 1791 m. konstituciją.'
+  sudarymo_pagrindimas: 'Citata leidžia tiksliau susieti tradicijas su konkrečiais teisiniais rezultatais.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/barokas|barokas]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas|Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1791 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata leidžia tiksliau susieti tradicijas su konkrečiais teisiniais rezultatais.'
   pagrindžia:
     - c-001
 
@@ -77,16 +88,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]
-- [[objektai/zodynas/barokas]]
-- [[objektai/zodynas/Miera|miera]]
-- [[objektai/zodynas/unija]]
-- [[objektai/grupes/Žydai]]
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/grupes/Vilniaus baroko architektūros mokykla]]
-- [[objektai/zodynas/bajoriškoji demokratija]]
-- [[objektai/zodynas/bajoriškoji demokratija luominė monarchija]]
-- [[objektai/posakiai/„duona, tolerancija, demokratija, konstitucija, barokas“]]

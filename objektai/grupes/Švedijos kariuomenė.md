@@ -22,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-Mūšio išvakarėse 1601 m. balandžio 1 d. Švedijos kariuomenė šturmu užėmė Kuoknesės miestą ir apsupo pilį, bet joje esanti lietuvių įgula nepasidavė. Rugsėjo 23 d. Švedijos kariuomenė apgulė Rygą po to, kai J. K. Chodkevičiui nepavyko sutrukdyti švedams susijungti.
+Mūšio išvakarėse 1601 m. balandžio 1 d. Švedijos kariuomenė šturmu užėmė Kuoknesės miestą ir apsupo pilį, bet joje esanti lietuvių įgula nepasidavė. Chodkevičius siekė neleisti švedams susijungti, tačiau to padaryti nepavyko ir rugsėjo 23 d. Švedijos kariuomenė apgulė Rygą.
 
 ## Teiginiai
 
@@ -30,6 +30,11 @@ Mūšio išvakarėse 1601 m. balandžio 1 d. Švedijos kariuomenė šturmu užė
 - t-001
   global_id: t-41213
   teiginys: 'Mūšio išvakarėse 1601 m. balandžio 1 d. Švedijos kariuomenė šturmu užėmė Kuoknesės miestą ir apsupo pilį, bet joje esanti lietuvių įgula nepasidavė.'
+  sudarymo_pagrindimas: 'Teiginys yra išsamus faktinis sakinys apie Švedijos kariuomenės veiksmus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_place: Kuoknesė; mentioned_place: Švedija'
+  temporaliniai_duomenys: 'įvykio data: 1601 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra išsamus faktinis sakinys apie Švedijos kariuomenės veiksmus.'
   pagrindžia:
     - c-001
 
@@ -37,9 +42,27 @@ Mūšio išvakarėse 1601 m. balandžio 1 d. Švedijos kariuomenė šturmu užė
 - t-002
   global_id: t-41214
   teiginys: 'Rugsėjo 23 d. Švedijos kariuomenė apgulė Rygą po to, kai J. K. Chodkevičiui nepavyko sutrukdyti švedams susijungti.'
+  sudarymo_pagrindimas: 'Perrašyta, kad subjektas būtų Švedijos kariuomenė.'
+  susije_objektai: 'object: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; object: Lietuva; object: [[objektai/grupes/Švedai|Švedai]]; object: Švedija; mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Lietuva; mentioned_place: Švedija'
+  semantiniai_rysiai: '[[objektai/grupes/Švedijos kariuomenė|Švedijos kariuomenė]] puolė [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; [[objektai/grupes/Švedijos kariuomenė|Švedijos kariuomenė]] puolė [[objektai/grupes/Švedai|Švedai]]; [[objektai/grupes/Švedijos kariuomenė|Švedijos kariuomenė]] puolė Lietuva; [[objektai/grupes/Švedijos kariuomenė|Švedijos kariuomenė]] puolė Švedija'
+  temporaliniai_duomenys: 'mūšio data: 1619 m.; mūšio data: apie 1619 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Švedijos kariuomenė puolė Chodkevičiai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Švedijos kariuomenė puolė Švedai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Švedijos kariuomenė puolė Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Švedijos kariuomenė puolė Švedija“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Perrašyta, kad subjektas būtų Švedijos kariuomenė.'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/asmenys/Gustavas Adolfas.md#claim-t-79026|Gustavas Adolfas]]: Po 1629 m. paliaubų su ATR Gustavo Adolfo vadovaujama Švedijos kariuomenė Vokietijoje laimėjo prieš katalikų kariuomenes.
+- susijęs iš [[objektai/daiktai/Eriko Dalbergo graviūra „Urbs et Castellum Brestzie Litewski a S.R.M. Suecix die“.md#claim-t-40709|Eriko Dalbergo graviūra „Urbs et Castellum Brestzie Litewski a S.R.M. Suecix die“]]: Eriko Dalbergo graviūra „Urbs et Castellum Brestzie Litewski a S.R.M. Suecix die“ vaizduoja 1657 m. švedų apsiaustą Lietuvos Brastą.
+- susijęs iš [[objektai/ivykiai/Kuoknesės mūšis (1601 m. birželio 23 d.).md#claim-t-49164|Kuoknesės mūšis (1601 m. birželio 23 d.)]]: 1601 m. balandžio 1 d. Švedijos kariuomenė šturmu užėmė Kuoknesės miestą ir apsupo pilį, tačiau lietuvių įgula nepasidavė.
+- susijęs iš [[objektai/ivykiai/Kuoknesės mūšis (1601 m. birželio 23 d.).md#claim-t-49167|Kuoknesės mūšis (1601 m. birželio 23 d.)]]: 1601 m. balandžio 1 d. švedai užėmė Kuoknesės miestą ir pradėjo pilies apgultį.
+- susijęs iš Kuoknesė: Švedijos kariuomenė per trumpą laiką užėmė Kuoknesę, o 1608 m. rudenį Jonas Karolis Chodkevičius ją išvadavo.
+- susijęs iš Kuoknesė: Mūšio išvakarėse 1601 m. balandžio 1 d. Švedijos kariuomenė šturmu užėmė Kuoknesės miestą ir apsupo pilį, bet joje esanti lietuvių įgula nepasidavė.
+- susijęs iš Kuoknesė: Švedijos kariuomenė per trumpą laiką užėmė Paidę, Kuoknesę ir Viljandį.
+- susijęs iš Kuoknesė: Švedijos kariuomenė per trumpą laiką užėmė Paidę, Kuoknesę ir Viljandį.
+- susijęs iš Kuoknesės pilis (pilis): 1601 m. balandžio 1 d. Švedijos kariuomenė apsupo Kuoknesės pilį, bet joje buvusi lietuvių įgula nepasidavė.
+- susijęs iš Lietuvos Brasta: 1657 m. švedų apsiausta Lietuvos Brasta galiausiai pasidavė priešui ir buvo gerokai suniokota.
+- susijęs iš Paidė: Švedijos kariuomenė per trumpą laiką užėmė Paidę, Kuoknesę ir Viljandį.
+- susijęs iš Viljandis: Per trumpą laiką Švedijos kariuomenė užėmė Paidę, Kuoknesę ir Viljandį.
+- susijęs iš Vokietija: Po 1629 m. paliaubų su ATR Gustavo Adolfo vadovaujama Švedijos kariuomenė Vokietijoje laimėjo pergalių prieš katalikų kariuomenes.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -80,12 +103,7 @@ Mūšio išvakarėse 1601 m. balandžio 1 d. Švedijos kariuomenė šturmu užė
     - t-002
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Chodkevičiai]]
-- [[objektai/asmenys/Karolis]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/įgula]]
-- [[objektai/grupes/Švedai]]
-- [[objektai/daiktai/Eriko Dalbergo graviūra „Urbs et Castellum Brestzie Litewski a S.R.M. Suecix die“]]
-- [[objektai/ivykiai/Kuoknesės mūšis (1601 m. birželio 23 d.)]]
-- [[objektai/asmenys/Gustavas Adolfas]]
+- Švedijos kariuomenė puole [[objektai/grupes/Chodkevičiai]]
+- Švedijos kariuomenė puole [[objektai/vietos/Lietuva]]
+- Švedijos kariuomenė puole [[objektai/grupes/Švedai]]
+- Švedijos kariuomenė puole [[objektai/vietos/Švedija]]

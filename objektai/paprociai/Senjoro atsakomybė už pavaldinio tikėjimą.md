@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Feodaliniuose santykiuose senjoras buvo laikomas atsakingu už pavaldinio išganymą ir nurodydavo jam išpažintiną tikėjimą. Feodaliniuose senjoro ir pavaldinio santykiuose senjorui priskirta atsakomybė už pavaldinio išganymą.
+Savaip transformuota artimo meilės idėja atsispindi senjoro ir pavaldinio santykiuose, ypač tai pasakytina apie senjoro atsakomybę už pavaldinio išganymą.
 
 ## Laikotarpis ir datos
 
@@ -41,6 +41,8 @@ Nenurodyta
 - t-001
   global_id: t-54348
   teiginys: 'Feodaliniuose santykiuose senjoras buvo laikomas atsakingu už pavaldinio išganymą ir nurodydavo jam išpažintiną tikėjimą.'
+  sudarymo_pagrindimas: 'Citata leidžia tiksliau įvardyti senjoro atsakomybę ir veiksmą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Europa; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -48,6 +50,11 @@ Nenurodyta
 - t-002
   global_id: t-183335
   teiginys: 'Feodaliniuose senjoro ir pavaldinio santykiuose senjorui priskirta atsakomybė už pavaldinio išganymą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Perrašyta glaudžiau ir aiškiau, pašalinant abstraktų citatos formuluotės pradėjimą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Europa; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -76,9 +83,3 @@ Nenurodyta
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Kryžius]]
-- [[objektai/zodynas/pagonybė]]
-- [[objektai/zodynas/žygis]]

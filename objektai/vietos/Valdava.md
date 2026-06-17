@@ -23,6 +23,8 @@ Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Ka
 - t-001
   global_id: t-58646
   teiginys: 'Valdava buvo valsčiaus centras į rytus nuo dabartinio Kaliningrado, o pilis greičiausiai stovėjo šiauriau Valdavos.'
+  sudarymo_pagrindimas: 'Citata pateikia lokalizaciją ir pilies vietos hipotezę, pradinė formuluotė buvo fragmentiška.'
+  susije_objektai: 'mentioned_place: Kaimas'
   pagrindžia:
     - c-001
 
@@ -30,9 +32,11 @@ Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Ka
 - t-002
   global_id: t-58647
   teiginys: 'Kvedenavos, Valdavos, Kaimo ir Tepliavos valsčiuose kai kurie gyventojai atidavė karaliui įkaitais savo sūnus ir prisiekė paklusti tikėjimui bei broliams.'
+  sudarymo_pagrindimas: 'Citata pagrindžia faktą apie Valdavos valsčių, bet pradinis teiginys yra nutrūkęs ir su neaiškiu įvardžiu.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/įkaitai|įkaitai]]; mentioned_place: Kaimas; mentioned_place: Tepliava'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/asmenys/Kviramas iš Valdavos.md#claim-t-60373|Kviramas iš Valdavos]]: Kviramas iš Valdavos buvo vienas iš keturių prityrusių karių, kurių broliai neteko Sizditės pilies kautynėse.
 ## Reikšmingi paminėjimai
 
 - c-001

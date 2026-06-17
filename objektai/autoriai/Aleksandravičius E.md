@@ -28,6 +28,11 @@ Aleksandravičius E., Kulakauskas A.
 - t-001
   global_id: t-45593
   teiginys: 'E. Aleksandravičius ir A. Kulakauskas 1996 m. Vilniuje išleido veikalą „Carų valdžioje. Lietuva XIX amžiuje“.'
+  sudarymo_pagrindimas: 'Citata yra bibliografinis įrašas, palaikantis autorystės ir leidimo faktą.'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1996 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata yra bibliografinis įrašas, palaikantis autorystės ir leidimo faktą.'
   pagrindžia:
     - c-001
 
@@ -35,6 +40,7 @@ Aleksandravičius E., Kulakauskas A.
 - t-002
   global_id: t-45594
   teiginys: 'E. Aleksandravičius kartu su A. Kulakausku yra leidinio „Carų valdžioje. Lietuva XIX amžiuje“ autorius.'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

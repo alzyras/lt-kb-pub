@@ -23,6 +23,8 @@ Už tai, kad jis nepakluso Lenkijos karaliaus it taip pat didžiojo Lietuvos kun
 - t-001
   global_id: t-86461
   teiginys: 'Auksakalys kaltintas savavališkai plėtojęs amatą atskirai nuo cecho narių ir pardavinėjęs dirbinius nepaisydamas cecho privilegijų.'
+  sudarymo_pagrindimas: 'Pradinė frazė turi OCR ir puslapio triukšmo; citata pagrindžia aiškų faktą apie cechą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Cechas|Cechas]]'
   pagrindžia:
     - c-001
 
@@ -30,6 +32,8 @@ Už tai, kad jis nepakluso Lenkijos karaliaus it taip pat didžiojo Lietuvos kun
 - t-002
   global_id: t-86462
   teiginys: 'Vilniaus auksakalių cecho reikalavimu auksakalys Steponas Genseris buvo pašauktas į teismą dėl nepaklusimo cecho privilegijai.'
+  sudarymo_pagrindimas: 'Pradinis sakinys nutrūkęs; citata remia aiškų teiginį apie cecho veikimą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Cechas|Cechas]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_person: [[objektai/asmenys/Steponas Genseris|Steponas Genseris]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -105,10 +109,3 @@ Už tai, kad jis nepakluso Lenkijos karaliaus it taip pat didžiojo Lietuvos kun
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Cechas]]
-- [[objektai/asmenys/Steponas]]
-- [[objektai/asmenys/Steponas Genseris]]
-- [[objektai/zodynas/civilinė teisė ir pasaulietinė civilinė teisė]]

@@ -21,6 +21,8 @@ Czarkowski) brošiūra „Przenigdy“ („Niekados“), kuri lenkų ir lietuvi�
 - t-001
   global_id: t-21235
   teiginys: 'Dr. T. Čarkovskio brošiūra „Przenigdy“ pablogino lenkų ir lietuvių santykius.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir pagrįstas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

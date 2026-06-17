@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-1991 m. sausio 8 d. perversmininkų minia bandė įsiveržti į Aukščiausiosios Tarybos rūmus ir nuversti nepriklausomos Lietuvos valdžią. 1991 m. sausio 12 d. Vytauto Landsbergio vadovaujama Aukščiausioji Taryba – Atkuriamasis Seimas priėmė nutarimą „Dėl priemonių Lietuvos Respublikai ginti“.
+Sausio 12 d. Aukščiausioji Taryba - Atkuriamasis Seimas, vadovaujamas pirmininko Vytauto Landsbergio, priėmė nutarimą „Dėl priemonių Lietuvos Respublikai ginti“. Sausio 8 d. perversmininkų minia, reikalavusi atkurti sovietų valdžią ir įvesti tiesioginį ssRS prezidento valdymą, bandė įsiveržti į Aukščiausiosios Tarybos rūmus (seimą) ir nuversti nepriklausomos Lietuvos valdžią, tačiau rūmų apsaugai pavyko atlaikyti.
 
 ## Teiginiai
 
@@ -29,6 +29,11 @@ amziai:
 - t-001
   global_id: t-40858
   teiginys: '1991 m. sausio 8 d. perversmininkų minia bandė įsiveržti į Aukščiausiosios Tarybos rūmus ir nuversti nepriklausomos Lietuvos valdžią.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie bandymą įsiveržti į rūmus.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/tautos atstovai|tautos atstovai]]; mentioned_place: Aukščiausiosios Tarybos rūmai; mentioned_place: Lietuva; mentioned_place: Pskovas; mentioned_place: SSRS'
+  temporaliniai_duomenys: 'įvykio data: 1991 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie bandymą įsiveržti į rūmus.'
   pagrindžia:
     - c-001
 
@@ -36,9 +41,29 @@ amziai:
 - t-002
   global_id: t-40859
   teiginys: '1991 m. sausio 12 d. Vytauto Landsbergio vadovaujama Aukščiausioji Taryba – Atkuriamasis Seimas priėmė nutarimą „Dėl priemonių Lietuvos Respublikai ginti“.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nusako institucijos veiksmą ir yra pagrįstas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/vora|vora]]; mentioned_object: [[objektai/daiktai/Šarvuočiai|Šarvuočiai]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1991 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako institucijos veiksmą ir yra pagrįstas citata.'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/asmenys/Vytautas Landsbergis.md#claim-t-170248|Vytautas Landsbergis]]: Sausio 12 d. Vytautas Landsbergis vadovavo Aukščiausiajai Tarybai - Atkuriamajam Seimui, priėmusiam nutarimą „Dėl priemonių Lietuvos Respublikai ginti“.
+- susijęs iš [[objektai/grupes/Aukščiausioji Taryba-Atkuriamasis Seimas.md#claim-t-65067|Aukščiausioji Taryba-Atkuriamasis Seimas]]: 1990 m. kovo 11 d. Lietuvos Respublikos Aukščiausioji Taryba paskelbė Lietuvos nepriklausomybės atkūrimą.
+- susijęs iš [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis.md#claim-t-23308|Lietuvos Persitvarkymo Sąjūdis]]: 1988 VI 3 įkuriamas Lietuvos Persitvarkymo Sąjūdis.
+- susijęs iš [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis.md#claim-t-26811|Lietuvos Persitvarkymo Sąjūdis]]: 1988 VI 3 įkuriamas Lietuvos Persitvarkymo Sąjūdis.
+- susijęs iš [[objektai/grupes/Lietuvos tautinė aukščiausioji taryba.md#claim-t-77828|Lietuvos tautinė aukščiausioji taryba]]: 1794 m. balandį Vilniuje paskelbtu Lietuvos sukilimo aktu buvo sudaryta Lietuvos tautinė aukščiausioji taryba.
+- susijęs iš [[objektai/ivykiai/Lietuvos Persitvarkymo Sąjūdžio įkūrimas (1988 VI 3).md#claim-t-183255|Lietuvos Persitvarkymo Sąjūdžio įkūrimas (1988 VI 3)]]: 1988 VI 3 įkuriamas Lietuvos Persitvarkymo Sąjūdis.
+- susijęs iš [[objektai/ivykiai/Lietuvos Persitvarkymo Sąjūdžio įkūrimas (1988 VI 3).md#claim-t-66692|Lietuvos Persitvarkymo Sąjūdžio įkūrimas (1988 VI 3)]]: 1988 VI 3 įkuriamas Lietuvos Persitvarkymo Sąjūdis.
+- susijęs iš [[objektai/ivykiai/Lietuvos konstitucinio tęstinumo atkūrimo aktai (1990 m. kovo 11 d.).md#claim-t-183246|Lietuvos konstitucinio tęstinumo atkūrimo aktai (1990 m. kovo 11 d.)]]: Lietuvos Aukščiausioji Taryba atkūrė 1938 m. Konstitucijos galiojimą, netrukus jį sustabdė ir patvirtino Laikinąjį Pagrindinį Įstatymą.
+- susijęs iš [[objektai/ivykiai/Lietuvos konstitucinio tęstinumo atkūrimo aktai (1990 m. kovo 11 d.).md#claim-t-20315|Lietuvos konstitucinio tęstinumo atkūrimo aktai (1990 m. kovo 11 d.)]]: Laikinasis Pagrindinis Įstatymas panaikino Lietuvos ir jos piliečių prievoles, neteisėtai nustatytas sovietų konstitucijos ir įstatymų.
+- susijęs iš [[objektai/ivykiai/Lietuvos nepriklausomybės atkūrimas (1990 III 11).md#claim-t-75163|Lietuvos nepriklausomybės atkūrimas (1990 III 11)]]: 1990 m. kovo 11 d. Lietuvos Respublikos Aukščiausioji Taryba paskelbė Lietuvos nepriklausomybės atkūrimą.
+- susijęs iš [[objektai/ivykiai/Lietuvos nepriklausomybės atkūrimas (1990 III 11).md#claim-t-75164|Lietuvos nepriklausomybės atkūrimas (1990 III 11)]]: 1988 VI 3 įkuriamas Lietuvos Persitvarkymo Sąjūdis.
+- susijęs iš 1938 metų gegužės 12 dienos Lietuvos Konstitucija: Atkuriant valstybę reikėjo atkurti paskutinės nepriklausomos Lietuvos konstitucijos galiojimą.
+- susijęs iš Lietuvos Konstitucija (1938 m.): Atkuriant valstybę reikėjo nutraukti svetimos valstybės konstitucinių aktų galiojimą ir atkurti paskutinės nepriklausomos Lietuvos konstituciją.
+- susijęs iš Įstatymas „Dėl 1938 metų gegužės 12 dienos Lietuvos Konstitucijos galiojimo atstatymo“: Įstatymas dėl 1938 m. Lietuvos Konstitucijos galiojimo atstatymo buvo priimtas siekiant atkurti paskutinės nepriklausomos Lietuvos konstitucijos galiojimą.
+- susijęs iš Įstatymas „Dėl 1938 metų gegužės 12 dienos Lietuvos Konstitucijos galiojimo atstatymo“: Priėmus įstatymą dėl 1938 m. Lietuvos Konstitucijos galiojimo atstatymo, šios konstitucijos veikimas visa apimtimi nebuvo atnaujintas ir po pusvalandžio sustabdytas.
+- susijęs iš Vilnius: 1794 m. balandį sukilėliai išvadavo Vilnių iš rusų ir Rotušės aikštėje paskelbė Lietuvos sukilimo aktą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -91,19 +116,3 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/tautos atstovai]]
-- [[objektai/zodynas/vora]]
-- [[objektai/daiktai/Šarvuočiai]]
-- [[objektai/grupes/Aukščiausioji Taryba-Atkuriamasis Seimas]]
-- [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis]]
-- [[objektai/ivykiai/Lietuvos Persitvarkymo Sąjūdžio įkūrimas (1988 VI 3)]]
-- [[objektai/ivykiai/Lietuvos konstitucinio tęstinumo atkūrimo aktai (1990 m. kovo 11 d.)]]
-- [[objektai/ivykiai/Lietuvos nepriklausomybės atkūrimas (1990 III 11)]]
-- [[objektai/asmenys/Vytautas Landsbergis]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/grupes/Lietuvos tautinė aukščiausioji taryba]]

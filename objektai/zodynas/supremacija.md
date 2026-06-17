@@ -22,6 +22,8 @@ Bet teisiškai Lietuva buvo su Lenkija surišta ir buvo visiškoje jos supremaci
 - t-001
   global_id: t-36838
   teiginys: 'Teisiškai Lietuva buvo susieta su Lenkija ir buvo visiškoje jos supremacijoje.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys ir atitinka citatos turinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Italija; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -29,9 +31,12 @@ Bet teisiškai Lietuva buvo su Lenkija surišta ir buvo visiškoje jos supremaci
 - t-002
   global_id: t-36839
   teiginys: 'Sudarytuose unijos aktuose kontragentai nebuvo laikomi lygiais, o supremacija visada buvo paliekama lenkams.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/unija|unija]]'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/ivykiai/Dubysos salos derybos su Ordinu (1396 m.).md#claim-t-34473|Dubysos salos derybos su Ordinu (1396 m.)]]: 1396 m. Vytautas Dubysos saloje susitiko su Vokiečių Ordino magistru deryboms.
+- susijęs iš [[objektai/paprociai/Įkaitų davimas kaip sutarties garantija.md#claim-t-67242|Įkaitų davimas kaip sutarties garantija (sutartis)]]: Magistras reikalavo, kad Vytautas duotų bajorų sūnus įkaitais ir išpildytų seniau Ordinui duotus pasižadėjimus.
+- susijęs iš Dubysos sala: 1396 m. Vytautas Dubysos saloje susitiko su magistru, kuris jam pateikė Ordino reikalavimus.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -83,11 +88,3 @@ Bet teisiškai Lietuva buvo su Lenkija surišta ir buvo visiškoje jos supremaci
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/zodynas/unija]]
-- [[objektai/ivykiai/Dubysos salos derybos su Ordinu (1396 m.)]]
-- [[objektai/paprociai/Įkaitų davimas kaip sutarties garantija|Įkaitų davimas kaip sutarties garantija (sutartis)]]
-- [[objektai/grupes/Lenkai]]

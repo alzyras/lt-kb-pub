@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Lietuvos metraštis pasakoja, kad Smolensko prastieji žmonės po Velykų sumanė išvaryti Andrių Sakavičių ir sulaužyti priesaiką. Lietuvos metraštis teigia, kad Smolensko prastųjų žmonių sukilimo metu Andriaus šalininkai susirėmė su sukilėliais mieste prie šv. Boriso ir Glebo cerkvės. Lietuvos metraštis teigia, kad Po Velykų Smolensko prastieji žmonės sumanė išvaryti Andrių iš miesto, apsiginklavo ietimis, strėlėmis, dalgiais bei kirviais ir skambino varpu.
+Lietuvos metraštis pasakoja, kad Smolensko prastieji žmonės po Velykų sumanė išvaryti Andrių Sakavičių ir sulaužyti priesaiką. Lietuvos metraštis pasakoja, kad jie apsiginklavo ir sukilo skambindami varpu.
 
 ## Laikotarpis ir datos
 
@@ -38,20 +38,29 @@ Nenurodyta
 - t-001
   global_id: t-186630
   teiginys: 'Lietuvos metraštis pasakoja, kad Smolensko prastieji žmonės po Velykų sumanė išvaryti Andrių Sakavičių ir sulaužyti priesaiką.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Sakinys pilnas, aiškus ir tinkamai atribuuotas metraščiui.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ietys|Ietys]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_object: [[objektai/zodynas/prastieji žmonės|prastieji žmonės]]; mentioned_person: [[objektai/asmenys/Borisas (Tverės kunigaikštis)|Borisas (Tverės kunigaikštis)]]; mentioned_person: [[objektai/asmenys/Glebas (Smolensko kunigaikštis)|Glebas (Smolensko kunigaikštis)]]; mentioned_place: Lietuva; mentioned_place: Smolenskas'
   pagrindžia:
     - c-001
 
 <a id="claim-t-186631"></a>
 - t-002
   global_id: t-186631
-  teiginys: 'Lietuvos metraštis teigia, kad Smolensko prastųjų žmonių sukilimo metu Andriaus šalininkai susirėmė su sukilėliais mieste prie šv. Boriso ir Glebo cerkvės.'
+  teiginys: 'Lietuvos metraštis teigia, kad Smolensko sukilimo metu Andriaus šalininkai susirėmė su prastaisiais žmonėmis prie šv. Boriso ir Glebo cerkvės.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Sakinys sutrumpintas ir tiksliau remiasi citatos įvardijimu.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ietys|Ietys]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_object: [[objektai/zodynas/prastieji žmonės|prastieji žmonės]]; mentioned_person: [[objektai/asmenys/Borisas (Tverės kunigaikštis)|Borisas (Tverės kunigaikštis)]]; mentioned_person: [[objektai/asmenys/Glebas (Smolensko kunigaikštis)|Glebas (Smolensko kunigaikštis)]]; mentioned_place: Lietuva; mentioned_place: Smolenskas'
   pagrindžia:
     - c-001
 
 <a id="claim-t-186632"></a>
 - t-003
   global_id: t-186632
-  teiginys: 'Lietuvos metraštis teigia, kad Po Velykų Smolensko prastieji žmonės sumanė išvaryti Andrių iš miesto, apsiginklavo ietimis, strėlėmis, dalgiais bei kirviais ir skambino varpu.'
+  teiginys: 'Lietuvos metraščio pasakojime po Velykų Smolensko prastieji žmonės sumanė išvaryti Andrių, apsiginklavo ietimis, dalgiais ir kirviais bei ėmė skambinti varpu.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Palikta metraščio atribucija, nes teiginys perteikia sukilėlių sumanymą ir kronikos pasakojimą. Išskleisti veikėjai ir veiksmai, nepridėta susirėmimo baigtis.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ietys|Ietys]]; mentioned_object: [[objektai/daiktai/Vilniaus gaisro gesinimo įrankiai|Vilniaus gaisro gesinimo įrankiai]]; mentioned_object: [[objektai/zodynas/prastieji žmonės|prastieji žmonės]]; mentioned_person: [[objektai/asmenys/Borisas (Tverės kunigaikštis)|Borisas (Tverės kunigaikštis)]]; mentioned_person: [[objektai/asmenys/Glebas (Smolensko kunigaikštis)|Glebas (Smolensko kunigaikštis)]]; mentioned_place: Lietuva; mentioned_place: Smolenskas'
   pagrindžia:
     - c-001
 
@@ -83,12 +92,3 @@ Nenurodyta
     - t-001
     - t-003
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Borisas (Tverės kunigaikštis)]]
-- [[objektai/asmenys/Glebas (Smolensko kunigaikštis)]]
-- [[objektai/daiktai/Ietys]]
-- [[objektai/zodynas/prastieji žmonės]]
-- [[objektai/daiktai/Vilniaus gaisro gesinimo įrankiai]]
-- [[objektai/zodynas/metraštis]]

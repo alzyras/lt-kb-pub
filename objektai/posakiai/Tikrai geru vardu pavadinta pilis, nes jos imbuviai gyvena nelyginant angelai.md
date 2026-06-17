@@ -21,6 +21,8 @@ Dusburgietis teigia, kad kai kurie vienuoliai, atėję į Engelsbergo pilį248 i
 - t-001
   global_id: t-59162
   teiginys: 'Vienuoliai Engelsbergo pilies vardą aiškino tuo, kad pilies gyventojai gyvena nelyginant angelai.'
+  sudarymo_pagrindimas: 'Pirminiame teiginyje yra puslapio žymė ir neesminė aplinkybė; citata remia glaustesnį sakinį.'
+  susije_objektai: 'mentioned_place: Engelsbergas'
   pagrindžia:
     - c-001
 
@@ -42,7 +44,3 @@ Dusburgietis teigia, kad kai kurie vienuoliai, atėję į Engelsbergo pilį248 i
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/paprociai/Baigos ir kitų Ordino pilių brolių asketinė vienuolinė praktika]]

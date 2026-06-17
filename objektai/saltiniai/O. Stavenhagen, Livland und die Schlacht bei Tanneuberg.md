@@ -29,6 +29,9 @@ amziai:
 - t-001
   global_id: t-31870
   teiginys: 'O. Stavenhageno „Livland und die Schlacht bei Tanneuberg“ paskelbtas 1902 m. „Baltische Monatschrift“ 54 tome.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
+  temporaliniai_duomenys: 'įvykio data: 1902 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

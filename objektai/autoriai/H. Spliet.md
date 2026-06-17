@@ -30,6 +30,9 @@ periodo_grupes:
 - t-001
   global_id: t-30631
   teiginys: 'H. Splietas 1953 m. Sinsheime paskelbė veikalą „Die Briefe Gedimins“.'
+  susije_objektai: 'mentioned_place: Kaunas; mentioned_place: Krokuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1953 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

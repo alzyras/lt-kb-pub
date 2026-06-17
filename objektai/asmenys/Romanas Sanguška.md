@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Romanas Sanguška buvo tarp geriausių tuo metu surinktų karių ir vėliau tapo lauko etmonu.
+Radvilos buvo jo šešiolikmetis sūnus Kristupas Radvila, vėliau tapęs didžiuoju etmonu ir vadintas Perkūnu, lauko etmonas Grigalius Chodkevičius, būsimasis lauko etmonas Romanas Sanguška, būsimasis Livonijos etmonas Jonas Chodkevičius ir daugelis kitų.
 
 ## Teiginiai
 
@@ -20,6 +20,8 @@ Romanas Sanguška buvo tarp geriausių tuo metu surinktų karių ir vėliau tapo
 - t-001
   global_id: t-40405
   teiginys: 'Romanas Sanguška buvo tarp geriausių tuo metu surinktų karių ir vėliau tapo lauko etmonu.'
+  sudarymo_pagrindimas: 'Pradinis teiginys pernelyg remiasi paminėjimu, o citata leidžia suformuluoti aiškesnį faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_object: [[objektai/zodynas/hetmonas|hetmonas]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Grigalius (vicekancleris)|Grigalius (vicekancleris)]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas Chodkevičius|Jonas Chodkevičius]]; mentioned_person: [[objektai/asmenys/Romanas (Briansko kunigaikštis)|Romanas (Briansko kunigaikštis)]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Livonija'
   pagrindžia:
     - c-001
 
@@ -52,17 +54,3 @@ Romanas Sanguška buvo tarp geriausių tuo metu surinktų karių ir vėliau tapo
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Augustas]]
-- [[objektai/grupes/Chodkevičiai]]
-- [[objektai/asmenys/Grigalius (vicekancleris)]]
-- [[objektai/asmenys/Jonas]]
-- [[objektai/asmenys/Jonas Chodkevičius]]
-- [[objektai/grupes/Radvilos]]
-- [[objektai/asmenys/Romanas (Briansko kunigaikštis)]]
-- [[objektai/zodynas/etmonas]]
-- [[objektai/asmenys/Žygimantas]]
-- [[objektai/asmenys/Grigalius Chodkevičius]]
-- [[objektai/asmenys/Kunzas Lochneris]]

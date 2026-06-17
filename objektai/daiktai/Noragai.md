@@ -39,9 +39,11 @@ Nenurodyta
 - t-001
   global_id: t-08310
   teiginys: 'Laukai buvo ariami medžio noragais, ne geležiniais, o kai kurie storastos bandė įsakyti arti gelžiniais noragais.'
+  teiginio_tipas: 'faktas'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/autoriai/Guagnini.md#claim-t-30624|Guagnini]]: Guagnini kartu su Herbersteinu ir Lasiciu pateikė netikslių XVI a. žinių, kad Žemaičiuose naudoti tik mediniai arklų noragai.
+- susijęs iš [[objektai/daiktai/Medžio noragai geležiniai noragai.md#claim-t-92024|Medžio noragai geležiniai noragai]]: Mediniai noragai buvo dirbami tada, kai dėl užimtų pajūrio pilių nebegauta geležies žambių noragams.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -57,8 +59,3 @@ Nenurodyta
 ## Pastabos
 
 - čia daiktas aprašytas kartu su žemdirbystės įpročiu, bet pats norago tipas aiškiai materiališkas.
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/Guagnini]]
-- [[objektai/daiktai/Medžio noragai geležiniai noragai]]

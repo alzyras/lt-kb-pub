@@ -42,6 +42,12 @@ Nenurodyta
 - t-001
   global_id: t-62229
   teiginys: '1225 m. Burgundijos Druskos kalnuose dėl žemės drebėjimo kalnas nuslinko, užvertė slėnį ir nuslėgė penkis tūkstančius žmonių.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra konkretus faktinis sakinys ir sutampa su citatos turiniu.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Druska|Druska]]'
+  temporaliniai_duomenys: 'įvykio data: 1225 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus faktinis sakinys ir sutampa su citatos turiniu.'
   pagrindžia:
     - c-001
 
@@ -61,7 +67,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Druska]]

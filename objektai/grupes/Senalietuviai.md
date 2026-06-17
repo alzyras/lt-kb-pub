@@ -3,18 +3,24 @@ tipas: grupe
 pavadinimas: 'Senalietuviai'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1920 m.'
+date_start: '1920'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - bajorija
   - grupe
   - tauta
+amziai:
+  - 'XX'
 ---
 # Senalietuviai
 
 ## Santrauka
 
-Senalietuviams priskiriamai tradicijai XIX–XX a. sandūroje pradėjo oponuoti jaunalietuviai. XX a. pradžioje kai kurie nutautėjusios Lietuvos dalies bajorai tebesivadino „litvinais“ arba „senalietuviais“, bet dauguma integravosi į lenkų tautą.
+Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietuviams“, kuriems XIX–XX a. Tiesa, nutautėjusioje Lietuvos dalyje kai kurie bajorai tebesivadino „litvinais“ arba „senalietuviais“, tačiau dauguma jų vis labiau integravosi į lenkų tautą, o Lietuvą laikė Lenkijos dalimi.
 
 ## Teiginiai
 
@@ -22,6 +28,8 @@ Senalietuviams priskiriamai tradicijai XIX–XX a. sandūroje pradėjo oponuoti 
 - t-001
   global_id: t-20006
   teiginys: 'Senalietuviams priskiriamai tradicijai XIX–XX a. sandūroje pradėjo oponuoti jaunalietuviai.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, citata leidžia suformuluoti aiškų faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Jaunalietuviai|Jaunalietuviai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/istorinė Lietuva|istorinė Lietuva]]; mentioned_person: [[objektai/asmenys/Adomas (auksakalys)|Adomas (auksakalys)]]; mentioned_person: [[objektai/asmenys/Adomas Mickevičius|Adomas Mickevičius]]; mentioned_person: [[objektai/autoriai/Mickevičius|Mickevičius]]; mentioned_person: [[objektai/asmenys/Česlovas Milošas|Česlovas Milošas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -29,9 +37,14 @@ Senalietuviams priskiriamai tradicijai XIX–XX a. sandūroje pradėjo oponuoti 
 - t-002
   global_id: t-20007
   teiginys: 'XX a. pradžioje kai kurie nutautėjusios Lietuvos dalies bajorai tebesivadino „litvinais“ arba „senalietuviais“, bet dauguma integravosi į lenkų tautą.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatinis ir tiesiogiai pagrįstas citata apie senalietuvius.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Baltarusiai|Baltarusiai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1920 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatinis ir tiesiogiai pagrįstas citata apie senalietuvius.'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/zodynas/senalietuviai jaunalietuviai.md#claim-t-26555|senalietuviai jaunalietuviai]]: XIX–XX a. sandūroje senalietuvių tradicijai pradėjo oponuoti jaunalietuviai, po poros dešimtmečių sukūrę Lietuvos Respubliką.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -64,20 +77,3 @@ Senalietuviams priskiriamai tradicijai XIX–XX a. sandūroje pradėjo oponuoti 
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/asmenys/Adomas (auksakalys)]]
-- [[objektai/asmenys/Adomas Mickevičius|Adomas Mickevičius (poetas)]]
-- [[objektai/grupes/Bajorai]]
-- [[objektai/grupes/Baltarusiai]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/autoriai/Mickevičius]]
-- [[objektai/zodynas/istorinė Lietuva]]
-- [[objektai/asmenys/Česlovas Milošas]]
-- [[objektai/grupes/Jaunalietuviai]]
-- [[objektai/zodynas/senalietuviai jaunalietuviai]]
-- [[objektai/asmenys/Czesław Miłosz]]
-- [[objektai/grupes/Lietuvos Respublika]]

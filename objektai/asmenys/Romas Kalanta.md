@@ -29,6 +29,8 @@ periodo_grupes:
 - t-001
   global_id: t-46284
   teiginys: 'Romo Kalantos auka sulaukė didžiulio atgarsio ir kėlė Lietuvos nelaisvės klausimą.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-004
 
@@ -36,6 +38,8 @@ periodo_grupes:
 - t-002
   global_id: t-46285
   teiginys: 'Sovietų valdžia paskelbė, kad Romo Kalantos susideginimo priežastis buvo sunki psichikos liga šizofrenija.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai perteikia sovietų valdžios paskelbtą aiškinimą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]'
   pagrindžia:
     - c-001
 
@@ -43,6 +47,7 @@ periodo_grupes:
 - t-004
   global_id: t-46287
   teiginys: 'Sovietiniai saugumiečiai Romą Kalantą slapta palaidojo anksčiau paskelbto laiko.'
+  sudarymo_pagrindimas: 'Reikia išplėsti inicialą į pilną asmens vardą.'
   pagrindžia:
     - c-006
 
@@ -50,6 +55,8 @@ periodo_grupes:
 - t-005
   global_id: t-46288
   teiginys: 'Romas Kalanta tapo pasipriešinimo simboliu, o Kauno įvykiai suaktyvino neformalių jaunimo grupių judėjimą.'
+  sudarymo_pagrindimas: 'Teiginys aiškus, enciklopedinis ir atitinka citatos turinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kaunas; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 
@@ -57,6 +64,14 @@ periodo_grupes:
 - t-006
   global_id: t-183564
   teiginys: '1972 m. gegužės 14 d. Romas Kalanta Kauno miesto sode prie Muzikinio teatro apsipylė benzinu, sušuko „Laisvę Lietuvai!“, pasidegė ir mirė ligoninėje.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys tiksliai nurodo Romo Kalantos veiksmus, vietą, datą ir rezultatą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Kaunas'
+  temporaliniai_duomenys: 'įvykio data: 1972 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys tiksliai nurodo Romo Kalantos veiksmus, vietą, datą ir rezultatą.'
   pagrindžia:
     - c-005
 
@@ -64,9 +79,17 @@ periodo_grupes:
 - t-007
   global_id: t-183565
   teiginys: 'Romo Kalantos susideginimas sukėlė LKP ir sovietų saugumo pareigūnams paniką.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Romo Kalantos susideginimo poveikį.'
   pagrindžia:
     - c-006
-
+- susijęs iš [[objektai/posakiai/Laisvę Lietuvai!.md#claim-t-13497|Laisvę Lietuvai!]]: 1972 m. gegužės 14 d. Romas Kalanta prieš pasidegdamas sušuko „Laisvę Lietuvai!“.
+- susijęs iš [[objektai/posakiai/„Laisvę Lietuvai!“.md#claim-t-77837|„Laisvę Lietuvai!“]]: 1972 m. gegužės 14 d. Romas Kalanta Kaune, sušukęs „Laisvę Lietuvai!“, apsipylė benzinu ir pasidegė.
+- susijęs iš Kaunas: 1972 m. gegužės 14 d. Romas Kalanta Kauno miesto sode prie Muzikinio teatro apsipylė benzinu ir pasidegė.
+- susijęs iš Kaunas: Romas Kalanta tapo pasipriešinimo simboliu, o Kauno įvykiai suaktyvino neformalių jaunimo grupių judėjimą.
+- susijęs iš Kauno miesto sodas (miestas): 1972 m. gegužės 14 d. Romas Kalanta Kauno miesto sode prie Muzikinio teatro apsipylė benzinu ir pasidegė.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -162,17 +185,3 @@ periodo_grupes:
   pagrindžia:
     - t-007
     - t-004
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/laidotuvės]]
-
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/posakiai/Laisvę Lietuvai!]]
-- [[objektai/posakiai/„Laisvę Lietuvai!“]]
-- [[objektai/ivykiai/Kauno protestai po Romo Kalantos susideginimo (1972 m. gegužės 18–19 d.)]]
-- [[objektai/daiktai/Romo Kalantos atminimo paminklai ir simboliai]]
-- [[objektai/ivykiai/Romo Kalantos susideginimas Kaune (1972 m. gegužės 14 d.)]]
-- [[objektai/daiktai/Tautinės vėliavos]]

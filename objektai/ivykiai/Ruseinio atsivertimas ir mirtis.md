@@ -46,6 +46,8 @@ Nenurodyta
 - t-001
   global_id: t-59407
   teiginys: 'Kilmingas sūduvis Ruseinis su šeimyna atvyko pas Baigos komtūrą, pasikrikštijo ir po krikšto prašė pamokyti Kristaus tikėjimo.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys ir atitinka citatos turinį.'
+  susije_objektai: 'location: Baiga; location: Viena; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/asmenys/Ruseinis|Ruseinis]]; mentioned_place: Baiga; mentioned_place: Viena'
   pagrindžia:
     - c-002
 
@@ -53,6 +55,11 @@ Nenurodyta
 - t-002
   global_id: t-59408
   teiginys: 'Ruseinis teigė išgelbėjęs Marijos su kūdikiu paveikslą nuo sūduvių išniekinimo ir atidavęs jį krikščioniui.'
+  sudarymo_pagrindimas: 'Citata pagrindžia Ruseinio veiksmą ir leidžia išplėsti dalines nuorodas į aiškų sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_object: [[objektai/daiktai/Ietis|Ietis]]; mentioned_person: [[objektai/asmenys/Ruseinis|Ruseinis]]; mentioned_place: Kėdainiai; mentioned_place: Raseiniai'
+  temporaliniai_duomenys: 'įvykio data: 1419 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia Ruseinio veiksmą ir leidžia išplėsti dalines nuorodas į aiškų sakinį.'
   pagrindžia:
     - c-001
 
@@ -101,13 +108,3 @@ Nenurodyta
   pagrindžia:
     - t-001
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Ietis]]
-- [[objektai/grupes/Sūduviai]]
-- [[objektai/zodynas/komtūras]]
-- [[objektai/zodynas/kunigas]]
-- [[objektai/asmenys/Ruseinis]]
-- [[objektai/paprociai/Kilmingų sūduvių atvykimas pas brolius su namais bei šeimyna priimti krikšto|Kilmingų sūduvių atvykimas pas brolius su namais bei šeimyna priimti krikšto (krikštas)]]
-- [[objektai/daiktai/Medinis kryžius]]

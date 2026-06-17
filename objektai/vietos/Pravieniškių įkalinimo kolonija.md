@@ -4,9 +4,10 @@ pavadinimas: 'Pravieniškių įkalinimo kolonija'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
+  - '1940 m.'
   - '1941 m.'
-date_start: '1941'
-date_end: ''
+date_start: '1940'
+date_end: '1941'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -18,7 +19,7 @@ amziai:
 
 ## Santrauka
 
-1941 m. birželio 26 d. sovietai nužudė Pravieniškių lagerio kalinius ir prižiūrėtojus. 1941 m. birželį Pravieniškių įkalinimo kolonijoje per masines kalinių žudynes nužudyta apie 230 asmenų. 1941 m. birželio 26 d. sovietai nužudė Pravieniškių lagerio kalinius ir prižiūrėtojus.
+Masinės kalinių žudynės surengtos Pravieniškių įkalinimo kolonijoje (išžudyta apie 230 asmenų) ir prie Rainių (76 asmenys, prieš tai ypač žiauriai nukankinus), mažesnio masto – keliose kitose apskrityse, o iš viso nužudyta apie 700 asmenų. 1941 m. birželio 26 d. sovietų nužudyti Pravieniškių lagerio kaliniai ir prižiūrėtojai.
 
 ## Teiginiai
 
@@ -26,6 +27,11 @@ amziai:
 - t-001
   global_id: t-77207
   teiginys: '1941 m. birželio 26 d. sovietai nužudė Pravieniškių lagerio kalinius ir prižiūrėtojus.'
+  sudarymo_pagrindimas: 'Antraštinis fragmentas perrašytas į pilną faktinį sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvių aktyvistų frontas|Lietuvių aktyvistų frontas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Berlynas; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: SSRS; mentioned_place: Vokietija'
+  temporaliniai_duomenys: 'įvykio data: 1940 m.; įvykio data: 1941 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Antraštinis fragmentas perrašytas į pilną faktinį sakinį.'
   pagrindžia:
     - c-001
 
@@ -33,6 +39,11 @@ amziai:
 - t-002
   global_id: t-77208
   teiginys: '1941 m. birželį Pravieniškių įkalinimo kolonijoje per masines kalinių žudynes nužudyta apie 230 asmenų.'
+  sudarymo_pagrindimas: 'Teiginys sutrumpintas ir sutelktas į Pravieniškių įkalinimo koloniją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva; mentioned_place: Rainiai; mentioned_place: Vokietija'
+  temporaliniai_duomenys: 'įvykio data: 1941 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys sutrumpintas ir sutelktas į Pravieniškių įkalinimo koloniją.'
   pagrindžia:
     - c-002
 

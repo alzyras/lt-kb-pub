@@ -20,6 +20,7 @@ Maleckis, K. Maleckis, dešiniajame sparne stovėjo P.
 - t-001
   global_id: t-40080
   teiginys: 'D. Maleckis buvo paskirtas vienu iš batalionų vadų.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/M. Stanišauskas|M. Stanišauskas]]'
   pagrindžia:
     - c-001
 
@@ -27,6 +28,7 @@ Maleckis, K. Maleckis, dešiniajame sparne stovėjo P.
 - t-002
   global_id: t-40081
   teiginys: 'D. Maleckis su Antonievičiumi užėmė pozicijas centre, kai kairiajame sparne stovėjo kiti batalionai.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Antonievičius|Antonievičius]]; mentioned_person: [[objektai/asmenys/Merlinas|Merlinas]]'
   pagrindžia:
     - c-002
 

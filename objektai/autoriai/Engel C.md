@@ -22,6 +22,8 @@ Dusburgietis teigia, kad greičiausiai čia ir buvo centrinė Kresmenos (Skomant
 - t-001
   global_id: t-60696
   teiginys: 'Engelio darbas cituojamas lokalizuojant centrinę Kresmenos, arba Skomanto, pilį prie Skomanto ežero pietinės pakrantės.'
+  sudarymo_pagrindimas: 'Citata remia Engelio darbą kaip lokalizacijos šaltinį, o pradinė formuluotė netiksliai priskiria teiginį Dusburgiečiui.'
+  susije_objektai: 'mentioned_place: Kresmena'
   pagrindžia:
     - c-001
 
@@ -41,7 +43,3 @@ Dusburgietis teigia, kad greičiausiai čia ir buvo centrinė Kresmenos (Skomant
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/ežeras]]

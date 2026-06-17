@@ -26,6 +26,11 @@ Dusburgietis teigia, kad powierski J.
 - t-001
   global_id: t-61241
   teiginys: 'J. Powierskio straipsnis apie išorinės ekspansijos reikšmę prūsų politinės raidos vėlavimui paskelbtas 1977 m. ABS 11 tome.'
+  sudarymo_pagrindimas: 'Citata palaiko autorių, temą ir publikavimo duomenis.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/ekspansija|ekspansija]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Prūsai'
+  temporaliniai_duomenys: 'įvykio data: 1977 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko autorių, temą ir publikavimo duomenis.'
   pagrindžia:
     - c-001
 

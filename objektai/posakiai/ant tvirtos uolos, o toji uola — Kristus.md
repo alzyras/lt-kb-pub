@@ -22,6 +22,8 @@ Dusburgietis teigia, kad pirmosios dalies įvade tvirtinama, kaip Kristus pastat
 - t-001
   global_id: t-59072
   teiginys: 'Teutonų ordino namų pagrindas vadinamas nesugriaunamu, nes jis pastatytas ant tvirtos uolos, kuri yra Kristus.'
+  sudarymo_pagrindimas: 'Citata remia aiškų teologinį teiginį apie Ordino pagrindą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_person: [[objektai/asmenys/Celestinas III|Celestinas III]]; mentioned_person: [[objektai/asmenys/Popiežius Celestinas III|Popiežius Celestinas III]]; mentioned_place: Austrija; mentioned_place: Jeruzalė; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
 
@@ -44,14 +46,3 @@ Dusburgietis teigia, kad pirmosios dalies įvade tvirtinama, kaip Kristus pastat
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Celestinas III]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Popiežius Celestinas III]]
-- [[objektai/grupes/Teutonai]]
-- [[objektai/zodynas/didysis magistras]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/vietininkas]]
-- [[objektai/zodynas/landkomtūras]]

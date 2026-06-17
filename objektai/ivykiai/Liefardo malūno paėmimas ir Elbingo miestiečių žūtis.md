@@ -45,6 +45,9 @@ Nenurodyta
 - t-001
   global_id: t-62854
   teiginys: 'Liefardo malūne apsupti Elbingo miestiečiai sutiko pagudėnams atiduoti 25 žymesniuosius vyrus, kad kiti liktų gyvi.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Sukonkretinti veikėjai ir vieta.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Elbingo miestiečiai|Elbingo miestiečiai]]; mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_place: Elbingas; mentioned_place: Prūsai'
   pagrindžia:
     - c-002
 
@@ -52,6 +55,9 @@ Nenurodyta
 - t-002
   global_id: t-62855
   teiginys: 'Dusburgiečio pasakojimu, Elbingo miestiečiai nuo sienų matė atsivėrusį dangų ir angelų vedamas nukautųjų sielas.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Tai autoriaus perteiktas pasakojimas, todėl reikalinga atribucija.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Elbingo miestiečiai|Elbingo miestiečiai]]; mentioned_place: Elbingas; mentioned_place: Prūsai'
   pagrindžia:
     - c-003
 
@@ -59,6 +65,12 @@ Nenurodyta
 - t-003
   global_id: t-62856
   teiginys: '1273 m. pagudėnai surengė pasalą prie Elbingo ir privertė miestiečius pasitraukti į įtvirtintą Liefardo malūną.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Citata palaiko aiškų įvykio pradžios aprašymą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_group: [[objektai/grupes/Varmiai|Varmiai]]; mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_place: Elbingas; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1273 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko aiškų įvykio pradžios aprašymą.'
   pagrindžia:
     - c-001
 
@@ -119,12 +131,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bartai]]
-- [[objektai/daiktai/Malūnas]]
-- [[objektai/grupes/Pagudėnai]]
-- [[objektai/grupes/Varmiai]]
-- [[objektai/grupes/Elbingo miestiečiai]]
-- [[objektai/posakiai/visi būsią išžudyti ir sunaikinti]]

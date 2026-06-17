@@ -45,6 +45,12 @@ Nenurodyta
 - t-001
   global_id: t-62901
   teiginys: '1283 m. Teutonų ordino broliai perkėlė Poterbergo pilį iš Kulmo žemės ir prie Vyslos įkūrė Mevės pilį.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytą pilies perkėlimą ir Mevės pilies įkūrimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Kulmas; mentioned_place: Pomeranija; mentioned_place: Poterbergas; mentioned_place: Vysla'
+  temporaliniai_duomenys: 'įkūrimo data: 1283 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia citatoje nurodytą pilies perkėlimą ir Mevės pilies įkūrimą.'
   pagrindžia:
     - c-001
 
@@ -66,8 +72,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Teutonai]]
-- [[objektai/grupes/Kryžiuočių ordinas]]

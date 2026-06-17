@@ -45,6 +45,12 @@ Nenurodyta
 - t-001
   global_id: t-62232
   teiginys: '1313 m. gegužės 5 d. popiežius Klemensas V kanonizavo Petrą išpažintoją, buvusį popiežių Celestiną V, ir nurodė jį gerbti birželio 14 d.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra tikslus faktinis sakinys, pagrįstas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Klemensas V|Klemensas V]]'
+  temporaliniai_duomenys: 'įvykio data: 1313 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra tikslus faktinis sakinys, pagrįstas citata.'
   pagrindžia:
     - c-001
 
@@ -64,10 +70,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Klemensas V]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/paprociai/Kanonizuotų šventųjų liturginio minėjimo dienų nustatymas]]
-- [[objektai/asmenys/Petras (Celestinas V)]]

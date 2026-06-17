@@ -37,6 +37,9 @@ Nenurodyta
 - t-001
   global_id: t-62964
   teiginys: 'Magistras ir broliai įsiveržė į Pagudę, ją nusiaubė, užkariavo Heilsbergo pilį ir paėmė arba išžudė jos žmones.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūksta ir turi perteklinę atribuciją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Heilsbergas; mentioned_place: Pagudė; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
 
@@ -44,6 +47,9 @@ Nenurodyta
 - t-002
   global_id: t-62965
   teiginys: 'Užkariavus Heilsbergo pilį, kuri buvo pagudėnų rankose, nuo to laiko Prūsijos žemėje įsiviešpatavo taika.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Heilsbergas; mentioned_place: Pagudė; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
 
@@ -69,8 +75,3 @@ Nenurodyta
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Pagudėnai]]
-- [[objektai/zodynas/magistras]]

@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Jurgiui Volazkavičiui ir Povilui Višenskiui buvo pavesta ištirti Pabaisko bažnyčios pajamas ir su jos įkūrimu susijusius dalykus.
+Jurgis Volazkavičius buvo šviesiausiojo valdovo pono Žygi­ manto, didžiojo Lietuvos kunigaikščio, brangiausio mūsų dėdės, kadaise pastatyta atminti garsiąją pergalę, laimėtą šioje vietoje prieš prūsus ir lyvius (Livoniją) ir buvo aprū­ pinta pagarbos vertomis lėšomis, nenorėjome, kad netekus privilegijos, žlugtų tikėjimo Dievu išpažinimas ir čia būtų liautasi reikšti dėkingumą viešpačiui DIEVUI už šioje vie­ toje gautą malonę, ir kad bažnyčia patirtų nuostolių; ir to­ dėl mūsų paskirtiesiems komisarams, būtent garbingajam Povilui Višenskiui, Vilniaus kustodui, ir kilmingajam Jur­ giui Volazkavičiui, Lietuvos Didžiosios Kunigaikštystės arklidininkui, pavedėme, remiantis vertų pasitikėjimo žmo­ nių liudijimais, .......................
 
 ## Teiginiai
 
@@ -23,6 +23,8 @@ Jurgiui Volazkavičiui ir Povilui Višenskiui buvo pavesta ištirti Pabaisko ba�
 - t-001
   global_id: t-87745
   teiginys: 'Jurgiui Volazkavičiui ir Povilui Višenskiui buvo pavesta ištirti Pabaisko bažnyčios pajamas ir su jos įkūrimu susijusius dalykus.'
+  sudarymo_pagrindimas: 'Citata rodo, kad pavedimas skirtas dviem komisarams, todėl teiginį reikia patikslinti.'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Prūsai; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

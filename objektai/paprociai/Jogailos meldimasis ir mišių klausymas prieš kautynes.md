@@ -41,6 +41,7 @@ Nenurodyta
 - t-001
   global_id: t-31516
   teiginys: 'Anot Dlugošo, Jogaila prieš kautynes delsė, meldėsi, klausė mišių ir norėjo taikytis.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Ulrichas von Jungingenas|Ulrichas von Jungingenas]]'
   pagrindžia:
     - c-001
 
@@ -62,8 +63,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
-- [[objektai/asmenys/Ulrichas von Jungingenas]]

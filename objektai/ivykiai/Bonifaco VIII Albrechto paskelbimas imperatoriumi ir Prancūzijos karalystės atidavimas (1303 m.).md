@@ -47,6 +47,12 @@ Nenurodyta
 - t-001
   global_id: t-62748
   teiginys: '1303 m. popiežius Bonifacas paskelbė Romos karalių Albrechtą imperatoriumi ir jam atidavė Prancūzijos karalystę, bet Klemensas V tai atšaukė.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiksliai paremtas citatos duomenimis.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Flandrai|Flandrai]]; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_person: [[objektai/asmenys/Klemensas V|Klemensas V]]; mentioned_place: Prancūzija'
+  temporaliniai_duomenys: 'įvykio data: 1303 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir tiksliai paremtas citatos duomenimis.'
   pagrindžia:
     - c-001
 
@@ -66,11 +72,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Flandrai]]
-- [[objektai/grupes/Prancūzai]]
-- [[objektai/asmenys/Klemensas V]]
-- [[objektai/asmenys/Albrechtas (Romos karalius)]]
-- [[objektai/asmenys/Bonifacas VIII|Bonifacas VIII (arkivyskupas, XIII–XIV a.)]]

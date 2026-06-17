@@ -20,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-Prasidėjus Šaltajam karui, JAV keitė požiūrį į dipukus, o JAV Kongresas 1948 m. viduryje priėmė Perkeltųjų asmenų įstatymą. Vokietijai pralaimėjus karą, kai kurie pabėgėliai pateko į dipukų, arba perkeltųjų asmenų, stovyklas.
+Vokietijai pralaimėjus karą, kai kurie jų pateko į vadinamąsias dipukų (angl. Prasidėjus Šaltajam karui tarp JAV ir SSRS, amerikiečiai ėmė keisti savo požiūrį į dipukus.
 
 ## Teiginiai
 
@@ -28,6 +28,11 @@ Prasidėjus Šaltajam karui, JAV keitė požiūrį į dipukus, o JAV Kongresas 1
 - t-001
   global_id: t-101578
   teiginys: 'Prasidėjus Šaltajam karui, JAV keitė požiūrį į dipukus, o JAV Kongresas 1948 m. viduryje priėmė Perkeltųjų asmenų įstatymą.'
+  sudarymo_pagrindimas: 'Reikia patikslinti, kad įstatymą priėmė JAV Kongresas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/JAV Kongresas|JAV Kongresas]]; mentioned_place: Baltija; mentioned_place: Lenkija'
+  temporaliniai_duomenys: 'įvykio data: 1948 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia patikslinti, kad įstatymą priėmė JAV Kongresas.'
   pagrindžia:
     - c-002
 
@@ -35,6 +40,7 @@ Prasidėjus Šaltajam karui, JAV keitė požiūrį į dipukus, o JAV Kongresas 1
 - t-002
   global_id: t-101579
   teiginys: 'Vokietijai pralaimėjus karą, kai kurie pabėgėliai pateko į dipukų, arba perkeltųjų asmenų, stovyklas.'
+  susije_objektai: 'mentioned_place: Vokietija'
   pagrindžia:
     - c-001
 
@@ -68,7 +74,3 @@ Prasidėjus Šaltajam karui, JAV keitė požiūrį į dipukus, o JAV Kongresas 1
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/JAV Kongresas]]

@@ -52,6 +52,8 @@ Nenurodyta
 - t-001
   global_id: t-71559
   teiginys: 'X–XI a. dviašmenių kalavijų randama ir to laikotarpio kapuose Lietuvoje.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie objektą ir atitinka citatos turinį.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kalavijai|Kalavijai]]; mentioned_object: [[objektai/daiktai/Sidabruotos geležinės balnakilpės|Sidabruotos geležinės balnakilpės]]; mentioned_place: Europa; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -59,6 +61,7 @@ Nenurodyta
 - t-002
   global_id: t-71560
   teiginys: 'X–XI a. Vakarų Europoje paplitusių dviašmenių kalavijų randama ir to laikotarpio kapuose Lietuvoje.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kalavijai|Kalavijai]]; mentioned_object: [[objektai/daiktai/Sidabruotos geležinės balnakilpės|Sidabruotos geležinės balnakilpės]]; mentioned_place: Europa; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -66,6 +69,7 @@ Nenurodyta
 - t-003
   global_id: t-71561
   teiginys: 'X–XI a. dviašmenis kalavijas buvo paplitęs Vakarų Europoje.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kalavijai|Kalavijai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/daiktai/Sidabruotos geležinės balnakilpės|Sidabruotos geležinės balnakilpės]]; mentioned_place: Europa; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -73,9 +77,10 @@ Nenurodyta
 - t-004
   global_id: t-71562
   teiginys: 'Dviašmenis kalavijas X–XI a. buvo paplitęs Vakarų Europoje.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_place: Europa; mentioned_place: Lietuva'
   pagrindžia:
-    - c-002
     - c-001
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -114,12 +119,3 @@ Nenurodyta
     - t-002
     - t-004
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Baltai]]
-- [[objektai/daiktai/Kalavijai]]
-- [[objektai/daiktai/Sidabruotos geležinės balnakilpės]]
-- [[objektai/daiktai/Kalavijas]]
-- [[objektai/grupes/Baltų kovų brolija „Vilkatlakai“]]
-- [[objektai/daiktai/Tik Lietuvai būdingi dvinariai žąslai su skersinukais]]

@@ -23,6 +23,7 @@ Jos buvo pravestos nuo Mozūrijos sienos upe aukštyn į Grajevo ir Ragordo eže
 - t-001
   global_id: t-36543
   teiginys: 'Siena buvo pravesta nuo Mozūrijos sienos į Grajevo ir Ragordo ežerus, toliau per Vištyčio ežerą ir upes iki Nemuno.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Grajevo; mentioned_place: Klaipėda; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Mozūrija; mentioned_place: Nemunas; mentioned_place: Palanga; mentioned_place: Viena; mentioned_place: Šešupė'
   pagrindžia:
     - c-001
 

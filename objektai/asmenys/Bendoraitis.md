@@ -20,6 +20,7 @@ Bendoraitis apsisuko kelis kartus ore ir nukrito.
 - t-001
   global_id: t-40067
   teiginys: 'Po sviedinio sprogimo skyrininkas Bendoraitis buvo išmestas aukščiau telefono stulpų ir nukrito.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Stulpai|Stulpai]]'
   pagrindžia:
     - c-001
 
@@ -41,8 +42,3 @@ Bendoraitis apsisuko kelis kartus ore ir nukrito.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/daiktai/Stulpai]]

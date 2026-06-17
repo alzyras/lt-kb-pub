@@ -27,6 +27,9 @@ Be kartečės ir paprastų sviedinių, iš patrankų buvo šaudoma ir apšvieči
 - t-001
   global_id: t-42419
   teiginys: 'Brandskugeliai buvo tuščiaviduriai ketaus sviediniai su padegamuoju mišiniu, o karkasai - ovalūs iš geležinių žiedų sudaryti padegamieji sviediniai.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Kartečė|Kartečė]]; mentioned_object: [[objektai/daiktai/Parakas|Parakas]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1794 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -68,8 +71,3 @@ Be kartečės ir paprastų sviedinių, iš patrankų buvo šaudoma ir apšvieči
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Kartečė]]
-- [[objektai/daiktai/Parakas]]

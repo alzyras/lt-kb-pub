@@ -28,6 +28,11 @@ Jau 1407 m. Žemaičiai vakarų krikščionims patiektame savo memoriale, kuris 
 - t-001
   global_id: t-28750
   teiginys: '1416 m. Konstancoje įteiktame „Žemaičių skunde“ išsamiai išvardytos ordino riterių skriaudos.'
+  sudarymo_pagrindimas: 'Geresnis sakinys tiesiogiai įvardija note objektą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_place: Konstanca'
+  temporaliniai_duomenys: 'įvykio data: 1407 m.; įvykio data: 1416 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Geresnis sakinys tiesiogiai įvardija note objektą.'
   pagrindžia:
     - c-001
 
@@ -35,9 +40,17 @@ Jau 1407 m. Žemaičiai vakarų krikščionims patiektame savo memoriale, kuris 
 - t-002
   global_id: t-184365
   teiginys: 'Jau 1407 m. Žemaičiai vakarų krikščionims patiektame savo memoriale, kuris Konstancoje buvo ištisai paskelbtas, skundėsi kieta ordino priespauda ir jo žiaurumais.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir visiškai pagrįstas pateikta citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_object: [[objektai/zodynas/įkaitai|įkaitai]]; mentioned_place: Konstanca'
+  temporaliniai_duomenys: 'įvykio data: 1407 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, faktinis ir visiškai pagrįstas pateikta citata.'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/posakiai/sicut anguillam per caudam.md#claim-t-184361|sicut anguillam per caudam]]: Ordinas Konstancoje pripažino Žemaičius laikęs lyg slidų ungurį už uodegos („sicut anguillam per caudam“).
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -71,10 +84,3 @@ Jau 1407 m. Žemaičiai vakarų krikščionims patiektame savo memoriale, kuris 
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/zodynas/įkaitai]]
-- [[objektai/grupes/Žemaičiai]]
-- [[objektai/posakiai/sicut anguillam per caudam]]

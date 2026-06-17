@@ -22,6 +22,8 @@ Dienos pabaigoje, pasinaudoję tamsa dalis partizanų Jokubavo mišku sugebėjo 
 - t-001
   global_id: t-41746
   teiginys: 'Dienos pabaigoje dalis partizanų, pasinaudoję tamsa, Jokubavo mišku prasiveržė Pakruojo link.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nurodo veikėjus, veiksmą ir vietą, o citata jį pagrindžia.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]'
   pagrindžia:
     - c-001
 

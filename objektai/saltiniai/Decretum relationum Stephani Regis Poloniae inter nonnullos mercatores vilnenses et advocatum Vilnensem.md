@@ -29,6 +29,11 @@ amziai:
 - t-001
   global_id: t-88245
   teiginys: '1586 m. liepos 11 d. karaliaus Stepono sprendimu visiems Vilniaus gyventojams įsakyta pagarbiai švęsti iškilmingas šventes pagal naują kalendorių.'
+  sudarymo_pagrindimas: 'Pradinis tekstas per ilgas ir bibliografiškai triukšmingas, o citata pagrindžia sprendimo datą ir turinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus pirkliai|Vilniaus pirkliai]]; mentioned_object: [[objektai/zodynas/vaitas|vaitas]]; mentioned_person: [[objektai/asmenys/Eustachijus (raštininkas)|Eustachijus (raštininkas)]]; mentioned_person: [[objektai/asmenys/Grigalius (vicekancleris)|Grigalius (vicekancleris)]]; mentioned_person: [[objektai/asmenys/Sabinas|Sabinas]]; mentioned_place: Lenkija; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1586 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis tekstas per ilgas ir bibliografiškai triukšmingas, o citata pagrindžia sprendimo datą ir turinį.'
   pagrindžia:
     - c-001
 
@@ -36,6 +41,11 @@ amziai:
 - t-002
   global_id: t-88246
   teiginys: '1586 m. liepos 11 d. Stepono Batoro sprendimu Vilniaus gyventojams įsakyta švęsti įprastas šventes pagal naują kalendorių.'
+  sudarymo_pagrindimas: 'Teiginys yra užbaigtas ir tiesiogiai paremtas citatoje pateiktu dokumento aprašymu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus pirkliai|Vilniaus pirkliai]]; mentioned_object: [[objektai/zodynas/vaitas|vaitas]]; mentioned_person: [[objektai/asmenys/Eustachijus (raštininkas)|Eustachijus (raštininkas)]]; mentioned_person: [[objektai/asmenys/Grigalius (vicekancleris)|Grigalius (vicekancleris)]]; mentioned_person: [[objektai/asmenys/Sabinas|Sabinas]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_place: Lenkija; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1586 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra užbaigtas ir tiesiogiai paremtas citatoje pateiktu dokumento aprašymu.'
   pagrindžia:
     - c-001
 

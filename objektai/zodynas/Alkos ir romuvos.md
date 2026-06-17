@@ -36,28 +36,44 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-004
+
+<a id="claim-t-06171"></a>
+- t-001
+  global_id: t-06171
   teiginys: 'Archeologų atkastas šventoves apylinkių žmonės dažnai vadino alkų vardais.'
+  sudarymo_pagrindimas: 'Citata palaiko tikslesnį sakinį apie alkų vardų vartojimą.'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-005
-  teiginys: 'Šventovės vienur buvo vadinamos romuvomis, kitur alkomis, galbūt dėl pobūdžio ar tarmių skirtumų.'
-  pagrindžia:
-    - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-006
-  teiginys: 'Pasakojimas apie vieną vyriausiąją Romuvą laikomas viduramžių rašytojų prasimanymu.'
-  pagrindžia:
-    - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
+<a id="claim-t-06172"></a>
+- t-002
+  global_id: t-06172
+  teiginys: 'Pasakojimas apie vieną vyriausiąją Romuvą laikomas viduramžių rašytojų prasimanymu.'
+  sudarymo_pagrindimas: 'Citata palaiko tikslesnį enciklopedinį teiginį apie Romuvos vaizdinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_place: Romuva; mentioned_place: Viena'
+  pagrindžia:
+    - c-002
+
+<a id="claim-t-06173"></a>
+- t-003
+  global_id: t-06173
+  teiginys: 'Šventovės vienur buvo vadinamos romuvomis, kitur alkomis, galbūt dėl pobūdžio ar tarmių skirtumų.'
+  sudarymo_pagrindimas: 'Reikia tiksliau perteikti citatos formuluotę be perteklinio aiškinimo.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_place: Viena'
+  pagrindžia:
+    - c-002
+- susijęs iš [[objektai/ivykiai/Romainių šventvietės sunaikinimas (1294 m.).md#claim-t-55130|Romainių šventvietės sunaikinimas (1294 m.)]]: 1294 m. kryžiuočiai užėmė Romainių pilį, pasiėmė turtą ir išžudė žynius.
+- susijęs iš [[objektai/ivykiai/Romainių šventvietės sunaikinimas (1294 m.).md#claim-t-55131|Romainių šventvietės sunaikinimas (1294 m.)]]: Balińskio manymu, po Romainių sunaikinimo Perkūno tikėjimo relikvijos ir Krivių Krivaitis su aukotojais galėjo būti perkelti į Vilnių.
+- susijęs iš [[objektai/ivykiai/Romainių šventvietės sunaikinimas (1294 m.).md#claim-t-81827|Romainių šventvietės sunaikinimas (1294 m.)]]: 1294 m. kryžiuočiai užėmė Romainių pilį, pasiėmė turtą ir išžudė žynius.
+- susijęs iš [[objektai/paprociai/Romuvų šventos girios ir Perkūno garbinimas.md#claim-t-87251|Romuvų šventos girios ir Perkūno garbinimas]]: Romuvomis vadintose šventose vietovėse vidury šventų girių buvo garbinamas Perkūnas ir gyveno Krivių Krivaitis.
+- susijęs iš Prūsija: Kryžiuočiai, užėmę Prūsiją, sunaikino Romuvą.
+- susijęs iš Prūsija: Kryžiuočiai sunaikino Romuvas, užėmę Prūsiją.
+- susijęs iš Romainiai: Romainių vietoje prie Kauno, ant Nevėžio kranto, galėjo būti viena iš senovės lietuvių Romuvų.
+- susijęs iš [[objektai/zodynas/Šventaragio, Gabijos, Krivių Krivaičio ir Romuvų terminija.md#claim-t-86452|Šventaragio, Gabijos, Krivių Krivaičio ir Romuvų terminija]]: Romuvos buvo senovės lietuvių šventvietės šventose giriose, kur garbintas Perkūnas ir gyveno Krivių Krivaitis.
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Archeologų atkastas šventoves apylinkių žmonės dažnai vadino alkų vardais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     O šitos šventovės
@@ -65,15 +81,13 @@ Nenurodyta
     Archeologai atkasa dabar tų šventovių, kurias apylinkės žmonės
     dažniausiai vadina savotiškais alkų vardais. Alkos kalnų, Al-
     kakapių, Alkų kaimų — pilna Lietuvoje.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-004
+    - t-001
+
 - c-002
-  santrauka: 'Šventovės vienur buvo vadinamos romuvomis, kitur alkomis, galbūt dėl pobūdžio ar tarmių skirtumų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Visi jie atlikinėjo įvairias apeigas, tik, žinoma, kai
@@ -86,20 +100,9 @@ Nenurodyta
     nusižiūrėję į katalikų Bažnyčią. Šventovės vienur buvo vadi-
     namos romuvomis, kitur alkomis, — gal būt, dėl skirtingo savo
     pobūdžio arba dėl tarminių skirtumų.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-005
-    - t-006
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Aisčiai]]
-- [[objektai/zodynas/kunigas]]
-- [[objektai/ivykiai/Romainių šventvietės sunaikinimas (1294 m.)]]
-- [[objektai/paprociai/Romuvų šventos girios ir Perkūno garbinimas]]
-- [[objektai/zodynas/Šventaragio, Gabijos, Krivių Krivaičio ir Romuvų terminija]]
-- [[objektai/zodynas/alkos romuvos]]
+    - t-003
+    - t-002

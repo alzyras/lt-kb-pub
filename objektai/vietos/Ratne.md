@@ -20,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-Ratnėje, Pripetės aukštupyje, valdė Algirdo sūnus Teodoras.
+Polocke sėdėjo Andrius, Brianske (prie Desnos) — Dimi­ tras († 1399), Černihove — Konstantinas, Kijeve — Vladimiras († 1398), Ratne (Pripetės aukštupyje)—Teodoras († 1394).
 
 ## Teiginiai
 
@@ -28,9 +28,11 @@ Ratnėje, Pripetės aukštupyje, valdė Algirdo sūnus Teodoras.
 - t-001
   global_id: t-28532
   teiginys: 'Ratnėje, Pripetės aukštupyje, valdė Algirdo sūnus Teodoras.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nurodo Ratnės vietą ir Teodoro valdymą, remdamasis citata.'
+  susije_objektai: 'territory: Brianskas; territory: Kijevas; territory: Lietuva; territory: Polockas; territory: Pripetė; territory: Vladimiras; mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Teodoras|Teodoras]]; mentioned_place: Brianskas; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_place: Polockas; mentioned_place: Pripetė; mentioned_place: Vladimiras'
   pagrindžia:
     - c-001
-
+- susijęs iš Polockas: Algirdas rytinėse Lietuvos Didžiosios Kunigaikštijos žemėse pasodino savo sūnus, o Polocke sėdėjo Andrius.
 ## Reikšmingi paminėjimai
 
 - c-001

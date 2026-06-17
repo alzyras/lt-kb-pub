@@ -41,6 +41,8 @@ Nenurodyta
 - t-001
   global_id: t-91922
   teiginys: 'Kapinių šventinimo metu vyskupas šlakstė mirusiųjų kapus švęstu vandeniu.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_place: Prūsija; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -63,8 +65,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Kūnas]]
-- [[objektai/paprociai/Maldininko įžadų vykdymas Prūsijoje]]

@@ -33,6 +33,11 @@ Nenurodyta
 - t-001
   global_id: t-185860
   teiginys: 'Aleksandras Šich Achmetą pasitiko už penkių mylių, plyname lauke pastačius puošnią palapinę ir plačiu kilimu užtiesus kelią.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nusako veikėją, veiksmą ir sutikimo aplinkybes.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_place: Radomas; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -60,10 +65,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Aleksandras]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/asmenys/Aleksandras Jogailaitis]]
-- [[objektai/asmenys/Šich Achmetas]]

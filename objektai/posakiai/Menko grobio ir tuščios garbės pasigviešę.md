@@ -23,6 +23,8 @@ Juo sunkiau buvo įveikiami lenkai, juo kautynės darėsi žiauresnės; įkirši
 - t-001
   global_id: t-86863
   teiginys: 'Apgultieji prancūzams priekaištavo, kad šie, menko grobio ir tuščios garbės pasigviešę, atvyko lieti krikščionių kraujo.'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo nutrūkęs OCR fragmentas, o citata leidžia suformuluoti pilną sakinį.'
+  susije_objektai: 'location: Praha; location: Vilnius; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_group: [[objektai/grupes/Vilniaus prastuomenė|Vilniaus prastuomenė]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Praha; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -57,10 +59,3 @@ Juo sunkiau buvo įveikiami lenkai, juo kautynės darėsi žiauresnės; įkirši
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Prancūzai]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/grupes/Vilniaus prastuomenė]]

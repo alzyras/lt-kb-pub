@@ -23,9 +23,12 @@ Daugiausia buvo varginama Kulmijos šalis.
 - t-001
   global_id: t-95916
   teiginys: 'Per karo veiksmus Prūsijoje apie Vyslą ir Dravę daugiausia buvo varginama Kulmijos šalis.'
+  sudarymo_pagrindimas: 'Pradinis teiginys per trumpas ir be konteksto silpnai nusako faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Kulmija; mentioned_place: Prūsija; mentioned_place: Visla; mentioned_place: Vysla'
   pagrindžia:
     - c-001
-
+- susijęs iš Dresvenco upė: Prūsijos kraštas apie Vislos ir Dresvenco upes pateko į karo sūkurį.
+- susijęs iš Visla: Prūsijos kraštas apie Vislos ir Dresvenco upes pateko į karo sūkurį.
 ## Reikšmingi paminėjimai
 
 - c-001

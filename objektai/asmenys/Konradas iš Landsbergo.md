@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Konradas, Lenkijos kunigaikštis, išklausė brolius ir nuodugniai apsvarstė jam pateiktą reikalą. Magistras Hermanas pasiuntė Konradą iš Landsbergo į Kulmo žemę patikrinti Lenkijos kunigaikščio pasiuntinių.
+Dusburgietis teigia, kad taigi pas Lenkijos kunigaikštį magistras pasiuntė brolį Konradą iš Landsbergo ir dar vieną savo Ordino brolį pasidairyti Kulmo žemėje ir pažiūrėti, ar pasiuntiniai iš tikrųjų atvykę jo noru. Dusburgietis teigia, kad juos išklausęs, minėtasis valdovas Konradas, Lenkijos kunigaikštis, kaip jau esame sakę, nuodugniai visą reikalą apsvarstęs, be to, patartas 168 Dobrynė — deš.
 
 ## Teiginiai
 
@@ -23,6 +23,8 @@ Konradas, Lenkijos kunigaikštis, išklausė brolius ir nuodugniai apsvarstė ja
 - t-001
   global_id: t-60157
   teiginys: 'Konradas, Lenkijos kunigaikštis, išklausė brolius ir nuodugniai apsvarstė jam pateiktą reikalą.'
+  sudarymo_pagrindimas: 'Citata pagrindžia aiškų faktą apie Konrado veiksmą.'
+  susije_objektai: 'mentioned_place: Dobrynė; mentioned_place: Lenkija'
   pagrindžia:
     - c-001
 
@@ -30,6 +32,8 @@ Konradas, Lenkijos kunigaikštis, išklausė brolius ir nuodugniai apsvarstė ja
 - t-002
   global_id: t-60158
   teiginys: 'Magistras Hermanas pasiuntė Konradą iš Landsbergo į Kulmo žemę patikrinti Lenkijos kunigaikščio pasiuntinių.'
+  sudarymo_pagrindimas: 'Citata palaiko faktą, bet pradiniame teiginyje yra perteklinių fragmentų.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Hermanas|Hermanas]]; mentioned_person: [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos]]; mentioned_place: Kulmas; mentioned_place: Lenkija; mentioned_place: Prūsai; mentioned_place: Viena; mentioned_place: Vokietija'
   pagrindžia:
     - c-002
 
@@ -69,8 +73,3 @@ Konradas, Lenkijos kunigaikštis, išklausė brolius ir nuodugniai apsvarstė ja
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/magistras]]
-- [[objektai/ivykiai/Teutonų ordino pakvietimas ir žvalgomoji misija į Kulmo žemę]]

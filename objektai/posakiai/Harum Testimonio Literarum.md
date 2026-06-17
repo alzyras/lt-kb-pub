@@ -20,6 +20,8 @@ Harum Testimonio Literarum, quibus Sigill um Nostrum Mag­ ni Ducatus Litbvaniae
 - t-001
   global_id: t-86846
   teiginys: 'Formulė „Harum Testimonio Literarum“ vartota dokumente, prie kurio buvo prikabintas Lietuvos Didžiosios Kunigaikštystės antspaudas.'
+  sudarymo_pagrindimas: 'Citata palaiko dokumento formulės vartojimą, bet pradinis tekstas buvo lotyniškas fragmentas su OCR klaidomis.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -43,7 +45,3 @@ Harum Testimonio Literarum, quibus Sigill um Nostrum Mag­ ni Ducatus Litbvaniae
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Antspaudas]]

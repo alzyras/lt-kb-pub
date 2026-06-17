@@ -45,6 +45,11 @@ Nenurodyta
 - t-001
   global_id: t-28885
   teiginys: '1409 m. rugpjūčio 6 d., kryžiuočiams prarandant Žemaičius ir neatskyrus Jogailos nuo Vytauto, Ordinas paskelbė karą Lenkijai.'
+  sudarymo_pagrindimas: 'Pradinis sakinys prasideda kontekstiniu fragmentu, todėl perrašytas į savarankišką faktinį teiginį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Lenkija'
+  temporaliniai_duomenys: 'įvykio data: 1409 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis sakinys prasideda kontekstiniu fragmentu, todėl perrašytas į savarankišką faktinį teiginį.'
   pagrindžia:
     - c-001
 
@@ -63,8 +68,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/ivykiai/Žemaičių sukilimas 1409 m]]

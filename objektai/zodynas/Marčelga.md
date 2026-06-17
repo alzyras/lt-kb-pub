@@ -27,6 +27,8 @@ Papildomos aiškios formos neišskirtos.
 - t-001
   global_id: t-07656
   teiginys: 'Marčelga buvo jaunojo palydos vyresnysis arba gaspadorius, taip vadintas todėl, kad martavo marčią.'
+  sudarymo_pagrindimas: 'Citata tiksliau apibūdina pareigą vestuvių kontekste.'
+  susije_objektai: 'mentioned_place: Viena'
   pagrindžia:
     - c-001
 

@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Gegužės trečiosios konstitucija įformino miestiečių teises ir pirmąkart paminėjo valstybės globą valstiečiams santykiuose su dvarininkais. Gegužės trečiosios konstitucija įformino miestiečių teises.
+Miestiečių teises ir įformino Gegužės trečiosios konstitucija.
 
 ## Teiginiai
 
@@ -23,6 +23,8 @@ Gegužės trečiosios konstitucija įformino miestiečių teises ir pirmąkart p
 - t-001
   global_id: t-19942
   teiginys: 'Gegužės trečiosios konstitucija įformino miestiečių teises ir pirmąkart paminėjo valstybės globą valstiečiams santykiuose su dvarininkais.'
+  sudarymo_pagrindimas: 'Sakinys patikslintas pagal citatą ir pašalintas ne toks tikslus žodis „užsiminė“.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]'
   pagrindžia:
     - c-001
 
@@ -30,6 +32,11 @@ Gegužės trečiosios konstitucija įformino miestiečių teises ir pirmąkart p
 - t-002
   global_id: t-183172
   teiginys: 'Gegužės trečiosios konstitucija įformino miestiečių teises.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Sakinys yra trumpas, gramatiškas ir tiesiogiai pagrįstas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]'
   pagrindžia:
     - c-002
 
@@ -66,10 +73,3 @@ Gegužės trečiosios konstitucija įformino miestiečių teises ir pirmąkart p
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bajorai]]
-- [[objektai/zodynas/luomas]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

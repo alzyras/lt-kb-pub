@@ -30,6 +30,11 @@ Nenurodyta
 - t-001
   global_id: t-185700
   teiginys: 'Gardino derybose su maskvėnais Lietuvos senatoriai buvo paskirti vieni pasiuntiniams priimti, kiti valstybės reikalams aptarti.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Vardų sąrašas fragmentiškas; citata geriau palaiko bendrą derybų organizavimo faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos senatoriai|Lietuvos senatoriai]]; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_group: [[objektai/grupes/Valavičiai|Valavičiai]]; mentioned_object: [[objektai/zodynas/Pataurininkis|Pataurininkis]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/kaštelionas|kaštelionas]]; mentioned_object: [[objektai/zodynas/stalininkas|stalininkas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Eustachijus (raštininkas)|Eustachijus (raštininkas)]]; mentioned_person: [[objektai/asmenys/Eustachijus Valavičius|Eustachijus Valavičius]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Trakai; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -65,22 +70,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Eustachijus (raštininkas)]]
-- [[objektai/asmenys/Eustachijus Valavičius]]
-- [[objektai/asmenys/Jonas]]
-- [[objektai/grupes/Maskvėnai]]
-- [[objektai/asmenys/Mykolas]]
-- [[objektai/zodynas/Pataurininkis]]
-- [[objektai/grupes/Valavičiai]]
-- [[objektai/zodynas/didysis kunigaikštis]]
-- [[objektai/zodynas/kaštelionas]]
-- [[objektai/zodynas/stalininkas]]
-- [[objektai/zodynas/vaivada]]
-- [[objektai/grupes/Lietuvos senatoriai]]
-- [[objektai/paprociai/Diplomatinis pasiuntinių sutikimas, priėmimas ir vaišinimas atskiriant derybų pareigas]]
-- [[objektai/asmenys/Mikalojus Naruševičius]]
-- [[objektai/asmenys/Mikalojus Radvila]]
-- [[objektai/zodynas/pataurininkis stalininkas rūmininkas iždininkas]]

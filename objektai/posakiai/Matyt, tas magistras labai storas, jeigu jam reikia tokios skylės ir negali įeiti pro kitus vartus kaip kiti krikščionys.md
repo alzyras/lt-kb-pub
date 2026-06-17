@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Moteris pašiepė magistrą, kai šis į miestą įėjo tik išlaužus sienoje 30 uolekčių ilgio spragą.
+Dusburgietis teigia, kad magistras tol nekėlė kojos į miestą, kol jo sienoje nebuvo išlaužta 30 uolekčių ilgio spraga.
 
 ## Teiginiai
 
@@ -21,6 +21,8 @@ Moteris pašiepė magistrą, kai šis į miestą įėjo tik išlaužus sienoje 3
 - t-001
   global_id: t-59129
   teiginys: 'Moteris pašiepė magistrą, kai šis į miestą įėjo tik išlaužus sienoje 30 uolekčių ilgio spragą.'
+  sudarymo_pagrindimas: 'Citata labiau pagrindžia posakio aplinkybę ir pašiepimo turinį, o ne autoriaus teiginį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -43,7 +45,3 @@ Moteris pašiepė magistrą, kai šis į miestą įėjo tik išlaužus sienoje 3
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/magistras]]

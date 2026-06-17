@@ -49,6 +49,11 @@ Nenurodyta
 - t-001
   global_id: t-87296
   teiginys: '1322 m. kryžiuočių žygio į Vaikius Žemaitijoje tikslai buvo belaisvių ėmimas, krašto niokojimas ir plėšikavimas.'
+  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytus 1322 m. žygio tikslus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Bernardas|Bernardas]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_person: [[objektai/asmenys/Plihta|Plihta]]; mentioned_place: Reinas; mentioned_place: Silezija; mentioned_place: Vaikiai; mentioned_place: Viena; mentioned_place: Čekija; mentioned_place: Šventoji'
+  temporaliniai_duomenys: 'įvykio data: 1322 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia citatoje nurodytus 1322 m. žygio tikslus.'
   pagrindžia:
     - c-001
 
@@ -79,12 +84,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Bernardas]]
-- [[objektai/asmenys/Fridrichas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Plihta]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/žygis]]

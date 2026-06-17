@@ -21,6 +21,8 @@ Dusburgietis teigia, kad brolis Henrikas atsakė: „Tikiu dievą tėvą, visaga
 - t-001
   global_id: t-59161
   teiginys: 'Brolis Henrikas ištarė „Tikiu dievą tėvą, visagalį“ ir kitus Apaštalų tikėjimo išpažinimo žodžius, kai buvo raginamas išpažinti žydų tikėjimą.'
+  sudarymo_pagrindimas: 'Teiginys gramatiškas, bet geriau sutrumpinti ir aiškiai įvardyti situaciją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -41,11 +43,3 @@ Dusburgietis teigia, kad brolis Henrikas atsakė: „Tikiu dievą tėvą, visaga
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/drabužis]]
-
-### Susiję objektai
-- [[objektai/autoriai/Henrikas]]
-- [[objektai/grupes/Žydai]]

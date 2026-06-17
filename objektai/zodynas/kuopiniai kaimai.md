@@ -23,6 +23,8 @@ Rytprūsiuose, palei žemutinę Vyslą, jau yra žinomi upių krantų aukštumos
 - t-001
   global_id: t-32789
   teiginys: 'Gyvendami savo medinėse šiaudais dengtose dvišlaičiais stogais triobose, lietuviai, kaip ir kiti baltai, būrėsi į kuopinius kaimus.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Lietgaliai|Lietgaliai]]; mentioned_group: [[objektai/grupes/Žiemgaliai|Žiemgaliai]]; mentioned_object: [[objektai/zodynas/vienkiemiai|vienkiemiai]]; mentioned_place: Prūsai'
   pagrindžia:
     - c-002
 
@@ -30,6 +32,8 @@ Rytprūsiuose, palei žemutinę Vyslą, jau yra žinomi upių krantų aukštumos
 - t-002
   global_id: t-32790
   teiginys: 'Istorinių laikų sandūroje šalia įprastinių kuopinių kaimų pasitaikydavo lietuvių viensėdžių sodybų, bet kaiminės sodybos dominavo.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai perteikia citatoje nurodytą gyvenviečių formų santykį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Lietgaliai|Lietgaliai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/vienkiemiai|vienkiemiai]]'
   pagrindžia:
     - c-003
 
@@ -37,9 +41,11 @@ Rytprūsiuose, palei žemutinę Vyslą, jau yra žinomi upių krantų aukštumos
 - t-003
   global_id: t-32791
   teiginys: 'Antrame tūkstantmetyje pr. Kr. Rytprūsiuose palei žemutinę Vyslą jau buvo kuopinių kaimų.'
+  susije_objektai: 'mentioned_place: Rytprūsiai; mentioned_place: Vysla'
   pagrindžia:
     - c-001
-
+- susijęs iš Rytprūsiai: Antrame tūkstantmetyje pr. Kr. Rytprūsiuose palei žemutinę Vyslą buvo žinomi upių krantų aukštumose įkurti kuopiniai kaimai.
+- susijęs iš Vysla: Rytprūsiuose, palei žemutinę Vyslą, jau yra žinomi upių krantų aukštumose įkurti kuopiniai kaimai (Haufendoerfer).
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -88,12 +94,3 @@ Rytprūsiuose, palei žemutinę Vyslą, jau yra žinomi upių krantų aukštumos
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Baltai]]
-- [[objektai/grupes/Kuršiai]]
-- [[objektai/grupes/Lietgaliai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/vienkiemiai]]
-- [[objektai/grupes/Žiemgaliai]]

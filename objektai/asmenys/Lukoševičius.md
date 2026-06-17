@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Skyrininkas Lukoševičius nudūrė leitenantą Barkauską už gerklės griebusį komisarą.
+Šalia jo stovėjęs skyrininkas Lukoševičius komisarą nudūrė.
 
 ## Teiginiai
 
@@ -20,9 +20,12 @@ Skyrininkas Lukoševičius nudūrė leitenantą Barkauską už gerklės griebus�
 - t-001
   global_id: t-80739
   teiginys: 'Skyrininkas Lukoševičius nudūrė leitenantą Barkauską už gerklės griebusį komisarą.'
+  sudarymo_pagrindimas: 'Pašalintas neaiškus įvardis ir sakinys padarytas savarankiškas.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Durtuvas|Durtuvas]]; mentioned_person: [[objektai/asmenys/Barkauskas|Barkauskas]]; mentioned_person: [[objektai/asmenys/Baziliauskas|Baziliauskas]]; mentioned_person: [[objektai/asmenys/Palačinskas|Palačinskas]]'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Baziliauskas.md#claim-t-80730|Baziliauskas]]: Būrininkas Baziliauskas bolševikų štabe nusmeigė kelis komisarus.
+- susijęs iš [[objektai/asmenys/Palačinskas.md#claim-t-80742|Palačinskas]]: Eilinis Palačinskas bolševikų štabe nudūrė vieną komisarą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -42,7 +45,3 @@ Skyrininkas Lukoševičius nudūrė leitenantą Barkauską už gerklės griebus�
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Durtuvas]]

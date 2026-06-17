@@ -18,6 +18,11 @@ atnaujinta: ''
 - t-001
   global_id: t-187541
   teiginys: 'Žvalgai Aleksandrui prie Bobro upės pranešė, kad jo kariuomenės avangardas buvo sumuštas ties Vedroša.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Sakinys aiškus, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Lietuvos didysis kunigaikštis|Lietuvos didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -43,10 +48,3 @@ atnaujinta: ''
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Aleksandras]]
-- [[objektai/asmenys/Aleksandras Jogailaitis]]
-- [[objektai/zodynas/Lietuvos didysis kunigaikštis]]
-- [[objektai/zodynas/didysis kunigaikštis]]

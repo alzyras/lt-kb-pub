@@ -26,6 +26,11 @@ amziai:
 - t-001
   global_id: t-34943
   teiginys: 'Oskaro Haleckio veikalas Dzieje Unji Jagiełłonskiej pirmu tomu išleistas Krokuvoje 1919 m.'
+  sudarymo_pagrindimas: 'Citata palaiko autorių, pavadinimą, tomą, vietą ir metus.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Krokuva'
+  temporaliniai_duomenys: 'įvykio data: 1919 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko autorių, pavadinimą, tomą, vietą ir metus.'
   pagrindžia:
     - c-001
 

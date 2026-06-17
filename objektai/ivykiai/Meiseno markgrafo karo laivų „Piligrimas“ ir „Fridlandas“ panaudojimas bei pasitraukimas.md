@@ -39,6 +39,9 @@ Nenurodyta
 - t-001
   global_id: t-62877
   teiginys: 'Meiseno markgrafas įsakė pastatyti du karo laivus: mažesnįjį „Piligrimą“ ir didesnįjį „Fridlandą“.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pradinis teiginys cituoja bendrą moralizuojančią įžangą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Laivai|Laivai]]'
   pagrindžia:
     - c-002
 
@@ -46,6 +49,9 @@ Nenurodyta
 - t-002
   global_id: t-62878
   teiginys: 'Laivai „Piligrimas“ ir „Fridlandas“ padėjo pastatyti Elbingo ir Baigos pilis bei apsaugoti Gėlo vandens marias.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Pašalinta nereikalinga šaltinio atribucija.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_place: Baiga; mentioned_place: Drūsinė; mentioned_place: Elbingas; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
 
@@ -81,13 +87,3 @@ Nenurodyta
   pagrindžia:
     - t-001
     - t-003
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/ežeras]]
-
-### Susiję objektai
-- [[objektai/daiktai/Laivai]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/posakiai/Maldininke, nuramink žęmę]]
-- [[objektai/zodynas/maldininkai maldininko įžadai|maldininkai / maldininko įžadai]]

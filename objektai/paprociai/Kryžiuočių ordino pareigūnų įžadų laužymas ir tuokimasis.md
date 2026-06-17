@@ -39,6 +39,14 @@ Nenurodyta
 - t-001
   global_id: t-185919
   teiginys: 'Prūsijoje kryžiuočių ordino aukščiausi ir žemiausi pareigūnai laužė Dievui duotus įžadus ir ėmė tuoktis.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir turi OCR triukšmo; citata palaiko glaustą faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Prūsija'
+  temporaliniai_duomenys: 'įvykio data: 1521 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs ir turi OCR triukšmo; citata palaiko glaustą faktą.'
   pagrindžia:
     - c-001
 
@@ -75,7 +83,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]

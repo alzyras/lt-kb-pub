@@ -20,6 +20,8 @@ Vygan­ das tačiau byloja: Steterunt V septi­ manis in continuo agone nocte di
 - t-001
   global_id: t-86871
   teiginys: 'Posakis „Steterunt V septimanis in continuo agone nocte dieque“ reiškia, kad penkias savaites dieną ir naktį vyko nuolatinės kautynės.'
+  sudarymo_pagrindimas: 'Citata leidžia išversti ir sutvarkyti posakio reikšmę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Vilija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -46,7 +48,3 @@ Vygan­ das tačiau byloja: Steterunt V septi­ manis in continuo agone nocte di
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]

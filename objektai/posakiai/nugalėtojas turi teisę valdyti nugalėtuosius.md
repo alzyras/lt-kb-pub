@@ -18,6 +18,11 @@ Kojelavičiaus argumente lietuviai teisėtai valdė Rusios krikščionis, nes nu
 - t-001
   global_id: t-185479
   teiginys: 'Kojelavičiaus argumente lietuviai teisėtai valdė Rusios krikščionis, nes nugalėtojas turi teisę valdyti nugalėtuosius.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Reikia šaltinio atribucijos, nes teiginys perteikia autoriaus argumentą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-001
 
@@ -37,7 +42,3 @@ Kojelavičiaus argumente lietuviai teisėtai valdė Rusios krikščionis, nes nu
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]

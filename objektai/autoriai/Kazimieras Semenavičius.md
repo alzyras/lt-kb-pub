@@ -21,7 +21,7 @@ periodo_grupes:
 
 ## Santrauka
 
-K. Semenavičius vadinamas LDK karo inžinieriumi ir daugiapakopių raketų teorijos kūrėju. Kazimieras Semenavičius buvo vadinamas žymiausiu LDK karo inžinieriumi ir daugiapakopių raketų teorijos kūrėju. Kazimiero Semenavičiaus raketų brėžiniai siejami su Amsterdamu ir 1650 m.
+Kazimiero Semenavičiaus „Artis magnae artilleriae“ pristatomas kaip reikšmingiausias originalios karinės inžinerijos mokyklos darbas; veikale siejamos šiuolaikinės artilerijos ir kosmonautikos ištakos bei daugiapakopių raketų teorija.
 
 ## Darbai
 
@@ -34,6 +34,9 @@ K. Semenavičius vadinamas LDK karo inžinieriumi ir daugiapakopių raketų teor
 - t-001
   global_id: t-23231
   teiginys: 'K. Semenavičius vadinamas LDK karo inžinieriumi ir daugiapakopių raketų teorijos kūrėju.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Vidurio Europa|Vidurio Europa]]; mentioned_object: [[objektai/zodynas/barokas|barokas]]; mentioned_place: Europa; mentioned_place: Viena; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1650 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 
@@ -41,6 +44,11 @@ K. Semenavičius vadinamas LDK karo inžinieriumi ir daugiapakopių raketų teor
 - t-002
   global_id: t-23233
   teiginys: 'Kazimieras Semenavičius buvo vadinamas žymiausiu LDK karo inžinieriumi ir daugiapakopių raketų teorijos kūrėju.'
+  sudarymo_pagrindimas: 'Pradinis teiginys yra paveikslo antraštė, o citata leidžia suformuluoti enciklopedinį faktą apie asmenį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Vidurio Europa|Vidurio Europa]]; mentioned_object: [[objektai/zodynas/barokas|barokas]]; mentioned_place: Europa; mentioned_place: Viena; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1650 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys yra paveikslo antraštė, o citata leidžia suformuluoti enciklopedinį faktą apie asmenį.'
   pagrindžia:
     - c-002
 
@@ -48,9 +56,31 @@ K. Semenavičius vadinamas LDK karo inžinieriumi ir daugiapakopių raketų teor
 - t-003
   global_id: t-23234
   teiginys: 'Kazimiero Semenavičiaus raketų brėžiniai siejami su Amsterdamu ir 1650 m.'
+  sudarymo_pagrindimas: 'Citata yra antraštinio pobūdžio, bet pagrindžia trumpą faktą apie brėžinių vietą ir datą.'
+  susije_objektai: 'mentioned_place: Amsterdamas; mentioned_place: Europa; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1650 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata yra antraštinio pobūdžio, bet pagrindžia trumpą faktą apie brėžinių vietą ir datą.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/daiktai/Daugiapakopės raketos ir raketų brėžiniai.md#claim-t-75314|Daugiapakopės raketos ir raketų brėžiniai]]: K. Semenavičiaus raketų brėžiniai buvo susieti su Amsterdamu ir 1650 m.
+- susijęs iš [[objektai/daiktai/Daugiapakopės raketos ir raketų brėžiniai.md#claim-t-75315|Daugiapakopės raketos ir raketų brėžiniai]]: Daugiapakopių raketų teorija siejama su K. Semenavičiaus veikalu „Artis magnae artilleriae“.
+- susijęs iš [[objektai/daiktai/Daugiapakopės raketos ir raketų brėžiniai.md#claim-t-75316|Daugiapakopės raketos ir raketų brėžiniai]]: K. Semenavičius citatoje vadinamas žymiausiu LDK karo inžinieriumi ir daugiapakopių raketų teorijos kūrėju.
+- susijęs iš [[objektai/daiktai/Daugiapakopės raketos.md#claim-t-45476|Daugiapakopės raketos]]: Kazimiero Semenavičiaus veikale „Artis magnae artilleriae“ išdėstyta daugiapakopių raketų teorija.
+- susijęs iš [[objektai/daiktai/Daugiapakopės raketos.md#claim-t-45477|Daugiapakopės raketos]]: Kazimiero Semenavičiaus veikale „Artis magnae artilleriae“ buvo išdėstyta daugiapakopių raketų teorija.
+- susijęs iš [[objektai/daiktai/Daugiapakopės raketos.md#claim-t-45479|Daugiapakopės raketos]]: K. Semenavičiaus raketų brėžiniai buvo publikuoti Amsterdame 1650 m.
+- susijęs iš [[objektai/ivykiai/Vilniaus universiteto įkūrimas (1579 m.).md#claim-t-45452|Vilniaus universiteto įkūrimas (1579 m.)]]: Vilniaus universitetas buvo vienas seniausių Vidurio Europos universitetų; už jį senesni buvo tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus universitetai.
+- susijęs iš [[objektai/paprociai/Jėzuitiškas mokymas ir katalikybės sklaida per Vilniaus universitetą.md#claim-t-183311|Jėzuitiškas mokymas ir katalikybės sklaida per Vilniaus universitetą]]: Vilniaus universitetas iki pat uždarymo 1832 m. buvo ne tik pagrindinė Lietuvos mokykla, bet ir svarbiausias kultūros centras.
+- susijęs iš [[objektai/paprociai/Jėzuitiškas mokymas ir katalikybės sklaida per Vilniaus universitetą.md#claim-t-183312|Jėzuitiškas mokymas ir katalikybės sklaida per Vilniaus universitetą]]: Vilniaus universitetas – vienas iš seniausių universitetų Vidurio Europoje – už jį senesni tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus universitetai.
+- susijęs iš [[objektai/paprociai/Jėzuitų kolegijų tinklo ir Vilniaus universiteto švietimo sistema.md#claim-t-77950|Jėzuitų kolegijų tinklo ir Vilniaus universiteto švietimo sistema]]: 1569 m. jėzuitų ordino pasirodymas Lietuvoje laikomas simboline Baroko epochos pradžia.
+- susijęs iš Artis magnae artilleriae: Kazimiero Semenavičiaus veikalas „Artis magnae artilleriae“ datuojamas 1650 m.
+- susijęs iš Artis magnae artilleriae: Kazimiero Semenavičiaus 1650 m. „Artis magnae artilleriae“ buvo reikšmingiausias Lietuvos karinės inžinerijos mokyklos darbas.
+- susijęs iš Artis magnae artilleriae: Veikale išdėstyta daugiapakopių raketų teorija siejama su šiuolaikinės artilerijos ir kosmonautikos ištakomis.
+- susijęs iš Artis magnae artilleriae: Kazimiero Semenavičiaus 1650 m. „Artis magnae artilleriae“ buvo reikšmingiausias Lietuvos karinės inžinerijos mokyklos darbas.
+- susijęs iš Artis magnae artilleriae: Kazimiero Semenavičiaus veikalo „Artis magnae artilleriae“ frontispisas datuojamas 1650 m.
+- susijęs iš Amsterdamas: K. Semenavičiaus raketų brėžiniai buvo išleisti Amsterdame 1650 m.
+- susijęs iš Krokuva: Manoma, kad senojo Vilniaus universiteto studijų lygis nebuvo menkesnis nei Prahos, Krokuvos, Vienos ar Romos universitetuose.
+- susijęs iš Vilnius: Jėzuitų švietimo sistemos viršūne tapo 1579 m. įkurtas Vilniaus universitetas.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -98,15 +128,3 @@ K. Semenavičius vadinamas LDK karo inžinieriumi ir daugiapakopių raketų teor
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Namas]]
-- [[objektai/zodynas/barokas]]
-- [[objektai/daiktai/Daugiapakopės raketos]]
-- [[objektai/daiktai/Daugiapakopės raketos ir raketų brėžiniai]]
-- [[objektai/paprociai/Jėzuitiškas mokymas ir katalikybės sklaida per Vilniaus universitetą]]
-- [[objektai/paprociai/Jėzuitų kolegijų tinklo ir Vilniaus universiteto švietimo sistema]]
-- [[objektai/ivykiai/Vilniaus universiteto įkūrimas (1579 m.)]]
-- [[objektai/grupes/Jėzuitų ordinas]]
-- [[objektai/ivykiai/Jėzuitų pasirodymas Lietuvoje ir Vilniaus universiteto įkūrimas]]

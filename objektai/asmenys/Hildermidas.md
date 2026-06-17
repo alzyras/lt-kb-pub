@@ -18,6 +18,10 @@ Grafas Hildermidas buvo škotas, kurio tėvas paaukojo gyvybę gelbėdamas karal
 - t-001
   global_id: t-186211
   teiginys: 'Grafas Hildermidas buvo škotas, kurio tėvas paaukojo gyvybę gelbėdamas karalių.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pirminis teiginys gremėzdiškas; citata leidžia suformuluoti sklandesnį sakinį.'
   pagrindžia:
     - c-001
 

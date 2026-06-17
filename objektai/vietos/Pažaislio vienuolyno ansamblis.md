@@ -20,9 +20,12 @@ Petro ir Povilo bažnyčia ar Pažaislio vienuolyno ansamblis prie Kauno.
 - t-001
   global_id: t-77782
   teiginys: 'Pažaislio vienuolyno ansamblis prie Kauno laikomas europinės reikšmės kūriniu.'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo fragmentas be aiškaus tarinio.'
+  susije_objektai: 'mentioned_place: Kaunas; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
-
+- susijęs iš Kaunas: Pažaislio vienuolyno ansamblis prie Kauno minimas tarp europinės reikšmės meno kūrinių.
+- susijęs iš Vilniaus Šv. apaštalų Petro ir Povilo bažnyčia: Vilniaus Šv. apaštalų Petro ir Povilo bažnyčia priskiriama europinės reikšmės kūriniams.
 ## Reikšmingi paminėjimai
 
 - c-001

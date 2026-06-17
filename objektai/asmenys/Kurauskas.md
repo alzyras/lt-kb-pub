@@ -20,6 +20,8 @@ Eilinis Kurauskas atbėgo pas mane.
 - t-001
   global_id: t-80738
   teiginys: 'Eilinis Kurauskas per kautynes paruošinėjo granatas, kurias pasakotojas metė į gulinčius bolševikus.'
+  sudarymo_pagrindimas: 'Pradinė formuluotė per siaura ir priklauso nuo neaiškaus „mane“ konteksto.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -42,7 +44,3 @@ Eilinis Kurauskas atbėgo pas mane.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Šautuvai]]

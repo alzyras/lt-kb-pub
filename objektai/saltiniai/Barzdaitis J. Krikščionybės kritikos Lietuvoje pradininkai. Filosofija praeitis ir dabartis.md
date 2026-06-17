@@ -21,6 +21,8 @@ Dusburgietis teigia, kad šiuo epizodu Vytenis ragina lietuvius ir pavergtuosius
 - t-001
   global_id: t-61050
   teiginys: 'Barzdaitis Vytenio epizodą aiškino kaip raginimą lietuviams ir pavergtiesiems prūsams laikytis senosios religijos ir kovoti prieš Ordiną.'
+  sudarymo_pagrindimas: 'Teiginys yra apie Barzdaičio interpretaciją, todėl reikia aiškios atribucijos ir pilnos sakinio formos.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Vytenis|Vytenis]]; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
 

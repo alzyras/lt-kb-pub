@@ -45,6 +45,11 @@ Nenurodyta
 - t-001
   global_id: t-45375
   teiginys: 'Lietuva neutralumo įstatymą ratifikavo 1939 m. sausio 10 d.'
+  sudarymo_pagrindimas: 'Teiginys yra glaustas, gramatiškas ir visiškai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltijos valstybės|Baltijos valstybės]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/statutas|statutas]]; mentioned_place: Baltija; mentioned_place: Lietuva; mentioned_place: Maskva'
+  temporaliniai_duomenys: 'įvykio data: 1938 m.; įvykio data: 1939 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra glaustas, gramatiškas ir visiškai paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -72,9 +77,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Baltijos valstybės]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/statutas]]

@@ -21,6 +21,8 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
 - t-001
   global_id: t-60295
   teiginys: 'Govina kartu su Stanta, Trinta, Misinu ir kitais rengė notangų žygį bei jam vadovavo.'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo nutrūkęs, bet citata palaiko glaustą faktą apie Goviną.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Misinas|Misinas]]; mentioned_person: [[objektai/asmenys/Stanta|Stanta]]; mentioned_place: Bartenšteinas'
   pagrindžia:
     - c-001
 
@@ -47,9 +49,3 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/grupes/Notangai]]

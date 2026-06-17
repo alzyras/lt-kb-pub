@@ -18,7 +18,7 @@ amziai:
 
 ## Santrauka
 
-1935 m. Suvalkijos valstiečiai paskelbė streiką po „Pienocentro“ supirkimo kainų sumažinimo, o policija Veiveriuose nušovė tris valstiečius.
+Suvalkijos valstiečiai pa­skelbė streiką, draudė pristatyti pieną į Kauną ir keliuose pastatė postus, o juos ardant kilo riaušės, policija Veiveriuose nušovė tris valstiečius, šimtus areštavo.
 
 ## Laikotarpis ir datos
 
@@ -42,6 +42,11 @@ Nenurodyta
 - t-001
   global_id: t-20512
   teiginys: '1935 m. Suvalkijos valstiečiai paskelbė streiką po „Pienocentro“ supirkimo kainų sumažinimo, o policija Veiveriuose nušovė tris valstiečius.'
+  sudarymo_pagrindimas: 'Perrašyta į sklandesnį enciklopedinį sakinį, įtraukiant citatoje nurodytą priežastį.'
+  susije_objektai: 'mentioned_place: Kaunas; mentioned_place: Suvalkija; mentioned_place: Veiveriai'
+  temporaliniai_duomenys: 'įvykio data: 1935 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Perrašyta į sklandesnį enciklopedinį sakinį, įtraukiant citatoje nurodytą priežastį.'
   pagrindžia:
     - c-001
 
@@ -63,7 +68,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kooperacinės bendrovės „Lietūkis“, „Pienocentras“ ir „Maistas“]]

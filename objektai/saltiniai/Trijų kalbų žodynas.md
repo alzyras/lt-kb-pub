@@ -5,14 +5,16 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1620 m.'
+  - '1741 m.'
 date_start: '1620'
-date_end: ''
+date_end: '1741'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
 amziai:
   - 'XVII'
+  - 'XVIII'
 ---
 # Trijų kalbų žodynas
 
@@ -26,6 +28,11 @@ Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų ž
 - t-001
   global_id: t-21286
   teiginys: '„Trijų kalbų žodynas“ buvo Konstantino Sirvydo veikalas, pasirodęs 1620 m.'
+  sudarymo_pagrindimas: 'Pirminė formuluotė per daug vertinamoji; citata remia autorių, pavadinimą ir datą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]'
+  temporaliniai_duomenys: 'įvykio data: 1620 m.; įvykio data: 1741 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pirminė formuluotė per daug vertinamoji; citata remia autorių, pavadinimą ir datą.'
   pagrindžia:
     - c-001
 
@@ -33,6 +40,11 @@ Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų ž
 - t-002
   global_id: t-183385
   teiginys: 'Konstantino Sirvydo „Trijų kalbų žodynas“ (1620) lenkų kalbos žodžius aiškino lotyniškai, paskui lietuviškai.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie žodyno turinį ir tvarką.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]'
   pagrindžia:
     - c-002
 

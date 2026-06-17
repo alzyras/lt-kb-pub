@@ -12,12 +12,12 @@ date_start: '1918'
 date_end: '1928'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - autorius
 amziai:
   - 'XX'
 periodo_grupes:
   - 'modernioji Lietuva'
-tags:
-  - autorius
 ---
 # P. Klimas
 
@@ -39,31 +39,98 @@ P. Klimas veikale rodomas ir kaip bendradarbis autorius, ir kaip nepriklausomyb�
 - Minimas tarp Vilniaus lietuvių politinio organizavimo veikėjų.
 
 ## Teiginiai
+
+<a id="claim-t-00063"></a>
+- t-001
+  global_id: t-00063
+  teiginys: 'P. Klimas parašė veikalo dalį apie nepriklausomosios valstybės atstatymą ir gyvenimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/autoriai/J. Jakštas|J. Jakštas]]; mentioned_person: [[objektai/autoriai/P. Šležas|P. Šležas]]; mentioned_person: [[objektai/autoriai/Z. Ivinskis|Z. Ivinskis]]'
+  pagrindžia:
+    - c-001
+
+<a id="claim-t-00067"></a>
+- t-002
+  global_id: t-00067
+  teiginys: 'P. Klimas buvo Vykdomojo Komiteto biuro narys.'
+  pagrindžia:
+    - c-002
+
+<a id="claim-t-00068"></a>
+- t-003
+  global_id: t-00068
+  teiginys: 'P. Klimas buvo Lietuvos Tarybos narys.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys, o P. Klimas citatoje įvardytas Lietuvos Tarybos nariu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/memorialas|memorialas]]; mentioned_place: Kaunas; mentioned_place: Lietuva'
+  pagrindžia:
+    - c-003
+
 <a id="claim-t-93049"></a>
 - t-004
   global_id: t-93049
   teiginys: '1928 m. išėjo septintasis P. Klimo „Lietuvių kalbos sintaksės“ leidimas.'
+  sudarymo_pagrindimas: 'Citata palaiko faktą apie leidinį ir jo leidimo metus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
+  temporaliniai_duomenys: 'įvykio data: 1928 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko faktą apie leidinį ir jo leidimo metus.'
   pagrindžia:
     - c-004
-- t-007
-  teiginys: 'P. Klimas parašė veikalo dalį apie nepriklausomosios valstybės atstatymą ir gyvenimą.'
-  pagrindžia:
-    - c-006
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-008
-  teiginys: 'P. Klimas buvo Vykdomojo Komiteto biuro narys.'
-  pagrindžia:
-    - c-007
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-009
-  teiginys: 'P. Klimas buvo Lietuvos Tarybos narys.'
-  pagrindžia:
-    - c-008
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+- susijęs iš [[objektai/autoriai/Z. Ivinskis.md#claim-t-00084|Zenonas Ivinskis]]: Z. Ivinskis parašė veikalo dalį apie laikotarpį iki Gediminaičių dinastijos galo.
+- susijęs iš Lietuvių kalbos sintaksė: P. Klimo „Lietuvių kalbos sintaksės“ septintasis leidimas išleistas 1928 m.
+- susijęs iš P. Klimas, Vieno prancūzo įspūdžiai Lietuvoje Vytauto laikais. Guillebert de Lannoy kelionė 1413-14 metais: P. Klimo „Vieno prancūzo įspūdžiai Lietuvoje Vytauto laikais“ paskelbta „Židinyje“ 1930 m. Nr. 3, p. 232-245.
 ## Reikšmingi paminėjimai
+
+- c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tuo būdu p. J. Jakštas parašė apie pirmąjį mūsų
+    tautos valstybinio gyvenimo laikotarpį, iki krikščioniškųjų lai-
+    kų pradžios, dr. Z. Ivinskis — apie sekantį laikotarpį, iki Gedi-
+    minaičių dinastijos galo; man teko tęsinys — iki nepriklausomo-
+    sios valstybės galo; p. P. Šležas parašė apie rusų valdymo lai-
+    kus, o p. P. Klimas — apie nepriklausomosios valstybės atsta-
+    tymą ir nepriklausomojo gyvenimo laikotarpį.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+    - t-005
+
+- c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tačiau karo administracija griežtai pareiš-
+    kė, kad negalėsią būti jokios kalbos apie bet kokį tolesnį po-
+    litinį veikimą, jei nebūsią sutikta prisijungti prie Vokietijos.
+    Susirinkimas, pasivadinęs Organizaciniu Komitetu,
+    nenorėjo pertraukti savo politinės veiklos, ir todėl šiek tiek
+    atsižvelgė į tą atšiaurų reikalavimą — pareiškė, jog būsią ga-
+    lima glaudžiau santykiauti su Vokietija. Vykdomasis Komiteto
+    biuras (A. Smetona, J. Šaulys, kun. Stankevičius, M. Biržiška ir
+    P. Klimas) po to išsirūpino leidimą sušaukti platesnei konferen-
+    cijai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Lietuvos Tarybos nariai buvo šie: J. Basanavičius, (†), S. Ba-
+    naitis (†), M. Biržiška, K. Bizauskas, P. Dovydaitis, S. Kairys, P.
+    Klimas, D. Malinauskas, P. Mironas, S. Narutavičius (†), A. Pet-
+    rulis (†), A. Smetona, J. Smilgevičius, J. Staugaitis, A. Stulginskis,
+    J. Šaulys, K. Šaulys, J. Šernas (†), J. Vailokaitis, J. Vileišis. Savo
+    pirmininku Taryba išsirinko A. Smetoną.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
+
 - c-004
   santrauka: '1928 m. išėjo septintasis P. Klimo „Lietuvių kalbos sintaksės“ leidimas.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -75,6 +142,7 @@ P. Klimas veikale rodomas ir kaip bendradarbis autorius, ir kaip nepriklausomyb�
   statusas: verified
   pagrindžia:
     - t-004
+
 - c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -88,66 +156,3 @@ P. Klimas veikale rodomas ir kaip bendradarbis autorius, ir kaip nepriklausomyb�
   statusas: verified
   pagrindžia:
     - t-006
-- c-006
-  santrauka: 'P. Klimas parašė veikalo dalį apie nepriklausomosios valstybės atstatymą ir gyvenimą.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tuo būdu p. J. Jakštas parašė apie pirmąjį mūsų
-    tautos valstybinio gyvenimo laikotarpį, iki krikščioniškųjų lai-
-    kų pradžios, dr. Z. Ivinskis — apie sekantį laikotarpį, iki Gedi-
-    minaičių dinastijos galo; man teko tęsinys — iki nepriklausomo-
-    sios valstybės galo; p. P. Šležas parašė apie rusų valdymo lai-
-    kus, o p. P. Klimas — apie nepriklausomosios valstybės atsta-
-    tymą ir nepriklausomojo gyvenimo laikotarpį.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-007
-    - t-010
-- c-007
-  santrauka: 'P. Klimas buvo Vykdomojo Komiteto biuro narys.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tačiau karo administracija griežtai pareiš-
-    kė, kad negalėsią būti jokios kalbos apie bet kokį tolesnį po-
-    litinį veikimą, jei nebūsią sutikta prisijungti prie Vokietijos.
-    Susirinkimas, pasivadinęs Organizaciniu Komitetu,
-    nenorėjo pertraukti savo politinės veiklos, ir todėl šiek tiek
-    atsižvelgė į tą atšiaurų reikalavimą — pareiškė, jog būsią ga-
-    lima glaudžiau santykiauti su Vokietija. Vykdomasis Komiteto
-    biuras (A. Smetona, J. Šaulys, kun. Stankevičius, M. Biržiška ir
-    P. Klimas) po to išsirūpino leidimą sušaukti platesnei konferen-
-    cijai.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-008
-- c-008
-  santrauka: 'P. Klimas buvo Lietuvos Tarybos narys.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Lietuvos Tarybos nariai buvo šie: J. Basanavičius, (†), S. Ba-
-    naitis (†), M. Biržiška, K. Bizauskas, P. Dovydaitis, S. Kairys, P.
-    Klimas, D. Malinauskas, P. Mironas, S. Narutavičius (†), A. Pet-
-    rulis (†), A. Smetona, J. Smilgevičius, J. Staugaitis, A. Stulginskis,
-    J. Šaulys, K. Šaulys, J. Šernas (†), J. Vailokaitis, J. Vileišis. Savo
-    pirmininku Taryba išsirinko A. Smetoną.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-009
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/zodynas/memorialas]]

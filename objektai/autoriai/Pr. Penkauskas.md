@@ -29,6 +29,9 @@ Penkauskas, Pr. Penkauskas : Vytautas Didysis ir jo Čekijos politika Venceliui 
 - t-001
   global_id: t-30931
   teiginys: 'Pr. Penkauskas 1930 m. Židinyje paskelbė darbą apie Vytautą Didįjį ir jo Čekijos politiką po Vencelio mirties.'
+  susije_objektai: 'mentioned_place: Čekija'
+  temporaliniai_duomenys: 'įvykio data: 1930 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -36,6 +39,8 @@ Penkauskas, Pr. Penkauskas : Vytautas Didysis ir jo Čekijos politika Venceliui 
 - t-002
   global_id: t-30932
   teiginys: 'Pr. Penkauskas 1931 m. Athenaeum paskelbė darbą apie Vytauto Didžiojo nuopelnus dvasinės kultūros srityje.'
+  temporaliniai_duomenys: 'įvykio data: 1931 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 

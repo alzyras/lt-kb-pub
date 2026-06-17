@@ -20,6 +20,7 @@ Rusų kronikos aiškina, kad su Tochtamyšu jis sutaręs šitaip: „Aš tave pa
 - t-001
   global_id: t-35964
   teiginys: 'Rusų kronikos Vytautui priskyrė susitarimą su Tochtamyšu: šis gausiąs Ordą, o Vytautas valdysiąs Didžiąją Maskvos kunigaikštiją ir visą Rusią.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_object: [[objektai/zodynas/saar|saar]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Maskva'
   pagrindžia:
     - c-001
 
@@ -42,14 +43,3 @@ Rusų kronikos aiškina, kad su Tochtamyšu jis sutaręs šitaip: „Aš tave pa
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Rusai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/chanas]]
-- [[objektai/zodynas/saar]]
-- [[objektai/zodynas/kunigaikštija]]
-- [[objektai/grupes/Maskvos kunigaikštija]]
-- [[objektai/grupes/Maskvos kunigaikštystė]]
-- [[objektai/posakiai/aš tave pasodinsiu Auksinėj Ordoj, o tu mane — Maskvos soste]]

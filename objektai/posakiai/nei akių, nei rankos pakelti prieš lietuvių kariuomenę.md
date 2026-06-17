@@ -22,6 +22,7 @@ Anot Bychoveco kronikos, LDK daliniai taip suspaudė totorius, kad jie nebegalė
 - t-001
   global_id: t-78925
   teiginys: 'Bychoveco kronikoje rašyta, kad LDK daliniai taip suspaudė totorius, jog šie negalėjo „nei akių, nei rankos pakelti prieš lietuvių kariuomenę“.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Cepra'
   pagrindžia:
     - c-001
 
@@ -29,6 +30,8 @@ Anot Bychoveco kronikos, LDK daliniai taip suspaudė totorius, kad jie nebegalė
 - t-002
   global_id: t-78926
   teiginys: 'Bychoveco kronikoje teigiama, kad LDK daliniai taip suspaudė totorius, jog šie nebegalėjo „nei akių, nei rankos pakelti prieš lietuvių kariuomenę“.'
+  sudarymo_pagrindimas: 'Pirminis teiginys nepateikia paties posakio prasmės ir konteksto.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]'
   pagrindžia:
     - c-002
 
@@ -75,8 +78,3 @@ Anot Bychoveco kronikos, LDK daliniai taip suspaudė totorius, kad jie nebegalė
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Totoriai]]

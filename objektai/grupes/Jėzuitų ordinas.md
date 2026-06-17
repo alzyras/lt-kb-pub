@@ -8,11 +8,9 @@ saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1540 m.'
-  - '1580 m.'
-  - '1581 m.'
-  - '1651 m.'
-  - '1655 m.'
-  - '1657 m.'
+  - '1569 m.'
+  - '1570 m.'
+  - '1575 m.'
   - '2026 m.'
 date_start: '1540'
 date_end: '2026'
@@ -31,7 +29,7 @@ amziai:
 
 ## Santrauka
 
-1687 m. tėvai jėzuitai suremontuotą mūrinį namą atidavė vaistinei. 1569 m. spalio 4 d. Valerijonas Protasevičius po kolegijos įkūrimo ir jėzuitų atkvietimo fundavo bei įsteigė įvairių mokslų viešąsias mokyklas. Vilniaus vyskupas Valerijonas Protasevičius 1569 m. pirmasis pakvietė jėzuitų ordiną į Vilnių.
+Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kovai su plintančiu protestantizmu. Be to, vienas iš didžiausių jėzuitų nuopelnų buvo tas, kad jie pirmieji susirūpino liaudimi. Vilniaus vyskupas Protasevičius, norėdamas paruošti kunigų iš savo žmonių tarpo ir rūpindamasis kovoti su protestantais, atsikvietė į Vilnių jėzuitų; jie čia įkūrė pirmą aukštesniąją mokyklą Lietuvoje, vadinamą kolegija (žiūr.
 
 ## Teiginiai
 
@@ -39,6 +37,11 @@ amziai:
 - t-001
   global_id: t-172107
   teiginys: '1687 m. tėvai jėzuitai suremontuotą mūrinį namą atidavė vaistinei.'
+  sudarymo_pagrindimas: 'Teiginys aiškus, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]'
+  temporaliniai_duomenys: 'įvykio data: 1687 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškus, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-018
 
@@ -46,6 +49,12 @@ amziai:
 - t-002
   global_id: t-172108
   teiginys: '1569 m. spalio 4 d. Valerijonas Protasevičius po kolegijos įkūrimo ir jėzuitų atkvietimo fundavo bei įsteigė įvairių mokslų viešąsias mokyklas.'
+  sudarymo_pagrindimas: 'Reikia pašalinti neaiškų įvardį ir tiksliau perteikti citatos formuluotę.'
+  susije_objektai: 'object: Vilnius; object: [[objektai/zodynas/bursa|bursa]]; mentioned_object: [[objektai/zodynas/bursa|bursa]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]; mentioned_person: [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius]]; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Jėzuitų ordinas|Jėzuitų ordinas]] pastatė Vilnius; [[objektai/grupes/Jėzuitų ordinas|Jėzuitų ordinas]] pastatė [[objektai/zodynas/bursa|bursa]]'
+  temporaliniai_duomenys: 'pastatymo data: 1569 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Jėzuitų ordinas pastatė Vilnius“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jėzuitų ordinas pastatė bursa“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia pašalinti neaiškų įvardį ir tiksliau perteikti citatos formuluotę.'
   pagrindžia:
     - c-012
 
@@ -53,6 +62,11 @@ amziai:
 - t-003
   global_id: t-172109
   teiginys: 'Vilniaus vyskupas Valerijonas Protasevičius 1569 m. pirmasis pakvietė jėzuitų ordiną į Vilnių.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys ir tiksliai atitinka citatą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]; mentioned_person: [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1569 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys ir tiksliai atitinka citatą.'
   pagrindžia:
     - c-010
 
@@ -60,6 +74,11 @@ amziai:
 - t-004
   global_id: t-172110
   teiginys: '1773 m. įkurta Edukacinė komisija turėjo perimti panaikinto jėzuitų ordino švietimo sistemą.'
+  sudarymo_pagrindimas: 'Teiginys yra faktinis ir susietas su jėzuitų ordino švietimo sistema.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Edukacinė Komisija|Edukacinė Komisija]]; mentioned_place: Europa; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1773 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra faktinis ir susietas su jėzuitų ordino švietimo sistema.'
   pagrindžia:
     - c-002
 
@@ -67,6 +86,11 @@ amziai:
 - t-005
   global_id: t-172112
   teiginys: '1668 m. gegužės 17 d. karaliaus raštu Šv. Jono bažnyčios priklausomybė pripažinta vienuoliams jėzuitams.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus magistratas|Vilniaus magistratas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1668 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, faktinis ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-009
 
@@ -74,6 +98,11 @@ amziai:
 - t-006
   global_id: t-172113
   teiginys: 'Jėzuitai 1579 m. įkūrė Vilniaus universitetą, vieną svarbiausių Baroko epochos kultūros dėmenų.'
+  sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir turi neaiškų epochos pradžios kontekstą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/barokas|barokas]]; mentioned_place: Lietuva; mentioned_place: Liublinas; mentioned_place: Nesvyžius; mentioned_place: Viena; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įkūrimo data: 1579 m.; įkūrimo data: 1586 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys per ilgas ir turi neaiškų epochos pradžios kontekstą.'
   pagrindžia:
     - c-003
 
@@ -81,6 +110,8 @@ amziai:
 - t-007
   global_id: t-172115
   teiginys: 'Disidentai negalėjo sutelkti tokių stiprių pajėgų kovai su jėzuitais, kurie buvo tvirtai susieti savo brolijos regulų.'
+  sudarymo_pagrindimas: 'Pradinė vietos nuoroda nepakankamai tiesiogiai paremta, todėl teiginys susiaurinamas pagal citatą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Tšecieskis|Tšecieskis]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-008
 
@@ -88,6 +119,11 @@ amziai:
 - t-009
   global_id: t-172117
   teiginys: 'Mikalojus Kristupas Radvila-Našlaitėlis 1575 m. perkėlė Brastos spaustuvę į Vilnių ir atidavė ją besikuriančiam jėzuitų universitetui.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_person: [[objektai/asmenys/Mikalojus Kristupas Radvila-Našlaitėlis|Mikalojus Kristupas Radvila-Našlaitėlis]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Brasta; mentioned_place: Maskva; mentioned_place: Nesvyžius; mentioned_place: Vilnius; mentioned_place: Zabluduvas'
+  temporaliniai_duomenys: 'įvykio data: 1569 m.; įvykio data: 1575 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir paremtas citata.'
   pagrindžia:
     - c-005
 
@@ -95,6 +131,11 @@ amziai:
 - t-010
   global_id: t-172118
   teiginys: '1575 m. Mikalojus Kristupas Radvila-Našlaitėlis perkėlė Brastos spaustuvę į Vilnių ir atidavė ją besikuriančiam jėzuitų universitetui.'
+  sudarymo_pagrindimas: 'Teiginys sieja jėzuitų universitetą su citatoje nurodytu faktu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_person: [[objektai/asmenys/Mikalojus Kristupas Radvila-Našlaitėlis|Mikalojus Kristupas Radvila-Našlaitėlis]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Brasta; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Nesvyžius; mentioned_place: Vilnius; mentioned_place: Zabluduvas'
+  temporaliniai_duomenys: 'įvykio data: 1569 m.; įvykio data: 1575 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys sieja jėzuitų universitetą su citatoje nurodytu faktu.'
   pagrindžia:
     - c-004
 
@@ -102,6 +143,7 @@ amziai:
 - t-011
   global_id: t-172119
   teiginys: 'Vilniaus kapitula perleido Akademijos kolegijos rektoriams jėzuitams teisę siūlyti Šv. Jono bažnyčios vikarą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus kapitula|Vilniaus kapitula]]; mentioned_object: [[objektai/zodynas/Jus Patronatus|Jus Patronatus]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-014
 
@@ -109,6 +151,8 @@ amziai:
 - t-012
   global_id: t-172120
   teiginys: 'Karalius vyskupo Protasevičiaus funduotą ir aprūpintą jėzuitų kolegiją pakėlė iki universiteto laipsnio.'
+  sudarymo_pagrindimas: 'Citata leidžia suformuluoti tikslesnį sakinį apie jėzuitų kolegiją.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]'
   pagrindžia:
     - c-015
 
@@ -116,6 +160,8 @@ amziai:
 - t-013
   global_id: t-172122
   teiginys: 'Šv. Jono bažnyčios klebonas Adomas Ancypa padavė skundą prieš ankstesniuosius tėvus jėzuitus dėl bažnyčios fundacijų.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys, susijęs su jėzuitais ir paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Aukausenos|Aukausenos]]; mentioned_person: [[objektai/asmenys/Adomas (auksakalys)|Adomas (auksakalys)]]; mentioned_place: Rudamina'
   pagrindžia:
     - c-017
 
@@ -123,6 +169,11 @@ amziai:
 - t-016
   global_id: t-172126
   teiginys: 'Michałas Balińskis negailestingai kritikavo jėzuitų ordino veiklą XVII-XVIII a.'
+  sudarymo_pagrindimas: 'Citata leidžia aiškiai suformuluoti faktą apie autoriaus vertinimą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1579-1803; įvykio data: 1803 m.; įvykio data: 1862 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata leidžia aiškiai suformuluoti faktą apie autoriaus vertinimą.'
   pagrindžia:
     - c-006
 
@@ -130,6 +181,9 @@ amziai:
 - t-017
   global_id: t-172127
   teiginys: 'Aprašydamas Vilniaus aukštosios mokyklos raidą, autorius griežtai kritikavo jėzuitų ordino veiklą XVII-XVIII a.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1579-1803; įvykio data: 1803 m.; įvykio data: 1862 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-006
 
@@ -137,6 +191,11 @@ amziai:
 - t-018
   global_id: t-172128
   teiginys: '1687 m. jėzuitai suremontavo mūrinį namą, atidavė jį vaistinei ir pavedė vaistininkui kasmet mokėti po 140 auksinų bažnyčiai.'
+  sudarymo_pagrindimas: 'Teiginys pilnas, konkretus ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]'
+  temporaliniai_duomenys: 'įvykio data: 1687 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys pilnas, konkretus ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-018
 
@@ -144,6 +203,11 @@ amziai:
 - t-019
   global_id: t-172129
   teiginys: '1569 m. jėzuitų ordino pasirodymas Lietuvoje siejamas su simboline Baroko epochos pradžia.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/barokas|barokas]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1569 m.; įvykio data: 1579 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-007
 
@@ -151,6 +215,7 @@ amziai:
 - t-020
   global_id: t-172130
   teiginys: 'Iš Braunsbergo atvykusiems jėzuitams iš pradžių buvo sunku įsitvirtinti Vilniuje.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_person: [[objektai/asmenys/Albinas (Vilniaus sufraganas)|Albinas (Vilniaus sufraganas)]]; mentioned_place: Braunsbergas; mentioned_place: Vilnius'
   pagrindžia:
     - c-011
 
@@ -158,6 +223,9 @@ amziai:
 - t-021
   global_id: t-172131
   teiginys: '1569 m. vyskupo kvietimu į Vilnių atvykę jėzuitai gavo lėšų kolegijai ir planavo ją pertvarkyti į universitetą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_place: Kinija; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1569 m.; įvykio data: 1570 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-016
 
@@ -165,6 +233,11 @@ amziai:
 - t-023
   global_id: t-183822
   teiginys: 'Vilniaus kapitula perleido Akademijos kolegijos rektoriams jėzuitams teisę siūlyti nuolatinį Šv. Jono bažnyčios vikarą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata geriau pagrindžia konkretesnį faktą apie jėzuitams perleistą teisę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus kapitula|Vilniaus kapitula]]; mentioned_object: [[objektai/zodynas/Jus Patronatus|Jus Patronatus]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-019
 
@@ -172,6 +245,11 @@ amziai:
 - t-024
   global_id: t-184480
   teiginys: 'Andrius Klingeris, jėzuitų Lietuvos provincijos viršininkas, pasirašė leidimą spausdinti pirmąją Lietuvos istorijos dalį.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie jėzuitų provincijos viršininko veiksmą.'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-020
 
@@ -570,36 +648,5 @@ amziai:
     - t-024
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Adomas (auksakalys)]]
-- [[objektai/asmenys/Albinas (Vilniaus sufraganas)]]
-- [[objektai/asmenys/Aleksandras Balinskis]]
-- [[objektai/grupes/Edukacinė Komisija]]
-- [[objektai/zodynas/Jus Patronatus]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/autoriai/Mykolas Balinskis]]
-- [[objektai/daiktai/Namas]]
-- [[objektai/asmenys/Radvila]]
-- [[objektai/grupes/Radvilos]]
-- [[objektai/asmenys/Steponas]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/asmenys/Tšecieskis]]
-- [[objektai/asmenys/Valerijonas (raštininkas)]]
-- [[objektai/grupes/Vilniaus magistratas]]
-- [[objektai/zodynas/Aukausenos|aukausenos]]
-- [[objektai/zodynas/barokas]]
-- [[objektai/zodynas/bursa]]
-- [[objektai/zodynas/kapitula]]
-- [[objektai/zodynas/kunigaikštija]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/asmenys/Mikalojus Kristupas Radvila-Našlaitėlis|Mikalojus Kristupas Radvila-Našlaitėlis (didikas, XVI a.)]]
-- [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius (vyskupas)]]
-- [[objektai/grupes/Vilniaus kapitula]]
-- [[objektai/asmenys/Ignotas Masalskis]]
-- [[objektai/ivykiai/Jėzuitų pasirodymas Lietuvoje ir Vilniaus universiteto įkūrimas]]
-- [[objektai/autoriai/Kazimieras Semenavičius]]
-- [[objektai/grupes/Vilniaus akademijos kolegija]]
-- [[objektai/grupes/Vilniaus jėzuitų kolegija]]
-- [[objektai/ivykiai/Vilniaus universiteto įkūrimas (1579 m.)]]
+- Jėzuitų ordinas pastate [[objektai/vietos/Vilnius]]
+- Jėzuitų ordinas pastate [[objektai/zodynas/bursa]]

@@ -21,6 +21,8 @@ Dusburgietis teigia, kad nemaža žinių galėjo pateikti ir „krikščioniški
 - t-001
   global_id: t-59119
   teiginys: '„Krikščioniškieji plėšikautojai“, veikę Ordino labui, galėjo pateikti nemaža žinių apie Lietuvos ir Prūsijos kraštus.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nepagrįstai priskirtas Dusburgiečiui; citata palaiko atsargesnę formuluotę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Mata|Mata]]; mentioned_person: [[objektai/asmenys/Pipinas|Pipinas]]; mentioned_place: Lietuva; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
 
@@ -42,12 +44,3 @@ Dusburgietis teigia, kad nemaža žinių galėjo pateikti ir „krikščioniški
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Martynas iš Golino]]
-- [[objektai/asmenys/Mata]]
-- [[objektai/asmenys/Pipinas]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/zodynas/latrunkuliai]]

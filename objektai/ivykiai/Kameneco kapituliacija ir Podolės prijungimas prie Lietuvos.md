@@ -30,6 +30,11 @@ Nenurodyta
 - t-001
   global_id: t-185580
   teiginys: 'Kameneco gynėjų Podolės ir Valachijos kariai susipyko, todėl buvo pasiųsti žygūnai tartis dėl pilies perdavimo sąlygų.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis teiginys turi OCR triukšmo ir per daug pažodinio pasakojimo.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/žygūnai|žygūnai]]; mentioned_place: Kamenecas; mentioned_place: Podolė; mentioned_place: Valachija'
   pagrindžia:
     - c-001
 
@@ -37,6 +42,11 @@ Nenurodyta
 - t-002
   global_id: t-185581
   teiginys: 'Perdavus Kameneco pilį ir Podolę vėl prijungus prie Lietuvos, Vytautas pilyse ir miestuose paliko lietuvių įgulas bei vietininkus.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, enciklopedinis ir paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Kamenecas; mentioned_place: Podolė; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -80,10 +90,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/vietininkas]]
-- [[objektai/zodynas/žygūnai]]

@@ -20,9 +20,11 @@ Nors sovietų valdžia netoleravo ir kitų konfesijų tikinčiųjų, juos persek
 - t-001
   global_id: t-22337
   teiginys: 'Sovietų valdžiai katalikai buvo ypač neparankūs, nes katalikybė siejosi su „vakarietiškumu“ ir Vatikanu, nepavaldžiu Maskvai.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, citata leidžia suformuluoti pilną sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Maskva'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/grupes/Katalikų Bažnyčia.md#claim-t-116738|Katalikų Bažnyčia]]: Lietuva buvo vienintelė prie Sovietų Sąjungos prijungta katalikiška šalis, todėl sovietų valdžiai katalikybė siejosi su nepageidaujamu vakarietiškumu.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -42,7 +44,3 @@ Nors sovietų valdžia netoleravo ir kitų konfesijų tikinčiųjų, juos persek
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]

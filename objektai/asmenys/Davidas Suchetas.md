@@ -3,11 +3,19 @@ tipas: asmuo
 pavadinimas: 'Davidas Suchetas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1952 m.'
+date_start: '1952'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - miestas
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'XX a.'
 ---
 # Davidas Suchetas
 
@@ -21,9 +29,15 @@ O kai pamatai po provincijos miestelį Tryškius vaikštantį Erkiulį Puaro –
 - t-001
   global_id: t-18874
   teiginys: 'Davidas Suchetas Tryškiuose ieškojo savo protėvių Suchedowitzų, emigravusių per Turkiją į Pietų Afrikos Respubliką.'
+  sudarymo_pagrindimas: 'Pradinė formuluotė publicistinė ir klausiamoji; citata leidžia suformuluoti konkretų faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_person: [[objektai/asmenys/John Gielgud|John Gielgud]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Afrika; mentioned_place: Lietuva; mentioned_place: Tryškiai; mentioned_place: Turkija; mentioned_place: Čikaga'
+  temporaliniai_duomenys: 'įvykio data: 1952 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinė formuluotė publicistinė ir klausiamoji; citata leidžia suformuluoti konkretų faktą.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/posakiai/„idealiąją Lietuvą“.md#claim-t-75613|„idealiąją Lietuvą“]]: „Idealiosios Lietuvos“ vaizdinyje Davidas Suchetas Tryškiuose ieškojo savo protėvių Suchedowitzų, emigravusių per Turkiją į PAR.
+- susijęs iš Tryškiai: Tryškiuose aktorius Davidas Suchetas ieškojo savo protėvių Suchedowitzų, emigravusių per Turkiją į Pietų Afrikos Respubliką.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -43,9 +57,3 @@ O kai pamatai po provincijos miestelį Tryškius vaikštantį Erkiulį Puaro –
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/zodynas/Adynos|adynos]]
-- [[objektai/posakiai/„idealiąją Lietuvą“]]

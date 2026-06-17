@@ -29,6 +29,11 @@ Dusburgietis teigia, kad broliai jiems bandė pastoti kelią, tačiau noromis ne
 - t-001
   global_id: t-60351
   teiginys: '1315 m. per lietuvių iš Žemaitijos Ragainės pilies užpuolimą buvo nukautas brolis Jonas, vadinamas Pope.'
+  sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir turi neaiškių įvardžių.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_place: Ragainė'
+  temporaliniai_duomenys: 'įvykio data: 1315 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys per ilgas ir turi neaiškių įvardžių.'
   pagrindžia:
     - c-001
 
@@ -52,10 +57,3 @@ Dusburgietis teigia, kad broliai jiems bandė pastoti kelią, tačiau noromis ne
   pagrindžia:
     - t-001
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Skalviai]]
-- [[objektai/zodynas/netikėliai]]
-- [[objektai/ivykiai/Ragainės pilies užpuolimas (1315 m. apie rugpjūčio 15 d.)]]

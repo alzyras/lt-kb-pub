@@ -26,6 +26,11 @@ Dusburgietis teigia, kad powierski J.
 - t-001
   global_id: t-61245
   teiginys: 'J. Powierskio recenzija Marijos Gimbutas knygai „The Balts“ paskelbta 1966 m. Torunėje, ZHP 31 tomo 2 sąsiuvinyje.'
+  sudarymo_pagrindimas: 'Citata pateikia bibliografinį įrašą, o pradinis teiginys yra nutrūkęs.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gimbutas|Gimbutas]]; mentioned_person: [[objektai/asmenys/Marija|Marija]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
+  temporaliniai_duomenys: 'įvykio data: 1966 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pateikia bibliografinį įrašą, o pradinis teiginys yra nutrūkęs.'
   pagrindžia:
     - c-001
 

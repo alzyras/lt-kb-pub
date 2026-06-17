@@ -23,6 +23,8 @@ Dusburgietis teigia, kad kunigaikštis valdė keletą ar daugiau kaimų, ten tur
 - t-001
   global_id: t-58929
   teiginys: 'Kunigaikštis buvo viešės, žemdirbių gyvenvietės, valdovas, vadintas viešės patu.'
+  sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir su bibliografiniu triukšmu; citata palaiko glaustą apibrėžimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -43,7 +45,3 @@ Dusburgietis teigia, kad kunigaikštis valdė keletą ar daugiau kaimų, ten tur
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bajorai]]

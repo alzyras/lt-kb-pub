@@ -18,7 +18,7 @@ amziai:
 
 ## Santrauka
 
-Svetimšalių pėstininkija daugiausia vadinta vokiškąja, nes jos pagrindą sudarė samdiniai iš vokiškų kraštų. Svetimšalių samdymas sistema tapo Vladislovo Vazos laikais. Lietuvoje organizuoti svetimšalių regimentai pasirodė 1633 m., o regimentui vadovavo oberšteris, arba pulkininkas.
+Tai ir paskatino įvesti „Vokiškų“ pėstininkų taktika buvo pagrįsta vadinamuoju kontrmaršu: kai priešakinė karių eilė iššaudavo, į jos vietą žengdavo antroji eilė, kuri, vadinamąjį svetimšalių autoramentą. Svetimšalių regimentai, organizuoti Lietuvoje, pasirodė 1633 m. Regimentui vadovavo oberšteris (pulkininkas).
 
 ## Teiginiai
 
@@ -26,6 +26,10 @@ Svetimšalių pėstininkija daugiausia vadinta vokiškąja, nes jos pagrindą su
 - t-001
   global_id: t-78908
   teiginys: 'Svetimšalių pėstininkija daugiausia vadinta vokiškąja, nes jos pagrindą sudarė samdiniai iš vokiškų kraštų.'
+  sudarymo_pagrindimas: 'Teiginys gramatiškas, faktinis ir tiesiogiai paremtas citata.'
+  temporaliniai_duomenys: 'įvykio data: 1633 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys gramatiškas, faktinis ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-002
 
@@ -33,6 +37,7 @@ Svetimšalių pėstininkija daugiausia vadinta vokiškąja, nes jos pagrindą su
 - t-002
   global_id: t-78909
   teiginys: 'Svetimšalių samdymas sistema tapo Vladislovo Vazos laikais.'
+  sudarymo_pagrindimas: 'Pataisyta gramatinė klaida, išlaikant citatos remiamą faktą.'
   pagrindžia:
     - c-003
 
@@ -40,6 +45,11 @@ Svetimšalių pėstininkija daugiausia vadinta vokiškąja, nes jos pagrindą su
 - t-003
   global_id: t-78910
   teiginys: 'Lietuvoje organizuoti svetimšalių regimentai pasirodė 1633 m., o regimentui vadovavo oberšteris, arba pulkininkas.'
+  sudarymo_pagrindimas: 'Teiginys paremtas citata, bet geriau laikyti jį aiškiai susietu su svetimšalių regimentais.'
+  susije_objektai: 'mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1633 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys paremtas citata, bet geriau laikyti jį aiškiai susietu su svetimšalių regimentais.'
   pagrindžia:
     - c-001
 

@@ -33,9 +33,17 @@ Vilniaus miesto amatų cechų visuma.
 - t-001
   global_id: t-54846
   teiginys: '1584 m. Steponas Batoras paskelbė Steponą Genserį ir kitus Vilniaus vyskupijos jurisdikcijai priklausančius asmenis laisvus nuo Vilniaus miesto cechų.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_object: [[objektai/zodynas/jurisdikcija|jurisdikcija]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_place: Bełskas; mentioned_place: Gardinas; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1584 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Steponas Batoras.md#claim-t-113970|Steponas Batoras]]: Steponas Batoras 1584 m. Gardine atleido Steponą Genserį nuo Vilniaus miesto jurisdikcijos ir cechų valdžios.
+- susijęs iš [[objektai/asmenys/Steponas Genseris.md#claim-t-87460|Steponas Genseris]]: Steponas Genseris buvo auksakalys, kurį karaliaus dekretas atleido nuo Vilniaus miesto jurisdikcijos ir cechų valdžios.
+- susijęs iš [[objektai/asmenys/Vladislovas (karalius, Stepono pirmtakas).md#claim-t-87884|Vladislovas (karalius, Stepono pirmtakas)]]: Karalius Vladislovas buvo suteikęs privilegijų Vilniaus katedros bažnyčiai ir tuometiniam vyskupui.
+- susijęs iš [[objektai/paprociai/Vyskupijos jurisdikcijos pavaldinių atleidimas nuo miesto cechų ir pasaulietinės teisės.md#claim-t-87191|Vyskupijos jurisdikcijos pavaldinių atleidimas nuo miesto cechų ir pasaulietinės teisės]]: 1584 m. Gardine Steponas Batoras paskelbė Vilniaus vyskupijos jurisdikcijos pavaldinius laisvus nuo miesto pasaulietinės jurisdikcijos ir cechų.
+- susijęs iš Vladislovo privilegija Vilniaus katedros bažnyčiai ir Vilniaus vyskupui dėl vyskupijos jurisdikcijos: Auksakalys Steponas Genseris buvo paskelbtas laisvu nuo Vilniaus miesto pasaulietinės jurisdikcijos ir cechų valdžios.
+- susijęs iš [[objektai/zodynas/Cechas.md#claim-t-54805|Cechas]]: Vilniaus vyskupijos jurisdikcijai priklausantys asmenys sprendime paskelbti laisvi nuo Vilniaus miesto cechų.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -62,14 +70,3 @@ Vilniaus miesto amatų cechų visuma.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Antspaudas]]
-- [[objektai/asmenys/Steponas]]
-- [[objektai/zodynas/jurisdikcija]]
-- [[objektai/zodynas/Cechas]]
-- [[objektai/asmenys/Steponas Batoras]]
-- [[objektai/asmenys/Steponas Genseris]]
-- [[objektai/asmenys/Vladislovas (karalius, Stepono pirmtakas)]]
-- [[objektai/paprociai/Vyskupijos jurisdikcijos pavaldinių atleidimas nuo miesto cechų ir pasaulietinės teisės]]

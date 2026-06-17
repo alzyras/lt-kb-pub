@@ -18,6 +18,11 @@ Kojelavičiaus perpasakotoje tradicijoje Julijonas Dausprungas įvardijamas kaip
 - t-001
   global_id: t-186050
   teiginys: 'Kojelavičiaus perpasakotoje tradicijoje Julijonas Dausprungas įvardijamas kaip vienas iš kilmingųjų italų vadų, kurio giminės herbas buvo Kentauras.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Tai legendinė tradicija, todėl būtina atribucija ir išvalytas sakinys.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Herulai|Herulai]]; mentioned_object: [[objektai/daiktai/Herbas|Herbas]]; mentioned_object: [[objektai/daiktai/Kentauras|Kentauras]]; mentioned_place: Italija; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -53,10 +58,3 @@ Kojelavičiaus perpasakotoje tradicijoje Julijonas Dausprungas įvardijamas kaip
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Herbas]]
-- [[objektai/grupes/Herulai]]
-- [[objektai/daiktai/Kentauras]]
-- [[objektai/grupes/Italų ateiviai]]

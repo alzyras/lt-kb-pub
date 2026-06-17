@@ -45,8 +45,3 @@ Lietuvos sritinės kunigaikštystės buvo laikomos ne kunigaikščio nuosava val
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/feodalizmas]]
-- [[objektai/zodynas/kunigaikščiai]]

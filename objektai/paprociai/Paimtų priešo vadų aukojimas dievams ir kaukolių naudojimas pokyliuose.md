@@ -34,6 +34,7 @@ Nenurodyta
 - t-001
   global_id: t-07829
   teiginys: 'Sugautus priešo vyresniuosius lietuviai aukodavo dievams gyvus sudegindami.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Malkinė|Malkinė]]; mentioned_object: [[objektai/zodynas/Karinės vadovybės rangai|Karinės vadovybės rangai]]'
   pagrindžia:
     - c-001
 
@@ -52,9 +53,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Malkinė]]
-- [[objektai/zodynas/Karinės vadovybės rangai|karinės vadovybės rangai]]
-- [[objektai/grupes/Lietuviai]]

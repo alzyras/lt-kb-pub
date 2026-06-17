@@ -20,6 +20,8 @@ Apskritai tarptautinėse misijose Irake, Afganistane, Kosove, Bosnijoje ir Herce
 - t-001
   global_id: t-15259
   teiginys: 'Tarptautinėse misijose Irake ir kitose šalyse dalyvavo per du šimtus Lietuvos karių.'
+  sudarymo_pagrindimas: 'Perrašyta į glaustesnį sakinį, aiškiau siejantį faktą su Iraku.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/NATO|NATO]]; mentioned_place: Gruzija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

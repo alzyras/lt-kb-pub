@@ -3,10 +3,17 @@ tipas: ivykis
 pavadinimas: 'Brastos taikos derybos ir pasirašymas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1917 m.'
+  - '1918 m.'
+date_start: '1917'
+date_end: '1918'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
+amziai:
+  - 'XX'
 ---
 # Brastos taikos derybos ir pasirašymas
 
@@ -27,18 +34,22 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 <a id="claim-t-01599"></a>
 - t-001
   global_id: t-01599
   teiginys: '1917 m. pabaigoje Brastoje prasidėjus bolševikų ir Vokietijos taikos deryboms, lietuviai siekė kuo greičiau grįžti į Lietuvą.'
+  sudarymo_pagrindimas: 'Citata palaiko tikslesnį teiginį apie siekį kuo greičiau grįžti.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Brasta; mentioned_place: Lietuva; mentioned_place: Vokietija'
+  temporaliniai_duomenys: 'įvykio data: 1917 m.; įvykio data: 1918 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko tikslesnį teiginį apie siekį kuo greičiau grįžti.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1917 m. pabaigoje Brastoje prasidėjus bolševikų ir Vokietijos taikos deryboms, lietuviai siekė kuo greičiau grįžti į Lietuvą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Greitai įvykęs komunistų
@@ -49,15 +60,8 @@ Nenurodyta
     je, taika buvo pasirašyta 1918 m. kovo mėn.), visi lietuvių rū-
     pesčiai buvo suvesti į vieną: kuo greičiausiai grįžti ir visus lie-
     tuvius grąžinti į Lietuvą.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

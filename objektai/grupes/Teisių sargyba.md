@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Teisių sargyba buvo vyriausybė, turėjusi padėti valdovui tvarkyti valstybės reikalus. Teisių sargyba buvo vyriausybė, turėjusi padėti valdovui tvarkyti valstybės reikalus.
+Tvarkyti valstybės reikalus valdovui turi padėti vyriausybė, vadinama Teisių sargyba, į kurią, be karaliaus, įėjo naujai kuriamų bendrų Lenkijai ir Lietuvai centrinių valdžios institucijų – iždo, karo, policijos komisijų – pirmininkai (ministrai).
 
 ## Teiginiai
 
@@ -23,6 +23,8 @@ Teisių sargyba buvo vyriausybė, turėjusi padėti valdovui tvarkyti valstybės
 - t-001
   global_id: t-20046
   teiginys: 'Teisių sargyba buvo vyriausybė, turėjusi padėti valdovui tvarkyti valstybės reikalus.'
+  sudarymo_pagrindimas: 'Ilgas teiginys sutrumpintas iki aiškaus enciklopedinio sakinio.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -61,9 +63,3 @@ Teisių sargyba buvo vyriausybė, turėjusi padėti valdovui tvarkyti valstybės
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/seimas]]
-- [[objektai/ivykiai/Gegužės trečiosios konstitucijos priėmimas]]
-- [[objektai/grupes/Kariuomenės ir Iždo komisijos]]

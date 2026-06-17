@@ -30,6 +30,11 @@ Antroje eilėje (stovi) iš kairės: ketvirtas - Vakarų Lietuvos srities štabo
 - t-001
   global_id: t-49111
   teiginys: 'Nuo 1947 m. apie Kauną veikė partizanų Tauro apygardos Birutės rinktinė.'
+  sudarymo_pagrindimas: 'Pradiniame teiginyje trūksta aiškaus veikėjo, todėl jis perrašytas kaip savarankiškas faktas.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Birutė|Birutė]]; mentioned_place: Kaunas; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: po 1947 m.; įvykio data: 1947 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradiniame teiginyje trūksta aiškaus veikėjo, todėl jis perrašytas kaip savarankiškas faktas.'
   pagrindžia:
     - c-002
 
@@ -37,6 +42,8 @@ Antroje eilėje (stovi) iš kairės: ketvirtas - Vakarų Lietuvos srities štabo
 - t-002
   global_id: t-49112
   teiginys: 'Aleksandras Grybinas-Faustas buvo Tauro apygardos vadas.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Tauro apygardos vadą ir yra paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vakarų Lietuvos (Jūros) sritis|Vakarų Lietuvos (Jūros) sritis]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras Grybinas-Faustas|Aleksandras Grybinas-Faustas]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_person: [[objektai/asmenys/Antanas Liesys-Idenas|Antanas Liesys-Idenas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Robertas (Sicilijos karalius)|Robertas (Sicilijos karalius)]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Perloja'
   pagrindžia:
     - c-003
 
@@ -44,9 +51,14 @@ Antroje eilėje (stovi) iš kairės: ketvirtas - Vakarų Lietuvos srities štabo
 - t-003
   global_id: t-49113
   teiginys: 'Aleksandras Grybinas-Faustas 1948 m. spalio 8 d. tapo Tauro apygardos vadu.'
+  sudarymo_pagrindimas: 'Teiginys yra konkretus, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos laisvės kovos sąjūdis|Lietuvos laisvės kovos sąjūdis]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras Grybinas-Faustas|Aleksandras Grybinas-Faustas]]; mentioned_place: Lietuva; mentioned_place: Suvalkija'
+  temporaliniai_duomenys: 'įvykio data: po 1945 m.; įvykio data: 1945 m.; įvykio data: 1948 m.; įvykio data: 1949 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
-
+- susijęs iš Suvalkija: Tauro apygarda vienijo Suvalkijos regiono antisovietinio pasipriešinimo dalyvius.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -116,24 +128,3 @@ Antroje eilėje (stovi) iš kairės: ketvirtas - Vakarų Lietuvos srities štabo
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/redaktorius]]
-
-### Susiję objektai
-- [[objektai/asmenys/Aleksandras]]
-- [[objektai/asmenys/Aleksandras Grybinas-Faustas]]
-- [[objektai/asmenys/Antanas (vaistininkas)]]
-- [[objektai/asmenys/Antanas Liesys-Idenas]]
-- [[objektai/asmenys/Birutė]]
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- [[objektai/grupes/Lietuvos laisvės kovos sąjūdis]]
-- [[objektai/asmenys/Robertas (Sicilijos karalius)]]
-- [[objektai/grupes/Vakarų Lietuvos (Jūros) sritis]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/Adynos|adynos]]
-- [[objektai/zodynas/įgula]]
-- [[objektai/asmenys/Aleksandras Milaševičius-Ruonis]]
-- [[objektai/asmenys/Robertas Gedvilas-Remigijus]]
-- [[objektai/asmenys/Vytautas Gužas-Kardas]]

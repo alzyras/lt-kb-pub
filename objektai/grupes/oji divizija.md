@@ -21,6 +21,8 @@ tags:
 - t-001
   global_id: t-80646
   teiginys: '2-ajai divizijai buvo numatyta užimti gynybines pozicijas ruože Dimitravo ežeras–Meros upė–Augustavo kanalas–Nemunas.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_place: Augustavas'
   pagrindžia:
     - c-001
 
@@ -40,9 +42,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/2-oji divizija]]
-- [[objektai/grupes/3-ioji divizija]]
-- [[objektai/grupes/ioji divizija]]

@@ -20,6 +20,8 @@ Partizanų pajėgos Tuo metu Žuvinto paliose ir Buktos (Žaliosios) miške jau 
 - t-001
   global_id: t-40905
   teiginys: 'Jurgio Lajaus būrys veikė Žuvinto paliose ir Buktos, arba Žaliosios, miške.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie būrį ir remiasi citata.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Barkauskas|Barkauskas]]; mentioned_place: Buktos (Žaliosios) miškas; mentioned_place: Daukšiai; mentioned_place: Lietuva; mentioned_place: Žuvintas'
   pagrindžia:
     - c-001
 
@@ -44,13 +46,3 @@ Partizanų pajėgos Tuo metu Žuvinto paliose ir Buktos (Žaliosios) miške jau 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Barkauskas]]
-- [[objektai/grupes/Edvardo Lajaus būrys]]
-- [[objektai/grupes/Gedimino būrys]]
-- [[objektai/grupes/Juozo Pandeikos būrys]]
-- [[objektai/grupes/Klarko būrys]]
-- [[objektai/grupes/Kosto Barkausko būrys]]
-- [[objektai/grupes/Žuvinto-Palių junginys]]

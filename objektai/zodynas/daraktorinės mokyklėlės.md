@@ -22,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-Po 1863–1864 m. sukilimo etninėje Lietuvoje masiškai išplito slaptos daraktorinėmis vadintos mokyklėlės.
+Tokios daraktorinėmis vadintos mokyklėlės masiškai išplito ir miestuose.
 
 ## Teiginiai
 
@@ -30,9 +30,15 @@ Po 1863–1864 m. sukilimo etninėje Lietuvoje masiškai išplito slaptos darakt
 - t-001
   global_id: t-77792
   teiginys: 'Po 1863–1864 m. sukilimo etninėje Lietuvoje masiškai išplito slaptos daraktorinėmis vadintos mokyklėlės.'
+  sudarymo_pagrindimas: 'Citata mini masinį plitimą ir miestuose, todėl siaurinimas iki kaimų nėra tikslus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/autoriai/Motiejus Valančius|Motiejus Valančius]]; mentioned_place: Kaimas; mentioned_place: Lietuva; mentioned_place: Rusija'
+  temporaliniai_duomenys: 'įvykio data: 1863-1864; įvykio data: 1864 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata mini masinį plitimą ir miestuose, todėl siaurinimas iki kaimų nėra tikslus.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/paprociai/Rusiškų mokyklų boikotas ir slaptos daraktorinės mokyklėlės.md#claim-t-75391|Rusiškų mokyklų boikotas ir slaptos daraktorinės mokyklėlės]]: Policijos persekiojamos daraktorinės mokyklėlės neišnyko, nes jų poreikis virto tradicija.
+- susijęs iš [[objektai/paprociai/Rusiškų mokyklų boikotas ir slaptos daraktorinės mokyklėlės.md#claim-t-75393|Rusiškų mokyklų boikotas ir slaptos daraktorinės mokyklėlės]]: Policijos persekiojamos daraktorinės mokyklėlės neišnyko, nes jų poreikis išliko ir susiformavo tokio mokymo tradicija.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -57,9 +63,3 @@ Po 1863–1864 m. sukilimo etninėje Lietuvoje masiškai išplito slaptos darakt
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/Motiejus Valančius]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/paprociai/Rusiškų mokyklų boikotas ir slaptos daraktorinės mokyklėlės]]

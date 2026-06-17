@@ -29,6 +29,11 @@ amziai:
 - t-001
   global_id: t-34201
   teiginys: '1387 m. vasario 17 d. Jogaila Vilniaus katedrai ir steigiamajai vyskupijai užrašė Malėtus.'
+  sudarymo_pagrindimas: 'Pradinis teiginys fragmentiškas ir su OCR triukšmu; citata palaiko aiškų faktą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Tauragnai; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1387 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys fragmentiškas ir su OCR triukšmu; citata palaiko aiškų faktą.'
   pagrindžia:
     - c-001
 

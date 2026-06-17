@@ -4,9 +4,10 @@ pavadinimas: 'Abiejų Tautų Respublikos padalijimai ir sunaikinimas (XVIII a. p
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
+  - '1791 m.'
   - '1795 m.'
-date_start: '1795'
-date_end: ''
+date_start: '1791'
+date_end: '1795'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -43,6 +44,11 @@ Nenurodyta
 - t-001
   global_id: t-75089
   teiginys: 'Abiejų Tautų Respublika buvo sunaikinta trimis XVIII a. pabaigos padalijimais, kuriuose dalyvavo Rusija, Austrija ir Prūsija.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir tiesiogiai pakartoja citatoje pateiktą informaciją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/barokas|barokas]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_person: [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas|Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]; mentioned_place: Austrija; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Viena; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1791 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, faktinis ir tiesiogiai pakartoja citatoje pateiktą informaciją.'
   pagrindžia:
     - c-001
 
@@ -50,6 +56,11 @@ Nenurodyta
 - t-002
   global_id: t-75090
   teiginys: '1795 m. Rusija, Austrija ir Prūsija galutinai pasidalijo Lenkijos ir Lietuvos valstybę, o didžioji Lietuvos dalis atiteko Rusijai.'
+  sudarymo_pagrindimas: 'Pradinis teiginys yra fragmentiškas ir mažiau susijęs su note objektu; citata geriau palaiko teiginį apie 1795 m. padalijimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_place: Austrija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Rusija'
+  temporaliniai_duomenys: 'įvykio data: 1795 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys yra fragmentiškas ir mažiau susijęs su note objektu; citata geriau palaiko teiginį apie 1795 m. padalijimą.'
   pagrindžia:
     - c-002
 
@@ -98,11 +109,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]
-- [[objektai/zodynas/barokas]]
-- [[objektai/zodynas/Miera|miera]]
-- [[objektai/grupes/Žydai]]

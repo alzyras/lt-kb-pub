@@ -38,6 +38,8 @@ Nenurodyta
 - t-001
   global_id: t-89362
   teiginys: 'Pagudėnai pasidavė broliams po pasakojamo stebuklo ir nuolatinių brolių antpuolių, davę įkaitų ir priėmę tikėjimą.'
+  sudarymo_pagrindimas: 'Citata remia aiškesnį sakinį apie pagudėnų pasidavimo priežastis ir rezultatą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_object: [[objektai/zodynas/įkaitai|įkaitai]]'
   pagrindžia:
     - c-001
 
@@ -45,6 +47,8 @@ Nenurodyta
 - t-002
   global_id: t-89363
   teiginys: 'Dusburgietis pasakoja, kad pagudėnų kariuomenė pabėgo pamačiusi lauką, pilną ginkluotų vyrų, panašių į Ordino brolius.'
+  sudarymo_pagrindimas: 'Tai autoriaus perteikiamas stebuklo aiškinimas, todėl tinka atsargi šaltinio atribucija.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]'
   pagrindžia:
     - c-001
 
@@ -52,6 +56,8 @@ Nenurodyta
 - t-003
   global_id: t-89364
   teiginys: 'Elbingo broliai su nedidele ginklanešių palyda vijosi didelę prūsų kariuomenę, prisiplėšusią grobio jų valdomose apygardose.'
+  sudarymo_pagrindimas: 'Pašalinta perteklinė autorystės formulė ir sakinys sutrumpintas į aiškų faktą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_place: Elbingas; mentioned_place: Prūsai; mentioned_place: Viena'
   pagrindžia:
     - c-002
 
@@ -89,11 +95,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/ginklanešiai]]
-- [[objektai/grupes/Pagudėnai]]
-- [[objektai/zodynas/įkaitai]]
-- [[objektai/posakiai/Mes tikrai esame matę visą lauką pilną ginkluotų vyrų, apsivilkusių ir apsiginklavusių taip kaip jūsų broliai, štai dėl to ir mūsų kariuomen]]
-- [[objektai/paprociai/Pasidavimas tikėjimui ir broliams davus įkaitį]]

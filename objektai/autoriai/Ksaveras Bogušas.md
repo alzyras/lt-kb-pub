@@ -5,8 +5,9 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1808 m.'
+  - '1818 m.'
 date_start: '1808'
-date_end: ''
+date_end: '1818'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -34,6 +35,9 @@ Ksaveras Bogušas pristatomas kaip iš Lietuvos kilęs kunigas ir teologas, kuri
 - t-001
   global_id: t-23235
   teiginys: 'Ksaveras Bogušas apibūdintas kaip iš Lietuvos kilęs kunigas ir teologas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1818 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -41,6 +45,9 @@ Ksaveras Bogušas pristatomas kaip iš Lietuvos kilęs kunigas ir teologas, kuri
 - t-002
   global_id: t-23236
   teiginys: 'Bogušo knygelė „Apie lietuvių tautos ir kalbos kilmę“ siejama su mintimi apie lietuvių kalbos tinkamumą atskirai aukštajai kultūrai.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1818 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -48,9 +55,22 @@ Ksaveras Bogušas pristatomas kaip iš Lietuvos kilęs kunigas ir teologas, kuri
 - t-003
   global_id: t-26607
   teiginys: '1808 m. Varšuvoje Mokslo bičiulių draugija išleido Ksavero Bogušo knygelę „Apie lietuvių tautos ir kalbos kilmę“.'
+  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytą leidybos faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Mokslo bičiulių draugija|Mokslo bičiulių draugija]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_place: Lietuva; mentioned_place: Varšuva'
+  temporaliniai_duomenys: 'įvykio data: 1808 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia citatoje nurodytą leidybos faktą.'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/asmenys/Dionizas Poška.md#claim-t-183528|Dionizas Poška]]: Dionizas Poška buvo vienas Žemaitijoje gyvenusių inteligentų, pradėjusių rašyti poeziją žemaitiškai arba lietuviškai.
+- susijęs iš [[objektai/asmenys/Dionizas Poška.md#claim-t-18875|Dionizas Poška]]: Dionizas Poška buvo vienas Žemaitijoje gyvenusių inteligentų, pradėjusių rašyti poeziją žemaitiškai arba lietuviškai.
+- susijęs iš [[objektai/asmenys/Silvestras Valiūnas.md#claim-t-183566|Silvestras Valiūnas]]: Silvestras Valiūnas buvo tarp Žemaitijoje gyvenusių inteligentų, kuriuos Ksavero Bogušo mintis paskatino rašyti poeziją žemaitiškai arba lietuviškai.
+- susijęs iš [[objektai/asmenys/Silvestras Valiūnas.md#claim-t-19223|Silvestras Valiūnas]]: Silvestras Valiūnas buvo vienas Žemaitijoje gyvenusių inteligentų, pradėjusių rašyti poeziją žemaitiškai arba lietuviškai.
+- susijęs iš [[objektai/grupes/Mokslo bičiulių draugija.md#claim-t-45131|Mokslo bičiulių draugija]]: 1808 m. Varšuvoje Mokslo bičiulių draugija išleido Ksavero Bogušo knygelę „Apie lietuvių tautos ir kalbos kilmę“.
+- susijęs iš [[objektai/grupes/Mokslo bičiulių draugija.md#claim-t-45132|Mokslo bičiulių draugija]]: 1808 m. Varšuvoje Mokslo bičiulių draugija išleido Ksavero Bogušo knygelę „Apie lietuvių tautos ir kalbos kilmę“.
+- susijęs iš [[objektai/grupes/Mokslo bičiulių draugija.md#claim-t-45133|Mokslo bičiulių draugija]]: Mokslo bičiulių draugijos išleistoje Ksavero Bogušo knygelėje teigta, kad lietuvių kalba tinkama aukštajai kultūrai.
+- susijęs iš Ksaveras Bogušas, „Apie lietuvių tautos ir kalbos kilmę“: 1808 m. Varšuvoje išleistoje Ksavero Bogušo knygelėje „Apie lietuvių tautos ir kalbos kilmę“ pirmą kartą teigta, kad lietuvių kalba tinkama aukštajai kultūrai.
+- susijęs iš Ksaveras Bogušas, „Apie lietuvių tautos ir kalbos kilmę“: Ksavero Bogušo knygelėje „Apie lietuvių tautos ir kalbos kilmę“ pirmą kartą nuskambėjo mintis, kad lietuvių kalba tinka aukštajai kultūrai.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -89,12 +109,3 @@ Ksaveras Bogušas pristatomas kaip iš Lietuvos kilęs kunigas ir teologas, kuri
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/dvasininkas]]
-
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/kunigas]]
-- [[objektai/grupes/Mokslo bičiulių draugija]]

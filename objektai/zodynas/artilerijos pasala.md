@@ -14,7 +14,7 @@ tags:
 
 ## Santrauka
 
-Per Oršos mūšį atsitraukianti kariuomenė atviliojo priešą į artilerijos pasalą.
+Pergalė prie Oršos buvo didžiausias Konstantino Ostrogiškio karinis triumfas, ją pasiekiant didelę reikšmę turėjo šio didžiojo etmono vadovavimo sugebėjimai, jo kariuomenės kovinės savybės, suderinti kariuomenės dalių veiksmai, puikūs taktiniai manevrai -.
 
 ## Teiginiai
 
@@ -22,6 +22,8 @@ Per Oršos mūšį atsitraukianti kariuomenė atviliojo priešą į artilerijos 
 - t-001
   global_id: t-42432
   teiginys: 'Per Oršos mūšį atsitraukianti kariuomenė atviliojo priešą į artilerijos pasalą.'
+  sudarymo_pagrindimas: 'Patikslintas veikėjas ir sakinys suformuluotas kaip savarankiškas faktinis teiginys.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Oršos mūšis (1514 m.)|Oršos mūšis (1514 m.)]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/zodynas/karyba|karyba]]; mentioned_person: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -62,12 +64,3 @@ Per Oršos mūšį atsitraukianti kariuomenė atviliojo priešą į artilerijos 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Artilerija]]
-- [[objektai/daiktai/Kalavijas]]
-- [[objektai/asmenys/Konstantinas (Karijotaitis)]]
-- [[objektai/ivykiai/Oršos mūšis (1514 m.)]]
-- [[objektai/zodynas/karyba]]
-- [[objektai/asmenys/Žygimantas]]

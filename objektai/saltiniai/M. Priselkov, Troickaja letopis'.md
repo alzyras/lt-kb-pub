@@ -4,15 +4,17 @@ pavadinimas: 'M. Priselkov, Troickaja letopis'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
+  - '1406 m.'
   - '1950 m.'
-date_start: '1950'
-date_end: ''
+date_start: '1406'
+date_end: '1950'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ordinas
   - saltinis
 amziai:
+  - 'XV'
   - 'XX'
 ---
 # M. Priselkov, Troickaja letopis
@@ -27,6 +29,9 @@ Nasonov : Novogrodskaja pervaja letopis' staršego i mladšego izvodov , Moskva-
 - t-001
   global_id: t-31842
   teiginys: 'M. Priselkovo „Troickaja letopis''''“ minima kaip 1950 m. leidinys, cituojamas 457 puslapyje.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Maskva'
+  temporaliniai_duomenys: 'įvykio data: 1406 m.; įvykio data: 1950 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

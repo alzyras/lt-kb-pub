@@ -23,6 +23,8 @@ Dusburgietis teigia, kad nedera, be to, užmiršti ir šlovingų bei dievui malo
 - t-001
   global_id: t-60237
   teiginys: 'Makabėjai nugalėjo Antiochą Epifaną ir apvalė šventas vietas.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Antiochą Epifaną ir paremtas citata.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Dovydas|Dovydas]]; mentioned_place: Šventoji'
   pagrindžia:
     - c-001
 
@@ -49,7 +51,3 @@ Dusburgietis teigia, kad nedera, be to, užmiršti ir šlovingų bei dievui malo
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/ritualas]]

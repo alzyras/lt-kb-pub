@@ -29,6 +29,7 @@ Schmidt, W.
 - t-001
   global_id: t-31071
   teiginys: 'W. Schmidt parašė veikalus „Ursprung und Werden der Religion“ ir „Der Ursprung der Gottesidee“.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Saulė|Saulė]]'
   pagrindžia:
     - c-001
 
@@ -47,7 +48,3 @@ Schmidt, W.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Saulė]]

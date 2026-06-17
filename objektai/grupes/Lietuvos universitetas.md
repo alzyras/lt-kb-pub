@@ -28,6 +28,11 @@ Laisvės sąlygomis sparčiai kilo švietimas, atsidarė naujų mokyklų, 1919 m
 - t-001
   global_id: t-77829
   teiginys: 'Aukštieji kursai Kaune peraugo į Lietuvos universitetą, atidarytą 1922 m. vasario 16 d.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_place: Kaunas; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1919 m.; įvykio data: 1922 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -47,8 +52,3 @@ Laisvės sąlygomis sparčiai kilo švietimas, atsidarė naujų mokyklų, 1919 m
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Rytas]]
-- [[objektai/ivykiai/Lietuvos universiteto atidarymas (1922 m. vasario 16 d.)]]

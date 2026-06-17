@@ -42,6 +42,11 @@ Nenurodyta
 - t-001
   global_id: t-20430
   teiginys: '1971 m. viename Vilniaus restoranų įvyko nelegalus roko festivalis, vadintas Baltijos šalių ar net 300 SSRS hipių suvažiavimu.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas, konkretus ir paremtas citatos informacija.'
+  susije_objektai: 'mentioned_place: Baltija; mentioned_place: SSRS; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1971 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas, konkretus ir paremtas citatos informacija.'
   pagrindžia:
     - c-001
 
@@ -62,7 +67,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Hipių judėjimas sovietinėje Lietuvoje]]

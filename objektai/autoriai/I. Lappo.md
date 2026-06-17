@@ -8,11 +8,12 @@ date_start: ''
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-amziai: []
-periodo_grupes: []
 tags:
   - autorius
   - kunigaikštis
+amziai:
+  - 'L'
+periodo_grupes: []
 ---
 # I. Lappo
 
@@ -21,14 +22,22 @@ tags:
 Lappo: 1588 Lietuvos Statutas, It. Lappo, t.
 
 ## Teiginiai
+
 <a id="claim-t-100107"></a>
 - t-001
   global_id: t-100107
   teiginys: 'I. Lappo 1934 m. Kaune išleido veikalo „1588 Lietuvos Statutas“ pirmojo tomo pirmąją dalį.'
+  sudarymo_pagrindimas: 'Pradinis teiginys yra bibliografinis fragmentas, o citata leidžia jį paversti sakiniu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Veliuona'
+  temporaliniai_duomenys: 'įvykio data: 1934 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys yra bibliografinis fragmentas, o citata leidžia jį paversti sakiniu.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/autoriai/H. Lowmiański.md#claim-t-05941|H. Lowmiański]]: H. Lowmiański 1931–1932 m. Vilniuje išleido dviejų tomų veikalą „Studja nad początkami społeczeństwa i państwa litewskiego“.
+- susijęs iš Litovskij Statut 1588 goda: I. I. Lappo „Litovskij Statut 1588 goda“ dalys buvo išleistos Kaune 1934 m., 1936 m. ir 1938 m.
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'I. Lappo 1934 m. Kaune išleido veikalo „1588 Lietuvos Statutas“ pirmojo tomo pirmąją dalį.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -43,8 +52,3 @@ Lappo: 1588 Lietuvos Statutas, It. Lappo, t.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lotynai]]
-- [[objektai/zodynas/kunigaikščiai]]

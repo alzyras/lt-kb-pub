@@ -23,6 +23,8 @@ Nuo šio muito arba mokesčio minėtam Ulrikui Hozijui leidome visas lėšas ir 
 - t-001
   global_id: t-86427
   teiginys: 'Tilto mokestis karališkąja malone visiems laikams buvo paskirtas prieglaudai ir joje gyvenantiems vargšams.'
+  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytą tilto mokesčio paskyrimą prieglaudai.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jonas|Jonas]]'
   pagrindžia:
     - c-003
 
@@ -30,6 +32,8 @@ Nuo šio muito arba mokesčio minėtam Ulrikui Hozijui leidome visas lėšas ir 
 - t-002
   global_id: t-86428
   teiginys: 'Ulrikui Hozijui leista rinkti tilto mokestį tol, kol jam sugrįš tilto statybai įdėtos lėšos.'
+  sudarymo_pagrindimas: 'Pradinis teiginys turi neaiškų dokumentinį veiksnį; citata paremia aiškų faktą.'
+  susije_objektai: 'mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -37,6 +41,8 @@ Nuo šio muito arba mokesčio minėtam Ulrikui Hozijui leidome visas lėšas ir 
 - t-003
   global_id: t-86429
   teiginys: 'Jonas Hozijus buvo paskirtas rinkti tilto mokestį ir taisė pavasarį vandens bei ledų sangrūdų sugadintą tiltą.'
+  sudarymo_pagrindimas: 'Teiginys sutrumpintas iki aiškaus, citata paremto fakto.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas Hozijus|Jonas Hozijus]]'
   pagrindžia:
     - c-001
 
@@ -134,10 +140,3 @@ Nuo šio muito arba mokesčio minėtam Ulrikui Hozijui leidome visas lėšas ir 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Jonas]]
-- [[objektai/asmenys/Jonas Hozijus]]
-- [[objektai/zodynas/prokuratorius ir provizorius]]
-- [[objektai/ivykiai/Žygimanto Senojo privilegijos dėl Vilijos tilto muito ir Švč. Trejybės prieglaudos suteikimas (1536 m. rugpjūčio 6 d.)]]

@@ -28,6 +28,8 @@ tags:
 - t-001
   global_id: t-09658
   teiginys: 'Kunigas Mackevičius pamoksle ragino eiti už šventą tikėjimą, tėvynę Lietuvą ir lietuvius brolius.'
+  sudarymo_pagrindimas: 'Citata pagrindžia Mackevičiaus pamokslinį raginimą, bet teiginį reikia sukonkretinti.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -46,10 +48,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/paprociai/Sukilėlių telkimas Salose per bažnyčios varpų skambinimą ir dvikalbį pamokslą]]
-- [[objektai/zodynas/kunigas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Antanas Mackevičius]]

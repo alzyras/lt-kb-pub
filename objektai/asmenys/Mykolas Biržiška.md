@@ -28,6 +28,11 @@ Biržiška iš jos pasitraukė.
 - t-001
   global_id: t-25694
   teiginys: 'Mykolas Biržiška 1917 m. priklausė Vilniaus konferencijos organizaciniam komitetui.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūksta OCR fragmente, bet citata pakankamai palaiko Biržiškos narystę komitete.'
+  susije_objektai: 'owner: Austrija; owner: Lenkija; owner: Lietuva; owner: [[objektai/grupes/Lietuviai|Lietuviai]]; owner: Vilnius; owner: Vokietija; owner: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_place: Austrija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_place: Vokietija'
+  temporaliniai_duomenys: 'priklausymo laikotarpis: 1917 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Mykolas susiję su Lietuviai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Mykolas susiję su Vokiečiai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Mykolas susiję su Austrija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Mykolas susiję su Lenkija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Mykolas susiję su Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Mykolas susiję su Vilnius“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Mykolas susiję su Vokietija“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūksta OCR fragmente, bet citata pakankamai palaiko Biržiškos narystę komitete.'
   pagrindžia:
     - c-001
 
@@ -52,9 +57,3 @@ Biržiška iš jos pasitraukė.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

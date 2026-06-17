@@ -3,12 +3,18 @@ tipas: ivykis
 pavadinimas: 'Stanislovo Augusto kapituliacija ir prisijungimas prie Targovicos konfederacijos'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1792 m.'
+date_start: '1792'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
   - karas
   - seimas
+amziai:
+  - 'XVIII'
 ---
 # Stanislovo Augusto kapituliacija ir prisijungimas prie Targovicos konfederacijos
 
@@ -38,6 +44,11 @@ Nenurodyta
 - t-001
   global_id: t-20505
   teiginys: 'Stanislovo Augusto pozicija 1792 m. gegužės–liepos kare su Rusija buvo susitaikėliška.'
+  sudarymo_pagrindimas: 'Citata pagrindžia tik Stanislovo Augusto pozicijos vertinimą ir karo kontekstą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis maršalas|didysis maršalas]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Stanislovas|Stanislovas]]; mentioned_person: [[objektai/asmenys/Stanislovas Soltanas|Stanislovas Soltanas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Rusija'
+  temporaliniai_duomenys: 'įvykio data: 1792 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia tik Stanislovo Augusto pozicijos vertinimą ir karo kontekstą.'
   pagrindžia:
     - c-001
 
@@ -60,14 +71,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Augustas]]
-- [[objektai/asmenys/Stanislovas]]
-- [[objektai/asmenys/Stanislovas Soltanas]]
-- [[objektai/zodynas/didysis maršalas]]
-- [[objektai/zodynas/maršalas]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/ivykiai/1792 m. LLV ir Rusijos karas]]
-- [[objektai/asmenys/Stanislovas Augustas Poniatovskis|Stanislovas Augustas Poniatovskis (valdovas)]]

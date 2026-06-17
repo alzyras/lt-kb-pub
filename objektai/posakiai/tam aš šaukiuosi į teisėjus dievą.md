@@ -18,6 +18,11 @@ Kojelavičius perteikia kalbėtojo formulę, kuria šis šaukiasi Dievo teisėju
 - t-001
   global_id: t-185482
   teiginys: 'Kojelavičius perteikia kalbėtojo formulę, kuria šis šaukiasi Dievo teisėju prieš priesaiką ir teises pažeidžiančius sumanymus.'
+  teiginio_tipas: 'saltinio_teiginys'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Atribucija palikta tik šaltinio vertinimui / formulei; claimas perrašytas be OCR triukšmo.'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

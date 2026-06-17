@@ -14,23 +14,22 @@ tags:
 
 ## Santrauka
 
-„Lietuvių Balse“ buvo išdėstytos sąlygos, kuriomis būtų galimas bendradarbiavimas Lietuvos atgaivinimo darbe.
+Jakšto lenkiškai parašyta brošiūra — „Lietuvių Balsas" (1902 m.), kur jaunoji bajorų karta buvo kviečiama j bendrą Lietuvos atgaivinimo darbą. „Lietuvių Balse" („Glos Litwinöw") buvo išdėstyta, kokiomis sąlygomis būtų galimas bendradarbiavimas.
 
 ## Teiginiai
+
 <a id="claim-t-02211"></a>
 - t-001
   global_id: t-02211
   teiginys: '„Lietuvių Balse“ buvo išdėstytos sąlygos, kuriomis būtų galimas bendradarbiavimas Lietuvos atgaivinimo darbe.'
+  sudarymo_pagrindimas: 'Pradinis teiginys per bendras; citata leidžia aiškiau nurodyti bendradarbiavimo kontekstą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: '„Lietuvių Balse“ buvo išdėstytos sąlygos, kuriomis būtų galimas bendradarbiavimas Lietuvos atgaivinimo darbe.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **„Lietuvių Balse"** **_(„Glos Litwinöw")_** buvo išdėstyta, kokiomis
@@ -38,10 +37,8 @@ tags:
     sakoma, kad lietuvių tautiškojo sąjūdžio idealas esąs savos kultū-
     ros kėlimas. Lietuva turinti būti lietuviams, o ne
     Lietuva Lenkijai, kaip to norį nutautę mūsų bajorai.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

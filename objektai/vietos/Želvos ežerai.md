@@ -10,12 +10,12 @@ date_start: '1936'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XX'
-  - 'XXI'
 tags:
   - ežeras
   - vieta
+amziai:
+  - 'XX'
+  - 'XXI'
 ---
 # Želvos ežerai
 
@@ -24,26 +24,27 @@ tags:
 toliau Drujos upe, per Drivietų, Želvos, Oziraičių ežerus, Medžiolos upe ir per to pat vardo.
 
 ## Teiginiai
+
 <a id="claim-t-53419"></a>
 - t-001
   global_id: t-53419
   teiginys: 'Rytinė Lietuvos teritorijos linija buvo vedama per Drivietų, Želvos ir Oziraičių ežerus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Dauguva; mentioned_place: Druja; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Vilnius; mentioned_place: Voložinas; mentioned_place: Želva'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+
 <a id="claim-t-53420"></a>
 - t-002
   global_id: t-53420
   teiginys: 'Lietuvos rytinė teritorijos linija buvo vedama per Želvos ežerus.'
+  sudarymo_pagrindimas: 'Pirminis teiginys per ilgas ir apima daug kitų vietovardžių; citata tiesiogiai pagrindžia Želvos ežerų faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Dauguva; mentioned_place: Druja; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Vilnius; mentioned_place: Voložinas; mentioned_place: Želva'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Rytinė Lietuvos teritorijos linija buvo vedama per Drivietų, Želvos ir Oziraičių ežerus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     12 d. Maskvoje. Rusija pripažino Lietuvos atsiskyrimą
@@ -58,11 +59,9 @@ toliau Drujos upe, per Drivietų, Želvos, Oziraičių ežerus, Medžiolos upe i
     Svisločės intaku, Lašos upe, pro Induros miestelį, Induros upe, toliau
     pro Sidros miestelį, Kamenos upe ir pagaliau Gorodniankos upe ligi
     Bobro upės.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
     - t-002

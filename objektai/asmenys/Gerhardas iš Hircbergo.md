@@ -20,6 +20,8 @@ Dusburgietis teigia, kad apie brolį Gerhardą, Prūsijos magistrą Ketvirtas Pr
 - t-001
   global_id: t-60286
   teiginys: 'Gerhardas iš Hircbergo dvejus metus vadovavo kaip ketvirtas Prūsijos žemės magistras.'
+  sudarymo_pagrindimas: 'Teiginys yra tikslus, gramatiškas ir paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Gerhardas|Gerhardas]]; mentioned_place: Prūsija; mentioned_place: Vokietija'
   pagrindžia:
     - c-001
 
@@ -44,8 +46,3 @@ Dusburgietis teigia, kad apie brolį Gerhardą, Prūsijos magistrą Ketvirtas Pr
   pagrindžia:
     - t-001
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Gerhardas|Gerhardas (valdovas)]]
-- [[objektai/zodynas/magistras]]

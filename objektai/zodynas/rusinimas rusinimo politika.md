@@ -23,6 +23,8 @@ Rusinimo politika 1864–1904 metais Šios politikos ėmėsi sukilimo slopintoja
 - t-001
   global_id: t-22285
   teiginys: 'Rusinimo politika Vilniuje siekė parodyti Šiaurės Vakarų krašto centrą ne mažiau stačiatikišką negu katalikišką.'
+  sudarymo_pagrindimas: 'Citata pagrindžia teiginį, bet reikia aiškiai įvardyti rusinimo politiką ir pašalinti fragmentiškumą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_object: [[objektai/zodynas/rusinimas|rusinimas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -30,6 +32,8 @@ Rusinimo politika 1864–1904 metais Šios politikos ėmėsi sukilimo slopintoja
 - t-002
   global_id: t-22286
   teiginys: 'Rusinimo politikos programa siekė silpninti vietos dvarininkiją ir viešajame gyvenime įtvirtinti rusų kalbą.'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo fragmentiškas, o citata pagrindžia konkretesnį sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_object: [[objektai/zodynas/generalgubernatorius|generalgubernatorius]]; mentioned_object: [[objektai/zodynas/pradai|pradai]]; mentioned_object: [[objektai/zodynas/rusinimas|rusinimas]]; mentioned_object: [[objektai/zodynas/separatizmas|separatizmas]]; mentioned_place: Rusija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -73,15 +77,3 @@ Rusinimo politika 1864–1904 metais Šios politikos ėmėsi sukilimo slopintoja
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/grupes/Stačiatikiai]]
-- [[objektai/zodynas/generalgubernatorius]]
-- [[objektai/zodynas/pradai]]
-- [[objektai/zodynas/rusinimas]]
-- [[objektai/zodynas/separatizmas]]
-- [[objektai/paprociai/Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m]]
-- [[objektai/grupes/Rusų stačiatikių bažnyčia]]

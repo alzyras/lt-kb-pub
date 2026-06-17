@@ -26,6 +26,11 @@ Dusburgietis teigia, kad mažvydas M.
 - t-001
   global_id: t-61177
   teiginys: 'M. Mažvydo „Pirmoji lietuviška knyga“ išleista 1974 m.'
+  sudarymo_pagrindimas: 'Citata patvirtina leidinio pavadinimą ir metus.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/Martynas Mažvydas Vaitkūnas|Martynas Mažvydas Vaitkūnas]]'
+  temporaliniai_duomenys: 'įvykio data: 1974 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata patvirtina leidinio pavadinimą ir metus.'
   pagrindžia:
     - c-001
 

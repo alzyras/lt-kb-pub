@@ -10,6 +10,7 @@ tags:
   - pilis
   - pinigai
   - transportas
+  - vieta
 ---
 # Vilniaus miesto vartai
 
@@ -23,9 +24,11 @@ tags:
 - t-001
   global_id: t-86256
   teiginys: 'Sprendimu miesto sienoje nurodyta palikti penkerius Vilniaus miesto vartus, tarp jų vartus prie kelio į Trakus ir prie Pilies.'
+  sudarymo_pagrindimas: 'Sutvarkytas nutrūkęs sąrašas ir paliktas pagrįstas faktas.'
+  susije_objektai: 'mentioned_place: Išganytojo (Spaso) bažnyčia Vilniuje; mentioned_place: Trakai; mentioned_place: Viena; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
-
+- susijęs iš Išganytojo (Spaso) bažnyčia Vilniuje: 1505 m. sprendime vieni Vilniaus miesto vartai buvo numatyti ties Išganytojo (Spaso) bažnyčia.
 ## Reikšmingi paminėjimai
 
 - c-001

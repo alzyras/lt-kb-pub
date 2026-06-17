@@ -11,6 +11,7 @@ tags:
   - karalius
   - kunigaikštis
   - miestas
+  - valstybė
 ---
 # Ivanas Vasiljevičius
 
@@ -24,6 +25,8 @@ Toks didžio­ jo kunigaikščio Aleksandro rūpinimasis savo sostinės gyventoj
 - t-001
   global_id: t-87520
   teiginys: 'Caras Ivanas Vasiljevičius savo užmačiomis nukreipė didžiojo kunigaikščio Aleksandro dėmesį nuo Vilniaus gerovės.'
+  sudarymo_pagrindimas: 'Citata palaiko glaustą faktą apie Ivano Vasiljevičiaus veiksmų poveikį Aleksandrui.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_group: [[objektai/grupes/Vilniaus miestiečių luomas|Vilniaus miestiečių luomas]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_object: [[objektai/zodynas/grašis|grašis]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_person: [[objektai/asmenys/Ivanas|Ivanas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva; mentioned_place: Taurija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -31,6 +34,8 @@ Toks didžio­ jo kunigaikščio Aleksandro rūpinimasis savo sostinės gyventoj
 - t-002
   global_id: t-87521
   teiginys: 'Krymo totorių orda, Ivano Vasiljevičiaus pakurstyta, ėmė puldinėti žemes, paklūstančias Aleksandro skeptrui, ir kilo grėsmė Kijevui.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir citata tiesiogiai sieja Ivaną Vasiljevičių su totorių puldinėjimų kurstymu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Rusų pirkliai|Rusų pirkliai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]; mentioned_place: Kijevas; mentioned_place: Krymas'
   pagrindžia:
     - c-002
 
@@ -38,9 +43,20 @@ Toks didžio­ jo kunigaikščio Aleksandro rūpinimasis savo sostinės gyventoj
 - t-003
   global_id: t-184713
   teiginys: 'Ivanas Vasiljevičius laiške prisiskyrė Livonijos valdovo titulą, kurį karalius uždraudė minėti laiškuose.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata remia aiškesnį faktą apie Ivano titulą ir karaliaus atsaką.'
+  susije_objektai: 'territory: Livonija; territory: Maskva; territory: Viena; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_object: [[objektai/zodynas/legatai|legatai]]; mentioned_person: [[objektai/asmenys/Ivanas|Ivanas]]; mentioned_person: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/asmenys/Ivanas Vasiljevičius|Ivanas Vasiljevičius]] buvo valdovas Livonija; [[objektai/asmenys/Ivanas Vasiljevičius|Ivanas Vasiljevičius]] buvo valdovas Maskva; [[objektai/asmenys/Ivanas Vasiljevičius|Ivanas Vasiljevičius]] buvo valdovas Viena'
   pagrindžia:
     - c-003
-
+- susijęs iš [[objektai/asmenys/Jonas Gornostajus.md#claim-t-186047|Jonas Gornostajus]]: Karalius pavedė Jonui Gornostajui, Lietuvos raštininkui, kartu su kitais pasiuntiniais vykti pas Vasilijų į Maskvą.
+- susijęs iš [[objektai/asmenys/Petras Kiška, Bogušas Bogovitinas ir Stanislovas Daugirdas.md#claim-t-186156|Petras Kiška, Bogušas Bogovitinas ir Stanislovas Daugirdas]]: Karalius pavedė Petrui Kiškai, Bogušui Bogovitinui ir Jonui Gornostajui vykti į Maskvą kaip pasiuntiniams pas Vasilijų.
+- susijęs iš [[objektai/ivykiai/Ivano Vasiljevičiaus karo prieš Aleksandrą planavimas.md#claim-t-186667|Ivano Vasiljevičiaus karo prieš Aleksandrą planavimas]]: Lietuvos metraštis Ivano Vasiljevičiaus karo prieš Aleksandrą sumanymą sieja su sąmokslu su Mengli-Girėjumi ir taika su Steponu.
+- susijęs iš Ivano Vasiljevičiaus laiškas Aleksandrui su titulu „visos Rusios caras“: Laiške Aleksandrui Ivanas Vasiljevičius pirmą kartą pasivadino visos Rusios caru.
+- susijęs iš Smolenskas: Ivanas Vasiljevičius paleido į Smolenską smolenskiečius, kurie minėtuose miestuose buvo paimti į nelaisvę.
+- susijęs iš Viazma: Po amžinos taikos sutarties Maskvos valdovas Ivanas Vasiljevičius pasiliko Viazmą ir kitus minėtus miestus bei valsčius sau.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -141,19 +157,6 @@ Toks didžio­ jo kunigaikščio Aleksandro rūpinimasis savo sostinės gyventoj
     - t-003
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Maskvėnai]]
-- [[objektai/grupes/Radvilos]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/grupes/Rusų pirkliai]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/grupes/Vilniaus miestiečių luomas]]
-- [[objektai/zodynas/chanas]]
-- [[objektai/zodynas/grašis]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/legatai]]
-- [[objektai/zodynas/vaivada]]
-- [[objektai/ivykiai/Ivano Vasiljevičiaus karo prieš Aleksandrą planavimas]]
-- [[objektai/asmenys/Jonas Gornostajus]]
-- [[objektai/asmenys/Petras Kiška, Bogušas Bogovitinas ir Stanislovas Daugirdas]]
-- [[objektai/grupes/Krymo orda]]
+- Ivanas Vasiljevičius buvo_valdovas [[objektai/vietos/Livonija]]
+- Ivanas Vasiljevičius buvo_valdovas [[objektai/vietos/Maskva]]
+- Ivanas Vasiljevičius buvo_valdovas [[objektai/vietos/Viena]]

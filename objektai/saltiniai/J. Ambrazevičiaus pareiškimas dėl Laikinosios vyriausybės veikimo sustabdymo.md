@@ -20,6 +20,8 @@ Vyriausybės pirmininkui J.
 - t-001
   global_id: t-21069
   teiginys: 'J. Ambrazevičius konstatavo, kad Laikinoji vyriausybė savo veikimą sustabdė prieš savo valią.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, o citata leidžia suformuluoti pilną faktinį sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Laikinoji vyriausybė|Laikinoji vyriausybė]]; mentioned_object: [[objektai/posakiai/„laiko savo veikimą sustabdytu prieš savo valią“|„laiko savo veikimą sustabdytu prieš savo valią“]]'
   pagrindžia:
     - c-001
 

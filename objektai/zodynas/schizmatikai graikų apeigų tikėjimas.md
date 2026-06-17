@@ -23,6 +23,8 @@ Didesnioji Vilniaus miestiečių da­ lis juk buvo gerokai didesnį gyventojų s
 - t-001
   global_id: t-86547
   teiginys: 'Didesnę Vilniaus miestiečių dalį sudarė rusinai, išpažinę graikų apeigų tikėjimą.'
+  sudarymo_pagrindimas: 'Citata palaiko teiginį, bet reikia pašalinti puslapio ir išnašos triukšmą.'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -55,11 +57,3 @@ Didesnioji Vilniaus miestiečių da­ lis juk buvo gerokai didesnį gyventojų s
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/ritualas]]
-
-### Susiję objektai
-- [[objektai/grupes/Vilniaus rusinai]]
-- [[objektai/zodynas/miestiečių luomas]]

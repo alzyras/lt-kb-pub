@@ -45,6 +45,11 @@ Nenurodyta
 - t-001
   global_id: t-95959
   teiginys: '1392 m. Vytauto ir Jogailos Ostrovos sutartis padėjo pagrindą Lietuvos nepriklausomybei atstatyti.'
+  sudarymo_pagrindimas: 'Ilgas teiginys sutrumpintas iki aiškaus, citata paremto fakto apie Ostrovos sutartį.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Astravos sutartis|Astravos sutartis]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'sutarties data: 1392 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Ilgas teiginys sutrumpintas iki aiškaus, citata paremto fakto apie Ostrovos sutartį.'
   pagrindžia:
     - c-001
 
@@ -67,9 +72,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/ivykiai/Astravos sutartis]]

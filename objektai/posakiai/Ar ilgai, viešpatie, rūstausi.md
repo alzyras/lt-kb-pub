@@ -22,6 +22,8 @@ Dusburgietis teigia, kad ar ilgai, viešpatie, rūstausi? Dusburgietis teigia, k
 - t-001
   global_id: t-59076
   teiginys: 'Po posakio „Ar ilgai, viešpatie, rūstausi?“ prašoma parodyti rūstį netikėliams ir neleisti jiems klausti, kur yra krikščionių Dievas.'
+  sudarymo_pagrindimas: 'Citata palaiko posakio tęsinio turinį, bet pradinė formuluotė buvo fragmentiška.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]'
   pagrindžia:
     - c-001
 
@@ -47,8 +49,3 @@ Dusburgietis teigia, kad ar ilgai, viešpatie, rūstausi? Dusburgietis teigia, k
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Kalavijas]]
-- [[objektai/zodynas/netikėliai]]

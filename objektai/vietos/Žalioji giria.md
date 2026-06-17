@@ -32,6 +32,8 @@ atnaujinta: ''
 - t-001
   global_id: t-08029
   teiginys: 'Žalioji giria dengė vakarinę daugiau kaip šimtą mylių į rytus ir vakarus nusidriekusios kalvos pusę.'
+  sudarymo_pagrindimas: 'Citata tiksliau remia Žaliosios girios vietą prie kalvos, o ne abstraktų aprašymo vertinimą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Įšleitė|Įšleitė]]; mentioned_person: [[objektai/asmenys/Tame (Baigos brolis)|Tame (Baigos brolis)]]; mentioned_place: Isteris'
   pagrindžia:
     - c-002
 
@@ -39,6 +41,8 @@ atnaujinta: ''
 - t-002
   global_id: t-08030
   teiginys: 'Lietuviais vadinta getų tautos dalis po kruvinų karų įsitraukė į Žaliąją ir Juodąją girias.'
+  sudarymo_pagrindimas: 'Citata pagrindžia tautos pasitraukimą į Žaliąją ir Juodąją girias.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Dabą|Dabą]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 
@@ -46,9 +50,15 @@ atnaujinta: ''
 - t-003
   global_id: t-08031
   teiginys: 'Algirdas iš Žaliosios girios per Įstrupį užpuolė krikščionis iš užpakalio.'
+  sudarymo_pagrindimas: 'Citata tiesiogiai pagrindžia Algirdo veiksmą iš Žaliosios girios.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Palanga'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/A. Šulskis-Šulas.md#claim-t-39987|A. Šulskis-Šulas]]: A. Šulskis-Šulas vadovavo Žaliosios girios Panevėžio rinktinės grupei pietrytinėje girios dalyje Subačiaus valsčiuje.
+- susijęs iš [[objektai/ivykiai/Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.).md#claim-t-78607|Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.)]]: 1945 m. kovo pradžioje NKVD divizijos persekiojami partizanai pasitraukė į Ažagų-Eimuliškio miškus.
+- susijęs iš [[objektai/ivykiai/Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.).md#claim-t-78609|Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.)]]: 1945 m. kovo pradžioje NKVD divizija pradėjo puolimą prieš Pušaloto, Pasvalio ir Žaliosios girios partizanus.
+- susijęs iš [[objektai/paprociai/Karinės gynybos tvarka deginant namus ir slepiant šeimą giriose.md#claim-t-07776|Karinės gynybos tvarka deginant namus ir slepiant šeimą giriose]]: Sudeginus namus, priešams po degėsius ieškant lietuvių, Kęstutis puolė iš Palangos girių, o Algirdas užėjo iš Žaliosios girios.
+- susijęs iš Isteris: Isteris, arba Dunojus, yra viena iš didžiųjų pietinės įšleities upių.
 ## Reikšmingi paminėjimai
 
 - c-001

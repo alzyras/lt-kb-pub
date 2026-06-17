@@ -43,6 +43,11 @@ Nenurodyta
 - t-001
   global_id: t-59272
   teiginys: '1314 m. apie vasario 2 d. maršalas brolis Henrikas su kariuomene puolė Sizditės pilį Medininkų valsčiuje, bet pilėnai priešinosi.'
+  sudarymo_pagrindimas: 'Pradinė formuluotė nutrūkusi ir negramatiška; citata palaiko tikslesnį sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Medininkai; mentioned_place: Pilėnai; mentioned_place: Sizditė'
+  temporaliniai_duomenys: 'įvykio data: 1314 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinė formuluotė nutrūkusi ir negramatiška; citata palaiko tikslesnį sakinį.'
   pagrindžia:
     - c-001
 
@@ -50,6 +55,11 @@ Nenurodyta
 - t-002
   global_id: t-183911
   teiginys: 'Po nesėkmingo Sizditės pilies puolimo brolio Henriko kariuomenė patraukė į pilies apylinkes ir jas nusiaubė degindama bei plėšdama.'
+  teiginio_tipas: 'saltinio_teiginys'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinė formuluotė dubliuota, nutrūkusi ir negramatiška; citata palaiko kitą svarbų įvykio faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Medininkai; mentioned_place: Pilėnai; mentioned_place: Sizditė'
   pagrindžia:
     - c-001
 
@@ -79,10 +89,3 @@ Nenurodyta
   pagrindžia:
     - t-001
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/autoriai/Henrikas]]
-- [[objektai/zodynas/maršalas]]
-- [[objektai/zodynas/pilėnas pilėnai]]

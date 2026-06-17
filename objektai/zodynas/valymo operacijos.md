@@ -3,10 +3,16 @@ tipas: zodyno_irasas
 pavadinimas: 'valymo operacijos'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1940 m.'
+date_start: '1940'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - sąvoka
+amziai:
+  - 'XX'
 ---
 # valymo operacijos
 
@@ -20,6 +26,11 @@ Pirmą nacių okupacijos savaitę daug gyventojų, tarp jų ir žydai persekioti
 - t-001
   global_id: t-22338
   teiginys: 'Pirmą nacių okupacijos savaitę keli tūkstančiai gyventojų buvo sunaikinti per SD Einsatzgruppen pradėtas „valymo operacijas“.'
+  sudarymo_pagrindimas: 'Pradinis teiginys gremėzdiškas, o sąvokai tinka glaustesnė formuluotė.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/SD Einsatzgruppen|SD Einsatzgruppen]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/V. Krėvė-Mickevičius|V. Krėvė-Mickevičius]]; mentioned_place: Lietuva; mentioned_place: Maskva'
+  temporaliniai_duomenys: 'įvykio data: 1940 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys gremėzdiškas, o sąvokai tinka glaustesnė formuluotė.'
   pagrindžia:
     - c-001
 
@@ -27,6 +38,11 @@ Pirmą nacių okupacijos savaitę daug gyventojų, tarp jų ir žydai persekioti
 - t-002
   global_id: t-183485
   teiginys: 'Pirmą nacių okupacijos savaitę per SD operatyvinių būrių pradėtas „valymo operacijas“ buvo sunaikinti keli tūkstančiai žmonių.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis sakinys per ilgas ir stilistiškai apsunkintas, todėl sutrumpintas iki aiškaus fakto.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]'
   pagrindžia:
     - c-002
 
@@ -75,13 +91,3 @@ Pirmą nacių okupacijos savaitę daug gyventojų, tarp jų ir žydai persekioti
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/V. Krėvė-Mickevičius]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Žydai]]
-- [[objektai/grupes/SD Einsatzgruppen]]
-- [[objektai/ivykiai/Lietuvos žydų sunaikinimas - Holokaustas]]
-- [[objektai/zodynas/einzatsgrupės Einzatsgruppen]]

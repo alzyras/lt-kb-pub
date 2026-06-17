@@ -21,6 +21,8 @@ Dusburgietis teigia, kad pratarmė „Aukščiausias dievas padarė manyje ženk
 - t-001
   global_id: t-89576
   teiginys: 'Dusburgietis aiškino, kad žodžius „Aukščiausias dievas padarė manyje ženklų ir stebuklų“ ištarė Babilonijos karalius Nabuchodonosaras.'
+  sudarymo_pagrindimas: 'Citata remia posakio kilmės aiškinimą, o pirminis teiginys buvo nutrūkęs ir perkrautas.'
+  susije_objektai: 'territory: Jeruzalė; territory: Prūsija; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/uolektis|uolektis]]; mentioned_person: [[objektai/asmenys/Nabuchodonosaras|Nabuchodonosaras]]; mentioned_place: Jeruzalė; mentioned_place: Prūsija'
   pagrindžia:
     - c-003
 
@@ -28,6 +30,8 @@ Dusburgietis teigia, kad pratarmė „Aukščiausias dievas padarė manyje ženk
 - t-002
   global_id: t-89577
   teiginys: 'Dusburgietis posakį „Aukščiausias dievas padarė manyje ženklų ir stebuklų“ pritaikė savo sumanymui skelbti Dievo ženklus ir stebuklus.'
+  sudarymo_pagrindimas: 'Teiginys yra apie autoriaus posakio pritaikymą, todėl tinka aiški autorinė atribucija.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Jeruzalė; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
 
@@ -86,10 +90,3 @@ Dusburgietis teigia, kad pratarmė „Aukščiausias dievas padarė manyje ženk
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Teutonai]]
-- [[objektai/zodynas/uolektis]]
-- [[objektai/asmenys/Nabuchodonosaras]]
-- [[objektai/autoriai/Petras Dusburgietis]]

@@ -22,6 +22,7 @@ Dobrynės ir Žemaičių kraštų sienos buvo paliktos nustatyti abiejų pusių 
 - t-001
   global_id: t-36837
   teiginys: 'Didesniuose ginčuose buvo nutarta kreiptis į popiežių kaip į superarbitrą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Dobrynė; mentioned_place: Lenkija; mentioned_place: Silezija; mentioned_place: Vengrija; mentioned_place: Žemaitija'
   pagrindžia:
     - c-001
 
@@ -45,8 +46,3 @@ Dobrynės ir Žemaičių kraštų sienos buvo paliktos nustatyti abiejų pusių 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Rusai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

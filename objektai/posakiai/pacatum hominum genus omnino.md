@@ -22,6 +22,9 @@ Padarydamas santrauką vėliau dingusios Kassiodoro rašytos gotų istorijos, ra
 - t-001
   global_id: t-31565
   teiginys: 'Jordanes 551 m. Aesti apibūdino kaip visiškai taikingą tautą („pacatum hominum genus omnino“), gyvenusią ilgame rytiniame pajūrio ruože.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_group: [[objektai/grupes/Gotai|Gotai]]; mentioned_person: [[objektai/autoriai/Jordanes|Jordanes]]; mentioned_person: [[objektai/autoriai/Kassiodoras|Kassiodoras]]; mentioned_place: Vysla'
+  temporaliniai_duomenys: 'įvykio data: 375 m; įvykio data: 551 m'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -43,11 +46,3 @@ Padarydamas santrauką vėliau dingusios Kassiodoro rašytos gotų istorijos, ra
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Aisčiai]]
-- [[objektai/grupes/Gotai]]
-- [[objektai/autoriai/Jordanes]]
-- [[objektai/autoriai/Kassiodoras]]
-- [[objektai/grupes/Vidivarii]]

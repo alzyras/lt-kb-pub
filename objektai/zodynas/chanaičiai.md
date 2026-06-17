@@ -18,6 +18,11 @@ Didikai Naugarduke pasiuntė sučiupti belaisvio, kad sužinotų, kur buvo chana
 - t-001
   global_id: t-187549
   teiginys: 'Didikai Naugarduke pasiuntė sučiupti belaisvio, kad sužinotų, kur buvo chanaičių kariuomenės stovykla.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Sakinys aiškus, baigtinis ir pakankamai pagrįstas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_place: Horodiščė; mentioned_place: Naugardukas'
   pagrindžia:
     - c-001
 
@@ -41,8 +46,3 @@ Didikai Naugarduke pasiuntė sučiupti belaisvio, kad sužinotų, kur buvo chana
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Totoriai]]
-- [[objektai/zodynas/ponai]]

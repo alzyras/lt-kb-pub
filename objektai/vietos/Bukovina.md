@@ -18,38 +18,50 @@ amziai:
 
 ## Santrauka
 
-Olbrachto kariuomenė jau buvo Bukovinoje, kai Steponas ją užpuolė. Bukovina čia vaizduojama kaip uolėta ir sunkiai pereinama vietovė. Olbrachtas traukė per Bukoviną ir kalnus Lenkijos sienos link.
+Olbrachto kariuomenė jau buvo Bukovinoje, kai Steponas ją užpuolė. Bukovina čia yra mūšio vieta.
 
 ## Teiginiai
 
 <a id="claim-t-187206"></a>
 - t-001
   global_id: t-187206
-  teiginys: 'Olbrachto kariuomenė jau buvo Bukovinoje, kai Steponas ją užpuolė.'
+  teiginys: 'Lietuvos metraštis pasakoja, kad Olbrachto kariuomenė buvo Bukovinoje, kai ją užpuolė Moldavijos vaivada Steponas.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Kariniam priešo veiksmų vaizdavimui šiame šaltinio profilyje reikia atribucijos.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Lietuva; mentioned_place: Moldavija'
   pagrindžia:
     - c-002
 
 <a id="claim-t-187207"></a>
 - t-002
   global_id: t-187207
-  teiginys: 'Bukovina čia vaizduojama kaip uolėta ir sunkiai pereinama vietovė.'
+  teiginys: 'Lietuvos metraštyje Bukovina vaizduojama kaip akmeninga, uolėta ir sunkiai pereinama vietovė Lenkijos sienos link.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys apibūdina šaltinio vaizdavimą, todėl tinka aiški atribucija.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_object: [[objektai/zodynas/vasalas|vasalas]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Moldavija; mentioned_place: Sučiava'
   pagrindžia:
     - c-001
 
 <a id="claim-t-187208"></a>
 - t-003
   global_id: t-187208
-  teiginys: 'Olbrachtas traukė per Bukoviną ir kalnus Lenkijos sienos link.'
+  teiginys: 'Po sutarties su Moldavijos vaivada Olbrachtas traukė per Bukoviną ir kalnus Lenkijos sienos link.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Išskleistas kontekstas, kad žygis vyko po sutarties su Moldavijos vaivada, ir palikta aiški kryptis per Bukoviną. Nepridėta vertinimo apie kelio sunkumą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_object: [[objektai/zodynas/vasalas|vasalas]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Lenkija; mentioned_place: Moldavija; mentioned_place: Sučiava'
   pagrindžia:
     - c-001
 
 <a id="claim-t-187209"></a>
 - t-004
   global_id: t-187209
-  teiginys: 'Bukovinoje Moldavijos vaivada Steponas užpuolė karalių Olbrachtą ir jo kariuomenę miškuose bei bukynuose.'
+  teiginys: 'Lietuvos metraštis pasakoja, kad Bukovinos miškuose ir bukynuose Steponas užpuolė Olbrachtą ir jo kariuomenę.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Priešo užpuolimo vaizdavimui reikia šaltinio atribucijos.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Lietuva; mentioned_place: Moldavija'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/ivykiai/Bukovinos mūšis traukiantis Olbrachtui.md#claim-t-186657|Bukovinos mūšis traukiantis Olbrachtui (mūšis, XV a.)]]: Lietuvos metraštis pasakoja, kad per Bukovinos įvykius Moldavijos vaivada Steponas paėmė į nelaisvę Lenkijos Karalystės didįjį maršalą Točinskį.
 ## Reikšmingi paminėjimai
 
 - c-001

@@ -21,9 +21,13 @@ Didysis kunigaikštis Dmitrijus buvo užsidaręs Kremliuje, jo pusbrolis kunigai
 - t-001
   global_id: t-39674
   teiginys: 'Kunigaikštis Vladimiras Andrejevičius su pulku stovėjo prie Peremyšlio, kai didysis kunigaikštis Dmitrijus buvo užsidaręs Kremliuje.'
+  sudarymo_pagrindimas: 'Teiginys yra išbaigtas sakinys apie asmenį ir paremtas citata.'
+  susije_objektai: 'territory: Kremlius; territory: Maskva; territory: Pronskas; territory: Vladimiras; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Dmitrijus|Dmitrijus]]; mentioned_place: Kremlius; mentioned_place: Maskva; mentioned_place: Pronskas; mentioned_place: Vladimiras'
+  semantiniai_rysiai: '[[objektai/asmenys/Vladimiras Andrejevičius|Vladimiras Andrejevičius]] buvo valdovas Kremlius; [[objektai/asmenys/Vladimiras Andrejevičius|Vladimiras Andrejevičius]] buvo valdovas Maskva; [[objektai/asmenys/Vladimiras Andrejevičius|Vladimiras Andrejevičius]] buvo valdovas Pronskas; [[objektai/asmenys/Vladimiras Andrejevičius|Vladimiras Andrejevičius]] buvo valdovas Vladimiras'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Vladimiras (Pronsko kunigaikštis).md#claim-t-183767|Vladimiras (Pronsko kunigaikštis)]]: Pronsko kunigaikštis Vladimiras su Riazanės kariais žygiavo Maskvos link.
+- susijęs iš [[objektai/asmenys/Vladimiras (Pronsko kunigaikštis).md#claim-t-39673|Vladimiras (Pronsko kunigaikštis)]]: Pronsko kunigaikštis Vladimiras su Riazanės kariais žygiavo Maskvos link.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -66,7 +70,7 @@ Didysis kunigaikštis Dmitrijus buvo užsidaręs Kremliuje, jo pusbrolis kunigai
     - t-002
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Dmitrijus]]
-- [[objektai/zodynas/didysis kunigaikštis]]
-- [[objektai/asmenys/Vladimiras (Pronsko kunigaikštis)]]
+- Vladimiras Andrejevičius buvo_valdovas [[objektai/vietos/Kremlius]]
+- Vladimiras Andrejevičius buvo_valdovas [[objektai/vietos/Maskva]]
+- Vladimiras Andrejevičius buvo_valdovas [[objektai/vietos/Pronskas]]
+- Vladimiras Andrejevičius buvo_valdovas [[objektai/vietos/Vladimiras]]

@@ -3,10 +3,16 @@ tipas: saltinis
 pavadinimas: 'Žydų padėties nuostatai'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1918 m.'
+date_start: '1918'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XX'
 ---
 # Žydų padėties nuostatai
 
@@ -20,6 +26,11 @@ Pati LV neplanavo žudynių, tačiau deklaruojamu antisemitizmu (Žydų padėtie
 - t-001
   global_id: t-21334
   teiginys: 'LV sudarė Žydų padėties nuostatus kaip deklaruojamo antisemitizmo priemonę ir siekė nuolaidų iš nacių Vokietijos.'
+  sudarymo_pagrindimas: 'Reikia sklandesnės sakinio sandaros, nekeičiant citatos faktų.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Laikinoji vyriausybė|Laikinoji vyriausybė]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/Antisemitizmas|Antisemitizmas]]; mentioned_place: Lietuva; mentioned_place: Vokietija'
+  temporaliniai_duomenys: 'įvykio data: 1918 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia sklandesnės sakinio sandaros, nekeičiant citatos faktų.'
   pagrindžia:
     - c-001
 
@@ -27,6 +38,11 @@ Pati LV neplanavo žudynių, tačiau deklaruojamu antisemitizmu (Žydų padėtie
 - t-002
   global_id: t-183391
   teiginys: 'Lietuvos laikinoji vyriausybė Žydų padėties nuostatais ir VII forto konclageriu demonstravo antisemitizmą, siekdama nuolaidų iš nacių Vokietijos.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Santrumpa išskleista, pašalinta perteklinė metaforinė formuluotė, faktas paliktas pagal citatą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Laikinoji vyriausybė|Laikinoji vyriausybė]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/Antisemitizmas|Antisemitizmas]]; mentioned_place: Lietuva; mentioned_place: Vokietija'
   pagrindžia:
     - c-002
 

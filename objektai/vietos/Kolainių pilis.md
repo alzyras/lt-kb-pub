@@ -24,7 +24,7 @@ amziai:
 
 ## Santrauka
 
-1291 m. apie vasario 2 d. Bertoldas Bruhavenas su 1500 vyrų rado Kolainių pilį tuščią ir ją sudegino. Surminas paliko Kolainių pilį po to, kai Ordino broliai dėl sąmyšio turėjo nutraukti jos apgulą. 1290 m. Ordino magistras su riteriais ir didele kariuomene puolė už Bisenos buvusią Kolainių pilį.
+Vykstant kovoms prie Nemuno krantų, 1290 pats magistras su daugeliu riterių ir didele kariuomene vėl puolė, ir būtent, už Bisenos esančią Kolainių (Co­ layne) pilį.
 
 ## Teiginiai
 
@@ -32,6 +32,11 @@ amziai:
 - t-001
   global_id: t-68234
   teiginys: '1291 m. apie vasario 2 d. Bertoldas Bruhavenas su 1500 vyrų rado Kolainių pilį tuščią ir ją sudegino.'
+  sudarymo_pagrindimas: 'Pašalintas antraštės triukšmas, paliktas tik citatos remiamas faktas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_person: [[objektai/asmenys/Bertoldas|Bertoldas]]; mentioned_place: Junigeda; mentioned_place: Kolainiai'
+  temporaliniai_duomenys: 'įvykio data: 1291 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas antraštės triukšmas, paliktas tik citatos remiamas faktas.'
   pagrindžia:
     - c-005
 
@@ -39,6 +44,8 @@ amziai:
 - t-002
   global_id: t-68235
   teiginys: 'Surminas paliko Kolainių pilį po to, kai Ordino broliai dėl sąmyšio turėjo nutraukti jos apgulą.'
+  sudarymo_pagrindimas: 'Citata palaiko faktą apie Kolainių pilies apgulos nutraukimą ir Surmino pasitraukimą.'
+  susije_objektai: 'mentioned_object: [[objektai/posakiai/prisiekęs dievų galybe|prisiekęs dievų galybe]]; mentioned_person: [[objektai/asmenys/Surminas|Surminas]]; mentioned_place: Kolainiai; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -46,6 +53,11 @@ amziai:
 - t-003
   global_id: t-68236
   teiginys: '1290 m. Ordino magistras su riteriais ir didele kariuomene puolė už Bisenos buvusią Kolainių pilį.'
+  sudarymo_pagrindimas: 'Perrašyta, kad būtų aišku, koks magistras puolė Kolainių pilį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Surminas|Surminas]]; mentioned_place: Kolainiai; mentioned_place: Nemunas'
+  temporaliniai_duomenys: 'įvykio data: 1290 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Perrašyta, kad būtų aišku, koks magistras puolė Kolainių pilį.'
   pagrindžia:
     - c-003
 
@@ -53,6 +65,8 @@ amziai:
 - t-004
   global_id: t-68237
   teiginys: 'Kolainių pilininkas Surminas su pilėnais tarėsi, kaip apgauti pro pilį plaukusius Ordino brolius.'
+  sudarymo_pagrindimas: 'Nutrūkęs pasakojimo fragmentas perrašytas į pilną sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/Pilininkas|Pilininkas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas iš Vienos|Jonas iš Vienos]]; mentioned_person: [[objektai/asmenys/Surminas|Surminas]]; mentioned_place: Kolainiai; mentioned_place: Nemunas; mentioned_place: Pilėnai; mentioned_place: Ragainė; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -60,6 +74,11 @@ amziai:
 - t-005
   global_id: t-68238
   teiginys: '1290 m. balandžio 23 d. magistras Meinhardas su 500 raitelių ir 2000 pėstininkų užpuolė Kolainių pilį.'
+  sudarymo_pagrindimas: 'Teiginys yra išsamus faktinis sakinys apie Kolainių pilies užpuolimą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Kolainiai'
+  temporaliniai_duomenys: 'įvykio data: 1290 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra išsamus faktinis sakinys apie Kolainių pilies užpuolimą.'
   pagrindžia:
     - c-006
 
@@ -67,6 +86,8 @@ amziai:
 - t-006
   global_id: t-68239
   teiginys: 'Kolainių pilis dažniausiai siejama su Kalnėnais į vakarus nuo Jurbarko, nors jos vieta tiksliai nenustatyta.'
+  sudarymo_pagrindimas: 'Citata remia lokalizacijos teiginį, pradinė formuluotė nutrūkusi.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalnėnai|Kalnėnai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Bisenė; mentioned_place: Imsrė; mentioned_place: Jurbarkas; mentioned_place: Kolainiai; mentioned_place: Mituva; mentioned_place: Nemunas; mentioned_place: Ragainė'
   pagrindžia:
     - c-004
 
@@ -74,9 +95,19 @@ amziai:
 - t-007
   global_id: t-184389
   teiginys: '1290 m. Ordino magistras su daugeliu riterių ir didele kariuomene puolė už Bisenos buvusią Kolainių pilį.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Sutvarkytas OCR triukšmas ir suformuluotas pilnas enciklopedinis sakinys.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_person: [[objektai/asmenys/Surminas|Surminas]]; mentioned_place: Kolainiai; mentioned_place: Nemunas; mentioned_place: Ragainė'
+  temporaliniai_duomenys: 'įvykio data: 1290 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Sutvarkytas OCR triukšmas ir suformuluotas pilnas enciklopedinis sakinys.'
   pagrindžia:
     - c-007
-
+- susijęs iš Mortensen H., Mortensen G. Die Besiedlung des nordöstlichen Ostpreussens bis zum Beginn des 17. Jahrhunderts: H. ir G. Mortensenų veikalas minimas tarp darbų, kuriuose Kolainių pilies ieškota toliau į rytus už Bisenės.
+- susijęs iš Zajączkowski S. Studya nad dziejami Żmudzi wieku XIII: Zajączkowskio veikalas nurodomas tarp šaltinių, Kolainių pilį siejančių su Kalnėnais į vakarus nuo Jurbarko.
+- susijęs iš Koložas: Koložas buvo Gardino priemiestis.
 ## Reikšmingi paminėjimai
 
 - c-001

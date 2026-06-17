@@ -37,6 +37,8 @@ Nenurodyta
 - t-001
   global_id: t-91917
   teiginys: 'Varmės galingieji Gubučiai sutelkė daug karių, pastatė Partigalos pilį ir Skrando kalne įrengė kuorą.'
+  sudarymo_pagrindimas: 'Citata remia statybos faktą, bet pradinė formuluotė turi antraštės triukšmą ir šaltinio fragmentų.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Gubučiai|Gubučiai]]; mentioned_place: Baiga; mentioned_place: Partigala; mentioned_place: Varmė'
   pagrindžia:
     - c-001
 
@@ -57,8 +59,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Gubučiai]]
-- [[objektai/zodynas/kuoras propugnaculum pilaitė]]

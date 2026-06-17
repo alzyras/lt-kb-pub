@@ -18,6 +18,12 @@ atnaujinta: ''
 - t-001
   global_id: t-186025
   teiginys: 'Šich Achmetas, Užvolgio skitų valdovas ir tremtinys, iš Vilniaus atvyko į seimą, kur jį priėmė Aleksandras.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra išsamus ir paremtas citata.'
+  susije_objektai: 'location: Radomas; location: Vilnius; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/skitai|skitai]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_place: Radomas; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Šich Achmetas|Šich Achmetas]] keliavo į Radomas; [[objektai/asmenys/Šich Achmetas|Šich Achmetas]] keliavo į Vilnius'
   pagrindžia:
     - c-001
 
@@ -25,6 +31,12 @@ atnaujinta: ''
 - t-002
   global_id: t-186026
   teiginys: 'Karalius įsakė parūpinti Šich Achmetui puikią svitą ir palydėti jį į Radomą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys aiškiai susijęs su Šich Achmetu ir paremtas šaltiniu.'
+  susije_objektai: 'territory: Krymas; territory: Lenkija; territory: Radomas; mentioned_group: [[objektai/grupes/NATO|NATO]]; mentioned_object: [[objektai/zodynas/luomai|luomai]]; mentioned_place: Krymas; mentioned_place: Lenkija; mentioned_place: Radomas'
+  semantiniai_rysiai: '[[objektai/asmenys/Šich Achmetas|Šich Achmetas]] buvo valdovas Krymas; [[objektai/asmenys/Šich Achmetas|Šich Achmetas]] buvo valdovas Lenkija; [[objektai/asmenys/Šich Achmetas|Šich Achmetas]] buvo valdovas Radomas'
   pagrindžia:
     - c-002
 
@@ -32,9 +44,24 @@ atnaujinta: ''
 - t-003
   global_id: t-186027
   teiginys: 'Šich Achmetas, valdovo valia turėjęs būti svetingai priimtas Trakuose, su garbinga palyda sugrįžo į Lietuvą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis teiginys turi perteklinį kontekstą apie karalių ir gali būti glaustesnis.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/Mengli Girėjus|Mengli Girėjus]]; mentioned_place: Krymas; mentioned_place: Lietuva; mentioned_place: Trakai'
   pagrindžia:
     - c-003
-
+- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-184536|Lenkai]]: Aleksandras ir Šich Achmetas suteikė bajoriškųjų lengvatų karo žygiais išgarsėjusiems lenkams, lietuviams ir skitams.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-184555|Lietuviai]]: Aleksandras ir Šich Achmetas suteikė karo žygiais išgarsėjusiems lietuviams, lenkams ir skitams bajoriškųjų lengvatų.
+- susijęs iš [[objektai/ivykiai/Krokuvos sutartis dėl bendro karo su Šich Achmetu ir žygis į Severską.md#claim-t-185591|Krokuvos sutartis dėl bendro karo su Šich Achmetu ir žygis į Severską (sutartis)]]: Kojelavičiaus pasakojime skitai sutartis sudarydavo pildami vandenį ant kardų ir tardami prakeikimą sutarties laužytojui.
+- susijęs iš [[objektai/ivykiai/Krokuvos sutartis dėl bendro karo su Šich Achmetu ir žygis į Severską.md#claim-t-185592|Krokuvos sutartis dėl bendro karo su Šich Achmetu ir žygis į Severską (sutartis)]]: Šich Achmetas staigiu antpuoliu užėmė Seversko Naugardą ir Aleksandro vardu perdavė jį valdyti Chaleckiui.
+- susijęs iš [[objektai/ivykiai/Šich Achmeto mėginimas pabėgti iš Trakų ir jo sugrąžinimas.md#claim-t-185838|Šich Achmeto mėginimas pabėgti iš Trakų ir jo sugrąžinimas]]: Šich Achmetas bandė pabėgti iš Trakų, tačiau lietuviai jį sugavo ir vėl atvežė į Trakus.
+- susijęs iš [[objektai/paprociai/Bajoriškųjų lengvatų suteikimas paliečiant petį kardu.md#claim-t-185911|Bajoriškųjų lengvatų suteikimas paliečiant petį kardu]]: Aleksandras ir Šich Achmetas suteikė bajoriškųjų lengvatų karo žygiais išgarsėjusiems lenkams, lietuviams ir skitams, paliesdami jų petį kardu.
+- susijęs iš Krokuva: Susirgęs karalius buvo nuvežtas į Krokuvą, o Šich Achmetas su garbinga palyda sugrįžo į Lietuvą.
+- susijęs iš Naugardas: Šich Achmetas staigiu antpuoliu užėmė Seversko Naugardą ir Aleksandro vardu pavedė jį valdyti Chaleckiui.
+- susijęs iš Seversko žemė: Šich Achmetas su šimtu tūkstančių raitelių užpuolė Seversko žemę ir siaubė nuo Lietuvos prie Maskvos perėjusių didikų valdas.
+- susijęs iš Trakai: Valdovo valia Šich Achmetas turėjo būti vaišingai priimtas Trakuose.
+- susijęs iš [[objektai/zodynas/bajoriškosios lengvatos.md#claim-t-185399|bajoriškosios lengvatos]]: Aleksandras ir Šich Achmetas bajoriškųjų lengvatų suteikė karo žygiais išgarsėjusiems lenkams, lietuviams ir skitams.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -105,16 +132,10 @@ atnaujinta: ''
     - t-003
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/NATO]]
-- [[objektai/zodynas/chanas]]
-- [[objektai/zodynas/luomai]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/ivykiai/Krokuvos sutartis dėl bendro karo su Šich Achmetu ir žygis į Severską|Krokuvos sutartis dėl bendro karo su Šich Achmetu ir žygis į Severską (sutartis)]]
-- [[objektai/zodynas/skitai]]
-- [[objektai/paprociai/Bajoriškųjų lengvatų suteikimas paliečiant petį kardu]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/zodynas/bajoriškosios lengvatos]]
-- [[objektai/ivykiai/Šich Achmeto mėginimas pabėgti iš Trakų ir jo sugrąžinimas]]
-- [[objektai/paprociai/Iškilmingas aukšto svečio sutikimas lauke su palapine, kilimu ir garbės vieta]]
+- Šich Achmetas buvo_valdovas [[objektai/vietos/Krymas]]
+- Šich Achmetas buvo_valdovas [[objektai/vietos/Lenkija]]
+- Šich Achmetas buvo_valdovas [[objektai/vietos/Lietuva]]
+- Šich Achmetas buvo_valdovas [[objektai/vietos/Radomas]]
+- Šich Achmetas buvo_valdovas [[objektai/vietos/Trakai]]
+- Šich Achmetas keliavo_i [[objektai/vietos/Radomas]]
+- Šich Achmetas keliavo_i [[objektai/vietos/Vilnius]]

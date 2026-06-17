@@ -31,6 +31,11 @@ amziai:
 - t-001
   global_id: t-31619
   teiginys: '„Archeologiniai kasinėjimai Vilniaus žemutinės pilies teritorijoje (1955-1960 m.)“ buvo skelbti AkMD 4, 6, 9 ir 11 tomuose.'
+  sudarymo_pagrindimas: 'Teiginys yra faktinis bibliografinis sakinys, paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Monetos|Monetos]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1955-1960; įvykio data: 1960 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra faktinis bibliografinis sakinys, paremtas citata.'
   pagrindžia:
     - c-001
 

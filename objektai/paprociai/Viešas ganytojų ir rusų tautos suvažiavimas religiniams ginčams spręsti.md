@@ -33,6 +33,11 @@ Nenurodyta
 - t-001
   global_id: t-185903
   teiginys: 'Vytautas, siekdamas stabdyti religines naujoves, sušaukė rusų tautos suvažiavimą Lietuvos Naugarduke.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata palaiko konkrečią Vytauto veiklą, o pradinis sakinys per ilgas ir vertinamasis.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lietuva; mentioned_place: Naugardukas'
   pagrindžia:
     - c-001
 
@@ -40,6 +45,11 @@ Nenurodyta
 - t-002
   global_id: t-185904
   teiginys: 'Viešas ganytojų suvažiavimas buvo laikomas priemone užkirsti kelią vyskupų vykdytoms religinėms naujovėms.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis teiginys prasideda konteksto jungtuku; citata palaiko bendrą suvažiavimo paskirtį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -84,11 +94,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Konstantinas (Karijotaitis)]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/ivykiai/Naugarduko rusų tautos suvažiavimas ir Grigorijaus Fotijaus nušalinimas]]
-- [[objektai/grupes/Rusų tautos suvažiavimas Lietuvos Naugarduke]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

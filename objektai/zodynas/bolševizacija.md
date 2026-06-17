@@ -22,6 +22,8 @@ tags:
 - t-001
   global_id: t-22083
   teiginys: 'Kaltinimus „bolševizacija“ papildė kaltinimai polonizacija, kai vyriausybė leido lenkams steigti 70 lenkiškų mokyklų.'
+  sudarymo_pagrindimas: 'Patikslintas terminas ir palikta citatos paremta faktinė informacija.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -39,9 +41,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/zodynas/polonizacija]]
-- [[objektai/zodynas/polonizacija integracinė kalba]]

@@ -18,9 +18,14 @@ Po žygio į Volynę buvo padėti Gervėčių miestelio pamatai.
 - t-001
   global_id: t-185286
   teiginys: 'Po žygio į Volynę buvo padėti Gervėčių miestelio pamatai.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra glaustas, gramatiškas ir tiesiogiai pagrįstas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Volynė'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-184519|Lenkai]]: Kai kurių asmenų maištingi sumanymai išardė sutartimi sutvirtintą lietuvių draugystę su lenkais.
 ## Reikšmingi paminėjimai
 
 - c-001

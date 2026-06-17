@@ -45,6 +45,11 @@ Nenurodyta
 - t-001
   global_id: t-86885
   teiginys: '1533 m. sprendimas leido kapitulos valdiniams antradieniais ir penktadieniais gabenti duoną į Vilniaus turgų ir ją parduoti.'
+  sudarymo_pagrindimas: 'Citata palaiko konkrečią sprendimo nuostatą, o pradinis teiginys buvo per ilgas ir fragmentiškas.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Duona|Duona]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_object: [[objektai/zodynas/regula|regula]]; mentioned_person: [[objektai/asmenys/Petras Goštautas|Petras Goštautas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1533 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko konkrečią sprendimo nuostatą, o pradinis teiginys buvo per ilgas ir fragmentiškas.'
   pagrindžia:
     - c-004
 
@@ -52,6 +57,8 @@ Nenurodyta
 - t-002
   global_id: t-86886
   teiginys: 'Vilniaus miesto tarėjai reikalavo atleisti miestą nuo, jų teigimu, naujai kapitulos pasisavintos jurisdikcijos.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie ginčo dalyvių reikalavimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus kapitula|Vilniaus kapitula]]; mentioned_object: [[objektai/zodynas/jurisdikcija|jurisdikcija]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_object: [[objektai/zodynas/prelatai ir kanauninkai|prelatai ir kanauninkai]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 
@@ -59,6 +66,11 @@ Nenurodyta
 - t-003
   global_id: t-86887
   teiginys: '1533 m. Žygimantą Senąjį pasiekė Vilniaus miesto tarybos ir Vilniaus katedros kapitulos ginčas dėl kapitulos jurisdikcijos miesto gyventojams.'
+  sudarymo_pagrindimas: 'Citata palaiko ginčo esmę, o pradinis teiginys buvo fragmentiškas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/jurisdikcija|jurisdikcija]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_object: [[objektai/zodynas/oficijolas|oficijolas]]; mentioned_object: [[objektai/zodynas/vaitas|vaitas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Viena; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1533 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko ginčo esmę, o pradinis teiginys buvo fragmentiškas.'
   pagrindžia:
     - c-002
 
@@ -66,6 +78,8 @@ Nenurodyta
 - t-004
   global_id: t-86888
   teiginys: 'Žygimantas Senasis nusprendė, kad Vilniaus katedros kapitula gali naudotis jurisdikcija ir ekskomunikacijos teise savo asmenų bei valdinių bylose.'
+  sudarymo_pagrindimas: 'Citata tiesiogiai remia sprendimą, o pradinis sakinys buvo nutrūkęs.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/jurisdikcija|jurisdikcija]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_person: [[objektai/asmenys/Žygimantas Senasis|Žygimantas Senasis]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -206,20 +220,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Duona]]
-- [[objektai/asmenys/Petras Goštautas]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/grupes/Vilniaus kapitula]]
-- [[objektai/zodynas/jurisdikcija]]
-- [[objektai/zodynas/kapitula]]
-- [[objektai/zodynas/oficijolas]]
-- [[objektai/zodynas/prelatai ir kanauninkai]]
-- [[objektai/zodynas/regula]]
-- [[objektai/zodynas/vaitas]]
-- [[objektai/asmenys/Žygimantas]]
-- [[objektai/asmenys/Žygimantas Senasis]]
-- [[objektai/zodynas/bažnytinės cenzūros]]
-- [[objektai/zodynas/vaitas ir tarėjai]]

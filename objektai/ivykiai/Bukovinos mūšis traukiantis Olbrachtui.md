@@ -18,7 +18,7 @@ amziai:
 
 ## Santrauka
 
-Bukovinos įvykių metu Moldavijos vaivada Steponas paėmė į nelaisvę Lenkijos Karalystės didįjį maršalą poną Točinskį. Po Olbrachto kariuomenės perėjimo per miškus ir Bukoviną Moldavijos vaivada Steponas su savo žmonėmis pasuko atgal.
+Po sutarties Olbrachtas traukėsi per Bukoviną ir kalnų miškus, o ne tuo pačiu keliu. Lietuvos metraštis teigia, kad Steponas apsidžiaugė tokiu Olbrachto sprendimu ir ėmė telkti sąjungininkų pagalbą.
 
 ## Laikotarpis ir datos
 
@@ -47,14 +47,20 @@ Nenurodyta
 <a id="claim-t-186657"></a>
 - t-001
   global_id: t-186657
-  teiginys: 'Bukovinos įvykių metu Moldavijos vaivada Steponas paėmė į nelaisvę Lenkijos Karalystės didįjį maršalą poną Točinskį.'
+  teiginys: 'Lietuvos metraštis pasakoja, kad per Bukovinos įvykius Moldavijos vaivada Steponas paėmė į nelaisvę Lenkijos Karalystės didįjį maršalą Točinskį.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Kronikos pasakojimas ir titulai šiame profilyje turi būti atribuuoti.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Bukovina; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Moldavija'
   pagrindžia:
     - c-001
 
 <a id="claim-t-186658"></a>
 - t-002
   global_id: t-186658
-  teiginys: 'Po Olbrachto kariuomenės perėjimo per miškus ir Bukoviną Moldavijos vaivada Steponas su savo žmonėmis pasuko atgal.'
+  teiginys: 'Lietuvos metraštis pasakoja, kad karaliui Olbrachtui perėjus miškus ir Bukoviną, Moldavijos vaivada Steponas su savo žmonėmis pasuko atgal.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Kronikos pasakojimas ir titulų vartosena palikti atribuuoti.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Moldavija'
   pagrindžia:
     - c-001
 
@@ -87,10 +93,3 @@ Nenurodyta
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/maršalas]]
-- [[objektai/zodynas/ponai]]
-- [[objektai/zodynas/vaivada]]
-- [[objektai/asmenys/Steponas]]

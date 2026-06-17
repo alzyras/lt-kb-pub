@@ -41,6 +41,8 @@ Nenurodyta
 - t-001
   global_id: t-34590
   teiginys: 'Lenkai suvažiavimus stengdavosi rengti arti Lietuvos sienos, nes tikėjo, kad reikalai kryps Vytauto norima linkme.'
+  sudarymo_pagrindimas: 'Teiginys palaikomas citata, bet reikia pašalinti OCR skaidymą ir suformuluoti sklandžiau.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -62,8 +64,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Karūna]]
-- [[objektai/grupes/Lenkai]]

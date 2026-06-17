@@ -3,8 +3,16 @@ tipas: paprotys
 pavadinimas: 'Agentų-smogikų infiltravimo į partizanų gretas ir provokacijų praktika'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+datos:
+  - '1940 m.'
+  - '1948 m.'
+  - '1950 m.'
+date_start: '1940'
+date_end: '1950'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XX'
 ---
 # Agentų-smogikų infiltravimo į partizanų gretas ir provokacijų praktika
 
@@ -38,6 +46,8 @@ Nenurodyta
 - t-001
   global_id: t-67035
   teiginys: 'MGB-KGB agentai-smogikai suvaidino svarbų vaidmenį galutinai sunaikinant ginkluotą rezistenciją Lietuvoje.'
+  sudarymo_pagrindimas: 'Sakinys aiškus, faktinis ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Agentai-smogikai|Agentai-smogikai]]; mentioned_group: [[objektai/grupes/MGB-KGB agentai smogikai|MGB-KGB agentai smogikai]]; mentioned_object: [[objektai/zodynas/agentai smogikai|agentai smogikai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -45,6 +55,11 @@ Nenurodyta
 - t-002
   global_id: t-67036
   teiginys: 'Apie 1948 m. sovietai aktyviai infiltravo agentus-smogikus į partizanų gretas ir net jų vadovybę.'
+  sudarymo_pagrindimas: 'Citata leidžia patikslinti laiką ir veikėją.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Šimonių girios apgultis (1949 m.)|Šimonių girios apgultis (1949 m.)]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1948 m.; įvykio data: apie 1948 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
+  temporalinis_llm_pakomentavimas: 'Citata leidžia patikslinti laiką ir veikėją.'
   pagrindžia:
     - c-003
 
@@ -52,6 +67,9 @@ Nenurodyta
 - t-003
   global_id: t-67037
   teiginys: 'Agentai buvo verbuojami ir iš čekistų, ir iš suimtų partizanų, o jų veikla buvo grindžiama griežta konspiracija.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Agentai-smogikai|Agentai-smogikai]]; mentioned_object: [[objektai/zodynas/rezervas|rezervas]]; mentioned_place: Baltija; mentioned_place: Ukraina'
+  temporaliniai_duomenys: 'įvykio data: 1940-1950; įvykio data: 1950 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 
@@ -133,11 +151,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Agentai-smogikai]]
-- [[objektai/grupes/MGB-KGB agentai smogikai]]
-- [[objektai/zodynas/agentai smogikai]]
-- [[objektai/zodynas/rezervas]]
-- [[objektai/ivykiai/Šimonių girios apgultis (1949 m.)]]

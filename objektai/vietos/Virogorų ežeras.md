@@ -23,6 +23,8 @@ tags:
 - t-001
   global_id: t-86266
   teiginys: 'Tėvai jėzuitai pasisavino Virogorų ežerą su žeme, miškais ir lankomis.'
+  sudarymo_pagrindimas: 'Teiginys tiesiogiai paremtas citata ir yra gramatiškas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_place: Antakalnis'
   pagrindžia:
     - c-001
 

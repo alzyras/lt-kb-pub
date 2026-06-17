@@ -38,6 +38,9 @@ Nenurodyta
 - t-001
   global_id: t-62202
   teiginys: 'Varmių vadas Pijopas su kariuomene apsiautė Baigos pilį, bet priartėjęs prie jos buvo pervertas brolio strėle ir žuvo.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pradinė formuluotė nutrūkusi; citata palaiko aiškų apgulos ir Pijopo žūties faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Varmiai|Varmiai]]; mentioned_person: [[objektai/asmenys/Pijopas|Pijopas]]; mentioned_place: Baiga'
   pagrindžia:
     - c-001
 
@@ -64,8 +67,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Varmiai]]
-- [[objektai/asmenys/Pijopas]]

@@ -44,6 +44,11 @@ Nenurodyta
 - t-001
   global_id: t-59475
   teiginys: '1300 m. totoriai žygyje per Kapadokiją, Antiochijos žemę, Armėniją, Damaską ir Gazą nužudė daugiau kaip 200 tūkstančių saracėnų.'
+  sudarymo_pagrindimas: 'Pašalintas boilerplate, OCR triukšmas ir suformuotas glaustas faktinis sakinys.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Saracėnai|Saracėnai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]'
+  temporaliniai_duomenys: 'įvykio data: 1300 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas boilerplate, OCR triukšmas ir suformuotas glaustas faktinis sakinys.'
   pagrindžia:
     - c-001
 
@@ -65,9 +70,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Saracėnai]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/grupes/Totoriai]]

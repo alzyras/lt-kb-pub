@@ -4,9 +4,10 @@ pavadinimas: 'Lietuvių tautininkų sąjunga'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
+  - '1924 m.'
   - '1931 m.'
   - '1938 m.'
-date_start: '1931'
+date_start: '1924'
 date_end: '1938'
 sukurta: ''
 atnaujinta: ''
@@ -30,6 +31,11 @@ Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyria
 - t-001
   global_id: t-44993
   teiginys: 'Juozas Tūbelis 1931–1938 m. pirmininkavo ir Lietuvos vyriausybei, ir Lietuvių tautininkų sąjungai.'
+  sudarymo_pagrindimas: 'Teiginys pilnas, konkretus ir tiesiogiai sieja J. Tūbelį su Lietuvių tautininkų sąjunga.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_person: [[objektai/asmenys/J. Tūbelis|J. Tūbelis]]; mentioned_person: [[objektai/asmenys/Juozas Tūbelis|Juozas Tūbelis]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1931-1938; įvykio data: 1938 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys pilnas, konkretus ir tiesiogiai sieja J. Tūbelį su Lietuvių tautininkų sąjunga.'
   pagrindžia:
     - c-003
 
@@ -37,6 +43,8 @@ Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyria
 - t-002
   global_id: t-44994
   teiginys: 'LKDP bloko balsais tautininkų lyderis Antanas Smetona buvo išrinktas Lietuvos prezidentu ir prisiekė laikytis Konstitucijos.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie tautininkų lyderį ir pagrįstas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/konstitucijos|konstitucijos]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_person: [[objektai/asmenys/Antanas Smetona|Antanas Smetona]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -44,6 +52,8 @@ Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyria
 - t-003
   global_id: t-44995
   teiginys: 'Kandidatus į Seimą siūlė apskričių tarybos, o Kaune – miesto taryba, tačiau juos kelti galėjo tik tautininkų kontroliuojamos savivaldybės.'
+  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatos faktą apie Seimo kandidatų siūlymą ir kėlimą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Kaunas'
   pagrindžia:
     - c-005
 
@@ -51,6 +61,8 @@ Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyria
 - t-004
   global_id: t-44996
   teiginys: 'Kandidatus į Seimą galėjo kelti tik tautininkų kontroliuojamos savivaldybės, o ne visuomeninės organizacijos ar piliečių grupės.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir paremtas citatos informacija apie kandidatų kėlimą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]'
   pagrindžia:
     - c-004
 
@@ -58,6 +70,9 @@ Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyria
 - t-005
   global_id: t-44997
   teiginys: 'Tautininkai ir krikščionys demokratai gruodžio įvykius teisino skelbdami, kad išgelbėjo Lietuvą nuo komunistų perversmo.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Estija; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1924 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 
@@ -148,19 +163,3 @@ Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyria
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/A. Smetona]]
-- [[objektai/asmenys/J. Tūbelis]]
-- [[objektai/grupes/Krikščionys]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/konstitucijos]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/asmenys/Antanas (vaistininkas)]]
-- [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
-- [[objektai/asmenys/Juozas Tūbelis]]
-- [[objektai/ivykiai/1926 m. gruodžio 17 d. perversmas Lietuvoje]]
-- [[objektai/grupes/IV Seimas|IV Seimas (seimas)]]
-- [[objektai/ivykiai/IV Seimo rinkimai (1936 m. vasara)]]
-- [[objektai/grupes/Krikščionių demokratų blokas]]

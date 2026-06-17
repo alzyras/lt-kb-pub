@@ -18,6 +18,11 @@ Gandai apie Mengli Girėjaus žygį į Ukrainą paskatino Aleksandrą su žmona 
 - t-001
   global_id: t-186327
   teiginys: 'Gandai apie Mengli Girėjaus žygį į Ukrainą paskatino Aleksandrą su žmona per Joną Drovą vėl siųsti Ivanui laišką ir prašyti pagalbos prieš skitus.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir konkrečiai nusako laiško siuntimo aplinkybes.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_object: [[objektai/zodynas/skitai|skitai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Ivanas|Ivanas]]; mentioned_place: Krymas; mentioned_place: Ukraina'
   pagrindžia:
     - c-001
 

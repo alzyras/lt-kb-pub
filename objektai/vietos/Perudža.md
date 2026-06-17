@@ -30,6 +30,8 @@ Dusburgietis teigia, kad apie šventos Elžbietos kanonizavimą 1235 viešpaties
 - t-001
   global_id: t-58612
   teiginys: '1302 metais Perudžoje buvo nukirsdintas plėšikas, kuris, pasak kronikos, gerbė mergelę Mariją.'
+  sudarymo_pagrindimas: 'Citata palaiko konkretų įvykį Perudžoje, o pradinė formuluotė nutrūkusi ir negramatiška.'
+  susije_objektai: 'mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -37,9 +39,17 @@ Dusburgietis teigia, kad apie šventos Elžbietos kanonizavimą 1235 viešpaties
 - t-002
   global_id: t-58613
   teiginys: '1235 m. popiežius Grigalius IX kanonizavo šventą Elžbietą Perudžoje, brolių pamokslininkų konvente.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas, faktinis ir paremtas citata.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Grigalius (vicekancleris)|Grigalius (vicekancleris)]]; mentioned_person: [[objektai/asmenys/Grigalius IX|Grigalius IX]]'
+  temporaliniai_duomenys: 'įvykio data: 1235 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas, faktinis ir paremtas citata.'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/asmenys/Elžbieta.md#claim-t-82298|Elžbieta]]: 1235 m. popiežius Grigalius IX kanonizavo šventą Elžbietą Perudžoje.
+- susijęs iš [[objektai/ivykiai/Perudžos stebuklas su nubausto plėšiko galva (1302 m.).md#claim-t-62429|Perudžos stebuklas su nubausto plėšiko galva (1302 m.)]]: 1302 m. Perudžoje nukirsdinto Mariją gerbusio plėšiko galva paprašė kunigo, nes, pasak pasakojimo, Marija neleido jam numirti be išpažinties.
+- susijęs iš [[objektai/ivykiai/Šventos Elžbietos kanonizavimas (1235 m.).md#claim-t-62547|Šventos Elžbietos kanonizavimas (1235 m.)]]: 1235 m. popiežius Grigalius IX Perudžoje kanonizavo šventą Elžbietą ir jos garbei paskyrė altorių.
+- susijęs iš [[objektai/posakiai/Atveskite man kunigą, nes švenčiausioji Marija, nors kiekvieną dieną esu ją maldose to prašęs, neleidžia man numirti, kol nebūsiu išpažinęs.md#claim-t-59082|Atveskite man kunigą, nes švenčiausioji Marija, nors kiekvieną dieną esu ją maldose to prašęs, neleidžia man numirti, kol nebūsiu išpažinęs]]: 1302 m. Perudžoje nukirsta plėšiko galva paprašė atvesti kunigą, nes Marija neleido jam mirti neišpažinus nuodėmių.
 ## Reikšmingi paminėjimai
 
 - c-001

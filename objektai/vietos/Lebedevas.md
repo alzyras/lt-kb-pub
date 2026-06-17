@@ -1,24 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Lebedevas'
-variantai:
-  - 'Lebede- vų'
-aliases: []
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
 atnaujinta: ''
-laikotarpis: ''
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: ''
 tags:
   - vieta
 ---
@@ -29,27 +15,28 @@ tags:
 Aleksandras Jurjevičius Lietuvoje turėjo Lebedevą.
 
 ## Teiginiai
+
 <a id="claim-t-187251"></a>
 - t-001
   global_id: t-187251
-  teiginys: 'Aleksandras Jurjevičius Lietuvoje turėjo Lebedevą.'
+  teiginys: 'Aleksandras Jurjevičius Alšėniškis Lietuvoje turėjo Lebedevą kartu su Alšėnais, Pumais, Svyruotais ir Šešuoliais.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Citata leidžia patikslinti asmenį ir nuosavybės kontekstą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_place: Lietuva; mentioned_place: Svyruotai; mentioned_place: Vilnius; mentioned_place: Šešuoliai'
   pagrindžia:
     - c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Aleksandras Jurjevičius Lietuvoje turėjo Lebedevą.'
+  santrauka: 'Aleksandras Jurjevičius Alšėniškis Lietuvoje turėjo Lebedevą kartu su Alšėnais, Pumais, Svyruotais ir Šešuoliais.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     “  Aleksandras Jurjevičius — kunigaikštis Alšėniškis. Vilniaus
     vyskupo Povilo Alšėniškio tėvas. Lietuvoje turėtus Alšėnus. Lebede-
     vų, Pumų, S vyruotus ir Šešuolius.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

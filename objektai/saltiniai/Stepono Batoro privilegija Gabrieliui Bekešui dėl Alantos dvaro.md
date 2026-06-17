@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Privilegijoje Bekešui dėl Alantos dvaro buvo Stepono Batoro ir Jono Hlebavičiaus parašai. Varšuvos seime Gabrieliui Bekešui pagal paveldėjimo teisę buvo atiduotas po Astiko likęs Alantos dvaras. Karalius Steponas po Astiko atidavė Gabrieliui Bekešui Ukmergės apskrityje buvusį Alantos dvarą.
+Taip pat narsiam jo broliui Gabrieliui Be­ kešui po Astiko Varšuvos seime pagal paveldėjimo teisę bu­ vo atiduotas Alantos dvaras63. Kitą Astiko dvarą, esantį Ukmergės ap­ skrityje, vadinamą Alanta, karalius po jo atidavė garsiajam Bekešui. 61, apgailestauja, kad Bekešas buvo daugiau negu anabaptistas ir to įrodymui pacituoja pas­ kutinius jo žodžius, pasakytus prieš mirtį.
 
 ## Teiginiai
 
@@ -29,6 +29,11 @@ Privilegijoje Bekešui dėl Alantos dvaro buvo Stepono Batoro ir Jono Hlebaviči
 - t-001
   global_id: t-88165
   teiginys: 'Privilegijoje Bekešui dėl Alantos dvaro buvo Stepono Batoro ir Jono Hlebavičiaus parašai.'
+  sudarymo_pagrindimas: 'Citata palaiko faktą, bet pradinis teiginys yra rodyklės fragmentas su OCR klaidomis.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_object: [[objektai/zodynas/Lietuvos didysis kunigaikštis|Lietuvos didysis kunigaikštis]]; mentioned_object: [[objektai/daiktai/Vaškas|Vaškas]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Bona|Bona]]; mentioned_person: [[objektai/asmenys/Hlebavičius (Vilniaus vaivada ir karaliaus kancleris)|Hlebavičius (Vilniaus vaivada ir karaliaus kancleris)]]; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]; mentioned_person: [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Alanta; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Užupis; mentioned_place: Vilnius; mentioned_place: Šv. Onos bažnyčia; mentioned_place: Žemutinė pilis'
+  temporaliniai_duomenys: 'įvykio data: 1576 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko faktą, bet pradinis teiginys yra rodyklės fragmentas su OCR klaidomis.'
   pagrindžia:
     - c-002
 
@@ -36,6 +41,8 @@ Privilegijoje Bekešui dėl Alantos dvaro buvo Stepono Batoro ir Jono Hlebaviči
 - t-002
   global_id: t-88167
   teiginys: 'Varšuvos seime Gabrieliui Bekešui pagal paveldėjimo teisę buvo atiduotas po Astiko likęs Alantos dvaras.'
+  sudarymo_pagrindimas: 'Pirminis sakinys suprantamas, bet jį galima suformuluoti aiškiau ir enciklopediškiau.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Protestantai|Protestantai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/Astikas|Astikas]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_place: Alanta; mentioned_place: Lietuva; mentioned_place: Varšuva'
   pagrindžia:
     - c-001
 
@@ -43,6 +50,8 @@ Privilegijoje Bekešui dėl Alantos dvaro buvo Stepono Batoro ir Jono Hlebaviči
 - t-003
   global_id: t-88168
   teiginys: 'Karalius Steponas po Astiko atidavė Gabrieliui Bekešui Ukmergės apskrityje buvusį Alantos dvarą.'
+  sudarymo_pagrindimas: 'Reikia išplėsti neaiškią nuorodą į karalių ir pašalinti vertinamąjį epitetą.'
+  susije_objektai: 'territory: Alanta; territory: Ukmergė; territory: Vilnius; mentioned_person: [[objektai/asmenys/Astikas|Astikas]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Alanta; mentioned_place: Ukmergė; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 

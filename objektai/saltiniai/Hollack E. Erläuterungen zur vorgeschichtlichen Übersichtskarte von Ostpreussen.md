@@ -29,6 +29,11 @@ Dusburgietis teigia, kad hollack E.
 - t-001
   global_id: t-61081
   teiginys: 'E. Hollacko „Erläuterungen zur vorgeschichtlichen Übersichtskarte von Ostpreussen“ išleista Glogau ir Berlyne 1908 m.'
+  sudarymo_pagrindimas: 'Bibliografinė citata palaiko autorių, pavadinimą, leidimo vietas ir metus.'
+  susije_objektai: 'mentioned_place: Berlynas'
+  temporaliniai_duomenys: 'įvykio data: 1908 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Bibliografinė citata palaiko autorių, pavadinimą, leidimo vietas ir metus.'
   pagrindžia:
     - c-001
 

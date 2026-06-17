@@ -27,6 +27,11 @@ Dusburgietis teigia, kad lietuvių karas su kryžiuočiais / Redagavo J.
 - t-001
   global_id: t-61135
   teiginys: '„Lietuvių karas su kryžiuočiais“, redaguotas J. Jurginio, išleistas Vilniuje 1964 m.'
+  sudarymo_pagrindimas: 'Citata pagrindžia bibliografinį faktą, o pradinė formuluotė nutrūkusi.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/autoriai/J. Užpurvis|J. Užpurvis]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1964 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia bibliografinį faktą, o pradinė formuluotė nutrūkusi.'
   pagrindžia:
     - c-001
 

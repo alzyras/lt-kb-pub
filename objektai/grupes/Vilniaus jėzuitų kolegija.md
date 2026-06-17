@@ -16,6 +16,7 @@ tags:
   - karalius
   - miestas
   - mokslininkas
+  - vyskupas
 amziai:
   - 'XVI'
   - 'XVII'
@@ -32,6 +33,8 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
 - t-001
   global_id: t-86704
   teiginys: 'Mirdamas Knišine Žygimantas Augustas savo turtingą biblioteką atidavė Vilniaus jėzuitų kolegijai.'
+  sudarymo_pagrindimas: 'Citata leidžia aiškiai įvardyti veikėją ir veiksmą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_person: [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]]; mentioned_place: Knišinas; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -39,6 +42,11 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
 - t-002
   global_id: t-86705
   teiginys: '1581 m. birželio 9 d. Vilniaus kapitula teisę siūlyti Šv. Jono bažnyčios vikarus perleido Akademijos kolegijos rektoriams jėzuitams.'
+  sudarymo_pagrindimas: 'Pradinis teiginys neaiškus ir nepakankamai susietas su objektu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus kapitula|Vilniaus kapitula]]; mentioned_object: [[objektai/zodynas/Jus Patronatus|Jus Patronatus]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1581 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys neaiškus ir nepakankamai susietas su objektu.'
   pagrindžia:
     - c-004
 
@@ -46,6 +54,8 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
 - t-003
   global_id: t-86706
   teiginys: 'Vilniaus Jėzaus draugijos kolegijai buvo patikėtas klierikų mokymas ir seminarijos valdymas.'
+  sudarymo_pagrindimas: 'Citata pagrindžia aiškų faktą apie kolegijos vaidmenį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija|Vilniaus vyskupijos klierikų kolegija]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-008
 
@@ -53,6 +63,8 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
 - t-004
   global_id: t-86707
   teiginys: 'Jėzuitams perduotos knygos buvo apibūdintos kaip nemažas ir neprastas rinkinys.'
+  sudarymo_pagrindimas: 'Citata palaiko tik bendrą faktą apie perduotas knygas.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_place: Viena'
   pagrindžia:
     - c-003
 
@@ -60,6 +72,8 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
 - t-005
   global_id: t-86708
   teiginys: 'Šv. Jono bažnyčios arkipresbiteris ir miesto magistratas priešinosi jėzuitų siekiui pastatą prijungti prie kolegijos.'
+  sudarymo_pagrindimas: 'Citata tiesiogiai pagrindžia pasipriešinimą jėzuitų kolegijos plėtrai.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-007
 
@@ -67,6 +81,11 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
 - t-006
   global_id: t-86709
   teiginys: '1571 m. gruodžio 22 d. Apaštališkasis Sostas patvirtino parapijinės Šv. Jono bažnyčios inkorporavimą į Vilniaus jėzuitų kolegiją.'
+  sudarymo_pagrindimas: 'Citata pagrindžia faktą, o teiginyje buvo OCR triukšmo.'
+  susije_objektai: 'mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1571 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia faktą, o teiginyje buvo OCR triukšmo.'
   pagrindžia:
     - c-006
 
@@ -74,6 +93,9 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
 - t-007
   global_id: t-86710
   teiginys: 'Karalius balandžio 1 d. dekretais vyskupo Protasevičiaus funduotą Vilniaus jėzuitų kolegiją pakėlė iki universiteto laipsnio.'
+  sudarymo_pagrindimas: 'Teiginys pagrįstas, bet reikėjo sutvarkyti OCR ir sakinio struktūrą.'
+  susije_objektai: 'territory: Vilnius; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Vilniaus jėzuitų kolegija|Vilniaus jėzuitų kolegija]] susiję su Vilnius'
   pagrindžia:
     - c-005
 
@@ -81,6 +103,11 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
 - t-008
   global_id: t-86711
   teiginys: '1571 m. Žygimantas Augustas Šv. Jono bažnyčią su visu turtu ir arkipresbiterio namais prijungė prie Jėzaus Draugijos kolegijos.'
+  sudarymo_pagrindimas: 'Pašalintas OCR ir puslapio triukšmas, teiginys pagrįstas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_person: [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1571 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas OCR ir puslapio triukšmas, teiginys pagrįstas citata.'
   pagrindžia:
     - c-001
 
@@ -249,20 +276,4 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
     - t-003
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Augustas]]
-- [[objektai/zodynas/Jus Patronatus]]
-- [[objektai/asmenys/Ona Vytautienė]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/asmenys/Valerijonas (raštininkas)]]
-- [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija]]
-- [[objektai/zodynas/kapitula]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/asmenys/Žygimantas]]
-- [[objektai/grupes/Vilniaus kapitula]]
-- [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]]
-- [[objektai/grupes/Jėzuitų ordinas]]
-- [[objektai/paprociai/Jėzuitų pamokslininko siuntimas į Šv. Onos bažnyčią sekmadieniais ir per šventes]]
-- [[objektai/grupes/Vilniaus akademijos kolegija]]
-- [[objektai/zodynas/arkipresbiteris nuolatinis vikaras adjutoriai]]
-- [[objektai/daiktai/Žygimanto Augusto biblioteka Vilniaus jėzuitų kolegijai]]
+- Vilniaus jėzuitų kolegija susije_su [[objektai/vietos/Vilnius]]

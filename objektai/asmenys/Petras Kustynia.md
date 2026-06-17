@@ -4,9 +4,9 @@ pavadinimas: 'Petras Kustynia'
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
-  - '1415 m.'
+  - '1408 m.'
   - '1421 m.'
-date_start: '1415'
+date_start: '1408'
 date_end: '1421'
 sukurta: ''
 atnaujinta: ''
@@ -30,6 +30,11 @@ Petras Kustynia, lenkas iš Krokuvos, savo antspaude rai­ dę „S" turėjęs, 
 - t-001
   global_id: t-87827
   teiginys: 'Petras Kustynia, lenkas iš Krokuvos ir šv. teologijos daktaras, vyskupu tapo 1415 m. ir mirė 1421 m.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_place: Krokuva'
+  temporaliniai_duomenys: 'įvykio data: iki 1414 m.; įvykio data: po 1408 m.; įvykio data: 1408 m.; įvykio data: 1414 m.; įvykio data: 1415 m.; įvykio data: 1421 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, faktinis ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -51,7 +56,3 @@ Petras Kustynia, lenkas iš Krokuvos, savo antspaude rai­ dę „S" turėjęs, 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Antspaudas]]

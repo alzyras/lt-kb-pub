@@ -31,6 +31,11 @@ periodo_grupes:
 - t-001
   global_id: t-87638
   teiginys: 'Boleslovas Pamaldusis XIII a. paskelbė atmintiną privilegiją žydų tautos gyventojams Didžiojoje Lenkijoje.'
+  sudarymo_pagrindimas: 'Citata aiškiai sieja Boleslovą Pamaldųjį su XIII a. privilegija žydams.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_person: [[objektai/asmenys/Boleslovas|Boleslovas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Luckas; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1408 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata aiškiai sieja Boleslovą Pamaldųjį su XIII a. privilegija žydams.'
   pagrindžia:
     - c-001
 
@@ -60,7 +65,3 @@ periodo_grupes:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Žydai]]

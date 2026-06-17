@@ -3,12 +3,18 @@ tipas: vieta
 pavadinimas: 'Čekoslovakija'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1921 m.'
+date_start: '1921'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - sutartis
   - valstybė
   - vieta
+amziai:
+  - 'XX'
 ---
 # Čekoslovakija
 
@@ -17,18 +23,26 @@ tags:
 S-gą suvaržyti pasižadėjimais saugoti mažumų teises, kaip tat buvo padaryta tam tikrose sutartyse su Lenkija, Čekoslovakija ir t.t.
 
 ## Teiginiai
+
 <a id="claim-t-02908"></a>
 - t-001
   global_id: t-02908
   teiginys: 'Su Čekoslovakija buvo sudaryta sutartis, įpareigojusi saugoti mažumų teises.'
+  sudarymo_pagrindimas: 'Reikia aiškiau perteikti citatoje minimą sutarties pobūdį.'
+  susije_objektai: 'mentioned_place: Estija; mentioned_place: Latvija; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'sutarties data: 1921 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia aiškiau perteikti citatoje minimą sutarties pobūdį.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-
+- susijęs iš [[objektai/asmenys/V. Leninas.md#claim-t-19295|V. Leninas]]: Sovietmečiu tautiniais drabužiais vilkintys choristai dainavo apie V. Leniną.
+- susijęs iš [[objektai/asmenys/Vladimiras Leninas.md#claim-t-64247|Vladimiras Leninas]]: Sovietmečiu tautiniais drabužiais vilkintys choristai dainavo apie Vladimirą Leniną.
+- susijęs iš [[objektai/grupes/Lietuvių policijos savisaugos batalionai.md#claim-t-19813|Lietuvių policijos savisaugos batalionai]]: Dalis lietuvių policijos savisaugos batalionų buvo panaudota akcijose prieš civilius Baltarusijoje, Lenkijoje ir Ukrainoje.
+- susijęs iš [[objektai/ivykiai/Lietuvos priėmimas į Tautų Sąjungą (1921 m. rugsėjo 22 d.).md#claim-t-01734|Lietuvos priėmimas į Tautų Sąjungą (1921 m. rugsėjo 22 d.)]]: 1921 m. rugsėjo 22 d. Lietuva buvo priimta į Tautų Sąjungą ir įėjo lygiomis teisėmis į pasaulio valstybių draugiją.
+- susijęs iš Kauno IX fortas: Kauno IX forte sušaudyta apie 6–8 tūkst. žydų, atvežtų iš Austrijos, Vokietijos, Čekoslovakijos ir Prancūzijos.
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Su Čekoslovakija buvo sudaryta sutartis, įpareigojusi saugoti mažumų teises.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     klausimą atidėti, ligi sąlygos leis jį galutinai išspręsti, o tuo
@@ -44,10 +58,8 @@ S-gą suvaržyti pasižadėjimais saugoti mažumų teises, kaip tat buvo padaryt
     sios valstybės Latviją ir Estiją jau buvo pripažinusios de jure,
     o Lietuvai tokį pripažinimą dar atidėjo, ligi bus išspręstas kon-
     fliktas su Lenkija.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

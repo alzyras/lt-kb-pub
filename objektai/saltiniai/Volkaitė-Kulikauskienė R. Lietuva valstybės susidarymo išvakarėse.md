@@ -27,6 +27,11 @@ Dusburgietis teigia, kad volkaitė-Kulikauskienė R.
 - t-001
   global_id: t-61355
   teiginys: 'R. Volkaitės-Kulikauskienės darbas „Lietuva valstybės susidarymo išvakarėse“ paskelbtas 1978 m. leidinyje „Lietuvių materialinė kultūra IX-XIII amžiuje“.'
+  sudarymo_pagrindimas: 'Citata pateikia bibliografinį įrašą su pavadinimu, leidiniu ir metais.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1978 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pateikia bibliografinį įrašą su pavadinimu, leidiniu ir metais.'
   pagrindžia:
     - c-001
 

@@ -3,10 +3,19 @@ tipas: vieta
 pavadinimas: 'Naujoji Prūsija'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1795 m.'
+  - '1806 m.'
+  - '1815 m.'
+date_start: '1795'
+date_end: '1815'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
+amziai:
+  - 'XVIII'
+  - 'XIX'
 ---
 # Naujoji Prūsija
 
@@ -20,6 +29,11 @@ Prūsija prisijungė Užnemunę ir pavadino ją „Naująja Prūsija“ (Prūsij
 - t-001
   global_id: t-21641
   teiginys: 'Prūsija prisijungė Užnemunę ir pavadino ją Naująja Prūsija.'
+  sudarymo_pagrindimas: 'Šaltinio ištrauka nutrūksta, todėl paliktas tik visiškai paremtas faktas.'
+  susije_objektai: 'mentioned_place: Austrija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Rusija; mentioned_place: Užnemunė; mentioned_place: Varšuva'
+  temporaliniai_duomenys: 'įvykio data: iki 1806 m.; įvykio data: 1795 m.; įvykio data: 1806 m.; įvykio data: 1815 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Šaltinio ištrauka nutrūksta, todėl paliktas tik visiškai paremtas faktas.'
   pagrindžia:
     - c-001
 

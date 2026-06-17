@@ -43,6 +43,9 @@ Pilis sudeginta ir liko apleista.
 - t-001
   global_id: t-97014
   teiginys: '1316 m. balandžio 4 d. Ditrichas iš Altenburgo ir Fridrichas Kvicas, užklupę Bisenės sargybos kaitą, įėjo į tuščią pilį ir ją sudegino.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_person: [[objektai/asmenys/Ditrichas iš Altenburgo|Ditrichas iš Altenburgo]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_person: [[objektai/asmenys/Fridrichas Kvicas|Fridrichas Kvicas]]; mentioned_place: Bisenė; mentioned_place: Ragainė'
+  temporaliniai_duomenys: 'įvykio data: 1316 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 
@@ -50,6 +53,11 @@ Pilis sudeginta ir liko apleista.
 - t-002
   global_id: t-97015
   teiginys: '1316 m. kryžiuočiams pavyko sunaikinti žemaičių Biseną.'
+  sudarymo_pagrindimas: 'Pašalintas kontekstinis jungtukas ir perteklinis kitos minties sakinys.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_place: Nemunas'
+  temporaliniai_duomenys: 'įvykio data: 1316 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas kontekstinis jungtukas ir perteklinis kitos minties sakinys.'
   pagrindžia:
     - c-001
 
@@ -86,13 +94,3 @@ Pilis sudeginta ir liko apleista.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Fridrichas]]
-- [[objektai/asmenys/Fridrichas Kvicas]]
-- [[objektai/zodynas/ginklanešiai]]
-- [[objektai/zodynas/įgula]]
-- [[objektai/asmenys/Ditrichas iš Altenburgo]]

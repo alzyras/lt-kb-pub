@@ -3,10 +3,18 @@ tipas: autorius
 pavadinimas: 'P. Gudynas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1976 m.'
+date_start: '1976'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'XX a.'
 ---
 # P. Gudynas
 
@@ -20,6 +28,11 @@ Gudynas.
 - t-001
   global_id: t-19459
   teiginys: 'P. Gudynas buvo 1976 m. Vilniuje išleisto leidinio „Lietuvos tapyba“ sudarytojas.'
+  sudarymo_pagrindimas: 'Pirminis teiginys per trumpas, bet citata pagrindžia sudarytojo vaidmenį.'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1976 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pirminis teiginys per trumpas, bet citata pagrindžia sudarytojo vaidmenį.'
   pagrindžia:
     - c-001
 

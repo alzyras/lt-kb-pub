@@ -42,9 +42,11 @@ Nenurodyta
 - t-001
   global_id: t-39216
   teiginys: 'Pėstininkų muškieta titnagine spyna, arba pėstininkų fuzėja, buvo 18 mm kalibro XVIII a. pabaigos Prūsijos ginklas.'
+  sudarymo_pagrindimas: 'Pradinis tekstas turi antraštės triukšmo ir nėra savarankiškas faktinis sakinys.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
-
+- susijęs iš Prūsija: XVIII a. pabaigoje didesnė dalis LDK kariuomenei skirtų muškietų buvo nupirkta stiprią karinę pramonę turėjusioje Prūsijoje.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -64,7 +66,3 @@ Nenurodyta
 ## Puslapis 151 Pėstininkų muškieta titnagine spyna (pėstininkų fuzėja).
 
 Nenurodyta
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Šautuvai]]

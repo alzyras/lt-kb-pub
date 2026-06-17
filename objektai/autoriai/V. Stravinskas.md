@@ -28,6 +28,8 @@ Dusburgietis teigia, kad stravinskas.— D.
 - t-001
   global_id: t-60805
   teiginys: 'V. Stravinskas kartu su Z. Noreika parengė Lietuvos TSR administracinio-teritorinio suskirstymo žinyno antrąją dalį.'
+  sudarymo_pagrindimas: 'Citata aiškiai nurodo V. Stravinską kaip leidinio rengėją.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/Z. Noreika|Z. Noreika]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

@@ -33,6 +33,11 @@ Nenurodyta
 - t-001
   global_id: t-185881
   teiginys: 'Maskvos pasiuntiniai Krokuvoje atsisakė dalyvauti karaliaus vaišėse, nenorėdami varžytis dėl garbingesnės vietos užstalėje su kitais pasiuntiniais.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvos pasiuntiniai|Maskvos pasiuntiniai]]; mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_place: Krokuva; mentioned_place: Maskva'
   pagrindžia:
     - c-001
 
@@ -62,8 +67,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Vengrai]]
-- [[objektai/grupes/Maskvos pasiuntiniai]]

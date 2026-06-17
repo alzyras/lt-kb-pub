@@ -43,6 +43,11 @@ Nenurodyta
 - t-001
   global_id: t-28870
   teiginys: '1264 m. buvę Mindaugo dvariškiai arklininkai nužudė Treniotą, veikiausiai su Vaišvilko žinia ir pritarimu.'
+  sudarymo_pagrindimas: 'Pradinis teiginys silpnesnis už citatoje esantį tiesioginį faktą apie nužudymą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_person: [[objektai/asmenys/Treniota|Treniota]]'
+  temporaliniai_duomenys: 'įvykio data: 1263-1264; įvykio data: 1264 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys silpnesnis už citatoje esantį tiesioginį faktą apie nužudymą.'
   pagrindžia:
     - c-001
 
@@ -60,10 +65,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Krikščionys]]
-- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
-- [[objektai/asmenys/Treniota]]
-- [[objektai/zodynas/koniuši]]

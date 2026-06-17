@@ -4,9 +4,10 @@ pavadinimas: 'LLL mitingas prie Adomo Mickevičiaus paminklo Vilniuje (1987 m. r
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
+  - '1968 m.'
   - '1987 m.'
-date_start: '1987'
-date_end: ''
+date_start: '1968'
+date_end: '1987'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -42,6 +43,11 @@ Nenurodyta
 - t-001
   global_id: t-20246
   teiginys: '1987 m. rugpjūčio 23 d. LLL iniciatyva prie Adomo Mickevičiaus paminklo Vilniuje surengtas protesto mitingas.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Adomas (auksakalys)|Adomas (auksakalys)]]; mentioned_person: [[objektai/autoriai/Mickevičius|Mickevičius]]; mentioned_person: [[objektai/asmenys/Tropas|Tropas]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1987 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -49,6 +55,11 @@ Nenurodyta
 - t-002
   global_id: t-20247
   teiginys: 'Lietuvos laisvės lyga Vilniuje surengė pirmąjį sovietmečiu viešą nesankcionuotą mitingą Molotovo–Ribentropo paktui paminėti.'
+  sudarymo_pagrindimas: 'Pradinis teiginys yra sakinio fragmentas, citata leidžia jį suformuluoti pilnu sakiniu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos laisvės lyga|Lietuvos laisvės lyga]]; mentioned_place: Lietuva; mentioned_place: Praha; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: po 1968 m.; įvykio data: 1968 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys yra sakinio fragmentas, citata leidžia jį suformuluoti pilnu sakiniu.'
   pagrindžia:
     - c-002
 
@@ -86,12 +97,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Adomas (auksakalys)]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/autoriai/Mickevičius]]
-- [[objektai/asmenys/Tropas]]
-- [[objektai/grupes/Lietuvos laisvės lyga]]
-- [[objektai/daiktai/Adomo Mickevičiaus paminklas Vilniuje]]

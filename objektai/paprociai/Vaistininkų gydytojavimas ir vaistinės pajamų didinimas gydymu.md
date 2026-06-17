@@ -40,6 +40,8 @@ Nenurodyta
 - t-001
   global_id: t-87286
   teiginys: 'Vaistininkai didindavo vaistinės pajamas eidami ir gydytojo pareigas bei patys gydydami.'
+  sudarymo_pagrindimas: 'Teiginys pataisytas pašalinant OCR triukšmą ir paliekant citatos palaikomą esmę.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Necelas|Necelas]]; mentioned_person: [[objektai/asmenys/Renkielis|Renkielis]]'
   pagrindžia:
     - c-001
 
@@ -67,9 +69,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Necelas]]
-- [[objektai/asmenys/Renkielis]]
-- [[objektai/zodynas/farmacinės lotyniškos sąvokos vaistinės kronikoje]]

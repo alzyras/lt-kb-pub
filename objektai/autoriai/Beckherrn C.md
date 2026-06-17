@@ -23,6 +23,8 @@ Dusburgietis teigia, kad 210 Apie prūsų ginklus, karybą — Beckherrn C.. Dus
 - t-001
   global_id: t-60547
   teiginys: 'C. Beckherrnas rašė apie prūsų ginklus ir karybą.'
+  sudarymo_pagrindimas: 'Citata tiesiogiai sieja Beckherrno darbą su prūsų ginklais ir karyba.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/zodynas/karyba|karyba]]; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
 
@@ -30,6 +32,8 @@ Dusburgietis teigia, kad 210 Apie prūsų ginklus, karybą — Beckherrn C.. Dus
 - t-002
   global_id: t-60548
   teiginys: 'C. Beckherrnas nagrinėjo pilaitę prie įėjimo į Notangą.'
+  sudarymo_pagrindimas: 'Citata leidžia trumpai nusakyti Beckherrno darbo temą be fragmentų ir triukšmo.'
+  susije_objektai: 'mentioned_place: Notanga; mentioned_place: Pilaitė; mentioned_place: Prūsai'
   pagrindžia:
     - c-002
 
@@ -63,8 +67,3 @@ Dusburgietis teigia, kad 210 Apie prūsų ginklus, karybą — Beckherrn C.. Dus
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/karyba]]
-- [[objektai/daiktai/Ginklai]]

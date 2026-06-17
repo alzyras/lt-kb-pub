@@ -20,6 +20,8 @@ Taipgi norime, kad supirktų dėl Šventosios Trejybės prie­ glaudos praplėti
 - t-001
   global_id: t-86288
   teiginys: 'Šventosios Trejybės prieglaudą buvo numatyta plėsti supirkus namelius prie Šventosios Trejybės ir Šv. Dvasios bažnyčių.'
+  sudarymo_pagrindimas: 'Citata palaiko prieglaudos plėtimo faktą, bet pradinis teiginys yra OCR fragmentas.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]'
   pagrindžia:
     - c-001
 

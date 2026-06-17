@@ -22,7 +22,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Plk. M. Dejevas žuvo per ataką, kurioje Užupio gyventojai iš apdegusių pastatų apšaudė besitraukiantį priešą. Liepos 20 d. plk. M. Dejevo daliniai mėgino įsiveržti į miestą per Bernardinų bokštą ir Spaso vartus. Plk. M. Dejevas vadovavo B. Knorringo į Paupį pasiųstiems batalionams.
+Dejevo, į Paupį. Dejevo daliniai mėgino įsiveržti į miestą per Bernardinų bokštą ir Spaso vartus. Dejevas.
 
 ## Teiginiai
 
@@ -30,6 +30,8 @@ Plk. M. Dejevas žuvo per ataką, kurioje Užupio gyventojai iš apdegusių past
 - t-001
   global_id: t-40311
   teiginys: 'Plk. M. Dejevas žuvo per ataką, kurioje Užupio gyventojai iš apdegusių pastatų apšaudė besitraukiantį priešą.'
+  sudarymo_pagrindimas: 'Sakinys yra pilnas faktinis teiginys apie M. Dejevą ir atitinka citatą.'
+  susije_objektai: 'mentioned_place: Užupis'
   pagrindžia:
     - c-002
 
@@ -37,6 +39,7 @@ Plk. M. Dejevas žuvo per ataką, kurioje Užupio gyventojai iš apdegusių past
 - t-002
   global_id: t-40312
   teiginys: 'Liepos 20 d. plk. M. Dejevo daliniai mėgino įsiveržti į miestą per Bernardinų bokštą ir Spaso vartus.'
+  sudarymo_pagrindimas: 'Sakinys turi aiškų veiksnį ir tarinį, o faktas tiesiogiai paremtas citata.'
   pagrindžia:
     - c-003
 
@@ -44,6 +47,9 @@ Plk. M. Dejevas žuvo per ataką, kurioje Užupio gyventojai iš apdegusių past
 - t-003
   global_id: t-40313
   teiginys: 'Plk. M. Dejevas vadovavo B. Knorringo į Paupį pasiųstiems batalionams.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Patrankos|Patrankos]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1794 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -99,8 +105,3 @@ Plk. M. Dejevas žuvo per ataką, kurioje Užupio gyventojai iš apdegusių past
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/daiktai/Patrankos]]

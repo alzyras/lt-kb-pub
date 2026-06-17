@@ -3,6 +3,11 @@ tipas: vieta
 pavadinimas: 'Vidurio Europa'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1618 m.'
+  - '1646 m.'
+date_start: '1618'
+date_end: '1646'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -10,12 +15,14 @@ tags:
   - miestas
   - reforma
   - valstybė
+amziai:
+  - 'XVII'
 ---
 # Vidurio Europa
 
 ## Santrauka
 
-Vilniaus universitetas laikomas vienu seniausių Vidurio Europos universitetų. Paulavos reiškinys neturėjo precedento Vidurio Europoje ir buvo viena radikaliausių antrosios XVIII a. pusės valstiečių reformų Lenkijos ir Lietuvos Valstybėje. Civilizacijos požiūriu Lietuva priskiriama Vakarų civilizacijos pakraščiams, vadinamiems Vidurio Europa.
+Tačiau civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pakraščiams – Vidurio Europai. Ši, silpnesnių miestų ir silpnesnio raštingumo poreikio (palyginti su protestantizmu) katalikiškoji Vidurio Europa šliejosi prie katalikybę išpažinusios pietinės Vakarų Europos (Italija, Ispanija, Portugalija). Vilniaus universitetas – vienas iš seniausių universitetų Vidurio Europoje – už jį senesni tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus universitetai.
 
 ## Teiginiai
 
@@ -23,6 +30,9 @@ Vilniaus universitetas laikomas vienu seniausių Vidurio Europos universitetų. 
 - t-001
   global_id: t-47312
   teiginys: 'Vilniaus universitetas laikomas vienu seniausių Vidurio Europos universitetų.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Anglai|Anglai]]; mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_object: [[objektai/zodynas/Vidurio Europa|Vidurio Europa]]; mentioned_person: [[objektai/autoriai/Martynas Smigleckis|Martynas Smigleckis]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Anglija; mentioned_place: Europa; mentioned_place: Oksfordas; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1618 m.; įvykio data: 1646 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 
@@ -30,6 +40,8 @@ Vilniaus universitetas laikomas vienu seniausių Vidurio Europos universitetų. 
 - t-002
   global_id: t-47313
   teiginys: 'Paulavos reiškinys neturėjo precedento Vidurio Europoje ir buvo viena radikaliausių antrosios XVIII a. pusės valstiečių reformų Lenkijos ir Lietuvos Valstybėje.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus ir remiasi citatos vertinimu apie Paulavos reiškinį Vidurio Europoje.'
+  susije_objektai: 'mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Paulava; mentioned_place: Viena'
   pagrindžia:
     - c-003
 
@@ -37,6 +49,7 @@ Vilniaus universitetas laikomas vienu seniausių Vidurio Europos universitetų. 
 - t-003
   global_id: t-47314
   teiginys: 'Civilizacijos požiūriu Lietuva priskiriama Vakarų civilizacijos pakraščiams, vadinamiems Vidurio Europa.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/Vidurio Europa|Vidurio Europa]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Europa; mentioned_place: Lietuva'
   pagrindžia:
     - c-005
 
@@ -44,6 +57,8 @@ Vilniaus universitetas laikomas vienu seniausių Vidurio Europos universitetų. 
 - t-004
   global_id: t-47315
   teiginys: 'Katalikiškoji Vidurio Europa šliejosi prie katalikybę išpažinusios pietinės Vakarų Europos.'
+  sudarymo_pagrindimas: 'Teiginys yra taisyklingas faktinis sakinys apie katalikiškąją Vidurio Europą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/barokas|barokas]]; mentioned_object: [[objektai/zodynas/protestantizmas|protestantizmas]]; mentioned_place: Europa; mentioned_place: Italija; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -51,6 +66,11 @@ Vilniaus universitetas laikomas vienu seniausių Vidurio Europos universitetų. 
 - t-006
   global_id: t-183640
   teiginys: 'Civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pakraščiams – Vidurio Europai.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Lietuvos priskyrimą Vidurio Europai.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/Vidurio Europa|Vidurio Europa]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Europa; mentioned_place: Lietuva'
   pagrindžia:
     - c-005
 

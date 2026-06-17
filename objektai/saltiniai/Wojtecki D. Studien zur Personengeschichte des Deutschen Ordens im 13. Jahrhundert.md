@@ -26,6 +26,11 @@ Dusburgietis teigia, kad wojtecki D.
 - t-001
   global_id: t-61369
   teiginys: 'D. Wojteckio studija apie Vokiečių ordino XIII a. personalijų istoriją išleista Vysbadene 1971 m.'
+  sudarymo_pagrindimas: 'Citata nurodo leidinio autorių, temą, vietą ir metus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
+  temporaliniai_duomenys: 'įvykio data: 1971 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata nurodo leidinio autorių, temą, vietą ir metus.'
   pagrindžia:
     - c-001
 

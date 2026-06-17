@@ -3,18 +3,16 @@ tipas: autorius
 pavadinimas: 'Mažvydas M'
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos:
-  - '1547 m.'
-date_start: '1547'
+datos: []
+date_start: ''
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
 amziai:
-  - 'XVI'
-periodo_grupes:
-  - 'LDK'
+  - 'M'
+periodo_grupes: []
 ---
 # Mažvydas M
 
@@ -28,6 +26,11 @@ Dusburgietis teigia, kad mažvydas (1547) burtininkę vadina šventąja (Mažvyd
 - t-001
   global_id: t-60614
   teiginys: 'M. Mažvydas 1547 m. burtininkę vadino šventąja.'
+  sudarymo_pagrindimas: 'Pašalintas netikslus autorystės boilerplate ir sutvarkyta rašyba.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/Martynas Mažvydas Vaitkūnas|Martynas Mažvydas Vaitkūnas]]'
+  temporaliniai_duomenys: 'įvykio data: 1547 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas netikslus autorystės boilerplate ir sutvarkyta rašyba.'
   pagrindžia:
     - c-002
 
@@ -35,6 +38,11 @@ Dusburgietis teigia, kad mažvydas (1547) burtininkę vadina šventąja (Mažvyd
 - t-002
   global_id: t-60615
   teiginys: 'M. Mažvydo 1549 m. lotyniškuose laiškuose Ragainė vadinta formomis „Ragneta“ ir „in Ragnet“.'
+  sudarymo_pagrindimas: 'Fragmentas perrašytas į pilną sakinį apie M. Mažvydo laiškus.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/Martynas Mažvydas Vaitkūnas|Martynas Mažvydas Vaitkūnas]]; mentioned_place: Lietuva; mentioned_place: Ragainė; mentioned_place: Semba'
+  temporaliniai_duomenys: 'įvykio data: 1312 m.; įvykio data: 1549 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Fragmentas perrašytas į pilną sakinį apie M. Mažvydo laiškus.'
   pagrindžia:
     - c-001
 

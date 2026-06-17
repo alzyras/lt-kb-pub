@@ -20,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-1401 m. kovo viduryje Žemaičiuose prasidėjo sukilimas, o apie keturis tūkstančius pabėgusiųjų nebuvo grąžinti.
+Pabėgusieji, kurių buvo skaičiuojama apie keturis tūkstančius, nebuvo grąžinti, o pačiuose Žemaičiuose 1401 m. ankstybą pavasarį (kovo viduryje) prasidėjo sukilimas.
 
 ## Laikotarpis ir datos
 
@@ -44,6 +44,11 @@ Nenurodyta
 - t-001
   global_id: t-100049
   teiginys: '1401 m. kovo viduryje Žemaičiuose prasidėjo sukilimas, o apie keturis tūkstančius pabėgusiųjų nebuvo grąžinti.'
+  sudarymo_pagrindimas: 'Pradinis teiginys prasideda neaiškiu dalyviu, todėl sakinys sutrumpintas ir padarytas enciklopediškesnis.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  temporaliniai_duomenys: 'įvykio data: 1401 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys prasideda neaiškiu dalyviu, todėl sakinys sutrumpintas ir padarytas enciklopediškesnis.'
   pagrindžia:
     - c-001
 
@@ -63,8 +68,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

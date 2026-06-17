@@ -27,6 +27,8 @@ Pirmiausia vaitas įrodė nieko savavališkai ne­ padaręs, kadangi pirkliai,Ve
 - t-001
   global_id: t-86558
   teiginys: 'Vilniaus vaitas turėjo teisę sutramdyti pirklius, kurie per Velykas pagal naująjį kalendorių pardavinėjo prekes.'
+  sudarymo_pagrindimas: 'Citata pagrindžia vaito veiksmą ir jo ryšį su vaityste.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/vaitas|vaitas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -58,8 +60,3 @@ Pirmiausia vaitas įrodė nieko savavališkai ne­ padaręs, kadangi pirkliai,Ve
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/vaitas]]
-- [[objektai/grupes/Vilniaus pirkliai]]

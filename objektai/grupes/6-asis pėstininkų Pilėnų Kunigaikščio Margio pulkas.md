@@ -14,7 +14,7 @@ tags:
 
 ## Santrauka
 
-Pervedus 6-ąjį pėstininkų pulką į lenkų frontą, jo kariai ir vadas Vidugiriuose susitiko su nuo vasaros vidurio kovojusiu I batalionu. Batalionas ankstyvą popietę pasiekė Aukštadvario miestelį ir išsirikiavo prieš 6-ojo pėstininkų Pilėnų Kunigaikščio Margio pulko štabą.
+“ | | 6-ojo pėstininkų pulko 1 bataliono viršila Antanas Šukys prisimena, kaip pervedus į lenkų frontą visą 6-ąjį pulką jo kariai ir vadas susitiko jau nuo vasaros vidurio kovose su lenkais dalyvavusį to paties pulko I batalioną Vidugirių kaime. Batalionas, [...], ankstyvą popietį pasiekė Aukštadvario miestelį ir išsirikiavo prieš 6 pėstininkų Pilėnų Kunigaikščio Margio pulko štabą.
 
 ## Teiginiai
 
@@ -22,6 +22,8 @@ Pervedus 6-ąjį pėstininkų pulką į lenkų frontą, jo kariai ir vadas Vidug
 - t-001
   global_id: t-40826
   teiginys: 'Pervedus 6-ąjį pėstininkų pulką į lenkų frontą, jo kariai ir vadas Vidugiriuose susitiko su nuo vasaros vidurio kovojusiu I batalionu.'
+  sudarymo_pagrindimas: 'Perrašyta glaudžiau ir gramatiškiau, išlaikant citatos palaikomą faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_object: [[objektai/zodynas/viršila|viršila]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_person: [[objektai/asmenys/Antanas Šukys|Antanas Šukys]]; mentioned_place: Kaimas; mentioned_place: Vidugiriai'
   pagrindžia:
     - c-002
 
@@ -29,6 +31,8 @@ Pervedus 6-ąjį pėstininkų pulką į lenkų frontą, jo kariai ir vadas Vidug
 - t-002
   global_id: t-40827
   teiginys: 'Batalionas ankstyvą popietę pasiekė Aukštadvario miestelį ir išsirikiavo prieš 6-ojo pėstininkų Pilėnų Kunigaikščio Margio pulko štabą.'
+  sudarymo_pagrindimas: 'Teiginys pilnas, gramatiškas ir paremtas citata.'
+  susije_objektai: 'mentioned_place: Aukštadvaris; mentioned_place: Pilėnai'
   pagrindžia:
     - c-001
 
@@ -63,12 +67,3 @@ Pervedus 6-ąjį pėstininkų pulką į lenkų frontą, jo kariai ir vadas Vidug
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Antanas (vaistininkas)]]
-- [[objektai/asmenys/Antanas Šukys]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/zodynas/Adynos|adynos]]
-- [[objektai/zodynas/viršila]]
-- [[objektai/grupes/asis pėstininkų Pilėnų Kunigaikščio Margio pulkas]]

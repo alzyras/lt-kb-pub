@@ -27,6 +27,11 @@ amziai:
 - t-001
   global_id: t-34255
   teiginys: '1387-1390 m. atsiradę lietuviški denariukai kursavo greta kitų pinigų ir turėjo ieties galo bei Gedimino stulpų vaizdus.'
+  sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir apkrautas fragmentišku monetų požymių sąrašu.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Stulpai|Stulpai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1387-1390; įvykio data: 1390 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys per ilgas ir apkrautas fragmentišku monetų požymių sąrašu.'
   pagrindžia:
     - c-001
 
@@ -51,9 +56,3 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Gediminas]]
-- [[objektai/daiktai/Stulpai]]
-- [[objektai/daiktai/Lietuvos pinigai]]

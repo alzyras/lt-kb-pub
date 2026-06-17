@@ -3,10 +3,16 @@ tipas: grupe
 pavadinimas: 'SD Einsatzgruppen'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1941 m.'
+date_start: '1941'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+amziai:
+  - 'XX'
 ---
 # SD Einsatzgruppen
 
@@ -20,9 +26,14 @@ Specialiosios SD grupės (Tilžės gestapo būrys) 1941 m. birželio 24 d. suša
 - t-001
   global_id: t-19997
   teiginys: '1941 m. birželį SD Einsatzgruppen organizavo terorą, per kurį pasienyje buvo šaudomi žydai Gargžduose, Kretingoje, Palangoje ir kitur.'
+  sudarymo_pagrindimas: 'Teiginys perrašytas aiškiai susiejant jį su SD Einsatzgruppen.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Gargždai; mentioned_place: Kretinga; mentioned_place: Lietuva; mentioned_place: Palanga; mentioned_place: Vokietija'
+  temporaliniai_duomenys: 'įvykio data: 1941 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys perrašytas aiškiai susiejant jį su SD Einsatzgruppen.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/zodynas/valymo operacijos.md#claim-t-22338|valymo operacijos]]: Pirmą nacių okupacijos savaitę keli tūkstančiai gyventojų buvo sunaikinti per SD Einsatzgruppen pradėtas „valymo operacijas“.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -40,10 +51,3 @@ Specialiosios SD grupės (Tilžės gestapo būrys) 1941 m. birželio 24 d. suša
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Žydai]]
-- [[objektai/zodynas/valymo operacijos]]
-- [[objektai/grupes/Tilžės gestapo būrys]]

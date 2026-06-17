@@ -30,6 +30,11 @@ Nenurodyta
 - t-001
   global_id: t-185802
   teiginys: 'Kryžiuočiai, neįtarę klastos, priplaukė prie kranto, kur Nodamas su iš pasalų subėgusiais kariais užėmė jų laivą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pašalinta autorinė įžanga ir OCR triukšmas; sakinys tiesiogiai remiasi citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_person: [[objektai/asmenys/Nodamas|Nodamas]]; mentioned_place: Aukaimis'
   pagrindžia:
     - c-001
 
@@ -57,9 +62,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/zodynas/įgula]]
-- [[objektai/asmenys/Nodamas]]

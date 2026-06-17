@@ -15,6 +15,7 @@ tags:
   - kunigaikštis
   - pilis
   - upė
+  - vyskupas
 amziai:
   - 'XIII'
 periodo_grupes:
@@ -24,7 +25,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Mstivojus užgrobė tris Pomeranijos kunigaikštystės dalis ir ilgus metus jas valdė prieš brolių valią. Šio pamokymo nepaklausė jo vyriausias sūnus Mstivojus. Sventopelkas turėjo atsiųsti savo pirmagimį sūnų Mstivojų broliams kaip taikos sutarties įkaitą.
+Dusburgietis teigia, kad dėl to, brolių patariamas, sugrąžino jam bažnyčios malonę šiomis sąlygomis: kad jo ir brolių sutartis būtų tvirtesnė, Sventopelkas kaip užstatą atiduosiąs broliams Sartovicų pilį, o įkaitais atsiųsiąs savo pirmagimį sūnų Mstivojų, burggrafą Vimarą [Gneomirą]. Dusburgietis teigia, kad apie tai, kaip buvo atnaujinta ir sulaužyta taika ir pastatyta Santyro pilis Iš visų pusių spaudžiami bėdų, puldinėdami nuo vieno sumanymo prie kito, broliai galop paklausė vieno brolio iš Rudino, vardu Rabė, protingo vyro ir labai apdairaus sunkiomis. Dusburgietis teigia, kad šio pamokymo nepaklausė jo vyriausias sūnus Mstivojus.
 
 ## Teiginiai
 
@@ -32,6 +33,9 @@ Mstivojus užgrobė tris Pomeranijos kunigaikštystės dalis ir ilgus metus jas 
 - t-001
   global_id: t-59894
   teiginys: 'Mstivojus užgrobė tris Pomeranijos kunigaikštystės dalis ir ilgus metus jas valdė prieš brolių valią.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir paremtas citata.'
+  susije_objektai: 'territory: Lenkija; territory: Pomeranija; territory: Prūsija; territory: Volynė; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Lenkija; mentioned_place: Pomeranija; mentioned_place: Prūsija; mentioned_place: Volynė'
+  semantiniai_rysiai: '[[objektai/asmenys/Mstivojus|Mstivojus]] valdė teritoriją Lenkija; [[objektai/asmenys/Mstivojus|Mstivojus]] valdė teritoriją Pomeranija; [[objektai/asmenys/Mstivojus|Mstivojus]] valdė teritoriją Prūsija; [[objektai/asmenys/Mstivojus|Mstivojus]] valdė teritoriją Volynė'
   pagrindžia:
     - c-005
 
@@ -39,6 +43,11 @@ Mstivojus užgrobė tris Pomeranijos kunigaikštystės dalis ir ilgus metus jas 
 - t-002
   global_id: t-59895
   teiginys: 'Šio pamokymo nepaklausė jo vyriausias sūnus Mstivojus.'
+  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Kulmas; mentioned_place: Pamedė; mentioned_place: Pilėnai; mentioned_place: Pomeranija; mentioned_place: Prūsai; mentioned_place: Vysla'
+  temporaliniai_duomenys: 'įvykio data: 1299 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'claim_quality_pipeline deterministic repair'
   pagrindžia:
     - c-006
 
@@ -46,6 +55,8 @@ Mstivojus užgrobė tris Pomeranijos kunigaikštystės dalis ir ilgus metus jas 
 - t-003
   global_id: t-59896
   teiginys: 'Sventopelkas turėjo atsiųsti savo pirmagimį sūnų Mstivojų broliams kaip taikos sutarties įkaitą.'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo per ilgas ir neaiškus, citata pagrindžia glaustą faktą apie Mstivojų kaip įkaitą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_object: [[objektai/daiktai/Užstato daiktai Trakų žydų privilegijoje|Užstato daiktai Trakų žydų privilegijoje]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/įkaitai|įkaitai]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]'
   pagrindžia:
     - c-002
 
@@ -53,6 +64,8 @@ Mstivojus užgrobė tris Pomeranijos kunigaikštystės dalis ir ilgus metus jas 
 - t-004
   global_id: t-59897
   teiginys: 'Mstivojus, Pomeranijos kunigaikštis, po savo žemių nusiaubimo paprašė magistro atnaujinti taikos susitarimą.'
+  sudarymo_pagrindimas: 'Pašalintas perteklinis šaltinio priskyrimas ir vaizdingas palyginimas, paliktas citatos pagrįstas faktas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Pomeranija'
   pagrindžia:
     - c-003
 
@@ -60,6 +73,8 @@ Mstivojus užgrobė tris Pomeranijos kunigaikštystės dalis ir ilgus metus jas 
 - t-005
   global_id: t-59898
   teiginys: 'Sventopelko pirmagimis sūnus Mstivojus anksčiau buvo atiduotas kaip įkaitas.'
+  sudarymo_pagrindimas: 'Pradinis teiginys turėjo antraštės ir sąrašo triukšmo, citata remia konkretų faktą apie Mstivojų.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_person: [[objektai/asmenys/Vartislavas (Sventopelko sūnus)|Vartislavas (Sventopelko sūnus)]]; mentioned_place: Pomeranija; mentioned_place: Poterbergas; mentioned_place: Prūsija'
   pagrindžia:
     - c-004
 
@@ -67,9 +82,27 @@ Mstivojus užgrobė tris Pomeranijos kunigaikštystės dalis ir ilgus metus jas 
 - t-006
   global_id: t-59899
   teiginys: 'Rabė patarė Mstivojų, Sventopelko sūnų, pasiųsti Austrijos kunigaikščiui kaip įkaitą.'
+  sudarymo_pagrindimas: 'Perrašyta, kad sakinys aiškiau įvardytų Mstivojų ir išlaikytų citatos faktą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Rabė|Rabė]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Austrija; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Prūsija; mentioned_place: Santyras'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Pilypas (Fermo vyskupas).md#claim-t-60411|Pilypas (Fermo vyskupas)]]: Pilypas, Fermo vyskupas ir apaštališkojo sosto legatas, atvyko į Lenkijos žemę, kur Konradas iš Tirbergo jam skundėsi dėl Mstivojaus skriaudų.
+- susijęs iš [[objektai/asmenys/Rabė.md#claim-t-60422|Rabė]]: Brolis Rabė iš Rudino patarė pasiųsti Mstivojų Austrijos kunigaikščiui kaip įkaitą ir prašyti pagalbos Prūsijai.
+- susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-184132|Sventopelkas]]: Prieš mirtį Sventopelkas sušaukė savo sūnus ir patarė jiems niekada nesipriešinti Ordino broliams.
+- susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90022|Sventopelkas]]: 1246 m. karo pasakojime Dusburgietis Sventopelkui priskiria kovinę kalbą ir didelius nuostolius.
+- susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90036|Sventopelkas]]: Prieš mirtį Sventopelkas sušaukė savo sūnus ir patarė jiems niekada nesipriešinti Ordino broliams.
+- susijęs iš [[objektai/ivykiai/Lietuvių žygiai į Revelio žemę, Klaipėdą, Vėluvą ir Dobrynę (1323 m.).md#claim-t-59554|Lietuvių žygiai į Revelio žemę, Klaipėdą, Vėluvą ir Dobrynę (1323 m.)]]: M. Tepenas manė, kad Dusburgietis 1323 m. lietuvių žygius į Revelio žemę, Klaipėdą, Vėluvą ir Dobrynę aprašė remdamasis Varmės dokumentu.
+- susijęs iš [[objektai/ivykiai/Sventopelko mirtis, Mstivojaus sukilimas ir brolių keršto žygiai Pomeranijoje.md#claim-t-62925|Sventopelko mirtis, Mstivojaus sukilimas ir brolių keršto žygiai Pomeranijoje (sukilimas, XIII a.)]]: Pats nusiaubtas Pomeranijos kunigaikštis Mstivojus paprašė magistro atnaujinti ankstesnį taikos susitarimą su magistru ir broliais.
+- susijęs iš [[objektai/ivykiai/Sventopelko mirtis, Mstivojaus sukilimas ir brolių keršto žygiai Pomeranijoje.md#claim-t-62926|Sventopelko mirtis, Mstivojaus sukilimas ir brolių keršto žygiai Pomeranijoje (sukilimas, XIII a.)]]: 1299 m. mirus tėvui, Mstivojus tapo Pomeranijos kunigaikščiu ir paakino prūsų kariuomenę deginti bei plėšti Kulmo žemę ir Pamedę.
+- susijęs iš 1230 m. Krušvicos falsifikatas: M. Perlbachas nurodė, kad Dusburgietis Konrado ir Ordino sutartis nušvietė pagal Ordino 1230 m. Krušvicos falsifikatą.
+- susijęs iš 1230 m. Krušvicos falsifikatas: M. Perlbachas nurodė, kad Dusburgietis Konrado ir Ordino sutartis nušvietė pagal Ordino 1230 m. Krušvicos falsifikatą.
+- susijęs iš 1282 m. Mstivojaus ir Ordino taikos dokumentas: M. Tepenas manė, kad Dusburgietis galėjo žinoti 1282 m. Pamario kunigaikščio Mstivojaus ir Ordino taikos dokumentą.
+- susijęs iš 1323 m. spalio 16 d. Varmės vyskupo ir kapitulos dokumentas: M. Tepenas nurodė, kad Dusburgietis rėmėsi 1323 m. spalio 16 d. Varmės vyskupo ir kapitulos dokumentu apie lietuvių žygius.
+- susijęs iš 1324 m. popiežiaus legatų dokumentas dėl taikos su Gediminu: M. Tepenas nurodė, kad Dusburgietis rėmėsi 1324 m. popiežiaus legatų dokumentu dėl taikos su Gediminu.
+- susijęs iš Popiežiaus 1230 m. sausio 18 d. bulė: M. Tepenas pažymėjo, kad Dusburgietis rėmėsi popiežiaus 1230 m. sausio 18 d. bule.
+- susijęs iš Sventopelko ir Ordino 1243 m. sutartis: M. Tepenas nurodė, kad Dusburgietis rėmėsi žuvusia Sventopelko ir Ordino 1243 m. sutartimi.
+- susijęs iš Volynės metraštis: Volynės metraštyje Zlynų vietovardis minimas formomis „Злиньци“ ir „Злина“.
+- susijęs iš Vėluva: 1323 m. spalio 16 d. Varmės vyskupo ir kapitulos dokumente buvo minėti lietuvių žygiai į Vėluvą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -190,22 +223,8 @@ Mstivojus užgrobė tris Pomeranijos kunigaikštystės dalis ir ilgus metus jas 
     - t-002
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Antspaudas]]
-- [[objektai/asmenys/Konradas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/daiktai/Laivai]]
-- [[objektai/asmenys/Sventopelkas]]
-- [[objektai/grupes/Teutonai]]
-- [[objektai/daiktai/Užstato daiktai Trakų žydų privilegijoje]]
-- [[objektai/asmenys/Vartislavas (Sventopelko sūnus)]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/metraštis]]
-- [[objektai/zodynas/netikėliai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/įkaitai]]
-- [[objektai/ivykiai/Lietuvių žygiai į Revelio žemę, Klaipėdą, Vėluvą ir Dobrynę (1323 m.)]]
-- [[objektai/asmenys/Pilypas (Fermo vyskupas)]]
-- [[objektai/asmenys/Rabė]]
-- [[objektai/ivykiai/Sventopelko mirtis, Mstivojaus sukilimas ir brolių keršto žygiai Pomeranijoje|Sventopelko mirtis, Mstivojaus sukilimas ir brolių keršto žygiai Pomeranijoje (sukilimas, XIII a.)]]
-- [[objektai/asmenys/Samboras (Sventopelko sūnus)]]
+- Mstivojus valde_teritorija [[objektai/vietos/Lenkija]]
+- Mstivojus valde_teritorija [[objektai/vietos/Pomeranija]]
+- Mstivojus valde_teritorija [[objektai/vietos/Prūsija]]
+- Mstivojus valde_teritorija [[objektai/vietos/Volynė]]
+- Mstivojus buvo_valdovas [[objektai/vietos/Pomeranija]]

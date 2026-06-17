@@ -3,6 +3,10 @@ tipas: ivykis
 pavadinimas: 'Sukilimo numalšinimas Lietuvoje (1831 m. rudenį)'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1831 m.'
+date_start: '1831'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -10,12 +14,14 @@ tags:
   - ivykis
   - miestas
   - sukilimas
+amziai:
+  - 'XIX'
 ---
 # Sukilimo numalšinimas Lietuvoje (1831 m. rudenį)
 
 ## Santrauka
 
-1831 m. rudenį sukilimas Lietuvoje buvo numalšintas žiauriomis priemonėmis.
+Dembinskiui išvykus, Lietuvoje nebeliko jokios stipresnės pajėgos. Tokiomis žiauriomis priemonėmis 1831 m. rudenį buvo likviduotas sukilimas.
 
 ## Laikotarpis ir datos
 
@@ -34,18 +40,20 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 <a id="claim-t-66913"></a>
 - t-001
   global_id: t-66913
   teiginys: '1831 m. rudenį sukilimas Lietuvoje buvo numalšintas žiauriomis priemonėmis.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1831 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1831 m. rudenį sukilimas Lietuvoje buvo numalšintas žiauriomis priemonėmis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Ypač
@@ -54,14 +62,8 @@ Nenurodyta
     riuos įtarė dalyvavus sukilime, prisirišę prie patrankų nusivarė
     į Vilnių. Tokiomis žiauriomis priemonėmis 1831 m. rudenį buvo
     likviduotas sukilimas.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Rusai]]

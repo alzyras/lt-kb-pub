@@ -23,6 +23,8 @@ Demokratija Lietuvoje, pasak A.
 - t-001
   global_id: t-20839
   teiginys: 'A. Smetona Lietuvos demokratiją lygino su vaikams nupirktais per dideliais batais.'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo nebaigtas, bet citata tiesiogiai palaiko glaustą sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -45,10 +47,3 @@ Demokratija Lietuvoje, pasak A.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/asmenys/A. Smetona]]
-- [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]

@@ -18,18 +18,19 @@ tags:
 Seimas buvo priverstas įvykdyti visus jo reikalavimus.
 
 ## Teiginiai
+
 <a id="claim-t-01516"></a>
 - t-001
   global_id: t-01516
   teiginys: 'Varšuvos konfederacinis seimas pripažino Rusijai teisę prižiūrėti, kad nebūtų pakeistos kardinalinės teisės.'
+  sudarymo_pagrindimas: 'Pirminis sakinys neaiškus be ankstesnio konteksto.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Čartoriskiai|Čartoriskiai]]; mentioned_object: [[objektai/posakiai/kardinalinės teisės|kardinalinės teisės]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Rusija; mentioned_place: Varšuva'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Varšuvos konfederacinis seimas pripažino Rusijai teisę prižiūrėti, kad nebūtų pakeistos kardinalinės teisės.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Seimas buvo
@@ -42,17 +43,8 @@ Seimas buvo priverstas įvykdyti visus jo reikalavimus.
     teises su katalikais, ir t.t. Čartoriskių pradėtos reformos nuėjo
     vėjais, o blogiausia buvo tai, kad Rusijai buvo pripažinta
     teisė prižiūrėti Respublikos vidaus gyvenimą.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/posakiai/kardinalinės teisės]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/grupes/Čartoriskiai]]

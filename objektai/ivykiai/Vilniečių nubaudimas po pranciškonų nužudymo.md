@@ -10,7 +10,7 @@ atnaujinta: ''
 
 ## Santrauka
 
-Lietuvos metraštis teigia, kad Po pranciškonų nužudymo Algirdas pasmerkė myriop penkis šimtus vilniečių, o nubaustieji buvo nugalabyti kankinant. Lietuvos metraštis pasakoja, kad Algirdas pasmerkė myriop penkis šimtus vilniečių pavyzdžio dėlei.
+Petras Goštautas, anot šaltinio, paprašė Algirdo nubausti pagonis, nužudžiusius vienuolius. Lietuvos metraštis pasakoja, kad Algirdas pasmerkė myriop penkis šimtus vilniečių pavyzdžio dėlei.
 
 ## Laikotarpis ir datos
 
@@ -35,14 +35,20 @@ Nenurodyta
 <a id="claim-t-186568"></a>
 - t-001
   global_id: t-186568
-  teiginys: 'Lietuvos metraštis teigia, kad Po pranciškonų nužudymo Algirdas pasmerkė myriop penkis šimtus vilniečių, o nubaustieji buvo nugalabyti kankinant.'
+  teiginys: 'Lietuvos metraštis pasakoja, kad po pranciškonų nužudymo Algirdas pasmerkė myriop penkis šimtus vilniečių, o nubaustieji buvo nukankinti.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Pataisyta gramatika ir pašalinta nereikalinga konstrukcija „teigia, kad Po“.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
 <a id="claim-t-186570"></a>
 - t-002
   global_id: t-186570
-  teiginys: 'Lietuvos metraštis pasakoja, kad Algirdas pasmerkė myriop penkis šimtus vilniečių pavyzdžio dėlei.'
+  teiginys: 'Lietuvos metraštis pasakoja, kad Algirdas po pranciškonų nužudymo pasmerkė myriop penkis šimtus vilniečių pavyzdžio dėlei.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Palikta šaltinio atribucija dėl moralinio ir religinio vertinimo konteksto.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -69,11 +75,3 @@ Nenurodyta
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]]
-- [[objektai/zodynas/didysis kunigaikštis]]
-- [[objektai/grupes/Pranciškonų ordinas]]
-- [[objektai/zodynas/metraštis]]

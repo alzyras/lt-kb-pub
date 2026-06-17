@@ -10,6 +10,7 @@ tags:
   - karalius
   - kunigaikštis
   - valdovas
+  - vyskupas
 ---
 # Henrikas (Jeruzalės karalius)
 
@@ -23,6 +24,9 @@ Dusburgietis teigia, kad kai jo šventenybė Jeruzalės patriarchas Henrikas, š
 - t-001
   global_id: t-60306
   teiginys: 'Jeruzalės karalius Henrikas buvo tarp valdovų, pritarusių siūlymui siųsti legatus dėl naujai įsteigtos ligoninės patvirtinimo.'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo neišbaigtas, bet citata remia asmens dalyvavimą sprendime.'
+  susije_objektai: 'territory: Austrija; territory: Jeruzalė; territory: Reinas; territory: Saksonija; mentioned_object: [[objektai/zodynas/landgrafas|landgrafas]]; mentioned_object: [[objektai/zodynas/legatai|legatai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Albertas|Albertas]]; mentioned_person: [[objektai/asmenys/Gardolfas|Gardolfas]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Austrija; mentioned_place: Jeruzalė; mentioned_place: Reinas; mentioned_place: Saksonija'
+  semantiniai_rysiai: '[[objektai/asmenys/Henrikas (Jeruzalės karalius)|Henrikas (Jeruzalės karalius)]] buvo valdovas Austrija; [[objektai/asmenys/Henrikas (Jeruzalės karalius)|Henrikas (Jeruzalės karalius)]] buvo valdovas Jeruzalė; [[objektai/asmenys/Henrikas (Jeruzalės karalius)|Henrikas (Jeruzalės karalius)]] buvo valdovas Reinas; [[objektai/asmenys/Henrikas (Jeruzalės karalius)|Henrikas (Jeruzalės karalius)]] buvo valdovas Saksonija'
   pagrindžia:
     - c-001
 
@@ -64,12 +68,7 @@ Dusburgietis teigia, kad kai jo šventenybė Jeruzalės patriarchas Henrikas, š
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Albertas]]
-- [[objektai/asmenys/Gardolfas]]
-- [[objektai/autoriai/Henrikas]]
-- [[objektai/asmenys/Jonas]]
-- [[objektai/zodynas/landgrafas]]
-- [[objektai/zodynas/legatai]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/maršalas]]
+- Henrikas (Jeruzalės karalius) buvo_valdovas [[objektai/vietos/Austrija]]
+- Henrikas (Jeruzalės karalius) buvo_valdovas [[objektai/vietos/Jeruzalė]]
+- Henrikas (Jeruzalės karalius) buvo_valdovas [[objektai/vietos/Reinas]]
+- Henrikas (Jeruzalės karalius) buvo_valdovas [[objektai/vietos/Saksonija]]

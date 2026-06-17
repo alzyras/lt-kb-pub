@@ -9,12 +9,12 @@ date_start: '1931'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - autorius
 amziai:
   - 'XX'
 periodo_grupes:
   - 'modernioji Lietuva'
-tags:
-  - autorius
 ---
 # A. Brückner
 
@@ -27,10 +27,12 @@ A. Brückner minimas kaip istorikas ir kultūros istorikas; šiame tome jo varda
 - Dzieje kultury polskiej
 
 ## Teiginiai
+
 <a id="claim-t-64507"></a>
 - t-001
   global_id: t-64507
   teiginys: 'A. Brückner parašė Dzieje kultury polskiej pirmą tomą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Kalnėnai|Kalnėnai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/autoriai/V. Jungfer|V. Jungfer]]; mentioned_place: Kaunas; mentioned_place: Krokuva'
   pagrindžia:
     - c-002
 
@@ -38,6 +40,8 @@ A. Brückner minimas kaip istorikas ir kultūros istorikas; šiame tome jo varda
 - t-002
   global_id: t-64508
   teiginys: 'Al. Brückneris priklausė senosios istorikų kartai, kuri XIII a. pradžios lietuvius vaizdavo kaip vargšus ir skurdžius.'
+  sudarymo_pagrindimas: 'Citata remia konkretesnį teiginį nei vien priskyrimą istorikų kartai.'
+  susije_objektai: 'owner: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/autoriai/Fr. Papée|Fr. Papée]]'
   pagrindžia:
     - c-001
 
@@ -45,10 +49,13 @@ A. Brückner minimas kaip istorikas ir kultūros istorikas; šiame tome jo varda
 - t-003
   global_id: t-64509
   teiginys: 'Al. Brückner pagonių lietuvių kultūrą laikė gana žema.'
+  sudarymo_pagrindimas: 'Teiginys tinkamai perteikia citatoje nurodytą Brücknerio vertinimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Al. Brückneris priklausė senosios istorikų kartai, kuri XIII a. pradžios lietuvius vaizdavo kaip vargšus ir skurdžius.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -61,6 +68,7 @@ A. Brückner minimas kaip istorikas ir kultūros istorikas; šiame tome jo varda
   statusas: verified
   pagrindžia:
     - t-002
+
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -77,6 +85,7 @@ A. Brückner minimas kaip istorikas ir kultūros istorikas; šiame tome jo varda
   statusas: verified
   pagrindžia:
     - t-001
+
 - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -90,10 +99,3 @@ A. Brückner minimas kaip istorikas ir kultūros istorikas; šiame tome jo varda
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Baltai]]
-- [[objektai/grupes/Kalnėnai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/pagonybė]]

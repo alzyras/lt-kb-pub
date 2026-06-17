@@ -31,6 +31,11 @@ KH = Kwartalnik Historyczny, žurn.
 - t-001
   global_id: t-29906
   teiginys: '„Kwartalnik Historyczny“ yra nuo 1887 m. leidžiamas žurnalas; jis leistas Lvove, Krokuvoje ir Varšuvoje.'
+  sudarymo_pagrindimas: 'Citata nurodo žurnalo pobūdį, leidimo pradžią ir leidimo miestus.'
+  susije_objektai: 'mentioned_place: Krokuva; mentioned_place: Varšuva'
+  temporaliniai_duomenys: 'įvykio data: po 1887 m.; įvykio data: 1887 m.; įvykio data: po 1945 m.; įvykio data: 1945 m.; įvykio data: po 1952 m.; įvykio data: 1952 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata nurodo žurnalo pobūdį, leidimo pradžią ir leidimo miestus.'
   pagrindžia:
     - c-001
 

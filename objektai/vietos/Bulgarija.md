@@ -3,10 +3,16 @@ tipas: vieta
 pavadinimas: 'Bulgarija'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1905 m.'
+date_start: '1905'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
+amziai:
+  - 'XX'
 ---
 # Bulgarija
 
@@ -20,6 +26,8 @@ st.) ir lenkė Rumuniją, Bulgariją.
 - t-001
   global_id: t-46557
   teiginys: 'Jonas Basanavičius, grįžęs iš emigracijos Bulgarijoje, buvo Didžiojo Vilniaus Seimo sumanymo iniciatorius.'
+  sudarymo_pagrindimas: 'Išplėsta nutrūkusi pavardė ir suformuotas pilnas citata pagrįstas sakinys.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -27,9 +35,16 @@ st.) ir lenkė Rumuniją, Bulgariją.
 - t-002
   global_id: t-46558
   teiginys: 'J. Basanavičius grįžo iš emigracijos Bulgarijoje ir tapo suvažiavimo sumanymo iniciatoriumi.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/autoriai/Jonas Basanavičius|Jonas Basanavičius]]; mentioned_person: [[objektai/asmenys/J. Basanavičius|J. Basanavičius]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1905 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/autoriai/Mikšas.md#claim-t-01116|Mikšas]]: Mikšas Tilžėje įsteigė spaustuvę, kurioje vėliau buvo spausdinama „Aušra“.
+- susijęs iš [[objektai/autoriai/Dr. J. Šliūpas.md#claim-t-01029|Dr. J. Šliūpas]]: Dr. J. Šliūpas tvarkė „Aušrą“, kol vokiečių valdžia privertė jį išvažiuoti į Ameriką.
+- susijęs iš [[objektai/autoriai/Mikšas.md#claim-t-01116|Mikšas]]: Mikšas Tilžėje įsteigė spaustuvę, kurioje vėliau buvo spausdinama „Aušra“.
+- susijęs iš [[objektai/ivykiai/Didysis Vilniaus Seimas.md#claim-t-77881|Didysis Vilniaus Seimas]]: Gavus valdžios sutikimą, Didysis Vilniaus Seimas vyko Vilniaus Miesto salėje gruodžio 4–5 dienomis.
+- susijęs iš [[objektai/ivykiai/Varnos mūšis.md#claim-t-186730|Varnos mūšis (mūšis, XV a.)]]: Vladislovas žuvo 1444 m. lapkričio 10 d. mūšyje su turkais ties Varna Bulgarijoje.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -64,3 +79,6 @@ st.) ir lenkė Rumuniją, Bulgariją.
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+- [[objektai/autoriai/Mikšas]] pastate Bulgarija

@@ -20,9 +20,11 @@ Mokšeckio brigada priverčia iš Širvintų pasitraukti 7-ajj pest.
 - t-001
   global_id: t-38939
   teiginys: 'Gen. A. Mokšeckio brigada privertė 7-ąjį pėstininkų pulką pasitraukti iš Širvintų.'
+  sudarymo_pagrindimas: 'Pradiniame teiginyje yra OCR klaida ir neišskleista santrumpa, citata pagrindžia pataisymą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/brigada|brigada]]'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/grupes/4-asis pėstininkų pulkas.md#claim-t-40825|4-asis pėstininkų pulkas]]: 4-ojo pėstininkų pulko pozicijos gynė Musninkus, o lenkams šioje vietoje nepavyko priversti lietuvių atsitraukti.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -36,10 +38,3 @@ Mokšeckio brigada priverčia iš Širvintų pasitraukti 7-ajj pest.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/brigada]]
-- [[objektai/grupes/4-asis pėstininkų pulkas]]

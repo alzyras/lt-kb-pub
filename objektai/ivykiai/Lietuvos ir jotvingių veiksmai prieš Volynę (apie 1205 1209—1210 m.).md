@@ -7,8 +7,10 @@ datos:
   - '1205 m.'
   - '1209 m.'
   - '1210 m.'
+  - '1218 m.'
+  - '1219 m.'
 date_start: '1205'
-date_end: '1210'
+date_end: '1219'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -20,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-Lietuvos ir jotvingių veiksmai prieš Volynę šaltiniuose priskiriami 1205 m. įrašui, aiškinamam kaip 1209–1210 m. įvykiai.
+Dusburgietis teigia, kad „Lietuvos ir Jotvingių“ veiksmai prieš Volynę šaltiniuose ryškiai atsispindi prie 1205 m. (t.
 
 ## Laikotarpis ir datos
 
@@ -44,9 +46,14 @@ Nenurodyta
 - t-001
   global_id: t-59656
   teiginys: 'Lietuvos ir jotvingių veiksmai prieš Volynę šaltiniuose priskiriami 1205 m. įrašui, aiškinamam kaip 1209–1210 m. įvykiai.'
+  sudarymo_pagrindimas: 'Rewrite failed deterministic gates: missing_factual_predicate'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/priešmindauginė Lietuva|priešmindauginė Lietuva]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Popiežius Honorijus II|Popiežius Honorijus II]]; mentioned_place: Lietuva; mentioned_place: Prūsai; mentioned_place: Viena; mentioned_place: Volynė'
+  temporaliniai_duomenys: 'įvykio data: 1205 m.; įvykio data: 1209-1210; įvykio data: 1210 m.; įvykio data: 1218 m.; įvykio data: 1219 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Rewrite failed deterministic gates: missing_factual_predicate'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175134|Sūduviai-jotvingiai]]: Lietuvos ir jotvingių veiksmai prieš Volynę šaltiniuose siejami su 1205 m., tai yra 1209–1210 m., įvykiais.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -65,12 +72,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Kryžius]]
-- [[objektai/asmenys/Popiežius Honorijus II]]
-- [[objektai/zodynas/priešmindauginė Lietuva]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/grupes/Sūduviai-jotvingiai]]
-- [[objektai/ivykiai/Lietuvos ir jotvingių puolimas Lenkijai (1219 m.)]]

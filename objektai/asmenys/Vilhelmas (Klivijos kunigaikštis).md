@@ -21,6 +21,9 @@ Tai buvo viešai užak­ centuota Klivijos kunigaikščio Vilhelmo ir kitų visu
 - t-001
   global_id: t-34766
   teiginys: 'Klivijos kunigaikštis Vilhelmas Konstancijos bažnyčios sinode viešai pabrėžė Vytauto vaidmenį ginant Europą nuo turkų.'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo neaiškus fragmentas, bet citata palaiko konkretesnį faktą.'
+  susije_objektai: 'territory: Europa; territory: Konstancija; mentioned_person: [[objektai/asmenys/Vilhelmas|Vilhelmas]]; mentioned_place: Europa; mentioned_place: Konstancija'
+  semantiniai_rysiai: '[[objektai/asmenys/Vilhelmas (Klivijos kunigaikštis)|Vilhelmas (Klivijos kunigaikštis)]] buvo valdovas Europa; [[objektai/asmenys/Vilhelmas (Klivijos kunigaikštis)|Vilhelmas (Klivijos kunigaikštis)]] buvo valdovas Konstancija'
   pagrindžia:
     - c-001
 
@@ -28,6 +31,12 @@ Tai buvo viešai užak­ centuota Klivijos kunigaikščio Vilhelmo ir kitų visu
 - t-002
   global_id: t-184290
   teiginys: 'Klivijos kunigaikštis Vilhelmas Konstancijos bažnyčios sinode viešai pabrėžė Vytauto reikšmę Europai.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata leidžia suformuluoti pilną sakinį apie Vilhelmo veiksmą.'
+  susije_objektai: 'territory: Europa; territory: Konstancija; mentioned_group: [[objektai/grupes/Husitai|Husitai]]; mentioned_person: [[objektai/asmenys/Vilhelmas|Vilhelmas]]; mentioned_place: Europa; mentioned_place: Konstancija'
+  semantiniai_rysiai: '[[objektai/asmenys/Vilhelmas (Klivijos kunigaikštis)|Vilhelmas (Klivijos kunigaikštis)]] buvo valdovas Europa; [[objektai/asmenys/Vilhelmas (Klivijos kunigaikštis)|Vilhelmas (Klivijos kunigaikštis)]] buvo valdovas Konstancija'
   pagrindžia:
     - c-002
 
@@ -68,5 +77,5 @@ Tai buvo viešai užak­ centuota Klivijos kunigaikščio Vilhelmo ir kitų visu
     - t-002
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Husitai]]
+- Vilhelmas (Klivijos kunigaikštis) buvo_valdovas [[objektai/vietos/Europa]]
+- Vilhelmas (Klivijos kunigaikštis) buvo_valdovas [[objektai/vietos/Konstancija]]

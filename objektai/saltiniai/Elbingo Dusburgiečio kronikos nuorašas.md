@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Torunės nuorašo pagrindu padarytas ir Elbingo nuorašas.
+Dusburgietis teigia, kad torunės nuorašo pagrindu padarytas ir Elbingo nuorašas.
 
 ## Teiginiai
 
@@ -20,6 +20,8 @@ Torunės nuorašo pagrindu padarytas ir Elbingo nuorašas.
 - t-001
   global_id: t-61068
   teiginys: 'Torunės nuorašo pagrindu padarytas ir Elbingo nuorašas.'
+  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/nuorašas|nuorašas]]; mentioned_place: Berlynas; mentioned_place: Elbingas; mentioned_place: Torunė'
   pagrindžia:
     - c-001
 

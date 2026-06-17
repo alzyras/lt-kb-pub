@@ -5,6 +5,9 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1385 m.'
+  - '1392 m.'
+  - '1401 m.'
+  - '1413 m.'
   - '1432 m.'
 date_start: '1385'
 date_end: '1432'
@@ -45,6 +48,11 @@ Nenurodyta
 - t-001
   global_id: t-100047
   teiginys: '1385 m. Kriavo pažadų aktas davė pradžią vėlesniems Astravo, Vilniaus, Horodlės ir Gardino susitarimams dėl artimesnių santykių.'
+  sudarymo_pagrindimas: 'Citata palaiko faktą, bet pirminis teiginys buvo nutrūkęs ir su OCR triukšmu.'
+  susije_objektai: 'mentioned_object: [[objektai/ivykiai/Krėvos akto patvirtinimas|Krėvos akto patvirtinimas]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Gardinas; mentioned_place: Horodlė'
+  temporaliniai_duomenys: 'įvykio data: 1385 m.; įvykio data: 1392 m.; įvykio data: 1401 m.; įvykio data: 1413 m.; įvykio data: 1432 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko faktą, bet pirminis teiginys buvo nutrūkęs ir su OCR triukšmu.'
   pagrindžia:
     - c-001
 
@@ -65,7 +73,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/unija]]

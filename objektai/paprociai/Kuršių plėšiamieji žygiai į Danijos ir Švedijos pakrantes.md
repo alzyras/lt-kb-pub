@@ -10,7 +10,7 @@ atnaujinta: ''
 
 ## Santrauka
 
-Kuršiai XI a. rengdavo plėšiamuosius žygius į Danijos ir Švedijos pakrantes. XI a. kuršiai patys rengdavo plėšiamuosius žygius į Danijos ir Švedijos pakrantes.
+Kuršiai XI a. rengdavo plėšiamuosius žygius į Danijos ir Švedijos pakrantes.
 
 ## Laikotarpis ir datos
 
@@ -38,6 +38,8 @@ Nenurodyta
 - t-001
   global_id: t-78705
   teiginys: 'Kuršiai XI a. rengdavo plėšiamuosius žygius į Danijos ir Švedijos pakrantes.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Vikingai|Vikingai]]; mentioned_place: Prūsai; mentioned_place: Švedija'
   pagrindžia:
     - c-001
 
@@ -45,6 +47,8 @@ Nenurodyta
 - t-002
   global_id: t-78706
   teiginys: 'XI a. kuršiai patys rengdavo plėšiamuosius žygius į Danijos ir Švedijos pakrantes.'
+  sudarymo_pagrindimas: 'Pradinis teiginys yra kontekstinis, o citata geriau palaiko faktą apie kuršių plėšiamuosius žygius.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Vikingai|Vikingai]]; mentioned_place: Prūsai; mentioned_place: Švedija'
   pagrindžia:
     - c-001
 
@@ -65,10 +69,3 @@ Nenurodyta
   pagrindžia:
     - t-001
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Baltai]]
-- [[objektai/grupes/Kuršiai]]
-- [[objektai/grupes/Vikingai]]
-- [[objektai/grupes/Skandinavai]]

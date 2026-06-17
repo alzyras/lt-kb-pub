@@ -39,6 +39,8 @@ Nenurodyta
 - t-001
   global_id: t-34496
   teiginys: 'Po Vytauto pralaimėjimo prie Vorsklos sukilo Smolenskas, o Sviatoslavo sūnus Jurgis sumanė jį užvaldyti.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nusako įvykį ir yra paremtas citatos informacija.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Sviatoslavas|Sviatoslavas]]; mentioned_place: Smolenskas; mentioned_place: Vorskla'
   pagrindžia:
     - c-001
 
@@ -58,7 +60,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Sviatoslavas]]

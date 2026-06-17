@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Kultūra Lietuvoje plėtota pagal sovietų principą „tautinė pagal formą, socialistinė pagal turinį“. Formulė iliustruojama tautiniais drabužiais vilkinčiais choristais, dainavusiais apie V. Leniną. Dainų šventėse principas „tautinė pagal formą, socialistinė pagal turinį“ ilgainiui liko privalomos socialistinės programos apvalkalu.
+Formulė nusako sovietų kultūros politikos principą, kai tautinė forma turėjo tarnauti socialistiniam turiniui. Ištraukoje ji iliustruojama tautiniais drabužiais vilkinčiais choristais, dainuojančiais apie V. Leniną, ir Dainų švenčių socialistinės programos apvalkalu.
 
 ## Teiginiai
 
@@ -21,6 +21,8 @@ Kultūra Lietuvoje plėtota pagal sovietų principą „tautinė pagal formą, s
 - t-001
   global_id: t-26655
   teiginys: 'Kultūra Lietuvoje plėtota pagal sovietų principą „tautinė pagal formą, socialistinė pagal turinį“.'
+  sudarymo_pagrindimas: 'Teiginys yra enciklopedinis, gramatiškas ir tiesiogiai pagrįstas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/duoklė|duoklė]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -28,6 +30,7 @@ Kultūra Lietuvoje plėtota pagal sovietų principą „tautinė pagal formą, s
 - t-002
   global_id: t-26907
   teiginys: 'Formulė iliustruojama tautiniais drabužiais vilkinčiais choristais, dainavusiais apie V. Leniną.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; mentioned_object: [[objektai/zodynas/duoklė|duoklė]]'
   pagrindžia:
     - c-001
 
@@ -35,6 +38,8 @@ Kultūra Lietuvoje plėtota pagal sovietų principą „tautinė pagal formą, s
 - t-003
   global_id: t-75622
   teiginys: 'Dainų šventėse principas „tautinė pagal formą, socialistinė pagal turinį“ ilgainiui liko privalomos socialistinės programos apvalkalu.'
+  sudarymo_pagrindimas: 'Pradinis teiginys netiksliai sukeitė, kas citatoje vadinama apvalkalu.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/duoklė|duoklė]]'
   pagrindžia:
     - c-001
 
@@ -42,9 +47,12 @@ Kultūra Lietuvoje plėtota pagal sovietų principą „tautinė pagal formą, s
 - t-004
   global_id: t-75623
   teiginys: 'Pagal principą „tautinė pagal formą, socialistinė pagal turinį“ choristai tautiniais drabužiais dainavo apie V. Leniną.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir remiasi konkrečia citatos detale.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; mentioned_object: [[objektai/zodynas/duoklė|duoklė]]'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/V. Leninas.md#claim-t-19295|V. Leninas]]: Sovietmečiu tautiniais drabužiais vilkintys choristai dainavo apie V. Leniną.
+- susijęs iš [[objektai/asmenys/Vladimiras Leninas.md#claim-t-64247|Vladimiras Leninas]]: Sovietmečiu tautiniais drabužiais vilkintys choristai dainavo apie Vladimirą Leniną.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -67,10 +75,3 @@ Kultūra Lietuvoje plėtota pagal sovietų principą „tautinė pagal formą, s
     - t-002
     - t-003
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/duoklė]]
-- [[objektai/asmenys/V. Leninas]]
-- [[objektai/asmenys/Vladimiras Leninas]]
-- [[objektai/daiktai/Drabužiai]]

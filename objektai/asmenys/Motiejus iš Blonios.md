@@ -31,9 +31,13 @@ Tik kai Aleksandrą kelerius metus nuolat ka­ mavo skausminga liga, iš Krokuvo
 - t-001
   global_id: t-87794
   teiginys: 'Motiejus iš Blonios, Gniezno kanauninkas ir rūmų daktaras, iš Krokuvos atvyko gydyti sergančio Aleksandro.'
+  sudarymo_pagrindimas: 'Claimas buvo per ilgas ir triukšmingas; citata palaiko Motiejaus profesiją ir veiksmą.'
+  susije_objektai: 'location: Gniezno; location: Krokuva; location: Lietuva; location: Viena; location: Vilnius; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Gniezno; mentioned_place: Krokuva; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Motiejus iš Blonios|Motiejus iš Blonios]] keliavo į Gniezno; [[objektai/asmenys/Motiejus iš Blonios|Motiejus iš Blonios]] keliavo į Krokuva; [[objektai/asmenys/Motiejus iš Blonios|Motiejus iš Blonios]] keliavo į Lietuva; [[objektai/asmenys/Motiejus iš Blonios|Motiejus iš Blonios]] keliavo į Viena; [[objektai/asmenys/Motiejus iš Blonios|Motiejus iš Blonios]] keliavo į Vilnius'
   pagrindžia:
     - c-001
-
+- susijęs iš Krokuva: Aleksandrui sergant, iš Krokuvos atvyko gydymo meną išmanę Motiejus iš Blonios ir Aleksandras Balinskis.
+- susijęs iš Krokuva: Aleksandrui sunkiai sergant, iš Krokuvos atvyko gydymą išmanę Motiejus iš Blonios ir Aleksandras Balinskis.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -69,8 +73,8 @@ Tik kai Aleksandrą kelerius metus nuolat ka­ mavo skausminga liga, iš Krokuvo
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/fizikas rūmų daktaras Leibarzt]]
+- Motiejus iš Blonios keliavo_i [[objektai/vietos/Gniezno]]
+- Motiejus iš Blonios keliavo_i [[objektai/vietos/Krokuva]]
+- Motiejus iš Blonios keliavo_i [[objektai/vietos/Lietuva]]
+- Motiejus iš Blonios keliavo_i [[objektai/vietos/Viena]]
+- Motiejus iš Blonios keliavo_i [[objektai/vietos/Vilnius]]

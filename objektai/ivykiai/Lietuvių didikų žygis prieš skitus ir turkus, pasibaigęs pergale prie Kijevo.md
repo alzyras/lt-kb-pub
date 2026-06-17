@@ -30,6 +30,11 @@ Nenurodyta
 - t-001
   global_id: t-185604
   teiginys: 'Ostrogiškis, sužinojęs apie skitų ir turkų žygį į Podolę ir Pogorę, skubiai įspėjo susitarimo dalyvius apie pavojų.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pašalintas autorinis boilerplate ir ištaisytos laužytos vietovardžių formos.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_object: [[objektai/zodynas/skitai|skitai]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Eustachijus (raštininkas)|Eustachijus (raštininkas)]]; mentioned_person: [[objektai/asmenys/Eustachijus Daškevičius|Eustachijus Daškevičius]]; mentioned_person: [[objektai/asmenys/Fiodoras|Fiodoras]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Kijevas; mentioned_place: Podolė; mentioned_place: Sluckas; mentioned_place: Višniovecas; mentioned_place: Čerkasai'
   pagrindžia:
     - c-001
 
@@ -37,6 +42,11 @@ Nenurodyta
 - t-002
   global_id: t-185605
   teiginys: 'Ostrogiškis su sąjungininkais už keturiasdešimties mylių nuo Kijevo pavijo su grobiu grįžtantį priešą ir jį sumušė.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Vardų sąrašas pakeistas enciklopediniu faktu apie įvykio rezultatą, paremtu citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Eustachijus (raštininkas)|Eustachijus (raštininkas)]]; mentioned_person: [[objektai/asmenys/Eustachijus Daškevičius|Eustachijus Daškevičius]]; mentioned_person: [[objektai/asmenys/Fiodoras|Fiodoras]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Kijevas; mentioned_place: Sluckas; mentioned_place: Višniovecas; mentioned_place: Čerkasai'
   pagrindžia:
     - c-002
 
@@ -94,15 +104,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Aleksandras]]
-- [[objektai/asmenys/Eustachijus (raštininkas)]]
-- [[objektai/asmenys/Eustachijus Daškevičius]]
-- [[objektai/asmenys/Fiodoras]]
-- [[objektai/asmenys/Jonas]]
-- [[objektai/zodynas/seniūnas]]
-- [[objektai/zodynas/skitai]]
-- [[objektai/zodynas/vaivada]]
-- [[objektai/zodynas/žygis]]

@@ -28,6 +28,11 @@ Tačiau kolektyvizacija Lietuvoje strigo dėl partizaninio karo. Kolektyvizacija
 - t-001
   global_id: t-75556
   teiginys: 'Po kolektyvizacijos LSSR prieškarinį javų derlingumo, gyvulių skaičiaus ir produktyvumo lygį pasiekė tik po 20 metų.'
+  sudarymo_pagrindimas: 'Pradinis teiginys turi OCR ir iliustracijos antraštės triukšmo, todėl perrašytas pagal citatos faktą.'
+  susije_objektai: 'mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1947 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys turi OCR ir iliustracijos antraštės triukšmo, todėl perrašytas pagal citatos faktą.'
   pagrindžia:
     - c-003
 
@@ -35,6 +40,7 @@ Tačiau kolektyvizacija Lietuvoje strigo dėl partizaninio karo. Kolektyvizacija
 - t-002
   global_id: t-75557
   teiginys: 'Kolektyvizacija sovietinėse respublikose reiškė privačios nuosavybės naikinimą žemės ūkyje ir kolektyvinių ūkių steigimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]'
   pagrindžia:
     - c-001
 
@@ -42,6 +48,7 @@ Tačiau kolektyvizacija Lietuvoje strigo dėl partizaninio karo. Kolektyvizacija
 - t-003
   global_id: t-75558
   teiginys: 'Po kolektyvizacijos LSSR javų derlingumo, gyvulių skaičiaus ir produktyvumo lygį pasiekė tik po 20 metų.'
+  sudarymo_pagrindimas: 'Citata palaiko teiginį, bet reikia susieti jį su kolektyvizacijos padariniais.'
   pagrindžia:
     - c-004
 
@@ -49,9 +56,13 @@ Tačiau kolektyvizacija Lietuvoje strigo dėl partizaninio karo. Kolektyvizacija
 - t-004
   global_id: t-75559
   teiginys: 'Kolektyvizacija sovietmečiu reiškė vienkiemių naikinimą ir jų savininkų kėlimą į kolektyvines gyvenvietes, miestelius ar miestus.'
+  sudarymo_pagrindimas: 'Reikia aiškiai susieti teiginį su kolektyvizacija.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/vienkiemiai|vienkiemiai]]; mentioned_place: Kaimas'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/ivykiai/Lietuvos partizanų pasipriešinimas SSRS (1945-1953 m.).md#claim-t-75180|Lietuvos partizanų pasipriešinimas SSRS (1945-1953 m.)]]: 1944–1953 m. Lietuvoje vyko Sovietų Sąjungos represijos, deportacijos, masinė kolektyvizacija ir ginkluota rezistencija.
+- susijęs iš [[objektai/ivykiai/Lietuvos žemės ūkio kolektyvizacija (1948–1952 m.).md#claim-t-75230|Lietuvos žemės ūkio kolektyvizacija (1948–1952 m.)]]: Per kolektyvizaciją Lietuvoje į valstybinį žemės fondą buvo paimta be šeimininkų likusi, pasitraukusiųjų, repatrijavusiųjų, partizanų ir tremtinių žemė.
+- susijęs iš [[objektai/ivykiai/Sovietų Sąjungos masinės deportacijos į Sibirą.md#claim-t-26386|Sovietų Sąjungos masinės deportacijos į Sibirą]]: 1944–1953 m. Lietuvoje vyko Sovietų Sąjungos organizuotos represijos, deportacijos, masinė kolektyvizacija ir ginkluota rezistencija.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -126,13 +137,3 @@ Tačiau kolektyvizacija Lietuvoje strigo dėl partizaninio karo. Kolektyvizacija
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/vienkiemiai]]
-- [[objektai/ivykiai/Lietuvos partizanų pasipriešinimas SSRS (1945-1953 m.)]]
-- [[objektai/ivykiai/Lietuvos žemės ūkio kolektyvizacija (1948–1952 m.)]]
-- [[objektai/ivykiai/Sovietų Sąjungos masinės deportacijos į Sibirą]]
-- [[objektai/zodynas/kolūkiai kolūkietis darbadieniai]]

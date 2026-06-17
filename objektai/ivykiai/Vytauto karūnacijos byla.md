@@ -3,11 +3,17 @@ tipas: ivykis
 pavadinimas: 'Vytauto karūnacijos byla'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1430 m.'
+date_start: '1430'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
   - valstybė
+amziai:
+  - 'XV'
 ---
 # Vytauto karūnacijos byla
 
@@ -37,6 +43,8 @@ Nenurodyta
 - t-001
   global_id: t-20568
   teiginys: 'Lucko suvažiavimas siejamas su Vytauto politiniu tikslu įtvirtinti Lietuvos monarchiją Europos politinėje sistemoje.'
+  sudarymo_pagrindimas: 'Pradinė formuluotė per stipriai priskyrė veiksmą suvažiavimui.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Lucko suvažiavimas|Lucko suvažiavimas]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Luckas; mentioned_place: Niurnbergas'
   pagrindžia:
     - c-001
 
@@ -44,6 +52,11 @@ Nenurodyta
 - t-002
   global_id: t-20569
   teiginys: 'Vytauto politika pašalino didžiuosius pavojus Lietuvos valstybei, įteisino jos egzistenciją ir įtvirtino ją Europoje.'
+  sudarymo_pagrindimas: 'Pradinis sakinys per ilgas, todėl sutrumpintas nepridedant naujų faktų.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Europa; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1430 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis sakinys per ilgas, todėl sutrumpintas nepridedant naujų faktų.'
   pagrindžia:
     - c-002
 
@@ -81,10 +94,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/ivykiai/Lucko suvažiavimas]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/daiktai/Vytauto ir Julijonos karūnos]]

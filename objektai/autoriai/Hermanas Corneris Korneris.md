@@ -31,6 +31,8 @@ Hermano C o r neri o, dominikono, Kroniką, Naruševi­ čiau s t. Tas pareiški
 - t-001
   global_id: t-88025
   teiginys: 'Hermano Kornerio kronikoje teigta, kad Gediminas buvo prisiekęs gyventi ir mirti išpažindamas savo tėvų tikėjimą.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas, užbaigtas ir pagrįstas citata apie Hermano Kornerio nurodytą poziciją.'
+  susije_objektai: 'mentioned_object: [[objektai/posakiai/Gyventi ir mirti savo tėvų tikėjimą išpažindamas|Gyventi ir mirti savo tėvų tikėjimą išpažindamas]]; mentioned_person: [[objektai/autoriai/Albertas Krantzas|Albertas Krantzas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/autoriai/Hermanas Corneris|Hermanas Corneris]]'
   pagrindžia:
     - c-002
 
@@ -38,6 +40,8 @@ Hermano C o r neri o, dominikono, Kroniką, Naruševi­ čiau s t. Tas pareiški
 - t-002
   global_id: t-88026
   teiginys: 'Dominikonas Hermanas Corneris kronikoje rašė, kad Vilniaus miestiečiai buvo palankesni Jogailai.'
+  sudarymo_pagrindimas: 'Teiginys buvo OCR fragmentas; citata leidžia suformuluoti sakinį apie autorių.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus miestiečių luomas|Vilniaus miestiečių luomas]]; mentioned_person: [[objektai/asmenys/Hermanas|Hermanas]]; mentioned_person: [[objektai/autoriai/Hermanas Corneris|Hermanas Corneris]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -81,8 +85,3 @@ Hermano C o r neri o, dominikono, Kroniką, Naruševi­ čiau s t. Tas pareiški
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/posakiai/Gyventi ir mirti savo tėvų tikėjimą išpažindamas]]
-- [[objektai/grupes/Vilniaus miestiečių luomas]]

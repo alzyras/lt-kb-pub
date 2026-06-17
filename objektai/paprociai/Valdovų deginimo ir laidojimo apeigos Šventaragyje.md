@@ -33,6 +33,11 @@ Nenurodyta
 - t-001
   global_id: t-185856
   teiginys: 'Pasak Kojelavičiaus, Šventaragis paprašė Germanto po jo mirties skirti Neries ir Vilnios santakos lygumą valdovams deginti ir pelenams laidoti.'
+  teiginio_tipas: 'saltinio_teiginys'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir su OCR klaidomis; citata palaiko aiškų legendinį veiksmą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Germantas|Germantas]]; mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_place: Neris'
   pagrindžia:
     - c-001
 
@@ -40,6 +45,11 @@ Nenurodyta
 - t-002
   global_id: t-185857
   teiginys: 'Šventaragiu vadinta vieta iki Jogailos laikų išsaugojo valdovų deginimo ir pelenų laidojimo pagoniškas apeigas.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pašalintas perteklinis autorinis įvadas ir sutvarkyta sakinio forma.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -47,6 +57,11 @@ Nenurodyta
 - t-003
   global_id: t-185858
   teiginys: 'Per valdovo laidotuves didikai ant laužo užkeldavo kario drabužiais aprengtą kūną, o šalia dėdavo jo ginklus, sakalus, šunis, tarną ir žirgą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs; citata leidžia suformuluoti pilną apeigų aprašą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; mentioned_object: [[objektai/daiktai/Laužas|Laužas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 
@@ -141,10 +156,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Germantas]]
-- [[objektai/daiktai/Drabužiai]]
-- [[objektai/daiktai/Laužas]]
-- [[objektai/asmenys/Šventaragis]]

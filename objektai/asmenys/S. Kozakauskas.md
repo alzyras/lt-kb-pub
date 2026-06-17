@@ -21,6 +21,7 @@ Kozakauskas, D. Kozakauskas ir dar keletas karininkų.
 - t-001
   global_id: t-40408
   teiginys: 'S. Kozakauskas gegužės 10-osios naktį pateko į paporučikio fon Gaso dalinio nelaisvę.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Rusija; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -28,9 +29,13 @@ Kozakauskas, D. Kozakauskas ir dar keletas karininkų.
 - t-002
   global_id: t-40409
   teiginys: 'S. Kozakauskas buvo paskirtas vienu iš batalionų vadų.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/M. Stanišauskas|M. Stanišauskas]]'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Antanas Mackevičius.md#claim-t-75699|Antanas Mackevičius]]: Antanui Mackevičiui pavyko suburti išsklaidytus sukilėlius ir išvesti juos pro Rusijos kariuomenės apsupimą į Vidurio Lietuvą.
+- susijęs iš [[objektai/asmenys/B. Kolyška.md#claim-t-40053|B. Kolyška]]: B. Kolyška kartu su Z. Sierakausku, S. Kozakausku ir keliais kitais karininkais pateko į nelaisvę.
+- susijęs iš [[objektai/asmenys/Zigmantas Sierakauskas.md#claim-t-64420|Zigmantas Sierakauskas]]: Zigmantas Sierakauskas pateko į nelaisvę, kai gegužės 10-osios naktį sukilėlius apsupo paporučikio fon Gaso dalinys.
+- susijęs iš [[objektai/asmenys/fon Gasas.md#claim-t-40560|fon Gasas]]: Gegužės 10-osios naktį paporučikio fon Gaso dalinys apsupo miegančius sukilėlius ir paėmė juos į nelaisvę.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -69,7 +74,3 @@ Kozakauskas, D. Kozakauskas ir dar keletas karininkų.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

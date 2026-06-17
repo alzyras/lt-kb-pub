@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Baltijos kryžius buvo teikiamas pasižymėjusiems vokiečių bermontininkams.
+p. 190, Baltijos kryžius, teiktas pasižymėjusiems bermontininkams - vokiečiams.
 
 ## Pavadinimai šaltiniuose
 
@@ -40,6 +40,8 @@ Nenurodyta
 - t-001
   global_id: t-40695
   teiginys: 'Baltijos kryžius buvo teikiamas pasižymėjusiems vokiečių bermontininkams.'
+  sudarymo_pagrindimas: 'Teiginys pilnas ir perteikia citatoje nurodytą paskirtį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bermontininkai|Bermontininkai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_place: Baltija'
   pagrindžia:
     - c-001
 
@@ -58,9 +60,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bermontininkai]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/daiktai/Kryžius]]

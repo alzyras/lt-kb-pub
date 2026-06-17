@@ -18,9 +18,14 @@ Kafos gyventojai, bijodami prie Juodosios jūros augančios turkų galybės, sum
 - t-001
   global_id: t-185450
   teiginys: 'Kafos gyventojai, bijodami prie Juodosios jūros augančios turkų galybės, sumanė samdyti įgulos karius krikščioniškose karalystėse.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pašalintas autorinis boilerplate ir OCR triukšmas; sakinys remiasi citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/algininkai|algininkai]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_place: Teodosija (Kafa)'
   pagrindžia:
     - c-001
-
+- susijęs iš Krymas: Kafos gyventojai pasisamdė penkis šimtus raitelių, kuriuos turėjo vestis į Krymą per Lietuvos žemes.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -45,9 +50,3 @@ Kafos gyventojai, bijodami prie Juodosios jūros augančios turkų galybės, sum
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/algininkai]]
-- [[objektai/zodynas/įgula]]
-- [[objektai/paprociai/Samdinių verbavimas krikščioniškose karalystėse įgulos tarnybai]]

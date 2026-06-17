@@ -18,6 +18,11 @@ Persekiotojai prie Prahos užklupo Dimitrą ir Elžbietą, nužudė beginklį ja
 - t-001
   global_id: t-186036
   teiginys: 'Persekiotojai prie Prahos užklupo Dimitrą ir Elžbietą, nužudė beginklį jaunikaitį, o Elžbietą sugrąžino motinai.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nusako įvykį su Elžbieta ir yra paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_place: Praha'
   pagrindžia:
     - c-001
 
@@ -41,8 +46,3 @@ Persekiotojai prie Prahos užklupo Dimitrą ir Elžbietą, nužudė beginklį ja
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Drabužiai]]
-- [[objektai/daiktai/Namas]]

@@ -26,6 +26,9 @@ amziai:
 - t-001
   global_id: t-31895
   teiginys: '„Prie lietuviškų spaudinių uždraudimo istorijos“ 1969 m. paskelbta BBK 7 tome, 223-235 puslapiuose.'
+  susije_objektai: 'mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1969 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

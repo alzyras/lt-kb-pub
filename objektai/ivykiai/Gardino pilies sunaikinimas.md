@@ -44,6 +44,12 @@ Nenurodyta
 - t-001
   global_id: t-62783
   teiginys: '1284 m. Ordino magistras su Skomantu patraukė prieš Gardino pilį, o broliai įsiveržė į ją ir sudegino.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Gardinas; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1284 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -51,6 +57,9 @@ Nenurodyta
 - t-002
   global_id: t-62784
   teiginys: 'Po Gardino pilies sudeginimo 1800 vyrų nusiaubė jos apylinkes ir grįžo su dideliu grobiu.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Sakinys sutrumpintas ir aiškiai susietas su Gardino pilies sunaikinimu.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_place: Gardinas; mentioned_place: Viena'
   pagrindžia:
     - c-002
     - c-003
@@ -106,8 +115,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Namas]]
-- [[objektai/zodynas/magistras]]

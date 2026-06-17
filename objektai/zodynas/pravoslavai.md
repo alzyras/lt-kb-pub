@@ -20,6 +20,9 @@ amziai:
 - t-001
   global_id: t-11775
   teiginys: 'Pravoslavai priklausė Konstantinopolio patriarchatui ir kadaise buvo valdomi Kijevo metropolito.'
+  sudarymo_pagrindimas: 'Reikia aiškiai įvardyti objektą ir pašalinti neapibrėžtą įvardį.'
+  susije_objektai: 'owner: Kijevas; owner: Konstantinopolis; owner: Lietuva; owner: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_place: Kijevas; mentioned_place: Konstantinopolis; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/zodynas/pravoslavai|pravoslavai]] priklausė [[objektai/grupes/Rusai|Rusai]]; [[objektai/zodynas/pravoslavai|pravoslavai]] priklausė Kijevas; [[objektai/zodynas/pravoslavai|pravoslavai]] priklausė Konstantinopolis; [[objektai/zodynas/pravoslavai|pravoslavai]] priklausė Lietuva'
   pagrindžia:
     - c-001
 
@@ -27,6 +30,8 @@ amziai:
 - t-002
   global_id: t-11776
   teiginys: 'Pravoslavų nepasitenkinimas paskatino Vytautą iškelti rytų ir vakarų bažnyčių unijos idėją.'
+  sudarymo_pagrindimas: 'Įvardytas objektas ir aiškiau suformuluotas citatos paremtas ryšys.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-002
 
@@ -34,9 +39,19 @@ amziai:
 - t-003
   global_id: t-11777
   teiginys: 'Pravoslavai yra vėlyvesnis graikų tikybos žmonių pavadinimas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_place: Kijevas; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Jurgis Cemblakas.md#claim-t-35173|Jurgis Cemblakas]]: Vytautas 1415 m. Naugarduke paskelbė Jurgį Cemblaką Kijevo metropolitu.
+- susijęs iš [[objektai/grupes/Bazilijonų ordinas.md#claim-t-178763|Bazilijonų ordinas]]: Bazilijonų ordinas daugiausia rūpinosi unitų mokymu ir Lietuvoje turėjo kelias dešimtis vienuolynų.
+- susijęs iš [[objektai/grupes/Bazilijonų ordinas.md#claim-t-178765|Bazilijonų ordinas]]: Mamoničių spaustuvė vėliau, matyt, atiteko bazilijonams.
+- susijęs iš [[objektai/grupes/Bazilijonų ordinas.md#claim-t-182884|Bazilijonų ordinas]]: Bazilijonų ordinas Lietuvoje turėjo kelias dešimtis vienuolynų ir daugiausia rūpinosi unitų mokymu.
+- susijęs iš [[objektai/grupes/Unitai.md#claim-t-182929|Unitai]]: Unitų bazilijonų vienuolynų buvo net Žemaičių Padubysyje, nors ten nebuvo nei pravoslavų, nei unitų.
+- susijęs iš [[objektai/grupes/Unitai.md#claim-t-45238|Unitai]]: Bajoriškoji santvarka leido šalia katalikų egzistuoti kalvinistų, liuteronų, stačiatikių, unitų ir kitoms etnokonfesinėms bendrijoms.
+- susijęs iš Zigmanto Kęstutaičio 1434 m. privilegija: Zigmanto Kęstutaičio 1434 m. privilegija sulygino civilines pravoslavų ir katalikų teises, bet pravoslavai valstybinių vietų negalėjo gauti.
+- susijęs iš Vilnius: Pirmasis Stepono Batoro atvykimas į Vilnių 1579 metų pavasarį buvo įsimintinas miestui.
+- susijęs iš Vilnius: Į Vilnių buvo pasiųsta daug Maskvos bajorų ir pravoslavų dvasininkų, turėjusių šnipinėti ir teikti žinias Maskvai.
+- susijęs iš Vilnius: Su kunigaikštiene Elena į Vilnių buvo pasiųsta Maskvos bajorų ir pravoslavų dvasininkų šnipinėti Maskvai.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -70,12 +85,7 @@ amziai:
     - t-002
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Rusai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/kunigaikštija]]
-- [[objektai/zodynas/unija]]
-- [[objektai/grupes/Bazilijonų ordinas]]
-- [[objektai/asmenys/Jurgis Cemblakas]]
-- [[objektai/grupes/Unitai]]
-- [[objektai/zodynas/metropolitas]]
+- pravoslavai priklause [[objektai/vietos/Kijevas]]
+- pravoslavai priklause [[objektai/vietos/Konstantinopolis]]
+- pravoslavai priklause [[objektai/vietos/Lietuva]]
+- pravoslavai priklause [[objektai/grupes/Rusai]]

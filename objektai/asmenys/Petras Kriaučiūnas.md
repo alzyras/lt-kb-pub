@@ -5,17 +5,18 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
+  - '1905 m.'
   - '1912 m.'
-date_start: '1912'
-date_end: ''
+date_start: '1905'
+date_end: '1912'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - asmuo
 amziai:
   - 'XX'
 periodo_grupes:
   - 'naujieji laikai'
-tags:
-  - asmuo
 ---
 # Petras Kriaučiūnas
 
@@ -24,10 +25,16 @@ tags:
 Iš jų išėjo tokie lietuvių veikėjai, kaip Jonas Užupys, Petras Kriaučiūnas ir visa eilė vėlesnių „Aušros", „Varpo" ir kitų laikraščių bendradarbią. Vienu metu Marijampolės gimnazijoje mokė net trys lietuviai mokytojai (Petras Kriaučiūnas, V.
 
 ## Teiginiai
+
 <a id="claim-t-75995"></a>
 - t-001
   global_id: t-75995
   teiginys: 'Petras Kriaučiūnas 1912 m. Vilniuje dalyvavo Lietuvių mokslo draugijos suvažiavime.'
+  sudarymo_pagrindimas: 'Pradinis teiginys yra nutrūkusi nuotraukos antraštė su pertekliniais vardais.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Liudvika Didžiulienė-Žmona|Liudvika Didžiulienė-Žmona]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1905 m.; įvykio data: 1912 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys yra nutrūkusi nuotraukos antraštė su pertekliniais vardais.'
   pagrindžia:
     - c-003
 
@@ -35,20 +42,53 @@ Iš jų išėjo tokie lietuvių veikėjai, kaip Jonas Užupys, Petras Kriaučiū
 - t-002
   global_id: t-75996
   teiginys: 'Petras Kriaučiūnas buvo vienas iš lietuvių veikėjų, išėjusių iš tautiškoje dvasioje augusių mokinių.'
+  sudarymo_pagrindimas: 'Sutvarkytos kabutės ir suformuluotas pilnas teiginys apie asmenį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]'
   pagrindžia:
-    - c-005
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+    - c-002
+
 <a id="claim-t-75997"></a>
 - t-003
   global_id: t-75997
   teiginys: 'Petras Kriaučiūnas vienu metu mokė Marijampolės gimnazijoje kartu su V. Staniškiu ir J. Jasiulaičiu.'
+  sudarymo_pagrindimas: 'Išplėstas nutrūkęs sąrašas ir pašalintas dangling inicialas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Marijampolė'
   pagrindžia:
-    - c-004
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+    - c-001
 
 ## Reikšmingi paminėjimai
+
+- c-001
+  santrauka: 'Petras Kriaučiūnas vienu metu mokė Marijampolės gimnazijoje kartu su V. Staniškiu ir J. Jasiulaičiu.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Bet ir čia
+    buvo stengiamasi primesti lietuviams rusiškąsias raides. Moky-
+    tojais čia galėjo būti ir lietuviai. Vienu metu Marijampolės
+    gimnazijoje mokė net trys lietuviai mokytojai (Petras Kriau-
+    čiūnas, V. Staniškis ir J. Jasiulaitis).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
+
+- c-002
+  santrauka: 'Petras Kriaučiūnas buvo vienas iš lietuvių veikėjų, išėjusių iš tautiškoje dvasioje augusių mokinių.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Čia net buvo mokoma lie-
+    tuvių kalbos, o mokytojais galėjo būti ir lietuviai. Todėl jau mo-
+    kyklose susipažinę su lietuvių kalba ir dažnai lietuvių mokytojų
+    paraginami, mokiniai augo tautiškoje dvasioje. Iš jų išėjo tokie
+    lietuvių veikėjai, kaip Jonas Užupys, Petras Kriaučiūnas ir visa
+    eilė vėlesnių „Aušros", „Varpo" ir kitų laikraščių bendradarbią.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
 - c-003
   santrauka: 'Petras Kriaučiūnas 1912 m. Vilniuje dalyvavo Lietuvių mokslo draugijos suvažiavime.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -73,47 +113,3 @@ Iš jų išėjo tokie lietuvių veikėjai, kaip Jonas Užupys, Petras Kriaučiū
   statusas: verified
   pagrindžia:
     - t-001
-- c-004
-  santrauka: 'Petras Kriaučiūnas vienu metu mokė Marijampolės gimnazijoje kartu su V. Staniškiu ir J. Jasiulaičiu.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Bet ir čia
-    buvo stengiamasi primesti lietuviams rusiškąsias raides. Moky-
-    tojais čia galėjo būti ir lietuviai. Vienu metu Marijampolės
-    gimnazijoje mokė net trys lietuviai mokytojai (Petras Kriau-
-    čiūnas, V. Staniškis ir J. Jasiulaitis).
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-003
-- c-005
-  santrauka: 'Petras Kriaučiūnas buvo vienas iš lietuvių veikėjų, išėjusių iš tautiškoje dvasioje augusių mokinių.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Čia net buvo mokoma lie-
-    tuvių kalbos, o mokytojais galėjo būti ir lietuviai. Todėl jau mo-
-    kyklose susipažinę su lietuvių kalba ir dažnai lietuvių mokytojų
-    paraginami, mokiniai augo tautiškoje dvasioje. Iš jų išėjo tokie
-    lietuvių veikėjai, kaip Jonas Užupys, Petras Kriaučiūnas ir visa
-    eilė vėlesnių „Aušros", „Varpo" ir kitų laikraščių bendradarbią.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Jonas]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Liudvika Didžiulienė-Žmona]]
-- [[objektai/daiktai/A. Jurašaičio nuotrauka „Lietuvių mokslo draugijos suvažiavimo dalyviai Vilniuje 1912 m.“]]
-- [[objektai/asmenys/Jonas Basanavičius]]
-- [[objektai/asmenys/Jonas Jablonskis]]
-- [[objektai/asmenys/Julija Žymantienė-Žemaitė]]

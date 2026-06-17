@@ -27,9 +27,14 @@ Trečiasis buvo nuo Simno kilęs Ignas Jonynas, kuris 1905 m. porai metų istori
 - t-001
   global_id: t-32183
   teiginys: 'Ignas Jonynas 1905 m. išvyko į Grenoblį porai metų studijuoti istorijos.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
+  susije_objektai: 'mentioned_place: Prancūzija; mentioned_place: Simnas'
+  temporaliniai_duomenys: 'įvykio data: 1905 m.; įvykio data: 1911 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/autoriai/Simono Grunau.md#claim-t-30981|Simono Grunau]]: Simonas Grunau rodyklėje nurodytas kaip kronikininkas.
 ## Reikšmingi paminėjimai
 
 - c-001

@@ -28,6 +28,9 @@ amziai:
 - t-001
   global_id: t-32018
   teiginys: '„Zbiór praw litewskich“ išleistas Poznanėje 1841 m.; cituojami leidinio p. 1–2.'
+  susije_objektai: 'mentioned_place: Poznanė'
+  temporaliniai_duomenys: 'įvykio data: 1841 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

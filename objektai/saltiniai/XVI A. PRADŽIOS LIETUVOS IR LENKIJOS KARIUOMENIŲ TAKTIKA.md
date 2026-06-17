@@ -27,6 +27,8 @@ PRADŽIOS LIETUVOS IR LENKIJOS KARIUOMENIŲ TAKTIKA“, Andžej Geglis, dail.
 - t-001
   global_id: t-39968
   teiginys: 'Andžejus Geglis sukūrė iliustraciją „XVI a. pradžios Lietuvos ir Lenkijos kariuomenių taktika“.'
+  sudarymo_pagrindimas: 'Citata nurodo kūrinio pavadinimą ir dailininką.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/Andžej Geglis|Andžej Geglis]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

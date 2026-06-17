@@ -21,6 +21,8 @@ LIETUVOS DIDŽIOJI KUNIGAIKŠTIJA KELYJE VAKARŲ LINK V ytautui valdant buvo pad
 - t-001
   global_id: t-26351
   teiginys: 'Vytautui valdant buvo padėtas pagrindas Lietuvos visuomenės artėjimui prie Vidurio Europos, vadinamam „civilizaciniu šuoliu“.'
+  sudarymo_pagrindimas: 'Pašalintas antraštės ir OCR triukšmas, išlaikyta citatos remiama mintis.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos Didžioji Kunigaikštija|Lietuvos Didžioji Kunigaikštija]]; mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_object: [[objektai/posakiai/„Koks didelis Tu ir kokia didelė Tavo tėvynė.“|„Koks didelis Tu ir kokia didelė Tavo tėvynė.“]]; mentioned_place: Europa; mentioned_place: Italija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vokietija'
   pagrindžia:
     - c-001
 
@@ -53,9 +55,3 @@ LIETUVOS DIDŽIOJI KUNIGAIKŠTIJA KELYJE VAKARŲ LINK V ytautui valdant buvo pad
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]
-- [[objektai/zodynas/kunigaikštija]]
-- [[objektai/posakiai/„Koks didelis Tu ir kokia didelė Tavo tėvynė.“]]

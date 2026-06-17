@@ -23,9 +23,12 @@ Mager veikalas^16 °, o apie I pasaulinį karą W.
 - t-001
   global_id: t-30616
   teiginys: 'Fr. Magerio veikalas laikytas įdomiu Lietuvos žilai senovei tyrinėti.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/autoriai/Fr. Benninghoven|Fr. Benninghoven]]; mentioned_person: [[objektai/autoriai/W. Conze|W. Conze]]; mentioned_place: Europa; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/autoriai/F. Gause.md#claim-t-30608|F. Gause]]: F. Gause yra trijų tomų veikalo „Die Geschichte Königsbergs“ autorius.
+- susijęs iš [[objektai/autoriai/Fr. Benninghoven.md#claim-t-30615|Fr. Benninghoven]]: Fr. Benninghovenas parašė studiją apie Kalavijuočių ordiną.
+- susijęs iš [[objektai/autoriai/W. Conze.md#claim-t-31059|W. Conze]]: W. Conze rašė apie I pasaulinį karą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -43,9 +46,3 @@ Mager veikalas^16 °, o apie I pasaulinį karą W.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kalavijuočių ordinas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lenkai]]

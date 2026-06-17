@@ -38,6 +38,9 @@ Nenurodyta
 - t-001
   global_id: t-62483
   teiginys: 'Antrosios atskalūnybės metais broliai sudegino Spitenbergo pilį Pamedės žemėje ir pasitraukė su savo ginklanešiais.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Citata palaiko aiškų faktą apie pilies palikimą, o pradinis teiginys turi antraštės ir OCR triukšmo.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_place: Pamedė; mentioned_place: Prūsai; mentioned_place: Spitenbergas'
   pagrindžia:
     - c-001
 
@@ -63,8 +66,3 @@ Nenurodyta
   pagrindžia:
     - t-001
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/ginklanešiai]]
-- [[objektai/paprociai/Pilies sudeginimas pasitraukiant dėl nebeišlaikomos gynybos|Pilies sudeginimas pasitraukiant dėl nebeišlaikomos gynybos (pilis)]]

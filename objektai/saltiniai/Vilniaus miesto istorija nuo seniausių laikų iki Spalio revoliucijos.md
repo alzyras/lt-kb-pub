@@ -27,6 +27,11 @@ amziai:
 - t-001
   global_id: t-88348
   teiginys: '„Vilniaus miesto istorija nuo seniausių laikų iki Spalio revoliucijos“ buvo išleista Vilniuje 1968 m.'
+  sudarymo_pagrindimas: 'Bibliografinė citata pagrindžia leidinio vietą ir metus.'
+  susije_objektai: 'mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1968 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Bibliografinė citata pagrindžia leidinio vietą ir metus.'
   pagrindžia:
     - c-001
 
@@ -34,6 +39,11 @@ amziai:
 - t-002
   global_id: t-88349
   teiginys: '1968 m. „Vilniaus miesto istorijos“ autoriai J. I. Kraševskio ir M. Balinskio darbus laikė senosios Vilniaus istoriografijos pagrindu.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūksta ties inicialu, bet citata leidžia suformuluoti pilną faktinį sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/autoriai/Kraševskis|Kraševskis]]; mentioned_person: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1968 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūksta ties inicialu, bet citata leidžia suformuluoti pilną faktinį sakinį.'
   pagrindžia:
     - c-002
 

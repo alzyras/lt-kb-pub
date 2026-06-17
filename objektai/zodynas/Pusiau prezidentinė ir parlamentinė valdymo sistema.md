@@ -21,6 +21,8 @@ Lietuvoje pasirinkta visos tautos renkamo prezidento institucija, tad Lietuva yr
 - t-001
   global_id: t-22020
   teiginys: 'Lietuvoje pasirinkta visos tautos renkamo prezidento institucija, bet valdymo sistema liko labiau orientuota į parlamentinį valdymą.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/zodynas/Suverenitetas|Suverenitetas]]; mentioned_object: [[objektai/zodynas/konstitucijos|konstitucijos]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -47,9 +49,3 @@ Lietuvoje pasirinkta visos tautos renkamo prezidento institucija, tad Lietuva yr
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/zodynas/Suverenitetas]]
-- [[objektai/zodynas/konstitucijos]]

@@ -3,10 +3,6 @@ tipas: asmuo
 pavadinimas: 'Imperatorius Vaclovas'
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-aliases:
-  - 'objektai/asmenys/imperatorius Vaclovas'
-variantai:
-  - 'imperatorius Vaclovas'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -27,6 +23,8 @@ Prancū­ zai priėmė tą kvietimą į dvikovą: Prahą - kautynių vieta, o im
 - t-001
   global_id: t-87516
   teiginys: 'Prancūzai pasirinko Prahą dvikovos vieta, o imperatorių Vaclovą - abiejų tautų teisėju.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nusako Vaclovo pasirinktą vaidmenį ir yra paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_place: Praha'
   pagrindžia:
     - c-001
 
@@ -50,9 +48,3 @@ Prancū­ zai priėmė tą kvietimą į dvikovą: Prahą - kautynių vieta, o im
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Prancūzai]]
-- [[objektai/zodynas/įgula]]

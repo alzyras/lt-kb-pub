@@ -17,7 +17,7 @@ amziai:
 
 ## Santrauka
 
-Lietuvos Respublikos Konstitucija numato Tautos ir kiekvieno piliečio teisę priešintis prievartiniam kėsinimuisi į valstybės nepriklausomybę. Konstitucinė teisė priešintis numato, kad Tauta ir kiekvienas pilietis gali priešintis kėsinimuisi į Lietuvos valstybės nepriklausomybę. Tautos suvereniteto negalima varžyti ar riboti.
+Lietuvos Respublikos Konstitucijos 3 straipsnis suteikia tautai ir kiekvienam piliečiui teisę priešintis prievarta kėsinantis į valstybės nepriklausomybę. Ta pati norma saugo teritorijos vientisumą ir konstitucinę santvarką.
 
 ## Laikotarpis ir datos
 
@@ -45,6 +45,8 @@ Nenurodyta
 - t-001
   global_id: t-41421
   teiginys: 'Lietuvos Respublikos Konstitucija numato Tautos ir kiekvieno piliečio teisę priešintis prievartiniam kėsinimuisi į valstybės nepriklausomybę.'
+  sudarymo_pagrindimas: 'Citata geriau palaiko teiginį apie konstitucinę teisę priešintis, o ne vien suvereniteto nevaržymą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -52,6 +54,8 @@ Nenurodyta
 - t-002
   global_id: t-41423
   teiginys: 'Konstitucinė teisė priešintis numato, kad Tauta ir kiekvienas pilietis gali priešintis kėsinimuisi į Lietuvos valstybės nepriklausomybę.'
+  sudarymo_pagrindimas: 'Pašalinta nepagrįsta nuoroda į 3 straipsnį ir išlaikyta citatos esmė.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -59,6 +63,7 @@ Nenurodyta
 - t-003
   global_id: t-41424
   teiginys: 'Tautos suvereniteto negalima varžyti ar riboti.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/zodynas/Suverenitetas|Suverenitetas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -87,8 +92,3 @@ Nenurodyta
     - t-001
     - t-002
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/zodynas/Suverenitetas]]

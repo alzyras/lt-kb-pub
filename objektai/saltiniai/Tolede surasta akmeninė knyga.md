@@ -27,6 +27,11 @@ Dusburgietis teigia, kad apie tai, kaip Tolede buvo surasta akmenyje [iškalta] 
 - t-001
   global_id: t-61318
   teiginys: 'Pasak Dusburgiečio kronikos, 1232 m. Tolede žydas rado akmenyje iškaltą knygą hebrajų, graikų ir lotynų kalbomis.'
+  sudarymo_pagrindimas: 'Teiginys per ilgas ir negramatiškas, bet citata remia aiškų faktą apie legendinį radinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_person: [[objektai/asmenys/Adomas (auksakalys)|Adomas (auksakalys)]]; mentioned_place: Toledas'
+  temporaliniai_duomenys: 'įvykio data: 1232 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys per ilgas ir negramatiškas, bet citata remia aiškų faktą apie legendinį radinį.'
   pagrindžia:
     - c-001
 

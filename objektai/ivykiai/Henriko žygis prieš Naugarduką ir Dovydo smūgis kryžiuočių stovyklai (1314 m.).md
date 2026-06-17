@@ -36,6 +36,14 @@ Nenurodyta
 - t-001
   global_id: t-185520
   teiginys: 'Penki lietuvių kariai naktį prasigavo pro kryžiuočių sargybas, nužudė kelis priešus, paėmė grobio ir sveiki grįžo pas savuosius.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pašalintas puslapio ir antraštės triukšmas, paliktas aiškiai paremtas faktas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Surminas|Surminas]]; mentioned_place: Arsa'
+  temporaliniai_duomenys: 'įvykio data: 1314 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas puslapio ir antraštės triukšmas, paliktas aiškiai paremtas faktas.'
   pagrindžia:
     - c-001
 
@@ -43,6 +51,11 @@ Nenurodyta
 - t-002
   global_id: t-185521
   teiginys: 'Kryžiuočiai per žygį kentė maisto stoką, nes neseniai nusiaubtuose kaimuose nerado kuo numalšinti alkio.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys gramatiškai sutvarkytas ir padarytas savarankiškas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]'
   pagrindžia:
     - c-002
 
@@ -102,11 +115,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Surminas]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Henrikas fon Plockė]]

@@ -20,6 +20,8 @@ Atšilimo laikotarpiu Lietuvoje pagal sovietinį modelį vykstant sparčiai indu
 - t-001
   global_id: t-21457
   teiginys: 'Septintąjį–aštuntąjį dešimtmetį Jonavos azotinių trąšų gamykla buvo pastatyta vykstant sparčiai Lietuvos industrializacijai.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Jonavos azotinių trąšų gamyklos pastatymo kontekstą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/atšilimas|atšilimas]]; mentioned_place: Ignalinos atominė elektrinė; mentioned_place: Jonava; mentioned_place: Lietuva; mentioned_place: Mažeikiai'
   pagrindžia:
     - c-001
 

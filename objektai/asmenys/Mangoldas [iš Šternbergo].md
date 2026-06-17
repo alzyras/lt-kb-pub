@@ -30,6 +30,8 @@ Dusburgietis teigia, kad apie brolį Mangoldą, Prūsijos magistrą 1280 viešpa
 - t-001
   global_id: t-60169
   teiginys: 'Mangoldas iš Šternbergo vasario 2 d. su visa kariuomene įsiveržė į Sūduvos Kresmenos valsčių ir jį niokojo degindamas bei grobdamas.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, bet citata patvirtina konkretų Mangoldo veiksmą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_place: Kresmena; mentioned_place: Sūduva'
   pagrindžia:
     - c-002
 
@@ -37,6 +39,8 @@ Dusburgietis teigia, kad apie brolį Mangoldą, Prūsijos magistrą 1280 viešpa
 - t-002
   global_id: t-60170
   teiginys: 'Mangoldas iš Šternbergo buvo vienuoliktasis Prūsijos magistras ir vadovavo Prūsijos žemei beveik dvejus metus.'
+  sudarymo_pagrindimas: 'Citata leidžia suformuluoti glaustą sakinį be antraštės ir šaltinio boilerplate.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
 
@@ -76,11 +80,3 @@ Dusburgietis teigia, kad apie brolį Mangoldą, Prūsijos magistrą 1280 viešpa
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Namas]]
-- [[objektai/grupes/Teutonai]]
-- [[objektai/zodynas/komtūras]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/grabnyčių diena]]

@@ -33,6 +33,11 @@ Nenurodyta
 - t-001
   global_id: t-185879
   teiginys: 'Po pergalės Ostrogiškis stovykloje surengė kareiviškas pamaldas, padėkojo Dievui ir išsiuntė karaliui 380 žymiausių belaisvių bajorų.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Sakinys sutrumpintas ir išvalytas nuo perteklinių detalių.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_place: Maskva; mentioned_place: Smolenskas'
   pagrindžia:
     - c-001
 
@@ -40,6 +45,11 @@ Nenurodyta
 - t-002
   global_id: t-185880
   teiginys: 'Po pergalės karalius ir karalienė Vilniuje per iškilmingas mišias padėkojo Dievui.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata aiškiau pagrindžia padėkos pamaldas per mišias, o ne vien Ostrogiškio vienuolyno fundaciją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/žygūnai|žygūnai]]; mentioned_place: Maskva; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -91,11 +101,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Maskvėnai]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/zodynas/žygūnai]]
-- [[objektai/grupes/Bajorai]]
-- [[objektai/asmenys/Konstantinas Ostrogiškis]]

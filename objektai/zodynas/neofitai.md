@@ -6,6 +6,7 @@ saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1435 m.'
+  - '1469 m.'
   - '1492 m.'
 date_start: '1435'
 date_end: '1492'
@@ -31,6 +32,8 @@ Lie­ tuvoje bažnyčia vos tik prigijusi, žmonės katalikiškumu dar nepersiė
 - t-001
   global_id: t-113657
   teiginys: 'Lietuvoje žmonės buvo neofitai daugiau iš reikalo negu iš įsitikinimo.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_place: Europa; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -38,9 +41,23 @@ Lie­ tuvoje bažnyčia vos tik prigijusi, žmonės katalikiškumu dar nepersiė
 - t-002
   global_id: t-113658
   teiginys: '1469 m. į Vilnių buvo pakviestas bernardinų ordinas, kad neofitai įsitvirtintų krikščionių tikėjime.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai ir tiksliai perteikia citatos faktą apie bernardinų pakvietimo tikslą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Karališkasis malūnas Vilniuje; mentioned_place: Lietuva; mentioned_place: Pskovas; mentioned_place: Vilniaus monetų kalykla; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 900 m; įvykio data: 1469 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai ir tiksliai perteikia citatos faktą apie bernardinų pakvietimo tikslą.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Bernardas (Jachnos sūnus).md#claim-t-87632|Bernardas (Jachnos sūnus)]]: 1491 m. dokumente Jachnos sūnus Bernardas vadinamas magistru Bernardu, pono Jachnos sūnumi.
+- susijęs iš [[objektai/asmenys/Jachna Laurinavičius.md#claim-t-87599|Jachna Laurinavičius]]: Jachna Laurinavičius jau 1435 metais buvo Vilniaus vaitas ir 1492 metais dar ėjo šias pareigas.
+- susijęs iš [[objektai/asmenys/Mikalojus Laurinavičius.md#claim-t-87786|Mikalojus Laurinavičius]]: Mikalojus Laurinavičius, Jachnos brolis, ilgai buvo burmistras.
+- susijęs iš [[objektai/grupes/Bernardinų ordinas.md#claim-t-181538|Bernardinų ordinas]]: 1469 metais į Vilnių pakviestam Bernardinų ordinui bažnyčiai ir vienuolynui statyti buvo atiduotas slėnis palei Vilnią prie Karališkojo malūno.
+- susijęs iš [[objektai/paprociai/Bernardinų kvietimas neofitams įtvirtinti ir religinė Vilniaus fundacija.md#claim-t-87263|Bernardinų kvietimas neofitams įtvirtinti ir religinė Vilniaus fundacija]]: 1469 m. karaliaus pavedimu į Vilnių pakviestiems bernardinams bažnyčiai ir vienuolynui statyti buvo atiduotas slėnis prie Vilnios.
+- susijęs iš Karališkasis malūnas Vilniuje (sujungti pirminiai pavadinimai Karališkasis malūnas; Karališkasis malūnas Vilniuje): Bernardinams Vilniuje buvo atiduotas slėnis su namais ir pieva palei Vilnią prie Karališkojo malūno.
+- susijęs iš Karališkasis malūnas: 1469 m. bernardinams Vilniuje buvo atiduotas platus slėnis palei Vilnios upę prie Karališkojo malūno.
+- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): 1469 metais bernardinams bažnyčiai ir vienuolynui statyti buvo atiduotas slėnis, nusidriekęs palei Vilnios upę prie Karališkojo malūno.
+- susijęs iš Vilnia: 1469 metais bernardinams bažnyčiai ir vienuolynui statyti buvo atiduotas slėnis, nusidriekęs palei Vilnios upę prie Karališkojo malūno.
+- susijęs iš [[objektai/zodynas/neofitas.md#claim-t-179584|neofitas]]: Lietuvos katalikai buvo laikomi neofitais, nes į tikėjimą žiūrėjo šalčiau ir labiau iš reikalo negu iš įsitikinimo.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -111,15 +128,3 @@ Lie­ tuvoje bažnyčia vos tik prigijusi, žmonės katalikiškumu dar nepersiė
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/neofitas]]
-- [[objektai/daiktai/Malūnas]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/zodynas/vaivada]]
-- [[objektai/asmenys/Bernardas (Jachnos sūnus)]]
-- [[objektai/paprociai/Bernardinų kvietimas neofitams įtvirtinti ir religinė Vilniaus fundacija]]
-- [[objektai/grupes/Bernardinų ordinas]]
-- [[objektai/asmenys/Jachna Laurinavičius]]
-- [[objektai/asmenys/Mikalojus Laurinavičius]]

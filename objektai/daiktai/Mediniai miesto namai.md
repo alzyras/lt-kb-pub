@@ -49,6 +49,8 @@ Nenurodyta
 - t-001
   global_id: t-87084
   teiginys: 'Mūšio metu į medinius Vilniaus namus mestas deglas sukėlė gaisrą, per kurį sudegė didelė miesto dalis.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys ir atitinka citatos turinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Deglas|Deglas]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Ragainė; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -76,11 +78,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Deglas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Skirgaila]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/vėliava]]

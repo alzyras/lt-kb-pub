@@ -20,6 +20,8 @@ Vikingai naudojo visas didžiąsias upes rytų Pabaltijo, kuris kartą yra pavad
 - t-001
   global_id: t-31913
   teiginys: '„Saga Olafs konungs Tryggvasonar“ rytų Pabaltijį kartą pavadina senuoju terminu „Eistr“.'
+  sudarymo_pagrindimas: 'Reikia sutvarkyti pavadinimo žymėjimą, bet faktas tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Normanai|Normanai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vikingai|Vikingai]]; mentioned_person: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_place: Dniepras; mentioned_place: Nemunas'
   pagrindžia:
     - c-001
 

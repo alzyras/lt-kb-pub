@@ -18,6 +18,11 @@ Gandui apie pralaimėjimą pasiekus Krokuvą, Lešekas sutelkė bajorus ir su tu
 - t-001
   global_id: t-186061
   teiginys: 'Gandui apie pralaimėjimą pasiekus Krokuvą, Lešekas sutelkė bajorus ir su turimais didikais leidosi persekioti priešą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys pagrįstas, bet pradinė forma nutrūkusi ir turi OCR klaidų.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/posakiai/Ugnimi ir kalaviju|Ugnimi ir kalaviju]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Krokuva'
   pagrindžia:
     - c-001
 
@@ -25,9 +30,19 @@ Gandui apie pralaimėjimą pasiekus Krokuvą, Lešekas sutelkė bajorus ir su tu
 - t-002
   global_id: t-186062
   teiginys: 'Lešekas prieš puolančius lietuvius pasiuntė Krokuvos vaivadą Žegotą su prityrusių karių pulku ir rūmų raiteliais.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata palaiko aiškų faktą, o pradinė formuluotė per ilga ir nutrūkusi.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Žegota|Žegota]]; mentioned_place: Krokuva'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/asmenys/Leonas.md#claim-t-186010|Leonas]]: Leonas pirmose pozicijose išrikiavo rusus, o lietuvius ir skitus pastatė užnugaryje kaip žiūrovus.
+- susijęs iš [[objektai/asmenys/Lešekas Juodasis.md#claim-t-87765|Lešekas Juodasis]]: Lešekas Juodasis Krokuvai suteikė svarbias privilegijas ir sustiprino miestą geriausiomis mūro sienomis.
+- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-184521|Lenkai]]: Lešekas teigė, kad ginkluoti lenkai turės ne kovoti su bėgančiais priešais, o juos žudyti.
+- susijęs iš [[objektai/ivykiai/Kersovo antpuolis ir Lešeko kontrataka.md#claim-t-62312|Kersovo antpuolis ir Lešeko kontrataka]]: Aštuoni šimtai Lietuvos raitelių nuniokojo 10 Kersovo kaimų, o Krokuvos kunigaikštis Lešekas kontratakoje beveik visus juos sunaikino.
+- susijęs iš [[objektai/ivykiai/Lietuvių žygis į Sembą Prūsijoje.md#claim-t-185814|Lietuvių žygis į Sembą Prūsijoje]]: Į Sembą įsiveržusi aštuonių tūkstančių lietuvių raitija nusiaubė kaimus, išžudė jų gyventojus ir išsivarė grobį.
+- susijęs iš Narevas: Lietuviai, prieš kelias dienas perkėlę grobį ir kariuomenę per Narevą, pasislėpė miško tankmėje.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -94,13 +109,8 @@ Gandui apie pralaimėjimą pasiekus Krokuvą, Lešekas sutelkė bajorus ir su tu
     - t-002
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bajorai]]
-- [[objektai/daiktai/Kalavijas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/posakiai/Ugnimi ir kalaviju]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/ivykiai/Lietuvių žygis į Sembą Prūsijoje]]
-- [[objektai/zodynas/vaivada]]
-- [[objektai/ivykiai/Kersovo antpuolis ir Lešeko kontrataka]]
-- [[objektai/grupes/Lenkai]]
+- Lešekas buvo_valdovas [[objektai/vietos/Kersovas]]
+- Lešekas buvo_valdovas [[objektai/vietos/Krokuva]]
+- Lešekas buvo_valdovas [[objektai/vietos/Lenkija]]
+- Lešekas buvo_valdovas [[objektai/vietos/Lietuva]]
+- Lešekas buvo_valdovas [[objektai/vietos/Viena]]

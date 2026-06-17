@@ -26,6 +26,11 @@ Dusburgietis teigia, kad apie ketvirtąją atskalūnybę ir apie tai, kaip už j
 - t-001
   global_id: t-59083
   teiginys: '1286 m. Sembos fogtas Ditrichas, sužinojęs apie naują prūsų sąmokslą prieš brolius, galėjo kartoti Jobo žodžius: „Atėjo baisenybė, kurios bijojau“.'
+  sudarymo_pagrindimas: 'Posakio vartojimui reikia autorinės atribucijos ir aiškaus konteksto, kurį citata remia.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_object: [[objektai/zodynas/fogtas|fogtas]]; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Semba'
+  temporaliniai_duomenys: 'įvykio data: 1286 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Posakio vartojimui reikia autorinės atribucijos ir aiškaus konteksto, kurį citata remia.'
   pagrindžia:
     - c-001
 
@@ -49,9 +54,3 @@ Dusburgietis teigia, kad apie ketvirtąją atskalūnybę ir apie tai, kaip už j
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Pagudėnai]]
-- [[objektai/zodynas/fogtas]]
-- [[objektai/asmenys/Ditrichas (Sembos fogtas)]]

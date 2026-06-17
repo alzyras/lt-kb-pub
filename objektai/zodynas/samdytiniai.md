@@ -18,9 +18,17 @@ Kauno pilį ir miestą gynė stambios lietuvių bei lenkų samdytinių įgulos.
 - t-001
   global_id: t-185412
   teiginys: 'Kauno pilį ir miestą gynė stambios lietuvių bei lenkų samdytinių įgulos.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_place: Kaunas; mentioned_place: Nemunas'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-184747|Jurgis Radvila (vyskupas, XVI a.)]]: Jurgis Radvila metė prieš Čeliadniną lengvąją kavaleriją.
+- susijęs iš [[objektai/ivykiai/Nesėkmingas Kauno puolimas ir trijų pilių pastatymas Nemuno salose (1391 m. žiema).md#claim-t-185626|Nesėkmingas Kauno puolimas ir trijų pilių pastatymas Nemuno salose (1391 m. žiema)]]: Žiemą Vytautas miškais tyliai priėjo prie Kauno ir netikėtai pasirodė su kariuomene prie pylimo.
+- susijęs iš Kaunas: Žiemą Vytautas tylomis miškais priėjo prie Kauno, tikėdamasis užimti miestą ir pilį Neries bei Nemuno santakoje.
+- susijęs iš Kaunas: Dėl stiprių lietuvių ir lenkų samdytinių įgulų Vytautui Kauną apsiausti buvo sunkiau, nei jis tikėjosi.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -49,11 +57,3 @@ Kauno pilį ir miestą gynė stambios lietuvių bei lenkų samdytinių įgulos.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Jurgis Radvila|Jurgis Radvila (vyskupas, XVI a.)]]
-- [[objektai/ivykiai/Nesėkmingas Kauno puolimas ir trijų pilių pastatymas Nemuno salose (1391 m. žiema)]]
-- [[objektai/zodynas/įgula]]

@@ -23,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-Regesta historico-diplomatica Ordinis Nr. 4 siejamas su 1211 m. Andriaus II kryžiuočiams suteikta vieta Transilvanijos Burcos žemėje. 1235 m. Dobrynės ordinas susijungė su kryžiuočiais.
+Dusburgietis teigia, kad joje Vengrijos karalius Andrius 11 1211 m. buvo įkurdinęs kryžiuočius (Regesta historico-diplomatica Ordinis..., Nr. 4), norėdamas, kad šie gintų kraštą nuo polovcų (kumanų). Dusburgietis teigia, kad pirmosios žinios apie Dobrynės ordiną išliko 1228 m. dokumentuose, todėl istoriografijoje šie metai pateikiami kaip Ordino įkūrimo data (CDP, Nr. 19—21; Regesta historico-diplomatica Ordinis..., Nr. 38—40; Benninghoven F. Dusburgietis teigia, kad 1235 m. Dobrynės ordinas susijungė su kryžiuočiais.
 
 ## Teiginiai
 
@@ -31,6 +31,11 @@ Regesta historico-diplomatica Ordinis Nr. 4 siejamas su 1211 m. Andriaus II kry�
 - t-001
   global_id: t-60962
   teiginys: 'Regesta historico-diplomatica Ordinis Nr. 4 siejamas su 1211 m. Andriaus II kryžiuočiams suteikta vieta Transilvanijos Burcos žemėje.'
+  sudarymo_pagrindimas: 'Pašalintas netinkamas autorinis boilerplate ir suformuluotas tik citatos palaikomas faktas apie šaltinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Burcos žemė; mentioned_place: Transilvanija; mentioned_place: Vengrija'
+  temporaliniai_duomenys: 'įvykio data: 1211 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas netinkamas autorinis boilerplate ir suformuluotas tik citatos palaikomas faktas apie šaltinį.'
   pagrindžia:
     - c-002
 
@@ -38,6 +43,11 @@ Regesta historico-diplomatica Ordinis Nr. 4 siejamas su 1211 m. Andriaus II kry�
 - t-002
   global_id: t-60963
   teiginys: '1235 m. Dobrynės ordinas susijungė su kryžiuočiais.'
+  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Dobrynė; mentioned_place: Prūsija'
+  temporaliniai_duomenys: 'įvykio data: 1235 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'claim_quality_pipeline deterministic repair'
   pagrindžia:
     - c-001
 

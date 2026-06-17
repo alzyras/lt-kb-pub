@@ -29,6 +29,9 @@ Dąbrowski : Rozbiór krytyczny Anna ­ lium Poloniae Jana Długosza z lat 1385-
 - t-001
   global_id: t-31719
   teiginys: 'J. Dąbrowskio „Rozbiór krytyczny Annalium Poloniae Jana Długosza z lat 1385–1444“ I tomas išleistas Vroclave, Varšuvoje ir Krokuvoje 1961 m.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Krokuva; mentioned_place: Varšuva'
+  temporaliniai_duomenys: 'įvykio data: 1961 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

@@ -3,10 +3,17 @@ tipas: saltinis
 pavadinimas: 'Z. Ivinskis, Küchmeister Michael'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+datos:
+  - '1420 m.'
+  - '1422 m.'
+date_start: '1420'
+date_end: '1422'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XV'
 ---
 # Z. Ivinskis, Küchmeister Michael
 
@@ -20,6 +27,9 @@ tags:
 - t-001
   global_id: t-32007
   teiginys: 'Tekstas „Küchmeister Michael“ nurodytas LE 13 tome, 265–266 puslapiuose.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Soldau'
+  temporaliniai_duomenys: 'įvykio data: 1420-1422; įvykio data: 1422 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

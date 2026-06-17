@@ -20,6 +20,7 @@ Radavičius, A.
 - t-001
   global_id: t-40163
   teiginys: 'J. Radavičius buvo paskirtas vienu iš batalionų vadų.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/M. Stanišauskas|M. Stanišauskas]]'
   pagrindžia:
     - c-001
 

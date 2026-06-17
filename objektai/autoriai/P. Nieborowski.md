@@ -30,9 +30,10 @@ Nieborowski, P.
 - t-001
   global_id: t-30907
   teiginys: 'P. Nieborowskis parašė darbą „Der deutsche Orden und Polen in der Zeit des grössten Konfliktes“.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/diecezija|diecezija]]; mentioned_place: Medininkai'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/autoriai/Nieborowski, P.md#claim-t-30873|Nieborowski, P]]: P. Nieborowski parašė darbą „Der deutsche Orden und Polen in der Zeit des grössten Konfliktes“, 1924 m. išleistą Breslau.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -51,10 +52,3 @@ Nieborowski, P.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/diecezija]]
-- [[objektai/autoriai/Nieborowski, P]]
-- [[objektai/autoriai/Krasauskas, R]]
-- [[objektai/autoriai/R. Krasauskas]]

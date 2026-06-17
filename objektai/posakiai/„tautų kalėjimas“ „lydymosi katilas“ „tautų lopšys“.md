@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-LDK į istoriją įėjo ne kaip „tautų kalėjimas“ ar „lydymosi katilas“, o kaip „tautų lopšys“. LDK vykę tautų lydymosi procesai baigėsi ne visuotine polonizacija, o lietuvių, baltarusių ir ukrainiečių modernių tautų susikūrimu.
+Daugybė senovės imperijų žlugo palikdamos apie save tautų kalėjimų atminimą, o tos, kurios nežlugo, virto tautų lydymosi katilais.
 
 ## Teiginiai
 
@@ -21,6 +21,8 @@ LDK į istoriją įėjo ne kaip „tautų kalėjimas“ ar „lydymosi katilas�
 - t-001
   global_id: t-20952
   teiginys: 'LDK į istoriją įėjo ne kaip „tautų kalėjimas“ ar „lydymosi katilas“, o kaip „tautų lopšys“.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai perteikia citatoje pateiktą LDK vertinimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]'
   pagrindžia:
     - c-001
 
@@ -28,6 +30,11 @@ LDK į istoriją įėjo ne kaip „tautų kalėjimas“ ar „lydymosi katilas�
 - t-002
   global_id: t-183511
   teiginys: 'LDK vykę tautų lydymosi procesai baigėsi ne visuotine polonizacija, o lietuvių, baltarusių ir ukrainiečių modernių tautų susikūrimu.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata leidžia teiginį padaryti konkretesnį, įvardijant modernias tautas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltarusiai|Baltarusiai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Ukrainiečiai|Ukrainiečiai]]'
   pagrindžia:
     - c-001
 
@@ -50,9 +57,3 @@ LDK į istoriją įėjo ne kaip „tautų kalėjimas“ ar „lydymosi katilas�
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Baltarusiai]]
-- [[objektai/grupes/Ukrainiečiai]]

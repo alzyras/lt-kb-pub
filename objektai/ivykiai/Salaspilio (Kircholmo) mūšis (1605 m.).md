@@ -6,12 +6,9 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1605 m.'
+  - '1620 m.'
 date_start: '1605'
-date_end: ''
-aliases:
-  - 'objektai/ivykiai/Salaspilio (Kirkcholmo) mūšis'
-variantai:
-  - 'Salaspilio (Kirkcholmo) mūšis'
+date_end: '1620'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -23,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-Salaspilio mūšyje švedų kavalerijai netvarkingai traukiantis suiro pėstininkų rikiuotė, o centre žuvo švedų generolas A. Liuneburgietis. Salaspilio mūšyje Karolis Chodkevičius pasinaudojo laikina ramybe, pasakė kalbą ir padrąsino savo karius. Salaspilio mūšyje žuvo Andrius Lennartssonas, o šaltinyje teigiama, kad nuo T. Dambravos kirčio žuvo Fridrichas Liuneburgietis.
+Šiame gabale aprašomas Salaspilio (Kirkcholmo) mūšio antrasis etapas: kariuomenių išsirikiavimas, apgaulingas Lietuvos kariuomenės atsitraukimas, švedų puolimas, rikiuotės suirimas ir galutinis bėgimas iš mūšio lauko. Tekste kartojami keli mūšio dalyviai ir akcentuojami atskiri taktiniai smūgiai bei žūtys. 1605 m. rugsėjo 27 d. ties Salaspiliu (Kirkholmu) Karolis IX išrikiavo savo kariuomenę, o J. K. Chodkevičius liepė Lietuvos kariuomenei pasiruošti mūšiui; prie didžiojo etmono prisijungė ir Kuršo kunigaikštis Fridrichas Ketleris Švedų ir Lietuvos kariuomenės nepajudėjusios išstovėjo iki vidudienio, nes švedai buvo išsirikiavę ant aukšto upelio kranto, o lietuviai mėgino juos išprovokuoti pulti pirmuosius.
 
 ## Laikotarpis ir datos
 
@@ -47,6 +44,8 @@ Nenurodyta
 - t-001
   global_id: t-10278
   teiginys: 'Salaspilio mūšyje švedų kavalerijai netvarkingai traukiantis suiro pėstininkų rikiuotė, o centre žuvo švedų generolas A. Liuneburgietis.'
+  teiginio_tipas: 'faktas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_person: [[objektai/asmenys/A. Liuneburgietis|A. Liuneburgietis]]; mentioned_person: [[objektai/asmenys/Vaina|Vaina]]'
   pagrindžia:
     - c-003
 
@@ -54,6 +53,8 @@ Nenurodyta
 - t-002
   global_id: t-10279
   teiginys: 'Salaspilio mūšyje Karolis Chodkevičius pasinaudojo laikina ramybe, pasakė kalbą ir padrąsino savo karius.'
+  teiginio_tipas: 'faktas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]'
   pagrindžia:
     - c-001
 
@@ -61,6 +62,9 @@ Nenurodyta
 - t-003
   global_id: t-10280
   teiginys: 'Salaspilio mūšyje žuvo Andrius Lennartssonas, o šaltinyje teigiama, kad nuo T. Dambravos kirčio žuvo Fridrichas Liuneburgietis.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Citata vieną žūtį pateikia kaip teiginį, todėl reikia tiksliau išreikšti šaltinio atsargumą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/rotmistras|rotmistras]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_person: [[objektai/asmenys/Vaina|Vaina]]; mentioned_place: Dambrava'
   pagrindžia:
     - c-007
 
@@ -68,6 +72,8 @@ Nenurodyta
 - t-004
   global_id: t-10281
   teiginys: 'Salaspilio mūšyje J. K. Chodkevičius įsakė pulti pastebėjęs, kad švedų pėstininkų rikiuotė prarado darnumą.'
+  teiginio_tipas: 'faktas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_group: [[objektai/grupes/Sapiegos|Sapiegos]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/flangas|flangas]]; mentioned_object: [[objektai/zodynas/raitarai|raitarai]]; mentioned_person: [[objektai/asmenys/Vaina|Vaina]]; mentioned_place: Dambrava'
   pagrindžia:
     - c-002
 
@@ -75,6 +81,9 @@ Nenurodyta
 - t-005
   global_id: t-10282
   teiginys: 'Salaspilio mūšyje T. Lackio husarai nubloškė švedų gvardijos kavaleriją, o švedų pajėgos pabėgo iš mūšio lauko.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Perrašyta pašalinant sąrašo fragmentų formą ir susiejant faktą su mūšiu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/husarai|husarai]]'
   pagrindžia:
     - c-006
 
@@ -82,6 +91,12 @@ Nenurodyta
 - t-006
   global_id: t-10284
   teiginys: 'Salaspilio mūšyje abi kariuomenės iki vidudienio stovėjo nepajudėjusios.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1605 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
   pagrindžia:
     - c-005
 
@@ -89,6 +104,8 @@ Nenurodyta
 - t-007
   global_id: t-10285
   teiginys: 'Salaspilio mūšyje T. Dambravos vadovaujama reitarų vėliava prajojo Dauguvos pakrante ir smogė švedų kavalerijai iš flango.'
+  teiginio_tipas: 'faktas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sapiegos|Sapiegos]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/daiktai/Vėliavos|Vėliavos]]; mentioned_object: [[objektai/zodynas/flangas|flangas]]; mentioned_object: [[objektai/zodynas/husarai|husarai]]; mentioned_object: [[objektai/zodynas/rotmistras|rotmistras]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]; mentioned_person: [[objektai/asmenys/Machmetas|Machmetas]]; mentioned_place: Dambrava; mentioned_place: Dauguva; mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-004
 
@@ -96,6 +113,8 @@ Nenurodyta
 - t-008
   global_id: t-186373
   teiginys: 'Salaspilio, arba Kirchholmo, mūšis buvo viena iš LDK karinių pergalių, kuriose lietuviai kovojo petys į petį su rusėnais.'
+  teiginio_tipas: 'faktas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_object: [[objektai/posakiai/Kad būtų viena tauta, viena visuomenė, viena brolija (fraternitas) ir bendri seimai|Kad būtų viena tauta, viena visuomenė, viena brolija (fraternitas) ir bendri seimai]]; mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-008
 
@@ -103,6 +122,12 @@ Nenurodyta
 - t-009
   global_id: t-186374
   teiginys: '1605 m. prie Kirchholmo netoli Rygos Jono Karolio Chodkevičiaus vadovaujama LDK kariuomenė su 3 tūkst. raitelių nugalėjo 12 tūkst. švedų.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Inicialai išskleisti į pilną asmenvardį, o teiginys išlaiko citatos faktus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_place: Lietuva; mentioned_place: Ryga'
+  temporaliniai_duomenys: 'įvykio data: 1605 m.; įvykio data: 1620 m.; įvykio data: apie 1620 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
+  temporalinis_llm_pakomentavimas: 'Inicialai išskleisti į pilną asmenvardį, o teiginys išlaiko citatos faktus.'
   pagrindžia:
     - c-009
 
@@ -110,9 +135,18 @@ Nenurodyta
 - t-010
   global_id: t-186375
   teiginys: 'Salaspilio mūšyje lietuviai nedideliais išpuoliais mėgino išprovokuoti švedus pulti pirmuosius, bet abi kariuomenės išstovėjo iki vidudienio.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys ir atitinka citatą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1605 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys ir atitinka citatą.'
   pagrindžia:
     - c-005
-
+- susijęs iš [[objektai/asmenys/Laurencijus Bojeris.md#claim-t-39773|Laurencijus Bojeris]]: Laurencijus Bojeris 1606 m. poemoje „Karolomachija“ aprašė lietuvių pergalę Salaspilio, arba Kircholmo, mūšyje.
+- susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
+- susijęs iš Karolomachija: 1992 m. Vilniuje išleistoje L. Bojerio „Karolomachijoje“ aptariamas Salaspilio mūšis.
+- susijęs iš Salaspilio mūšis (Pieterio Snayerso (1592-1667) paveikslo paroda): „Salaspilio mūšis“ yra Pieterio Snayerso paveikslo parodos informacinis leidinys, išleistas Vilniuje 2010 m.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -276,29 +310,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-009
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/A. Liuneburgietis]]
-- [[objektai/grupes/Chodkevičiai]]
-- [[objektai/asmenys/Fridrichas]]
-- [[objektai/asmenys/Karolis]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Machmetas]]
-- [[objektai/grupes/Rusėnai]]
-- [[objektai/grupes/Sapiegos]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/asmenys/Vaina]]
-- [[objektai/daiktai/Vėliavos]]
-- [[objektai/zodynas/flangas]]
-- [[objektai/zodynas/husarai]]
-- [[objektai/zodynas/kunigaikštija]]
-- [[objektai/zodynas/raitarai]]
-- [[objektai/zodynas/rotmistras]]
-- [[objektai/zodynas/vėliava]]
-- [[objektai/grupes/Švedai]]
-- [[objektai/autoriai/Karolis Zikaras]]
-- [[objektai/asmenys/Laurencijus Bojeris]]
-- [[objektai/grupes/Lietuvos kariuomenė]]
-- [[objektai/asmenys/T. Lackis]]
-- [[objektai/grupes/Švedų gvardijos kavalerija]]

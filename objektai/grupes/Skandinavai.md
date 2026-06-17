@@ -11,29 +11,51 @@ date_start: '1936'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XX'
-  - 'XXI'
 tags:
   - grupe
   - tauta
   - upė
+amziai:
+  - 'XX'
+  - 'XXI'
 ---
 # Skandinavai
 
 ## Santrauka
 
-Vikingų epochoje prie jūros gyvenusiems prūsams ir kuršiams teko atremti plėšikaujančius skandinavus.
+Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolatinį upių susisiekimą su Bizantija.
 
 ## Teiginiai
+
 <a id="claim-t-66129"></a>
 - t-001
   global_id: t-66129
   teiginys: 'Vikingų epochoje prie jūros gyvenusiems prūsams ir kuršiams teko atremti plėšikaujančius skandinavus.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie skandinavus ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Vikingai|Vikingai]]; mentioned_place: Prūsai; mentioned_place: Švedija'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/autoriai/A. Salys.md#claim-t-64515|A. Salys]]: A. Salys teigė, kad slavų ir baltų prokalbės išriedėjo iš dviejų artimų indoeuropiečių prokalbės tarmių.
+- susijęs iš [[objektai/daiktai/Laivai.md#claim-t-179490|Laivai]]: Senovės aisčiai veikiausiai turėjo laivų, nes jų vadai rengdavo karo žygius į skandinavų kraštus.
+- susijęs iš [[objektai/grupes/Baltai.md#claim-t-96085|Baltai]]: Su slavais baltų protėviai, ypač iki geležies amžiaus pradžios, yra turėję artimų santykių.
+- susijęs iš [[objektai/grupes/Bizantijos imperija.md#claim-t-01290|Bizantijos imperija]]: Bizantijos imperiją su skandinavais siejo nuolatinis upių susisiekimas.
+- susijęs iš [[objektai/grupes/Kuršiai.md#claim-t-65555|Kuršiai]]: Vikingų epochoje prie jūros gyvenusiems prūsams ir kuršiams teko atremti plėšikaujančius skandinavus.
+- susijęs iš [[objektai/grupes/Normanai.md#claim-t-86723|Normanai]]: Normanų piratų lankytas kraštas apėmė Baltijos jūros pakrantę nuo Vyslos žiočių iki Suomijos įlankos.
+- susijęs iš [[objektai/grupes/Slavai.md#claim-t-89228|Slavai]]: Slavų ekspansija artėjo prie Lietuvos žemių.
+- susijęs iš [[objektai/paprociai/Normanų jūros kelionės, plėšikavimas ir prekyba Baltijos pakrantėse.md#claim-t-87179|Normanų jūros kelionės, plėšikavimas ir prekyba Baltijos pakrantėse]]: Atšiaurus klimatas, nenaši žemė, tvarkos stoka ir tarpusavio nesantaika skatino skandinavus leistis į jūros keliones per Baltiją.
+- susijęs iš Jogailos autentiški dokumentai iki krikšto Karaliaučiaus archyve: Iki krikšto rašytuose Jogailos autentiškuose dokumentuose Karaliaučiaus archyve Vilnius vadintas Vylne ir Velne.
+- susijęs iš Baltijos jūra (sujungti pirminiai pavadinimai Baltijos jūra; Baltijos krantai): Po Karolio Didžiojo monarchijos žlugimo skandinavų piratų laivai pasklido po visą Baltijos pakrantę.
+- susijęs iš Baltijos jūra: Po Karolio Didžiojo monarchijos žlugimo skandinavų piratų laivai pasklido po visą Baltijos pakrantę.
+- susijęs iš Karaliaučius: Kai kurie autentiški Jogailos dokumentai, rašyti prieš jo krikštą, buvo išsaugoti Karaliaučiaus archyve.
+- susijęs iš Karaliaučius: Karaliaučiaus archyve buvo saugomi autentiški Jogailos dokumentai, rašyti prieš jo krikštą.
+- susijęs iš Padauguvis: Nuo XI a., skandinavams liovusis lankytis Padauguvyje, į šį kraštą pradėjo atvykti vokiečių pirkliai.
+- susijęs iš Trakai: Islandų keliautojas Snorro prie Vilniaus, Trakų ir kitų miestų rado savo genties naujakurių ir suprato jų kalbą.
+- susijęs iš Vilnius: Balińskis svarstė, kad Vilniaus pradžia galėjo siekti IX-X a. normanus, kūrusius seniausias gyvenvietes Lietuvoje.
+- susijęs iš [[objektai/zodynas/Austurweg.md#claim-t-54799|Austurweg]]: Austurweg pavadinimas buvo taikomas Baltijos jūros pakrantei nuo Vyslos žiočių iki Suomijos įlankos.
+- susijęs iš [[objektai/zodynas/Austurweg.md#claim-t-54800|Austurweg]]: Austurweg buvo normanų vartotas Baltijos jūros pakrantės nuo Vyslos žiočių iki Suomijos įlankos pavadinimas.
+- susijęs iš [[objektai/zodynas/Variagai.md#claim-t-82106|Variagai]]: IX a. Rusioje variagais vadinti skandinavų normanai Baltijos pakrantėse vertėsi plėšikavimu ir prekyba.
 ## Reikšmingi paminėjimai
+
 - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -48,18 +70,3 @@ Vikingų epochoje prie jūros gyvenusiems prūsams ir kuršiams teko atremti pl�
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Baltai]]
-- [[objektai/grupes/Kuršiai]]
-- [[objektai/grupes/Vikingai]]
-- [[objektai/autoriai/A. Salys]]
-- [[objektai/zodynas/Austurweg]]
-- [[objektai/daiktai/Laivai]]
-- [[objektai/grupes/Normanai]]
-- [[objektai/paprociai/Normanų jūros kelionės, plėšikavimas ir prekyba Baltijos pakrantėse]]
-- [[objektai/grupes/Slavai]]
-- [[objektai/grupes/Bizantijos imperija]]
-- [[objektai/zodynas/Variagai]]
-- [[objektai/paprociai/Kuršių plėšiamieji žygiai į Danijos ir Švedijos pakrantes]]

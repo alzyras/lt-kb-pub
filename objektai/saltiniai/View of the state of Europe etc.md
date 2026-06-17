@@ -27,6 +27,8 @@ Jau veikiau tai netvirtas ir varganas būvis, a) Ši nuomonė, įžvalgiausių i
 - t-001
   global_id: t-88347
   teiginys: 'Hallamas veikale „View of the state of Europe etc“ miestų kūrimosi prielaidas siejo su kiekvienos šalies vietinėmis sąlygomis.'
+  sudarymo_pagrindimas: 'Citata palaiko faktą apie Hallamo veikalo teiginį, o pradinis tekstas yra triukšmingas ir fragmentiškas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Anglai|Anglai]]'
   pagrindžia:
     - c-001
 

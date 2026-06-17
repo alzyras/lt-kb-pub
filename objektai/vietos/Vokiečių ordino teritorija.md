@@ -21,6 +21,8 @@ O dabar įsiveržiama į Vokiečių ordino teritoriją ir žygiuojama tiesiai li
 - t-001
   global_id: t-15353
   teiginys: 'Į Vokiečių ordino teritoriją įsiveržta žygiuojant tiesiai link sostinės ir siekiant susidurti su visomis Ordino pajėgomis.'
+  sudarymo_pagrindimas: 'Perrašyta sklandžiau, išlaikant citatos faktus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

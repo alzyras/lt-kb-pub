@@ -22,6 +22,8 @@ Liepos 22 dieną vadinamasis Lietuvos liaudies seimas priėmė žemės nacionali
 - t-001
   global_id: t-21330
   teiginys: 'Liepos 22 dieną vadinamasis Lietuvos liaudies seimas priėmė žemės nacionalizavimo deklaraciją, pagal kurią visa Lietuvos žemė tapo valstybės nuosavybe, o ūkininkai – žemės naudotojais.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie deklaraciją ir atitinka citatą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Liaudies seimas|Liaudies seimas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Baltija; mentioned_place: Latvija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

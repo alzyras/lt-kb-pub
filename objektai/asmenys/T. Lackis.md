@@ -21,6 +21,8 @@ Lackio husarai ir ryžtingu puolimu nubloškia švedų raituosius gvardiečius. 
 - t-001
   global_id: t-40456
   teiginys: 'Rotmistro T. Lackio vadovaujami 200 husarų padarė lankstą ir visa jėga smogė į švedų raitelių kairįjį sparną.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas, konkretus ir atitinka citatą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/husarai|husarai]]; mentioned_object: [[objektai/zodynas/rotmistras|rotmistras]]; mentioned_person: [[objektai/asmenys/Vaina|Vaina]]; mentioned_place: Kuršas'
   pagrindžia:
     - c-002
 
@@ -28,6 +30,8 @@ Lackio husarai ir ryžtingu puolimu nubloškia švedų raituosius gvardiečius. 
 - t-002
   global_id: t-40457
   teiginys: 'T. Lackio husarai pasitiko švedų gvardijos kavaleriją ir ryžtingu puolimu nubloškė švedų raituosius gvardiečius.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys ir paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/husarai|husarai]]'
   pagrindžia:
     - c-001
 
@@ -65,11 +69,3 @@ Lackio husarai ir ryžtingu puolimu nubloškia švedų raituosius gvardiečius. 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/husarai]]
-- [[objektai/zodynas/rotmistras]]
-- [[objektai/grupes/Švedai]]
-- [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.)]]
-- [[objektai/grupes/Švedų gvardijos kavalerija]]

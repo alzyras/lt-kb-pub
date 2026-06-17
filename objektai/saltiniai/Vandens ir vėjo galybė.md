@@ -22,6 +22,8 @@ VANDENS IR VĖJO GALYBE.
 - t-001
   global_id: t-96067
   teiginys: '„Vandens ir vėjo galybę“ sudarė A. Vireliūnas ir P. Šinkūnas, o leidinys buvo iliustruotas daugybe paveikslėlių.'
+  sudarymo_pagrindimas: 'Citata pagrindžia sudarytojus ir iliustracijas, o pradinis teiginys yra tik pavadinimas.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/A. Vireliūnas|A. Vireliūnas]]'
   pagrindžia:
     - c-001
 

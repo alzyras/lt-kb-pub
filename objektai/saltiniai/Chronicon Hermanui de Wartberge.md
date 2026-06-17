@@ -21,6 +21,8 @@ Tokius pat skaičius užrašė Chronicon Olivense ir Chronicon Hermanui de Wartb
 - t-001
   global_id: t-100234
   teiginys: '„Chronicon Hermanui de Wartberge“ nurodė tokį pat Saulės mūšyje kritusių riterių skaičių kaip Grigaliaus IX bulė: 50.'
+  sudarymo_pagrindimas: 'Pradinis teiginys turi neaiškią nuorodą „tokius pat skaičius“, todėl reikia išplėsti kontekstą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Grigalius (vicekancleris)|Grigalius (vicekancleris)]]; mentioned_person: [[objektai/asmenys/Grigalius IX|Grigalius IX]]'
   pagrindžia:
     - c-001
 

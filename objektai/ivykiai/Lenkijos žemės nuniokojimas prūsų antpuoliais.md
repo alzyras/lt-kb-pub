@@ -47,6 +47,8 @@ Nenurodyta
 - t-001
   global_id: t-66655
   teiginys: 'Prūsai kelis kartus didelėmis jėgomis užpuolė Lenkijos žemę, degino namus, žudė suaugusiuosius ir išsivarė moteris bei vaikus.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir turi perteklinių fragmentų.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/klauzūra|klauzūra]]; mentioned_place: Lenkija; mentioned_place: Plockas; mentioned_place: Prūsai; mentioned_place: Viena; mentioned_place: Vysla'
   pagrindžia:
     - c-002
 
@@ -54,6 +56,8 @@ Nenurodyta
 - t-002
   global_id: t-66657
   teiginys: 'Rašydamas apie 250 sudegintų parapinių bažnyčių Konrado valdose, Dusburgietis veikiausiai perdėjo prūsų padarytų nuostolių mastą.'
+  sudarymo_pagrindimas: 'Teiginys pagrįstai perteikia citatoje pateiktą vertinimą apie Dusburgiečio perdėjimą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
 
@@ -94,8 +98,3 @@ Nenurodyta
   pagrindžia:
     - t-001
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/klauzūra]]
-- [[objektai/zodynas/Miera|miera]]

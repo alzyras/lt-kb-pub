@@ -30,6 +30,10 @@ Danuta 1380 m. ištekėjo už Mozūrijos kunigaikščio Jonušo, apsikrikštydam
 - t-001
   global_id: t-35250
   teiginys: 'Mozūrijos kunigaikštis Jonušas 1380 m. vedė Danutą, kuri krikšte gavo ir Marijos vardą.'
+  susije_objektai: 'territory: Mozūrija; mentioned_person: [[objektai/asmenys/Danuta|Danuta]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Mozūrija'
+  semantiniai_rysiai: '[[objektai/asmenys/Mozūrijos kunigaikštis Jonušas|Mozūrijos kunigaikštis Jonušas]] buvo valdovas Mozūrija'
+  temporaliniai_duomenys: 'valdymo laikotarpis: 1380 m.; valdymo laikotarpis: 1392 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Mozūrijos kunigaikštis Jonušas buvo valdovas Mozūrija“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -49,6 +53,4 @@ Danuta 1380 m. ištekėjo už Mozūrijos kunigaikščio Jonušo, apsikrikštydam
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Danuta]]
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- Mozūrijos kunigaikštis Jonušas buvo_valdovas [[objektai/vietos/Mozūrija]]

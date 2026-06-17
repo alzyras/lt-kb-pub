@@ -9,12 +9,12 @@ date_start: '1328'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XIV'
 tags:
   - ivykis
   - ordinas
   - pilis
+amziai:
+  - 'XIV'
 ---
 # Klaipėdos pilies perdavimas Prūsijos kryžiuočiams (1328 m.)
 
@@ -35,18 +35,22 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 <a id="claim-t-01667"></a>
 - t-001
   global_id: t-01667
   teiginys: '1328 m. livoniškiai kryžiuočiai perdavė atkirstą Klaipėdos pilį Prūsijos kryžiuočiams.'
+  sudarymo_pagrindimas: 'Teiginys su neaiškiu įvardžiu, o citata tiesiogiai pagrindžia perdavimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Prūsija; mentioned_place: Vokietija'
+  temporaliniai_duomenys: 'įvykio data: 1328 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys su neaiškiu įvardžiu, o citata tiesiogiai pagrindžia perdavimą.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1328 m. livoniškiai kryžiuočiai perdavė atkirstą Klaipėdos pilį Prūsijos kryžiuočiams.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Ordino ekspan-
@@ -57,16 +61,8 @@ Nenurodyta
     1328 m., t. y. Gedimino laikais, livoniškiai kryžiuočiai perdavė ją
     Prūsijos kryžiuočiams, kurie tuo tarpu jau buvo užėmę visą pa-
     jūrį iki Klaipėdos ir įsitvirtinę Nemuno žemupy.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Gediminas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Livonijos ordinas]]

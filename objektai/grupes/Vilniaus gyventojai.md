@@ -17,6 +17,7 @@ tags:
   - karalius
   - kunigaikštis
   - kunigas
+  - valdovas
 amziai:
   - 'XIV'
   - 'XVIII'
@@ -33,6 +34,8 @@ Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms
 - t-001
   global_id: t-86689
   teiginys: 'Vilniaus gyventojams nuo seno galiojo pareiga saugoti Vilniaus pilį.'
+  sudarymo_pagrindimas: 'Citata pagrindžia tik pirmą aiškią teiginio dalį apie gyventojų pareigą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Mūro sienos ir miesto sienos|Mūro sienos ir miesto sienos]]; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -40,6 +43,8 @@ Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms
 - t-002
   global_id: t-86690
   teiginys: 'Vilniaus gyventojai teigė, kad gaisras Vytautui padarė nuostolių už 60 000 sidabro luitų.'
+  sudarymo_pagrindimas: 'Citata leidžia suformuluoti sakinį apie gyventojų pateiktą žalos vertinimą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Dinaburgas; mentioned_place: Vilnius'
   pagrindžia:
     - c-007
 
@@ -47,6 +52,8 @@ Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms
 - t-003
   global_id: t-86691
   teiginys: 'Per kautynes prie Žemutinės pilies žuvo didelė dalis Vilniaus gyventojų, o kiti išsibėgiojo po kraštą.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai perteikia citatos faktą apie Vilniaus gyventojų žūtį ir išsisklaidymą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/autoriai/Ignacas Onacevičius|Ignacas Onacevičius]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 
@@ -54,6 +61,9 @@ Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms
 - t-004
   global_id: t-86692
   teiginys: 'Valdovas Vilniaus gyventojų ištikimybę ir prieraišumą paminėjo suteikdamas miestui Magdeburgo teises Merkinėje rašytu aktu.'
+  sudarymo_pagrindimas: 'Citata pagrindžia gyventojų ištikimybės motyvą ir teisės suteikimą.'
+  susije_objektai: 'territory: Merkinė; territory: Vilnius; mentioned_object: [[objektai/zodynas/Magdeburgo teisės|Magdeburgo teisės]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Merkinė; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Vilniaus gyventojai|Vilniaus gyventojai]] susiję su Merkinė; [[objektai/grupes/Vilniaus gyventojai|Vilniaus gyventojai]] susiję su Vilnius'
   pagrindžia:
     - c-002
 
@@ -61,6 +71,9 @@ Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms
 - t-005
   global_id: t-86693
   teiginys: 'Dalis Šv. Jono bažnyčios pajamų priklausė Vilniaus gyventojams, priklausiusiems Šv. Jono brolijai.'
+  sudarymo_pagrindimas: 'Teiginys buvo nutrūkęs, bet citata pagrindžia aiškų faktą apie gyventojus.'
+  susije_objektai: 'owner: [[objektai/asmenys/Augustas|Augustas]]; owner: Vilnius; owner: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Vilniaus gyventojai|Vilniaus gyventojai]] priklausė [[objektai/asmenys/Augustas|Augustas]]; [[objektai/grupes/Vilniaus gyventojai|Vilniaus gyventojai]] priklausė [[objektai/asmenys/Žygimantas|Žygimantas]]; [[objektai/grupes/Vilniaus gyventojai|Vilniaus gyventojai]] priklausė Vilnius'
   pagrindžia:
     - c-004
 
@@ -68,6 +81,8 @@ Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms
 - t-006
   global_id: t-86694
   teiginys: '1390 metų pabaigoje Jogailos atgabentos maisto ir drabužių atsargos pravertė turtą praradusiems Vilniaus gyventojams.'
+  sudarymo_pagrindimas: 'Pirminis teiginys nutrūkęs; citata remia konkretesnį faktą apie Vilniaus gyventojus.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; mentioned_object: [[objektai/asmenys/Jogaila (Lenkijos karalius, 1382 m.)|Jogaila (Lenkijos karalius, 1382 m.)]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-006
 
@@ -75,6 +90,8 @@ Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms
 - t-007
   global_id: t-86695
   teiginys: 'Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms išdalyti balti lininiai marškiniai.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiesiogiai atitinka citatos informaciją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Balti vilnoniai marškiniai|Balti vilnoniai marškiniai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-008
 
@@ -82,9 +99,19 @@ Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms
 - t-008
   global_id: t-86696
   teiginys: 'Vilniaus gyventojai iš priemiesčių ir nuošalių namų slėpdavosi įtvirtintame miesto centre prie Žemutinės pilies.'
+  sudarymo_pagrindimas: 'Teiginys buvo fragmentiškas ir su OCR triukšmu, bet citata palaiko aiškią sakinio formą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Statinės|Statinės]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Bokštai; mentioned_place: Vilnius'
   pagrindžia:
     - c-005
-
+- susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-176515|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: Kęstučio laikų vidaus kivirčų metu Vilniaus gyventojai išlaikė ištikimybę ir prieraišumą valdovui.
+- susijęs iš [[objektai/asmenys/Žygimantas Senasis.md#claim-t-173316|Žygimantas Senasis]]: Žygimantas Senasis baudė miesto valdininkus už valdžios ribų peržengimą ir tramdė bajorų piktnaudžiavimą Vilniuje.
+- susijęs iš [[objektai/asmenys/Žygimantas Senasis.md#claim-t-173323|Žygimantas Senasis]]: Žygimantas Senasis baudė miesto valdininkus už valdžios ribų peržengimą ir tramdė bajorų piktnaudžiavimą Vilniuje.
+- susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-172840|Vilniaus miestiečių luomas]]: Vilniaus gyventojai įvertino, kad gaisras didžiajam kunigaikščiui padarė iki 60 tūkstančių sidabro luitų žalą.
+- susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-55087|Vilniaus miestiečių luomas]]: Vilniaus miestiečių saugumui ir gausėjimui bajorams buvo uždrausta iškelti iš miesto pavaldinius, kurie ten ramiai pragyveno šešerius metus.
+- susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-55088|Vilniaus miestiečių luomas]]: Miesto taryba negalėjo įvesti naujų mokesčių be miestiečių leidimo.
+- susijęs iš [[objektai/ivykiai/Lietuvos krikštas Vilniuje (1387 m.).md#claim-t-54448|Lietuvos krikštas Vilniuje (1387 m.)]]: Vilniaus gyventojai pagonys buvo pakrikštyti, o po apeigų jiems išdalyti balti lininiai marškiniai.
+- susijęs iš Haličas: Rusios kronikininkai liudijo, kad XII a. Vilniaus gyventojai pasidavė Vengrijos, tai yra Haličo, karaliaus valdžiai.
+- susijęs iš [[objektai/zodynas/vietininkas.md#claim-t-176266|vietininkas]]: Rusios kronikininkai liudijo, kad Vilniaus gyventojai vietininkais pasikvietė Dovilą ir Maukoldą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -294,31 +321,8 @@ Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms
     - t-007
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Augustas]]
-- [[objektai/grupes/Bajorai]]
-- [[objektai/daiktai/Drabužiai]]
-- [[objektai/autoriai/Ignacas Onacevičius]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/daiktai/Mūro sienos ir miesto sienos]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/asmenys/Vladislovas]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/komtūras]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/pagonybė]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/asmenys/Žygimantas]]
-- [[objektai/grupes/Vilniaus miestiečių luomas]]
-- [[objektai/asmenys/Žygimantas Senasis]]
-- [[objektai/daiktai/Balti vilnoniai marškiniai]]
-- [[objektai/zodynas/Magdeburgo teisės]]
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- [[objektai/ivykiai/Lietuvos krikštas Vilniuje (1387 m.)]]
-- [[objektai/zodynas/vietininkas]]
-- [[objektai/ivykiai/Jogailos grįžimas į nuniokotą Vilnių ir miesto atkūrimo pradžia (1390 m. lapkritis)]]
-- [[objektai/paprociai/Karo nualintų gyventojų aprūpinimas maistu ir drabužiais]]
-- [[objektai/ivykiai/Vilniaus apgultis ir Kreivosios pilies sudeginimas (1390 m. rugsėjis-spalis)]]
-- [[objektai/asmenys/Vladislovas Jogaila]]
-- [[objektai/grupes/Šv. Jono brolija]]
+- Vilniaus gyventojai susije_su [[objektai/vietos/Merkinė]]
+- Vilniaus gyventojai susije_su [[objektai/vietos/Vilnius]]
+- Vilniaus gyventojai priklause [[objektai/asmenys/Augustas]]
+- Vilniaus gyventojai priklause [[objektai/vietos/Vilnius]]
+- Vilniaus gyventojai priklause [[objektai/asmenys/Žygimantas]]

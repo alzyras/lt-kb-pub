@@ -5,9 +5,15 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
+  - '1924 m.'
   - '1926 m.'
+  - '1940 m.'
+  - '1953 m.'
+  - '1965 m.'
+  - '1972 m.'
+  - '1989 m.'
   - '2026 m.'
-date_start: '1926'
+date_start: '1924'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
@@ -24,7 +30,7 @@ amziai:
 
 ## Santrauka
 
-1989 m. gruodį Vilniuje įvykęs LKP XX suvažiavimas turėjo didelę įtaką Lietuvos komunistų partijos veiklai. Vladimirui Dekanozovui talkino sovietų pasiuntinybė ir iki tol pogrindyje veikusi maža Lietuvos komunistų partija. Stalino valdymo metais komunistų partija kontroliavo, administravo ir cenzūravo visas Lietuvos kultūros sritis.
+LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadovai nuteisti mirties bausme ir po dešimt dienų nuo perversmo pradžios sušaudyti – tai turėjo reikšti, kad tikrieji kaltininkai nubausti, nors opozicinės partijos komunizmo pavojaus nematė. Smetonai atrodė nepavojinga nusilpusių kairiųjų partijų veikla, ėjo jų laikraščiai, nekėlė grėsmės pogrindyje esanti negausi (apie 1 200 narių) Lietuvos komunistų partija, nors Maskva ir pumpavo valiutą į jos subliuškusius raumenis.
 
 ## Teiginiai
 
@@ -32,6 +38,11 @@ amziai:
 - t-001
   global_id: t-78352
   teiginys: '1989 m. gruodį Vilniuje įvykęs LKP XX suvažiavimas turėjo didelę įtaką Lietuvos komunistų partijos veiklai.'
+  sudarymo_pagrindimas: 'Patikslintas objektas, kad teiginys aiškiai sietųsi su note pavadinimu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1989 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Patikslintas objektas, kad teiginys aiškiai sietųsi su note pavadinimu.'
   pagrindžia:
     - c-013
 
@@ -39,6 +50,8 @@ amziai:
 - t-002
   global_id: t-78353
   teiginys: 'Vladimirui Dekanozovui talkino sovietų pasiuntinybė ir iki tol pogrindyje veikusi maža Lietuvos komunistų partija.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus ir paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/SSRS kariuomenė|SSRS kariuomenė]]; mentioned_place: Lietuva; mentioned_place: SSRS'
   pagrindžia:
     - c-003
 
@@ -46,6 +59,11 @@ amziai:
 - t-003
   global_id: t-78354
   teiginys: 'Stalino valdymo metais komunistų partija kontroliavo, administravo ir cenzūravo visas Lietuvos kultūros sritis.'
+  sudarymo_pagrindimas: 'Teiginys yra faktinis sakinys apie komunistų partijos kontrolę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1972 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra faktinis sakinys apie komunistų partijos kontrolę.'
   pagrindžia:
     - c-008
 
@@ -53,6 +71,8 @@ amziai:
 - t-004
   global_id: t-78355
   teiginys: 'Per Liaudies seimo rinkimus kandidatus galėjo kelti tik komunistų partija, komjaunimas, MOPR’as ir komunistų vadovaujamos profesinės sąjungos.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/aneksija|aneksija]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Latvija; mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-011
 
@@ -60,6 +80,8 @@ amziai:
 - t-005
   global_id: t-78357
   teiginys: 'LKP atsiskyrus nuo SSKP, atsirado nacionalinė eurokomunistinio tipo partija su reformuota programa ir nauju statutu.'
+  sudarymo_pagrindimas: 'Reikia aiškiai įvardyti, kas atsirado po LKP atsiskyrimo.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/eurokomunistinio tipo partija|eurokomunistinio tipo partija]]; mentioned_object: [[objektai/zodynas/statutas|statutas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-012
 
@@ -67,6 +89,8 @@ amziai:
 - t-006
   global_id: t-78358
   teiginys: 'Sovietai, siekdami sumažinti Lietuvos žmonių paramą nepriklausomybei, paskelbė ekonominę blokadą ir skatino atskirų Lietuvos regionų atsiskyrimą.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, bet citata palaiko sutvarkytą sakinį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-009
 
@@ -74,6 +98,11 @@ amziai:
 - t-007
   global_id: t-78360
   teiginys: 'Lietuvos komunistų partijoje lietuvių skaičius išaugo nuo 13 tūkst. 1953 m. iki 55 tūkst. 1965 m.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, o citata palaiko aiškų kiekybinį faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Maskva'
+  temporaliniai_duomenys: 'įvykio data: 1953 m.; įvykio data: 1965 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs, o citata palaiko aiškų kiekybinį faktą.'
   pagrindžia:
     - c-010
 
@@ -81,6 +110,8 @@ amziai:
 - t-008
   global_id: t-78361
   teiginys: 'Prosovietiška Lietuvos komunistų partija organizavo rusakalbius sąjunginio pavaldumo gamyklų darbininkus mėginamam valstybiniam perversmui.'
+  sudarymo_pagrindimas: 'Pradiniame teiginyje neaiškus įvardis ir sakinys per ilgas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-006
 
@@ -88,6 +119,11 @@ amziai:
 - t-009
   global_id: t-78362
   teiginys: '1940 m. V. Dekanozovui talkino sovietų pasiuntinybė ir iki tol pogrindyje veikusi maža Lietuvos komunistų partija.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus sakinys apie LKP vaidmenį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/SSRS kariuomenė|SSRS kariuomenė]]; mentioned_place: Lietuva; mentioned_place: SSRS'
+  temporaliniai_duomenys: 'įvykio data: 1940 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus sakinys apie LKP vaidmenį.'
   pagrindžia:
     - c-003
 
@@ -95,6 +131,7 @@ amziai:
 - t-010
   global_id: t-78364
   teiginys: 'A. Smetonai pogrindyje veikusi negausi, apie 1 200 narių turėjusi Lietuvos komunistų partija neatrodė kelianti grėsmę.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_place: Lietuva; mentioned_place: Maskva'
   pagrindžia:
     - c-002
 
@@ -102,6 +139,8 @@ amziai:
 - t-011
   global_id: t-78365
   teiginys: 'TSKP platformos Lietuvos komunistų partija įkūrė slaptą Nacionalinio gelbėjimo komitetą, parengusį prezidentinio valdymo įvedimo Lietuvoje planą.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Lietuvos komunistų partiją ir atitinka citatą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/konstitucijos|konstitucijos]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Michailas Gorbačiovas|Michailas Gorbačiovas]]; mentioned_place: Lietuva; mentioned_place: SSRS'
   pagrindžia:
     - c-007
 
@@ -109,6 +148,11 @@ amziai:
 - t-012
   global_id: t-78366
   teiginys: '1940 m. birželio 25 d. LKP buvo įteisinta, nors kitos politinės partijos liko neįteisintos.'
+  sudarymo_pagrindimas: 'Teiginys yra faktinis ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Liaudies vyriausybė|Liaudies vyriausybė]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_place: Lietuva; mentioned_place: Sniečkus'
+  temporaliniai_duomenys: 'įvykio data: 1940 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra faktinis ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-004
 
@@ -116,6 +160,8 @@ amziai:
 - t-013
   global_id: t-78367
   teiginys: 'Per vadinamojo Liaudies seimo rinkimus kandidatus galėjo kelti tik komunistų partija, komjaunimas, MOPR’as ir komunistų vadovaujamos profesinės sąjungos.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus ir paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/aneksija|aneksija]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Latvija; mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-005
 
@@ -123,6 +169,11 @@ amziai:
 - t-014
   global_id: t-78373
   teiginys: '1990 m. rinkimų kampanijoje savarankiška LKP skelbė šūkį „Lietuva be suvereniteto – Lietuva be ateities“.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Suverenitetas|Suverenitetas]]; mentioned_place: Lietuva; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1990 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citata.'
   pagrindžia:
     - c-014
 
@@ -130,9 +181,17 @@ amziai:
 - t-015
   global_id: t-78374
   teiginys: 'Po 1926 m. gruodžio perversmo keturi Lietuvos komunistų partijos vadovai buvo nuteisti mirties bausme ir po dešimties dienų sušaudyti.'
+  sudarymo_pagrindimas: 'Teiginys yra konkretus ir paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Estija; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1924 m.; įvykio data: po 1926 m.; įvykio data: 1926 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus ir paremtas citata.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/grupes/Nacionalinio gelbėjimo komitetas.md#claim-t-41101|Nacionalinio gelbėjimo komitetas (institucija)]]: Lietuvos komunistų partija TSKP platformos pagrindu įkūrė slaptą Nacionalinio gelbėjimo komitetą, parengusį prezidentinio valdymo įvedimo Lietuvoje planą.
+- susijęs iš [[objektai/ivykiai/Vladimiro Dekanozovo atvykimas į Lietuvą ir realios valdžios perėmimas (1940 m. birželio 15 d.).md#claim-t-20555|Vladimiro Dekanozovo atvykimas į Lietuvą ir realios valdžios perėmimas (1940 m. birželio 15 d.)]]: Vladimirui Dekanozovui talkino sovietų pasiuntinybė su Nikolajumi Pozdniakovu priešakyje ir pogrindyje veikusi Lietuvos komunistų partija.
+- susijęs iš Maskva: 1940 m. birželio 15 d. iš Maskvos į Lietuvą atvykęs Vladimiras Dekanozovas diegė Maskvos sprendimus.
+- susijęs iš [[objektai/zodynas/polpredas.md#claim-t-22253|polpredas]]: Dekanozovui talkino ir sovietų pasiuntinybė su įgaliotuoju atstovu (polpredu) Nikolajumi Pozdniakovu priešakyje, ir iki tol pogrindyje veikusi maža Lietuvos komunistų partija (LKP).
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -412,34 +471,3 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-014
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/A. Smetona]]
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/asmenys/Antanas (vaistininkas)]]
-- [[objektai/grupes/Krikščionys]]
-- [[objektai/grupes/Liaudies vyriausybė]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Michailas Gorbačiovas]]
-- [[objektai/grupes/SSRS kariuomenė]]
-- [[objektai/zodynas/Suverenitetas]]
-- [[objektai/zodynas/aneksija]]
-- [[objektai/zodynas/konstitucijos]]
-- [[objektai/zodynas/Miera|miera]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Nacionalinio gelbėjimo komitetas|Nacionalinio gelbėjimo komitetas (institucija)]]
-- [[objektai/ivykiai/Vladimiro Dekanozovo atvykimas į Lietuvą ir realios valdžios perėmimas (1940 m. birželio 15 d.)]]
-- [[objektai/zodynas/polpredas]]
-- [[objektai/zodynas/eurokomunistinio tipo partija]]
-- [[objektai/zodynas/statutas]]
-- [[objektai/grupes/Jedinstvo]]
-- [[objektai/asmenys/Josifas Stalinas]]
-- [[objektai/ivykiai/Keturių LKP vadovų sušaudymas po 1926 m. perversmo]]
-- [[objektai/ivykiai/Liaudies seimo rinkimai (1940 m. liepos 14-15 d.)]]
-- [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis]]
-- [[objektai/grupes/Lietuvos demokratinė darbo partija]]
-- [[objektai/ivykiai/Lietuvos valstybingumo griovimo sprendimai 1940 m. birželį-liepą]]
-- [[objektai/zodynas/sovietizacija sovietizavimas]]
-- [[objektai/posakiai/„Lietuva be suvereniteto – Lietuva be ateities.“]]

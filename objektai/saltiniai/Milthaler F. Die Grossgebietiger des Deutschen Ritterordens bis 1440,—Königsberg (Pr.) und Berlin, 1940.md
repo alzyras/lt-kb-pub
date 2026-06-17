@@ -28,6 +28,11 @@ Dusburgietis teigia, kad milthaler F.
 - t-001
   global_id: t-61182
   teiginys: 'F. Milthalerio „Die Grossgebietiger des Deutschen Ritterordens bis 1440“ išleista Karaliaučiuje ir Berlyne 1940 m.'
+  sudarymo_pagrindimas: 'Citata pateikia autorių, pavadinimą, leidimo vietas ir metus.'
+  susije_objektai: 'mentioned_place: Berlynas'
+  temporaliniai_duomenys: 'įvykio data: 1940 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pateikia autorių, pavadinimą, leidimo vietas ir metus.'
   pagrindžia:
     - c-001
 

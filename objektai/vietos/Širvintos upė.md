@@ -23,6 +23,8 @@ Jos buvo pravestos nuo Mozūrijos sienos upe aukštyn į Grajevo ir Ragordo eže
 - t-001
   global_id: t-36733
   teiginys: 'Vytauto nustatytos Žemaitijos ir Sūduvijos ribos ėjo Leipūnos ir Širvintos upėmis iki Šešupės, o nuo jos tiesiai į Nemuną prie Smalininkų.'
+  sudarymo_pagrindimas: 'Reikia įvardyti, kieno sienos minimos citatoje.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Grajevo; mentioned_place: Klaipėda; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Mozūrija; mentioned_place: Nemunas; mentioned_place: Palanga; mentioned_place: Smalininkai; mentioned_place: Viena; mentioned_place: Šešupė; mentioned_place: Širvinta'
   pagrindžia:
     - c-001
 

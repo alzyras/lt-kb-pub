@@ -28,6 +28,11 @@ Dusburgietis teigia, kad „Senųjų Prūsijos analų“ pagrindu, papildant juo
 - t-001
   global_id: t-61264
   teiginys: '„Prūsijos žemės kronika“ susijusi su Torunės analais, pratęsta iki 1450 m. ir sudaryta Chelmžos vyskupo aplinkoje.'
+  sudarymo_pagrindimas: 'Teiginys yra enciklopedinis, gramatiškas ir paremtas citata.'
+  susije_objektai: 'mentioned_place: Diunamiundė; mentioned_place: Prūsija; mentioned_place: Semba; mentioned_place: Torunė'
+  temporaliniai_duomenys: 'įvykio data: iki 1410 m.; įvykio data: iki 1450 m.; įvykio data: 1410 m.; įvykio data: 1450 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra enciklopedinis, gramatiškas ir paremtas citata.'
   pagrindžia:
     - c-001
 

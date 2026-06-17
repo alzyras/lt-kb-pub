@@ -46,6 +46,9 @@ Nenurodyta
 - t-001
   global_id: t-78727
   teiginys: 'Valdovui grįžus į Vilnių, čia įvyko triumfo iškilmės su belaisviais Maskvos karvedžiais ir kariais.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_place: Maskva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1530 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -53,6 +56,9 @@ Nenurodyta
 - t-002
   global_id: t-78728
   teiginys: 'Kilmingi žuvusieji buvo atvežti ir palaidoti Vilniuje.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_place: Maskva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1530 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -60,6 +66,11 @@ Nenurodyta
 - t-003
   global_id: t-78729
   teiginys: 'Vilniuje per triumfo iškilmes eisenoje buvo vedami Maskvos belaisviai karvedžiai ir kariai, o katedroje pakabintos trofėjinės vėliavos.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai nusako citatoje aprašytas iškilmes.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vėliavos|Vėliavos]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_place: Maskva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1530 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir tiesiogiai nusako citatoje aprašytas iškilmes.'
   pagrindžia:
     - c-001
 
@@ -103,11 +114,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Mykolas]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/daiktai/Vėliavos]]
-- [[objektai/autoriai/Mykolas Lietuvis]]
-- [[objektai/ivykiai/Oršos mūšis (1514 m.)]]

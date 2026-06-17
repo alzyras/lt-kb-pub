@@ -3,17 +3,24 @@ tipas: vieta
 pavadinimas: 'Žvėryno tiltas'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+datos:
+  - '1940 m.'
+  - '1991 m.'
+date_start: '1940'
+date_end: '1991'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ginklas
   - vieta
+amziai:
+  - 'XX'
 ---
 # Žvėryno tiltas
 
 ## Santrauka
 
-Žvėryno tiltas buvo užtvertas „Kraz“ sunkvežimiu ir dviem „Kirovec“ traktoriais, o Goštauto gatvė blokuota sunkiąja technika. Pirmomis sausio įvykių dienomis dalis A. Pociaus vadovaujamų ginkluotų gynėjų buvo išdėstyti ties Žvėryno tiltu kitoje Neries pusėje.
+Pociaus vadovaujamų vyrų buvo išdėstyti ties Žvėryno tiltu kitoje Neries pusėje, dalis kovotojų išsidėstė ant Nacionalinės M. , saugomas ATAS (Aukščiausiosios Tarybos Apsaligos skyriaus) pareigūnų prieigose Žvėryno tiltas užtvertas „Kraz“ sunkvežimiu ir dviem „Kirovec“ traktoriais, Goštauto gatvė ties Žvėryno tiltu blokuota sunkiąja technika.
 
 ## Teiginiai
 
@@ -21,6 +28,11 @@ tags:
 - t-001
   global_id: t-42416
   teiginys: 'Žvėryno tiltas buvo užtvertas „Kraz“ sunkvežimiu ir dviem „Kirovec“ traktoriais, o Goštauto gatvė blokuota sunkiąja technika.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/ATAS|ATAS]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Aukščiausiosios Tarybos rūmai'
+  temporaliniai_duomenys: 'įvykio data: 1991 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -28,9 +40,14 @@ tags:
 - t-002
   global_id: t-42417
   teiginys: 'Pirmomis sausio įvykių dienomis dalis A. Pociaus vadovaujamų ginkluotų gynėjų buvo išdėstyti ties Žvėryno tiltu kitoje Neries pusėje.'
+  sudarymo_pagrindimas: 'Sakinys patikslintas pagal citatą ir aiškiau įvardija veikėją.'
+  susije_objektai: 'mentioned_object: [[objektai/posakiai/Nepakartoti 1940 m. klaidos!|Nepakartoti 1940 m. klaidos!]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/autoriai/Martynas Mažvydas Vaitkūnas|Martynas Mažvydas Vaitkūnas]]'
+  temporaliniai_duomenys: 'įvykio data: 1940 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Sakinys patikslintas pagal citatą ir aiškiau įvardija veikėją.'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/grupes/ATAS.md#claim-t-40832|ATAS]]: 1991 m. sausio 13 d. Vytautą Landsbergį saugojo ATAS pareigūnai.
 ## Reikšmingi paminėjimai
 
 - c-001

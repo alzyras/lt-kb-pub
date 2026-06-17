@@ -5,6 +5,10 @@ saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1237 m.'
+  - '1246 m.'
+  - '1260 m.'
+  - '1265 m.'
+  - '1273 m.'
   - '1274 m.'
 date_start: '1237'
 date_end: '1274'
@@ -22,7 +26,7 @@ amziai:
 
 ## Santrauka
 
-1237 m. magistras su broliais ir maldininkais atvyko į Pagudės žemę kariauti su pagudėnais ir pastatė Elbingo pilį. Magistras ir broliai užkariavo pagudėnų rankose buvusią Heilsbergo pilį, dalį žmonių paėmė į nelaisvę, o kitus išžudė. 1274 m. pagudėnai kartu su varmiais, notangais, bartais ir sembais grįžo į Bažnyčios visuotinybę ir davė įkaitų.
+Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Dusburgietis teigia, kad 193 D.— Pogesania, Jer.— Pogezênen. Lie. Pagudė įteisinta K. Būgos (3, p. 113— 114). Žemės vardas gretinamas su pr. gudde, ‘krūmai’. Prūsų žemė į šiaurės rytus nuo Pamedės, vakaruose siekė dab. Elbingo apylinkes, o rytuose — Alnos upę. Dusburgietis teigia, kad apie karą su pagudėnais ir Elbingo pilies pastatymą Iš dievo malonės pavergę pamedėnus, magistras bei broliai ryžosi užgriūti karo audra pagudėnus.
 
 ## Teiginiai
 
@@ -30,6 +34,12 @@ amziai:
 - t-001
   global_id: t-89155
   teiginys: '1237 m. magistras su broliais ir maldininkais atvyko į Pagudės žemę kariauti su pagudėnais ir pastatė Elbingo pilį.'
+  sudarymo_pagrindimas: 'Teiginį reikia aiškiau susieti su pagudėnais, kuriuos citata tiesiogiai mini.'
+  susije_objektai: 'location: Elbingas; location: Pagudė; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/maldininkai|maldininkai]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_place: Elbingas; mentioned_place: Pagudė'
+  semantiniai_rysiai: '[[objektai/grupes/Pagudėnai|Pagudėnai]] keliavo į Elbingas; [[objektai/grupes/Pagudėnai|Pagudėnai]] keliavo į Pagudė'
+  temporaliniai_duomenys: 'kelionės data: 1237 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Pagudėnai keliavo į Elbingas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Pagudėnai keliavo į Pagudė“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginį reikia aiškiau susieti su pagudėnais, kuriuos citata tiesiogiai mini.'
   pagrindžia:
     - c-017
 
@@ -37,6 +47,9 @@ amziai:
 - t-002
   global_id: t-89156
   teiginys: 'Magistras ir broliai užkariavo pagudėnų rankose buvusią Heilsbergo pilį, dalį žmonių paėmė į nelaisvę, o kitus išžudė.'
+  sudarymo_pagrindimas: 'Pradinis teiginys prasideda kontekstiniu junginiu.'
+  susije_objektai: 'territory: Heilsbergas; territory: Pagudė; territory: Prūsija; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Heilsbergas; mentioned_place: Pagudė; mentioned_place: Prūsija'
+  semantiniai_rysiai: '[[objektai/grupes/Pagudėnai|Pagudėnai]] užkariavo Heilsbergas; [[objektai/grupes/Pagudėnai|Pagudėnai]] užkariavo Pagudė; [[objektai/grupes/Pagudėnai|Pagudėnai]] užkariavo Prūsija'
   pagrindžia:
     - c-008
 
@@ -44,6 +57,11 @@ amziai:
 - t-003
   global_id: t-89157
   teiginys: '1274 m. pagudėnai kartu su varmiais, notangais, bartais ir sembais grįžo į Bažnyčios visuotinybę ir davė įkaitų.'
+  sudarymo_pagrindimas: 'Citata palaiko pagudėnų grįžimą į krikščionių valdžią.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_group: [[objektai/grupes/Nadruviai|Nadruviai]]; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/posakiai/krikšto prikelti naujam gyvenimui|krikšto prikelti naujam gyvenimui]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/įkaitai|įkaitai]]; mentioned_person: [[objektai/asmenys/Maudelis|Maudelis]]; mentioned_place: Nadruva; mentioned_place: Vėluva'
+  temporaliniai_duomenys: 'įvykio data: 1274 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko pagudėnų grįžimą į krikščionių valdžią.'
   pagrindžia:
     - c-010
 
@@ -51,6 +69,8 @@ amziai:
 - t-004
   global_id: t-89158
   teiginys: 'Pagudėnai prie Kristburgo užpuolė tikinčiųjų pamedėnų pilaitę, į ją įsiveržė ir ją sugriovė.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir įtraukia antraštę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pamedėnai|Pamedėnai]]; mentioned_place: Kristburgas; mentioned_place: Pilaitė; mentioned_place: Viena'
   pagrindžia:
     - c-004
 
@@ -58,6 +78,11 @@ amziai:
 - t-005
   global_id: t-89159
   teiginys: '1273 m. pagudėnai paslėpė kariuomenę miške prie Elbingo ir iš pasalos atkirto miestiečiams kelią į miestą.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, datuotas ir tiksliai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_group: [[objektai/grupes/Varmiai|Varmiai]]; mentioned_place: Elbingas; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1273 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, datuotas ir tiksliai paremtas citata.'
   pagrindžia:
     - c-005
     - c-013
@@ -66,6 +91,9 @@ amziai:
 - t-006
   global_id: t-89160
   teiginys: 'Antrosios atskalūnybės metais keli Pagudės kilmingieji paliko tėvonijas, atvyko į Elbingą ir prisidėjo prie brolių.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir paremtas citata apie tikinčiuosius pagudėnus.'
+  susije_objektai: 'location: Elbingas; location: Pagudė; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Elbingas; mentioned_place: Pagudė'
+  semantiniai_rysiai: '[[objektai/grupes/Pagudėnai|Pagudėnai]] keliavo į Elbingas; [[objektai/grupes/Pagudėnai|Pagudėnai]] keliavo į Pagudė'
   pagrindžia:
     - c-015
 
@@ -73,6 +101,9 @@ amziai:
 - t-007
   global_id: t-89161
   teiginys: 'Pagudėnai gyveno prūsų žemėje į šiaurės rytus nuo Pamedės, vakaruose siekusioje dabartinio Elbingo apylinkes, o rytuose Alnos upę.'
+  sudarymo_pagrindimas: 'Citata pagrindžia Pagudės geografinį apibūdinimą.'
+  susije_objektai: 'location: Elbingas; location: Pagudė; location: Prūsai; location: Prūsų žemė; mentioned_person: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_place: Elbingas; mentioned_place: Pagudė; mentioned_place: Prūsai; mentioned_place: Prūsų žemė'
+  semantiniai_rysiai: '[[objektai/grupes/Pagudėnai|Pagudėnai]] gyveno Elbingas; [[objektai/grupes/Pagudėnai|Pagudėnai]] gyveno Pagudė; [[objektai/grupes/Pagudėnai|Pagudėnai]] gyveno Prūsai; [[objektai/grupes/Pagudėnai|Pagudėnai]] gyveno Prūsų žemė'
   pagrindžia:
     - c-006
 
@@ -80,6 +111,8 @@ amziai:
 - t-008
   global_id: t-89162
   teiginys: 'Prūsams vėl atkritus nuo tikėjimo, pagudėnai savo kariuomenės vadu ir vyresniuoju išsirinko Auktumą.'
+  sudarymo_pagrindimas: 'Citata tiesiogiai nurodo pagudėnų pasirinktą vadą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_group: [[objektai/grupes/Varmiai|Varmiai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_person: [[objektai/asmenys/Auktumas|Auktumas]]; mentioned_person: [[objektai/asmenys/Herkus Mantas|Herkus Mantas]]; mentioned_place: Prūsai'
   pagrindžia:
     - c-003
 
@@ -87,6 +120,8 @@ amziai:
 - t-009
   global_id: t-89163
   teiginys: 'Vėliau krikštą priėmę pagudėnai pasakojo matę lauką pilną ginkluotų vyrų prieš prūsų kariuomenės pabėgimą.'
+  sudarymo_pagrindimas: 'Reikia išplėsti kontekstinį „tą patį“.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_place: Elbingas; mentioned_place: Prūsai; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -94,6 +129,8 @@ amziai:
 - t-010
   global_id: t-89164
   teiginys: 'Pagudėnai įtikinėjo krikščionis atiduoti pilį ir pasiduoti, grasindami visus išžudyti ir sunaikinti.'
+  sudarymo_pagrindimas: 'Reikia pašalinti perteklinę atribuciją.'
+  susije_objektai: 'mentioned_place: Prūsai'
   pagrindžia:
     - c-012
 
@@ -101,6 +138,8 @@ amziai:
 - t-011
   global_id: t-89165
   teiginys: 'Tų pačių metų rudenį broliai vėl įsiveržė į Pagudės žemę, ją nusiaubė, daug žmonių paėmė į nelaisvę arba nukovė.'
+  sudarymo_pagrindimas: 'Rewrite failed deterministic gates: claim_missing_note_object'
+  susije_objektai: 'mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Pagudė'
   pagrindžia:
     - c-007
 
@@ -108,6 +147,8 @@ amziai:
 - t-012
   global_id: t-89166
   teiginys: 'Trečia — Pagudė193, kurioje [gyveno] pagudėnai.'
+  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Varmiai|Varmiai]]'
   pagrindžia:
     - c-011
 
@@ -115,6 +156,8 @@ amziai:
 - t-013
   global_id: t-89168
   teiginys: 'Pagudėnai užpuolė Elbingo komtūrą, Kristburgo komtūrą Helvigą iš Goldbacho bei jų padėjėjus ir išsivarė juos į nelaisvę.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citata apie pagudėnų puolimą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Elbingas; mentioned_place: Kristburgas'
   pagrindžia:
     - c-002
 
@@ -122,6 +165,11 @@ amziai:
 - t-014
   global_id: t-89169
   teiginys: 'Pamedėnai, pagudėnai, varmiai, notangai ir bartai sugrįžo į tikėjimą, davė broliams įkaitų ir iš naujo pasidavė.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas citata apie pagudėnų bei kitų grupių pasidavimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/įkaitai|įkaitai]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Henrikas Botelis|Henrikas Botelis]]; mentioned_person: [[objektai/asmenys/Henrikas iš Svarcburgo|Henrikas iš Svarcburgo]]; mentioned_place: Pomeranija; mentioned_place: Prūsija'
+  temporaliniai_duomenys: 'įvykio data: po 1246 m.; įvykio data: 1246 m.; įvykio data: 1260 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir paremtas citata apie pagudėnų bei kitų grupių pasidavimą.'
   pagrindžia:
     - c-009
 
@@ -129,6 +177,8 @@ amziai:
 - t-015
   global_id: t-89170
   teiginys: 'Antrosios atskalūnybės pradžioje pagudėnai su sūduviais ir kitomis Prūsijos gentimis nusiaubė Pagudę bei Pamedę.'
+  sudarymo_pagrindimas: 'Teiginys tiesiogiai perteikia citatos faktą apie pagudėnų žygį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_place: Elbingas; mentioned_place: Pagudė; mentioned_place: Pamedė; mentioned_place: Pilaitė; mentioned_place: Prūsija; mentioned_place: Veklicas; mentioned_place: Viena'
   pagrindžia:
     - c-016
 
@@ -136,9 +186,80 @@ amziai:
 - t-016
   global_id: t-89171
   teiginys: 'Pagudėnas Linkas su bartų vadu Divanu ir didele kariuomene įsibrovė į Kulmo žemę.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai įvardija pagudėną Linką ir jo veiksmą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Divanas|Divanas]]; mentioned_person: [[objektai/asmenys/Linkas|Linkas]]; mentioned_place: Kristburgas; mentioned_place: Kulmas; mentioned_place: Pilaitė'
+  temporaliniai_duomenys: 'įvykio data: 1265 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai įvardija pagudėną Linką ir jo veiksmą.'
   pagrindžia:
     - c-014
-
+- susijęs iš [[objektai/grupes/Sembai.md#claim-t-175082|Sembai]]: Sembai priklausė sembų-notangų kultūrinei grupei, kurioje išskiriamos sembų, varmių, notangų, pagudėnų ir pamedėnų gentinės teritorijos.
+- susijęs iš Traupeinas: Traupeino pilis buvo tarp Kristburgo ir Marienburgo, o pagudėnai ją apgulė Divano žygio metu.
+- susijęs iš [[objektai/asmenys/Auktumas.md#claim-t-60242|Auktumas]]: Prūsams atkritus nuo tikėjimo, pagudėnai savo kariuomenės vadu ir vyresniuoju išsirinko Auktumą.
+- susijęs iš [[objektai/asmenys/Ditrichas (Sembos fogtas).md#claim-t-59833|Ditrichas (Sembos fogtas)]]: 1286 m. Sembos fogtas Ditrichas baiminosi bartų, pagudėnų ir kitų prūsų sumanyto naujo sukilimo prieš brolius.
+- susijęs iš [[objektai/asmenys/Ditrichas (Sembos fogtas).md#claim-t-59836|Ditrichas (Sembos fogtas)]]: Grįžęs iš Vokietijos, Sembos fogtas Ditrichas iš Lidelau atkalbėjo sembus nuo paklydimo.
+- susijęs iš [[objektai/asmenys/Divanas.md#claim-t-59914|Divanas]]: Prūsams atkritus nuo tikėjimo, bartai savo kariuomenės vadu ir vyresniuoju išsirinko Divaną.
+- susijęs iš [[objektai/asmenys/Glanda.md#claim-t-60294|Glanda]]: Prūsams vėl atkritus nuo tikėjimo, sembai išsirinko Glandą savo kariuomenės vadu ir vyresniuoju.
+- susijęs iš [[objektai/asmenys/Glapas.md#claim-t-89793|Glapas]]: Prūsams vėl atkritus nuo tikėjimo, varmiai išsirinko Glapą savo kariuomenės vadu ir vyresniuoju.
+- susijęs iš [[objektai/asmenys/Helvigas fon Goldbachas.md#claim-t-186208|Helvigas fon Goldbachas]]: Žemaičiai per sėkmingus išpuolius prieš kryžiuočius paėmė į nelaisvę Christburgo komtūrą Helvigą fon Goldbachą.
+- susijęs iš [[objektai/asmenys/Helvigas iš Goldbacho.md#claim-t-60024|Helvigas iš Goldbacho]]: Pagudėnai ginkluoti užpuolė Kristburgo komtūrą Helvigą iš Goldbacho, Elbingo komtūrą ir jų padėjėjus bei išsivarė juos į nelaisvę.
+- susijęs iš [[objektai/asmenys/Herkus Mantas.md#claim-t-175187|Herkus Mantas]]: Notangai Herkų Mantą išsirinko savo kariuomenės vadu ir vyresniuoju po prūsų atkritimo nuo tikėjimo.
+- susijęs iš [[objektai/asmenys/Povyda.md#claim-t-60417|Povyda]]: Povyda netrukus išvadavo Elbingo komtūrą, Kristburgo komtūrą Helvigą iš Goldbacho ir jų padėjėjus iš pagudėnų nelaisvės.
+- susijęs iš [[objektai/asmenys/Skomantas (lietuvių vadas).md#claim-t-40424|Skomantas (lietuvių vadas)]]: Sūduvių ir lietuvių vadas Skomantas su didele kariuomene siaubė Kulmo teritoriją, puolė Kulmą ir sunaikino Eimsučio bei Cipelio pilis.
+- susijęs iš [[objektai/grupes/Bartai.md#claim-t-88535|Bartai]]: Po prūsų atkritimo nuo krikščionių tikėjimo bartai savo kariuomenės vadu išsirinko Divaną.
+- susijęs iš [[objektai/grupes/Elbingo miestiečiai.md#claim-t-183880|Elbingo miestiečiai]]: Kai Elbingo miestiečiai per daug nutolo nuo miesto, pagudėnai iš pasalos atkirto jiems kelią atgal.
+- susijęs iš [[objektai/grupes/Elbingo miestiečiai.md#claim-t-62994|Elbingo miestiečiai]]: Pagudėnų persekiojami Elbingo miestiečiai pasitraukė į Liefardo malūną, kuris buvo įtvirtintas tarsi pilis.
+- susijęs iš [[objektai/grupes/Elbingo miestiečiai.md#claim-t-62995|Elbingo miestiečiai]]: 1273 m. Elbingo miestiečiai vijosi prie miesto pasirodžiusius pagudėnų raitelius ir vieną kitą nukovė.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178894|Kryžiuočių ordinas]]: 1237 m. Kryžiuočių ordino magistras su broliais Pagudėje pastatė pilį, pavadintą Elbingu.
+- susijęs iš [[objektai/grupes/Notangai.md#claim-t-78409|Notangai]]: Prūsams vėl atkritus nuo tikėjimo, notangai savo kariuomenės vadu ir vyresniuoju išsirinko Herkų Mantą.
+- susijęs iš [[objektai/grupes/Pamedėnai.md#claim-t-78414|Pamedėnai]]: Antra — Pamedė192, kurioje [gyveno] pamedėnai.
+- susijęs iš [[objektai/grupes/Pamedėnai.md#claim-t-78415|Pamedėnai]]: Pagudėnai prie Kristburgo užpuolė pilaitę, kurioje gyveno tikintieji pamedėnai, į ją įsiveržė ir ją sugriovė.
+- susijęs iš [[objektai/grupes/Sembai.md#claim-t-175082|Sembai]]: Sembai priklausė sembų-notangų kultūrinei grupei, kurioje išskiriamos sembų, varmių, notangų, pagudėnų ir pamedėnų gentinės teritorijos.
+- susijęs iš [[objektai/grupes/Sembai.md#claim-t-175104|Sembai]]: Prūsams vėl atkritus nuo tikėjimo, sembai savo kariuomenės vadu ir vyresniuoju išsirinko Glandą.
+- susijęs iš [[objektai/grupes/Sembai.md#claim-t-175105|Sembai]]: Sembų fogtas Ditrichas iš Lidelau, grįžęs iš Vokietijos, atkalbėjo jį gerbusius sembus nuo paklydimo.
+- susijęs iš [[objektai/grupes/Varmiai.md#claim-t-78541|Varmiai]]: Po prūsų atkritimo nuo tikėjimo varmiai savo kariuomenės vadu ir vyresniuoju išsirinko Glapą.
+- susijęs iš [[objektai/ivykiai/Antrojo prūsų sukilimo pradžia ir krikščionių žudynės (1260 m.).md#claim-t-66455|Antrojo prūsų sukilimo pradžia ir krikščionių žudynės (1260 m.)]]: 1260 m. prūsai vėl atkrito nuo krikščionių tikėjimo, o sembai, notangai, varmiai, pagudėnai ir bartai išsirinko savo vadus.
+- susijęs iš [[objektai/ivykiai/Dusburgiečio pasakojamas Elbingo brolių stebuklas ir pagudėnų pasidavimas.md#claim-t-89362|Dusburgiečio pasakojamas Elbingo brolių stebuklas ir pagudėnų pasidavimas]]: Pagudėnai pasidavė broliams po pasakojamo stebuklo ir nuolatinių brolių antpuolių, davę įkaitų ir priėmę tikėjimą.
+- susijęs iš [[objektai/ivykiai/Dusburgiečio pasakojamas Elbingo brolių stebuklas ir pagudėnų pasidavimas.md#claim-t-89363|Dusburgiečio pasakojamas Elbingo brolių stebuklas ir pagudėnų pasidavimas]]: Dusburgietis pasakoja, kad pagudėnų kariuomenė pabėgo pamačiusi lauką, pilną ginkluotų vyrų, panašių į Ordino brolius.
+- susijęs iš [[objektai/ivykiai/Ketvirtosios atskalūnybės sąmokslas.md#claim-t-183930|Ketvirtosios atskalūnybės sąmokslas]]: Ketvirtosios atskalūnybės sąmokslas buvo susektas statant Ragainės pilį, o kaltinami bartai ir pagudėnai buvo nubausti.
+- susijęs iš [[objektai/ivykiai/Ketvirtosios atskalūnybės sąmokslas.md#claim-t-62823|Ketvirtosios atskalūnybės sąmokslas]]: Ketvirtosios atskalūnybės sąmokslas buvo susektas statant Ragainės pilį, o kaltinami bartai ir pagudėnai buvo nubausti.
+- susijęs iš [[objektai/ivykiai/Liefardo malūno paėmimas ir Elbingo miestiečių žūtis.md#claim-t-62854|Liefardo malūno paėmimas ir Elbingo miestiečių žūtis]]: Liefardo malūne apsupti Elbingo miestiečiai sutiko pagudėnams atiduoti 25 žymesniuosius vyrus, kad kiti liktų gyvi.
+- susijęs iš [[objektai/ivykiai/Liefardo malūno paėmimas ir Elbingo miestiečių žūtis.md#claim-t-62856|Liefardo malūno paėmimas ir Elbingo miestiečių žūtis]]: 1273 m. pagudėnai surengė pasalą prie Elbingo ir privertė miestiečius pasitraukti į įtvirtintą Liefardo malūną.
+- susijęs iš [[objektai/ivykiai/Pilaitės prie Kristburgo užėmimas ir sunaikinimas.md#claim-t-62432|Pilaitės prie Kristburgo užėmimas ir sunaikinimas]]: Pagudėnai prie Kristburgo užpuolė pamedėnų pilaitę, ją užėmė ir iš pagrindų sugriovė.
+- susijęs iš [[objektai/ivykiai/Veklico pilies ir vienos pilaitės sugriovimas.md#claim-t-66945|Veklico pilies ir vienos pilaitės sugriovimas]]: Pagudėnai su sūduviais ir kitomis Prūsijos gentimis sudegino pilaitę tarp Ragavos ir Veisikos upių.
+- susijęs iš [[objektai/ivykiai/Žygis prieš varmius, notangus ir bartus ir brolių žūtis prie būsimos Baigos.md#claim-t-67028|Žygis prieš varmius, notangus ir bartus ir brolių žūtis prie būsimos Baigos]]: Žygyje prieš varmius, notangus ir bartus broliai prie būsimos Baigos apiplėšė kaimus, o prūsai juos užpuolė ir išžudė.
+- susijęs iš [[objektai/ivykiai/Žygis į Pagudę ir Elbingo pilies pastatymas (1237 m.).md#claim-t-183977|Žygis į Pagudę ir Elbingo pilies pastatymas (1237 m.)]]: 1237 m. magistras su broliais ir maldininkais atvyko į Pagudę ir pastatė Elbingo pilį saloje prie Elbingo upės žiočių.
+- susijęs iš [[objektai/ivykiai/Žygis į Pagudę ir Elbingo pilies pastatymas (1237 m.).md#claim-t-62962|Žygis į Pagudę ir Elbingo pilies pastatymas (1237 m.)]]: 1237 m. magistras su broliais ir maldininkais atvyko į Pagudę ir pastatė Elbingo pilį saloje prie Elbingo upės žiočių.
+- susijęs iš [[objektai/ivykiai/Žygis į Pagudę ir Elbingo pilies pastatymas (1237 m.).md#claim-t-62963|Žygis į Pagudę ir Elbingo pilies pastatymas (1237 m.)]]: 1237 m. žygyje į Pagudę magistras su broliais pastatė Elbingo pilį saloje prie Elbingo upės žiočių.
+- susijęs iš [[objektai/ivykiai/Žygis į Pagudę, Heilsbergo pilies užėmimas ir taikos atkūrimas.md#claim-t-62964|Žygis į Pagudę, Heilsbergo pilies užėmimas ir taikos atkūrimas (pilis)]]: Magistras ir broliai įsiveržė į Pagudę, ją nusiaubė, užkariavo Heilsbergo pilį ir paėmė arba išžudė jos žmones.
+- susijęs iš [[objektai/ivykiai/Žygis į Pagudę, Heilsbergo pilies užėmimas ir taikos atkūrimas.md#claim-t-62965|Žygis į Pagudę, Heilsbergo pilies užėmimas ir taikos atkūrimas (pilis)]]: Užkariavus Heilsbergo pilį, kuri buvo pagudėnų rankose, nuo to laiko Prūsijos žemėje įsiviešpatavo taika.
+- susijęs iš [[objektai/paprociai/Elbingo miestiečių nuolatinis ginklų laikymas prie savęs.md#claim-t-62674|Elbingo miestiečių nuolatinis ginklų laikymas prie savęs]]: 1273 m. Elbingo miestiečiai nuolat laikė prie savęs kovai parengtus ginklus ir vijosi prie miesto pasirodžiusius pagudėnų raitelius.
+- susijęs iš [[objektai/posakiai/Atėjo baisenybė, kurios bijojau.md#claim-t-59083|Atėjo baisenybė, kurios bijojau]]: 1286 m. Sembos fogtas Ditrichas, sužinojęs apie naują prūsų sąmokslą prieš brolius, galėjo kartoti Jobo žodžius: „Atėjo baisenybė, kurios bijojau“.
+- susijęs iš [[objektai/posakiai/Mes tikrai esame matę visą lauką pilną ginkluotų vyrų, apsivilkusių ir apsiginklavusių taip kaip jūsų broliai, štai dėl to ir mūsų kariuomen.md#claim-t-103452|Mes tikrai esame matę visą lauką pilną ginkluotų vyrų, apsivilkusių ir apsiginklavusių taip kaip jūsų broliai, štai dėl to ir mūsų kariuomen]]: Pagudėnai pasakojo matę lauką, pilną ginkluotų vyrų, todėl jų kariuomenė leidosi bėgti.
+- susijęs iš [[objektai/posakiai/Mes tikrai esame matę visą lauką pilną ginkluotų vyrų, apsivilkusių ir apsiginklavusių taip kaip jūsų broliai, štai dėl to ir mūsų kariuomen.md#claim-t-103453|Mes tikrai esame matę visą lauką pilną ginkluotų vyrų, apsivilkusių ir apsiginklavusių taip kaip jūsų broliai, štai dėl to ir mūsų kariuomen]]: Petras Dusburgietis pagudėnams priskiria pasakojimą, kad jų kariuomenė bėgo pamačiusi lauką, pilną ginkluotų vyrų.
+- susijęs iš [[objektai/posakiai/daug karų buvo kariauta prieš sembų gentį, bet per daug užgaištume, kiekvieną aprašinėdami skyrium.md#claim-t-89579|daug karų buvo kariauta prieš sembų gentį, bet per daug užgaištume, kiekvieną aprašinėdami skyrium]]: Kalbėdamas apie Ordino pastangas užgrobti Sembą, Dusburgietis nurodė, kad prieš sembus kariauta daug karų, bet visų aprašyti neverta.
+- susijęs iš [[objektai/posakiai/visi būsią išžudyti ir sunaikinti.md#claim-t-59169|visi būsią išžudyti ir sunaikinti]]: Pagudėnai grasino krikščionims išžudymu ir sunaikinimu, jei šie neatiduos pilies ir nepasiduos.
+- susijęs iš [[objektai/posakiai/visi būsią išžudyti ir sunaikinti.md#claim-t-59170|visi būsią išžudyti ir sunaikinti]]: Pagudėnai grasino krikščionims, kad šie bus išžudyti ir sunaikinti, jei neatiduos pilies ir nepasiduos.
+- susijęs iš Baiga: Broliai perplaukė Gėlo vandens marias ieškodami vietos piliai ir netoli būsimos Baigos pamatė prūsų pilį.
+- susijęs iš Elbingas: 1273 m. pagudėnai paslėpė kariuomenę miške netoli Elbingo ir pasala atkirto miestiečiams kelią į miestą.
+- susijęs iš Elbingas: 1237 m. Elbingo pilis buvo pastatyta toje vietoje, kur Elbingo upė įteka į Gėlo vandens marias.
+- susijęs iš Elbingas: 1237 m. magistras su broliais ir maldininkais Pagudėje pastatė pilį, kurią nuo Elbingo upės vardo pavadino Elbingu.
+- susijęs iš Elbingas: 1237 m. Ordino broliai Pagudėje pastatė pilį prie Elbingo upės ir pavadino ją Elbingu.
+- susijęs iš Elbingas: 1237 m. magistras su broliais ir maldininkais atvyko į Pagudę ir pastatė Elbingo pilį prie Elbingo upės žiočių.
+- susijęs iš Heilsbergas: Ordino magistras ir broliai užkariavo pagudėnų valdytą Heilsbergo pilį, jos žmones išžudė arba paėmė į nelaisvę.
+- susijęs iš Kristburgas: Pagudėnai prie Kristburgo užpuolė netoliese buvusią pilaitę, kurioje gyveno tikintieji pamedėnai, ir ją sugriovė.
+- susijęs iš Liefardo malūnas: Persekiojami miestiečiai pasitraukė į Liefardo malūną, kuris buvo įtvirtintas kaip pilis.
+- susijęs iš Pagudė: 1237 m. magistras su broliais ir maldininkais atvyko į Pagudės žemę ir Elbingo upės saloje pastatė Elbingo pilį.
+- susijęs iš Pagudė: Magistras ir broliai, keršydami už nužudytuosius, įsiveržė į Pagudės žemę ir ją nusiaubė plėšdami, degindami bei imdami belaisvius.
+- susijęs iš Pagudė: Pavergę pamedėnus, magistras ir broliai 1237 m. atvyko į Pagudės žemę pradėti karo prieš pagudėnus.
+- susijęs iš Pamedė: Antrosios atskalūnybės pradžioje pagudėnai su sūduviais ir kitomis Prūsijos gentimis išnaršė Pagudę bei Pamedę.
+- susijęs iš Traupeinas: Traupeino pilis buvo tarp Kristburgo ir Marienburgo, o pagudėnai ją apgulė Divano žygio metu.
+- susijęs iš [[objektai/zodynas/fogtas.md#claim-t-184002|fogtas]]: Grįžęs iš Vokietijos, sembų fogtas Ditrichas iš Lidelau atkalbėjo jį gerbusius sembus nuo paklydimo.
+- susijęs iš [[objektai/zodynas/fogtas.md#claim-t-58811|fogtas]]: Grįžęs iš Vokietijos, sembų fogtas Ditrichas iš Lidelau atkalbėjo jį gerbusius sembus nuo paklydimo.
+- susijęs iš [[objektai/zodynas/maldininkai maldininko įžadai.md#claim-t-184008|maldininkai / maldininko įžadai]]: 1237 m. magistras su broliais ir Meiseno markgrafo paliktais maldininkais Pagudėje pastatė Elbingo pilį.
+- susijęs iš [[objektai/zodynas/maldininkai maldininko įžadai.md#claim-t-70223|maldininkai / maldininko įžadai]]: 1237 m. magistras su broliais ir Meiseno markgrafo paliktais maldininkais Pagudėje pastatė Elbingo pilį.
+- susijęs iš [[objektai/zodynas/maldininkai maldininko įžadai.md#claim-t-70226|maldininkai / maldininko įžadai]]: Dusburgietis `maldininkais` vadina į Prūsiją atvykstančius ar joje paliekamus religinio karo talkininkus.
+- susijęs iš [[objektai/zodynas/papilys.md#claim-t-184010|papilys]]: Pagudėnai ir jų sąjungininkai būtų galėję paimti Elbingo papilį, jei karys Virtelis nebūtų ietimi pervėręs jų vado.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -466,62 +587,14 @@ amziai:
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bartai]]
-- [[objektai/asmenys/Divanas]]
-- [[objektai/daiktai/Ginklai]]
-- [[objektai/autoriai/Henrikas]]
-- [[objektai/asmenys/Henrikas Botelis]]
-- [[objektai/asmenys/Henrikas iš Svarcburgo]]
-- [[objektai/asmenys/Herkus Mantas]]
-- [[objektai/autoriai/K. Būga]]
-- [[objektai/daiktai/Laivai]]
-- [[objektai/asmenys/Linkas]]
-- [[objektai/daiktai/Malūnas]]
-- [[objektai/asmenys/Maudelis]]
-- [[objektai/grupes/Nadruviai]]
-- [[objektai/grupes/Notangai]]
-- [[objektai/grupes/Sembai]]
-- [[objektai/grupes/Sūduviai]]
-- [[objektai/grupes/Varmiai]]
-- [[objektai/zodynas/ginklanešiai]]
-- [[objektai/zodynas/komtūras]]
-- [[objektai/posakiai/krikšto prikelti naujam gyvenimui|krikšto prikelti naujam gyvenimui (krikštas, XIII a.)]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/netikėliai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/įkaitai]]
-- [[objektai/ivykiai/Antrojo prūsų sukilimo pradžia ir krikščionių žudynės (1260 m.)]]
-- [[objektai/posakiai/Atėjo baisenybė, kurios bijojau]]
-- [[objektai/asmenys/Auktumas]]
-- [[objektai/asmenys/Ditrichas (Sembos fogtas)]]
-- [[objektai/grupes/Elbingo miestiečiai]]
-- [[objektai/asmenys/Glanda]]
-- [[objektai/asmenys/Glapas]]
-- [[objektai/asmenys/Helvigas fon Goldbachas]]
-- [[objektai/ivykiai/Ketvirtosios atskalūnybės sąmokslas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/ivykiai/Liefardo malūno paėmimas ir Elbingo miestiečių žūtis]]
-- [[objektai/grupes/Pamedėnai]]
-- [[objektai/ivykiai/Pilaitės prie Kristburgo užėmimas ir sunaikinimas]]
-- [[objektai/asmenys/Skomantas (lietuvių vadas)]]
-- [[objektai/posakiai/daug karų buvo kariauta prieš sembų gentį, bet per daug užgaištume, kiekvieną aprašinėdami skyrium]]
-- [[objektai/zodynas/fogtas]]
-- [[objektai/zodynas/maldininkai maldininko įžadai|maldininkai / maldininko įžadai]]
-- [[objektai/posakiai/visi būsią išžudyti ir sunaikinti]]
-- [[objektai/ivykiai/Žygis prieš varmius, notangus ir bartus ir brolių žūtis prie būsimos Baigos]]
-- [[objektai/ivykiai/Žygis į Pagudę ir Elbingo pilies pastatymas (1237 m.)]]
-- [[objektai/ivykiai/Žygis į Pagudę, Heilsbergo pilies užėmimas ir taikos atkūrimas|Žygis į Pagudę, Heilsbergo pilies užėmimas ir taikos atkūrimas (pilis)]]
-- [[objektai/zodynas/maldininkai]]
-- [[objektai/ivykiai/Dusburgiečio pasakojamas Elbingo brolių stebuklas ir pagudėnų pasidavimas]]
-- [[objektai/paprociai/Elbingo miestiečių nuolatinis ginklų laikymas prie savęs]]
-- [[objektai/asmenys/Helvigas iš Goldbacho]]
-- [[objektai/posakiai/Mes tikrai esame matę visą lauką pilną ginkluotų vyrų, apsivilkusių ir apsiginklavusių taip kaip jūsų broliai, štai dėl to ir mūsų kariuomen]]
-- [[objektai/asmenys/Povyda]]
-- [[objektai/ivykiai/Veklico pilies ir vienos pilaitės sugriovimas]]
-- [[objektai/zodynas/papilys]]
-- [[objektai/asmenys/Kaltis]]
-- [[objektai/ivykiai/Nadruvos karo pradžia ir kilmingųjų Nadruvos vyrų atsivertimas]]
-- [[objektai/asmenys/Tirskas]]
-- [[objektai/zodynas/bažnyčios visuotinybė]]
+- Pagudėnai gyveno [[objektai/vietos/Elbingas]]
+- Pagudėnai gyveno [[objektai/vietos/Pagudė]]
+- Pagudėnai gyveno [[objektai/vietos/Prūsai]]
+- Pagudėnai gyveno [[objektai/vietos/Prūsų žemė]]
+- Pagudėnai uzkariavo [[objektai/vietos/Heilsbergas]]
+- Pagudėnai uzkariavo [[objektai/vietos/Pagudė]]
+- Pagudėnai uzkariavo [[objektai/vietos/Prūsija]]
+- [[objektai/asmenys/Divanas]] puole Pagudėnai
+- Pagudėnai keliavo_i [[objektai/vietos/Elbingas]]
+- Pagudėnai keliavo_i [[objektai/vietos/Pagudė]]
+- [[objektai/grupes/Sembai]] priklause Pagudėnai

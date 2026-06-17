@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Kunigas A. Mackevičius laimino sukilėlius ir šventino jų vėliavas. Kunigas Mackevičius sukilėlių stovykloje laikė mišias ir atlikinėjo naujokų įšventinimo apeigas. Kunigas Mackevičius sukilėlių stovykloje laikė mišias ir atlikinėjo naujokų įšventinimo apeigas.
+Kunigas A. Mackevičius laimino sukilėlius ir šventino jų vėliavas. Sukilėlių stovykloje jis laikė mišias ir atlikinėjo naujokų įšventinimo apeigas.
 
 ## Laikotarpis ir datos
 
@@ -49,6 +49,7 @@ Nenurodyta
 - t-001
   global_id: t-41429
   teiginys: 'Kunigas A. Mackevičius laimino sukilėlius ir šventino jų vėliavas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Rusija'
   pagrindžia:
     - c-003
 
@@ -56,6 +57,8 @@ Nenurodyta
 - t-002
   global_id: t-41430
   teiginys: 'Kunigas Mackevičius sukilėlių stovykloje laikė mišias ir atlikinėjo naujokų įšventinimo apeigas.'
+  sudarymo_pagrindimas: 'Perrašyta be inicialo ir paliktas aiškus sakinys apie apeigas stovykloje.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]'
   pagrindžia:
     - c-002
 
@@ -116,12 +119,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/kunigas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/daiktai/1863-1864 m. sukilėlių vėliava]]
-- [[objektai/asmenys/Antanas Mackevičius]]
-- [[objektai/paprociai/Teresboro stovyklos mokymai lietuvių kalba]]

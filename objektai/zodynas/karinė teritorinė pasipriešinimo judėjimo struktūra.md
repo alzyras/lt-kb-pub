@@ -20,6 +20,7 @@ Taip pat buvo įtvirtinta karinė teritorinė pasipriešinimo judėjimo struktū
 - t-001
   global_id: t-38754
   teiginys: 'Karinėje teritorinėje pasipriešinimo judėjimo struktūroje partizanų skyriai jungėsi į būrius, būriai - į rinktines, o rinktinės - į apygardas.'
+  sudarymo_pagrindimas: 'Pirminis teiginys per bendras, citata leidžia pateikti informatyvesnę struktūrą.'
   pagrindžia:
     - c-001
 
@@ -38,7 +39,3 @@ Taip pat buvo įtvirtinta karinė teritorinė pasipriešinimo judėjimo struktū
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/Lietuvos partizanų apygardų atstovų suvažiavimas ir LLKS deklaracija (1949 m. vasaris)]]

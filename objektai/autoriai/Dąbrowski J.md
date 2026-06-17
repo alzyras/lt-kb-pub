@@ -20,6 +20,7 @@ Dusburgietis teigia, kad semkowicz-Zarembina); Dąbrowski J.
 - t-001
   global_id: t-60693
   teiginys: 'Dąbrowski J. parašė darbą „Dawne dziejopisarstwo“.'
+  sudarymo_pagrindimas: 'Citata nurodo Dąbrowskį J. kaip darbo „Dawne dziejopisarstwo“ autorių.'
   pagrindžia:
     - c-001
 

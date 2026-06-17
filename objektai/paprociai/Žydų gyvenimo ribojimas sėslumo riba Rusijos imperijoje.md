@@ -47,6 +47,11 @@ Nenurodyta
 - t-001
   global_id: t-54377
   teiginys: 'Rusijos imperijoje žydai galėjo gyventi tik į vakarus nuo 1791 m. Jekaterinos II nubrėžtos sėslumo ribos.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nusako sėslumo ribos funkciją ir datą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_person: [[objektai/asmenys/Jekaterina II|Jekaterina II]]; mentioned_place: Lenkija; mentioned_place: Rusija; mentioned_place: Ukraina'
+  temporaliniai_duomenys: 'įvykio data: po 1791 m.; įvykio data: 1791 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako sėslumo ribos funkciją ir datą.'
   pagrindžia:
     - c-001
 
@@ -71,10 +76,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/asmenys/Jekaterina II]]
-- [[objektai/grupes/Žydai]]
-- [[objektai/ivykiai/Jekaterinos II sėslumo ribos nustatymas (1791 m.)]]

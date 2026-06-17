@@ -9,7 +9,6 @@ datos:
   - '1240 m.'
   - '1245 m.'
   - '1246 m.'
-  - '2013 m.'
   - '2026 m.'
 date_start: '1219'
 date_end: '2026'
@@ -36,6 +35,11 @@ amziai:
 - t-001
   global_id: t-25379
   teiginys: '1235 m. rusų metraščiai mini „Mindaugo Lietuvą“, todėl svarstoma, ar Mindaugas jau buvo pajungęs kitus kunigaikščius.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, pilnas ir paremtas citatos svarstymu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1219 m.; įvykio data: 1235 m.; įvykio data: 1240 m.; įvykio data: apie 1240 m.; įvykio data: 1245-1246; įvykio data: 1246 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, pilnas ir paremtas citatos svarstymu.'
   pagrindžia:
     - c-001
 
@@ -58,12 +62,3 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/ivykiai/Lietuvos valstybės susikūrimas apie 1240 m]]
-- [[objektai/posakiai/„aukščiausiuoju karaliumi“]]

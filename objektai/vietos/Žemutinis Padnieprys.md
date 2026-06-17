@@ -27,6 +27,11 @@ Mūšio išvakarėse Parengiamieji žygiai buvo organizuoti dviem kryptims: nuo 
 - t-001
   global_id: t-38679
   teiginys: 'Prieš mūšį parengiamieji žygiai buvo organizuoti nuo Žemutinio Padnieprio Dono link ir į Krymą.'
+  sudarymo_pagrindimas: 'Pradiniame sakinyje yra antraštės liekana ir netaisyklinga konstrukcija.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Donas; mentioned_place: Krymas; mentioned_place: Lietuva; mentioned_place: Volga'
+  temporaliniai_duomenys: 'įvykio data: 1397 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradiniame sakinyje yra antraštės liekana ir netaisyklinga konstrukcija.'
   pagrindžia:
     - c-001
 

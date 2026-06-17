@@ -20,9 +20,327 @@ Taip pat buvo trys sidabriniai dubenys 442 ## Puslapis 459 IV KNYGA pas poną va
 - t-001
   global_id: t-87905
   teiginys: 'Vaistininkas Antanas nuo liepos 10 d. iki rugpjūčio 18 d. turėjo tris sidabrinius dubenis.'
+  sudarymo_pagrindimas: 'Citata pagrindžia faktą apie pas Antaną buvusius sidabrinius dubenis.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-183525|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Antano Smetonos redaguojamos „Vilties“ grupuotė kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose.
+- susijęs iš [[objektai/grupes/Tautininkų grupuotė apie „Viltį“.md#claim-t-183186|Tautininkų grupuotė apie „Viltį“]]: Tautininkų grupuotė apie Antano Smetonos redaguojamą „Viltį“ kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose.
+- susijęs iš [[objektai/grupes/Tautininkų grupuotė apie „Viltį“.md#claim-t-20038|Tautininkų grupuotė apie „Viltį“]]: Tautininkų grupuotė apie Antano Smetonos redaguojamą „Viltį“ kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose.
+- susijęs iš [[objektai/grupes/Vilniaus sukilimo centrinis komitetas.md#claim-t-55098|Vilniaus sukilimo centrinis komitetas]]: Vilniaus sukilimo centriniam komitetui priklausė Antanas Goreckis, Stanislovas Šumskis, Justinas Hrebnickis, Leonas Rogalskis, Edvardas Riomeris, Mykolas Balinskis ir Liudvikas Zambrzyckis.
+- susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77980|A. Smetona]]: 1927 m. vasarą ir rudenį A. Smetona keliavo po Lietuvos miestelius, lydimas karininkų, ministrų, žurnalistų ir kino kronikos kamerų.
+- susijęs iš [[objektai/asmenys/Albinas Pajarskas-Bebas.md#claim-t-39473|Albinas Pajarskas-Bebas]]: 1949 m. Albinas Pajarskas-Bebas buvo Algimanto apygardos štabo viršininkas.
+- susijęs iš [[objektai/asmenys/Aleksandras Grybinas-Faustas.md#claim-t-40000|Aleksandras Grybinas-Faustas]]: Aleksandras Grybinas-Faustas buvo Tauro apygardos vadas.
+- susijęs iš [[objektai/asmenys/Aleksandras Milaševičius-Ruonis.md#claim-t-40001|Aleksandras Milaševičius-Ruonis]]: Aleksandras Milaševičius-Ruonis buvo Vakarų Lietuvos srities vadas.
+- susijęs iš [[objektai/asmenys/Aleksas Matelis-Audenis.md#claim-t-39481|Aleksas Matelis-Audenis]]: 1949 m. Aleksas Matelis-Audenis buvo Algimanto apygardos organizacinio skyriaus viršininkas.
+- susijęs iš [[objektai/asmenys/Algirdas Brazauskas.md#claim-t-75684|Algirdas Brazauskas]]: 2003 m. Atėnuose Algirdas Brazauskas pasirašė Lietuvos stojimo į Europos Sąjungą sutartį.
+- susijęs iš [[objektai/asmenys/Antanas Baranauskas.md#claim-t-78029|Antanas Baranauskas]]: Antanas Baranauskas 1859 m. išreiškė civilizuotos, aukštąją kultūrą turinčios lietuvių tautos viziją.
+- susijęs iš [[objektai/asmenys/Antanas Baranauskas.md#claim-t-78030|Antanas Baranauskas]]: Etninės lietuvybės pagrindu gimstančiai nacijai vyskupo Antano Baranausko formuluoti tikslai atrodė pasiekiami, ypač jei atsirastų valstybė, kuri juos laikytų ir savo kultūros politikos dalimi.
+- susijęs iš [[objektai/asmenys/Antanas Buračas.md#claim-t-183523|Antanas Buračas]]: Antanas Buračas viešai svarstė Lietuvos ekonominio savarankiškumo klausimus ir rėmė įmonių savarankiškumą bei rinkos laisvę.
+- susijęs iš [[objektai/asmenys/Antanas Buračas.md#claim-t-18810|Antanas Buračas]]: Antanas Buračas viešai svarstė Lietuvos ekonominio savarankiškumo klausimus ir pasisakė už įmonių savarankiškumą bei rinkos laisvę.
+- susijęs iš [[objektai/asmenys/Antanas Gelgaudas.md#claim-t-63475|Antanas Gelgaudas]]: Antanas Gelgaudas vadovavo 1831 m. birželį į Lietuvą pasiųstai reguliariajai Lenkijos karalystės kariuomenei.
+- susijęs iš [[objektai/asmenys/Antanas Gelgaudas.md#claim-t-63476|Antanas Gelgaudas]]: Antanas Gelgaudas, palikęs štabą, pats dalyvavo mūšyje.
+- susijęs iš [[objektai/asmenys/Antanas Gelgaudas.md#claim-t-63477|Antanas Gelgaudas]]: Jungtinei sukilėlių kariuomenei vadovavo generolas Antanas Gelgaudas.
+- susijęs iš [[objektai/asmenys/Antanas Goreckis.md#claim-t-87627|Antanas Goreckis]]: Antanas Goreckis priklausė 1830 m. rudenį Vilniuje susikūrusiam sukilimo centriniam komitetui.
+- susijęs iš [[objektai/asmenys/Antanas Gustaitis.md#claim-t-183524|Antanas Gustaitis]]: Antanas Gustaitis nuo 1934 m. vadovavo Lietuvos karo aviacijai ir sukonstravo ANBO lėktuvų seriją, kurios 66 lėktuvai pastatyti Kauno karo aviacijos dirbtuvėse.
+- susijęs iš [[objektai/asmenys/Antanas Gustaitis.md#claim-t-75691|Antanas Gustaitis]]: Antanas Gustaitis sukonstravo lengvąjį bombonešį ANBO VIII, 1939 m. pagamintą Kauno aviacijos dirbtuvėse.
+- susijęs iš [[objektai/asmenys/Antanas Gustaitis.md#claim-t-75692|Antanas Gustaitis]]: Antanas Gustaitis nuo 1934 m. vadovavo Lietuvos karo aviacijai, sukonstravo ANBO lėktuvų seriją ir pavadino ją pagal žodžius „Antanas nori būti ore“.
+- susijęs iš [[objektai/asmenys/Antanas Gustaitis.md#claim-t-75693|Antanas Gustaitis]]: Antanas Gustaitis sukonstravo lengvąjį bombonešį ANBO VIII, 1939 m. pagamintą Kauno aviacijos dirbtuvėse.
+- susijęs iš [[objektai/asmenys/Antanas Jančius-Žaibas.md#claim-t-80704|Antanas Jančius-Žaibas]]: Antanas Jančius-Žaibas buvo siejamas su bunkeriu Šimonių girioje prie Iženos upelio, kurį užpuolus žuvo 6 partizanai.
+- susijęs iš [[objektai/asmenys/Antanas Kaminskas.md#claim-t-183727|Antanas Kaminskas]]: Kapitonas Antanas Kaminskas vadovavo apie 80 karių iš 8-ojo regimento redute tarp miesto ir priemiesčio.
+- susijęs iš [[objektai/asmenys/Antanas Kaminskas.md#claim-t-39710|Antanas Kaminskas]]: Kapitonas Antanas Kaminskas vadovavo apie 80 karių iš 8-ojo regimento, dengusių du reduto pabūklus.
+- susijęs iš [[objektai/asmenys/Antanas Kazimeras Žemaitis.md#claim-t-18813|Antanas Kazimeras Žemaitis]]: Antanas Kazimeras Žemaitis sukūrė gitarą „Zemaitis“, kuria grojo Jimi Hendrixas, Ericas Claptonas, Bobas Dylanas ir kiti muzikantai.
+- susijęs iš [[objektai/asmenys/Antanas Liesys-Idenas.md#claim-t-40024|Antanas Liesys-Idenas]]: Antanas Liesys-Idenas buvo Vakarų Lietuvos srities Agitacijos ir propagandos skyriaus viršininkas.
+- susijęs iš [[objektai/asmenys/Antanas Mackevičius.md#claim-t-75694|Antanas Mackevičius]]: Kauno gubernijoje vienas pirmųjų sukilimo organizatorių buvo kunigas Antanas Mackevičius.
+- susijęs iš [[objektai/asmenys/Antanas Mackevičius.md#claim-t-75695|Antanas Mackevičius]]: Po Zigmanto Sierakausko mirties Antanas Mackevičius buvo paskirtas Kauno gubernijos sukilėlių karo vadu.
+- susijęs iš [[objektai/asmenys/Antanas Mackevičius.md#claim-t-75696|Antanas Mackevičius]]: Antanui Mackevičiui nepavyko tinkamai išdėstyti savo šaulių gynybai, o klampioje vietovėje sukilėlių kavalerija buvo neveiksminga.
+- susijęs iš [[objektai/asmenys/Antanas Mackevičius.md#claim-t-75697|Antanas Mackevičius]]: Antanas Mackevičius stovykloje laikė mišias ir atlikinėjo naujokų įšventinimo apeigas.
+- susijęs iš [[objektai/asmenys/Antanas Mackevičius.md#claim-t-75698|Antanas Mackevičius]]: Po Zigmanto Sierakausko mirties Antanas Mackevičius buvo paskirtas Kauno gubernijos sukilėlių karo vadu.
+- susijęs iš [[objektai/asmenys/Antanas Mackevičius.md#claim-t-75699|Antanas Mackevičius]]: Antanui Mackevičiui pavyko suburti išsklaidytus sukilėlius ir išvesti juos pro Rusijos kariuomenės apsupimą į Vidurio Lietuvą.
+- susijęs iš [[objektai/asmenys/Antanas Mackevičius.md#claim-t-75700|Antanas Mackevičius]]: Zigmantas Sierakauskas vienai sukilėlių kariuomenės kolonai pavedė vadovauti Antanui Mackevičiui.
+- susijęs iš [[objektai/asmenys/Antanas Mackevičius.md#claim-t-75702|Antanas Mackevičius]]: Po Zigmanto Sierakausko mirties Antanas Mackevičius buvo paskirtas Kauno gubernijos sukilėlių karo vadu.
+- susijęs iš [[objektai/asmenys/Antanas Merkys.md#claim-t-169957|Antanas Merkys]]: Krikščionys demokratai ir liaudininkai pareikalavo vietoje Antano Merkio ministru pirmininku paskirti Stasį Raštikį.
+- susijęs iš [[objektai/asmenys/Antanas Merkys.md#claim-t-169958|Antanas Merkys]]: Sovietų spaudimo akivaizdoje Maskva pakvietė atvykti Lietuvos ministrą pirmininką Antaną Merkį.
+- susijęs iš [[objektai/asmenys/Antanas Merkys.md#claim-t-169959|Antanas Merkys]]: 1939 m. lapkritį LVLS ir LKDP sutiko deleguoti po du atstovus į tautininko Antano Merkio vyriausybę.
+- susijęs iš [[objektai/asmenys/Antanas Merkys.md#claim-t-169961|Antanas Merkys]]: 1940 m. birželio 7 d. Maskvoje Viačeslavas Molotovas brutaliai elgėsi su Antanu Merkiu ir kaltino Lietuvą antisovietine veikla.
+- susijęs iš [[objektai/asmenys/Antanas Merkys.md#claim-t-169962|Antanas Merkys]]: Antanas Merkys psichologiškai palūžo nuo Viačeslavo Molotovo rėksmingų kaltinimų absurdiškumo.
+- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-183525|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Antano Smetonos redaguojamos „Vilties“ grupuotė kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose.
+- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75709|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Antanas Smetona agresyvesniems jaunalietuviams pareiškė, kad Lietuvoje „vietos visiems užteks“.
+- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75710|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Vytauto Didžiojo kultas susiejo Antano Smetonos valdomą Lietuvos valstybę su stipraus tautos vado įvaizdžiu.
+- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75711|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Vytauto Didžiojo kultas siejo stipraus tautos vado vaizdinį su Antano Smetonos valdoma Lietuvos valstybe.
+- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75712|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1928 m. gegužės 15 d. Antanas Smetona nauja konstitucija sustiprino savo viršenybę prieš Seimą.
+- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75713|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1927 m. vasarą ir rudenį Antanas Smetona keliavo po miestelius, lankė maldos namus ir aiškino naujos vadovybės planus.
+- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75714|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Antanas Smetona ir Augustinas Voldemaras pabrėžė stiprių prezidento galių būtinybę ir menkino politinių partijų vaidmenį.
+- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75715|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Antanas Smetona Lietuvos demokratiją vadino vaikams per dideliais batais, nes parlamentarizmo tradicija per šešerius metus neįsitvirtino.
+- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75718|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1927 m. vasarą ir rudenį Antanas Smetona keliavo po miestelius, aiškindamas naujos vadovybės planus įvesti tvarką šalyje.
+- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75719|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1917 m. Lietuvių konferencijoje Vilniuje Antanas Smetona išrinktas Lietuvos Tarybos pirmininku, tikintis, kad jis įveiks Tarybos vidaus prieštaravimus.
+- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75723|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1940 m. birželį iš Lietuvos išvykęs Antanas Smetona per Vokietiją, Šveicariją ir Portugaliją pasitraukė į JAV.
+- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75724|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1938 m. gegužės 12 d. prezidentas Antanas Smetona ir ministras pirmininkas Vladas Mironas pasirašė naują Lietuvos konstituciją.
+- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75725|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Antanas Smetona netrukus pakeitė Klaipėdos nacių teismo skirtą mirties bausmę kalėjimu iki gyvos galvos, o 1937 m. amnestavo kaltinamuosius.
+- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75726|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Antanas Smetona, kaip vienas aršiausių tautininkų kritikų, dėl valdžios baudimų buvo patekęs į kalėjimą.
+- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75727|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1936 m. kovą Kaune Antanas Smetona atsakomąja kalba užvėrė duris kompromisui su Lenkija.
+- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75728|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1927 m. balandžio 12 d. Antanas Smetona prezidento aktu paleido III Seimą ir nustūmė krikščionis demokratus nuo valdžios.
+- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75729|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1919 m. rugsėjo 26 d. Kaune prezidentas Antanas Smetona iš balkono sveikino minias po Didžiosios Britanijos de facto pripažinimo.
+- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75730|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Priėmus Lenkijos ultimatumą, Antanui Smetonai artimas kunigas Vladas Mironas pakeitė Juozą Tūbelį premjero poste.
+- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75731|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Antano Smetonos režimo prioritetai buvo tautinės kultūros kūrimas ir lietuviškai kalbančios Lietuvos formavimas.
+- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75732|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Antanas Smetona ir Augustinas Voldemaras pabrėždavo stiprių prezidento galių būtinybę ir nevertino politinių partijų vaidmens.
+- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75733|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Po 1939 m. rudens nuosaikus Antano Smetonos autoritarinis režimas netenkino nei dešinės radikalų, nei dalies kairiojo jaunimo.
+- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75737|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1918 m. gruodžio 21 d. Antanas Smetona išvyko į Berlyną ir pasirašė 100 mln. markių paskolą ginklams įsigyti.
+- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75738|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Antano Smetonos režimas nereguliavo kultūros reiškinių raidos, turinio ir dvasios, nors kalbėjo apie lietuvių tautinės kultūros kūrimą.
+- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75739|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1940 m. birželio 15 d. Antano Smetonos siūlymą priešintis ginklu palaikė vos du ministrai.
+- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75740|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Antanas Smetona agresyvesniems jaunalietuviams pareiškė, kad „vietos visiems užteks“.
+- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75741|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Antano Smetonos valstybės modelio ir režimo prioritetai buvo tautinės kultūros kūrimas ir lietuviškai kalbanti Lietuva.
+- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75742|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1926 m. gruodžio 19 d. III Seimo nepaprastajame posėdyje Antanas Smetona išrinktas Lietuvos prezidentu ir prisiekė laikytis Konstitucijos.
+- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75743|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Antano Smetonos valstybės modelio prioritetai – tautinės kultūros kūrimas ir lietuviškai kalbanti Lietuva – iš esmės buvo įgyvendinti.
+- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75744|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Grėsmės akivaizdoje Antanas Smetona leido Antanui Merkiui pasirašyti bet kokias sutartis, jei jos nepažeistų 1939 m. spalio 10 d. sutarties.
+- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75746|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Antano Smetonos režimas nereguliavo kultūros reiškinių raidos, turinio ir dvasios.
+- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75747|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Po 1939 m. rudens Lietuvos jaunimo dešinės ir kairės radikalų netenkino nuosaikus Antano Smetonos autoritarinis režimas.
+- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75748|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1938 m. gegužės 12 d. Antanas Smetona ir ministras pirmininkas Vladas Mironas pasirašė naują Lietuvos konstituciją.
+- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75749|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1927 m. paleidęs III Seimą, Antanas Smetona nuo valdžios nustūmė stipriausią šalies politinę jėgą – krikščionis demokratus.
+- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75750|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Antanas Smetona demokratiją Lietuvoje lygino su per dideliais batais vaikams, nes parlamentarizmo tradicija dar nebuvo įsitvirtinusi.
+- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75751|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Prezidentas Antanas Smetona Klaipėdos nacių teismo mirties bausmę netrukus pakeitė kalėjimu iki gyvos galvos.
+- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75752|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1931 m. gruodžio 11 d. ypatingieji tautos atstovai vienbalsiai išrinko Antaną Smetoną Lietuvos prezidentu.
+- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75754|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Nuo 1930 m. per Tautos šventę valstybės įstaigas puošdavo dideli Vytauto Didžiojo ir Antano Smetonos portretai.
+- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75755|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1918 m. kovo 23 d. Antano Smetonos vadovaujama Tarybos delegacija Berlyne pristatė deklaracijos turinį Georgui von Hertlingui.
+- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75756|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1931 m. gruodžio 11 d. ypatingieji tautos atstovai vienbalsiai perrinko Antaną Smetoną Lietuvos prezidentu.
+- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75758|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1928 m. gegužės 15 d. Antanas Smetona nauja konstitucija sustiprino savo pozicijas ir įteisino viršenybę prieš Seimą.
+- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75760|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1918 m. lapkričio 2 d. A. Smetona buvo Tarybos prezidiumo pirmininkas, o prezidiumas su ministrų kabinetu sudarė vykdomąją valdžią.
+- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75761|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1918 m. lapkričio 2 d. Antanas Smetona buvo Tarybos prezidiumo pirmininkas, o prezidiumas su ministrų kabinetu sudarė vykdomąją valdžią.
+- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75763|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Antanas Smetona laikėsi nuostatos, kad be faktinės Klaipėdos kontrolės Lietuva neįgis juridinės krašto kontrolės.
+- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75764|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1928 m. Konstitucija įteisino autoritarinį Antano Smetonos valdymą.
+- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75765|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Antano Smetonos režimas nereguliavo kultūros reiškinių raidos, turinio ir dvasios, nors kalbėjo apie lietuvių tautinės kultūros kūrimą.
+- susijęs iš [[objektai/asmenys/Antanas Terleckas.md#claim-t-18826|Antanas Terleckas]]: Antanas Terleckas priklausė prieš sovietų santvarką kovojusiems asmenims ir buvo teistas tris kartus.
+- susijęs iš [[objektai/asmenys/Antanas Terleckas.md#claim-t-18827|Antanas Terleckas]]: Antanas Terleckas, LLL įkūrėjas ir vadovas, save vadino rezistentu ir siekė taikiomis priemonėmis atkurti Lietuvos nepriklausomybę.
+- susijęs iš [[objektai/asmenys/Antanas Tyzenhauzas.md#claim-t-46002|Antanas Tyzenhauzas (ūkio reformų veikėjas)]]: Antano Tyzenhauzo veikla atnešė didelių permainų į Lietuvos ūkį.
+- susijęs iš [[objektai/asmenys/Antanas Tyzenhauzas.md#claim-t-46004|Antanas Tyzenhauzas (ūkio reformų veikėjas)]]: Su politinėmis permainomis ir pirmaisiais Apšvietos žingsniais sutapo Antano Tyzenhauzo veiklos, atnešusios didelių permainų į Lietuvos ūkį, pradžia.
+- susijęs iš [[objektai/asmenys/Antanas Tyzenhauzas.md#claim-t-46005|Antanas Tyzenhauzas (ūkio reformų veikėjas)]]: Antano Tyzenhauzo reformos datuojamos 1767 m. ir siejamos su Apšvietos epochos pradžia.
+- susijęs iš [[objektai/asmenys/Antanas Tyzenhauzas.md#claim-t-46006|Antanas Tyzenhauzas (ūkio reformų veikėjas)]]: Antanas Tyzenhauzas Gardine įkūrė matininkų, buhalterių, statybininkų ir veterinarų mokyklas.
+- susijęs iš [[objektai/asmenys/Antanas Tyzenhauzas.md#claim-t-46007|Antanas Tyzenhauzas (ūkio reformų veikėjas)]]: Antano Tyzenhauzo 1767 m. reformos kartais laikomos vienu iš Apšvietos epochos pradžios įvykių.
+- susijęs iš [[objektai/asmenys/Antanas Tyzenhauzas.md#claim-t-46008|Antanas Tyzenhauzas (ūkio reformų veikėjas)]]: Antano Tyzenhauzo reformos buvo vienas svarbiausių XVIII a. pabaigos Lietuvos gyvenimo reiškinių.
+- susijęs iš [[objektai/asmenys/Antanas Tyzenhauzas.md#claim-t-46009|Antanas Tyzenhauzas (ūkio reformų veikėjas)]]: Antano Tyzenhauzo reformos (1767 m.), Povilo Ksavero Bžostovskio įkurta Paulavos respublika (1769 m.), jėzuitų ordino panaikinimas ir Edukacinės komisijos sukūrimas (1773 m.) – šie įvykiai kartais laikomi Apšvietos epochos pradžia.
+- susijęs iš [[objektai/asmenys/Antanas Tyzenhauzas.md#claim-t-46010|Antanas Tyzenhauzas (ūkio reformų veikėjas)]]: Antanas Tyzenhauzas siuntė jaunimą mokytis agronomijos į Angliją ir Gardine įkūrė matininkų, buhalterių, statybininkų bei veterinarų mokyklas.
+- susijęs iš [[objektai/asmenys/Antanas Tyzenhauzas.md#claim-t-46011|Antanas Tyzenhauzas (ūkio reformų veikėjas)]]: Antanas Tyzenhauzas siuntė jaunimą mokytis agronomijos į Angliją ir Gardine įkūrė profesines mokyklas.
+- susijęs iš [[objektai/asmenys/Antanas Tyzenhauzas.md#claim-t-46012|Antanas Tyzenhauzas (ūkio reformų veikėjas)]]: Antano Tyzenhauzo veiklos pradžia sutapo su politinėmis permainomis ir pirmaisiais Apšvietos žingsniais.
+- susijęs iš [[objektai/asmenys/Antanas Valionis.md#claim-t-26432|Antanas Valionis]]: Antanas Valionis 2003 m. Atėnuose kartu su Algirdu Brazausku pasirašė Lietuvos stojimo į Europos Sąjungą sutartį.
+- susijęs iš [[objektai/asmenys/Antanas Šukys.md#claim-t-183728|Antanas Šukys]]: Antanas Šukys staiga pasijuto blogai, | ir skausmai spaudė jam krūtinę.
+- susijęs iš [[objektai/asmenys/Antanas Šukys.md#claim-t-40033|Antanas Šukys]]: Savanoris Antanas Šukys, mokydamasis Kauno Karužų mokykloje, prisiminė, kaip buvo renkami kariai per Jiezną besiveržusiai Raudonajai armijai sulaikyti.
+- susijęs iš [[objektai/asmenys/Eduardas Vilkas.md#claim-t-183529|Eduardas Vilkas]]: Eduardas Vilkas su kitais ekonomistais viešai svarstė Lietuvos ekonominio savarankiškumo klausimus ir rėmė rinkos laisvę.
+- susijęs iš [[objektai/asmenys/Eduardas Vilkas.md#claim-t-18880|Eduardas Vilkas]]: Eduardas Vilkas viešai svarstė Lietuvos ekonominio savarankiškumo klausimus ir pasisakė už įmonių savarankiškumą bei rinkos laisvę.
+- susijęs iš [[objektai/asmenys/Edvardas Riomeris.md#claim-t-87657|Edvardas Riomeris]]: Edvardas Riomeris priklausė 1830 m. rudenį Vilniuje susikūrusiam sukilimo centriniam komitetui.
+- susijęs iš [[objektai/asmenys/Juozas Tūbelis.md#claim-t-170077|Juozas Tūbelis]]: Juozas Tūbelis ir Antanas Smetona pareiškė, kad Lietuvos, Latvijos ir Estijos karinė sąjunga nebūtų naudinga Lietuvai.
+- susijęs iš [[objektai/asmenys/Juozas Tūbelis.md#claim-t-170081|Juozas Tūbelis]]: 1929 m. rugsėjo 23 d. prezidentas Antanas Smetona ministru pirmininku paskyrė ekonomistą Juozą Tūbelį.
+- susijęs iš [[objektai/asmenys/Justinas Hrebnickis.md#claim-t-87746|Justinas Hrebnickis]]: Justinas Hrebnickis 1830 m. rudenį priklausė Vilniuje susikūrusiam sukilimo centriniam komitetui.
+- susijęs iš [[objektai/asmenys/Kazimiera Prunskienė.md#claim-t-183546|Kazimiera Prunskienė]]: Kazimiera Prunskienė viešai svarstė Lietuvos ekonominio savarankiškumo klausimus ir rėmė įmonių savarankiškumą bei rinkos laisvę.
+- susijęs iš [[objektai/asmenys/Kazimiera Prunskienė.md#claim-t-19050|Kazimiera Prunskienė]]: Kazimiera Prunskienė viešai svarstė Lietuvos ekonominio savarankiškumo klausimus ir pasisakė už įmonių savarankiškumą bei rinkos laisvę.
+- susijęs iš [[objektai/asmenys/Kazimieras Antanavičius.md#claim-t-183548|Kazimieras Antanavičius]]: Kazimieras Antanavičius viešai svarstė Lietuvos ekonominio savarankiškumo klausimus ir rėmė įmonių savarankiškumą bei rinkos laisvę.
+- susijęs iš [[objektai/asmenys/Kazimieras Antanavičius.md#claim-t-19053|Kazimieras Antanavičius]]: Kazimieras Antanavičius viešai svarstė Lietuvos ekonominio savarankiškumo klausimus ir pasisakė už įmonių savarankiškumą bei rinkos laisvę.
+- susijęs iš [[objektai/asmenys/Kazimieras Būga.md#claim-t-19054|Kazimieras Būga]]: Kazimieras Būga pradėjo lietuvių kalbos žodyno sudarymą.
+- susijęs iš [[objektai/asmenys/Leonas Rogalskis.md#claim-t-87542|Leonas Rogalskis]]: Leonas Rogalskis priklausė 1830 m. rudenį Vilniuje susikūrusiam sukilimo centriniam komitetui.
+- susijęs iš [[objektai/asmenys/Michailas Kalininas.md#claim-t-19136|Michailas Kalininas]]: Antano Smetonos laiškas sovietų prezidentui Michailui Kalininui nepadėjo išvengti 1940 m. birželio 14 d. SSRS ultimatumo Lietuvai.
+- susijęs iš [[objektai/asmenys/Nijolė Sadūnaitė.md#claim-t-19173|Nijolė Sadūnaitė]]: Nijolė Sadūnaitė buvo kalinta už kovą prieš sovietų santvarką.
+- susijęs iš [[objektai/asmenys/Petras Cidzikas.md#claim-t-19190|Petras Cidzikas]]: Petras Cidzikas buvo kalintas už kovą prieš sovietų santvarką.
+- susijęs iš [[objektai/asmenys/Povilas Ksaveras Bžostovskis.md#claim-t-23214|Povilas Ksaveras Bžostovskis]]: Povilas Ksaveras Bžostovskis 1769 m. įkūrė Paulavos respubliką.
+- susijęs iš [[objektai/asmenys/Povilas Ksaveras Bžostovskis.md#claim-t-23216|Povilas Ksaveras Bžostovskis]]: Povilo Ksavero Bžostovskio 1769 m. įkurta Paulavos respublika kartais laikoma vienu Apšvietos epochos pradžios ženklų.
+- susijęs iš [[objektai/asmenys/Robertas Gedvilas-Remigijus.md#claim-t-40403|Robertas Gedvilas-Remigijus]]: Robertas Gedvilas-Remigijus buvo Kęstučio apygardos štabo viršininkas.
+- susijęs iš [[objektai/asmenys/Romaldas Juozas Ragaišis.md#claim-t-19206|Romaldas Juozas Ragaišis]]: Romaldas Juozas Ragaišis priklausė Lietuvos laisvės lygai ir buvo tris kartus teistas.
+- susijęs iš [[objektai/asmenys/Stanislovas Šumskis.md#claim-t-87865|Stanislovas Šumskis]]: Stanislovas Šumskis priklausė 1830 m. rudenį Vilniuje susikūrusiam sukilimo centriniam komitetui.
+- susijęs iš [[objektai/asmenys/Stasys Antanas Bačkis.md#claim-t-19246|Stasys Antanas Bačkis]]: Stasys Antanas Bačkis 1983–1991 m. ėjo Lietuvos diplomatinės tarnybos diplomatijos šefo pareigas.
+- susijęs iš [[objektai/asmenys/Stasys Lozoraitis.md#claim-t-46321|Stasys Lozoraitis]]: LDT aukščiausia valdžia priklausė diplomatijos šefui, tas pareigas ėjo diplomatai Stasys Lozoraitis (1940–1983 m.) ir Stasys Antanas Bačkis (1983–1991 m.).
+- susijęs iš [[objektai/asmenys/Stasys Lozoraitis.md#claim-t-46324|Stasys Lozoraitis]]: Stasys Lozoraitis 1940–1983 m. ėjo Lietuvos diplomatinės tarnybos diplomatijos šefo pareigas.
+- susijęs iš [[objektai/asmenys/Stasys Raštikis.md#claim-t-101710|Stasys Raštikis]]: Krikščionys demokratai ir liaudininkai reikalavo vietoje Antano Merkio ministru pirmininku paskirti Stasį Raštikį.
+- susijęs iš [[objektai/asmenys/Viačeslavas Molotovas.md#claim-t-64239|Viačeslavas Molotovas]]: Viačeslavas Molotovas 1940 m. birželio 7 d. Maskvoje brutaliu elgesiu sukrėtė Antaną Merkį.
+- susijęs iš [[objektai/asmenys/Vytautas Gužas-Kardas.md#claim-t-40525|Vytautas Gužas-Kardas]]: Vytautas Gužas-Kardas buvo Vakarų Lietuvos srities štabo viršininkas.
+- susijęs iš [[objektai/autoriai/A. Alekna.md#claim-t-64504|A. Alekna]]: Antanas Alekna 1922–1930 m. dėstė Lietuvos istoriją, jos šaltinius ir istorinę geografiją Teologijos-Filosofijos fakulteto Filosofijos skyriuje.
+- susijęs iš [[objektai/autoriai/A. Kučas.md#claim-t-30513|A. Kučas]]: A. Kučas 1965 m. Romoje paskelbė knygą „Kun. Antanas Staniukynas“.
+- susijęs iš [[objektai/autoriai/Alfonsas Eidintas.md#claim-t-169878|Alfonsas Eidintas]]: Alfonsui Eidintui nurodytos 2013 m. leidimo autorių teisės.
+- susijęs iš [[objektai/autoriai/Alfonsas Eidintas.md#claim-t-169881|Alfonsas Eidintas]]: Alfonsas Eidintas buvo vienas iš 2013 m. leidinio „Lietuvos istorija“ autorių.
+- susijęs iš [[objektai/autoriai/Alfredas Bumblauskas.md#claim-t-169883|Alfredas Bumblauskas]]: 2013 m. leidime nurodytos Alfredo Bumblausko autorių teisės.
+- susijęs iš [[objektai/autoriai/Alfredas Bumblauskas.md#claim-t-169884|Alfredas Bumblauskas]]: Alfredas Bumblauskas buvo vienas iš 2013 m. leidinio „Lietuvos istorija“ autorių.
+- susijęs iš [[objektai/autoriai/Alvydas Jokubaitis.md#claim-t-25191|Alvydas Jokubaitis]]: Alvydas Jokubaitis buvo „Lietuvos istorijos“ redakcinės kolegijos narys.
+- susijęs iš [[objektai/autoriai/Antanas Klementas.md#claim-t-63302|Antanas Klementas]]: Antanas Klementas 1794 m. revoliucijos laikais parašė „Žemaitišką dainelę“.
+- susijęs iš [[objektai/autoriai/Antanas Kulakauskas.md#claim-t-169887|Antanas Kulakauskas]]: Antanui Kulakauskui priskirtos 2013 m. antrojo leidimo autorių teisės.
+- susijęs iš [[objektai/autoriai/Antanas Kulakauskas.md#claim-t-26605|Antanas Kulakauskas]]: Redaktoriaus žodyje Antanas Kulakauskas pristatomas kaip Vytauto Didžiojo universiteto profesorius, parašęs III skyrių apie lietuvių gyvenimą Rusijos imperijoje 1795-1915 m.
+- susijęs iš [[objektai/autoriai/Antanas Tatarė.md#claim-t-01016|Antanas Tatarė]]: Kunigas Antanas Tatarė parašė eilių ir išleido keletą lietuviškų knygų, laikytų naudingomis liaudžiai.
+- susijęs iš [[objektai/autoriai/Eidintas A.md#claim-t-19391|Eidintas A]]: A. Eidintas parašė knygą „Antanas Smetona ir jo aplinka“, išleistą Vilniuje 2012 m.
+- susijęs iš [[objektai/autoriai/Inga Vinogradnaitė.md#claim-t-26473|Inga Vinogradnaitė]]: Dr. Inga Vinogradnaitė buvo knygos „Lietuvos istorija“ redakcinės kolegijos narė.
+- susijęs iš [[objektai/autoriai/Maironis.md#claim-t-125057|Maironis]]: Panašiai į ją žiūrėta ir vadovėlinio tipo Maironio, Pajautos (Konstancijos Skirmuntaitės), Prano (kun. Antano Šmulkščio) knygutėse, visą dėmesį sutelkiant lietuvių tautos žygiams iki Vytauto Didžiojo mirties.
+- susijęs iš [[objektai/autoriai/Mindaugas Tamošaitis.md#claim-t-169891|Mindaugas Tamošaitis]]: 2013 m. antrajame leidime Mindaugas Tamošaitis nurodytas tarp autorių teisių turėtojų.
+- susijęs iš [[objektai/autoriai/Mindaugas Tamošaitis.md#claim-t-26608|Mindaugas Tamošaitis]]: Mindaugas Tamošaitis apibendrino įvykius nuo 1940 m. okupacijų iki Lietuvos narystės Europos Sąjungoje 2004 m.
+- susijęs iš [[objektai/autoriai/Motiejus Valančius.md#claim-t-00058|Motiejus Valančius]]: Motiejaus Valančiaus „Palangos Juzė“, „Paaugusių žmonių knygelė“, „Vaikų knygelė“ ir „Pasakojimas Antano tretininko“ turėjo nemažą reikšmę.
+- susijęs iš [[objektai/autoriai/Motiejus Valančius.md#claim-t-179554|Motiejus Valančius]]: Motiejus Valančius XIX a. padarė didelę įtaką Lietuvos politiniams procesams.
+- susijęs iš [[objektai/autoriai/Mykolas Akelaitis.md#claim-t-01120|Mykolas Akelaitis]]: Mykolas Akelaitis kartu su Antanu Tatare parašė eilių ir išleido kelias liaudžiai naudingas lietuviškas knygas.
+- susijęs iš [[objektai/autoriai/Pajautos, Konstancijos Skirmuntaitės.md#claim-t-100134|Pajautos, Konstancijos Skirmuntaitės]]: Pajautos, Konstancijos Skirmuntaitės, vadovėlinio tipo knygutėje dėmesys sutelktas į lietuvių tautos žygius iki Vytauto Didžiojo mirties.
+- susijęs iš [[objektai/autoriai/Stasys Šalkauskis.md#claim-t-81966|Stasys Šalkauskis]]: Stasio Šalkauskio „Raštų“ I–VIII tomai buvo išleisti 1990–2005 m.
+- susijęs iš [[objektai/autoriai/Stasys Šalkauskis.md#claim-t-81968|Stasys Šalkauskis]]: Stasio Šalkauskio „Raštų“ I-VIII tomai buvo išleisti 1990-2005 m.
+- susijęs iš [[objektai/autoriai/Truska L.md#claim-t-19483|Truska L]]: L. Truska parašė knygą „Antanas Smetona ir jo laikai“, išleistą Vilniuje 1996 m.
+- susijęs iš [[objektai/autoriai/Vincas Vyčinas.md#claim-t-88084|Vincas Vyčinas]]: Vinco Vyčino „Raštų“ I-II tomai buvo išleisti 2002-2007 m.
+- susijęs iš [[objektai/autoriai/kun. Antano Šmulkščio.md#claim-t-100130|kun. Antano Šmulkščio]]: Kun. Antano Šmulkščio vadovėlinio tipo knygutėje daugiausia dėmesio skirta lietuvių tautos žygiams iki Vytauto Didžiojo mirties.
+- susijęs iš [[objektai/daiktai/ANBO lėktuvai.md#claim-t-13450|ANBO lėktuvai]]: Antanas Gustaitis sukonstravo ANBO seriją, o Kauno karo aviacijos dirbtuvėse pastatyti 66 tokie lėktuvai.
+- susijęs iš [[objektai/daiktai/ANBO lėktuvai.md#claim-t-13451|ANBO lėktuvai]]: ANBO VIII buvo Antano Gustaičio sukonstruotas ir Kauno aviacijos dirbtuvėse 1939 m. pagamintas lengvasis bombonešis.
+- susijęs iš [[objektai/daiktai/ANBO lėktuvai.md#claim-t-23270|ANBO lėktuvai]]: Antanas Gustaitis sukonstravo lėktuvų seriją ir pavadino ją ANBO pagal sakinio „Antanas nori būti ore“ žodžių pirmąsias raides.
+- susijęs iš [[objektai/daiktai/Alebardos.md#claim-t-40687|Alebardos]]: Vokiškojo tipo alebarda datuojama XVI a., o kita alebarda - XVI a. antrąja puse-XVII a.
+- susijęs iš [[objektai/daiktai/Gardino ekonomijos manufaktūrų gaminiai.md#claim-t-77924|Gardino ekonomijos manufaktūrų gaminiai]]: Antanas Tyzenhauzas Gardino ekonomijoje įsteigė tekstilės, popieriaus, galanterijos, ginklų ir vežimų manufaktūras.
+- susijęs iš [[objektai/daiktai/Kino kronikos kameros.md#claim-t-19541|Kino kronikos kameros]]: Prezidentas Antanas Smetona 1927 m. vasarą ir rudenį keliavo po miestelius, lydimas karininkų, ministrų, žurnalistų ir kino kronikos kamerų.
+- susijęs iš [[objektai/daiktai/Kovinis dalgis.md#claim-t-39184|Kovinis dalgis]]: Antanas Mackevičius sutelkė 150 dalgiais ir šautuvais ginkluotų vyrų kovai prie Naujaberžės kaimo.
+- susijęs iš [[objektai/daiktai/Lietuvos auksas.md#claim-t-13781|Lietuvos auksas]]: Iš užsienyje laikyto Lietuvos aukso pasisavintas tik Švedijos ir Šveicarijos bankuose saugotas auksas.
+- susijęs iš [[objektai/daiktai/Lietuvos auksas.md#claim-t-13782|Lietuvos auksas]]: Iš užsienyje laikyto Lietuvos aukso pasisavintas tik Švedijos ir Šveicarijos bankuose saugotas auksas.
+- susijęs iš [[objektai/daiktai/Panevėžio bataliono vėliava.md#claim-t-80694|Panevėžio bataliono vėliava]]: Panevėžio batalionui 1919 m. kovo 25 d. Panevėžio lietuvių katalikių moterų draugija įteikė vėliavą.
+- susijęs iš [[objektai/daiktai/Sutikimo vartai.md#claim-t-23305|Sutikimo vartai]]: 1927 m. vasarą ir rudenį Antaną Smetoną miesteliuose iškilmingai sutikdavo prie gėlėmis ir vainikais išdabintų sutikimo vartų.
+- susijęs iš [[objektai/daiktai/Vokiškojo tipo alebarda.md#claim-t-40784|Vokiškojo tipo alebarda]]: Vokiškojo tipo alebarda datuojama XVI a. antrąja puse-XVII a.
+- susijęs iš [[objektai/grupes/11 brigada.md#claim-t-183651|11 brigada]]: Marijampolės batalionas veikė 11 brigadoje, kuri kovėsi su raudonarmiečiais šiauriau nei Zarasų operaciją vykdžiusi I brigada.
+- susijęs iš [[objektai/grupes/11 brigada.md#claim-t-38838|11 brigada]]: Marijampolės batalionas veikė 11 brigadoje, kuri kovėsi su raudonarmiečiais šiauriau nei Zarasų operaciją vykdžiusi I brigada.
+- susijęs iš [[objektai/grupes/6-asis pėstininkų Pilėnų Kunigaikščio Margio pulkas.md#claim-t-40826|6-asis pėstininkų Pilėnų Kunigaikščio Margio pulkas]]: Pervedus 6-ąjį pėstininkų pulką į lenkų frontą, jo kariai ir vadas Vidugiriuose susitiko su nuo vasaros vidurio kovojusiu I batalionu.
+- susijęs iš [[objektai/grupes/Algimanto apygarda.md#claim-t-78161|Algimanto apygarda]]: Antanas Slučka-Šarūnas, Algimanto apygardos vadas, žuvo susisprogdinus partizanams kartu su žmona ir dar vienu partizanu.
+- susijęs iš [[objektai/grupes/Antano Smetonos lituanistikos institutas.md#claim-t-19633|Antano Smetonos lituanistikos institutas]]: 1938 m. lapkričio 1 d. įkurtas Antano Smetonos lituanistikos institutas turėjo tirti lietuvių kalbą, tautosaką ir Lietuvos praeitį.
+- susijęs iš [[objektai/grupes/Draugija užsienio lietuviams remti.md#claim-t-77822|Draugija užsienio lietuviams remti]]: Draugija užsienio lietuviams remti buvo sukurta padėti užsienio lietuviams ir palaikyti jų ryšius su tėvyne.
+- susijęs iš [[objektai/grupes/Europos Parlamentas.md#claim-t-74105|Europos Parlamentas]]: Lietuvai įstojus į ES, Europos Parlamente jai atstovavo 12 europarlamentarų.
+- susijęs iš [[objektai/grupes/Europos Parlamentas.md#claim-t-74106|Europos Parlamentas]]: Lietuva, įstojusi į ES, Europos Parlamente turėjo 12 europarlamentarų.
+- susijęs iš [[objektai/grupes/Europos Sąjunga.md#claim-t-74116|Europos Sąjunga]]: 2003 m. Atėnuose Algirdas Brazauskas ir Antanas Valionis pasirašė Lietuvos stojimo į Europos Sąjungą sutartį.
+- susijęs iš [[objektai/grupes/Geležinis vilkas.md#claim-t-19696|Geležinis vilkas]]: Antanas Smetona uždarė pusiau slaptą ginkluotą radikaliausių tautininkų organizaciją „Geležinis vilkas“.
+- susijęs iš [[objektai/grupes/Gintaro rinktinė.md#claim-t-38953|Gintaro rinktinė]]: Plauginių kautynių stovykloje buvo 20 Gintaro rinktinės Alfonso Pakarklio ir Antano Antanaičio būrių partizanų.
+- susijęs iš [[objektai/grupes/Laikinoji Lenkijos vyriausybė Lietuvoje.md#claim-t-23481|Laikinoji Lenkijos vyriausybė Lietuvoje]]: 1831 m. birželį Antano Gelgaudo vadovaujama Lenkijos karalystės kariuomenė Lietuvoje kūrė Laikinąją Lenkijos vyriausybę.
+- susijęs iš [[objektai/grupes/Lenkijos karalystės kariuomenė.md#claim-t-23482|Lenkijos karalystės kariuomenė]]: 1831 m. birželį į Lietuvą buvo pasiųsta apie 12,6 tūkst. karių turėjusi reguliarioji Lenkijos karalystės kariuomenė.
+- susijęs iš [[objektai/grupes/Liaudies vyriausybė.md#claim-t-19797|Liaudies vyriausybė]]: Liaudies vyriausybė vykdė sovietų valią, griovė Lietuvos valstybingumą ir nuo pirmųjų dienų keitė administraciją.
+- susijęs iš [[objektai/grupes/Lietuvių tautininkų sąjunga.md#claim-t-44994|Lietuvių tautininkų sąjunga]]: LKDP bloko balsais tautininkų lyderis Antanas Smetona buvo išrinktas Lietuvos prezidentu ir prisiekė laikytis Konstitucijos.
+- susijęs iš [[objektai/grupes/Lietuvos Respublikos užsienio reikalų ministerija.md#claim-t-65773|Lietuvos Respublikos užsienio reikalų ministerija (institucija)]]: Knygos antrasis leidimas 2013 m. išleistas Lietuvos Respublikos užsienio reikalų ministerijos užsakymu.
+- susijęs iš [[objektai/grupes/Lietuvos Taryba.md#claim-t-182708|Lietuvos Taryba (institucija)]]: Konferencijoje išrinkta 20 asmenų Lietuvos Taryba pradėjo veikti rugsėjo 24 d., o jos pirmininku tapo Antanas Smetona.
+- susijęs iš [[objektai/grupes/Lietuvos karo aviacija.md#claim-t-19876|Lietuvos karo aviacija]]: Nuo 1934 m. Lietuvos karo aviacijai vadovavęs Antanas Gustaitis sukonstravo ANBO lėktuvų seriją.
+- susijęs iš [[objektai/grupes/Lietuvos komunistų partija.md#claim-t-78366|Lietuvos komunistų partija]]: 1940 m. birželio 25 d. LKP buvo įteisinta, nors kitos politinės partijos liko neįteisintos.
+- susijęs iš [[objektai/grupes/Lietuvos krikščionių demokratų partija.md#claim-t-74745|Lietuvos krikščionių demokratų partija]]: Krikščionys demokratai ir liaudininkai pareikalavo vietoj Antano Merkio ministru pirmininku paskirti krikščionims demokratams artimą Stasį Raštikį.
+- susijęs iš [[objektai/grupes/Lietuvos laisvės lyga.md#claim-t-74752|Lietuvos laisvės lyga]]: Lietuvos laisvės lyga nuo 1976 m. pogrindyje leido laikraštį „Laisvės šauklys“, o nuo 1978 m. – žurnalą „Vytis“.
+- susijęs iš [[objektai/grupes/Lietuvos laisvės lyga.md#claim-t-74756|Lietuvos laisvės lyga]]: Lietuvos laisvės lyga siekė ne reformuoti SSRS, o taikiomis priemonėmis atkurti Lietuvos nepriklausomybę.
+- susijęs iš [[objektai/grupes/Lietuvos valstiečių liaudininkų sąjunga.md#claim-t-101468|Lietuvos valstiečių liaudininkų sąjunga]]: Krikščionys demokratai ir liaudininkai reikalavo vietoje Antano Merkio ministru pirmininku paskirti Stasį Raštikį.
+- susijęs iš [[objektai/grupes/Lietuvos valstiečių liaudininkų sąjunga.md#claim-t-101473|Lietuvos valstiečių liaudininkų sąjunga]]: 1940 m. birželio 15-osios naktį liaudininkai ir krikščionys demokratai pareikalavo vietoje Antano Merkio premjeru skirti Stasį Raštikį.
+- susijęs iš [[objektai/grupes/MGB.md#claim-t-65908|MGB]]: 1948 m. vasario 1 d. Gulbiniškių kaime MGB operatyvinė karinė grupė apsupo sodybą, kurioje slėpėsi trys partizanai.
+- susijęs iš [[objektai/grupes/Marijampolės batalionas.md#claim-t-78386|Marijampolės batalionas]]: Atskirojo Marijampolės bataliono viršila Antanas Šukys aprašė naktinę žvalgybinę-diversinę operaciją į bolševikų divizijos štabą.
+- susijęs iš [[objektai/grupes/Marijampolės batalionas.md#claim-t-78387|Marijampolės batalionas]]: Marijampolės batalionas veikė 11 brigadoje, kuri kovėsi su raudonarmiečiais šiauriau nei Zarasų operaciją vykdžiusi I brigada.
+- susijęs iš [[objektai/grupes/Mokomoji kuopa.md#claim-t-41089|Mokomoji kuopa]]: Vieną dieną po pietų dvylika Mokomosios kuopos vyrų, vadovaujamų vyresniojo puskarininkio, išvyko į žvalgybą.
+- susijęs iš [[objektai/grupes/Panevėžio batalionas.md#claim-t-80657|Panevėžio batalionas]]: 1919 m. kovo 25 d. Panevėžio batalionui buvo įteikta Panevėžio ir jo apylinkių gyventojų vėliava.
+- susijęs iš [[objektai/grupes/Panevėžio lietuvių katalikių moterų draugija.md#claim-t-80658|Panevėžio lietuvių katalikių moterų draugija]]: Panevėžio lietuvių katalikių moterų draugija 1919 m. kovo 25 d. įteikė vėliavą Panevėžio batalionui.
+- susijęs iš [[objektai/grupes/Pietų Lietuvos sritis.md#claim-t-54152|Pietų Lietuvos sritis]]: 1949 m. vasario 11 d. pakeliui į Lietuvos partizanų vadų suvažiavimą susitiko Pietų Lietuvos ir Vakarų Lietuvos partizanų atstovai bei vadai.
+- susijęs iš [[objektai/grupes/Rytų Lietuvos sritis.md#claim-t-183667|Rytų Lietuvos sritis]]: Rytų Lietuvos srities vadas Antanas Slučka-Šarūnas bunkeryje susisprogdino su žmona Joana Railaite-Neringa ir partizanu Juozu Jovaiša-Lokiu.
+- susijęs iš [[objektai/grupes/Rytų Lietuvos sritis.md#claim-t-41137|Rytų Lietuvos sritis]]: Bunkeryje susisprogdino Rytų Lietuvos srities vadas Antanas Slučka-Šarūnas, Joana Railaitė-Neringa ir partizanas Juozas Jovaiša-Lokys.
+- susijęs iš [[objektai/grupes/Tauro apygarda.md#claim-t-49112|Tauro apygarda]]: Aleksandras Grybinas-Faustas buvo Tauro apygardos vadas.
+- susijęs iš [[objektai/grupes/Tautininkų grupuotė apie „Viltį“.md#claim-t-183186|Tautininkų grupuotė apie „Viltį“]]: Tautininkų grupuotė apie Antano Smetonos redaguojamą „Viltį“ kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose.
+- susijęs iš [[objektai/grupes/Tautininkų grupuotė apie „Viltį“.md#claim-t-20038|Tautininkų grupuotė apie „Viltį“]]: Tautininkų grupuotė apie Antano Smetonos redaguojamą „Viltį“ kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose.
+- susijęs iš [[objektai/grupes/Vakarų Lietuvos (Jūros) sritis.md#claim-t-41186|Vakarų Lietuvos (Jūros) sritis]]: Vakarų Lietuvos (Jūros) srities partizanų atstovai ir vadai pakeliui į suvažiavimą susitiko su Pietų Lietuvos (Nemuno) partizanų atstovais.
+- susijęs iš [[objektai/grupes/Vilniaus sukilimo centrinis komitetas.md#claim-t-55097|Vilniaus sukilimo centrinis komitetas]]: Vilniuje vėlyvą 1830 m. rudenį, prasidėjus sukilimui Varšuvoje, susikūrė sukilimo centrinis komitetas.
+- susijęs iš [[objektai/grupes/Vilniaus sukilimo centrinis komitetas.md#claim-t-55098|Vilniaus sukilimo centrinis komitetas]]: Vilniaus sukilimo centriniam komitetui priklausė Antanas Goreckis, Stanislovas Šumskis, Justinas Hrebnickis, Leonas Rogalskis, Edvardas Riomeris, Mykolas Balinskis ir Liudvikas Zambrzyckis.
+- susijęs iš [[objektai/grupes/Vilniaus sukilimo centrinis komitetas.md#claim-t-55099|Vilniaus sukilimo centrinis komitetas]]: Vilniaus sukilimo centrinis komitetas turėjo organizuoti sukilimą vakarinėse Rusijos imperijos gubernijose.
+- susijęs iš [[objektai/grupes/Vilniaus sukilimo centrinis komitetas.md#claim-t-81728|Vilniaus sukilimo centrinis komitetas]]: Vėlyvą 1830 m. rudenį Vilniuje susikūręs sukilimo centrinis komitetas turėjo organizuoti sukilimą vakarinėse Rusijos imperijos gubernijose.
+- susijęs iš [[objektai/grupes/Vilniaus universiteto leidykla.md#claim-t-24526|Vilniaus universiteto leidykla]]: Knygą „Lietuvos istorija“ išleido Vilniaus universitetas ir Vilniaus universiteto leidykla.
+- susijęs iš [[objektai/grupes/asis pėstininkų Pilėnų Kunigaikščio Margio pulkas.md#claim-t-80639|asis pėstininkų Pilėnų Kunigaikščio Margio pulkas]]: Perkeltas į lenkų frontą 6-asis pėstininkų pulkas Vidugirių kaime susitiko su nuo vasaros vidurio kovojusiu savo I batalionu.
+- susijęs iš [[objektai/grupes/ojo pėstininkų pulko I batalionas.md#claim-t-80648|ojo pėstininkų pulko I batalionas]]: 2-ojo pėstininkų pulko I batalionas prie Panevėžio rinktinės prisijungė jau išlaisvinus Panevėžį.
+- susijęs iš [[objektai/ivykiai/1830-1831 m. sukilimas.md#claim-t-81824|1830-1831 m. sukilimas (sukilimas, XIX a.)]]: Vėlyvą 1830 m. rudenį Vilniuje susikūrė centrinis komitetas, turėjęs organizuoti sukilimą vakarinėse Rusijos imperijos gubernijose.
+- susijęs iš [[objektai/ivykiai/1926 m. gruodžio 17 d. perversmas Lietuvoje.md#claim-t-24561|1926 m. gruodžio 17 d. perversmas Lietuvoje]]: Po perversmo Antanas Smetona sutiko perimti postą, nes karininkai įvykdė jo sąlygą, kad perversmas pavyktų be šūvio.
+- susijęs iš [[objektai/ivykiai/1926 m. gruodžio 17 d. perversmas Lietuvoje.md#claim-t-71725|1926 m. gruodžio 17 d. perversmas Lietuvoje]]: Po 1926 m. gruodžio 17 d. perversmo III Seimas gruodžio 19 d. nauju Lietuvos prezidentu išrinko tautininkų lyderį Antaną Smetoną.
+- susijęs iš [[objektai/ivykiai/1928 m. Lietuvos Konstitucijos paskelbimas (1928 m. gegužės 15 d.).md#claim-t-20144|1928 m. Lietuvos Konstitucijos paskelbimas (1928 m. gegužės 15 d.)]]: 1928 m. gegužės 15 d. Antanas Smetona nauja konstitucija sustiprino savo pozicijas ir įteisino viršenybę prieš Seimą.
+- susijęs iš [[objektai/ivykiai/1928 m. Lietuvos Konstitucijos paskelbimas (1928 m. gegužės 15 d.).md#claim-t-20145|1928 m. Lietuvos Konstitucijos paskelbimas (1928 m. gegužės 15 d.)]]: 1928 m. Konstitucija įteisino autoritarinį Antano Smetonos valdymą.
+- susijęs iš [[objektai/ivykiai/A. Smetonos perrinkimas ypatingųjų tautos atstovų balsais (1931 m. ir 1938 m.).md#claim-t-20156|A. Smetonos perrinkimas ypatingųjų tautos atstovų balsais (1931 m. ir 1938 m.)]]: Antanas Smetona sudarė sau sąlygas būti perrenkamam, o ypatingieji tautos atstovai 1931 m. gruodžio 11 d. vienbalsiai išrinko jį Lietuvos prezidentu.
+- susijęs iš [[objektai/ivykiai/ANBO IV lėktuvų grupės skrydis per Europos sostines (1934 m.).md#claim-t-20158|ANBO IV lėktuvų grupės skrydis per Europos sostines (1934 m.)]]: Antanas Gustaitis sukonstravo ANBO lėktuvų seriją, kurios pavadinimas kilo iš sakinio „Antanas nori būti ore“ žodžių pirmųjų raidžių.
+- susijęs iš [[objektai/ivykiai/Antano Merkio vyriausybės sudarymas (1939 m. lapkritis).md#claim-t-77892|Antano Merkio vyriausybės sudarymas (1939 m. lapkritis)]]: Sudarant Antano Merkio vyriausybę prezidentas galėjo diktuoti jos darbus, todėl opozicijos deleguotas ministras turėjo vykdyti prezidento užduotis.
+- susijęs iš [[objektai/ivykiai/Antano Smetonos lituanistikos instituto įkūrimas (1938 m. lapkričio 1 d.).md#claim-t-20162|Antano Smetonos lituanistikos instituto įkūrimas (1938 m. lapkričio 1 d.)]]: 1938 m. lapkričio 1 d. įkurtas Antano Smetonos lituanistikos institutas turėjo tirti lietuvių kalbą, tautosaką ir Lietuvos praeitį.
+- susijęs iš [[objektai/ivykiai/Antano Tyzenhauzo reformos.md#claim-t-183217|Antano Tyzenhauzo reformos]]: Antanas Tyzenhauzas karališkosiose ekonomijose steigė palivarkus, reikalavo lažo, rūšiavo žemę, melioravo laukus ir tiesė kelius.
+- susijęs iš [[objektai/ivykiai/Antano Tyzenhauzo reformos.md#claim-t-66449|Antano Tyzenhauzo reformos]]: Antanas Tyzenhauzas karališkosiose ekonomijose steigė palivarkus, reikalavo lažo, rūšiavo žemę, melioravo laukus ir tiesė kelius.
+- susijęs iš [[objektai/ivykiai/Antano Tyzenhauzo reformos.md#claim-t-66450|Antano Tyzenhauzo reformos]]: Antano Tyzenhauzo reformos 1767 m. kartais laikomos vienu Apšvietos epochos pradžios ženklų.
+- susijęs iš [[objektai/ivykiai/Edukacinės komisijos įkūrimas.md#claim-t-66535|Edukacinės komisijos įkūrimas]]: Edukacinės komisijos sukūrimas 1773 m. kartais laikomas vienu iš Apšvietos epochos pradžios įvykių.
+- susijęs iš [[objektai/ivykiai/Jėzuitų ordino panaikinimas.md#claim-t-77884|Jėzuitų ordino panaikinimas]]: Jėzuitų ordino panaikinimas 1773 m. kartais laikomas vienu Apšvietos epochos pradžios įvykių.
+- susijęs iš [[objektai/ivykiai/Klaipėdos nacių teismas Kaune (1934 m. liepa - 1935 m. kovas).md#claim-t-75114|Klaipėdos nacių teismas Kaune (1934 m. liepa - 1935 m. kovas)]]: Po Klaipėdos nacių teismo Antanas Smetona mirties bausmę netrukus pakeitė kalėjimu iki gyvos galvos.
+- susijęs iš [[objektai/ivykiai/Liaudies seimo rinkimai (1940 m. liepos 14-15 d.).md#claim-t-75123|Liaudies seimo rinkimai (1940 m. liepos 14-15 d.)]]: Per Liaudies seimo rinkimų agitaciją valdžia daug dėmesio skyrė Antano Smetonos režimo kritikai ir niekinimui.
+- susijęs iš [[objektai/ivykiai/Lietuvos valstybingumo griovimo sprendimai 1940 m. birželį-liepą.md#claim-t-66736|Lietuvos valstybingumo griovimo sprendimai 1940 m. birželį-liepą]]: Liaudies vyriausybė vykdė sovietų valią, griovė Lietuvos valstybingumą ir keitė administraciją.
+- susijęs iš [[objektai/ivykiai/Lietuvos valstybingumo griovimo sprendimai 1940 m. birželį-liepą.md#claim-t-66737|Lietuvos valstybingumo griovimo sprendimai 1940 m. birželį-liepą]]: 1940 m. liepos 12 d., spaudžiant V. Dekanozovui, nutarta Sovietų Sąjungos valstybiniam bankui perduoti užsienyje laikomą Lietuvos auksą.
+- susijęs iš [[objektai/ivykiai/Maskvos kaltinimų Lietuvai ir A. Merkio derybų krizė (1940 m. gegužė-birželis).md#claim-t-66771|Maskvos kaltinimų Lietuvai ir A. Merkio derybų krizė (1940 m. gegužė-birželis)]]: 1940 m. birželio 7 d. Maskvoje Viačeslavas Molotovas brutaliai elgėsi su Antanu Merkiu ir kaltino Lietuvą antisovietiškumu.
+- susijęs iš [[objektai/ivykiai/Maskvos kaltinimų Lietuvai ir A. Merkio derybų krizė (1940 m. gegužė-birželis).md#claim-t-66772|Maskvos kaltinimų Lietuvai ir A. Merkio derybų krizė (1940 m. gegužė-birželis)]]: 1940 m. gegužės pabaigoje Maskva apkaltino Lietuvą sovietų bazių kareivių grobimu ir pakvietė į Maskvą premjerą Antaną Merkį.
+- susijęs iš [[objektai/ivykiai/Maskvos kaltinimų Lietuvai ir A. Merkio derybų krizė (1940 m. gegužė-birželis).md#claim-t-66773|Maskvos kaltinimų Lietuvai ir A. Merkio derybų krizė (1940 m. gegužė-birželis)]]: 1940 m. birželio 10 d. Kaune nutarta pasiųsti Juozą Urbšį į Maskvą, nes Antanui Merkiui nesisekė normalizuoti situacijos.
+- susijęs iš [[objektai/ivykiai/Paulavos respublikos įkūrimas ir įstatų patvirtinimas.md#claim-t-77885|Paulavos respublikos įkūrimas ir įstatų patvirtinimas]]: Povilo Ksavero Bžostovskio 1769 m. įkurta Paulavos respublika minima tarp įvykių, kartais laikomų Apšvietos epochos pradžia.
+- susijęs iš [[objektai/ivykiai/Pirmieji masiniai areštai Lietuvoje (1940 m. liepos 10-17 d.).md#claim-t-26383|Pirmieji masiniai areštai Lietuvoje (1940 m. liepos 10-17 d.)]]: 1940 m. liepos 6 d. Antanas Sniečkus išleido įsakymą, leidusį suimti agituojančius prieš Liaudies vyriausybę.
+- susijęs iš [[objektai/ivykiai/S. Lozoraičio slapto memorandumo įteikimas A. Smetonai (1935 m. balandis).md#claim-t-75263|S. Lozoraičio slapto memorandumo įteikimas A. Smetonai (1935 m. balandis)]]: 1935 m. balandį Stasys Lozoraitis įteikė prezidentui Antanui Smetonai slaptą memorandumą apie Klaipėdos ir Vilniaus padėtį.
+- susijęs iš [[objektai/ivykiai/Vilniaus sukilimo centrinio komiteto susikūrimas.md#claim-t-86962|Vilniaus sukilimo centrinio komiteto susikūrimas]]: 1830 m. vėlyvą rudenį Vilniuje susikūręs sukilimo centrinis komitetas turėjo organizuoti sukilimą vakarinėse Rusijos imperijos gubernijose.
+- susijęs iš [[objektai/ivykiai/Vytauto mirties 500 metų jubiliejaus minėjimas (1930 m.).md#claim-t-66991|Vytauto mirties 500 metų jubiliejaus minėjimas (1930 m.)]]: Vytauto jubiliejiniai renginiai formavo Vytauto Didžiojo kultą ir siejo jį su Antano Smetonos valdoma Lietuvos valstybe.
+- susijęs iš [[objektai/ivykiai/Šimonių girios apgultis (1949 m.).md#claim-t-67011|Šimonių girios apgultis (1949 m.)]]: 1949 m. spalio 28 d. Albinas Kubilius-Rūgštymas ir Alfonsas Vildžiūnas-Vijoklis atvedė čekistus prie Šiaurės Rytų partizanų srities štabo bunkerio Anykščių valsčiuje.
+- susijęs iš [[objektai/paprociai/Carinės sukilimo slopinimo teroro ir viešų bausmių praktika.md#claim-t-75355|Carinės sukilimo slopinimo teroro ir viešų bausmių praktika (sukilimas)]]: 1863 m. pabaigoje į sukilimo slopintojų rankas pakliuvo Antanas Mackevičius ir Konstantinas Kalinauskas, abu netrukus buvo viešai pakarti.
+- susijęs iš [[objektai/paprociai/Carinės sukilimo slopinimo teroro ir viešų bausmių praktika.md#claim-t-75356|Carinės sukilimo slopinimo teroro ir viešų bausmių praktika (sukilimas)]]: 1863 m. pabaigoje Antanas Mackevičius ir Konstantinas Kalinauskas pateko į sukilimo slopintojų rankas ir netrukus buvo viešai pakarti.
+- susijęs iš [[objektai/paprociai/Dariaus ir Girėno didvyrių kultas ir jaunimo aviacijos idealas.md#claim-t-77934|Dariaus ir Girėno didvyrių kultas ir jaunimo aviacijos idealas]]: Dariaus ir Girėno skrydis sudomino jaunimą aviacija, aviacijos ir sklandymo sportu.
+- susijęs iš [[objektai/paprociai/Lietuvių kalbos viešas vartojimas ir lietuviškų pamaldų reikalavimas bažnyčiose.md#claim-t-75369|Lietuvių kalbos viešas vartojimas ir lietuviškų pamaldų reikalavimas bažnyčiose]]: Būsimų tautininkų grupuotė apie Antano Smetonos redaguojamą „Viltį“ kartu su krikščionimis demokratais kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose.
+- susijęs iš [[objektai/paprociai/Srities vadų sąskrydžių rengimas Šimonių girioje.md#claim-t-09606|Srities vadų sąskrydžių rengimas Šimonių girioje]]: Šimonių girioje būdavo rengiami srities vadų sąskrydžiai.
+- susijęs iš [[objektai/paprociai/Srities vadų sąskrydžių rengimas Šimonių girioje.md#claim-t-09607|Srities vadų sąskrydžių rengimas Šimonių girioje]]: Šimonių girioje bazavosi srities vadovybė ir būdavo rengiami srities vadų sąskrydžiai.
+- susijęs iš [[objektai/paprociai/Sukilėlių partizaninio karo nedidelių antpuolių taktika.md#claim-t-75396|Sukilėlių partizaninio karo nedidelių antpuolių taktika]]: Po Z. Sierakausko mirties Kauno gubernijos sukilėlių karo vadu buvo paskirtas kunigas Antanas Mackevičius.
+- susijęs iš [[objektai/paprociai/Užsienio lietuvių kolonijų ryšių su tėvyne palaikymas per spaudą, kunigus, mokytojus ir kongresus.md#claim-t-77962|Užsienio lietuvių kolonijų ryšių su tėvyne palaikymas per spaudą, kunigus, mokytojus ir kongresus]]: Draugija užsienio lietuviams remti buvo sukurta padėti emigrantams ir palaikyti jų ryšius su tėvyne.
+- susijęs iš [[objektai/posakiai/MIRTIES AKIVAIZDOJE.md#claim-t-41454|MIRTIES AKIVAIZDOJE]]: „Mirties akivaizdoje“ siejamas su viršilos Antano Šukio aprašytu nutikimu žvalgyboje.
+- susijęs iš [[objektai/posakiai/„Antanas nori būti ore“.md#claim-t-20836|„Antanas nori būti ore“]]: Talentingas lėktuvų konstruktorius ir dizaineris Antanas Gustaitis, buvęs Lietuvos karo aviacijos vadu nuo 1934 m., sukonstravo seriją lėktuvų ir pavadino juos ANBO (iš sakinio „Antanas nori būti ore“ žodžių pirmųjų raidžių).
+- susijęs iš [[objektai/posakiai/„Viso svieto mokslus lietuviam paduosiu...“.md#claim-t-26651|„Viso svieto mokslus lietuviam paduosiu...“]]: 1859 m. Antanas Baranauskas parašė eilutes „Viso svieto mokslus lietuviam paduosiu“.
+- susijęs iš [[objektai/posakiai/„Viso svieto mokslus lietuviam paduosiu...“.md#claim-t-26903|„Viso svieto mokslus lietuviam paduosiu...“]]: 1859 m. Antanas Baranauskas žadėjo lietuviams perduoti pasaulio mokslus ir lietuviškai versti pasaulio raštus bei knygas.
+- susijęs iš [[objektai/posakiai/„Viso svieto mokslus lietuviam paduosiu...“.md#claim-t-67317|„Viso svieto mokslus lietuviam paduosiu...“]]: Antano Baranausko žodžiai apie pasaulio mokslus lietuviams vadinami civilizuotos, aukštąją kultūrą turinčios tautos vizija.
+- susijęs iš [[objektai/posakiai/„primus inter pares“.md#claim-t-77853|„primus inter pares“]]: Stasys Lozoraitis diplomatijos šefo pareigas interpretavo kaip primus inter pares, pirmą tarp lygiųjų tarp visų pasiuntinių.
+- susijęs iš [[objektai/posakiai/„vietos visiems užteks“.md#claim-t-20960|„vietos visiems užteks“]]: Antanas Smetona agresyvesniems jaunalietuviams pareiškė, kad „vietos visiems užteks“.
+- susijęs iš Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.): Redaktoriaus žodyje skyrių autorystė paskirstoma Alfredui Bumblauskui, Antanui Kulakauskui, Alfonsui Eidintui ir Mindaugui Tamošaičiui.
+- susijęs iš Antanas Smetona ir jo laikai: Liudo Truskos knyga „Antanas Smetona ir jo laikai“ išleista Vilniuje 1996 m.
+- susijęs iš Antano Šukio prisiminimai Du mediniai ir trys geležiniai kryžiai: Antano Šukio „Du mediniai ir trys geležiniai kryžiai“ yra atsiminimai apie Lietuvos nepriklausomybės kovas 1919-1921 metais.
+- susijęs iš Anykščių šilelis: „Anykščių šilelis“ apibūdinamas kaip Antano Baranausko lietuvių literatūros šedevras.
+- susijęs iš Atskirojo Marijampolės bataliono viršilos Antano Šukio pasvarstymai: 6-ojo pėstininkų pulko 1-ojo bataliono viršila Antanas Šukys pasakojo apie savo kuopos kontrataką prieš lenkų pajėgas tarp Seinų ir Gibų.
+- susijęs iš F. Ruzvelto įsakymas dėl Baltijos valstybių lėšų įšaldymo (1940 m. liepos 15 d.): 1940 m. liepos 15 d. F. Ruzvelto įsakymas įšaldė JAV bankuose laikytas Baltijos valstybių lėšas.
+- susijęs iš KGB kontržvalgybos sąvokų žodynas Kontržvalgybos žodynas: KGB kontržvalgybos organai agentus-smogikus laikė rezervu kovai su žvalgybinėmis-diversinėmis grupėmis ir nacionalistinėmis gaujomis karo metu.
+- susijęs iš KGB kontržvalgybos sąvokų žodynas: KGB kontržvalgybos organai agentus-smogikus laikė rezervu kovai su žvalgybinėmis-diversinėmis grupėmis ir nacionalistinėmis gaujomis karo metu.
+- susijęs iš Laisvės šauklys: Lietuvos laisvės lyga pogrindyje nuo 1976 m. leido laikraštį „Laisvės šauklys“.
+- susijęs iš Lietuvos Konstitucija (1928 m.): 1928 m. gegužės 15 d. nauja Konstitucija sustiprino Antano Smetonos galias prieš Seimą ir įteisino autoritarinį valdymą.
+- susijęs iš Lietuvos Konstitucija (1928 m.): 1928 m. Lietuvos Konstitucija įteisino Antano Smetonos viršenybę prieš Seimą ir teisę leisti įstatymus.
+- susijęs iš Lietuvos ir Vatikano konkordatas (1927 m.): 1940 m. birželio 27 d. Liaudies vyriausybė panaikino Lietuvos ir Vatikano konkordatą.
+- susijęs iš Lietuvos ir Vatikano konkordatas (1927 m.): 1940 m. birželio 27 d. Liaudies vyriausybė panaikino Lietuvos ir Vatikano konkordatą.
+- susijęs iš Lietuvos ir Vatikano konkordatas: 1940 m. birželio 27 d. Liaudies vyriausybė panaikino Lietuvos ir Vatikano konkordatą.
+- susijęs iš Lietuvos ir Vatikano konkordatas: 1940 m. birželio 27 d. Liaudies vyriausybė panaikino Lietuvos ir Vatikano konkordatą.
+- susijęs iš Lietuvos istorija (A. Alekna): Antanas Alekna 1911 m. išleido „Lietuvos istoriją“, o 1923 m. parengė platesnį ketvirtąjį jos leidimą.
+- susijęs iš Stojimo į Europos Sąjungą sutartis: 2003 m. Atėnuose Algirdas Brazauskas ir Antanas Valionis pasirašė stojimo į Europos Sąjungą sutartį.
+- susijęs iš Vasario 16 Aktas: 1918 m. kovo 23 d. Berlyne Antano Smetonos vadovaujama Tarybos delegacija pristatė deklaracijos turinį Vokietijos kancleriui Georgui von Hertlingui.
+- susijęs iš Viltis: Apie Antano Smetonos redaguotą „Vilties“ žurnalą susitelkusi būsimų tautininkų grupuotė kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose.
+- susijęs iš Vytis (Lietuvos laisvės lygos žurnalas): Lietuvos laisvės lyga pogrindyje nuo 1978 m. leido žurnalą „Vytis“.
+- susijęs iš Žemaitiška dainelė Žemaitiška giesmelė: Antanas Klementas „Žemaitišką dainelę“ parašė revoliucijos laikais, 1794 m.
+- susijęs iš Žemaitiška dainelė: Vokiečių ŽEMAITIŠKA DAINELĖ Antanas Klementas.
+- susijęs iš Anglija: Antanas Tyzenhauzas siuntė jaunimą mokytis agronomijos į Angliją ir Gardine įkūrė matininkų, buhalterių, statybininkų bei veterinarų mokyklas.
+- susijęs iš Argentina: Argentina buvo viena Pietų Amerikos šalių, į kurias daugiausia vyko lietuviai emigrantai.
+- susijęs iš Atėnai: 2003 m. Atėnuose Algirdas Brazauskas ir Antanas Valionis pasirašė Lietuvos stojimo į Europos Sąjungą sutartį.
+- susijęs iš Berlynas: 1918 m. gruodžio 21 d. Antanas Smetona išvyko į Berlyną ir ten pasirašė 100 mln. markių paskolą ginklams įsigyti.
+- susijęs iš Briuselis: Įstojusi į Europos Sąjungą Lietuva galėjo Briuselyje reikšti savo poziciją įvairiais klausimais ir veikti ES sprendimus.
+- susijęs iš Gardinas: Antanas Tyzenhauzas Gardine įkūrė matininkų, buhalterių, statybininkų ir veterinarų mokyklas.
+- susijęs iš Gardinas: Antanas Tyzenhauzas siuntė jaunimą mokytis agronomijos į Angliją ir Gardine įkūrė profesines mokyklas.
+- susijęs iš Gulbiniškiai: 1948 m. vasario 1 d. Gulbiniškių kaime MGB operatyvinė karinė grupė apsupo sodybą, kurioje slėpėsi trys partizanai.
+- susijęs iš Iženos upelis: Antano Jančio-Žaibo bunkeryje Šimonių girioje prie Iženos upelio žuvo 6 partizanai.
+- susijęs iš Kaunas: 1831 m. birželį Antano Gelgaudo vadovaujama Lenkijos karalystės kariuomenė lengvai užėmė Kauną.
+- susijęs iš Kauno karo aviacijos dirbtuvės: Kauno karo aviacijos dirbtuvėse buvo pastatyti 66 Antano Gustaičio sukonstruotos ANBO serijos lėktuvai.
+- susijęs iš Klivlandas: 1944 m. sausį Antanas Smetona žuvo Klivlande per gaisrą.
+- susijęs iš Krakių valsčius: 1949 m. sausio 26 d. Krakių valsčiaus Lenčių miške MGB vidaus kariuomenės 298-asis šaulių pulkas puolė partizanų stovyklavietę.
+- susijęs iš Kėdainių apskritis: 1949 m. sausio 26 d. Kėdainių apskrities Krakių valsčiaus Lenčių miške MGB vidaus kariuomenės 298-asis šaulių pulkas puolė partizanų stovyklavietę.
+- susijęs iš Lenčių miškas: 1949 m. sausio 26 d. Lenčių miške MGB vidaus kariuomenės 298-asis šaulių pulkas puolė partizanų stovyklavietę.
+- susijęs iš Londonas: 1935 m. Londone gimė Antanas Kazimeras Žemaitis, sukūręs roko pasaulyje bendrine sąvoka tapusią gitarą „Zemaitis“.
+- susijęs iš Minaičių kaimas: 1949 m. vasario 11 d. Minaičių kaime pakeliui į suvažiavimą susitiko Vakarų ir Pietų Lietuvos partizanų atstovai ir vadai.
+- susijęs iš Nedzingė: Po nesėkmingo lenkų mėginimo pralaužti lietuvių pozicijas netoli Nedzingės prie lietuvių pozicijų prijojo lenkų parlamentaras.
+- susijęs iš Nedzingė: Po nesėkmingo lenkų mėginimo pralaužti lietuvių pozicijas netoli Nedzingės prie lietuvių pozicijų prijojo lenkų parlamentaras.
+- susijęs iš Pagiriai: Antanas Šukys prisiminė 2-ojo pėstininkų pulko I bataliono sustojimą Pagirių kaime žygiuojant į Panevėžio frontą.
+- susijęs iš Paulava: Povilo Ksavero Bžostovskio 1769 m. įkurta Paulavos respublika kartais laikoma Apšvietos epochos pradžios ženklu.
+- susijęs iš Pietų Lietuva: Pakeliui į 1949 m. vasario 11 d. suvažiavimą susitiko Vakarų Lietuvos ir Pietų Lietuvos partizanų atstovai bei vadai.
+- susijęs iš Pilviškiai: 1948 m. vasario 1 d. Vilkaviškio apskrities Pilviškių valsčiaus Gulbiniškių kaime MGB grupė apsupo sodyboje besislėpusius partizanus.
+- susijęs iš Portugalija: 1940 m. birželį iš Lietuvos pasitraukęs Antanas Smetona per Portugaliją išvyko į JAV.
+- susijęs iš Priepado ežeras: 1949 m. lapkričio 1 d. Šimonių girioje prie Priepado ežero MGB karių apsuptame bunkeryje po atkaklios kovos žuvo 7 partizanai.
+- susijęs iš Sliepšiškio kaimas: Šimonių girioje netoli Sliepšiškio kaimo buvo puolamas Alberto Žilio-Kęstučio būrio bunkeris, kuriame žuvo 5 partizanai.
+- susijęs iš Vakarų Lietuva: 1949 m. vasario 11 d. pakeliui į partizanų vadų suvažiavimą susitiko Vakarų Lietuvos ir Pietų Lietuvos partizanų atstovai bei vadai.
+- susijęs iš Varšuva: 1830 m. rudenį, prasidėjus sukilimui Varšuvoje, Vilniuje susikūrė sukilimo centrinis komitetas.
+- susijęs iš Varšuva: 1830 m. vėlyvą rudenį Varšuvoje prasidėjus sukilimui, Vilniuje susikūrė sukilimo centrinis komitetas.
+- susijęs iš Vidugiriai: 6-ojo pėstininkų pulko kariai ir vadas Vidugirių kaime susitiko su to paties pulko I batalionu.
+- susijęs iš Vilkaviškio apskritis: 1948 m. vasario 1 d. Vilkaviškio apskrities Gulbiniškių kaime MGB operatyvinė karinė grupė apsupo sodyboje besislėpusius partizanus.
+- susijęs iš Vokietija: 1940 m. birželį iš Lietuvos pasitraukęs Antanas Smetona per Vokietiją, Šveicariją ir Portugaliją išvyko į JAV.
+- susijęs iš Šimonių giria: Šimonių girioje bazavosi srities vadovybė ir buvo rengiami srities vadų sąskrydžiai.
+- susijęs iš Švedija: Lietuvos auksas buvo pasisavintas tik iš Švedijos ir Šveicarijos bankuose saugotų atsargų.
+- susijęs iš [[objektai/zodynas/Filosemitas.md#claim-t-77795|Filosemitas]]: Filosemitu vadintas Antanas Smetona stabdė raginimus apriboti žydus ir pareiškė, kad Lietuvoje vietos užteks visiems.
+- susijęs iš [[objektai/zodynas/Lituanistika.md#claim-t-22006|Lituanistika]]: 1938 m. lapkričio 1 d. įkurtas Antano Smetonos lituanistikos institutas turėjo tirti lietuvių kalbą, tautosaką ir Lietuvos praeitį.
+- susijęs iš [[objektai/zodynas/Politrukai.md#claim-t-22016|Politrukai]]: Sovietmečiu politrukai trukdė rengti Kazimiero Būgos pradėtą lietuvių kalbos žodyną.
+- susijęs iš [[objektai/zodynas/pogrindis pogrindiniai leidiniai nelegali spauda.md#claim-t-23536|pogrindis pogrindiniai leidiniai nelegali spauda]]: LLL pogrindyje nuo 1976 m. leido laikraštį „Laisvės šauklys“, nuo 1978 m. – žurnalą „Vytis“, kitus pogrindinius leidinius.
+- susijęs iš [[objektai/zodynas/primus inter pares.md#claim-t-22257|primus inter pares]]: Stasys Lozoraitis diplomatijos šefo pareigas aiškino kaip primus inter pares, pirmojo tarp lygiųjų, vaidmenį tarp pasiuntinių.
+- susijęs iš [[objektai/zodynas/sovietizacija sovietizavimas.md#claim-t-101608|sovietizacija sovietizavimas]]: Sovietizacija Lietuvoje prasidėjo Liaudies vyriausybei vykdant sovietų valią, griaunant valstybingumą ir keičiant administraciją.
+- susijęs iš [[objektai/zodynas/suverenitetas suverenumas.md#claim-t-104208|suverenitetas suverenumas]]: Suverenumo sąvoka pamažu keitėsi, tačiau politinės sistemos keitimas dar neminėtas, o tautiniu klausimu pasisakyta atsargiai.
+- susijęs iš [[objektai/zodynas/suverenitetas suverenumas.md#claim-t-183471|suverenitetas suverenumas]]: Suverenumo sąvoka pamažu keitėsi, tačiau politinės sistemos keitimas dar neminėtas, o tautiniu klausimu pasisakyta atsargiai.
+- susijęs iš [[objektai/zodynas/suverenumas suverenitetas.md#claim-t-183473|suverenumas suverenitetas]]: Suverenumo sąvoka pamažu keitėsi, tačiau politinės sistemos keitimas dar neminėtas, o tautiniu klausimu pasisakyta atsargiai.
+- susijęs iš [[objektai/zodynas/suverenumas suverenitetas.md#claim-t-70348|suverenumas suverenitetas]]: Suverenumo sąvoka pamažu keitėsi, tačiau politinės sistemos keitimas dar neminėtas, o tautiniu klausimu pasisakyta atsargiai.
+- susijęs iš [[objektai/zodynas/tautinė mažuma etninė kultūrinė mažuma.md#claim-t-169935|tautinė mažuma etninė kultūrinė mažuma]]: Lenkai savo valstybingumo planuose lietuviams numatė tik tautinės mažumos statusą.
+- susijęs iš [[objektai/zodynas/tautinė mažuma etninė kultūrinė mažuma.md#claim-t-183475|tautinė mažuma etninė kultūrinė mažuma]]: Lenkai lietuviams, o lietuviai lenkiškai kalbantiesiems savo valstybės vizijose numatė tik tautinės mažumos statusą.
+- susijęs iš [[objektai/zodynas/viršila.md#claim-t-42522|viršila]]: 6-ojo pėstininkų pulko 1 bataliono viršila Antanas Šukys prisiminė pulko karių susitikimą Vidugirių kaime.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -44,98 +362,25 @@ Taip pat buvo trys sidabriniai dubenys 442 ## Puslapis 459 IV KNYGA pas poną va
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/11 brigada]]
-- [[objektai/ivykiai/1830-1831 m. sukilimas|1830-1831 m. sukilimas (sukilimas, XIX a.)]]
-- [[objektai/grupes/6-asis pėstininkų Pilėnų Kunigaikščio Margio pulkas]]
-- [[objektai/ivykiai/ANBO IV lėktuvų grupės skrydis per Europos sostines (1934 m.)]]
-- [[objektai/daiktai/ANBO lėktuvai]]
-- [[objektai/daiktai/Alebardos]]
-- [[objektai/grupes/Algimanto apygarda]]
-- [[objektai/asmenys/Algirdas Brazauskas]]
-- [[objektai/asmenys/Antanas Gustaitis]]
-- [[objektai/autoriai/Antanas Kulakauskas]]
-- [[objektai/asmenys/Antanas Tyzenhauzas|Antanas Tyzenhauzas (ūkio reformų veikėjas)]]
-- [[objektai/asmenys/Antanas Valionis]]
-- [[objektai/grupes/Antano Smetonos lituanistikos institutas]]
-- [[objektai/ivykiai/Antano Smetonos lituanistikos instituto įkūrimas (1938 m. lapkričio 1 d.)]]
-- [[objektai/ivykiai/Antano Tyzenhauzo reformos]]
-- [[objektai/paprociai/Dariaus ir Girėno didvyrių kultas ir jaunimo aviacijos idealas]]
-- [[objektai/grupes/Draugija užsienio lietuviams remti]]
-- [[objektai/ivykiai/Edukacinės komisijos įkūrimas]]
-- [[objektai/grupes/Europos Parlamentas]]
-- [[objektai/grupes/Europos Sąjunga]]
-- [[objektai/grupes/Gintaro rinktinė]]
-- [[objektai/ivykiai/Jėzuitų ordino panaikinimas]]
-- [[objektai/grupes/Laikinoji Lenkijos vyriausybė Lietuvoje]]
-- [[objektai/grupes/Lenkijos karalystės kariuomenė]]
-- [[objektai/grupes/Liaudies vyriausybė]]
-- [[objektai/grupes/Lietuvos Respublikos užsienio reikalų ministerija|Lietuvos Respublikos užsienio reikalų ministerija (institucija)]]
-- [[objektai/daiktai/Lietuvos auksas]]
-- [[objektai/grupes/Lietuvos karo aviacija]]
-- [[objektai/grupes/Lietuvos komunistų partija]]
-- [[objektai/grupes/Lietuvos laisvės lyga]]
-- [[objektai/ivykiai/Lietuvos valstybingumo griovimo sprendimai 1940 m. birželį-liepą]]
-- [[objektai/zodynas/Lituanistika]]
-- [[objektai/grupes/MGB]]
-- [[objektai/posakiai/MIRTIES AKIVAIZDOJE]]
-- [[objektai/grupes/Marijampolės batalionas]]
-- [[objektai/autoriai/Mindaugas Tamošaitis]]
-- [[objektai/grupes/Mokomoji kuopa]]
-- [[objektai/grupes/Panevėžio batalionas]]
-- [[objektai/daiktai/Panevėžio bataliono vėliava]]
-- [[objektai/grupes/Panevėžio lietuvių katalikių moterų draugija]]
-- [[objektai/ivykiai/Paulavos respublikos įkūrimas ir įstatų patvirtinimas]]
-- [[objektai/grupes/Pietų Lietuvos sritis]]
-- [[objektai/zodynas/Politrukai]]
-- [[objektai/asmenys/Povilas Ksaveras Bžostovskis]]
-- [[objektai/grupes/Rytų Lietuvos sritis]]
-- [[objektai/paprociai/Srities vadų sąskrydžių rengimas Šimonių girioje]]
-- [[objektai/grupes/Tauro apygarda]]
-- [[objektai/paprociai/Užsienio lietuvių kolonijų ryšių su tėvyne palaikymas per spaudą, kunigus, mokytojus ir kongresus]]
-- [[objektai/grupes/Vakarų Lietuvos (Jūros) sritis]]
-- [[objektai/ivykiai/Vilniaus sukilimo centrinio komiteto susikūrimas]]
-- [[objektai/grupes/Vilniaus sukilimo centrinis komitetas]]
-- [[objektai/grupes/Vilniaus universiteto leidykla]]
-- [[objektai/daiktai/Vokiškojo tipo alebarda]]
-- [[objektai/grupes/asis pėstininkų Pilėnų Kunigaikščio Margio pulkas]]
-- [[objektai/grupes/ojo pėstininkų pulko I batalionas]]
-- [[objektai/zodynas/pogrindis pogrindiniai leidiniai nelegali spauda]]
-- [[objektai/zodynas/primus inter pares]]
-- [[objektai/zodynas/sovietizacija sovietizavimas]]
-- [[objektai/zodynas/suverenitetas suverenumas]]
-- [[objektai/zodynas/suverenumas suverenitetas]]
-- [[objektai/zodynas/tautinė mažuma etninė kultūrinė mažuma]]
-- [[objektai/zodynas/viršila]]
-- [[objektai/ivykiai/Šimonių girios apgultis (1949 m.)]]
-- [[objektai/posakiai/„Antanas nori būti ore“]]
-- [[objektai/posakiai/„Viso svieto mokslus lietuviam paduosiu...“]]
-- [[objektai/posakiai/„primus inter pares“]]
-- [[objektai/ivykiai/1926 m. gruodžio 17 d. perversmas Lietuvoje]]
-- [[objektai/ivykiai/1928 m. Lietuvos Konstitucijos paskelbimas (1928 m. gegužės 15 d.)]]
-- [[objektai/ivykiai/A. Smetonos perrinkimas ypatingųjų tautos atstovų balsais (1931 m. ir 1938 m.)]]
-- [[objektai/asmenys/Antanas Kazimeras Žemaitis]]
-- [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
-- [[objektai/ivykiai/Antano Merkio vyriausybės sudarymas (1939 m. lapkritis)]]
-- [[objektai/paprociai/Carinės sukilimo slopinimo teroro ir viešų bausmių praktika|Carinės sukilimo slopinimo teroro ir viešų bausmių praktika (sukilimas)]]
-- [[objektai/zodynas/Filosemitas]]
-- [[objektai/daiktai/Gardino ekonomijos manufaktūrų gaminiai]]
-- [[objektai/grupes/Geležinis vilkas]]
-- [[objektai/asmenys/Juozas Tūbelis]]
-- [[objektai/daiktai/Kino kronikos kameros]]
-- [[objektai/ivykiai/Klaipėdos nacių teismas Kaune (1934 m. liepa - 1935 m. kovas)]]
-- [[objektai/daiktai/Kovinis dalgis]]
-- [[objektai/ivykiai/Liaudies seimo rinkimai (1940 m. liepos 14-15 d.)]]
-- [[objektai/paprociai/Lietuvių kalbos viešas vartojimas ir lietuviškų pamaldų reikalavimas bažnyčiose]]
-- [[objektai/grupes/Lietuvių tautininkų sąjunga]]
-- [[objektai/grupes/Lietuvos Taryba|Lietuvos Taryba (institucija)]]
-- [[objektai/grupes/Lietuvos krikščionių demokratų partija]]
-- [[objektai/grupes/Lietuvos valstiečių liaudininkų sąjunga]]
-- [[objektai/ivykiai/Maskvos kaltinimų Lietuvai ir A. Merkio derybų krizė (1940 m. gegužė-birželis)]]
-- [[objektai/ivykiai/Pirmieji masiniai areštai Lietuvoje (1940 m. liepos 10-17 d.)]]
-- [[objektai/ivykiai/S. Lozoraičio slapto memorandumo įteikimas A. Smetonai (1935 m. balandis)]]
-- [[objektai/paprociai/Sukilėlių partizaninio karo nedidelių antpuolių taktika]]
-- [[objektai/daiktai/Sutikimo vartai]]
-- [[objektai/grupes/Tautininkų grupuotė apie „Viltį“]]
-- [[objektai/ivykiai/Vytauto mirties 500 metų jubiliejaus minėjimas (1930 m.)]]
-- [[objektai/posakiai/„vietos visiems užteks“]]
+- Antanas (vaistininkas) kariavo_pries [[objektai/grupes/Krikščionys]]
+- Antanas (vaistininkas) kariavo_pries [[objektai/grupes/Lenkai]]
+- Antanas (vaistininkas) kariavo_pries [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]] kariavo_pries Antanas (vaistininkas)
+- [[objektai/grupes/Tautininkų grupuotė apie „Viltį“]] kariavo_pries Antanas (vaistininkas)
+- Antanas (vaistininkas) pastate [[objektai/vietos/Gardinas]]
+- Antanas (vaistininkas) pastate [[objektai/daiktai/Ginklai]]
+- Antanas (vaistininkas) pastate [[objektai/vietos/Lietuva]]
+- Antanas (vaistininkas) pastate [[objektai/daiktai/Vežimai]]
+- Antanas (vaistininkas) pastate [[objektai/zodynas/ekonomija]]
+- Antanas (vaistininkas) susije_su [[objektai/asmenys/Antanas Terleckas]]
+- Antanas (vaistininkas) susije_su [[objektai/asmenys/Leonas]]
+- Antanas (vaistininkas) susije_su [[objektai/vietos/Lietuva]]
+- Antanas (vaistininkas) susije_su [[objektai/grupes/Lietuvos laisvės lyga]]
+- Antanas (vaistininkas) susije_su [[objektai/asmenys/Mykolas]]
+- Antanas (vaistininkas) susije_su [[objektai/asmenys/Petras Cidzikas]]
+- Antanas (vaistininkas) susije_su [[objektai/asmenys/Romaldas Juozas Ragaišis]]
+- Antanas (vaistininkas) susije_su [[objektai/vietos/Rusija]]
+- Antanas (vaistininkas) susije_su [[objektai/asmenys/Stanislovas]]
+- Antanas (vaistininkas) susije_su [[objektai/asmenys/Stasys Antanas Bačkis]]
+- Antanas (vaistininkas) susije_su [[objektai/vietos/Vilnius]]
+- [[objektai/grupes/Vilniaus sukilimo centrinis komitetas]] priklause Antanas (vaistininkas)

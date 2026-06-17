@@ -3,20 +3,16 @@ tipas: autorius
 pavadinimas: 'A. Nasonov'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-datos:
-  - '1940 m.'
-  - '1950 m.'
-date_start: '1940'
-date_end: '1950'
+datos: []
+date_start: ''
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
   - ordinas
-amziai:
-  - 'XX'
-periodo_grupes:
-  - 'XX a.'
+amziai: []
+periodo_grupes: []
 ---
 # A. Nasonov
 
@@ -30,6 +26,9 @@ Nasonov : Novogrodskaja pervaja letopis' staršego i mladšego izvodov , Moskva-
 - t-001
   global_id: t-30525
   teiginys: 'A. Nasonovas yra 1950 m. Maskvoje ir Leningrade išleistos „Novgorodskoji pervaja letopis“ leidinio autorius.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Leningradas; mentioned_place: Maskva'
+  temporaliniai_duomenys: 'įvykio data: 1406 m.; įvykio data: 1950 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -37,6 +36,9 @@ Nasonov : Novogrodskaja pervaja letopis' staršego i mladšego izvodov , Moskva-
 - t-002
   global_id: t-30526
   teiginys: 'A. N. Nasonovas yra 1940 m. Maskvoje išleisto veikalo „Mongoly i Rus’. Istorija tatarskoj politiki na Rusi“ autorius.'
+  susije_objektai: 'mentioned_place: Maskva'
+  temporaliniai_duomenys: 'įvykio data: 1940 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 
@@ -74,7 +76,3 @@ Nasonov : Novogrodskaja pervaja letopis' staršego i mladšego izvodov , Moskva-
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/žygis]]

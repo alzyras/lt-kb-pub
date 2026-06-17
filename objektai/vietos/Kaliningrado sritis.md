@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Atkūrusi nepriklausomybę Lietuva Vakaruose įgijo sieną su Rusijos Kaliningrado sritimi. Maskva grasino prijungti Klaipėdos kraštą prie Kaliningrado srities, jeigu Lietuva siektų atkurti nepriklausomybę. Dabartinė Kaliningrado sritis šaltinyje siejama su Rytprūsiais, iš kurių Vokietija po Antrojo pasaulinio karo buvo prievarta išstumta.
+Griebtasi šantažo – grasinta prijungti jau lietuvišką Klaipėdos kraštą prie RSSFR Kaliningrado srities, o iš lenkiškai ir rusiškai kalbančio Vilniaus regiono sukurti autonomiją ar net mini Lietuvos SSR (Transdnistrijos pavyzdžiu), jeigu Lietuva. Vokietija, po Antrojo pasaulinio karo prievarta išstumta iš Rytprūsių (dabartinės Kaliningrado srities), neturėdama sienos su Lietuva, nepretendavo į Klaipėdos kraštą, kurio daugumą gyventojų sudarė lietuviai. Atkūrusios nepriklausomybę Lietuvos valstybės teritorija Vakaruose įgijo sieną su Rusija, Kaliningrado sritimi, Potsdamo konferencijoje atiduota 50-čiai metų administruoti SSRS.
 
 ## Teiginiai
 
@@ -29,6 +29,8 @@ Atkūrusi nepriklausomybę Lietuva Vakaruose įgijo sieną su Rusijos Kaliningra
 - t-001
   global_id: t-76355
   teiginys: 'Atkūrusi nepriklausomybę Lietuva Vakaruose įgijo sieną su Rusijos Kaliningrado sritimi.'
+  sudarymo_pagrindimas: 'Pašalinta gramatinė painiava ir paliktas aiškus citatos palaikomas faktas.'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Potsdamas; mentioned_place: Rusija; mentioned_place: SSRS; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -36,6 +38,11 @@ Atkūrusi nepriklausomybę Lietuva Vakaruose įgijo sieną su Rusijos Kaliningra
 - t-002
   global_id: t-76356
   teiginys: 'Maskva grasino prijungti Klaipėdos kraštą prie Kaliningrado srities, jeigu Lietuva siektų atkurti nepriklausomybę.'
+  sudarymo_pagrindimas: 'Pašalintas puslapio triukšmas ir sutrumpintas citata palaikomas faktas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1990 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas puslapio triukšmas ir sutrumpintas citata palaikomas faktas.'
   pagrindžia:
     - c-001
 
@@ -43,6 +50,8 @@ Atkūrusi nepriklausomybę Lietuva Vakaruose įgijo sieną su Rusijos Kaliningra
 - t-003
   global_id: t-76357
   teiginys: 'Dabartinė Kaliningrado sritis šaltinyje siejama su Rytprūsiais, iš kurių Vokietija po Antrojo pasaulinio karo buvo prievarta išstumta.'
+  sudarymo_pagrindimas: 'Pradinys daugiausia kalba apie Vokietiją ir Klaipėdos kraštą, todėl susietas su Kaliningrado sritimi.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Rytprūsiai; mentioned_place: Vilnius; mentioned_place: Vokietija'
   pagrindžia:
     - c-003
 
@@ -50,6 +59,11 @@ Atkūrusi nepriklausomybę Lietuva Vakaruose įgijo sieną su Rusijos Kaliningra
 - t-004
   global_id: t-76358
   teiginys: 'Maskva grasino prijungti Klaipėdos kraštą prie RSFSR Kaliningrado srities ir Vilniaus regione kurti autonomiją.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, bet citata pagrindžia aiškų grasinimo turinį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1990 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs, bet citata pagrindžia aiškų grasinimo turinį.'
   pagrindžia:
     - c-001
 
@@ -57,6 +71,11 @@ Atkūrusi nepriklausomybę Lietuva Vakaruose įgijo sieną su Rusijos Kaliningra
 - t-005
   global_id: t-183597
   teiginys: 'Potsdamo konferencijoje Kaliningrado sritis buvo 50 metų atiduota administruoti SSRS.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Kaliningrado srities administravimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva; mentioned_place: Potsdamas; mentioned_place: SSRS'
   pagrindžia:
     - c-004
 

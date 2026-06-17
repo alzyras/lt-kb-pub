@@ -18,6 +18,11 @@ Senas senelis nutraukė pamokslininką ir pareiškė žmonėms, kad jaunėlis ai
 - t-001
   global_id: t-185483
   teiginys: 'Senas senelis nutraukė pamokslininką ir pareiškė žmonėms, kad jaunėlis aiškių aiškiausiai meluoja apie pasaulio sutvėrimą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Nutrūkęs fragmentas perrašytas į pilną sakinį su aiškiu veiksmu.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigas|kunigas]]'
   pagrindžia:
     - c-001
 
@@ -40,7 +45,3 @@ Senas senelis nutraukė pamokslininką ir pareiškė žmonėms, kad jaunėlis ai
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/kunigas]]

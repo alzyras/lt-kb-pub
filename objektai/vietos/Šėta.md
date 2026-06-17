@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Po nesėkmingo puolimo Kėdainių apylinkėse bolševikai tą vakarą atsitraukė į Šėtą.
+Bolševikai tos pačios dienos vakare buvo priversi palikti Kėdainių apylinkes ir atsitraukti į Šėtą. Nedidelės ir prastai ginkluotos lietuvių pajėgos, parodžiusios drąsą ir ištvermę, sugebėjo atlaikyti daug didesnių pajėgų puolimą ir neleido užgrobti bolševikų.
 
 ## Teiginiai
 
@@ -21,6 +21,8 @@ Po nesėkmingo puolimo Kėdainių apylinkėse bolševikai tą vakarą atsitrauk�
 - t-001
   global_id: t-42387
   teiginys: 'Po nesėkmingo puolimo Kėdainių apylinkėse bolševikai tą vakarą atsitraukė į Šėtą.'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo kontekstinis, todėl patikslintas į savarankišką sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kaimas; mentioned_place: Kolupiai; mentioned_place: Kėdainiai'
   pagrindžia:
     - c-001
 

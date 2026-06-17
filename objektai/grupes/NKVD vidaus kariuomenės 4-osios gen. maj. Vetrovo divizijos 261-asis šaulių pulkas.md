@@ -19,7 +19,7 @@ amziai:
 
 ## Santrauka
 
-NKVD vidaus kariuomenės 4-osios gen. maj. Vetrovo divizijos 261-asis šaulių pulkas veikė kartu su vadinamuoju specialiuoju daliniu.
+NKVD pajėgos NKVD vidaus kariuomenės 4-osios gen. “ Mūšis 1945 m. kovo pradžioje NKVD divizija puolė Pušaloto, Pasvalio, Žaliosios girios partizanus Panevėžio apskrityje.
 
 ## Teiginiai
 
@@ -27,6 +27,7 @@ NKVD vidaus kariuomenės 4-osios gen. maj. Vetrovo divizijos 261-asis šaulių p
 - t-001
   global_id: t-78393
   teiginys: 'NKVD vidaus kariuomenės 4-osios gen. maj. Vetrovo divizijos 261-asis šaulių pulkas veikė kartu su vadinamuoju specialiuoju daliniu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/NKVD|NKVD]]'
   pagrindžia:
     - c-001
 
@@ -47,7 +48,3 @@ NKVD vidaus kariuomenės 4-osios gen. maj. Vetrovo divizijos 261-asis šaulių p
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/NKVD]]

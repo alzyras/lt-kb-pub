@@ -27,6 +27,9 @@ Vytautas negali sustoti, pasakyti — gana galybės. Bendras jo galybės didėji
 - t-001
   global_id: t-54386
   teiginys: 'Vytauto galybės didėjimas santykiuose su lenkais vertė jį laisvintis iš naujai uždedamų suvaržymų.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]'
+  temporaliniai_duomenys: 'įvykio data: 1429 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 
@@ -34,6 +37,7 @@ Vytautas negali sustoti, pasakyti — gana galybės. Bendras jo galybės didėji
 - t-002
   global_id: t-54387
   teiginys: 'Posakis „Vytautas negali sustoti, pasakyti — gana galybės“ aiškina valdžios augimo spaudimą Vytautui.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-001
 
@@ -41,6 +45,7 @@ Vytautas negali sustoti, pasakyti — gana galybės. Bendras jo galybės didėji
 - t-003
   global_id: t-54388
   teiginys: 'Vytauto turima valdžia stūmė jį tolyn ir vertė vis didinti savo galybę.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-001
 
@@ -48,6 +53,9 @@ Vytautas negali sustoti, pasakyti — gana galybės. Bendras jo galybės didėji
 - t-004
   global_id: t-54389
   teiginys: 'Vytauto galybės didėjimas santykiuose su lenkais vertė jį laisvintis iš naujų suvaržymų.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]'
+  temporaliniai_duomenys: 'įvykio data: 1429 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 
@@ -76,8 +84,3 @@ Vytautas negali sustoti, pasakyti — gana galybės. Bendras jo galybės didėji
   statusas: verified
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/grupes/Lenkai]]

@@ -48,6 +48,11 @@ Nenurodyta
 - t-001
   global_id: t-59703
   teiginys: 'Karaliaučiaus kronikos nuorašo viršelyje buvo Prūsijos hercogo Albrechto herbas, rodęs tuometinį nuorašo šeimininką.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiksliai atitinka citatos informaciją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_object: [[objektai/zodynas/nuorašas|nuorašas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Pamedė; mentioned_place: Prūsija'
+  temporaliniai_duomenys: 'įvykio data: 1540 m.; įvykio data: 1568 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir tiksliai atitinka citatos informaciją.'
   pagrindžia:
     - c-001
 
@@ -67,11 +72,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lotynai]]
-- [[objektai/zodynas/nuorašas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/asmenys/Albrechtas (Prūsijos hercogas)]]
-- [[objektai/asmenys/P. Speratas]]

@@ -29,6 +29,11 @@ Kai Vytau­ tas po Kęstučio mirties užmezgė ryšius su didžiuoju magistru, 
 - t-001
   global_id: t-86576
   teiginys: '1384 m. sutartimi Ordinas prisiekė grąžinti Vytautui atimtą tėvoniją, o Vytautas be įpėdinių žadėjo perleisti paveldėjimo teises kryžiuočiams.'
+  sudarymo_pagrindimas: 'Sakinys pataisytas į užbaigtą faktą apie tėvoniją ir paveldėjimo teises.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1384 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Sakinys pataisytas į užbaigtą faktą apie tėvoniją ir paveldėjimo teises.'
   pagrindžia:
     - c-001
 
@@ -60,10 +65,3 @@ Kai Vytau­ tas po Kęstučio mirties užmezgė ryšius su didžiuoju magistru, 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/ivykiai/Vytauto sutartis su Ordinu dėl tėvonijos susigrąžinimo (1384 m.)]]

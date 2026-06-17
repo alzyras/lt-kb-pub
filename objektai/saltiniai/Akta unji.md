@@ -4,16 +4,21 @@ pavadinimas: 'Akta unji'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-aliases:
-  - 'objektai/saltiniai/AUPL'
-variantai:
-  - 'AUPL'
+datos:
+  - '1385 m.'
+  - '1791 m.'
+  - '1932 m.'
+date_start: '1385'
+date_end: '1932'
 sukurta: ''
 atnaujinta: ''
 tags:
   - dokumentas
   - saltinis
   - sutartis
+amziai:
+  - 'XIV'
+  - 'XX'
 ---
 # Akta unji
 
@@ -22,12 +27,19 @@ tags:
 Šis leidinys minimas kaip St. Kutrzebos ir Wl. Semkowicziaus parengtas 1385-1791 m. Lenkijos ir Lietuvos unijų aktų rinkinys, išleistas Krokuvoje 1932 m. Kitas paminėjimas rodo, kad leidinys vartojamas Vytauto ir Jogailos laikų dokumentacijai cituoti.
 
 ## Teiginiai
-- t-002
+
+<a id="claim-t-67348"></a>
+- t-001
+  global_id: t-67348
   teiginys: '„Akta unii Polski z Litwą 1385-1791“ yra St. Kutrzebos ir Wl. Semkowicziaus parengtas 1385-1791 m. Lenkijos ir Lietuvos unijų aktų rinkinys, išleistas Krokuvoje 1932 m.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/Kutrzeba|Kutrzeba]]; mentioned_person: [[objektai/autoriai/St. Kutrzeba|St. Kutrzeba]]; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1385-1791; įvykio data: 1791 m.; įvykio data: 1932 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
-## Bibliografiniai įrodymai
+## Reikšmingi paminėjimai
+
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -37,4 +49,4 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001

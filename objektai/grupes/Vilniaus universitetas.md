@@ -6,8 +6,10 @@ saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1569 m.'
-  - '1830 m.'
-  - '1855 m.'
+  - '1579 m.'
+  - '1618 m.'
+  - '1646 m.'
+  - '1803 m.'
   - '1864 m.'
 date_start: '1569'
 date_end: '1864'
@@ -21,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-Vilniaus universiteto aplinkoje susibūrę inteligentai siekė kurti aukštąją kultūrą lietuvių ir žemaičių kalba. Vilniaus universitetas iki pat uždarymo 1832 m. buvo ne tik pagrindinė Lietuvos mokykla, bet ir svarbiausias kultūros centras. Iki 1832 m. uždarymo Vilniaus universitetas buvo pagrindinė Lietuvos mokykla ir svarbiausias kultūros centras.
+Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu patvirtinta akademija ir universitetas. Iki 1832 m. uždarymo jis buvo pagrindinė Lietuvos mokykla, svarbus kultūros centras ir Rusijos imperijos laikotarpiu Vilniaus švietimo apygardos centras.
 
 ## Pavadinimai šaltiniuose
 
@@ -59,6 +61,8 @@ Vilniaus universiteto aplinkoje susibūrę inteligentai siekė kurti aukštąją
 - t-001
   global_id: t-113352
   teiginys: 'Vilniaus universiteto aplinkoje susibūrę inteligentai siekė kurti aukštąją kultūrą lietuvių ir žemaičių kalba.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs; citata leidžia pateikti aiškią santrauką.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/autoriai/Rėza|Rėza]]; mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_person: [[objektai/autoriai/Simonas Stanevičius|Simonas Stanevičius]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-006
 
@@ -66,6 +70,11 @@ Vilniaus universiteto aplinkoje susibūrę inteligentai siekė kurti aukštąją
 - t-002
   global_id: t-113353
   teiginys: 'Vilniaus universitetas iki pat uždarymo 1832 m. buvo ne tik pagrindinė Lietuvos mokykla, bet ir svarbiausias kultūros centras.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiesiogiai atkartoja citatos pagrindinę informaciją.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/barokas|barokas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1832 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir tiesiogiai atkartoja citatos pagrindinę informaciją.'
   pagrindžia:
     - c-001
 
@@ -73,6 +82,11 @@ Vilniaus universiteto aplinkoje susibūrę inteligentai siekė kurti aukštąją
 - t-003
   global_id: t-113354
   teiginys: 'Iki 1832 m. uždarymo Vilniaus universitetas buvo pagrindinė Lietuvos mokykla ir svarbiausias kultūros centras.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai ir glaustai perteikia citatos faktą apie universitetą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/barokas|barokas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: iki 1832 m.; įvykio data: 1832 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai ir glaustai perteikia citatos faktą apie universitetą.'
   pagrindžia:
     - c-001
 
@@ -80,6 +94,11 @@ Vilniaus universiteto aplinkoje susibūrę inteligentai siekė kurti aukštąją
 - t-004
   global_id: t-113355
   teiginys: 'Po 1830-1831 m. sukilimo Vilniaus universitetas buvo uždarytas.'
+  sudarymo_pagrindimas: 'Citata tiesiogiai remia faktą apie universiteto uždarymą, o pradinėje formuluotėje yra puslapio triukšmo.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_place: Lenkija; mentioned_place: Rusija; mentioned_place: Varšuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1830-1831; įvykio data: 1831 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata tiesiogiai remia faktą apie universiteto uždarymą, o pradinėje formuluotėje yra puslapio triukšmo.'
   pagrindžia:
     - c-012
 
@@ -87,6 +106,8 @@ Vilniaus universiteto aplinkoje susibūrę inteligentai siekė kurti aukštąją
 - t-005
   global_id: t-113356
   teiginys: 'Vilniaus universitetas tapo istorinės Lietuvos žemių visuomeninio ir kultūrinio gyvenimo centru.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie universiteto vaidmenį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/istorinė Lietuva|istorinė Lietuva]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_person: [[objektai/asmenys/Andrius Sniadeckis|Andrius Sniadeckis]]; mentioned_person: [[objektai/asmenys/Joachimas (Pskovo vietininkas)|Joachimas (Pskovo vietininkas)]]; mentioned_person: [[objektai/asmenys/Joachimas Lelevelis|Joachimas Lelevelis]]; mentioned_person: [[objektai/asmenys/Johanas Pėteris Frankas|Johanas Pėteris Frankas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas Sniadeckis|Jonas Sniadeckis]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_person: [[objektai/autoriai/Lelevelis|Lelevelis]]; mentioned_place: Austrija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-004
 
@@ -94,6 +115,11 @@ Vilniaus universiteto aplinkoje susibūrę inteligentai siekė kurti aukštąją
 - t-006
   global_id: t-113357
   teiginys: 'Vilniaus universitetas buvo vienas seniausių Vidurio Europos universitetų.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Anglai|Anglai]]; mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_object: [[objektai/zodynas/Vidurio Europa|Vidurio Europa]]; mentioned_person: [[objektai/autoriai/Martynas Smigleckis|Martynas Smigleckis]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Anglija; mentioned_place: Europa; mentioned_place: Oksfordas; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1618 m.; įvykio data: 1646 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
   pagrindžia:
     - c-002
 
@@ -101,6 +127,11 @@ Vilniaus universiteto aplinkoje susibūrę inteligentai siekė kurti aukštąją
 - t-007
   global_id: t-113358
   teiginys: 'Vilniaus universitetas tapo Vilniaus švietimo apygardos centru, kai į ją pateko buvusios LLV žemės ir 9 mln. gyventojų.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir labiau apie apygardą; perrašyta apie universitetą.'
+  susije_objektai: 'mentioned_place: Europa; mentioned_place: Rusija; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1803 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs ir labiau apie apygardą; perrašyta apie universitetą.'
   pagrindžia:
     - c-003
 
@@ -108,6 +139,9 @@ Vilniaus universiteto aplinkoje susibūrę inteligentai siekė kurti aukštąją
 - t-008
   global_id: t-113359
   teiginys: 'Michałas Balińskis 1812 m. rugsėjo 22 d. įstojo į Vilniaus universiteto Fizikos ir matematinių mokslų fakultetą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_place: Rusija; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1812 m.; įvykio data: 1814 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-007
 
@@ -115,6 +149,7 @@ Vilniaus universiteto aplinkoje susibūrę inteligentai siekė kurti aukštąją
 - t-009
   global_id: t-113360
   teiginys: 'Vilniaus universiteto aplinkoje susibūrę Žemaitijos inteligentai siekė plėtoti aukštąją kultūrą lietuvių kalba.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/autoriai/Rėza|Rėza]]; mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_person: [[objektai/autoriai/Simonas Stanevičius|Simonas Stanevičius]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-006
 
@@ -122,6 +157,11 @@ Vilniaus universiteto aplinkoje susibūrę inteligentai siekė kurti aukštąją
 - t-010
   global_id: t-113361
   teiginys: 'Po 1830-1831 m. sukilimo uždarius Vilniaus universitetą, nemažai išsilavinusių žmonių išvyko į Lenkijos ar Rusijos miestus.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_place: Lenkija; mentioned_place: Rusija; mentioned_place: Varšuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1830-1831; įvykio data: 1831 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-012
 
@@ -129,6 +169,9 @@ Vilniaus universiteto aplinkoje susibūrę inteligentai siekė kurti aukštąją
 - t-011
   global_id: t-113363
   teiginys: '1832 m. buvo nutarta uždaryti Vilniaus universitetą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/Laisvamanybė ir laisvamaniai|Laisvamanybė ir laisvamaniai]]; mentioned_object: [[objektai/posakiai/„Lietuvos laisvamanybės lizdą“|„Lietuvos laisvamanybės lizdą“]]; mentioned_place: Rusija; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1832 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-005
 
@@ -136,6 +179,12 @@ Vilniaus universiteto aplinkoje susibūrę inteligentai siekė kurti aukštąją
 - t-012
   global_id: t-113365
   teiginys: '1579 m. balandžio 1 d. karalius Steponas Batoras išdavė Vilniaus akademijos atidarymo privileginį raštą.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nurodo datą, veikėją ir veiksmą, paremtus citata.'
+  susije_objektai: 'territory: Vilnius; territory: Šv. Jonų bažnyčia; mentioned_person: [[objektai/asmenys/Grigalius (vicekancleris)|Grigalius (vicekancleris)]]; mentioned_person: [[objektai/asmenys/Grigalius XIII|Grigalius XIII]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]; mentioned_person: [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius]]; mentioned_place: Vilnius; mentioned_place: Šv. Jonų bažnyčia'
+  semantiniai_rysiai: '[[objektai/grupes/Vilniaus universitetas|Vilniaus universitetas]] susiję su Vilnius; [[objektai/grupes/Vilniaus universitetas|Vilniaus universitetas]] susiję su Šv. Jonų bažnyčia'
+  temporaliniai_duomenys: 'įvykio data: 1579 m.; įvykio data: 1850 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Vilniaus universitetas susiję su Vilnius“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Vilniaus universitetas susiję su Šv. Jonų bažnyčia“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo datą, veikėją ir veiksmą, paremtus citata.'
   pagrindžia:
     - c-011
 
@@ -143,6 +192,11 @@ Vilniaus universiteto aplinkoje susibūrę inteligentai siekė kurti aukštąją
 - t-013
   global_id: t-113366
   teiginys: 'Vilniaus universitetas – vienas iš seniausių universitetų Vidurio Europoje – už jį senesni tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus universitetai.'
+  sudarymo_pagrindimas: 'Teiginys yra išsamus, gramatiškas ir tiksliai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Anglai|Anglai]]; mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_person: [[objektai/autoriai/Martynas Smigleckis|Martynas Smigleckis]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Anglija; mentioned_place: Europa; mentioned_place: Oksfordas; mentioned_place: Vilnius; mentioned_place: Čekija'
+  temporaliniai_duomenys: 'įvykio data: 1618 m.; įvykio data: 1646 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra išsamus, gramatiškas ir tiksliai paremtas citata.'
   pagrindžia:
     - c-008
 
@@ -150,6 +204,11 @@ Vilniaus universiteto aplinkoje susibūrę inteligentai siekė kurti aukštąją
 - t-014
   global_id: t-113367
   teiginys: '1803 m. Vilniaus universitetas reorganizuotas pagal populiarų Europos universitetų modelį ir gavo Imperatoriškojo universiteto statusą.'
+  sudarymo_pagrindimas: 'Teiginys tiksliai nurodo 1803 m. reorganizaciją ir statusą.'
+  susije_objektai: 'mentioned_place: Europa; mentioned_place: Rusija; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1803 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys tiksliai nurodo 1803 m. reorganizaciją ir statusą.'
   pagrindžia:
     - c-003
 
@@ -157,6 +216,9 @@ Vilniaus universiteto aplinkoje susibūrę inteligentai siekė kurti aukštąją
 - t-015
   global_id: t-113368
   teiginys: 'Vilniaus universitetas buvo Vilniaus švietimo apygardos, apėmusios prie Rusijos prijungtas buvusios LLV žemes, centras.'
+  susije_objektai: 'mentioned_place: Europa; mentioned_place: Rusija; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1803 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-003
 
@@ -164,6 +226,11 @@ Vilniaus universiteto aplinkoje susibūrę inteligentai siekė kurti aukštąją
 - t-016
   global_id: t-113369
   teiginys: '1855 m. Aleksandrui II pradėjus liberalias reformas, krašto šviesuomenė vylėsi atkurti Vilniaus universitetą.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir atitinka citatos informaciją.'
+  susije_objektai: 'mentioned_place: Rusija; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1830-1831; įvykio data: 1831 m.; įvykio data: 1855 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, faktinis ir atitinka citatos informaciją.'
   pagrindžia:
     - c-009
 
@@ -171,6 +238,11 @@ Vilniaus universiteto aplinkoje susibūrę inteligentai siekė kurti aukštąją
 - t-017
   global_id: t-113370
   teiginys: 'Vilniaus universitetas pasiekė europinį mokslo ir studijų lygį ir buvo didžiausias Rusijos imperijoje.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nusako universiteto dydį ir mokslo lygį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Rusija; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: po 1864 m.; įvykio data: 1864 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako universiteto dydį ir mokslo lygį.'
   pagrindžia:
     - c-010
 
@@ -178,9 +250,23 @@ Vilniaus universiteto aplinkoje susibūrę inteligentai siekė kurti aukštąją
 - t-018
   global_id: t-113371
   teiginys: '1832 m. nutarta uždaryti Vilniaus universitetą, – anot uždarymo iniciatorių, „Lietuvos laisvamanybės lizdą“.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir pagrįstas citata, įskaitant atribuotą vertinimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/Laisvamanybė ir laisvamaniai|Laisvamanybė ir laisvamaniai]]; mentioned_object: [[objektai/posakiai/„Lietuvos laisvamanybės lizdą“|„Lietuvos laisvamanybės lizdą“]]; mentioned_place: Rusija; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1832 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir pagrįstas citata, įskaitant atribuotą vertinimą.'
   pagrindžia:
     - c-013
-
+- susijęs iš [[objektai/ivykiai/Vilniaus universiteto įkūrimas (1579 m.).md#claim-t-45453|Vilniaus universiteto įkūrimas (1579 m.)]]: Naujoji mokykla vadinosi Academia et Universitas Vilnensis Societatis Iesu, arba Vilniaus Jėzaus draugijos akademija ir universitetas.
+- susijęs iš [[objektai/ivykiai/Vilniaus universiteto įkūrimas (1579 m.).md#claim-t-45454|Vilniaus universiteto įkūrimas (1579 m.)]]: 1579 m. balandžio 1 d. Steponas Batoras išdavė Vilniaus akademijos atidarymo privileginį raštą.
+- susijęs iš [[objektai/ivykiai/Vilniaus universiteto įkūrimas.md#claim-t-71777|Vilniaus universiteto įkūrimas]]: 1579 m. balandžio 1 d. karalius Steponas Batoras, paremdamas vyskupo Valerijono Protasevičiaus sumanymą ir pastangas, išdavė Vilniaus universiteto Didysis kiemas ir Šv.
+- susijęs iš [[objektai/paprociai/Jėzuitiškas mokymas ir katalikybės sklaida per Vilniaus universitetą.md#claim-t-54244|Jėzuitiškas mokymas ir katalikybės sklaida per Vilniaus universitetą]]: Jėzuitai Baroko epochos idėjas skleidė per Vilniaus universitetą.
+- susijęs iš [[objektai/paprociai/Jėzuitiškas mokymas ir katalikybės sklaida per Vilniaus universitetą.md#claim-t-54246|Jėzuitiškas mokymas ir katalikybės sklaida per Vilniaus universitetą]]: Jėzuitai Baroko epochos idėjas skleidė per Vilniaus universitetą.
+- susijęs iš Grigaliaus XIII bulė dėl Vilniaus kolegijos patvirtinimo universitetu: 1579 m. spalio 29 d. popiežius Grigalius XIII išleido bulę, patvirtinusią Vilniaus kolegiją universitetu.
+- susijęs iš Vilniaus akademijos atidarymo privileginis raštas: 1579 m. popiežius Grigalius XIII patvirtino Vilniaus kolegiją universitetu, vadintu Academia et Universitas Vilnensis Societatis Iesu.
+- susijęs iš Vilnius: 1579 m. spalio 29 d. popiežius Grigalius XIII patvirtino Vilniaus kolegiją universitetu.
+- susijęs iš Vilnius: 1579 m. popiežius Grigalius XIII patvirtino Vilniaus kolegiją universitetu.
+- susijęs iš Vilnius: Vilniaus universitetas iki pat uždarymo 1832 m. buvo ne tik pagrindinė Lietuvos mokykla, bet ir svarbiausias kultūros centras.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -436,51 +522,5 @@ Vilniaus universiteto aplinkoje susibūrę inteligentai siekė kurti aukštąją
     - t-018
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/paprociai/Jėzuitiškas mokymas ir katalikybės sklaida per Vilniaus universitetą]]
-- [[objektai/ivykiai/Vilniaus universiteto įkūrimas]]
-- [[objektai/ivykiai/Vilniaus universiteto įkūrimas (1579 m.)]]
-- [[objektai/asmenys/Aleksandras Balinskis]]
-- [[objektai/asmenys/Andrius Sniadeckis]]
-- [[objektai/grupes/Anglai]]
-- [[objektai/grupes/Bajorai]]
-- [[objektai/asmenys/Grigalius (vicekancleris)]]
-- [[objektai/asmenys/Grigalius XIII]]
-- [[objektai/asmenys/Joachimas (Pskovo vietininkas)]]
-- [[objektai/asmenys/Joachimas Lelevelis]]
-- [[objektai/asmenys/Johanas Pėteris Frankas]]
-- [[objektai/asmenys/Jonas]]
-- [[objektai/asmenys/Jonas Sniadeckis]]
-- [[objektai/asmenys/Karolis]]
-- [[objektai/asmenys/Kristijonas]]
-- [[objektai/zodynas/Laisvamanybė ir laisvamaniai]]
-- [[objektai/autoriai/Lelevelis]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Lotynai]]
-- [[objektai/autoriai/Martynas Smigleckis]]
-- [[objektai/asmenys/Martynas iš Golino]]
-- [[objektai/autoriai/Mykolas Balinskis]]
-- [[objektai/grupes/Prancūzai]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/autoriai/Simonas Stanevičius]]
-- [[objektai/asmenys/Steponas]]
-- [[objektai/asmenys/Valerijonas (raštininkas)]]
-- [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius (vyskupas)]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/barokas]]
-- [[objektai/zodynas/istorinė Lietuva]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/Miera|miera]]
-- [[objektai/posakiai/„Lietuvos laisvamanybės lizdą“]]
-- [[objektai/asmenys/Steponas Batoras]]
-- [[objektai/ivykiai/1830-1831 m. sukilimas|1830-1831 m. sukilimas (sukilimas, XIX a.)]]
-- [[objektai/asmenys/Eduardas Karolis Eichvaldas]]
-- [[objektai/grupes/Etninių lietuvių tautinis kultūrinis sąjūdis]]
-- [[objektai/asmenys/Horacijus]]
-- [[objektai/autoriai/Joachimas Lelevelis (istorikas)]]
-- [[objektai/asmenys/Jozefas Frankas]]
-- [[objektai/paprociai/Lietuvių aukštosios kultūros kūrimas ir liaudies švietimas gimtąja kalba]]
-- [[objektai/ivykiai/Napoleono karo kampanija Rusijos imperijos gilumoje]]
-- [[objektai/ivykiai/Vilniaus universiteto uždarymas po 1830-1831 m. sukilimo]]
-- [[objektai/zodynas/dvilypis lietuvių-žemaičių etnosas]]
+- Vilniaus universitetas susije_su [[objektai/vietos/Vilnius]]
+- Vilniaus universitetas susije_su [[objektai/vietos/Šv. Jonų bažnyčia]]

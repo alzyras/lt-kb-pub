@@ -21,9 +21,12 @@ Semkowiczius, kuris su lenkų Bažnyčios istoriku J.
 - t-001
   global_id: t-29646
   teiginys: 'Wł. Semkowiczius su J. Fijałeku išleido Vilniaus vyskupijos šaltinių tomą, o su St. Kutrzeba - Lenkijos ir Lietuvos unijos aktus.'
+  sudarymo_pagrindimas: 'Teiginys gramatiškai perteikia citatoje nurodytus Wł. Semkowicziaus leidinius ir bendraautorius.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/autoriai/Kutrzeba|Kutrzeba]]; mentioned_person: [[objektai/autoriai/St. Kutrzeba|St. Kutrzeba]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/autoriai/Lenkų istorikai ir Lietuvos istoriografijos tyrėjai.md#claim-t-179526|Lenkų istorikai ir Lietuvos istoriografijos tyrėjai]]: Wł. Semkowiczius išleido Vilniaus vyskupijos šaltinių tomą ir Lenkijos bei Lietuvos unijos aktus.
+- susijęs iš Akta unii Polski z Litwą 1385-1791: „Akta unii Polski z Litwą 1385-1791“ išleido St. Kutrzeba ir Wł. Semkowiczius Krokuvoje 1932 m.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -39,8 +42,3 @@ Semkowiczius, kuris su lenkų Bažnyčios istoriku J.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/zodynas/unija]]

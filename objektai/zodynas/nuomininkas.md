@@ -14,7 +14,7 @@ tags:
 
 ## Santrauka
 
-Vytauto vietininkai plėtė dvarų ūkį neapgyventose žemėse, įkurdindami jose dvaro žmones arba nuomininkus. Vytautas įkurdindavo darbininkus savo neužimtose žemėse, atleisdavo juos nuo lažo ir padarydavo laisvus nuomininkus. Vytauto vietininkai plėtė dvarus neapgyventose žemėse, įkurdindami dvaro žmones arba nuomininkus.
+Jie rūpinosi visais dvaro ūkio reikalais, stengėsi padidinti jo pro­ duktingumą, išplėsti jį naujose, neapgyventose žemėse, įkur­ dinant juose dvaro žmones, arba nuomininkus. Taip pat ir kitais sumetimais Vytautas stengdavosi įkur­ dinti neužimtose, bet jam priklausomose žemėse, plėsdamas jose dvarų ūkį ir įkurdamas darbininkus, kuriuos atleisdavo nuo lažo ir padarydavo laisvus nuomininkus, arba tos žemės būdavo duodamos.
 
 ## Teiginiai
 
@@ -22,6 +22,8 @@ Vytauto vietininkai plėtė dvarų ūkį neapgyventose žemėse, įkurdindami jo
 - t-001
   global_id: t-36818
   teiginys: 'Vytauto vietininkai plėtė dvarų ūkį neapgyventose žemėse, įkurdindami jose dvaro žmones arba nuomininkus.'
+  sudarymo_pagrindimas: 'Perrašyta tiksliau pagal citatą ir pašalintas neaiškus junginys apie dvarų žemes.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/vergai|vergai]]'
   pagrindžia:
     - c-001
 
@@ -29,6 +31,8 @@ Vytauto vietininkai plėtė dvarų ūkį neapgyventose žemėse, įkurdindami jo
 - t-002
   global_id: t-36819
   teiginys: 'Vytautas įkurdindavo darbininkus savo neužimtose žemėse, atleisdavo juos nuo lažo ir padarydavo laisvus nuomininkus.'
+  sudarymo_pagrindimas: 'Teiginys pilnas, faktinis ir paremtas citatoje aprašyta Vytauto praktika.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Lažas|Lažas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Žemaitija'
   pagrindžia:
     - c-002
 
@@ -36,6 +40,10 @@ Vytauto vietininkai plėtė dvarų ūkį neapgyventose žemėse, įkurdindami jo
 - t-003
   global_id: t-184246
   teiginys: 'Vytauto vietininkai plėtė dvarus neapgyventose žemėse, įkurdindami dvaro žmones arba nuomininkus.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pataisytas OCR triukšmas ir išplėstas įvardis į aiškų subjektą.'
   pagrindžia:
     - c-003
 
@@ -93,9 +101,3 @@ Vytauto vietininkai plėtė dvarų ūkį neapgyventose žemėse, įkurdindami jo
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/Lažas|lažas]]
-- [[objektai/zodynas/vergai]]

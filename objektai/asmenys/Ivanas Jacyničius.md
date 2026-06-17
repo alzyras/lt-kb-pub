@@ -18,6 +18,11 @@ Ivanas Jacyničius buvo vienas iš sužeistų pulkų vadų, kurie prasiskynė ke
 - t-001
   global_id: t-186212
   teiginys: 'Ivanas Jacyničius buvo vienas iš sužeistų pulkų vadų, kurie prasiskynė kelią per ginkluotus būrius ir išvengė nelaisvės ar mirties.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir atitinka citatos informaciją.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kardas|Kardas]]; mentioned_object: [[objektai/zodynas/vergas|vergas]]; mentioned_person: [[objektai/asmenys/Grigalius (vicekancleris)|Grigalius (vicekancleris)]]; mentioned_person: [[objektai/asmenys/Ivanas|Ivanas]]; mentioned_person: [[objektai/asmenys/Stanislovas|Stanislovas]]; mentioned_person: [[objektai/asmenys/Teodoras|Teodoras]]; mentioned_place: Lietuva; mentioned_place: Naugardukas; mentioned_place: Smolenskas'
   pagrindžia:
     - c-001
 
@@ -52,8 +57,3 @@ Ivanas Jacyničius buvo vienas iš sužeistų pulkų vadų, kurie prasiskynė ke
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Kardas]]
-- [[objektai/zodynas/vergas]]

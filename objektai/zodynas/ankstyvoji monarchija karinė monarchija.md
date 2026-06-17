@@ -3,17 +3,24 @@ tipas: zodyno_irasas
 pavadinimas: 'ankstyvoji monarchija karinė monarchija'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1316 m.'
+  - '1341 m.'
+date_start: '1316'
+date_end: '1341'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ordinas
   - sąvoka
+amziai:
+  - 'XIV'
 ---
 # ankstyvoji monarchija karinė monarchija
 
 ## Santrauka
 
-XIV a. Lietuvos santvarka kartais apibūdinama kaip karinė monarchija, nes ordinų agresija vertė Lietuvą daug energijos skirti karybai. Valdant Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turėjusi tokių požymių kaip diarchija ir ankstyvasis feodalizmas. Valdant Ldk Gediminui Lietuvoje susiformavo ankstyvoji, arba karinė, monarchija.
+Valdant Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turinti visus jai būdingus požymius, kaip antai: diarchija, ankstyvasis feodalizmas – ankstyvieji dvarai, Lietuvoje vadinti „kiemais“. Lietuvos antiizoliacinės pastangos ilgai nedavė rezultatų, o ordinų karinė agresija vertė Lietuvą visą energiją skirti karybai.
 
 ## Teiginiai
 
@@ -21,6 +28,8 @@ XIV a. Lietuvos santvarka kartais apibūdinama kaip karinė monarchija, nes ordi
 - t-001
   global_id: t-22056
   teiginys: 'XIV a. Lietuvos santvarka kartais apibūdinama kaip karinė monarchija, nes ordinų agresija vertė Lietuvą daug energijos skirti karybai.'
+  sudarymo_pagrindimas: 'Citata geriau pagrindžia tiesioginį teiginį apie karinę monarchiją.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/karyba|karyba]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -28,6 +37,11 @@ XIV a. Lietuvos santvarka kartais apibūdinama kaip karinė monarchija, nes ordi
 - t-002
   global_id: t-22057
   teiginys: 'Valdant Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turėjusi tokių požymių kaip diarchija ir ankstyvasis feodalizmas.'
+  sudarymo_pagrindimas: 'Teiginys sutrumpintas ir pritaikytas įrašo objektui.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/diarchija|diarchija]]; mentioned_object: [[objektai/zodynas/feodalizmas|feodalizmas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1316-1341; įvykio data: 1341 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys sutrumpintas ir pritaikytas įrašo objektui.'
   pagrindžia:
     - c-001
 
@@ -35,6 +49,11 @@ XIV a. Lietuvos santvarka kartais apibūdinama kaip karinė monarchija, nes ordi
 - t-003
   global_id: t-183397
   teiginys: 'Valdant Ldk Gediminui Lietuvoje susiformavo ankstyvoji, arba karinė, monarchija.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus sakinys apie ankstyvosios, arba karinės, monarchijos susiformavimą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 
@@ -86,11 +105,3 @@ XIV a. Lietuvos santvarka kartais apibūdinama kaip karinė monarchija, nes ordi
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Gediminas]]
-- [[objektai/zodynas/diarchija]]
-- [[objektai/zodynas/feodalizmas]]
-- [[objektai/zodynas/karyba]]
-- [[objektai/zodynas/ankstyvasis feodalizmas kiemai]]

@@ -16,7 +16,7 @@ tags:
 
 ## Santrauka
 
-Seniausiais laikais lietuviai upėmis pasiekdavo Viduržemio pajūrį. Mažajai Azijai patekus į turkų valdžią, Viduržemio jūros prekybos centrai pamažu prarado reikšmę Europai.
+Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buvo pasiekiama net Juodoji jūra, tolimi vakarinės Azijos kraštai ir Viduržemio pajūris. Kiek vėliau Mažoji Azija pateko į Turkų valdžią; prekybos centrai, kurie grupavosi Viduržemio jūroje, tada pamažu visai Europai nustojo savo reikšmės, ir šiaurėje ėmė kurtis nauji prekybos centrai.
 
 ## Teiginiai
 
@@ -24,6 +24,11 @@ Seniausiais laikais lietuviai upėmis pasiekdavo Viduržemio pajūrį. Mažajai 
 - t-001
   global_id: t-183104
   teiginys: 'Seniausiais laikais lietuviai upėmis pasiekdavo Viduržemio pajūrį.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata leidžia sutrumpinti teiginį iki aiškaus fakto apie Viduržemio pajūrį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Dniepras'
   pagrindžia:
     - c-001
 
@@ -31,9 +36,14 @@ Seniausiais laikais lietuviai upėmis pasiekdavo Viduržemio pajūrį. Mažajai 
 - t-002
   global_id: t-183105
   teiginys: 'Mažajai Azijai patekus į turkų valdžią, Viduržemio jūros prekybos centrai pamažu prarado reikšmę Europai.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata palaiko glaustą teiginį apie Viduržemio jūros prekybos centrų reikšmės mažėjimą.'
+  susije_objektai: 'mentioned_place: Baltija; mentioned_place: Dniepras; mentioned_place: Europa; mentioned_place: Mažoji Azija'
   pagrindžia:
     - c-002
-
+- susijęs iš Ispanija: XVI a. geopolitiniu požiūriu Europoje Ispanijai neprilygo nė viena valstybė.
 ## Reikšmingi paminėjimai
 
 - c-001

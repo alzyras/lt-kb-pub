@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Stabo ežeras nurodomas kaip dabartinis Kamienne ežeras. Stabo ežeras nurodomas kaip dabartinis Kamienne ežeras.
+Dusburgietis teigia, kad spąsčių kalnas Spitenbergas (Spittenbergk, Spittinberc) Spitteynen Spittels Sprūdės kalnas Stabo (dab.
 
 ## Teiginiai
 
@@ -21,9 +21,11 @@ Stabo ežeras nurodomas kaip dabartinis Kamienne ežeras. Stabo ežeras nurodoma
 - t-001
   global_id: t-58730
   teiginys: 'Stabo ežeras nurodomas kaip dabartinis Kamienne ežeras.'
+  sudarymo_pagrindimas: 'Citata palaiko glaustą faktą apie Stabo ežero dabartinį pavadinimą.'
+  susije_objektai: 'mentioned_place: Spitenbergas; mentioned_place: Stalupėnai'
   pagrindžia:
     - c-001
-
+- susijęs iš Nalepa J., Stabo: J. Nalepos tyrime Stabo ežeras tapatinamas su dabartiniu Kamienne ežeru Suvalkų krašte.
 ## Reikšmingi paminėjimai
 
 - c-001

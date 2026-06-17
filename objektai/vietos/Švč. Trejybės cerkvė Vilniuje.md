@@ -23,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-1505 m. miesto sienoje nurodyta palikti vartus palei Švč. Trejybės cerkvę, dabartinių Aušros vartų vietoje. Karalienė Elena 1510 metais iš vyro Žygimanto Senojo iki gyvos galvos gavo dalį Švč. Trejybės vienuolyne Vilniuje.
+Trejybės cerkvę, kur dabar yra Aušros vartai, ketvirtuosius - ties Išganytojo (Spaso) bažnyčia ir penktuosius - nuo Pilies. Kai kurie karaliaus potvarkiai dėl prekybos ir daugybės 48 Karalienė Elena mirė Vilniuje 1513 gavusi iš vyro, 1510 metais jai skyrė metais, palaidota graikų apeigų kopdalį Švč.
 
 ## Teiginiai
 
@@ -31,6 +31,11 @@ amziai:
 - t-001
   global_id: t-86134
   teiginys: '1505 m. miesto sienoje nurodyta palikti vartus palei Švč. Trejybės cerkvę, dabartinių Aušros vartų vietoje.'
+  sudarymo_pagrindimas: 'Pirminis tekstas yra fragmentas, bet citata palaiko aiškų faktą apie cerkvės vietą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Statinės|Statinės]]; mentioned_object: [[objektai/zodynas/barbarai|barbarai]]; mentioned_place: Išganytojo (Spaso) bažnyčia Vilniuje; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1505 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pirminis tekstas yra fragmentas, bet citata palaiko aiškų faktą apie cerkvės vietą.'
   pagrindžia:
     - c-001
 
@@ -38,6 +43,8 @@ amziai:
 - t-002
   global_id: t-86135
   teiginys: 'Karalienė Elena 1510 metais iš vyro Žygimanto Senojo iki gyvos galvos gavo dalį Švč. Trejybės vienuolyne Vilniuje.'
+  sudarymo_pagrindimas: 'Citata tiesiogiai nurodo Žygimanto Senojo suteiktą dalį Švč. Trejybės vienuolyne ir datą.'
+  susije_objektai: 'mentioned_object: [[objektai/posakiai/Iki gyvos galvos|Iki gyvos galvos]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 

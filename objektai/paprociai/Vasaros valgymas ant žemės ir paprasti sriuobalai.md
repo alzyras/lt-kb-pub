@@ -34,6 +34,8 @@ Nenurodyta
 - t-001
   global_id: t-07812
   teiginys: 'Vasarą visi valgė ant žemės, prisikloję dembliais ar meškenomis.'
+  sudarymo_pagrindimas: 'Teiginys yra glaustas, gramatiškas ir pagrįstas citata apie vasaros valgymą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Duona|Duona]]; mentioned_object: [[objektai/zodynas/Sriuobalas|Sriuobalas]]'
   pagrindžia:
     - c-001
 
@@ -54,8 +56,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Duona]]
-- [[objektai/zodynas/Sriuobalas|sriuobalas]]

@@ -43,6 +43,8 @@ Nenurodyta
 - t-001
   global_id: t-67064
   teiginys: 'Po sukilimo buvusiose LDK žemėse caro valdžia ėmėsi „lenkų pradų naikinimo“ politikos.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, glaustas ir paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/pradai|pradai]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_object: [[objektai/zodynas/Žynių titulai ir pareigybės|Žynių titulai ir pareigybės]]; mentioned_object: [[objektai/posakiai/„Čia nebus Lenkijos“|„Čia nebus Lenkijos“]]; mentioned_place: Krėva; mentioned_place: Lenkija; mentioned_place: Lenkijos karalystė; mentioned_place: Liublinas; mentioned_place: Maskva; mentioned_place: Rusija; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -50,6 +52,7 @@ Nenurodyta
 - t-002
   global_id: t-67066
   teiginys: 'Lenkų pradų naikinimo politika naikino kraštą nuo Rusijos skyrusias institucijas ir ribojo lenkų kalbą administracijoje.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/lenkų pradų naikinimo politika|lenkų pradų naikinimo politika]]; mentioned_object: [[objektai/zodynas/pradai|pradai]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_object: [[objektai/zodynas/Žynių titulai ir pareigybės|Žynių titulai ir pareigybės]]; mentioned_object: [[objektai/posakiai/„Čia nebus Lenkijos“|„Čia nebus Lenkijos“]]; mentioned_place: Krėva; mentioned_place: Lenkija; mentioned_place: Lenkijos karalystė; mentioned_place: Liublinas; mentioned_place: Maskva; mentioned_place: Rusija; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -83,15 +86,3 @@ Nenurodyta
   pagrindžia:
     - t-001
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bajorai]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/zodynas/pradai]]
-- [[objektai/zodynas/unija]]
-- [[objektai/posakiai/„Čia nebus Lenkijos“]]
-- [[objektai/zodynas/lenkų pradų naikinimo politika]]
-- [[objektai/posakiai/„lenkų pradų naikinimo“ „istorinio pirmumo teisę“]]
-- [[objektai/posakiai/„lenkų pradų naikinimo“ „istorinio pirmumo teisę“ „rusų pradų atkūrimo“]]

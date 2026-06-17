@@ -29,6 +29,7 @@ Grekov, B.
 - t-001
   global_id: t-30622
   teiginys: 'B. D. Grekovas su A. J. Jakubovskiu parašė veikalą „Zolotaja Orda i ee padenije“.'
+  susije_objektai: 'mentioned_place: Varšuva'
   pagrindžia:
     - c-001
 

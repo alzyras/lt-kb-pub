@@ -52,6 +52,9 @@ Nenurodyta
 - t-001
   global_id: t-40798
   teiginys: '1919 m. pafrontėje pozicijas žvalgęs Lietuvos karininkas laikė amerikietišką 1895 m. modelio Winchester šautuvą.'
+  susije_objektai: 'mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1895 m.; įvykio data: 1919 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -59,6 +62,11 @@ Nenurodyta
 - t-002
   global_id: t-40799
   teiginys: '1895 m. modelio Winchester šautuvas buvo gamintas JAV pagal Rusijos kariuomenės užsakymą ir naudojo 7,62x54 mm R šovinį.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai apibūdina šautuvą ir atitinka citatos duomenis.'
+  susije_objektai: 'mentioned_place: Rusija'
+  temporaliniai_duomenys: 'įvykio data: 1895 m.; įvykio data: 1897 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai apibūdina šautuvą ir atitinka citatos duomenis.'
   pagrindžia:
     - c-002
 

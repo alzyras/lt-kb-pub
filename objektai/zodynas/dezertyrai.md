@@ -5,6 +5,7 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1907 m.'
+  - '1944 m.'
   - '1945 m.'
 date_start: '1907'
 date_end: '1945'
@@ -28,6 +29,11 @@ Tūkstančiai lietuvių slapstėsi arba bėgo iš sovietų kariuomenės, todėl 
 - t-001
   global_id: t-22116
   teiginys: 'Pradėjus mobilizaciją į SSRS kariuomenę, lietuviai dezertyrai vengė tarnybos Raudonojoje armijoje.'
+  sudarymo_pagrindimas: 'Teiginys susietas su žodyno objektu ir paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_place: Berlynas; mentioned_place: Kuršas; mentioned_place: Lietuva; mentioned_place: SSRS; mentioned_place: Vokietija'
+  temporaliniai_duomenys: 'įvykio data: 1907 m.; įvykio data: 1944 m.; įvykio data: 1945 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys susietas su žodyno objektu ir paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -35,9 +41,17 @@ Tūkstančiai lietuvių slapstėsi arba bėgo iš sovietų kariuomenės, todėl 
 - t-002
   global_id: t-183412
   teiginys: 'Tūkstančiai lietuvių slapstėsi arba bėgo iš sovietų kariuomenės ir buvo oficialiai ieškomi kaip dezertyrai.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinį teiginį reikia sutrumpinti ir pašalinti perteklinę antrą mintį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_place: Berlynas; mentioned_place: Kuršas; mentioned_place: Lietuva; mentioned_place: SSRS; mentioned_place: Vokietija'
+  temporaliniai_duomenys: 'įvykio data: 1907 m.; įvykio data: 1944 m.; įvykio data: 1945 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinį teiginį reikia sutrumpinti ir pašalinti perteklinę antrą mintį.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/grupes/NKVD.md#claim-t-71677|NKVD]]: Sovietų kariai ir NKVD prie vidinės sienos stabdė žmonių traukimąsi į Rusiją, laikydami juos dezertyrais ar panikos skleidėjais.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -77,8 +91,3 @@ Tūkstančiai lietuvių slapstėsi arba bėgo iš sovietų kariuomenės, todėl 
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/NKVD]]

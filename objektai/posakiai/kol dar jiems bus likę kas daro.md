@@ -14,7 +14,7 @@ tags:
 
 ## Santrauka
 
-Užkariavę nadruvius, broliai nukreipė ginklus prieš skalvius, nes manė nieko nepasiekę, kol dar turėjo ką daryti.
+Dusburgietis teigia, kad apie įvykius prieš šį karą Iš dievo malonės užkariavę nadruvius, broliai nukreipė savo ginklus prieš skalvius, įsitikinę, kad tol nebus nieko padarę, kol dar jiems bus likę kas daro; beje, kurios ne kurios žemiau aprašytos kovos vyko po karo su nadruviais.
 
 ## Teiginiai
 
@@ -22,6 +22,8 @@ Užkariavę nadruvius, broliai nukreipė ginklus prieš skalvius, nes manė niek
 - t-001
   global_id: t-59117
   teiginys: 'Užkariavę nadruvius, broliai nukreipė ginklus prieš skalvius, nes manė nieko nepasiekę, kol dar turėjo ką daryti.'
+  sudarymo_pagrindimas: 'Reikia pataisyti griozdišką formuluotę ir aiškiau perteikti citatos mintį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]'
   pagrindžia:
     - c-001
 
@@ -48,8 +50,3 @@ Užkariavę nadruvius, broliai nukreipė ginklus prieš skalvius, nes manė niek
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Ginklai]]
-- [[objektai/grupes/Skalviai]]

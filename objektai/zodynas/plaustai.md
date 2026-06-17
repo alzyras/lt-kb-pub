@@ -23,6 +23,8 @@ Taip pat norime uždrausti ir uždraudžiame bei užginame perkėlimus, vadi­ n
 - t-001
   global_id: t-86608
   teiginys: 'Plaustais vadinti perkėlimai per Vilijos upę buvo uždrausti tarp Verkių ir Panerių kaimų.'
+  sudarymo_pagrindimas: 'Citata pagrindžia draudimą, o pradinis teiginys yra nutrūkęs ir triukšmingas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_place: Kernavė; mentioned_place: Nemenčinė; mentioned_place: Paneriai; mentioned_place: Verkiai; mentioned_place: Vilija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -54,9 +56,3 @@ Taip pat norime uždrausti ir uždraudžiame bei užginame perkėlimus, vadi­ n
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/kapitula]]
-- [[objektai/grupes/Vilniaus kapitula]]
-- [[objektai/ivykiai/Žygimanto Senojo privilegijos dėl Vilijos tilto muito ir Švč. Trejybės prieglaudos suteikimas (1536 m. rugpjūčio 6 d.)]]

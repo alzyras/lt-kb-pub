@@ -27,6 +27,11 @@ Krotka nauka 0 kosach i pikach, Warszawa, 1794.
 - t-001
   global_id: t-39923
   teiginys: 'P. Aignerio „Krotka nauka o kosach i pikach“ 1794 m. Varšuvoje išleista sukilėlių mokymui skirtu cirkuliaru.'
+  sudarymo_pagrindimas: 'Citata pagrindžia autorių, leidimo vietą, metus ir paskirtį.'
+  susije_objektai: 'mentioned_place: Varšuva'
+  temporaliniai_duomenys: 'įvykio data: 1794 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia autorių, leidimo vietą, metus ir paskirtį.'
   pagrindžia:
     - c-001
 

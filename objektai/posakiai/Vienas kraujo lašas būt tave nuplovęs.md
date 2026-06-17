@@ -3,16 +3,24 @@ tipas: posakis
 pavadinimas: 'Vienas kraujo lašas būt tave nuplovęs'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+datos:
+  - '1792 m.'
+  - '1940 m.'
+date_start: '1792'
+date_end: '1940'
 sukurta: ''
 atnaujinta: ''
 tags:
   - posakis
+amziai:
+  - 'XVIII'
+  - 'XX'
 ---
 # Vienas kraujo lašas būt tave nuplovęs
 
 ## Santrauka
 
-Zikaras Aisčio eilutę „Vienų vienas žodis būt tave apgynęs“ sieja su pasipriešinimu protestais ir Vyriausybės pasitraukimu. Dažnai kartojama Jono Aisčio eilutė „Vienas kraujo lašas būt tave nuplovęs“ siejama su 1940 m. įvykių vertinimais.
+Jono Aisčio eilutės reiškia dvi priešpriešines Lietuvos pasipriešinimo formules: simbolinio kraujo auką ir žodinį bei politinį pasipriešinimą.
 
 ## Forma
 
@@ -28,6 +36,11 @@ Zikaras Aisčio eilutę „Vienų vienas žodis būt tave apgynęs“ sieja su p
 - t-001
   global_id: t-09678
   teiginys: 'Zikaras Aisčio eilutę „Vienų vienas žodis būt tave apgynęs“ sieja su pasipriešinimu protestais ir Vyriausybės pasitraukimu.'
+  sudarymo_pagrindimas: 'Citata palaiko glaustesnį ir tikslesnį interpretacinį teiginį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1792 m.; įvykio data: 1940 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko glaustesnį ir tikslesnį interpretacinį teiginį.'
   pagrindžia:
     - c-002
 
@@ -35,6 +48,11 @@ Zikaras Aisčio eilutę „Vienų vienas žodis būt tave apgynęs“ sieja su p
 - t-002
   global_id: t-09679
   teiginys: 'Dažnai kartojama Jono Aisčio eilutė „Vienas kraujo lašas būt tave nuplovęs“ siejama su 1940 m. įvykių vertinimais.'
+  sudarymo_pagrindimas: 'Teiginys yra tikslus, gramatiškas ir paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1792 m.; įvykio data: 1940 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra tikslus, gramatiškas ir paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -76,11 +94,3 @@ Zikaras Aisčio eilutę „Vienų vienas žodis būt tave apgynęs“ sieja su p
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Aleksandras]]
-- [[objektai/grupes/Rytas]]
-- [[objektai/zodynas/Miera|miera]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/posakiai/Vienas kraujo lašas būt tave nuplovęs Vienų vienas žodis būt tave apgynęs]]

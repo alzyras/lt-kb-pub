@@ -34,9 +34,10 @@ Nenurodyta
 - t-001
   global_id: t-07798
   teiginys: 'Kiekviena pavietė turėjo karūžąjį, kuris laikė surašytus žemlionus, o kartą per metus tikrino jų ginklus ir arklius.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/zodynas/Perveiza|Perveiza]]; mentioned_object: [[objektai/zodynas/Tėvūnija|Tėvūnija]]'
   pagrindžia:
-    - c-002
     - c-001
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -66,12 +67,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/duoklė]]
-- [[objektai/zodynas/Perveiza|perveiza]]
-- [[objektai/zodynas/Tėvūnija|tėvūnija]]
-- [[objektai/zodynas/vėliava]]
-- [[objektai/grupes/Žemlionys]]
-- [[objektai/daiktai/Ginklai]]

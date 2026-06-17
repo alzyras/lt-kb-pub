@@ -60,10 +60,3 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Karolis]]
-- [[objektai/asmenys/Karolis XII]]
-- [[objektai/grupes/Kazokai]]
-- [[objektai/grupes/Rusai]]

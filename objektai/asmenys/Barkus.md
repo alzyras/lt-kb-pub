@@ -18,9 +18,15 @@ Barkus prie Jūros žiočių pasistatė Jurbarko pilį ir gavo valdyti Žemaitij
 - t-001
   global_id: t-186097
   teiginys: 'Barkus prie Jūros žiočių pasistatė Jurbarko pilį ir gavo valdyti Žemaitijos dalį iki Kuršių įlankos.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytą Barkaus pilį ir valdas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Palemonas|Palemonas]]; mentioned_place: Jurbarkas; mentioned_place: Nemunas'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/daiktai/Atminimo statula.md#claim-t-185847|Atminimo statula]]: Po Barkaus sudeginimo jo pelenų vietoje pastatyta atminimo statula iki Jogailos laikų buvo laikoma šventenybe.
+- susijęs iš Nemunas: Barkus Jūros žiotyse, kur ji įteka į Nemuną, pasistatė Jurbarko pilį ir gavo valdyti dalį Žemaitijos.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -54,10 +60,3 @@ Barkus prie Jūros žiočių pasistatė Jurbarko pilį ir gavo valdyti Žemaitij
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kuršiai]]
-- [[objektai/asmenys/Palemonas]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/daiktai/Atminimo statula]]

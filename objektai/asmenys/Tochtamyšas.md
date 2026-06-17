@@ -22,7 +22,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Tochtamyšas buvo Saladino tėvas; po Tochtamyšo mirties Saladinas prisiglaudė pas Vytautą. Po Tochtamyšo mirties jo vyriausias sūnus Saladinas buvo prisiglaudęs pas Vytautą. Tochtamyšas, negalėdamas įveikti Kerim Berdžio, su svarbiausiais savo šalininkais pabėgo pas Vytautą.
+Vytautas pažadėjo grąžinti jam sostą, o Tochtamyšas už tai pažadėjo atsisakyti nuo Rusijos ir Vytautui dar suteikti pagalbos. Pas Vytautą buvo atbėgęs baisaus Tamerlano išvytas iš savo valstybės totorių chanas Tochtamyšas.
 
 ## Teiginiai
 
@@ -30,6 +30,11 @@ Tochtamyšas buvo Saladino tėvas; po Tochtamyšo mirties Saladinas prisiglaudė
 - t-001
   global_id: t-51184
   teiginys: 'Tochtamyšas buvo Saladino tėvas; po Tochtamyšo mirties Saladinas prisiglaudė pas Vytautą.'
+  sudarymo_pagrindimas: 'Kontekstinis fragmentas perrašytas į pilną citata paremtą sakinį apie Tochtamyšą.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Vorsklos mūšis|Vorsklos mūšis]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Saladinas|Saladinas]]; mentioned_place: Vorskla'
+  temporaliniai_duomenys: 'įvykio data: 1409 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Kontekstinis fragmentas perrašytas į pilną citata paremtą sakinį apie Tochtamyšą.'
   pagrindžia:
     - c-001
 
@@ -37,6 +42,9 @@ Tochtamyšas buvo Saladino tėvas; po Tochtamyšo mirties Saladinas prisiglaudė
 - t-002
   global_id: t-51185
   teiginys: 'Po Tochtamyšo mirties jo vyriausias sūnus Saladinas buvo prisiglaudęs pas Vytautą.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Vorsklos mūšis|Vorsklos mūšis]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Saladinas|Saladinas]]; mentioned_place: Vorskla'
+  temporaliniai_duomenys: 'įvykio data: 1409 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -44,6 +52,11 @@ Tochtamyšas buvo Saladino tėvas; po Tochtamyšo mirties Saladinas prisiglaudė
 - t-003
   global_id: t-184841
   teiginys: 'Tochtamyšas, negalėdamas įveikti Kerim Berdžio, su svarbiausiais savo šalininkais pabėgo pas Vytautą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata palaiko faktą, bet pradinė formuluotė per ilga ir prasideda šaltinio atribucija.'
+  susije_objektai: 'mentioned_place: Viena'
   pagrindžia:
     - c-002
 
@@ -51,6 +64,11 @@ Tochtamyšas buvo Saladino tėvas; po Tochtamyšo mirties Saladinas prisiglaudė
 - t-004
   global_id: t-184842
   teiginys: 'Tochtamyšas Vilniuje buvo Vytauto priimtas, gavo paramos pažadą ir buvo paskelbtas Užvolgio skitų chanu.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Geriau teiginį formuluoti tiesiogiai apie Tochtamyšą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_object: [[objektai/zodynas/skitai|skitai]]; mentioned_place: Viena; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 
@@ -58,9 +76,17 @@ Tochtamyšas buvo Saladino tėvas; po Tochtamyšo mirties Saladinas prisiglaudė
 - t-005
   global_id: t-184843
   teiginys: 'Kerim Berdis mūšyje išsklaidė Tochtamyšo dalinius ir nužudė savo brolį Tochtamyšą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata palaiko konkretų faktinį įvykį, o pradiniame teiginyje dominuoja palyginimas.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kerim Berdis|Kerim Berdis]]'
   pagrindžia:
     - c-004
-
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179003|Kryžiuočių ordinas]]: Ordinas atsiuntė komtūrą Marquardą von Salzbachą su keliais tūkstančiais karių.
+- susijęs iš [[objektai/ivykiai/Vorsklos mūšis.md#claim-t-186583|Vorsklos mūšis (mūšis)]]: Lietuvos metraštis pasakoja, kad prieš Vorsklos mūšį Vytautas su Tochtamyšu ištraukė prieš chaną Temir-Kutlujų su didele kariuomene.
+- susijęs iš [[objektai/ivykiai/Vorsklos mūšis.md#claim-t-186586|Vorsklos mūšis (mūšis)]]: Lietuvos metraštis pasakoja, kad prieš Vorsklos mūšį Vytauto pusėje buvo Tochtamyšo kariuomenė, lietuviai, lenkai, vokiečiai, žemaičiai, totoriai ir moldavai.
+- susijęs iš [[objektai/ivykiai/Vorsklos mūšis.md#claim-t-186591|Vorsklos mūšis (mūšis)]]: Lietuvos metraštis teigia, kad Vytautas prieš Vorsklos mūšį siekė atimti iš Temir-Kutlujaus karalystę ir pasodinti į sostą chaną Tochtamyšą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -143,16 +169,3 @@ Tochtamyšas buvo Saladino tėvas; po Tochtamyšo mirties Saladinas prisiglaudė
   statusas: verified
   pagrindžia:
     - t-005
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Rusai]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/ivykiai/Vorsklos mūšis|Vorsklos mūšis (mūšis)]]
-- [[objektai/zodynas/chanas]]
-- [[objektai/zodynas/skitai]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Kerim Berdis]]
-- [[objektai/asmenys/Saladinas]]
-- [[objektai/ivykiai/Tochtamyšo priėmimas Vilniuje ir paskelbimas Užvolgio skitų chanu (1419 m.)]]
-- [[objektai/zodynas/chanas caras]]

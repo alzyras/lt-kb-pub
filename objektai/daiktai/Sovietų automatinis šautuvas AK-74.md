@@ -4,9 +4,10 @@ pavadinimas: 'Sovietų automatinis šautuvas AK-74'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
+  - '1959 m.'
   - '1974 m.'
-date_start: '1974'
-date_end: ''
+date_start: '1959'
+date_end: '1974'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -18,7 +19,7 @@ amziai:
 
 ## Santrauka
 
-1974 m. sukurtas sovietų automatinis šautuvas AK-74 buvo naujas Kalašnikovo automato variantas, naudojęs mažesnį šovinį.
+Sovietų automatinis šautuvas AKM.
 
 ## Pavadinimai šaltiniuose
 
@@ -46,6 +47,11 @@ Nenurodyta
 - t-001
   global_id: t-40770
   teiginys: '1974 m. sukurtas sovietų automatinis šautuvas AK-74 buvo naujas Kalašnikovo automato variantas, naudojęs mažesnį šovinį.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir tiksliai paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Sovietų automatinis (pusiau automatinis) šautuvas SVT-40|Sovietų automatinis (pusiau automatinis) šautuvas SVT-40]]; mentioned_object: [[objektai/daiktai/Sovietų automatinis šautuvas AKM|Sovietų automatinis šautuvas AKM]]'
+  temporaliniai_duomenys: 'įvykio data: 1959 m.; įvykio data: 1974 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys ir tiksliai paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -66,8 +72,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Sovietų automatinis (pusiau automatinis) šautuvas SVT-40]]
-- [[objektai/daiktai/Sovietų automatinis šautuvas AKM]]

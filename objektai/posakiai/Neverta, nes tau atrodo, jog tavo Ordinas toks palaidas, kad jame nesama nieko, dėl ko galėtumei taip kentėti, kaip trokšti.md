@@ -22,6 +22,8 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
 - t-001
   global_id: t-59140
   teiginys: 'Regėjime Marija parodė Teutonų ordino brolių žaizdas ir randus, patirtus ginant tikėjimą.'
+  sudarymo_pagrindimas: 'Citata leidžia suformuluoti aiškų faktinį sakinį be ilgos tiesioginės kalbos.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Marija|Marija]]; mentioned_person: [[objektai/asmenys/Mergelė Marija|Mergelė Marija]]; mentioned_place: Šventoji'
   pagrindžia:
     - c-001
 
@@ -29,6 +31,8 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
 - t-002
   global_id: t-59141
   teiginys: 'Regėjime šventoji mergelė Marija šiais žodžiais atsakė broliui, prašiusiam leisti pasilikti Teutonų ordino brolių bendrijoje.'
+  sudarymo_pagrindimas: 'Pradinis teiginys perpasakoja fragmentą su neaiškiu įvardžiu ir pertekliniu priskyrimu autoriui.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Marija|Marija]]; mentioned_person: [[objektai/asmenys/Mergelė Marija|Mergelė Marija]]; mentioned_place: Šventoji'
   pagrindžia:
     - c-001
 
@@ -67,10 +71,3 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Marija]]
-- [[objektai/asmenys/Mergelė Marija]]
-- [[objektai/grupes/Teutonai]]
-- [[objektai/grupes/Kryžiuočių ordinas]]

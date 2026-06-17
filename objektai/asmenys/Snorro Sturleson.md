@@ -31,6 +31,11 @@ Islandų keliautojas Snorro, tais lai­ kais vykdamas per Europos šiaurės kra�
 - t-001
   global_id: t-87575
   teiginys: 'Snorro Sturlesonas, 1179 m. Islandijoje gimęs keliautojas, rinko žinias Norvegijos ir Šiaurės istorijai.'
+  sudarymo_pagrindimas: 'Pradinis teiginys yra įžanginė formuluotė, o citata palaiko aiškų biografinį faktą.'
+  susije_objektai: 'mentioned_place: Europa; mentioned_place: Islandija; mentioned_place: Salos; mentioned_place: Skandinavija'
+  temporaliniai_duomenys: 'įvykio data: 1179 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys yra įžanginė formuluotė, o citata palaiko aiškų biografinį faktą.'
   pagrindžia:
     - c-002
 
@@ -38,6 +43,8 @@ Islandų keliautojas Snorro, tais lai­ kais vykdamas per Europos šiaurės kra�
 - t-002
   global_id: t-87576
   teiginys: 'Islandų keliautojas Snorro, vykdamas per Europos šiaurę, prie Vilniaus ir Trakų rado savo genties naujakurių.'
+  sudarymo_pagrindimas: 'Citata pagrindžia Snorro kelionę ir jo rastus gentainius prie Vilniaus bei Trakų.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Europa; mentioned_place: Trakai; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

@@ -44,6 +44,12 @@ Nenurodyta
 - t-001
   global_id: t-62208
   teiginys: '1313 m. vasarą Henrikas iš Plockės puolė Bisenės pilį, bet po nesėkmingos apgulties pasitraukė sužeidus kelis brolius ir pilėnus.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūko; citata palaiko aiškų puolimo ir rezultato aprašą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Henrikas iš Plockės|Henrikas iš Plockės]]; mentioned_place: Bisenė; mentioned_place: Nemunas; mentioned_place: Pilėnai; mentioned_place: Prūsija; mentioned_place: Salos'
+  temporaliniai_duomenys: 'įvykio data: 1313 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūko; citata palaiko aiškų puolimo ir rezultato aprašą.'
   pagrindžia:
     - c-001
 
@@ -68,9 +74,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/Henrikas]]
-- [[objektai/daiktai/Laivai]]
-- [[objektai/asmenys/Henrikas iš Plockės]]

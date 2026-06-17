@@ -22,7 +22,7 @@ periodo_grupes:
 
 ## Santrauka
 
-M. Sleževičius buvo Lietuvių draugijos nukentėjusiems dėl karo šelpti Centro komiteto narys. 1919 m. rugpjūčio 30 d. ministras pirmininkas M. Sleževičius pasveikino vyr. kariuomenės vadą gen. S. Žukauską.
+M. Sleževičius: komiteto pirmininkas buvo Rusijos Dūmos atstovas M. Yčas, vicepirmininkas A. Smetona, sekretorius St. Šilingas, iždininkas J. Kymantas; jo nariai buvo E. Vileišienė, kun. Olšauskas, kun. Kukta, kun. Dogelis, dr. A. Vileišis, P. Leonas, dr. J. Basanavičius. Šio antrojo kabineto pirmininku buvo M. Sleževičius. Kabinetas tuojau paskelbė visų piliečių šaukimą į savanorių pulkus ginti nepriklausomybės. Valstybės prezidentu buvo išrinktas d r. Kazys Grinius, o ministerių pirmininku buvo paskirtas valstiečių liaudininkų lyderis M. Sleževičius.
 
 ## Teiginiai
 
@@ -30,6 +30,7 @@ M. Sleževičius buvo Lietuvių draugijos nukentėjusiems dėl karo šelpti Cent
 - t-001
   global_id: t-79103
   teiginys: 'M. Sleževičius buvo Lietuvių draugijos nukentėjusiems dėl karo šelpti Centro komiteto narys.'
+  sudarymo_pagrindimas: 'Pradinis teiginys yra ilgas sąrašas ir klaidingai pradėtas vardu; perrašyta į faktą apie M. Sleževičių.'
   pagrindžia:
     - c-002
 
@@ -37,9 +38,30 @@ M. Sleževičius buvo Lietuvių draugijos nukentėjusiems dėl karo šelpti Cent
 - t-002
   global_id: t-79104
   teiginys: '1919 m. rugpjūčio 30 d. ministras pirmininkas M. Sleževičius pasveikino vyr. kariuomenės vadą gen. S. Žukauską.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie M. Sleževičių ir remiasi cituotu fragmentu.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Daugpilis; mentioned_place: Dauguva; mentioned_place: Lietuva; mentioned_place: Zarasai'
+  temporaliniai_duomenys: 'įvykio data: 1919 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie M. Sleževičių ir remiasi cituotu fragmentu.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/L. Želigovskis.md#claim-t-19100|L. Želigovskis]]: L. Želigovskis 1920 m. spalio 9 d. su savo daliniais įžengė į Vilnių ir paskelbė Vidurinės Lietuvos sudarymą.
+- susijęs iš [[objektai/asmenys/Mykolas Sleževičius.md#claim-t-75989|Mykolas Sleževičius]]: Mykolas Sleževičius žadėjo dalyti lenkų dvarininkų žemę bežemiams ir mažažemiams, todėl dauguma gyventojų parėmė vyriausybę.
+- susijęs iš [[objektai/asmenys/Mykolas Sleževičius.md#claim-t-75990|Mykolas Sleževičius]]: Mykolas Sleževičius nepriklausomybės kovose konsolidavo centrinę administraciją ir kvietė tautines mažumas priešintis įsiveržėliams.
+- susijęs iš [[objektai/asmenys/Mykolas Sleževičius.md#claim-t-75993|Mykolas Sleževičius]]: 1920 m. rugsėjį ministras pirmininkas Mykolas Sleževičius Seime ragino griebtis ginklo prieš lenkų puolimą.
+- susijęs iš [[objektai/daiktai/Ginklai ir ginkluotė.md#claim-t-45484|Ginklai ir ginkluotė]]: 1920 m. rugsėjį Mykolas Sleževičius Seime ragino sveikus gyventojus griebtis ginklo prieš lenkų puolimą.
+- susijęs iš [[objektai/daiktai/Ginklai ir ginkluotė.md#claim-t-45485|Ginklai ir ginkluotė]]: 1920 m. rugsėjį M. Sleževičius Seime ragino sveikus žmones griebtis ginklo prieš lenkų puolimą.
+- susijęs iš [[objektai/paprociai/Karinė savanorystė ir žemės pažadas valstybės gynimui.md#claim-t-20810|Karinė savanorystė ir žemės pažadas valstybės gynimui]]: M. Sleževičius pabrėžė, kad bežemiai ir mažažemiai gaus dalijamos lenkų dvarininkų žemės.
+- susijęs iš [[objektai/posakiai/„lenkai atakuoja...“.md#claim-t-20909|„lenkai atakuoja...“]]: 1920 m. rugsėjį Mykolas Sleževičius Seime pareiškė, kad lenkai atakuoja Lietuvą, nes juos pakvietė dvarininkai.
+- susijęs iš Lenkija: 1920 m. spalio 9 d. Lenkijos generolas Liucijanas Želigovskis įžengė į Vilnių dar prieš įsigaliojant Suvalkų susitarimui.
+- susijęs iš Lenkija: 1920 m. rudenį Vilnius atiteko Lenkijai, kai ši sumušė Raudonąją armiją.
+- susijęs iš Punskas: Per karinius susidūrimus su Lenkija Lietuva prarado lietuviškus Seinus ir Punską.
+- susijęs iš Punskas: Karinių susidūrimų su Lenkija metu Lietuva prarado lietuviškus Seinus ir Punską.
+- susijęs iš Vidurinė Lietuva: 1920 m. spalio 9 d. L. Želigovskis su savo daliniais įžengė į Vilnių ir paskelbė Vidurinės Lietuvos sudarymą.
+- susijęs iš Vidurinė Lietuva: 1920 m. spalio 9 d., dar prieš įsigalint Suvalkų susitarimui, L. Želigovskis įžengė į Vilnių ir paskelbė Vidurinės Lietuvos sudarymą.
+- susijęs iš Vidurinė Lietuva: 1920 m. spalio 9 d., dar prieš įsigalint Suvalkų susitarimui, L. Želigovskis įžengė į Vilnių ir paskelbė Vidurinės Lietuvos sudarymą.
+- susijęs iš Vilnius: 1920 m. spalio 9 d. Liucijanas Želigovskis su savo daliniais įžengė į Vilnių ir paskelbė Vidurinės Lietuvos sudarymą.
+- susijęs iš [[objektai/zodynas/administracinė linija demarkacijos linija.md#claim-t-108562|administracinė linija demarkacijos linija]]: 1920 m. spalio 7 d. Suvalkų susitarime nustatyta kariuomenių demarkacijos linija paliko Vilnių Lietuvos pusėje.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -78,13 +100,3 @@ M. Sleževičius buvo Lietuvių draugijos nukentėjusiems dėl karo šelpti Cent
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/daiktai/Ginklai ir ginkluotė]]
-- [[objektai/paprociai/Karinė savanorystė ir žemės pažadas valstybės gynimui]]
-- [[objektai/zodynas/administracinė linija demarkacijos linija]]
-- [[objektai/posakiai/„lenkai atakuoja...“]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/ivykiai/Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti įkūrimas Vilniuje (1915 m. lapkritis)]]

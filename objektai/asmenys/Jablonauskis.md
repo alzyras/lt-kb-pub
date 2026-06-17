@@ -20,6 +20,7 @@ tags:
 - t-001
   global_id: t-39747
   teiginys: 'Vadas Jablonauskis sušaukė karius, pranešė apie „kirilo“ atsitraukimą ir liepė jiems dainuoti.'
+  sudarymo_pagrindimas: 'Citata yra atsiminimų fragmentas, todėl reikia sutvarkyti enciklopedinį sakinį be laužtinių skliaustų.'
   pagrindžia:
     - c-001
 

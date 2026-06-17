@@ -1,27 +1,10 @@
 ---
-tipas: 'ivykis'
+tipas: ivykis
 pavadinimas: 'Skirmanto pergalė prie Kaidanovo'
-sukurta: '2026-06-16'
-variantai:
-  - 'Skirmanto mūšis su chanu Balaklajumi prie Kaidanovo'
-  - 'Skirmanto pergalė prieš totorių ordas prie Kaidanovo'
-aliases: []
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
-bukle: 'juodrastis'
-laikotarpis: ''
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: ''
-atnaujinta: '2026-06-16'
-tags: []
+sukurta: ''
+atnaujinta: ''
 ---
 # Skirmanto pergalė prie Kaidanovo
 
@@ -34,51 +17,62 @@ Lietuvos metraštis pasakoja, kad chanas Balaklajus pareikalavo duoklės iš Ski
 - laikotarpis:
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 <a id="claim-t-187488"></a>
 - t-001
   global_id: t-187488
-  teiginys: 'Lietuvos metraštis pasakoja, kad chanas Balaklajus pareikalavo duoklės iš Skirmanto valdytų miestų.'
+  teiginys: 'Lietuvos metraščio pasakojime Skirmantas liepė sužaloti Balaklajaus pasiuntinius, o kitais metais chanas patraukė į Rusų žemę.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Pašalintas nepagrįstas priežastinis „išprovokavo“ ir moralinis vertinimas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/duoklė|duoklė]]; mentioned_person: [[objektai/asmenys/Skirmantas|Skirmantas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  statusas: patvirtinta
+
 <a id="claim-t-187489"></a>
 - t-002
   global_id: t-187489
-  teiginys: 'Lietuvos metraštis teigia, kad Skirmantas jo pasiuntinius žiauriai nubaudė ir tuo išprovokavo tolesnį karo žygį.'
+  teiginys: 'Lietuvos metraštis teigia, kad Skirmantas prie Kaidanovo nugalėjo chaną Balaklajų ir nukovė jį mūšyje.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Sakinys pilnas ir legendinį karo epizodą tinkamai atribuuoja metraščiui.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Liubartas|Liubartas]]; mentioned_person: [[objektai/asmenys/Pisimantas|Pisimantas]]; mentioned_person: [[objektai/asmenys/Skirmantas|Skirmantas]]; mentioned_person: [[objektai/asmenys/Treniota|Treniota]]; mentioned_place: Kaidanovas; mentioned_place: Karačevas; mentioned_place: Lietuva; mentioned_place: Mozyrius; mentioned_place: Starodubas; mentioned_place: Viena'
   pagrindžia:
-    - c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  statusas: patvirtinta
+    - c-002
+
 <a id="claim-t-187490"></a>
 - t-003
   global_id: t-187490
-  teiginys: 'Lietuvos metraštis teigia, kad Skirmantas prie Kaidanovo nugalėjo chaną Balaklajų ir nukovė jį mūšyje.'
+  teiginys: 'Lietuvos metraštis pasakoja, kad po pergalės Skirmantas užėmė Mozyriaus, Černigovo, Starodubo ir Karačevo miestus.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Sakinys pilnas, aiškus ir paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Liubartas|Liubartas]]; mentioned_person: [[objektai/asmenys/Pisimantas|Pisimantas]]; mentioned_person: [[objektai/asmenys/Skirmantas|Skirmantas]]; mentioned_person: [[objektai/asmenys/Treniota|Treniota]]; mentioned_place: Kaidanovas; mentioned_place: Karačevas; mentioned_place: Lietuva; mentioned_place: Mozyrius; mentioned_place: Starodubas; mentioned_place: Viena'
   pagrindžia:
     - c-002
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  statusas: patvirtinta
+
 <a id="claim-t-187491"></a>
 - t-004
   global_id: t-187491
-  teiginys: 'Lietuvos metraštis pasakoja, kad po pergalės Skirmantas užėmė Mozyriaus, Černigovo, Starodubo ir Karačevo miestus.'
+  teiginys: 'Lietuvos metraščio pasakojime Užvolgio chanas Balaklajus pareikalavo, kad Skirmantas mokėtų duoklę ir laikytų jo baskakus miestuose.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Sukonkretintas reikalavimo turinys ir palikta legendinio pasakojimo atribucija.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/duoklė|duoklė]]; mentioned_person: [[objektai/asmenys/Skirmantas|Skirmantas]]; mentioned_place: Lietuva'
   pagrindžia:
-    - c-002
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  statusas: patvirtinta
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Lietuvos metraštis pasakoja, kad chanas Balaklajus pareikalavo duoklės iš Skirmanto valdytų miestų.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     Tuo metu Užvolgio chanu buvo chanas, vardu Ba-
@@ -92,16 +86,14 @@ Nenurodyta
     Ir sekančiais metais tas chanas su daugeriopomis
     sutelktomis jėgomis bei totorių ordomis patraukė į Ru­
     sų žemę ir padarė daug žalos Rusų žemei.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   pagrindžia:
+    - t-004
     - t-001
-    - t-002
+
 - c-002
-  santrauka: 'Lietuvos metraštis teigia, kad Skirmantas prie Kaidanovo nugalėjo chaną Balaklajų ir nukovė jį mūšyje.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     Didysis kunigaikštis Skirmantas, surinkęs visas sa­
@@ -113,25 +105,9 @@ Nenurodyta
     jęs pergalę, be nuostolių pargrįžo atgalios.
     Turėjo didysis kunigaikštis Skirmantas tris sūnus:
     vieną Treniotą IS , antrą Liubartą l6 , trečią Pisimantą l7 .
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   pagrindžia:
+    - t-002
     - t-003
-    - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Liubartas]]
-- [[objektai/asmenys/Pisimantas]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/asmenys/Skirmantas]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/asmenys/Treniota]]
-- [[objektai/zodynas/chanas]]
-- [[objektai/zodynas/didysis kunigaikštis]]
-- [[objektai/zodynas/duoklė]]
-- [[objektai/zodynas/metraštis]]
-- [[objektai/zodynas/žygis]]

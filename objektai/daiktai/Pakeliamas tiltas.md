@@ -41,9 +41,12 @@ Nenurodyta
 - t-001
   global_id: t-59697
   teiginys: 'Sventopelkas pabėgo nuleidęs aukštą pakeliamą tiltą, kuriuo buvo galima patekti į pilį.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus ir tiksliai perteikia citatoje minimą pakeliamą tiltą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Kulmas; mentioned_place: Torunė'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/autoriai/Vygandas Marburgietis.md#claim-t-172970|Vygandas Marburgietis]]: Vygando Marburgiečio kronikos ištraukos leidinyje pateiktos prie 1348 m. Strėvos mūšio ir pilies šturmo epizodų.
+- susijęs iš [[objektai/autoriai/Vygandas Marburgietis.md#claim-t-172971|Vygandas Marburgietis]]: Vygando Marburgiečio „Naujosios Prūsijos kronikos“ ištraukoje aprašomas pilies šturmas.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -63,10 +66,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Laivai]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/autoriai/Vygandas Marburgietis]]
-- [[objektai/asmenys/Sventopelkas]]

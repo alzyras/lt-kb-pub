@@ -6,17 +6,19 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1598 m.'
+  - '1613 m.'
+  - '1917 m.'
   - '2026 m.'
 date_start: '1598'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XVI'
-  - 'XXI'
 tags:
   - dinastija
   - grupe
+amziai:
+  - 'XVI'
+  - 'XXI'
 ---
 # Romanovų dinastija
 
@@ -25,27 +27,43 @@ tags:
 Caru buvo išrinktas metropolito Filareto, Teodoro Romanovo, sūnus Mykolas (1613 m.). (iš tikrųjų Romanovų vyriškoji linija išmirė jau XVIII amžiuje, tačiau carai tebesivadino Romanovais iki pat galo).
 
 ## Teiginiai
+
 <a id="claim-t-66060"></a>
 - t-001
   global_id: t-66060
   teiginys: 'Romanovų dinastijos pradžia 1613 m. Abiejų Tautų Respublikoje neturėjo reikšmingesnių atliepimų.'
+  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje pateiktą vertinimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Rusija'
+  temporaliniai_duomenys: 'įvykio data: 1613 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia citatoje pateiktą vertinimą.'
   pagrindžia:
     - c-001
+
+<a id="claim-t-66061"></a>
+- t-002
+  global_id: t-66061
+  teiginys: 'Romanovų vyriškoji linija išmirė jau XVIII amžiuje, bet carai Romanovais vadinosi iki pat galo.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]'
+  temporaliniai_duomenys: 'įvykio data: iki 1917 m.; įvykio data: 1613 m.; įvykio data: 1917 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  pagrindžia:
+    - c-003
 
 <a id="claim-t-66062"></a>
 - t-003
   global_id: t-66062
   teiginys: 'Romanovų, Hohenzollernų ir Habsburgų dinastijų nuvertimas nuo sostų sudarė sąlygas buvusiems unijos partneriams siekti tautinių idealų.'
+  sudarymo_pagrindimas: 'Pradinis teiginys turi kontekstinį žodį ir yra per ilgas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Habsburgai|Habsburgai]]; mentioned_group: [[objektai/grupes/Hohenzollernai|Hohenzollernai]]; mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]'
+  temporaliniai_duomenys: 'įvykio data: iki 1917 m.; įvykio data: 1613 m.; įvykio data: 1917 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys turi kontekstinį žodį ir yra per ilgas.'
   pagrindžia:
     - c-002
-- t-004
-  teiginys: 'Romanovų vyriškoji linija išmirė jau XVIII amžiuje, bet carai Romanovais vadinosi iki pat galo.'
-  pagrindžia:
-    - c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Romanovų dinastijos pradžia 1613 m. Abiejų Tautų Respublikoje neturėjo reikšmingesnių atliepimų.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -67,6 +85,7 @@ Caru buvo išrinktas metropolito Filareto, Teodoro Romanovo, sūnus Mykolas (161
   pagrindžia:
     - t-001
     - t-001
+
 - c-002
   santrauka: 'Romanovų, Hohenzollernų ir Habsburgų dinastijų nuvertimas nuo sostų sudarė sąlygas buvusiems unijos partneriams siekti tautinių idealų.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -85,8 +104,8 @@ Caru buvo išrinktas metropolito Filareto, Teodoro Romanovo, sūnus Mykolas (161
   statusas: verified
   pagrindžia:
     - t-003
+
 - c-003
-  santrauka: 'Romanovų vyriškoji linija išmirė jau XVIII amžiuje, bet carai Romanovais vadinosi iki pat galo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     O
@@ -98,30 +117,8 @@ Caru buvo išrinktas metropolito Filareto, Teodoro Romanovo, sūnus Mykolas (161
     gyvavo iki 1917 m. revoliucijos (iš tikrųjų Romanovų vyriškoji
     linija išmirė jau XVIII amžiuje, tačiau carai tebesivadino Roma-
     novais iki pat galo).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-004
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/dinastija]]
-
-### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/grupes/Bajorai]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Mykolas]]
-- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
-- [[objektai/zodynas/metropolitas]]
-- [[objektai/zodynas/Miera|miera]]
-- [[objektai/zodynas/unija]]
-- [[objektai/zodynas/įgula]]
-- [[objektai/grupes/Habsburgai]]
-- [[objektai/grupes/Hohenzollernai]]
-- [[objektai/grupes/Riurikaičių dinastija]]
-- [[objektai/ivykiai/Sąmyšio metai (1604-1612 m.)]]
+    - t-002

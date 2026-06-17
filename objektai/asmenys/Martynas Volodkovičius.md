@@ -18,6 +18,12 @@ Karalius pasiuntė Martyną Volodkovičių pas Maskvos valdovą, kai sužinojo, 
 - t-001
   global_id: t-186066
   teiginys: 'Karalius pasiuntė Martyną Volodkovičių pas Maskvos valdovą, kai sužinojo, kad šis galvoja apie karą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Perrašyta į aiškų faktinį sakinį apie asmens veiksmą.'
+  susije_objektai: 'territory: Livonija; territory: Maskva; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Livonija; mentioned_place: Maskva'
+  semantiniai_rysiai: '[[objektai/asmenys/Martynas Volodkovičius|Martynas Volodkovičius]] buvo valdovas Livonija; [[objektai/asmenys/Martynas Volodkovičius|Martynas Volodkovičius]] buvo valdovas Maskva'
   pagrindžia:
     - c-001
 
@@ -42,5 +48,5 @@ Karalius pasiuntė Martyną Volodkovičių pas Maskvos valdovą, kai sužinojo, 
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Maskvėnai]]
+- Martynas Volodkovičius buvo_valdovas [[objektai/vietos/Livonija]]
+- Martynas Volodkovičius buvo_valdovas [[objektai/vietos/Maskva]]

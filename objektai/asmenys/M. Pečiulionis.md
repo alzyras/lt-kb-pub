@@ -27,6 +27,7 @@ Pečiulionio vadovaujama nepilnos sudėties 4-oji baterija (3 patrankos). Pečiu
 - t-002
   global_id: t-40319
   teiginys: 'K. Ladygos kolonos karius, supusius Kaniūkų kaimą, rėmė karininko M. Pečiulionio artilerija.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_place: Kaniūkai'
   pagrindžia:
     - c-002
 
@@ -66,9 +67,3 @@ Pečiulionio vadovaujama nepilnos sudėties 4-oji baterija (3 patrankos). Pečiu
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Artilerija]]
-- [[objektai/grupes/1-asis pėstininkų pulkas]]
-- [[objektai/grupes/asis pėstininkų pulkas]]

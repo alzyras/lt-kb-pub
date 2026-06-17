@@ -31,6 +31,9 @@ Puzyna, autorius disertacijos apie Švitrigailą, davė eilę studijų genealogi
 - t-001
   global_id: t-30698
   teiginys: 'J. Puzyna 1930 m. paskelbė darbą „Korjat i Korjatowicze“, o 1936 m. pasirodė jo papildymai.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Liubartas|Liubartas]]; mentioned_person: [[objektai/asmenys/Liubartas Gediminaitis|Liubartas Gediminaitis]]'
+  temporaliniai_duomenys: 'įvykio data: 1930 m.; įvykio data: 1936 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -54,12 +57,3 @@ Puzyna, autorius disertacijos apie Švitrigailą, davė eilę studijų genealogi
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/dinastija]]
-
-### Susiję objektai
-- [[objektai/asmenys/Gediminas]]
-- [[objektai/asmenys/Liubartas]]
-- [[objektai/asmenys/Liubartas Gediminaitis]]

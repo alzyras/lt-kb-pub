@@ -28,6 +28,8 @@ periodo_grupes:
 - t-001
   global_id: t-49399
   teiginys: 'K. Škirpos vadovaujamai kairiajai kolonai buvo įsakyta pulti Mukulių dvaro, Medinių, Sniegiškių, Štadvilių, Jaunaikių ir Krasnos kryptimi.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas, konkretus ir paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/brigada|brigada]]; mentioned_person: [[objektai/asmenys/K. Ladyga|K. Ladyga]]'
   pagrindžia:
     - c-004
 
@@ -35,6 +37,7 @@ periodo_grupes:
 - t-002
   global_id: t-49400
   teiginys: 'Rugsėjo 5 d. K. Škirpos ir Jakaičio vadovaujamos pajėgos tęsė nevaisingą Suvalkų puolimą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/K. Ladyga|K. Ladyga]]; mentioned_person: [[objektai/autoriai/K. Žukas|K. Žukas]]; mentioned_place: Suvalkai'
   pagrindžia:
     - c-002
 
@@ -42,6 +45,8 @@ periodo_grupes:
 - t-003
   global_id: t-49401
   teiginys: 'Rugsėjo 5 d. K. Škirpos ir A. Jakaičio vadovaujamos pajėgos tęsė nevaisingą Suvalkų puolimą.'
+  sudarymo_pagrindimas: 'Pirminis teiginys turi gramatikos klaidų ir perima šaltinio fragmentiškumą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/K. Ladyga|K. Ladyga]]; mentioned_person: [[objektai/autoriai/K. Žukas|K. Žukas]]; mentioned_place: Suvalkai'
   pagrindžia:
     - c-002
 
@@ -49,6 +54,10 @@ periodo_grupes:
 - t-004
   global_id: t-49402
   teiginys: 'K. Škirpa vadovavo Vilniaus batalionui, kuriam buvo įsakyta saugoti Paltynų-Žaiginio barą iki 1919 m.'
+  susije_objektai: 'event: [[objektai/ivykiai/Radviliškio kautynės (1919 m. lapkričio 21–22 d.)|Radviliškio kautynės (1919 m. lapkričio 21–22 d.)]]; mentioned_event: [[objektai/ivykiai/Radviliškio kautynės (1919 m. lapkričio 21–22 d.)|Radviliškio kautynės (1919 m. lapkričio 21–22 d.)]]; mentioned_place: Kaunas; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/K. Škirpa|K. Škirpa]] dalyvavo mūšyje [[objektai/ivykiai/Radviliškio kautynės (1919 m. lapkričio 21–22 d.)|Radviliškio kautynės (1919 m. lapkričio 21–22 d.)]]'
+  temporaliniai_duomenys: 'mūšio data: iki 1919 m.; mūšio data: 1919 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „K. Škirpa dalyvavo mūšyje Radviliškio kautynės (1919 m. lapkričio 21–22 d.)“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-003
 
@@ -56,9 +65,15 @@ periodo_grupes:
 - t-005
   global_id: t-49403
   teiginys: 'K. Škirpos rezervas buvo pasiųstas pulti Suvalkų pro Krasnapolį, bet lietuviai sutiko stiprų lenkų pasipriešinimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/rezervas|rezervas]]; mentioned_place: Suvalkai'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/grupes/Abveras.md#claim-t-19624|Abveras]]: Karinė LAF dalis bendradarbiavo su Abveru ir turėjo pirmiausia užimti tiltus, geležinkelio mazgus, oro uostus bei fabrikus.
+- susijęs iš [[objektai/grupes/Lietuvių aktyvistų frontas.md#claim-t-13467|Lietuvių aktyvistų frontas]]: LAF programoje ir kituose dokumentuose buvo nacionalistinės retorikos ir antisemitizmo, o 16-asis programos punktas atšaukė teisę žydams gyventi Lietuvoje.
+- susijęs iš [[objektai/grupes/Lietuvių aktyvistų frontas.md#claim-t-24554|Lietuvių aktyvistų frontas]]: LAF programoje ir kituose dokumentuose neišvengta nacionalistinės retorikos, antisemitizmo (16-asis LAF programos punktas atšaukė teisę žydams gyventi Lietuvoje).
+- susijęs iš [[objektai/grupes/Nacių Vokietija.md#claim-t-74878|Nacių Vokietija]]: Nacių Vokietijos vyriausybė uždraudė lietuviams karo atveju be jos įstaigų sutikimo sudaryti Lietuvos vyriausybę ar skelbti atsišaukimą.
+- susijęs iš [[objektai/posakiai/„Vokietijos vadovaujamoje Naujoje Europoje...“.md#claim-t-75624|„Vokietijos vadovaujamoje Naujoje Europoje...“]]: LAF vadovybė manė, kad Vokietijos vadovaujamoje Naujoje Europoje tautoms bus suteikta teisė tvarkytis savo nuožiūra.
+- susijęs iš Lietuvių aktyvistų fronto programa: Kazys Škirpa manė, kad Lietuvių aktyvistų frontas turi palaikyti ypač glaudžius ryšius su nacių Vokietija.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -147,13 +162,4 @@ periodo_grupes:
     - t-006
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/ivykiai/Radviliškio kautynės (1919 m. lapkričio 21–22 d.)]]
-- [[objektai/grupes/brigada]]
-- [[objektai/zodynas/rezervas]]
-- [[objektai/grupes/Abveras]]
-- [[objektai/grupes/Lietuvių aktyvistų frontas]]
-- [[objektai/grupes/Nacių Vokietija]]
-- [[objektai/posakiai/„Vokietijos vadovaujamoje Naujoje Europoje...“]]
+- K. Škirpa dalyvavo_musyje [[objektai/ivykiai/Radviliškio kautynės (1919 m. lapkričio 21–22 d.)]]

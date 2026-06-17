@@ -44,6 +44,9 @@ Nenurodyta
 - t-001
   global_id: t-62407
   teiginys: 'Mūšyje prie Vurungeno kaimo Jonas, Brabanto kunigaikštis, nugalėjo Kelno arkivyskupą Zigfridą iš Runkelės.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys aiškus, išbaigtas ir tiesiogiai pagrįstas citata.'
+  susije_objektai: 'mentioned_place: Kaimas; mentioned_place: Kelnas'
   pagrindžia:
     - c-001
 
@@ -67,8 +70,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Jonas (Brabanto kunigaikštis)]]
-- [[objektai/asmenys/Zigfridas iš Runkelės|Zigfridas iš Runkelės (arkivyskupas, XIII a.)]]

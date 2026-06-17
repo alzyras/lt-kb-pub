@@ -23,9 +23,11 @@ Kovoje buvo nukautas Livonijos magistras Ottonas Luterbergas, taip pat 52 Ordino
 - t-001
   global_id: t-39398
   teiginys: 'Livonijos magistras Ottonas Luterbergas buvo nukautas kovoje, kurioje žuvo ir 52 Ordino broliai.'
+  sudarymo_pagrindimas: 'Teiginys pagrįstas, bet galima aiškiau įvardyti asmenį ir rezultatą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/asmenys/Luterbergas|Luterbergas]]; mentioned_place: Livonija; mentioned_place: Talinas'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/ivykiai/Karusės mūšis (1270 m. vasario 16 d.).md#claim-t-66606|Karusės mūšis (1270 m. vasario 16 d.)]]: Karusės mūšyje žuvo Livonijos magistras Ottonas Luterbergas ir 52 Ordino broliai.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -44,9 +46,3 @@ Kovoje buvo nukautas Livonijos magistras Ottonas Luterbergas, taip pat 52 Ordino
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Žirgai]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/ivykiai/Karusės mūšis (1270 m. vasario 16 d.)]]

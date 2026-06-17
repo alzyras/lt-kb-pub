@@ -58,6 +58,11 @@ amziai:
 - t-001
   global_id: t-23375
   teiginys: '1988 m. liepą-rugsėjį visoje Lietuvoje steigėsi Sąjūdžio iniciatyvinės grupės ir vyko didžiuliai mitingai.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata apie Sąjūdžio grupes bei mitingus.'
+  susije_objektai: 'mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1988 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata apie Sąjūdžio grupes bei mitingus.'
   pagrindžia:
     - c-001
 
@@ -82,10 +87,3 @@ amziai:
 ## Šaltiniai ir įrodymai
 
 Nenurodyta
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/socialinė-praktika]]
-
-### Susiję objektai
-- [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis]]

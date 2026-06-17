@@ -28,6 +28,7 @@ Skučas su savo vyrais ir AT gynybos štabo viršininku paskirtas Jonas Gečas s
 - t-001
   global_id: t-40216
   teiginys: 'Jonas Gečas buvo paskirtas Aukščiausiosios Tarybos gynybos štabo viršininku.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Aukščiausiosios Tarybos rūmai'
   pagrindžia:
     - c-002
 
@@ -35,9 +36,15 @@ Skučas su savo vyrais ir AT gynybos štabo viršininku paskirtas Jonas Gečas s
 - t-002
   global_id: t-40217
   teiginys: '1991 m. Jonas Gečas priklausė Aukščiausiosios Tarybos gynybos štabui.'
+  susije_objektai: 'owner: [[objektai/grupes/Aukščiausiosios Tarybos gynybos štabas|Aukščiausiosios Tarybos gynybos štabas]]; owner: Aukščiausiosios Tarybos rūmai; mentioned_group: [[objektai/grupes/Aukščiausiosios Tarybos gynybos štabas|Aukščiausiosios Tarybos gynybos štabas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Aukščiausiosios Tarybos rūmai'
+  temporaliniai_duomenys: 'priklausymo laikotarpis: 1991 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Jonas susiję su Aukščiausiosios Tarybos gynybos štabas (institucija)“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jonas susiję su Aukščiausiosios Tarybos rūmai (institucija)“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Audrius Butkevičius.md#claim-t-40045|Audrius Butkevičius]]: Iki Laikinosios gynybos vadovybės sudarymo KAD direktorius Audrius Butkevičius vykdė pagrindinį organizacinį ir vadovavimo darbą.
+- susijęs iš [[objektai/asmenys/Virginijus Česnulevičius.md#claim-t-79218|Virginijus Česnulevičius]]: Virginijus Česnulevičius 1991 m. buvo Aukščiausiosios Tarybos gynybos štabo narys.
+- susijęs iš [[objektai/asmenys/Česlovas Jezerskas.md#claim-t-79244|Česlovas Jezerskas]]: Česlovas Jezerskas 1991 m. buvo Aukščiausiosios Tarybos gynybos štabo narys.
+- susijęs iš [[objektai/grupes/Aukščiausiosios Tarybos gynybos štabas.md#claim-t-40860|Aukščiausiosios Tarybos gynybos štabas (institucija)]]: 1991 m. Aukščiausiosios Tarybos gynybos štabe buvo Audrius Butkevičius, Česlovas Jezerskas, Virginijus Česnulevičius ir Jonas Gečas.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -75,10 +82,3 @@ Skučas su savo vyrais ir AT gynybos štabo viršininku paskirtas Jonas Gečas s
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Aukščiausiosios Tarybos gynybos štabas|Aukščiausiosios Tarybos gynybos štabas (institucija)]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/asmenys/Virginijus Česnulevičius]]
-- [[objektai/asmenys/Česlovas Jezerskas]]

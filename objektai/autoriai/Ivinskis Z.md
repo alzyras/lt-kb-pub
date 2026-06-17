@@ -24,7 +24,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Z. Ivinskio darbas apie Saulės-Šiaulių kautynes cituojamas aiškinant 1236 m. rugsėjo 22 d. mūšį, kuriame lietuviai sutriuškino kalavijuočius.
+Dusburgietis teigia, kad apie Sventopelko karą su Teutonų ordino broliais 1242 viešpaties dievo metais, o pirmiausia apie velnio pavydą dėl sėkmingo tikėjimo plitimo 262 Kalbama apie 1236.IX.22 Saulės (Šiaulių) mūšį, kuriame lietuviai sutriuškino kalavijuočius (Ivinskis Z..
 
 ## Teiginiai
 
@@ -32,6 +32,11 @@ Z. Ivinskio darbas apie Saulės-Šiaulių kautynes cituojamas aiškinant 1236 m.
 - t-001
   global_id: t-91932
   teiginys: 'Z. Ivinskio darbas apie Saulės-Šiaulių kautynes cituojamas aiškinant 1236 m. rugsėjo 22 d. mūšį, kuriame lietuviai sutriuškino kalavijuočius.'
+  sudarymo_pagrindimas: 'Citata palaiko aiškų bibliografinį teiginį apie Ivinskio darbą ir Saulės mūšio kontekstą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_person: [[objektai/autoriai/Z. Ivinskis|Z. Ivinskis]]'
+  temporaliniai_duomenys: 'įvykio data: 1236 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko aiškų bibliografinį teiginį apie Ivinskio darbą ir Saulės mūšio kontekstą.'
   pagrindžia:
     - c-001
 
@@ -55,9 +60,3 @@ Z. Ivinskio darbas apie Saulės-Šiaulių kautynes cituojamas aiškinant 1236 m.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kalavijuočių ordinas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Teutonai]]

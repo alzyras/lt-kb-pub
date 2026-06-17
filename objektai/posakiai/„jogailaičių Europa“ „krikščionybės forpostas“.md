@@ -5,6 +5,7 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1514 m.'
+  - '1526 m.'
   - '1572 m.'
 date_start: '1514'
 date_end: '1572'
@@ -22,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-XV a. pabaigoje–XVI a. pradžioje Jogailaičių dinastija valdė Lenkiją, Lietuvą, Čekiją ir Vengriją, todėl rytinė Vidurio Europa vadinta „jogailaičių Europa“. Krikščionybės forposto idėja buvo nukreipta prieš stačiatikišką Maskvą ir siejosi su krikščioniškojo mentaliteto įsigalėjimu visuomenės elite. LDK visuomenei europėjant susiformavo leno teisė, feodai, baudžiava, bajorų luomas, luominė monarchija, cechai ir europinė švietimo sistema.
+Lenkijos ir Lietuvos sostuose sėdėjo lietuviškos kilmės Jogailaičių dinastija (iki 1572 m.), XV a. Krikščioniškasis mentalitetas įsigali bent jau tarp visuomenės elito (antemurale christianitatis – krikščionybės forposto – idėja nukreipta prieš stačiatikišką Maskvą), susiformuoja bajorų tauta, turinti istorinę savimonę ir kilmės kroniką.
 
 ## Teiginiai
 
@@ -30,6 +31,9 @@ XV a. pabaigoje–XVI a. pradžioje Jogailaičių dinastija valdė Lenkiją, Lie
 - t-001
   global_id: t-101620
   teiginys: 'XV a. pabaigoje–XVI a. pradžioje Jogailaičių dinastija valdė Lenkiją, Lietuvą, Čekiją ir Vengriją, todėl rytinė Vidurio Europa vadinta „jogailaičių Europa“.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Habsburgai|Habsburgai]]; mentioned_group: [[objektai/grupes/Jogailaičiai|Jogailaičiai]]; mentioned_group: [[objektai/grupes/Jogailaičių dinastija|Jogailaičių dinastija]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vengrija; mentioned_place: Čekija'
+  temporaliniai_duomenys: 'įvykio data: iki 1572 m.; įvykio data: 1572 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -37,6 +41,7 @@ XV a. pabaigoje–XVI a. pradžioje Jogailaičių dinastija valdė Lenkiją, Lie
 - t-002
   global_id: t-101621
   teiginys: 'Krikščionybės forposto idėja buvo nukreipta prieš stačiatikišką Maskvą ir siejosi su krikščioniškojo mentaliteto įsigalėjimu visuomenės elite.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/lenas|lenas]]; mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_place: Maskva'
   pagrindžia:
     - c-002
 
@@ -44,6 +49,8 @@ XV a. pabaigoje–XVI a. pradžioje Jogailaičių dinastija valdė Lenkiją, Lie
 - t-003
   global_id: t-101622
   teiginys: 'LDK visuomenei europėjant susiformavo leno teisė, feodai, baudžiava, bajorų luomas, luominė monarchija, cechai ir europinė švietimo sistema.'
+  sudarymo_pagrindimas: 'Perrašyta sklandžiau, kad sakinys aiškiau perteiktų citatos mintį apie LDK visuomenės europėjimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/Cechai|Cechai]]; mentioned_object: [[objektai/zodynas/lenas|lenas]]; mentioned_object: [[objektai/zodynas/luomas|luomas]]'
   pagrindžia:
     - c-002
 
@@ -51,6 +58,14 @@ XV a. pabaigoje–XVI a. pradžioje Jogailaičių dinastija valdė Lenkiją, Lie
 - t-004
   global_id: t-183493
   teiginys: 'Jogailaičių dinastija Lenkijos ir Lietuvos sostuose valdė iki 1572 m., o XV a. pabaigoje–XVI a. pradžioje užėmė ir Čekijos bei Vengrijos sostus.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, bet citata palaiko pilną sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Habsburgai|Habsburgai]]; mentioned_group: [[objektai/grupes/Jogailaičiai|Jogailaičiai]]; mentioned_group: [[objektai/grupes/Jogailaičių dinastija|Jogailaičių dinastija]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Mohačas; mentioned_place: Vengrija; mentioned_place: Čekija'
+  temporaliniai_duomenys: 'valdymo laikotarpis: iki 1572 m.; valdymo laikotarpis: 1514 m.; valdymo laikotarpis: 1526 m.; valdymo laikotarpis: 1572 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip valdymo laikotarpis su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „valdymo laikotarpis“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs, bet citata palaiko pilną sakinį.'
   pagrindžia:
     - c-003
 
@@ -110,18 +125,3 @@ XV a. pabaigoje–XVI a. pradžioje Jogailaičių dinastija valdė Lenkiją, Lie
   statusas: verified
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/dinastija]]
-
-### Susiję objektai
-- [[objektai/grupes/Bajorai]]
-- [[objektai/grupes/Habsburgai]]
-- [[objektai/grupes/Jogailaičiai]]
-- [[objektai/grupes/Jogailaičių dinastija]]
-- [[objektai/zodynas/luomas]]
-- [[objektai/zodynas/Cechai]]
-- [[objektai/grupes/Habsburgų dinastija]]
-- [[objektai/zodynas/bajorų tauta politinė lietuvių tauta]]
-- [[objektai/zodynas/bajorų tauta politinė tauta lietuvių nacija]]

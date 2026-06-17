@@ -45,6 +45,8 @@ Nenurodyta
 - t-001
   global_id: t-86957
   teiginys: 'Martynas Paleckis Vilniuje gavo leidimą steigti stiklo liejyklą ir privilegiją pardavinėti lenkišką stiklą.'
+  sudarymo_pagrindimas: 'Teiginys yra glaustas, faktinis ir paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_person: [[objektai/asmenys/Martynas Paleckis|Martynas Paleckis]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -74,10 +76,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Martynas iš Golino]]
-- [[objektai/grupes/Radvilos]]
-- [[objektai/asmenys/Martynas Paleckis]]
-- [[objektai/daiktai/Martyno Paleckio stiklo gaminiai Vilniuje]]

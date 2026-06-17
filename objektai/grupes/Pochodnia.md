@@ -3,11 +3,17 @@ tipas: grupe
 pavadinimas: 'Pochodnia'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1935 m.'
+date_start: '1935'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
   - pinigai
+amziai:
+  - 'XX'
 ---
 # Pochodnia
 
@@ -21,9 +27,20 @@ tags:
 - t-001
   global_id: t-19964
   teiginys: 'Pochodnia („Deglas“) buvo lenkų kultūros organizacija, padėjusi švietimui ir gavusi pinigų iš Lenkijos.'
+  sudarymo_pagrindimas: 'Perrašyta į glaustą sakinį apie objektą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Jutrzenka|Jutrzenka]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Oswiata|Oswiata]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1935 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Perrašyta į glaustą sakinį apie objektą.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/grupes/Jutrzenka.md#claim-t-19727|Jutrzenka]]: Jutrzenka buvo lenkų kultūros organizacija, padėjusi švietimui ir gavusi pinigų iš Lenkijos.
+- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179151|Lenkai]]: Gyvenę nekompaktiškai lenkai neturėjo galimybių rasti vaikams mokyklų visose Lietuvos dalyse, tad leido vaikus į nelegalias mokyklas, kurių 1935 m. priskaičiuota apie 40.
+- susijęs iš [[objektai/grupes/Oswiata.md#claim-t-19959|Oswiata]]: Oswiata („Apšvieta“) buvo lenkų kultūros organizacija, padėjusi švietimui ir gavusi pinigų iš Lenkijos.
+- susijęs iš [[objektai/paprociai/Lenkų mokyklų ribojimas pagal tėvų tautybę ir nelegalios lenkiškos mokyklos.md#claim-t-77939|Lenkų mokyklų ribojimas pagal tėvų tautybę ir nelegalios lenkiškos mokyklos]]: Gyvenę nekompaktiškai lenkai neturėjo galimybių rasti vaikams mokyklų visose Lietuvos dalyse, tad leido vaikus į nelegalias mokyklas, kurių 1935 m. priskaičiuota apie 40.
+- susijęs iš Panevėžys: Panevėžyje veikusią lenkų gimnaziją finansiškai rėmė Lietuvos vyriausybė ir lenkų kultūros organizacijos.
+- susijęs iš Ukmergė: Ukmergėje veikė Lietuvos vyriausybės finansiškai remta lenkų gimnazija.
+- susijęs iš Ukmergė: Lenkų kultūros organizacijos rėmė Lietuvos vyriausybės finansuojamas lenkų gimnazijas Kaune, Panevėžyje ir Ukmergėje.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -41,11 +58,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/A. Smetona]]
-- [[objektai/grupes/Jutrzenka]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Oswiata]]
-- [[objektai/paprociai/Lenkų mokyklų ribojimas pagal tėvų tautybę ir nelegalios lenkiškos mokyklos]]

@@ -29,6 +29,8 @@ Ant Aukščiausiosios Tarybos stogo pritvirtinti metaliniai strypai turėjo apsu
 - t-001
   global_id: t-40042
   teiginys: 'AT gynėjas Arvydas Pocius vėliau tapo generolu leitenantu ir Lietuvos kariuomenės vadu.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas sakinys apie Arvydo Pociaus statusą ir vėlesnes pareigas.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Pistoletas|Pistoletas]]; mentioned_place: Aukščiausiosios Tarybos rūmai; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 
@@ -36,6 +38,11 @@ Ant Aukščiausiosios Tarybos stogo pritvirtinti metaliniai strypai turėjo apsu
 - t-002
   global_id: t-40043
   teiginys: 'AT gynėjas Arvydas Pocius 1991 m. rugpjūčio pučo metu buvo ginkluotas pistoletu-kulkosvaidžiu PPS.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nurodo Arvydą Pocių, laiką ir ginkluotę.'
+  susije_objektai: 'mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1991 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo Arvydą Pocių, laiką ir ginkluotę.'
   pagrindžia:
     - c-002
 
@@ -103,8 +110,3 @@ Ant Aukščiausiosios Tarybos stogo pritvirtinti metaliniai strypai turėjo apsu
   pagrindžia:
     - t-004
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Ginklai]]
-- [[objektai/daiktai/Pistoletas]]

@@ -31,6 +31,8 @@ periodo_grupes:
 - t-001
   global_id: t-88036
   teiginys: 'Mykolas Lietuvis rašė, kad Kafos miestas prie Juodosios jūros buvo svarbiausias Lietuvos prekybinis uostas ryšiams su Rytais.'
+  sudarymo_pagrindimas: 'Citata palaiko šį teiginį kaip nuorodą į Mykolo Lietuvio kūrinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kijevo kunigaikštystė|Kijevo kunigaikštystė]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Tavoras|Tavoras]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_person: [[objektai/autoriai/Mykolas Lietuvis|Mykolas Lietuvis]]; mentioned_person: [[objektai/autoriai/Naruszewicz|Naruszewicz]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Dniepras; mentioned_place: Dniestras; mentioned_place: Kijevas; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -38,6 +40,8 @@ periodo_grupes:
 - t-002
   global_id: t-88037
   teiginys: 'Mykolas Lietuvis liudijo, kad totoriai seniau garsėjo santūrumu, svetingumu ir iš kartos į kartą perduodamomis dorybėmis.'
+  sudarymo_pagrindimas: 'Citata palaiko faktą apie Mykolo Lietuvio liudijimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_person: [[objektai/autoriai/Mykolas Lietuvis|Mykolas Lietuvis]]'
   pagrindžia:
     - c-001
 
@@ -45,6 +49,7 @@ periodo_grupes:
 - t-003
   global_id: t-88038
   teiginys: 'Apie tai yra rašęs Mykolas L i e t u v i s, p. 28.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]'
   pagrindžia:
     - c-003
 
@@ -126,9 +131,3 @@ periodo_grupes:
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kijevo kunigaikštystė]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Totoriai]]

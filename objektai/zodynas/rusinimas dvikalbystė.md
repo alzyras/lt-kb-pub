@@ -3,10 +3,16 @@ tipas: zodyno_irasas
 pavadinimas: 'rusinimas dvikalbystė'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1953 m.'
+date_start: '1953'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - sąvoka
+amziai:
+  - 'XX'
 ---
 # rusinimas dvikalbystė
 
@@ -20,6 +26,8 @@ Stalino kultą – susilpnėjo rusinimas, valdžia pradėjo labiau pasitikėti v
 - t-001
   global_id: t-22283
   teiginys: 'Lietuvoje laikraščiai imti dubliuoti rusų kalba, leista daug rusų literatūros, vaidintos pjesės ir pradėta taikyti dvikalbystė.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie dvikalbystės taikymą ir atitinka citatą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Leningradas; mentioned_place: Lietuva; mentioned_place: SSRS'
   pagrindžia:
     - c-002
 
@@ -27,6 +35,11 @@ Stalino kultą – susilpnėjo rusinimas, valdžia pradėjo labiau pasitikėti v
 - t-002
   global_id: t-22284
   teiginys: 'Po J. Stalino mirties ir Nikitos Chruščiovo pasmerkto Stalino kulto rusinimas susilpnėjo, o valdžia labiau pasitikėjo vietiniais lietuviais.'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo sakinio fragmentas; citata leidžia suformuluoti pilną sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/rusinimas|rusinimas]]; mentioned_place: Lietuva; mentioned_place: SSRS'
+  temporaliniai_duomenys: 'įvykio data: 1953 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys buvo sakinio fragmentas; citata leidžia suformuluoti pilną sakinį.'
   pagrindžia:
     - c-001
 
@@ -34,6 +47,11 @@ Stalino kultą – susilpnėjo rusinimas, valdžia pradėjo labiau pasitikėti v
 - t-003
   global_id: t-183462
   teiginys: 'Lietuvoje laikraščiai imti dubliuoti rusų kalba, leista daug rusų literatūros kūrinių, vaidintos pjesės ir taikyta dvikalbystė.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Reikia pataisyti gramatiką ir pašalinti šaltinio sakinio nelygumus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Leningradas; mentioned_place: Lietuva; mentioned_place: SSRS'
   pagrindžia:
     - c-003
 
@@ -89,13 +107,3 @@ Stalino kultą – susilpnėjo rusinimas, valdžia pradėjo labiau pasitikėti v
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/zodynas/rusinimas]]
-- [[objektai/asmenys/J. Stalinas]]
-- [[objektai/asmenys/Josifas Stalinas]]
-- [[objektai/asmenys/Nikita Chruščiovas]]
-- [[objektai/posakiai/„tarybinės liaudies formavimasį“ „tarybinių tautų suartėjimą ir susiliejimą“|„tarybinės liaudies formavimasį“ „tarybinių tautų suartėjimą ir susiliejimą“ (institucija)]]

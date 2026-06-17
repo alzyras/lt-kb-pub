@@ -30,9 +30,14 @@ Prie liudytojų, tuo metu su mumis buvusių: su Lucko vaivada, su Limantu ir Zig
 - t-001
   global_id: t-87770
   teiginys: 'Mangaila iš Ašmenos 1388 m. Lucke dalyvavo tarp patikimų liudytojų iš Lietuvos.'
+  sudarymo_pagrindimas: 'Citata nurodo Mangailą iš Ašmenos, datą, vietą ir liudytojo vaidmenį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/Kariauna|Kariauna]]; mentioned_person: [[objektai/asmenys/Limantas|Limantas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Ašmena; mentioned_place: Lietuva; mentioned_place: Luckas'
+  temporaliniai_duomenys: 'įvykio data: 1388 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata nurodo Mangailą iš Ašmenos, datą, vietą ir liudytojo vaidmenį.'
   pagrindžia:
     - c-001
-
+- susijęs iš Ašmena: 1388 m. Lucke tarp liudytojų minimas Mangaila iš Ašmenos.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -49,7 +54,3 @@ Prie liudytojų, tuo metu su mumis buvusių: su Lucko vaivada, su Limantu ir Zig
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bajorai]]

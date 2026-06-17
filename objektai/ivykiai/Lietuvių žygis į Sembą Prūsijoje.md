@@ -30,6 +30,11 @@ Nenurodyta
 - t-001
   global_id: t-185814
   teiginys: 'Į Sembą įsiveržusi aštuonių tūkstančių lietuvių raitija nusiaubė kaimus, išžudė jų gyventojus ir išsivarė grobį.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir neaiškus įvardis; paliktas citata paremtas faktas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Lešekas|Lešekas]]; mentioned_place: Krokuva; mentioned_place: Semba'
   pagrindžia:
     - c-001
 
@@ -70,10 +75,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Lešekas]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/grupes/Lietuviai]]

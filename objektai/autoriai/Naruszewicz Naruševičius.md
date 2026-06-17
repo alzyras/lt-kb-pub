@@ -23,7 +23,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Daugiausia jų įsikūrė už 61 Naruszewicz Taurikoje, 1 .
+Šitai pa­ kartojo Naruszewicz Histor. Naruszewicz, Jadvyga - Opolės kunigaikščio VlaH/sf. Daugiausia jų įsikūrė už 61 Naruszewicz Taurikoje, 1 .
 
 ## Teiginiai
 
@@ -31,6 +31,9 @@ Daugiausia jų įsikūrė už 61 Naruszewicz Taurikoje, 1 .
 - t-001
   global_id: t-87996
   teiginys: 'Daugiausia jų įsikūrė už 61 Naruszewicz Taurikoje, 1 .'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/autoriai/Naruszewicz|Naruszewicz]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1816 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -53,7 +56,3 @@ Daugiausia jų įsikūrė už 61 Naruszewicz Taurikoje, 1 .
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Totoriai]]

@@ -32,6 +32,7 @@ Kimerija minima kaip Uksinės marės įsikišęs žemės šnypis, kur gyveno ank
 - t-001
   global_id: t-07968
   teiginys: 'Kimerija buvo žemės šnypis arba pusiasalis prie Uksinės marės.'
+  susije_objektai: 'mentioned_place: Juodoji jūra'
   pagrindžia:
     - c-002
 
@@ -39,6 +40,8 @@ Kimerija minima kaip Uksinės marės įsikišęs žemės šnypis, kur gyveno ank
 - t-002
   global_id: t-07969
   teiginys: 'Kimerijoje grekonys įsikūrė kai kuriose vietose ir pasistatė Chersoneso, Teodosijos bei Albijos pilis.'
+  sudarymo_pagrindimas: 'Pirminis teiginys neaiškus, o citata tiksliau pagrindžia grekonių įsikūrimą ir pilių statybą.'
+  susije_objektai: 'mentioned_place: Teodosija (Kafa)'
   pagrindžia:
     - c-001
 

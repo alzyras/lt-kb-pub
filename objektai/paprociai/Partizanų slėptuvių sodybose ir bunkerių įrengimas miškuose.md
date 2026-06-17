@@ -34,6 +34,7 @@ Nenurodyta
 - t-001
   global_id: t-09593
   teiginys: 'Partizanai dažnai įrengdavo požemines slėptuves upelio kranto šlaite, kur buvo lengviau gauti vandens ir slėpti pėdsakus.'
+  sudarymo_pagrindimas: 'Teiginys paremtas citata, bet papildytas vandens motyvu ir tiksliau suformuluotas pagal šaltinį.'
   pagrindžia:
     - c-002
 
@@ -48,6 +49,7 @@ Nenurodyta
 - t-003
   global_id: t-09595
   teiginys: 'Partizanai slėptuves įsirengdavo sodybose, o nenorėdami pakenkti rėmėjams stengdavosi bunkerius įrengti miške.'
+  sudarymo_pagrindimas: 'Citata remia priežastį ir slėptuvių vietas, bet ne bendrą „vėliau“ formuluotę.'
   pagrindžia:
     - c-004
 
@@ -119,7 +121,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/paprociai/Sodybos šeimininkų pagalba partizanams]]

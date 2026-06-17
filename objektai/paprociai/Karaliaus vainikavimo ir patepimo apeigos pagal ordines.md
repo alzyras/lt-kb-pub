@@ -49,6 +49,7 @@ Nenurodyta
 - t-001
   global_id: t-97128
   teiginys: 'Zigmanto teisininkų delegacija aiškino Vytautui, kad karaliaus vainikavimui popiežiaus sutikimas nereikalingas.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Viena'
   pagrindžia:
     - c-002
 
@@ -56,6 +57,8 @@ Nenurodyta
 - t-002
   global_id: t-97129
   teiginys: 'Zigmantas įrodinėjo, kad Vytautui vainiką gali suteikti ir Romoje nevainikuotas imperatorius, remdamasis karalių vainikavimu be patepimo.'
+  sudarymo_pagrindimas: 'Citata palaiko teiginį, bet pirminis sakinys buvo nutrūkęs ir su OCR triukšmu.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Krokuva'
   pagrindžia:
     - c-003
 
@@ -63,6 +66,7 @@ Nenurodyta
 - t-003
   global_id: t-97130
   teiginys: 'Zigmantas teigė, kad Vytautui karaliaus vainiką galėjo suteikti ir Romoje nevainikuotas imperatorius.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Krokuva'
   pagrindžia:
     - c-003
 
@@ -77,6 +81,7 @@ Nenurodyta
 - t-005
   global_id: t-97132
   teiginys: 'Pagal ordines vainikuotas ir šventais aliejais pateptas krikščioniškas valdovas turėjo platinti tikėjimą ir ginti Bažnyčią.'
+  sudarymo_pagrindimas: 'Citata palaiko faktą, bet pirminis teiginys prasidėjo fragmentu ir buvo netvarkingas.'
   pagrindžia:
     - c-005
 
@@ -84,6 +89,7 @@ Nenurodyta
 - t-006
   global_id: t-97133
   teiginys: 'Pačios karūnavimo apeigos skaitėsi sakramentu.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_person: [[objektai/asmenys/Romanas (Briansko kunigaikštis)|Romanas (Briansko kunigaikštis)]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -173,11 +179,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-005
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
-- [[objektai/asmenys/Romanas (Briansko kunigaikštis)]]
-- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
-- [[objektai/asmenys/Baptista Cigala]]
-- [[objektai/paprociai/Karaliaus vainikavimo ceremonialas be būtino vyskupo patepimo]]

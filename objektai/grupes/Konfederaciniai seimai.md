@@ -13,29 +13,30 @@ tags:
 
 ## Santrauka
 
-Konfederaciniai seimai buvo skirti seimų iširimui išvengti ir numatytus klausimus spręsdavo balsų dauguma. Konfederaciniai seimai buvo rengiami siekiant išvengti pavojų valstybei, kildavusių iširus seimui.
+Kadangi seimo iširimas dažnai grėsdavo valstybei dideliais pavojais, tai prieš tą blogybę būdavo nukreipti vadinamieji konfederaciniai seimai. Tuo būdu šitokiam seime veto teisė jau nebeveikė.
 
 ## Teiginiai
+
 <a id="claim-t-72117"></a>
 - t-001
   global_id: t-72117
-  teiginys: 'Konfederaciniai seimai buvo rengiami siekiant išvengti pavojų valstybei, kildavusių iširus seimui.'
+  teiginys: 'Konfederaciniai seimai buvo skirti seimų iširimui išvengti ir numatytus klausimus spręsdavo balsų dauguma.'
+  sudarymo_pagrindimas: 'Pradinė formuluotė turi neaiškų įvardį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+
 <a id="claim-t-72118"></a>
 - t-002
   global_id: t-72118
-  teiginys: 'Konfederaciniai seimai buvo skirti seimų iširimui išvengti ir numatytus klausimus spręsdavo balsų dauguma.'
+  teiginys: 'Konfederaciniai seimai buvo rengiami siekiant išvengti pavojų valstybei, kildavusių iširus seimui.'
+  sudarymo_pagrindimas: 'Teiginys sutrumpintas ir paverstas aiškiu enciklopediniu sakiniu.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Konfederaciniai seimai buvo rengiami siekiant išvengti pavojų valstybei, kildavusių iširus seimui.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Dėl jos daugybė seimų turėjo išsiskirstyti,
@@ -47,15 +48,9 @@ Konfederaciniai seimai buvo skirti seimų iširimui išvengti ir numatytus klaus
     būdavo renkami paprasta tvarka, tik suvažiavę, pasiūlius kara-
     liui ar kam nors kitam, jie pasirašydavo tam tikrą pasižadėjimo
     aktą, kad numatomus klausimus spręsią balsų dauguma.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/seimas]]
+    - t-001

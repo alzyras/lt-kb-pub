@@ -18,9 +18,16 @@ Sologubas priešinosi siūlymams perduoti pilį Glinskiui ir ragino įgulą nete
 - t-001
   global_id: t-186079
   teiginys: 'Sologubas priešinosi siūlymams perduoti pilį Glinskiui ir ragino įgulą neteršti dvylika metų gintos pilies šlovės.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata pagrindžia faktą, bet pradinį sakinį reikėjo sutrumpinti ir sutvarkyti.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/įgula|įgula]]'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/grupes/Maskvėnai.md#claim-t-184570|Maskvėnai]]: Maskvėnai ryžtingai puolė Smolenską ir, sudaužę sienas, galėjo be vargo įeiti į miestą.
+- susijęs iš [[objektai/ivykiai/Pirmoji Smolensko apgultis ir maskvėnų atsitraukimas.md#claim-t-185638|Pirmoji Smolensko apgultis ir maskvėnų atsitraukimas]]: Maskvėnai ryžtingai puolė Smolenską ir, sudaužę sienas, galėjo įeiti į miestą, bet pilies neužėmė.
+- susijęs iš [[objektai/ivykiai/Trečioji Smolensko apgultis ir nesėkmingas Dimitrijaus bandymas.md#claim-t-185651|Trečioji Smolensko apgultis ir nesėkmingas Dimitrijaus bandymas]]: Po trečio nesėkmingo bandymo užimti Smolenską Dimitrijus nuniokojo miesto apylinkės kaimus.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -42,10 +49,3 @@ Sologubas priešinosi siūlymams perduoti pilį Glinskiui ir ragino įgulą nete
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/įgula]]
-- [[objektai/grupes/Maskvėnai]]
-- [[objektai/ivykiai/Pirmoji Smolensko apgultis ir maskvėnų atsitraukimas]]
-- [[objektai/ivykiai/Trečioji Smolensko apgultis ir nesėkmingas Dimitrijaus bandymas]]

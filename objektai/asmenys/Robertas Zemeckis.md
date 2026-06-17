@@ -3,10 +3,18 @@ tipas: asmuo
 pavadinimas: 'Robertas Zemeckis'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1952 m.'
+date_start: '1952'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'XX a.'
 ---
 # Robertas Zemeckis
 
@@ -20,9 +28,16 @@ tags:
 - t-001
   global_id: t-19204
   teiginys: 'Robertas Zemeckis gimė Čikagoje 1952 m. lietuvio šeimoje.'
+  sudarymo_pagrindimas: 'Citata pagrindžia trumpą biografinį faktą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/John Gielgud|John Gielgud]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Robertas (Sicilijos karalius)|Robertas (Sicilijos karalius)]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Čikaga'
+  temporaliniai_duomenys: 'įvykio data: 1952 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia trumpą biografinį faktą.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/posakiai/„idealiąją Lietuvą“.md#claim-t-183492|„idealiąją Lietuvą“]]: „Idealiojoje Lietuvoje“ įsivaizduojama, kad spektaklius ir filmus kuria Jonas Mekas, Eimuntas Nekrošius ir Robertas Zemeckis.
+- susijęs iš [[objektai/posakiai/„idealiąją Lietuvą“.md#claim-t-75612|„idealiąją Lietuvą“]]: „Idealioji Lietuva“ įsivaizduota kaip kultūrinė erdvė, kurioje filmus ir spektaklius kurtų Jonas Mekas, Eimuntas Nekrošius ir Robertas Zemeckis.
+- susijęs iš Čikaga: Robertas Zemeckis gimė Čikagoje 1952 m. lietuvio šeimoje.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -43,7 +58,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/posakiai/„idealiąją Lietuvą“]]

@@ -23,6 +23,8 @@ Dusburgietis teigia, kad be to, jie nužudė brolį Konradą iš Dortmundo su vi
 - t-001
   global_id: t-60366
   teiginys: 'Prūsai nužudė Konradą iš Dortmundo su visa jo šeimyna per žemutinių Prūsijos apygardų puolimą.'
+  sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir apima per daug konteksto; citata palaiko konkretų faktą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Elbingas; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Vokietija'
   pagrindžia:
     - c-001
 
@@ -49,7 +51,3 @@ Dusburgietis teigia, kad be to, jie nužudė brolį Konradą iš Dortmundo su vi
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/šeimyna familia domus]]

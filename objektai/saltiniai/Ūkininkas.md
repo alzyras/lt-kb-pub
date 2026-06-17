@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-„Varpo“ redakcija leido kaimiečiams skirtą laikraštį „Ūkininkas“.
+Ta pati redakcija leido ir kaimiečiams skirtą laikraštį „Ūkininkas“.
 
 ## Teiginiai
 
@@ -21,6 +21,8 @@ tags:
 - t-001
   global_id: t-78144
   teiginys: '„Varpo“ redakcija leido kaimiečiams skirtą laikraštį „Ūkininkas“.'
+  sudarymo_pagrindimas: 'Pradinė formuluotė turėjo neaiškią nuorodą „ta pati redakcija“.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-001
 

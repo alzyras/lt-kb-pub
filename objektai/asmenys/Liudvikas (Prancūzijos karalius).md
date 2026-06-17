@@ -32,6 +32,11 @@ Dusburgietis teigia, kad apie viešpaties erškėčių vainiko perkėlimą 1239 
 - t-001
   global_id: t-60049
   teiginys: '1296 m. popiežius Bonifacas VIII kanonizavo Prancūzijos karalių Liudviką.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nusako kanonizavimo faktą ir atitinka citatą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Bonifacas VIII|Bonifacas VIII]]; mentioned_place: Prancūzija'
+  temporaliniai_duomenys: 'įvykio data: 1296 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako kanonizavimo faktą ir atitinka citatą.'
   pagrindžia:
     - c-002
 
@@ -39,6 +44,12 @@ Dusburgietis teigia, kad apie viešpaties erškėčių vainiko perkėlimą 1239 
 - t-002
   global_id: t-60050
   teiginys: '1239 m. Prancūzijos karalius Liudvikas perkėlė Viešpaties erškėčių vainiką iš Konstantinopolio į Paryžių.'
+  sudarymo_pagrindimas: 'Teiginys yra tikslus, gramatiškas ir visiškai paremtas citata.'
+  susije_objektai: 'territory: Konstantinopolis; territory: Paryžius; territory: Prancūzija; mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_place: Konstantinopolis; mentioned_place: Paryžius; mentioned_place: Prancūzija'
+  semantiniai_rysiai: '[[objektai/asmenys/Liudvikas (Prancūzijos karalius)|Liudvikas (Prancūzijos karalius)]] buvo valdovas Konstantinopolis; [[objektai/asmenys/Liudvikas (Prancūzijos karalius)|Liudvikas (Prancūzijos karalius)]] buvo valdovas Paryžius; [[objektai/asmenys/Liudvikas (Prancūzijos karalius)|Liudvikas (Prancūzijos karalius)]] buvo valdovas Prancūzija'
+  temporaliniai_duomenys: 'valdymo laikotarpis: 1239 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Liudvikas (Prancūzijos karalius) buvo valdovas Konstantinopolis“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Liudvikas (Prancūzijos karalius) buvo valdovas Paryžius“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Liudvikas (Prancūzijos karalius) buvo valdovas Prancūzija“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra tikslus, gramatiškas ir visiškai paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -94,8 +105,6 @@ Dusburgietis teigia, kad apie viešpaties erškėčių vainiko perkėlimą 1239 
   statusas: verified
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/daiktai/Viešpaties erškėčių vainikas]]
-- [[objektai/ivykiai/Viešpaties erškėčių vainiko perkėlimas į Paryžių (1239 m.)]]
-- [[objektai/ivykiai/Švento Liudviko kanonizavimas (1296 m.)]]
+- Liudvikas (Prancūzijos karalius) buvo_valdovas [[objektai/vietos/Konstantinopolis]]
+- Liudvikas (Prancūzijos karalius) buvo_valdovas [[objektai/vietos/Paryžius]]
+- Liudvikas (Prancūzijos karalius) buvo_valdovas [[objektai/vietos/Prancūzija]]

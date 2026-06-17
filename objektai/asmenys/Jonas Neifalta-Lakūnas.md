@@ -30,6 +30,7 @@ periodo_grupes:
 - t-001
   global_id: t-79050
   teiginys: 'Jonas Neifalta-Lakūnas vadovavo partizanų koviniam vienetui.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/ulonai|ulonai]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -37,6 +38,8 @@ periodo_grupes:
 - t-002
   global_id: t-79051
   teiginys: 'Jonas Neifalta-Lakūnas vadovavo partizanų koviniam vienetui, kuriam talkino Aleksandras Podemanskas-Šarūnas.'
+  sudarymo_pagrindimas: 'Pašalinti nesusiję fragmentai ir suformuluotas citata pagrįstas faktas apie asmenį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/ulonai|ulonai]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras Podemanskas-Šarūnas|Aleksandras Podemanskas-Šarūnas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -44,9 +47,12 @@ periodo_grupes:
 - t-003
   global_id: t-79052
   teiginys: 'Jonas Neifalta-Lakūnas iki okupacijos tarnavo Alytaus ulonų pulke ir turėjo puskarininkio laipsnį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_object: [[objektai/zodynas/ulonai|ulonai]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Alytus; mentioned_place: Dainava; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1940 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Buiničius.md#claim-t-40074|Buiničius]]: Majoras Buiničius buvo NKVD kariuomenės 220-ojo Kutuzovo ordino pulko štabo viršininkas Kalniškės miško mūšyje.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -96,9 +102,3 @@ periodo_grupes:
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/NKVD]]
-- [[objektai/zodynas/Adynos|adynos]]
-- [[objektai/zodynas/ulonai]]

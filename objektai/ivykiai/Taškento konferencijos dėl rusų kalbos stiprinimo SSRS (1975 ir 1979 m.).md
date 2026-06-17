@@ -42,6 +42,11 @@ Nenurodyta
 - t-001
   global_id: t-20518
   teiginys: 'Taškento konferencijų dalyviai sutarė stiprinti rusų kalbą SSRS mokymo įstaigose ir gerinti rusų kalbos mokytojų kvalifikaciją.'
+  sudarymo_pagrindimas: 'Teiginys glaustai perteikia citatoje nurodytus konferencijų nutarimus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lietuva; mentioned_place: SSRS; mentioned_place: Taškentas'
+  temporaliniai_duomenys: 'įvykio data: 1979 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys glaustai perteikia citatoje nurodytus konferencijų nutarimus.'
   pagrindžia:
     - c-001
 
@@ -68,8 +73,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Rusai]]

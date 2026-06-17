@@ -14,21 +14,22 @@ tags:
 
 ## Santrauka
 
-Amerikoje lietuvių laisvamanių ir griežtesniųjų tautininkų įtakoje atsirado tautinių bažnyčių, nepriklausomų nuo katalikų hierarchijos.
+Amerikoje visų tautinių bažnyčių turtas yra užrašomas vyskupų vardu. Taip antai, kai kur lietuvių laisvamanių ir griežtesniųjų tautininkų įtakoje Amerikoje yra atsiradusių katalikų hierarchijos (vyskupų) nepriklausomų bažnyčių, vadinamųjų tautinių bažnyčių.
 
 ## Teiginiai
+
 <a id="claim-t-03184"></a>
 - t-001
   global_id: t-03184
   teiginys: 'Amerikoje lietuvių laisvamanių ir griežtesniųjų tautininkų įtakoje atsirado tautinių bažnyčių, nepriklausomų nuo katalikų hierarchijos.'
+  sudarymo_pagrindimas: 'Perrašyta sklandžiau ir glaudžiau, išlaikant citatoje pateiktus faktus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Laisvamanybė ir laisvamaniai|Laisvamanybė ir laisvamaniai]]'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Amerikoje lietuvių laisvamanių ir griežtesniųjų tautininkų įtakoje atsirado tautinių bažnyčių, nepriklausomų nuo katalikų hierarchijos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Dėl to kartais esti ir nesu-
@@ -36,15 +37,8 @@ Amerikoje lietuvių laisvamanių ir griežtesniųjų tautininkų įtakoje atsira
     jų tautininkų įtakoje Amerikoje yra atsiradusių katalikų hierar-
     chijos (vyskupų) nepriklausomų bažnyčių, vadinamųjų tautinių
     bažnyčių. Bet jų nedaug tėra — vos 6.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Laisvamanybė ir laisvamaniai]]
-- [[objektai/grupes/Lietuviai]]

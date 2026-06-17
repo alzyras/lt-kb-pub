@@ -45,6 +45,8 @@ Nenurodyta
 - t-001
   global_id: t-89368
   teiginys: 'Magistras su kariuomene įsiveržė į Kimenavos valsčių ir privertė Kimenavos pilėnus atiduoti pilį su sąlyga, kad jie galės išeiti su manta.'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo per ilgas ir su OCR nuoroda; citata pagrindžia pilies atidavimą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_place: Kimenava; mentioned_place: Pilėnai; mentioned_place: Semba; mentioned_place: Sūduva'
   pagrindžia:
     - c-001
 
@@ -52,6 +54,8 @@ Nenurodyta
 - t-002
   global_id: t-89369
   teiginys: 'Liudvikas iš Libencelės pas magistrą Konradą atvedė Kantigirdą ir 1600 sūduvių, kuriuos nelaisvėje atvertė į Kristaus tikėjimą.'
+  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir išlaikyti citatoje esantys asmenys bei veiksmas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Kantigirdas|Kantigirdas]]; mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_person: [[objektai/asmenys/Liudvikas iš Libencelės|Liudvikas iš Libencelės]]; mentioned_place: Kimenava; mentioned_place: Semba; mentioned_place: Viena'
   pagrindžia:
     - c-003
 
@@ -59,6 +63,8 @@ Nenurodyta
 - t-003
   global_id: t-89370
   teiginys: 'Liudvikas iš Libencelės pas magistrą atvedė Kantigirdą ir 1600 abiejų lyčių sūduvių, kuriuos nelaisvėje atvertė į Kristaus tikėjimą.'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo fragmentiškas; citata aiškiai pagrindžia Liudviko vaidmenį ir sūduvių atsivertimą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Kantigirdas|Kantigirdas]]; mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_person: [[objektai/asmenys/Liudvikas iš Libencelės|Liudvikas iš Libencelės]]; mentioned_place: Pilėnai; mentioned_place: Semba; mentioned_place: Sūduva'
   pagrindžia:
     - c-002
     - c-003
@@ -123,12 +129,3 @@ Nenurodyta
   pagrindžia:
     - t-002
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Liudvikas]]
-- [[objektai/grupes/Sūduviai]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/asmenys/Kantigirdas]]
-- [[objektai/asmenys/Liudvikas iš Libencelės]]
-- [[objektai/grupes/Sūduviai-jotvingiai]]

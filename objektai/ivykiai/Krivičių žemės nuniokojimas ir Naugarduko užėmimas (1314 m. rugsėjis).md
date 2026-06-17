@@ -42,6 +42,9 @@ Nenurodyta
 - t-001
   global_id: t-62840
   teiginys: 'Po nesėkmingo Naugarduko pilies puolimo Gardino pilininkas Dovydas nužudė 30 vyrų ir pagrobė pusantro tūkstančio arklių bei maisto atsargas.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys perrašytas kaip pilnas sakinys apie žygio padarinius.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Duona|Duona]]; mentioned_object: [[objektai/zodynas/Pilininkas|Pilininkas]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Dovydas|Dovydas]]; mentioned_person: [[objektai/asmenys/Dovydas (Gardino pilininkas)|Dovydas (Gardino pilininkas)]]; mentioned_place: Gardinas; mentioned_place: Naugardukas'
   pagrindžia:
     - c-001
 
@@ -68,11 +71,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Duona]]
-- [[objektai/zodynas/Pilininkas]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/asmenys/Dovydas]]
-- [[objektai/asmenys/Dovydas (Gardino pilininkas)]]

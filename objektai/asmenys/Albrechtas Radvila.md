@@ -28,6 +28,11 @@ Kardinolas Radvila dalyje, vadinamoje Goštautų mūru, įrengė koplyčią, kur
 - t-001
   global_id: t-87613
   teiginys: 'Apie 1601 m. Albrechto Radvilos laikais Goštautų ir Filipovo namai buvo sujungti ir gavo bendrą Kardinalijos pavadinimą.'
+  sudarymo_pagrindimas: 'Citata pagrindžia faktą apie Albrechto Radvilos laikus, o pradinis teiginys painioja jį su kardinolu Radvila.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Goštautai|Goštautai]]; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Filipovo namai; mentioned_place: Kardinalija'
+  temporaliniai_duomenys: 'įvykio data: 1601 m.; įvykio data: apie 1601 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia faktą apie Albrechto Radvilos laikus, o pradinis teiginys painioja jį su kardinolu Radvila.'
   pagrindžia:
     - c-001
 
@@ -55,9 +60,3 @@ Kardinolas Radvila dalyje, vadinamoje Goštautų mūru, įrengė koplyčią, kur
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Goštautai]]
-- [[objektai/grupes/Radvilos]]
-- [[objektai/daiktai/Kardinalijos namų kompleksas]]

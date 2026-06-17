@@ -28,6 +28,9 @@ Lebedžio, Vilnius 1957, 31-35 p.
 - t-001
   global_id: t-30687
   teiginys: 'J. Lebedys kartu su K. Korsaku parengė „Lietuvių literatūros chrestomatiją“, išleistą Vilniuje 1957 m.'
+  susije_objektai: 'mentioned_place: Kaunas; mentioned_place: Krokuva; mentioned_place: Veliuona; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1957 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

@@ -30,6 +30,11 @@ Nenurodyta
 - t-001
   global_id: t-185567
   teiginys: 'Fiurstenbergas po Kuoknesės kapituliacijos įkalino Rygos arkivyskupą Vilhelmą ir jėga užėmė kitas jo pilis.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis claim per ilgas ir nutrūkęs, citata palaiko glaustą veiksmų aprašymą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Kuoknesė; mentioned_place: Ryga; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -60,8 +65,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bajorai]]
-- [[objektai/zodynas/magistras]]

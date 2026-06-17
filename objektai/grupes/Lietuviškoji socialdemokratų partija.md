@@ -5,6 +5,7 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1896 m.'
+  - '1904 m.'
   - '1905 m.'
 date_start: '1896'
 date_end: '1905'
@@ -15,6 +16,7 @@ tags:
   - miestas
   - reforma
   - tauta
+  - valstybė
 amziai:
   - 'XIX'
   - 'XX'
@@ -23,7 +25,7 @@ amziai:
 
 ## Santrauka
 
-Jų organizatoriai daugiausia buvo Rusijos, taip pat lenkų socialistinių partijų vietos skyriai. 1896 m. susikūrusi Lietuviškoji socialdemokratų partija leido spaudą lietuvių ir lenkų kalbomis. Lietuviškoji socialdemokratų partija rėmė Lietuvos nepriklausomybės idėją, socialines reformas ir lietuvių bei lenkų kalbų lygybę Lietuvoje.
+Savo spaudą lietuvių ir lenkų kalbomis leido ir pirmoji su lietuvių tautiniu sąjūdžiu susijusi politinė partija – Lietuviškoji socialdemokratų partija, susikūrusi 1896 m. Savo programoje ji buvo įrašiusi suverenios Lietuvos, valstybės, sujungtos laisvos. Jų organizatoriai daugiausia buvo Rusijos, taip pat lenkų socialistinių partijų vietos skyriai. LSDP, būdama seniausia su bendriausiais lietuvių tautinio sąjūdžio idealais susisiejusi partija, po revoliucijos įgytą populiarumą visuomenėje prarado, patyrė ir didžiausias caro valdžios represijas.
 
 ## Teiginiai
 
@@ -31,6 +33,9 @@ Jų organizatoriai daugiausia buvo Rusijos, taip pat lenkų socialistinių parti
 - t-001
   global_id: t-74617
   teiginys: 'Jų organizatoriai daugiausia buvo Rusijos, taip pat lenkų socialistinių partijų vietos skyriai.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Rusija'
+  temporaliniai_duomenys: 'įvykio data: 1904 m.; įvykio data: 1905 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-003
 
@@ -38,6 +43,11 @@ Jų organizatoriai daugiausia buvo Rusijos, taip pat lenkų socialistinių parti
 - t-002
   global_id: t-74618
   teiginys: '1896 m. susikūrusi Lietuviškoji socialdemokratų partija leido spaudą lietuvių ir lenkų kalbomis.'
+  sudarymo_pagrindimas: 'Teiginys yra užbaigtas, faktinis ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_object: [[objektai/zodynas/rusinimas|rusinimas]]; mentioned_object: [[objektai/zodynas/spiritus movens|spiritus movens]]; mentioned_person: [[objektai/autoriai/Juozas Tumas (Vaižgantas)|Juozas Tumas (Vaižgantas)]]'
+  temporaliniai_duomenys: 'įvykio data: po 1896 m.; įvykio data: 1896 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra užbaigtas, faktinis ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-002
 
@@ -45,9 +55,12 @@ Jų organizatoriai daugiausia buvo Rusijos, taip pat lenkų socialistinių parti
 - t-003
   global_id: t-74619
   teiginys: 'Lietuviškoji socialdemokratų partija rėmė Lietuvos nepriklausomybės idėją, socialines reformas ir lietuvių bei lenkų kalbų lygybę Lietuvoje.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir pagrįstas citatos informacija.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/ivykiai/Lietuviškosios socialdemokratų partijos susikūrimas.md#claim-t-20262|Lietuviškosios socialdemokratų partijos susikūrimas]]: 1896 m. susikūrusi Lietuviškoji socialdemokratų partija buvo pirmoji su lietuvių tautiniu sąjūdžiu susijusi politinė partija.
+- susijęs iš [[objektai/paprociai/Nelegalios lietuvių periodinės spaudos leidimas ir platinimas tautiniam sąjūdžiui.md#claim-t-54314|Nelegalios lietuvių periodinės spaudos leidimas ir platinimas tautiniam sąjūdžiui]]: 1896 m. susikūrusi Lietuviškoji socialdemokratų partija leido savo spaudą lietuvių ir lenkų kalbomis.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -101,16 +114,3 @@ Jų organizatoriai daugiausia buvo Rusijos, taip pat lenkų socialistinių parti
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/Juozas Tumas (Vaižgantas)]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/kunigas]]
-- [[objektai/zodynas/rusinimas]]
-- [[objektai/zodynas/spiritus movens]]
-- [[objektai/ivykiai/Lietuviškosios socialdemokratų partijos susikūrimas]]
-- [[objektai/paprociai/Nelegalios lietuvių periodinės spaudos leidimas ir platinimas tautiniam sąjūdžiui]]
-- [[objektai/ivykiai/1905 m. revoliucija Lietuvoje]]
-- [[objektai/paprociai/1905 m. streikų, demonstracijų, mitingų ir profesinių organizacijų kūrimo praktika]]

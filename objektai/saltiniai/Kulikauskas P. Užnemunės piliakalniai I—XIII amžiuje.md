@@ -26,6 +26,11 @@ Dusburgietis teigia, kad kulikauskas P.
 - t-001
   global_id: t-61110
   teiginys: 'P. Kulikausko veikalas „Užnemunės piliakalniai I—XIII amžiuje“ išleistas Vilniuje 1982 m.'
+  sudarymo_pagrindimas: 'Citata nurodo autorių, pavadinimą, leidimo vietą ir metus.'
+  susije_objektai: 'mentioned_place: Užnemunė; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1982 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata nurodo autorių, pavadinimą, leidimo vietą ir metus.'
   pagrindžia:
     - c-001
 

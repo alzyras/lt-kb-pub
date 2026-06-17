@@ -18,7 +18,7 @@ amziai:
 
 ## Santrauka
 
-1922 m. vasario 15 d. Steigiamasis Seimas priėmė pagrindinį Žemės reformos įstatymą. Įstatymas numatė įvairių žemių paėmimą į Valstybinį žemės fondą. Per žemės reformą pirmiausia žemės gavo kariai savanoriai, bežemiai ir mažažemiai valstiečiai, kaimo amatininkai bei kai kurios įstaigos.
+1922 m. vasario 15 d. Steigiamasis Seimas priėmė pagrindinį Žemės reformos įstatymą, kuris apibrėžė žemės paėmimą į Valstybinį žemės fondą ir pirmenybę žemės gavėjams.
 
 ## Laikotarpis ir datos
 
@@ -48,6 +48,11 @@ Nenurodyta
 - t-001
   global_id: t-23356
   teiginys: '1922 m. vasario 15 d. Steigiamasis Seimas priėmė pagrindinį Žemės reformos įstatymą.'
+  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatos faktą apie įstatymo priėmimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bermontininkai|Bermontininkai]]; mentioned_group: [[objektai/grupes/Steigiamasis seimas|Steigiamasis seimas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1922 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia citatos faktą apie įstatymo priėmimą.'
   pagrindžia:
     - c-001
 
@@ -55,6 +60,9 @@ Nenurodyta
 - t-002
   global_id: t-23357
   teiginys: 'Įstatymas numatė įvairių žemių paėmimą į Valstybinį žemės fondą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bermontininkai|Bermontininkai]]; mentioned_group: [[objektai/grupes/Steigiamasis seimas|Steigiamasis seimas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1922 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -62,6 +70,8 @@ Nenurodyta
 - t-003
   global_id: t-23358
   teiginys: 'Per žemės reformą pirmiausia žemės gavo kariai savanoriai, bežemiai ir mažažemiai valstiečiai, kaimo amatininkai bei kai kurios įstaigos.'
+  sudarymo_pagrindimas: 'Reikia glaudesnio sakinio be perteklinės formuluotės.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bermontininkai|Bermontininkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Estija; mentioned_place: Kaimas; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -109,14 +119,3 @@ Nenurodyta
   pagrindžia:
     - t-003
     - t-004
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/politinis-sprendimas]]
-
-### Susiję objektai
-- [[objektai/grupes/Bermontininkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Steigiamasis seimas]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/seimas]]

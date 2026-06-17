@@ -20,7 +20,7 @@ periodo_grupes: []
 
 ## Santrauka
 
-R. Vėbra nemažai rašė lietuviškos spaudos draudimo XIX a. klausimais. A. Šidlauskas atkreipė dėmesį į mokyklų reformą Lietuvoje XVIII a. pabaigoje. P. Pakarklis gvildeno Lietuvos istorijos klausimus ir ypač rašė apie teutonų ordinus.
+Lietuvos istorijos klausimus gvildeno jau minėtas P. Lietuvių kovas su kryžiuočiais ir kalavijuočiais aprašė ir visa eilė istorikų, kaip R. , 57-74 p. (^105) Parašė, be kitko : Lietuvių kova prieš kalavijuočius (1945), Kry­ žiuočių valstybės santvarkos bruožai (1948) ; vienašališkai poleminė yra jo knyga Popiežiai lietuvių tautos priešai (1948).
 
 ## Teiginiai
 
@@ -28,6 +28,8 @@ R. Vėbra nemažai rašė lietuviškos spaudos draudimo XIX a. klausimais. A. Š
 - t-001
   global_id: t-179531
   teiginys: 'R. Vėbra nemažai rašė lietuviškos spaudos draudimo XIX a. klausimais.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai remiasi citata.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/R. Vėbra|R. Vėbra]]'
   pagrindžia:
     - c-006
 
@@ -35,6 +37,8 @@ R. Vėbra nemažai rašė lietuviškos spaudos draudimo XIX a. klausimais. A. Š
 - t-002
   global_id: t-179533
   teiginys: 'A. Šidlauskas atkreipė dėmesį į mokyklų reformą Lietuvoje XVIII a. pabaigoje.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nusako A. Šidlausko tyrimo temą ir remiasi citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/autoriai/A. Šidlauskas|A. Šidlauskas]]; mentioned_person: [[objektai/autoriai/M. Lukšienė|M. Lukšienė]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-007
 
@@ -42,6 +46,8 @@ R. Vėbra nemažai rašė lietuviškos spaudos draudimo XIX a. klausimais. A. Š
 - t-003
   global_id: t-179535
   teiginys: 'P. Pakarklis gvildeno Lietuvos istorijos klausimus ir ypač rašė apie teutonų ordinus.'
+  sudarymo_pagrindimas: 'Teiginys yra faktinis ir atitinka citatoje pateiktą informaciją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/LTSR Mokslų Akademijos Istorijos Institutas|LTSR Mokslų Akademijos Istorijos Institutas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/autoriai/E. Radzvilovaitė|E. Radzvilovaitė]]; mentioned_person: [[objektai/autoriai/J. Stankus|J. Stankus]]; mentioned_person: [[objektai/autoriai/P. Pakarklis|P. Pakarklis]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-010
 
@@ -49,6 +55,11 @@ R. Vėbra nemažai rašė lietuviškos spaudos draudimo XIX a. klausimais. A. Š
 - t-004
   global_id: t-179536
   teiginys: 'R. Jasas ir M. Jučas buvo tarp istorikų, aprašiusių lietuvių kovas su kryžiuočiais ir kalavijuočiais.'
+  sudarymo_pagrindimas: 'Citata įvardija autorius ir temą, bet pradinė formuluotė nutrūkusi.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/LTSR Mokslų Akademijos Istorijos Institutas|LTSR Mokslų Akademijos Istorijos Institutas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/autoriai/M. Jučas|M. Jučas]]; mentioned_person: [[objektai/autoriai/R. Jasas|R. Jasas]]; mentioned_person: [[objektai/autoriai/Rimantas Jasas|Rimantas Jasas]]; mentioned_place: Lietuva; mentioned_place: Prūsai'
+  temporaliniai_duomenys: 'įvykio data: 1260-1274; įvykio data: 1274 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata įvardija autorius ir temą, bet pradinė formuluotė nutrūkusi.'
   pagrindžia:
     - c-001
 
@@ -56,6 +67,11 @@ R. Vėbra nemažai rašė lietuviškos spaudos draudimo XIX a. klausimais. A. Š
 - t-005
   global_id: t-179537
   teiginys: 'L. Vladimirovas rašė apie caro vyriausybės politiką kultūros ir švietimo srityje Lietuvoje 1871-1904 m.'
+  sudarymo_pagrindimas: 'Pradinis tekstas yra nutrūkęs bibliografinis fragmentas.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/L. Vladimirovas|L. Vladimirovas]]; mentioned_person: [[objektai/autoriai/Motiejus Valančius|Motiejus Valančius]]; mentioned_place: Kražiai; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1871-1904; įvykio data: 1904 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis tekstas yra nutrūkęs bibliografinis fragmentas.'
   pagrindžia:
     - c-009
 
@@ -63,6 +79,11 @@ R. Vėbra nemažai rašė lietuviškos spaudos draudimo XIX a. klausimais. A. Š
 - t-006
   global_id: t-179538
   teiginys: 'P. Dundulienė, R. Marčėnas ir A. Makarevičius rašė apie žemdirbystės istoriją Lietuvoje ir ekonomikos klausimus.'
+  sudarymo_pagrindimas: 'Citata aiškiai pagrindžia autorių ir tyrimų temų sąsają.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/ekonomija|ekonomija]]; mentioned_object: [[objektai/zodynas/inventoriai|inventoriai]]; mentioned_object: [[objektai/zodynas/statutas|statutas]]; mentioned_person: [[objektai/autoriai/S. Lazutka|S. Lazutka]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1769 m.; įvykio data: 1783-1832; įvykio data: 1832 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata aiškiai pagrindžia autorių ir tyrimų temų sąsają.'
   pagrindžia:
     - c-002
 
@@ -70,6 +91,11 @@ R. Vėbra nemažai rašė lietuviškos spaudos draudimo XIX a. klausimais. A. Š
 - t-007
   global_id: t-179539
   teiginys: 'P. Žostautaitė tyrė Prūsijos lietuvių vokietinimą ir pasipriešinimą jam 1848-1914 m.'
+  sudarymo_pagrindimas: 'Citata pagrindžia autorę, temą ir laikotarpį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/autoriai/P. Žostautaitė|P. Žostautaitė]]; mentioned_person: [[objektai/autoriai/S. Matulaitytė|S. Matulaitytė]]; mentioned_person: [[objektai/autoriai/V. Merkys|V. Merkys]]; mentioned_person: [[objektai/autoriai/V. Milius|V. Milius]]; mentioned_place: Lietuva; mentioned_place: Merkys; mentioned_place: Prūsija; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1848-1914; įvykio data: 1868-1914; įvykio data: 1914 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia autorę, temą ir laikotarpį.'
   pagrindžia:
     - c-008
 
@@ -77,6 +103,11 @@ R. Vėbra nemažai rašė lietuviškos spaudos draudimo XIX a. klausimais. A. Š
 - t-008
   global_id: t-179542
   teiginys: 'R. Strazdūnaitė 1959 m. paskelbė darbą „Valstiečių kasos ir teismai Lietuvoje XIX a. pirmojoje pusėje“.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus bibliografinis sakinys, paremtas citata.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/R. Strazdūnaitė|R. Strazdūnaitė]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1831 m.; įvykio data: 1959 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus bibliografinis sakinys, paremtas citata.'
   pagrindžia:
     - c-003
 
@@ -84,6 +115,11 @@ R. Vėbra nemažai rašė lietuviškos spaudos draudimo XIX a. klausimais. A. Š
 - t-009
   global_id: t-179544
   teiginys: 'P. Girdzijauskienė parašė veikalą „1905-1907 metų revoliucija Lietuvoje“.'
+  sudarymo_pagrindimas: 'Citata leidžia atkurti pilną autorės pavardę ir veikalo pavadinimą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Antspaudai|Antspaudai]]; mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_person: [[objektai/autoriai/A. Tyla|A. Tyla]]; mentioned_person: [[objektai/autoriai/E. Griškūnaitė|E. Griškūnaitė]]; mentioned_person: [[objektai/autoriai/L. Mulevičius|L. Mulevičius]]; mentioned_person: [[objektai/autoriai/P. Girdzijauskienė|P. Girdzijauskienė]]; mentioned_place: Augustavas; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1905 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata leidžia atkurti pilną autorės pavardę ir veikalo pavadinimą.'
   pagrindžia:
     - c-005
 
@@ -91,6 +127,11 @@ R. Vėbra nemažai rašė lietuviškos spaudos draudimo XIX a. klausimais. A. Š
 - t-010
   global_id: t-179545
   teiginys: 'L. Bičkauskas-Gentvila 1958 m. rašė apie 1863 m. sukilimą Lietuvoje ir Baltarusijoje.'
+  sudarymo_pagrindimas: 'Citata leidžia pridėti datą ir pašalinti perteklinį kontekstą.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/O. Maksimaitienė|O. Maksimaitienė]]; mentioned_person: [[objektai/autoriai/V. Černeckis|V. Černeckis]]; mentioned_place: Baltarusija; mentioned_place: Kaunas; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1831 m.; įvykio data: 1861-1913; įvykio data: 1863 m.; įvykio data: apie 1863 m.; įvykio data: 1913 m.; įvykio data: 1958 m.; įvykio data: 1965 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
+  temporalinis_llm_pakomentavimas: 'Citata leidžia pridėti datą ir pašalinti perteklinį kontekstą.'
   pagrindžia:
     - c-004
 
@@ -285,17 +326,3 @@ R. Vėbra nemažai rašė lietuviškos spaudos draudimo XIX a. klausimais. A. Š
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Antspaudai]]
-- [[objektai/grupes/Kalavijuočių ordinas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/LTSR Mokslų Akademijos Istorijos Institutas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Teutonai]]
-- [[objektai/zodynas/ekonomija]]
-- [[objektai/zodynas/gubernija]]
-- [[objektai/zodynas/inventoriai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/statutas]]

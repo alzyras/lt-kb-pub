@@ -4,9 +4,10 @@ pavadinimas: 'Konradas, vardu Divelis'
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
+  - '1286 m.'
   - '1289 m.'
-date_start: '1289'
-date_end: ''
+date_start: '1286'
+date_end: '1289'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -22,7 +23,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Petras Dusburgietis Konradą, vardu Divelį, mini tarp krikščionių plėšikautojų, kurių žygius vadino nuostabiais ir nepaprastais. Karaliaučiaus komtūras paskyrė Konradą, pravarde Velnias, Pelužio bendru keršto žygyje. Karaliaučiaus komtūras paskyrė Konradą, pravarde Velnias, Pelužio bendru keršto žygyje.
+Dusburgietis teigia, kad vargu ar kas galėtų nuodugniai papasakoti, kokie nuostabūs ir nepaprasti buvę žygiai krikščionių plėšikautojų, būtent: Martyno iš Golino, Konrado, vardu Divelis, kito [vyro], vadinamo Štaubemeliu, Kudaro iš Sūduvos, Nakaimo iš Pagudės ir daugybės kitų. Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas savo viešpaties [a domino suo], vieno kunigaikščio, kuris savo karalystėje buvęs nelyginant antras asmuo po Lietuvos karaliaus524, atvyko pas Sembos žemės brolius; jo paprašytas Karaliaučiaus komtūras paskyrė.
 
 ## Teiginiai
 
@@ -30,6 +31,8 @@ Petras Dusburgietis Konradą, vardu Divelį, mini tarp krikščionių plėšikau
 - t-001
   global_id: t-89922
   teiginys: 'Petras Dusburgietis Konradą, vardu Divelį, mini tarp krikščionių plėšikautojų, kurių žygius vadino nuostabiais ir nepaprastais.'
+  sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir boilerplate forma perteikia autoriaus vertinimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/autoriai/Petras Dusburgietis|Petras Dusburgietis]]; mentioned_place: Kaimas; mentioned_place: Pagudė; mentioned_place: Prūsai; mentioned_place: Sūduva; mentioned_place: Viena'
   pagrindžia:
     - c-002
 
@@ -37,6 +40,11 @@ Petras Dusburgietis Konradą, vardu Divelį, mini tarp krikščionių plėšikau
 - t-002
   global_id: t-89923
   teiginys: 'Karaliaučiaus komtūras paskyrė Konradą, pravarde Velnias, Pelužio bendru keršto žygyje.'
+  sudarymo_pagrindimas: 'Pašalintas išnašos ir OCR triukšmas; citata remia tą patį vaidmenį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Pelužis|Pelužis]]; mentioned_place: Barta; mentioned_place: Lietuva; mentioned_place: Pagudė; mentioned_place: Prūsai; mentioned_place: Ragainė; mentioned_place: Semba; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1286 m.; įvykio data: apie 1286 m.; įvykio data: 1289 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas išnašos ir OCR triukšmas; citata remia tą patį vaidmenį.'
   pagrindžia:
     - c-003
 
@@ -100,19 +108,3 @@ Petras Dusburgietis Konradą, vardu Divelį, mini tarp krikščionių plėšikau
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Ginklai]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Martynas iš Golino]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/komtūras]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/asmenys/Pelužis]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/ivykiai/Martyno iš Golino žygis į Sūduvos kaimą, bendražygių žūtis ir kerštas]]
-- [[objektai/ivykiai/Pelužio ir plėšikautojų antpuolis, per kurį nužudyta 70 Lietuvos kunigaikščių]]
-- [[objektai/daiktai/Skobnis]]
-- [[objektai/asmenys/Stavimėlas]]
-- [[objektai/paprociai/Vestuvių puotos girtavimas iki užmigimo]]

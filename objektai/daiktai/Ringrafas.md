@@ -42,6 +42,8 @@ Nenurodyta
 - t-001
   global_id: t-40756
   teiginys: 'XVIII a. Lietuvos kariuomenės gvardijos pėstininkų karininkų ringrafas buvo nešiojamas ant krūtinės ir turėjo Vytį.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir paremtas citatoje pateiktu aprašymu.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Herbas|Herbas]]; mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_place: Lietuva; mentioned_place: Rusija'
   pagrindžia:
     - c-001
 
@@ -63,11 +65,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/karvedys]]
-
-### Susiję objektai
-- [[objektai/daiktai/Herbas]]
-- [[objektai/daiktai/Vytis]]

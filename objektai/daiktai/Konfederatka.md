@@ -41,6 +41,8 @@ Nenurodyta
 - t-001
   global_id: t-39258
   teiginys: 'Dolegos vedamo pulko kareiviai buvo apsitaisę, ginkluoti šobliomis ir muškietomis, o ant galvų dėvėjo konfederatkas.'
+  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir iš citatos suformuotas aiškus faktinis sakinys.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Kariauna|Kariauna]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/asmenys/Dolega|Dolega]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -59,10 +61,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Dolega]]
-- [[objektai/zodynas/kunigas]]
-- [[objektai/asmenys/Peža-Palionis]]
-- [[objektai/daiktai/Šobliai]]

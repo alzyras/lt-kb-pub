@@ -7,32 +7,35 @@ saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-datos:
-  - '1382 m.'
-date_start: '1382'
+datos: []
+date_start: ''
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XIV'
-periodo_grupes:
-  - 'LDK'
 tags:
   - asmuo
   - kunigaikštis
   - tauta
+amziai: []
+periodo_grupes: []
 ---
 # Tautvilas
 
 ## Santrauka
 
-Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono Algimantaičio — jo Alšėnai. Mindaugo sūnėnas Tautvilas įsitvirtino Polocke, kai Lietuvos valdžia plito Baltojoje Rusijoje. Mindaugo sūnėnas Tautvilas įsigyveno Polocke, kai Lietuvos valdžia plito Baltojoje Rusioje.
+Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaugo buvo išsiųsti į rusų sritis. Tautvilas buvo nužudytas, ir valdžią paėmė Treniota.
 
 ## Teiginiai
+
 <a id="claim-t-121171"></a>
 - t-001
   global_id: t-121171
   teiginys: 'Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono Algimantaičio — jo Alšėnai.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir pagrįstas citata.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tautvila|Tautvila]]; mentioned_place: Alšėnai'
+  temporaliniai_duomenys: 'įvykio data: po 1382 m.; įvykio data: 1382 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, aiškus ir pagrįstas citata.'
   pagrindžia:
     - c-004
 
@@ -40,6 +43,7 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
 - t-002
   global_id: t-121172
   teiginys: 'Mindaugo sūnėnas Tautvilas įsitvirtino Polocke, kai Lietuvos valdžia plito Baltojoje Rusijoje.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva; mentioned_place: Polockas; mentioned_place: Rusija; mentioned_place: Vitebskas'
   pagrindžia:
     - c-001
 
@@ -47,6 +51,8 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
 - t-003
   global_id: t-121173
   teiginys: 'Mindaugo sūnėnas Tautvilas įsigyveno Polocke, kai Lietuvos valdžia plito Baltojoje Rusioje.'
+  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir sakinys sutelktas į Tautvilą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_person: [[objektai/asmenys/Vikintas|Vikintas]]; mentioned_place: Lietuva; mentioned_place: Polockas; mentioned_place: Vitebskas'
   pagrindžia:
     - c-005
 
@@ -54,6 +60,9 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
 - t-004
   global_id: t-121174
   teiginys: 'Prie Vilniaus šūvio pakirstas žuvo Lietuvos kunigaikštis Tautvilas, Kęstučio sūnus ir Vytauto brolis.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatinis ir tiesiogiai paremtas citata.'
+  susije_objektai: 'territory: Lietuva; territory: Pinskas; territory: Prūsija; territory: Rusia; territory: Vilnius; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/posakiai/Ugnimi ir kalaviju|Ugnimi ir kalaviju]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Pinskas; mentioned_place: Prūsija; mentioned_place: Rusia; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Tautvilas|Tautvilas]] buvo valdovas Lietuva; [[objektai/asmenys/Tautvilas|Tautvilas]] buvo valdovas Pinskas; [[objektai/asmenys/Tautvilas|Tautvilas]] buvo valdovas Prūsija; [[objektai/asmenys/Tautvilas|Tautvilas]] buvo valdovas Rusia; [[objektai/asmenys/Tautvilas|Tautvilas]] buvo valdovas Vilnius'
   pagrindžia:
     - c-003
 
@@ -61,6 +70,9 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
 - t-005
   global_id: t-121175
   teiginys: 'Lietuvos kunigaikštis Tautvilas, Kęstučio sūnus ir Vytauto brolis, žuvo prie Vilniaus, pakirstas šūvio.'
+  sudarymo_pagrindimas: 'Teiginys aiškus, pilnas ir tiesiogiai atitinka citatos informaciją.'
+  susije_objektai: 'territory: Lietuva; territory: Pinskas; territory: Prūsija; territory: Rusia; territory: Vilnius; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/posakiai/Ugnimi ir kalaviju|Ugnimi ir kalaviju]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Pinskas; mentioned_place: Prūsija; mentioned_place: Rusia; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Tautvilas|Tautvilas]] buvo valdovas Lietuva; [[objektai/asmenys/Tautvilas|Tautvilas]] buvo valdovas Pinskas; [[objektai/asmenys/Tautvilas|Tautvilas]] buvo valdovas Prūsija; [[objektai/asmenys/Tautvilas|Tautvilas]] buvo valdovas Rusia; [[objektai/asmenys/Tautvilas|Tautvilas]] buvo valdovas Vilnius'
   pagrindžia:
     - c-003
 
@@ -68,6 +80,11 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
 - t-006
   global_id: t-121176
   teiginys: '1249 m. Mindaugas iš savo sūnėno Tautvilo atėmė valdas, o Tautvilas, remiamas Haličo-Voluinės ir Livonijos, pradėjo karą prieš Mindaugą.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai siejamas su Tautvilu ir atitinka citatos informaciją.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Gedvydas|Gedvydas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva; mentioned_place: Voluinė'
+  temporaliniai_duomenys: 'įvykio data: 1249 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai siejamas su Tautvilu ir atitinka citatos informaciją.'
   pagrindžia:
     - c-002
 
@@ -75,10 +92,41 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
 - t-007
   global_id: t-184840
   teiginys: 'Tautvilas Treniotos kvietimu atvyko iš Polocko ir slapta su savaisiais rengė naują sąmokslą prieš Treniotą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata remia aiškius Tautvilo veiksmus, o ne tik jo paminėjimą.'
+  susije_objektai: 'location: Polockas; mentioned_person: [[objektai/asmenys/Treniota|Treniota]]; mentioned_place: Polockas'
+  semantiniai_rysiai: '[[objektai/asmenys/Tautvilas|Tautvilas]] keliavo į Polockas'
   pagrindžia:
     - c-006
-
+- susijęs iš [[objektai/asmenys/Algardas Hohenšteino grafas.md#claim-t-87618|Algardas Hohenšteino grafas]]: Hohenšteino grafas Algardas žuvo prie Vilniaus, kai buvo pakirstas šūvio per pilies apsiaustį.
+- susijęs iš [[objektai/asmenys/Gedvydas.md#claim-t-40121|Gedvydas]]: 1249 m. Gedvydas neteko valdų, kai Mindaugas, stiprindamas centrinę valdžią, jas atėmė iš Vykinto, Tautvilo ir Gedvydo.
+- susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113913|Mindaugas (valdovas, XIII a.)]]: Mindaugas 1219 m. kartu su kitais Lietuvos žemės kunigaikščiais sudarė taikos sutartį su Haliču-Voluine.
+- susijęs iš [[objektai/asmenys/Tautvila.md#claim-t-87601|Tautvila]]: Lietuvos kunigaikštis Tautvila, Kęstučio sūnus ir Vytauto brolis, žuvo prie Vilniaus, pakirstas šūvio.
+- susijęs iš [[objektai/asmenys/Vikintas.md#claim-t-34831|Vikintas]]: Vikintas, Mindaugo sūnėnų Tautvilo ir Edivido dėdė iš motinos pusės, buvo įsigyvenęs Vitebske.
+- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179368|Livonijos ordinas]]: Livonijos ordinas nebenorėjo paklusti Rygos arkivyskupui, pas kurį krikštijosi Tautvilas.
+- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179430|Livonijos ordinas]]: Mindaugas, pasinaudodamas priešų nesantaika, kreipėsi į Livonijos ordino magistrą ir siuntė jam brangių dovanų.
+- susijęs iš [[objektai/grupes/Rygos vokiečiai.md#claim-t-31351|Rygos vokiečiai]]: Danieliaus ir Tautvilo sąjunga su Rygos vokiečiais nebuvo palanki Livonijos ordino magistrui Andriui von Stirlandui.
+- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-187753|Žemaičiai]]: Lietuvos metraštyje Tautvilas Žemaitijoje pas Vykintą pasiėmė jotvingius, žemaičius ir Danieliaus pagalbą ir išžygiavo prieš Mindaugą.
+- susijęs iš [[objektai/ivykiai/Mindaugo ir Livonijos ordino taika bei Mindaugo krikštas (1250 m. gale – 1251 m. pradžia).md#claim-t-71756|Mindaugo ir Livonijos ordino taika bei Mindaugo krikštas (1250 m. gale – 1251 m. pradžia)]]: Mindaugas susitaikė su Livonijos ordino magistru Andriumi von Stirland, kuris su juo padarė taiką ir skatino krikštytis.
+- susijęs iš [[objektai/ivykiai/Tautvilo nužudymas (apie 1263-1264 m.).md#claim-t-31477|Tautvilo nužudymas (apie 1263-1264 m.)]]: Apie 1263-1264 m. Treniota nužudė sosto varžovą Tautvilą, o Tautvilo sūnus pabėgo į Didįjį Naugardą.
+- susijęs iš [[objektai/ivykiai/Tautvilo sąmokslas prieš Treniotą, Tautvilo nužudymas ir Polocko užėmimas.md#claim-t-185830|Tautvilo sąmokslas prieš Treniotą, Tautvilo nužudymas ir Polocko užėmimas]]: Tautvilo sąmokslą prieš Treniotą išdavė klastingas Polocko dvariškis, todėl valdovas jį skubiai užgniaužė.
+- susijęs iš [[objektai/ivykiai/Tautvilos ir sąjungininkų žygis prieš Mindaugą bei Vorutos apgultis.md#claim-t-187498|Tautvilos ir sąjungininkų žygis prieš Mindaugą bei Vorutos apgultis]]: Pasak šaltinio, po susirėmimo Tautvilas sugrįžo namo į Žemaitiją.
+- susijęs iš [[objektai/ivykiai/Tautvilos ir sąjungininkų žygis prieš Mindaugą bei Vorutos apgultis.md#claim-t-187499|Tautvilos ir sąjungininkų žygis prieš Mindaugą bei Vorutos apgultis]]: Lietuvos metraščio pasakojimu, Tautvilas su jotvingiais, žemaičiais ir Danieliaus duota pagalba išžygiavo prieš Mindaugą.
+- susijęs iš [[objektai/ivykiai/Tautvilos krikštas Rygoje.md#claim-t-187495|Tautvilos krikštas Rygoje (krikštas)]]: Lietuvos metraščio pasakojimu, Tautvilas su Danieliui skirtais belaisviais nuvyko į Rygą, kur rygiečiai jį iškilmingai priėmė ir pakrikštijo.
+- susijęs iš [[objektai/paprociai/Jaunikaičių siuntimas puldinėti kaimynus karo mokymuisi.md#claim-t-185916|Jaunikaičių siuntimas puldinėti kaimynus karo mokymuisi]]: Erdivydas, Vykintas ir Tautvilas buvo išsiųsti į kariuomenę, kad puldinėdami kaimynus pratintųsi kariauti.
+- susijęs iš [[objektai/paprociai/Viešas krikščionybės priėmimas valdinių prisirišimui ir sąjungininkų palankumui pelnyti.md#claim-t-185905|Viešas krikščionybės priėmimas valdinių prisirišimui ir sąjungininkų palankumui pelnyti]]: Erdivydas, Vykintas ir Tautvilas viešai priėmė krikščionybę, siekdami labiau prie savęs prisirišti savo valdinius.
+- susijęs iš [[objektai/posakiai/Kraštą ugnimi ir kalaviju nusiaubę.md#claim-t-86861|Kraštą ugnimi ir kalaviju nusiaubę]]: Po nesėkmingos Vilniaus pilies apsupties kryžiuočiai atsitraukė ir, nusiaubę kraštą ugnimi bei kalaviju, grįžo į Prūsiją ir Livoniją.
+- susijęs iš M. Strijkovskio kronika: Strijkovskis prie Vilniaus apsupties aukų priskyrė Narimantą, remdamasis Długoszo pramanytu pasakojimu.
+- susijęs iš M. Strijkovskio kronika: Strijkovskis Narimantą priskyrė prie apgulties metu nukautųjų ir perpasakojo Długoszo sukurtą jo mirties istoriją.
+- susijęs iš Livonija: Po nesėkmingos Vilniaus pilies apsupties kryžiuočiai atsitraukė ir grįžo į Prūsiją bei Livoniją.
+- susijęs iš Livonija: Po nesėkmingos Vilniaus pilies apsupties kryžiuočiai atsitraukė į Prūsiją ir Livoniją.
+- susijęs iš Prūsija: Po nesėkmingos Vilniaus pilies apsupties kryžiuočiai nusiaubė kraštą ir grįžo į Prūsiją bei Livoniją.
+- susijęs iš Prūsija: Po nesėkmingos Vilniaus pilies apsupties kryžiuočiai nusiaubė kraštą ir grįžo į Prūsiją bei Livoniją.
+- susijęs iš Vilnius: Po nesėkmingos Vilniaus pilies apsupties kryžiuočiai atsitraukė, nusiaubę kraštą ugnimi ir kalaviju.
 ## Reikšmingi paminėjimai
+
 - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -95,6 +143,7 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
   statusas: verified
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: '1249 m. Mindaugas iš savo sūnėno Tautvilo atėmė valdas, o Tautvilas, remiamas Haličo-Voluinės ir Livonijos, pradėjo karą prieš Mindaugą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -108,6 +157,7 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
   statusas: verified
   pagrindžia:
     - t-006
+
 - c-003
   santrauka: 'Lietuvos kunigaikštis Tautvilas, Kęstučio sūnus ir Vytauto brolis, žuvo prie Vilniaus, pakirstas šūvio.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -155,6 +205,7 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
   pagrindžia:
     - t-005
     - t-004
+
 - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -168,6 +219,7 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
   statusas: verified
   pagrindžia:
     - t-001
+
 - c-005
   santrauka: 'Mindaugo sūnėnas Tautvilas įsigyveno Polocke, kai Lietuvos valdžia plito Baltojoje Rusioje.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -182,6 +234,7 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
   statusas: verified
   pagrindžia:
     - t-003
+
 - c-006
   santrauka: 'Tautvilas Treniotos kvietimu atvyko iš Polocko ir slapta su savaisiais rengė naują sąmokslą prieš Treniotą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -207,30 +260,10 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
     - t-007
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/Mindaugo ir Livonijos ordino taika bei Mindaugo krikštas (1250 m. gale – 1251 m. pradžia)]]
-- [[objektai/grupes/Rygos vokiečiai]]
-- [[objektai/ivykiai/Tautvilo nužudymas (apie 1263-1264 m.)]]
-- [[objektai/asmenys/Gediminas]]
-- [[objektai/daiktai/Kalavijas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/posakiai/Ugnimi ir kalaviju]]
-- [[objektai/asmenys/Vikintas]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/didysis kunigaikštis]]
-- [[objektai/zodynas/kunigaikštija]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/asmenys/Algardas Hohenšteino grafas]]
-- [[objektai/posakiai/Kraštą ugnimi ir kalaviju nusiaubę]]
-- [[objektai/grupes/Livonijos ordinas]]
-- [[objektai/asmenys/Tautvila]]
-- [[objektai/ivykiai/Tautvilo sąmokslas prieš Treniotą, Tautvilo nužudymas ir Polocko užėmimas]]
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- [[objektai/paprociai/Jaunikaičių siuntimas puldinėti kaimynus karo mokymuisi]]
-- [[objektai/ivykiai/Tautvilos ir sąjungininkų žygis prieš Mindaugą bei Vorutos apgultis]]
-- [[objektai/ivykiai/Tautvilos krikštas Rygoje|Tautvilos krikštas Rygoje (krikštas)]]
-- [[objektai/paprociai/Viešas krikščionybės priėmimas valdinių prisirišimui ir sąjungininkų palankumui pelnyti]]
-- [[objektai/grupes/Žemaičiai]]
-- [[objektai/asmenys/Edividas]]
+- Tautvilas buvo_valdovas [[objektai/vietos/Lietuva]]
+- Tautvilas buvo_valdovas [[objektai/vietos/Pinskas]]
+- Tautvilas buvo_valdovas [[objektai/vietos/Prūsija]]
+- Tautvilas buvo_valdovas [[objektai/vietos/Rusia]]
+- Tautvilas buvo_valdovas [[objektai/vietos/Vilnius]]
+- Tautvilas keliavo_i [[objektai/vietos/Lietuva]]
+- Tautvilas keliavo_i [[objektai/vietos/Polockas]]

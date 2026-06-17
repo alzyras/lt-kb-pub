@@ -23,6 +23,8 @@ Taip pat norime, kad to, kuris vienu ar kitu būdu daugiau kaip metus išdrįs b
 - t-001
   global_id: t-86517
   teiginys: 'Vilniaus vyskupui Povilui ir jo įpėdiniams suteikta pasaulietinė valdžia asmenims, ilgiau kaip metus vengiantiems bažnytinių cenzūrų.'
+  sudarymo_pagrindimas: 'Pradinis teiginys yra ilgas dokumento fragmentas, todėl perrašytas į aiškų faktinį sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -49,11 +51,3 @@ Taip pat norime, kad to, kuris vienu ar kitu būdu daugiau kaip metus išdrįs b
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/ritualas]]
-
-### Susiję objektai
-- [[objektai/grupes/Stačiatikiai]]
-- [[objektai/zodynas/ponai]]

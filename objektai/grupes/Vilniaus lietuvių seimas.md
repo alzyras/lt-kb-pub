@@ -24,6 +24,14 @@ amziai:
 - t-001
   global_id: t-185438
   teiginys: '1461 m. Vilniaus lietuvių seime luomai pareiškė, kad visuomenė bus rami tik karaliui asmeniškai valdant Lietuvą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata pagrindžia seimo dalyvių pareikštą reikalavimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/luomai|luomai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1461 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia seimo dalyvių pareikštą reikalavimą.'
   pagrindžia:
     - c-001
 
@@ -31,6 +39,11 @@ amziai:
 - t-002
   global_id: t-185439
   teiginys: 'Vilniaus lietuvių seime luomai prašė paskirti Lietuvai vietininku Simoną Olelkaitį, Slucko kunigaikštį.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata tiesiogiai pagrindžia prašymą ir kandidato tapatybę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/luomai|luomai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Lietuva; mentioned_place: Sluckas; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -38,6 +51,12 @@ amziai:
 - t-003
   global_id: t-185440
   teiginys: 'Karalius nutarė atmesti siūlymą skirti Lietuvai vietininką, bet viešai prašė atidėti klausimą dėl karo su kryžiuočiais.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata pagrindžia karaliaus sprendimą ir viešą atidėjimo motyvą.'
+  susije_objektai: 'territory: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/grupes/Vilniaus lietuvių seimas|Vilniaus lietuvių seimas]] susiję su Lietuva'
   pagrindžia:
     - c-003
 
@@ -118,13 +137,4 @@ amziai:
     - t-003
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/zodynas/luomai]]
-- [[objektai/zodynas/vietininkas]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/asmenys/Simonas Olelkaitis]]
-- [[objektai/ivykiai/Vilniaus lietuvių seimas ir prašymas skirti Simoną Olelkaitį vietininku (1461 m.)]]
+- Vilniaus lietuvių seimas (seimas, XV a.) susije_su [[objektai/vietos/Lietuva]]

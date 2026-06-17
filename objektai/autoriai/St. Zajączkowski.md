@@ -29,9 +29,13 @@ periodo_grupes:
 - t-001
   global_id: t-100100
   teiginys: 'St. Zajączkowski rašė apie jotvingių vardus ir Jotvos problemą istoriografijoje.'
+  sudarymo_pagrindimas: 'Pradinis tekstas yra OCR ir antraštės triukšmas; citata remia trumpą bibliografinį faktą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/proistorė|proistorė]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/autoriai/Zajączkowski, St.md#claim-t-54141|Zajączkowski, St]]: St. Zajączkowski 1926 m. paskelbė darbą „Przymierze polsko-litewskie 1325 r.“.
+- susijęs iš [[objektai/autoriai/Zajączkowski, St.md#claim-t-54142|Zajączkowski, St]]: St. Zajączkowski 1926 m. paskelbė darbą „Przymierze polsko-litewskie 1325 r.“
+- susijęs iš [[objektai/posakiai/jako tebe delia mir atvorim so Vykyntom, zane brat’ju našu mnogu pogubi.md#claim-t-31559|jako tebe delia mir atvorim so Vykyntom, zane brat’ju našu mnogu pogubi]]: Posakis „jako tebe delia mir atvorim so Vykyntom, zane brat’ju našu mnogu pogubi“ Ipatijaus kronikoje siejamas su 1248 m. Rygos vyskupo laišku Danieliui Romanaičiui.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -50,8 +54,3 @@ periodo_grupes:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/proistorė]]
-- [[objektai/posakiai/jako tebe delia mir atvorim so Vykyntom, zane brat’ju našu mnogu pogubi]]

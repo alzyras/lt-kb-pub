@@ -21,6 +21,8 @@ Dusburgietis teigia, kad 664—708; Biržiška V.
 - t-001
   global_id: t-60678
   teiginys: 'V. Biržiška parašė darbą „Kryžiuočių keliai“.'
+  sudarymo_pagrindimas: 'Citata pateikia bibliografinę nuorodą, kuri leidžia nustatyti autoriaus darbą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-001
 
@@ -37,7 +39,3 @@ Dusburgietis teigia, kad 664—708; Biržiška V.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]

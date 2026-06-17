@@ -17,7 +17,7 @@ amziai:
 
 ## Santrauka
 
-Redakcinė pastaba nurodo, kad formalus karo paskelbimas Aleksandrui buvo gautas tik po 1493 m. sausio 4 d. Redakcinė pastaba nurodo, kad 1493 m. pavasarį karo veiksmai nutrūko. Karas tarp Lietuvos Didžiosios Kunigaikštystės ir Maskvos prasidėjo 1492 m. rudenį, kai Maskvoje sužinota apie Kazimiero mirtį.
+Redakcinė pastaba nurodo, kad karas prasidėjo dar 1492 m. rudenį, Maskvoje sužinojus apie Kazimiero mirtį. Redakcinė pastaba nurodo, kad BK išvardyti miestai buvo užimti dar iki 1492 m. rugsėjo 27 d.
 
 ## Laikotarpis ir datos
 
@@ -46,14 +46,26 @@ Nenurodyta
 <a id="claim-t-186773"></a>
 - t-001
   global_id: t-186773
-  teiginys: 'Redakcinė pastaba nurodo, kad formalus karo paskelbimas Aleksandrui buvo gautas tik po 1493 m. sausio 4 d.'
+  teiginys: 'Maskvos didžiojo kunigaikščio deklaracija apie karo paskelbimą buvo gauta po 1493 m. sausio 4 d.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Citata mini deklaraciją, bet nepalaiko Aleksandro įvardijimo.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Maskva'
+  temporaliniai_duomenys: 'įvykio data: 1492 m.; įvykio data: po 1493 m.; įvykio data: 1493 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data.'
+  temporalinis_llm_pakomentavimas: 'Citata mini deklaraciją, bet nepalaiko Aleksandro įvardijimo.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-186774"></a>
 - t-002
   global_id: t-186774
-  teiginys: 'Redakcinė pastaba nurodo, kad 1493 m. pavasarį karo veiksmai nutrūko.'
+  teiginys: '1493 m. pavasarį Lietuvos Didžiosios Kunigaikštystės ir Maskvos karo veiksmai nutrūko.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pašalintas redakcinės pastabos įvadas ir įvardytas įvykio objektas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_place: Chlepenis; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Mosalskas; mentioned_place: Rohačevas'
+  temporaliniai_duomenys: 'įvykio data: 1493 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas redakcinės pastabos įvadas ir įvardytas įvykio objektas.'
   pagrindžia:
     - c-001
 
@@ -61,19 +73,32 @@ Nenurodyta
 - t-003
   global_id: t-186775
   teiginys: 'Karas tarp Lietuvos Didžiosios Kunigaikštystės ir Maskvos prasidėjo 1492 m. rudenį, kai Maskvoje sužinota apie Kazimiero mirtį.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Sakinys aiškus, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Maskva'
+  temporaliniai_duomenys: 'įvykio data: 1492 m.; įvykio data: 1493 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Sakinys aiškus, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-186777"></a>
 - t-004
   global_id: t-186777
-  teiginys: 'Redakcinė pastaba nurodo, kad karas prasidėjo dar 1492 m. rudenį, Maskvoje sužinojus apie Kazimiero mirtį.'
+  teiginys: 'Karas tarp Lietuvos Didžiosios Kunigaikštystės ir Maskvos prasidėjo 1492 m. rudenį, Maskvoje sužinojus apie Kazimiero mirtį.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Tas pats faktas gali būti pateiktas tiesiogiai, be redakcinės pastabos įvado.'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Maskva'
+  temporaliniai_duomenys: 'įvykio data: 1492 m.; įvykio data: 1493 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Tas pats faktas gali būti pateiktas tiesiogiai, be redakcinės pastabos įvado.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1493 m. pavasarį Lietuvos Didžiosios Kunigaikštystės ir Maskvos karo veiksmai nutrūko.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     Išskyrus ViaznuĮ. visi aukščiau išvardytieji LDK rytų pasienio
@@ -105,8 +130,3 @@ Nenurodyta
     - t-004
     - t-003
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Maskvėnai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

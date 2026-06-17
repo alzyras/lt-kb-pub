@@ -6,8 +6,9 @@ saltiniai:
 datos:
   - '1248 m.'
   - '1251 m.'
+  - '1253 m.'
 date_start: '1248'
-date_end: '1251'
+date_end: '1253'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -46,6 +47,9 @@ Nenurodyta
 - t-001
   global_id: t-66789
   teiginys: '1251 m. Mindaugas krikštijosi, mainais perleidęs didelę dalį Žemaitijos Livonijos ordinui.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Mindaugo karūnacija|Mindaugo karūnacija]]; mentioned_event: [[objektai/ivykiai/Mindaugo karūnacija (1253 m.)|Mindaugo karūnacija (1253 m.)]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/apsikarūnavimas|apsikarūnavimas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva; mentioned_place: Livonija'
+  temporaliniai_duomenys: 'įvykio data: 1251 m.; įvykio data: 1253 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -53,6 +57,11 @@ Nenurodyta
 - t-002
   global_id: t-66790
   teiginys: '1251 m. pavasarį arba vasaros pradžioje Mindaugas išsirūpino krikštą sau ir Mortai bei karaliaus karūną sau.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie nurodytą įvykį ir paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_person: [[objektai/asmenys/Morta|Morta]]; mentioned_place: Livonija'
+  temporaliniai_duomenys: 'įvykio data: 1248 m.; įvykio data: 1251 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie nurodytą įvykį ir paremtas citata.'
   pagrindžia:
     - c-002
 
@@ -89,15 +98,3 @@ Nenurodyta
   pagrindžia:
     - t-003
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Karūna]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
-- [[objektai/ivykiai/Mindaugo karūnacija]]
-- [[objektai/ivykiai/Mindaugo karūnacija (1253 m.)]]
-- [[objektai/asmenys/Morta]]
-- [[objektai/zodynas/apsikarūnavimas]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/ivykiai/Mindaugo krikštas|Mindaugo krikštas (krikštas)]]

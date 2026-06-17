@@ -18,6 +18,11 @@ Po Vytauto pergalės Tauridės, tai yra Krymo arba Perekopo, skitai suartėjo su
 - t-001
   global_id: t-185313
   teiginys: 'Po Vytauto pergalės Tauridės, tai yra Krymo arba Perekopo, skitai suartėjo su Vytautu ir Lietuva.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pašalintas nutrūkęs fragmentas ir paliktas aiškus citatos palaikomas faktas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/skitai|skitai]]; mentioned_object: [[objektai/zodynas/žygūnai|žygūnai]]; mentioned_place: Krymas; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

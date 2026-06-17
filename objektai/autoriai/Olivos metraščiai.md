@@ -21,9 +21,11 @@ Bet Olivos metraš­ čiai (Annales Oliv., p. 48) rašo, kad tuo tarpu, kai Gedi
 - t-001
   global_id: t-88077
   teiginys: 'Olivos metraščiai rašo, kad Gediminui ar jo kariui stumiant karinę mašiną pataikė Marijano iš bombardos paleistas šūvis.'
+  sudarymo_pagrindimas: 'Reikia patikslinti citatoje esantį neapibrėžtumą ir pašalinti perteklinę formuluotę.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Bombardos|Bombardos]]; mentioned_object: [[objektai/daiktai/Strėlės|Strėlės]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Oliva'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176377|Gediminas]]: Olivos metraščiai teigė, kad Gediminas žuvo nuo Marijano paleisto šūvio iš bombardos.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -45,8 +47,3 @@ Bet Olivos metraš­ čiai (Annales Oliv., p. 48) rašo, kad tuo tarpu, kai Gedi
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Strėlės]]
-- [[objektai/daiktai/Bombardos]]

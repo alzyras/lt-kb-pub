@@ -23,6 +23,8 @@ tags:
 - t-001
   global_id: t-86293
   teiginys: 'Ginklų ir amunicijos rankraštyje vietovių pavadinimai buvo išdėstyti pagal planus, pradedant Vilniaus arsenalu.'
+  sudarymo_pagrindimas: 'Sąrašas ir poetinis fragmentas paversti enciklopediniu sakiniu.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_place: Lietuva; mentioned_place: Podolė; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

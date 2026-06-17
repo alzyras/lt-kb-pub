@@ -20,6 +20,8 @@ Mnišek „RAUPSUOTOJI” (Trędowata) trijose dalyse vertė P.
 - t-001
   global_id: t-96065
   teiginys: 'E. Mnišek „Raupsuotoji“ lietuviškai išleista trimis dalimis, ją vertė P. Jurgelevičius.'
+  sudarymo_pagrindimas: 'Citata pagrindžia autorę, pavadinimą, dalių skaičių ir vertėją, o pradinis teiginys nutrūksta ties inicialu.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/E. Mnišek|E. Mnišek]]'
   pagrindžia:
     - c-001
 

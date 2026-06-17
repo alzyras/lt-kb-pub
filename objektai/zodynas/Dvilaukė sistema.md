@@ -27,6 +27,7 @@ amziai:
 - t-001
   global_id: t-32749
   teiginys: 'Dvilaukė sistema atsirado, kai apžėlęs lydimas virsdavo ganykla, o naujas lydimas buvo daromas kitoje miško ar pamiškės vietoje.'
+  susije_objektai: 'mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -34,6 +35,11 @@ amziai:
 - t-002
   global_id: t-184355
   teiginys: 'Dvilaukė sistema atsirado iš lydiminės žemdirbystės, kai nulaisintas lydimas ilgai turėjo pūdymauti.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis teiginys per daug kontekstinis ir neaiškus be ankstesnio sakinio.'
+  susije_objektai: 'mentioned_place: Viena'
   pagrindžia:
     - c-002
 

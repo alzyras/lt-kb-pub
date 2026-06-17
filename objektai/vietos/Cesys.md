@@ -21,6 +21,8 @@ Padaręs sąjungą su Aleksandru Nevskiu (Didž. Naugarde)^183 , drauge su Treni
 - t-001
   global_id: t-32101
   teiginys: 'Mindaugas su Treniota nesėkmingai puolė Cesio, arba Wendeno, pilį Livonijoje.'
+  sudarymo_pagrindimas: 'Teiginys pilnai nurodo Mindaugo ir Treniotos nesėkmingą Cesio pilies puolimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_person: [[objektai/asmenys/Treniota|Treniota]]; mentioned_place: Livonija; mentioned_place: Naugardas'
   pagrindžia:
     - c-001
 

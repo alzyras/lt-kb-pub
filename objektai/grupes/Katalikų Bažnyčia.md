@@ -8,10 +8,12 @@ saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
+  - '1330 m.'
   - '1387 m.'
   - '1417 m.'
+  - '1500 m.'
   - '2026 m.'
-date_start: '1387'
+date_start: '1330'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
@@ -25,7 +27,7 @@ amziai:
 
 ## Santrauka
 
-Caro valdžia Katalikų bažnyčią priskyrė „lenkų pradams“, bet dėl tarptautinės politikos nesiėmė tiesioginio jos likvidavimo. Šalių feodalų, katalikų bažnyčios, Kryžiuočių ordino agresija. XIII-XIV a. Lietuvoje vyko karas prieš Kryžiuočių ordino, Vakarų Europos feodalų ir Katalikų Bažnyčios agresiją.
+Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo su juo kovą.
 
 ## Teiginiai
 
@@ -33,6 +35,8 @@ Caro valdžia Katalikų bažnyčią priskyrė „lenkų pradams“, bet dėl tar
 - t-001
   global_id: t-116726
   teiginys: 'Caro valdžia Katalikų bažnyčią priskyrė „lenkų pradams“, bet dėl tarptautinės politikos nesiėmė tiesioginio jos likvidavimo.'
+  sudarymo_pagrindimas: 'Reikia sutrumpinti ir aiškiau įvardyti veikėją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/pradai|pradai]]'
   pagrindžia:
     - c-009
 
@@ -40,6 +44,8 @@ Caro valdžia Katalikų bažnyčią priskyrė „lenkų pradams“, bet dėl tar
 - t-002
   global_id: t-116727
   teiginys: 'Šalių feodalų, katalikų bažnyčios, Kryžiuočių ordino agresija.'
+  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva; mentioned_place: Prūsai'
   pagrindžia:
     - c-004
 
@@ -47,6 +53,11 @@ Caro valdžia Katalikų bažnyčią priskyrė „lenkų pradams“, bet dėl tar
 - t-003
   global_id: t-116728
   teiginys: 'XIII-XIV a. Lietuvoje vyko karas prieš Kryžiuočių ordino, Vakarų Europos feodalų ir Katalikų Bažnyčios agresiją.'
+  sudarymo_pagrindimas: 'Reikia aiškesnio faktinio predikato apie note objektą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_person: [[objektai/asmenys/Vygandas|Vygandas]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Prūsai; mentioned_place: Prūsija'
+  temporaliniai_duomenys: 'įvykio data: iki 1330 m.; įvykio data: 1330 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia aiškesnio faktinio predikato apie note objektą.'
   pagrindžia:
     - c-015
 
@@ -54,6 +65,11 @@ Caro valdžia Katalikų bažnyčią priskyrė „lenkų pradams“, bet dėl tar
 - t-004
   global_id: t-116729
   teiginys: 'Bažnyčios su dviem grakščiais skirtingai dekoruotų tarpsnių bokštais žymėjo rytinę katalikybės ir Vidurio Europos ribą.'
+  sudarymo_pagrindimas: 'Citata palaiko tikslesnį sakinį su svarbia architektūrine detale.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Vidurio Europa|Vidurio Europa]]; mentioned_place: Bokštai; mentioned_place: Europa; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1737-1767; įvykio data: 1767 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko tikslesnį sakinį su svarbia architektūrine detale.'
   pagrindžia:
     - c-003
 
@@ -61,6 +77,11 @@ Caro valdžia Katalikų bažnyčią priskyrė „lenkų pradams“, bet dėl tar
 - t-005
   global_id: t-116730
   teiginys: 'Lietuvos katalikai ir Vilniaus vyskupas Valerijonas Protasevičius siekė užbėgti už akių protestantų ketinimui įkurti kolegiją.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Protestantai|Protestantai]]; mentioned_object: [[objektai/zodynas/reformacija|reformacija]]; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]; mentioned_person: [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1569 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citata.'
   pagrindžia:
     - c-011
 
@@ -68,6 +89,7 @@ Caro valdžia Katalikų bažnyčią priskyrė „lenkų pradams“, bet dėl tar
 - t-006
   global_id: t-116731
   teiginys: 'Vytauto bažnytinėje politikoje bandyta steigti atskirą Lietuvos katalikų bažnyčios provinciją.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Florencijos bažnytinė unija|Florencijos bažnytinė unija]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_object: [[objektai/zodynas/metropolija|metropolija]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Florencija; mentioned_place: Lietuva'
   pagrindžia:
     - c-018
 
@@ -75,6 +97,8 @@ Caro valdžia Katalikų bažnyčią priskyrė „lenkų pradams“, bet dėl tar
 - t-007
   global_id: t-116732
   teiginys: 'Testamente pareikšta ištikimybė Katalikų Bažnyčiai ir Romos tikėjimui, priimant išpažinties, Eucharistijos ir patepimo sakramentus.'
+  sudarymo_pagrindimas: 'Dokumento fragmentas perrašytas į užbaigtą teiginį apie Katalikų Bažnyčią.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-006
 
@@ -82,6 +106,11 @@ Caro valdžia Katalikų bažnyčią priskyrė „lenkų pradams“, bet dėl tar
 - t-008
   global_id: t-116733
   teiginys: 'Nuo 1387 m. LDK buvo katalikiška, tačiau apie 1500 m. joje veikė šešios Kijevo metropolijai pavaldžios stačiatikių vyskupijos.'
+  sudarymo_pagrindimas: 'Citata palaiko tikslesnį sakinį su vyskupijų pavaldumu Kijevo metropolijai.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_object: [[objektai/zodynas/metropolija|metropolija]]; mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_place: Kijevas; mentioned_place: Lenkija; mentioned_place: Naugardukas; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: po 1387 m.; įvykio data: 1387 m.; įvykio data: 1500 m.; įvykio data: apie 1500 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko tikslesnį sakinį su vyskupijų pavaldumu Kijevo metropolijai.'
   pagrindžia:
     - c-016
 
@@ -89,6 +118,11 @@ Caro valdžia Katalikų bažnyčią priskyrė „lenkų pradams“, bet dėl tar
 - t-009
   global_id: t-116734
   teiginys: 'Lietuvos didikai reformacijos antruoju etapu rinkosi kalvinizmą, siekdami silpninti didžiojo kunigaikščio valdžią ir Katalikų bažnyčios įtaką.'
+  sudarymo_pagrindimas: 'Pradinis teiginys per ilgas; citata leidžia jį sutrumpinti į aiškesnį enciklopedinį sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuvos didikai|Lietuvos didikai]]; mentioned_group: [[objektai/grupes/Protestantai|Protestantai]]; mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_object: [[objektai/zodynas/protestantizmas|protestantizmas]]; mentioned_object: [[objektai/zodynas/reformacija|reformacija]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Abraomas Kulvietis|Abraomas Kulvietis]]; mentioned_person: [[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]]; mentioned_person: [[objektai/asmenys/Mikalojus Radvila Juodasis|Mikalojus Radvila Juodasis]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1563 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys per ilgas; citata leidžia jį sutrumpinti į aiškesnį enciklopedinį sakinį.'
   pagrindžia:
     - c-014
 
@@ -96,6 +130,11 @@ Caro valdžia Katalikų bažnyčią priskyrė „lenkų pradams“, bet dėl tar
 - t-010
   global_id: t-116735
   teiginys: '1417 m. gegužės 13 d. popiežius Martynas V pavedė Vytautui ir Jogailai kurti bažnyčias, globoti kunigiją ir ginti tikėjimą Lietuvoje ir Rusijoje.'
+  sudarymo_pagrindimas: 'Pašalintas fragmentiškumas ir OCR triukšmas, suformuluotas pilnas faktinis sakinys.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Martynas V|Martynas V]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Lietuva; mentioned_place: Naugardas; mentioned_place: Pskovas; mentioned_place: Rusija'
+  temporaliniai_duomenys: 'įvykio data: 1417 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas fragmentiškumas ir OCR triukšmas, suformuluotas pilnas faktinis sakinys.'
   pagrindžia:
     - c-005
 
@@ -103,6 +142,7 @@ Caro valdžia Katalikų bažnyčią priskyrė „lenkų pradams“, bet dėl tar
 - t-011
   global_id: t-116736
   teiginys: 'Vilniaus vyskupas Povilas tyrė Abraomo Kulviečio mokymą, kurį laikė Romos katalikų Bažnyčios pasmerktu.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Abraomas|Abraomas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-007
 
@@ -110,6 +150,8 @@ Caro valdžia Katalikų bažnyčią priskyrė „lenkų pradams“, bet dėl tar
 - t-012
   global_id: t-116737
   teiginys: 'Vyskupas Valerijonas atsisakė priesaika įsipareigoti sąlygoms, kurios prieštaravo katalikų tikėjimui.'
+  sudarymo_pagrindimas: 'Citata pagrindžia aiškų faktą apie vyskupo atsisakymą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/dominija|dominija]]; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]'
   pagrindžia:
     - c-017
 
@@ -117,6 +159,8 @@ Caro valdžia Katalikų bažnyčią priskyrė „lenkų pradams“, bet dėl tar
 - t-013
   global_id: t-116738
   teiginys: 'Lietuva buvo vienintelė prie Sovietų Sąjungos prijungta katalikiška šalis, todėl sovietų valdžiai katalikybė siejosi su nepageidaujamu vakarietiškumu.'
+  sudarymo_pagrindimas: 'Citata palaiko turiningesnį sakinį, paaiškinantį Katalikų bažnyčios padėtį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/vakarietiškumas|vakarietiškumas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -124,6 +168,11 @@ Caro valdžia Katalikų bažnyčią priskyrė „lenkų pradams“, bet dėl tar
 - t-014
   global_id: t-116739
   teiginys: 'Sovietų valdžia siekė pakirsti katalikų dvasininkijos autoritetą, trukdė jaunuoliams mokytis kunigų seminarijoje.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie sovietų valdžios veiksmus prieš katalikų dvasininkiją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija|Vilniaus vyskupijos klierikų kolegija]]; mentioned_place: Telšiai; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1946 m.; įvykio data: 1962 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie sovietų valdžios veiksmus prieš katalikų dvasininkiją.'
   pagrindžia:
     - c-013
 
@@ -131,6 +180,8 @@ Caro valdžia Katalikų bažnyčią priskyrė „lenkų pradams“, bet dėl tar
 - t-015
   global_id: t-116740
   teiginys: 'Vilniaus vyskupas Povilas teigė, kad Abraomas iš Kulvos nesilaikė vienybės su Romos katalikų Bažnyčia ir klaidino kitus.'
+  sudarymo_pagrindimas: 'Pašalintas dokumento boilerplate ir paliktas citata paremtas faktas.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Abraomas|Abraomas]]; mentioned_person: [[objektai/asmenys/Abraomas Kulvietis|Abraomas Kulvietis]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-007
 
@@ -138,6 +189,7 @@ Caro valdžia Katalikų bažnyčią priskyrė „lenkų pradams“, bet dėl tar
 - t-016
   global_id: t-116741
   teiginys: 'Mindaugas iš kunigo Kristijono sužinojo apie Katalikų Bažnyčios organizaciją ir popiežiaus santykius su Europos valdovais.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Europa; mentioned_place: Livonija'
   pagrindžia:
     - c-001
 
@@ -145,6 +197,8 @@ Caro valdžia Katalikų bažnyčią priskyrė „lenkų pradams“, bet dėl tar
 - t-017
   global_id: t-116742
   teiginys: 'Valdžios diskriminacinės priemonės prieš Katalikų bažnyčią prisidėjo prie lietuviškos kirilikos boikoto.'
+  sudarymo_pagrindimas: 'Pradinis teiginys yra hipotetinis ir pernelyg ilgas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kirilika|kirilika]]'
   pagrindžia:
     - c-012
 
@@ -152,6 +206,7 @@ Caro valdžia Katalikų bažnyčią priskyrė „lenkų pradams“, bet dėl tar
 - t-018
   global_id: t-116743
   teiginys: 'Valerijonas atsisakė priesaika įsipareigoti sąlygoms, kurios prieštaravo katalikų tikėjimui.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]'
   pagrindžia:
     - c-008
 
@@ -159,6 +214,8 @@ Caro valdžia Katalikų bažnyčią priskyrė „lenkų pradams“, bet dėl tar
 - t-019
   global_id: t-116744
   teiginys: 'Mindaugas iš Livonijos ordino kunigo Kristijono gavo žinių apie Katalikų bažnyčios organizaciją ir popiežiaus santykius su Europos valdovais.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai sieja Mindaugą su Katalikų bažnyčios organizacijos pažinimu.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Europa; mentioned_place: Livonija'
   pagrindžia:
     - c-001
 
@@ -166,6 +223,11 @@ Caro valdžia Katalikų bažnyčią priskyrė „lenkų pradams“, bet dėl tar
 - t-020
   global_id: t-116745
   teiginys: '„Kronika“ tapo Katalikų bažnyčios pasipriešinimo sovietų valdžiai simboliu.'
+  sudarymo_pagrindimas: 'Veiksmažodis „tapo“ enciklopediniam teiginiui tinka geriau nei „virto“.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kulto laisvė|kulto laisvė]]; mentioned_person: [[objektai/asmenys/Alfonsas (Kastilijos karalius)|Alfonsas (Kastilijos karalius)]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas Kauneckas|Jonas Kauneckas]]; mentioned_person: [[objektai/asmenys/Juozas Zdebskis|Juozas Zdebskis]]; mentioned_place: Lietuva; mentioned_place: Maskva'
+  temporaliniai_duomenys: 'įvykio data: 1978 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Veiksmažodis „tapo“ enciklopediniam teiginiui tinka geriau nei „virto“.'
   pagrindžia:
     - c-010
 
@@ -173,9 +235,24 @@ Caro valdžia Katalikų bažnyčią priskyrė „lenkų pradams“, bet dėl tar
 - t-021
   global_id: t-182895
   teiginys: 'Katalikų Bažnyčia Vakaruose pradėjo kovą su protestantizmu.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis teiginys turėjo neaiškų įvardį ir kontekstinę pradžią; citata leidžia įvardyti protestantizmą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/protestantizmas|protestantizmas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-019
-
+- susijęs iš [[objektai/asmenys/Gregorijus Cemblakas.md#claim-t-93283|Gregorijus Cemblakas]]: Gregorijus Cemblakas buvo numatytas Focijaus vieton ir laikytas unijos su Katalikų Bažnyčia šalininku.
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176632|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Po Žalgirio mūšio atsirado Vytauto funduotų bažnyčių ir vienuolynų, o 1413 m. buvo apkrikštyta Žemaitija.
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176636|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Po Žalgirio mūšio Vytautas fundavo bažnyčias ir vienuolynus, o 1413 m. buvo apkrikštyta Žemaitija.
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176644|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1413 m. Vytautas su Jogaila pradėjo krikštyti žemaičius.
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176676|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1413 m. Vytautas su Jogaila pradėjo krikštyti žemaičius.
+- susijęs iš [[objektai/autoriai/A. Alekna.md#claim-t-64506|A. Alekna]]: A. Alekna parašė „Katalikų Bažnyčia Lietuvoje“, išleistą Kaune 1936 m.
+- susijęs iš [[objektai/grupes/Stačiatikiai.md#claim-t-183185|Stačiatikiai]]: 1418 m. Vytautas į Konstancą pasiuntė G. Camblako stačiatikių delegaciją, turėjusią pagrįsti unijos su Katalikų bažnyčia siekį.
+- susijęs iš [[objektai/ivykiai/Žemaičių krikštas ir Žemaičių vyskupijos įsteigimas.md#claim-t-186620|Žemaičių krikštas ir Žemaičių vyskupijos įsteigimas (krikštas, XV a.)]]: Po Žalgirio mūšio 1413 m. buvo apkrikštyta Žemaitija, o 1417 m. įsteigta Žemaičių vyskupija.
+- susijęs iš Žemaitija: Po Žalgirio mūšio Žemaitija buvo apkrikštyta 1413 m., o 1417 m. įsteigta Žemaičių vyskupija.
+- susijęs iš [[objektai/zodynas/metropolija bažnytinė provincija bažnytinė unija.md#claim-t-22229|metropolija bažnytinė provincija bažnytinė unija (unija)]]: Po Žalgirio mūšio Lietuvoje bandyta steigti katalikų bažnytinę provinciją ir stačiatikių metropoliją ar vyskupiją sujungti su Katalikų bažnyčia.
+- susijęs iš [[objektai/zodynas/metropolija bažnytinė provincija.md#claim-t-22230|metropolija bažnytinė provincija]]: Po Žalgirio mūšio Lietuvoje bandyta steigti atskirą katalikų bažnytinę provinciją.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -553,69 +630,3 @@ Caro valdžia Katalikų bažnyčią priskyrė „lenkų pradams“, bet dėl tar
   statusas: verified
   pagrindžia:
     - t-021
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Gregorijus Cemblakas]]
-- [[objektai/zodynas/metropolija bažnytinė provincija]]
-- [[objektai/zodynas/metropolija bažnytinė provincija bažnytinė unija|metropolija bažnytinė provincija bažnytinė unija (unija)]]
-- [[objektai/asmenys/Abraomas]]
-- [[objektai/asmenys/Abraomas Kulvietis]]
-- [[objektai/asmenys/Alfonsas (Kastilijos karalius)]]
-- [[objektai/daiktai/Antspaudas]]
-- [[objektai/grupes/Baltai]]
-- [[objektai/autoriai/Dusburgas]]
-- [[objektai/ivykiai/Florencijos bažnytinė unija|Florencijos bažnytinė unija (unija)]]
-- [[objektai/asmenys/Jonas]]
-- [[objektai/asmenys/Jonas Kauneckas]]
-- [[objektai/asmenys/Juozas Zdebskis|Juozas Zdebskis (kunigas)]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Martynas iš Golino]]
-- [[objektai/asmenys/Mikalojus Radvila]]
-- [[objektai/asmenys/Mikalojus Radvila Juodasis]]
-- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
-- [[objektai/daiktai/Namas]]
-- [[objektai/grupes/Protestantai]]
-- [[objektai/asmenys/Radvila]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/grupes/Rusėnai]]
-- [[objektai/grupes/Stačiatikiai]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/asmenys/Valerijonas (raštininkas)]]
-- [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius (vyskupas)]]
-- [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/asmenys/Vygandas]]
-- [[objektai/zodynas/dominija]]
-- [[objektai/zodynas/kulto laisvė]]
-- [[objektai/zodynas/kunigas]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/metropolija]]
-- [[objektai/zodynas/metropolitas]]
-- [[objektai/zodynas/pradai]]
-- [[objektai/zodynas/protestantizmas]]
-- [[objektai/zodynas/reformacija]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/unija]]
-- [[objektai/zodynas/vaivada]]
-- [[objektai/autoriai/A. Alekna]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/ivykiai/Žemaičių krikštas ir Žemaičių vyskupijos įsteigimas|Žemaičių krikštas ir Žemaičių vyskupijos įsteigimas (krikštas, XV a.)]]
-- [[objektai/asmenys/Kristijonas]]
-- [[objektai/grupes/Lietuvos didikai]]
-- [[objektai/asmenys/Martynas V]]
-- [[objektai/zodynas/kirilika]]
-- [[objektai/asmenys/Alfonsas Svarinskas]]
-- [[objektai/asmenys/Andrius Štirlandas]]
-- [[objektai/autoriai/Henrikas Latvis]]
-- [[objektai/autoriai/Hermanas iš Vartbergės]]
-- [[objektai/asmenys/Jonas Kristupas Glaubicas]]
-- [[objektai/autoriai/Petras Dusburgietis]]
-- [[objektai/autoriai/Sigitas Tamkevičius]]
-- [[objektai/grupes/Tikinčiųjų teisių gynimo komitetas|Tikinčiųjų teisių gynimo komitetas (institucija)]]
-- [[objektai/ivykiai/Tikinčiųjų teisių gynimo komiteto įkūrimas ir paskelbimas (1978 m. lapkričio 13–22 d.)]]
-- [[objektai/asmenys/Vincentas Vėlavičius|Vincentas Vėlavičius (kunigas)]]
-- [[objektai/autoriai/Vygandas iš Marburgo]]
-- [[objektai/ivykiai/Vytauto ir Jogailos paskyrimas popiežiaus Martyno V vikariais Lietuvai ir Rusijai (1417 m. gegužės 13 d.)]]

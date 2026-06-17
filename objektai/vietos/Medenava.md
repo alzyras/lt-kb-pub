@@ -21,9 +21,14 @@ Dusburgietis teigia, kad tada karalius įsibrovė į Sembą su savo kariuomene n
 - t-001
   global_id: t-58593
   teiginys: 'Medenava buvo to paties vardo valsčiaus centras pietvakarių Semboje.'
+  sudarymo_pagrindimas: 'Citata palaiko trumpą faktą apie Medenavos vietą ir administracinį vaidmenį.'
+  susije_objektai: 'mentioned_place: Rudava; mentioned_place: Semba'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Gedūnas.md#claim-t-60016|Gedūnas]]: Gedūnas buvo senas vyras iš Kandeimu vadinamos šakos, Visigaudo iš Medenavos tėvas, gerai žinojęs Sembos karių galią.
+- susijęs iš [[objektai/ivykiai/Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.).md#claim-t-66807|Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.)]]: Čekijos karalius su kariuomene įsiveržė į Sembą prie Medenavos, degino vietovę, ėmė žmones į nelaisvę ir juos žudė.
+- susijęs iš Rudava: Rudavos valsčiuje po stipraus puolimo buvo užimta pilis, o daug sembų išžudyta.
+- susijęs iš Rudava: Rudava buvo valsčius Semboje, kurio centras buvo Rudavos pilis į šiaurę nuo dabartinio Kaliningrado.
 ## Reikšmingi paminėjimai
 
 - c-001

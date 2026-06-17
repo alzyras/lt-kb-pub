@@ -3,6 +3,10 @@ tipas: grupe
 pavadinimas: 'Tautų Sąjungos kontrolės komisija'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+datos:
+  - '1920 m.'
+date_start: '1920'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -10,6 +14,8 @@ tags:
   - karas
   - kunigaikštis
   - tauta
+amziai:
+  - 'XX'
 ---
 # Tautų Sąjungos kontrolės komisija
 
@@ -23,9 +29,15 @@ Lapkričio 21 d. į frontą atvykusi Tautų Sąjungos kontrolės komisija pareik
 - t-001
   global_id: t-41161
   teiginys: 'Lapkričio 21 d. į frontą atvykusi Tautų Sąjungos kontrolės komisija pareikalavo nutraukti karo veiksmus.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai pagrįstas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Giedraičiai; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1920 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai pagrįstas citata.'
   pagrindžia:
     - c-001
-
+- susijęs iš Videniškis: 9-ojo pulko batalionas turėjo iš Videniškio pulti Giedraičių kryptimi ir paremti 2-ojo pulko puolimą.
+- susijęs iš Želva: 1919 m. lapkričio 19 d. 2-ajam pulkui nurodyta susitelkti Želvoje, pulti Giedraičių kryptimi ir užėmus Giedraičius stumtis kuo toliau.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -49,9 +61,3 @@ Lapkričio 21 d. į frontą atvykusi Tautų Sąjungos kontrolės komisija pareik
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]

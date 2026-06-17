@@ -29,6 +29,9 @@ Jatulis.
 - t-001
   global_id: t-31029
   teiginys: 'V. Jatulis redagavo 1964-1975 m. Romoje leistus „Monumenta Ucrainae Historica“ tomus.'
+  susije_objektai: 'mentioned_place: Roma'
+  temporaliniai_duomenys: 'įvykio data: 1964-1975; įvykio data: 1975 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

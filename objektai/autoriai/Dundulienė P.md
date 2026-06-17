@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Dundulienės darbas cituojamas teiginiui, kad balti ir juodi Perkūno žirgai buvo žinomi, o tokio plauko žirgai ypatingai gerbti. Dundulienės P. darbas „Medžiai“ minimas bibliografijoje apie Romovę arba Romuvą.
+Dusburgietis teigia, kad 34, p. 112; Pašuta V., Lietuvos..., p. 108; Jurginis J., Legendos..., p 90—97; [Powierski J.] Nadrowia, p. 342; to paties, Stosunki..., p. 89; Rybelis A., Senoji..., p. 50; Dundulienė P., Medžiai..., p. 62—63, 88; Vėlius N., Senovės baltų..., p. 221—223, 234. Dusburgietis teigia, kad žinomi balti ir juodi Perkūno žirgai, šio plauko žirgai buvę ypatingai gerbiami (Dundulienė P., Arklys..., p. 83—101).
 
 ## Teiginiai
 
@@ -23,6 +23,8 @@ Dundulienės darbas cituojamas teiginiui, kad balti ir juodi Perkūno žirgai bu
 - t-001
   global_id: t-64573
   teiginys: 'Dundulienės darbas cituojamas teiginiui, kad balti ir juodi Perkūno žirgai buvo žinomi, o tokio plauko žirgai ypatingai gerbti.'
+  sudarymo_pagrindimas: 'Citata remia nuorodą į Dundulienės darbą, bet pradinė formuluotė klaidingai priskiria teiginį Dusburgiečiui.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/asmenys/Pipinas|Pipinas]]'
   pagrindžia:
     - c-002
 
@@ -30,6 +32,8 @@ Dundulienės darbas cituojamas teiginiui, kad balti ir juodi Perkūno žirgai bu
 - t-002
   global_id: t-64574
   teiginys: 'Dundulienės P. darbas „Medžiai“ minimas bibliografijoje apie Romovę arba Romuvą.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir paremtas bibliografine nuoroda į Dundulienės darbą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_place: Romuva'
   pagrindžia:
     - c-001
 
@@ -65,12 +69,3 @@ Dundulienės darbas cituojamas teiginiui, kad balti ir juodi Perkūno žirgai bu
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/bibliografija]]
-- [[temos/ežeras]]
-
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/daiktai/Žirgai]]

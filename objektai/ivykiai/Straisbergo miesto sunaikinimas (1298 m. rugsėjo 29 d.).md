@@ -45,6 +45,12 @@ Nenurodyta
 - t-001
   global_id: t-62484
   teiginys: '1298 m. rugsėjo 29 d. 140 Lietuvos vyrų netikėtai užpuolė Straisbergą, išžudė gyventojus ir paėmė į nelaisvę moteris bei vaikus.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Citata palaiko faktą, bet pradinis teiginys nutrūkęs ir negramatiškas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Kulmas; mentioned_place: Lietuva; mentioned_place: Straisbergas; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1298 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko faktą, bet pradinis teiginys nutrūkęs ir negramatiškas.'
   pagrindžia:
     - c-001
 
@@ -73,10 +79,3 @@ Nenurodyta
   pagrindžia:
     - t-001
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Konradas]]
-- [[objektai/zodynas/ginklanešiai]]
-- [[objektai/asmenys/Konradas Žakas]]
-- [[objektai/daiktai/Krikšto vandens indas|Krikšto vandens indas (krikštas, XIII a.)]]

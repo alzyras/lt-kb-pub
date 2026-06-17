@@ -23,6 +23,9 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
 - t-001
   global_id: t-62983
   teiginys: 'Brunsbergo miestiečiai ir pilėnai priešams priešinosi užversdami pilies ir miesto prieigas vežimais bei kitais mediniais daiktais.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Pašalinta perteklinė autorinė įžanga ir sakinys sutrumpintas iki aiškaus fakto.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vežimai|Vežimai]]; mentioned_place: Brunsbergas; mentioned_place: Pilėnai'
   pagrindžia:
     - c-001
 
@@ -30,10 +33,13 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
 - t-002
   global_id: t-62984
   teiginys: 'Brunsbergo miestiečiai ir pilėnai, išsigandę antpuolio, sudegino pilį bei miestą ir pasitraukė su šeimynomis.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Citata leidžia suformuluoti aiškų veiksmą ir rezultatą.'
+  susije_objektai: 'mentioned_place: Brunsbergas; mentioned_place: Elbingas'
   pagrindžia:
     - c-002
     - c-003
-
+- susijęs iš [[objektai/zodynas/pilėnas pilėnai.md#claim-t-58805|pilėnas pilėnai]]: Brunsbergo miestiečiai ir pilėnai gynė pilį bei miestą, užversdami galimas priešo įsibrovimo vietas vežimais ir mediniais daiktais.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -79,9 +85,3 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Vežimai]]
-- [[objektai/zodynas/pilėnas pilėnai]]
-- [[objektai/paprociai/Pilies sudeginimas pasitraukiant dėl nebeišlaikomos gynybos|Pilies sudeginimas pasitraukiant dėl nebeišlaikomos gynybos (pilis)]]

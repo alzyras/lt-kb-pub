@@ -14,6 +14,7 @@ tags:
   - kunigaikštis
   - miestas
   - vieta
+  - vyskupas
 amziai:
   - 'XVI'
 ---
@@ -29,9 +30,11 @@ Kai kurias Žygimantų bibliotekos knygas dar iki šiol su šventa pagarba galim
 - t-001
   global_id: t-86261
   teiginys: 'Vilniaus universiteto bibliotekoje buvo saugomos kai kurios Žygimantų bibliotekos knygos.'
+  sudarymo_pagrindimas: 'Citata palaiko faktą apie knygų buvimą bibliotekoje.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/daiktai/Jono Budrio Polovinsko špaga.md#claim-t-40721|Jono Budrio Polovinsko špaga]]: Jono Budrio Polovinsko špaga buvo siejama su Klaipėdos sukilimo vadu ir Vytauto Didžiojo karo muziejumi.
 ## Reikšmingi paminėjimai
 
 - c-001

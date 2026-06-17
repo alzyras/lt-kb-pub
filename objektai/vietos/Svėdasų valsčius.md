@@ -26,6 +26,11 @@ Svėdasų valsčiuje, Šimonių girioje.
 - t-001
   global_id: t-38560
   teiginys: '1949 m. lapkričio 1–2 d. Svėdasų valsčiuje, Šimonių girioje, MGB vidaus kariuomenė vykdė karines-čekistines operacijas.'
+  sudarymo_pagrindimas: 'Pradiniame teiginyje trūko predikato, bet citata aiškiai nurodo operacijų vietą ir laiką.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Kariauna|Kariauna]]; mentioned_place: Kupiškis; mentioned_place: Svėdasai'
+  temporaliniai_duomenys: 'įvykio data: 1949 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradiniame teiginyje trūko predikato, bet citata aiškiai nurodo operacijų vietą ir laiką.'
   pagrindžia:
     - c-001
 

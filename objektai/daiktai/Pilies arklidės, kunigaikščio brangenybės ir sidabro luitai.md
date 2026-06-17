@@ -5,8 +5,9 @@ saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1399 m.'
+  - '1400 m.'
 date_start: '1399'
-date_end: ''
+date_end: '1400'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -49,6 +50,11 @@ Nenurodyta
 - t-001
   global_id: t-87116
   teiginys: 'Apie 1400 m. gaisras, prasidėjęs kunigaikščio arklidėse pilies kieme, sunaikino beveik visą Vilnių.'
+  sudarymo_pagrindimas: 'Citata leidžia teiginį sutrumpinti ir susieti su arklidėmis bei gaisro padariniais.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1399 m.; įvykio data: 1400 m.; įvykio data: apie 1400 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
+  temporalinis_llm_pakomentavimas: 'Citata leidžia teiginį sutrumpinti ir susieti su arklidėmis bei gaisro padariniais.'
   pagrindžia:
     - c-001
 
@@ -71,10 +77,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/didysis kunigaikštis]]
-- [[objektai/daiktai/Žirgai]]
-- [[objektai/daiktai/Brangenybės, auksas, sidabras ir papuošalai]]
-- [[objektai/grupes/Vilniaus miestiečių luomas]]

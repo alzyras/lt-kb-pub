@@ -18,9 +18,14 @@ Maskvos didikai teigė, kad Suleimano laiškas Vasilijui Vasiljevičiui titulavo
 - t-001
   global_id: t-186258
   teiginys: 'Maskvos didikai teigė, kad Suleimano laiškas Vasilijui Vasiljevičiui titulavo Maskvos didįjį kunigaikštį caru.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata remia tik Maskvos didikų argumentą apie Suleimano laišką.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]; mentioned_place: Maskva'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Vasilijus Vasiljevičius.md#claim-t-184854|Vasilijus Vasiljevičius]]: Maskvos didikai teigė, kad Maksimilijono ir Suleimano laiškai Vasilijui Vasiljevičiui titulavo Maskvos didįjį kunigaikštį caru.
 ## Reikšmingi paminėjimai
 
 - c-001

@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-LDK didikai parėmė evangelikų reformatų tikėjimą, o beveik visi didikai katalikai ir dalis ortodoksų perėjo į kalvinizmą. Lietuvoje formavosi labai gausi Evangelikų reformatų bažnyčia, gerokai stipresnė nei Lenkijoje.
+Tačiau Lietuvoje formavosi labai gausi Evangelikų reformatų bažnyčia, gerokai stipresnė nei Lenkijoje.
 
 ## Teiginiai
 
@@ -23,6 +23,8 @@ LDK didikai parėmė evangelikų reformatų tikėjimą, o beveik visi didikai ka
 - t-001
   global_id: t-19690
   teiginys: 'LDK didikai parėmė evangelikų reformatų tikėjimą, o beveik visi didikai katalikai ir dalis ortodoksų perėjo į kalvinizmą.'
+  sudarymo_pagrindimas: 'Patikslinta pagal citatą ir išlaikytas ryšys su Evangelikų reformatų bažnyčia.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/LDK didikai|LDK didikai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -30,6 +32,11 @@ LDK didikai parėmė evangelikų reformatų tikėjimą, o beveik visi didikai ka
 - t-002
   global_id: t-183128
   teiginys: 'Lietuvoje formavosi labai gausi Evangelikų reformatų bažnyčia, gerokai stipresnė nei Lenkijoje.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/LDK didikai|LDK didikai]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -51,8 +58,3 @@ LDK didikai parėmė evangelikų reformatų tikėjimą, o beveik visi didikai ka
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/LDK didikai]]
-- [[objektai/grupes/Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai]]

@@ -18,9 +18,16 @@ Kojelavičius Liboną vadina laivyno legatu ir Pompėjaus partijos šalininku.
 - t-001
   global_id: t-186140
   teiginys: 'Kojelavičius Liboną vadina laivyno legatu ir Pompėjaus partijos šalininku.'
+  teiginio_tipas: 'saltinio_teiginys'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata leidžia teigti tik apie autoriaus pateiktą Libono apibūdinimą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Živinbudas|Živinbudas]]'
   pagrindžia:
     - c-001
-
+- susijęs iš Italija: Palemono legenda teigė, kad Publijas Libonas iš Italijos atbėgo į Lietuvą ir ten sukūrė valstybę.
+- susijęs iš Italija: Pasakojime romėnų karvedys Publijas Libonas iš Italijos atbėgo į Lietuvą ir čia sukūrė valstybę.
+- susijęs iš [[objektai/zodynas/romėniškoji kilmė.md#claim-t-74036|romėniškoji kilmė]]: Romėniškosios kilmės teorijoje teigta, kad Publijas Libonas iš Italijos atbėgo į Lietuvą ir čia sukūrė valstybę.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -54,7 +61,3 @@ Kojelavičius Liboną vadina laivyno legatu ir Pompėjaus partijos šalininku.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/romėniškoji kilmė]]

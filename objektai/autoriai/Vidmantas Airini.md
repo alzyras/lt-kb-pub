@@ -21,6 +21,7 @@ p. 88, „ALEBARDOS“, Paulius Bugys, Vidmantas Airini, Karolis Zikaras. p. 89,
 - t-001
   global_id: t-40674
   teiginys: 'Vidmantas Airini buvo vienas teksto „Alebardos“ autorių.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_person: [[objektai/autoriai/Karolis Zikaras|Karolis Zikaras]]'
   pagrindžia:
     - c-001
 
@@ -28,6 +29,7 @@ p. 88, „ALEBARDOS“, Paulius Bugys, Vidmantas Airini, Karolis Zikaras. p. 89,
 - t-002
   global_id: t-40675
   teiginys: 'Vidmantas Airini buvo teksto „Rapyros“ autorius.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/Andžej Geglis|Andžej Geglis]]'
   pagrindžia:
     - c-002
 

@@ -4,9 +4,10 @@ pavadinimas: 'Korševas'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
+  - '1357 m.'
   - '1363 m.'
-date_start: '1363'
-date_end: ''
+date_start: '1357'
+date_end: '1363'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -14,6 +15,7 @@ tags:
   - miestas
   - ordinas
   - upė
+  - vieta
 amziai:
   - 'XIV'
 ---
@@ -29,9 +31,14 @@ nežinomi didesni Lietuvos puolituose 1363 m. „Lietuva paėmė Korševą“ - 
 - t-001
   global_id: t-41799
   teiginys: '1363 m. Lietuva paėmė Korševą, miestą prie Sosnos upės, dešiniojo Dono intako.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Donas; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1357 m.; įvykio data: 1363 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
   pagrindžia:
     - c-001
-
+- susijęs iš Sosnos upė: Korševas buvo miestas prie Sosnos upės, dešiniojo Dono intako, netoli totorių stepių valdų.
 ## Reikšmingi paminėjimai
 
 - c-001

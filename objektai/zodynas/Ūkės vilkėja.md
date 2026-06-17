@@ -27,6 +27,8 @@ Vartojamos formos: `ūkės vilkėjomis`.
 - t-001
   global_id: t-07652
   teiginys: 'Ūkės vilkėja siejama su didžios gaspadinės vardu ir tokiais darbais kaip sėjimas, arimas, šieno pjovimas bei javų valymas.'
+  sudarymo_pagrindimas: 'Citata pagrindžia vaidmens ir darbų sąsają, bet ne bendruomeninio garbingumo apibendrinimą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Gaspadinė|Gaspadinė]]'
   pagrindžia:
     - c-002
 
@@ -34,9 +36,11 @@ Vartojamos formos: `ūkės vilkėjomis`.
 - t-002
   global_id: t-07653
   teiginys: 'Ūkės vilkėjomis vadintos merginos ar moterys, siejamos su gaspadinės vardu, lauko darbais ir rūtos auginimu.'
+  sudarymo_pagrindimas: 'Citatos leidžia suformuluoti aiškesnį, šaltiniu paremtą apibūdinimą be neparemto namų darbų aiškinimo.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Gaspadinė|Gaspadinė]]'
   pagrindžia:
-    - c-002
     - c-001
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -60,7 +64,3 @@ Vartojamos formos: `ūkės vilkėjomis`.
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Gaspadinė|gaspadinė]]

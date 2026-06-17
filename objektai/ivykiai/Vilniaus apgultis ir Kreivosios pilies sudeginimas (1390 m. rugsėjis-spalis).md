@@ -18,7 +18,7 @@ amziai:
 
 ## Santrauka
 
-Mikalojus Moskoževskis penkias savaites atrėmė apgulėjų antpuolius Aukštutinės pilies gynyboje. 1390 m. žygiui į Vilnių vadovavo Ordino maršalas Engelhardas Rabė, o į parengtį Prūsijoje atvyko savanoriai iš Anglijos ir Prancūzijos. Per 1390 m. Vilniaus apgultį žuvo daug gyventojų, miestas buvo beveik sunaikintas, Kreivoji pilis sudeginta, o Aukštutinė tvirtovė susilpninta.
+1390 m. rugsėjį kryžiuočių, užsienio riterių ir Vytauto pajėgos apsupo Vilnių. Po puolimo sudegė Kreivoji, arba Žemutinė, pilis, o Aukštutinę pilį penkias savaites gynė Mikalojus Moskoževskis; pasakojime apgultis vaizduojama kaip sunkus smūgis Lietuvos sostinei.
 
 ## Laikotarpis ir datos
 
@@ -49,6 +49,8 @@ Kreivoji pilis sudegė, dalis gyventojų žuvo ar išsibėgiojo, o Aukštutinė 
 - t-001
   global_id: t-54710
   teiginys: 'Mikalojus Moskoževskis penkias savaites atrėmė apgulėjų antpuolius Aukštutinės pilies gynyboje.'
+  sudarymo_pagrindimas: 'Citata pagrindžia atkirtį penkias savaites, bet ne tiesiogiai formalų vadovavimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Mikalojus Moskoževskis|Mikalojus Moskoževskis]]'
   pagrindžia:
     - c-002
 
@@ -56,6 +58,9 @@ Kreivoji pilis sudegė, dalis gyventojų žuvo ar išsibėgiojo, o Aukštutinė 
 - t-002
   global_id: t-54711
   teiginys: '1390 m. žygiui į Vilnių vadovavo Ordino maršalas Engelhardas Rabė, o į parengtį Prūsijoje atvyko savanoriai iš Anglijos ir Prancūzijos.'
+  susije_objektai: 'location: Anglija; location: Lietuva; location: Prancūzija; location: Prūsija; location: Vilnius; mentioned_group: [[objektai/grupes/Anglai|Anglai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Anglija; mentioned_place: Lietuva; mentioned_place: Prancūzija; mentioned_place: Prūsija; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'kelionės data: 1390 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Konradas keliavo į Anglija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Konradas keliavo į Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Konradas keliavo į Prancūzija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Konradas keliavo į Prūsija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Konradas keliavo į Vilnius“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -63,6 +68,11 @@ Kreivoji pilis sudegė, dalis gyventojų žuvo ar išsibėgiojo, o Aukštutinė 
 - t-003
   global_id: t-54712
   teiginys: 'Per 1390 m. Vilniaus apgultį žuvo daug gyventojų, miestas buvo beveik sunaikintas, Kreivoji pilis sudeginta, o Aukštutinė tvirtovė susilpninta.'
+  sudarymo_pagrindimas: 'Reikia pašalinti perteklinį vertinamąjį įvadą ir aiškiai įvardyti įvykį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/autoriai/Ignacas Onacevičius|Ignacas Onacevičius]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1390 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia pašalinti perteklinį vertinamąjį įvadą ir aiškiai įvardyti įvykį.'
   pagrindžia:
     - c-003
 
@@ -129,18 +139,3 @@ Kreivoji pilis sudegė, dalis gyventojų žuvo ar išsibėgiojo, o Aukštutinė 
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Anglai]]
-- [[objektai/autoriai/Ignacas Onacevičius]]
-- [[objektai/asmenys/Konradas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/zodynas/didysis magistras]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/maršalas]]
-- [[objektai/zodynas/pagonybė]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/asmenys/Mikalojus Moskoževskis]]
-- [[objektai/grupes/Vilniaus gyventojai]]

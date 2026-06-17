@@ -4,9 +4,13 @@ pavadinimas: 'Vytauto ir Julijonos karūnos'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
+  - '1426 m.'
+  - '1427 m.'
+  - '1428 m.'
+  - '1429 m.'
   - '1934 m.'
-date_start: '1934'
-date_end: ''
+date_start: '1426'
+date_end: '1934'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -15,13 +19,14 @@ tags:
   - ordinas
   - valdovas
 amziai:
+  - 'XV'
   - 'XX'
 ---
 # Vytauto ir Julijonos karūnos
 
 ## Santrauka
 
-Vytauto karūna laikyta būtina sąlyga Lietuvos karalystės siekiui įgyvendinti. Niurnbergo auksakaliai buvo pagaminę karūnas Vytautui ir jo žmonai Julijonai. Lucko suvažiavimas į Lietuvos istoriją įėjo dėl Vytauto vainikavimo plano, kurį rėmė Zigmantas I ir Vokiečių ordinas.
+Atrodė, jog trūksta tik karūnos, kad ir antrasis Vytauto politikos prioritetas – Lietuvos karalystė – būtų pasiektas. Lucko suvažiavimas rodė LDK ir Vytauto vaidmens svarbą regione, o į Lietuvos istoriją įėjo pirmiausia dėl Vytauto vainikavimo plano, kurį rėmė Zigmantas I ir Vokiečių ordinas, siekdamas sukurti regione atsvarą Lenkijai. Lucko suvažiavimas logiškai užbaigė sudėtingą Vytauto politinį kelią, numatytą XIV a.
 
 ## Pavadinimai šaltiniuose
 
@@ -49,6 +54,11 @@ Nenurodyta
 - t-001
   global_id: t-19612
   teiginys: 'Vytauto karūna laikyta būtina sąlyga Lietuvos karalystės siekiui įgyvendinti.'
+  sudarymo_pagrindimas: 'Citata remia mintį, bet trumpesnė formuluotė tiksliau perteikia šaltinio teiginį.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Bazilius (Vasilius) II|Bazilius (Vasilius) II]]; mentioned_place: Didysis Naugardas; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Naugardas; mentioned_place: Pskovas'
+  temporaliniai_duomenys: 'įvykio data: 1426 m.; įvykio data: 1427 m.; įvykio data: 1428 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata remia mintį, bet trumpesnė formuluotė tiksliau perteikia šaltinio teiginį.'
   pagrindžia:
     - c-001
 
@@ -56,6 +66,8 @@ Nenurodyta
 - t-002
   global_id: t-19613
   teiginys: 'Niurnbergo auksakaliai buvo pagaminę karūnas Vytautui ir jo žmonai Julijonai.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai nurodo, kad karūnos buvo pagamintos Vytautui ir Julijonai.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Lucko suvažiavimas|Lucko suvažiavimas]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Luckas; mentioned_place: Niurnbergas'
   pagrindžia:
     - c-003
 
@@ -63,6 +75,11 @@ Nenurodyta
 - t-003
   global_id: t-19614
   teiginys: 'Lucko suvažiavimas į Lietuvos istoriją įėjo dėl Vytauto vainikavimo plano, kurį rėmė Zigmantas I ir Vokiečių ordinas.'
+  sudarymo_pagrindimas: 'Teiginys paremtas citata, bet paliekamas kaip aiškus kontekstinis faktas apie karūnų projektą.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Lucko suvažiavimas|Lucko suvažiavimas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Vokiečių ordinas|Vokiečių ordinas]]; mentioned_object: [[objektai/zodynas/hegemonija|hegemonija]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_person: [[objektai/asmenys/Zigmantas I|Zigmantas I]]; mentioned_place: Bizantija; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Luckas; mentioned_place: Maskva; mentioned_place: Pskovas; mentioned_place: Tverė; mentioned_place: Vengrija'
+  temporaliniai_duomenys: 'įvykio data: 1429 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys paremtas citata, bet paliekamas kaip aiškus kontekstinis faktas apie karūnų projektą.'
   pagrindžia:
     - c-002
 
@@ -126,17 +143,3 @@ Nenurodyta
   pagrindžia:
     - t-002
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Bazilius (Vasilius) II]]
-- [[objektai/ivykiai/Lucko suvažiavimas]]
-- [[objektai/daiktai/Namas]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
-- [[objektai/asmenys/Zigmantas I]]
-- [[objektai/zodynas/hegemonija]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/daiktai/Karūna]]
-- [[objektai/grupes/Vokiečių ordinas]]
-- [[objektai/ivykiai/Vytauto karūnacijos byla]]

@@ -10,6 +10,7 @@ tags:
   - kunigaikštis
   - miestas
   - pilis
+  - vyskupas
 ---
 # Luterbergas
 
@@ -23,6 +24,8 @@ Dusburgietis teigia, kad be to, tas pats brolis Fridrichas pastatė Glotavos val
 - t-001
   global_id: t-60167
   teiginys: 'Kulmo landkomtūras Luterbergas Drevantos upės pakrantėje pastatė miestą, vardu Noimarkas.'
+  sudarymo_pagrindimas: 'Citata tiesiogiai nurodo Luterbergo pareigas ir jo pastatytą miestą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/landkomtūras|landkomtūras]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_place: Drevanta; mentioned_place: Glotava; mentioned_place: Kulmas; mentioned_place: Pamedė; mentioned_place: Varmė'
   pagrindžia:
     - c-002
 
@@ -30,9 +33,13 @@ Dusburgietis teigia, kad be to, tas pats brolis Fridrichas pastatė Glotavos val
 - t-002
   global_id: t-60168
   teiginys: 'Luterbergas, Braunšveigo kunigaikščio sūnus ir Kristburgo komtūras, pastatė miestą prie Ilienburgo pilies.'
+  sudarymo_pagrindimas: 'Pašalintas boilerplate ir kontekstinis fragmentas apie kitą komtūrą; citata remia faktą apie Luterbergą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Baiga; mentioned_place: Barta; mentioned_place: Bartenšteinas; mentioned_place: Ilienburgas; mentioned_place: Kristburgas; mentioned_place: Lunenburgas'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Ottonas Luterbergas.md#claim-t-39398|Ottonas Luterbergas]]: Livonijos magistras Ottonas Luterbergas buvo nukautas kovoje, kurioje žuvo ir 52 Ordino broliai.
+- susijęs iš [[objektai/ivykiai/Karusės mūšis (1270 m. vasario 16 d.).md#claim-t-66606|Karusės mūšis (1270 m. vasario 16 d.)]]: Karusės mūšyje žuvo Livonijos magistras Ottonas Luterbergas ir 52 Ordino broliai.
+- susijęs iš Ilienburgas: Kristburgo komtūras Luterbergas pastatė miestą prie Ilienburgo pilies.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -79,11 +86,3 @@ Dusburgietis teigia, kad be to, tas pats brolis Fridrichas pastatė Glotavos val
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Fridrichas]]
-- [[objektai/zodynas/komtūras]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/landkomtūras]]
-- [[objektai/ivykiai/Karusės mūšis (1270 m. vasario 16 d.)]]

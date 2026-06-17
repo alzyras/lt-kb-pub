@@ -33,6 +33,9 @@ Tautavičius, A.
 - t-001
   global_id: t-31608
   teiginys: 'A. Tautavičiaus straipsnis apie XIV a. II pusės–XV a. pradžios sidabro lydinius paskelbtas 1965 m. AkMD 18 tome, p. 67–84.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Monetos|Monetos]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1955-1960; įvykio data: 1960 m.; įvykio data: 1965 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

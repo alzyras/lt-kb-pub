@@ -14,19 +14,21 @@ tags:
 
 ## Santrauka
 
-1672 m. mirus jos kandidatui, Prancūziškoji partija nebesiekė pašalinti karaliaus ir norėjo sunaikinti bajorų partiją. Prancūzų partija atrodė stipriausia po to, kai Jokūbą silpnino nepopuliarumas ir šeimos kivirčai.
+Prancūziškoji partija pagaliau apie karaliaus pašalinimą jau nebegalvojo, nes mirė jos kandidatas (1672 m.); ji dabar tik galvojo, kaip sunaikinti bajorų partiją, kuri keletą prancūziškosios partijos žmonių, kaltindama išdavimu, buvo patraukusi į seimo teismą. Todėl stipriausia atrodė Prancūzų partija. Prancūziškoji partija tačiau atskirai paskelbė išrinktu princą Kontį.
 
 ## Teiginiai
+
 <a id="claim-t-66038"></a>
 - t-001
   global_id: t-66038
   teiginys: 'Prancūzų partija atrodė stipriausia po to, kai Jokūbą silpnino nepopuliarumas ir šeimos kivirčai.'
+  sudarymo_pagrindimas: 'Pašalintas kontekstinis „todėl“ ir aiškiai įvardyta priežastis.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_person: [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)|Jokūbas (vėliau Urbonas IV)]]'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-
+- susijęs iš [[objektai/ivykiai/Jono Sobieskio elekcija (1674 m.).md#claim-t-01635|Jono Sobieskio elekcija (1674 m.)]]: Prancūziškoji partija kandidatu į sostą iškėlė hetmoną Joną Sobieskį, kai paaiškėjo, kad Kondės išrinkti nepavyks.
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Prancūzų partija atrodė stipriausia po to, kai Jokūbą silpnino nepopuliarumas ir šeimos kivirčai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -38,19 +40,8 @@ tags:
     prieš jį veikė net pati
     motina. Todėl stipriausia
     atrodė Prancūzų partija.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkijos bajorų partija]]
-- [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)]]
-- [[objektai/grupes/Prancūzai]]
-- [[objektai/ivykiai/Jono Sobieskio elekcija (1674 m.)]]
-- [[objektai/grupes/Pacai]]
-- [[objektai/ivykiai/Augusto II elekcija (1697 m.)]]

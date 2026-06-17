@@ -20,6 +20,8 @@ Visi tie veiksniai turėjo savo kainą, ryškiausias jos pavyzdys – nerašytas
 - t-001
   global_id: t-21442
   teiginys: 'Stojant į ES buvo keliamas nerašytas reikalavimas uždaryti Ignalinos atominę elektrinę, kuri Europoje laikyta nesaugia.'
+  sudarymo_pagrindimas: 'Pirminis sakinys turi perteklinės kontekstinės formuluotės, o citata paremia glaustesnį faktą.'
+  susije_objektai: 'mentioned_object: [[objektai/asmenys/Pavyzdys|Pavyzdys]]; mentioned_place: Briuselis; mentioned_place: Europa'
   pagrindžia:
     - c-001
 
@@ -27,9 +29,18 @@ Visi tie veiksniai turėjo savo kainą, ryškiausias jos pavyzdys – nerašytas
 - t-002
   global_id: t-183594
   teiginys: 'Stojant į ES Lietuvai teko sutikti uždaryti Ignalinos atominę elektrinę, kurią europiečiai laikė nesaugia.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Perrašyta į savarankišką sakinį be neaiškaus kontekstinio įvado.'
+  susije_objektai: 'mentioned_object: [[objektai/asmenys/Pavyzdys|Pavyzdys]]; mentioned_place: Europa; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
-
+- susijęs iš Jonavos azotinių trąšų gamykla: Septintąjį–aštuntąjį dešimtmetį Jonavos azotinių trąšų gamykla buvo pastatyta vykstant sparčiai Lietuvos industrializacijai.
+- susijęs iš Kaunas: Kaunas buvo stipriausia lietuvių pilis ir kovose su Ordinu suvaidino svarbų vaidmenį.
+- susijęs iš Kaunas: Atšilimo laikotarpiu sovietinės industrializacijos metu Lietuvoje pastatyta Kauno hidroelektrinė.
+- susijęs iš Kauno HES: Atšilimo laikotarpiu Kauno HES minima tarp didelių naujų pramonės objektų, statytų sparčios sovietinės industrializacijos ir urbanizacijos metu.
+- susijęs iš Mažeikių naftos perdirbimo įmonė: Septintąjį–aštuntąjį dešimtmetį per sovietinę industrializaciją Lietuvoje pastatyta Mažeikių naftos perdirbimo įmonė.
 ## Reikšmingi paminėjimai
 
 - c-001

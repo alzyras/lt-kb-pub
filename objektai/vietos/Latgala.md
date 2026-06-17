@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Štumdorfo taika Lietuvai ir Lenkijai grąžino tik Latgalą, o didžioji Livonijos dalis su Ryga liko Švedijai. Kunigaikštis Gimbutas, radęs nuniokotą Žemaitiją, nužygiavo į Latgalą, ją nuniokojo ir parsivarė belaisvių į Žemaitiją.
+318 psl.) tebuvo atgauta tik viena Latgala.
 
 ## Teiginiai
 
@@ -21,16 +21,25 @@ tags:
 - t-001
   global_id: t-02535
   teiginys: 'Štumdorfo taika Lietuvai ir Lenkijai grąžino tik Latgalą, o didžioji Livonijos dalis su Ryga liko Švedijai.'
+  sudarymo_pagrindimas: 'Pašalintas puslapio triukšmas ir suformuluotas aiškus faktas apie Latgalą.'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Ryga; mentioned_place: Viena; mentioned_place: Švedija'
   pagrindžia:
     - c-001
 
 <a id="claim-t-187592"></a>
 - t-002
   global_id: t-187592
-  teiginys: 'Kunigaikštis Gimbutas, radęs nuniokotą Žemaitiją, nužygiavo į Latgalą, ją nuniokojo ir parsivarė belaisvių į Žemaitiją.'
+  teiginys: 'Lietuvos metraštis pasakoja, kad Gimbutas, radęs nuniokotą Žemaitiją, nužygiavo į Latgalą, ją sunaikino ir parsivarė belaisvių.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Smurtinis priešo vaizdavimas ir moralizuota kronikos kalba reikalauja atribucijos.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Gimbutas|Gimbutas]]; mentioned_person: [[objektai/asmenys/Kernius|Kernius]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/asmenys/Fridrichas iš Libencelės.md#claim-t-59953|Fridrichas iš Libencelės (vyskupas, XIV a.)]]: Eberhardas, Varmės vyskupas, Fridricho iš Libencelės pastangomis pastatydino Vartenbergo pilį Galindos žemėje, Pisos upės pakrantėje.
+- susijęs iš Bartos žemė: Lietuva siekė atgauti Bartą, Nadruvą, Sembą, Kuršą, Žiemgalą, Latgalą ir Baltijos pajūrį tarp Priegliaus ir Dauguvos.
+- susijęs iš Livonija: Štumdorfo taika iš Lietuvos ir Lenkijos bendrai valdytos Livonijos grąžino tik Latgalą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -47,7 +56,7 @@ tags:
     - t-001
 
 - c-002
-  santrauka: 'Kunigaikštis Gimbutas, radęs nuniokotą Žemaitiją, nužygiavo į Latgalą, ją nuniokojo ir parsivarė belaisvių į Žemaitiją.'
+  santrauka: 'Lietuvos metraštis pasakoja, kad Gimbutas, radęs nuniokotą Žemaitiją, nužygiavo į Latgalą, ją sunaikino ir parsivarė belaisvių.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     O tuo laiku, jam bebūnant Rusioje, kita gentis, va­

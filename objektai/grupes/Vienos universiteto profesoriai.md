@@ -10,6 +10,7 @@ tags:
   - karalius
   - mokslininkas
   - popiežius
+  - vyskupas
 ---
 # Vienos universiteto profesoriai
 
@@ -23,6 +24,8 @@ Po jo atsiliepė ir Vienos universiteto profesoriai, pakviesti Zigmanto pareišk
 - t-001
   global_id: t-34351
   teiginys: 'Vienos profesoriai aiškino, kad mokslininkai įvairiai atsako, kas gali konsekruoti: popiežius, arkivyskupas arba vyskupas.'
+  sudarymo_pagrindimas: 'Pašalintas OCR laužymas ir suformuotas vientisas sakinys.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Kulmija; mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-002
 
@@ -30,6 +33,9 @@ Po jo atsiliepė ir Vienos universiteto profesoriai, pakviesti Zigmanto pareišk
 - t-002
   global_id: t-34352
   teiginys: 'Zigmanto pakviesti Vienos universiteto profesoriai aiškino, kad popiežiaus patvirtintas Romos karalius gali karūnuoti kitus.'
+  sudarymo_pagrindimas: 'Citata leidžia aiškesnį faktinį sakinį apie profesorių nuomonę.'
+  susije_objektai: 'territory: Viena; mentioned_object: [[objektai/zodynas/Romos karalius|Romos karalius]]; mentioned_object: [[objektai/zodynas/ciesorius|ciesorius]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/grupes/Vienos universiteto profesoriai|Vienos universiteto profesoriai]] susiję su Viena'
   pagrindžia:
     - c-001
 
@@ -37,9 +43,14 @@ Po jo atsiliepė ir Vienos universiteto profesoriai, pakviesti Zigmanto pareišk
 - t-003
   global_id: t-184226
   teiginys: 'Vienos universiteto profesoriai aiškino, kad mokslininkai nevienodai atsakė, kas turi teisę suteikti konsekraciją.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Patikslintas grupės pavadinimas ir pašalintas OCR triukšmas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/konsekracija|konsekracija]]; mentioned_place: Viena'
   pagrindžia:
     - c-003
-
+- susijęs iš Vienos universiteto profesorių nuomonė dėl Vytauto karūnacijos: Zigmanto pakviesti Vienos universiteto profesoriai pareiškė nuomonę apie Romos karaliaus teisę karūnuoti kitus.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -90,10 +101,4 @@ Po jo atsiliepė ir Vienos universiteto profesoriai, pakviesti Zigmanto pareišk
     - t-003
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
-- [[objektai/zodynas/ciesorius]]
-- [[objektai/zodynas/konsekracija]]
-- [[objektai/zodynas/Romos karalius]]
-- [[objektai/grupes/Lietuvos vyskupai]]
+- Vienos universiteto profesoriai susije_su [[objektai/vietos/Viena]]

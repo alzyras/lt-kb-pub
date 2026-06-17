@@ -5,6 +5,7 @@ saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1500 m.'
+  - '1529 m.'
   - '1538 m.'
 date_start: '1500'
 date_end: '1538'
@@ -51,6 +52,11 @@ Nenurodyta
 - t-001
   global_id: t-87186
   teiginys: 'Prie Vilniaus rotušės leistų krautuvių, viešos miesto virtuvės ir vyninės pelnas buvo skiriamas miesto iždui.'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo apie mokesčius, o citata geriau pagrindžia faktą apie viešų paslaugų pelną.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/sidabrinė duoklė|sidabrinė duoklė]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Gardinas; mentioned_place: Kaunas; mentioned_place: Krokuva; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1529 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys buvo apie mokesčius, o citata geriau pagrindžia faktą apie viešų paslaugų pelną.'
   pagrindžia:
     - c-001
 
@@ -101,9 +107,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/zodynas/sidabrinė duoklė]]
-- [[objektai/asmenys/Žygimantas]]

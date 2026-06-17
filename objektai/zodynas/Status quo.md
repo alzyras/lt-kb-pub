@@ -3,17 +3,23 @@ tipas: zodyno_irasas
 pavadinimas: 'Status quo'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1939 m.'
+date_start: '1939'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - diplomatas
   - sąvoka
+amziai:
+  - 'XX'
 ---
 # Status quo
 
 ## Santrauka
 
-Klaipėdos klausimu Lietuva gynė status quo, nors Vilniaus klausimu reikalavo sienų revizijos. 1939 m. pradžioje britams ir prancūzams negarantuojant Klaipėdos status quo, Lietuva be pagalbos nebegalėjo jos išlaikyti. Lietuva Vilniaus klausimu reikalavo sienų revizijos, o Klaipėdos klausimu gynė esamą padėtį – status quo.
+Lietuvių diplomatijos sunkumai buvo užprogramuoti, nes du pagrindiniai Lietuvos tikslai akivaizdžiai pjovėsi tarpusavyje: Vilniaus klausimu Lietuva reikalavo sienų revizijų, o Klaipėdos klausimu kovėsi už esamą padėtį – status quo. 1939 m. pradžioje Vokietijai jau ruošiantis žygiuoti į Klaipėdą, britai ir prancūzai (Klaipėdos konvencijos signatarai) pranešė, jog jie negarantuoja Klaipėdai status quo, o be pagalbos išlaikyti Klaipėdą Lietuva nebegalėjo.
 
 ## Teiginiai
 
@@ -21,6 +27,8 @@ Klaipėdos klausimu Lietuva gynė status quo, nors Vilniaus klausimu reikalavo s
 - t-001
   global_id: t-22025
   teiginys: 'Klaipėdos klausimu Lietuva gynė status quo, nors Vilniaus klausimu reikalavo sienų revizijos.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie status quo vartoseną citatoje.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/diplomatija|diplomatija]]; mentioned_place: Estija; mentioned_place: Latvija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -28,6 +36,11 @@ Klaipėdos klausimu Lietuva gynė status quo, nors Vilniaus klausimu reikalavo s
 - t-002
   global_id: t-22026
   teiginys: '1939 m. pradžioje britams ir prancūzams negarantuojant Klaipėdos status quo, Lietuva be pagalbos nebegalėjo jos išlaikyti.'
+  sudarymo_pagrindimas: 'Sakinys sutrumpintas ir išlaikyta citatos pagrindžiama priežastinė mintis.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_place: Lietuva; mentioned_place: Vokietija'
+  temporaliniai_duomenys: 'įvykio data: 1939 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Sakinys sutrumpintas ir išlaikyta citatos pagrindžiama priežastinė mintis.'
   pagrindžia:
     - c-002
 
@@ -35,9 +48,16 @@ Klaipėdos klausimu Lietuva gynė status quo, nors Vilniaus klausimu reikalavo s
 - t-003
   global_id: t-183465
   teiginys: 'Lietuva Vilniaus klausimu reikalavo sienų revizijos, o Klaipėdos klausimu gynė esamą padėtį – status quo.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys pilnas, gramatiškas ir tiksliai perteikia citatos faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/diplomatija|diplomatija]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
-
+- susijęs iš Klaipėdos konvencija: 1939 m. pradžioje Klaipėdos konvencijos signatarai britai ir prancūzai pranešė negarantuosiantys Klaipėdos status quo.
+- susijęs iš Memelio (Klaipėdos) Konvencija ir Statutas: 1939 m. pradžioje Klaipėdos konvencijos signatarai britai ir prancūzai pranešė, kad negarantuoja Klaipėdos status quo.
+- susijęs iš Klaipėda: Lietuvių diplomatijos sunkumai buvo užprogramuoti, nes du pagrindiniai Lietuvos tikslai akivaizdžiai pjovėsi tarpusavyje: Vilniaus klausimu Lietuva reikalavo sienų revizijų, o Klaipėdos klausimu kovėsi už esamą padėtį – status quo.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -88,9 +108,3 @@ Klaipėdos klausimu Lietuva gynė status quo, nors Vilniaus klausimu reikalavo s
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Prancūzai]]
-- [[objektai/zodynas/diplomatija]]

@@ -29,9 +29,18 @@ periodo_grupes:
 - t-001
   global_id: t-87763
   teiginys: '1575 m. Vilniuje pas Kuzmą ir Luką Mamoničius Petras Timofiejevas Mstislavliškis išspausdino „Cztėry Ewangelje“.'
+  sudarymo_pagrindimas: 'Teiginys yra išsamus, gramatiškas ir tiesiogiai pagrįstas citata.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Petras Timofiejevas Mstislavliškis|Petras Timofiejevas Mstislavliškis]]; mentioned_person: [[objektai/asmenys/Stanislovas|Stanislovas]]; mentioned_place: Lukas; mentioned_place: Maskva; mentioned_place: Upytė; mentioned_place: Viena; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1575 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra išsamus, gramatiškas ir tiesiogiai pagrįstas citata.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Kiti priedo I vaitų ir burmistrų sąrašo kandidatai.md#claim-t-87350|Kiti priedo I vaitų ir burmistrų sąrašo kandidatai]]: 1620 m. burmistrais buvo nurodyti katalikų atstovas Petras Pliuščius ir stačiatikių atstovas Leonas Mamoničius.
+- susijęs iš [[objektai/asmenys/Kiti priedo I vaitų ir burmistrų sąrašo kandidatai.md#claim-t-87351|Kiti priedo I vaitų ir burmistrų sąrašo kandidatai]]: Motiejus, arba Matas, Božiminskis 1597 m. karaliaus Zigmanto Vazos raštu iš Varšuvos buvo paskirtas Vilniaus vaitu.
+- susijęs iš [[objektai/asmenys/Leonas Mamoničius.md#claim-t-87915|Leonas Mamoničius]]: 1620 m. Leonas Mamoničius ėjo Vilniaus burmistro nuo stačiatikių pareigas.
+- susijęs iš [[objektai/asmenys/Motiejus Božiminskis.md#claim-t-87920|Motiejus Božiminskis]]: Motiejus Božiminskis buvo bajoras, paskirtas karaliaus Zigmanto Vazos raštu, spalio 30 d. rašytu Varšuvoje.
+- susijęs iš [[objektai/asmenys/Petras Pliuščius.md#claim-t-87927|Petras Pliuščius]]: Petras Pliuščius 1620 m. buvo Vilniaus burmistras nuo katalikų.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -65,7 +74,3 @@ periodo_grupes:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Mamoničių giminė]]

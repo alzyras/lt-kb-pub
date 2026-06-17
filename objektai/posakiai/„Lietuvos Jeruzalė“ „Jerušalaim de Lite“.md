@@ -28,6 +28,7 @@ amziai:
 - t-001
   global_id: t-26648
   teiginys: 'XVII–XVIII a. Vilniaus kaip „Lietuvos Jeruzalės“ idėja siejama su jo lyginimu su Krokuvos, Liublino ir Lvovo žydų kultūros centrais.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Karaimai|Karaimai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/Lietuvos didysis kunigaikštis|Lietuvos didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Liublinas; mentioned_place: Lvovas; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -35,6 +36,8 @@ amziai:
 - t-002
   global_id: t-26900
   teiginys: 'XVIII a. Vilnius buvo pavadintas „Lietuvos Jeruzale“ (Jerušalaim de Lite).'
+  sudarymo_pagrindimas: 'Teiginys yra glaustas, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Bagdadas; mentioned_place: Tunisas; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -42,6 +45,8 @@ amziai:
 - t-003
   global_id: t-67312
   teiginys: 'XVIII a. Vilnius buvo pavadintas „Lietuvos Jeruzale“, nes tapo žydų gyvenimo pastovumo ir kultūros klestėjimo simboliu.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nurodo pavadinimo priežastį ir remiasi citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Bagdadas; mentioned_place: Tunisas; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -80,12 +85,3 @@ amziai:
   pagrindžia:
     - t-002
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Karaimai]]
-- [[objektai/zodynas/Lietuvos didysis kunigaikštis]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/didysis kunigaikštis]]
-- [[objektai/grupes/Žydai]]

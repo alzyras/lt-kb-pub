@@ -36,6 +36,11 @@ Nenurodyta
 - t-001
   global_id: t-185685
   teiginys: 'Sąmokslininkai sutarė nužudyti Žygimantą Kęstutaitį Verbų sekmadienį.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis tekstas sugadintas OCR; citata palaiko konkretų sąmokslo sprendimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_person: [[objektai/asmenys/Skabeika|Skabeika]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]'
   pagrindžia:
     - c-001
 
@@ -69,10 +74,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Krikščionys]]
-- [[objektai/asmenys/Skabeika]]
-- [[objektai/zodynas/Miera|miera]]
-- [[objektai/asmenys/Žygimantas]]

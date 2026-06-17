@@ -15,10 +15,12 @@ tags:
 Kutrzeba1 2), nėra juridiškas ir nieko aiškaus nepasako.
 
 ## Teiginiai
+
 <a id="claim-t-54147"></a>
 - t-001
   global_id: t-54147
   teiginys: 'St. Kutrzeba teigė, kad terminas „prijungti“ nėra juridiškas ir nieko aiškaus nepasako.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/autoriai/Kutrzeba|Kutrzeba]]; mentioned_person: [[objektai/autoriai/St. Kutrzeba|St. Kutrzeba]]'
   pagrindžia:
     - c-001
 
@@ -26,10 +28,13 @@ Kutrzeba1 2), nėra juridiškas ir nieko aiškaus nepasako.
 - t-002
   global_id: t-54148
   teiginys: 'Prof. dr. St. Kutrzeba pastebėjo, kad terminas „prijungti“ nėra juridiškas ir nieko aiškaus nepasako.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai perteikia citatoje nurodytą prof. dr. St. Kutrzebos pastabą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/autoriai/Kutrzeba|Kutrzeba]]; mentioned_person: [[objektai/autoriai/St. Kutrzeba|St. Kutrzeba]]'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -42,8 +47,3 @@ Kutrzeba1 2), nėra juridiškas ir nieko aiškaus nepasako.
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]

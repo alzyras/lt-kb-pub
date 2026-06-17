@@ -29,6 +29,11 @@ Dziebzykbay-Rogalski, T.
 - t-001
   global_id: t-97228
   teiginys: 'T. Dziebzykbay-Rogalski 1964 m. paskelbė publikaciją „Z badań nad niektórymi zagadnieniami typologicznymi Jaćwingów“.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas bibliografinis faktas, paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1964 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas bibliografinis faktas, paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -36,6 +41,11 @@ Dziebzykbay-Rogalski, T.
 - t-002
   global_id: t-97229
   teiginys: 'T. Dziebzykbay-Rogalski 1964 m. paskelbė darbą apie kai kuriuos jotvingių tipologijos klausimus.'
+  sudarymo_pagrindimas: 'Citata palaiko bibliografinį faktą apie autoriaus darbą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1964 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko bibliografinį faktą apie autoriaus darbą.'
   pagrindžia:
     - c-001
 
@@ -70,7 +80,3 @@ Dziebzykbay-Rogalski, T.
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]

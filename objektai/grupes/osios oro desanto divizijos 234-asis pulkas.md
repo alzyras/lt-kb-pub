@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Vilniaus įgulai sustiprinti sausio 8-11 d. į Lietuvą buvo perdislokuoti kariai iš Pskovo 76-osios oro desanto divizijos 234-ojo pulko.
+Buvo atskraidinti kariai iš Pskovo 76-osios oro desanto divizijos 234-0jo pulko, karių su kovinėmis desanto mašinomis BMD-1 ir BMD-2 (dėl vikšrinės važiuoklės šnekamojoje kalboje žmonių dažnai vadintomis tanketėmis, t.
 
 ## Teiginiai
 
@@ -20,6 +20,8 @@ Vilniaus įgulai sustiprinti sausio 8-11 d. į Lietuvą buvo perdislokuoti karia
 - t-001
   global_id: t-80651
   teiginys: 'Vilniaus įgulai sustiprinti sausio 8-11 d. į Lietuvą buvo perdislokuoti kariai iš Pskovo 76-osios oro desanto divizijos 234-ojo pulko.'
+  sudarymo_pagrindimas: 'Perrašyta į tikslesnį enciklopedinį sakinį, įtraukiant citatoje nurodytą perdislokavimo laiką.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Kariauna|Kariauna]]; mentioned_object: [[objektai/daiktai/Lėktuvai|Lėktuvai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_place: Lietuva; mentioned_place: Pskovas; mentioned_place: Vilnius; mentioned_place: Vitebskas; mentioned_place: Šiauliai'
   pagrindžia:
     - c-001
 
@@ -52,11 +54,3 @@ Vilniaus įgulai sustiprinti sausio 8-11 d. į Lietuvą buvo perdislokuoti karia
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Lėktuvai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/įgula]]
-- [[objektai/grupes/76-osios oro desanto divizijos 234-asis pulkas]]
-- [[objektai/grupes/Vitebsko gvardijos 103-ioji oro desanto divizija]]

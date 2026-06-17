@@ -32,6 +32,8 @@ amziai:
 - t-001
   global_id: t-47949
   teiginys: 'Vytauto laiškuose imperatoriui Zigmantui ir ordino magistrui draudimas vainikuotis reiškė jo laisvės varžymą ir pastangas pavergti kraštą.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir atitinka citatos turinį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -39,6 +41,8 @@ amziai:
 - t-002
   global_id: t-47950
   teiginys: 'Vytautas laiškuose imperatoriui Zigmantui ir ordino magistrui teigė, kad draudimas vainikuotis reiškė pastangas „mūsų kraštą pavergti“.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus ir paremtas citata apie Vytauto laiškuose išreikštą poziciją.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -61,12 +65,3 @@ amziai:
   pagrindžia:
     - t-001
     - t-002
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/frazė]]
-
-### Susiję objektai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
-- [[objektai/zodynas/magistras]]

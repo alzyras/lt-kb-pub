@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Mūšio liudininkas Zigmantas Herberšteinas citavo Čeliadnino žodžius apie Lietuvos kariuomenės kėlimąsi per Dniepro upę. Diplomatas Zigmantas Herberšteinas vėliau aprašė mūšį ir perteikė Čeliadnino žodžius apie Lietuvos kariuomenės persikėlimą.
+Mūšio liudininkas Zigmantas Herberšteinas cituoja rusų kariuomenės vado Čeliadnino žodžius, kuriuos jis pasakė sužinoję apie tai, kad Lietuvos kariuomenė jau keliasi per Dniepro upę: „Greitai, kai pusė [lietuvių] kariuomenės buvo persikėlusi per Dnieprą. Apie tai galima spręsti iš arogantiškų Čeliadnino žodžių, kuriuos perteikia vėliau mūšį aprašęs diplomatas Zigmantas Herberšteinas, pasakytų, kai rusų vadas įsakė leisti persikelti visai Lietuvos kariuomenei.
 
 ## Teiginiai
 
@@ -23,6 +23,8 @@ Mūšio liudininkas Zigmantas Herberšteinas citavo Čeliadnino žodžius apie L
 - t-001
   global_id: t-40546
   teiginys: 'Mūšio liudininkas Zigmantas Herberšteinas citavo Čeliadnino žodžius apie Lietuvos kariuomenės kėlimąsi per Dniepro upę.'
+  sudarymo_pagrindimas: 'Perrašyta nežymiai, kad vietovės objektas būtų įvardytas pilnai.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Dniepras; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -30,9 +32,10 @@ Mūšio liudininkas Zigmantas Herberšteinas citavo Čeliadnino žodžius apie L
 - t-002
   global_id: t-40547
   teiginys: 'Diplomatas Zigmantas Herberšteinas vėliau aprašė mūšį ir perteikė Čeliadnino žodžius apie Lietuvos kariuomenės persikėlimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Maskvos kariuomenė|Maskvos kariuomenė]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Brasta; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Viena'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/posakiai/apsuptą nusivaryti iki pat Maskvos kaip galvijus.md#claim-t-41473|apsuptą nusivaryti iki pat Maskvos kaip galvijus]]: Čeliadninas teigė, kad Maskvos pajėgos gali Lietuvos kariuomenę įveikti arba apsuptą nusivaryti iki Maskvos kaip galvijus.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -76,10 +79,3 @@ Mūšio liudininkas Zigmantas Herberšteinas citavo Čeliadnino žodžius apie L
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Maskvos kariuomenė]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/posakiai/apsuptą nusivaryti iki pat Maskvos kaip galvijus]]

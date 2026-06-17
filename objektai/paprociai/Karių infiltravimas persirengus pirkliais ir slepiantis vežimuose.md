@@ -43,6 +43,8 @@ Nenurodyta
 - t-001
   global_id: t-87174
   teiginys: 'Kęstutis, puldamas Vilnių, į miestą pasiuntė riterius, persirengusius pirkliais, ir ginkluotus vyrus, paslėptus kailių bei šieno vežimuose.'
+  sudarymo_pagrindimas: 'Teiginys buvo OCR triukšmingas ir neužbaigtas, bet citata aiškiai pagrindžia infiltravimo būdą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kailiai|Kailiai]]; mentioned_object: [[objektai/daiktai/Vežimai|Vežimai]]; mentioned_person: [[objektai/asmenys/Marija|Marija]]; mentioned_place: Trakai; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -108,13 +110,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/transportas]]
-
-### Susiję objektai
-- [[objektai/asmenys/Marija]]
-- [[objektai/daiktai/Vežimai]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/ivykiai/Kęstučio Vilniaus užėmimas ir Jogailos įkalinimas (1381 m. rugpjūtis)]]

@@ -3,12 +3,18 @@ tipas: vieta
 pavadinimas: 'Kamienecas'
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
+datos:
+  - '1379 m.'
+date_start: '1379'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - kunigaikštis
   - ordinas
   - vieta
+amziai:
+  - 'XIV'
 ---
 # Kamienecas
 
@@ -22,6 +28,9 @@ Abu magistrai pasižadėjo nepulti krikščioniškų Trakų kunigaikšti­ jos s
 - t-001
   global_id: t-36264
   teiginys: 'Kamienecas buvo minimas tarp krikščioniškų Trakų kunigaikštijos sričių, kurių magistrai pasižadėjo nepulti.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/paliaubos|paliaubos]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lietuva; mentioned_place: Trakai'
+  temporaliniai_duomenys: 'įvykio data: 1379 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

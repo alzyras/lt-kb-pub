@@ -28,6 +28,11 @@ Maciūno, TRUMPAS HIGIENOS VADOVĖLIS.
 - t-001
   global_id: t-96052
   teiginys: 'J. Maciūnas parengė „Trumpą higienos vadovėlį“ pagal Švietimo ministerijos programą.'
+  sudarymo_pagrindimas: 'Citata palaiko išsamų sakinį apie autoriaus parengtą vadovėlį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rytas|Rytas]]'
+  temporaliniai_duomenys: 'įvykio data: 1929 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko išsamų sakinį apie autoriaus parengtą vadovėlį.'
   pagrindžia:
     - c-001
 
@@ -44,7 +49,3 @@ Maciūno, TRUMPAS HIGIENOS VADOVĖLIS.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Rytas]]

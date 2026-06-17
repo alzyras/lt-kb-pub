@@ -4,9 +4,10 @@ pavadinimas: 'Aukščiausiosios Tarybos gynybos principai (institucija)'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
+  - '1940 m.'
   - '1991 m.'
-date_start: '1991'
-date_end: ''
+date_start: '1940'
+date_end: '1991'
 sukurta: ''
 atnaujinta: ''
 amziai:
@@ -40,6 +41,7 @@ Nenurodyta
 - t-001
   global_id: t-09611
   teiginys: 'Parlamento gynyba buvo grindžiama trimis principais: agresijos fiksavimu ir informacijos sklaida, gynyba kariniais metodais bei pilietinio nesmurtinio pasipriešinimo organizavimu.'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 
@@ -47,6 +49,11 @@ Nenurodyta
 - t-002
   global_id: t-09612
   teiginys: 'Aukščiausiosios Tarybos gynėjai išsikėlė nerašytą misiją priešintis bet kokiu atveju ir nepakartoti 1940 m. klaidos.'
+  sudarymo_pagrindimas: 'Sakinys pagrįstas citata, tik patikslintas objektas.'
+  susije_objektai: 'mentioned_object: [[objektai/posakiai/Nepakartoti 1940 m. klaidos!|Nepakartoti 1940 m. klaidos!]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/autoriai/Martynas Mažvydas Vaitkūnas|Martynas Mažvydas Vaitkūnas]]; mentioned_place: Aukščiausiosios Tarybos rūmai'
+  temporaliniai_duomenys: 'įvykio data: 1940 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Sakinys pagrįstas citata, tik patikslintas objektas.'
   pagrindžia:
     - c-001
 
@@ -54,6 +61,8 @@ Nenurodyta
 - t-003
   global_id: t-09613
   teiginys: 'Aukščiausiosios Tarybos gynybos principai siekė fiksuoti sovietų karinės agresijos faktą ir užtikrinti politinį Lietuvos atstovavimą.'
+  sudarymo_pagrindimas: 'Teiginys aiškiau susietas su note objektu ir sutrumpintas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_place: Aukščiausiosios Tarybos rūmai; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -120,11 +129,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/autoriai/Martynas Mažvydas Vaitkūnas]]
-- [[objektai/posakiai/Nepakartoti 1940 m. klaidos!]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/ivykiai/Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis)]]

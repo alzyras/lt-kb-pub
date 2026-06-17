@@ -34,6 +34,8 @@ Nenurodyta
 - t-001
   global_id: t-07813
   teiginys: 'Kalnėnai ir žemaičiai kūrėsi vienkiemiuose atokiai vieni nuo kitų, kad išvengtų barnių, gaisrų plitimo ir galėtų padėti kaimynams.'
+  sudarymo_pagrindimas: 'Citata leidžia tiksliau nurodyti atstumo priežastis.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalnėnai|Kalnėnai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_object: [[objektai/zodynas/vienkiemiai|vienkiemiai]]'
   pagrindžia:
     - c-001
 
@@ -54,9 +56,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/vienkiemiai]]
-- [[objektai/grupes/Kalnėnai]]
-- [[objektai/grupes/Žemaičiai]]

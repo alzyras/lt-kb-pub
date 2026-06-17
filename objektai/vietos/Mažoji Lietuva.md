@@ -6,9 +6,13 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
+  - '1422 m.'
   - '1750 m.'
+  - '1879 m.'
+  - '1914 m.'
+  - '1921 m.'
   - '1970 m.'
-date_start: '1750'
+date_start: '1422'
 date_end: '1970'
 sukurta: ''
 atnaujinta: ''
@@ -16,14 +20,14 @@ tags:
   - valstybė
   - vieta
 amziai:
-  - 'XVIII'
+  - 'XV'
   - 'XX'
 ---
 # Mažoji Lietuva
 
 ## Santrauka
 
-Netekusi Vilniaus, Lietuva atsisuko į Mažąją Lietuvą, kur daug vietos gyventojų vartojo lietuvių kalbą ir ėjo lietuviški laikraščiai. Mažojoje Lietuvoje lietuviškos raštijos buvo kur kas daugiau negu pačioje Lietuvoje. Modernioji Lietuvos samprata Lietuvos vardą siejo su lietuvių kalbos vartojimu.
+Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir toliau germanizavo pavergtuosius Mažosios Lietuvos lietuvius. Tuo pat metu protestantizmas labai uoliai buvo platinamas ir Mažojoje Lietuvoje. Lietuviškai protestantizmas tebuvo skelbiamas žmonių, atėjusių iš Mažosios Lietuvos; bet tas judėjimas buvo labai silpnas ir trumpas.
 
 ## Teiginiai
 
@@ -31,6 +35,8 @@ Netekusi Vilniaus, Lietuva atsisuko į Mažąją Lietuvą, kur daug vietos gyven
 - t-001
   global_id: t-180285
   teiginys: 'Netekusi Vilniaus, Lietuva atsisuko į Mažąją Lietuvą, kur daug vietos gyventojų vartojo lietuvių kalbą ir ėjo lietuviški laikraščiai.'
+  sudarymo_pagrindimas: 'Sakinys yra pilnas ir tiesiogiai susijęs su Mažąja Lietuva.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-007
 
@@ -38,6 +44,8 @@ Netekusi Vilniaus, Lietuva atsisuko į Mažąją Lietuvą, kur daug vietos gyven
 - t-002
   global_id: t-180286
   teiginys: 'Mažojoje Lietuvoje lietuviškos raštijos buvo kur kas daugiau negu pačioje Lietuvoje.'
+  sudarymo_pagrindimas: 'Sakinys yra aiškus ir pagrįstas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_place: Lietuva; mentioned_place: Prūsai; mentioned_place: Prūsija'
   pagrindžia:
     - c-004
 
@@ -45,6 +53,8 @@ Netekusi Vilniaus, Lietuva atsisuko į Mažąją Lietuvą, kur daug vietos gyven
 - t-003
   global_id: t-180287
   teiginys: 'Modernioji Lietuvos samprata Lietuvos vardą siejo su lietuvių kalbos vartojimu.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nėra tiesiogiai apie Mažąją Lietuvą; citata palaiko glaustesnį faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/istorinė Lietuva|istorinė Lietuva]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 
@@ -52,6 +62,8 @@ Netekusi Vilniaus, Lietuva atsisuko į Mažąją Lietuvą, kur daug vietos gyven
 - t-004
   global_id: t-180290
   teiginys: 'Steigiamojo Seimo rinkimuose Mažajai Lietuvai buvo skirtos 9 vietos, bet rinkimai ten nevyko, nes Lietuva šios teritorijos nekontroliavo.'
+  sudarymo_pagrindimas: 'Pašalinta kontekstinė pradžia „O juk“ ir patikslintas sakinys.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Kaunas; mentioned_place: Lietuva'
   pagrindžia:
     - c-008
 
@@ -59,6 +71,8 @@ Netekusi Vilniaus, Lietuva atsisuko į Mažąją Lietuvą, kur daug vietos gyven
 - t-005
   global_id: t-180291
   teiginys: 'Mažojoje Lietuvoje iškilo Kristijono Donelaičio poema „Metai“, pirmasis reikšmingas lietuviakalbės literatūros kūrinys.'
+  sudarymo_pagrindimas: 'Sakinys yra pilnas ir tiesiogiai susijęs su Mažąja Lietuva.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_place: Lietuva; mentioned_place: Prūsai; mentioned_place: Prūsija'
   pagrindžia:
     - c-004
 
@@ -66,6 +80,11 @@ Netekusi Vilniaus, Lietuva atsisuko į Mažąją Lietuvą, kur daug vietos gyven
 - t-006
   global_id: t-180294
   teiginys: '1914 m. liepą J. Basanavičius, Stasys Šilingas ir Donatas Malinauskas Gintarinėje deklaracijoje siekė sujungti Didžiąją ir Mažąją Lietuvą.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs; citata leidžia sudaryti aiškų sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: Sarajevas; mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Donatas Malinauskas|Donatas Malinauskas]]; mentioned_person: [[objektai/autoriai/Stasys Šilingas|Stasys Šilingas]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Rusija; mentioned_place: Suvalkai; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1914 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs; citata leidžia sudaryti aiškų sakinį.'
   pagrindžia:
     - c-002
 
@@ -73,6 +92,11 @@ Netekusi Vilniaus, Lietuva atsisuko į Mažąją Lietuvą, kur daug vietos gyven
 - t-007
   global_id: t-180295
   teiginys: 'Georgas Zauerveinas, kovojęs už lietuvių kalbą Rytų Prūsijoje, parašė Mažosios Lietuvos himną.'
+  sudarymo_pagrindimas: 'Sakinys yra pilnas ir faktinis apie Mažosios Lietuvos himną.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/JAV lietuviai|JAV lietuviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas|Georgas (liet. Jurgis) Zauerveinas]]; mentioned_person: [[objektai/autoriai/Zauerveinas|Zauerveinas]]; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Rusija'
+  temporaliniai_duomenys: 'įvykio data: 1879 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Sakinys yra pilnas ir faktinis apie Mažosios Lietuvos himną.'
   pagrindžia:
     - c-005
 
@@ -80,6 +104,8 @@ Netekusi Vilniaus, Lietuva atsisuko į Mažąją Lietuvą, kur daug vietos gyven
 - t-008
   global_id: t-180298
   teiginys: 'Lietuvos Respublikos kūrėjai siekė prie Lietuvos prijungti Mažąją Lietuvą.'
+  sudarymo_pagrindimas: 'Sakinys yra aiškus ir pagrįstas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/istorinė Lietuva|istorinė Lietuva]]; mentioned_object: [[objektai/zodynas/Žynių titulai ir pareigybės|Žynių titulai ir pareigybės]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-009
 
@@ -87,6 +113,8 @@ Netekusi Vilniaus, Lietuva atsisuko į Mažąją Lietuvą, kur daug vietos gyven
 - t-009
   global_id: t-180299
   teiginys: 'Brandenburgo hercogams atitekusi ordino valstybė toliau germanizavo pavergtuosius Mažosios Lietuvos lietuvius.'
+  sudarymo_pagrindimas: 'Įvardytas neaiškus „jo“ ir pašalintas OCR triukšmo kontekstas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-011
 
@@ -94,6 +122,11 @@ Netekusi Vilniaus, Lietuva atsisuko į Mažąją Lietuvą, kur daug vietos gyven
 - t-010
   global_id: t-180300
   teiginys: 'Vokiečių ordino valstybėje lietuviai ilgainiui pradėti vadinti lietuvininkais, o jų žemės – Prūsų Lietuva arba Mažąja Lietuva.'
+  sudarymo_pagrindimas: 'Sakinys aiškiai apibrėžia Mažosios Lietuvos pavadinimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Nadruviai|Nadruviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/dykra|dykra]]; mentioned_place: Lietuva; mentioned_place: Prūsai; mentioned_place: Prūsija'
+  temporaliniai_duomenys: 'įvykio data: 1422 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Sakinys aiškiai apibrėžia Mažosios Lietuvos pavadinimą.'
   pagrindžia:
     - c-006
 
@@ -101,6 +134,8 @@ Netekusi Vilniaus, Lietuva atsisuko į Mažąją Lietuvą, kur daug vietos gyven
 - t-012
   global_id: t-180302
   teiginys: 'Žmonių iš Mažosios Lietuvos lietuviškai skelbtas protestantizmas buvo silpnas ir trumpas judėjimas.'
+  sudarymo_pagrindimas: 'Sakinys sutvarkytas į aiškų enciklopedinį teiginį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Protestantai|Protestantai]]; mentioned_object: [[objektai/zodynas/protestantizmas|protestantizmas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -108,9 +143,18 @@ Netekusi Vilniaus, Lietuva atsisuko į Mažąją Lietuvą, kur daug vietos gyven
 - t-013
   global_id: t-180303
   teiginys: '1921 m. lapkričio 11 d. Steigiamasis Seimas vienbalsiai pareikalavo įjungti Klaipėdos teritoriją į Lietuvos sudėtį, demonstruodamas vienybę su Mažąja Lietuva.'
+  sudarymo_pagrindimas: 'Perrašyta, kad faktas būtų aiškiai susietas su Mažąja Lietuva.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Protestantai|Protestantai]]; mentioned_group: [[objektai/grupes/Steigiamasis seimas|Steigiamasis seimas]]; mentioned_object: [[objektai/zodynas/protestantizmas|protestantizmas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1921 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Perrašyta, kad faktas būtų aiškiai susietas su Mažąja Lietuva.'
   pagrindžia:
     - c-010
-
+- susijęs iš [[objektai/autoriai/V. Daugudis.md#claim-t-31023|V. Daugudis]]: V. Daugudis 1961 m. paskelbė darbą apie Mažulonių piliakalnį.
+- susijęs iš Pakarklis P. Mažoji Lietuva vokiečių mokslo šviesoje: P. Pakarklio „Mažoji Lietuva vokiečių mokslo šviesoje“ išleistas 1935 m.
+- susijęs iš [[objektai/zodynas/prūsų teisės.md#claim-t-72739|prūsų teisės]]: Ordino dokumentuose rytuose minėti ir lietuviai, ir prūsai, o vakaruose tik prūsai.
+- susijęs iš [[objektai/zodynas/tautiškas susipratimas tautiška sąmonė tautiškoji veikla.md#claim-t-104176|tautiškas susipratimas tautiška sąmonė tautiškoji veikla]]: Klaipėdos krašto sujungimas su nepriklausomąja Lietuva siejamas su vietos lietuvių kultūrine veikla, gaivinusia tautišką sąmonę.
+- susijęs iš [[objektai/zodynas/tautiškas susipratimas tautiška sąmonė tautiškoji veikla.md#claim-t-182980|tautiškas susipratimas tautiška sąmonė tautiškoji veikla]]: Klaipėdos krašto sujungimą su nepriklausoma Lietuva šaltinis sieja su vietos lietuvių kultūrine veikla ir tautiškos sąmonės gaivinimu.
 ## Reikšmingi paminėjimai
 
 - c-001

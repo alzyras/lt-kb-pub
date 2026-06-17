@@ -25,7 +25,7 @@ periodo_grupes:
 
 ## Santrauka
 
-1864 m. M. Muravjovo nurodymu pradėta drausti lietuvių raštija tradiciniu raidynu, o draudimas galiojo iki 1904 m. pavasario. Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas gavo caro įgaliojimus ir ėmėsi demonstratyvaus žiaurumo bei teroro priemonių. XIX a. M. Muravjovo Koriko laikais Lietuvoje nukentėjo perpus mažiau kunigų nei stalinizmo metais.
+Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstesnio sukilimo slopinimo patirties, gavęs caro įgaliojimus, ėmėsi demonstratyvaus žiaurumo ir teroro priemonių. Muravjovas, pasikvietęs į pagalbą seną savo pažįstamą Ivaną Kornilovą, kuris buvo paskirtas Vilniaus švietimo apygardos globėju. Muravjovo nurodymu pradėta drausti lietuvių raštija tradiciniu raidynu, šis draudimas išplėstas į visą Rusijos imperijos teritoriją ir galiojo ligi 1904 m. pavasario.
 
 ## Teiginiai
 
@@ -33,6 +33,11 @@ periodo_grupes:
 - t-001
   global_id: t-78022
   teiginys: '1864 m. M. Muravjovo nurodymu pradėta drausti lietuvių raštija tradiciniu raidynu, o draudimas galiojo iki 1904 m. pavasario.'
+  sudarymo_pagrindimas: 'Perrašyta į aiškų vieno sakinio teiginį su data ir pasekme.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Rusija'
+  temporaliniai_duomenys: 'įvykio data: iki 1904 m.; įvykio data: 1864 m.; įvykio data: 1904 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Perrašyta į aiškų vieno sakinio teiginį su data ir pasekme.'
   pagrindžia:
     - c-002
 
@@ -40,6 +45,11 @@ periodo_grupes:
 - t-002
   global_id: t-78023
   teiginys: 'Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas gavo caro įgaliojimus ir ėmėsi demonstratyvaus žiaurumo bei teroro priemonių.'
+  sudarymo_pagrindimas: 'Sakinys sutrumpintas ir padarytas aiškesnis, nekeičiant citatos faktų.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/generalgubernatorius|generalgubernatorius]]; mentioned_person: [[objektai/asmenys/Michailas Muravjovas|Michailas Muravjovas]]; mentioned_place: Anglija; mentioned_place: Lietuva; mentioned_place: Prancūzija; mentioned_place: Rusija; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1861 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Sakinys sutrumpintas ir padarytas aiškesnis, nekeičiant citatos faktų.'
   pagrindžia:
     - c-001
 
@@ -47,6 +57,8 @@ periodo_grupes:
 - t-003
   global_id: t-78024
   teiginys: 'XIX a. M. Muravjovo Koriko laikais Lietuvoje nukentėjo perpus mažiau kunigų nei stalinizmo metais.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas, aiškus ir paremtas citatos palyginimu.'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 
@@ -54,6 +66,8 @@ periodo_grupes:
 - t-004
   global_id: t-78025
   teiginys: 'Vilniaus generalgubernatorius M. Muravjovas rusinimo politikai vykdyti pasikvietė Ivaną Kornilovą.'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo nebaigtas; citata leidžia suformuluoti aiškų faktą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/generalgubernatorius|generalgubernatorius]]; mentioned_object: [[objektai/zodynas/globėjas|globėjas]]; mentioned_object: [[objektai/zodynas/pradai|pradai]]; mentioned_object: [[objektai/zodynas/rusinimas|rusinimas]]; mentioned_object: [[objektai/zodynas/separatizmas|separatizmas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-004
 
@@ -131,14 +145,3 @@ periodo_grupes:
   statusas: verified
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/generalgubernatorius]]
-- [[objektai/zodynas/globėjas]]
-- [[objektai/zodynas/pradai]]
-- [[objektai/zodynas/rusinimas]]
-- [[objektai/zodynas/separatizmas]]
-- [[objektai/paprociai/Carinės sukilimo slopinimo teroro ir viešų bausmių praktika|Carinės sukilimo slopinimo teroro ir viešų bausmių praktika (sukilimas)]]
-- [[objektai/paprociai/Lietuvių raštijos lotyniškojo raidyno keitimas kirilika ir spaudos draudimas]]

@@ -14,7 +14,7 @@ tags:
 
 ## Santrauka
 
-Hetmonas Pacas atsisakė eiti lenkams į pagalbą, aiškindamas, kad Lietuvos kariuomenė neturi teisės peržengti Lenkijos sienos.
+Hetmonas Pacas atsisakinėjo eiti lenkams į pagalbą, teisindamasis, kad Lietuvos kariuomenė neturinti teisės peržengti Lenkijos sienos. Bet ne kartą hetmonas Pacas visiškai atsisakė vykti prieš turkus, paprastai remdamasis tuo, kad pagal įstatymus Lietuvos kariuomenė tegalinti išeiti už savo valstybės sienų, tik seimui įsakius.
 
 ## Laikotarpis ir datos
 
@@ -37,18 +37,18 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 <a id="claim-t-67152"></a>
 - t-001
   global_id: t-67152
   teiginys: 'Hetmonas Pacas atsisakė eiti lenkams į pagalbą, aiškindamas, kad Lietuvos kariuomenė neturi teisės peržengti Lenkijos sienos.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Pacai|Pacai]]; mentioned_object: [[objektai/zodynas/hetmonas|hetmonas]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Hetmonas Pacas atsisakė eiti lenkams į pagalbą, aiškindamas, kad Lietuvos kariuomenė neturi teisės peržengti Lenkijos sienos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Lietuvai vado-
@@ -66,16 +66,8 @@ Nenurodyta
     kams į pagalbą, teisin-
     damasis, kad Lietuvos kariuomenė neturinti teisės peržengti Len-
     kijos sienos.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuvos kariuomenė]]
-- [[objektai/grupes/Pacai]]
-- [[objektai/grupes/Lenkai]]

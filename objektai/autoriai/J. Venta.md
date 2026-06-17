@@ -3,10 +3,15 @@ tipas: autorius
 pavadinimas: 'J. Venta'
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+datos: []
+date_start: ''
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
+amziai: []
+periodo_grupes: []
 ---
 # J. Venta
 
@@ -20,6 +25,12 @@ Dusburgietis teigia, kad venta iškėlė mintį, kad išlikusi Dusburgiečio kro
 - t-001
   global_id: t-62620
   teiginys: 'J. Venta iškėlė mintį, kad išlikusi Dusburgiečio kronika yra 1326 m. redakcija arba jos cenzūruotas antrininkas.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citata apie J. Ventos iškeltą mintį.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/J. Poverskis|J. Poverskis]]; mentioned_place: Oliva; mentioned_place: Pamaris; mentioned_place: Venta'
+  temporaliniai_duomenys: 'įvykio data: 1326 m.; įvykio data: 1330 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citata apie J. Ventos iškeltą mintį.'
   pagrindžia:
     - c-003
 
@@ -27,6 +38,9 @@ Dusburgietis teigia, kad venta iškėlė mintį, kad išlikusi Dusburgiečio kro
 - t-002
   global_id: t-62621
   teiginys: 'J. Venta parašė darbą „Kronika“.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Bibliografinė nuoroda leidžia pagrįsti trumpą faktą apie autoriaus darbą.'
+  susije_objektai: 'mentioned_place: Venta'
   pagrindžia:
     - c-001
 
@@ -34,9 +48,15 @@ Dusburgietis teigia, kad venta iškėlė mintį, kad išlikusi Dusburgiečio kro
 - t-003
   global_id: t-62622
   teiginys: 'J. Venta 1980 m. paskelbė darbą apie Petro Dusburgiečio kroniką ir Oliavos kronikoje pateiktą Vokiečių ordino istoriją.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Citata pateikia autoriaus darbą, temą ir publikavimo metus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_place: Venta'
+  temporaliniai_duomenys: 'įvykio data: 1980 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pateikia autoriaus darbą, temą ir publikavimo metus.'
   pagrindžia:
     - c-002
-
+- susijęs iš Olivos kronika: J. Venta analizavo Olivos kronikos šaltinius ir svarstė išlikusios Dusburgiečio kronikos redakciją.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -80,7 +100,3 @@ Dusburgietis teigia, kad venta iškėlė mintį, kad išlikusi Dusburgiečio kro
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Vokiečiai]]

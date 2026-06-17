@@ -49,6 +49,11 @@ Nenurodyta
 - t-001
   global_id: t-87222
   teiginys: '1424 m. Vytauto Vilniui suteiktomis privilegijomis nuo įvairių duoklių buvo atleidžiami tik Romos katalikai miestiečiai.'
+  sudarymo_pagrindimas: 'Citata tiesiogiai remia tikslesnį teiginį apie privilegijų turinį ir jų taikymą Romos katalikams.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1424 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata tiesiogiai remia tikslesnį teiginį apie privilegijų turinį ir jų taikymą Romos katalikams.'
   pagrindžia:
     - c-001
 
@@ -56,6 +61,11 @@ Nenurodyta
 - t-002
   global_id: t-87223
   teiginys: 'Vytauto 1424 m. Vilniui suteiktomis duoklių lengvatomis naudojosi tik Romos katalikų tikėjimą išpažinę miestiečiai.'
+  sudarymo_pagrindimas: 'Citata pagrindžia privilegijų datą, paskirtį ir ribojimą Romos katalikams.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1424 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia privilegijų datą, paskirtį ir ribojimą Romos katalikams.'
   pagrindžia:
     - c-001
 
@@ -102,11 +112,3 @@ Nenurodyta
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/ritualas]]
-
-### Susiję objektai
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

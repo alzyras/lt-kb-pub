@@ -21,6 +21,8 @@ Girėno žygdarbį ir t.
 - t-001
   global_id: t-78078
   teiginys: 'Sovietmečiu buvo leista rašyti apie Stepono Dariaus ir Stasio Girėno žygdarbį.'
+  sudarymo_pagrindimas: 'Reikia išplėsti inicialus ir suformuluoti enciklopedinį sakinį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_person: [[objektai/asmenys/Mikalojus Konstantinas Čiurlionis|Mikalojus Konstantinas Čiurlionis]]; mentioned_place: Kaunas'
   pagrindžia:
     - c-001
 
@@ -43,7 +45,3 @@ Girėno žygdarbį ir t.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/įgula]]

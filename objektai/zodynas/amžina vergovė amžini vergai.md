@@ -22,6 +22,8 @@ Dusburgietis teigia, kad mat jis paskatino juos pradėti žiauriausius krikšči
 - t-001
   global_id: t-58890
   teiginys: 'Per Lenkijos žemės antpuolius moterys ir vaikai buvo išvaryti į amžiną vergovę.'
+  sudarymo_pagrindimas: 'Pradinis teiginys yra OCR fragmentas, bet citata pagrindžia aiškų faktą.'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Plockas; mentioned_place: Viena; mentioned_place: Vysla'
   pagrindžia:
     - c-001
 
@@ -29,6 +31,8 @@ Dusburgietis teigia, kad mat jis paskatino juos pradėti žiauriausius krikšči
 - t-002
   global_id: t-58891
   teiginys: 'Nusiaubę Kulmo žemę, prūsai dalį krikščionių išsivarė į nelaisvę ir pavertė amžinais vergais.'
+  sudarymo_pagrindimas: 'Teiginys gramatiškai perteikia citatoje aprašytą įvykį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/vergai|vergai]]; mentioned_place: Kulmas; mentioned_place: Prūsai'
   pagrindžia:
     - c-002
 
@@ -71,9 +75,3 @@ Dusburgietis teigia, kad mat jis paskatino juos pradėti žiauriausius krikšči
   pagrindžia:
     - t-003
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/vergai]]
-- [[objektai/ivykiai/Kulmo žemės nusiaubimas prūsų antpuoliu]]
-- [[objektai/zodynas/amžina vergovė]]

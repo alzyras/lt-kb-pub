@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-214 Čia minimi seni skaičiavimo budai mazgeliais, įkirtimais.
+Dusburgietis teigia, kad štai dėl to, kai, norėdami tesėti tarp savęs ar su svetimaisiais sudarytą sandėrį ar sutartį, susikalba dėl vienokio ar kitokio dienų skaičiaus, jie paprastai, šitai padarę, pirmąją dieną įkerta kokį ženklą į medį arba užmezga mazgą apyvaruosė ar juostoje.. Dusburgietis teigia, kad 214 Čia minimi seni skaičiavimo budai mazgeliais, įkirtimais.
 
 ## Laikotarpis ir datos
 
@@ -41,6 +41,9 @@ Nenurodyta
 - t-001
   global_id: t-62718
   teiginys: '214 Čia minimi seni skaičiavimo budai mazgeliais, įkirtimais.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_place: Prūsai'
   pagrindžia:
     - c-002
 
@@ -72,9 +75,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Baltai]]
-- [[objektai/daiktai/Juosta ir apyvaras su mazgais]]
-- [[objektai/paprociai/Kasdienis maudymasis pirtyse iš pagarbos dievams]]

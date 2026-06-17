@@ -10,6 +10,7 @@ tags:
   - grupe
   - tauta
   - upė
+  - valstybė
 ---
 # Žečpospolita
 
@@ -23,9 +24,11 @@ Pilsudskio legionierių idėja reiškė Lenkijos, Lietuvos ir kitų buvusių Že
 - t-001
   global_id: t-28634
   teiginys: 'Pilsudskio legionierių idėja reiškė Lenkijos, Lietuvos ir kitų buvusių Žečpospolitos (respublikos) tautų federaciją.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citata apie buvusios Žečpospolitos tautas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Pilsudskis|Pilsudskis]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/ivykiai/Liublino unija (1569 m.).md#claim-t-184598|Liublino unija (1569 m.)]]: 1569 m. Liublino seime ginčytasi ne dėl pačios unijos, o dėl jos sąlygų.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -45,12 +48,3 @@ Pilsudskio legionierių idėja reiškė Lenkijos, Lietuvos ir kitų buvusių Že
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/dinastija]]
-
-### Susiję objektai
-- [[objektai/asmenys/Pilsudskis]]
-- [[objektai/zodynas/unija]]
-- [[objektai/ivykiai/Liublino unija (1569 m.)]]

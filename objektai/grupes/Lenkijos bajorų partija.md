@@ -9,13 +9,13 @@ date_start: '1672'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XVII'
 tags:
   - bajorija
   - grupe
   - karalius
   - seimas
+amziai:
+  - 'XVII'
 ---
 # Lenkijos bajorų partija
 
@@ -24,16 +24,18 @@ tags:
 Prancūzijos kandidato partija tuojau pradėjo ruoštis jį pašalinti. Prancūziškoji partija pagaliau apie karaliaus pašalinimą jau nebegalvojo, nes mirė jos kandidatas (1672 m.); ji dabar tik galvojo, kaip sunaikinti bajorų partiją, kuri keletą prancūziškosios partijos žmonių, kaltindama išdavimu, buvo patraukusi į seimo teismą.
 
 ## Teiginiai
+
 <a id="claim-t-74048"></a>
 - t-001
   global_id: t-74048
   teiginys: 'Lenkijos bajorų partija buvo tarp karaliaus rėmėjų kartu su Pacų vadovaujama Lietuva.'
+  sudarymo_pagrindimas: 'Pradinis teiginys ne apie pavadinimo objektą; citata pagrindžia glaustesnį faktą apie partiją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Habsburgai|Habsburgai]]; mentioned_group: [[objektai/grupes/Pacai|Pacai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Prancūzija'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Lenkijos bajorų partija buvo tarp karaliaus rėmėjų kartu su Pacų vadovaujama Lietuva.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -44,16 +46,8 @@ Prancūzijos kandidato partija tuojau pradėjo ruoštis jį pašalinti. Prancūz
     tija. Kadangi jo didieji priešai buvo susirišę su Prancūzija, tai
     jis pats tuojau užmezgė ryšius su Austrų Habsburgais ir iš jų
     šeimos net vedė žmoną.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bajorai]]
-- [[objektai/grupes/Habsburgai]]
-- [[objektai/grupes/Pacai]]

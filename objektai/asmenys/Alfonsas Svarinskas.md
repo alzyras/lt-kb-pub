@@ -3,12 +3,20 @@ tipas: asmuo
 pavadinimas: 'Alfonsas Svarinskas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1978 m.'
+date_start: '1978'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - kunigas
   - valstybė
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'XX a.'
 ---
 # Alfonsas Svarinskas
 
@@ -22,6 +30,11 @@ tags:
 - t-001
   global_id: t-18781
   teiginys: 'Alfonsas Svarinskas 1978 m. lapkričio 22 d. Maskvoje pranešė užsienio žurnalistams apie Tikinčiųjų teisių gynimo komiteto įkūrimą Lietuvoje.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, konkretus ir paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kulto laisvė|kulto laisvė]]; mentioned_person: [[objektai/asmenys/Alfonsas (Kastilijos karalius)|Alfonsas (Kastilijos karalius)]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas Kauneckas|Jonas Kauneckas]]; mentioned_person: [[objektai/asmenys/Juozas Zdebskis|Juozas Zdebskis]]; mentioned_place: Lietuva; mentioned_place: Maskva'
+  temporaliniai_duomenys: 'įvykio data: 1978 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, konkretus ir paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -53,16 +66,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Alfonsas (Kastilijos karalius)]]
-- [[objektai/asmenys/Jonas]]
-- [[objektai/asmenys/Jonas Kauneckas]]
-- [[objektai/asmenys/Juozas Zdebskis|Juozas Zdebskis (kunigas)]]
-- [[objektai/zodynas/kulto laisvė]]
-- [[objektai/grupes/Katalikų Bažnyčia]]
-- [[objektai/autoriai/Sigitas Tamkevičius]]
-- [[objektai/grupes/Tikinčiųjų teisių gynimo komitetas|Tikinčiųjų teisių gynimo komitetas (institucija)]]
-- [[objektai/ivykiai/Tikinčiųjų teisių gynimo komiteto įkūrimas ir paskelbimas (1978 m. lapkričio 13–22 d.)]]
-- [[objektai/asmenys/Vincentas Vėlavičius|Vincentas Vėlavičius (kunigas)]]

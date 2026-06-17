@@ -49,6 +49,9 @@ Nenurodyta
 - t-001
   global_id: t-62131
   teiginys: 'Skalvos viešpačiai Surbantas, Svisdeta ir Surdeta paliko tėvonijas ir su savo namais bei šeimyna patraukė pas brolius.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys pilnai perteikia citatoje aprašytą Skalvos viešpačių pasitraukimą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Surdeta|Surdeta]]; mentioned_person: [[objektai/asmenys/Svisdeta|Svisdeta]]; mentioned_place: Skalva; mentioned_place: Skalvos žemė'
   pagrindžia:
     - c-001
 
@@ -96,15 +99,3 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bartai]]
-- [[objektai/daiktai/Ginklai]]
-- [[objektai/asmenys/Maudelis]]
-- [[objektai/grupes/Nadruviai]]
-- [[objektai/asmenys/Svisdeta]]
-- [[objektai/posakiai/krikšto prikelti naujam gyvenimui|krikšto prikelti naujam gyvenimui (krikštas, XIII a.)]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/įkaitai]]
-- [[objektai/asmenys/Surdeta]]

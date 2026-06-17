@@ -44,6 +44,11 @@ Nenurodyta
 - t-001
   global_id: t-31436
   teiginys: '1295 m. kryžiuočiai prie Nemuno sunaikino stiprią Kymel pilį.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiksliai nurodo citatoje minimą pilies sunaikinimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Dubysa; mentioned_place: Gaižuva; mentioned_place: Kymel; mentioned_place: Nemunas; mentioned_place: Pačtuva; mentioned_place: Vilkija'
+  temporaliniai_duomenys: 'įvykio data: 1295 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir tiksliai nurodo citatoje minimą pilies sunaikinimą.'
   pagrindžia:
     - c-001
 
@@ -65,8 +70,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lietuviai]]

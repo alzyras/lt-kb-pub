@@ -21,6 +21,8 @@ Dusburgietis teigia, kad anksčiau pažymėta, kad Stalupėnų, Darkiemio ir kit
 - t-001
   global_id: t-61113
   teiginys: 'Stalupėnų, Darkiemio ir kitų vėlesnių apskričių lietuviai buvo nusiaubto krašto senųjų gyventojų palikuonys.'
+  sudarymo_pagrindimas: 'Citata palaiko teiginį, bet pradinis sakinys turi nereikalingą ir nepagrįstą Dusburgiečio atribuciją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-001
 

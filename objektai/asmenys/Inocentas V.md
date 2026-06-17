@@ -31,6 +31,11 @@ Dusburgietis teigia, kad apie Inocentą V, popiežių, ir Rudolfą, Romos karali
 - t-001
   global_id: t-60334
   teiginys: '1275 m. popiežiumi buvo Inocentas V, anksčiau vadintas pamokslininkų ordino broliu Petru iš Tarantezo.'
+  sudarymo_pagrindimas: 'Teiginys buvo fragmentiškas; citata pagrindžia Inocento V pareigas ir ankstesnį vardą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Romos karalius|Romos karalius]]'
+  temporaliniai_duomenys: 'įvykio data: 1275 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys buvo fragmentiškas; citata pagrindžia Inocento V pareigas ir ankstesnį vardą.'
   pagrindžia:
     - c-001
 
@@ -50,7 +55,3 @@ Dusburgietis teigia, kad apie Inocentą V, popiežių, ir Rudolfą, Romos karali
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Romos karalius]]

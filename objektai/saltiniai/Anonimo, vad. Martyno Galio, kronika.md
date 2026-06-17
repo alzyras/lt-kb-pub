@@ -20,6 +20,7 @@ XII amž. pradžioje surašytai seniausiai Anonimo, vad. Mar­ tyno Galio, kroni
 - t-001
   global_id: t-31617
   teiginys: 'XII a. pradžioje surašytoje Anonimo, vadinamo Martynu Galiu, kronikoje iš baltų buvo žinomas tik prūsų vardas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
 

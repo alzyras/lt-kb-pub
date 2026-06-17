@@ -18,7 +18,7 @@ amziai:
 
 ## Santrauka
 
-Po rinktinės vado suėmimo J. Paliūnas pakrikusius partizanus suorganizavo į Savanorio rinktinę.
+Po rinktinės vado suėmimo J.
 
 ## Teiginiai
 
@@ -26,6 +26,11 @@ Po rinktinės vado suėmimo J. Paliūnas pakrikusius partizanus suorganizavo į 
 - t-001
   global_id: t-39004
   teiginys: 'Po rinktinės vado suėmimo J. Paliūnas pakrikusius partizanus suorganizavo į Savanorio rinktinę.'
+  sudarymo_pagrindimas: 'Perrašyta į sklandesnį enciklopedinį sakinį be perteklinės konstrukcijos.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kęstučio apygarda|Kęstučio apygarda]]; mentioned_object: [[objektai/zodynas/Savanoris|Savanoris]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]'
+  temporaliniai_duomenys: 'įvykio data: 1948 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Perrašyta į sklandesnį enciklopedinį sakinį be perteklinės konstrukcijos.'
   pagrindžia:
     - c-001
 
@@ -45,10 +50,3 @@ Po rinktinės vado suėmimo J. Paliūnas pakrikusius partizanus suorganizavo į 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- [[objektai/grupes/Kęstučio apygarda]]
-- [[objektai/zodynas/Savanoris]]
-- [[objektai/grupes/Prisikėlimo apygarda]]

@@ -20,6 +20,8 @@ Kopczewski, M.
 - t-001
   global_id: t-19405
   teiginys: 'J. S. Kopczewski kartu su M. Siuchnińskiu parengė leidinį „Grunwald: 550 lat chwały“.'
+  sudarymo_pagrindimas: 'Citata pagrindžia rengėjo vaidmenį.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/M. Siuchniński|M. Siuchniński]]'
   pagrindžia:
     - c-001
 

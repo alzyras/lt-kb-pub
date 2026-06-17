@@ -20,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-1305 m. lietuviai kaip Rygos sąjungininkai įsiveržė į Livoniją, pralaimėjo prie Dobės, bet karo veiksmus tęsė iki 1307 m. vasaros.
+Kaip Rygos sąjungininkai, šie vėl 1305 m. įsiveržė Livonijon.
 
 ## Laikotarpis ir datos
 
@@ -44,6 +44,11 @@ Nenurodyta
 - t-001
   global_id: t-31474
   teiginys: '1305 m. lietuviai kaip Rygos sąjungininkai įsiveržė į Livoniją, pralaimėjo prie Dobės, bet karo veiksmus tęsė iki 1307 m. vasaros.'
+  sudarymo_pagrindimas: 'Citatoje veikėjai yra lietuviai kaip Rygos sąjungininkai, todėl verta juos įvardyti aiškiau.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rygiečiai|Rygiečiai]]; mentioned_place: Ryga'
+  temporaliniai_duomenys: 'įvykio data: iki 1307 m.; įvykio data: 1305 m.; įvykio data: 1307 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citatoje veikėjai yra lietuviai kaip Rygos sąjungininkai, todėl verta juos įvardyti aiškiau.'
   pagrindžia:
     - c-001
 
@@ -62,9 +67,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Rygiečiai]]

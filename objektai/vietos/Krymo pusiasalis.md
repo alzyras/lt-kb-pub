@@ -21,6 +21,7 @@ Totorių kariuomenė Strateginį privalumą totoriams laidavo jų pagrindinės b
 - t-001
   global_id: t-41810
   teiginys: 'Krymo pusiasalio nuošalumas nuo Lenkijos, Lietuvos ir Maskvos valstybės totoriams teikė strateginį pranašumą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/lengvoji kavalerija|lengvoji kavalerija]]; mentioned_place: Krymas; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Perekopas'
   pagrindžia:
     - c-001
 

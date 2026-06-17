@@ -26,6 +26,11 @@ PVL = Povest’ vremennych let, cast’ pervaja.
 - t-001
   global_id: t-30180
   teiginys: '„Povest’ vremennych let, cast’ pervaja“ teksto ir vertimo leidimas išleistas Leningrade 1951 m.'
+  sudarymo_pagrindimas: 'Citata leidžia suformuluoti bibliografinį faktą apie leidimą.'
+  susije_objektai: 'mentioned_place: Leningradas'
+  temporaliniai_duomenys: 'įvykio data: 1951 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata leidžia suformuluoti bibliografinį faktą apie leidimą.'
   pagrindžia:
     - c-001
 

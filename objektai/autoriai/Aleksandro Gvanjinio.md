@@ -4,9 +4,9 @@ pavadinimas: 'Aleksandro Gvanjinio'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
-  - '1482 m.'
+  - '1480 m.'
   - '1512 m.'
-date_start: '1482'
+date_start: '1480'
 date_end: '1512'
 sukurta: ''
 atnaujinta: ''
@@ -23,7 +23,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Aleksandro Gvanjinio knygoje „Europos Sarmatijos aprašymas“ yra iliustracija, vaizduojanti mūšį su totoriais. Aleksandro Gvanjinio knygoje neįvardytas iliustracijoje vaizduojamas mūšis, bet labiausiai tikėtina, kad tai 1512 m. Lopušnos mūšis. Aleksandro Gvanjinio knygoje „Europos Sarmatijos aprašymas“ yra iliustracija, vaizduojanti mūšį su totoriais.
+įvykęs Kijevo nusiaubimas, kurio metu į totorių nelaisvę pakliuvo aukščiausias vietinės Iliustracija iš Aleksandro Gvanjinio knygos „Europos Sarmatijos aprašymas“, vaizduojanti mūšį su totoriais. Gvanjinio knygoje konkrečiai nenurodoma, koks mūšis vaizduojamas, tačiau labiausiai tikėtina, kad čia vaizduojamas 1512 m. Lopušnos mūšis, kuriame jungtinė lietuvių ir lenkų kariuomenė sumušė įsiveržusias Krymo totorių pajėgas.
 
 ## Teiginiai
 
@@ -31,6 +31,11 @@ Aleksandro Gvanjinio knygoje „Europos Sarmatijos aprašymas“ yra iliustracij
 - t-001
   global_id: t-78739
   teiginys: 'Aleksandro Gvanjinio knygoje „Europos Sarmatijos aprašymas“ yra iliustracija, vaizduojanti mūšį su totoriais.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie autoriaus knygos iliustraciją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Kijevas; mentioned_place: Krymas; mentioned_place: Maskva'
+  temporaliniai_duomenys: 'įvykio data: 1480 m.; įvykio data: 1482 m.; įvykio data: 1506 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie autoriaus knygos iliustraciją.'
   pagrindžia:
     - c-002
 
@@ -38,6 +43,11 @@ Aleksandro Gvanjinio knygoje „Europos Sarmatijos aprašymas“ yra iliustracij
 - t-002
   global_id: t-78740
   teiginys: 'Aleksandro Gvanjinio knygoje neįvardytas iliustracijoje vaizduojamas mūšis, bet labiausiai tikėtina, kad tai 1512 m. Lopušnos mūšis.'
+  sudarymo_pagrindimas: 'Reikia išplėsti pavardę ir sutrumpinti teiginį iki aiškaus enciklopedinio sakinio.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/daiktai/Herbas|Herbas]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]; mentioned_place: Krymas; mentioned_place: Lenkija'
+  temporaliniai_duomenys: 'mūšio data: 1506 m.; mūšio data: 1512 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia išplėsti pavardę ir sutrumpinti teiginį iki aiškaus enciklopedinio sakinio.'
   pagrindžia:
     - c-001
 
@@ -76,11 +86,3 @@ Aleksandro Gvanjinio knygoje „Europos Sarmatijos aprašymas“ yra iliustracij
   pagrindžia:
     - t-003
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Herbas]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/zodynas/vėliava]]

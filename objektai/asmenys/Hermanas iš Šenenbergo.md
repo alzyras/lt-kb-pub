@@ -32,6 +32,11 @@ Dusburgietis teigia, kad galop magistras paskyrė šios žemės krašto komtūru
 - t-001
   global_id: t-60327
   teiginys: 'Hermanas iš Šenenbergo buvo paskirtas Kulmo žemės krašto komtūru ir vadovavo kovoms su į Kulmo žemę įsiveržusiais sūduviais.'
+  sudarymo_pagrindimas: 'Nutrūkęs fragmentas perrašytas į pilną faktinį sakinį apie asmenį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Bertoldas|Bertoldas]]; mentioned_person: [[objektai/asmenys/Bertoldas iš Nordhauzeno|Bertoldas iš Nordhauzeno]]; mentioned_person: [[objektai/asmenys/Hermanas|Hermanas]]; mentioned_place: Baiga; mentioned_place: Kulmas; mentioned_place: Prūsai; mentioned_place: Prūsija'
+  temporaliniai_duomenys: 'įvykio data: iki 1277 m.; įvykio data: po 1262 m.; įvykio data: 1262 m.; įvykio data: apie 1262 m.; įvykio data: po 1276 m.; įvykio data: 1276 m.; įvykio data: po 1277 m.; įvykio data: 1277 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
+  temporalinis_llm_pakomentavimas: 'Nutrūkęs fragmentas perrašytas į pilną faktinį sakinį apie asmenį.'
   pagrindžia:
     - c-001
 
@@ -66,17 +71,3 @@ Dusburgietis teigia, kad galop magistras paskyrė šios žemės krašto komtūru
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/karvedys]]
-
-### Susiję objektai
-- [[objektai/asmenys/Bertoldas]]
-- [[objektai/asmenys/Bertoldas iš Nordhauzeno]]
-- [[objektai/asmenys/Hermanas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Sūduviai]]
-- [[objektai/zodynas/ginklanešiai]]
-- [[objektai/zodynas/komtūras]]
-- [[objektai/zodynas/magistras]]

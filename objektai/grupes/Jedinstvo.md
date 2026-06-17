@@ -5,9 +5,10 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
+  - '1990 m.'
   - '1991 m.'
   - '2026 m.'
-date_start: '1991'
+date_start: '1990'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
@@ -21,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-Sovietų perversmą Lietuvoje turėjo įgyvendinti prosovietinės Lietuvos komunistų partijos suorganizuoti ir „Jedinstvo“ vedami rusakalbiai darbininkai. 1991 m. sausio 8 d. „Jedinstvo“ ir prosovietinės Lietuvos komunistų partijos vadovaujama „penktoji kolona“ mėgino užimti AT rūmus. Jedinstvo buvo prosovietinė organizacija, veikusi kaip sovietų penktoji kolona ir Maskvos nurodymu priešinusis Lietuvos nepriklausomybės atkūrimui.
+Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia kaip sovietų penktoji kolona Lietuvoje, Maskvos nurodymu besipriešinanti Lietuvos nepriklausomybės atkūrimui, rimtesnės įtakos neturėjo.
 
 ## Teiginiai
 
@@ -29,6 +30,11 @@ Sovietų perversmą Lietuvoje turėjo įgyvendinti prosovietinės Lietuvos komun
 - t-001
   global_id: t-65204
   teiginys: 'Sovietų perversmą Lietuvoje turėjo įgyvendinti prosovietinės Lietuvos komunistų partijos suorganizuoti ir „Jedinstvo“ vedami rusakalbiai darbininkai.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie „Jedinstvo“ vaidmenį rengiamame perversme.'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Pskovas'
+  temporaliniai_duomenys: 'įvykio data: 1991 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie „Jedinstvo“ vaidmenį rengiamame perversme.'
   pagrindžia:
     - c-003
 
@@ -36,6 +42,11 @@ Sovietų perversmą Lietuvoje turėjo įgyvendinti prosovietinės Lietuvos komun
 - t-002
   global_id: t-65205
   teiginys: '1991 m. sausio 8 d. „Jedinstvo“ ir prosovietinės Lietuvos komunistų partijos vadovaujama „penktoji kolona“ mėgino užimti AT rūmus.'
+  sudarymo_pagrindimas: 'Perrašyta išlaikant faktą ir aiškų subjektą be perteklinio konteksto.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sovietų Sąjunga|Sovietų Sąjunga]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Michailas Gorbačiovas|Michailas Gorbačiovas]]; mentioned_place: Lietuva; mentioned_place: SSRS'
+  temporaliniai_duomenys: 'įvykio data: 1990 m.; įvykio data: 1991 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Perrašyta išlaikant faktą ir aiškų subjektą be perteklinio konteksto.'
   pagrindžia:
     - c-002
 
@@ -43,6 +54,7 @@ Sovietų perversmą Lietuvoje turėjo įgyvendinti prosovietinės Lietuvos komun
 - t-003
   global_id: t-65206
   teiginys: 'Jedinstvo buvo prosovietinė organizacija, veikusi kaip sovietų penktoji kolona ir Maskvos nurodymu priešinusis Lietuvos nepriklausomybės atkūrimui.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/penktoji kolona|penktoji kolona]]; mentioned_place: Lietuva; mentioned_place: Maskva'
   pagrindžia:
     - c-001
 
@@ -50,6 +62,8 @@ Sovietų perversmą Lietuvoje turėjo įgyvendinti prosovietinės Lietuvos komun
 - t-004
   global_id: t-65207
   teiginys: 'Apie 400 „raudonraiščių“ vadovavo „Nacionalinio gelbėjimo komiteto“ lyderiai ir Valerijaus Ivanovo organizacija „Jedinstvo“.'
+  sudarymo_pagrindimas: 'Pradinis sakinys gramatiškai netikslus; citata leidžia suformuluoti aiškesnį teiginį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Kariauna|Kariauna]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]'
   pagrindžia:
     - c-004
 
@@ -57,6 +71,11 @@ Sovietų perversmą Lietuvoje turėjo įgyvendinti prosovietinės Lietuvos komun
 - t-005
   global_id: t-183135
   teiginys: 'Prosovietinė organizacija „Jedinstvo“ Maskvos nurodymu priešinosi Lietuvos nepriklausomybės atkūrimui, bet rimtesnės įtakos neturėjo.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis sakinys per ilgas ir perkrautas šalutinėmis detalėmis.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/penktoji kolona|penktoji kolona]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: SSRS; mentioned_place: Viena'
   pagrindžia:
     - c-005
 
@@ -181,13 +200,3 @@ Sovietų perversmą Lietuvoje turėjo įgyvendinti prosovietinės Lietuvos komun
   statusas: verified
   pagrindžia:
     - t-006
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Michailas Gorbačiovas]]
-- [[objektai/grupes/Sovietų Sąjunga]]
-- [[objektai/zodynas/penktoji kolona]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/asmenys/Juozas Jermalavičius]]
-- [[objektai/grupes/Lietuvos komunistų partija]]
-- [[objektai/asmenys/Mykolas Burokevičius]]

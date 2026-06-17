@@ -36,6 +36,9 @@ Nenurodyta
 - t-001
   global_id: t-62944
   teiginys: 'Vaikių valsčiuje iš pasalų buvo nukauta daug kilmingųjų.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Citata nepateikia aiškaus įvardyto veikėjo šiame fragmente, bet remia įvykio faktą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Pagraudė; mentioned_place: Vaikiai'
   pagrindžia:
     - c-001
     - c-002
@@ -71,8 +74,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/ivykiai/Pagraudės valsčiaus raitelių sunaikinimas Liudviko iš Libencelės pasaloje]]

@@ -29,6 +29,11 @@ amziai:
 - t-001
   global_id: t-31915
   teiginys: 'R. Krumbholtzo „Samaiten und der Deutsche Orden bis zum Frieden am Melno See 1422“ išleistas Karaliaučiuje 1890 m.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas bibliografine nuoroda.'
+  susije_objektai: 'mentioned_place: Karaliaučius; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1890 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas bibliografine nuoroda.'
   pagrindžia:
     - c-001
 

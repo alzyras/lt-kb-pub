@@ -43,6 +43,9 @@ Nenurodyta
 - t-001
   global_id: t-62665
   teiginys: 'Dusburgietis siekė išaukštinti Ordine jau užmirštus pirminius idealus.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas citatos išvada apie autoriaus siekį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
 
@@ -50,6 +53,9 @@ Nenurodyta
 - t-002
   global_id: t-62666
   teiginys: 'Kronikos pratarmėje Dusburgietis idealizuoja pirmuosius Ordino brolius, pasirinkusius neturtą, pavojus, rūpesčius ir vienatvę.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys tiksliai apibūdina citatoje pateiktą Dusburgiečio idealizavimą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; mentioned_place: Prūsija'
   pagrindžia:
     - c-002
 
@@ -86,10 +92,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Drabužiai]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/zodynas/netikėliai]]
-- [[objektai/posakiai/stebuklų padarė aukščiausias dievas per minėtuosius brolius Prūsijos žemėje]]

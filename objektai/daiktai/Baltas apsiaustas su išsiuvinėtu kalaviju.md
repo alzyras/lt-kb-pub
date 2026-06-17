@@ -4,16 +4,18 @@ pavadinimas: 'Baltas apsiaustas su išsiuvinėtu kalaviju'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
+  - '1202 m.'
+  - '1203 m.'
   - '1978 m.'
   - '2026 m.'
-date_start: '1978'
+date_start: '1202'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
 amziai:
-  - 'XX'
+  - 'XIII'
   - 'XXI'
 ---
 # Baltas apsiaustas su išsiuvinėtu kalaviju
@@ -48,6 +50,11 @@ Nenurodyta
 - t-001
   global_id: t-47800
   teiginys: 'Kalavijuočių ordino nariai ant balto apsiausto, be raudono kryžiaus, nešiojo išsiuvinėtą kalaviją.'
+  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatos informaciją apie kalavijuočių apsiaustą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/zodynas/kryžininkai|kryžininkai]]; mentioned_place: Palestina; mentioned_place: Vokietija'
+  temporaliniai_duomenys: 'įvykio data: 1202-1203; įvykio data: 1203 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia citatos informaciją apie kalavijuočių apsiaustą.'
   pagrindžia:
     - c-001
 
@@ -69,13 +76,3 @@ Nenurodyta
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/karo-reikmuo]]
-
-### Susiję objektai
-- [[objektai/grupes/Kalavijuočių ordinas]]
-- [[objektai/zodynas/kryžininkai]]
-- [[objektai/daiktai/Kalavijas]]
-- [[objektai/paprociai/Vakarų pagalbos kvietimas ir svečių iš Vokietijos šaukimas]]

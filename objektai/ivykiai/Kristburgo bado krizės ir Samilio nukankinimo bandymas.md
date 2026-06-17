@@ -38,6 +38,8 @@ Nenurodyta
 - t-001
   global_id: t-89371
   teiginys: 'Apsupti Kristburgo broliai maistą ir būtinus daiktus iš Elbingo Zirgūnos upe gabendavo sunkiai ir pavojingai.'
+  sudarymo_pagrindimas: 'Pradinis teiginys turi antraštės ir citatos nuotrupų; citata palaiko glaustą faktą.'
+  susije_objektai: 'mentioned_place: Elbingas; mentioned_place: Kristburgas; mentioned_place: Pamedė; mentioned_place: Prūsai; mentioned_place: Zirgūna'
   pagrindžia:
     - c-002
 
@@ -45,6 +47,8 @@ Nenurodyta
 - t-002
   global_id: t-89372
   teiginys: 'Per vėlesnį badą Kristburgo broliai ragino ištikimus pamedėnus pasitraukti kitur, kad šie galėtų prasimaitinti.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs; citata leidžia suformuluoti pilną sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pamedėnai|Pamedėnai]]; mentioned_place: Kristburgas; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
 
@@ -52,6 +56,8 @@ Nenurodyta
 - t-003
   global_id: t-89373
   teiginys: 'Prūsai pagavo Samilį, kankino jį verdančiu vandeniu ir ugnimi, nusiuntė broliams, o Samilis vėliau pagijo.'
+  sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir prasideda neaiškia nuoroda; citata palaiko aiškų faktą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Samilis|Samilis]]; mentioned_place: Prūsai'
   pagrindžia:
     - c-003
 
@@ -114,9 +120,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Pamedėnai]]
-- [[objektai/asmenys/Samilis]]
-- [[objektai/paprociai/Kristburgo pilies aprūpinimas Zirgūnos upe ir ištikimų pamedėnų pasitraukimas bado metu|Kristburgo pilies aprūpinimas Zirgūnos upe ir ištikimų pamedėnų pasitraukimas bado metu (pilis)]]

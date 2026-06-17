@@ -27,6 +27,7 @@ Nežiūrint nera­ mumų, po keturių savaičių nepaliaujamo darbo pilis buvo b
 - t-001
   global_id: t-36432
   teiginys: 'Naujasis Kvidzinas prie Kauno buvo viena iš trijų Vytauto valdžioje buvusių pilių, kurias turėjo sunaikinti.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Jurbarkas; mentioned_place: Kaunas; mentioned_place: Marienverderis; mentioned_place: Viena'
   pagrindžia:
     - c-002
 
@@ -34,6 +35,8 @@ Nežiūrint nera­ mumų, po keturių savaičių nepaliaujamo darbo pilis buvo b
 - t-002
   global_id: t-36433
   teiginys: 'Po keturių savaičių darbo pilis buvo baigta ir pavadinta Naujuoju Kvidzinu.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Naujojo Kvidzino pavadinimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]'
   pagrindžia:
     - c-003
 
@@ -41,6 +44,8 @@ Nežiūrint nera­ mumų, po keturių savaičių nepaliaujamo darbo pilis buvo b
 - t-003
   global_id: t-36434
   teiginys: 'Naujojo Kvidzino tvirtovė buvo pavesta valdyti Vytautui.'
+  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia, kad Naujojo Kvidzino tvirtovė buvo pavesta Vytautui.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-001
 

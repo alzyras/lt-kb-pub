@@ -26,9 +26,18 @@ Ibrahimas vadovavo turkams, atėjusiems į pagalbą Krymo skitams jų išpuoliuo
 - t-001
   global_id: t-186112
   teiginys: 'Ibrahimas vadovavo turkams, atėjusiems į pagalbą Krymo skitams jų išpuoliuose prieš lietuvių žemes.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata pagrindžia Ibrahimo vaidmenį ir turkų pagalbą Krymo skitams.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/zodynas/skitai|skitai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]; mentioned_place: Krymas'
+  temporaliniai_duomenys: 'įvykio data: 1527 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia Ibrahimo vaidmenį ir turkų pagalbą Krymo skitams.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Ibrahimas (Turkijos čiaušas).md#claim-t-87512|Ibrahimas (Turkijos čiaušas)]]: Turkijos čiaušas Ibrahimas su dvidešimt dviem tarnais turėjo būti aprūpintas nakvyne Vilniaus mieste.
+- susijęs iš [[objektai/asmenys/Ibrahimas (Turkijos čiaušas).md#claim-t-87513|Ibrahimas (Turkijos čiaušas)]]: Turkijos imperatoriaus čiaušas Ibrahimas buvo atsiųstas pas karalių ir, atvykęs iš Maskvos, paliko Vilniuje tarnus, žirgus bei daiktus.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -61,11 +70,3 @@ Ibrahimas vadovavo turkams, atėjusiems į pagalbą Krymo skitams jų išpuoliuo
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Ginklai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/skitai]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/grupes/Krymo totoriai]]

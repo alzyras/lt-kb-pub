@@ -3,12 +3,20 @@ tipas: asmuo
 pavadinimas: 'Kazimieras Pyplys-Mažytis'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1947 m.'
+date_start: '1947'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - dokumentas
   - popiežius
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'XX a.'
 ---
 # Kazimieras Pyplys-Mažytis
 
@@ -22,9 +30,23 @@ tags:
 - t-001
   global_id: t-19059
   teiginys: '1947 m. pabaigoje Kazimieras Pyplys-Mažytis ir Juozas Lukša-Skirmantas į laisvąjį pasaulį nugabeno partizanų dokumentus.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai pagrįstas citata.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Juozas Lukša-Skirmantas|Juozas Lukša-Skirmantas]]; mentioned_place: Lietuva; mentioned_place: SSRS'
+  temporaliniai_duomenys: 'įvykio data: 1947 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai pagrįstas citata.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Juozas Lukša-Skirmantas.md#claim-t-19015|Juozas Lukša-Skirmantas]]: 1947 m. pabaigoje Juozas Lukša-Skirmantas ir Kazimieras Pyplys-Mažytis į laisvąjį pasaulį nugabeno partizanų dokumentus.
+- susijęs iš [[objektai/asmenys/Pijus XII.md#claim-t-19194|Pijus XII]]: Popiežiui Pijui XII buvo skirtas 1947 m. pabaigoje į laisvąjį pasaulį nugabentas partizanų vadovybės laiškas.
+- susijęs iš [[objektai/grupes/Lietuvos partizanai.md#claim-t-74765|Lietuvos partizanai]]: 1947 m. pabaigoje Juozas Lukša-Skirmantas ir Kazimieras Pyplys-Mažytis per geležinę uždangą į laisvąjį pasaulį nugabeno partizanų dokumentus.
+- susijęs iš [[objektai/ivykiai/Partizanų dokumentų nugabenimas į laisvąjį pasaulį (1947 m. pabaiga).md#claim-t-75255|Partizanų dokumentų nugabenimas į laisvąjį pasaulį (1947 m. pabaiga)]]: 1947 m. pabaigoje Juozas Lukša-Skirmantas ir Kazimieras Pyplys-Mažytis per geležinę uždangą į laisvąjį pasaulį nugabeno partizanų dokumentus.
+- susijęs iš [[objektai/ivykiai/Partizanų dokumentų nugabenimas į laisvąjį pasaulį (1947 m. pabaiga).md#claim-t-75257|Partizanų dokumentų nugabenimas į laisvąjį pasaulį (1947 m. pabaiga)]]: 1947 m. pabaigoje partizanų dokumentų nugabenimas į Vakarus padėjo pirmą kartą užmegzti ryšius su pasitraukusių lietuvių organizacijomis.
+- susijęs iš Apygardų sudaryti okupacinės valdžios ištremtųjų, nužudytųjų ir suimtųjų sąrašai: 1947 m. pabaigoje Juozas Lukša-Skirmantas ir Kazimieras Pyplys-Mažytis į laisvąjį pasaulį nugabeno apygardų sudarytus okupacinės valdžios aukų sąrašus.
+- susijęs iš Apygardų sudaryti okupacinės valdžios ištremtųjų, nužudytųjų ir suimtųjų sąrašai: Okupacinė valdžia kovai su partizanais vis dažniau naudojo agentų smogikų būrius, sudarytus iš užverbuotų buvusių partizanų ir MGB karininkų.
+- susijęs iš Partizanų vadovybės laiškas popiežiui Pijui XII: 1947 m. pabaigoje Juozas Lukša-Skirmantas ir Kazimieras Pyplys-Mažytis į laisvąjį pasaulį nugabeno partizanų vadovybės laišką popiežiui Pijui XII.
+- susijęs iš Partizanų vadovybės laiškas popiežiui Pijui XII: 1947 m. pabaigoje Juozas Lukša-Skirmantas ir Kazimieras Pyplys-Mažytis nugabeno partizanų vadovybės laišką popiežiui Pijui XII į laisvąjį pasaulį.
+- susijęs iš [[objektai/zodynas/geležinė uždanga.md#claim-t-22145|geležinė uždanga]]: 1947 m. pabaigoje Juozas Lukša-Skirmantas ir Kazimieras Pyplys-Mažytis per „geležinę uždangą“ nugabeno partizanų dokumentus į laisvąjį pasaulį.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -47,9 +69,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuvos partizanai]]
-- [[objektai/ivykiai/Partizanų dokumentų nugabenimas į laisvąjį pasaulį (1947 m. pabaiga)]]
-- [[objektai/zodynas/geležinė uždanga]]

@@ -8,31 +8,35 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1401 m.'
+  - '1560 m.'
   - '2026 m.'
 date_start: '1401'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XV'
-  - 'XXI'
 tags:
   - bajorija
   - grupe
   - kunigaikštis
   - valdovas
+amziai:
+  - 'XV'
+  - 'XXI'
 ---
 # Lietuvos bajorija
 
 ## Santrauka
 
-Žygimanto Kęstutaičio Trakuose sušauktas seimas turėjo parengti paskutinį smūgį Rusios ir Lietuvos bajorijai. Vytauto laikais Lietuvos bajorija išėjo į viešąjį gyvenimą kaip nauja socialinė jėga ir įgijo herbų. Kojalavičiaus laikais Lietuvos bajorijos sluoksniuose jau ryškiau matėsi savos valstybingumo sąmonės silpnėjimas.
+Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laikąs jį ir Lietuvos bajorus laisvais ar nelaisvais. Jo valdymo metu Lietuva jau tiek sutvirtėjo, jog apie jos priklausomybę Lenkijai nebegalėjo būti nė kalbos, ir Lietuvos bajorai tuojau po jo mirties, nieko nesiklausę, paskelbė savo valdovu Švitrigailą. Lietuvos bajorija pasistengė šituo momentu pasinaudoti.
 
 ## Teiginiai
+
 <a id="claim-t-96706"></a>
 - t-001
   global_id: t-96706
   teiginys: 'Žygimanto Kęstutaičio Trakuose sušauktas seimas turėjo parengti paskutinį smūgį Rusios ir Lietuvos bajorijai.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Daugirdas|Daugirdas]]; mentioned_person: [[objektai/asmenys/Manvydas|Manvydas]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_person: [[objektai/asmenys/Olelka|Olelka]]; mentioned_person: [[objektai/asmenys/Rumbautas|Rumbautas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva; mentioned_place: Mstislavlis; mentioned_place: Trakai; mentioned_place: Vilnius'
   pagrindžia:
     - c-007
 
@@ -40,6 +44,8 @@ tags:
 - t-002
   global_id: t-96707
   teiginys: 'Vytauto laikais Lietuvos bajorija išėjo į viešąjį gyvenimą kaip nauja socialinė jėga ir įgijo herbų.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai apibendrina citatoje nurodytą bajorijos pokytį ir herbų gavimą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Herbai|Herbai]]; mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_object: [[objektai/zodynas/nobilitetas|nobilitetas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 
@@ -47,6 +53,7 @@ tags:
 - t-003
   global_id: t-96708
   teiginys: 'Kojalavičiaus laikais Lietuvos bajorijos sluoksniuose jau ryškiau matėsi savos valstybingumo sąmonės silpnėjimas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -54,6 +61,8 @@ tags:
 - t-004
   global_id: t-96709
   teiginys: 'Vytautui pirmą kartą pabėgus pas Ordiną, prie jo prisidėjo nemažai bajorų iš tikrosios Lietuvos ir ypač Žemaitijos.'
+  sudarymo_pagrindimas: 'Šaltinis palaiko faktą, bet pradiniame teiginyje yra OCR triukšmo.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_object: [[objektai/zodynas/šlėkta|šlėkta]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-002
 
@@ -61,6 +70,8 @@ tags:
 - t-005
   global_id: t-96710
   teiginys: 'Lietuvos Didžiosios Kunigaikštystės bajorai šaukimo metu privalėjo vykdyti krašto karinę tarnybą ir vykti į karą.'
+  sudarymo_pagrindimas: 'Teiginys perrašytas taip, kad būtų tiesiogiai apie Lietuvos bajoriją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-009
 
@@ -68,6 +79,7 @@ tags:
 - t-006
   global_id: t-96712
   teiginys: 'Pirmą kartą pabėgęs pas Ordiną, Vytautas sulaukė nemažai bajorų iš tikrosios Lietuvos ir Žemaičių paramos.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_object: [[objektai/zodynas/šlėkta|šlėkta]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-002
 
@@ -75,13 +87,25 @@ tags:
 - t-007
   global_id: t-96713
   teiginys: 'Kojalavičius rašė tuo metu, kai Lietuvos bajorijos sluoksniuose jau ryškėjo savos valstybingumo sąmonės silpnėjimas.'
+  sudarymo_pagrindimas: 'Pradinis teiginys labiau apie Kojalavičių, todėl perrašyta į citatos palaikomą faktą apie Lietuvos bajoriją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
+
+<a id="claim-t-96715"></a>
+- t-009
+  global_id: t-96715
+  teiginys: 'Napoleonas leido Lietuvos bajorijai sudaryti laikiną savo valdžią.'
+  susije_objektai: 'mentioned_place: Lietuva'
+  pagrindžia:
+    - c-006
 
 <a id="claim-t-96716"></a>
 - t-010
   global_id: t-96716
   teiginys: 'Vasaliniai kunigaikščiai ir Lietuvos bajorai tapo ypatingu Žygimanto Kęstutaičio neapykantos taikiniu.'
+  sudarymo_pagrindimas: 'Perrašyta, nes pradiniame teiginyje nepakankamai aiškiai įvardytas Žygimantas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-010
 
@@ -89,6 +113,8 @@ tags:
 - t-011
   global_id: t-96717
   teiginys: 'Katalikiškajai Lietuvos bajorijai didžiojo kunigaikščio elgesys buvo nepriimtinas.'
+  sudarymo_pagrindimas: 'Pirminis teiginys buvo apie Jogailą, o citata tiesiogiai remia faktą apie Lietuvos bajoriją.'
+  susije_objektai: 'mentioned_object: [[objektai/asmenys/Jogaila (Lenkijos karalius, 1382 m.)|Jogaila (Lenkijos karalius, 1382 m.)]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva; mentioned_place: Starodubas'
   pagrindžia:
     - c-011
 
@@ -96,42 +122,78 @@ tags:
 - t-012
   global_id: t-96720
   teiginys: '1560 metais Vilniuje vykusiame Ponų Tarybos seime karalius leido Lietuvos bajorams rinkti delegatus.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir tiesiogiai paremtas citata.'
+  susije_objektai: 'territory: Lietuva; territory: Vilnius; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuvos bajorija|Lietuvos bajorija]] susiję su Lietuva; [[objektai/grupes/Lietuvos bajorija|Lietuvos bajorija]] susiję su Vilnius'
   pagrindžia:
     - c-005
+
+<a id="claim-t-96721"></a>
+- t-013
+  global_id: t-96721
+  teiginys: '1401 m. susitarimą atskirais dokumentais patvirtino Vytautas, Jogaila, Lietuvos bajorai ir Lenkijos bajorai.'
+  sudarymo_pagrindimas: 'Teiginys sutrumpintas ir pašalinta perteklinė formuluotė.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkijos bajorai|Lenkijos bajorai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Daugirdas|Daugirdas]]; mentioned_person: [[objektai/asmenys/Manvydas|Manvydas]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_person: [[objektai/asmenys/Olelka|Olelka]]; mentioned_person: [[objektai/asmenys/Rumbautas|Rumbautas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Mstislavlis; mentioned_place: Trakai; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1401 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys sutrumpintas ir pašalinta perteklinė formuluotė.'
+  pagrindžia:
+    - c-008
 
 <a id="claim-t-96722"></a>
 - t-014
   global_id: t-96722
   teiginys: 'Švitrigaila be teismo užgrobdavo kai kurių bajorų turtus, todėl papiktino didžiąją Lietuvos krašto dalį.'
+  sudarymo_pagrindimas: 'Perrašyta aiškiau, pašalinant vertinamąją formuluotę ir įvardijant veiksmą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/asmenys/Jogaila (Lenkijos karalius, 1382 m.)|Jogaila (Lenkijos karalius, 1382 m.)]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva; mentioned_place: Starodubas'
   pagrindžia:
     - c-011
+
+<a id="claim-t-96725"></a>
+- t-016
+  global_id: t-96725
+  teiginys: 'Lietuvos bajorijai buvo leista sudaryti laikinę Lietuvos vyriausybę, kuriai vadovavo grafas Soltanas.'
+  sudarymo_pagrindimas: 'Pradinis teiginys turi neaiškų įvardį, todėl perrašytas su aiškiais veikėjais.'
+  susije_objektai: 'mentioned_place: Lietuva'
+  pagrindžia:
+    - c-004
 
 <a id="claim-t-96726"></a>
 - t-017
   global_id: t-96726
   teiginys: '1560 m. Vilniuje vykusiame LDK Ponų Tarybos seime karalius leido bajorams rinkti delegatus.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata apie bajorų delegatų rinkimą.'
+  susije_objektai: 'territory: Lietuva; territory: Vilnius; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuvos bajorija|Lietuvos bajorija]] susiję su Lietuva; [[objektai/grupes/Lietuvos bajorija|Lietuvos bajorija]] susiję su Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1560 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Lietuvos bajorija susiję su Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Lietuvos bajorija susiję su Vilnius“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata apie bajorų delegatų rinkimą.'
   pagrindžia:
     - c-005
-- t-018
-  teiginys: 'Napoleonas leido Lietuvos bajorijai sudaryti laikiną savo valdžią.'
-  pagrindžia:
-    - c-013
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-019
-  teiginys: 'Lietuvos bajorijai buvo leista sudaryti laikinę Lietuvos vyriausybę, kuriai vadovavo grafas Soltanas.'
-  pagrindžia:
-    - c-014
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-020
-  teiginys: '1401 m. susitarimą atskirais dokumentais patvirtino Vytautas, Jogaila, Lietuvos bajorai ir Lenkijos bajorai.'
-  pagrindžia:
-    - c-012
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-
+- susijęs iš [[objektai/asmenys/Aleksandras I.md#claim-t-183518|Aleksandras I]]: Lietuvos bajorija norėjo prisijungti prie Kongresinės Lenkijos, tačiau Aleksandras I tam nepritarė.
+- susijęs iš [[objektai/asmenys/Palemonas.md#claim-t-187453|Palemonas]]: Lietuvos metraščiuose sukurta Palemono legenda tapo lietuvių ir rusėnų bajorijos kilmės tradicijos pagrindu.
+- susijęs iš [[objektai/autoriai/Laurynas Ivinskis.md#claim-t-113486|Laurynas Ivinskis]]: Laurynas Ivinskis buvo žemaičių bajoras ir lietuviškų kalendorių leidėjas, gyvenęs 1808–1881 m.
+- susijęs iš [[objektai/daiktai/Herbai.md#claim-t-12291|Herbai]]: Vytauto laikais Lietuvos bajorija gavo herbus ir per juos įgijo luomo savygarbos.
+- susijęs iš [[objektai/daiktai/Herbai.md#claim-t-92966|Herbai]]: Vytauto laikais Lietuvos bajorija gavo europietiško nobiliteto pažymius - herbus ir palengva virto atskiru luomu.
+- susijęs iš [[objektai/grupes/Gediminaičių dinastija.md#claim-t-96106|Gediminaičių dinastija]]: Palemono legenda tapo pagrindu lietuvių ir rusėnų bajorijai savo kilmę sieti su Palemono tradicija arba Gediminaičių dinastija.
+- susijęs iš [[objektai/grupes/Lietuvių bajorija.md#claim-t-50695|Lietuvių bajorija]]: Vytauto laikais Lietuvos bajorija išėjo į viešąjį gyvenimą kaip nauja socialinė jėga.
+- susijęs iš [[objektai/ivykiai/Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.).md#claim-t-66624|Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.)]]: Lietuvos bajorija priešinosi kodeksui, nes jis buvo skirtas abiem jungtinėms valstybėms ir reiškė Lietuvos statuto atsisakymą.
+- susijęs iš [[objektai/paprociai/LDK politinės tautos savivoka ir Palemono kilmės tradicija.md#claim-t-54264|LDK politinės tautos savivoka ir Palemono kilmės tradicija]]: Lietuvos metraščiuose sukurta Palemono ir jo ainių legenda tapo lietuvių ir rusėnų bajorijos kilmės aiškinimo pagrindu.
+- susijęs iš [[objektai/paprociai/LDK politinės tautos savivoka ir Palemono kilmės tradicija.md#claim-t-54265|LDK politinės tautos savivoka ir Palemono kilmės tradicija]]: Lietuvos metraščiuose sukurta Palemono legenda tapo lietuvių ir rusėnų bajorijos kilmės aiškinimo pagrindu.
+- susijęs iš Lietuvos Metraščiai: Lietuvos metraščiuose sukurta Palemono legenda tapo pagrindu lietuvių ir rusėnų bajorijai savo kilmę sieti su Palemono tradicija.
+- susijęs iš Lenkija: Ratifikavus sutartį ir įsigaliojus jos nuostatoms, Lenkija oficialiai atsisakė bet kokių pretenzijų į Vilniaus kraštą.
+- susijęs iš Lenkija: Lietuvos bajorija jautėsi sudaranti vieną luomą su Lenkijos bajorija, bet Lietuva pati rūpinosi savo gynyba ir sutartimis.
+- susijęs iš Lenkija: Kai 1815 m. Vienos kongreso nutarimu iš didesnės dalies Varšuvos kunigaikštystės žemių, įskaitant Lietuvos Užnemunę, buvo sudaryta Lenkijos karalystė, vadinamoji Kongresinė Lenkija, jos sostas paveldėjimo teise perduotas Rusijos valdančiajai dinastijai.
+- susijęs iš Lietuva: Lietuvos bajorija jautėsi sudaranti vieną luomą su Lenkijos bajorija, bet Lietuva pati rūpinosi savo gynyba ir sutartimis.
+- susijęs iš Lietuva: Sugriovus pilis, žemdirbiai palikdavo kaimus, o priešas leisdavosi vis toliau į Lietuvos gilumą.
+- susijęs iš [[objektai/zodynas/dvarų milicija.md#claim-t-02981|dvarų milicija]]: Dvarų milicija buvo didikų atsivesta samdyta kariuomenė.
+- susijęs iš [[objektai/zodynas/dvarų milicija.md#claim-t-182942|dvarų milicija]]: Sapiegų priešininkai atsivedė samdytos kariuomenės, vadintos savo dvarų milicija.
+- susijęs iš [[objektai/zodynas/luomas.md#claim-t-169920|luomas]]: Vytauto laikais Lietuvos bajorija gavo herbus, įgijo luomo savygarbą ir iš visuomenės sluoksnio virto luomu.
+- susijęs iš [[objektai/zodynas/nobilitetas.md#claim-t-36817|nobilitetas]]: Vytauto laikais Lietuvos bajorija gavo europietiško nobiliteto pažymius – herbus.
+- susijęs iš [[objektai/zodynas/politinė tauta lietuvių nacija.md#claim-t-22247|politinė tauta lietuvių nacija]]: Lietuvos metraščiuose Palemono legenda tapo pagrindu lietuvių ir rusėnų bajorijai vesti savo kilmę Palemono tradicija.
+- susijęs iš [[objektai/zodynas/statutas.md#claim-t-100291|statutas]]: Lietuvos bajorija priešinosi bendro kodekso įvedimui, nes nenorėjo išsižadėti Lietuvos statuto ir atskirų teisių.
 ## Reikšmingi paminėjimai
+
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -150,6 +212,7 @@ tags:
   pagrindžia:
     - t-003
     - t-007
+
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -167,6 +230,7 @@ tags:
   pagrindžia:
     - t-006
     - t-004
+
 - c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -185,6 +249,22 @@ tags:
   statusas: verified
   pagrindžia:
     - t-002
+
+- c-004
+  santrauka: 'Lietuvos bajorijai buvo leista sudaryti laikinę Lietuvos vyriausybę, kuriai vadovavo grafas Soltanas.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tačiau jis leido Lietuvos bajorijai sudaryti lai-
+    kinę savo valdžią.
+    Laikinės Lietuvos vyriausybės priešaky
+    atsistojo grafas Soltanas. Toji vyriausybė turėjo tvarkyti
+    krašto reikalus ir parūpinti armijai maisto.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-016
+
 - c-005
   santrauka: '1560 metais Vilniuje vykusiame Ponų Tarybos seime karalius leido Lietuvos bajorams rinkti delegatus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -206,6 +286,22 @@ tags:
   pagrindžia:
     - t-012
     - t-017
+
+- c-006
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Bajorijos atsiunčiamoms de-
+    legacijoms jis nieko tikro nežadėjo, nes dar tebebuvo neaiški
+    karo pabaiga. Tačiau jis leido Lietuvos bajorijai sudaryti lai-
+    kinę savo valdžią.
+    Laikinės Lietuvos vyriausybės priešaky
+    atsistojo grafas Soltanas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-009
+
 - c-007
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -227,6 +323,25 @@ tags:
   pagrindžia:
     - t-001
     - t-008
+
+- c-008
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Vytautas tam nesiprie-
+    šino; jis ir dabar prisipažino gavęs Lietuvą iš Jogailos, bet tuo
+    tarpu neketino jos grąžinti. Po ilgų derybų, 1401 m. buvo pa-
+    siektas naujas susitarimas, kurs buvo patvirtintas 4 atskirais do-
+    kumentais: atskirais dokumentais jį patvirtino Vytautas, Jo-
+    gaila, Lietuvos ir Lenkų bajorai. Vytauto ir Lietuvos bajorų
+    dokumentai buvo parašyti Vilniuje; Jogailos dokumentas yra žu-
+    vęs, tad nežinia, kur jis duotas; lenkų bajorai savo dokumentą su-
+    rašė Radome.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-013
+
 - c-009
   santrauka: 'Lietuvos Didžiosios Kunigaikštystės bajorai šaukimo metu privalėjo vykdyti krašto karinę tarnybą ir vykti į karą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -246,6 +361,7 @@ tags:
   statusas: verified
   pagrindžia:
     - t-005
+
 - c-010
   santrauka: 'Vasaliniai kunigaikščiai ir Lietuvos bajorai tapo ypatingu Žygimanto neapykantos taikiniu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -264,6 +380,7 @@ tags:
   pagrindžia:
     - t-010
     - t-015
+
 - c-011
   santrauka: 'Despotiškas didžiojo kunigaikščio elgesys su kai kuriais bajorais papiktino didžiąją Lietuvos krašto dalį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -289,101 +406,7 @@ tags:
   pagrindžia:
     - t-014
     - t-011
-- c-012
-  santrauka: '1401 m. susitarimą atskirais dokumentais patvirtino Vytautas, Jogaila, Lietuvos bajorai ir Lenkijos bajorai.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Vytautas tam nesiprie-
-    šino; jis ir dabar prisipažino gavęs Lietuvą iš Jogailos, bet tuo
-    tarpu neketino jos grąžinti. Po ilgų derybų, 1401 m. buvo pa-
-    siektas naujas susitarimas, kurs buvo patvirtintas 4 atskirais do-
-    kumentais: atskirais dokumentais jį patvirtino Vytautas, Jo-
-    gaila, Lietuvos ir Lenkų bajorai. Vytauto ir Lietuvos bajorų
-    dokumentai buvo parašyti Vilniuje; Jogailos dokumentas yra žu-
-    vęs, tad nežinia, kur jis duotas; lenkų bajorai savo dokumentą su-
-    rašė Radome.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-020
-- c-013
-  santrauka: 'Napoleonas leido Lietuvos bajorijai sudaryti laikiną savo valdžią.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Bajorijos atsiunčiamoms de-
-    legacijoms jis nieko tikro nežadėjo, nes dar tebebuvo neaiški
-    karo pabaiga. Tačiau jis leido Lietuvos bajorijai sudaryti lai-
-    kinę savo valdžią.
-    Laikinės Lietuvos vyriausybės priešaky
-    atsistojo grafas Soltanas.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-018
-- c-014
-  santrauka: 'Lietuvos bajorijai buvo leista sudaryti laikinę Lietuvos vyriausybę, kuriai vadovavo grafas Soltanas.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tačiau jis leido Lietuvos bajorijai sudaryti lai-
-    kinę savo valdžią.
-    Laikinės Lietuvos vyriausybės priešaky
-    atsistojo grafas Soltanas. Toji vyriausybė turėjo tvarkyti
-    krašto reikalus ir parūpinti armijai maisto.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-019
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.)]]
-- [[objektai/paprociai/LDK politinės tautos savivoka ir Palemono kilmės tradicija]]
-- [[objektai/zodynas/dvarų milicija]]
-- [[objektai/zodynas/nobilitetas]]
-- [[objektai/zodynas/statutas]]
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/asmenys/Augustas]]
-- [[objektai/grupes/Bajorai]]
-- [[objektai/asmenys/Daugirdas]]
-- [[objektai/daiktai/Herbai]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lenkų bajorai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Lotynai]]
-- [[objektai/asmenys/Manvydas]]
-- [[objektai/asmenys/Mykolas]]
-- [[objektai/asmenys/Olelka]]
-- [[objektai/asmenys/Rumbautas]]
-- [[objektai/asmenys/Vladislovas]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/luomas]]
-- [[objektai/zodynas/ponai]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/unija]]
-- [[objektai/zodynas/vaivada]]
-- [[objektai/zodynas/šlėkta]]
-- [[objektai/asmenys/Žygimantas]]
-- [[objektai/asmenys/Aleksandras I]]
-- [[objektai/grupes/Gediminaičių dinastija]]
-- [[objektai/autoriai/Laurynas Ivinskis]]
-- [[objektai/asmenys/Palemonas]]
-- [[objektai/zodynas/politinė tauta lietuvių nacija]]
-- [[objektai/grupes/Lenkijos bajorai]]
-- [[objektai/asmenys/Švitrigaila]]
-- [[objektai/grupes/Lietuvių bajorija]]
-- [[objektai/grupes/Laikinė Lietuvos vyriausybė]]
-- [[objektai/grupes/Lietuvos Didžiosios Kunigaikštystės Ponų Taryba]]
-- [[objektai/grupes/Lietuvos ponų taryba]]
-- [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]
+- Lietuvos bajorija susije_su [[objektai/vietos/Lietuva]]
+- Lietuvos bajorija susije_su [[objektai/vietos/Vilnius]]

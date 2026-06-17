@@ -24,7 +24,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Kiek vėliau tai padarė Mikalojus iš Jerošino. XIV a. ketvirtajame dešimtmetyje Mikalojus iš Jerošino eilėmis išvertė Dusburgiečio kroniką į vokiečių kalbą. Kiek vėliau tai padarė Mikalojus iš Jerošino.
+Dusburgietis teigia, kad kiek vėliau tai padarė Mikalojus iš Jerošino. Dusburgietis teigia, kad iV-ajame dešimtmetyje Dusburgiečio kroniką eilėmis į vokiečių kalbą išvertė Mikalojus iš Jerošino.
 
 ## Teiginiai
 
@@ -32,6 +32,8 @@ Kiek vėliau tai padarė Mikalojus iš Jerošino. XIV a. ketvirtajame dešimtmet
 - t-001
   global_id: t-60171
   teiginys: 'Kiek vėliau tai padarė Mikalojus iš Jerošino.'
+  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/autoriai/Jerošinas|Jerošinas]]; mentioned_place: Europa'
   pagrindžia:
     - c-001
 
@@ -39,9 +41,17 @@ Kiek vėliau tai padarė Mikalojus iš Jerošino. XIV a. ketvirtajame dešimtmet
 - t-002
   global_id: t-60172
   teiginys: 'XIV a. ketvirtajame dešimtmetyje Mikalojus iš Jerošino eilėmis išvertė Dusburgiečio kroniką į vokiečių kalbą.'
+  sudarymo_pagrindimas: 'Teiginys yra enciklopedinis, gramatiškas ir tiksliai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/autoriai/Jerošinas|Jerošinas]]'
+  temporaliniai_duomenys: 'įvykio data: 1335 m.; įvykio data: 1340 m.; įvykio data: apie 1340 m.; įvykio data: 1341 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra enciklopedinis, gramatiškas ir tiksliai paremtas citata.'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/asmenys/Liuteris iš Braunšveigo.md#claim-t-60380|Liuteris iš Braunšveigo]]: Liuterio iš Braunšveigo valdymo laikais Mikalojus iš Jerošino pradėjo versti Dusburgiečio kroniką į vokiečių kalbą.
+- susijęs iš 1781 m. vokiškas Dusburgiečio kronikos vertimas: 1781 m. Dusburgiečio kronika iš Karaliaučiaus karališkosios bibliotekos lotyniškojo teksto buvo išversta į vokiečių kalbą.
+- susijęs iš Mikalojaus iš Jerošino Prūsijos žemės kronika: XIV a. ketvirtajame dešimtmetyje Mikalojus iš Jerošino eilėmis išvertė Dusburgiečio kroniką į vokiečių kalbą.
+- susijęs iš Vilnius: 7-ojo dešimtmečio), vertimas dabar saugomas Vilniuje78.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -91,9 +101,3 @@ Kiek vėliau tai padarė Mikalojus iš Jerošino. XIV a. ketvirtajame dešimtmet
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lotynai]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/magistras]]

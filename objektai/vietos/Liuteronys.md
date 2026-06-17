@@ -20,6 +20,8 @@ Taip ir Mikniškių žemė, nuo­ mojama Vepriuose, Liuteronių kaime...........
 - t-001
   global_id: t-86207
   teiginys: 'Mikniškių žemė buvo nuomojama Vepriuose, Liuteronių kaime.'
+  sudarymo_pagrindimas: 'Teiginys yra paprastas, gramatiškas ir paremtas citata.'
+  susije_objektai: 'mentioned_place: Kaimas'
   pagrindžia:
     - c-001
 

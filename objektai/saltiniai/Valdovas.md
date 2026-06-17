@@ -21,6 +21,7 @@ Putino - Mykolaičio, VALDOVAS...
 - t-001
   global_id: t-34993
   teiginys: 'V. Putino-Mykolaičio „Valdovas“ yra istorinė šešių veiksmų drama.'
+  sudarymo_pagrindimas: 'Teiginys tiksliai nusako kūrinio žanrą ir struktūrą pagal citatą.'
   pagrindžia:
     - c-001
 

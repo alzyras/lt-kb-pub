@@ -20,6 +20,8 @@ Aničas.
 - t-001
   global_id: t-39866
   teiginys: 'J. Aničas parašė biografinę apybraižą „Generolas Silvestras Žukauskas (1861–1937)“.'
+  sudarymo_pagrindimas: 'Citata palaiko bibliografinį faktą apie autorių, o pradinis teiginys neturi predikato.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Silvestras Žukauskas|Silvestras Žukauskas]]'
   pagrindžia:
     - c-001
 
@@ -36,7 +38,3 @@ Aničas.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Kryžius]]

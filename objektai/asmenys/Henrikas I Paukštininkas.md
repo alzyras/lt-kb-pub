@@ -23,6 +23,8 @@ Vokietijos miestai, iki Ka­ rolio Didžiojo beveik nežinomi, vėliau, X amžiu
 - t-001
   global_id: t-87688
   teiginys: 'Valdant Henrikui I Paukštininkui, X a. Vokietijos miestai sustiprėjo tiek, kad sulaikydavo vengrų antpuolius.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Henriko I valdymo laikotarpį ir paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_object: [[objektai/daiktai/Pančiai|Pančiai]]; mentioned_place: Italija; mentioned_place: Prancūzija; mentioned_place: Vokietija'
   pagrindžia:
     - c-001
 
@@ -50,9 +52,3 @@ Vokietijos miestai, iki Ka­ rolio Didžiojo beveik nežinomi, vėliau, X amžiu
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Pančiai]]
-- [[objektai/grupes/Vengrai]]
-- [[objektai/zodynas/Cechas]]

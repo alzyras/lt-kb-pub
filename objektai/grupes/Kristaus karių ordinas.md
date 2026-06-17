@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Kunigaikštystė pilis, miestas Dobrynės broliai (Dobrynės ordinas) žr.
+Dusburgietis teigia, kad kunigaikštystė pilis, miestas Dobrynės broliai (Dobrynės ordinas) žr. Dusburgietis teigia, kad kristaus karių ordinas, Dobrynės broliai Kristaus karių ordinas Livonijos žemėje Kristburgas Senasis (Kirsapilis, Kirsa, Kirsberg, Kirsburg; Cristburgk, Cristburc; Christburg, Aldinkirsburg, Kirseburg ir pan.
 
 ## Teiginiai
 
@@ -23,6 +23,9 @@ Kunigaikštystė pilis, miestas Dobrynės broliai (Dobrynės ordinas) žr.
 - t-001
   global_id: t-63011
   teiginys: 'Kunigaikštystė pilis, miestas Dobrynės broliai (Dobrynės ordinas) žr.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Dobrynės broliai|Dobrynės broliai]]; mentioned_place: Diunamiundė; mentioned_place: Dobrynė; mentioned_place: Dorpatas'
   pagrindžia:
     - c-001
 
@@ -52,8 +55,3 @@ Kunigaikštystė pilis, miestas Dobrynės broliai (Dobrynės ordinas) žr.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Dobrynės broliai]]
-- [[objektai/grupes/Kalavijuočių ordinas]]

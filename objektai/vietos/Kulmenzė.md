@@ -14,6 +14,7 @@ tags:
   - pilis
   - sutartis
   - vieta
+  - vyskupas
 amziai:
   - 'XIII'
 ---
@@ -21,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-Kulmenzės katedros bažnyčioje buvo palaidotas Goliubo pilies statytojas, atsisakęs pareigų ir ten miręs. Liudvikas iš Šipeno, keturioliktas Prūsijos žemės magistras, 1299 m. mirė ir buvo palaidotas Kulmenzės katedroje. Prūsų kariuomenė atžygiavo ir apsiautė Kulmenzės miestą.
+Dusburgietis teigia, kad apie Kulmenzės miesto apgulą Po to atžygiavo prūsų kariuomenė ir apsiautė Kulmenzės miestą433. Dusburgietis teigia, kad apie daugybės Kulmenzės miestiečių žūtį Per javapjūtę434 atėjo prūsų kariuomenė ir 13 dienų slapstėsi miške apie tą vietą, kuri vadinama Fogelzangu; kadangi kiekvieną dieną bent keli prūsai pasirodydavo lauke, miestiečiai bėgdavo nuo pjūties darbų. Dusburgietis teigia, kad kai po 9 dienų priėjo Kulmenzę446, vienas karys iš Lenkijos, vardu Ninerikas, įsigavo į šį miestą pasižadėjęs jį išduoti Skomantui.
 
 ## Teiginiai
 
@@ -29,6 +30,7 @@ Kulmenzės katedros bažnyčioje buvo palaidotas Goliubo pilies statytojas, atsi
 - t-001
   global_id: t-58496
   teiginys: 'Kulmenzės katedros bažnyčioje buvo palaidotas Goliubo pilies statytojas, atsisakęs pareigų ir ten miręs.'
+  sudarymo_pagrindimas: 'Citata palaiko tik palaidojimo Kulmenzėje faktą, o įvardis turi būti pašalintas.'
   pagrindžia:
     - c-002
 
@@ -36,6 +38,12 @@ Kulmenzės katedros bažnyčioje buvo palaidotas Goliubo pilies statytojas, atsi
 - t-002
   global_id: t-58497
   teiginys: 'Liudvikas iš Šipeno, keturioliktas Prūsijos žemės magistras, 1299 m. mirė ir buvo palaidotas Kulmenzės katedroje.'
+  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatą apie Liudviko iš Šipeno mirtį ir palaidojimą.'
+  susije_objektai: 'location: Kulmenzė; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_place: Prūsija'
+  semantiniai_rysiai: '[[objektai/asmenys/Liudvikas|Liudvikas]] mirė Kulmenzė'
+  temporaliniai_duomenys: 'mirties data: 1299 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Liudvikas mirė Kulmenzė“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia citatą apie Liudviko iš Šipeno mirtį ir palaidojimą.'
   pagrindžia:
     - c-004
 
@@ -43,6 +51,8 @@ Kulmenzės katedros bažnyčioje buvo palaidotas Goliubo pilies statytojas, atsi
 - t-003
   global_id: t-58498
   teiginys: 'Prūsų kariuomenė atžygiavo ir apsiautė Kulmenzės miestą.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Kulmenzės apgulą.'
+  susije_objektai: 'mentioned_place: Prūsai'
   pagrindžia:
     - c-003
 
@@ -50,6 +60,8 @@ Kulmenzės katedros bažnyčioje buvo palaidotas Goliubo pilies statytojas, atsi
 - t-004
   global_id: t-58499
   teiginys: 'Lenkų karys Ninerikas įsigavo į Kulmenzę, pasižadėjęs išduoti miestą sūduvių vadui Skomantui.'
+  sudarymo_pagrindimas: 'Reikia pašalinti boilerplate ir aiškiai įvardyti miestą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_person: [[objektai/asmenys/Ninerikas|Ninerikas]]; mentioned_place: Eimsutis; mentioned_place: Kulmas; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -57,9 +69,31 @@ Kulmenzės katedros bažnyčioje buvo palaidotas Goliubo pilies statytojas, atsi
 - t-005
   global_id: t-58500
   teiginys: 'Per javapjūtę prūsų kariuomenė 13 dienų slapstėsi miške prie Fogelzango netoli Kulmenzės.'
+  sudarymo_pagrindimas: 'Citata pagrindžia įvykį, bet pirminis teiginys per ilgas ir nutrūkęs.'
+  susije_objektai: 'mentioned_place: Prūsai'
   pagrindžia:
     - c-005
-
+- susijęs iš [[objektai/asmenys/Helmerichas.md#claim-t-89794|Helmerichas]]: Helmerichas buvo šeštasis Prūsijos žemės magistras, vadovavo trejus metus ir buvo palaidotas Kulmenzės bažnyčioje.
+- susijęs iš [[objektai/asmenys/Liudvikas iš Šipeno.md#claim-t-60379|Liudvikas iš Šipeno]]: Liudvikas iš Šipeno buvo keturioliktasis Prūsijos žemės magistras, vadovavo vienus metus ir 1299 m. buvo palaidotas Kulmenzės katedroje.
+- susijęs iš Goliubo pilis (pilis): Pareigų atsisakęs asmuo apsigyveno savo pasistatytoje Goliubo pilyje, ten mirė ir buvo palaidotas Kulmenzės katedros bažnyčioje.
+- susijęs iš [[objektai/asmenys/Ditrichas (Prūsijos žemės maršalas).md#claim-t-89685|Ditrichas (Prūsijos žemės maršalas)]]: Brolis Ditrichas buvo Prūsijos žemės maršalas Helmericho, šeštojo Prūsijos žemės magistro, vadovavimo metu.
+- susijęs iš [[objektai/asmenys/Ditrichas (Prūsijos žemės maršalas).md#claim-t-89687|Ditrichas (Prūsijos žemės maršalas)]]: Brolis Ditrichas buvo Prūsijos žemės maršalas tuo metu, kai Helmerichas vadovavo Prūsijos žemei.
+- susijęs iš [[objektai/asmenys/Helmerichas.md#claim-t-89794|Helmerichas]]: Helmerichas buvo šeštasis Prūsijos žemės magistras, vadovavo trejus metus ir buvo palaidotas Kulmenzės bažnyčioje.
+- susijęs iš [[objektai/asmenys/Konradas Žakas.md#claim-t-60045|Konradas Žakas]]: Konradas Žakas buvo šešioliktas Prūsijos magistras ir vadovavo šešerius metus.
+- susijęs iš [[objektai/asmenys/Liudvikas iš Šipeno.md#claim-t-60379|Liudvikas iš Šipeno]]: Liudvikas iš Šipeno buvo keturioliktasis Prūsijos žemės magistras, vadovavo vienus metus ir 1299 m. buvo palaidotas Kulmenzės katedroje.
+- susijęs iš [[objektai/asmenys/Ninerikas.md#claim-t-184116|Ninerikas]]: Lenkijos karys Ninerikas įsigavo į Kulmenzę ir pasižadėjo išduoti miestą sūduvių vadui Skomantui.
+- susijęs iš [[objektai/asmenys/Ninerikas.md#claim-t-60182|Ninerikas]]: Lenkijos karys Ninerikas įsigavo į Kulmenzę ir pasižadėjo išduoti miestą sūduvių vadui Skomantui.
+- susijęs iš [[objektai/ivykiai/Kulmenzės javapjūtės žudynės.md#claim-t-62349|Kulmenzės javapjūtės žudynės]]: Per javapjūtę prūsai prie Fogelzango užpuolė Kulmenzės miestiečius, išžudė vyrus, o moteris ir vaikus išsivarė į nelaisvę.
+- susijęs iš [[objektai/ivykiai/Kulmenzės miesto apgula ir sužeisto prūso iškeitimas.md#claim-t-62350|Kulmenzės miesto apgula ir sužeisto prūso iškeitimas (miestas)]]: Prūsų kariuomenė apsiautė Kulmenzės miestą, o jos vadas pažadėjo pasitraukti mainais į sužeisto prūso grąžinimą.
+- susijęs iš [[objektai/ivykiai/Veklico pilies ir vienos pilaitės sugriovimas.md#claim-t-66945|Veklico pilies ir vienos pilaitės sugriovimas]]: Pagudėnai su sūduviais ir kitomis Prūsijos gentimis sudegino pilaitę tarp Ragavos ir Veisikos upių.
+- susijęs iš [[objektai/paprociai/Belaisvių išsivarimas į nelaisvę ir amžiną vergovę per antpuolius.md#claim-t-62669|Belaisvių išsivarimas į nelaisvę ir amžiną vergovę per antpuolius]]: Per prūsų antpuolį prie Fogelzango vyrai buvo išžudyti, o moterys ir vaikai išvaryti į amžiną nelaisvę.
+- susijęs iš [[objektai/posakiai/jį mylėjo ir dievas, ir žmonės.md#claim-t-184032|jį mylėjo ir dievas, ir žmonės]]: Petras Dusburgietis Konradą Žaką apibūdino kaip itin švelnų ir malonų žmogų, apie kurį buvo galima sakyti, kad jį mylėjo ir Dievas, ir žmonės.
+- susijęs iš [[objektai/posakiai/jį mylėjo ir dievas, ir žmonės.md#claim-t-59109|jį mylėjo ir dievas, ir žmonės]]: Petras Dusburgietis Konradą Žaką apibūdino kaip itin švelnų ir malonų žmogų, apie kurį buvo galima sakyti, kad jį mylėjo ir Dievas, ir žmonės.
+- susijęs iš Chełmža: Prūsų kariuomenė apsiautė Chełmžą, o vyskupas sušaukė kilminguosius ir vasalus išžvalgyti priešo kariuomenės dydį bei stiprumą.
+- susijęs iš Chełmža: Liudvikas iš Šipeno 1299 m. mirė ir buvo palaidotas Chełmžos katedros bažnyčioje.
+- susijęs iš Chełmža: Per javapjūtę prūsų kariuomenė 13 dienų slapstėsi miške prie Fogelzango, kol Chełmžos miestiečiai išėjo pjauti javų.
+- susijęs iš Eimsutis: Eimsučio pilis šaltinyje minima kaip castrum Hemsot, o jos vieta siejama su dabartine Pšečna netoli Kulmenzės.
+- susijęs iš Goliubo pilis (pilis): Pareigų atsisakęs asmuo apsigyveno savo pasistatytoje Goliubo pilyje, ten mirė ir buvo palaidotas Kulmenzės katedros bažnyčioje.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -148,3 +182,8 @@ Kulmenzės katedros bažnyčioje buvo palaidotas Goliubo pilies statytojas, atsi
   statusas: verified
   pagrindžia:
     - t-005
+
+## Ryšiai
+- [[objektai/asmenys/Helmerichas]] mire Kulmenzė
+- [[objektai/asmenys/Liudvikas]] mire Kulmenzė
+- [[objektai/asmenys/Liudvikas iš Šipeno]] mire Kulmenzė

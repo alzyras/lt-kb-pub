@@ -46,6 +46,11 @@ Nenurodyta
 - t-001
   global_id: t-100065
   teiginys: '1393 m. gegužės 20 d. Tochtamišas siuntė Jogailai jarlyką, kviesdamas sąjungai prieš bendrus priešus ir siūlydamas pagalbą.'
+  sudarymo_pagrindimas: 'Citata remia aiškų faktą apie Tochtamišo jarlyko datą, adresatą ir turinį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Tochtamišas|Tochtamišas]]'
+  temporaliniai_duomenys: 'įvykio data: 1393 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata remia aiškų faktą apie Tochtamišo jarlyko datą, adresatą ir turinį.'
   pagrindžia:
     - c-001
 
@@ -65,8 +70,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Tochtamišas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

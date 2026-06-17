@@ -42,6 +42,12 @@ Nenurodyta
 - t-001
   global_id: t-62821
   teiginys: '1303 m. žiemą magistras brolis Konradas su didele kariuomene įsiveržė į Karšuvos žemę ir sudegino visus pastatus.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir tiksliai atitinka citatos duomenis.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Karšuva'
+  temporaliniai_duomenys: 'pastatymo data: 1303 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, faktinis ir tiksliai atitinka citatos duomenis.'
   pagrindžia:
     - c-002
 
@@ -77,12 +83,3 @@ Nenurodyta
   pagrindžia:
     - t-001
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kuršiai]]
-- [[objektai/zodynas/netikėliai]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/asmenys/Konradas]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/asmenys/Konradas Žakas]]

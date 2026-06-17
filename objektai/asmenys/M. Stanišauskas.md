@@ -20,6 +20,7 @@ Stanišauskas. Stanišausko batalionai, centre pozicijas užsiėmė Antonieviči
 - t-001
   global_id: t-40321
   teiginys: 'M. Stanišausko batalionai stovėjo kairiajame sparne.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Antonievičius|Antonievičius]]; mentioned_person: [[objektai/asmenys/Merlinas|Merlinas]]'
   pagrindžia:
     - c-001
 
@@ -29,7 +30,12 @@ Stanišauskas. Stanišausko batalionai, centre pozicijas užsiėmė Antonieviči
   teiginys: 'M. Stanišauskas buvo paskirtas vienu iš batalionų vadų.'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/asmenys/Antonievičius.md#claim-t-40036|Antonievičius]]: Antonievičius buvo paskirtas vieno iš batalionų vadu.
+- susijęs iš [[objektai/asmenys/B. Žarskis.md#claim-t-40061|B. Žarskis]]: B. Žarskis buvo paskirtas vienu iš batalionų vadų.
+- susijęs iš [[objektai/asmenys/D. Maleckis.md#claim-t-40080|D. Maleckis]]: D. Maleckis buvo paskirtas vienu iš batalionų vadų.
+- susijęs iš [[objektai/asmenys/E. Vžesnievskis.md#claim-t-40094|E. Vžesnievskis]]: E. Vžesnievskis buvo paskirtas bataliono vadu.
+- susijęs iš [[objektai/asmenys/J. Radavičius.md#claim-t-40163|J. Radavičius]]: J. Radavičius buvo paskirtas vienu iš batalionų vadų.
+- susijęs iš [[objektai/asmenys/S. Kozakauskas.md#claim-t-40409|S. Kozakauskas]]: S. Kozakauskas buvo paskirtas vienu iš batalionų vadų.
 ## Reikšmingi paminėjimai
 
 - c-001

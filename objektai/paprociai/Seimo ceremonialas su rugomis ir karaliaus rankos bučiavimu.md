@@ -122,9 +122,3 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/seimas]]
-- [[objektai/zodynas/senatas]]
-- [[objektai/zodynas/ordinariniai seimai]]

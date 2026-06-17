@@ -18,6 +18,11 @@ Po Liublino žemių nuniokojimo priešas siaubė Sandomiro kraštą.
 - t-001
   global_id: t-185269
   teiginys: 'Po Liublino žemių nuniokojimo priešas siaubė Sandomiro kraštą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata remia faktą apie Liublino žemių nuniokojimą, bet pradinis teiginys turi neaiškų įvardį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Krokuva; mentioned_place: Liublinas; mentioned_place: Sandomiras'
   pagrindžia:
     - c-001
 

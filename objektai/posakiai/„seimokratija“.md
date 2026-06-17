@@ -3,11 +3,17 @@ tipas: posakis
 pavadinimas: '„seimokratija“'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1926 m.'
+date_start: '1926'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - posakis
   - seimas
+amziai:
+  - 'XX'
 ---
 # „seimokratija“
 
@@ -21,6 +27,11 @@ Pilsudskis, skatino veikti visus, nepatenkintus Seimo valdymu („seimokratija�
 - t-001
   global_id: t-20941
   teiginys: '1926 m. J. Pilsudskio grįžimas į valdžią Lenkijoje skatino veikti tuos, kurie buvo nepatenkinti Seimo valdymu, vadintu „seimokratija“.'
+  sudarymo_pagrindimas: 'Pradinis teiginys negramatiškas ir per siaurai priskiria veikimą Pilsudskiui.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Suverenitetas|Suverenitetas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Pilsudskis|Pilsudskis]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1926 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys negramatiškas ir per siaurai priskiria veikimą Pilsudskiui.'
   pagrindžia:
     - c-001
 
@@ -42,13 +53,3 @@ Pilsudskis, skatino veikti visus, nepatenkintus Seimo valdymu („seimokratija�
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Suverenitetas]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/asmenys/Pilsudskis]]
-- [[objektai/asmenys/Benito Musolinis]]
-- [[objektai/asmenys/J. Pilsudskis]]
-- [[objektai/asmenys/Juzefas Pilsudskis]]

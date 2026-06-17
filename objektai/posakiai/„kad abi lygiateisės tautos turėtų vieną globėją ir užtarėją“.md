@@ -14,7 +14,7 @@ tags:
 
 ## Santrauka
 
-Jogailos pastatyta katedra pašvęsta šv. Stanislovui, „kad abi lygiateisės tautos turėtų vieną globėją ir užtarėją“.
+Stanislovo garbei („kad abi lygiateisės tautos turėtų vieną globėją ir užtarėją“), o didysis jos altorius buvo toje vietoje, kur anksčiau degė pagonių amžinoji ugnis.
 
 ## Teiginiai
 
@@ -22,6 +22,8 @@ Jogailos pastatyta katedra pašvęsta šv. Stanislovui, „kad abi lygiateisės 
 - t-001
   global_id: t-20902
   teiginys: 'Jogailos pastatyta katedra pašvęsta šv. Stanislovui, „kad abi lygiateisės tautos turėtų vieną globėją ir užtarėją“.'
+  sudarymo_pagrindimas: 'Rewrite failed deterministic gates: missing_factual_predicate'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Altorius|Altorius]]; mentioned_object: [[objektai/zodynas/globėjas|globėjas]]; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Krokuva; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -41,11 +43,3 @@ Jogailos pastatyta katedra pašvęsta šv. Stanislovui, „kad abi lygiateisės 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Altorius]]
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
-- [[objektai/zodynas/globėjas]]
-- [[objektai/zodynas/pagonybė]]
-- [[objektai/asmenys/Šv. Stanislovas]]

@@ -21,6 +21,8 @@ Vilnius, regis, dar Gediminui valdant, ėmė darytis jau ga­ nėtinai svarbiu p
 - t-001
   global_id: t-88421
   teiginys: 'Gedimino laikais Vilnius, regis, jau darėsi svarbiu prekybos centru, o Lietuvoje išliko jo privilegijų Rygos pirkliams pėdsakų.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir perteikia citatoje pateiktą vertinimą bei faktą apie privilegijų pėdsakus.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Naugardas; mentioned_place: Ryga'
   pagrindžia:
     - c-001
 

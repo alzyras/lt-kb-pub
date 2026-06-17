@@ -15,6 +15,7 @@ tags:
   - karalius
   - kunigaikštis
   - miestas
+  - ordinas
 amziai:
   - 'XVI'
 periodo_grupes:
@@ -32,6 +33,8 @@ Gotardas Ketleris išsiuntė svarbią pasiuntinybę į Rusiją per Bazilijų Lop
 - t-001
   global_id: t-87504
   teiginys: 'Maskvos ginklų sutriuškintas Gotardas Ketleris patikėjo Žygimantui Augustui save, ordiną ir valdas.'
+  sudarymo_pagrindimas: 'Sakinys sutrumpintas ir pataisytas pagal dokumento citatą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Augustinas|Augustinas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lenkija; mentioned_place: Livonija; mentioned_place: Maskva'
   pagrindžia:
     - c-002
 
@@ -39,9 +42,17 @@ Gotardas Ketleris išsiuntė svarbią pasiuntinybę į Rusiją per Bazilijų Lop
 - t-002
   global_id: t-87505
   teiginys: '1579 m. Vilniuje Steponas Batoras priėmė Gotardą Ketlerį, Kuršo kunigaikštį.'
+  sudarymo_pagrindimas: 'Pradinis teiginys klaidingai priskyrė veiksmus Ketleriui; citata palaiko priėmimo faktą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_place: Kuršas; mentioned_place: Maskva; mentioned_place: Rusija; mentioned_place: Vilnius; mentioned_place: Švedija'
+  temporaliniai_duomenys: 'įvykio data: 1579 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys klaidingai priskyrė veiksmus Ketleriui; citata palaiko priėmimo faktą.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175540|Kalavijuočių ordinas]]: Maskvos ginklų sutriuškintas Livonijos magistras Gotardas Ketleris patikėjo valdovui save, ordiną ir valdas.
+- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179356|Livonijos ordinas]]: Maskvos ginklų sutriuškintas Livonijos ordino magistras Gotardas Ketleris patikėjo valdovui save, ordiną ir valdas.
+- susijęs iš Livonija: Maskvos kariuomenės sutriuškintas Livonijos magistras Gotardas Ketleris patikėjo Žygimantui Augustui save, ordiną ir valdas.
+- susijęs iš [[objektai/zodynas/Augsburgo Augustino tikėjimas.md#claim-t-86514|Augsburgo Augustino tikėjimas]]: Gotardas Ketleris siekė, kad perduodamų apskričių žmonėms būtų leista laisvai išpažinti Augustino tikėjimą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -100,12 +111,3 @@ Gotardas Ketleris išsiuntė svarbią pasiuntinybę į Rusiją per Bazilijų Lop
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Ginklai]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/zodynas/chanas]]
-- [[objektai/zodynas/Augsburgo Augustino tikėjimas]]
-- [[objektai/grupes/Kalavijuočių ordinas]]
-- [[objektai/grupes/Livonijos ordinas]]

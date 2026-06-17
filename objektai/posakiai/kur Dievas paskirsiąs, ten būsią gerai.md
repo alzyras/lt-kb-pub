@@ -20,6 +20,7 @@ Jogaila, išklausęs kalbos ir pri­ ėmęs kardus, atsakė, kad pagalbos lauki�
 - t-001
   global_id: t-34398
   teiginys: 'Jogaila, priėmęs kardus, sakė pagalbos laukiąs tik iš Dievo ir kautynių vietos nesirinksiąs.'
+  sudarymo_pagrindimas: 'Citata leidžia suformuluoti glaustesnį sakinį be laužytų žodžių.'
   pagrindžia:
     - c-001
 
@@ -27,6 +28,11 @@ Jogaila, išklausęs kalbos ir pri­ ėmęs kardus, atsakė, kad pagalbos lauki�
 - t-002
   global_id: t-184252
   teiginys: 'Priėmęs Ordino pasiuntinių atneštus kardus Jogaila atsakė, kad kautynių vieta bus gera ten, kur ją paskirs Dievas.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata palaiko aiškesnį teiginį apie posakio kontekstą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]'
   pagrindžia:
     - c-002
 
@@ -61,7 +67,3 @@ Jogaila, išklausęs kalbos ir pri­ ėmęs kardus, atsakė, kad pagalbos lauki�
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]

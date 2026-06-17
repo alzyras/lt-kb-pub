@@ -39,6 +39,7 @@ Nenurodyta
 - t-001
   global_id: t-08296
   teiginys: '`Kilimas` šiame tekste reiškė moterų išeiginę vilnonę skarą ar apsiaustą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Balti vilnoniai marškiniai|Balti vilnoniai marškiniai]]; mentioned_object: [[objektai/zodynas/Kilimas|Kilimas]]'
   pagrindžia:
     - c-001
 
@@ -46,6 +47,7 @@ Nenurodyta
 - t-002
   global_id: t-08297
   teiginys: '`Kilimas` buvo dėvimas ant pečių ir tinkamas apsisiausti nuo lietaus ar blogo oro.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Balti vilnoniai marškiniai|Balti vilnoniai marškiniai]]'
   pagrindžia:
     - c-001
 
@@ -75,9 +77,3 @@ Nenurodyta
 ## Pastabos
 
 - terminas šiame gabale turi ir aiškinamąją, žodyninę vertę, bet pati ištrauka labai tiesiogiai aprašo konkretų vilnonį apsiaustą.
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Balti vilnoniai marškiniai]]
-- [[objektai/zodynas/Kilimas|kilimas]]
-- [[objektai/paprociai/Mergaičių, nuotakų, žmonų ir našlių galvos puošyba]]

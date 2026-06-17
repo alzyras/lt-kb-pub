@@ -30,6 +30,11 @@ Vytautas Berenis siejamas su tekstu „Mykolas Balinskis - Vilniaus miesto istor
 - t-001
   global_id: t-54651
   teiginys: 'Vytauto Berenio „Provincialų dialogai apie žemaičių tautą“ nurodyti žurnalo „Metai“ 1995 m. 4 numeryje, p. 128.'
+  sudarymo_pagrindimas: 'Reikia pilno asmens vardo ir sklandesnės formuluotės be perteklinio bibliografinio žargono.'
+  susije_objektai: 'mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1995 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia pilno asmens vardo ir sklandesnės formuluotės be perteklinio bibliografinio žargono.'
   pagrindžia:
     - c-001
 
@@ -37,9 +42,16 @@ Vytautas Berenis siejamas su tekstu „Mykolas Balinskis - Vilniaus miesto istor
 - t-002
   global_id: t-54652
   teiginys: 'Vytautas Berenis yra teksto „Mykolas Balinskis - Vilniaus miesto istorikas“ autorius.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_person: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_person: [[objektai/asmenys/Tadas Kosciuška|Tadas Kosciuška]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/asmenys/Tadas Kosciuška.md#claim-t-82740|Tadas Kosciuška]]: Tadas Kosciuška mėgino gelbėti Lenkijos-Lietuvos valstybę jos žlugimo išvakarėse.
+- susijęs iš [[objektai/autoriai/Mykolas Balinskis.md#claim-t-55011|Mykolas Balinskis]]: Vytautas Berenis apibūdino Mykolą Balinskį kaip kruopštų, pedantišką istoriką, vengusį rašyti be faktografinės bazės.
+- susijęs iš [[objektai/autoriai/Skirmantė Ramanauskaitė.md#claim-t-55022|Skirmantė Ramanauskaitė]]: Skirmantė Ramanauskaitė buvo 2007 m. „Vilniaus miesto istorijos“ leidimo redaktorė.
+- susijęs iš [[objektai/autoriai/Skirmantė Ramanauskaitė.md#claim-t-81964|Skirmantė Ramanauskaitė]]: Skirmantė Ramanauskaitė buvo 2007 m. lietuviško „Vilniaus miesto istorijos“ leidimo redaktorė.
+- susijęs iš [[objektai/grupes/Lietuvos Respublikos kultūros ministerija.md#claim-t-86805|Lietuvos Respublikos kultūros ministerija]]: Lietuvos Respublikos kultūros ministerija parėmė 2007 m. lietuviško leidimo „Vilniaus miesto istorija“ leidybą.
+- susijęs iš [[objektai/grupes/Lietuvos tūkstantmečio minėjimo direkcija.md#claim-t-86806|Lietuvos tūkstantmečio minėjimo direkcija]]: Knyga „Vilniaus miesto istorija“ 2007 m. išleista Lietuvos tūkstantmečio minėjimo direkcijai parėmus.
+- susijęs iš Vilnius: Mykolas Balinskis buvo Vilniaus universiteto suklestėjimo ir žlugimo liudininkas bei Vilniaus kultūrinio gyvenimo dalyvis.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -74,8 +86,3 @@ Vytautas Berenis siejamas su tekstu „Mykolas Balinskis - Vilniaus miesto istor
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuvos Respublikos kultūros ministerija]]
-- [[objektai/grupes/Lietuvos tūkstantmečio minėjimo direkcija]]

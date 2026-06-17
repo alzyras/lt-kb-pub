@@ -21,6 +21,8 @@ Jonų – Mokslo, Visų Šventųjų – Liaudies meno, Kauno Įgulos bažnyčioj
 - t-001
   global_id: t-21691
   teiginys: 'Pažaislio vienuolyne veikė M. K. Čiurlionio muziejaus senojo meno ekspozicija.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_person: [[objektai/asmenys/Mikalojus Konstantinas Čiurlionis|Mikalojus Konstantinas Čiurlionis]]; mentioned_place: Kaunas; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

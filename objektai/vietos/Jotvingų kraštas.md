@@ -3,12 +3,18 @@ tipas: vieta
 pavadinimas: 'Jotvingų kraštas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1009 m.'
+date_start: '1009'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - kraštas
   - vieta
   - vyskupas
+amziai:
+  - 'XI'
 ---
 # Jotvingų kraštas
 
@@ -17,16 +23,22 @@ tags:
 Kuriose vietose jis apaštalavo, nežinia, tik tiek žinoma, kad žuvo jotvingų krašte. Mindaugas jo gyvenamajai vietai buvo paskyręs pietines Lietuvos sritis (jotvingų žemėje).
 
 ## Teiginiai
+
 <a id="claim-t-74009"></a>
 - t-001
   global_id: t-74009
   teiginys: '1009 m. vasario 14 d. jotvingų krašte buvo nužudytas aisčių krašte apaštalavęs asmuo ir jo palydovai.'
+  sudarymo_pagrindimas: 'Originale neaiškus įvardis, o citata nepateikia asmens vardo.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_object: [[objektai/grupes/Jotvingai|Jotvingai]]'
+  temporaliniai_duomenys: 'įvykio data: 1009 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Originale neaiškus įvardis, o citata nepateikia asmens vardo.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-
+- susijęs iš Drohičinas: Lietuvos metraštyje pasakojama, kad Erdvilas rado Drohičiną Batu nusiaubtą ir sunaikintą, vėliau jį atstatė ir jame kunigaikščiavo.
+- susijęs iš Drohičinas: Vytenis prijungė prie Lietuvos Drohičiną ir Brastą, kuriuos anksčiau laikinai buvo užėmęs Traidenis.
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: '1009 m. vasario 14 d. jotvingų krašte buvo nužudytas aisčių krašte apaštalavęs asmuo ir jo palydovai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -36,10 +48,8 @@ Kuriose vietose jis apaštalavo, nežinia, tik tiek žinoma, kad žuvo jotvingų
     Kuriose vietose jis apaštalavo, nežinia, tik tiek žinoma, kad žuvo
     jotvingų krašte. Jo ir palydovų lavonai taip pat buvo išpirkti
     to paties Boleslovo.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

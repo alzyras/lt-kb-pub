@@ -49,6 +49,8 @@ Nenurodyta
 - t-001
   global_id: t-87033
   teiginys: 'Didysis magistras, siekdamas atimti Vilnių iš Vytauto, vasarą už Nemuno ėmė statydinti ir stiprinti Rittersverderio pilį.'
+  sudarymo_pagrindimas: 'Pradinis teiginys yra fragmentas; citata leidžia atkurti pilną sakinį su veikėju ir veiksmu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Nemunas; mentioned_place: Rittersverderis; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -56,6 +58,8 @@ Nenurodyta
 - t-002
   global_id: t-87034
   teiginys: 'Laikini įtvirtinimai buvo pastatyti iš statybai skirtų medžiagų, kad gintųsi, kol atvyks raiteliai.'
+  sudarymo_pagrindimas: 'Citata remia faktą apie laikinus įtvirtinimus, bet pradinė frazė nutrūkusi ir su puslapio triukšmu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Boleslovas|Boleslovas]]; mentioned_person: [[objektai/asmenys/Boleslovas Švitrigaila|Boleslovas Švitrigaila]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lietuva; mentioned_place: Marienburgas; mentioned_place: Prūsija; mentioned_place: Vilnius; mentioned_place: Vysla'
   pagrindžia:
     - c-001
 
@@ -133,13 +137,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Boleslovas]]
-- [[objektai/asmenys/Boleslovas Švitrigaila]]
-- [[objektai/grupes/Prancūzai]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/asmenys/Švitrigaila]]
-- [[objektai/zodynas/žygis]]

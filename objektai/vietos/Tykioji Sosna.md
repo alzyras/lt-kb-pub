@@ -12,14 +12,17 @@ tags:
 
 ## Santrauka
 
-Prie Tykiosios Sosnos maskvėnai užpuolė Vytauto valdinius severskiečius. Prie Tykiosios Sosnos maskvėnai užpuolė Vytauto valdinius severskiečius.
+Prie Tykiosios Sosnos maskvėnai užpuolė Vytauto valdinius severskiečius. Tykioji Sosna šiame gabale žymi konflikto vietą.
 
 ## Teiginiai
 
 <a id="claim-t-187362"></a>
 - t-001
   global_id: t-187362
-  teiginys: 'Prie Tykiosios Sosnos maskvėnai užpuolė Vytauto valdinius severskiečius.'
+  teiginys: 'Lietuvos metraštis pasakoja, kad prie Tykiosios Sosnos maskvėnai užpuolė Vytauto valdinius severskiečius.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Atribucija palikta dėl priešiško maskvėnų vaizdavimo kronikos pasakojime. Nepridėta nebaigtos citatos fragmentų apie pagrobtus daiktus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Lietuva; mentioned_place: Maskva'
   pagrindžia:
     - c-001
 

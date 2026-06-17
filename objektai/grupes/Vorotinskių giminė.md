@@ -18,6 +18,11 @@ Vorotinskių kunigaikščiai su didžiulėmis tėvonijomis perėjo į Maskvos pu
 - t-001
   global_id: t-185462
   teiginys: 'Vorotinskių kunigaikščiai su didžiulėmis tėvonijomis perėjo į Maskvos pusę ir pradėjo puldinėti karaliaus valdas.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir pagrįstas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Lietuva; mentioned_place: Maskva'
   pagrindžia:
     - c-001
 
@@ -51,9 +56,3 @@ Vorotinskių kunigaikščiai su didžiulėmis tėvonijomis perėjo į Maskvos pu
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/grupes/Belskių giminė]]
-- [[objektai/grupes/Boratinskių giminė]]

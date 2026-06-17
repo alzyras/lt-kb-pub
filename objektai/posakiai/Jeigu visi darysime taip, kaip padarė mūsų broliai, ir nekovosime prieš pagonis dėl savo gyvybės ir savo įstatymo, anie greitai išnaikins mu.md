@@ -22,6 +22,8 @@ Dusburgietis teigia, kad o kitoje vietoje, kai žuvo tie, kurie susirado mirtį 
 - t-001
   global_id: t-59104
   teiginys: 'Makabiejų knygos žodžiai apie kovą už gyvybę ir įstatymą skatino magistrą ir brolius ginti Prūsijos žemę nuo karaliaus antpuolių.'
+  sudarymo_pagrindimas: 'Pradinė citata nutrūkusi, bet ištrauka pagrindžia posakio funkciją tekste.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
 
@@ -44,9 +46,3 @@ Dusburgietis teigia, kad o kitoje vietoje, kai žuvo tie, kurie susirado mirtį 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/netikėliai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

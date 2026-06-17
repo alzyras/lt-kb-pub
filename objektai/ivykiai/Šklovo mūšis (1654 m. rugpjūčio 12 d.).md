@@ -23,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-Šklovo mūšio dieną kunigaikštis Čerkaskis su maždaug 40 000 karių nuo Smolensko žygiavo užimti Oršą ir Kopysę. Šklovo mūšyje LDK kariuomenei vadovavo didysis etmonas kunigaikštis Jonušas Radvila.
+Šiame gabale pateikiama mūšio pradžia: pajėgų dydžiai, maršrutas į Oršą ir Kopysę bei Radvilos sprendimas laikyti priešo veiksmus prie Smolensko. Mūšio baigtis šiame gabale dar neatskleista, todėl kandidatas laikytinas preliminariu. Šklovo mūšio išvakarėse Jonušas Radvila vadovavo gerokai mažesnėms LDK pajėgoms Kunigaikštis Čerkaskis iš Smolensko žygiavo užimti Oršą ir Kopysę, o Šklovo mūšio dieną priešininkų pajėgos dar tik ruošėsi susidūrimui.
 
 ## Laikotarpis ir datos
 
@@ -47,6 +47,11 @@ Nenurodyta
 - t-001
   global_id: t-41392
   teiginys: 'Šklovo mūšio dieną kunigaikštis Čerkaskis su maždaug 40 000 karių nuo Smolensko žygiavo užimti Oršą ir Kopysę.'
+  sudarymo_pagrindimas: 'Perrašyta aiškiau susiejant faktą su Šklovo mūšiu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_place: Kopysė; mentioned_place: Smolenskas; mentioned_place: Šklovas'
+  temporaliniai_duomenys: 'valdymo laikotarpis: 1654 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „valdymo laikotarpis“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Perrašyta aiškiau susiejant faktą su Šklovo mūšiu.'
   pagrindžia:
     - c-001
 
@@ -54,9 +59,15 @@ Nenurodyta
 - t-002
   global_id: t-41393
   teiginys: 'Šklovo mūšyje LDK kariuomenei vadovavo didysis etmonas kunigaikštis Jonušas Radvila.'
+  sudarymo_pagrindimas: 'Sakinys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'event: [[objektai/ivykiai/Šklovo mūšis (1654 m. rugpjūčio 12 d.)|Šklovo mūšis (1654 m. rugpjūčio 12 d.)]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_object: [[objektai/zodynas/hetmonas|hetmonas]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Lietuva; mentioned_place: Šklovas'
+  semantiniai_rysiai: '[[objektai/asmenys/Radvila|Radvila]] dalyvavo mūšyje [[objektai/ivykiai/Šklovo mūšis (1654 m. rugpjūčio 12 d.)|Šklovo mūšis (1654 m. rugpjūčio 12 d.)]]'
+  temporaliniai_duomenys: 'mūšio data: 1654 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Radvila dalyvavo mūšyje Šklovo mūšis (1654 m. rugpjūčio 12 d.)“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Sakinys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -99,9 +110,4 @@ Nenurodyta
     - t-002
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Radvila]]
-- [[objektai/grupes/Radvilos]]
-- [[objektai/zodynas/etmonas]]
-- [[objektai/autoriai/Karolis Zikaras]]
+- [[objektai/asmenys/Radvila]] dalyvavo_musyje Šklovo mūšis (1654 m. rugpjūčio 12 d.)

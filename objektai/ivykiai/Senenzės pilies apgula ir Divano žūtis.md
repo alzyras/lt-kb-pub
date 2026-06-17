@@ -44,6 +44,8 @@ Nenurodyta
 - t-001
   global_id: t-66894
   teiginys: 'Bartų vadas Divanas su aštuoniais šimtais vyrų apsiautė Senenzės pilį, bet brolis Arnoldas Krofas jį mirtinai peršovė arbaletu.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūksta; citata palaiko apgulos ir Divano žūties faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_object: [[objektai/daiktai/Arbaletas|Arbaletas]]; mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_person: [[objektai/asmenys/Arnoldas Krofas|Arnoldas Krofas]]; mentioned_person: [[objektai/asmenys/Divanas|Divanas]]; mentioned_place: Senenzė; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -51,6 +53,11 @@ Nenurodyta
 - t-002
   global_id: t-66895
   teiginys: 'Bartų puolimas prieš Senenzės pilį įvyko apie 1272 m.'
+  sudarymo_pagrindimas: 'Citata pagrindžia Senenzės pilies puolimo datavimą ir pašalina vardyno pastabas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_place: Kulmas; mentioned_place: Senenzė; mentioned_place: Torunė'
+  temporaliniai_duomenys: 'įvykio data: 1272 m.; įvykio data: apie 1272 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia Senenzės pilies puolimo datavimą ir pašalina vardyno pastabas.'
   pagrindžia:
     - c-002
 
@@ -89,11 +96,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bartai]]
-- [[objektai/asmenys/Divanas]]
-- [[objektai/zodynas/ginklanešiai]]
-- [[objektai/daiktai/Arbaletas]]
-- [[objektai/asmenys/Arnoldas Krofas]]

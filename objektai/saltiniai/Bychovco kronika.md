@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Bychovco kronika nurodyta PSRL 17 tome, 525 puslapyje.
+(^11) PSRL, 17, 525 p. (Bychovco kronika).
 
 ## Teiginiai
 
@@ -20,6 +20,7 @@ Bychovco kronika nurodyta PSRL 17 tome, 525 puslapyje.
 - t-001
   global_id: t-100152
   teiginys: 'Bychovco kronika nurodyta PSRL 17 tome, 525 puslapyje.'
+  sudarymo_pagrindimas: 'Citata palaiko tik bibliografinę nuorodą į Bychovco kroniką.'
   pagrindžia:
     - c-001
 

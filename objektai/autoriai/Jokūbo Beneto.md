@@ -30,9 +30,15 @@ periodo_grupes:
 - t-001
   global_id: t-80748
   teiginys: 'Jokūbo Beneto poema „Viešpaties dešinės galybė“ buvo išleista 1674 m.'
+  sudarymo_pagrindimas: 'Citata pagrindžia poemos autorystę ir išleidimo metus.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)|Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)]]; mentioned_person: [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)|Jokūbas (vėliau Urbonas IV)]]; mentioned_place: Chotinas'
+  temporaliniai_duomenys: 'įvykio data: 1673 m.; įvykio data: 1674 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia poemos autorystę ir išleidimo metus.'
   pagrindžia:
     - c-001
-
+- susijęs iš Viešpaties dešinės galybė (1674 m.): 1674 m. išleistoje Jokūbo Beneto poemoje „Viešpaties dešinės galybė“ buvo Chotino mūšio iliustracija.
+- susijęs iš Chotinas: 1673 m. Chotino mūšio iliustracijoje priešais Chotino pilį pavaizduoti M. K. Radvilos kariai.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -55,7 +61,3 @@ periodo_grupes:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)]]

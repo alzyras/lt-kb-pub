@@ -3,15 +3,22 @@ tipas: zodyno_irasas
 pavadinimas: 'valstybingumo idėja'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+datos:
+  - '1569 m.'
+  - '1572 m.'
+date_start: '1569'
+date_end: '1572'
 sukurta: ''
 atnaujinta: ''
 tags: []
+amziai:
+  - 'XVI'
 ---
 # valstybingumo idėja
 
 ## Santrauka
 
-Ivinskis Lietuvos valstybingumo idealą siejo su lietuvių tautos tautiniu susipratimu ir ilgomis pastangomis jį įgyvendinti. Visas veikalo dėstymas sutelktas apie valstybingumo idėją lietuvių tautoje. Valstybingumo idėja aprašoma kaip atsiradusi, vystęsi, išbujavusi, silpusi, atsigavusi ir realizuota.
+Lietuvių tautos siekis turėti ir įgyvendinti valstybę, kuri tampa viso veikalo vedamąja mintimi; Lietuvos istorijos skirstymas pagal valstybės raidą, sustiprėjimą, silpnėjimą, žlugimą ir atstatymą. Autorius aiškina, kad lietuvių tautos istoriją visame veikale sutelkia apie valstybingumo idėją ir kad ši idėja buvo jau kartą įgyvendinta; autorius aptaria vieną tradicinę Lietuvos istorijos periodizaciją, paremtą lietuvių tautos valstybingumo idėja, ir ją sieja su valstybės raidos etapais.
 
 ## Žodis ir formos
 
@@ -45,6 +52,8 @@ Autorius aiškina, kad lietuvių tautos istoriją visame veikale sutelkia apie v
 - t-001
   global_id: t-05469
   teiginys: 'Ivinskis Lietuvos valstybingumo idealą siejo su lietuvių tautos tautiniu susipratimu ir ilgomis pastangomis jį įgyvendinti.'
+  sudarymo_pagrindimas: 'Citata labiau pagrindžia autoriaus interpretaciją apie idealą ir tautinį susipratimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -52,6 +61,7 @@ Autorius aiškina, kad lietuvių tautos istoriją visame veikale sutelkia apie v
 - t-002
   global_id: t-05470
   teiginys: 'Visas veikalo dėstymas sutelktas apie valstybingumo idėją lietuvių tautoje.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-002
 
@@ -59,6 +69,7 @@ Autorius aiškina, kad lietuvių tautos istoriją visame veikale sutelkia apie v
 - t-003
   global_id: t-05471
   teiginys: 'Valstybingumo idėja aprašoma kaip atsiradusi, vystęsi, išbujavusi, silpusi, atsigavusi ir realizuota.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-002
 
@@ -66,6 +77,9 @@ Autorius aiškina, kad lietuvių tautos istoriją visame veikale sutelkia apie v
 - t-004
   global_id: t-05472
   teiginys: 'Viena Lietuvos istorijos periodizacija remiasi valstybingumo idėja.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/marksistinė periodizacija|marksistinė periodizacija]]; mentioned_place: Lietuva; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: po 1572 m.; įvykio data: 1572 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-003
 
@@ -73,6 +87,11 @@ Autorius aiškina, kad lietuvių tautos istoriją visame veikale sutelkia apie v
 - t-005
   global_id: t-05473
   teiginys: 'Lietuvių tautos valstybingumo idėja grindė periodizaciją pagal Lietuvos valstybės raidą, žlugimą ir atkūrimą.'
+  sudarymo_pagrindimas: 'Citata pagrindžia valstybingumo idėjos vaidmenį periodizacijos pagrinde.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/marksistinė periodizacija|marksistinė periodizacija]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: po 1572 m.; įvykio data: 1572 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia valstybingumo idėjos vaidmenį periodizacijos pagrinde.'
   pagrindžia:
     - c-003
 
@@ -80,9 +99,16 @@ Autorius aiškina, kad lietuvių tautos istoriją visame veikale sutelkia apie v
 - t-006
   global_id: t-05474
   teiginys: 'Naujaisiais laikais šiai periodizacijai svarbiausia valstybingumo idėja.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/marksistinė periodizacija|marksistinė periodizacija]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: iki 1569 m.; įvykio data: 1569 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-004
-
+- susijęs iš Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.): Visas veikalo dėstymas sutelkiamas apie lietuvių tautos valstybingumo idėją.
+- susijęs iš [[objektai/zodynas/valstybingumo idėja valstybingumo idealas valstybingumu grįsta periodizacija.md#claim-t-32811|valstybingumo idėja valstybingumo idealas valstybingumu grįsta periodizacija]]: Valstybingumu grįsta periodizacija laikoma vienašališkai politine, nes remiasi dinastiniais ir politiniais pasikeitimais.
+- susijęs iš [[objektai/zodynas/valstybingumo idėja valstybingumo idealas valstybingumu grįsta periodizacija.md#claim-t-32812|valstybingumo idėja valstybingumo idealas valstybingumu grįsta periodizacija]]: Komunistiniai istorikai atmetė periodizaciją, kurios pagrindas buvo lietuvių tautos valstybingumo idėja.
+- susijęs iš [[objektai/zodynas/valstybingumo idėja valstybingumu grįsta periodizacija.md#claim-t-32813|valstybingumo idėja valstybingumu grįsta periodizacija]]: Valstybingumu grįsta periodizacija laikoma vienašališkai politine, nes remiasi dinastiniais ir politiniais pasikeitimais.
+- susijęs iš [[objektai/zodynas/valstybingumo idėja valstybingumu grįsta periodizacija.md#claim-t-32814|valstybingumo idėja valstybingumu grįsta periodizacija]]: Komunistiniai istorikai atmetė periodizaciją, kurios pagrindas buvo lietuvių tautos valstybingumo idėja.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -154,13 +180,3 @@ Autorius aiškina, kad lietuvių tautos istoriją visame veikale sutelkia apie v
   statusas: verified
   pagrindžia:
     - t-006
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/istorinė-sąvoka]]
-
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/marksistinė periodizacija]]
-- [[objektai/zodynas/valstybingumo idėja valstybingumo idealas valstybingumu grįsta periodizacija]]
-- [[objektai/zodynas/valstybingumo idėja valstybingumu grįsta periodizacija]]

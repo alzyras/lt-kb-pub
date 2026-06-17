@@ -29,6 +29,8 @@ Dusburgietis teigia, kad apie penktąją atskalūnybę ir apie bausmę už ją T
 - t-001
   global_id: t-61008
   teiginys: 'P. K. Tacito „Rinktinių raštų“ 29 puslapyje minimi germanai lemoviai.'
+  sudarymo_pagrindimas: 'Citata patvirtina konkretų faktą apie Tacito leidinyje minimus lemovius.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Germanai|Germanai]]; mentioned_place: Lamata; mentioned_place: Lietuva; mentioned_place: Mazovija'
   pagrindžia:
     - c-001
 
@@ -36,6 +38,11 @@ Dusburgietis teigia, kad apie penktąją atskalūnybę ir apie bausmę už ją T
 - t-002
   global_id: t-61009
   teiginys: 'P. K. Tacito „Rinktiniai raštai“ išleisti Vilniuje 1972 m.'
+  sudarymo_pagrindimas: 'Citata pateikia bibliografinį leidimo faktą.'
+  susije_objektai: 'mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1972 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pateikia bibliografinį leidimo faktą.'
   pagrindžia:
     - c-002
 

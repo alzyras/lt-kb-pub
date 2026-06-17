@@ -43,6 +43,11 @@ Nenurodyta
 - t-001
   global_id: t-24532
   teiginys: '1900 m. Paryžiaus pasaulinės parodos etnografiniame skyriuje lietuviai parengė ekspoziciją su tautiniais drabužiais, ūkio padargais ir lietuviška spauda.'
+  sudarymo_pagrindimas: 'Citata pagrindžia konkretesnį teiginį apie lietuvių ekspoziciją parodoje.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Paryžius; mentioned_place: Prūsija'
+  temporaliniai_duomenys: 'įvykio data: 1900 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia konkretesnį teiginį apie lietuvių ekspoziciją parodoje.'
   pagrindžia:
     - c-001
 
@@ -61,11 +66,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/drabužis]]
-
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/daiktai/1900 m. Paryžiaus parodos lietuvių ekspozicijos daiktai]]

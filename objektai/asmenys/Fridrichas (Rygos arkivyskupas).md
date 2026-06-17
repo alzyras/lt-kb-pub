@@ -20,7 +20,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Kryžiuočių aplinkoje Rygos arkivyskupas Fridrichas buvo siejamas su Gedimino veikimu Livonijoje prieš Ordiną. Responsio per Procuratorem Ordinis kaltino Rygos arkivyskupą Fridrichą pasiuntus pasiuntinius pas lietuvių valdovą ir sudarius prieš Ordiną nukreiptą sąjungą. Vytenis laišku prašė Rygos arkivyskupo Fridricho ir popiežiaus legato Pranciškaus atsiųsti jam minoritų.
+Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimino ir Vytenio santykiais su Ryga, minoritų kvietimu ir ginču su Kryžiuočių ordinu. Pasakojime pateikiamos ir jam nepalankios versijos apie Gedimino vardu parengtus laiškus bei popiežiaus rūmų veikimą.
 
 ## Variantai
 
@@ -54,6 +54,7 @@ Kryžiuočių aplinkoje Rygos arkivyskupas Fridrichas buvo siejamas su Gedimino 
 - t-001
   global_id: t-54964
   teiginys: 'Kryžiuočių aplinkoje Rygos arkivyskupas Fridrichas buvo siejamas su Gedimino veikimu Livonijoje prieš Ordiną.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kardas|Kardas]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/autoriai/Rygos arkivyskupas Fridrichas|Rygos arkivyskupas Fridrichas]]; mentioned_place: Dorpatas; mentioned_place: Livonija; mentioned_place: Ryga'
   pagrindžia:
     - c-001
 
@@ -61,6 +62,8 @@ Kryžiuočių aplinkoje Rygos arkivyskupas Fridrichas buvo siejamas su Gedimino 
 - t-002
   global_id: t-54965
   teiginys: 'Responsio per Procuratorem Ordinis kaltino Rygos arkivyskupą Fridrichą pasiuntus pasiuntinius pas lietuvių valdovą ir sudarius prieš Ordiną nukreiptą sąjungą.'
+  sudarymo_pagrindimas: 'Citata perteikia Ordino šaltinio kaltinimą, todėl būtina šaltinio pozicijos atribucija.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_place: Livonija; mentioned_place: Ryga'
   pagrindžia:
     - c-002
 
@@ -68,6 +71,8 @@ Kryžiuočių aplinkoje Rygos arkivyskupas Fridrichas buvo siejamas su Gedimino 
 - t-003
   global_id: t-54966
   teiginys: 'Vytenis laišku prašė Rygos arkivyskupo Fridricho ir popiežiaus legato Pranciškaus atsiųsti jam minoritų.'
+  sudarymo_pagrindimas: 'Reikia sklandesnės linksnių formos ir aiškesnės sakinio sandaros.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Isamas (Rygos arkivyskupas)|Isamas (Rygos arkivyskupas)]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_person: [[objektai/asmenys/Vytenis|Vytenis]]; mentioned_place: Ryga'
   pagrindžia:
     - c-003
 
@@ -75,6 +80,7 @@ Kryžiuočių aplinkoje Rygos arkivyskupas Fridrichas buvo siejamas su Gedimino 
 - t-004
   global_id: t-54967
   teiginys: 'Šaltinio pasakojime Rygos arkivyskupas kaltinamas Gedimino vardu parengęs ir išsiuntinėjęs laiškus prieš Kryžiuočių ordiną.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Prūsija; mentioned_place: Ryga; mentioned_place: Vilnius; mentioned_place: Vokietija'
   pagrindžia:
     - c-005
 
@@ -82,6 +88,12 @@ Kryžiuočių aplinkoje Rygos arkivyskupas Fridrichas buvo siejamas su Gedimino 
 - t-005
   global_id: t-54968
   teiginys: '1325 m. balandį po Gedimino laiškų paskelbimo Rygos arkivyskupas nuvyko į popiežiaus rūmus.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir paremtas citata.'
+  susije_objektai: 'location: Lietuva; location: Ryga; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Ryga'
+  semantiniai_rysiai: '[[objektai/asmenys/Fridrichas (Rygos arkivyskupas)|Fridrichas (Rygos arkivyskupas)]] keliavo į Lietuva; [[objektai/asmenys/Fridrichas (Rygos arkivyskupas)|Fridrichas (Rygos arkivyskupas)]] keliavo į Ryga'
+  temporaliniai_duomenys: 'kelionės data: 1325 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Fridrichas (Rygos arkivyskupas) keliavo į Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Fridrichas (Rygos arkivyskupas) keliavo į Ryga“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, aiškus ir paremtas citata.'
   pagrindžia:
     - c-006
 
@@ -89,6 +101,7 @@ Kryžiuočių aplinkoje Rygos arkivyskupas Fridrichas buvo siejamas su Gedimino 
 - t-006
   global_id: t-54969
   teiginys: 'Dusburgo citatoje Jonas XXII pasiuntė du legatus į Livoniją Fridricho ir Rygos miestiečių prašymu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/legatai|legatai]]; mentioned_person: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_person: [[objektai/autoriai/Jerošinas|Jerošinas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas XXII|Jonas XXII]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Livonija; mentioned_place: Ryga; mentioned_place: Vilnius'
   pagrindžia:
     - c-007
 
@@ -96,6 +109,8 @@ Kryžiuočių aplinkoje Rygos arkivyskupas Fridrichas buvo siejamas su Gedimino 
 - t-007
   global_id: t-89710
   teiginys: 'Vytenis prašė popiežiaus legato Pranciškaus ir Rygos arkivyskupo Fridricho atsiųsti jam minoritų.'
+  sudarymo_pagrindimas: 'Pradinis teiginys labiau apie Isamą, bet citata palaiko aiškų faktą apie Fridrichą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Isamas (Rygos arkivyskupas)|Isamas (Rygos arkivyskupas)]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_person: [[objektai/asmenys/Vytenis|Vytenis]]; mentioned_place: Ryga'
   pagrindžia:
     - c-003
 
@@ -103,6 +118,8 @@ Kryžiuočių aplinkoje Rygos arkivyskupas Fridrichas buvo siejamas su Gedimino 
 - t-008
   global_id: t-89711
   teiginys: 'Rygos arkivyskupą Fridrichą Ordino broliai klastingai išmetė iš bažnyčios.'
+  sudarymo_pagrindimas: 'Citata remia faktą apie Fridrichą, bet pradiniame teiginyje klaidingai nurodytas Gediminas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Ryga'
   pagrindžia:
     - c-004
 
@@ -110,6 +127,8 @@ Kryžiuočių aplinkoje Rygos arkivyskupas Fridrichas buvo siejamas su Gedimino 
 - t-009
   global_id: t-89712
   teiginys: 'Rygos arkivyskupas Fridrichas įkalbėjo popiežių Joną XXII pasiųsti į Livoniją du legatus pakrikštyti lietuvių ir rusų karaliaus.'
+  sudarymo_pagrindimas: 'Citata tiesiogiai sieja Fridrichą su popiežiaus legatų pasiuntimu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/legatai|legatai]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_person: [[objektai/asmenys/Benediktas|Benediktas]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/autoriai/Rygos arkivyskupas Fridrichas|Rygos arkivyskupas Fridrichas]]; mentioned_place: Livonija; mentioned_place: Ryga; mentioned_place: Viena'
   pagrindžia:
     - c-008
 
@@ -117,6 +136,8 @@ Kryžiuočių aplinkoje Rygos arkivyskupas Fridrichas buvo siejamas su Gedimino 
 - t-010
   global_id: t-89713
   teiginys: 'Kryžiuočiai manė, kad Rygos arkivyskupas Fridrichas iš senos neapykantos atsikvietė lietuvių priešą į Livoniją.'
+  sudarymo_pagrindimas: 'Sakinys sutrumpintas ir pašalinti OCR bei nutrūkusio konteksto fragmentai.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kardas|Kardas]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/autoriai/Rygos arkivyskupas Fridrichas|Rygos arkivyskupas Fridrichas]]; mentioned_place: Dorpatas; mentioned_place: Livonija; mentioned_place: Ryga; mentioned_place: Čekija'
   pagrindžia:
     - c-010
 
@@ -124,6 +145,8 @@ Kryžiuočių aplinkoje Rygos arkivyskupas Fridrichas buvo siejamas su Gedimino 
 - t-011
   global_id: t-89714
   teiginys: 'Vytenis laišku prašė legato Pranciškaus ir arkivyskupo Fridricho atsiųsti du pranciškonus į jau pastatytą bažnyčią.'
+  sudarymo_pagrindimas: 'Pašalintas dokumento formulių perteklius ir paliktas citata paremtas faktas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_person: [[objektai/asmenys/Isamas (Rygos arkivyskupas)|Isamas (Rygos arkivyskupas)]]; mentioned_person: [[objektai/asmenys/Vytenis|Vytenis]]; mentioned_place: Prūsija; mentioned_place: Ryga'
   pagrindžia:
     - c-009
 
@@ -131,9 +154,14 @@ Kryžiuočių aplinkoje Rygos arkivyskupas Fridrichas buvo siejamas su Gedimino 
 - t-012
   global_id: t-89716
   teiginys: 'Balińskis manė, kad Rygos arkivyskupas Fridrichas Gedimino vardu parengė ir išsiuntinėjo laiškus prieš Kryžiuočių ordiną.'
+  sudarymo_pagrindimas: 'Citata pateikia autoriaus interpretaciją, todėl būtina nurodyti atribuciją ir sutvarkyti nutrūkusį sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/autoriai/Rygos arkivyskupas Fridrichas|Rygos arkivyskupas Fridrichas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Prūsija; mentioned_place: Ryga; mentioned_place: Vilnius; mentioned_place: Vokietija'
   pagrindžia:
     - c-005
-
+- susijęs iš [[objektai/autoriai/Dusburgas.md#claim-t-102844|Dusburgas]]: Dusburgas trumpai paminėjo, kad popiežius Jonas XXII Rygos arkivyskupo Fridricho ir miestiečių prašymu pasiuntė į Livoniją du legatus.
+- susijęs iš [[objektai/autoriai/Dusburgas.md#claim-t-102856|Dusburgas]]: Dusburgas trumpai užsiminė, kad popiežius Jonas XXII Rygos arkivyskupo Fridricho ir miestiečių prašymu pasiuntė į Livoniją du legatus.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178866|Kryžiuočių ordinas]]: Tarp kryžiuočių buvo paplitusi nuomonė, kad Rygos arkivyskupas Fridrichas atsikvietė priešą į šalį.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179103|Kryžiuočių ordinas]]: Tarp kryžiuočių buvo įsigalėjusi nuomonė, kad Rygos arkivyskupas Fridrichas atsikvietė priešą į šalį.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -391,17 +419,5 @@ Kryžiuočių aplinkoje Rygos arkivyskupas Fridrichas buvo siejamas su Gedimino 
     - t-010
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Kardas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/daiktai/Namas]]
-- [[objektai/grupes/Pranciškonų ordinas]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/grupes/Teutonai]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/legatai]]
-- [[objektai/zodynas/netikėliai]]
-- [[objektai/zodynas/ponai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/popiežiaus legatas]]
+- Fridrichas (Rygos arkivyskupas) keliavo_i [[objektai/vietos/Lietuva]]
+- Fridrichas (Rygos arkivyskupas) keliavo_i [[objektai/vietos/Ryga]]

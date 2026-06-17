@@ -93,10 +93,3 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/laidotuvės]]
-
-### Susiję objektai
-- [[objektai/grupes/Protestantai]]

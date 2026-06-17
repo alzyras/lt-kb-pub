@@ -3,12 +3,18 @@ tipas: saltinis
 pavadinimas: 'Vytauto raštas imperatoriui Zigmantui'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1420 m.'
+date_start: '1420'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - kraštas
   - saltinis
   - tauta
+amziai:
+  - 'XV'
 ---
 # Vytauto raštas imperatoriui Zigmantui
 
@@ -17,20 +23,20 @@ tags:
 Įdomus yra jo raštas imperatoriui Zigmantui, kur jis nurodo Vroclave 1420 m. padaryto Zigmanto sprendimo neteisingumą. Bet kadangi Žemaičiai yra žemesnėj vietoj, negu Lietuva, tai tas kraštas lietuviškai ir vadinamas Žemaičių kraštu, nes taip lietuviškai yra vadinama žemuma.
 
 ## Teiginiai
+
 <a id="claim-t-67591"></a>
 - t-001
   global_id: t-67591
   teiginys: 'Vytauto rašte imperatoriui Zigmantui nurodomas 1420 m. Vroclave priimto Zigmanto sprendimo neteisingumas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/maršalka|maršalka]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Vroclavas'
+  temporaliniai_duomenys: 'įvykio data: 1420 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Vytauto rašte imperatoriui Zigmantui nurodomas 1420 m. Vroclave priimto Zigmanto sprendimo neteisingumas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Maršalka dar bandė įrodinėti, kad jie karo nenorį ir kad turį
@@ -40,10 +46,8 @@ tags:
     Žemaičius ir kitas žemes — savo tėvų palikimu. Įdomus yra jo raštas
     imperatoriui Zigmantui, kur jis nurodo Vroclave 1420 m. padaryto
     Zigmanto sprendimo neteisingumą.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

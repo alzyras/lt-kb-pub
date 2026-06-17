@@ -18,6 +18,11 @@ Mirus Konstantinui Karijotaičiui, Algirdas jo brolį Teodorą paskyrė į Konst
 - t-001
   global_id: t-186167
   teiginys: 'Mirus Konstantinui Karijotaičiui, Algirdas jo brolį Teodorą paskyrė į Konstantino vietą Podolėje.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata tiesiogiai remia Teodoro paskyrimą po Konstantino mirties.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Karijotas|Karijotas]]; mentioned_person: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]; mentioned_place: Kamenecas; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_place: Podolė; mentioned_place: Volynė'
   pagrindžia:
     - c-001
 
@@ -44,7 +49,3 @@ Mirus Konstantinui Karijotaičiui, Algirdas jo brolį Teodorą paskyrė į Konst
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/vietininkas]]

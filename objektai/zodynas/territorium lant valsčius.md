@@ -23,6 +23,8 @@ Dusburgietis teigia, kad žemė susideda iš mažesnių „teritorijų” (in te
 - t-001
   global_id: t-58874
   teiginys: 'Dusburgiečio kronikoje žemė susideda iš mažesnių teritorijų, kurioms istoriografijoje taikomas valsčiaus terminas.'
+  sudarymo_pagrindimas: 'Citata palaiko ryšį tarp territorium ir valsčiaus, o pradinis teiginys yra perkrautas fragmentais.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -30,6 +32,8 @@ Dusburgietis teigia, kad žemė susideda iš mažesnių „teritorijų” (in te
 - t-002
   global_id: t-58875
   teiginys: 'Valsčių sudarė pilis, laukai, pievos ir miškeliai su bajorų kaimais bei žemdirbių sodžiais.'
+  sudarymo_pagrindimas: 'Citata palaiko faktą, bet pradinis teiginys nutrūksta bibliografinėje nuorodoje.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]'
   pagrindžia:
     - c-002
 
@@ -67,9 +71,3 @@ Dusburgietis teigia, kad žemė susideda iš mažesnių „teritorijų” (in te
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bajorai]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/paprociai/Prūsų teritorinis-administracinis skirstymas valsčiais, laukais ir pilies apygardomis|Prūsų teritorinis-administracinis skirstymas valsčiais, laukais ir pilies apygardomis (pilis, XIV a.)]]

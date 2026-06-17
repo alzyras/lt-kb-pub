@@ -5,8 +5,9 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1466 m.'
+  - '1503 m.'
 date_start: '1466'
-date_end: ''
+date_end: '1503'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -15,6 +16,7 @@ tags:
   - vieta
 amziai:
   - 'XV'
+  - 'XVI'
 ---
 # Vakarų Prūsija
 
@@ -28,9 +30,18 @@ Gardine išleista privilegija nurodė statyti a i miesto gynybinę mūro sieną 
 - t-001
   global_id: t-42239
   teiginys: 'Nuo 1466 m. Vakarų Prūsija ir Varmė buvo tiesiogiai prijungtos prie Lenkijos.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys, o OCR triukšmas citatoje nekeičia pagrindinio fakto.'
+  susije_objektai: 'mentioned_place: Gardinas; mentioned_place: Lenkija; mentioned_place: Palanga; mentioned_place: Prūsija; mentioned_place: Varmė; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: po 1466 m.; įvykio data: 1466 m.; įvykio data: 1503 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys, o OCR triukšmas citatoje nekeičia pagrindinio fakto.'
   pagrindžia:
     - c-001
-
+- susijęs iš Gardinas: 1503 m. Gardine Lietuvos didysis kunigaikštis Aleksandras išleido privilegiją statyti Vilniaus gynybinę mūro sieną.
+- susijęs iš Gardinas: 1503 m. Gardine Lietuvos didysis kunigaikštis Aleksandras išleido privilegiją statyti Vilniaus gynybinę mūro sieną.
+- susijęs iš Gardinas: 1503 m. Gardine Lietuvos didysis kunigaikštis Aleksandras išleido privilegiją statyti Vilniaus gynybinę mūro sieną.
+- susijęs iš Gardinas: 1503 m. Gardine Lietuvos didysis kunigaikštis Aleksandras išleido privilegiją statyti Vilniaus gynybinę mūro sieną.
+- susijęs iš Vilnius: 1503 m. Gardine Aleksandro privilegija nurodė Vilniuje statyti miesto gynybinę mūro sieną.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -68,3 +79,6 @@ Gardine išleista privilegija nurodė statyti a i miesto gynybinę mūro sieną 
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+- [[objektai/asmenys/Aleksandras Jogailaitis]] buvo_valdovas Vakarų Prūsija

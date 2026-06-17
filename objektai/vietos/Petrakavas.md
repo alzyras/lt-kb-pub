@@ -1,24 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Petrakavas'
-variantai:
-  - 'Petrakave'
-aliases: []
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
 atnaujinta: ''
-laikotarpis: ''
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: ''
 tags:
   - vieta
 ---
@@ -29,18 +15,24 @@ tags:
 Lenkai Petrakave sušaukė seimą dėl Jogailos pakvietimo.
 
 ## Teiginiai
+
 <a id="claim-t-187286"></a>
 - t-001
   global_id: t-187286
-  teiginys: 'Lenkai Petrakave sušaukė seimą dėl Jogailos pakvietimo.'
+  teiginys: 'Pasak Lietuvos metraščio, lenkai Petrakave sušaukė seimą ir nusprendė kviesti Jogailą savo karalystės valdovu.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Valdovo titulas ir politinis vertinimas reikalauja atribucijos.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/Tame (Baigos brolis)|Tame (Baigos brolis)]]; mentioned_place: Lietuva; mentioned_place: Pamaris'
   pagrindžia:
     - c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  statusas: patvirtinta
-
+- susijęs iš [[objektai/ivykiai/Aleksandro išrinkimas ir karūnavimas Lenkijos karaliumi.md#claim-t-186791|Aleksandro išrinkimas ir karūnavimas Lenkijos karaliumi]]: Aleksandras 1501 m. spalio 3 d. Petrakave buvo preliminariai išrinktas Lenkijos karaliumi po Jono Olbrachto mirties.
+- susijęs iš [[objektai/ivykiai/Aleksandro išrinkimas ir karūnavimas Lenkijos karaliumi.md#claim-t-186792|Aleksandro išrinkimas ir karūnavimas Lenkijos karaliumi]]: Lenkijos seimas 1501 m. spalio 3 d. Petrakave preliminariai išrinko Aleksandrą Lenkijos karaliumi.
+- susijęs iš [[objektai/ivykiai/Jono Olbrachto išrinkimas Lenkijos karaliumi.md#claim-t-186770|Jono Olbrachto išrinkimas Lenkijos karaliumi]]: Jonas Olbrachtas Petrakavo seime buvo išrinktas Lenkijos karaliumi 1492 m. liepos 27 d.
+- susijęs iš Lvovas: Kazimieras 1485 m. spalio pradžioje grįžo į Lvovą ir ten buvo tarp spalio 11 ir 25 dienos.
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Lenkai Petrakave sušaukė seimą dėl Jogailos pakvietimo.'
+  santrauka: 'Pasak Lietuvos metraščio, lenkai Petrakave sušaukė seimą ir nusprendė kviesti Jogailą savo karalystės valdovu.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     Len­
@@ -55,10 +47,8 @@ Lenkai Petrakave sušaukė seimą dėl Jogailos pakvietimo.
     seimą5  ir tame seime nusprendė imti didįjį kunigaikštį
     Jogailą savo karalystės valdovu, su sąlyga, kad jis su­
     9!
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

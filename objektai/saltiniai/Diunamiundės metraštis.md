@@ -20,6 +20,8 @@ Dusburgietis teigia, kad sembos kanauninko rinkinio105, turinčio ryšio su Dusb
 - t-001
   global_id: t-61066
   teiginys: 'Dusburgietis galėjo žinoti Diunamiundės metraštį, susijusį su Seniausio Prūsijos metraščio tradicija.'
+  sudarymo_pagrindimas: 'Ilgas sakinys sutrumpintas iki citatos palaikomos šaltiniotyros išvados.'
+  susije_objektai: 'mentioned_place: Diunamiundė; mentioned_place: Prūsija; mentioned_place: Semba'
   pagrindžia:
     - c-001
 

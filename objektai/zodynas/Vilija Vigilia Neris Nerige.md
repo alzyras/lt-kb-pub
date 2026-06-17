@@ -31,6 +31,11 @@ amziai:
 - t-001
   global_id: t-86445
   teiginys: '1390 m. Vladislovo Jogailos privilegijoje Vilniaus kapitulai Vilija buvo pavadinta Vigilia.'
+  sudarymo_pagrindimas: 'Teiginys yra užbaigtas, aiškus ir tiksliai atitinka citatos informaciją.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_place: Vilija; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1390 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra užbaigtas, aiškus ir tiksliai atitinka citatos informaciją.'
   pagrindžia:
     - c-001
 
@@ -38,6 +43,8 @@ amziai:
 - t-002
   global_id: t-86446
   teiginys: 'Vilijos vardas, jei jo kilmė lietuviška, gali būti siejamas su žodžiais „vilioju“ arba „vylius“, todėl reikštų „Vilioklė“.'
+  sudarymo_pagrindimas: 'Pašalintas puslapio ar išnašos numerio triukšmas ir sutrumpinta iki aiškaus vieno sakinio.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Vilija; mentioned_place: Vilnius'
   pagrindžia:
     - c-004
 
@@ -45,6 +52,8 @@ amziai:
 - t-003
   global_id: t-86447
   teiginys: 'Vilija seniau vadinta Neris arba Neria, nes, autoriaus manymu, upė išrausė gilią vagą ir suformavo aukštas smėlingas pakrantes.'
+  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir išlaikyta citatoje esanti autoriaus interpretacija.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Neris; mentioned_place: Prūsija; mentioned_place: Vilija'
   pagrindžia:
     - c-003
 
@@ -52,6 +61,8 @@ amziai:
 - t-004
   global_id: t-86448
   teiginys: 'Kryžiuočių archyvo senajame Lietuvos kelių aprašyme minima Nerige yra dabartinė Vilija.'
+  sudarymo_pagrindimas: 'Teiginys yra faktinis, pilnas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vygandas|Vygandas]]; mentioned_place: Lietuva; mentioned_place: Vilija'
   pagrindžia:
     - c-002
 
@@ -157,11 +168,3 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/asmenys/Vygandas]]
-- [[objektai/zodynas/kapitula]]

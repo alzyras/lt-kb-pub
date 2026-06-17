@@ -20,7 +20,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Pulkininko K. Diebietsho korpusas 1919 m. lapkričio 15 d. pasitraukė iš Lietuvos kaip paskutinis Vokietijos centrinei vadovybei paklusęs vokiečių karinis dalinys.
+Diebietsho korpusas.
 
 ## Teiginiai
 
@@ -28,6 +28,11 @@ Pulkininko K. Diebietsho korpusas 1919 m. lapkričio 15 d. pasitraukė iš Lietu
 - t-001
   global_id: t-40245
   teiginys: 'Pulkininko K. Diebietsho korpusas 1919 m. lapkričio 15 d. pasitraukė iš Lietuvos kaip paskutinis Vokietijos centrinei vadovybei paklusęs vokiečių karinis dalinys.'
+  sudarymo_pagrindimas: 'Reikia išplėsti santrumpą ir suformuluoti sklandesnį enciklopedinį sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Latvija; mentioned_place: Lietuva; mentioned_place: Vokietija'
+  temporaliniai_duomenys: 'įvykio data: 1919 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia išplėsti santrumpą ir suformuluoti sklandesnį enciklopedinį sakinį.'
   pagrindžia:
     - c-001
 
@@ -48,7 +53,3 @@ Pulkininko K. Diebietsho korpusas 1919 m. lapkričio 15 d. pasitraukė iš Lietu
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Vokiečiai]]

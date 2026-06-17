@@ -13,29 +13,34 @@ tags:
 
 ## Santrauka
 
-Seniūnijos buvo valstybės dvarai, kuriuos suteikdavo kartu su aukštomis valstybinėmis pareigomis. Aukštosios valstybinės pareigos iki XVIII a. nebuvo atlyginamos, bet teikė įtakos valstybėje ir seniūnijomis vadintų valstybės dvarų.
+Aukštosios valstybinės vietos nebuvo atlyginamos iki pat XVIII amžiaus, bet kandidatų į jas niekad netrūkdavo, nes jos duodavo ne tik įtakos valstybėje, bet ir valstybės dvarų, vadinamųjų seniūnijų.
 
 ## Teiginiai
+
 <a id="claim-t-03169"></a>
 - t-001
   global_id: t-03169
   teiginys: 'Seniūnijos buvo valstybės dvarai, kuriuos suteikdavo kartu su aukštomis valstybinėmis pareigomis.'
+  sudarymo_pagrindimas: 'Supaprastinta paini sakinio sandara ir paliktas citatos remiamas faktas.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+
 <a id="claim-t-182976"></a>
 - t-002
   global_id: t-182976
   teiginys: 'Aukštosios valstybinės pareigos iki XVIII a. nebuvo atlyginamos, bet teikė įtakos valstybėje ir seniūnijomis vadintų valstybės dvarų.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis sakinys buvo per ilgas ir turėjo neaiškią įvardžio nuorodą.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-
+- susijęs iš Trakų vaivadija: Nevėžis ilgą laiką buvo administracinė riba tarp Trakų vaivadijos ir Žemaičių seniūnijos.
+- susijęs iš Žemaičių seniūnija: Nevėžis ilgą laiką buvo administracinė riba tarp Trakų vaivadijos ir Žemaičių seniūnijos.
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Seniūnijos buvo valstybės dvarai, kuriuos suteikdavo kartu su aukštomis valstybinėmis pareigomis.'
+  santrauka: 'Aukštosios valstybinės vietos nebuvo atlyginamos iki pat XVIII amžiaus, bet kandidatų į jas niekad netrūkdavo, nes jos duodavo ne tik įtakos valstybėje, bet ir valstybės dvarų, vadinamųjų seniūnijų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Jiems vietos paprastai būdavo dovanos,
@@ -48,15 +53,9 @@ Seniūnijos buvo valstybės dvarai, kuriuos suteikdavo kartu su aukštomis valst
     nijų. Iš jiems duodamų valdyti dvarų dažnas ne tik pa-
     dengdavo valstybės pareigas einant padarytas išlaidas, bet ir
     nemažus turtus susikraudavo.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Jonas Karolis Katkevičius]]

@@ -4,15 +4,17 @@ pavadinimas: '„Ivanu“'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
+  - '1686 m.'
   - '1772 m.'
-date_start: '1772'
-date_end: ''
+date_start: '1686'
+date_end: '1772'
 sukurta: ''
 atnaujinta: ''
 tags:
   - posakis
   - valstybė
 amziai:
+  - 'XVII'
   - 'XVIII'
 ---
 # „Ivanu“
@@ -27,6 +29,8 @@ Taip baigėsi stipriai šalį nuniokojęs kelių metų laikotarpis, kurį amžin
 - t-001
   global_id: t-78927
   teiginys: 'Amžininkai „Ivanu“ pavadino šalį nuniokojusį laikotarpį, kai priešų kariuomenės buvo užėmusios beveik visą Lietuvą ir ji beveik prarado valstybingumą.'
+  sudarymo_pagrindimas: 'Pirminis teiginys prasideda kontekstiniu „Taip“ ir turi būti savarankiškas.'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -34,6 +38,11 @@ Taip baigėsi stipriai šalį nuniokojęs kelių metų laikotarpis, kurį amžin
 - t-002
   global_id: t-78928
   teiginys: 'Laikotarpį, kai priešų kariuomenės buvo užėmusios beveik visą Lietuvą ir ji beveik prarado valstybingumą, amžininkai pavadino „Ivanu“.'
+  sudarymo_pagrindimas: 'Citata tiesiogiai paaiškina posakio atsiradimą ir reikšmę.'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Polockas; mentioned_place: Rusija; mentioned_place: Šklovas'
+  temporaliniai_duomenys: 'įvykio data: 1686 m.; įvykio data: 1772 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata tiesiogiai paaiškina posakio atsiradimą ir reikšmę.'
   pagrindžia:
     - c-002
 

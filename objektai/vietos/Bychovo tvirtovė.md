@@ -21,6 +21,7 @@ Etmonas, iždininkas ir maršalas vakare pasiekė Vilnių, iš visų savo rūmų
 - t-001
   global_id: t-41638
   teiginys: 'Etmonas, iždininkas ir maršalas paskleidė gandą, kad vyksta į Drują ir Bychovo tvirtovę, tačiau iš tikrųjų traukėsi į Kuršą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Respublikonai|Respublikonai]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_place: Bauskė; mentioned_place: Druja; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -28,6 +29,11 @@ Etmonas, iždininkas ir maršalas vakare pasiekė Vilnių, iš visų savo rūmų
 - t-002
   global_id: t-183779
   teiginys: 'Sapiegų etmonas, iždininkas ir maršalas paskleidė gandą, kad vyksta į Drują bei Bychovo tvirtovę, bet iš tikrųjų traukėsi į Kuršą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis teiginys per ilgas, nutrūkęs ir turi pašalinį kontekstą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Respublikonai|Respublikonai]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_place: Bauskė; mentioned_place: Druja; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

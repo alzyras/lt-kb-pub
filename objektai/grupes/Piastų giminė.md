@@ -22,6 +22,8 @@ Piastų giminės karaliai bene energingiausiai prie to prisidėjo.
 - t-001
   global_id: t-86816
   teiginys: 'XIII a. Piastų giminės karaliai prisidėjo prie vokiečių miestų teisių ir turtų perkėlimo Lenkijos miestams.'
+  sudarymo_pagrindimas: 'Teiginys gramatiškas, faktinis ir paremtas citata apie Piastų giminę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lenkija'
   pagrindžia:
     - c-001
 
@@ -48,7 +50,3 @@ Piastų giminės karaliai bene energingiausiai prie to prisidėjo.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Vokiečiai]]

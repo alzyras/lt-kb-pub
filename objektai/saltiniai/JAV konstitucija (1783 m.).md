@@ -18,7 +18,7 @@ amziai:
 
 ## Santrauka
 
-1783 m. JAV konstitucija citatoje įvardijama kaip pirmoji pasaulyje rašytinė konstitucija.
+Lenkijos ir Lietuvos konstitucijos konstruojama santvarka turėjo lygiuotis į Anglijoje prieš 100 metų įvestą santvarką, tiesa, taip ir nesulaukusią rašytinės konstitucijos.
 
 ## Teiginiai
 
@@ -26,6 +26,11 @@ amziai:
 - t-001
   global_id: t-78128
   teiginys: '1783 m. JAV konstitucija citatoje įvardijama kaip pirmoji pasaulyje rašytinė konstitucija.'
+  sudarymo_pagrindimas: 'Pirminis teiginys labiau apie Lenkijos ir Lietuvos konstituciją, todėl perrašyta apie note objektą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/konstitucijos|konstitucijos]]; mentioned_place: Anglija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Prancūzija'
+  temporaliniai_duomenys: 'įvykio data: 1783 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pirminis teiginys labiau apie Lenkijos ir Lietuvos konstituciją, todėl perrašyta apie note objektą.'
   pagrindžia:
     - c-001
 

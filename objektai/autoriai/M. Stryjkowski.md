@@ -28,6 +28,9 @@ Stryjkowski: Kronika Polska, Litewska etc ., I, 1846, 370-372 p. (^15) Plg.
 - t-001
   global_id: t-30848
   teiginys: 'M. Stryjkowskis parašė veikalą „Kronika Polska, Litewska etc.“, cituojamą 1846 m. leidimo pirmajame tome.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
+  temporaliniai_duomenys: 'įvykio data: 1846 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

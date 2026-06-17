@@ -37,6 +37,9 @@ Nenurodyta
 - t-001
   global_id: t-62873
   teiginys: 'Martynas iš Golino su 4 vokiečiais ir 11 prūsų užgrobė Sūduvos kaimą, išžudydamas arba į nelaisvę išsivesdamas žmones.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Kaimas; mentioned_place: Pagudė; mentioned_place: Prūsai; mentioned_place: Sūduva; mentioned_place: Viena'
   pagrindžia:
     - c-001
     - c-002
@@ -45,6 +48,9 @@ Nenurodyta
 - t-002
   global_id: t-62874
   teiginys: 'Po bendražygių žūties Martynas iš Golino sušaukė išsklaidytus vyrus, atgavo ginklus ir užpuolęs sūduvius juos išžudė.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir per ilgas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Kalavijai|Kalavijai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Kaimas; mentioned_place: Prūsai; mentioned_place: Sūduva; mentioned_place: Viena'
   pagrindžia:
     - c-002
 
@@ -89,18 +95,3 @@ Nenurodyta
   pagrindžia:
     - t-001
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Ginklai]]
-- [[objektai/daiktai/Kalavijai]]
-- [[objektai/asmenys/Martynas iš Golino]]
-- [[objektai/daiktai/Namas]]
-- [[objektai/grupes/Sūduviai]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/netikėliai]]
-- [[objektai/asmenys/Konradas, vardu Divelis]]
-- [[objektai/asmenys/Kudaras iš Sūduvos]]
-- [[objektai/asmenys/Nakaimas iš Pagudės]]
-- [[objektai/daiktai/Skobnis]]
-- [[objektai/asmenys/Štaubemelis]]

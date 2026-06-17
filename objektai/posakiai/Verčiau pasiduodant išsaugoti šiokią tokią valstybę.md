@@ -18,6 +18,11 @@ Apsupto Kijevo gyventojai nutarė verčiau pasiduoti ir išsaugoti šiokią toki
 - t-001
   global_id: t-185486
   teiginys: 'Apsupto Kijevo gyventojai nutarė verčiau pasiduoti ir išsaugoti šiokią tokią valstybę, negu viską prarasti priešindamiesi.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pašalintas puslapio triukšmas; posakio mintis paversta pilnu sakiniu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Kijevas'
   pagrindžia:
     - c-001
 
@@ -47,8 +52,3 @@ Apsupto Kijevo gyventojai nutarė verčiau pasiduoti ir išsaugoti šiokią toki
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Rusai]]
-- [[objektai/paprociai/Miesto ir žemių atidavimas nugalėtojui prisiekiant paklusnumą|Miesto ir žemių atidavimas nugalėtojui prisiekiant paklusnumą (miestas)]]

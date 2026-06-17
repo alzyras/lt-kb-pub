@@ -3,12 +3,20 @@ tipas: asmuo
 pavadinimas: 'Vincentas Vėlavičius (kunigas)'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1978 m.'
+date_start: '1978'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - kunigas
   - valstybė
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'XX a.'
 ---
 # Vincentas Vėlavičius (kunigas)
 
@@ -22,6 +30,11 @@ tags:
 - t-001
   global_id: t-19318
   teiginys: 'Kunigas Vincentas Vėlavičius priklausė 1978 m. lapkričio 13 d. Lietuvoje įkurtam Tikinčiųjų teisių gynimo komitetui.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nemini objekto; citata remia faktą apie Vincentą Vėlavičių.'
+  susije_objektai: 'owner: [[objektai/asmenys/Jonas|Jonas]]; owner: [[objektai/asmenys/Jonas Kauneckas|Jonas Kauneckas]]; owner: [[objektai/asmenys/Juozas Zdebskis|Juozas Zdebskis]]; owner: Lietuva; owner: Maskva; mentioned_object: [[objektai/zodynas/kulto laisvė|kulto laisvė]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/asmenys/Alfonsas (Kastilijos karalius)|Alfonsas (Kastilijos karalius)]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas Kauneckas|Jonas Kauneckas]]; mentioned_person: [[objektai/asmenys/Juozas Zdebskis|Juozas Zdebskis]]; mentioned_place: Lietuva; mentioned_place: Maskva'
+  temporaliniai_duomenys: 'priklausymo laikotarpis: 1978 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Alfonsas (Kastilijos karalius) susiję su Jonas Kauneckas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Alfonsas (Kastilijos karalius) susiję su Jonas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Alfonsas (Kastilijos karalius) susiję su Juozas Zdebskis (kunigas)“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Alfonsas (Kastilijos karalius) susiję su Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Alfonsas (Kastilijos karalius) susiję su Maskva“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys nemini objekto; citata remia faktą apie Vincentą Vėlavičių.'
   pagrindžia:
     - c-001
 
@@ -52,17 +65,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Alfonsas (Kastilijos karalius)]]
-- [[objektai/asmenys/Jonas]]
-- [[objektai/asmenys/Jonas Kauneckas]]
-- [[objektai/asmenys/Juozas Zdebskis|Juozas Zdebskis (kunigas)]]
-- [[objektai/zodynas/kulto laisvė]]
-- [[objektai/zodynas/kunigas]]
-- [[objektai/asmenys/Alfonsas Svarinskas]]
-- [[objektai/grupes/Katalikų Bažnyčia]]
-- [[objektai/autoriai/Sigitas Tamkevičius]]
-- [[objektai/grupes/Tikinčiųjų teisių gynimo komitetas|Tikinčiųjų teisių gynimo komitetas (institucija)]]
-- [[objektai/ivykiai/Tikinčiųjų teisių gynimo komiteto įkūrimas ir paskelbimas (1978 m. lapkričio 13–22 d.)]]

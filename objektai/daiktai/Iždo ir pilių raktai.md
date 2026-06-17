@@ -6,6 +6,8 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1350 m.'
+  - '1382 m.'
+  - '1914 m.'
   - '2026 m.'
 date_start: '1350'
 date_end: '2026'
@@ -49,6 +51,11 @@ Nenurodyta
 - t-001
   global_id: t-64929
   teiginys: 'Dlugošo aprašymu, Vytautas prieš mirtį pavedė Lietuvą Jogailai ir liepė jam atiduoti iždo ir pilių raktus.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nurodo Dlugošo aprašymą ir yra paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/autoriai/J. Puzinas|J. Puzinas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1914 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo Dlugošo aprašymą ir yra paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -56,6 +63,11 @@ Nenurodyta
 - t-002
   global_id: t-64930
   teiginys: '1382 m. birželio 12 d. Rygos pirklys Hanulo Vilniuje įteikė Jogailai pilies raktus.'
+  sudarymo_pagrindimas: 'Sakinys aiškiai nurodo datą, veikėją, vietą ir veiksmą, paremtą citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Hanulas|Hanulas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Ryga; mentioned_place: Vilnius; mentioned_place: Vitebskas'
+  temporaliniai_duomenys: 'įvykio data: 1382 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Sakinys aiškiai nurodo datą, veikėją, vietą ir veiksmą, paremtą citata.'
   pagrindžia:
     - c-002
 
@@ -63,6 +75,8 @@ Nenurodyta
 - t-003
   global_id: t-64931
   teiginys: 'Prahos gyventojai Kaributui įdavė miesto raktus ir pavedė jam karo vadovybę.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatinis ir tiksliai atitinka citatos informaciją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kaributas|Kaributas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Praga; mentioned_place: Praha'
   pagrindžia:
     - c-003
 
@@ -124,24 +138,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Vežimai]]
-- [[objektai/asmenys/Hanulas]]
-- [[objektai/autoriai/J. Puzinas]]
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
-- [[objektai/asmenys/Kaributas]]
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/vietininkas]]
-- [[objektai/grupes/Čekai]]
-- [[objektai/asmenys/Švitrigaila]]
-- [[objektai/daiktai/Pilies raktai|Pilies raktai (pilis)]]
-- [[objektai/ivykiai/Vilniaus užėmimas ir Vytauto bandymas jį atsiimti (1382 m. birželio 12 d.)]]
-- [[objektai/asmenys/Zigmantas Kaributas]]

@@ -3,6 +3,10 @@ tipas: zodyno_irasas
 pavadinimas: 'klaipėdiečiai klaipėdiškiai'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1925 m.'
+date_start: '1925'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -10,12 +14,14 @@ tags:
   - kraštas
   - seimas
   - sąvoka
+amziai:
+  - 'XX'
 ---
 # klaipėdiečiai klaipėdiškiai
 
 ## Santrauka
 
-Lietuva klaipėdiečius laikė lietuviais ir skaičiavo, kad Klaipėdos krašte lietuviai sudaro 50,8 procento gyventojų. Lietuva prarado lietuviškai kalbėjusių klaipėdiškių paramą, nes jie vietos seimelio rinkimuose balsavo už vokiškas partijas. Lietuva prarado lietuviškai kalbėjusius klaipėdiškius, kurie vietos seimelio rinkimuose balsavo už vokiškas partijas.
+1925 m. Klaipėdos krašto gyventojų surašymo duomenys parodė, kad krašte gyvena 141 000 gyventojų, iš jų 64 000 vokiečių, 37 000 lietuvių ir 34 000 „klaipėdiečių“, kurie namuose kalbėjo lietuviškai. Svarbiausia, kad Lietuva dėl sudėtingų socialinių, politinių tradicijų ir psichologinių priežasčių prarado lietuviškai kalbėjusius „klaipėdiškius“, kurie rinkimuose į vietos seimelį balsavo už susitelkusias vokiškas partijas (panašiai kaip elzasiečiai ar.
 
 ## Teiginiai
 
@@ -23,6 +29,11 @@ Lietuva klaipėdiečius laikė lietuviais ir skaičiavo, kad Klaipėdos krašte 
 - t-001
   global_id: t-22186
   teiginys: 'Lietuva klaipėdiečius laikė lietuviais ir skaičiavo, kad Klaipėdos krašte lietuviai sudaro 50,8 procento gyventojų.'
+  sudarymo_pagrindimas: 'Pradinis surašymo teiginys nepagrįstas, bet citata pagrindžia Lietuvos skaičiavimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/klaipėdiečiai|klaipėdiečiai]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1925 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis surašymo teiginys nepagrįstas, bet citata pagrindžia Lietuvos skaičiavimą.'
   pagrindžia:
     - c-002
 
@@ -30,6 +41,8 @@ Lietuva klaipėdiečius laikė lietuviais ir skaičiavo, kad Klaipėdos krašte 
 - t-002
   global_id: t-22187
   teiginys: 'Lietuva prarado lietuviškai kalbėjusių klaipėdiškių paramą, nes jie vietos seimelio rinkimuose balsavo už vokiškas partijas.'
+  sudarymo_pagrindimas: 'Trumpesnė formuluotė tiksliau išreiškia citatos faktinį turinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/Klaipėdiškiai|Klaipėdiškiai]]; mentioned_object: [[objektai/zodynas/seimelis|seimelis]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Silezija'
   pagrindžia:
     - c-001
 
@@ -37,6 +50,11 @@ Lietuva klaipėdiečius laikė lietuviais ir skaičiavo, kad Klaipėdos krašte 
 - t-003
   global_id: t-183432
   teiginys: 'Lietuva prarado lietuviškai kalbėjusius klaipėdiškius, kurie vietos seimelio rinkimuose balsavo už vokiškas partijas.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nusako Lietuvos santykį su lietuviškai kalbėjusiais klaipėdiškiais ir jų balsavimą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimelis|seimelis]]; mentioned_place: Kaunas; mentioned_place: Klaipėdos kraštas; mentioned_place: Latvija; mentioned_place: Lietuva; mentioned_place: Silezija'
   pagrindžia:
     - c-003
 
@@ -93,12 +111,3 @@ Lietuva klaipėdiečius laikė lietuviais ir skaičiavo, kad Klaipėdos krašte 
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/seimelis]]
-- [[objektai/zodynas/Klaipėdiškiai]]
-- [[objektai/zodynas/klaipėdiečiai]]

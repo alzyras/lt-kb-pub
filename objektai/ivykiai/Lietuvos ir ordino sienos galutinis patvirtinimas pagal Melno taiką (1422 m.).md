@@ -4,6 +4,10 @@ pavadinimas: 'Lietuvos ir ordino sienos galutinis patvirtinimas pagal Melno taik
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+datos:
+  - '1422 m.'
+date_start: '1422'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -11,12 +15,14 @@ tags:
   - karas
   - kraštas
   - ordinas
+amziai:
+  - 'XV'
 ---
 # Lietuvos ir ordino sienos galutinis patvirtinimas pagal Melno taiką (1422 m.)
 
 ## Santrauka
 
-Melno taika sutarta siena išsilaikė penkis šimtmečius, Lietuvai atiteko žymi dalis Žemaičių ir Sūduvos dykros, o Lenkijai Niešavos kraštas. 1422 m. rugsėjo 27 d. prie Melno ežero buvo pasirašyta taika su ordinu.
+1422 m. rugsėjo 27 d. prie Melno ežero buvo pasirašyta taika, kuri po ilgų ginčų patvirtino Lietuvos, Lenkijos ir ordino sienų kompromisą. Ivinskis pabrėžia, kad Lietuvai atiteko žymi dalis Žemaičių ir Sūduvos dykros, o Melno sutarties nustatyta siena išsilaikė penkis šimtmečius.
 
 ## Laikotarpis ir datos
 
@@ -35,10 +41,12 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 <a id="claim-t-66698"></a>
 - t-001
   global_id: t-66698
   teiginys: 'Melno taika sutarta siena išsilaikė penkis šimtmečius, Lietuvai atiteko žymi dalis Žemaičių ir Sūduvos dykros, o Lenkijai Niešavos kraštas.'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Niešava; mentioned_place: Niešavos kraštas; mentioned_place: Sūduva'
   pagrindžia:
     - c-002
 
@@ -46,10 +54,14 @@ Nenurodyta
 - t-002
   global_id: t-66700
   teiginys: '1422 m. rugsėjo 27 d. prie Melno ežero buvo pasirašyta taika su ordinu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Russdorfas|Russdorfas]]'
+  temporaliniai_duomenys: 'įvykio data: 1422 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -61,6 +73,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -73,11 +86,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/asmenys/Russdorfas]]
-- [[objektai/zodynas/didysis magistras]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/grupes/Kryžiuočių ordinas]]

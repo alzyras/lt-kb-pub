@@ -42,6 +42,8 @@ Nenurodyta
 - t-001
   global_id: t-59694
   teiginys: 'Pasak Petro Dusburgiečio, medinis nukryžiuotasis koplyčioje ištiesė rankas ir palaimino besimeldžiantįjį kryžiaus ženklu.'
+  sudarymo_pagrindimas: 'Tai stebuklinis pasakojimas, todėl reikalinga atribucija; pradinis teiginys yra fragmentiškas.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Altorius|Altorius]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]'
   pagrindžia:
     - c-001
 
@@ -66,9 +68,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Altorius]]
-- [[objektai/daiktai/Kryžius]]
-- [[objektai/asmenys/Heidenrichas|Heidenrichas (kunigas)]]

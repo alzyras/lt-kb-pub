@@ -36,6 +36,11 @@ Nenurodyta
 - t-001
   global_id: t-185824
   teiginys: 'Piotrkovo seime Lenkijos luomai pareikalavo, kad karalius prisiektų neatiduoti lietuviams Podolės ir Volynės žemių.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pašalinti neaiškūs įvardžiai, OCR lūžiai ir perteklinės detalės.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/luomai|luomai]]; mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lenkija; mentioned_place: Piotrkovas; mentioned_place: Podolė; mentioned_place: Viena; mentioned_place: Volynė'
   pagrindžia:
     - c-001
 
@@ -61,12 +66,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bajorai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/luomai]]
-- [[objektai/zodynas/luomas]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/grupes/Lenkai]]

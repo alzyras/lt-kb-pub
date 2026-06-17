@@ -46,6 +46,7 @@ Nenurodyta
 - t-001
   global_id: t-67234
   teiginys: 'Mergaitės iki ištekėjimo dirbo ir krovė kraitį, o nuotakos ieškojo ne turtingų, bet narsių vyrų.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Duona|Duona]]; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -68,7 +69,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Duona]]

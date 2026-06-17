@@ -1,24 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Roslavlis'
-variantai:
-  - 'Roslavlio'
-aliases: []
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
 atnaujinta: ''
-laikotarpis: ''
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: ''
 tags:
   - vieta
 ---
@@ -29,18 +15,21 @@ tags:
 Jurgiui Svetoslavovičiui buvo duotas Roslavlio miestas.
 
 ## Teiginiai
+
 <a id="claim-t-187311"></a>
 - t-001
   global_id: t-187311
-  teiginys: 'Jurgiui Svetoslavovičiui buvo duotas Roslavlio miestas.'
+  teiginys: 'Vytautas davė Roslavlio miestą kunigaikščiui Jurgiui Svetoslavovičiui.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Sakinys perrašytas aktyvia forma su aiškiu veikėju ir objektu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Glebas (Smolensko kunigaikštis)|Glebas (Smolensko kunigaikštis)]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Smolenskas; mentioned_place: Vorksla'
   pagrindžia:
     - c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Jurgiui Svetoslavovičiui buvo duotas Roslavlio miestas.'
+  santrauka: 'Vytautas davė Roslavlio miestą kunigaikščiui Jurgiui Svetoslavovičiui.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     33. APIE SMOLENSKO KUNIGAIKŠČIO GLEBO SVETOSLAVOVI-
@@ -51,10 +40,8 @@ Jurgiui Svetoslavovičiui buvo duotas Roslavlio miestas.
     kunigaikštį Glėbą Svetoslavovičiu, į Smolenską didžiuo­
     ju kunigaikščiu, o kunigaikščiui Jurgiui Svetoslavo-
     vičiui davė Roslavlio2  miestą.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

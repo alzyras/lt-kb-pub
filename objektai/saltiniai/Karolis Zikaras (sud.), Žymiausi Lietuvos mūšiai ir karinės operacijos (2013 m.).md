@@ -46,6 +46,7 @@ Tai 2013 m. Vilniuje išleistas straipsnių rinkinys apie įvairių laikų Lietu
 - t-001
   global_id: t-08804
   teiginys: 'Leidykla nurodoma UAB „ALIO“, leidinį spausdino UAB „Petro ofsetas“, o tiražas siekė 2000 egzempliorių.'
+  susije_objektai: 'mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 
@@ -53,6 +54,11 @@ Tai 2013 m. Vilniuje išleistas straipsnių rinkinys apie įvairių laikų Lietu
 - t-002
   global_id: t-08806
   teiginys: 'Leidinys pateikiamas kaip straipsnių rinkinys „Žymiausi Lietuvos mūšiai ir karinės operacijos“, kurio atsakingasis redaktorius ir sudarytojas yra Karolis Zikaras; jis išleistas Vilniuje 2013 m. ir turi ISBN 978-9986-827-05-4.'
+  sudarymo_pagrindimas: 'Teiginys tiksliai ir gramatiškai perteikia bibliografinius duomenis iš citatos.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 2013 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys tiksliai ir gramatiškai perteikia bibliografinius duomenis iš citatos.'
   pagrindžia:
     - c-002
 
@@ -60,6 +66,7 @@ Tai 2013 m. Vilniuje išleistas straipsnių rinkinys apie įvairių laikų Lietu
 - t-003
   global_id: t-08810
   teiginys: 'Leidinys skirtas supažindinti skaitytoją su įvairių laikų Lietuvos karų istorija per mūšių prizmę, atrenkant svarbesnius ar įdomesnius susirėmimus, kuriuose buvo ginami Lietuvos valstybės interesai.'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -67,6 +74,7 @@ Tai 2013 m. Vilniuje išleistas straipsnių rinkinys apie įvairių laikų Lietu
 - t-004
   global_id: t-08811
   teiginys: 'Leidinio tikslas yra per karų kulminacinius momentus parodyti ilgaamžę kovų už Lietuvos valstybę istoriją ir pateikti Lietuvos kario įvaizdį bei karybos, ginkluotės ir regiono geopolitinio konteksto apžvalgą.'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-004
 

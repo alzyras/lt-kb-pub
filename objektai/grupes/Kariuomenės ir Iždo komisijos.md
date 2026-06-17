@@ -3,6 +3,10 @@ tipas: grupe
 pavadinimas: 'Kariuomenės ir Iždo komisijos'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1791 m.'
+date_start: '1791'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -10,6 +14,8 @@ tags:
   - karalius
   - valdovas
   - valstybė
+amziai:
+  - 'XVIII'
 ---
 # Kariuomenės ir Iždo komisijos
 
@@ -23,6 +29,11 @@ Tvarkyti valstybės reikalus valdovui turi padėti vyriausybė, vadinama Teisių
 - t-001
   global_id: t-19738
   teiginys: 'Kariuomenės ir Iždo komisijose Lenkija ir LDK turėjo turėti po lygiai narių, o jų pirmininkai turėjo būti paeiliui lenkai ir lietuviai.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai apibūdina komisijų sudėties ir pirmininkavimo taisyklę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/konstitucijos|konstitucijos]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1791 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai apibūdina komisijų sudėties ir pirmininkavimo taisyklę.'
   pagrindžia:
     - c-002
 
@@ -30,6 +41,8 @@ Tvarkyti valstybės reikalus valdovui turi padėti vyriausybė, vadinama Teisių
 - t-002
   global_id: t-19739
   teiginys: 'Iždo ir karo komisijų pirmininkai įėjo į Teisių sargybą – vyriausybę, turėjusią padėti valdovui tvarkyti valstybės reikalus.'
+  sudarymo_pagrindimas: 'Sakinys sutelktas į nurodytas komisijas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -37,6 +50,12 @@ Tvarkyti valstybės reikalus valdovui turi padėti vyriausybė, vadinama Teisių
 - t-003
   global_id: t-183140
   teiginys: 'Teisių sargybai priklausė bendrų Lenkijos ir Lietuvos iždo, karo ir policijos komisijų pirmininkai.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir tik netiesiogiai susijęs su komisijomis.'
+  susije_objektai: 'owner: Lenkija; owner: Lietuva; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/grupes/Kariuomenės ir Iždo komisijos|Kariuomenės ir Iždo komisijos]] priklausė Lenkija; [[objektai/grupes/Kariuomenės ir Iždo komisijos|Kariuomenės ir Iždo komisijos]] priklausė Lietuva'
   pagrindžia:
     - c-003
 
@@ -111,11 +130,5 @@ Tvarkyti valstybės reikalus valdovui turi padėti vyriausybė, vadinama Teisių
     - t-004
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/konstitucijos]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/ivykiai/Gegužės trečiosios konstitucijos priėmimas]]
-- [[objektai/grupes/Teisių sargyba]]
+- Kariuomenės ir Iždo komisijos priklause [[objektai/vietos/Lenkija]]
+- Kariuomenės ir Iždo komisijos priklause [[objektai/vietos/Lietuva]]

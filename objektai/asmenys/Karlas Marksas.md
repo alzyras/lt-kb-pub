@@ -20,6 +20,8 @@ Stalino, Karlo Markso veikalus, Sovietų Sąjungos komunistų partijos istoriją
 - t-001
   global_id: t-78061
   teiginys: 'Sovietinėje švietimo sistemoje mokytojai buvo verčiami studijuoti Karlo Markso veikalus.'
+  sudarymo_pagrindimas: 'Pradinis teiginys yra sąrašo fragmentas, bet citata palaiko pilną faktinį sakinį.'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: SSRS'
   pagrindžia:
     - c-001
 
@@ -40,9 +42,3 @@ Stalino, Karlo Markso veikalus, Sovietų Sąjungos komunistų partijos istoriją
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/J. Stalinas]]
-- [[objektai/asmenys/Josifas Stalinas]]
-- [[objektai/grupes/Sovietų Sąjungos komunistų partija]]

@@ -18,6 +18,11 @@ Lietuva ir Maskva vargais negalais sutarė dėl šešerių metų paliaubų, kuri
 - t-001
   global_id: t-186348
   teiginys: 'Lietuva ir Maskva vargais negalais sutarė dėl šešerių metų paliaubų, kurios Lietuvai buvo sudarytos prastomis sąlygomis.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata pagrindžia paliaubų faktą ir sąlygų vertinimą.'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Viena'
   pagrindžia:
     - c-001
 

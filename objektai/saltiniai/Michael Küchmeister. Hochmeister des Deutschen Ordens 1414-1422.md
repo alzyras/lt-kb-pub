@@ -29,6 +29,9 @@ Nöbel : Michael Küchmeister.
 - t-001
   global_id: t-31848
   teiginys: 'W. Nöbelio veikalas „Michael Küchmeister. Hochmeister des Deutschen Ordens 1414-1422“ minimas kaip 1969 m. penktojo tomo publikacija.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
+  temporaliniai_duomenys: 'įvykio data: 1969 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

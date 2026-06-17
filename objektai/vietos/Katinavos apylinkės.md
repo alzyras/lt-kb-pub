@@ -31,6 +31,8 @@ Dusburgietis teigia, kad stalupėnų apylinkėse — Šventiškės upė ir Šven
 - t-001
   global_id: t-58570
   teiginys: 'Katinavos apylinkės išsiskyrė tarp pagoniškam kultui skirtų Nadruvos regionų, nes Katinavos kalva buvo laikoma šventa.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai perteikia citatos mintį apie Katinavos apylinkių išskirtinumą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Nadruviai|Nadruviai]]; mentioned_place: Auktuolyčiai; mentioned_place: Nadruva'
   pagrindžia:
     - c-001
 
@@ -38,9 +40,14 @@ Dusburgietis teigia, kad stalupėnų apylinkėse — Šventiškės upė ir Šven
 - t-002
   global_id: t-58571
   teiginys: 'Katinavos apylinkės apibūdintos kaip ryškus pagoniško kulto židinys.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas citatos apibendrinimu apie Katinavos apylinkes.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Nadruviai|Nadruviai]]; mentioned_place: Gumbinė; mentioned_place: Kaimas; mentioned_place: Stalupėnai'
+  temporaliniai_duomenys: 'įvykio data: 1595 m.; įvykio data: 1915 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir paremtas citatos apibendrinimu apie Katinavos apylinkes.'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/grupes/Nadruviai.md#claim-t-65941|Nadruviai]]: Katinavos kalva nadruvių buvo laikoma šventa (Pratorius M., Deliciae..., kn.
 ## Reikšmingi paminėjimai
 
 - c-001

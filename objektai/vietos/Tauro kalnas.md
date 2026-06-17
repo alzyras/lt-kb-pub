@@ -25,7 +25,7 @@ amziai:
 
 ## Santrauka
 
-Lizdeikos sapno aiškinimas paskatino Gediminą ant Tauro kalno pastatyti Aukštutinę mūro pilį. Pasakojime Tauro kalnu vadintas kalnas, ant kurio Gediminas medžiodamas pašovė ir pribaigė didžiulį taurą. Vytautas įkasė patrankas Tauro kalne, kurį Bychovco kronika sieja su Gedimino nudėtu tauru.
+Stepono bažnyčią, pasuko Tauro kalno link, ant kurio netrukus buvo išdėstyta rusų artilerija.
 
 ## Teiginiai
 
@@ -33,6 +33,8 @@ Lizdeikos sapno aiškinimas paskatino Gediminą ant Tauro kalno pastatyti Aukšt
 - t-001
   global_id: t-84850
   teiginys: 'Lizdeikos sapno aiškinimas paskatino Gediminą ant Tauro kalno pastatyti Aukštutinę mūro pilį.'
+  sudarymo_pagrindimas: 'Teiginys pagrįstas citata, bet reikia pašalinti OCR triukšmą ir sutrumpinti.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Lizdeika|Lizdeika]]; mentioned_place: Aukštutinė pilis; mentioned_place: Luckas; mentioned_place: Vengrija; mentioned_place: Vilniaus Aukštutinė pilis; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -40,13 +42,20 @@ Lizdeikos sapno aiškinimas paskatino Gediminą ant Tauro kalno pastatyti Aukšt
 - t-002
   global_id: t-84852
   teiginys: 'Pasakojime Tauro kalnu vadintas kalnas, ant kurio Gediminas medžiodamas pašovė ir pribaigė didžiulį taurą.'
+  sudarymo_pagrindimas: 'Citata pagrindžia aiškų pasakojimo faktą, o pradinis teiginys per ilgas ir su kabučių problema.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_place: Aukštutinė pilis; mentioned_place: Luckas; mentioned_place: Trakai; mentioned_place: Vengrija; mentioned_place: Vilniaus Aukštutinė pilis; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
 <a id="claim-t-187659"></a>
 - t-003
   global_id: t-187659
-  teiginys: 'Vytautas įkasė patrankas Tauro kalne, kurį Bychovco kronika sieja su Gedimino nudėtu tauru.'
+  teiginys: 'Bychovco kronika pasakoja, kad Vytautas įkasė patrankas Tauro kalne, pavadintame pagal Gedimino nudėtą taurą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Legenda ir valdovų titulavimo kontekstas palikti su kronikos atribucija.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Aukštutinė pilis; mentioned_place: Luckas; mentioned_place: Vengrija; mentioned_place: Vilniaus Aukštutinė pilis; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 
@@ -122,7 +131,7 @@ Lizdeikos sapno aiškinimas paskatino Gediminą ant Tauro kalno pastatyti Aukšt
     - t-001
 
 - c-003
-  santrauka: 'Vytautas įkasė patrankas Tauro kalne, kurį Bychovco kronika sieja su Gedimino nudėtu tauru.'
+  santrauka: 'Bychovco kronika pasakoja, kad Vytautas įkasė patrankas Tauro kalne, pavadintame pagal Gedimino nudėtą taurą.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     Vokie-

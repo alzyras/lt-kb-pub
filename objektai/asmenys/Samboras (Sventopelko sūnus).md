@@ -23,6 +23,8 @@ Dusburgietis teigia, kad apie Svečės pilies pastatymą ir jos užpuolimą Tod�
 - t-001
   global_id: t-60061
   teiginys: 'Samboras buvo vienas iš keturių Pomeranijos kunigaikščio Sventopelko sūnų.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs; citata pagrindžia Samboro ryšį su Sventopelku.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Samboras|Samboras]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_person: [[objektai/asmenys/Vartislavas (Sventopelko sūnus)|Vartislavas (Sventopelko sūnus)]]; mentioned_place: Pomeranija; mentioned_place: Poterbergas; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
 
@@ -30,6 +32,8 @@ Dusburgietis teigia, kad apie Svečės pilies pastatymą ir jos užpuolimą Tod�
 - t-002
   global_id: t-60062
   teiginys: 'Broliai Sartovicų pilį su visa kuo perdavė savo bičiuliui Samborui, Sventopelko sūnui.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nurodo Samborui perduotą Sartovicų pilį.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Svečė'
   pagrindžia:
     - c-002
 
@@ -37,6 +41,8 @@ Dusburgietis teigia, kad apie Svečės pilies pastatymą ir jos užpuolimą Tod�
 - t-003
   global_id: t-60063
   teiginys: 'Samboras savo kunigaikštystės dalį atidavė broliams, kad jie aprūpintų jį ir jo šeimyną.'
+  sudarymo_pagrindimas: 'Teiginys yra faktinis ir paremtas citata apie Samboro dovanojimą broliams.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/daiktai/Antspaudai|Antspaudai]]; mentioned_person: [[objektai/asmenys/Samboras|Samboras]]; mentioned_person: [[objektai/asmenys/Vartislavas (Sventopelko sūnus)|Vartislavas (Sventopelko sūnus)]]'
   pagrindžia:
     - c-003
 
@@ -92,13 +98,3 @@ Dusburgietis teigia, kad apie Svečės pilies pastatymą ir jos užpuolimą Tod�
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Antspaudai]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Teutonai]]
-- [[objektai/asmenys/Vartislavas (Sventopelko sūnus)]]
-- [[objektai/asmenys/Samboras]]
-- [[objektai/asmenys/Sventopelkas]]
-- [[objektai/asmenys/Mstivojus]]

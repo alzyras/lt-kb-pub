@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Vilniaus Aukštutinės pilies kalnas užslinko ant Manvydo namo ir pridarė daug nuostolių. Dinaburgo komtūras Livonijos magistrui pranešė, kad Vilniaus Pilies kalną ištiko griūtis. 1396 m. Vilniaus Pilies kalną ištiko smarki griūtis, kurios nuošliaužos užslinko ant vaivados Manvydo rūmų.
+Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominikonams, prie Vilniaus pilies pastatydino jiems vienuolynus ir bažnyčias, o kad krašte plistų amatai, leido naujai įkurtame mieste apsigyventi gausiems atėjū­ nams iš Vokietijos ir. 1396-ieji me­ tai Vilniui atmintini dar ir dėl pilies kalno smarkios griūties bei alpių karščių. Dinaburgo komtūras praneša Livonijos magistrui, kad Švitrigaila, išleistas iš nelaisvės, vėl traukia į mūšio lauką; kad Pilies kalną Vilniuje ištiko griūtis; kad vienas Vengrijos kunigaikštis su 700 raitelių pulku pasiskelbė Vytautui tar­ nausiąs ir 1.1.
 
 ## Teiginiai
 
@@ -29,6 +29,8 @@ Vilniaus Aukštutinės pilies kalnas užslinko ant Manvydo namo ir pridarė daug
 - t-001
   global_id: t-86047
   teiginys: 'Vilniaus Aukštutinės pilies kalnas užslinko ant Manvydo namo ir pridarė daug nuostolių.'
+  sudarymo_pagrindimas: 'Perrašyta glaustiau ir aiškiau, pašalinant perteklinę konstrukciją bei išlaikant citatos faktą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/Pataurininkis|Pataurininkis]]; mentioned_person: [[objektai/asmenys/Manvydas|Manvydas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 
@@ -36,6 +38,8 @@ Vilniaus Aukštutinės pilies kalnas užslinko ant Manvydo namo ir pridarė daug
 - t-002
   global_id: t-86048
   teiginys: 'Dinaburgo komtūras Livonijos magistrui pranešė, kad Vilniaus Pilies kalną ištiko griūtis.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus ir paremtas citata apie Dinaburgo komtūro praneštą griūtį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Dinaburgas; mentioned_place: Livonija; mentioned_place: Vengrija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -43,6 +47,11 @@ Vilniaus Aukštutinės pilies kalnas užslinko ant Manvydo namo ir pridarė daug
 - t-003
   global_id: t-86050
   teiginys: '1396 m. Vilniaus Pilies kalną ištiko smarki griūtis, kurios nuošliaužos užslinko ant vaivados Manvydo rūmų.'
+  sudarymo_pagrindimas: 'Citata palaiko konkrečią griūties pasekmę.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Manvydas|Manvydas]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1396 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko konkrečią griūties pasekmę.'
   pagrindžia:
     - c-002
 
@@ -50,6 +59,8 @@ Vilniaus Aukštutinės pilies kalnas užslinko ant Manvydo namo ir pridarė daug
 - t-004
   global_id: t-86051
   teiginys: 'Vilniaus Pilies kalno griūtis palietė kalną, bet pilies mūrai liko sveiki.'
+  sudarymo_pagrindimas: 'Kontekstinis fragmentas perrašytas į pilną sakinį su aiškiu objektu.'
+  susije_objektai: 'mentioned_place: Vengrija; mentioned_place: Vilnius'
   pagrindžia:
     - c-004
 

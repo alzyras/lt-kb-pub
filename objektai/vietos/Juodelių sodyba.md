@@ -20,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-Per kautynes Juozas Kemeklis-Rokas išsiveržė iš bunkerio, prasiveržė pro apsupimą ir atbėgo į Pamaleišio kaimo Juodelių sodybą.
+Kautynių metu iš bunkerio pavyko išsiveržti Juozui Kemekliui-Rokui, kuris prasiveržė per apsupimo žiedą ir atbėgo į Pamaleišio kaimo Juodelių sodybą.
 
 ## Teiginiai
 
@@ -28,6 +28,11 @@ Per kautynes Juozas Kemeklis-Rokas išsiveržė iš bunkerio, prasiveržė pro a
 - t-001
   global_id: t-41748
   teiginys: 'Per kautynes Juozas Kemeklis-Rokas išsiveržė iš bunkerio, prasiveržė pro apsupimą ir atbėgo į Pamaleišio kaimo Juodelių sodybą.'
+  sudarymo_pagrindimas: 'Reikia pašalinti kontekstinį įvadą ir aiškiau suformuluoti veiksmų seką.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_object: [[objektai/daiktai/Partizanų bunkeriai|Partizanų bunkeriai]]; mentioned_place: Kaimas'
+  temporaliniai_duomenys: 'įvykio data: 1949 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia pašalinti kontekstinį įvadą ir aiškiau suformuluoti veiksmų seką.'
   pagrindžia:
     - c-001
 

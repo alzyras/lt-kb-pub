@@ -20,6 +20,8 @@ tags:
 - t-001
   global_id: t-41587
   teiginys: '7-asis pulkas turėjo pulti Širvintas ir užimti liniją: Alionys-Puoriai-Ramaškonys-Šešuolėlių dvaras.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus sakinys apie Alionių vietą planuotoje linijoje.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rytas|Rytas]]'
   pagrindžia:
     - c-001
 

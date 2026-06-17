@@ -30,6 +30,11 @@ Nenurodyta
 - t-001
   global_id: t-185722
   teiginys: 'Palikę Slucką, Krymo skitai patraukė į Naugarduką, kur tuo metu didikai tarėsi dėl santykių su karaliumi.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata palaiko faktą, bet reikia aiškiau įvardyti veikėjus pagal pavadinimą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_object: [[objektai/zodynas/barbarai|barbarai]]; mentioned_object: [[objektai/zodynas/skitai|skitai]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Krymas; mentioned_place: Naugardukas'
   pagrindžia:
     - c-001
 
@@ -37,6 +42,11 @@ Nenurodyta
 - t-002
   global_id: t-185723
   teiginys: 'Krymo skitai įžengė į tuščią Naugarduką, apgulė pilį, bet jos neužėmė ir pasitraukė į Skitiją apiplėšę apylinkę.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata leidžia aiškiau įvardyti apgulties nesėkmę ir pasitraukimą.'
+  susije_objektai: 'object: Krymas; object: Nemunas; object: Skitija; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_object: [[objektai/zodynas/skitai|skitai]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Krymas; mentioned_place: Nemunas; mentioned_place: Skitija'
   pagrindžia:
     - c-002
 
@@ -81,13 +91,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Jonas]]
-- [[objektai/daiktai/Kalavijas]]
-- [[objektai/daiktai/Vytis]]
-- [[objektai/zodynas/barbarai]]
-- [[objektai/zodynas/seniūnas]]
-- [[objektai/zodynas/skitai]]
-- [[objektai/zodynas/vaivada]]

@@ -7,6 +7,8 @@ datos:
   - '1595 m.'
   - '1599 m.'
   - '1620 m.'
+  - '1646 m.'
+  - '1737 m.'
   - '1741 m.'
 date_start: '1595'
 date_end: '1741'
@@ -33,6 +35,11 @@ Daukšai rūpi ne kasdienės lietuvių kalbos vartojimas, o būtinybė šia kalb
 - t-001
   global_id: t-77801
   teiginys: 'Mikalojui Daukšai rūpėjo ne kasdienis lietuvių kalbos vartojimas, o oficialiojo kultūros modelio kūrimas lietuvių kalba.'
+  sudarymo_pagrindimas: 'Reikia aiškiai įvardyti asmenį ir sugramatinti formuluotę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1595 m.; įvykio data: 1599 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia aiškiai įvardyti asmenį ir sugramatinti formuluotę.'
   pagrindžia:
     - c-001
 
@@ -40,6 +47,9 @@ Daukšai rūpi ne kasdienės lietuvių kalbos vartojimas, o būtinybė šia kalb
 - t-002
   global_id: t-77802
   teiginys: 'Daukšos lietuviakalbė programa nebuvo įgyvendinta.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_person: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]; mentioned_place: Europa; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1646 m.; įvykio data: 1737 m.; įvykio data: 1741 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 
@@ -100,12 +110,3 @@ Daukšai rūpi ne kasdienės lietuvių kalbos vartojimas, o būtinybė šia kalb
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Konstantinas (Karijotaitis)]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Rusėnai]]
-- [[objektai/zodynas/oficialusis kultūros modelis]]
-- [[objektai/posakiai/„Kurgi, sakau, pasaulyje yra tauta...“]]

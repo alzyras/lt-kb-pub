@@ -20,6 +20,7 @@ Dvasios bažnyčią, kitą - iš šono, kur išeina į Šv.
 - t-001
   global_id: t-86279
   teiginys: 'Dvasios bažnyčią, kitą - iš šono, kur išeina į Šv.'
+  susije_objektai: 'mentioned_place: Viena'
   pagrindžia:
     - c-001
 

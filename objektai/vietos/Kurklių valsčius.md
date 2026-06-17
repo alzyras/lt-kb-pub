@@ -26,6 +26,11 @@ Kurklių vlsč.
 - t-001
   global_id: t-38498
   teiginys: '1945 m. birželio 27 d. Kurklių valsčiaus Trakinių kaimo apylinkių miške NKVD 137-asis šaulių pulkas puolė Alfonso Bagdono-Aro būrį.'
+  sudarymo_pagrindimas: 'Pradinis tekstas yra tik santrumpa be predikato.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Alfonsas (Kastilijos karalius)|Alfonsas (Kastilijos karalius)]]; mentioned_place: Kaimas; mentioned_place: Trakiniai; mentioned_place: Ukmergė'
+  temporaliniai_duomenys: 'įvykio data: 1945 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis tekstas yra tik santrumpa be predikato.'
   pagrindžia:
     - c-001
 

@@ -26,9 +26,19 @@ Dėl tarno Papakodos suktybių nebuvo įvykdyta karalienės Bonos paskutinė val
 - t-001
   global_id: t-186245
   teiginys: 'Dėl tarno Papakodos suktybių nebuvo įvykdyta karalienės Bonos paskutinė valia, o jos turtas buvo iššvaistytas.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata palaiko faktą apie Papakodos vaidmenį, bet pradinį sakinį reikia išvalyti ir sutrumpinti.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Italija; mentioned_place: Lenkija; mentioned_place: Maskva; mentioned_place: Švedija'
+  temporaliniai_duomenys: 'įvykio data: 1557 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko faktą apie Papakodos vaidmenį, bet pradinį sakinį reikia išvalyti ir sutrumpinti.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/ivykiai/Karalienės Bonos išvykimas į Italiją.md#claim-t-185801|Karalienės Bonos išvykimas į Italiją]]: Po ilgų ginčų karalienei Bonai leista išvykti į Italiją su visomis brangenybėmis ir valdovės turtais.
+- susijęs iš Karalienės Bonos testamentas: Karalienė Bona prieš mirtį testamente paskyrė sūnų Augustą viso savo turto paveldėtoju, bet jos valia nebuvo įvykdyta.
+- susijęs iš Italija: Po ilgų ginčų karalienei Bonai leista išvykti į Italiją su visomis brangenybėmis ir valdovės turtais.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -60,7 +70,3 @@ Dėl tarno Papakodos suktybių nebuvo įvykdyta karalienės Bonos paskutinė val
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/Karalienės Bonos išvykimas į Italiją]]

@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Atšilimo laikotarpiu Rumšiškėse netoli Kauno buvo įsteigtas Liaudies buities muziejus. Atšilimo laikotarpiu Rumšiškėse netoli Kauno buvo įsteigtas Liaudies buities muziejus.
+Tam įsteigtas Liaudies buities muziejus Rumšiškėse (netoli Kauno), įkurtos meno ir kraštotyros draugijos, legalizuoti etnografiniai tyrimai, leista kurti folkloro ansamblius.
 
 ## Teiginiai
 
@@ -21,6 +21,8 @@ Atšilimo laikotarpiu Rumšiškėse netoli Kauno buvo įsteigtas Liaudies buitie
 - t-001
   global_id: t-21760
   teiginys: 'Atšilimo laikotarpiu Rumšiškėse netoli Kauno buvo įsteigtas Liaudies buities muziejus.'
+  sudarymo_pagrindimas: 'Citata palaiko tikslesnį laiko kontekstą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/atšilimas|atšilimas]]; mentioned_place: Kaunas; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

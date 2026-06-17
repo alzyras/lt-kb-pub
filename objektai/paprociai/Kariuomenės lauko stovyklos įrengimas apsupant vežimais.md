@@ -5,6 +5,7 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1564 m.'
+  - '1575 m.'
   - '2026 m.'
 date_start: '1564'
 date_end: '2026'
@@ -46,6 +47,11 @@ Nenurodyta
 - t-001
   global_id: t-78696
   teiginys: 'Kariuomenė stovykloje apsisupdavo amuniciją, proviantą ir kitus daiktus gabenusiais vežimais, palikdama tik kelis praėjimus.'
+  sudarymo_pagrindimas: 'Pradinis tekstas yra nutrūkusi citatos ištrauka.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/daiktai/Vežimai|Vežimai]]; mentioned_person: [[objektai/autoriai/Girolamo Lippomano|Girolamo Lippomano]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Venecija; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1575 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis tekstas yra nutrūkusi citatos ištrauka.'
   pagrindžia:
     - c-002
 
@@ -53,6 +59,11 @@ Nenurodyta
 - t-002
   global_id: t-78697
   teiginys: 'Susibūrusi kariuomenė lauko stovyklą apsupdavo amunicijos ir provianto vežimais, palikdama tik kelis saugomus praėjimus.'
+  sudarymo_pagrindimas: 'Pašalintas nutrūkęs fragmentas ir OCR triukšmas.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)|Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/daiktai/Vežimai|Vežimai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1564 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas nutrūkęs fragmentas ir OCR triukšmas.'
   pagrindžia:
     - c-001
 
@@ -60,6 +71,9 @@ Nenurodyta
 - t-003
   global_id: t-78698
   teiginys: ') Lenkijos ir Lietuvos kariuomenių stovyklos aprašymo.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/daiktai/Vežimai|Vežimai]]; mentioned_person: [[objektai/autoriai/Girolamo Lippomano|Girolamo Lippomano]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Venecija; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1575 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 
@@ -67,6 +81,11 @@ Nenurodyta
 - t-004
   global_id: t-78699
   teiginys: 'Vežimais apsuptoje kariuomenės lauko stovykloje prie kelių praėjimų statydavo artilerijos pabūklus, o už vežimų iškasdavo ilgą griovį.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai susietas su stovyklos įrengimo praktika.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)|Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/daiktai/Vežimai|Vežimai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1564 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai susietas su stovyklos įrengimo praktika.'
   pagrindžia:
     - c-001
 
@@ -106,11 +125,3 @@ Nenurodyta
   pagrindžia:
     - t-003
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Artilerija]]
-- [[objektai/autoriai/Girolamo Lippomano]]
-- [[objektai/ivykiai/Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)]]
-- [[objektai/daiktai/Vežimai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

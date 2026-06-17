@@ -45,6 +45,12 @@ Nenurodyta
 - t-001
   global_id: t-62545
   teiginys: '1317 m. popiežius Jonas kanonizavo Liudviką, Sicilijos karaliaus Roberto brolį iš mažesniųjų brolių ordino.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus ir paremtas citatos informacija apie Liudviko kanonizavimą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Robertas (Sicilijos karalius)|Robertas (Sicilijos karalius)]]'
+  temporaliniai_duomenys: 'įvykio data: 1317 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus ir paremtas citatos informacija apie Liudviko kanonizavimą.'
   pagrindžia:
     - c-001
 
@@ -64,11 +70,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Robertas (Sicilijos karalius)]]
-- [[objektai/asmenys/Jonas]]
-- [[objektai/paprociai/Kanonizuotų šventųjų liturginio minėjimo dienų nustatymas]]
-- [[objektai/asmenys/Liudvikas (Sicilijos karaliaus Roberto brolis)]]
-- [[objektai/grupes/Pranciškonų ordinas]]

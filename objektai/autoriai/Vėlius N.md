@@ -22,7 +22,7 @@ periodo_grupes:
 
 ## Santrauka
 
-N. Vėlius cituojamas kaip šaltinis apie XVII a. pirmos pusės Rytprūsių burtininkus ir pas juos ėjusius žmones. N. Vėliaus darbas nurodytas tarp literatūros apie Romovę arba Romuvą. Vėlius N. legendinius kunigaikščius siejo su žyniauti gebėjusių asmenų gimine.
+Dusburgietis teigia, kad 1-oje pusėje Įsrutiės ir kitose lietuviškose Rytprūsių apylinkėse buvę daug burtininkų (tiek vyrų, tiek moterų), pas kuriuos žmonės miniomis plūsdavę (Vėlius N., Mitinės..., p. 233—252). Dusburgietis teigia, kad 34, p. 112; Pašuta V., Lietuvos..., p. 108; Jurginis J., Legendos..., p 90—97; [Powierski J.] Nadrowia, p. 342; to paties, Stosunki..., p. 89; Rybelis A., Senoji..., p. 50; Dundulienė P., Medžiai..., p. 62—63, 88; Vėlius N., Senovės baltų..., p. 221—223, 234. Dusburgietis teigia, kad legendiniai kunigaikščiai sietini su žyniauti gebėjusių asmenų gimine (Vėlius N., Senovės baltų..., p. 226—229), ši tradicija, atrodo, išliko ir vėliau, tačiau kunigaikščių-vadų ir žynių funkcijos vis labiau diferencijavosi.
 
 ## Teiginiai
 
@@ -30,6 +30,8 @@ N. Vėlius cituojamas kaip šaltinis apie XVII a. pirmos pusės Rytprūsių burt
 - t-001
   global_id: t-60563
   teiginys: 'N. Vėlius cituojamas kaip šaltinis apie XVII a. pirmos pusės Rytprūsių burtininkus ir pas juos ėjusius žmones.'
+  sudarymo_pagrindimas: 'Citata leidžia suformuluoti faktą apie Vėliaus darbo panaudojimą šiai temai.'
+  susije_objektai: 'mentioned_place: Rytprūsiai'
   pagrindžia:
     - c-001
 
@@ -37,6 +39,8 @@ N. Vėlius cituojamas kaip šaltinis apie XVII a. pirmos pusės Rytprūsių burt
 - t-002
   global_id: t-60564
   teiginys: 'N. Vėliaus darbas nurodytas tarp literatūros apie Romovę arba Romuvą.'
+  sudarymo_pagrindimas: 'Citata pagrindžia tik Vėliaus darbo įtraukimą į literatūrą apie Romovę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_place: Romuva'
   pagrindžia:
     - c-003
 
@@ -44,6 +48,8 @@ N. Vėlius cituojamas kaip šaltinis apie XVII a. pirmos pusės Rytprūsių burt
 - t-003
   global_id: t-60565
   teiginys: 'Vėlius N. legendinius kunigaikščius siejo su žyniauti gebėjusių asmenų gimine.'
+  sudarymo_pagrindimas: 'Citata leidžia priskirti Vėliui N. konkrečią interpretaciją, o pradinis teiginys buvo per ilgas ir su bibliografine įterptimi.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]'
   pagrindžia:
     - c-002
 
@@ -92,11 +98,3 @@ N. Vėlius cituojamas kaip šaltinis apie XVII a. pirmos pusės Rytprūsių burt
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/bibliografija]]
-
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/kunigaikščiai]]

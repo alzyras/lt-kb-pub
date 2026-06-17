@@ -3,11 +3,17 @@ tipas: ivykis
 pavadinimas: 'Pirmoji Lietuvos Bažnyčiai privilegija (privilegija)'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1387 m.'
+date_start: '1387'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
   - privilegija
+amziai:
+  - 'XIV'
 ---
 # Pirmoji Lietuvos Bažnyčiai privilegija (privilegija)
 
@@ -28,18 +34,22 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 <a id="claim-t-01772"></a>
 - t-001
   global_id: t-01772
   teiginys: 'Pirmoji Lietuvos Bažnyčiai privilegija buvo 1387 m. duotas raštas, apibrėžęs Bažnyčios ir dvasininkų teises.'
+  sudarymo_pagrindimas: 'Teiginys buvo nutrūkęs, citata aiškiai pagrindžia datą ir turinį.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1387 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys buvo nutrūkęs, citata aiškiai pagrindžia datą ir turinį.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Pirmoji Lietuvos Bažnyčiai privilegija buvo 1387 m. duotas raštas, apibrėžęs Bažnyčios ir dvasininkų teises.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Todėl tuojau
@@ -58,14 +68,8 @@ Nenurodyta
     vilegija, t. y. raštas, arba
     įstatymas, kuriuo nusakomos Bažnyčios ir dvasininkų tei-
     ses (1387 m.).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]

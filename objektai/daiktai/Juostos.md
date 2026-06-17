@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Apyrankių ir kitų papuošalų ornamentai buvo giminingi lietuvių kaimo audinių ir juostų raštams. Apyrankių ir kitų papuošalų ornamentai buvo giminingi lietuvių kaimo audinių ir juostų raštams.
+Ano laiko papuošalų ornamentai giminingi lietuvių kaimo audinių ir juostų raštams. Iš to meto yra išlikusių juostų gabalų.
 
 ## Pavadinimai šaltiniuose
 
@@ -49,9 +49,11 @@ Nenurodyta
 - t-001
   global_id: t-47812
   teiginys: 'Apyrankių ir kitų papuošalų ornamentai buvo giminingi lietuvių kaimo audinių ir juostų raštams.'
+  sudarymo_pagrindimas: 'Pradžia „Ano laiko“ yra kontekstinė, todėl teiginį reikia suformuluoti savarankiškai.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Papuošalai|Papuošalai]]; mentioned_place: Kaimas'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/daiktai/Troba.md#claim-t-08341|Troba]]: Troboje vyrai ir moterys vakarodami dirbo įvairius darbus, o be stiklo langų dar būdavo langeliai su lentelėmis.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -67,12 +69,3 @@ Nenurodyta
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/papuošalas]]
-
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/daiktai/Papuošalai]]
-- [[objektai/daiktai/Troba]]

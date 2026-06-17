@@ -23,7 +23,7 @@ periodo_grupes:
 
 ## Santrauka
 
-H. Górnowiczius aptarė Gdansko Pomeranijos miestų vardus, susijusius su Elbingo upėvardžiu. H. Górnowiczius nagrinėjo Marienverderio ir Kvidzino vietovardžių medžiagą. H. Górnowicz cituojamas aiškinant, kad Zirgūna, vokiškai Sorge ir dabartinė Dzierzgoń, įteka į Drūzo ežerą.
+Dusburgietis teigia, kad powierski I., Stosunki..., p. 44—45; Górnowicz H., Toponimia..., p. 85—86, 11, 13). Dusburgietis teigia, kad dzierzgoń — GAO, p. 158; Būga K., 3, p. 539; Górnowicz H., Średniowieczne..., p. 103; to paties, Toponimia..., p. 275) įteka į Drūzo (dab. Dusburgietis teigia, kad górnowicz R., Średniowieczne..., p. 99—100; Nazwy miast Pomorza Gdańskiego, p. 199—202 (Górnowicz H.); Vanagas A., Lietuvių hidronimų..., p. 100).
 
 ## Teiginiai
 
@@ -31,6 +31,8 @@ H. Górnowiczius aptarė Gdansko Pomeranijos miestų vardus, susijusius su Elbin
 - t-001
   global_id: t-60554
   teiginys: 'H. Górnowiczius aptarė Gdansko Pomeranijos miestų vardus, susijusius su Elbingo upėvardžiu.'
+  sudarymo_pagrindimas: 'Citata nurodo Górnowicziaus dalį leidinyje apie miestų vardus Elbingo upėvardžio kontekste.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Elbingas; mentioned_place: Pomeranija'
   pagrindžia:
     - c-002
 
@@ -38,6 +40,11 @@ H. Górnowiczius aptarė Gdansko Pomeranijos miestų vardus, susijusius su Elbin
 - t-002
   global_id: t-60555
   teiginys: 'H. Górnowiczius nagrinėjo Marienverderio ir Kvidzino vietovardžių medžiagą.'
+  sudarymo_pagrindimas: 'Citata sieja Górnowicziaus darbą su Kvedino, Marienverderio ir Kvidzino toponimija.'
+  susije_objektai: 'mentioned_place: Kaimas; mentioned_place: Marienverderis; mentioned_place: Nogatas; mentioned_place: Prūsai; mentioned_place: Vysla'
+  temporaliniai_duomenys: 'įvykio data: 1234 m.; įvykio data: apie 1234 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
+  temporalinis_llm_pakomentavimas: 'Citata sieja Górnowicziaus darbą su Kvedino, Marienverderio ir Kvidzino toponimija.'
   pagrindžia:
     - c-003
 
@@ -45,6 +52,8 @@ H. Górnowiczius aptarė Gdansko Pomeranijos miestų vardus, susijusius su Elbin
 - t-003
   global_id: t-60556
   teiginys: 'H. Górnowicz cituojamas aiškinant, kad Zirgūna, vokiškai Sorge ir dabartinė Dzierzgoń, įteka į Drūzo ežerą.'
+  sudarymo_pagrindimas: 'Pradinis tekstas yra OCR fragmentas, bet citata leidžia sudaryti rišlų teiginį.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_place: Zirgūna'
   pagrindžia:
     - c-001
 
@@ -94,10 +103,3 @@ H. Górnowiczius aptarė Gdansko Pomeranijos miestų vardus, susijusius su Elbin
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/ežeras]]
-
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]

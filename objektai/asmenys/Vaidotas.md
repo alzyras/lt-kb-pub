@@ -25,7 +25,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Vaidotas, Kęstučio anūkas, po studijų Pragos universitete nuo 1401 m. tapo antruoju Krokuvos universiteto rektoriumi.
+Iš ordino žemių patekęs į Vakarus, po studijų Pragos universitete, nuo 1401 šis Kęstučio anūkas tapo antruoju Krokuvos universiteto rektoriumi (Fijałek). Su paskutinio pagonio kunigaikščio Kęstučio iškilmingu sude­ ginimu Lietuvos istorijoje turėjo prasidėti.
 
 ## Teiginiai
 
@@ -33,9 +33,18 @@ Vaidotas, Kęstučio anūkas, po studijų Pragos universitete nuo 1401 m. tapo a
 - t-001
   global_id: t-64202
   teiginys: 'Vaidotas, Kęstučio anūkas, po studijų Pragos universitete nuo 1401 m. tapo antruoju Krokuvos universiteto rektoriumi.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nusako Vaidoto kilmę, studijas ir pareigas, paremtas citata.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Butautas|Butautas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Krokuva; mentioned_place: Lietuva; mentioned_place: Praga'
+  temporaliniai_duomenys: 'įvykio data: 1381 m.; įvykio data: po 1401 m.; įvykio data: 1401 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako Vaidoto kilmę, studijas ir pareigas, paremtas citata.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Vaidotas (Butauto sūnus).md#claim-t-182705|Vaidotas (Butauto sūnus)]]: Vaidotas 1381 m., būdamas apie šešiolikos metų, pabėgo iš senelio Kęstučio globos į Prūsus ir vyko pas ciesorių priimti krikšto.
+- susijęs iš [[objektai/asmenys/Vaidotas (Butauto sūnus).md#claim-t-182707|Vaidotas (Butauto sūnus)]]: Vaidotas buvo Butauto sūnus.
+- susijęs iš [[objektai/autoriai/Michał Baliński Mykolas Balinskis.md#claim-t-182788|Michał Baliński Mykolas Balinskis]]: Rodyklė apima įvadą ir M. Balinskio veikalo vertimą.
+- susijęs iš [[objektai/ivykiai/Vaidoto pabėgimas į Prūsus.md#claim-t-35892|Vaidoto pabėgimas į Prūsus]]: 1381 m. šešiolikmetis Butauto sūnus Vaidotas pabėgo iš senelio Kęstučio globos į Prūsus ir vyko pas ciesorių priimti krikšto.
+- susijęs iš M. Strijkovskio kronika: M. Strijkovskio kronikoje Andrius Algirdaitis supainiotas su Vaidotu Kęstutaičiu, todėl atsirado išgalvotas Andrius Vaidotas.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -52,11 +61,3 @@ Vaidotas, Kęstučio anūkas, po studijų Pragos universitete nuo 1401 m. tapo a
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Butautas]]
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- [[objektai/autoriai/Michał Baliński Mykolas Balinskis]]
-- [[objektai/asmenys/Vaidotas (Butauto sūnus)]]
-- [[objektai/ivykiai/Vaidoto pabėgimas į Prūsus]]

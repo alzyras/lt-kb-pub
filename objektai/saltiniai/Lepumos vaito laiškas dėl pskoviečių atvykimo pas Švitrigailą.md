@@ -21,6 +21,8 @@ Slaptajame archyve yra Lepumos vaito laiškas, datuotas Šv.
 - t-001
   global_id: t-88443
   teiginys: 'Lepumos vaito laiške, datuotame Šv. Lauryno dieną, pranešta, kad pskoviečiai atvyko pas didįjį kunigaikštį prašyti valdytojo.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs; citata leidžia atkurti konkretų laiško turinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pskoviečiai|Pskoviečiai]]; mentioned_object: [[objektai/zodynas/vaitas|vaitas]]'
   pagrindžia:
     - c-001
 

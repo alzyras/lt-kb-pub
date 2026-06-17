@@ -21,6 +21,8 @@ Dusburgietis teigia, kad anksčiau pažymėta, kad Stalupėnų, Darkiemio ir kit
 - t-001
   global_id: t-60736
   teiginys: 'A. Kurschatas Stalupėnų, Darkiemio ir kitų vėlesnių apskričių lietuvius laikė nusiaubto krašto senųjų gyventojų palikuonimis.'
+  sudarymo_pagrindimas: 'Pašalintas boilerplate ir klaidingas Dusburgiečio priskyrimas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-001
 
@@ -38,7 +40,3 @@ Dusburgietis teigia, kad anksčiau pažymėta, kad Stalupėnų, Darkiemio ir kit
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]

@@ -4,9 +4,10 @@ pavadinimas: 'Naručio apylinkės'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
+  - '1949 m.'
   - '1951 m.'
-date_start: '1951'
-date_end: ''
+date_start: '1949'
+date_end: '1951'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -18,7 +19,7 @@ amziai:
 
 ## Santrauka
 
-1951 m. kovo 19 d. MGB vidaus kariuomenės 137-ojo šaulių pulko kareiviai Naručio apylinkėse puolė dvi partizanų žemines.
+GariavaO p 2 KAISADORYS Riešė pyp AL Naručio apylinkėse puolė dvi partizanų žemines.
 
 ## Teiginiai
 
@@ -26,6 +27,11 @@ amziai:
 - t-001
   global_id: t-41956
   teiginys: '1951 m. kovo 19 d. MGB vidaus kariuomenės 137-ojo šaulių pulko kareiviai Naručio apylinkėse puolė dvi partizanų žemines.'
+  sudarymo_pagrindimas: 'Verta papildyti citatoje nurodytu dalinio numeriu ir pašalinti platesnį OCR triukšmą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Prisikėlimo apygarda|Prisikėlimo apygarda]]; mentioned_group: [[objektai/grupes/Vytauto apygarda|Vytauto apygarda]]; mentioned_object: [[objektai/zodynas/Kariauna|Kariauna]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Giedraičiai; mentioned_place: Kaunas; mentioned_place: Labanoras; mentioned_place: Lietuva; mentioned_place: Maišiagala; mentioned_place: Pagaigalė; mentioned_place: Smilgiai; mentioned_place: Švenčionėliai; mentioned_place: Žiežmariai'
+  temporaliniai_duomenys: 'įvykio data: 1949 m.; įvykio data: 1951 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Verta papildyti citatoje nurodytu dalinio numeriu ir pašalinti platesnį OCR triukšmą.'
   pagrindžia:
     - c-001
 

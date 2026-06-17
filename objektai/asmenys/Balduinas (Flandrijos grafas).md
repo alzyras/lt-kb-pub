@@ -29,9 +29,12 @@ Dusburgietis teigia, kad ir tapo ten Balduinas, Flandrijos grafas, imperatoriumi
 - t-001
   global_id: t-60244
   teiginys: 'Po Konstantinopolio užėmimo Balduinas, Flandrijos grafas, tapo imperatoriumi, o lotynai miestą valdė 57 metus.'
+  sudarymo_pagrindimas: 'Citata palaiko glaustą faktą, o pradinė formuluotė nutrūkusi.'
+  susije_objektai: 'territory: Konstantinopolis; territory: Venecija; mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_place: Konstantinopolis; mentioned_place: Venecija'
+  semantiniai_rysiai: '[[objektai/asmenys/Balduinas (Flandrijos grafas)|Balduinas (Flandrijos grafas)]] valdė teritoriją Konstantinopolis; [[objektai/asmenys/Balduinas (Flandrijos grafas)|Balduinas (Flandrijos grafas)]] valdė teritoriją Venecija'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/ivykiai/Konstantinopolio miesto užėmimas (1200 m.).md#claim-t-62333|Konstantinopolio miesto užėmimas (1200 m.)]]: 1200 m. Konstantinopolį užėmė prancūzai ir Venecijos kariai, o Flandrijos grafas Balduinas tapo imperatoriumi.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -52,7 +55,5 @@ Dusburgietis teigia, kad ir tapo ten Balduinas, Flandrijos grafas, imperatoriumi
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lotynai]]
-- [[objektai/grupes/Prancūzai]]
-- [[objektai/ivykiai/Konstantinopolio miesto užėmimas (1200 m.)]]
+- Balduinas (Flandrijos grafas) valde_teritorija [[objektai/vietos/Konstantinopolis]]
+- Balduinas (Flandrijos grafas) valde_teritorija [[objektai/vietos/Venecija]]

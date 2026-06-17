@@ -6,8 +6,9 @@ saltiniai:
 datos:
   - '1926 m.'
   - '1930 m.'
+  - '1940 m.'
 date_start: '1926'
-date_end: '1930'
+date_end: '1940'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -19,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-Penkausko darbas „Vytautas Didysis ir jo Čekijos politika Venceliui mirus“ buvo atspaustas iš 1930 m. „Židinio“.
+Tai buvo, šaltiniais paremta studijėlė, « Bazelio susirinkimas ir Lietuvos sosto reikalas Vytautui mirus » (atsp. iš TK 1926) ir platesnis darbas «Vytautas Didysis ir jo Čekijos politika Venceliui mirus » (atsp. iš Židinio 1930).
 
 ## Teiginiai
 
@@ -27,6 +28,11 @@ Penkausko darbas „Vytautas Didysis ir jo Čekijos politika Venceliui mirus“ 
 - t-001
   global_id: t-31975
   teiginys: 'Penkausko darbas „Vytautas Didysis ir jo Čekijos politika Venceliui mirus“ buvo atspaustas iš 1930 m. „Židinio“.'
+  sudarymo_pagrindimas: 'Reikia aiškiai įvardyti autorių ir pašalinti perteklinį neaiškumą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija|Vilniaus vyskupijos klierikų kolegija]]; mentioned_person: [[objektai/autoriai/A. Alekna|A. Alekna]]; mentioned_place: Lietuva; mentioned_place: Čekija'
+  temporaliniai_duomenys: 'įvykio data: iki 1930 m.; įvykio data: po 1926 m.; įvykio data: 1926 m.; įvykio data: 1930 m.; įvykio data: 1940 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia aiškiai įvardyti autorių ir pašalinti perteklinį neaiškumą.'
   pagrindžia:
     - c-001
 

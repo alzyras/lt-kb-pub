@@ -49,6 +49,8 @@ Nenurodyta
 - t-001
   global_id: t-87177
   teiginys: 'Normanai ilgainiui ėmėsi prekybos ir atvėrė jos kelius per Lietuvą, suomių ir slavų kraštus nuo Skandinavijos iki Graikijos.'
+  sudarymo_pagrindimas: 'Sakinys pataisytas iš fragmento į glaustą teiginį, neperžengiant citatos turinio.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Normanai|Normanai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_group: [[objektai/grupes/Suomiai|Suomiai]]; mentioned_place: Skandinavija'
   pagrindžia:
     - c-003
 
@@ -56,6 +58,8 @@ Nenurodyta
 - t-002
   global_id: t-87178
   teiginys: 'IX a. Rusioje variagais vadinti normanai iš Skandinavijos plėšikavo ir prekiavo Baltijos gintarinėse pakrantėse.'
+  sudarymo_pagrindimas: 'Teiginys sutrumpintas iki citata pagrįsto fakto be perteklinių vertinamųjų fragmentų.'
+  susije_objektai: 'counterparty: [[objektai/grupes/Normanai|Normanai]]; counterparty: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_group: [[objektai/grupes/Normanai|Normanai]]; mentioned_person: [[objektai/asmenys/Tame (Baigos brolis)|Tame (Baigos brolis)]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Baltija; mentioned_place: Lietuva; mentioned_place: Skandinavija'
   pagrindžia:
     - c-002
 
@@ -63,6 +67,8 @@ Nenurodyta
 - t-003
   global_id: t-87179
   teiginys: 'Atšiaurus klimatas, nenaši žemė, tvarkos stoka ir tarpusavio nesantaika skatino skandinavus leistis į jūros keliones per Baltiją.'
+  sudarymo_pagrindimas: 'Teiginys glaustai ir gramatiškai perteikia citatoje nurodytas priežastis.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Normanai|Normanai]]; mentioned_group: [[objektai/grupes/Skandinavai|Skandinavai]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_place: Baltija; mentioned_place: Europa; mentioned_place: Skandinavija'
   pagrindžia:
     - c-001
 
@@ -152,17 +158,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/ežeras]]
-
-### Susiję objektai
-- [[objektai/daiktai/Laivai]]
-- [[objektai/grupes/Normanai]]
-- [[objektai/grupes/Skandinavai]]
-- [[objektai/grupes/Slavai]]
-- [[objektai/grupes/Suomiai]]
-- [[objektai/asmenys/Tame (Baigos brolis)]]
-- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
-- [[objektai/zodynas/Variagai]]

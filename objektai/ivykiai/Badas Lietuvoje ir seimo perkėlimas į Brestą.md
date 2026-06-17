@@ -30,6 +30,11 @@ Nenurodyta
 - t-001
   global_id: t-185692
   teiginys: 'Skėriams sunaikinus javus, Lietuvoje kilo maisto stoka, todėl lietuvių seimas buvo sušauktas Breste, o ne Vilniuje.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo puslapio triukšmas, citata remia badą ir seimo perkėlimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -62,9 +67,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bajorai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/seimas]]

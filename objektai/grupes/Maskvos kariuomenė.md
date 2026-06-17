@@ -22,6 +22,8 @@ Maskvos pajėgos Vasilijaus 111 sutelktą Maskvos kariuomenę sudarė (Lietuvos 
 - t-001
   global_id: t-38877
   teiginys: 'Lietuvos ir Lenkijos šaltinių duomenimis, Vasilijaus III sutelktoje Maskvos kariuomenėje buvo 80 000 karių, daugiausia raitelių.'
+  sudarymo_pagrindimas: 'Reikia pašalinti antraštės triukšmą ir pataisyti OCR klaidą valdovo varde.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/murza|murza]]; mentioned_person: [[objektai/asmenys/Madykas|Madykas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Tverė'
   pagrindžia:
     - c-002
 
@@ -29,9 +31,16 @@ Maskvos pajėgos Vasilijaus 111 sutelktą Maskvos kariuomenę sudarė (Lietuvos 
 - t-002
   global_id: t-38878
   teiginys: 'Maskvos kariuomenėje dalyvavo Naugardo, Pskovo, Tverės ir kitų sričių raiteliai, valdovo dvaro pulkas bei Sivinduko vadovaujami totoriai.'
+  sudarymo_pagrindimas: 'Pradinis sakinys gramatiškai nepakankamai savarankiškas, todėl patikslintas objektas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/zodynas/murza|murza]]; mentioned_person: [[objektai/asmenys/Madykas|Madykas]]; mentioned_person: [[objektai/asmenys/Sivindukas|Sivindukas]]; mentioned_place: Dorogobužas; mentioned_place: Maskva; mentioned_place: Tverė'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Zigmantas Herberšteinas.md#claim-t-40547|Zigmantas Herberšteinas]]: Diplomatas Zigmantas Herberšteinas vėliau aprašė mūšį ir perteikė Čeliadnino žodžius apie Lietuvos kariuomenės persikėlimą.
+- susijęs iš Alūksnė: 1560 m. rusai užėmė Alūksnę ir Viljandį.
+- susijęs iš Narva: 1558 m. Maskvos kariuomenė užėmė dalį Livonijos konfederacijos teritorijos su Narvos ir Tartu miestais.
+- susijęs iš Saremos sala: 1558 m. Maskvos kariuomenei užėmus dalį Livonijos konfederacijos, Danija užvaldė Saremos salą.
+- susijęs iš Tartu: 1558 m. Maskvos kariuomenė užėmė Tartu ir Narvos miestus Livonijos konfederacijos teritorijoje.
+- susijęs iš Vilijandis: 1560 m. rusai užėmė Alūksnę, Vilijandį.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -95,14 +104,3 @@ Maskvos pajėgos Vasilijaus 111 sutelktą Maskvos kariuomenę sudarė (Lietuvos 
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Artilerija]]
-- [[objektai/asmenys/Madykas]]
-- [[objektai/grupes/Maskvėnai]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/zodynas/murza]]
-- [[objektai/asmenys/Zigmantas Herberšteinas]]
-- [[objektai/asmenys/Sivindukas]]
-- [[objektai/grupes/Totoriai]]

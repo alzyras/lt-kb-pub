@@ -23,9 +23,13 @@ Dusburgietis teigia, kad apie tai, kaip Ispanijoje buvo užmušta daugybė totor
 - t-001
   global_id: t-60235
   teiginys: 'Almimolinas, saracėnų valdovas, su gausia kariuomene atvyko į Ispaniją ir paskelbė karą nukryžiuotąjį gerbiantiems žmonėms.'
+  sudarymo_pagrindimas: 'Citata palaiko rišlų faktą apie Almimolino veiksmus.'
+  susije_objektai: 'location: Ispanija; mentioned_group: [[objektai/grupes/Saracėnai|Saracėnai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Ispanija'
+  semantiniai_rysiai: '[[objektai/asmenys/Almimolinas|Almimolinas]] keliavo į Ispanija'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/grupes/Saracėnai.md#claim-t-63210|Saracėnai]]: Saracėnų valdovas Almimolinas su gausia kariuomene atvyko į Ispaniją ir paskelbė karą krikščionims.
+- susijęs iš [[objektai/ivykiai/Almimolino žygis į Ispaniją ir pralaimėjimas.md#claim-t-62194|Almimolino žygis į Ispaniją ir pralaimėjimas]]: Almimolinas, saracėnų valdovas, su gausia kariuomene atvyko į Ispaniją, paskelbė karą krikščionims, buvo Ispanijos karalių nugalėtas ir pabėgo.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -45,7 +49,4 @@ Dusburgietis teigia, kad apie tai, kaip Ispanijoje buvo užmušta daugybė totor
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Saracėnai]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/ivykiai/Almimolino žygis į Ispaniją ir pralaimėjimas]]
+- Almimolinas keliavo_i [[objektai/vietos/Ispanija]]

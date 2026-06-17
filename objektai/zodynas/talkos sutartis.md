@@ -24,9 +24,18 @@ Talkos sutartis tarp LDK ir Maskvos Didžiosios Kunigaikštystės buvo surašyta
 - t-001
   global_id: t-187560
   teiginys: 'Talkos sutartis tarp LDK ir Maskvos Didžiosios Kunigaikštystės buvo surašyta 1494 m. vasario 5 d. Maskvoje.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie talkos sutartį, aiškiai nurodo šalis, datą ir vietą. Nieko papildomo nepridėta.'
+  susije_objektai: 'mentioned_place: Maskva'
+  temporaliniai_duomenys: 'sutarties data: 1494 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie talkos sutartį, aiškiai nurodo šalis, datą ir vietą. Nieko papildomo nepridėta.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/ivykiai/1494 m. talkos sutarties tarp Lietuvos Didžiosios Kunigaikštystės ir Maskvos sudarymas.md#claim-t-186778|1494 m. talkos sutarties tarp Lietuvos Didžiosios Kunigaikštystės ir Maskvos sudarymas (sutartis, XV a.)]]: Talkos sutartis tarp LDK ir Maskvos Didžiosios Kunigaikštystės buvo surašyta Maskvoje 1494 m. vasario 5 d.
+- susijęs iš [[objektai/ivykiai/1494 m. talkos sutarties tarp Lietuvos Didžiosios Kunigaikštystės ir Maskvos sudarymas.md#claim-t-186779|1494 m. talkos sutarties tarp Lietuvos Didžiosios Kunigaikštystės ir Maskvos sudarymas (sutartis, XV a.)]]: Ivanas III talkos sutarčiai prisiekė 1494 m. vasario 7 d., o Aleksandras jai prisiekė 1494 m. balandžio 22 d.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -41,7 +50,3 @@ Talkos sutartis tarp LDK ir Maskvos Didžiosios Kunigaikštystės buvo surašyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/1494 m. talkos sutarties tarp Lietuvos Didžiosios Kunigaikštystės ir Maskvos sudarymas|1494 m. talkos sutarties tarp Lietuvos Didžiosios Kunigaikštystės ir Maskvos sudarymas (sutartis, XV a.)]]

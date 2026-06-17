@@ -31,18 +31,19 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 <a id="claim-t-01911"></a>
 - t-001
   global_id: t-01911
   teiginys: 'Seimai paprastai būdavo audringi ir kalbūs, o po ilgų kalbų dažnai iširdavo; iki minimo momento iš Augusto II šauktų seimų buvo iširę septyni.'
+  sudarymo_pagrindimas: 'Pašalinta situacinė pabaiga ir OCR triukšmas, paliktas pagrindinis faktas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Seimai paprastai būdavo audringi ir kalbūs, o po ilgų kalbų dažnai iširdavo; iki minimo momento iš Augusto II šauktų seimų buvo iširę septyni.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Jei kuri pusė jų nepriimtų, prieš tą jis pagrasino čia pat
@@ -52,15 +53,8 @@ Nenurodyta
 
     seimas dažniausiai iširdavo (iš Augusto II iki tol šauktų seimų
     buvo iširę net 7), bet dabar niekas nedrįso kalbėti.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Augustas]]
-- [[objektai/zodynas/seimas]]

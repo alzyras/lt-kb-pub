@@ -15,18 +15,19 @@ tags:
 Zabitis Nezabitauskas išleido lietuviškųjų knygų bibliografiją, S.
 
 ## Teiginiai
+
 <a id="claim-t-05735"></a>
 - t-001
   global_id: t-05735
   teiginys: 'K. Zabitis Nezabitauskas išleido lietuviškųjų knygų bibliografiją.'
+  sudarymo_pagrindimas: 'Reikia pašalinti OCR ar fragmento likutį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_person: [[objektai/autoriai/D. Poška|D. Poška]]'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'K. Zabitis Nezabitauskas išleido lietuviškųjų knygų bibliografiją.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Įsitraukę į tą sąjūdį, žemaičiai pirmiausia susirūpino kalba.
@@ -37,14 +38,8 @@ Zabitis Nezabitauskas išleido lietuviškųjų knygų bibliografiją, S.
     bliografiją, S. Stanevi-
     čius — lietuviškų dainų rin-
     kinį.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Žemaičiai]]

@@ -29,6 +29,11 @@ Dusburgietis teigia, kad dar apie tą patį Tais pačiais 1314 metais, apie grab
 - t-001
   global_id: t-60451
   teiginys: '1314 m. mūšyje prie Sizditės pilies žuvo brolis Ulrichas iš Tetingeno.'
+  sudarymo_pagrindimas: 'Pirminis teiginys nukrypo nuo asmens, o citata patvirtina jo žūtį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Medininkai; mentioned_place: Pilėnai; mentioned_place: Sizditė'
+  temporaliniai_duomenys: 'įvykio data: 1314 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pirminis teiginys nukrypo nuo asmens, o citata patvirtina jo žūtį.'
   pagrindžia:
     - c-001
 
@@ -53,13 +58,3 @@ Dusburgietis teigia, kad dar apie tą patį Tais pačiais 1314 metais, apie grab
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Henrikas Rutėnas]]
-- [[objektai/asmenys/Henrikas iš Plockės]]
-- [[objektai/asmenys/Kviramas iš Valdavos]]
-- [[objektai/asmenys/Mindotė]]
-- [[objektai/asmenys/Rebodas iš Izenburgo]]
-- [[objektai/asmenys/Spagerotė]]

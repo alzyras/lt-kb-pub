@@ -30,6 +30,11 @@ Nenurodyta
 - t-001
   global_id: t-185651
   teiginys: 'Po trečio nesėkmingo bandymo užimti Smolenską Dimitrijus nuniokojo miesto apylinkės kaimus.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pašalintas emocinis ir OCR pažeistas tekstas, paliktas aiškus citatos palaikomas faktas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_person: [[objektai/asmenys/Dimitrijus|Dimitrijus]]; mentioned_person: [[objektai/asmenys/Sologubas|Sologubas]]; mentioned_person: [[objektai/asmenys/Stanislovas|Stanislovas]]; mentioned_place: Maskva; mentioned_place: Smolenskas'
   pagrindžia:
     - c-001
 
@@ -56,11 +61,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Dimitrijus]]
-- [[objektai/asmenys/Sologubas]]
-- [[objektai/asmenys/Stanislovas]]
-- [[objektai/zodynas/Miera|miera]]
-- [[objektai/zodynas/įgula]]

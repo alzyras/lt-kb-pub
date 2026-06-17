@@ -14,7 +14,7 @@ tags:
 
 ## Santrauka
 
-I. Zolotarenka vadovavo apie 20 000 kazokų, kurie buvo apsiautę Gomelį bei kitus miestus ir priartėjo prie Senojo Bychovo.
+Zolotarenkos (apie br 20000 karių) laikė apsiautę Gomelį "bei kitus miestus ir priartėjo prie Senojo Bychovo.
 
 ## Teiginiai
 
@@ -22,6 +22,8 @@ I. Zolotarenka vadovavo apie 20 000 kazokų, kurie buvo apsiautę Gomelį bei ki
 - t-001
   global_id: t-40142
   teiginys: 'I. Zolotarenka vadovavo apie 20 000 kazokų, kurie buvo apsiautę Gomelį bei kitus miestus ir priartėjo prie Senojo Bychovo.'
+  sudarymo_pagrindimas: 'Teiginys aiškiau susietas su asmens veiksmu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Baltija; mentioned_place: Gomelis; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Minskas; mentioned_place: Švedija'
   pagrindžia:
     - c-001
 
@@ -49,7 +51,3 @@ I. Zolotarenka vadovavo apie 20 000 kazokų, kurie buvo apsiautę Gomelį bei ki
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Rusai]]

@@ -26,6 +26,9 @@ Kaip jau matėme, 1416 metais Vytautas Varniuose pastatė katedrą ir aštuonias
 - t-001
   global_id: t-36374
   teiginys: '1416 m. Vytautas Luokėje pastatė vieną iš aštuonių parapijinių bažnyčių.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Konstancija; mentioned_place: Varniai; mentioned_place: Viena; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'pastatymo data: 1416 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

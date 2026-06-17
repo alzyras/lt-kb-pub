@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-1939 m. Ribentropo-Molotovo paktu Stalinas ir Hitleris susitarė pasidalyti Vidurio Europą.
+1939 m. Stalinas ir Hitleris susitarė pasidalinti Vidurio Europą (Ribentropo-Molotovo paktas).
 
 ## Teiginiai
 
@@ -29,6 +29,11 @@ amziai:
 - t-001
   global_id: t-39932
   teiginys: '1939 m. Ribentropo-Molotovo paktu Stalinas ir Hitleris susitarė pasidalyti Vidurio Europą.'
+  sudarymo_pagrindimas: 'Reikia pašalinti skliaustinį fragmentą ir suformuoti enciklopedinį sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sovietų Sąjunga|Sovietų Sąjunga]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/posakiai/karas po karo|karas po karo]]; mentioned_place: Baltija; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Vokietija'
+  temporaliniai_duomenys: 'sutarties data: 1939 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia pašalinti skliaustinį fragmentą ir suformuoti enciklopedinį sakinį.'
   pagrindžia:
     - c-001
 

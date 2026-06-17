@@ -3,10 +3,18 @@ tipas: zodyno_irasas
 pavadinimas: 'dalinių kunigaikštijų sistema vietininkai'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1393 m.'
+  - '1394 m.'
+  - '1395 m.'
+date_start: '1393'
+date_end: '1395'
 sukurta: ''
 atnaujinta: ''
 tags:
   - sąvoka
+amziai:
+  - 'XIV'
 ---
 # dalinių kunigaikštijų sistema vietininkai
 
@@ -20,6 +28,11 @@ Visų pirma Vytautas nustojo mokėti duoklę mongolams, panaikino senovinę dali
 - t-001
   global_id: t-22096
   teiginys: 'Vytautas 1394 m. panaikino Kijevo kunigaikštiją, o 1395 m. paskyrė savo vietininką Podolėje.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/duoklė|duoklė]]; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Kijevas; mentioned_place: Luckas; mentioned_place: Podolė'
+  temporaliniai_duomenys: 'įvykio data: 1393 m.; įvykio data: 1394 m.; įvykio data: 1395 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -38,10 +51,3 @@ Visų pirma Vytautas nustojo mokėti duoklę mongolams, panaikino senovinę dali
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/duoklė]]
-- [[objektai/zodynas/vietininkas]]
-- [[objektai/asmenys/Skirgaila]]

@@ -20,6 +20,8 @@ Tam buvo reikalinga tvirta, net plieninė ran­ ka, didelis protas.
 - t-001
   global_id: t-34432
   teiginys: 'Kęstučio sūnus Vytautas turėjo tvirtą, net plieninę ranką ir didelį protą.'
+  sudarymo_pagrindimas: 'Pradinis sakinys yra nepakankamai savarankiškas; citata leidžia įvardyti Vytautą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-001
 
@@ -38,8 +40,3 @@ Tam buvo reikalinga tvirta, net plieninė ran­ ka, didelis protas.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

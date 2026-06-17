@@ -3,11 +3,17 @@ tipas: vieta
 pavadinimas: 'Vingio parkas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1988 m.'
+date_start: '1988'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - tauta
   - vieta
+amziai:
+  - 'XX'
 ---
 # Vingio parkas
 
@@ -21,6 +27,8 @@ Katedros) aikštėje dalyvavo apie 30 tūkst., liepos 9 Vingio parke (LPS vadovy
 - t-001
   global_id: t-69731
   teiginys: 'Po Aleksandro Jakovlevo apsilankymo Lietuvoje valdžia pirmą kartą leido Vingio parke viešai paminėti Molotovo–Ribentropo paktą.'
+  sudarymo_pagrindimas: 'Sakinys yra aiškus ir tiesiogiai susijęs su Vingio parke vykusiu minėjimu.'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -28,6 +36,14 @@ Katedros) aikštėje dalyvavo apie 30 tūkst., liepos 9 Vingio parke (LPS vadovy
 - t-002
   global_id: t-183642
   teiginys: '1988 m. liepos 9 d. Vingio parke vykusiame LPS mitinge dalyvavo apie 100 tūkst. žmonių.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pašalintas fragmentiškas pradžios kontekstas ir paliktas faktas apie vietą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]'
+  temporaliniai_duomenys: 'įvykio data: 1988 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas fragmentiškas pradžios kontekstas ir paliktas faktas apie vietą.'
   pagrindžia:
     - c-002
 

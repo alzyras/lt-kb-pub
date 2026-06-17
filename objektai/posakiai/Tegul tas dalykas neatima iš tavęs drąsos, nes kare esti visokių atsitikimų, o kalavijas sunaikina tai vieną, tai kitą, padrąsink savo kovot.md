@@ -23,6 +23,8 @@ Dusburgietis teigia, kad apie Baigos pilį Išgirdęs šią liūdną naujieną, 
 - t-001
   global_id: t-59159
   teiginys: 'Pasakojime apie Baigos pilį magistrą ramino Dovydo žodžiai „Tegul tas dalykas neatima iš tavęs drąsos“.'
+  sudarymo_pagrindimas: 'Citata palaiko posakio kontekstą, o pradinė formuluotė buvo nutrūkusi.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Baiga; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
 
@@ -49,11 +51,3 @@ Dusburgietis teigia, kad apie Baigos pilį Išgirdęs šią liūdną naujieną, 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Kalavijas]]
-- [[objektai/daiktai/Laivai]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/asmenys/Dovydas]]
-- [[objektai/asmenys/Joabas]]

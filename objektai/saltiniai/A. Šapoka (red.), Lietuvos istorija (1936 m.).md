@@ -10,12 +10,12 @@ date_start: '1936'
 date_end: '1939'
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XX'
 tags:
   - saltinis
   - tauta
   - valstybė
+amziai:
+  - 'XX'
 ---
 # A. Šapoka (red.), Lietuvos istorija (1936 m.)
 
@@ -24,10 +24,16 @@ tags:
 1936 m. Lietuvos Respublikos švietimo ministerijos (viceministro Kazimiero Masiliūno) iniciatyva ir rūpesčiu grupė lietuvių istorikų parašė ir išleido plačios apimties Lietuvos istoriją, kurią redagavo Adolfas Šapoka. Tai bene žinomiausia tautinė Lietuvos valstybės ir lietuvių tautos istorija, padariusi ir tebedaranti įtaką ir dabartinėms kartoms.
 
 ## Teiginiai
+
 <a id="claim-t-78114"></a>
 - t-001
   global_id: t-78114
   teiginys: 'A. Šapokos redaguota 1936 m. Lietuvos istorija vadinama bene žinomiausia tautine Lietuvos valstybės ir lietuvių tautos istorija.'
+  sudarymo_pagrindimas: 'Neaiškus įvardis pakeistas konkrečiu šaltinio objektu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/autoriai/A. Šapoka|A. Šapoka]]; mentioned_place: Europa; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1936 m.; įvykio data: 1939 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Neaiškus įvardis pakeistas konkrečiu šaltinio objektu.'
   pagrindžia:
     - c-001
 
@@ -35,10 +41,16 @@ tags:
 - t-002
   global_id: t-78115
   teiginys: '1936 m. Lietuvos Respublikos švietimo ministerijos (viceministro Kazimiero Masiliūno) iniciatyva ir rūpesčiu grupė lietuvių istorikų parašė ir išleido plačios apimties Lietuvos istoriją, kurią redagavo Adolfas Šapoka.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas, išsamus ir tiesiogiai pagrįstas pateikta citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/autoriai/A. Šapoka|A. Šapoka]]; mentioned_person: [[objektai/autoriai/Adolfas Šapoka|Adolfas Šapoka]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1936 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas, išsamus ir tiesiogiai pagrįstas pateikta citata.'
   pagrindžia:
     - c-002
 
-## Bibliografiniai įrodymai
+## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'A. Šapokos redaguota 1936 m. Lietuvos istorija vadinama bene žinomiausia tautine Lietuvos valstybės ir lietuvių tautos istorija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -64,6 +76,7 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |

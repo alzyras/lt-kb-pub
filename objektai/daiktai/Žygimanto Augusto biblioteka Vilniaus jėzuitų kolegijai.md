@@ -40,6 +40,8 @@ Nenurodyta
 - t-001
   global_id: t-87130
   teiginys: 'Mirdamas Knišine Žygimantas Augustas savo turtingą, tėvo pradėtą ir paties kauptą biblioteką atidavė Vilniaus jėzuitų kolegijai.'
+  sudarymo_pagrindimas: 'Teiginys pilnas, faktinis ir tiksliai atitinka citatos informaciją.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_person: [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]]; mentioned_place: Knišinas; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -61,11 +63,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Ona Vytautienė]]
-- [[objektai/asmenys/Augustas]]
-- [[objektai/asmenys/Žygimantas]]
-- [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]]
-- [[objektai/grupes/Vilniaus jėzuitų kolegija]]

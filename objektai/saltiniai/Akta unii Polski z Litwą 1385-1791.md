@@ -29,6 +29,11 @@ AUPL = Akta unii Polski z Litwą 1385-1791, išl.
 - t-001
   global_id: t-29704
   teiginys: '„Akta unii Polski z Litwą 1385-1791“ išleido St. Kutrzeba ir Wł. Semkowiczius Krokuvoje 1932 m.'
+  sudarymo_pagrindimas: 'Citata palaiko leidėjus, vietą ir metus, o pradinė forma buvo santrumpinė.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/Kutrzeba|Kutrzeba]]; mentioned_person: [[objektai/autoriai/St. Kutrzeba|St. Kutrzeba]]; mentioned_person: [[objektai/autoriai/Wł. Semkowiczius|Wł. Semkowiczius]]; mentioned_place: Krokuva'
+  temporaliniai_duomenys: 'įvykio data: 1932 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko leidėjus, vietą ir metus, o pradinė forma buvo santrumpinė.'
   pagrindžia:
     - c-001
 

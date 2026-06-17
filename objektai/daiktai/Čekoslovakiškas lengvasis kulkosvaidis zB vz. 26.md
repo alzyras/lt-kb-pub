@@ -40,9 +40,11 @@ Nenurodyta
 - t-001
   global_id: t-40801
   teiginys: 'Čekoslovakiškas lengvasis kulkosvaidis zB vz. 26 šaltinyje nurodomas ir santrumpa LK vz. 26.'
+  sudarymo_pagrindimas: 'Citata palaiko tik identifikacinį faktą apie ginklo pavadinimą ir santrumpą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Pistoletas|Pistoletas]]'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/daiktai/Vokiškas pistoletas Walther P38.md#claim-t-80696|Vokiškas pistoletas Walther P38]]: Vokiškas pistoletas Walther P38 buvo nurodytas kaip 220 puslapio iliustracija iš VDKM, fotografuota Artūro Užgalio.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -55,8 +57,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Pistoletas]]
-- [[objektai/daiktai/Vokiškas pistoletas Walther P38]]

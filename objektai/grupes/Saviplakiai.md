@@ -21,9 +21,12 @@ Dusburgietis teigia, kad apie viešąją krikščionių atgailą To popiežiaus 
 - t-001
   global_id: t-63212
   teiginys: 'Popiežiaus Inocento laikais viešai atgailaujantys krikščionys plakėsi rykštėmis ir vokiškai buvo vadinami Geyseler, tai yra saviplakiais.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_object: [[objektai/zodynas/Geyseler|Geyseler]]'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/zodynas/Geyseler.md#claim-t-58901|Geyseler]]: Geyseler buvo vokiškas rykštėmis besiplakusių krikščionių saviplakių pavadinimas.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -43,9 +46,3 @@ Dusburgietis teigia, kad apie viešąją krikščionių atgailą To popiežiaus 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Geyseler]]
-- [[objektai/grupes/Krikščionys]]
-- [[objektai/paprociai/Viešoji krikščionių atgaila ir saviplaka]]

@@ -28,6 +28,11 @@ Dusburgietis teigia, kad schall H.
 - t-001
   global_id: t-60783
   teiginys: 'H. Schallas 1966 m. žurnale „Baltistica“ paskelbė straipsnį apie baltų vandenvardžius Aukštutinės Havelio upyne.'
+  sudarymo_pagrindimas: 'Bibliografinis įrašas pagrindžia autoriaus publikacijos temą, vietą ir metus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]'
+  temporaliniai_duomenys: 'įvykio data: 1966 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Bibliografinis įrašas pagrindžia autoriaus publikacijos temą, vietą ir metus.'
   pagrindžia:
     - c-001
 
@@ -44,7 +49,3 @@ Dusburgietis teigia, kad schall H.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Baltai]]

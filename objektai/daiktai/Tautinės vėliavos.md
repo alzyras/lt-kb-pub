@@ -42,9 +42,11 @@ Nenurodyta
 - t-001
   global_id: t-19602
   teiginys: 'Nuo septintojo dešimtmečio iki okupacijos pabaigos neformalių jaunimo grupių nariai keldavo tautines vėliavas.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie tautines vėliavas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kaunas; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/ivykiai/1941 m. Birželio sukilimas.md#claim-t-45329|1941 m. Birželio sukilimas (sukilimas)]]: Per 1941 m. Birželio sukilimą provincijos sukilėliai užimdavo vietos valdžios įstaigas ir suimdavo sovietų valdžios aktyvistus.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -64,10 +66,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/ivykiai/1941 m. Birželio sukilimas|1941 m. Birželio sukilimas (sukilimas)]]
-- [[objektai/asmenys/Romas Kalanta]]
-- [[objektai/daiktai/Romo Kalantos atminimo paminklai ir simboliai]]

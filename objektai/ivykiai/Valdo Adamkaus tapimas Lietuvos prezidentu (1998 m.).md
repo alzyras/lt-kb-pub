@@ -45,6 +45,11 @@ Nenurodyta
 - t-001
   global_id: t-26405
   teiginys: '1998 m. Valdas Adamkus, grįžęs iš JAV gyventi į Lietuvą, pakeitė Algirdą Brazauską prezidento poste.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir atitinka citatoje pateiktą faktą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Lietuva; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1998 m.; įvykio data: po 2000 m.; įvykio data: 2000 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys ir atitinka citatoje pateiktą faktą.'
   pagrindžia:
     - c-001
 
@@ -64,9 +69,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/seimas]]
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/ivykiai/2000 m. Seimo rinkimai ir koalicinių vyriausybių eros pradžia]]

@@ -48,9 +48,3 @@ Kai kariuomenei nemokėdavo algos, jos atsisakymas klausyti vadų ir plėšikavi
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Steponas Batoras]]
-- [[objektai/zodynas/ponai]]
-- [[objektai/zodynas/konfederacija]]

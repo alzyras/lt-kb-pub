@@ -30,6 +30,11 @@ amziai:
 - t-001
   global_id: t-86162
   teiginys: 'Jonas Lasavičius Vilniaus katedroje įrengė Vyskupų koplyčią.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas citatos informacija apie katedrą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas Lasavičius|Jonas Lasavičius]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: iki 1481 m.; įvykio data: po 1462 m.; įvykio data: 1462 m.; įvykio data: 1481 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir paremtas citatos informacija apie katedrą.'
   pagrindžia:
     - c-002
 
@@ -37,6 +42,8 @@ amziai:
 - t-002
   global_id: t-86163
   teiginys: 'Vilniaus vyskupas Mikalojus Šv. Stanislovo katedroje iškilmingai paskelbė Švitrigailą didžiuoju kunigaikščiu.'
+  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje aprašytą veiksmą katedroje.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Kamenecas; mentioned_place: Lenkija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

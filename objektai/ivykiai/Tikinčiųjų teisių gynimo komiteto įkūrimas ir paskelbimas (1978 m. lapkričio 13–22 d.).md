@@ -45,6 +45,11 @@ Nenurodyta
 - t-001
   global_id: t-20519
   teiginys: '1978 m. lapkričio 22 d. Alfonsas Svarinskas, Sigitas Tamkevičius ir Juozas Zdebskis Maskvoje paskelbė apie TTGK įkūrimą Lietuvoje.'
+  sudarymo_pagrindimas: 'Pirminis teiginys nutrūkęs, o citata leidžia pateikti glaustą faktą apie paskelbimą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kulto laisvė|kulto laisvė]]; mentioned_person: [[objektai/asmenys/Alfonsas (Kastilijos karalius)|Alfonsas (Kastilijos karalius)]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas Kauneckas|Jonas Kauneckas]]; mentioned_person: [[objektai/asmenys/Juozas Zdebskis|Juozas Zdebskis]]; mentioned_person: [[objektai/autoriai/Sigitas Tamkevičius|Sigitas Tamkevičius]]; mentioned_place: Lietuva; mentioned_place: Maskva'
+  temporaliniai_duomenys: 'įvykio data: 1978 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pirminis teiginys nutrūkęs, o citata leidžia pateikti glaustą faktą apie paskelbimą.'
   pagrindžia:
     - c-001
 
@@ -52,6 +57,11 @@ Nenurodyta
 - t-002
   global_id: t-20520
   teiginys: 'Tikinčiųjų teisių gynimo komitetas siekė katalikams lygių teisių su ateistais ir prašė padėti apginti tikinčiųjų teises.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir tiksliai atitinka citatos informaciją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Tikinčiųjų teisių gynimo komitetas|Tikinčiųjų teisių gynimo komitetas]]; mentioned_object: [[objektai/zodynas/kulto laisvė|kulto laisvė]]; mentioned_person: [[objektai/asmenys/Alfonsas (Kastilijos karalius)|Alfonsas (Kastilijos karalius)]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas Kauneckas|Jonas Kauneckas]]; mentioned_person: [[objektai/asmenys/Juozas Zdebskis|Juozas Zdebskis]]; mentioned_place: Lietuva; mentioned_place: Maskva'
+  temporaliniai_duomenys: 'įvykio data: 1978 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys ir tiksliai atitinka citatos informaciją.'
   pagrindžia:
     - c-002
 
@@ -110,16 +120,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Alfonsas (Kastilijos karalius)]]
-- [[objektai/asmenys/Jonas]]
-- [[objektai/asmenys/Jonas Kauneckas]]
-- [[objektai/asmenys/Juozas Zdebskis|Juozas Zdebskis (kunigas)]]
-- [[objektai/zodynas/kulto laisvė]]
-- [[objektai/autoriai/Sigitas Tamkevičius]]
-- [[objektai/grupes/Tikinčiųjų teisių gynimo komitetas|Tikinčiųjų teisių gynimo komitetas (institucija)]]
-- [[objektai/asmenys/Alfonsas Svarinskas]]
-- [[objektai/grupes/Katalikų Bažnyčia]]
-- [[objektai/asmenys/Vincentas Vėlavičius|Vincentas Vėlavičius (kunigas)]]

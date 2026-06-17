@@ -29,6 +29,11 @@ Dusburgietis teigia, kad piętka J.
 - t-001
   global_id: t-61228
   teiginys: 'J. Piętkos straipsnis apie Mazovijos feodalinės elito genezę paskelbtas 1979 m. „Rocznik mazowiecki“ septintame tome, p. 31–56.'
+  sudarymo_pagrindimas: 'Citata pateikia bibliografinį šaltinio įrašą su leidiniu, metais, tomu ir puslapiais.'
+  susije_objektai: 'mentioned_place: Mazovija'
+  temporaliniai_duomenys: 'įvykio data: 1979 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pateikia bibliografinį šaltinio įrašą su leidiniu, metais, tomu ir puslapiais.'
   pagrindžia:
     - c-001
 

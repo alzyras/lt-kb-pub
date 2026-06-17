@@ -18,6 +18,11 @@ Algirdas ir Maskvos valdovas Dimitrijus susitarė dėl taikos, pagal kurią Liet
 - t-001
   global_id: t-186308
   teiginys: 'Algirdas ir Maskvos valdovas Dimitrijus susitarė dėl taikos, pagal kurią Lietuvos sienos turėjo būti praplėstos iki Možaisko ir Ugros upės.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis tekstas sugadintas OCR ir turi antraštės triukšmo; citata palaiko konkrečią sutarties sąlygą.'
+  susije_objektai: 'territory: Lietuva; territory: Maskva; territory: Možaiskas; mentioned_object: [[objektai/daiktai/Ietis|Ietis]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Dimitrijus|Dimitrijus]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Možaiskas'
   pagrindžia:
     - c-001
 

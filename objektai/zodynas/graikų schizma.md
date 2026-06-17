@@ -18,6 +18,11 @@ Konstantinas, išpažindamas rusų tikėjimą, prisidėjo prie graikų schizmos 
 - t-001
   global_id: t-185386
   teiginys: 'Konstantinas, išpažindamas rusų tikėjimą, prisidėjo prie graikų schizmos ir išsižadėjo paklusnumo Romos popiežiui.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir pagrįstas citatos informacija.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Antspaudai|Antspaudai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/luomai|luomai]]; mentioned_object: [[objektai/zodynas/senatas|senatas]]; mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -49,11 +54,3 @@ Konstantinas, išpažindamas rusų tikėjimą, prisidėjo prie graikų schizmos 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Antspaudai]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/luomai]]
-- [[objektai/zodynas/senatas]]

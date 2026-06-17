@@ -23,6 +23,8 @@ Dėl to savo laikų Europos visuomenės viršūnes gerai pažįstąs Kujavų vys
 - t-001
   global_id: t-35150
   teiginys: 'Kujavų vyskupas Jonas Kropidła Breslave imperatoriui Zigmantui pareiškė, kad karaliaus vardo vertas tik Vytautas.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Breslavas; mentioned_place: Europa'
   pagrindžia:
     - c-001
 
@@ -45,7 +47,3 @@ Dėl to savo laikų Europos visuomenės viršūnes gerai pažįstąs Kujavų vys
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/kunigaikščiai]]

@@ -51,6 +51,11 @@ Nenurodyta
 - t-001
   global_id: t-39240
   teiginys: 'Japoniškas 30 modelio Arisaka šautuvas buvo 1897 m. modelio ginklas, kurio šovinys buvo 6,5x50 mm SR, o dėtuvėje tilpo 5 šoviniai.'
+  sudarymo_pagrindimas: 'Pradinė formuluotė sujungia nesuderintus fragmentus ir turi prieštaringą svorio duomenį.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]; mentioned_place: Rusija'
+  temporaliniai_duomenys: 'įvykio data: 1897 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinė formuluotė sujungia nesuderintus fragmentus ir turi prieštaringą svorio duomenį.'
   pagrindžia:
     - c-001
 
@@ -71,7 +76,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Šautuvai]]

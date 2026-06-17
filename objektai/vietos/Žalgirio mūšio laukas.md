@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Dzežgonis) Žalgirio mūšio laukas (dab.
+Dusburgietis teigia, kad dzežgonis) Žalgirio mūšio laukas (dab.
 
 ## Teiginiai
 
@@ -21,6 +21,7 @@ Dzežgonis) Žalgirio mūšio laukas (dab.
 - t-001
   global_id: t-58755
   teiginys: 'Dzežgonis) Žalgirio mūšio laukas (dab.'
+  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
   pagrindžia:
     - c-001
 

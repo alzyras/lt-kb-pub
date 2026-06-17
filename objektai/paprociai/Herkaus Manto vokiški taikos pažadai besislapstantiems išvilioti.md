@@ -42,6 +42,9 @@ Nenurodyta
 - t-001
   global_id: t-62116
   teiginys: 'Herkus Mantas vokiškai žadėdavo saugumą besislapstantiems krikščionims, o išėjusius su saviškiais suimdavo arba nužudydavo.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs; citata aiškiai remia pilną faktą apie Herkaus Manto veiksmą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_person: [[objektai/asmenys/Herkus Mantas|Herkus Mantas]]; mentioned_person: [[objektai/asmenys/Mantas|Mantas]]'
   pagrindžia:
     - c-001
 
@@ -66,12 +69,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Herkus Mantas]]
-- [[objektai/grupes/Notangai]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/netikėliai]]
-- [[objektai/asmenys/Mantas]]
-- [[objektai/posakiai/Jei kas čia slapstosi, tegu išeina be baimės, nes netikėlių kariuomenė jau atsitraukė]]

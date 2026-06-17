@@ -3,6 +3,10 @@ tipas: zodyno_irasas
 pavadinimas: 'Restitucija'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '2004 m.'
+date_start: '2004'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -10,6 +14,8 @@ tags:
   - elekcija
   - sąvoka
   - tauta
+amziai:
+  - 'XXI'
 ---
 # Restitucija
 
@@ -23,6 +29,11 @@ Narystės ir demokratijos įtvirtinimui Lietuva ėmė ryžtingai siekti demokrat
 - t-001
   global_id: t-22021
   teiginys: 'Įtvirtindama demokratines vertybes Lietuva siekė vykdyti religinio turto restituciją ir grąžinti žydų kultūros vertybes.'
+  sudarymo_pagrindimas: 'Pašalintas nutrūkimas ir perteklinis ilgo sąrašo triukšmas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/Antisemitizmas|Antisemitizmas]]; mentioned_place: Afganistanas; mentioned_place: Goras; mentioned_place: Gruzija; mentioned_place: Lietuva; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 2004 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas nutrūkimas ir perteklinis ilgo sąrašo triukšmas.'
   pagrindžia:
     - c-001
 
@@ -49,9 +60,3 @@ Narystės ir demokratijos įtvirtinimui Lietuva ėmė ryžtingai siekti demokrat
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Antisemitizmas]]
-- [[objektai/grupes/Žydai]]
-- [[objektai/daiktai/Išsaugotos Toros]]

@@ -29,6 +29,8 @@ Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] c
 - t-001
   global_id: t-58785
   teiginys: 'Braunšveigo kunigaikštis ir Ordino broliai paėmė Partigalos pilį bei kuorą, sudegino juos, o žmones išsivedė į nelaisvę arba išžudė.'
+  sudarymo_pagrindimas: 'Perrašyta į pilną sakinį su aiškiais veikėjais, veiksmu ir rezultatu.'
+  susije_objektai: 'territory: Baiga; territory: Barta; territory: Partigala; mentioned_object: [[objektai/zodynas/maldininkai|maldininkai]]; mentioned_person: [[objektai/asmenys/Pomandas|Pomandas]]; mentioned_place: Baiga; mentioned_place: Barta; mentioned_place: Partigala'
   pagrindžia:
     - c-004
 
@@ -36,6 +38,8 @@ Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] c
 - t-002
   global_id: t-58786
   teiginys: 'Prūsų pilaitė prie Wildenbergo aiškinama kaip buvusi greta vėlesnės Marienburgo pilies arba jos vietoje.'
+  sudarymo_pagrindimas: 'Pašalintas OCR ir fragmentiškumas, palikta tik citatos paremta interpretacija.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Marienburgas; mentioned_place: Nogatas; mentioned_place: Pilaitė; mentioned_place: Prūsai'
   pagrindžia:
     - c-003
 
@@ -43,6 +47,8 @@ Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] c
 - t-003
   global_id: t-58787
   teiginys: 'Broliai užgrobė prūsų apeiginį katilą ir iš pamatų sugriovė visus tris Bartenšteino pilį supusius kuorus.'
+  sudarymo_pagrindimas: 'Fragmentas paverstas pilnu sakiniu su aiškiu objektu ir veiksmu.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Katilas|Katilas]]; mentioned_object: [[objektai/daiktai/Kuorai|Kuorai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Bartenšteinas; mentioned_place: Prūsai'
   pagrindžia:
     - c-005
 
@@ -50,6 +56,8 @@ Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] c
 - t-004
   global_id: t-58788
   teiginys: 'Prūsai aplink Bartenšteino pilį įrengė tris kuorus, kuriuose nuolat laikė 1300 įgudusių kariauti vyrų.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_place: Bartenšteinas; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
 
@@ -57,6 +65,8 @@ Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] c
 - t-005
   global_id: t-58789
   teiginys: 'Prūsai abiejuose per Prieglių pastatyto tilto galuose įrengė tvirtus kuorus.'
+  sudarymo_pagrindimas: 'Citata tiesiogiai mini kuorus ir jų vietą prie tilto.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kuorai|Kuorai]]; mentioned_place: Prieglius; mentioned_place: Prūsai'
   pagrindžia:
     - c-006
 
@@ -64,6 +74,8 @@ Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] c
 - t-006
   global_id: t-58790
   teiginys: 'Karaliaučiaus, Kroicburgo ir Bartenšteino pilys buvo apsuptos trimis stipriais kuorais, kad apsuptieji negalėtų įeiti ar išeiti.'
+  sudarymo_pagrindimas: 'Pašalinta perteklinė atribucija ir suformuluotas glaustas faktas apie kuorus.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kuorai|Kuorai]]; mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_place: Bartenšteinas; mentioned_place: Kroicburgas'
   pagrindžia:
     - c-002
 
@@ -71,6 +83,11 @@ Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] c
 - t-007
   global_id: t-184006
   teiginys: 'Gubučiai Varmės žemėje pastatė Partigalos pilį ir kuorą Skrando kalne, sustiprindami jį įvairiais kariais.'
+  teiginio_tipas: 'saltinio_teiginys'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pašalinta antraštė ir perteklinė atribucija, išlaikyti citatos faktai.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Gubučiai|Gubučiai]]; mentioned_place: Baiga; mentioned_place: Partigala; mentioned_place: Varmė'
   pagrindžia:
     - c-007
 
@@ -201,18 +218,3 @@ Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] c
   statusas: verified
   pagrindžia:
     - t-007
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Katilas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/daiktai/Kuorai]]
-- [[objektai/asmenys/Pomandas]]
-- [[objektai/zodynas/maldininkai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Gubučiai]]
-- [[objektai/daiktai/Pilys]]
-- [[objektai/ivykiai/Bartenšteino pilies apsiaustis, trijų kuorų sunaikinimas ir apleidimas (1264 m.)]]
-- [[objektai/paprociai/Karaliaučiaus pilies blokada kuorais, laivais ir tiltu|Karaliaučiaus pilies blokada kuorais, laivais ir tiltu (pilis)]]
-- [[objektai/ivykiai/Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai]]
-- [[objektai/ivykiai/Partigalos pilies ir Skrando kuoro pastatymas]]

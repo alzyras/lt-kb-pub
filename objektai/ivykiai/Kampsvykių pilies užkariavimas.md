@@ -37,6 +37,9 @@ Nenurodyta
 - t-001
   global_id: t-62307
   teiginys: 'Magistras su didele kariuomene užpuolė prie Arsos upės stovėjusią Kampsvykių pilį, išžudė jos karius ir sudegino pilį iki pamatų.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pradinė formuluotė nutrūkusi ir turi puslapio bei išnašos triukšmo; citata palaiko glaustą faktą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Kampsvykiai; mentioned_place: Nadruva'
   pagrindžia:
     - c-001
 
@@ -64,7 +67,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/magistras]]

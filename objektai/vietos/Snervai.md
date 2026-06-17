@@ -20,9 +20,12 @@ Dusburgietis teigia, kad smolenskas Snervai (dab.
 - t-001
   global_id: t-58729
   teiginys: 'Snervai yra ežeras, dabar vadinamas Sniardvais.'
+  sudarymo_pagrindimas: 'Iš rodyklės įrašo galima pagrįsti trumpą faktą apie objekto tipą ir dabartinį pavadinimą.'
+  susije_objektai: 'mentioned_place: Smolenskas'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/grupes/Galindai.md#claim-t-65157|Galindai]]: Galindų žemė driekėsi į pietus nuo Bartos, nuo Alnos aukštumos vakaruose iki Nagutino ir Snervų ežerų rytuose.
+- susijęs iš Galinda: Galindos žemė buvo į pietus nuo Bartos, nuo Alnos aukštumos vakaruose iki Nagutino ir Snervų ežerų rytuose.
 ## Reikšmingi paminėjimai
 
 - c-001

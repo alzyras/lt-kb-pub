@@ -20,6 +20,8 @@ Dusburgietis teigia, kad powierski J.
 - t-001
   global_id: t-61242
   teiginys: 'J. Powierskio tekstas „Prusowie, Prusy“ paskelbtas SSS 4 tomo 1 dalyje, 368–371 puslapiuose.'
+  sudarymo_pagrindimas: 'Citata palaiko bibliografinį teiginį apie publikavimo vietą ir puslapius.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
   pagrindžia:
     - c-001
 

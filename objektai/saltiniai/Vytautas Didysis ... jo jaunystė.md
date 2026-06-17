@@ -20,6 +20,7 @@ tags:
 - t-001
   global_id: t-31974
   teiginys: '„Vytautas Didysis ... jo jaunystė“ paskelbtas Lietuvių enciklopedijos 34 tome, 373-376 puslapiuose.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kaunas'
   pagrindžia:
     - c-001
 

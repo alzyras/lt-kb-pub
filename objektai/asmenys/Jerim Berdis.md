@@ -18,9 +18,14 @@ atnaujinta: ''
 - t-001
   global_id: t-186046
   teiginys: 'Žuvus Tochtamyšui, Jerim Berdis pabėgo pas Vytautą, nepaisydamas brolio likimo ir kraujo praliejimo.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/ivykiai/Jerim Berdžio iškėlimas ir Mikalojus Radvilos laimėtas mūšis netoli Volgos (1419 m.).md#claim-t-185572|Jerim Berdžio iškėlimas ir Mikalojus Radvilos laimėtas mūšis netoli Volgos (1419 m.)]]: Žuvus Tochtamyšui, Jerim Berdis pabėgo pas Vytautą, kuris jį paskelbė teisėtu valdovu ir pasiryžo sugrąžinti į valdžią.
+- susijęs iš Volga: Kerim Berdis netoli Volgos su kariuomene ryžtingai užpuolė savo brolį Jerim Berdį.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -39,7 +44,3 @@ atnaujinta: ''
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/Jerim Berdžio iškėlimas ir Mikalojus Radvilos laimėtas mūšis netoli Volgos (1419 m.)]]

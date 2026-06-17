@@ -7,10 +7,11 @@ saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
+  - '1241 m.'
   - '1416 m.'
   - '1418 m.'
   - '2026 m.'
-date_start: '1416'
+date_start: '1241'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
@@ -18,14 +19,14 @@ tags:
   - grupe
   - miestas
 amziai:
-  - 'XV'
+  - 'XIII'
   - 'XXI'
 ---
 # Hanza
 
 ## Santrauka
 
-XIII amžiuje Šiaurės ir Baltijos jūrose įsigalėjo vokiškųjų miestų pirklių sąjunga, vadinama Hanza. Hanza Kaune ir Polocke įsteigė savo agentūras, vadintas pirklių kontoromis. 1416 m. Hanzos vadovybė įsikišo, kai Dorpatas uždraudė prekybą su Naugardu, bet turėjo sutikti su Dorpato draudimu.
+Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos kontekste minimos vokiečių prekyvietės Baltijos pajūryje. Šiame šaltinyje ji papildomai rodoma kaip jūros keliu atvykusių piligrimų tinklas ir kaip vienas Gedimino laiškų adresatų.
 
 ## Teiginiai
 
@@ -33,6 +34,7 @@ XIII amžiuje Šiaurės ir Baltijos jūrose įsigalėjo vokiškųjų miestų pir
 - t-001
   global_id: t-10755
   teiginys: 'XIII amžiuje Šiaurės ir Baltijos jūrose įsigalėjo vokiškųjų miestų pirklių sąjunga, vadinama Hanza.'
+  susije_objektai: 'mentioned_place: Baltija; mentioned_place: D. Naugardas; mentioned_place: Gotlandas; mentioned_place: Lietuva; mentioned_place: Naugardas'
   pagrindžia:
     - c-001
 
@@ -40,6 +42,8 @@ XIII amžiuje Šiaurės ir Baltijos jūrose įsigalėjo vokiškųjų miestų pir
 - t-002
   global_id: t-10757
   teiginys: 'Hanza Kaune ir Polocke įsteigė savo agentūras, vadintas pirklių kontoromis.'
+  susije_objektai: 'object: Dauguva; object: Kaunas; object: Nemunas; object: Polockas; mentioned_place: Dauguva; mentioned_place: Kaunas; mentioned_place: Nemunas; mentioned_place: Polockas'
+  semantiniai_rysiai: '[[objektai/grupes/Hanza|Hanza]] pastatė Dauguva; [[objektai/grupes/Hanza|Hanza]] pastatė Kaunas; [[objektai/grupes/Hanza|Hanza]] pastatė Nemunas; [[objektai/grupes/Hanza|Hanza]] pastatė Polockas'
   pagrindžia:
     - c-002
 
@@ -47,6 +51,11 @@ XIII amžiuje Šiaurės ir Baltijos jūrose įsigalėjo vokiškųjų miestų pir
 - t-003
   global_id: t-116684
   teiginys: '1416 m. Hanzos vadovybė įsikišo, kai Dorpatas uždraudė prekybą su Naugardu, bet turėjo sutikti su Dorpato draudimu.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatinis faktinis sakinys ir atitinka citatos informaciją.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Dorpatas; mentioned_place: Lietuva; mentioned_place: Naugardas; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1416 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatinis faktinis sakinys ir atitinka citatos informaciją.'
   pagrindžia:
     - c-008
 
@@ -54,6 +63,8 @@ XIII amžiuje Šiaurės ir Baltijos jūrose įsigalėjo vokiškųjų miestų pir
 - t-004
   global_id: t-116685
   teiginys: 'Vytauto laikų Lietuva buvo kraštas, kurio negalėjo aplenkti Hanzos ir kiti pirkliai.'
+  sudarymo_pagrindimas: 'Perrašyta, kad teiginys būtų gramatinis ir turėtų aiškų veiksnį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Baltija; mentioned_place: Dniepras; mentioned_place: Dniestras; mentioned_place: Europa; mentioned_place: Krokuva; mentioned_place: Lietuva; mentioned_place: Nemunas'
   pagrindžia:
     - c-007
 
@@ -61,6 +72,11 @@ XIII amžiuje Šiaurės ir Baltijos jūrose įsigalėjo vokiškųjų miestų pir
 - t-005
   global_id: t-116687
   teiginys: 'XIII amžiuje vokiečių miestai sudarė prisiekusiųjų sąjungas, žinomas Hanzos vardu.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Hamburgas; mentioned_place: Naugardas'
+  temporaliniai_duomenys: 'įvykio data: 1241 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-004
 
@@ -68,6 +84,8 @@ XIII amžiuje Šiaurės ir Baltijos jūrose įsigalėjo vokiškųjų miestų pir
 - t-006
   global_id: t-116690
   teiginys: 'Veliuonos derybose dalyvavo Liubeko ir Stralsundo atstovai, nes Vytauto ir Ordino nesantaika trukdė Hanzai susisiekti su Lietuva.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva; mentioned_place: Liubekas; mentioned_place: Stralsundas; mentioned_place: Veliuona'
   pagrindžia:
     - c-010
 
@@ -75,6 +93,8 @@ XIII amžiuje Šiaurės ir Baltijos jūrose įsigalėjo vokiškųjų miestų pir
 - t-007
   global_id: t-116691
   teiginys: 'Gediminas per rygiečius kreipėsi į Hanzos miestus ir kvietė amatininkus, pirklius, žemdirbius bei riterius vykti į Lietuvą.'
+  sudarymo_pagrindimas: 'Reikia išplėsti įvardį ir sutrumpinti sakinį iki vieno aiškaus fakto.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rygiečiai|Rygiečiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Naugardukas; mentioned_place: Viena; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 
@@ -82,6 +102,9 @@ XIII amžiuje Šiaurės ir Baltijos jūrose įsigalėjo vokiškųjų miestų pir
 - t-008
   global_id: t-116692
   teiginys: 'Hanza dviejuose prekybos centruose veikiai įsteigė savo agentūras, vadintas pirklių kontoromis.'
+  sudarymo_pagrindimas: 'Pradiniame teiginyje yra neaiški nuoroda „tuose centruose“.'
+  susije_objektai: 'object: Lietuva; object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/grupes/Hanza|Hanza]] pastatė Lietuva; [[objektai/grupes/Hanza|Hanza]] pastatė [[objektai/zodynas/Adynos|Adynos]]'
   pagrindžia:
     - c-005
 
@@ -89,6 +112,9 @@ XIII amžiuje Šiaurės ir Baltijos jūrose įsigalėjo vokiškųjų miestų pir
 - t-009
   global_id: t-116693
   teiginys: 'Hanzos miestų tinklui priklausė Kauno miestas.'
+  sudarymo_pagrindimas: 'Reikia aiškiau susieti faktą su Hanza kaip užrašo objektu.'
+  susije_objektai: 'owner: Europa; owner: Europos geografinis centras; owner: Italija; owner: Kaunas; owner: Lietuva; owner: Suomija; owner: Šveicarija; mentioned_place: Europa; mentioned_place: Europos geografinis centras; mentioned_place: Italija; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Suomija; mentioned_place: Šveicarija'
+  semantiniai_rysiai: '[[objektai/grupes/Hanza|Hanza]] priklausė Europa; [[objektai/grupes/Hanza|Hanza]] priklausė Europos geografinis centras; [[objektai/grupes/Hanza|Hanza]] priklausė Italija; [[objektai/grupes/Hanza|Hanza]] priklausė Kaunas; [[objektai/grupes/Hanza|Hanza]] priklausė Lietuva; [[objektai/grupes/Hanza|Hanza]] priklausė Suomija; [[objektai/grupes/Hanza|Hanza]] priklausė Šveicarija'
   pagrindžia:
     - c-006
 
@@ -96,9 +122,65 @@ XIII amžiuje Šiaurės ir Baltijos jūrose įsigalėjo vokiškųjų miestų pir
 - t-010
   global_id: t-116694
   teiginys: 'Rygiečiai Hanzos sąjungoje skundė Vytautą sulaužius jų patvirtintą sutartį su Polocku.'
+  sudarymo_pagrindimas: 'Pašalintas neaiškus konteksto fragmentas ir paliktas citatos paremtas faktas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rygiečiai|Rygiečiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Polockas'
   pagrindžia:
     - c-009
-
+- susijęs iš Dorpatas: Dorpatas priklausė Hanzai ir palaikė santykius su Vytautu, kurių nenorėta gadinti dėl prekybos interesų šiaurėje.
+- susijęs iš [[objektai/asmenys/Barbora Cyleikaitė.md#claim-t-35031|Barbora Cyleikaitė]]: Barbora Cyleikaitė atvyko su savo vyru Romos ciesoriumi Zigmantu ir buvo Jogailos antrosios žmonos giminaitė.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176389|Gediminas]]: Gediminas laiške Hanzos miestams save titulavo lietuvių ir rusų karaliumi, Žemgalijos valdovu ir kunigaikščiu.
+- susijęs iš [[objektai/asmenys/Povilas Russdortas.md#claim-t-35267|Povilas Russdortas]]: Povilas Russdortas buvo išrinktas Vokiečių ordino magistru vietoje atstatyto Küchmeisterio.
+- susijęs iš [[objektai/asmenys/Zigmantas Liuksemburgietis.md#claim-t-176872|Zigmantas Liuksemburgietis]]: Zigmantas Liuksemburgietis kurstė popiežių, ordinus, Hanzos miestus ir Vokietijos kunigaikščius kariauti su Vytautu.
+- susijęs iš [[objektai/grupes/Dominikonų ordinas.md#claim-t-172085|Dominikonų ordinas]]: 1323 m. notaro parengtas Gedimino laiškų dominikonams, pranciškonams ir Hanzos miestams dokumentas buvo Karaliaučiaus Slaptajame archyve.
+- susijęs iš [[objektai/grupes/Domininkonų ordinas.md#claim-t-112510|Domininkonų ordinas]]: 1323 m. gegužės 26 d. laiškai buvo pasiųsti Saksų provincijos domininkonams, pranciškonams ir Hanzos miestams.
+- susijęs iš [[objektai/grupes/Hanzos sąjunga.md#claim-t-187778|Hanzos sąjunga]]: Komentare Eriko XIII Pomeraniečio delegacijai priskiriamas siekis Lucko suvažiavime gauti Zigmanto paramą prieš Hanzos sąjungos Vokietijos miestus.
+- susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108316|Pranciškonų ordinas]]: 1323 m. Gedimino laiškai buvo rašyti dominikonų, Mažesniųjų brolių, arba pranciškonų, ordinams ir Hanzos miestams.
+- susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108323|Pranciškonų ordinas]]: 1323 m. gegužės 26 d. trys Gedimino laiškai buvo pasiųsti Saksų provincijos pranciškonams, dominikonams ir Hanzos miestams.
+- susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108328|Pranciškonų ordinas]]: Gedimino laiškai buvo rašyti dominikonams, pranciškonams ir Hanzos miestams.
+- susijęs iš [[objektai/ivykiai/Gedimino laiškų rašymas Vilniuje (1323 m. gegužės 26 d.).md#claim-t-86974|Gedimino laiškų rašymas Vilniuje (1323 m. gegužės 26 d.)]]: Gedimino laiškai dominikonams, pranciškonams ir Hanzos miestams buvo užfiksuoti 1323 m. notaro parengtame dokumente.
+- susijęs iš [[objektai/ivykiai/Gedimino laiškų rašymas, išsiuntimas ir paskelbimas Vakarų adresatams (1323 m. gegužės 26 d.).md#claim-t-86975|Gedimino laiškų rašymas, išsiuntimas ir paskelbimas Vakarų adresatams (1323 m. gegužės 26 d.)]]: Gedimino laiškai dominikonams, pranciškonams ir Hanzos miestams buvo užfiksuoti 1323 m. notaro parengtame dokumente.
+- susijęs iš [[objektai/posakiai/„Jei Šveicarijai būdinga aukšti kalnai, Italijai – meno kūriniai, Suomijai – ežerai, o Lietuvą reikėtų pavadinti kraštu, kuriame labai pavoj.md#claim-t-20844|„Jei Šveicarijai būdinga aukšti kalnai, Italijai – meno kūriniai, Suomijai – ežerai, o Lietuvą reikėtų pavadinti kraštu, kuriame labai pavoj]]: Posakyje Lietuva vadinama kraštu, kuriame labai pavojinga gyventi mažai tautai.
+- susijęs iš Gedimino laiškai ordinams ir Hanzos miestams: 1323 m. notaro parengtas autentiškas Gedimino laiškų ordinams ir Hanzos miestams dokumentas buvo Karaliaučiaus slaptajame archyve.
+- susijęs iš Gedimino laiškai: Gedimino laiškų ordinams ir Hanzos miestams 1323 m. notaro parengtas dokumentas buvo Karaliaučiaus Slaptajame archyve, o Kotzebue juos paskelbė „Prūsijos istorijoje“.
+- susijęs iš Gedimino laiškas Hanzos miestams ir Gotlando pirkliams (1323 m.): Gedimino laiške Hanzos miestams ir Gotlando pirkliams teigiama, kad valdovas pasiuntė popiežiui laišką dėl susivienijimo su Bažnyčia.
+- susijęs iš Preussens aeltere Geschichte: Augustas Kotzebue veikale „Preussens aeltere Geschichte“ išspausdino Gedimino laiškus dominikonams, pranciškonams ir Hanzos miestams.
+- susijęs iš Bizantija: Bizantijos imperatoriaus pasiuntiniai buvo tarp svečių, atvykusių pas Vytautą.
+- susijęs iš Dorpatas: Dorpatas priklausė Hanzai ir palaikė santykius su Vytautu, kurių nenorėta gadinti dėl prekybos interesų šiaurėje.
+- susijęs iš Gotlandas: Gotlando salai buvo adresuotas vienas iš trijų 1323 m. gegužės 26 d. laiškų Hanzos miestams.
+- susijęs iš Greifsvaldas: Greifsvaldas minimas tarp Hanzos miestų, kuriems 1323 m. gegužės 26 d. buvo pasiųsti laiškai.
+- susijęs iš Kaunas: Kaunas buvo Hanzos miestas.
+- susijęs iš Kaunas: Kaunas buvo Hanzos miestas.
+- susijęs iš Kazanė: Į Vytauto suvažiavimą atvyko ir Kazanės pasiuntiniai.
+- susijęs iš Liubekas: Iš Liubeko ir kitų Hanzos miestų į Vilnių atvykę amatininkai kartu su Rusios ir Livonijos pirkliais tapo turtingiausiu miesto sluoksniu.
+- susijęs iš Liubekas: Rygiečiai Liubeke ir Rostoke Hanzos sąjungoje skundė Vytautą sulaužius jų patvirtintą sutartį su Polocku.
+- susijęs iš Liubekas: Į Vilnių atvykę amatininkai iš Liubeko ir kitų Hanzos miestų kartu su pirkliais tapo turtingu miesto gyventojų sluoksniu.
+- susijęs iš Maskva: Pas Vytautą atvyko Maskvos didysis kunigaikštis, Tverės, Riazanės, Naugardo ir Pskovo kunigaikščiai.
+- susijęs iš Naugardas: Į Vytauto susitikimą atvyko Naugardo kunigaikščiai ir kitų kraštų valdovai bei pasiuntiniai.
+- susijęs iš Naugardas: Į Vytauto susitikimą atvyko Naugardo ir Pskovo kunigaikščiai, taip pat kitų valstybių valdovai bei pasiuntiniai.
+- susijęs iš Nemuno žiotys: Nemuno žiotys buvo apgultos kryžiuočių, kurie stengėsi visaip trukdyti Lietuvos prekybą.
+- susijęs iš Pomeranija: 1396 m. Vytautas sudarė laisvos prekybos sutartis su Štetino Pomeranijos hercogu, Rygos arkivyskupu elektu ir Dorpato vyskupu Ditrichu III Damerau.
+- susijęs iš Pskovas: Į Vytauto suvažiavimą atvyko ir Naugardo bei Pskovo kunigaikščiai.
+- susijęs iš Pskovas: Į Vytauto suvažiavimą atvyko Pskovo kunigaikščiai ir kitų kraštų valdovų bei miestų atstovai.
+- susijęs iš Pskovas: Į Vytauto suvažiavimą atvyko ir Pskovo kunigaikščiai.
+- susijęs iš Rostokas: Trys laiškai buvo pasiųsti Hanzos miestams, tarp jų Liubekui, Rostokui, Stralsundui, Greifsvaldui ir Ščecinui.
+- susijęs iš Rostokas: Rygiečiai Hanzos sąjungoje Liubeke ir Rostoke skundė Vytautą sulaužius sutartį su Polocku.
+- susijęs iš Rytų Europa: Lietuva dažnai laikoma Rytų Europos dalimi dėl geopolitinės, o ne vien geografinės krašto padėties.
+- susijęs iš Saksonija: Į Vilnių atvyko nemažai amatininkų iš Vokietijos, įskaitant Saksoniją, Sileziją, Liubeką ir kitus Hanzos miestus.
+- susijęs iš Silezija: Silezijos kunigaikščiai buvo tarp susirinkimo dalyvių kartu su Vokietijos pasiuntiniais ir Hanzos atstovais.
+- susijęs iš Silezija: Į Vilnių atvyko nemažai amatininkų iš Vokietijos, įskaitant Saksoniją, Sileziją, Liubeką ir kitus Hanzos miestus.
+- susijęs iš Stralsundas: Stralsundas buvo vienas Hanzos miestų, suteikusių lietuvių ir lenkų pirkliams panašias privilegijas.
+- susijęs iš Stralsundas: Gegužės 26 d. vienas iš laiškų buvo pasiųstas Hanzos miestams, tarp jų Stralsundui.
+- susijęs iš Tverė: Į Vytauto suvažiavimą atvyko Maskvos didysis kunigaikštis, Tverės-Riazanės, Naugardo ir Pskovo kunigaikščiai bei kiti pasiuntiniai.
+- susijęs iš Tverė: Tverio-Riazanės kunigaikščiai buvo tarp atvykusių dalyvių kartu su Naugardo ir Pskovo kunigaikščiais.
+- susijęs iš Veliuona: 1418 m. Veliuonos derybose nepavyko nustatyti Žemaitijos sienų.
+- susijęs iš Veliuona: 1418 m. Veliuonos derybose nepavyko nustatyti Žemaitijos sienų.
+- susijęs iš Vokietija: Susitikime dalyvavo Vokietijos pasiuntiniai, Silezijos kunigaikščiai ir Hanzos atstovai.
+- susijęs iš Šiaurės jūra: Šiaurės ir Baltijos jūrose suaktyvėjo prekyba, o jose įsigalėjo vokiškųjų miestų pirklių sąjunga Hanza.
+- susijęs iš Šiaurės jūra: Šiaurės ir Baltijos jūrose suaktyvėjo prekyba, o jose įsigalėjo vokiškųjų miestų pirklių sąjunga Hanza.
+- susijęs iš Štetinas: Trys laiškai buvo pasiųsti Hanzos miestams, tarp jų ir Štetinui.
+- susijęs iš [[objektai/zodynas/lėnininkai.md#claim-t-36808|lėnininkai]]: Į Vytauto kviestą susirinkimą atvyko ir pats Vytautas su gausybe lėnininkų, pasiuntinių, didikų ir kunigaikščių.
+- susijęs iš [[objektai/zodynas/pirklių kontora.md#claim-t-03119|pirklių kontora]]: Hanzos agentūros buvo vadinamos pirklių kontoromis.
+- susijęs iš [[objektai/zodynas/pirklių kontora.md#claim-t-182970|pirklių kontora]]: Polocke ir Kaune Hanza įsteigė savo agentūras, vadintas pirklių kontoromis.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -274,27 +356,17 @@ XIII amžiuje Šiaurės ir Baltijos jūrose įsigalėjo vokiškųjų miestų pir
     - t-006
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Barbora Cyleikaitė]]
-- [[objektai/asmenys/Gediminas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Pietų Lietuvos sritis]]
-- [[objektai/asmenys/Povilas Russdortas]]
-- [[objektai/grupes/Rygiečiai]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/Adynos|adynos]]
-- [[objektai/zodynas/lėnininkai]]
-- [[objektai/zodynas/pirklių kontora]]
-- [[objektai/posakiai/„Jei Šveicarijai būdinga aukšti kalnai, Italijai – meno kūriniai, Suomijai – ežerai, o Lietuvą reikėtų pavadinti kraštu, kuriame labai pavoj]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/grupes/Domininkonų ordinas]]
-- [[objektai/grupes/Hanzos sąjunga]]
-- [[objektai/grupes/Pranciškonų ordinas]]
-- [[objektai/asmenys/Zigmantas Liuksemburgietis]]
-- [[objektai/grupes/Dominikonų ordinas]]
-- [[objektai/ivykiai/Gedimino laiškų rašymas Vilniuje (1323 m. gegužės 26 d.)]]
-- [[objektai/ivykiai/Gedimino laiškų rašymas, išsiuntimas ir paskelbimas Vakarų adresatams (1323 m. gegužės 26 d.)]]
+- Hanza pastate [[objektai/vietos/Dauguva]]
+- Hanza pastate [[objektai/vietos/Kaunas]]
+- Hanza pastate [[objektai/vietos/Lietuva]]
+- Hanza pastate [[objektai/vietos/Nemunas]]
+- Hanza pastate [[objektai/vietos/Polockas]]
+- Hanza pastate [[objektai/zodynas/Adynos|adynos]]
+- [[objektai/vietos/Dorpatas]] priklause Hanza
+- Hanza priklause [[objektai/vietos/Europa]]
+- Hanza priklause [[objektai/vietos/Europos geografinis centras]]
+- Hanza priklause [[objektai/vietos/Italija]]
+- Hanza priklause [[objektai/vietos/Kaunas]]
+- Hanza priklause [[objektai/vietos/Lietuva]]
+- Hanza priklause [[objektai/vietos/Suomija]]
+- Hanza priklause [[objektai/vietos/Šveicarija]]

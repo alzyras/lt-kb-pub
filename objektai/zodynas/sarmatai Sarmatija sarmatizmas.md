@@ -24,6 +24,14 @@ Lenkijos šlėktos kildino save iš sarmatų ir tuo rėmė pažiūrą apie savo 
 - t-001
   global_id: t-185368
   teiginys: 'Lenkijos šlėktos kildino save iš sarmatų ir tuo rėmė pažiūrą apie savo protėvių įtaką Europos tautų istorijai.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys paremtas citata, bet reikėjo sutvarkyti OCR skiemenavimą ir sakinį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_object: [[objektai/zodynas/šlėkta|šlėkta]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Chotinas; mentioned_place: Europa; mentioned_place: Lenkija'
+  temporaliniai_duomenys: 'įvykio data: 1673 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys paremtas citata, bet reikėjo sutvarkyti OCR skiemenavimą ir sakinį.'
   pagrindžia:
     - c-001
 
@@ -50,9 +58,3 @@ Lenkijos šlėktos kildino save iš sarmatų ir tuo rėmė pažiūrą apie savo 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Jonas]]
-- [[objektai/zodynas/etmonas]]
-- [[objektai/zodynas/šlėkta]]

@@ -6,8 +6,9 @@ saltiniai:
 datos:
   - '1558 m.'
   - '1583 m.'
+  - '1791 m.'
 date_start: '1558'
-date_end: '1583'
+date_end: '1791'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -15,12 +16,13 @@ tags:
   - karas
 amziai:
   - 'XVI'
+  - 'XVIII'
 ---
 # Livonijos karai
 
 ## Santrauka
 
-Livonijos karuose 1558–1583 m. Lietuva ir Lenkija gavo didžiąją Livonijos dalį kartu su Ryga. Bandymai įsitvirtinti Livonijoje ir išeiti į Baltijos jūrą kėlė konfliktus tarp ATR, Rusijos ir XVII a. kariškai sustiprėjusios Švedijos. Bandymai įsitvirtinti Livonijoje ir išeiti į Baltijos jūrą kėlė konfliktus tarp ATR, Rusijos ir XVII a. kariškai sustiprėjusios Švedijos.
+Nuolatiniai karai su turkais, ypač Maskvos didžiąja kunigaikštyste (vėliau – Rusija) dėl rytinių teritorijų, bandymai išeiti į Baltijos jūrą ir įsitvirtinti Livonijoje kėlė konfliktus tarp ATR ir Rusijos bei XVII a.
 
 ## Laikotarpis ir datos
 
@@ -44,6 +46,11 @@ Nenurodyta
 - t-001
   global_id: t-45427
   teiginys: 'Livonijos karuose 1558–1583 m. Lietuva ir Lenkija gavo didžiąją Livonijos dalį kartu su Ryga.'
+  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia Livonijos karų datą ir rezultatą.'
+  susije_objektai: 'mentioned_place: Baltija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Rusija; mentioned_place: Ryga; mentioned_place: Švedija'
+  temporaliniai_duomenys: 'įvykio data: 1558-1583; įvykio data: 1583 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia Livonijos karų datą ir rezultatą.'
   pagrindžia:
     - c-002
 
@@ -51,6 +58,11 @@ Nenurodyta
 - t-002
   global_id: t-45428
   teiginys: 'Bandymai įsitvirtinti Livonijoje ir išeiti į Baltijos jūrą kėlė konfliktus tarp ATR, Rusijos ir XVII a. kariškai sustiprėjusios Švedijos.'
+  sudarymo_pagrindimas: 'Perrašyta glaudžiau ir tiksliau pagal citatos formuluotę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Baltija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Prancūzija; mentioned_place: Rusija; mentioned_place: Švedija'
+  temporaliniai_duomenys: 'įvykio data: 1791 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Perrašyta glaudžiau ir tiksliau pagal citatos formuluotę.'
   pagrindžia:
     - c-001
 
@@ -94,7 +106,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]

@@ -26,6 +26,11 @@ Dusburgietis teigia, kad kosman M.
 - t-001
   global_id: t-61102
   teiginys: 'M. Kosmano veikalas „Drogi zaniku pogaństwa u Bałtów“ išleistas Vroclave, Varšuvoje, Krokuvoje ir Gdanske 1976 m.'
+  sudarymo_pagrindimas: 'Citata pagrindžia leidinio pavadinimą, autorių ir leidimo metus.'
+  susije_objektai: 'mentioned_place: Krokuva'
+  temporaliniai_duomenys: 'įvykio data: 1976 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia leidinio pavadinimą, autorių ir leidimo metus.'
   pagrindžia:
     - c-001
 

@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Dusburgietis atskalūnybių antkrytį aiškino kaip Kristaus leistą išbandymą tikėjimo ištikimybei grūdinti. Kai prūsai buvo įtariami atskalūnybe, Notangos ir Varmės fogtas Volradas vakarieniavo su kilmingaisiais Lencenbergo pilyje. Petras Dusburgietis kuršius, iš užnugario užpuolusius krikščionis, pavadino tikrais atskalūnais.
+Dusburgietis teigia, kad išgirdę tokį sprendimą, kuršiai taip įtūžo ant tikėjimo ir tikinčiųjų, kad, broliams pradėjus pulti lietuvius, jie nelyginant tikri atskalūnai iš užpakalio nirtulingai užgriuvo krikščionis; lietuviams puolant iš priekio, o kuršiams iš užpakalio348, beveik. Dusburgietis teigia, kad visa tai leidžia daryti išvadą ir nedvejojant tikėti, kad pats Kristus, be kurio valios nieko žemėje negali įvykti, užleido ant savo tautos šį buvusių ir būsimų atskalūnybių antkrytį, norėdamas, kad nukautieji gautų danguje pelnytą atpildą, o likę gyvi. Dusburgietis teigia, kad apie Lencenbergo pilies bei daugybės prūsų sudeginimą Tuo metu, kai prūsai buvo įtariami atskalūnybe, brolis Volradas, Notangos ir Varmės fogtas, vadinamas Volradu Nuostabiuoju355 (jis iš tiesų toks buvo), vakarieniavo su minėtosios žemės kilmingaisiais.
 
 ## Teiginiai
 
@@ -23,6 +23,8 @@ Dusburgietis atskalūnybių antkrytį aiškino kaip Kristaus leistą išbandymą
 - t-001
   global_id: t-58806
   teiginys: 'Dusburgietis atskalūnybių antkrytį aiškino kaip Kristaus leistą išbandymą tikėjimo ištikimybei grūdinti.'
+  sudarymo_pagrindimas: 'Tai autoriaus religinė interpretacija, todėl reikia priskyrimo ir glaustos formos.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_person: [[objektai/asmenys/Tame (Baigos brolis)|Tame (Baigos brolis)]]; mentioned_place: Kuršas'
   pagrindžia:
     - c-002
 
@@ -30,6 +32,8 @@ Dusburgietis atskalūnybių antkrytį aiškino kaip Kristaus leistą išbandymą
 - t-002
   global_id: t-58807
   teiginys: 'Kai prūsai buvo įtariami atskalūnybe, Notangos ir Varmės fogtas Volradas vakarieniavo su kilmingaisiais Lencenbergo pilyje.'
+  sudarymo_pagrindimas: 'Teiginys yra išbaigtas, gramatiškas ir susijęs su atskalūnybės įtarimu.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; mentioned_object: [[objektai/zodynas/fogtas|fogtas]]; mentioned_place: Notanga; mentioned_place: Prūsai; mentioned_place: Varmė'
   pagrindžia:
     - c-001
 
@@ -37,6 +41,8 @@ Dusburgietis atskalūnybių antkrytį aiškino kaip Kristaus leistą išbandymą
 - t-003
   global_id: t-58808
   teiginys: 'Petras Dusburgietis kuršius, iš užnugario užpuolusius krikščionis, pavadino tikrais atskalūnais.'
+  sudarymo_pagrindimas: 'Pradiniame teiginyje neatskleistas žodyno objekto vartojimas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Noliubas|Noliubas]]; mentioned_person: [[objektai/autoriai/Petras Dusburgietis|Petras Dusburgietis]]; mentioned_place: Livonija; mentioned_place: Prūsija'
   pagrindžia:
     - c-003
 
@@ -118,16 +124,3 @@ Dusburgietis atskalūnybių antkrytį aiškino kaip Kristaus leistą išbandymą
   statusas: verified
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Drabužiai]]
-- [[objektai/grupes/Kuršiai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Noliubas]]
-- [[objektai/asmenys/Tame (Baigos brolis)]]
-- [[objektai/zodynas/netikėliai]]
-- [[objektai/autoriai/Petras Dusburgietis]]
-- [[objektai/zodynas/fogtas]]
-- [[objektai/paprociai/Belaisvių likimo sprendimas pagal visiems žinomus karo papročius]]
-- [[objektai/ivykiai/Durbės mūšis (1260 m.)]]

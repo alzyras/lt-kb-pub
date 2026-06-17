@@ -44,6 +44,8 @@ Nenurodyta
 - t-001
   global_id: t-20527
   teiginys: 'Dalis klaipėdiškių lietuvininkų nenorėjo jungtis prie Lietuvos ir siekė laisvojo miesto statuso.'
+  sudarymo_pagrindimas: 'Citata remia siauresnį teiginį apie Klaipėdos krašto statuso siekius.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Klaipėdiškiai|Klaipėdiškiai]]; mentioned_object: [[objektai/zodynas/lietuvininkai|lietuvininkai]]; mentioned_object: [[objektai/zodynas/Žynių titulai ir pareigybės|Žynių titulai ir pareigybės]]; mentioned_place: Dancigas; mentioned_place: Gdanskas; mentioned_place: Lietuva; mentioned_place: Vokietija'
   pagrindžia:
     - c-001
 
@@ -63,8 +65,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/lietuvininkai]]
-- [[objektai/zodynas/Klaipėdiškiai]]

@@ -6,8 +6,9 @@ saltiniai:
 datos:
   - '1922 m.'
   - '1923 m.'
+  - '1924 m.'
 date_start: '1922'
-date_end: '1923'
+date_end: '1924'
 sukurta: ''
 atnaujinta: ''
 tags: []
@@ -18,7 +19,7 @@ amziai:
 
 ## Santrauka
 
-Ernestas Galvanauskas nusistatė Klaipėdos kraštą užimti jėga, nes nemanė, kad Lietuva jį gaus per Tautų Sąjungą ar Ambasadorių konferenciją. Žygis į Klaipėdą buvo pristatytas kaip vietinis sukilimas; susišaudymuose žuvo 16 lietuvių ir du prancūzai. 1923 m. sausio 17 d. Vyriausias Mažosios Lietuvos gelbėjimo komitetas paskelbė sprendimą prisijungti prie Lietuvos autonominėmis teisėmis.
+Klaipėdos prisijungimas vyko kaip Lietuvos suplanuota karinė ir politinė akcija: siekta faktinės kontrolės, organizuotas vietinio sukilimo scenarijus, o 1923 m. vasario 17 d. Ambasadorių konferencija perleido suverenias Klaipėdos teises Lietuvai.
 
 ## Laikotarpis ir datos
 
@@ -48,6 +49,11 @@ Nenurodyta
 - t-001
   global_id: t-23325
   teiginys: 'Ernestas Galvanauskas nusistatė Klaipėdos kraštą užimti jėga, nes nemanė, kad Lietuva jį gaus per Tautų Sąjungą ar Ambasadorių konferenciją.'
+  sudarymo_pagrindimas: 'Išplėstas asmens vardas ir sakinys padarytas savarankiškas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/fait accompli|fait accompli]]; mentioned_person: [[objektai/asmenys/Ernestas (Livonijos žemės magistras)|Ernestas (Livonijos žemės magistras)]]; mentioned_person: [[objektai/asmenys/Ernestas Galvanauskas|Ernestas Galvanauskas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Pilsudskis|Pilsudskis]]; mentioned_place: Lietuva; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1922 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Išplėstas asmens vardas ir sakinys padarytas savarankiškas.'
   pagrindžia:
     - c-006
 
@@ -55,6 +61,8 @@ Nenurodyta
 - t-002
   global_id: t-23327
   teiginys: 'Žygis į Klaipėdą buvo pristatytas kaip vietinis sukilimas; susišaudymuose žuvo 16 lietuvių ir du prancūzai.'
+  susije_objektai: 'event: [[objektai/ivykiai/Klaipėdos prisijungimas prie Lietuvos (1923 m.)|Klaipėdos prisijungimas prie Lietuvos (1923 m.)]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Kaunas'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] dalyvavo mūšyje [[objektai/ivykiai/Klaipėdos prisijungimas prie Lietuvos (1923 m.)|Klaipėdos prisijungimas prie Lietuvos (1923 m.)]]; [[objektai/grupes/Prancūzai|Prancūzai]] dalyvavo mūšyje [[objektai/ivykiai/Klaipėdos prisijungimas prie Lietuvos (1923 m.)|Klaipėdos prisijungimas prie Lietuvos (1923 m.)]]; [[objektai/grupes/Vokiečiai|Vokiečiai]] dalyvavo mūšyje [[objektai/ivykiai/Klaipėdos prisijungimas prie Lietuvos (1923 m.)|Klaipėdos prisijungimas prie Lietuvos (1923 m.)]]'
   pagrindžia:
     - c-002
 
@@ -62,6 +70,11 @@ Nenurodyta
 - t-003
   global_id: t-23328
   teiginys: '1923 m. sausio 17 d. Vyriausias Mažosios Lietuvos gelbėjimo komitetas paskelbė sprendimą prisijungti prie Lietuvos autonominėmis teisėmis.'
+  sudarymo_pagrindimas: 'Išskleista santrumpa ir paliktas citata paremtas pagrindinis faktas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vyriausias Mažosios Lietuvos gelbėjimo komitetas|Vyriausias Mažosios Lietuvos gelbėjimo komitetas]]; mentioned_object: [[objektai/zodynas/moralinė satisfakcija|moralinė satisfakcija]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Kaunas; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1923 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Išskleista santrumpa ir paliktas citata paremtas pagrindinis faktas.'
   pagrindžia:
     - c-003
 
@@ -69,6 +82,9 @@ Nenurodyta
 - t-004
   global_id: t-23329
   teiginys: '1923 m. vasario 17 d. Ambasadorių konferencija perleido suverenias Klaipėdos teises Lietuvai.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Ambasadorių Konferencija|Ambasadorių Konferencija]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos seimas|Lietuvos seimas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/statutas|statutas]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1923 m.; įvykio data: 1924 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -76,6 +92,8 @@ Nenurodyta
 - t-005
   global_id: t-23330
   teiginys: 'Netekusi Vilniaus, Lietuva atsisuko į Mažąją Lietuvą.'
+  sudarymo_pagrindimas: 'Teiginys yra trumpas, gramatiškas ir paremtas citata apie Lietuvos orientaciją po Vilniaus netekties.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-007
 
@@ -83,6 +101,9 @@ Nenurodyta
 - t-007
   global_id: t-26645
   teiginys: 'Žygis į Klaipėdą įvyko sklandžiai, Kaunas jį pristatė kaip vietinių sukilimą, juoba kad ir vietos vokiečiai neprieštaravo.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Klaipėdos žygio eigą ir pateikimą.'
+  susije_objektai: 'event: [[objektai/ivykiai/Klaipėdos prisijungimas prie Lietuvos (1923 m.)|Klaipėdos prisijungimas prie Lietuvos (1923 m.)]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Kaunas'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] dalyvavo mūšyje [[objektai/ivykiai/Klaipėdos prisijungimas prie Lietuvos (1923 m.)|Klaipėdos prisijungimas prie Lietuvos (1923 m.)]]; [[objektai/grupes/Prancūzai|Prancūzai]] dalyvavo mūšyje [[objektai/ivykiai/Klaipėdos prisijungimas prie Lietuvos (1923 m.)|Klaipėdos prisijungimas prie Lietuvos (1923 m.)]]; [[objektai/grupes/Vokiečiai|Vokiečiai]] dalyvavo mūšyje [[objektai/ivykiai/Klaipėdos prisijungimas prie Lietuvos (1923 m.)|Klaipėdos prisijungimas prie Lietuvos (1923 m.)]]'
   pagrindžia:
     - c-005
 
@@ -90,6 +111,11 @@ Nenurodyta
 - t-008
   global_id: t-26646
   teiginys: '1923 m. sausio 17 d. Vyriausias Mažosios Lietuvos gelbėjimo komitetas nutarė prisijungti prie Lietuvos autonominėmis teisėmis ir paprašė karinės bei finansinės pagalbos.'
+  sudarymo_pagrindimas: 'Išskleista santrumpa ir sutrumpinta formuluotė, išlaikant visus citatos faktus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vyriausias Mažosios Lietuvos gelbėjimo komitetas|Vyriausias Mažosios Lietuvos gelbėjimo komitetas]]; mentioned_object: [[objektai/zodynas/moralinė satisfakcija|moralinė satisfakcija]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Kaunas; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1923 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Išskleista santrumpa ir sutrumpinta formuluotė, išlaikant visus citatos faktus.'
   pagrindžia:
     - c-003
 
@@ -97,6 +123,11 @@ Nenurodyta
 - t-009
   global_id: t-26841
   teiginys: '1923 m. sausio 17 d. VMLGK paskelbė sprendimą prisijungti prie Lietuvos autonominėmis teisėmis ir paprašė Lietuvos vyriausybės karinės bei finansinės pagalbos.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas, informatyvus ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Ambasadorių Konferencija|Ambasadorių Konferencija]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos seimas|Lietuvos seimas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1923 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas, informatyvus ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-008
 
@@ -104,6 +135,7 @@ Nenurodyta
 - t-010
   global_id: t-26842
   teiginys: 'Lietuvai liko sukilimo inscenizacijos scenarijus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bermontininkai|Bermontininkai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas Budrys (Polovinskas)|Jonas Budrys (Polovinskas)]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-004
 
@@ -111,6 +143,11 @@ Nenurodyta
 - t-011
   global_id: t-26843
   teiginys: 'Netekusi Vilniaus, Lietuva atsisuko į Mažąją Lietuvą, nes Klaipėdos uostas jai labai rūpėjo.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata leidžia pateikti turiningesnį enciklopedinį sakinį apie Klaipėdos svarbą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-009
 
@@ -269,25 +306,6 @@ Nenurodyta
     - t-011
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Ambasadorių Konferencija]]
-- [[objektai/grupes/Bermontininkai]]
-- [[objektai/asmenys/Jonas]]
-- [[objektai/asmenys/Jonas Budrys (Polovinskas)]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Lietuvos seimas|Lietuvos seimas (seimas)]]
-- [[objektai/asmenys/Pilsudskis]]
-- [[objektai/grupes/Prancūzai]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/fait accompli]]
-- [[objektai/zodynas/moralinė satisfakcija]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/statutas]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/asmenys/Ernestas (Livonijos žemės magistras)]]
-- [[objektai/asmenys/Ernestas Galvanauskas]]
-- [[objektai/grupes/Vyriausias Mažosios Lietuvos gelbėjimo komitetas]]
-- [[objektai/asmenys/Gabrielis Žanas Petisnė]]
-- [[objektai/zodynas/laisvojo miesto statusas|laisvojo miesto statusas (miestas)]]
+- [[objektai/grupes/Lietuviai]] dalyvavo_musyje Klaipėdos prisijungimas prie Lietuvos (1923 m.)
+- [[objektai/grupes/Prancūzai]] dalyvavo_musyje Klaipėdos prisijungimas prie Lietuvos (1923 m.)
+- [[objektai/grupes/Vokiečiai]] dalyvavo_musyje Klaipėdos prisijungimas prie Lietuvos (1923 m.)

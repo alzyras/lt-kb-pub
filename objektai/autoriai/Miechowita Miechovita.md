@@ -32,6 +32,11 @@ periodo_grupes:
 - t-001
   global_id: t-88034
   teiginys: 'Miechovita klaidingai teigė, kad žygio vadovavimas buvo pavestas Konradui Valenrodui kaip didžiajam magistrui.'
+  sudarymo_pagrindimas: 'Citata palaiko aiškų faktą apie Miechovitos teiginio klaidingumą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/asmenys/Konradas Valenrodas|Konradas Valenrodas]]; mentioned_person: [[objektai/autoriai/Miechovita|Miechovita]]; mentioned_place: Lietuva; mentioned_place: Prūsija'
+  temporaliniai_duomenys: 'įvykio data: 1391 m.; įvykio data: 1393 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko aiškų faktą apie Miechovitos teiginio klaidingumą.'
   pagrindžia:
     - c-001
 
@@ -75,14 +80,3 @@ periodo_grupes:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/kapitula]]
-- [[objektai/zodynas/komtūras]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/zodynas/Ordino maršalas didysis maršalas]]
-- [[objektai/zodynas/didysis komtūras arkikomtūras]]
-- [[objektai/zodynas/didysis magistras]]

@@ -30,6 +30,11 @@ Dusburgietis teigia, kad tarasenkos užfiksuota kartografine medžiaga, tapatint
 - t-001
   global_id: t-61010
   teiginys: 'P. Tarasenkos užfiksuota kartografinė medžiaga naudota D. Skronaitei tapatinti su vietove prie Mituvos aukštupio, Skeršpile.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, bet citata pagrindžia konkretų faktą apie šaltinio panaudojimą.'
+  susije_objektai: 'mentioned_place: Jurbarkas; mentioned_place: Lietuva; mentioned_place: Mituva'
+  temporaliniai_duomenys: 'įvykio data: 1915 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs, bet citata pagrindžia konkretų faktą apie šaltinio panaudojimą.'
   pagrindžia:
     - c-001
 
@@ -37,6 +42,11 @@ Dusburgietis teigia, kad tarasenkos užfiksuota kartografine medžiaga, tapatint
 - t-002
   global_id: t-61011
   teiginys: 'P. Tarasenkos „Lietuvos archeologijos medžiaga“ išleista 1928 m.; leidimo vieta citatoje nurodyta santrumpa „K.“.'
+  sudarymo_pagrindimas: 'Citata pagrindžia bibliografinį leidimo faktą.'
+  susije_objektai: 'mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1928 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia bibliografinį leidimo faktą.'
   pagrindžia:
     - c-002
 

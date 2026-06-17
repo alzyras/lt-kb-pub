@@ -11,7 +11,7 @@ tags: []
 
 ## Santrauka
 
-Aisčiai namuose laikė šventuosius žalčius kaip namų globėjus, o juos įvesdavo į paskirtą guolį su apeigomis.
+Aisčiai namuose laikė šventuosius žalčius kaip namų globėjus, o juos įvesdavo į paskirtą guolį su apeigomis. Pagarba žalčiams kai kur išlikusi ir vėliau, dar visai neseniai žalčiai buvo laikomi senose trobose.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -30,16 +30,18 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-003
+
+<a id="claim-t-06867"></a>
+- t-001
+  global_id: t-06867
   teiginys: 'Aisčiai namuose laikė šventuosius žalčius kaip namų globėjus, o juos įvesdavo į paskirtą guolį su apeigomis.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Aisčiai namuose laikė šventuosius žalčius kaip namų globėjus, o juos įvesdavo į paskirtą guolį su apeigomis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kaip visoje gamtoje buvo pilna dievybių, taip jų buvo apstu
@@ -48,17 +50,8 @@ Nenurodyta
     komi šventieji gyvuliai, ypač žalčiai. Į paskirtą guolį jie
     būdavo įvedami su tam tikromis apeigomis ir ten buvo laikomi,
     kaip namų globėjai.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-003
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/religinė-praktika]]
-
-### Susiję objektai
-- [[objektai/grupes/Aisčiai]]
+    - t-001

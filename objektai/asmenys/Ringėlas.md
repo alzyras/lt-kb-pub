@@ -22,9 +22,12 @@ Dusburgietis teigia, kad jis vis dėlto per daug delsė, nežinodamas, kokie sta
 - t-001
   global_id: t-60425
   teiginys: 'Ringėlas buvo karaliaus vėliavas gavusio vyro brolis ir buvo nužudytas kartu su jo šeimyna bei giminėmis.'
+  sudarymo_pagrindimas: 'Citata pagrindžia Ringėlo ryšį ir žūtį, bet pradinis teiginys turi neaiškių įvardžių.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Semba'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Gedūnas.md#claim-t-60017|Gedūnas]]: Gedūnas grįžęs rado savo ir saviškių kiemus sudegintus, o šeimyną, brolį Ringėlą ir gimines išžudytus.
+- susijęs iš [[objektai/zodynas/kiemai habitaciones curia.md#claim-t-184005|kiemai habitaciones curia]]: Teutonams nusiaubus valdas, vyras rado savo ir saviškių kiemus sudegintus, o šeimyną, brolį Ringėlą ir gimines išžudytus.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -64,9 +67,3 @@ Dusburgietis teigia, kad jis vis dėlto per daug delsė, nežinodamas, kokie sta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/žygis]]
-- [[objektai/zodynas/kiemai habitaciones curia]]
-- [[objektai/paprociai/Karaliaus vėliavų iškabinimas prie žemių ir kiemų apsaugai]]

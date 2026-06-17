@@ -33,6 +33,11 @@ Nenurodyta
 - t-001
   global_id: t-185870
   teiginys: 'Kojelavičiaus pasakojime ištikimybė protėvių religijai ir papročiams siejama su lietuvių pagonių valstybės kūrimu.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Perrašyta glaudžiau susiejant faktą su papročio objektu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_object: [[objektai/zodynas/pagonys|pagonys]]; mentioned_object: [[objektai/zodynas/piktadarystė|piktadarystė]]'
   pagrindžia:
     - c-001
 
@@ -40,6 +45,11 @@ Nenurodyta
 - t-002
   global_id: t-185871
   teiginys: 'Kojelavičiaus pasakojime lietuviai pagonys, ištikimi protėvių religijai ir papročiams, sukūrė Lietuvos valstybę.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys perrašytas kaip aiškus vienas sakinys be perteklinio pasikartojimo.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/apostazija|apostazija]]; mentioned_object: [[objektai/zodynas/pagonys|pagonys]]; mentioned_person: [[objektai/autoriai/Petras Skarga|Petras Skarga]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -84,14 +94,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/autoriai/Petras Skarga]]
-- [[objektai/zodynas/apostazija]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/pagonys]]
-- [[objektai/zodynas/piktadarystė]]
-- [[objektai/zodynas/pagonybė]]
-- [[objektai/zodynas/erezija]]

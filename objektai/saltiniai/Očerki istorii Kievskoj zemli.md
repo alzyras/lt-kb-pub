@@ -28,6 +28,9 @@ Gruševskij : Očerki istorii Kievskoj zemli (Kijevas 1891) ; Istorija Ukraini-R
 - t-001
   global_id: t-31875
   teiginys: 'M. Gruševskio „Očerki istorii Kievskoj zemli“ išleista Kijeve 1891 m.'
+  susije_objektai: 'mentioned_place: Kijevas; mentioned_place: Maskva'
+  temporaliniai_duomenys: 'įvykio data: 1891 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

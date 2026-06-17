@@ -5,6 +5,8 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1944 m.'
+  - '1945 m.'
+  - '1946 m.'
   - '1954 m.'
 date_start: '1944'
 date_end: '1954'
@@ -19,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Nemažai stribų buvo laikomi abejotinos moralės ir neautoritetingais, todėl būrių pavadinimą nutarta keisti iš naikintojų į liaudies gynėjų. Kovai su lietuvių partizanais okupacinė valdžia prie NKVD įkūrė naikintojų batalionus, lietuvių vadintus stribais. Nemažai stribų buvo laikomi abejotinos moralės ir neautoritetingais, todėl būrių pavadinimą nutarta keisti iš naikintojų į liaudies gynėjų.
+Kovai su lietuvių partizanais okupacinė valdžia prie NKVD įkūrė „naikintojų batalionus“, lietuvių vadintus stribais (santrumpa nuo rus. Nemažai stribų buvo abejotinos moralės asmenys, autoriteto jie neturėjo, greitai sumota būrių pavadinimą pakeisti iš „naikintojų“ į „liaudies gynėjų“.
 
 ## Teiginiai
 
@@ -27,6 +29,8 @@ Nemažai stribų buvo laikomi abejotinos moralės ir neautoritetingais, todėl b
 - t-001
   global_id: t-70338
   teiginys: 'Nemažai stribų buvo laikomi abejotinos moralės ir neautoritetingais, todėl būrių pavadinimą nutarta keisti iš naikintojų į liaudies gynėjų.'
+  sudarymo_pagrindimas: 'Sakinys perrašytas sklandžiau, pašalinant OCR triukšmo įtaką ir išlaikant citatos faktus.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas Žemaitis-Vytautas|Jonas Žemaitis-Vytautas]]'
   pagrindžia:
     - c-002
 
@@ -34,6 +38,14 @@ Nemažai stribų buvo laikomi abejotinos moralės ir neautoritetingais, todėl b
 - t-002
   global_id: t-183466
   teiginys: 'Kovai su lietuvių partizanais okupacinė valdžia prie NKVD įkūrė naikintojų batalionus, lietuvių vadintus stribais.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Sakinys pilnas ir paaiškina stribų ryšį su naikintojų batalionais.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/NKGB|NKGB]]; mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įkūrimo data: 1944-1954; įkūrimo data: 1945 m.; įkūrimo data: 1946 m.; įkūrimo data: 1954 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Sakinys pilnas ir paaiškina stribų ryšį su naikintojų batalionais.'
   pagrindžia:
     - c-001
 
@@ -84,13 +96,3 @@ Nemažai stribų buvo laikomi abejotinos moralės ir neautoritetingais, todėl b
   pagrindžia:
     - t-003
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Ginklai]]
-- [[objektai/asmenys/Jonas]]
-- [[objektai/asmenys/Jonas Žemaitis-Vytautas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/NKGB]]
-- [[objektai/grupes/NKVD]]
-- [[objektai/ivykiai/Sovietinių represinių struktūrų kova su Lietuvos partizanais (1944–1954 m.)]]

@@ -36,6 +36,11 @@ Nenurodyta
 - t-001
   global_id: t-185840
   teiginys: 'Fiodoras Ostrogiškis netikėtai užpuolė Podolę ir netrukus ją sugrąžino Boleslovui Švitrigailai.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Įvardytas numanomas veikėjas ir pašalinta fragmentiška forma.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Fiodoras|Fiodoras]]; mentioned_person: [[objektai/asmenys/Fiodoras Ostrogiškis|Fiodoras Ostrogiškis]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Podolė'
   pagrindžia:
     - c-001
 
@@ -57,11 +62,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Fiodoras]]
-- [[objektai/zodynas/vaivada]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/asmenys/Fiodoras Ostrogiškis]]
-- [[objektai/asmenys/Švitrigaila]]

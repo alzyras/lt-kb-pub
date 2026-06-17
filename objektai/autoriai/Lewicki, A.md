@@ -29,6 +29,11 @@ Lewicki, A.: Kiedy Witold został wielkiem księciem Litwy, KH, t.
 - t-001
   global_id: t-54132
   teiginys: 'A. Lewicki 1894 m. paskelbė darbą „Kiedy Witold został wielkiem księciem Litwy“.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas bibliografinis faktas, paremtas citata.'
+  susije_objektai: 'mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1894 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas bibliografinis faktas, paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -36,6 +41,9 @@ Lewicki, A.: Kiedy Witold został wielkiem księciem Litwy, KH, t.
 - t-002
   global_id: t-54133
   teiginys: 'A. Lewicki parašė straipsnį „Kiedy Witold został wielkiem księciem Litwy“, paskelbtą KH 1894 m.'
+  susije_objektai: 'mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1894 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

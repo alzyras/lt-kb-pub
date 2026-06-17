@@ -26,6 +26,11 @@ Dusburgietis teigia, kad prūsų kalba —MLTE, 1968, 2, p. 935—936.
 - t-001
   global_id: t-61265
   teiginys: '„Prūsų kalba“ nurodyta kaip MLTE 1968 m. antro tomo 935–936 puslapių publikacija.'
+  sudarymo_pagrindimas: 'Citata pagrindžia bibliografinį įrašą, o pradinis teiginys neturi predikato.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Prūsai; mentioned_place: Prūsija'
+  temporaliniai_duomenys: 'įvykio data: 1968 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia bibliografinį įrašą, o pradinis teiginys neturi predikato.'
   pagrindžia:
     - c-001
 

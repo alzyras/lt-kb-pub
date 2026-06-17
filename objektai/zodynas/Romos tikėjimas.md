@@ -11,7 +11,7 @@ atnaujinta: ''
 
 ## Santrauka
 
-Maskvos valdovas kaltino Aleksandrą įsakius Vaitiekui Taborui ir Juozapui Soltanui raginti Eleną pereiti į Romos tikėjimą. Algirdo laikais Lietuvoje, kronikos teigimu, Romos tikėjimo nebebuvo, liko vien rusų tikėjimas.
+Maskvos valdovas kaltino Aleksandrą įsakius Vaitiekui Taborui ir Juozapui Soltanui raginti Eleną pereiti į Romos tikėjimą. Lietuvos metraštis vaizduoja, kad Algirdo laikais Lietuvoje Romos tikėjimo jau nebuvo, liko vien rusų tikėjimas.
 
 ## Teiginiai
 
@@ -19,13 +19,23 @@ Maskvos valdovas kaltino Aleksandrą įsakius Vaitiekui Taborui ir Juozapui Solt
 - t-001
   global_id: t-185409
   teiginys: 'Maskvos valdovas kaltino Aleksandrą įsakius Vaitiekui Taborui ir Juozapui Soltanui raginti Eleną pereiti į Romos tikėjimą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata pateikia kaltinimą, todėl reikia nurodyti pranešamą poziciją.'
+  susije_objektai: 'territory: Maskva; territory: Smolenskas; territory: Vilnius; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Taurės|Taurės]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_person: [[objektai/asmenys/Juozapas (Konstantinopolio patriarchas)|Juozapas (Konstantinopolio patriarchas)]]; mentioned_person: [[objektai/asmenys/Vaitiekus (Lucko vyskupas)|Vaitiekus (Lucko vyskupas)]]; mentioned_place: Maskva; mentioned_place: Smolenskas; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
 <a id="claim-t-187526"></a>
 - t-002
   global_id: t-187526
-  teiginys: 'Algirdo laikais Lietuvoje, kronikos teigimu, Romos tikėjimo nebebuvo, liko vien rusų tikėjimas.'
+  teiginys: 'Lietuvos metraštis vaizduoja, kad Algirdo laikais Lietuvoje Romos tikėjimo jau nebuvo, liko vien rusų tikėjimas.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Religinis vertinimas pagal profilį turi likti priskirtas metraščiui.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_object: [[objektai/zodynas/rusų tikėjimas|rusų tikėjimas]]; mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Kamenecas; mentioned_place: Lietuva; mentioned_place: Podolė; mentioned_place: Vilnius; mentioned_place: Vitebskas'
   pagrindžia:
     - c-002
 
@@ -61,7 +71,7 @@ Maskvos valdovas kaltino Aleksandrą įsakius Vaitiekui Taborui ir Juozapui Solt
     - t-001
 
 - c-002
-  santrauka: 'Algirdo laikais Lietuvoje, kronikos teigimu, Romos tikėjimo nebebuvo, liko vien rusų tikėjimas.'
+  santrauka: 'Lietuvos metraštis vaizduoja, kad Algirdo laikais Lietuvoje Romos tikėjimo jau nebuvo, liko vien rusų tikėjimas.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     76
@@ -82,16 +92,3 @@ Maskvos valdovas kaltino Aleksandrą įsakius Vaitiekui Taborui ir Juozapui Solt
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]
-- [[objektai/asmenys/Juozapas (Konstantinopolio patriarchas)]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Pranciškonų ordinas]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/asmenys/Vaitiekus (Lucko vyskupas)]]
-- [[objektai/zodynas/seniūnas]]
-- [[objektai/zodynas/rusų tikėjimas]]
-- [[objektai/ivykiai/Maskvos valdovo karo paskelbimas Aleksandrui]]

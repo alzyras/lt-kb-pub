@@ -4,9 +4,10 @@ pavadinimas: 'Lietuvos laisvės lyga'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
+  - '1976 m.'
   - '1978 m.'
-date_start: '1978'
-date_end: ''
+date_start: '1976'
+date_end: '1978'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -20,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Lietuvos laisvės lyga nuo 1976 m. pogrindyje leido laikraštį „Laisvės šauklys“, o nuo 1978 m. – žurnalą „Vytis“. 1978 m. įkurtos Lietuvos laisvės lygos tikslas buvo atkurti nepriklausomą Lietuvą ir kelti Lietuvos laisvės klausimą tarptautiniuose forumuose. Lietuvos laisvės lyga siekė ne reformuoti SSRS, o taikiomis priemonėmis atkurti Lietuvos nepriklausomybę.
+LLL Lietuvos laisvės lyga. Savo aktyvumu išsiskyrė 1978 m. įkurta Lietuvos laisvės lyga ( LLL), kurios tikslas – nepriklausomos Lietuvos atkūrimas, religinės, tautinės ir politinės sąmonės ugdymas, Lietuvos laisvės klausimo kėlimas tarptautiniuose forumuose. LLL įkūrėjas ir vadovas Antanas Terleckas save vadino rezistentu, jo supratimu, LLL siekė ne reformuoti SSRS, o atkurti Lietuvos nepriklausomybę taikiomis priemonėmis.
 
 ## Teiginiai
 
@@ -28,6 +29,11 @@ Lietuvos laisvės lyga nuo 1976 m. pogrindyje leido laikraštį „Laisvės šau
 - t-001
   global_id: t-74752
   teiginys: 'Lietuvos laisvės lyga nuo 1976 m. pogrindyje leido laikraštį „Laisvės šauklys“, o nuo 1978 m. – žurnalą „Vytis“.'
+  sudarymo_pagrindimas: 'Santrumpa išplėsta, pašalinta neapibrėžta frazė apie kitus leidinius.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_person: [[objektai/asmenys/Antanas Terleckas|Antanas Terleckas]]; mentioned_person: [[objektai/asmenys/Romaldas Juozas Ragaišis|Romaldas Juozas Ragaišis]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: po 1976 m.; įvykio data: 1976 m.; įvykio data: po 1978 m.; įvykio data: 1978 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Santrumpa išplėsta, pašalinta neapibrėžta frazė apie kitus leidinius.'
   pagrindžia:
     - c-001
 
@@ -35,6 +41,11 @@ Lietuvos laisvės lyga nuo 1976 m. pogrindyje leido laikraštį „Laisvės šau
 - t-002
   global_id: t-74754
   teiginys: '1978 m. įkurtos Lietuvos laisvės lygos tikslas buvo atkurti nepriklausomą Lietuvą ir kelti Lietuvos laisvės klausimą tarptautiniuose forumuose.'
+  sudarymo_pagrindimas: 'Teiginys paremtas citata, bet per ilgas ir taisytinas dėl santrumpos triukšmo.'
+  susije_objektai: 'mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1978 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys paremtas citata, bet per ilgas ir taisytinas dėl santrumpos triukšmo.'
   pagrindžia:
     - c-002
 
@@ -42,9 +53,25 @@ Lietuvos laisvės lyga nuo 1976 m. pogrindyje leido laikraštį „Laisvės šau
 - t-003
   global_id: t-74756
   teiginys: 'Lietuvos laisvės lyga siekė ne reformuoti SSRS, o taikiomis priemonėmis atkurti Lietuvos nepriklausomybę.'
+  sudarymo_pagrindimas: 'Santrumpa išplėsta į pilną organizacijos pavadinimą, teiginys sutrumpintas.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_person: [[objektai/asmenys/Antanas Terleckas|Antanas Terleckas]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1978 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Santrumpa išplėsta į pilną organizacijos pavadinimą, teiginys sutrumpintas.'
   pagrindžia:
     - c-003
-
+- susijęs iš [[objektai/asmenys/Antanas Terleckas.md#claim-t-18826|Antanas Terleckas]]: Antanas Terleckas priklausė prieš sovietų santvarką kovojusiems asmenims ir buvo teistas tris kartus.
+- susijęs iš [[objektai/asmenys/Romaldas Juozas Ragaišis.md#claim-t-19206|Romaldas Juozas Ragaišis]]: Romaldas Juozas Ragaišis priklausė Lietuvos laisvės lygai ir buvo tris kartus teistas.
+- susijęs iš [[objektai/asmenys/Antanas Terleckas.md#claim-t-18827|Antanas Terleckas]]: Antanas Terleckas, LLL įkūrėjas ir vadovas, save vadino rezistentu ir siekė taikiomis priemonėmis atkurti Lietuvos nepriklausomybę.
+- susijęs iš [[objektai/asmenys/Nijolė Sadūnaitė.md#claim-t-19173|Nijolė Sadūnaitė]]: Nijolė Sadūnaitė buvo kalinta už kovą prieš sovietų santvarką.
+- susijęs iš [[objektai/asmenys/Petras Cidzikas.md#claim-t-19190|Petras Cidzikas]]: Petras Cidzikas buvo kalintas už kovą prieš sovietų santvarką.
+- susijęs iš [[objektai/grupes/Lietuvos disidentai.md#claim-t-74670|Lietuvos disidentai]]: Sovietinė valdžia žinomus Lietuvos disidentus išsiųsdavo iš Sovietų Sąjungos, o kitus suimdavo ir nuteisdavo.
+- susijęs iš [[objektai/grupes/Lietuvos disidentai.md#claim-t-74672|Lietuvos disidentai]]: Lietuvos disidentai, skirtingai nei katalikų opozicija, kėlė Lietuvos laisvės klausimus.
+- susijęs iš [[objektai/ivykiai/LLL mitingas prie Adomo Mickevičiaus paminklo Vilniuje (1987 m. rugpjūčio 23 d.).md#claim-t-20247|LLL mitingas prie Adomo Mickevičiaus paminklo Vilniuje (1987 m. rugpjūčio 23 d.)]]: Lietuvos laisvės lyga Vilniuje surengė pirmąjį sovietmečiu viešą nesankcionuotą mitingą Molotovo–Ribentropo paktui paminėti.
+- susijęs iš [[objektai/ivykiai/Lietuvos laisvės lygos įkūrimas (1978 m.).md#claim-t-20327|Lietuvos laisvės lygos įkūrimas (1978 m.)]]: 1978 m. įkurta Lietuvos laisvės lyga siekė atkurti nepriklausomą Lietuvą, ugdyti religinę, tautinę ir politinę sąmonę bei kelti Lietuvos laisvės klausimą tarptautiniuose forumuose.
+- susijęs iš Laisvės šauklys: Lietuvos laisvės lyga pogrindyje nuo 1976 m. leido laikraštį „Laisvės šauklys“.
+- susijęs iš Vytis (Lietuvos laisvės lygos žurnalas): Lietuvos laisvės lyga pogrindyje nuo 1978 m. leido žurnalą „Vytis“.
+- susijęs iš [[objektai/zodynas/brežnevinė stagnacija.md#claim-t-77789|brežnevinė stagnacija]]: Lietuvos laisvės lyga brežnevinės stagnacijos laikotarpiu gaivino pasipriešinimo tradiciją ir dvasią.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -102,14 +129,4 @@ Lietuvos laisvės lyga nuo 1976 m. pogrindyje leido laikraštį „Laisvės šau
     - t-003
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Antanas (vaistininkas)]]
-- [[objektai/asmenys/Antanas Terleckas]]
-- [[objektai/asmenys/Romaldas Juozas Ragaišis]]
-- [[objektai/grupes/Lietuvos disidentai]]
-- [[objektai/ivykiai/Lietuvos laisvės lygos įkūrimas (1978 m.)]]
-- [[objektai/asmenys/Nijolė Sadūnaitė]]
-- [[objektai/asmenys/Petras Cidzikas]]
-- [[objektai/ivykiai/LLL mitingas prie Adomo Mickevičiaus paminklo Vilniuje (1987 m. rugpjūčio 23 d.)]]
-- [[objektai/zodynas/brežnevinė stagnacija]]
-- [[objektai/zodynas/pogrindis pogrindiniai leidiniai nelegali spauda]]
+- [[objektai/asmenys/Antanas (vaistininkas)]] susije_su Lietuvos laisvės lyga

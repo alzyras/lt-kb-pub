@@ -3,10 +3,18 @@ tipas: asmuo
 pavadinimas: 'Nijolė Sadūnaitė'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1978 m.'
+date_start: '1978'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'XX a.'
 ---
 # Nijolė Sadūnaitė
 
@@ -20,6 +28,11 @@ Terleckas – teisti po tris kartus, kalinti Nijolė Sadūnaitė, Petras Cidzika
 - t-001
   global_id: t-19173
   teiginys: 'Nijolė Sadūnaitė buvo kalinta už kovą prieš sovietų santvarką.'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo fragmentiškas, citata palaiko aiškų sakinį apie asmenį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos laisvės lyga|Lietuvos laisvės lyga]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_person: [[objektai/asmenys/Antanas Terleckas|Antanas Terleckas]]; mentioned_person: [[objektai/asmenys/Petras Cidzikas|Petras Cidzikas]]; mentioned_person: [[objektai/asmenys/Romaldas Juozas Ragaišis|Romaldas Juozas Ragaišis]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1978 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys buvo fragmentiškas, citata palaiko aiškų sakinį apie asmenį.'
   pagrindžia:
     - c-001
 
@@ -42,8 +55,3 @@ Terleckas – teisti po tris kartus, kalinti Nijolė Sadūnaitė, Petras Cidzika
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuvos laisvės lyga]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

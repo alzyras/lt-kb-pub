@@ -27,6 +27,11 @@ XVI ## Puslapis 17 MYKOLAS B A L I N S K I S niaus MIESTO ISTORIJA Haec omnia, q
 - t-001
   global_id: t-88472
   teiginys: 'Rotundas 1560 m. vasario 12 d. Mikalojui Radvilai įteikė savo Lietuvos istoriją, kurios rankraštis yra dingęs.'
+  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytą datą, asmenis ir rankraščio būklę.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_person: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1560 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia citatoje nurodytą datą, asmenis ir rankraščio būklę.'
   pagrindžia:
     - c-001
 

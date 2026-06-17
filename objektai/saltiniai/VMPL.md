@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-VMPL I tomo 693 numeris cituojamas prie susitarimo, kurį abi pusės patvirtino priesaika.
+Abi pusi tą susitarimą patvirtino priesaiko- (^5) VMPL, I, nr.
 
 ## Teiginiai
 
@@ -20,6 +20,8 @@ VMPL I tomo 693 numeris cituojamas prie susitarimo, kurį abi pusės patvirtino 
 - t-001
   global_id: t-100142
   teiginys: 'VMPL I tomo 693 numeris cituojamas prie susitarimo, kurį abi pusės patvirtino priesaika.'
+  sudarymo_pagrindimas: 'Citata palaiko VMPL nuorodą ir jos ryšį su aprašytu priesaika patvirtintu susitarimu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vengrija'
   pagrindžia:
     - c-001
 

@@ -20,6 +20,7 @@ Sapiegos ir T. Sapiegos husarų ir petihorų vėliavos atlaikyti pagrindinį Šv
 - t-001
   global_id: t-53890
   teiginys: 'Maršalas A. P. Sapiega pasitraukė kartu su B. P. Sapiega ir totorių vėliavomis.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Respublikonai|Respublikonai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/daiktai/Vėliavos|Vėliavos]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/B. P. Sapiega|B. P. Sapiega]]'
   pagrindžia:
     - c-002
 
@@ -27,6 +28,8 @@ Sapiegos ir T. Sapiegos husarų ir petihorų vėliavos atlaikyti pagrindinį Šv
 - t-002
   global_id: t-53891
   teiginys: 'J. P. Sapiegos ir T. Dambravos raiteliai flanguose susikovė su atakuojančia švedų kavalerija.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie J. P. Sapiegos raitelių veiksmą ir atitinka citatą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sapiegos|Sapiegos]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Dambrava'
   pagrindžia:
     - c-001
 
@@ -34,6 +37,8 @@ Sapiegos ir T. Sapiegos husarų ir petihorų vėliavos atlaikyti pagrindinį Šv
 - t-003
   global_id: t-53892
   teiginys: 'J. P. Sapiegos vėliavos kartu su M. Vielamovskio ir M. Giedraičio vėliavomis sumušė generolo H. Branto kavaleriją.'
+  sudarymo_pagrindimas: 'Citata geriau pagrindžia konkretų rezultatą, o ne klausiamą formuluotę apie užduotį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Sapiegos|Sapiegos]]; mentioned_object: [[objektai/daiktai/Vėliavos|Vėliavos]]; mentioned_object: [[objektai/zodynas/husarai|husarai]]; mentioned_object: [[objektai/zodynas/rotmistras|rotmistras]]; mentioned_place: Lietuva; mentioned_place: Švedija'
   pagrindžia:
     - c-003
 
@@ -88,17 +93,3 @@ Sapiegos ir T. Sapiegos husarų ir petihorų vėliavos atlaikyti pagrindinį Šv
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bajorai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Respublikonai]]
-- [[objektai/grupes/Sapiegos]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/daiktai/Vėliavos]]
-- [[objektai/zodynas/husarai]]
-- [[objektai/zodynas/rotmistras]]
-- [[objektai/grupes/Švedai]]
-- [[objektai/zodynas/maršalas]]
-- [[objektai/zodynas/petihorai]]

@@ -16,7 +16,7 @@ tags:
 
 ## Santrauka
 
-Valstiečių prievolės dvarui gausėjo, o iš valstiečio kiemo reikėjo siųsti vis daugiau darbo rankų į dvaro laukus. Kai kurių sričių valstiečiai greta duoklių produktais ir gaminiais anksti mokėjo sidabrinę duoklę pinigais. XV a. pradžioje, Vytauto laikais, dauguma Lietuvos valstiečių dar buvo laisvieji ūkininkai.
+Vytauto laikais, daugumas valstiečių Lietuvoje dar buvo laisvieji ūkininkai. O nesant pinigų arba labai maža jų esant, valstiečiai ir mokesčius mokėjo savo ūkio produktais: javais, šienu, gyvuliais, kiaušiniais ir t. Bet, greta visų rinkliavų ūkio produktais ir amatininkų gaminiais, kai kurių sričių valstiečiai jau labai anksti taip pat mokėjo ir vadinamąją sidabrinę (sidabrinę duoklę, t.
 
 ## Laikotarpis ir datos
 
@@ -39,27 +39,36 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 <a id="claim-t-05370"></a>
 - t-001
   global_id: t-05370
   teiginys: 'Valstiečių prievolės dvarui gausėjo, o iš valstiečio kiemo reikėjo siųsti vis daugiau darbo rankų į dvaro laukus.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]'
   pagrindžia:
     - c-001
 
-- t-007
-  teiginys: 'XV a. pradžioje, Vytauto laikais, dauguma Lietuvos valstiečių dar buvo laisvieji ūkininkai.'
-  pagrindžia:
-    - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-008
+<a id="claim-t-97142"></a>
+- t-002
+  global_id: t-97142
   teiginys: 'Kai kurių sričių valstiečiai greta duoklių produktais ir gaminiais anksti mokėjo sidabrinę duoklę pinigais.'
+  sudarymo_pagrindimas: 'Reikia glaudesnio, mažiau pasikartojančio enciklopedinio sakinio.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vežimai|Vežimai]]; mentioned_object: [[objektai/zodynas/duoklė|duoklė]]; mentioned_place: Kaunas'
   pagrindžia:
     - c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+
+<a id="claim-t-97143"></a>
+- t-003
+  global_id: t-97143
+  teiginys: 'XV a. pradžioje, Vytauto laikais, dauguma Lietuvos valstiečių dar buvo laisvieji ūkininkai.'
+  sudarymo_pagrindimas: 'Reikia pataisyti skyrybą ir sklandžiau suformuluoti faktą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_place: Lietuva'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Valstiečių prievolės dvarui gausėjo, o iš valstiečio kiemo reikėjo siųsti vis daugiau darbo rankų į dvaro laukus.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -77,6 +86,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'XV a. pradžioje, Vytauto laikais, dauguma Lietuvos valstiečių dar buvo laisvieji ūkininkai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -90,13 +100,12 @@ Nenurodyta
     jorų žemėse, buvo valstiečių, kurie buvo pririšti prie pavestojo
     žemės ploto ir turėjo nustatytas pareigas; tokie valstiečiai vadi-
     nosi nelaisvaisiais.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-007
+    - t-003
+
 - c-003
   santrauka: 'Kai kurių sričių valstiečiai greta duoklių produktais ir gaminiais anksti mokėjo sidabrinę duoklę pinigais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -111,17 +120,8 @@ Nenurodyta
     miniais, kai kurių sričių valstiečiai jau labai anksti taip pat mo-
     kėjo ir vadinamąją sidabrinę (sidabrinę duoklę, t. y. mo-
     kestį sidabriniais pinigais).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-008
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bajorai]]
-- [[objektai/daiktai/Vežimai]]
-- [[objektai/zodynas/ponai]]
-- [[objektai/zodynas/duoklė]]
+    - t-002

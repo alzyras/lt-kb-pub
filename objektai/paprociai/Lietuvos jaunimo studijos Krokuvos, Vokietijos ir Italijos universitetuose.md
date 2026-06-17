@@ -42,6 +42,7 @@ Nenurodyta
 - t-001
   global_id: t-54297
   teiginys: 'Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose prisidėjo prie europinės kultūros įsisavinimo.'
+  susije_objektai: 'mentioned_place: Italija; mentioned_place: Lietuva; mentioned_place: Vokietija'
   pagrindžia:
     - c-002
 
@@ -49,6 +50,7 @@ Nenurodyta
 - t-002
   global_id: t-54298
   teiginys: 'Didžiausią įtaką Lietuvos kultūrai darė lenkiškoji civilizacija, veikusi per bažnytinę sistemą, studijas Krokuvoje, administraciją ir ūkio reformą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_person: [[objektai/autoriai/Mykolas Lietuvis|Mykolas Lietuvis]]; mentioned_place: Krokuva; mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -56,6 +58,7 @@ Nenurodyta
 - t-003
   global_id: t-54299
   teiginys: 'Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose buvo svarbios europinės kultūros įsisavinimui.'
+  susije_objektai: 'mentioned_place: Italija; mentioned_place: Lietuva; mentioned_place: Vokietija'
   pagrindžia:
     - c-002
 
@@ -63,6 +66,7 @@ Nenurodyta
 - t-004
   global_id: t-54300
   teiginys: 'Studijos Krokuvos universitete buvo vienas lenkiškosios civilizacijos poveikio Lietuvos kultūrai būdų.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_person: [[objektai/autoriai/Mykolas Lietuvis|Mykolas Lietuvis]]; mentioned_place: Krokuva; mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -70,9 +74,14 @@ Nenurodyta
 - t-005
   global_id: t-183322
   teiginys: 'Lenkiškoji civilizacija darė didžiausią įtaką Lietuvos kultūrai per bažnytinę sistemą, studijas Krokuvoje, administraciją ir ūkio reformą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis teiginys prasideda kontekstiniu jungtuku; perrašyta kaip savarankiškas sakinys.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/reformacija|reformacija]]; mentioned_place: Europa; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-003
-
+- susijęs iš Krokuva: Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose prisidėjo prie europinės kultūros įsisavinimo.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -121,10 +130,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-005
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Mykolas]]
-- [[objektai/autoriai/Mykolas Lietuvis]]
-- [[objektai/grupes/Rusėnai]]
-- [[objektai/zodynas/reformacija]]

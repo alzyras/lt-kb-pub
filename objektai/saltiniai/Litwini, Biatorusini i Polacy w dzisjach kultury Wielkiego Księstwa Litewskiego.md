@@ -26,6 +26,9 @@ amziai:
 - t-001
   global_id: t-31832
   teiginys: 'W. Wielhorskio „Litwini, Biatorusini i Polacy w dzisjach kultury Wielkiego Księstwa Litewskiego“ išėjo Londone 1951 m.'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Londonas'
+  temporaliniai_duomenys: 'įvykio data: 1951 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

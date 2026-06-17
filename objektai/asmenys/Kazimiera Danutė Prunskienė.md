@@ -20,6 +20,7 @@ Pretekstu tapo Lietuvos Vyriausybės, vadovaujamos Kazimieros Danutės Prunskien
 - t-001
   global_id: t-40278
   teiginys: 'Kazimieros Danutės Prunskienės vadovaujama Lietuvos Vyriausybė, nepaisydama AT prieštaravimo, pakėlė maisto produktų kainas.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Danutė|Danutė]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

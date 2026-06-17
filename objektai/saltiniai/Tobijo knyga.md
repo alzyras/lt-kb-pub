@@ -22,6 +22,8 @@ Dusburgietis teigia, kad mat jie turėjo omenyje Tobijo (Tob 12,7) žodžius, ka
 - t-001
   global_id: t-61316
   teiginys: 'Petras Dusburgietis dedikacijoje remiasi Tobijo knygos žodžiais, kad apreikšti Dievo darbus yra šlovinga.'
+  sudarymo_pagrindimas: 'Teiginys susijęs su autoriaus rėmimusi bibliniu tekstu, todėl reikia aiškios atribucijos.'
+  susije_objektai: 'mentioned_object: [[objektai/posakiai/apreikšti dievo darbus yra šlovinga|apreikšti dievo darbus yra šlovinga]]; mentioned_object: [[objektai/posakiai/šio šventojo žygio atminimas|šio šventojo žygio atminimas]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/autoriai/Petras Dusburgietis|Petras Dusburgietis]]'
   pagrindžia:
     - c-001
 

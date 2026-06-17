@@ -7,6 +7,7 @@ saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1381 m.'
+  - '1582 m.'
   - '2026 m.'
 date_start: '1381'
 date_end: '2026'
@@ -20,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Strijkovskis pasakojo apie Gotfrido Lindeno Vilniaus apgultį, tačiau, Balińskio teigimu, suklydo dėl datos ir praleido kai kurias aplinkybes. Strijkovskis plačiai aprašė Kęstučio gudrybes puolant Vilnių, įskaitant persirengusių karių pasiuntimą į miestą. Strijkovskis ir Kojelavičius supainiojo Andrių, Algirdo sūnų, su Vaidotu, Kęstučio sūnumi.
+Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XVI a. antrojoje pusėje) papildė, kad mūšyje vykstant atkakliai kovai, Gediminas su dalimi karių smogė rusams iš šono, jų rikiuotę pralaužė ir priešą sumušė, priešas buvo priverstas bėgti.
 
 ## Bibliografiniai duomenys
 
@@ -38,6 +39,7 @@ Strijkovskis pasakojo apie Gotfrido Lindeno Vilniaus apgultį, tačiau, Balińsk
 - t-001
   global_id: t-55220
   teiginys: 'Strijkovskis pasakojo apie Gotfrido Lindeno Vilniaus apgultį, tačiau, Balińskio teigimu, suklydo dėl datos ir praleido kai kurias aplinkybes.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/autoriai/Miechowita|Miechowita]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-010
 
@@ -45,6 +47,7 @@ Strijkovskis pasakojo apie Gotfrido Lindeno Vilniaus apgultį, tačiau, Balińsk
 - t-002
   global_id: t-55221
   teiginys: 'Strijkovskis plačiai aprašė Kęstučio gudrybes puolant Vilnių, įskaitant persirengusių karių pasiuntimą į miestą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kailiai|Kailiai]]; mentioned_object: [[objektai/daiktai/Vežimai|Vežimai]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Marija|Marija]]; mentioned_place: Trakai; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -52,6 +55,8 @@ Strijkovskis pasakojo apie Gotfrido Lindeno Vilniaus apgultį, tačiau, Balińsk
 - t-003
   global_id: t-55222
   teiginys: 'Strijkovskis ir Kojelavičius supainiojo Andrių, Algirdo sūnų, su Vaidotu, Kęstučio sūnumi.'
+  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Livonija; mentioned_place: Polockas'
   pagrindžia:
     - c-002
 
@@ -59,6 +64,7 @@ Strijkovskis pasakojo apie Gotfrido Lindeno Vilniaus apgultį, tačiau, Balińsk
 - t-004
   global_id: t-55223
   teiginys: 'Strijkovskio kronikoje Vilniaus įkūrimas priskiriamas Gediminui ir siejamas su medžiokle Šventaragio slėnyje.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_place: Aukštutinė pilis; mentioned_place: Luckas; mentioned_place: Trakai; mentioned_place: Vengrija; mentioned_place: Vilniaus Aukštutinė pilis; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 
@@ -66,6 +72,7 @@ Strijkovskis pasakojo apie Gotfrido Lindeno Vilniaus apgultį, tačiau, Balińsk
 - t-005
   global_id: t-55224
   teiginys: 'Vilniaus įkūrimo pasakojime Lizdeika geležinio vilko sapną aiškina kaip būsimos pilies ir Lietuvos sostinės ženklą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Lizdeika|Lizdeika]]; mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_place: Aukštutinė pilis; mentioned_place: Lietuva; mentioned_place: Luckas; mentioned_place: Trakai; mentioned_place: Vengrija; mentioned_place: Vilniaus Aukštutinė pilis; mentioned_place: Vilnius'
   pagrindžia:
     - c-004
 
@@ -73,6 +80,7 @@ Strijkovskis pasakojo apie Gotfrido Lindeno Vilniaus apgultį, tačiau, Balińsk
 - t-006
   global_id: t-55225
   teiginys: 'Karaliaučiaus leidimo Stryjkowskis susirėmimą ir mūšį prie Vižūnų laikė tuo pačiu įvykiu, nors Balińskis tai vadino tiesai prieštaraujančia klaida.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Glebas (Smolensko kunigaikštis)|Glebas (Smolensko kunigaikštis)]]; mentioned_person: [[objektai/asmenys/Sviatoslavas|Sviatoslavas]]; mentioned_place: Smolenskas; mentioned_place: Vilnius'
   pagrindžia:
     - c-005
 
@@ -80,6 +88,7 @@ Strijkovskis pasakojo apie Gotfrido Lindeno Vilniaus apgultį, tačiau, Balińsk
 - t-007
   global_id: t-55226
   teiginys: 'Strijkovskis Narimantą priskyrė prie apgulties metu nukautųjų ir perpasakojo Długoszo sukurtą jo mirties istoriją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/posakiai/Ugnimi ir kalaviju|Ugnimi ir kalaviju]]; mentioned_person: [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)|Narimantas (Pinsko kunigaikštis)]]; mentioned_person: [[objektai/asmenys/Tautvilas|Tautvilas]]; mentioned_place: Lietuva; mentioned_place: Pinskas; mentioned_place: Prūsija; mentioned_place: Rusia; mentioned_place: Vilnius'
   pagrindžia:
     - c-011
 
@@ -87,6 +96,8 @@ Strijkovskis pasakojo apie Gotfrido Lindeno Vilniaus apgultį, tačiau, Balińsk
 - t-008
   global_id: t-172991
   teiginys: 'Strijkovskis savo kronikoje Vilniaus įkūrimą priskyrė Gediminui, o juo sekė Kojelavičius.'
+  sudarymo_pagrindimas: 'Citata tiesiogiai palaiko teiginį apie Strijkovskio kronikoje pateiktą Vilniaus įkūrimo aiškinimą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_place: Trakai; mentioned_place: Vilija; mentioned_place: Vilnius'
   pagrindžia:
     - c-007
 
@@ -94,6 +105,8 @@ Strijkovskis pasakojo apie Gotfrido Lindeno Vilniaus apgultį, tačiau, Balińsk
 - t-009
   global_id: t-172992
   teiginys: 'M. Strijkovskio kronika Gotfrido Lindeno Vilniaus apgultį datavo metais per vėlai ir praleido dalį aplinkybių.'
+  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir suformuluotas aiškus teiginys apie šaltinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/autoriai/Miechowita|Miechowita]]; mentioned_person: [[objektai/autoriai/M. Strijkovskis|M. Strijkovskis]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-010
 
@@ -101,6 +114,8 @@ Strijkovskis pasakojo apie Gotfrido Lindeno Vilniaus apgultį, tačiau, Balińsk
 - t-010
   global_id: t-172993
   teiginys: 'M. Strijkovskio kronikoje Andrius Algirdaitis supainiotas su Vaidotu Kęstutaičiu, todėl atsirado išgalvotas Andrius Vaidotas.'
+  sudarymo_pagrindimas: 'Citata pagrindžia klaidą, bet pradinis tekstas buvo sugadintas OCR.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/asmenys/Andrius Algirdaitis|Andrius Algirdaitis]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/autoriai/M. Strijkovskis|M. Strijkovskis]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Vaidotas|Vaidotas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Livonija; mentioned_place: Polockas'
   pagrindžia:
     - c-002
 
@@ -108,6 +123,8 @@ Strijkovskis pasakojo apie Gotfrido Lindeno Vilniaus apgultį, tačiau, Balińsk
 - t-012
   global_id: t-172995
   teiginys: 'M. Strijkovskio kronika mini, kad Vytautas paskleidė gandą apie atvykimą į Vilnių rengti Ringailės ir Mazovijos kunigaikščio Henriko vestuvių.'
+  sudarymo_pagrindimas: 'Citata leidžia suformuluoti konkretų faktą apie kronikoje minimą gudrybę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/autoriai/M. Strijkovskis|M. Strijkovskis]]; mentioned_person: [[objektai/asmenys/Ringailė|Ringailė]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Mazovija; mentioned_place: Vilnius'
   pagrindžia:
     - c-014
 
@@ -115,6 +132,8 @@ Strijkovskis pasakojo apie Gotfrido Lindeno Vilniaus apgultį, tačiau, Balińsk
 - t-014
   global_id: t-172997
   teiginys: 'Strijkovskio kronikoje Vilniaus įkūrimas pasakojamas kaip XIV amžiaus įvykis.'
+  sudarymo_pagrindimas: 'Citata leidžia suformuluoti trumpą teiginį apie kronikos pasakojimo datavimą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-012
 
@@ -122,6 +141,11 @@ Strijkovskis pasakojo apie Gotfrido Lindeno Vilniaus apgultį, tačiau, Balińsk
 - t-018
   global_id: t-173001
   teiginys: '1582 m. lenkų kalba išspausdinta Motiejaus Strijkovskio „Lenkijos, Lietuvos, Žemaičių ir visos Rusios kronika“ tapo parankine Lietuvos bajorijos knyga.'
+  sudarymo_pagrindimas: 'Citata palaiko tikslesnį kronikos pavadinimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1582 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko tikslesnį kronikos pavadinimą.'
   pagrindžia:
     - c-006
 
@@ -129,6 +153,8 @@ Strijkovskis pasakojo apie Gotfrido Lindeno Vilniaus apgultį, tačiau, Balińsk
 - t-020
   global_id: t-173003
   teiginys: 'Strijkovskis prie Vilniaus apsupties aukų priskyrė Narimantą, remdamasis Długoszo pramanytu pasakojimu.'
+  sudarymo_pagrindimas: 'Citata palaiko teiginį apie Strijkovskio pateiktą Narimanto žūties pasakojimą ir jo šaltinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/posakiai/Ugnimi ir kalaviju|Ugnimi ir kalaviju]]; mentioned_person: [[objektai/asmenys/Tautvilas|Tautvilas]]; mentioned_place: Lietuva; mentioned_place: Pinskas; mentioned_place: Prūsija; mentioned_place: Rusia; mentioned_place: Vilnius'
   pagrindžia:
     - c-011
 
@@ -136,6 +162,8 @@ Strijkovskis pasakojo apie Gotfrido Lindeno Vilniaus apgultį, tačiau, Balińsk
 - t-021
   global_id: t-173004
   teiginys: 'M. Strijkovskio kronika minima kaip XVI a. istorinės tradicijos šaltinis apie mūšį prie Irpenės upės netoli Belgorodo.'
+  sudarymo_pagrindimas: 'Pradinis teiginys yra fragmentas, o citata leidžia suformuluoti tikslų faktą apie šaltinio minimą tradiciją.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/M. Strijkovskis|M. Strijkovskis]]; mentioned_place: Belgorodas; mentioned_place: Dniepras; mentioned_place: Irpenė; mentioned_place: Kijevas'
   pagrindžia:
     - c-009
 
@@ -143,6 +171,8 @@ Strijkovskis pasakojo apie Gotfrido Lindeno Vilniaus apgultį, tačiau, Balińsk
 - t-022
   global_id: t-173005
   teiginys: 'M. Strijkovskio kronikos VIII knygoje aiškinta Šventaragio vardo kilmė.'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo nutrūkęs fragmentas; citata palaiko glaustą pilną sakinį.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/Grzybowski|Grzybowski]]; mentioned_person: [[objektai/autoriai/M. Strijkovskis|M. Strijkovskis]]; mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]'
   pagrindžia:
     - c-013
 
@@ -150,6 +180,8 @@ Strijkovskis pasakojo apie Gotfrido Lindeno Vilniaus apgultį, tačiau, Balińsk
 - t-023
   global_id: t-173006
   teiginys: 'M. Strijkovskio kronika plačiai aprašė Kęstučio gudrybes puolant Vilnių.'
+  sudarymo_pagrindimas: 'Teiginys perrašytas į trumpą gramatinį sakinį be puslapio ir OCR triukšmo.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/autoriai/M. Strijkovskis|M. Strijkovskis]]; mentioned_place: Polockas; mentioned_place: Vilnius; mentioned_place: Vorskla'
   pagrindžia:
     - c-008
 

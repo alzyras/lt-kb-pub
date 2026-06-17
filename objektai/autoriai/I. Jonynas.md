@@ -30,9 +30,12 @@ Jonynas, lg. : JakG, I, 127-135 ; II, 5-59 p. — (”) Naujausi Gedimino dinast
 - t-001
   global_id: t-30643
   teiginys: 'Ig. Jonynas 1939 m. „Naujojoje Romuvoje“ paskelbė straipsnį „Lietuvių gentys iki XIX a.“.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/Ig. Jonynas|Ig. Jonynas]]'
+  temporaliniai_duomenys: 'įvykio data: 1939 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/zodynas/ekstraordinarinis profesorius.md#claim-t-32779|ekstraordinarinis profesorius]]: I. Jonynas 1932 m. tapo ekstraordinariniu profesoriumi.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -50,10 +53,3 @@ Jonynas, lg. : JakG, I, 127-135 ; II, 5-59 p. — (”) Naujausi Gedimino dinast
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/dinastija]]
-
-### Susiję objektai
-- [[objektai/zodynas/ekstraordinarinis profesorius]]

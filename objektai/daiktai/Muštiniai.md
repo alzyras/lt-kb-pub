@@ -34,22 +34,27 @@ Jie vartoti vietoj savų pinigų, greta svetimųjų pinigų ir paprastų aukso a
 Nenurodyta
 
 ## Teiginiai
-- t-003
+
+<a id="claim-t-06753"></a>
+- t-001
+  global_id: t-06753
   teiginys: 'Muštiniai buvo specialūs pailgi sidabro gabalai su pažymėtąja verte.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_object: [[objektai/daiktai/Kailiai|Kailiai]]'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-004
+
+<a id="claim-t-06754"></a>
+- t-002
+  global_id: t-06754
   teiginys: 'Muštiniai buvo vartojami vėlesniais laikais kaip specialūs sidabro gabalai su pažymėtąja verte.'
+  sudarymo_pagrindimas: 'Pradinis teiginys per plačiai siejo muštinius su laikotarpiu prieš savus pinigus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_object: [[objektai/daiktai/Kailiai|Kailiai]]'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Muštiniai buvo specialūs pailgi sidabro gabalai su pažymėtąja verte.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pinigų senovės aisčiai neturėjo, o naudojosi svetimaisiais
@@ -58,15 +63,9 @@ Nenurodyta
     mėtąja verte. Jie buvo vadinami muštiniais. Bet daug daž-
     niau už pinigus senovės aisčiai vartojo prekyboje įvairius bran-
     giuosius kailius ir kitus daiktus, žodžiu, varė mainų prekybą.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-003
-    - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Aisčiai]]
+    - t-001
+    - t-002

@@ -46,6 +46,11 @@ Nenurodyta
 - t-001
   global_id: t-86961
   teiginys: '1514 m. gegužės 6 d. Vilniuje nuspręsta siekti Šventojo Tėvo patvirtinimo dėl Varmės vyskupo rinkimo artikulų.'
+  sudarymo_pagrindimas: 'Citata pagrindžia sprendimą dėl patvirtinimo siekimo, o pradiniame teiginyje yra antraščių ir OCR triukšmo.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_object: [[objektai/zodynas/globėjas|globėjas]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Bona|Bona]]; mentioned_person: [[objektai/asmenys/Fabijonas (Varmės vyskupas)|Fabijonas (Varmės vyskupas)]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Varmė; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1514 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia sprendimą dėl patvirtinimo siekimo, o pradiniame teiginyje yra antraščių ir OCR triukšmo.'
   pagrindžia:
     - c-001
 
@@ -106,15 +111,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Antspaudas]]
-- [[objektai/asmenys/Bona]]
-- [[objektai/asmenys/Fabijonas (Varmės vyskupas)]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/daiktai/Vytis]]
-- [[objektai/zodynas/globėjas]]
-- [[objektai/zodynas/kapitula]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

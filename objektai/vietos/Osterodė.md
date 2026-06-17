@@ -20,9 +20,13 @@ Lietuviai pasižadėjo nebeužpuldinėti pieti­ nės Prūsijos dalies, kurią s
 - t-001
   global_id: t-36465
   teiginys: 'Osterodės apskritis priklausė pietinei Prūsijos daliai, kurios lietuviai pasižadėjo nebeužpuldinėti.'
+  susije_objektai: 'owner: Gunlaukenas; owner: Lietuva; owner: [[objektai/grupes/Lietuviai|Lietuviai]]; owner: Prūsija; owner: Trakai; owner: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_place: Gunlaukenas; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Trakai'
+  semantiniai_rysiai: 'Osterodė priklausė [[objektai/grupes/Lietuviai|Lietuviai]]; Osterodė priklausė [[objektai/grupes/Vokiečiai|Vokiečiai]]; Osterodė priklausė Gunlaukenas; Osterodė priklausė Lietuva; Osterodė priklausė Prūsija; Osterodė priklausė Trakai'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/ivykiai/1381 m. kryžiuočių puolimai Kęstučio valdose.md#claim-t-97012|1381 m. kryžiuočių puolimai Kęstučio valdose]]: 1381 m. grįždami kryžiuočiai bombardų šūviais išgąsdino Darsūniškio gynėjus, kurie sudegino pilį ir pasitraukė.
+- susijęs iš [[objektai/ivykiai/Slaptas Jogailos ir kryžiuočių susitarimas prieš Kęstutį.md#claim-t-185773|Slaptas Jogailos ir kryžiuočių susitarimas prieš Kęstutį]]: Vaidilos patvarkymu Jogaila ir kryžiuočiai slaptai pasirašė susitarimą prieš stojimą į atvirą kovą.
+- susijęs iš [[objektai/zodynas/kūmas.md#claim-t-187556|kūmas]]: Osterodės komtūras Libestinas buvo didžiojo kunigaikščio Kęstučio kūmas ir Kęstučio dukters Jonušienės krikštatėvis.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -44,3 +48,11 @@ Lietuviai pasižadėjo nebeužpuldinėti pieti­ nės Prūsijos dalies, kurią s
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+- Osterodė priklause [[objektai/vietos/Gunlaukenas]]
+- Osterodė priklause [[objektai/vietos/Lietuva]]
+- Osterodė priklause [[objektai/grupes/Lietuviai]]
+- Osterodė priklause [[objektai/vietos/Prūsija]]
+- Osterodė priklause [[objektai/vietos/Trakai]]
+- Osterodė priklause [[objektai/grupes/Vokiečiai]]

@@ -5,6 +5,7 @@ saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1386 m.'
+  - '1426 m.'
   - '1427 m.'
   - '1571 m.'
   - '1667 m.'
@@ -34,6 +35,11 @@ Jono bažnyčią, Vladislovo Jogailos lėšomis statyti pradėtą, Vytauto užba
 - t-001
   global_id: t-85993
   teiginys: '1571 m. kovo 10 d. Žygimantas Augustas Šv. Jono bažnyčią su turtu ir arkipresbiterio namais prijungė prie Jėzaus Draugijos kolegijos.'
+  sudarymo_pagrindimas: 'Citata pagrindžia datą, valdovą ir bažnyčios prijungimą prie Jėzaus Draugijos kolegijos.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_person: [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1571 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia datą, valdovą ir bažnyčios prijungimą prie Jėzaus Draugijos kolegijos.'
   pagrindžia:
     - c-006
 
@@ -41,6 +47,8 @@ Jono bažnyčią, Vladislovo Jogailos lėšomis statyti pradėtą, Vytauto užba
 - t-002
   global_id: t-85994
   teiginys: 'Goštautų vardu vadintas mūrinis namas stovėjo priešais Šv. Jono bažnyčią.'
+  sudarymo_pagrindimas: 'Citata pagrindžia tik pastato vietą priešais bažnyčią.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Goštautai|Goštautai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_place: Kardinalija; mentioned_place: Vilnius'
   pagrindžia:
     - c-004
 
@@ -48,6 +56,8 @@ Jono bažnyčią, Vladislovo Jogailos lėšomis statyti pradėtą, Vytauto užba
 - t-003
   global_id: t-85995
   teiginys: 'Protasevičius nupirko jėzuitams mūrinį namą netoli Šv. Jono bažnyčios ir pritaikė jį jiems gyventi.'
+  sudarymo_pagrindimas: 'Citata leidžia iš konteksto išplėsti ordiną į jėzuitus ir pateikti pilną sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]'
   pagrindžia:
     - c-005
 
@@ -55,6 +65,11 @@ Jono bažnyčią, Vladislovo Jogailos lėšomis statyti pradėtą, Vytauto užba
 - t-004
   global_id: t-85996
   teiginys: '1668 m. gegužės 17 d. karaliaus raštu Šv. Jono bažnyčios priklausomybė pripažinta vienuoliams jėzuitams.'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo nutrūkęs fragmentas, o citata leidžia pateikti pilną faktą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1668 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys buvo nutrūkęs fragmentas, o citata leidžia pateikti pilną faktą.'
   pagrindžia:
     - c-003
 
@@ -62,6 +77,11 @@ Jono bažnyčią, Vladislovo Jogailos lėšomis statyti pradėtą, Vytauto užba
 - t-005
   global_id: t-85997
   teiginys: '1386 m. Šv. Jono bažnyčią, pradėtą statyti Vladislovo Jogailos lėšomis ir užbaigtą Vytauto, pašventino Kijevo vyskupas Mykolas ir Plocko vyskupas Stanislovas.'
+  sudarymo_pagrindimas: 'Citata pagrindžia datą, statybos aplinkybes ir pašventinusius vyskupus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pskoviečiai|Pskoviečiai]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_person: [[objektai/asmenys/Stanislovas|Stanislovas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Kijevas; mentioned_place: Plockas; mentioned_place: Pskovas; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1386 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia datą, statybos aplinkybes ir pašventinusius vyskupus.'
   pagrindžia:
     - c-007
 
@@ -69,6 +89,11 @@ Jono bažnyčią, Vladislovo Jogailos lėšomis statyti pradėtą, Vytauto užba
 - t-006
   global_id: t-85998
   teiginys: 'Šv. Jono bažnyčia Vilniuje įkurta 1386 m., pabaigta 1426 m. ir pašventinta 1427 m. sausio 10 d.'
+  sudarymo_pagrindimas: 'Citata tiesiogiai nurodo įkūrimo, pabaigimo ir pašventinimo datas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva; mentioned_place: Plockas; mentioned_place: Vilnius; mentioned_place: Šv. Jono bažnyčia; mentioned_place: Šv. Jono bažnyčia Vilniuje'
+  temporaliniai_duomenys: 'įvykio data: 1386 m.; įvykio data: 1426 m.; įvykio data: 1427 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata tiesiogiai nurodo įkūrimo, pabaigimo ir pašventinimo datas.'
   pagrindžia:
     - c-002
 
@@ -76,6 +101,7 @@ Jono bažnyčią, Vladislovo Jogailos lėšomis statyti pradėtą, Vytauto užba
 - t-007
   global_id: t-85999
   teiginys: 'Vyskupas Protasevičius įsakė viešai deginti surinktas disidentų knygas priešais Šv. Jono bažnyčią.'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo nebaigtas fragmentas, o citata palaiko aiškų veiksmą ir vietą.'
   pagrindžia:
     - c-001
 

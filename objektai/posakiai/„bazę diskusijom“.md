@@ -20,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-Lietuva ir Lenkija sutarė priimti Himanso planą kaip „bazę diskusijom“.
+Abi šalys sutarė priimti tą planą kaip „bazę diskusijom“.
 
 ## Teiginiai
 
@@ -28,9 +28,16 @@ Lietuva ir Lenkija sutarė priimti Himanso planą kaip „bazę diskusijom“.
 - t-001
   global_id: t-77843
   teiginys: 'Lietuva ir Lenkija sutarė priimti Himanso planą kaip „bazę diskusijom“.'
+  sudarymo_pagrindimas: 'Citatoje vartojama forma „sutarė“, todėl sakinys patikslintas pagal šaltinį.'
+  susije_objektai: 'mentioned_place: Kaunas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_place: Šveicarija'
+  temporaliniai_duomenys: 'įvykio data: 1921 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citatoje vartojama forma „sutarė“, todėl sakinys patikslintas pagal šaltinį.'
   pagrindžia:
     - c-001
-
+- susijęs iš Himanso planas: Lietuva ir Lenkija sutarė priimti Himanso planą kaip derybų pagrindą.
+- susijęs iš Himanso planas: Pagal Himanso planą Lietuva ir Lenkija turėjo koordinuoti užsienio politiką ir sudaryti karines bei ekonomines konvencijas.
+- susijęs iš [[objektai/zodynas/federacija federacinė valstybė.md#claim-t-101588|federacija federacinė valstybė]]: P. Himansas parengė Lietuvos federacinės valstybės, sudarytos iš Kauno ir Vilniaus kantonų, projektą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -50,7 +57,3 @@ Lietuva ir Lenkija sutarė priimti Himanso planą kaip „bazę diskusijom“.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/federacija federacinė valstybė]]

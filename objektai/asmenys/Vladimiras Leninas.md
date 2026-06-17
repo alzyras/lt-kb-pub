@@ -3,6 +3,11 @@ tipas: asmuo
 pavadinimas: 'Vladimiras Leninas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1918 m.'
+  - '1950 m.'
+date_start: '1918'
+date_end: '1950'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -10,6 +15,10 @@ tags:
   - miestas
   - tauta
   - valstybė
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'modernioji Lietuva'
 ---
 # Vladimiras Leninas
 
@@ -23,6 +32,11 @@ Po savaitės ją Vladimiro Lenino pasirašytu dekretu pripažino Sovietų Rusija
 - t-001
   global_id: t-64245
   teiginys: 'Vladimiro Lenino statulos sovietmečiu buvo statomos Lietuvos miestuose ir miesteliuose valstybingumo paminklų vietose.'
+  sudarymo_pagrindimas: 'Nutrūkęs fragmentas perrašytas į pilną sakinį, pagrįstą citata.'
+  susije_objektai: 'mentioned_object: [[objektai/autoriai/Vincas Kudirka|Vincas Kudirka]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1950 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Nutrūkęs fragmentas perrašytas į pilną sakinį, pagrįstą citata.'
   pagrindžia:
     - c-003
 
@@ -30,6 +44,9 @@ Po savaitės ją Vladimiro Lenino pasirašytu dekretu pripažino Sovietų Rusija
 - t-002
   global_id: t-64246
   teiginys: 'Po savaitės ją Vladimiro Lenino pasirašytu dekretu pripažino Sovietų Rusija.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Sovietų Rusija; mentioned_place: Ukraina; mentioned_place: Vokietija'
+  temporaliniai_duomenys: 'įvykio data: 1918 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 
@@ -37,6 +54,8 @@ Po savaitės ją Vladimiro Lenino pasirašytu dekretu pripažino Sovietų Rusija
 - t-003
   global_id: t-64247
   teiginys: 'Sovietmečiu tautiniais drabužiais vilkintys choristai dainavo apie Vladimirą Leniną.'
+  sudarymo_pagrindimas: 'Pradinis teiginys yra fragmentiškas; citata pagrindžia konkretų faktą apie dainavimą apie Leniną.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; mentioned_object: [[objektai/zodynas/Soclageris|Soclageris]]; mentioned_object: [[objektai/posakiai/„tautinė pagal formą, socialistinė pagal turinį“|„tautinė pagal formą, socialistinė pagal turinį“]]; mentioned_place: SSRS; mentioned_place: Čekoslovakija'
   pagrindžia:
     - c-001
 
@@ -93,15 +112,3 @@ Po savaitės ją Vladimiro Lenino pasirašytu dekretu pripažino Sovietų Rusija
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/daiktai/Namas]]
-- [[objektai/zodynas/Soclageris]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/posakiai/„tautinė pagal formą, socialistinė pagal turinį“]]
-- [[objektai/daiktai/Drabužiai]]
-- [[objektai/ivykiai/Lietuvos himno „Tautiška giesmė“ uždraudimas (1950 m.)]]
-- [[objektai/grupes/Raudonoji armija]]

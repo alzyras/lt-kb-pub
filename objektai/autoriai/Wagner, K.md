@@ -29,6 +29,9 @@ Wagner, K.
 - t-001
   global_id: t-31076
   teiginys: 'K. Wagneris 1933 m. „Naujojoje Romuvoje“ paskelbė darbą „Vokiečių ordino pilys Kauno apylinkėje“.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_place: Kaunas; mentioned_place: Krokuva'
+  temporaliniai_duomenys: 'įvykio data: 1933 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -47,7 +50,3 @@ Wagner, K.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Pilys]]

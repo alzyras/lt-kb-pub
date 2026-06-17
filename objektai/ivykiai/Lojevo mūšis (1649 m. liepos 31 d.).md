@@ -42,6 +42,9 @@ Nenurodyta
 - t-001
   global_id: t-49171
   teiginys: 'Lojevo mūšis buvo pirmoji svari kunigaikščio J. Radvilos pergalė.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, glaustas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'event: [[objektai/ivykiai/Lojevo mūšis (1649 m. liepos 31 d.)|Lojevo mūšis (1649 m. liepos 31 d.)]]; mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Europa; mentioned_place: Lojevas'
+  semantiniai_rysiai: '[[objektai/asmenys/Radvila|Radvila]] dalyvavo mūšyje [[objektai/ivykiai/Lojevo mūšis (1649 m. liepos 31 d.)|Lojevo mūšis (1649 m. liepos 31 d.)]]'
   pagrindžia:
     - c-003
 
@@ -49,6 +52,11 @@ Nenurodyta
 - t-002
   global_id: t-49172
   teiginys: '1649 m. liepos 21 d. J. Radvila atvedė kariuomenę prie Lojevo, kur buvo numatyta pasitikti artėjančius kazokus.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas, faktinis ir paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_person: [[objektai/asmenys/J. Radvila|J. Radvila]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Dnepras; mentioned_place: Dniepras; mentioned_place: Lietuva; mentioned_place: Lojevas'
+  temporaliniai_duomenys: 'įvykio data: 1649 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas, faktinis ir paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -56,6 +64,8 @@ Nenurodyta
 - t-003
   global_id: t-49173
   teiginys: 'Lojevo mūšyje kazokų kariuomenė buvo perskelta į dvi dalis, jos kairysis sparnas sumuštas, o M. Kričevskio kariai atsitraukė į mišką.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nusako mūšio eigą ir yra paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Vėliavos|Vėliavos]]; mentioned_object: [[objektai/zodynas/dragūnai|dragūnai]]; mentioned_place: Braginas; mentioned_place: Dniepras; mentioned_place: Lojevas'
   pagrindžia:
     - c-002
 
@@ -63,9 +73,14 @@ Nenurodyta
 - t-004
   global_id: t-49174
   teiginys: 'Lojevo mūšis buvo pirmoji svari kunigaikščio J. Radvilos pergalė, o žinia apie ją pasklido visoje Europoje.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie mūšio padarinius.'
+  susije_objektai: 'event: [[objektai/ivykiai/Lojevo mūšis (1649 m. liepos 31 d.)|Lojevo mūšis (1649 m. liepos 31 d.)]]; mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Europa; mentioned_place: Lojevas'
+  semantiniai_rysiai: '[[objektai/asmenys/Radvila|Radvila]] dalyvavo mūšyje [[objektai/ivykiai/Lojevo mūšis (1649 m. liepos 31 d.)|Lojevo mūšis (1649 m. liepos 31 d.)]]'
   pagrindžia:
     - c-003
-
+- susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
+- susijęs iš Francois Paulin Dalairac atsiminimai apie Lenkijos ir Lietuvos kariuomenes: Francois Paulin Dalairac rašė, kad Karūnos ir Lietuvos kariuomenė buvo padalyta į lenkų ir svetimšalių autoramentus.
+- susijęs iš Francois Paulin Dalairac atsiminimai apie Lenkijos ir Lietuvos kariuomenes: Francois Paulin Dalairaco atsiminimuose Lenkijos ir Lietuvos kariuomenės skirstomos į lenkų ir svetimšalių autoramentus.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -151,12 +166,4 @@ Nenurodyta
     - t-004
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/J. Radvila]]
-- [[objektai/grupes/Kazokai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Radvila]]
-- [[objektai/daiktai/Vėliavos]]
-- [[objektai/zodynas/dragūnai]]
-- [[objektai/autoriai/Karolis Zikaras]]
-- [[objektai/grupes/Radvilos]]
+- [[objektai/asmenys/Radvila]] dalyvavo_musyje Lojevo mūšis (1649 m. liepos 31 d.)

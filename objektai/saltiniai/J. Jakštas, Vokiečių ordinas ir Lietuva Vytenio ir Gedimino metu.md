@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Gedimino sutartis su Ordinu liudija, kad Lietuvos valstybės lietuviškosios žemės buvo skirstomos į Aukštaičius ir Žemaičius.
+Dusburgietis teigia, kad 538 Jakštas J., Vokiečių ordinas..., p. 130; Pašuta V., Lietuvos..., p. 420—421. Dusburgietis teigia, kad gedimino sutartis su Ordinu rodo, kad Lietuvos valstybės lietuviškosios žemės susidėjo iš dviejų dalių: Aukštaičių ir Žemaičių (Łowmiański H., Studja..., 2, p. 69— 70; Jakštas J., Vokiečių ordinas..., p. 141; plg.
 
 ## Teiginiai
 
@@ -29,6 +29,8 @@ Gedimino sutartis su Ordinu liudija, kad Lietuvos valstybės lietuviškosios že
 - t-001
   global_id: t-60984
   teiginys: 'Gedimino sutartis su Ordinu liudija, kad Lietuvos valstybės lietuviškosios žemės buvo skirstomos į Aukštaičius ir Žemaičius.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir turi bibliografinio triukšmo.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

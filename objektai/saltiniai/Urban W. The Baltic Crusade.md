@@ -26,6 +26,11 @@ Dusburgietis teigia, kad urban W.
 - t-001
   global_id: t-61329
   teiginys: 'W. Urbano „The Baltic Crusade“ išleista Northern Illinois University Press leidykloje De Kalbe 1975 m.'
+  sudarymo_pagrindimas: 'Citata pagrindžia leidinio leidėją, vietą ir metus.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/C. P. Woelky|C. P. Woelky]]'
+  temporaliniai_duomenys: 'įvykio data: 1975 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia leidinio leidėją, vietą ir metus.'
   pagrindžia:
     - c-001
 

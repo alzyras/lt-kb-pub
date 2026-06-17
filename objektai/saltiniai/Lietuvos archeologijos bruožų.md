@@ -26,6 +26,11 @@ Jablonskis buvo ir vienas iš redaktorių « Lietuvos archeologijos bruožų » 
 - t-001
   global_id: t-31810
   teiginys: 'Jablonskis buvo vienas iš 1961 m. išleistų „Lietuvos archeologijos bruožų“ redaktorių.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1961 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
 

@@ -3,12 +3,18 @@ tipas: daiktas
 pavadinimas: 'Raudonos vėliavos'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1926 m.'
+date_start: '1926'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
   - seimas
   - tauta
+amziai:
+  - 'XX'
 ---
 # Raudonos vėliavos
 
@@ -42,6 +48,11 @@ Nenurodyta
 - t-001
   global_id: t-19584
   teiginys: '1926 m. rudenį po komunistų mitingų chuliganai su raudonomis vėliavomis gatvėse užkabinėjo uniformuotus kariškius.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie raudonų vėliavų naudojimą minimame kontekste.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/posakiai/„Ponai, ne jūs kariuomenę sumažinsite, o kariuomenė jus sumažins.“|„Ponai, ne jūs kariuomenę sumažinsite, o kariuomenė jus sumažins.“]]'
+  temporaliniai_duomenys: 'įvykio data: po 1926 m.; įvykio data: 1926 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie raudonų vėliavų naudojimą minimame kontekste.'
   pagrindžia:
     - c-001
 
@@ -67,8 +78,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/seimas]]
-- [[objektai/posakiai/„Ponai, ne jūs kariuomenę sumažinsite, o kariuomenė jus sumažins.“]]

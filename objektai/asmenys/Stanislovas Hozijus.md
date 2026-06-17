@@ -28,9 +28,18 @@ Stanislovas Hozijus 1568 m. Braunsberge įsteigė kolegiją, netrukus tapusią s
 - t-001
   global_id: t-186254
   teiginys: 'Stanislovas Hozijus 1568 m. Braunsberge įsteigė kolegiją, netrukus tapusią svarbia jėzuitų atrama.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Perrašyta į tiesioginį faktinį sakinį, pašalinant perteklinę atribuciją.'
+  susije_objektai: 'object: Braunsbergas; mentioned_person: [[objektai/autoriai/Albertas Vijūkas-Kojelavičius|Albertas Vijūkas-Kojelavičius]]; mentioned_person: [[objektai/asmenys/Stanislovas|Stanislovas]]; mentioned_place: Braunsbergas'
+  semantiniai_rysiai: '[[objektai/asmenys/Stanislovas Hozijus|Stanislovas Hozijus]] pastatė Braunsbergas'
+  temporaliniai_duomenys: 'pastatymo data: 1568 m.; pastatymo data: 1644 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Stanislovas Hozijus pastatė Braunsbergas“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Perrašyta į tiesioginį faktinį sakinį, pašalinant perteklinę atribuciją.'
   pagrindžia:
     - c-001
-
+- susijęs iš Varmijos vyskupystė: 1564 m. Varmijos vyskupas Stanislovas Hozijus atkvietė jėzuitus į Lenkiją ir įkurdino juos Braunsberge.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -46,3 +55,6 @@ Stanislovas Hozijus 1568 m. Braunsberge įsteigė kolegiją, netrukus tapusią s
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+- Stanislovas Hozijus pastate [[objektai/vietos/Braunsbergas]]

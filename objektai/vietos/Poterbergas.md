@@ -14,6 +14,7 @@ tags:
   - kunigaikštis
   - miestas
   - pilis
+  - vieta
 amziai:
   - 'XIII'
 ---
@@ -21,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-Magistras Poponas kalvoje tarp Kulmo miesto ir senosios pilies pastatė naują pilį, pramintą Poterbergu. Poterbergas — prie Kalduso, į pietvakarius nuo Kulmo (SZCh, p 101). 1283 m. broliai perkėlė Poterbergo pilį ir kitus pastatus iš Kulmo žemės ir prie Vyslos įkūrė Mevės pilį.
+Dusburgietis teigia, kad apie Poterbergo pilies pastatymą Brolis Poponas, magistras, matydamas, kaip sumaniai minėtasis kunigaikštis tai vienur, tai kitur tvirtina pilis, ir norėdamas apsisaugoti nuo būsimų pavojų, kalvoje tarp dabartinio Kulmo miesto ir senosios pilies pastatė. Dusburgietis teigia, kad poterbergas — prie Kalduso, į pietvakarius nuo Kulmo (SZCh, p 101). Dusburgietis teigia, kad todėl 1283 viešpaties metais broliai perkėlė iš Kulmo žemės Poterbergo pilį bei visus kitus pastatus ir įkūrė Mevės pilį prie Vyslos toje vietoje, kur ji po šiai dienai tebestovi508 Jėzaus Kristaus garbei ir šlovei.
 
 ## Teiginiai
 
@@ -29,6 +30,8 @@ Magistras Poponas kalvoje tarp Kulmo miesto ir senosios pilies pastatė naują p
 - t-001
   global_id: t-58469
   teiginys: 'Magistras Poponas kalvoje tarp Kulmo miesto ir senosios pilies pastatė naują pilį, pramintą Poterbergu.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Poterbergo pilies pastatymą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Kulmas'
   pagrindžia:
     - c-001
 
@@ -36,6 +39,8 @@ Magistras Poponas kalvoje tarp Kulmo miesto ir senosios pilies pastatė naują p
 - t-002
   global_id: t-58470
   teiginys: 'Poterbergas — prie Kalduso, į pietvakarius nuo Kulmo (SZCh, p 101).'
+  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
+  susije_objektai: 'mentioned_place: Kulmas'
   pagrindžia:
     - c-003
 
@@ -43,9 +48,22 @@ Magistras Poponas kalvoje tarp Kulmo miesto ir senosios pilies pastatė naują p
 - t-003
   global_id: t-58471
   teiginys: '1283 m. broliai perkėlė Poterbergo pilį ir kitus pastatus iš Kulmo žemės ir prie Vyslos įkūrė Mevės pilį.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nurodo datą, veiksmą ir Poterbergo pilies perkėlimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Kulmas; mentioned_place: Pomeranija; mentioned_place: Vysla'
+  temporaliniai_duomenys: 'įkūrimo data: 1283 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo datą, veiksmą ir Poterbergo pilies perkėlimą.'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/asmenys/Mstivojus.md#claim-t-59898|Mstivojus]]: Sventopelko pirmagimis sūnus Mstivojus anksčiau buvo atiduotas kaip įkaitas.
+- susijęs iš [[objektai/asmenys/Samboras (Sventopelko sūnus).md#claim-t-60061|Samboras (Sventopelko sūnus)]]: Samboras buvo vienas iš keturių Pomeranijos kunigaikščio Sventopelko sūnų.
+- susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90039|Sventopelkas]]: Sventopelkas, buvęs Pomeranijos kunigaikštis, turėjo keturis sūnus: Mstivojų, Samborą, Vartislavą ir dar vieną sūnų.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178983|Kryžiuočių ordinas]]: Teutonų ordino broliai pasiliko Vanckos kraštą Pomeranijos kunigaikštystėje, kur vėliau stovėjo Mevės pilis.
+- susijęs iš [[objektai/ivykiai/Poterbergo pilies pastatymas.md#claim-t-183958|Poterbergo pilies pastatymas (pilis)]]: Magistras Poponas pastatė Poterbergo pilį kalvoje tarp Kulmo miesto ir senosios pilies, kad apsisaugotų nuo Sventopelko veiksmų.
+- susijęs iš [[objektai/ivykiai/Poterbergo pilies pastatymas.md#claim-t-62443|Poterbergo pilies pastatymas (pilis)]]: Magistras Poponas pastatė Poterbergo pilį kalvoje tarp Kulmo miesto ir senosios pilies, kad apsisaugotų nuo Sventopelko veiksmų.
+- susijęs iš [[objektai/ivykiai/Poterbergo pilies perkėlimas ir Mevės pilies pastatymas.md#claim-t-62901|Poterbergo pilies perkėlimas ir Mevės pilies pastatymas (pilis, XIII a.)]]: 1283 m. Teutonų ordino broliai perkėlė Poterbergo pilį iš Kulmo žemės ir prie Vyslos įkūrė Mevės pilį.
+- susijęs iš Mevė: 1283 m. Teutonų ordino broliai įkūrė Mevės pilį prie Vyslos, perkėlę Poterbergo pilį iš Kulmo žemės.
+- susijęs iš Vancka: Vancka buvo Pomeranijos kunigaikštystės kraštas, kuriame tuo metu stovėjo Mevės pilis.
 ## Reikšmingi paminėjimai
 
 - c-001

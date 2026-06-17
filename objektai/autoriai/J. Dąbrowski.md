@@ -3,10 +3,18 @@ tipas: autorius
 pavadinimas: 'J. Dąbrowski'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+datos:
+  - '1961 m.'
+date_start: '1961'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'XX a.'
 ---
 # J. Dąbrowski
 
@@ -20,6 +28,8 @@ Dąbrowski : Rozbiór krytyczny Anna ­ lium Poloniae Jana Długosza z lat 1385-
 - t-001
   global_id: t-30665
   teiginys: 'J. Dąbrowski parašė „Rozbiór krytyczny Annalium Poloniae Jana Długosza z lat 1385-1444“, išleistą 1961 m.'
+  temporaliniai_duomenys: 'įvykio data: 1961 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

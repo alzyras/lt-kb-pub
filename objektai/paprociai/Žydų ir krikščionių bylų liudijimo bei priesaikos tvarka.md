@@ -43,6 +43,8 @@ Nenurodyta
 - t-001
   global_id: t-87293
   teiginys: 'Bylose dėl žydo pinigų, turto ar kriminalinio kaltinimo krikščionis prieš žydą galėjo liudyti tik kartu su krikščioniu ir žydu.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir neaiškus, bet citata pagrindžia liudijimo tvarką mišriose bylose.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; mentioned_object: [[objektai/daiktai/Užstato daiktai Trakų žydų privilegijoje|Užstato daiktai Trakų žydų privilegijoje]]'
   pagrindžia:
     - c-001
 
@@ -73,12 +75,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/drabužis]]
-
-### Susiję objektai
-- [[objektai/daiktai/Drabužiai]]
-- [[objektai/daiktai/Užstato daiktai Trakų žydų privilegijoje]]
-- [[objektai/grupes/Žydai]]

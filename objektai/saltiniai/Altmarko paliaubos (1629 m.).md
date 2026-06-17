@@ -5,15 +5,16 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 datos:
   - '1629 m.'
+  - '1635 m.'
 date_start: '1629'
-date_end: ''
+date_end: '1635'
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XVII'
 tags:
   - paliaubos
   - saltinis
+amziai:
+  - 'XVII'
 ---
 # Altmarko paliaubos (1629 m.)
 
@@ -22,20 +23,22 @@ tags:
 1629 m. padarytos Altmarko paliaubos baigėsi 1635 m., tad reikėjo arba ruoštis naujam karui arba rūpintis pratęsti paliaubas.
 
 ## Teiginiai
+
 <a id="claim-t-02129"></a>
 - t-001
   global_id: t-02129
   teiginys: '1629 m. sudarytos Altmarko paliaubos baigėsi 1635 m., todėl reikėjo ruoštis naujam karui arba rūpintis jų pratęsimu.'
+  sudarymo_pagrindimas: 'Perrašyta sklandžiau, pašalinant šaltinio eilutės lūžių poveikį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/paliaubos|paliaubos]]'
+  temporaliniai_duomenys: 'įvykio data: 1629 m.; įvykio data: 1635 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Perrašyta sklandžiau, pašalinant šaltinio eilutės lūžių poveikį.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: '1629 m. sudarytos Altmarko paliaubos baigėsi 1635 m., todėl reikėjo ruoštis naujam karui arba rūpintis jų pratęsimu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Švedijos sosto klausimas.**
@@ -46,10 +49,8 @@ tags:
     1635 m., tad reikėjo arba ruoš-
     tis naujam karui arba rūpintis
     pratęsti paliaubas.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

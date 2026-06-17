@@ -49,6 +49,8 @@ Nenurodyta
 - t-001
   global_id: t-87281
   teiginys: 'Prie Strėvos upės Trakų paviete žemaičių būriai iš pasalų apsupo kryžiuočius ir, prikirtę medžių, užvertė jiems kelią.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir pašalina citatoje esančius puslapio bei išnašos triukšmus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Strėva; mentioned_place: Trakai'
   pagrindžia:
     - c-001
 
@@ -108,9 +110,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Rusai]]
-- [[objektai/asmenys/Švitrigaila]]
-- [[objektai/grupes/Kryžiuočių ordinas]]

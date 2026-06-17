@@ -36,6 +36,14 @@ Nenurodyta
 - t-001
   global_id: t-185575
   teiginys: 'Po Motiejaus Korvino mirties vengrai pakvietė Joną Olbrachtą į Vengrijos karalystės sostą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis teiginys sugadintas OCR fragmentais.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_place: Vengrija'
+  temporaliniai_duomenys: 'įvykio data: 1490 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys sugadintas OCR fragmentais.'
   pagrindžia:
     - c-001
 
@@ -43,6 +51,11 @@ Nenurodyta
 - t-002
   global_id: t-185576
   teiginys: 'Tėvo raginamas ir gavęs iš jo karių, Jonas Olbrachtas išvyko į Vengriją, nors jo viltys pasirodė nepagrįstos.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Reikia išplėsti įvardžius ir sutvarkyti sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas Olbrachtas|Jonas Olbrachtas]]'
   pagrindžia:
     - c-002
 
@@ -96,10 +109,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Jonas]]
-- [[objektai/grupes/Vengrai]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/asmenys/Jonas Olbrachtas]]

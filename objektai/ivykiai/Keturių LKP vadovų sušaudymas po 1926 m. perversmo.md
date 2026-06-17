@@ -4,9 +4,10 @@ pavadinimas: 'Keturių LKP vadovų sušaudymas po 1926 m. perversmo'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
+  - '1924 m.'
   - '1926 m.'
-date_start: '1926'
-date_end: ''
+date_start: '1924'
+date_end: '1926'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -42,6 +43,11 @@ Nenurodyta
 - t-001
   global_id: t-20219
   teiginys: 'Po 1926 m. perversmo keturi LKP vadovai buvo nuteisti mirties bausme ir sušaudyti praėjus dešimčiai dienų nuo perversmo pradžios.'
+  sudarymo_pagrindimas: 'Citata leidžia pateikti trumpesnį enciklopedinį faktą be perteklinio aiškinimo.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Estija; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1924 m.; įvykio data: po 1926 m.; įvykio data: 1926 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data.'
+  temporalinis_llm_pakomentavimas: 'Citata leidžia pateikti trumpesnį enciklopedinį faktą be perteklinio aiškinimo.'
   pagrindžia:
     - c-001
 
@@ -64,9 +70,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Krikščionys]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/grupes/Lietuvos komunistų partija]]

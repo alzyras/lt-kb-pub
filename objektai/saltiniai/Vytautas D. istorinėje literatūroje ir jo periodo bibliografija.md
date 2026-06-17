@@ -26,6 +26,9 @@ Ivinskis : Vytautas D.
 - t-001
   global_id: t-31972
   teiginys: 'Z. Ivinskio „Vytautas D. istorinėje literatūroje ir jo periodo bibliografija“ paskelbta „Athenaeum“ 1931 m., p. 89-141.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/autoriai/Z. Ivinskis|Z. Ivinskis]]; mentioned_place: Kaunas'
+  temporaliniai_duomenys: 'įvykio data: 1931 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

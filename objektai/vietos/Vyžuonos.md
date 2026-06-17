@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Vyžuonas užėmė lietuviai ir vokiečiai, verždamiesi toliau po susidūrimo su priešo pėstininkais prie Debeikių. Kolonos padaliniai įsitvirtino Vyžuonose ir Vyžuonų dvare po to, kai buvo atsisakyta tolesnio puolimo.
+Verždamiesi toliau lietuviai ir vokiečiai užėmė Vyžuonas. Kolonos padaliniai prie kario diržo įsitvirtino Vyžuonose ir Vyžuonų dvare.
 
 ## Teiginiai
 
@@ -20,6 +20,8 @@ Vyžuonas užėmė lietuviai ir vokiečiai, verždamiesi toliau po susidūrimo s
 - t-001
   global_id: t-42341
   teiginys: 'Vyžuonas užėmė lietuviai ir vokiečiai, verždamiesi toliau po susidūrimo su priešo pėstininkais prie Debeikių.'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo kontekstinis; perrašyta į aiškesnį enciklopedinį sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Kaimas'
   pagrindžia:
     - c-002
 
@@ -27,6 +29,8 @@ Vyžuonas užėmė lietuviai ir vokiečiai, verždamiesi toliau po susidūrimo s
 - t-002
   global_id: t-42342
   teiginys: 'Kolonos padaliniai įsitvirtino Vyžuonose ir Vyžuonų dvare po to, kai buvo atsisakyta tolesnio puolimo.'
+  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir aiškiau susietas faktas su vieta.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]'
   pagrindžia:
     - c-001
 

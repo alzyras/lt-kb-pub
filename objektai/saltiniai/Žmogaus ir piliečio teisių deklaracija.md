@@ -3,17 +3,24 @@ tipas: saltinis
 pavadinimas: 'Žmogaus ir piliečio teisių deklaracija'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1789 m.'
+  - '1791 m.'
+date_start: '1789'
+date_end: '1791'
 sukurta: ''
 atnaujinta: ''
 tags:
   - reforma
   - saltinis
+amziai:
+  - 'XVIII'
 ---
 # Žmogaus ir piliečio teisių deklaracija
 
 ## Santrauka
 
-1791 m. Gegužės trečiosios konstitucijos projekto apmatai buvo parašyti pagal 1789 m. Prancūzijoje priimtą Žmogaus ir piliečio teisių deklaraciją.
+Gegužės trečiosios konstitucijos projekto apmatai parašyti pagal Prancūzijos revoliucijos metu (1789) priimtą Žmogaus ir piliečio teisių deklaraciją.
 
 ## Teiginiai
 
@@ -21,6 +28,11 @@ tags:
 - t-001
   global_id: t-21332
   teiginys: '1791 m. Gegužės trečiosios konstitucijos projekto apmatai buvo parašyti pagal 1789 m. Prancūzijoje priimtą Žmogaus ir piliečio teisių deklaraciją.'
+  sudarymo_pagrindimas: 'Perrašyta į aiškesnį sakinį apie deklaracijos įtaką.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/konstitucijos|konstitucijos]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Prancūzija'
+  temporaliniai_duomenys: 'įvykio data: 1789 m.; įvykio data: 1791 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Perrašyta į aiškesnį sakinį apie deklaracijos įtaką.'
   pagrindžia:
     - c-001
 

@@ -43,6 +43,8 @@ Nenurodyta
 - t-001
   global_id: t-59696
   teiginys: 'Popiežius Honorijus III žiedą, o imperatorius Fridrichas II vėliavos insignijas suteikė kaip Ordino magistro valdžios žymenis.'
+  sudarymo_pagrindimas: 'Pradinis teiginys labiau apie titulą; citata pagrindžia tikslesnį faktą apie valdžios žymenis.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/daiktai/Vėliavos|Vėliavos]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_person: [[objektai/asmenys/Fridrichas II|Fridrichas II]]; mentioned_person: [[objektai/asmenys/Popiežius Honorijus III|Popiežius Honorijus III]]; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -68,16 +70,3 @@ Nenurodyta
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Fridrichas]]
-- [[objektai/asmenys/Fridrichas II]]
-- [[objektai/asmenys/Popiežius Honorijus III]]
-- [[objektai/grupes/Teutonai]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/vėliava]]
-- [[objektai/daiktai/Vėliavos]]
-- [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]
-- [[objektai/ivykiai/Hermano iš Zalcos išaukštinimas kunigaikščio titulu]]
-- [[objektai/grupes/Kryžiuočių ordinas]]

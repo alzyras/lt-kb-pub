@@ -11,16 +11,16 @@ date_start: '1345'
 date_end: '1382'
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XIV'
 tags:
   - paprotys
+amziai:
+  - 'XIV'
 ---
 # Sezoniniai ordino žygiai į Lietuvą
 
 ## Santrauka
 
-Po 1345 metų kryžiuočiai prieš Lietuvą išplėtojo reguliarią reysų sistemą. Ordino kronikose 1345–1382 m. suregistruoti 66 Prūsų kryžiuočių ir 30 Livonijos žygių. Ordinas kasmet rengdavo į Lietuvą bent du žygius: vieną sausį ar vasarį, kitą vasaros pabaigoje, dažniausiai rugpjūtį.
+Ordinas reguliariai rengdavo žygius į Lietuvą pagal nusistovėjusią sezoninę reysų sistemą. Žygiai būdavo planuojami žiemą ir vasaros viduryje, o XIV amžiaus antroje pusėje jų mastą rodo dešimtys kronikose suregistruotų puolimų iš Prūsijos ir Livonijos.
 
 ## Laikotarpis ir datos
 
@@ -43,10 +43,14 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 <a id="claim-t-05363"></a>
 - t-001
   global_id: t-05363
   teiginys: 'Po 1345 metų kryžiuočiai prieš Lietuvą išplėtojo reguliarią reysų sistemą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: po 1345 m.; įvykio data: 1345 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -54,11 +58,16 @@ Nenurodyta
 - t-002
   global_id: t-05364
   teiginys: 'Ordino kronikose 1345–1382 m. suregistruoti 66 Prūsų kryžiuočių ir 30 Livonijos žygių.'
+  sudarymo_pagrindimas: 'Reikia pataisyti linksnį ir pašalinti ne citatoje tiesiogiai nurodytą kryptį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Livonija; mentioned_place: Prūsai'
+  temporaliniai_duomenys: 'įvykio data: 1345-1382; įvykio data: 1382 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia pataisyti linksnį ir pašalinti ne citatoje tiesiogiai nurodytą kryptį.'
   pagrindžia:
     - c-003
 
-
 ## Reikšmingi paminėjimai
+
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -73,6 +82,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -84,6 +94,7 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+
 - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -97,11 +108,4 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-    - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/grupes/Livonijos ordinas]]
+    - t-003

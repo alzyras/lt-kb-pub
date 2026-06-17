@@ -28,6 +28,11 @@ Juk jau 1425 m. viename suvažiavime šlėkta pasirinko karalai­ tį Vladislov�
 - t-001
   global_id: t-95940
   teiginys: '1425 m. lenkų šlėkta pasirinko Jogailos sūnų Vladislovą būsimu valdovu specialiu Vytauto, jo prelatų, baronų ir riterių patarimu bei valia.'
+  sudarymo_pagrindimas: 'Citata leidžia suformuluoti aiškų faktą be OCR triukšmo ir išnašos žymų.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/šlėkta|šlėkta]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1425 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata leidžia suformuluoti aiškų faktą be OCR triukšmo ir išnašos žymų.'
   pagrindžia:
     - c-001
 
@@ -51,10 +56,3 @@ Juk jau 1425 m. viename suvažiavime šlėkta pasirinko karalai­ tį Vladislov�
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/šlėkta]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/asmenys/Vladislovas (Jogailos sūnus)]]

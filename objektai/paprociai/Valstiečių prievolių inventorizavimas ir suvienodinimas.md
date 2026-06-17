@@ -30,18 +30,19 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 <a id="claim-t-02041"></a>
 - t-001
   global_id: t-02041
   teiginys: 'Privatiniuose dvaruose valstiečių prievolėms suvienodinti buvo įsakyta parengti inventorius, kuriuose surašytos jų pareigos.'
+  sudarymo_pagrindimas: 'Sakinys papildytas inventorių paskirtimi, kurią tiesiogiai pagrindžia citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/inventoriai|inventoriai]]'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Privatiniuose dvaruose valstiečių prievolėms suvienodinti buvo įsakyta parengti inventorius, kuriuose surašytos jų pareigos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Privatiniuose dvaruose tebuvo tik suvienodintos vals-
@@ -49,14 +50,8 @@ Nenurodyta
     sius inventorius, kuriuose nuo seno buvo surašomos visos
     valstiečių pareigos. Inventoriams suvienodinti visose gubernijose
     buvo įsteigti specialūs komitetai.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/inventoriai]]

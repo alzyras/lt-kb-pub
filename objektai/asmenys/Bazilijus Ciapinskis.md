@@ -20,6 +20,8 @@ Rusėnų / baltarusių spaustuvininkas Bazilijus Ciapinskis antrojoje XVI a.
 - t-001
   global_id: t-18848
   teiginys: 'Rusėnų ir baltarusių spaustuvininkas Bazilijus Ciapinskis antrojoje XVI a. pusėje spausdino raštus dviem stulpeliais.'
+  sudarymo_pagrindimas: 'Sakinys aiškus, enciklopedinis ir tiksliai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltarusiai|Baltarusiai]]; mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -39,10 +41,3 @@ Rusėnų / baltarusių spaustuvininkas Bazilijus Ciapinskis antrojoje XVI a.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Baltarusiai]]
-- [[objektai/grupes/Rusėnai]]
-- [[objektai/grupes/Slavai]]
-- [[objektai/grupes/Stačiatikiai]]

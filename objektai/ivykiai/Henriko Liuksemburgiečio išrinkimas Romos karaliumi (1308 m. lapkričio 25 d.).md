@@ -46,6 +46,12 @@ Nenurodyta
 - t-001
   global_id: t-62281
   teiginys: '1308 m. lapkričio 25 d. Vokietijos elektoriai vieningai išrinko Henriką Liuksemburgietį Romos karaliumi.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir atitinka citatos informaciją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokietijos valdovai elektoriai|Vokietijos valdovai elektoriai]]; mentioned_object: [[objektai/zodynas/elektoriai|elektoriai]]; mentioned_place: Vokietija'
+  temporaliniai_duomenys: 'įvykio data: 1308 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys ir atitinka citatos informaciją.'
   pagrindžia:
     - c-001
 
@@ -65,9 +71,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Vokietijos valdovai elektoriai]]
-- [[objektai/zodynas/elektoriai]]
-- [[objektai/asmenys/Henrikas VII]]

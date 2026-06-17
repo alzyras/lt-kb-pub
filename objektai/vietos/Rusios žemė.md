@@ -29,6 +29,11 @@ Dusburgietis teigia, kad prūsijos žemės aprašymas Prūsijos žemę riboja i�
 - t-001
   global_id: t-58628
   teiginys: 'Nemunas prasidėjo Rusios valdose ir skyrė Prūsiją nuo Rusios, Lietuvos bei Kuršo.'
+  sudarymo_pagrindimas: 'Pašalinta nereikalinga formuluotė ir paliktas citatos palaikomas faktas.'
+  susije_objektai: 'mentioned_place: Krokuva; mentioned_place: Kuršas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Pomeranija; mentioned_place: Prūsija; mentioned_place: Vysla'
+  temporaliniai_duomenys: 'įvykio data: 1236 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalinta nereikalinga formuluotė ir paliktas citatos palaikomas faktas.'
   pagrindžia:
     - c-001
 
@@ -36,6 +41,8 @@ Dusburgietis teigia, kad prūsijos žemės aprašymas Prūsijos žemę riboja i�
 - t-002
   global_id: t-58629
   teiginys: 'Rusios žemė buvo minima tarp Prūsijos žemę ribojusių vietovių ir gamtinių ribų.'
+  sudarymo_pagrindimas: 'Pašalintas antraštės triukšmas, teiginys sutelktas į Rusios žemę.'
+  susije_objektai: 'mentioned_place: Dobrynė; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Mazovija; mentioned_place: Pomeranija; mentioned_place: Prūsija; mentioned_place: Vysla'
   pagrindžia:
     - c-002
 

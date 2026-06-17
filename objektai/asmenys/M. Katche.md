@@ -20,9 +20,11 @@ Katche.
 - t-001
   global_id: t-39447
   teiginys: 'Karininkas M. Katche buvo Panevėžio bataliono instruktorius.'
+  sudarymo_pagrindimas: 'Pradinis teiginys neturi predikato, o citata pagrindžia Katche pareigas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/ivykiai/Antrasis Panevėžio puolimas.md#claim-t-41237|Antrasis Panevėžio puolimas]]: 1919 m. gegužės 19 d. Antrasis Panevėžio puolimas buvo tęsiamas, o lietuvių spaudžiami bolševikai traukėsi visu frontu.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -38,8 +40,3 @@ Katche.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/ivykiai/Antrasis Panevėžio puolimas]]

@@ -18,7 +18,7 @@ amziai:
 
 ## Santrauka
 
-Gardino pulko štabas, lauko artilerijos baterija ir vienas pulko batalionas buvo įsikūrę kaime, prie kurio sugulė lietuviai.
+Kaime buvo įsikūręs lenkų brigados ir Gardino pulko štabas, lauko artilerijos baterija ir vienas pulko batalionas.
 
 ## Teiginiai
 
@@ -26,6 +26,8 @@ Gardino pulko štabas, lauko artilerijos baterija ir vienas pulko batalionas buv
 - t-001
   global_id: t-78168
   teiginys: 'Gardino pulko štabas, lauko artilerijos baterija ir vienas pulko batalionas buvo įsikūrę kaime, prie kurio sugulė lietuviai.'
+  sudarymo_pagrindimas: 'Pradinis teiginys prasideda neaiškiu vietos įvardijimu, todėl jį reikia sukonkretinti.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/brigada|brigada]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_place: Gardinas; mentioned_place: Kaimas'
   pagrindžia:
     - c-001
 
@@ -45,10 +47,3 @@ Gardino pulko štabas, lauko artilerijos baterija ir vienas pulko batalionas buv
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Artilerija]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/brigada]]

@@ -36,6 +36,11 @@ Nenurodyta
 - t-001
   global_id: t-185531
   teiginys: 'Žiemos pabaigoje į Lietuvą pas karalių atvyko popiežiaus pasiuntinys Liudvikas, Antiochijos patriarchas.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys gramatiškas ir tiksliai perteikia Liudviko atvykimą bei pareigas.'
+  susije_objektai: 'location: Gardinas; location: Lietuva; mentioned_place: Gardinas; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -43,6 +48,11 @@ Nenurodyta
 - t-002
   global_id: t-185532
   teiginys: 'Po Bajazito sutriuškinimo skitų vardas, pasak Kojelavičiaus, turkams kėlė didžiausią siaubą.'
+  teiginio_tipas: 'saltinio_teiginys'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Tai autoriaus vertinimas, todėl palikta saikinga šaltinio atribucija.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_object: [[objektai/zodynas/skitai|skitai]]; mentioned_person: [[objektai/asmenys/Bajazitas|Bajazitas]]'
   pagrindžia:
     - c-002
 
@@ -50,6 +60,14 @@ Nenurodyta
 - t-003
   global_id: t-185533
   teiginys: 'Kazimieras manė, kad valstybei nenaudinga pradėti karą su turkais, kol nebaigtas karas su kryžiuočiais.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pašalintas puslapio ir antraštės triukšmas, išlaikyta citatos mintis.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Prūsija'
+  temporaliniai_duomenys: 'įvykio data: 1465 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas puslapio ir antraštės triukšmas, išlaikyta citatos mintis.'
   pagrindžia:
     - c-003
 
@@ -133,13 +151,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Bajazitas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/chanas]]
-- [[objektai/zodynas/skitai]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Liudvikas (Antiochijos patriarchas)]]

@@ -28,6 +28,9 @@ Ulaščik, Maskva 1966.
 - t-001
   global_id: t-30872
   teiginys: 'N. N. Ulaščik 1966 m. Maskvoje išleido Bychovco kroniką.'
+  susije_objektai: 'mentioned_place: Maskva'
+  temporaliniai_duomenys: 'įvykio data: 1966 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

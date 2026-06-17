@@ -18,9 +18,14 @@ atnaujinta: ''
 - t-001
   global_id: t-185362
   teiginys: 'Žygyje kartu su Algirdu kariuomenė buvo padalyta į tris žygio voras.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Sakinys sutrumpintas iki aiškaus fakto apie žygio voras.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Neidenburgas'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Fiodoras Ostrogiškis.md#claim-t-186037|Fiodoras Ostrogiškis]]: Kunigaikštis Fiodoras Ostrogiškis gavo įsakymą su viena žygio vora užimti Podolę.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -40,10 +45,3 @@ atnaujinta: ''
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/asmenys/Fiodoras Ostrogiškis]]

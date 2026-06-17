@@ -26,6 +26,11 @@ Dusburgietis teigia, kad potkowski E.
 - t-001
   global_id: t-61237
   teiginys: 'E. Potkowskio veikalas „Rycerze w habitach“ išleistas Varšuvoje 1974 m.'
+  sudarymo_pagrindimas: 'Citata palaiko autorių, pavadinimą, leidimo vietą ir metus.'
+  susije_objektai: 'mentioned_place: Varšuva'
+  temporaliniai_duomenys: 'įvykio data: 1974 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko autorių, pavadinimą, leidimo vietą ir metus.'
   pagrindžia:
     - c-001
 

@@ -20,6 +20,8 @@ tags:
 - t-001
   global_id: t-34936
   teiginys: 'Šekspyro „Venecijos pirklį“ J. Talmantas išvertė tiesiog iš originalo; leidimas turėjo iliustracijų ir komentarų.'
+  sudarymo_pagrindimas: 'Citata leidžia suformuluoti išsamesnį faktą apie vertimą ir leidinio ypatybes.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/J. Talmantas|J. Talmantas]]; mentioned_place: Venecija'
   pagrindžia:
     - c-001
 

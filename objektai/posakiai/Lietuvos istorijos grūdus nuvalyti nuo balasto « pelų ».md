@@ -20,6 +20,7 @@ Metodiškai ir logiškai įpratusiam dirbti aukšto išsilavinimo jėzuitui jau 
 - t-001
   global_id: t-31547
   teiginys: 'Kojalavičius M. Stryjkovskio kroniką sutvarkė pagal literatūrinius reikalavimus, tarsi nuvalydamas Lietuvos istorijos grūdus nuo pelų.'
+  susije_objektai: 'mentioned_place: Europa; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

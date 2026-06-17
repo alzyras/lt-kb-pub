@@ -3,23 +3,35 @@ tipas: vieta
 pavadinimas: 'Polonka'
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
+datos:
+  - '1971 m.'
+date_start: '1971'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
+amziai:
+  - 'XX'
 ---
 # Polonka
 
 ## Santrauka
 
-Polonka, dabar Polonečka, yra kaimas prie Dviejos upės. Polonka yra prie Dviejos upės, kuri nurodyta kaip Ušos intakas. Polonka, dabar vadinama Polonečka, yra kaimas apie 10 km į pietryčius nuo Cirino, prie Dviejos upės.
+Polonka, dabar Polonečka, yra kaimas prie Dviejos upės. Dvieja įvardijama kaip Ušos intakas.
 
 ## Teiginiai
 
 <a id="claim-t-187295"></a>
 - t-001
   global_id: t-187295
-  teiginys: 'Polonka, dabar Polonečka, yra kaimas prie Dviejos upės.'
+  teiginys: '1971 m. leidimo paaiškinime Polonka, dabar Polonečka, nurodoma kaip kaimas prie Dviejos upės.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Citata yra redakcinė pastaba, todėl tiksliau tai atribuuoti leidimo paaiškinimui.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Cirinas; mentioned_place: Kaimas'
+  temporaliniai_duomenys: 'įvykio data: 1971 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata yra redakcinė pastaba, todėl tiksliau tai atribuuoti leidimo paaiškinimui.'
   pagrindžia:
     - c-001
 
@@ -27,6 +39,9 @@ Polonka, dabar Polonečka, yra kaimas prie Dviejos upės. Polonka yra prie Dviej
 - t-002
   global_id: t-187296
   teiginys: 'Polonka yra prie Dviejos upės, kuri nurodyta kaip Ušos intakas.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Sakinys aiškus, faktinis ir paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Cirinas; mentioned_place: Kaimas'
   pagrindžia:
     - c-001
 
@@ -34,9 +49,19 @@ Polonka, dabar Polonečka, yra kaimas prie Dviejos upės. Polonka yra prie Dviej
 - t-003
   global_id: t-187642
   teiginys: 'Polonka, dabar vadinama Polonečka, yra kaimas apie 10 km į pietryčius nuo Cirino, prie Dviejos upės.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas lokalizacinis sakinys apie Polonką ir jos dabartinį pavadinimą. Į jį neperkelta papildoma pastaba apie Ušos intaką.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Cirinas; mentioned_place: Kaimas'
   pagrindžia:
     - c-002
-
+- susijęs iš Aukštasis krantas: Aukštasis krantas yra apie 25 km į šiaurę ar šiaurės vakarus nuo Klecko.
+- susijęs iš Aukštasis krantas: Aukštasis krantas yra kaimas dešiniame Ušos krante.
+- susijęs iš Uša: Uša išteka apie 20 km į šiaurę nuo Klecko ir teka pro Nesvyžių.
+- susijęs iš Uša: Uša yra pietinis kairysis Nemuno aukštupio intakas.
+- susijęs iš Uša: Uša išteka apie 20 km į šiaurę nuo Klecko ir teka pro Nesvyžių.
+- susijęs iš Uša: Uša yra pietinis kairysis Nemuno aukštupio intakas.
 ## Reikšmingi paminėjimai
 
 - c-001

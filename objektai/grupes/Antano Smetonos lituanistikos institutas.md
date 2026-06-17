@@ -3,12 +3,18 @@ tipas: grupe
 pavadinimas: 'Antano Smetonos lituanistikos institutas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1938 m.'
+date_start: '1938'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
   - mokslininkas
   - tauta
+amziai:
+  - 'XX'
 ---
 # Antano Smetonos lituanistikos institutas
 
@@ -22,9 +28,20 @@ tags:
 - t-001
   global_id: t-19633
   teiginys: '1938 m. lapkričio 1 d. įkurtas Antano Smetonos lituanistikos institutas turėjo tirti lietuvių kalbą, tautosaką ir Lietuvos praeitį.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai apibūdina instituto įkūrimą ir paskirtį pagal citatą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Lituanistika|Lituanistika]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1938 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai apibūdina instituto įkūrimą ir paskirtį pagal citatą.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75738|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Antano Smetonos režimas nereguliavo kultūros reiškinių raidos, turinio ir dvasios, nors kalbėjo apie lietuvių tautinės kultūros kūrimą.
+- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75746|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Antano Smetonos režimas nereguliavo kultūros reiškinių raidos, turinio ir dvasios.
+- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75765|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Antano Smetonos režimas nereguliavo kultūros reiškinių raidos, turinio ir dvasios, nors kalbėjo apie lietuvių tautinės kultūros kūrimą.
+- susijęs iš [[objektai/asmenys/Kazimieras Būga.md#claim-t-19054|Kazimieras Būga]]: Kazimieras Būga pradėjo lietuvių kalbos žodyno sudarymą.
+- susijęs iš [[objektai/ivykiai/Antano Smetonos lituanistikos instituto įkūrimas (1938 m. lapkričio 1 d.).md#claim-t-20162|Antano Smetonos lituanistikos instituto įkūrimas (1938 m. lapkričio 1 d.)]]: 1938 m. lapkričio 1 d. įkurtas Antano Smetonos lituanistikos institutas turėjo tirti lietuvių kalbą, tautosaką ir Lietuvos praeitį.
+- susijęs iš [[objektai/zodynas/Lituanistika.md#claim-t-22006|Lituanistika]]: 1938 m. lapkričio 1 d. įkurtas Antano Smetonos lituanistikos institutas turėjo tirti lietuvių kalbą, tautosaką ir Lietuvos praeitį.
+- susijęs iš [[objektai/zodynas/Politrukai.md#claim-t-22016|Politrukai]]: Sovietmečiu politrukai trukdė rengti Kazimiero Būgos pradėtą lietuvių kalbos žodyną.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -44,14 +61,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/A. Smetona]]
-- [[objektai/asmenys/Antanas (vaistininkas)]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/Lituanistika]]
-- [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
-- [[objektai/ivykiai/Antano Smetonos lituanistikos instituto įkūrimas (1938 m. lapkričio 1 d.)]]
-- [[objektai/asmenys/Kazimieras Būga]]
-- [[objektai/zodynas/Politrukai]]

@@ -20,6 +20,8 @@ tags:
 - t-001
   global_id: t-88024
   teiginys: 'Hennebergeris nurodytas tarp vėlesnių kronikininkų, perėmusių pasakojimą iš Simono Grunau kronikos.'
+  sudarymo_pagrindimas: 'Pradinis teiginys yra fragmentiškas, bet citata palaiko glaustą faktą apie Hennebergerį.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/Simono Grunau|Simono Grunau]]'
   pagrindžia:
     - c-001
 

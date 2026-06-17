@@ -30,6 +30,11 @@ SbRIO = Sbornik Russkogo Imperatorskogo Istoričeskogo Obščestva, St.
 - t-001
   global_id: t-30043
   teiginys: 'Sbornik Russkogo Imperatorskogo Istoričeskogo Obščestva leistas Sankt Peterburge ir turėjo 148 rinkinio tomus.'
+  sudarymo_pagrindimas: 'Citata pagrindžia leidimo vietą ir tomų skaičių.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Peterburgas'
+  temporaliniai_duomenys: 'įvykio data: 1487-1570; įvykio data: 1570 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia leidimo vietą ir tomų skaičių.'
   pagrindžia:
     - c-001
 

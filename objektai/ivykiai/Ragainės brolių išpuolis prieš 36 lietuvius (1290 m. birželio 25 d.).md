@@ -45,6 +45,9 @@ Nenurodyta
 - t-001
   global_id: t-62904
   teiginys: 'Ragainės broliai, gavę žinią iš žvalgo, užpuolė 36 lietuvius viename lauke ir 25 iš jų nukovė.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Citata pagrindžia aiškesnį faktinį sakinį apie išpuolį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_person: [[objektai/asmenys/Liudvikas iš Libencelės|Liudvikas iš Libencelės]]; mentioned_person: [[objektai/asmenys/Markvardas (Ragainės komtūras)|Markvardas (Ragainės komtūras)]]; mentioned_person: [[objektai/asmenys/Markvardas iš Revelingės|Markvardas iš Revelingės]]; mentioned_place: Ragainė'
   pagrindžia:
     - c-002
 
@@ -52,6 +55,12 @@ Nenurodyta
 - t-002
   global_id: t-62905
   teiginys: '1290 m. birželio 25 d. 36 lietuviai iš Aukaimio apylinkių patraukė trikdyti Ragainės brolių plėšikiškais išpuoliais.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Teiginys perrašytas pašalinant antraštės ir OCR triukšmą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Aukaimis; mentioned_place: Ragainė'
+  temporaliniai_duomenys: 'įvykio data: 1290 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys perrašytas pašalinant antraštės ir OCR triukšmą.'
   pagrindžia:
     - c-001
 
@@ -88,15 +97,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Liudvikas]]
-- [[objektai/asmenys/Liudvikas iš Libencelės]]
-- [[objektai/asmenys/Markvardas (Ragainės komtūras)]]
-- [[objektai/asmenys/Markvardas iš Revelingės]]
-- [[objektai/zodynas/ginklanešiai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/paprociai/Burtų metimas prieš karo išpuolį]]
-- [[objektai/paprociai/Burtų traukimas prieš svarbesnius darbus]]

@@ -29,6 +29,11 @@ Steigiamojo Seimo nariai stengėsi pateisinti rinkėjų lūkesčius.
 - t-001
   global_id: t-78139
   teiginys: 'Steigiamojo Seimo priimtas Lietuvos valstybės nepriklausomybės proklamavimo dokumentas skelbė Lietuvą nepriklausoma valstybe.'
+  sudarymo_pagrindimas: 'Sakinys aiškiai nusako dokumento paskirtį ir turinį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1918 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Sakinys aiškiai nusako dokumento paskirtį ir turinį.'
   pagrindžia:
     - c-001
 

@@ -40,6 +40,8 @@ Nenurodyta
 - t-001
   global_id: t-08350
   teiginys: 'Vyženos buvo moterų ir vyrų avalas, tačiau vyrai kojas vyniojo autais, o moterys mūvėjo žekes.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys paremtas citata, bet reikėjo pataisyti kalbą ir aiškumą.'
   pagrindžia:
     - c-001
 
@@ -47,6 +49,8 @@ Nenurodyta
 - t-002
   global_id: t-08351
   teiginys: 'Vyženos buvo toks svarbus daiktas, kad vaikai turėjo mokėti jas vyžti.'
+  teiginio_tipas: 'faktas'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Balti vilnoniai marškiniai|Balti vilnoniai marškiniai]]; mentioned_object: [[objektai/zodynas/Liuosybė|Liuosybė]]'
   pagrindžia:
     - c-002
 
@@ -84,8 +88,3 @@ Nenurodyta
 ## Pastabos
 
 - terminai čia gali turėti ir žodyninę vertę, bet šiame gabale jie aiškiai aprašo konkrečią avalynę ir kojas vyniojančius daiktus.
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Balti vilnoniai marškiniai]]
-- [[objektai/zodynas/Liuosybė|liuosybė]]

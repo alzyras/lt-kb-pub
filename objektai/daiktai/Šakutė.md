@@ -51,6 +51,7 @@ Nenurodyta
 - t-001
   global_id: t-13464
   teiginys: 'Bona Sforca į Lenkiją ir Lietuvą atnešė šakutę kaip itališkos kultūros naujovę.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Bona|Bona]]; mentioned_person: [[objektai/asmenys/Bona Sforca|Bona Sforca]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Skandinavija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -58,6 +59,7 @@ Nenurodyta
 - t-002
   global_id: t-13465
   teiginys: 'Šakutė tuo metu buvo nežinoma Lietuvoje ir Skandinavijos šalyse.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Skandinavija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -81,14 +83,3 @@ Nenurodyta
 ## Šaltiniai ir įrodymai
 
 Nenurodyta
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/buities-daiktas]]
-
-### Susiję objektai
-- [[objektai/asmenys/Žygimantas]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/asmenys/Bona]]
-- [[objektai/asmenys/Bona Sforca]]
-- [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]]

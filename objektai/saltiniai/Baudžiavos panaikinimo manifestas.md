@@ -3,33 +3,41 @@ tipas: saltinis
 pavadinimas: 'Baudžiavos panaikinimo manifestas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1861 m.'
+date_start: '1861'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - reforma
   - saltinis
+amziai:
+  - 'XIX'
 ---
 # Baudžiavos panaikinimo manifestas
 
 ## Santrauka
 
-1861 m. vasario 19 d. paskelbtu Baudžiavos panaikinimo manifestu Rusijos imperijoje panaikinta baudžiava.
+Baudžiavos panaikinimo manifestas buvo paruoštas Petrapily ir paskelbtas 1861 m. vasario 19 d. Juo visoje Rusijos imperijoje buvo panaikinta baudžiava, o valstiečiams duota teisė per 49 metus išsipirkti žemę. Baudžiavos panaikinimo vykdymas buvo pačių dvarininkų rankose, nes visi taikos tarpininkai buvo renkami iš jų tarpo.
 
 ## Teiginiai
+
 <a id="claim-t-02139"></a>
 - t-001
   global_id: t-02139
   teiginys: '1861 m. vasario 19 d. paskelbtu Baudžiavos panaikinimo manifestu Rusijos imperijoje panaikinta baudžiava.'
+  sudarymo_pagrindimas: 'Teiginys sutrumpintas iki vieno aiškaus sakinio.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/Baudžiava|Baudžiava]]; mentioned_place: Rusija'
+  temporaliniai_duomenys: 'įvykio data: 1861 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys sutrumpintas iki vieno aiškaus sakinio.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: '1861 m. vasario 19 d. paskelbtu Baudžiavos panaikinimo manifestu Rusijos imperijoje panaikinta baudžiava.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Nebuvo tik sutikimo dėl tolimesnio jų li-
@@ -40,10 +48,8 @@ tags:
     pily ir paskelbtas 1861 m. vasario 19 d. Juo visoje Rusijos impe-
     rijoje buvo panaikinta baudžiava, o valstiečiams
     duota teisė per 49 metus išsipirkti žemę.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

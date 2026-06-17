@@ -10,7 +10,7 @@ atnaujinta: ''
 
 ## Santrauka
 
-Lietuvos metraštis pasakoja, kad Vytautas vėliau prašė Jogailos raštų ir privilegijų dėl jam duotų rusų žemių. Lietuvos metraštis teigia, kad Liublino pilyje Jogaila raštais užrašė Skirgailai visą Vytauto tėviškę Vytauto akivaizdoje, ir Vytautui tai buvo labai skaudu. Lietuvos metraštis pasakoja, kad Jogaila Liublino pilyje raštais užrašė Skirgailai visą Vytauto tėviškę.
+Lietuvos metraštis pasakoja, kad Jogaila Liublino pilyje raštais užrašė Skirgailai visą Vytauto tėviškę. Lietuvos metraštis pasakoja, kad tai įvyko Vytauto akivaizdoje ir jam buvo labai skaudu.
 
 ## Laikotarpis ir datos
 
@@ -35,21 +35,30 @@ Nenurodyta
 <a id="claim-t-186680"></a>
 - t-001
   global_id: t-186680
-  teiginys: 'Lietuvos metraštis pasakoja, kad Vytautas vėliau prašė Jogailos raštų ir privilegijų dėl jam duotų rusų žemių.'
+  teiginys: 'Lietuvos metraštis Vytauto vardu pasakoja, kad Vytautas prašė Jogailos raštų ir privilegijų dėl jam duotų rusų žemių.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Patikslintas pasakojimo balsas ir paliktas aiškus veikėjas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_object: [[objektai/zodynas/tėviškė|tėviškė]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Liublinas'
   pagrindžia:
     - c-001
 
 <a id="claim-t-186681"></a>
 - t-002
   global_id: t-186681
-  teiginys: 'Lietuvos metraštis teigia, kad Liublino pilyje Jogaila raštais užrašė Skirgailai visą Vytauto tėviškę Vytauto akivaizdoje, ir Vytautui tai buvo labai skaudu.'
+  teiginys: 'Lietuvos metraštis Vytauto vardu pasakoja, kad Jogaila Liubline Vytauto akivaizdoje užrašė Skirgailai jo tėviškę, ir Vytautui tai buvo skaudu.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Jausminis vertinimas paliktas šaltinio pasakojimo atribucijoje.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_object: [[objektai/zodynas/tėviškė|tėviškė]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Lietuva; mentioned_place: Liublinas'
   pagrindžia:
     - c-001
 
 <a id="claim-t-186682"></a>
 - t-003
   global_id: t-186682
-  teiginys: 'Lietuvos metraštis pasakoja, kad Jogaila Liublino pilyje raštais užrašė Skirgailai visą Vytauto tėviškę.'
+  teiginys: 'Lietuvos metraštis Vytauto vardu pasakoja, kad Jogaila Liublino pilyje raštais užrašė Skirgailai visą Vytauto tėviškę.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Patikslinta, kad epizodas perteikiamas Vytauto vardu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_object: [[objektai/zodynas/tėviškė|tėviškė]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Lietuva; mentioned_place: Liublinas'
   pagrindžia:
     - c-001
 
@@ -75,12 +84,3 @@ Nenurodyta
     - t-003
     - t-002
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Rusai]]
-- [[objektai/asmenys/Skirgaila]]
-- [[objektai/zodynas/tėviškė]]
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/metraštis]]

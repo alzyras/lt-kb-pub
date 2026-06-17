@@ -14,7 +14,7 @@ tags:
 
 ## Santrauka
 
-Atšilimo laikotarpiu po J. Stalino mirties sovietinėje Lietuvoje oficialiai nuolaidžiau vertintas tautinis kultūrinis palikimas.
+Lietuvos visuomenėje konformizmas ypač išplito destalinizacijos metu. Padėtis kultūroje ėmė švelnėti tik šeštojo dešimtmečio antroje pusėje, prasidėjus destalinizacijai.
 
 ## Teiginiai
 
@@ -22,6 +22,8 @@ Atšilimo laikotarpiu po J. Stalino mirties sovietinėje Lietuvoje oficialiai nu
 - t-001
   global_id: t-22112
   teiginys: 'Atšilimo laikotarpiu po J. Stalino mirties sovietinėje Lietuvoje oficialiai nuolaidžiau vertintas tautinis kultūrinis palikimas.'
+  sudarymo_pagrindimas: 'Perrašyta į aiškesnį sakinį su objektu ir vieta.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/atšilimas|atšilimas]]; mentioned_person: [[objektai/asmenys/Mikalojus Konstantinas Čiurlionis|Mikalojus Konstantinas Čiurlionis]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -48,18 +50,3 @@ Atšilimo laikotarpiu po J. Stalino mirties sovietinėje Lietuvoje oficialiai nu
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Mikalojus Konstantinas Čiurlionis|Mikalojus Konstantinas Čiurlionis (dailininkas)]]
-- [[objektai/zodynas/atšilimas]]
-- [[objektai/asmenys/Balys Sruoga]]
-- [[objektai/asmenys/Jonas Mačiulis-Maironis]]
-- [[objektai/asmenys/Jurgis Baltrušaitis]]
-- [[objektai/asmenys/M. K. Čiurlionis]]
-- [[objektai/autoriai/Maironis]]
-- [[objektai/asmenys/V. Krėvė-Mickevičius]]
-- [[objektai/asmenys/Vincas Krėvė-Mickevičius]]
-- [[objektai/asmenys/Vincas Mykolaitis-Putinas]]
-- [[objektai/zodynas/destalinizacija postalininis metas atšilimo laikotarpis]]

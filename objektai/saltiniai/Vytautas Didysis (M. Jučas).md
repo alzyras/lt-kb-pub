@@ -3,10 +3,16 @@ tipas: saltinis
 pavadinimas: 'Vytautas Didysis (M. Jučas)'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '2010 m.'
+date_start: '2010'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XXI'
 ---
 # Vytautas Didysis (M. Jučas)
 
@@ -20,6 +26,11 @@ Vytautas Didysis.
 - t-001
   global_id: t-21319
   teiginys: 'M. Jučo veikalas „Vytautas Didysis“ išleistas Čikagoje 2010 m.'
+  sudarymo_pagrindimas: 'Pradinis teiginys per trumpas, o citata pagrindžia autorių, pavadinimą, leidimo vietą ir metus.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Čikaga'
+  temporaliniai_duomenys: 'įvykio data: 2010 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys per trumpas, o citata pagrindžia autorių, pavadinimą, leidimo vietą ir metus.'
   pagrindžia:
     - c-001
 

@@ -28,6 +28,8 @@ Radzvilovaitė pateikė žinių apie lietuvių genčių skydus II-VIII a. Radzvi
 - t-001
   global_id: t-30596
   teiginys: 'Radzvilovaitė pateikė žinių apie lietuvių genčių skydus II-VIII a.'
+  sudarymo_pagrindimas: 'Teiginys glaustai ir tiksliai perteikia citatoje nurodytą faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Brūkšniuotoji keramika|Brūkšniuotoji keramika]]; mentioned_object: [[objektai/daiktai/Sidabro dirbiniai|Sidabro dirbiniai]]; mentioned_person: [[objektai/autoriai/E. Danilaitė|E. Danilaitė]]; mentioned_person: [[objektai/autoriai/J. Stankus|J. Stankus]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -35,9 +37,14 @@ Radzvilovaitė pateikė žinių apie lietuvių genčių skydus II-VIII a. Radzvi
 - t-002
   global_id: t-30597
   teiginys: 'E. Radzvilovaitė paskelbė darbą „Lietuvių genčių skydai II–VIII amžiais“.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Skydai|Skydai]]; mentioned_place: Krokuva; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/autoriai/Lietuvos istorikai ir socialinės istorijos tyrėjai.md#claim-t-179535|Lietuvos istorikai ir socialinės istorijos tyrėjai]]: P. Pakarklis gvildeno Lietuvos istorijos klausimus ir ypač rašė apie teutonų ordinus.
+- susijęs iš [[objektai/daiktai/Geležiniai įrankiai.md#claim-t-31107|Geležiniai įrankiai]]: J. Stankus rašė apie geležinių įrankių technologiją Lietuvoje V-VIII ir IX-XIII a.
+- susijęs iš [[objektai/daiktai/Skydai.md#claim-t-97104|Skydai]]: E. Radzvilovaitė pateikė žinių apie lietuvių genčių skydus II-VIII a.
+- susijęs iš [[objektai/grupes/LTSR Mokslų Akademijos Istorijos Institutas.md#claim-t-31259|LTSR Mokslų Akademijos Istorijos Institutas]]: LTSR Mokslų Akademijos Istorijos Institutas kas dvejus metus leido knygas „Archeologiniai ir etnografiniai tyrinėjimai Lietuvoje“.
+- susijęs iš Archeologiniai ir etnografiniai tyrinėjimai Lietuvoje: „Archeologiniai ir etnografiniai tyrinėjimai Lietuvoje“ buvo kas dvejus metus leidžiamas LTSR MA Istorijos instituto leidinys.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -72,12 +79,3 @@ Radzvilovaitė pateikė žinių apie lietuvių genčių skydus II-VIII a. Radzvi
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Brūkšniuotoji keramika]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/daiktai/Sidabro dirbiniai]]
-- [[objektai/daiktai/Skydai]]
-- [[objektai/daiktai/Geležiniai įrankiai]]
-- [[objektai/grupes/LTSR Mokslų Akademijos Istorijos Institutas]]

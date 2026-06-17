@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Rugsėjo 15 d. Budos pašos Karakašo vadovaujama turkų kariuomenė dar kartą bandė pulti, bet vadui pataikius kulkai į galvą pasitraukė.
+Rugsėjo 15 d. turkų kariuomenė, vadovaujama Budos pašos Karakašo dar kartą bandė pulti, bet mūšio metu turkų vadui į galvą pataikė kulka ir jo kariuomenė pasitraukė.
 
 ## Teiginiai
 
@@ -21,9 +21,11 @@ Rugsėjo 15 d. Budos pašos Karakašo vadovaujama turkų kariuomenė dar kartą 
 - t-001
   global_id: t-40257
   teiginys: 'Rugsėjo 15 d. Budos pašos Karakašo vadovaujama turkų kariuomenė dar kartą bandė pulti, bet vadui pataikius kulkai į galvą pasitraukė.'
+  sudarymo_pagrindimas: 'Reikia pašalinti perteklinį fragmentą ir aiškiai susieti pasitraukimą su vado sužeidimu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Durklas|Durklas]]'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/B. Zenavičius.md#claim-t-40059|B. Zenavičius]]: Etmono svainis B. Zenavičius žuvo mūšyje su turkais.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -52,8 +54,3 @@ Rugsėjo 15 d. Budos pašos Karakašo vadovaujama turkų kariuomenė dar kartą 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Durklas]]
-- [[objektai/grupes/Vokiečiai]]

@@ -21,6 +21,8 @@ Anksčiau kitaip buvo vadinama arba turėjo ir kitą vardą - Neris, nuo to rasi
 - t-001
   global_id: t-88473
   teiginys: 'Senoviniame Lietuvos kelių aprašyme Kryžiuočių archyve dažnai minima Nerige yra dabartinė Vilija.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas faktinis sakinys ir sutampa su citatos turiniu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vygandas|Vygandas]]; mentioned_place: Lietuva; mentioned_place: Vilija'
   pagrindžia:
     - c-001
 

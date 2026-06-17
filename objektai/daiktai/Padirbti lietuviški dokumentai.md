@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-1920 m. rugpjūtį Rusijos bolševikai iš RSSFR atsiuntė apie 2 000 diversantų su padirbtais lietuviškais dokumentais.
+Jie atsiuntė iš RSSFR apie 2 000 diversantų su padirbtais lietuviškais dokumentais, nelegaliai gabeno ginklus ir steigė jų sandėlius Kaune ir kituose miestuose, verbavo vietinius gyventojus.
 
 ## Pavadinimai šaltiniuose
 
@@ -49,6 +49,11 @@ Nenurodyta
 - t-001
   global_id: t-77931
   teiginys: '1920 m. rugpjūtį Rusijos bolševikai iš RSSFR atsiuntė apie 2 000 diversantų su padirbtais lietuviškais dokumentais.'
+  sudarymo_pagrindimas: 'Patikslintas laikas pagal citatą ir išlaikyta aiški faktinė forma.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Rusija'
+  temporaliniai_duomenys: 'įvykio data: 1920 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Patikslintas laikas pagal citatą ir išlaikyta aiški faktinė forma.'
   pagrindžia:
     - c-001
 
@@ -71,9 +76,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Ginklai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/daiktai/Ginklai ir ginkluotė]]

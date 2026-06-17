@@ -4,10 +4,11 @@ pavadinimas: 'Lietuvos diplomatinių sąjungų ir sutarčių telkimas prieš Ord
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
+  - '1316 m.'
   - '1323 m.'
   - '1324 m.'
   - '1325 m.'
-date_start: '1323'
+date_start: '1316'
 date_end: '1325'
 sukurta: ''
 atnaujinta: ''
@@ -23,7 +24,7 @@ amziai:
 
 ## Santrauka
 
-1325 m. pradžioje Lietuva ir Lenkija sudarė sutartį dėl abipusės karinės paramos, todėl Lietuva prisijungė prie koalicijos. Vytenio valdymo metu Lietuva su Ryga kariavo ir diplomatiškai veikė prieš Ordiną, siekdama pralaužti ekonominę blokadą. Gedimino pareiškimai ir laiškai padėjo Lietuvos valstybei kuriam laikui izoliuoti ir sukompromituoti Kryžiuočių ordiną Europoje.
+Dusburgietis teigia, kad ) bandė pasinaudoti Livonijos vidaus prieštaravimais: Lietuva drauge su Ryga kariavo ir vedė diplomatinę kovą prieš Ordiną, Lietuva gynė Rygą nuo Ordino, norėdama pralaužti Ordino vykdomą ekonominę Lietuvos blokadą. Dusburgietis teigia, kad šie pareiškimai, taip pat Gedimino laiškai, adresuoti žymiems Europos miestams Liubekui, Bremenui, Kelnui ir kitiems „iki pat Romos“, „kiekvienam geros valios žmogui“, dominikonų ir pranciškonų ordinams51, turėjo platų tarptautinį atgarsį. Dusburgietis teigia, kad kovodama su Vokietijos karaliumi Liudviku Bavaru, vėliau tapusiu imperatoriumi, 1323 m. popiežiaus kurija pradėjo prieš jį organizuoti koaliciją, į kurią įėjo Austrija, Vengrija ir Vengrijos sąjungininkė Lenkija.
 
 ## Laikotarpis ir datos
 
@@ -51,6 +52,12 @@ Nenurodyta
 - t-001
   global_id: t-62690
   teiginys: '1325 m. pradžioje Lietuva ir Lenkija sudarė sutartį dėl abipusės karinės paramos, todėl Lietuva prisijungė prie koalicijos.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Citata geriau palaiko teiginį apie Lietuvos sutartį ir prisijungimą prie koalicijos.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vengrija; mentioned_place: Vokietija'
+  temporaliniai_duomenys: 'įvykio data: 1323 m.; įvykio data: 1324 m.; įvykio data: 1325 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata geriau palaiko teiginį apie Lietuvos sutartį ir prisijungimą prie koalicijos.'
   pagrindžia:
     - c-004
 
@@ -58,6 +65,12 @@ Nenurodyta
 - t-002
   global_id: t-62691
   teiginys: 'Vytenio valdymo metu Lietuva su Ryga kariavo ir diplomatiškai veikė prieš Ordiną, siekdama pralaužti ekonominę blokadą.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir neleistinas autorinis įvadas.'
+  susije_objektai: 'counterparty: [[objektai/asmenys/Vytenis|Vytenis]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Vytenis|Vytenis]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Ryga; mentioned_place: Žiemgala'
+  temporaliniai_duomenys: 'mūšio data: 1316 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Gediminas kariavo prieš Vytenis“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas OCR triukšmas ir neleistinas autorinis įvadas.'
   pagrindžia:
     - c-001
     - c-002
@@ -66,6 +79,12 @@ Nenurodyta
 - t-003
   global_id: t-62692
   teiginys: 'Gedimino pareiškimai ir laiškai padėjo Lietuvos valstybei kuriam laikui izoliuoti ir sukompromituoti Kryžiuočių ordiną Europoje.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Perrašyta, kad teiginys aiškiau sietųsi su sąjungų ir veikimo prieš Ordiną tema.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Europa; mentioned_place: Kelnas; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Revelis; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1323 m.; įvykio data: 1324 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Perrašyta, kad teiginys aiškiau sietųsi su sąjungų ir veikimo prieš Ordiną tema.'
   pagrindžia:
     - c-003
 
@@ -141,17 +160,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/Dusburgas]]
-- [[objektai/asmenys/Gediminas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/zodynas/Ordino brolis]]
-- [[objektai/asmenys/Petras iš Dusburgo|Petras iš Dusburgo (kunigas)]]
-- [[objektai/grupes/Pranciškonų ordinas]]
-- [[objektai/asmenys/Vytenis]]
-- [[objektai/zodynas/kunigas]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/Miera|miera]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

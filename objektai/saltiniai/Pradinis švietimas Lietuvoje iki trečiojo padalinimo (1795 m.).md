@@ -32,6 +32,9 @@ amziai:
 - t-001
   global_id: t-31892
   teiginys: '„Pradinis švietimas Lietuvoje iki trečiojo padalinimo (1795 m.)“ 1971 m. paskelbtas „Lietuvių Tautos Praeities“ III tomo 1 numeryje.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Edukacinė Komisija|Edukacinė Komisija]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1795 m.; įvykio data: 1971 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

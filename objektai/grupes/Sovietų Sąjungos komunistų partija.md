@@ -3,10 +3,16 @@ tipas: grupe
 pavadinimas: 'Sovietų Sąjungos komunistų partija'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1989 m.'
+date_start: '1989'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+amziai:
+  - 'XX'
 ---
 # Sovietų Sąjungos komunistų partija
 
@@ -20,6 +26,11 @@ SSKP Sovietų Sąjungos komunistų partija. Stalino, Karlo Markso veikalus, Sovi
 - t-001
   global_id: t-74929
   teiginys: '1989 m. gruodį LKP XX suvažiavime atsiskyrus nuo SSKP atsirado nacionalinė eurokomunistinio tipo partija.'
+  sudarymo_pagrindimas: 'Teiginys gramatiškas, konkretus ir paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/eurokomunistinio tipo partija|eurokomunistinio tipo partija]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/statutas|statutas]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1989 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys gramatiškas, konkretus ir paremtas citata.'
   pagrindžia:
     - c-002
 
@@ -27,6 +38,8 @@ SSKP Sovietų Sąjungos komunistų partija. Stalino, Karlo Markso veikalus, Sovi
 - t-002
   global_id: t-74930
   teiginys: 'Sovietinėje švietimo sistemoje mokytojai buvo verčiami studijuoti Sovietų Sąjungos komunistų partijos istoriją ir nutarimų medžiagą.'
+  sudarymo_pagrindimas: 'Pradinis tekstas yra sąrašo fragmentas, todėl perrašytas į pilną sakinį apie SSKP.'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: SSRS'
   pagrindžia:
     - c-001
 
@@ -63,12 +76,3 @@ SSKP Sovietų Sąjungos komunistų partija. Stalino, Karlo Markso veikalus, Sovi
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/statutas]]
-- [[objektai/zodynas/eurokomunistinio tipo partija]]
-- [[objektai/asmenys/J. Stalinas]]
-- [[objektai/asmenys/Josifas Stalinas]]
-- [[objektai/asmenys/Karlas Marksas]]

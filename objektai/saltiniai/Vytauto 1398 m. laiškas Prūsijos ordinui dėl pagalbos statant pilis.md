@@ -29,6 +29,11 @@ Vy­ tautas viename laiške, tais metais da­ tuotame, kuriame žada Prūsijos o
 - t-001
   global_id: t-88498
   teiginys: '1398 m. laiške Vytautas žadėjo Prūsijos ordinui pagalbą statant dvi pilis.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir tiksliai perteikia citatos informaciją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Prūsija; mentioned_place: Vilija; mentioned_place: Vilnius; mentioned_place: Šventoji'
+  temporaliniai_duomenys: 'įvykio data: 1398 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys ir tiksliai perteikia citatos informaciją.'
   pagrindžia:
     - c-001
 

@@ -14,7 +14,7 @@ tags:
 
 ## Santrauka
 
-Smolenskiečių vėliavos Žalgirio mūšyje liko kairiajame sparne arčiau lenkų ir narsiai kovėsi. Smolenskiečiai Oršoje pasitiko kunigaikštį Mykolą ir pasidavė didžiajam kunigaikščiui Žygimantui bei jo sūnui Mykolui.
+Tos vė­ liavos buvusios smolenskiečių.
 
 ## Teiginiai
 
@@ -22,6 +22,8 @@ Smolenskiečių vėliavos Žalgirio mūšyje liko kairiajame sparne arčiau lenk
 - t-001
   global_id: t-34366
   teiginys: 'Smolenskiečių vėliavos Žalgirio mūšyje liko kairiajame sparne arčiau lenkų ir narsiai kovėsi.'
+  sudarymo_pagrindimas: 'Reikia aiškiau įvardyti mūšio kontekstą ir pašalinti neapibrėžtumą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Vėliavos|Vėliavos]]'
   pagrindžia:
     - c-001
 
@@ -29,9 +31,18 @@ Smolenskiečių vėliavos Žalgirio mūšyje liko kairiajame sparne arčiau lenk
 - t-002
   global_id: t-187745
   teiginys: 'Smolenskiečiai Oršoje pasitiko kunigaikštį Mykolą ir pasidavė didžiajam kunigaikščiui Žygimantui bei jo sūnui Mykolui.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie smolenskiečių veiksmą Oršoje. Nepalikta neaiškių įvardžių ar platesnio mūšio konteksto.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Ivanas|Ivanas]]; mentioned_person: [[objektai/asmenys/Teodoras|Teodoras]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Kijevas'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/asmenys/Andrius Sakavičius.md#claim-t-186033|Andrius Sakavičius]]: Andrius Sakavičius atrėmė pirmą smolenskiečių antpuolį, atvėręs vartus ir paleidęs prieš užpuolėjus raituosius ietininkus.
+- susijęs iš [[objektai/ivykiai/Smolensko atėmimas iš Jurijaus ir valdžios perdavimas Glėbui.md#claim-t-185828|Smolensko atėmimas iš Jurijaus ir valdžios perdavimas Glėbui]]: Jurijui pabėgus iš Smolensko pas uošvį, smolenskiečiai atidavė pilį ir visą žemę Vytautui.
+- susijęs iš [[objektai/posakiai/šuns kfauju.md#claim-t-186886|šuns kfauju]]: Posakiu „šuns kfauju“, kaip nurodo Lietuvos metraščio komentaras, Bychovco kronikos originaliajame tekste vadinami valstiečiai.
+- susijęs iš Smolenskas: Jurijus nedrįso kautis atvirame lauke ar gintis už Smolensko pylimų ir pabėgo su žmona pas uošvį.
+- susijęs iš [[objektai/zodynas/prastieji žmonės.md#claim-t-187544|prastieji žmonės]]: Smolensko prastieji žmonės kartu su vyskupu Semionu, kunigaikščiais, bajorais ir miestiečiais prisiekė laikyti Andrių Sakavičių vaivada.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -69,17 +80,3 @@ Smolenskiečių vėliavos Žalgirio mūšyje liko kairiajame sparne arčiau lenk
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Ivanas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Teodoras]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/asmenys/Žygimantas]]
-- [[objektai/ivykiai/Smolensko atėmimas iš Jurijaus ir valdžios perdavimas Glėbui]]
-- [[objektai/zodynas/prastieji žmonės]]
-- [[objektai/posakiai/šuns kfauju]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/daiktai/Vėliavos]]
-- [[objektai/asmenys/Andrius Sakavičius]]

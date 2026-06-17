@@ -36,6 +36,14 @@ Nenurodyta
 - t-001
   global_id: t-185513
   teiginys: '1306 m. Vytenis, sužinojęs apie vidaus nesantarvę Lenkijoje, sutelkė kariuomenę prie Gardino ir įsiveržė į Didžiąją Lenkiją.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Reikia įvardyti valdovą ir pašalinti boilerplate.'
+  susije_objektai: 'mentioned_place: Gardinas; mentioned_place: Lenkija; mentioned_place: Mazovija'
+  temporaliniai_duomenys: 'įvykio data: 1306 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia įvardyti valdovą ir pašalinti boilerplate.'
   pagrindžia:
     - c-001
 
@@ -43,6 +51,11 @@ Nenurodyta
 - t-002
   global_id: t-185514
   teiginys: 'Vytenio kariuomenė staigiu antpuoliu užėmė Kališą ir Stavišiną, degino miestus ir žudė gyventojus.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata palaiko trumpą faktinį sakinį su aiškiu veikėju.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]'
   pagrindžia:
     - c-002
 
@@ -50,6 +63,11 @@ Nenurodyta
 - t-003
   global_id: t-185515
   teiginys: 'Lietuviams siaubiant Lenkiją, niekas jiems nepastojo kelio ir niekas nedrįso persekioti jų grįžtant namo.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinė formuluotė beveik tinkama, bet reikia sutvarkyti laužytą žodį ir gramatiką.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Gardinas'
   pagrindžia:
     - c-003
 
@@ -127,13 +145,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/daiktai/Namas]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/asmenys/Albertas fon Hagenas]]
-- [[objektai/asmenys/Konradas (Prūsijos magistras)]]
-- [[objektai/asmenys/Vytenis]]

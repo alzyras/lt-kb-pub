@@ -3,9 +3,15 @@ tipas: posakis
 pavadinimas: 'Vilnius - tai gyva senosios Lietuvos kronika'
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+datos:
+  - '1859 m.'
+date_start: '1859'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags: []
+amziai:
+  - 'XIX'
 ---
 # Vilnius - tai gyva senosios Lietuvos kronika
 
@@ -35,6 +41,11 @@ Reikšmė aiški iš citatos konteksto ir neplečiama už tiesioginio šaltinio 
 - t-001
   global_id: t-54488
   teiginys: 'Adomas Honorijus Kirkoras Vilnių apibūdino kaip senosios Lietuvos buvusios šlovės ir nuosmukių liudytoją.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai perteikia citatoje esančią Kirkoro Vilniaus charakteristiką.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Adomas (auksakalys)|Adomas (auksakalys)]]; mentioned_person: [[objektai/autoriai/Adomas Honorijus Kirkoras|Adomas Honorijus Kirkoras]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1859 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai perteikia citatoje esančią Kirkoro Vilniaus charakteristiką.'
   pagrindžia:
     - c-001
 
@@ -42,9 +53,15 @@ Reikšmė aiški iš citatos konteksto ir neplečiama už tiesioginio šaltinio 
 - t-002
   global_id: t-54489
   teiginys: 'Adomas Honorijus Kirkoras Vilnių vadino gyva senosios Lietuvos kronika.'
+  sudarymo_pagrindimas: 'Teiginys yra konkretus, gramatiškas ir tiesiogiai paremtas Kirkoro citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Adomas (auksakalys)|Adomas (auksakalys)]]; mentioned_person: [[objektai/autoriai/Adomas Honorijus Kirkoras|Adomas Honorijus Kirkoras]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1859 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus, gramatiškas ir tiesiogiai paremtas Kirkoro citata.'
   pagrindžia:
     - c-001
-
+- susijęs iš Pasivaikščiojimai po Vilnių ir jo apylinkes: Adomas Honorijus Kirkoras 1859 m. išleistame vadove po Vilnių rašė, kad miestas jau turi savo istorikus.
+- susijęs iš Vilnius: 1859 m. vadove po Vilnių Adomas Honorijus Kirkoras rašė, kad miestas jau turi savo istorikus.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -63,13 +80,3 @@ Reikšmė aiški iš citatos konteksto ir neplečiama už tiesioginio šaltinio 
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/frazė]]
-- [[temos/vilnius]]
-
-### Susiję objektai
-- [[objektai/asmenys/Adomas (auksakalys)]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/autoriai/Adomas Honorijus Kirkoras]]

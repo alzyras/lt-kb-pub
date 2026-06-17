@@ -37,6 +37,9 @@ Nenurodyta
 - t-001
   global_id: t-62459
   teiginys: 'Rezlio pilies broliai sudegino pilį ir slaptais dykrų keliais pasitraukė, išgirdę apie prūsų apsiaustas pilis.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys išvalytas nuo antraštės triukšmo ir sutrumpintas.'
+  susije_objektai: 'mentioned_place: Bartenšteinas; mentioned_place: Kroicburgas; mentioned_place: Prūsai; mentioned_place: Rezlis'
   pagrindžia:
     - c-001
 

@@ -28,9 +28,15 @@ Mackevičius, 1934 m. L I E T U V O S I S T O R I J A 52 ceremonija neįvyko –
 - t-001
   global_id: t-77825
   teiginys: 'Lenkijos ponų taryba privertė Jogailą atšaukti sutikimą dėl Vytauto karūnavimo ceremonijos.'
+  sudarymo_pagrindimas: 'Citata pagrindžia Lenkijos ponų tarybos veiksmą, bet reikia pašalinti puslapio ir OCR triukšmą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Ponų taryba|Ponų taryba]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_place: Lenkija; mentioned_place: Luckas; mentioned_place: Niurnbergas'
+  temporaliniai_duomenys: 'įvykio data: 1430 m.; įvykio data: 1934 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia Lenkijos ponų tarybos veiksmą, bet reikia pašalinti puslapio ir OCR triukšmą.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179212|Lenkai]]: Lenkijos ponų taryba privertė Jogailą atšaukti sutikimą dėl Vytauto karūnavimo ceremonijos.
+- susijęs iš [[objektai/grupes/Ponų taryba.md#claim-t-72609|Ponų taryba (institucija)]]: Lenkijos ponų taryba prisidėjo prie 1398 m. protesto prieš Lietuvos ir Lenkijos santykių eigą ir buvo sumaniusi unijos reikalą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -51,9 +57,3 @@ Mackevičius, 1934 m. L I E T U V O S I S T O R I J A 52 ceremonija neįvyko –
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Ponų taryba|Ponų taryba (institucija)]]
-- [[objektai/zodynas/ponai]]
-- [[objektai/grupes/Lenkai]]

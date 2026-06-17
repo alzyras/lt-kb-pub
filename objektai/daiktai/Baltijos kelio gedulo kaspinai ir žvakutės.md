@@ -4,9 +4,10 @@ pavadinimas: 'Baltijos kelio gedulo kaspinai ir žvakutės'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
+  - '1940 m.'
   - '1989 m.'
-date_start: '1989'
-date_end: ''
+date_start: '1940'
+date_end: '1989'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -54,6 +55,11 @@ Nenurodyta
 - t-001
   global_id: t-13281
   teiginys: 'Baltijos kelio gedulo kaspinai ir žvakutės priminė aukas ir didelių netekčių skausmą.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiksliai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Estai|Estai]]; mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_object: [[objektai/zodynas/Aukausenos|Aukausenos]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Baltija; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1940 m.; įvykio data: 1989 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir tiksliai paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -61,6 +67,11 @@ Nenurodyta
 - t-002
   global_id: t-13282
   teiginys: 'Baltijos kelyje plevėsavo juodi gedulo kaspinai ir degė žvakutės.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nusako citatoje minimą faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Estai|Estai]]; mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_object: [[objektai/zodynas/Aukausenos|Aukausenos]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Baltija; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1940 m.; įvykio data: 1989 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako citatoje minimą faktą.'
   pagrindžia:
     - c-001
 
@@ -90,15 +101,3 @@ Nenurodyta
 ## Šaltiniai ir įrodymai
 
 Nenurodyta
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/simbolis]]
-
-### Susiję objektai
-- [[objektai/grupes/Estai]]
-- [[objektai/asmenys/Gediminas]]
-- [[objektai/grupes/Latviai]]
-- [[objektai/zodynas/Aukausenos|aukausenos]]
-- [[objektai/paprociai/Baltijos kelias kaip gyvos žmonių grandinės komemoracinė protesto forma]]
-- [[objektai/grupes/Lietuvos SSR Aukščiausioji Taryba]]

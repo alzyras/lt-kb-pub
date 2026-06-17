@@ -22,6 +22,7 @@ Tokiai didelei Vytauto valstybei anais laikais galėjo prilygti tik Vokiečiu im
 - t-001
   global_id: t-35789
   teiginys: 'Vokiečių imperija Vytauto laikais dydžiu galėjo prilygti jo valstybei, bet valdžios požiūriu buvo mažiau vieninga.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Dniepras; mentioned_place: Lietuva; mentioned_place: Mozūrija'
   pagrindžia:
     - c-001
 
@@ -43,8 +44,3 @@ Tokiai didelei Vytauto valstybei anais laikais galėjo prilygti tik Vokiečiu im
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/grupes/Liuksemburgiečių dinastija]]

@@ -34,16 +34,18 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 <a id="claim-t-66797"></a>
 - t-001
   global_id: t-66797
   teiginys: 'Napoleono kariuomenei užėmus Lietuvą, bajorija ėmė rūpintis Lietuvos Didžiosios Kunigaikštijos atkūrimu Napoleono globoje.'
+  sudarymo_pagrindimas: 'Reikia aiškiai įvardyti Lietuvos Didžiąją Kunigaikštiją ir sutvarkyti sakinio formą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Napoleono kariuomenei užėmus Lietuvą, bajorija ėmė rūpintis Lietuvos Didžiosios Kunigaikštijos atkūrimu Napoleono globoje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -54,14 +56,8 @@ Nenurodyta
     duoti jo armijai maisto ir kareivių. Bajorijos atsiunčiamoms de-
     legacijoms jis nieko tikro nežadėjo, nes dar tebebuvo neaiški
     karo pabaiga.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/kunigaikštija]]

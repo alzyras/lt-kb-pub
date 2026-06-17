@@ -21,7 +21,7 @@ periodo_grupes:
 
 ## Santrauka
 
-1323 metų pradžioje riteriai Zinnenbergas ir Egerbergas atvyko su stipriu kilmingų karių ir vasalų pulku.
+Iš tiesų jau 1323 metų pradžioje atvyko riteriai Zinnenbergas ir Egerbergas su stipriu pulku kilmingų karių ir vasalų iš Čekijos bei Pareinio žemių.
 
 ## Teiginiai
 
@@ -29,9 +29,12 @@ periodo_grupes:
 - t-001
   global_id: t-87893
   teiginys: '1323 metų pradžioje riteriai Zinnenbergas ir Egerbergas atvyko su stipriu kilmingų karių ir vasalų pulku.'
+  sudarymo_pagrindimas: 'Citata tiksliau kalba apie du riterius, todėl teiginys pataisytas.'
+  susije_objektai: 'location: Vilnius; location: Čekija; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Egerbergas|Egerbergas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius; mentioned_place: Čekija'
+  semantiniai_rysiai: '[[objektai/asmenys/Zinnenbergas|Zinnenbergas]] keliavo į Vilnius; [[objektai/asmenys/Zinnenbergas|Zinnenbergas]] keliavo į Čekija'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Egerbergas.md#claim-t-87658|Egerbergas]]: 1323 m. pradžioje Egerbergas su Zinnenbergu atvyko su stipriu kilmingų karių ir vasalų pulku iš Čekijos bei Pareinio žemių.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -56,7 +59,5 @@ periodo_grupes:
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/didysis magistras]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- Zinnenbergas keliavo_i [[objektai/vietos/Vilnius]]
+- Zinnenbergas keliavo_i [[objektai/vietos/Čekija]]

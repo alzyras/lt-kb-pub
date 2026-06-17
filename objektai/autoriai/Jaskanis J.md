@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-J. Jaskanio recenzija cituojama prie nuomonės, kad prūsiškuosius ir rytinius galindus siejo tik vardų panašumas.
+Dusburgietis teigia, kad kai kas mano, kad prūsiškieji ir rytiniai galindai giminingi tik vardais, kaip Vartos vidupio ir padneprės polianai (Jaskanis J., Rec.
 
 ## Teiginiai
 
@@ -20,6 +20,8 @@ J. Jaskanio recenzija cituojama prie nuomonės, kad prūsiškuosius ir rytinius 
 - t-001
   global_id: t-60720
   teiginys: 'J. Jaskanio recenzija cituojama prie nuomonės, kad prūsiškuosius ir rytinius galindus siejo tik vardų panašumas.'
+  sudarymo_pagrindimas: 'Pirminis teiginys klaidingai priskiria nuomonę Dusburgiečiui ir yra nebaigtas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Galindai|Galindai]]'
   pagrindžia:
     - c-001
 
@@ -36,7 +38,3 @@ J. Jaskanio recenzija cituojama prie nuomonės, kad prūsiškuosius ir rytinius 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Galindai]]

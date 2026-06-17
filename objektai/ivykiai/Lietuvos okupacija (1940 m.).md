@@ -43,9 +43,14 @@ Nenurodyta
 - t-001
   global_id: t-28842
   teiginys: '1940 m. komunistams okupavus Lietuvą, buvo atsisakyta tradicinės Lietuvos istorijos periodizacijos.'
+  sudarymo_pagrindimas: 'Pradinis teiginys priklauso nuo konteksto, bet citata pagrindžia aiškų faktą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/marksistinė periodizacija|marksistinė periodizacija]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1940 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys priklauso nuo konteksto, bet citata pagrindžia aiškų faktą.'
   pagrindžia:
     - c-001
-
+- susijęs iš Molotovo–Ribentropo paktas: Svarbiausių datų sąraše 1940 m. birželio 15 d. Sovietų Sąjungos įvykdyta Lietuvos okupacija ir aneksija aiškinama kaip Molotovo–Ribentropo pakto realizavimas.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -63,7 +68,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/marksistinė periodizacija]]

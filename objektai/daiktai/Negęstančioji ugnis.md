@@ -41,6 +41,8 @@ Nenurodyta
 - t-001
   global_id: t-59695
   teiginys: 'Prūsai pagal senovinį paprotį garbino negęstančiąją ugnį.'
+  sudarymo_pagrindimas: 'Pradinis teiginys turi nereikalingą atribuciją ir papildomą faktą; citata tiesiogiai pagrindžia šį sakinį.'
+  susije_objektai: 'mentioned_object: [[objektai/posakiai/negęstančiąją ugnį|negęstančiąją ugnį]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
 
@@ -61,9 +63,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Kūnas]]
-- [[objektai/zodynas/netikėliai]]
-- [[objektai/posakiai/negęstančiąją ugnį]]

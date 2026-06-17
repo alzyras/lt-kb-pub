@@ -4,9 +4,10 @@ pavadinimas: 'Katalikų Bažnyčia Lietuvoje'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
+  - '1911 m.'
   - '1936 m.'
-date_start: '1936'
-date_end: ''
+date_start: '1911'
+date_end: '1936'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -27,6 +28,9 @@ Aleknos «Katalikų Bažnyčia Lietuvoje » (1936) parodė jo sugebėjimą šalt
 - t-001
   global_id: t-31761
   teiginys: 'A. Aleknos „Katalikų Bažnyčia Lietuvoje“ 1936 m. liudijo autoriaus gebėjimą kritiškai ir objektyviai vertinti šaltinius.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/A. Alekna|A. Alekna]]; mentioned_place: Kaunas; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1911 m.; įvykio data: 1936 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

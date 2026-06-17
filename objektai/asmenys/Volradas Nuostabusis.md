@@ -22,9 +22,11 @@ Dusburgietis teigia, kad apie Lencenbergo pilies bei daugybės prūsų sudeginim
 - t-001
   global_id: t-60469
   teiginys: 'Volradas Nuostabusis, Notangos ir Varmės fogtas, Lencenbergo pilyje sudegino prūsų kilminguosius ir visą pilį.'
+  sudarymo_pagrindimas: 'Sutvarkyta į pilną sakinį apie asmenį ir jo veiksmą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; mentioned_place: Notanga; mentioned_place: Prūsai; mentioned_place: Varmė'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/ivykiai/Lencenbergo pilies ir jos kilmingųjų sudeginimas.md#claim-t-62360|Lencenbergo pilies ir jos kilmingųjų sudeginimas (pilis)]]: Volradas Nuostabusis Lencenbergo pilyje sudegino prūsų kilminguosius ir pačią pilį.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -47,11 +49,3 @@ Dusburgietis teigia, kad apie Lencenbergo pilies bei daugybės prūsų sudeginim
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/drabužis]]
-
-### Susiję objektai
-- [[objektai/daiktai/Drabužiai]]
-- [[objektai/ivykiai/Lencenbergo pilies ir jos kilmingųjų sudeginimas|Lencenbergo pilies ir jos kilmingųjų sudeginimas (pilis)]]

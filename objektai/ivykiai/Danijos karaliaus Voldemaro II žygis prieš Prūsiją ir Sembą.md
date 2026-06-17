@@ -45,6 +45,13 @@ Nenurodyta
 - t-001
   global_id: t-62764
   teiginys: '1210 m. Danijos karaliaus Voldemaro II žygis prieš Prūsiją ir Sembą padėjo Kristijono misijai Prūsijoje.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus ir tiesiogiai remiasi citatoje pateikta informacija.'
+  susije_objektai: 'event: [[objektai/ivykiai/Danijos karaliaus Voldemaro II žygis prieš Prūsiją ir Sembą|Danijos karaliaus Voldemaro II žygis prieš Prūsiją ir Sembą]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_place: Oliva; mentioned_place: Prūsija; mentioned_place: Santyras; mentioned_place: Semba'
+  semantiniai_rysiai: '[[objektai/asmenys/Kristijonas|Kristijonas]] dalyvavo mūšyje [[objektai/ivykiai/Danijos karaliaus Voldemaro II žygis prieš Prūsiją ir Sembą|Danijos karaliaus Voldemaro II žygis prieš Prūsiją ir Sembą]]'
+  temporaliniai_duomenys: 'mūšio data: 1210 m.; mūšio data: 1212 m.; mūšio data: apie 1212 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Kristijonas dalyvavo mūšyje Danijos karaliaus Voldemaro II žygis prieš Prūsiją ir Sembą“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus ir tiesiogiai remiasi citatoje pateikta informacija.'
   pagrindžia:
     - c-001
 
@@ -70,7 +77,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Kristijonas]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/grupes/Cistersų ordinas]]
+- [[objektai/asmenys/Kristijonas]] dalyvavo_musyje Danijos karaliaus Voldemaro II žygis prieš Prūsiją ir Sembą

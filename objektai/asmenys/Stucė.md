@@ -20,9 +20,12 @@ Dusburgietis teigia, kad apie 3 brolių ir 40 vyrų nužudymą Netrukus po to du
 - t-001
   global_id: t-60440
   teiginys: 'Stucė kartu su Skumu ir didele kariuomene patraukė prie Baigos.'
+  sudarymo_pagrindimas: 'Pradinis teiginys turi antraštės triukšmo; citata palaiko trumpą faktą apie Stucės žygį.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Skumas|Skumas]]; mentioned_place: Baiga; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Skumas.md#claim-t-60435|Skumas]]: Skumas ir Stucė su didele kariuomene patraukė prie Baigos.
+- susijęs iš [[objektai/ivykiai/Trijų brolių ir 40 vyrų žūtis prie Balgos.md#claim-t-62510|Trijų brolių ir 40 vyrų žūtis prie Balgos]]: Prie Balgos pasaloje pasirodę prūsai nukovė tris brolius ir 40 vyrų, kai broliai puolė atsitraukiančius prūsus.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -39,7 +42,3 @@ Dusburgietis teigia, kad apie 3 brolių ir 40 vyrų nužudymą Netrukus po to du
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/Trijų brolių ir 40 vyrų žūtis prie Balgos]]

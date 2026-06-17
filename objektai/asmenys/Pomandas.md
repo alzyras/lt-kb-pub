@@ -10,6 +10,7 @@ tags:
   - karas
   - kunigaikštis
   - pilis
+  - tikėjimas
 ---
 # Pomandas
 
@@ -23,6 +24,8 @@ Dusburgietis teigia, kad galop pats Kristus, kuris niekad nesiliauja gailestinga
 - t-001
   global_id: t-60193
   teiginys: 'Pomandas iš Baigos pilies grįžo pas prusus, dėdamasis krikščionių priešu.'
+  sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir turi perteklinį pasakojimo įvadą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/maldininkai|maldininkai]]; mentioned_place: Baiga; mentioned_place: Barta; mentioned_place: Partigala; mentioned_place: Prūsai'
   pagrindžia:
     - c-002
 
@@ -30,9 +33,13 @@ Dusburgietis teigia, kad galop pats Kristus, kuris niekad nesiliauja gailestinga
 - t-002
   global_id: t-60194
   teiginys: 'Dusburgietis Pomandą vaizduoja kaip kilnų, prūsų gerbtą vyrą, neseniai priėmusį krikščionių tikėjimą.'
+  sudarymo_pagrindimas: 'Teiginys remiasi autoriaus vertinimu, todėl reikia aiškios atribucijos ir trumpesnės formos.'
+  susije_objektai: 'mentioned_place: Baiga; mentioned_place: Prūsai; mentioned_place: Viena'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/ivykiai/Pomando gudrybė, Baigos apgulties pralaužimas ir Partigalos bei kuoro sunaikinimas.md#claim-t-59398|Pomando gudrybė, Baigos apgulties pralaužimas ir Partigalos bei kuoro sunaikinimas]]: Pomandas apsimetė tikėjimo priešu ir paskatino Varmės, Notangos bei Bartos karius apsupti Baigos pilį.
+- susijęs iš Partigala: Kunigaikštis ir broliai su kariuomene paėmė Partigalos pilį ir kuorą, juos sudegino, o žmones išsivedė į nelaisvę arba išžudė.
+- susijęs iš [[objektai/zodynas/kuoras propugnaculum pilaitė.md#claim-t-58785|kuoras propugnaculum pilaitė]]: Braunšveigo kunigaikštis ir Ordino broliai paėmė Partigalos pilį bei kuorą, sudegino juos, o žmones išsivedė į nelaisvę arba išžudė.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -74,7 +81,6 @@ Dusburgietis teigia, kad galop pats Kristus, kuris niekad nesiliauja gailestinga
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/maldininkai]]
-- [[objektai/ivykiai/Pomando gudrybė, Baigos apgulties pralaužimas ir Partigalos bei kuoro sunaikinimas]]
-- [[objektai/zodynas/kuoras propugnaculum pilaitė]]
+- Pomandas buvo_valdovas [[objektai/vietos/Baiga]]
+- Pomandas buvo_valdovas [[objektai/vietos/Barta]]
+- Pomandas buvo_valdovas [[objektai/vietos/Partigala]]

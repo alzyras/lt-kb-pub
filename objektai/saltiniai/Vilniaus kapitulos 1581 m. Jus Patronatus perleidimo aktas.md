@@ -28,6 +28,11 @@ Kad bažnyčia būtų geriau tvarkoma ir būtų parinktas tinkamas asmuo užimti
 - t-001
   global_id: t-88488
   teiginys: '1581 m. birželio 9 d. Vilniaus kapitula perleido jėzuitų kolegijos rektoriams teisę siūlyti Šv. Jono bažnyčios vikarus.'
+  sudarymo_pagrindimas: 'Citata palaiko konkretų perleidimo faktą, o pradinė formuluotė triukšminga ir negramatiška.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus kapitula|Vilniaus kapitula]]; mentioned_object: [[objektai/zodynas/Jus Patronatus|Jus Patronatus]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1581 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko konkretų perleidimo faktą, o pradinė formuluotė triukšminga ir negramatiška.'
   pagrindžia:
     - c-001
 

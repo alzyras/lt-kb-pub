@@ -21,6 +21,8 @@ tags:
 - t-001
   global_id: t-22008
   teiginys: 'Baigiantis pirmajam Kristaus epochos tūkstantmečiui milenaristinis sąjūdis apėmė krikščioniškąsias misijas ir naujų šalių krikštus Europoje.'
+  sudarymo_pagrindimas: 'Reikia patikslinti sakinį pagal citatoje nurodytą Europos kontekstą.'
+  susije_objektai: 'mentioned_place: Europa; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -28,6 +30,11 @@ tags:
 - t-002
   global_id: t-183447
   teiginys: 'Baigiantis pirmajam Kristaus epochos tūkstantmečiui gimė milenaristinis sąjūdis, susijęs su krikščioniškąja misija.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie sąjūdį ir atitinka citatos informaciją.'
+  susije_objektai: 'mentioned_place: Europa; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

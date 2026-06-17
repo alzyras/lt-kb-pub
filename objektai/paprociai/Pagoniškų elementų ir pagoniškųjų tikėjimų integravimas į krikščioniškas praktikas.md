@@ -23,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-Po Lietuvos ir Žemaitijos krikšto sunaikintos tik svarbiausios pagoniškos šventvietės, o lokalinių kultų vietos turėjo gyvuoti toliau. Pagoniškos šventės Lietuvoje išliko užsiklojusios krikščioniškuoju švenčių sluoksniu. Lokalinių kultų vietos gyvavo toliau, o pagoniškosios šventvietės tapo bendros plėtotės su krikščionybe rezultatu.
+Kadangi lietuviai krikščionybę priėmė palyginti vėlai, mūsų liaudies kultūroje ir tradicijose yra gausu archajiškų, iš pagonybės laikų išlikusių elementų. Lietuvos (1387) ir Žemaitijos (1413–1417) krikštu pradžioje žengtas tik nedidelis žingsnelis į krikščioniškąją visuomenę, nes sunaikintos tik svarbiausios pagoniškos šventvietės.
 
 ## Laikotarpis ir datos
 
@@ -51,6 +51,8 @@ Nenurodyta
 - t-001
   global_id: t-169871
   teiginys: 'Po Lietuvos ir Žemaitijos krikšto sunaikintos tik svarbiausios pagoniškos šventvietės, o lokalinių kultų vietos turėjo gyvuoti toliau.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus sakinys apie pagoniškų praktikų išlikimą po krikšto.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/gotika|gotika]]; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -58,6 +60,7 @@ Nenurodyta
 - t-002
   global_id: t-169873
   teiginys: 'Pagoniškos šventės Lietuvoje išliko užsiklojusios krikščioniškuoju švenčių sluoksniu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -65,6 +68,7 @@ Nenurodyta
 - t-003
   global_id: t-169874
   teiginys: 'Lokalinių kultų vietos gyvavo toliau, o pagoniškosios šventvietės tapo bendros plėtotės su krikščionybe rezultatu.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/gotika|gotika]]; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -105,12 +109,3 @@ Nenurodyta
   pagrindžia:
     - t-001
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/gotika]]
-- [[objektai/zodynas/pagonybė]]
-- [[objektai/ivykiai/Lietuvos ir Žemaitijos krikštai kaip krikščionėjimo pradžia]]
-- [[objektai/paprociai/Pagoniškų elementų išlikimas krikščioniškų švenčių papročiuose]]
-- [[objektai/paprociai/Pagoniškųjų tikėjimų integravimas į krikščionišką praktiką]]

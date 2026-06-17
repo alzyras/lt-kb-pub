@@ -20,9 +20,11 @@ Todėl netikslu yra kalbėti apie pilną diarchijos sistemą.
 - t-001
   global_id: t-28579
   teiginys: 'Algirdo ir Kęstučio susitarime Kęstutis laikytas Algirdo padėjėju, todėl pilnos diarchijos sistemos nebuvo.'
+  sudarymo_pagrindimas: 'Pridėtas citatoje nurodytas pagrindas, kad teiginys būtų savarankiškas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/diarchija|diarchija]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/autoriai/L. Kolankowski.md#claim-t-12254|L. Kolankowski]]: L. Kolankowski diarchiją aiškino ne susitarimu, o brolių varžybomis dėl aukščiausios valdžios.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -37,10 +39,3 @@ Todėl netikslu yra kalbėti apie pilną diarchijos sistemą.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/diarchija]]
-- [[objektai/autoriai/L. Kolankowski]]

@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Popiežius Honorijus patvirtino Mokinių slėnio brolių ordiną ir Karmelio kalno atsiskyrėlių ordiną. Mokinių slėnio brolių ordiną patvirtino popiežius Honorijus III.
+Dusburgietis teigia, kad karmelio kalno atsiskyrėlių ordiną bei Mokinių slėnio brolių ordiną [Ordo fratrum valtis scolarium] patvirtino tas pats valdovas popiežius Honorijus.
 
 ## Teiginiai
 
@@ -29,6 +29,8 @@ Popiežius Honorijus patvirtino Mokinių slėnio brolių ordiną ir Karmelio kal
 - t-001
   global_id: t-89153
   teiginys: 'Popiežius Honorijus patvirtino Mokinių slėnio brolių ordiną ir Karmelio kalno atsiskyrėlių ordiną.'
+  sudarymo_pagrindimas: 'Teiginys pilnas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Elžbieta|Elžbieta]]'
   pagrindžia:
     - c-001
     - c-002
@@ -37,6 +39,8 @@ Popiežius Honorijus patvirtino Mokinių slėnio brolių ordiną ir Karmelio kal
 - t-002
   global_id: t-89154
   teiginys: 'Mokinių slėnio brolių ordiną patvirtino popiežius Honorijus III.'
+  sudarymo_pagrindimas: 'Pradinis teiginys painioja su Mažesniųjų brolių ordinu, bet citata remia faktą apie Mokinių slėnio brolius.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Popiežius Honorijus III|Popiežius Honorijus III]]'
   pagrindžia:
     - c-002
 
@@ -74,10 +78,3 @@ Popiežius Honorijus patvirtino Mokinių slėnio brolių ordiną ir Karmelio kal
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Elžbieta]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Popiežius Honorijus III]]
-- [[objektai/grupes/Karmelio kalno atsiskyrėlių ordinas]]

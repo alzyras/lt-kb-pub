@@ -32,6 +32,8 @@ Salė lokalizuojama įėjus pro didžiuosius bažnyčios vartus, kairėje pusėj
 - t-001
   global_id: t-55239
   teiginys: 'Akademijos visuotinių iškilmių salė buvo pailgos formos salė kairėje pusėje prie bokšto arba varpinės.'
+  sudarymo_pagrindimas: 'Teiginys yra išsamus, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Akademijos aikštė; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -39,6 +41,8 @@ Salė lokalizuojama įėjus pro didžiuosius bažnyčios vartus, kairėje pusėj
 - t-002
   global_id: t-55240
   teiginys: 'Akademijos visuotinių iškilmių salėje buvo 20 paprastos tapybos portretų ir trimis eilėmis išrikiuoti mediniai suolai.'
+  sudarymo_pagrindimas: 'Teiginys pagrįstas, bet reikia aiškiai įvardyti salę.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -53,6 +57,8 @@ Salė lokalizuojama įėjus pro didžiuosius bažnyčios vartus, kairėje pusėj
 - t-004
   global_id: t-83113
   teiginys: 'Akademijos visuotinių iškilmių salė buvo pailgos formos ir stovėjo kairėje pusėje prie bokšto, įėjus pro didžiuosius bažnyčios vartus.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nusako salės formą ir vietą pagal citatą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Akademijos aikštė'
   pagrindžia:
     - c-004
 

@@ -3,6 +3,10 @@ tipas: ivykis
 pavadinimas: 'Lietuvių emigracijos tvarkymo reforma (1920–1929 m.)'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1929 m.'
+date_start: '1929'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -10,12 +14,14 @@ tags:
   - kraštas
   - reforma
   - tauta
+amziai:
+  - 'XX'
 ---
 # Lietuvių emigracijos tvarkymo reforma (1920–1929 m.)
 
 ## Santrauka
 
-1929 m. naujas emigracijos įstatymas neleido Lietuvoje veikti jo nesilaikančioms emigracijos bendrovėms.
+Pirmasis emigracijos įstatymas buvo išleistas dar 1920 m., bet pasirodė, kad jame buvo nemaža spragų, o be to, jis ilgainiui atsiliko nuo gyvenimo reikalavimų. Emigracijos bendrovės, nesilaikančios to įstatymo, negali veikti Lietuvoje. O visai emigracijai prižiūrėti prie Vidaus Reikalų Ministerijos yra įsteigta speciali referentūra.
 
 ## Laikotarpis ir datos
 
@@ -34,18 +40,20 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 <a id="claim-t-66675"></a>
 - t-001
   global_id: t-66675
   teiginys: '1929 m. naujas emigracijos įstatymas neleido Lietuvoje veikti jo nesilaikančioms emigracijos bendrovėms.'
+  susije_objektai: 'mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1929 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1929 m. naujas emigracijos įstatymas neleido Lietuvoje veikti jo nesilaikančioms emigracijos bendrovėms.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kad ateityje nebebūtų tokio išnaudojimo, 1929 m. buvo išleistas nau-
@@ -54,10 +62,8 @@ Nenurodyta
     mirties, reikalauja, kad į vietą nuvykęs emigrantas, jei būtų dėl
     kurių nors priežasčių neįsileistas, būtų atgal parvežtas. Emigra-
     cijos bendrovės, nesilaikančios to įstatymo, negali veikti Lietuvoje.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

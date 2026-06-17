@@ -38,6 +38,8 @@ Nenurodyta
 - t-001
   global_id: t-66482
   teiginys: 'Numa ir Derska pelnė brolių palankumą, pasitiko lietuvių kariuomenę, išžudė lietuvius ir grobį išsigabeno į Pagudę.'
+  sudarymo_pagrindimas: 'Teiginys tiksliai apibendrina Numo ir Derskos veiksmus, nurodytus citatoje.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Derska|Derska]]; mentioned_person: [[objektai/asmenys/Numa|Numa]]; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Pagudė; mentioned_place: Semba'
   pagrindžia:
     - c-001
 
@@ -45,6 +47,8 @@ Nenurodyta
 - t-002
   global_id: t-66483
   teiginys: 'Kai broliai rengėsi pulti Gardino pilį, iš Pagudės pabėgę bartai su lietuviais surengė žygį prieš Lenkiją.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir paremtas citata apie bartų bei lietuvių žygį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Numa|Numa]]; mentioned_place: Gardinas; mentioned_place: Lenkija; mentioned_place: Pagudė; mentioned_place: Semba'
   pagrindžia:
     - c-002
 
@@ -96,11 +100,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bartai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Numa]]
-- [[objektai/asmenys/Derska]]
-- [[objektai/zodynas/žygis]]

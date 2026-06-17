@@ -28,6 +28,9 @@ Kiparsky, V.: Baltische Sprachen und Völ­ ker, Baltische Lande, I, 1939, 48-59
 - t-001
   global_id: t-31032
   teiginys: 'V. Kiparsky 1939 m. parašė darbą „Kurenfrage“.'
+  susije_objektai: 'mentioned_place: Kaunas'
+  temporaliniai_duomenys: 'įvykio data: 1939 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

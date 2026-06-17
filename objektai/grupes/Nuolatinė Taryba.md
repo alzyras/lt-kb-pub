@@ -15,51 +15,59 @@ tags:
 
 ## Santrauka
 
-Tuo metu buvo suorganizuotas iki tol nebuvęs centrinės valdžios organas, pavadintas Nuolatine Taryba. Nuolatinė Taryba išgyvavo 14 metų (iki 1789 m.). Nuolatinę Tarybą sudarė 18 senatorių ir 18 atstovų; du trečdaliai jų turėjo būti lenkai, o trečdalis lietuviai.
+Be jos ambasadoriaus Štakelbergo sutikimo, nei karalius nei Nuolatinė Taryba nieko negalėjo padaryti. Buvo atgaivinta Nuolatinė Taryba ir tada veikusios karo ir iždo komisijos. Pirmiausia buvo panaikinta Nuolatinė Taryba.
 
 ## Teiginiai
+
 <a id="claim-t-65961"></a>
 - t-001
   global_id: t-65961
   teiginys: 'Tuo metu buvo suorganizuotas iki tol nebuvęs centrinės valdžios organas, pavadintas Nuolatine Taryba.'
+  sudarymo_pagrindimas: 'Pašalinta kontekstinė pradžia ir normalizuota rašyba.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+
 <a id="claim-t-65962"></a>
 - t-002
   global_id: t-65962
-  teiginys: 'Nuolatinę Tarybą sudarė 18 senatorių ir 18 atstovų; du trečdaliai jų turėjo būti lenkai, o trečdalis lietuviai.'
+  teiginys: 'Nuolatinė Taryba išgyvavo 14 metų (iki 1789 m.).'
   pagrindžia:
     - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+
 <a id="claim-t-65964"></a>
 - t-003
   global_id: t-65964
-  teiginys: 'Nuolatinė Taryba išgyvavo 14 metų (iki 1789 m.).'
+  teiginys: 'Nuolatinę Tarybą sudarė 18 senatorių ir 18 atstovų; du trečdaliai jų turėjo būti lenkai, o trečdalis lietuviai.'
+  sudarymo_pagrindimas: 'Perrašyta pašalinant OCR ir trupmenų žymėjimo klaidas.'
   pagrindžia:
     - c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+
 <a id="claim-t-182912"></a>
 - t-004
   global_id: t-182912
   teiginys: 'Be Rusijos ambasadoriaus Štakelbergo sutikimo nei karalius, nei Nuolatinė Taryba negalėjo priimti sprendimų.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis teiginys turi neaiškią nuorodą „jos“ ir taisytiną skyrybą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lietuva; mentioned_place: Rusija'
   pagrindžia:
     - c-004
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+
 <a id="claim-t-182913"></a>
 - t-005
   global_id: t-182913
   teiginys: 'Nuolatinė Taryba ir karo bei iždo komisijos buvo atgaivintos grąžinus po I padalinimo buvusią santvarką.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata leidžia suformuluoti aiškesnį sakinį apie aplinkybę.'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-005
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Tuo metu buvo suorganizuotas iki tol nebuvęs centrinės valdžios organas, pavadintas Nuolatine Taryba.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -69,14 +77,28 @@ Tuo metu buvo suorganizuotas iki tol nebuvęs centrinės valdžios organas, pava
     m. Respublika turėjo teisę laikyti tik 24.000 kariuomenės). Tuo
     pat metu buvo suorganizuotas lig šiol nebuvęs centralinės val-
     džios organas, pavadintas Nuolatine Taryba.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Nuolatinė Taryba išgyvavo 14 metų (iki 1789 m.). Ji turėjo
+    didelę reikšmę ir Lietuvai. Iki tol Lietuva ir Lenkija buvo
+
+
+    visiškai atskiros valstybės, kurios turėjo visiškai atskirai orga-
+    nizuotą savo valdžią.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-003
   santrauka: 'Nuolatinę Tarybą sudarė 18 senatorių ir 18 atstovų; du trečdaliai jų turėjo būti lenkai, o trečdalis lietuviai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -91,30 +113,12 @@ Tuo metu buvo suorganizuotas iki tol nebuvęs centrinės valdžios organas, pava
     visą veikimą turėjo tik prižiūrėti, aiškinti įstatymus ir spręst
     kylančius konfliktus. Ji buvo bendra Lietuvai ir Lenkijai, o anos
     komisijos ir kiti organai liko, kaip buvę, atskiri.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Nuolatinė Taryba išgyvavo 14 metų (iki 1789 m.).'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Nuolatinė Taryba išgyvavo 14 metų (iki 1789 m.). Ji turėjo
-    didelę reikšmę ir Lietuvai. Iki tol Lietuva ir Lenkija buvo
-
-
-    visiškai atskiros valstybės, kurios turėjo visiškai atskirai orga-
-    nizuotą savo valdžią.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-003
+
 - c-004
   santrauka: 'Be Rusijos ambasadoriaus Štakelbergo sutikimo nei karalius, nei Nuolatinė Taryba negalėjo priimti sprendimų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -125,13 +129,12 @@ Tuo metu buvo suorganizuotas iki tol nebuvęs centrinės valdžios organas, pava
 
     daryti. Dar kelerius metus Štakelbergo žinioje Lietuvoje ir Len-
     kijoje buvo laikoma rusų kariuomenė.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-004
+
 - c-005
   santrauka: 'Nuolatinė Taryba ir karo bei iždo komisijos buvo atgaivintos grąžinus po I padalinimo buvusią santvarką.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -141,20 +144,8 @@ Tuo metu buvo suorganizuotas iki tol nebuvęs centrinės valdžios organas, pava
     buvusi po I padalinimo. Buvo atgaivinta Nuolatinė Taryba ir
     tada veikusios karo ir iždo komisijos. Kaip ir seniau, jos buvo
     atskiros Lietuvai ir Lenkijai.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-005
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/grupes/Čartoriskiai]]
-- [[objektai/grupes/Gardino seimas]]
-- [[objektai/grupes/Lietuviai]]

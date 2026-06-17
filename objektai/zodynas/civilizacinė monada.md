@@ -23,6 +23,8 @@ Lietuva liks savarankiška civilizacinė monada, todėl tiek Gediminas, tiek Alg
 - t-001
   global_id: t-77791
   teiginys: 'Lietuva apibūdinta kaip savarankiška civilizacinė monada, nes Gediminas ir Algirdas vadinosi karaliais be pripažinimo iš svetur.'
+  sudarymo_pagrindimas: 'Reikia glaustesnio sakinio be perteklinių kontekstinių intarpų.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_object: [[objektai/posakiai/„ir mes turime vieną Dievą…“|„ir mes turime vieną Dievą…“]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Lizdeika|Lizdeika]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_person: [[objektai/asmenys/Netimeras|Netimeras]]; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -49,15 +51,3 @@ Lietuva liks savarankiška civilizacinė monada, todėl tiek Gediminas, tiek Alg
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Gediminas]]
-- [[objektai/daiktai/Karūna]]
-- [[objektai/daiktai/Kryžius]]
-- [[objektai/asmenys/Lizdeika]]
-- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
-- [[objektai/asmenys/Netimeras]]
-- [[objektai/zodynas/pagonybė]]
-- [[objektai/posakiai/„ir mes turime vieną Dievą…“]]
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]

@@ -14,6 +14,7 @@ tags:
   - karalius
   - kunigaikštis
   - miestas
+  - tauta
 amziai:
   - 'XII'
 periodo_grupes:
@@ -31,9 +32,20 @@ periodo_grupes:
 - t-001
   global_id: t-87550
   teiginys: 'Maukoldas, pasak šaltinyje perteikto pasakojimo, buvo Rostislavo Rogvoldovičiaus sūnus ir Mindaugo tėvas.'
+  sudarymo_pagrindimas: 'Teiginys sutelktas į Maukoldą ir pašalintas ilgas konteksto fragmentas.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Dovydas|Dovydas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Dovilas, arba Dovydas.md#claim-t-87493|Dovilas, arba Dovydas]]: Dovilas, arba Dovydas, šaltinyje laikomas pirmuoju Vilniaus kunigaikščiu, kurį vilniečiai pasikvietė vietininku XII amžiuje.
+- susijęs iš [[objektai/asmenys/Erdenas, arba Jerdenas.md#claim-t-87498|Erdenas, arba Jerdenas]]: Erdenas nurodomas kaip pirmuoju Vilniaus kunigaikščiu laikyto Dovilo arba Dovydo sūnus.
+- susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113914|Mindaugas (valdovas, XIII a.)]]: Maukoldas buvo Mindaugo, dar vadinamo Mendogu, tėvas.
+- susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113936|Mindaugas (valdovas, XIII a.)]]: Maukoldas citatoje nurodomas kaip Mindaugo, dar vadinto Mendogu, tėvas.
+- susijęs iš [[objektai/asmenys/Vaišelga.md#claim-t-82778|Vaišelga (kunigaikštis)]]: Vaišelga nuvyko į Sinajaus kalną, ten pasikrikštijo, tapo vienuoliu, po trejų metų grįžo pas Mindaugą ir įkūrė vienuolyną.
+- susijęs iš [[objektai/asmenys/Vidas, pramintas Vilku.md#claim-t-87589|Vidas, pramintas Vilku]]: Vidas, pramintas Vilku, buvo pirmojo Vilniaus kunigaikščio Dovilo arba Dovydo sūnus.
+- susijęs iš [[objektai/grupes/Rogvoldovičiai.md#claim-t-86820|Rogvoldovičiai]]: Mstislavui Vladimirovičiui užėmus Polocką, Rogvoldovičiai pabėgo į Konstantinopolį.
+- susijęs iš Nikono metraštis: Balińskis manė, kad Voskresensko metraštininkas galėjo žinoti ką nors tikra apie Gedimino kilmę, nes rašė praėjus vos amžiui po Jogailos.
+- susijęs iš Konstantinopolis: Vilniečiai iš Konstantinopolio paėmė Polocko kunigaikščio Rostislavo Rogvoldovičiaus vaikus Dovilą ir Maukoldą.
+- susijęs iš [[objektai/zodynas/vietininkas.md#claim-t-176266|vietininkas]]: Rusios kronikininkai liudijo, kad Vilniaus gyventojai vietininkais pasikvietė Dovilą ir Maukoldą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -55,14 +67,3 @@ periodo_grupes:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Dovydas]]
-- [[objektai/asmenys/Dovilas, arba Dovydas]]
-- [[objektai/asmenys/Erdenas, arba Jerdenas]]
-- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
-- [[objektai/grupes/Rogvoldovičiai]]
-- [[objektai/asmenys/Vaišelga|Vaišelga (kunigaikštis)]]
-- [[objektai/asmenys/Vidas, pramintas Vilku]]
-- [[objektai/zodynas/vietininkas]]

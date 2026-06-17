@@ -55,6 +55,11 @@ Nenurodyta
 - t-001
   global_id: t-40758
   teiginys: 'Pirmojo pasaulinio karo metu, pradėjus trūkti ginklų, buvo naudojami ir senieji Berdan šautuvai.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/2-asis pėstininkų pulkas|2-asis pėstininkų pulkas]]; mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_place: Alytus; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Rusija'
+  temporaliniai_duomenys: 'įvykio data: 1877-1878; įvykio data: 1878 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -79,10 +84,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/2-asis pėstininkų pulkas]]
-- [[objektai/daiktai/Šautuvai]]
-- [[objektai/daiktai/Žirgai]]
-- [[objektai/daiktai/Mosin-Nagant šautuvas]]

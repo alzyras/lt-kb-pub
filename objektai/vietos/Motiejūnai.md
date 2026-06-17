@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Apie 12 val. T. Balno kariai pasiekė Motiejūnų-Giedraičių kelią ir pasuko Motiejūnų link.
+Balno kariai pasiekė Motiejūnų-Giedraičių kelią ir išsiskleidę pasuko Motiejūnų link.
 
 ## Teiginiai
 
@@ -20,6 +20,8 @@ Apie 12 val. T. Balno kariai pasiekė Motiejūnų-Giedraičių kelią ir pasuko 
 - t-001
   global_id: t-41939
   teiginys: 'Apie 12 val. T. Balno kariai pasiekė Motiejūnų-Giedraičių kelią ir pasuko Motiejūnų link.'
+  sudarymo_pagrindimas: 'Reikia atkurti citatoje esančią inicialo formą ir pašalinti perteklinį fragmentą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Balnas|Balnas]]; mentioned_place: Kaimas'
   pagrindžia:
     - c-001
 

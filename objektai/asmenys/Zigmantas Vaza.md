@@ -11,28 +11,51 @@ date_start: '1597'
 date_end: '1632'
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XVI'
-  - 'XVII'
-periodo_grupes:
-  - 'LDK'
 tags:
   - asmuo
   - karalius
   - karas
   - upė
+  - valstybė
+amziai:
+  - 'XVI'
+  - 'XVII'
+periodo_grupes:
+  - 'LDK'
 ---
 # Zigmantas Vaza
 
 ## Santrauka
 
-Zigmanto Vazos laikai šaltinyje datuojami 1588–1632 m. Zigmantas mirė 1632 m., iškaraliavęs net 44 m. 1598 m. Zigmantas III Vaza su nedidele kariuomene nuvyko į Švediją, bet buvo išstumtas ir priverstas pasitraukti.
+Zigmanto Vazos elekcija ir naujasis Lietuvos Statutas 294. Zigmantas Vaza ir jo valdymas 298. Zigmanto Vazos valdymo charakteristika ....
 
 ## Teiginiai
+
+<a id="claim-t-82984"></a>
+- t-001
+  global_id: t-82984
+  teiginys: 'Zigmanto Vazos laikai šaltinyje datuojami 1588–1632 m.'
+  sudarymo_pagrindimas: 'Citata leidžia suformuluoti pilną faktinį sakinį apie laikotarpį.'
+  pagrindžia:
+    - c-002
+
+<a id="claim-t-82985"></a>
+- t-002
+  global_id: t-82985
+  teiginys: 'Zigmantas mirė 1632 m., iškaraliavęs net 44 m.'
+  pagrindžia:
+    - c-004
+
 <a id="claim-t-82987"></a>
 - t-003
   global_id: t-82987
   teiginys: '1598 m. Zigmantas III Vaza su nedidele kariuomene nuvyko į Švediją, bet buvo išstumtas ir priverstas pasitraukti.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'location: Švedija; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_person: [[objektai/asmenys/Zigmantas III|Zigmantas III]]; mentioned_place: Švedija'
+  semantiniai_rysiai: '[[objektai/asmenys/Zigmantas Vaza|Zigmantas Vaza]] keliavo į Švedija'
+  temporaliniai_duomenys: 'kelionės data: 1598 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Zigmantas Vaza keliavo į Švedija“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-003
 
@@ -40,22 +63,19 @@ Zigmanto Vazos laikai šaltinyje datuojami 1588–1632 m. Zigmantas mirė 1632 m
 - t-004
   global_id: t-82988
   teiginys: '1632 m. maskvėnai pasinaudojo Zigmanto Vazos mirtimi ir įsiveržė į Lietuvos teritoriją, siekdami atgauti Smolenską.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir citata patvirtina nurodytą įsiveržimo aplinkybę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Lietuva; mentioned_place: Smolenskas'
+  temporaliniai_duomenys: 'įvykio data: 1632 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys ir citata patvirtina nurodytą įsiveržimo aplinkybę.'
   pagrindžia:
     - c-001
-- t-005
-  teiginys: 'Zigmanto Vazos laikai šaltinyje datuojami 1588–1632 m.'
-  pagrindžia:
-    - c-004
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-006
-  teiginys: 'Zigmantas mirė 1632 m., iškaraliavęs net 44 m.'
-  pagrindžia:
-    - c-005
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-
+- susijęs iš [[objektai/grupes/Lenkijos kariuomenė.md#claim-t-78204|Lenkijos kariuomenė]]: Zigmantas Vaza nurodė LDK kariuomenei telktis prie Podolės Kameneco ir suteikti pagalbą Lenkijos kariuomenei.
+- susijęs iš Livonija: 1621 m. švedai užėmė didelę dalį Livonijos, o Rusija grasino Lietuvai karu.
+- susijęs iš Podolė: Zigmantas Vaza nurodė LDK kariuomenei telktis prie Podolės Kameneco ir suteikti pagalbą Lenkijos kariuomenei.
+- susijęs iš Podolė: Susidarius grėsmingai situacijai, Zigmantas Vaza nurodė LDK kariuomenei telktis prie Podolės Kameneco ir padėti Lenkijos kariuomenei.
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: '1632 m. maskvėnai pasinaudojo Zigmanto Vazos mirtimi ir įsiveržė į Lietuvos teritoriją, siekdami atgauti Smolenską.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -74,6 +94,21 @@ Zigmanto Vazos laikai šaltinyje datuojami 1588–1632 m. Zigmantas mirė 1632 m
   statusas: verified
   pagrindžia:
     - t-004
+
+- c-002
+  santrauka: 'Zigmanto Vazos laikai šaltinyje datuojami 1588–1632 m.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Zigmanto Vazos laikai (1588—1632 m.)
+    1. Zigmanto Vazos elekcija ir naujasis Lietuvos Statutas 294
+    2. Zigmantas Vaza ir jo valdymas 298
+    3.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
 - c-003
   santrauka: '1598 m. Zigmantas III Vaza su nedidele kariuomene nuvyko į Švediją, bet buvo išstumtas ir priverstas pasitraukti.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -90,42 +125,18 @@ Zigmanto Vazos laikai šaltinyje datuojami 1588–1632 m. Zigmantas mirė 1632 m
   statusas: verified
   pagrindžia:
     - t-003
+
 - c-004
-  santrauka: 'Zigmanto Vazos laikai šaltinyje datuojami 1588–1632 m.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Zigmanto Vazos laikai (1588—1632 m.)
-    1. Zigmanto Vazos elekcija ir naujasis Lietuvos Statutas 294
-    2. Zigmantas Vaza ir jo valdymas 298
-    3.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-005
-- c-005
-  santrauka: 'Zigmantas mirė 1632 m., iškaraliavęs net 44 m.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **8. Zigmanto Vazos valdymo charakteristika**
     Zigmantas mirė 1632 m., iškaraliavęs net 44 m. Jo valdy-
     mas nei Lietuvai nei Lenkijai nieko gero nedavė.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-006
+    - t-002
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Rusai]]
-- [[objektai/asmenys/Vladislovas]]
-- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
-- [[objektai/ivykiai/Zigmanto Vazos elekcija (1587 m.)]]
-- [[objektai/zodynas/statutas]]
-- [[objektai/grupes/Lenkijos kariuomenė]]
-- [[objektai/grupes/Maskvėnai]]
+- Zigmantas Vaza keliavo_i [[objektai/vietos/Švedija]]

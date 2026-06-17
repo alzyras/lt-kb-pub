@@ -6,9 +6,8 @@ saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-datos:
-  - '1441 m.'
-date_start: '1441'
+datos: []
+date_start: ''
 date_end: ''
 sukurta: ''
 atnaujinta: ''
@@ -16,14 +15,14 @@ tags:
   - asmuo
 amziai:
   - 'XV'
-periodo_grupes:
-  - 'LDK'
+  - 'D'
+periodo_grupes: []
 ---
 # Daumantas (kunigaikštis, XV a.)
 
 ## Santrauka
 
-Daumantas, Nalšėnų kunigaikštis, mėgino pašalinti Mindaugą, bet neįstengė. Daumantas buvo Mindaugo svogeris ir Treniotos sąjungininkas prieš Mindaugą. Per krikštą Timofėjaus vardą priėmęs Daumantas buvo išrinktas Pskovo kunigaikščiu ir susigiminiavo su Riurikaičiais.
+Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su sąmokslu prieš Mindaugą ir vėliau tapęs Pskovo kunigaikščiu. Jis minimas kaip Mindaugo svogeris, priėmęs Timofėjaus vardą ir iš naujosios žemės rengęs žygius prieš Nalšėnus.
 
 ## Teiginiai
 
@@ -31,6 +30,7 @@ Daumantas, Nalšėnų kunigaikštis, mėgino pašalinti Mindaugą, bet neįsteng
 - t-001
   global_id: t-05161
   teiginys: 'Daumantas, Nalšėnų kunigaikštis, mėgino pašalinti Mindaugą, bet neįstengė.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Nalšėnai'
   pagrindžia:
     - c-001
 
@@ -38,6 +38,7 @@ Daumantas, Nalšėnų kunigaikštis, mėgino pašalinti Mindaugą, bet neįsteng
 - t-002
   global_id: t-05162
   teiginys: 'Daumantas buvo Mindaugo svogeris ir Treniotos sąjungininkas prieš Mindaugą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lybiai|Lybiai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_person: [[objektai/asmenys/Treniota|Treniota]]; mentioned_place: Livonija; mentioned_place: Nalšėnai'
   pagrindžia:
     - c-005
 
@@ -45,6 +46,8 @@ Daumantas, Nalšėnų kunigaikštis, mėgino pašalinti Mindaugą, bet neįsteng
 - t-003
   global_id: t-05163
   teiginys: 'Per krikštą Timofėjaus vardą priėmęs Daumantas buvo išrinktas Pskovo kunigaikščiu ir susigiminiavo su Riurikaičiais.'
+  sudarymo_pagrindimas: 'Teiginys pašalina citatos OCR triukšmą ir tiksliai perteikia faktus.'
+  susije_objektai: 'mentioned_place: Pskovas'
   pagrindžia:
     - c-006
 
@@ -52,6 +55,9 @@ Daumantas, Nalšėnų kunigaikštis, mėgino pašalinti Mindaugą, bet neįsteng
 - t-004
   global_id: t-05164
   teiginys: '1266 m. Daumantas su pskoviečiais puolė Nalšėnus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pskoviečiai|Pskoviečiai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_place: Nalšėnai; mentioned_place: Pskovas'
+  temporaliniai_duomenys: 'įvykio data: 1266 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 
@@ -59,6 +65,10 @@ Daumantas, Nalšėnų kunigaikštis, mėgino pašalinti Mindaugą, bet neįsteng
 - t-005
   global_id: t-82249
   teiginys: 'Kariuomenei vadovavo Nalšėnų kunigaikštis Daumantas.'
+  susije_objektai: 'territory: Brianskas; territory: Nalšėnai; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Brianskas; mentioned_place: Nalšėnai'
+  semantiniai_rysiai: '[[objektai/asmenys/Daumantas|Daumantas]] buvo valdovas Brianskas; [[objektai/asmenys/Daumantas|Daumantas]] buvo valdovas Nalšėnai'
+  temporaliniai_duomenys: 'valdymo laikotarpis: 1263 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Daumantas (kunigaikštis, XV a.) buvo valdovas Brianskas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Daumantas (kunigaikštis, XV a.) buvo valdovas Nalšėnai“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-003
 
@@ -66,6 +76,9 @@ Daumantas, Nalšėnų kunigaikštis, mėgino pašalinti Mindaugą, bet neįsteng
 - t-006
   global_id: t-82252
   teiginys: 'Daumantas, spėjama, dalyvavo Mindaugo nužudyme, vėliau valdė Pskovą ir buvo Dovydo tėvas.'
+  sudarymo_pagrindimas: 'Teiginys perrašytas apie Daumantą, išlaikant citatoje nurodytą spėjimo pobūdį.'
+  susije_objektai: 'territory: Gardinas; territory: Pskovas; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Gardinas; mentioned_place: Pskovas'
+  semantiniai_rysiai: '[[objektai/asmenys/Daumantas|Daumantas]] valdė teritoriją Gardinas; [[objektai/asmenys/Daumantas|Daumantas]] valdė teritoriją Pskovas'
   pagrindžia:
     - c-004
 
@@ -73,6 +86,12 @@ Daumantas, Nalšėnų kunigaikštis, mėgino pašalinti Mindaugą, bet neįsteng
 - t-007
   global_id: t-184683
   teiginys: 'Daumantas buvo Nalšios kunigaikštis, kurio žmona, karalienės sesuo, atvyko į Mindaugo žmonos šermenis.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata leidžia aiškiai įvardyti Daumantą ir jo žmonos vaidmenį.'
+  susije_objektai: 'location: Nalšia; mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_object: [[objektai/zodynas/stabmeldžiai|stabmeldžiai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Nalšia'
+  semantiniai_rysiai: '[[objektai/asmenys/Daumantas|Daumantas]] keliavo į Nalšia'
   pagrindžia:
     - c-007
 
@@ -80,6 +99,11 @@ Daumantas, Nalšėnų kunigaikštis, mėgino pašalinti Mindaugą, bet neįsteng
 - t-008
   global_id: t-184684
   teiginys: 'Po Mindaugo padarytos skriaudos Daumantas slėpė keršto troškimą ir slapta tardavosi su Treniota.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pašalintas puslapio ir antraštės triukšmas, paliktas citatos remiamas faktas.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_person: [[objektai/asmenys/Treniota|Treniota]]'
   pagrindžia:
     - c-008
 
@@ -87,6 +111,11 @@ Daumantas, Nalšėnų kunigaikštis, mėgino pašalinti Mindaugą, bet neįsteng
 - t-009
   global_id: t-184685
   teiginys: 'Mindaugui įsakius žygiuoti prieš Briansko kunigaikštį, Daumantas paragino Treniotą pasinaudoti kariuomene.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Ilgas fragmentas sutrumpintas iki aiškaus Daumanto veiksmo.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_person: [[objektai/asmenys/Treniota|Treniota]]; mentioned_place: Brianskas; mentioned_place: Dnepras'
   pagrindžia:
     - c-009
 
@@ -94,6 +123,11 @@ Daumantas, Nalšėnų kunigaikštis, mėgino pašalinti Mindaugą, bet neįsteng
 - t-010
   global_id: t-184686
   teiginys: 'Daumantui buvo duota Utenos kunigaikštystė, o kai kurie šaltiniai jam priskyrė Svyrių pilies įkūrimą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys paremtas citata ir atskiria faktą nuo šaltinių priskyrimo.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/įpėdinis|įpėdinis]]; mentioned_place: Giedraičiai; mentioned_place: Utena'
   pagrindžia:
     - c-010
 
@@ -101,6 +135,11 @@ Daumantas, Nalšėnų kunigaikštis, mėgino pašalinti Mindaugą, bet neįsteng
 - t-011
   global_id: t-184687
   teiginys: 'Po žmonos laidotuvių Daumantas prievarta pasiliko Narimanto žmoną, norėdamas ja pakeisti mirusiąją.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nusako Daumanto veiksmą ir yra pagrįstas citata.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)|Narimantas (Pinsko kunigaikštis)]]; mentioned_place: Utena'
   pagrindžia:
     - c-011
 
@@ -108,9 +147,48 @@ Daumantas, Nalšėnų kunigaikštis, mėgino pašalinti Mindaugą, bet neįsteng
 - t-012
   global_id: t-184689
   teiginys: '1441 m. žemaičiai, pašalinę Kęsgailos paliktus pareigūnus, išsirinko Daumantą kunigaikščiu ir rėmė Mykolą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Perrašyta pašalinant OCR triukšmą ir aiškiau susiejant veiksmus su citatos kontekstu.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Kęsgaila|Kęsgaila]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Gardinas; mentioned_place: Pskovas'
+  temporaliniai_duomenys: 'įvykio data: 1441 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Perrašyta pašalinant OCR triukšmą ir aiškiau susiejant veiksmus su citatos kontekstu.'
   pagrindžia:
     - c-012
-
+- susijęs iš [[objektai/asmenys/Antanas Jančius-Žaibas.md#claim-t-80704|Antanas Jančius-Žaibas]]: Antanas Jančius-Žaibas buvo siejamas su bunkeriu Šimonių girioje prie Iženos upelio, kurį užpuolus žuvo 6 partizanai.
+- susijęs iš [[objektai/asmenys/Juozas Daumantas.md#claim-t-183745|Juozas Daumantas]]: Juozas Daumantas prisiminimuose pasakojo apie Tauro apygardos partizanų viešnagę per 1945 m. Kalėdas, pasibaigusią susišaudymu.
+- susijęs iš [[objektai/asmenys/Juozas Daumantas.md#claim-t-40235|Juozas Daumantas]]: Juozas Daumantas prisiminimuose aprašė Tauro apygardos partizanų susišaudymą per 1945 m. Kalėdas.
+- susijęs iš [[objektai/asmenys/Kantautas.md#claim-t-186123|Kantautas]]: Žemaičiai mielai priėmė Kantautą seniūnu, nes jis buvo jų krašto žmogus ir Daumanto giminaitis.
+- susijęs iš [[objektai/asmenys/Lauras.md#claim-t-186007|Lauras]]: Lauras, žmonių vadintas Rimantu, po žinios apie tėvo nužudymą paliko vienuolyną ir pradėjo vadovauti karui prieš Daumantą.
+- susijęs iš [[objektai/asmenys/Lauras.md#claim-t-186008|Lauras]]: Lauras po sutelktų pajėgų patraukė prieš Daumantą, mūšyje įgijo persvarą ir nukovė Daumantą.
+- susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113906|Mindaugas (valdovas, XIII a.)]]: Mindaugas sukūrė valstybę ir, nors laikinai, įtraukė ją į Europos šalių sistemą.
+- susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113915|Mindaugas (valdovas, XIII a.)]]: Mindaugas sukūrė valstybę ir, nors laikinai, įvedė ją į Europos šalių sistemą.
+- susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-184789|Mindaugas (valdovas, XIII a.)]]: Mirus Mindaugo žmonai, Daumanto žmona atvyko į Mindaugo rūmus tvarkyti šeimynos moterų ir surengti šermenų.
+- susijęs iš [[objektai/asmenys/Treniota.md#claim-t-184848|Treniota]]: Treniota sutartą dieną slaptai atvedė kariuomenę iš Žemaitijos ir kartu su Daumantu naktį įsiveržė į Mindaugo rūmus.
+- susijęs iš [[objektai/asmenys/Treniota.md#claim-t-90063|Treniota]]: Treniota veikė išvien su Nalšios kunigaikščiu Daumantu, kuris 1263 m. nužudė Mindaugą.
+- susijęs iš [[objektai/asmenys/Treniota.md#claim-t-90064|Treniota]]: Po 1260 m. Durbės mūšio žemaičiai, tarpininkaujant Treniotai, siūlė Mindaugui atsimesti nuo krikščionybės ir kariauti su Livonija.
+- susijęs iš [[objektai/autoriai/Juozas Lukša-Daumantas.md#claim-t-183697|Juozas Lukša-Daumantas]]: STRIBAI Juozas Daumantas pasakoja apie stribus - sovietiniams okupantams talkinusius kolaborantus.
+- susijęs iš [[objektai/autoriai/Juozas Lukša-Daumantas.md#claim-t-40632|Juozas Lukša-Daumantas]]: Juozas Daumantas aprašė Tauro apygardos partizanų 1945 m. Kalėdų apsilankymą pas ūkininką, pasibaigusį susišaudymu.
+- susijęs iš [[objektai/autoriai/Juozas Lukša-Daumantas.md#claim-t-40634|Juozas Lukša-Daumantas]]: Juozas Daumantas rašė apie stribus, sovietiniams okupantams talkinusius kolaborantus.
+- susijęs iš [[objektai/grupes/Rogvoldovičiai.md#claim-t-86820|Rogvoldovičiai]]: Mstislavui Vladimirovičiui užėmus Polocką, Rogvoldovičiai pabėgo į Konstantinopolį.
+- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176152|Žemaičiai]]: Po Durbės mūšio žemaičiai per Treniotą siūlė Mindaugui atsimesti nuo krikščionybės ir pradėti karą su Livonija.
+- susijęs iš [[objektai/ivykiai/Daumanto žygis į Nalšėnus ir Gerdenio žūtis (1266-1267 m.).md#claim-t-31409|Daumanto žygis į Nalšėnus ir Gerdenio žūtis (1266-1267 m.)]]: Gerdenis pralaimėjo Daumantui, pasitraukė su kariuomenės likučiais, o per kitą Daumanto žygį į Nalšėnus 1267 m. žiemą žuvo.
+- susijęs iš [[objektai/paprociai/Šermenų kėlimas rūmuose mirus valdovo žmonai.md#claim-t-185927|Šermenų kėlimas rūmuose mirus valdovo žmonai]]: Mirus Mindaugo žmonai, į rūmus buvo pakviesta Daumanto žmona sutvarkyti šeimynos moterų ir iškelti mirusiajai šermenis.
+- susijęs iš Gyvosios atminties programa: LGGRT centro „Gyvosios atminties programa“ pateikė mūšio liudininkės atsiminimus.
+- susijęs iš Lietuvių karas su kryžiuočiais: Lietuvių kare su kryžiuočiais Dovydas Gardiniškis įvardijamas kaip Lietuvos didžiojo kunigaikščio vietininkas ir Gardino pilininkas.
+- susijęs iš Durbė: 1260 m. liepos 13 d. prie Durbės žemaičiai sutriuškino jungtinę Vokiečių ir Livonijos ordinų kariuomenę.
+- susijęs iš Iženos upelis: Antano Jančio-Žaibo bunkeryje Šimonių girioje prie Iženos upelio žuvo 6 partizanai.
+- susijęs iš Konstantinopolis: Vilniečiai iš Konstantinopolio paėmė Polocko kunigaikščio Rostislavo Rogvoldovičiaus vaikus Dovilą ir Maukoldą.
+- susijęs iš Nalšia: Daumantas buvo Nalšios kunigaikštis ir Mindaugo svainės vyras.
+- susijęs iš Nalšėnai: Per Daumanto žygį į Nalšėnus 1267 m. žiemą žuvo Gerdenis.
+- susijęs iš Nalšėnai: Vaišvilkui imant Nalšėnų pilis, Nalšėnų Daumantas pabėgo į Pskovą su šeima, bajorais ir palydovais.
+- susijęs iš Polockas: Daumantas susitaikė su broliu ir gavo valdyti Polocko kraštą.
+- susijęs iš Pskovas: 1581 m. rugpjūčio pabaigoje jungtinės pajėgos pasiekė labai gerai įtvirtintą Pskovo miestą.
+- susijęs iš Pskovas: Pskove Daumantas sėkmingai vadovavo pskoviečių jėgoms prieš Livoniją, o viena gynybinė siena vadinta jo vardu.
+- susijęs iš Pskovo pilis (pilis): Pskovo pilis buvo apjuosta akmens mūrais, kurie vadinti Daumanto sienomis.
+- susijęs iš Svyrių pilis (pilis): Kai kurie Kojelavičiaus minimi šaltiniai teigė, kad Daumantas įkūrė Svyrių pilį.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -380,24 +458,8 @@ Daumantas, Nalšėnų kunigaikštis, mėgino pašalinti Mindaugą, bet neįsteng
     - t-012
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Gediminas]]
-- [[objektai/grupes/Krikščionys]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Lybiai]]
-- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
-- [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]]
-- [[objektai/grupes/Pskoviečiai]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/grupes/Stačiatikiai]]
-- [[objektai/asmenys/Treniota]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/stabmeldžiai]]
-- [[objektai/zodynas/įpėdinis]]
-- [[objektai/ivykiai/Daumanto žygis į Nalšėnus ir Gerdenio žūtis (1266-1267 m.)]]
-- [[objektai/asmenys/Kantautas]]
-- [[objektai/grupes/Rogvoldovičiai]]
-- [[objektai/grupes/Žemaičiai]]
-- [[objektai/asmenys/Kęsgaila]]
-- [[objektai/paprociai/Šermenų kėlimas rūmuose mirus valdovo žmonai]]
+- Daumantas (kunigaikštis, XV a.) valde_teritorija [[objektai/vietos/Gardinas]]
+- Daumantas (kunigaikštis, XV a.) valde_teritorija [[objektai/vietos/Pskovas]]
+- Daumantas (kunigaikštis, XV a.) buvo_valdovas [[objektai/vietos/Brianskas]]
+- Daumantas (kunigaikštis, XV a.) buvo_valdovas [[objektai/vietos/Nalšėnai]]
+- Daumantas (kunigaikštis, XV a.) keliavo_i [[objektai/vietos/Nalšia]]

@@ -43,6 +43,12 @@ Nenurodyta
 - t-001
   global_id: t-62765
   teiginys: '1325 m. Italijoje gibelinai nužudė daug tūkstančių gvelfų.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Duona|Duona]]; mentioned_object: [[objektai/zodynas/gibelinai|gibelinai]]; mentioned_object: [[objektai/zodynas/gvelfai|gvelfai]]; mentioned_place: Italija; mentioned_place: Kristburgas; mentioned_place: Prūsija'
+  temporaliniai_duomenys: 'įvykio data: 1325 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -70,9 +76,3 @@ Nenurodyta
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Duona]]
-- [[objektai/zodynas/gibelinai]]
-- [[objektai/zodynas/gvelfai]]

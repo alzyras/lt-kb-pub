@@ -36,6 +36,11 @@ Dusburgietis teigia, kad bagrationovskas) (Sch-K; GAO, p. 40; Ewald A. Dusburgie
 - t-001
   global_id: t-60870
   teiginys: 'Ewaldo veikalo „Die Eroberung“ 4 tomas nurodomas kaip Kimenavos puolimo datavimo 1278 m. šaltinis.'
+  sudarymo_pagrindimas: 'Citata palaiko Ewaldo veikalo ryšį su Kimenavos puolimo datavimu.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Kimenava'
+  temporaliniai_duomenys: 'įvykio data: 1278 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko Ewaldo veikalo ryšį su Kimenavos puolimo datavimu.'
   pagrindžia:
     - c-004
 
@@ -43,6 +48,11 @@ Dusburgietis teigia, kad bagrationovskas) (Sch-K; GAO, p. 40; Ewald A. Dusburgie
 - t-002
   global_id: t-60872
   teiginys: 'Ewaldo veikalo „Die Eroberung“ 4 tomas nurodomas aprašant 1279–1280 m. žiemos puolimą.'
+  sudarymo_pagrindimas: 'Citata palaiko Ewaldo veikalo ryšį su šio puolimo aprašymu.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Augustavas'
+  temporaliniai_duomenys: 'įvykio data: 1279-1280; įvykio data: 1280 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko Ewaldo veikalo ryšį su šio puolimo aprašymu.'
   pagrindžia:
     - c-001
 
@@ -50,6 +60,11 @@ Dusburgietis teigia, kad bagrationovskas) (Sch-K; GAO, p. 40; Ewald A. Dusburgie
 - t-003
   global_id: t-60873
   teiginys: 'Ewaldo veikalo „Die Eroberung“ 4 tomas nurodomas kaip šaltinis Sembos puolimui 1280 m. vėlyvą rudenį datuoti.'
+  sudarymo_pagrindimas: 'Citata sieja Ewaldo veikalą su Sembos puolimo datavimu.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Semba'
+  temporaliniai_duomenys: 'įvykio data: 1280 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata sieja Ewaldo veikalą su Sembos puolimo datavimu.'
   pagrindžia:
     - c-003
 
@@ -57,6 +72,11 @@ Dusburgietis teigia, kad bagrationovskas) (Sch-K; GAO, p. 40; Ewald A. Dusburgie
 - t-004
   global_id: t-60876
   teiginys: 'Ewaldo veikalas „Die Eroberung“ nurodomas kaip šaltinis Herkaus Manto žūčiai 1273 m. vasarą ar rudenį datuoti.'
+  sudarymo_pagrindimas: 'Citata sieja Ewaldo veikalą su Herkaus Manto žūties datavimu.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Herkus Mantas|Herkus Mantas]]; mentioned_person: [[objektai/asmenys/Mantas|Mantas]]'
+  temporaliniai_duomenys: 'įvykio data: 1273 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata sieja Ewaldo veikalą su Herkaus Manto žūties datavimu.'
   pagrindžia:
     - c-002
 

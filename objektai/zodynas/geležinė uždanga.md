@@ -3,12 +3,18 @@ tipas: zodyno_irasas
 pavadinimas: 'geležinė uždanga'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1947 m.'
+date_start: '1947'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - dokumentas
   - popiežius
   - sąvoka
+amziai:
+  - 'XX'
 ---
 # geležinė uždanga
 
@@ -22,6 +28,11 @@ tags:
 - t-001
   global_id: t-22145
   teiginys: '1947 m. pabaigoje Juozas Lukša-Skirmantas ir Kazimieras Pyplys-Mažytis per „geležinę uždangą“ nugabeno partizanų dokumentus į laisvąjį pasaulį.'
+  sudarymo_pagrindimas: 'Teiginys yra išsamus faktinis sakinys apie objektą ir tiksliai remiasi citata.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Juozas Lukša-Skirmantas|Juozas Lukša-Skirmantas]]; mentioned_person: [[objektai/asmenys/Kazimieras Pyplys-Mažytis|Kazimieras Pyplys-Mažytis]]; mentioned_place: Lietuva; mentioned_place: SSRS'
+  temporaliniai_duomenys: 'įvykio data: 1947 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra išsamus faktinis sakinys apie objektą ir tiksliai remiasi citata.'
   pagrindžia:
     - c-001
 
@@ -47,11 +58,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Juozas Lukša-Skirmantas]]
-- [[objektai/asmenys/Kazimieras Pyplys-Mažytis]]
-- [[objektai/grupes/Lietuvos partizanai]]
-- [[objektai/ivykiai/Partizanų dokumentų nugabenimas į laisvąjį pasaulį (1947 m. pabaiga)]]
-- [[objektai/asmenys/Pijus XII]]

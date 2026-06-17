@@ -21,6 +21,8 @@ Juo garantuojama individualios ar kolektyvinės savigynos teisė, įvykus ginklu
 - t-001
   global_id: t-21996
   teiginys: 'Kolektyvinės savigynos teisė reiškia, kad ginkluoto puolimo prieš vieną Aljanso narę atveju kitos narės ateina jai į pagalbą.'
+  sudarymo_pagrindimas: 'Pradinio sakinio įvardis neaiškus, todėl teiginys sukonkretintas pagal citatą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/NATO|NATO]]; mentioned_place: Vašingtonas; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -28,6 +30,11 @@ Juo garantuojama individualios ar kolektyvinės savigynos teisė, įvykus ginklu
 - t-002
   global_id: t-183434
   teiginys: 'Vašingtono sutarties 5-ajame straipsnyje garantuojama individualios ar kolektyvinės savigynos teisė, užpuolus vieną Aljanso narę.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradiniame teiginyje neaiškus įvardis, todėl objektas įvardytas aiškiai.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/NATO|NATO]]; mentioned_place: Vašingtonas; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -50,8 +57,3 @@ Juo garantuojama individualios ar kolektyvinės savigynos teisė, įvykus ginklu
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/NATO]]
-- [[objektai/grupes/Šiaurės Atlanto sutarties organizacija (NATO)]]

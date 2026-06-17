@@ -28,6 +28,8 @@ Dusburgietis teigia, kad zurkalowski E.
 - t-001
   global_id: t-60830
   teiginys: 'Zurkalowski E. paskelbė darbą apie tai, į kuriuos metus datuotina sembų surengta Klaipėdos apgultis.'
+  sudarymo_pagrindimas: 'Bibliografinis įrašas leidžia teigti autoriaus publikacijos temą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]'
   pagrindžia:
     - c-001
 
@@ -44,7 +46,3 @@ Dusburgietis teigia, kad zurkalowski E.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Sembai]]

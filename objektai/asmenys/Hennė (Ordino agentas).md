@@ -31,6 +31,9 @@ Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap­ dovanojamas, žinome 
 - t-001
   global_id: t-35089
   teiginys: 'Hennė pranešė apie 1427 m. Vytauto kelionę per rytinį valstybės pakraštį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Maskva; mentioned_place: Vorotinskas'
+  temporaliniai_duomenys: 'įvykio data: 1427 m.; įvykio data: apie 1427 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   pagrindžia:
     - c-002
 
@@ -38,6 +41,7 @@ Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap­ dovanojamas, žinome 
 - t-002
   global_id: t-35090
   teiginys: 'Hennė buvo įžymiausias Vytauto juokdarys ir kartu vokiečių agentas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-001
 
@@ -45,6 +49,8 @@ Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap­ dovanojamas, žinome 
 - t-003
   global_id: t-35091
   teiginys: 'Hennė keliavo kartu su Vytautu ir parašė laišką Vokiečių Ordino magistrui.'
+  susije_objektai: 'location: Pronskas; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Henne|Henne]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Pronskas'
+  semantiniai_rysiai: '[[objektai/asmenys/Hennė (Ordino agentas)|Hennė (Ordino agentas)]] keliavo į Pronskas'
   pagrindžia:
     - c-003
 
@@ -52,6 +58,11 @@ Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap­ dovanojamas, žinome 
 - t-004
   global_id: t-184260
   teiginys: 'Hennė buvo laikomas žymiausiu Vytauto juokdariu ir kartu vokiečių agentu.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pašalintas perteklinis kontekstas ir paliktas aiškus faktas apie Hennę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-004
 
@@ -59,6 +70,14 @@ Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap­ dovanojamas, žinome 
 - t-005
   global_id: t-184261
   teiginys: '1427 m. Hennė pranešė apie triumfatorišką Vytauto ekspediciją rytiniu valstybės pakraščiu.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo apie Vytauto autoritetą, todėl perrašytas į konkretų faktą apie Hennės pranešimą.'
+  susije_objektai: 'mentioned_place: Maskva; mentioned_place: Smolenskas'
+  temporaliniai_duomenys: 'įvykio data: 1427 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys buvo apie Vytauto autoritetą, todėl perrašytas į konkretų faktą apie Hennės pranešimą.'
   pagrindžia:
     - c-005
 
@@ -147,7 +166,4 @@ Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap­ dovanojamas, žinome 
     - t-005
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/magistras]]
+- Hennė (Ordino agentas) keliavo_i [[objektai/vietos/Pronskas]]

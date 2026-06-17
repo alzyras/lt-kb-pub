@@ -45,6 +45,11 @@ Nenurodyta
 - t-001
   global_id: t-86948
   teiginys: '1384 m. Jogaila ir Skirgaila tarp Vilniaus ir Ukmergės nugalėjo Ragainės komtūrą ir sunaikino jo kariauną.'
+  sudarymo_pagrindimas: 'Citata pagrindžia pergalės metus, vietą ir rezultatą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Deglas|Deglas]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Lietuva; mentioned_place: Ragainė; mentioned_place: Ukmergė; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1384 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia pergalės metus, vietą ir rezultatą.'
   pagrindžia:
     - c-001
 
@@ -73,13 +78,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Deglas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Skirgaila]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
-- [[objektai/zodynas/komtūras]]
-- [[objektai/grupes/Kryžiuočių ordinas]]

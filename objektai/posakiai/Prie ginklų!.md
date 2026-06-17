@@ -31,6 +31,8 @@ Tai Vilniaus puolimo pradžią ženklinantis ir miestiečius mobilizuojantis ša
 - t-001
   global_id: t-171566
   teiginys: 'Šūksnis „Prie ginklų!“ nuskambėjo Vilniuje kaip vilniečių raginimas pradėti puolimą.'
+  sudarymo_pagrindimas: 'Pirminis teiginys remiasi kontekstu, bet reikia aiškesnio fakto apie patį posakį.'
+  susije_objektai: 'mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

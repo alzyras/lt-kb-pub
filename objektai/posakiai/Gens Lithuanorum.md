@@ -26,6 +26,11 @@ amziai:
 - t-001
   global_id: t-35971
   teiginys: 'Lietuvos bažnytinė provincija buvo įkurta 1926 m. balandžio 4 d. popiežiaus Pijaus XI bule „Gens Lithuanorum“.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir citata aiškiai patvirtina datą, popiežių ir bulės pavadinimą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/bažnytinė provincija|bažnytinė provincija]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1926 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys ir citata aiškiai patvirtina datą, popiežių ir bulės pavadinimą.'
   pagrindžia:
     - c-001
 
@@ -42,7 +47,3 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/bažnytinė provincija]]

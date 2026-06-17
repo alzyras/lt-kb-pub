@@ -43,6 +43,8 @@ Nenurodyta
 - t-001
   global_id: t-87051
   teiginys: 'Ordino riteriai puolė į mūšį nešini šv. Jurgio vėliava, bet lietuviai juos atrėmė ir privertė grįžti patyrus nuostolių.'
+  sudarymo_pagrindimas: 'Originalas negramatiškas dėl OCR klaidų, citata leidžia atkurti pilną sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]; mentioned_object: [[objektai/daiktai/Šv. Jurgio vėliava|Šv. Jurgio vėliava]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -50,6 +52,8 @@ Nenurodyta
 - t-002
   global_id: t-87052
   teiginys: 'Pilies gynėjai iškėlė vėliavas su kryžiais, rodydami, kad kovoja su pagonimis Vytauto gretose.'
+  sudarymo_pagrindimas: 'Pašalinti pašaliniai ir sulieti fragmentai, paliktas citatos palaikomas faktas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]'
   pagrindžia:
     - c-003
 
@@ -57,6 +61,8 @@ Nenurodyta
 - t-003
   global_id: t-87053
   teiginys: 'Atsitraukdamas ties Rudamina Vytautas neteko daug saviškių ir keturių kariuomenės ženklų.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Rudamina'
   pagrindžia:
     - c-001
 
@@ -127,19 +133,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/vėliava]]
-- [[objektai/zodynas/įgula]]
-- [[objektai/daiktai/Šv. Jurgio vėliava]]
-- [[objektai/asmenys/Jonas (Alšėnų kunigaikštis)]]
-- [[objektai/daiktai/Kariuomenės ženklai]]
-- [[objektai/asmenys/Mikalojus Moskoževskis]]
-- [[objektai/daiktai/Vėliavos su kryžiais]]
-- [[objektai/paprociai/Vėliavų su kryžiais kėlimas kaip kovos su pagonimis ženklas]]

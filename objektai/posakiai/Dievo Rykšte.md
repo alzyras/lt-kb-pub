@@ -1,27 +1,17 @@
 ---
 tipas: posakis
-pavadinimas: "Dievo Rykšte"
-sukurta: '2026-06-16'
-variantai: []
-aliases: []
+pavadinimas: 'Dievo Rykšte'
 saltiniai:
-  - Lietuvos metraštis, Bychovco kronika (1971 m.)
-bukle: juodrastis
-laikotarpis: "V a."
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 datos:
-  - "V a."
-periodas: ""
-periodo_grupes: []
+  - '401 m.'
+  - '500 m.'
+date_start: '401'
+date_end: '500'
+sukurta: ''
+atnaujinta: ''
 amziai:
-  - "V"
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: ""
-atnaujinta: '2026-06-16'
-tags: []
+  - 'V'
 ---
 # Dievo Rykšte
 
@@ -30,27 +20,32 @@ tags: []
 „Dievo Rykšte“ yra Atilos epitetas, šiame leidinyje susietas su jo žiaurumo pasakojimu.
 
 ## Forma
+
 - Pagrindinė forma: Dievo Rykšte
 
 ## Kontekstas ir vartojimas
+
 Epitetas pasirodo legendinės kronikos pradžioje, Atilos aprašyme.
 
 ## Reikšmė
+
 Religinę ir baudžiamąją prasmę turintis panegirinis ar demonizuojantis epitetas.
 
 ## Teiginiai
+
 <a id="claim-t-186889"></a>
 - t-001
   global_id: t-186889
-  teiginys: 'Bychovco kronika Atilą vadina „Dievo Rykšte“.'
+  teiginys: 'Bychovco kronika Atilai priskiria prievardį „Dievo Rykšte“.'
+  teiginio_tipas: 'terminas_ar_titulas'
+  sudarymo_pagrindimas: 'Tai prievardžio vartojimas, todėl formuluotė turi aiškiai rodyti šaltinio priskyrimą.'
   pagrindžia:
     - c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Bychovco kronika Atilą vadina „Dievo Rykšte“.'
+  santrauka: 'Bychovco kronika Atilai priskiria prievardį „Dievo Rykšte“.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     I. APIE ATILĄ IR JO  2IAURUMĄ
@@ -58,10 +53,8 @@ Religinę ir baudžiamąją prasmę turintis panegirinis ar demonizuojantis epit
     mintas Dievo Rykšte. Jis buvo kilęs nuo Jugros upės3 ,
     o Ju ra4  ir dabar tebėra karaliaus Ivako5  žemėje. Jo
     tėvas buvo vardu Mandazigas6 .
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  citata_rodoma: ''
+  teiginio_tipas: terminas_ar_titulas
+  statusas: verified
   pagrindžia:
     - t-001

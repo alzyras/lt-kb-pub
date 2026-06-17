@@ -16,18 +16,19 @@ tags:
 Pagaliau baudžiamosios (kriminalinės) bylos buvo pavestos spręsti trečiam, vadinamajam pilies teismui.
 
 ## Teiginiai
+
 <a id="claim-t-03118"></a>
 - t-001
   global_id: t-03118
   teiginys: 'Pilies teismui buvo pavesta spręsti baudžiamąsias bylas.'
+  sudarymo_pagrindimas: 'Pašalintas neaiškus žodis „trečiam“, paliktas tikslus faktas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/urėdas|urėdas]]; mentioned_place: Viena'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Pilies teismui buvo pavesta spręsti baudžiamąsias bylas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kiekviename dabar
@@ -37,14 +38,8 @@ Pagaliau baudžiamosios (kriminalinės) bylos buvo pavestos spręsti trečiam, v
     buvo pavestos spręsti trečiam, vadinamajam pilies teismui.
     Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek
     daug, kaip kad anksčiau, o tik po vieną kiekvienam paviete.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/urėdas]]

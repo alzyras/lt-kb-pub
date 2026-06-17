@@ -23,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-1314 m. spalio 21 d. Liudvikas iš Bavarijos ir Fridrichas, Austrijos kunigaikštis, dėl nesantarvės vienu metu buvo išrinkti Romos karaliais.
+Dusburgietis teigia, kad apie tai, kaip dėl nesantarvės Liudvikas iš Bavarijos ir Fridrichas, Austrijos kuni­ gaikštis, buvo išrinkti Romos karaliais Tų pačių metų spalio 21 dieną Liudvikas iš Bavarijos ir Fridrichas, Austrijos kunigaikštis, dėl nesantarvės vienu metu buvo išrinkti.
 
 ## Laikotarpis ir datos
 
@@ -47,6 +47,12 @@ Nenurodyta
 - t-001
   global_id: t-62378
   teiginys: '1314 m. spalio 21 d. Liudvikas iš Bavarijos ir Fridrichas, Austrijos kunigaikštis, dėl nesantarvės vienu metu buvo išrinkti Romos karaliais.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Reikia tiksliau įvardyti Fridrichą pagal citatą ir išlaikyti faktinę formuluotę.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_place: Austrija'
+  temporaliniai_duomenys: 'įvykio data: 1314 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia tiksliau įvardyti Fridrichą pagal citatą ir išlaikyti faktinę formuluotę.'
   pagrindžia:
     - c-001
 
@@ -74,9 +80,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Liudvikas]]
-- [[objektai/asmenys/Fridrichas (Austrijos kunigaikštis)]]
-- [[objektai/asmenys/Liudvikas Bavaras]]

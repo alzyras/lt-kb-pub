@@ -26,6 +26,9 @@ amziai:
 - t-001
   global_id: t-31614
   teiginys: 'J. Puzino straipsnis „Aisčiai istorinių šaltinių šviesoje“ 1948 m. paskelbtas žurnalo „Aidai“ 12 numeryje.'
+  susije_objektai: 'mentioned_place: Kretinga; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1948 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

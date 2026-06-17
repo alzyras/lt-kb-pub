@@ -30,6 +30,11 @@ Nenurodyta
 - t-001
   global_id: t-185708
   teiginys: 'Jonušas nesuteikė Kęstučiui pagalbos, užpuolė Poleksiją ir staigiu įsiveržimu užėmė Drohičiną, Melniką, Suražą bei Kamenecą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys palaikomas citata, bet reikia pašalinti boilerplate ir pataisyti rašybą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Kamenecas; mentioned_place: Livonija; mentioned_place: Poleksija; mentioned_place: Suražas; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -56,8 +61,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- [[objektai/asmenys/Jonušas (Mazovijos kunigaikštis)]]

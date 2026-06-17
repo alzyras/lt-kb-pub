@@ -21,6 +21,7 @@ Rothas ir jau mums pažįstamas dr. Cigala, kuriuos Zig­ mantas siuntė Vytautu
 - t-001
   global_id: t-35395
   teiginys: 'Zigmantas siuntė Zig. Rothą pas Vytautą kaip imperatoriaus atstovą aiškinti karūnacijos klausimų ir sklaidyti abejonių.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/apsikarūnavimas|apsikarūnavimas]]; mentioned_object: [[objektai/zodynas/ciesorius|ciesorius]]; mentioned_person: [[objektai/asmenys/Mantas|Mantas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]'
   pagrindžia:
     - c-001
 
@@ -39,8 +40,3 @@ Rothas ir jau mums pažįstamas dr. Cigala, kuriuos Zig­ mantas siuntė Vytautu
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/apsikarūnavimas]]
-- [[objektai/zodynas/ciesorius]]

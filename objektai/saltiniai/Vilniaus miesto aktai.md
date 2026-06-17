@@ -22,6 +22,8 @@ tags:
 - t-001
   global_id: t-88492
   teiginys: 'Vilniaus miesto aktuose buvo Vilniaus vaitų ir kelių žymesnių burmistrų sąrašas, apimantis laikotarpį iki Unijos.'
+  sudarymo_pagrindimas: 'Citata pagrindžia sąrašo kilmę ir apimtį, o puslapio antraštės pašalintos.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

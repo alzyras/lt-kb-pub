@@ -3,11 +3,19 @@ tipas: autorius
 pavadinimas: 'Jučas, M'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+datos:
+  - '1959 m.'
+date_start: '1959'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
   - mūšis
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'XX a.'
 ---
 # Jučas, M
 
@@ -21,6 +29,9 @@ Jučas, M.
 - t-001
   global_id: t-30718
   teiginys: 'M. Jučas parašė 1959 m. Vilniuje išleistą darbą „Žalgirio mūšis“.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/M. Jučas|M. Jučas]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'mūšio data: 1959 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

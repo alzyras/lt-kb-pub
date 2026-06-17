@@ -28,6 +28,10 @@ Dusburgietis teigia, kad livländische Reimchronik / L.
 - t-001
   global_id: t-61149
   teiginys: 'L. Meyerio „Livländische Reimchronik“ išleista Paderborne 1876 m.'
+  sudarymo_pagrindimas: 'Citata patvirtina autoriaus pavardę, pavadinimą, leidimo vietą ir metus.'
+  temporaliniai_duomenys: 'įvykio data: 1876 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata patvirtina autoriaus pavardę, pavadinimą, leidimo vietą ir metus.'
   pagrindžia:
     - c-001
 

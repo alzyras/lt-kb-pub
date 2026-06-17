@@ -14,7 +14,7 @@ tags:
 
 ## Santrauka
 
-Kronikininkas Jonas von Posilge pateikė žinių apie Žemaičių pasidavimą Ordinui. Kronikininkas Jonas von Posilge pateikė daug įdomių žinių apie Žemaičių pasidavimą Ordinui.
+Daug įdomių žinių iš to laikotarpio yra patiekęs kronikininkas Jonas von Posilge.
 
 ## Teiginiai
 
@@ -22,6 +22,8 @@ Kronikininkas Jonas von Posilge pateikė žinių apie Žemaičių pasidavimą Or
 - t-001
   global_id: t-29017
   teiginys: 'Kronikininkas Jonas von Posilge pateikė žinių apie Žemaičių pasidavimą Ordinui.'
+  sudarymo_pagrindimas: 'Citata leidžia tiksliau suformuluoti, kokią žinią pateikė kronikininkas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/įkaitai|įkaitai]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]'
   pagrindžia:
     - c-001
 
@@ -29,9 +31,15 @@ Kronikininkas Jonas von Posilge pateikė žinių apie Žemaičių pasidavimą Or
 - t-002
   global_id: t-184374
   teiginys: 'Kronikininkas Jonas von Posilge pateikė daug įdomių žinių apie Žemaičių pasidavimą Ordinui.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata palaiko aiškesnį enciklopedinį sakinį apie Posilgės pateiktas žinias.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/įkaitai|įkaitai]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/autoriai/J. Posilge.md#claim-t-184350|J. Posilge]]: Kronikininkas Jonas von Posilge pateikė žinių apie Žemaičių pasidavimą Ordinui ir krašto kilmingųjų duotus įkaitus.
+- susijęs iš [[objektai/autoriai/J. Posilge.md#claim-t-29505|J. Posilge]]: Jonas von Posilge užrašė, kad Žemaičių žemė pasidavė Ordinui ir krašto kilmingieji davė daug įkaitų.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -65,8 +73,3 @@ Kronikininkas Jonas von Posilge pateikė žinių apie Žemaičių pasidavimą Or
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/zodynas/įkaitai]]

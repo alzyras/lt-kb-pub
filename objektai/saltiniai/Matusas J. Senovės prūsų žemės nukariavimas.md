@@ -26,6 +26,11 @@ Dusburgietis teigia, kad matusas J.
 - t-001
   global_id: t-61162
   teiginys: 'J. Matuso „Senovės prūsų žemės nukariavimas“ išleistas Kaune 1940 m.'
+  sudarymo_pagrindimas: 'Citata pagrindžia autorių, pavadinimą, leidimo vietą ir metus.'
+  susije_objektai: 'mentioned_place: Kaunas; mentioned_place: Prūsai'
+  temporaliniai_duomenys: 'įvykio data: 1940 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia autorių, pavadinimą, leidimo vietą ir metus.'
   pagrindžia:
     - c-001
 

@@ -43,6 +43,8 @@ Nenurodyta
 - t-001
   global_id: t-175141
   teiginys: 'Markburge į Teutonų namų ordiną įvelkami kandidatai kniūpsti puldavo prieš altorių, kol kunigas melsdavosi ir giedodavo.'
+  sudarymo_pagrindimas: 'Perrašyta į pilną sakinį apie įvilktuvių apeigą, be nutrūkusių fragmentų.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_object: [[objektai/zodynas/landgrafas|landgrafas]]; mentioned_place: Markburgas; mentioned_place: Šventoji'
   pagrindžia:
     - c-001
 
@@ -68,14 +70,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/ritualas]]
-
-### Susiję objektai
-- [[objektai/grupes/Teutonai]]
-- [[objektai/zodynas/landgrafas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/zodynas/kunigas]]
-- [[objektai/daiktai/Altorius]]

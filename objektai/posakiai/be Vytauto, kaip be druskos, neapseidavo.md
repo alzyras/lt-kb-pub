@@ -22,6 +22,8 @@ Bet keisčiausia tai, kad toji pati bajorija, kuri be Vytauto, kaip be druskos, 
 - t-001
   global_id: t-35994
   teiginys: 'Lenkų bajorija, kuriai Vytauto nuopelnai buvo dideli, beveik visa pasipriešino jo karūnavimosi sumanymui.'
+  sudarymo_pagrindimas: 'Reikia sklandesnės ir tikslesnės formuluotės be perteklinio konteksto.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lenkija'
   pagrindžia:
     - c-001
 
@@ -45,7 +47,3 @@ Bet keisčiausia tai, kad toji pati bajorija, kuri be Vytauto, kaip be druskos, 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]

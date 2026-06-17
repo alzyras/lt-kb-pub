@@ -3,10 +3,18 @@ tipas: autorius
 pavadinimas: 'Majewski, W'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+datos:
+  - '1960 m.'
+date_start: '1960'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'XX a.'
 ---
 # Majewski, W
 
@@ -20,6 +28,8 @@ Majewski, W.
 - t-001
   global_id: t-30858
   teiginys: 'W. Majewskis 1960 m. paskelbė straipsnį „Kilka uwag o bitwie pod Grunwaldem“.'
+  temporaliniai_duomenys: 'įvykio data: 1960 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

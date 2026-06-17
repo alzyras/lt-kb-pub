@@ -27,6 +27,8 @@ Srokowski, St.
 - t-001
   global_id: t-31926
   teiginys: 'St. Srokowskio „Granica Prus Wschodnich, jej przebieg, powstanie i znaczenie“ paskelbta 1933 m. žurnalo „Bellona“ 15 tome, 471-494 puslapiuose.'
+  temporaliniai_duomenys: 'įvykio data: 1933 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

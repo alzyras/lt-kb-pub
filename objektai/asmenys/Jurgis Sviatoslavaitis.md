@@ -33,9 +33,10 @@ Pačiam Sviatoslavui žuvus prie Mstislavlio ant Vechros kranto, jo sūnus Jurgi
 - t-001
   global_id: t-30320
   teiginys: 'Jurgį Sviatoslovaitį savo globon buvo paėmusi Riazanė, kurią iš Smolensko puolė Vytautas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/lenas|lenas]]; mentioned_person: [[objektai/asmenys/Hlebas|Hlebas]]; mentioned_person: [[objektai/asmenys/Jomantas|Jomantas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Riazanė; mentioned_place: Smolenskas; mentioned_place: Tverė'
   pagrindžia:
     - c-001
-
+- susijęs iš Smolenskas: 1401 m. Smolenske vėl įsigalėjo išvarytasis Jurgis Sviatoslavaitis.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -54,10 +55,3 @@ Pačiam Sviatoslavui žuvus prie Mstislavlio ant Vechros kranto, jo sūnus Jurgi
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Hlebas]]
-- [[objektai/asmenys/Jomantas]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/asmenys/Vosylius I]]

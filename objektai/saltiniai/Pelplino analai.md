@@ -5,8 +5,11 @@ saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1190 m.'
+  - '1231 m.'
+  - '1260 m.'
+  - '1293 m.'
 date_start: '1190'
-date_end: ''
+date_end: '1293'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -14,12 +17,13 @@ tags:
   - saltinis
 amziai:
   - 'XII'
+  - 'XIII'
 ---
 # Pelplino analai
 
 ## Santrauka
 
-Trumpų žinių apie Ordino praeitį pateikia „Pelplino analai“97.
+Dusburgietis teigia, kad trumpų žinių apie Ordino praeitį pateikia „Pelplino analai“97.
 
 ## Teiginiai
 
@@ -27,6 +31,11 @@ Trumpų žinių apie Ordino praeitį pateikia „Pelplino analai“97.
 - t-001
   global_id: t-61218
   teiginys: 'Trumpų žinių apie Ordino praeitį pateikia „Pelplino analai“97.'
+  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_place: Jeruzalė; mentioned_place: Čekija'
+  temporaliniai_duomenys: 'įvykio data: 1190 m.; įvykio data: 1231 m.; įvykio data: 1260 m.; įvykio data: 1293 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'claim_quality_pipeline deterministic repair'
   pagrindžia:
     - c-001
 

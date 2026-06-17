@@ -18,9 +18,17 @@ Feletėjas buvo rugijų karalius ir pateko į nelaisvę po rugijų pralaimėjimo
 - t-001
   global_id: t-186200
   teiginys: 'Feletėjas buvo rugijų karalius ir pateko į nelaisvę po rugijų pralaimėjimo.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata palaiko Feletėjo statusą ir patekimą į nelaisvę, bet pradinė formuluotė neaiški.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Gotai|Gotai]]'
+  temporaliniai_duomenys: 'įvykio data: 475 m; įvykio data: 487 m'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko Feletėjo statusą ir patekimą į nelaisvę, bet pradinė formuluotė neaiški.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Fridrichas.md#claim-t-184698|Fridrichas]]: Fridrichas, rugijų karaliaus Feletėjo sūnus, buvo išvytas po rugijų pralaimėjimo.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -50,8 +58,3 @@ Feletėjas buvo rugijų karalius ir pateko į nelaisvę po rugijų pralaimėjimo
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Gotai]]
-- [[objektai/asmenys/Fridrichas]]

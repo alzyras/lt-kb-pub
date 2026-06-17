@@ -14,7 +14,7 @@ tags:
 
 ## Santrauka
 
-Marienhausenas Balińskio pateiktame vietovių sąraše priskirtas Livonijos pilims.
+Li­ vonijos pilys: Marienhausenas, Lutzenas, Švarcenburgas, Rosytė, Dinaburgas, Bauskė, Pernava, Kaskhauzenas, Hel- 314 ## Puslapis 331 IV KNYGA menas, Trikačius, Hermesas, Veisenšteinas, Kirchholmas, Volmera, Vendenė, Kokenhauzenas, Rundborgas, Diunamundė.
 
 ## Teiginiai
 
@@ -22,6 +22,8 @@ Marienhausenas Balińskio pateiktame vietovių sąraše priskirtas Livonijos pil
 - t-001
   global_id: t-86303
   teiginys: 'Marienhausenas Balińskio pateiktame vietovių sąraše priskirtas Livonijos pilims.'
+  sudarymo_pagrindimas: 'Rewrite failed deterministic gates: missing_factual_predicate'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Podolė; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

@@ -22,6 +22,8 @@ Normanų įtakos pėdsakų reikią ieškoti Lietuvos bajorkaimiuose — okolicos
 - t-001
   global_id: t-28571
   teiginys: 'Essenas normanų įtakos pėdsakų siūlė ieškoti Lietuvos bajorkaimiuose, bet tam reikėjo gilesnio moksliško pagrindimo.'
+  sudarymo_pagrindimas: 'Citata pateikia priskirtą nuomonę, todėl reikia nurodyti autorių ir pašalinti fragmentiškumą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Normanai|Normanai]]; mentioned_place: Lietuva; mentioned_place: Skandinavija'
   pagrindžia:
     - c-001
 
@@ -42,8 +44,3 @@ Normanų įtakos pėdsakų reikią ieškoti Lietuvos bajorkaimiuose — okolicos
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Normanai]]

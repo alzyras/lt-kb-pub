@@ -23,7 +23,7 @@ periodo_grupes:
 
 ## Santrauka
 
-S. Gierszewski cituojamas teiginiui, kad greta Elbingo pilies augęs miestas 1246 m. gavo Liubeko teises.
+Dusburgietis teigia, kad upės krante, greta pilies, augo miestas, 1246 m. gavęs Liubeko teises (Gierszewski S., Elbląg, p. 22, 25).
 
 ## Teiginiai
 
@@ -31,6 +31,11 @@ S. Gierszewski cituojamas teiginiui, kad greta Elbingo pilies augęs miestas 124
 - t-001
   global_id: t-91949
   teiginys: 'S. Gierszewski cituojamas teiginiui, kad greta Elbingo pilies augęs miestas 1246 m. gavo Liubeko teises.'
+  sudarymo_pagrindimas: 'Citata palaiko faktą ir bibliografinę sąsają, o pradinis sakinys yra taisytinas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Elbingas; mentioned_place: Elbingo pilis; mentioned_place: Liubekas; mentioned_place: Prūsai'
+  temporaliniai_duomenys: 'įvykio data: 1246 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko faktą ir bibliografinę sąsają, o pradinis sakinys yra taisytinas.'
   pagrindžia:
     - c-001
 
@@ -50,7 +55,3 @@ S. Gierszewski cituojamas teiginiui, kad greta Elbingo pilies augęs miestas 124
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]

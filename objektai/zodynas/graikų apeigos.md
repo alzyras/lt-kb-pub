@@ -18,6 +18,11 @@ Ivanas slapta kurstė Simoną, Andrejų ir Vasilijų Šemiačičius, ištikimus 
 - t-001
   global_id: t-185405
   teiginys: 'Ivanas slapta kurstė Simoną, Andrejų ir Vasilijų Šemiačičius, ištikimus graikų apeigoms, pasiduoti Maskvos valdžiai.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys išvalytas nuo puslapio antraščių ir neaiškių fragmentų.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_person: [[objektai/asmenys/Ivanas|Ivanas]]; mentioned_place: Lietuva; mentioned_place: Maskva'
   pagrindžia:
     - c-001
 
@@ -48,9 +53,3 @@ Ivanas slapta kurstė Simoną, Andrejų ir Vasilijų Šemiačičius, ištikimus 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Miera|miera]]
-- [[objektai/asmenys/Ivanas]]
-- [[objektai/posakiai/prisiekdamas visomis šventenybėmis]]

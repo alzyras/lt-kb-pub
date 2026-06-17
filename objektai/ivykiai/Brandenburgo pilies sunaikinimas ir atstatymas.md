@@ -37,6 +37,9 @@ Nenurodyta
 - t-001
   global_id: t-62751
   teiginys: 'Varmių vadas Glapas užėmė Brandenburgo pilį, kai sužinojo, kad broliai iš jos buvo išvykę.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Pradinis teiginys fragmentiškas; citata leidžia įvardyti veikėją ir veiksmą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Varmiai|Varmiai]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_object: [[objektai/zodynas/vergai|vergai]]; mentioned_person: [[objektai/asmenys/Glapas|Glapas]]; mentioned_place: Brandenburgo pilis; mentioned_place: Prūsai; mentioned_place: Viena'
   pagrindžia:
     - c-002
 
@@ -44,6 +47,9 @@ Nenurodyta
 - t-002
   global_id: t-62752
   teiginys: 'Prūsams sunaikinus Brandenburgo pilį, Brandenburgo markgrafas toje pačioje vietoje pastatydino kitą pilį tuo pačiu vardu.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Citata remia glaustą teiginį apie pilies atstatymą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Balti vilnoniai marškiniai|Balti vilnoniai marškiniai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Hermanas|Hermanas]]; mentioned_person: [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
     - c-003
@@ -101,17 +107,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Balti vilnoniai marškiniai]]
-- [[objektai/asmenys/Hermanas]]
-- [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]
-- [[objektai/asmenys/Kūnas]]
-- [[objektai/daiktai/Laivai]]
-- [[objektai/grupes/Varmiai]]
-- [[objektai/zodynas/komtūras]]
-- [[objektai/zodynas/luomas]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/vergai]]
-- [[objektai/asmenys/Glapas]]

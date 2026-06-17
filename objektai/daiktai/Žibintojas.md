@@ -38,6 +38,8 @@ Nenurodyta
 - t-001
   global_id: t-08364
   teiginys: 'Ant akmens, vadinamo žibintoju, sukurdavo ugnį vakarojant.'
+  teiginio_tipas: 'faktas'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Troba|Troba]]'
   pagrindžia:
     - c-001
 
@@ -57,7 +59,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Troba]]

@@ -15,6 +15,7 @@ tags:
   - karas
   - seimas
   - tauta
+  - valstybė
 amziai:
   - 'XX'
 periodo_grupes:
@@ -24,7 +25,7 @@ periodo_grupes:
 
 ## Santrauka
 
-1926 m. valstiečių liaudininkų lyderis Kazys Grinius buvo išrinktas prezidentu. Prezidentas Kazys Grinius atstatydino Mykolo Sleževičiaus vyriausybę ir pavedė Augustinui Voldemarui sudaryti naują kabinetą. Liaudininkas Kazys Grinius vadovavo birželio 19 d. sudarytai vyriausybei.
+Steigiamojo Seimo pirmininku išrinktas LŪS lyderis agronomas Aleksandras Stulginskis (1922–1926 m. išrinktas Lietuvos prezidentu), o birželio 19-ąją sudaryta liaudininko Kazio Griniaus vadovaujama vyriausybė. Prezidentu išrinktas valstiečių liaudininkų lyderis Kazys Grinius. Grinius, gavęs valstiečių liaudininkų vadovybės pritarimą, atstatydino M.
 
 ## Teiginiai
 
@@ -32,6 +33,11 @@ periodo_grupes:
 - t-001
   global_id: t-19060
   teiginys: '1926 m. valstiečių liaudininkų lyderis Kazys Grinius buvo išrinktas prezidentu.'
+  sudarymo_pagrindimas: 'Citata leidžia patikslinti datą ir aiškiau suformuluoti asmens statusą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]'
+  temporaliniai_duomenys: 'įvykio data: 1926 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata leidžia patikslinti datą ir aiškiau suformuluoti asmens statusą.'
   pagrindžia:
     - c-001
 
@@ -39,6 +45,8 @@ periodo_grupes:
 - t-002
   global_id: t-19061
   teiginys: 'Prezidentas Kazys Grinius atstatydino Mykolo Sleževičiaus vyriausybę ir pavedė Augustinui Voldemarui sudaryti naują kabinetą.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūksta, citata pagrindžia visą veiksmą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustinas|Augustinas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -46,6 +54,11 @@ periodo_grupes:
 - t-003
   global_id: t-19062
   teiginys: 'Liaudininkas Kazys Grinius vadovavo birželio 19 d. sudarytai vyriausybei.'
+  sudarymo_pagrindimas: 'Perrašyta į sakinį su aiškiu asmens vaidmeniu ir be perteklinės pasyvios konstrukcijos.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras Stulginskis|Aleksandras Stulginskis]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1918 m.; įvykio data: 1922-1926; įvykio data: 1926 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Perrašyta į sakinį su aiškiu asmens vaidmeniu ir be perteklinės pasyvios konstrukcijos.'
   pagrindžia:
     - c-003
 
@@ -53,9 +66,18 @@ periodo_grupes:
 - t-005
   global_id: t-183551
   teiginys: 'Valstiečių liaudininkų lyderis Kazys Grinius buvo išrinktas prezidentu, o socialdemokratai jį parėmė su sąlyga derinti veiksmus su jais.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata palaiko turiningesnį sakinį apie išrinkimą ir paramos sąlygą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]'
   pagrindžia:
     - c-004
-
+- susijęs iš [[objektai/grupes/Lietuvos socialdemokratų partija.md#claim-t-169733|Lietuvos socialdemokratų partija]]: 1926 m. birželį socialdemokratai su valstiečiais liaudininkais ir septyniais tautinių mažumų atstovais sudarė naują valdančiąją koaliciją.
+- susijęs iš [[objektai/grupes/Lietuvos valstiečių liaudininkų sąjunga.md#claim-t-101466|Lietuvos valstiečių liaudininkų sąjunga]]: 1926 m. birželį valstiečiai liaudininkai ir socialdemokratai pirmą kartą suformavo kairiąją valdančiąją koaliciją.
+- susijęs iš [[objektai/ivykiai/1926 m. gruodžio 17 d. perversmas Lietuvoje.md#claim-t-23314|1926 m. gruodžio 17 d. perversmas Lietuvoje]]: Spaudžiamas perversmininkų prezidentas Kazys Grinius atstatydino Mykolo Sleževičiaus vyriausybę ir pavedė kabinetą sudaryti Augustinui Voldemarui.
+- susijęs iš [[objektai/ivykiai/1926 m. gruodžio 17 d. perversmas Lietuvoje.md#claim-t-23317|1926 m. gruodžio 17 d. perversmas Lietuvoje]]: Spaudžiamas perversmininkų Kazys Grinius atstatydino Mykolo Sleževičiaus vyriausybę ir pavedė Augustinui Voldemarui sudaryti naują kabinetą.
+- susijęs iš [[objektai/ivykiai/III Seimo rinkimai ir kairiosios valdančiosios koalicijos sudarymas (1926 m.).md#claim-t-45335|III Seimo rinkimai ir kairiosios valdančiosios koalicijos sudarymas (1926 m.)]]: 1926 m. gegužės 8–9 d. rinkimuose į 85 vietų III Seimą LKDP blokas pralaimėjo po trejų metų valdymo.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -124,15 +146,3 @@ periodo_grupes:
   statusas: verified
   pagrindžia:
     - t-005
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/seimas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/ivykiai/III Seimo rinkimai ir kairiosios valdančiosios koalicijos sudarymas (1926 m.)]]
-- [[objektai/grupes/Lietuvos socialdemokratų partija]]
-- [[objektai/grupes/Lietuvos valstiečių liaudininkų sąjunga]]
-- [[objektai/ivykiai/1926 m. gruodžio 17 d. perversmas Lietuvoje]]
-- [[objektai/grupes/Ministerių kabinetas]]
-- [[objektai/ivykiai/Steigiamojo Seimo nepriklausomybės proklamavimo dokumento priėmimas]]
-- [[objektai/posakiai/„etnologinėmis sienomis“]]

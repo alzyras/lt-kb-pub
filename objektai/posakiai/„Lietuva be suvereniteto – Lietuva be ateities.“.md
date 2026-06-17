@@ -3,6 +3,10 @@ tipas: posakis
 pavadinimas: '„Lietuva be suvereniteto – Lietuva be ateities.“'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1990 m.'
+date_start: '1990'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -10,6 +14,8 @@ tags:
   - posakis
   - tauta
   - valstybė
+amziai:
+  - 'XX'
 ---
 # „Lietuva be suvereniteto – Lietuva be ateities.“
 
@@ -23,6 +29,11 @@ tags:
 - t-001
   global_id: t-24528
   teiginys: '1990 m. rinkimų kampanijoje savarankiška LKP paskelbė šūkį „Lietuva be suvereniteto – Lietuva be ateities“.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Suverenitetas|Suverenitetas]]; mentioned_place: Lietuva; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1990 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -46,9 +57,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Suverenitetas]]
-- [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis]]
-- [[objektai/grupes/Lietuvos komunistų partija]]

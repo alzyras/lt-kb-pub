@@ -35,6 +35,8 @@ Reikšmė aiški iš citatos konteksto ir neplečiama už tiesioginio šaltinio 
 - t-001
   global_id: t-54498
   teiginys: 'Stepono Batoro laikais jėzuitų ir protestantų polemika pavertė Vilnių žodžio ir rašto rungtynių lauku.'
+  sudarymo_pagrindimas: 'Citata pagrindžia konkretesnį sakinį apie polemikos kontekstą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Protestantai|Protestantai]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_person: [[objektai/asmenys/Tšecieskis|Tšecieskis]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -42,6 +44,8 @@ Reikšmė aiški iš citatos konteksto ir neplečiama už tiesioginio šaltinio 
 - t-002
   global_id: t-54499
   teiginys: 'Vilniaus kaip žodžio ir rašto rungtynių lauko vaizdinys siejamas su jėzuitų ir disidentų kova dėl įtakos Lietuvoje.'
+  sudarymo_pagrindimas: 'Pradinis teiginys per trumpas ir silpnai enciklopedinis.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Protestantai|Protestantai]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_person: [[objektai/asmenys/Tšecieskis|Tšecieskis]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -66,14 +70,3 @@ Reikšmė aiški iš citatos konteksto ir neplečiama už tiesioginio šaltinio 
   pagrindžia:
     - t-001
     - t-002
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/frazė]]
-- [[temos/vilnius]]
-
-### Susiję objektai
-- [[objektai/grupes/Protestantai]]
-- [[objektai/asmenys/Steponas Batoras]]
-- [[objektai/asmenys/Tšecieskis]]
-- [[objektai/grupes/Vilniaus reformatai ir disidentai]]

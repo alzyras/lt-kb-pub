@@ -49,6 +49,7 @@ Nenurodyta
 - t-001
   global_id: t-54334
   teiginys: 'Romuvoje pagrindinis kulto objektas buvo ugnis.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Aukuras|Aukuras]]; mentioned_object: [[objektai/zodynas/amfiktionija|amfiktionija]]; mentioned_place: Lietuva; mentioned_place: Romuva'
   pagrindžia:
     - c-001
 
@@ -56,6 +57,7 @@ Nenurodyta
 - t-002
   global_id: t-54335
   teiginys: 'Romuva Nadruvoje ir jos krivis laikomi ankstyva pagonybės virtimo institucine religija apraiška.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_person: [[objektai/asmenys/Krivis|Krivis]]; mentioned_place: Nadruva; mentioned_place: Romuva'
   pagrindžia:
     - c-002
 
@@ -63,6 +65,7 @@ Nenurodyta
 - t-003
   global_id: t-54336
   teiginys: 'Nadruvoje minima Romuva ir jos krivis laikomi ankstyva pagonybės virtimo institucine religija apraiška.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_person: [[objektai/asmenys/Krivis|Krivis]]; mentioned_place: Nadruva; mentioned_place: Romuva'
   pagrindžia:
     - c-002
 
@@ -110,12 +113,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Aukuras]]
-- [[objektai/asmenys/Krivis]]
-- [[objektai/zodynas/amfiktionija]]
-- [[objektai/zodynas/pagonybė]]
-- [[objektai/zodynas/Romuva ir krivis]]
-- [[objektai/zodynas/Romuva krivis]]

@@ -20,6 +20,7 @@ tags:
 - t-001
   global_id: t-40824
   teiginys: '201-asis pėstininkų pulkas kovose prieš lietuvius šiame ruože patyrė nuostolių.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -45,8 +46,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]

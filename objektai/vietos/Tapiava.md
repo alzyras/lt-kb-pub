@@ -18,9 +18,15 @@ Per karo žygį Vėluvos ir Tapiavos kraštas buvo sulygintas su žeme.
 - t-001
   global_id: t-185312
   teiginys: 'Per karo žygį Vėluvos ir Tapiavos kraštas buvo sulygintas su žeme.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citatoje agentas neaiškus dėl fragmentiškumo, todėl sakinys suformuluotas be nepagrįsto veikėjo pridėjimo.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Prūsija; mentioned_place: Vėluva'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/ivykiai/Vytauto ir Kęstučio žygiai į Prūsiją bei kryžiuočių sutriuškinimas pasalose (1377 m.).md#claim-t-185655|Vytauto ir Kęstučio žygiai į Prūsiją bei kryžiuočių sutriuškinimas pasalose (1377 m.)]]: Po reikalų Rusioje sutvarkymo lietuviai pradėjo keršyti kryžiuočiams už ankstesnių metų skriaudas.
+- susijęs iš Vėluva: Prūsijos magistras sudegino miestą, o Vėluvos ir Tapiavos kraštą sulygino su žeme.
 ## Reikšmingi paminėjimai
 
 - c-001

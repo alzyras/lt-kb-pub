@@ -43,6 +43,8 @@ Nenurodyta
 - t-001
   global_id: t-54268
   teiginys: 'LDK užimtose Rusios žemėse lietuvių kunigaikščiai iš pradžių palikdavo senąsias kunigaikštijų struktūras.'
+  sudarymo_pagrindimas: 'Reikia aiškiai susieti teiginį su note objektu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/posakiai/„senovės negriauname, naujovių neįvedame“|„senovės negriauname, naujovių neįvedame“]]'
   pagrindžia:
     - c-001
 
@@ -50,6 +52,7 @@ Nenurodyta
 - t-002
   global_id: t-54269
   teiginys: 'LDK užimtuose kraštuose lietuviai iš pradžių nekeisdavo susiklosčiusios tvarkos ir palikdavo senąsias kunigaikštijų struktūras.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/posakiai/„senovės negriauname, naujovių neįvedame“|„senovės negriauname, naujovių neįvedame“]]'
   pagrindžia:
     - c-001
 
@@ -72,12 +75,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/dinastija]]
-
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/posakiai/„senovės negriauname, naujovių neįvedame“]]

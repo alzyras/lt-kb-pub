@@ -3,6 +3,10 @@ tipas: zodyno_irasas
 pavadinimas: 'tenuta laikytojas'
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+datos:
+  - '1503 m.'
+date_start: '1503'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -10,6 +14,8 @@ tags:
   - kunigaikštis
   - pilis
   - sąvoka
+amziai:
+  - 'XVI'
 ---
 # tenuta laikytojas
 
@@ -23,6 +29,11 @@ Ten pat dalyvaujant didžiai gerbiamam Kristuje tėvui ir Vilniaus vyskupui Albe
 - t-001
   global_id: t-86575
   teiginys: '1503 m. Vilniuje duotame rašte Stanislovas Hlebavičius minimas kaip Polocko laikytojas, o Albertas Janavičius - kaip Kauno laikytojas.'
+  sudarymo_pagrindimas: 'Pradinis teiginys yra ilgas dalyvių sąrašo fragmentas; citata leidžia išskirti aiškų faktą apie laikytojus.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_object: [[objektai/zodynas/maršalka|maršalka]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Albertas|Albertas]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_person: [[objektai/asmenys/Hlebavičius (Vilniaus vaivada ir karaliaus kancleris)|Hlebavičius (Vilniaus vaivada ir karaliaus kancleris)]]; mentioned_person: [[objektai/asmenys/Stanislovas|Stanislovas]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Merkinė; mentioned_place: Mogiliavas; mentioned_place: Polockas; mentioned_place: Trakai; mentioned_place: Vilnius; mentioned_place: Vroclavas'
+  temporaliniai_duomenys: 'įvykio data: 1503 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys yra ilgas dalyvių sąrašo fragmentas; citata leidžia išskirti aiškų faktą apie laikytojus.'
   pagrindžia:
     - c-001
 
@@ -62,13 +73,3 @@ Ten pat dalyvaujant didžiai gerbiamam Kristuje tėvui ir Vilniaus vyskupui Albe
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Antspaudas]]
-- [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]
-- [[objektai/zodynas/maršalka]]
-- [[objektai/zodynas/vaivada]]
-- [[objektai/asmenys/Albertas]]
-- [[objektai/asmenys/Hlebavičius (Vilniaus vaivada ir karaliaus kancleris)]]
-- [[objektai/asmenys/Stanislovas]]

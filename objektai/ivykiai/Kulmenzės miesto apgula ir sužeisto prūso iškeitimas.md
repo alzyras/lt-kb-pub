@@ -38,6 +38,9 @@ Nenurodyta
 - t-001
   global_id: t-62350
   teiginys: 'Prūsų kariuomenė apsiautė Kulmenzės miestą, o jos vadas pažadėjo pasitraukti mainais į sužeisto prūso grąžinimą.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pradinis teiginys turi antraštės triukšmo ir nėra pakankamai užbaigtas.'
+  susije_objektai: 'mentioned_place: Kulmenzė; mentioned_place: Prūsai; mentioned_place: Viena'
   pagrindžia:
     - c-001
 

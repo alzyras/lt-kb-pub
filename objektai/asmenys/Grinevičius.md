@@ -20,6 +20,8 @@ O atvedė rusų kariuomenę toks Grinevičius iš Medikonių kaimo.
 - t-001
   global_id: t-80715
   teiginys: 'Grinevičius iš Medikonių kaimo atvedė rusų kariuomenę į partizanų susitikimą.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie asmenį ir atitinka citatą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Kaimas'
   pagrindžia:
     - c-001
 
@@ -43,7 +45,3 @@ O atvedė rusų kariuomenę toks Grinevičius iš Medikonių kaimo.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Rusai]]

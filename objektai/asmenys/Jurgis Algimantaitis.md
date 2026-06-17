@@ -18,6 +18,12 @@ Alšėnų kunigaikštis Jurgis Algimantaitis pasiūlė valdovu rinkti karaliaus 
 - t-001
   global_id: t-186223
   teiginys: 'Alšėnų kunigaikštis Jurgis Algimantaitis pasiūlė valdovu rinkti karaliaus Vladislovo brolį Kazimierą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pašalintas boilerplate ir OCR triukšmas, paliktas citatos remiamas faktas.'
+  susije_objektai: 'territory: Alšėnai; territory: Vengrija; mentioned_place: Alšėnai; mentioned_place: Vengrija'
+  semantiniai_rysiai: '[[objektai/asmenys/Jurgis Algimantaitis|Jurgis Algimantaitis]] buvo valdovas Alšėnai; [[objektai/asmenys/Jurgis Algimantaitis|Jurgis Algimantaitis]] buvo valdovas Vengrija'
   pagrindžia:
     - c-001
 
@@ -47,3 +53,7 @@ Alšėnų kunigaikštis Jurgis Algimantaitis pasiūlė valdovu rinkti karaliaus 
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+- Jurgis Algimantaitis buvo_valdovas [[objektai/vietos/Alšėnai]]
+- Jurgis Algimantaitis buvo_valdovas [[objektai/vietos/Vengrija]]

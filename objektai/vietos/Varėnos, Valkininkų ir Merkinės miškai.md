@@ -21,9 +21,12 @@ Pagaliau šie miškai, kaip ir tie, kur per keliolika mylių nusidriekę nuo Rū
 - t-001
   global_id: t-86249
   teiginys: 'Balińskis Varėnos, Valkininkų ir Merkinės miškus priskyrė amžinosioms girioms, esą siekiančioms žmonijos pradžią.'
+  sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir turi neaiškią nuorodą „šie miškai“.'
+  susije_objektai: 'mentioned_place: Merkinė; mentioned_place: Rūdninkai; mentioned_place: Valkininkai; mentioned_place: Viena'
   pagrindžia:
     - c-001
-
+- susijęs iš Nemunas: Varėnos, Valkininkų ir Merkinės miškai driekėsi nuo Rūdninkų link Nemuno.
+- susijęs iš Nemunas: Varėnos, Valkininkų ir Merkinės miškai driekėsi nuo Rūdninkų link Nemuno ir Balińskio priskirti amžinosioms girioms.
 ## Reikšmingi paminėjimai
 
 - c-001

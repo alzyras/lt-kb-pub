@@ -20,6 +20,8 @@ Dusburgietis teigia, kad galop, kai lietuvių kariuomenė grįždama priėjo ši
 - t-001
   global_id: t-59166
   teiginys: 'Lietuvių kariuomenei grįžtant, burtus metęs lietuvis sušuko: „Vargas mums, nes mūsų laukia nesėkmė.“'
+  sudarymo_pagrindimas: 'Teiginys sutvarko citatos triukšmą ir tiksliai perteikia įvykį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Bebras'
   pagrindžia:
     - c-001
 
@@ -41,7 +43,3 @@ Dusburgietis teigia, kad galop, kai lietuvių kariuomenė grįždama priėjo ši
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]

@@ -31,6 +31,11 @@ Lietuvai paskirtas Tribunolas ir 1581 metais Vilniuje iš­ kilmingai įvesdinta
 - t-001
   global_id: t-88340
   teiginys: '1581 m. Vilniuje iškilmingai įvesdintas Lietuvos Tribunolas išlaisvino karalių nuo varginančių pareigų.'
+  sudarymo_pagrindimas: 'Citata palaiko faktą apie Lietuvos Tribunolo įvesdinimą ir jo rezultatą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/diecezija|diecezija]]; mentioned_object: [[objektai/zodynas/tribunolas|tribunolas]]; mentioned_object: [[objektai/zodynas/įpėdinis|įpėdinis]]; mentioned_person: [[objektai/autoriai/Ignacas Onacevičius|Ignacas Onacevičius]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1581 m.; įvykio data: 1823 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko faktą apie Lietuvos Tribunolo įvesdinimą ir jo rezultatą.'
   pagrindžia:
     - c-001
 

@@ -30,6 +30,11 @@ amziai:
 - t-001
   global_id: t-34968
   teiginys: 'J. Gabrio „Lietuvių-Lenkų unija“ buvo išleista Filadelfijoje 1915 m.'
+  sudarymo_pagrindimas: 'Citata palaiko trumpą bibliografinį faktą apie leidimo vietą ir metus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
+  temporaliniai_duomenys: 'įvykio data: 1915 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko trumpą bibliografinį faktą apie leidimo vietą ir metus.'
   pagrindžia:
     - c-001
 

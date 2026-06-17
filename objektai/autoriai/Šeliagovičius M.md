@@ -28,6 +28,11 @@ Dusburgietis teigia, kad šeliagovičius M.
 - t-001
   global_id: t-60833
   teiginys: 'Šeliagovičius M. 1984 m. žurnale „Mokslas ir gyvenimas“ paskelbė straipsnį „Senovės baltų atgarsis“.'
+  sudarymo_pagrindimas: 'Bibliografinis įrašas pagrindžia autoriaus publikaciją ir jos vietą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]'
+  temporaliniai_duomenys: 'įvykio data: 1984 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Bibliografinis įrašas pagrindžia autoriaus publikaciją ir jos vietą.'
   pagrindžia:
     - c-001
 
@@ -43,7 +48,3 @@ Dusburgietis teigia, kad šeliagovičius M.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Baltai]]

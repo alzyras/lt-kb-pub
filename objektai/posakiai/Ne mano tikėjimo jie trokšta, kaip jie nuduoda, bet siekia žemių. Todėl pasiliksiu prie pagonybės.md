@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Lietuvos kunigaikštis per derybas apie kryžiuočius pareiškė, kad jie siekia ne jo tikėjimo, o žemių, todėl jis pasiliks prie pagonybės.
+ne mano tikėjimo jie trokšta, kaip jie nuduoda, bet siekia žemių.
 
 ## Teiginiai
 
@@ -21,6 +21,8 @@ Lietuvos kunigaikštis per derybas apie kryžiuočius pareiškė, kad jie siekia
 - t-001
   global_id: t-31550
   teiginys: 'Lietuvos kunigaikštis per derybas apie kryžiuočius pareiškė, kad jie siekia ne jo tikėjimo, o žemių, todėl jis pasiliks prie pagonybės.'
+  sudarymo_pagrindimas: 'Citatą verta perrašyti į aiškų vientisą sakinį be laužytos tiesioginės kalbos.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/posakiai/Ne mano tikėjimo jie trokšta, kaip jie nuduoda, bet siekia žemių|Ne mano tikėjimo jie trokšta, kaip jie nuduoda, bet siekia žemių]]; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -40,8 +42,3 @@ Lietuvos kunigaikštis per derybas apie kryžiuočius pareiškė, kad jie siekia
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/zodynas/pagonybė]]

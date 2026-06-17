@@ -21,9 +21,13 @@ Dusburgietis teigia, kad šitai matydama, Nameda, Pasdraupučio motina, kilusi i
 - t-001
   global_id: t-60393
   teiginys: 'Nameda, Pasdraupučio motina iš Mantiminų giminės, paragino sūnus ginti savo gyvybę ir gentį nuo priešų.'
+  sudarymo_pagrindimas: 'Citata pagrindžia Namedos kilmę, ryšį su Pasdraupučiu ir jos paraginimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Nadruviai|Nadruviai]]; mentioned_place: Bysleida; mentioned_place: Pilėnai'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/ivykiai/Bysleidos pilies apgula ir daugiau kaip dviejų tūkstančių sūduvių žūtis.md#claim-t-62762|Bysleidos pilies apgula ir daugiau kaip dviejų tūkstančių sūduvių žūtis (pilis)]]: Namedos sūnūs ir kiti Bysleidos pilėnai pakilo į mūšį ir nukovė daugiau kaip du tūkstančius priešo karių.
+- susijęs iš [[objektai/posakiai/Gailiuosi jus pagimdžiusi.md#claim-t-59092|Gailiuosi jus pagimdžiusi]]: Nameda savo sūnums pasakė, kad gailisi juos pagimdžiusi, nes jie nenori ginti nei savo gyvybės, nei genties.
+- susijęs iš [[objektai/posakiai/Gailiuosi jus pagimdžiusi.md#claim-t-59093|Gailiuosi jus pagimdžiusi]]: Namedos žodžiai „Gailiuosi jus pagimdžiusi“ paskatino jos sūnus ir kitus pilėnus stoti į mūšį.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -41,13 +45,3 @@ Dusburgietis teigia, kad šitai matydama, Nameda, Pasdraupučio motina, kilusi i
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Nadruviai]]
-- [[objektai/ivykiai/Bysleidos pilies apgula ir daugiau kaip dviejų tūkstančių sūduvių žūtis|Bysleidos pilies apgula ir daugiau kaip dviejų tūkstančių sūduvių žūtis (pilis)]]
-- [[objektai/posakiai/Gailiuosi jus pagimdžiusi]]
-- [[objektai/grupes/Mantiminų giminė]]
-- [[objektai/asmenys/Pasdrauputis]]
-- [[objektai/grupes/Sūduviai]]
-- [[objektai/grupes/Sūduviai-jotvingiai]]

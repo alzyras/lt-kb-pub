@@ -22,6 +22,8 @@ Dusburgietis teigia, kad žodis dažnai apibūdina gyvenvietę iki miesto privil
 - t-001
   global_id: t-60708
   teiginys: 'R. Grieseris aiškino, kad žodis dažnai apibūdina gyvenvietę iki miesto privilegijos suteikimo.'
+  sudarymo_pagrindimas: 'Citata palaiko aiškų faktą apie Grieserio aiškintą sąvoką.'
+  susije_objektai: 'mentioned_place: Tepliava'
   pagrindžia:
     - c-001
 

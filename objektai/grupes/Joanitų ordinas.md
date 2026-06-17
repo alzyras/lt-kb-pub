@@ -6,30 +6,36 @@ saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1104 m.'
+  - '1187 m.'
   - '1190 m.'
+  - '1191 m.'
+  - '1291 m.'
   - '1312 m.'
 date_start: '1104'
 date_end: '1312'
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XII'
-  - 'XIV'
 tags:
   - grupe
   - ordinas
+amziai:
+  - 'XII'
+  - 'XIV'
 ---
 # Joanitų ordinas
 
 ## Santrauka
 
-Bagrationovskas) Jaučakiai Jeruzalė Jezioranai Joanitai, Jono šv. Švento Jono ligoninės magistras buvo tarp Šventosios Žemės ordinų ir didikų atstovų, palaikiusių naujai įsteigtą ligoninę. Kryžiaus karų aplinkoje italai turėjo Joanitų ordiną kaip kariaujančiųjų riterių ordiną.
+Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o trečiojo kryžiaus žygio metu vokiečiai įkūrė savo Marijos Mergelės ordiną (1190 m.).
 
 ## Teiginiai
+
 <a id="claim-t-72078"></a>
 - t-001
   global_id: t-72078
   teiginys: 'Bagrationovskas) Jaučakiai Jeruzalė Jezioranai Joanitai, Jono šv.'
+  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Jotvingiai|Jotvingiai]]; mentioned_place: Jeruzalė; mentioned_place: Jotvingija'
   pagrindžia:
     - c-001
 
@@ -37,13 +43,29 @@ Bagrationovskas) Jaučakiai Jeruzalė Jezioranai Joanitai, Jono šv. Švento Jon
 - t-002
   global_id: t-72079
   teiginys: 'Švento Jono ligoninės magistras buvo tarp Šventosios Žemės ordinų ir didikų atstovų, palaikiusių naujai įsteigtą ligoninę.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, bet citata leidžia suformuluoti faktą apie ordino magistrą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/landgrafas|landgrafas]]; mentioned_object: [[objektai/zodynas/legatai|legatai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Albertas|Albertas]]; mentioned_person: [[objektai/asmenys/Gardolfas|Gardolfas]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Austrija; mentioned_place: Jeruzalė; mentioned_place: Reinas; mentioned_place: Saksonija'
   pagrindžia:
     - c-002
+
+<a id="claim-t-72080"></a>
+- t-003
+  global_id: t-72080
+  teiginys: 'Kryžiaus karų aplinkoje italai turėjo Joanitų ordiną kaip kariaujančiųjų riterių ordiną.'
+  sudarymo_pagrindimas: 'Pradinis teiginys kalbėjo apie bendrą brolijų raidą, todėl perrašytas konkrečiai apie Joanitų ordiną.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Jotvingiai|Jotvingiai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_place: Jeruzalė; mentioned_place: Jotvingija'
+  pagrindžia:
+    - c-004
 
 <a id="claim-t-72081"></a>
 - t-004
   global_id: t-72081
   teiginys: 'Popiežius patvirtino Jeruzalės ligoninės brolių ordiną, skirtą pavargėliams ir paliegėliams slaugyti.'
+  sudarymo_pagrindimas: 'Pradinis teiginys fragmentiškas ir turi OCR triukšmo.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/kryžininkai|kryžininkai]]; mentioned_place: Akonas; mentioned_place: Europa; mentioned_place: Jeruzalė'
+  temporaliniai_duomenys: 'įvykio data: iki 1291 m.; įvykio data: 1187 m.; įvykio data: 1191 m.; įvykio data: 1291 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys fragmentiškas ir turi OCR triukšmo.'
   pagrindžia:
     - c-003
 
@@ -51,16 +73,18 @@ Bagrationovskas) Jaučakiai Jeruzalė Jezioranai Joanitai, Jono šv. Švento Jon
 - t-005
   global_id: t-72082
   teiginys: 'Švento Jono ligoninės ordinas datuojamas 1104 metais, popiežiaus Urbono II laikais.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Tamplierių ordinas|Tamplierių ordinas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_group: [[objektai/grupes/Švento Jono ligoninės ordinas|Švento Jono ligoninės ordinas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Klemensas V|Klemensas V]]'
   pagrindžia:
     - c-005
-- t-006
-  teiginys: 'Kryžiaus karų aplinkoje italai turėjo Joanitų ordiną kaip kariaujančiųjų riterių ordiną.'
-  pagrindžia:
-    - c-006
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-
+- susijęs iš [[objektai/asmenys/Fridrichas (Švabijos kunigaikštis).md#claim-t-60015|Fridrichas (Švabijos kunigaikštis)]]: Fridrichas, Švabijos kunigaikštis, patarė Bremeno ir Liubeko miestiečiams padovanoti ligoninę Henrikui Valpotui.
+- susijęs iš [[objektai/asmenys/Henrikas Valpotas.md#claim-t-60142|Henrikas Valpotas]]: Paėmus Akoną Henrikas Valpotas prie miesto sienų nupirko sklypą, kuriame pastatydino bažnyčią, ligoninę ir kitus namus.
+- susijęs iš [[objektai/daiktai/Teutonų namų ligoninė Jeruzalėje.md#claim-t-89436|Teutonų namų ligoninė Jeruzalėje]]: Bremeno ir Liubeko miestiečiai padovanojo Teutonų namų ligoninę Jeruzalėje Henrikui Valpotui ir jo broliams.
+- susijęs iš [[objektai/daiktai/Teutonų namų ligoninė Jeruzalėje.md#claim-t-89437|Teutonų namų ligoninė Jeruzalėje]]: Bremeno ir Liubeko miestiečiai padovanojo Teutonų namų ligoninę Jeruzalėje Henrikui Valpotui su gautomis išmaldomis ir gėrybėmis.
+- susijęs iš Akonas: Paėmus Akoną, brolis Henrikas Valpotas prie miesto sienų priešais Šv. Mikalojaus vartus pastatydino bažnyčią, ligoninę ir kitus namus.
+- susijęs iš Akonas: Paėmus Akoną, brolis Henrikas Valpotas prie miesto sienų priešais Šv. Mikalojaus vartus nupirko sklypą bažnyčiai ir ligoninei.
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Bagrationovskas) Jaučakiai Jeruzalė Jezioranai Joanitai, Jono šv.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -82,6 +106,7 @@ Bagrationovskas) Jaučakiai Jeruzalė Jezioranai Joanitai, Jono šv. Švento Jon
   statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Švento Jono ligoninės magistras buvo tarp Šventosios Žemės ordinų ir didikų atstovų, palaikiusių naujai įsteigtą ligoninę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -116,6 +141,7 @@ Bagrationovskas) Jaučakiai Jeruzalė Jezioranai Joanitai, Jono šv. Švento Jon
   statusas: verified
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'Popiežius patvirtino Jeruzalės ligoninės brolių ordiną, skirtą pavargėliams ir paliegėliams slaugyti.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -138,6 +164,24 @@ Bagrationovskas) Jaučakiai Jeruzalė Jezioranai Joanitai, Jono šv. Švento Jon
   statusas: verified
   pagrindžia:
     - t-004
+
+- c-004
+  santrauka: 'Kryžiaus karų aplinkoje italai turėjo Joanitų ordiną kaip kariaujančiųjų riterių ordiną.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Iš pradžių tokios brolijos
+    globojo ligonius ir saugojo, kad maldininkams nieko blogo neatsitiktų
+    kelyje. Bet kai prasidėjo nauji karai, o ypač kai Jeruzalę vėl užėmė
+    turkai ir kai buvo pradėta rūpintis vėl ją atgauti, — tokios brolijos
+    virto kariaujančiųjų riterių ordinais. Italai čia turėjo savo joanitų
+    ordiną, prancūzai — templininkų, o trečiojo kryžiaus žygio metu
+    vokiečiai įkūrė savo Marijos Mergelės ordiną (1190 m.).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
+
 - c-005
   santrauka: 'Švento Jono ligoninės ordinas datuojamas 1104 metais, popiežiaus Urbono II laikais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -154,50 +198,3 @@ Bagrationovskas) Jaučakiai Jeruzalė Jezioranai Joanitai, Jono šv. Švento Jon
   statusas: verified
   pagrindžia:
     - t-005
-- c-006
-  santrauka: 'Kryžiaus karų aplinkoje italai turėjo Joanitų ordiną kaip kariaujančiųjų riterių ordiną.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Iš pradžių tokios brolijos
-    globojo ligonius ir saugojo, kad maldininkams nieko blogo neatsitiktų
-    kelyje. Bet kai prasidėjo nauji karai, o ypač kai Jeruzalę vėl užėmė
-    turkai ir kai buvo pradėta rūpintis vėl ją atgauti, — tokios brolijos
-    virto kariaujančiųjų riterių ordinais. Italai čia turėjo savo joanitų
-    ordiną, prancūzai — templininkų, o trečiojo kryžiaus žygio metu
-    vokiečiai įkūrė savo Marijos Mergelės ordiną (1190 m.).
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-006
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Albertas]]
-- [[objektai/asmenys/Gardolfas]]
-- [[objektai/autoriai/Henrikas]]
-- [[objektai/asmenys/Jonas]]
-- [[objektai/grupes/Jotvingiai]]
-- [[objektai/asmenys/Klemensas V]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/daiktai/Kryžius]]
-- [[objektai/grupes/Prancūzai]]
-- [[objektai/grupes/Tamplierių ordinas]]
-- [[objektai/grupes/Teutonai]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/kryžininkai]]
-- [[objektai/zodynas/landgrafas]]
-- [[objektai/zodynas/legatai]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/maldininkai]]
-- [[objektai/zodynas/maršalas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Švento Jono ligoninės ordinas]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/asmenys/Fridrichas (Švabijos kunigaikštis)]]
-- [[objektai/asmenys/Henrikas Valpotas]]
-- [[objektai/daiktai/Teutonų namų ligoninė Jeruzalėje]]
-- [[objektai/ivykiai/Tamplierių ordino panaikinimo parengiamasis veiksmas Vieno suvažiavime (1312 m. kovo 23 d.)]]
-- [[objektai/grupes/Templininkų ordinas]]

@@ -28,6 +28,7 @@ Lietuvos valstybingumo raida 1914–1918 metais.
 - t-001
   global_id: t-78155
   teiginys: 'Lietuvos valstybingumo raida 1914–1918 metais.'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

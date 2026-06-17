@@ -14,7 +14,7 @@ tags:
 
 ## Santrauka
 
-Faberio K. darbas „Geschichtliche“ cituojamas pastaboje apie Galtgarbių kalną ir legendinio Samo pilį.
+Dusburgietis teigia, kad galtgarbių kalne esą buvusi legendinio Vaidevučio (Videvučio) sūnaus Samo pilis, čia prūsai uždegdavę pavojų skelbiančius laužus (SU, 1, Nr. 58, 182; 2, Nr. 304; PUB, 2, 2, Nr. 663; 3, 2, Nr. 644; 4, Nr. 26; Hennenberger C, Erclerung.., p. 136; Sch-K; Faber.
 
 ## Teiginiai
 
@@ -22,6 +22,11 @@ Faberio K. darbas „Geschichtliche“ cituojamas pastaboje apie Galtgarbių kal
 - t-001
   global_id: t-60698
   teiginys: 'Faberio K. darbas „Geschichtliche“ cituojamas pastaboje apie Galtgarbių kalną ir legendinio Samo pilį.'
+  sudarymo_pagrindimas: 'Pirminis teiginys per ilgas ir nukirstas; citata patvirtina tik bibliografinį ryšį su aptariama pastaba.'
+  susije_objektai: 'mentioned_place: Baltija; mentioned_place: Prūsai; mentioned_place: Rinava; mentioned_place: Semba'
+  temporaliniai_duomenys: 'įvykio data: 117 m'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pirminis teiginys per ilgas ir nukirstas; citata patvirtina tik bibliografinį ryšį su aptariama pastaba.'
   pagrindžia:
     - c-001
 

@@ -5,9 +5,9 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
-  - '1345 m.'
+  - '1323 m.'
   - '1398 m.'
-date_start: '1345'
+date_start: '1323'
 date_end: '1398'
 sukurta: ''
 atnaujinta: ''
@@ -35,6 +35,12 @@ Vygandas Marburgietis šiame leidinyje minimas kaip „Naujosios Prūsijos žem�
 - t-001
   global_id: t-172965
   teiginys: 'Vygandas Marburgietis aprašė, kaip 1345 m. lietuvių karalius dezinformavo kryžiuočius, siekdamas apsiginti ir užpulti priešo teritoriją.'
+  sudarymo_pagrindimas: 'Citata leidžia suformuluoti pilną teiginį apie aprašytą veiksmą, pašalinant nutrūkusį fragmentą.'
+  susije_objektai: 'territory: Prūsija; territory: Semba; territory: Viena; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Vygandas|Vygandas]]; mentioned_place: Prūsija; mentioned_place: Semba; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/autoriai/Vygandas Marburgietis|Vygandas Marburgietis]] buvo valdovas Prūsija; [[objektai/autoriai/Vygandas Marburgietis|Vygandas Marburgietis]] buvo valdovas Semba; [[objektai/autoriai/Vygandas Marburgietis|Vygandas Marburgietis]] buvo valdovas Viena'
+  temporaliniai_duomenys: 'valdymo laikotarpis: 1345 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Vygandas Marburgietis buvo valdovas Prūsija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Vygandas Marburgietis buvo valdovas Semba“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Vygandas Marburgietis buvo valdovas Viena“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata leidžia suformuluoti pilną teiginį apie aprašytą veiksmą, pašalinant nutrūkusį fragmentą.'
   pagrindžia:
     - c-001
 
@@ -42,6 +48,11 @@ Vygandas Marburgietis šiame leidinyje minimas kaip „Naujosios Prūsijos žem�
 - t-002
   global_id: t-172967
   teiginys: 'Vygandas Marburgietis „Naujojoje Prūsijos kronikoje“ aprašė lietuvių karaliaus dezinformaciją 1345 m.'
+  sudarymo_pagrindimas: 'Citata pagrindžia kronikos ištraukos autorių ir aprašytą veiksmą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Vygandas|Vygandas]]; mentioned_place: Prūsija; mentioned_place: Semba; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1345 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia kronikos ištraukos autorių ir aprašytą veiksmą.'
   pagrindžia:
     - c-001
 
@@ -49,6 +60,11 @@ Vygandas Marburgietis šiame leidinyje minimas kaip „Naujosios Prūsijos žem�
 - t-003
   global_id: t-172968
   teiginys: 'Vygando Marburgiečio „Naujosios Prūsijos žemės kronikos“ ištrauka pateikta apie 1348 m. Strėvos mūšį.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiksliai paremtas citatos antraštine informacija.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vygandas|Vygandas]]; mentioned_place: Prūsija; mentioned_place: Strėva'
+  temporaliniai_duomenys: 'įvykio data: 1348 m.; įvykio data: apie 1348 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir tiksliai paremtas citatos antraštine informacija.'
   pagrindžia:
     - c-004
 
@@ -56,6 +72,11 @@ Vygandas Marburgietis šiame leidinyje minimas kaip „Naujosios Prūsijos žem�
 - t-004
   global_id: t-172969
   teiginys: 'Vygandas Marburgietis pasakojo, kad Karolis Tryrietis popiežiaus rūmuose buvo priimtas pagarbiai ir draugiškai.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai paremtas citata apie Vygando pasakojimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_person: [[objektai/asmenys/Karolis Tryrietis|Karolis Tryrietis]]; mentioned_person: [[objektai/asmenys/Vygandas|Vygandas]]'
+  temporaliniai_duomenys: 'įvykio data: 1323 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir tiesiogiai paremtas citata apie Vygando pasakojimą.'
   pagrindžia:
     - c-003
 
@@ -63,6 +84,9 @@ Vygandas Marburgietis šiame leidinyje minimas kaip „Naujosios Prūsijos žem�
 - t-005
   global_id: t-172970
   teiginys: 'Vygando Marburgiečio kronikos ištraukos leidinyje pateiktos prie 1348 m. Strėvos mūšio ir pilies šturmo epizodų.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Pakeliamas tiltas|Pakeliamas tiltas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Vygandas|Vygandas]]; mentioned_place: Prūsija; mentioned_place: Strėva'
+  temporaliniai_duomenys: 'įvykio data: 1348 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
     - c-004
@@ -71,6 +95,7 @@ Vygandas Marburgietis šiame leidinyje minimas kaip „Naujosios Prūsijos žem�
 - t-006
   global_id: t-172971
   teiginys: 'Vygando Marburgiečio „Naujosios Prūsijos kronikos“ ištraukoje aprašomas pilies šturmas.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Pakeliamas tiltas|Pakeliamas tiltas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Vygandas|Vygandas]]; mentioned_place: Prūsija'
   pagrindžia:
     - c-002
 
@@ -78,6 +103,9 @@ Vygandas Marburgietis šiame leidinyje minimas kaip „Naujosios Prūsijos žem�
 - t-007
   global_id: t-172972
   teiginys: 'Vygandas Marburgietis pasakojo apie asmens atvykimą pas popiežių ir pagarbų priėmimą popiežiaus rūmuose.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_person: [[objektai/asmenys/Vygandas|Vygandas]]'
+  temporaliniai_duomenys: 'įvykio data: 1323 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-003
 
@@ -85,6 +113,8 @@ Vygandas Marburgietis šiame leidinyje minimas kaip „Naujosios Prūsijos žem�
 - t-009
   global_id: t-172974
   teiginys: 'Vygandas Marburgietis ir Lindenblattas Viliją vadino Nerga, Nerge, Nerye ir Neria.'
+  sudarymo_pagrindimas: 'Reikia pakeisti neaiškų įvardį ir sutvarkyti skyrybą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/autoriai/Lindenblattas|Lindenblattas]]; mentioned_person: [[objektai/asmenys/Vygandas|Vygandas]]; mentioned_place: Lietuva; mentioned_place: Vilija; mentioned_place: Vilnius'
   pagrindžia:
     - c-006
 
@@ -92,6 +122,7 @@ Vygandas Marburgietis šiame leidinyje minimas kaip „Naujosios Prūsijos žem�
 - t-011
   global_id: t-172976
   teiginys: 'Vygandas Marburgietis aprašė Kęstučio laidotuves Vilniuje ir teigė, kad per deginimą atsivėrusi kiaurymė įtraukė jo pelenus.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Birutė|Birutė]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Vygandas|Vygandas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-007
 
@@ -99,6 +130,8 @@ Vygandas Marburgietis šiame leidinyje minimas kaip „Naujosios Prūsijos žem�
 - t-012
   global_id: t-172977
   teiginys: 'Vygandas Marburgietis aprašė Kęstučio laidotuves Vilniuje ir teigė, kad deginant palaikus atsivėrusi kiaurymė įtraukė pelenus.'
+  sudarymo_pagrindimas: 'Fragmentas perrašytas į vientisą faktinį sakinį apie autoriaus pasakojimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Birutė|Birutė]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Vygandas|Vygandas]]; mentioned_place: Dubysa; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-005
 
@@ -106,10 +139,17 @@ Vygandas Marburgietis šiame leidinyje minimas kaip „Naujosios Prūsijos žem�
 - t-013
   global_id: t-172978
   teiginys: 'Vygandas Marburgietis buvo „Naujosios Prūsijos žemės kronikos“ autorius.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Vygandas|Vygandas]]; mentioned_place: Prūsija; mentioned_place: Semba; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1345 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
     - c-004
-
+- susijęs iš [[objektai/autoriai/T. Hiršas.md#claim-t-91955|T. Hiršas]]: T. Hiršas villa Culmen laikė rašybos klaida ir siejo šį vietovardį su Kulva.
+- susijęs iš Naujosios Prūsijos žemės kronika: Cituojama „Naujosios Prūsijos žemės kronika“ ištrauka apie Marienverderio pilies šturmą 1384 m.
+- susijęs iš Naujosios Prūsijos žemės kronika: Vygando Marburgiečio „Naujosios Prūsijos žemės kronikos“ ištraukoje aprašomas 1376 m. Algirdo ir Kęstučio Ordino valdų siaubimas.
+- susijęs iš Naujosios Prūsijos žemės kronika: 1376 m. Kęstutis ir Algirdas, pagavę Ordino sargybinius, trimis voromis įsiveržė į Nadruvos kraštą.
+- susijęs iš [[objektai/zodynas/stabmeldys.md#claim-t-42511|stabmeldys]]: Viena stabmeldė pranešė magistrui, kad lietuvių karalius telkia kariuomenę Sembos žemei nusiaubti.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -284,14 +324,6 @@ Vygandas Marburgietis šiame leidinyje minimas kaip „Naujosios Prūsijos žem�
     - t-011
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/stabmeldys]]
-- [[objektai/asmenys/Birutė]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/daiktai/Pakeliamas tiltas]]
-- [[objektai/asmenys/Vygandas]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/ivykiai/Kęstučio laidotuvės Vilniuje]]
-- [[objektai/paprociai/Pagoniškas kunigaikščio laidojimas sudeginant palaikus su naudotais daiktais]]
+- Vygandas Marburgietis buvo_valdovas [[objektai/vietos/Prūsija]]
+- Vygandas Marburgietis buvo_valdovas [[objektai/vietos/Semba]]
+- Vygandas Marburgietis buvo_valdovas [[objektai/vietos/Viena]]

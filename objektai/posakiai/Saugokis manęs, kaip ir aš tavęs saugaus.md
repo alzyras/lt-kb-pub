@@ -33,6 +33,8 @@ Formulė pateikiama kaip Skirgailos perspėjimas Vytautui, beveik prilygstantis 
 - t-001
   global_id: t-50929
   teiginys: 'Skirgaila per tarną Varšą perdavė Vytautui perspėjimą: „Saugokis manęs, kaip ir aš tavęs saugaus.“'
+  sudarymo_pagrindimas: 'Citata palaiko posakio perdavimo aplinkybes; sutvarkyta skyryba ir OCR lūžiai.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]'
   pagrindžia:
     - c-001
 
@@ -62,7 +64,3 @@ Formulė pateikiama kaip Skirgailos perspėjimas Vytautui, beveik prilygstantis 
   pagrindžia:
     - t-001
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Skirgaila]]

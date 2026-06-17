@@ -30,6 +30,7 @@ Trumpa epitafinė formulė Vytauto mirtį įvardija kaip visos tautos garbės ne
 - t-001
   global_id: t-67274
   teiginys: 'Vytauto mirtis apibūdinta žodžiais, kad mirė tikrai mūsų tautos garbė.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Vytauto mirtis (1430 m. spalio 27 d.)|Vytauto mirtis (1430 m. spalio 27 d.)]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
     - c-002
@@ -38,6 +39,8 @@ Trumpa epitafinė formulė Vytauto mirtį įvardija kaip visos tautos garbės ne
 - t-002
   global_id: t-67275
   teiginys: 'Vytautas mirė susitaikęs su Dievu, o jo kūnas aštuonias dienas buvo viešai išstatytas žmonių atsisveikinimui.'
+  sudarymo_pagrindimas: 'Sakinys perrašytas į aiškų faktą apie Vytauto mirtį ir laidotuvių aplinkybes.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 
@@ -89,9 +92,3 @@ Trumpa epitafinė formulė Vytauto mirtį įvardija kaip visos tautos garbės ne
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Kūnas]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/ivykiai/Vytauto mirtis (1430 m. spalio 27 d.)]]

@@ -47,9 +47,13 @@ Nenurodyta
 - t-001
   global_id: t-40703
   teiginys: 'Per Vilniaus gynybą dalis ginkluotų miesto gyventojų kovėsi specialiai kovai perdarytais dalgiais ir nukaltomis ietimis.'
+  sudarymo_pagrindimas: 'Originalas per platus; citata leidžia suformuluoti aiškesnį teiginį apie dalgių naudojimą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/daiktai/Kovinis dalgis.md#claim-t-39185|Kovinis dalgis]]: Aprašytame sukilėlių būryje pusė kovotojų buvo ginkluoti dalgiais, o pusė - ietimis.
+- susijęs iš [[objektai/ivykiai/Biržų (Medeikių) mūšis (1863 m.).md#claim-t-10204|Biržų (Medeikių) mūšis (1863 m.)]]: Gegužės 7 d. prie Medeikių rusų pėstininkai tris valandas atakavo lietuvių gynybines pozicijas.
+- susijęs iš [[objektai/ivykiai/Biržų (Medeikių) mūšis (1863 m.).md#claim-t-10205|Biržų (Medeikių) mūšis (1863 m.)]]: 1863 m. gegužės 7 d. rusų pėstininkai tris valandas atakavo lietuvių gynybines pozicijas Medeikiuose; sukilėliams mėginant apeiti rusus iš flangų, rusai buvo priversti atsitraukti.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -71,9 +75,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Artilerija]]
-- [[objektai/ivykiai/Biržų (Medeikių) mūšis (1863 m.)]]
-- [[objektai/daiktai/Kovinis dalgis]]

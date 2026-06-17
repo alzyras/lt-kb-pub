@@ -12,21 +12,24 @@ tags:
 
 ## Santrauka
 
-Velykų rytą didysis kunigaikštis Algirdas su visomis pajėgomis pasirodė ant Pasveikinimo kalvos prie Maskvos.
+Algirdas prie Maskvos pasirodė ant Pasveikinimo kalvos.
 
 ## Teiginiai
 
 <a id="claim-t-187284"></a>
 - t-001
   global_id: t-187284
-  teiginys: 'Velykų rytą didysis kunigaikštis Algirdas su visomis pajėgomis pasirodė ant Pasveikinimo kalvos prie Maskvos.'
+  teiginys: 'Pasak Lietuvos metraščio, Velykų rytą Algirdas su savo pajėgomis pasirodė ant Pasveikinimo kalvos prie Maskvos.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Valdovo titulas ir kronikinis pasakojimas reikalauja atribucijos.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_object: [[objektai/daiktai/Ietis|Ietis]]; mentioned_object: [[objektai/daiktai/Skydas|Skydas]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Vitebskas'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Velykų rytą didysis kunigaikštis Algirdas su visomis pajėgomis pasirodė ant Pasveikinimo kalvos prie Maskvos.'
+  santrauka: 'Pasak Lietuvos metraščio, Velykų rytą Algirdas su savo pajėgomis pasirodė ant Pasveikinimo kalvos prie Maskvos.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     Ir didysis kunigaikštis Algirdas ištrau­

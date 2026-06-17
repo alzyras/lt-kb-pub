@@ -7,8 +7,9 @@ datos:
   - '1241 m.'
   - '1427 m.'
   - '1429 m.'
+  - '1500 m.'
 date_start: '1241'
-date_end: '1429'
+date_end: '1500'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -16,6 +17,7 @@ tags:
   - kunigaikštis
   - miestas
   - valdovas
+  - vieta
 amziai:
   - 'XIII'
   - 'XV'
@@ -24,7 +26,7 @@ amziai:
 
 ## Santrauka
 
-Valdovas leido pasiuntiniams be tikrinimo pereiti sienas, kad jie aplankytų Naugardą ir Pskovą. Pskovas ir Didysis Naugardas buvo įkurti anksčiau už Vilnių ir greičiau virto tankiai gyvenamomis, turtingesnėmis gyvenvietėmis. Algirdo laikais Vilniuje vyko laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių.
+Prie karinės sąjungos, 1241 m. Hamburgo sudarytos su Liubeku, tam tikru požiūriu priklausė D ## Puslapis 22 ĮVADAS Krokuva, Kališas ir Naugardas. Lietuvos rytuose gerokai prieš XIII amžių garsėjo du senieji rusų miestai - Pskovas ir Naugardas - prekyba, mūrais ir netgi savo pačių valdžia galingi. Be to, Rusios miestai, būtent Pskovas ir Didysis Naugardas, atsidūrė kitokiose aplinkybėse.
 
 ## Teiginiai
 
@@ -32,6 +34,8 @@ Valdovas leido pasiuntiniams be tikrinimo pereiti sienas, kad jie aplankytų Nau
 - t-001
   global_id: t-85876
   teiginys: 'Valdovas leido pasiuntiniams be tikrinimo pereiti sienas, kad jie aplankytų Naugardą ir Pskovą.'
+  sudarymo_pagrindimas: 'Citata palaiko faktą, bet originalas buvo kreipimosi fragmentas.'
+  susije_objektai: 'territory: Naugardas; territory: Pskovas; territory: Viena; territory: Vilnius; mentioned_object: [[objektai/zodynas/vergas|vergas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Naugardas; mentioned_place: Pskovas; mentioned_place: Viena; mentioned_place: Vilnius'
   pagrindžia:
     - c-005
 
@@ -39,6 +43,8 @@ Valdovas leido pasiuntiniams be tikrinimo pereiti sienas, kad jie aplankytų Nau
 - t-002
   global_id: t-85877
   teiginys: 'Pskovas ir Didysis Naugardas buvo įkurti anksčiau už Vilnių ir greičiau virto tankiai gyvenamomis, turtingesnėmis gyvenvietėmis.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
+  susije_objektai: 'mentioned_place: Didysis Naugardas; mentioned_place: Lietuva; mentioned_place: Naugardas; mentioned_place: Pskovas; mentioned_place: Vilnius'
   pagrindžia:
     - c-004
 
@@ -46,6 +52,8 @@ Valdovas leido pasiuntiniams be tikrinimo pereiti sienas, kad jie aplankytų Nau
 - t-003
   global_id: t-85878
   teiginys: 'Algirdo laikais Vilniuje vyko laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir paremtas citata.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Ryga; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -53,6 +61,8 @@ Valdovas leido pasiuntiniams be tikrinimo pereiti sienas, kad jie aplankytų Nau
 - t-004
   global_id: t-85879
   teiginys: 'Gerokai prieš XIII a. Pskovas ir Naugardas garsėjo prekyba, mūrais ir savo pačių valdžia.'
+  sudarymo_pagrindimas: 'Pradinė formuluotė per ilga ir stilistiškai sunki, citata palaiko glaustesnį teiginį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_object: [[objektai/zodynas/kaštelionas|kaštelionas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Naugardas; mentioned_place: Pskovas'
   pagrindžia:
     - c-006
 
@@ -60,6 +70,11 @@ Valdovas leido pasiuntiniams be tikrinimo pereiti sienas, kad jie aplankytų Nau
 - t-005
   global_id: t-85880
   teiginys: 'Aleksandro ir Elenos santuoka išplėtė Vilniaus prekybinius ryšius su Maskva, Naugardu, Pskovu ir Tvere.'
+  sudarymo_pagrindimas: 'Sakinys sutrumpintas, pašalintas OCR triukšmas ir paliktas citatos palaikomas faktas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Rusų pirkliai|Rusų pirkliai]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Pskovas; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1500 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Sakinys sutrumpintas, pašalintas OCR triukšmas ir paliktas citatos palaikomas faktas.'
   pagrindžia:
     - c-001
 
@@ -67,6 +82,8 @@ Valdovas leido pasiuntiniams be tikrinimo pereiti sienas, kad jie aplankytų Nau
 - t-006
   global_id: t-85881
   teiginys: 'Didžiojo Naugardo bojarinai Ivanas Jermoliničius ir Chariničius Vilniuje sudarė su Švitrigaila saugumo ir prekybos laisvės sutartį.'
+  sudarymo_pagrindimas: 'Originalas pataisytas į vientisą faktinį sakinį be OCR skaidymo.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Didžiojo Naugardo bojarinai|Didžiojo Naugardo bojarinai]]; mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/bojarinai|bojarinai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Chariničius|Chariničius]]; mentioned_person: [[objektai/asmenys/Ivanas|Ivanas]]; mentioned_person: [[objektai/asmenys/Ivanas Jermoliničius|Ivanas Jermoliničius]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Naugardas; mentioned_place: Ryga; mentioned_place: Vilnius'
   pagrindžia:
     - c-007
 
@@ -74,6 +91,12 @@ Valdovas leido pasiuntiniams be tikrinimo pereiti sienas, kad jie aplankytų Nau
 - t-007
   global_id: t-85882
   teiginys: 'Naugardas tam tikru požiūriu priklausė prie 1241 m. Hamburgo su Liubeku sudarytos karinės sąjungos.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'owner: Hamburgas; owner: Liubekas; owner: Naugardas; mentioned_place: Hamburgas; mentioned_place: Liubekas; mentioned_place: Naugardas'
+  semantiniai_rysiai: 'Didysis Naugardas Naugardas (sujungti pirminiai pavadinimai Naugardas; Didysis Naugardas; Naugardas ir Pskovas) priklausė Hamburgas; Didysis Naugardas Naugardas (sujungti pirminiai pavadinimai Naugardas; Didysis Naugardas; Naugardas ir Pskovas) priklausė Liubekas; Didysis Naugardas Naugardas (sujungti pirminiai pavadinimai Naugardas; Didysis Naugardas; Naugardas ir Pskovas) priklausė Naugardas'
+  temporaliniai_duomenys: 'priklausymo laikotarpis: 1241 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Didysis Naugardas Naugardas (sujungti pirminiai pavadinimai Naugardas; Didysis Naugardas; Naugardas ir Pskovas) priklausė Hamburgas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Didysis Naugardas Naugardas (sujungti pirminiai pavadinimai Naugardas; Didysis Naugardas; Naugardas ir Pskovas) priklausė Liubekas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Didysis Naugardas Naugardas (sujungti pirminiai pavadinimai Naugardas; Didysis Naugardas; Naugardas ir Pskovas) priklausė Naugardas“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-009
 
@@ -81,6 +104,11 @@ Valdovas leido pasiuntiniams be tikrinimo pereiti sienas, kad jie aplankytų Nau
 - t-008
   global_id: t-85883
   teiginys: 'Vytautas senatvėje kovojo su Pskovu ir Naugardu, siekdamas atkeršyti už Lietuvai padarytas skriaudas.'
+  sudarymo_pagrindimas: 'Įvardytas kunigaikštis ir sutvarkytas OCR triukšmas.'
+  susije_objektai: 'counterparty: [[objektai/grupes/Lenkai|Lenkai]]; counterparty: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/bojarinai|bojarinai]]; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_person: [[objektai/asmenys/Joachimas (Pskovo vietininkas)|Joachimas (Pskovo vietininkas)]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Pskovas; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'mūšio data: 1429 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Joachimas (Pskovo vietininkas) kariavo prieš Vytautas (Lietuvos valdovas, XIV–XV a.)“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Joachimas (Pskovo vietininkas) kariavo prieš Lenkai“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Įvardytas kunigaikštis ir sutvarkytas OCR triukšmas.'
   pagrindžia:
     - c-003
 
@@ -88,6 +116,8 @@ Valdovas leido pasiuntiniams be tikrinimo pereiti sienas, kad jie aplankytų Nau
 - t-009
   global_id: t-85884
   teiginys: 'Vytauto laikais Vilniaus prekyba išsiplėtė su Pskovu, Naugardu, Maskva, Prūsijos ir Livonijos miestais.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, faktinis ir paremtas citata.'
+  susije_objektai: 'mentioned_place: Livonija; mentioned_place: Naugardas; mentioned_place: Prūsija; mentioned_place: Vilnius'
   pagrindžia:
     - c-008
 
@@ -296,3 +326,8 @@ Valdovas leido pasiuntiniams be tikrinimo pereiti sienas, kad jie aplankytų Nau
   statusas: verified
   pagrindžia:
     - t-007
+
+## Ryšiai
+- Didysis Naugardas Naugardas (sujungti pirminiai pavadinimai Naugardas; Didysis Naugardas; Naugardas ir Pskovas) priklause [[objektai/vietos/Hamburgas]]
+- Didysis Naugardas Naugardas (sujungti pirminiai pavadinimai Naugardas; Didysis Naugardas; Naugardas ir Pskovas) priklause [[objektai/vietos/Liubekas]]
+- Didysis Naugardas Naugardas (sujungti pirminiai pavadinimai Naugardas; Didysis Naugardas; Naugardas ir Pskovas) priklause [[objektai/vietos/Naugardas]]

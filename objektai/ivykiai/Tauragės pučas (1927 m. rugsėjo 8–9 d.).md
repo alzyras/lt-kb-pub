@@ -45,6 +45,11 @@ Nenurodyta
 - t-001
   global_id: t-20516
   teiginys: '1927 m. rugsėjo 8–9 d. socialdemokratų ginkluotas sukilimas laikinai pavyko tik Tauragėje, bet valdžia jį nuslopino.'
+  sudarymo_pagrindimas: 'Citata leidžia tiksliau susieti įvykį su Taurage ir jo baigtimi.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]'
+  temporaliniai_duomenys: 'įvykio data: 1927 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata leidžia tiksliau susieti įvykį su Taurage ir jo baigtimi.'
   pagrindžia:
     - c-001
 
@@ -65,7 +70,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/A. Smetona]]

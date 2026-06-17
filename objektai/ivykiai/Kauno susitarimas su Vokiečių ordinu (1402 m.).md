@@ -45,6 +45,8 @@ Nenurodyta
 - t-001
   global_id: t-34452
   teiginys: 'Kaune Vytautas be Lenkijos žinios suteikė Vokiečių ordinui teisę abipus Nevėžio statytis malūnus ir pažadėjo jam pagalbą.'
+  sudarymo_pagrindimas: 'Pirminis teiginys nutrūkęs ir su OCR triukšmu, bet citata aiškiai pagrindžia faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Kaunas; mentioned_place: Lenkija; mentioned_place: Nevėžis'
   pagrindžia:
     - c-002
 
@@ -52,6 +54,8 @@ Nenurodyta
 - t-002
   global_id: t-34453
   teiginys: 'Kitą dieną po Kauno susitarimo Vokiečių ordinas pažadėjo po Vytauto mirties globoti jo žmoną Oną ir ginti jos teises į jos dalį.'
+  sudarymo_pagrindimas: 'Teiginys taisytinas dėl laužytų žodžių ir išnašos žymės, bet faktas paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Vokiečių ordinas|Vokiečių ordinas]]; mentioned_place: Kaunas; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -59,6 +63,11 @@ Nenurodyta
 - t-003
   global_id: t-184232
   teiginys: 'Po Kauno susitarimo Ordinas atskiru dokumentu pažadėjo Vytautui mirus globoti Oną ir ginti jos teises į jos dalį.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Faktas pagrįstas, bet reikia pašalinti kontekstinę pradžią, OCR triukšmą ir išnašą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Kaunas; mentioned_place: Lenkija; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 
@@ -115,14 +124,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/unija]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/grupes/Vokiečių ordinas]]
-- [[objektai/daiktai/Malūnas]]

@@ -45,6 +45,9 @@ Nenurodyta
 - t-001
   global_id: t-75143
   teiginys: 'Lietuvos ir Lenkijos sutarties preambulėje pasmerktas smurtas abiejų tautų santykiuose ir patvirtintas dabartinių teritorijų vientisumas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/posakiai/„su sostinėmis Vilniumi ir Varšuva vientisumą[as] dabar ir ateityje“|„su sostinėmis Vilniumi ir Varšuva vientisumą[as] dabar ir ateityje“]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Varšuva; mentioned_place: Vilnius; mentioned_place: Šalčininkai'
+  temporaliniai_duomenys: 'įvykio data: 1994 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -52,6 +55,8 @@ Nenurodyta
 - t-002
   global_id: t-75144
   teiginys: 'Ratifikavus Lietuvos ir Lenkijos sutartį, Lenkija oficialiai atsisakė bet kokių pretenzijų į Vilniaus kraštą.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie sutarties įsigaliojimo pasekmę.'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Varšuva; mentioned_place: Viena; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -59,6 +64,8 @@ Nenurodyta
 - t-003
   global_id: t-75145
   teiginys: 'Lietuvos ir Lenkijos sutarties preambulėje abi valstybės patvirtino dabartinių teritorijų su sostinėmis Vilniumi ir Varšuva vientisumą.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nurodo preambulėje patvirtintą teritorijų vientisumo nuostatą.'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Varšuva; mentioned_place: Viena; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -104,8 +111,3 @@ Nenurodyta
   pagrindžia:
     - t-002
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [„su sostinėmis Vilniumi ir Varšuva vientisumą[as] dabar ir ateityje“](/objektai/posakiai/%E2%80%9Esu%20sostin%C4%97mis%20Vilniumi%20ir%20Var%C5%A1uva%20vientisum%C4%85%5Bas%5D%20dabar%20ir%20ateityje%E2%80%9C)

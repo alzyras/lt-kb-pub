@@ -30,6 +30,11 @@ Jono Ak ademi jos Spaustuvės kronika 1547. Vilniaus kanauninkas Vilčiopolskis 
 - t-001
   global_id: t-88361
   teiginys: '1631 m. Akademijos kolegija įgijo sklypą ir mūrinį namą, kurį vėliau pavertė spaustuve.'
+  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytą 1631 m. įvykį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/činšas|činšas]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_person: [[objektai/asmenys/Vilčiopolskis|Vilčiopolskis]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1631 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia citatoje nurodytą 1631 m. įvykį.'
   pagrindžia:
     - c-002
 
@@ -37,6 +42,11 @@ Jono Ak ademi jos Spaustuvės kronika 1547. Vilniaus kanauninkas Vilčiopolskis 
 - t-002
   global_id: t-88362
   teiginys: '1547 m. Jonas Hozijus pardavė sklypą ir mūrinį namą, kuriame buvo spaustuvė, Sebastijonui Vitinskiui.'
+  sudarymo_pagrindimas: 'Teiginys yra faktinis, gramatiškas ir paremtas kronikos įrašu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Neliubovičiai|Neliubovičiai]]; mentioned_group: [[objektai/grupes/Savickiai|Savickiai]]; mentioned_group: [[objektai/grupes/Zalivskiai|Zalivskiai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_object: [[objektai/zodynas/činšas|činšas]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Cimermanas|Cimermanas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas Hozijus|Jonas Hozijus]]; mentioned_person: [[objektai/asmenys/Jonas Neliubovičius|Jonas Neliubovičius]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_person: [[objektai/asmenys/Vilčiopolskis|Vilčiopolskis]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'prekybos laikotarpis: 1547 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „prekybos laikotarpis“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra faktinis, gramatiškas ir paremtas kronikos įrašu.'
   pagrindžia:
     - c-001
 

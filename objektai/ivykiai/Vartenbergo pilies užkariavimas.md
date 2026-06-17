@@ -37,6 +37,9 @@ Nenurodyta
 - t-001
   global_id: t-62522
   teiginys: 'Sūduviai po ilgų antpuolių sudegino ir iki pamatų sunaikino Vartenbergo pilį, nužudydami du Ordino brolius su visa šeimyna.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pradinis teiginys yra bendras kontekstas, o citata tiesiogiai pagrindžia pilies sunaikinimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_place: Vartenbergas'
   pagrindžia:
     - c-001
 
@@ -58,7 +61,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Sūduviai]]

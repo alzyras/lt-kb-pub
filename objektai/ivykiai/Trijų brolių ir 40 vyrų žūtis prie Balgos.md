@@ -36,6 +36,9 @@ Nenurodyta
 - t-001
   global_id: t-62510
   teiginys: 'Prie Balgos pasaloje pasirodę prūsai nukovė tris brolius ir 40 vyrų, kai broliai puolė atsitraukiančius prūsus.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo su antrašte ir nutrūkusiu šaltinio fragmentu; citata remia aiškų įvykio aprašymą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Skumas|Skumas]]; mentioned_person: [[objektai/asmenys/Stucė|Stucė]]; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
 
@@ -58,8 +61,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Skumas]]
-- [[objektai/asmenys/Stucė]]

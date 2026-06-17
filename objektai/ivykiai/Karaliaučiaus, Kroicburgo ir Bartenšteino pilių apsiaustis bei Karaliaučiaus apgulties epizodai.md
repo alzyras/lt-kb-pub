@@ -4,10 +4,11 @@ pavadinimas: 'Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei 
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
+  - '250 m.'
   - '1550 m.'
   - '1613 m.'
   - '1815 m.'
-date_start: '1550'
+date_start: '250'
 date_end: '1815'
 sukurta: ''
 atnaujinta: ''
@@ -17,14 +18,14 @@ tags:
   - ordinas
   - pilis
 amziai:
-  - 'XVI'
+  - 'III'
   - 'XIX'
 ---
 # Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai
 
 ## Santrauka
 
-Nepajėgę jėga paimti Karaliaučiaus pilies, prūsai pasistatė daug laivų brolių maisto tiekimo laivams naikinti. Karaliaučiaus pilies gynėjai puolimo metu išardė ir sunaikino tiltą bei kuorus, kuriais naudojosi apgulėjai. Per Karaliaučiaus apgultį broliai po kovos išardė ir sunaikino prūsų pastatytą tiltą per Prieglių bei jo kuorus.
+Dusburgietis teigia, kad apie Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsupimą Taigi Belialo sūnūs, matydami, kad jiems viskas klojasi taip, kaip nori, tyčiojosi ir piktžodžiavo, smurtu iš aukšto grasino tavo tautai, viešpatie, tarėsi prieš tuos, kuriuos tu globoji. Dusburgietis teigia, kad todėl, norėdami visiškai išnaikinti viešpaties žmones, jie susibūrė ir apgulė Karaliaučiaus, Kroicburgo bei Bartenšteino pilis. Dusburgietis teigia, kad matydami, kad nestengs Karaliaučiaus pilies jėga paimti, prūsai, įgudę ir patyrę kariai, pasistatydino daug laivų, su kuriais ketino daužyti ir naikinti brolių laivus, gabenančius maistą į minėtąją pilį, kad, trūkdami maisto, broliai silpnėtų.
 
 ## Laikotarpis ir datos
 
@@ -48,6 +49,8 @@ Nenurodyta
 - t-001
   global_id: t-59177
   teiginys: 'Nepajėgę jėga paimti Karaliaučiaus pilies, prūsai pasistatė daug laivų brolių maisto tiekimo laivams naikinti.'
+  sudarymo_pagrindimas: 'Pradinė formuluotė per ilga ir prasideda nereikalinga atribucija.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Prūsai; mentioned_place: Viena'
   pagrindžia:
     - c-008
 
@@ -55,6 +58,8 @@ Nenurodyta
 - t-002
   global_id: t-59178
   teiginys: 'Karaliaučiaus pilies gynėjai puolimo metu išardė ir sunaikino tiltą bei kuorus, kuriais naudojosi apgulėjai.'
+  sudarymo_pagrindimas: 'Citata remia apgulties epizodą, o pradinė formuluotė nutrūkusi ir užteršta pastaba.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-005
 
@@ -62,6 +67,8 @@ Nenurodyta
 - t-003
   global_id: t-59179
   teiginys: 'Per Karaliaučiaus apgultį broliai po kovos išardė ir sunaikino prūsų pastatytą tiltą per Prieglių bei jo kuorus.'
+  sudarymo_pagrindimas: 'Pašalinti antraštės ir OCR fragmentai, sakinys paremtas citatos veiksmu.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kuorai|Kuorai]]; mentioned_place: Prieglius; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
 
@@ -69,6 +76,8 @@ Nenurodyta
 - t-004
   global_id: t-59180
   teiginys: 'Per sembų puolimą prie Karaliaučiaus vienas sembas žuvo nuo paimto arbaleto, todėl prūsai ėmė labai bijoti arbaletų.'
+  sudarymo_pagrindimas: 'Citata remia užbaigtą epizodo sakinį be nutrūkusio fragmento.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_object: [[objektai/daiktai/Arbaletai|Arbaletai]]; mentioned_object: [[objektai/daiktai/Arbaletas|Arbaletas]]; mentioned_place: Prūsai; mentioned_place: Viena'
   pagrindžia:
     - c-006
 
@@ -76,6 +85,8 @@ Nenurodyta
 - t-005
   global_id: t-59181
   teiginys: 'Dusburgietis Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustį aprašė kaip Belialo sūnų grasinimą viešpaties tautai.'
+  sudarymo_pagrindimas: 'Pradinis tekstas yra negramatiškas citatos fragmentų junginys, bet citata remia autoriaus retorikos apibūdinimą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/apsiaustis|apsiaustis]]; mentioned_place: Bartenšteinas; mentioned_place: Kroicburgas'
   pagrindžia:
     - c-003
 
@@ -83,6 +94,11 @@ Nenurodyta
 - t-006
   global_id: t-59182
   teiginys: 'Sembai netikėtai užpuolė prie Karaliaučiaus pilies įkurtą miestą, jį sugriovė, o dalį žmonių paėmė į nelaisvę arba išžudė.'
+  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir suformuotas pilnas faktinis sakinys.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_place: Prieglius'
+  temporaliniai_duomenys: 'įvykio data: 250 m; įvykio data: apie 250 m.; įvykio data: 1550 m.; įvykio data: 1613 m.; įvykio data: 1815 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas OCR triukšmas ir suformuotas pilnas faktinis sakinys.'
   pagrindžia:
     - c-004
 
@@ -90,6 +106,8 @@ Nenurodyta
 - t-007
   global_id: t-59183
   teiginys: 'Prūsai apgulė Karaliaučiaus, Kroicburgo ir Bartenšteino pilis, kiekvieną apsupdami trimis stipriais kuorais.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir tiesiogiai pagrįstas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kuorai|Kuorai]]; mentioned_place: Bartenšteinas; mentioned_place: Kroicburgas; mentioned_place: Prūsai'
   pagrindžia:
     - c-002
 
@@ -97,6 +115,11 @@ Nenurodyta
 - t-008
   global_id: t-183927
   teiginys: 'Apsuptieji, visiškai pritrūkę maisto, paliko pilį, slapta atvyko į Elbingą ir ten išlupo akis dvylikai prūsų įkaitų.'
+  teiginio_tipas: 'saltinio_teiginys'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis teiginys neatitinka pateiktos citatos svarbiausio faktinio turinio.'
+  susije_objektai: 'location: Bartenšteinas; location: Elbingas; location: Kroicburgas; location: Prūsai; mentioned_object: [[objektai/zodynas/įkaitai|įkaitai]]; mentioned_place: Bartenšteinas; mentioned_place: Elbingas; mentioned_place: Kroicburgas; mentioned_place: Prūsai'
   pagrindžia:
     - c-007
 
@@ -263,18 +286,3 @@ Nenurodyta
   pagrindžia:
     - t-009
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Arbaletai]]
-- [[objektai/daiktai/Arbaletas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/daiktai/Kuorai]]
-- [[objektai/daiktai/Laivai]]
-- [[objektai/grupes/Sembai]]
-- [[objektai/zodynas/komtūras]]
-- [[objektai/zodynas/apsiaustis]]
-- [[objektai/zodynas/įkaitai]]
-- [[objektai/paprociai/Karaliaučiaus pilies blokada kuorais, laivais ir tiltu|Karaliaučiaus pilies blokada kuorais, laivais ir tiltu (pilis)]]
-- [[objektai/daiktai/Tiltas per Prieglių]]
-- [[objektai/zodynas/kuoras propugnaculum pilaitė]]

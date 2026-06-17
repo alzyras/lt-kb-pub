@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-XIII–XIV a. ant Lietuvos piliakalnių stovėjusios medinės pilys buvo svarbiausi gynybiniai statiniai.
+Merkinės piliakalnis – vienas gražiausių Lietuvos piliakalnių, ant kurių stovėjusios medinės pilys buvo svarbiausi gynybiniai statiniai XIII–XIV a.
 
 ## Pavadinimai šaltiniuose
 
@@ -40,6 +40,8 @@ Nenurodyta
 - t-001
   global_id: t-19569
   teiginys: 'XIII–XIV a. ant Lietuvos piliakalnių stovėjusios medinės pilys buvo svarbiausi gynybiniai statiniai.'
+  sudarymo_pagrindimas: 'Teiginys yra išsamus faktinis sakinys apie objektą ir remiasi citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_person: [[objektai/asmenys/Spera|Spera]]; mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_place: Lietuva; mentioned_place: Merkinė'
   pagrindžia:
     - c-001
 
@@ -61,10 +63,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/daiktai/Pilys]]
-- [[objektai/asmenys/Spera]]
-- [[objektai/asmenys/Šventaragis]]

@@ -20,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-Georgijaus Čičerino nota prie 1926 m. Lietuvos ir SSRS nepuolimo ir neutralumo sutarties patvirtino Lietuvos interesus Vilniuje. 1926 m. rugsėjo 28 d. Lietuva Maskvoje pasirašė nepuolimo ir neutralumo sutartį su SSRS.
+Likę vieniši lietuviai 1926 m. rugsėjo 28 d. Maskvoje pasirašė nepuolimo ir neutralumo sutartį su SSRS.
 
 ## Teiginiai
 
@@ -28,6 +28,11 @@ Georgijaus Čičerino nota prie 1926 m. Lietuvos ir SSRS nepuolimo ir neutralumo
 - t-001
   global_id: t-21155
   teiginys: 'Georgijaus Čičerino nota prie 1926 m. Lietuvos ir SSRS nepuolimo ir neutralumo sutarties patvirtino Lietuvos interesus Vilniuje.'
+  sudarymo_pagrindimas: 'Reikia aiškiai įvardyti paktą, kad teiginys būtų savarankiškas ir tikslus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Suverenitetas|Suverenitetas]]; mentioned_object: [[objektai/zodynas/de facto|de facto]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: SSRS; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1920 m.; įvykio data: 1926 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia aiškiai įvardyti paktą, kad teiginys būtų savarankiškas ir tikslus.'
   pagrindžia:
     - c-001
 
@@ -35,6 +40,14 @@ Georgijaus Čičerino nota prie 1926 m. Lietuvos ir SSRS nepuolimo ir neutralumo
 - t-002
   global_id: t-183370
   teiginys: '1926 m. rugsėjo 28 d. Lietuva Maskvoje pasirašė nepuolimo ir neutralumo sutartį su SSRS.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiksliai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Suverenitetas|Suverenitetas]]; mentioned_object: [[objektai/zodynas/de facto|de facto]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: SSRS; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1920 m.; įvykio data: 1926 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiksliai paremtas citata.'
   pagrindžia:
     - c-001
 

@@ -23,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-Alegorinė skulptūra „Lietuvos mokykla 1864–1904“ vaizduoja švietimą lietuvių kalba Rusijos imperijos priespaudos laikais. Alegorinė skulptūra „Lietuvos mokykla 1864–1904“ vaizduoja švietimą lietuvių kalba Rusijos imperijos priespaudos laikais. P. Rimšos 1906 m. alegorinė skulptūra „Lietuvos mokykla 1864–1904“ vaizduoja švietimą lietuvių kalba Rusijos imperijos priespaudos laikais.
+Rusijos imperijos priespaudos laikų švietimą lietuvių kalba vaizduojanti alegorinė skulptūra „Lietuvos mokykla 1864–1904“.
 
 ## Pavadinimai šaltiniuose
 
@@ -51,6 +51,11 @@ Nenurodyta
 - t-001
   global_id: t-45465
   teiginys: 'Alegorinė skulptūra „Lietuvos mokykla 1864–1904“ vaizduoja švietimą lietuvių kalba Rusijos imperijos priespaudos laikais.'
+  sudarymo_pagrindimas: 'Sakinys aiškiai apibūdina skulptūros vaizduojamą temą pagal citatą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lenkija; mentioned_place: Rusija'
+  temporaliniai_duomenys: 'įvykio data: 1904 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Sakinys aiškiai apibūdina skulptūros vaizduojamą temą pagal citatą.'
   pagrindžia:
     - c-001
 
@@ -58,6 +63,11 @@ Nenurodyta
 - t-003
   global_id: t-45467
   teiginys: 'P. Rimšos 1906 m. alegorinė skulptūra „Lietuvos mokykla 1864–1904“ vaizduoja švietimą lietuvių kalba Rusijos imperijos priespaudos laikais.'
+  sudarymo_pagrindimas: 'Sakinys aiškiai nurodo autorių, metus ir skulptūros temą pagal citatą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Rusija'
+  temporaliniai_duomenys: 'įvykio data: 1906 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Sakinys aiškiai nurodo autorių, metus ir skulptūros temą pagal citatą.'
   pagrindžia:
     - c-002
 
@@ -95,9 +105,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Rusai]]

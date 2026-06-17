@@ -32,6 +32,11 @@ Miesto archyvas, kaip sostinės piliečių lais­ vių ir privilegijų lobynas, 
 - t-001
   global_id: t-87499
   teiginys: '1527-1552 m. Vilniaus vaitas buvo Krokuvos miestietis Feliksas Liangurga.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir citata pagrindžia Liangurgos pareigas, kilmę ir laikotarpį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/vaitas|vaitas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Krokuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1527-1552; įvykio data: 1552 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir citata pagrindžia Liangurgos pareigas, kilmę ir laikotarpį.'
   pagrindžia:
     - c-002
 
@@ -39,9 +44,14 @@ Miesto archyvas, kaip sostinės piliečių lais­ vių ir privilegijų lobynas, 
 - t-002
   global_id: t-87500
   teiginys: '1548 m. Feliksas Liangurga buvo iš Krokuvos kilęs Vilniaus vaitas ir uolus katalikas.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir paremtas citatoje nurodytais 1548 m. duomenimis.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Herbas|Herbas]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/stabmeldžiai|stabmeldžiai]]; mentioned_object: [[objektai/zodynas/vaitas|vaitas]]; mentioned_place: Krokuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1548 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir paremtas citatoje nurodytais 1548 m. duomenimis.'
   pagrindžia:
     - c-001
-
+- susijęs iš 1527 m. privilegija Feliksui Liangurgai ir 1547 m. aktas dėl jo statuso: 1547 m. akte Feliksas Liangurga vadintas bajoru.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -95,10 +105,3 @@ Miesto archyvas, kaip sostinės piliečių lais­ vių ir privilegijų lobynas, 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Herbas]]
-- [[objektai/daiktai/Kryžius]]
-- [[objektai/zodynas/stabmeldžiai]]
-- [[objektai/zodynas/vaitas]]

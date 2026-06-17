@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-II brigada Šiaurės Rytų Lietuvoje darniai veikdama su artilerija stūmė bolševikus iš okupuotų Lietuvos teritorijų. II brigada pralaužė gynybą ir 28 d. privertė bolševikus trauktis už Dauguvos.
+Į operaciją įsitraukė ir II brigada. Il brigada pralaužia gynybą ir 28 d. priverčia bolševikus trauktis už Dauguvos.
 
 ## Teiginiai
 
@@ -20,6 +20,8 @@ II brigada Šiaurės Rytų Lietuvoje darniai veikdama su artilerija stūmė bol�
 - t-001
   global_id: t-40890
   teiginys: 'II brigada Šiaurės Rytų Lietuvoje darniai veikdama su artilerija stūmė bolševikus iš okupuotų Lietuvos teritorijų.'
+  sudarymo_pagrindimas: 'Citata leidžia tiksliau nurodyti brigados veikimo būdą ir išlaikyti sakinį be OCR triukšmo.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/brigada|brigada]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_place: Lietuva; mentioned_place: Užpaliai'
   pagrindžia:
     - c-001
 
@@ -27,6 +29,7 @@ II brigada Šiaurės Rytų Lietuvoje darniai veikdama su artilerija stūmė bol�
 - t-002
   global_id: t-40891
   teiginys: 'II brigada pralaužė gynybą ir 28 d. privertė bolševikus trauktis už Dauguvos.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/brigada|brigada]]; mentioned_place: Daugpilis; mentioned_place: Dauguva'
   pagrindžia:
     - c-002
 
@@ -80,9 +83,3 @@ II brigada Šiaurės Rytų Lietuvoje darniai veikdama su artilerija stūmė bol�
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Artilerija]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/brigada]]

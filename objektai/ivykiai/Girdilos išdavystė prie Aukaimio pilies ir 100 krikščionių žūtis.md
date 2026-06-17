@@ -44,6 +44,12 @@ Nenurodyta
 - t-001
   global_id: t-62269
   teiginys: '1285 m. skalvis Girdila su 100 ginkluotų vyrų patraukė prie Aukaimio pilies, bet įspėti pilies gynėjai juos užpuolė ir beveik visus nukovė.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie įvykį ir remiasi citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Girdila|Girdila]]; mentioned_place: Aukaimis; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1285 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie įvykį ir remiasi citata.'
   pagrindžia:
     - c-001
 
@@ -71,8 +77,3 @@ Nenurodyta
   pagrindžia:
     - t-001
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Girdila]]

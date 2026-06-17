@@ -22,6 +22,8 @@ Nagrinėdamas geras ir blogas priva­ čios prekybos arba monopolio pu­ ses, Vi
 - t-001
   global_id: t-86874
   teiginys: 'Smigleckis teigė, kad privilegija vienam asmeniui Vilniuje pardavinėti stiklo dirbinius būtų prieš bendrą gėrį.'
+  sudarymo_pagrindimas: 'Pradinis teiginys neįvardija paties posakio minties, o citata pagrindžia konkrečią Smigleckio poziciją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -61,7 +63,3 @@ Nagrinėdamas geras ir blogas priva­ čios prekybos arba monopolio pu­ ses, Vi
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]

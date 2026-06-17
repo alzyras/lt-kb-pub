@@ -4,14 +4,17 @@ pavadinimas: 'Lietuvos krepšinio rinktinių Europos čempionatų laimėjimai (1
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
+  - '1995 m.'
+  - '1997 m.'
   - '2003 m.'
-date_start: '2003'
-date_end: ''
+date_start: '1995'
+date_end: '2003'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
 amziai:
+  - 'XX'
   - 'XXI'
 ---
 # Lietuvos krepšinio rinktinių Europos čempionatų laimėjimai (1995, 1997 ir 2003 m.)
@@ -42,6 +45,11 @@ Nenurodyta
 - t-001
   global_id: t-20317
   teiginys: 'Lietuvos krepšininkai trečią kartą tapo Europos čempionais, o moterų krepšinio rinktinė 1997 m. laimėjo Europos čempionatą.'
+  sudarymo_pagrindimas: 'Citata nepateikia vyrų laimėjimo metų, todėl teiginys sutrumpintas iki tiesiogiai pagrįstų faktų.'
+  susije_objektai: 'mentioned_place: Europa; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1995 m.; įvykio data: 1997 m.; įvykio data: 2003 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata nepateikia vyrų laimėjimo metų, todėl teiginys sutrumpintas iki tiesiogiai pagrįstų faktų.'
   pagrindžia:
     - c-001
 
@@ -59,7 +67,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuvos moterų krepšinio rinktinė]]

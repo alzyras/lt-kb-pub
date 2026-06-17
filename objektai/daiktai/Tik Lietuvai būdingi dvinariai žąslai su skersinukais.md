@@ -40,6 +40,8 @@ Nenurodyta
 - t-001
   global_id: t-40776
   teiginys: 'Dvinariai žąslai su skersinukais buvo būdingi tik Lietuvai.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys, o citatos antraštė jį pakankamai pagrindžia.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_place: Europa; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -56,9 +58,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Baltai]]
-- [[objektai/grupes/Baltų kovų brolija „Vilkatlakai“]]
-- [[objektai/daiktai/Dviašmenis kalavijas]]

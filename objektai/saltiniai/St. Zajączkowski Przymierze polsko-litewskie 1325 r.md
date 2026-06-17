@@ -29,6 +29,8 @@ Zajączkowski, St.
 - t-001
   global_id: t-31928
   teiginys: 'St. Zajączkowskio „Przymierze polsko-litewskie 1325 r.“ paskelbta 1926 m. „Kwartalnik Historyczny“ 40 tome, 567-617 puslapiuose.'
+  temporaliniai_duomenys: 'įvykio data: 1325 m.; įvykio data: apie 1325 m.; įvykio data: 1926 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   pagrindžia:
     - c-001
 

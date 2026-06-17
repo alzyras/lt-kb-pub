@@ -22,6 +22,8 @@ Sąjungininkai sustojo ties Laubner ežeru. Sąjungininku kariuomenė sustojo ar
 - t-001
   global_id: t-36349
   teiginys: 'Sąjungininkai sustojo ties Laubner ežeru.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rytas|Rytas]]'
   pagrindžia:
     - c-001
 

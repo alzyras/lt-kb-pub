@@ -20,9 +20,11 @@ Butkievičiaus kavalerijos brigada ir iki dienos pabaigos ji pasiekia Videniški
 - t-001
   global_id: t-41078
   teiginys: 'Plk. M. Butkievičiaus kavalerijos brigada prasiveržė į lietuvių užnugarį ir iki dienos pabaigos pasiekė Videniškio rajoną.'
+  sudarymo_pagrindimas: 'Sakinys pilnas, aiškus ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/J. Baranovskio brigada|J. Baranovskio brigada]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/brigada|brigada]]; mentioned_place: Giedraičiai; mentioned_place: Videniškis'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/grupes/J. Baranovskio brigada.md#claim-t-40892|J. Baranovskio brigada]]: Lapkričio 17 d. gen. J. Baranovskio brigada atakavo 2-ojo pėstininkų pulko pozicijas ir privertė lietuvius pasitraukti iš Giedraičių.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -37,9 +39,3 @@ Butkievičiaus kavalerijos brigada ir iki dienos pabaigos ji pasiekia Videniški
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/J. Baranovskio brigada]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/brigada]]

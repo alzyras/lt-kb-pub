@@ -5,6 +5,14 @@ saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1259 m.'
+  - '1272 m.'
+  - '1274 m.'
+  - '1275 m.'
+  - '1276 m.'
+  - '1279 m.'
+  - '1280 m.'
+  - '1281 m.'
+  - '1286 m.'
   - '1300 m.'
 date_start: '1259'
 date_end: '1300'
@@ -46,6 +54,11 @@ Nenurodyta
 - t-001
   global_id: t-66638
   teiginys: 'Kresmenos valsčiaus ieškoma ir į šiaurės rytus nuo Skomanto ežero, tarp Suvalkų ir Seinų.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas lietuviškas faktinis sakinys ir citata remia Kresmenos valsčiaus lokalizavimo pastabą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_person: [[objektai/asmenys/Liudvikas iš Libencelės|Liudvikas iš Libencelės]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Aukštutinė pilis; mentioned_place: Kresmena; mentioned_place: Marienburgas; mentioned_place: Nogatas; mentioned_place: Santyras; mentioned_place: Seinai; mentioned_place: Suvalkai; mentioned_place: Tepliava; mentioned_place: Volynė'
+  temporaliniai_duomenys: 'įvykio data: iki 1279 m.; įvykio data: 1259 m.; įvykio data: 1272 m.; įvykio data: 1274 m.; įvykio data: 1275 m.; įvykio data: 1276 m.; įvykio data: 1279 m.; įvykio data: 1280 m.; įvykio data: 1281 m.; įvykio data: 1286 m.; įvykio data: 1300 m.; įvykio data: apie 1300 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas lietuviškas faktinis sakinys ir citata remia Kresmenos valsčiaus lokalizavimo pastabą.'
   pagrindžia:
     - c-001
 
@@ -53,6 +66,8 @@ Nenurodyta
 - t-002
   global_id: t-66639
   teiginys: 'Grabnyčių dieną magistras Mangoldas su kariuomene įsiveržė į Sūduvos Kresmenos valsčių ir jį nusiaubė.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, bet citata palaiko aiškų įvykio aprašymą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Kresmena; mentioned_place: Sūduva'
   pagrindžia:
     - c-002
 
@@ -118,14 +133,3 @@ Nenurodyta
   pagrindžia:
     - t-002
     - t-003
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/ežeras]]
-
-### Susiję objektai
-- [[objektai/asmenys/Liudvikas]]
-- [[objektai/asmenys/Liudvikas iš Libencelės]]
-- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
-- [[objektai/zodynas/metraštis]]
-- [[objektai/zodynas/magistras]]

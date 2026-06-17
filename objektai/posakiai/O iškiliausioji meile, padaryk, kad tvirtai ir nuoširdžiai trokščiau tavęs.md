@@ -29,6 +29,8 @@ Dusburgietis teigia, kad kadangi ne tris kartus, bet daugelį kartų jis prašė
 - t-001
   global_id: t-59142
   teiginys: 'Dusburgietis pateikia vokišką šios maldos formą ir pasakoja, kad vienas brolis ją kasdien kalbėjo metus.'
+  sudarymo_pagrindimas: 'Teiginys apie posakio kalbinę formą ir vartojimą pagrįstas citata, bet pradinė formuluotė per ilga.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Deglas|Deglas]]'
   pagrindžia:
     - c-002
 
@@ -36,6 +38,11 @@ Dusburgietis teigia, kad kadangi ne tris kartus, bet daugelį kartų jis prašė
 - t-002
   global_id: t-59143
   teiginys: 'Dangaus balsas Albertui nurodė kasdien kalbėti maldą „O iškiliausioji meile, padaryk, kad tvirtai ir nuoširdžiai trokščiau tavęs“.'
+  sudarymo_pagrindimas: 'Citata leidžia pašalinti OCR intarpus ir suformuluoti vientisą sakinį.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Sidabro dirbiniai|Sidabro dirbiniai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1324 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata leidžia pašalinti OCR intarpus ir suformuluoti vientisą sakinį.'
   pagrindžia:
     - c-001
 
@@ -78,14 +85,3 @@ Dusburgietis teigia, kad kadangi ne tris kartus, bet daugelį kartų jis prašė
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/formulė]]
-
-### Susiję objektai
-- [[objektai/daiktai/Deglas]]
-- [[objektai/daiktai/Sidabro dirbiniai]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/komtūras]]
-- [[objektai/asmenys/Albertas iš Meiseno]]

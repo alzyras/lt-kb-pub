@@ -46,6 +46,8 @@ Nenurodyta
 - t-001
   global_id: t-71806
   teiginys: 'Prie Pagirių bažnytkaimio kariuomenė buvo sutikta papuoštu vieškeliu su vainikais, gėlių puokštėmis, vartais ir žmonių būriais.'
+  sudarymo_pagrindimas: 'Citata leidžia suformuluoti išsamų faktą apie papuoštą vieškelį.'
+  susije_objektai: 'mentioned_place: Pagiriai'
   pagrindžia:
     - c-002
 
@@ -53,6 +55,7 @@ Nenurodyta
 - t-002
   global_id: t-71807
   teiginys: 'Pražygiuojančiam batalionui linkėta ryžto ir sėkmės, o sutikimas tęsėsi apie penkis kilometrus.'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 
@@ -60,6 +63,7 @@ Nenurodyta
 - t-003
   global_id: t-71808
   teiginys: 'Vieškelis buvo papuoštas kartelėmis, vainikais, gėlių puokštėmis ir vartais.'
+  susije_objektai: 'mentioned_place: Pagiriai'
   pagrindžia:
     - c-002
 
@@ -67,6 +71,7 @@ Nenurodyta
 - t-004
   global_id: t-71809
   teiginys: 'Vietos gyventojai bėgo iš visų pusių pasitikti į miestelį su daina įžygiuojančios lietuvių kariuomenės.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-001
 
@@ -74,6 +79,7 @@ Nenurodyta
 - t-005
   global_id: t-71810
   teiginys: 'Papuoštu vieškeliu pražygiuojanti kariuomenė buvo organizuotai sutinkama apie penkis kilometrus.'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-004
 
@@ -129,7 +135,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-005
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]

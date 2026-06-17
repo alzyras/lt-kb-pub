@@ -15,6 +15,7 @@ tags:
   - dokumentas
   - seimas
   - tauta
+  - valstybė
 amziai:
   - 'XX'
 periodo_grupes:
@@ -32,9 +33,19 @@ Steigiamojo Seimo pirmininku išrinktas LŪS lyderis agronomas Aleksandras Stulg
 - t-001
   global_id: t-63438
   teiginys: 'Aleksandras Stulginskis buvo išrinktas Steigiamojo Seimo pirmininku, o 1922–1926 m. ėjo Lietuvos prezidento pareigas.'
+  sudarymo_pagrindimas: 'Teiginys per ilgas ir turi šalutinę informaciją apie kitą asmenį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1918 m.; įvykio data: 1922-1926; įvykio data: 1926 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys per ilgas ir turi šalutinę informaciją apie kitą asmenį.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Kazys Grinius.md#claim-t-183550|Kazys Grinius]]: Liaudininkas Kazys Grinius vadovavo birželio 19 d. sudarytai vyriausybei.
+- susijęs iš [[objektai/asmenys/Kazys Grinius.md#claim-t-19062|Kazys Grinius]]: Liaudininkas Kazys Grinius vadovavo birželio 19 d. sudarytai vyriausybei.
+- susijęs iš [[objektai/grupes/Steigiamasis seimas.md#claim-t-74950|Steigiamasis seimas]]: Steigiamasis Seimas 1922 m. rugpjūčio 1 d. Lietuvos Valstybės Konstitucijoje įtvirtino Prancūzijos III respublikos pavyzdžio demokratijos principus.
+- susijęs iš [[objektai/ivykiai/Steigiamojo Seimo nepriklausomybės proklamavimo dokumento priėmimas.md#claim-t-77915|Steigiamojo Seimo nepriklausomybės proklamavimo dokumento priėmimas]]: Steigiamasis Seimas vienbalsiai priėmė Lietuvos valstybės nepriklausomybės proklamavimo dokumentą.
+- susijęs iš [[objektai/posakiai/„etnologinėmis sienomis“.md#claim-t-183491|„etnologinėmis sienomis“]]: Steigiamasis Seimas vienbalsiai priėmė dokumentą, skelbusį Lietuvą nepriklausoma valstybe su „etnologinėmis sienomis“.
+- susijęs iš [[objektai/posakiai/„etnologinėmis sienomis“.md#claim-t-20892|„etnologinėmis sienomis“]]: Vasario 16 Aktas skelbė Lietuvą nepriklausoma valstybe su „etnologinėmis sienomis“.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -56,11 +67,3 @@ Steigiamojo Seimo pirmininku išrinktas LŪS lyderis agronomas Aleksandras Stulg
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/seimas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Steigiamasis seimas]]
-- [[objektai/ivykiai/Steigiamojo Seimo nepriklausomybės proklamavimo dokumento priėmimas]]
-- [[objektai/posakiai/„etnologinėmis sienomis“]]

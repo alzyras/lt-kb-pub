@@ -13,8 +13,6 @@ datos:
   - '1341 m.'
   - '1342 m.'
   - '1345 m.'
-  - '1346 m.'
-  - '1351 m.'
   - '1975 m.'
 date_start: '1140'
 date_end: '1975'
@@ -38,6 +36,11 @@ Dusburgietis teigia, kad preussisches Urkundenbuch: Politische Abtheilung.—Bd.
 - t-001
   global_id: t-61257
   teiginys: 'Pirmasis „Preussisches Urkundenbuch: Politische Abtheilung“ tomas apima 1140–1309 m. dokumentus.'
+  sudarymo_pagrindimas: 'Citata nurodo pirmojo tomo dalių chronologines ribas.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
+  temporaliniai_duomenys: 'įvykio data: 1140-1309; įvykio data: 1309 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata nurodo pirmojo tomo dalių chronologines ribas.'
   pagrindžia:
     - c-001
 

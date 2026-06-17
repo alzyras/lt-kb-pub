@@ -29,6 +29,11 @@ Nebu­ vo apie 1390 metus jokio Henriko Anglijos soste, o viešpatavo anuo tarpu
 - t-001
   global_id: t-87570
   teiginys: 'Apie 1390 m. Anglijoje viešpatavo Ričardas II, o prie Vilniaus buvo Henrikas Lankasteris, Jono de Gando sūnus.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiksliai remiasi citata apie Ričardą II ir Henriką Lankasterį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_group: [[objektai/grupes/Škotai|Škotai]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Ričardas (Kornvalijos grafas)|Ričardas (Kornvalijos grafas)]]; mentioned_place: Anglija; mentioned_place: Prūsija; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1390 m.; įvykio data: apie 1390 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir tiksliai remiasi citata apie Ričardą II ir Henriką Lankasterį.'
   pagrindžia:
     - c-002
 
@@ -36,6 +41,8 @@ Nebu­ vo apie 1390 metus jokio Henriko Anglijos soste, o viešpatavo anuo tarpu
 - t-002
   global_id: t-87571
   teiginys: 'Henrikas Lankasteris po devynerių metų nuvertė Ričardą II nuo sosto ir ėmė viešpatauti Henriko IV vardu.'
+  sudarymo_pagrindimas: 'Citata pagrindžia Ričardo II nuvertimą ir Henriko IV įsigalėjimą.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Henrikas Lankasteris|Henrikas Lankasteris]]; mentioned_person: [[objektai/asmenys/Ričardas (Kornvalijos grafas)|Ričardas (Kornvalijos grafas)]]; mentioned_place: Anglija; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
 
@@ -88,12 +95,3 @@ Nebu­ vo apie 1390 metus jokio Henriko Anglijos soste, o viešpatavo anuo tarpu
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/Henrikas]]
-- [[objektai/grupes/Prancūzai]]
-- [[objektai/asmenys/Ričardas (Kornvalijos grafas)]]
-- [[objektai/grupes/Škotai]]
-- [[objektai/asmenys/Henrikas Lankasteris]]
-- [[objektai/asmenys/Jonas de Gandas]]

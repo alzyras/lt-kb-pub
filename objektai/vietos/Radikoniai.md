@@ -20,6 +20,8 @@ Kairioji vora puolimą pradėjo ## Puslapis 183 sėkmingai, tačiau ties Radikon
 - t-001
   global_id: t-42075
   teiginys: 'Ties Radikonių dvaru kairioji vora sutiko stiprų bolševikų pasipriešinimą, per kurį žuvo kolonos vadas karininkas J. Nastopka.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Radikonių dvarą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/vora|vora]]'
   pagrindžia:
     - c-001
 

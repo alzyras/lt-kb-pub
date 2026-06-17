@@ -26,6 +26,11 @@ Daugel krito sūnų...
 - t-001
   global_id: t-80757
   teiginys: 'A. Ramanausko-Vanago „Daugel krito sūnų...“ paskelbta leidinyje „Partizanų gretose“, išleistame Vilniuje 2007 m.'
+  sudarymo_pagrindimas: 'Citata yra bibliografinė, bet palaiko konkretų faktą apie šaltinio publikaciją.'
+  susije_objektai: 'mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 2007 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata yra bibliografinė, bet palaiko konkretų faktą apie šaltinio publikaciją.'
   pagrindžia:
     - c-001
 

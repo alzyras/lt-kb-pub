@@ -4,9 +4,10 @@ pavadinimas: 'M. K. Pacas'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
+  - '1660 m.'
   - '1665 m.'
-date_start: '1665'
-date_end: ''
+date_start: '1660'
+date_end: '1665'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -29,6 +30,11 @@ M. K. Pacas žuvo 1665 metais prie Mogiliavo, kai miestą buvo apgulę lauko etm
 - t-001
   global_id: t-40314
   teiginys: 'Lauko etmono M. K. Paco kariai 1665 metais buvo apgulę Mogiliavą.'
+  sudarymo_pagrindimas: 'Teiginys glaustai ir gramatiškai perteikia citatoje nurodytą faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_place: Mogiliavas'
+  temporaliniai_duomenys: 'įvykio data: 1660 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys glaustai ir gramatiškai perteikia citatoje nurodytą faktą.'
   pagrindžia:
     - c-001
 
@@ -48,7 +54,3 @@ M. K. Pacas žuvo 1665 metais prie Mogiliavo, kai miestą buvo apgulę lauko etm
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Radvilos]]

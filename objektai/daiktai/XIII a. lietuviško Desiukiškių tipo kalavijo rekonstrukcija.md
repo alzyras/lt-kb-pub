@@ -20,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-XIII a. lietuviško Desiukiškių tipo kalavijo rekonstrukciją atliko Lietuvos kariuomenės Garbės sargybos kuopa.
+lietuviško Desiukiškių tipo kalavijo rekonstrukcija, Lietuvos kariuomenės, Garbės sargybos kuopos rekonstrukcija, Giedrės Maksimovicz nuotr.
 
 ## Pavadinimai šaltiniuose
 
@@ -48,6 +48,8 @@ Nenurodyta
 - t-001
   global_id: t-40800
   teiginys: 'XIII a. lietuviško Desiukiškių tipo kalavijo rekonstrukciją atliko Lietuvos kariuomenės Garbės sargybos kuopa.'
+  sudarymo_pagrindimas: 'Pradinis teiginys per neapibrėžtai vartojo „siejama“, nors citata leidžia tiksliau nusakyti rekonstrukciją.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -64,7 +66,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Kalavijas]]

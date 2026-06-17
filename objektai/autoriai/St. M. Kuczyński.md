@@ -3,10 +3,19 @@ tipas: autorius
 pavadinimas: 'St. M. Kuczyński'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+datos:
+  - '1936 m.'
+  - '1955 m.'
+date_start: '1936'
+date_end: '1955'
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'modernioji Lietuva'
 ---
 # St. M. Kuczyński
 
@@ -20,6 +29,9 @@ Kuczyński, S. Kuczyński : Wielka wojna z Zakonem Krzyżackim w latach 1409-11 
 - t-001
   global_id: t-30994
   teiginys: 'St. M. Kuczyński 1955 m. Varšuvoje paskelbė veikalą „Wielka wojna z Zakonem Krzyżackim w latach 1409-11“.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/J. Jakubovskis|J. Jakubovskis]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Liublinas; mentioned_place: Varšuva'
+  temporaliniai_duomenys: 'įvykio data: 1955 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 
@@ -27,6 +39,9 @@ Kuczyński, S. Kuczyński : Wielka wojna z Zakonem Krzyżackim w latach 1409-11 
 - t-002
   global_id: t-30995
   teiginys: 'St. M. Kuczyński 1936 m. Varšuvoje paskelbė darbą „Antymoskiewska inicjatywa Litwy w drugiej połowie XIV wieku“.'
+  susije_objektai: 'mentioned_place: Varšuva'
+  temporaliniai_duomenys: 'įvykio data: 1936 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

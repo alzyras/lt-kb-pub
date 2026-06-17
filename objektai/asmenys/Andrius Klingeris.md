@@ -18,6 +18,11 @@ Andrius Klingeris buvo jėzuitų Lietuvos provincijos viršininkas ir pasirašė
 - t-001
   global_id: t-186180
   teiginys: 'Andrius Klingeris buvo jėzuitų Lietuvos provincijos viršininkas ir pasirašė leidimą spausdinti pirmąją „Lietuvos istorijos“ dalį.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Sakinys aiškus, gramatiškas ir paremtas citata.'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

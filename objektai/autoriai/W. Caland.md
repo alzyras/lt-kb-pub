@@ -28,6 +28,8 @@ Caland, W.
 - t-001
   global_id: t-31058
   teiginys: 'W. Caland parašė darbą „Die vorgeschichtlichen baltischen Totengebräuche“, paskelbtą ARW 1914 m.'
+  temporaliniai_duomenys: 'įvykio data: 1914 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

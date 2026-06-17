@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Lietuvoje žydai, lietuvių malonybiškai ir pašaipiai vadinti „mūsų žydeliais“, garsėjo visuotiniu raštingumu ir pomėgiu knygai.
+Malonybiškai ir kartu pašaipiai lietuvių vadinami „mūsų žydeliai“ (dėl to, kad nebuvo aukšto ūgio ir užsiėmė valstiečių neigiamai vertinama prekyba, o ne „rimtu“ darbu) garsėjo visuotiniu raštingumu, pomėgiu knygai ir tuo atžvilgiu buvo geras pavyzdys.
 
 ## Teiginiai
 
@@ -21,9 +21,14 @@ Lietuvoje žydai, lietuvių malonybiškai ir pašaipiai vadinti „mūsų žydel
 - t-001
   global_id: t-20920
   teiginys: 'Lietuvoje žydai, lietuvių malonybiškai ir pašaipiai vadinti „mūsų žydeliais“, garsėjo visuotiniu raštingumu ir pomėgiu knygai.'
+  sudarymo_pagrindimas: 'Teiginys yra enciklopedinis sakinys apie posakį ir remiasi citatos faktais.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/asmenys/Pavyzdys|Pavyzdys]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/grupes/Žydai.md#claim-t-117406|Žydai]]: Šimtmečius Lietuvoje nebuvo aršaus antisemitizmo, nes lietuvių valstiečiai ir žydų pirkliai buvo tarpusavyje priklausomi.
+- susijęs iš [[objektai/paprociai/Žydų ir lietuvių ūkinės priklausomybės ir kalbinio bendravimo modelis.md#claim-t-77964|Žydų ir lietuvių ūkinės priklausomybės ir kalbinio bendravimo modelis]]: Lietuvoje lietuvių valstiečiai ir žydų pirkliai buvo ūkiškai priklausomi vieni nuo kitų.
+- susijęs iš [[objektai/zodynas/Antisemitizmas.md#claim-t-75540|Antisemitizmas]]: Šimtmečius Lietuvoje aršaus antisemitizmo nebuvo dėl abipusės lietuvių valstiečių ir žydų pirklių ekonominės priklausomybės.
+- susijęs iš [[objektai/zodynas/Antisemitizmas.md#claim-t-75541|Antisemitizmas]]: Šimtmečius Lietuvoje nebuvo aršaus antisemitizmo, nes lietuvių valstiečiai ir žydų pirkliai buvo tarpusavyje priklausomi.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -46,11 +51,3 @@ Lietuvoje žydai, lietuvių malonybiškai ir pašaipiai vadinti „mūsų žydel
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Žydai]]
-- [[objektai/zodynas/Antisemitizmas]]
-- [[objektai/paprociai/Žydų ir lietuvių ūkinės priklausomybės ir kalbinio bendravimo modelis]]

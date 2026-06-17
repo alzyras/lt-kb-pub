@@ -18,7 +18,7 @@ amziai:
 
 ## Santrauka
 
-V. T. Pašuto „Očerki po istorii Galicko-Volynskoj Rusi“ išleista Maskvoje 1950 m. V. T. Pašuto veikalas „Očerki po istorii Galicko-Volynskoj Rusi“ buvo išleistas 1950 m.
+Pašuto, Očerki po istorii Galicko-Volynskoj Rusi , 1950, 259. Pašuto, V.
 
 ## Teiginiai
 
@@ -26,6 +26,9 @@ V. T. Pašuto „Očerki po istorii Galicko-Volynskoj Rusi“ išleista Maskvoje
 - t-001
   global_id: t-31954
   teiginys: 'V. T. Pašuto „Očerki po istorii Galicko-Volynskoj Rusi“ išleista Maskvoje 1950 m.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/V. T. Pašuto|V. T. Pašuto]]; mentioned_place: Maskva'
+  temporaliniai_duomenys: 'įvykio data: 1950 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 
@@ -33,6 +36,11 @@ V. T. Pašuto „Očerki po istorii Galicko-Volynskoj Rusi“ išleista Maskvoje
 - t-002
   global_id: t-31955
   teiginys: 'V. T. Pašuto veikalas „Očerki po istorii Galicko-Volynskoj Rusi“ buvo išleistas 1950 m.'
+  sudarymo_pagrindimas: 'Reikia pataisyti sakinio gramatiką, o bibliografinė nuoroda remia leidimo metus.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Albertas (Rygos vyskupas)|Albertas (Rygos vyskupas)]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_person: [[objektai/autoriai/V. T. Pašuto|V. T. Pašuto]]; mentioned_place: Europa; mentioned_place: Livonija; mentioned_place: Padauguvis; mentioned_place: Ryga'
+  temporaliniai_duomenys: 'įvykio data: 1950 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia pataisyti sakinio gramatiką, o bibliografinė nuoroda remia leidimo metus.'
   pagrindžia:
     - c-001
 

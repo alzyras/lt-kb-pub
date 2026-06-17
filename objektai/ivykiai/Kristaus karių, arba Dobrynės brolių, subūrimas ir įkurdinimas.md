@@ -5,6 +5,11 @@ saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1216 m.'
+  - '1217 m.'
+  - '1223 m.'
+  - '1225 m.'
+  - '1228 m.'
+  - '1235 m.'
   - '1248 m.'
 date_start: '1216'
 date_end: '1248'
@@ -46,6 +51,11 @@ Nenurodyta
 - t-001
   global_id: t-66640
   teiginys: 'Kunigaikštis Kristaus karių ordinui perdavė Dobrynės pilį ir žemės plotą Kujavijoje, vadintą Sedlcais.'
+  sudarymo_pagrindimas: 'Pradinis teiginys remiasi išnašos triukšmu; citata palaiko įkurdinimo faktą.'
+  susije_objektai: 'territory: Dobrynė; territory: Kujavija; territory: Mazovija; territory: Oliva; territory: Prūsai; territory: Prūsija; territory: Sedlcai; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_object: [[objektai/zodynas/pagonys|pagonys]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_place: Dobrynė; mentioned_place: Kujavija; mentioned_place: Mazovija; mentioned_place: Oliva; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Sedlcai'
+  temporaliniai_duomenys: 'valdymo laikotarpis: 1217 m.; valdymo laikotarpis: 1223 m.; valdymo laikotarpis: 1225 m.; valdymo laikotarpis: 1228 m.; valdymo laikotarpis: 1235 m.; valdymo laikotarpis: 1248 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Konradas buvo valdovas Dobrynė“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Konradas buvo valdovas Kujavija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Konradas buvo valdovas Mazovija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Konradas buvo valdovas Oliva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Konradas buvo valdovas Prūsai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Konradas buvo valdovas Prūsija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Konradas buvo valdovas Sedlcai“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys remiasi išnašos triukšmu; citata palaiko įkurdinimo faktą.'
   pagrindžia:
     - c-001
 
@@ -53,6 +63,8 @@ Nenurodyta
 - t-002
   global_id: t-66641
   teiginys: 'Kunigaikštis, patartas vyskupo Kristijono ir kai kurių didikų, savo žemei ginti subūrė Kristaus kariais vadintus brolius.'
+  sudarymo_pagrindimas: 'Pradinis teiginys negramatiškas ir su šaltinio fragmentais; citata palaiko aiškų sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_place: Livonija; mentioned_place: Palenkė; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Viena'
   pagrindžia:
     - c-002
 
@@ -117,18 +129,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Kalavijas]]
-- [[objektai/asmenys/Konradas]]
-- [[objektai/asmenys/Kristijonas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/netikėliai]]
-- [[objektai/zodynas/pagonys]]
-- [[objektai/daiktai/Baltas apsiaustas su raudonu kalaviju bei žvaigžde]]
-- [[objektai/asmenys/Brunonas]]
-- [[objektai/grupes/Dobrynės broliai]]
-- [[objektai/asmenys/Konradas (Mazovijos kunigaikštis)]]
-- [[objektai/zodynas/Kristaus kariai]]

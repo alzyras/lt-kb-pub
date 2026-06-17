@@ -38,6 +38,8 @@ Nenurodyta
 - t-001
   global_id: t-08361
   teiginys: 'Lazda buvo naudojama kaip vyresnybės įsakymų skelbimo ženklas.'
+  teiginio_tipas: 'faktas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalnėnai|Kalnėnai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]'
   pagrindžia:
     - c-001
 
@@ -45,6 +47,8 @@ Nenurodyta
 - t-002
   global_id: t-08362
   teiginys: 'Lazda siejama su krive krivaičiu ir kreiva lazda.'
+  teiginio_tipas: 'faktas'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Šaldros|Šaldros]]'
   pagrindžia:
     - c-002
 
@@ -52,6 +56,9 @@ Nenurodyta
 - t-003
   global_id: t-55773
   teiginys: 'Kūrėjų kūrėjas paėmė ūkės lazdą ir vienas pats valdė tautą kaip anksčiau.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir remiasi citatoje nurodytu veiksmu.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Kūrėjų kūrėjas|Kūrėjų kūrėjas]]; mentioned_object: [[objektai/zodynas/Žynių titulai ir pareigybės|Žynių titulai ir pareigybės]]'
   pagrindžia:
     - c-003
 
@@ -92,12 +99,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kalnėnai]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/Kūrėjų kūrėjas|kūrėjų kūrėjas]]
-- [[objektai/zodynas/Šaldros|šaldros]]
-- [[objektai/grupes/Žemaičiai]]

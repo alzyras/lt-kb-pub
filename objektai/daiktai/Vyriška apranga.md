@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Emilija Pliaterytė sukilėlių daliniuose kovėsi vilkėdama vyrišką aprangą ir jodama ant žirgo.
+Sukilimo legenda tapo jauna dvarininkaitė Emilija Pliaterytė (Emilia Plater-Broel), kovojusi su vyriška apranga ir ant žirgo.
 
 ## Pavadinimai šaltiniuose
 
@@ -41,6 +41,8 @@ Nenurodyta
 - t-001
   global_id: t-19610
   teiginys: 'Emilija Pliaterytė sukilėlių daliniuose kovėsi vilkėdama vyrišką aprangą ir jodama ant žirgo.'
+  sudarymo_pagrindimas: 'Perrašyta kaip aiškus faktas apie vyriškos aprangos naudojimą, pašalinant platesnį kontekstą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Rusija'
   pagrindžia:
     - c-001
 
@@ -59,7 +61,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]

@@ -1,27 +1,19 @@
 ---
 tipas: posakis
-pavadinimas: "Verbų sekmadieni"
-sukurta: '2026-06-16'
-variantai: []
-aliases: []
+pavadinimas: 'Verbų sekmadieni'
 saltiniai:
-  - Lietuvos metraštis, Bychovco kronika (1971 m.)
-bukle: juodrastis
-laikotarpis: "1440 m. kovo 20 d."
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 datos:
-  - "1440 m. kovo 20 d."
-periodas: ""
-periodo_grupes: []
-amziai:
-  - "XV"
+  - '1440 m.'
+  - '1490 m.'
+  - '1971 m.'
 date_start: '1440'
-date_end: '1440'
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: ""
-atnaujinta: '2026-06-16'
-tags: []
+date_end: '1971'
+sukurta: ''
+atnaujinta: ''
+amziai:
+  - 'XV'
+  - 'XX'
 ---
 # Verbų sekmadieni
 
@@ -30,27 +22,36 @@ tags: []
 „Verbų sekmadieni“ šiame leidinyje pateikiama kaip liturginio kalendoriaus datavimo formulė, susieta su 1440 m. kovo 20 d.
 
 ## Forma
+
 - Pagrindinė forma: Verbų sekmadieni
 
 ## Kontekstas ir vartojimas
+
 Formulė nurodoma aiškinamojoje pastaboje prie 1440 m. įvykių datavimo.
 
 ## Reikšmė
+
 Bažnytinio kalendoriaus data nusakanti formulė.
 
 ## Teiginiai
+
 <a id="claim-t-186893"></a>
 - t-001
   global_id: t-186893
-  teiginys: 'Šiame leidinyje formulė „Verbų sekmadieni“ aiškinama kaip 1440 m. kovo 20 d. nuoroda.'
+  teiginys: 'Formulė „Verbų sekmadieni“ 1971 m. leidinio pastaboje aiškinama kaip 1440 m. kovo 20 d. data.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Reikia aiškaus predikato ir tikslesnio datos nusakymo.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Skabeika|Skabeika]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Haličas; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1440 m.; įvykio data: 1490 m.; įvykio data: 1971 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia aiškaus predikato ir tikslesnio datos nusakymo.'
   pagrindžia:
     - c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Šiame leidinyje formulė „Verbų sekmadieni“ aiškinama kaip 1440 m. kovo 20 d. nuoroda.'
+  santrauka: 'Formulė „Verbų sekmadieni“ 1971 m. leidinio pastaboje aiškinama kaip 1440 m. kovo 20 d. data.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     1 5  Pasak M. Strijkovskio, Skabeika buvo Žygimanto Kęstutai­
@@ -65,18 +66,8 @@ Bažnytinio kalendoriaus data nusakanti formulė.
     versiją y ra prasimanęs XV a. rašytojas Enėjas Silvijus Pikolominl:
     jis tgini tą lokį Lietuvos aprašyme, knygoje „Historiae Europae“
     (Išleistoje pirmą kartą 1490 m ).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Rusai]]
-- [[objektai/asmenys/Skabeika]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/asmenys/Švitrigaila]]
-- [[objektai/asmenys/Žygimantas]]

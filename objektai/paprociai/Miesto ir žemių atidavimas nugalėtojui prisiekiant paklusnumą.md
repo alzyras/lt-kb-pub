@@ -33,6 +33,11 @@ Nenurodyta
 - t-001
   global_id: t-185877
   teiginys: 'Apsupto Kijevo rusai nutarė patys atiduoti pilį ir miestą, manydami, kad pasidavę išsaugos bent nugalėtojo valdomą valstybę.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir suformuluotas pilnas sakinys.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Kijevas'
   pagrindžia:
     - c-001
 
@@ -40,6 +45,11 @@ Nenurodyta
 - t-002
   global_id: t-185878
   teiginys: 'Kijevo luomai, išėję iš miesto, pasveikino Gediminą kaip Kijevo ir Rusios didįjį kunigaikštį ir prisiekė su visomis žemėmis paklusti jo valdžiai.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra išsamus, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/posakiai/Kijevo ir Rusios didįjį kunigaikštį|Kijevo ir Rusios didįjį kunigaikštį]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Kijevas; mentioned_place: Severskas; mentioned_place: Čerkasai'
   pagrindžia:
     - c-002
 
@@ -91,10 +101,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Gediminas]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/posakiai/Kijevo ir Rusios didįjį kunigaikštį]]
-- [[objektai/posakiai/Verčiau pasiduodant išsaugoti šiokią tokią valstybę]]

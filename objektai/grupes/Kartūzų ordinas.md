@@ -29,9 +29,12 @@ Dusburgietis teigia, kad kartūzų ordinas — 1082 viešpaties metais popiežia
 - t-001
   global_id: t-63007
   teiginys: 'Kartūzų ordinas datuojamas 1082 metais, popiežiaus Viktoro III laikais.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Cistersų ordinas|Cistersų ordinas]]; mentioned_group: [[objektai/grupes/Švento Jono ligoninės ordinas|Švento Jono ligoninės ordinas]]'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/grupes/Kluniečių ordinas.md#claim-t-63010|Kluniečių ordinas]]: Kluniečių ordinas datuojamas 900 Viešpaties metais, popiežiaus Adrijono III laikais.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -46,9 +49,3 @@ Dusburgietis teigia, kad kartūzų ordinas — 1082 viešpaties metais popiežia
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Cistersų ordinas]]
-- [[objektai/grupes/Švento Jono ligoninės ordinas]]
-- [[objektai/grupes/Kluniečių ordinas]]

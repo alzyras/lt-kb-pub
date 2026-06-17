@@ -40,6 +40,7 @@ Reikšmė aiški iš citatos konteksto ir neplečiama už tiesioginio šaltinio 
 - t-001
   global_id: t-55190
   teiginys: 'Gedimino laiško vertime pažado tvirtumas išreiškiamas formule, kad pirmiau geležis pasikeis į vašką ir vanduo pavirs plienu, negu bus atšauktas ištartas žodis.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_object: [[objektai/daiktai/Vaškas|Vaškas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Saksonija'
   pagrindžia:
     - c-001
 
@@ -47,6 +48,8 @@ Reikšmė aiški iš citatos konteksto ir neplečiama už tiesioginio šaltinio 
 - t-002
   global_id: t-55191
   teiginys: 'Posakiu „Pirmiau geležis pasikeis į vašką ir vanduo pavirs plienu“ pabrėžta, kad duotas žodis nebus atšauktas.'
+  sudarymo_pagrindimas: 'Pradinė formuluotė nenurodo paties posakio, o citata leidžia aiškiai nusakyti jo funkciją.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_object: [[objektai/daiktai/Vaškas|Vaškas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Saksonija'
   pagrindžia:
     - c-001
 
@@ -54,6 +57,11 @@ Reikšmė aiški iš citatos konteksto ir neplečiama už tiesioginio šaltinio 
 - t-003
   global_id: t-82144
   teiginys: 'Posakiu „pirma geležis į vašką, o vanduo į plieną pavirs“ 1323 m. laiškuose teigta, kad duotas žodis nebus sulaužytas ar atšauktas.'
+  sudarymo_pagrindimas: 'Teiginyje yra OCR triukšmo, bet citata pagrindžia glaustą sakinį apie posakio vartojimą pažadui sutvirtinti.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]'
+  temporaliniai_duomenys: 'įvykio data: 1323 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginyje yra OCR triukšmo, bet citata pagrindžia glaustą sakinį apie posakio vartojimą pažadui sutvirtinti.'
   pagrindžia:
     - c-002
 
@@ -106,15 +114,3 @@ Reikšmė aiški iš citatos konteksto ir neplečiama už tiesioginio šaltinio 
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Antspaudas]]
-- [[objektai/asmenys/Gediminas]]
-- [[objektai/daiktai/Vaškas]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/daiktai/Gedimino antspaudas]]
-- [[objektai/posakiai/Pirma geležis į vašką, o vanduo į plieną pavirs]]
-- [[objektai/posakiai/Tiesos nedraugas, velnio garbintojas, tikėjimo priešas]]

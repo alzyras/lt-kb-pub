@@ -30,6 +30,11 @@ Dusburgietis teigia, kad šitai padaryta apie 1226 (1230) viešpaties metus173, 
 - t-001
   global_id: t-60462
   teiginys: 'Dekanas Vilhelmas dalyvavo kaip liudytojas tvirtinant apie 1226 arba 1230 m. sudarytą Kulmo ir Lubavos žemių dovanojimą Ordinui.'
+  sudarymo_pagrindimas: 'Iš sąrašo suformuluotas faktinis sakinys apie Vilhelmą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Agota|Agota]]; mentioned_person: [[objektai/asmenys/Grigalius (vicekancleris)|Grigalius (vicekancleris)]]; mentioned_person: [[objektai/asmenys/Vilhelmas|Vilhelmas]]; mentioned_place: Kujavija; mentioned_place: Kulmas; mentioned_place: Lubava; mentioned_place: Mazovija; mentioned_place: Prūsija'
+  temporaliniai_duomenys: 'įvykio data: 1230 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Iš sąrašo suformuluotas faktinis sakinys apie Vilhelmą.'
   pagrindžia:
     - c-001
 
@@ -57,18 +62,3 @@ Dusburgietis teigia, kad šitai padaryta apie 1226 (1230) viešpaties metus173, 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Agota|Agota (kunigaikščio žmona, XIII a.)]]
-- [[objektai/asmenys/Grigalius (vicekancleris)]]
-- [[objektai/grupes/Teutonai]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Vilhelmas]]
-- [[objektai/asmenys/Boguslavas (jaunesnysis Dirsovijos grafas)]]
-- [[objektai/asmenys/Boguslavas (vyresnysis Dirsovijos grafas)]]
-- [[objektai/asmenys/Gernuldas]]
-- [[objektai/asmenys/Giunteris (Mazovijos vyskupas)]]
-- [[objektai/asmenys/Jonas (kancleris)]]
-- [[objektai/ivykiai/Kulmo ir Lubavos žemių dovanojimas Teutonų namų ordino broliams]]
-- [[objektai/asmenys/Mykolas (Kujavijos vyskupas)]]

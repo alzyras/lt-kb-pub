@@ -44,6 +44,12 @@ Nenurodyta
 - t-001
   global_id: t-62837
   teiginys: '1315 m. rugsėjį Vytenis su karo vyrais apsupo Kristmemelio pilį ir 17 dienų ją puolė apgulos mašinomis bei šauliais.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Pradinis teiginys turi antraštės ir šaltinio formuluočių triukšmo; citata palaiko aiškų sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Vytenis|Vytenis]]; mentioned_place: Kristmemelis; mentioned_place: Semba'
+  temporaliniai_duomenys: 'įvykio data: 1315 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys turi antraštės ir šaltinio formuluočių triukšmo; citata palaiko aiškų sakinį.'
   pagrindžia:
     - c-001
 
@@ -51,6 +57,9 @@ Nenurodyta
 - t-002
   global_id: t-62838
   teiginys: 'Septynioliktą apgulties dieną lietuviai bandė sudeginti Kristmemelio pilį, bet nepasiekę tikslo pasitraukė.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir neaiškus; citata palaiko glaustą baigtį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_place: Kristmemelis'
   pagrindžia:
     - c-002
 
@@ -91,11 +100,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/netikėliai]]
-- [[objektai/asmenys/Vytenis]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

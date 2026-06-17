@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Konradas iš Tirbergo su didele kariuomene perėjo užšalusį Nemuną, puolė Bisenės pilį, įsiveržė į ją ir sudegino. Kita kariuomenės dalis nusiaubė Bisenės pilies apylinkes ugnimi ir su dideliu grobiu sugrįžo atgal.
+Dusburgietis teigia, kad apie Lietuvos pilies, vardu Bisenė, užkariavimą Brolis Konradas iš Tirbergo, minėtasis Prūsijos žemės magistras, ir daugybė brolių, su didele kariuomene perėję žiemos metu užšalusį Nemuną ir, įsiveržę į Lietuvos žemę, nuo ryto iki pietų smarkiai puolė pilį. Dusburgietis teigia, kad kita kariuomenės dalis įsibrovė į šios pilies apylinkes ir, nusiaubusi kraštą ugnimi, su didžiausiu grobiu sugrįžo atgal.
 
 ## Laikotarpis ir datos
 
@@ -39,6 +39,8 @@ Nenurodyta
 - t-001
   global_id: t-66499
   teiginys: 'Konradas iš Tirbergo su didele kariuomene perėjo užšalusį Nemuną, puolė Bisenės pilį, įsiveržė į ją ir sudegino.'
+  sudarymo_pagrindimas: 'Reikia neutralesnės, enciklopedinės formuluotės vietoje vaizdingo posakio „pavertė pelenais“.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Bisenė; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Pilėnai; mentioned_place: Prūsija'
   pagrindžia:
     - c-002
 
@@ -46,6 +48,8 @@ Nenurodyta
 - t-002
   global_id: t-66500
   teiginys: 'Kita kariuomenės dalis nusiaubė Bisenės pilies apylinkes ugnimi ir su dideliu grobiu sugrįžo atgal.'
+  sudarymo_pagrindimas: 'Išplėsta neaiški nuoroda į Bisenės pilį ir paliktas citatos remiamas faktas.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_place: Bisenė; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
 
@@ -87,11 +91,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Ginklai]]
-- [[objektai/asmenys/Konradas]]
-- [[objektai/grupes/Rytas]]
-- [[objektai/zodynas/Adynos|adynos]]
-- [[objektai/asmenys/Konradas iš Tirbergo Jaunesnysis]]

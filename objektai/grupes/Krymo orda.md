@@ -14,6 +14,7 @@ tags:
   - grupe
   - karalius
   - kunigaikštis
+  - miestas
 amziai:
   - 'XVI'
 ---
@@ -29,6 +30,8 @@ Krymo totorių orda, Ivano Vasiljevičiaus pakurstyta, ėmė puldinėti žemes, 
 - t-001
   global_id: t-86726
   teiginys: 'Krymo totorių orda, Ivano Vasiljevičiaus pakurstyta, ėmė puldinėti žemes, paklūstančias Aleksandro skeptrui, ir kilo grėsmė Kijevui.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai pagrįstas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Rusų pirkliai|Rusų pirkliai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]; mentioned_place: Kijevas; mentioned_place: Krymas'
   pagrindžia:
     - c-003
 
@@ -36,6 +39,11 @@ Krymo totorių orda, Ivano Vasiljevičiaus pakurstyta, ėmė puldinėti žemes, 
 - t-002
   global_id: t-86727
   teiginys: '1506 m. rugpjūtį Lietuvos pajėgos ties Klecku pasiekė pergalę prieš gausius Krymo ordos karių būrius.'
+  sudarymo_pagrindimas: 'Pašalintas vertinamasis ir OCR triukšmas, paliktas aiškus faktas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Kariauna|Kariauna]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Krymas; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1506 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas vertinamasis ir OCR triukšmas, paliktas aiškus faktas.'
   pagrindžia:
     - c-002
 
@@ -43,6 +51,8 @@ Krymo totorių orda, Ivano Vasiljevičiaus pakurstyta, ėmė puldinėti žemes, 
 - t-003
   global_id: t-86728
   teiginys: 'Krymo chano sūnūs su 20 000 totorių, pakeliui plėšdami ir degindami, priartėjo prie Lydos.'
+  sudarymo_pagrindimas: 'Citata pagrindžia konkretų Krymo ordos veiksmą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/daiktai/Aleksandro lektika|Aleksandro lektika]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_person: [[objektai/asmenys/Kiška|Kiška]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Krymas; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -50,6 +60,9 @@ Krymo totorių orda, Ivano Vasiljevičiaus pakurstyta, ėmė puldinėti žemes, 
 - t-004
   global_id: t-86729
   teiginys: 'Krymo ir Nogajaus ordų pasiuntiniai už Vilniaus sienų laukė karaliaus, kai šis atvyko į Vilnių tvarkyti totorių reikalų.'
+  sudarymo_pagrindimas: 'Teiginys sutvarkytas į sklandų sakinį be laužytų žodžių.'
+  susije_objektai: 'location: Krymas; location: Liublinas; location: Vilnius; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Krymas; mentioned_place: Liublinas; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Krymo orda|Krymo orda]] keliavo į Krymas; [[objektai/grupes/Krymo orda|Krymo orda]] keliavo į Liublinas; [[objektai/grupes/Krymo orda|Krymo orda]] keliavo į Vilnius'
   pagrindžia:
     - c-004
 
@@ -146,20 +159,6 @@ Krymo totorių orda, Ivano Vasiljevičiaus pakurstyta, ėmė puldinėti žemes, 
     - t-004
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Aleksandro lektika]]
-- [[objektai/grupes/Bajorai]]
-- [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]
-- [[objektai/asmenys/Kiška]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/grupes/Rusų pirkliai]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)]]
-- [[objektai/zodynas/ponai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/chanas]]
-- [[objektai/asmenys/Ivanas Vasiljevičius]]
-- [[objektai/asmenys/Mykolas Glinskis]]
-- [[objektai/grupes/Nogajaus orda]]
-- [[objektai/daiktai/Šach Achmedo palapinės prie Vilniaus]]
+- Krymo orda keliavo_i [[objektai/vietos/Krymas]]
+- Krymo orda keliavo_i [[objektai/vietos/Liublinas]]
+- Krymo orda keliavo_i [[objektai/vietos/Vilnius]]

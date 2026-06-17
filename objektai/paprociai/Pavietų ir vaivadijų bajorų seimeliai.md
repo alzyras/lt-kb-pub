@@ -33,42 +33,28 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 <a id="claim-t-02002"></a>
 - t-001
   global_id: t-02002
-  teiginys: 'Seimeliuose bajorija svarstydavo savo reikalus, rinkdavo teismą, kitus urėdus ir atstovus į seimą.'
+  teiginys: 'Vėliau seimeliai buvo šaukiami atskiriems reikalams ir turėjo skirtingus vardus pagal atliekamą funkciją.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, o citata leidžia glaustai apibendrinti esmę.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/pavietas|pavietas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+
 <a id="claim-t-02003"></a>
 - t-002
   global_id: t-02003
-  teiginys: 'Vėliau seimeliai buvo šaukiami atskiriems reikalams ir turėjo skirtingus vardus pagal atliekamą funkciją.'
+  teiginys: 'Seimeliuose bajorija svarstydavo savo reikalus, rinkdavo teismą, kitus urėdus ir atstovus į seimą.'
+  sudarymo_pagrindimas: 'Pradinis teiginys tėra antraštė be faktinio predikato.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/pavietas|pavietas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/urėdas|urėdas]]'
   pagrindžia:
     - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Seimeliuose bajorija svarstydavo savo reikalus, rinkdavo teismą, kitus urėdus ir atstovus į seimą.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Seimeliai. Žemės teismams rinkti buvo įvesti viso pavieto
-    arba vaivadijos bajorų suvažiavimai, vadinami seimeliais.
-    Seimeliuose bajorija apsvarstydavo savo reikalus, išsirinkdavo
-    teismą ir kitus urėdus. Taip pat seimeliuose buvo renkami at-
-    stovai į seimą ir surašomos jiems instrukcijos.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Vėliau seimeliai buvo šaukiami atskiriems reikalams ir turėjo skirtingus vardus pagal atliekamą funkciją.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Seimeliuose bajorija apsvarstydavo savo reikalus, išsirinkdavo
@@ -81,18 +67,22 @@ Nenurodyta
     elekciniuose būdavo renkami pavieto arba vaivadijos urė-
     dai, ir t. t.
     **3.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Seimeliai. Žemės teismams rinkti buvo įvesti viso pavieto
+    arba vaivadijos bajorų suvažiavimai, vadinami seimeliais.
+    Seimeliuose bajorija apsvarstydavo savo reikalus, išsirinkdavo
+    teismą ir kitus urėdus. Taip pat seimeliuose buvo renkami at-
+    stovai į seimą ir surašomos jiems instrukcijos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bajorai]]
-- [[objektai/zodynas/pavietas]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/zodynas/urėdas]]
-- [[objektai/zodynas/seimelis]]

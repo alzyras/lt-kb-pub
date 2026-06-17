@@ -29,7 +29,7 @@ amziai:
 
 ## Santrauka
 
-Iki nepriklausomybės dešimtmečių 1795 m. Lietuvos ir Lenkijos paskutinis padalinimas laikytas kertine politiškai svarbia Lietuvos istorijos data.
+Gana ilgai, iki pat nepriklausomybės dešimtmečių Lietuvoją ir jos kaimynuose, paprastai buvo laikomasi šių kertinių politiškai Svarbių Lietuvos istorijos datų : 1) 1219-1236 (lietuvių gyvenamų plotų susivienijimas į valstybę), 2) 1385-1387 m. (Kriavo aktas.
 
 ## Laikotarpis ir datos
 
@@ -53,6 +53,11 @@ Nenurodyta
 - t-001
   global_id: t-31440
   teiginys: 'Iki nepriklausomybės dešimtmečių 1795 m. Lietuvos ir Lenkijos paskutinis padalinimas laikytas kertine politiškai svarbia Lietuvos istorijos data.'
+  sudarymo_pagrindimas: 'Citata remia tikslesnį sakinį su nurodytu laikotarpiu ir vertinimo pobūdžiu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/marksistinė periodizacija|marksistinė periodizacija]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1385-1387; įvykio data: 1387 m.; įvykio data: 1569-1572; įvykio data: 1572 m.; įvykio data: 1795 m.; įvykio data: 1918 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata remia tikslesnį sakinį su nurodytu laikotarpiu ir vertinimo pobūdžiu.'
   pagrindžia:
     - c-001
 
@@ -80,12 +85,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/dinastija]]
-
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/marksistinė periodizacija]]
-- [[objektai/ivykiai/Nepriklausomybės pradžia]]

@@ -26,6 +26,11 @@ Dusburgietis teigia, kad massalski R.
 - t-001
   global_id: t-61159
   teiginys: 'R. Massalskio „Zamek elbląski w świetle badań architektonicznych“ paskelbtas „Rocznik Elbląski“ 8 tome 1979 m., p. 39–87.'
+  sudarymo_pagrindimas: 'Citata pagrindžia autorių, pavadinimą, leidinį, metus ir puslapius.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
+  temporaliniai_duomenys: 'įvykio data: 1979 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia autorių, pavadinimą, leidinį, metus ir puslapius.'
   pagrindžia:
     - c-001
 

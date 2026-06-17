@@ -7,8 +7,9 @@ saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1358 m.'
+  - '1360 m.'
 date_start: '1358'
-date_end: ''
+date_end: '1360'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -24,7 +25,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Karolis IV šiame šaltinyje įvardijamas Šv. Romos imperatoriumi. Karolis IV buvo imperatorius, kurį Kazimieras siekė įtraukti į pasiūlymą Lietuvai krikštytis. 1358 m. Lietuvos vyriausybė derybose su Vokietijos imperatoriumi Karoliu IV reikalavo grąžinti kryžiuočių užgrobtas žemes.
+Karolis IV minimas kaip Šv. Romos imperatorius, siūlęs Lietuvai krikštą ir tapęs Algirdo derybų partneriu dėl kryžiuočių bei baltų žemių klausimo. Naujas šaltinio fragmentas jį aiškiai įrašo į 1358 m. Lietuvos diplomatijos kontekstą.
 
 ## Teiginiai
 
@@ -32,6 +33,9 @@ Karolis IV šiame šaltinyje įvardijamas Šv. Romos imperatoriumi. Karolis IV b
 - t-001
   global_id: t-10089
   teiginys: 'Karolis IV šiame šaltinyje įvardijamas Šv. Romos imperatoriumi.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Mongolai|Mongolai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_place: Prieglius'
+  temporaliniai_duomenys: 'įvykio data: 1358 m.; įvykio data: 1360 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -39,6 +43,8 @@ Karolis IV šiame šaltinyje įvardijamas Šv. Romos imperatoriumi. Karolis IV b
 - t-002
   global_id: t-89884
   teiginys: 'Karolis IV buvo imperatorius, kurį Kazimieras siekė įtraukti į pasiūlymą Lietuvai krikštytis.'
+  sudarymo_pagrindimas: 'Pašalinta kontekstinė pradžia ir suformuluotas aiškus faktas apie Karolio IV vaidmenį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Liubartas|Liubartas]]; mentioned_place: Lietuva; mentioned_place: Voluinė'
   pagrindžia:
     - c-003
 
@@ -46,6 +52,11 @@ Karolis IV šiame šaltinyje įvardijamas Šv. Romos imperatoriumi. Karolis IV b
 - t-003
   global_id: t-89885
   teiginys: '1358 m. Lietuvos vyriausybė derybose su Vokietijos imperatoriumi Karoliu IV reikalavo grąžinti kryžiuočių užgrobtas žemes.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas, faktinis ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Baltija; mentioned_place: Barta; mentioned_place: Dauguva; mentioned_place: Lietuva; mentioned_place: Prieglius; mentioned_place: Vokietija; mentioned_place: Žiemgala'
+  temporaliniai_duomenys: 'įvykio data: 1358 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas, faktinis ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-004
 
@@ -53,9 +64,24 @@ Karolis IV šiame šaltinyje įvardijamas Šv. Romos imperatoriumi. Karolis IV b
 - t-004
   global_id: t-89888
   teiginys: '1358 m. Šv. Romos imperatorius Karolis IV derėjosi su Algirdu, kuris reikalavo iškelti kryžiuočius į rytų stepes kovoti su mongolais.'
+  sudarymo_pagrindimas: 'Perrašyta, kad Karolis IV būtų aiškus teiginio objektas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Mongolai|Mongolai]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Liubartas|Liubartas]]; mentioned_place: Lietuva; mentioned_place: Voluinė'
+  temporaliniai_duomenys: 'įvykio data: 1358 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Perrašyta, kad Karolis IV būtų aiškus teiginio objektas.'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-10071|Algirdas (Lietuvos valdovas)]]: 1358 m. derybose su Šv. Romos imperatoriumi Karoliu IV Algirdas reikalavo iškelti kryžiuočius į rytų stepes kovoti su mongolais.
+- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-10072|Algirdas (Lietuvos valdovas)]]: Tose pačiose derybose Algirdas reikalavo sugrąžinti Lietuvai baltų žemes vakaruose iki Alnos, Priegliaus ir Dauguvos.
+- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176301|Algirdas (Lietuvos valdovas)]]: Algirdas 1358 m. derybose su Karoliu IV reikalavo iškelti kryžiuočius į rytų stepes ir sugrąžinti Lietuvai vakarines baltų žemes.
+- susijęs iš [[objektai/asmenys/Butautas.md#claim-t-93195|Butautas]]: Butautas 1365 m. liepos 25 d. su draugu Survila pabėgo į Karaliaučių ir apsikrikštijo Henriko vardu.
+- susijęs iš [[objektai/asmenys/Vaidotas (Butauto sūnus).md#claim-t-182705|Vaidotas (Butauto sūnus)]]: Vaidotas 1381 m., būdamas apie šešiolikos metų, pabėgo iš senelio Kęstučio globos į Prūsus ir vyko pas ciesorių priimti krikšto.
+- susijęs iš [[objektai/asmenys/Vaidotas (Butauto sūnus).md#claim-t-182707|Vaidotas (Butauto sūnus)]]: Vaidotas buvo Butauto sūnus.
+- susijęs iš [[objektai/autoriai/Karwasińska J.md#claim-t-60725|Karwasińska J]]: Karwasińska J. parašė straipsnį apie Karolio IV aukso bules Lietuvos krikšto klausimu.
+- susijęs iš [[objektai/ivykiai/Butauto bėgimas į Karaliaučių ir apsikrikštijimas.md#claim-t-34537|Butauto bėgimas į Karaliaučių ir apsikrikštijimas]]: Butautas 1365 m. liepos 25 d. su draugu Survila pabėgo į Karaliaučių ir apsikrikštijo Henriko vardu.
+- susijęs iš [[objektai/ivykiai/Vaidoto pabėgimas į Prūsus.md#claim-t-35892|Vaidoto pabėgimas į Prūsus]]: 1381 m. šešiolikmetis Butauto sūnus Vaidotas pabėgo iš senelio Kęstučio globos į Prūsus ir vyko pas ciesorių priimti krikšto.
+- susijęs iš Praga: Būtautas, vadintas Henricus dux Lithuaniae, ilgai gyveno imperatoriaus Karolio IV dvare ir 1380 m. mirė Pragoje.
+- susijęs iš Praga: Būtautas, ilgai gyvenęs imperatoriaus Karolio IV dvare, 1380 m. mirė Pragoje.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -122,12 +148,4 @@ Karolis IV šiame šaltinyje įvardijamas Šv. Romos imperatoriumi. Karolis IV b
     - t-003
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Baltai]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Mongolai]]
-- [[objektai/ivykiai/Butauto bėgimas į Karaliaučių ir apsikrikštijimas]]
-- [[objektai/asmenys/Vaidotas (Butauto sūnus)]]
-- [[objektai/ivykiai/Vaidoto pabėgimas į Prūsus]]
-- [[objektai/ivykiai/Lietuvos derybos su Karoliu IV dėl Ordino užgrobtų žemių grąžinimo (1358 m.)]]
+- Karolis IV gyveno [[objektai/vietos/Praga]]

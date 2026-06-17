@@ -29,6 +29,11 @@ Bent jau apie Narimantą kal­ bant, pirmiausia, Dlugošas, žinia, apsirinka j�
 - t-001
   global_id: t-87816
   teiginys: 'Patrikas, arba Patricijus, po Narimanto perėmė valdžią Didžiajame Naugarde.'
+  sudarymo_pagrindimas: 'Citata aiškiai nurodo Patriko valdžios perėmimą po Narimanto, o pradinis tekstas buvo fragmentiškas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)|Narimantas (Pinsko kunigaikštis)]]; mentioned_place: Lietuva; mentioned_place: Naugardas'
+  temporaliniai_duomenys: 'įvykio data: iki 1348 m.; įvykio data: 1348 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata aiškiai nurodo Patriko valdžios perėmimą po Narimanto, o pradinis tekstas buvo fragmentiškas.'
   pagrindžia:
     - c-001
 
@@ -59,10 +64,3 @@ Bent jau apie Narimantą kal­ bant, pirmiausia, Dlugošas, žinia, apsirinka j�
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/grupes/Didžiojo Naugardo respublika]]
-- [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]]
-- [[objektai/asmenys/Simonas Lengvenis|Simonas Lengvenis (valdovas, XIV a.)]]

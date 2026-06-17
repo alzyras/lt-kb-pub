@@ -31,6 +31,11 @@ Dusburgietis teigia, kad apie Pieštvės pilėnų apiplėšimą 1294 Tais pačia
 - t-001
   global_id: t-60106
   teiginys: '1294 m. Ditrichas iš Ezbeko su Otonu iš Bergo ir Otonu iš Cedlico buvo pasiųstas saugoti Ragainės pilies.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Otonas|Otonas]]; mentioned_person: [[objektai/asmenys/Otonas iš Bergo|Otonas iš Bergo]]; mentioned_person: [[objektai/asmenys/Otonas iš Cedlico|Otonas iš Cedlico]]; mentioned_place: Pieštvė; mentioned_place: Pilėnai; mentioned_place: Ragainė'
+  temporaliniai_duomenys: 'įvykio data: 1294 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -38,9 +43,12 @@ Dusburgietis teigia, kad apie Pieštvės pilėnų apiplėšimą 1294 Tais pačia
 - t-002
   global_id: t-60107
   teiginys: 'Ditrichas iš Ezbeko žuvo laivų mūšyje, kuriame lietuviai neteko 70 prityrusių karių.'
+  sudarymo_pagrindimas: 'Teiginys yra faktinis ir remiasi citatoje aprašytu laivų mūšiu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_place: Junigeda'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/asmenys/Konradas Rufus.md#claim-t-60368|Konradas Rufus]]: Konradas Rufus žadėjo Ditrichui iš Ezbeko atiduoti savo žirgą, kai šis trauksis atgal.
+- susijęs iš [[objektai/ivykiai/Brolio Ditricho iš Ezbeko ir kitų brolių žūtis žygyje link Gardino (1295 m. gegužės 20 d.).md#claim-t-66504|Brolio Ditricho iš Ezbeko ir kitų brolių žūtis žygyje link Gardino (1295 m. gegužės 20 d.)]]: 1295 m. gegužės 20 d. laivų mūšyje prie Gardino žuvo brolis Ditrichas iš Ezbeko ir dar vienas Ordino brolis.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -77,14 +85,3 @@ Dusburgietis teigia, kad apie Pieštvės pilėnų apiplėšimą 1294 Tais pačia
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Laivai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Otonas]]
-- [[objektai/asmenys/Otonas iš Bergo]]
-- [[objektai/asmenys/Otonas iš Cedlico]]
-- [[objektai/zodynas/netikėliai]]
-- [[objektai/ivykiai/Brolio Ditricho iš Ezbeko ir kitų brolių žūtis žygyje link Gardino (1295 m. gegužės 20 d.)]]
-- [[objektai/asmenys/Konradas Rufus]]

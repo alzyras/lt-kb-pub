@@ -23,6 +23,9 @@ sieną, pabėgo ir pasislėpė pas didįRus., 1.168, ir K a r a m z i n: M cmopi
 - t-001
   global_id: t-87851
   teiginys: 'Maskvos kunigaikštis Simonas buvo valdovas, pas kurį pabėgęs Jaunutis pasislėpė ir priėmė graikų apeigų tikėjimą.'
+  sudarymo_pagrindimas: 'Citata leidžia suformuluoti aiškų faktą apie Simoną be OCR triukšmo.'
+  susije_objektai: 'territory: Maskva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Jaunutis|Jaunutis]]; mentioned_place: Maskva'
+  semantiniai_rysiai: '[[objektai/asmenys/Simonas (Maskvos kunigaikštis)|Simonas (Maskvos kunigaikštis)]] buvo valdovas Maskva'
   pagrindžia:
     - c-001
 
@@ -48,9 +51,4 @@ sieną, pabėgo ir pasislėpė pas didįRus., 1.168, ir K a r a m z i n: M cmopi
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/metraštis]]
-- [[temos/ritualas]]
-
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
+- Simonas (Maskvos kunigaikštis) buvo_valdovas [[objektai/vietos/Maskva]]

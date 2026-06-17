@@ -26,6 +26,8 @@ Paskutinės rytinių slavų pilys čia buvo Lohajskas, Gorodecas, Minskas, Zasla
 - t-001
   global_id: t-28396
   teiginys: 'Lohajskas buvo viena iš paskutinių rytinių slavų pilių į šiaurę nuo Nemuno.'
+  sudarymo_pagrindimas: 'Reikia pakeisti neaiškų žodį „čia“ ir sutelkti teiginį į Lohajską.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Nemunas; mentioned_place: Viena'
   pagrindžia:
     - c-001
 

@@ -22,6 +22,8 @@ Dusburgietis teigia, kad šitai matė ir viešai skelbė brolis Heidenrichas, to
 - t-001
   global_id: t-60302
   teiginys: 'Brolis Heidenrichas, tos pačios pilies kunigas, matė ir viešai skelbė pasakojimą apie medinio nukryžiuotojo palaiminimą.'
+  sudarymo_pagrindimas: 'Pradinis teiginys remiasi neaiškiu „šitai“; perrašyta su aiškiu objektu.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Altorius|Altorius]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]'
   pagrindžia:
     - c-001
 
@@ -46,9 +48,3 @@ Dusburgietis teigia, kad šitai matė ir viešai skelbė brolis Heidenrichas, to
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Altorius]]
-- [[objektai/daiktai/Kryžius]]
-- [[objektai/daiktai/Medinis nukryžiuotasis]]

@@ -3,10 +3,16 @@ tipas: posakis
 pavadinimas: 'didžioji suirutė'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1584 m.'
+date_start: '1584'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - posakis
+amziai:
+  - 'XVI'
 ---
 # didžioji suirutė
 
@@ -15,18 +21,26 @@ tags:
 Maskvoje tuomet prasidėjo perversmų periodas — užėjo vadinamoji didžioji suirutė ( smuta ).
 
 ## Teiginiai
+
 <a id="claim-t-02087"></a>
 - t-001
   global_id: t-02087
   teiginys: 'Maskvoje prasidėjęs perversmų periodas buvo vadinamas didžiąja suirute, arba smuta.'
+  sudarymo_pagrindimas: 'Pašalintas formatavimo triukšmas ir suformuluotas glaustesnis sakinys.'
+  susije_objektai: 'mentioned_place: Maskva'
+  temporaliniai_duomenys: 'įvykio data: 1584 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas formatavimo triukšmas ir suformuluotas glaustesnis sakinys.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-
+- susijęs iš Maskva: Po caro Teodoro mirties Maskvoje prasidėjo perversmų laikotarpis, vadinamas didžiąja suirute (smuta).
+- susijęs iš Maskva: Maskvoje prasidėjo perversmų laikotarpis, vadinamas didžiąja suirute (smuta).
+- susijęs iš [[objektai/zodynas/didžioji suirutė smuta.md#claim-t-02975|didžioji suirutė smuta]]: Maskvoje prasidėjęs perversmų periodas vadintas didžiąja suirute (smuta).
+- susijęs iš [[objektai/zodynas/didžioji suirutė smuta.md#claim-t-02976|didžioji suirutė smuta]]: Didžiosios suirutės metu Maskva nebebuvo puolanti pusė, o pati buvo puolama.
+- susijęs iš [[objektai/zodynas/didžioji suirutė smuta.md#claim-t-182941|didžioji suirutė smuta]]: Po Teodoro mirties Maskvoje prasidėjo perversmų periodas, vadinamas didžiąja suirute (smuta).
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Maskvoje prasidėjęs perversmų periodas buvo vadinamas didžiąja suirute, arba smuta.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     su Lietuva, tačiau jam jau nebeteko kariauti, nes netrukus
@@ -34,15 +48,8 @@ Maskvoje tuomet prasidėjo perversmų periodas — užėjo vadinamoji didžioji 
     žygiams netikęs jo silpnaprotis sūnus Teodoras, su kurio mirtim
     pasibaigė Kalitos dinastija. Maskvoje tuomet prasidėjo per-
     versmų periodas — užėjo vadinamoji didžioji suirutė ( _smuta_ ).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Teodoras]]
-- [[objektai/zodynas/didžioji suirutė smuta]]

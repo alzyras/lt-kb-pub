@@ -8,10 +8,6 @@ datos:
   - '1864 m.'
 date_start: '1793'
 date_end: '1864'
-aliases:
-  - 'objektai/asmenys/Simonas Stanevičius'
-variantai:
-  - 'Simonas Stanevičius'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -35,6 +31,11 @@ Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos k
 - t-001
   global_id: t-169894
   teiginys: 'Simonas Stanevičius išleido poezijos knygą su eilėraščiu „Šlovė žemaičių“, laikomu kone tautinio kultūrinio sąjūdžio himnu ar manifestu.'
+  sudarymo_pagrindimas: 'Pašalintas perteklinis ir neaiškus fragmentas, paliktas šaltinio remiamas faktas apie Stanevičių.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/posakiai/„Šlovė žemaičių“|„Šlovė žemaičių“]]; mentioned_person: [[objektai/autoriai/S. Daukantas|S. Daukantas]]; mentioned_person: [[objektai/asmenys/Simonas Daukantas|Simonas Daukantas]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1822 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas perteklinis ir neaiškus fragmentas, paliktas šaltinio remiamas faktas apie Stanevičių.'
   pagrindžia:
     - c-001
 
@@ -42,9 +43,28 @@ Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos k
 - t-002
   global_id: t-183347
   teiginys: 'Vilniaus universiteto aplinkoje Simonas Stanevičius ir kiti iš Žemaitijos kilę inteligentai plėtojo aukštąją kultūrą lietuvių kalba.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Nutrūkusi mintis perrašyta į užbaigtą sakinį apie Stanevičiaus veiklą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/grupes/Etninių lietuvių tautinis kultūrinis sąjūdis.md#claim-t-183126|Etninių lietuvių tautinis kultūrinis sąjūdis]]: Simono Daukanto ir Simono Stanevičiaus aplinkos inteligentai laikomi etninių lietuvių tautinio kultūrinio sąjūdžio pradininkais.
+- susijęs iš [[objektai/grupes/Etninių lietuvių tautinis kultūrinis sąjūdis.md#claim-t-65147|Etninių lietuvių tautinis kultūrinis sąjūdis]]: Vilniaus universiteto aplinkoje susibūrę Žemaitijos inteligentai plėtojo aukštąją kultūrą lietuvių ir žemaičių kalba.
+- susijęs iš [[objektai/grupes/Vilniaus universitetas.md#claim-t-113352|Vilniaus universitetas]]: Vilniaus universiteto aplinkoje susibūrę inteligentai siekė kurti aukštąją kultūrą lietuvių ir žemaičių kalba.
+- susijęs iš [[objektai/grupes/Vilniaus universitetas.md#claim-t-113360|Vilniaus universitetas]]: Vilniaus universiteto aplinkoje susibūrę Žemaitijos inteligentai siekė plėtoti aukštąją kultūrą lietuvių kalba.
+- susijęs iš [[objektai/paprociai/Lietuvių aukštosios kultūros kūrimas ir liaudies švietimas gimtąja kalba.md#claim-t-183321|Lietuvių aukštosios kultūros kūrimas ir liaudies švietimas gimtąja kalba]]: Vilniaus universiteto aplinkoje susibūrę Simonas Daukantas, Simonas Stanevičius ir kiti žemaičių inteligentai plėtojo aukštąją kultūrą lietuvių kalba.
+- susijęs iš [[objektai/paprociai/Lietuvių aukštosios kultūros kūrimas ir liaudies švietimas gimtąja kalba.md#claim-t-67138|Lietuvių aukštosios kultūros kūrimas ir liaudies švietimas gimtąja kalba]]: Lietuvių kalba buvo išleistas novatoriškas elementorius, o Simonas Stanevičius išleido poezijos knygą su eilėraščiu „Šlovė žemaičių“.
+- susijęs iš [[objektai/paprociai/Lietuvių aukštosios kultūros kūrimas ir liaudies švietimas gimtąja kalba.md#claim-t-67139|Lietuvių aukštosios kultūros kūrimas ir liaudies švietimas gimtąja kalba]]: Vilniaus universiteto aplinkoje susibūrę žemaičių inteligentai susitarė plėtoti aukštąją kultūrą lietuvių kalba ir rūpintis liaudies švietimu gimtąja kalba.
+- susijęs iš [[objektai/paprociai/Lietuvių aukštosios kultūros kūrimas ir liaudies švietimas gimtąja kalba.md#claim-t-67140|Lietuvių aukštosios kultūros kūrimas ir liaudies švietimas gimtąja kalba]]: Vilniaus universiteto aplinkoje susibūrę inteligentai siekė plėtoti aukštąją kultūrą lietuvių kalba ir rūpintis liaudies švietimu gimtąja kalba.
+- susijęs iš [[objektai/posakiai/„Šlovė žemaičių“.md#claim-t-77862|„Šlovė žemaičių“]]: Simonas Stanevičius išleido poezijos knygą su eilėraščiu „Šlovė žemaičių“, vadinamu kone žemaičių sąjūdžio himnu ar poetiniu manifestu.
+- susijęs iš Būdas senovės lietuvių, žemaičių ir kalnėnų: Simonas Daukantas išleido beletrizuotą etninių lietuvių kultūros studiją „Būdas senovės lietuvių, žemaičių ir kalnėnų“.
+- susijęs iš Novatoriškas lietuvių kalbos elementorius žemaičių tarme: Vilniaus universiteto aplinkos inteligentai parašė ir išleido tiems laikams novatorišką lietuvių kalbos elementorių žemaičių tarme.
+- susijęs iš Šlovė žemaičių: Simono Stanevičiaus poezijos knygoje išspausdintas eilėraštis „Šlovė žemaičių“ laikytas etninių lietuvių tautinio kultūrinio sąjūdžio poetiniu manifestu.
+- susijęs iš Šlovė žemaičių: Eilėraštis „Šlovė žemaičių“ laikytas kone šio sąjūdžio himnu ar poetiniu manifestu.
+- susijęs iš [[objektai/zodynas/dvilypis lietuvių-žemaičių etnosas.md#claim-t-183417|dvilypis lietuvių-žemaičių etnosas]]: Vilniaus universiteto aplinkoje susibūrę iš Žemaitijos kilę inteligentai siekė plėtoti aukštąją kultūrą lietuvių arba žemaičių kalba.
+- susijęs iš [[objektai/zodynas/dvilypis lietuvių-žemaičių etnosas.md#claim-t-22127|dvilypis lietuvių-žemaičių etnosas]]: Kai kurie žemaičiai save laikė vieno dvilypio lietuvių ir žemaičių etnoso dalimi, nors kiti juos laikė atskiru giminingu etnosu.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -95,12 +115,3 @@ Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos k
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/posakiai/„Šlovė žemaičių“]]
-- [[objektai/grupes/Etninių lietuvių tautinis kultūrinis sąjūdis]]
-- [[objektai/paprociai/Lietuvių aukštosios kultūros kūrimas ir liaudies švietimas gimtąja kalba]]
-- [[objektai/grupes/Vilniaus universitetas]]
-- [[objektai/zodynas/dvilypis lietuvių-žemaičių etnosas]]

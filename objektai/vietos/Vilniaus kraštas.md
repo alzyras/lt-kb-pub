@@ -5,10 +5,12 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
+  - '1920 m.'
   - '1923 m.'
+  - '1924 m.'
   - '1925 m.'
   - '1927 m.'
-date_start: '1923'
+date_start: '1920'
 date_end: '1927'
 sukurta: ''
 atnaujinta: ''
@@ -24,7 +26,7 @@ amziai:
 
 ## Santrauka
 
-Lietuvai atgauto Vilniaus ir Vilniaus krašto integracija reikalavo daug lėšų, nes karo metu kraštas buvo nualintas, o modernios pramonės įmonės išvežtos į SSRS. Lenkija ėmėsi ekonominių ir kultūrinių sankcijų prieš Vilniaus krašto lietuvių organizacijas. Apie 100 000 lietuvių gyveno Vilniaus krašte.
+Ji visa, nuo Šventosios upės (pajūry) iki Lenkų okupuoto Vilniaus krašto (netoli Turmanto stoties), buvo nukaišiota gairėmis; tokia pat ji tebėra ir iki šiol. Todėl, užmezgus oficialinius santykius su Vatikanu, pirmas vyriausybės rūpestis buvo sudaryti atskirą Lietuvos bažnytinę provinciją, iš kurios nebūtų išskirtas okupuotasis Vilniaus kraštas.
 
 ## Teiginiai
 
@@ -32,6 +34,8 @@ Lietuvai atgauto Vilniaus ir Vilniaus krašto integracija reikalavo daug lėšų
 - t-001
   global_id: t-170918
   teiginys: 'Lietuvai atgauto Vilniaus ir Vilniaus krašto integracija reikalavo daug lėšų, nes karo metu kraštas buvo nualintas, o modernios pramonės įmonės išvežtos į SSRS.'
+  sudarymo_pagrindimas: 'Pradinis sakinys per ilgas ir sujungtas negramatiška konstrukcija.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/Kariauna|Kariauna]]; mentioned_object: [[objektai/zodynas/litas|litas]]; mentioned_place: Baltija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: SSRS; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -39,6 +43,11 @@ Lietuvai atgauto Vilniaus ir Vilniaus krašto integracija reikalavo daug lėšų
 - t-002
   global_id: t-170919
   teiginys: 'Lenkija ėmėsi ekonominių ir kultūrinių sankcijų prieš Vilniaus krašto lietuvių organizacijas.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Vilniaus krašto lietuvių organizacijas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1927 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie Vilniaus krašto lietuvių organizacijas.'
   pagrindžia:
     - c-005
 
@@ -46,6 +55,8 @@ Lietuvai atgauto Vilniaus ir Vilniaus krašto integracija reikalavo daug lėšų
 - t-003
   global_id: t-170920
   teiginys: 'Apie 100 000 lietuvių gyveno Vilniaus krašte.'
+  sudarymo_pagrindimas: 'Pradinis teiginys per platus, o citata leidžia suformuluoti aiškų faktą apie Vilniaus kraštą.'
+  susije_objektai: 'location: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -53,6 +64,11 @@ Lietuvai atgauto Vilniaus ir Vilniaus krašto integracija reikalavo daug lėšų
 - t-004
   global_id: t-170922
   teiginys: '1923 m. pirmasis Lietuvos gyventojų surašymas neapėmė Vilniaus ir Klaipėdos kraštų.'
+  sudarymo_pagrindimas: 'Citata Vilniaus kraštą mini kaip išimtį, todėl tinkamas siauresnis faktas.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Pirmasis Lietuvos gyventojų surašymas (1923 m. rugsėjo 17 d.)|Pirmasis Lietuvos gyventojų surašymas (1923 m. rugsėjo 17 d.)]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1923 m.; įvykio data: 1924 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata Vilniaus kraštą mini kaip išimtį, todėl tinkamas siauresnis faktas.'
   pagrindžia:
     - c-003
 
@@ -60,6 +76,8 @@ Lietuvai atgauto Vilniaus ir Vilniaus krašto integracija reikalavo daug lėšų
 - t-005
   global_id: t-170923
   teiginys: 'Derybose su sovietais lietuviai siekė atgauti kelis lietuviškus Vilniaus krašto rajonus, tarp jų Švenčionis ir Druskininkus.'
+  sudarymo_pagrindimas: 'Perrašyta į aiškesnį, savarankišką sakinį be perteklinių aplinkybių.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Druskininkai; mentioned_place: Estija; mentioned_place: Vilnius'
   pagrindžia:
     - c-004
 
@@ -67,6 +85,11 @@ Lietuvai atgauto Vilniaus ir Vilniaus krašto integracija reikalavo daug lėšų
 - t-006
   global_id: t-170924
   teiginys: '1920 m. Lenkijos ir Lietuvos konflikto dėl Vilniaus metu Vilniaus krašte buvo suformuota „Vidurinė Lietuva“.'
+  sudarymo_pagrindimas: 'Teiginys gramatiškas, turi aiškų veiksnį ir tarinį, o citata jį tiesiogiai patvirtina.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1920 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys gramatiškas, turi aiškų veiksnį ir tarinį, o citata jį tiesiogiai patvirtina.'
   pagrindžia:
     - c-006
 
@@ -74,6 +97,8 @@ Lietuvai atgauto Vilniaus ir Vilniaus krašto integracija reikalavo daug lėšų
 - t-007
   global_id: t-170925
   teiginys: 'Baltijos antantė negarantavo Lietuvai Estijos ir Latvijos paramos konflikte su Lenkija dėl Vilniaus krašto.'
+  sudarymo_pagrindimas: 'Teiginys pilnas, aiškus ir tiesiogiai paremtas citatos formuluote.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Antantė|Antantė]]; mentioned_group: [[objektai/grupes/Baltijos antantė|Baltijos antantė]]; mentioned_place: Baltija; mentioned_place: Estija; mentioned_place: Latvija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vatikanas; mentioned_place: Vilnius'
   pagrindžia:
     - c-007
 
@@ -81,6 +106,11 @@ Lietuvai atgauto Vilniaus ir Vilniaus krašto integracija reikalavo daug lėšų
 - t-008
   global_id: t-183106
   teiginys: 'Užmezgusi oficialius santykius su Vatikanu, Lietuvos vyriausybė siekė sudaryti bažnytinę provinciją, iš kurios nebūtų išskirtas okupuotasis Vilniaus kraštas.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis teiginys prasideda kontekstiniu jungtuku, todėl perrašytas kaip savarankiškas sakinys.'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vatikanas; mentioned_place: Vilnius'
   pagrindžia:
     - c-008
 

@@ -29,6 +29,11 @@ Rusijos caras Aleksandras 11 1856 m. paskelbė politinę amnestiją 1831 m. suki
 - t-001
   global_id: t-38771
   teiginys: 'Rusijos caras Aleksandras II 1856 m. paskelbė politinę amnestiją 1831 m. sukilimo tremtiniams.'
+  sudarymo_pagrindimas: 'Citatą reikia normalizuoti, nes OCR iškraipė valdovo numerį.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras II|Aleksandras II]]; mentioned_place: Rusija; mentioned_place: Sibiras'
+  temporaliniai_duomenys: 'įvykio data: 1831 m.; įvykio data: 1856 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citatą reikia normalizuoti, nes OCR iškraipė valdovo numerį.'
   pagrindžia:
     - c-001
 
@@ -49,8 +54,3 @@ Rusijos caras Aleksandras 11 1856 m. paskelbė politinę amnestiją 1831 m. suki
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Aleksandras]]
-- [[objektai/asmenys/Aleksandras II]]

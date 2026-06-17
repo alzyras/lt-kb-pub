@@ -27,6 +27,7 @@ Satyros ir juokai. Šioj, dailiai išleistoj knygelėj pateikta satyriška musų
 - t-001
   global_id: t-34251
   teiginys: 'Satyros objektus autorius nebijojo vadinti tikrais vardais, nors jo satyriški knybtelėjimai laikyti labai švelniais.'
+  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir išlaikyta citatos remiama mintis apie satyrą.'
   pagrindžia:
     - c-003
 
@@ -34,6 +35,7 @@ Satyros ir juokai. Šioj, dailiai išleistoj knygelėj pateikta satyriška musų
 - t-002
   global_id: t-34252
   teiginys: '„Rakštys“ buvo satyrų ir juokų knyga su aštriomis to meto satyromis.'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo tik antraštinis fragmentas.'
   pagrindžia:
     - c-002
 
@@ -41,6 +43,11 @@ Satyros ir juokai. Šioj, dailiai išleistoj knygelėj pateikta satyriška musų
 - t-003
   global_id: t-34253
   teiginys: 'Knygelėje pateikta satyriška 1926–1930 m. Lietuvos gyvenimo apžvalga.'
+  sudarymo_pagrindimas: 'Sutrumpinta ir sutvarkyta enciklopedinei formuluotei.'
+  susije_objektai: 'mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1926-1930; įvykio data: 1930 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Sutrumpinta ir sutvarkyta enciklopedinei formuluotei.'
   pagrindžia:
     - c-001
 

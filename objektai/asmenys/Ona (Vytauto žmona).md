@@ -24,6 +24,8 @@ Jo žmonos - Smo­ lensko kunigaikštytė Ona, o kita - Algimanto Alšėniškio 
 - t-001
   global_id: t-87923
   teiginys: 'Vytauto žmona Ona, Smolensko kunigaikštytė, išpažino graikų apeigų tikėjimą ir prieš Lietuvos krikštą turėjo koplyčią Trakų pilyje.'
+  sudarymo_pagrindimas: 'Teiginys yra išsamus, gramatiškas ir paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/barbarai|barbarai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Lietuva; mentioned_place: Smolenskas; mentioned_place: Trakai; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -31,6 +33,11 @@ Jo žmonos - Smo­ lensko kunigaikštytė Ona, o kita - Algimanto Alšėniškio 
 - t-002
   global_id: t-184810
   teiginys: 'Ona laisva valia lydėjo į Krėvą saugomą Vytautą ir dalijosi su juo likimo vargais.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata pagrindžia Onos vaidmenį Vytauto nelaisvės metu.'
+  susije_objektai: 'mentioned_place: Krėva; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -38,6 +45,11 @@ Jo žmonos - Smo­ lensko kunigaikštytė Ona, o kita - Algimanto Alšėniškio 
 - t-003
   global_id: t-184811
   teiginys: 'Vytautas po žmonos Onos mirties Trakuose nutarė tuoktis su Julijona, Alšėnų kunigaikščio Algimantaičio dukra.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata pagrindžia Onos mirtį ir po jos priimtą Vytauto sprendimą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Julijona|Julijona]]; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Alšėnai; mentioned_place: Trakai'
   pagrindžia:
     - c-003
 
@@ -115,14 +127,3 @@ Jo žmonos - Smo­ lensko kunigaikštytė Ona, o kita - Algimanto Alšėniškio 
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Julijona]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/barbarai]]
-- [[objektai/zodynas/didysis kunigaikštis]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/asmenys/Ona Vytautienė]]
-- [[objektai/paprociai/Graikų apeigų koplyčios laikymas Trakų pilyje]]
-- [[objektai/asmenys/Julijona (Vytauto žmona)]]

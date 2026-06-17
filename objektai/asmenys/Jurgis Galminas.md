@@ -30,6 +30,8 @@ Jiems vadovavo du Vytauto didikai (Jurgis Gedgaudas, Jurgis Galminas) ir jo sekr
 - t-001
   global_id: t-29024
   teiginys: 'Jurgis Galminas buvo vienas iš Vytauto didikų, vadovavusių į Konstancą atsiųstiems pakrikštytiems Žemaičių bajorams.'
+  sudarymo_pagrindimas: 'Pradinis teiginys tik išvardija vadovus, o citata remia pilnesnį faktinį sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_person: [[objektai/asmenys/Galminas|Galminas]]; mentioned_person: [[objektai/asmenys/Mikalojus Sepienskis|Mikalojus Sepienskis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Konstanca'
   pagrindžia:
     - c-001
 
@@ -47,7 +49,3 @@ Jiems vadovavo du Vytauto didikai (Jurgis Gedgaudas, Jurgis Galminas) ir jo sekr
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bajorai]]

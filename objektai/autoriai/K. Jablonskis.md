@@ -27,6 +27,9 @@ Išskirtiną vietą Lietuvos istoriografijoje užima teisės ir kul­ tūros ist
 - t-001
   global_id: t-179502
   teiginys: 'K. Jablonskis Baltarusijos TSR Mokslų Akademijos pavedimu suredagavo ir išleido 1529 m. Pirmąjį Lietuvos Statutą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/statutas|statutas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Baltarusija; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1529 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 
@@ -34,9 +37,14 @@ Išskirtiną vietą Lietuvos istoriografijoje užima teisės ir kul­ tūros ist
 - t-002
   global_id: t-179503
   teiginys: 'K. Jablonskis sudarė pirmąjį XVI–XVII a. dokumentų rinkinio „Lietuvos valstiečių ir miestelėnų ginčai su dvarų valdytojais“ tomą.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas, konkretus ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/inventoriai|inventoriai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/autoriai/Konstantinas Jablonskis.md#claim-t-179507|Konstantinas Jablonskis]]: Konstantinas Jablonskis sudarė pirmąjį rinkinio „Lietuvos valstiečių ir miestelėnų ginčai su dvarų valdytojais“ tomą.
+- susijęs iš Lietuvos inventoriai XVII amž: Rinkinys „Lietuvos inventoriai XVII amž.“ buvo sudarytas drauge su M. Juču ir išleistas 1962 m.
+- susijęs iš Lietuvos valstiečių ir miestelėnų ginčai su dvarų valdytojais: K. Jablonskis sudarė pirmąjį XVI-XVII a. dokumentų rinkinio „Lietuvos valstiečių ir miestelėnų ginčai su dvarų valdytojais“ tomą.
+- susijęs iš Prūsijos valdžios gromatos, pagraudenimai ir apsakymai lietuviams valstiečiams Sudarė P. Pakarklis; Redagavo K. Jablonskis: Rinkinį „Prūsijos valdžios gromatos, pagraudenimai ir apsakymai lietuviams valstiečiams“ sudarė P. Pakarklis, redagavo K. Jablonskis.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -74,11 +82,3 @@ Išskirtiną vietą Lietuvos istoriografijoje užima teisės ir kul­ tūros ist
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/redaktorius]]
-
-### Susiję objektai
-- [[objektai/zodynas/inventoriai]]
-- [[objektai/zodynas/statutas]]

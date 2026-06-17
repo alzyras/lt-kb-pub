@@ -26,6 +26,10 @@ Dusburgietis teigia, kad strikowski M.
 - t-001
   global_id: t-61301
   teiginys: 'M. Strikowskio „Kronika polska, litewska, żmodzka i wszystkiej Rusi“ išleista Karaliaučiuje 1582 m.'
+  sudarymo_pagrindimas: 'Citata pateikia autorių, pavadinimą, leidimo vietą ir metus.'
+  temporaliniai_duomenys: 'įvykio data: 1582 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pateikia autorių, pavadinimą, leidimo vietą ir metus.'
   pagrindžia:
     - c-001
 

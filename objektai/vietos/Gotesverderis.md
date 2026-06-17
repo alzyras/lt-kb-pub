@@ -17,20 +17,49 @@ tags:
 Čia buvo šios ordino pilys: Klaipėda, Ragainė, Jurbarkas, Skirsnemunė, Marijenburgas, Bajerburgas, daug kartų statomos ir vėl sugriaunamos jo pilys prie Kauno, būtent Marijenverderis, Ritersverderis, Gotesverderis ir kitos (žiūr.
 
 ## Teiginiai
+
+<a id="claim-t-02460"></a>
+- t-001
+  global_id: t-02460
+  teiginys: 'Gotesverderis buvo viena iš prie Kauno daug kartų statytų ir vėl sugriautų Ordino pilių.'
+  sudarymo_pagrindimas: 'Pradinė ištrauka buvo nutrūkusi ir sąrašinė, bet citata palaiko konkretų faktą apie Gotesverderį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Nevėžis; mentioned_place: Viena'
+  pagrindžia:
+    - c-001
+
 <a id="claim-t-184958"></a>
 - t-002
   global_id: t-184958
   teiginys: 'Kryžiuočiai prie Nemuno, beveik priešais Kauną, pastatė didelę tvirtovę ir pavadino ją Gotesverderiu.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Gotesverderio pastatymą ir pavadinimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Prūsija; mentioned_place: Viena'
   pagrindžia:
     - c-002
-- t-003
-  teiginys: 'Gotesverderis buvo viena iš prie Kauno daug kartų statytų ir vėl sugriautų Ordino pilių.'
-  pagrindžia:
-    - c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-
+- susijęs iš [[objektai/asmenys/Henrikas (kryžiuočių magistras).md#claim-t-186003|Henrikas (kryžiuočių magistras)]]: Magistras Henrikas, įkurdinęs stiprią įgulą Gotesverderio pilyje prie Kauno, su likusia kariuomene niokojo kraštą.
+- susijęs iš [[objektai/ivykiai/Gotesverderio pilies pastatymas ir sunaikinimas (1367 m.).md#claim-t-185702|Gotesverderio pilies pastatymas ir sunaikinimas (1367 m.)]]: Kryžiuočiai prie Nemuno, beveik priešais Kauną, per šešis mėnesius pastatė didelę tvirtovę ir pavadino ją Gotesverderiu.
+- susijęs iš Eilėtoji Livonijos kronika: 1369 m. Algirdas, magistrui ir krašto maršalui išvykus prieš rusus, nuniokojo Aizkrauklės ir Cisegalės žemes.
 ## Reikšmingi paminėjimai
+
+- c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Lietuvos vaka-
+    ruose susidarė ištisa kryžiuočių pilių virtinė, — pradedant Klaipė-
+    da, einant Nemunu iki Dubysos, o kai kuriais laikotarpiais iki
+    Nevėžio ir net iki Neries intako. Čia buvo šios ordino pilys: Klai-
+    pėda, Ragainė, Jurbarkas, Skirsnemunė, Marijenburgas, Bajer-
+    burgas, daug kartų statomos ir vėl sugriaunamos jo pilys prie
+    Kauno, būtent Marijenverderis, Ritersverderis, Gotesverderis ir
+    kitos (žiūr. 85 psl.).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
 - c-002
   santrauka: 'Kryžiuočiai prie Nemuno, beveik priešais Kauną, pastatė didelę tvirtovę ir pavadino ją Gotesverderiu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -51,22 +80,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'Gotesverderis buvo viena iš prie Kauno daug kartų statytų ir vėl sugriautų Ordino pilių.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Lietuvos vaka-
-    ruose susidarė ištisa kryžiuočių pilių virtinė, — pradedant Klaipė-
-    da, einant Nemunu iki Dubysos, o kai kuriais laikotarpiais iki
-    Nevėžio ir net iki Neries intako. Čia buvo šios ordino pilys: Klai-
-    pėda, Ragainė, Jurbarkas, Skirsnemunė, Marijenburgas, Bajer-
-    burgas, daug kartų statomos ir vėl sugriaunamos jo pilys prie
-    Kauno, būtent Marijenverderis, Ritersverderis, Gotesverderis ir
-    kitos (žiūr. 85 psl.).
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-003

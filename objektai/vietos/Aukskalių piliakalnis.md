@@ -3,16 +3,22 @@ tipas: vieta
 pavadinimas: 'Aukskalių piliakalnis'
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+datos:
+  - '1845 m.'
+date_start: '1845'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
+amziai:
+  - 'XIX'
 ---
 # Aukskalių piliakalnis
 
 ## Santrauka
 
-Nadruvoje, Auksinės ir Didlovos santakoje, esama Aukskalių piliakalnio (HE, p. 46; CV, t. Aukskalių piliakalnis yra buvusių Obeliškių apylinkėse, į pietvakarius nuo Įsruties, Auksinės žemupyje.
+Dusburgietis teigia, kad nadruvoje, Auksinės ir Didlovos santakoje, esama Aukskalių piliakalnio (HE, p. 46; CV, t. Dusburgietis teigia, kad zelencovo) apylinkės su Romovupe ir Aukskalių piliakalniu, esančios į pietvakarius nuo Įsruties (dab.
 
 ## Teiginiai
 
@@ -20,6 +26,11 @@ Nadruvoje, Auksinės ir Didlovos santakoje, esama Aukskalių piliakalnio (HE, p.
 - t-001
   global_id: t-58519
   teiginys: 'Nadruvoje, Auksinės ir Didlovos santakoje, esama Aukskalių piliakalnio (HE, p. 46; CV, t.'
+  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
+  susije_objektai: 'mentioned_place: Auksinė'
+  temporaliniai_duomenys: 'įvykio data: 1845 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'claim_quality_pipeline deterministic repair'
   pagrindžia:
     - c-001
 
@@ -27,6 +38,8 @@ Nadruvoje, Auksinės ir Didlovos santakoje, esama Aukskalių piliakalnio (HE, p.
 - t-002
   global_id: t-58520
   teiginys: 'Aukskalių piliakalnis yra buvusių Obeliškių apylinkėse, į pietvakarius nuo Įsruties, Auksinės žemupyje.'
+  sudarymo_pagrindimas: 'Pradinis teiginys fragmentiškas; citata remia vietos apibūdinimą.'
+  susije_objektai: 'mentioned_place: Auksinė'
   pagrindžia:
     - c-002
 

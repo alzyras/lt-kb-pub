@@ -40,6 +40,7 @@ Nenurodyta
 - t-001
   global_id: t-71566
   teiginys: 'Laivo pavidalo akmens kirviai su skyle kotui įstatyti išskiriami kaip būdingas neolito įrankis.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vilniaus gaisro gesinimo įrankiai|Vilniaus gaisro gesinimo įrankiai]]'
   pagrindžia:
     - c-001
 
@@ -61,7 +62,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Vilniaus gaisro gesinimo įrankiai]]

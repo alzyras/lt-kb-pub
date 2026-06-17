@@ -6,8 +6,9 @@ saltiniai:
 datos:
   - '1522 m.'
   - '1529 m.'
+  - '1536 m.'
 date_start: '1522'
-date_end: '1529'
+date_end: '1536'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -30,6 +31,8 @@ Taip pat šiek tiek vėliau, 1529 metais, Albertas Goš­ tautas, Vilniaus vaiva
 - t-001
   global_id: t-86154
   teiginys: 'Ulrikas Hozijus pradėjo mūryti tiltą per Viliją ir špitolę, o po jo mirties statybą užbaigė sūnus Jonas.'
+  sudarymo_pagrindimas: 'Pirminis sakinys per ilgas ir nepakankamai aiškiai susietas su tilto objektu.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Ulrikas Hozijus|Ulrikas Hozijus]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Vilija; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -37,6 +40,11 @@ Taip pat šiek tiek vėliau, 1529 metais, Albertas Goš­ tautas, Vilniaus vaiva
 - t-002
   global_id: t-86155
   teiginys: '1536 metais Žygimantas Senasis Ulrikui Hozijui suteikė teisę pastatyti tiltą per Viliją vietoje nepatogios perkėlos.'
+  sudarymo_pagrindimas: 'Perrašyta į konkretų faktą apie Ulriko Hozijaus tiltą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_person: [[objektai/asmenys/Žygimantas Senasis|Žygimantas Senasis]]; mentioned_place: Vilija; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'pastatymo data: 1536 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Perrašyta į konkretų faktą apie Ulriko Hozijaus tiltą.'
   pagrindžia:
     - c-001
 

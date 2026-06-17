@@ -5,8 +5,9 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1514 m.'
+  - '1621 m.'
 date_start: '1514'
-date_end: ''
+date_end: '1621'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -16,6 +17,7 @@ tags:
   - upė
 amziai:
   - 'XVI'
+  - 'XVII'
 ---
 # vartais į Rusiją
 
@@ -29,6 +31,11 @@ CHOTINO MŪŠIS 117 ## Puslapis 120 E -KURSO KUNIGAIKŠTYSTĖ S res Livontios KU
 - t-001
   global_id: t-41477
   teiginys: '1514 m. Rusijos užgrobtas Smolenskas buvo laikomas „vartais į Rusiją“ ir tapo Lietuvos bei Rusijos karinės konfrontacijos objektu.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nusako Smolensko statusą ir konfliktinę reikšmę pagal citatą.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)|Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)]]; mentioned_person: [[objektai/asmenys/Fiodoras|Fiodoras]]; mentioned_place: Chotinas; mentioned_place: Dauguva; mentioned_place: Dniepras; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Rusija; mentioned_place: Smolenskas'
+  temporaliniai_duomenys: 'įvykio data: 1514 m.; įvykio data: 1621 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako Smolensko statusą ir konfliktinę reikšmę pagal citatą.'
   pagrindžia:
     - c-001
 
@@ -82,8 +89,3 @@ CHOTINO MŪŠIS 117 ## Puslapis 120 E -KURSO KUNIGAIKŠTYSTĖ S res Livontios KU
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)]]
-- [[objektai/asmenys/Fiodoras]]

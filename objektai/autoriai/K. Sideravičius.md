@@ -29,6 +29,9 @@ Sideravičius: Nuo Durbės iki Žal­ girio (1944).
 - t-001
   global_id: t-30749
   teiginys: 'K. Sideravičius 1944 m. paskelbė darbą „Nuo Durbės iki Žalgirio“.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Istorikų kolektyvas|Istorikų kolektyvas]]; mentioned_person: [[objektai/autoriai/Juozas Jurginis|Juozas Jurginis]]; mentioned_place: Durbė'
+  temporaliniai_duomenys: 'įvykio data: 1944 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -46,7 +49,3 @@ Sideravičius: Nuo Durbės iki Žal­ girio (1944).
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Istorikų kolektyvas]]

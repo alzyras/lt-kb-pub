@@ -20,9 +20,11 @@ Dusburgietis teigia, kad 336 D. ir Jer.— Gundow, vėliau — kaimas Gundau kai
 - t-001
   global_id: t-58694
   teiginys: 'Gundava buvo kaimas kairiajame Alnos krante, o į vakarus nuo jo pakrantėje išliko piliakalnis.'
+  sudarymo_pagrindimas: 'Citata palaiko vietovės padėtį ir piliakalnio buvimą.'
+  susije_objektai: 'mentioned_place: Kaimas'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/paprociai/Įkaitų davimas kaip sutarties garantija.md#claim-t-67239|Įkaitų davimas kaip sutarties garantija (sutartis)]]: Unzatrapio, Gundavos ir Angetetos pilių žmonės atsiuntė įkaitų ir pasidavė krikščionių tikėjimui bei broliams.
 ## Reikšmingi paminėjimai
 
 - c-001

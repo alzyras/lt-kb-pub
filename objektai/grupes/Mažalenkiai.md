@@ -21,6 +21,8 @@ Bet iš kitos pusės, susitikimas su mažalenkiais galėjo jį įtikinti, kad Le
 - t-001
   global_id: t-35743
   teiginys: 'Vytauto susitikimas su mažalenkiais, autoriaus vertinimu, galėjo įtikinti Vytautą, kad Lenkija neišsižadės naudos iš Lietuvos susilpnėjimo.'
+  sudarymo_pagrindimas: 'Citata reiškia autoriaus interpretaciją, todėl reikia aiškios atribucijos.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -44,7 +46,3 @@ Bet iš kitos pusės, susitikimas su mažalenkiais galėjo jį įtikinti, kad Le
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]

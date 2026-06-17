@@ -42,6 +42,8 @@ Nenurodyta
 - t-001
   global_id: t-93016
   teiginys: 'Bažnyčios ir dvasininkai buvo atleisti nuo mokesčių, natūralijų, teismų ir pilių statymo prievolių.'
+  sudarymo_pagrindimas: 'Pirminis teiginys buvo priklausomas nuo ankstesnio sakinio.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/tėvūnas|tėvūnas]]'
   pagrindžia:
     - c-001
 
@@ -49,6 +51,7 @@ Nenurodyta
 - t-002
   global_id: t-93017
   teiginys: 'Jogailos laikais bažnyčios ir dvasininkai buvo atleisti nuo mokesčių, natūralijų, teismų ir pilių statymo prievolių.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-002
 
@@ -85,8 +88,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/tėvūnas]]

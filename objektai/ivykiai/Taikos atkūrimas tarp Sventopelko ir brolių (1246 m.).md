@@ -45,6 +45,9 @@ Nenurodyta
 - t-001
   global_id: t-62496
   teiginys: 'Po ilgų derybų Ordino broliai ir Pomeranijos kunigaikštis Sventopelkas atnaujino ankstesnę taikos sutartį.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nusako įvykį ir yra pagrįstas citatos duomenimis.'
+  susije_objektai: 'territory: Pomeranija; territory: Prūsija; mentioned_object: [[objektai/zodynas/kryžininkai|kryžininkai]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Pomeranija; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
 
@@ -52,6 +55,12 @@ Nenurodyta
 - t-002
   global_id: t-62497
   teiginys: '1246 m. buvo sudarytos paliaubos tarp Ordino ir Sventopelko.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Teiginys yra trumpas, faktinis ir tiesiogiai paremtas pastabos citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/paliaubos|paliaubos]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]'
+  temporaliniai_duomenys: 'įvykio data: 1246 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra trumpas, faktinis ir tiesiogiai paremtas pastabos citata.'
   pagrindžia:
     - c-002
 
@@ -91,12 +100,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/paliaubos]]
-
-### Susiję objektai
-- [[objektai/asmenys/Sventopelkas]]
-- [[objektai/zodynas/kryžininkai]]
-- [[objektai/zodynas/paliaubos]]

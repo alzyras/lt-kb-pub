@@ -47,6 +47,11 @@ Nenurodyta
 - t-001
   global_id: t-59676
   teiginys: '1232 m. Tolede vienas žydas surado akmenyje iškaltą knygą su hebrajiškais, graikiškais ir lotyniškais įrašais.'
+  sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir turi antraštės triukšmo.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Adomas (auksakalys)|Adomas (auksakalys)]]; mentioned_place: Toledas'
+  temporaliniai_duomenys: 'įvykio data: 1232 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys per ilgas ir turi antraštės triukšmo.'
   pagrindžia:
     - c-001
 
@@ -70,8 +75,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Adomas (auksakalys)]]
-- [[objektai/ivykiai/Tolede akmeninės knygos suradimas ir žydo krikštas (1232 m.)]]

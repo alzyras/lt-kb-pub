@@ -3,11 +3,19 @@ tipas: zodyno_irasas
 pavadinimas: 'Brazauskininkai ir landsbergininkai'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1992 m.'
+  - '1993 m.'
+  - '1996 m.'
+date_start: '1992'
+date_end: '1996'
 sukurta: ''
 atnaujinta: ''
 tags:
   - elekcija
   - sąvoka
+amziai:
+  - 'XX'
 ---
 # Brazauskininkai ir landsbergininkai
 
@@ -21,6 +29,11 @@ Net buvo sakoma, kad Lietuvos visuomenė suskilo į „brazauskininkus“ ir „
 - t-001
   global_id: t-21986
   teiginys: 'Po 1992 m. ir 1996 m. rinkimų buvo sakoma, kad Lietuvos visuomenė suskilo į „brazauskininkus“ ir „landsbergininkus“.'
+  sudarymo_pagrindimas: 'Citata leidžia pridėti kontekstą apie rinkimus ir padaryti teiginį enciklopediškesnį.'
+  susije_objektai: 'mentioned_object: [[objektai/posakiai/„brazauskininkus“ ir „landsbergininkus“|„brazauskininkus“ ir „landsbergininkus“]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: po 1992 m.; įvykio data: 1992 m.; įvykio data: 1993 m.; įvykio data: 1996 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata leidžia pridėti kontekstą apie rinkimus ir padaryti teiginį enciklopediškesnį.'
   pagrindžia:
     - c-001
 
@@ -41,10 +54,3 @@ Net buvo sakoma, kad Lietuvos visuomenė suskilo į „brazauskininkus“ ir „
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/posakiai/„brazauskininkus“ ir „landsbergininkus“]]
-- [[objektai/ivykiai/1996 m. Seimo rinkimai ir konservatorių pergalė|1996 m. Seimo rinkimai ir konservatorių pergalė (seimas, XX a.)]]
-- [[objektai/grupes/Tėvynės Sąjunga-Lietuvos konservatoriai]]
-- [[objektai/asmenys/Vytautas Landsbergis]]

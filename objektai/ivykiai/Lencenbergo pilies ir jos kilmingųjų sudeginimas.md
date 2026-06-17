@@ -38,6 +38,9 @@ Nenurodyta
 - t-001
   global_id: t-62360
   teiginys: 'Volradas Nuostabusis Lencenbergo pilyje sudegino prūsų kilminguosius ir pačią pilį.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs prieš esminį įvykį.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; mentioned_person: [[objektai/asmenys/Volradas Nuostabusis|Volradas Nuostabusis]]; mentioned_place: Notanga; mentioned_place: Prūsai; mentioned_place: Varmė'
   pagrindžia:
     - c-001
 
@@ -63,11 +66,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/drabužis]]
-
-### Susiję objektai
-- [[objektai/daiktai/Drabužiai]]
-- [[objektai/asmenys/Volradas Nuostabusis]]

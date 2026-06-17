@@ -9,10 +9,6 @@ datos:
   - '1009 m.'
 date_start: '1008'
 date_end: '1009'
-aliases:
-  - 'objektai/ivykiai/Brunono Bonifaco misija į aisčių kraštą ir žūtis'
-variantai:
-  - 'Brunono Bonifaco misija į aisčių kraštą ir žūtis'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -26,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-Per misiją į aisčių kraštą Brunonas žuvo jotvingų krašte. 1009 m. vasario 14 d. Brunonas buvo suimtas ir nužudytas su visais palydovais.
+1008 m. gale Brunonas, vienuolio vardu Bonifacas, su Boleslovo parama išvyko iš Lenkijos krikštyti aisčių. Misija baigėsi nesėkmingai: 1009 m. vasario 14 d. jis buvo suimtas ir nužudytas su visais palydovais, o vėliau paskelbtas šventuoju kankiniu.
 
 ## Laikotarpis ir datos
 
@@ -54,6 +50,8 @@ Brunono misija nebuvo sėkminga. Jis žuvo jotvingų krašte, o pats Bonifacas b
 - t-001
   global_id: t-10801
   teiginys: 'Per misiją į aisčių kraštą Brunonas žuvo jotvingų krašte.'
+  sudarymo_pagrindimas: 'Perrašyta aiškiau susiejant teiginį su įvykio objektu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_object: [[objektai/grupes/Jotvingai|Jotvingai]]; mentioned_person: [[objektai/asmenys/Brunonas|Brunonas]]'
   pagrindžia:
     - c-001
 
@@ -61,6 +59,9 @@ Brunono misija nebuvo sėkminga. Jis žuvo jotvingų krašte, o pats Bonifacas b
 - t-002
   global_id: t-71739
   teiginys: '1009 m. vasario 14 d. Brunonas buvo suimtas ir nužudytas su visais palydovais.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Brunonas|Brunonas]]; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Rusija'
+  temporaliniai_duomenys: 'įvykio data: 1009 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 
@@ -96,8 +97,3 @@ Brunono misija nebuvo sėkminga. Jis žuvo jotvingų krašte, o pats Bonifacas b
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Aisčiai]]
-- [[objektai/asmenys/Brunonas]]

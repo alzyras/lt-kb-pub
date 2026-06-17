@@ -3,12 +3,20 @@ tipas: autorius
 pavadinimas: 'O. Urbonas'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+datos:
+  - '1960 m.'
+date_start: '1960'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
   - karas
   - mūšis
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'XX a.'
 ---
 # O. Urbonas
 
@@ -22,9 +30,12 @@ Urbonas, O.
 - t-001
   global_id: t-30887
   teiginys: 'O. Urbonas parašė veikalą „1410 metų karas su kryžiuočiais ir Žalgirio mūšis“, išleistą 1960 m. Brooklyne.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/ivykiai/Tanenbergo mūšis 1410 m. liepos 15 d|Tanenbergo mūšis 1410 m. liepos 15 d]]; mentioned_person: [[objektai/autoriai/Zaskevičius, St|Zaskevičius, St]]; mentioned_place: Dancigas'
+  temporaliniai_duomenys: 'mūšio data: 1960 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/autoriai/Urbonas, O.md#claim-t-31020|Urbonas, O]]: O. Urbonas 1960 m. Brukline paskelbė darbą „1410 metų karas su kryžiuočiais ir Žalgirio mūšis“.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -43,7 +54,3 @@ Urbonas, O.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]

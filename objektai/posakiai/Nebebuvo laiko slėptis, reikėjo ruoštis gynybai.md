@@ -21,6 +21,8 @@ Nebebuvo laiko slėptis, reikėjo ruoštis gynybai.
 - t-001
   global_id: t-41457
   teiginys: 'Artėjant tanketėms, sunkvežimiams ir gurguolėms, nebebuvo laiko slėptis ir reikėjo ruoštis gynybai.'
+  sudarymo_pagrindimas: 'Vien posakis per silpnas; citata leidžia pridėti aiškų situacijos kontekstą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rytas|Rytas]]'
   pagrindžia:
     - c-001
 
@@ -41,7 +43,3 @@ Nebebuvo laiko slėptis, reikėjo ruoštis gynybai.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Rytas]]

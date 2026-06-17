@@ -27,6 +27,11 @@ Iš kitos pusės, nesant masinės reguliarios kariuomenės, bajorų pašauktinė
 - t-001
   global_id: t-78905
   teiginys: 'Pašauktinės kariuomenės trūkumus bandyta kompensuoti samdiniais, kurie buvo profesionalūs kariai.'
+  sudarymo_pagrindimas: 'Pradinė tezė nėra apie pašauktinę kariuomenę, o citata leidžia suformuluoti tiesiogiai susijusį faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1506 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinė tezė nėra apie pašauktinę kariuomenę, o citata leidžia suformuluoti tiesiogiai susijusį faktą.'
   pagrindžia:
     - c-001
 
@@ -34,6 +39,8 @@ Iš kitos pusės, nesant masinės reguliarios kariuomenės, bajorų pašauktinė
 - t-002
   global_id: t-78906
   teiginys: 'Bajorų pašauktinės kariuomenės mobilizacija galėdavo užtrukti taip ilgai, kad po apiplėšimo totoriai spėdavo pasitraukti.'
+  sudarymo_pagrindimas: 'Šaltinio mintis palaiko aiškesnį ir glaustesnį enciklopedinį sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/paprociai/Bajorų pašauktinės kariuomenės mobilizacija|Bajorų pašauktinės kariuomenės mobilizacija]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -41,6 +48,8 @@ Iš kitos pusės, nesant masinės reguliarios kariuomenės, bajorų pašauktinė
 - t-003
   global_id: t-78907
   teiginys: 'XV a. pabaigoje ir XVI a. pradžioje Lietuvos karinės organizacijos pagrindą vis dar sudarė kilmingųjų pašauktinė raitelių kariuomenė.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiksliai pagrįstas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 
@@ -112,12 +121,3 @@ Iš kitos pusės, nesant masinės reguliarios kariuomenės, bajorų pašauktinė
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Artilerija]]
-- [[objektai/grupes/Bajorai]]
-- [[objektai/grupes/Lietuvos kariuomenė]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/zodynas/vėliava]]
-- [[objektai/paprociai/Bajorų pašauktinės kariuomenės mobilizacija]]

@@ -14,7 +14,7 @@ tags:
 
 ## Santrauka
 
-Dvasios ginklai apibūdinami kaip priemonės nugalėti tikybos ir bažnyčios priešus.
+Dusburgietis teigia, kad šitaip prasidėjo naujas karas, šitaip pradėta vartoti naujas kovos priemones, leidusias mums dvasios ginklais nugalėti tikybos ir bažnyčios priešus.
 
 ## Teiginiai
 
@@ -22,6 +22,8 @@ Dvasios ginklai apibūdinami kaip priemonės nugalėti tikybos ir bažnyčios pr
 - t-001
   global_id: t-58934
   teiginys: 'Dvasios ginklai apibūdinami kaip priemonės nugalėti tikybos ir bažnyčios priešus.'
+  sudarymo_pagrindimas: 'Rewrite failed deterministic gates: missing_factual_predicate'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_person: [[objektai/asmenys/Grigalius (vicekancleris)|Grigalius (vicekancleris)]]; mentioned_person: [[objektai/asmenys/Jeronimas|Jeronimas]]'
   pagrindžia:
     - c-001
 
@@ -42,10 +44,3 @@ Dvasios ginklai apibūdinami kaip priemonės nugalėti tikybos ir bažnyčios pr
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Ginklai]]
-- [[objektai/asmenys/Grigalius (vicekancleris)]]
-- [[objektai/asmenys/Jeronimas]]
-- [[objektai/zodynas/daiktiški ir dvasiški ginklai dvasios ginklai]]

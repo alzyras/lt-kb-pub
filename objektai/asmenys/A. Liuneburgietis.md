@@ -20,9 +20,11 @@ Liuneburgietis.
 - t-001
   global_id: t-39696
   teiginys: 'Švedų generolas A. Liuneburgietis žuvo per sumaištį švedų pėstininkų rikiuotėje.'
+  sudarymo_pagrindimas: 'Pradinis teiginys neturi predikato, o citata pateikia konkretų faktą apie asmens žūtį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_person: [[objektai/asmenys/Vaina|Vaina]]'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.).md#claim-t-10278|Salaspilio (Kircholmo) mūšis (1605 m.)]]: Salaspilio mūšyje švedų kavalerijai netvarkingai traukiantis suiro pėstininkų rikiuotė, o centre žuvo švedų generolas A. Liuneburgietis.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -36,8 +38,3 @@ Liuneburgietis.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Švedai]]
-- [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.)]]

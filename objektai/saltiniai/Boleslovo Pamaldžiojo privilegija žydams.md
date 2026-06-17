@@ -29,6 +29,11 @@ amziai:
 - t-001
   global_id: t-88411
   teiginys: '1408 m. Lucke visiems Lietuvos žydams suteiktos laisvės rėmėsi XIII a. Boleslovo Pamaldžiojo privilegijos pavyzdžiu.'
+  sudarymo_pagrindimas: 'Pradinis tekstas turi puslapio triukšmo, o citata aiškiai sieja 1408 m. laisves su Boleslovo privilegija.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Luckas; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1408 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis tekstas turi puslapio triukšmo, o citata aiškiai sieja 1408 m. laisves su Boleslovo privilegija.'
   pagrindžia:
     - c-001
 

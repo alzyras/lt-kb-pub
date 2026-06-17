@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Žiūrint kas kaip įsitikinęs galėsiąs įsiteikti savo dievams. Žiokos valsčiuje gyvenęs prūsas Dargis nepakentė baltų žirgų, o Sembos fogtas Ditrichas mėgino jį atpratinti nuo šio prietaro.
+Dusburgietis teigia, kad žiūrint kas kaip įsitikinęs galėsiąs įsiteikti savo dievams. Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiuje216, gyveno vienas prūsas, vardu Dargis, kuris nepakentė baltų žirgų; brolis Ditrichas, Sembos fogtas217, norėdamas jį atpratinti nuo prietaro, nupirko jam baltą arklį ir, nors tas ir prieštaravo, pastatė jį.
 
 ## Laikotarpis ir datos
 
@@ -40,6 +40,8 @@ Nenurodyta
 - t-001
   global_id: t-62179
   teiginys: 'Žiūrint kas kaip įsitikinęs galėsiąs įsiteikti savo dievams.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
   pagrindžia:
     - c-002
 
@@ -47,6 +49,9 @@ Nenurodyta
 - t-002
   global_id: t-62180
   teiginys: 'Žiokos valsčiuje gyvenęs prūsas Dargis nepakentė baltų žirgų, o Sembos fogtas Ditrichas mėgino jį atpratinti nuo šio prietaro.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Citata remia aiškų faktą, bet pirminis teiginys buvo per ilgas ir fragmentiškas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_object: [[objektai/zodynas/fogtas|fogtas]]; mentioned_person: [[objektai/asmenys/Dargis|Dargis]]; mentioned_place: Semba; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -85,11 +90,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Baltai]]
-- [[objektai/grupes/Rytas]]
-- [[objektai/asmenys/Dargis]]
-- [[objektai/zodynas/fogtas]]
-- [[objektai/asmenys/Ditrichas (Sembos fogtas)]]

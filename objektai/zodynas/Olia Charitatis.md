@@ -27,6 +27,8 @@ Iš Joniškio - neturtingiems studentams kasdien Olia Charitatis [labdaringi pie
 - t-001
   global_id: t-86601
   teiginys: 'Iš Joniškio pajamų neturtingiems studentams kasdien buvo skiriami Olia Charitatis labdaringi pietūs ir duonos kepalas.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus ir paremtas citata apie Joniškio pajamas bei Olia Charitatis.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Oginskiai|Oginskiai]]; mentioned_object: [[objektai/daiktai/Akademijos observatorijos prietaisai|Akademijos observatorijos prietaisai]]; mentioned_object: [[objektai/daiktai/Duona|Duona]]; mentioned_person: [[objektai/asmenys/Puzinienė iš Oginskių|Puzinienė iš Oginskių]]; mentioned_place: Mstislavlis'
   pagrindžia:
     - c-001
 
@@ -54,10 +56,3 @@ Iš Joniškio - neturtingiems studentams kasdien Olia Charitatis [labdaringi pie
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Akademijos observatorijos prietaisai]]
-- [[objektai/daiktai/Duona]]
-- [[objektai/grupes/Oginskiai]]
-- [[objektai/asmenys/Puzinienė iš Oginskių]]

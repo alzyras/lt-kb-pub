@@ -26,6 +26,11 @@ Dusburgietis teigia, kad otrębski J.
 - t-001
   global_id: t-61207
   teiginys: 'J. Otrębskio „Namen von zwei Jatwingerstämmen“ 1963 m. publikuotas Berlyne leidinyje „Slawische Namenforschung“.'
+  sudarymo_pagrindimas: 'Citata nurodo autorių, pavadinimą, leidinį, vietą ir metus.'
+  susije_objektai: 'mentioned_place: Berlynas'
+  temporaliniai_duomenys: 'įvykio data: 1963 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata nurodo autorių, pavadinimą, leidinį, vietą ir metus.'
   pagrindžia:
     - c-001
 

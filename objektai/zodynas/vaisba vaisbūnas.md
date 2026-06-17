@@ -15,16 +15,18 @@ tags:
 Todėl net iki mūsų laikų yra išlikęs žodis vaisba, kurs reiškia prekybą, vaisbūnas — pirklį.
 
 ## Teiginiai
+
 <a id="claim-t-43358"></a>
 - t-001
   global_id: t-43358
   teiginys: 'Žodis „vaisba“ reiškė prekybą, o „vaisbūnas“ - pirklį.'
+  sudarymo_pagrindimas: 'Pirminis teiginys prasideda kontekstiniu „Todėl“ ir turi būti paverstas savarankišku žodyno faktu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Vaisba ir vaisbūnas|Vaisba ir vaisbūnas]]'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Žodis „vaisba“ reiškė prekybą, o „vaisbūnas“ - pirklį.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -33,15 +35,8 @@ Todėl net iki mūsų laikų yra išlikęs žodis vaisba, kurs reiškia prekybą
     vienareikšmės sąvokos. Kitokių pirklių jie, matyt, nė nepažino. To-
     dėl net iki mūsų laikų yra išlikęs žodis vaisba, kurs reiškia pre-
     kybą, vaisbūnas — pirklį.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/Vaisba ir vaisbūnas]]

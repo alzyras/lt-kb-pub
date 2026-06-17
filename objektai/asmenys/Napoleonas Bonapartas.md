@@ -3,12 +3,22 @@ tipas: asmuo
 pavadinimas: 'Napoleonas Bonapartas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1795 m.'
+  - '1815 m.'
+date_start: '1795'
+date_end: '1815'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - karas
   - kraštas
+amziai:
+  - 'XVIII'
+  - 'XIX'
+periodo_grupes:
+  - 'naujieji laikai'
 ---
 # Napoleonas Bonapartas
 
@@ -22,6 +32,11 @@ Prūsija prisijungė Užnemunę ir pavadino ją „Naująja Prūsija“ (Prūsij
 - t-001
   global_id: t-19167
   teiginys: 'Napoleonas Bonapartas 1806 m. įkūrė Varšuvos kunigaikštiją.'
+  sudarymo_pagrindimas: 'Sakinys yra aiškus ir citata jį tiesiogiai patvirtina.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_place: Austrija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Rusija; mentioned_place: Užnemunė; mentioned_place: Varšuva'
+  temporaliniai_duomenys: 'įkūrimo data: iki 1806 m.; įkūrimo data: 1795 m.; įkūrimo data: 1806 m.; įkūrimo data: 1815 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įkūrimo data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Sakinys yra aiškus ir citata jį tiesiogiai patvirtina.'
   pagrindžia:
     - c-001
 
@@ -29,6 +44,11 @@ Prūsija prisijungė Užnemunę ir pavadino ją „Naująja Prūsija“ (Prūsij
 - t-002
   global_id: t-19168
   teiginys: '1812 m. birželį Napoleonas Bonapartas pradėjo karą su Rusija, po kurio didžioji dalis buvusių LDK žemių greitai atsidūrė jo valdžioje.'
+  sudarymo_pagrindimas: 'Sakinys pilnas, aiškus ir pagrįstas pateikta citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Rusija; mentioned_place: Varšuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1812 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Sakinys pilnas, aiškus ir pagrįstas pateikta citata.'
   pagrindžia:
     - c-003
 
@@ -36,6 +56,11 @@ Prūsija prisijungė Užnemunę ir pavadino ją „Naująja Prūsija“ (Prūsij
 - t-003
   global_id: t-19169
   teiginys: 'Napoleonas Bonapartas įkūrė Varšuvos kunigaikštystę, kuriai 1807–1814 m. priklausė Užnemunė.'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo apie teritoriją, perrašyta kaip faktas apie asmenį.'
+  susije_objektai: 'owner: Užnemunė; owner: Varšuva; mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_place: Lietuva; mentioned_place: Užnemunė; mentioned_place: Varšuva'
+  temporaliniai_duomenys: 'priklausymo laikotarpis: iki 1807 m.; priklausymo laikotarpis: 1807 m.; priklausymo laikotarpis: 1807-1814; priklausymo laikotarpis: 1814 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Lietuva priklausė Užnemunė“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Lietuva priklausė Varšuva“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys buvo apie teritoriją, perrašyta kaip faktas apie asmenį.'
   pagrindžia:
     - c-002
 
@@ -88,10 +113,3 @@ Prūsija prisijungė Užnemunę ir pavadino ją „Naująja Prūsija“ (Prūsij
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/gubernija]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/kunigaikštija]]
-- [[objektai/grupes/Laikinoji LDK vyriausybė]]

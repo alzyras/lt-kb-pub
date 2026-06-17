@@ -40,6 +40,8 @@ Nenurodyta
 - t-001
   global_id: t-39311
   teiginys: 'Žmogus su automobiliu „Žiguliais“ pavežė ginkluotus pasakotojo bendražygius į Žvėryno pusę.'
+  sudarymo_pagrindimas: 'Citata pagrindžia konkretų automobilio panaudojimą pasakojamame epizode.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]'
   pagrindžia:
     - c-001
 
@@ -60,7 +62,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Šautuvai]]

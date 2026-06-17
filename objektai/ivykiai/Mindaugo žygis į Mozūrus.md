@@ -42,6 +42,11 @@ Nenurodyta
 - t-001
   global_id: t-95971
   teiginys: '1236 m. Mindaugas turėjo Lietuvoje pirmaujančią reikšmę ir tais metais surengė didelį žygį į Mozūrus.'
+  sudarymo_pagrindimas: 'Citata pagrindžia faktą, bet reikia pašalinti OCR triukšmą ir suformuluoti aiškų sakinį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1236 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia faktą, bet reikia pašalinti OCR triukšmą ir suformuluoti aiškų sakinį.'
   pagrindžia:
     - c-001
 
@@ -61,8 +66,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
-- [[objektai/zodynas/žygis]]

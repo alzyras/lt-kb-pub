@@ -20,6 +20,8 @@ Prie Vorsklos galvas paguldė Vytauto ištikimieji Smolensko vietininkai Boreika
 - t-001
   global_id: t-30384
   teiginys: 'Spytekas iš Melsztyno, Krokuvos vaivada ir Podolės valdytojas, žuvo prie Vorsklos.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nurodo Spytko pareigas ir žūtį, kaip paremta citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Karijotaičiai|Karijotaičiai]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Dlugošas|Dlugošas]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_place: Brianskas; mentioned_place: Krokuva; mentioned_place: Maskva; mentioned_place: Podolė; mentioned_place: Polockas; mentioned_place: Smolenskas; mentioned_place: Vorskla'
   pagrindžia:
     - c-001
 
@@ -41,10 +43,3 @@ Prie Vorsklos galvas paguldė Vytauto ištikimieji Smolensko vietininkai Boreika
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Dlugošas]]
-- [[objektai/grupes/Karijotaičiai]]
-- [[objektai/asmenys/Mykolas]]
-- [[objektai/zodynas/vaivada]]

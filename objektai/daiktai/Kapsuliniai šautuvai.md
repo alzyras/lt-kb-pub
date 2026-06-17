@@ -51,6 +51,8 @@ Nenurodyta
 - t-001
   global_id: t-40722
   teiginys: 'Rusų kariai pranoko sukilėlius ginkluote, nes buvo ginkluoti naujo pavyzdžio kapsuliniais šautuvais.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nusako kapsulinių šautuvų reikšmę ir remiasi citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]; mentioned_place: Krymas'
   pagrindžia:
     - c-001
 
@@ -71,8 +73,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Rusai]]
-- [[objektai/daiktai/Šautuvai]]

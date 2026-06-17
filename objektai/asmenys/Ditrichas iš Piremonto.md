@@ -20,9 +20,11 @@ Dusburgietis teigia, kad kai po to broliai pasuko atgal, suplūdo, išvydę min�
 - t-001
   global_id: t-60267
   teiginys: 'Ditrichas iš Piremonto žuvo, kai vietos stabmeldžiai užpuolė nuo pilies pasitraukiančius Ordino brolius.'
+  sudarymo_pagrindimas: 'Citata remia žūtį per atsitraukimą; pradinis teiginys per ilgas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/stabmeldžiai|stabmeldžiai]]'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/zodynas/pilėnas pilėnai.md#claim-t-58797|pilėnas pilėnai]]: Junigedos pilėnai, įspėti apie artėjančią brolių kariuomenę, ugnimi ir dūmais pranešė kaimyniniams stabmeldžiams.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -45,8 +47,3 @@ Dusburgietis teigia, kad kai po to broliai pasuko atgal, suplūdo, išvydę min�
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/stabmeldžiai]]
-- [[objektai/zodynas/pilėnas pilėnai]]

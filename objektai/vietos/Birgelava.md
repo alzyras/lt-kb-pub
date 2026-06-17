@@ -10,12 +10,13 @@ tags:
   - miestas
   - mūšis
   - pilis
+  - vieta
 ---
 # Birgelava
 
 ## Santrauka
 
-Treniota su talkininkais subūrė iki 30000 vyrų ir dalį jų pasiuntė į Kulmo žemę, kur buvo paimta Birgelavos pilis. Į Kulmo žemę įsibrovę kariai paėmė Birgelavos pilį ir pagrobė joje buvusius gyvulius bei mantą. Vakarop ji priėjo Birgelavos pilį ir ten įsirengė stovyklą443.
+Dusburgietis teigia, kad likę įsibrovė į Kulmo žemę ir, neskaitant kitų piktybių, ten pridarytų, paėmė Birgelavos pilį438, pagrobdami gyvulius bei visą mantą brolių ir tų žmonių, kurie buvo subėgę į pilį. Dusburgietis teigia, kad vakarop ji priėjo Birgelavos pilį ir ten įsirengė stovyklą443.
 
 ## Teiginiai
 
@@ -23,6 +24,8 @@ Treniota su talkininkais subūrė iki 30000 vyrų ir dalį jų pasiuntė į Kulm
 - t-001
   global_id: t-90326
   teiginys: 'Treniota su talkininkais subūrė iki 30000 vyrų ir dalį jų pasiuntė į Kulmo žemę, kur buvo paimta Birgelavos pilis.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs; citata pagrindžia Treniotos veiksmą ir ryšį su Birgelavos pilimi.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_person: [[objektai/asmenys/Treniota|Treniota]]; mentioned_place: Kulmas; mentioned_place: Pamedė; mentioned_place: Prūsija; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -30,6 +33,8 @@ Treniota su talkininkais subūrė iki 30000 vyrų ir dalį jų pasiuntė į Kulm
 - t-002
   global_id: t-90327
   teiginys: 'Į Kulmo žemę įsibrovę kariai paėmė Birgelavos pilį ir pagrobė joje buvusius gyvulius bei mantą.'
+  sudarymo_pagrindimas: 'Pradinis teiginys prasideda boilerplate ir yra per ilgas; citata remia aiškų faktą apie pilies paėmimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_place: Kulmas; mentioned_place: Pamedė; mentioned_place: Prūsija; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -37,9 +42,13 @@ Treniota su talkininkais subūrė iki 30000 vyrų ir dalį jų pasiuntė į Kulm
 - t-003
   global_id: t-90328
   teiginys: 'Vakarop ji priėjo Birgelavos pilį ir ten įsirengė stovyklą443.'
+  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_place: Kulmas; mentioned_place: Viena'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/asmenys/Treniota.md#claim-t-90060|Treniota]]: Treniota su talkininkais subūrė iki 30 000 vyrų, nusiaubė Mazoviją ir Pamedę, o jo pajėgos paėmė Birgelavos pilį.
+- susijęs iš [[objektai/ivykiai/Skomanto naktinis puolimas prie Birgelavos.md#claim-t-91919|Skomanto naktinis puolimas prie Birgelavos]]: Vakarop ji priėjo Birgelavos pilį ir ten įsirengė stovyklą443.
+- susijęs iš [[objektai/ivykiai/Treniotos žygis į Kulmo žemę ir Birgelavos pilies apiplėšimas.md#claim-t-62509|Treniotos žygis į Kulmo žemę ir Birgelavos pilies apiplėšimas (pilis)]]: Treniota subūrė iki 30 tūkst. vyrų, įsiveržė į Kulmo žemę ir paėmė Birgelavos pilį, pagrobdamas gyvulius bei mantą.
 ## Reikšmingi paminėjimai
 
 - c-001

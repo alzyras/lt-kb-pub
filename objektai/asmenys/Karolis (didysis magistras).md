@@ -31,6 +31,8 @@ Dusburgietis teigia, kad spalio 12 Tuo tarpu brolis Karolis, didysis magistras, 
 - t-001
   global_id: t-89880
   teiginys: 'Kristmemelio pilis buvo pastatyta magistro Karolio.'
+  sudarymo_pagrindimas: 'Citata aiškiai pagrindžia trumpą faktą apie Karolio vaidmenį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Kristmemelis; mentioned_place: Livonija; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
 
@@ -38,6 +40,11 @@ Dusburgietis teigia, kad spalio 12 Tuo tarpu brolis Karolis, didysis magistras, 
 - t-002
   global_id: t-89881
   teiginys: '1315 m. spalio 12 d. didysis magistras Karolis subūrė kariuomenę Junigedos piliai vaduoti.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, susietas su asmeniu ir paremtas citata bei antrašte.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_place: Junigeda; mentioned_place: Kristmemelis'
+  temporaliniai_duomenys: 'įvykio data: 1315 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, susietas su asmeniu ir paremtas citata bei antrašte.'
   pagrindžia:
     - c-002
 
@@ -81,11 +88,3 @@ Dusburgietis teigia, kad spalio 12 Tuo tarpu brolis Karolis, didysis magistras, 
   pagrindžia:
     - t-003
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Karolis]]
-- [[objektai/zodynas/didysis magistras]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/ivykiai/Junigedos papilio sudeginimas (1315 m. spalio 12 d.)]]

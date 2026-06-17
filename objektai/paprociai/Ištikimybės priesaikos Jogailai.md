@@ -12,13 +12,13 @@ date_start: '1402'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XV'
-  - 'XXI'
 tags:
   - karalius
   - kunigaikštis
   - paprotys
+amziai:
+  - 'XV'
+  - 'XXI'
 ---
 # Ištikimybės priesaikos Jogailai
 
@@ -47,20 +47,43 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
+<a id="claim-t-176229"></a>
+- t-001
+  global_id: t-176229
+  teiginys: 'Iš Krokuvos išvykdami Skirgaila ir Vytautas turėjo duoti priesaika patvirtintus raštus dėl ištikimybės Jogailai ir Jadvygai.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Jadvyga|Jadvyga]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Sviatoslavas|Sviatoslavas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Polockas; mentioned_place: Smolenskas'
+  pagrindžia:
+    - c-001
+
 <a id="claim-t-176231"></a>
 - t-002
   global_id: t-176231
   teiginys: 'Tuo metu Jogailai ir Karūnai buvo duotos trys ištikimybės priesaikos.'
+  sudarymo_pagrindimas: 'Šaltinis palaiko faktą, bet pirminis tekstas turi OCR triukšmo.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Jadvyga|Jadvyga]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Sviatoslavas|Sviatoslavas]]; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Polockas; mentioned_place: Smolenskas'
   pagrindžia:
     - c-002
-- t-003
-  teiginys: 'Iš Krokuvos išvykdami Skirgaila ir Vytautas turėjo duoti priesaika patvirtintus raštus dėl ištikimybės Jogailai ir Jadvygai.'
-  pagrindžia:
-    - c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+- c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Bet veikiai kunigaikščiams reikėjo
+    grįžti namo, nes Polocko kunigaikštis Andrius drauge su Livo-
+    nijos ordinu ir Smolensko kunigaikščiu Sviatoslavu vėl pradėjo
+    karą prieš Jogailą. Pirmučiausia šitam reikalui iš Krokuvos
+    buvo atleisti Skirgaila su Vytautu. Išvykdami jie buvo pri-
+    versti duoti priesaika patvirtintus raštus, kad amžinai būsią
+    ištikimi Lenkų karaliui Jogailai su karaliene Jadvyga ir kad pa-
+    šaukti tuojau atvyksią į Lenkiją.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
 - c-002
   santrauka: 'Tuo metu Jogailai ir Karūnai buvo duotos trys ištikimybės priesaikos.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -75,35 +98,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'Iš Krokuvos išvykdami Skirgaila ir Vytautas turėjo duoti priesaika patvirtintus raštus dėl ištikimybės Jogailai ir Jadvygai.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Bet veikiai kunigaikščiams reikėjo
-    grįžti namo, nes Polocko kunigaikštis Andrius drauge su Livo-
-    nijos ordinu ir Smolensko kunigaikščiu Sviatoslavu vėl pradėjo
-    karą prieš Jogailą. Pirmučiausia šitam reikalui iš Krokuvos
-    buvo atleisti Skirgaila su Vytautu. Išvykdami jie buvo pri-
-    versti duoti priesaika patvirtintus raštus, kad amžinai būsią
-    ištikimi Lenkų karaliui Jogailai su karaliene Jadvyga ir kad pa-
-    šaukti tuojau atvyksią į Lenkiją.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Jadvyga]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/autoriai/Prochaska]]
-- [[objektai/asmenys/Skirgaila]]
-- [[objektai/asmenys/Sviatoslavas]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/Miera|miera]]
-- [[objektai/daiktai/Karūna]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

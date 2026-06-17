@@ -42,6 +42,9 @@ Nenurodyta
 - t-001
   global_id: t-62687
   teiginys: 'Vienas brolis iki mirties kasdien ant pliko kūno juosėjo sunkią geležinę grandinę.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]'
   pagrindžia:
     - c-001
 
@@ -64,7 +67,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Kūnas]]

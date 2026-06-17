@@ -5,6 +5,7 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1940 m.'
+  - '1991 m.'
   - '2026 m.'
 date_start: '1940'
 date_end: '2026'
@@ -20,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Sausio 11-13 d. priesaika sudarė teisinį pagrindą Lietuvos piliečiui ginti savo valstybę ginklu, o gynyboje dalyvavo kariai savanoriai, KAD darbuotojai, pasieniečiai, apsaugos pareigūnai ir šauliai. Karinės inžinerijos prasme Aukščiausiosios Tarybos rūmų gynybą sudarė rūmų vidaus, išorinio perimetro ir tolimųjų prieigų žiedai. Gynyba buvo grindžiama trimis principais, o politinė vadovybė laikėsi nuostatos nepasiduoti, bet ir neperžengti paskutinės ribos be būtinybės.
+Šiame gabale gynyba aprašoma kaip nuoseklus AT rūmų, jų prieigų ir visuomenės pasipriešinimo organizavimas nuo sausio dienų iki rugpjūčio pučo. Tekste aiškiai siejami Sausio 13-osios nakties įvykiai, vėlesni fortifikavimo darbai ir rugpjūčio mėnesio įtampos eskalacija. Pirmosiomis sausio dienomis gynėjai buvo išdėstyti ginti rūmus, jų išorinį perimetrą ir atakuoti sovietų pajėgas iš nugaros Gynyba buvo grindžiama trimis principais, o politinė vadovybė laikėsi nuostatos nepasiduoti, bet ir neperžengti paskutinės ribos be būtinybės.
 
 ## Laikotarpis ir datos
 
@@ -44,6 +45,7 @@ Nenurodyta
 - t-001
   global_id: t-171452
   teiginys: 'Sausio 11-13 d. priesaika sudarė teisinį pagrindą Lietuvos piliečiui ginti savo valstybę ginklu, o gynyboje dalyvavo kariai savanoriai, KAD darbuotojai, pasieniečiai, apsaugos pareigūnai ir šauliai.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Aukščiausiosios Tarybos rūmai; mentioned_place: Lietuva'
   pagrindžia:
     - c-009
 
@@ -51,6 +53,7 @@ Nenurodyta
 - t-002
   global_id: t-171453
   teiginys: 'Karinės inžinerijos prasme Aukščiausiosios Tarybos rūmų gynybą sudarė rūmų vidaus, išorinio perimetro ir tolimųjų prieigų žiedai.'
+  susije_objektai: 'mentioned_place: Aukščiausiosios Tarybos rūmai'
   pagrindžia:
     - c-008
 
@@ -58,6 +61,7 @@ Nenurodyta
 - t-003
   global_id: t-171454
   teiginys: 'Gynyba buvo grindžiama trimis principais, o politinė vadovybė laikėsi nuostatos nepasiduoti, bet ir neperžengti paskutinės ribos be būtinybės.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Lietuvos atsikūrimas|Lietuvos atsikūrimas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-007
 
@@ -65,6 +69,11 @@ Nenurodyta
 - t-004
   global_id: t-171455
   teiginys: 'Pirmomis sausio įvykių dienomis mažesnioji Aukščiausiosios Tarybos gynėjų dalis turėjo užduotį ginti rūmus ir jų išorinį perimetrą.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatinis ir paremtas pateikta citata.'
+  susije_objektai: 'mentioned_object: [[objektai/posakiai/Nepakartoti 1940 m. klaidos!|Nepakartoti 1940 m. klaidos!]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/autoriai/Martynas Mažvydas Vaitkūnas|Martynas Mažvydas Vaitkūnas]]; mentioned_place: Aukščiausiosios Tarybos rūmai'
+  temporaliniai_duomenys: 'įvykio data: 1940 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatinis ir paremtas pateikta citata.'
   pagrindžia:
     - c-001
 
@@ -72,6 +81,7 @@ Nenurodyta
 - t-005
   global_id: t-171457
   teiginys: 'Sausio 13-osios naktį žuvo 14 laisvės gynėjų, netoli tūkstančio buvo sužeisti, o Parlamento užpuolikai nebepuolė.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-003
 
@@ -79,6 +89,11 @@ Nenurodyta
 - t-006
   global_id: t-171458
   teiginys: '1991 m. sausio 11–12 d. Aukščiausiosios Tarybos rūmų viduje spygliuota viela apraizgyti praėjimai ir ventiliacinės angos, o pirmasis aukštas sutvirtintas smėlio maišais bei armatūros tinklais.'
+  sudarymo_pagrindimas: 'Pašalintas puslapio triukšmas ir suformuluotas vientisas faktinis sakinys.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Aukščiausiosios Tarybos rūmai'
+  temporaliniai_duomenys: 'įvykio data: 1991 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas puslapio triukšmas ir suformuluotas vientisas faktinis sakinys.'
   pagrindžia:
     - c-006
 
@@ -86,6 +101,9 @@ Nenurodyta
 - t-007
   global_id: t-171459
   teiginys: 'Pirmosiomis savaitėmis po kruvinosios nakties buvo įrengtos smėlio, akmenų ir gelžbetonio barikados, o gynyba buvo planingai stiprinama.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Afganistanas'
+  temporaliniai_duomenys: 'įvykio data: 1991 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-004
 
@@ -93,6 +111,8 @@ Nenurodyta
 - t-008
   global_id: t-171460
   teiginys: 'Aukščiausiosios Tarybos rūmų gynybai priskiriami trys principai: agresijos fiksavimas, karinė gynyba ir pilietinis nesmurtinis pasipriešinimas.'
+  sudarymo_pagrindimas: 'Teiginys performuluotas kaip šaltinyje išskiriama interpretacija.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Lietuvos atsikūrimas|Lietuvos atsikūrimas]]; mentioned_place: Aukščiausiosios Tarybos rūmai; mentioned_place: Lietuva'
   pagrindžia:
     - c-007
 
@@ -100,6 +120,11 @@ Nenurodyta
 - t-009
   global_id: t-171461
   teiginys: 'Artėjant 1991 m. rugpjūčio Maskvos pučui, Lietuvos kariai jau turėjo pirmąsias uniformas, o Aukščiausiosios Tarybos gynyba buvo geriau organizuota.'
+  sudarymo_pagrindimas: 'Santrumpa išplėsta, o sakinys suformuluotas be OCR triukšmo.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Aukščiausiosios Tarybos rūmai; mentioned_place: Lietuva; mentioned_place: Maskva'
+  temporaliniai_duomenys: 'įvykio data: 1991 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Santrumpa išplėsta, o sakinys suformuluotas be OCR triukšmo.'
   pagrindžia:
     - c-005
 
@@ -107,6 +132,9 @@ Nenurodyta
 - t-010
   global_id: t-171462
   teiginys: '1991 m. sausio 13-osios naktį užpuolimas buvo įvardytas kaip karinė agresija ir svetimos jėgos primestas karo stovis.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: SSRS'
+  temporaliniai_duomenys: 'įvykio data: 1991 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 
@@ -114,6 +142,11 @@ Nenurodyta
 - t-011
   global_id: t-171463
   teiginys: '1991 m. sausio 11–13 d. Aukščiausiosios Tarybos rūmuose duota Lietuvos kario savanorio priesaika tapo teisiniu pagrindu piliečiui ginklu ginti valstybę.'
+  sudarymo_pagrindimas: 'Citata palaiko aiškesnį sakinį be nutrūkusių kabučių ir perteklinio fragmento.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Savanoris|Savanoris]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Aukščiausiosios Tarybos rūmai; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1991 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko aiškesnį sakinį be nutrūkusių kabučių ir perteklinio fragmento.'
   pagrindžia:
     - c-009
 
@@ -121,9 +154,19 @@ Nenurodyta
 - t-012
   global_id: t-171464
   teiginys: 'Pirmomis sausio įvykių dienomis tik mažesnioji Aukščiausiosios Tarybos gynėjų dalis turėjo aiškesnę užduotį ginti rūmus ir jų išorinį perimetrą.'
+  sudarymo_pagrindimas: 'Santrumpa išplėsta, kad teiginys būtų aiškesnis viešai bazei.'
+  susije_objektai: 'mentioned_object: [[objektai/posakiai/Nepakartoti 1940 m. klaidos!|Nepakartoti 1940 m. klaidos!]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/autoriai/Martynas Mažvydas Vaitkūnas|Martynas Mažvydas Vaitkūnas]]; mentioned_place: Aukščiausiosios Tarybos rūmai'
+  temporaliniai_duomenys: 'įvykio data: 1940 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Santrumpa išplėsta, kad teiginys būtų aiškesnis viešai bazei.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Virginijus Česnulevičius.md#claim-t-79218|Virginijus Česnulevičius]]: Virginijus Česnulevičius 1991 m. buvo Aukščiausiosios Tarybos gynybos štabo narys.
+- susijęs iš [[objektai/asmenys/Vygantas Jocius.md#claim-t-39677|Vygantas Jocius]]: Parlamento gynėjas ir kūrėjas savanoris Vygantas Jocius 2010 m. pagamino demonstracinę butelio su padegamuoju skysčiu versiją.
+- susijęs iš [[objektai/asmenys/Česlovas Jezerskas.md#claim-t-79244|Česlovas Jezerskas]]: Česlovas Jezerskas 1991 m. buvo Aukščiausiosios Tarybos gynybos štabo narys.
+- susijęs iš [[objektai/autoriai/Švedas V.md#claim-t-39873|Švedas V]]: V. Švedas 1994 m. VPU parengė bakalauro darbą „Sausio 13-oji ir Aukščiausios Tarybos rūmų gynimas“.
+- susijęs iš [[objektai/grupes/Dariaus ir Girėno skraidymo klubas.md#claim-t-78164|Dariaus ir Girėno skraidymo klubas]]: Aukščiausiosios Tarybos gynybai radijo stotys buvo gautos iš Dariaus ir Girėno skraidymo klubo.
+- susijęs iš [[objektai/grupes/Dariaus ir Girėno skraidymo klubas.md#claim-t-78165|Dariaus ir Girėno skraidymo klubas]]: Aukščiausiosios Tarybos gynybai radijo stotys buvo gautos iš Dariaus ir Girėno skraidymo klubo.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -315,19 +358,3 @@ Nenurodyta
   pagrindžia:
     - t-011
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/paprociai/Aukščiausiosios Tarybos gynybos principai|Aukščiausiosios Tarybos gynybos principai (institucija)]]
-- [[objektai/daiktai/Ginklai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/Lietuvos atsikūrimas]]
-- [[objektai/autoriai/Martynas Mažvydas Vaitkūnas]]
-- [[objektai/posakiai/Nepakartoti 1940 m. klaidos!]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Dariaus ir Girėno skraidymo klubas]]
-- [[objektai/asmenys/Virginijus Česnulevičius]]
-- [[objektai/asmenys/Vygantas Jocius]]
-- [[objektai/asmenys/Česlovas Jezerskas]]
-- [[objektai/autoriai/Švedas V]]
-- [[objektai/zodynas/Savanoris]]

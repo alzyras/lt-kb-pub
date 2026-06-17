@@ -22,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-Rusintojai tikėjosi laimėti, „lenkų pradų naikinimo“ politiką papildydami „rusų pradų atkūrimo“ politika. „Rusų pradus“ švietimo įstaigose turėjo diegti rusai mokytojai, paprastai atvykę iš Rusijos gilumos.
+Juk separatizmas tarpo pirmiausia vietos bajoriškoje visuomenėje, laikiusioje save atskira politine tauta, o valstiečiai, jų masė, nebuvo tos tautos nariai, tad rusintojai manė laimėti „lenkų pradų naikinimo“ politiką papildę „rusų pradų atkūrimo“ politika. „Lenkų pradų“ kategorijai priskirta ir Katalikų bažnyčia, tačiau caro valdžia vien tarptautinės politikos sumetimais negalėjo imtis tiesioginės Katalikų bažnyčios likvidavimo akcijos.
 
 ## Teiginiai
 
@@ -30,6 +30,8 @@ Rusintojai tikėjosi laimėti, „lenkų pradų naikinimo“ politiką papildyda
 - t-001
   global_id: t-169945
   teiginys: 'Rusintojai tikėjosi laimėti, „lenkų pradų naikinimo“ politiką papildydami „rusų pradų atkūrimo“ politika.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie posakius ir remiasi citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Baudžiava|Baudžiava]]; mentioned_object: [[objektai/zodynas/pradai|pradai]]; mentioned_object: [[objektai/zodynas/separatizmas|separatizmas]]'
   pagrindžia:
     - c-001
 
@@ -37,6 +39,8 @@ Rusintojai tikėjosi laimėti, „lenkų pradų naikinimo“ politiką papildyda
 - t-002
   global_id: t-169946
   teiginys: '„Rusų pradus“ švietimo įstaigose turėjo diegti rusai mokytojai, paprastai atvykę iš Rusijos gilumos.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatinis, konkretus ir tiesiogiai palaikomas citatos.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_object: [[objektai/zodynas/pradai|pradai]]; mentioned_place: Rusija'
   pagrindžia:
     - c-002
 
@@ -79,15 +83,3 @@ Rusintojai tikėjosi laimėti, „lenkų pradų naikinimo“ politiką papildyda
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Baudžiava]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/grupes/Stačiatikiai]]
-- [[objektai/zodynas/pradai]]
-- [[objektai/zodynas/separatizmas]]
-- [[objektai/paprociai/Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m]]
-- [[objektai/zodynas/„lenkų pradai“ „rusų pradai“]]
-- [[objektai/posakiai/„lenkų pradų naikinimo“ „istorinio pirmumo teisę“ „rusų pradų atkūrimo“]]

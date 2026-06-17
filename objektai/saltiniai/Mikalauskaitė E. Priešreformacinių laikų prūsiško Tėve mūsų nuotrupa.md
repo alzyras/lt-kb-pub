@@ -26,6 +26,10 @@ Dusburgietis teigia, kad mikalauskaitė E.
 - t-001
   global_id: t-61181
   teiginys: 'E. Mikalauskaitės straipsnis „Priešreformacinių laikų prūsiško Tėve mūsų nuotrupa“ paskelbtas 1938 m. „Archivum philologicum“ 7 knygoje.'
+  sudarymo_pagrindimas: 'Citata pagrindžia publikavimo vietą ir metus.'
+  temporaliniai_duomenys: 'įvykio data: 1938 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia publikavimo vietą ir metus.'
   pagrindžia:
     - c-001
 

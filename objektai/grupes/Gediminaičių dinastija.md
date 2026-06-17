@@ -9,6 +9,10 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1316 m.'
+  - '1341 m.'
+  - '1387 m.'
+  - '1547 m.'
+  - '1572 m.'
   - '2026 m.'
 date_start: '1316'
 date_end: '2026'
@@ -27,7 +31,7 @@ amziai:
 
 ## Santrauka
 
-Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos palikuonys, kurių teisės sostams buvo pripažįstamos iš tradicijos (nė vienoje valstybėje nebuvo paveldėjamojo įstatymo). Su Krėvės unija sutiko ne visi Gediminaičiai. Vytauto laikais viena rytinių kunigaikštijų dalis buvo valdoma Gediminaičių greta Riurikaičių ir kitų lietuvių kilmės kunigaikščių.
+Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos palikuonys, kurių teisės sostams buvo pripažįstamos iš tradicijos (nė vienoje valstybėje nebuvo paveldėjamojo įstatymo). Tačiau, kai paskutinysis tos dinastijos valdovas, Zigmantas Augustas, baigė savo gyvenimą be jokio įpėdinio,.
 
 ## Teiginiai
 
@@ -35,6 +39,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
 - t-001
   global_id: t-12359
   teiginys: 'Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos palikuonys, kurių teisės sostams buvo pripažįstamos iš tradicijos (nė vienoje valstybėje nebuvo paveldėjamojo įstatymo).'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-005
 
@@ -42,6 +47,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
 - t-002
   global_id: t-12360
   teiginys: 'Su Krėvės unija sutiko ne visi Gediminaičiai.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Gediminaičiai|Gediminaičiai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]'
   pagrindžia:
     - c-001
 
@@ -49,6 +55,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
 - t-003
   global_id: t-12361
   teiginys: 'Vytauto laikais viena rytinių kunigaikštijų dalis buvo valdoma Gediminaičių greta Riurikaičių ir kitų lietuvių kilmės kunigaikščių.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Viena'
   pagrindžia:
     - c-002
 
@@ -56,6 +63,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
 - t-004
   global_id: t-12362
   teiginys: 'Dauguma Gediminaičių Vytautui valdymo pradžioje pasirodė nepaklusnūs.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-003
 
@@ -63,6 +71,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
 - t-005
   global_id: t-12363
   teiginys: 'Vytautas panaikino didžiąsias Gediminaičių kunigaikštijas ir paliko jiems tik smulkesnius valdinius.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Gediminaičiai|Gediminaičiai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-004
 
@@ -70,6 +79,11 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
 - t-006
   global_id: t-96099
   teiginys: 'Gediminaičiai buvo pasidaliję tarp pagonybės ir graikų krikšto, kai sprendėsi Lietuvos krikšto kryptis.'
+  sudarymo_pagrindimas: 'Citata palaiko teiginį, bet pridėtas aiškesnis sakinio kontekstas be naujų faktų.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Gediminaičiai|Gediminaičiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1387 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko teiginį, bet pridėtas aiškesnis sakinio kontekstas be naujų faktų.'
   pagrindžia:
     - c-010
 
@@ -77,6 +91,9 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
 - t-007
   global_id: t-96100
   teiginys: 'Kęstutis turėjo didesnes teises negu kiti Gediminaičiai, kurie savo žemėse priklausė nuo didžiojo kunigaikščio valios.'
+  sudarymo_pagrindimas: 'Citata geriau pagrindžia palyginimą tarp Kęstučio teisių ir kitų Gediminaičių priklausomybės.'
+  susije_objektai: 'owner: [[objektai/asmenys/Algirdas|Algirdas]]; owner: [[objektai/grupes/Gediminaičiai|Gediminaičiai]]; owner: [[objektai/asmenys/Kęstutis|Kęstutis]]; owner: Lietuva; mentioned_group: [[objektai/grupes/Gediminaičiai|Gediminaičiai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/grupes/Gediminaičių dinastija|Gediminaičių dinastija]] priklausė [[objektai/asmenys/Algirdas|Algirdas]]; [[objektai/grupes/Gediminaičių dinastija|Gediminaičių dinastija]] priklausė [[objektai/asmenys/Kęstutis|Kęstutis]]; [[objektai/grupes/Gediminaičių dinastija|Gediminaičių dinastija]] priklausė [[objektai/grupes/Gediminaičiai|Gediminaičiai]]; [[objektai/grupes/Gediminaičių dinastija|Gediminaičių dinastija]] priklausė Lietuva'
   pagrindžia:
     - c-017
 
@@ -84,6 +101,8 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
 - t-008
   global_id: t-96101
   teiginys: 'Vytautui panaikinus stipriąsias kunigaikštijas, Gediminaičiai nepajudinti liko tik Mstislavlyje ir Pinske.'
+  sudarymo_pagrindimas: 'Reikia pašalinti OCR triukšmą ir sutvarkyti sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Gediminaičiai|Gediminaičiai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Mstislavlis; mentioned_place: Pinskas'
   pagrindžia:
     - c-004
 
@@ -91,6 +110,8 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
 - t-009
   global_id: t-96102
   teiginys: 'Gediminaičių ir Jogailaičių dinastijų palikuonys buvo susiję su žinomiausiomis Europos monarchijomis.'
+  sudarymo_pagrindimas: 'Pašalinta neenciklopedinė ir subjektyvi formuluotės dalis.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Jogailaičiai|Jogailaičiai]]; mentioned_group: [[objektai/grupes/Litvakai|Litvakai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Palestina'
   pagrindžia:
     - c-020
 
@@ -98,6 +119,11 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
 - t-010
   global_id: t-96104
   teiginys: 'Po Gediminaičių dinastijos išmirimo 1572 m. abiejų tautų politinė istorija vystėsi bendroje respublikoje.'
+  sudarymo_pagrindimas: 'Pašalintos nereikalingos svetimkalbės įterptys ir paliktas citatos palaikomas faktas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Maskva'
+  temporaliniai_duomenys: 'įvykio data: 1547 m.; įvykio data: 1572 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintos nereikalingos svetimkalbės įterptys ir paliktas citatos palaikomas faktas.'
   pagrindžia:
     - c-015
 
@@ -105,6 +131,9 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
 - t-011
   global_id: t-96105
   teiginys: 'Kiti Gediminaičiai savo žemėse priklausė nuo didžiojo kunigaikščio valios.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citatos turiniu.'
+  susije_objektai: 'owner: [[objektai/asmenys/Algirdas|Algirdas]]; owner: [[objektai/grupes/Gediminaičiai|Gediminaičiai]]; owner: [[objektai/asmenys/Kęstutis|Kęstutis]]; owner: Lietuva; mentioned_group: [[objektai/grupes/Gediminaičiai|Gediminaičiai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/grupes/Gediminaičių dinastija|Gediminaičių dinastija]] priklausė [[objektai/asmenys/Algirdas|Algirdas]]; [[objektai/grupes/Gediminaičių dinastija|Gediminaičių dinastija]] priklausė [[objektai/asmenys/Kęstutis|Kęstutis]]; [[objektai/grupes/Gediminaičių dinastija|Gediminaičių dinastija]] priklausė [[objektai/grupes/Gediminaičiai|Gediminaičiai]]; [[objektai/grupes/Gediminaičių dinastija|Gediminaičių dinastija]] priklausė Lietuva'
   pagrindžia:
     - c-009
 
@@ -112,6 +141,8 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
 - t-012
   global_id: t-96106
   teiginys: 'Palemono legenda tapo pagrindu lietuvių ir rusėnų bajorijai savo kilmę sieti su Palemono tradicija arba Gediminaičių dinastija.'
+  sudarymo_pagrindimas: 'Patikslintas legendos vaidmuo pagal citatą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos bajorija|Lietuvos bajorija]]; mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_person: [[objektai/asmenys/Palemonas|Palemonas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-021
 
@@ -119,6 +150,8 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
 - t-013
   global_id: t-96108
   teiginys: 'Daugumas Gediminaičių pačioje Vytauto valdymo pradžioje pasirodė jam nepaklusnūs.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Gediminaičius ir yra paremtas citata.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Karijotas|Karijotas]]; mentioned_person: [[objektai/asmenys/Liubartas|Liubartas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Kijevas'
   pagrindžia:
     - c-013
 
@@ -126,6 +159,11 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
 - t-014
   global_id: t-96109
   teiginys: 'Dinastijai vardą davė garsiausias jos atstovas – Vytenio brolis Gediminas (valdęs 1316–1341 m.).'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nusako dinastijos pavadinimo kilmę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Baiga; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1316-1341; įvykio data: 1341 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako dinastijos pavadinimo kilmę.'
   pagrindžia:
     - c-007
 
@@ -133,6 +171,8 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
 - t-015
   global_id: t-96110
   teiginys: 'Iš lietuvių tautos buvo kilusi ir valdančioji Gediminaičių šeima.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nusako Gediminaičių kilmę ir sutampa su citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Gediminaičių šeima|Gediminaičių šeima]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_group: [[objektai/grupes/Ukrainiečiai|Ukrainiečiai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-022
 
@@ -140,6 +180,9 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
 - t-016
   global_id: t-96111
   teiginys: 'Kiti Gediminaičiai valdė Turovo-Pinsko kunigaikštijoje, Podolėje, Zaslavlyje ir Volinijoje.'
+  sudarymo_pagrindimas: 'Citata palaiko faktą, bet pradinė formuluotė per daug apibendrina aprūpinimą valdomis.'
+  susije_objektai: 'territory: Pinskas; territory: Podolė; territory: Polesė; territory: Turovas; territory: Volinija; territory: Zaslavlis; mentioned_group: [[objektai/grupes/Gediminaičiai|Gediminaičiai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Karijotas|Karijotas]]; mentioned_person: [[objektai/asmenys/Liubartas|Liubartas]]; mentioned_person: [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)|Narimantas (Pinsko kunigaikštis)]]; mentioned_place: Pinskas; mentioned_place: Podolė; mentioned_place: Polesė; mentioned_place: Turovas; mentioned_place: Volinija; mentioned_place: Zaslavlis'
+  semantiniai_rysiai: '[[objektai/grupes/Gediminaičių dinastija|Gediminaičių dinastija]] valdė teritoriją Pinskas; [[objektai/grupes/Gediminaičių dinastija|Gediminaičių dinastija]] valdė teritoriją Podolė; [[objektai/grupes/Gediminaičių dinastija|Gediminaičių dinastija]] valdė teritoriją Polesė; [[objektai/grupes/Gediminaičių dinastija|Gediminaičių dinastija]] valdė teritoriją Turovas; [[objektai/grupes/Gediminaičių dinastija|Gediminaičių dinastija]] valdė teritoriją Volinija; [[objektai/grupes/Gediminaičių dinastija|Gediminaičių dinastija]] valdė teritoriją Zaslavlis'
   pagrindžia:
     - c-011
 
@@ -147,6 +190,9 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
 - t-017
   global_id: t-96112
   teiginys: 'Dalį kunigaikštijų valdė Gediminaičiai, o kitas valdė Riurikaičiai ir įvairūs lietuvių kilmės kunigaikščiai.'
+  sudarymo_pagrindimas: 'Reikia pašalinti OCR triukšmą ir sutrumpinti teiginį apie Gediminaičius.'
+  susije_objektai: 'territory: Viena; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/grupes/Gediminaičių dinastija|Gediminaičių dinastija]] valdė teritoriją Viena'
   pagrindžia:
     - c-012
 
@@ -154,6 +200,8 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
 - t-018
   global_id: t-96113
   teiginys: 'XIII a. pabaigoje Lietuvos istorijoje iškilo lietuvių kilmės valdovų Gediminaičių dinastija.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir paremtas šaltiniu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Baiga; mentioned_place: Lietuva'
   pagrindžia:
     - c-014
 
@@ -161,6 +209,8 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
 - t-021
   global_id: t-96117
   teiginys: 'Mirus paskutiniam Gediminaičių dinastijos valdovui Zigmantui Augustui, Lietuva ir Lenkija galėjo rinktis atskirus valdovus.'
+  sudarymo_pagrindimas: 'Pradiniame teiginyje nebuvo aiškiai įvardytas note objektas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-006
 
@@ -168,6 +218,11 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
 - t-022
   global_id: t-182889
   teiginys: 'Gediminaičių dinastijos Jogailos palikuonių teisės į sostus buvo pripažįstamos iš tradicijos.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Reikia pašalinti kontekstinę pradžią ir padaryti sakinį savarankišką.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Gediminaičiai|Gediminaičiai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-023
 
@@ -175,9 +230,21 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
 - t-023
   global_id: t-187706
   teiginys: 'Lietuvos metraščio pasakojime Vytenis vaizduojamas kaip pirmasis Gediminaičių dinastijos valdovas po Palemono ir Kentauro herbo dinastijų.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Sakinys gramatiškas, aiškus ir tinkamai atribuuoja legendinį dinastijų pasakojimą.'
+  susije_objektai: 'territory: Lenkija; territory: Lietuva; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Herbas|Herbas]]; mentioned_object: [[objektai/daiktai/Kentauras|Kentauras]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Palemonas|Palemonas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Vytenis|Vytenis]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/grupes/Gediminaičių dinastija|Gediminaičių dinastija]] susiję su Lenkija; [[objektai/grupes/Gediminaičių dinastija|Gediminaičių dinastija]] susiję su Lietuva'
   pagrindžia:
     - c-024
-
+- susijęs iš [[objektai/asmenys/Palemonas.md#claim-t-187453|Palemonas]]: Lietuvos metraščiuose sukurta Palemono legenda tapo lietuvių ir rusėnų bajorijos kilmės tradicijos pagrindu.
+- susijęs iš [[objektai/asmenys/Patrikas.md#claim-t-121122|Patrikas (kunigaikštis, XIV a.)]]: Patrikas buvo Jogailos pusbrolis ir prie Strėvos 1348 m. žuvusio Narimanto sūnus.
+- susijęs iš [[objektai/daiktai/Vytis.md#claim-t-186858|Vytis]]: Komentare manoma, kad Vytis bent XIV a. antrojoje pusėje buvo Vilniaus žemės arba kunigaikštystės herbas.
+- susijęs iš [[objektai/grupes/Gediminaičių šeima.md#claim-t-01323|Gediminaičių šeima]]: Gedimino šeimos valdančioji šaka pasibaigė, nors dar buvo gyvų nuo sosto nutolusių Gedimino giminės kunigaikščių.
+- susijęs iš [[objektai/paprociai/LDK politinės tautos savivoka ir Palemono kilmės tradicija.md#claim-t-54264|LDK politinės tautos savivoka ir Palemono kilmės tradicija]]: Lietuvos metraščiuose sukurta Palemono ir jo ainių legenda tapo lietuvių ir rusėnų bajorijos kilmės aiškinimo pagrindu.
+- susijęs iš [[objektai/paprociai/LDK politinės tautos savivoka ir Palemono kilmės tradicija.md#claim-t-54265|LDK politinės tautos savivoka ir Palemono kilmės tradicija]]: Lietuvos metraščiuose sukurta Palemono legenda tapo lietuvių ir rusėnų bajorijos kilmės aiškinimo pagrindu.
+- susijęs iš [[objektai/zodynas/politinė tauta lietuvių nacija.md#claim-t-22247|politinė tauta lietuvių nacija]]: Lietuvos metraščiuose Palemono legenda tapo pagrindu lietuvių ir rusėnų bajorijai vesti savo kilmę Palemono tradicija.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -632,57 +699,16 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     - t-023
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/dinastija]]
-
-### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/grupes/Gediminaičiai]]
-- [[objektai/daiktai/Gediminaičių stulpai]]
-- [[objektai/asmenys/Gediminas]]
-- [[objektai/grupes/Geležinis vilkas]]
-- [[objektai/asmenys/Getautas]]
-- [[objektai/asmenys/Gimbutas]]
-- [[objektai/daiktai/Herbas]]
-- [[objektai/grupes/Jogailaičiai]]
-- [[objektai/asmenys/Jonas]]
-- [[objektai/asmenys/Karijotas]]
-- [[objektai/grupes/Kazokai]]
-- [[objektai/daiktai/Kentauras]]
-- [[objektai/daiktai/Kentauro herbas]]
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Lietuvos bajorija]]
-- [[objektai/grupes/Litvakai]]
-- [[objektai/asmenys/Liubartas]]
-- [[objektai/asmenys/Mykolas]]
-- [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]]
-- [[objektai/asmenys/Palemonas]]
-- [[objektai/grupes/Romėnai]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/grupes/Rusėnai]]
-- [[objektai/asmenys/Skirgaila]]
-- [[objektai/grupes/Slavai]]
-- [[objektai/grupes/Stačiatikiai]]
-- [[objektai/daiktai/Stulpai]]
-- [[objektai/grupes/Ukrainiečiai]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/pagonybė]]
-- [[objektai/zodynas/ponai]]
-- [[objektai/zodynas/unija]]
-- [[objektai/grupes/Žydai]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/grupes/Gediminaičių šeima]]
-- [[objektai/paprociai/LDK politinės tautos savivoka ir Palemono kilmės tradicija]]
-- [[objektai/asmenys/Patrikas|Patrikas (kunigaikštis, XIV a.)]]
-- [[objektai/daiktai/Vytis]]
-- [[objektai/zodynas/politinė tauta lietuvių nacija]]
-- [[objektai/asmenys/Vytenis]]
-- [[objektai/grupes/Kentauro herbo dinastija]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/zodynas/siuzerenas]]
+- Gediminaičių dinastija valde_teritorija [[objektai/vietos/Pinskas]]
+- Gediminaičių dinastija valde_teritorija [[objektai/vietos/Podolė]]
+- Gediminaičių dinastija valde_teritorija [[objektai/vietos/Polesė]]
+- Gediminaičių dinastija valde_teritorija [[objektai/vietos/Turovas]]
+- Gediminaičių dinastija valde_teritorija [[objektai/vietos/Viena]]
+- Gediminaičių dinastija valde_teritorija [[objektai/vietos/Volinija]]
+- Gediminaičių dinastija valde_teritorija [[objektai/vietos/Zaslavlis]]
+- Gediminaičių dinastija susije_su [[objektai/vietos/Lenkija]]
+- Gediminaičių dinastija susije_su [[objektai/vietos/Lietuva]]
+- Gediminaičių dinastija priklause [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- Gediminaičių dinastija priklause [[objektai/grupes/Gediminaičiai]]
+- Gediminaičių dinastija priklause [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- Gediminaičių dinastija priklause [[objektai/vietos/Lietuva]]

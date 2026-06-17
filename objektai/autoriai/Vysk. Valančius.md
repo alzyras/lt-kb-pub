@@ -20,9 +20,12 @@ Valančiaus, VAIKŲ KNYGELĖ.
 - t-001
   global_id: t-96060
   teiginys: 'Vyskupas Valančius parašė „Vaikų knygelę“, kuri išleista su K. Šimonio iliustracijomis ir spalvotu viršeliu.'
+  sudarymo_pagrindimas: 'Pradinė formuluotė yra nepilnas leidinio paminėjimas; citata pagrindžia aiškų sakinį apie knygą.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/Motiejus Valančius|Motiejus Valančius]]'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/autoriai/Motiejus Valančius.md#claim-t-00056|Motiejus Valančius]]: Motiejus Valančius parašė daugybę knygučių ir rūpinosi jų leidimu.
+- susijęs iš [[objektai/autoriai/Motiejus Valančius.md#claim-t-179551|Motiejus Valančius]]: Valančius pasirūpino, kad kunigai turėtų pagarbų požiūrį į lietuviškai kalbančią liaudį, gerai išmoktų lietuviškai ir sakytų pamokslus lietuviškai, davė nurodymą kunigams prie bažnyčių steigti lietuviškas mokyklas.
 ## Reikšmingi paminėjimai
 
 - c-001

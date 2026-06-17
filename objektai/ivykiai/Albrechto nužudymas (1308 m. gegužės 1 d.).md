@@ -20,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-1308 m. gegužės 1 d. kunigaikštis Jonas Anlantas nužudė Romos karalių Albrechtą, kuris iš jo buvo atėmęs Austrijos kunigaikštystę.
+Dusburgietis teigia, kad apie Albrechto, Romos karaliaus, nužudymą 1308 viešpaties metais, šventų Pilypo bei Jokūbo dieną (gegužės 1), Albrechtą, Romos karalių, nužudė kunigaikštis Jonas, vadinamas Anlantu, jo vaikaitis, iš kurio buvo atėmęs Austrijos kunigaikštystę, nors tas ir buvo.
 
 ## Laikotarpis ir datos
 
@@ -44,6 +44,12 @@ Nenurodyta
 - t-001
   global_id: t-62740
   teiginys: '1308 m. gegužės 1 d. kunigaikštis Jonas Anlantas nužudė Romos karalių Albrechtą, kuris iš jo buvo atėmęs Austrijos kunigaikštystę.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Reikia išsklaidyti dviprasmybę, kas iš ko buvo atėmęs Austrijos kunigaikštystę.'
+  susije_objektai: 'territory: Austrija; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)|Jokūbas (vėliau Urbonas IV)]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Austrija'
+  temporaliniai_duomenys: 'valdymo laikotarpis: 1308 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Jokūbas (vėliau Urbonas IV) buvo valdovas Austrija“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia išsklaidyti dviprasmybę, kas iš ko buvo atėmęs Austrijos kunigaikštystę.'
   pagrindžia:
     - c-001
 
@@ -64,11 +70,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)]]
-- [[objektai/asmenys/Jonas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/asmenys/Albrechtas (Romos karalius)]]
-- [[objektai/asmenys/Jonas (vadinamas Anlantu)]]

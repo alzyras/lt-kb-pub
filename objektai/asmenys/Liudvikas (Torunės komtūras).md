@@ -18,6 +18,11 @@ Torunės komtūras Liudvikas kurstė brolių nesantaiką ir skatino Švitrigail�
 - t-001
   global_id: t-186063
   teiginys: 'Torunės komtūras Liudvikas kurstė brolių nesantaiką ir skatino Švitrigailą nebijoti karo su lenkais.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nusako Torunės komtūro Liudviko veiksmus, paremtus citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Torunė'
   pagrindžia:
     - c-001
 
@@ -25,6 +30,12 @@ Torunės komtūras Liudvikas kurstė brolių nesantaiką ir skatino Švitrigail�
 - t-002
   global_id: t-186064
   teiginys: 'Liudvikas, Torunės komtūras, gyveno Vilniuje kaip pasiuntinys, bet iš tikrųjų ėjo žvalgo pareigas.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata palaiko aiškų faktą, o pradinėje formoje yra OCR klaida ir perteklinis kontekstas.'
+  susije_objektai: 'location: Torunė; location: Vilnius; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/senatas|senatas]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Torunė; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Liudvikas (Torunės komtūras)|Liudvikas (Torunės komtūras)]] gyveno Torunė; [[objektai/asmenys/Liudvikas (Torunės komtūras)|Liudvikas (Torunės komtūras)]] gyveno Vilnius'
   pagrindžia:
     - c-002
 
@@ -32,6 +43,11 @@ Torunės komtūras Liudvikas kurstė brolių nesantaiką ir skatino Švitrigail�
 - t-003
   global_id: t-186065
   teiginys: 'Valstybės ištarme Liudvikui ir jo draugams buvo įsakyta kuo greičiau išvykti iš Lietuvos kaip priešams.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata palaiko faktą, bet sakinys perrašytinas aiškiau ir gramatiškiau.'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 
@@ -103,12 +119,5 @@ Torunės komtūras Liudvikas kurstė brolių nesantaiką ir skatino Švitrigail�
     - t-003
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/zodynas/senatas]]
-- [[objektai/zodynas/unija]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/zodynas/komtūras]]
-- [[objektai/grupes/Lenkijos senatas]]
-- [[objektai/grupes/Lenkų senatas]]
-- [[objektai/ivykiai/Žygimanto Kęstutaičio pakėlimas Lietuvos didžiuoju kunigaikščiu (1432 m.)]]
+- Liudvikas (Torunės komtūras) gyveno [[objektai/vietos/Torunė]]
+- Liudvikas (Torunės komtūras) gyveno [[objektai/vietos/Vilnius]]

@@ -22,7 +22,8 @@ Skardžiaus. Skardžiaus, Dr.
   teiginys: 'Pr. Skardžius redagavo bendrinės kalbos žurnalo „Kalba“ pirmąjį sąsiuvinį.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/autoriai/V. Kamantauskas.md#claim-t-96058|V. Kamantauskas]]: V. Kamantauskas parengė „Kirčiuotą lietuvių literatūros chrestomatiją“, kurios kirčius patikrino Pr. Skardžius.
+- susijęs iš Kirčiuota lietuvių literatūros chrestomatija: V. Kamantausko „Kirčiuotos lietuvių literatūros chrestomatijos“ kirčius patikrino dr. Pr. Skardžius.
 ## Reikšmingi paminėjimai
 
 - c-001

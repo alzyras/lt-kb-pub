@@ -4,9 +4,9 @@ pavadinimas: 'Motiejus (Žemaičių ir Vilniaus vyskupas)'
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
-  - '1414 m.'
+  - '1413 m.'
   - '1453 m.'
-date_start: '1414'
+date_start: '1413'
 date_end: '1453'
 sukurta: ''
 atnaujinta: ''
@@ -24,7 +24,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Prieš mirtį Vytautas kelis kartus išpažino nuodėmes Vilniaus vyskupui Motiejui. Motiejus buvo Trakų klebonas ir Vilniaus kapitulos kanauninkas, vėliau tapęs Žemaičių ir Vilniaus vyskupu. Motiejus mokėsi Krokuvoje, įgijo laisvųjų mokslų magistro laipsnį, buvo Trakų klebonas ir Vilniaus kapitulos kanauninkas.
+Motiejus, vėliau Žemaičių ir Vilniaus vyskupas, ir vienas kunigas iš Kauno^1 ). Mokslus jis buvo ėjęs Krokuvoj ir įgijęs laisvųjų mokslų ma­ gistro laipsnį; paskui buvo Trakų klebonu ir Vilniaus kapitulos kanauninku. Taip antai, ketvirtas iš eilės Vilniaus vyskupas Petras iš Kustynės (1414—1421), kuris buvo delega­ tu Konstancijoje ir pasiuntiniu Žemaitijoje, jau minėtas pirmasis Žemaičių ir vėliau Vilniaus vysk.
 
 ## Teiginiai
 
@@ -32,6 +32,8 @@ Prieš mirtį Vytautas kelis kartus išpažino nuodėmes Vilniaus vyskupui Motie
 - t-001
   global_id: t-176551
   teiginys: 'Prieš mirtį Vytautas kelis kartus išpažino nuodėmes Vilniaus vyskupui Motiejui.'
+  sudarymo_pagrindimas: 'Teiginį reikia sutelkti į citatos aiškiai paremtą Motiejaus vaidmenį, neperkraunant sakinio.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 
@@ -39,6 +41,7 @@ Prieš mirtį Vytautas kelis kartus išpažino nuodėmes Vilniaus vyskupui Motie
 - t-002
   global_id: t-176552
   teiginys: 'Motiejus buvo Trakų klebonas ir Vilniaus kapitulos kanauninkas, vėliau tapęs Žemaičių ir Vilniaus vyskupu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -46,6 +49,9 @@ Prieš mirtį Vytautas kelis kartus išpažino nuodėmes Vilniaus vyskupui Motie
 - t-003
   global_id: t-176554
   teiginys: 'Motiejus mokėsi Krokuvoje, įgijo laisvųjų mokslų magistro laipsnį, buvo Trakų klebonas ir Vilniaus kapitulos kanauninkas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Trakai; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: po 1413 m.; įvykio data: 1413 m.; įvykio data: po 1421 m.; įvykio data: 1421 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-004
 
@@ -53,6 +59,11 @@ Prieš mirtį Vytautas kelis kartus išpažino nuodėmes Vilniaus vyskupui Motie
 - t-004
   global_id: t-176555
   teiginys: 'Vyskupas Motiejus 1430 m. spalio 27 d. užmerkė Vytautui akis ir jo kūną nulydėjo į Vytauto pastatytą katedrą.'
+  sudarymo_pagrindimas: 'Teiginys yra faktinis sakinys apie vyskupą Motiejų ir paremtas citata.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]'
+  temporaliniai_duomenys: 'pastatymo data: 1430 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra faktinis sakinys apie vyskupą Motiejų ir paremtas citata.'
   pagrindžia:
     - c-002
 
@@ -60,6 +71,7 @@ Prieš mirtį Vytautas kelis kartus išpažino nuodėmes Vilniaus vyskupui Motie
 - t-006
   global_id: t-176557
   teiginys: 'Motiejus buvo pirmasis Žemaičių ir vėliau Vilniaus vyskupas, paskirtas Vytautui jį rekomendavus.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mikalojus Dziežgavičius|Mikalojus Dziežgavičius]]; mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]; mentioned_person: [[objektai/asmenys/Petras iš Kustynės|Petras iš Kustynės]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Konstancija; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Vilnius'
   pagrindžia:
     - c-005
 
@@ -146,10 +158,3 @@ Prieš mirtį Vytautas kelis kartus išpažino nuodėmes Vilniaus vyskupui Motie
   statusas: verified
   pagrindžia:
     - t-006
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/kapitula]]
-- [[objektai/zodynas/kunigas]]
-- [[objektai/zodynas/magistras]]

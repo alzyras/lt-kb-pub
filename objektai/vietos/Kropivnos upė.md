@@ -18,6 +18,11 @@ atnaujinta: ''
 - t-001
   global_id: t-185266
   teiginys: 'Čeliadninas atitraukė visas jėgas už upės ir apsistojo Kropivnos upės pakrantėse tarp Oršos ir Dubrovnos.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Kropivnos upę ir tiksliai perteikia citatos informaciją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_place: Dnepras; mentioned_place: Dubrovna'
   pagrindžia:
     - c-001
 
@@ -25,6 +30,11 @@ atnaujinta: ''
 - t-002
   global_id: t-185267
   teiginys: 'Po Konstantino manevro daug maskvėnų prigėrė Kropivnos pelkėse ir pačioje upėje.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pašalinta vertinamoji formulė ir paliktas citata paremtas faktas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_person: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]'
   pagrindžia:
     - c-002
 

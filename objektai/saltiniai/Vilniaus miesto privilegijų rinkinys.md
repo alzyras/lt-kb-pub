@@ -29,6 +29,8 @@ amziai:
 - t-001
   global_id: t-88494
   teiginys: '„Vilniaus miesto privilegijų rinkinyje“ Dubinskis išspausdino karaliaus Stepono laiškus dėl kalendorinių ginčų.'
+  sudarymo_pagrindimas: 'Citata tiesiogiai pagrindžia rinkinio turinį ir pašalina išnašos triukšmą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/vaitas|vaitas]]; mentioned_place: Lenkija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

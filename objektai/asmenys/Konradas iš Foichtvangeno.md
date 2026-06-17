@@ -32,6 +32,11 @@ Dusburgietis teigia, kad apie tą patį Viename Vokietijos vienuolyne gyveno die
 - t-001
   global_id: t-59992
   teiginys: '1279 m. didysis magistras paskyrė Konradą iš Foichtvangeno Prūsijos ir Livonijos brolių magistru.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir atitinka citatos duomenis.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Livonija; mentioned_place: Prūsija'
+  temporaliniai_duomenys: 'įvykio data: 1279 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir atitinka citatos duomenis.'
   pagrindžia:
     - c-004
 
@@ -39,6 +44,8 @@ Dusburgietis teigia, kad apie tą patį Viename Vokietijos vienuolyne gyveno die
 - t-002
   global_id: t-59993
   teiginys: 'Konradas iš Foichtvangeno turėjo dievui atsidavusią seserį, gyvenusią viename Vokietijos vienuolyne.'
+  sudarymo_pagrindimas: 'Citata palaiko faktą apie asmenį; pradinis teiginys turi antraštės ir regėjimo kontekstą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Vokietija'
   pagrindžia:
     - c-003
 
@@ -46,6 +53,8 @@ Dusburgietis teigia, kad apie tą patį Viename Vokietijos vienuolyne gyveno die
 - t-003
   global_id: t-59994
   teiginys: 'Konradas iš Foichtvangeno atsisakė pareigybės Prūsijoje ir pasiliko vienos Livonijos žemės magistru.'
+  sudarymo_pagrindimas: 'Teiginys išplečia citatos įvardį į aiškų asmens vardą ir yra paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Aizkrauklė; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Revelis; mentioned_place: Viena'
   pagrindžia:
     - c-002
 
@@ -53,6 +62,12 @@ Dusburgietis teigia, kad apie tą patį Viename Vokietijos vienuolyne gyveno die
 - t-004
   global_id: t-59995
   teiginys: '1295 m. Konradas iš Foichtvangeno atvyko į Prūsiją, parėmė brolius dovanomis ir paguodė juos pamokymais.'
+  sudarymo_pagrindimas: 'Teiginys yra sklandus ir tiksliai perteikia citatos faktą.'
+  susije_objektai: 'location: Kimelis; location: Prūsai; location: Prūsija; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Kimelis; mentioned_place: Prūsai; mentioned_place: Prūsija'
+  semantiniai_rysiai: '[[objektai/asmenys/Konradas iš Foichtvangeno|Konradas iš Foichtvangeno]] keliavo į Kimelis; [[objektai/asmenys/Konradas iš Foichtvangeno|Konradas iš Foichtvangeno]] keliavo į Prūsai; [[objektai/asmenys/Konradas iš Foichtvangeno|Konradas iš Foichtvangeno]] keliavo į Prūsija'
+  temporaliniai_duomenys: 'kelionės data: 1295 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Konradas iš Foichtvangeno keliavo į Kimelis“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Konradas iš Foichtvangeno keliavo į Prūsai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Konradas iš Foichtvangeno keliavo į Prūsija“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra sklandus ir tiksliai perteikia citatos faktą.'
   pagrindžia:
     - c-001
 
@@ -60,9 +75,15 @@ Dusburgietis teigia, kad apie tą patį Viename Vokietijos vienuolyne gyveno die
 - t-005
   global_id: t-184100
   teiginys: 'Konradas iš Foichtvangeno buvo dešimtas Prūsijos magistras ir vadovavo vienus metus.'
+  teiginio_tipas: 'saltinio_teiginys'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra trumpas, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Livonija; mentioned_place: Prūsija'
   pagrindžia:
     - c-004
-
+- susijęs iš [[objektai/ivykiai/Didžiojo magistro Konrado iš Foichtvangeno atvykimas į Prūsiją (1295 m.).md#claim-t-62238|Didžiojo magistro Konrado iš Foichtvangeno atvykimas į Prūsiją (1295 m.)]]: 1295 m. Teutonų ordino didysis magistras Konradas iš Foichtvangeno atvyko į Prūsiją ir parėmė brolius dovanomis bei pamokymais.
+- susijęs iš [[objektai/ivykiai/Konrado iš Foichtvangeno paskyrimas Prūsijos ir Livonijos magistru.md#claim-t-66631|Konrado iš Foichtvangeno paskyrimas Prūsijos ir Livonijos magistru]]: Po metų Konradas iš Foichtvangeno atsisakė pareigų Prūsijoje ir liko tik Livonijos žemės magistru.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -137,14 +158,6 @@ Dusburgietis teigia, kad apie tą patį Viename Vokietijos vienuolyne gyveno die
     - t-005
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Konradas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Lietuvos kariuomenė]]
-- [[objektai/grupes/Teutonai]]
-- [[objektai/zodynas/ginklanešiai]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/netikėliai]]
-- [[objektai/zodynas/didysis magistras]]
-- [[objektai/ivykiai/Didžiojo magistro Konrado iš Foichtvangeno atvykimas į Prūsiją (1295 m.)]]
-- [[objektai/ivykiai/Konrado iš Foichtvangeno paskyrimas Prūsijos ir Livonijos magistru]]
+- Konradas iš Foichtvangeno keliavo_i [[objektai/vietos/Kimelis]]
+- Konradas iš Foichtvangeno keliavo_i [[objektai/vietos/Prūsai]]
+- Konradas iš Foichtvangeno keliavo_i [[objektai/vietos/Prūsija]]

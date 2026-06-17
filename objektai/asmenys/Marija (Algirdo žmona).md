@@ -31,6 +31,8 @@ periodo_grupes:
 - t-001
   global_id: t-87545
   teiginys: 'Marija buvo Tverės kunigaikštytė ir Algirdo žmona.'
+  sudarymo_pagrindimas: 'Citata pagrindžia Marijos kilmę ir ryšį su Algirdu.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Marija|Marija]]; mentioned_place: Tverė; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -38,6 +40,8 @@ periodo_grupes:
 - t-002
   global_id: t-87546
   teiginys: 'Marija, Algirdo žmona, globojo į Vilnių atvykstančius rusinus ir siekė lietuviams pagonims skleisti graikų apeigų krikščionybę.'
+  sudarymo_pagrindimas: 'Citata tiesiogiai pagrindžia Marijos globą rusinams ir religinį siekį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Kaimas; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -114,14 +118,3 @@ periodo_grupes:
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/ritualas]]
-
-### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/asmenys/Gediminas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Stačiatikiai]]
-- [[objektai/asmenys/Marija]]

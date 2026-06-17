@@ -53,9 +53,15 @@ Nenurodyta
 - t-001
   global_id: t-169858
   teiginys: 'Gediminaičių stulpai buvo panaudoti Sąjūdžio ženkle, kurį kūrė Giedrius Reimeris ir Algimantas Nasvytis.'
+  sudarymo_pagrindimas: 'Citata pagrindžia faktą apie Gediminaičių stulpų panaudojimą, bet įvestyje yra puslapio ir OCR triukšmo.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Stulpai|Stulpai]]; mentioned_object: [[objektai/daiktai/Sąjūdžio ženklas su Gedimino stulpais|Sąjūdžio ženklas su Gedimino stulpais]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lenkija; mentioned_place: Rusija'
+  temporaliniai_duomenys: 'įvykio data: 1939-1940; įvykio data: 1940 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia faktą apie Gediminaičių stulpų panaudojimą, bet įvestyje yra puslapio ir OCR triukšmo.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/daiktai/Vėliavos.md#claim-t-176215|Vėliavos]]: XIV a. antrosios pusės lietuvių kario rekonstrukcijoje karys vaizduojamas tarnaujantis Lietuvos valdovo asmeninėje vėliavoje.
+- susijęs iš [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos.md#claim-t-67160|Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos (krikštas)]]: Lietuvių valdovai, supratę Ordino krikšto kainą, ieškojo kitų krikšto variantų per Čekiją, Vengriją ir Lenkiją.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -79,15 +85,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/dinastija]]
-
-### Susiję objektai
-- [[objektai/asmenys/Gediminas]]
-- [[objektai/daiktai/Stulpai]]
-- [[objektai/daiktai/Sąjūdžio ženklas su Gedimino stulpais]]
-- [[objektai/grupes/Gediminaičių dinastija]]
-- [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos|Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos (krikštas)]]
-- [[objektai/daiktai/Vėliavos]]

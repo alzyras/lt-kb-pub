@@ -20,9 +20,12 @@ Dusburgietis teigia, kad romos imperatorius Gajus Julijus Cezaris Germanikas, pr
 - t-001
   global_id: t-64820
   teiginys: 'Plinijus Vyresnysis pateikė žinių apie Nerono laikais surengtą žygį, iš kurio romėnų raitelis parvežė daug gintaro.'
+  sudarymo_pagrindimas: 'Reikia pašalinti klaidingą Dusburgiečio atribuciją ir palikti su Plinijumi susijusį faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Romėnai|Romėnai]]; mentioned_object: [[objektai/daiktai/Gintaras|Gintaras]]; mentioned_person: [[objektai/asmenys/Julijus Cezaris|Julijus Cezaris]]'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/autoriai/C. Mayhoff.md#claim-t-60681|C. Mayhoff]]: C. Mayhoffas redagavo Plinijaus „Naturalis historiae“ V tomą, apimantį XXXI–XXXVII knygas.
+- susijęs iš Plinius C. Secundus Naturalis historiae libri XXXVII Ed. C. Mayhoff. Vol. V. Libri XXXI— XXXVII,—Lipsiae, 1897: C. Pliniaus Secundus veikalo „Naturalis historiae“ penktasis tomas, apimantis XXXI–XXXVII knygas, C. Mayhoffo parengtas Leipcige 1897 m.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -40,8 +43,3 @@ Dusburgietis teigia, kad romos imperatorius Gajus Julijus Cezaris Germanikas, pr
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Gintaras]]
-- [[objektai/grupes/Romėnai]]

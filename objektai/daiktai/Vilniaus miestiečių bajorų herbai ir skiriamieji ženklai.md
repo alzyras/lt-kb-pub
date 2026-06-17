@@ -43,6 +43,8 @@ Nenurodyta
 - t-001
   global_id: t-87100
   teiginys: 'Gardino seimo privilegija leido Vilniaus magistrato pareigas ėjusiems miestiečiams priimti bajorų herbus tik gavus atitinkamos giminės sutikimą.'
+  sudarymo_pagrindimas: 'Teiginys pagrįstas, bet reikia pašalinti OCR triukšmą ir sutrumpinti.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Gardino seimas|Gardino seimas]]; mentioned_object: [[objektai/daiktai/Herbai|Herbai]]; mentioned_object: [[objektai/zodynas/leičiai liečiai leišiai|leičiai liečiai leišiai]]; mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Gardinas; mentioned_place: Viena; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -101,14 +103,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bajorai]]
-- [[objektai/grupes/Gardino seimas]]
-- [[objektai/zodynas/leičiai liečiai leišiai|leičiai / liečiai / leišiai]]
-- [[objektai/zodynas/luomas]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/daiktai/Herbai]]
-- [[objektai/daiktai/Antspaudai]]
-- [[objektai/daiktai/Vilniaus miesto antspaudas ir herbas su šv. Kristoforu]]

@@ -26,9 +26,17 @@ Mūšyje su lietuviais atvirame lauke žuvo ordino magistras Burchardas Aremas i
 - t-001
   global_id: t-186187
   teiginys: 'Mūšyje su lietuviais atvirame lauke žuvo ordino magistras Burchardas Aremas ir trisdešimt ordino riterių.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata palaiko asmeniui svarbų faktą, bet pradinį sakinį reikia sutrumpinti ir išvalyti.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Dobrynė'
+  temporaliniai_duomenys: 'įvykio data: 1297 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko asmeniui svarbų faktą, bet pradinį sakinį reikia sutrumpinti ir išvalyti.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-184494|Kryžiuočių ordinas]]: Atvirame lauke lietuviai laimėjo kautynes su kryžiuočiais, o mūšyje žuvo ordino magistras Burchardas Aremas ir trisdešimt riterių.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -57,10 +65,3 @@ Mūšyje su lietuviais atvirame lauke žuvo ordino magistras Burchardas Aremas i
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/ivykiai/Vytenio žygiai į Dobrynę ir prieš kryžiuočius (1297 m.)]]

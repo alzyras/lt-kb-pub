@@ -23,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-1387 m. vasario 17 d. Jogaila išleido privilegiją Vilniaus vyskupui, kuria buvo įsteigiama ir aprūpinama vyskupo institucija. Lietuvos krikšto metu Jogaila suteikė privilegijas Vilniaus vyskupui, bajorams ir Vilniaus miestiečiams, pradėdamas luominės visuomenės formavimąsi.
+Tuo būdu su šia pirmąja Bažnyčios privilegija atsirado Lietuvoje bažnytinės žemės nuosavybė be jokių prievolių valstybei; tuo tarpu visi bajorai ir valstiečiai turėjo daug prievolių.
 
 ## Teiginiai
 
@@ -31,6 +31,11 @@ amziai:
 - t-001
   global_id: t-45751
   teiginys: '1387 m. vasario 17 d. Jogaila išleido privilegiją Vilniaus vyskupui, kuria buvo įsteigiama ir aprūpinama vyskupo institucija.'
+  sudarymo_pagrindimas: 'Teiginys aiškus, konkretus ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1387 m.; įvykio data: 1403 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškus, konkretus ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -38,6 +43,8 @@ amziai:
 - t-002
   global_id: t-45752
   teiginys: 'Lietuvos krikšto metu Jogaila suteikė privilegijas Vilniaus vyskupui, bajorams ir Vilniaus miestiečiams, pradėdamas luominės visuomenės formavimąsi.'
+  sudarymo_pagrindimas: 'Perrašyta glaudžiau ir aiškiau susiejant privilegijas su citatoje nurodyta pasekme.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/luomai|luomai]]; mentioned_object: [[objektai/zodynas/tripartitio christiana|tripartitio christiana]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 

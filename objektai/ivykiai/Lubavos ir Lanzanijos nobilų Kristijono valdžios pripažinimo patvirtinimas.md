@@ -43,6 +43,8 @@ Nenurodyta
 - t-001
   global_id: t-59559
   teiginys: 'Lubavos nobiliai, vadovaujami Survabūno, ir Lanzanijos nobiliai, vadovaujami Varpodos, pripažino Kristijono valdžią.'
+  sudarymo_pagrindimas: 'Teiginys faktinis, bet reikia pašalinti boilerplate ir palikti aiškų sakinį.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_place: Elbingas; mentioned_place: Lanzanija; mentioned_place: Lubava'
   pagrindžia:
     - c-001
 
@@ -60,7 +62,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Kristijonas]]

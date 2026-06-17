@@ -26,6 +26,11 @@ Dusburgietis teigia, kad mažiulis V.
 - t-001
   global_id: t-61166
   teiginys: 'V. Mažiulio „Dėl Neringos vardo“ paskelbtas „Lietuvių kalbotyros klausimų“ 3 tome 1960 m., p. 301–315.'
+  sudarymo_pagrindimas: 'Citata pagrindžia autorių, pavadinimą, leidinį, metus, tomą ir puslapius.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
+  temporaliniai_duomenys: 'įvykio data: 1960 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia autorių, pavadinimą, leidinį, metus, tomą ir puslapius.'
   pagrindžia:
     - c-001
 

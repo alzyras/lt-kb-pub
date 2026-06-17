@@ -29,6 +29,11 @@ amziai:
 - t-001
   global_id: t-34948
   teiginys: '1596 metais sudarius Bresto uniją, Lietuvos ribose pradėjo veikti unitai, išlaikę Rytų Bažnyčios apeigas ir priėmę katalikų dogmas.'
+  sudarymo_pagrindimas: 'Pataisyta kalba ir OCR klaida, faktas tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1596 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pataisyta kalba ir OCR klaida, faktas tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
 

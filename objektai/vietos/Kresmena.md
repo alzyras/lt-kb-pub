@@ -23,6 +23,8 @@ Dusburgietis teigia, kad apie tai, kaip buvo nusiaubtas Sūduvos valsčius, vard
 - t-001
   global_id: t-58454
   teiginys: 'Kresmena siejama su Skomanto valdytu Kresinenos valsčiumi apie Skomanto ežerą ir toliau į rytus.'
+  sudarymo_pagrindimas: 'Pašalintas bibliografinis triukšmas ir suformuluotas sakinys apie vietą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]'
   pagrindžia:
     - c-003
 
@@ -30,6 +32,8 @@ Dusburgietis teigia, kad apie tai, kaip buvo nusiaubtas Sūduvos valsčius, vard
 - t-002
   global_id: t-58455
   teiginys: 'Sūduvos valsčiuje Kresmenoje Skomantas garsėjo galia ir turtais.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai sieja Kresmeną su citatoje minimu Skomanto statusu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_person: [[objektai/asmenys/Skomantas|Skomantas]]; mentioned_place: Sūduva'
   pagrindžia:
     - c-002
 
@@ -37,9 +41,17 @@ Dusburgietis teigia, kad apie tai, kaip buvo nusiaubtas Sūduvos valsčius, vard
 - t-003
   global_id: t-58456
   teiginys: 'Magistras Mangoldas per Grabnyčias įsiveržė į Sūduvos valsčių Kresmeną ir jį niokojo degindamas bei grobdamas.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir citata tiesiogiai palaiko Mangoldo įsiveržimą į Kresmeną.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Sūduva'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Mangoldas [iš Šternbergo].md#claim-t-60169|Mangoldas [iš Šternbergo]]]: Mangoldas iš Šternbergo vasario 2 d. su visa kariuomene įsiveržė į Sūduvos Kresmenos valsčių ir jį niokojo degindamas bei grobdamas.
+- susijęs iš [[objektai/asmenys/Skomantas.md#claim-t-59831|Skomantas]]: Ordino magistras Mangoldas per žygį į Kresmenos valsčių sudegino Skomanto sodybą.
+- susijęs iš [[objektai/autoriai/Engel C.md#claim-t-60696|Engel C]]: Engelio darbas cituojamas lokalizuojant centrinę Kresmenos, arba Skomanto, pilį prie Skomanto ežero pietinės pakrantės.
+- susijęs iš [[objektai/ivykiai/Kresmenos valsčiaus nusiaubimas ir Liudviko paėmimas į nelaisvę.md#claim-t-183935|Kresmenos valsčiaus nusiaubimas ir Liudviko paėmimas į nelaisvę]]: Grabnyčių dieną magistras Mangoldas su kariuomene įsiveržė į Sūduvos Kresmenos valsčių ir jį nusiaubė.
+- susijęs iš [[objektai/ivykiai/Kresmenos valsčiaus nusiaubimas ir Liudviko paėmimas į nelaisvę.md#claim-t-66638|Kresmenos valsčiaus nusiaubimas ir Liudviko paėmimas į nelaisvę]]: Kresmenos valsčiaus ieškoma ir į šiaurės rytus nuo Skomanto ežero, tarp Suvalkų ir Seinų.
+- susijęs iš [[objektai/ivykiai/Kresmenos valsčiaus nusiaubimas ir Liudviko paėmimas į nelaisvę.md#claim-t-66639|Kresmenos valsčiaus nusiaubimas ir Liudviko paėmimas į nelaisvę]]: Grabnyčių dieną magistras Mangoldas su kariuomene įsiveržė į Sūduvos Kresmenos valsčių ir jį nusiaubė.
+- susijęs iš [[objektai/zodynas/grabnyčių diena.md#claim-t-58903|grabnyčių diena]]: Grabnyčių dieną, vasario 2-ąją, magistras Mangoldas įsiveržė į Sūduvos valsčių Kresmeną ir jį nusiaubė.
 ## Reikšmingi paminėjimai
 
 - c-001

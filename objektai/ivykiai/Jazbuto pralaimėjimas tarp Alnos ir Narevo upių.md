@@ -30,6 +30,11 @@ Nenurodyta
 - t-001
   global_id: t-185800
   teiginys: 'Jazbutas, nuniokojęs kai kurias Lenkijos pasienio žemes, buvo sumuštas Henriko Cutsverto tarp Alnos ir Narevo upių.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nurodo Jazbuto veiksmą, pralaimėjimą ir vietą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_person: [[objektai/asmenys/Jazbutas|Jazbutas]]; mentioned_place: Aukaimis; mentioned_place: Baiga; mentioned_place: Lenkija; mentioned_place: Narevas'
   pagrindžia:
     - c-001
 
@@ -60,8 +65,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Jazbutas]]
-- [[objektai/zodynas/įgula]]

@@ -4,15 +4,17 @@ pavadinimas: 'Mykolo Kleofso Oginskio kunigaikštijos sudarymo projektas (1811 m
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 datos:
+  - '1569 m.'
   - '1811 m.'
-date_start: '1811'
-date_end: ''
+date_start: '1569'
+date_end: '1811'
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XIX'
 tags:
   - saltinis
+amziai:
+  - 'XVI'
+  - 'XIX'
 ---
 # Mykolo Kleofso Oginskio kunigaikštijos sudarymo projektas (1811 m.)
 
@@ -21,20 +23,22 @@ tags:
 Be to, jis siūlė palikti toje kunigaikštijoje Lietuvos statutą be jokių apribojimų ir įsteigti nuo Petrapilio visiškai nepriklausomą tribunolą (mat, tada aukščiausioji instancija buvo Rusijos senatas).
 
 ## Teiginiai
+
 <a id="claim-t-02248"></a>
 - t-001
   global_id: t-02248
   teiginys: 'Oginskio projekte siūlyta kunigaikštijoje be apribojimų palikti Lietuvos Statutą ir įsteigti nuo Petrapilio nepriklausomą tribunolą.'
+  sudarymo_pagrindimas: 'Pradinis teiginys remiasi neaiškiu įvardžiu, todėl reikia aiškiai susieti faktą su projektu.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_object: [[objektai/zodynas/senatas|senatas]]; mentioned_object: [[objektai/zodynas/statutas|statutas]]; mentioned_object: [[objektai/zodynas/tribunolas|tribunolas]]; mentioned_place: Kijevas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Petrapilis; mentioned_place: Podolė; mentioned_place: Rusija'
+  temporaliniai_duomenys: 'įvykio data: po 1569 m.; įvykio data: 1569 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys remiasi neaiškiu įvardžiu, todėl reikia aiškiai susieti faktą su projektu.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Oginskio projekte siūlyta kunigaikštijoje be apribojimų palikti Lietuvos Statutą ir įsteigti nuo Petrapilio nepriklausomą tribunolą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Juo buvo siūloma iš
@@ -60,10 +64,8 @@ Be to, jis siūlė palikti toje kunigaikštijoje Lietuvos statutą be jokių apr
     klausomą tribunolą (mat,
     tada aukščiausioji instan-
     cija buvo Rusijos senatas).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

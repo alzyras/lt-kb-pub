@@ -3,10 +3,17 @@ tipas: grupe
 pavadinimas: 'Varšuvos lietuvių studentų draugija „Lietuva“'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1889 m.'
+  - '1890 m.'
+date_start: '1889'
+date_end: '1890'
 sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+amziai:
+  - 'XIX'
 ---
 # Varšuvos lietuvių studentų draugija „Lietuva“
 
@@ -20,6 +27,12 @@ tags:
 - t-001
   global_id: t-20060
   teiginys: 'Varšuvos lietuvių studentų draugija „Lietuva“ įsteigė 1889 m. pradėtą leisti žurnalą „Varpas“, plėtojusį „Aušros“ idėjas.'
+  sudarymo_pagrindimas: 'Perrašyta taip, kad sakinio centras būtų pati draugija, pašalinant OCR laužymus.'
+  susije_objektai: 'object: Varšuva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Varšuva'
+  semantiniai_rysiai: '[[objektai/grupes/Varšuvos lietuvių studentų draugija „Lietuva“|Varšuvos lietuvių studentų draugija „Lietuva“]] pastatė Varšuva'
+  temporaliniai_duomenys: 'pastatymo data: 1889 m.; pastatymo data: 1889-1890; pastatymo data: 1890 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Varšuvos lietuvių studentų draugija „Lietuva“ pastatė Varšuva“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Perrašyta taip, kad sakinio centras būtų pati draugija, pašalinant OCR laužymus.'
   pagrindžia:
     - c-001
 
@@ -51,5 +64,4 @@ tags:
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
+- Varšuvos lietuvių studentų draugija „Lietuva“ pastate [[objektai/vietos/Varšuva]]

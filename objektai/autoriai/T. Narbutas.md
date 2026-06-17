@@ -26,9 +26,20 @@ S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų.
 - t-001
   global_id: t-186292
   teiginys: 'S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata pagrindžia Narbuto reikšmę Daukantui, o pradinė formuluotė yra nutrūkęs fragmentas.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/S. Daukantas|S. Daukantas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Teodoras Narbutas.md#claim-t-186510|Teodoras Narbutas]]: Teodoras Narbutas plačiai, nors ir nekritiškai, panaudojo Bychovco kroniką devynių tomų „Lietuvių tautos istorijoje“ ir laikė ją itin vertingu šaltiniu.
+- susijęs iš [[objektai/asmenys/Teodoras Narbutas.md#claim-t-186512|Teodoras Narbutas]]: 1846 m. atskiru leidiniu paskelbtos Bychovco kronikos išnašose Teodoras Narbutas paaiškino kai kurias teksto vietas.
+- susijęs iš [[objektai/asmenys/Teodoras Narbutas.md#claim-t-186513|Teodoras Narbutas]]: Teodoro Narbuto dėka istoriografijoje įsigalėjo dabartinis kronikos pavadinimas „Bychovco kronika“.
+- susijęs iš [[objektai/asmenys/Teodoras Narbutas.md#claim-t-186514|Teodoras Narbutas]]: Nuo 1838 m. Teodoras Narbutas rūpinosi Bychovco kronikos spausdinimu, o 1844 m. lapkričio 23 d. išsiuntė rankraštį į Vilnių A. Renjerui.
+- susijęs iš [[objektai/asmenys/Teodoras Narbutas.md#claim-t-186515|Teodoras Narbutas]]: Lietuvoje populiarus Teodoras Narbutas susilaukė rūsčios Michało Balińskio kritikos.
+- susijęs iš [[objektai/daiktai/Bychovco kronikos rankraštis.md#claim-t-186809|Bychovco kronikos rankraštis]]: Bychovco kronikos rankraščio spraga leidime buvo užpildyta tekstu iš Lietuvos metraščių PS antrosios redakcijos Račinskių nuorašo.
+- susijęs iš [[objektai/daiktai/Kentauro herbas.md#claim-t-186855|Kentauro herbas]]: M. Strijkovskio kronikos citatoje Kukovaitis vadinamas Živinbudo sūnumi iš Kentauro herbo giminės.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -48,8 +59,3 @@ S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Bychovco kronikos rankraštis]]
-- [[objektai/daiktai/Kentauro herbas]]

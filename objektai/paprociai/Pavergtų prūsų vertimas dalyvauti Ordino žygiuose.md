@@ -8,8 +8,9 @@ datos:
   - '1292 m.'
   - '1293 m.'
   - '1337 m.'
+  - '1410 m.'
 date_start: '1285'
-date_end: '1337'
+date_end: '1410'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -18,7 +19,7 @@ tags:
   - pilis
 amziai:
   - 'XIII'
-  - 'XIV'
+  - 'XV'
 ---
 # Pavergtų prūsų vertimas dalyvauti Ordino žygiuose
 
@@ -52,6 +53,12 @@ Nenurodyta
 - t-001
   global_id: t-62707
   teiginys: 'Ordino valdžioje likę prūsai buvo verčiami dalyvauti Ordino žygiuose.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra trumpas, aiškus ir tiesiogiai pagrįstas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Prūsai'
+  temporaliniai_duomenys: 'įvykio data: 1285 m.; įvykio data: 1292 m.; įvykio data: 1293 m.; įvykio data: 1337 m.; įvykio data: 1410 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra trumpas, aiškus ir tiesiogiai pagrįstas citata.'
   pagrindžia:
     - c-001
 
@@ -73,10 +80,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Gediminas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

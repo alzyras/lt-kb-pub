@@ -3,10 +3,17 @@ tipas: ivykis
 pavadinimas: 'Pirmosios lietuviškos knygos išspausdinimas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1522 m.'
+  - '1547 m.'
+date_start: '1522'
+date_end: '1547'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
+amziai:
+  - 'XVI'
 ---
 # Pirmosios lietuviškos knygos išspausdinimas
 
@@ -36,6 +43,11 @@ Nenurodyta
 - t-001
   global_id: t-20457
   teiginys: '1547 m. Karaliaučiuje išspausdintas Martyno Mažvydo „Katekizmas“ buvo pirmoji knyga lietuvių kalba, skirta lietuviams ir Lietuvai.'
+  sudarymo_pagrindimas: 'Citata leidžia suformuluoti glaustesnį enciklopedinį teiginį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/autoriai/Martynas Mažvydas Vaitkūnas|Martynas Mažvydas Vaitkūnas]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1522 m.; įvykio data: 1547 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata leidžia suformuluoti glaustesnį enciklopedinį teiginį.'
   pagrindžia:
     - c-001
 
@@ -54,9 +66,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/autoriai/Martynas Mažvydas Vaitkūnas]]
-- [[objektai/asmenys/Martynas iš Golino]]

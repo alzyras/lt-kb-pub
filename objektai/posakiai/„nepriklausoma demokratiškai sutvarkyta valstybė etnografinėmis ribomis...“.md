@@ -23,6 +23,8 @@ Konferencijos pagrindinėje rezoliucijoje lietuviai nubrėžė būsimos valstyb�
 - t-001
   global_id: t-20923
   teiginys: 'Konferencijos rezoliucijoje būsima Lietuva apibrėžta kaip nepriklausoma demokratiškai sutvarkyta valstybė etnografinėmis ribomis.'
+  sudarymo_pagrindimas: 'Citata geriau pagrindžia teiginį apie rezoliucijoje suformuluotą valstybės modelį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos seimas|Lietuvos seimas]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lietuva; mentioned_place: Vokietija'
   pagrindžia:
     - c-001
 
@@ -50,11 +52,3 @@ Konferencijos pagrindinėje rezoliucijoje lietuviai nubrėžė būsimos valstyb�
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Lietuvos seimas|Lietuvos seimas (seimas)]]
-- [[objektai/zodynas/Adynos|adynos]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/zodynas/etnografinės ribos etnografinis principas]]

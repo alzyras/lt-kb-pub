@@ -41,6 +41,9 @@ Nenurodyta
 - t-001
   global_id: t-62129
   teiginys: 'Kai kurie kilmingi sembai paliko gimtuosius namus, su šeimynomis atvyko į Karaliaučiaus pilį ir prisidėjo prie brolių.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pašalintas antraštės ir OCR triukšmas, paliktas citatos palaikomas faktas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]'
   pagrindžia:
     - c-001
 
@@ -67,7 +70,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Sembai]]

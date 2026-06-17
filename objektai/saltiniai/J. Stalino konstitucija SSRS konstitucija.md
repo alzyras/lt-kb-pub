@@ -3,10 +3,17 @@ tipas: saltinis
 pavadinimas: 'J. Stalino konstitucija SSRS konstitucija'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1944 m.'
+  - '1953 m.'
+date_start: '1944'
+date_end: '1953'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XX'
 ---
 # J. Stalino konstitucija SSRS konstitucija
 
@@ -20,6 +27,8 @@ Stalino konstitucijos, rusų kalbos dėstymas, uždrausta tikyba, sumažintas li
 - t-001
   global_id: t-21070
   teiginys: 'Mokytojai buvo verčiami studijuoti V. Lenino, J. Stalino ir Karlo Markso veikalus, SSKP istoriją, SSRS konstituciją ir partijos nutarimus.'
+  sudarymo_pagrindimas: 'Teiginys turi aiškų subjektą ir tiksliai perteikia citatos faktus.'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: SSRS'
   pagrindžia:
     - c-002
 
@@ -27,6 +36,11 @@ Stalino konstitucijos, rusų kalbos dėstymas, uždrausta tikyba, sumažintas li
 - t-002
   global_id: t-21071
   teiginys: 'Mokyklose buvo įvestas privalomas J. Stalino konstitucijos ir rusų kalbos dėstymas, uždrausta tikyba ir sumažintas lietuvių kalbos pamokų skaičius.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir remiasi citatoje išvardytais švietimo pakeitimais.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/konstitucijos|konstitucijos]]'
+  temporaliniai_duomenys: 'įvykio data: 1944-1953; įvykio data: 1953 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir remiasi citatoje išvardytais švietimo pakeitimais.'
   pagrindžia:
     - c-001
 

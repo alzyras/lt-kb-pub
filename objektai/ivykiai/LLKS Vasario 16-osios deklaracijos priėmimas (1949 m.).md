@@ -4,9 +4,12 @@ pavadinimas: 'LLKS Vasario 16-osios deklaracijos priėmimas (1949 m.)'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
+  - '1929 m.'
+  - '1936 m.'
+  - '1938 m.'
   - '1949 m.'
-date_start: '1949'
-date_end: ''
+date_start: '1929'
+date_end: '1949'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -45,6 +48,11 @@ Nenurodyta
 - t-001
   global_id: t-20245
   teiginys: 'LLKS Vasario 16-osios deklaracijoje numatytas Lietuvos valstybės atkūrimas ir demokratinės respublikos santvarka.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai perteikia citatoje nurodytą deklaracijos turinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Lietuvos laisvės kovos sąjūdis|Lietuvos laisvės kovos sąjūdis]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas Žemaitis-Vytautas|Jonas Žemaitis-Vytautas]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Prancūzija'
+  temporaliniai_duomenys: 'įvykio data: 1929 m.; įvykio data: 1936-1938; įvykio data: 1938 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai perteikia citatoje nurodytą deklaracijos turinį.'
   pagrindžia:
     - c-001
 
@@ -72,12 +80,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Artilerija]]
-- [[objektai/asmenys/Jonas]]
-- [[objektai/asmenys/Jonas Žemaitis-Vytautas]]
-- [[objektai/grupes/Lietuvos laisvės kovos sąjūdis]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/grupes/Abiejų Tautų Respublika]]

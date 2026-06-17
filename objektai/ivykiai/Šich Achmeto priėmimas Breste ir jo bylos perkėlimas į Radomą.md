@@ -30,6 +30,11 @@ Nenurodyta
 - t-001
   global_id: t-185839
   teiginys: 'Karalius perkėlė Šich Achmeto nusiskundimus svarstantį seimą į Radomą, nes byla rūpėjo ir lenkams, ir lietuviams.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis teiginys turi OCR klaidų, bet citata aiškiai remia bylos perkėlimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Radomas'
   pagrindžia:
     - c-001
 
@@ -61,8 +66,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/seimas]]

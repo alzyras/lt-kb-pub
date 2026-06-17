@@ -18,6 +18,11 @@ Cimbarka buvo Aleksandros ir Mazovijos kunigaikščio Zemovito duktė, vėliau t
 - t-001
   global_id: t-186192
   teiginys: 'Cimbarka buvo Aleksandros ir Mazovijos kunigaikščio Zemovito duktė, vėliau tapusi Austrijos erchercogo Ernesto žmona.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata palaiko genealoginį faktą apie Cimbarką, bet pradinis sakinys per ilgas ir netiesioginis.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Ernestas (Livonijos žemės magistras)|Ernestas (Livonijos žemės magistras)]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Austrija; mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_place: Vitebskas'
   pagrindžia:
     - c-001
 
@@ -59,9 +64,3 @@ Cimbarka buvo Aleksandros ir Mazovijos kunigaikščio Zemovito duktė, vėliau t
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Ernestas (Livonijos žemės magistras)]]
-- [[objektai/asmenys/Skirgaila]]
-- [[objektai/zodynas/žygis]]

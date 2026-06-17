@@ -27,6 +27,7 @@ Papildomos aiškios formos neišskirtos.
 - t-001
   global_id: t-07677
   teiginys: 'Klajume žmonės rinkdavosi melstis, o ąžuolinių malkų rietuvės buvo laikomos šventai ugniai kūrenti.'
+  sudarymo_pagrindimas: 'Citata tiesiogiai remia abu teiginio elementus.'
   pagrindžia:
     - c-001
 
@@ -34,6 +35,7 @@ Papildomos aiškios formos neišskirtos.
 - t-002
   global_id: t-07678
   teiginys: 'Klajumas buvo erdvė aplink žinyčią, kurioje žmonės rinkdavosi melstis.'
+  sudarymo_pagrindimas: 'Citata remia reikšmę, bet reikia aiškaus faktinio sakinio.'
   pagrindžia:
     - c-001
     - c-002

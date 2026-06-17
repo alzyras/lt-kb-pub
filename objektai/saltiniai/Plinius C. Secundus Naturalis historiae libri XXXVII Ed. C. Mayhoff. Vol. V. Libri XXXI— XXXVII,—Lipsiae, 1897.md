@@ -28,6 +28,11 @@ Dusburgietis teigia, kad plinius C.
 - t-001
   global_id: t-61229
   teiginys: 'C. Pliniaus Secundus veikalo „Naturalis historiae“ penktasis tomas, apimantis XXXI–XXXVII knygas, C. Mayhoffo parengtas Leipcige 1897 m.'
+  sudarymo_pagrindimas: 'Citata pateikia leidimo pavadinimą, redaktorių, tomą, knygas, vietą ir metus.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/Plinius C. Secundus|Plinius C. Secundus]]; mentioned_place: Leipcigas'
+  temporaliniai_duomenys: 'įvykio data: 1897 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pateikia leidimo pavadinimą, redaktorių, tomą, knygas, vietą ir metus.'
   pagrindžia:
     - c-001
 

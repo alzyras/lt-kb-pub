@@ -29,6 +29,9 @@ Grekov, B.
 - t-001
   global_id: t-30568
   teiginys: 'B. D. Grekovas su A. J. Jakubovskiu 1950 m. Maskvoje-Leningrade išleido veikalą „Zolotaja Orda i ee padenije“.'
+  susije_objektai: 'mentioned_place: Varšuva'
+  temporaliniai_duomenys: 'įvykio data: 1950 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

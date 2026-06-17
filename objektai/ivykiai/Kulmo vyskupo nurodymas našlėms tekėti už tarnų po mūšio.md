@@ -39,6 +39,9 @@ Nenurodyta
 - t-001
   global_id: t-62848
   teiginys: 'Po mūšio Kulmo vyskupas įpareigojo Kulmo našles tekėti už savo tarnų, kad tikėjimo reikalas neatsidurtų pavojuje.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tame (Baigos brolis)|Tame (Baigos brolis)]]; mentioned_place: Kulmas; mentioned_place: Viena'
   pagrindžia:
     - c-001
     - c-003
@@ -47,6 +50,9 @@ Nenurodyta
 - t-002
   global_id: t-62849
   teiginys: 'Po Kulmo vyskupo nurodymo dvi moterys eidamos į bažnyčią pamatė aikštėje kauliukais žaidžiantį tarną.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Pašalintas boilerplate ir sukonkretintas įvykis.'
+  susije_objektai: 'mentioned_place: Kulmas; mentioned_place: Viena'
   pagrindžia:
     - c-002
 
@@ -100,9 +106,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Tame (Baigos brolis)]]
-- [[objektai/paprociai/Našlių ištekinimas už tarnų Kulme po mūšio|Našlių ištekinimas už tarnų Kulme po mūšio (mūšis)]]
-- [[objektai/zodynas/nuodėmių atleidimas]]

@@ -29,6 +29,11 @@ Dusburgietis teigia, kad apie Vilhelmo, Olandijos grafo, išrinkimą Romos karal
 - t-001
   global_id: t-60463
   teiginys: '1249 m., mirus landgrafui, Olandijos grafas Vilhelmas buvo išrinktas Romos karaliumi, bet vėliau jį nužudė frizai.'
+  sudarymo_pagrindimas: 'Reikia pašalinti antraštės triukšmą ir nutrūkusią frazę apie vainiką.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vilhelmas|Vilhelmas]]; mentioned_place: Olandija'
+  temporaliniai_duomenys: 'įvykio data: 1249 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia pašalinti antraštės triukšmą ir nutrūkusią frazę apie vainiką.'
   pagrindžia:
     - c-001
 
@@ -53,7 +58,3 @@ Dusburgietis teigia, kad apie Vilhelmo, Olandijos grafo, išrinkimą Romos karal
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/Vilhelmo Olandiečio išrinkimas Romos karaliumi ir žūtis (1249 m.)]]

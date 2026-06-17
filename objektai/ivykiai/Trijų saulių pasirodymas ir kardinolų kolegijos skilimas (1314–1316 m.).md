@@ -46,6 +46,12 @@ Nenurodyta
 - t-001
   global_id: t-62941
   teiginys: '1314 m. kovo 1 d. prie Karpantra, kur buvo Romos kurija, apie aštuntą valandą pasirodė trys saulės.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir atitinka citatos faktus.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1314 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys ir atitinka citatos faktus.'
   pagrindžia:
     - c-002
     - c-003
@@ -54,6 +60,9 @@ Nenurodyta
 - t-002
   global_id: t-62942
   teiginys: 'Dusburgietis trijų saulių pasirodymą laikė ženklu, kad mirs popiežius, o po jo mirties suskils kardinolų kolegija.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Čia teiginys yra apie autoriaus interpretaciją, todėl tinka aiški šaltinio atribucija.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kardinolų kolegija|Kardinolų kolegija]]; mentioned_object: [[objektai/zodynas/senatas|senatas]]'
   pagrindžia:
     - c-001
 
@@ -107,10 +116,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/senatas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Kardinolų kolegija]]
-- [[objektai/autoriai/Komestorius]]

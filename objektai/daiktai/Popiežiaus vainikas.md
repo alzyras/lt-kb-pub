@@ -49,6 +49,8 @@ Nenurodyta
 - t-001
   global_id: t-59702
   teiginys: 'Popiežiui nukentėjus, nuo jo galvos nulėkė vainikas, iš kurio iškrito ir pradingo viršuje įtaisytas rubinas.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie vainiką ir rubiną.'
+  susije_objektai: 'mentioned_place: Prancūzija'
   pagrindžia:
     - c-001
 
@@ -67,7 +69,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Karolis (Prancūzijos karaliaus brolis)]]

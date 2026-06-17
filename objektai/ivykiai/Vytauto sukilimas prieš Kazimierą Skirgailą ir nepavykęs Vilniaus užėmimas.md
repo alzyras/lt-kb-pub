@@ -30,6 +30,11 @@ Nenurodyta
 - t-001
   global_id: t-185788
   teiginys: 'Vytautą žygiuoti į Vilnių paskatino Kazimiero išvykimas į Polocką, kuris laikytas esančiu už 50 mylių nuo Vilniaus.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pašalinta atributinė pradžia ir pataisytas OCR žodžių skaidymas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -58,7 +63,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/įgula]]

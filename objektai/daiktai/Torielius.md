@@ -38,6 +38,9 @@ Nenurodyta
 - t-001
   global_id: t-08336
   teiginys: 'Per išeiginių aukų apeigą viršaitis nešė duonos šmotelį ant torieliaus ir midaus kaušą arba taurę.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Citata remia tikslesnį veiksmą; pradinis teiginys netiksliai nurodo padėjimą ant torieliaus.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Aukuras|Aukuras]]; mentioned_object: [[objektai/daiktai/Duona|Duona]]; mentioned_object: [[objektai/daiktai/Taurės|Taurės]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -61,11 +64,3 @@ Nenurodyta
 ## Pastabos
 
 - terminas šiame fragmente nepaaiškintas; iš konteksto labiausiai panašu į padėklą arba lėkštę.
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Aukuras]]
-- [[objektai/daiktai/Duona]]
-- [[objektai/zodynas/Miera|miera]]
-- [[objektai/daiktai/Dievų stabai]]
-- [[objektai/paprociai/Išeiginės aukos per metines viešes]]

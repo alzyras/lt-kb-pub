@@ -23,6 +23,8 @@ Pagaliau mone­ tų kalykla, Vilniuje įkurta Jogailos, Švitrigailos valdymo me
 - t-001
   global_id: t-86479
   teiginys: 'Jogailos Vilniuje įkurta monetų kalykla Švitrigailos valdymo metais kaldino lietuviškus grašius ir pusgrašius.'
+  sudarymo_pagrindimas: 'Teiginys taisytinas dėl OCR triukšmo, bet faktas tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -30,6 +32,8 @@ Pagaliau mone­ tų kalykla, Vilniuje įkurta Jogailos, Švitrigailos valdymo me
 - t-002
   global_id: t-86480
   teiginys: 'Lietuviški rubliai, vadinti sidabrinėmis lazdelėmis arba liejinukais, šioje kalykloje greičiausiai buvo daromi rusišku pavyzdžiu.'
+  sudarymo_pagrindimas: 'Pradinis sakinys beveik tinkamas, bet turėjo OCR triukšmo ir reikalauja glaustesnės formos.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/sidabrinė duoklė|sidabrinė duoklė]]; mentioned_place: Ašmena; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -82,10 +86,3 @@ Pagaliau mone­ tų kalykla, Vilniuje įkurta Jogailos, Švitrigailos valdymo me
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/zodynas/didysis kunigaikštis]]
-- [[objektai/zodynas/sidabrinė duoklė]]
-- [[objektai/asmenys/Švitrigaila]]

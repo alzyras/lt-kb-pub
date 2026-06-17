@@ -18,7 +18,7 @@ amziai:
 
 ## Santrauka
 
-Vaistinėje buvo žaliavų, užjūrio ir vietinių preparatų, medikamentų bei medžiagų atsargų, kurios buvo surašytos, persvertos ir įvertintos. Kol vaistinėje buvo leidžiama laikyti ir pardavinėti degtinę, metinės pajamos galėjo siekti 30 000 auksinų, o po draudimo jos sumažėjo. Dalis medikamentų buvo skiriama kolegijoje sergantiems asmenims, kuriems vaistininkai turėjo be užmokesčio duoti vaistų.
+Vaistinės prekės apima žaliavas, užjūrio ir vietinius preparatus, medikamentus, degtinę, vaistus ir gydomuosius gėrimus. Šie objektai šaltinyje siejami su vaistinės atsargų apskaita, pajamomis, draudimu pardavinėti degtinę ir gydymu be užmokesčio.
 
 ## Pavadinimai šaltiniuose
 
@@ -60,6 +60,7 @@ Nenurodyta
 - t-002
   global_id: t-55056
   teiginys: 'Kol vaistinėje buvo leidžiama laikyti ir pardavinėti degtinę, metinės pajamos galėjo siekti 30 000 auksinų, o po draudimo jos sumažėjo.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]'
   pagrindžia:
     - c-003
 
@@ -74,6 +75,8 @@ Nenurodyta
 - t-004
   global_id: t-172859
   teiginys: 'Didžioji iš Krokuvos atgabentos karališkosios vaistinės dalis liko Vilniuje ir tapo nuolatinės miesto vaistinės pradžia.'
+  sudarymo_pagrindimas: 'Teiginys yra išsamus, gramatiškas ir paremtas citata.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]; mentioned_place: Gniezno; mentioned_place: Krokuva; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius'
   pagrindžia:
     - c-005
 
@@ -81,6 +84,11 @@ Nenurodyta
 - t-005
   global_id: t-172862
   teiginys: '1780 m. vaistinė kelių vaistininkų dėka buvo išsiplėtusi ir pasiekusi klestintį būvį.'
+  sudarymo_pagrindimas: 'Įvardyta numanoma vaistinė ir pašalintas kontekstinis, neaiškus įvardis.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]'
+  temporaliniai_duomenys: 'įvykio data: 1780 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Įvardyta numanoma vaistinė ir pašalintas kontekstinis, neaiškus įvardis.'
   pagrindžia:
     - c-003
 
@@ -88,9 +96,33 @@ Nenurodyta
 - t-006
   global_id: t-172863
   teiginys: 'Aleksandro laikais Vilniuje pirmą kartą minimi gydytojas ir vaistinė.'
+  sudarymo_pagrindimas: 'Reikia mažiau vaizdingos ir enciklopediškesnės formuluotės.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/indiktas|indiktas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Julijona|Julijona]]; mentioned_person: [[objektai/asmenys/Julijona (Algirdo žmona)|Julijona (Algirdo žmona)]]; mentioned_person: [[objektai/asmenys/Rusdorfas|Rusdorfas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-004
-
+- susijęs iš [[objektai/asmenys/Albinas Kubilius-Rūgštymas.md#claim-t-39996|Albinas Kubilius-Rūgštymas]]: 1949 m. spalio 24 d. MGB agentui V. Kučiui panaudojus spec. preparatus, buvo suimtas Albinas Kubilius-Rūgštymas.
+- susijęs iš [[objektai/asmenys/Alfonsas Vildžiūnas-Vijoklis.md#claim-t-40007|Alfonsas Vildžiūnas-Vijoklis]]: 1949 m. spalio 24 d. buvo suimtas Vytenio būrio partizanas Alfonsas Vildžiūnas-Vijoklis.
+- susijęs iš [[objektai/asmenys/V. Kučius.md#claim-t-40488|V. Kučius]]: 1949 m. spalio 24 d. MGB agentas V. Kučius panaudojo specialius preparatus „Neptun-20“ prieš partizanų suėmimą.
+- susijęs iš [[objektai/daiktai/Akademinės vaistinės prekės medikamentai, medžiagos ir degtinė.md#claim-t-87043|Akademinės vaistinės prekės medikamentai, medžiagos ir degtinė]]: Surašius, persvėrus ir įvertinus Akademinės vaistinės medžiagas, jų vertė buvo mažesnė 28 707 auksinais ir 12 grašių.
+- susijęs iš [[objektai/daiktai/Deficitinės vartojimo prekės.md#claim-t-19512|Deficitinės vartojimo prekės]]: Sovietmečio Lietuvoje deficitinės buvo maisto prekės, baldai, indai, televizoriai, medicinos reikmenys ir vaistai.
+- susijęs iš [[objektai/daiktai/Deficitinės vartojimo prekės.md#claim-t-19513|Deficitinės vartojimo prekės]]: Sovietmečio Lietuvoje baldai, indai ir televizoriai buvo deficitinės vartojimo prekės, kurioms įsigyti reikėjo talonų.
+- susijęs iš [[objektai/grupes/Raudonasis Kryžius.md#claim-t-41120|Raudonasis Kryžius]]: Raudonojo Kryžiaus pastangomis Nacionalinėje M. Mažvydo bibliotekoje įkurtas pirmosios medicinos pagalbos ir medicininio vadovavimo punktas.
+- susijęs iš [[objektai/ivykiai/Šimonių girios apgultis (1949 m.).md#claim-t-67011|Šimonių girios apgultis (1949 m.)]]: 1949 m. spalio 28 d. Albinas Kubilius-Rūgštymas ir Alfonsas Vildžiūnas-Vijoklis atvedė čekistus prie Šiaurės Rytų partizanų srities štabo bunkerio Anykščių valsčiuje.
+- susijęs iš [[objektai/ivykiai/Žygimanto Senojo privilegijos dėl Vilijos tilto muito ir Švč. Trejybės prieglaudos suteikimas (1536 m. rugpjūčio 6 d.).md#claim-t-86881|Žygimanto Senojo privilegijos dėl Vilijos tilto muito ir Švč. Trejybės prieglaudos suteikimas (1536 m. rugpjūčio 6 d.)]]: Pastačius Švč. Trejybės prieglaudą, dalis Vilijos tilto mokesčio turėjo būti skiriama ligonių maistui, drabužiams, vaistams ir kitoms reikmėms.
+- susijęs iš [[objektai/paprociai/Aukščiausiosios Tarybos gynybos savitarpio aprūpinimo praktika.md#claim-t-09609|Aukščiausiosios Tarybos gynybos savitarpio aprūpinimo praktika (institucija)]]: Aukščiausiosios Tarybos gynybos metu Nacionalinėje M. Mažvydo bibliotekoje Raudonasis Kryžius įkūrė pirmosios pagalbos ir medicininio vadovavimo punktą.
+- susijęs iš [[objektai/paprociai/Kolegijoje sergančiųjų nemokamas gydymas ir vaistų davimas.md#claim-t-87274|Kolegijoje sergančiųjų nemokamas gydymas ir vaistų davimas]]: Kolegijoje sergantys asmenys turėjo būti vaistininkų gydomi be užmokesčio ir aprūpinami vaistais.
+- susijęs iš [[objektai/paprociai/Sovietinio deficito eilės ir talonų laukimas.md#claim-t-20819|Sovietinio deficito eilės ir talonų laukimas]]: Sovietmečiu parduotuvės buvo apytuštės, trūko maisto produktų, o žmonės ilgose eilėse laukdavo talonų vartojimo prekėms įsigyti.
+- susijęs iš [[objektai/posakiai/„jeigu Sacharos dykumoje būtų įvestas socializmas...“.md#claim-t-26653|„jeigu Sacharos dykumoje būtų įvestas socializmas...“]]: Komandinės, planinės ekonomikos neefektyvumas buvo pašiepiamas formule apie socializmą Sacharos dykumoje ir smėlio deficitą.
+- susijęs iš [[objektai/posakiai/„jeigu Sacharos dykumoje būtų įvestas socializmas...“.md#claim-t-26905|„jeigu Sacharos dykumoje būtų įvestas socializmas...“]]: Posakiu apie socializmą Sacharos dykumoje šaipytasi iš komandinės planinės ekonomikos neefektyvumo ir SSRS deficito.
+- susijęs iš Kazimiero Jogailaičio testamentas: Kazimieras Jogailaitis sudarė testamentą, padalijo turimus pinigus sūnums ir prašė lietuvių paskelbti Aleksandrą Lietuvos valdovu.
+- susijęs iš Anykščių valsčius: 1949 m. spalio 28 d. Albinas Kubilius-Rūgštymas ir Alfonsas Vildžiūnas-Vijoklis atvedė čekistus prie Šiaurės Rytų partizanų srities štabo bunkerio Anykščių valsčiuje.
+- susijęs iš Butkiškio vienkiemis: 1949 m. spalio 28 d. Albinas Kubilius-Rūgštymas ir Alfonsas Vildžiūnas-Vijoklis atvedė čekistus prie Šiaurės Rytų partizanų srities štabo bunkerio Butkiškio vienkiemyje.
+- susijęs iš Jovaišų sodyba: 1949 m. spalio 28 d. Albinas Kubilius-Rūgštymas ir Alfonsas Vildžiūnas-Vijoklis atvedė čekistus prie štabo bunkerio Jovaišų sodyboje.
+- susijęs iš Nacionalinė M. Mažvydo biblioteka: Nacionalinėje M. Mažvydo bibliotekoje Raudonasis Kryžius įkūrė pirmosios medicinos pagalbos ir medicininio vadovavimo punktą.
+- susijęs iš Žemaitija: Žemaitijoje, pasak Kojelavičiaus, tuo metu priešų nebuvo, bet kaimus niokojo nuodingi kirminai.
+- susijęs iš [[objektai/zodynas/deficitas talonai.md#claim-t-70104|deficitas talonai]]: Sovietmečio Lietuvoje trūko maisto produktų, butų, medicinos reikmenų ir vaistų, o baldams, indams ir televizoriams įsigyti reikėjo talonų.
+- susijęs iš [[objektai/zodynas/farmacinės lotyniškos sąvokos vaistinės kronikoje.md#claim-t-86524|farmacinės lotyniškos sąvokos vaistinės kronikoje]]: Vaistininkai, ruošdami preparatus pagal pareigas ir gydydami žmones, didindavo vaistinės pajamas.
+- susijęs iš [[objektai/zodynas/špitolė prieglauda.md#claim-t-86430|špitolė prieglauda]]: Pastatytai prieglaudai turėjo būti skiriama dalis tilto mokesčio ligonių maistui, drabužiams, vaistams ir kitoms reikmėms.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -212,35 +244,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Albinas Kubilius-Rūgštymas]]
-- [[objektai/asmenys/Alfonsas Vildžiūnas-Vijoklis]]
-- [[objektai/paprociai/Aukščiausiosios Tarybos gynybos savitarpio aprūpinimo praktika|Aukščiausiosios Tarybos gynybos savitarpio aprūpinimo praktika (institucija)]]
-- [[objektai/daiktai/Deficitinės vartojimo prekės]]
-- [[objektai/grupes/Raudonasis Kryžius]]
-- [[objektai/paprociai/Sovietinio deficito eilės ir talonų laukimas]]
-- [[objektai/asmenys/V. Kučius]]
-- [[objektai/zodynas/deficitas talonai]]
-- [[objektai/posakiai/„jeigu Sacharos dykumoje būtų įvestas socializmas...“]]
-- [[objektai/asmenys/Aleksandras]]
-- [[objektai/asmenys/Julijona]]
-- [[objektai/asmenys/Julijona (Algirdo žmona)]]
-- [[objektai/asmenys/Motiejus]]
-- [[objektai/asmenys/Rusdorfas]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/indiktas]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/asmenys/Žygimantas]]
-- [[objektai/daiktai/Akademinės vaistinės prekės medikamentai, medžiagos ir degtinė]]
-- [[objektai/paprociai/Kolegijoje sergančiųjų nemokamas gydymas ir vaistų davimas]]
-- [[objektai/ivykiai/Šimonių girios apgultis (1949 m.)]]
-- [[objektai/zodynas/špitolė prieglauda]]
-- [[objektai/ivykiai/Žygimanto Senojo privilegijos dėl Vilijos tilto muito ir Švč. Trejybės prieglaudos suteikimas (1536 m. rugpjūčio 6 d.)]]
-- [[objektai/zodynas/farmacinės lotyniškos sąvokos vaistinės kronikoje]]
-- [[objektai/asmenys/Julijona (Vytauto žmona)]]
-- [[objektai/daiktai/Karališkosios vaistinės vaistai ir gydomieji gėrimai]]
-- [[objektai/asmenys/Paulius Rusdorfas]]

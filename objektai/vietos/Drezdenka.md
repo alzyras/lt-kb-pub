@@ -23,6 +23,8 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
 - t-001
   global_id: t-99921
   teiginys: 'Naujame dokumente Drezdenka buvo priskirta prie lenkų pasienio punktų, turėjusių priklausyti kryžiuočiams.'
+  sudarymo_pagrindimas: 'Pradinis sakinys turi neaiškų įvardį, bet citata leidžia suformuluoti aiškų faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_place: Žemaičių kraštas'
   pagrindžia:
     - c-001
 

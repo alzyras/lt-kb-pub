@@ -3,10 +3,17 @@ tipas: zodyno_irasas
 pavadinimas: 'donacija'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+datos:
+  - '1259 m.'
+  - '1260 m.'
+date_start: '1259'
+date_end: '1260'
 sukurta: ''
 atnaujinta: ''
 tags:
   - sąvoka
+amziai:
+  - 'XIII'
 ---
 # donacija
 
@@ -20,6 +27,11 @@ Mindaugo pergamentai kryžiuočiams teteikė formalią teisę į jiems užrašyt
 - t-001
   global_id: t-32772
   teiginys: 'Mindaugo donacijos kryžiuočiams suteikė tik formalią teisę į užrašytas sritis, kurias jie galėjo užvaldyti tik savo jėga.'
+  sudarymo_pagrindimas: 'Reikia aiškiau susieti teiginį su donacijos sąvoka ir pašalinti perteklinę formuluotę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Žiemgaliai|Žiemgaliai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Georgenburgas; mentioned_place: Žiemgala'
+  temporaliniai_duomenys: 'įvykio data: 1259-1260; įvykio data: 1260 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia aiškiau susieti teiginį su donacijos sąvoka ir pašalinti perteklinę formuluotę.'
   pagrindžia:
     - c-001
 
@@ -41,9 +53,3 @@ Mindaugo pergamentai kryžiuočiams teteikė formalią teisę į jiems užrašyt
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
-- [[objektai/grupes/Žiemgaliai]]

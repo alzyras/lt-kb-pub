@@ -21,6 +21,8 @@ Dusburgietis teigia, kad kaip tas faraonas, kuris, norėdamas sunaikinti Izraeli
 - t-001
   global_id: t-59099
   teiginys: 'Dusburgiečio pasakojime galindai nutarė žudyti gimusias mergaites, o berniukus palikti karui.'
+  sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir remiasi bibliniu palyginimu; faktinis branduolys aiškiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Galindai|Galindai]]; mentioned_place: Galinda'
   pagrindžia:
     - c-001
 
@@ -45,7 +47,3 @@ Dusburgietis teigia, kad kaip tas faraonas, kuris, norėdamas sunaikinti Izraeli
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Galindai]]

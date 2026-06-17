@@ -31,9 +31,14 @@ Dusburgietis teigia, kad apie Rygos miesto sugriovimą Mūsų jau minėtais meta
 - t-001
   global_id: t-60270
   teiginys: '1330 m. Rygos miestiečiai patikėjo miestą, šeimas, laisves ir privilegijas Livonijos magistrui Eberhardui iš Manheimo.'
+  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytą faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rygos miestiečiai|Rygos miestiečiai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Eberhardas (Varmės vyskupas)|Eberhardas (Varmės vyskupas)]]; mentioned_place: Livonija; mentioned_place: Ryga'
+  temporaliniai_duomenys: 'įvykio data: 1330 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia citatoje nurodytą faktą.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/daiktai/Mūro sienos ir miesto sienos.md#claim-t-89428|Mūro sienos ir miesto sienos]]: 1330 m. Eberhardas iš Manheimo neįžengė į Rygą, kol miesto sienoje nebuvo išlaužta 30 uolekčių ilgio spraga.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -56,11 +61,3 @@ Dusburgietis teigia, kad apie Rygos miesto sugriovimą Mūsų jau minėtais meta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Teutonai]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/grupes/Rygos miestiečiai]]
-- [[objektai/daiktai/Mūro sienos ir miesto sienos]]
-- [[objektai/grupes/Kryžiuočių ordinas]]

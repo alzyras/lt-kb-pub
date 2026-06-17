@@ -26,6 +26,11 @@ Dusburgietis teigia, kad savukynas B.
 - t-001
   global_id: t-61283
   teiginys: 'B. Savukyno straipsnis „Dėl M. Rudnickio Galindos, Priegliaus ir Sūduvos etimologinių aiškinimų“ paskelbtas 1963 m.'
+  sudarymo_pagrindimas: 'Citata pagrindžia autorių, pavadinimą, leidinį ir publikavimo metus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Prieglius; mentioned_place: Sūduva'
+  temporaliniai_duomenys: 'įvykio data: 1963 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia autorių, pavadinimą, leidinį ir publikavimo metus.'
   pagrindžia:
     - c-001
 

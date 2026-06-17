@@ -21,6 +21,8 @@ Lietuvos arkebuzieriai rėmė ugnimi husarų ataką, o švedų arkibuzieriai sav
 - t-001
   global_id: t-42430
   teiginys: 'Lietuvos arkebuzieriai rėmė ugnimi husarų ataką, o švedų arkibuzieriai savo ugnimi stengėsi husarus sulaikyti.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie arkebuzierius.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kuršiečiai|Kuršiečiai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/husarai|husarai]]; mentioned_object: [[objektai/zodynas/rotmistras|rotmistras]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -28,9 +30,14 @@ Lietuvos arkebuzieriai rėmė ugnimi husarų ataką, o švedų arkibuzieriai sav
 - t-002
   global_id: t-42431
   teiginys: 'Kitose tercijos rikiuotės vietose didžiąją dalį šaulių sudarė ne tokiais galingais ginklais aprūpinti arkebuzieriai.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/zodynas/tercija|tercija]]'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Vaina.md#claim-t-40499|Vaina]]: Rotmistro A. Vainos husarams buvo pasiųstos kelios kuršiečių reitarų kuopos kaip pastiprinimas.
+- susijęs iš [[objektai/grupes/Kuršiečiai.md#claim-t-40967|Kuršiečiai]]: Rotmistro A. Vainos husarams į pastiprinimą buvo pasiųstos kelios kuršiečių reitarų kuopos.
+- susijęs iš [[objektai/zodynas/muškietininkai.md#claim-t-42481|muškietininkai]]: Tercijos priekyje ir flanguose būdavo išrikiuojami muškietininkai.
+- susijęs iš [[objektai/zodynas/tercija.md#claim-t-42517|tercija]]: Tercijos rikiuotės priekyje flanguose būdavo išrikiuojami muškietininkai.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -64,14 +71,3 @@ Lietuvos arkebuzieriai rėmė ugnimi husarų ataką, o švedų arkibuzieriai sav
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Ginklai]]
-- [[objektai/grupes/Kuršiečiai]]
-- [[objektai/zodynas/husarai]]
-- [[objektai/zodynas/rotmistras]]
-- [[objektai/zodynas/tercija]]
-- [[objektai/grupes/Švedai]]
-- [[objektai/asmenys/Vaina]]
-- [[objektai/zodynas/muškietininkai]]

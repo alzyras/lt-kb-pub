@@ -18,6 +18,10 @@ Karalius priėmė kovos ženklą ir pasakė, kad priešas pats parūpino kalavij
 - t-001
   global_id: t-185480
   teiginys: 'Karalius priėmė kovos ženklą ir pasakė, kad priešas pats parūpino kalaviją, kuris bus įsmeigtas jam į sprandą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata palaiko posakio priskyrimą karaliui; sakinys sutvarkytas.'
   pagrindžia:
     - c-001
 

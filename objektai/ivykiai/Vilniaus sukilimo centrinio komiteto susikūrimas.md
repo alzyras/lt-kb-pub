@@ -43,6 +43,11 @@ Nenurodyta
 - t-001
   global_id: t-86962
   teiginys: '1830 m. vėlyvą rudenį Vilniuje susikūręs sukilimo centrinis komitetas turėjo organizuoti sukilimą vakarinėse Rusijos imperijos gubernijose.'
+  sudarymo_pagrindimas: 'Teiginys nutrūksta ir turi OCR triukšmo; citata aiškiai nurodo komiteto susikūrimą ir paskirtį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus sukilimo centrinis komitetas|Vilniaus sukilimo centrinis komitetas]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_person: [[objektai/asmenys/Stanislovas|Stanislovas]]; mentioned_place: Rusija; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1830 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys nutrūksta ir turi OCR triukšmo; citata aiškiai nurodo komiteto susikūrimą ir paskirtį.'
   pagrindžia:
     - c-001
 
@@ -65,15 +70,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Antanas (vaistininkas)]]
-- [[objektai/asmenys/Mykolas]]
-- [[objektai/asmenys/Stanislovas]]
-- [[objektai/grupes/Vilniaus sukilimo centrinis komitetas]]
-- [[objektai/asmenys/Antanas Goreckis]]
-- [[objektai/asmenys/Edvardas Riomeris]]
-- [[objektai/asmenys/Justinas Hrebnickis]]
-- [[objektai/asmenys/Leonas Rogalskis]]
-- [[objektai/asmenys/Stanislovas Šumskis]]

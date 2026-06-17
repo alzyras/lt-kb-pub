@@ -21,6 +21,7 @@ Ochmańskio raštai, P. Ochmański, J.
 - t-001
   global_id: t-30692
   teiginys: 'J. Ochmańskio raštai rodė, kad po Antrojo pasaulinio karo jaunoji lenkų istorikų karta į Lietuvos praeitį žvelgė objektyviau.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/reformacija|reformacija]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -40,8 +41,3 @@ Ochmańskio raštai, P. Ochmański, J.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/zodynas/reformacija]]

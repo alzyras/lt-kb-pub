@@ -21,9 +21,12 @@ Gaidys ir Viesulas turėjo tik pistalietus.
 - t-001
   global_id: t-39666
   teiginys: 'Viesulas ir Gaidys turėjo tik pistoletus.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Viesulą ir tiksliai perteikia citatos faktą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gaidys|Gaidys]]'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Gaidys.md#claim-t-40115|Gaidys]]: Partizanas Gaidys buvo ginkluotas tik pistoletu.
+- susijęs iš [[objektai/asmenys/Tigras.md#claim-t-40464|Tigras]]: Tigras buvo ginkluotas vokišku MG 36 kulkosvaidžiu.
 ## Reikšmingi paminėjimai
 
 - c-001

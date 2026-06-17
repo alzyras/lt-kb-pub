@@ -3,12 +3,19 @@ tipas: zodyno_irasas
 pavadinimas: 'rekvizicijos'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1918 m.'
+  - '1922 m.'
+date_start: '1918'
+date_end: '1922'
 sukurta: ''
 atnaujinta: ''
 tags:
   - karas
   - sąvoka
   - valstybė
+amziai:
+  - 'XX'
 ---
 # rekvizicijos
 
@@ -22,6 +29,8 @@ Valstybės Taryba vis atkak­ liau siekė gauti konkrečias valdymo sritis į sa
 - t-001
   global_id: t-22275
   teiginys: 'Nepriklausomybės kare arklių, pašarų ir maisto rekvizicijos daugiausia vykdytos lenkų dvaruose.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie rekvizicijas ir atitinka citatos informaciją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -29,6 +38,11 @@ Valstybės Taryba vis atkak­ liau siekė gauti konkrečias valdymo sritis į sa
 - t-002
   global_id: t-22276
   teiginys: 'Valstybės Taryba siuntė protestus dėl vokiečių vykdomų rekvizicijų.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai pagrįstas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Valstybės Taryba|Valstybės Taryba]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Vokietija'
+  temporaliniai_duomenys: 'įvykio data: iki 1922 m.; įvykio data: 1918 m.; įvykio data: 1922 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai pagrįstas citata.'
   pagrindžia:
     - c-001
 
@@ -64,11 +78,3 @@ Valstybės Taryba vis atkak­ liau siekė gauti konkrečias valdymo sritis į sa
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Valstybės Taryba]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

@@ -21,6 +21,7 @@ Marcinkonių bataliono vyrams buvo nesmagu dėl savo pavėlavimo į kautynes, to
 - t-001
   global_id: t-41086
   teiginys: 'Kitą dieną Perlojoje Marcinkonių bataliono vyrai nukovė dar 5 stribus, o partizanai nuostolių nepatyrė.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]; mentioned_place: Perloja'
   pagrindžia:
     - c-001
 
@@ -28,6 +29,8 @@ Marcinkonių bataliono vyrams buvo nesmagu dėl savo pavėlavimo į kautynes, to
 - t-002
   global_id: t-41087
   teiginys: 'Marcinkonių bataliono vyrams buvo nesmagu dėl savo pavėlavimo į kautynes, todėl jie kitą, gruodžio 16 d. puolė Perlojos stribų įgulą ir ją sunaikino.'
+  sudarymo_pagrindimas: 'Sakinys aiškiai nurodo bataliono veiksmą, datą ir rezultatą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_place: Perloja'
   pagrindžia:
     - c-002
 
@@ -91,10 +94,3 @@ Marcinkonių bataliono vyrams buvo nesmagu dėl savo pavėlavimo į kautynes, to
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/NKVD]]
-- [[objektai/zodynas/įgula]]
-- [[objektai/daiktai/Šautuvai]]
-- [[objektai/asmenys/Adolfas Ramanauskas-Vanagas]]

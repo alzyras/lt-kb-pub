@@ -13,21 +13,21 @@ tags:
 
 ## Santrauka
 
-Po unijos greta ilgai vartotos gudų rašto kalbos vis labiau įsigalėjo lenkų kalba.
+Lietuvoje vidaus reikalams jau nuo XIV amž. galo buvo vartojama gudų rašto kalba. Dar ilgai buvo vartojama ta pati gudų kalba, o po unijos kaskart vis labiau ėmė įsigalėti lenkų kalba.
 
 ## Teiginiai
+
 <a id="claim-t-72693"></a>
 - t-001
   global_id: t-72693
   teiginys: 'Po unijos greta ilgai vartotos gudų rašto kalbos vis labiau įsigalėjo lenkų kalba.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_object: [[objektai/zodynas/unija|unija]]'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Po unijos greta ilgai vartotos gudų rašto kalbos vis labiau įsigalėjo lenkų kalba.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tačiau judėjimas dėl lotynų kalbos veikiai aprimo. Plačiosios
@@ -35,18 +35,8 @@ Po unijos greta ilgai vartotos gudų rašto kalbos vis labiau įsigalėjo lenkų
     kuriose jie būtų galėję išmokti, ir gyvenimas nuėjo savo vaga.
     Dar ilgai buvo vartojama ta pati gudų kalba, o po unijos kaskart
     vis labiau ėmė įsigalėti lenkų kalba.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bajorai]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lotynai]]
-- [[objektai/zodynas/unija]]
-- [[objektai/paprociai/Rašto vartojimas valstybės ir Bažnyčios reikaluose]]

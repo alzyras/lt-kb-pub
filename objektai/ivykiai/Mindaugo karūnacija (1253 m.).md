@@ -4,10 +4,12 @@ pavadinimas: 'Mindaugo karūnacija (1253 m.)'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
+  - '1248 m.'
+  - '1251 m.'
   - '1253 m.'
   - '1952 m.'
   - '1953 m.'
-date_start: '1253'
+date_start: '1248'
 date_end: '1953'
 sukurta: ''
 atnaujinta: ''
@@ -21,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-1251 m. pavasarį arba vasaros pradžioje Mindaugas per Andrių Štirlandą išsirūpino sau ir žmonai Mortai krikštą, o sau – karaliaus karūną. 1251 m. Mindaugas krikštijosi perleidęs didelę dalį Žemaitijos Livonijos ordinui, o 1253 m. liepos 6 d. pasiekė karūnos tikslą. Karūnos tikslas buvo pasiektas 1253 m. liepos 6 d., o Mindaugas įvardijamas kaip pirmas ir vienintelis vainikuotas Lietuvos karalius.
+Mindaugas karūnos siekė per 1251 m. krikštą ir diplomatinius ryšius su Livonijos ordinu. 1253 m. liepos 6 d. pasiektas karūnos tikslas šaltinyje siejamas su Lietuvos valstybės susikūrimo užbaigimu, tarptautiniu pripažinimu, popiežiaus vasalitetu, savarankiškos vyskupijos teise ir pirmąja tarptautine Lietuvos diplomatijos pergale.
 
 ## Laikotarpis ir datos
 
@@ -53,6 +55,11 @@ Mindaugas patraukė į savo pusę Livonijos ordino magistrą Andrių Štirlandą
 - t-001
   global_id: t-13489
   teiginys: '1251 m. pavasarį arba vasaros pradžioje Mindaugas per Andrių Štirlandą išsirūpino sau ir žmonai Mortai krikštą, o sau – karaliaus karūną.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas, faktinis ir paremtas citatoje nurodyta informacija.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_person: [[objektai/asmenys/Morta|Morta]]; mentioned_place: Livonija'
+  temporaliniai_duomenys: 'įvykio data: 1248 m.; įvykio data: 1251 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas, faktinis ir paremtas citatoje nurodyta informacija.'
   pagrindžia:
     - c-001
 
@@ -60,6 +67,11 @@ Mindaugas patraukė į savo pusę Livonijos ordino magistrą Andrių Štirlandą
 - t-002
   global_id: t-13490
   teiginys: '1251 m. Mindaugas krikštijosi perleidęs didelę dalį Žemaitijos Livonijos ordinui, o 1253 m. liepos 6 d. pasiekė karūnos tikslą.'
+  sudarymo_pagrindimas: 'Reikia aiškiau susieti krikštą su karūnacijos rezultatu.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva; mentioned_place: Livonija'
+  temporaliniai_duomenys: 'įvykio data: 1251 m.; įvykio data: 1253 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia aiškiau susieti krikštą su karūnacijos rezultatu.'
   pagrindžia:
     - c-002
 
@@ -67,6 +79,9 @@ Mindaugas patraukė į savo pusę Livonijos ordino magistrą Andrių Štirlandą
 - t-003
   global_id: t-24563
   teiginys: 'Karūnos tikslas buvo pasiektas 1253 m. liepos 6 d., o Mindaugas įvardijamas kaip pirmas ir vienintelis vainikuotas Lietuvos karalius.'
+  susije_objektai: 'territory: Lietuva; territory: Livonija; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva; mentioned_place: Livonija'
+  temporaliniai_duomenys: 'valdymo laikotarpis: 1251 m.; valdymo laikotarpis: 1253 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Mindaugas (valdovas, XIII a.) buvo valdovas Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Mindaugas (valdovas, XIII a.) buvo valdovas Livonija“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 
@@ -74,6 +89,7 @@ Mindaugas patraukė į savo pusę Livonijos ordino magistrą Andrių Štirlandą
 - t-004
   global_id: t-24564
   teiginys: 'Mindaugo vainikavimas šaltinyje aiškinamas kaip valstybės susikūrimo užbaigimas, nes Lietuvą pripažino to meto pasaulis.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Arkivyskupija|Arkivyskupija]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/Vidurio Europa|Vidurio Europa]]; mentioned_object: [[objektai/zodynas/diplomatija|diplomatija]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/vasalas|vasalas]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Viena; mentioned_place: Vokietija; mentioned_place: Čekija'
   pagrindžia:
     - c-003
 
@@ -81,6 +97,8 @@ Mindaugas patraukė į savo pusę Livonijos ordino magistrą Andrių Štirlandą
 - t-005
   global_id: t-26855
   teiginys: 'Mindaugas po karūnacijos tapo popiežiaus, o ne imperatoriaus vasalu ir gavo teisę į savarankišką, tiesiai popiežiui pavaldžią vyskupiją.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Arkivyskupija|Arkivyskupija]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/Vidurio Europa|Vidurio Europa]]; mentioned_object: [[objektai/zodynas/apsikarūnavimas|apsikarūnavimas]]; mentioned_object: [[objektai/zodynas/diplomatija|diplomatija]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/vasalas|vasalas]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Viena; mentioned_place: Vokietija; mentioned_place: Čekija'
   pagrindžia:
     - c-003
 
@@ -88,6 +106,7 @@ Mindaugas patraukė į savo pusę Livonijos ordino magistrą Andrių Štirlandą
 - t-006
   global_id: t-26856
   teiginys: 'Mindaugo pasiekti diplomatiniai laimėjimai šaltinyje vadinami pirma tarptautine Lietuvos diplomatijos pergale.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Arkivyskupija|Arkivyskupija]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/Vidurio Europa|Vidurio Europa]]; mentioned_object: [[objektai/zodynas/diplomatija|diplomatija]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/vasalas|vasalas]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Viena; mentioned_place: Vokietija; mentioned_place: Čekija'
   pagrindžia:
     - c-003
 
@@ -95,9 +114,19 @@ Mindaugas patraukė į savo pusę Livonijos ordino magistrą Andrių Štirlandą
 - t-007
   global_id: t-26857
   teiginys: 'A. Varnas 1952–1953 m. sukūrė darbą „Mindaugo vainikavimas. Mindaugo karūnacija“.'
+  sudarymo_pagrindimas: 'Citata yra iliustracijos antraštė, todėl teiginys perrašytas į pilną sakinį apie autorių ir kūrinį.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]'
+  temporaliniai_duomenys: 'įvykio data: 1952-1953; įvykio data: 1953 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata yra iliustracijos antraštė, todėl teiginys perrašytas į pilną sakinį apie autorių ir kūrinį.'
   pagrindžia:
     - c-004
-
+- susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113908|Mindaugas (valdovas, XIII a.)]]: 1251 m. Mindaugas krikštijosi, mainais perleidęs didelę dalį Žemaitijos Livonijos ordinui.
+- susijęs iš [[objektai/daiktai/A. Varno paveikslas „Mindaugo karūnacija“.md#claim-t-24535|A. Varno paveikslas „Mindaugo karūnacija“]]: A. Varno paveikslas „Mindaugo karūnacija“ vaizduoja Mindaugo vainikavimą ir buvo sukurtas 1952–1953 m.
+- susijęs iš [[objektai/ivykiai/Mindaugo karūnacija.md#claim-t-66788|Mindaugo karūnacija]]: A. Varnas 1952–1953 m. sukūrė darbą „Mindaugo vainikavimas. Mindaugo karūnacija“.
+- susijęs iš [[objektai/ivykiai/Mindaugo krikštas ir karūnos išsirūpinimas.md#claim-t-66789|Mindaugo krikštas ir karūnos išsirūpinimas]]: 1251 m. Mindaugas krikštijosi, mainais perleidęs didelę dalį Žemaitijos Livonijos ordinui.
+- susijęs iš [[objektai/posakiai/„Mindaugas – pirmas ir vienintelis vainikuotas Lietuvos karalius“.md#claim-t-25378|„Mindaugas – pirmas ir vienintelis vainikuotas Lietuvos karalius“]]: 1251 m. Mindaugas krikštijosi, o 1253 m. liepos 6 d. buvo vainikuotas pirmuoju ir vieninteliu Lietuvos karaliumi.
+- susijęs iš Lietuva: Mindaugo karūnacija užbaigė Lietuvos valstybės susikūrimą, nes Lietuvą pripažino to meto pasaulis.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -192,27 +221,3 @@ Mindaugas patraukė į savo pusę Livonijos ordino magistrą Andrių Štirlandą
 ## Priežastys
 
 Karūna šaltinyje įvardijama kaip svarbiausias Mindaugo krikšto politinis tikslas.
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/karūnacija]]
-
-### Susiję objektai
-- [[objektai/zodynas/Arkivyskupija]]
-- [[objektai/daiktai/Karūna]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/daiktai/Kryžius]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
-- [[objektai/asmenys/Morta]]
-- [[objektai/zodynas/diplomatija]]
-- [[objektai/zodynas/kunigas]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/vasalas]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/daiktai/A. Varno paveikslas „Mindaugo karūnacija“]]
-- [[objektai/ivykiai/Mindaugo karūnacija]]
-- [[objektai/ivykiai/Mindaugo krikštas ir karūnos išsirūpinimas]]
-- [[objektai/posakiai/„Mindaugas – pirmas ir vienintelis vainikuotas Lietuvos karalius“]]
-- [[objektai/zodynas/apsikarūnavimas]]
-- [[objektai/ivykiai/Mindaugo krikštas|Mindaugo krikštas (krikštas)]]

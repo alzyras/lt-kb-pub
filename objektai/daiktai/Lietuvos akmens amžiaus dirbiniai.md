@@ -36,10 +36,14 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 <a id="claim-t-64956"></a>
 - t-001
   global_id: t-64956
   teiginys: 'Palei Lietuvos sieną Rytprūsiuose rasti kauliniai dirbiniai, įskaitant kaulinius ietgalius, priskiriami paleolito kultūrai.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Lietuva; mentioned_place: Rytprūsiai'
+  temporaliniai_duomenys: 'įvykio data: 000 m'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -47,23 +51,30 @@ Nenurodyta
 - t-002
   global_id: t-64958
   teiginys: 'Mezolito stovyklavietėse Lietuvoje aptikta daug titnaginių ir kalninių įrankių.'
+  sudarymo_pagrindimas: 'Teiginys yra savarankiškas, gramatiškas ir paremtas citata apie mezolito radinius.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kailiai|Kailiai]]; mentioned_place: Alytus; mentioned_place: Lietuva; mentioned_place: Vysla'
   pagrindžia:
     - c-002
+
+<a id="claim-t-64960"></a>
+- t-003
+  global_id: t-64960
+  teiginys: 'Lietuvos akmens amžiaus dirbiniams priskirti kauliniai harpūnai ir durklai, titnaginiai įrankiai bei iečių galai, akmens kirvukai, gintariniai amuletai ir papuošalai, puodas ir grūdų trynimo akmuo.'
+  sudarymo_pagrindimas: 'Pradinis teiginys yra sąrašas be aiškaus sakinio formos predikato.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ietys|Ietys]]; mentioned_place: Lietuva'
+  pagrindžia:
+    - c-004
 
 <a id="claim-t-64961"></a>
 - t-004
   global_id: t-64961
   teiginys: 'Lietuvos pajūryje rastos gintarinės žmonių ir gyvulių figūrėlės buvo nešiojamos magijos tikslais.'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-003
-- t-005
-  teiginys: 'Lietuvos akmens amžiaus dirbiniams priskirti kauliniai harpūnai ir durklai, titnaginiai įrankiai bei iečių galai, akmens kirvukai, gintariniai amuletai ir papuošalai, puodas ir grūdų trynimo akmuo.'
-  pagrindžia:
-    - c-004
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -77,6 +88,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -93,6 +105,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+
 - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -106,6 +119,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-004
+
 - c-004
   santrauka: 'Lietuvos akmens amžiaus dirbiniams priskirti kauliniai harpūnai ir durklai, titnaginiai įrankiai bei iečių galai, akmens kirvukai, gintariniai amuletai ir papuošalai, puodas ir grūdų trynimo akmuo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -118,16 +132,8 @@ Nenurodyta
     galai, 16—17 gintariniai amuletai, 18—22 gintariniai papuošalai, 23 puodas,
     24 akmuo, ant kurio su kitu akmeniu trindavo pabertus grūdus, — savotiškos
     girnos.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-005
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Baltai]]
-- [[objektai/daiktai/Ietys]]
-- [[objektai/zodynas/Adynos|adynos]]
+    - t-003

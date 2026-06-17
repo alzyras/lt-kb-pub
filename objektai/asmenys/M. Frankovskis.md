@@ -20,6 +20,8 @@ Frankovskio vadovaujamus lietuvių įtvirtinimus tarp Naujininkų, šv.
 - t-001
   global_id: t-39778
   teiginys: 'Gen. mjr. M. Frankovskis vadovavo lietuvių įtvirtinimams tarp Naujininkų, Šv. Stepono bažnyčios ir Poguliankos.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, o citata pagrindžia Frankovskio vadovautus įtvirtinimus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Leontijus Bennigsenas|Leontijus Bennigsenas]]; mentioned_place: Pogulianka'
   pagrindžia:
     - c-001
 
@@ -39,8 +41,3 @@ Frankovskio vadovaujamus lietuvių įtvirtinimus tarp Naujininkų, šv.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kazokai]]
-- [[objektai/grupes/Lietuviai]]

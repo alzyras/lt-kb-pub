@@ -41,6 +41,7 @@ Nenurodyta
 - t-001
   global_id: t-54238
   teiginys: 'Istorinėje Lietuvoje gyvenę žydai šalį vadino „Lite“, o save – „litvakais“.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/istorinė Lietuva|istorinė Lietuva]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -48,6 +49,8 @@ Nenurodyta
 - t-002
   global_id: t-54239
   teiginys: 'Istorinės Lietuvos žydai šią šalį vadino „Lite“, o save – „litvakais“.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/istorinė Lietuva|istorinė Lietuva]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -65,11 +68,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/istorinė Lietuva]]
-- [[objektai/grupes/Žydai]]
-- [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]
-- [[objektai/zodynas/Lite litvakai]]
-- [[objektai/zodynas/litvakai Lite litviš]]

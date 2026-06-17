@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Lietuvos valstybės šiaurinė siena buvo brėžiama iki vietos, kur iš Liubano ežero ištekanti Aiviekstė įteka į Dauguvą.
+Plačiu ruožu atsiremdama į Baltijos jūrą, šiaurėje siena buvo užbrėžta nuo Dauguvos žiočių, jos krantu tolyn į rytus, «iki vietos, kur iš Liubano ežero ištekanti upė (= Aiviekstė, Ewst) įteka į Dauguvą».
 
 ## Teiginiai
 
@@ -23,9 +23,11 @@ Lietuvos valstybės šiaurinė siena buvo brėžiama iki vietos, kur iš Liubano
 - t-001
   global_id: t-05405
   teiginys: 'Lietuvos valstybės šiaurinė siena buvo brėžiama iki vietos, kur iš Liubano ežero ištekanti Aiviekstė įteka į Dauguvą.'
+  sudarymo_pagrindimas: 'Reikia aiškiau įvardyti, kurios valstybės siena minima.'
+  susije_objektai: 'mentioned_place: Baltija; mentioned_place: Dauguva; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-
+- susijęs iš Liubano ežeras: Šiaurinė siena buvo vedama nuo Dauguvos žiočių iki vietos, kur iš Liubano ežero ištekanti Aiviekstė įteka į Dauguvą.
 ## Reikšmingi paminėjimai
 
 - c-001

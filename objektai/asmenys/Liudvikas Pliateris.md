@@ -20,6 +20,8 @@ Po nepavykusio grafo Liudviko Pliaterio antpuolio prieš Rusijos kariuomenės ka
 - t-001
   global_id: t-40308
   teiginys: 'Po nesėkmingo Liudviko Pliaterio antpuolio prieš į Daugpilį vykusią Rusijos karinę gurguolę sukilėliai atsisakė Daugpilio tvirtovės puolimo.'
+  sudarymo_pagrindimas: 'Pradinė formuluotė per ilga; citata palaiko trumpesnį aiškų faktą apie Pliaterio antpuolio pasekmę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/gurguolė|gurguolė]]; mentioned_place: Daugpilis; mentioned_place: Rusija'
   pagrindžia:
     - c-001
 
@@ -44,8 +46,3 @@ Po nepavykusio grafo Liudviko Pliaterio antpuolio prieš Rusijos kariuomenės ka
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Rusai]]
-- [[objektai/zodynas/gurguolė]]

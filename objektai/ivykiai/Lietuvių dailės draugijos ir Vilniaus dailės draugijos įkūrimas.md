@@ -37,6 +37,8 @@ Nenurodyta
 - t-001
   global_id: t-26397
   teiginys: 'Lietuviai Vilniuje įkūrė Lietuvių dailės draugiją, o vėliau vietiniai dailininkai įsteigė atskirą Vilniaus dailės draugiją.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nusako abiejų draugijų įkūrimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -44,6 +46,11 @@ Nenurodyta
 - t-002
   global_id: t-183236
   teiginys: 'Dailės, vaizduojamojo meno ir architektūros srityje draugijų paralelizmas pasireiškė Lietuvių dailės draugijos ir Vilniaus dailės draugijos veikla.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis sakinys pernelyg bendras ir silpnai susietas su note objektu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Viena; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -87,10 +94,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Lietuvių Dailės Draugija]]
-- [[objektai/paprociai/Lietuvių ir lenkų kultūrinių draugijų paralelizmas, tyrimai ir viešos parodos]]
-- [[objektai/grupes/Vilniaus dailės draugija]]

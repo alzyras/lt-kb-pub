@@ -51,6 +51,8 @@ Nenurodyta
 - t-001
   global_id: t-87229
   teiginys: 'Vytautas privilegijoje nurodė maldomis rūpintis jo ir mirusių brolių Kazimiero Karigailos bei Aleksandro Vyganto sveikata.'
+  sudarymo_pagrindimas: 'Pradinis tekstas yra citatos fragmentas, o šaltinis leidžia suformuluoti pilną sakinį.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Karigaila|Karigaila]]; mentioned_person: [[objektai/asmenys/Kazimieras Karigaila|Kazimieras Karigaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-002
 
@@ -58,6 +60,11 @@ Nenurodyta
 - t-002
   global_id: t-87230
   teiginys: '1396 m. Vytautas kapitulai dovanojo Cudzeniškių valdą ir įpareigojo kasdien aukoti mišias už mirusius brolius Karigailą ir Vygantą.'
+  sudarymo_pagrindimas: 'Citata pagrindžia aiškų faktą apie fundaciją ir jos paskirtį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Kaributas|Kaributas]]; mentioned_person: [[objektai/asmenys/Karigaila|Karigaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Ašmena; mentioned_place: Cudzeniškiai; mentioned_place: Dinaburgas; mentioned_place: Medininkai'
+  temporaliniai_duomenys: 'įvykio data: 1396 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia aiškų faktą apie fundaciją ir jos paskirtį.'
   pagrindžia:
     - c-001
 
@@ -133,14 +140,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Kaributas]]
-- [[objektai/asmenys/Karigaila]]
-- [[objektai/asmenys/Kazimieras Karigaila]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/kapitula]]
-- [[objektai/zodynas/komtūras]]
-- [[objektai/grupes/Vilniaus kapitula]]
-- [[objektai/ivykiai/Vytauto privilegijos Vilniaus katedrai dėl Cudzeniškių išdavimas (1396 m.)]]

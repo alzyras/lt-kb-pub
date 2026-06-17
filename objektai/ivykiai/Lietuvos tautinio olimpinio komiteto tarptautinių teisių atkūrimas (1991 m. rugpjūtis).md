@@ -4,9 +4,10 @@ pavadinimas: 'Lietuvos tautinio olimpinio komiteto tarptautinių teisių atkūri
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
+  - '1988 m.'
   - '1991 m.'
-date_start: '1991'
-date_end: ''
+date_start: '1988'
+date_end: '1991'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -43,6 +44,11 @@ Nenurodyta
 - t-001
   global_id: t-20362
   teiginys: '1991 m. rugpjūtį Tarptautinis olimpinis komitetas atkūrė Lietuvos tautinio olimpinio komiteto tarptautines teises.'
+  sudarymo_pagrindimas: 'Teiginys tiksliai nurodo veikėją, veiksmą, objektą ir laiką.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Tarptautinis olimpinis komitetas|Tarptautinis olimpinis komitetas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: po 1988 m.; įvykio data: 1988 m.; įvykio data: 1991 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys tiksliai nurodo veikėją, veiksmą, objektą ir laiką.'
   pagrindžia:
     - c-001
 
@@ -63,12 +69,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Tarptautinis olimpinis komitetas|Tarptautinis olimpinis komitetas (institucija)]]
-- [[objektai/paprociai/Lietuvos sportininkų atsisakymas dalyvauti SSRS rinktinėse ir atstovavimas Lietuvai]]
-- [[objektai/grupes/Lietuvos tautinis olimpinis komitetas|Lietuvos tautinis olimpinis komitetas (institucija)]]
-- [[objektai/daiktai/Olimpiniai medaliai]]

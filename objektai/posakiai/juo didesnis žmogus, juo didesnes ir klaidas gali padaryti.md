@@ -23,6 +23,7 @@ Visi klysta; nelaisvas buvo nuo klaidų ir Vytautas didžiulėj savo politikoj: 
 - t-001
   global_id: t-36005
   teiginys: 'Posakiu „juo didesnis žmogus, juo didesnes ir klaidas gali padaryti“ aiškinta, kad Vytautas savo politikoje nebuvo laisvas nuo klaidų.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Horodlė'
   pagrindžia:
     - c-001
 
@@ -50,7 +51,3 @@ Visi klysta; nelaisvas buvo nuo klaidų ir Vytautas didžiulėj savo politikoj: 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

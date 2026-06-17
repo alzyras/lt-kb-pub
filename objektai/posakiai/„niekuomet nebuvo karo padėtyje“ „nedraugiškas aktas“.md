@@ -3,6 +3,11 @@ tipas: posakis
 pavadinimas: '„niekuomet nebuvo karo padėtyje“ „nedraugiškas aktas“'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1795 m.'
+  - '1920 m.'
+date_start: '1795'
+date_end: '1920'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -10,12 +15,15 @@ tags:
   - posakis
   - sutartis
   - tikėjimas
+amziai:
+  - 'XVIII'
+  - 'XX'
 ---
 # „niekuomet nebuvo karo padėtyje“ „nedraugiškas aktas“
 
 ## Santrauka
 
-Lietuviai patenkino A. Jofės prašymą įrašyti, kad Lietuva ir Sovietų Rusija „niekuomet nebuvo karo padėtyje“. Prie 1920 m. liepos 12 d. taikos sutarties 2 straipsnio sovietai įbruko slaptą papildymą dėl Rusijos dalinių įėjimo į Lietuvą karo su Lenkija metu.
+Jofės prašymą – įrašyti, kad Lietuva ir Sovietų Rusija „niekuomet nebuvo karo padėtyje“ (tai skambėjo paradoksaliai, nes sutartis vadinosi „Taikos sutartimi“). Tačiau sutartis turėjo silpną vietą – prie jos 2 straipsnio sovietai įbruko slaptą papildymą, kad Rusijos dalinių įėjimas į Lietuvos teritoriją karo su Lenkija metu nebus traktuojamas kaip sutarties pažeidimas ar „nedraugiškas aktas“ prieš Lietuvą.
 
 ## Teiginiai
 
@@ -23,6 +31,11 @@ Lietuviai patenkino A. Jofės prašymą įrašyti, kad Lietuva ir Sovietų Rusij
 - t-001
   global_id: t-20927
   teiginys: 'Lietuviai patenkino A. Jofės prašymą įrašyti, kad Lietuva ir Sovietų Rusija „niekuomet nebuvo karo padėtyje“.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, konkretus ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltarusiai|Baltarusiai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Sovietų Rusija; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1795 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, konkretus ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -30,6 +43,11 @@ Lietuviai patenkino A. Jofės prašymą įrašyti, kad Lietuva ir Sovietų Rusij
 - t-002
   global_id: t-20928
   teiginys: 'Prie 1920 m. liepos 12 d. taikos sutarties 2 straipsnio sovietai įbruko slaptą papildymą dėl Rusijos dalinių įėjimo į Lietuvą karo su Lenkija metu.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie slaptą papildymą ir pagrįstas citata.'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Sovietų Rusija'
+  temporaliniai_duomenys: 'įvykio data: 1920 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie slaptą papildymą ir pagrįstas citata.'
   pagrindžia:
     - c-002
 
@@ -72,13 +90,3 @@ Lietuviai patenkino A. Jofės prašymą įrašyti, kad Lietuva ir Sovietų Rusij
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Baltarusiai]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Prancūzai]]
-- [[objektai/grupes/Žydai]]
-- [[objektai/asmenys/Dominykas Semaško]]
-- [[objektai/asmenys/Simonas Rozenbaumas]]

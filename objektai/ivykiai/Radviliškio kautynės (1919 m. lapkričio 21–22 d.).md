@@ -22,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-1919 m. lapkričio 20 d. fronto vadas pulkininkas leitenantas Kazys Ladyga įsakė pradėti puolimą Radviliškio-Šiaulių kryptimi. 1919 m. lapkričio 22 d. Panevėžio batalionas išmušė bermontininkus iš Meškuičių, o Vilniaus batalionas - iš Pašiaušės ir Padubysio. 1919 m. lapkričio 22 d. Panevėžio batalionas išmušė bermontininkus iš Meškuičių, o Vilniaus batalionas - iš Pašiaušės ir Padubysio.
+Radvilišky ir Šiauliuose mūsų kariuomenė rado visko prigrūstus sandėlius. Sutraukta Lietuvos kariuomenė puolė Radviliškį ir Šiaulius.
 
 ## Laikotarpis ir datos
 
@@ -46,6 +46,11 @@ Nenurodyta
 - t-001
   global_id: t-66848
   teiginys: '1919 m. lapkričio 20 d. fronto vadas pulkininkas leitenantas Kazys Ladyga įsakė pradėti puolimą Radviliškio-Šiaulių kryptimi.'
+  sudarymo_pagrindimas: 'Perrašyta išplečiant inicialą ir patikslinant pareigas pagal citatą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bermontininkai|Bermontininkai]]; mentioned_person: [[objektai/asmenys/K. Ladyga|K. Ladyga]]; mentioned_person: [[objektai/asmenys/Kazys Ladyga|Kazys Ladyga]]'
+  temporaliniai_duomenys: 'įvykio data: 1919 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Perrašyta išplečiant inicialą ir patikslinant pareigas pagal citatą.'
   pagrindžia:
     - c-001
 
@@ -53,9 +58,17 @@ Nenurodyta
 - t-002
   global_id: t-66849
   teiginys: '1919 m. lapkričio 22 d. Panevėžio batalionas išmušė bermontininkus iš Meškuičių, o Vilniaus batalionas - iš Pašiaušės ir Padubysio.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiksliai atitinka citatos faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bermontininkai|Bermontininkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Panevėžio batalionas|Panevėžio batalionas]]; mentioned_place: Pašiaušė; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1919 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir tiksliai atitinka citatos faktą.'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/asmenys/K. Škirpa.md#claim-t-49402|K. Škirpa]]: K. Škirpa vadovavo Vilniaus batalionui, kuriam buvo įsakyta saugoti Paltynų-Žaiginio barą iki 1919 m.
+- susijęs iš [[objektai/asmenys/K. Škirpa.md#claim-t-49402|K. Škirpa]]: K. Škirpa vadovavo Vilniaus batalionui, kuriam buvo įsakyta saugoti Paltynų-Žaiginio barą iki 1919 m.
+- susijęs iš [[objektai/autoriai/Dalius Žygelis.md#claim-t-40613|Dalius Žygelis]]: Dalius Žygelis buvo kelių tekstų apie 1945–1949 m. Lietuvos partizanų kautynes bendraautoris.
+- susijęs iš [[objektai/autoriai/Ričardas Čekutis.md#claim-t-40672|Ričardas Čekutis]]: Ričardas Čekutis kartu su Daliumi Žygeliu parašė tekstus apie 1945 m. Kiauneliškių, Kalniškės ir Merkinės kautynes.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -106,12 +119,4 @@ Nenurodyta
     - t-003
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bermontininkai]]
-- [[objektai/asmenys/K. Ladyga]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/autoriai/Dalius Žygelis]]
-- [[objektai/asmenys/K. Škirpa]]
-- [[objektai/autoriai/Ričardas Čekutis]]
-- [[objektai/asmenys/Kazys Ladyga]]
-- [[objektai/grupes/Panevėžio batalionas]]
+- [[objektai/asmenys/K. Škirpa]] dalyvavo_musyje Radviliškio kautynės (1919 m. lapkričio 21–22 d.)

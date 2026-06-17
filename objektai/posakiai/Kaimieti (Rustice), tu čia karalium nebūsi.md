@@ -24,6 +24,8 @@ tags:
 - t-001
   global_id: t-09663
   teiginys: 'Karalius ištarė „Kaimieti (Rustice), tu čia karalium nebūsi“ ir liepė pilies kieme nukirsti pašnekovui galvą.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir remiasi citatos veiksmais.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
   pagrindžia:
     - c-001
 
@@ -42,7 +44,3 @@ tags:
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Vokiečiai]]

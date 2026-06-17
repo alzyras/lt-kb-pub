@@ -20,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-1927 m. balandžio 12 d. prezidento aktu III Seimas buvo paleistas, o naujų rinkimų neskelbimas teisintas rengiamu plebiscitu.
+Pajaujo suėmimą, nepritarus vyriausybės deklaracijai, 1927 m. balandžio 12 d. prezidento aktu III Seimas paleistas, o nauji rinkimai neskelbiami, teisinantis rengiamu plebiscitu.
 
 ## Teiginiai
 
@@ -28,6 +28,11 @@ amziai:
 - t-001
   global_id: t-21234
   teiginys: '1927 m. balandžio 12 d. prezidento aktu III Seimas buvo paleistas, o naujų rinkimų neskelbimas teisintas rengiamu plebiscitu.'
+  sudarymo_pagrindimas: 'Perrašyta į sklandesnį pilną sakinį su aiškesniu predikatu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/III Seimas|III Seimas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]'
+  temporaliniai_duomenys: 'įvykio data: 1927 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Perrašyta į sklandesnį pilną sakinį su aiškesniu predikatu.'
   pagrindžia:
     - c-001
 

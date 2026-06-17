@@ -31,6 +31,11 @@ periodo_grupes:
 - t-001
   global_id: t-87842
   teiginys: 'Raina Sluščianka buvo Martyno Paleckio žmona ir sutarties su miestu dėl stiklo liejyklos bei stiklo supirkimo dalyvė.'
+  sudarymo_pagrindimas: 'Citata pagrindžia jos ryšį su Paleckiu ir sutartimi.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/maršalka|maršalka]]; mentioned_object: [[objektai/zodynas/vaitas|vaitas]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1619 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia jos ryšį su Paleckiu ir sutartimi.'
   pagrindžia:
     - c-001
 
@@ -59,9 +64,3 @@ periodo_grupes:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Martynas iš Golino]]
-- [[objektai/zodynas/maršalka]]
-- [[objektai/zodynas/vaitas]]

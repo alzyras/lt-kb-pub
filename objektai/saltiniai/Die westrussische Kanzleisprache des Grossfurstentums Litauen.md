@@ -26,6 +26,9 @@ amziai:
 - t-001
   global_id: t-31663
   teiginys: 'Chr. Stango „Die westrussische Kanzleisprache des Grossfurstentums Litauen“ išleista Osle 1935 m.'
+  susije_objektai: 'mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1935 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

@@ -26,7 +26,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Tadas Kosciuška gegužės 4 d., spaudžiamas konservatyvių sukilimo vadovybės atstovų, pašalino Jasinskį iš Lietuvos sukilėlių vado pareigų. Tadas Kosciuška mėgino gelbėti Lenkijos-Lietuvos valstybę jos žlugimo išvakarėse. Tadas Kosciuška, norėdamas sukelti valstiečius, leido atsišaukimus, žadėdamas laisvę prisidėjusiems prie sukilimo.
+Tadas Kosciuška, pasižymėjęs Amerikos nepriklauso- mybės kovose generolas, Jurgio Vašingtono draugas, 1794 m. suki- limo vadas, 1794—1796 m. Rusų belaisvis († 1817 m.). Tadas Kosciuška: kosciuška, norėdamas sukelti valstiečius, išleido atsišau- kimų, žadėdamas visiems, prie sukilimo prisidėjusiems, laisvę (tokių atsišaukimų buvo išleistų ir lietuviškų). Tadas Kosciuška: gen. Jasiński i powstanie koś- ciuszkowskie (1917); T. Korzon, Kosciuszko; M. Biržiška, Lietuvos sukilimas 1794 m. (1919).
 
 ## Teiginiai
 
@@ -34,6 +34,8 @@ Tadas Kosciuška gegužės 4 d., spaudžiamas konservatyvių sukilimo vadovybės
 - t-001
   global_id: t-82738
   teiginys: 'Tadas Kosciuška gegužės 4 d., spaudžiamas konservatyvių sukilimo vadovybės atstovų, pašalino Jasinskį iš Lietuvos sukilėlių vado pareigų.'
+  sudarymo_pagrindimas: 'Citata nepateikia metų, todėl jų nereikia pridėti.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/savarankiškumas|savarankiškumas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 
@@ -41,6 +43,8 @@ Tadas Kosciuška gegužės 4 d., spaudžiamas konservatyvių sukilimo vadovybės
 - t-002
   global_id: t-82740
   teiginys: 'Tadas Kosciuška mėgino gelbėti Lenkijos-Lietuvos valstybę jos žlugimo išvakarėse.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus ir paremtas citatoje pateiktu vertinimu.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_person: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/autoriai/Vytautas Berenis|Vytautas Berenis]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -48,6 +52,7 @@ Tadas Kosciuška gegužės 4 d., spaudžiamas konservatyvių sukilimo vadovybės
 - t-003
   global_id: t-82741
   teiginys: 'Tadas Kosciuška, norėdamas sukelti valstiečius, leido atsišaukimus, žadėdamas laisvę prisidėjusiems prie sukilimo.'
+  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir sutvarkyta sakinio pradžia.'
   pagrindžia:
     - c-004
 
@@ -55,9 +60,18 @@ Tadas Kosciuška gegužės 4 d., spaudžiamas konservatyvių sukilimo vadovybės
 - t-004
   global_id: t-82742
   teiginys: 'Tadas Kosciuška pasižymėjo Amerikos nepriklausomybės kovose, buvo Jurgio Vašingtono draugas ir 1794 m. sukilimo vadas.'
+  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir suformuluotas vienas aiškus sakinys.'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/asmenys/Mykolas Velhorskis.md#claim-t-40363|Mykolas Velhorskis]]: Iš Lenkijos atsiųstas generolas leitenantas Mykolas Velhorskis pakeitė ankstesnį Lietuvos sukilėlių vadą.
+- susijęs iš [[objektai/asmenys/Teodoras Narbutas.md#claim-t-186511|Teodoras Narbutas]]: Teodoras Narbutas rašydavo apie istorinius įvykius ir be atitinkamos faktografinės bazės.
+- susijęs iš [[objektai/autoriai/Michał Baliński Mykolas Balinskis.md#claim-t-182790|Michał Baliński Mykolas Balinskis]]: M. Balinskis buvo Vilniaus universiteto suklestėjimo ir žlugimo liudininkas bei miesto kultūrinio gyvenimo dalyvis.
+- susijęs iš [[objektai/autoriai/Mykolas Balinskis.md#claim-t-55011|Mykolas Balinskis]]: Vytautas Berenis apibūdino Mykolą Balinskį kaip kruopštų, pedantišką istoriką, vengusį rašyti be faktografinės bazės.
+- susijęs iš [[objektai/autoriai/Vytautas Berenis.md#claim-t-54652|Vytautas Berenis]]: Vytautas Berenis yra teksto „Mykolas Balinskis - Vilniaus miesto istorikas“ autorius.
+- susijęs iš [[objektai/ivykiai/Jokūbo Jasinskio pašalinimas iš Lietuvos sukilėlių vado pareigų (1794 m. gegužės 4 d.).md#claim-t-41273|Jokūbo Jasinskio pašalinimas iš Lietuvos sukilėlių vado pareigų (1794 m. gegužės 4 d.)]]: 1794 m. gegužės 4 d. Tadas Kosciuška pašalino Jokūbą Jasinskį iš Lietuvos sukilėlių vado pareigų.
+- susijęs iš Gegužės 3 d. konstitucija (1791 m.): 1793 m. rugpjūčio 19 d. Gardino seimas ir Stanislovas Augustas buvo priversti atšaukti Gegužės 3 d. konstituciją.
+- susijęs iš Vilnius: Mykolas Balinskis buvo Vilniaus universiteto suklestėjimo ir žlugimo liudininkas bei Vilniaus kultūrinio gyvenimo dalyvis.
+- susijęs iš Vilnius: Michałas Balińskis buvo Vilniaus universiteto suklestėjimo ir žlugimo liudininkas bei miesto kultūrinio gyvenimo dalyvis.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -137,11 +151,3 @@ Tadas Kosciuška gegužės 4 d., spaudžiamas konservatyvių sukilimo vadovybės
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Rusai]]
-- [[objektai/zodynas/savarankiškumas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/ivykiai/Jokūbo Jasinskio pašalinimas iš Lietuvos sukilėlių vado pareigų (1794 m. gegužės 4 d.)]]
-- [[objektai/ivykiai/Kosciuškos sukilimas (1794 m.)]]

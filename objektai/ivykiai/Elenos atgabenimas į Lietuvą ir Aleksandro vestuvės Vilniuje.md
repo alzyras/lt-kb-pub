@@ -16,7 +16,7 @@ amziai:
 
 ## Santrauka
 
-Vilniuje įvyko iškilmingos Aleksandro ir Elenos vestuvės, trukusios kelias savaites. Po Aleksandro ir Elenos vestuvių Vilniuje Maskvos pasiuntiniai buvo pagerbti, gausiai apdovanoti ir išleisti atgal. Elena buvo parvežta į Vilnių su Ivano Vasiljevičiaus atsiųstais pasiuntiniais.
+1495 m. Aleksandras pasiuntė pasiuntinius į Maskvą parvežti Elenos. Elena buvo parvežta į Vilnių su Ivano Vasiljevičiaus atsiųstais pasiuntiniais.
 
 ## Laikotarpis ir datos
 
@@ -46,6 +46,9 @@ Nenurodyta
 - t-001
   global_id: t-186644
   teiginys: 'Vilniuje įvyko iškilmingos Aleksandro ir Elenos vestuvės, trukusios kelias savaites.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra išsamus ir tiksliai perteikia citatos informaciją.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_object: [[objektai/zodynas/Žynių titulai ir pareigybės|Žynių titulai ir pareigybės]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Maskva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -53,13 +56,19 @@ Nenurodyta
 - t-002
   global_id: t-186645
   teiginys: 'Po Aleksandro ir Elenos vestuvių Vilniuje Maskvos pasiuntiniai buvo pagerbti, gausiai apdovanoti ir išleisti atgal.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra gramatinis, konkretus ir paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvos pasiuntiniai|Maskvos pasiuntiniai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_object: [[objektai/zodynas/Žynių titulai ir pareigybės|Žynių titulai ir pareigybės]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Maskva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
 <a id="claim-t-186646"></a>
 - t-003
   global_id: t-186646
-  teiginys: 'Elena buvo parvežta į Vilnių su Ivano Vasiljevičiaus atsiųstais pasiuntiniais.'
+  teiginys: 'Aleksandro pasiuntiniai parvežė Eleną į Lietuvą kartu su jos tėvo Ivano Vasiljevičiaus atsiųstais Maskvos pasiuntiniais.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Patikslintas veiksnys ir kelionės kryptis pagal citatą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/dijokas|dijokas]]; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_person: [[objektai/asmenys/Ivanas|Ivanas]]; mentioned_person: [[objektai/asmenys/Jurijus|Jurijus]]; mentioned_person: [[objektai/asmenys/Vasilijus|Vasilijus]]; mentioned_person: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]; mentioned_place: Breslauja; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Polockas; mentioned_place: Trakai; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -67,6 +76,9 @@ Nenurodyta
 - t-004
   global_id: t-186647
   teiginys: 'Elena buvo atgabenta į Vilnių dvi savaitės prieš Užgavėnes.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatinis ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_object: [[objektai/zodynas/Žynių titulai ir pareigybės|Žynių titulai ir pareigybės]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Maskva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -94,6 +106,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: 'Aleksandro pasiuntiniai parvežė Eleną į Lietuvą kartu su jos tėvo Ivano Vasiljevičiaus atsiųstais Maskvos pasiuntiniais.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     Paskui atėjo septyni tūkstančiai tretieji metai nuo
@@ -122,18 +135,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Aleksandras]]
-- [[objektai/asmenys/Aleksandras Jogailaitis]]
-- [[objektai/asmenys/Ivanas]]
-- [[objektai/asmenys/Jurijus]]
-- [[objektai/asmenys/Vasilijus]]
-- [[objektai/zodynas/didysis kunigaikštis]]
-- [[objektai/zodynas/dijokas]]
-- [[objektai/zodynas/ponai]]
-- [[objektai/zodynas/vietininkas]]
-- [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]
-- [[objektai/grupes/Maskvos pasiuntiniai]]
-- [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)]]

@@ -15,6 +15,7 @@ tags:
   - karalius
   - kunigaikštis
   - popiežius
+  - valdovas
 amziai:
   - 'XIII'
 periodo_grupes:
@@ -24,7 +25,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Imperatorius Fridrichas II iš venedų gautą didelę šventojo kryžiaus dalį perleido magistrui Hermanui, kuris ją pasiuntė į Elbingo pilį. M. Perlbachas nurodė, kad Dusburgietis, rašydamas apie Ordino teises, panaudojo imperatoriaus Fridricho II 1226 m. aukso bulę. 1268 m. Sicilijos karalius Karolis paėmė į nelaisvę ir nugalabijo Konradiną, buvusio imperatoriaus Fridricho II anūką.
+Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydamas apie Ordino teises, panaudojęs ir imperatoriaus Fridricho II 1226 m. aukso bulę, o Konrado ir Ordino sutartis nušvietęs pagal Ordino 1230 m. Dusburgietis teigia, kad kai venedai buvo smarkiai sutramdyti po maišto, sukelto prieš imperiją, jie paaukojo imperatoriui Fridrichui II ypatingą dovaną — didelę dalį šventojo kryžiaus, kurią imperatorius perleido šiam magistrui, pasiuntusiam ją savo ruožtu į Prūsijos kraštą, į. Dusburgietis teigia, kad kartą, kai popiežius Honorijus III ir imperatorius Fridrichas II surado dingstį kažkokiems slaptiems nesutarimams, juodu patikėjo šį reikalą išspręsti tam pačiam broliui Hermanui, kuris, šitai išgirdęs, atsisakė, tvirtindamas, kad jam nieku būdu nedera.
 
 ## Teiginiai
 
@@ -32,6 +33,8 @@ Imperatorius Fridrichas II iš venedų gautą didelę šventojo kryžiaus dalį 
 - t-001
   global_id: t-59857
   teiginys: 'Imperatorius Fridrichas II iš venedų gautą didelę šventojo kryžiaus dalį perleido magistrui Hermanui, kuris ją pasiuntė į Elbingo pilį.'
+  sudarymo_pagrindimas: 'Citata leidžia suformuluoti aiškų sakinį apie Fridricho II veiksmą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Venedai|Venedai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_place: Elbingas; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
 
@@ -39,6 +42,11 @@ Imperatorius Fridrichas II iš venedų gautą didelę šventojo kryžiaus dalį 
 - t-002
   global_id: t-59858
   teiginys: 'M. Perlbachas nurodė, kad Dusburgietis, rašydamas apie Ordino teises, panaudojo imperatoriaus Fridricho II 1226 m. aukso bulę.'
+  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia M. Perlbacho poziciją apie Fridricho II bulę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/autoriai/M. Perlbachas|M. Perlbachas]]; mentioned_person: [[objektai/autoriai/M. Poliakuvna|M. Poliakuvna]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Kristburgas; mentioned_place: Prūsija'
+  temporaliniai_duomenys: 'įvykio data: 1226 m.; įvykio data: 1230 m.; įvykio data: 1232 m.; įvykio data: 1243 m.; įvykio data: 1245 m.; įvykio data: 1248 m.; įvykio data: 1323 m.; įvykio data: 1330 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia M. Perlbacho poziciją apie Fridricho II bulę.'
   pagrindžia:
     - c-002
 
@@ -46,6 +54,12 @@ Imperatorius Fridrichas II iš venedų gautą didelę šventojo kryžiaus dalį 
 - t-003
   global_id: t-59859
   teiginys: '1268 m. Sicilijos karalius Karolis paėmė į nelaisvę ir nugalabijo Konradiną, buvusio imperatoriaus Fridricho II anūką.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir paremtas citata apie Fridricho II anūką.'
+  susije_objektai: 'territory: Vokietija; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_place: Vokietija'
+  semantiniai_rysiai: '[[objektai/asmenys/Fridrichas II|Fridrichas II]] buvo valdovas Vokietija'
+  temporaliniai_duomenys: 'valdymo laikotarpis: 1268 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Fridrichas II buvo valdovas Vokietija“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, faktinis ir paremtas citata apie Fridricho II anūką.'
   pagrindžia:
     - c-004
 
@@ -53,6 +67,8 @@ Imperatorius Fridrichas II iš venedų gautą didelę šventojo kryžiaus dalį 
 - t-004
   global_id: t-59860
   teiginys: 'Popiežius Honorijus III ir imperatorius Fridrichas II slaptų nesutarimų sprendimą patikėjo broliui Hermanui.'
+  sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir nutrūksta, bet citata remia glaustą faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Venedai|Venedai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_person: [[objektai/asmenys/Popiežius Honorijus III|Popiežius Honorijus III]]; mentioned_place: Elbingas; mentioned_place: Prūsija'
   pagrindžia:
     - c-006
 
@@ -60,6 +76,11 @@ Imperatorius Fridrichas II iš venedų gautą didelę šventojo kryžiaus dalį 
 - t-005
   global_id: t-59861
   teiginys: 'Fridricho II sūnus Konradas 1251 m. užpuolė Apulijos karalystę ir Neapolį, sugriovė Neapolio sienas ir kitais metais mirė nunuodytas.'
+  sudarymo_pagrindimas: 'Perrašyta, kad būtų įtrauktas citatoje minimas Neapolio sienų sugriovimas.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Apulija; mentioned_place: Jeruzalė; mentioned_place: Neapolis'
+  temporaliniai_duomenys: 'įvykio data: 1251 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Perrašyta, kad būtų įtrauktas citatoje minimas Neapolio sienų sugriovimas.'
   pagrindžia:
     - c-007
 
@@ -67,6 +88,8 @@ Imperatorius Fridrichas II iš venedų gautą didelę šventojo kryžiaus dalį 
 - t-006
   global_id: t-59862
   teiginys: 'Imperatorius Fridrichas II patarė magistrui Hermanui priimti Lenkijos kunigaikščio kvietimą dėl keblaus reikalo.'
+  sudarymo_pagrindimas: 'Citata Fridrichą II nurodo kaip vieną iš patarėjų, paveikusių magistro sprendimą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_place: Kulmas; mentioned_place: Lenkija; mentioned_place: Viena; mentioned_place: Vokietija'
   pagrindžia:
     - c-005
 
@@ -74,9 +97,30 @@ Imperatorius Fridrichas II iš venedų gautą didelę šventojo kryžiaus dalį 
 - t-007
   global_id: t-59863
   teiginys: 'Fridrichas II turėjo nesantuokinį sūnų Manfredą, iš kurio 1265 m. Sicilijos karalius Karolis atėmė sostą ir gyvybę.'
+  sudarymo_pagrindimas: 'Perrašyta, kad teiginys aiškiau sietųsi su Fridrichu II.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]'
+  temporaliniai_duomenys: 'įvykio data: 1265 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Perrašyta, kad teiginys aiškiau sietųsi su Fridrichu II.'
   pagrindžia:
     - c-003
-
+- susijęs iš [[objektai/asmenys/Hermanas iš Zalcos.md#claim-t-89821|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]: Hermanui iš Zalcos popiežius padovanojo žiedą, o imperatorius suteikė teisę vėliavoje turėti karališkąsias imperijos insignijas.
+- susijęs iš [[objektai/asmenys/Hermanas iš Zalcos.md#claim-t-89826|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]: Hermano vadovavimo metu Ordinas gavo privilegijų, žemių ir relikviją, o per ją Prūsijoje vyko stebuklai.
+- susijęs iš [[objektai/asmenys/Hermanas iš Zalcos.md#claim-t-89828|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]: Fridrichas II perleido Hermanui šventojo kryžiaus dalį, o šis ją nusiuntė į Elbingo pilį.
+- susijęs iš [[objektai/asmenys/Hermanas iš Zalcos.md#claim-t-89830|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]: Popiežius ir imperatorius suteikė Hermanui iš Zalcos bei būsimiems Teutonų ordino magistrams kunigaikščio titulą.
+- susijęs iš [[objektai/asmenys/Hermanas iš Zalcos.md#claim-t-89831|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]: Hermanas iš Zalcos atsisakė spręsti popiežiaus Honorijaus III ir imperatoriaus Fridricho II slaptų nesutarimų bylą.
+- susijęs iš [[objektai/asmenys/Popiežius Honorijus III.md#claim-t-60416|Popiežius Honorijus III]]: Popiežius Honorijus III ir imperatorius Fridrichas II patikėjo broliui Hermanui spręsti jų slaptų nesutarimų bylą.
+- susijęs iš [[objektai/autoriai/Potkowski E.md#claim-t-60770|Potkowski E]]: E. Potkowski cituojamas aiškinant Fridricho II ir popiežiaus ginčą dėl dvasinės bei pasaulietinės valdžios ribų.
+- susijęs iš [[objektai/daiktai/Ordino magistro valdžios žymenys.md#claim-t-183980|Ordino magistro valdžios žymenys]]: Popiežius Honorijus III žiedą, o imperatorius Fridrichas II vėliavos insignijas suteikė kaip Ordino magistro valdžios žymenis.
+- susijęs iš [[objektai/daiktai/Ordino magistro valdžios žymenys.md#claim-t-59696|Ordino magistro valdžios žymenys]]: Popiežius Honorijus III žiedą, o imperatorius Fridrichas II vėliavos insignijas suteikė kaip Ordino magistro valdžios žymenis.
+- susijęs iš [[objektai/daiktai/Šventojo kryžiaus relikvija.md#claim-t-59714|Šventojo kryžiaus relikvija]]: Imperatorius Fridrichas II Šventojo kryžiaus relikviją perdavė magistrui, kuris ją nusiuntė į Elbingo pilį Prūsijoje.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178840|Kryžiuočių ordinas]]: Popiežius Honorijus III ir imperatorius Fridrichas II suteikė Hermanui ir būsimiems Teutonų ordino magistrams kunigaikščio titulą.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179029|Kryžiuočių ordinas]]: 1226 m. Riminyje Fridrichas II suteikė Vokiečių ordinui teisę tapti užkariausimos prūsų žemės savininku.
+- susijęs iš [[objektai/ivykiai/Hermano iš Zalcos išaukštinimas kunigaikščio titulu.md#claim-t-62806|Hermano iš Zalcos išaukštinimas kunigaikščio titulu]]: Popiežius Honorijus III ir imperatorius Fridrichas II suteikė Hermanui iš Zalcos ir būsimiems Teutonų ordino magistrams kunigaikščio titulą.
+- susijęs iš [[objektai/ivykiai/Veronos auksinė bulė ir Kuršo, Lietuvos bei Žiemgalių padovanojimas (1245 m.).md#claim-t-31483|Veronos auksinė bulė ir Kuršo, Lietuvos bei Žiemgalių padovanojimas (1245 m.)]]: Fridrichas II 1245 m. Veronoje duota auksine bule kryžiuočiams amžinai padovanojo Kuršą, Lietuvą ir Žiemgalius.
+- susijęs iš [[objektai/ivykiai/Šventojo kryžiaus relikvijos perdavimas Hermanui ir jos išsiuntimas į Elbingo pilį.md#claim-t-62959|Šventojo kryžiaus relikvijos perdavimas Hermanui ir jos išsiuntimas į Elbingo pilį (pilis)]]: Imperatorius Fridrichas II perdavė Hermanui didelę Šventojo Kryžiaus relikvijos dalį, o Hermanas ją išsiuntė į Elbingo pilį.
+- susijęs iš Martyno iš Opavos popiežių ir imperatorių istorija: Martyno iš Opavos istorijoje Inocentas III minimas kaip popiežius, o Otonas IV ir Fridrichas II – kaip imperatoriai.
+- susijęs iš Elbingo pilis (pilis): Į Elbingo pilį buvo pasiųsta imperatoriaus Fridricho II magistrui perduota didelė šventojo kryžiaus dalis.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -212,24 +256,4 @@ Imperatorius Fridrichas II iš venedų gautą didelę šventojo kryžiaus dalį 
     - t-005
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Karolis]]
-- [[objektai/daiktai/Kryžius]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Venedai]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/ivykiai/Hermano iš Zalcos išaukštinimas kunigaikščio titulu]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/daiktai/Ordino magistro valdžios žymenys]]
-- [[objektai/autoriai/Potkowski E]]
-- [[objektai/ivykiai/Veronos auksinė bulė ir Kuršo, Lietuvos bei Žiemgalių padovanojimas (1245 m.)]]
-- [[objektai/daiktai/Šventojo kryžiaus relikvija]]
-- [[objektai/ivykiai/Šventojo kryžiaus relikvijos perdavimas Hermanui ir jos išsiuntimas į Elbingo pilį|Šventojo kryžiaus relikvijos perdavimas Hermanui ir jos išsiuntimas į Elbingo pilį (pilis)]]
-- [[objektai/asmenys/Fridrichas]]
-- [[objektai/asmenys/Konradas]]
-- [[objektai/asmenys/Karolis (Provanso grafas ir Sicilijos karalius)]]
-- [[objektai/asmenys/Konradas (Fridricho II sūnus)]]
-- [[objektai/ivykiai/Neapolio sugriovimas ir Konrado mirtis (1251-1252 m.)]]
-- [[objektai/ivykiai/Teutonų ordino pakvietimas ir žvalgomoji misija į Kulmo žemę]]
+- Fridrichas II buvo_valdovas [[objektai/vietos/Vokietija]]

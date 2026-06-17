@@ -27,9 +27,14 @@ amziai:
 - t-001
   global_id: t-34369
   teiginys: '1424 m. Vytauto pasiųsta kariuomenė smarkiai sumušė Užvolgio totorius, vadovaujamus chano Chudandacho.'
+  sudarymo_pagrindimas: 'Ilgas teiginys sutrumpintas ir išvalytas nuo OCR lūžių.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_person: [[objektai/asmenys/Chudandachas|Chudandachas]]; mentioned_place: Luckas; mentioned_place: Pskovas; mentioned_place: Smolenskas'
+  temporaliniai_duomenys: 'įvykio data: 1424 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Ilgas teiginys sutrumpintas ir išvalytas nuo OCR lūžių.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Chudandachas.md#claim-t-34713|Chudandachas]]: Chudandacho vadovauti Užvolgio totoriai 1424 m. užpuolė Riazanės ir Odojevo kunigaikščius, bet buvo sumušti Vytauto kariuomenės.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -49,10 +54,3 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Auksinė Orda]]
-- [[objektai/zodynas/chanas]]
-- [[objektai/asmenys/Chudandachas]]
-- [[objektai/asmenys/Machmetas]]

@@ -20,9 +20,11 @@ Tuo pat metu pasigirdo ir sukilėlių (lenkų) 1-ojo ulonų pulko eskadronų vad
 - t-001
   global_id: t-38991
   teiginys: 'Sukilėlių 1-ojo ulonų pulko ataka perkirto ir išsklaidė Orenburgo ulonų pulką.'
+  sudarymo_pagrindimas: 'Citata geriau pagrindžia mūšio rezultatą, o ne komandų paminėjimą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/ulonai|ulonai]]'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/D. Osten-Sakenas.md#claim-t-40082|D. Osten-Sakenas]]: Osten-Sakenas dešiniajame gynybos sparne puolimui išrikiavo kavaleriją.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -43,8 +45,3 @@ Tuo pat metu pasigirdo ir sukilėlių (lenkų) 1-ojo ulonų pulko eskadronų vad
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/ulonai]]
-- [[objektai/asmenys/D. Osten-Sakenas]]

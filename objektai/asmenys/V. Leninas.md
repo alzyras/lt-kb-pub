@@ -3,6 +3,10 @@ tipas: asmuo
 pavadinimas: 'V. Leninas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1950 m.'
+date_start: '1950'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -10,6 +14,10 @@ tags:
   - miestas
   - tauta
   - valstybė
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'XX a.'
 ---
 # V. Leninas
 
@@ -23,6 +31,8 @@ Lenino, J. Leniną, tačiau ilgainiui, ypač Dainų šventėse, tai liko apvalka
 - t-001
   global_id: t-19295
   teiginys: 'Sovietmečiu tautiniais drabužiais vilkintys choristai dainavo apie V. Leniną.'
+  sudarymo_pagrindimas: 'Pradinis teiginys fragmentiškas, citata palaiko glaustą faktą apie Lenino vaizdavimą kultūroje.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; mentioned_object: [[objektai/zodynas/Soclageris|Soclageris]]; mentioned_object: [[objektai/posakiai/„tautinė pagal formą, socialistinė pagal turinį“|„tautinė pagal formą, socialistinė pagal turinį“]]; mentioned_place: SSRS; mentioned_place: Čekoslovakija'
   pagrindžia:
     - c-002
 
@@ -30,6 +40,11 @@ Lenino, J. Leniną, tačiau ilgainiui, ypač Dainų šventėse, tai liko apvalka
 - t-002
   global_id: t-19296
   teiginys: 'Sovietmečiu Lietuvos miestuose ir miesteliuose buvo pristatyta V. Lenino statulų.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie V. Leniną.'
+  susije_objektai: 'mentioned_object: [[objektai/autoriai/Vincas Kudirka|Vincas Kudirka]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1950 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie V. Leniną.'
   pagrindžia:
     - c-001
 
@@ -67,10 +82,3 @@ Lenino, J. Leniną, tačiau ilgainiui, ypač Dainų šventėse, tai liko apvalka
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Soclageris]]
-- [[objektai/posakiai/„tautinė pagal formą, socialistinė pagal turinį“]]
-- [[objektai/daiktai/Drabužiai]]
-- [[objektai/ivykiai/Lietuvos himno „Tautiška giesmė“ uždraudimas (1950 m.)]]

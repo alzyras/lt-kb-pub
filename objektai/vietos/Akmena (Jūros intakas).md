@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Ašeradė) Akmena (Jūros intakas), u.
+Dusburgietis teigia, kad ašeradė) Akmena (Jūros intakas), u.
 
 ## Teiginiai
 
@@ -20,6 +20,8 @@ Ašeradė) Akmena (Jūros intakas), u.
 - t-001
   global_id: t-58675
   teiginys: 'Ašeradė) Akmena (Jūros intakas), u.'
+  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
+  susije_objektai: 'mentioned_place: Aizkrauklė'
   pagrindžia:
     - c-001
 

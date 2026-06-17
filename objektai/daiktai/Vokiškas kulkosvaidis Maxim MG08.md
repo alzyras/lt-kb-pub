@@ -40,6 +40,9 @@ Nenurodyta
 - t-001
   global_id: t-40782
   teiginys: 'Vokiškas kulkosvaidis Maxim MG08 buvo aušinamas vandeniu ir šaudė 7,92 x 57 mm šoviniais.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]'
+  temporaliniai_duomenys: 'įvykio data: 000 m'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -65,8 +68,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/įgula]]
-- [[objektai/daiktai/Šautuvai]]

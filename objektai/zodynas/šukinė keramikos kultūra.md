@@ -20,6 +20,8 @@ tags:
 - t-001
   global_id: t-32819
   teiginys: 'Šukinė keramikos kultūra taip vadinama dėl šukinių keramikos ornamentų.'
+  sudarymo_pagrindimas: 'Teiginys gramatiškas ir tiesiogiai paaiškina citatoje nurodytą pavadinimo kilmę.'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

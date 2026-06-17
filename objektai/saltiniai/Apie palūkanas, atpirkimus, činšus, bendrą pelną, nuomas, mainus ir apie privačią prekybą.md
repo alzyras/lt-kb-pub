@@ -28,6 +28,11 @@ amziai:
 - t-001
   global_id: t-88235
   teiginys: 'Martyno Smigleckio veikalo „Apie palūkanas, atpirkimus, činšus, bendrą pelną, nuomas, mainus ir apie privačią prekybą“ 7-asis leidimas 1640 m. išleistas Krokuvoje.'
+  sudarymo_pagrindimas: 'Citata pagrindžia ne pirmą leidimą, o 7-ąjį leidimą Krokuvoje 1640 m.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/Martynas Smigleckis|Martynas Smigleckis]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Krokuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1640 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia ne pirmą leidimą, o 7-ąjį leidimą Krokuvoje 1640 m.'
   pagrindžia:
     - c-001
 
@@ -35,6 +40,8 @@ amziai:
 - t-002
   global_id: t-88236
   teiginys: 'Nagrinėdamas privačios prekybos arba monopolio privalumus ir trūkumus, Smigleckis Vilnių pateikė kaip stiklo prekių pavyzdį.'
+  sudarymo_pagrindimas: 'Citata palaiko teiginį, bet pradinė formuluotė buvo nerišli ir su OCR triukšmu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 

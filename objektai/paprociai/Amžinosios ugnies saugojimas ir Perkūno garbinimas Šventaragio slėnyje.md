@@ -48,14 +48,18 @@ Nenurodyta
 - t-001
   global_id: t-54485
   teiginys: 'Šventaragio slėnyje iki krikščioniškojo tikėjimo įvedimo degė Gabija vadinta amžinoji ugnis Perkūno garbei.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir paremtas citata apie Gabiją bei Perkūno garbinimą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/gabija|gabija]]; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_place: Bokštai; mentioned_place: Vilija'
   pagrindžia:
-    - c-002
     - c-001
+    - c-002
 
 <a id="claim-t-54486"></a>
 - t-002
   global_id: t-54486
   teiginys: 'Krikšto apeigų metu Vilniuje buvo užgesinta amžinoji ugnis, iškirstos šventos girios ir sugriauta Perkūno šventykla.'
+  sudarymo_pagrindimas: 'Perrašyta be metatekstinio įvado ir glaudžiau pagal citatą.'
+  susije_objektai: 'mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 
@@ -63,6 +67,8 @@ Nenurodyta
 - t-003
   global_id: t-54487
   teiginys: 'Šventaragio slėnyje Perkūno garbei degusią amžinąją ugnį Gabiją saugojo ir kurstė žyniai, vadovaujami Krivių Krivaičio.'
+  sudarymo_pagrindimas: 'Į sakinį įtrauktas note objektas ir patikslinta vieta.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/gabija|gabija]]; mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -123,14 +129,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/religinė-praktika]]
-
-### Susiję objektai
-- [[objektai/zodynas/pagonybė]]
-- [[objektai/asmenys/Šventaragis]]
-- [[objektai/zodynas/gabija]]
-- [[objektai/paprociai/Amžinosios Gabijos ugnies ir Perkūno kulto apeigos Šventaragio slėnyje]]
-- [[objektai/zodynas/amžinoji ugnis Gabija]]

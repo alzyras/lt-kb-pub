@@ -23,6 +23,8 @@ tags:
 - t-001
   global_id: t-86861
   teiginys: 'Po nesėkmingos Vilniaus pilies apsupties kryžiuočiai atsitraukė ir, nusiaubę kraštą ugnimi bei kalaviju, grįžo į Prūsiją ir Livoniją.'
+  sudarymo_pagrindimas: 'Pašalintas puslapio triukšmas; citata pagrindžia kryžiuočių atsitraukimą ir krašto nusiaubimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/posakiai/Ugnimi ir kalaviju|Ugnimi ir kalaviju]]; mentioned_person: [[objektai/asmenys/Tautvilas|Tautvilas]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -57,10 +59,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Kalavijas]]
-- [[objektai/asmenys/Tautvilas]]
-- [[objektai/posakiai/Ugnimi ir kalaviju]]
-- [[objektai/grupes/Kryžiuočių ordinas]]

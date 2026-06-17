@@ -93,13 +93,3 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/grupes/Švedai]]
-- [[objektai/asmenys/Zigmantas Vaza]]
-- [[objektai/asmenys/Teodoras]]
-- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]

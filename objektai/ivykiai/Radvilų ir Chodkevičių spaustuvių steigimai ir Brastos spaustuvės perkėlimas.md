@@ -3,11 +3,18 @@ tipas: ivykis
 pavadinimas: 'Radvilų ir Chodkevičių spaustuvių steigimai ir Brastos spaustuvės perkėlimas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1562 m.'
+  - '1569 m.'
+date_start: '1562'
+date_end: '1569'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
   - reforma
+amziai:
+  - 'XVI'
 ---
 # Radvilų ir Chodkevičių spaustuvių steigimai ir Brastos spaustuvės perkėlimas
 
@@ -37,6 +44,11 @@ Nenurodyta
 - t-001
   global_id: t-20459
   teiginys: '1562 m. Radvila Juodasis įkūrė spaustuvę Nesvyžiuje, o 1569 m. Chodkevičiai įsteigė spaustuvę Zabluduve.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus sakinys apie spaustuvių steigimą ir yra paremtas citata.'
+  susije_objektai: 'object: Maskva; object: Nesvyžius; object: Zabluduvas; object: [[objektai/zodynas/reformacija|reformacija]]; mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_object: [[objektai/zodynas/reformacija|reformacija]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Maskva; mentioned_place: Nesvyžius; mentioned_place: Zabluduvas'
+  temporaliniai_duomenys: 'pastatymo data: 1562 m.; pastatymo data: 1569 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Radvila pastatė Maskva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Radvila pastatė Nesvyžius“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Radvila pastatė Zabluduvas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Radvila pastatė reformacija“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus sakinys apie spaustuvių steigimą ir yra paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -56,10 +68,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Radvila]]
-- [[objektai/zodynas/reformacija]]
-- [[objektai/grupes/Chodkevičiai]]
-- [[objektai/asmenys/Ivanas Fiodorovas]]

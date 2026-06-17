@@ -29,6 +29,9 @@ amziai:
 - t-001
   global_id: t-31690
   teiginys: '„Ghillebert de Lannoy. Dvi jo kelionės Lietuvon Vytauto Didžiojo laikais“ išspausdintas „Praeities“ II tome 1933 m., p. 94–157.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1933 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

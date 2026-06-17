@@ -23,6 +23,8 @@ Dusburgietis teigia, kad paskui karalius įteikė jam savo vėliavas, kad jas i�
 - t-001
   global_id: t-58850
   teiginys: 'Karalius davė vėliavas iškabinti prie jo ir jo tėvų žemių bei kiemų, kad niekas, pamatęs karaliaus vėliavą, nedrįstų jo skriausti.'
+  sudarymo_pagrindimas: 'Pašalinta perteklinė atribucija, išnašos ženklas ir sakinys padarytas gramatiškas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Semba'
   pagrindžia:
     - c-002
 
@@ -30,6 +32,8 @@ Dusburgietis teigia, kad paskui karalius įteikė jam savo vėliavas, kad jas i�
 - t-002
   global_id: t-58851
   teiginys: 'Kiemai buvo didelės, turtingos ir daugiau ar mažiau įtvirtintos sodybos, bet ne pilys.'
+  sudarymo_pagrindimas: 'Teiginys tiksliai apibendrina citatoje pateiktą kiemų apibūdinimą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
 
@@ -37,6 +41,11 @@ Dusburgietis teigia, kad paskui karalius įteikė jam savo vėliavas, kad jas i�
 - t-003
   global_id: t-184005
   teiginys: 'Teutonams nusiaubus valdas, vyras rado savo ir saviškių kiemus sudegintus, o šeimyną, brolį Ringėlą ir gimines išžudytus.'
+  teiginio_tipas: 'saltinio_teiginys'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis teiginys neatitiko pateiktos citatos svarbiausio fakto apie kiemus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Ringėlas|Ringėlas]]; mentioned_place: Semba'
   pagrindžia:
     - c-003
 
@@ -97,12 +106,3 @@ Dusburgietis teigia, kad paskui karalius įteikė jam savo vėliavas, kad jas i�
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/žygis]]
-- [[objektai/daiktai/Pilys]]
-- [[objektai/asmenys/Ringėlas]]
-- [[objektai/grupes/Teutonai]]
-- [[objektai/asmenys/Gedūnas]]
-- [[objektai/paprociai/Karaliaus vėliavų iškabinimas prie žemių ir kiemų apsaugai]]

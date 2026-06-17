@@ -20,6 +20,8 @@ Jis pranešė liūdną naujieną: Puvočių kaime, poilsio metu netikėtai prie�
 - t-001
   global_id: t-80600
   teiginys: 'Puvočių kaime priešo netikėtai užkluptas žuvo Marcinkonių bataliono vadas Šernas, dar vadintas leitenantu Kondrotu, ir du jo kovos draugai.'
+  sudarymo_pagrindimas: 'Pradinis teiginys yra nutrūkęs fragmentas; citata leidžia suformuluoti pilną faktinį sakinį.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/Šernas|Šernas]]; mentioned_place: Kaimas'
   pagrindžia:
     - c-001
 

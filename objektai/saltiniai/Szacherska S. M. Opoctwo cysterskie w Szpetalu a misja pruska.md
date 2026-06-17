@@ -26,6 +26,11 @@ Dusburgietis teigia, kad szacherska S.
 - t-001
   global_id: t-61304
   teiginys: 'S. M. Szacherskos veikalas „Opoctwo cysterskie w Szpetalu a misja pruska“ išleistas Varšuvoje 1960 m.'
+  sudarymo_pagrindimas: 'Citata patvirtina autorę, pavadinimą, leidimo vietą ir metus.'
+  susije_objektai: 'mentioned_place: Varšuva'
+  temporaliniai_duomenys: 'įvykio data: 1960 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata patvirtina autorę, pavadinimą, leidimo vietą ir metus.'
   pagrindžia:
     - c-001
 

@@ -10,11 +10,11 @@ date_start: '1936'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - sąvoka
 amziai:
   - 'XX'
   - 'XXI'
-tags:
-  - sąvoka
 ---
 # Rašliava
 
@@ -43,42 +43,51 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-004
-  teiginys: 'Rašliava vartojama kaip istorinės raštijos pavadinimas.'
+
+<a id="claim-t-168690"></a>
+- t-001
+  global_id: t-168690
+  teiginys: 'Pirmoji Lietuvos rašliava apibūdinama kaip istorinė ir publicistiška.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-005
-  teiginys: 'Pirmoji Lietuvos rašliava apibūdinama kaip istorinė ir publicistiška.'
+
+<a id="claim-t-168692"></a>
+- t-002
+  global_id: t-168692
+  teiginys: 'Rašliava vartojama kaip istorinės raštijos pavadinimas.'
   pagrindžia:
     - c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-006
+
+<a id="claim-t-168695"></a>
+- t-003
+  global_id: t-168695
   teiginys: 'Iškilus unijos klausimui, Lenkijoje atsirado publicistiškos rašliavos, kurioje Lietuva buvo žeminama kaip nedėkinga ir maištaujanti valstybė.'
+  sudarymo_pagrindimas: 'Teiginys susietas su rašliava ir išvalytas nuo perteklinio konteksto.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Rašliava vartojama kaip istorinės raštijos pavadinimas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Istoriškoji mūsų rašliava paskutiniaisiais metais gerokai pa-
-    ūgėjo. Bet ligi šiol dar niekas nebuvo bandęs paruošti platesnę
-    mūsų tautos gyvenimo kelio apžvalgą, kuri sujungtų seniausiųjų
-    ir naujųjų laikų įvykius. Tokio vadovėlio reikalą gyvai jautė
-    tiek visuomenė, tiek mokykla.
-  citata_rodoma: ""
+    Ten jie
+    įrodinėja Ožechovskio tvirtinimų neteisingumą, gina Lietuvos
+    valstybės garbę ir jos teises gyventi savarankiškai. Jie nuro-
+    dinėja, kad Lietuvos vargai prasidėję tik susidėjus su Lenkija,
+    ir visos blogybės — valstybinis pakrikimas, tarpusavio nesantaika
+    — ateinančios tik iš Lenkijos; anksčiau Lietuvoje to nebuvę, to-
+    dėl dėtis į uniją su tokia valstybe Lietuvai nesą jokio reikalo.
+    Žodžiu, pirmoji Lietuvos rašliava buvo istorinė ir turėjo
+    publicistišką charakterį.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-004
+    - t-001
+
 - c-002
   santrauka: 'Iškilus unijos klausimui, Lenkijoje atsirado publicistiškos rašliavos, kurioje Lietuva buvo žeminama kaip nedėkinga ir maištaujanti valstybė.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -92,35 +101,22 @@ Nenurodyta
     Iškilus unijos klausimui, Lenkijoje atsirado publicistiškų
     raštų, kuriuose Lietuva buvo žeminama, vaizduojama, kaip nedė-
     kinga, maištaujanti lenkų globojama valstybė.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-006
+    - t-003
+
 - c-003
-  santrauka: 'Pirmoji Lietuvos rašliava apibūdinama kaip istorinė ir publicistiška.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Ten jie
-    įrodinėja Ožechovskio tvirtinimų neteisingumą, gina Lietuvos
-    valstybės garbę ir jos teises gyventi savarankiškai. Jie nuro-
-    dinėja, kad Lietuvos vargai prasidėję tik susidėjus su Lenkija,
-    ir visos blogybės — valstybinis pakrikimas, tarpusavio nesantaika
-    — ateinančios tik iš Lenkijos; anksčiau Lietuvoje to nebuvę, to-
-    dėl dėtis į uniją su tokia valstybe Lietuvai nesą jokio reikalo.
-    Žodžiu, pirmoji Lietuvos rašliava buvo istorinė ir turėjo
-    publicistišką charakterį.
-  citata_rodoma: ""
+    Istoriškoji mūsų rašliava paskutiniaisiais metais gerokai pa-
+    ūgėjo. Bet ligi šiol dar niekas nebuvo bandęs paruošti platesnę
+    mūsų tautos gyvenimo kelio apžvalgą, kuri sujungtų seniausiųjų
+    ir naujųjų laikų įvykius. Tokio vadovėlio reikalą gyvai jautė
+    tiek visuomenė, tiek mokykla.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-005
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/zodynas/unija]]
+    - t-002

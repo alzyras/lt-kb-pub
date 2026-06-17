@@ -8,165 +8,275 @@ saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1389 m.'
-  - '1586 m.'
-  - '1787 m.'
+  - '1396 m.'
+  - '1522 m.'
+  - '1531 m.'
+  - '1536 m.'
+  - '1545 m.'
   - '2026 m.'
 date_start: '1389'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XIV'
-  - 'XXI'
 tags:
   - pilis
   - valdovas
   - vieta
+amziai:
+  - 'XIV'
+  - 'XXI'
 ---
 # Vilniaus katedra
 
 ## Santrauka
 
-1389 m. Vilniaus bažnyčia, pastatyta ant pagonių šventyklos griuvėsių, buvo pripažinta katedra. A. Šapokos redaguotoje istorijoje reiškiama viltis, kad Vytauto kapas bus surastas, o jo kaulai padėti Vilniaus katedroje. Vilniaus katedros fasado skulptūros, sukurtos 1784–1787 m., žymėjo baroko epochos Lietuvoje pabaigos ribą.
+Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis buvo pervežtas į Vilnių ir palaidotas katedros rūsyje, po šv. Tada Zigmanto Augusto motina, karalienė Bona, altoriaus vietoje buvo pastačiusi marmurinį paminklą; bet kai 1610 m. apdegė katedra, žuvo ir šis paminklas. Vilniaus katedroje Vytauto kapo paminklo jau nebebuvo nuo 1610 m. gaisro.
 
 ## Teiginiai
+
 <a id="claim-t-110146"></a>
 - t-001
   global_id: t-110146
   teiginys: '1389 m. Vilniaus bažnyčia, pastatyta ant pagonių šventyklos griuvėsių, buvo pripažinta katedra.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, faktinis ir paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_person: [[objektai/asmenys/Dobrogostas|Dobrogostas]]; mentioned_place: Poznanė; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'pastatymo data: 1389 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, faktinis ir paremtas citata.'
   pagrindžia:
     - c-012
+
+<a id="claim-t-110148"></a>
+- t-002
+  global_id: t-110148
+  teiginys: 'Vilniaus katedros fasado skulptūros, sukurtos 1784–1787 m., žymėjo baroko epochos Lietuvoje pabaigos ribą.'
+  sudarymo_pagrindimas: 'Pirminiam sakiniui trūksta skyrybos ir aiškumo; citata paremia glaustesnį faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/barokas|barokas]]; mentioned_place: Lietuva; mentioned_place: Nesvyžius; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: po 1586 m.; įvykio data: 1586 m.; įvykio data: 1784-1787; įvykio data: 1787 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pirminiam sakiniui trūksta skyrybos ir aiškumo; citata paremia glaustesnį faktą.'
+  pagrindžia:
+    - c-003
 
 <a id="claim-t-110149"></a>
 - t-003
   global_id: t-110149
-  teiginys: 'Vilniaus katedros fasado skulptūros, sukurtos 1784–1787 m., žymėjo baroko epochos Lietuvoje pabaigos ribą.'
+  teiginys: 'Žygimanto Augusto žmona Elžbieta mirė Vilniuje 1545 m. ir buvo palaidota katedros bažnyčios koplyčioje šalia karaliaus Aleksandro.'
+  sudarymo_pagrindimas: 'Pirminis teiginys sugadintas OCR triukšmo, bet citata leidžia suformuluoti rišlų faktą.'
+  susije_objektai: 'location: Vilniaus katedra; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_person: [[objektai/asmenys/Elžbieta|Elžbieta]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Trakai; mentioned_place: Vengrija; mentioned_place: Vilnius; mentioned_place: Čekija'
+  semantiniai_rysiai: '[[objektai/asmenys/Augustas|Augustas]] mirė Vilniaus katedra'
+  temporaliniai_duomenys: 'mirties data: 1545 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Augustas mirė Vilniaus katedra“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pirminis teiginys sugadintas OCR triukšmo, bet citata leidžia suformuluoti rišlų faktą.'
   pagrindžia:
-    - c-003
+    - c-008
 
 <a id="claim-t-110150"></a>
 - t-004
   global_id: t-110150
-  teiginys: 'Žygimanto Augusto žmona Elžbieta mirė Vilniuje 1545 m. ir buvo palaidota katedros bažnyčios koplyčioje šalia karaliaus Aleksandro.'
+  teiginys: '1522 m. Vilniaus vyskupas Jonas prie Vilniaus katedros įkūrė penktąją scholastiko prelatūrą Katedros mokyklai išlaikyti.'
+  sudarymo_pagrindimas: 'Pradinis teiginys ne apie katedrą, bet citata palaiko katedros faktą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)|Jokūbas (vėliau Urbonas IV)]]; mentioned_person: [[objektai/asmenys/Jokūbas Babičius|Jokūbas Babičius]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įkūrimo data: 1522 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys ne apie katedrą, bet citata palaiko katedros faktą.'
   pagrindžia:
-    - c-008
+    - c-007
 
 <a id="claim-t-110151"></a>
 - t-005
   global_id: t-110151
-  teiginys: '1522 m. Vilniaus vyskupas Jonas prie Vilniaus katedros įkūrė penktąją scholastiko prelatūrą Katedros mokyklai išlaikyti.'
+  teiginys: 'Vilniaus katedroje italų meistrai iš brangaus marmuro pastatė Elžbietos ir Barboros antkapius.'
+  sudarymo_pagrindimas: 'Patikslintas note objektas ir pašalinta dviprasmybė.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_person: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Italija; mentioned_place: Vilnius'
   pagrindžia:
-    - c-007
+    - c-011
 
 <a id="claim-t-110152"></a>
 - t-006
   global_id: t-110152
-  teiginys: 'Vilniaus katedroje italų meistrai iš brangaus marmuro pastatė Elžbietos ir Barboros antkapius.'
+  teiginys: 'Užbaigta Vilniaus katedra buvo pašventinta Šv. Trejybės, Šv. Stanislovo ir Šv. Vladislovo titulais.'
+  susije_objektai: 'mentioned_place: Vilnius'
   pagrindžia:
-    - c-011
+    - c-005
 
 <a id="claim-t-110153"></a>
 - t-007
   global_id: t-110153
-  teiginys: 'Užbaigta Vilniaus katedra buvo pašventinta Šv. Trejybės, Šv. Stanislovo ir Šv. Vladislovo titulais.'
+  teiginys: 'Didysis kunigaikštis didino Vilniaus katedros lobius ir 1396 m. jos kapitulai dovanojo Cudzeniškių valdą.'
+  susije_objektai: 'territory: Cudzeniškiai; territory: Medininkai; territory: Vilnius; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Cudzeniškiai; mentioned_place: Medininkai; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'valdymo laikotarpis: 1396 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Vytautas (Lietuvos valdovas, XIV–XV a.) buvo valdovas Cudzeniškiai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Vytautas (Lietuvos valdovas, XIV–XV a.) buvo valdovas Medininkai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Vytautas (Lietuvos valdovas, XIV–XV a.) buvo valdovas Vilnius“, o ne visam objekto laikotarpiui.'
   pagrindžia:
-    - c-005
+    - c-009
 
 <a id="claim-t-110154"></a>
 - t-008
   global_id: t-110154
-  teiginys: 'Didysis kunigaikštis didino Vilniaus katedros lobius ir 1396 m. jos kapitulai dovanojo Cudzeniškių valdą.'
+  teiginys: 'Vilniaus vyskupas Povilas užkirto kelią karaliui ir privertė jį pasukti į katalikų katedrą.'
+  susije_objektai: 'mentioned_place: Vilnius'
   pagrindžia:
-    - c-009
+    - c-010
 
 <a id="claim-t-110155"></a>
 - t-009
   global_id: t-110155
-  teiginys: 'Vilniaus vyskupas Povilas užkirto kelią karaliui ir privertė jį pasukti į katalikų katedrą.'
+  teiginys: 'Didžiojo valdovo palaikai buvo pervežti į Vilnių ir palaidoti Vilniaus katedros rūsyje po Šv. Mykolo Arkangelo altoriumi.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Altorius|Altorius]]; mentioned_place: Vilnius'
   pagrindžia:
-    - c-010
+    - c-001
+
+<a id="claim-t-110157"></a>
+- t-010
+  global_id: t-110157
+  teiginys: '1396 m. Vytautas, Jogailai sutikus, Vilniaus katedros kapitulai dovanojo Cudzeniškių valdą netoli Medininkų pilies.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Cudzeniškiai; mentioned_place: Medininkai; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1396 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, faktinis ir paremtas citata.'
+  pagrindžia:
+    - c-009
 
 <a id="claim-t-110158"></a>
 - t-011
   global_id: t-110158
-  teiginys: '1396 m. Vytautas, Jogailai sutikus, Vilniaus katedros kapitulai dovanojo Cudzeniškių valdą netoli Medininkų pilies.'
+  teiginys: 'Vilniaus katedroje karalienė Bona altoriaus vietoje pastatė marmurinį paminklą, kuris žuvo per 1610 m. katedros gaisrą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Altorius|Altorius]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_person: [[objektai/asmenys/Bona|Bona]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'pastatymo data: 1610 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
-    - c-009
+    - c-002
+
+<a id="claim-t-110159"></a>
+- t-012
+  global_id: t-110159
+  teiginys: 'Pranešime apie Vilniaus gaisrą teigta, kad sudegė Vilniaus katedra ir karaliaus iždas su turtais bei brangenybėmis.'
+  sudarymo_pagrindimas: 'Pradinė frazė silpna, bet citata palaiko konkretų faktą.'
+  susije_objektai: 'mentioned_place: Vilnius'
+  pagrindžia:
+    - c-014
 
 <a id="claim-t-110160"></a>
 - t-013
   global_id: t-110160
-  teiginys: 'Pranešime apie Vilniaus gaisrą teigta, kad sudegė Vilniaus katedra ir karaliaus iždas su turtais bei brangenybėmis.'
+  teiginys: '1522 m. prie Vilniaus katedros įkurta scholastiko prelatūra, kurios pareiga buvo išlaikyti Katedros mokyklą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)|Jokūbas (vėliau Urbonas IV)]]; mentioned_person: [[objektai/asmenys/Jokūbas Babičius|Jokūbas Babičius]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1522 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
-    - c-015
+    - c-007
 
 <a id="claim-t-110161"></a>
 - t-014
   global_id: t-110161
-  teiginys: '1522 m. prie Vilniaus katedros įkurta scholastiko prelatūra, kurios pareiga buvo išlaikyti Katedros mokyklą.'
+  teiginys: 'Vilniaus kapitulos archyve buvo sutartis su Bernardu Zanobijumi dėl Šv. Stanislovo katedros permūrijimo per penkerius metus nuo 1536 m.'
+  sudarymo_pagrindimas: 'Patikslintas sutarties objektas ir terminas pagal citatą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'sutarties data: po 1536 m.; sutarties data: 1536 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip sutarties data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Patikslintas sutarties objektas ir terminas pagal citatą.'
   pagrindžia:
-    - c-007
+    - c-013
 
 <a id="claim-t-110162"></a>
 - t-015
   global_id: t-110162
-  teiginys: 'Vilniaus kapitulos archyve buvo sutartis su Bernardu Zanobijumi dėl Šv. Stanislovo katedros permūrijimo per penkerius metus nuo 1536 m.'
+  teiginys: 'XVIII a. senosios Katedros griuvėsiuose pražuvo Elžbietos ir Barboros antkapiai.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_person: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]'
   pagrindžia:
-    - c-014
+    - c-015
 
 <a id="claim-t-110163"></a>
 - t-016
   global_id: t-110163
-  teiginys: 'XVIII a. senosios Katedros griuvėsiuose pražuvo Elžbietos ir Barboros antkapiai.'
+  teiginys: 'Elžbieta, ištekinta už Žygimanto Augusto, mirė Vilniuje 1545 m. ir buvo palaidota katedros bažnyčios koplyčioje.'
+  susije_objektai: 'location: Vilniaus katedra; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Trakai; mentioned_place: Vengrija; mentioned_place: Vilnius; mentioned_place: Čekija'
+  semantiniai_rysiai: '[[objektai/asmenys/Augustas|Augustas]] mirė Vilniaus katedra'
+  temporaliniai_duomenys: 'mirties data: 1545 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Augustas mirė Vilniaus katedra“, o ne visam objekto laikotarpiui.'
   pagrindžia:
-    - c-016
+    - c-008
 
 <a id="claim-t-110164"></a>
 - t-017
   global_id: t-110164
-  teiginys: 'Elžbieta, ištekinta už Žygimanto Augusto, mirė Vilniuje 1545 m. ir buvo palaidota katedros bažnyčios koplyčioje.'
+  teiginys: 'Vilniaus katedra sudegė 1399 metais.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Stanislovas|Stanislovas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1531 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
-    - c-008
+    - c-006
 
 <a id="claim-t-110165"></a>
 - t-018
   global_id: t-110165
-  teiginys: 'Vilniaus katedra sudegė 1399 metais.'
+  teiginys: 'Jogaila Vladislovas buvo Vilniaus katedros fundatorius.'
+  sudarymo_pagrindimas: 'Pradinis teiginys yra fragmentas, bet citata palaiko aiškų faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Stanislovas|Stanislovas]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1531 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys yra fragmentas, bet citata palaiko aiškų faktą.'
   pagrindžia:
     - c-006
 
 <a id="claim-t-110166"></a>
 - t-019
   global_id: t-110166
-  teiginys: 'Jogaila Vladislovas buvo Vilniaus katedros fundatorius.'
+  teiginys: 'Vilniaus katedrai pamatai buvo padėti kartu su Šv. Martyno ir Šv. Jono bažnyčiomis.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Vilnius'
   pagrindžia:
-    - c-006
+    - c-004
 
 <a id="claim-t-183875"></a>
 - t-020
   global_id: t-183875
-  teiginys: 'Vilniaus katedrai pamatai buvo padėti kartu su Šv. Martyno ir Šv. Jono bažnyčiomis.'
-  pagrindžia:
-    - c-004
-
-- t-021
   teiginys: 'Stanislovo garbei, iškilmingai pripažinta katedra.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_person: [[objektai/asmenys/Dobrogostas|Dobrogostas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Poznanė; mentioned_place: Vilnius'
   pagrindžia:
-    - c-017
-- t-022
-  teiginys: 'Didžiojo valdovo palaikai buvo pervežti į Vilnių ir palaidoti Vilniaus katedros rūsyje po Šv. Mykolo Arkangelo altoriumi.'
-  pagrindžia:
-    - c-018
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-023
-  teiginys: 'Vilniaus katedroje karalienė Bona altoriaus vietoje pastatė marmurinį paminklą, kuris žuvo per 1610 m. katedros gaisrą.'
-  pagrindžia:
-    - c-019
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-
+    - c-016
+- susijęs iš Vilniaus albumas: J. K. Vilčinskio „Vilniaus albume“ pavaizduota Vilniaus katedra.
+- susijęs iš Bokštai: Bokštai buvo tarp valdų, kuriomis iškilmingu dovanojimo aktu buvo aprūpinta Vilniaus katedra.
+- susijęs iš Brasta: Brastos paviete buvę dideli valsčiai minimi tarp valdų, kuriomis buvo aprūpinta Vilniaus katedra.
+- susijęs iš Dambrava: Dambravos kaimas prie Vilniaus buvo tarp valdų, kuriomis iškilmingu aktu buvo aprūpinta Vilniaus katedra.
+- susijęs iš Drohičinas: Vilniaus katedra gavo didelius valsčius Drohičino, Brastos ir Dubno pavietuose su įvairiais ten renkamais mokesčiais.
+- susijęs iš Labanoras: Labanoro kaimas buvo tarp valdų, kuriomis iškilmingu aktu buvo aprūpinta Vilniaus katedra.
+- susijęs iš Tauragnų pilis (pilis): Vilniaus katedra iškilmingu aktu buvo aprūpinta kunigaikštiška Tauragnų pilimi su visu pavietu.
+- susijęs iš Verkiai: Verkių kaimai prie Vilniaus buvo įtraukti į valdas, kuriomis iškilmingu dovanojimo aktu aprūpinta Vilniaus katedra.
+- susijęs iš Vilniaus katedra (sujungti pirminiai pavadinimai Vilniaus katedra; Vilniaus Šv. Stanislovo katedra; Šv. Stanislovo katedra; Šv. Stanislovo b: Pranešime apie Vilniaus gaisrą teigta, kad sudegė Vilniaus katedra ir karaliaus iždas su turtais bei brangenybėmis.
+- susijęs iš [[objektai/zodynas/klebonija.md#claim-t-86473|klebonija]]: Vilniaus katedra buvo aprūpinta pajamomis iš Klodovo klebonijos Gniezno diecezijoje ir kitų valdų.
 ## Reikšmingi paminėjimai
+
+- c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Vytauto kapas. Didžiojo valdovo lavonas buvo laikomas 8 die-
+    nas gimtojoje pilyje; paskui jis buvo pervežtas į Vilnių ir palaidotas
+    katedros rūsyje, po šv. Mykolo Arkangelo altorium.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-009
+
+- c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Mykolo Arkangelo altorium. 1530 m. ka-
+    tedrai sudegus, altorius žuvo. Tada Zigmanto Augusto motina, ka-
+    ralienė Bona, altoriaus vietoje buvo pastačiusi marmurinį paminklą;
+    bet kai 1610 m. apdegė katedra, žuvo ir šis paminklas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-011
+
 - c-003
   santrauka: 'Vilniaus katedros fasado skulptūros, sukurtos 1784–1787 m., žymėjo baroko epochos Lietuvoje pabaigos ribą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -182,7 +292,8 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
+
 - c-004
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -194,7 +305,8 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-020
+    - t-019
+
 - c-005
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -205,7 +317,8 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-006
+
 - c-006
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -218,8 +331,9 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+    - t-017
     - t-018
-    - t-019
+
 - c-007
   santrauka: '1522 m. Vilniaus vyskupas Jonas prie Vilniaus katedros įkūrė penktąją scholastiko prelatūrą Katedros mokyklai išlaikyti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -244,8 +358,9 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
-    - t-014
+    - t-004
+    - t-013
+
 - c-008
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -270,8 +385,9 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-017
-    - t-004
+    - t-016
+    - t-003
+
 - c-009
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -290,8 +406,9 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-008
-    - t-011
+    - t-007
+    - t-010
+
 - c-010
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -309,7 +426,8 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-009
+    - t-008
+
 - c-011
   santrauka: 'Vilniaus katedroje italų meistrai iš brangaus marmuro pastatė Elžbietos ir Barboros antkapius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -331,7 +449,8 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-005
+
 - c-012
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -351,7 +470,8 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
-- c-014
+
+- c-013
   santrauka: 'Vilniaus kapitulos archyve buvo sutartis su Bernardu Zanobijumi dėl Šv. Stanislovo katedros permūrijimo per penkerius metus nuo 1536 m.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -367,8 +487,9 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-015
-- c-015
+    - t-014
+
+- c-014
   santrauka: 'Pranešime apie Vilniaus gaisrą teigta, kad sudegė Vilniaus katedra ir karaliaus iždas su turtais bei brangenybėmis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -405,8 +526,9 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-013
-- c-016
+    - t-012
+
+- c-015
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Italai, čia nuolat dirbdami šešerius metus,
@@ -422,8 +544,9 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-016
-- c-017
+    - t-015
+
+- c-016
   santrauka: 'Stanislovo garbei, iškilmingai pripažinta katedra.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -442,33 +565,7 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-021
-- c-018
-  santrauka: 'Didžiojo valdovo palaikai buvo pervežti į Vilnių ir palaidoti Vilniaus katedros rūsyje po Šv. Mykolo Arkangelo altoriumi.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Vytauto kapas. Didžiojo valdovo lavonas buvo laikomas 8 die-
-    nas gimtojoje pilyje; paskui jis buvo pervežtas į Vilnių ir palaidotas
-    katedros rūsyje, po šv. Mykolo Arkangelo altorium.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-022
-- c-019
-  santrauka: 'Vilniaus katedroje karalienė Bona altoriaus vietoje pastatė marmurinį paminklą, kuris žuvo per 1610 m. katedros gaisrą.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Mykolo Arkangelo altorium. 1530 m. ka-
-    tedrai sudegus, altorius žuvo. Tada Zigmanto Augusto motina, ka-
-    ralienė Bona, altoriaus vietoje buvo pastačiusi marmurinį paminklą;
-    bet kai 1610 m. apdegė katedra, žuvo ir šis paminklas.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-023
+    - t-020
+
+## Ryšiai
+- [[objektai/asmenys/Augustas]] mire Vilniaus katedra

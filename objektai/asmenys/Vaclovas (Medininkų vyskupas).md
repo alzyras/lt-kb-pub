@@ -3,6 +3,10 @@ tipas: asmuo
 pavadinimas: 'Vaclovas (Medininkų vyskupas)'
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+datos:
+  - '1542 m.'
+date_start: '1542'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -10,6 +14,10 @@ tags:
   - kunigaikštis
   - miestas
   - vyskupas
+amziai:
+  - 'XVI'
+periodo_grupes:
+  - 'LDK'
 ---
 # Vaclovas (Medininkų vyskupas)
 
@@ -23,6 +31,11 @@ Dalyvaujant didžiai gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vy
 - t-001
   global_id: t-87481
   teiginys: 'Medininkų vyskupas Vaclovas dalyvavo 1542 m. Vilniuje duoto rašto patvirtinime kartu su kitais dignitoriais ir pareigūnais.'
+  sudarymo_pagrindimas: 'Citata pagrindžia Vaclovo titulą ir dalyvavimą, o pradinis teiginys yra nutrūkęs sąrašas.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_object: [[objektai/zodynas/dignitoriai|dignitoriai]]; mentioned_object: [[objektai/zodynas/maršalka|maršalka]]; mentioned_object: [[objektai/zodynas/stalininkas|stalininkas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Vaclovas|Vaclovas]]; mentioned_place: Alšėnai; mentioned_place: Lietuva; mentioned_place: Luckas; mentioned_place: Medininkai; mentioned_place: Naugardukas; mentioned_place: Polockas; mentioned_place: Vilnius; mentioned_place: Vitebskas'
+  temporaliniai_duomenys: 'įvykio data: 1542 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia Vaclovo titulą ir dalyvavimą, o pradinis teiginys yra nutrūkęs sąrašas.'
   pagrindžia:
     - c-001
 
@@ -53,11 +66,3 @@ Dalyvaujant didžiai gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vy
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Antspaudas]]
-- [[objektai/zodynas/dignitoriai]]
-- [[objektai/zodynas/maršalka]]
-- [[objektai/zodynas/stalininkas]]
-- [[objektai/zodynas/vaivada]]

@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Sovietų kariuomenei įžengus skelbta, kad tai tik sustiprins Lietuvos saugumą ir kad „Lietuvos kariuomenė pasilieka ir toliau“.
+Skelbta, kad sovietų kariuomenės įžengimas siekia tik sustiprinti Lietuvos saugumą ir esminių permainų neįvyko.
 
 ## Teiginiai
 
@@ -20,6 +20,8 @@ Sovietų kariuomenei įžengus skelbta, kad tai tik sustiprins Lietuvos saugumą
 - t-001
   global_id: t-77850
   teiginys: 'Sovietų kariuomenei įžengus skelbta, kad tai tik sustiprins Lietuvos saugumą ir kad „Lietuvos kariuomenė pasilieka ir toliau“.'
+  sudarymo_pagrindimas: 'Reikia sklandesnės vieno sakinio formuluotės, tiksliau perteikiančios citatos turinį.'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

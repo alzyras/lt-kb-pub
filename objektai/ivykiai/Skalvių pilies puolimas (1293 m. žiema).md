@@ -45,6 +45,12 @@ Nenurodyta
 - t-001
   global_id: t-62921
   teiginys: '1293 m. žiemą lietuvių karaliaus kariai puolė Skalvių pilį, nužudė brolį Liudviką Okse, bet pilies neužėmė.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pradinis teiginys fragmentiškas; citata palaiko aiškų puolimo rezultatą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_object: [[objektai/zodynas/ginklanešys|ginklanešys]]; mentioned_person: [[objektai/asmenys/Albrechtas|Albrechtas]]; mentioned_person: [[objektai/asmenys/Albrechtas iš Hageno|Albrechtas iš Hageno]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Barta; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1293 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys fragmentiškas; citata palaiko aiškų puolimo rezultatą.'
   pagrindžia:
     - c-001
     - c-002
@@ -87,13 +93,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Albrechtas]]
-- [[objektai/asmenys/Albrechtas iš Hageno]]
-- [[objektai/asmenys/Konradas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Skalviai]]
-- [[objektai/zodynas/ginklanešys]]
-- [[objektai/zodynas/ginklanešiai]]

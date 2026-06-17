@@ -21,9 +21,16 @@ Vėliau iš šių periferinių sritinių žemių kunigaikščių kilo garsios v�
 - t-001
   global_id: t-20002
   teiginys: 'Sanguškos kilo iš periferinių sritinių žemių kunigaikščių ir tapo viena iš garsių vėlesnių laikų LDK giminių.'
+  sudarymo_pagrindimas: 'Pradinis teiginys mini kelias gimines; perrašyta sutelkiant faktą į Sanguškas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Alšėnų kunigaikščiai|Alšėnų kunigaikščiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Alšėnai; mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-001
-
+- susijęs iš Kovelis: Kovelyje tėvoniją sukūrė iš šalutinės Gediminaičių šakos kilę Sanguškos.
+- susijęs iš Liubomlis: Liubomlis buvo kunigaikščio Teodoro Sanguškos dalis.
+- susijęs iš Slavuta: Slavuta buvo viena iš Voluinės vietovių, kuriose Sanguškos sukūrė savo tėvonijas.
+- susijęs iš Slavuta: Voluinėje Sanguškos sukūrė tėvonijas Kovelyje ir vėliau Slavuta.
+- susijęs iš Toržokas: Toržokas šiame gabale minimas Toržoko kunigaikščio titulo kontekste.
+- susijęs iš Toržokas: Toržokas šiame gabale minimas Toržoko kunigaikščio titulo kontekste.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -46,12 +53,3 @@ Vėliau iš šių periferinių sritinių žemių kunigaikščių kilo garsios v�
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Alšėnų kunigaikščiai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/grupes/Sluckiai]]
-- [[objektai/grupes/Vyšnioveckiai]]
-- [[objektai/grupes/Čartoriskiai]]

@@ -29,6 +29,9 @@ Daugudis, V. Daugudis, V.: Mažulonių piliakalnis , ILKI, t.
 - t-001
   global_id: t-31023
   teiginys: 'V. Daugudis 1961 m. paskelbė darbą apie Mažulonių piliakalnį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vakarų Lietuvos (Jūros) sritis|Vakarų Lietuvos (Jūros) sritis]]; mentioned_place: Lietuva; mentioned_place: Mažoji Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1961 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 
@@ -36,6 +39,9 @@ Daugudis, V. Daugudis, V.: Mažulonių piliakalnis , ILKI, t.
 - t-002
   global_id: t-31024
   teiginys: 'V. Daugudis 1966 m. paskelbė darbą apie grublėtosios keramikos Lietuvoje kilmę ir chronologiją.'
+  susije_objektai: 'mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1966 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -70,7 +76,3 @@ Daugudis, V. Daugudis, V.: Mažulonių piliakalnis , ILKI, t.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Vakarų Lietuvos (Jūros) sritis]]

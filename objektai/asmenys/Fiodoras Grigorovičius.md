@@ -18,6 +18,11 @@ Lietuvos raštininkas Fiodoras Grigorovičius su Stanislovu Strumila Petravičiu
 - t-001
   global_id: t-186201
   teiginys: 'Lietuvos raštininkas Fiodoras Grigorovičius su Stanislovu Strumila Petravičiumi derėjosi su Ivanu dėl skriaudų atlyginimo.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata aiškiai palaiko asmens pareigas ir derybų veiksmą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Taurės|Taurės]]; mentioned_person: [[objektai/asmenys/Fiodoras|Fiodoras]]; mentioned_person: [[objektai/asmenys/Stanislovas|Stanislovas]]; mentioned_place: Brianskas; mentioned_place: Lietuva; mentioned_place: Naugardas; mentioned_place: Severskas; mentioned_place: Seversko žemė; mentioned_place: Smolenskas'
   pagrindžia:
     - c-001
 
@@ -44,8 +49,3 @@ Lietuvos raštininkas Fiodoras Grigorovičius su Stanislovu Strumila Petravičiu
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Rusai]]
-- [[objektai/zodynas/vietininkas]]

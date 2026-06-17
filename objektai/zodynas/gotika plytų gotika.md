@@ -23,6 +23,8 @@ Vertikalios gotikinių bažnyčių linijos ir kylantys į dangų bokštai simbol
 - t-001
   global_id: t-22152
   teiginys: 'XIV a. pabaigoje Lietuvoje pradėjusi rastis gotika Europoje jau turėjo pusantro šimto metų tradiciją ir buvo pasiekusi brandųjį etapą.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai apibūdina gotikos raidą Lietuvoje ir Europoje pagal citatą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/gotika|gotika]]; mentioned_place: Bokštai; mentioned_place: Europa; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -30,6 +32,8 @@ Vertikalios gotikinių bažnyčių linijos ir kylantys į dangų bokštai simbol
 - t-002
   global_id: t-22153
   teiginys: 'Gotikinės architektūros plitimą Lietuvoje pirmiausia paskatino valstybės krikštas ir Vytauto mūrinių bažnyčių statybos programa.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai paremtas citatos turiniu.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/gotika|gotika]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -65,7 +69,3 @@ Vertikalios gotikinių bažnyčių linijos ir kylantys į dangų bokštai simbol
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/gotika]]

@@ -28,6 +28,9 @@ amziai:
 - t-001
   global_id: t-42206
   teiginys: '1945 m. sovietai išsiuntė suimtą asmenį katorgos darbams į Tulos anglių baseino kasyklą.'
+  susije_objektai: 'mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1945 m.; įvykio data: 1946 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

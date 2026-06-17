@@ -4,9 +4,10 @@ pavadinimas: 'Simonas Rapolovskis'
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
-  - '1495 m.'
-date_start: '1495'
-date_end: ''
+  - '1494 m.'
+  - '1496 m.'
+date_start: '1494'
+date_end: '1496'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -31,6 +32,12 @@ O tada, carui sutikus, kad Lietuvos valdovas vestų jo duk­ terį (1495 m.), su
 - t-001
   global_id: t-87852
   teiginys: 'Kunigaikštis Simonas Rapolovskis lydėjo didžiąją kunigaikštytę Eleną, kai ji 1496 m. atvyko iš Maskvos į Vilnių.'
+  sudarymo_pagrindimas: 'Citata pagrindžia Rapolovskio vaidmenį Elenos palydoje.'
+  susije_objektai: 'location: Lietuva; location: Maskva; location: Trakai; location: Vilnius; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Prokopas|Prokopas]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Trakai; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Simonas Rapolovskis|Simonas Rapolovskis]] keliavo į Lietuva; [[objektai/asmenys/Simonas Rapolovskis|Simonas Rapolovskis]] keliavo į Maskva; [[objektai/asmenys/Simonas Rapolovskis|Simonas Rapolovskis]] keliavo į Trakai; [[objektai/asmenys/Simonas Rapolovskis|Simonas Rapolovskis]] keliavo į Vilnius'
+  temporaliniai_duomenys: 'kelionės data: 1494 m.; kelionės data: 1495 m.; kelionės data: 1496 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Simonas Rapolovskis keliavo į Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Simonas Rapolovskis keliavo į Maskva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Simonas Rapolovskis keliavo į Trakai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Simonas Rapolovskis keliavo į Vilnius“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia Rapolovskio vaidmenį Elenos palydoje.'
   pagrindžia:
     - c-001
 
@@ -63,7 +70,7 @@ O tada, carui sutikus, kad Lietuvos valdovas vestų jo duk­ terį (1495 m.), su
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/vaivada]]
-- [[objektai/paprociai/Aleksandro ir Elenos sutikimo, mišrių apeigų santuokos ir vestuvių vaišių ritualas]]
+- Simonas Rapolovskis keliavo_i [[objektai/vietos/Lietuva]]
+- Simonas Rapolovskis keliavo_i [[objektai/vietos/Maskva]]
+- Simonas Rapolovskis keliavo_i [[objektai/vietos/Trakai]]
+- Simonas Rapolovskis keliavo_i [[objektai/vietos/Vilnius]]

@@ -20,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-Naciai Lietuvių konferencija siekė paremti mobilizaciją, o lietuvių veikėjai norėjo išvengti represijų ir išgauti politinių nuolaidų. Patirdama pralaimėjimų Rytų fronte okupacinė valdžia švelnino savo poziciją ir leido lietuviams 1943 m. balandžio 5 d. Kaune sušaukti vadinamąją Lietuvių konferenciją. 1943 m. Lietuvių konferencijos sprendimai rodė dalyvių ir dalies visuomenės orientaciją į Vokietiją bei reikalavo kolaboruoti jos tarnybose.
+Patirdama pralaimėjimų Rytų fronte okupacinė valdžia švelnino savo poziciją ir leido lietuviams 1943 m. balandžio 5 d. Kaune sušaukti vadinamąją Lietuvių konferenciją. Nors konferencijos dalyviai negailėjo aštrios kritikos okupacinei valdžiai, priimti sprendimai atspindėjo jos dalyvių ir dalies Lietuvos visuomenės orientaciją į Vokietiją: juos vykdant reikėjo kolaboruoti su Vokietija jos darbo ir karo tarnybų struktūrose.
 
 ## Laikotarpis ir datos
 
@@ -44,6 +44,8 @@ Nenurodyta
 - t-001
   global_id: t-75127
   teiginys: 'Naciai Lietuvių konferencija siekė paremti mobilizaciją, o lietuvių veikėjai norėjo išvengti represijų ir išgauti politinių nuolaidų.'
+  sudarymo_pagrindimas: 'Pradinis teiginys prasideda neaiškiu įvardžiu, todėl reikia įvardyti konferenciją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Vokietija'
   pagrindžia:
     - c-003
 
@@ -51,6 +53,11 @@ Nenurodyta
 - t-002
   global_id: t-75128
   teiginys: 'Patirdama pralaimėjimų Rytų fronte okupacinė valdžia švelnino savo poziciją ir leido lietuviams 1943 m. balandžio 5 d. Kaune sušaukti vadinamąją Lietuvių konferenciją.'
+  sudarymo_pagrindimas: 'Teiginys yra išsamus faktinis sakinys apie konferencijos sušaukimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos laisvės kovos sąjūdis|Lietuvos laisvės kovos sąjūdis]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_place: Štuthofas'
+  temporaliniai_duomenys: 'įvykio data: 1943 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra išsamus faktinis sakinys apie konferencijos sušaukimą.'
   pagrindžia:
     - c-001
 
@@ -58,6 +65,11 @@ Nenurodyta
 - t-003
   global_id: t-75129
   teiginys: '1943 m. Lietuvių konferencijos sprendimai rodė dalyvių ir dalies visuomenės orientaciją į Vokietiją bei reikalavo kolaboruoti jos tarnybose.'
+  sudarymo_pagrindimas: 'Pradinis teiginys per ilgas; citata leidžia suformuluoti glaustesnį enciklopedinį sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Vokietija'
+  temporaliniai_duomenys: 'įvykio data: 1943 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys per ilgas; citata leidžia suformuluoti glaustesnį enciklopedinį sakinį.'
   pagrindžia:
     - c-002
 
@@ -119,9 +131,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Lietuvos laisvės kovos sąjūdis]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

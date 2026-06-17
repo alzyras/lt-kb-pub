@@ -48,6 +48,11 @@ Nenurodyta
 - t-001
   global_id: t-77923
   teiginys: 'Etninės Lietuvos kaimo mokyklų mokytojams valdžia norėjo išleisti dvikalbius elementorius su rusiškų žodžių vertimais kirilika.'
+  sudarymo_pagrindimas: 'Pradinė formuluotė per ilga ir nutrūkusi, bet citata pagrindžia aiškų faktą apie elementorius.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/kirilika|kirilika]]; mentioned_place: Kaimas; mentioned_place: Lietuva; mentioned_place: Rusija'
+  temporaliniai_duomenys: 'įvykio data: 1864 m.; įvykio data: 1904 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinė formuluotė per ilga ir nutrūkusi, bet citata pagrindžia aiškų faktą apie elementorius.'
   pagrindžia:
     - c-001
 
@@ -72,11 +77,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/zodynas/kirilika]]
-- [[objektai/ivykiai/Lietuvių raštijos tradiciniu raidynu draudimo pradžia]]
-- [[objektai/zodynas/kirilika rusiškas raidynas lotyniškasis raidynas]]

@@ -43,6 +43,8 @@ Nenurodyta
 - t-001
   global_id: t-87303
   teiginys: 'Testatorius prašė karalaitės Onos jo skryniose rastus laiškus sudeginti neskaičius ir neleisti jų skaityti kitiems.'
+  sudarymo_pagrindimas: 'Citata pagrindžia aiškų papročio teiginį; pašalintas fragmentiškumas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/daiktai/Vienaragis (pabūklas)|Vienaragis (pabūklas)]]; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -78,9 +80,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bajorai]]
-- [[objektai/asmenys/Ona Vytautienė]]
-- [[objektai/daiktai/Vienaragis (pabūklas)]]

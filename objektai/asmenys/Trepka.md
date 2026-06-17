@@ -18,6 +18,11 @@ Lenkų bajoras Trepka, mokėjęs italų ir vengrų kalbas, išvyko pranešti Gli
 - t-001
   global_id: t-186168
   teiginys: 'Lenkų bajoras Trepka, mokėjęs italų ir vengrų kalbas, išvyko pranešti Glinskiui karaliaus valią.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_object: [[objektai/zodynas/popiežiaus legatas|popiežiaus legatas]]'
   pagrindžia:
     - c-001
 
@@ -45,10 +50,3 @@ Lenkų bajoras Trepka, mokėjęs italų ir vengrų kalbas, išvyko pranešti Gli
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Vengrai]]
-- [[objektai/zodynas/popiežiaus legatas]]
-- [[objektai/zodynas/žygūnas]]

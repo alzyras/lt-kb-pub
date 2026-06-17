@@ -28,9 +28,13 @@ Kamienieckį, kuris parašė iš Lietuvos XIV-XV amž. visuomeninių-socialinių
 - t-001
   global_id: t-31063
   teiginys: 'W. Kamienieckis parašė kelias studijas apie XIV-XV a. Lietuvos visuomeninius ir socialinius santykius.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Liublinas'
+  temporaliniai_duomenys: 'įvykio data: 1947 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/autoriai/Lenkų istorikai ir Lietuvos istoriografijos tyrėjai.md#claim-t-179525|Lenkų istorikai ir Lietuvos istoriografijos tyrėjai]]: W. Kamienieckis parašė eilę studijų apie Lietuvos XIV-XV a. visuomeninius-socialinius santykius.
+- susijęs iš [[objektai/autoriai/Lenkų istorikai ir Lietuvos istoriografijos tyrėjai.md#claim-t-179527|Lenkų istorikai ir Lietuvos istoriografijos tyrėjai]]: W. Kamienieckis parašė studijų apie XIV-XV a. Lietuvos visuomeninius ir socialinius santykius.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -48,7 +52,3 @@ Kamienieckį, kuris parašė iš Lietuvos XIV-XV amž. visuomeninių-socialinių
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/unija]]

@@ -18,7 +18,7 @@ amziai:
 
 ## Santrauka
 
-Mstislavlio apgulties metu mūšis įvyko prie Sožo intako Vechros, prie kurios stovi Mstislavlis. Komentare nurodoma, kad LDK kariuomenė prie Mstislavlio atžygiavo 1386 m. balandžio 29 d.
+Komentare nurodoma, kad Svetoslavas išžygiavo link Vitebsko ir Oršos 1386 m. kovo 22 d. Komentare nurodoma, kad Svetoslavas apgulė Mstislavlį 1386 m. balandžio 18 d.
 
 ## Laikotarpis ir datos
 
@@ -48,13 +48,23 @@ Nenurodyta
 - t-001
   global_id: t-186725
   teiginys: 'Mstislavlio apgulties metu mūšis įvyko prie Sožo intako Vechros, prie kurios stovi Mstislavlis.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir atitinka citatos informaciją.'
+  susije_objektai: 'event: [[objektai/ivykiai/Mstislavlio apgultis ir mūšis prie Vechros|Mstislavlio apgultis ir mūšis prie Vechros]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_place: Mstislavlis'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]] dalyvavo mūšyje [[objektai/ivykiai/Mstislavlio apgultis ir mūšis prie Vechros|Mstislavlio apgultis ir mūšis prie Vechros]]'
   pagrindžia:
     - c-001
 
 <a id="claim-t-186726"></a>
 - t-002
   global_id: t-186726
-  teiginys: 'Komentare nurodoma, kad LDK kariuomenė prie Mstislavlio atžygiavo 1386 m. balandžio 29 d.'
+  teiginys: 'LDK kariuomenė prie Mstislavlio atžygiavo 1386 m. balandžio 29 d.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pašalinta nereikalinga nuoroda į komentarą, nes citata tiesiogiai pateikia faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_place: Mstislavlis'
+  temporaliniai_duomenys: 'įvykio data: 1386 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalinta nereikalinga nuoroda į komentarą, nes citata tiesiogiai pateikia faktą.'
   pagrindžia:
     - c-001
 
@@ -74,5 +84,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuvos kariuomenė]]
+- [[objektai/grupes/Lietuvos kariuomenė]] dalyvavo_musyje Mstislavlio apgultis ir mūšis prie Vechros (mūšis, XIV a.)

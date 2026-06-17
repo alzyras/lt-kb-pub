@@ -25,7 +25,7 @@ periodo_grupes:
 
 ## Santrauka
 
-1492 m. Aleksandras patvirtino ankstesnius Vilniaus dovanojimus ir suteikė naujų privilegijų, turėjusių pagyvinti prekybą bei pagerinti miestiečių buitį. Aleksandras Jogailaitis garantavo Vilniaus miestiečių laivams su prekėmis laisvą laivybą Vilija nuo Vilniaus iki Kauno ir atgal. Aleksandras siekė užgesinti vaidus su Ivanu Vasiljevičiumi vesdamas jo dukterį Eleną.
+Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi laivyba Vilija, vedė Eleną ir Vilnių pasirinko nuolatiniam gyvenimui. Pasakojime taip pat pabrėžiama jo ligos, 1506 m. Kłecko pergalės žinios ir mirties Žemutinėje Vilniaus pilyje aplinkybės.
 
 ## Variantai
 
@@ -63,6 +63,9 @@ periodo_grupes:
 - t-001
   global_id: t-54935
   teiginys: '1492 m. Aleksandras patvirtino ankstesnius Vilniaus dovanojimus ir suteikė naujų privilegijų, turėjusių pagyvinti prekybą bei pagerinti miestiečių buitį.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/Magdeburgo teisės|Magdeburgo teisės]]; mentioned_object: [[objektai/daiktai/Vaškas|Vaškas]]; mentioned_object: [[objektai/zodynas/Zabójnica|Zabójnica]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Vilija; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1492 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -70,6 +73,11 @@ periodo_grupes:
 - t-002
   global_id: t-54936
   teiginys: 'Aleksandras Jogailaitis garantavo Vilniaus miestiečių laivams su prekėmis laisvą laivybą Vilija nuo Vilniaus iki Kauno ir atgal.'
+  sudarymo_pagrindimas: 'Perrašyta aiškiau įvardijant Aleksandrą Jogailaitį ir pašalinant perteklinę formuluotę.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/Magdeburgo teisės|Magdeburgo teisės]]; mentioned_object: [[objektai/daiktai/Vaškas|Vaškas]]; mentioned_object: [[objektai/zodynas/Zabójnica|Zabójnica]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Vilija; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1492 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Perrašyta aiškiau įvardijant Aleksandrą Jogailaitį ir pašalinant perteklinę formuluotę.'
   pagrindžia:
     - c-001
 
@@ -77,6 +85,9 @@ periodo_grupes:
 - t-003
   global_id: t-54937
   teiginys: 'Aleksandras siekė užgesinti vaidus su Ivanu Vasiljevičiumi vesdamas jo dukterį Eleną.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]; mentioned_place: Maskva; mentioned_place: Taurija; mentioned_place: Trakai; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1494 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-007
 
@@ -84,6 +95,11 @@ periodo_grupes:
 - t-004
   global_id: t-54938
   teiginys: 'Aleksandro ir Elenos santuoka išplėtė Vilniaus prekybinius ryšius su Rusios miestais, o Aleksandras leido statyti Svečių namus rusų pirkliams.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, faktinis ir tiesiogiai atitinka citatos informaciją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Rusų pirkliai|Rusų pirkliai]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Pskovas; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1500 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, faktinis ir tiesiogiai atitinka citatos informaciją.'
   pagrindžia:
     - c-002
 
@@ -91,6 +107,11 @@ periodo_grupes:
 - t-005
   global_id: t-54939
   teiginys: 'Michałas Balińskis vertino, kad Aleksandrui Jogailaičiui stigo ryžto, nors 1501 m. jis buvo išrinktas Lenkijos karaliumi.'
+  sudarymo_pagrindimas: 'Ryžto stoka yra autoriaus vertinimas, todėl pridėta atribucija.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]; mentioned_place: Krymas; mentioned_place: Lenkija; mentioned_place: Perekopas'
+  temporaliniai_duomenys: 'įvykio data: 1501 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Ryžto stoka yra autoriaus vertinimas, todėl pridėta atribucija.'
   pagrindžia:
     - c-003
 
@@ -98,6 +119,7 @@ periodo_grupes:
 - t-006
   global_id: t-54940
   teiginys: 'Aleksandrą Vilniuje kamavo sunki liga ir paralyžius, o gydyti buvo pakviestas Balinskis iš Krokuvos.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/asmenys/Šach Achmedas|Šach Achmedas]]; mentioned_place: Krokuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-004
 
@@ -105,6 +127,12 @@ periodo_grupes:
 - t-007
   global_id: t-54941
   teiginys: 'Aleksandras Jogailaitis mirė Žemutinėje Vilniaus pilyje 1506 m. rugpjūčio 10 d. naktį ir buvo palaidotas koplyčioje prie katedros.'
+  sudarymo_pagrindimas: 'Išplėstas vardas, kad teiginys būtų aiškus be konteksto.'
+  susije_objektai: 'location: Krokuva; location: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Krokuva; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]] mirė Krokuva; [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]] mirė Vilnius'
+  temporaliniai_duomenys: 'mirties data: 1506 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Aleksandras Jogailaitis mirė Krokuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Aleksandras Jogailaitis mirė Vilnius“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Išplėstas vardas, kad teiginys būtų aiškus be konteksto.'
   pagrindžia:
     - c-016
 
@@ -112,6 +140,8 @@ periodo_grupes:
 - t-008
   global_id: t-54942
   teiginys: 'Aleksandras pasirinko Vilnių nuolatiniam gyvenimui ir po vedybų su Elena atgaivino sostinę.'
+  sudarymo_pagrindimas: 'Teiginys gramatiškai užbaigtas ir paremtas citata apie Aleksandro veiksmus Vilniuje.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-005
 
@@ -119,6 +149,8 @@ periodo_grupes:
 - t-009
   global_id: t-82170
   teiginys: 'Ivano Vasiljevičiaus pakurstyta Krymo totorių orda puldinėjo Aleksandro Jogailaičio valdas ir kėlė grėsmę Kijevui.'
+  sudarymo_pagrindimas: 'Sutrumpinta ir aiškiai susieta su Aleksandru Jogailaičiu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]; mentioned_place: Kijevas; mentioned_place: Krymas; mentioned_place: Lenkija; mentioned_place: Maskva; mentioned_place: Perekopas; mentioned_place: Vilnius'
   pagrindžia:
     - c-010
 
@@ -126,6 +158,8 @@ periodo_grupes:
 - t-010
   global_id: t-82171
   teiginys: 'Aleksandras Jogailaitis dovanojo Vilniaus miestiečiui Maksimui Vasiljevičiui šienaujamą pievą prie kelio į Užupį.'
+  sudarymo_pagrindimas: 'Pašalinta dokumento antraštė ir paliktas faktinis veiksmas.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_object: [[objektai/zodynas/indiktas|indiktas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]; mentioned_place: Užupis; mentioned_place: Vilnius'
   pagrindžia:
     - c-006
 
@@ -133,6 +167,8 @@ periodo_grupes:
 - t-011
   global_id: t-82172
   teiginys: 'Dėl silpnos Aleksandro Jogailaičio valdžios Vilniaus miesto administracijoje įsitvirtino netvarka ir kilo kivirčų.'
+  sudarymo_pagrindimas: 'Citata palaiko faktą apie Aleksandro valdžios padarinius.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-017
 
@@ -140,6 +176,11 @@ periodo_grupes:
 - t-012
   global_id: t-82173
   teiginys: 'Aleksandras Jogailaitis siekė užgesinti vaidus su Ivanu Vasiljevičiumi vesdamas jo dukterį Eleną.'
+  sudarymo_pagrindimas: 'Citata aiškiai pagrindžia Aleksandro sprendimą vesti Eleną dėl politinių vaidų.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]; mentioned_place: Maskva; mentioned_place: Taurija; mentioned_place: Trakai; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1494 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata aiškiai pagrindžia Aleksandro sprendimą vesti Eleną dėl politinių vaidų.'
   pagrindžia:
     - c-007
 
@@ -147,6 +188,8 @@ periodo_grupes:
 - t-013
   global_id: t-82174
   teiginys: 'Aleksandras Jogailaitis, būdamas nusilpęs kūnu, bet sveiko proto, nurodė po jo mirties išpildyti paskutinius įsakymus.'
+  sudarymo_pagrindimas: 'Dokumento titulavimas perrašytas į faktą apie asmens veiksmą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_place: Lenkija; mentioned_place: Prūsija'
   pagrindžia:
     - c-019
 
@@ -154,6 +197,8 @@ periodo_grupes:
 - t-014
   global_id: t-82175
   teiginys: 'Aleksandras Jogailaitis buvo suteikęs privilegiją Vilniaus miesto auksakalių cechui.'
+  sudarymo_pagrindimas: 'Nutrūkęs tekstas perrašytas į trumpą, citatos palaikomą faktą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Cechas|Cechas]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Transilvanija; mentioned_place: Vilnius'
   pagrindžia:
     - c-012
 
@@ -161,6 +206,8 @@ periodo_grupes:
 - t-015
   global_id: t-82176
   teiginys: 'Aleksandras Jogailaitis žmonai Elenai iki gyvos galvos dovanojo Mogiliavo pilį prie Dniepro su jos valdomis.'
+  sudarymo_pagrindimas: 'Citata palaiko konkrečią dovanojimo informaciją.'
+  susije_objektai: 'mentioned_object: [[objektai/posakiai/Iki gyvos galvos|Iki gyvos galvos]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Bona|Bona]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Dniepras; mentioned_place: Lenkija; mentioned_place: Mogiliavas; mentioned_place: Vilnius'
   pagrindžia:
     - c-009
 
@@ -168,6 +215,8 @@ periodo_grupes:
 - t-016
   global_id: t-82177
   teiginys: 'Aleksandras Jogailaitis mirė Žemutinėje Vilniaus pilyje 1506 metų rugpjūčio 10-osios naktį.'
+  sudarymo_pagrindimas: 'Pašalintas nutrūkęs fragmentas ir paliktas tik palaikomas faktas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Krokuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-016
 
@@ -175,6 +224,8 @@ periodo_grupes:
 - t-017
   global_id: t-82178
   teiginys: 'Aleksandras Jogailaitis, įkurdinęs dominikonus, negrąžino Vilniaus miestui Vingrių šaltinių.'
+  sudarymo_pagrindimas: 'Perrašyta į konkretesnį, citata paremtą sakinį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/klebonija|klebonija]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Poznanė; mentioned_place: Vilnius'
   pagrindžia:
     - c-018
 
@@ -182,6 +233,8 @@ periodo_grupes:
 - t-018
   global_id: t-82179
   teiginys: 'Aleksandras Jogailaitis rašte titulavosi Lietuvos, Žemaitijos, Rusios ir Kijevo didžiuoju kunigaikščiu.'
+  sudarymo_pagrindimas: 'Pradinis tekstas buvo dokumento formulės fragmentas su OCR triukšmu.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Ivanas|Ivanas]]; mentioned_place: Kijevas; mentioned_place: Mstislavlis'
   pagrindžia:
     - c-013
 
@@ -189,6 +242,8 @@ periodo_grupes:
 - t-019
   global_id: t-82180
   teiginys: 'Aleksandras Jogailaitis pasirinko Vilnių nuolatiniam gyvenimui ir po vedybų su Elena išlaikė prabangų dvarą.'
+  sudarymo_pagrindimas: 'Teiginys perrašytas be OCR triukšmo ir vertinamojo pertekliaus.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-015
 
@@ -196,6 +251,8 @@ periodo_grupes:
 - t-020
   global_id: t-82181
   teiginys: 'Aleksandras Jogailaitis, nusilpęs po ligos, iš Lydos buvo nugabentas į Vilnių, kai prie Lydos artėjo Krymo totoriai.'
+  sudarymo_pagrindimas: 'Įvesties teiginys apie kitą asmenį, bet citata palaiko faktą apie Aleksandrą Jogailaitį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Krymo totoriai|Krymo totoriai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/daiktai/Aleksandro lektika|Aleksandro lektika]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/bojarinai|bojarinai]]; mentioned_object: [[objektai/zodynas/kustodas|kustodas]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_person: [[objektai/asmenys/Kiška|Kiška]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Krokuva; mentioned_place: Krymas; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Vilnius'
   pagrindžia:
     - c-011
 
@@ -203,6 +260,11 @@ periodo_grupes:
 - t-021
   global_id: t-82182
   teiginys: 'Žinia apie 1506 m. rugpjūtį pasiektą Lietuvos pergalę prie Klecko Aleksandrą Jogailaitį pasiekė Vilniuje.'
+  sudarymo_pagrindimas: 'Pašalintas neaiškus įvardis ir kontekstinis fragmentas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Karšinčius|Karšinčius]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Krymas; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1506 m.; įvykio data: apie 1506 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas neaiškus įvardis ir kontekstinis fragmentas.'
   pagrindžia:
     - c-014
 
@@ -210,6 +272,11 @@ periodo_grupes:
 - t-022
   global_id: t-82183
   teiginys: 'Aleksandras Jogailaitis suteikė Vilniui teisę laikyti vaško dirbtuvę ir rūpinosi laisva laivyba Vilija.'
+  sudarymo_pagrindimas: 'Citata palaiko konkretesnius Aleksandro veiksmus.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/Magdeburgo teisės|Magdeburgo teisės]]; mentioned_object: [[objektai/daiktai/Vaškas|Vaškas]]; mentioned_object: [[objektai/zodynas/Zabójnica|Zabójnica]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_place: Kaunas; mentioned_place: Vilija; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1492 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko konkretesnius Aleksandro veiksmus.'
   pagrindžia:
     - c-008
 
@@ -217,6 +284,11 @@ periodo_grupes:
 - t-023
   global_id: t-184657
   teiginys: 'Kazimieras prieš mirtį prašė lietuvių paskelbti Aleksandrą Jogailaitį Lietuvos valdovu.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata geriau palaiko reikšmingesnį faktą apie Aleksandro paskyrimą valdovu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/įpėdinis|įpėdinis]]; mentioned_person: [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)|Jokūbas (vėliau Urbonas IV)]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-020
 
@@ -224,6 +296,10 @@ periodo_grupes:
 - t-024
   global_id: t-184658
   teiginys: 'Kojelavičius Aleksandrą Jogailaitį vaizduoja kaip jaunuolį, turėjusį valdovui deramų savybių.'
+  teiginio_tipas: 'saltinio_teiginys'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Tai autoriaus vertinimas, todėl reikia aiškios šaltinio atribucijos.'
   pagrindžia:
     - c-021
 
@@ -231,6 +307,11 @@ periodo_grupes:
 - t-025
   global_id: t-184659
   teiginys: 'Aleksandras Jogailaitis iš Vilniaus seimo buvo palydėtas į Šv. Stanislovo katedrą ir pasodintas į tėvo sostą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir užterštas OCR fragmentais.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-022
 
@@ -238,6 +319,11 @@ periodo_grupes:
 - t-026
   global_id: t-184660
   teiginys: 'Aleksandras Jogailaitis apie pralaimėjimą sužinojo prie Bobro upės ir įrengė karo stovyklą Obolcuose.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata palaiko aiškų faktą, tik reikia pataisyti kalbą ir sutrumpinti.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/vergas|vergas]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]'
   pagrindžia:
     - c-023
 
@@ -245,6 +331,11 @@ periodo_grupes:
 - t-027
   global_id: t-184661
   teiginys: 'Glinskio raginimų paveiktas Aleksandras Jogailaitis pasmerkė mirčiai kelis žymius Lietuvos didikus.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis teiginys turi daug OCR triukšmo ir nutrūkusių vardų.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Zaberezinskis|Zaberezinskis]]; mentioned_place: Lietuva; mentioned_place: Polockas'
   pagrindžia:
     - c-024
 
@@ -252,9 +343,86 @@ periodo_grupes:
 - t-028
   global_id: t-184662
   teiginys: 'Aleksandras Jogailaitis Šich Achmetą pasitiko už penkių mylių ir priėmė su didele pagarba.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Sakinys aiškus, gramatiškas ir paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_place: Radomas; mentioned_place: Vilnius'
   pagrindžia:
     - c-025
-
+- susijęs iš Vingrių šaltiniai upokšnis (sujungti pirminiai pavadinimai Vingrių šaltiniai; Vingrių upokšnis; Vingrių šaltinis): Vingrių šaltinių vandenys kadaise priklausė Vilniaus miestui, bet vėliau tapo Švč. Trejybės klebonijos nuosavybe.
+- susijęs iš Vingrių šaltiniai: Vingrių šaltinių vandenys kadaise priklausė Vilniaus miestui, bet vėliau tapo Švč. Trejybės klebonijos nuosavybe.
+- susijęs iš [[objektai/asmenys/Aleksandras (Riazanės kunigaikštis).md#claim-t-87903|Aleksandras (Riazanės kunigaikštis)]]: Riazanės kunigaikštis Aleksandras laidavo karaliui už savo žentą Kaributą.
+- susijęs iš [[objektai/asmenys/Aleksandras Vygantas.md#claim-t-87423|Aleksandras Vygantas]]: Aleksandras Vygantas, Kernavės ir Krėvos kunigaikštis, tuo metu dažniausiai gyvendavo Vilniuje.
+- susijęs iš [[objektai/asmenys/Jonas Gornostajus.md#claim-t-186047|Jonas Gornostajus]]: Karalius pavedė Jonui Gornostajui, Lietuvos raštininkui, kartu su kitais pasiuntiniais vykti pas Vasilijų į Maskvą.
+- susijęs iš [[objektai/asmenys/Kazimieras Karigaila.md#claim-t-173193|Kazimieras Karigaila]]: Kazimieras Karigaila buvo palaidotas katedroje, o šalia jo iškilmingai palaidotas Aleksandras Vygantas.
+- susijęs iš [[objektai/asmenys/Maksimas Vasiljevičius.md#claim-t-87769|Maksimas Vasiljevičius]]: Didysis kunigaikštis Aleksandras dovanojo Vilniaus miestiečiui Maksimui Vasiljevičiui šienaujamą pievą už Vilnelės.
+- susijęs iš [[objektai/asmenys/Petras Kiška, Bogušas Bogovitinas ir Stanislovas Daugirdas.md#claim-t-186156|Petras Kiška, Bogušas Bogovitinas ir Stanislovas Daugirdas]]: Karalius pavedė Petrui Kiškai, Bogušui Bogovitinui ir Jonui Gornostajui vykti į Maskvą kaip pasiuntiniams pas Vasilijų.
+- susijęs iš [[objektai/daiktai/Bernardinų bažnyčios pamatai, perstatymas ir karaliaus malūnas.md#claim-t-87023|Bernardinų bažnyčios pamatai, perstatymas ir karaliaus malūnas]]: 1500 m. karalius Aleksandras įsakė nugriauti prie bernardinų vienuolyno buvusį savo malūną, nes jo drebėjimas judino pastatų pamatus.
+- susijęs iš [[objektai/grupes/Radvilų giminė.md#claim-t-172765|Radvilų giminė]]: 1493 m. Aleksandro Jogailaičio dovanojimo akto originalas buvo Radvilų archyve Kardinalijoje.
+- susijęs iš [[objektai/grupes/Vilniaus kapitula.md#claim-t-176088|Vilniaus kapitula]]: Vytautas dosniai dalijo vis didesnes dovanas Vilniaus vyskupui ir Vilniaus kapitulai.
+- susijęs iš [[objektai/grupes/Vilniaus kapitula.md#claim-t-176094|Vilniaus kapitula]]: Vilniaus kapitulos archyve buvo išlikusios keturios Vytauto privilegijos.
+- susijęs iš [[objektai/grupes/Vilniaus kapitula.md#claim-t-176103|Vilniaus kapitula]]: Vilniaus kapitulos archyve buvo išlikusios keturios privilegijos, liudijusios didžiojo kunigaikščio dovanas vyskupui ir kapitulai.
+- susijęs iš [[objektai/ivykiai/Aleksandro žygis Braclavo link Moldavijos kampanijoje.md#claim-t-186651|Aleksandro žygis Braclavo link Moldavijos kampanijoje]]: Lietuvos metraštis pasakoja, kad Parčevo seime Aleksandras ir Olbrachtas slapta sutarė pulti Moldaviją iš dviejų krypčių.
+- susijęs iš [[objektai/ivykiai/Braclavo atstatymas ir lietuvių pergalė prieš totorius stepėje.md#claim-t-186661|Braclavo atstatymas ir lietuvių pergalė prieš totorius stepėje]]: Lietuvos metraštis pasakoja, kad tuo metu stepėje, dvylika mylių nuo Braclavo, lietuviai sumušė kelis šimtus totorių.
+- susijęs iš [[objektai/ivykiai/Braclavo atstatymas ir lietuvių pergalė prieš totorius stepėje.md#claim-t-186662|Braclavo atstatymas ir lietuvių pergalė prieš totorius stepėje]]: Lietuvos metraščio pasakojime visi iš Braclavo į Moldaviją išvaryti žmonės sugrįžo į Braclavą po miesto atstatymo.
+- susijęs iš [[objektai/ivykiai/Braclavo atstatymas ir lietuvių pergalė prieš totorius stepėje.md#claim-t-186663|Braclavo atstatymas ir lietuvių pergalė prieš totorius stepėje]]: Lietuvos metraštis Aleksandrą vadina didžiuoju kunigaikščiu ir pasakoja, kad jis nemažai laiko praleido Braclave bei atstatė miestą.
+- susijęs iš [[objektai/ivykiai/Elenos atgabenimas į Lietuvą ir Aleksandro vestuvės Vilniuje.md#claim-t-186644|Elenos atgabenimas į Lietuvą ir Aleksandro vestuvės Vilniuje]]: Vilniuje įvyko iškilmingos Aleksandro ir Elenos vestuvės, trukusios kelias savaites.
+- susijęs iš [[objektai/ivykiai/Elenos atgabenimas į Lietuvą ir Aleksandro vestuvės Vilniuje.md#claim-t-186645|Elenos atgabenimas į Lietuvą ir Aleksandro vestuvės Vilniuje]]: Po Aleksandro ir Elenos vestuvių Vilniuje Maskvos pasiuntiniai buvo pagerbti, gausiai apdovanoti ir išleisti atgal.
+- susijęs iš [[objektai/ivykiai/Elenos atgabenimas į Lietuvą ir Aleksandro vestuvės Vilniuje.md#claim-t-186646|Elenos atgabenimas į Lietuvą ir Aleksandro vestuvės Vilniuje]]: Aleksandro pasiuntiniai parvežė Eleną į Lietuvą kartu su jos tėvo Ivano Vasiljevičiaus atsiųstais Maskvos pasiuntiniais.
+- susijęs iš [[objektai/ivykiai/Elenos atgabenimas į Lietuvą ir Aleksandro vestuvės Vilniuje.md#claim-t-186647|Elenos atgabenimas į Lietuvą ir Aleksandro vestuvės Vilniuje]]: Elena buvo atgabenta į Vilnių dvi savaitės prieš Užgavėnes.
+- susijęs iš [[objektai/ivykiai/Parčevo seimas.md#claim-t-186648|Parčevo seimas (seimas, XV a.)]]: Prieš Parčevo seimą didysis kunigaikštis Aleksandras su Elena ir didikais apžiūrėjo Rusų žemę, lankėsi Smolenske, Vitebske ir Polocke.
+- susijęs iš [[objektai/ivykiai/Parčevo seimas.md#claim-t-186649|Parčevo seimas (seimas, XV a.)]]: Lenkijos karaliaus Olbrachto ir Lietuvos didžiojo kunigaikščio Aleksandro atstovai per pasitarimą nutarė sušaukti seimą Parčeve.
+- susijęs iš [[objektai/ivykiai/Parčevo seimas.md#claim-t-186650|Parčevo seimas (seimas, XV a.)]]: Lietuvos metraštis pasakoja, kad Parčevo seime priimti sumanymai ir nutarimai liko didelė paslaptis.
+- susijęs iš [[objektai/paprociai/Kunigaikščio iškilmingas laidojimas katedroje ir visuotinis gedulas.md#claim-t-87276|Kunigaikščio iškilmingas laidojimas katedroje ir visuotinis gedulas]]: Aleksandras Vygantas buvo iškilmingai palaidotas katedroje šalia Karigailos, o jo mirtį lydėjo visuotinis gedulas.
+- susijęs iš [[objektai/paprociai/Vytauto bažnytinių valdų dovanojimas Vilniaus vyskupui ir kapitulai.md#claim-t-87171|Vytauto bažnytinių valdų dovanojimas Vilniaus vyskupui ir kapitulai]]: 1407 m. Vytautas Vilniaus kapitulai mainais už anksčiau dovanotą Jaryničių kaimą atidavė Liubarų kaimą.
+- susijęs iš 1500 m. Aleksandro sprendimas dėl malūno prie Bernardinų vienuolyno: 1500 m. karalius Aleksandras įsakė nugriauti prie bernardinų vienuolyno buvusį malūną ir jo sklypą atidavė vienuolynui.
+- susijęs iš Aleksandro Jogailaičio dovanojimas Maksimui Vasiljevičiui dėl pievos Užupyje (1493 m. sausio 13 d.): 1493 m. Aleksandro Jogailaičio dovanojimo aktas Maksimui Vasiljevičiui buvo surašytas slavų kalba ir puikiai išsilaikęs.
+- susijęs iš Aleksandro Jogailaičio dovanojimas Maksimui Vasiljevičiui dėl pievos Užupyje (1493 m. sausio 13 d.): 1493 m. sausio 13 d. Aleksandras Jogailaitis Vilniuje dovanojo Vilniaus miestiečiui Maksimui Vasiljevičiui šienaujamą pievą Užupyje už Vilnelės.
+- susijęs iš Miechovitos metraščiai: Miechovita savo metraščiuose piktinosi Aleksandro Balinskio gydymu Vilniuje, per kurį karalius Aleksandras vos neužduso garo vonioje.
+- susijęs iš Radvilų archyvas Kardinalijoje: Radvilų archyve Kardinalijoje buvęs 1493 m. aktas buvo surašytas gryna slavų kalba ir puikiai išsilaikęs.
+- susijęs iš Radvilų archyvo dekretų ir laiškų originalai: Radvilų archyvo dekretų ir laiškų originalų faksimilėse pateiktas Aleksandro Jogailaičio dovanojimas Vilniaus miestiečiui Maksimui.
+- susijęs iš Stepono Batoro 1576 m. gruodžio 20 d. laiškas: Stepono Batoro parašo faksimilė paimta iš jo 1576 m. gruodžio 20 d. rašyto laiško.
+- susijęs iš Stepono Batoro privilegija Gabrieliui Bekešui dėl Alantos dvaro: Privilegijoje Bekešui dėl Alantos dvaro buvo Stepono Batoro ir Jono Hlebavičiaus parašai.
+- susijęs iš Vytauto privilegijos Vilniaus kapitulai: 1407 m. Vilniuje rašyta Vytauto privilegija Vilniaus kapitulai Liubarų kaimą suteikė mainais už anksčiau dovanotą Jaryničių kaimą.
+- susijęs iš Bernardinų bažnyčia Vilniuje: 1500 m. Aleksandras įsakė nugriauti prie bernardinų vienuolyno buvusį karaliaus malūną, nes jis drebindamas silpnino bernardinų pastatų pamatus.
+- susijęs iš Bernardinų bažnyčia Vilniuje: Mikalojus Radvila II savo lėšomis naujai pamūrijo bernardinų bažnyčią, vadintą Šv. Pranciškaus ir Bernardo vardu.
+- susijęs iš Bernardinų bažnyčia Vilniuje: 1500 m. karalius Aleksandras įsakė nugriauti prie Bernardinų vienuolyno buvusį malūną, ardžiusį pastatų pamatus.
+- susijęs iš Borisovas: 1500 m. Borisove datuotu sprendimu karalius Aleksandras įsakė nugriauti prie Bernardinų vienuolyno buvusį malūną.
+- susijęs iš Būgas: Būgas žymėjo ribą, už kurios Tarybos ponai ir kariuomenė atsisakė žygiuoti be Aleksandro sumanymo paaiškinimo.
+- susijęs iš Gardinas: 1503 m. Gardine Lietuvos didysis kunigaikštis Aleksandras išleido privilegiją statyti Vilniaus gynybinę mūro sieną.
+- susijęs iš Gardinas: 1503 m. Gardine Lietuvos didysis kunigaikštis Aleksandras išleido privilegiją statyti Vilniaus gynybinę mūro sieną.
+- susijęs iš Kamenecas: Vytautas Švitrigailai buvo perleidęs Kamenecą ir kitas Podolės pilis.
+- susijęs iš Kernavė: Kernavės kunigaikštis Aleksandras Vygandas mėgino išvaryti priešą iš Ritersverderio.
+- susijęs iš Liublinas: Karalius Olbrachtas su broliu karalaičiu Zigmantu išvyko į Liubliną prieš abiejų šalių ponų suvažiavimą Parčeve.
+- susijęs iš Podolė: Vytautas buvo perleidęs Švitrigailai Kamenecą ir kitas Podolės pilis.
+- susijęs iš Podolė: Vytautas Švitrigailai buvo perleidęs Kamenecą ir kitas pilis Podolėje.
+- susijęs iš Rusų žemė: Pasak Lietuvos metraščio, Aleksandras su Elena ir didikais tą žiemą važiavo apžiūrėti Rusų žemės ir lankėsi Smolenske, Vitebske bei Polocke.
+- susijęs iš Rusų žemė: Rusų žemė minima kaip Aleksandro, Elenos ir didikų lankytas regionas su Smolensku, Vitebsku ir Polocku.
+- susijęs iš Rusų žemė: Aleksandras su Elena ir didikais apžiūrėjo Rusų žemę, lankėsi Smolenske, Vitebske ir Polocke, o pavasariop grįžo į Vilnių.
+- susijęs iš Soroka: Lietuvos metraštis pasakoja, kad Aleksandras Parčevo seime slapta sutarė žygiuoti į Moldavijos žemę per Braclavą link Sorokos.
+- susijęs iš Soroka: Soroka minima kaip didžiojo kunigaikščio Aleksandro planuoto žygio į Moldavijos žemę krypties orientyras.
+- susijęs iš Tamovas: Tamovas kronikoje žymi tolimiausią Stepono ir Malkočo karo žygio Lenkijos žemėje ribą prie Krokuvos.
+- susijęs iš Tamovas: Moldavijos vaivada Steponas su Malkoču kariavo Lenkijos žemėje iki Tamovo, esančio už dešimties mylių nuo Krokuvos.
+- susijęs iš Tamovas: Moldavijos vaivada Steponas su Malkoču kariavo Lenkijos žemėje iki Tamovo, esančio už dešimties mylių nuo Krokuvos.
+- susijęs iš Tamovas: Tamovas kronikoje žymi tolimiausią Stepono ir Malkočo karo žygio Lenkijos žemėje ribą prie Krokuvos.
+- susijęs iš Tamovas: Moldavijos vaivada Steponas su Malkoču kariavo Lenkijos žemėje nuo Kameneco per Lvovą iki Tamovo.
+- susijęs iš Užupis: 1493 m. Aleksandras Jogailaitis dovanojo Vilniaus miestiečiui Maksimui Vasiljevičiui pievą Užupyje.
+- susijęs iš Užupis: 1493 m. Aleksandras Jogailaitis dovanojo Vilniaus miestiečiui Maksimui Vasiljevičiui pievą Užupyje.
+- susijęs iš Vaivados malūnas Užupyje: 1493 m. Aleksandro Jogailaičio dovanojimo akte minima pieva ties Vaivados malūnu Užupyje.
+- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Didysis kunigaikštis Aleksandras dovanojo Maksimui Vasiljevičiui šienaujamą pievą už Vilnelės prie kelio į Užupį.
+- susijęs iš Vilniaus pilis pilys (sujungti pirminiai pavadinimai Vilniaus pilis; Vilniaus pilys): Karalius Aleksandras mirė Žemutinėje Vilniaus pilyje 1506 m. rugpjūčio 10 d. naktį.
+- susijęs iš Vilniaus pilis: Karalius Aleksandras mirė Žemutinėje Vilniaus pilyje 1506 m. rugpjūčio 10 d. naktį.
+- susijęs iš Vilnius: Valdant Žygimantui, Vingrių šaltiniai tapo svarbiu Vilniaus saugumo ir patogumo klausimu.
+- susijęs iš Vilnius: 1492 m. karalius Aleksandras patvirtino ankstesnes Vilniaus dovanas ir suteikė naujų privilegijų prekybai bei miestiečių buičiai gerinti.
+- susijęs iš Vilnius: Po Vytauto mirties Švitrigaila atvyko į Vilnių anksčiau, negu mirė valdovas.
+- susijęs iš Vingrių šaltiniai upokšnis (sujungti pirminiai pavadinimai Vingrių šaltiniai; Vingrių upokšnis; Vingrių šaltinis): Vingrių šaltinių vandenys kadaise priklausė Vilniaus miestui, bet vėliau tapo Švč. Trejybės klebonijos nuosavybe.
+- susijęs iš Vingrių šaltiniai: Vingrių šaltinių vandenys kadaise priklausė Vilniaus miestui, bet vėliau tapo Švč. Trejybės klebonijos nuosavybe.
+- susijęs iš [[objektai/zodynas/avangardas.md#claim-t-187541|avangardas]]: Žvalgai Aleksandrui prie Bobro upės pranešė, kad jo kariuomenės avangardas buvo sumuštas ties Vedroša.
+- susijęs iš [[objektai/zodynas/dijokas.md#claim-t-187550|dijokas]]: Maskvos didžiojo kunigaikščio Ivano Vasiljevičiaus pasiuntinių grupėje su Elena į Lietuvą vyko dijokas Vasilijus Kulešinas.
+- susijęs iš [[objektai/zodynas/seimas.md#claim-t-187527|seimas]]: Bychovco kronikos pasakojime karalius Aleksandras Brastos seime nepagrįstai pyko ant didikų dėl Droždžai atiduotos Lydos.
+- susijęs iš [[objektai/zodynas/seimas.md#claim-t-187528|seimas]]: Po Maskvos Didžiosios Kunigaikštystės pralaimėjimo karalius Aleksandras rudenį paskyrė Lenkijos ponams seimą Radome.
+- susijęs iš [[objektai/zodynas/vietininkas.md#claim-t-176256|vietininkas]]: Aleksandras Jogailaitis nurodė, kad Vilniaus vaivados vietininkams nereikia mokėti po grašį nuo krovinio perkėloje ties Vilniumi.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -898,64 +1066,41 @@ periodo_grupes:
     - t-028
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Laivai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/Magdeburgo teisės]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/daiktai/Vaškas]]
-- [[objektai/zodynas/chanas]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/vaivada]]
-- [[objektai/daiktai/Aleksandro lektika]]
-- [[objektai/grupes/Bajorai]]
-- [[objektai/asmenys/Bona]]
-- [[objektai/zodynas/Cechas]]
-- [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/daiktai/Malūnas]]
-- [[objektai/daiktai/Namas]]
-- [[objektai/grupes/Rusų pirkliai]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)]]
-- [[objektai/zodynas/Zabójnica]]
-- [[objektai/zodynas/bojarinai]]
-- [[objektai/zodynas/indiktas]]
-- [[objektai/zodynas/Karšinčius|karšinčius]]
-- [[objektai/zodynas/klebonija]]
-- [[objektai/zodynas/kustodas]]
-- [[objektai/zodynas/luomas]]
-- [[objektai/zodynas/maršalas]]
-- [[objektai/zodynas/ponai]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/seniūnas]]
-- [[objektai/zodynas/vergas]]
-- [[objektai/zodynas/vietininkas]]
-- [[objektai/zodynas/įpėdinis]]
-- [[objektai/ivykiai/Aleksandro žygis Braclavo link Moldavijos kampanijoje]]
-- [[objektai/daiktai/Bernardinų bažnyčios pamatai, perstatymas ir karaliaus malūnas]]
-- [[objektai/ivykiai/Braclavo atstatymas ir lietuvių pergalė prieš totorius stepėje]]
-- [[objektai/ivykiai/Elenos atgabenimas į Lietuvą ir Aleksandro vestuvės Vilniuje]]
-- [[objektai/asmenys/Jonas Gornostajus]]
-- [[objektai/paprociai/Kunigaikščio iškilmingas laidojimas katedroje ir visuotinis gedulas]]
-- [[objektai/ivykiai/Parčevo seimas|Parčevo seimas (seimas, XV a.)]]
-- [[objektai/asmenys/Petras Kiška, Bogušas Bogovitinas ir Stanislovas Daugirdas]]
-- [[objektai/grupes/Ponų taryba|Ponų taryba (institucija)]]
-- [[objektai/grupes/Radvilų giminė]]
-- [[objektai/grupes/Vilniaus kapitula]]
-- [[objektai/paprociai/Vytauto bažnytinių valdų dovanojimas Vilniaus vyskupui ir kapitulai]]
-- [[objektai/zodynas/avangardas]]
-- [[objektai/zodynas/dijokas]]
-- [[objektai/asmenys/Aleksandras]]
-- [[objektai/posakiai/Iki gyvos galvos]]
-- [[objektai/grupes/Krymo totoriai]]
-- [[objektai/zodynas/dvarionis]]
-- [[objektai/zodynas/dvarionys]]
-- [[objektai/paprociai/Iškilmingas aukšto svečio sutikimas lauke su palapine, kilimu ir garbės vieta]]
-- [[objektai/grupes/Perekopo orda]]
-- [[objektai/paprociai/Rusų pirklių privalomas apsistojimas Svečių namuose, muito mokėjimas ir prisistatymas pilininkui]]
-- [[objektai/paprociai/Vilniaus miestiečių Magdeburgo teisės, prekybos laisvės ir municipalinių pajamų tvarka]]
-- [[objektai/zodynas/svečiai Svečių namai]]
-- [[objektai/asmenys/Šach Achmedas]]
+- Aleksandras Jogailaitis mire [[objektai/vietos/Kernavė]]
+- Aleksandras Jogailaitis mire [[objektai/vietos/Krokuva]]
+- Aleksandras Jogailaitis mire [[objektai/vietos/Krėva]]
+- Aleksandras Jogailaitis mire [[objektai/vietos/Lietuva]]
+- Aleksandras Jogailaitis mire [[objektai/vietos/Vilnius]]
+- Aleksandras Jogailaitis kariavo_pries [[objektai/asmenys/Aleksandras]]
+- Aleksandras Jogailaitis kariavo_pries [[objektai/asmenys/Steponas]]
+- Aleksandras Jogailaitis buvo_valdovas [[objektai/vietos/Bobruiskas]]
+- Aleksandras Jogailaitis buvo_valdovas [[objektai/vietos/Borisovas]]
+- Aleksandras Jogailaitis buvo_valdovas [[objektai/vietos/Braclavas]]
+- Aleksandras Jogailaitis buvo_valdovas [[objektai/vietos/Brasta]]
+- Aleksandras Jogailaitis buvo_valdovas [[objektai/vietos/Kaunas]]
+- Aleksandras Jogailaitis buvo_valdovas [[objektai/vietos/Krokuva]]
+- Aleksandras Jogailaitis buvo_valdovas [[objektai/vietos/Krymas]]
+- Aleksandras Jogailaitis buvo_valdovas [[objektai/vietos/Lenkija]]
+- Aleksandras Jogailaitis buvo_valdovas [[objektai/vietos/Lietuva]]
+- Aleksandras Jogailaitis buvo_valdovas [[objektai/vietos/Luckas]]
+- Aleksandras Jogailaitis buvo_valdovas [[objektai/vietos/Maskva]]
+- Aleksandras Jogailaitis buvo_valdovas [[objektai/vietos/Moldavija]]
+- Aleksandras Jogailaitis buvo_valdovas [[objektai/vietos/Naugardukas]]
+- Aleksandras Jogailaitis buvo_valdovas [[objektai/vietos/Parčevas]]
+- Aleksandras Jogailaitis buvo_valdovas [[objektai/vietos/Perekopas]]
+- Aleksandras Jogailaitis buvo_valdovas [[objektai/vietos/Podolė]]
+- Aleksandras Jogailaitis buvo_valdovas [[objektai/vietos/Polockas]]
+- Aleksandras Jogailaitis buvo_valdovas [[objektai/vietos/Pripetė]]
+- Aleksandras Jogailaitis buvo_valdovas [[objektai/vietos/Prūsija]]
+- Aleksandras Jogailaitis buvo_valdovas [[objektai/vietos/Radomas]]
+- Aleksandras Jogailaitis buvo_valdovas [[objektai/vietos/Ritersverderis]]
+- Aleksandras Jogailaitis buvo_valdovas [[objektai/vietos/Sluckas]]
+- Aleksandras Jogailaitis buvo_valdovas [[objektai/vietos/Užupis]]
+- Aleksandras Jogailaitis buvo_valdovas [[objektai/vietos/Vakarų Prūsija]]
+- Aleksandras Jogailaitis buvo_valdovas [[objektai/vietos/Varmė]]
+- Aleksandras Jogailaitis buvo_valdovas [[objektai/vietos/Vilija]]
+- Aleksandras Jogailaitis buvo_valdovas [[objektai/vietos/Vilnelė]]
+- Aleksandras Jogailaitis buvo_valdovas [[objektai/vietos/Vilnius]]
+- Aleksandras Jogailaitis buvo_valdovas [[objektai/vietos/Vitebskas]]
+- [[objektai/vietos/Vingrių šaltiniai]] priklause Aleksandras Jogailaitis
+- [[objektai/vietos/Vingrių šaltiniai upokšnis (sujungti pirminiai pavadinimai Vingrių šaltiniai; Vingrių upokšnis; Vingrių šaltinis)]] priklause Aleksandras Jogailaitis

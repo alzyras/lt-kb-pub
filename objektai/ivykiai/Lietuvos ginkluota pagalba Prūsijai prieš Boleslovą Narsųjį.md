@@ -30,6 +30,11 @@ Nenurodyta
 - t-001
   global_id: t-185815
   teiginys: 'Speros valdymo metais lietuviai kelis kartus siuntė ginkluotą pagalbą Prūsijai, kai ją puldinėjo Lenkijos karalius Boleslovas Narsusis.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pašalintas autorinis boilerplate ir OCR klaida, sakinys sukonkretintas pagal citatą.'
+  susije_objektai: 'territory: Lenkija; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Boleslovas|Boleslovas]]; mentioned_person: [[objektai/asmenys/Spera|Spera]]; mentioned_person: [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]]; mentioned_place: Lenkija'
   pagrindžia:
     - c-001
 
@@ -53,11 +58,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Boleslovas]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/asmenys/Spera]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Vladislovas Lokietka]]

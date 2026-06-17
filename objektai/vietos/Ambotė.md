@@ -26,9 +26,15 @@ Akivaizdžia Mindaugo karinės jėgos demonstracija yra laikoma tai, kad jis 124
 - t-001
   global_id: t-32045
   teiginys: 'Mindaugas 1244 m. žygyje į Kuršą prie Ambotės buvo atvedęs didelę kariuomenę.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nurodo asmenį, datą, vietą ir veiksmą, o citata jį palaiko.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Europa'
+  temporaliniai_duomenys: 'įvykio data: 1244 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo asmenį, datą, vietą ir veiksmą, o citata jį palaiko.'
   pagrindžia:
     - c-001
-
+- susijęs iš Kuršas: 1244 m. Mindaugas žygyje į Kuršą prie Ambotės atvedė didelę kariuomenę.
+- susijęs iš Kuršas: 1244 m. Mindaugas žygyje į Kuršą prie Ambotės buvo atvedęs didelę kariuomenę.
 ## Reikšmingi paminėjimai
 
 - c-001

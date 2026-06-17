@@ -23,6 +23,8 @@ Ta pačia proga Jogaila, savarankiškai be Jadvygos ir lenkų didikų žinios, i
 - t-001
   global_id: t-35996
   teiginys: 'Jogailos dokumente žodžiai „deržati mi jeho vyše vseje našeje bratije“ reiškė nurodymą Skirgailą laikyti aukščiau visų brolių.'
+  sudarymo_pagrindimas: 'Teiginys susietas su posakiu ir paremtas citatoje pateiktu vertimu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Trakai; mentioned_place: Vilnius; mentioned_place: Vitebskas'
   pagrindžia:
     - c-001
 
@@ -44,9 +46,3 @@ Ta pačia proga Jogaila, savarankiškai be Jadvygos ir lenkų didikų žinios, i
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/asmenys/Skirgaila]]
-- [[objektai/zodynas/kunigaikštija]]

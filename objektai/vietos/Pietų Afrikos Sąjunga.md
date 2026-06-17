@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Pietų Afrikos Sąjunga buvo viena iš krypčių, į kurias per 20 metų vyko apie 30 proc. iš Lietuvos emigravusių žydų. Pietų Afrikos Sąjunga buvo viena iš krypčių, į kurias per 20 metų vyko apie 30 proc. iš Lietuvos emigravusių žydų.
+sudarė žydai, vykę į Palestiną, Pietų Afrikos Sąjungą ir JAV.
 
 ## Teiginiai
 
@@ -20,6 +20,8 @@ Pietų Afrikos Sąjunga buvo viena iš krypčių, į kurias per 20 metų vyko ap
 - t-001
   global_id: t-77144
   teiginys: 'Pietų Afrikos Sąjunga buvo viena iš krypčių, į kurias per 20 metų vyko apie 30 proc. iš Lietuvos emigravusių žydų.'
+  sudarymo_pagrindimas: 'Perrašyta, kad teiginys būtų tiesiogiai apie Pietų Afrikos Sąjungą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Afrika; mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-001
 

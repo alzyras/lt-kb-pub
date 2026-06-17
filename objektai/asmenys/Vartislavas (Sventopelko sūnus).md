@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Vartislavas įstojo į Teutonų ordiną broliu ir Ordinui atidavė jam atitekusią kunigaikštystės dalį.
+Dusburgietis teigia, kad vartislavas įstojo į Teutonų ordiną broliu ir anksčiau minėtosios kunigaikštystės dalį, kuri jam atiteko, atidavė labdarybės tikslais Teutonų ordino broliams Prūsijoje.
 
 ## Teiginiai
 
@@ -21,9 +21,14 @@ Vartislavas įstojo į Teutonų ordiną broliu ir Ordinui atidavė jam atitekusi
 - t-001
   global_id: t-60460
   teiginys: 'Vartislavas įstojo į Teutonų ordiną broliu ir Ordinui atidavė jam atitekusią kunigaikštystės dalį.'
+  sudarymo_pagrindimas: 'Patikslinta, kad Prūsijoje buvo Ordino broliai, o ne paveldėta dalis.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Pomeranija'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Mstivojus.md#claim-t-59898|Mstivojus]]: Sventopelko pirmagimis sūnus Mstivojus anksčiau buvo atiduotas kaip įkaitas.
+- susijęs iš [[objektai/asmenys/Samboras (Sventopelko sūnus).md#claim-t-60061|Samboras (Sventopelko sūnus)]]: Samboras buvo vienas iš keturių Pomeranijos kunigaikščio Sventopelko sūnų.
+- susijęs iš [[objektai/asmenys/Samboras (Sventopelko sūnus).md#claim-t-60063|Samboras (Sventopelko sūnus)]]: Samboras savo kunigaikštystės dalį atidavė broliams, kad jie aprūpintų jį ir jo šeimyną.
+- susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90039|Sventopelkas]]: Sventopelkas, buvęs Pomeranijos kunigaikštis, turėjo keturis sūnus: Mstivojų, Samborą, Vartislavą ir dar vieną sūnų.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -42,11 +47,3 @@ Vartislavas įstojo į Teutonų ordiną broliu ir Ordinui atidavė jam atitekusi
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Teutonai]]
-- [[objektai/asmenys/Mstivojus]]
-- [[objektai/asmenys/Samboras (Sventopelko sūnus)]]
-- [[objektai/asmenys/Sventopelkas]]

@@ -3,10 +3,16 @@ tipas: vieta
 pavadinimas: 'Griniūnai'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+datos:
+  - '1919 m.'
+date_start: '1919'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
+amziai:
+  - 'XX'
 ---
 # Griniūnai
 
@@ -20,9 +26,14 @@ Dešinioji kolona energingu puolimu užėmė plane numatytus Jotvainių, Griniū
 - t-001
   global_id: t-41736
   teiginys: 'Dešinioji kolona energingu puolimu užėmė plane numatytus Jotvainių, Griniūnų ir Katinų kaimus.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Griniūnų užėmimą puolimo metu.'
+  susije_objektai: 'mentioned_place: Katinai'
+  temporaliniai_duomenys: 'įvykio data: 1919 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie Griniūnų užėmimą puolimo metu.'
   pagrindžia:
     - c-001
-
+- susijęs iš Katinai: Dešinioji kolona energingu puolimu užėmė Jotvainių, Griniūnų ir Katinų kaimus.
 ## Reikšmingi paminėjimai
 
 - c-001

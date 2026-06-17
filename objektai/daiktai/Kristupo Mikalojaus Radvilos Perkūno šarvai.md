@@ -3,11 +3,17 @@ tipas: daiktas
 pavadinimas: 'Kristupo Mikalojaus Radvilos Perkūno šarvai'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+datos:
+  - '1579 m.'
+date_start: '1579'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
   - miestas
+amziai:
+  - 'XVI'
 ---
 # Kristupo Mikalojaus Radvilos Perkūno šarvai
 
@@ -41,6 +47,9 @@ Nenurodyta
 - t-001
   global_id: t-40733
   teiginys: 'Kristupo Mikalojaus Radvilos Perkūno šarvai datuojami XVI-XVII a.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_object: [[objektai/daiktai/Šarvai|Šarvai]]; mentioned_place: Lietuva; mentioned_place: Niurnbergas; mentioned_place: Polockas; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1579 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -60,10 +69,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Maskvėnai]]
-- [[objektai/grupes/Radvilos]]
-- [[objektai/zodynas/vaivada]]
-- [[objektai/daiktai/Šarvai]]

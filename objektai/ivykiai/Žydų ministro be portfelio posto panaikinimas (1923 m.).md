@@ -43,6 +43,11 @@ Nenurodyta
 - t-001
   global_id: t-20592
   teiginys: '1923 m. buvo panaikintas žydų ministro be portfelio postas Lietuvos vyriausybėje.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs; citata remia trumpą užbaigtą sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1923 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs; citata remia trumpą užbaigtą sakinį.'
   pagrindžia:
     - c-001
 
@@ -66,10 +71,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/A. Smetona]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Žydai]]
-- [[objektai/posakiai/„teritoriniai patriotai“]]

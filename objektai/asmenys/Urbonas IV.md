@@ -33,6 +33,11 @@ Dusburgietis teigia, kad apie Kristaus kūno šventės įsteigimą 1261 viešpat
 - t-001
   global_id: t-60216
   teiginys: '1261 m. popiežius Urbonas IV įsteigė Kristaus kūno šventę.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Klemensas V|Klemensas V]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]'
+  temporaliniai_duomenys: 'įkūrimo data: 1261 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-002
 
@@ -40,6 +45,11 @@ Dusburgietis teigia, kad apie Kristaus kūno šventės įsteigimą 1261 viešpat
 - t-002
   global_id: t-60217
   teiginys: '1263 m. popiežius Urbonas IV atidavė Sicilijos karalystę Karoliui, Provanso grafui ir Prancūzijos karaliaus broliui.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Urbono IV veiksmą ir paremtas citata.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Manfredas|Manfredas]]; mentioned_place: Prancūzija'
+  temporaliniai_duomenys: 'įvykio data: 1263 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie Urbono IV veiksmą ir paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -47,9 +57,14 @@ Dusburgietis teigia, kad apie Kristaus kūno šventės įsteigimą 1261 viešpat
 - t-004
   global_id: t-184850
   teiginys: 'Urbonas IV buvo išleidęs raštą, kuriuo ragino karalių ir kryžiuočių riterius laikytis taikos.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nurodo Urbono IV veiksmą ir rašto paskirtį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-003
-
+- susijęs iš [[objektai/paprociai/Kristaus kūno šventės šventimas.md#claim-t-62134|Kristaus kūno šventės šventimas]]: 1261 metais popiežius Urbonas IV įsteigė Kristaus kūno šventę.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -121,8 +136,3 @@ Dusburgietis teigia, kad apie Kristaus kūno šventės įsteigimą 1261 viešpat
   statusas: verified
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/paprociai/Kristaus kūno šventės šventimas]]

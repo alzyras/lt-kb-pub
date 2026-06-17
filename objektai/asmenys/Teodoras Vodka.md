@@ -18,9 +18,14 @@ Teodoras Vodka buvo tarp didikų, kurie karaliaus įsakymu su didele pagarba atl
 - t-001
   global_id: t-186260
   teiginys: 'Teodoras Vodka buvo tarp didikų, kurie karaliaus įsakymu su didele pagarba atlydėjo maskvėnų legatą į Liublino seimą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys paremtas citata, bet reikia pašalinti OCR triukšmą ir suformuluoti sakinį apie Teodorą Vodką.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Grigalius (vicekancleris)|Grigalius (vicekancleris)]]; mentioned_person: [[objektai/asmenys/Teodoras|Teodoras]]; mentioned_place: Liublinas'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Petras Semaška.md#claim-t-186247|Petras Semaška]]: Petras Semaška buvo tarp didikų, kurie karaliaus paliepimu atlydėjo maskvėnų legatą į Liubliną.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -41,8 +46,3 @@ Teodoras Vodka buvo tarp didikų, kurie karaliaus įsakymu su didele pagarba atl
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Maskvėnai]]
-- [[objektai/zodynas/seimas]]

@@ -38,6 +38,8 @@ Nenurodyta
 - t-001
   global_id: t-08346
   teiginys: 'Antrasis stabas turėjo varpų vainiką ant galvos.'
+  teiginio_tipas: 'faktas'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Varpai|Varpai]]; mentioned_object: [[objektai/zodynas/globėjas|globėjas]]'
   pagrindžia:
     - c-001
 
@@ -55,8 +57,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Varpai]]
-- [[objektai/zodynas/globėjas]]

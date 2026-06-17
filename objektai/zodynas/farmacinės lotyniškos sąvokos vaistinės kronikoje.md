@@ -20,6 +20,8 @@ Ne mažiau pajamų dydį lėmė vaistininkų nuovoka, ku­ rie be preparata ex o
 - t-001
   global_id: t-86524
   teiginys: 'Vaistininkai, ruošdami preparatus pagal pareigas ir gydydami žmones, didindavo vaistinės pajamas.'
+  sudarymo_pagrindimas: 'Citata palaiko faktą apie vaistininkų pareigas ir pajamas, pašalinus lotynišką bei OCR triukšmą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vaistinės prekės, vaistai ir gydomieji gėrimai|Vaistinės prekės, vaistai ir gydomieji gėrimai]]; mentioned_person: [[objektai/asmenys/Necelas|Necelas]]; mentioned_person: [[objektai/asmenys/Renkielis|Renkielis]]'
   pagrindžia:
     - c-001
 
@@ -47,10 +49,3 @@ Ne mažiau pajamų dydį lėmė vaistininkų nuovoka, ku­ rie be preparata ex o
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Necelas]]
-- [[objektai/asmenys/Renkielis]]
-- [[objektai/daiktai/Vaistinės prekės, vaistai ir gydomieji gėrimai]]
-- [[objektai/paprociai/Vaistininkų gydytojavimas ir vaistinės pajamų didinimas gydymu]]

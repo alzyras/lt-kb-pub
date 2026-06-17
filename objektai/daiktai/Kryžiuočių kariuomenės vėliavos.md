@@ -43,6 +43,8 @@ Nenurodyta
 - t-001
   global_id: t-19544
   teiginys: 'Po Žalgirio mūšio lenkai ir lietuviai pasidalijo Ordino vėliavas kaip karo grobio dalį.'
+  sudarymo_pagrindimas: 'Pradinis sakinys turi gramatinį netikslumą, o citata tiesiogiai remia glaustesnę formuluotę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Žemaitija'
   pagrindžia:
     - c-001
 
@@ -63,10 +65,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/daiktai/Ordino komtūrų barzdos]]
-- [[objektai/ivykiai/Žalgirio mūšis (1410 m.)]]

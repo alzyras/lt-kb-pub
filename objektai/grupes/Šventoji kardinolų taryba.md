@@ -24,6 +24,14 @@ Popiežius Inocentas paskelbė Fridrichą Krokuvos arkivyskupu ir įtraukė jį 
 - t-001
   global_id: t-185463
   teiginys: 'Popiežius Inocentas paskelbė Fridrichą Krokuvos arkivyskupu ir įtraukė jį į Šventąją kardinolų tarybą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas, aiškus ir paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/skitai|skitai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Krokuva; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1488 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas, aiškus ir paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -54,10 +62,3 @@ Popiežius Inocentas paskelbė Fridrichą Krokuvos arkivyskupu ir įtraukė jį 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/zodynas/skitai]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/asmenys/Jonas Olbrachtas]]

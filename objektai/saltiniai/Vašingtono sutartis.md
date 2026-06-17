@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Vašingtono sutarties 5-asis straipsnis garantuoja individualios ar kolektyvinės savigynos teisę užpuolus vieną Aljanso narę. Vašingtono sutarties 5-asis straipsnis numato, kad NATO narės ginkluoto puolimo atveju ateina viena kitai į pagalbą.
+2003 m. kovą pasirašius pakviestųjų kandidačių prisijungimo prie Vašingtono sutarties protokolus, Lietuvos Respublikos Seimui ratifikavus Vašingtono sutartį, 2004 m. kovo 29 d. Lietuva tapo visateise NATO nare. Pagrindinis narystės NATO pranašumas pabrėžiamas Vašingtono sutarties 5-ajame straipsnyje.
 
 ## Teiginiai
 
@@ -23,6 +23,8 @@ Vašingtono sutarties 5-asis straipsnis garantuoja individualios ar kolektyvinė
 - t-001
   global_id: t-75524
   teiginys: 'Vašingtono sutarties 5-asis straipsnis garantuoja individualios ar kolektyvinės savigynos teisę užpuolus vieną Aljanso narę.'
+  sudarymo_pagrindimas: 'Pradinis teiginys per bendras; citata leidžia suformuluoti konkretesnį faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/NATO|NATO]]; mentioned_place: Vašingtonas; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -30,6 +32,8 @@ Vašingtono sutarties 5-asis straipsnis garantuoja individualios ar kolektyvinė
 - t-002
   global_id: t-75526
   teiginys: 'Vašingtono sutarties 5-asis straipsnis numato, kad NATO narės ginkluoto puolimo atveju ateina viena kitai į pagalbą.'
+  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatos informaciją apie Vašingtono sutarties 5 straipsnį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/NATO|NATO]]; mentioned_place: Vašingtonas; mentioned_place: Viena'
   pagrindžia:
     - c-001
 

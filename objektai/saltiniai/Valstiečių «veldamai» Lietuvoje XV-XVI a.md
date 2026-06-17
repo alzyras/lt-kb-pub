@@ -26,6 +26,11 @@ amziai:
 - t-001
   global_id: t-31959
   teiginys: '„Valstiečiai «veldamai» Lietuvoje XV-XVI a.“ išspausdintas AkMD 4 tome 1958 m., p. 113-126.'
+  sudarymo_pagrindimas: 'Citata palaiko tik bibliografinį faktą apie studijos publikavimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Valakai|Valakai]]; mentioned_object: [[objektai/zodynas/Baudžiava|Baudžiava]]; mentioned_object: [[objektai/zodynas/tėvonija|tėvonija]]; mentioned_object: [[objektai/zodynas/vergai|vergai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1958 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko tik bibliografinį faktą apie studijos publikavimą.'
   pagrindžia:
     - c-001
 

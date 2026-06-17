@@ -51,6 +51,11 @@ Nenurodyta
 - t-002
   global_id: t-41312
   teiginys: '1949 m. vasarį partizanų apygardų atstovų suvažiavimas suvienijo antisovietinio pasipriešinimo kovotojus į Lietuvos laisvės kovos sąjūdį.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nusako suvažiavimo rezultatą ir remiasi citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos laisvės kovos sąjūdis|Lietuvos laisvės kovos sąjūdis]]; mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1949 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako suvažiavimo rezultatą ir remiasi citata.'
   pagrindžia:
     - c-002
 
@@ -58,6 +63,9 @@ Nenurodyta
 - t-003
   global_id: t-41313
   teiginys: '1949 m. vasario 16 d. LLKS tarybos patvirtinta deklaracija nubrėžė atkurtos nepriklausomos demokratinės Lietuvos Respublikos raidos gaires.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Lietuvos laisvės kovos sąjūdis|Lietuvos laisvės kovos sąjūdis]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1949 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-003
 
@@ -114,10 +122,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/grupes/Lietuvos laisvės kovos sąjūdis]]
-- [[objektai/grupes/NKVD]]
-- [[objektai/zodynas/karinė teritorinė pasipriešinimo judėjimo struktūra]]

@@ -4,26 +4,22 @@ pavadinimas: 'Simonas Grunau'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos:
-  - '1521 m.'
-  - '1529 m.'
-date_start: '1521'
-date_end: '1529'
+datos: []
+date_start: ''
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - papuošalas
-amziai:
-  - 'XVI'
-periodo_grupes:
-  - 'LDK'
+amziai: []
+periodo_grupes: []
 ---
 # Simonas Grunau
 
 ## Santrauka
 
-Simonas Grunau kronikoje Rikojotą aprašė kaip prūsų dievų kulto centrą su žaliuojančiu ąžuolu ir trimis dievų stabais. XVI a. 3-iajame dešimtmetyje Simonas Grunau Prūsijoje parašė išsamią visos Prūsijos istoriją iki 1529 m. Simono Grunau kronikoje Rikojotas aprašytas kaip prūsų dievų kulto centras su žaliuojančiu ąžuolu, šventykla ir trimis dievų stabais.
+Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė, kur auga žiemą vasarą žaliuojantis ąžuolas, o po juo įsikūrusi prūsų dievų šventykla, papuošta trimis stabais, vaizduojančiais tris prūsų dievus.
 
 ## Teiginiai
 
@@ -31,6 +27,7 @@ Simonas Grunau kronikoje Rikojotą aprašė kaip prūsų dievų kulto centrą su
 - t-001
   global_id: t-64053
   teiginys: 'Simonas Grunau kronikoje Rikojotą aprašė kaip prūsų dievų kulto centrą su žaliuojančiu ąžuolu ir trimis dievų stabais.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/Simono Grunau|Simono Grunau]]; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
 
@@ -38,6 +35,11 @@ Simonas Grunau kronikoje Rikojotą aprašė kaip prūsų dievų kulto centrą su
 - t-002
   global_id: t-64054
   teiginys: 'XVI a. 3-iajame dešimtmetyje Simonas Grunau Prūsijoje parašė išsamią visos Prūsijos istoriją iki 1529 m.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai pagrįstas citata.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/Hartknochas|Hartknochas]]; mentioned_person: [[objektai/autoriai/K. Hartknochas|K. Hartknochas]]; mentioned_place: Prūsija'
+  temporaliniai_duomenys: 'įvykio data: iki 1529 m.; įvykio data: po 1521 m.; įvykio data: 1521 m.; įvykio data: 1529 m.; įvykio data: 1679 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai pagrįstas citata.'
   pagrindžia:
     - c-002
 
@@ -45,9 +47,17 @@ Simonas Grunau kronikoje Rikojotą aprašė kaip prūsų dievų kulto centrą su
 - t-003
   global_id: t-183568
   teiginys: 'Simono Grunau kronikoje Rikojotas aprašytas kaip prūsų dievų kulto centras su žaliuojančiu ąžuolu, šventykla ir trimis dievų stabais.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pirminis teiginys per ilgas; citata leidžia pateikti glaustesnį sakinį apie kronikos aprašymą.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/Simono Grunau|Simono Grunau]]; mentioned_place: Prūsai'
   pagrindžia:
     - c-003
-
+- susijęs iš [[objektai/autoriai/Simono Grunau.md#claim-t-30981|Simono Grunau]]: Simonas Grunau rodyklėje nurodytas kaip kronikininkas.
+- susijęs iš [[objektai/autoriai/Simono Grunau.md#claim-t-30982|Simono Grunau]]: Simonas Grunau paskelbė pagonių rašmenis, kuriuos kiti iki XX a. pradžios nekritiškai kartojo.
+- susijęs iš [[objektai/autoriai/Simono Grunau.md#claim-t-30983|Simono Grunau]]: Simonas Grunau pirmasis įvedė pavadinimą „Criwe-Kirwaito“.
+- susijęs iš Simono Grunau kronika: Simonas Grunau XVI a. 3-iajame dešimtmetyje parašė Prūsijos istoriją, kurioje plačiai rėmėsi Petru iš Dusburgo.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -96,11 +106,3 @@ Simonas Grunau kronikoje Rikojotą aprašė kaip prūsų dievų kulto centrą su
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/papuošalas]]
-
-### Susiję objektai
-- [[objektai/paprociai/Prūsų dievų kultas Rikojote ir kulto tarnų hierarchija]]
-- [[objektai/daiktai/Rikojoto prūsų dievų šventykla ir stabai]]

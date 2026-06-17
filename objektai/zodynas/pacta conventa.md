@@ -10,12 +10,12 @@ date_start: '1573'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XVI'
 tags:
   - bajorija
   - sutartis
   - sąvoka
+amziai:
+  - 'XVI'
 ---
 # pacta conventa
 
@@ -24,16 +24,21 @@ tags:
 Jis turėdavo tik tiek valdžios, kiek bajorija jam duodavo jo išrinkimo metu sudaromąja sutartimi — pacta conventa.
 
 ## Teiginiai
+
 <a id="claim-t-182963"></a>
 - t-001
   global_id: t-182963
   teiginys: 'Pagal pacta conventa karalius turėjo tiek valdžios, kiek bajorija jam suteikdavo išrinkimo metu sudaroma sutartimi.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Įvardis buvo neaiškus; sakinys perrašytas aiškiai susiejant faktą su pacta conventa.'
+  susije_objektai: 'territory: Lenkija; territory: Lietuva; mentioned_group: [[objektai/grupes/Lenkijos bajorija|Lenkijos bajorija]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-
+- susijęs iš [[objektai/paprociai/Elekcinių valdovų pacta conventa priesaikos bajorijai.md#claim-t-54231|Elekcinių valdovų pacta conventa priesaikos bajorijai]]: Nuo 1573 m. pacta conventa vadinti elekcinių valdovų įsipareigojimai LLV bajorijai, kuriems turėjo prisiekti būsimi valdovai ir jų įpėdiniai.
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Pagal pacta conventa karalius turėjo tiek valdžios, kiek bajorija jam suteikdavo išrinkimo metu sudaroma sutartimi.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -46,18 +51,8 @@ Jis turėdavo tik tiek valdžios, kiek bajorija jam duodavo jo išrinkimo metu s
     Tad kai Zigmantas Vaza, o vėliau iš dalies ir jo sūnūs ėmė siekti
     absoliutizmo, tai Lietuvos ir Lenkijos bajorija tam drauge pasi-
     priešino.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkijos bajorija]]
-- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
-- [[objektai/paprociai/Elekcinių valdovų pacta conventa priesaikos bajorijai]]
-- [[objektai/posakiai/Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те liberum veto veto]]
-- [[objektai/posakiai/kardinalinės teisės]]

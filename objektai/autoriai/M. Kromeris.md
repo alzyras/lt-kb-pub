@@ -26,6 +26,14 @@ periodo_grupes:
 - t-001
   global_id: t-186288
   teiginys: '1573 m. M. Kromeris lotynišką Lenkijos aprašymą nusiuntė Vloclaveko vyskupui S. Karnkovskiui.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra konkretus, gramatiškas ir tiksliai paremtas citata.'
+  susije_objektai: 'mentioned_place: Lenkija'
+  temporaliniai_duomenys: 'įvykio data: 1573 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus, gramatiškas ir tiksliai paremtas citata.'
   pagrindžia:
     - c-001
 

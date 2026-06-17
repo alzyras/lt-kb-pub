@@ -22,6 +22,8 @@ Pirmiausia norime, kad minėta Pabaisko parapija turėtų buvusias ribas, kurios
 - t-001
   global_id: t-86236
   teiginys: 'Pabaisko parapijos riba ėjo ties Skočiūnų dvaru, kur Šešulka, dar vadinama Šešuolėle, įteka į Šventąją.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs; citata leidžia suformuluoti aiškų faktą apie ribą ties dvaru.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Antspaudai|Antspaudai]]; mentioned_object: [[objektai/zodynas/fundacija|fundacija]]; mentioned_place: Kertuša; mentioned_place: Šesarka; mentioned_place: Šešulka; mentioned_place: Šešuolė; mentioned_place: Širvinta'
   pagrindžia:
     - c-001
 

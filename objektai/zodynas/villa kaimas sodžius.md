@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Sodžių, tiek ir vieno kiemo nobilio gyvenvietę. Broliai ir ginklanešiai prie Varmės kranto užpuolė aplinkinius kaimus ir juos degino. Broliai ir ginklanešiai prie Varmės kranto užpuolė aplinkinius kaimus ir juos degino.
+Dusburgietis teigia, kad tačiau nenorėdami grįžti tuščiomis rankomis, užpuolė aplinkinius kaimus244, degindami juos ir piešdami. Dusburgietis teigia, kad sodžių, tiek ir vieno kiemo nobilio gyvenvietę.
 
 ## Teiginiai
 
@@ -23,6 +23,8 @@ Sodžių, tiek ir vieno kiemo nobilio gyvenvietę. Broliai ir ginklanešiai prie
 - t-001
   global_id: t-58880
   teiginys: 'Sodžių, tiek ir vieno kiemo nobilio gyvenvietę.'
+  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_place: Aukaimis; mentioned_place: Kaimas; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -30,6 +32,8 @@ Sodžių, tiek ir vieno kiemo nobilio gyvenvietę. Broliai ir ginklanešiai prie
 - t-002
   global_id: t-58881
   teiginys: 'Broliai ir ginklanešiai prie Varmės kranto užpuolė aplinkinius kaimus ir juos degino.'
+  sudarymo_pagrindimas: 'Pradinis teiginys turi neaiškų subjektą, puslapio žymą ir OCR triukšmą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_place: Baiga; mentioned_place: Prūsai; mentioned_place: Varmė'
   pagrindžia:
     - c-002
 
@@ -86,10 +90,3 @@ Sodžių, tiek ir vieno kiemo nobilio gyvenvietę. Broliai ir ginklanešiai prie
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/K. Būga]]
-- [[objektai/daiktai/Laivai]]
-- [[objektai/zodynas/ginklanešiai]]
-- [[objektai/zodynas/magistras]]

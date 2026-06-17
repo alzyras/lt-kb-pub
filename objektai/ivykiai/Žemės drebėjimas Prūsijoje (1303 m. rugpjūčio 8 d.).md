@@ -42,6 +42,12 @@ Nenurodyta
 - t-001
   global_id: t-62549
   teiginys: '1303 m. rugpjūčio 8 d. apie trečią valandą visoje Prūsijoje tris kartus sudrebėjo žemė ir pastatai.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pašalintas boilerplate ir suformuluotas pilnas faktinis sakinys.'
+  susije_objektai: 'mentioned_place: Prūsija'
+  temporaliniai_duomenys: 'pastatymo data: 1303 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas boilerplate ir suformuluotas pilnas faktinis sakinys.'
   pagrindžia:
     - c-001
 

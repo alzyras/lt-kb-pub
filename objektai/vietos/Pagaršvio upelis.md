@@ -26,6 +26,11 @@ Ašmintos km. Pagaršvio upelio šlaite MGB grupė apsupo partizanų bunkerį, k
 - t-001
   global_id: t-38521
   teiginys: '1947 m. liepos 17 d. Ašmintos kaime, Pagaršvio upelio šlaite, MGB grupė apsupo bunkerį su 7 Birutės ir Geležinio Vilko rinktinės partizanais.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Pagaršvio upelio vietą įvykyje.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Birutė|Birutė]]; mentioned_place: Ašminta; mentioned_place: Prienai'
+  temporaliniai_duomenys: 'įvykio data: 1947 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie Pagaršvio upelio vietą įvykyje.'
   pagrindžia:
     - c-001
 

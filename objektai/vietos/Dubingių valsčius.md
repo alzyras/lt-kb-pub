@@ -23,6 +23,8 @@ tags:
 - t-001
   global_id: t-86179
   teiginys: 'Rašelė minima kaip viena iš upių prie Lakajų ežero Dubingių valsčiuje.'
+  sudarymo_pagrindimas: 'Citata tik netiesiogiai sieja vietovę su upių sąrašu, todėl paliktas siauras pagrįstas faktas.'
+  susije_objektai: 'mentioned_place: Dubingiai; mentioned_place: Viena; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

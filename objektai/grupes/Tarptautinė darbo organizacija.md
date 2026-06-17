@@ -3,6 +3,12 @@ tipas: grupe
 pavadinimas: 'Tarptautinė darbo organizacija'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1991 m.'
+  - '1993 m.'
+  - '2004 m.'
+date_start: '1991'
+date_end: '2004'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -10,6 +16,9 @@ tags:
   - mokslininkas
   - sutartis
   - tauta
+amziai:
+  - 'XX'
+  - 'XXI'
 ---
 # Tarptautinė darbo organizacija
 
@@ -23,6 +32,11 @@ tags:
 - t-001
   global_id: t-20037
   teiginys: '1991 m. pabaigoje Lietuva buvo priimta į JT specializuotas įstaigas, tarp jų ir Tarptautinę darbo organizaciją.'
+  sudarymo_pagrindimas: 'Perrašyta, kad teiginys tiesiogiai apibūdintų note objektą ir nebūtų perteklinis.'
+  susije_objektai: 'mentioned_place: Baltija; mentioned_place: Europa; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1991 m.; įvykio data: 1993 m.; įvykio data: 2004 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Perrašyta, kad teiginys tiesiogiai apibūdintų note objektą ir nebūtų perteklinis.'
   pagrindžia:
     - c-001
 
@@ -46,12 +60,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Europos Sąjunga]]
-- [[objektai/grupes/Europos Taryba|Europos Taryba (institucija)]]
-- [[objektai/grupes/Jungtinių Tautų organizacija]]
-- [[objektai/ivykiai/Lietuvos priėmimas į Jungtines Tautas ir Europos Tarybą (1991–1993 m.)]]
-- [[objektai/grupes/UNESCO]]
-- [[objektai/grupes/Šiaurės Atlanto sutarties organizacija (NATO)]]

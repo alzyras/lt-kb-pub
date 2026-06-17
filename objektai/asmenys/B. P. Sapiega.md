@@ -20,9 +20,14 @@ Sapiega ir maršalas A.
 - t-001
   global_id: t-40057
   teiginys: 'Iždininkas B. P. Sapiega pasitraukė kartu su maršalu A. P. Sapiega ir totorių vėliavomis.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Respublikonai|Respublikonai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/daiktai/Vėliavos|Vėliavos]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/J. P. Sapiega.md#claim-t-53890|J. P. Sapiega]]: Maršalas A. P. Sapiega pasitraukė kartu su B. P. Sapiega ir totorių vėliavomis.
+- susijęs iš [[objektai/asmenys/M. P. Sapiega.md#claim-t-40316|M. P. Sapiega]]: LDK arklidininkas M. P. Sapiega vadovavo mūšio lauke likusiems pėstininkams, dragūnams ir raitarams.
+- susijęs iš [[objektai/asmenys/M. P. Sapiega.md#claim-t-40317|M. P. Sapiega]]: LDK arklidininkas M. P. Sapiega, gavęs Višnioveckių saugumo garantijas, pasidavė respublikonams su likusia kariuomene.
+- susijęs iš [[objektai/grupes/Sapiegų kariuomenė.md#claim-t-78447|Sapiegų kariuomenė]]: M. P. Sapiega pasidavė respublikonams kartu su visa likusia Sapiegų kariuomene.
+- susijęs iš Vilnius: Sapiegų etmonas, pamatęs supamą kariuomenę ir respublikonų užimtą gurguolę, nusprendė trauktis į Vilnių.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -42,12 +47,3 @@ Sapiega ir maršalas A.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bajorai]]
-- [[objektai/grupes/Respublikonai]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/daiktai/Vėliavos]]
-- [[objektai/grupes/Sapiegų kariuomenė]]
-- [[objektai/zodynas/maršalas]]

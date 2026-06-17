@@ -23,6 +23,8 @@ Iškilmingas tos sutarties ratifikavimas (patvir­ tinimas) įvyko tų pačių m
 - t-001
   global_id: t-34248
   teiginys: 'Salyno saloje Nemune spalio 12 d. įvyko iškilmingas sutarties ratifikavimas.'
+  sudarymo_pagrindimas: 'Teiginys papildytas citatoje nurodyta data ir išlaikytas kaip aiškus sakinys.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Livonija; mentioned_place: Nemunas; mentioned_place: Prūsai; mentioned_place: Salynas'
   pagrindžia:
     - c-001
 

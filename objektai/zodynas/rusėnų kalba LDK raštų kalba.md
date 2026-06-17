@@ -14,7 +14,7 @@ tags:
 
 ## Santrauka
 
-Filologų manymu, LDK raštinėse vyravusią raštijos kalbą reikėtų vadinti rusėnų kalba. Vytauto laikais didėjant raštijos poreikiams, lietuvių kalba dar neturėjo raštijos tradicijų. Stačiatikių vienuolynuose rašto išmokę valdovo dvariškiai kūrė valdovo raštinę, kurioje pradėjo formuotis rusėnų kalba.
+Šiose žemėse lietuviai atrado tai, ko neturėjo: bažnytinę sistemą ir raštiją. Vienuolynuose rašoma bulgarų kilmės slavų bažnytine kalba, o LDK raštinėje pradėjo formuotis rusėnų kalba. Pagrindinė Lietuvos metrikos, o ir apskritai LDK rašto kalba buvo rusėnų – LDK stačiatikių (baltarusių ir ukrainiečių protėvių) kalba.
 
 ## Teiginiai
 
@@ -22,6 +22,8 @@ Filologų manymu, LDK raštinėse vyravusią raštijos kalbą reikėtų vadinti 
 - t-001
   global_id: t-169928
   teiginys: 'Filologų manymu, LDK raštinėse vyravusią raštijos kalbą reikėtų vadinti rusėnų kalba.'
+  sudarymo_pagrindimas: 'Teiginys pagrįstai priskiria kalbos pavadinimo vertinimą filologams.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -29,6 +31,7 @@ Filologų manymu, LDK raštinėse vyravusią raštijos kalbą reikėtų vadinti 
 - t-002
   global_id: t-169930
   teiginys: 'Vytauto laikais didėjant raštijos poreikiams, lietuvių kalba dar neturėjo raštijos tradicijų.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_group: [[objektai/grupes/Ukrainiečiai|Ukrainiečiai]]; mentioned_place: Kijevas; mentioned_place: Kijevo Rusia; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 
@@ -36,6 +39,8 @@ Filologų manymu, LDK raštinėse vyravusią raštijos kalbą reikėtų vadinti 
 - t-003
   global_id: t-169931
   teiginys: 'Stačiatikių vienuolynuose rašto išmokę valdovo dvariškiai kūrė valdovo raštinę, kurioje pradėjo formuotis rusėnų kalba.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir sujungia citatoje tiesiogiai pateiktus susijusius faktus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -43,6 +48,8 @@ Filologų manymu, LDK raštinėse vyravusią raštijos kalbą reikėtų vadinti 
 - t-004
   global_id: t-169932
   teiginys: 'Besiformuojanti rusėnų raštija ankstyvojoje Lietuvos istorijoje virto oficialia LDK raštų kalba.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir aiškiai nusako rusėnų raštijos virtimą oficialia LDK raštų kalba.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltarusiai|Baltarusiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_group: [[objektai/grupes/Ukrainiečiai|Ukrainiečiai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Lietuva; mentioned_place: Maskva'
   pagrindžia:
     - c-004
 
@@ -107,16 +114,3 @@ Filologų manymu, LDK raštinėse vyravusią raštijos kalbą reikėtų vadinti 
   statusas: verified
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Baltarusiai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/grupes/Rusėnai]]
-- [[objektai/grupes/Slavai]]
-- [[objektai/grupes/Stačiatikiai]]
-- [[objektai/grupes/Ukrainiečiai]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/paprociai/Rusėnų kalbos vartojimas LDK raštinėse ir raštijoje]]
-- [[objektai/zodynas/rusėnų kalba LDK slavų kanceliarinė kalba]]

@@ -26,6 +26,11 @@ amziai:
 - t-001
   global_id: t-100224
   teiginys: '„Wilhelm de Machaut i jego wiadomości do dziejów Polski i Litwy w XIV w.“ paskelbta KH 43 tome 1929 m., p. 217–228.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiksliai perteikia bibliografinę informaciją.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
+  temporaliniai_duomenys: 'įvykio data: 1929 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir tiksliai perteikia bibliografinę informaciją.'
   pagrindžia:
     - c-001
 

@@ -42,6 +42,8 @@ Nenurodyta
 - t-001
   global_id: t-87076
   teiginys: 'Italų meistrai per šešerius metus Šv. Stanislovo bažnyčioje pastatė marmuro antkapius Elžbietai ir Barborai.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir remiasi citatos informacija apie antkapius.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_person: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Italija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -69,13 +71,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/papuošalas]]
-
-### Susiję objektai
-- [[objektai/asmenys/Barbora Radvilaitė]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/zodynas/kapitula]]
-- [[objektai/asmenys/Elžbieta (Žygimanto Augusto žmona)]]

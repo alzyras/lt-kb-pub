@@ -37,6 +37,9 @@ Nenurodyta
 - t-001
   global_id: t-62892
   teiginys: 'Liudvikas iš Libencelės Pagraudės valsčiuje surengė pasalą ir nukovė visus jį vijusius raitelius, išskyrus šešis.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Citata remia pasalos rezultatą, bet pradinėje formuluotėje neaiškus įvardis ir yra nereikalinga atribucija.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_person: [[objektai/asmenys/Liudvikas iš Libencelės|Liudvikas iš Libencelės]]; mentioned_place: Pagraudė'
   pagrindžia:
     - c-002
     - c-003
@@ -45,6 +48,9 @@ Nenurodyta
 - t-002
   global_id: t-62893
   teiginys: 'Liudviko iš Libencelės karas taip palaužė Pagraudės žmones, kad jie ilgus metus nebesubūrė ankstesnio dydžio raitelių būrio.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Citata remia pasekmę, bet pradinė formuluotė turi boilerplate ir neįvardija veikėjo.'
+  susije_objektai: 'mentioned_place: Pagraudė'
   pagrindžia:
     - c-001
     - c-003
@@ -96,9 +102,3 @@ Nenurodyta
   pagrindžia:
     - t-001
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Liudvikas]]
-- [[objektai/asmenys/Liudvikas iš Libencelės]]
-- [[objektai/ivykiai/Vaikių valsčiaus puolimas ir kilmingųjų žūtis]]

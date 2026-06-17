@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Ordino maršalas Wallenrodas buvo tarp 200 kritusių kryžiuočių riterių.
+Wallenrodas, daug aukštųjų pareigūnų ir komtūrų.
 
 ## Teiginiai
 
@@ -20,6 +20,8 @@ Ordino maršalas Wallenrodas buvo tarp 200 kritusių kryžiuočių riterių.
 - t-001
   global_id: t-29002
   teiginys: 'Ordino maršalas Wallenrodas buvo tarp 200 kritusių kryžiuočių riterių.'
+  sudarymo_pagrindimas: 'Pašalintas inicialo fragmentas, išlaikant citatos paremtą faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]'
   pagrindžia:
     - c-001
 
@@ -39,8 +41,3 @@ Ordino maršalas Wallenrodas buvo tarp 200 kritusių kryžiuočių riterių.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/zodynas/maršalas]]

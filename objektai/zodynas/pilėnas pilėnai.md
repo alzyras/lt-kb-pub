@@ -8,7 +8,6 @@ datos:
   - '1302 m.'
   - '1305 m.'
   - '1313 m.'
-  - '1314 m.'
   - '1322 m.'
 date_start: '1301'
 date_end: '1322'
@@ -26,7 +25,7 @@ amziai:
 
 ## Santrauka
 
-Junigedos pilėnai, įspėti apie artėjančią brolių kariuomenę, ugnimi ir dūmais pranešė kaimyniniams stabmeldžiams. Didysis magistras Anonas pažadėjo gausiai aprūpinti Starkenbergo pilėnus viskuo, kas buvo reikalinga. 1313 m. Junigedos pilėnai užpuolė prie kranto vėjo nublokštą Ragainės komtūro Vernerio karo laivą.
+Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, paprastais ir ketveriniais vežimais bei kitokiais mediniais daiktais užversdami tas pilies ir miesto vietas, pro kurias priešai galėjo įsibrauti. Dusburgietis teigia, kad apie Starkenbergo pilies pastatymą ir daugybės krikščionių žūtį Tuo metu brolis Anonas, Teutonų ordino didysis magistras429, įsakė Prūsijos magistrui bei broliams pastatyti Osos pakrantėje, Kulmo ir Pamedės vyskupysčių pasienyje, pilį, pažadėdamas gausiai. Dusburgietis teigia, kad apie pirmąjį Aukaimio pilies sugriovimą 1302 metais Šio magistro laikais, 1301 viešpaties metais, vienas lietuvis, vardu Draika, Aukaimio pilėnas, didžiai susikrimto, kad šitaip ilgai leidosi klastingojo velnio apgaudinėjamas, ir panoro, išsižadėjęs stabų.
 
 ## Teiginiai
 
@@ -34,6 +33,8 @@ Junigedos pilėnai, įspėti apie artėjančią brolių kariuomenę, ugnimi ir d
 - t-001
   global_id: t-58797
   teiginys: 'Junigedos pilėnai, įspėti apie artėjančią brolių kariuomenę, ugnimi ir dūmais pranešė kaimyniniams stabmeldžiams.'
+  sudarymo_pagrindimas: 'Citata palaiko faktą apie pilėnų veiksmus, pašalinti antraštės ir OCR fragmentai.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_object: [[objektai/zodynas/stabmeldžiai|stabmeldžiai]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]; mentioned_person: [[objektai/asmenys/Ditrichas iš Piremonto|Ditrichas iš Piremonto]]; mentioned_place: Junigeda; mentioned_place: Pilėnai'
   pagrindžia:
     - c-005
 
@@ -41,6 +42,8 @@ Junigedos pilėnai, įspėti apie artėjančią brolių kariuomenę, ugnimi ir d
 - t-002
   global_id: t-58798
   teiginys: 'Didysis magistras Anonas pažadėjo gausiai aprūpinti Starkenbergo pilėnus viskuo, kas buvo reikalinga.'
+  sudarymo_pagrindimas: 'Citata kalba apie aprūpinimą pilėnams, bet ne tiesiogiai apie pilies gynimo reikmenis.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Anonas (didysis magistras)|Anonas (didysis magistras)]]; mentioned_place: Kulmas; mentioned_place: Pamedė; mentioned_place: Pilėnai; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Štarkenbergas'
   pagrindžia:
     - c-002
 
@@ -48,6 +51,11 @@ Junigedos pilėnai, įspėti apie artėjančią brolių kariuomenę, ugnimi ir d
 - t-003
   global_id: t-58799
   teiginys: '1313 m. Junigedos pilėnai užpuolė prie kranto vėjo nublokštą Ragainės komtūro Vernerio karo laivą.'
+  sudarymo_pagrindimas: 'Reikia patikslinti, kad laivas buvo Vernerio pastatydintas karo laivas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Junigeda; mentioned_place: Pilėnai; mentioned_place: Ragainė; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1313 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia patikslinti, kad laivas buvo Vernerio pastatydintas karo laivas.'
   pagrindžia:
     - c-003
 
@@ -55,6 +63,11 @@ Junigedos pilėnai, įspėti apie artėjančią brolių kariuomenę, ugnimi ir d
 - t-004
   global_id: t-58800
   teiginys: '1305 m. Aukaimio pilėnas Svirtilas išdavė pilį Ordino broliams, o vėliau su visa šeimyna priėmė krikštą.'
+  sudarymo_pagrindimas: 'Teiginys perrašytas į aiškų faktą apie pilėną.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/pilėnas|pilėnas]]; mentioned_place: Aukaimis'
+  temporaliniai_duomenys: 'įvykio data: 1305 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys perrašytas į aiškų faktą apie pilėną.'
   pagrindžia:
     - c-001
 
@@ -62,6 +75,11 @@ Junigedos pilėnai, įspėti apie artėjančią brolių kariuomenę, ugnimi ir d
 - t-005
   global_id: t-58802
   teiginys: '1301 m. Aukaimio pilėnas Draika slapta pasiuntė sūnų Piną pas Ragainės komtūrą Folradą prašyti pagalbos.'
+  sudarymo_pagrindimas: 'Teiginys tiksliai nurodo Draikos veiksmą ir prašymo tikslą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_object: [[objektai/zodynas/pilėnas|pilėnas]]; mentioned_person: [[objektai/asmenys/Draika|Draika]]; mentioned_person: [[objektai/asmenys/Folradas|Folradas]]; mentioned_person: [[objektai/asmenys/Pinas|Pinas]]; mentioned_place: Aukaimis; mentioned_place: Ragainė'
+  temporaliniai_duomenys: 'įvykio data: 1301 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys tiksliai nurodo Draikos veiksmą ir prašymo tikslą.'
   pagrindžia:
     - c-004
 
@@ -69,6 +87,11 @@ Junigedos pilėnai, įspėti apie artėjančią brolių kariuomenę, ugnimi ir d
 - t-006
   global_id: t-58803
   teiginys: '1322 m. Pieštvės pilėnai gynė pilies sienas nuo gerai apsišarvavusių maldininkų puolimo.'
+  sudarymo_pagrindimas: 'Pašalintos perteklinės detalės ir paliktas palaikomas faktas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/maldininkai|maldininkai]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_place: Ariogala; mentioned_place: Kulmas; mentioned_place: Pieštvė; mentioned_place: Pilėnai; mentioned_place: Prūsija; mentioned_place: Raseiniai; mentioned_place: Reinas; mentioned_place: Vaikiai; mentioned_place: Vildenbergas; mentioned_place: Vroclavas; mentioned_place: Čekija'
+  temporaliniai_duomenys: 'įvykio data: 1322 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintos perteklinės detalės ir paliktas palaikomas faktas.'
   pagrindžia:
     - c-006
 
@@ -76,6 +99,11 @@ Junigedos pilėnai, įspėti apie artėjančią brolių kariuomenę, ugnimi ir d
 - t-007
   global_id: t-58804
   teiginys: '1314 m. Medininkų valsčiaus Sizditės pilėnai narsiai priešinosi maršalo Henriko kariuomenės puolimui.'
+  sudarymo_pagrindimas: 'Teiginys sutrumpintas iki aiškaus fakto apie pilėnus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_place: Medininkai; mentioned_place: Pilėnai; mentioned_place: Sizditė'
+  temporaliniai_duomenys: 'įvykio data: 1314 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys sutrumpintas iki aiškaus fakto apie pilėnus.'
   pagrindžia:
     - c-008
 
@@ -83,6 +111,8 @@ Junigedos pilėnai, įspėti apie artėjančią brolių kariuomenę, ugnimi ir d
 - t-008
   global_id: t-58805
   teiginys: 'Brunsbergo miestiečiai ir pilėnai gynė pilį bei miestą, užversdami galimas priešo įsibrovimo vietas vežimais ir mediniais daiktais.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Brunsbergo miestiečiai|Brunsbergo miestiečiai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/Ordino brolis|Ordino brolis]]; mentioned_object: [[objektai/daiktai/Vežimai|Vežimai]]; mentioned_place: Brunsbergas; mentioned_place: Pilėnai; mentioned_place: Prūsai; mentioned_place: Varmė'
   pagrindžia:
     - c-007
 
@@ -90,6 +120,14 @@ Junigedos pilėnai, įspėti apie artėjančią brolių kariuomenę, ugnimi ir d
 - t-009
   global_id: t-184015
   teiginys: '1305 m. Aukaimio pilėnas Svirtilas išdavė pilį Ordino broliams, kurie įsiveržę vėl sugriovė pilį iki pamatų.'
+  teiginio_tipas: 'saltinio_teiginys'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys aiškiai perteikia citatos faktą apie Svirtilą ir Aukaimio pilį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/pilėnas|pilėnas]]; mentioned_place: Aukaimis'
+  temporaliniai_duomenys: 'įvykio data: 1305 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai perteikia citatos faktą apie Svirtilą ir Aukaimio pilį.'
   pagrindžia:
     - c-001
 
@@ -97,6 +135,14 @@ Junigedos pilėnai, įspėti apie artėjančią brolių kariuomenę, ugnimi ir d
 - t-010
   global_id: t-184016
   teiginys: '1314 m. Sizditės pilėnai Medininkų valsčiuje narsiai priešinosi maršalo Henriko puolimui.'
+  teiginio_tipas: 'saltinio_teiginys'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pašalintas kontekstinis triukšmas ir išlaikytas citatos faktas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_place: Medininkai; mentioned_place: Pilėnai; mentioned_place: Sizditė'
+  temporaliniai_duomenys: 'įvykio data: 1314 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas kontekstinis triukšmas ir išlaikytas citatos faktas.'
   pagrindžia:
     - c-008
 
@@ -271,32 +317,3 @@ Junigedos pilėnai, įspėti apie artėjančią brolių kariuomenę, ugnimi ir d
   pagrindžia:
     - t-007
     - t-010
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Ditrichas iš Piremonto]]
-- [[objektai/asmenys/Draika]]
-- [[objektai/asmenys/Fridrichas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/Ordino brolis]]
-- [[objektai/asmenys/Pinas]]
-- [[objektai/grupes/Teutonai]]
-- [[objektai/daiktai/Vežimai]]
-- [[objektai/zodynas/ginklanešiai]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/maldininkai]]
-- [[objektai/zodynas/maršalas]]
-- [[objektai/zodynas/netikėliai]]
-- [[objektai/zodynas/stabmeldžiai]]
-- [[objektai/zodynas/vėliava]]
-- [[objektai/asmenys/Anonas (didysis magistras)]]
-- [[objektai/grupes/Brunsbergo miestiečiai]]
-- [[objektai/asmenys/Folradas]]
-- [[objektai/zodynas/didysis magistras]]
-- [[objektai/zodynas/komtūras]]
-- [[objektai/zodynas/pilėnas]]
-- [[objektai/ivykiai/Antrasis Medininkų žygis ir Sizditės pilies puolimas (1314 m. apie vasario 2 d.)]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/ivykiai/Pirmasis Aukaimio pilies sugriovimas (1301 m.)]]
-- [[objektai/zodynas/stabų garbinimas stabmeldystė]]
-- [[objektai/ivykiai/Štarkenbergo pilies statybos metu įvykusios žudynės ir pilies pastatymas]]

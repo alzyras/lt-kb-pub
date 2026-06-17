@@ -10,7 +10,7 @@ atnaujinta: ''
 
 ## Santrauka
 
-Lietuvos metraštis teigia, kad Po Kęstučio suėmimo ir nužudymo Vytautas buvo paimtas į nelaisvę, bet pabėgo pas Prūsų Ordino didįjį magistrą. Lietuvos metraštis pasakoja, kad Kęstutis ir Vytautas patikėjo duotu žodžiu ir nujojo pas Jogailą. Lietuvos metraštis teigia, kad Po duoto žodžio Kęstutis buvo suimtas ir nužudytas, kai su Vytautu nujojo kartu su kunigaikščiu Jogaila.
+Lietuvos metraštis pasakoja, kad Jogaila be Kęstučio žinios užėmė Trakus. Lietuvos metraštis pasakoja, kad Kęstutis atėjo prie Trakų su žemaičiais, o Jogaila jį pasitiko su kariuomene ir Livonijos ponais.
 
 ## Laikotarpis ir datos
 
@@ -35,21 +35,20 @@ Nenurodyta
 <a id="claim-t-186674"></a>
 - t-001
   global_id: t-186674
-  teiginys: 'Lietuvos metraštis teigia, kad Po Kęstučio suėmimo ir nužudymo Vytautas buvo paimtas į nelaisvę, bet pabėgo pas Prūsų Ordino didįjį magistrą.'
-  pagrindžia:
-    - c-001
-
-<a id="claim-t-186675"></a>
-- t-002
-  global_id: t-186675
-  teiginys: 'Lietuvos metraštis pasakoja, kad Kęstutis ir Vytautas patikėjo duotu žodžiu ir nujojo pas Jogailą.'
+  teiginys: 'Lietuvos metraštis pasakoja, kad po Kęstučio nužudymo Vytautas buvo paimtas į nelaisvę, bet pabėgo pas Prūsų Ordino didįjį magistrą.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Taisytina didžioji raidė po „kad“ ir paliekama būtina metraščio atribucija.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
 
 <a id="claim-t-186676"></a>
-- t-003
+- t-002
   global_id: t-186676
-  teiginys: 'Lietuvos metraštis teigia, kad Po duoto žodžio Kęstutis buvo suimtas ir nužudytas, kai su Vytautu nujojo kartu su kunigaikščiu Jogaila.'
+  teiginys: 'Lietuvos metraštis teigia, kad po duoto žodžio Kęstutis buvo suimtas ir nužudytas, kai jis su Vytautu nujojo kartu su Jogaila.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Taisytina didžioji raidė po „kad“ ir sakinys trumpintinas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
 
@@ -72,12 +71,4 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-    - t-003
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/metraštis]]

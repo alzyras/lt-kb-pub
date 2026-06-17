@@ -45,6 +45,11 @@ Nenurodyta
 - t-001
   global_id: t-26406
   teiginys: 'Nuo 1896 m. leistas „Tėvynės sargas“ tapo populiariausiu katalikiškos pakraipos leidiniu.'
+  sudarymo_pagrindimas: 'Teiginys aiškus, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_object: [[objektai/zodynas/rusinimas|rusinimas]]; mentioned_object: [[objektai/zodynas/spiritus movens|spiritus movens]]; mentioned_person: [[objektai/autoriai/Juozas Tumas (Vaižgantas)|Juozas Tumas (Vaižgantas)]]'
+  temporaliniai_duomenys: 'įvykio data: po 1896 m.; įvykio data: 1896 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškus, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -66,11 +71,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/Juozas Tumas (Vaižgantas)]]
-- [[objektai/zodynas/kunigas]]
-- [[objektai/zodynas/rusinimas]]
-- [[objektai/zodynas/spiritus movens]]
-- [[objektai/asmenys/Juozas Tumas-Vaižgantas]]

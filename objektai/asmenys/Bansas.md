@@ -20,6 +20,8 @@ Dusburgietis teigia, kad kai šitai vyko, ir vyrai, ir moterys paskutiniais žod
 - t-001
   global_id: t-60088
   teiginys: 'Bansas norėjo viešai turėti dvi žmonas, o broliams tai uždraudus sukurstė beveik visus prūsus atsimesti nuo krikščionybės.'
+  sudarymo_pagrindimas: 'Pašalinta išnašos žyma ir įvardis pakeistas aiškiu vardu.'
+  susije_objektai: 'mentioned_place: Prūsai'
   pagrindžia:
     - c-002
 
@@ -27,9 +29,11 @@ Dusburgietis teigia, kad kai šitai vyko, ir vyrai, ir moterys paskutiniais žod
 - t-002
   global_id: t-60089
   teiginys: 'Bansas, Pabečių valsčiaus kamerarijus, buvo kaltinamas sukurstęs prūsus atsimesti nuo krikščionybės.'
+  sudarymo_pagrindimas: 'Citata palaiko kaltinimą ir vaidmenį, bet pradinė formuluotė per ilga ir fragmentiška.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Pabečiai; mentioned_place: Pagudė; mentioned_place: Prūsai; mentioned_place: Viena'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Konradas iš Tirbergo Vyresnysis.md#claim-t-89912|Konradas iš Tirbergo Vyresnysis]]: Konradas iš Tirbergo Vyresnysis su broliais įsiveržė į Pagudės žemę, ją nusiaubė, apiplėšė ir išsivarė moteris bei vaikus į nelaisvę.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -67,8 +71,3 @@ Dusburgietis teigia, kad kai šitai vyko, ir vyrai, ir moterys paskutiniais žod
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Konradas]]
-- [[objektai/asmenys/Konradas iš Tirbergo Vyresnysis]]

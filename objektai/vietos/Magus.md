@@ -3,10 +3,18 @@ tipas: vieta
 pavadinimas: 'Magus'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+datos:
+  - '1100 m.'
+  - '1166 m.'
+date_start: '1100'
+date_end: '1166'
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
+amziai:
+  - 'XI'
+  - 'XII'
 ---
 # Magus
 
@@ -20,6 +28,11 @@ Nors vietovardžių lokalizavimas yra sunkus, tačiau tekste ir žemė­ lapyje 
 - t-001
   global_id: t-32331
   teiginys: 'Al-Idrisi tekste ir žemėlapyje minima žemė „Magus“ laikoma lietuvių ir latvių plotais.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus ir tiksliai perteikia citatos informaciją apie Magus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Arabai|Arabai]]; mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Ispanija'
+  temporaliniai_duomenys: 'įvykio data: 1100-1166'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus ir tiksliai perteikia citatos informaciją apie Magus.'
   pagrindžia:
     - c-001
 

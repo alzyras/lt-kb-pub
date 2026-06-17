@@ -43,6 +43,8 @@ Nenurodyta
 - t-001
   global_id: t-87123
   teiginys: 'Bisenės pilies įgula atrėmė vokiečius, nors šie naudojo sunkiuosius ginklus.'
+  sudarymo_pagrindimas: 'Citata remia faktą apie sunkiųjų ginklų naudojimą puolime, bet pradinį sakinį darko puslapio triukšmas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_object: [[objektai/zodynas/įkaitai|įkaitai]]; mentioned_person: [[objektai/asmenys/Vaidila|Vaidila]]; mentioned_place: Bisenė; mentioned_place: Romuva'
   pagrindžia:
     - c-001
 
@@ -71,12 +73,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Vaidila]]
-- [[objektai/zodynas/įkaitai]]
-- [[objektai/daiktai/Ginklai]]
-- [[objektai/zodynas/įgula]]
-- [[objektai/daiktai/Ginklai, skydai, šarvai ir šaudymo reikmenys]]

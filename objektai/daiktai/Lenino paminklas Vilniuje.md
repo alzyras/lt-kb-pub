@@ -46,6 +46,11 @@ Nenurodyta
 - t-001
   global_id: t-24552
   teiginys: '1991 m. rugpjūčio 23 d. Vilniuje pašalintas Lenino paminklas.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys, o data paremta nuotraukos antrašte.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1991 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys, o data paremta nuotraukos antrašte.'
   pagrindžia:
     - c-001
 
@@ -53,9 +58,16 @@ Nenurodyta
 - t-002
   global_id: t-26769
   teiginys: '1991 m. rugpjūčio 23 d. Vilniuje buvo pašalintas Lenino paminklas.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys, o data paremta nuotraukos antrašte.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1991 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys, o data paremta nuotraukos antrašte.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/ivykiai/Lenino paminklo pašalinimas Vilniuje (1991 m. rugpjūčio 23 d.).md#claim-t-24531|Lenino paminklo pašalinimas Vilniuje (1991 m. rugpjūčio 23 d.)]]: Vilniuje buvo pašalintas Lenino paminklas.
+- susijęs iš [[objektai/posakiai/„Baltic Kindergarten“.md#claim-t-20837|„Baltic Kindergarten“]]: Jauni Lietuvos diplomatai dėl jaunumo, entuziazmo ir netradicinių žingsnių užsitarnavo Vakarų diplomatų epitetą „Baltic Kindergarten“.
+- susijęs iš [[objektai/zodynas/Baltic Kindergarten.md#claim-t-21977|Baltic Kindergarten]]: Atkurtos Lietuvos URM jauni diplomatai dėl ambicijų, energijos ir netradicinių žingsnių gavo epitetą „Baltic Kindergarten“.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -76,13 +88,3 @@ Nenurodyta
   pagrindžia:
     - t-001
     - t-002
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/simbolis]]
-
-### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/zodynas/Baltic Kindergarten]]
-- [[objektai/ivykiai/Lenino paminklo pašalinimas Vilniuje (1991 m. rugpjūčio 23 d.)]]
-- [[objektai/posakiai/„Baltic Kindergarten“]]

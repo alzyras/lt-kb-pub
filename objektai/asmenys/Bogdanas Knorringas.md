@@ -20,7 +20,7 @@ periodo_grupes:
 
 ## Santrauka
 
-1794 m. liepos 19 d. Bogdano Knorringo vadovaujamas Rusijos kariuomenės korpusas pasiekė Vilnių.
+Rusijos kariuomenės korpusui, puolusiam Vilnių, vadovavo generolas leitenantas Bogdanas Knorringas. Knorringo vadovaujamas Rusijos kariuomenės korpusas, padalintas į tris kolonas, pasiekė Vilnių.
 
 ## Teiginiai
 
@@ -28,9 +28,13 @@ periodo_grupes:
 - t-001
   global_id: t-40069
   teiginys: '1794 m. liepos 19 d. Bogdano Knorringo vadovaujamas Rusijos kariuomenės korpusas pasiekė Vilnių.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Vilniaus gynyba (1794 m. liepos 19–20 d.)|Vilniaus gynyba (1794 m. liepos 19–20 d.)]]; mentioned_group: [[objektai/grupes/Rusijos kariuomenės korpusas|Rusijos kariuomenės korpusas]]; mentioned_place: Rusija; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1794 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Nikolajus Arsenjevas.md#claim-t-40373|Nikolajus Arsenjevas]]: Sukilėliams puolant miestą, Vilniaus įgulai tiesiogiai vadovavo generolas majoras Nikolajus Arsenjevas.
+- susijęs iš [[objektai/asmenys/Nikolajus Repinas.md#claim-t-40375|Nikolajus Repinas]]: Nikolajus Repinas buvo Rusijos pajėgų, nukreiptų prieš sukilėlius, vyriausiasis vadas.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -51,8 +55,3 @@ periodo_grupes:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/Vilniaus gynyba (1794 m. liepos 19–20 d.)]]
-- [[objektai/grupes/Rusijos kariuomenės korpusas]]

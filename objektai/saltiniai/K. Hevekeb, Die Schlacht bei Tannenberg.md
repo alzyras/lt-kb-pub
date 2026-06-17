@@ -30,6 +30,9 @@ amziai:
 - t-001
   global_id: t-31757
   teiginys: 'K. Hevekebo „Die Schlacht bei Tannenberg“ 1906 m. buvo apginta kaip disertacija Berlyne.'
+  susije_objektai: 'mentioned_place: Berlynas'
+  temporaliniai_duomenys: 'įvykio data: 1906 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

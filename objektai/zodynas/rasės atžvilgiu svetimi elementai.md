@@ -22,6 +22,8 @@ Naciai SSRS ir jos okupuotų kraštų gyventojus laikė atsilikusiomis tautomis,
 - t-001
   global_id: t-22261
   teiginys: 'Naciai manė, kad „rasės atžvilgiu svetimus elementus“ būtina pašalinti.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs; citata tiesiogiai remia trumpesnį sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_object: [[objektai/zodynas/savismauga|savismauga]]; mentioned_place: Lietuva; mentioned_place: SSRS'
   pagrindžia:
     - c-001
 
@@ -46,12 +48,3 @@ Naciai SSRS ir jos okupuotų kraštų gyventojus laikė atsilikusiomis tautomis,
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/ponai]]
-- [[objektai/zodynas/savismauga]]
-- [[objektai/grupes/Žydai]]
-- [[objektai/zodynas/ponų tauta viešpataujanti tauta]]

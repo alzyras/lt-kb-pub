@@ -1,28 +1,19 @@
 ---
 tipas: posakis
-pavadinimas: "O trečių vasarų"
-sukurta: '2026-06-16'
-variantai:
-  - "trečių vasarų"
-aliases: []
+pavadinimas: 'O trečių vasarų'
 saltiniai:
-  - Lietuvos metraštis, Bychovco kronika (1971 m.)
-bukle: juodrastis
-laikotarpis: "1435 m."
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 datos:
-  - "1435 m."
-periodas: ""
-periodo_grupes: []
+  - '1434 m.'
+  - '1435 m.'
+  - '1971 m.'
+date_start: '1434'
+date_end: '1971'
+sukurta: ''
+atnaujinta: ''
 amziai:
-  - "XV"
-date_start: "1435"
-date_end: "1435"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: ""
-atnaujinta: '2026-06-16'
-tags: []
+  - 'XV'
+  - 'XX'
 ---
 # O trečių vasarų
 
@@ -31,27 +22,36 @@ tags: []
 Formulė pateikiama kaip chronologinis šuolis, aiškinamojoje pastaboje susietas su 1435 m.
 
 ## Forma
+
 - Pagrindinė forma: O trečių vasarų
 
 ## Kontekstas ir vartojimas
+
 Ji nurodoma kaip Bychovco kronikos laiko žymuo pereinant prie kito pasakojimo etapo.
 
 ## Reikšmė
+
 Chronikinė datavimo formulė, rodanti trečią vasarą ar trečius metus įvykių sekoje.
 
 ## Teiginiai
+
 <a id="claim-t-186892"></a>
 - t-001
   global_id: t-186892
-  teiginys: 'Šiame leidinyje formulė „O trečių vasarų“ aiškinama kaip nuoroda į 1435 m.'
+  teiginys: 'Formulė „O trečių vasarų“ 1971 m. leidinio pastaboje aiškinama kaip nuoroda į 1435 m.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Reikia glaudesnės sakinio formos be perteklinio įvado.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_person: [[objektai/asmenys/Kerskorfas|Kerskorfas]]; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Upytė'
+  temporaliniai_duomenys: 'įvykio data: 1434 m.; įvykio data: 1435 m.; įvykio data: apie 1435 m.; įvykio data: 1971 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
+  temporalinis_llm_pakomentavimas: 'Reikia glaudesnės sakinio formos be perteklinio įvado.'
   pagrindžia:
     - c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Šiame leidinyje formulė „O trečių vasarų“ aiškinama kaip nuoroda į 1435 m.'
+  santrauka: 'Formulė „O trečių vasarų“ 1971 m. leidinio pastaboje aiškinama kaip nuoroda į 1435 m.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     D'u-
@@ -63,18 +63,8 @@ Chronikinė datavimo formulė, rodanti trečią vasarą ar trečius metus įvyki
     rigailos pajėgomis papildomų im lų nėra.
     ”  „O  trečių vasarų" — kalbama apie 1435 m
     w Geraslmas — iš Maskvos kilęs LDK stačiatikių veikėjos.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Kerskorfas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Stačiatikiai]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/seniūnas]]

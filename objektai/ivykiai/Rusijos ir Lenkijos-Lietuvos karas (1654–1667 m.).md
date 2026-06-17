@@ -50,6 +50,11 @@ Nenurodyta
 - t-001
   global_id: t-41353
   teiginys: '1654 m. Rusija pasiuntė gausią kariuomenę į Lietuvą.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas faktinis sakinys ir remiasi citata.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Tvanas|Tvanas]]; mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Rusijos kariuomenė|Rusijos kariuomenė]]; mentioned_group: [[objektai/grupes/Ukrainiečiai|Ukrainiečiai]]; mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_object: [[objektai/zodynas/hetmonas|hetmonas]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Ašmena; mentioned_place: Kaunas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Trakai; mentioned_place: Ukraina; mentioned_place: Šklovas'
+  temporaliniai_duomenys: 'įvykio data: 1648 m.; įvykio data: 1649 m.; įvykio data: 1651 m.; įvykio data: 1654 m.; įvykio data: 1654-1655; įvykio data: 1655 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas faktinis sakinys ir remiasi citata.'
   pagrindžia:
     - c-002
 
@@ -57,6 +62,11 @@ Nenurodyta
 - t-002
   global_id: t-41354
   teiginys: '1654 m. prasidėjo Rusijos ir Lenkijos-Lietuvos karas.'
+  sudarymo_pagrindimas: 'Teiginys yra trumpas, aiškus ir pagrįstas citata.'
+  susije_objektai: 'mentioned_place: Dorogobužas; mentioned_place: Lietuva; mentioned_place: Rusija'
+  temporaliniai_duomenys: 'įvykio data: 1654 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra trumpas, aiškus ir pagrįstas citata.'
   pagrindžia:
     - c-001
 
@@ -121,17 +131,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kazokai]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Lietuvos kariuomenė]]
-- [[objektai/asmenys/Radvila]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/grupes/Rusijos kariuomenė]]
-- [[objektai/ivykiai/Tvanas]]
-- [[objektai/grupes/Ukrainiečiai]]
-- [[objektai/zodynas/etmonas]]
-- [[objektai/ivykiai/Vilniaus užėmimas (1655 m. rugpjūčio 7 d.)]]

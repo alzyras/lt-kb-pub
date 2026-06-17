@@ -3,12 +3,18 @@ tipas: zodyno_irasas
 pavadinimas: 'agentai smogikai'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1940 m.'
+date_start: '1940'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - ginklas
   - karas
   - sąvoka
+amziai:
+  - 'XX'
 ---
 # agentai smogikai
 
@@ -22,6 +28,7 @@ Tuo laikotarpiu okupacinė valdžia kovai su partizanais vis dažniau naudojo ag
 - t-001
   global_id: t-22044
   teiginys: 'Okupacinė valdžia kovai su partizanais vis dažniau naudojo agentų smogikų būrius, sudarytus iš užverbuotų buvusių partizanų ir MGB karininkų.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai apibrėžia agentų smogikų būrių naudojimą ir sudėtį.'
   pagrindžia:
     - c-001
 
@@ -29,6 +36,8 @@ Tuo laikotarpiu okupacinė valdžia kovai su partizanais vis dažniau naudojo ag
 - t-002
   global_id: t-22045
   teiginys: 'MGB-KGB agentai smogikai naudojo rezistencijos atributiką ir uniformas terorui, rezistentams naikinti bei partizanų ryšininkams ir rėmėjams šaudyti.'
+  sudarymo_pagrindimas: 'Pradinis sakinys per ilgas ir apkrautas, todėl sutrumpintas nekeičiant esmės.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/MGB-KGB agentai smogikai|MGB-KGB agentai smogikai]]; mentioned_place: Sibiras'
   pagrindžia:
     - c-002
 
@@ -36,9 +45,21 @@ Tuo laikotarpiu okupacinė valdžia kovai su partizanais vis dažniau naudojo ag
 - t-003
   global_id: t-22046
   teiginys: 'Daug civilių aukų būta vietovėse, kur veikė sovietų smogikai arba partizanų būriai piktnaudžiavo alkoholiu.'
+  sudarymo_pagrindimas: 'Teiginys yra faktinis ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Lietuva; mentioned_place: SSRS'
+  temporaliniai_duomenys: 'įvykio data: 1940 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra faktinis ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-003
-
+- susijęs iš [[objektai/asmenys/Jonas Žemaitis-Vytautas.md#claim-t-18998|Jonas Žemaitis-Vytautas]]: 1953 m. pavasarį užverbuoti agentai išdavė Joną Žemaitį-Vytautą, o po pusantrų metų tardymų jis buvo sušaudytas Maskvos Butyrkų kalėjime.
+- susijęs iš [[objektai/grupes/Agentai-smogikai.md#claim-t-40845|Agentai-smogikai]]: MGB-KGB agentai-smogikai atliko svarbų vaidmenį galutinai sunaikinant ginkluotą rezistenciją Lietuvoje.
+- susijęs iš [[objektai/grupes/MGB-KGB agentai smogikai.md#claim-t-19936|MGB-KGB agentai smogikai]]: MGB-KGB agentai smogikai terorui ir rezistentų naikinimui naudojo rezistencijos atributiką bei uniformas, kankino pasipriešinimo dalyvius.
+- susijęs iš [[objektai/ivykiai/Sovietinių represinių struktūrų kova su Lietuvos partizanais (1944–1954 m.).md#claim-t-75279|Sovietinių represinių struktūrų kova su Lietuvos partizanais (1944–1954 m.)]]: Dislokuoti visuose valsčiuose jie saugojo sovietinį aktyvą.
+- susijęs iš [[objektai/paprociai/Agentų-smogikų infiltravimo į partizanų gretas ir provokacijų praktika.md#claim-t-67035|Agentų-smogikų infiltravimo į partizanų gretas ir provokacijų praktika]]: MGB-KGB agentai-smogikai suvaidino svarbų vaidmenį galutinai sunaikinant ginkluotą rezistenciją Lietuvoje.
+- susijęs iš Maskvos Butyrkų kalėjimas: J. Žemaitis-Vytautas po pusantrų metų tardymų buvo sušaudytas Maskvos Butyrkų kalėjime.
+- susijęs iš Sibiras: Represinės institucijos trėmė į Sibirą ginkluoto pasipriešinimo dalyvių šeimas ir rėmėjus.
+- susijęs iš [[objektai/zodynas/agentas-smogikas.md#claim-t-42429|agentas-smogikas]]: MGB-KGB agentai smogikai suvaidino itin svarbų vaidmenį galutinai sunaikinant ginkluotą rezistenciją Lietuvoje.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -99,13 +120,3 @@ Tuo laikotarpiu okupacinė valdžia kovai su partizanais vis dažniau naudojo ag
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/MGB-KGB agentai smogikai]]
-- [[objektai/grupes/Žydai]]
-- [[objektai/grupes/Agentai-smogikai]]
-- [[objektai/paprociai/Agentų-smogikų infiltravimo į partizanų gretas ir provokacijų praktika]]
-- [[objektai/asmenys/Jonas Žemaitis-Vytautas]]
-- [[objektai/ivykiai/Sovietinių represinių struktūrų kova su Lietuvos partizanais (1944–1954 m.)]]
-- [[objektai/zodynas/agentas-smogikas]]

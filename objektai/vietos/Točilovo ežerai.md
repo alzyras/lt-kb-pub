@@ -21,6 +21,8 @@ Senoje jotvingių žemėje siena ėjo pradedant nuo « Akmenų Brastos » (« Ka
 - t-001
   global_id: t-32585
   teiginys: 'Melno sutarties siena senojoje jotvingių žemėje ėjo aukščiau Grajevo ir Točilovo ežerų.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus ir paremtas citatos geografine informacija.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Salyno sutartis|Salyno sutartis]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Brasta; mentioned_place: Grajevo; mentioned_place: Lietuva; mentioned_place: Lukas; mentioned_place: Salynas; mentioned_place: Sūduva'
   pagrindžia:
     - c-001
 

@@ -28,6 +28,11 @@ Dusburgietis teigia, kad tarvydas S.
 - t-001
   global_id: t-60797
   teiginys: 'S. Tarvydas 1967 m. paskelbė straipsnį apie vakarinių lietuvių genčių teritorijų istorinius-geografinius landšaftus.'
+  sudarymo_pagrindimas: 'Citata leidžia suformuluoti bibliografinį faktą apie autoriaus paskelbtą straipsnį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
+  temporaliniai_duomenys: 'įvykio data: 1967 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata leidžia suformuluoti bibliografinį faktą apie autoriaus paskelbtą straipsnį.'
   pagrindžia:
     - c-001
 
@@ -44,10 +49,3 @@ Dusburgietis teigia, kad tarvydas S.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/metraštis]]
-
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]

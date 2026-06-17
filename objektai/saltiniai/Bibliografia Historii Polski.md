@@ -4,14 +4,16 @@ pavadinimas: 'Bibliografia Historii Polski'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
+  - '1795 m.'
   - '1965 m.'
-date_start: '1965'
-date_end: ''
+date_start: '1795'
+date_end: '1965'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
 amziai:
+  - 'XVIII'
   - 'XX'
 ---
 # Bibliografia Historii Polski
@@ -26,6 +28,7 @@ Varšuvoje išleistoji Bibliografia Historii Polski kiek mažiau dėmesio beparo
 - t-001
   global_id: t-179571
   teiginys: '„Bibliografia Historii Polski“ I tomo pirmoje dalyje pateikė rytų Europą liečiančių bibliografinių rinkinių ir specialių bibliografijų sąrašus.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Europa; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -33,6 +36,11 @@ Varšuvoje išleistoji Bibliografia Historii Polski kiek mažiau dėmesio beparo
 - t-002
   global_id: t-179572
   teiginys: 'Zenono Ivinskio vertinimu, Varšuvoje išleista „Bibliografia Historii Polski“ Lietuvos istorijai skyrė kiek mažiau dėmesio.'
+  sudarymo_pagrindimas: 'Teiginys perteikia vertinimą, todėl reikia aiškios šaltinio autoriaus atribucijos.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Zenonas|Zenonas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Varšuva'
+  temporaliniai_duomenys: 'įvykio data: iki 1795 m.; įvykio data: 1795 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys perteikia vertinimą, todėl reikia aiškios šaltinio autoriaus atribucijos.'
   pagrindžia:
     - c-002
 

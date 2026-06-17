@@ -5,9 +5,9 @@ saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1239 m.'
-  - '1249 m.'
+  - '1251 m.'
 date_start: '1239'
-date_end: '1249'
+date_end: '1251'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -30,6 +30,11 @@ Dusburgietis teigia, kad sitai, rodos, leistų manyti, kad minimas Hermanas iš 
 - t-001
   global_id: t-59969
   teiginys: 'Henriko iš Hohenlohės pranešime pirmojo prūsų sukilimo pradžios kariuomenė įvardyta kaip „lietuviai ir prūsai“.'
+  sudarymo_pagrindimas: 'Citata kalba apie šaltinio formuluotę, todėl tinkama nurodyti pranešimo poziciją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Kulmas; mentioned_place: Kulmo žemė; mentioned_place: Lietuva; mentioned_place: Prūsai'
+  temporaliniai_duomenys: 'įvykio data: 1243 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata kalba apie šaltinio formuluotę, todėl tinkama nurodyti pranešimo poziciją.'
   pagrindžia:
     - c-002
 
@@ -37,6 +42,11 @@ Dusburgietis teigia, kad sitai, rodos, leistų manyti, kad minimas Hermanas iš 
 - t-002
   global_id: t-59970
   teiginys: 'Henrikas iš Hohenlohės buvo Ordino magistras 1244–1249 metais.'
+  sudarymo_pagrindimas: 'Citata tiesiogiai nurodo Henriko pareigas ir valdymo laikotarpį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Hermanas|Hermanas]]'
+  temporaliniai_duomenys: 'įvykio data: 1239 m.; įvykio data: 1249 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata tiesiogiai nurodo Henriko pareigas ir valdymo laikotarpį.'
   pagrindžia:
     - c-001
 
@@ -44,6 +54,11 @@ Dusburgietis teigia, kad sitai, rodos, leistų manyti, kad minimas Hermanas iš 
 - t-003
   global_id: t-59971
   teiginys: 'Henrikas iš Hohenlohės buvo vienas iš trijų Ordino magistrų, praleistų aptariamame sąraše.'
+  sudarymo_pagrindimas: 'Citata pagrindžia faktą apie praleidimą, bet pradinis teiginys yra fragmentas su nuorodos triukšmu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras IV|Aleksandras IV]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Vilhelmas|Vilhelmas]]; mentioned_place: Prūsija; mentioned_place: Ryga'
+  temporaliniai_duomenys: 'įvykio data: 1244 m.; įvykio data: 1251 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia faktą apie praleidimą, bet pradinis teiginys yra fragmentas su nuorodos triukšmu.'
   pagrindžia:
     - c-004
 
@@ -51,6 +66,8 @@ Dusburgietis teigia, kad sitai, rodos, leistų manyti, kad minimas Hermanas iš 
 - t-004
   global_id: t-59972
   teiginys: 'Henrikas iš Hohenlohės buvo vėlesnis didysis magistras, kurio kanceliarijoje redaguotas „Pranešimas“.'
+  sudarymo_pagrindimas: 'Citata palaiko atsargią šaltinio interpretaciją, bet pradinė formuluotė prasideda fragmentiškai.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]'
   pagrindžia:
     - c-003
 
@@ -112,13 +129,3 @@ Dusburgietis teigia, kad sitai, rodos, leistų manyti, kad minimas Hermanas iš 
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lietuvos kariuomenė]]
-- [[objektai/grupes/Sūduviai]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/ivykiai/Renzeno mūšis ir lietuvių-prūsų žygis į Kulmo žemę (1243 m.)]]

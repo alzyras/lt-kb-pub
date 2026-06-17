@@ -22,6 +22,8 @@ Dusburgietis teigia, kad kai jie pabeldė į vartus, juos apakino jų pačių ne
 - t-001
   global_id: t-58932
   teiginys: 'Fišhauzeno pilies vartus buvo galima atverti patraukus prie jų kabantį šikšnogalį, arba diržą.'
+  sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir prasideda neaiškiu įvardžiu; citata palaiko konkretų faktą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Pilies vartai|Pilies vartai]]; mentioned_place: Fišhauzenas; mentioned_place: Semba'
   pagrindžia:
     - c-001
 
@@ -41,7 +43,3 @@ Dusburgietis teigia, kad kai jie pabeldė į vartus, juos apakino jų pačių ne
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Pilies vartai|Pilies vartai (pilis, XIV a.)]]

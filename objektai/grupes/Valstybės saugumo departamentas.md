@@ -28,6 +28,8 @@ Režimo ramstis buvo policija ir gerai veikiantis Valstybės saugumo departament
 - t-001
   global_id: t-20059
   teiginys: 'Valstybės saugumo departamentas kartu su policija buvo vienas iš A. Smetonos režimo ramsčių.'
+  sudarymo_pagrindimas: 'Perrašyta, kad būtų aiškiai įvardytas režimas ir pašalintas neapibrėžtumas.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_person: [[objektai/asmenys/Juozas Tūbelis|Juozas Tūbelis]]'
   pagrindžia:
     - c-001
 
@@ -55,8 +57,3 @@ Režimo ramstis buvo policija ir gerai veikiantis Valstybės saugumo departament
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Juozas Tūbelis]]
-- [[objektai/asmenys/A. Smetona]]

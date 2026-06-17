@@ -31,6 +31,8 @@ Jurgis Radvila, Olykos ir Nesvyžiaus kunigaikštis, kar­ dinolas, dviejų popi
 - t-001
   global_id: t-87693
   teiginys: 'Inocentas IX buvo vienas iš dviejų popiežių, kurių elektorius buvo kardinolas Jurgis Radvila.'
+  sudarymo_pagrindimas: 'Citata leidžia suformuluoti faktą apie Inocento IX ryšį su Jurgiu Radvila.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/elektorius|elektorius]]; mentioned_person: [[objektai/asmenys/Jurgis Radvila|Jurgis Radvila]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Krokuva; mentioned_place: Nesvyžius; mentioned_place: Olyka'
   pagrindžia:
     - c-001
 
@@ -56,7 +58,3 @@ Jurgis Radvila, Olykos ir Nesvyžiaus kunigaikštis, kar­ dinolas, dviejų popi
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/elektorius]]

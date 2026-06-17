@@ -19,7 +19,7 @@ amziai:
 
 ## Santrauka
 
-Lapkričio 21 d. atnaujintas šarvuotasis traukinys „Gediminas“ ties Gineičiais ir Apylauke ugnimi išblaškė želigovskininkų kavalerijos padalinius. Lapkričio 21 d. atnaujintas šarvuotasis traukinys „Gediminas“ ties Gineičiais ir Apylauke išblaškė prasiveržusius želigovskininkų kavalerijos padalinius.
+atnaujintas „Gediminas“ vėl stojo į mūšį ir netoli Kėdainių ties Gineičiais bei Apylauke jis savo ugnimi išblaškė prasiveržusių želigovskininkų kavalerijos padalinius.
 
 ## Teiginiai
 
@@ -27,6 +27,11 @@ Lapkričio 21 d. atnaujintas šarvuotasis traukinys „Gediminas“ ties Gineič
 - t-001
   global_id: t-79295
   teiginys: 'Lapkričio 21 d. atnaujintas šarvuotasis traukinys „Gediminas“ ties Gineičiais ir Apylauke ugnimi išblaškė želigovskininkų kavalerijos padalinius.'
+  sudarymo_pagrindimas: 'Reikia aiškiai įvardyti, kad „Gediminas“ buvo šarvuotasis traukinys.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Želigovskininkai|Želigovskininkai]]; mentioned_place: Gineičiai; mentioned_place: Kėdainiai'
+  temporaliniai_duomenys: 'įvykio data: 1921 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia aiškiai įvardyti, kad „Gediminas“ buvo šarvuotasis traukinys.'
   pagrindžia:
     - c-001
 
@@ -34,6 +39,11 @@ Lapkričio 21 d. atnaujintas šarvuotasis traukinys „Gediminas“ ties Gineič
 - t-002
   global_id: t-79296
   teiginys: 'Lapkričio 21 d. atnaujintas šarvuotasis traukinys „Gediminas“ ties Gineičiais ir Apylauke išblaškė prasiveržusius želigovskininkų kavalerijos padalinius.'
+  sudarymo_pagrindimas: 'Sakinys yra aiškus, gramatiškas ir tiksliai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Želigovskininkai|Želigovskininkai]]; mentioned_place: Gineičiai; mentioned_place: Kėdainiai'
+  temporaliniai_duomenys: 'įvykio data: 1921 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Sakinys yra aiškus, gramatiškas ir tiksliai paremtas citata.'
   pagrindžia:
     - c-001
 

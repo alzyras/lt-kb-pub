@@ -5,8 +5,9 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1926 m.'
+  - '1927 m.'
 date_start: '1926'
-date_end: ''
+date_end: '1927'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -30,6 +31,11 @@ Voldemaras, neturėdamas Lietuvos delegacija Tautų Sąjungoje Ženevoje 1926 m.
 - t-001
   global_id: t-26437
   teiginys: 'Dovas Zaunius 1926 m. buvo Lietuvos delegacijos Tautų Sąjungoje Ženevoje narys.'
+  sudarymo_pagrindimas: 'Pradiniame teiginyje yra antraštės ir puslapio triukšmo, bet nuotraukos prierašas pagrindžia faktą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustinas|Augustinas]]; mentioned_person: [[objektai/asmenys/Augustinas Voldemaras|Augustinas Voldemaras]]; mentioned_person: [[objektai/asmenys/J. Pilsudskis|J. Pilsudskis]]; mentioned_person: [[objektai/asmenys/Petras Klimas|Petras Klimas]]; mentioned_person: [[objektai/asmenys/Pilsudskis|Pilsudskis]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Ženeva'
+  temporaliniai_duomenys: 'įvykio data: 1926 m.; įvykio data: 1927 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradiniame teiginyje yra antraštės ir puslapio triukšmo, bet nuotraukos prierašas pagrindžia faktą.'
   pagrindžia:
     - c-001
 
@@ -56,12 +62,3 @@ Voldemaras, neturėdamas Lietuvos delegacija Tautų Sąjungoje Ženevoje 1926 m.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Augustinas]]
-- [[objektai/asmenys/Augustinas Voldemaras]]
-- [[objektai/asmenys/J. Pilsudskis]]
-- [[objektai/asmenys/Petras Klimas]]
-- [[objektai/asmenys/Pilsudskis]]
-- [[objektai/posakiai/„Karas ar taika “]]

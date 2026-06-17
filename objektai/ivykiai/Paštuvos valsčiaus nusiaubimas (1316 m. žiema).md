@@ -42,6 +42,12 @@ Nenurodyta
 - t-001
   global_id: t-62427
   teiginys: '1316 m. žiemą maršalas Henrikas su daugybe raitelių netikėtai įsiveržė į Paštuvos valsčių, jį nusiaubė ir paėmė į nelaisvę arba nukovė 500 žmonių.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Citata tiesiogiai remia faktą, bet pradinė formuluotė prasideda nereikalinga atribucija.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]'
+  temporaliniai_duomenys: 'įvykio data: 1316 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata tiesiogiai remia faktą, bet pradinė formuluotė prasideda nereikalinga atribucija.'
   pagrindžia:
     - c-001
 
@@ -66,9 +72,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/Henrikas]]
-- [[objektai/zodynas/maršalas]]
-- [[objektai/asmenys/Henrikas iš Plockės]]

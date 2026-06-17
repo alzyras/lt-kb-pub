@@ -34,6 +34,7 @@ Vartojamos formos: `sargūnas`, `abažūnas`, `anginu`.
 - t-002
   global_id: t-70064
   teiginys: 'Vytūnas vesdavo visą kariauną į karą, kai nebūdavo atmono.'
+  sudarymo_pagrindimas: 'Citata tiesiogiai apibrėžia vytūno pareigą, o pradinis teiginys kalba apie kitą pareigybę.'
   pagrindžia:
     - c-001
 

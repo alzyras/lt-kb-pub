@@ -33,6 +33,8 @@ Dusburgietis teigia, kad seniausias pasakojamojo pobūdžio šaltinis apie Vokie
 - t-001
   global_id: t-60943
   teiginys: '„Pasakojime apie Vokiečių ordino pradžią“ pirmasis Ordino magistras Henrikas Valpotas vadinamas Hermanu.'
+  sudarymo_pagrindimas: 'Citata pagrindžia aiškų faktą apie šaltinyje vartojamą pirmojo magistro vardą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Henrikas Valpotas|Henrikas Valpotas]]; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -40,6 +42,11 @@ Dusburgietis teigia, kad seniausias pasakojamojo pobūdžio šaltinis apie Vokie
 - t-002
   global_id: t-60944
   teiginys: '„Pasakojime apie Teutonų ordino pradžią“ yra duomenų, kad Vokiečių ordino kūrimasis buvo ilgesnis procesas, pasibaigęs 1198 m.'
+  sudarymo_pagrindimas: 'Citata palaiko teiginį apie šiame šaltinyje esančią informaciją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
+  temporaliniai_duomenys: 'įvykio data: 1198 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko teiginį apie šiame šaltinyje esančią informaciją.'
   pagrindžia:
     - c-003
 
@@ -47,6 +54,8 @@ Dusburgietis teigia, kad seniausias pasakojamojo pobūdžio šaltinis apie Vokie
 - t-003
   global_id: t-60945
   teiginys: '„Pasakojime apie Vokiečių ordino pradžią“ nurodoma, kad Bremeno ir Liubeko miestiečiai dovanojo ligoninę.'
+  sudarymo_pagrindimas: 'Citata pagrindžia glaustą faktą apie šaltinyje aprašytą ligoninės dovanojimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Hermanas|Hermanas]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Bremenas; mentioned_place: Liubekas'
   pagrindžia:
     - c-002
 
@@ -54,6 +63,11 @@ Dusburgietis teigia, kad seniausias pasakojamojo pobūdžio šaltinis apie Vokie
 - t-004
   global_id: t-60946
   teiginys: '„Pasakojimas apie Teutonų ordino pradžią“ yra seniausias pasakojamojo pobūdžio šaltinis apie Vokiečių ordino įsikūrimą.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, o citata pagrindžia pilną enciklopedinį sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Akonas'
+  temporaliniai_duomenys: 'įvykio data: 1211 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs, o citata pagrindžia pilną enciklopedinį sakinį.'
   pagrindžia:
     - c-004
 

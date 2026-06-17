@@ -29,6 +29,8 @@ periodo_grupes:
 - t-001
   global_id: t-87732
   teiginys: 'Jonas Semenavičius Zažeckis savo iniciatyva ir lėšomis prisidėjo prie 1575 metais Vilniuje išspausdintos knygos „Cztėry Ewangelje“.'
+  sudarymo_pagrindimas: 'Citata remia asmens iniciatyvą ir lėšas leidiniui, o pradinis tekstas yra OCR fragmentas.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Stanislovas|Stanislovas]]; mentioned_place: Lukas; mentioned_place: Maskva; mentioned_place: Upytė; mentioned_place: Viena; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -65,7 +67,3 @@ periodo_grupes:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Mamoničių giminė]]

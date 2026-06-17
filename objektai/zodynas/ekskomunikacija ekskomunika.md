@@ -23,6 +23,8 @@ Kai anksčiau ne kieno nors kito, kaip tik didžiai gerbiamo pono Vilniaus vysku
 - t-001
   global_id: t-86466
   teiginys: 'Vilniaus katedros kapitula galėjo naudotis jurisdikcija su ekskomunikacijos teise savo asmenų ir valdinių bylose.'
+  sudarymo_pagrindimas: 'Citata tiesiogiai nurodo kapitulos jurisdikciją ir ekskomunikacijos teisę.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/imunitetai|imunitetai]]; mentioned_object: [[objektai/zodynas/jurisdikcija|jurisdikcija]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -30,6 +32,8 @@ Kai anksčiau ne kieno nors kito, kaip tik didžiai gerbiamo pono Vilniaus vysku
 - t-002
   global_id: t-86467
   teiginys: 'Vilniaus miestiečiai anksčiau būdavo ekskomunikuojami Vilniaus vyskupo, vikaro arba oficijolo.'
+  sudarymo_pagrindimas: 'Citata leidžia suformuluoti pilną faktą apie ekskomunikacijos taikymą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus miestiečių luomas|Vilniaus miestiečių luomas]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_object: [[objektai/zodynas/oficijolas|oficijolas]]; mentioned_object: [[objektai/zodynas/vaitas|vaitas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Viena; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 
@@ -37,6 +41,8 @@ Kai anksčiau ne kieno nors kito, kaip tik didžiai gerbiamo pono Vilniaus vysku
 - t-003
   global_id: t-86468
   teiginys: 'Vilniaus kapitula teigė turėjusi teisę ekskomunikuoti paprotinės teisės ir bažnyčios valdinių niekintojus.'
+  sudarymo_pagrindimas: 'Teiginys yra faktinis, gramatinis ir paremtas citatos turiniu apie kapitulos teisę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus kapitula|Vilniaus kapitula]]; mentioned_object: [[objektai/zodynas/ekskomunikuoti|ekskomunikuoti]]; mentioned_object: [[objektai/zodynas/jurisdikcija|jurisdikcija]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_object: [[objektai/zodynas/prelatai ir kanauninkai|prelatai ir kanauninkai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -154,18 +160,3 @@ Kai anksčiau ne kieno nors kito, kaip tik didžiai gerbiamo pono Vilniaus vysku
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/grupes/Vilniaus kapitula]]
-- [[objektai/zodynas/imunitetai]]
-- [[objektai/zodynas/jurisdikcija]]
-- [[objektai/zodynas/kapitula]]
-- [[objektai/zodynas/oficijolas]]
-- [[objektai/zodynas/prelatai ir kanauninkai]]
-- [[objektai/zodynas/vaitas]]
-- [[objektai/grupes/Vilniaus miestiečių luomas]]
-- [[objektai/zodynas/ekskomunikuoti]]
-- [[objektai/grupes/Apaštalų Sostas]]
-- [[objektai/grupes/Vilniaus magistratas]]

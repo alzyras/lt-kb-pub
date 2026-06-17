@@ -29,6 +29,9 @@ Danilaitė domėjosi brūkšniuotąja keramika Lietuvoje (AkMD, t. E. Danilaitė
 - t-001
   global_id: t-30590
   teiginys: 'E. Danilaitė 1964 m. paskelbė darbą „Brūkšniuotosios keramikos gyvenvietė vakarų Lietuvoje“.'
+  susije_objektai: 'mentioned_place: Kaunas'
+  temporaliniai_duomenys: 'įvykio data: 1964 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 
@@ -36,9 +39,16 @@ Danilaitė domėjosi brūkšniuotąja keramika Lietuvoje (AkMD, t. E. Danilaitė
 - t-002
   global_id: t-30591
   teiginys: 'E. Danilaitė tyrinėjo brūkšniuotąją keramiką Lietuvoje.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Brūkšniuotoji keramika|Brūkšniuotoji keramika]]; mentioned_object: [[objektai/daiktai/Sidabro dirbiniai|Sidabro dirbiniai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/autoriai/E. Radzvilovaitė.md#claim-t-30596|E. Radzvilovaitė]]: Radzvilovaitė pateikė žinių apie lietuvių genčių skydus II-VIII a.
+- susijęs iš [[objektai/daiktai/Brūkšniuotoji keramika.md#claim-t-47808|Brūkšniuotoji keramika]]: E. Danilaitė domėjosi brūkšniuotąja keramika Lietuvoje.
+- susijęs iš [[objektai/daiktai/Brūkšniuotoji keramika.md#claim-t-47809|Brūkšniuotoji keramika]]: E. Danilaitė tyrinėjo brūkšniuotąją keramiką Lietuvoje.
+- susijęs iš [[objektai/daiktai/Geležiniai įrankiai.md#claim-t-31107|Geležiniai įrankiai]]: J. Stankus rašė apie geležinių įrankių technologiją Lietuvoje V-VIII ir IX-XIII a.
+- susijęs iš [[objektai/daiktai/Skydai.md#claim-t-97104|Skydai]]: E. Radzvilovaitė pateikė žinių apie lietuvių genčių skydus II-VIII a.
+- susijęs iš [[objektai/grupes/LTSR Mokslų Akademijos Istorijos Institutas.md#claim-t-31259|LTSR Mokslų Akademijos Istorijos Institutas]]: LTSR Mokslų Akademijos Istorijos Institutas kas dvejus metus leido knygas „Archeologiniai ir etnografiniai tyrinėjimai Lietuvoje“.
+- susijęs iš Archeologiniai ir etnografiniai tyrinėjimai Lietuvoje: „Archeologiniai ir etnografiniai tyrinėjimai Lietuvoje“ buvo kas dvejus metus leidžiamas LTSR MA Istorijos instituto leidinys.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -73,11 +83,3 @@ Danilaitė domėjosi brūkšniuotąja keramika Lietuvoje (AkMD, t. E. Danilaitė
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Brūkšniuotoji keramika]]
-- [[objektai/daiktai/Sidabro dirbiniai]]
-- [[objektai/daiktai/Geležiniai įrankiai]]
-- [[objektai/grupes/LTSR Mokslų Akademijos Istorijos Institutas]]
-- [[objektai/daiktai/Skydai]]

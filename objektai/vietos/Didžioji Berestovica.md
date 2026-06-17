@@ -1,24 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Didžioji Berestovica'
-variantai:
-  - 'Didžiosios Berestovicos'
-aliases: []
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
 atnaujinta: ''
-laikotarpis: ''
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: ''
 tags:
   - vieta
 ---
@@ -29,26 +15,30 @@ tags:
 Panašus Bychovco kronikos variantas buvo Didžiosios Berestovicos dvare. Didžioji Berestovica šiame gabale minima kaip kronikos rankraštinės tradicijos vieta.
 
 ## Teiginiai
+
 <a id="claim-t-187222"></a>
 - t-001
   global_id: t-187222
-  teiginys: 'Panašus Bychovco kronikos variantas buvo Didžiosios Berestovicos dvare.'
+  teiginys: 'Didžioji Berestovica minima kaip vieta, kur kunigaikščių Zaslavskių dvare buvo Bychovco kronikos variantas.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pirminė formuluotė buvo per abstrakti; citata leidžia konkretesnį sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/autoriai/M. Strijkovskis|M. Strijkovskis]]; mentioned_person: [[objektai/asmenys/Tame (Baigos brolis)|Tame (Baigos brolis)]]'
   pagrindžia:
     - c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  statusas: patvirtinta
+
 <a id="claim-t-187223"></a>
 - t-002
   global_id: t-187223
-  teiginys: 'Didžioji Berestovica šiame gabale minima kaip kronikos rankraštinės tradicijos vieta.'
+  teiginys: 'Didžiosios Berestovicos dvare, priklausiusiame kunigaikščiams Zaslavskiams, buvo panašus Bychovco kronikos variantas.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys papildytas citatos palaikoma informacija ir suformuluotas tiksliau.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/autoriai/M. Strijkovskis|M. Strijkovskis]]; mentioned_person: [[objektai/asmenys/Tame (Baigos brolis)|Tame (Baigos brolis)]]'
   pagrindžia:
     - c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Panašus Bychovco kronikos variantas buvo Didžiosios Berestovicos dvare.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     nikos („rusiško metraščio") variantą tame pačiame
@@ -61,11 +51,9 @@ Panašus Bychovco kronikos variantas buvo Didžiosios Berestovicos dvare. Didži
     originalo kalba, bet tie leidiniai, kaip ir jos vertimas
     į dabartinę rusų kalbą (žr. p. 10—15). dėl retumo ir
     mažo tiražo daugumui skaitytojų yra neprieinami.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
     - t-002
+    - t-001

@@ -6,28 +6,32 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1843 m.'
+  - '1917 m.'
   - '2026 m.'
 date_start: '1843'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - vieta
 amziai:
   - 'XIX'
   - 'XXI'
-tags:
-  - vieta
 ---
 # Kauno gubernija
 
 ## Santrauka
 
-Kauno gubernijoje moterų raštingumas siekė 55 proc., o vyrų – 52 proc. Lietuviai pretendavo į buvusias Rusijos imperijos Vilniaus, Kauno, Suvalkų ir Gardino gubernijų žemes, kurias ir Rusijos vyriausybės tradiciškai vadindavo lietuviškomis. 1843 m. iš septynių vakarinės ir šiaurinės Vilniaus gubernijos apskričių buvo sudaryta Kauno gubernija.
+Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.
 
 ## Teiginiai
+
 <a id="claim-t-170421"></a>
 - t-001
   global_id: t-170421
   teiginys: 'Kauno gubernijoje moterų raštingumas siekė 55 proc., o vyrų – 52 proc.'
+  sudarymo_pagrindimas: 'Pirminis teiginys nutrūksta ir turi nereikalingą įvadą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_place: Kaunas; mentioned_place: Rusija'
   pagrindžia:
     - c-004
 
@@ -35,6 +39,8 @@ Kauno gubernijoje moterų raštingumas siekė 55 proc., o vyrų – 52 proc. Lie
 - t-002
   global_id: t-170422
   teiginys: 'Lietuviai pretendavo į buvusias Rusijos imperijos Vilniaus, Kauno, Suvalkų ir Gardino gubernijų žemes, kurias ir Rusijos vyriausybės tradiciškai vadindavo lietuviškomis.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys ir atitinka citatos turinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Suvalkai; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 
@@ -42,6 +48,11 @@ Kauno gubernijoje moterų raštingumas siekė 55 proc., o vyrų – 52 proc. Lie
 - t-003
   global_id: t-170423
   teiginys: '1843 m. iš septynių vakarinės ir šiaurinės Vilniaus gubernijos apskričių buvo sudaryta Kauno gubernija.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai pagrįstas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltarusiai|Baltarusiai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_place: Gardinas; mentioned_place: Kaunas; mentioned_place: Minskas; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1843 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai pagrįstas citata.'
   pagrindžia:
     - c-005
 
@@ -49,6 +60,11 @@ Kauno gubernijoje moterų raštingumas siekė 55 proc., o vyrų – 52 proc. Lie
 - t-004
   global_id: t-170425
   teiginys: '1917 m. Berno konferencijoje Kauno gubernija įtraukta į etnografinės Lietuvos teritorijos projektą.'
+  sudarymo_pagrindimas: 'Pirminis teiginys yra fragmentiškas ir perkrautas sąrašu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_object: [[objektai/posakiai/„Lithuania Propria“|„Lithuania Propria“]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Alūkšta; mentioned_place: Bernas; mentioned_place: Dauguva; mentioned_place: Europa; mentioned_place: Kaunas; mentioned_place: Klaipėda; mentioned_place: Kuršas; mentioned_place: Liepoja; mentioned_place: Lietuva; mentioned_place: Slanimas; mentioned_place: Suvalkai; mentioned_place: Valkaviskas; mentioned_place: Viena; mentioned_place: Vilniaus gubernija; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1917 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pirminis teiginys yra fragmentiškas ir perkrautas sąrašu.'
   pagrindžia:
     - c-002
 
@@ -56,12 +72,30 @@ Kauno gubernijoje moterų raštingumas siekė 55 proc., o vyrų – 52 proc. Lie
 - t-005
   global_id: t-183026
   teiginys: 'Vien Kauno gubernijoje kariuomenės egzekucijų prieš valstiečius buvo surengta 117.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pašalintas neaiškus įvardis „tokių“ ir patikslintas veiksmo pobūdis.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_place: Kaunas'
   pagrindžia:
-    - c-006
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+    - c-001
 
 ## Reikšmingi paminėjimai
+
+- c-001
+  santrauka: 'Vien Kauno gubernijoje kariuomenės egzekucijų prieš valstiečius buvo surengta 117.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Kareiviai, apsigyvenę kaimuose, ištisus mėnesius kankino vals-
+    tiečius, naikino jų turtą. Vien Kauno gubernijoje tokių žiaurių
+    egzekucijų buvo padaryta net 117. Kariuomenės šaukėsi tiek
+    daug dvarininkų, kad reikėjo jos atvežti net iš kitų gubernijų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-005
+
 - c-002
   santrauka: '1917 m. Berno konferencijoje Kauno gubernija įtraukta į etnografinės Lietuvos teritorijos projektą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -82,6 +116,7 @@ Kauno gubernijoje moterų raštingumas siekė 55 proc., o vyrų – 52 proc. Lie
   statusas: verified
   pagrindžia:
     - t-004
+
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -96,6 +131,7 @@ Kauno gubernijoje moterų raštingumas siekė 55 proc., o vyrų – 52 proc. Lie
   statusas: verified
   pagrindžia:
     - t-002
+
 - c-004
   santrauka: 'Kauno gubernijoje moterų raštingumas siekė 55 proc., o vyrų – 52 proc.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -112,6 +148,7 @@ Kauno gubernijoje moterų raštingumas siekė 55 proc., o vyrų – 52 proc. Lie
   statusas: verified
   pagrindžia:
     - t-001
+
 - c-005
   santrauka: '1843 m. iš septynių vakarinės ir šiaurinės Vilniaus gubernijos apskričių buvo sudaryta Kauno gubernija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -132,18 +169,3 @@ Kauno gubernijoje moterų raštingumas siekė 55 proc., o vyrų – 52 proc. Lie
   statusas: verified
   pagrindžia:
     - t-003
-- c-006
-  santrauka: 'Vien Kauno gubernijoje kariuomenės egzekucijų prieš valstiečius buvo surengta 117.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Kareiviai, apsigyvenę kaimuose, ištisus mėnesius kankino vals-
-    tiečius, naikino jų turtą. Vien Kauno gubernijoje tokių žiaurių
-    egzekucijų buvo padaryta net 117. Kariuomenės šaukėsi tiek
-    daug dvarininkų, kad reikėjo jos atvežti net iš kitų gubernijų.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-005

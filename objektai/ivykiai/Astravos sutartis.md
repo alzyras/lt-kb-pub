@@ -10,16 +10,16 @@ date_start: '1392'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XIV'
 tags:
   - sutartis
+amziai:
+  - 'XIV'
 ---
 # Astravos sutartis
 
 ## Santrauka
 
-Astravos sutartimi Vytautas pažadėjo Jogailą ir Jadvygą remti kariuomene, turtu ir ginklais. Sutartis grąžino Vytautui Lietuvos valdžią didžiojo kunigaikščio teisėmis kaip lėną. Po Astravos sutarties Jogaila Vilniuje išplėtė Vytauto valdžią visose Lietuvos ir Rusijos žemėse.
+Atsimetęs nuo ordino, Vytautas susitaikino su Jogaila Astravos dvare, paliai Lydą. 1930 m. veikale ši taika vadinama Ostrovos taika ir datuojama 1392 m. rugpjūčio 5 d.; joje Jogaila grąžino Vytautui tėviškę, o Vytautas atgavo Lietuvos valdžią didžiojo kunigaikščio teisėmis.
 
 ## Laikotarpis ir datos
 
@@ -40,10 +40,16 @@ Nenurodyta
 Vytautas atgavo Trakus, Gardiną, Lucką ir Lietuvos valdžią didžiojo kunigaikščio teisėmis.
 
 ## Teiginiai
+
 <a id="claim-t-12397"></a>
 - t-001
   global_id: t-12397
   teiginys: 'Astravos sutartimi Vytautas pažadėjo Jogailą ir Jadvygą remti kariuomene, turtu ir ginklais.'
+  sudarymo_pagrindimas: 'Teiginys susietas su note objektu ir nebeprideda citatoje nepagrįstų detalių.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Luckas'
+  temporaliniai_duomenys: 'įvykio data: 1392 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys susietas su note objektu ir nebeprideda citatoje nepagrįstų detalių.'
   pagrindžia:
     - c-001
 
@@ -51,6 +57,9 @@ Vytautas atgavo Trakus, Gardiną, Lucką ir Lietuvos valdžią didžiojo kunigai
 - t-002
   global_id: t-12398
   teiginys: 'Sutartis grąžino Vytautui Lietuvos valdžią didžiojo kunigaikščio teisėmis kaip lėną.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Luckas'
+  temporaliniai_duomenys: 'sutarties data: 1392 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
     - c-002
@@ -59,23 +68,34 @@ Vytautas atgavo Trakus, Gardiną, Lucką ir Lietuvos valdžią didžiojo kunigai
 - t-003
   global_id: t-12399
   teiginys: 'Po Astravos sutarties Jogaila Vilniuje išplėtė Vytauto valdžią visose Lietuvos ir Rusijos žemėse.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai susietas su Astravos sutartimi ir sutvarkyta formuluotė.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 
-- t-007
+<a id="claim-t-176169"></a>
+- t-004
+  global_id: t-176169
   teiginys: '1392 m. Astravos dvare prie Lydos Vytautas, atsimetęs nuo Ordino, susitaikė su Jogaila.'
-  pagrindžia:
-    - c-004
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-008
-  teiginys: 'Astravos sutartį atskirais dokumentais patvirtino Jogailos ir Vytauto pusės.'
+  sudarymo_pagrindimas: 'Reikia aiškiai nurodyti datą ir sutvarkyti vietos formuluotę.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Luckas'
+  temporaliniai_duomenys: 'įvykio data: 1392 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia aiškiai nurodyti datą ir sutvarkyti vietos formuluotę.'
   pagrindžia:
     - c-005
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
+<a id="claim-t-176170"></a>
+- t-005
+  global_id: t-176170
+  teiginys: 'Astravos sutartį atskirais dokumentais patvirtino Jogailos ir Vytauto pusės.'
+  sudarymo_pagrindimas: 'Perrašyta, kad būtų aiškiai įvardytos sutartį patvirtinusios pusės.'
+  pagrindžia:
+    - c-004
+- susijęs iš [[objektai/ivykiai/Jogailos ir Vytauto susitaikinimas Ostrove (1392 m. rugpjūčio 5 d.).md#claim-t-95959|Jogailos ir Vytauto susitaikinimas Ostrove (1392 m. rugpjūčio 5 d.)]]: 1392 m. Vytauto ir Jogailos Ostrovos sutartis padėjo pagrindą Lietuvos nepriklausomybei atstatyti.
+- susijęs iš Ostrovas: 1392 m. Vytauto ir Jogailos sudaryta Ostrovos sutartis padėjo pagrindą Lietuvos nepriklausomybei atstatyti.
 ## Reikšmingi paminėjimai
+
 - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -96,6 +116,7 @@ Vytautas atgavo Trakus, Gardiną, Lucką ir Lietuvos valdžią didžiojo kunigai
   pagrindžia:
     - t-001
     - t-002
+
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -109,6 +130,7 @@ Vytautas atgavo Trakus, Gardiną, Lucką ir Lietuvos valdžią didžiojo kunigai
   statusas: verified
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'Po Astravos sutarties Jogaila Vilniuje išplėtė Vytauto valdžią visose Lietuvos ir Rusijos žemėse.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -124,7 +146,24 @@ Vytautas atgavo Trakus, Gardiną, Lucką ir Lietuvos valdžią didžiojo kunigai
   statusas: verified
   pagrindžia:
     - t-003
+
 - c-004
+  santrauka: 'Astravos sutartį atskirais dokumentais patvirtino Jogailos ir Vytauto pusės.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Vy-
+    tautas už tai pasižadėjo visada pripažinti Jogailos vyriausiąją
+    valdžią ir visada jį palaikyti. Sutartis buvo patvirtinta abiejų
+    pusių atskirais dokumentais. Be Jogailos ir Vytauto, tą susita-
+    rimą atskirais dokumentais dar patvirtino ir jų žmonos — Jad-
+    vyga ir Ona.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-005
+
+- c-005
   santrauka: '1392 m. Astravos dvare prie Lydos Vytautas, atsimetęs nuo Ordino, susitaikė su Jogaila.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -136,37 +175,8 @@ Vytautas atgavo Trakus, Gardiną, Lucką ir Lietuvos valdžią didžiojo kunigai
     jo grįžimo iš ordino duotąjį Lucką ir pavedė valdyti Vilnių. Vy-
     tautas už tai pasižadėjo visada pripažinti Jogailos vyriausiąją
     valdžią ir visada jį palaikyti.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-007
-- c-005
-  santrauka: 'Astravos sutartį atskirais dokumentais patvirtino Jogailos ir Vytauto pusės.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Vy-
-    tautas už tai pasižadėjo visada pripažinti Jogailos vyriausiąją
-    valdžią ir visada jį palaikyti. Sutartis buvo patvirtinta abiejų
-    pusių atskirais dokumentais. Be Jogailos ir Vytauto, tą susita-
-    rimą atskirais dokumentais dar patvirtino ir jų žmonos — Jad-
-    vyga ir Ona.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-008
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/asmenys/Dlugošas]]
-- [[objektai/asmenys/Olesnickio]]
-- [[objektai/zodynas/vasalystė]]
-- [[objektai/zodynas/vietininkas]]
-- [[objektai/ivykiai/Jogailos ir Vytauto susitaikinimas Ostrove (1392 m. rugpjūčio 5 d.)]]
+    - t-004

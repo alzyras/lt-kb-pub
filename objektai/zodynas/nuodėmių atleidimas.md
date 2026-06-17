@@ -23,6 +23,8 @@ Dusburgietis teigia, kad apie dviejų našlių ginčą dėl vieno vyro Po šio m
 - t-001
   global_id: t-58918
   teiginys: 'Kulmo vyskupas suteikė našlėms nuodėmių atleidimą ir įpareigojo jas tekėti už savo tarnų.'
+  sudarymo_pagrindimas: 'Teiginys sutrumpintas iki aiškaus fakto apie nuodėmių atleidimą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tame (Baigos brolis)|Tame (Baigos brolis)]]; mentioned_place: Kulmas'
   pagrindžia:
     - c-001
 
@@ -44,9 +46,3 @@ Dusburgietis teigia, kad apie dviejų našlių ginčą dėl vieno vyro Po šio m
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Tame (Baigos brolis)]]
-- [[objektai/ivykiai/Kulmo vyskupo nurodymas našlėms tekėti už tarnų po mūšio|Kulmo vyskupo nurodymas našlėms tekėti už tarnų po mūšio (mūšis)]]
-- [[objektai/paprociai/Našlių ištekinimas už tarnų Kulme po mūšio|Našlių ištekinimas už tarnų Kulme po mūšio (mūšis)]]

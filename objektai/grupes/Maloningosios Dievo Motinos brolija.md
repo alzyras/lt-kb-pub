@@ -5,8 +5,11 @@ saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1589 m.'
+  - '1601 m.'
+  - '1633 m.'
+  - '1664 m.'
 date_start: '1589'
-date_end: ''
+date_end: '1664'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -15,6 +18,7 @@ tags:
   - miestas
 amziai:
   - 'XVI'
+  - 'XVII'
 ---
 # Maloningosios Dievo Motinos brolija
 
@@ -28,6 +32,11 @@ Toje pat Dievo Kūno koplyčioje 1589 metų liepos 29 d. buvo paskelbta Maloning
 - t-001
   global_id: t-86808
   teiginys: '1589 m. liepos 29 d. Dievo Kūno koplyčioje buvo paskelbtas Maloningosios Dievo Motinos brolijos įkūrimas.'
+  sudarymo_pagrindimas: 'Citata tiesiogiai palaiko brolijos įkūrimo paskelbimą; pašalintas puslapio triukšmas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_person: [[objektai/asmenys/Vladislovas IV|Vladislovas IV]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lenkija; mentioned_place: Trakai; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1589 m.; įvykio data: 1601 m.; įvykio data: 1633 m.; įvykio data: 1664 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata tiesiogiai palaiko brolijos įkūrimo paskelbimą; pašalintas puslapio triukšmas.'
   pagrindžia:
     - c-001
 
@@ -59,13 +68,3 @@ Toje pat Dievo Kūno koplyčioje 1589 metų liepos 29 d. buvo paskelbta Maloning
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Kūnas]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/asmenys/Vladislovas]]
-- [[objektai/asmenys/Vladislovas IV]]
-- [[objektai/zodynas/kunigas]]
-- [[objektai/zodynas/vaivada]]
-- [[objektai/asmenys/Žygimantas]]

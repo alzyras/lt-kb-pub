@@ -4,9 +4,10 @@ pavadinimas: 'bajoriškoji demokratija'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
+  - '1791 m.'
   - '2013 m.'
   - '2026 m.'
-date_start: '2013'
+date_start: '1791'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
@@ -14,6 +15,7 @@ tags:
   - bajorija
   - sąvoka
 amziai:
+  - 'XVIII'
   - 'XXI'
 ---
 # bajoriškoji demokratija
@@ -28,9 +30,15 @@ amziai:
 - t-001
   global_id: t-25330
   teiginys: 'Abiejų Tautų Respublika aprūpino Vakarus javais ir sukūrė religinės tolerancijos bei bajoriškosios demokratijos tradiciją.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir glaustai perteikia citatos informaciją apie Abiejų Tautų Respubliką.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/barokas|barokas]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas|Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1791 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir glaustai perteikia citatos informaciją apie Abiejų Tautų Respubliką.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/grupes/Abiejų Tautų Respublika.md#claim-t-80770|Abiejų Tautų Respublika]]: 1566–1795 m. Abiejų Tautų Respublikos bajoriškoji demokratija buvo luominė monarchija, paremta bajorų luomu.
+- susijęs iš Abiejų Tautų tarpusavio įžadas: Turinyje „Gegužės trečiosios konstitucija ir Abiejų Tautų tarpusavio įžadas“ nurodytas 91 puslapyje.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -61,16 +69,3 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]
-- [[objektai/zodynas/barokas]]
-- [[objektai/zodynas/Miera|miera]]
-- [[objektai/zodynas/unija]]
-- [[objektai/grupes/Žydai]]
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/paprociai/Abiejų Tautų Respublikos religinės tolerancijos, bajoriškosios demokratijos ir teisinės tradicijos]]
-- [[objektai/grupes/Vilniaus baroko architektūros mokykla]]
-- [[objektai/zodynas/bajoriškoji demokratija luominė monarchija]]
-- [[objektai/posakiai/„duona, tolerancija, demokratija, konstitucija, barokas“]]

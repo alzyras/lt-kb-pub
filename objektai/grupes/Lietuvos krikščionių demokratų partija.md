@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Po Klaipėdos atplėšimo krikščionys demokratai sąlyginai sugrįžo į valdžią ir Jono Černiaus vyriausybėje gavo dvi ministrų vietas. Krikščionys demokratai ir liaudininkai pareikalavo vietoj Antano Merkio ministru pirmininku paskirti krikščionims demokratams artimą Stasį Raštikį. Po ultimatumo priėmimo krikščionių demokratų ir valstiečių liaudininkų lyderiai pradėjo tartis dėl bendros programos.
+Smetonos valdymo opozicines jėgas – prasidėjo krikščionių demokratų ir valstiečių liaudininkų „ašies“ lyderių pasitarimai dėl bendros programos parengimo, prie jų dėjosi ir ultraradikalieji voldemarininkai. Krikščionys demokratai ir liaudininkai po Klaipėdos atplėšimo sąlyginai sugrįžo į valdžią. Krikščionys demokratai ir liaudininkai, prieš tai susitarę, pareikalavo ministru pirmininku vietoje A.
 
 ## Teiginiai
 
@@ -20,6 +20,8 @@ Po Klaipėdos atplėšimo krikščionys demokratai sąlyginai sugrįžo į vald�
 - t-001
   global_id: t-74744
   teiginys: 'Po Klaipėdos atplėšimo krikščionys demokratai sąlyginai sugrįžo į valdžią ir Jono Černiaus vyriausybėje gavo dvi ministrų vietas.'
+  sudarymo_pagrindimas: 'Teiginys perrašytas taip, kad aiškiau kalbėtų apie Lietuvos krikščionių demokratų partiją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -27,6 +29,8 @@ Po Klaipėdos atplėšimo krikščionys demokratai sąlyginai sugrįžo į vald�
 - t-002
   global_id: t-74745
   teiginys: 'Krikščionys demokratai ir liaudininkai pareikalavo vietoj Antano Merkio ministru pirmininku paskirti krikščionims demokratams artimą Stasį Raštikį.'
+  sudarymo_pagrindimas: 'Išskleistos santrumpos ir išlaikytas citatos faktas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_place: Anglija; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 
@@ -34,6 +38,7 @@ Po Klaipėdos atplėšimo krikščionys demokratai sąlyginai sugrįžo į vald�
 - t-003
   global_id: t-74746
   teiginys: 'Po ultimatumo priėmimo krikščionių demokratų ir valstiečių liaudininkų lyderiai pradėjo tartis dėl bendros programos.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Voldemarininkai|Voldemarininkai]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -41,6 +46,8 @@ Po Klaipėdos atplėšimo krikščionys demokratai sąlyginai sugrįžo į vald�
 - t-004
   global_id: t-74747
   teiginys: 'Po Lenkijos ultimatumo priėmimo prasidėjo krikščionių demokratų ir valstiečių liaudininkų lyderių pasitarimai dėl bendros programos.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus ir paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Voldemarininkai|Voldemarininkai]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -97,19 +104,3 @@ Po Klaipėdos atplėšimo krikščionys demokratai sąlyginai sugrįžo į vald�
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/A. Smetona]]
-- [[objektai/grupes/Krikščionys]]
-- [[objektai/grupes/Voldemarininkai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/asmenys/Antanas (vaistininkas)]]
-- [[objektai/asmenys/Antanas Merkys]]
-- [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
-- [[objektai/asmenys/Jonas Černius]]
-- [[objektai/ivykiai/Jono Černiaus „vieningo darbo“ vyriausybės sudarymas po Klaipėdos praradimo (1939 m.)]]
-- [[objektai/grupes/Lietuvos valstiečių liaudininkų sąjunga]]
-- [[objektai/asmenys/V. Mironas]]
-- [[objektai/zodynas/Vieningo darbo vyriausybė]]
-- [[objektai/asmenys/Vladas Mironas]]

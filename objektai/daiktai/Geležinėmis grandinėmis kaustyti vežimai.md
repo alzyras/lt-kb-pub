@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Prie Vorsklos Vytauto įtvirtintoje stovykloje buvo geležinėmis grandinėmis kaustytų vežimų, patrankėlių, patrankų ir arbaletų. Vorsklos mūšyje Timūr-Kutluko totoriai paėmė Vytauto kariuomenės gurguolę, vežimus su geležinėmis grandinėmis, patrankas, arbaletus ir daug turto.
+Vytautas 5 dienas stovėjo kitoje Vorsklos pusėje, įtvirtintoje stovykloje su geležinėmis grandinėmis kaustytais vežimais, su daugeliu patrankėlių (piščalių), patrankų, „arbaletų“. Bėgdami Timūr-Kutluko totoriai paėmė gurguolę, vežimus su geležinėmis grandinėmis, patrankas, patrankėles, arbaletus ir daug turto.
 
 ## Pavadinimai šaltiniuose
 
@@ -43,6 +43,7 @@ Nenurodyta
 - t-001
   global_id: t-40714
   teiginys: 'Prie Vorsklos Vytauto įtvirtintoje stovykloje buvo geležinėmis grandinėmis kaustytų vežimų, patrankėlių, patrankų ir arbaletų.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Arbaletai|Arbaletai]]; mentioned_person: [[objektai/asmenys/Edigėjus|Edigėjus]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Vorskla'
   pagrindžia:
     - c-001
 
@@ -50,6 +51,8 @@ Nenurodyta
 - t-002
   global_id: t-40715
   teiginys: 'Vorsklos mūšyje Timūr-Kutluko totoriai paėmė Vytauto kariuomenės gurguolę, vežimus su geležinėmis grandinėmis, patrankas, arbaletus ir daug turto.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nepakankamai aiškiai susieja objektą su mūšio kontekstu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/daiktai/Arbaletai|Arbaletai]]; mentioned_object: [[objektai/daiktai/Vežimai|Vežimai]]; mentioned_person: [[objektai/asmenys/Timūr-Kutlukas|Timūr-Kutlukas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Vorskla'
   pagrindžia:
     - c-002
 
@@ -96,19 +99,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/transportas]]
-
-### Susiję objektai
-- [[objektai/daiktai/Arbaletai]]
-- [[objektai/asmenys/Edigėjus]]
-- [[objektai/asmenys/Timūr-Kutlukas]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/daiktai/Vežimai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/asmenys/Žygimantas]]
-- [[objektai/ivykiai/Vorsklos mūšis (1399 m. rugpjūčio 12 d.)]]
-- [[objektai/daiktai/Vytauto ženklas]]
-- [[objektai/zodynas/gurguolė]]

@@ -3,6 +3,10 @@ tipas: saltinis
 pavadinimas: 'Torno analai'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+datos:
+  - '1383 m.'
+date_start: '1383'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -10,6 +14,8 @@ tags:
   - ordinas
   - ritualas
   - saltinis
+amziai:
+  - 'XIV'
 ---
 # Torno analai
 
@@ -23,6 +29,9 @@ Remiantis Torno analų žinia, dar gali būti samprotaujama, kad Jogaila atsisak
 - t-001
   global_id: t-31941
   teiginys: 'Torno analų žinia leido samprotauti, kad Jogaila pas magistrą nevyko paveiktas Julijonos.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Torno'
+  temporaliniai_duomenys: 'įvykio data: 1383 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

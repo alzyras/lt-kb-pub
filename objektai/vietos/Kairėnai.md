@@ -20,9 +20,10 @@ Sadauskaitė rašė apie Kairėnu, Sei- (^95) Pvz.
 - t-001
   global_id: t-99910
   teiginys: 'Sadauskaitė rašė apie Kairėnu, Sei- (^95) Pvz.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/V. Urbanavičius|V. Urbanavičius]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/ivykiai/Kališo taika.md#claim-t-100053|Kališo taika]]: 85 Kališas 217 ; Kališo taika 232, 330 Kalita 371, žr.
 ## Reikšmingi paminėjimai
 
 - c-001

@@ -43,9 +43,16 @@ Nenurodyta
 - t-001
   global_id: t-41342
   teiginys: 'Prieš Pilypavo mūšį po pergalės ties Prostkais totoriai dėl konflikto dėl belaisvių pasitraukė iš lietuvių pajėgų.'
+  sudarymo_pagrindimas: 'Teiginys susietas su Pilypavo mūšiu ir sutrumpintas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Pilypavas; mentioned_place: Prostkai'
+  temporaliniai_duomenys: 'įvykio data: 1656 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys susietas su Pilypavo mūšiu ir sutrumpintas.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/grupes/Krymo totoriai.md#claim-t-71640|Krymo totoriai]]: Po pergalės ties Prostkais samdiniai totoriai dėl konflikto su lietuviais dėl belaisvių pasitraukė iš Lietuvos pajėgų.
+- susijęs iš Pilypavas: 1656 m. spalio 22 d. ties Pilypavu švedai ir brandenburgiečiai pasivijo lietuvius ir juos sumušė.
+- susijęs iš Suvalkai: 1656 m. spalio 22 d. švedai ir brandenburgiečiai pasivijo lietuvius ties Pilypavu netoli Suvalkų ir juos sumušė.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -59,10 +66,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/grupes/Švedai]]
-- [[objektai/grupes/Krymo totoriai]]

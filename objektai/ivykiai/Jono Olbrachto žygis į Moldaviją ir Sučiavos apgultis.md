@@ -16,7 +16,7 @@ amziai:
 
 ## Santrauka
 
-Po to Olbrachtas pasitraukė nuo Sučiavos ir žygiavo gilyn į Moldaviją. Lietuvos metraštis teigia, kad Steponas pasiuntė pasiuntinius pas Olbrachtą ir sudarė su juo taiką. Olbrachtas kelias dienas stovėjo prie Sučiavos, bet suprato, kad miesto nepaims.
+Olbrachtas įžengė į Moldavijos žemę. Steponas sutelkė kariuomenę, sustiprino Sučiavos pilį ir pasitraukė į kalnų tarpeklius prie Putnos vienuolyno.
 
 ## Laikotarpis ir datos
 
@@ -45,14 +45,20 @@ Nenurodyta
 <a id="claim-t-186652"></a>
 - t-001
   global_id: t-186652
-  teiginys: 'Po to Olbrachtas pasitraukė nuo Sučiavos ir žygiavo gilyn į Moldaviją.'
+  teiginys: 'Olbrachtas pasitraukė nuo Sučiavos ir žygiavo gilyn į Moldaviją.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pašalinta kontekstinė pradžia „Po to“.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_object: [[objektai/zodynas/vasalas|vasalas]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Moldavija; mentioned_place: Sučiava'
   pagrindžia:
     - c-001
 
 <a id="claim-t-186653"></a>
 - t-002
   global_id: t-186653
-  teiginys: 'Lietuvos metraštis teigia, kad Steponas pasiuntė pasiuntinius pas Olbrachtą ir sudarė su juo taiką.'
+  teiginys: 'Lietuvos metraštis pasakoja, kad Moldavijos vaivada Steponas pasiuntė pasiuntinius pas Olbrachtą ir sudarė su juo taiką.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Išplėstas asmens įvardijimas ir išlaikyta šaltinio atribucija.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_object: [[objektai/zodynas/vasalas|vasalas]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Lietuva; mentioned_place: Moldavija; mentioned_place: Sučiava'
   pagrindžia:
     - c-001
 
@@ -60,6 +66,9 @@ Nenurodyta
 - t-003
   global_id: t-186654
   teiginys: 'Olbrachtas kelias dienas stovėjo prie Sučiavos, bet suprato, kad miesto nepaims.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_object: [[objektai/zodynas/vasalas|vasalas]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Moldavija; mentioned_place: Sučiava'
   pagrindžia:
     - c-001
 
@@ -67,6 +76,9 @@ Nenurodyta
 - t-004
   global_id: t-186655
   teiginys: 'Lietuvos metraštis teigia, kad Moldavijos vaivada Steponas su Olbrachtu sudarė taiką, sutiko duoti vasalo ištikimybės priesaiką ir surašė raštus.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Teiginys yra konkretus, gramatinis ir šaltiniui atribuuotas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_object: [[objektai/zodynas/vasalas|vasalas]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Lietuva; mentioned_place: Moldavija; mentioned_place: Sučiava'
   pagrindžia:
     - c-001
 
@@ -74,6 +86,9 @@ Nenurodyta
 - t-005
   global_id: t-186656
   teiginys: 'Sučiavos gynėjai paragino Olbrachtą kautis su Steponu lauke.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys glaustai perteikia citatoje pateiktą gynėjų atsakymą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_object: [[objektai/zodynas/vasalas|vasalas]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Moldavija; mentioned_place: Sučiava'
   pagrindžia:
     - c-001
 
@@ -107,10 +122,3 @@ Nenurodyta
     - t-001
     - t-002
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Steponas]]
-- [[objektai/zodynas/vaivada]]
-- [[objektai/zodynas/vasalas]]
-- [[objektai/zodynas/metraštis]]

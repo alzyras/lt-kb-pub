@@ -10,7 +10,7 @@ atnaujinta: ''
 
 ## Santrauka
 
-Lietuvos metraštis pasakoja, kad Vytautas su visomis pajėgomis ištraukė į Naugardo žemę, šešis mėnesius stovėjo prie Porchovo ir po to niokojo Naugardo bei Pskovo žemę. Lietuvos metraštis pasakoja, kad Vytautas siuntė pasiuntinius į Didįjį Naugardą ir Pskovą reikalaudamas valdovo pripažinimo ir duoklės. Lietuvos metraštis teigia, kad Naugardiečiams ir pskoviečiams atsisakius mokėti duoklę, Vytautas ištraukė į Naugardo žemę ir šešis mėnesius stovėjo prie Porchovo.
+Lietuvos metraštis pasakoja, kad Vytautas siuntė pasiuntinius į Didįjį Naugardą ir Pskovą reikalaudamas valdovo pripažinimo ir duoklės. Lietuvos metraštis pasakoja, kad naugardiečiai ir pskoviečiai atsisakė mokėti duoklę.
 
 ## Laikotarpis ir datos
 
@@ -35,21 +35,30 @@ Nenurodyta
 <a id="claim-t-186595"></a>
 - t-001
   global_id: t-186595
-  teiginys: 'Lietuvos metraštis pasakoja, kad Vytautas su visomis pajėgomis ištraukė į Naugardo žemę, šešis mėnesius stovėjo prie Porchovo ir po to niokojo Naugardo bei Pskovo žemę.'
+  teiginys: 'Lietuvos metraštis pasakoja, kad Vytautas, šešis mėnesius nepaėmęs Porchovo, niokojo, degino ir ėmė nelaisvėn Naugardo bei Pskovo žemėje.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Priešiškas karo veiksmų vaizdavimas turi likti atribuuotas šaltiniui.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_group: [[objektai/grupes/Pskoviečiai|Pskoviečiai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/duoklė|duoklė]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Naugardas; mentioned_place: Porchovas; mentioned_place: Pskovas'
   pagrindžia:
     - c-001
 
 <a id="claim-t-186596"></a>
 - t-002
   global_id: t-186596
-  teiginys: 'Lietuvos metraštis pasakoja, kad Vytautas siuntė pasiuntinius į Didįjį Naugardą ir Pskovą reikalaudamas valdovo pripažinimo ir duoklės.'
+  teiginys: 'Lietuvos metraštis vaizduoja Vytautą siuntus pasiuntinius į Didįjį Naugardą ir Pskovą, kad miestai pripažintų jį valdovu ir mokėtų duoklę.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Reikia aiškesnės, glaustesnės atribucijos dėl valdovo statuso.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_group: [[objektai/grupes/Pskoviečiai|Pskoviečiai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/duoklė|duoklė]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Naugardas; mentioned_place: Porchovas; mentioned_place: Pskovas'
   pagrindžia:
     - c-001
 
 <a id="claim-t-186597"></a>
 - t-003
   global_id: t-186597
-  teiginys: 'Lietuvos metraštis teigia, kad Naugardiečiams ir pskoviečiams atsisakius mokėti duoklę, Vytautas ištraukė į Naugardo žemę ir šešis mėnesius stovėjo prie Porchovo.'
+  teiginys: 'Lietuvos metraštis pasakoja, kad naugardiečiams ir pskoviečiams atsisakius duoklės Vytautas ištraukė į Naugardo žemę ir šešis mėnesius stovėjo prie Porchovo.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Taisyta rašyba ir pašalinta perteklinė formuluotė „teigia“.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_group: [[objektai/grupes/Pskoviečiai|Pskoviečiai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/duoklė|duoklė]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Naugardas; mentioned_place: Porchovas; mentioned_place: Pskovas'
   pagrindžia:
     - c-001
 
@@ -80,12 +89,3 @@ Nenurodyta
     - t-002
     - t-003
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Didžiojo Naugardo respublika]]
-- [[objektai/grupes/Pskoviečiai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/didysis kunigaikštis]]
-- [[objektai/zodynas/duoklė]]
-- [[objektai/zodynas/metraštis]]

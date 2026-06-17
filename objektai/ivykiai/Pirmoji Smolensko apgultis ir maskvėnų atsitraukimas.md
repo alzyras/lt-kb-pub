@@ -30,6 +30,11 @@ Nenurodyta
 - t-001
   global_id: t-185637
   teiginys: 'Vasaros pabaigoje Ivano sūnus Dimitrijus Žilka su stipria kariuomene perėjo sieną ir apsupo Smolenską.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nurodo veikėją, veiksmą, laiką ir objektą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_person: [[objektai/asmenys/Dimitrijus|Dimitrijus]]; mentioned_place: Minskas; mentioned_place: Smolenskas'
   pagrindžia:
     - c-001
 
@@ -37,6 +42,11 @@ Nenurodyta
 - t-002
   global_id: t-185638
   teiginys: 'Maskvėnai ryžtingai puolė Smolenską ir, sudaužę sienas, galėjo įeiti į miestą, bet pilies neužėmė.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys sutrumpintas ir papildytas citatoje nurodytu rezultatu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_person: [[objektai/asmenys/Sologubas|Sologubas]]; mentioned_place: Smolenskas'
   pagrindžia:
     - c-002
 
@@ -85,11 +95,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Dimitrijus]]
-- [[objektai/grupes/Maskvėnai]]
-- [[objektai/asmenys/Sologubas]]
-- [[objektai/zodynas/seniūnas]]
-- [[objektai/zodynas/įgula]]

@@ -5,6 +5,7 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1200 m.'
+  - '1333 m.'
   - '1334 m.'
 date_start: '1200'
 date_end: '1334'
@@ -28,6 +29,11 @@ amziai:
 - t-001
   global_id: t-28484
   teiginys: '1333 m. Aukštaičiuose kryžiuočiai pasiekė Ukmergės apylinkę.'
+  sudarymo_pagrindimas: 'Citata palaiko glaustesnį teiginį tiesiogiai apie Ukmergės apylinkę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Dubingiai; mentioned_place: Ukmergė'
+  temporaliniai_duomenys: 'įvykio data: 1333 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko glaustesnį teiginį tiesiogiai apie Ukmergės apylinkę.'
   pagrindžia:
     - c-001
 

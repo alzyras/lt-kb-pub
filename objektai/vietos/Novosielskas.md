@@ -20,6 +20,7 @@ tags:
 - t-001
   global_id: t-36461
   teiginys: 'Novosielsko kunigaikštija pasidavė Vytautui, kai jis plėtė valdžią Okos aukštupio kunigaikščių tarpe.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Novosielsko; mentioned_place: Odojevas; mentioned_place: Smolenskas'
   pagrindžia:
     - c-001
 

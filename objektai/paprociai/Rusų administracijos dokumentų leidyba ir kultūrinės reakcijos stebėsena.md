@@ -3,6 +3,10 @@ tipas: paprotys
 pavadinimas: 'Rusų administracijos dokumentų leidyba ir kultūrinės reakcijos stebėsena'
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+datos:
+  - '1835 m.'
+date_start: '1835'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -10,6 +14,8 @@ tags:
   - dokumentas
   - kraštas
   - paprotys
+amziai:
+  - 'XIX'
 ---
 # Rusų administracijos dokumentų leidyba ir kultūrinės reakcijos stebėsena
 
@@ -43,6 +49,11 @@ Nenurodyta
 - t-001
   global_id: t-87252
   teiginys: 'Rusų administracija leido dokumentų rinkinius, kuriais tendencingai siekė įrodyti rusiškos ortodoksiškos civilizacijos tradicijas Šiaurės Vakarų krašte.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus ir paremtas citatos formuluote.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1835 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus ir paremtas citatos formuluote.'
   pagrindžia:
     - c-001
 
@@ -69,10 +80,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Aleksandras Balinskis]]
-- [[objektai/grupes/Bajorai]]
-- [[objektai/autoriai/Mykolas Balinskis]]
-- [[objektai/grupes/Rusai]]

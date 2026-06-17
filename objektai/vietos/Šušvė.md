@@ -20,9 +20,17 @@ tags:
 - t-001
   global_id: t-32732
   teiginys: 'Lietuva Žemaičiuose apėmė į vakarus nuo Nevėžio buvusį Šušvės baseiną.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Dubysa; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Minija; mentioned_place: Nevėžis; mentioned_place: Venta'
   pagrindžia:
     - c-001
-
+- susijęs iš Eilėtoji Livonijos kronika: Eiliuotinės Livonijos kronikos autorius žemaičius tapatino su lietuviais ir beveik trečdalį kronikos skyrė Livonijos ordino santykiams su Lietuva.
+- susijęs iš Eilėtoji Livonijos kronika: Eiliuotinės Livonijos kronikos autorius žemaičius tapatino su lietuviais.
+- susijęs iš Dubysa: Lietuva Žemaičiuose apėmė Šušvės ir Dubysos baseinus, Ventos ir Minijos aukštupius.
+- susijęs iš Koložas: Koložas buvo Gardino priemiestis.
+- susijęs iš Minija: Lietuva Žemaičiuose apėmė Ventos ir Minijos aukštupius.
+- susijęs iš Venta: Lietuva Žemaičiuose apėmė Ventos ir Minijos aukštupius.
+- susijęs iš Šventaragio slėnis: Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv.
+- susijęs iš Šventaragio slėnys: Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv.
 ## Reikšmingi paminėjimai
 
 - c-001

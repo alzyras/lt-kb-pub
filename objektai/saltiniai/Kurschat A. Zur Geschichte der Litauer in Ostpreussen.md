@@ -28,6 +28,11 @@ Dusburgietis teigia, kad kurschat A.
 - t-001
   global_id: t-61112
   teiginys: 'A. Kurschato „Zur Geschichte der Litauer in Ostpreussen“ paskelbta 1893 m. Heidelberge, „Mitteilungen der Litauischen litterarischen Gesellschaft“ 18 sąsiuvinyje.'
+  sudarymo_pagrindimas: 'Citata pateikia bibliografinį įrašo faktą, o pradinis teiginys neturi predikato.'
+  susije_objektai: 'mentioned_place: Prūsai'
+  temporaliniai_duomenys: 'įvykio data: 1893 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pateikia bibliografinį įrašo faktą, o pradinis teiginys neturi predikato.'
   pagrindžia:
     - c-001
 

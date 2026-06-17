@@ -17,14 +17,14 @@ date_start: '1587'
 date_end: '1763'
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XVI'
-  - 'XVIII'
 tags:
   - grupe
   - kunigas
   - ordinas
   - popiežius
+amziai:
+  - 'XVI'
+  - 'XVIII'
 ---
 # Unitai
 
@@ -33,10 +33,13 @@ tags:
 Daug geriau buvo sutvarkytas unitų švietimas. Jų vienuolynų buvo net Žemaičiuose (Padubysy), nors ten nei pravoslavų nei unitų nebuvo iš viso.
 
 ## Teiginiai
+
 <a id="claim-t-45238"></a>
 - t-001
   global_id: t-45238
   teiginys: 'Bajoriškoji santvarka leido šalia katalikų egzistuoti kalvinistų, liuteronų, stačiatikių, unitų ir kitoms etnokonfesinėms bendrijoms.'
+  sudarymo_pagrindimas: 'Pradinis teiginys prasideda kontekstiniu fragmentu ir nutrūksta prieš pabaigą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/pravoslavai|pravoslavai]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -44,12 +47,44 @@ Daug geriau buvo sutvarkytas unitų švietimas. Jų vienuolynų buvo net Žemai�
 - t-002
   global_id: t-182929
   teiginys: 'Unitų bazilijonų vienuolynų buvo net Žemaičių Padubysyje, nors ten nebuvo nei pravoslavų, nei unitų.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Įvardis išplėstas, pašalinta OCR ir eilutės lūžio žala.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/pravoslavai|pravoslavai]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
-    - c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-
+    - c-001
+- susijęs iš [[objektai/daiktai/1575 m. Mamoničių „Cztėry Ewangelje“ egzempliorius.md#claim-t-87107|1575 m. Mamoničių „Cztėry Ewangelje“ egzempliorius]]: Vilniaus graikų unitų metropolijos zakristijoje matytas 1575 m. „Cztėry Ewangelje“ egzempliorius buvo puikiai išsilaikęs.
+- susijęs iš [[objektai/grupes/Bazilijonų ordinas.md#claim-t-178763|Bazilijonų ordinas]]: Bazilijonų ordinas daugiausia rūpinosi unitų mokymu ir Lietuvoje turėjo kelias dešimtis vienuolynų.
+- susijęs iš [[objektai/grupes/Bazilijonų ordinas.md#claim-t-178765|Bazilijonų ordinas]]: Mamoničių spaustuvė vėliau, matyt, atiteko bazilijonams.
+- susijęs iš [[objektai/grupes/Bazilijonų ordinas.md#claim-t-182884|Bazilijonų ordinas]]: Bazilijonų ordinas Lietuvoje turėjo kelias dešimtis vienuolynų ir daugiausia rūpinosi unitų mokymu.
+- susijęs iš [[objektai/grupes/Rusų stačiatikių bažnyčia.md#claim-t-66081|Rusų stačiatikių bažnyčia]]: 1839 m. likvidavus Unitų bažnyčią, unitai buvo prievarta grąžinti į Rusų stačiatikių bažnyčios gretas.
+- susijęs iš [[objektai/grupes/Unitų bažnyčia unitai.md#claim-t-101479|Unitų bažnyčia unitai]]: 1839 m. Unitų bažnyčia buvo likviduota, o unitai prievarta grąžinti į Rusų stačiatikių bažnyčią.
+- susijęs iš [[objektai/grupes/Unitų bažnyčia unitai.md#claim-t-101480|Unitų bažnyčia unitai]]: Bajoriškoji santvarka leido šalia katalikų egzistuoti kalvinistų, liuteronų, stačiatikių, unitų ir kitoms etnokonfesinėms bendrijoms.
+- susijęs iš [[objektai/grupes/Unitų bažnyčia.md#claim-t-16167|Unitų bažnyčia]]: 1839 m. Unitų bažnyčia buvo likviduota, o unitai prievarta grąžinti į Rusų stačiatikių bažnyčią.
+- susijęs iš [[objektai/paprociai/Religinė carinės valdžios prievarta prieš katalikų vienuolynus ir unitus.md#claim-t-54332|Religinė carinės valdžios prievarta prieš katalikų vienuolynus ir unitus]]: Carinė valdžia uždarė nemažai katalikų vienuolynų, o 1839 m. likvidavo Unitų bažnyčią ir prievarta grąžino unitus į Rusų stačiatikių bažnyčią.
+- susijęs iš [[objektai/paprociai/Religinė carinės valdžios prievarta prieš katalikų vienuolynus ir unitus.md#claim-t-54333|Religinė carinės valdžios prievarta prieš katalikų vienuolynus ir unitus]]: Caro valdžia uždarė nemažai katalikų vienuolynų, 1839 m. likvidavo Unitų bažnyčią ir prievarta grąžino unitus į stačiatikybę.
+- susijęs iš Teodoro Narbuto „Lietuvių tautos istorija“: 1835–1841 m. Vilniuje lenkų kalba išėjo devyni Teodoro Narbuto „Lietuvių tautos istorijos“ tomai apie Lietuvos istoriją iki Liublino unijos.
+- susijęs iš Galicija: Po Lenkijos padalinimo Galicijoje išliko unitai, nes ši sritis buvo patekusi Austrijai.
 ## Reikšmingi paminėjimai
+
+- c-001
+  santrauka: 'Unitų bazilijonų vienuolynų buvo net Žemaičių Padubysyje, nors ten nebuvo nei pravoslavų, nei unitų.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Vilniuje šie turėjo net savą, popiežiaus iš-
+    laikomą, kunigų seminariją; mokymu daugiausia užsiėmė jų ba-
+    zi1ijonų ordinas, kurs turėjo Lietuvoje net keletą dešimčių
+    savo vienuolynų. Jų vienuolynų buvo net Žemaičiuose (Padu-
+    bysy), nors ten nei pravoslavų nei unitų nebuvo iš viso. Visur
+    prie jų vienuolynų buvo bent pradžios mokyklų, o kai kur net
+    ir aukštesniųjų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
 - c-002
   santrauka: 'Bajoriškoji santvarka leido šalia katalikų egzistuoti kalvinistų, liuteronų, stačiatikių, unitų ir kitoms etnokonfesinėms bendrijoms.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -76,38 +111,3 @@ Daug geriau buvo sutvarkytas unitų švietimas. Jų vienuolynų buvo net Žemai�
   statusas: verified
   pagrindžia:
     - t-001
-- c-003
-  santrauka: 'Unitų bazilijonų vienuolynų buvo net Žemaičių Padubysyje, nors ten nebuvo nei pravoslavų, nei unitų.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Vilniuje šie turėjo net savą, popiežiaus iš-
-    laikomą, kunigų seminariją; mokymu daugiausia užsiėmė jų ba-
-    zi1ijonų ordinas, kurs turėjo Lietuvoje net keletą dešimčių
-    savo vienuolynų. Jų vienuolynų buvo net Žemaičiuose (Padu-
-    bysy), nors ten nei pravoslavų nei unitų nebuvo iš viso. Visur
-    prie jų vienuolynų buvo bent pradžios mokyklų, o kai kur net
-    ir aukštesniųjų.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bazilijonų ordinas]]
-- [[objektai/zodynas/Liberum veto]]
-- [[objektai/grupes/Stačiatikiai]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/zodynas/pravoslavai]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/grupes/Švedai]]
-- [[objektai/posakiai/„tvanas“]]
-- [[objektai/daiktai/1575 m. Mamoničių „Cztėry Ewangelje“ egzempliorius]]
-- [[objektai/paprociai/Religinė carinės valdžios prievarta prieš katalikų vienuolynus ir unitus]]
-- [[objektai/grupes/Rusų stačiatikių bažnyčia]]
-- [[objektai/grupes/Unitų bažnyčia]]
-- [[objektai/grupes/Unitų bažnyčia unitai]]
-- [[objektai/grupes/Liuteronai]]

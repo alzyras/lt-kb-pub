@@ -23,6 +23,8 @@ Dusburgietis teigia, kad apie vieno Karaliaučiaus brolio šlovingą gyvenimą T
 - t-001
   global_id: t-59920
   teiginys: 'Hermanas Saracėnas per ietininkų turnyro susidūrimą nubloškė varžovą ant žemės, o laimėtą žirgą ir ginklus atidavė vargšams.'
+  sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir nutrūkęs; citata palaiko aiškų veiksmą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_person: [[objektai/asmenys/Hermanas|Hermanas]]'
   pagrindžia:
     - c-005
 
@@ -30,6 +32,8 @@ Dusburgietis teigia, kad apie vieno Karaliaučiaus brolio šlovingą gyvenimą T
 - t-002
   global_id: t-59921
   teiginys: 'Hermanas Saracėnas iš Karaliaučiaus pilies rengėsi vykti į karą Kurše, kai, pasak pasakojimo, jam pasirodė Mergelė Marija.'
+  sudarymo_pagrindimas: 'Citata pagrindžia aiškų sakinį apie Hermano Saracėno išvykimą ir regėjimą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Hermanas|Hermanas]]; mentioned_person: [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos]]; mentioned_person: [[objektai/asmenys/Marija|Marija]]; mentioned_person: [[objektai/asmenys/Mergelė Marija|Mergelė Marija]]'
   pagrindžia:
     - c-004
 
@@ -37,6 +41,8 @@ Dusburgietis teigia, kad apie vieno Karaliaučiaus brolio šlovingą gyvenimą T
 - t-003
   global_id: t-59922
   teiginys: 'Kronikos pasakojime Hermano Saracėno siela minima tarp dviejų už kitas pranašesnių vėlių.'
+  sudarymo_pagrindimas: 'Teiginys tinkamai nurodo kronikos pasakojimo turinį ir yra paremtas citata.'
+  susije_objektai: 'mentioned_place: Kristburgas'
   pagrindžia:
     - c-001
 
@@ -44,6 +50,8 @@ Dusburgietis teigia, kad apie vieno Karaliaučiaus brolio šlovingą gyvenimą T
 - t-004
   global_id: t-59923
   teiginys: 'Pasakojime Mergelė Marija ne kartą slapta ir draugiškai kalbėjosi su Hermanu Saracėnu, jau priimtu į Teutonų ordiną.'
+  sudarymo_pagrindimas: 'Tai legendinis pasakojimas, todėl reikia šaltinio pobūdį atspindinčios, pilnos formuluotės.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Marija|Marija]]; mentioned_person: [[objektai/asmenys/Mergelė Marija|Mergelė Marija]]; mentioned_place: Viena'
   pagrindžia:
     - c-003
 
@@ -51,6 +59,8 @@ Dusburgietis teigia, kad apie vieno Karaliaučiaus brolio šlovingą gyvenimą T
 - t-005
   global_id: t-59924
   teiginys: 'Hermanas Saracėnas gyveno Karaliaučiaus pilies brolių konvente ir buvo gimęs Švabijoje.'
+  sudarymo_pagrindimas: 'Teiginys aiškus, faktinis ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Hermanas|Hermanas]]'
   pagrindžia:
     - c-002
 
@@ -157,14 +167,3 @@ Dusburgietis teigia, kad apie vieno Karaliaučiaus brolio šlovingą gyvenimą T
   pagrindžia:
     - t-001
     - t-007
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Ginklai]]
-- [[objektai/asmenys/Hermanas]]
-- [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Teutonai]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/asmenys/Marija]]
-- [[objektai/asmenys/Mergelė Marija]]

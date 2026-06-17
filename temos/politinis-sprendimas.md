@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 9.
+Objektų skaičius: 8.
 
 ## Kaip naudoti
 
@@ -19,7 +19,6 @@ Objektų skaičius: 9.
 ## Susiję objektai
 
 ### Įvykiai
-- [[objektai/ivykiai/1387 m. balandžio 28 d. Jogailos sprendimas iškelti Skirgailą ir perduoti jam valdas]]
 - [[objektai/ivykiai/Aleksandro patvirtinimas Lietuvos didžiuoju kunigaikščiu]]
 - [[objektai/ivykiai/III Seimo daugumos demokratinės reformos (1926 m. birželio 17 d.)]]
 - [[objektai/ivykiai/Jogailos grįžimas į nuniokotą Vilnių ir miesto atkūrimo pradžia (1390 m. lapkritis)]]

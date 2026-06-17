@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Gedulo metu žmonės suplėšė savo drabužius ir apsivilko ašutinėmis.
+Dusburgietis teigia, kad “ Todėl suplėšė savo drabužius ir apsivilko ašutinėmis, o drauge su jais gedėjo didelės baimės apimti žmonės, kurie dar buvo išlikę gyvi.
 
 ## Laikotarpis ir datos
 
@@ -40,6 +40,9 @@ Nenurodyta
 - t-001
   global_id: t-62675
   teiginys: 'Gedulo metu žmonės suplėšė savo drabužius ir apsivilko ašutinėmis.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Perrašyta į glaustesnį, savarankišką papročio apibūdinimą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; mentioned_object: [[objektai/zodynas/pagonys|pagonys]]'
   pagrindžia:
     - c-001
     - c-002
@@ -76,11 +79,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/drabužis]]
-
-### Susiję objektai
-- [[objektai/daiktai/Drabužiai]]
-- [[objektai/zodynas/pagonys]]

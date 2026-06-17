@@ -34,6 +34,7 @@ Tai, ką žmogus padaro kitam, vėliau gali pats patirti iš kito.
 - t-001
   global_id: t-55174
   teiginys: 'Žygimanto Augusto testamento tekste frazė „Ab alio expectes alteri quod feceris“ aiškiai pristatoma kaip lotyniškas posakis.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -41,6 +42,8 @@ Tai, ką žmogus padaro kitam, vėliau gali pats patirti iš kito.
 - t-002
   global_id: t-55175
   teiginys: 'Posakis „Ab alio expectes alteri quod feceris“ reiškė: tai, ką padarei vienam, sulauksi iš kito.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai susietas su posakiu ir jo pateiktu vertimu.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -48,6 +51,8 @@ Tai, ką žmogus padaro kitam, vėliau gali pats patirti iš kito.
 - t-003
   global_id: t-67253
   teiginys: 'Posakis „Ab alio expectes alteri quod feceris“ cituojamas paskutinės valios, testamento ar kodicilo galios aptarime.'
+  sudarymo_pagrindimas: 'Citata palaiko testamento kontekstą, bet ne ištikimybės ar atlygio už gerą elgesį apibendrinimą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -81,10 +86,3 @@ Tai, ką žmogus padaro kitam, vėliau gali pats patirti iš kito.
     - t-001
     - t-002
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/zodynas/ponai]]
-- [[objektai/asmenys/Augustas]]
-- [[objektai/asmenys/Žygimantas]]

@@ -20,6 +20,7 @@ Po antros sovietų okupacijos priklausė pogrindžio Lietuvos išlaisvinimo tary
 - t-001
   global_id: t-41028
   teiginys: 'Po antrosios sovietų okupacijos Lietuvos išlaisvinimo taryba veikė pogrindyje.'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

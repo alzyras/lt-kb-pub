@@ -20,6 +20,8 @@ Motiejūnas-Valevičius, ir karin.
 - t-001
   global_id: t-39742
   teiginys: 'J. Motiejūnas-Valevičius vadovavo Panevėžio rinktinei priklausiusiam 2-ojo pėstininkų pulko II batalionui.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai pagrįstas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]'
   pagrindžia:
     - c-001
 
@@ -41,7 +43,3 @@ Motiejūnas-Valevičius, ir karin.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Artilerija]]

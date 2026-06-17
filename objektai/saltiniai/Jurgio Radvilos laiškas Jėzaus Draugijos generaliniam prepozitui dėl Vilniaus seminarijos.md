@@ -20,6 +20,8 @@ Klierikų mokymo reikalus ir vadovavimą kole­ gijai patikime didžiai gerbiama
 - t-001
   global_id: t-88433
   teiginys: 'Jurgio Radvilos laiške Vilniaus jėzuitų kolegijai patikėtas seminarijos klierikų mokymas ir visa administracinė bei ekonominė valdžia.'
+  sudarymo_pagrindimas: 'Teiginys buvo OCR fragmentas; citata pagrindžia aiškų sakinį apie seminarijos pavedimą jėzuitams.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_group: [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija|Vilniaus vyskupijos klierikų kolegija]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

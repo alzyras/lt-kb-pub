@@ -17,7 +17,7 @@ amziai:
 
 ## Santrauka
 
-Bychovco kronikos rankraštis šiame leidinyje apibūdinamas ne kaip vertimas, o kaip kirilica rašyto teksto transkripcija lotyniškai lenkiškais rašmenimis.
+Transkripcija šiame leidinyje reiškia kirilica rašyto teksto perrašymą lotyniškai lenkiškais rašmenimis. Bychovco kronikos rankraštis apibūdinamas ne kaip vertimas, o kaip toks perrašymas, kurio datavimas siejamas su XVII–XVIII a.
 
 ## Žodis ir formos
 
@@ -50,13 +50,17 @@ Nenurodyta
 <a id="claim-t-186924"></a>
 - t-001
   global_id: t-186924
-  teiginys: 'Bychovco kronikos rankraštis šiame leidinyje apibūdinamas ne kaip vertimas, o kaip kirilica rašyto teksto transkripcija lotyniškai lenkiškais rašmenimis.'
+  teiginys: 'Bychovco kronikos rankraštis buvo ne vertimas, o kirilica rašyto teksto transkripcija lotyniškai lenkiškais rašmenimis.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys pilnai nusako Bychovco kronikos rankraščio pobūdį kaip transkripciją, o ne vertimą. Citatos lenkiškas užrašas neperkeliamas, nes teiginiui pakanka paaiškinamosios dalies.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Bychovco kronikos rankraštis|Bychovco kronikos rankraštis]]'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/daiktai/Bychovco kronikos rankraštis.md#claim-t-186810|Bychovco kronikos rankraštis]]: Bychovco kronikos rankraštis buvo pirmykščio kirilica rašyto teksto transkripcija lotyniškais lenkiškais rašmenimis.
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Bychovco kronikos rankraštis buvo ne vertimas, o kirilica rašyto teksto transkripcija lotyniškai lenkiškais rašmenimis.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     lapas tuščias ir jo antrojoje pusėje, t. y. paskutiniame
@@ -75,11 +79,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/metraštis]]
-- [[objektai/zodynas/nuorašas]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/daiktai/Bychovco kronikos rankraštis]]

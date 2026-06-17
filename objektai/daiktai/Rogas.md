@@ -38,6 +38,9 @@ Nenurodyta
 - t-001
   global_id: t-08323
   teiginys: 'Senovėje kalnėnai ir žemaičiai mirusį žmogų ant rogo degindavo kartu su jo žirgu.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Citata palaiko deginimą ant rogo su žirgu, bet teiginį reikia tiksliau suformuluoti.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalnėnai|Kalnėnai]]; mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_object: [[objektai/zodynas/Kariauna|Kariauna]]'
   pagrindžia:
     - c-001
 
@@ -59,9 +62,3 @@ Nenurodyta
 ## Pastabos
 
 - terminas šiame fragmente pavartotas tik frazėje „ant rogo“, todėl kandidatas pateikiamas kaip ritualinis laidotuvių laužas pagal kontekstą.
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kalnėnai]]
-- [[objektai/grupes/Krikščionys]]
-- [[objektai/grupes/Žemaičiai]]

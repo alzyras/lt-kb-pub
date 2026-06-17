@@ -23,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-1755 m. Nesvyžiaus pilies archyvų liustracijoje buvo minimas Horodlėje sudarytas Lietuvos unijos su Lenkijos Karūna aktas.
+71 Horodlės seime Lietuvai išduotas unijos aktas prieš trisdešimt metų buvo Kunigaikščių Radvilų Nesvyžiaus archyve,auten­ tiškas, kaip kad matyti iš MSS, kurį turiu prieš akis, pavad. Lustracya Archiwów zamku Nieświżskiego, wszystkich Regestrów od JP.
 
 ## Teiginiai
 
@@ -31,6 +31,11 @@ amziai:
 - t-001
   global_id: t-88308
   teiginys: '1755 m. Nesvyžiaus pilies archyvų liustracijoje buvo minimas Horodlėje sudarytas Lietuvos unijos su Lenkijos Karūna aktas.'
+  sudarymo_pagrindimas: 'Citata tiksliau remia 1755 m. archyvinio sąrašo faktą, o ne bendrą formuluotę apie XVIII a.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Horodlė; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Nesvyžius'
+  temporaliniai_duomenys: 'įvykio data: 1755 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata tiksliau remia 1755 m. archyvinio sąrašo faktą, o ne bendrą formuluotę apie XVIII a.'
   pagrindžia:
     - c-001
 

@@ -29,6 +29,11 @@ Dusburgietis teigia, kad labuda G.
 - t-001
   global_id: t-61122
   teiginys: 'G. Labudos „Stanowisko ziemi chełmińskiej w państwie krzyżackim w latach 1228–1454“ paskelbta 1954 m. Varšuvoje, „Przegląd historyczny“ 45 tome.'
+  sudarymo_pagrindimas: 'Citata patvirtina publikacijos pavadinimą, metus, vietą ir leidinį.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
+  temporaliniai_duomenys: 'įvykio data: 1954 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata patvirtina publikacijos pavadinimą, metus, vietą ir leidinį.'
   pagrindžia:
     - c-001
 

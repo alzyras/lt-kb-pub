@@ -23,6 +23,8 @@ dešinės Vilniaus miestiečio Česchonio namo apimdama mažesnių­ jų brolių
 - t-001
   global_id: t-87896
   teiginys: 'Česchonis buvo Vilniaus miestietis, kurio namas minėtas apibrėžiant Vilniaus miesto dalies ribas.'
+  sudarymo_pagrindimas: 'Citata Česchonį vadina Vilniaus miestiečiu ir mini jo namą ribų aprašyme.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_place: Trakai; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -64,7 +66,3 @@ dešinės Vilniaus miestiečio Česchonio namo apimdama mažesnių­ jų brolių
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Namas]]

@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Lietuvos metraštis teigia, kad Utenis tėvui Kukovaičiui atminti padirbo stabą ir pastatė jį prie Šventosios upės ant kalno netoli Deltuvos.
+Lietuvos metraštyje pasakojama, kad lietuvos metraštis pasakoja, kad Utenis tėvui Kukovaičiui atminti padirbo stabą; Lietuvos metraštis vaizduoja, kad šis stabas buvo pastatytas prie Šventosios upės ant kalno netoli Deltuvos.
 
 ## Pavadinimai šaltiniuose
 
@@ -42,6 +42,9 @@ Nenurodyta
 - t-001
   global_id: t-187512
   teiginys: 'Lietuvos metraštis teigia, kad Utenis tėvui Kukovaičiui atminti padirbo stabą ir pastatė jį prie Šventosios upės ant kalno netoli Deltuvos.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir šaltiniui priskiria legendinį pasakojimą apie stabą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_object: [[objektai/zodynas/įpėdinis|įpėdinis]]; mentioned_place: Deltuva; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -64,8 +67,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/metraštis]]
-- [[objektai/zodynas/įpėdinis]]

@@ -18,9 +18,14 @@ Po Mingailos mirties Ginvilas paveldėjo tėvo valdžią Polocke.
 - t-001
   global_id: t-186111
   teiginys: 'Po Mingailos mirties Ginvilas paveldėjo tėvo valdžią Polocke.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata palaiko faktą apie Ginvilą, bet reikia trumpesnės ir taisyklingos formuluotės.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Mingaila|Mingaila]]; mentioned_person: [[objektai/asmenys/Skirmantas|Skirmantas]]; mentioned_place: Polockas'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Mingaila.md#claim-t-184791|Mingaila]]: Po pergalės prie Polocko Mingaila netrukus mirė, įpėdiniais palikdamas Skirmantą ir Ginvilą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -41,9 +46,3 @@ Po Mingailos mirties Ginvilas paveldėjo tėvo valdžią Polocke.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/zodynas/kunigaikščiai]]

@@ -42,6 +42,9 @@ Nenurodyta
 - t-001
   global_id: t-62326
   teiginys: 'Apie balandžio 23 d. pasirodžiusi kometa dešimt vakarų kreipė uodegą į Italiją.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pradinis teiginys turėjo nereikalingą šaltinio atribuciją; citata pagrindžia reiškinio aprašymą.'
+  susije_objektai: 'mentioned_place: Italija'
   pagrindžia:
     - c-001
 

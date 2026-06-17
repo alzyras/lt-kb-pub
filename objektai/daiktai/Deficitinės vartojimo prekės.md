@@ -46,6 +46,8 @@ Nenurodyta
 - t-001
   global_id: t-19512
   teiginys: 'Sovietmečio Lietuvoje deficitinės buvo maisto prekės, baldai, indai, televizoriai, medicinos reikmenys ir vaistai.'
+  sudarymo_pagrindimas: 'Citata kalba apie platesnį vartojimo prekių deficitą, todėl sakinys patikslintas pagal objektą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Duona|Duona]]; mentioned_object: [[objektai/daiktai/Vaistinės prekės, vaistai ir gydomieji gėrimai|Vaistinės prekės, vaistai ir gydomieji gėrimai]]; mentioned_place: Lietuva; mentioned_place: SSRS'
   pagrindžia:
     - c-001
 
@@ -53,6 +55,8 @@ Nenurodyta
 - t-002
   global_id: t-19513
   teiginys: 'Sovietmečio Lietuvoje baldai, indai ir televizoriai buvo deficitinės vartojimo prekės, kurioms įsigyti reikėjo talonų.'
+  sudarymo_pagrindimas: 'Perrašyta taip, kad teiginys tiesiogiai sietųsi su note objektu.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Duona|Duona]]; mentioned_object: [[objektai/daiktai/Vaistinės prekės, vaistai ir gydomieji gėrimai|Vaistinės prekės, vaistai ir gydomieji gėrimai]]; mentioned_place: Lietuva; mentioned_place: SSRS'
   pagrindžia:
     - c-001
 
@@ -80,13 +84,3 @@ Nenurodyta
 ## Šaltiniai ir įrodymai
 
 Nenurodyta
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/buities-daiktas]]
-
-### Susiję objektai
-- [[objektai/daiktai/Duona]]
-- [[objektai/daiktai/Vaistinės prekės, vaistai ir gydomieji gėrimai]]
-- [[objektai/paprociai/Sovietinio deficito eilės ir talonų laukimas]]
-- [[objektai/zodynas/deficitas talonai]]

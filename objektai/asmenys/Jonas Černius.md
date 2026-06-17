@@ -28,6 +28,11 @@ Jono Černiaus vyriausybėje, kuri vadinta „vieningo darbo“, abi opozicijos 
 - t-001
   global_id: t-170075
   teiginys: '1938 m. manevruose generolas Jonas Černius buvo fotografijoje šalia kariuomenės vado Stasio Raštikio.'
+  sudarymo_pagrindimas: 'Pirminis teiginys buvo tik nuotraukos nuoroda; citata leidžia suformuluoti faktą apie Černiaus dalyvavimą vaizde.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Kaunas; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1938 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pirminis teiginys buvo tik nuotraukos nuoroda; citata leidžia suformuluoti faktą apie Černiaus dalyvavimą vaizde.'
   pagrindžia:
     - c-002
 
@@ -35,9 +40,13 @@ Jono Černiaus vyriausybėje, kuri vadinta „vieningo darbo“, abi opozicijos 
 - t-002
   global_id: t-170076
   teiginys: 'Jono Černiaus vyriausybėje, kuri vadinta „vieningo darbo“, abi opozicijos partijos gavo po dvi ministrų vietas.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/V. Mironas.md#claim-t-78039|V. Mironas]]: Po Klaipėdos atplėšimo V. Mironą ministro pirmininko pareigose pakeitė generolas Jonas Černius.
+- susijęs iš [[objektai/asmenys/Vladas Mironas.md#claim-t-54005|Vladas Mironas]]: Po Klaipėdos atplėšimo Vladą Mironą premjero poste pakeitė generolas Jonas Černius.
+- susijęs iš [[objektai/asmenys/Vladas Mironas.md#claim-t-54006|Vladas Mironas]]: Po Klaipėdos atplėšimo V. Mironą ministro pirmininko poste pakeitė generolas Jonas Černius.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -73,13 +82,3 @@ Jono Černiaus vyriausybėje, kuri vadinta „vieningo darbo“, abi opozicijos 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Ginklai]]
-- [[objektai/grupes/Krikščionys]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/ivykiai/Jono Černiaus „vieningo darbo“ vyriausybės sudarymas po Klaipėdos praradimo (1939 m.)]]
-- [[objektai/grupes/Lietuvos krikščionių demokratų partija]]
-- [[objektai/grupes/Lietuvos valstiečių liaudininkų sąjunga]]
-- [[objektai/zodynas/Vieningo darbo vyriausybė]]

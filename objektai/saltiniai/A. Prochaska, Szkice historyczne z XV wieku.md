@@ -30,6 +30,11 @@ amziai:
 - t-001
   global_id: t-31605
   teiginys: 'A. Prochaskos „Szkice historyczne z XV wieku“ buvo išleista Krokuvoje ir Varšuvoje 1884 m.'
+  sudarymo_pagrindimas: 'Citata pateikia autorių, pavadinimą, leidimo vietas ir metus.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/Prochaska|Prochaska]]; mentioned_place: Krokuva; mentioned_place: Varšuva'
+  temporaliniai_duomenys: 'įvykio data: 1884 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pateikia autorių, pavadinimą, leidimo vietas ir metus.'
   pagrindžia:
     - c-001
 

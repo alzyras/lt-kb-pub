@@ -21,6 +21,7 @@ Sukilėliams puolant miestą, Vilniaus įgulai tiesiogiai vadovavo generolas maj
 - t-001
   global_id: t-40372
   teiginys: 'Nikolajus Arsenjevas buvo rusų Vilniaus įgulos vadas, kurį sukilėliai paėmė į nelaisvę Pacų rūmuose.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pacai|Pacai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/muškietininkai|muškietininkai]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_person: [[objektai/asmenys/A. Nelepcos|A. Nelepcos]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -28,9 +29,11 @@ Sukilėliams puolant miestą, Vilniaus įgulai tiesiogiai vadovavo generolas maj
 - t-002
   global_id: t-40373
   teiginys: 'Sukilėliams puolant miestą, Vilniaus įgulai tiesiogiai vadovavo generolas majoras Nikolajus Arsenjevas.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiksliai paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_person: [[objektai/asmenys/Bogdanas Knorringas|Bogdanas Knorringas]]; mentioned_place: Rusija; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/asmenys/Nikolajus Repinas.md#claim-t-183758|Nikolajus Repinas]]: Nikolajus Repinas buvo Rusijos pajėgų, nukreiptų prieš sukilėlius, vyriausiasis vadas.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -70,10 +73,3 @@ Sukilėliams puolant miestą, Vilniaus įgulai tiesiogiai vadovavo generolas maj
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Pacai]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/zodynas/muškietininkai]]
-- [[objektai/zodynas/įgula]]

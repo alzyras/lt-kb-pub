@@ -10,6 +10,7 @@ tags:
   - ginklas
   - kraštas
   - miestas
+  - pilis
 ---
 # Kopčius
 
@@ -23,9 +24,12 @@ Jis buvo ypač parankus ginant miestų sienas bei pilis ## Puslapis 81 žuvusio 
 - t-001
   global_id: t-80736
   teiginys: 'Totoriai nukirto žuvusio raštininko Kopčiaus galvą, pamovė ją ant mieto ir tyčiojosi iš likusių gyvųjų.'
+  sudarymo_pagrindimas: 'Pašalintas puslapio ir ginklo aprašo triukšmas, paliktas citata paremtas faktas apie Kopčių.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/daiktai/Mietas|Mietas]]; mentioned_object: [[objektai/daiktai/Parakas|Parakas]]; mentioned_object: [[objektai/daiktai/Trimitai|Trimitai]]; mentioned_object: [[objektai/zodynas/gurguolė|gurguolė]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/daiktai/Kablinis šautuvas.md#claim-t-183685|Kablinis šautuvas]]: Kablinio šautuvo parako užtaisas per specialią angą būdavo uždegamas smilkstančiu virbu arba dagtimi.
+- susijęs iš [[objektai/daiktai/Mietas.md#claim-t-80693|Mietas]]: Totoriai nukirto žuvusio raštininko Kopčiaus galvą, pamovė ją ant mieto ir tyčiojosi iš likusių gyvųjų.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -51,14 +55,3 @@ Jis buvo ypač parankus ginant miestų sienas bei pilis ## Puslapis 81 žuvusio 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuvos kariuomenė]]
-- [[objektai/daiktai/Mietas]]
-- [[objektai/daiktai/Parakas]]
-- [[objektai/daiktai/Trimitai]]
-- [[objektai/zodynas/gurguolė]]
-- [[objektai/zodynas/Miera|miera]]
-- [[objektai/daiktai/Kablinis šautuvas]]
-- [[objektai/grupes/Totoriai]]

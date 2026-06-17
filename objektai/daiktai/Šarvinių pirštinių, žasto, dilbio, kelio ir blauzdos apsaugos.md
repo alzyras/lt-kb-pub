@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Žasto, dilbio, kelio ir blauzdos apsaugos datuojamos XIV a. pabaiga ir XV a.
+Rugpjūčio pradžioje kariuomenė, persikėlusi per Dnieprą, jo kairiuoju krantu patraukė į Šarvinių pirštinių rekonstrukcija stepes, kur laukė prie kairiojo Dniepro intako Vorsklos, prie Ordos valdų paribių, susitiko su Aukso ordos chano Timūr-Kutluko kariuomene. Taip buvo delsiama, kol atvyko visoje Ordoje garsus kunigaikštis - emyras Žasto, dilbio, kelio ir blauzdos apsaugos.
 
 ## Pavadinimai šaltiniuose
 
@@ -41,6 +41,7 @@ Nenurodyta
 - t-001
   global_id: t-40805
   teiginys: 'Žasto, dilbio, kelio ir blauzdos apsaugos datuojamos XIV a. pabaiga ir XV a.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/emyras|emyras]]; mentioned_object: [[objektai/daiktai/Žasto, dilbio, kelio ir blauzdos apsaugos|Žasto, dilbio, kelio ir blauzdos apsaugos]]'
   pagrindžia:
     - c-001
 
@@ -60,8 +61,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/emyras]]
-- [[objektai/daiktai/Žasto, dilbio, kelio ir blauzdos apsaugos]]

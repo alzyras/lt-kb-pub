@@ -38,6 +38,9 @@ Nenurodyta
 - t-001
   global_id: t-08278
   teiginys: 'Akstys buvo ginklai, kurių galuose vietoj ietigalių buvo įtaisyti aštrūs akmenys.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Citata patvirtina akmenis aksties galuose, bet sakinį reikia suformuluoti tiksliau.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Brūklys|Brūklys]]; mentioned_object: [[objektai/daiktai/Kalavijai|Kalavijai]]; mentioned_object: [[objektai/daiktai/Vilniaus gaisro gesinimo įrankiai|Vilniaus gaisro gesinimo įrankiai]]'
   pagrindžia:
     - c-001
 
@@ -45,6 +48,8 @@ Nenurodyta
 - t-002
   global_id: t-08279
   teiginys: 'Tokios akstys dar buvo dėvimos 10 amžiuje ir siejamos su šv. Vaitiekaus pervėrimu.'
+  teiginio_tipas: 'faktas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vaitiekus (Lucko vyskupas)|Vaitiekus (Lucko vyskupas)]]'
   pagrindžia:
     - c-002
 
@@ -73,10 +78,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Brūklys]]
-- [[objektai/daiktai/Kalavijai]]
-- [[objektai/daiktai/Vilniaus gaisro gesinimo įrankiai]]
-- [[objektai/asmenys/Vaitiekus (Lucko vyskupas)]]

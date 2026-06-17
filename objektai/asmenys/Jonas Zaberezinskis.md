@@ -18,9 +18,16 @@ Karalius atėmė iš Jono Zaberezinskio Trakų vaivadiją, kai paaiškėjo, kad 
 - t-001
   global_id: t-186116
   teiginys: 'Karalius atėmė iš Jono Zaberezinskio Trakų vaivadiją, kai paaiškėjo, kad jo sumanymai seime tapo žinomi.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citatą reikia sutrumpinti ir pašalinti OCR triukšmą.'
+  susije_objektai: 'territory: Radomas; territory: Trakai; territory: Vilnius; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/Zaberezinskis|Zaberezinskis]]; mentioned_place: Radomas; mentioned_place: Trakai; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Jonas Zaberezinskis|Jonas Zaberezinskis]] buvo valdovas Radomas; [[objektai/asmenys/Jonas Zaberezinskis|Jonas Zaberezinskis]] buvo valdovas Trakai; [[objektai/asmenys/Jonas Zaberezinskis|Jonas Zaberezinskis]] buvo valdovas Vilnius'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/grupes/Lietuvos luomai.md#claim-t-185433|Lietuvos luomai]]: Lietuvos luomų vardu į Piotrkovo seimą balsuoti buvo pasiųsti Vaitiekus Taboras, Jonas Zaberezinskis ir Mikalojus Radvila.
+- susijęs iš Lietuvos senato laiškas Maskvos didikams dėl taikos, belaisvių ir apeigų: Jonas Zaberezinskis Lietuvos senato vardu įteikė Maskvos didikams laišką dėl taikos laikymosi, belaisvių švelnesnio traktavimo ir apeigų laisvės.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -50,6 +57,6 @@ Karalius atėmė iš Jono Zaberezinskio Trakų vaivadiją, kai paaiškėjo, kad 
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/seimas]]
-- [[objektai/grupes/Lietuvos luomai]]
+- Jonas Zaberezinskis buvo_valdovas [[objektai/vietos/Radomas]]
+- Jonas Zaberezinskis buvo_valdovas [[objektai/vietos/Trakai]]
+- Jonas Zaberezinskis buvo_valdovas [[objektai/vietos/Vilnius]]

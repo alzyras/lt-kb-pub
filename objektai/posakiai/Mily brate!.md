@@ -1,27 +1,17 @@
 ---
 tipas: posakis
-pavadinimas: "Mily brate!"
-sukurta: '2026-06-16'
-variantai: []
-aliases: []
+pavadinimas: 'Mily brate!'
 saltiniai:
-  - Lietuvos metraštis, Bychovco kronika (1971 m.)
-bukle: juodrastis
-laikotarpis: "XVI a."
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 datos:
-  - "XVI a."
-periodas: ""
-periodo_grupes: []
+  - '1501 m.'
+  - '1600 m.'
+date_start: '1501'
+date_end: '1600'
+sukurta: ''
+atnaujinta: ''
 amziai:
-  - "XVI"
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: ""
-atnaujinta: '2026-06-16'
-tags: []
+  - 'XVI'
 ---
 # Mily brate!
 
@@ -30,27 +20,32 @@ tags: []
 „Mily brate!“ yra kreipinio formulė, šiame leidinyje sieta su XVI a. teismų dekretų kalba ir Jogailos kreipiniu į Švitrigailą.
 
 ## Forma
+
 - Pagrindinė forma: Mily brate!
 
 ## Kontekstas ir vartojimas
+
 Formulė pateikiama kaip tiesioginės kalbos ir raštinės praktikos pavyzdys.
 
 ## Reikšmė
+
 Broliškas ar familiariai mandagus kreipinys į pašnekovą.
 
 ## Teiginiai
+
 <a id="claim-t-186884"></a>
 - t-001
   global_id: t-186884
   teiginys: 'XVI a. teismų dekretų kalboje ir Bychovco kronikos tiesioginėje kalboje vartota kreipinio formulė „Mily brate!“.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Sakinys gramatiškas, aiškus ir paremtas citata apie kreipinio formulę.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'XVI a. teismų dekretų kalboje ir Bychovco kronikos tiesioginėje kalboje vartota kreipinio formulė „Mily brate!“.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     Pasakojimui pagyvinti jis vartoja tiesioginę kalbą
@@ -59,15 +54,8 @@ Broliškas ar familiariai mandagus kreipinys į pašnekovą.
     retų, kur šalių replikos perteikiamos tiesiogine kalba,
     ir ieškovas kreipiasi į atsakovą: „Mily brate!" — taip,
     kaip Jogaila į Švitrigailą Bychovco kronikoje.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
-- [[objektai/asmenys/Švitrigaila]]

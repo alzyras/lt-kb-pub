@@ -28,6 +28,8 @@ Taip tikėtasi iš pačių lietuvių paruošti rusų aukštosios kultūros proce
 - t-001
   global_id: t-25372
   teiginys: 'Caro valdžia „lenkų suartinimo su rusais“ strategija siekė apsaugoti karalystės ne etninius lenkus nuo sulenkėjimo.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nusako caro valdžios strategijos tikslą ir yra paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Rusija'
   pagrindžia:
     - c-001
 
@@ -35,9 +37,17 @@ Taip tikėtasi iš pačių lietuvių paruošti rusų aukštosios kultūros proce
 - t-002
   global_id: t-183497
   teiginys: 'Lietuvos Užnemunėje švietimo politika siekė parengti lietuvius rusų aukštosios kultūros dalyviais ir suartinimo su rusų kultūra tarpininkais.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis teiginys prasideda kontekstiniu žodžiu ir turi būti sukonkretintas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Užnemunė'
   pagrindžia:
     - c-002
-
+- susijęs iš Lenkijos karalystė: Lenkijos karalystės teritorijoje apie visišką lenkų kalbos ir kultūros išstūmimą iš viešojo gyvenimo ir švietimo įstaigų nekalbėta.
+- susijęs iš Lietuvos Užnemunė: Caro valdžia Lietuvos Užnemunėje nurodė kurti mokyklas rusų dėstomąja kalba, lietuvių kalbą palikdama disciplinos statusu.
+- susijęs iš Lietuvos Užnemunė: Caro valdžia Lietuvos Užnemunėje nurodė kurti mokyklas rusų dėstomąja kalba, lietuvių kalbą palikdama disciplinos statusu.
+- susijęs iš Užnemunė: Lietuvos Užnemunėje caro valdžia nurodė kurti mokyklas rusų dėstomąja kalba, lietuvių kalbai paliekant disciplinos statusą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -74,11 +84,3 @@ Taip tikėtasi iš pačių lietuvių paruošti rusų aukštosios kultūros proce
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/zodynas/kirilika]]
-- [[objektai/zodynas/kirilika rusiškas raidynas lotyniškasis raidynas]]

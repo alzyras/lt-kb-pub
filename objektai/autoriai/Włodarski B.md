@@ -28,6 +28,11 @@ Dusburgietis teigia, kad włodarski В.
 - t-001
   global_id: t-60822
   teiginys: 'B. Włodarskis 1959 m. Torunėje paskelbė straipsnį apie jotvingių problemą lenkų ir rusėnų santykiuose.'
+  sudarymo_pagrindimas: 'Citata pateikia pakankamą bibliografinį autoriaus publikacijos pagrindą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_place: Torunė'
+  temporaliniai_duomenys: 'įvykio data: 1959 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pateikia pakankamą bibliografinį autoriaus publikacijos pagrindą.'
   pagrindžia:
     - c-001
 
@@ -44,8 +49,3 @@ Dusburgietis teigia, kad włodarski В.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Rusėnai]]

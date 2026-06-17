@@ -3,6 +3,10 @@ tipas: asmuo
 pavadinimas: 'Olafas (pietų Švedijos kunigaikštis)'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1008 m.'
+date_start: '1008'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -10,6 +14,11 @@ tags:
   - karalius
   - krikštas
   - kunigaikštis
+  - valdovas
+amziai:
+  - 'XI'
+periodo_grupes:
+  - 'viduramžiai'
 ---
 # Olafas (pietų Švedijos kunigaikštis)
 
@@ -23,6 +32,12 @@ Adalberto misija Prūsijoje (997), Norvegijos valdovo Olafo pradėta šalies chr
 - t-001
   global_id: t-19181
   teiginys: 'Pietų Švedijos kunigaikštis Olafas buvo pakrikštytas 1008 m.'
+  sudarymo_pagrindimas: 'Citata palaiko aiškų teiginį apie Olafo krikštą.'
+  susije_objektai: 'territory: Islandija; territory: Kijevas; territory: Kijevo Rusia; territory: Lenkija; territory: Lietuva; territory: Prūsija; territory: Švedija; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_object: [[objektai/zodynas/apsikarūnavimas|apsikarūnavimas]]; mentioned_object: [[objektai/zodynas/christianizacija|christianizacija]]; mentioned_person: [[objektai/asmenys/Adalbertas|Adalbertas]]; mentioned_person: [[objektai/asmenys/Netimeras|Netimeras]]; mentioned_place: Islandija; mentioned_place: Kijevas; mentioned_place: Kijevo Rusia; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Švedija'
+  semantiniai_rysiai: '[[objektai/asmenys/Olafas (pietų Švedijos kunigaikštis)|Olafas (pietų Švedijos kunigaikštis)]] buvo valdovas Islandija; [[objektai/asmenys/Olafas (pietų Švedijos kunigaikštis)|Olafas (pietų Švedijos kunigaikštis)]] buvo valdovas Kijevas; [[objektai/asmenys/Olafas (pietų Švedijos kunigaikštis)|Olafas (pietų Švedijos kunigaikštis)]] buvo valdovas Kijevo Rusia; [[objektai/asmenys/Olafas (pietų Švedijos kunigaikštis)|Olafas (pietų Švedijos kunigaikštis)]] buvo valdovas Lenkija; [[objektai/asmenys/Olafas (pietų Švedijos kunigaikštis)|Olafas (pietų Švedijos kunigaikštis)]] buvo valdovas Lietuva; [[objektai/asmenys/Olafas (pietų Švedijos kunigaikštis)|Olafas (pietų Švedijos kunigaikštis)]] buvo valdovas Prūsija; [[objektai/asmenys/Olafas (pietų Švedijos kunigaikštis)|Olafas (pietų Švedijos kunigaikštis)]] buvo valdovas Švedija'
+  temporaliniai_duomenys: 'valdymo laikotarpis: 1008 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Olafas (pietų Švedijos kunigaikštis) buvo valdovas Islandija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Olafas (pietų Švedijos kunigaikštis) buvo valdovas Kijevas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Olafas (pietų Švedijos kunigaikštis) buvo valdovas Kijevo Rusia“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Olafas (pietų Švedijos kunigaikštis) buvo valdovas Lenkija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Olafas (pietų Švedijos kunigaikštis) buvo valdovas Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Olafas (pietų Švedijos kunigaikštis) buvo valdovas Prūsija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Olafas (pietų Švedijos kunigaikštis) buvo valdovas Švedija“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko aiškų teiginį apie Olafo krikštą.'
   pagrindžia:
     - c-001
 
@@ -45,8 +60,10 @@ Adalberto misija Prūsijoje (997), Norvegijos valdovo Olafo pradėta šalies chr
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Adynos|adynos]]
-- [[objektai/zodynas/apsikarūnavimas]]
-- [[objektai/zodynas/christianizacija]]
-- [[objektai/zodynas/konversija christianizacija europeizacija]]
+- Olafas (pietų Švedijos kunigaikštis) buvo_valdovas [[objektai/vietos/Islandija]]
+- Olafas (pietų Švedijos kunigaikštis) buvo_valdovas [[objektai/vietos/Kijevas]]
+- Olafas (pietų Švedijos kunigaikštis) buvo_valdovas [[objektai/vietos/Kijevo Rusia]]
+- Olafas (pietų Švedijos kunigaikštis) buvo_valdovas [[objektai/vietos/Lenkija]]
+- Olafas (pietų Švedijos kunigaikštis) buvo_valdovas [[objektai/vietos/Lietuva]]
+- Olafas (pietų Švedijos kunigaikštis) buvo_valdovas [[objektai/vietos/Prūsija]]
+- Olafas (pietų Švedijos kunigaikštis) buvo_valdovas [[objektai/vietos/Švedija]]

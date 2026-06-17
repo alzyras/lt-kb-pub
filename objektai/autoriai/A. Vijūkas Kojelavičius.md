@@ -9,10 +9,6 @@ datos:
   - '1651 m.'
 date_start: '1648'
 date_end: '1651'
-aliases:
-  - 'objektai/asmenys/A. Vijūkas Kojelavičius'
-variantai:
-  - 'A. Vijūkas Kojelavičius'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -46,6 +42,8 @@ A. Vijūkas Kojelavičius viešuose įrašuose jau minimas kaip lotyniškos Liet
 - t-002
   global_id: t-102832
   teiginys: 'A. Vijūkas Kojelavičius Pagraudenę vadino Žemaitijos apylinke.'
+  sudarymo_pagrindimas: 'Citata tiesiogiai patvirtina, kaip Kojelavičius aiškino Pagraudenę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]; mentioned_person: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Pagraudenė'
   pagrindžia:
     - c-003
 
@@ -53,6 +51,7 @@ A. Vijūkas Kojelavičius viešuose įrašuose jau minimas kaip lotyniškos Liet
 - t-003
   global_id: t-102833
   teiginys: 'Kojelavičius Pagraudenę vadino apylinke Žemaitijoje.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]; mentioned_person: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Pagraudenė'
   pagrindžia:
     - c-003
 
@@ -60,6 +59,11 @@ A. Vijūkas Kojelavičius viešuose įrašuose jau minimas kaip lotyniškos Liet
 - t-004
   global_id: t-102834
   teiginys: 'A. Vijūkas Kojelavičius 1651 m. veikale „Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus“ rašė apie Lojevo mūšį.'
+  sudarymo_pagrindimas: 'Citata pagrindžia veikalo autorystę, datą ir temą.'
+  susije_objektai: 'mentioned_place: Lojevas'
+  temporaliniai_duomenys: 'įvykio data: 1651 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia veikalo autorystę, datą ir temą.'
   pagrindžia:
     - c-004
 
@@ -67,6 +71,11 @@ A. Vijūkas Kojelavičius viešuose įrašuose jau minimas kaip lotyniškos Liet
 - t-005
   global_id: t-102835
   teiginys: 'Amžininko Alberto Vijūko-Kojelavičiaus teigimu, Lenkijos kariuomenė dažnai stodavo į mūšį nepasvėrusi savo jėgų, vedina paniekos priešui.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_group: [[objektai/grupes/Lenkijos kariuomenė|Lenkijos kariuomenė]]; mentioned_place: Lenkija; mentioned_place: Mozyrius; mentioned_place: Starodubas'
+  temporaliniai_duomenys: 'įvykio data: 1648 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -74,6 +83,9 @@ A. Vijūkas Kojelavičius viešuose įrašuose jau minimas kaip lotyniškos Liet
 - t-006
   global_id: t-102838
   teiginys: 'Albertas Vijūkas-Kojelavičius vertino Lenkijos kariuomenės elgesį kaip dažnai nepasvertą ir vedamą paniekos priešui.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_group: [[objektai/grupes/Lenkijos kariuomenė|Lenkijos kariuomenė]]; mentioned_person: [[objektai/asmenys/Albertas|Albertas]]; mentioned_person: [[objektai/autoriai/Albertas Vijūkas-Kojelavičius|Albertas Vijūkas-Kojelavičius]]; mentioned_place: Lenkija; mentioned_place: Mozyrius; mentioned_place: Starodubas'
+  temporaliniai_duomenys: 'įvykio data: 1648 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -81,9 +93,14 @@ A. Vijūkas Kojelavičius viešuose įrašuose jau minimas kaip lotyniškos Liet
 - t-007
   global_id: t-102839
   teiginys: 'A. Vijūkas-Kojalavičius 1651 m. parašė veikalą „Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus“.'
+  susije_objektai: 'mentioned_place: Lojevas'
+  temporaliniai_duomenys: 'įvykio data: 1651 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-004
-
+- susijęs iš Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus: A. Vijūkas-Kojalavičius 1651 m. veikale „Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus“ rašė apie Lojevo mūšį.
+- susijęs iš Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus: A. Vijūko-Kojalavičiaus 1651 m. veikalo „Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus“ ištrauka yra apie Lojevo mūšį.
+- susijęs iš [[objektai/zodynas/pikinierius pikinieriai.md#claim-t-42496|pikinierius pikinieriai]]: Pikinierius buvo svetimšalių autoramento vokiškojo tipo pėstininkas-ietininkas.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -158,11 +175,3 @@ A. Vijūkas Kojelavičius viešuose įrašuose jau minimas kaip lotyniškos Liet
   pagrindžia:
     - t-004
     - t-007
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/pikinierius pikinieriai]]
-- [[objektai/grupes/Kazokai]]
-- [[objektai/grupes/Lenkijos kariuomenė]]
-- [[objektai/grupes/Rytas]]
-- [[objektai/zodynas/vėliava]]

@@ -29,6 +29,7 @@ Liubavskij). Liubavskij, M.
 - t-001
   global_id: t-30839
   teiginys: 'M. Liubavskij teigė, kad rusai siekė pasipelnyti iš lietuvių kailių, vaško ir medaus prekybos su Bizantija.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Vaškas|Vaškas]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Bizantija; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_place: Rusija'
   pagrindžia:
     - c-002
 
@@ -36,6 +37,7 @@ Liubavskij). Liubavskij, M.
 - t-002
   global_id: t-30840
   teiginys: 'M. Liubavskij paskelbė darbą apie Lietuvos ir slavų santykius XI-XII a.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -71,11 +73,3 @@ Liubavskij). Liubavskij, M.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Rusai]]
-- [[objektai/daiktai/Vaškas]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Slavai]]

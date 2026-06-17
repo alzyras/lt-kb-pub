@@ -20,6 +20,8 @@ Jonui, Polocko............................Stanislovui Jonui Da Vai­ nai, taurin
 - t-001
   global_id: t-87806
   teiginys: 'Nikodemas Janavičius iš Čechanovičių buvo Melniko seniūnas ir stalininkas.'
+  sudarymo_pagrindimas: 'Citata palaiko asmens pareigybes, o pradiniame teiginyje buvo OCR triukšmo ir fragmentų.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_object: [[objektai/zodynas/stalininkas|stalininkas]]; mentioned_object: [[objektai/zodynas/taurininkas|taurininkas]]; mentioned_person: [[objektai/asmenys/Jeronimas|Jeronimas]]; mentioned_place: Melnikas'
   pagrindžia:
     - c-001
 
@@ -40,9 +42,3 @@ Jonui, Polocko............................Stanislovui Jonui Da Vai­ nai, taurin
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/seniūnas]]
-- [[objektai/zodynas/stalininkas]]
-- [[objektai/zodynas/taurininkas]]

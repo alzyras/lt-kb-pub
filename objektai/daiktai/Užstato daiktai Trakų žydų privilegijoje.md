@@ -55,6 +55,7 @@ Nenurodyta
 - t-001
   global_id: t-55051
   teiginys: 'Privilegijoje žydui leista užstatu priimti įvairius atneštus daiktus, išskyrus kruvinas skaras, šlapius drabužius ir bažnytinius rykus.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; mentioned_object: [[objektai/daiktai/Rykai|Rykai]]'
   pagrindžia:
     - c-001
 
@@ -69,6 +70,7 @@ Nenurodyta
 - t-003
   global_id: t-55053
   teiginys: 'Po metų laikymo užstatą reikėjo parodyti teisėjui, o netinkamą užstatą buvo leidžiama parduoti.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 
@@ -76,6 +78,7 @@ Nenurodyta
 - t-004
   global_id: t-55054
   teiginys: 'Žirgus privilegijoje leista priimti užstatu tik dienai.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]'
   pagrindžia:
     - c-004
 
@@ -83,9 +86,29 @@ Nenurodyta
 - t-005
   global_id: t-81859
   teiginys: 'Trakų žydų privilegijoje leista užstatu priimti įvairius atneštus daiktus, išskyrus kruvinas skaras, šlapius drabužius ir bažnytinius rykus.'
+  sudarymo_pagrindimas: 'Sakinys sutvarkytas ir sukonkretintas pagal citatoje išvardytą užstato taisyklę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; mentioned_object: [[objektai/daiktai/Rykai|Rykai]]; mentioned_place: Trakai'
   pagrindžia:
     - c-005
-
+- susijęs iš [[objektai/asmenys/Markas (žydas kreditorius).md#claim-t-87547|Markas (žydas kreditorius)]]: Žydui kreditoriui Markui už šešių savaičių palūkanas nuo 250 zlotų buvo sumokėta 15 florinų.
+- susijęs iš [[objektai/asmenys/Mstivojus.md#claim-t-59896|Mstivojus]]: Sventopelkas turėjo atsiųsti savo pirmagimį sūnų Mstivojų broliams kaip taikos sutarties įkaitą.
+- susijęs iš [[objektai/asmenys/Pekarskis.md#claim-t-87820|Pekarskis]]: Pekarskiui buvo paskolinti 800 zlotų sidabrui, užstatytam Jo Karališkosios Didenybės reikalams.
+- susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90035|Sventopelkas]]: Sventopelkas taikos sąlygomis turėjo atiduoti broliams Sartovicų pilį ir įkaitais atsiųsti sūnų Mstivojų, Vimarą ir Vojaką.
+- susijęs iš [[objektai/asmenys/Vimaras [Gneomiras].md#claim-t-60465|Vimaras [Gneomiras]]]: Sventopelkas turėjo įkaitais broliams atsiųsti Mstivojų, burggrafą Vimarą ir kariuomenės vadą Vojaką.
+- susijęs iš [[objektai/asmenys/Vojakas [Vojachas].md#claim-t-60467|Vojakas [Vojachas]]]: Vojakas [Vojachas] davė broliams raštą, savo antspaudu patvirtintą277.
+- susijęs iš [[objektai/ivykiai/Sventopelko ir brolių susitaikymas (1243 m. pavasaris).md#claim-t-89404|Sventopelko ir brolių susitaikymas (1243 m. pavasaris)]]: Sventopelkas kaip užstatą turėjo atiduoti broliams Sartovicų pilį ir įkaitais atsiųsti Mstivojų, Vimarą bei Vojaką.
+- susijęs iš [[objektai/ivykiai/Sventopelko ir brolių susitaikymas (1243 m. pavasaris).md#claim-t-89405|Sventopelko ir brolių susitaikymas (1243 m. pavasaris)]]: Po susitaikymo Sventopelkas grąžino brolius ir kitus rastus belaisvius, tarp jų 70 kilmingų matronų.
+- susijęs iš [[objektai/ivykiai/Sventopelko ir brolių susitaikymas (1243 m. pavasaris).md#claim-t-89406|Sventopelko ir brolių susitaikymas (1243 m. pavasaris)]]: Sventopelkas atvyko pas legatą ir brolius, pripažino savo klaidą ir paprašė pasigailėjimo.
+- susijęs iš [[objektai/ivykiai/Vytauto pasitraukimas į Mazoviją, perėjimas pas kryžiuočius ir karo su kryžiuočiais pradžia.md#claim-t-185661|Vytauto pasitraukimas į Mazoviją, perėjimas pas kryžiuočius ir karo su kryžiuočiais pradžia]]: Ordino magistras Konradas Celneris parėmė Vytauto sumanymus ir nutarė nepraleisti progos pradėti karą.
+- susijęs iš [[objektai/ivykiai/Vytauto pasitraukimas į Mazoviją, perėjimas pas kryžiuočius ir karo su kryžiuočiais pradžia.md#claim-t-185662|Vytauto pasitraukimas į Mazoviją, perėjimas pas kryžiuočius ir karo su kryžiuočiais pradžia]]: Vytautas užrašė kryžiuočiams visą Žemaitiją kaip užstatą, kad gautų tris šimtus tūkstančių kapų karo reikmėms.
+- susijęs iš [[objektai/paprociai/Žydų ir krikščionių bylų liudijimo bei priesaikos tvarka.md#claim-t-87293|Žydų ir krikščionių bylų liudijimo bei priesaikos tvarka]]: Bylose dėl žydo pinigų, turto ar kriminalinio kaltinimo krikščionis prieš žydą galėjo liudyti tik kartu su krikščioniu ir žydu.
+- susijęs iš [[objektai/paprociai/Žydų savivaldos, teismo ir priesaikos prie mokyklos tvarka.md#claim-t-87172|Žydų savivaldos, teismo ir priesaikos prie mokyklos tvarka]]: Žydai turėjo būti teisiami tik mokyklose arba įprastose žydų teismo vietose, išskyrus valdovo ar seniūno šaukimą jų akivaizdon.
+- susijęs iš [[objektai/paprociai/Žydų užstatų laikymo, rodymo, pardavimo ir švenčių netrukdymo tvarka.md#claim-t-87242|Žydų užstatų laikymo, rodymo, pardavimo ir švenčių netrukdymo tvarka]]: Jeigu žydas metus laikytą krikščionio užstatą vertino mažiau už skolą, jis turėjo parodyti užstatą savo teisėjui.
+- susijęs iš [[objektai/posakiai/aš tą užstatytą arklį paėmiau už savo pinigus.md#claim-t-86853|aš tą užstatytą arklį paėmiau už savo pinigus]]: Formulė „aš tą užstatytą arklį paėmiau už savo pinigus“ buvo žydo priesaikos tekstas ginče dėl vogto žirgo.
+- susijęs iš [[objektai/posakiai/metus ir dieną.md#claim-t-86864|metus ir dieną]]: Jeigu užstatas pas žydą išbūdavo metus ir dieną, praėjus tam laikui jis dėl užstato nebeprivalėjo niekam atsakyti.
+- susijęs iš Brasta: Brastoje iš žydo buvo paimti 96 raudonieji auksinai po 56 lenkiškus grašius už sidabro užstatą karaliaus reikalams.
+- susijęs iš Žemaičių žemė: Lietuvos metraštyje Vytautas, būdamas pas magistrą Marienburge, už tris šimtus tūkstančių auksinų užstato vokiečiams Žemaičių žemę.
+- susijęs iš [[objektai/zodynas/raudonasis auksinas, taleris ir dukatas.md#claim-t-86492|raudonasis auksinas, taleris ir dukatas]]: Ponas Pekarskis perdavė 96 raudonuosius auksinus, imtus Brastoje po 56 lenkiškus grašius už vienetą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -190,26 +213,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-005
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Drabužiai]]
-- [[objektai/zodynas/seniūnas]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/daiktai/Žirgai]]
-- [[objektai/asmenys/Markas (žydas kreditorius)]]
-- [[objektai/asmenys/Mstivojus]]
-- [[objektai/asmenys/Pekarskis]]
-- [[objektai/asmenys/Sventopelkas]]
-- [[objektai/ivykiai/Sventopelko ir brolių susitaikymas (1243 m. pavasaris)]]
-- [Vimaras [Gneomiras]](/objektai/asmenys/Vimaras%20%5BGneomiras%5D)
-- [Vojakas [Vojachas]](/objektai/asmenys/Vojakas%20%5BVojachas%5D)
-- [[objektai/ivykiai/Vytauto pasitraukimas į Mazoviją, perėjimas pas kryžiuočius ir karo su kryžiuočiais pradžia]]
-- [[objektai/posakiai/aš tą užstatytą arklį paėmiau už savo pinigus]]
-- [[objektai/posakiai/metus ir dieną]]
-- [[objektai/zodynas/raudonasis auksinas, taleris ir dukatas]]
-- [[objektai/paprociai/Žydų ir krikščionių bylų liudijimo bei priesaikos tvarka]]
-- [[objektai/paprociai/Žydų savivaldos, teismo ir priesaikos prie mokyklos tvarka]]
-- [[objektai/paprociai/Žydų užstatų laikymo, rodymo, pardavimo ir švenčių netrukdymo tvarka]]
-- [[objektai/daiktai/Rykai]]
-- [[objektai/grupes/Žydai]]

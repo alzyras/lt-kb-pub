@@ -30,6 +30,11 @@ Nenurodyta
 - t-001
   global_id: t-185698
   teiginys: 'Bresto seimo pradžioje Jurgis Chodkevičius buvo paskirtas Lietuvos Didžiosios Kunigaikštystės archikamerarijumi.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pašalinti OCR iškraipymai ir perteklinės detalės.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_object: [[objektai/zodynas/archikamerarijus|archikamerarijus]]; mentioned_object: [[objektai/zodynas/luomai|luomai]]; mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/Jurgis Chodkevičius|Jurgis Chodkevičius]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -53,12 +58,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Chodkevičiai]]
-- [[objektai/zodynas/luomai]]
-- [[objektai/zodynas/luomas]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/asmenys/Jurgis Chodkevičius]]
-- [[objektai/zodynas/archikamerarijus]]

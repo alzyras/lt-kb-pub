@@ -38,6 +38,8 @@ Nenurodyta
 - t-001
   global_id: t-08298
   teiginys: 'Klėtis buvo pakelta ant trinkų ar akmenų, grįsta ir lubota lentomis dėl sausumo.'
+  teiginio_tipas: 'faktas'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kailiai|Kailiai]]; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -45,9 +47,17 @@ Nenurodyta
 - t-002
   global_id: t-08299
   teiginys: 'Klėtyje viename kambaryje laikyti javai, kitame kabėjo drabužiai, todėl tas kambarys vadinosi svirnu.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Citata palaiko kambarių paskirtį ir svirno pavadinimo kilmę.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/grupes/Jotvingiai.md#claim-t-178769|Jotvingiai]]: 1279 m. per badmetį Lietuvoje ir Jotvingijoje jotvingiai prašė kunigaikščio Vladimiro parduoti rugių.
+- susijęs iš [[objektai/grupes/Jotvingiai.md#claim-t-178777|Jotvingiai]]: Per 1279 metų badmetį Lietuvoje ir Jotvingijoje jotvingiai prašė kunigaikščio Vladimiro parduoti rugių.
+- susijęs iš [[objektai/grupes/Jotvingiai.md#claim-t-178778|Jotvingiai]]: Jotvingių pavyzdys rodo, kad jų žemės ūkis buvo greitai pažeidžiamas priešų antpuolių.
+- susijęs iš [[objektai/grupes/Jotvingiai.md#claim-t-178782|Jotvingiai]]: Jotvingių pavyzdys rodo, kad jų žemės ūkis buvo greitai pažeidžiamas priešų ir badmečių.
+- susijęs iš [[objektai/ivykiai/1279 m. badmetis Lietuvoje ir Jotvingijoje.md#claim-t-31394|1279 m. badmetis Lietuvoje ir Jotvingijoje]]: Per 1279 m. badmetį Lietuvoje ir Jotvingijoje jotvingiai prašė kunigaikštį Vladimirą parduoti rugių.
+- susijęs iš Jotvingija: 1279 m. per badmetį Lietuvoje ir Jotvingijoje jotvingiai prašė kunigaikščio Vladimiro parduoti rugių.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -77,9 +87,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Drabužiai]]
-- [[objektai/ivykiai/1279 m. badmetis Lietuvoje ir Jotvingijoje]]
-- [[objektai/grupes/Jotvingiai]]

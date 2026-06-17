@@ -23,6 +23,8 @@ Nuo neat­ menamų laikų ten buvo kunigaikščių pilis, kuri vėliau do­ vano
 - t-001
   global_id: t-86793
   teiginys: 'Pilaitės kunigaikščių pilis po Viršilų giminės perėjo Glebavičių paveldui.'
+  sudarymo_pagrindimas: 'Pašalintas ilgas savininkų sąrašas ir paliktas faktas apie Glebavičius.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Pilaitės kunigaikščių pilis|Pilaitės kunigaikščių pilis]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Pilaitė; mentioned_place: Sudervėlė; mentioned_place: Vilija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -48,12 +50,3 @@ Nuo neat­ menamų laikų ten buvo kunigaikščių pilis, kuri vėliau do­ vano
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/daiktai/Pilaitės kunigaikščių pilis]]
-- [[objektai/grupes/Lietuvos jėzuitų kolegijos]]
-- [[objektai/grupes/Viršilų giminė]]

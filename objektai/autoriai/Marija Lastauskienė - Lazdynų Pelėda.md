@@ -20,6 +20,8 @@ Marija Lastauskienė - Lazdynų Pelėda.
 - t-001
   global_id: t-34879
   teiginys: 'Marija Lastauskienė buvo siejama su Lazdynų Pelėdos vardu ir apysaka „Radybos“.'
+  sudarymo_pagrindimas: 'Pradinis teiginys neturi predikato, bet citata leidžia suformuluoti faktą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Marija|Marija]]'
   pagrindžia:
     - c-001
 

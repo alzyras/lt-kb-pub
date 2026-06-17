@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-1922 m. Lietuvos Valstybės Konstitucijoje valstybės vėliavos spalvos buvo geltona, žalia ir raudona.
+Seimas 1922 m. rugpjūčio 1 d. priimtoje Lietuvos Valstybės Konstitucijoje įtvirtino Prancūzijos III respublikos pavyzdžio demokratijos principus.
 
 ## Pavadinimai šaltiniuose
 
@@ -49,6 +49,11 @@ Nenurodyta
 - t-001
   global_id: t-77928
   teiginys: '1922 m. Lietuvos Valstybės Konstitucijoje valstybės vėliavos spalvos buvo geltona, žalia ir raudona.'
+  sudarymo_pagrindimas: 'Citata remia spalvų faktą, bet ne tiesiogiai žodį „nustatyta“.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Herbas|Herbas]]; mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_object: [[objektai/daiktai/Vėliavos|Vėliavos]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lietuva; mentioned_place: Prancūzija'
+  temporaliniai_duomenys: 'įvykio data: 1922 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata remia spalvų faktą, bet ne tiesiogiai žodį „nustatyta“.'
   pagrindžia:
     - c-001
 
@@ -73,14 +78,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/grupes/Bajorai]]
-- [[objektai/daiktai/Herbas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/daiktai/Vytis]]
-- [[objektai/daiktai/Vėliavos]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/daiktai/Lietuvos herbas Vytis]]

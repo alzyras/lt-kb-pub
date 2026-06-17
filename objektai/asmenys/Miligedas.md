@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Miligedas nukovė savo iššaukėją, paspruko į mišką ir slaptais keliais sugrįžo į Bartenšteino pilį. Miligedas buvo Bartenšteino pilies vyras, kurį prūsai laikė itin svarbiu pilies įgulai.
+Dusburgietis teigia, kad mat Bartenšteino pilyje buvo vienas vyras, vardu Miligedas, toks drąsus, kad prūsams rodėsi, jog, jį nukovus, pusė pilies įgulos būtų buvusi sunaikinta. Dusburgietis teigia, kad sitai girdėdamas, Miligedas, paprašęs brolių leidimo ir jį gavęs, išėjo ir pradėjo šį bėgantį vytis.
 
 ## Teiginiai
 
@@ -21,6 +21,8 @@ Miligedas nukovė savo iššaukėją, paspruko į mišką ir slaptais keliais su
 - t-001
   global_id: t-60173
   teiginys: 'Miligedas nukovė savo iššaukėją, paspruko į mišką ir slaptais keliais sugrįžo į Bartenšteino pilį.'
+  sudarymo_pagrindimas: 'Pradinis teiginys netiksliai perteikia veiksmą; citata remia aiškesnę formuluotę.'
+  susije_objektai: 'mentioned_place: Bartenšteinas'
   pagrindžia:
     - c-001
 
@@ -28,6 +30,8 @@ Miligedas nukovė savo iššaukėją, paspruko į mišką ir slaptais keliais su
 - t-002
   global_id: t-60174
   teiginys: 'Miligedas buvo Bartenšteino pilies vyras, kurį prūsai laikė itin svarbiu pilies įgulai.'
+  sudarymo_pagrindimas: 'Citata palaiko asmens ryšį su Bartenšteinu ir jo reikšmę.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_place: Bartenšteinas; mentioned_place: Prūsai'
   pagrindžia:
     - c-002
 
@@ -61,7 +65,3 @@ Miligedas nukovė savo iššaukėją, paspruko į mišką ir slaptais keliais su
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/įgula]]

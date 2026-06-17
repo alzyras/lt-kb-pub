@@ -1,27 +1,10 @@
 ---
-tipas: 'ivykis'
+tipas: ivykis
 pavadinimas: 'Pskovo pasidavimas Vytautui ir vietininko paskyrimas'
-sukurta: '2026-06-16'
-variantai:
-  - 'Veližo ir Krasnyj Gorodo paėmimas'
-  - 'Jurijaus Nosos paskyrimas Pskovo vietininku'
-aliases: []
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
-bukle: 'juodrastis'
-laikotarpis: 'sekančiais metais'
-datos:
-  - 'sekančiais metais'
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: ''
-atnaujinta: '2026-06-16'
+sukurta: ''
+atnaujinta: ''
 tags: []
 ---
 # Pskovo pasidavimas Vytautui ir vietininko paskyrimas
@@ -37,43 +20,52 @@ Lietuvos metraštis pasakoja, kad kitais metais Vytautas išsirengė prieš Psko
   - sekančiais metais
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 <a id="claim-t-186598"></a>
 - t-001
   global_id: t-186598
   teiginys: 'Lietuvos metraštis pasakoja, kad kitais metais Vytautas išsirengė prieš Pskovą ir paėmė Veližą bei Krasnyj Gorodą.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Sakinys pilnas, aiškus ir paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Naugardas; mentioned_place: Pinskas; mentioned_place: Porchovas; mentioned_place: Pskovas; mentioned_place: Veližas'
   pagrindžia:
     - c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  statusas: patvirtinta
+
 <a id="claim-t-186599"></a>
 - t-002
   global_id: t-186599
-  teiginys: 'Lietuvos metraštis pasakoja, kad pskoviečiai pasiuntė pasiuntinius ir pažadėjo klausyti Vytauto, mokėti duoklę bei įsileisti jo vietininką.'
+  teiginys: 'Lietuvos metraštis pasakoja, kad Vytautas pasodino Pskove vietininku Pinsko kunigaikštį Jurijų, pramintą Nosimi.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Sakinys pilnas, gramatiškas ir tiksliai paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Naugardas; mentioned_place: Pinskas; mentioned_place: Porchovas; mentioned_place: Pskovas'
   pagrindžia:
     - c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  statusas: patvirtinta
+
 <a id="claim-t-186600"></a>
 - t-003
   global_id: t-186600
-  teiginys: 'Lietuvos metraštis pasakoja, kad Vytautas pasodino Pskove vietininku Pinsko kunigaikštį Jurijų, pramintą Nosimi.'
+  teiginys: 'Lietuvos metraštis pasakoja, kad pskoviečiai pasiuntė pas Vytautą pasiuntinius, pažadėjo jo klausyti, mokėti duoklę ir įsileisti vietininką.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Sakinys sutrumpintas ir pašalinta perteklinė įvardinė konstrukcija.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pskoviečiai|Pskoviečiai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/duoklė|duoklė]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Naugardas; mentioned_place: Pinskas; mentioned_place: Porchovas; mentioned_place: Pskovas'
   pagrindžia:
     - c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Lietuvos metraštis pasakoja, kad kitais metais Vytautas išsirengė prieš Pskovą ir paėmė Veližą bei Krasnyj Gorodą.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     Didysis kunigaikštis Vytautas, sutelkęs visas savo
@@ -95,24 +87,10 @@ Nenurodyta
     pasodino pas juos vietininku Pinsko kunigaikštį Juri­
     jų, pramintą Nosimi8 , o pats su visomis pajėgomis nu­
     žygiavo prieš Naugardą.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   pagrindžia:
     - t-001
-    - t-002
     - t-003
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/politinis-sprendimas]]
-
-### Susiję objektai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/didysis kunigaikštis]]
-- [[objektai/zodynas/vietininkas]]
-- [[objektai/grupes/Pskoviečiai]]
-- [[objektai/zodynas/duoklė]]
-- [[objektai/zodynas/metraštis]]
+    - t-002

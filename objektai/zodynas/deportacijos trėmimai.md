@@ -21,6 +21,8 @@ Slopinant ginkluotą pasipriešinimą griebtasi masinių deportacijų į Sibirą
 - t-001
   global_id: t-101575
   teiginys: 'Iki Atgimimo sovietmečiu drausta viešai kalbėti apie pokario masines gyventojų deportacijas ir partizanų kovas.'
+  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir paliktas su deportacijomis susijęs citatos faktas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/duoklė|duoklė]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -48,8 +50,3 @@ Slopinant ginkluotą pasipriešinimą griebtasi masinių deportacijų į Sibirą
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/duoklė]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

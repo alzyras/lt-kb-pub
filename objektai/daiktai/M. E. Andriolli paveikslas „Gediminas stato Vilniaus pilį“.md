@@ -48,6 +48,11 @@ Nenurodyta
 - t-001
   global_id: t-77930
   teiginys: 'M. E. Andriolli paveikslas „Gediminas stato Vilniaus pilį“ sukurtas 1882 m.'
+  sudarymo_pagrindimas: 'Pradinis teiginys sugadintas OCR triukšmo, o citata patvirtina autorių, pavadinimą ir datą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/M. E. Andriolli|M. E. Andriolli]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1882 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys sugadintas OCR triukšmo, o citata patvirtina autorių, pavadinimą ir datą.'
   pagrindžia:
     - c-001
 
@@ -66,11 +71,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/dinastija]]
-
-### Susiję objektai
-- [[objektai/asmenys/Gediminas]]
-- [[objektai/asmenys/M. E. Andriolli]]

@@ -31,6 +31,8 @@ amziai:
 - t-001
   global_id: t-180060
   teiginys: 'Kriavo ir Vitebsko kunigaikštis Algirdas sėkmingai gynė Pskovą nuo Livonijos kryžiuočių.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir aiškiai pagrįstas citata.'
+  susije_objektai: 'territory: Livonija; territory: Pskovas; territory: Vitebskas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Jaunutis|Jaunutis]]; mentioned_place: Livonija; mentioned_place: Pskovas; mentioned_place: Vitebskas'
   pagrindžia:
     - c-002
 
@@ -38,6 +40,9 @@ amziai:
 - t-002
   global_id: t-180061
   teiginys: '1385 m. rugpjūčio 14 d. Kriavo pilyje buvo surašytas aktas, vėliau atgabentas į Krokuvą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Krokuva'
+  temporaliniai_duomenys: 'įvykio data: 1385 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

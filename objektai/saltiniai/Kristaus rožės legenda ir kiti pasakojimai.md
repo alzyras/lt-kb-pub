@@ -20,6 +20,8 @@ Selma Lagerlöf KRISTAUS ROŽES LEGENDA IR KITI PASAKO­ JIMAI.
 - t-001
   global_id: t-36064
   teiginys: '„Kristaus rožės legenda ir kiti pasakojimai“ buvo Selmos Lagerlöf pasakojimų leidinys.'
+  sudarymo_pagrindimas: 'Citata pagrindžia autorę ir leidinio pavadinimą, bet pradinis sakinys turi kabantį inicialą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Selma Lagerlöf|Selma Lagerlöf]]'
   pagrindžia:
     - c-001
 

@@ -30,6 +30,11 @@ Dusburgietis teigia, kad otrembskls nekritiškai pasirėmė Livonijos atstovų p
 - t-001
   global_id: t-60990
   teiginys: 'J. Otrembskis nekritiškai pasirėmė Livonijos atstovų prieštaravimo lotyniškojo vertimo fraze apie Lietuvos karaliaus pusę.'
+  sudarymo_pagrindimas: 'Teiginys yra apie interpretacijos kritiką, todėl pagrįstai išlaikoma autorinė atribucija.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Livonija'
+  temporaliniai_duomenys: 'įvykio data: 1322 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra apie interpretacijos kritiką, todėl pagrįstai išlaikoma autorinė atribucija.'
   pagrindžia:
     - c-002
 
@@ -37,6 +42,8 @@ Dusburgietis teigia, kad otrembskls nekritiškai pasirėmė Livonijos atstovų p
 - t-002
   global_id: t-60991
   teiginys: 'Livonijos atstovų prieštaravimo originale minimas Lietuvos karalius ir Aukštaičių, Žemaičių, Pskovo bei rusų kraštai.'
+  sudarymo_pagrindimas: 'Teiginys tiksliai apibendrina originale minimus Lietuvos karalių ir kraštus.'
+  susije_objektai: 'territory: Lamata; territory: Lietuva; territory: Livonija; territory: Nemunas; territory: Pagraudė; territory: Pskovas; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lamata; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Nemunas; mentioned_place: Pagraudė; mentioned_place: Pskovas'
   pagrindžia:
     - c-001
 

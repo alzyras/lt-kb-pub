@@ -28,6 +28,12 @@ Dusburgietis teigia, kad sembritzki J.
 - t-001
   global_id: t-62657
   teiginys: 'J. Sembritzkis 1926 m. Memelyje išleido knygą apie karališkojo Prūsijos jūrų ir prekybos miesto Memelio istoriją.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Bibliografinis įrašas pagrindžia autoriaus knygos temą, leidimo vietą ir metus.'
+  susije_objektai: 'mentioned_place: Prūsija'
+  temporaliniai_duomenys: 'įvykio data: 1926 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Bibliografinis įrašas pagrindžia autoriaus knygos temą, leidimo vietą ir metus.'
   pagrindžia:
     - c-001
 

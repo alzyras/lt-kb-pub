@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Vytauto politika buvo siejama su „švento valdovo“ įvaizdžiu, lyginant jį su šventuoju tapusiu Vengrijos valdovu Steponu. Vytauto politika, autorių vertinimu, buvo orientuota į bažnytinę politiką, Lietuvos konversiją ir „švento valdovo“ įvaizdį.
+Atrodo, kad visa Vytauto politika orientuota į „švento valdovo“ įvaizdį – kaip prieš kelis šimtmečius Vengrijos valdovas Steponas įgijo aukštesnį statusą nei Didysis – tapo šventuoju Steponu.
 
 ## Teiginiai
 
@@ -23,6 +23,8 @@ Vytauto politika buvo siejama su „švento valdovo“ įvaizdžiu, lyginant jį
 - t-001
   global_id: t-20971
   teiginys: 'Vytauto politika buvo siejama su „švento valdovo“ įvaizdžiu, lyginant jį su šventuoju tapusiu Vengrijos valdovu Steponu.'
+  sudarymo_pagrindimas: 'Pradinis teiginys negrabiai suformuluotas, bet citata remia glaustesnę versiją.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/autoriai/Grigorijus Camblakas|Grigorijus Camblakas]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Vengrija'
   pagrindžia:
     - c-001
 
@@ -30,6 +32,11 @@ Vytauto politika buvo siejama su „švento valdovo“ įvaizdžiu, lyginant jį
 - t-002
   global_id: t-183515
   teiginys: 'Vytauto politika, autorių vertinimu, buvo orientuota į bažnytinę politiką, Lietuvos konversiją ir „švento valdovo“ įvaizdį.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus autoriaus vertinimo apibendrinimas, paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/apsikarūnavimas|apsikarūnavimas]]; mentioned_object: [[objektai/zodynas/christianizacija|christianizacija]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Lietuva; mentioned_place: Vengrija'
   pagrindžia:
     - c-002
 
@@ -72,14 +79,3 @@ Vytauto politika buvo siejama su „švento valdovo“ įvaizdžiu, lyginant jį
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/Grigorijus Camblakas]]
-- [[objektai/daiktai/Kryžius]]
-- [[objektai/asmenys/Steponas]]
-- [[objektai/zodynas/apsikarūnavimas]]
-- [[objektai/zodynas/christianizacija]]
-- [[objektai/asmenys/Steponas (Vengrijos valdovas)]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/konversija christianizacija europeizacija]]

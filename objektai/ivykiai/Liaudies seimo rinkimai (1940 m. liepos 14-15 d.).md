@@ -3,18 +3,24 @@ tipas: ivykis
 pavadinimas: 'Liaudies seimo rinkimai (1940 m. liepos 14-15 d.)'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1940 m.'
+date_start: '1940'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - elekcija
   - ivykis
   - seimas
+amziai:
+  - 'XX'
 ---
 # Liaudies seimo rinkimai (1940 m. liepos 14-15 d.)
 
 ## Santrauka
 
-Prieš 1940 m. Liaudies seimo rinkimus valdžia liepos 11–12 d. suėmė kelis šimtus žinomų Lietuvos veikėjų. Lietuvos aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus, o toks pat scenarijus taikytas Latvijoje ir Estijoje. Per Liaudies seimo rinkimų agitaciją valdžia daug dėmesio skyrė Antano Smetonos režimo kritikai ir niekinimui.
+Aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus – toks pat scenarijus taikytas Latvijoje ir Estijoje. Per rinkimų agitaciją valdžia daug dėmesio skyrė A. Oficialiais duomenimis, liepos 14–15 dienos rinkimuose į Liaudies seimą dalyvavo 95 proc.
 
 ## Laikotarpis ir datos
 
@@ -38,6 +44,11 @@ Nenurodyta
 - t-001
   global_id: t-75121
   teiginys: 'Prieš 1940 m. Liaudies seimo rinkimus valdžia liepos 11–12 d. suėmė kelis šimtus žinomų Lietuvos veikėjų.'
+  sudarymo_pagrindimas: 'Patikslintas įvykio laikas pagal pavadinimą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1940 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Patikslintas įvykio laikas pagal pavadinimą.'
   pagrindžia:
     - c-004
 
@@ -45,6 +56,8 @@ Nenurodyta
 - t-002
   global_id: t-75122
   teiginys: 'Lietuvos aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus, o toks pat scenarijus taikytas Latvijoje ir Estijoje.'
+  sudarymo_pagrindimas: 'Reikia aiškiai įvardyti Lietuvos aneksiją.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/aneksija|aneksija]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Estija; mentioned_place: Latvija; mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-003
 
@@ -52,6 +65,8 @@ Nenurodyta
 - t-003
   global_id: t-75123
   teiginys: 'Per Liaudies seimo rinkimų agitaciją valdžia daug dėmesio skyrė Antano Smetonos režimo kritikai ir niekinimui.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/posakiai/„asmenys, kurie nebalsuos, yra liaudies priešai“|„asmenys, kurie nebalsuos, yra liaudies priešai“]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -59,6 +74,11 @@ Nenurodyta
 - t-004
   global_id: t-75124
   teiginys: 'Oficialiais duomenimis, 1940 m. liepos 14–15 d. rinkimuose į Liaudies seimą dalyvavo 95 proc. rinkėjų.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie rinkimus.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/posakiai/„asmenys, kurie nebalsuos, yra liaudies priešai“|„asmenys, kurie nebalsuos, yra liaudies priešai“]]'
+  temporaliniai_duomenys: 'įvykio data: 1940 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie rinkimus.'
   pagrindžia:
     - c-001
 
@@ -66,6 +86,14 @@ Nenurodyta
 - t-006
   global_id: t-183235
   teiginys: 'Prieš Liaudies seimo rinkimus, 1940 m. liepos 11–12 d., valdžia suėmė kelis šimtus žinomų šalies veikėjų.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/posakiai/„asmenys, kurie nebalsuos, yra liaudies priešai“|„asmenys, kurie nebalsuos, yra liaudies priešai“]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1940 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citata.'
   pagrindžia:
     - c-006
 
@@ -172,13 +200,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-006
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/A. Smetona]]
-- [[objektai/zodynas/aneksija]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/posakiai/„asmenys, kurie nebalsuos, yra liaudies priešai“]]
-- [[objektai/asmenys/Antanas (vaistininkas)]]
-- [[objektai/grupes/Lietuvos komunistų partija]]
-- [[objektai/zodynas/liaudies priešai]]

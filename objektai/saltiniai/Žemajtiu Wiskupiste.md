@@ -28,6 +28,11 @@ amziai:
 - t-001
   global_id: t-36138
   teiginys: 'Motiejaus K. Wołonczewskio „Żemajtiu Wiskupiste“ buvo išleista Vilniuje 1848 m.'
+  sudarymo_pagrindimas: 'Citata pagrindžia autorių, pavadinimą, leidimo vietą ir metus, o pradinis tekstas yra bibliografinė santrumpa.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1848 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia autorių, pavadinimą, leidimo vietą ir metus, o pradinis tekstas yra bibliografinė santrumpa.'
   pagrindžia:
     - c-001
 

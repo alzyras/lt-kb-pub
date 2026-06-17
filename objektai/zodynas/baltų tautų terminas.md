@@ -16,18 +16,19 @@ tags:
 Lig šiol svetimšaliai, kai kalbėdavo apie lietuvių kilmės tautas, vartodavo baltų tautų terminą.
 
 ## Teiginiai
+
 <a id="claim-t-02960"></a>
 - t-001
   global_id: t-02960
   teiginys: 'Svetimšaliai lietuvių kilmės tautoms vadinti vartojo baltų tautų terminą.'
+  sudarymo_pagrindimas: 'Citata leidžia trumpesnę ir neutralesnę formuluotę be laiko perspektyvos triukšmo.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Baltija'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Svetimšaliai lietuvių kilmės tautoms vadinti vartojo baltų tautų terminą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Visos lietuvių kilmės kiltys anais senovės laikais bendro vardo
@@ -35,15 +36,8 @@ Lig šiol svetimšaliai, kai kalbėdavo apie lietuvių kilmės tautas, vartodavo
     žinomas. Lig šiol svetimšaliai, kai kalbėdavo apie lietuvių kilmės tau-
     tas, vartodavo _baltų tautų_ terminą. Tas geografinis terminas reiš-
     kia Baltijos pajūrio tautas.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Baltai]]

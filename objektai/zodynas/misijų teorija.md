@@ -5,8 +5,9 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1422 m.'
+  - '1435 m.'
 date_start: '1422'
-date_end: ''
+date_end: '1435'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -29,6 +30,9 @@ amziai:
 - t-001
   global_id: t-32797
   teiginys: 'Kryžiuočių ordinas atstovavo ginkluotai misijų teorijai ir buvo paliktas nuošalyje atnaujinant lotyniškąjį krikštą Lietuvoje.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Varpai|Varpai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Sūduva'
+  temporaliniai_duomenys: 'įvykio data: 1422 m.; įvykio data: 1435 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -53,15 +57,3 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
-- [[objektai/daiktai/Varpai]]
-- [[objektai/daiktai/Monetos]]
-- [[objektai/paprociai/Monetų kalimas ir pabūklų, varpų liejimas]]
-- [[objektai/paprociai/Vidaus kolonizacija Sūduvos giriose]]
-- [[objektai/zodynas/lotyniškasis krikštas|lotyniškasis krikštas (krikštas)]]
-- [[objektai/zodynas/vidaus kolonizacija]]

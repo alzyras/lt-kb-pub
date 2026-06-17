@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Karininko A. Bironto vadovaujama šešių Žemaitijos komendantūrų rinktinė saugojo Kauno-Seredžiaus-Jurbarko kryptį.
+Bironto vadovaujama šešių Žemaitijos komendantūrų rinktinė saugojo Kauno-Seredžiaus-Jurbarko kryptį.
 
 ## Teiginiai
 
@@ -20,6 +20,8 @@ Karininko A. Bironto vadovaujama šešių Žemaitijos komendantūrų rinktinė s
 - t-001
   global_id: t-39977
   teiginys: 'Karininko A. Bironto vadovaujama šešių Žemaitijos komendantūrų rinktinė saugojo Kauno-Seredžiaus-Jurbarko kryptį.'
+  sudarymo_pagrindimas: 'Patikslintas asmens įvardijimas ir pašalintas šaltinio trumpinys.'
+  susije_objektai: 'mentioned_place: Dubysa'
   pagrindžia:
     - c-001
 

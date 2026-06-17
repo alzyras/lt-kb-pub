@@ -14,7 +14,7 @@ tags:
 
 ## Santrauka
 
-Iki Jogailos privilegijos bajorai dėl dvarų ir kraičių turėjo atsiklausti didžiojo kunigaikščio. Apsikrikštijusiems bajorams suteikta pilna laisvė šeimos reikaluose, įskaitant dukterų išleidimą už vyro.
+Jogailos privilegija apsikrikštijusiems bajorams buvo viena iš svarbiausių 1387 metų krikščioninimo politikos dalių. Ji susiejo katalikybės įtvirtinimą su laisvu ir paveldimu žemės valdymu, didesne šeimos teisių laisve ir prievolių siaurinimu iki karo tarnybos bei pilių statybos.
 
 ## Laikotarpis ir datos
 
@@ -37,10 +37,13 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 <a id="claim-t-93029"></a>
 - t-001
   global_id: t-93029
   teiginys: 'Iki Jogailos privilegijos bajorai dėl dvarų ir kraičių turėjo atsiklausti didžiojo kunigaikščio.'
+  sudarymo_pagrindimas: 'Sutrumpinta iki aiškaus, šaltiniu paremto fakto.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -48,10 +51,12 @@ Nenurodyta
 - t-002
   global_id: t-93030
   teiginys: 'Apsikrikštijusiems bajorams suteikta pilna laisvė šeimos reikaluose, įskaitant dukterų išleidimą už vyro.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -66,6 +71,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Iki Jogailos privilegijos bajorai dėl dvarų ir kraičių turėjo atsiklausti didžiojo kunigaikščio.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -86,9 +92,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bajorai]]
-- [[objektai/grupes/Stačiatikiai]]
-- [[objektai/zodynas/kunigaikščiai]]

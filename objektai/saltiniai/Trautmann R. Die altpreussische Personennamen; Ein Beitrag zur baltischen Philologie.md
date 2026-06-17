@@ -26,6 +26,10 @@ Dusburgietis teigia, kad trautmann R.
 - t-001
   global_id: t-61325
   teiginys: 'R. Trautmanno „Die altpreussische Personennamen; Ein Beitrag zur baltischen Philologie“ išleista Göttingene 1925 m.'
+  sudarymo_pagrindimas: 'Citata pagrindžia bibliografinį teiginį apie leidimo vietą ir metus.'
+  temporaliniai_duomenys: 'įvykio data: 1925 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia bibliografinį teiginį apie leidimo vietą ir metus.'
   pagrindžia:
     - c-001
 

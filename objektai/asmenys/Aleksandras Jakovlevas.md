@@ -21,9 +21,11 @@ LPS veiklai pravertė SSKP CK sekretoriaus Aleksandro Jakovlevo apsilankymas Lie
 - t-001
   global_id: t-18776
   teiginys: 'Aleksandras Jakovlevas LKP vadovybei pabrėžė, kad inteligentija yra liaudies savimonės išraiška.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nusako Jakovlevo veiksmą ir jo pasakytą mintį.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/posakiai/„inteligentija – liaudies savimonės išraiška“.md#claim-t-20897|„inteligentija – liaudies savimonės išraiška“]]: Aleksandras Jakovlevas LKP vadovybei pabrėžė, kad „inteligentija – liaudies savimonės išraiška“.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -43,8 +45,3 @@ LPS veiklai pravertė SSKP CK sekretoriaus Aleksandro Jakovlevo apsilankymas Lie
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/posakiai/„inteligentija – liaudies savimonės išraiška“]]
-- [[objektai/ivykiai/Aleksandro Jakovlevo apsilankymas Lietuvoje ir valdžios nuolaidos LPS (1988 m. rugpjūčio 11–12 d.)]]

@@ -24,7 +24,7 @@ periodo_grupes:
 
 ## Santrauka
 
-1769 m. Martynas Knakfusas tapo Vilniaus vyskupo Ignoto Masalskio architektu ir pradėjo statyti jo rūmus Verkiuose. Vilniaus vyskupas Ignotas Masalskis 1773 m. tapo Edukacinės komisijos pirmininku. 1792 m. birželio 25 d. Vilniaus konfederacijai, pritarusiai Targovicos konfederacijai, vadovavo ir Vilniaus vyskupas Ignotas Masalskis.
+Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vyskupas Ignotas Masalskis) įkūrimas 1773 m. Masalskis. Masalskis ir Livonijos vyskupas J.
 
 ## Teiginiai
 
@@ -32,6 +32,11 @@ periodo_grupes:
 - t-001
   global_id: t-75845
   teiginys: '1769 m. Martynas Knakfusas tapo Vilniaus vyskupo Ignoto Masalskio architektu ir pradėjo statyti jo rūmus Verkiuose.'
+  sudarymo_pagrindimas: 'Sakinys aiškus ir tiksliai perteikia citatos faktą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Martynas Knakfusas|Martynas Knakfusas]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Verkiai; mentioned_place: Viena; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1769 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Sakinys aiškus ir tiksliai perteikia citatos faktą.'
   pagrindžia:
     - c-004
 
@@ -39,6 +44,11 @@ periodo_grupes:
 - t-002
   global_id: t-75846
   teiginys: 'Vilniaus vyskupas Ignotas Masalskis 1773 m. tapo Edukacinės komisijos pirmininku.'
+  sudarymo_pagrindimas: 'Sakinys aiškus, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/barokas|barokas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1759 m.; įvykio data: 1760 m.; įvykio data: 1773 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Sakinys aiškus, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -46,6 +56,11 @@ periodo_grupes:
 - t-003
   global_id: t-75847
   teiginys: '1792 m. birželio 25 d. Vilniaus konfederacijai, pritarusiai Targovicos konfederacijai, vadovavo ir Vilniaus vyskupas Ignotas Masalskis.'
+  sudarymo_pagrindimas: 'Reikia sklandesnės žodžių tvarkos ir aiškesnio ryšio su citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_object: [[objektai/zodynas/hetmonas|hetmonas]]; mentioned_object: [[objektai/zodynas/konfederacija|konfederacija]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Juozapas (Konstantinopolio patriarchas)|Juozapas (Konstantinopolio patriarchas)]]; mentioned_person: [[objektai/asmenys/Juozapas Kosakovskis|Juozapas Kosakovskis]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Targovica; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1792 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia sklandesnės žodžių tvarkos ir aiškesnio ryšio su citata.'
   pagrindžia:
     - c-002
 
@@ -53,6 +68,11 @@ periodo_grupes:
 - t-004
   global_id: t-75848
   teiginys: 'Vilniaus vyskupas Ignotas Masalskis 1773 m. tapo pirmos Europoje švietimo ministerijos tipo įstaigos pirmininku.'
+  sudarymo_pagrindimas: 'Sakinys išsamus, gramatiškas ir paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1759 m.; įvykio data: 1760 m.; įvykio data: 1773 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Sakinys išsamus, gramatiškas ir paremtas citata.'
   pagrindžia:
     - c-005
 
@@ -60,9 +80,11 @@ periodo_grupes:
 - t-005
   global_id: t-75849
   teiginys: 'Vilniaus vyskupas Ignotas Masalskis buvo tarp Targovicos konfederatų, pakartų Varšuvoje birželio 28 dieną.'
+  sudarymo_pagrindimas: 'Nutrūkęs fragmentas perrašytas į pilną faktinį sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/egzekucija|egzekucija]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Rusija; mentioned_place: Targovica; mentioned_place: Varšuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
-
+- susijęs iš [[objektai/grupes/Edukacinė Komisija.md#claim-t-107744|Edukacinė Komisija]]: Edukacinė komisija įkurta 1773 m.; jos pirmininku tapo Vilniaus vyskupas Ignotas Masalskis.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -160,17 +182,3 @@ periodo_grupes:
   statusas: verified
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Juozapas (Konstantinopolio patriarchas)]]
-- [[objektai/asmenys/Juozapas Kosakovskis|Juozapas Kosakovskis (vyskupas)]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/barokas]]
-- [[objektai/zodynas/egzekucija]]
-- [[objektai/zodynas/etmonas]]
-- [[objektai/zodynas/konfederacija]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Jėzuitų ordinas]]
-- [[objektai/asmenys/Simonas Kosakovskis]]
-- [[objektai/ivykiai/Vilniaus konfederacijos pritarimas Targovicos konfederacijai]]

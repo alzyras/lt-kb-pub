@@ -29,6 +29,10 @@ Dusburgietis teigia, kad jäger E.
 - t-001
   global_id: t-61090
   teiginys: 'E. Jägerio „Prussia-Karten. 1542—1810“ 1982 m. išleido A. H. Konrad Verlag.'
+  sudarymo_pagrindimas: 'Citata pagrindžia autoriaus, pavadinimo, leidyklos ir metų faktą.'
+  temporaliniai_duomenys: 'įvykio data: 1982 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia autoriaus, pavadinimo, leidyklos ir metų faktą.'
   pagrindžia:
     - c-001
 

@@ -3,10 +3,16 @@ tipas: vieta
 pavadinimas: 'Pavolgis'
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
+datos:
+  - '1427 m.'
+date_start: '1427'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
+amziai:
+  - 'XV'
 ---
 # Pavolgis
 
@@ -20,6 +26,11 @@ Jis suima savo valdžion visus Pavolgio, Juod­ marių pakraščio ir Krymo toto
 - t-001
   global_id: t-36477
   teiginys: '1427 m. Vytauto palaikomas Machmetas į savo valdžią paėmė Pavolgio, Juodmarių pakraščio ir Krymo totorius.'
+  sudarymo_pagrindimas: 'Pradiniame teiginyje klaidingai veiksmas priskirtas Vytautui, o citatoje jį atliko Machmetas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Machmetas|Machmetas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Krymas'
+  temporaliniai_duomenys: 'įvykio data: 1427 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradiniame teiginyje klaidingai veiksmas priskirtas Vytautui, o citatoje jį atliko Machmetas.'
   pagrindžia:
     - c-001
 

@@ -31,6 +31,11 @@ Dusburgietis teigia, kad apie Morungeno pilies pastatymą 1327 viešpaties metai
 - t-001
   global_id: t-60321
   teiginys: '1327 m. Hermanas, Elbingo komtūras ir didysis Ordino špitolininkas, netoli Zalfeldo pastatė Morungeno miestą.'
+  sudarymo_pagrindimas: 'Teiginys pilnas ir tiksliai perteikia citatos faktą apie Hermaną.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Elbingas; mentioned_place: Morungenas'
+  temporaliniai_duomenys: 'pastatymo data: 1327 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys pilnas ir tiksliai perteikia citatos faktą apie Hermaną.'
   pagrindžia:
     - c-001
 
@@ -55,10 +60,3 @@ Dusburgietis teigia, kad apie Morungeno pilies pastatymą 1327 viešpaties metai
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/ežeras]]
-
-### Susiję objektai
-- [[objektai/zodynas/komtūras]]

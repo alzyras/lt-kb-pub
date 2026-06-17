@@ -20,6 +20,8 @@ Petro bažnyčią Antakalny­ je, pagonių šventyklos vietoje, kurią mini Stri
 - t-001
   global_id: t-86130
   teiginys: 'Pagal padavimus Goštautas pastatydino Šv. Petro bažnyčią Antakalnyje pagonių šventyklos vietoje.'
+  sudarymo_pagrindimas: 'Citata pagrindžia tik padavimuose pateiktą statybos versiją.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_place: Antakalnis'
   pagrindžia:
     - c-002
 
@@ -27,6 +29,8 @@ Petro bažnyčią Antakalny­ je, pagonių šventyklos vietoje, kurią mini Stri
 - t-002
   global_id: t-86131
   teiginys: 'Šv. Petro bažnyčia Antakalnyje tikriausiai pastatyta Vladislovo Jogailos laikais pagonių šventovės vietoje.'
+  sudarymo_pagrindimas: 'Citata palaiko atsargiai suformuluotą chronologijos ir vietos teiginį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_place: Antakalnis'
   pagrindžia:
     - c-001
 

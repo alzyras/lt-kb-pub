@@ -29,6 +29,7 @@ Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius, Tr
 - t-001
   global_id: t-68026
   teiginys: 'Vytauto laikais Juodojoje Rusioje, Gardine ir Naugarduke, pradėtos statyti LDK pilys.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_object: [[objektai/zodynas/gotika|gotika]]; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Palenkė; mentioned_place: Trakai; mentioned_place: Vilnius; mentioned_place: Voluinė'
   pagrindžia:
     - c-001
 
@@ -36,9 +37,13 @@ Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius, Tr
 - t-002
   global_id: t-68027
   teiginys: 'Didžiajam kunigaikščiui tiesiogiai priklausė Vilniaus žemė su artimomis Juodosios Rusios, Vitebsko, Minsko ir Mstislavlio sritimis.'
+  sudarymo_pagrindimas: 'Pakeistas neaiškus įvardis į aiškų veikėją.'
+  susije_objektai: 'owner: Minskas; owner: Mstislavlis; owner: Vilnius; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_place: Minskas; mentioned_place: Mstislavlis; mentioned_place: Vilnius'
+  semantiniai_rysiai: 'Juodoji Rusia priklausė Minskas; Juodoji Rusia priklausė Mstislavlis; Juodoji Rusia priklausė Vilnius'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/grupes/Jotvingiai.md#claim-t-178774|Jotvingiai]]: XIII a. duomenimis, Jotvingija tęsėsi į šiaurę nuo Bebro aukštupio ir Nemuno prie Gardino.
+- susijęs iš [[objektai/grupes/Jotvingiai.md#claim-t-187707|Jotvingiai]]: Lietuvos metraštyje Vykintas vaizduojamas sidabru ir įvairiomis dovanomis palenkęs jotvingius ir pusę žemaičių.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -71,3 +76,8 @@ Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius, Tr
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+- Juodoji Rusia priklause [[objektai/vietos/Minskas]]
+- Juodoji Rusia priklause [[objektai/vietos/Mstislavlis]]
+- Juodoji Rusia priklause [[objektai/vietos/Vilnius]]

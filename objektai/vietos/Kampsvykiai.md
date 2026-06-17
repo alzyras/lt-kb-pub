@@ -5,6 +5,7 @@ saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1275 m.'
+  - '1366 m.'
   - '1371 m.'
 date_start: '1275'
 date_end: '1371'
@@ -15,6 +16,7 @@ tags:
   - pilis
   - tikėjimas
   - upė
+  - vieta
 amziai:
   - 'XIII'
   - 'XIV'
@@ -23,7 +25,7 @@ amziai:
 
 ## Santrauka
 
-Kampsvykių pilis taip pat tapatinama su Kamantų piliakalniu kairiajame Vangrapės krante, į šiaurę nuo Darkiemio. 1275 m. sunaikinta nadruvių Kampsvykių pilis lokalizuojama Kampsvykalnyje, dešiniajame Vangrapės krante. Magistras su didele kariuomene užpuolė prie Arsos upės stovėjusią Kampsvykių pilį ir ją sudegino iki pamatų.
+Dusburgietis teigia, kad apie Kampsvykių pilies užkariavimą Paskui magistras su didele kariuomene perėjo Nadruvos žemę, plėšdamas ir degindamas, o priėjęs Kampsvykių pilį, pastatytą prie Arsos upės463, ją smarkiai užpuolė, tinkamai parengęs visa, kas tam reikalinga; abiem šalims. Dusburgietis teigia, kad vangrapės krante, upės kilpoje, žinomas piliakalnis Kampsvykalnis (Basanavičius J., Iš gyvenimo vėlių.., p. 190—191), per 400 m į pietus nuo Tamoviškių. Dusburgietis teigia, kad aprašomos castrum Cameniswikam (Kampsvykių) pilies ieškoma ir gerokai toliau į pietus, kur ji tapatinama su Kamantų (Kamanten) piliakalniu kair.
 
 ## Teiginiai
 
@@ -31,6 +33,8 @@ Kampsvykių pilis taip pat tapatinama su Kamantų piliakalniu kairiajame Vangrap
 - t-001
   global_id: t-58445
   teiginys: 'Kampsvykių pilis taip pat tapatinama su Kamantų piliakalniu kairiajame Vangrapės krante, į šiaurę nuo Darkiemio.'
+  sudarymo_pagrindimas: 'Citata remia alternatyvią lokalizaciją, todėl teiginys perrašytas glaustai.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Vangrapė'
   pagrindžia:
     - c-001
 
@@ -38,6 +42,11 @@ Kampsvykių pilis taip pat tapatinama su Kamantų piliakalniu kairiajame Vangrap
 - t-002
   global_id: t-58446
   teiginys: '1275 m. sunaikinta nadruvių Kampsvykių pilis lokalizuojama Kampsvykalnyje, dešiniajame Vangrapės krante.'
+  sudarymo_pagrindimas: 'Perrašyta, kad teiginys aiškiau sietųsi su Kampsvykiais, o ne vien su Kampsvykalniu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Nadruviai|Nadruviai]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Lietuva; mentioned_place: Nadruva; mentioned_place: Vangrapė'
+  temporaliniai_duomenys: 'įvykio data: 400 m; įvykio data: 1275 m.; įvykio data: 1366 m.; įvykio data: 1371 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Perrašyta, kad teiginys aiškiau sietųsi su Kampsvykiais, o ne vien su Kampsvykalniu.'
   pagrindžia:
     - c-002
 
@@ -45,9 +54,13 @@ Kampsvykių pilis taip pat tapatinama su Kamantų piliakalniu kairiajame Vangrap
 - t-003
   global_id: t-58447
   teiginys: 'Magistras su didele kariuomene užpuolė prie Arsos upės stovėjusią Kampsvykių pilį ir ją sudegino iki pamatų.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Kampsvykių pilį ir remiasi citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Nadruva'
   pagrindžia:
     - c-003
-
+- susijęs iš [[objektai/ivykiai/Kampsvykių pilies užkariavimas.md#claim-t-62307|Kampsvykių pilies užkariavimas (pilis)]]: Magistras su didele kariuomene užpuolė prie Arsos upės stovėjusią Kampsvykių pilį, išžudė jos karius ir sudegino pilį iki pamatų.
+- susijęs iš Arsa: Arsa resp. Arsė tapatinta ir su Vangrape (Tepenas M.).
+- susijęs iš Arsa: Kampsvykių pilis stovėjo prie Arsos upės, o Ordino broliai po puolimo ją sudegino iki pamatų.
 ## Reikšmingi paminėjimai
 
 - c-001

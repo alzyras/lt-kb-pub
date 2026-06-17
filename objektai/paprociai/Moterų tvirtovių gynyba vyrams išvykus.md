@@ -43,6 +43,8 @@ Nenurodyta
 - t-001
   global_id: t-59808
   teiginys: 'Vyrams išvykus, moterys prisisegdavo kalavijus, stodavo ant sienų ir savo drąsa apgindavo tvirtoves nuo praradimo.'
+  sudarymo_pagrindimas: 'Pašalintas autorinis įvadas ir retorinė citatos dalis, paliktas faktinis paprotys.'
+  susije_objektai: 'mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -64,7 +66,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/papuošalas]]

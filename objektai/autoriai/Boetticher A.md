@@ -31,6 +31,8 @@ Dusburgietis teigia, kad paėmę pilį, kryžiuočiai čia įsitvirtino, pastat�
 - t-001
   global_id: t-64570
   teiginys: 'Boetticherio darbas cituojamas teiginiui, kad kryžiuočiai Baigoje įsitvirtino, pastatė mūrinę pilį ir didelį papilį.'
+  sudarymo_pagrindimas: 'Citata remia Boetticherio darbą kaip šio teiginio šaltinį, o pradinė formuluotė klaidingai priskiria jį Dusburgiečiui.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_place: Aistmarios; mentioned_place: Baiga; mentioned_place: Varmė'
   pagrindžia:
     - c-001
 
@@ -54,8 +56,3 @@ Dusburgietis teigia, kad paėmę pilį, kryžiuočiai čia įsitvirtino, pastat�
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/daiktai/Malūnas]]

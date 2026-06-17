@@ -21,6 +21,7 @@ tags:
 - t-001
   global_id: t-101616
   teiginys: 'Posakyje teigiama, kad lietuvių kalba iš Europos kalbų turi daugiausia maloninių ir mažybinių žodžių.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/autoriai/Benjamin W. Dwight|Benjamin W. Dwight]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Vokietija'
   pagrindžia:
     - c-001
 
@@ -28,6 +29,7 @@ tags:
 - t-002
   global_id: t-101617
   teiginys: 'Benjaminas W. Dwightas teigė, kad pagal kalbos grožį lietuvių tauta turėtų užimti pirmą vietą tarp Europos tautų.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/autoriai/Benjamin W. Dwight|Benjamin W. Dwight]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Vokietija'
   pagrindžia:
     - c-001
 
@@ -35,6 +37,7 @@ tags:
 - t-003
   global_id: t-101618
   teiginys: 'Benjaminas W. Dwightas teigė, kad lietuvių kalba turi daugiausia maloninių ir mažybinių žodžių tarp Europos kalbų.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/autoriai/Benjamin W. Dwight|Benjamin W. Dwight]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Vokietija'
   pagrindžia:
     - c-001
 
@@ -42,6 +45,8 @@ tags:
 - t-004
   global_id: t-101619
   teiginys: 'Benjaminas W. Dwightas lietuvių kalbą išskyrė dėl gausių maloninių ir mažybinių žodžių.'
+  sudarymo_pagrindimas: 'Pradinis teiginys turėjo antraščių triukšmo ir nutrūkusią citatą, todėl perrašytas kaip vientisas faktas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/autoriai/Benjamin W. Dwight|Benjamin W. Dwight]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Vokietija'
   pagrindžia:
     - c-001
 
@@ -78,9 +83,3 @@ tags:
     - t-003
     - t-004
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/Benjamin W. Dwight]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]

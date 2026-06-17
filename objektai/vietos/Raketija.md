@@ -20,6 +20,8 @@ Tai buvo Raketijos ir Liubavo raitųjų emvedistų susitikimas, baigus apsupimo 
 - t-001
   global_id: t-80610
   teiginys: 'Baigus apsupimo žiedą susitiko Raketijos ir Liubavo raitieji emvedistai.'
+  sudarymo_pagrindimas: 'Pradinis sakinys yra pasakojimo fragmentas; citata palaiko glaustą faktinę formuluotę.'
+  susije_objektai: 'mentioned_place: Liubavas'
   pagrindžia:
     - c-001
 

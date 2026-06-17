@@ -3,17 +3,23 @@ tipas: posakis
 pavadinimas: '„kad yra atstatomas 1940 metais svetimos jėgos panaikintas Lietuvos Valstybės suverenių galių vykdymas...“'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1940 m.'
+date_start: '1940'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - posakis
   - valstybė
+amziai:
+  - 'XX'
 ---
 # „kad yra atstatomas 1940 metais svetimos jėgos panaikintas Lietuvos Valstybės suverenių galių vykdymas...“
 
 ## Santrauka
 
-Lietuvos nepriklausomybės atkūrimo Aktas paskelbė, kad atkuriamas 1940 m. svetimos jėgos panaikintas Lietuvos valstybės suverenių galių vykdymas.
+absoliučia balsų dauguma (124 deputatams balsavus už, nė vienam nebalsavus prieš ir šešiems susilaikius) priimtas Lietuvos nepriklausomybės atkūrimo Aktas, kuriame paskelbta, „kad yra atstatomas 1940 metais svetimos jėgos panaikintas Lietuvos Valstybės.
 
 ## Teiginiai
 
@@ -21,6 +27,11 @@ Lietuvos nepriklausomybės atkūrimo Aktas paskelbė, kad atkuriamas 1940 m. sve
 - t-001
   global_id: t-20903
   teiginys: 'Lietuvos nepriklausomybės atkūrimo Aktas paskelbė, kad atkuriamas 1940 m. svetimos jėgos panaikintas Lietuvos valstybės suverenių galių vykdymas.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir tiksliai remiasi Akto citata.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Herbas|Herbas]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1940 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys ir tiksliai remiasi Akto citata.'
   pagrindžia:
     - c-001
 
@@ -47,7 +58,3 @@ Lietuvos nepriklausomybės atkūrimo Aktas paskelbė, kad atkuriamas 1940 m. sve
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Herbas]]

@@ -29,6 +29,11 @@ Bet iki Vy­ tauto laikų nebuvo kreipta dėmesio į titulus: tas klausimas visu
 - t-001
   global_id: t-96063
   teiginys: '„Pamiętniki Albrychta Stanisława Radziwiłła“ buvo 1839 m. Poznanėje išleistas rankraščio leidimas.'
+  sudarymo_pagrindimas: 'Citata pagrindžia bibliografinį faktą, bet pradinis teiginys yra nutrūkęs ir užterštas išnašos tekstu.'
+  susije_objektai: 'mentioned_place: Poznanė'
+  temporaliniai_duomenys: 'įvykio data: 1636 m.; įvykio data: 1839 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia bibliografinį faktą, bet pradinis teiginys yra nutrūkęs ir užterštas išnašos tekstu.'
   pagrindžia:
     - c-001
 

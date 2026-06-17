@@ -23,6 +23,8 @@ Dusburgietis teigia, kad apie Birgelavos pilies sugriovimą Treniota, lietuvių 
 - t-001
   global_id: t-58879
   teiginys: 'Terminas turma reiškia įvairaus dydžio kariuomenės arba raitelių būrį.'
+  sudarymo_pagrindimas: 'Citata tiesiogiai pateikia termino reikšmę, o pradinė formuluotė buvo šaltinio aparato fragmentas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Pamarėnai|Pamarėnai]]; mentioned_group: [[objektai/grupes/Romėnai|Romėnai]]'
   pagrindžia:
     - c-001
 
@@ -43,9 +45,3 @@ Dusburgietis teigia, kad apie Birgelavos pilies sugriovimą Treniota, lietuvių 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Pamarėnai]]
-- [[objektai/grupes/Romėnai]]

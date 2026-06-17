@@ -71,7 +71,3 @@ Lenkija pramanė „sukilimo“ pasaką, kad pateisintų Želigovskio kariuomen�
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]

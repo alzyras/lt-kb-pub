@@ -22,9 +22,11 @@ Dusburgietis teigia, kad šitaip bylojo Babilonijos karalius Nabuchodonosaras, m
 - t-001
   global_id: t-60391
   teiginys: 'Nabuchodonosaras, pamatęs, kad liepsna nepakenkė Danieliui ir jo bičiuliams, pripažino Aukščiausiojo Dievo ženklus ir stebuklus.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, o citata remia aiškų faktą apie Nabuchodonosaro reakciją.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/uolektis|uolektis]]'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/posakiai/Aukščiausias dievas padarė manyje ženklų ir stebuklų.md#claim-t-89576|Aukščiausias dievas padarė manyje ženklų ir stebuklų]]: Dusburgietis aiškino, kad žodžius „Aukščiausias dievas padarė manyje ženklų ir stebuklų“ ištarė Babilonijos karalius Nabuchodonosaras.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -45,6 +47,5 @@ Dusburgietis teigia, kad šitaip bylojo Babilonijos karalius Nabuchodonosaras, m
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/uolektis]]
-- [[objektai/posakiai/Aukščiausias dievas padarė manyje ženklų ir stebuklų]]
+- Nabuchodonosaras buvo_valdovas [[objektai/vietos/Jeruzalė]]
+- Nabuchodonosaras buvo_valdovas [[objektai/vietos/Prūsija]]

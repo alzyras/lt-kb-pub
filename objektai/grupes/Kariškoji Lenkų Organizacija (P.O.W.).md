@@ -15,29 +15,30 @@ tags:
 
 ## Santrauka
 
-P.O.W. sąmokslininkai tikėjosi kelioms valandoms paimti valdžią, kol ateis Lenkijos kariuomenė. Kariškoji Lenkų Organizacija, instruktuojama ir finansuojama iš okupuoto Vilniaus, šnipinėjo Lietuvos kariuomenę ir verbavo narius.
+Organizacijos centras buvo Kaune; visa nepriklausomoji Lietuva buvo suskirstyta į 13 apskričių, kurių kiekvienoje dar buvo po 3—4 tos organizacijos komendantūras. Sąmokslininkai tikėjosi nors keletai valandų paimti valdžią į savo rankas, o toliau turėjo ateiti jau Lenkų kariuomenė. centre (Kau- ne), kur buvo rastas organizacijos archyvas su narių sąrašais, šnipinėjimo, organizacijos ir kitais dokumentais.
 
 ## Teiginiai
+
 <a id="claim-t-72110"></a>
 - t-001
   global_id: t-72110
   teiginys: 'P.O.W. sąmokslininkai tikėjosi kelioms valandoms paimti valdžią, kol ateis Lenkijos kariuomenė.'
+  sudarymo_pagrindimas: 'Reikia aiškiai įvardyti sąmokslininkus ir pašalinti šnekamąją formuluotę.'
   pagrindžia:
     - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+
 <a id="claim-t-72112"></a>
 - t-002
   global_id: t-72112
   teiginys: 'Kariškoji Lenkų Organizacija, instruktuojama ir finansuojama iš okupuoto Vilniaus, šnipinėjo Lietuvos kariuomenę ir verbavo narius.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs; perrašyta į vieną aiškų sakinį pagal citatą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Kariškoji Lenkų Organizacija, instruktuojama ir finansuojama iš okupuoto Vilniaus, šnipinėjo Lietuvos kariuomenę ir verbavo narius.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Iš okupuoto Vil-
@@ -53,13 +54,12 @@ P.O.W. sąmokslininkai tikėjosi kelioms valandoms paimti valdžią, kol ateis L
     3—4 tos organizacijos komendantūras. Viskas, žinoma, buvo
     daroma slaptai: kiekvienas narys turėjo slapyvardį, o visi svar-
     besnieji raštai buvo rašomi šifruoti (slapta, sutartine abėcėle).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'P.O.W. sąmokslininkai tikėjosi kelioms valandoms paimti valdžią, kol ateis Lenkijos kariuomenė.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -76,18 +76,8 @@ P.O.W. sąmokslininkai tikėjosi kelioms valandoms paimti valdžią, kol ateis L
     paskelbti, kad sukilęs kraštas nuvertęs vokiečių pastatytos Ta-
     rybos valdžią ir, norėdamas likti laisvas, prisidedąs prie Len-
     kijos.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/grupes/Lenkijos kariuomenė]]
-- [[objektai/paprociai/Konspiracinė P.O.W. organizacijos veikla]]

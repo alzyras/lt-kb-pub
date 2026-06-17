@@ -17,7 +17,7 @@ amziai:
 
 ## Santrauka
 
-Redakcinė pastaba nurodo, kad po pralaimėto mūšio Sich-Achmetas pirmiausia ieškojo prieglobsčio Nogajų ordoje. Po pralaimėjimo Vorkslos ruože Sich-Achmetas iš pradžių ieškojo prieglobsčio Nogajų ordoje, o į LDK grįžo 1503 m. rudenį.
+Redakcinė pastaba nurodo, kad Mengli-Girėjaus vadovaujami Krymo totoriai apie 1502 m. birželio 10 d. sumušė Aukso ordą. Redakcinė pastaba nurodo, kad mūšis vyko nenustatytoje vietoje Vorkslos upės ruože, į pietryčius nuo Kijevo.
 
 ## Laikotarpis ir datos
 
@@ -46,14 +46,26 @@ Nenurodyta
 <a id="claim-t-186793"></a>
 - t-001
   global_id: t-186793
-  teiginys: 'Redakcinė pastaba nurodo, kad po pralaimėto mūšio Sich-Achmetas pirmiausia ieškojo prieglobsčio Nogajų ordoje.'
+  teiginys: 'Po Mengli-Girėjaus laimėto mūšio Sich-Achmetas pirmiausia ieškojo prieglobsčio Nogajų ordoje Volgos žemupyje.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Sich-Achmeto veiksmą po mūšio. Nepridėta vėlesnio grįžimo į LDK, nes šis teiginys apima tik pirmą prieglobsčio paiešką.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_place: Belgorodas; mentioned_place: Kijevas; mentioned_place: Volga'
+  temporaliniai_duomenys: 'įvykio data: 1503 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie Sich-Achmeto veiksmą po mūšio. Nepridėta vėlesnio grįžimo į LDK, nes šis teiginys apima tik pirmą prieglobsčio paiešką.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-186794"></a>
 - t-002
   global_id: t-186794
-  teiginys: 'Po pralaimėjimo Vorkslos ruože Sich-Achmetas iš pradžių ieškojo prieglobsčio Nogajų ordoje, o į LDK grįžo 1503 m. rudenį.'
+  teiginys: 'Po pralaimėjimo Mengli-Girėjui Sich-Achmetas ieškojo prieglobsčio Nogajų ordoje, bet 1503 m. rudenį grįžo į LDK.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys aiškiai sujungia pralaimėjimą, prieglobsčio paiešką ir 1503 m. rudens grįžimą į LDK. Nepridėta Kijevo ar Belgorodo detalė, nes ji nėra būtina šiam sakiniui.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_place: Belgorodas; mentioned_place: Kijevas; mentioned_place: Volga'
+  temporaliniai_duomenys: 'įvykio data: 1503 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai sujungia pralaimėjimą, prieglobsčio paiešką ir 1503 m. rudens grįžimą į LDK. Nepridėta Kijevo ar Belgorodo detalė, nes ji nėra būtina šiam sakiniui.'
   pagrindžia:
     - c-001
 
@@ -77,9 +89,3 @@ Nenurodyta
   pagrindžia:
     - t-001
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Auksinė Orda]]
-- [[objektai/zodynas/chanas]]
-- [[objektai/grupes/Aukso orda]]

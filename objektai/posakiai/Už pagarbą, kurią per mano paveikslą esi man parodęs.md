@@ -27,6 +27,11 @@ Dusburgietis teigia, kad šis atsakė, kad esąs nukovęs daugybę krikščioni�
 - t-001
   global_id: t-59164
   teiginys: 'Švenčiausioji mergelė sapne pažadėjo atlygį už pagarbą, parodytą per jos paveikslą.'
+  sudarymo_pagrindimas: 'Citata palaiko glaustą faktą apie posakio turinį ir kalbėtoją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_object: [[objektai/daiktai/Ietis|Ietis]]; mentioned_place: Kėdainiai; mentioned_place: Raseiniai'
+  temporaliniai_duomenys: 'įvykio data: 1419 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko glaustą faktą apie posakio turinį ir kalbėtoją.'
   pagrindžia:
     - c-001
 
@@ -55,9 +60,3 @@ Dusburgietis teigia, kad šis atsakė, kad esąs nukovęs daugybę krikščioni�
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Ietis]]
-- [[objektai/grupes/Sūduviai]]
-- [[objektai/daiktai/Švenčiausiosios Mergelės Marijos su kūdikėliu paveikslas]]

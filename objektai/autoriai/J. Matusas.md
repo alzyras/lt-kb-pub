@@ -29,6 +29,8 @@ Matusas, laikydamas jį pirmutiniu ir iš esmės ini XIX amž. vieninteliu Lietu
 - t-001
   global_id: t-30688
   teiginys: 'J. Matusas perdėtai vertino Stryjkovskį, laikydamas jį pirmuoju ir iki XIX a. iš esmės vieninteliu Lietuvos istoriku.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -36,6 +38,9 @@ Matusas, laikydamas jį pirmutiniu ir iš esmės ini XIX amž. vieninteliu Lietu
 - t-002
   global_id: t-30689
   teiginys: 'J. Matusas 1930 m. „Praeityje“ paskelbė darbą „Albertas Vijukas-Kojalavičius kaip Lietuvos istorininkas“.'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Maskva'
+  temporaliniai_duomenys: 'įvykio data: 1930 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 
@@ -74,7 +79,3 @@ Matusas, laikydamas jį pirmutiniu ir iš esmės ini XIX amž. vieninteliu Lietu
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]

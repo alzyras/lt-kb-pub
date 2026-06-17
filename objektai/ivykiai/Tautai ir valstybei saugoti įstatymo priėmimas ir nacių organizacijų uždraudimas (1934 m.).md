@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-1934 m. vasario 8 d. priimtas Tautai ir valstybei saugoti įstatymas numatė bausmes už veikimą užsienio naudai prieš Lietuvą. 1934 m. vasario 8 d. Tautai ir valstybei saugoti įstatymas priimtas siekiant sutramdyti antivalstybinę veiklą. Lietuvos valdžios kratos parodė, kad 805 nacių organizacijų nariai turėjo 1 104 šaunamuosius ginklus ir kurstomosios literatūros.
+Siekiant sutramdyti antivalstybinę veiklą, 1934 m. vasario 8 d. priimtas Tautai ir valstybei saugoti įstatymas, kuriame numatyta bausti tuos, kurie niekins ir įžeidinės lietuvių tautą, Lietuvos vyriausybę, valstybi­nius. Lietuvos valdžia kruopščiai rinko kaltinamąją medžiagą, atliko kratas, per kurias išaiškėjo, kad 805 nacių organizacijų nariai turėjo 1 104 šaunamuosius ginklus, kurstomosios literatūros.
 
 ## Laikotarpis ir datos
 
@@ -45,6 +45,11 @@ Nenurodyta
 - t-001
   global_id: t-75291
   teiginys: '1934 m. vasario 8 d. priimtas Tautai ir valstybei saugoti įstatymas numatė bausmes už veikimą užsienio naudai prieš Lietuvą.'
+  sudarymo_pagrindimas: 'Pašalintas puslapio triukšmas ir panaudota pilnesnė citatos dalis.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Klaipėda; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1934 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas puslapio triukšmas ir panaudota pilnesnė citatos dalis.'
   pagrindžia:
     - c-002
 
@@ -52,6 +57,11 @@ Nenurodyta
 - t-002
   global_id: t-75292
   teiginys: '1934 m. vasario 8 d. Tautai ir valstybei saugoti įstatymas priimtas siekiant sutramdyti antivalstybinę veiklą.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Klaipėda; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1934 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-002
 
@@ -59,6 +69,8 @@ Nenurodyta
 - t-003
   global_id: t-75293
   teiginys: 'Lietuvos valdžios kratos parodė, kad 805 nacių organizacijų nariai turėjo 1 104 šaunamuosius ginklus ir kurstomosios literatūros.'
+  sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir sintaksiškai apkrautas; citata leidžia aiškesnį sakinį.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -100,11 +112,3 @@ Nenurodyta
   pagrindžia:
     - t-001
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/daiktai/Ginklai]]
-- [[objektai/daiktai/Klaipėdos nacių organizacijų ginklai ir teismo įrodymai]]
-- [[objektai/daiktai/Valstybiniai ženklai ir vėliava]]

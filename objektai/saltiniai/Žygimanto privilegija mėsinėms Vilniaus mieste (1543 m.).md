@@ -30,6 +30,8 @@ Karalius ŽYGIMANTAS ## Puslapis 422 VILNIAUS MIESTO ISTORIJA// TOMAS ŽYGIMANTO
 - t-001
   global_id: t-88221
   teiginys: 'Žygimanto privilegija mėsinėms Vilniaus mieste datuojama 1543 metais ir buvo saugoma Vilniaus kapitulos archyve.'
+  sudarymo_pagrindimas: 'Citata leidžia suformuluoti aiškų faktą apie dokumento datą ir saugojimo vietą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_object: [[objektai/zodynas/supremus dux ir magnus dux|supremus dux ir magnus dux]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -37,6 +39,11 @@ Karalius ŽYGIMANTAS ## Puslapis 422 VILNIAUS MIESTO ISTORIJA// TOMAS ŽYGIMANTO
 - t-002
   global_id: t-88222
   teiginys: '1543 m. privilegijoje minimas ginčas tarp Vilniaus vyskupo Povilo ir Vilniaus vaito, tarėjų bei miestiečių dėl mėsinių turguje.'
+  sudarymo_pagrindimas: 'Teiginys tiksliai apibendrina citatoje aprašytą ginčą dėl Vilniaus turgaus mėsinių.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/vaitas|vaitas]]; mentioned_place: Viena; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1543 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys tiksliai apibendrina citatoje aprašytą ginčą dėl Vilniaus turgaus mėsinių.'
   pagrindžia:
     - c-002
 
@@ -44,6 +51,8 @@ Karalius ŽYGIMANTAS ## Puslapis 422 VILNIAUS MIESTO ISTORIJA// TOMAS ŽYGIMANTO
 - t-003
   global_id: t-88223
   teiginys: 'Žygimanto privilegija leido Vilniaus vyskupui Povilui ir jo įpėdiniams steigti mėsos prekyvietes, kurių mokesčiai turėjo būti mokami bažnyčios muzikantams.'
+  sudarymo_pagrindimas: 'Citata tiesiogiai pagrindžia privilegijos turinį; pradinėje pretenzijoje buvo puslapio ir antraštės triukšmo.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/bursa|bursa]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Valerijono bursos; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 

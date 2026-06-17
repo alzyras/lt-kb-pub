@@ -20,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-DlugO XIII tomas cituojamas nurodant 19, 48, 50, 53, 63 ir 64 puslapius. Dlugošas laikomas pagrindiniu 1409–1411 m. karo šaltiniu ir buvo labai kritiškas Jogailos bei Vytauto atžvilgiu.
+Dlugošas, kuris 1409-1411 m. karui yra pagrindinis šaltinis, perdėm buvo kritiškas apie abu Lietuvos kunigaikščius, t. (^15) DlugO, XIII, 19 p. (^16) Kuczyński, Laskowski, Kolankowski ir kt.
 
 ## Teiginiai
 
@@ -28,6 +28,8 @@ DlugO XIII tomas cituojamas nurodant 19, 48, 50, 53, 63 ir 64 puslapius. Dlugoš
 - t-001
   global_id: t-97247
   teiginys: 'DlugO XIII tomas cituojamas nurodant 19, 48, 50, 53, 63 ir 64 puslapius.'
+  sudarymo_pagrindimas: 'Citata palaiko tik bibliografines nuorodas į DlugO XIII tomo puslapius.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/L. Kolankowski|L. Kolankowski]]; mentioned_person: [[objektai/autoriai/M. Oehler|M. Oehler]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
   pagrindžia:
     - c-002
 
@@ -35,6 +37,9 @@ DlugO XIII tomas cituojamas nurodant 19, 48, 50, 53, 63 ir 64 puslapius. Dlugoš
 - t-002
   global_id: t-97248
   teiginys: 'Dlugošas laikomas pagrindiniu 1409–1411 m. karo šaltiniu ir buvo labai kritiškas Jogailos bei Vytauto atžvilgiu.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Dlugošas|Dlugošas]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1409-1411; įvykio data: 1411 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

@@ -21,9 +21,14 @@ tags:
 - t-001
   global_id: t-77855
   teiginys: 'Lietuvos siekis atgauti Vilnių vedė ją į revizionistinių valstybių draugiją, todėl lietuviai vadinami „revizionistais per prievartą“.'
+  sudarymo_pagrindimas: 'Pradinis teiginys per silpnas ir abstraktus; citata pagrindžia aiškesnį sakinį apie priežastį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva; mentioned_place: Varšuva; mentioned_place: Vilnius; mentioned_place: Vokietija'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/zodynas/buferinė valstybė saugumo kordonas cordon sanitaire.md#claim-t-101572|buferinė valstybė saugumo kordonas cordon sanitaire]]: Lietuva tik iš dalies tapo buferine valstybe, nes siekis atgauti Vilnių ją vedė į revizionistinių valstybių draugiją.
+- susijęs iš [[objektai/zodynas/buferinė valstybė saugumo kordonas cordon sanitaire.md#claim-t-101573|buferinė valstybė saugumo kordonas cordon sanitaire]]: Sąjungininkų pokario tvarkos architektai įsivaizdavo Lietuvą buferine valstybe, turėjusia sudaryti saugumo kordoną nuo bolševizmo.
+- susijęs iš [[objektai/zodynas/revizionistinė valstybė revizionistai per prievartą.md#claim-t-22278|revizionistinė valstybė revizionistai per prievartą]]: Siekis atgauti Vilnių Lietuvą vedė į revizionistinių valstybių draugiją ir net grėsė nepriklausomybės praradimu.
+- susijęs iš [[objektai/zodynas/revizionistinė valstybė revizionistai per prievartą.md#claim-t-22279|revizionistinė valstybė revizionistai per prievartą]]: Lietuviai tapo „revizionistais per prievartą“.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -42,10 +47,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/buferinė valstybė saugumo kordonas cordon sanitaire]]
-- [[objektai/zodynas/revizionistinė valstybė revizionistai per prievartą]]

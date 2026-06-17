@@ -26,6 +26,7 @@ Apie laidoseną Laivių kapinyne rašė ir E.
 - t-001
   global_id: t-32298
   teiginys: 'E. Butėnienė rašė apie laidoseną Laivių kapinyne.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Emaliuotos juostos|Emaliuotos juostos]]; mentioned_object: [[objektai/daiktai/Graužių lobis|Graužių lobis]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

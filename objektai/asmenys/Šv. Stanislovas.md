@@ -30,6 +30,8 @@ Stanislovo garbei („kad abi lygiateisės tautos turėtų vieną globėją ir u
 - t-001
   global_id: t-64437
   teiginys: 'Jogailos pastatyta katedra buvo iškilmingai pašvęsta Krokuvos vyskupo šv. Stanislovo garbei.'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo kontekstinis fragmentas; citata leidžia suformuluoti aiškų faktą apie šv. Stanislovą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Altorius|Altorius]]; mentioned_object: [[objektai/zodynas/globėjas|globėjas]]; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Krokuva; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -37,6 +39,11 @@ Stanislovo garbei („kad abi lygiateisės tautos turėtų vieną globėją ir u
 - t-002
   global_id: t-64438
   teiginys: 'Šv. Stanislovo skulptūra stovėjo ant katedros frontono kartu su šv. Kazimiero ir šv. Elenos skulptūromis.'
+  sudarymo_pagrindimas: 'Citata palaiko faktą apie šv. Stanislovo skulptūrą ant katedros frontono.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/globėjas|globėjas]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1792 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko faktą apie šv. Stanislovo skulptūrą ant katedros frontono.'
   pagrindžia:
     - c-003
 
@@ -44,6 +51,11 @@ Stanislovo garbei („kad abi lygiateisės tautos turėtų vieną globėją ir u
 - t-003
   global_id: t-183579
   teiginys: 'XVI a. pradžioje šv. Kazimiero kultas ėmė išstumti Lenkijos globėjo šv. Stanislovo kultą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie šv. Stanislovo kultą ir paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/globėjas|globėjas]]; mentioned_place: Lenkija; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -51,6 +63,14 @@ Stanislovo garbei („kad abi lygiateisės tautos turėtų vieną globėją ir u
 - t-004
   global_id: t-183580
   teiginys: '1792 m. buvo baigta Lenkijos globėjo šv. Stanislovo skulptūra ant katedros frontono.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata palaiko faktą apie šv. Stanislovo skulptūros užbaigimą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/globėjas|globėjas]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1792 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko faktą apie šv. Stanislovo skulptūros užbaigimą.'
   pagrindžia:
     - c-003
 
@@ -96,10 +116,3 @@ Stanislovo garbei („kad abi lygiateisės tautos turėtų vieną globėją ir u
   pagrindžia:
     - t-004
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Altorius]]
-- [[objektai/zodynas/globėjas]]
-- [[objektai/zodynas/pagonybė]]
-- [[objektai/posakiai/„kad abi lygiateisės tautos turėtų vieną globėją ir užtarėją“]]

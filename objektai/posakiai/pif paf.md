@@ -29,6 +29,7 @@ O ko verta Vytauto Žalakevičiaus ir Almanto Grikevičiaus „Jausmų“ (1968)
 - t-001
   global_id: t-41475
   teiginys: 'Filmo „Jausmai“ scenoje lietuviškasis Rembo pasisako už „pif paf“ - ginkluotą pasipriešinimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/NKVD|NKVD]]'
   pagrindžia:
     - c-001
 
@@ -58,8 +59,3 @@ O ko verta Vytauto Žalakevičiaus ir Almanto Grikevičiaus „Jausmų“ (1968)
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/NKVD]]

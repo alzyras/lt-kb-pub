@@ -21,9 +21,14 @@ Sūnėnų tvirtas laidavimo žo­ dis ir gudriai pareikštas noras eiti į deryb
 - t-001
   global_id: t-87717
   teiginys: 'Jonas Hanulaitis buvo Lietuvos vėliavininkas ir Žygimanto Kęstutaičio laikais pasižymėjo Pabaisko mūšyje.'
+  sudarymo_pagrindimas: 'Citata palaiko pareigas ir pasižymėjimą mūšyje, bet pradinėje pretenzijoje susimaišę keli kontekstai.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/vėliavininkas|vėliavininkas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva; mentioned_place: Trakai'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-10688|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: Kęstutis buvo pagrindinis Lietuvos vakarų pasienio gynėjas nuo kryžiuočių puolimų.
+- susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-176517|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: Kęstutis su Vytautu atvyko į priešo stovyklą tartis, bet buvo priverstas vykti į Vilnių, vėliau perkeltas į Krėvą ir pasmaugtas.
+- susijęs iš [[objektai/autoriai/Mykolas Balinskis.md#claim-t-64768|Mykolas Balinskis]]: Balinskis siejamas su „Opisanie Statyst. Wilna“.
+- susijęs iš [[objektai/ivykiai/Kęstučio ir Vytauto suėmimas bei Kęstučio nužudymas Krėvoje (1382 m.).md#claim-t-86896|Kęstučio ir Vytauto suėmimas bei Kęstučio nužudymas Krėvoje (1382 m.)]]: Jogailos atsiųstas Skirgaila atvyko į Kęstučio stovyklą ir pareiškė esąs pasirengęs taikytis.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -50,10 +55,5 @@ Sūnėnų tvirtas laidavimo žo­ dis ir gudriai pareikštas noras eiti į deryb
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Jonas]]
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- [[objektai/ivykiai/Kęstučio ir Vytauto suėmimas bei Kęstučio nužudymas Krėvoje (1382 m.)]]
-- [[objektai/autoriai/Mykolas Balinskis]]
-- [[objektai/zodynas/vėliavininkas]]
-- [[objektai/asmenys/Žygimantas]]
+- Jonas Hanulaitis keliavo_i [[objektai/vietos/Trakai]]
+- Jonas Hanulaitis keliavo_i [[objektai/vietos/Vilnius]]

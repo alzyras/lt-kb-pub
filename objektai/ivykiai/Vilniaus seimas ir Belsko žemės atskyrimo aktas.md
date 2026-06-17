@@ -36,6 +36,14 @@ Nenurodyta
 - t-001
   global_id: t-185832
   teiginys: '1548 m. Vilniaus seime Lietuvos luomai pasirašė aktą, kuriuo Belsko žemė Palenkėje atskirta nuo Lietuvos ir atiduota lenkams.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Reikia pašalinti OCR triukšmą ir aiškiai suformuluoti seimo veiksmą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuvos luomai|Lietuvos luomai]]; mentioned_object: [[objektai/zodynas/luomai|luomai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Belskas; mentioned_place: Lietuva; mentioned_place: Palenkė; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1548 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia pašalinti OCR triukšmą ir aiškiai suformuluoti seimo veiksmą.'
   pagrindžia:
     - c-001
 
@@ -65,10 +73,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/zodynas/luomai]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/grupes/Lietuvos luomai]]

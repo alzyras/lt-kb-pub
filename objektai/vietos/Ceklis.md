@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Mindaugo karūnavimo metais per Ceklio dalybas daug Žemaitijos žemių atiteko Livonijos ordinui. Ceklio srityje buvo paminėti 44 vietovardžiai, o ordinas savo valdžion paėmė plotą nuo Ventos aukštupio iki Veiviržo upės. Mindaugo karūnavimo metais per Ceklio dalybas Livonijos ordinui atiteko daug Žemaitijos ploto žemių.
+Gi Mindaugo karūnavimosi metais per Ceklio dalybas daug žemių, esančių Žemaičių plote, atiteko Livonijos ordinui. Dar platesnėje Ceklio srityje, kurioje paminėti 44 vietovardžiai, ordinas savo valdžion paėmė plotą nuo Ventos aukštupio per Minijos ir Jūros upių takoskyrą iki Veiviržo upės, gaudamas du trečdaliu Kretingos, Telšių, Mažeikių ir vakarinėje dalyje Šiaulių.
 
 ## Teiginiai
 
@@ -29,6 +29,8 @@ Mindaugo karūnavimo metais per Ceklio dalybas daug Žemaitijos žemių atiteko 
 - t-001
   global_id: t-32099
   teiginys: 'Mindaugo karūnavimo metais per Ceklio dalybas daug Žemaitijos žemių atiteko Livonijos ordinui.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai perteikia Ceklio dalybų pasekmę Livonijos ordinui.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Livonija; mentioned_place: Mažeikiai; mentioned_place: Minija; mentioned_place: Palanga; mentioned_place: Venta; mentioned_place: Šiauliai'
   pagrindžia:
     - c-001
 
@@ -36,6 +38,11 @@ Mindaugo karūnavimo metais per Ceklio dalybas daug Žemaitijos žemių atiteko 
 - t-002
   global_id: t-32100
   teiginys: 'Ceklio srityje buvo paminėti 44 vietovardžiai, o ordinas savo valdžion paėmė plotą nuo Ventos aukštupio iki Veiviržo upės.'
+  sudarymo_pagrindimas: 'Perrašyta į sklandesnį sakinį, išlaikant citatos faktus.'
+  susije_objektai: 'mentioned_place: Mažeikiai; mentioned_place: Minija; mentioned_place: Venta; mentioned_place: Šiauliai; mentioned_place: Žiemgala'
+  temporaliniai_duomenys: 'įvykio data: 1254 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Perrašyta į sklandesnį sakinį, išlaikant citatos faktus.'
   pagrindžia:
     - c-002
 
@@ -43,6 +50,11 @@ Mindaugo karūnavimo metais per Ceklio dalybas daug Žemaitijos žemių atiteko 
 - t-003
   global_id: t-184383
   teiginys: 'Mindaugo karūnavimo metais per Ceklio dalybas Livonijos ordinui atiteko daug Žemaitijos ploto žemių.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Perrašyta sklandžiau, pašalinant gremėzdišką žodžių tvarką.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Kuršas; mentioned_place: Livonija; mentioned_place: Minija; mentioned_place: Palanga; mentioned_place: Prūsai'
   pagrindžia:
     - c-003
 
@@ -50,9 +62,15 @@ Mindaugo karūnavimo metais per Ceklio dalybas daug Žemaitijos žemių atiteko 
 - t-004
   global_id: t-184384
   teiginys: 'Ceklio srityje ordinas paėmė plotą nuo Ventos aukštupio per Minijos ir Jūros takoskyrą iki Veiviržo upės.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nurodo, kokį Ceklio srities plotą ordinas paėmė.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Livonija; mentioned_place: Mažeikiai; mentioned_place: Minija; mentioned_place: Palanga; mentioned_place: Venta; mentioned_place: Šiauliai'
   pagrindžia:
     - c-001
-
+- susijęs iš Ceklio sritis: Kuršiams priskiriama Ceklio sritis istorinių laikų pradžioje siekė dešinįjį Ventos krantą.
+- susijęs iš Kuršas: Istorinių laikų angoje kuršiai dar buvo užėmę platų Žemaičių šiaurės vakarų kampą ir Klaipėdos apylinkę.
 ## Reikšmingi paminėjimai
 
 - c-001

@@ -27,6 +27,11 @@ Pisan w miestie Wileńskom, roku 1507 dnia Igo Maja [Kuris stovėjo Vilniaus mie
 - t-001
   global_id: t-86176
   teiginys: '1507 m. dokumente minimas objektas stovėjo Vilniaus Didžiojoje gatvėje, arti Švč. Trejybės vienuolyno.'
+  sudarymo_pagrindimas: 'Pašalinti lenkiško dokumento ir OCR fragmentai, paliktas vietą apibūdinantis faktas.'
+  susije_objektai: 'mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1507 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalinti lenkiško dokumento ir OCR fragmentai, paliktas vietą apibūdinantis faktas.'
   pagrindžia:
     - c-001
 

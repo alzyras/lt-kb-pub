@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Gedūnas buvo senas vyras iš Kandeimu vadinamos šakos, Visigaudo iš Medenavos tėvas, gerai žinojęs Sembos karių galią. Gedūnas grįžęs rado savo ir saviškių kiemus sudegintus, o šeimyną, brolį Ringėlą ir gimines išžudytus. Gedūnas atsakė: „Pakanka, eik kur tinkamas ir pasieksi, ko nori“.
+Dusburgietis teigia, kad susitaikius Čekijos karalius nuvedė savo kariuomenę iki Baigos pilies, kur broliai pasistengė surasti vieną seną vyrą, vardu Gedūnas, Visigaudo iš Medenavos321 tėvą, kilusį iš tos jų šakos, kuri vadinama Kandeimu, gerai žinojusį visą Sembos karių galią. Dusburgietis teigia, kad gedūnas atsakė: „Pakanka, eik kur tinkamas ir pasieksi, ko nori“. Dusburgietis teigia, kad gedūnas vis dėlto per daug delsė, nežinodamas, kokie staigūs karo žygyje būna teutonai, todėl, sugrįžęs pas savuosius, rado savo bei saviškių kiemus sudegintus, o visą savo ir saviškių šeimyną, be to, savo brolį, vardu Ringėlas, ir visus savo gimines išžudytus.
 
 ## Teiginiai
 
@@ -23,6 +23,8 @@ Gedūnas buvo senas vyras iš Kandeimu vadinamos šakos, Visigaudo iš Medenavos
 - t-001
   global_id: t-60016
   teiginys: 'Gedūnas buvo senas vyras iš Kandeimu vadinamos šakos, Visigaudo iš Medenavos tėvas, gerai žinojęs Sembos karių galią.'
+  sudarymo_pagrindimas: 'Pašalinta perteklinė konteksto įžanga, palikta informacija apie asmenį.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Baiga; mentioned_place: Medenava; mentioned_place: Semba; mentioned_place: Viena; mentioned_place: Čekija'
   pagrindžia:
     - c-002
 
@@ -30,6 +32,8 @@ Gedūnas buvo senas vyras iš Kandeimu vadinamos šakos, Visigaudo iš Medenavos
 - t-002
   global_id: t-60017
   teiginys: 'Gedūnas grįžęs rado savo ir saviškių kiemus sudegintus, o šeimyną, brolį Ringėlą ir gimines išžudytus.'
+  sudarymo_pagrindimas: 'Pašalinta boilerplate ir įvardžiai pakeisti aiškiu asmens vardu.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Ringėlas|Ringėlas]]; mentioned_place: Semba'
   pagrindžia:
     - c-003
 
@@ -37,9 +41,12 @@ Gedūnas buvo senas vyras iš Kandeimu vadinamos šakos, Visigaudo iš Medenavos
 - t-003
   global_id: t-60018
   teiginys: 'Gedūnas atsakė: „Pakanka, eik kur tinkamas ir pasieksi, ko nori“.'
+  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
+  susije_objektai: 'mentioned_place: Semba'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/ivykiai/Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.).md#claim-t-66809|Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.)]]: Po kariuomenės susitaikymo Čekijos karalius nuvedė ją iki Baigos pilies, kur broliai surado Sembos karių galią žinojusį Gedūną.
+- susijęs iš Baiga: Po susitaikymo Čekijos karalius nuvedė kariuomenę iki Baigos pilies, kur broliai surado seną vyrą Gedūną.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -122,13 +129,7 @@ Gedūnas buvo senas vyras iš Kandeimu vadinamos šakos, Visigaudo iš Medenavos
     - t-004
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Ginklai]]
-- [[objektai/daiktai/Malūnas]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/ivykiai/Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.)]]
-- [[objektai/paprociai/Karaliaus vėliavų iškabinimas prie žemių ir kiemų apsaugai]]
-- [[objektai/asmenys/Otokaras II]]
-- [[objektai/posakiai/Pakanka, eik kur tinkamas ir pasieksi, ko nori]]
-- [[objektai/zodynas/kiemai habitaciones curia]]
+- Gedūnas buvo_valdovas [[objektai/vietos/Baiga]]
+- Gedūnas buvo_valdovas [[objektai/vietos/Semba]]
+- Gedūnas buvo_valdovas [[objektai/vietos/Viena]]
+- Gedūnas buvo_valdovas [[objektai/vietos/Čekija]]

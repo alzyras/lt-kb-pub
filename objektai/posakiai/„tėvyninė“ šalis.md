@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Józefas Piłsudskis pareiškė, kad jo politika taiki ir kad jis nepuls Lietuvos, kurią vadino „tėvynine“ šalimi.
+Pilsudskis pareiškė, kad jo politika yra iš esmės taiki ir kad jis nepuls Lietuvos, kuri yra „tėvyninė“ šalis.
 
 ## Teiginiai
 
@@ -20,9 +20,11 @@ Józefas Piłsudskis pareiškė, kad jo politika taiki ir kad jis nepuls Lietuvo
 - t-001
   global_id: t-20955
   teiginys: 'Józefas Piłsudskis pareiškė, kad jo politika taiki ir kad jis nepuls Lietuvos, kurią vadino „tėvynine“ šalimi.'
+  sudarymo_pagrindimas: 'Reikia išplėsti asmenvardį ir aiškiau parodyti, kad teiginys perteikia Piłsudskio pareiškimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/J. Pilsudskis|J. Pilsudskis]]; mentioned_person: [[objektai/asmenys/Pilsudskis|Pilsudskis]]; mentioned_place: Lenkija'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Juzefas Pilsudskis.md#claim-t-101667|Juzefas Pilsudskis]]: Juzefas Pilsudskis pareiškė, kad jo politika yra iš esmės taiki ir kad jis nepuls Lietuvos, kurią laikė „tėvynine“ šalimi.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -41,12 +43,3 @@ Józefas Piłsudskis pareiškė, kad jo politika taiki ir kad jis nepuls Lietuvo
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/J. Pilsudskis]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Pilsudskis]]
-- [[objektai/grupes/Prancūzai]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/asmenys/Juzefas Pilsudskis]]

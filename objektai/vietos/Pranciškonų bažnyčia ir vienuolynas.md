@@ -20,6 +20,8 @@ Pranciškonų bažnyčia ir vienuolynas, seniau - Goštauto dvaras.
 - t-001
   global_id: t-86228
   teiginys: 'Pranciškonų bažnyčios ir vienuolyno vietoje seniau buvo Goštauto dvaras.'
+  sudarymo_pagrindimas: 'Pradinis teiginys yra sąrašo fragmentas be aiškaus tarinio.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]'
   pagrindžia:
     - c-001
 

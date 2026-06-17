@@ -22,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-Antra — Pamedė192, kurioje [gyveno] pamedėnai. Pagudėnai prie Kristburgo užpuolė pilaitę, kurioje gyveno tikintieji pamedėnai, į ją įsiveržė ir ją sugriovė. Per badą pilyje broliai įkalbinėjo jiems ištikimus pamedėnus pasitraukti į kitas vietas, kad galėtų prasimaitinti.
+Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių ordinų pajėgos, broliai riteriai ir i 4 jiems pavaldžių užgrobtų žemių “prievarta buriami kariai (prūsai - pamedėnai, notangai, varmiai, sembai, o taip pat kuršiai, estai ir kt.), iš.
 
 ## Teiginiai
 
@@ -30,6 +30,8 @@ Antra — Pamedė192, kurioje [gyveno] pamedėnai. Pagudėnai prie Kristburgo u�
 - t-001
   global_id: t-78414
   teiginys: 'Antra — Pamedė192, kurioje [gyveno] pamedėnai.'
+  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]'
   pagrindžia:
     - c-002
 
@@ -37,6 +39,9 @@ Antra — Pamedė192, kurioje [gyveno] pamedėnai. Pagudėnai prie Kristburgo u�
 - t-002
   global_id: t-78415
   teiginys: 'Pagudėnai prie Kristburgo užpuolė pilaitę, kurioje gyveno tikintieji pamedėnai, į ją įsiveržė ir ją sugriovė.'
+  sudarymo_pagrindimas: 'Teiginys yra konkretus ir paremtas citata apie tikinčiuosius pamedėnus.'
+  susije_objektai: 'location: Belichovas; location: Elbingas; location: Kristburgas; location: Kulmas; location: Marienverderis; location: Viena; mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/asmenys/Konradas Švabas iš Elbingo|Konradas Švabas iš Elbingo]]; mentioned_place: Belichovas; mentioned_place: Elbingas; mentioned_place: Kristburgas; mentioned_place: Kulmas; mentioned_place: Marienverderis; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/grupes/Pamedėnai|Pamedėnai]] gyveno Belichovas; [[objektai/grupes/Pamedėnai|Pamedėnai]] gyveno Elbingas; [[objektai/grupes/Pamedėnai|Pamedėnai]] gyveno Kristburgas; [[objektai/grupes/Pamedėnai|Pamedėnai]] gyveno Kulmas; [[objektai/grupes/Pamedėnai|Pamedėnai]] gyveno Marienverderis; [[objektai/grupes/Pamedėnai|Pamedėnai]] gyveno Viena'
   pagrindžia:
     - c-006
     - c-011
@@ -45,6 +50,8 @@ Antra — Pamedė192, kurioje [gyveno] pamedėnai. Pagudėnai prie Kristburgo u�
 - t-003
   global_id: t-78417
   teiginys: 'Per badą pilyje broliai įkalbinėjo jiems ištikimus pamedėnus pasitraukti į kitas vietas, kad galėtų prasimaitinti.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiksliai perteikia citatoje aprašytą pamedėnų pasitraukimą.'
+  susije_objektai: 'mentioned_place: Prūsija'
   pagrindžia:
     - c-001
     - c-005
@@ -53,6 +60,8 @@ Antra — Pamedė192, kurioje [gyveno] pamedėnai. Pagudėnai prie Kristburgo u�
 - t-004
   global_id: t-78419
   teiginys: 'Pamedės Reisių valsčiuje gyvenę pamedėnai buvo puolami grobimais, gaisrais ir kraujo praliejimu.'
+  sudarymo_pagrindimas: 'Citata palaiko faktą apie pamedėnus, bet pradinėje formuluotėje trūko aiškaus objekto.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_place: Pamedė'
   pagrindžia:
     - c-009
 
@@ -60,6 +69,9 @@ Antra — Pamedė192, kurioje [gyveno] pamedėnai. Pagudėnai prie Kristburgo u�
 - t-005
   global_id: t-78420
   teiginys: 'Belichovo pilis prie Osos priklausė kilmingam pamedėnui Jonui, Sarginio sūnui.'
+  sudarymo_pagrindimas: 'Citata palaiko aiškų faktą apie pamedėną Joną ir jo pilį.'
+  susije_objektai: 'owner: Belichovas; owner: Elbingas; owner: [[objektai/asmenys/Konradas|Konradas]]; owner: [[objektai/asmenys/Konradas Švabas iš Elbingo|Konradas Švabas iš Elbingo]]; owner: Kulmas; owner: Marienverderis; owner: Viena; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/asmenys/Konradas Švabas iš Elbingo|Konradas Švabas iš Elbingo]]; mentioned_place: Belichovas; mentioned_place: Elbingas; mentioned_place: Kulmas; mentioned_place: Marienverderis; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/grupes/Pamedėnai|Pamedėnai]] priklausė [[objektai/asmenys/Konradas Švabas iš Elbingo|Konradas Švabas iš Elbingo]]; [[objektai/grupes/Pamedėnai|Pamedėnai]] priklausė [[objektai/asmenys/Konradas|Konradas]]; [[objektai/grupes/Pamedėnai|Pamedėnai]] priklausė Belichovas; [[objektai/grupes/Pamedėnai|Pamedėnai]] priklausė Elbingas; [[objektai/grupes/Pamedėnai|Pamedėnai]] priklausė Kulmas; [[objektai/grupes/Pamedėnai|Pamedėnai]] priklausė Marienverderis; [[objektai/grupes/Pamedėnai|Pamedėnai]] priklausė Viena'
   pagrindžia:
     - c-010
 
@@ -67,6 +79,8 @@ Antra — Pamedė192, kurioje [gyveno] pamedėnai. Pagudėnai prie Kristburgo u�
 - t-006
   global_id: t-78421
   teiginys: 'Per naują atsimetimą ištikimieji pamedėnai liko tarp tų, kurie nesusimokė atsimesti nuo krikščionybės.'
+  sudarymo_pagrindimas: 'Reikia pašalinti neaiškų įvardį ir teologinį kontekstą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Elbingas; mentioned_place: Kristburgas'
   pagrindžia:
     - c-007
 
@@ -74,6 +88,11 @@ Antra — Pamedė192, kurioje [gyveno] pamedėnai. Pagudėnai prie Kristburgo u�
 - t-007
   global_id: t-78422
   teiginys: '1260 m. Klaipėdoje pamedėnai minimi tarp Ordino pavaldžių užgrobtų žemių karių, prievarta telktų prieš Lietuvą.'
+  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir suformuluotas faktas apie pamedėnus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Estai|Estai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/kryžininkai|kryžininkai]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Revelis; mentioned_place: Vokietija'
+  temporaliniai_duomenys: 'įvykio data: 1260 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas OCR triukšmas ir suformuluotas faktas apie pamedėnus.'
   pagrindžia:
     - c-003
 
@@ -81,6 +100,11 @@ Antra — Pamedė192, kurioje [gyveno] pamedėnai. Pagudėnai prie Kristburgo u�
 - t-008
   global_id: t-78423
   teiginys: '1260 m. Klaipėdoje prieš Lietuvą sutelktose Ordino pajėgose buvo ir prievarta buriami pamedėnai.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas faktinis sakinys apie pamedėnus ir paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Estai|Estai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/kryžininkai|kryžininkai]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Revelis; mentioned_place: Vokietija'
+  temporaliniai_duomenys: 'įvykio data: 1260 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas faktinis sakinys apie pamedėnus ir paremtas citata.'
   pagrindžia:
     - c-003
 
@@ -88,10 +112,44 @@ Antra — Pamedė192, kurioje [gyveno] pamedėnai. Pagudėnai prie Kristburgo u�
 - t-009
   global_id: t-78424
   teiginys: 'Pamedėnai, pagudėnai, varmiai, notangai ir bartai sugrįžo į tikėjimą, davė broliams įkaitų ir iš naujo pasidavė.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai perteikia citatoje nurodytą pamedėnų ir kitų grupių pasidavimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/įkaitai|įkaitai]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Henrikas iš Svarcburgo|Henrikas iš Svarcburgo]]; mentioned_place: Prūsija; mentioned_place: Vokietija'
   pagrindžia:
     - c-004
     - c-008
-
+- susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90028|Sventopelkas]]: Sventopelkas pastatė Svečės pilį ir kelis kartus kariavo prieš brolius bei Kazimierą.
+- susijęs iš [[objektai/grupes/Sembai.md#claim-t-175082|Sembai]]: Sembai priklausė sembų-notangų kultūrinei grupei, kurioje išskiriamos sembų, varmių, notangų, pagudėnų ir pamedėnų gentinės teritorijos.
+- susijęs iš [[objektai/asmenys/Henrikas iš Veidos.md#claim-t-184083|Henrikas iš Veidos]]: Henrikas iš Veidos užimtoje pamedėnų pilyje įkurdino brolius ir daug ginklanešių.
+- susijęs iš [[objektai/asmenys/Henrikas iš Veidos.md#claim-t-60137|Henrikas iš Veidos]]: Henrikas iš Veidos su broliais ir maldininkais užėmė pamedėnų pilį, stovėjusią vietoje, vėliau vadintoje Senuoju Kristburgu.
+- susijęs iš [[objektai/asmenys/Hermanas (Ordino magistras).md#claim-t-60029|Hermanas (Ordino magistras)]]: Magistras Hermanas su broliais 1233 m. Kvedino saloje pastatė pilį ir pavadino ją Marienverderiu.
+- susijęs iš [[objektai/asmenys/Sirenas.md#claim-t-184125|Sirenas]]: Sirenas nutraukė grandines ir gynė Kristburgo pilies tiltą, kol buvo uždaryti pilies vartai.
+- susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90018|Sventopelkas]]: Sventopelkas sutelkė savo kariuomenę ir Prūsijos naujakrikščius keršyti broliams dėl jų užimtos pamedėnų pilies.
+- susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90028|Sventopelkas]]: Sventopelkas pastatė Svečės pilį ir kelis kartus kariavo prieš brolius bei Kazimierą.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178851|Kryžiuočių ordinas]]: Teutonų namų ordinas gavo pradžią 1190 Viešpaties metais, kai viešpatavo popiežius Celestinas III ir imperatorius Henrikas VI.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178876|Kryžiuočių ordinas]]: 1233 m. magistras ir Kryžiuočių ordino broliai Kvedino saloje pastatė pilį ir pavadino ją Marienverderiu.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179125|Kryžiuočių ordinas]]: 1431 m. Švitrigaila užmezgė ryšius su abiem Vokiečių ordino šakomis, kai Lenkija negrąžino Podolės.
+- susijęs iš [[objektai/grupes/Pagudėnai.md#claim-t-89158|Pagudėnai]]: Pagudėnai prie Kristburgo užpuolė tikinčiųjų pamedėnų pilaitę, į ją įsiveržė ir ją sugriovė.
+- susijęs iš [[objektai/grupes/Prūsijos naujakrikščiai atsimetėliai.md#claim-t-89178|Prūsijos naujakrikščiai atsimetėliai]]: Magistras Henrikas rengėsi sunaikinti Sventopelką ir Prūsijos naujakrikščius atsimetėlius, kaltintus žala tikėjimui ir tikintiesiems.
+- susijęs iš [[objektai/grupes/Sembai.md#claim-t-175082|Sembai]]: Sembai priklausė sembų-notangų kultūrinei grupei, kurioje išskiriamos sembų, varmių, notangų, pagudėnų ir pamedėnų gentinės teritorijos.
+- susijęs iš [[objektai/ivykiai/Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas.md#claim-t-66519|Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas]]: Prūsai prie Pagansčių kaimo netikėtai užpuolė krikščionis iš dviejų pusių, nukovė dvylika brolių ir penkis šimtus vyrų.
+- susijęs iš [[objektai/ivykiai/Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas.md#claim-t-66521|Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas]]: Per Divano ir Linko puolimą Kristburgo pilyje buvo likę trys broliai, trys jų tarnai ir grandinėmis surakintas pamedėnas Sirenas.
+- susijęs iš [[objektai/ivykiai/Henriko Meiseno markgrafo žygis į Pamedę, pilių naikinimas ir pamedėnų pavergimas.md#claim-t-66557|Henriko Meiseno markgrafo žygis į Pamedę, pilių naikinimas ir pamedėnų pavergimas]]: Henrikas Meiseno markgrafas 1236 m. atvyko į Prūsiją ir niokojo Pamedę.
+- susijęs iš [[objektai/ivykiai/Henriko Meiseno markgrafo žygis į Pamedę, pilių naikinimas ir pamedėnų pavergimas.md#claim-t-66558|Henriko Meiseno markgrafo žygis į Pamedę, pilių naikinimas ir pamedėnų pavergimas]]: Pamedėje Henrikas, Meiseno markgrafas, puolė Reisių valsčių, naikino pilis ir privertė pamedėnus pasiduoti tikėjimui bei broliams.
+- susijęs iš [[objektai/ivykiai/Kristburgo bado krizės ir Samilio nukankinimo bandymas.md#claim-t-89372|Kristburgo bado krizės ir Samilio nukankinimo bandymas]]: Per vėlesnį badą Kristburgo broliai ragino ištikimus pamedėnus pasitraukti kitur, kad šie galėtų prasimaitinti.
+- susijęs iš [[objektai/ivykiai/Marienverderio pilies pastatymas, perkėlimas ir miesto sustiprinimas.md#claim-t-66769|Marienverderio pilies pastatymas, perkėlimas ir miesto sustiprinimas]]: 1233 m. magistras ir broliai Kvedino saloje pastatė Marienverderio pilį, vėliau perkeltą į Pamedės valsčiaus Reisių vietovę.
+- susijęs iš [[objektai/ivykiai/Marienverderio pilies pastatymas, perkėlimas ir miesto sustiprinimas.md#claim-t-66770|Marienverderio pilies pastatymas, perkėlimas ir miesto sustiprinimas]]: 1233 m. pastatyta Marienverderio pilis vėliau buvo perkelta iš Kvedino salos į Pamedės valsčių, vadintą Reisiais.
+- susijęs iš [[objektai/ivykiai/Pilaitės prie Kristburgo užėmimas ir sunaikinimas.md#claim-t-62432|Pilaitės prie Kristburgo užėmimas ir sunaikinimas]]: Pagudėnai prie Kristburgo užpuolė pamedėnų pilaitę, ją užėmė ir iš pagrindų sugriovė.
+- susijęs iš [[objektai/ivykiai/Žygis prieš varmius, notangus ir bartus ir brolių žūtis prie būsimos Baigos.md#claim-t-67028|Žygis prieš varmius, notangus ir bartus ir brolių žūtis prie būsimos Baigos]]: Žygyje prieš varmius, notangus ir bartus broliai prie būsimos Baigos apiplėšė kaimus, o prūsai juos užpuolė ir išžudė.
+- susijęs iš [[objektai/paprociai/Kristburgo pilies aprūpinimas Zirgūnos upe ir ištikimų pamedėnų pasitraukimas bado metu.md#claim-t-62688|Kristburgo pilies aprūpinimas Zirgūnos upe ir ištikimų pamedėnų pasitraukimas bado metu (pilis)]]: Per badą Kristburgo broliai įkalbinėjo jiems ištikimus pamedėnus pasitraukti kitur, kad šie galėtų prasimaitinti.
+- susijęs iš Baiga: Broliai perplaukė Gėlo vandens marias ieškodami vietos piliai ir netoli būsimos Baigos pamatė prūsų pilį.
+- susijęs iš Kristburgas: Magistras Henrikas Kalėdų išvakarėse užėmė pamedėnų pilį vietoje, kuri vėliau vadinta Senuoju Kristburgu.
+- susijęs iš Kristburgas: Kristaus gimimo naktį magistro Henriko kariuomenė užėmė pamedėnų pilį, vėliau pavadintą Kristburgu.
+- susijęs iš Pagansčiai: Prie Pagansčių kaimo prūsai užpuolė krikščionis ir nukovė dvylika brolių bei penkis šimtus vyrų.
+- susijęs iš Senasis Kristburgas: Pamedėnų pilis stovėjo vietoje, kuri Petro Dusburgiečio kronikoje vadinama Senuoju Kristburgu.
+- susijęs iš Senasis Kristburgas: Senasis Kristburgas, vėliau vadintas Alt Christburgu, buvo senas pamedėnų centras.
+- susijęs iš [[objektai/zodynas/atsimetėliai naujakrikščiai atsimetėliai.md#claim-t-58845|atsimetėliai naujakrikščiai atsimetėliai]]: Petras Dusburgietis Sventopelką ir jo bendrus vadino Prūsijos žemės naujakrikščiais atsimetėliais.
+- susijęs iš [[objektai/zodynas/papilys.md#claim-t-184009|papilys]]: Prūsai prie Pagansčių kaimo sumušė krikščionis, o po to sugriovė pamedėnų gyvenvietę, pilį ir brolių papilį.
+- susijęs iš [[objektai/zodynas/papilys.md#claim-t-58777|papilys]]: Prūsai sugriovė pamedėnų gyvenvietę, pilį ir brolių papilį, dalį žmonių paimdami į nelaisvę, o kitus išžudydami.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -299,43 +357,18 @@ Antra — Pamedė192, kurioje [gyveno] pamedėnai. Pagudėnai prie Kristburgo u�
     - t-002
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Estai]]
-- [[objektai/autoriai/Henrikas]]
-- [[objektai/asmenys/Henrikas Botelis]]
-- [[objektai/asmenys/Henrikas iš Svarcburgo]]
-- [[objektai/asmenys/Konradas]]
-- [[objektai/asmenys/Konradas Švabas iš Elbingo]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Notangai]]
-- [[objektai/grupes/Pagudėnai]]
-- [[objektai/grupes/Teutonai]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/zodynas/komtūras]]
-- [[objektai/zodynas/kryžininkai]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/netikėliai]]
-- [[objektai/grupes/Švedai]]
-- [[objektai/ivykiai/Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas]]
-- [[objektai/asmenys/Henrikas iš Veidos]]
-- [[objektai/ivykiai/Henriko Meiseno markgrafo žygis į Pamedę, pilių naikinimas ir pamedėnų pavergimas]]
-- [[objektai/asmenys/Hermanas (Ordino magistras)]]
-- [[objektai/ivykiai/Marienverderio pilies pastatymas, perkėlimas ir miesto sustiprinimas]]
-- [[objektai/grupes/Prūsijos naujakrikščiai atsimetėliai]]
-- [[objektai/grupes/Sembai]]
-- [[objektai/asmenys/Sirenas]]
-- [[objektai/asmenys/Sventopelkas]]
-- [[objektai/zodynas/atsimetėliai naujakrikščiai atsimetėliai]]
-- [[objektai/zodynas/papilys]]
-- [[objektai/ivykiai/Žygis prieš varmius, notangus ir bartus ir brolių žūtis prie būsimos Baigos]]
-- [[objektai/grupes/Bartai]]
-- [[objektai/zodynas/įkaitai]]
-- [[objektai/ivykiai/Kristburgo bado krizės ir Samilio nukankinimo bandymas]]
-- [[objektai/paprociai/Kristburgo pilies aprūpinimas Zirgūnos upe ir ištikimų pamedėnų pasitraukimas bado metu|Kristburgo pilies aprūpinimas Zirgūnos upe ir ištikimų pamedėnų pasitraukimas bado metu (pilis)]]
-- [[objektai/ivykiai/Pilaitės prie Kristburgo užėmimas ir sunaikinimas]]
-- [[objektai/grupes/Danijos karaliaus kariai iš Revelio]]
-- [[objektai/asmenys/Jonas (Sarginio sūnus)]]
-- [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
-- [[objektai/grupes/Livonijos ordinas]]
-- [[objektai/grupes/Marienverderio miestiečiai]]
-- [[objektai/grupes/Varmiai]]
+- [[objektai/asmenys/Sventopelkas]] kariavo_pries Pamedėnai
+- Pamedėnai gyveno [[objektai/vietos/Belichovas]]
+- Pamedėnai gyveno [[objektai/vietos/Elbingas]]
+- Pamedėnai gyveno [[objektai/vietos/Kristburgas]]
+- Pamedėnai gyveno [[objektai/vietos/Kulmas]]
+- Pamedėnai gyveno [[objektai/vietos/Marienverderis]]
+- Pamedėnai gyveno [[objektai/vietos/Viena]]
+- Pamedėnai priklause [[objektai/vietos/Belichovas]]
+- Pamedėnai priklause [[objektai/vietos/Elbingas]]
+- Pamedėnai priklause [[objektai/asmenys/Konradas]]
+- Pamedėnai priklause [[objektai/asmenys/Konradas Švabas iš Elbingo]]
+- Pamedėnai priklause [[objektai/vietos/Kulmas]]
+- Pamedėnai priklause [[objektai/vietos/Marienverderis]]
+- Pamedėnai priklause [[objektai/vietos/Viena]]
+- [[objektai/grupes/Sembai]] priklause Pamedėnai

@@ -14,7 +14,7 @@ tags:
 
 ## Santrauka
 
-XIII a. Vakarų Europos pėstininkai dažniausiai nenaudodavo skydo, o jų kojos ir rankos neretai būdavo neapsaugotos.
+Pėstininkai galėdavo būti apsaugoti žieduočio šarvų, tačiau dažniau apsaugai naudodavo tiesiog storos medžiagos pošarvį. Paprastai pėstininkai naudodavo dvirankius artimosios kovos ginklus (kovos kirvius, ietis) ar šaunamuosius (lankus, arbaletus) tarp šių dviejų pilių.
 
 ## Laikotarpis ir datos
 
@@ -42,6 +42,8 @@ Nenurodyta
 - t-001
   global_id: t-78730
   teiginys: 'XIII a. Vakarų Europos pėstininkai dažniausiai nenaudodavo skydo, o jų kojos ir rankos neretai būdavo neapsaugotos.'
+  sudarymo_pagrindimas: 'Pirminiame teiginyje trūksta aiškaus veiksnio.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_place: Europa'
   pagrindžia:
     - c-001
 
@@ -63,7 +65,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Ginklai]]

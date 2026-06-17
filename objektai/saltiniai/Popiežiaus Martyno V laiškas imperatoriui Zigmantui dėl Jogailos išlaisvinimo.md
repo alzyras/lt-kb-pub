@@ -27,6 +27,11 @@ amziai:
 - t-001
   global_id: t-88465
   teiginys: 'Popiežius Martynas V 1430 m. vasario 27 d. laiške imperatoriui Zigmantui ragino išlaisvinti Jogailą.'
+  sudarymo_pagrindimas: 'Citata aiškiai nurodo to paties popiežiaus laišką Zigmantui ir jo tikslą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Martynas V|Martynas V]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]'
+  temporaliniai_duomenys: 'įvykio data: 1430 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata aiškiai nurodo to paties popiežiaus laišką Zigmantui ir jo tikslą.'
   pagrindžia:
     - c-001
 

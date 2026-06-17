@@ -20,6 +20,8 @@ Jo karališkajai didenybei vykstant į Solcą, į pono Lietu­ vos pataurininkio
 - t-001
   global_id: t-86238
   teiginys: 'Karališkoji didenybė vyko į Solcą, į Lietuvos pataurininkio vestuves.'
+  sudarymo_pagrindimas: 'Citata palaiko trumpą faktą apie kelionę į Solcą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Pataurininkis|Pataurininkis]]; mentioned_place: Brasta; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

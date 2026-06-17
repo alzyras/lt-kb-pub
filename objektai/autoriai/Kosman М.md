@@ -20,6 +20,8 @@ Dusburgietis teigia, kad kartais tvirtinama, kad žynių luomo apskritai nėra b
 - t-001
   global_id: t-60731
   teiginys: 'M. Kosmanas teigė, kad žynių luomo apskritai nėra buvę.'
+  sudarymo_pagrindimas: 'Pašalintas klaidingas Dusburgiečio priskyrimas ir bibliografinis triukšmas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_person: [[objektai/asmenys/Krivis|Krivis]]; mentioned_place: Nadruva'
   pagrindžia:
     - c-001
 
@@ -40,8 +42,3 @@ Dusburgietis teigia, kad kartais tvirtinama, kad žynių luomo apskritai nėra b
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/luomas]]
-- [[objektai/zodynas/krivis krivė krivaitis]]

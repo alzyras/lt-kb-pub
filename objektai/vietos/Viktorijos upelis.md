@@ -14,7 +14,7 @@ tags:
 
 ## Santrauka
 
-Žygimantas per Pabaisko mūšio lauką tekėjusį mažą upelį pavadino Viktorija. Balińskis Viktorijos upelį apibūdino kaip mažą, bet vertą gražaus vardo.
+Žygimantas, no­ rėdamas įamžinti šią didžią pergalę, laimėtą jo sūnaus narsumo ir, žinoma, lenkų pulkų karingumo dėka, mūšio lauką pavadino Pabaisku, o per jį tekantį mažą upelį - Vik­ torija ir toje vietoje pastatė parapijos bažnyčią22. Žemė derlinga, Viktorijos upelis, nors mažas, bet vertas gražaus vardo.
 
 ## Teiginiai
 
@@ -22,6 +22,8 @@ tags:
 - t-001
   global_id: t-86112
   teiginys: 'Žygimantas per Pabaisko mūšio lauką tekėjusį mažą upelį pavadino Viktorija.'
+  sudarymo_pagrindimas: 'Pirminė formuluotė buvo gramatiškai neaiški, citata leidžia ją pataisyti.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva; mentioned_place: Maskva'
   pagrindžia:
     - c-002
 
@@ -29,6 +31,8 @@ tags:
 - t-002
   global_id: t-86113
   teiginys: 'Balińskis Viktorijos upelį apibūdino kaip mažą, bet vertą gražaus vardo.'
+  sudarymo_pagrindimas: 'Pradinis sakinys jungia kelis objektus, o vertinimui reikia autorinės atribucijos.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_person: [[objektai/asmenys/Vaclovas|Vaclovas]]'
   pagrindžia:
     - c-001
 

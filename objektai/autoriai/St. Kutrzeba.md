@@ -30,9 +30,19 @@ periodo_grupes:
 - t-001
   global_id: t-100137
   teiginys: 'St. Kutrzeba 1914 m. paskelbė darbą „Unja Litwy z Polską“.'
+  sudarymo_pagrindimas: 'Citata palaiko pilną faktą apie autoriaus publikaciją.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/Kutrzeba|Kutrzeba]]'
+  temporaliniai_duomenys: 'įvykio data: 1914 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko pilną faktą apie autoriaus publikaciją.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/autoriai/Kutrzeba.md#claim-t-96054|Kutrzeba]]: St. Kutrzeba pastebėjo, kad terminas „prijungti“ nėra juridiškas ir nieko aiškaus nepasako.
+- susijęs iš [[objektai/autoriai/Wł. Semkowiczius.md#claim-t-29646|Wł. Semkowiczius]]: Wł. Semkowiczius su J. Fijałeku išleido Vilniaus vyskupijos šaltinių tomą, o su St. Kutrzeba - Lenkijos ir Lietuvos unijos aktus.
+- susijęs iš [[objektai/autoriai/prof. dr. St. Kutrzeba.md#claim-t-54147|prof. dr. St. Kutrzeba]]: St. Kutrzeba teigė, kad terminas „prijungti“ nėra juridiškas ir nieko aiškaus nepasako.
+- susijęs iš [[objektai/autoriai/prof. dr. St. Kutrzeba.md#claim-t-54148|prof. dr. St. Kutrzeba]]: Prof. dr. St. Kutrzeba pastebėjo, kad terminas „prijungti“ nėra juridiškas ir nieko aiškaus nepasako.
+- susijęs iš Akta unii Polski z Litwą 1385-1791: „Akta unii Polski z Litwą 1385-1791“ išleido St. Kutrzeba ir Wł. Semkowiczius Krokuvoje 1932 m.
+- susijęs iš Akta unji: „Akta unii Polski z Litwą 1385-1791“ yra St. Kutrzebos ir Wl. Semkowicziaus parengtas 1385-1791 m. Lenkijos ir Lietuvos unijų aktų rinkinys, išleistas Krokuvoje 1932 m.
 ## Reikšmingi paminėjimai
 
 - c-001

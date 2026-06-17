@@ -1,24 +1,11 @@
 ---
 tipas: vieta
 pavadinimas: 'Putivlis'
-variantai:
-  - 'Putivlio'
-aliases: []
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
 atnaujinta: ''
-laikotarpis: ''
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: ''
 tags:
   - vieta
 ---
@@ -29,25 +16,28 @@ tags:
 Maskvėnai netoli Putivlio užpuolė Vytauto valdinius. Putivlis šiame gabale minimas kaip pasienio konflikto orientyras.
 
 ## Teiginiai
+
 <a id="claim-t-187299"></a>
 - t-001
   global_id: t-187299
-  teiginys: 'Maskvėnai netoli Putivlio užpuolė Vytauto valdinius.'
+  teiginys: 'Lietuvos metraštis pasakoja, kad netoli Putivlio, prie Tykiosios Sosnos, maskvėnai užpuolė Vytauto valdinius severskiečius.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pridėtas citatoje nurodytas Tykiosios Sosnos kontekstas ir šaltinio atribucija. Dangaus ženklo motyvas sąmoningai neįtrauktas kaip interpretaciškai jautrus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Lietuva; mentioned_place: Maskva'
   pagrindžia:
     - c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  statusas: patvirtinta
-<a id="claim-t-187300"></a>
-- t-002
-  global_id: t-187300
-  teiginys: 'Putivlis šiame gabale minimas kaip pasienio konflikto orientyras.'
-  pagrindžia:
-    - c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  statusas: patvirtinta
+- susijęs iš Belgorodas: Gediminui ilsintis prie Kijevo, Belgorodas ir kitos artimiausios pilys pasidavė nugalėtojui.
+- susijęs iš Brianskas: Gediminas, užėmęs Brianską ir Perejeslavlį, išplėtė lietuvių valdų ribas ligi Putivlio.
+- susijęs iš Juodoji jūra: Uksinė jūra Daukanto tekste tapatinama su Juodąja jūra.
+- susijęs iš Kanevas: Gediminui užėmus Kijevą, Belgorodo, Slepovrodžio, Kanevo ir Čerkasų pilys pasidavė nugalėtojui.
+- susijęs iš Perejeslavlis: Gediminas, užėmęs Brianską ir Perejeslavlį, išplėtė lietuvių valdų ribas ligi Putivlio.
+- susijęs iš Severskas: Gediminas, sulaukęs Belgorodo, Slepovrodžio, Kanevo ir Čerkasų pasidavimo, patraukė į Severską.
+- susijęs iš Slepovrodis: Gedimino žygio metu Slepovrodis kartu su Belgorodu, Kanevu ir Čerkasais pasidavė nugalėtojui.
+- susijęs iš Volynė: Gediminas, užėmęs Brianską ir Perejeslavlį bei anksčiau užkariavęs Kijevą, Volynę ir didelę Seversko dalį, išplėtė lietuvių valdų ribas ligi Putivlio.
+- susijęs iš Čerkasai: Čerkasų pilis kartu su Belgorodu, Slepovrodžiu ir Kanevu pasidavė Gediminui po jo įsitvirtinimo Kijeve.
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Maskvėnai netoli Putivlio užpuolė Vytauto valdinius.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     Ir suspindo žvaigždės kaip naktį, ir
@@ -58,13 +48,11 @@ Maskvėnai netoli Putivlio užpuolė Vytauto valdinius. Putivlis šiame gabale m
     Dimitrijevičiumi. Maskvėnai, atsibastę netoli Putivlio,
     prie Tykiosios Sosnos 3  užpuolė Vytauto valdinius se-
     verskiečius, atėmė iš jų du bebrus ir tris statines me-
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
-    - t-002
-    - t-003
     - t-004
+    - t-002
+    - t-001
+    - t-003

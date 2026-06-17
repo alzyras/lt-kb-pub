@@ -44,6 +44,12 @@ Nenurodyta
 - t-001
   global_id: t-62507
   teiginys: '1311 m. totoriai su armėnais ir gruzinais žygiavo į Siriją bei Palestiną, išvijo sultoną ir nukovė daugiau nei 10 tūkst. raitelių.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Citata remia faktą, bet pradinis teiginys kopijuoja antraštę ir nutrūkusią bibliografinę nuorodą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Armėnai|Armėnai]]; mentioned_group: [[objektai/grupes/Gruzinai|Gruzinai]]; mentioned_group: [[objektai/grupes/Saracėnai|Saracėnai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Palestina; mentioned_place: Sirija'
+  temporaliniai_duomenys: 'įvykio data: 1311 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata remia faktą, bet pradinis teiginys kopijuoja antraštę ir nutrūkusią bibliografinę nuorodą.'
   pagrindžia:
     - c-001
 
@@ -62,10 +68,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Armėnai]]
-- [[objektai/grupes/Gruzinai]]
-- [[objektai/grupes/Saracėnai]]
-- [[objektai/grupes/Totoriai]]

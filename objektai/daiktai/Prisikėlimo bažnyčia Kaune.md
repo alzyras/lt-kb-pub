@@ -41,6 +41,8 @@ Nenurodyta
 - t-001
   global_id: t-26412
   teiginys: 'Kaune sumanyta pastatyti Prisikėlimo bažnyčią kaip tautos šventyklą, atspindinčią religinę ir tautinę dvasią.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie bažnyčios sumanymą ir paskirtį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kaunas'
   pagrindžia:
     - c-001
 
@@ -60,7 +62,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]

@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Jis mat norėjo neleisti statyti čia pilies. Sventopelkas pradėjo statyti Svečės pilį priešais Kulmą, kad trukdytų broliams plaukioti Vysla aukštyn ir žemyn.
+Dusburgietis teigia, kad kadangi klastinga piktybė ir piktas vylius neša džiaugsmą niekšingiems žmonėms, kai jie gali daryti blogus darbus, ir skatina dar didesnėms blogybėms, todėl ir Sventopelkas, be galo didžiuodamasis Santyro pilimi, pastatyta kenkti tikėjimui ir tikintiesiems. Dusburgietis teigia, kad jis mat norėjo neleisti statyti čia pilies.
 
 ## Laikotarpis ir datos
 
@@ -39,6 +39,8 @@ Nenurodyta
 - t-001
   global_id: t-66924
   teiginys: 'Jis mat norėjo neleisti statyti čia pilies.'
+  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Biala; mentioned_place: Kaimas; mentioned_place: Kulmas; mentioned_place: Nogatas; mentioned_place: Semba; mentioned_place: Svečė; mentioned_place: Torunė; mentioned_place: Vysla'
   pagrindžia:
     - c-002
 
@@ -46,6 +48,8 @@ Nenurodyta
 - t-002
   global_id: t-66925
   teiginys: 'Sventopelkas pradėjo statyti Svečės pilį priešais Kulmą, kad trukdytų broliams plaukioti Vysla aukštyn ir žemyn.'
+  sudarymo_pagrindimas: 'Citata palaiko pilies statybą ir tikslą, o pradinis teiginys perkrautas kronikos retorika.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Kulmas; mentioned_place: Santyras; mentioned_place: Svečė; mentioned_place: Torunė; mentioned_place: Vysla'
   pagrindžia:
     - c-001
 
@@ -104,11 +108,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Kryžius]]
-- [[objektai/daiktai/Laivai]]
-- [[objektai/zodynas/Adynos|adynos]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/asmenys/Sventopelkas]]

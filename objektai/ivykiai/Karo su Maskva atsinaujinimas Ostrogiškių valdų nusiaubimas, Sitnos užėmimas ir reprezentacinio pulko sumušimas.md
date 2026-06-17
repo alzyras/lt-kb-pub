@@ -30,6 +30,11 @@ Nenurodyta
 - t-001
   global_id: t-185584
   teiginys: 'Taikos pasiuntiniams nieko nepasiekus, maskvėnai atnaujino karą nelaukdami paliaubų pabaigos.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pašalinta autorinė įžanga, OCR klaidos ir paliktas aiškus citatos palaikomas faktas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Ivanas|Ivanas]]; mentioned_place: Gardinas; mentioned_place: Severskas; mentioned_place: Seversko žemės'
   pagrindžia:
     - c-001
 
@@ -37,6 +42,11 @@ Nenurodyta
 - t-002
   global_id: t-185585
   teiginys: 'Gardine vykstant taikos deryboms, iš Seversko žemės įsiveržusi kariuomenė nusiaubė kunigaikščių Ostrogiškių valdas.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys ir tiksliai perteikia citatos faktą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Parakas|Parakas]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Stanislovas|Stanislovas]]; mentioned_person: [[objektai/asmenys/Stanislovas Pacas|Stanislovas Pacas]]; mentioned_place: Gardinas; mentioned_place: Severskas; mentioned_place: Seversko žemės'
   pagrindžia:
     - c-002
 
@@ -83,12 +93,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Ivanas]]
-- [[objektai/grupes/Maskvėnai]]
-- [[objektai/daiktai/Parakas]]
-- [[objektai/asmenys/Stanislovas]]
-- [[objektai/asmenys/Stanislovas Pacas]]
-- [[objektai/zodynas/kunigaikščiai]]

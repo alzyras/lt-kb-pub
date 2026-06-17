@@ -43,6 +43,7 @@ Nenurodyta
 - t-001
   global_id: t-54737
   teiginys: 'Šubravcų kodeksas smerkė girtavimą ir azartinius žaidimus, o XII straipsnis reikalavo, kad narys kauptų nuosavą biblioteką.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.)|Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.)]]; mentioned_group: [[objektai/grupes/Šubravcų draugija|Šubravcų draugija]]'
   pagrindžia:
     - c-001
 
@@ -50,6 +51,8 @@ Nenurodyta
 - t-002
   global_id: t-54738
   teiginys: 'Šubravcų draugijos kodekse narių elgesio ir veiklos normos griežtai skyrėsi nuo įprastų aukštuomenės normų.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiksliai perteikia citatos faktą.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.)|Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.)]]; mentioned_group: [[objektai/grupes/Šubravcų draugija|Šubravcų draugija]]'
   pagrindžia:
     - c-001
 
@@ -73,11 +76,3 @@ Nenurodyta
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/socialinė-praktika]]
-
-### Susiję objektai
-- [[objektai/ivykiai/Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.)]]
-- [[objektai/grupes/Šubravcų draugija]]

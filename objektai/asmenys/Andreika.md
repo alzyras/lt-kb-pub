@@ -20,6 +20,7 @@ Jogailos pasiuntinys Andreika, atvykęs pas Vytautą prašo nukelti iškilmes i�
 - t-001
   global_id: t-35023
   teiginys: 'Jogailos pasiuntinys Andreika prašė Vytauto nukelti iškilmes į kitą dieną.'
+  sudarymo_pagrindimas: 'Sakinys sutrumpintas ir pašalinta perteklinė aplinkybė, išlaikant citatos faktą.'
   pagrindžia:
     - c-001
 

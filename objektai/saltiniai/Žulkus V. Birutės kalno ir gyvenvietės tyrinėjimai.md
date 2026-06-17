@@ -28,6 +28,8 @@ Dusburgietis teigia, kad 16— Žulkus V.
 - t-001
   global_id: t-61402
   teiginys: 'V. Žulkaus „Birutės kalno ir gyvenvietės tyrinėjimai“ paskelbta leidinyje „Archeologiniai tyrinėjimai Lietuvoje 1982 ir 1983 metais“.'
+  sudarymo_pagrindimas: 'Citata remia šaltinio pavadinimą ir publikavimo leidinį.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Birutė|Birutė]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

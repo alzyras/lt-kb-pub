@@ -22,6 +22,8 @@ tags:
 - t-001
   global_id: t-95934
   teiginys: 'Kazimiero laikų dokumente valstietis dėl kaimo mokesčių sakė nebeatsimenantis Algirdo, bet atsimenantis Vytautą.'
+  sudarymo_pagrindimas: 'Pirminė citata nutrūkusi, bet šaltinis palaiko aiškų faktą apie posakio vartojimą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Kaimas'
   pagrindžia:
     - c-001
 
@@ -46,7 +48,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]

@@ -5,9 +5,10 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
+  - '1941 m.'
   - '1943 m.'
   - '2026 m.'
-date_start: '1943'
+date_start: '1941'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
@@ -22,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-Lietuvos laisvės armija buvo slapta karinė organizacija, įkurta Kazio Veverskio iniciatyva 1941 m. Vilniuje. Kazimieras Kontrimas-Tėvas 1943 m. įstojo į Lietuvos laisvės armiją ir gavo jaunesniojo leitenanto laipsnį. 1943 m. kovo viduryje gestapas suėmė Lietuvos laisvės armijos grupes.
+LLA Lietuvos laisvės armija. Žemesnio rango jaunesnieji karininkai atsargos leitenanto Kazio Veverskio iniciatyva telkėsi slaptoje karinėje organizacijoje Lietuvos laisvės armija (LLA), įkurtoje 1941 m. Vilniuje. Keršydamas už boikotą gestapas 1943 m. kovo viduryje Lietuvoje suėmė 46 žymius visuomenės veikėjus ir išvežė į Štuthofo koncentracijos stovyklą, uždarė Kauno ir Vilniaus universitetus, mokytojų seminarijas ir kt., suėmė daug pogrindinės spaudos leidėjų ir.
 
 ## Teiginiai
 
@@ -30,6 +31,9 @@ Lietuvos laisvės armija buvo slapta karinė organizacija, įkurta Kazio Veversk
 - t-001
   global_id: t-78376
   teiginys: 'Lietuvos laisvės armija buvo slapta karinė organizacija, įkurta Kazio Veverskio iniciatyva 1941 m. Vilniuje.'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1941 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -37,6 +41,11 @@ Lietuvos laisvės armija buvo slapta karinė organizacija, įkurta Kazio Veversk
 - t-002
   global_id: t-78377
   teiginys: 'Kazimieras Kontrimas-Tėvas 1943 m. įstojo į Lietuvos laisvės armiją ir gavo jaunesniojo leitenanto laipsnį.'
+  sudarymo_pagrindimas: 'Pirminis teiginys daugiausia apie asmens biografiją, todėl paryškintas faktas apie Lietuvos laisvės armiją.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kardas|Kardas]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1943 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pirminis teiginys daugiausia apie asmens biografiją, todėl paryškintas faktas apie Lietuvos laisvės armiją.'
   pagrindžia:
     - c-003
 
@@ -44,9 +53,12 @@ Lietuvos laisvės armija buvo slapta karinė organizacija, įkurta Kazio Veversk
 - t-003
   global_id: t-78378
   teiginys: '1943 m. kovo viduryje gestapas suėmė Lietuvos laisvės armijos grupes.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos laisvės kovos sąjūdis|Lietuvos laisvės kovos sąjūdis]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Kaunas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_place: Vokietija; mentioned_place: Štuthofas'
+  temporaliniai_duomenys: 'įvykio data: 1943 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
-
+- susijęs iš Vilnius: Žemesnio rango jaunesnieji karininkai atsargos leitenanto Kazio Veverskio iniciatyva telkėsi slaptoje karinėje organizacijoje Lietuvos laisvės armija (LLA), įkurtoje 1941 m. Vilniuje.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -98,14 +110,3 @@ Lietuvos laisvės armija buvo slapta karinė organizacija, įkurta Kazio Veversk
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Kardas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Lietuvos laisvės kovos sąjūdis]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/ivykiai/Gestapo represijos už lietuvių mobilizacijos į SS boikotą (1943 m. kovas-birželis)]]
-- [[objektai/grupes/Lietuvos laisvės kovotojų sąjunga]]
-- [[objektai/grupes/Vyriausiasis Lietuvos išlaisvinimo komitetas]]

@@ -18,6 +18,12 @@ Riazanės kunigaikštis Aleksandras, vadinamas Olegu, užstojo Dimitrą ir laida
 - t-001
   global_id: t-186173
   teiginys: 'Riazanės kunigaikštis Aleksandras, vadinamas Olegu, užstojo Dimitrą ir laidavo jam Vytauto palankumą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Sakinys aiškus, gramatiškas ir paremtas citata.'
+  susije_objektai: 'territory: Lietuva; territory: Riazanė; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_place: Lietuva; mentioned_place: Riazanė'
+  semantiniai_rysiai: '[[objektai/asmenys/Aleksandras (Riazanės kunigaikštis, vadinamas Olegu)|Aleksandras (Riazanės kunigaikštis, vadinamas Olegu)]] buvo valdovas Lietuva; [[objektai/asmenys/Aleksandras (Riazanės kunigaikštis, vadinamas Olegu)|Aleksandras (Riazanės kunigaikštis, vadinamas Olegu)]] buvo valdovas Riazanė'
   pagrindžia:
     - c-001
 
@@ -55,5 +61,5 @@ Riazanės kunigaikštis Aleksandras, vadinamas Olegu, užstojo Dimitrą ir laida
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Aleksandras]]
+- Aleksandras (Riazanės kunigaikštis, vadinamas Olegu) buvo_valdovas [[objektai/vietos/Lietuva]]
+- Aleksandras (Riazanės kunigaikštis, vadinamas Olegu) buvo_valdovas [[objektai/vietos/Riazanė]]

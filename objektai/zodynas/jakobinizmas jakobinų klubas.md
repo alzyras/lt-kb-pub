@@ -3,6 +3,10 @@ tipas: zodyno_irasas
 pavadinimas: 'jakobinizmas jakobinų klubas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1792 m.'
+date_start: '1792'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -10,12 +14,14 @@ tags:
   - reforma
   - sukilimas
   - sąvoka
+amziai:
+  - 'XVIII'
 ---
 # jakobinizmas jakobinų klubas
 
 ## Santrauka
 
-Sukilimo valdžiai oponavęs jakobinų klubas rengė manifestacijas, privertusias teismą paskelbti mirties nuosprendžius. Prūsiją gąsdino galimas valstybės sustiprėjimas dėl reformų, o Jekaterina II nerimavo dėl Prancūzijos jakobinizmo prie Rusijos sienų.
+LLV sąjungininkę Prūsiją išgąsdino galimas valstybės sustiprėjimas dėl reformų, o Rusijos imperatorė Jekaterina II nerimavo, kad Prancūzijos jakobinizmo šmėkla jau pasiekė Rusijos sienas. Sukilėliai tarsi kartojo Prancūzijos didžiosios revoliucijos eigą – sumanymas rengti egzekuciją kilo oficialiai sukilimo valdžiai oponavusiame jakobinų klube.
 
 ## Teiginiai
 
@@ -23,6 +29,8 @@ Sukilimo valdžiai oponavęs jakobinų klubas rengė manifestacijas, privertusia
 - t-001
   global_id: t-22171
   teiginys: 'Sukilimo valdžiai oponavęs jakobinų klubas rengė manifestacijas, privertusias teismą paskelbti mirties nuosprendžius.'
+  sudarymo_pagrindimas: 'Pradiniame teiginyje trūksta citatoje svarbaus konteksto, kad kalbama apie sukilimo valdžiai oponavusį klubą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Jakobinų klubas|Jakobinų klubas]]; mentioned_object: [[objektai/zodynas/egzekucija|egzekucija]]; mentioned_place: Prancūzija'
   pagrindžia:
     - c-002
 
@@ -30,6 +38,11 @@ Sukilimo valdžiai oponavęs jakobinų klubas rengė manifestacijas, privertusia
 - t-002
   global_id: t-22172
   teiginys: 'Prūsiją gąsdino galimas valstybės sustiprėjimas dėl reformų, o Jekaterina II nerimavo dėl Prancūzijos jakobinizmo prie Rusijos sienų.'
+  sudarymo_pagrindimas: 'Reikėjo pašalinti nepaaiškintą santrumpą ir suformuluoti aiškesnį enciklopedinį sakinį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_object: [[objektai/zodynas/hetmonas|hetmonas]]; mentioned_object: [[objektai/zodynas/jakobinizmas|jakobinizmas]]; mentioned_object: [[objektai/zodynas/konfederacija|konfederacija]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Jekaterina II|Jekaterina II]]; mentioned_person: [[objektai/asmenys/Juozapas (Konstantinopolio patriarchas)|Juozapas (Konstantinopolio patriarchas)]]; mentioned_person: [[objektai/asmenys/Juozapas Kosakovskis|Juozapas Kosakovskis]]; mentioned_place: Brasta; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Prancūzija; mentioned_place: Prūsija; mentioned_place: Rusija; mentioned_place: Targovica; mentioned_place: Viena; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1792 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikėjo pašalinti nepaaiškintą santrumpą ir suformuluoti aiškesnį enciklopedinį sakinį.'
   pagrindžia:
     - c-001
 
@@ -69,16 +82,3 @@ Sukilimo valdžiai oponavęs jakobinų klubas rengė manifestacijas, privertusia
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Juozapas (Konstantinopolio patriarchas)]]
-- [[objektai/asmenys/Juozapas Kosakovskis|Juozapas Kosakovskis (vyskupas)]]
-- [[objektai/zodynas/egzekucija]]
-- [[objektai/zodynas/etmonas]]
-- [[objektai/zodynas/jakobinizmas]]
-- [[objektai/zodynas/konfederacija]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Jakobinų klubas]]
-- [[objektai/asmenys/Jekaterina II]]
-- [[objektai/asmenys/A. Suvorovas]]

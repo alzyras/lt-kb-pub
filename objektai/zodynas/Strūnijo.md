@@ -27,17 +27,21 @@ Vartojamos formos: `strūnijo ar dailidavo`.
 - t-001
   global_id: t-07660
   teiginys: 'Strūnijo vartojama kalbant apie namų įrengimą, kuriam reikalingus įrankius žmonės patys kalė.'
+  sudarymo_pagrindimas: 'Citata palaiko namų įrengimo ir pačių kaltų įrankių ryšį.'
   pagrindžia:
-    - c-002
     - c-001
+    - c-002
 
 <a id="claim-t-07661"></a>
 - t-002
   global_id: t-07661
   teiginys: 'Strūnijo reiškia statė sau trobesius be svetimo meistro pagalbos.'
+  sudarymo_pagrindimas: 'Citata tiesiogiai sieja žodį su savarankišku trobesių statymu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalnėnai|Kalnėnai]]'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/daiktai/Ūkio įrankiai.md#claim-t-08360|Ūkio įrankiai]]: Įrankius jie patys sau kalė ir gaminosi be svetimo meistro, o šiame sąraše tiesiogiai minimi grąžtai, kaltai, Strūnos, skaptai, skrytulės, kirviai ir skliutai.
+- susijęs iš [[objektai/paprociai/Savarankiškas ūkio ir namų dirbinių gaminimas.md#claim-t-07803|Savarankiškas ūkio ir namų dirbinių gaminimas]]: Senovės lietuviai patys kalė namų statybos ir dailidystės įrankius, nes manė, kad pamatytą daiktą žmogus turi gebėti pasidirbti.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -68,9 +72,3 @@ Vartojamos formos: `strūnijo ar dailidavo`.
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kalnėnai]]
-- [[objektai/paprociai/Savarankiškas ūkio ir namų dirbinių gaminimas]]
-- [[objektai/daiktai/Ūkio įrankiai]]

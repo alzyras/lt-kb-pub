@@ -3,6 +3,10 @@ tipas: ivykis
 pavadinimas: 'Vytauto mirties 500 metų jubiliejaus minėjimas (1930 m.)'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1930 m.'
+date_start: '1930'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -10,6 +14,8 @@ tags:
   - kunigaikštis
   - tauta
   - valdovas
+amziai:
+  - 'XX'
 ---
 # Vytauto mirties 500 metų jubiliejaus minėjimas (1930 m.)
 
@@ -39,6 +45,8 @@ Nenurodyta
 - t-001
   global_id: t-66989
   teiginys: 'Vytauto Didžiojo mirties 500-ųjų metinių komitetas nutarė Kaune pastatyti Vytauto Didžiojo karo muziejų kaip atminimo panteoną.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas, faktinis ir tiesiogiai susijęs su minėjimu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Europa; mentioned_place: Kaunas; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -46,6 +54,9 @@ Nenurodyta
 - t-002
   global_id: t-66990
   teiginys: '1930 m. iškilmingai pažymėtas Vytauto mirties 500 metų jubiliejus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/jubiliejus|jubiliejus]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1930 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-003
 
@@ -53,6 +64,8 @@ Nenurodyta
 - t-003
   global_id: t-66991
   teiginys: 'Vytauto jubiliejiniai renginiai formavo Vytauto Didžiojo kultą ir siejo jį su Antano Smetonos valdoma Lietuvos valstybe.'
+  sudarymo_pagrindimas: 'Reikia pašalinti nutrūkusią pavardę ir suformuluoti pilną sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_place: Kaunas; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -112,16 +125,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/grupes/Žydai]]
-- [[objektai/asmenys/Antanas (vaistininkas)]]
-- [[objektai/zodynas/jubiliejus]]
-- [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
-- [[objektai/paprociai/Vytauto Didžiojo kulto kūrimo ir jubiliejinių apeigų praktika]]
-- [[objektai/daiktai/Vytauto paminklai]]
-- [[objektai/daiktai/Vytauto paveikslas]]

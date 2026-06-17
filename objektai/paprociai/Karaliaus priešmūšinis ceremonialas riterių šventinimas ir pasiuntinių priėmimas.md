@@ -42,6 +42,7 @@ Nenurodyta
 - t-001
   global_id: t-103837
   teiginys: 'Prieš kautynes karalius šventino riterius ir priėmė Ordino pasiuntinius, o mūšio metu buvo saugomas 60 raitelių.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vežimai|Vežimai]]'
   pagrindžia:
     - c-001
 
@@ -49,6 +50,8 @@ Nenurodyta
 - t-002
   global_id: t-103838
   teiginys: 'Pagal Dlugošą, karalius formaliai laikytas vyriausiuoju vadu, šventino riterius ir priėmė Ordino pasiuntinius.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiksliai perteikia citatoje nurodytą Dlugošo informaciją.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vežimai|Vežimai]]; mentioned_person: [[objektai/asmenys/Dlugošas|Dlugošas]]'
   pagrindžia:
     - c-002
 
@@ -82,8 +85,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Dlugošas]]
-- [[objektai/daiktai/Vežimai]]

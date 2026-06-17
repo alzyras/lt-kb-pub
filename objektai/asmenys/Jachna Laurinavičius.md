@@ -15,6 +15,7 @@ tags:
   - karalius
   - miestas
   - ordinas
+  - unija
 amziai:
   - 'XV'
 periodo_grupes:
@@ -32,6 +33,11 @@ Karaliaus pavedimu, kad neofitai įsi­ tvirtintų krikščionių tikėjime, 146
 - t-001
   global_id: t-87598
   teiginys: 'Jachna Laurinavičius Vilniaus vaitų sąraše nurodytas kaip žinomas nuo 1485 m.'
+  sudarymo_pagrindimas: 'Pradiniame teiginyje yra skyrybos ir OCR triukšmo, todėl jį reikia sugramatinti.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: po 1485 m.; įvykio data: 1485 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradiniame teiginyje yra skyrybos ir OCR triukšmo, todėl jį reikia sugramatinti.'
   pagrindžia:
     - c-001
 
@@ -39,9 +45,13 @@ Karaliaus pavedimu, kad neofitai įsi­ tvirtintų krikščionių tikėjime, 146
 - t-002
   global_id: t-87599
   teiginys: 'Jachna Laurinavičius jau 1435 metais buvo Vilniaus vaitas ir 1492 metais dar ėjo šias pareigas.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Jachnos pareigas ir datas, paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/neofitai|neofitai]]; mentioned_object: [[objektai/zodynas/vaitas|vaitas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/asmenys/Kiti priedo I vaitų ir burmistrų sąrašo kandidatai.md#claim-t-87353|Kiti priedo I vaitų ir burmistrų sąrašo kandidatai]]: Jachna Laurinavičius sąraše nurodytas kaip žinomas nuo 1485 m., o tuo metu burmistru buvo Mykolas Laurinavičius.
+- susijęs iš [[objektai/asmenys/Kiti priedo I vaitų ir burmistrų sąrašo kandidatai.md#claim-t-87355|Kiti priedo I vaitų ir burmistrų sąrašo kandidatai]]: Jachna Laurinavičius Vilniaus vaitų ir žymesnių burmistrų sąraše nurodytas kaip žinomas nuo 1485 m.
+- susijęs iš [[objektai/asmenys/Mykolas Laurinavičius.md#claim-t-87922|Mykolas Laurinavičius]]: 1485 m. Mykolas Laurinavičius buvo burmistras.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -94,9 +104,3 @@ Karaliaus pavedimu, kad neofitai įsi­ tvirtintų krikščionių tikėjime, 146
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/neofitai]]
-- [[objektai/zodynas/unija]]
-- [[objektai/zodynas/vaitas]]

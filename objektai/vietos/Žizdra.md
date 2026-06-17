@@ -1,24 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Žizdra'
-variantai:
-  - 'Žizdrą'
-aliases: []
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
 atnaujinta: ''
-laikotarpis: ''
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: ''
 tags:
   - vieta
 ---
@@ -29,18 +15,19 @@ tags:
 Žizdra šiame gabale tikėtina įtraukta į vietovardžių rodyklę.
 
 ## Teiginiai
+
 <a id="claim-t-187420"></a>
 - t-001
   global_id: t-187420
   teiginys: 'Žizdra šiame gabale tikėtina įtraukta į vietovardžių rodyklę.'
+  teiginio_tipas: 'faktas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Vilnius; mentioned_place: Žirmūnai'
   pagrindžia:
     - c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Žizdra šiame gabale tikėtina įtraukta į vietovardžių rodyklę.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     131, 181.
@@ -54,10 +41,8 @@ tags:
     Ziupronys 199, 200
     Žizdrą 293, 314
     Zlžma 234
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

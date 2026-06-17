@@ -54,9 +54,11 @@ Nenurodyta
 - t-001
   global_id: t-13781
   teiginys: 'Iš užsienyje laikyto Lietuvos aukso pasisavintas tik Švedijos ir Šveicarijos bankuose saugotas auksas.'
+  sudarymo_pagrindimas: 'Perrašymas aiškiau susieja faktą su Lietuvos auksu ir pašalina neaiškų fragmentiškumą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Liaudies vyriausybė|Liaudies vyriausybė]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_place: Lietuva; mentioned_place: Sniečkus; mentioned_place: Švedija; mentioned_place: Šveicarija'
   pagrindžia:
     - c-001
-
+- susijęs iš Švedija: Lietuvos auksas buvo pasisavintas tik iš Švedijos ir Šveicarijos bankuose saugotų atsargų.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -83,10 +85,3 @@ Nenurodyta
 ## Šaltiniai ir įrodymai
 
 Nenurodyta
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Antanas (vaistininkas)]]
-- [[objektai/grupes/Liaudies vyriausybė]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/ivykiai/Lietuvos valstybingumo griovimo sprendimai 1940 m. birželį-liepą]]

@@ -48,6 +48,9 @@ Nenurodyta
 - t-001
   global_id: t-31531
   teiginys: 'Nuo Vytauto laikų Lietuvoje buvo kalamos monetos ir liejami pabūklai bei varpai.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Monetos|Monetos]]; mentioned_object: [[objektai/daiktai/Varpai|Varpai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Sūduva'
+  temporaliniai_duomenys: 'įvykio data: 1422 m.; įvykio data: 1435 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -72,15 +75,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
-- [[objektai/daiktai/Varpai]]
-- [[objektai/daiktai/Monetos]]
-- [[objektai/paprociai/Vidaus kolonizacija Sūduvos giriose]]
-- [[objektai/zodynas/lotyniškasis krikštas|lotyniškasis krikštas (krikštas)]]
-- [[objektai/zodynas/misijų teorija]]
-- [[objektai/zodynas/vidaus kolonizacija]]

@@ -22,6 +22,8 @@ Balandžio 24 d. Vilniuje, Kovos Viln Rotušės aikštėje, buvo paskelbtas 2328
 - t-001
   global_id: t-42101
   teiginys: 'Balandžio 24 d. Vilniaus Rotušės aikštėje buvo paskelbtas 2328 sukilėlių pasirašytas sukilimo aktas ir sudaryta Lietuvos Tautinė aukščiausia taryba.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie įvykį Vilniaus Rotušės aikštėje.'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

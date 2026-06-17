@@ -28,9 +28,13 @@ Dusburgietis teigia, kad apie Henriko, Liuksemburgo grafo, išrinkimą Romos kar
 - t-001
   global_id: t-59045
   teiginys: 'Vokietijos valdovai elektoriai lapkričio 25 d. vieningai išrinko Liuksemburgo grafą Henriką Romos karaliumi.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/elektoriai|elektoriai]]; mentioned_place: Vokietija'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Henrikas VII.md#claim-t-59979|Henrikas VII]]: Šv. Kotrynos dieną Vokietijos valdovai elektoriai vieningai išrinko Henriką VII Romos karaliumi.
+- susijęs iš [[objektai/ivykiai/Henriko Liuksemburgiečio išrinkimas Romos karaliumi (1308 m. lapkričio 25 d.).md#claim-t-62281|Henriko Liuksemburgiečio išrinkimas Romos karaliumi (1308 m. lapkričio 25 d.)]]: 1308 m. lapkričio 25 d. Vokietijos elektoriai vieningai išrinko Henriką Liuksemburgietį Romos karaliumi.
+- susijęs iš [[objektai/zodynas/elektoriai.md#claim-t-58900|elektoriai]]: Vokietijos valdovai elektoriai šventos Kotrynos dieną vieningai išrinko Henriką, Liuksemburgo grafą, Romos karaliumi.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -47,9 +51,3 @@ Dusburgietis teigia, kad apie Henriko, Liuksemburgo grafo, išrinkimą Romos kar
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/elektoriai]]
-- [[objektai/asmenys/Henrikas VII]]
-- [[objektai/ivykiai/Henriko Liuksemburgiečio išrinkimas Romos karaliumi (1308 m. lapkričio 25 d.)]]

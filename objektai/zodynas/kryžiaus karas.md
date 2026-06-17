@@ -4,9 +4,10 @@ pavadinimas: 'kryžiaus karas'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
+  - '1253 m.'
   - '1254 m.'
   - '1261 m.'
-date_start: '1254'
+date_start: '1253'
 date_end: '1261'
 sukurta: ''
 atnaujinta: ''
@@ -53,6 +54,11 @@ Terminas vartojamas tiek kalbant apie konkretų skelbimą ginti ordiną nuo toto
 - t-001
   global_id: t-05440
   teiginys: '1254 m. pradžioje buvo skelbiamas kryžiaus karas ordinui ginti prieš totorius.'
+  sudarymo_pagrindimas: 'Teiginys glaustai perteikia citatoje nurodytą kryžiaus karo skelbimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]'
+  temporaliniai_duomenys: 'įvykio data: 1253 m.; įvykio data: apie 1253 m.; įvykio data: 1254 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
+  temporalinis_llm_pakomentavimas: 'Teiginys glaustai perteikia citatoje nurodytą kryžiaus karo skelbimą.'
   pagrindžia:
     - c-001
 
@@ -60,6 +66,7 @@ Terminas vartojamas tiek kalbant apie konkretų skelbimą ginti ordiną nuo toto
 - t-002
   global_id: t-05441
   teiginys: 'Kryžiaus karo žygio vadovavimas šiame šaltinyje siejamas su Prūsų riterių magistru.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Durbė; mentioned_place: Lietuva; mentioned_place: Pabaltijys; mentioned_place: Prūsai; mentioned_place: Čekija'
   pagrindžia:
     - c-002
 
@@ -67,6 +74,8 @@ Terminas vartojamas tiek kalbant apie konkretų skelbimą ginti ordiną nuo toto
 - t-003
   global_id: t-05442
   teiginys: 'Popiežiaus Aleksandro IV bulėmis įsakyta intensyviau skelbti kryžiaus karus prieš pagonis.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiesiogiai paremtas Aleksandro IV bulių apibūdinimu.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]'
   pagrindžia:
     - c-003
     - c-004
@@ -75,9 +84,14 @@ Terminas vartojamas tiek kalbant apie konkretų skelbimą ginti ordiną nuo toto
 - t-004
   global_id: t-184356
   teiginys: 'Popiežiaus Aleksandro IV bulėmis buvo įsakyta intensyviau skelbti kryžiaus karus prieš pagonis.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys aiškiai ir gramatiškai perteikia citatos faktą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_place: Viena'
   pagrindžia:
     - c-005
-
+- susijęs iš [[objektai/ivykiai/Saulės mūšis (1236 m. rugsėjo 22 d.).md#claim-t-66880|Saulės mūšis (1236 m. rugsėjo 22 d.)]]: Prieš Saulės mūšį 1236 m. kalavijuočiai su svečiais įsiveržė į Lietuvą ir žiauriai nusiaubė kraštą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -153,21 +167,3 @@ Terminas vartojamas tiek kalbant apie konkretų skelbimą ginti ordiną nuo toto
   statusas: verified
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/karinis-terminas]]
-- [[temos/religinis-terminas]]
-
-### Susiję objektai
-- [[objektai/daiktai/Karūna]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/daiktai/Kryžius]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/netikėliai]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/ivykiai/Saulės mūšis (1236 m. rugsėjo 22 d.)]]

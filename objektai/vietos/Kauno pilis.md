@@ -6,6 +6,8 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1252 m.'
+  - '1361 m.'
+  - '1362 m.'
   - '2026 m.'
 date_start: '1252'
 date_end: '2026'
@@ -32,6 +34,11 @@ Iš Kęstučio laikotarpio jis rašė dar apie Kauno pilies išgriovimą 1362 m.
 - t-001
   global_id: t-79423
   teiginys: 'Šležas rašė apie Kauno pilies išgriovimą 1362 m.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir pagrįstas citata apie Kauno pilies išgriovimą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/monografija|monografija]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Butautas|Butautas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Kaunas; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1362 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir pagrįstas citata apie Kauno pilies išgriovimą.'
   pagrindžia:
     - c-003
 
@@ -39,6 +46,11 @@ Iš Kęstučio laikotarpio jis rašė dar apie Kauno pilies išgriovimą 1362 m.
 - t-002
   global_id: t-79424
   teiginys: 'Pirmoji Kauno pilis kronikose paminėta 1361 m. ir pastatyta Nemuno ir Neries santakoje.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Kauno pilies paminėjimą ir vietą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/stabmeldžiai|stabmeldžiai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Kaunas; mentioned_place: Nemunas'
+  temporaliniai_duomenys: 'pastatymo data: 1361 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie Kauno pilies paminėjimą ir vietą.'
   pagrindžia:
     - c-001
 
@@ -46,6 +58,8 @@ Iš Kęstučio laikotarpio jis rašė dar apie Kauno pilies išgriovimą 1362 m.
 - t-003
   global_id: t-79425
   teiginys: 'Ordino ir talkininkų kariuomenė Nemunu laivais pasiekė Kauną ir po kovo 13-osios apgulė Kauno pilį.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nusako kariuomenės veiksmus ir Kauno pilies apgulą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Kaunas; mentioned_place: Nemunas; mentioned_place: Veliuona'
   pagrindžia:
     - c-002
 
@@ -53,9 +67,16 @@ Iš Kęstučio laikotarpio jis rašė dar apie Kauno pilies išgriovimą 1362 m.
 - t-004
   global_id: t-79426
   teiginys: 'Kauno pilį puolė kryžiuočių pajėgos, Livonijos ordino daliniai ir kryžininkai iš Anglijos, Italijos bei Vokietijos.'
+  sudarymo_pagrindimas: 'Teiginys yra konkretus ir tiesiogiai paremtas citata apie Kauno pilį puolusias pajėgas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/kryžininkai|kryžininkai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Italija; mentioned_place: Kaunas; mentioned_place: Livonija; mentioned_place: Nemunas; mentioned_place: Veliuona; mentioned_place: Vokietija'
   pagrindžia:
     - c-004
-
+- susijęs iš Kaunas: Valdant Gediminui ar Algirdui Kauno pilis priklausė mūro pilių sistemai aplink Lietuvos valstybės branduolį.
+- susijęs iš [[objektai/ivykiai/Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.).md#claim-t-185489|Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.)]]: Gediminas nestojo į atvirą kovą, kai kryžiuočiai užėmė Jurbarko ir Kauno pilis, o Livonijos kryžiuočiai atėmė Kuršą.
+- susijęs iš Gardinas: Vasarą maršalo pajėgos žygiavo Gardino link ir bandė pereiti Nemuną brasta, bet buvo sustabdytos.
+- susijęs iš Kaunas: Pirmoji Kauno pilis kronikose paminėta 1361 m. ir pastatyta Nemuno ir Neries santakoje.
+- susijęs iš Kaunas: Valdant Gediminui ar Algirdui Kauno pilis priklausė mūro pilių sistemai aplink Lietuvos valstybės branduolį.
+- susijęs iš Įsrutis: Maršalas organizavo žygį iš Įsruties į Kauną ir, anot šaltinyje cituojamos frazės, „atnešė stabmeldžiams visokių nelaimių“.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -144,3 +165,6 @@ Iš Kęstučio laikotarpio jis rašė dar apie Kauno pilies išgriovimą 1362 m.
   statusas: verified
   pagrindžia:
     - t-004
+
+## Ryšiai
+- [[objektai/vietos/Kaunas]] priklause Kauno pilis (pilis)

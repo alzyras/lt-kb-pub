@@ -3,6 +3,12 @@ tipas: paprotys
 pavadinimas: 'Fundacijos privilegijos pateikimas ir įrašymas į teismo aktų knygas'
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+datos:
+  - '1426 m.'
+  - '1649 m.'
+  - '1785 m.'
+date_start: '1426'
+date_end: '1785'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -10,6 +16,9 @@ tags:
   - kunigas
   - miestas
   - paprotys
+amziai:
+  - 'XV'
+  - 'XVIII'
 ---
 # Fundacijos privilegijos pateikimas ir įrašymas į teismo aktų knygas
 
@@ -43,6 +52,11 @@ Nenurodyta
 - t-001
   global_id: t-87162
   teiginys: '1785 m. kovo 14 d. Laurynas Ozechovskis pateikė Pabaisko fundacijos privilegijos originalą įtraukti į LDK Vyriausiojo Tribunolo aktų knygas.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas fundacijos privilegijos pateikimo aprašymu.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/fundacija|fundacija]]; mentioned_object: [[objektai/zodynas/globėjas|globėjas]]; mentioned_object: [[objektai/zodynas/klebonija|klebonija]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_object: [[objektai/zodynas/pavietas|pavietas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/tribunolas|tribunolas]]; mentioned_person: [[objektai/asmenys/Rusdorfas|Rusdorfas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Mozyrius; mentioned_place: Ukmergė; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1426 m.; įvykio data: 1785 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir paremtas fundacijos privilegijos pateikimo aprašymu.'
   pagrindžia:
     - c-002
 
@@ -50,6 +64,11 @@ Nenurodyta
 - t-002
   global_id: t-87163
   teiginys: '1649 m. gruodžio 29 d. Jonas Kazimieras Pinkevičius pateikė Pabaisko klebonijos fundacijos privilegiją įrašyti į teismo aktų knygas.'
+  sudarymo_pagrindimas: 'Pirminis teiginys yra dokumento fragmentas, bet citata remia aiškų faktą apie privilegijos įrašymą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/fundacija|fundacija]]; mentioned_object: [[objektai/zodynas/globėjas|globėjas]]; mentioned_object: [[objektai/zodynas/klebonija|klebonija]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_object: [[objektai/zodynas/pavietas|pavietas]]; mentioned_object: [[objektai/zodynas/tribunolas|tribunolas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas Kazimieras|Jonas Kazimieras]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Smolenskas; mentioned_place: Ukmergė; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1649 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pirminis teiginys yra dokumento fragmentas, bet citata remia aiškų faktą apie privilegijos įrašymą.'
   pagrindžia:
     - c-001
 
@@ -57,6 +76,11 @@ Nenurodyta
 - t-003
   global_id: t-183823
   teiginys: 'LDK Vyriausiasis Tribunolas priėmė fundacijos privilegiją ir pavedė ją žodis žodin įrašyti į viešųjų reikalų knygas.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata tiesiogiai nurodo, kad teismas priėmė dokumentą ir pavedė jį įrašyti į viešąsias knygas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_object: [[objektai/zodynas/fundacija|fundacija]]; mentioned_object: [[objektai/zodynas/globėjas|globėjas]]; mentioned_object: [[objektai/zodynas/klebonija|klebonija]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_object: [[objektai/zodynas/pavietas|pavietas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/tribunolas|tribunolas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Mozyrius; mentioned_place: Ukmergė; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 
@@ -201,21 +225,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Jonas]]
-- [[objektai/grupes/Lotynai]]
-- [[objektai/asmenys/Rusdorfas]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/zodynas/fundacija]]
-- [[objektai/zodynas/globėjas]]
-- [[objektai/zodynas/klebonija]]
-- [[objektai/zodynas/kunigas]]
-- [[objektai/zodynas/luomas]]
-- [[objektai/zodynas/pavietas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/tribunolas]]
-- [[objektai/asmenys/Žygimantas]]
-- [[objektai/asmenys/Jonas Kazimieras]]
-- [[objektai/zodynas/lotyniškos teismo ir dokumentų formulės]]

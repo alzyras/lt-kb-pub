@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Hospitaljerai užėmė turkų gyvenamą Rodo salą ir dar penkias salas.
+Dusburgietis teigia, kad apie tai, kaip hospitaljerai užėmė Rodo salą Tais pačiais metais hospitaljerai užėmė Rodo salą, kurioje gyveno turkai, ir 5 kitas salas (Mart. p. 442).
 
 ## Teiginiai
 
@@ -20,6 +20,7 @@ Hospitaljerai užėmė turkų gyvenamą Rodo salą ir dar penkias salas.
 - t-001
   global_id: t-58717
   teiginys: 'Hospitaljerai užėmė turkų gyvenamą Rodo salą ir dar penkias salas.'
+  sudarymo_pagrindimas: 'Pašalinta neaiški laiko nuoroda „tais pačiais metais“.'
   pagrindžia:
     - c-001
 

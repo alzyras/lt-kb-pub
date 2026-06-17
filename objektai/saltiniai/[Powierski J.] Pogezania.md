@@ -26,6 +26,11 @@ Dusburgietis teigia, kad [Powierski J.] Pogezania.— SSS, Wrocław—Warszawa�
 - t-001
   global_id: t-61251
   teiginys: 'J. Powierskio straipsnis „Pogezania“ publikuotas SSS 1970 m. 4 tomo 1 dalyje.'
+  sudarymo_pagrindimas: 'Citata pateikia bibliografinę informaciją apie straipsnį.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
+  temporaliniai_duomenys: 'įvykio data: 1970 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pateikia bibliografinę informaciją apie straipsnį.'
   pagrindžia:
     - c-001
 

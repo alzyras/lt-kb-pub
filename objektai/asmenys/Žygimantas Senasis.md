@@ -5,26 +5,22 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos:
-  - '1514 m.'
-  - '1544 m.'
-date_start: '1514'
-date_end: '1544'
+datos: []
+date_start: ''
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
-amziai:
-  - 'XVI'
-periodo_grupes:
-  - 'LDK'
+amziai: []
+periodo_grupes: []
 ---
 # Žygimantas Senasis
 
 ## Santrauka
 
-Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis turėjo stoti prieš dvasinį teismą. 1514 m. Žygimantas Senasis rašė Varmės kanauninkui Andriui Kopernikui. Žygimantas Senasis atidavė Vilniui savo šaltinį už Subačiaus vartų, kad miestas būtų aprūpintas vandeniu.
+sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žygimantui Senajam 1519 m. vedus Milano kunigaikštytę Boną Sforcą (Bona Sforza).
 
 ## Teiginiai
 
@@ -32,6 +28,7 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
 - t-001
   global_id: t-173307
   teiginys: 'Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis turėjo stoti prieš dvasinį teismą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_person: [[objektai/asmenys/Abraomas Kulvietis|Abraomas Kulvietis]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]'
   pagrindžia:
     - c-001
 
@@ -39,6 +36,9 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
 - t-002
   global_id: t-173308
   teiginys: '1514 m. Žygimantas Senasis rašė Varmės kanauninkui Andriui Kopernikui.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.)|Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.)]]; mentioned_person: [[objektai/asmenys/Fabianas (Varmės vyskupas)|Fabianas (Varmės vyskupas)]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lenkija; mentioned_place: Varmė; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1514 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-021
 
@@ -46,6 +46,7 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
 - t-003
   global_id: t-173309
   teiginys: 'Žygimantas Senasis atidavė Vilniui savo šaltinį už Subačiaus vartų, kad miestas būtų aprūpintas vandeniu.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vamzdžiai|Vamzdžiai]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Subačius; mentioned_place: Vilnius'
   pagrindžia:
     - c-004
 
@@ -53,6 +54,8 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
 - t-004
   global_id: t-173310
   teiginys: 'Žygimantas Senasis perėmė Lietuvos valdymą ir siekė įvesti tvarką.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus ir tiesiogiai pagrįstas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-008
 
@@ -60,6 +63,9 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
 - t-005
   global_id: t-173311
   teiginys: '1522 m. Žygimantas Senasis įsakė miesto sargybą ir policiją sugrąžinti Vilniaus magistratui.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Krokuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1522 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-018
 
@@ -67,6 +73,7 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
 - t-006
   global_id: t-173313
   teiginys: 'Žygimantas Senasis pavedė Ulrikui Hozijui savo lėšomis pastatyti tiltą per Viliją prie Vilniaus.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Druska|Druska]]; mentioned_object: [[objektai/daiktai/Statinės|Statinės]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lenkija; mentioned_place: Vilija; mentioned_place: Vilnius'
   pagrindžia:
     - c-030
 
@@ -74,6 +81,9 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
 - t-007
   global_id: t-173314
   teiginys: '1543 m. Žygimantas Senasis leido Vilniaus vyskupui Povilui ir jo įpėdiniams steigti mėsos prekyvietes.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/bursa|bursa]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Valerijono bursos; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1543 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-025
 
@@ -81,6 +91,11 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
 - t-008
   global_id: t-173315
   teiginys: '1532 m. Žygimantas Senasis rašte Vilniaus vaitui įspėjo netaikyti Vilniaus miestiečiams jokios prievartos.'
+  sudarymo_pagrindimas: 'Dokumento antraštė ir data palaiko konkretų teiginį apie Žygimanto raštą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/vaitas|vaitas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1532 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Dokumento antraštė ir data palaiko konkretų teiginį apie Žygimanto raštą.'
   pagrindžia:
     - c-003
 
@@ -88,6 +103,8 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
 - t-009
   global_id: t-173316
   teiginys: 'Žygimantas Senasis baudė miesto valdininkus už valdžios ribų peržengimą ir tramdė bajorų piktnaudžiavimą Vilniuje.'
+  sudarymo_pagrindimas: 'Citata palaiko faktą, bet teiginyje yra OCR triukšmo.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Vilniaus gyventojai|Vilniaus gyventojai]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-019
 
@@ -95,6 +112,11 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
 - t-010
   global_id: t-173317
   teiginys: '1542 m. Žygimantas Senasis suteikė Vilniaus vyskupui privilegiją prieš eretikus.'
+  sudarymo_pagrindimas: 'Citatos antraštė patvirtina privilegijos davėją, adresatą, temą ir metus.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_object: [[objektai/zodynas/supremus dux ir magnus dux|supremus dux ir magnus dux]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1542 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citatos antraštė patvirtina privilegijos davėją, adresatą, temą ir metus.'
   pagrindžia:
     - c-014
 
@@ -102,6 +124,9 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
 - t-011
   global_id: t-173318
   teiginys: '1542 m. Žygimantas Senasis davė Vilniaus vyskupui privilegiją prieš eretikus.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_object: [[objektai/zodynas/supremus dux ir magnus dux|supremus dux ir magnus dux]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1542 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-026
 
@@ -109,6 +134,8 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
 - t-012
   global_id: t-173319
   teiginys: 'Žygimantas Senasis dokumente vadintas Lenkijos karaliumi ir didžiuoju Lietuvos, Rusios, Prūsijos, Mazovijos bei Žemaitijos kunigaikščiu.'
+  sudarymo_pagrindimas: 'Citata pateikia titulą dokumento savivardos forma, todėl reikia šaltinio pobūdžio atribucijos.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lenkija; mentioned_place: Mazovija'
   pagrindžia:
     - c-011
 
@@ -116,6 +143,9 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
 - t-013
   global_id: t-173320
   teiginys: '1536 m. rugpjūčio 6 d. Žygimantas Senasis suteikė privilegiją rinkti muitą už perėjimą tiltu per Viliją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_object: [[objektai/posakiai/Viešpaties vardu Amen|Viešpaties vardu Amen]]; mentioned_object: [[objektai/zodynas/kaštelionas|kaštelionas]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Naugardukas; mentioned_place: Vilija; mentioned_place: Vilnius; mentioned_place: Vitebskas'
+  temporaliniai_duomenys: 'įvykio data: 1536 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-024
 
@@ -123,6 +153,8 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
 - t-014
   global_id: t-173321
   teiginys: 'Žygimantui Senajam atvykus į Vilnių, šalis buvo apsaugota nuo jai grėsusio pilietinio karo.'
+  sudarymo_pagrindimas: 'Citata palaiko faktą, bet teiginyje yra OCR triukšmo ir perteklinio konteksto.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-009
 
@@ -130,6 +162,11 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
 - t-015
   global_id: t-173322
   teiginys: '1507 m. Melnike Žygimantas Senasis patvirtino 1388 m. Vytauto privilegiją Trakų žydams.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas dokumento antrašte bei tekstu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Luckas; mentioned_place: Melnikas; mentioned_place: Trakai; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1388 m.; įvykio data: 1507 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir paremtas dokumento antrašte bei tekstu.'
   pagrindžia:
     - c-012
 
@@ -137,6 +174,11 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
 - t-017
   global_id: t-173324
   teiginys: '1522 m. Žygimantas Senasis įsakė grąžinti Vilniaus miesto sargybą ir policiją magistratui.'
+  sudarymo_pagrindimas: 'Citata palaiko faktą, bet teiginį reikia sutrumpinti ir išvalyti.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Patrankos|Patrankos]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Krokuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1522 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko faktą, bet teiginį reikia sutrumpinti ir išvalyti.'
   pagrindžia:
     - c-007
 
@@ -144,6 +186,11 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
 - t-018
   global_id: t-173325
   teiginys: '1544 m. Brastos seime Žygimantas Senasis dar prieš mirtį atidavė sūnui Lietuvos valdžią.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai perteikia citatoje nurodytą įvykį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/statutas|statutas]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Tame (Baigos brolis)|Tame (Baigos brolis)]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Brasta; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1544 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai perteikia citatoje nurodytą įvykį.'
   pagrindžia:
     - c-013
 
@@ -151,6 +198,8 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
 - t-019
   global_id: t-173326
   teiginys: 'Žygimanto Senojo valdymo metu Vilniuje atsirado reikšmingi statiniai, skirti miesto gerovei ir ištekliams didinti.'
+  sudarymo_pagrindimas: 'Citata tiesiogiai sieja reikšmingus Vilniaus statinius su Žygimanto Senojo valdymu.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Pilininkas|Pilininkas]]; mentioned_object: [[objektai/zodynas/fundacija|fundacija]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -158,6 +207,7 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
 - t-020
   global_id: t-173327
   teiginys: 'Žygimantas Senasis suteikė Vilniaus vyskupui Povilui pasaulietinės valdžios įgaliojimus bažnytinėms cenzūroms vykdyti.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_object: [[objektai/zodynas/instigatorius|instigatorius]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-028
 
@@ -165,6 +215,11 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
 - t-021
   global_id: t-173328
   teiginys: '1544 m. Brastos seime Žygimantas Senasis dar prieš mirtį perdavė Lietuvos valdžią sūnui Žygimantui Augustui.'
+  sudarymo_pagrindimas: 'Citata palaiko faktą apie Žygimanto Senojo veiksmą, o pradinė formuluotė labiau apie deputatus.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/statutas|statutas]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Tame (Baigos brolis)|Tame (Baigos brolis)]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Brasta; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1544 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko faktą apie Žygimanto Senojo veiksmą, o pradinė formuluotė labiau apie deputatus.'
   pagrindžia:
     - c-013
 
@@ -172,6 +227,11 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
 - t-022
   global_id: t-173329
   teiginys: '1514 m. raštas Varmės kanauninkui Andriui Kopernikui buvo siejamas su Lenkijos karaliumi Žygimantu Senuoju.'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo pernelyg silpnas ir neįvardijo Žygimanto Senojo aiškiai.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.)|Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.)]]; mentioned_object: [[objektai/zodynas/kaštelionas|kaštelionas]]; mentioned_object: [[objektai/zodynas/maršalka|maršalka]]; mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Gniezno; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Varmė; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1514 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys buvo pernelyg silpnas ir neįvardijo Žygimanto Senojo aiškiai.'
   pagrindžia:
     - c-023
 
@@ -179,6 +239,8 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
 - t-023
   global_id: t-173330
   teiginys: 'Žygimantas Senasis perėmė Lietuvos valdymą ir, anot autoriaus, tvirtai siekė įvesti tvarką.'
+  sudarymo_pagrindimas: 'Citata patvirtina valdymo perėmimą ir siekį įvesti tvarką.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-008
 
@@ -186,6 +248,7 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
 - t-024
   global_id: t-173331
   teiginys: 'Žygimantui Senajam, kaip broliui ir įpėdiniui, buvo patikėta kunigaikštienės Elenos teisių globa.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_object: [[objektai/zodynas/tėvonija|tėvonija]]; mentioned_object: [[objektai/zodynas/įpėdinis|įpėdinis]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Silezija'
   pagrindžia:
     - c-017
 
@@ -193,6 +256,11 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
 - t-025
   global_id: t-173332
   teiginys: '1536 m. rugsėjo 9 d. Vilniuje Žygimantas Senasis įsakė paskelbti naujus miesto įstatymus.'
+  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatos faktą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1536 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia citatos faktą.'
   pagrindžia:
     - c-027
 
@@ -200,6 +268,9 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
 - t-026
   global_id: t-173333
   teiginys: 'Žygimantas Senasis 1519 m. vedė Milano kunigaikštytę Boną Sforcą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/reformacija|reformacija]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Milanas'
+  temporaliniai_duomenys: 'įvykio data: 1519 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-020
 
@@ -207,6 +278,8 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
 - t-028
   global_id: t-173335
   teiginys: 'Žygimantas Senasis rėmė mokslus ir Vilniaus pilyje saugojo knygas lotynų, lenkų, rusų ir čekų kalbomis.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-005
 
@@ -214,6 +287,9 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
 - t-029
   global_id: t-173336
   teiginys: 'Žygimantas Senasis patvirtino sąjungą su Krymu, nes naujasis LDK valdovas turėjo daug reikalų.'
+  sudarymo_pagrindimas: 'Perrašyta glaudžiau ir pašalinta šnekamoji formuluotė.'
+  susije_objektai: 'territory: Kazanė; territory: Krymas; territory: Lietuva; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Kazanė; mentioned_place: Krymas; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Žygimantas Senasis|Žygimantas Senasis]] buvo valdovas Kazanė; [[objektai/asmenys/Žygimantas Senasis|Žygimantas Senasis]] buvo valdovas Krymas; [[objektai/asmenys/Žygimantas Senasis|Žygimantas Senasis]] buvo valdovas Lietuva'
   pagrindžia:
     - c-010
 
@@ -221,6 +297,11 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
 - t-030
   global_id: t-173337
   teiginys: '1538 m. balandžio 6 d. Žygimantas Senasis rašė Vilniaus magistratui dėl vyskupo nesikišimo į miesto jurisdikcijos tarnų teises.'
+  sudarymo_pagrindimas: 'Citatos antraštė patvirtina rašto datą, adresatą ir temą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_object: [[objektai/zodynas/jurisdikcija|jurisdikcija]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_object: [[objektai/zodynas/supremus dux ir magnus dux|supremus dux ir magnus dux]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1538 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citatos antraštė patvirtina rašto datą, adresatą ir temą.'
   pagrindžia:
     - c-006
 
@@ -228,6 +309,9 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
 - t-031
   global_id: t-173338
   teiginys: '1515 m. Žygimantas Senasis leido Ulrikui Hozijui savo lėšomis statyti malūną prie Vilniaus.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_object: [[objektai/zodynas/Pilininkas|Pilininkas]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1515 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-022
 
@@ -235,6 +319,8 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
 - t-032
   global_id: t-173339
   teiginys: 'Žygimantas Senasis, Glogovo kunigaikštis ir mirusio karaliaus brolis, atvyko į Vilnių ir padėjo išvengti pilietinio karo.'
+  susije_objektai: 'location: Vilnius; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Žygimantas Senasis|Žygimantas Senasis]] keliavo į Vilnius'
   pagrindžia:
     - c-009
 
@@ -242,9 +328,44 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
 - t-033
   global_id: t-173340
   teiginys: 'Vilniaus vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kad Abraomas Kulvietis stotų prieš dvasinį teismą.'
+  sudarymo_pagrindimas: 'Citata palaiko konkretesnį Žygimanto Senojo veiksmą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/diecezija|diecezija]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_person: [[objektai/asmenys/Abraomas|Abraomas]]; mentioned_person: [[objektai/asmenys/Abraomas Kulvietis|Abraomas Kulvietis]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Alšėnai; mentioned_place: Vilnius'
   pagrindžia:
     - c-029
-
+- susijęs iš [[objektai/asmenys/Andrejus Tyckis.md#claim-t-87621|Andrejus Tyckis]]: Žygimantas Senasis rašė Vilniaus miestiečiui Andrejui Tyckiui dėl Smolensko muito ir smuklių arendavimo.
+- susijęs iš [[objektai/asmenys/Bona.md#claim-t-87467|Bona]]: Karalienė Bona paprastai gyvendavo viename iš dviejų mažesnių namų prie Merkio.
+- susijęs iš [[objektai/asmenys/Mahometas Aminas.md#claim-t-40324|Mahometas Aminas]]: Kazanės chanas Mahometas Aminas laiške siūlė Lietuvai sąjungą prieš Maskvą.
+- susijęs iš [[objektai/daiktai/Karaliaus Žygimanto Senojo knygos Vilniaus pilyje.md#claim-t-87080|Karaliaus Žygimanto Senojo knygos Vilniaus pilyje]]: Karalius Žygimantas Senasis Vilniaus pilyje saugojo sukauptas knygas lotynų, lenkų, rusų ir čekų kalbomis.
+- susijęs iš [[objektai/ivykiai/Žygimanto Senojo ir Bonos Sforcos vedybos.md#claim-t-20595|Žygimanto Senojo ir Bonos Sforcos vedybos]]: Žygimantas Senasis 1519 m. vedė Milano kunigaikštytę Boną Sforcą.
+- susijęs iš [[objektai/ivykiai/Žygimanto Senojo pavedimas Ulrikui Hozijui pastatyti tiltą per Viliją prie Vilniaus.md#claim-t-86972|Žygimanto Senojo pavedimas Ulrikui Hozijui pastatyti tiltą per Viliją prie Vilniaus]]: Žygimantas Senasis pavedė Ulrikui Hozijui savo lėšomis pastatyti tvirtą tiltą per Viliją prie Vilniaus.
+- susijęs iš [[objektai/ivykiai/Žygimanto Senojo privilegijos dėl Vilijos tilto muito ir Švč. Trejybės prieglaudos suteikimas (1536 m. rugpjūčio 6 d.).md#claim-t-86879|Žygimanto Senojo privilegijos dėl Vilijos tilto muito ir Švč. Trejybės prieglaudos suteikimas (1536 m. rugpjūčio 6 d.)]]: Žygimantas Senasis paskyrė Joną Hozijų rinkti Vilijos tilto muitą po Ulriko Hozijaus ir pripažino jo pastangas taisant tiltą.
+- susijęs iš [[objektai/ivykiai/Žygimanto Senojo privilegijos dėl Vilijos tilto muito ir Švč. Trejybės prieglaudos suteikimas (1536 m. rugpjūčio 6 d.).md#claim-t-86883|Žygimanto Senojo privilegijos dėl Vilijos tilto muito ir Švč. Trejybės prieglaudos suteikimas (1536 m. rugpjūčio 6 d.)]]: Žygimantas Senasis visiems laikams paskyrė Vilijos tilto mokestį Švč. Trejybės prieglaudai ir joje gyvenantiems vargšams.
+- susijęs iš [[objektai/ivykiai/Žygimanto Senojo sprendimas Vilniaus miesto ir kapitulos jurisdikcijos ginče (1533 m. liepos 26 d.).md#claim-t-86888|Žygimanto Senojo sprendimas Vilniaus miesto ir kapitulos jurisdikcijos ginče (1533 m. liepos 26 d.)]]: Žygimantas Senasis nusprendė, kad Vilniaus katedros kapitula gali naudotis jurisdikcija ir ekskomunikacijos teise savo asmenų bei valdinių bylose.
+- susijęs iš [[objektai/paprociai/Patrankų vardų ir lotyniškų įrašų suteikimas.md#claim-t-87301|Patrankų vardų ir lotyniškų įrašų suteikimas]]: Vertingiausios patrankos turėjo vardus, o ant kiekvieno pabūklo paprastai būdavo dvi lotyniškos eilutės apie jo žygdarbius.
+- susijęs iš [[objektai/paprociai/Vilniaus magistrato mišri taryba ir metinė pajamų ataskaita.md#claim-t-87307|Vilniaus magistrato mišri taryba ir metinė pajamų ataskaita]]: 1536 m. Žygimantas Senasis nustatė, kad Vilniaus magistratą sudarytų po lygiai katalikų ir stačiatikių burmistrai bei tarybos nariai.
+- susijęs iš [[objektai/paprociai/Vilniaus vandens tiekimo kanalais miesto reikmėms tvarka.md#claim-t-87310|Vilniaus vandens tiekimo kanalais miesto reikmėms tvarka]]: Žygimantas Senasis Vilniaus vandens tiekimui skyrė savo šaltinį už Subačiaus vartų ir leido vandenį vamzdžiais išvedžioti po namus.
+- susijęs iš 1536 m. Žygimanto Senojo Vilniaus miesto įstatymai: 1536 m. rugsėjo 9 d. Žygimantas Senasis Vilniuje įsakė paskelbti naujus miesto įstatymus, pritarus karalienei Bonai.
+- susijęs iš 1542 m. Žygimanto Senojo privilegija prieš eretikus Vilniaus vyskupui: 1542 m. Žygimantas Senasis davė Vilniaus vyskupui privilegiją prieš eretikus, saugotą Vilniaus kapitulos rankraščiuose.
+- susijęs iš Pirmasis Lietuvos Statutas: Skelbdamas Pirmąjį Lietuvos Statutą, Žygimantas Senasis Vilniaus miestiečiams taikė Magdeburgo teisės bylinėjimosi laisvės principą.
+- susijęs iš Trakų žydų privilegija (1388 m.; patvirtinta 1507 m.): 1388 m. Vytautas suteikė privilegiją Trakų žydams, o 1507 m. Žygimantas Senasis ją patvirtino Melnyke.
+- susijęs iš Žygimanto Senojo laiškas Andriui Kopernikui dėl Varmės kapitulos (1514 m. gegužės 6 d.): Žygimantas Senasis 1514 m. rašte Varmės kanauninkui Andriui Kopernikui aptarė Varmės vyskupo rinkimo tvarką.
+- susijęs iš Žygimanto Senojo privilegija dėl Vilijos tilto muito Ulrikui Hozijui ir Švenčiausiosios Trejybės prieglaudai (1536 m. rugpjūčio 6 d.): Žygimantas Senasis paskyrė Vilijos tilto mokestį Švenčiausiosios Trejybės prieglaudai ir joje gyvenantiems vargšams.
+- susijęs iš Žygimanto Senojo privilegija dėl Vilijos tilto muito Ulrikui Hozijui ir Švenčiausiosios Trejybės prieglaudai (1536 m. rugpjūčio 6 d.): Žygimantas Senasis uždraudė naudoti plaustus per Viliją tarp Verkių ir Panerių, kad nebūtų pakenkta nustatytam tilto muitui.
+- susijęs iš Žygimanto Senojo privilegija dėl Vilijos tilto muito Ulrikui Hozijui ir Švenčiausiosios Trejybės prieglaudai (1536 m. rugpjūčio 6 d.): Žygimantas Senasis pavedė Ulrikui Hozijui savo lėšomis pastatyti tvirtą tiltą per Viliją prie Vilniaus.
+- susijęs iš Žygimanto Senojo privilegija dėl Vilijos tilto muito Ulrikui Hozijui ir Švenčiausiosios Trejybės prieglaudai (1536 m. rugpjūčio 6 d.): Žygimantas Senasis prieglaudos administracijos globą ir vadovavimą patikėjo Vilniaus vyskupui ir Vilniaus kapitulai.
+- susijęs iš Karališkasis malūnas Vilniuje: 1515 m. Žygimantas Senasis leido Ulrikui Hošui savo lėšomis statyti Karališkąjį malūną ir iki gyvos galvos imti trečią grūdą.
+- susijęs iš Lenkijos karalystė: Žygimantas Senasis dokumente tituluojamas išrinktu Lenkijos Karalystės karaliumi.
+- susijęs iš Merkys: Prie Merkio ant nedidelės aukštumėlės stovėjo du mažesni namai, kuriuose gyvendavo Žygimantas Senasis ir karalienė Bona.
+- susijęs iš Merkys: Prie Merkio, ant nedidelės aukštumėlės, stovėjo du mažesni, veikiausiai dviejų aukštų namai.
+- susijęs iš Neris Vilija (sujungti pirminiai pavadinimai Neris; Vilija; Neris Vilija; Vilijos upė): 1536 m. Žygimantas Senasis suteikė Ulrikui Hozijui teisę pastatyti tiltą per Viliją vietoj nepatogios perkėlos.
+- susijęs iš Trakai: 1388 m. Lucke Vytautas suteikė privilegiją Trakų žydams, o 1507 m. Melnike ją patvirtino Žygimantas Senasis.
+- susijęs iš Trakai: 1388 m. Lucke Aleksandras Vytautas suteikė privilegiją Trakų žydams, o Žygimantas Senasis ją patvirtino 1507 m. Melnikuose.
+- susijęs iš Ulriko Hozijaus tiltas per Viliją: 1536 metais Žygimantas Senasis Ulrikui Hozijui suteikė teisę pastatyti tiltą per Viliją vietoje nepatogios perkėlos.
+- susijęs iš Vilija: Žygimantas Senasis suteikė Ulrikui Hozijui teisę pastatyti tiltą per Viliją vietoje nepatogios perkėlos.
+- susijęs iš Vilniaus tiltas per Viliją (sujungti pirminiai pavadinimai Ulriko Hozijaus tiltas per Viliją; Vilniaus tiltas per Viliją): 1536 m. Žygimantas Senasis Ulrikui Hozijui suteikė teisę pastatyti tiltą per Viliją vietoje nepatogios perkėlos.
+- susijęs iš Vilnius: 1535 m. Žygimantas Senasis Vilniuje apžiūrėjo versmę, kad nustatytų, ar ji trykšta karaliaus žemėje.
+- susijęs iš Vilnius: Dėl netvarkos Vilniaus administracijoje Žygimantas Senasis įvedė naują ir griežtą miesto tvarką.
+- susijęs iš [[objektai/zodynas/miesto magistrato pareigybės.md#claim-t-86484|miesto magistrato pareigybės]]: 1536 m. rugsėjo 9 d. Žygimantas Senasis Vilniuje įsakė paskelbti naujus miesto įstatymus dėl magistrato tvarkos.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -1019,61 +1140,8 @@ Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis tu
     - t-034
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/Žygimanto Senojo ir Bonos Sforcos vedybos]]
-- [[objektai/daiktai/Antspaudas]]
-- [[objektai/grupes/Bajorai]]
-- [[objektai/daiktai/Druska]]
-- [[objektai/daiktai/Ginklai]]
-- [[objektai/ivykiai/Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.)]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Lotynai]]
-- [[objektai/daiktai/Malūnas]]
-- [[objektai/daiktai/Patrankos]]
-- [[objektai/zodynas/Pilininkas]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/grupes/Stačiatikiai]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/daiktai/Vamzdžiai]]
-- [[objektai/posakiai/Viešpaties vardu Amen]]
-- [[objektai/grupes/Vilniaus gyventojai]]
-- [[objektai/zodynas/bursa]]
-- [[objektai/zodynas/chanas]]
-- [[objektai/zodynas/diecezija]]
-- [[objektai/zodynas/fundacija]]
-- [[objektai/zodynas/instigatorius]]
-- [[objektai/zodynas/jurisdikcija]]
-- [[objektai/zodynas/kapitula]]
-- [[objektai/zodynas/kaštelionas]]
-- [[objektai/zodynas/kunigas]]
-- [[objektai/zodynas/luomas]]
-- [[objektai/zodynas/maršalka]]
-- [[objektai/zodynas/Miera|miera]]
-- [[objektai/zodynas/ponai]]
-- [[objektai/zodynas/reformacija]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/zodynas/seniūnas]]
-- [[objektai/zodynas/statutas]]
-- [[objektai/zodynas/supremus dux ir magnus dux]]
-- [[objektai/zodynas/tėvonija]]
-- [[objektai/zodynas/vaivada]]
-- [[objektai/zodynas/vietininkas]]
-- [[objektai/grupes/Čekai]]
-- [[objektai/zodynas/įpėdinis]]
-- [[objektai/asmenys/Žygimantas]]
-- [[objektai/asmenys/Mahometas Aminas]]
-- [[objektai/paprociai/Patrankų vardų ir lotyniškų įrašų suteikimas]]
-- [[objektai/zodynas/vaitas]]
-- [[objektai/grupes/Žydai]]
-- [[objektai/daiktai/Karaliaus Žygimanto Senojo knygos Vilniaus pilyje]]
-- [[objektai/paprociai/Vilniaus magistrato mišri taryba ir metinė pajamų ataskaita]]
-- [[objektai/paprociai/Vilniaus vandens tiekimo kanalais miesto reikmėms tvarka]]
-- [[objektai/zodynas/miesto magistrato pareigybės]]
-- [[objektai/ivykiai/Žygimanto Senojo pavedimas Ulrikui Hozijui pastatyti tiltą per Viliją prie Vilniaus]]
-- [[objektai/ivykiai/Žygimanto Senojo privilegijos dėl Vilijos tilto muito ir Švč. Trejybės prieglaudos suteikimas (1536 m. rugpjūčio 6 d.)]]
-- [[objektai/ivykiai/Žygimanto Senojo sprendimas Vilniaus miesto ir kapitulos jurisdikcijos ginče (1533 m. liepos 26 d.)]]
-- [[objektai/grupes/Varmės kapitula]]
-- [[objektai/grupes/Vilniaus magistratas]]
-- [[objektai/daiktai/Vilniaus vandentiekio vamzdžiai ir kanalai]]
-- [[objektai/zodynas/miesto sargyba ir policija]]
-- [[objektai/zodynas/trečias grūdas]]
+- Žygimantas Senasis buvo_valdovas [[objektai/vietos/Kazanė]]
+- Žygimantas Senasis buvo_valdovas [[objektai/vietos/Krymas]]
+- Žygimantas Senasis buvo_valdovas [[objektai/vietos/Lietuva]]
+- Žygimantas Senasis buvo_valdovas [[objektai/vietos/Vilnius]]
+- Žygimantas Senasis keliavo_i [[objektai/vietos/Vilnius]]

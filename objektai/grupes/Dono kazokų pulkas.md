@@ -3,10 +3,17 @@ tipas: grupe
 pavadinimas: 'Dono kazokų pulkas'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+datos:
+  - '1792 m.'
+  - '1794 m.'
+date_start: '1792'
+date_end: '1794'
 sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+amziai:
+  - 'XVIII'
 ---
 # Dono kazokų pulkas
 
@@ -20,6 +27,11 @@ Vilniuje buvusią rusų įgulą sudarė: Narvos muškietininkų pulko vienas bat
 - t-001
   global_id: t-78166
   teiginys: '1794 m. balandžio 23 d. lietuviams puolant Vilnių, Dono kazokų pulkas buvo rusų įgulos dalis.'
+  sudarymo_pagrindimas: 'Citata pagrindžia Dono kazokų pulko buvimą Vilniaus rusų įguloje.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/zodynas/muškietininkai|muškietininkai]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_place: Donas; mentioned_place: Narva; mentioned_place: Pskovas; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1794 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia Dono kazokų pulko buvimą Vilniaus rusų įguloje.'
   pagrindžia:
     - c-001
 
@@ -75,15 +87,3 @@ Vilniuje buvusią rusų įgulą sudarė: Narvos muškietininkų pulko vienas bat
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Artilerija]]
-- [[objektai/grupes/Kazokai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/zodynas/muškietininkai]]
-- [[objektai/zodynas/įgula]]
-- [[objektai/daiktai/Šautuvai]]
-- [[objektai/grupes/Narvos muškietininkų pulkas]]
-- [[objektai/grupes/Pskovo muškietininkų pulkas]]

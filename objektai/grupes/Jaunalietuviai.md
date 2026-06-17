@@ -20,9 +20,11 @@ sandūroje pradėjo oponuoti „jaunalietuviai“, po poros dešimtmečių sukū
 - t-001
   global_id: t-19718
   teiginys: 'Jaunalietuviai XIX–XX a. sandūroje pradėjo oponuoti senalietuviams ir po poros dešimtmečių sukūrė Lietuvos Respubliką.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir atitinka citatos turinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/istorinė Lietuva|istorinė Lietuva]]; mentioned_person: [[objektai/asmenys/Adomas (auksakalys)|Adomas (auksakalys)]]; mentioned_person: [[objektai/asmenys/Adomas Mickevičius|Adomas Mickevičius]]; mentioned_person: [[objektai/autoriai/Mickevičius|Mickevičius]]; mentioned_person: [[objektai/asmenys/Česlovas Milošas|Česlovas Milošas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/grupes/Senalietuviai.md#claim-t-20006|Senalietuviai]]: Senalietuviams priskiriamai tradicijai XIX–XX a. sandūroje pradėjo oponuoti jaunalietuviai.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -39,17 +41,3 @@ sandūroje pradėjo oponuoti „jaunalietuviai“, po poros dešimtmečių sukū
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/asmenys/Adomas (auksakalys)]]
-- [[objektai/asmenys/Adomas Mickevičius|Adomas Mickevičius (poetas)]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/autoriai/Mickevičius]]
-- [[objektai/zodynas/istorinė Lietuva]]
-- [[objektai/asmenys/Česlovas Milošas]]
-- [[objektai/grupes/Senalietuviai]]
-- [[objektai/asmenys/Czesław Miłosz]]
-- [[objektai/grupes/Lietuvos Respublika]]
-- [[objektai/zodynas/senalietuviai jaunalietuviai]]

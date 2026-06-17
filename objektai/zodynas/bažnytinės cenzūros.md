@@ -22,6 +22,8 @@ O [vaitas ir tarėjai] nesi­ laikydami įstatymų pasisavina iš bažnyčios va
 - t-001
   global_id: t-86516
   teiginys: 'Vilniaus vyskupo Motiejaus raštu Vilniaus kapitulai suteikta jurisdikcija ir leidimas taikyti bažnytines cenzūras.'
+  sudarymo_pagrindimas: 'Teiginys yra užbaigtas faktinis sakinys ir atitinka citatos turinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus kapitula|Vilniaus kapitula]]; mentioned_object: [[objektai/zodynas/jurisdikcija|jurisdikcija]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_object: [[objektai/zodynas/prelatai ir kanauninkai|prelatai ir kanauninkai]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -62,14 +64,3 @@ O [vaitas ir tarėjai] nesi­ laikydami įstatymų pasisavina iš bažnyčios va
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/socialinė-praktika]]
-
-### Susiję objektai
-- [[objektai/grupes/Vilniaus kapitula]]
-- [[objektai/zodynas/jurisdikcija]]
-- [[objektai/zodynas/kapitula]]
-- [[objektai/zodynas/prelatai ir kanauninkai]]
-- [[objektai/ivykiai/Žygimanto Senojo sprendimas Vilniaus miesto ir kapitulos jurisdikcijos ginče (1533 m. liepos 26 d.)]]

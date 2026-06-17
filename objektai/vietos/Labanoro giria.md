@@ -4,9 +4,10 @@ pavadinimas: 'Labanoro giria'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
+  - '1949 m.'
   - '1951 m.'
-date_start: '1951'
-date_end: ''
+date_start: '1949'
+date_end: '1951'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -26,6 +27,11 @@ Labanoro giri- (e) 4 = Maišiagala eliškės i > S oe t; sk k ‘ KAUNAS Nunsiš
 - t-001
   global_id: t-41847
   teiginys: '1951 m. kovo 19 d. Labanoro girioje MGB vidaus kariuomenės 137-ojo šaulių pulko kareiviai puolė dvi partizanų žemines.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai susieja Labanoro girią su partizanų žeminių puolimu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Prisikėlimo apygarda|Prisikėlimo apygarda]]; mentioned_group: [[objektai/grupes/Vytauto apygarda|Vytauto apygarda]]; mentioned_object: [[objektai/zodynas/Kariauna|Kariauna]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Giedraičiai; mentioned_place: Kaunas; mentioned_place: Labanoras; mentioned_place: Lietuva; mentioned_place: Maišiagala; mentioned_place: Pagaigalė; mentioned_place: Smilgiai; mentioned_place: Švenčionėliai; mentioned_place: Žiežmariai'
+  temporaliniai_duomenys: 'įvykio data: 1949 m.; įvykio data: 1951 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai susieja Labanoro girią su partizanų žeminių puolimu.'
   pagrindžia:
     - c-001
 

@@ -22,9 +22,13 @@ Dusburgietis teigia, kad paskui ši kariuomenė nužygiavo prie kitų dviejų pi
 - t-001
   global_id: t-58707
   teiginys: 'Kariuomenė užgrobė Naklo pilį ir dar dvi pilis, paėmė į nelaisvę arba išžudė jų žmones ir pilis sudegino.'
+  sudarymo_pagrindimas: 'Teiginys per ilgas ir turi perteklinę autorystės formulę.'
+  susije_objektai: 'mentioned_place: Viena'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Kazimieras (Kujavijos kunigaikštis).md#claim-t-63808|Kazimieras (Kujavijos kunigaikštis)]]: Lenkijos kunigaikštis Kazimieras buvo pakviestas žygiuoti su kariuomene prieš Sventopelką.
+- susijęs iš [[objektai/asmenys/Kazimieras (Kujavijos kunigaikštis).md#claim-t-63808|Kazimieras (Kujavijos kunigaikštis)]]: Lenkijos kunigaikštis Kazimieras buvo pakviestas žygiuoti su kariuomene prieš Sventopelką.
+- susijęs iš [[objektai/ivykiai/Naklo pilies pasidavimas ir Pomeranijos žemės apiplėšimas.md#claim-t-62883|Naklo pilies pasidavimas ir Pomeranijos žemės apiplėšimas (pilis, XIII a.)]]: Kariuomenė prie Naklo pilies įsirengė stovyklą ir apsiausties įtaisus, todėl pilėnai atidavė pilį broliams su sąlyga išeiti gyvi su manta.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -43,3 +47,6 @@ Dusburgietis teigia, kad paskui ši kariuomenė nužygiavo prie kitų dviejų pi
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+- [[objektai/asmenys/Kazimieras (Kujavijos kunigaikštis)]] buvo_valdovas Naklas

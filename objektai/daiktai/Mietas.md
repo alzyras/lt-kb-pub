@@ -10,6 +10,7 @@ tags:
   - ginklas
   - kraštas
   - miestas
+  - pilis
 ---
 # Mietas
 
@@ -43,9 +44,13 @@ Nenurodyta
 - t-001
   global_id: t-80693
   teiginys: 'Totoriai nukirto žuvusio raštininko Kopčiaus galvą, pamovė ją ant mieto ir tyčiojosi iš likusių gyvųjų.'
+  sudarymo_pagrindimas: 'Citata palaiko konkretų faktą apie mietą; pradinė formuluotė sumaišyta su nesusijusiu ginklo aprašymu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/daiktai/Parakas|Parakas]]; mentioned_object: [[objektai/zodynas/gurguolė|gurguolė]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_person: [[objektai/asmenys/Kopčius|Kopčius]]'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Kopčius.md#claim-t-80736|Kopčius]]: Totoriai nukirto žuvusio raštininko Kopčiaus galvą, pamovė ją ant mieto ir tyčiojosi iš likusių gyvųjų.
+- susijęs iš [[objektai/daiktai/Kablinis šautuvas.md#claim-t-183685|Kablinis šautuvas]]: Kablinio šautuvo parako užtaisas per specialią angą būdavo uždegamas smilkstančiu virbu arba dagtimi.
+- susijęs iš [[objektai/daiktai/Vąšas.md#claim-t-08352|Vąšas]]: Virš ugnavietės kabėjęs ąžuolo ramentas buvo vadinamas vąšu.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -69,13 +74,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Kopčius]]
-- [[objektai/daiktai/Parakas]]
-- [[objektai/zodynas/gurguolė]]
-- [[objektai/zodynas/Miera|miera]]
-- [[objektai/daiktai/Kablinis šautuvas]]
-- [[objektai/daiktai/Vąšas]]
-- [[objektai/grupes/Totoriai]]

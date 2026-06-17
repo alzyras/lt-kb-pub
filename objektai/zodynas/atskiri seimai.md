@@ -14,21 +14,22 @@ tags:
 
 ## Santrauka
 
-Po Zigmanto Augusto ir vėlesnių karalių mirties atskiri Lietuvos seimai savarankiškai spręsdavo, ką rinkti valdovu.
+Ypač dažnai būdavo šaukiami atskiri Lietuvos seimai, einant karui su Maskva (mat, jis nelietė Lenkijos). Taip antai, po Zigmanto Augusto ir po vėlesniųjų karalių mirties visada susirinkdavo atskiri Lietuvos seimai ir atskirai spręsdavo, ką rinkti.
 
 ## Teiginiai
+
 <a id="claim-t-02955"></a>
 - t-001
   global_id: t-02955
   teiginys: 'Po Zigmanto Augusto ir vėlesnių karalių mirties atskiri Lietuvos seimai savarankiškai spręsdavo, ką rinkti valdovu.'
+  sudarymo_pagrindimas: 'Pašalintas perteklinis pasakojamasis įvadas, išlaikant citatos faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Atskiri Lietuvos seimai|Atskiri Lietuvos seimai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Lietuva; mentioned_place: Maskva'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Po Zigmanto Augusto ir vėlesnių karalių mirties atskiri Lietuvos seimai savarankiškai spręsdavo, ką rinkti valdovu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Taip antai, po Zigmanto
@@ -41,18 +42,8 @@ Po Zigmanto Augusto ir vėlesnių karalių mirties atskiri Lietuvos seimai savar
     sušaukti ir vėliau, kai Lietuvą užpuldavo koks priešas (pav.,
     1654—5 m., ją užpuolus Maskvai su Švedais), bet pagaliau jie
     visiškai išnyko.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Atskiri Lietuvos seimai]]
-- [[objektai/asmenys/Augustas]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]

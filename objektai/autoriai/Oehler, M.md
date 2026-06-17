@@ -3,10 +3,15 @@ tipas: autorius
 pavadinimas: 'Oehler, M'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+datos: []
+date_start: ''
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
+amziai: []
+periodo_grupes: []
 ---
 # Oehler, M
 
@@ -20,6 +25,9 @@ Oehler, M.
 - t-001
   global_id: t-30889
   teiginys: 'M. Oehleris 1910 m. Elbinge paskelbė veikalą apie 1409-1411 m. karą tarp vokiečių ir Lenkijos-Lietuvos.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Elbingas'
+  temporaliniai_duomenys: 'įvykio data: 1409-1411; įvykio data: 1411 m.; įvykio data: 1910 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -39,7 +47,3 @@ Oehler, M.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Vokiečiai]]

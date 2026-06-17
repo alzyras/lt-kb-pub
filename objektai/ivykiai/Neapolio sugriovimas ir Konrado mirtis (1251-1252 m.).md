@@ -45,6 +45,12 @@ Nenurodyta
 - t-001
   global_id: t-62412
   teiginys: '1251 m. Konradas, imperatoriaus Fridricho II sūnus, užpuolė Apuliją ir Neapolį, o kitais metais mirė nunuodytas.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pradinis teiginys kopijuoja antraštę ir yra gramatiškai netvarkingas.'
+  susije_objektai: 'mentioned_place: Apulija; mentioned_place: Jeruzalė; mentioned_place: Neapolis'
+  temporaliniai_duomenys: 'įvykio data: 1251 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys kopijuoja antraštę ir yra gramatiškai netvarkingas.'
   pagrindžia:
     - c-001
 
@@ -65,8 +71,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Fridrichas II]]
-- [[objektai/asmenys/Konradas (Fridricho II sūnus)]]

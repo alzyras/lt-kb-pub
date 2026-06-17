@@ -27,6 +27,11 @@ amziai:
 - t-001
   global_id: t-41115
   teiginys: '1949 m. rugpjūčio 13 d. Užpelkių miške buvo sunaikintas Prisikėlimo apygardos štabas.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Prisikėlimo apygardos štabo sunaikinimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos laisvės kovos sąjūdis|Lietuvos laisvės kovos sąjūdis]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Juozas Paliūnas-Rytas|Juozas Paliūnas-Rytas]]; mentioned_person: [[objektai/autoriai/Maironis|Maironis]]; mentioned_person: [[objektai/asmenys/Petras Bartkus-Žadgaila|Petras Bartkus-Žadgaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Užpelkiai'
+  temporaliniai_duomenys: 'įvykio data: 1949 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie Prisikėlimo apygardos štabo sunaikinimą.'
   pagrindžia:
     - c-002
 
@@ -34,6 +39,11 @@ amziai:
 - t-002
   global_id: t-41116
   teiginys: '1948 m. Jungtinė Kęstučio apygarda buvo padalinta į Kęstučio ir Prisikėlimo apygardas.'
+  sudarymo_pagrindimas: 'Teiginys yra tikslus, gramatiškas ir paremtas citatos informacija.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kęstučio apygarda|Kęstučio apygarda]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]'
+  temporaliniai_duomenys: 'įvykio data: 1948 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra tikslus, gramatiškas ir paremtas citatos informacija.'
   pagrindžia:
     - c-004
 
@@ -41,6 +51,11 @@ amziai:
 - t-003
   global_id: t-41117
   teiginys: 'Prisikėlimo apygardoje buvo atkurta P. Lukšio rinktinė, netrukus pervadinta Maironio rinktine.'
+  sudarymo_pagrindimas: 'Teiginys paremtas citata, bet reikia ištaisyti formą „pervadinta į Maironio“ į pilną pavadinimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kęstučio apygarda|Kęstučio apygarda]]; mentioned_group: [[objektai/grupes/Lietuvos laisvės kovos sąjūdis|Lietuvos laisvės kovos sąjūdis]]; mentioned_group: [[objektai/grupes/P. Lukšio rinktinė|P. Lukšio rinktinė]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/autoriai/Maironis|Maironis]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1949 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys paremtas citata, bet reikia ištaisyti formą „pervadinta į Maironio“ į pilną pavadinimą.'
   pagrindžia:
     - c-003
 
@@ -48,9 +63,16 @@ amziai:
 - t-004
   global_id: t-41118
   teiginys: 'Prisikėlimo apygardos partizanė Aleksandra Atgailainytė pasakojo apie KGB-MGB provokaciją.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandra Atgailainytė|Aleksandra Atgailainytė]]; mentioned_place: Raseiniai'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/grupes/Maironio rinktinė.md#claim-t-41084|Maironio rinktinė]]: Prisikėlimo apygardoje atkurta P. Lukšio rinktinė netrukus buvo pervadinta Maironio rinktine.
+- susijęs iš [[objektai/grupes/P. Lukšio rinktinė.md#claim-t-41107|P. Lukšio rinktinė]]: Prisikėlimo apygardoje buvo atkurta P. Lukšio rinktinė, netrukus pervadinta į Maironio rinktinę.
+- susijęs iš [[objektai/grupes/Vytauto apygarda.md#claim-t-41201|Vytauto apygarda]]: 1951 m. kovo 19 d. Pagaigalės kautynėse žuvo 10 Šiaurės Rytų Lietuvos srities ir Vytauto apygardos štabo narių.
+- susijęs iš Kiauneliškio geležinkelio stotis: 1951 m. kovo 19 d. MGB vidaus kariuomenės 137-ojo šaulių pulko kariai puolė partizanų žemines Kiauneliškio geležinkelio stoties apylinkėse.
+- susijęs iš Labanoro giria: 1951 m. kovo 19 d. Labanoro girioje MGB vidaus kariuomenės 137-ojo šaulių pulko kareiviai puolė dvi partizanų žemines.
+- susijęs iš Naručio apylinkės: 1951 m. kovo 19 d. MGB vidaus kariuomenės 137-ojo šaulių pulko kareiviai Naručio apylinkėse puolė dvi partizanų žemines.
+- susijęs iš Pagaigalė: 1951 m. kovo 19 d. MGB 137-ojo šaulių pulko kareiviai Pagaigalės kaimo apylinkėse puolė dvi partizanų žemines.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -125,21 +147,3 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Juozas Paliūnas-Rytas]]
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- [[objektai/grupes/Kęstučio apygarda]]
-- [[objektai/grupes/Lietuvos laisvės kovos sąjūdis]]
-- [[objektai/autoriai/Maironis]]
-- [[objektai/grupes/P. Lukšio rinktinė]]
-- [[objektai/asmenys/Petras Bartkus-Žadgaila]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/grupes/Maironio rinktinė]]
-- [[objektai/grupes/Vytauto apygarda]]
-- [[objektai/asmenys/Aleksandra Atgailainytė]]
-- [[objektai/grupes/Savanorio rinktinė]]
-- [[objektai/ivykiai/Užpelkių kautynės]]
-- [[objektai/ivykiai/Užpelkių kautynės (1949 m.)]]

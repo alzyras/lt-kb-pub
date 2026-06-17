@@ -21,6 +21,8 @@ Tačiau tai sukėlė naują – konfesinio dualizmo (pagonybė į tai negalėjo 
 - t-001
   global_id: t-22196
   teiginys: 'Stačiatikiams netekus civilizacinio pranašumo, LDK politinio ir kultūrinio elito kaita sukėlė konfesinio dualizmo problemą.'
+  sudarymo_pagrindimas: 'Citata pagrindžia glaustesnį ir savarankišką teiginį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -28,6 +30,11 @@ Tačiau tai sukėlė naują – konfesinio dualizmo (pagonybė į tai negalėjo 
 - t-002
   global_id: t-183437
   teiginys: 'Po stačiatikių civilizacinio pranašumo praradimo Lietuvos valstybėje iškilo konfesinio dualizmo problema.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis sakinys buvo kontekstinis ir prasidėjo jungtuku; citata leidžia suformuluoti savarankišką teiginį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -66,9 +73,3 @@ Tačiau tai sukėlė naują – konfesinio dualizmo (pagonybė į tai negalėjo 
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Stačiatikiai]]
-- [[objektai/zodynas/pagonybė]]

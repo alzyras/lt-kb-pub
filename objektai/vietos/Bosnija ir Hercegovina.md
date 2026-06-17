@@ -20,6 +20,8 @@ Apskritai tarptautinėse misijose Irake, Afganistane, Kosove, Bosnijoje ir Herce
 - t-001
   global_id: t-15246
   teiginys: 'Bosnija ir Hercegovina buvo viena iš šalių, kuriose Lietuvos kariai dalyvavo tarptautinėse misijose.'
+  sudarymo_pagrindimas: 'Pradinis teiginys gremėzdiškas ir labiau apie bendrą sąrašą, todėl sutrumpintas iki fakto apie objektą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/NATO|NATO]]; mentioned_place: Gruzija; mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-001
 

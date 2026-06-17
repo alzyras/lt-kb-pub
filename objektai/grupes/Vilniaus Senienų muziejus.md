@@ -51,6 +51,8 @@ Mokslinė ir kultūros institucija.
 - t-001
   global_id: t-55074
   teiginys: 'Vilniaus Senienų muziejus buvo įkurtas Eustachijaus Tiškevičiaus iniciatyva.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Baudžiava|Baudžiava]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras II|Aleksandras II]]; mentioned_person: [[objektai/asmenys/Eustachijus (raštininkas)|Eustachijus (raštininkas)]]; mentioned_place: Krymas; mentioned_place: Rusija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -58,6 +60,8 @@ Mokslinė ir kultūros institucija.
 - t-002
   global_id: t-55075
   teiginys: 'Vilniaus Senienų muziejus apibūdinamas kaip mokslinė institucija, sutelkusi krašto visuomenę.'
+  sudarymo_pagrindimas: 'Teiginys pagrįstai perteikia citatoje pateiktą muziejaus apibūdinimą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Baudžiava|Baudžiava]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras II|Aleksandras II]]; mentioned_person: [[objektai/asmenys/Eustachijus (raštininkas)|Eustachijus (raštininkas)]]; mentioned_place: Krymas; mentioned_place: Rusija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -65,9 +69,24 @@ Mokslinė ir kultūros institucija.
 - t-003
   global_id: t-81727
   teiginys: 'Eustachijaus Tiškevičiaus iniciatyva įkurtas Vilniaus Senienų muziejus sutelkė krašto visuomenę.'
+  sudarymo_pagrindimas: 'Teiginys sujungia citatoje nurodytą įkūrimo iniciatyvą ir muziejaus vaidmenį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Baudžiava|Baudžiava]]; mentioned_person: [[objektai/asmenys/Adomas (auksakalys)|Adomas (auksakalys)]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras II|Aleksandras II]]; mentioned_person: [[objektai/asmenys/Eustachijus (raštininkas)|Eustachijus (raštininkas)]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1857-1858; įvykio data: 1858 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys sujungia citatoje nurodytą įkūrimo iniciatyvą ir muziejaus vaidmenį.'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/asmenys/Aleksandras II.md#claim-t-82167|Aleksandras II]]: Caras Aleksandras II su aplinka rengė baudžiavos panaikinimo projektus Rusijos imperijoje.
+- susijęs iš [[objektai/asmenys/Eustachijus Tiškevičius.md#claim-t-87665|Eustachijus Tiškevičius]]: Eustachijaus Tiškevičiaus iniciatyva buvo įkurtas Vilniaus Senienų muziejus, sutelkęs krašto visuomenę.
+- susijęs iš [[objektai/autoriai/Adomas Honorijus Kirkoras.md#claim-t-54996|Adomas Honorijus Kirkoras]]: Adomas Honorijus Kirkoras 1857–1858 m. leido leidinį „Teki Wileńskie“ („Vilniaus aplankus“).
+- susijęs iš [[objektai/autoriai/Adomas Honorijus Kirkoras.md#claim-t-81882|Adomas Honorijus Kirkoras]]: Adomas Honorijus Kirkoras 1857-1858 m. leido leidinį „Teki Wileńskie“ („Vilniaus aplankus“).
+- susijęs iš [[objektai/ivykiai/Vilniaus Senienų muziejaus įkūrimas.md#claim-t-55133|Vilniaus Senienų muziejaus įkūrimas]]: Eustachijaus Tiškevičiaus iniciatyva buvo įkurtas Vilniaus Senienų muziejus.
+- susijęs iš [[objektai/ivykiai/Vilniaus Senienų muziejaus įkūrimas.md#claim-t-55134|Vilniaus Senienų muziejaus įkūrimas]]: Vilniaus Senienų muziejus buvo mokslinė institucija, sutelkusi krašto visuomenę.
+- susijęs iš [[objektai/ivykiai/Vilniaus Senienų muziejaus įkūrimas.md#claim-t-81829|Vilniaus Senienų muziejaus įkūrimas]]: Eustachijaus Tiškevičiaus iniciatyva buvo įkurtas Vilniaus Senienų muziejus, sutelkęs krašto visuomenę.
+- susijęs iš Kreipimasis į tautiečius: Mikalojus Akelaitis laiške „Kreipimasis į tautiečius“ reikalavo lietuvių liaudžiai suteikti pilietinio ir kultūrinio ugdymo teises.
+- susijęs iš Teki Wileńskie: Adomas Honorijus Kirkoras 1857–1858 m. leido „Teki Wileńskie“.
+- susijęs iš [[objektai/zodynas/Baudžiava.md#claim-t-108576|Baudžiava]]: Caras Aleksandras II ir jo aplinka rengė baudžiavos panaikinimo projektus.
+- susijęs iš [[objektai/zodynas/Baudžiava.md#claim-t-108582|Baudžiava]]: Caras Aleksandras II ir jo aplinka rengė baudžiavos panaikinimo projektus.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -103,14 +122,3 @@ Mokslinė ir kultūros institucija.
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/Adomas Honorijus Kirkoras]]
-- [[objektai/asmenys/Aleksandras]]
-- [[objektai/zodynas/Baudžiava]]
-- [[objektai/ivykiai/Vilniaus Senienų muziejaus įkūrimas]]
-- [[objektai/asmenys/Adomas (auksakalys)]]
-- [[objektai/asmenys/Aleksandras II]]
-- [[objektai/asmenys/Eustachijus (raštininkas)]]
-- [[objektai/asmenys/Eustachijus Tiškevičius]]

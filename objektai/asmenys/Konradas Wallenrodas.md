@@ -21,7 +21,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Konradas Wallenrodas 1391 m. rudeniop suruošė didelį žygį į Lietuvą ir rugsėjo 1 d. prie Kauno Nemuno saloje iškėlė išskirtinę puotą svečiams pilgrimams.
+Konradas Wallenrodas 1391 m. rudeniop suruošė didelį žygį Lietuvon ir rugsėjo 1 d. prie Kauno Nemuno saloje, pagerbdamas gausiai atsilankiusius svečius-pilgrimus, iškėlė tokią didelę puotą, kokios — pagal ordino metraščius — iki tol dar nebuvo buvę.
 
 ## Teiginiai
 
@@ -29,6 +29,11 @@ Konradas Wallenrodas 1391 m. rudeniop suruošė didelį žygį į Lietuvą ir ru
 - t-001
   global_id: t-30334
   teiginys: 'Konradas Wallenrodas 1391 m. rudeniop suruošė didelį žygį į Lietuvą ir rugsėjo 1 d. prie Kauno Nemuno saloje iškėlė išskirtinę puotą svečiams pilgrimams.'
+  sudarymo_pagrindimas: 'Sutrumpinta pernelyg ilga formuluotė, paliekant citatos paremtus faktus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Adomas (auksakalys)|Adomas (auksakalys)]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/autoriai/Mickevičius|Mickevičius]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Trakai; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1391 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Sutrumpinta pernelyg ilga formuluotė, paliekant citatos paremtus faktus.'
   pagrindžia:
     - c-001
 
@@ -52,12 +57,3 @@ Konradas Wallenrodas 1391 m. rudeniop suruošė didelį žygį į Lietuvą ir ru
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/ivykiai/Konrado Wallenrodo žygis į Lietuvą ir Vytauto kontrpuolimas Nemuno ruože (1391 m.)]]

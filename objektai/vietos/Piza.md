@@ -26,6 +26,8 @@ Dusburgietis teigia, kad apie Henriko, imperatoriaus, mirtį Tais pačiais metai
 - t-001
   global_id: t-58710
   teiginys: 'Imperatorius Henrikas mirė Sienos grafystėje per Baltramiejaus dieną ir buvo palaidotas Pizoje.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir tiksliai perteikia citatoje nurodytą faktą.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]'
   pagrindžia:
     - c-001
 

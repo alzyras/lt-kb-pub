@@ -20,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-1997 m. spalį Lietuva ir Rusija pasirašė sutartį dėl valstybinės sienos, išskirtinės ekonominės zonos ir žemyninio šelfo Baltijos jūroje atskyrimo.
+1997 m. spalį pasirašyta Lietuvos ir Rusijos sutartis dėl valstybinės sienos ir dėl išskirtinės ekonominės zonos ir žemyninio šelfo Baltijos jū- 6 skyrius • D A I N U O J A N T I R E V O L I U C I J A 257 roje atskyrimo.
 
 ## Teiginiai
 
@@ -28,6 +28,11 @@ amziai:
 - t-001
   global_id: t-78151
   teiginys: '1997 m. spalį Lietuva ir Rusija pasirašė sutartį dėl valstybinės sienos, išskirtinės ekonominės zonos ir žemyninio šelfo Baltijos jūroje atskyrimo.'
+  sudarymo_pagrindimas: 'Pradinis teiginys per daug sutrumpina sutarties objektą; citata leidžia tiksliau jį nusakyti.'
+  susije_objektai: 'mentioned_place: Baltija; mentioned_place: Lietuva; mentioned_place: Rusija'
+  temporaliniai_duomenys: 'įvykio data: 1997 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys per daug sutrumpina sutarties objektą; citata leidžia tiksliau jį nusakyti.'
   pagrindžia:
     - c-001
 

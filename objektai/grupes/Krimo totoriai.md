@@ -10,10 +10,10 @@ date_start: '1427'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XV'
 tags:
   - grupe
+amziai:
+  - 'XV'
 ---
 # Krimo totoriai
 
@@ -22,15 +22,22 @@ tags:
 Su ja Maskvos kunigaikštystėje prasidėjo vidaus neramumai, kuriais Lietuva tikėjosi pasinaudoti, — juo labiau, kad Zigmantas buvo patraukęs į savo pusę Krimo totorius, apsiėmęs jiems kasmet mokėti po 15.000 dukatų, ir Maskvai nuolat grėsė iš jų pusės pavojus.
 
 ## Teiginiai
+
 <a id="claim-t-92088"></a>
 - t-001
   global_id: t-92088
   teiginys: '1427 m. pabaigoje Vytauto palaikomas Machmetas galutinai įsigalėjo tarp Pavolgio, Juodmarių pakraščio ir Krymo totorių.'
+  sudarymo_pagrindimas: 'Sakinys pataisytas į sklandžią formą ir pašalinta pažodinė fragmento konstrukcija.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Machmetas|Machmetas]]; mentioned_place: Krymas'
+  temporaliniai_duomenys: 'įvykio data: 1427 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Sakinys pataisytas į sklandžią formą ir pašalinta pažodinė fragmento konstrukcija.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
-- c-002
+
+- c-001
   santrauka: '1427 m. pabaigoje Vytauto palaikomas Machmetas galutinai įsigalėjo tarp Pavolgio, Juodmarių pakraščio ir Krymo totorių.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -44,11 +51,3 @@ Su ja Maskvos kunigaikštystėje prasidėjo vidaus neramumai, kuriais Lietuva ti
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Machmetas]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/grupes/Krimo orda]]
-- [[objektai/grupes/Krymo totoriai]]
-- [[objektai/zodynas/saar]]

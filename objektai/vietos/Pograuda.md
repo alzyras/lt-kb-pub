@@ -27,9 +27,14 @@ Nors Pograudos apylinkių gyventojai iš anksto buvo įspėti apie kryžiuočių
 - t-001
   global_id: t-28246
   teiginys: '1311 m. Brandenburgo komtūras su kariais nusiaubė Pograudos apylinkę, žudydamas ir imdamas žmones į nelaisvę.'
+  sudarymo_pagrindimas: 'Pašalintas ilgas citatos fragmentas ir OCR triukšmas, paliktas pagrindinis faktas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]'
+  temporaliniai_duomenys: 'įvykio data: 1311 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas ilgas citatos fragmentas ir OCR triukšmas, paliktas pagrindinis faktas.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/ivykiai/Ordino žygiai į Pograudą ir Šalčininkus (1311 m.).md#claim-t-31462|Ordino žygiai į Pograudą ir Šalčininkus (1311 m.)]]: 1311 m. Brandenburgo komtūras su kariais nusiaubė Pograudos apylinkes, žudė žmones, ėmė belaisvius ir naikino ugnimi bei plėšimais.
 ## Reikšmingi paminėjimai
 
 - c-001

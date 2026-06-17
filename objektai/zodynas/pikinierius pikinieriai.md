@@ -21,6 +21,8 @@ Svetimšalių autoramento „vokiškojo“ tipo pėstininkas-ietininkas (pikinie
 - t-001
   global_id: t-42496
   teiginys: 'Pikinierius buvo svetimšalių autoramento vokiškojo tipo pėstininkas-ietininkas.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys ir remiasi citatoje pateiktu apibrėžimu.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/A. Vijūkas Kojelavičius|A. Vijūkas Kojelavičius]]; mentioned_place: Lojevas'
   pagrindžia:
     - c-001
 
@@ -42,7 +44,3 @@ Svetimšalių autoramento „vokiškojo“ tipo pėstininkas-ietininkas (pikinie
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/A. Vijūkas Kojelavičius]]

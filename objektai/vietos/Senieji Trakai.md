@@ -19,7 +19,7 @@ amziai:
 
 ## Santrauka
 
-Vytautas įkurdino benediktinus Senuosiuose Trakuose, atkeldamas juos iš Mažosios Lenkijos Tynieco. Vytautas įkurdino benediktinus Senuosiuose Trakuose. Vytautas įkurdino benediktinus Senuosiuose Trakuose, atkeldamas juos iš Mažosios Lenkijos Tynieco.
+Senieji Trakai šiame šaltinyje minimi kaip vieta, kur Vytautas įkurdino benediktinus, atkeldintus iš Mažosios Lenkijos Tynieco.
 
 ## Pavadinimai šaltiniuose
 
@@ -58,6 +58,8 @@ Nenurodyta
 - t-001
   global_id: t-71966
   teiginys: 'Vytautas įkurdino benediktinus Senuosiuose Trakuose, atkeldamas juos iš Mažosios Lenkijos Tynieco.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir paremtas citata.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -65,6 +67,7 @@ Nenurodyta
 - t-002
   global_id: t-71967
   teiginys: 'Vytautas įkurdino benediktinus Senuosiuose Trakuose.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Trakai'
   pagrindžia:
     - c-001
 

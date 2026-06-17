@@ -20,6 +20,7 @@ Baniulio, ltn.
 - t-001
   global_id: t-39493
   teiginys: 'Pulko vadas pasigedo leitenanto Baniulio ir kitų 1-ojo bataliono karininkų.'
+  sudarymo_pagrindimas: 'Pradinis tekstas fragmentiškas, citata remia konkretų faktą.'
   pagrindžia:
     - c-001
 

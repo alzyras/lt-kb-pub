@@ -38,6 +38,8 @@ Nenurodyta
 - t-001
   global_id: t-08352
   teiginys: 'Virš ugnavietės kabėjęs ąžuolo ramentas buvo vadinamas vąšu.'
+  teiginio_tipas: 'faktas'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Mietas|Mietas]]'
   pagrindžia:
     - c-001
 
@@ -45,6 +47,8 @@ Nenurodyta
 - t-002
   global_id: t-08353
   teiginys: 'Prie vąšo rišdavo druskos gabalą, kurį gaspadinė galėdavo įleisti į katilą.'
+  teiginio_tipas: 'faktas'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Druska|Druska]]; mentioned_object: [[objektai/daiktai/Katilas|Katilas]]; mentioned_object: [[objektai/zodynas/Gaspadinė|Gaspadinė]]'
   pagrindžia:
     - c-002
 
@@ -80,10 +84,3 @@ Nenurodyta
 ## Pastabos
 
 - terminas tekste yra ir veiksmo/įrankio vardas, ir bendras žodyninis vienetas, bet čia aiškiai aprašo konkretų pakabinimo daiktą.
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Druska]]
-- [[objektai/daiktai/Katilas]]
-- [[objektai/daiktai/Mietas]]
-- [[objektai/zodynas/Gaspadinė|gaspadinė]]

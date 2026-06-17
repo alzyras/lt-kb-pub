@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Simsarna rodyklėje įvardyta kaip upė ir tapatinama su dabartine Symsarna.
+Dusburgietis teigia, kad pasare) Sicilija Sidabro kalnas (netoli Gumbinės) Sidonas Siena Silezija Simsarna (dab.
 
 ## Teiginiai
 
@@ -20,6 +20,8 @@ Simsarna rodyklėje įvardyta kaip upė ir tapatinama su dabartine Symsarna.
 - t-001
   global_id: t-58724
   teiginys: 'Simsarna rodyklėje įvardyta kaip upė ir tapatinama su dabartine Symsarna.'
+  sudarymo_pagrindimas: 'Rodyklės įrašas palaiko vietovardžio formą, tipą ir dabartinį atitikmenį.'
+  susije_objektai: 'mentioned_place: Silezija; mentioned_place: Sirija; mentioned_place: Sizditė'
   pagrindžia:
     - c-001
 

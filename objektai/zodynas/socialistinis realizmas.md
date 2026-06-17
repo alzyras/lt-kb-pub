@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Brežnevinėje epochoje menininkai vis dažniau atsiribodavo nuo socialistinio realizmo ir vengė derinti meną su politika bei propaganda.
+Naujomis sąlygomis menininkai vis dažniau atsiribodavo nuo socialistinio realizmo, pagal galimybę stengėsi nederinti politikos ir propagandos su menu.
 
 ## Teiginiai
 
@@ -20,6 +20,8 @@ Brežnevinėje epochoje menininkai vis dažniau atsiribodavo nuo socialistinio r
 - t-001
   global_id: t-22301
   teiginys: 'Brežnevinėje epochoje menininkai vis dažniau atsiribodavo nuo socialistinio realizmo ir vengė derinti meną su politika bei propaganda.'
+  sudarymo_pagrindimas: 'Pakeista neaiški nuoroda „Naujomis sąlygomis“ ir teiginys sukonkretintas pagal citatą.'
+  susije_objektai: 'mentioned_object: [[objektai/posakiai/„visi lygūs“|„visi lygūs“]]'
   pagrindžia:
     - c-001
 
@@ -42,7 +44,3 @@ Brežnevinėje epochoje menininkai vis dažniau atsiribodavo nuo socialistinio r
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/posakiai/„visi lygūs“]]

@@ -1,24 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Užnerio žemė'
-variantai:
-  - 'Užnerio žemę'
-aliases: []
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
 atnaujinta: ''
-laikotarpis: ''
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: ''
 tags:
   - vieta
 ---
@@ -29,18 +15,21 @@ tags:
 Vytautas apkrikštijo visą Užnerio žemę.
 
 ## Teiginiai
+
 <a id="claim-t-187378"></a>
 - t-001
   global_id: t-187378
-  teiginys: 'Vytautas apkrikštijo visą Užnerio žemę.'
+  teiginys: 'Vytautas, įsteigęs Žemaičių vyskupiją, apkrikštijo visą Užnerio žemę ir, metraščio teigimu, įkūrė daug bažnyčių.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Patikslinta pagal citatą ir atribuuota metraščio papildoma religinė formuluotė.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/stabmeldžiai|stabmeldžiai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Varniai'
   pagrindžia:
     - c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Vytautas apkrikštijo visą Užnerio žemę.'
+  santrauka: 'Vytautas, įsteigęs Žemaičių vyskupiją, apkrikštijo visą Užnerio žemę ir, metraščio teigimu, įkūrė daug bažnyčių.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     Didysis kunigaikštis Vytautas
@@ -61,10 +50,8 @@ Vytautas apkrikštijo visą Užnerio žemę.
     bažnyčiųl0 , todėl Vytautas pramintas antruoju dievo
     apaštalu", kadangi jis pačius atkakliausius stabmel­
     džius atvertė į krikščionių tikėjimą.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

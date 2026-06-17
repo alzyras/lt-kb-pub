@@ -16,17 +16,20 @@ tags:
 Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo vokiškųjų miestų pirklių sąjunga, vadinamoji Hanza.
 
 ## Teiginiai
+
 <a id="claim-t-02923"></a>
 - t-001
   global_id: t-02923
   teiginys: 'Šiaurės ir Baltijos jūrose suaktyvėjo prekyba, o jose įsigalėjo vokiškųjų miestų pirklių sąjunga Hanza.'
+  sudarymo_pagrindimas: 'Teiginį verta sutrumpinti ir pašalinti nuorodinį žodį „čia“.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Hanza|Hanza]]; mentioned_place: Baltija; mentioned_place: Lietuva; mentioned_place: Mažoji Azija'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Šiaurės ir Baltijos jūrose suaktyvėjo prekyba, o jose įsigalėjo vokiškųjų miestų pirklių sąjunga Hanza.'
+  santrauka: 'Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo vokiškųjų miestų pirklių sąjunga, vadinamoji Hanza.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kiek vėliau Mažoji Azija pateko į Turkų valdžią; prekybos cent-
@@ -38,11 +41,9 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
     čia įsigalėjo vokiškųjų miestų pirklių sąjunga, vadinamoji Han-
     za. Nuo to tad laiko (XIII amžiaus) ir Lietuvos prekyba ėmė
     krypti į Baltijos jūrą.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
     - t-002

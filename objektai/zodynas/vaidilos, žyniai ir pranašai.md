@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Šventaragio slėnyje prie medinės šventyklos stovėjo pagonių vaidilų būstai. Lietuvos kronikos ir vietos padavimai katedros varpinę siejo su bokštu, iš kurio Lizdeika skelbdavęs pranašystes. Prie Kreivosios pilies stovėjo apvalus plytų ir akmens bokštas, pro kurio langą žyniai ir pranašai skelbdavo pranašystes žmonėms.
+Čia pat medinė šventykla, prie kurios šliejosi pagonių vaidilų būstai. Šalimais jo apvalus bokštas, iš plytų ir akmens sumūrytas, su langu, pro kurį žyniai ir pranašai skelbdavo savo pranašystes žmonėms3, o visa Kreivosios pi­ lies apsauginė juosta, pirmiausia apsupta aukšta ir tvirta sta­ tinių tvora, paskui Vilnios upės. 3 Dabartinė katedros varpinė, anot Lietuvos kronikininkų ir vietos žmo­ nių padavimų, buvęs tas pats bokš­ tas, iš kurio Lizdeika ir jo pirmtakai iškilmingai pasirodydavę Vilniaus pagonims paskelbti blogos ar geros pranašystės.
 
 ## Teiginiai
 
@@ -29,6 +29,8 @@ amziai:
 - t-001
   global_id: t-86494
   teiginys: 'Šventaragio slėnyje prie medinės šventyklos stovėjo pagonių vaidilų būstai.'
+  sudarymo_pagrindimas: 'Pradinė formuluotė prasideda kontekstiniu „Čia pat“, todėl reikia aiškaus vietos įvardijimo.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Akademijos teatro įranga|Akademijos teatro įranga]]; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_place: Vilija'
   pagrindžia:
     - c-002
 
@@ -36,6 +38,8 @@ amziai:
 - t-002
   global_id: t-86495
   teiginys: 'Lietuvos kronikos ir vietos padavimai katedros varpinę siejo su bokštu, iš kurio Lizdeika skelbdavęs pranašystes.'
+  sudarymo_pagrindimas: 'Perrašyta kaip teiginys apie tradiciją, nes citata pabrėžia įrodymų stoką.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/diecezija|diecezija]]; mentioned_person: [[objektai/asmenys/Lizdeika|Lizdeika]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 
@@ -43,6 +47,8 @@ amziai:
 - t-003
   global_id: t-86496
   teiginys: 'Prie Kreivosios pilies stovėjo apvalus plytų ir akmens bokštas, pro kurio langą žyniai ir pranašai skelbdavo pranašystes žmonėms.'
+  sudarymo_pagrindimas: 'Perrašyta tiksliau pagal citatą, nurodant bokšto medžiagas ir išlaikant faktinį predikatą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_person: [[objektai/asmenys/Vladislovas Jogaila|Vladislovas Jogaila]]; mentioned_place: Lietuva; mentioned_place: Vilija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -127,19 +133,3 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Akademijos teatro įranga]]
-- [[objektai/asmenys/Gediminas]]
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
-- [[objektai/asmenys/Lizdeika]]
-- [[objektai/daiktai/Malūnas]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/asmenys/Vladislovas]]
-- [[objektai/asmenys/Vladislovas Jogaila]]
-- [[objektai/zodynas/diecezija]]
-- [[objektai/zodynas/pagonybė]]
-- [[objektai/asmenys/Šventaragis]]
-- [[objektai/zodynas/amžinoji ugnis Gabija]]
-- [[objektai/zodynas/žiogriai statinių tvoros palisadai]]

@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Pilėnų Kunigaikščio Margio pulko I ir II batalionai išsikrovė Šeštokų geležinkelio stotyje. Rugsėjo 10 d. šarvuotas traukinys „Gediminas“ iš Kauno per Varėną ir Alytų nuvyko į Šeštokus.
+Šie batalionai išsikrovė Šeštokų geležinkelio stotyje ir po žygio ilsėjosi gražioje pievoje. Iš Kauno šarvuotas traukinys nuvyko į Varėną, iš ten per Alytų į Šeštokus.
 
 ## Teiginiai
 
@@ -21,6 +21,8 @@ Pilėnų Kunigaikščio Margio pulko I ir II batalionai išsikrovė Šeštokų g
 - t-001
   global_id: t-42358
   teiginys: 'Pilėnų Kunigaikščio Margio pulko I ir II batalionai išsikrovė Šeštokų geležinkelio stotyje.'
+  sudarymo_pagrindimas: 'Sakinys yra aiškus, gramatiškas ir tiesiogiai paremtas citata apie Šeštokus.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Lazdijai; mentioned_place: Pilėnai'
   pagrindžia:
     - c-002
 
@@ -28,9 +30,12 @@ Pilėnų Kunigaikščio Margio pulko I ir II batalionai išsikrovė Šeštokų g
 - t-002
   global_id: t-42359
   teiginys: 'Rugsėjo 10 d. šarvuotas traukinys „Gediminas“ iš Kauno per Varėną ir Alytų nuvyko į Šeštokus.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys, tiksliai nusakantis traukinio maršrutą į Šeštokus.'
+  susije_objektai: 'location: Alytus; location: Kaunas; location: Smalėnai; location: Suvalkai; location: Varėna; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_place: Alytus; mentioned_place: Kaunas; mentioned_place: Smalėnai; mentioned_place: Suvalkai; mentioned_place: Varėna'
   pagrindžia:
     - c-001
-
+- susijęs iš Varėna: Šarvuotas traukinys „Gediminas“ iš Kauno nuvyko į Varėną, o iš ten per Alytų į Šeštokus.
+- susijęs iš Varėna: Šarvuotas traukinys „Gediminas“ iš Kauno nuvyko į Varėną, o iš ten per Alytų į Šeštokus.
 ## Reikšmingi paminėjimai
 
 - c-001

@@ -18,7 +18,7 @@ amziai:
 
 ## Santrauka
 
-1995 m. pabaigoje dviem dideliems komerciniams bankams paskelbtas moratoriumas pakenkė Lietuvos ekonomikos ir finansų raidai.
+Šalį sukrėtė stambiųjų Lietuvos bankų griūtis, kulminaciją pasiekusi 1995 m. pabaigoje, kai paskelbtas moratoriumas dviem dideliems komerciniams bankams, šalies biudžetas patyrė nemažų nuostolių, nes bankų griūtis tiesiogiai paveikė apie 30 proc..
 
 ## Teiginiai
 
@@ -26,9 +26,14 @@ amziai:
 - t-001
   global_id: t-26337
   teiginys: '1995 m. pabaigoje dviem dideliems komerciniams bankams paskelbtas moratoriumas pakenkė Lietuvos ekonomikos ir finansų raidai.'
+  sudarymo_pagrindimas: 'Perrašyta, kad neliktų neaiškios nuorodos „jų“ ir sakinys būtų glaustesnis.'
+  susije_objektai: 'mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1995 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Perrašyta, kad neliktų neaiškios nuorodos „jų“ ir sakinys būtų glaustesnis.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/ivykiai/Stambiųjų Lietuvos bankų griūtis ir moratoriumas dviem komerciniams bankams (1995 m. pabaiga).md#claim-t-66908|Stambiųjų Lietuvos bankų griūtis ir moratoriumas dviem komerciniams bankams (1995 m. pabaiga)]]: 1995 m. pabaigos bankų krizė sustiprino Lietuvos bankų sektorių, sumažino blogų paskolų portfelį ir sustiprino bankų priežiūrą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -46,7 +51,3 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/Stambiųjų Lietuvos bankų griūtis ir moratoriumas dviem komerciniams bankams (1995 m. pabaiga)]]

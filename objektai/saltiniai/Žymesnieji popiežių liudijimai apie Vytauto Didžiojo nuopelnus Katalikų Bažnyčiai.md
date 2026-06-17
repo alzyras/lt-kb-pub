@@ -7,6 +7,8 @@ datos:
   - '1350 m.'
   - '1430 m.'
   - '1929 m.'
+  - '1955 m.'
+  - '1960 m.'
   - '1962 m.'
 date_start: '1350'
 date_end: '1962'
@@ -31,6 +33,11 @@ amziai:
 - t-001
   global_id: t-32030
   teiginys: '„Žymesnieji popiežių liudijimai apie Vytauto Didžiojo nuopelnus Katalikų Bažnyčiai“ 1929 m. paskelbti TK 7–8 numeryje.'
+  sudarymo_pagrindimas: 'Bibliografinis teiginys tiksliai atitinka citatoje pateiktus leidimo duomenis.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Monetos|Monetos]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1929 m.; įvykio data: 1955-1960; įvykio data: 1960 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Bibliografinis teiginys tiksliai atitinka citatoje pateiktus leidimo duomenis.'
   pagrindžia:
     - c-001
 

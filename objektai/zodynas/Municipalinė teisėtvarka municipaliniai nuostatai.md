@@ -29,6 +29,11 @@ Vėliau, įsitvirtinus feodalizmo nuostatoms bei tvarkai ir že­ mės valdų sa
 - t-001
   global_id: t-86563
   teiginys: 'Kastilijoje municipaliniai nuostatai buvo žinomi jau nuo 1020 m. ir beveik vienu amžiumi aplenkė Prancūzijos miestų teisėtvarką.'
+  sudarymo_pagrindimas: 'Teiginys tiksliai atitinka citatą apie Kastilijos municipalinius nuostatus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Saracėnai|Saracėnai]]; mentioned_object: [[objektai/zodynas/Municipalinė teisėtvarka|Municipalinė teisėtvarka]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_place: Ispanija; mentioned_place: Prancūzija'
+  temporaliniai_duomenys: 'įvykio data: po 1020 m.; įvykio data: 1020 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys tiksliai atitinka citatą apie Kastilijos municipalinius nuostatus.'
   pagrindžia:
     - c-002
 
@@ -36,6 +41,8 @@ Vėliau, įsitvirtinus feodalizmo nuostatoms bei tvarkai ir že­ mės valdų sa
 - t-002
   global_id: t-86564
   teiginys: 'Municipaliniai liudijimai dažniausiai buvo taikos sutartys, kuriose miestai diktuodavo sąlygas nugalėtiems baronams.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citatos formuluote apie municipalinius liudijimus.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Municipalinė teisėtvarka|Municipalinė teisėtvarka]]; mentioned_object: [[objektai/zodynas/feodalizmas|feodalizmas]]; mentioned_object: [[objektai/zodynas/luomai|luomai]]'
   pagrindžia:
     - c-001
 
@@ -83,11 +90,3 @@ Vėliau, įsitvirtinus feodalizmo nuostatoms bei tvarkai ir že­ mės valdų sa
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Municipalinė teisėtvarka]]
-- [[objektai/grupes/Saracėnai]]
-- [[objektai/zodynas/feodalizmas]]
-- [[objektai/zodynas/luomai]]
-- [[objektai/zodynas/ponai]]

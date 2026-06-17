@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Ditrichas iš Gruningeno kartu su Hartmanu iš Heldrungeno buvo Teneburgo pilyje, kur Konradas ieškojo ramybės.
+Dusburgietis teigia, kad vieną gražią dieną, bėgdamas nuo žmonių spūsties ir triukšmingų reikalų, jis panūdo ieškotis ramybės su Hartmanu iš Heldrungeno, su Ditrichu iš Gruningeno ir keliais iš šeimynos savo Teneburgo pilyje597, ten kartą, kai jie visi sėdėjo drauge, atėjo viena.
 
 ## Teiginiai
 
@@ -20,6 +20,8 @@ Ditrichas iš Gruningeno kartu su Hartmanu iš Heldrungeno buvo Teneburgo pilyje
 - t-001
   global_id: t-60266
   teiginys: 'Ditrichas iš Gruningeno kartu su Hartmanu iš Heldrungeno buvo Teneburgo pilyje, kur Konradas ieškojo ramybės.'
+  sudarymo_pagrindimas: 'Pradinis teiginys yra fragmentiškas, per ilgas ir turi žalių citatos nuotrupų.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/landgrafas|landgrafas]]; mentioned_person: [[objektai/asmenys/Hartmanas|Hartmanas]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -40,11 +42,3 @@ Ditrichas iš Gruningeno kartu su Hartmanu iš Heldrungeno buvo Teneburgo pilyje
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Hartmanas]]
-- [[objektai/asmenys/Konradas]]
-- [[objektai/grupes/Teutonai]]
-- [[objektai/zodynas/landgrafas]]
-- [[objektai/asmenys/Hartmanas iš Heldrungeno]]

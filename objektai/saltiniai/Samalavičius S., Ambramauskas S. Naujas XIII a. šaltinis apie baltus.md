@@ -29,6 +29,10 @@ Dusburgietis teigia, kad samalavičius S., Ambramauskas S.
 - t-001
   global_id: t-61280
   teiginys: 'S. Samalavičiaus ir S. Ambramausko straipsnis „Naujas XIII a. šaltinis apie baltus“ paskelbtas „Kultūros baruose“ 1984 m., Nr. 6.'
+  sudarymo_pagrindimas: 'Citata pagrindžia autorius, straipsnio pavadinimą, leidinį, metus ir numerį.'
+  temporaliniai_duomenys: 'įvykio data: 1984 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia autorius, straipsnio pavadinimą, leidinį, metus ir numerį.'
   pagrindžia:
     - c-001
 

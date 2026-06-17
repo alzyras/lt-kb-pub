@@ -39,6 +39,9 @@ Nenurodyta
 - t-001
   global_id: t-62256
   teiginys: 'Pomeranijos kunigaikštis Sventopelkas sutelkė didelę kariuomenę ir patraukė užimti Elbingo pilies bei miesto.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir paremtas citata.'
+  susije_objektai: 'territory: Elbingas; territory: Pomeranija; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Elbingas; mentioned_place: Pomeranija'
   pagrindžia:
     - c-001
 
@@ -62,7 +65,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Sventopelkas]]

@@ -5,6 +5,7 @@ saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1377 m.'
+  - '1499 m.'
   - '1930 m.'
 date_start: '1377'
 date_end: '1930'
@@ -28,6 +29,11 @@ amziai:
 - t-001
   global_id: t-96068
   teiginys: 'L. Kolankowskio „Dzieje Wielkiego Księstwa Litewskiego za Jagiełłonów“ pirmas tomas apima 1377-1499 m. ir išleistas Varšuvoje 1930 m.'
+  sudarymo_pagrindimas: 'Pradinis teiginys yra bibliografinio santrumpos fragmentas su OCR triukšmu.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Varšuva'
+  temporaliniai_duomenys: 'įvykio data: 1377-1499; įvykio data: 1499 m.; įvykio data: 1930 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys yra bibliografinio santrumpos fragmentas su OCR triukšmu.'
   pagrindžia:
     - c-001
 

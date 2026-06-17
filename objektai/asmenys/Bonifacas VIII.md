@@ -15,6 +15,7 @@ tags:
   - karalius
   - miestas
   - ordinas
+  - popiežius
 amziai:
   - 'XIII'
   - 'XIV'
@@ -33,6 +34,8 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
 - t-001
   global_id: t-59900
   teiginys: 'Bonifaco VIII ir Prancūzijos karaliaus Pilypo nesantarvė prasidėjo dėl popiežiaus pretenzijų į Prancūzijos reikalų pavaldumą Apaštalų sostui.'
+  sudarymo_pagrindimas: 'Citata palaiko nesantarvės priežastį, o pradinis teiginys turi triukšmo.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/reskriptas|reskriptas]]; mentioned_place: Prancūzija'
   pagrindžia:
     - c-005
 
@@ -40,6 +43,8 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
 - t-002
   global_id: t-59901
   teiginys: 'Popiežius Bonifacas VIII paskyrė magistrą Egidijų Beri arkivyskupu.'
+  sudarymo_pagrindimas: 'Citata palaiko konkretų Bonifaco VIII veiksmą, o pradinis teiginys yra OCR fragmentas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Augustinas|Augustinas]]; mentioned_person: [[objektai/asmenys/Egidijus|Egidijus]]; mentioned_place: Paryžius'
   pagrindžia:
     - c-004
 
@@ -47,6 +52,11 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
 - t-003
   global_id: t-59902
   teiginys: '1303 m. Bonifacas VIII paskelbė Romos karalių Albrechtą imperatoriumi ir perdavė jam Prancūzijos karalystę, bet Klemensas V tai atšaukė.'
+  sudarymo_pagrindimas: 'Citata palaiko faktą, pašalinti bibliografiniai ir fragmentiniai priedai.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Flandrai|Flandrai]]; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_person: [[objektai/asmenys/Klemensas V|Klemensas V]]; mentioned_place: Prancūzija'
+  temporaliniai_duomenys: 'įvykio data: 1303 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko faktą, pašalinti bibliografiniai ir fragmentiniai priedai.'
   pagrindžia:
     - c-002
 
@@ -54,6 +64,10 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
 - t-004
   global_id: t-59903
   teiginys: '1303 m. rugsėjo pradžioje popiežius Bonifacas VIII buvo įkalintas Ananyje, o bažnyčios turtas išnešiotas.'
+  sudarymo_pagrindimas: 'Citata palaiko įvykį; pradinis tekstas prasideda šaltinio boilerplate.'
+  temporaliniai_duomenys: 'įvykio data: 1303 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko įvykį; pradinis tekstas prasideda šaltinio boilerplate.'
   pagrindžia:
     - c-001
 
@@ -61,9 +75,18 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
 - t-005
   global_id: t-59904
   teiginys: '1296 m. popiežius Bonifacas VIII kanonizavo Prancūzijos karalių Liudviką.'
+  sudarymo_pagrindimas: 'Citata tiesiogiai pagrindžia glaustą faktinį sakinį.'
+  susije_objektai: 'mentioned_place: Prancūzija'
+  temporaliniai_duomenys: 'įvykio data: 1296 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata tiesiogiai pagrindžia glaustą faktinį sakinį.'
   pagrindžia:
     - c-003
-
+- susijęs iš [[objektai/asmenys/Albrechtas (Romos karalius).md#claim-t-63416|Albrechtas (Romos karalius)]]: Dusburgietis pasakoja, kad 1303 m. Bonifacas VIII paskelbė Albrechtą imperatoriumi ir atidavė jam Prancūzijos karalystę.
+- susijęs iš [[objektai/asmenys/Egidijus.md#claim-t-60271|Egidijus (arkivyskupas, XIV a.)]]: Egidijus buvo augustinų ordino mokytojas, o popiežius Bonifacas VIII jį paskyrė Beri arkivyskupu.
+- susijęs iš [[objektai/asmenys/Liudvikas (Prancūzijos karalius).md#claim-t-60049|Liudvikas (Prancūzijos karalius)]]: 1296 m. popiežius Bonifacas VIII kanonizavo Prancūzijos karalių Liudviką.
+- susijęs iš [[objektai/ivykiai/Bonifaco VIII suėmimas Ananyje ir bažnyčios turto išnešiojimas (1303 m. rugsėjo pradžia).md#claim-t-62212|Bonifaco VIII suėmimas Ananyje ir bažnyčios turto išnešiojimas (1303 m. rugsėjo pradžia)]]: 1303 m. rugsėjo pradžioje popiežius Bonifacas VIII buvo įkalintas Ananyje, o bažnyčios turtas išnešiotas.
+- susijęs iš [[objektai/ivykiai/Švento Liudviko kanonizavimas (1296 m.).md#claim-t-62544|Švento Liudviko kanonizavimas (1296 m.)]]: 1296 m. popiežius Bonifacas VIII kanonizavo Liudviką, Prancūzijos karalių.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -151,16 +174,3 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Flandrai]]
-- [[objektai/grupes/Prancūzai]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/reskriptas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/ivykiai/Bonifaco VIII suėmimas Ananyje ir bažnyčios turto išnešiojimas (1303 m. rugsėjo pradžia)]]
-- [[objektai/ivykiai/Švento Liudviko kanonizavimas (1296 m.)]]
-- [[objektai/ivykiai/Bonifaco VIII Albrechto paskelbimas imperatoriumi ir Prancūzijos karalystės atidavimas (1303 m.)]]
-- [[objektai/ivykiai/Bonifaco VIII ir Pilypo IV nesantarvė bei bulės sudeginimas Paryžiuje (1302 m.)]]
-- [[objektai/zodynas/bulė]]

@@ -25,6 +25,12 @@ Albertas Vijūkas-Kojelavičius šiame leidime pateikiamas kaip „Lietuvos isto
 - t-001
   global_id: t-184456
   teiginys: 'Albertas Vijūkas-Kojelavičius buvo Vilniaus aukštosios mokyklos profesorius ir savo veikalą skyrė jos studentams.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Citata tiesiogiai pagrindžia profesoriaus pareigas ir dedikaciją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Albertas|Albertas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Europa; mentioned_place: Varšuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1611 m.; įvykio data: 1650 m.; įvykio data: 1669 m.; įvykio data: 1766 m.; įvykio data: 1846 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata tiesiogiai pagrindžia profesoriaus pareigas ir dedikaciją.'
   pagrindžia:
     - c-002
 
@@ -32,6 +38,9 @@ Albertas Vijūkas-Kojelavičius šiame leidime pateikiamas kaip „Lietuvos isto
 - t-002
   global_id: t-184457
   teiginys: 'J. Jurginis įvade nurodo, kad Albertas Vijūkas-Kojelavičius buvo teisus vadindamas save istoriku.'
+  teiginio_tipas: 'interpretacija'
+  sudarymo_pagrindimas: 'Teiginys yra apie Jurginio vertinimą, todėl reikalinga atribucija.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Albertas|Albertas]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/autoriai/Aleksandras Gvagninis|Aleksandras Gvagninis]]; mentioned_person: [[objektai/autoriai/Juozas Jurginis|Juozas Jurginis]]; mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]; mentioned_place: Europa'
   pagrindžia:
     - c-004
 
@@ -39,6 +48,12 @@ Albertas Vijūkas-Kojelavičius šiame leidime pateikiamas kaip „Lietuvos isto
 - t-003
   global_id: t-184458
   teiginys: 'Albertas Vijūkas-Kojelavičius 1677 m. mirė Varšuvoje.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Citata tiesiogiai pagrindžia mirties metus ir vietą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Albertas|Albertas]]; mentioned_place: Varšuva'
+  temporaliniai_duomenys: 'įvykio data: iki 1666 m.; įvykio data: 1666 m.; įvykio data: 1677 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata tiesiogiai pagrindžia mirties metus ir vietą.'
   pagrindžia:
     - c-003
 
@@ -46,6 +61,12 @@ Albertas Vijūkas-Kojelavičius šiame leidime pateikiamas kaip „Lietuvos isto
 - t-004
   global_id: t-184459
   teiginys: '1640 m. Vilniaus akademija išleido Alberto Vijūko-Kojelavičiaus redaguotą kalbų rinkinį jėzuitų ordino šimtmečiui paminėti.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Citata leidžia pridėti svarbų kontekstą ir išplėsti inicialą į pilną vardą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus Akademija|Vilniaus Akademija]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1640 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata leidžia pridėti svarbų kontekstą ir išplėsti inicialą į pilną vardą.'
   pagrindžia:
     - c-001
 
@@ -53,6 +74,12 @@ Albertas Vijūkas-Kojelavičius šiame leidime pateikiamas kaip „Lietuvos isto
 - t-005
   global_id: t-184460
   teiginys: 'Albertas Vijūkas-Kojelavičius gimė 1609 m. Vijūkų dvarelyje netoli Kauno.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Citata tiesiogiai pagrindžia gimimo metus ir vietą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_person: [[objektai/asmenys/Albertas|Albertas]]; mentioned_place: Kaunas'
+  temporaliniai_duomenys: 'įvykio data: 1609 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata tiesiogiai pagrindžia gimimo metus ir vietą.'
   pagrindžia:
     - c-005
 
@@ -60,9 +87,35 @@ Albertas Vijūkas-Kojelavičius šiame leidime pateikiamas kaip „Lietuvos isto
 - t-006
   global_id: t-184603
   teiginys: 'J. Jurginis įvade teigia, kad Alberto Vijūko-Kojelavičiaus „Lietuvos istorija“ sėkmingai atstovavo Lietuvai mokslo pasaulyje.'
+  teiginio_tipas: 'saltinio_teiginys'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Tai įvado autoriaus vertinimas, todėl palikta atribucija.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/Juozas Jurginis|Juozas Jurginis]]; mentioned_person: [[objektai/autoriai/P. Paprockis|P. Paprockis]]; mentioned_place: Europa; mentioned_place: Lietuva'
   pagrindžia:
     - c-006
-
+- susijęs iš [[objektai/asmenys/Stanislovas Hozijus.md#claim-t-186254|Stanislovas Hozijus]]: Stanislovas Hozijus 1568 m. Braunsberge įsteigė kolegiją, netrukus tapusią svarbia jėzuitų atrama.
+- susijęs iš [[objektai/autoriai/A. Vijūkas Kojelavičius.md#claim-t-102838|A. Vijūkas Kojelavičius]]: Albertas Vijūkas-Kojelavičius vertino Lenkijos kariuomenės elgesį kaip dažnai nepasvertą ir vedamą paniekos priešui.
+- susijęs iš [[objektai/autoriai/Aleksandras Gvagninis.md#claim-t-184464|Aleksandras Gvagninis]]: Aleksandras Gvagninis buvo 1578 m. lotyniškojo „Sarmatų Europos aprašymo“ autorius ir vienas Kojelavičiaus pirmtakų.
+- susijęs iš [[objektai/autoriai/Augustas Liudvigas Šleceris.md#claim-t-184465|Augustas Liudvigas Šleceris]]: Augustas Liudvigas Šleceris 1776 m. išleido veikalą apie Lietuvą kaip buvusią savarankišką valstybę.
+- susijęs iš [[objektai/autoriai/Juozas Jurginis.md#claim-t-186443|Juozas Jurginis]]: Juozas Jurginis parašė šio „Lietuvos istorijos“ leidimo įvadą ir paaiškinimus.
+- susijęs iš [[objektai/autoriai/Leonas Valkūnas.md#claim-t-184471|Leonas Valkūnas]]: Leonas Valkūnas iš lotynų kalbos vertė šį „Lietuvos istorijos“ leidimą.
+- susijęs iš [[objektai/autoriai/Titas Livijus.md#claim-t-186289|Titas Livijus]]: Albertas Vijūkas-Kojelavičius sekė antikiniais istorikais, ypač Titu Livijumi.
+- susijęs iš [[objektai/grupes/Sapiegos.md#claim-t-184581|Sapiegos]]: A. Kojelavičius pirmo ir antro tomų dedikacijas skyrė Sapiegoms, tačiau cenzoriai šių dedikacijų neskaitė.
+- susijęs iš [[objektai/grupes/Sapiegų giminė.md#claim-t-185460|Sapiegų giminė]]: A. Kojelavičius antrąjį „Lietuvos istorijos“ tomą paskyrė Kazimierui Jonui Sapiegai.
+- susijęs iš [[objektai/ivykiai/Liublino unija (1569 m.).md#claim-t-184598|Liublino unija (1569 m.)]]: 1569 m. Liublino seime ginčytasi ne dėl pačios unijos, o dėl jos sąlygų.
+- susijęs iš Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.): Kojelavičiaus „Lietuvos istorijos“ pirmasis tomas išėjo 1650 m. Gdanske, o antrasis - 1669 m. Antverpene.
+- susijęs iš Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.): Alberto Vijūko-Kojelavičiaus „Lietuvos istorija“ Renesanso epochoje nesulaukė pakartotinių leidimų.
+- susijęs iš Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.): Juozas Jurginis įvade rašė, kad Kojelavičiaus „Lietuvos istorija“ nėra originalus veikalas ir remiasi M. Strijkovskio kronika.
+- susijęs iš Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.): 1989 m. „Lietuvos istorijos“ leidimas spausdintas pagal 1988 m. „Vagos“ leidimą, o įvadą ir paaiškinimus parašė Juozas Jurginis.
+- susijęs iš Antverpenas: Antrasis Alberto Vijūko-Kojelavičiaus „Lietuvos istorijos“ tomas išėjo 1669 m. Antverpene.
+- susijęs iš Pinskas: Pinskas minimas kaip vienas žymiausių baltarusių gyvenamos Polesės miestų.
+- susijęs iš Polesė: Paaiškinime teigiama, kad Kojelavičius dažnai neskyrė Polesės nuo kaimyninės Palenkės, lenkiškai vadintos Poleksia.
+- susijęs iš Turovas: Turovas buvo vienas žymiausių Polesės miestų kartu su Pinsku ir David Gorodoku.
+- susijęs iš Vijūkų dvaras: Albertas Vijūkas-Kojelavičius gimė 1609 m. Vijūkų dvarelyje netoli Kauno.
+- susijęs iš Vilnius: Baigęs studijas Nesvyžiaus kolegijoje Albertas Vijūkas-Kojelavičius grįžo į Vilniaus teologijos fakultetą.
+- susijęs iš [[objektai/zodynas/piktadarystė.md#claim-t-185390|piktadarystė]]: A. Kojelavičius tariamą brolžudystę vadino piktadaryste ir pabrėžė, kad dėl jos valstybė likusi našlaitė.
+- susijęs iš [[objektai/zodynas/skitai.md#claim-t-185343|skitai]]: Paaiškinimuose nurodoma, kad A. Kojelavičius skitais vadina mongolus bei totorius.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -183,14 +236,3 @@ Albertas Vijūkas-Kojelavičius šiame leidime pateikiamas kaip „Lietuvos isto
   statusas: verified
   pagrindžia:
     - t-006
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bajorai]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Vilniaus Akademija]]
-- [[objektai/ivykiai/Liublino unija (1569 m.)]]
-- [[objektai/grupes/Sapiegos]]
-- [[objektai/grupes/Sapiegų giminė]]
-- [[objektai/zodynas/skitai]]
-- [[objektai/zodynas/piktadarystė]]

@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-1386 m. vasario 15 d. įvyko iškilmingas Jogailos ir kitų jo giminaičių krikštas, o Vytautas atnaujino tikėjimo išpažinimą.
+Lenkų ir vengrų pasiuntiniai, gavę iš Jogailos atstovų raš­ tą, kad Lietuva visiškai sujungiama su Lenkija ir kad visa Lie­ tuva prižada apsikrikštyti, sugrįžo atgal. Vasa­ rio 15 d. įvyko iškilmingas Jogailos ir kitų jo giminaičių krikš­ tas.
 
 ## Laikotarpis ir datos
 
@@ -45,6 +45,11 @@ Nenurodyta
 - t-001
   global_id: t-35831
   teiginys: '1386 m. vasario 15 d. įvyko iškilmingas Jogailos ir kitų jo giminaičių krikštas, o Vytautas atnaujino tikėjimo išpažinimą.'
+  sudarymo_pagrindimas: 'Citata palaiko išsamesnį sakinį apie Vytauto veiksmą tame pačiame įvykyje.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lenkija'
+  temporaliniai_duomenys: 'įvykio data: 1386 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko išsamesnį sakinį apie Vytauto veiksmą tame pačiame įvykyje.'
   pagrindžia:
     - c-001
 
@@ -66,9 +71,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

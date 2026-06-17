@@ -47,6 +47,11 @@ Nenurodyta
 - t-001
   global_id: t-40702
   teiginys: 'Dainavos apygardos kovotojų rankovės antsiuvas buvo naudotas 1945–1949 m.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir tiksliai perteikia citatoje nurodytą naudojimo laiką.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Sovietų automatinis (pusiau automatinis) šautuvas SVT-40|Sovietų automatinis (pusiau automatinis) šautuvas SVT-40]]; mentioned_place: Dainava'
+  temporaliniai_duomenys: 'įvykio data: 1945-1949; įvykio data: 1949 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys ir tiksliai perteikia citatoje nurodytą naudojimo laiką.'
   pagrindžia:
     - c-001
 
@@ -63,7 +68,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Sovietų automatinis (pusiau automatinis) šautuvas SVT-40]]

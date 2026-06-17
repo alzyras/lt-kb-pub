@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Eimaras iš Cezarėjos pritarė nuomonei, kad Frydrichas Švabietis turėtų siekti ligoninės įsteigimo ir patvirtinimo.
+Dusburgietis teigia, kad kai jo šventenybė Jeruzalės patriarchas Henrikas, šviesiausiasis Jeruzalės karalius, Nazareto, Tyro ir Cezarėjos arkivyskupai ir Betliejaus bei Akono vyskupai, švento Jono ligoninės magistras ir tamplierių ordino magistras, daugelis abiejų ordinų brolių ir.
 
 ## Teiginiai
 
@@ -23,6 +23,8 @@ Eimaras iš Cezarėjos pritarė nuomonei, kad Frydrichas Švabietis turėtų sie
 - t-001
   global_id: t-60272
   teiginys: 'Eimaras iš Cezarėjos pritarė nuomonei, kad Frydrichas Švabietis turėtų siekti ligoninės įsteigimo ir patvirtinimo.'
+  sudarymo_pagrindimas: 'Reikia aiškiau įvardyti Eimaro veiksmą, o ne vien jo paminėjimą sąraše.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/landgrafas|landgrafas]]; mentioned_object: [[objektai/zodynas/legatai|legatai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Albertas|Albertas]]; mentioned_person: [[objektai/asmenys/Gardolfas|Gardolfas]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Austrija; mentioned_place: Jeruzalė; mentioned_place: Reinas; mentioned_place: Saksonija'
   pagrindžia:
     - c-001
 
@@ -62,14 +64,3 @@ Eimaras iš Cezarėjos pritarė nuomonei, kad Frydrichas Švabietis turėtų sie
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Albertas]]
-- [[objektai/asmenys/Gardolfas]]
-- [[objektai/autoriai/Henrikas]]
-- [[objektai/asmenys/Jonas]]
-- [[objektai/zodynas/landgrafas]]
-- [[objektai/zodynas/legatai]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/maršalas]]

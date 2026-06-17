@@ -20,6 +20,8 @@ Osten-Sakenui. Osten-Sakenas dešiniajame gynybos sparne puolimui išrikiavo kav
 - t-001
   global_id: t-40082
   teiginys: 'Osten-Sakenas dešiniajame gynybos sparne puolimui išrikiavo kavaleriją.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie D. Osten-Sakeną.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Orenburgo ulonų pulkas|Orenburgo ulonų pulkas]]; mentioned_object: [[objektai/zodynas/ulonai|ulonai]]'
   pagrindžia:
     - c-001
 
@@ -27,6 +29,8 @@ Osten-Sakenui. Osten-Sakenas dešiniajame gynybos sparne puolimui išrikiavo kav
 - t-002
   global_id: t-40083
   teiginys: 'Osten-Sakeno įsakymu prasidėjo sukilėlių persekiojimas, jame dalyvavo Leibgvardijos lietuvių pėstininkų, Leibgvardijos Podolės kirasyrų, 9-ojo jėgerių pulkų kariai.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas, konkretus ir paremtas citatos informacija.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Parakas|Parakas]]; mentioned_place: Podolė; mentioned_place: Trakai'
   pagrindžia:
     - c-002
 
@@ -34,6 +38,7 @@ Osten-Sakenui. Osten-Sakenas dešiniajame gynybos sparne puolimui išrikiavo kav
 - t-003
   global_id: t-40084
   teiginys: 'Generolas leitenantas baronas D. Osten-Sakenas laikinai perėmė vadovavimą iš leitenanto grafo D. Kurutos.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Parakas|Parakas]]; mentioned_place: Podolė; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 
@@ -113,10 +118,3 @@ Osten-Sakenui. Osten-Sakenas dešiniajame gynybos sparne puolimui išrikiavo kav
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Orenburgo ulonų pulkas]]
-- [[objektai/daiktai/Parakas]]
-- [[objektai/zodynas/ulonai]]

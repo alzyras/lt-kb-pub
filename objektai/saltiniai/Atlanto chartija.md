@@ -3,12 +3,18 @@ tipas: saltinis
 pavadinimas: 'Atlanto chartija'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1944 m.'
+date_start: '1944'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - karas
   - saltinis
   - valstybė
+amziai:
+  - 'XX'
 ---
 # Atlanto chartija
 
@@ -22,6 +28,11 @@ Iš visų trijų Baltijos valstybių L I E T U V O S I S T O R I J A 210 pasipri
 - t-001
   global_id: t-26484
   teiginys: 'Lietuvoje tikėta, kad JAV ir Didžioji Britanija įvykdys Atlanto chartijos pažadus grąžinti nepriklausomybę karo metu ją praradusioms šalims.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas, turi aiškų predikatą ir tiksliai perteikia citatos mintį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/posakiai/karas po karo|karas po karo]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Baltija; mentioned_place: Didžioji Britanija; mentioned_place: Lietuva; mentioned_place: SSRS'
+  temporaliniai_duomenys: 'įvykio data: po 1944 m.; įvykio data: 1944 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas, turi aiškų predikatą ir tiksliai perteikia citatos mintį.'
   pagrindžia:
     - c-001
 

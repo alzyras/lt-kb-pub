@@ -23,9 +23,11 @@ Lenkas pirmiausiai pasakė, kad jie naktį gavę telefonogramą apie karo paliau
 - t-001
   global_id: t-80633
   teiginys: 'Lenkų pusė naktį gavo telefonogramą apie karo paliaubas.'
+  sudarymo_pagrindimas: 'Pradinis sakinys turėjo neaiškų įvardį ir perteklinį pasakojimo kontekstą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/zodynas/paliaubos.md#claim-t-70265|paliaubos]]: Lenkų atstovas pasakė, kad lenkai naktį gavo telefonogramą apie karo paliaubas.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -41,12 +43,3 @@ Lenkas pirmiausiai pasakė, kad jie naktį gavę telefonogramą apie karo paliau
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/paliaubos]]
-
-### Susiję objektai
-- [[objektai/grupes/Lietuvos kariuomenė]]
-- [[objektai/zodynas/paliaubos]]
-- [[objektai/grupes/Lenkai]]

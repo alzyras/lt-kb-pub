@@ -42,9 +42,14 @@ Nenurodyta
 - t-001
   global_id: t-28843
   teiginys: '1944 m. Lietuvą vėl okupavus rusams, buvo prievarta primestas marksistinis Lietuvos praeities supratimas.'
+  sudarymo_pagrindimas: 'Pradinis teiginys turi neaiškų įvardį, bet citata leidžia suformuluoti aiškų faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1944 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys turi neaiškų įvardį, bet citata leidžia suformuluoti aiškų faktą.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/zodynas/reokupacija.md#claim-t-22277|reokupacija]]: 1944 m. vasarą Lietuvos reokupacija reiškė antrą sovietų okupaciją, per kurią Lietuvai, Latvijai ir Estijai grąžintas stalininis režimas.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -59,8 +64,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Rusai]]
-- [[objektai/zodynas/reokupacija]]

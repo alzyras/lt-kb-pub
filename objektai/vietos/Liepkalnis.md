@@ -27,6 +27,8 @@ Divizija turėjo 6 pabūklus, kurių dauguma buvo išdėstyta įtvirtinimuose Li
 - t-001
   global_id: t-41863
   teiginys: 'Gen. mjr. N. Zubovo divizija atakavo gen. J. Mejeno karių įtvirtinimus Liepkalnyje.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys ir tiksliai paremtas citata.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Zubovas|Zubovas]]'
   pagrindžia:
     - c-001
 
@@ -34,6 +36,7 @@ Divizija turėjo 6 pabūklus, kurių dauguma buvo išdėstyta įtvirtinimuose Li
 - t-002
   global_id: t-41864
   teiginys: 'Dauguma divizijos turėtų šešių pabūklų buvo išdėstyta Liepkalnio įtvirtinimuose.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 

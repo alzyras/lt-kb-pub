@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Halėje gimęs tarnas Dusburgiečio apibūdintas kaip toks padorus ir protingas, kad visoje Prūsijoje neturėjo sau lygaus. Imperatorius Maksimilijonas netoli Halės jėga atėmė maskvėnų belaisvius iš karaliaus žygūnų ir grąžino juos į Maskvą.
+Dusburgietis teigia, kad tas tarnas, gimęs Halėje, buvo toks padorus bei protingas, kad visoje Prūsijoje neturėjo sau lygaus281.
 
 ## Teiginiai
 
@@ -21,6 +21,8 @@ Halėje gimęs tarnas Dusburgiečio apibūdintas kaip toks padorus ir protingas,
 - t-001
   global_id: t-58695
   teiginys: 'Halėje gimęs tarnas Dusburgiečio apibūdintas kaip toks padorus ir protingas, kad visoje Prūsijoje neturėjo sau lygaus.'
+  sudarymo_pagrindimas: 'Reikia pašalinti neaiškų junginį „tas tarnas“ ir OCR išnašos numerį.'
+  susije_objektai: 'mentioned_place: Prūsija'
   pagrindžia:
     - c-001
 
@@ -28,6 +30,11 @@ Halėje gimęs tarnas Dusburgiečio apibūdintas kaip toks padorus ir protingas,
 - t-002
   global_id: t-184959
   teiginys: 'Imperatorius Maksimilijonas netoli Halės jėga atėmė maskvėnų belaisvius iš karaliaus žygūnų ir grąžino juos į Maskvą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys aiškiai perteikia citatoje nurodytą įvykį prie Halės.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_object: [[objektai/zodynas/žygūnai|žygūnai]]; mentioned_place: Maskva; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 

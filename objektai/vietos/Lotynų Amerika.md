@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Iš Lotynų Amerikos plukdomas auksas prisidėjo prie Ispanijos ir Portugalijos lyderystės praradimo, nes neskatino plėtoti jų miestų ir ekonomikos.
+Viena priežasčių, dėl kurių Ispanija ir Portugalija neteko lyderių pozicijų, – per geras gyvenimas: iš Lotynų Amerikos plukdomas auksas neskatino plėtoti savų miestų ir jų ekonomikos.
 
 ## Teiginiai
 
@@ -21,6 +21,8 @@ Iš Lotynų Amerikos plukdomas auksas prisidėjo prie Ispanijos ir Portugalijos 
 - t-001
   global_id: t-21583
   teiginys: 'Iš Lotynų Amerikos plukdomas auksas prisidėjo prie Ispanijos ir Portugalijos lyderystės praradimo, nes neskatino plėtoti jų miestų ir ekonomikos.'
+  sudarymo_pagrindimas: 'Pašalinta publicistinė formuluotė ir išlaikytas remiamas faktas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_place: Europa; mentioned_place: Ispanija; mentioned_place: Portugalija; mentioned_place: Viena'
   pagrindžia:
     - c-001
 

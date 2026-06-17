@@ -36,6 +36,8 @@ Nenurodyta
 - t-001
   global_id: t-20532
   teiginys: 'Birželio 14 d. Vilnius buvo atiduotas be kovos, nors birželio 11 d. prie Myro dar vyko rimtesnės kautynės.'
+  sudarymo_pagrindimas: 'Teiginys pilnas, aiškiai susieja įvykį su data ir aplinkybėmis.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Varšuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -53,8 +55,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/ivykiai/Myro kautynės]]

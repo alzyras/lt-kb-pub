@@ -28,6 +28,8 @@ Be senesnių­ jų lietuvių ir rusų kunigaikščių — tėvynainių (otčici)
 - t-001
   global_id: t-36820
   teiginys: 'Lietuvių ir rusų kunigaikščiai tėvynainiai, arba otčici, turėjo visišką nuosavybės teisę į savo valdomas žemes.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai perteikia citatos informaciją apie otčici nuosavybės teisę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -53,11 +55,3 @@ Be senesnių­ jų lietuvių ir rusų kunigaikščių — tėvynainių (otčici)
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/ekonomija]]

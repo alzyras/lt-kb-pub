@@ -3,6 +3,10 @@ tipas: vieta
 pavadinimas: 'Volgos upė'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+datos:
+  - '1581 m.'
+date_start: '1581'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -10,12 +14,14 @@ tags:
   - upė
   - valdovas
   - vieta
+amziai:
+  - 'XVI'
 ---
 # Volgos upė
 
 ## Santrauka
 
-Rugsėjo 4 d. lietuviai pasiekė Dauguvos ir Volgos upių vandenskyrą, kur ilsėjosi ir išsižvalgė apylinkes. K. Radvilos pajėgos, perėjusios Volgos upę, sudegino Urdomo miestą ir pasuko Staricos link.
+Radvilos pajėgos nusiaubė Rževo apylinkes, tuomet perėję Volgos upę, sudegino Urdomo miestą ir pasuko Staricos link, kurioje tuo metu rezidavo Rusijos valdovas Ivanas rv. Rugsėjo 4 d. lietuviai pasiekė Dauguvos ir Volgos upių vandenskyrą, kur ilsėjosi ir išsižvalgė apylinkes.
 
 ## Teiginiai
 
@@ -23,6 +29,8 @@ Rugsėjo 4 d. lietuviai pasiekė Dauguvos ir Volgos upių vandenskyrą, kur ils�
 - t-001
   global_id: t-42320
   teiginys: 'Rugsėjo 4 d. lietuviai pasiekė Dauguvos ir Volgos upių vandenskyrą, kur ilsėjosi ir išsižvalgė apylinkes.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Dauguva; mentioned_place: Toropecas; mentioned_place: Volga'
   pagrindžia:
     - c-002
 
@@ -30,6 +38,11 @@ Rugsėjo 4 d. lietuviai pasiekė Dauguvos ir Volgos upių vandenskyrą, kur ils�
 - t-002
   global_id: t-42321
   teiginys: 'K. Radvilos pajėgos, perėjusios Volgos upę, sudegino Urdomo miestą ir pasuko Staricos link.'
+  sudarymo_pagrindimas: 'Pridėtas citatoje esantis asmens inicialas ir išlaikytas aiškus veiksmas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_person: [[objektai/asmenys/Ivanas|Ivanas]]; mentioned_place: Pskovas; mentioned_place: Rusija; mentioned_place: Rževas; mentioned_place: Starica; mentioned_place: Urdomas; mentioned_place: Volga'
+  temporaliniai_duomenys: 'įvykio data: 1581 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pridėtas citatoje esantis asmens inicialas ir išlaikytas aiškus veiksmas.'
   pagrindžia:
     - c-001
 

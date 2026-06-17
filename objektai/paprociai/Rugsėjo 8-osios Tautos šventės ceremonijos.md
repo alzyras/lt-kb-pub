@@ -5,8 +5,9 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1930 m.'
+  - '1934 m.'
 date_start: '1930'
-date_end: ''
+date_end: '1934'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -49,6 +50,11 @@ Nenurodyta
 - t-001
   global_id: t-77958
   teiginys: 'Nuo 1930 m. rugsėjo 8-osios Tautos šventėje vykdavo kariuomenės paradai, eitynės, spektakliai ir pokyliai užsienio svečiams.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie šventės ceremonijas ir atitinka citatą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: po 1930 m.; įvykio data: 1930 m.; įvykio data: 1934 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie šventės ceremonijas ir atitinka citatą.'
   pagrindžia:
     - c-001
 
@@ -75,7 +81,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/A. Smetona]]

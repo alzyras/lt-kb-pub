@@ -3,10 +3,16 @@ tipas: grupe
 pavadinimas: 'Lietuvos dailės muziejus'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '2000 m.'
+date_start: '2000'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+amziai:
+  - 'XX'
 ---
 # Lietuvos dailės muziejus
 
@@ -20,9 +26,19 @@ Varšuvos nacionalinis muziejus 1999 gruodis – 2000 m. sausis, Lietuvos dailė
 - t-001
   global_id: t-19859
   teiginys: 'Lietuvos dailės muziejuje 2000 m. kovą–rugsėjį vyko paroda „Vilniaus klasicizmas“.'
+  sudarymo_pagrindimas: 'Citata paremta bibliografine nuoroda, bet leidžia suformuluoti trumpą faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Varšuvos nacionalinis muziejus|Varšuvos nacionalinis muziejus]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva; mentioned_place: Varšuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 2000 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata paremta bibliografine nuoroda, bet leidžia suformuluoti trumpą faktą.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/grupes/Varšuvos nacionalinis muziejus.md#claim-t-20061|Varšuvos nacionalinis muziejus]]: Vilniaus klasicizmo paroda Varšuvos nacionaliniame muziejuje veikė nuo 1999 m. gruodžio iki 2000 m. sausio.
+- susijęs iš Vilniaus klasicizmas: „Vilniaus klasicizmas“ yra parodos katalogas, siejamas su 1999–2000 m. parodomis Varšuvos nacionaliniame muziejuje ir Lietuvos dailės muziejuje.
+- susijęs iš Vilniaus klasicizmas: „Vilniaus klasicizmas“ buvo parodos katalogas, susijęs su 1999–2000 m. parodomis Varšuvoje ir Vilniuje.
+- susijęs iš Vilniaus klasicizmas: „Vilniaus klasicizmas“ yra parodos katalogas, siejamas su 1999–2000 m. parodomis Varšuvos nacionaliniame muziejuje ir Lietuvos dailės muziejuje.
+- susijęs iš Vilnius Jono Kazimiero Vilčinskio leidiniuose: „Vilnius Jono Kazimiero Vilčinskio leidiniuose“ buvo paroda, vykusi 1999 m. sausio 1 d.–balandžio 19 d.
+- susijęs iš Vilnius Jono Kazimiero Vilčinskio leidiniuose: Paroda „Vilnius Jono Kazimiero Vilčinskio leidiniuose“ vyko 1999 m. sausio 1 d. – balandžio 19 d.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -36,8 +52,3 @@ Varšuvos nacionalinis muziejus 1999 gruodis – 2000 m. sausis, Lietuvos dailė
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Varšuvos nacionalinis muziejus]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

@@ -18,7 +18,7 @@ amziai:
 
 ## Santrauka
 
-Sudarius marionetinę vyriausybę paskelbta, kad sukuriama Lietuvos Tarybų Socialistinė Respublika. 1940 m. birželio 15 d. Sovietų Sąjunga, realizuodama Molotovo–Ribentropo paktą, okupavo ir aneksavo Lietuvos Respubliką.
+LSSR Lietuvos Sovietų Socialistinė Respublika. Sudarius marionetinę vyriausybę netrukus paskelbiama, kad sukuriama Lietuvos Tarybų Socialistinė Respublika.
 
 ## Teiginiai
 
@@ -26,6 +26,8 @@ Sudarius marionetinę vyriausybę paskelbta, kad sukuriama Lietuvos Tarybų Soci
 - t-001
   global_id: t-74781
   teiginys: 'Sudarius marionetinę vyriausybę paskelbta, kad sukuriama Lietuvos Tarybų Socialistinė Respublika.'
+  sudarymo_pagrindimas: 'Reikia glaustesnės, savarankiškos enciklopedinės formuluotės.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Lietuvos Tarybų socialistinė respublika|Lietuvos Tarybų socialistinė respublika]]; mentioned_group: [[objektai/grupes/Sovietų Sąjunga|Sovietų Sąjunga]]; mentioned_object: [[objektai/autoriai/Jonas Basanavičius|Jonas Basanavičius]]; mentioned_place: Lietuva; mentioned_place: Vokietija'
   pagrindžia:
     - c-002
 
@@ -33,6 +35,11 @@ Sudarius marionetinę vyriausybę paskelbta, kad sukuriama Lietuvos Tarybų Soci
 - t-002
   global_id: t-74783
   teiginys: '1940 m. birželio 15 d. Sovietų Sąjunga, realizuodama Molotovo–Ribentropo paktą, okupavo ir aneksavo Lietuvos Respubliką.'
+  sudarymo_pagrindimas: 'Reikia išskleisti datą ir paversti fragmentą taisyklingu sakiniu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Sovietų Sąjunga|Sovietų Sąjunga]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1940 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia išskleisti datą ir paversti fragmentą taisyklingu sakiniu.'
   pagrindžia:
     - c-001
 
@@ -70,11 +77,3 @@ Sudarius marionetinę vyriausybę paskelbta, kad sukuriama Lietuvos Tarybų Soci
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Sovietų Sąjunga]]
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/grupes/Lietuvos Tarybų socialistinė respublika|Lietuvos Tarybų socialistinė respublika (institucija)]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/ivykiai/Sovietų Sąjungos Lietuvos okupacija ir aneksija (1940 m.)]]

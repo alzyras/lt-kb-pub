@@ -29,6 +29,11 @@ Dusburgietis teigia, kad kolankowski L.
 - t-001
   global_id: t-60728
   teiginys: 'Kolankowski L. parašė darbą „Litwini a Prusacy“, paskelbtą 1931 m. Lvove istorikų suvažiavimo leidinyje.'
+  sudarymo_pagrindimas: 'Citata pateikia autoriaus darbą, leidinį, vietą ir metus.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/L. Kolankowski|L. Kolankowski]]; mentioned_place: Lvovas'
+  temporaliniai_duomenys: 'įvykio data: 1931 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pateikia autoriaus darbą, leidinį, vietą ir metus.'
   pagrindžia:
     - c-001
 

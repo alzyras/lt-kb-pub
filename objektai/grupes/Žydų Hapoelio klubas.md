@@ -4,9 +4,11 @@ pavadinimas: 'Žydų Hapoelio klubas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
+  - '1923 m.'
   - '1927 m.'
+  - '1932 m.'
   - '1935 m.'
-date_start: '1927'
+date_start: '1923'
 date_end: '1935'
 sukurta: ''
 atnaujinta: ''
@@ -28,6 +30,11 @@ susiklostė praktika, kad reikėdavo nurodyti mokiŽydų Hapoelio klubo jaunieji
 - t-001
   global_id: t-75087
   teiginys: '1935 m. Žydų Hapoelio klubo jaunieji sportininkai žygiavo Kauno centrine gatve.'
+  sudarymo_pagrindimas: 'Nuotraukos antraštė pagrindžia aiškų faktinį sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Kaunas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1923 m.; įvykio data: po 1927 m.; įvykio data: 1927 m.; įvykio data: 1932 m.; įvykio data: 1935 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data.'
+  temporalinis_llm_pakomentavimas: 'Nuotraukos antraštė pagrindžia aiškų faktinį sakinį.'
   pagrindžia:
     - c-001
 
@@ -54,9 +61,3 @@ susiklostė praktika, kad reikėdavo nurodyti mokiŽydų Hapoelio klubo jaunieji
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Žydai]]

@@ -23,6 +23,8 @@ Dideli politinės padėties pokyčiai, radęsi Švabijoje ir Frankonijoje dėl H
 - t-001
   global_id: t-86795
   teiginys: 'Hohenštaufenų giminės žlugimo sukelti politiniai pokyčiai Švabijoje ir Frankonijoje suteikė miestams persvarą.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nusako citatoje pateiktą politinių pokyčių padarinį.'
+  susije_objektai: 'mentioned_place: Italija; mentioned_place: Prancūzija; mentioned_place: Vokietija'
   pagrindžia:
     - c-001
 

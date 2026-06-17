@@ -14,7 +14,7 @@ tags:
 
 ## Santrauka
 
-Vda atpažįstama kaip upė, Jeronimo variante vadinama Bda. Vyslos krante, žemiau Kulmo, prie upės Vda žiočių. Vyslos krante, žemiau Kulmo, prie upės Vda žiočių.
+Dusburgietis teigia, kad vyslos krante, žemiau Kulmo, prie upės Vda žiočių. Dusburgietis teigia, kad 286 Jer.— Bda, tai — upė Vda.
 
 ## Teiginiai
 
@@ -22,6 +22,8 @@ Vda atpažįstama kaip upė, Jeronimo variante vadinama Bda. Vyslos krante, žem
 - t-001
   global_id: t-58652
   teiginys: 'Vda atpažįstama kaip upė, Jeronimo variante vadinama Bda.'
+  sudarymo_pagrindimas: 'Citata palaiko trumpą faktą apie Vdos tapatinimą su upe ir vardo forma.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jeronimas|Jeronimas]]'
   pagrindžia:
     - c-002
 
@@ -29,6 +31,8 @@ Vda atpažįstama kaip upė, Jeronimo variante vadinama Bda. Vyslos krante, žem
 - t-002
   global_id: t-58653
   teiginys: 'Vyslos krante, žemiau Kulmo, prie upės Vda žiočių.'
+  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
+  susije_objektai: 'mentioned_place: Svečė; mentioned_place: Vysla'
   pagrindžia:
     - c-001
 

@@ -46,6 +46,8 @@ Nenurodyta
 - t-001
   global_id: t-86943
   teiginys: 'Steponas Batoras iš stovyklos parašytame laiške pasmerkė sumaištį ir pareiškė prisiekęs valstybėje saugoti laisvę.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir triukšmingas, bet citata pagrindžia Batoro veiksmą ir laiško turinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_place: Pskovas'
   pagrindžia:
     - c-001
 
@@ -80,9 +82,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Radvilos]]
-- [[objektai/asmenys/Steponas]]
-- [[objektai/asmenys/Steponas Batoras]]

@@ -22,6 +22,8 @@ tags:
 - t-001
   global_id: t-39631
   teiginys: 'Pukuveras pasiuntė savo sūnų Vytenį su didele kariuomene į Bresto žemę Lenkijoje.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Pukuvero veiksmą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Pukuveras|Pukuveras]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Livonija'
   pagrindžia:
     - c-001
 
@@ -44,7 +46,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Rusai]]

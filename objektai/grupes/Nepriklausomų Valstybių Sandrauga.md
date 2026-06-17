@@ -3,17 +3,24 @@ tipas: grupe
 pavadinimas: 'Nepriklausomų Valstybių Sandrauga'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1998 m.'
+  - '1999 m.'
+date_start: '1998'
+date_end: '1999'
 sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
   - valstybė
+amziai:
+  - 'XX'
 ---
 # Nepriklausomų Valstybių Sandrauga
 
 ## Santrauka
 
-Iki 1998–1999 m. Rusijos finansų krizės dauguma lietuviškų prekių keliavo į Nepriklausomų Valstybių Sandraugą, pirmiausia į Rusiją.
+Kadangi iki krizės dauguma lietuviškų prekių keliavo į Nepriklausomų Valstybių Sandraugą (NVS), pirmiausia Rusiją, krizės metais Lietuva susidūrė su biudžeto sunkumais: 1998 m. Lietuvos eksportas į NVS valstybes, sudaręs 36 proc.
 
 ## Teiginiai
 
@@ -21,6 +28,12 @@ Iki 1998–1999 m. Rusijos finansų krizės dauguma lietuviškų prekių keliavo
 - t-001
   global_id: t-19957
   teiginys: 'Iki 1998–1999 m. Rusijos finansų krizės dauguma lietuviškų prekių keliavo į Nepriklausomų Valstybių Sandraugą, pirmiausia į Rusiją.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai sieja NVS su Lietuvos prekių eksporto kryptimi prieš krizę ir remiasi citata.'
+  susije_objektai: 'location: Lietuva; location: Rusija; mentioned_object: [[objektai/zodynas/litas|litas]]; mentioned_place: Lietuva; mentioned_place: Rusija'
+  semantiniai_rysiai: '[[objektai/grupes/Nepriklausomų Valstybių Sandrauga|Nepriklausomų Valstybių Sandrauga]] keliavo į Lietuva; [[objektai/grupes/Nepriklausomų Valstybių Sandrauga|Nepriklausomų Valstybių Sandrauga]] keliavo į Rusija'
+  temporaliniai_duomenys: 'kelionės data: 1998 m.; kelionės data: 1998-1999; kelionės data: 1999 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Nepriklausomų Valstybių Sandrauga keliavo į Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Nepriklausomų Valstybių Sandrauga keliavo į Rusija“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai sieja NVS su Lietuvos prekių eksporto kryptimi prieš krizę ir remiasi citata.'
   pagrindžia:
     - c-001
 
@@ -44,6 +57,5 @@ Iki 1998–1999 m. Rusijos finansų krizės dauguma lietuviškų prekių keliavo
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/litas]]
-- [[objektai/ivykiai/Rusijos finansų krizės poveikis Lietuvos ekonomikai (1998–1999 m.)]]
+- Nepriklausomų Valstybių Sandrauga keliavo_i [[objektai/vietos/Lietuva]]
+- Nepriklausomų Valstybių Sandrauga keliavo_i [[objektai/vietos/Rusija]]

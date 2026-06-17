@@ -30,6 +30,11 @@ Nenurodyta
 - t-001
   global_id: t-185746
   teiginys: 'Prūsijoje plintantis liuteronizmas rado pasekėjų Gdanske ir sukėlė miesto gyvenimą sukrėtusius sambrūzdžius.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pašalintas boilerplate, pataisyta rašyba ir išvengta šaltinio vertinamojo žodžio.'
+  susije_objektai: 'mentioned_place: Prūsija'
   pagrindžia:
     - c-001
 
@@ -37,6 +42,10 @@ Nenurodyta
 - t-002
   global_id: t-185747
   teiginys: 'Atvykęs į Gdanską karalius dalį maištininkų nubaudė mirtimi, o pabėgusius įtraukė į pasmerktųjų sąrašus.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-002
 

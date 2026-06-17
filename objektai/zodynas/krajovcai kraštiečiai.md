@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Krajovcų demokratų srovė propagavo autonominę Lietuvą buvusios LDK ribose kaip daugiakultūrį lietuvių, lenkų, baltarusių ir tam tikra prasme žydų valstybinį darinį.
+Tokia pozicija nesivadovavo tik krašte neįtakingos radikalių kairiųjų, į komunistinę revoliuciją ir vadinamąjį proletarinį internacionalizmą besiorientavusios, nelegaliai veikusios organizacijos, vienas kitas intelektualas, taip pat negausi LDK valstybingumo.
 
 ## Teiginiai
 
@@ -23,6 +23,8 @@ Krajovcų demokratų srovė propagavo autonominę Lietuvą buvusios LDK ribose k
 - t-001
   global_id: t-23528
   teiginys: 'Krajovcų demokratų srovė propagavo autonominę Lietuvą buvusios LDK ribose kaip daugiakultūrį lietuvių, lenkų, baltarusių ir tam tikra prasme žydų valstybinį darinį.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltarusiai|Baltarusiai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/konfederacija|konfederacija]]; mentioned_object: [[objektai/zodynas/krajovcai|krajovcai]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -47,10 +49,3 @@ Krajovcų demokratų srovė propagavo autonominę Lietuvą buvusios LDK ribose k
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/konfederacija]]
-- [[objektai/grupes/Žydai]]
-- [[objektai/grupes/Baltarusiai]]
-- [[objektai/zodynas/krajovcai]]

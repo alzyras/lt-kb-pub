@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Albertui iš Meiseno, žygiuojant su broliais prieš tikėjimo priešus, prie burnos pasirodė komunijos paplotėlis. Albertas iš Meiseno, traukdamas su broliais prieš tikėjimo priešus, pasitraukė nuo kitų ir meldėsi dėl Kristaus kūno priėmimo. Dusburgiečio pasakojime Albertas iš Meiseno priėmė ore prie jo burnos pasirodžiusį komunijos paplotėlį.
+Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kronikininkas pasakoja asketinius ir stebuklinius epizodus.
 
 ## Teiginiai
 
@@ -21,6 +21,8 @@ Albertui iš Meiseno, žygiuojant su broliais prieš tikėjimo priešus, prie bu
 - t-001
   global_id: t-89608
   teiginys: 'Albertui iš Meiseno, žygiuojant su broliais prieš tikėjimo priešus, prie burnos pasirodė komunijos paplotėlis.'
+  sudarymo_pagrindimas: 'Citata palaiko konkretų pasakojamą įvykį, o pradinė formuluotė pernelyg abstrakti.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Paplotėlis|Paplotėlis]]; mentioned_person: [[objektai/asmenys/Albertas|Albertas]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]'
   pagrindžia:
     - c-003
 
@@ -28,6 +30,8 @@ Albertui iš Meiseno, žygiuojant su broliais prieš tikėjimo priešus, prie bu
 - t-002
   global_id: t-89609
   teiginys: 'Albertas iš Meiseno, traukdamas su broliais prieš tikėjimo priešus, pasitraukė nuo kitų ir meldėsi dėl Kristaus kūno priėmimo.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir turi antraštės triukšmo; citata palaiko pilną sakinį.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Paplotėlis|Paplotėlis]]; mentioned_person: [[objektai/asmenys/Albertas|Albertas]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]'
   pagrindžia:
     - c-003
 
@@ -35,6 +39,8 @@ Albertui iš Meiseno, žygiuojant su broliais prieš tikėjimo priešus, prie bu
 - t-003
   global_id: t-89610
   teiginys: 'Dusburgiečio pasakojime Albertas iš Meiseno priėmė ore prie jo burnos pasirodžiusį komunijos paplotėlį.'
+  sudarymo_pagrindimas: 'Pradinė formuluotė per ilga ir cituoja tiesioginę kalbą; pakanka glausto atribucinio teiginio.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Paplotėlis|Paplotėlis]]; mentioned_person: [[objektai/asmenys/Albertas|Albertas]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]'
   pagrindžia:
     - c-003
 
@@ -42,6 +48,7 @@ Albertui iš Meiseno, žygiuojant su broliais prieš tikėjimo priešus, prie bu
 - t-004
   global_id: t-89611
   teiginys: 'Dusburgietis pasakoja, kad kasdienė malda Albertui padėjo nugalėti pagundas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Deglas|Deglas]]'
   pagrindžia:
     - c-002
 
@@ -49,6 +56,7 @@ Albertui iš Meiseno, žygiuojant su broliais prieš tikėjimo priešus, prie bu
 - t-005
   global_id: t-89612
   teiginys: 'Dusburgietis pasakoja, kad albertas iš Meiseno šiame šaltinyje įvardijamas Karaliaučiaus pilies komtūru.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Albertas|Albertas]]'
   pagrindžia:
     - c-001
 
@@ -56,6 +64,8 @@ Albertui iš Meiseno, žygiuojant su broliais prieš tikėjimo priešus, prie bu
 - t-006
   global_id: t-89613
   teiginys: 'Albertas iš Meiseno buvo pilies komtūras, Dusburgiečio apibūdintas kaip Dievui atsidavęs ir pagirtinai gyvenęs vyras.'
+  sudarymo_pagrindimas: 'Citata remia vaidmenį ir autoriaus vertinimą, bet pradinė formuluotė yra neenciklopedinė.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Albertas|Albertas]]'
   pagrindžia:
     - c-006
 
@@ -63,6 +73,8 @@ Albertui iš Meiseno, žygiuojant su broliais prieš tikėjimo priešus, prie bu
 - t-007
   global_id: t-89614
   teiginys: 'Dusburgiečio pasakojime Albertas iš Meiseno kasdien kalbėjo maldą, kol jį liovėsi kamavusios pagundos.'
+  sudarymo_pagrindimas: 'Citata pateikia religinį pasakojimą; reikia aiškios atribucijos ir sutvarkyto asmens vardo.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Deglas|Deglas]]; mentioned_person: [[objektai/asmenys/Albertas|Albertas]]'
   pagrindžia:
     - c-004
 
@@ -70,6 +82,8 @@ Albertui iš Meiseno, žygiuojant su broliais prieš tikėjimo priešus, prie bu
 - t-008
   global_id: t-89615
   teiginys: 'Albertas iš Meiseno buvo viešpaties išgydytas, o plaukai taip jam ataugo, kad nė žymės nebeliko buvusio bjaurumo.'
+  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_person: [[objektai/asmenys/Albertas|Albertas]]'
   pagrindžia:
     - c-005
 
@@ -77,6 +91,11 @@ Albertui iš Meiseno, žygiuojant su broliais prieš tikėjimo priešus, prie bu
 - t-009
   global_id: t-184655
   teiginys: 'Pelužis pranešė Karaliaučiaus komtūrui Albertui iš Meiseno apie sumanymą, o šis jį parėmė.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata palaiko aiškesnį ir taisyklingą enciklopedinį sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Pelužis|Pelužis]]'
   pagrindžia:
     - c-007
 
@@ -198,16 +217,3 @@ Albertui iš Meiseno, žygiuojant su broliais prieš tikėjimo priešus, prie bu
   statusas: verified
   pagrindžia:
     - t-009
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Albertas]]
-- [[objektai/daiktai/Deglas]]
-- [[objektai/asmenys/Kūnas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/daiktai/Paplotėlis]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/Miera|miera]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/zodynas/komtūras]]
-- [[objektai/posakiai/O iškiliausioji meile, padaryk, kad tvirtai ir nuoširdžiai trokščiau tavęs]]

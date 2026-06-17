@@ -28,6 +28,7 @@ Fijalek, J.
 - t-001
   global_id: t-30611
   teiginys: 'J. Fijalek parašė darbą apie viduramžių Rytų bažnyčios vyskupystes Rusioje ir Lietuvoje.'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

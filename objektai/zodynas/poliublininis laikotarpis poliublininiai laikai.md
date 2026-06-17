@@ -5,6 +5,7 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1569 m.'
+  - '1931 m.'
   - '1933 m.'
 date_start: '1569'
 date_end: '1933'
@@ -23,7 +24,7 @@ amziai:
 
 ## Santrauka
 
-Adolfas Šapoka daugiausia tyrinėjo poliublininius laikus ir nuo 1931 m. skelbė straipsnius periodikoje apie lietuvius po Liublino unijos. Poliublininiais amžiais lietuvių istorikams lietuvių pėdsakų teko ieškoti bendroje respublikoje. Pirmaisiais poliublininiais dešimtmečiais Stryjkovskis ryškino Lietuvos valstybinį patriotizmą ir gynė atskirą jos valstybinę sąmonę.
+Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pirmais poliublininiais dešimtmečiais, buvo tačiau gyvai per­ siėmęs stipria valstybingumo sąmone Lietuvos didikų, kurie neno­ rėjo sutikti su tuo, kas buvo įvykę Liubline. Narbuto laikų Kojalavičius paliko tradiciją po­ liublininiame laikotarpyje nebetęsti atskiros Lietuvos istorijos. Ypač jų reikėjo ieškoti bendroje respublikoje poliublininiais amžiais.
 
 ## Teiginiai
 
@@ -31,6 +32,11 @@ Adolfas Šapoka daugiausia tyrinėjo poliublininius laikus ir nuo 1931 m. skelb�
 - t-001
   global_id: t-103839
   teiginys: 'Adolfas Šapoka daugiausia tyrinėjo poliublininius laikus ir nuo 1931 m. skelbė straipsnius periodikoje apie lietuvius po Liublino unijos.'
+  sudarymo_pagrindimas: 'Pradiniame teiginyje yra neaiškus įvardis ir bibliografinio triukšmo.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/autoriai/A. Šapoka|A. Šapoka]]; mentioned_object: [[objektai/zodynas/duoklė|duoklė]]; mentioned_object: [[objektai/zodynas/poliublininis laikotarpis|poliublininis laikotarpis]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/autoriai/Adolfas Šapoka|Adolfas Šapoka]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Liublinas'
+  temporaliniai_duomenys: 'įvykio data: po 1931 m.; įvykio data: 1931 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradiniame teiginyje yra neaiškus įvardis ir bibliografinio triukšmo.'
   pagrindžia:
     - c-003
 
@@ -38,6 +44,7 @@ Adolfas Šapoka daugiausia tyrinėjo poliublininius laikus ir nuo 1931 m. skelb�
 - t-002
   global_id: t-103840
   teiginys: 'Poliublininiais amžiais lietuvių istorikams lietuvių pėdsakų teko ieškoti bendroje respublikoje.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/poliublininis laikotarpis|poliublininis laikotarpis]]; mentioned_object: [[objektai/posakiai/surasti lietuvius Lietuvos istorijoje|surasti lietuvius Lietuvos istorijoje]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -45,6 +52,8 @@ Adolfas Šapoka daugiausia tyrinėjo poliublininius laikus ir nuo 1931 m. skelb�
 - t-003
   global_id: t-103841
   teiginys: 'Pirmaisiais poliublininiais dešimtmečiais Stryjkovskis ryškino Lietuvos valstybinį patriotizmą ir gynė atskirą jos valstybinę sąmonę.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nusako Stryjkovskio veiklą poliublininiais dešimtmečiais ir yra paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/poliublininis laikotarpis|poliublininis laikotarpis]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -52,6 +61,9 @@ Adolfas Šapoka daugiausia tyrinėjo poliublininius laikus ir nuo 1931 m. skelb�
 - t-004
   global_id: t-103842
   teiginys: 'Poliublininiai laikai tapo laikotarpiu, kuriame istorikas ieškojo lietuvių ir nuo 1931 m. skelbė straipsnius periodikoje.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/autoriai/A. Šapoka|A. Šapoka]]; mentioned_object: [[objektai/zodynas/duoklė|duoklė]]; mentioned_object: [[objektai/zodynas/poliublininiai laikai|poliublininiai laikai]]; mentioned_object: [[objektai/zodynas/poliublininis laikotarpis|poliublininis laikotarpis]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Liublinas'
+  temporaliniai_duomenys: 'įvykio data: po 1931 m.; įvykio data: 1931 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-003
 
@@ -59,6 +71,8 @@ Adolfas Šapoka daugiausia tyrinėjo poliublininius laikus ir nuo 1931 m. skelb�
 - t-005
   global_id: t-103843
   teiginys: 'Kojalavičius, baigęs istoriją Žygimanto Augusto mirtimi, įtvirtino tradiciją iki T. Narbuto laikų nebetęsti atskiros Lietuvos istorijos po Liublino unijos.'
+  sudarymo_pagrindimas: 'Pradinis sakinys nepakankamai aiškiai nusako, kokia tradicija buvo palikta.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva; mentioned_place: Liublinas'
   pagrindžia:
     - c-004
 
@@ -130,21 +144,3 @@ Adolfas Šapoka daugiausia tyrinėjo poliublininius laikus ir nuo 1931 m. skelb�
   statusas: verified
   pagrindžia:
     - t-005
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/dinastija]]
-
-### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/asmenys/Augustas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/duoklė]]
-- [[objektai/zodynas/poliublininis laikotarpis]]
-- [[objektai/posakiai/surasti lietuvius Lietuvos istorijoje]]
-- [[objektai/zodynas/unija]]
-- [[objektai/asmenys/Žygimantas]]
-- [[objektai/autoriai/Adolfas Šapoka]]
-- [[objektai/zodynas/poliublininiai laikai]]
-- [[objektai/zodynas/valstybingumo sąmonė]]

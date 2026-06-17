@@ -10,7 +10,7 @@ atnaujinta: ''
 
 ## Santrauka
 
-Lietuvos metraštis teigia, kad Metraščio pasakojime vyskupo sode, kur buvo sukapoti pranciškonai, tebestovėjo kryžius. Lietuvos metraštis teigia, kad Per keturiolikos pranciškonų nužudymą Vilniuje septyni vienuoliai buvo sukapoti, o kiti septyni, pririšti prie kryžių, paleisti Nerimi žemyn. Lietuvos metraštis teigia, kad Keturiolikos pranciškonų nužudymas Vilniuje metraštyje aiškinamas pagonių nenoru turėti Romos tikėjimo krikščionių ir kerštu už dievų naikinimą.
+Bychovco kronikos pasakojime minima 14 pranciškonų nužudymo Vilniuje istorija. Pasakojimas siejamas su Algirdo laikais.
 
 ## Laikotarpis ir datos
 
@@ -35,28 +35,40 @@ Nenurodyta
 <a id="claim-t-187474"></a>
 - t-001
   global_id: t-187474
-  teiginys: 'Lietuvos metraštis teigia, kad Metraščio pasakojime vyskupo sode, kur buvo sukapoti pranciškonai, tebestovėjo kryžius.'
+  teiginys: 'Lietuvos metraščio pasakojime vyskupo sode, kur buvo sukapoti pranciškonai, tebestovėjo kryžius.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Pašalintas perteklinis „teigia, kad“ ir pataisyta sakinio struktūra.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/pagonys|pagonys]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
 <a id="claim-t-187475"></a>
 - t-002
   global_id: t-187475
-  teiginys: 'Lietuvos metraštis teigia, kad Per keturiolikos pranciškonų nužudymą Vilniuje septyni vienuoliai buvo sukapoti, o kiti septyni, pririšti prie kryžių, paleisti Nerimi žemyn.'
+  teiginys: 'Lietuvos metraščio pasakojime per pranciškonų nužudymą Vilniuje septyni vienuoliai buvo sukapoti, o kiti septyni, pririšti prie kryžių, paleisti Nerimi.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Pataisyta didžioji raidė ir palikta būtina metraščio atribucija.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/pagonys|pagonys]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
 <a id="claim-t-187476"></a>
 - t-003
   global_id: t-187476
-  teiginys: 'Lietuvos metraštis teigia, kad Keturiolikos pranciškonų nužudymas Vilniuje metraštyje aiškinamas pagonių nenoru turėti Romos tikėjimo krikščionių ir kerštu už dievų naikinimą.'
+  teiginys: 'Lietuvos metraštis pranciškonų nužudymą Vilniuje aiškina pagonių nenoru turėti Romos tikėjimo krikščionių ir kerštu už dievų naikinimą.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Motyvų ir religinio konflikto aiškinimas turi likti aiškiai atribuuotas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_object: [[objektai/zodynas/pagonys|pagonys]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
 <a id="claim-t-187477"></a>
 - t-004
   global_id: t-187477
-  teiginys: 'Lietuvos metraštis teigia, kad Algirdui žygiuojant prieš Maskvą, Vilniaus miestiečiai pagonys užpuolė pranciškonų vienuolyną, jį sudegino ir nužudė keturiolika vienuolių.'
+  teiginys: 'Lietuvos metraščio pasakojime Algirdui žygiuojant prieš Maskvą Vilniaus miestiečiai pagonys sudegino pranciškonų vienuolyną ir nužudė keturiolika vienuolių.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Religinio konflikto ir priešiško vaizdavimo atvejui palikta atribucija.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_group: [[objektai/grupes/Vilniaus miestiečių luomas|Vilniaus miestiečių luomas]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/pagonys|pagonys]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -85,18 +97,3 @@ Nenurodyta
     - t-002
     - t-003
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/daiktai/Kryžius]]
-- [[objektai/grupes/Pranciškonų ordinas]]
-- [[objektai/zodynas/Adynos|adynos]]
-- [[objektai/zodynas/didysis kunigaikštis]]
-- [[objektai/zodynas/metraštis]]
-- [[objektai/zodynas/pagonybė]]
-- [[objektai/zodynas/vaivada]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/zodynas/pagonys]]
-- [[objektai/grupes/Vilniaus miestiečių luomas]]
-- [[objektai/ivykiai/Vilniaus pranciškonų nužudymas apie 1345 m.]]

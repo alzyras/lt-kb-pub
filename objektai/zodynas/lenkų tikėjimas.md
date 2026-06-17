@@ -18,6 +18,11 @@ Vytautui priėmus lenkų tikėjimo krikštą, jam buvo duotas Aleksandro vardas.
 - t-001
   global_id: t-187551
   teiginys: 'Vytautui priėmus lenkų tikėjimo krikštą, jam buvo duotas Aleksandro vardas.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir pagrįstas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Patrikas|Patrikas]]; mentioned_place: Trakai'
   pagrindžia:
     - c-001
 
@@ -42,9 +47,3 @@ Vytautui priėmus lenkų tikėjimo krikštą, jam buvo duotas Aleksandro vardas.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/asmenys/Patrikas|Patrikas (kunigaikštis, XIV a.)]]
-- [[objektai/grupes/Lenkai]]

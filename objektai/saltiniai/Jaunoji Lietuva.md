@@ -31,6 +31,11 @@ Didžiulės reikšmės lietuvių tautinės savimonės plėtotei, plačiųjų lie
 - t-001
   global_id: t-101542
   teiginys: '1895 m. buvo išleistos Maironio knygos „Pavasario balsai“ ir „Jaunoji Lietuva“, o jo eilėraščiai virto liaudies dainomis.'
+  sudarymo_pagrindimas: 'Sakinys pilnas, gramatiškas ir susijęs su leidinio išleidimu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/autoriai/Jonas Basanavičius|Jonas Basanavičius]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/autoriai/Maironis|Maironis]]; mentioned_place: Kaimas'
+  temporaliniai_duomenys: 'įvykio data: 1895 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Sakinys pilnas, gramatiškas ir susijęs su leidinio išleidimu.'
   pagrindžia:
     - c-001
 
@@ -38,6 +43,11 @@ Didžiulės reikšmės lietuvių tautinės savimonės plėtotei, plačiųjų lie
 - t-002
   global_id: t-101543
   teiginys: '1895 m. išleisti Maironio „Pavasario balsai“ ir „Jaunoji Lietuva“, o jo eilėraščiai virto liaudies dainomis.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai ir glaustai perteikia citatos informaciją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/autoriai/Jonas Basanavičius|Jonas Basanavičius]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/autoriai/Maironis|Maironis]]; mentioned_place: Kaimas'
+  temporaliniai_duomenys: 'įvykio data: 1895 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai ir glaustai perteikia citatos informaciją.'
   pagrindžia:
     - c-001
 

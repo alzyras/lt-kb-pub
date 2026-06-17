@@ -3,6 +3,10 @@ tipas: autorius
 pavadinimas: 'Juozas Arnulfas Giedraitis'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1816 m.'
+date_start: '1816'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -10,6 +14,10 @@ tags:
   - kunigas
   - tauta
   - vyskupas
+amziai:
+  - 'XIX'
+periodo_grupes:
+  - 'naujieji laikai'
 ---
 # Juozas Arnulfas Giedraitis
 
@@ -18,18 +26,21 @@ tags:
 Žemaičių tautiškojo ir kultūriškojo judėjimo centras buvo vyskupo Juozo Arnulfo Giedraičio rezidencija — Alsėdžiai; pats vykupas buvo karštas žemaičių patriotas ir uolus švietimo rėmėjas.
 
 ## Teiginiai
+
 <a id="claim-t-01070"></a>
 - t-001
   global_id: t-01070
   teiginys: 'Juozas Arnulfas Giedraitis buvo laikomas karštu žemaičių patriotu ir uoliu švietimo rėmėju.'
+  sudarymo_pagrindimas: 'Reikia sutrumpinti ir sutelkti teiginį į asmenį.'
+  temporaliniai_duomenys: 'įvykio data: 1816 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia sutrumpinti ir sutelkti teiginį į asmenį.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Juozas Arnulfas Giedraitis buvo laikomas karštu žemaičių patriotu ir uoliu švietimo rėmėju.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Žemaičių tautiškojo ir kultūriškojo judėjimo centras buvo
@@ -38,10 +49,8 @@ tags:
     uolus švietimo rėmėjas. Jis išleido savo lietuviškąjį Šv. Rašto
     vertimą (1816 m.), jo raginami kunigai prie bažnyčių steigė
     mokyklas.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

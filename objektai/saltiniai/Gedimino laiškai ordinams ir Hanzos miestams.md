@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-1323 m. notaro parengtas autentiškas Gedimino laiškų ordinams ir Hanzos miestams dokumentas buvo Karaliaučiaus slaptajame archyve. Gedimino laiškai rodo valdovo siekį gausinti Lietuvos gyventojus, kelti gerovę ir kviesti amatininkus, žemdirbius bei dvasininkus. Foigtas ginčijo Gedimino laiškų autentiškumą ir teigė, kad juos parengė bei išsiuntinėjo Rygos arkivyskupas.
+406, pri­ simena dar vieną Gedimino dukrą, kuri esą buvusi anuomet garbingo riterio Dovydo, Gardino kašteliono, arba tiksliau kunigaikščio, viešpata­ vusio Gardino valdoje, žmona. Be to, iš jo laiško, rašyto po­ piežiui, matyti turėjus norų priimti krikščioniškąjį tikėjimą. IV, p. 627 sq.) autorius, kuris nenorėjo, kaip kad jo pirmtakai, Prūsijos kronikininkai, būti visada nešališkas lietuvių gen­ ties istorijos įvykių teisėjas, ginčija tų laiškų autentiškumą, tvirtinda­ mas esą buvo parengti ir išsiuntinė­ ti Rygos arkivyskupo.
 
 ## Teiginiai
 
@@ -29,6 +29,11 @@ amziai:
 - t-001
   global_id: t-172979
   teiginys: '1323 m. notaro parengtas autentiškas Gedimino laiškų ordinams ir Hanzos miestams dokumentas buvo Karaliaučiaus slaptajame archyve.'
+  sudarymo_pagrindimas: 'Pradinė formuluotė gramatiškai gremėzdiška; citata leidžia tiksliai suformuluoti faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Hanza|Hanza]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/autoriai/Kotzebue|Kotzebue]]; mentioned_place: Gardinas; mentioned_place: Prūsija; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1323 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinė formuluotė gramatiškai gremėzdiška; citata leidžia tiksliai suformuluoti faktą.'
   pagrindžia:
     - c-002
 
@@ -36,6 +41,8 @@ amziai:
 - t-002
   global_id: t-172980
   teiginys: 'Gedimino laiškai rodo valdovo siekį gausinti Lietuvos gyventojus, kelti gerovę ir kviesti amatininkus, žemdirbius bei dvasininkus.'
+  sudarymo_pagrindimas: 'Citata aiškiai palaiko platesnį faktinį teiginį apie laiškų turinį.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)|Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 
@@ -43,6 +50,8 @@ amziai:
 - t-003
   global_id: t-172981
   teiginys: 'Foigtas ginčijo Gedimino laiškų autentiškumą ir teigė, kad juos parengė bei išsiuntinėjo Rygos arkivyskupas.'
+  sudarymo_pagrindimas: 'Citata tiesiogiai pagrindžia teiginį, pradinė formuluotė apkrauta bibliografiniu triukšmu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Prūsija; mentioned_place: Ryga'
   pagrindžia:
     - c-004
 
@@ -50,6 +59,8 @@ amziai:
 - t-004
   global_id: t-172983
   teiginys: 'Gedimino laiškai buvo įdėti į papildymus kartu su vertimu į lenkų kalbą ir Foigto pastabomis.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)|Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Estija'
   pagrindžia:
     - c-001
 

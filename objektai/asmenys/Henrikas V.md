@@ -23,6 +23,9 @@ Anglijos istori­ joje yra išlikusių pėdsakų, kad anuomet žymus tos tautos 
 - t-001
   global_id: t-87908
   teiginys: 'Anglijos karalius Henrikas V pasitelkė teologą Tomą Waldeną į Vladislovo Jogailos derybas su kryžiuočiais.'
+  sudarymo_pagrindimas: 'Citata pagrindžia Henriko V veiksmą, pašalintas OCR triukšmas.'
+  susije_objektai: 'territory: Anglija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Anglija'
+  semantiniai_rysiai: '[[objektai/asmenys/Henrikas V|Henrikas V]] buvo valdovas Anglija'
   pagrindžia:
     - c-001
 
@@ -54,5 +57,4 @@ Anglijos istori­ joje yra išlikusių pėdsakų, kad anuomet žymus tos tautos 
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
+- Henrikas V buvo_valdovas [[objektai/vietos/Anglija]]

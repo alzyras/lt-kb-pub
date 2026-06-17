@@ -31,6 +31,11 @@ O [Ordino] broliai priešinasi jiems vyriškai, ir daugeliui buvo atimta gyvybė
 - t-001
   global_id: t-80718
   teiginys: 'Sembos vyskupo teisėjas Jonas Lonei žuvo Strėvos mūšyje kartu su penkiomis dešimtimis karių prie vėliavos.'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo ilgas kronikos fragmentas; citata leidžia suformuluoti aiškų faktą apie asmenį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Lankai|Lankai]]; mentioned_object: [[objektai/daiktai/Strėlės|Strėlės]]; mentioned_object: [[objektai/daiktai/Vėliavos|Vėliavos]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_object: [[objektai/zodynas/stabmeldžiai|stabmeldžiai]]; mentioned_object: [[objektai/zodynas/vyskupo teisėjas|vyskupo teisėjas]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Zygfridas iš Da[he]nfeldo|Zygfridas iš Da[he]nfeldo]]; mentioned_place: Lietuva; mentioned_place: Semba; mentioned_place: Smolenskas; mentioned_place: Strėva'
+  temporaliniai_duomenys: 'įvykio data: 1348 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys buvo ilgas kronikos fragmentas; citata leidžia suformuluoti aiškų faktą apie asmenį.'
   pagrindžia:
     - c-001
 
@@ -67,21 +72,3 @@ O [Ordino] broliai priešinasi jiems vyriškai, ir daugeliui buvo atimta gyvybė
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/daiktai/Lankai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/daiktai/Strėlės]]
-- [Zygfridas iš Da[he]nfeldo](/objektai/asmenys/Zygfridas%20i%C5%A1%20Da%5Bhe%5Dnfeldo)
-- [[objektai/zodynas/komtūras]]
-- [[objektai/zodynas/maršalas]]
-- [[objektai/zodynas/seniūnas]]
-- [[objektai/zodynas/stabmeldžiai]]
-- [[objektai/daiktai/Žirgai]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/asmenys/Jonas]]
-- [[objektai/daiktai/Vėliavos]]
-- [[objektai/zodynas/vyskupo teisėjas]]

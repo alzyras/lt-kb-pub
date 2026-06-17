@@ -4,9 +4,10 @@ pavadinimas: 'Lietuvos SSR Konstitucija (1940 m.)'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
+  - '1936 m.'
   - '1940 m.'
-date_start: '1940'
-date_end: ''
+date_start: '1936'
+date_end: '1940'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -27,6 +28,11 @@ Pavertus Lietuvą SSRS sudedamąja dalimi, savanoriškumo kamufliažo atsisakyta
 - t-001
   global_id: t-21137
   teiginys: '1940 m. Lietuvos SSR Konstitucija buvo patvirtinta pertvarkant Lietuvos valdymo sistemą pagal Sovietų Sąjungos modelį.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, o citata pagrindžia konstitucijos priėmimo kontekstą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Liaudies seimas|Liaudies seimas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lietuva; mentioned_place: SSRS'
+  temporaliniai_duomenys: 'įvykio data: po 1936 m.; įvykio data: 1936 m.; įvykio data: 1940 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs, o citata pagrindžia konstitucijos priėmimo kontekstą.'
   pagrindžia:
     - c-001
 

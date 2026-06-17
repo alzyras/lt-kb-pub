@@ -49,6 +49,11 @@ Nenurodyta
 - t-001
   global_id: t-78691
   teiginys: '1920 m. spalio 10 d. „Gediminas“ grįžo į Kauną, kur buvo įrengti nauji kulkosvaidžių vagonai ir patobulinti mūšiuose naudoti vagonai.'
+  sudarymo_pagrindimas: 'Reikia aiškiai įvardyti traukinį ir pašalinti kontekstinį „traukinys“.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Želigovskininkai|Želigovskininkai]]; mentioned_place: Gineičiai; mentioned_place: Kėdainiai'
+  temporaliniai_duomenys: 'įvykio data: 1920 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia aiškiai įvardyti traukinį ir pašalinti kontekstinį „traukinys“.'
   pagrindžia:
     - c-003
 
@@ -56,6 +61,8 @@ Nenurodyta
 - t-002
   global_id: t-78692
   teiginys: 'Rugsėjo 24 d. „Gediminas“ grįžo į Varėną ir kartu su 7-uoju pėstininkų pulku gynė Varėnos geležinkelio stotį nuo Lenkijos pajėgų.'
+  sudarymo_pagrindimas: 'Teiginys turi aiškų subjektą, veiksmą ir yra paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Suvalkai; mentioned_place: Varėna'
   pagrindžia:
     - c-004
 
@@ -63,6 +70,8 @@ Nenurodyta
 - t-003
   global_id: t-78693
   teiginys: 'Prie Smalėnų „Gediminas“ patrankomis ir kulkosvaidžiais rėmė Lietuvos kariuomenės pėstininkų veiksmus.'
+  sudarymo_pagrindimas: 'Teiginys gramatiškas, konkretus ir paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Smalėnai; mentioned_place: Suvalkai; mentioned_place: Varėna'
   pagrindžia:
     - c-005
 
@@ -70,6 +79,7 @@ Nenurodyta
 - t-004
   global_id: t-78694
   teiginys: 'Šarvuotajam traukiniui „Gediminas“ vadovavo plk. ltn. Jonas Kraucevičius.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas Kraucevičius|Jonas Kraucevičius]]'
   pagrindžia:
     - c-002
 
@@ -77,6 +87,11 @@ Nenurodyta
 - t-005
   global_id: t-78695
   teiginys: '1920 m. sausį Kauno geležinkelio dirbtuvėse pradėtas statyti pirmasis Lietuvos kariuomenės šarvuotasis traukinys „Gediminas“.'
+  sudarymo_pagrindimas: 'Teiginys pilnas, tikslus ir paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bermontininkai|Bermontininkai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/zodynas/Kariauna|Kariauna]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1920 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys pilnas, tikslus ir paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -161,14 +176,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Artilerija]]
-- [[objektai/grupes/Bermontininkai]]
-- [[objektai/asmenys/Gediminas]]
-- [[objektai/asmenys/Jonas]]
-- [[objektai/asmenys/Jonas Kraucevičius]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Želigovskininkai]]

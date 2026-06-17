@@ -19,7 +19,7 @@ amziai:
 
 ## Santrauka
 
-1613 m. Zemskinis susirinkimas išrinko caru Michailą Fiodorovičių Romanovą. 1613 m. Zemskinis susirinkimas išrinko caru Michailą Fiodorovičių Romanovą.
+Caru tapo 1613 m. Zemskinio susirinkimo išrinktas Michailas Fiodorovičius Romanovas.
 
 ## Teiginiai
 
@@ -27,6 +27,11 @@ amziai:
 - t-001
   global_id: t-41205
   teiginys: '1613 m. Zemskinis susirinkimas išrinko caru Michailą Fiodorovičių Romanovą.'
+  sudarymo_pagrindimas: 'Perrašymas aiškiau sieja veiksmą su note objektu.'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Romanova; mentioned_place: Smolenskas'
+  temporaliniai_duomenys: 'įvykio data: 1611 m.; įvykio data: 1613 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Perrašymas aiškiau sieja veiksmą su note objektu.'
   pagrindžia:
     - c-001
 
@@ -63,7 +68,3 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Michailas Fiodorovičius Romanovas]]

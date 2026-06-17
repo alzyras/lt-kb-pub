@@ -11,474 +11,750 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1237 m.'
+  - '1248 m.'
+  - '1251 m.'
   - '1253 m.'
+  - '1260 m.'
+  - '1261 m.'
   - '1410 m.'
   - '1430 m.'
 date_start: '1237'
 date_end: '1430'
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XIII'
-  - 'XV'
 tags:
   - grupe
   - ordinas
   - pilis
+amziai:
+  - 'XIII'
+  - 'XV'
 ---
 # Livonijos ordinas
 
 ## Santrauka
 
-1418 m. rugpjūčio 11 d. Livonijos ordino magistras iš Rygos rašė laišką Prūsijos magistrui. 1380 m. kovo 26 d. Rygoje sudarytos paliaubos tarp Livonijos magistro ir Lietuvos didžiojo kunigaikščio Jogailos. 1372 m. Lietuva vienu metu buvo puolama iš Prūsijos ir Livonijos.
+Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įvardijamas kaip Nemuną pasiekusi ir iš Žemaitijos išvesta ordino šaka.
 
 ## Teiginiai
+
 <a id="claim-t-179351"></a>
 - t-001
   global_id: t-179351
   teiginys: '1418 m. rugpjūčio 11 d. Livonijos ordino magistras iš Rygos rašė laišką Prūsijos magistrui.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/autoriai/Naruszewicz|Naruszewicz]]; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Ryga'
+  temporaliniai_duomenys: 'įvykio data: 1418 m.; įvykio data: 1419 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
-    - c-027
+    - c-024
 
 <a id="claim-t-179352"></a>
 - t-002
   global_id: t-179352
   teiginys: '1380 m. kovo 26 d. Rygoje sudarytos paliaubos tarp Livonijos magistro ir Lietuvos didžiojo kunigaikščio Jogailos.'
+  sudarymo_pagrindimas: 'Citata palaiko sakinį, bet pradinis teiginys be reikalo pasyvus; glaustesnė formuluotė išlaiko visus faktus.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/paliaubos|paliaubos]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Livonija'
+  temporaliniai_duomenys: 'įvykio data: 1380 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko sakinį, bet pradinis teiginys be reikalo pasyvus; glaustesnė formuluotė išlaiko visus faktus.'
   pagrindžia:
-    - c-048
+    - c-045
 
 <a id="claim-t-179354"></a>
 - t-003
   global_id: t-179354
   teiginys: '1372 m. Lietuva vienu metu buvo puolama iš Prūsijos ir Livonijos.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Nemunas; mentioned_place: Prūsai; mentioned_place: Prūsija'
+  temporaliniai_duomenys: 'įvykio data: 1372 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
-    - c-047
+    - c-044
+
+<a id="claim-t-179356"></a>
+- t-004
+  global_id: t-179356
+  teiginys: 'Maskvos ginklų sutriuškintas Livonijos ordino magistras Gotardas Ketleris patikėjo valdovui save, ordiną ir valdas.'
+  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir atkurtas pilnas sakinys apie Livonijos ordino magistrą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Augustinas|Augustinas]]; mentioned_person: [[objektai/asmenys/Gotardas Ketleris|Gotardas Ketleris]]; mentioned_place: Livonija; mentioned_place: Maskva'
+  pagrindžia:
+    - c-042
 
 <a id="claim-t-179357"></a>
 - t-005
   global_id: t-179357
-  teiginys: 'Maskvos ginklų sutriuškintas Livonijos ordino magistras Gotardas Ketleris patikėjo valdovui save, ordiną ir valdas.'
+  teiginys: 'Mindaugo krikštas nepašalino ordinų pavojaus, be to, buvo prarasta etninės Lietuvos dalis – Žemaitija.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir paremtas citata.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Mindaugo krikštas|Mindaugo krikštas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva; mentioned_place: Žemaitija'
   pagrindžia:
-    - c-045
+    - c-013
 
 <a id="claim-t-179358"></a>
 - t-006
   global_id: t-179358
-  teiginys: 'Mindaugo krikštas nepašalino ordinų pavojaus, be to, buvo prarasta etninės Lietuvos dalis – Žemaitija.'
+  teiginys: 'Rygiečių „Sühnenbrief“ teigė, kad jų bendradarbiavimas su pagonimis ordinui atnešė didelių nuostolių ir persekiojimų.'
+  sudarymo_pagrindimas: 'Originalas turi citatų, išnašos ir fragmentiškos formuluotės triukšmo.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Rygiečiai|Rygiečiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]'
+  temporaliniai_duomenys: 'įvykio data: 1331-1333; įvykio data: 1333 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Originalas turi citatų, išnašos ir fragmentiškos formuluotės triukšmo.'
   pagrindžia:
-    - c-016
+    - c-012
 
 <a id="claim-t-179359"></a>
 - t-007
   global_id: t-179359
-  teiginys: 'Rygiečių „Sühnenbrief“ teigė, kad jų bendradarbiavimas su pagonimis ordinui atnešė didelių nuostolių ir persekiojimų.'
+  teiginys: '1410 m. rugpjūtį Livonijos kariuomenė laivais atvyko į Sembą.'
+  susije_objektai: 'location: Livonija; location: Semba; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Livonija; mentioned_place: Semba'
+  semantiniai_rysiai: '[[objektai/grupes/Livonijos ordinas|Livonijos ordinas]] keliavo į Livonija; [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]] keliavo į Semba'
+  temporaliniai_duomenys: 'kelionės data: 1410 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Livonijos ordinas keliavo į Livonija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Livonijos ordinas keliavo į Semba“, o ne visam objekto laikotarpiui.'
   pagrindžia:
-    - c-015
+    - c-052
 
 <a id="claim-t-179360"></a>
 - t-008
   global_id: t-179360
-  teiginys: '1410 m. rugpjūtį Livonijos kariuomenė laivais atvyko į Sembą.'
+  teiginys: 'Per Prūsų ir Livonijos magistrų surengtą puotą Salyno suvažiavime Vytautas paskelbtas Lietuvos karaliumi.'
+  sudarymo_pagrindimas: 'Teiginys gramatiškas, enciklopedinis ir tiesiogiai atitinka citatos informaciją.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_object: [[objektai/zodynas/činšas|činšas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Prūsai; mentioned_place: Salynas'
   pagrindžia:
-    - c-055
+    - c-046
 
 <a id="claim-t-179362"></a>
 - t-009
   global_id: t-179362
-  teiginys: 'Per Prūsų ir Livonijos magistrų surengtą puotą Salyno suvažiavime Vytautas paskelbtas Lietuvos karaliumi.'
+  teiginys: '1364 m. sausį Livonijos kryžiuočių kariuomenė buvo įsiveržusi iki Žeimių.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys, paremtas citatos duomenimis.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Livonija; mentioned_place: Pernarava; mentioned_place: Veliuona'
+  temporaliniai_duomenys: 'įvykio data: 1364 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys, paremtas citatos duomenimis.'
   pagrindžia:
-    - c-049
+    - c-026
 
 <a id="claim-t-179363"></a>
 - t-010
   global_id: t-179363
-  teiginys: '1364 m. sausį Livonijos kryžiuočių kariuomenė buvo įsiveržusi iki Žeimių.'
+  teiginys: 'Apie 1396 m. Liksnoje rašytas laiškas buvo adresuotas Livonijos magistrui ir turėjo būti nedelsiant atiduotas.'
+  sudarymo_pagrindimas: 'Citata palaiko adresatą ir perdavimo nurodymą; pašalintos svetimkalbės nuotrupos.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Liksna; mentioned_place: Livonija'
+  temporaliniai_duomenys: 'įvykio data: 1396 m.; įvykio data: apie 1396 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko adresatą ir perdavimo nurodymą; pašalintos svetimkalbės nuotrupos.'
   pagrindžia:
-    - c-029
+    - c-014
 
 <a id="claim-t-179364"></a>
 - t-011
   global_id: t-179364
-  teiginys: 'Apie 1396 m. Liksnoje rašytas laiškas buvo adresuotas Livonijos magistrui ir turėjo būti nedelsiant atiduotas.'
+  teiginys: 'Kryžiuočiai siekė užkariauti Žemaitiją kaip sausumos jungtį su Livonijos ordinu.'
+  sudarymo_pagrindimas: 'Pradinis fragmentas per silpnas, bet citata palaiko aiškesnį faktą apie Livonijos ordiną.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Livonija'
   pagrindžia:
-    - c-017
+    - c-006
 
 <a id="claim-t-179365"></a>
 - t-012
   global_id: t-179365
-  teiginys: 'Kryžiuočiai siekė užkariauti Žemaitiją kaip sausumos jungtį su Livonijos ordinu.'
+  teiginys: '1364 m. žiemą Livonijos kryžiuočių kariuomenė buvo įsiveržusi iki Žeimių.'
+  sudarymo_pagrindimas: 'Teiginys aiškus, faktinis ir pagrįstas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Livonija; mentioned_place: Pernarava; mentioned_place: Veliuona'
+  temporaliniai_duomenys: 'įvykio data: 1364 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškus, faktinis ir pagrįstas citata.'
   pagrindžia:
-    - c-006
+    - c-026
 
 <a id="claim-t-179366"></a>
 - t-013
   global_id: t-179366
-  teiginys: '1364 m. žiemą Livonijos kryžiuočių kariuomenė buvo įsiveržusi iki Žeimių.'
+  teiginys: 'Vytautas sudarė paliaubų sutartį su Livonijos ordino šaka, todėl ji nedalyvavo Tanenbergo mūšyje.'
+  sudarymo_pagrindimas: 'Pašalintos perteklinės formuluotės ir patikslintas teiginys apie Livonijos ordino šaką.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Lenkija; mentioned_place: Livonija; mentioned_place: Tanenbergas; mentioned_place: Vysla'
+  temporaliniai_duomenys: 'įvykio data: 1410 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintos perteklinės formuluotės ir patikslintas teiginys apie Livonijos ordino šaką.'
   pagrindžia:
-    - c-029
+    - c-051
+
+<a id="claim-t-179367"></a>
+- t-014
+  global_id: t-179367
+  teiginys: 'Vytautas su Smolensko pulkais po keturių savaičių apgulties atgavo Švitrigailos ir Livonijos užimtą Vitebską.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas citata apie Vytautą, Smolensko pulkus ir Vitebsko atgavimą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lenkija; mentioned_place: Livonija; mentioned_place: Smolenskas; mentioned_place: Tanenbergas; mentioned_place: Vitebskas; mentioned_place: Vysla'
+  temporaliniai_duomenys: 'įvykio data: 1410 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir paremtas citata apie Vytautą, Smolensko pulkus ir Vitebsko atgavimą.'
+  pagrindžia:
+    - c-037
 
 <a id="claim-t-179368"></a>
 - t-015
   global_id: t-179368
-  teiginys: 'Vytautas su Smolensko pulkais po keturių savaičių apgulties atgavo Švitrigailos ir Livonijos užimtą Vitebską.'
+  teiginys: 'Livonijos ordinas nebenorėjo paklusti Rygos arkivyskupui, pas kurį krikštijosi Tautvilas.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nusako Livonijos ordino santykį su Rygos arkivyskupu ir yra paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_person: [[objektai/asmenys/Tautvilas|Tautvilas]]; mentioned_place: Livonija; mentioned_place: Ryga'
   pagrindžia:
-    - c-040
+    - c-003
 
 <a id="claim-t-179369"></a>
 - t-016
   global_id: t-179369
-  teiginys: 'Livonijos ordinas nebenorėjo paklusti Rygos arkivyskupui, pas kurį krikštijosi Tautvilas.'
+  teiginys: '1557 m. Vilniuje sutelkta kariuomenė žygiavo į Livoniją prieš didįjį Kalavijuočių ordino magistrą Firstembergą.'
+  sudarymo_pagrindimas: 'Nutrūkęs tekstas sutrumpintas į aiškų sakinį apie žygį prieš Livonijos ordino magistrą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Livonija; mentioned_place: Podolė; mentioned_place: Ukraina; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1557 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Nutrūkęs tekstas sutrumpintas į aiškų sakinį apie žygį prieš Livonijos ordino magistrą.'
   pagrindžia:
-    - c-003
+    - c-016
 
 <a id="claim-t-179370"></a>
 - t-017
   global_id: t-179370
-  teiginys: '1557 m. Vilniuje sutelkta kariuomenė žygiavo į Livoniją prieš didįjį Kalavijuočių ordino magistrą Firstembergą.'
+  teiginys: 'Livonijos ordinas atskubėjo į pagalbą kryžiuočiams, o Vytautas turėjo trauktis Vilniaus link.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiksliai perteikia citatos faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Livonija; mentioned_place: Vilnius'
   pagrindžia:
-    - c-019
+    - c-004
 
 <a id="claim-t-179371"></a>
 - t-018
   global_id: t-179371
-  teiginys: 'Livonijos ordinas atskubėjo į pagalbą kryžiuočiams, o Vytautas turėjo trauktis Vilniaus link.'
+  teiginys: 'Ordino kronikose 1345-1382 m. užregistruoti 66 žygiai į Lietuvą iš Prūsijos ir 30 iš Livonijos.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Prūsai; mentioned_place: Prūsija'
+  temporaliniai_duomenys: 'įvykio data: 1345-1382; įvykio data: 1382 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
-    - c-004
+    - c-030
 
 <a id="claim-t-179373"></a>
 - t-019
   global_id: t-179373
-  teiginys: 'Ordino kronikose 1345-1382 m. užregistruoti 66 žygiai į Lietuvą iš Prūsijos ir 30 iš Livonijos.'
+  teiginys: 'Salyno suvažiavime per Prūsų ir Livonijos magistrų surengtą puotą Vytautas buvo paskelbtas Lietuvos karaliumi.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiksliai paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_object: [[objektai/zodynas/činšas|činšas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Prūsai; mentioned_place: Salynas'
   pagrindžia:
-    - c-033
+    - c-046
 
 <a id="claim-t-179374"></a>
 - t-020
   global_id: t-179374
-  teiginys: 'Salyno suvažiavime per Prūsų ir Livonijos magistrų surengtą puotą Vytautas buvo paskelbtas Lietuvos karaliumi.'
+  teiginys: '1398 m. spalio 12 d. Salyno sutarties ratifikavime dalyvavo Prūsų ir Livonijos ordinų magistrai, Varmijos ir Sambijos vyskupai bei daug komtūrų.'
+  sudarymo_pagrindimas: 'Citata leidžia papildyti datą ir suvienodinti formuluotę.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Livonija; mentioned_place: Prūsai; mentioned_place: Salynas'
+  temporaliniai_duomenys: 'įvykio data: 1398 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata leidžia papildyti datą ir suvienodinti formuluotę.'
   pagrindžia:
-    - c-049
+    - c-034
 
 <a id="claim-t-179375"></a>
 - t-021
   global_id: t-179375
-  teiginys: '1398 m. spalio 12 d. Salyno sutarties ratifikavime dalyvavo Prūsų ir Livonijos ordinų magistrai, Varmijos ir Sambijos vyskupai bei daug komtūrų.'
+  teiginys: 'Nuo Mindaugo krikšto Livonijos ordinas buvo įgijęs įtakos Lietuvos vidaus santykiams.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva; mentioned_place: Livonija'
   pagrindžia:
-    - c-037
+    - c-031
 
 <a id="claim-t-179377"></a>
 - t-022
   global_id: t-179377
-  teiginys: 'Nuo Mindaugo krikšto Livonijos ordinas buvo įgijęs įtakos Lietuvos vidaus santykiams.'
+  teiginys: '1323 m. spalio 2 d. Lietuva Vilniuje sudarė taikos sutartį su Livonijos vyskupais, Livonijos ordinu, Ryga ir Revelio danų vietininku.'
+  sudarymo_pagrindimas: 'Teiginys pilnas ir tiesiogiai susijęs su Livonijos ordinu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Europa; mentioned_place: Kelnas; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Revelis; mentioned_place: Ryga; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1323 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys pilnas ir tiesiogiai susijęs su Livonijos ordinu.'
   pagrindžia:
-    - c-034
+    - c-020
 
 <a id="claim-t-179378"></a>
 - t-023
   global_id: t-179378
-  teiginys: '1323 m. spalio 2 d. Lietuva Vilniuje sudarė taikos sutartį su Livonijos vyskupais, Livonijos ordinu, Ryga ir Revelio danų vietininku.'
+  teiginys: 'Livonijos Ordinas įtikinėjo Naugardą ir Maskvą, kad Vytauto planai jiems yra pražūtingi, kadangi jis siekiąs užvaldyti visas rusų žemes.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nusako Livonijos ordino veiksmą ir yra paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Konstancija; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Naugardas'
   pagrindžia:
-    - c-023
+    - c-047
 
 <a id="claim-t-179379"></a>
 - t-024
   global_id: t-179379
-  teiginys: 'Livonijos Ordinas įtikinėjo Naugardą ir Maskvą, kad Vytauto planai jiems yra pražūtingi, kadangi jis siekiąs užvaldyti visas rusų žemes.'
+  teiginys: 'Livonijos ordinas sudarė su Pskovu dešimties metų sutartį, nukreiptą prieš Vytautą.'
+  sudarymo_pagrindimas: 'Pašalinta fragmentinė pradžia ir perteiktas citatos palaikomas faktas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Konstancija; mentioned_place: Livonija; mentioned_place: Naugardas; mentioned_place: Pskovas'
   pagrindžia:
-    - c-050
+    - c-022
 
 <a id="claim-t-179381"></a>
 - t-025
   global_id: t-179381
-  teiginys: 'Livonijos ordinas sudarė su Pskovu dešimties metų sutartį, nukreiptą prieš Vytautą.'
+  teiginys: '1260 m. Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių ordinų pajėgos.'
+  sudarymo_pagrindimas: 'Pašalintas perteklinis kontekstas, palikta aiški faktinė tezė apie Ordino pajėgas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Estai|Estai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/kryžininkai|kryžininkai]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Revelis; mentioned_place: Vokietija'
+  temporaliniai_duomenys: 'įvykio data: 1260 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas perteklinis kontekstas, palikta aiški faktinė tezė apie Ordino pajėgas.'
   pagrindžia:
-    - c-025
+    - c-041
 
 <a id="claim-t-179382"></a>
 - t-026
   global_id: t-179382
-  teiginys: '1260 m. Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių ordinų pajėgos.'
+  teiginys: 'Karaliaučiaus Slaptajame archyve saugoto laiško adresas nurodė jį nedelsiant atiduoti Livonijos magistrui.'
+  sudarymo_pagrindimas: 'Citata palaiko aiškesnį teiginį su konkretesniu laiško apibūdinimu.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Lenkija; mentioned_place: Livonija; mentioned_place: Tanenbergas; mentioned_place: Vysla'
+  temporaliniai_duomenys: 'įvykio data: 1410 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko aiškesnį teiginį su konkretesniu laiško apibūdinimu.'
   pagrindžia:
-    - c-044
+    - c-037
 
 <a id="claim-t-179384"></a>
 - t-027
   global_id: t-179384
-  teiginys: 'Karaliaučiaus Slaptajame archyve saugoto laiško adresas nurodė jį nedelsiant atiduoti Livonijos magistrui.'
+  teiginys: '1251 m. Mindaugas perleido didelę dalį Žemaitijos Livonijos ordinui mainais į krikštą.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Mindaugo krikštas|Mindaugo krikštas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Klemensas IV|Klemensas IV]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva; mentioned_place: Livonija'
+  temporaliniai_duomenys: 'įvykio data: 1251 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
-    - c-040
+    - c-011
 
 <a id="claim-t-179387"></a>
 - t-028
   global_id: t-179387
-  teiginys: '1251 m. Mindaugas perleido didelę dalį Žemaitijos Livonijos ordinui mainais į krikštą.'
+  teiginys: '1380 m. Jogaila sudarė paliaubas su Livonijos magistru Rygoje, apeidamas Kęstutį ir jo Žemaitijos kunigaikštystę.'
+  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir išplėstas veikėjas pagal citatą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/paliaubos|paliaubos]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Livonija; mentioned_place: Polockas'
+  temporaliniai_duomenys: 'įvykio data: 1380 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas OCR triukšmas ir išplėstas veikėjas pagal citatą.'
   pagrindžia:
-    - c-014
+    - c-032
 
 <a id="claim-t-179388"></a>
 - t-029
   global_id: t-179388
-  teiginys: '1380 m. Jogaila sudarė paliaubas su Livonijos magistru Rygoje, apeidamas Kęstutį ir jo Žemaitijos kunigaikštystę.'
+  teiginys: 'Gedimino vardu rašytų laiškų klastojimas citatoje siejamas su Rygos arkivyskupo ir Livonijos ordino brolių konfliktu.'
+  sudarymo_pagrindimas: 'Pirminis teiginys apie autorių, o citata geriau pagrindžia ryšį su Livonijos ordinu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Livonija; mentioned_place: Ryga; mentioned_place: Vokietija'
   pagrindžia:
-    - c-035
+    - c-010
 
 <a id="claim-t-179389"></a>
 - t-030
   global_id: t-179389
-  teiginys: 'Gedimino vardu rašytų laiškų klastojimas citatoje siejamas su Rygos arkivyskupo ir Livonijos ordino brolių konfliktu.'
+  teiginys: 'Priartėjus Livonijos magistro vedamiems pulkams, Valenrodo kariauna pasuko Vilniaus link.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Vilnius'
   pagrindžia:
-    - c-013
+    - c-023
 
 <a id="claim-t-179390"></a>
 - t-031
   global_id: t-179390
-  teiginys: 'Priartėjus Livonijos magistro vedamiems pulkams, Valenrodo kariauna pasuko Vilniaus link.'
+  teiginys: 'Dinaburgo komtūras pranešė Livonijos magistrui, kad Švitrigaila, išleistas iš nelaisvės, vėl traukia į mūšio lauką.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiksliai perteikia citatos informaciją apie pranešimą Livonijos magistrui.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Dinaburgas; mentioned_place: Livonija; mentioned_place: Vengrija; mentioned_place: Vilnius'
   pagrindžia:
-    - c-026
+    - c-040
 
 <a id="claim-t-179391"></a>
 - t-032
   global_id: t-179391
-  teiginys: 'Dinaburgo komtūras pranešė Livonijos magistrui, kad Švitrigaila, išleistas iš nelaisvės, vėl traukia į mūšio lauką.'
+  teiginys: 'Nuo 1237 m. Livonijos ordinas buvo Kryžiuočių ordino šaka, bet faktiškai veikė atskirai ir vykdė savarankišką politiką.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Livonija'
+  temporaliniai_duomenys: 'įvykio data: po 1237 m.; įvykio data: 1237 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
-    - c-043
+    - c-001
+
+<a id="claim-t-179392"></a>
+- t-033
+  global_id: t-179392
+  teiginys: 'Vytautas sudarė paliaubų sutartį su livoniškąja Ordino šaka, todėl ji nedalyvavo Tanenbergo mūšyje.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Lenkija; mentioned_place: Tanenbergas; mentioned_place: Vysla'
+  temporaliniai_duomenys: 'įvykio data: 1410 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  pagrindžia:
+    - c-051
+
+<a id="claim-t-179393"></a>
+- t-034
+  global_id: t-179393
+  teiginys: 'Mūšyje žuvo daug livoniečių, tarp jų Kalavijuočių riterių ordino magistras Frankas Kirskorffas.'
+  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir išlaikytas citatos faktas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Frankas Kirskorffas|Frankas Kirskorffas]]'
+  pagrindžia:
+    - c-029
 
 <a id="claim-t-179394"></a>
 - t-035
   global_id: t-179394
-  teiginys: 'Mūšyje žuvo daug livoniečių, tarp jų Kalavijuočių riterių ordino magistras Frankas Kirskorffas.'
+  teiginys: '1424 m. Niešavos sutartis leido Lietuvos, Žemaičių, Lenkijos, Maskvos ir Rusijos pirkliams laisvai prekiauti Vokiečių ir Livonijos ordinų žemėse.'
+  sudarymo_pagrindimas: 'Citata mini ir Vokiečių ordino žemes, todėl teiginį reikia patikslinti.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Niešava; mentioned_place: Rusija'
+  temporaliniai_duomenys: 'sutarties data: 1424 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata mini ir Vokiečių ordino žemes, todėl teiginį reikia patikslinti.'
   pagrindžia:
-    - c-032
+    - c-007
 
 <a id="claim-t-179396"></a>
 - t-036
   global_id: t-179396
-  teiginys: '1424 m. Niešavos sutartis leido Lietuvos, Žemaičių, Lenkijos, Maskvos ir Rusijos pirkliams laisvai prekiauti Vokiečių ir Livonijos ordinų žemėse.'
+  teiginys: 'Ordino kronikose 1345–1382 m. suregistruoti 66 Prūsų kryžiuočių ir 30 Livonijos žygių.'
+  sudarymo_pagrindimas: 'Teiginys glaustai perteikia citatoje pateiktus žygių skaičius.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Livonija; mentioned_place: Prūsai'
+  temporaliniai_duomenys: 'įvykio data: 1345-1382; įvykio data: 1382 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys glaustai perteikia citatoje pateiktus žygių skaičius.'
   pagrindžia:
-    - c-007
+    - c-009
 
 <a id="claim-t-179398"></a>
 - t-037
   global_id: t-179398
-  teiginys: 'Ordino kronikose 1345–1382 m. suregistruoti 66 Prūsų kryžiuočių ir 30 Livonijos žygių.'
+  teiginys: 'Taikos sutartyje Livonijos ordino pusėje buvo minimi tarpininkai, tarp jų Rygos arkivyskupas, kapitula ir miesto atstovai.'
+  sudarymo_pagrindimas: 'Triukšmingas išnašų fragmentas perrašytas į atsargų, citata pagrįstą faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Dorpatas; mentioned_place: Livonija; mentioned_place: Mintauja; mentioned_place: Prūsija; mentioned_place: Ryga; mentioned_place: Saremas'
   pagrindžia:
-    - c-012
+    - c-015
 
 <a id="claim-t-179399"></a>
 - t-038
   global_id: t-179399
-  teiginys: 'Taikos sutartyje Livonijos ordino pusėje buvo minimi tarpininkai, tarp jų Rygos arkivyskupas, kapitula ir miesto atstovai.'
-  pagrindžia:
-    - c-018
-
-<a id="claim-t-179400"></a>
-- t-039
-  global_id: t-179400
   teiginys: 'Švitrigaila po nesėkmės prie Vilniaus prikalbino Livonijos ordino riterius kartu pulti Vitebską.'
+  sudarymo_pagrindimas: 'Sakinys sutrumpintas ir išvalytas nuo OCR triukšmo.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Livonija; mentioned_place: Podolė; mentioned_place: Riazanė; mentioned_place: Severskas; mentioned_place: Vilnius; mentioned_place: Vitebskas'
   pagrindžia:
-    - c-051
+    - c-048
+
+<a id="claim-t-179402"></a>
+- t-040
+  global_id: t-179402
+  teiginys: 'Jogailos kariuomenė kartu su Livonijos magistru pasiuntė būrius Skirgailai į pagalbą prie Polocko.'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo apie Kęstutį, todėl perrašyta į citatoje pagrįstą faktą apie Livonijos magistrą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Livonija; mentioned_place: Polockas'
+  pagrindžia:
+    - c-050
 
 <a id="claim-t-179405"></a>
 - t-041
   global_id: t-179405
-  teiginys: 'Jogailos kariuomenė kartu su Livonijos magistru pasiuntė būrius Skirgailai į pagalbą prie Polocko.'
+  teiginys: 'Švitrigaila prikalbino Livonijos ordino riterius kartu su juo pulti Vitebską.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir tiesiogiai paremtas citata apie Livonijos ordino riterius.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Livonija; mentioned_place: Vilnius; mentioned_place: Vitebskas'
   pagrindžia:
-    - c-053
+    - c-039
 
 <a id="claim-t-179406"></a>
 - t-042
   global_id: t-179406
-  teiginys: 'Švitrigaila prikalbino Livonijos ordino riterius kartu su juo pulti Vitebską.'
+  teiginys: '1248 m. Mindaugo giminaičių opozicija į pagalbą pasitelkė Livonijos ordiną ir Voluinę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Livonija; mentioned_place: Voluinė'
+  temporaliniai_duomenys: 'įvykio data: 1248 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
-    - c-042
+    - c-017
 
 <a id="claim-t-179407"></a>
 - t-043
   global_id: t-179407
-  teiginys: '1248 m. Mindaugo giminaičių opozicija į pagalbą pasitelkė Livonijos ordiną ir Voluinę.'
+  teiginys: 'Konstancijos susirinkimas paskyrė Vytautą Livonijos vyskupų globėju, nes Livonijos ordinas dažnai skriausdavo šias vyskupijas.'
+  sudarymo_pagrindimas: 'Reikia sklandesnio veiksmažodžio ir taisyklingos rašybos.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Konstancijos susirinkimas (1414–1418 m.)|Konstancijos susirinkimas (1414–1418 m.)]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Konstancija; mentioned_place: Lietuva; mentioned_place: Livonija'
   pagrindžia:
-    - c-020
+    - c-025
 
 <a id="claim-t-179408"></a>
 - t-044
   global_id: t-179408
-  teiginys: 'Konstancijos susirinkimas paskyrė Vytautą Livonijos vyskupų globėju, nes Livonijos ordinas dažnai skriausdavo šias vyskupijas.'
+  teiginys: 'Livonijos magistro vedami pulkai prisijungė prie Valenrodo lauktos kariuomenės, kuri po Ukmergės ir Visevaldės užėmimo pasuko Vilniaus link.'
+  sudarymo_pagrindimas: 'Ilgas OCR fragmentas perrašytas į vientisą sakinį apie Livonijos ordino pajėgas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Ukmergė; mentioned_place: Vilnius'
   pagrindžia:
-    - c-028
+    - c-023
 
 <a id="claim-t-179409"></a>
 - t-045
   global_id: t-179409
-  teiginys: 'Livonijos magistro vedami pulkai prisijungė prie Valenrodo lauktos kariuomenės, kuri po Ukmergės ir Visevaldės užėmimo pasuko Vilniaus link.'
+  teiginys: 'Livonijos ordino atstovai nebuvo įsileisti į taikos derybas, todėl Aleksandras turėjo atsisakyti savo sąjungininko.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Viena'
   pagrindžia:
-    - c-026
+    - c-018
+
+<a id="claim-t-179410"></a>
+- t-046
+  global_id: t-179410
+  teiginys: '1251 m. Mindaugas krikštijosi, mainais perleidęs didelę dalį Žemaitijos Livonijos ordinui.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiksliai atitinka citatą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Livonija'
+  temporaliniai_duomenys: 'įvykio data: 1251 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir tiksliai atitinka citatą.'
+  pagrindžia:
+    - c-002
 
 <a id="claim-t-179411"></a>
 - t-047
   global_id: t-179411
-  teiginys: '1251 m. Mindaugas krikštijosi, mainais perleidęs didelę dalį Žemaitijos Livonijos ordinui.'
+  teiginys: 'Kunigaikštis Mykolas vedė lenkų ir lietuvių pulkus prieš Švitrigailą ir Livonijos magistrą ir laimėjo netoli Ukmergės.'
+  sudarymo_pagrindimas: 'Nutrūkęs fragmentas perrašytas į pilną faktinį sakinį.'
+  susije_objektai: 'territory: Lietuva; territory: Livonija; territory: Ukmergė; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/autoriai/Kotzebue|Kotzebue]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Ukmergė'
+  semantiniai_rysiai: '[[objektai/grupes/Livonijos ordinas|Livonijos ordinas]] susiję su Lietuva; [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]] susiję su Livonija; [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]] susiję su Ukmergė'
   pagrindžia:
-    - c-002
+    - c-043
 
 <a id="claim-t-179412"></a>
 - t-048
   global_id: t-179412
-  teiginys: 'Kunigaikštis Mykolas vedė lenkų ir lietuvių pulkus prieš Švitrigailą ir Livonijos magistrą ir laimėjo netoli Ukmergės.'
+  teiginys: 'Lietuvos valdovai į kovą prieš Ordiną įtraukė visą Lietuvos Didžiąją Kunigaikštiją.'
+  sudarymo_pagrindimas: 'Reikia aiškesnės ir enciklopedinės formos su pilnu valstybės pavadinimu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Prūsai; mentioned_place: Viena; mentioned_place: Volga'
   pagrindžia:
-    - c-046
+    - c-035
 
 <a id="claim-t-179413"></a>
 - t-049
   global_id: t-179413
-  teiginys: 'Lietuvos valdovai į kovą prieš Ordiną įtraukė visą Lietuvos Didžiąją Kunigaikštiją.'
+  teiginys: '1372 m. kryžiuočiai Lietuvą puolė vienu metu iš Prūsijos ir Livonijos.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Nemunas; mentioned_place: Prūsai; mentioned_place: Prūsija'
+  temporaliniai_duomenys: 'įvykio data: 1372 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
-    - c-038
+    - c-044
 
 <a id="claim-t-179414"></a>
 - t-050
   global_id: t-179414
-  teiginys: '1372 m. kryžiuočiai Lietuvą puolė vienu metu iš Prūsijos ir Livonijos.'
+  teiginys: 'Livonijos ordinas sudarė su Pskovu 10 metų sutartį, nukreiptą prieš Vytautą.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai pagrįstas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Konstancija; mentioned_place: Livonija; mentioned_place: Naugardas; mentioned_place: Pskovas'
   pagrindžia:
-    - c-047
+    - c-022
 
 <a id="claim-t-179415"></a>
 - t-051
   global_id: t-179415
-  teiginys: 'Livonijos ordinas sudarė su Pskovu 10 metų sutartį, nukreiptą prieš Vytautą.'
-  pagrindžia:
-    - c-025
-
-<a id="claim-t-179416"></a>
-- t-052
-  global_id: t-179416
   teiginys: 'Vytautas Konstancijoje atakavo Vokiečių ir Livonijos ordinus, pasinaudodamas Žemaičių krikštu.'
+  sudarymo_pagrindimas: 'Teiginys yra glaustas, faktinis ir paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Konstancija; mentioned_place: Lietuva; mentioned_place: Livonija'
   pagrindžia:
     - c-005
+
+<a id="claim-t-179417"></a>
+- t-053
+  global_id: t-179417
+  teiginys: '1260 m. liepos 13 d. Durbės mūšyje buvo sutriuškinta Livonijos ordino šaka, Prūsijos kryžiuočiai ir jų talkininkai.'
+  sudarymo_pagrindimas: 'Pradiniame teiginyje trūksta note objekto, o citata pagrindžia aiškesnį teiginį apie Livonijos ordiną.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Durbės mūšis (1260 m.)|Durbės mūšis (1260 m.)]]; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_place: Durbė; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Prūsija'
+  temporaliniai_duomenys: 'įvykio data: 1260 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradiniame teiginyje trūksta note objekto, o citata pagrindžia aiškesnį teiginį apie Livonijos ordiną.'
+  pagrindžia:
+    - c-008
 
 <a id="claim-t-179420"></a>
 - t-054
   global_id: t-179420
-  teiginys: '1260 m. liepos 13 d. Durbės mūšyje buvo sutriuškinta Livonijos ordino šaka, Prūsijos kryžiuočiai ir jų talkininkai.'
+  teiginys: 'Taikos sutartyje iš Livonijos ordino atstovų paminėti tik Mintaujos komtūras Jonas de Lovenbinkė ir brolis Otto iš Eželio.'
+  sudarymo_pagrindimas: 'Esamas teiginys gramatiškai gremėzdiškas; citata leidžia suformuluoti aiškiau.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas de Lovenbinkė|Jonas de Lovenbinkė]]; mentioned_place: Dorpatas; mentioned_place: Livonija; mentioned_place: Mintauja; mentioned_place: Prūsija; mentioned_place: Ryga; mentioned_place: Saremas'
   pagrindžia:
-    - c-011
+    - c-015
 
 <a id="claim-t-179421"></a>
 - t-055
   global_id: t-179421
-  teiginys: 'Taikos sutartyje iš Livonijos ordino atstovų paminėti tik Mintaujos komtūras Jonas de Lovenbinkė ir brolis Otto iš Eželio.'
+  teiginys: 'Livonijos ordinas ir kariuomenė iš Prūsų atskubėjo kryžiuočiams į pagalbą, kai Vytautas puolė pilį atstatančius priešus.'
+  sudarymo_pagrindimas: 'Pašalinta fragmentinė pradžia ir OCR triukšmas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Livonija; mentioned_place: Prūsai; mentioned_place: Vilnius'
   pagrindžia:
-    - c-018
+    - c-049
 
 <a id="claim-t-179422"></a>
 - t-056
   global_id: t-179422
-  teiginys: 'Livonijos ordinas ir kariuomenė iš Prūsų atskubėjo kryžiuočiams į pagalbą, kai Vytautas puolė pilį atstatančius priešus.'
+  teiginys: 'Rygai kritus, Gediminas neteko paramos prieš Livonijos ordiną, kuris beveik iki Gedimino valdymo pabaigos puldinėjo Lietuvą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Rygiečiai|Rygiečiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Livonija'
+  temporaliniai_duomenys: 'įvykio data: 1331-1333; įvykio data: 1333 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
-    - c-052
+    - c-012
 
 <a id="claim-t-179423"></a>
 - t-057
   global_id: t-179423
-  teiginys: 'Rygai kritus, Gediminas neteko paramos prieš Livonijos ordiną, kuris beveik iki Gedimino valdymo pabaigos puldinėjo Lietuvą.'
+  teiginys: 'Livonijos ordino vicemagistras prašė Liubeko pagalbos, skųsdamasis dideliais ordino nuostoliais arkliais, ginklais ir gėrybėmis.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_place: Liubekas; mentioned_place: Livonija'
+  temporaliniai_duomenys: 'įvykio data: 1261 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
-    - c-015
+    - c-028
 
 <a id="claim-t-179424"></a>
 - t-058
   global_id: t-179424
-  teiginys: 'Livonijos ordino vicemagistras prašė Liubeko pagalbos, skųsdamasis dideliais ordino nuostoliais arkliais, ginklais ir gėrybėmis.'
+  teiginys: 'Vilniaus puolime vokiečiai buvo pasiskirstę į Livonijos ir Prūsijos stovyklas prie Aukštutinės pilies mūrų.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Anglai|Anglai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/daiktai/Bombardos|Bombardos]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Vilnius'
   pagrindžia:
-    - c-031
+    - c-027
 
 <a id="claim-t-179426"></a>
 - t-059
   global_id: t-179426
-  teiginys: 'Vilniaus puolime vokiečiai buvo pasiskirstę į Livonijos ir Prūsijos stovyklas prie Aukštutinės pilies mūrų.'
+  teiginys: 'Mindaugui reikėjo kovoti dėl pagoniškos Žemaitijos su krikščioniškąja Livonija ir išlaikyti krikščionio valdovo statusą.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas citata apie Livoniją.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Mindaugo krikštas|Mindaugo krikštas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva; mentioned_place: Livonija'
   pagrindžia:
-    - c-030
+    - c-013
 
 <a id="claim-t-179428"></a>
 - t-060
   global_id: t-179428
-  teiginys: 'Mindaugui reikėjo kovoti dėl pagoniškos Žemaitijos su krikščioniškąja Livonija ir išlaikyti krikščionio valdovo statusą.'
+  teiginys: 'Jogailos prieš Livonijos kariuomenę pasiųstas Vytautas sudarė taiką, gavęs pažadą dėl Sūduvos ir Žemaičių pripažinimo.'
+  sudarymo_pagrindimas: 'Originalas yra per ilgas, turi išnašų ir neaiškią pradžią.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Sūduva'
   pagrindžia:
-    - c-016
+    - c-033
+
+<a id="claim-t-179429"></a>
+- t-061
+  global_id: t-179429
+  teiginys: 'Prūsų kryžiuočiams kariaujant su Lenkijos Kazimieru, Lietuvą puolė Livonijos ordinas.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Livonijos ordino veiksmus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Rygiečiai|Rygiečiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Prūsai'
+  pagrindžia:
+    - c-036
 
 <a id="claim-t-179430"></a>
 - t-062
   global_id: t-179430
-  teiginys: 'Jogailos prieš Livonijos kariuomenę pasiųstas Vytautas sudarė taiką, gavęs pažadą dėl Sūduvos ir Žemaičių pripažinimo.'
+  teiginys: 'Mindaugas, pasinaudodamas priešų nesantaika, kreipėsi į Livonijos ordino magistrą ir siuntė jam brangių dovanų.'
+  sudarymo_pagrindimas: 'Pradinis fragmentas nėra apie Livonijos ordiną; citata palaiko aiškų sakinį apie Mindaugo ryšį su ordinu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_person: [[objektai/asmenys/Tautvilas|Tautvilas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Livonija; mentioned_place: Prūsai; mentioned_place: Ryga'
+  temporaliniai_duomenys: 'įvykio data: 1390 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis fragmentas nėra apie Livonijos ordiną; citata palaiko aiškų sakinį apie Mindaugo ryšį su ordinu.'
   pagrindžia:
-    - c-036
+    - c-038
 
 <a id="claim-t-179431"></a>
 - t-063
   global_id: t-179431
-  teiginys: 'Prūsų kryžiuočiams kariaujant su Lenkijos Kazimieru, Lietuvą puolė Livonijos ordinas.'
+  teiginys: '1380 m. Rygoje sudarytos paliaubos su Livonijos magistru aplenkė Kęstutį ir jo Žemaitijos kunigaikštystę.'
+  sudarymo_pagrindimas: 'Pradinis teiginys beveik tinkamas, bet citata leidžia pridėti datą ir padaryti sakinį tikslesnį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/paliaubos|paliaubos]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Livonija; mentioned_place: Polockas'
+  temporaliniai_duomenys: 'įvykio data: 1380 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys beveik tinkamas, bet citata leidžia pridėti datą ir padaryti sakinį tikslesnį.'
   pagrindžia:
-    - c-039
+    - c-032
 
 <a id="claim-t-179432"></a>
 - t-064
   global_id: t-179432
-  teiginys: 'Mindaugas, pasinaudodamas priešų nesantaika, kreipėsi į Livonijos ordino magistrą ir siuntė jam brangių dovanų.'
+  teiginys: 'Ordino kronikose 1345-1382 m. užregistruota 30 žygių į Lietuvą iš Livonijos.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Prūsai'
+  temporaliniai_duomenys: 'įvykio data: 1345-1382; įvykio data: 1382 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
-    - c-041
+    - c-030
 
 <a id="claim-t-179434"></a>
 - t-065
   global_id: t-179434
-  teiginys: '1380 m. Rygoje sudarytos paliaubos su Livonijos magistru aplenkė Kęstutį ir jo Žemaitijos kunigaikštystę.'
+  teiginys: 'Dinaburgo komtūras Livonijos magistrui pranešė apie Vilniaus miesto, kapitulos ir pilies gaisrą bei Vytauto patirtus nuostolius.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Dinaburgas; mentioned_place: Liksna; mentioned_place: Livonija; mentioned_place: Vilnius'
   pagrindžia:
-    - c-035
+    - c-021
 
 <a id="claim-t-179435"></a>
 - t-066
   global_id: t-179435
-  teiginys: 'Ordino kronikose 1345-1382 m. užregistruota 30 žygių į Lietuvą iš Livonijos.'
-  pagrindžia:
-    - c-033
-
-- t-068
-  teiginys: 'Dinaburgo komtūras Livonijos magistrui pranešė apie Vilniaus miesto, kapitulos ir pilies gaisrą bei Vytauto patirtus nuostolius.'
-  pagrindžia:
-    - c-024
-
-- t-069
   teiginys: 'Siena su Livonijos ordinu prasidėjo į Baltiją įtekančia Šventosios upe ir toliau rėmėsi senomis ribomis.'
+  sudarymo_pagrindimas: 'Pateiktas teiginys turi OCR klaidų ir labiau tinka aiškesnis faktas apie Livonijos ordiną.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Baltija; mentioned_place: Klaipėda; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Nemunas; mentioned_place: Rusija; mentioned_place: Rusnė; mentioned_place: Viena; mentioned_place: Žemaičių kraštas'
   pagrindžia:
-    - c-022
+    - c-019
 
-- t-070
+<a id="claim-t-179436"></a>
+- t-067
+  global_id: t-179436
   teiginys: 'Dinaburgo komtūras pranešė Livonijos magistrui apie Vilniaus miesto, kapitulos ir pilies gaisrą bei Vytauto patirtus nuostolius.'
+  sudarymo_pagrindimas: 'Pradiniame teiginyje yra puslapio numerių ir antraštės triukšmo; citata leidžia suformuluoti vieną aiškų sakinį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Dinaburgas; mentioned_place: Liksna; mentioned_place: Livonija; mentioned_place: Vilnius'
   pagrindžia:
-    - c-024
-- t-071
-  teiginys: 'Vytautas sudarė paliaubų sutartį su livoniškąja Ordino šaka, todėl ji nedalyvavo Tanenbergo mūšyje.'
-  pagrindžia:
-    - c-056
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-072
-  teiginys: 'Livonijos ordino atstovai nebuvo įsileisti į taikos derybas, todėl Aleksandras turėjo atsisakyti savo sąjungininko.'
-  pagrindžia:
-    - c-057
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-073
-  teiginys: 'Nuo 1237 m. Livonijos ordinas buvo Kryžiuočių ordino šaka, bet faktiškai veikė atskirai ir vykdė savarankišką politiką.'
-  pagrindžia:
-    - c-058
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-074
-  teiginys: 'Vytautas sudarė paliaubų sutartį su Livonijos ordino šaka, todėl ji nedalyvavo Tanenbergo mūšyje.'
-  pagrindžia:
-    - c-056
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-
+    - c-021
+- susijęs iš [[objektai/asmenys/Eilartas fon Hobergas.md#claim-t-183737|Eilartas fon Hobergas]]: Danų vietininkas Taline Eilartas fon Hobergas žuvo mūšyje, iš kurio tik kai kuriems kariams pavyko ištrūkti.
+- susijęs iš [[objektai/asmenys/Eilartas fon Hobergas.md#claim-t-40100|Eilartas fon Hobergas]]: Eilartas fon Hobergas buvo danų vietininkas Taline ir žuvo mūšyje kartu su Livonijos ordino magistru Ernestu fon Racburgu.
+- susijęs iš [[objektai/asmenys/Ernestas fon Racburgas.md#claim-t-183738|Ernestas fon Racburgas]]: Livonijos ordino magistras Ernestas fon Racburgas žuvo mūšyje, iš kurio tik kai kuriems kariams pavyko ištrūkti.
+- susijęs iš [[objektai/asmenys/Ernestas fon Racburgas.md#claim-t-40102|Ernestas fon Racburgas]]: Ernestas fon Racburgas buvo Livonijos ordino magistras ir žuvo kartu su danų vietininku Taline Eilartu fon Hobergu.
+- susijęs iš [[objektai/asmenys/Jurgis Vytautaitis.md#claim-t-39568|Jurgis Vytautaitis]]: Jurgis Vytautaitis buvo lietuvių vietininkas Pskove ir balandžio 13 d. žuvo mūšyje prie Izborsko.
+- susijęs iš [[objektai/asmenys/Kerskorfas.md#claim-t-40283|Kerskorfas]]: Livonijos magistras Kerskorfas žuvo Pabaisko, arba Šventosios, mūšyje.
+- susijęs iš [[objektai/asmenys/Nesselrodė.md#claim-t-40371|Nesselrodė]]: Maršalas Nesselrodė žuvo Pabaisko mūšyje, kuriame taip pat krito dauguma Livonijos komtūrų ir riterijos.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178872|Kryžiuočių ordinas]]: Kryžiuočių ordinas stengėsi sužlugdyti 1323 m. spalio 2 d. sutartį ir 1324 m. tęsė agresiją prieš Lietuvos žemes.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179094|Kryžiuočių ordinas]]: Ivinskio vertinimu, jei Mindaugo dokumentai būtų autentiški, Vokiečių ordinas būtų be saiko išnaudojęs draugystę su Mindaugu.
+- susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė.md#claim-t-169699|Lietuvos Didžioji Kunigaikštystė]]: 1559 m. Livonijos ordinas ir Rygos vyskupija paprašė Lietuvos globos ir tapo LDK protektoratu.
+- susijęs iš [[objektai/grupes/Livonijos konfederacija.md#claim-t-41065|Livonijos konfederacija]]: 1561 m. sutartimi su LDK Livonijos konfederacija buvo panaikinta, o didesnė Livonijos dalis tapo Lietuvos dalimi.
+- susijęs iš [[objektai/grupes/Rygos vyskupija.md#claim-t-41134|Rygos vyskupija]]: 1559 m. Livonijos ordinas ir Rygos vyskupija paprašė Lietuvos globos ir tapo LDK protektoratu.
+- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171396|Totoriai]]: Be Vokiečių ordino, taikų Vytauto darbą trukdė totoriai ir Livonijos ordinas.
+- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171404|Totoriai]]: Totoriai kartu su Livonijos ordinu trukdė taikų Vytauto darbą.
+- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171412|Totoriai]]: Be Vokiečių ordino, taikų Vytauto darbą trukdė totoriai, Livonijos ordinas ir kiti priešininkai.
+- susijęs iš [[objektai/grupes/Čekijos husitai.md#claim-t-41207|Čekijos husitai]]: Lenkija su Čekijos husitais vakaruose rengėsi kovoti prieš Ordiną.
+- susijęs iš [[objektai/ivykiai/Klaipėdos pilies perdavimas Prūsijos kryžiuočiams (1328 m.).md#claim-t-01667|Klaipėdos pilies perdavimas Prūsijos kryžiuočiams (1328 m.)]]: 1328 m. livoniškiai kryžiuočiai perdavė atkirstą Klaipėdos pilį Prūsijos kryžiuočiams.
+- susijęs iš [[objektai/ivykiai/Livonijos ordino 10 metų sutarties su Pskovu sudarymas.md#claim-t-35857|Livonijos ordino 10 metų sutarties su Pskovu sudarymas (sutartis)]]: Livonijos ordinas sudarė su Pskovu dešimties metų sutartį, kuri buvo nukreipta prieš Vytautą.
+- susijęs iš [[objektai/ivykiai/Livonijos ordino Vilniaus apgultis.md#claim-t-186749|Livonijos ordino Vilniaus apgultis]]: Komentaro teigimu, 1433 m. liepą–rugsėjį Livonijos kariuomenė veikiausiai atskirai nuo Švitrigailos šalininkų dvi savaites buvo apgulusi Vilnių.
+- susijęs iš [[objektai/ivykiai/Livonijos ordino Vilniaus apgultis.md#claim-t-186750|Livonijos ordino Vilniaus apgultis]]: 1433 m. liepą iš Cėsių Lietuvos niokoti išžygiavusi Livonijos ordino kariuomenė žygyje užtruko 11 savaičių, o magistras Rutenbergas rugsėjo 18 d. grįžo į Rygą.
+- susijęs iš [[objektai/ivykiai/Livonijos ordino Vilniaus apgultis.md#claim-t-186751|Livonijos ordino Vilniaus apgultis]]: Komentaro teigimu, 1433 m. liepą–rugsėjį Livonijos kariuomenė veikiausiai atskirai nuo Švitrigailos šalininkų dvi savaites buvo apgulusi Vilnių.
+- susijęs iš [[objektai/ivykiai/Livonijos ordino amžinos taikos su Naugardu D. sudarymas (1421 m.).md#claim-t-35858|Livonijos ordino amžinos taikos su Naugardu D. sudarymas (1421 m.)]]: 1421 m. Livonijos ordinas sudarė amžiną taiką su Didžiuoju Naugardu.
+- susijęs iš [[objektai/ivykiai/Livonijos ordino reidas po šiaurės rytų Lietuvą.md#claim-t-186744|Livonijos ordino reidas po šiaurės rytų Lietuvą]]: Švitrigailos ir Livonijos ordino magistro Rutenbergo susitarimas susijungti Kurenece bendram žygiui į Vilnių nebuvo įgyvendintas.
+- susijęs iš [[objektai/ivykiai/Livonijos ordino reidas po šiaurės rytų Lietuvą.md#claim-t-186746|Livonijos ordino reidas po šiaurės rytų Lietuvą]]: 1433 m. sausio 25 d. buvo sutarta, kad Livonijos ordino magistras Rutenbergas įsiverš į Lietuvą, o Švitrigaila žygiuos nuo Vitebsko.
+- susijęs iš [[objektai/ivykiai/Livonijos ordino reidas po šiaurės rytų Lietuvą.md#claim-t-186747|Livonijos ordino reidas po šiaurės rytų Lietuvą]]: 1433 m. vasario 15 d. Livonijos ordino magistras Rutenbergas ir Švitrigaila turėjo susijungti Kurenece bendram žygiui į Vilnių.
+- susijęs iš [[objektai/ivykiai/Pabaisko mūšis (1435 m. rugsėjo 1 d.).md#claim-t-66811|Pabaisko mūšis (1435 m. rugsėjo 1 d.)]]: Po Vytauto mirties kilusios sosto dalybos sukėlė pilietinį karą, pasibaigusį 1435 m. Pabaisko mūšiu, o jame dalyvavęs Livonijos ordinas buvo visiškai susilpnintas.
+- susijęs iš [[objektai/ivykiai/Pabaisko mūšis (1435 m. rugsėjo 1 d.).md#claim-t-66814|Pabaisko mūšis (1435 m. rugsėjo 1 d.)]]: Pabaisko mūšyje žuvo Livonijos magistras Kerskorfas ir maršalas Nesselrodė, o imperatoriaus laiške mūšis lygintas su Tanenbergo-Žalgirio kautynėmis.
+- susijęs iš [[objektai/ivykiai/Vilniaus taika su Livonijos ordinu (1323 m. spalio 2 d.).md#claim-t-103829|Vilniaus taika su Livonijos ordinu (1323 m. spalio 2 d.)]]: Kryžiuočių ordinas siekė sužlugdyti 1323 m. spalio 2 d. Vilniaus taiką ir 1324 m. tęsė puolimus prieš Lietuvos žemes.
+- susijęs iš [[objektai/ivykiai/Vilniaus taika su Livonijos ordinu (1323 m. spalio 2 d.).md#claim-t-103833|Vilniaus taika su Livonijos ordinu (1323 m. spalio 2 d.)]]: 1323 m. spalio 2 d. Vilniuje Livonijos ordinas ir Livonijos vyskupai sudarė taiką, kurioje aptarti ir Rygai svarbūs prekybos reikalai.
+- susijęs iš Amžina taika su Naugardu D. (1421 m.): Ordinas 1421 metais sudarė amžiną taiką su Didžiuoju Naugardu.
+- susijęs iš Pskovo 10 metų sutartis: Livonijos Ordinas sudarė su Pskovu dešimties metų sutartį, nukreiptą prieš Vytautą.
+- susijęs iš Cėsiai: 1971 m. leidimo komentare Livonijos ordino kariuomenė apibūdinama kaip 1433 m. liepą išžygiavusi iš Cėsių niokoti Lietuvos.
+- susijęs iš Kijevas: 1414–1416 metais Edygos vadovaujami totoriai smarkiai apgriovė Kijevą, Lucką ir nuniokojo jų apylinkes.
+- susijęs iš Klaipėda: 1252 m. Livonijos ordinas prie Kuršmarių ir Baltijos sandūros statytą pilį pavadino Memeliu, o senoji vietos sodyba vadinosi Klaipėda.
+- susijęs iš Krėva: Skirgaila iš Vilniaus nuvežė Kęstutį į Krėvės kalėjimą.
+- susijęs iš Kulių (Jurgaičių) pilys: 1348 m. kovo mėn. Livonijos ordinas puolė Šiaurės Žemaitiją ir sunaikino Kulių (Jurgaičių), Dubysos (Bubių) bei kitas pilis.
+- susijęs iš Kurenecas: Kurenecas lokalizuojamas į šiaurę nuo Molodečno.
+- susijęs iš Kurenecas: 1433 m. vasario 15 d. Švitrigailos ir Livonijos ordino magistro Rutenbergo pajėgos turėjo susijungti Kurenece bendram žygiui į Vilnių.
+- susijęs iš Kuršių marios: 1252 m. Livonijos ordinas pradėjo statyti pilį ten, kur Kuršių marios jungiasi su Baltija.
+- susijęs iš Maskva: Livonijos Ordinas įtikinėjo Naugardą ir Maskvą, kad Vytauto planai jiems yra pražūtingi, kadangi jis siekiąs užvaldyti visas rusų žemes.
+- susijęs iš Naugardas: Livonijos Ordinas sudarė prieš Vytautą nukreiptą taiką su Pskovu 1417 m. ir Naugardu 1421 m., o tai pakenkė Bažnyčių unijai.
+- susijęs iš Naugardas: Livonijos Ordinas įtikinėjo Naugardą ir Maskvą, kad Vytauto planai jiems yra pražūtingi, kadangi jis siekiąs užvaldyti visas rusų žemes.
+- susijęs iš Nemunas: Kronikos įvade Kryžiuočių ordino ekspansijos plotas apibūdinamas kaip siekęs nuo Vyslos žemupio iki Centrinės Žemaitijos, Nevėžio ir Nemuno aukštupio.
+- susijęs iš Nemunas: Vokiečių ordinas nuo Vyslos pasiekė Nemuną ir nuo 1282 m. pradėjo pulti lietuvius.
+- susijęs iš Pskovas: Livonijos Ordinas sudarė su Pskovu dešimties metų sutartį, nukreiptą prieš Vytautą.
+- susijęs iš Pskovas: Livonijos Ordinas sudarė su Pskovu dešimties metų sutartį, nukreiptą prieš Vytautą.
+- susijęs iš Šiaulių žemė: 1358 m. Livonijos ordinas įsiveržė į Šiaulių žemę ir sugriovė Dubysos pilį, kur, Hermano Vartbergiškio liudijimu, žuvo šimtas gynėjų.
+- susijęs iš Šiaurės Žemaitija: 1348 m. kovo mėn. Livonijos ordinas vėl puolė Šiaurės Žemaitiją ir sunaikino Kulių, Dubysos bei kitas pilis.
+- susijęs iš [[objektai/zodynas/vikariatas.md#claim-t-36853|vikariatas]]: Livonijos Ordinas puolė Vytautą, pavydėdamas jam popiežiaus suteikto vikariato Pskovo ir Naugardo kraštuose.
 ## Reikšmingi paminėjimai
+
+- c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tačiau ordinas nesudarė
+    savarankiškos valstybės: nuo 1237 m. jis buvo tų pačių kry-
+    žiuočių ordino šaka (žiūr. 50—51 psl.), bet, turėdamas skirtingas
+    sąlygas, jis iš tikrųjų gyveno atskirai ir varė savarankišką po-
+    litiką. Todėl kryžiuočių ordino virtimas pasauline kunigaikš-
+    tyste jokios reikšmės neturėjo livoniškei jo šakai. Visgi nuo to
+    laiko ir čia pradėta galvoti apie ordino panaikinimą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-032
+
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -489,7 +765,8 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-047
+    - t-046
+
 - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -505,7 +782,8 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-016
+    - t-015
+
 - c-004
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -517,7 +795,8 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-018
+    - t-017
+
 - c-005
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -531,7 +810,8 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-052
+    - t-051
+
 - c-006
   santrauka: 'Kryžiuočiai siekė užkariauti Žemaitiją kaip sausumos jungtį su Livonijos ordinu.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -549,7 +829,8 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-012
+    - t-011
+
 - c-007
   santrauka: '1424 m. Niešavos sutartis leido Lietuvos, Žemaičių, Lenkijos, Maskvos ir Rusijos pirkliams laisvai prekiauti Vokiečių ir Livonijos ordinų žemėse.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -565,8 +846,9 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-036
-- c-011
+    - t-035
+
+- c-008
   santrauka: '1260 m. liepos 13 d. Durbės mūšyje buvo sutriuškinta Livonijos ordino šaka, Prūsijos kryžiuočiai ir jų talkininkai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -589,8 +871,9 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-054
-- c-012
+    - t-053
+
+- c-009
   santrauka: 'Ordino kronikose 1345–1382 m. suregistruoti 66 Prūsų kryžiuočių ir 30 Livonijos žygių.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -603,8 +886,9 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-037
-- c-013
+    - t-036
+
+- c-010
   santrauka: 'Gedimino vardu rašytų laiškų klastojimas citatoje siejamas su Rygos arkivyskupo ir Livonijos ordino brolių konfliktu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -631,8 +915,9 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-030
-- c-014
+    - t-029
+
+- c-011
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau praėjus keletui
@@ -646,8 +931,9 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-028
-- c-015
+    - t-027
+
+- c-012
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Savo «atgailos rašte», vad.
@@ -662,9 +948,10 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-057
-    - t-007
-- c-016
+    - t-056
+    - t-006
+
+- c-013
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Mindaugo krikštas nepa-
@@ -678,9 +965,10 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-060
-    - t-006
-- c-017
+    - t-059
+    - t-005
+
+- c-014
   santrauka: 'Apie 1396 m. Liksnoje rašytas laiškas buvo adresuotas Livonijos magistrui ir turėjo būti nedelsiant atiduotas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -695,8 +983,9 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-011
-- c-018
+    - t-010
+
+- c-015
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Be išsamaus išvar­
@@ -727,9 +1016,10 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-055
-    - t-038
-- c-019
+    - t-054
+    - t-037
+
+- c-016
   santrauka: '1557 m. Vilniuje sutelkta kariuomenė žygiavo į Livoniją prieš didįjį Kalavijuočių ordino magistrą Firstembergą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -748,8 +1038,9 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-017
-- c-020
+    - t-016
+
+- c-017
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau Mindaugui dar reikėjo įtvirtinti valdžią. 1248 m. padėtis jam
@@ -762,8 +1053,25 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-043
-- c-022
+    - t-042
+
+- c-018
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Abi pusės pasižadėjo neliesti viena antrai pripažintų že-
+    mių ir laisvai praleisti per savo žemes kitos valstybės pasiun-
+    tinius ir pirklius. (Livonijos ordino atstovai nebuvo įsileisti į
+    taikos derybas: Aleksandras turėjo mesti savo sąjungininką).
+
+    Bet ir padarius taiką, santykiai su Maskva nė kiek ne-
+    pagerėjo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-045
+
+- c-019
   santrauka: 'Siena su Livonijos ordinu prasidėjo į Baltiją įtekančia Šventosios upe ir toliau rėmėsi senomis ribomis.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -780,8 +1088,9 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-069
-- c-023
+    - t-066
+
+- c-020
   santrauka: '1323 m. spalio 2 d. Lietuva Vilniuje sudarė taikos sutartį su Livonijos vyskupais, Livonijos ordinu, Ryga ir Revelio danų vietininku.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -796,8 +1105,9 @@ tags:
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-023
-- c-024
+    - t-022
+
+- c-021
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Livoniae)
@@ -811,9 +1121,10 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-070
-    - t-068
-- c-025
+    - t-067
+    - t-065
+
+- c-022
   santrauka: 'Livonijos ordinas sudarė su Pskovu dešimties metų sutartį, nukreiptą prieš Vytautą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -831,9 +1142,10 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-025
-    - t-051
-- c-026
+    - t-024
+    - t-050
+
+- c-023
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Neilgai teatsilaikė įgula tos nors labai stip­
@@ -848,9 +1160,10 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-031
-    - t-045
-- c-027
+    - t-030
+    - t-044
+
+- c-024
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pranešimas apie jos mirtį yra 74
@@ -863,7 +1176,8 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
-- c-028
+
+- c-025
   santrauka: 'Konstancijos susirinkimas paskyrė Vytautą Livonijos vyskupų globėju, nes Livonijos ordinas dažnai skriausdavo jų vyskupijas.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -879,9 +1193,10 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-053
-    - t-044
-- c-029
+    - t-052
+    - t-043
+
+- c-026
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Veliuona tepasidavė po
@@ -894,9 +1209,10 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-010
-    - t-013
-- c-030
+    - t-009
+    - t-012
+
+- c-027
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Netrukus sąjungininkai puolė miestą. Vytautas su žemai­
@@ -909,8 +1225,9 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-059
-- c-031
+    - t-058
+
+- c-028
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Keliose kronikose Lielvardės kauty­
@@ -925,8 +1242,9 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-058
-- c-032
+    - t-057
+
+- c-029
   santrauka: 'Mūšyje žuvo daug livoniečių, tarp jų Kalavijuočių riterių ordino magistras Frankas Kirskorffas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -940,8 +1258,9 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-035
-- c-033
+    - t-034
+
+- c-030
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     O vasaros žygis buvo ruošiamas apie rug­
@@ -956,9 +1275,10 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-019
-    - t-066
-- c-034
+    - t-018
+    - t-064
+
+- c-031
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     O Ceklis, tas reikalingas
@@ -973,8 +1293,9 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-022
-- c-035
+    - t-021
+
+- c-032
   santrauka: '1380 m. Jogaila sudarė paliaubas su Livonijos magistru Rygoje, apeidamas Kęstutį ir jo Žemaitijos kunigaikštystę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -991,9 +1312,10 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-029
-    - t-065
-- c-036
+    - t-028
+    - t-063
+
+- c-033
   santrauka: 'Jogailos prieš Livonijos kariuomenę pasiųstas Vytautas sudarė taiką, gavęs pažadą dėl Sūduvos ir Žemaičių pripažinimo.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -1008,8 +1330,9 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-062
-- c-037
+    - t-060
+
+- c-034
   santrauka: 'Salyno sutarties ratifikavime dalyvavo Prūsų ir Livonijos ordinų magistrai, Varmijos ir Sambijos vyskupai ir daug komtūrų.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -1023,9 +1346,10 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-021
-    - t-040
-- c-038
+    - t-020
+    - t-039
+
+- c-035
   santrauka: 'Lietuvos valdovai į kovą prieš Ordiną įtraukė visą Lietuvos Didžiąją Kunigaikštiją.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -1039,8 +1363,9 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-049
-- c-039
+    - t-048
+
+- c-036
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Po laikino atodūsio, nuo 1328 Lietuvą vėl užgulė sunki našta.
@@ -1051,8 +1376,9 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-063
-- c-040
+    - t-061
+
+- c-037
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     (Iš originalo Karaliaučiaus Slaptajame Archyve)
@@ -1077,9 +1403,10 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-015
-    - t-027
-- c-041
+    - t-014
+    - t-026
+
+- c-038
   santrauka: 'Mindaugas, pasinaudodamas priešų nesantaika, kreipėsi į Livonijos ordino magistrą ir siuntė jam brangių dovanų.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -1095,8 +1422,9 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-064
-- c-042
+    - t-062
+
+- c-039
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Sėkmė lydėjo Vytautą ir susidūrus su Švitrigaila, kuris, nie­
@@ -1112,8 +1440,9 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-042
-- c-043
+    - t-041
+
+- c-040
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Dinaburgo komtūras praneša Livonijos magistrui, kad
@@ -1126,8 +1455,9 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-032
-- c-044
+    - t-031
+
+- c-041
   santrauka: '1260 m. Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių ordinų pajėgos.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -1150,8 +1480,9 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-026
-- c-045
+    - t-025
+
+- c-042
   santrauka: 'Maskvos ginklų sutriuškintas Livonijos ordino magistras Gotardas Ketleris patikėjo valdovui save, ordiną ir valdas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1171,8 +1502,9 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
-- c-046
+    - t-004
+
+- c-043
   santrauka: 'Kunigaikštis Mykolas vedė lenkų ir lietuvių pulkus prieš Švitrigailą ir Livonijos magistrą ir laimėjo netoli Ukmergės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1193,8 +1525,9 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-048
-- c-047
+    - t-047
+
+- c-044
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Tik paėmę Kauną, Nemuno žemu­
@@ -1209,8 +1542,9 @@ tags:
   statusas: verified
   pagrindžia:
     - t-003
-    - t-050
-- c-048
+    - t-049
+
+- c-045
   santrauka: '1380 m. kovo 26 d. Rygoje sudarytos paliaubos tarp Livonijos magistro ir Lietuvos didžiojo kunigaikščio Jogailos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1234,7 +1568,8 @@ tags:
   statusas: verified
   pagrindžia:
     - t-002
-- c-049
+
+- c-046
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Ordino ir Vytauto santykiams buvo reikšminga,
@@ -1250,9 +1585,10 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-020
-    - t-009
-- c-050
+    - t-019
+    - t-008
+
+- c-047
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vy­
@@ -1270,8 +1606,9 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-024
-- c-051
+    - t-023
+
+- c-048
   santrauka: 'Švitrigaila po nesėkmės prie Vilniaus prikalbino Livonijos ordino riterius kartu pulti Vitebską.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1296,8 +1633,9 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-039
-- c-052
+    - t-038
+
+- c-049
   santrauka: 'Livonijos ordinas ir kariuomenė iš Prūsų atskubėjo kryžiuočiams į pagalbą, kai Vytautas puolė pilį atstatančius priešus.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -1310,8 +1648,9 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-056
-- c-053
+    - t-055
+
+- c-050
   santrauka: 'Jogailos kariuomenė kartu su Livonijos magistru pasiuntė būrius Skirgailai į pagalbą prie Polocko.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -1329,19 +1668,9 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-041
-- c-055
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Bet (1410.VIII.)
-    Livonijos kariuomenė laivais atvyko Sembon.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-008
-- c-056
-  santrauka: 'Vytautas sudarė paliaubų sutartį su livoniškąja Ordino šaka, todėl ji nedalyvavo Tanenbergo mūšyje.'
+    - t-040
+
+- c-051
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Nuostolis dėl pairusių derybų buvo nedidelis: sąjunga su
@@ -1353,147 +1682,27 @@ tags:
     gas ir prisisamdę Vakaruose daug karių, ypač čekų, Jogaila su
     Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Čer-
     vinsku (prie Vyslos).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-071
-    - t-074
-- c-057
-  santrauka: 'Livonijos ordino atstovai nebuvo įsileisti į taikos derybas, todėl Aleksandras turėjo atsisakyti savo sąjungininko.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Abi pusės pasižadėjo neliesti viena antrai pripažintų že-
-    mių ir laisvai praleisti per savo žemes kitos valstybės pasiun-
-    tinius ir pirklius. (Livonijos ordino atstovai nebuvo įsileisti į
-    taikos derybas: Aleksandras turėjo mesti savo sąjungininką).
+    - t-033
+    - t-013
 
-    Bet ir padarius taiką, santykiai su Maskva nė kiek ne-
-    pagerėjo.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-072
-- c-058
-  santrauka: 'Nuo 1237 m. Livonijos ordinas buvo Kryžiuočių ordino šaka, bet faktiškai veikė atskirai ir vykdė savarankišką politiką.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+- c-052
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Tačiau ordinas nesudarė
-    savarankiškos valstybės: nuo 1237 m. jis buvo tų pačių kry-
-    žiuočių ordino šaka (žiūr. 50—51 psl.), bet, turėdamas skirtingas
-    sąlygas, jis iš tikrųjų gyveno atskirai ir varė savarankišką po-
-    litiką. Todėl kryžiuočių ordino virtimas pasauline kunigaikš-
-    tyste jokios reikšmės neturėjo livoniškei jo šakai. Visgi nuo to
-    laiko ir čia pradėta galvoti apie ordino panaikinimą.
-  citata_rodoma: ""
+    Bet (1410.VIII.)
+    Livonijos kariuomenė laivais atvyko Sembon.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-073
+    - t-007
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Eilartas fon Hobergas]]
-- [[objektai/asmenys/Ernestas fon Racburgas]]
-- [[objektai/asmenys/Jurgis Vytautaitis]]
-- [[objektai/asmenys/Kerskorfas]]
-- [[objektai/ivykiai/Klaipėdos pilies perdavimas Prūsijos kryžiuočiams (1328 m.)]]
-- [[objektai/grupes/Livonijos konfederacija]]
-- [[objektai/ivykiai/Livonijos ordino 10 metų sutarties su Pskovu sudarymas|Livonijos ordino 10 metų sutarties su Pskovu sudarymas (sutartis)]]
-- [[objektai/ivykiai/Livonijos ordino amžinos taikos su Naugardu D. sudarymas (1421 m.)]]
-- [[objektai/asmenys/Nesselrodė]]
-- [[objektai/ivykiai/Pabaisko mūšis (1435 m. rugsėjo 1 d.)]]
-- [[objektai/grupes/Rygos vyskupija]]
-- [[objektai/zodynas/paliaubos]]
-- [[objektai/zodynas/vikariatas]]
-- [[objektai/grupes/Čekijos husitai]]
-- [[objektai/asmenys/Aleksandras]]
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/grupes/Anglai]]
-- [[objektai/daiktai/Artilerija]]
-- [[objektai/asmenys/Augustas]]
-- [[objektai/asmenys/Augustinas]]
-- [[objektai/grupes/Baltai]]
-- [[objektai/daiktai/Bombardos]]
-- [[objektai/ivykiai/Durbės mūšis (1260 m.)]]
-- [[objektai/grupes/Estai]]
-- [[objektai/asmenys/Gediminas]]
-- [[objektai/daiktai/Ginklai]]
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
-- [[objektai/grupes/Kalavijuočių ordinas]]
-- [[objektai/daiktai/Karūna]]
-- [[objektai/asmenys/Klemensas IV]]
-- [[objektai/autoriai/Kotzebue]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- [[objektai/daiktai/Laivai]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Martynas iš Golino]]
-- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
-- [[objektai/ivykiai/Mindaugo krikštas|Mindaugo krikštas (krikštas)]]
-- [[objektai/autoriai/Naruszewicz]]
-- [[objektai/grupes/Pranciškonų ordinas]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/grupes/Rygiečiai]]
-- [[objektai/asmenys/Skirgaila]]
-- [[objektai/asmenys/Tautvilas]]
-- [[objektai/grupes/Teutonai]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
-- [[objektai/zodynas/kapitula]]
-- [[objektai/zodynas/komtūras]]
-- [[objektai/zodynas/kryžininkai]]
-- [[objektai/zodynas/kunigaikštija]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/Miera|miera]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/činšas]]
-- [[objektai/zodynas/įgula]]
-- [[objektai/grupes/Švedai]]
-- [[objektai/asmenys/Švitrigaila]]
-- [[objektai/asmenys/Žygimantas]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė]]
-- [[objektai/ivykiai/Livonijos ordino Vilniaus apgultis]]
-- [[objektai/ivykiai/Livonijos ordino reidas po šiaurės rytų Lietuvą]]
-- [[objektai/ivykiai/Vilniaus taika su Livonijos ordinu (1323 m. spalio 2 d.)]]
-- [[objektai/asmenys/Frankas Kirskorffas]]
-- [[objektai/asmenys/Gotardas Ketleris]]
-- [[objektai/asmenys/Jonas]]
-- [[objektai/asmenys/Jonas de Lovenbinkė]]
-- [[objektai/ivykiai/Konstancijos susirinkimas (1414–1418 m.)]]
-- [[objektai/asmenys/Mykolas]]
-- [[objektai/zodynas/vietininkas]]
-- [[objektai/asmenys/Andrius Algirdaitis]]
-- [[objektai/daiktai/Bombardos, patrankos ir artilerijos karo mašinos]]
-- [[objektai/grupes/Danijos karaliaus kariai iš Revelio]]
-- [[objektai/grupes/Dominikonų ordinas]]
-- [[objektai/grupes/Domininkonų ordinas]]
-- [[objektai/asmenys/Firstenbergas (Livonijos ordino magistras)]]
-- [[objektai/ivykiai/Jogailos paliaubos su Livonijos magistru Rygoje (1380 m. kovo 26 d.)]]
-- [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
-- [[objektai/asmenys/Mykolas (Žygimanto sūnus)]]
-- [[objektai/grupes/Notangai]]
-- [[objektai/daiktai/Pabūklai, bombardos, patrankos ir artilerijos įranga]]
-- [[objektai/zodynas/Paliaubos induciae]]
-- [[objektai/grupes/Pamedėnai]]
-- [[objektai/grupes/Sembai]]
-- [[objektai/paprociai/Sezoniniai ordino žygiai į Lietuvą]]
-- [[objektai/grupes/Smolensko pulkai]]
-- [[objektai/paprociai/Taikos derybų tarpininkavimas per pasiuntinius, dvasininkus, miestus ir daugiašales misijas]]
-- [[objektai/grupes/Varmiai]]
-- [[objektai/grupes/Vilniaus kapitula]]
-- [[objektai/posakiai/oculi post dominicam]]
-- [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]]
+- Livonijos ordinas susije_su [[objektai/vietos/Lietuva]]
+- Livonijos ordinas susije_su [[objektai/vietos/Livonija]]
+- Livonijos ordinas susije_su [[objektai/vietos/Ukmergė]]
+- Livonijos ordinas keliavo_i [[objektai/vietos/Livonija]]
+- Livonijos ordinas keliavo_i [[objektai/vietos/Semba]]

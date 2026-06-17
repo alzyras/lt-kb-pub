@@ -24,7 +24,7 @@ amziai:
 
 ## Santrauka
 
-1919 m. pavasarį Rytų Lietuvą kontroliavo bolševikai.
+Rugsėjį Himansas dar pataisė planą lietuvių naudai – Vilniaus regionas jau nebesudarė kantono, o atitiko autonominio rajono statusą. 1922 m. sausį jie surengė rinkimus Vilniaus krašte – Vidurinėje Lietuvoje, kuri formaliai prisijungė prie Lenkijos, o Lietuva liko „nei karo, nei taikos“ situacijoje.
 
 ## Teiginiai
 
@@ -32,9 +32,14 @@ amziai:
 - t-001
   global_id: t-181515
   teiginys: '1919 m. pavasarį Rytų Lietuvą kontroliavo bolševikai.'
+  sudarymo_pagrindimas: 'Pradžia „Tuo metu“ yra kontekstinė, todėl datą reikia padaryti aiškią.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkijos kariuomenė|Lenkijos kariuomenė]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Ukraina'
+  temporaliniai_duomenys: 'įvykio data: 1919 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradžia „Tuo metu“ yra kontekstinė, todėl datą reikia padaryti aiškią.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/daiktai/J. Bulhako nuotrauka „Vilnius 1916 m. – lietuvių ir lenkų disputo epicentras“.md#claim-t-77925|J. Bulhako nuotrauka „Vilnius 1916 m. – lietuvių ir lenkų disputo epicentras“]]: J. Bulhako nuotraukos antraštė Vilnių vadina 1916 m. lietuvių ir lenkų disputo epicentru.
 ## Reikšmingi paminėjimai
 
 - c-001

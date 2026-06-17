@@ -18,6 +18,11 @@ Algirdas paskelbė įstatymą, leidusį krikščionims netrukdomiems viešose ir
 - t-001
   global_id: t-186347
   teiginys: 'Algirdas paskelbė įstatymą, leidusį krikščionims netrukdomiems viešose ir uždarose vietose skelbti tikėjimo tiesas.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata leidžia aiškiau įvardyti veikėją ir veiksmą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Maskva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

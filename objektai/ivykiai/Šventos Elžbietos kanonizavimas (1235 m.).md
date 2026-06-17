@@ -43,6 +43,12 @@ Nenurodyta
 - t-001
   global_id: t-62547
   teiginys: '1235 m. popiežius Grigalius IX Perudžoje kanonizavo šventą Elžbietą ir jos garbei paskyrė altorių.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys tiksliai nurodo citatoje minimą datą, vietą, veikėją ir veiksmą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Altorius|Altorius]]; mentioned_person: [[objektai/asmenys/Grigalius (vicekancleris)|Grigalius (vicekancleris)]]; mentioned_person: [[objektai/asmenys/Grigalius IX|Grigalius IX]]; mentioned_place: Perudža'
+  temporaliniai_duomenys: 'įvykio data: 1235 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys tiksliai nurodo citatoje minimą datą, vietą, veikėją ir veiksmą.'
   pagrindžia:
     - c-001
 
@@ -65,10 +71,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Grigalius (vicekancleris)]]
-- [[objektai/daiktai/Altorius]]
-- [[objektai/asmenys/Grigalius IX]]
-- [[objektai/asmenys/Elžbieta]]

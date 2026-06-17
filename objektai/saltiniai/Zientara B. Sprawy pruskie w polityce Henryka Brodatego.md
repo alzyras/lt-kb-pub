@@ -26,6 +26,11 @@ Dusburgietis teigia, kad zientara B.
 - t-001
   global_id: t-61382
   teiginys: 'B. Zientaros straipsnis „Sprawy pruskie w polityce Henryka Brodatego“ paskelbtas 1976 m. ZHPB 41 tomo 4 sąsiuvinyje.'
+  sudarymo_pagrindimas: 'Citata leidžia suformuluoti bibliografinį faktą apie publikaciją.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
+  temporaliniai_duomenys: 'įvykio data: 1976 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata leidžia suformuluoti bibliografinį faktą apie publikaciją.'
   pagrindžia:
     - c-001
 

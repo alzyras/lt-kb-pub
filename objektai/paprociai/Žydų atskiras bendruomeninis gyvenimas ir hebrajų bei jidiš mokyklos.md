@@ -42,6 +42,8 @@ Nenurodyta
 - t-001
   global_id: t-77942
   teiginys: 'Žydai Lietuvoje gyveno atskirą bendruomeninį gyvenimą, menkai integravosi į lietuvių visuomenę, o sionistinis judėjimas skatino keltis į Palestiną.'
+  sudarymo_pagrindimas: 'Patikslinta formuluotė ir pašalintas negrabumas „kėlė gyventi“.'
+  susije_objektai: 'location: Lietuva; location: Palestina; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/daiktai/Kailiai|Kailiai]]; mentioned_place: Lietuva; mentioned_place: Palestina'
   pagrindžia:
     - c-002
 
@@ -49,6 +51,8 @@ Nenurodyta
 - t-002
   global_id: t-77943
   teiginys: 'Žydai Lietuvoje išlaikė atskirą kultūrinį gyvenimą, o jų mokyklose pamokos vyko hebrajų arba jidiš kalba.'
+  sudarymo_pagrindimas: 'Sakinys sutrumpintas ir sutelktas į bendruomeninį gyvenimą bei mokyklas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/Jidiš|Jidiš]]; mentioned_person: [[objektai/asmenys/V. Krėvė-Mickevičius|V. Krėvė-Mickevičius]]; mentioned_place: Kaunas; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -92,16 +96,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Jidiš]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/asmenys/V. Krėvė-Mickevičius]]
-- [[objektai/grupes/Žydai]]
-- [[objektai/asmenys/Jonas Mačiulis-Maironis]]
-- [[objektai/autoriai/Juozas Tumas (Vaižgantas)]]
-- [[objektai/asmenys/Juozas Tumas-Vaižgantas]]
-- [[objektai/autoriai/Maironis]]
-- [[objektai/asmenys/Vaižgantas]]

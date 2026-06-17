@@ -23,6 +23,8 @@ Apie tai sužinojęs Vilniaus vysku­ pas Povilas kartu su sufraganu Kiprijonu i
 - t-001
   global_id: t-86550
   teiginys: 'Vilniaus vyskupas Povilas su sufraganu Kiprijonu ir kleru užkirto karaliui kelią ir paskatino jį pasukti į katalikų katedrą.'
+  sudarymo_pagrindimas: 'Teiginys pagrįstas, bet perrašytas glaudžiau ir be perteklinių detalių.'
+  susije_objektai: 'mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -30,6 +32,8 @@ Apie tai sužinojęs Vilniaus vysku­ pas Povilas kartu su sufraganu Kiprijonu i
 - t-002
   global_id: t-86551
   teiginys: 'Po Vilniaus sufragano Albino mirties kapitula jo biblioteką atidavė jėzuitams.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, užbaigtas ir tiesiogiai sutampa su citatos faktu.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_person: [[objektai/asmenys/Albinas (Vilniaus sufraganas)|Albinas (Vilniaus sufraganas)]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_person: [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -75,13 +79,3 @@ Apie tai sužinojęs Vilniaus vysku­ pas Povilas kartu su sufraganu Kiprijonu i
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Albinas (Vilniaus sufraganas)]]
-- [[objektai/asmenys/Augustas]]
-- [[objektai/asmenys/Žygimantas]]
-- [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]]
-- [[objektai/zodynas/kapitula]]
-- [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]]
-- [[objektai/grupes/Vilniaus kapitula]]

@@ -23,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-Alšėnų kunigaikščiai, turėję tėvonijų valstybės branduolyje ir nepriklausę Gediminaičių dinastijai, priėmė stačiatikybę. Alšėnų kunigaikščiai priėmė stačiatikybę, nors turėjo tėvonijų valstybės branduolyje ir nebuvo kilę iš Gediminaičių dinastijos. Alšėnų kunigaikščio Jono Algimantaičio sūnus Andrius Algimantaitis po Skirgailos mirties buvo Vytauto vietininkas Kijeve.
+Be to, stačiatikybę priėmė net ir valstybės branduolyje tėvonijas turintys kunigaikščiai, kilę ne iš valdančiosios Gediminaičių dinastijos, pavyzdžiui, Alšėnų kunigaikščiai.
 
 ## Teiginiai
 
@@ -31,6 +31,7 @@ Alšėnų kunigaikščiai, turėję tėvonijų valstybės branduolyje ir neprikl
 - t-001
   global_id: t-74068
   teiginys: 'Alšėnų kunigaikščiai, turėję tėvonijų valstybės branduolyje ir nepriklausę Gediminaičių dinastijai, priėmė stačiatikybę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Alšėnai; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -38,6 +39,8 @@ Alšėnų kunigaikščiai, turėję tėvonijų valstybės branduolyje ir neprikl
 - t-002
   global_id: t-74069
   teiginys: 'Alšėnų kunigaikščiai priėmė stačiatikybę, nors turėjo tėvonijų valstybės branduolyje ir nebuvo kilę iš Gediminaičių dinastijos.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nėra apie Alšėnų kunigaikščius, bet citata pagrindžia kitą aiškų faktą apie juos.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Alšėnai; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -45,9 +48,24 @@ Alšėnų kunigaikščiai, turėję tėvonijų valstybės branduolyje ir neprikl
 - t-003
   global_id: t-187703
   teiginys: 'Alšėnų kunigaikščio Jono Algimantaičio sūnus Andrius Algimantaitis po Skirgailos mirties buvo Vytauto vietininkas Kijeve.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Alšėnų kunigaikščių giminės narį ir jo pareigas Kijeve. Nepridėta mirties ar pirmojo paminėjimo informacija.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Alšėnai; mentioned_place: Kijevas'
+  temporaliniai_duomenys: 'įvykio data: 1401 m.; įvykio data: 1433 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie Alšėnų kunigaikščių giminės narį ir jo pareigas Kijeve. Nepridėta mirties ar pirmojo paminėjimo informacija.'
   pagrindžia:
     - c-003
-
+- susijęs iš [[objektai/grupes/Sanguškos.md#claim-t-183181|Sanguškos]]: Sanguškos kilo iš periferinių sritinių žemių kunigaikščių ir tapo viena iš garsių vėlesnių laikų LDK giminių.
+- susijęs iš [[objektai/grupes/Sanguškos.md#claim-t-20002|Sanguškos]]: Sanguškos kilo iš periferinių sritinių žemių kunigaikščių ir tapo viena iš garsių vėlesnių laikų LDK giminių.
+- susijęs iš [[objektai/grupes/Sluckiai.md#claim-t-183182|Sluckiai]]: Sluckiai kilo iš periferinių sritinių žemių kunigaikščių ir tapo viena iš garsių vėlesnių laikų LDK giminių.
+- susijęs iš [[objektai/grupes/Sluckiai.md#claim-t-20013|Sluckiai]]: Sluckiai kilo iš periferinių sritinių žemių kunigaikščių ir tapo viena iš garsių vėlesnių laikų LDK giminių.
+- susijęs iš [[objektai/grupes/Vyšnioveckiai.md#claim-t-183201|Vyšnioveckiai]]: Vyšnioveckiai buvo viena iš garsių vėlesnių laikų LDK giminių, kilusių iš periferinių sritinių žemių kunigaikščių.
+- susijęs iš [[objektai/grupes/Vyšnioveckiai.md#claim-t-20092|Vyšnioveckiai]]: Vyšnioveckiai kilo iš periferinių sritinių žemių kunigaikščių ir tapo viena iš garsių vėlesnių laikų LDK giminių.
+- susijęs iš [[objektai/grupes/Čartoriskiai.md#claim-t-183202|Čartoriskiai]]: Čartoriskiai buvo viena iš garsių vėlesnių laikų LDK giminių, kilusių iš periferinių sritinių žemių kunigaikščių.
+- susijęs iš [[objektai/grupes/Čartoriskiai.md#claim-t-45273|Čartoriskiai]]: Čartoriskiai buvo viena iš garsių vėlesnių laikų LDK giminių, kilusių iš periferinių sritinių žemių kunigaikščių.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -100,19 +118,3 @@ Alšėnų kunigaikščiai, turėję tėvonijų valstybės branduolyje ir neprikl
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/dinastija]]
-
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Skirgaila]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/vietininkas]]
-- [[objektai/asmenys/Švitrigaila]]
-- [[objektai/asmenys/Žygimantas]]
-- [[objektai/grupes/Sanguškos]]
-- [[objektai/grupes/Sluckiai]]
-- [[objektai/grupes/Vyšnioveckiai]]
-- [[objektai/grupes/Čartoriskiai]]

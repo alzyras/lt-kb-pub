@@ -26,6 +26,10 @@ Dusburgietis teigia, kad wenskus R.
 - t-001
   global_id: t-61364
   teiginys: 'R. Wenskaus straipsnis „Kleinverbände und Kleinräume bei den Prussen des Samlandes“ paskelbtas 1964 m. leidinio 2 tome, p. 201–254.'
+  sudarymo_pagrindimas: 'Citata palaiko publikavimo duomenis, o pradinis teiginys yra fragmentiškas.'
+  temporaliniai_duomenys: 'įvykio data: 1964 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko publikavimo duomenis, o pradinis teiginys yra fragmentiškas.'
   pagrindžia:
     - c-001
 

@@ -22,6 +22,8 @@ Tačiau jaučiame pareigą pasakyti, kad, be žinomų ir labai mums brangių Kra
 - t-001
   global_id: t-88404
   teiginys: 'Rengiant Vilniaus istoriją naudotasi A. F. Adamovičiaus ir Dominyko Chodzkos sukauptais rankraščiais, užrašais ir asmeninėmis pastabomis apie Vilnių.'
+  sudarymo_pagrindimas: 'Citata pagrindžia naudojimąsi rankraščiais, o pradinis tekstas buvo nutrūkęs.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/autoriai/Kraševskis|Kraševskis]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

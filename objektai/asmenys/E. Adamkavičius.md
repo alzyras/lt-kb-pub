@@ -20,6 +20,7 @@ Adamkavičiaus vadovaujamas Kauno batalionas.
 - t-001
   global_id: t-40092
   teiginys: 'Plk. ltn. E. Adamkavičius vadovavo Kauno batalionui Varnionių-Daugėlaičių-Šiaulėnų atkarpoje.'
+  susije_objektai: 'mentioned_place: Kaunas; mentioned_place: Marijampolė'
   pagrindžia:
     - c-001
 

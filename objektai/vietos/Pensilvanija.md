@@ -3,11 +3,17 @@ tipas: vieta
 pavadinimas: 'Pensilvanija'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1917 m.'
+date_start: '1917'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - karas
   - vieta
+amziai:
+  - 'XX'
 ---
 # Pensilvanija
 
@@ -21,9 +27,14 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
 - t-001
   global_id: t-21693
   teiginys: 'Pensilvanija buvo viena iš JAV vietų, kuriose gyveno daugiau kaip 300 000 lietuvių imigrantų.'
+  sudarymo_pagrindimas: 'Pradinė formuluotė klaidingai sieja visą skaičių su Pensilvanija.'
+  susije_objektai: 'location: Lietuva; location: Niujorkas; location: Peterburgas; location: Rusija; location: Viena; location: Vokietija; location: Voronežas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva; mentioned_place: Niujorkas; mentioned_place: Peterburgas; mentioned_place: Rusija; mentioned_place: Viena; mentioned_place: Vokietija; mentioned_place: Voronežas'
+  temporaliniai_duomenys: 'gyvenimo laikotarpis: 1917 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „gyvenimo laikotarpis“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinė formuluotė klaidingai sieja visą skaičių su Pensilvanija.'
   pagrindžia:
     - c-001
-
+- susijęs iš Niujorkas: 1917 m. JAV įstojimas į karą suaktyvino daugiau kaip 300 000 lietuvių imigrantų, gyvenusių daugiausia Čikagoje, Niujorke ir Pensilvanijoje.
 ## Reikšmingi paminėjimai
 
 - c-001

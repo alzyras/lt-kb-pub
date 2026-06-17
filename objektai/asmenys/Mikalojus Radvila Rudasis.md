@@ -17,7 +17,7 @@ tags:
 
 ## Santrauka
 
-Mikalojus Radvila Rudasis, žvalgų informuotas apie P. Šuiskio žygį, įsakė nedelsiant užkirsti kelią jo kariuomenei. Mikalojus Radvila Rudasis žvalgų buvo greitai informuotas, kad P. Šuiskis sausio 23 d. su kariuomene pajudėjo iš Polocko. Mikalojus Radvila Rudasis žvalgų buvo greitai informuotas apie P. Šuiskio žygį iš Polocko ir tuo metu buvo Lukomlyje.
+Lietuvoje protestantų židinys buvo galingieji biržiečiai Radvilos. Neprisišaukdamas pagalbos, jis net atsisakė nuo savo pareigų, ir vyriausiuoju vadu buvo paskirtas Vilniaus vaivada Mikalojus Radvila Rudasis, kuriam padėjo sūnus, lauko hetmonas Kristupas, pramintas Perkūnu. Kristupas I Radvila Perkūnas, Mikalojaus R.
 
 ## Teiginiai
 
@@ -25,6 +25,8 @@ Mikalojus Radvila Rudasis, žvalgų informuotas apie P. Šuiskio žygį, įsakė
 - t-001
   global_id: t-113890
   teiginys: 'Mikalojus Radvila Rudasis, žvalgų informuotas apie P. Šuiskio žygį, įsakė nedelsiant užkirsti kelią jo kariuomenei.'
+  sudarymo_pagrindimas: 'Reikia aiškiau įvardyti, kam buvo siekiama užkirsti kelią.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_object: [[objektai/zodynas/hetmonas|hetmonas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Lietuva; mentioned_place: Polockas'
   pagrindžia:
     - c-001
 
@@ -32,6 +34,8 @@ Mikalojus Radvila Rudasis, žvalgų informuotas apie P. Šuiskio žygį, įsakė
 - t-002
   global_id: t-113891
   teiginys: 'Mikalojus Radvila Rudasis žvalgų buvo greitai informuotas, kad P. Šuiskis sausio 23 d. su kariuomene pajudėjo iš Polocko.'
+  sudarymo_pagrindimas: 'Claimas yra aiškus, gramatiškas ir paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_object: [[objektai/zodynas/hetmonas|hetmonas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Lietuva; mentioned_place: Polockas'
   pagrindžia:
     - c-001
 
@@ -39,6 +43,8 @@ Mikalojus Radvila Rudasis, žvalgų informuotas apie P. Šuiskio žygį, įsakė
 - t-003
   global_id: t-113892
   teiginys: 'Mikalojus Radvila Rudasis žvalgų buvo greitai informuotas apie P. Šuiskio žygį iš Polocko ir tuo metu buvo Lukomlyje.'
+  sudarymo_pagrindimas: 'Perrašyta į vientisą sakinį, išlaikant citatos palaikomus faktus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_object: [[objektai/zodynas/hetmonas|hetmonas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Lietuva; mentioned_place: Lukomlis; mentioned_place: Polockas'
   pagrindžia:
     - c-001
 
@@ -46,6 +52,8 @@ Mikalojus Radvila Rudasis, žvalgų informuotas apie P. Šuiskio žygį, įsakė
 - t-004
   global_id: t-113893
   teiginys: 'Mikalojus Radvila Rudasis užstojo Vilniaus pirklius ir gyventojus, prašydamas karaliaus atidėti muitus iki būsimo seimo.'
+  sudarymo_pagrindimas: 'Citata palaiko faktą, reikia išplėsti dalinę nuorodą į asmenį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus pirkliai|Vilniaus pirkliai]]; mentioned_object: [[objektai/zodynas/Czopowe|Czopowe]]; mentioned_object: [[objektai/zodynas/Szosowe|Szosowe]]; mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Torunė; mentioned_place: Vilnius'
   pagrindžia:
     - c-004
 
@@ -53,6 +61,8 @@ Mikalojus Radvila Rudasis, žvalgų informuotas apie P. Šuiskio žygį, įsakė
 - t-005
   global_id: t-113894
   teiginys: 'Po Radvilos Juodojo mirties Mikalojus Radvila Rudasis vadovavo kalvinistinei reformacijai.'
+  sudarymo_pagrindimas: 'Pradinis teiginys daugiausia kalba apie Biržų evangelikus reformatus, todėl perrašytas taip, kad būtų apie Mikalojų Radvilą Rudąjį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_object: [[objektai/zodynas/reformacija|reformacija]]; mentioned_person: [[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Biržai'
   pagrindžia:
     - c-005
 
@@ -60,6 +70,8 @@ Mikalojus Radvila Rudasis, žvalgų informuotas apie P. Šuiskio žygį, įsakė
 - t-006
   global_id: t-113895
   teiginys: 'Mikalojus Radvila Rudasis galėjo turėti tik nuo 4 iki 6 tūkstančių raitelių.'
+  sudarymo_pagrindimas: 'Claimas yra pilnas faktinis sakinys apie asmenį ir paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]'
   pagrindžia:
     - c-003
 
@@ -67,6 +79,8 @@ Mikalojus Radvila Rudasis, žvalgų informuotas apie P. Šuiskio žygį, įsakė
 - t-007
   global_id: t-113896
   teiginys: 'Mikalojus Radvila Rudasis buvo Dubingių ir Biržų kunigaikštis, Vilniaus vaivada, LDK vyriausiasis kancleris, Mozyriaus ir Lydos seniūnas.'
+  sudarymo_pagrindimas: 'Citata pateikia asmens titulus ir pareigas, todėl galima suformuluoti glaustą faktą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Dubingiai; mentioned_place: Lietuva; mentioned_place: Mozyrius; mentioned_place: Vilnius'
   pagrindžia:
     - c-006
 
@@ -74,9 +88,13 @@ Mikalojus Radvila Rudasis, žvalgų informuotas apie P. Šuiskio žygį, įsakė
 - t-008
   global_id: t-113897
   teiginys: 'Mikalojus Radvila Rudasis galėjo turėti nuo 4 iki 6 tūkstančių raitelių.'
+  sudarymo_pagrindimas: 'Claimas yra pilnas faktinis sakinys apie asmenį ir paremtas citata.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/grupes/Livonijos kunigaikštystė.md#claim-t-78383|Livonijos kunigaikštystė]]: Po Liublino unijos Livonijos ir Kuršo kunigaikštystės pripažintos bendromis Lenkijos ir LDK valdomis.
+- susijęs iš [[objektai/grupes/Livonijos kunigaikštystė.md#claim-t-78385|Livonijos kunigaikštystė]]: Steponas Batoras ir Mikalojus Radvila Rudasis laikė būtina atkirsti Livonijos teritoriją nuo Rusijos ir perkelti karo veiksmus.
+- susijęs iš [[objektai/grupes/Radvilos.md#claim-t-74888|Radvilos]]: Po Mikalojaus Radvilos Juodojo mirties kalvinistinei reformacijai vadovavo jo pusbrolis Mikalojus Radvila Rudasis.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -193,23 +211,3 @@ Mikalojus Radvila Rudasis, žvalgų informuotas apie P. Šuiskio žygį, įsakė
   statusas: verified
   pagrindžia:
     - t-007
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/luomas]]
-- [[objektai/zodynas/seniūnas]]
-- [[objektai/zodynas/vaivada]]
-- [[objektai/daiktai/Artilerija]]
-- [[objektai/zodynas/Czopowe]]
-- [[objektai/grupes/Maskvėnai]]
-- [[objektai/asmenys/Mikalojus Radvila]]
-- [[objektai/asmenys/Radvila]]
-- [[objektai/grupes/Radvilos]]
-- [[objektai/zodynas/Szosowe]]
-- [[objektai/grupes/Vilniaus pirkliai]]
-- [[objektai/zodynas/etmonas]]
-- [[objektai/zodynas/reformacija]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/grupes/Livonijos kunigaikštystė]]
-- [[objektai/zodynas/seimas]]

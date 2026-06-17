@@ -5,6 +5,7 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1648 m.'
+  - '1649 m.'
   - '1651 m.'
   - '2026 m.'
 date_start: '1648'
@@ -19,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-„Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus“ pasakoja, kad 1649 m. priešai staiga užpuolė prie stovyklos buvusius pašarininkus. A. Vijūkas-Kojalavičius 1651 m. veikale „Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus“ rašė apie Lojevo mūšį. A. Vijūko-Kojalavičiaus 1651 m. veikalo „Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus“ ištrauka yra apie Lojevo mūšį.
+Cituojama „Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus“ ištrauka apie Lojevo mūšį. „Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus“ šiame veikale cituojamas kaip atskiras šaltinis.
 
 ## Bibliografiniai duomenys
 
@@ -37,6 +38,11 @@ amziai:
 - t-001
   global_id: t-111338
   teiginys: '„Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus“ pasakoja, kad 1649 m. priešai staiga užpuolė prie stovyklos buvusius pašarininkus.'
+  sudarymo_pagrindimas: 'Pradinis teiginys yra nutrūkusi citata, bet ištrauka palaiko konkretų faktą apie pasakojamą įvykį.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_object: [[objektai/daiktai/Vėliavos|Vėliavos]]; mentioned_object: [[objektai/zodynas/stalininkas|stalininkas]]; mentioned_object: [[objektai/zodynas/vėliavininkas|vėliavininkas]]; mentioned_place: Lietuva; mentioned_place: Lukas; mentioned_place: Ukmergė'
+  temporaliniai_duomenys: 'įvykio data: 1649 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys yra nutrūkusi citata, bet ištrauka palaiko konkretų faktą apie pasakojamą įvykį.'
   pagrindžia:
     - c-001
 
@@ -44,6 +50,11 @@ amziai:
 - t-002
   global_id: t-111339
   teiginys: 'A. Vijūkas-Kojalavičius 1651 m. veikale „Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus“ rašė apie Lojevo mūšį.'
+  sudarymo_pagrindimas: 'Citata palaiko aiškesnį sakinį apie veikalo autorių, datą ir temą.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/A. Vijūkas Kojelavičius|A. Vijūkas Kojelavičius]]; mentioned_place: Lojevas'
+  temporaliniai_duomenys: 'įvykio data: 1651 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko aiškesnį sakinį apie veikalo autorių, datą ir temą.'
   pagrindžia:
     - c-002
 
@@ -51,6 +62,11 @@ amziai:
 - t-003
   global_id: t-111340
   teiginys: 'A. Vijūko-Kojalavičiaus 1651 m. veikalo „Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus“ ištrauka yra apie Lojevo mūšį.'
+  sudarymo_pagrindimas: 'Reikia pašalinti OCR ir antraštės triukšmą bei suformuluoti sklandesnį sakinį.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/A. Vijūkas Kojelavičius|A. Vijūkas Kojelavičius]]; mentioned_place: Lojevas'
+  temporaliniai_duomenys: 'įvykio data: 1651 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia pašalinti OCR ir antraštės triukšmą bei suformuluoti sklandesnį sakinį.'
   pagrindžia:
     - c-002
 
@@ -58,6 +74,7 @@ amziai:
 - t-004
   global_id: t-111341
   teiginys: '„Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus“ šiame veikale cituojamas kaip atskiras šaltinis.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_object: [[objektai/daiktai/Vėliavos|Vėliavos]]; mentioned_object: [[objektai/zodynas/stalininkas|stalininkas]]; mentioned_object: [[objektai/zodynas/vėliavininkas|vėliavininkas]]; mentioned_place: Lietuva; mentioned_place: Lukas; mentioned_place: Ukmergė'
   pagrindžia:
     - c-001
 

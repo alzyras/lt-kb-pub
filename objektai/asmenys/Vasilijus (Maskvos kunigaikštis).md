@@ -18,6 +18,12 @@ Maskvos kunigaikštis Vasilijus turėjo vesti Vytauto dukterį Sofiją, kuriai M
 - t-001
   global_id: t-185992
   teiginys: 'Maskvos kunigaikštis Vasilijus turėjo vesti Vytauto dukterį Sofiją, kuriai Marienburge surengtos palydėtuvės.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis teiginys labiau akcentuoja Vytautą, todėl perrašyta apie Vasilijų.'
+  susije_objektai: 'territory: Marienburgas; territory: Maskva; territory: Plockas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_person: [[objektai/asmenys/Vasilijus|Vasilijus]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Marienburgas; mentioned_place: Maskva; mentioned_place: Plockas'
+  semantiniai_rysiai: '[[objektai/asmenys/Vasilijus (Maskvos kunigaikštis)|Vasilijus (Maskvos kunigaikštis)]] buvo valdovas Marienburgas; [[objektai/asmenys/Vasilijus (Maskvos kunigaikštis)|Vasilijus (Maskvos kunigaikštis)]] buvo valdovas Maskva; [[objektai/asmenys/Vasilijus (Maskvos kunigaikštis)|Vasilijus (Maskvos kunigaikštis)]] buvo valdovas Plockas'
   pagrindžia:
     - c-001
 
@@ -25,6 +31,11 @@ Maskvos kunigaikštis Vasilijus turėjo vesti Vytauto dukterį Sofiją, kuriai M
 - t-002
   global_id: t-185993
   teiginys: 'Po Vasilijaus valdų nusiaubimo Vasilijus turėjo prašyti taikos ir pažadėti neremti Švitrigailos.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata palaiko faktą apie Vasilijų, bet pradiniame teiginyje neįvardytas veiksmo subjektas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Vasilijus|Vasilijus]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -32,6 +43,11 @@ Maskvos kunigaikštis Vasilijus turėjo vesti Vytauto dukterį Sofiją, kuriai M
 - t-003
   global_id: t-185994
   teiginys: 'Vasilijus nurodė paleisti nelaisvėje buvusius lietuvius, bet sulaikė Mikalojų Glebavičių.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata palaiko trumpesnį ir aiškesnį faktą apie Vasilijaus atsakymą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_person: [[objektai/asmenys/Vasilijus|Vasilijus]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Vargiai'
   pagrindžia:
     - c-003
 
@@ -39,6 +55,11 @@ Maskvos kunigaikštis Vasilijus turėjo vesti Vytauto dukterį Sofiją, kuriai M
 - t-004
   global_id: t-185995
   teiginys: 'Vasilijus raštu paskelbė karą Žygimantui, nors Glinskis jau buvo įsiveržęs į Lietuvos žemes.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vasilijus|Vasilijus]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-004
 
@@ -150,13 +171,6 @@ Maskvos kunigaikštis Vasilijus turėjo vesti Vytauto dukterį Sofiją, kuriai M
     - t-004
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Maskvėnai]]
-- [[objektai/asmenys/Ona Vytautienė]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/asmenys/Vasilijus]]
-- [[objektai/asmenys/Sofija (Vytauto duktė)]]
-- [[objektai/ivykiai/Vytauto žygis į Maskvos valdas ir taika su Vasilijumi (1407 m.)]]
+- Vasilijus (Maskvos kunigaikštis) buvo_valdovas [[objektai/vietos/Marienburgas]]
+- Vasilijus (Maskvos kunigaikštis) buvo_valdovas [[objektai/vietos/Maskva]]
+- Vasilijus (Maskvos kunigaikštis) buvo_valdovas [[objektai/vietos/Plockas]]

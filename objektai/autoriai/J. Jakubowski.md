@@ -4,16 +4,24 @@ pavadinimas: 'J. Jakubowski'
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+datos:
+  - '1907 m.'
+date_start: '1907'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'naujieji laikai'
 ---
 # J. Jakubowski
 
 ## Santrauka
 
-J. Jakubowski parašė darbą „Opis Księstwa Trockiego“, paskelbtą 1907 m. leidinyje „Kwartalnink hist.“. J. Jakubowski 1907 m. paskelbė darbą „Opis księstwa trockiego w 1387 r.“
+Jakubowski, J.: Opis księstwa trockiego w 1387 r ., PH, t.
 
 ## Teiginiai
 
@@ -21,6 +29,11 @@ J. Jakubowski parašė darbą „Opis Księstwa Trockiego“, paskelbtą 1907 m.
 - t-001
   global_id: t-64628
   teiginys: 'J. Jakubowski parašė darbą „Opis Księstwa Trockiego“, paskelbtą 1907 m. leidinyje „Kwartalnink hist.“.'
+  sudarymo_pagrindimas: 'Pradinis teiginys yra nutrūkęs bibliografinis fragmentas, todėl jį reikia paversti pilnu sakiniu.'
+  susije_objektai: 'mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1907 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys yra nutrūkęs bibliografinis fragmentas, todėl jį reikia paversti pilnu sakiniu.'
   pagrindžia:
     - c-001
 
@@ -28,6 +41,9 @@ J. Jakubowski parašė darbą „Opis Księstwa Trockiego“, paskelbtą 1907 m.
 - t-002
   global_id: t-64629
   teiginys: 'J. Jakubowski 1907 m. paskelbė darbą „Opis księstwa trockiego w 1387 r.“'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/proistorė|proistorė]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Varšuva'
+  temporaliniai_duomenys: 'įvykio data: 1907 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 
@@ -60,7 +76,3 @@ J. Jakubowski parašė darbą „Opis Księstwa Trockiego“, paskelbtą 1907 m.
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/proistorė]]

@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Skirgaila su savo kariuomenės pulkais persikėlė per Nerį ir apsistojo Šeškinės lauke.
+Skirgaila persikėlęs per Nerį apsistojo Šeškinės lauke.
 
 ## Teiginiai
 
@@ -20,6 +20,9 @@ Skirgaila su savo kariuomenės pulkais persikėlė per Nerį ir apsistojo Šešk
 - t-001
   global_id: t-187406
   teiginys: 'Skirgaila su savo kariuomenės pulkais persikėlė per Nerį ir apsistojo Šeškinės lauke.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Sakinys gramatiškas, konkretus ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Marienburgas; mentioned_place: Neris; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

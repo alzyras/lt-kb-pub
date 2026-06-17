@@ -49,6 +49,11 @@ Nenurodyta
 - t-001
   global_id: t-87047
   teiginys: 'Per Vilniaus gaisrą didysis kunigaikštis neteko žirgų ir brangenybių, o miestiečių įvertinta žala siekė iki 60 tūkstančių sidabro luitų.'
+  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir sakinys padarytas sklandus.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'valdymo laikotarpis: 1399 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „valdymo laikotarpis“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas OCR triukšmas ir sakinys padarytas sklandus.'
   pagrindžia:
     - c-001
 
@@ -71,13 +76,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/papuošalas]]
-
-### Susiję objektai
-- [[objektai/zodynas/didysis kunigaikštis]]
-- [[objektai/daiktai/Žirgai]]
-- [[objektai/daiktai/Pilies arklidės, kunigaikščio brangenybės ir sidabro luitai]]
-- [[objektai/grupes/Vilniaus miestiečių luomas]]

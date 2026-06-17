@@ -44,6 +44,9 @@ Nenurodyta
 - t-001
   global_id: t-62742
   teiginys: 'Grįždami nuo Junigedos, broliai įsiveržė į Aukaimio pilies apylinkes, jas nuniokojo, paėmė belaisvių ir parsivedė didelį grobį.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Pradinis sakinys prasideda kontekstiniu jungtuku ir nėra savarankiškas; citata palaiko pilną formuluotę.'
+  susije_objektai: 'mentioned_place: Aukaimis; mentioned_place: Junigeda; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -51,6 +54,12 @@ Nenurodyta
 - t-002
   global_id: t-62743
   teiginys: '1291 m. birželio 29 d. Baigos komtūras Henrikas Cutsvertas su 20 brolių ir 1500 vyrų išjojo link Junigedos pilies.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pradinė formuluotė turi antraštės triukšmo ir yra per ilga; citata palaiko aiškų žygio pradžios faktą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Henrikas Cutsvertas|Henrikas Cutsvertas]]; mentioned_place: Aukaimis; mentioned_place: Baiga; mentioned_place: Junigeda; mentioned_place: Ragainė; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1291 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinė formuluotė turi antraštės triukšmo ir yra per ilga; citata palaiko aiškų žygio pradžios faktą.'
   pagrindžia:
     - c-002
 
@@ -93,12 +102,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/Henrikas]]
-- [[objektai/zodynas/ginklanešiai]]
-- [[objektai/zodynas/vėliava]]
-- [[objektai/asmenys/Henrikas Cutsvertas]]
-- [[objektai/zodynas/komtūras]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

@@ -38,9 +38,16 @@ Nenurodyta
 - t-001
   global_id: t-08291
   teiginys: 'Kalvėje kalnėnai ir žemaičiai patys sau kalė padargus ir ginklus.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys paremtas citata, bet reikia aiškesnio sakinio ir įvardyto veikėjo.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalnėnai|Kalnėnai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/autoriai/M. Strijkovskis Stryjkowski.md#claim-t-172931|M. Strijkovskis Stryjkowski]]: Strijkovskis užsiminė apie mūšį, po kurio prie Sudervėlės upelio liko lietuvių sumuštų kryžiuočių kapavietė.
+- susijęs iš [[objektai/autoriai/Stryjkowski Strijkovskis.md#claim-t-88008|Stryjkowski Strijkovskis]]: Strijkovskis užsiminė apie mūšį prie Sudervėlės upelio, siejamą su lietuvių sumuštų kryžiuočių kapaviete.
+- susijęs iš [[objektai/daiktai/Pilaitės malūnas, kalvė ir lentpjūvė.md#claim-t-87089|Pilaitės malūnas, kalvė ir lentpjūvė]]: XVI a. pradžioje Pilaitės kaime veikė malūnas, kalvė ir lentpjūvė.
+- susijęs iš [[objektai/daiktai/Pilaitės pilkapis prie Sudervėlės.md#claim-t-87090|Pilaitės pilkapis prie Sudervėlės]]: Pilaitės dvaro lankose prie Sudervėlės upelio dunksojo pilkapis, laikytas lietuvių sumuštų kryžiuočių kapaviete.
+- susijęs iš Sudervėlė: Prie Sudervėlės upelio buvo pilkapis, laikytas lietuvių sumuštų kryžiuočių kapaviete.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -54,13 +61,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kalnėnai]]
-- [[objektai/grupes/Žemaičiai]]
-- [[objektai/autoriai/M. Strijkovskis Stryjkowski]]
-- [[objektai/daiktai/Pilaitės malūnas, kalvė ir lentpjūvė]]
-- [[objektai/daiktai/Pilaitės pilkapis prie Sudervėlės]]
-- [[objektai/autoriai/Stryjkowski Strijkovskis]]
-- [[objektai/daiktai/Ginklai]]

@@ -46,6 +46,11 @@ Nenurodyta
 - t-001
   global_id: t-19618
   teiginys: 'Lietuvoje daug vietovių, kalnų, miškų, medžių ir akmenų turi Perkūno vardą.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir paremtas citata apie Perkūno vardą turinčius objektus Lietuvoje.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1252 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir paremtas citata apie Perkūno vardą turinčius objektus Lietuvoje.'
   pagrindžia:
     - c-001
 
@@ -67,11 +72,3 @@ Nenurodyta
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/metraštis]]
-
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/metraštis]]

@@ -50,6 +50,7 @@ Nenurodyta
 - t-001
   global_id: t-47810
   teiginys: 'Patobulėjo ginklų, įrankių ir papuošalų formos.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Papuošalai|Papuošalai]]'
   pagrindžia:
     - c-002
 
@@ -57,6 +58,8 @@ Nenurodyta
 - t-002
   global_id: t-47811
   teiginys: 'Iš geležies buvo gaminami ginklai, tokie kaip ietys ir kirviai, bei įrankiai, tokie kaip dalgiai, pjautuvai, peiliai ir ylos.'
+  sudarymo_pagrindimas: 'Pašalintas neaiškus laiko žodis ir pataisyta rašyba.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Gintaras|Gintaras]]; mentioned_object: [[objektai/daiktai/Ietys|Ietys]]; mentioned_object: [[objektai/daiktai/Papuošalai|Papuošalai]]'
   pagrindžia:
     - c-001
 
@@ -88,13 +91,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/įrankis]]
-
-### Susiję objektai
-- [[objektai/daiktai/Ginklai]]
-- [[objektai/daiktai/Gintaras]]
-- [[objektai/daiktai/Papuošalai]]
-- [[objektai/daiktai/Ietys]]

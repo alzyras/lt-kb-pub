@@ -14,7 +14,7 @@ tags:
 
 ## Santrauka
 
-Švedų gvardijos kavalerija buvo pasiųsta į lemiamą ataką prieš dešinįjį lietuvių sparną. T. Lackio husarai pasitiko Švedų gvardijos kavaleriją ir ryžtingu puolimu nubloškė švedų raituosius gvardiečius.
+Netrukus karalius duos nurodymą siųsti gvardijos kavaleriją į lemiamą ataką puolimo kryptimi (į dešinįjį lietuvių sparną) gvardijos kavaleriją. ® Švedų gvardijos kavaleriją pasitinka T.
 
 ## Teiginiai
 
@@ -22,6 +22,8 @@ tags:
 - t-001
   global_id: t-41215
   teiginys: 'Švedų gvardijos kavalerija buvo pasiųsta į lemiamą ataką prieš dešinįjį lietuvių sparną.'
+  sudarymo_pagrindimas: 'Perrašyta pašalinant neaiškų veikėją ir OCR triukšmą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/husarai|husarai]]'
   pagrindžia:
     - c-002
 
@@ -29,6 +31,8 @@ tags:
 - t-002
   global_id: t-41216
   teiginys: 'T. Lackio husarai pasitiko Švedų gvardijos kavaleriją ir ryžtingu puolimu nubloškė švedų raituosius gvardiečius.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Švedų gvardijos kavaleriją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/husarai|husarai]]'
   pagrindžia:
     - c-001
 
@@ -68,11 +72,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/husarai]]
-- [[objektai/grupes/Švedai]]
-- [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.)]]
-- [[objektai/asmenys/T. Lackis]]

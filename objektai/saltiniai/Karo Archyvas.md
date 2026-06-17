@@ -32,6 +32,11 @@ KAr = Karo Archyvas, Vyriausiojo Kariuomenės Štabo Karo Mokslo skyriaus leidin
 - t-001
   global_id: t-37414
   teiginys: '1925 m. Kaune išleisto „Karo archyvo“ 11 tome buvo paskelbtas tekstas „Sukilėlių pulkai“.'
+  sudarymo_pagrindimas: 'Citata pateikia bibliografinę informaciją, kurią galima paversti sakiniu.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Kaunas'
+  temporaliniai_duomenys: 'įvykio data: 1925 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pateikia bibliografinę informaciją, kurią galima paversti sakiniu.'
   pagrindžia:
     - c-001
 

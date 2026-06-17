@@ -45,6 +45,11 @@ Nenurodyta
 - t-001
   global_id: t-28850
   teiginys: '1237–1240 m. mongolų invazija smarkiai paveikė rusų politinį ir kultūrinį gyvenimą Riurikaičių susiskaldymo laikotarpiu.'
+  sudarymo_pagrindimas: 'Perrašyta gramatiškiau ir be archajiškų bei OCR formų.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Aukso orda|Aukso orda]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_person: [[objektai/asmenys/Riurikas|Riurikas]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1237-1240; įvykio data: 1240 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Perrašyta gramatiškiau ir be archajiškų bei OCR formų.'
   pagrindžia:
     - c-001
 
@@ -52,6 +57,14 @@ Nenurodyta
 - t-002
   global_id: t-184340
   teiginys: 'Mongolų invazija 1237-1240 m. smarkiai paveikė rusų politinį ir kultūrinį gyvenimą Riurikaičių susiskaldymo laikotarpiu.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis teiginys turi OCR ir kalbos klaidų, todėl reikia sutvarkyti formuluotę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Aukso orda|Aukso orda]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Riurikas|Riurikas]]; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_place: Rusija'
+  temporaliniai_duomenys: 'įvykio data: 1237-1240; įvykio data: 1240 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys turi OCR ir kalbos klaidų, todėl reikia sutvarkyti formuluotę.'
   pagrindžia:
     - c-002
 
@@ -91,12 +104,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Aukso orda]]
-- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
-- [[objektai/asmenys/Riurikas]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/grupes/Rytas]]
-- [[objektai/zodynas/kunigaikščiai]]

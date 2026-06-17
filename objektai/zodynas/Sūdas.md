@@ -27,14 +27,18 @@ Vartojamos formos: `sūdąs`, `sūdą`.
 - t-001
   global_id: t-07709
   teiginys: 'Sūdas vartojamas skolų ir ginčo sprendimo kontekste, kai sprendimą galėjo persūdyti didysis kunigaikštis.'
+  sudarymo_pagrindimas: 'Citatos palaiko skolų ir sprendimo persvarstymo kontekstą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/tėvūnas|tėvūnas]]; mentioned_place: Katra'
   pagrindžia:
-    - c-002
     - c-001
+    - c-002
 
 <a id="claim-t-07710"></a>
 - t-002
   global_id: t-07710
   teiginys: 'Sūdas citatoje pripažindavo vergais skolininkus, kurie negalėjo laiku grąžinti skolos.'
+  sudarymo_pagrindimas: 'Citata pagrindžia sūdą kaip teisminį sprendimą priimančią instituciją.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/vergai|vergai]]'
   pagrindžia:
     - c-002
 
@@ -60,9 +64,3 @@ Vartojamos formos: `sūdąs`, `sūdą`.
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/didysis kunigaikštis]]
-- [[objektai/zodynas/tėvūnas]]
-- [[objektai/zodynas/vergai]]

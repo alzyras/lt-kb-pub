@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-1936 m. rinkimuose kandidatus į Seimą galėjo siūlyti tautininkų kontroliuojamos savivaldybės, o ne visuomeninės organizacijos ar piliečių grupės. 1936 m. vasarą vykę IV Seimo rinkimai nebuvo demokratiniai, o išrinktas Seimas vadintas „smetoniniu Seimu“. 1936 m. atgaivinus Seimo instituciją, kandidatus į Seimą galėjo siūlyti tik tautininkų kontroliuojamos savivaldybės.
+Dėl to atgaivinta Seimo institucija. Todėl 1936 m. vasarą vykę rinkimai nebuvo demokratiniai, o išrinktas IV Seimas vadintas „smetoniniu Seimu“.
 
 ## Laikotarpis ir datos
 
@@ -45,6 +45,11 @@ Nenurodyta
 - t-001
   global_id: t-20205
   teiginys: '1936 m. rinkimuose kandidatus į Seimą galėjo siūlyti tautininkų kontroliuojamos savivaldybės, o ne visuomeninės organizacijos ar piliečių grupės.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nepagrįstas, citata remia rinkimų kandidatų kėlimo tvarką.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]'
+  temporaliniai_duomenys: 'įvykio data: 1936 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys nepagrįstas, citata remia rinkimų kandidatų kėlimo tvarką.'
   pagrindžia:
     - c-001
 
@@ -52,6 +57,11 @@ Nenurodyta
 - t-002
   global_id: t-20206
   teiginys: '1936 m. vasarą vykę IV Seimo rinkimai nebuvo demokratiniai, o išrinktas Seimas vadintas „smetoniniu Seimu“.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai ir tiksliai perteikia citatoje nurodytą rinkimų vertinimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/IV Seimas|IV Seimas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]'
+  temporaliniai_duomenys: 'įvykio data: 1936 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai ir tiksliai perteikia citatoje nurodytą rinkimų vertinimą.'
   pagrindžia:
     - c-002
 
@@ -59,9 +69,17 @@ Nenurodyta
 - t-003
   global_id: t-183225
   teiginys: '1936 m. atgaivinus Seimo instituciją, kandidatus į Seimą galėjo siūlyti tik tautininkų kontroliuojamos savivaldybės.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis teiginys per trumpas ir neaiškus; citata leidžia nurodyti atrankos mechanizmą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]'
+  temporaliniai_duomenys: 'įvykio data: 1936 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys per trumpas ir neaiškus; citata leidžia nurodyti atrankos mechanizmą.'
   pagrindžia:
     - c-003
-
+- susijęs iš [[objektai/grupes/IV Seimas.md#claim-t-183133|IV Seimas (seimas)]]: 1936 m. vasarą vykę IV Seimo rinkimai nebuvo demokratiniai, nes opozicijos atstovams neleista juose dalyvauti.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -110,9 +128,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/IV Seimas|IV Seimas (seimas)]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/grupes/Lietuvių tautininkų sąjunga]]

@@ -20,6 +20,7 @@ Joną Algimantaitį (Alšėniškį)^3 ).
 - t-001
   global_id: t-53956
   teiginys: 'Mirus Skirgailai, Jonas Algimantaitis Alšėniškis buvo paskirtas Vytauto vietininku Kijeve.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Kijevas'
   pagrindžia:
     - c-001
 
@@ -36,7 +37,3 @@ Joną Algimantaitį (Alšėniškį)^3 ).
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/vietininkas]]

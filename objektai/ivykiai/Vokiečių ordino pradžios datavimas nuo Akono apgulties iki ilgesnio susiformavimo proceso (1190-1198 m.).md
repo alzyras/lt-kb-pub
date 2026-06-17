@@ -47,6 +47,11 @@ Nenurodyta
 - t-001
   global_id: t-59629
   teiginys: 'Dusburgiečio pasakojimas perteikia oficialią Ordino pradžios tradiciją, o „Narratio“ liudija ilgesnį procesą iki 1198 m.'
+  sudarymo_pagrindimas: 'Citata palaiko interpretacinį teiginį, bet reikia pašalinti perteklinę įžangą.'
+  susije_objektai: 'mentioned_place: Jeruzalė'
+  temporaliniai_duomenys: 'įvykio data: iki 1198 m.; įvykio data: 1198 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko interpretacinį teiginį, bet reikia pašalinti perteklinę įžangą.'
   pagrindžia:
     - c-001
 
@@ -54,6 +59,11 @@ Nenurodyta
 - t-002
   global_id: t-59630
   teiginys: 'Dusburgietis Vokiečių ordino pradžią datavo 1190 m., kai per Akono apgulą vyrai iš Bremeno ir Liubeko įrengė ligoninę.'
+  sudarymo_pagrindimas: 'Teiginys apie autoriaus datavimą pagrįstas, bet pradinė forma nutrūkusi ir turi OCR klaidų.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_place: Bremenas; mentioned_place: Jeruzalė; mentioned_place: Liubekas; mentioned_place: Vokietija'
+  temporaliniai_duomenys: 'įvykio data: 1190 m.; įvykio data: po 1191 m.; įvykio data: 1191 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data.'
+  temporalinis_llm_pakomentavimas: 'Teiginys apie autoriaus datavimą pagrįstas, bet pradinė forma nutrūkusi ir turi OCR klaidų.'
   pagrindžia:
     - c-002
 
@@ -91,8 +101,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Fridrichas]]
-- [[objektai/grupes/Vokiečiai]]

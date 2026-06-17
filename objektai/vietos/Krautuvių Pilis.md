@@ -23,6 +23,8 @@ tags:
 - t-001
   global_id: t-85936
   teiginys: 'Gaisras staiga apėmė Krautuvių pilį ir likusią Kreivosios dalį.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Anglai|Anglai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
   pagrindžia:
     - c-001
 
@@ -30,6 +32,8 @@ tags:
 - t-002
   global_id: t-85937
   teiginys: 'Krautuvių Pilyje susirinko keli tūkstančiai ginkluotų žmonių, vyresnieji ir prastuomenė, siekę ją ginti ir rasti prieglobstį.'
+  sudarymo_pagrindimas: 'Citata pagrindžia, kas rinkosi pilyje ir kokiu tikslu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Viena'
   pagrindžia:
     - c-003
 
@@ -37,6 +41,8 @@ tags:
 - t-003
   global_id: t-85938
   teiginys: 'Krautuvių Pilyje slėpdavosi priemiesčių gyventojai ir pirkliai su prekėmis, todėl vokiečiai ją taip praminė.'
+  sudarymo_pagrindimas: 'Citata pagrindžia pavadinimo priežastį ir pilies funkciją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Statinės|Statinės]]; mentioned_object: [[objektai/zodynas/pakancleris|pakancleris]]; mentioned_place: Smolenskas'
   pagrindžia:
     - c-002
 

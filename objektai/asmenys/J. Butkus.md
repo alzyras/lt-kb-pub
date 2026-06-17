@@ -20,6 +20,7 @@ Butkaus vadovaujamą 200 karių rinktinę. Butkaus vadovaujamas Marijampolės ba
 - t-001
   global_id: t-40153
   teiginys: 'J. Butkus vadovavo 200 karių rinktinei, kurią įsakyta iš Kauno išsiųsti į Prienus S. Zaskevičiaus žinion.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/P. Liatukas|P. Liatukas]]; mentioned_place: Kaunas; mentioned_place: Prienai'
   pagrindžia:
     - c-001
 

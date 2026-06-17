@@ -3,23 +3,35 @@ tipas: asmuo
 pavadinimas: 'Ipolitas Klimaševskis (Vilniaus gimnazijos mokytojas, XIX a.)'
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
+datos: []
+date_start: ''
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+amziai:
+  - 'XIX'
+periodo_grupes: []
 ---
 # Ipolitas Klimaševskis (Vilniaus gimnazijos mokytojas, XIX a.)
 
 ## Santrauka
 
-Dėl dalyvavimo 1831 m. sukilime Ipolitas Klimaševskis emigravo į užsienį ir spėjo paskelbti tik pasakojimą apie Žygimanto Kęstutaičio nužudymą 1440 m. Ipolitas Klimaševskis buvo Vilniaus gimnazijos mokytojas, prieš 1830 m. aptikęs Bychovco kronikos rankraštį Aleksandro Bychovco Mogiliovcų dvaro bibliotekoje. Ipolitas Klimaševskis trumpoje pratarmėje apie rankraščio radimą Aleksandro Bychovco bibliotekoje pirmasis įvertino Bychovco kroniką.
+Ipolitas Klimaševskis buvo Vilniaus gimnazijos mokytojas, prieš 1830 m. Aleksandro Bychovco Mogiliovcų dvaro bibliotekoje aptikęs Bychovco kronikos rankraštį. Dėl dalyvavimo 1831 m. sukilime jis emigravo į užsienį ir spėjo paskelbti tik dramatiškiausią kronikos fragmentą apie Žygimanto Kęstutaičio nužudymą. Trumpoje pratarmėje apie rankraščio radimą Klimaševskis pirmasis įvertino šią kroniką.
 
 ## Teiginiai
 
 <a id="claim-t-186504"></a>
 - t-001
   global_id: t-186504
-  teiginys: 'Dėl dalyvavimo 1831 m. sukilime Ipolitas Klimaševskis emigravo į užsienį ir spėjo paskelbti tik pasakojimą apie Žygimanto Kęstutaičio nužudymą 1440 m.'
+  teiginys: 'Dėl dalyvavimo 1831 m. sukilime Ipolitas Klimaševskis turėjo emigruoti į užsienį ir tespėjo paskelbti pasakojimą apie Žygimanto Kęstutaičio nužudymą 1440 m.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Formuluotė priartinta prie citatos: palikta, kad jis turėjo emigruoti, o ne neutraliai pridėta, kad emigravo. Nepridėta daugiau apie patį sukilimą ar leidinio aplinkybes.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Mogiliovcai'
+  temporaliniai_duomenys: 'įvykio data: 1440 m.; įvykio data: 1830 m.; įvykio data: 1831 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Formuluotė priartinta prie citatos: palikta, kad jis turėjo emigruoti, o ne neutraliai pridėta, kad emigravo. Nepridėta daugiau apie patį sukilimą ar leidinio aplinkybes.'
   pagrindžia:
     - c-001
 
@@ -27,6 +39,12 @@ Dėl dalyvavimo 1831 m. sukilime Ipolitas Klimaševskis emigravo į užsienį ir
 - t-002
   global_id: t-186505
   teiginys: 'Ipolitas Klimaševskis buvo Vilniaus gimnazijos mokytojas, prieš 1830 m. aptikęs Bychovco kronikos rankraštį Aleksandro Bychovco Mogiliovcų dvaro bibliotekoje.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai paremtas citata. Subjektas, pareigos, radimo vieta ir laikas jau aiškiai įvardyti.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/sąvadas|sąvadas]]; mentioned_place: Lietuva; mentioned_place: Mogiliovcai; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: po 1446 m.; įvykio data: 1446 m.; įvykio data: 1506 m.; įvykio data: 1830 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir tiesiogiai paremtas citata. Subjektas, pareigos, radimo vieta ir laikas jau aiškiai įvardyti.'
   pagrindžia:
     - c-003
 
@@ -34,12 +52,23 @@ Dėl dalyvavimo 1831 m. sukilime Ipolitas Klimaševskis emigravo į užsienį ir
 - t-003
   global_id: t-186506
   teiginys: 'Ipolitas Klimaševskis trumpoje pratarmėje apie rankraščio radimą Aleksandro Bychovco bibliotekoje pirmasis įvertino Bychovco kroniką.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Ipolitą Klimaševskį ir atitinka citatos informaciją. Rankraščio radimo kontekstas išskleistas pakankamai aiškiai.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Mogiliovcai'
+  temporaliniai_duomenys: 'įvykio data: 1440 m.; įvykio data: 1831 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie Ipolitą Klimaševskį ir atitinka citatos informaciją. Rankraščio radimo kontekstas išskleistas pakankamai aiškiai.'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/asmenys/Aleksandras Bychovcas.md#claim-t-186502|Aleksandras Bychovcas (volkovysko apskrities teisėjas)]]: Aleksandrui Bychovcui priklausiusioje Mogiliovcų dvaro bibliotekoje prieš 1830 m. buvo aptiktas Bychovco kronikos rankraštis.
+- susijęs iš [[objektai/daiktai/Bychovco kronikos rankraštis.md#claim-t-186807|Bychovco kronikos rankraštis]]: Bychovco kronikos rankraštį prieš 1830 m. Aleksandro Bychovco Mogiliovcų dvaro bibliotekoje aptiko Ipolitas Klimaševskis.
+- susijęs iš [[objektai/ivykiai/Žygimanto Kęstutaičio nužudymas.md#claim-t-187470|Žygimanto Kęstutaičio nužudymas]]: Ipolitas Klimaševskis paskelbė Bychovco kronikos pasakojimą apie Žygimanto Kęstutaičio nužudymą 1440 m.
+- susijęs iš Mogiliovcai: Mogiliovcų dvaro biblioteka nurodoma kaip vieta, kur iki 1830 m. Ipolitas Klimaševskis aptiko Bychovco kronikos rankraštį.
+- susijęs iš Mogiliovcai: Iki 1830 m. Ipolitas Klimaševskis Bychovco kronikos rankraštį aptiko Aleksandro Bychovco Mogiliovcų dvaro bibliotekoje.
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Dėl dalyvavimo 1831 m. sukilime Ipolitas Klimaševskis turėjo emigruoti į užsienį ir tespėjo paskelbti pasakojimą apie Žygimanto Kęstutaičio nužudymą 1440 m.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     Bychovco kronikos rankraštį prieš 1830 m. Alek­
@@ -94,8 +123,3 @@ Dėl dalyvavimo 1831 m. sukilime Ipolitas Klimaševskis emigravo į užsienį ir
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/sąvadas]]
-- [[objektai/ivykiai/Žygimanto Kęstutaičio nužudymas]]

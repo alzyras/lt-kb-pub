@@ -5,6 +5,8 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1918 m.'
+  - '1940 m.'
+  - '1990 m.'
   - '2001 m.'
 date_start: '1918'
 date_end: '2001'
@@ -31,6 +33,11 @@ Nuotraukos iš LCVA, LGGRTC Genocido aukų muziejaus ir Vilniaus Gaono valstybin
 - t-001
   global_id: t-77827
   teiginys: 'Leidinyje panaudotos nuotraukos iš LGGRTC Genocido aukų muziejaus fondų.'
+  sudarymo_pagrindimas: 'Citata pagrindžia tik šaltinių sąrašo faktą, todėl reikia pašalinti nutrūkusį fragmentą ir triukšmą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/diplomatija|diplomatija]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas|Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1918-1940; įvykio data: 1940 m.; įvykio data: po 1990 m.; įvykio data: 1990 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia tik šaltinių sąrašo faktą, todėl reikia pašalinti nutrūkusį fragmentą ir triukšmą.'
   pagrindžia:
     - c-001
 
@@ -51,10 +58,3 @@ Nuotraukos iš LCVA, LGGRTC Genocido aukų muziejaus ir Vilniaus Gaono valstybin
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]
-- [[objektai/zodynas/diplomatija]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Žydai]]

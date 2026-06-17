@@ -43,6 +43,7 @@ Nenurodyta
 - t-001
   global_id: t-40721
   teiginys: 'Jono Budrio Polovinsko špaga buvo siejama su Klaipėdos sukilimo vadu ir Vytauto Didžiojo karo muziejumi.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Vilniaus universiteto biblioteka; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -86,7 +87,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Steponas Batoras]]

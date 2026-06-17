@@ -28,6 +28,11 @@ Koehler, gener.
 - t-001
   global_id: t-34961
   teiginys: 'Koehlerio „Entwicklung des Kriegswesens und der Kriegsführung in der Ritterzeit“ antrasis tomas išleistas Breslau 1886 m.'
+  sudarymo_pagrindimas: 'Pradinė formuluotė per trumpa ir be predikato, bet citata pateikia bibliografinį faktą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
+  temporaliniai_duomenys: 'įvykio data: 1886 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinė formuluotė per trumpa ir be predikato, bet citata pateikia bibliografinį faktą.'
   pagrindžia:
     - c-001
 

@@ -28,6 +28,11 @@ Dusburgietis teigia, kad łowmiański H.
 - t-001
   global_id: t-61391
   teiginys: 'H. Łowmiańskio veikalas „Początki Polski“ nurodytas 1, 4 ir 5 tomais, išleistais Varšuvoje 1963, 1970 ir 1973 m.'
+  sudarymo_pagrindimas: 'Citata palaiko tomų ir leidimo metų faktą.'
+  susije_objektai: 'mentioned_place: Varšuva'
+  temporaliniai_duomenys: 'įvykio data: 1973 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko tomų ir leidimo metų faktą.'
   pagrindžia:
     - c-001
 

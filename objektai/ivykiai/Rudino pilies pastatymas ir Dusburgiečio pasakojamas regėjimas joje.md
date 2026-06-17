@@ -5,6 +5,12 @@ saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1163 m.'
+  - '1202 m.'
+  - '1229 m.'
+  - '1232 m.'
+  - '1233 m.'
+  - '1234 m.'
+  - '1235 m.'
   - '1266 m.'
 date_start: '1163'
 date_end: '1266'
@@ -23,7 +29,7 @@ amziai:
 
 ## Santrauka
 
-Jai tarus šiuos žodžius, regėjimas dingo. 1234 m. magistras Hermanas, po prūsų išvijimo iš Kulmo žemės, pastatė Rudino pilį prie dykros tarp Pamedės ir Kulmo žemių.
+Dusburgietis teigia, kad apie Rudino pilies pastatymą ir stebuklingą regėjimą, kurį vienas brolis joje išvydo Viešpaties dievo 1234 metais brolis Hermanas, magistras, jau išvijus prūsus iš Kulmo 229 Henrikas Barzdotasis (apie 1163—1238), Silezijos (Vroclavo) kunigaikštis nuo 1202 m.. Dusburgietis teigia, kad jai tarus šiuos žodžius, regėjimas dingo.
 
 ## Laikotarpis ir datos
 
@@ -47,6 +53,8 @@ Nenurodyta
 - t-001
   global_id: t-91907
   teiginys: 'Jai tarus šiuos žodžius, regėjimas dingo.'
+  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_person: [[objektai/asmenys/Marija|Marija]]; mentioned_person: [[objektai/asmenys/Mergelė Marija|Mergelė Marija]]; mentioned_place: Šventoji'
   pagrindžia:
     - c-002
 
@@ -54,6 +62,11 @@ Nenurodyta
 - t-002
   global_id: t-91908
   teiginys: '1234 m. magistras Hermanas, po prūsų išvijimo iš Kulmo žemės, pastatė Rudino pilį prie dykros tarp Pamedės ir Kulmo žemių.'
+  sudarymo_pagrindimas: 'Perrašyta sklandžiau ir pašalintas netaisyklingas konstrukcijos vartojimas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/dykra|dykra]]; mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_place: Krokuva; mentioned_place: Kulmas; mentioned_place: Lenkija; mentioned_place: Pamaris; mentioned_place: Pamedė; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Rudinas; mentioned_place: Silezija; mentioned_place: Zirgūna'
+  temporaliniai_duomenys: 'pastatymo data: po 1202 m.; pastatymo data: 1202 m.; pastatymo data: po 1229 m.; pastatymo data: 1229 m.; pastatymo data: po 1232 m.; pastatymo data: 1232 m.; pastatymo data: 1233 m.; pastatymo data: po 1234 m.; pastatymo data: 1234 m.; pastatymo data: 1235 m.; pastatymo data: 1266 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip pastatymo data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Perrašyta sklandžiau ir pašalintas netaisyklingas konstrukcijos vartojimas.'
   pagrindžia:
     - c-001
 
@@ -119,20 +132,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/ežeras]]
-
-### Susiję objektai
-- [[objektai/autoriai/Henrikas]]
-- [[objektai/autoriai/K. Būga]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Marija]]
-- [[objektai/asmenys/Mergelė Marija]]
-- [[objektai/grupes/Teutonai]]
-- [[objektai/zodynas/ginklanešiai]]
-- [[objektai/zodynas/netikėliai]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/zodynas/dykra]]
-- [[objektai/zodynas/magistras]]

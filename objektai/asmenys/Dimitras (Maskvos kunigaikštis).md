@@ -22,6 +22,9 @@ Bet kadaise Europą drebėti vertusi jų galybė jau buvo žuvusi, puolama Algir
 - t-001
   global_id: t-34718
   teiginys: 'Maskvos kunigaikštis Dimitras puolė totorių galybę, kuri Vytauto laikais jau buvo žlugusi.'
+  sudarymo_pagrindimas: 'Pradinė formuluotė nepakankamai tiesiogiai siejo teiginį su asmeniu.'
+  susije_objektai: 'territory: Europa; territory: Maskva; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Europa; mentioned_place: Maskva'
+  semantiniai_rysiai: '[[objektai/asmenys/Dimitras (Maskvos kunigaikštis)|Dimitras (Maskvos kunigaikštis)]] buvo valdovas Europa; [[objektai/asmenys/Dimitras (Maskvos kunigaikštis)|Dimitras (Maskvos kunigaikštis)]] buvo valdovas Maskva'
   pagrindžia:
     - c-001
 
@@ -29,6 +32,12 @@ Bet kadaise Europą drebėti vertusi jų galybė jau buvo žuvusi, puolama Algir
 - t-002
   global_id: t-184255
   teiginys: 'Maskvos kunigaikštis Dimitras kartu su Algirdu puolė totorių galybę, kuri Vytauto laikais jau buvo nusilpusi.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata palaiko faktą, bet pradinis teiginys prasideda kontekstiniu fragmentu.'
+  susije_objektai: 'territory: Europa; territory: Maskva; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/duoklė|duoklė]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Europa; mentioned_place: Maskva'
+  semantiniai_rysiai: '[[objektai/asmenys/Dimitras (Maskvos kunigaikštis)|Dimitras (Maskvos kunigaikštis)]] buvo valdovas Europa; [[objektai/asmenys/Dimitras (Maskvos kunigaikštis)|Dimitras (Maskvos kunigaikštis)]] buvo valdovas Maskva'
   pagrindžia:
     - c-002
 
@@ -63,9 +72,5 @@ Bet kadaise Europą drebėti vertusi jų galybė jau buvo žuvusi, puolama Algir
     - t-002
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Rusai]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/zodynas/duoklė]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/saar]]
+- Dimitras (Maskvos kunigaikštis) buvo_valdovas [[objektai/vietos/Europa]]
+- Dimitras (Maskvos kunigaikštis) buvo_valdovas [[objektai/vietos/Maskva]]

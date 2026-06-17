@@ -29,9 +29,16 @@ Vienos tų žemių priklausė jiems tiesiog: jose jie turėjo didelius savo dvar
 - t-001
   global_id: t-36779
   teiginys: 'Ekonomijos buvo dideli valdovų dvarai, administruojami jų skiriamų vietininkų.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/daiktai/Gardino ekonomijos manufaktūrų gaminiai.md#claim-t-77924|Gardino ekonomijos manufaktūrų gaminiai]]: Antanas Tyzenhauzas Gardino ekonomijoje įsteigė tekstilės, popieriaus, galanterijos, ginklų ir vežimų manufaktūras.
+- susijęs iš [[objektai/autoriai/Lietuvos istorikai ir socialinės istorijos tyrėjai.md#claim-t-179538|Lietuvos istorikai ir socialinės istorijos tyrėjai]]: P. Dundulienė, R. Marčėnas ir A. Makarevičius rašė apie žemdirbystės istoriją Lietuvoje ir ekonomikos klausimus.
+- susijęs iš [[objektai/autoriai/P. Dundulienė.md#claim-t-30896|P. Dundulienė]]: P. Dundulienė rašė Lietuvos žemdirbystės istorijos klausimais ir 1963 m. paskelbė veikalą „Žemdirbystė Lietuvoje“.
+- susijęs iš [[objektai/daiktai/Gardino ekonomijos manufaktūrų gaminiai.md#claim-t-77924|Gardino ekonomijos manufaktūrų gaminiai]]: Antanas Tyzenhauzas Gardino ekonomijoje įsteigė tekstilės, popieriaus, galanterijos, ginklų ir vežimų manufaktūras.
+- susijęs iš [[objektai/ivykiai/Šiaulių ekonomijos valstiečių sukilimas (1769 m.).md#claim-t-01890|Šiaulių ekonomijos valstiečių sukilimas (1769 m.)]]: Šiaulių ekonomijos sukilėliai norėjo susidėti su Ukrainos valstiečiais, bet atvykusi kariuomenė jų sukilimą žiauriai numalšino.
+- susijęs iš [[objektai/ivykiai/Šiaulių ekonomijos valstiečių sukilimas (1769 m.).md#claim-t-01891|Šiaulių ekonomijos valstiečių sukilimas (1769 m.)]]: 1769 m. Šiaulių ekonomijos valstiečių sukilimas buvo ypač garsus valstiečių sukilimų atvejis.
+- susijęs iš Šiaulių ekonomija: R. Marčėnas 1969 m. paskelbė darbą apie Šiaulių ekonomijos valstiečių sukilimą 1769 m.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -56,14 +63,4 @@ Vienos tų žemių priklausė jiems tiesiog: jose jie turėjo didelius savo dvar
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/autoriai/Lietuvos istorikai ir socialinės istorijos tyrėjai]]
-- [[objektai/autoriai/P. Dundulienė]]
-- [[objektai/ivykiai/Šiaulių ekonomijos valstiečių sukilimas (1769 m.)]]
-- [[objektai/zodynas/vietininkas]]
-- [[objektai/daiktai/Gardino ekonomijos manufaktūrų gaminiai]]
-- [[objektai/zodynas/otčici]]
+- [[objektai/asmenys/Antanas (vaistininkas)]] pastate ekonomija

@@ -46,6 +46,11 @@ Nenurodyta
 - t-001
   global_id: t-66944
   teiginys: '1241 m. Varmės, Notangos ir Bartos prūsai pasidavė tikėjimui ir Ordino broliams, o broliai pastatė Kroicburgo, Bartenšteino, Vizenburgo ir Rezlio pilis.'
+  sudarymo_pagrindimas: 'Pradinis teiginys negramatiškas ir nutrūkęs, bet citata pagrindžia įvykį ir pilių statybą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_place: Barta; mentioned_place: Galinda; mentioned_place: Heilsbergas; mentioned_place: Kroicburgas; mentioned_place: Notanga; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Rezlis; mentioned_place: Varmė; mentioned_place: Vizenburgas; mentioned_place: Vokietija'
+  temporaliniai_duomenys: 'pastatymo data: 1241 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys negramatiškas ir nutrūkęs, bet citata pagrindžia įvykį ir pilių statybą.'
   pagrindžia:
     - c-001
 
@@ -73,10 +78,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bartai]]
-- [[objektai/grupes/Notangai]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Varmiai]]

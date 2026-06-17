@@ -31,6 +31,11 @@ Dusburgietis teigia, kad regulos ir prologo redaktoriumi greičiausiai buvo Vilh
 - t-001
   global_id: t-60221
   teiginys: 'Kronikininkas klaidingai tapatino popiežiaus pasiuntinį Prūsijoje Vilhelmą su vėlesniu popiežiumi Aleksandru IV.'
+  sudarymo_pagrindimas: 'Teiginys apie kronikininko klaidą reikalauja atribucijos, bet pradinė formuluotė yra nutrūkusi.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras IV|Aleksandras IV]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Vilhelmas|Vilhelmas]]; mentioned_place: Prūsija; mentioned_place: Ryga'
+  temporaliniai_duomenys: 'įvykio data: 1244 m.; įvykio data: 1251 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys apie kronikininko klaidą reikalauja atribucijos, bet pradinė formuluotė yra nutrūkusi.'
   pagrindžia:
     - c-001
 
@@ -51,10 +56,3 @@ Dusburgietis teigia, kad regulos ir prologo redaktoriumi greičiausiai buvo Vilh
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/redaktorius]]
-
-### Susiję objektai
-- [[objektai/grupes/Vokiečiai]]

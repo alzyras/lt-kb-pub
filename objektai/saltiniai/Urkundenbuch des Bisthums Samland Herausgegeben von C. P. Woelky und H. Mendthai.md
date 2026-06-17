@@ -29,6 +29,11 @@ Dusburgietis teigia, kad urkundenbuch des Bisthums Samland / Herausgegeben von C
 - t-001
   global_id: t-61331
   teiginys: '„Urkundenbuch des Bisthums Samland“ parengė C. P. Woelky ir H. Mendthai, o leidinys išėjo Leipcige 1891 ir 1898 m.'
+  sudarymo_pagrindimas: 'Citata pagrindžia rengėjus ir leidimo metus.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/C. P. Woelky|C. P. Woelky]]; mentioned_place: Leipcigas; mentioned_place: Žemaičių kraštas'
+  temporaliniai_duomenys: 'įvykio data: 1898 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia rengėjus ir leidimo metus.'
   pagrindžia:
     - c-001
 

@@ -43,6 +43,8 @@ Nenurodyta
 - t-001
   global_id: t-19577
   teiginys: 'Po Žalgirio mūšio lenkai ir lietuviai pasidalijo grobį, įskaitant belaisvius, Ordino komtūrų barzdas ir vėliavas.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir pakankamai pagrįstas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Žemaitija'
   pagrindžia:
     - c-001
 
@@ -63,10 +65,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/daiktai/Kryžiuočių kariuomenės vėliavos]]
-- [[objektai/ivykiai/Žalgirio mūšis (1410 m.)]]

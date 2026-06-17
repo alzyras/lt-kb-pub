@@ -42,6 +42,8 @@ Nenurodyta
 - t-001
   global_id: t-89443
   teiginys: 'Baigos ir kitų minėtų pilių broliai gyveno skaisčiai, laikėsi dorovingo santūrumo ir griežtų vienuoliškų regulų.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai paremtas citatos turiniu.'
+  susije_objektai: 'location: Baiga; location: Engelsbergas; mentioned_place: Baiga; mentioned_place: Engelsbergas'
   pagrindžia:
     - c-001
 
@@ -49,6 +51,8 @@ Nenurodyta
 - t-002
   global_id: t-89444
   teiginys: 'Engelsbergo pilį aplankę vienuoliai jos gyventojų gyvenimą prilygino angelų gyvenimui.'
+  sudarymo_pagrindimas: 'Teiginys tiksliai nusako citatoje pateiktą vienuolių vertinimą.'
+  susije_objektai: 'mentioned_place: Engelsbergas'
   pagrindžia:
     - c-002
 
@@ -56,6 +60,8 @@ Nenurodyta
 - t-003
   global_id: t-89445
   teiginys: 'Baigos ir kitose minėtose pilyse broliai po vakarinių ar rytmetinių pamaldų plakdavo savo kūną rykštėmis.'
+  sudarymo_pagrindimas: 'Pašalintas neapibrėžtas kontekstas ir suformuluotas aiškus faktinis sakinys.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_place: Baiga; mentioned_place: Engelsbergas'
   pagrindžia:
     - c-002
 
@@ -95,8 +101,3 @@ Nenurodyta
   pagrindžia:
     - t-003
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Kūnas]]
-- [[objektai/posakiai/Tikrai geru vardu pavadinta pilis, nes jos imbuviai gyvena nelyginant angelai|Tikrai geru vardu pavadinta pilis, nes jos imbuviai gyvena nelyginant angelai (pilis)]]

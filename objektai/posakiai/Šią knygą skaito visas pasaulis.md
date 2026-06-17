@@ -21,6 +21,7 @@ tags:
 - t-001
   global_id: t-36024
   teiginys: 'Posakis „Šią knygą skaito visas pasaulis“ vartotas reklamuojant knygą, kurios vertimų buvo išpirkta daugiau kaip milijonas egzempliorių.'
+  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir suformuotas pilnas sakinys apie posakio vartojimą.'
   pagrindžia:
     - c-001
 

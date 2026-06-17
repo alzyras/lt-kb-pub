@@ -12,26 +12,29 @@ date_start: '1524'
 date_end: '1794'
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XVI'
-  - 'XVIII'
 tags:
   - bajorija
   - didikas
   - kunigaikštis
   - saltinis
+amziai:
+  - 'XVI'
+  - 'XVIII'
 ---
 # Lietuvos Metrika
 
 ## Santrauka
 
-Pranciškus Malevskis iš senosios Lietuvos Metrikos Balinskio medžiagai parūpino gausių išrašų apie Vilnių. 1524 m. Lietuvos Metrika patvirtina karaliaus priekaištus Vilniaus magistratui dėl nesutarimų su bendruomene. Vilniaus monetų kalykla, prižiūrima Ulriko Hozijaus, teikė nemaža pajamų karaliaus iždui.
+Šia kalba, LDK raštinėje susiformavusia alternatyva „bulgariškai“ raštijos tradicijai, ir surašyti reikšmingiausi to meto raštijos paminklai – Lietuvos Metrika, Lietuvos metraščiai ir Lietuvos Statutai. Kitą lietuvių vaidmens rusėnų visuomenėje aspektą slepia socialinė ekonominė sritis. Šios knygos įėjo į istoriją Lietuvos Metrikos vardu.
 
 ## Teiginiai
+
 <a id="claim-t-182798"></a>
 - t-001
   global_id: t-182798
   teiginys: 'Pranciškus Malevskis iš senosios Lietuvos Metrikos Balinskio medžiagai parūpino gausių išrašų apie Vilnių.'
+  sudarymo_pagrindimas: 'Teiginys tiksliai nurodo Pranciškaus Malevskio veiksmą ir jo ryšį su Lietuvos Metrika.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/senatas|senatas]]; mentioned_person: [[objektai/asmenys/Adomas (auksakalys)|Adomas (auksakalys)]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/asmenys/Pranciškus|Pranciškus]]; mentioned_person: [[objektai/autoriai/Pranciškus Malevskis|Pranciškus Malevskis]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 
@@ -39,6 +42,11 @@ Pranciškus Malevskis iš senosios Lietuvos Metrikos Balinskio medžiagai parūp
 - t-002
   global_id: t-182800
   teiginys: '1524 m. Lietuvos Metrika patvirtina karaliaus priekaištus Vilniaus magistratui dėl nesutarimų su bendruomene.'
+  sudarymo_pagrindimas: 'Citata pagrindžia konkretų, pilną teiginį apie Metrikos liudijamą faktą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vilniaus gaisro gesinimo įrankiai|Vilniaus gaisro gesinimo įrankiai]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1524 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia konkretų, pilną teiginį apie Metrikos liudijamą faktą.'
   pagrindžia:
     - c-001
 
@@ -46,6 +54,8 @@ Pranciškus Malevskis iš senosios Lietuvos Metrikos Balinskio medžiagai parūp
 - t-003
   global_id: t-182801
   teiginys: 'Vilniaus monetų kalykla, prižiūrima Ulriko Hozijaus, teikė nemaža pajamų karaliaus iždui.'
+  sudarymo_pagrindimas: 'Perrašyta į glaustesnį faktinį sakinį, pašalinant perteklinę nuorodą į ataskaitą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/maršalka|maršalka]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -53,10 +63,19 @@ Pranciškus Malevskis iš senosios Lietuvos Metrikos Balinskio medžiagai parūp
 - t-004
   global_id: t-183373
   teiginys: 'Lietuvos Metrika buvo Lietuvos didžiojo kunigaikščio raštinėje nuo XIV a. pabaigos iki 1794 m. susidaręs archyvas.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas apibrėžiamasis sakinys ir tiksliai atitinka citatą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Arabai|Arabai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_place: Lietuva; mentioned_place: Maskva'
+  temporaliniai_duomenys: 'įvykio data: iki 1794 m.; įvykio data: 1794 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas apibrėžiamasis sakinys ir tiksliai atitinka citatą.'
   pagrindžia:
     - c-004
 
-## Bibliografiniai įrodymai
+## Reikšmingi paminėjimai
+
 - c-001
   santrauka: '1524 m. Lietuvos Metrika patvirtina karaliaus priekaištus Vilniaus magistratui dėl nesutarimų su bendruomene.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -75,6 +94,7 @@ Pranciškus Malevskis iš senosios Lietuvos Metrikos Balinskio medžiagai parūp
   statusas: verified
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Vilniaus monetų kalykla, prižiūrima Ulriko Hozijaus, teikė nemaža pajamų karaliaus iždui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -94,6 +114,7 @@ Pranciškus Malevskis iš senosios Lietuvos Metrikos Balinskio medžiagai parūp
   statusas: verified
   pagrindžia:
     - t-003
+
 - c-003
   santrauka: 'Pranciškus Malevskis iš senosios Lietuvos Metrikos Balinskio medžiagai parūpino gausių išrašų apie Vilnių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -117,6 +138,7 @@ Pranciškus Malevskis iš senosios Lietuvos Metrikos Balinskio medžiagai parūp
   statusas: verified
   pagrindžia:
     - t-001
+
 - c-004
   santrauka: 'Lietuvos Metrika buvo Lietuvos didžiojo kunigaikščio raštinėje nuo XIV a. pabaigos iki 1794 m. susidaręs archyvas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

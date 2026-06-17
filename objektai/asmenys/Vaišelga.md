@@ -24,7 +24,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Vaišelga buvo vienintelis Lietuvos kunigaikštis, atsisakęs kunigaikštijos ir tapęs vienuoliu. Vaišelga nuvyko į Sinajaus kalną, ten pasikrikštijo, tapo vienuoliu, po trejų metų grįžo pas Mindaugą ir įkūrė vienuolyną. 1264 m. Mindaugo šalininkams nužudžius Treniotą, Lietuvos valdovu tapo Mindaugo sūnus Vaišelga, kuris yra pirmas žinomas Lietuvos istorijoje stačiatikybę priėmęs kunigaikštis.
+1264 m. Mindaugo šalininkams nužudžius Treniotą, Lietuvos valdovu tapo Mindaugo sūnus Vaišelga, kuris yra pirmas žinomas Lietuvos istorijoje stačiatikybę priėmęs kunigaikštis.
 
 ## Teiginiai
 
@@ -32,6 +32,11 @@ Vaišelga buvo vienintelis Lietuvos kunigaikštis, atsisakęs kunigaikštijos ir
 - t-001
   global_id: t-82777
   teiginys: 'Vaišelga buvo vienintelis Lietuvos kunigaikštis, atsisakęs kunigaikštijos ir tapęs vienuoliu.'
+  sudarymo_pagrindimas: 'Reikia patikslinti, kad kalbama apie Lietuvos kunigaikštį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1264 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia patikslinti, kad kalbama apie Lietuvos kunigaikštį.'
   pagrindžia:
     - c-002
 
@@ -39,6 +44,9 @@ Vaišelga buvo vienintelis Lietuvos kunigaikštis, atsisakęs kunigaikštijos ir
 - t-002
   global_id: t-82778
   teiginys: 'Vaišelga nuvyko į Sinajaus kalną, ten pasikrikštijo, tapo vienuoliu, po trejų metų grįžo pas Mindaugą ir įkūrė vienuolyną.'
+  sudarymo_pagrindimas: 'Pradinis teiginys turi OCR triukšmo, bet citata palaiko aiškų biografinį faktą.'
+  susije_objektai: 'location: Vilnia; location: Vilnius; mentioned_object: [[objektai/zodynas/duoklė|duoklė]]; mentioned_person: [[objektai/asmenys/Maukoldas|Maukoldas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Vilnia; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Vaišelga|Vaišelga]] keliavo į Vilnia; [[objektai/asmenys/Vaišelga|Vaišelga]] keliavo į Vilnius'
   pagrindžia:
     - c-001
 
@@ -46,9 +54,25 @@ Vaišelga buvo vienintelis Lietuvos kunigaikštis, atsisakęs kunigaikštijos ir
 - t-003
   global_id: t-183573
   teiginys: '1264 m. Mindaugo šalininkams nužudžius Treniotą, Lietuvos valdovu tapo Mindaugo sūnus Vaišelga, kuris yra pirmas žinomas Lietuvos istorijoje stačiatikybę priėmęs kunigaikštis.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra išsamus, gramatiškas ir paremtas citata.'
+  susije_objektai: 'territory: Lietuva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Vaišelga|Vaišelga]] buvo valdovas Lietuva'
+  temporaliniai_duomenys: 'valdymo laikotarpis: 1264 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Vaišelga (kunigaikštis) buvo valdovas Lietuva“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra išsamus, gramatiškas ir paremtas citata.'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/asmenys/Treniota.md#claim-t-90062|Treniota]]: 1264 m. Mindaugo šalininkai nužudė Treniotą, o Lietuvos valdovu tapo Mindaugo sūnus Vaišelga.
+- susijęs iš [[objektai/ivykiai/Treniotos nužudymas ir Vaišelgos atėjimas į valdžią.md#claim-t-77909|Treniotos nužudymas ir Vaišelgos atėjimas į valdžią]]: 1264 m. Mindaugo šalininkams nužudžius Treniotą, Lietuvos valdovu tapo Mindaugo sūnus Vaišelga.
+- susijęs iš [[objektai/paprociai/Lietuvių kunigaikščių stačiatikybės priėmimas Rusios žemių valdyme.md#claim-t-75375|Lietuvių kunigaikščių stačiatikybės priėmimas Rusios žemių valdyme]]: Priėmę stačiatikių tikėjimą lietuvių kunigaikščiai kūrėsi Rusios žemėse, kurios buvo jungiamos prie Lietuvos valstybės.
+- susijęs iš [[objektai/paprociai/Lietuvių kunigaikščių stačiatikybės priėmimas Rusios žemių valdyme.md#claim-t-75376|Lietuvių kunigaikščių stačiatikybės priėmimas Rusios žemių valdyme]]: Vaišelga priėmė stačiatikių tikėjimą, o jo valdytas Naugardukas buvo jungiamas prie Lietuvos valstybės.
+- susijęs iš Užsienio Lietuvių Spaudos Metraštis: „Užsienio Lietuvių Spaudos Metraštis“ rodyklėje nurodytas 17 puslapyje.
+- susijęs iš Naugardukas: Naugarduke tėvo įkurdintas Vaišelga siejamas su lietuvių kunigaikščių kūrimusi Rusios žemėse.
+- susijęs iš Naugardukas: Mindaugo sūnus Vaišelga buvo įkurdintas Naugarduke, o ši žemė jungta prie Lietuvos valstybės.
+- susijęs iš Uturiai: Uturiai buvo prie Betygalos.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -113,14 +137,6 @@ Vaišelga buvo vienintelis Lietuvos kunigaikštis, atsisakęs kunigaikštijos ir
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/paprociai/Lietuvių kunigaikščių stačiatikybės priėmimas Rusios žemių valdyme]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Maukoldas]]
-- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
-- [[objektai/grupes/Stačiatikiai]]
-- [[objektai/zodynas/duoklė]]
-- [[objektai/zodynas/kunigaikštija]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/ivykiai/Treniotos nužudymas ir Vaišelgos atėjimas į valdžią]]
-- [[objektai/asmenys/Treniota]]
+- Vaišelga (kunigaikštis) buvo_valdovas [[objektai/vietos/Lietuva]]
+- Vaišelga (kunigaikštis) keliavo_i [[objektai/vietos/Vilnia]]
+- Vaišelga (kunigaikštis) keliavo_i [[objektai/vietos/Vilnius]]

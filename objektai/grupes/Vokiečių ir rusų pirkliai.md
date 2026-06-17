@@ -23,6 +23,8 @@ Net pirkliai negalėjo jaustis saugūs dėl jo nežaboto gobšumo, ir Vilnius ė
 - t-001
   global_id: t-86834
   teiginys: 'Žygimanto neteisingumo įbauginti vokiečių ir rusų pirkliai nebegalėjo tikėtis ankstesnio saugumo Vytauto sostinėje.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, faktinis ir atitinka citatos turinį apie pirklių nesaugumą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Rusų pirkliai|Rusų pirkliai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -48,13 +50,3 @@ Net pirkliai negalėjo jaustis saugūs dėl jo nežaboto gobšumo, ir Vilnius ė
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bajorai]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/grupes/Rusų pirkliai]]
-- [[objektai/asmenys/Žygimantas]]
-- [[objektai/grupes/Vilniaus miestiečių luomas]]

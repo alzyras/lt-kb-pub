@@ -3,16 +3,26 @@ tipas: daiktas
 pavadinimas: 'Bychovco kronikos rankraštis'
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
+datos:
+  - '1440 m.'
+  - '1766 m.'
+  - '1830 m.'
+  - '1831 m.'
+date_start: '1440'
+date_end: '1831'
 sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
+amziai:
+  - 'XV'
+  - 'XIX'
 ---
 # Bychovco kronikos rankraštis
 
 ## Santrauka
 
-Komentare nurodoma, kad bychovco kronikos rankraštį prieš 1830 m. Mogiliovcų dvare aptiko Ipolitas Klimaševskis; Aleksandras Bychovcas per teisėją Vincentą Janovskį 1834 m. persiuntė rankraštį Teodorui Narbutui. Komentare nurodoma, kad komentare dar viena BK rankraščio spraga siejama su tekstu, paimtu iš Lietuvos metraščių PS Račinskio nuorašo. Komentare nurodoma, kad komentare teigiama, kad BK rankraštyje toje vietoje buvo spraga; Komentare nurodoma, kad ši BK rankraščio spraga leidime buvo pildoma iš PS antrosios redakcijos Račinskių nuorašo.
+Komentare nurodoma, kad bychovco kronikos rankraštį prieš 1830 m. Mogiliovcų dvare aptiko Ipolitas Klimaševskis; Aleksandras Bychovcas per teisėją Vincentą Janovskį 1834 m. persiuntė rankraštį Teodorui Narbutui. Komentare nurodoma, kad t. Narbuto prašomas Aleksandras Bychovcas perdavė rankraštį Vincentui Janovskiui; 1834.II.4 rankraštis buvo persiųstas T. Narbutui į Saurus.
 
 ## Pavadinimai šaltiniuose
 
@@ -41,21 +51,36 @@ Nenurodyta
 <a id="claim-t-186807"></a>
 - t-001
   global_id: t-186807
-  teiginys: 'Komentare nurodoma, kad bychovco kronikos rankraštį prieš 1830 m. Mogiliovcų dvare aptiko Ipolitas Klimaševskis; Aleksandras Bychovcas per teisėją Vincentą Janovskį 1834 m. persiuntė rankraštį Teodorui Narbutui.'
+  teiginys: 'Bychovco kronikos rankraštį prieš 1830 m. Aleksandro Bychovco Mogiliovcų dvaro bibliotekoje aptiko Ipolitas Klimaševskis.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Bychovco kronikos rankraštį. Jame tiksliai išskleisti citatoje nurodyti radėjas, laikas ir vieta.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Ipolitas Klimaševskis|Ipolitas Klimaševskis]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Mogiliovcai'
+  temporaliniai_duomenys: 'įvykio data: 1440 m.; įvykio data: 1830 m.; įvykio data: 1831 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie Bychovco kronikos rankraštį. Jame tiksliai išskleisti citatoje nurodyti radėjas, laikas ir vieta.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-186808"></a>
 - t-002
   global_id: t-186808
-  teiginys: 'Komentare nurodoma, kad komentare dar viena BK rankraščio spraga siejama su tekstu, paimtu iš Lietuvos metraščių PS Račinskio nuorašo.'
+  teiginys: 'Kita Bychovco kronikos rankraščio spraga vertime buvo užpildyta tekstu iš Lietuvos metraščių PS Račinskio nuorašo.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pašalintas perteklinis priskyrimas ir sukonkretintas teiginio objektas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/nuorašas|nuorašas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
 <a id="claim-t-186809"></a>
 - t-003
   global_id: t-186809
-  teiginys: 'Komentare nurodoma, kad komentare teigiama, kad BK rankraštyje toje vietoje buvo spraga; Komentare nurodoma, kad ši BK rankraščio spraga leidime buvo pildoma iš PS antrosios redakcijos Račinskių nuorašo.'
+  teiginys: 'Bychovco kronikos rankraščio spraga leidime buvo užpildyta tekstu iš Lietuvos metraščių PS antrosios redakcijos Račinskių nuorašo.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pašalinti pasikartojantys komentaro minėjimai ir paliktas aiškus faktas.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Herbas|Herbas]]; mentioned_object: [[objektai/daiktai/Kentauras|Kentauras]]; mentioned_object: [[objektai/zodynas/nuorašas|nuorašas]]; mentioned_person: [[objektai/autoriai/M. Strijkovskis|M. Strijkovskis]]; mentioned_person: [[objektai/asmenys/Pajauta|Pajauta]]; mentioned_person: [[objektai/autoriai/T. Narbutas|T. Narbutas]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1766 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalinti pasikartojantys komentaro minėjimai ir paliktas aiškus faktas.'
   pagrindžia:
     - c-005
 
@@ -63,19 +88,28 @@ Nenurodyta
 - t-004
   global_id: t-186810
   teiginys: 'Bychovco kronikos rankraštis buvo pirmykščio kirilica rašyto teksto transkripcija lotyniškais lenkiškais rašmenimis.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, tikslus ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/transkripcija|transkripcija]]'
   pagrindžia:
     - c-004
 
 <a id="claim-t-186811"></a>
 - t-005
   global_id: t-186811
-  teiginys: 'Komentare nurodoma, kad t. Narbuto prašomas Aleksandras Bychovcas perdavė rankraštį Vincentui Janovskiui; 1834.II.4 rankraštis buvo persiųstas T. Narbutui į Saurus.'
+  teiginys: 'Aleksandras Bychovcas perdavė Bychovco kronikos rankraštį Vincentui Janovskiui, kuris 1834.II.4 persiuntė jį Teodorui Narbutui į Saurus.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pašalintas boilerplate priskyrimas ir sutvarkyta asmenvardžių bei objekto nuoroda.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras Bychovcas|Aleksandras Bychovcas]]'
   pagrindžia:
     - c-003
-
+- susijęs iš [[objektai/asmenys/Aleksandras Bychovcas.md#claim-t-186502|Aleksandras Bychovcas (volkovysko apskrities teisėjas)]]: Aleksandrui Bychovcui priklausiusioje Mogiliovcų dvaro bibliotekoje prieš 1830 m. buvo aptiktas Bychovco kronikos rankraštis.
+- susijęs iš [[objektai/zodynas/nuorašas.md#claim-t-186920|nuorašas]]: Rastasis Bychovco kronikos rankraštis apibūdinamas kaip vėlesnis nuorašas iš blogai išlikusios kopijos.
+- susijęs iš [[objektai/zodynas/transkripcija.md#claim-t-186924|transkripcija]]: Bychovco kronikos rankraštis buvo ne vertimas, o kirilica rašyto teksto transkripcija lotyniškai lenkiškais rašmenimis.
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Bychovco kronikos rankraštį prieš 1830 m. Aleksandro Bychovco Mogiliovcų dvaro bibliotekoje aptiko Ipolitas Klimaševskis.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     Bychovco kronikos rankraštį prieš 1830 m. Alek­
@@ -96,6 +130,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Kita Bychovco kronikos rankraščio spraga vertime buvo užpildyta tekstu iš Lietuvos metraščių PS Račinskio nuorašo.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     *  Nuo šio žodžio BK rankraštyje buvo spraga. T. Narbuto pa­
@@ -109,6 +144,7 @@ Nenurodyta
     - t-002
 
 - c-003
+  santrauka: 'Aleksandras Bychovcas perdavė Bychovco kronikos rankraštį Vincentui Janovskiui, kuris 1834.II.4 persiuntė jį Teodorui Narbutui į Saurus.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     T. Narbuto prašomas, rankraščio savininkas Alek­
@@ -144,6 +180,7 @@ Nenurodyta
     - t-004
 
 - c-005
+  santrauka: 'Bychovco kronikos rankraščio spraga leidime buvo užpildyta tekstu iš Lietuvos metraščių PS antrosios redakcijos Račinskių nuorašo.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     1 1  Po šio žodžio BK rankraštyje buvo spraga, kurią T. Narbutas
@@ -162,20 +199,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Herbas]]
-- [[objektai/daiktai/Kentauras]]
-- [[objektai/daiktai/Kentauro herbas]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/autoriai/M. Strijkovskis|Motiejus Strijkovskis (kronikininkas)]]
-- [[objektai/asmenys/Pajauta]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/autoriai/T. Narbutas]]
-- [[objektai/zodynas/nuorašas]]
-- [[objektai/zodynas/transkripcija]]
-- [[objektai/asmenys/Žygimantas]]
-- [[objektai/asmenys/Aleksandras]]
-- [[objektai/asmenys/Aleksandras Bychovcas|Aleksandras Bychovcas (volkovysko apskrities teisėjas)]]
-- [[objektai/asmenys/Vincentas Janovskis|Vincentas Janovskis (teisėjas, XIX a.)]]

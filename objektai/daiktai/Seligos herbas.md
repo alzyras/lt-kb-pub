@@ -1,22 +1,8 @@
 ---
 tipas: daiktas
-pavadinimas: "Seligos herbas"
-variantai: []
-aliases: []
+pavadinimas: 'Seligos herbas'
 saltiniai:
-  - "objektai/saltiniai/Lietuvos metraštis, Bychovco kronika (1971 m.).md"
-bukle: juodrastis
-laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: ""
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -34,30 +20,37 @@ Komentare nurodoma, kad komentare Seligos herbas aprašomas kaip kryžius, įsta
 Nenurodyta
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Naudojimas
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 <a id="claim-t-186866"></a>
 - t-001
   global_id: t-186866
-  teiginys: 'Komentare nurodoma, kad komentare Seligos herbas aprašomas kaip kryžius, įstatytas į gulsčią pusmėnulį; Komentare Seligos herbas pateikiamas kaip ženklas, į kurį buvęs panašus Davainų giminės ženklas.'
+  teiginys: 'Komentare Seligos herbas aprašomas kaip kryžius, įstatytas į gulsčią pusmėnulį, panašus į Davainų giminės ženklą.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir dubliavimas, išlaikytas komentaro priskyrimas.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Herbas|Herbas]]'
   pagrindžia:
     - c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  statusas: patvirtinta
-
+- susijęs iš [[objektai/daiktai/Dubnia herbas.md#claim-t-186864|Dubnia herbas]]: Pagal herbynus Davainų giminės ženklas buvo ne Dubnios, o į Seligos herbą panašus kryžius gulsčiame pusmėnulyje.
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Komentare nurodoma, kad komentare Seligos herbas aprašomas kaip kryžius, įstatytas į gulsčią pusmėnulį; Komentare Seligos herbas pateikiamas kaip ženklas, į kurį buvęs panašus Davainų giminės ženklas.'
+  santrauka: 'Komentare Seligos herbas aprašomas kaip kryžius, įstatytas į gulsčią pusmėnulį, panašus į Davainų giminės ženklą.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     Bei pagal
@@ -68,18 +61,8 @@ Nenurodyta
 
     i ii Seligos herbas — kryžius, jslatytas i gulsčią pusmėnuli (A. Bo-
     nieckl, Herbarz polski, t. V, Warszawa, 1902. p. 5).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/simbolis]]
-
-### Susiję objektai
-- [[objektai/daiktai/Herbas]]
-- [[objektai/daiktai/Dubnia herbas]]

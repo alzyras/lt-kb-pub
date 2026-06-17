@@ -6,6 +6,10 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1299 m.'
+  - '1404 m.'
+  - '1836 m.'
+  - '1848 m.'
+  - '1861 m.'
   - '2026 m.'
 date_start: '1299'
 date_end: '2026'
@@ -27,6 +31,9 @@ amziai:
 - t-001
   global_id: t-67362
   teiginys: '„Codex Diplomaticus Prussicus“ 3-6 tomus, apimančius 1299-1404 m., J. Voigtas išleido Karaliaučiuje 1848-1861 m.'
+  susije_objektai: 'mentioned_place: Bonn; mentioned_place: Karaliaučius'
+  temporaliniai_duomenys: 'įvykio data: 1299-1404; įvykio data: 1404 m.; įvykio data: 1848-1861; įvykio data: 1861 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 
@@ -34,6 +41,11 @@ amziai:
 - t-002
   global_id: t-67363
   teiginys: '„Codex Diplomaticus Prussicus“ I tomas išleistas Karaliaučiuje 1836 m.'
+  sudarymo_pagrindimas: 'Santrumpos ir lygybės ženklas pašalinti, paliktas leidybos faktas.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
+  temporaliniai_duomenys: 'įvykio data: 1836 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Santrumpos ir lygybės ženklas pašalinti, paliktas leidybos faktas.'
   pagrindžia:
     - c-001
 

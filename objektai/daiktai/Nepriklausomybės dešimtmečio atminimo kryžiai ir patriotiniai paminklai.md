@@ -40,6 +40,8 @@ Nenurodyta
 - t-001
   global_id: t-19573
   teiginys: 'Minint pirmąjį nepriklausomybės dešimtmetį pastatyta atminimo kryžių, patriotinių paminklų, primenančių nepriklausomybės kovas, imta rūpintis žuvusių už Lietuvos laisvę karių kapais.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_place: Kaunas; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

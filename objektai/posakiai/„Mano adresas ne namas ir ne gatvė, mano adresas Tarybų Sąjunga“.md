@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Homo sovieticus turėjo būti be tautinių požymių ir, partijai įsakius, dirbti bet kurioje Sovietų Sąjungos vietoje. Homo sovieticus turėjo būti asmuo be tautinių požymių, kuris partijai įsakius dirbtų bet kur pagal dainos žodžius „Mano adresas Tarybų Sąjunga“.
+Galutiniu produktu turėjo tapti homo sovieticus – asmuo be tautinių požymių, kuris partijai įsakius dirbs bet kur pagal žinomos dainos žodžius „Mano adresas ne namas ir ne gatvė, mano adresas Tarybų Sąjunga“.
 
 ## Teiginiai
 
@@ -21,6 +21,7 @@ Homo sovieticus turėjo būti be tautinių požymių ir, partijai įsakius, dirb
 - t-001
   global_id: t-75616
   teiginys: 'Homo sovieticus turėjo būti be tautinių požymių ir, partijai įsakius, dirbti bet kurioje Sovietų Sąjungos vietoje.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/homo sovieticus|homo sovieticus]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -28,6 +29,8 @@ Homo sovieticus turėjo būti be tautinių požymių ir, partijai įsakius, dirb
 - t-002
   global_id: t-75617
   teiginys: 'Homo sovieticus turėjo būti asmuo be tautinių požymių, kuris partijai įsakius dirbtų bet kur pagal dainos žodžius „Mano adresas Tarybų Sąjunga“.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir paremtas citatos formuluote.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/homo sovieticus|homo sovieticus]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -53,10 +56,3 @@ Homo sovieticus turėjo būti be tautinių požymių ir, partijai įsakius, dirb
   pagrindžia:
     - t-001
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/daiktai/Namas]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/zodynas/homo sovieticus]]

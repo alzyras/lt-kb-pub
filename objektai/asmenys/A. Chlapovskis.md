@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Gen. A. Gelgaudas pavedė gen. A. Chlapovskiui organizuoti sukilėlių kariuomenės atsitraukimą. Generolas Chlapovskis mėgino atkalbėti A. Gelgaudą nuo puolimo ir siūlė pasitraukti.
+Chlapovskis mėgino vyriausiąjį vadą generolą A. Chlapovskiui, kurio žinioje buvo paliktas 1-asis ulonų pulkas, Kališo raitelių dalinys, kuopa jėgerių ir viena artilerijos baterija.
 
 ## Teiginiai
 
@@ -20,6 +20,8 @@ Gen. A. Gelgaudas pavedė gen. A. Chlapovskiui organizuoti sukilėlių kariuomen
 - t-001
   global_id: t-39465
   teiginys: 'Gen. A. Gelgaudas pavedė gen. A. Chlapovskiui organizuoti sukilėlių kariuomenės atsitraukimą.'
+  sudarymo_pagrindimas: 'Sakinys papildytas aiškiu veikėju, remiantis citata.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/zodynas/ulonai|ulonai]]; mentioned_place: Viena'
   pagrindžia:
     - c-002
 
@@ -27,6 +29,8 @@ Gen. A. Gelgaudas pavedė gen. A. Chlapovskiui organizuoti sukilėlių kariuomen
 - t-002
   global_id: t-39466
   teiginys: 'Generolas Chlapovskis mėgino atkalbėti A. Gelgaudą nuo puolimo ir siūlė pasitraukti.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, bet citata palaiko aiškų faktą apie Chlapovskio veiksmą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Paneriai'
   pagrindžia:
     - c-001
 
@@ -65,9 +69,3 @@ Gen. A. Gelgaudas pavedė gen. A. Chlapovskiui organizuoti sukilėlių kariuomen
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Artilerija]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/zodynas/ulonai]]

@@ -36,6 +36,14 @@ Nenurodyta
 - t-001
   global_id: t-185516
   teiginys: '1435 m. Boleslovas Švitrigaila užėmė Breslaują, nusiaubė didelius Lietuvos plotus ir su kariuomene priartėjo prie Ukmergės.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys, paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Karinės vadovybės rangai|Karinės vadovybės rangai]]; mentioned_person: [[objektai/asmenys/Boleslovas|Boleslovas]]; mentioned_person: [[objektai/asmenys/Boleslovas Švitrigaila|Boleslovas Švitrigaila]]; mentioned_person: [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)|Jokūbas (vėliau Urbonas IV)]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lietuva; mentioned_place: Ukmergė'
+  temporaliniai_duomenys: 'įvykio data: 1435 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys, paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -60,11 +68,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)]]
-- [[objektai/zodynas/Karinės vadovybės rangai|karinės vadovybės rangai]]
-- [[objektai/asmenys/Boleslovas]]
-- [[objektai/asmenys/Boleslovas Švitrigaila]]
-- [[objektai/asmenys/Švitrigaila]]

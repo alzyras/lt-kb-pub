@@ -4,10 +4,12 @@ pavadinimas: 'Lenkijos ir Lietuvos kariuomenių struktūros aprašymas (1572 m.)
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
+  - '1560 m.'
   - '1561 m.'
   - '1572 m.'
-date_start: '1561'
-date_end: '1572'
+  - '1582 m.'
+date_start: '1560'
+date_end: '1582'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -30,6 +32,9 @@ Radvilos reidas „paralyžiavo“ Rusijos kariuomenę.
 - t-001
   global_id: t-78858
   teiginys: 'Radvilos reidas „paralyžiavo“ Rusijos kariuomenę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_person: [[objektai/asmenys/Fulvio Ruggieri|Fulvio Ruggieri]]; mentioned_place: Pskovas; mentioned_place: Rusija'
+  temporaliniai_duomenys: 'įvykio data: iki 1582 m.; įvykio data: 1572 m.; įvykio data: 1582 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -37,6 +42,11 @@ Radvilos reidas „paralyžiavo“ Rusijos kariuomenę.
 - t-002
   global_id: t-78859
   teiginys: '1572 m. Lenkijos ir Lietuvos kariuomenių struktūros aprašyme teigiama, kad kiekvienas vaivada buvo viršiausias tarp savųjų.'
+  sudarymo_pagrindimas: 'Pradinė formuluotė sumaišė kontekstą su nutrūkusia citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Fulvio Ruggieri|Fulvio Ruggieri]]; mentioned_place: Gardinas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Maskva'
+  temporaliniai_duomenys: 'įvykio data: 1560 m.; įvykio data: 1561 m.; įvykio data: 1572 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinė formuluotė sumaišė kontekstą su nutrūkusia citata.'
   pagrindžia:
     - c-002
 

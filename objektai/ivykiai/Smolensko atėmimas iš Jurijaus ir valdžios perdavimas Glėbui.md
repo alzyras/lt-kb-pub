@@ -30,6 +30,11 @@ Nenurodyta
 - t-001
   global_id: t-185828
   teiginys: 'Jurijui pabėgus iš Smolensko pas uošvį, smolenskiečiai atidavė pilį ir visą žemę Vytautui.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys pilnas, gramatiškas ir pagrįstas citatoje pateiktu įvykiu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Smolenskiečiai|Smolenskiečiai]]; mentioned_person: [[objektai/asmenys/Jurijus|Jurijus]]; mentioned_place: Riazanė; mentioned_place: Smolenskas'
   pagrindžia:
     - c-001
 
@@ -68,8 +73,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Jurijus]]
-- [[objektai/grupes/Smolenskiečiai]]

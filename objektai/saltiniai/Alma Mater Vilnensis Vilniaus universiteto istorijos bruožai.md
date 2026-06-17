@@ -3,10 +3,16 @@ tipas: saltinis
 pavadinimas: 'Alma Mater Vilnensis Vilniaus universiteto istorijos bruožai'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '2009 m.'
+date_start: '2009'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XXI'
 ---
 # Alma Mater Vilnensis Vilniaus universiteto istorijos bruožai
 
@@ -20,6 +26,11 @@ Alma Mater Vilnensis: Vilniaus universiteto istorijos bruožai: kolektyvinė mon
 - t-001
   global_id: t-21000
   teiginys: '„Alma Mater Vilnensis: Vilniaus universiteto istorijos bruožai“ yra kolektyvinė monografija, išleista Vilniuje 2009 m.'
+  sudarymo_pagrindimas: 'Teiginys yra bibliografinis faktas, tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 2009 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra bibliografinis faktas, tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
 

@@ -22,9 +22,11 @@ Dusburgietis teigia, kad septyniais sakramentais, taip dievo vietininkas žemėj
 - t-001
   global_id: t-58912
   teiginys: 'Popiežius Celestinas III paskyrė septynis Teutonų ordino brolius landkomtūrais, arba provincijų valdytojais.'
+  sudarymo_pagrindimas: 'Perrašyta į aiškų faktą apie termino reikšmę ir paskyrimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_person: [[objektai/asmenys/Celestinas III|Celestinas III]]; mentioned_person: [[objektai/asmenys/Popiežius Celestinas III|Popiežius Celestinas III]]; mentioned_place: Austrija; mentioned_place: Jeruzalė; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Luterbergas.md#claim-t-60167|Luterbergas]]: Kulmo landkomtūras Luterbergas Drevantos upės pakrantėje pastatė miestą, vardu Noimarkas.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -44,15 +46,3 @@ Dusburgietis teigia, kad septyniais sakramentais, taip dievo vietininkas žemėj
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Celestinas III]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Popiežius Celestinas III]]
-- [[objektai/grupes/Teutonai]]
-- [[objektai/zodynas/didysis magistras]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/vietininkas]]
-- [[objektai/asmenys/Luterbergas]]
-- [[objektai/posakiai/ant tvirtos uolos, o toji uola — Kristus]]

@@ -17,18 +17,19 @@ tags:
 Toliau jis pasakė: „Taip pat protestuoju prieš neteisybę, kuri mums būtų padaryta.
 
 ## Teiginiai
+
 <a id="claim-t-02079"></a>
 - t-001
   global_id: t-02079
   teiginys: 'Vytautas protestavo prieš numatomą neteisybę ir įspėjo lenkus dėl mėginimo atplėšti Palenkę, Voluinę ir Braclavą.'
+  sudarymo_pagrindimas: 'Citata leidžia suformuluoti aiškų faktą apie protesto turinį ir jo adresatą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Braclavas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Podolė; mentioned_place: Voluinė'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Vytautas protestavo prieš numatomą neteisybę ir įspėjo lenkus dėl mėginimo atplėšti Palenkę, Voluinę ir Braclavą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Toliau jis pasakė: „Taip pat protestuoju prieš neteisybę,
@@ -39,16 +40,8 @@ Toliau jis pasakė: „Taip pat protestuoju prieš neteisybę, kuri mums būtų 
     vą), dėl kurių abi valstybės rungėsi XIV ir XV amž. Tuo būdu Lie-
     tuva grasino susitaikinti ir susijungti ne tik su Maskva, bet ir su
     Lenkijai baisiais totoriais.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Totoriai]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

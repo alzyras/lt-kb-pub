@@ -43,6 +43,11 @@ Nenurodyta
 - t-001
   global_id: t-89376
   teiginys: '1220 m. Lietuvos ir žiemgalių kariuomenė Padauguvyje smogė kalavijuočiams.'
+  sudarymo_pagrindimas: 'Reikia pašalinti perteklinę autorinę įžangą, kontekstinį fragmentą ir išnašos numerį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Žiemgaliai|Žiemgaliai]]; mentioned_object: [[objektai/zodynas/kryžininkai|kryžininkai]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_place: Lietuva; mentioned_place: Padauguvis; mentioned_place: Prūsai; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1220 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia pašalinti perteklinę autorinę įžangą, kontekstinį fragmentą ir išnašos numerį.'
   pagrindžia:
     - c-001
     - c-002
@@ -77,13 +82,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kalavijuočių ordinas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Kuršiai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/kryžininkai]]
-- [[objektai/zodynas/Miera|miera]]
-- [[objektai/grupes/Žiemgaliai]]

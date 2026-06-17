@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-A. Kamińskio „Jaćwież“ cituojamas prie teiginio, kad Zilijos valsčius galėjo aprėpti Raigardo apylinkes ir eiti link Augustavo.
+Dusburgietis teigia, kad baltai gyveno į šiaurę nuo Narevo ir, matyt, Bebro upių; Zilijos valsčius tuo metu greičiausiai buvo į šiaurę nuo Bebro—Elko santakos, jis galėjo aprėpti ir Raigardo (Rajgród) apylinkes, eiti link Augustavo (Kamiński A., Jaćwież, p. 46— 47, 96—98; to paties.
 
 ## Teiginiai
 
@@ -21,6 +21,8 @@ A. Kamińskio „Jaćwież“ cituojamas prie teiginio, kad Zilijos valsčius ga
 - t-001
   global_id: t-91930
   teiginys: 'A. Kamińskio „Jaćwież“ cituojamas prie teiginio, kad Zilijos valsčius galėjo aprėpti Raigardo apylinkes ir eiti link Augustavo.'
+  sudarymo_pagrindimas: 'Pirminis teiginys turi klaidingą autorinę priskirtį ir nutrūkusią bibliografinę nuorodą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_person: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_place: Augustavas; mentioned_place: Bebras; mentioned_place: Narevas; mentioned_place: Zilija'
   pagrindžia:
     - c-001
 
@@ -40,7 +42,3 @@ A. Kamińskio „Jaćwież“ cituojamas prie teiginio, kad Zilijos valsčius ga
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Baltai]]

@@ -27,6 +27,11 @@ Vietoje LV ministrų vokiečių valdžia lietuvių administracijos vadovais pask
 - t-001
   global_id: t-75547
   teiginys: '1943 m. lapkričio 23–24 d. posėdžiavę generaliniai tarėjai ir vadinamoji Tautos taryba, išrinkta Lietuvių konferencijoje, atmetė SS dalinio organizavimo planą, pasisakė už tautinę Lietuvos kariuomenę.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nusako generalinių tarėjų sprendimą ir remiasi citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Povilas Plechavičius|Povilas Plechavičius]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1943 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako generalinių tarėjų sprendimą ir remiasi citata.'
   pagrindžia:
     - c-001
 
@@ -34,6 +39,11 @@ Vietoje LV ministrų vokiečių valdžia lietuvių administracijos vadovais pask
 - t-002
   global_id: t-75548
   teiginys: '1943 m. lapkričio 23–24 d. generaliniai tarėjai ir Tautos taryba atmetė SS dalinio planą ir pasisakė už tautinę Lietuvos kariuomenę.'
+  sudarymo_pagrindimas: 'Teiginys yra glaustas, gramatiškas ir tiksliai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Tautos taryba|Tautos taryba]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Povilas Plechavičius|Povilas Plechavičius]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1943 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra glaustas, gramatiškas ir tiksliai paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -41,6 +51,11 @@ Vietoje LV ministrų vokiečių valdžia lietuvių administracijos vadovais pask
 - t-003
   global_id: t-75549
   teiginys: 'Generaliniai tarėjai prižiūrėjo lietuvių administraciją ir buvo pavaldūs generaliniam tarėjui Petrui Kubiliūnui.'
+  sudarymo_pagrindimas: 'Pradinis teiginys turi puslapio triukšmo ir remiasi platesniu kontekstu nei pateikta citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Štuthofas'
+  temporaliniai_duomenys: 'įvykio data: 1943 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys turi puslapio triukšmo ir remiasi platesniu kontekstu nei pateikta citata.'
   pagrindžia:
     - c-002
 
@@ -48,9 +63,22 @@ Vietoje LV ministrų vokiečių valdžia lietuvių administracijos vadovais pask
 - t-004
   global_id: t-183426
   teiginys: 'Vokiečių valdžia vietoje Laikinosios vyriausybės ministrų lietuvių administracijos vadovais paskyrė generalinius tarėjus.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys aiškiai apibūdina generalinių tarėjų paskyrimą ir yra pagrįstas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Štuthofas'
+  temporaliniai_duomenys: 'įvykio data: 1943 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai apibūdina generalinių tarėjų paskyrimą ir yra pagrįstas citata.'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/grupes/Tautos taryba.md#claim-t-101477|Tautos taryba (institucija)]]: 1943 m. lapkričio 23–24 d. vadinamoji Tautos taryba ir generaliniai tarėjai atmetė SS dalinio organizavimo planą.
+- susijęs iš [[objektai/grupes/Tautos taryba.md#claim-t-101478|Tautos taryba (institucija)]]: 1943 m. lapkričio 23–24 d. generaliniai tarėjai ir Tautos taryba atmetė SS dalinio organizavimo planą ir pasisakė už tautinę Lietuvos kariuomenę.
+- susijęs iš [[objektai/ivykiai/Generalinių tarėjų ir Tautos tarybos SS dalinio plano atmetimas (1943 m. lapkričio 23-24 d.).md#claim-t-101527|Generalinių tarėjų ir Tautos tarybos SS dalinio plano atmetimas (1943 m. lapkričio 23-24 d.)]]: 1943 m. lapkričio 23–24 d. generaliniai tarėjai ir Tautos taryba atmetė SS dalinio organizavimo planą ir pasisakė už tautinę Lietuvos kariuomenę.
+- susijęs iš [[objektai/ivykiai/Generalinių tarėjų ir Tautos tarybos SS dalinio plano atmetimas (1943 m. lapkričio 23-24 d.).md#claim-t-101528|Generalinių tarėjų ir Tautos tarybos SS dalinio plano atmetimas (1943 m. lapkričio 23-24 d.)]]: 1943 m. lapkričio 23–24 d. generaliniai tarėjai ir Tautos taryba atmetė SS dalinio organizavimo planą.
+- susijęs iš SS dalinio organizavimo planas: 1943 m. lapkričio 23–24 d. generaliniai tarėjai ir Tautos taryba atmetė SS dalinio organizavimo planą.
+- susijęs iš SS dalinio organizavimo planas: 1943 m. lapkričio 23–24 d. generaliniai tarėjai ir Tautos taryba atmetė SS dalinio organizavimo planą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -96,11 +124,3 @@ Vietoje LV ministrų vokiečių valdžia lietuvių administracijos vadovais pask
   pagrindžia:
     - t-004
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Povilas Plechavičius]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/ivykiai/Generalinių tarėjų ir Tautos tarybos SS dalinio plano atmetimas (1943 m. lapkričio 23-24 d.)]]
-- [[objektai/grupes/Tautos taryba|Tautos taryba (institucija)]]

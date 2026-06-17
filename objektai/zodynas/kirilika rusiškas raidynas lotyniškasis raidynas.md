@@ -22,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-Iš dvikalbių elementorių kirilika sumanymo kilo siekis lietuvių raštijoje lotyniškąjį raidyną pakeisti rusiškuoju. Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, o lietuvių kalbos mokyti kaip disciplinos iš kirilika parašytų vadovėlių. 1904 m. pavasarį atšaukus lietuvių spaudos lotyniškuoju raidynu draudimą, pačiame krašte greitai atsirado legali lietuvių spauda.
+Vis dėlto ir valdžiai buvo aišku, kad etninės Lietuvos kaimo mokyklose pradėti mokyti rusų kalbos mokytojui nemokant lietuviškai yra sunkiai įmanomas dalykas, kad visų pirma tokiam mokytojui reikia išleisti dvikalbius elementorius, kuriuose būtų ir rusiškų. Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių kalbai paliekant disciplinos statusą (žinoma, mokyti lietuviškai reikėjo iš vadovėlių, parašytų kirilika). Didžiausia lietuvių sąjūdžio pergale ligi šiol laikomas 1904 m. pavasarį atšauktas lietuvių spaudos lotyniškuoju raidynu draudimas, jį panaikinus greitai atsirado ir legaliai pačiame krašte leidžiama lietuvių spauda.
 
 ## Teiginiai
 
@@ -30,6 +30,11 @@ Iš dvikalbių elementorių kirilika sumanymo kilo siekis lietuvių raštijoje l
 - t-001
   global_id: t-70176
   teiginys: 'Iš dvikalbių elementorių kirilika sumanymo kilo siekis lietuvių raštijoje lotyniškąjį raidyną pakeisti rusiškuoju.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūksta ir turi būti perrašytas į užbaigtą sakinį apie raidynų keitimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/kirilika|kirilika]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Kaimas; mentioned_place: Lietuva; mentioned_place: Rusija'
+  temporaliniai_duomenys: 'įvykio data: 1864 m.; įvykio data: 1904 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūksta ir turi būti perrašytas į užbaigtą sakinį apie raidynų keitimą.'
   pagrindžia:
     - c-003
 
@@ -37,6 +42,8 @@ Iš dvikalbių elementorių kirilika sumanymo kilo siekis lietuvių raštijoje l
 - t-002
   global_id: t-70177
   teiginys: 'Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, o lietuvių kalbos mokyti kaip disciplinos iš kirilika parašytų vadovėlių.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie kirilikos taikymą lietuvių kalbos vadovėliuose.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/kirilika|kirilika]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Užnemunė'
   pagrindžia:
     - c-002
 
@@ -44,6 +51,11 @@ Iš dvikalbių elementorių kirilika sumanymo kilo siekis lietuvių raštijoje l
 - t-003
   global_id: t-70178
   teiginys: '1904 m. pavasarį atšaukus lietuvių spaudos lotyniškuoju raidynu draudimą, pačiame krašte greitai atsirado legali lietuvių spauda.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nurodo spaudos lotyniškuoju raidynu draudimo atšaukimą ir padarinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Rusija'
+  temporaliniai_duomenys: 'įvykio data: 1904 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo spaudos lotyniškuoju raidynu draudimo atšaukimą ir padarinį.'
   pagrindžia:
     - c-001
 
@@ -103,15 +115,3 @@ Iš dvikalbių elementorių kirilika sumanymo kilo siekis lietuvių raštijoje l
   pagrindžia:
     - t-004
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bajorai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/zodynas/kirilika]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/daiktai/Dvikalbiai elementoriai kirilika]]
-- [[objektai/ivykiai/Lietuvių raštijos tradiciniu raidynu draudimo pradžia]]
-- [[objektai/ivykiai/Lietuvių spaudos lotyniškuoju raidynu draudimo atšaukimas]]
-- [[objektai/posakiai/„lenkų suartinimo su rusais“]]

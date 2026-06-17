@@ -14,6 +14,7 @@ tags:
   - karas
   - kunigaikštis
   - ordinas
+  - vyskupas
 amziai:
   - 'XII'
 periodo_grupes:
@@ -23,7 +24,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Hugonas Butyras buvo kilęs iš Olandijos ir XII a. viduryje tarnavo Mazovijos kunigaikščiui Boleslovui IV Garbanotajam. Pasak kronikos, Hugonas, vadinamas Potyre, senaisiais laikais kariavo su prūsais.
+Dusburgietis teigia, kad cezaris176, devyni broliai iš Švedijos, vardu Gamptai177, taip pat Hugonas, vadinamas Potyre178, galop brolis Kristijonas, Prūsijos vyskupas, ir broliai Kristaus kariai, tai yra vadinamieji Dobrynės broliai. Dusburgietis teigia, kad 178 Hugonas Butyras, kilęs iš Olandijos (tuo metu Sv.
 
 ## Teiginiai
 
@@ -31,6 +32,11 @@ Hugonas Butyras buvo kilęs iš Olandijos ir XII a. viduryje tarnavo Mazovijos k
 - t-001
   global_id: t-60145
   teiginys: 'Hugonas Butyras buvo kilęs iš Olandijos ir XII a. viduryje tarnavo Mazovijos kunigaikščiui Boleslovui IV Garbanotajam.'
+  sudarymo_pagrindimas: 'Citata pateikia aiškų biografinį faktą apie kilmę ir tarnybą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Hugonas|Hugonas]]; mentioned_place: Krokuva; mentioned_place: Mazovija; mentioned_place: Olandija'
+  temporaliniai_duomenys: 'įvykio data: po 1146 m.; įvykio data: 1146 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pateikia aiškų biografinį faktą apie kilmę ir tarnybą.'
   pagrindžia:
     - c-001
 
@@ -38,6 +44,9 @@ Hugonas Butyras buvo kilęs iš Olandijos ir XII a. viduryje tarnavo Mazovijos k
 - t-002
   global_id: t-60146
   teiginys: 'Pasak kronikos, Hugonas, vadinamas Potyre, senaisiais laikais kariavo su prūsais.'
+  sudarymo_pagrindimas: 'Citata leidžia suformuluoti aiškesnį teiginį apie asmenį, išlaikant šaltinio priskyrimą.'
+  susije_objektai: 'counterparty: [[objektai/grupes/Dobrynės broliai|Dobrynės broliai]]; counterparty: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_group: [[objektai/grupes/Dobrynės broliai|Dobrynės broliai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Dobrynė; mentioned_place: Prūsai; mentioned_place: Prūsija'
+  semantiniai_rysiai: '[[objektai/asmenys/Hugonas Butyras|Hugonas Butyras]] kariavo prieš [[objektai/grupes/Dobrynės broliai|Dobrynės broliai]]; [[objektai/asmenys/Hugonas Butyras|Hugonas Butyras]] kariavo prieš [[objektai/grupes/Teutonai|Teutonai]]'
   pagrindžia:
     - c-002
 
@@ -78,8 +87,5 @@ Hugonas Butyras buvo kilęs iš Olandijos ir XII a. viduryje tarnavo Mazovijos k
     - t-002
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Dobrynės broliai]]
-- [[objektai/grupes/Teutonai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/asmenys/Julijus Cezaris|Julijus Cezaris (vyskupas)]]
+- Hugonas Butyras kariavo_pries [[objektai/grupes/Dobrynės broliai]]
+- Hugonas Butyras kariavo_pries [[objektai/grupes/Teutonai]]

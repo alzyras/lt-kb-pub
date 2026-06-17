@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Tripartitio christiana samprata siejama su Viduramžių luomų idėja ir visuomenės skirstymu į karius, dvasininkus bei dirbančiuosius.
+Su tripartitio christiana (visuomenės skirstymas į karius, dvasininkus ir dirbančius žmones) samprata galima tiesiogiai sieti ir Viduramžių luomų idėją. Lietuvos krikštas davė pradžią luominei visuomenei.
 
 ## Teiginiai
 
@@ -23,6 +23,8 @@ Tripartitio christiana samprata siejama su Viduramžių luomų idėja ir visuome
 - t-001
   global_id: t-22330
   teiginys: 'Tripartitio christiana samprata siejama su Viduramžių luomų idėja ir visuomenės skirstymu į karius, dvasininkus bei dirbančiuosius.'
+  sudarymo_pagrindimas: 'Pirminis teiginys silpnai siejosi su objektu, todėl perrašytas pagal tiesiogiai citatoje pagrįstą informaciją.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/luomai|luomai]]; mentioned_object: [[objektai/zodynas/tripartitio christiana|tripartitio christiana]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -45,9 +47,3 @@ Tripartitio christiana samprata siejama su Viduramžių luomų idėja ir visuome
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
-- [[objektai/zodynas/luomai]]
-- [[objektai/paprociai/Jogailos krikšto privilegijos vyskupui, bajorams ir Vilniaus miestiečiams|Jogailos krikšto privilegijos vyskupui, bajorams ir Vilniaus miestiečiams (krikštas)]]

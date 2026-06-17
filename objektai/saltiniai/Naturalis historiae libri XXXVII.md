@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Plinijus Senesnysis 77 m. po Kr. veikale „Naturalis historiae libri XXXVII“ plačiai rašė apie gintaro prekybą, kilmę ir fizines savybes.
+Enciklopedinis rašytojas, Romos imperijos karininkas Plinijus Se­ nesnysis (23-79 m. po Kr.) savo « Gamtos istorijoje » (Naturalis historiae libri XXXVII) 77 m. po Kr.
 
 ## Teiginiai
 
@@ -20,6 +20,8 @@ Plinijus Senesnysis 77 m. po Kr. veikale „Naturalis historiae libri XXXVII“ 
 - t-001
   global_id: t-31858
   teiginys: 'Plinijus Senesnysis 77 m. po Kr. veikale „Naturalis historiae libri XXXVII“ plačiai rašė apie gintaro prekybą, kilmę ir fizines savybes.'
+  sudarymo_pagrindimas: 'Teiginys paremtas citata, bet perrašytas sklandžiau ir aiškiau nurodant veikalą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Romėnai|Romėnai]]; mentioned_object: [[objektai/daiktai/Gintaras|Gintaras]]; mentioned_place: Europa'
   pagrindžia:
     - c-001
 

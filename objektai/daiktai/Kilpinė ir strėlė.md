@@ -49,6 +49,8 @@ Nenurodyta
 - t-001
   global_id: t-87111
   teiginys: 'Pasak Strijkovskio, Gediminas medžiodamas strėle iš kilpinės pašovė taurą ant kalno, vėliau vadinto Tauro kalnu.'
+  sudarymo_pagrindimas: 'Teiginys pilnas, gramatiškas ir pagrįstai priskirtas Strijkovskiui.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_place: Aukštutinė pilis; mentioned_place: Luckas; mentioned_place: Trakai; mentioned_place: Vengrija; mentioned_place: Vilniaus Aukštutinė pilis; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -85,9 +87,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/asmenys/Šventaragis]]
-- [[objektai/asmenys/Gediminas]]

@@ -3,10 +3,16 @@ tipas: saltinis
 pavadinimas: 'A. Smetonos laiškas Michailui Kalininui'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1940 m.'
+date_start: '1940'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XX'
 ---
 # A. Smetonos laiškas Michailui Kalininui
 
@@ -20,6 +26,11 @@ Smetonos laiškas sovietų prezidentui Michailui Kalininui, nei dviejų aukštų
 - t-001
   global_id: t-20991
   teiginys: 'Taikingas A. Smetonos laiškas sovietų prezidentui Michailui Kalininui nepadėjo išvengti 1940 m. birželio 14 d. sovietų ultimatumo Lietuvai.'
+  sudarymo_pagrindimas: 'Pradinė formuluotė nutrūkusi, bet citata pagrindžia glaustą teiginį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Merkys'
+  temporaliniai_duomenys: 'įvykio data: 1940 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinė formuluotė nutrūkusi, bet citata pagrindžia glaustą teiginį.'
   pagrindžia:
     - c-001
 

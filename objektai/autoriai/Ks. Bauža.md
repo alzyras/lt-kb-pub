@@ -15,21 +15,22 @@ tags:
 
 ## Santrauka
 
-Ks. Bauža savo knygoje kaltino Lietuvos bajoriją, kad ji nesirūpina savo kalba ir nekuria savos literatūros.
+Bauža. Bauža savo knygoje kaltina Lietuvos bajoriją, kad ji nesirūpinanti savo kalba, kad nekurianti savos literatūros.
 
 ## Teiginiai
+
 <a id="claim-t-01086"></a>
 - t-001
   global_id: t-01086
   teiginys: 'Ks. Bauža savo knygoje kaltino Lietuvos bajoriją, kad ji nesirūpina savo kalba ir nekuria savos literatūros.'
+  sudarymo_pagrindimas: 'Perrašyta į sklandesnį enciklopedinį sakinį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Ks. Bauža savo knygoje kaltino Lietuvos bajoriją, kad ji nesirūpina savo kalba ir nekuria savos literatūros.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Bauža** savo knygoje kaltina Lietuvos bajoriją, kad ji nesirūpi-
@@ -37,14 +38,8 @@ Ks. Bauža savo knygoje kaltino Lietuvos bajoriją, kad ji nesirūpina savo kalb
     tuviškai kalbėti net tie, kurie ir moką. Liaudis tebekalbanti lietu-
     viškai, tačiau turinti mokytis lenkiškai, kad galėtų susikalbėti su
     ponais.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/ponai]]

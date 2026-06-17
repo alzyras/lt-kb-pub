@@ -18,6 +18,11 @@ Manvydas, Goštautas ir Astikas susitarė paskelbti karalių Vladislovą valdovu
 - t-001
   global_id: t-186021
   teiginys: 'Manvydas, Goštautas ir Astikas susitarė paskelbti karalių Vladislovą valdovu.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys sutrumpintas ir išvalytas nuo OCR artefaktų.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Astikas|Astikas]]; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_person: [[objektai/asmenys/Manvydas|Manvydas]]; mentioned_place: Vengrija'
   pagrindžia:
     - c-001
 
@@ -25,6 +30,11 @@ Manvydas, Goštautas ir Astikas susitarė paskelbti karalių Vladislovą valdovu
 - t-002
   global_id: t-186022
   teiginys: 'Karalius Vladislovas atšiauriai priėmė pasiuntinius, prašiusius patvirtinti pavojaus baimės nulemtas priemones.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo fragmentiškas ir neaiškus; citata remia aiškesnį faktą.'
+  susije_objektai: 'mentioned_object: [[objektai/asmenys/Jogaila (Lenkijos karalius, 1382 m.)|Jogaila (Lenkijos karalius, 1382 m.)]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]'
   pagrindžia:
     - c-002
 
@@ -32,6 +42,12 @@ Manvydas, Goštautas ir Astikas susitarė paskelbti karalių Vladislovą valdovu
 - t-003
   global_id: t-186023
   teiginys: 'Vengrijos karalius Vladislovas pradėjo karą ir patyrė pralaimėjimą Varnos mūšyje.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pašalinta perteklinė autorinė įžanga ir gandų dalis.'
+  susije_objektai: 'territory: Lenkija; territory: Lietuva; territory: Vengrija; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/asmenys/Jogaila (Lenkijos karalius, 1382 m.)|Jogaila (Lenkijos karalius, 1382 m.)]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vengrija'
+  semantiniai_rysiai: '[[objektai/asmenys/Vladislovas (karalius, Kazimiero brolis)|Vladislovas (karalius, Kazimiero brolis)]] buvo valdovas Lenkija; [[objektai/asmenys/Vladislovas (karalius, Kazimiero brolis)|Vladislovas (karalius, Kazimiero brolis)]] buvo valdovas Lietuva; [[objektai/asmenys/Vladislovas (karalius, Kazimiero brolis)|Vladislovas (karalius, Kazimiero brolis)]] buvo valdovas Vengrija'
   pagrindžia:
     - c-003
 
@@ -39,6 +55,11 @@ Manvydas, Goštautas ir Astikas susitarė paskelbti karalių Vladislovą valdovu
 - t-004
   global_id: t-186024
   teiginys: 'Kazimierui buvo pasiūlyta užimti brolio Vladislovo karaliaus sostą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata remia trumpą faktą apie Vladislovo vietos siūlymą Kazimierui.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/luomai|luomai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/žygūnai|žygūnai]]; mentioned_place: Lietuva; mentioned_place: Piotrkovas'
   pagrindžia:
     - c-004
 
@@ -147,11 +168,6 @@ Manvydas, Goštautas ir Astikas susitarė paskelbti karalių Vladislovą valdovu
     - t-004
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/asmenys/Manvydas]]
-- [[objektai/zodynas/luomai]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/zodynas/žygūnai]]
-- [[objektai/asmenys/Astikas]]
-- [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]]
+- Vladislovas (karalius, Kazimiero brolis) buvo_valdovas [[objektai/vietos/Lenkija]]
+- Vladislovas (karalius, Kazimiero brolis) buvo_valdovas [[objektai/vietos/Lietuva]]
+- Vladislovas (karalius, Kazimiero brolis) buvo_valdovas [[objektai/vietos/Vengrija]]

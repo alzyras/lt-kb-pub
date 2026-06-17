@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Skomętno) Skomanto kalnas (Skomentberg) Skomanto sodyba, p.
+Dusburgietis teigia, kad skomętno) Skomanto kalnas (Skomentberg) Skomanto sodyba, p.
 
 ## Teiginiai
 
@@ -20,9 +20,11 @@ Skomętno) Skomanto kalnas (Skomentberg) Skomanto sodyba, p.
 - t-001
   global_id: t-58727
   teiginys: 'Skomętno) Skomanto kalnas (Skomentberg) Skomanto sodyba, p.'
+  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
   pagrindžia:
     - c-001
-
+- susijęs iš Skomanto ežeras: Zioka Skomackas Skomantai Skomanto ež.
+- susijęs iš Skomanto sodyba: Skomanto sodyba rodyklėje siejama su pavadinimu Skomantburg.
 ## Reikšmingi paminėjimai
 
 - c-001

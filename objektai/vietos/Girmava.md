@@ -10,12 +10,13 @@ tags:
   - karas
   - ordinas
   - pilis
+  - vieta
 ---
 # Girmava
 
 ## Santrauka
 
-Henriko Stange kariuomenė, įsiveržusi į Sembą, degino ir grobė abipus kelio iki Girmavos kaimo. Henriko Stangės kariuomenė žiemos žygyje degino ir grobė Sembą iki Girmavos kaimo. Ruskojė) — Girmava, į pietryčius nuo Palmininkų (dab.
+Dusburgietis teigia, kad kristburgo komtūras, brolis Henrikas, vadinamas Stange313, gavęs magistro įsakymą, su didele kariuomene patraukė į karą prieš Sembą ir žiemos metu314 įsibrovė į ją apie tą vietą, kur šiuo metu stovi Laukstetų pilis315, degindamas ir grobdamas abiejose [kelio]. Dusburgietis teigia, kad ruskojė) — Girmava, į pietryčius nuo Palmininkų (dab. Dusburgietis teigia, kad pilis buvo stipriai 3 pylimais įtvirtintoje kalvoje, į šiaurės vakarus nuo Girmavos, vakarinėje Sembos pusiasalio pakrantėje (CF, p. 29—32, Nr. 12; Гуревич Ф.
 
 ## Teiginiai
 
@@ -23,6 +24,8 @@ Henriko Stange kariuomenė, įsiveržusi į Sembą, degino ir grobė abipus keli
 - t-001
   global_id: t-90453
   teiginys: 'Henriko Stange kariuomenė, įsiveržusi į Sembą, degino ir grobė abipus kelio iki Girmavos kaimo.'
+  sudarymo_pagrindimas: 'Citata palaiko žygio kryptį ir veiksmus iki Girmavos kaimo.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Kaimas; mentioned_place: Kristburgas; mentioned_place: Semba'
   pagrindžia:
     - c-001
 
@@ -30,6 +33,8 @@ Henriko Stange kariuomenė, įsiveržusi į Sembą, degino ir grobė abipus keli
 - t-002
   global_id: t-90454
   teiginys: 'Henriko Stangės kariuomenė žiemos žygyje degino ir grobė Sembą iki Girmavos kaimo.'
+  sudarymo_pagrindimas: 'Originalas minėjo tik bendrą įvadą, o citata pagrindžia konkretesnį faktą apie Girmavą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Kaimas; mentioned_place: Kristburgas; mentioned_place: Semba'
   pagrindžia:
     - c-001
 
@@ -37,9 +42,19 @@ Henriko Stange kariuomenė, įsiveržusi į Sembą, degino ir grobė abipus keli
 - t-003
   global_id: t-90455
   teiginys: 'Ruskojė) — Girmava, į pietryčius nuo Palmininkų (dab.'
+  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/asmenys/Henrikas Stange.md#claim-t-60319|Henrikas Stange]]: Kristburgo komtūras Henrikas Stange žiemą įsiveržė į Sembą su didele kariuomene, degindamas ir grobdamas iki Girmavos kaimo.
+- susijęs iš [[objektai/autoriai/Гуревич Ф. Д.md#claim-t-91939|Гуревич Ф. Д]]: F. D. Gurevič darbas cituojamas duomenims apie trimis pylimais įtvirtintą pilies kalvą prie Girmavos.
+- susijęs iš [[objektai/grupes/Sembai.md#claim-t-175077|Sembai]]: Prieš sembų gentį buvo kariauta daug karų, o viename žygyje Kristburgo komtūras Henrikas Stange įsiveržė į Sembą.
+- susijęs iš [[objektai/ivykiai/Henriko Stangės žygis į Sembą ir Girmavos nuniokojimas.md#claim-t-66562|Henriko Stangės žygis į Sembą ir Girmavos nuniokojimas]]: Kristburgo komtūras Henrikas Stangė žiemą įsiveržė į Sembą, niokojo kraštą iki Girmavos kaimo ir nukovė arba paėmė į nelaisvę daug žmonių.
+- susijęs iš Girmavos kaimas: Henriko Stange kariuomenė, įsiveržusi į Sembą, degino ir grobė abipus kelio iki Girmavos kaimo.
+- susijęs iš Girmavos kaimas: Henriko Stangės kariuomenė žiemos metu įsibrovė į Sembą ir degindama bei grobdama pasiekė Girmavos kaimą.
+- susijęs iš Laukstetų pilis (pilis): Kristburgo komtūras Henrikas Stange žiemą įsiveržė į Sembą ties vieta, kur Dusburgiečio laikais stovėjo Laukstetų pilis.
+- susijęs iš Lochštetė: Lochštetė buvo Ordino pilis Sembos pietvakarių kyšulyje, į pietvakarius nuo Fišhauzeno.
+- susijęs iš Lochštetė: Henrikas Stangė žiemos metu įsiveržė į Sembą prie vietos, kur vėliau stovėjo Lochštetės pilis.
 ## Reikšmingi paminėjimai
 
 - c-001

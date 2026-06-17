@@ -21,6 +21,8 @@ Dusburgietis teigia, kad kapinynų, kai kurių piliakalnių tyrimas rodo, kad U�
 - t-001
   global_id: t-60735
   teiginys: 'P. Kulikauskas kapinynų ir kai kurių piliakalnių tyrimais grindė teiginį, kad Užnemunė, ypač jos šiaurė, nebuvo negyvenama.'
+  sudarymo_pagrindimas: 'Pašalintas klaidingas Dusburgiečio priskyrimas ir suformuluotas aiškus teiginys apie autorių.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/P. Kulikauskas|P. Kulikauskas]]'
   pagrindžia:
     - c-001
 

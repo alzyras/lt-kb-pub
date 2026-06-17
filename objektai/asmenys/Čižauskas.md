@@ -20,6 +20,7 @@ tags:
 - t-001
   global_id: t-39691
   teiginys: 'Leitenantas Čižauskas buvo tarp 1-ojo bataliono karininkų, kurių pasigedo pulko vadas.'
+  sudarymo_pagrindimas: 'Citata remia konkretų faktą apie asmenį.'
   pagrindžia:
     - c-001
 

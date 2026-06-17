@@ -38,9 +38,12 @@ Nenurodyta
 - t-001
   global_id: t-08359
   teiginys: 'Parusnyje po dideliu žaliuojančiu ąžuolu stovėjo šėtra, prie kurios žyniai kūreno amžiną ugnį.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys pagrįstas citata, bet pataisytas į tikslesnę ir sklandesnę formuluotę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/daiktai/Dievų stabai.md#claim-t-08288|Dievų stabai]]: Per metines viešas aukas žmonės meldėsi prie šėtroje stovinčio aukuro ir dievo stabo.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -58,8 +61,3 @@ Nenurodyta
 ## Pastabos
 
 - tiksli šėtros forma iš šio pasakojimo nėra visiškai aiški; ji gali būti apeiginė pastogė arba šventvietės statinys.
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/daiktai/Dievų stabai]]

@@ -10,6 +10,7 @@ tags:
   - karalius
   - mūšis
   - ordinas
+  - tikėjimas
 ---
 # Mata
 
@@ -23,6 +24,8 @@ Dusburgietis teigia, kad štai pirmosiose kovose prieš Ordiną žuvusio Pipino 
 - t-001
   global_id: t-60055
   teiginys: 'Pipino sūnus Mata, kurio tėvas žuvo pirmosiose kovose prieš Ordiną, vėliau tarnavo Ordinui.'
+  sudarymo_pagrindimas: 'Citata pagrindžia Matos kilmę ir tarnybą Ordinui.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Pipinas|Pipinas]]'
   pagrindžia:
     - c-002
 
@@ -30,6 +33,8 @@ Dusburgietis teigia, kad štai pirmosiose kovose prieš Ordiną žuvusio Pipino 
 - t-002
   global_id: t-60056
   teiginys: 'Kilmingas pamedėnas Mata, Pipino sūnus, patarė broliams ir kariuomenei pulti priešus pėsčiomis, palikus arklius užnugaryje.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir turi perteklinį kontekstą, bet citata patvirtina Matos patarimą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Pipinas|Pipinas]]; mentioned_place: Kuršas; mentioned_place: Viena'
   pagrindžia:
     - c-003
 
@@ -37,9 +42,14 @@ Dusburgietis teigia, kad štai pirmosiose kovose prieš Ordiną žuvusio Pipino 
 - t-003
   global_id: t-60057
   teiginys: 'Mata buvo kilmingas Pamedės vyras ir Pipino sūnus, iki mirties drąsiai gynęs Kristaus tikėjimą.'
+  sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir teologiškai vertinamą palyginimą galima sutraukti į paremtą faktą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Pipinas|Pipinas]]; mentioned_place: Pamedė; mentioned_place: Torunė'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Martynas iš Golino.md#claim-t-63912|Martynas iš Golino]]: Martynas iš Golino žygiuodavo su Rudino ir vėliau Karaliaučiaus broliais.
+- susijęs iš [[objektai/asmenys/Martynas iš Golino.md#claim-t-63915|Martynas iš Golino]]: Martynas iš Golino žygiuodavo su Rudino broliais, o vėliau su Karaliaučiaus broliais.
+- susijęs iš [[objektai/posakiai/krikščioniškieji plėšikautojai.md#claim-t-59119|krikščioniškieji plėšikautojai]]: „Krikščioniškieji plėšikautojai“, veikę Ordino labui, galėjo pateikti nemaža žinių apie Lietuvos ir Prūsijos kraštus.
+- susijęs iš [[objektai/zodynas/latrunkuliai.md#claim-t-58913|latrunkuliai]]: Krikščioniškieji plėšikautojai, vadinti latrunkuliais, veikė Ordino labui ir galėjo teikti žinių kronikai.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -99,15 +109,3 @@ Dusburgietis teigia, kad štai pirmosiose kovose prieš Ordiną žuvusio Pipino 
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Ginklai]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Martynas iš Golino]]
-- [[objektai/asmenys/Pipinas]]
-- [[objektai/zodynas/maršalas]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/posakiai/krikščioniškieji plėšikautojai]]
-- [[objektai/zodynas/latrunkuliai]]

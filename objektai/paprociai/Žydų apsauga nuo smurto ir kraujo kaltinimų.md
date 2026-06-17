@@ -40,6 +40,7 @@ Nenurodyta
 - t-001
   global_id: t-87241
   teiginys: 'Jeigu krikščionis sumušdavo žydą nepraliedamas kraujo, kaltė jam turėjo būti priskirta pagal žemės paprotį, o nukentėjusiajam atlyginta.'
+  sudarymo_pagrindimas: 'Pradinis teiginys suprantamas, bet turi OCR laužymų; citata remia švarų normos perrašymą.'
   pagrindžia:
     - c-001
 
@@ -65,7 +66,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/socialinė-praktika]]

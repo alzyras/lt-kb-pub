@@ -21,6 +21,8 @@ tags:
 - t-001
   global_id: t-86857
   teiginys: 'Kojalavičius Švitrigailą apibūdino formule „homo furiosus, ac crapula infamis“, reiškiančia baisų žmogų ir begėdį girtuoklį.'
+  sudarymo_pagrindimas: 'Pradinis tekstas turi puslapio nuorodos ir OCR triukšmo, bet citata pagrindžia aiškų faktą apie apibūdinimą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -58,8 +60,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Švitrigaila]]
-- [[objektai/autoriai/August von Kotzebue]]

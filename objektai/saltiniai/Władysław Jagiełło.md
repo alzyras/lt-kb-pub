@@ -20,6 +20,7 @@ tags:
 - t-001
   global_id: t-31993
   teiginys: 'St. Smolka ir Fr. Papée parengė tekstą „Władysław Jagiełło“, paskelbtą „Encyklopedja Polska“ V tomo 1 dalyje.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/Fr. Papée|Fr. Papée]]; mentioned_person: [[objektai/autoriai/St. Smolka|St. Smolka]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Krokuva'
   pagrindžia:
     - c-001
 

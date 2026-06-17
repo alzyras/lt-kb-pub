@@ -49,6 +49,11 @@ Nenurodyta
 - t-001
   global_id: t-87015
   teiginys: '1390 m. apgultyje prie Žemutinės pilies šliejosi nedidelis Vilniaus miesto centras su mediniais namais, tvoromis ir grioviais.'
+  sudarymo_pagrindimas: 'Patikslintas objektas ir kontekstas, išlaikant tik citatos informaciją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Statinės|Statinės]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Bokštai; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1390 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Patikslintas objektas ir kontekstas, išlaikant tik citatos informaciją.'
   pagrindžia:
     - c-002
 
@@ -56,6 +61,11 @@ Nenurodyta
 - t-002
   global_id: t-87016
   teiginys: '1390 m. Vilniaus apgultyje vienai iš trijų miesto pilių, vadintai Krautuvių pilimi, vadovavo Jogailos brolis Kazimieras Karigaila.'
+  sudarymo_pagrindimas: 'Pašalintas puslapio triukšmas, paliktas citata pagrįstas faktas apie pilį ir vadą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Karigaila|Karigaila]]; mentioned_person: [[objektai/asmenys/Kazimieras Karigaila|Kazimieras Karigaila]]; mentioned_place: Viena; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1390 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas puslapio triukšmas, paliktas citata pagrįstas faktas apie pilį ir vadą.'
   pagrindžia:
     - c-003
 
@@ -63,6 +73,11 @@ Nenurodyta
 - t-003
   global_id: t-87017
   teiginys: '1390 m. Vilniaus apgultyje Aukštutinę pilį gynė lenkai su Vilniaus seniūnu Mikalojumi Moskorovskiu.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus ir atitinka citatoje pateiktą faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_person: [[objektai/asmenys/Karigaila|Karigaila]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1390 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus ir atitinka citatoje pateiktą faktą.'
   pagrindžia:
     - c-001
 
@@ -166,19 +181,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Karigaila]]
-- [[objektai/asmenys/Kazimieras Karigaila]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/seniūnas]]
-- [[objektai/paprociai/Apgultos pilies išardų taisymas laikinais užtaisais]]
-- [[objektai/paprociai/Gyventojų ir pirklių slėpimasis pilyje per apgultį]]
-- [[objektai/autoriai/M. Strijkovskis Stryjkowski]]
-- [[objektai/paprociai/Įtartinų žmonių šalinimas iš tvirtovės apgulties metu]]

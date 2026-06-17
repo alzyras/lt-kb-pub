@@ -27,6 +27,11 @@ amziai:
 - t-001
   global_id: t-29799
   teiginys: 'Baltų Tyrimo Institutas 1953–1967 m. Bonnoje išleido 13 Commentationes Balticae tomų.'
+  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatos duomenis apie leidėją, vietą, laiką ir tomų skaičių.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]'
+  temporaliniai_duomenys: 'įvykio data: iki 1967 m.; įvykio data: 1953-1967; įvykio data: 1967 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia citatos duomenis apie leidėją, vietą, laiką ir tomų skaičių.'
   pagrindžia:
     - c-001
 

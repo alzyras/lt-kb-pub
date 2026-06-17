@@ -5,6 +5,7 @@ saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1289 m.'
+  - '1293 m.'
   - '1294 m.'
 date_start: '1289'
 date_end: '1294'
@@ -15,6 +16,7 @@ tags:
   - krikštas
   - pilis
   - sąvoka
+  - tikėjimas
 amziai:
   - 'XIII'
 ---
@@ -30,6 +32,8 @@ Dusburgietis teigia, kad broliai, smarkiai juos persekioję su savo ginklanešia
 - t-001
   global_id: t-175175
   teiginys: 'Broliai su savo ginklanešiais persekiojo iš Notangos besitraukusius sūduvius, daug jų nukovė ar mirtinai sužeidė.'
+  sudarymo_pagrindimas: 'Pradinis teiginys turi nereikalingą šaltinio įžangą ir neaiškų įvardį; citata leidžia įvardyti sūduvius.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_place: Notanga'
   pagrindžia:
     - c-003
 
@@ -37,6 +41,11 @@ Dusburgietis teigia, kad broliai, smarkiai juos persekioję su savo ginklanešia
 - t-002
   global_id: t-175176
   teiginys: '1293 m. vienas ginklanešys iš Ragainės, gimęs Bartos žemėje, pabėgo ir lietuvių karaliui pasisiūlė perduoti Skalvių pilį.'
+  sudarymo_pagrindimas: 'Pradinis teiginys turi šaltinio įžangą ir vertinamąjį fragmentą; citata pagrindžia neutralų faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_person: [[objektai/asmenys/Albrechtas|Albrechtas]]; mentioned_person: [[objektai/asmenys/Albrechtas iš Hageno|Albrechtas iš Hageno]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Barta; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1293 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys turi šaltinio įžangą ir vertinamąjį fragmentą; citata pagrindžia neutralų faktą.'
   pagrindžia:
     - c-004
 
@@ -44,6 +53,8 @@ Dusburgietis teigia, kad broliai, smarkiai juos persekioję su savo ginklanešia
 - t-003
   global_id: t-175177
   teiginys: 'Ragainės piliai ginti Meinhardas paliko 40 brolių ir šimtą rinktinių ginklanešių.'
+  sudarymo_pagrindimas: 'Citata pagrindžia aiškų faktą apie ginklanešius, o pradinis teiginys nukrypsta nuo objekto.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_place: Austrija; mentioned_place: Nemunas; mentioned_place: Prūsija; mentioned_place: Ragainė; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -51,9 +62,16 @@ Dusburgietis teigia, kad broliai, smarkiai juos persekioję su savo ginklanešia
 - t-004
   global_id: t-175178
   teiginys: 'Liudvikas iš Libencelės ir Markvardas iš Revelingės su dviem broliais ir 26 ginklanešiais užpuolė lietuvius ir 25 jų nukovė.'
+  sudarymo_pagrindimas: 'Pradinis teiginys prasideda kontekstiniu jungtuku ir turi neaiškų įvardį; citata pagrindžia aiškų sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_person: [[objektai/asmenys/Liudvikas iš Libencelės|Liudvikas iš Libencelės]]; mentioned_person: [[objektai/asmenys/Markvardas (Ragainės komtūras)|Markvardas (Ragainės komtūras)]]; mentioned_person: [[objektai/asmenys/Markvardas iš Revelingės|Markvardas iš Revelingės]]; mentioned_place: Aukaimis; mentioned_place: Ragainė'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/asmenys/Albrechtas iš Hageno.md#claim-t-60004|Albrechtas iš Hageno]]: Albrechtas iš Hageno su broliu Konradu ir ginklanešiais gynė Skalvių pilį nuo lietuvių karaliaus karių.
+- susijęs iš [[objektai/asmenys/Albrechtas iš Hageno.md#claim-t-60005|Albrechtas iš Hageno]]: 1317 m. žygyje Albrechtas iš Hageno šuoliais leidosi į jam skirtą vietą, kai vienas ginklanešys nukrito nuo žirgo.
+- susijęs iš [[objektai/asmenys/Konradas (Skalvių pilies gynėjas).md#claim-t-60478|Konradas (Skalvių pilies gynėjas)]]: Brolis Konradas su Albrechtu iš Hageno ir ginklanešiais apgynė Skalvių pilį nuo lietuvių karaliaus karių.
+- susijęs iš [[objektai/ivykiai/Skalvių pilies puolimas (1293 m. žiema).md#claim-t-62921|Skalvių pilies puolimas (1293 m. žiema)]]: 1293 m. žiemą lietuvių karaliaus kariai puolė Skalvių pilį, nužudė brolį Liudviką Okse, bet pilies neužėmė.
+- susijęs iš Skalvių pilis (pilis, XIII a.): Iš Ragainės pabėgęs ginklanešys pasisiūlė lietuvių karaliui perduoti Skalvių pilį.
+- susijęs iš [[objektai/zodynas/ginklanešiai.md#claim-t-175170|ginklanešiai]]: 1293 m. vienas ginklanešys iš Ragainės, gimęs Bartos žemėje, pabėgo ir lietuvių karaliui pasisiūlė perduoti Skalvių pilį.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -137,24 +155,3 @@ Dusburgietis teigia, kad broliai, smarkiai juos persekioję su savo ginklanešia
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Albrechtas]]
-- [[objektai/asmenys/Albrechtas iš Hageno]]
-- [[objektai/asmenys/Konradas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Liudvikas]]
-- [[objektai/asmenys/Liudvikas iš Libencelės]]
-- [[objektai/asmenys/Markvardas (Ragainės komtūras)]]
-- [[objektai/asmenys/Markvardas iš Revelingės]]
-- [[objektai/grupes/Skalviai]]
-- [[objektai/grupes/Sūduviai]]
-- [[objektai/zodynas/ginklanešiai]]
-- [[objektai/asmenys/Konradas (Skalvių pilies gynėjas)]]
-- [[objektai/ivykiai/Skalvių pilies puolimas (1293 m. žiema)]]
-- [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu]]
-- [[objektai/asmenys/Meinhardas Saksas iš Kverfurto]]
-- [[objektai/ivykiai/Ragainės ir Skalvių pilių pastatymas]]
-- [[objektai/grupes/Sūduviai-jotvingiai]]
-- [[objektai/ivykiai/Sūduvių žygis į Notangą ir jų išblaškymas]]

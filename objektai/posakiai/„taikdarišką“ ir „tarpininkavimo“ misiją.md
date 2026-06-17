@@ -20,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-1715 m. Tarnogrodo konfederacija tapo pretekstu į ATR įvesti Rusijos kariuomenę, turėjusią atlikti „taikdarišką“ ir „tarpininkavimo“ misiją. 1715 m. Tarnogrodo konfederacija tapo pretekstu į ATR įvesti Rusijos kariuomenę, turėjusią atlikti „taikdarišką“ ir „tarpininkavimo“ misiją.
+, rusų paskatinta, susidarė prieš karalių Augustą 1 nukreipta Tarnogrodo konfederacija, ji tapo pretekstu į šalį įvesti Rusijos kariuomenę, kuri turėjo atlikti „taikdarišką“ ir „tarpininkavimo“ misiją.
 
 ## Teiginiai
 
@@ -28,6 +28,11 @@ amziai:
 - t-001
   global_id: t-78929
   teiginys: '1715 m. Tarnogrodo konfederacija tapo pretekstu į ATR įvesti Rusijos kariuomenę, turėjusią atlikti „taikdarišką“ ir „tarpininkavimo“ misiją.'
+  sudarymo_pagrindimas: 'Pirminė formuluotė gramatiškai nesklandi dėl misijos apibūdinimo.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/konfederacija|konfederacija]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Rusija; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1715 m.; įvykio data: 1717 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pirminė formuluotė gramatiškai nesklandi dėl misijos apibūdinimo.'
   pagrindžia:
     - c-001
 
@@ -47,9 +52,3 @@ amziai:
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Augustas]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/zodynas/konfederacija]]

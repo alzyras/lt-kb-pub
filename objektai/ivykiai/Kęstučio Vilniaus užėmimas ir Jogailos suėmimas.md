@@ -1,28 +1,10 @@
 ---
-tipas: 'ivykis'
+tipas: ivykis
 pavadinimas: 'Kęstučio Vilniaus užėmimas ir Jogailos suėmimas'
-sukurta: '2026-06-16'
-variantai:
-  - 'Kęstučio žygis į Vilnių prieš Jogailą'
-  - 'Jogailos paėmimas į nelaisvę Vilniuje'
-aliases: []
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
-bukle: 'juodrastis'
-laikotarpis: 'po Algirdo mirties, Jogailos valdymo pradžioje'
-datos:
-  - 'po Algirdo mirties, Jogailos valdymo pradžioje'
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: ''
-atnaujinta: '2026-06-16'
-tags: []
+sukurta: ''
+atnaujinta: ''
 ---
 # Kęstučio Vilniaus užėmimas ir Jogailos suėmimas
 
@@ -37,67 +19,72 @@ Lietuvos metraštis pasakoja, kad Kęstutis sužinojo apie slaptą Jogailos taik
   - po Algirdo mirties, Jogailos valdymo pradžioje
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 <a id="claim-t-186668"></a>
 - t-001
   global_id: t-186668
-  teiginys: 'Lietuvos metraštis pasakoja, kad Kęstutis sužinojo apie slaptą Jogailos taiką su Prūsų ir Livonijos kraštais.'
+  teiginys: 'Lietuvos metraštis pasakoja, kad po to Kęstutis nužygiavo į Vilnių, užėmė miestą ir paėmė Jogailą, jo brolius bei motiną į nelaisvę.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tinkamai priskirtas metraščiui.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Prūsai; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  statusas: patvirtinta
+
 <a id="claim-t-186669"></a>
 - t-002
   global_id: t-186669
-  teiginys: 'Lietuvos metraštis pasakoja, kad po to Kęstutis nužygiavo į Vilnių, užėmė miestą ir paėmė Jogailą, jo brolius bei motiną į nelaisvę.'
-  pagrindžia:
-    - c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  statusas: patvirtinta
-<a id="claim-t-186670"></a>
-- t-003
-  global_id: t-186670
-  teiginys: 'Lietuvos metraštis pasakoja, kad Kęstutis paėmė į savo rankas Jogailos žemes, pilis, auksą, iždą ir žirgyną.'
-  pagrindžia:
-    - c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  statusas: patvirtinta
-<a id="claim-t-186671"></a>
-- t-004
-  global_id: t-186671
-  teiginys: 'Lietuvos metraštis pasakoja, kad Kęstutis nenorėjo išvyti savo giminės ir grąžino Jogailai jo tėvo dalį.'
-  pagrindžia:
-    - c-002
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  statusas: patvirtinta
-<a id="claim-t-186672"></a>
-- t-005
-  global_id: t-186672
   teiginys: 'Lietuvos metraštis pasakoja, kad Jogaila prisiekė ištikimybę Kęstučiui ir pažadėjo Vilniaus nebereikalauti.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_place: Vitebskas'
   pagrindžia:
     - c-002
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  statusas: patvirtinta
+
+<a id="claim-t-186671"></a>
+- t-003
+  global_id: t-186671
+  teiginys: 'Lietuvos metraštis pasakoja, kad Kęstutis sužinojo apie slaptą Jogailos taiką su Prūsų ir Livonijos kraštais ir laikė tai išdavyste.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Išdavystės vertinimas yra poleminis, todėl būtina metraščio atribucija.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Prūsai; mentioned_place: Vilnius'
+  pagrindžia:
+    - c-001
+
+<a id="claim-t-186672"></a>
+- t-004
+  global_id: t-186672
+  teiginys: 'Lietuvos metraštis pasakoja, kad Kęstutis paėmė į savo rankas Jogailos žemes, pilis, auksą, iždą ir žirgyną.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_object: [[objektai/zodynas/žirgynas|žirgynas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Prūsai; mentioned_place: Vilnius'
+  pagrindžia:
+    - c-001
+
 <a id="claim-t-186673"></a>
-- t-006
+- t-005
   global_id: t-186673
-  teiginys: 'Lietuvos metraštis pasakoja, kad Jogaila po to pažado nesilaikė ir vėl užėmė Vilnių.'
+  teiginys: 'Lietuvos metraštis pasakoja, kad Jogaila nesilaikė pažado Kęstučiui ir vėl užėmė Vilnių, kai Kęstutis buvo karo žygyje.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Pažado nesilaikymas yra metraščio vertinimas, todėl reikia atribucijos ir konteksto.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_place: Vitebskas'
   pagrindžia:
     - c-002
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Lietuvos metraštis pasakoja, kad Kęstutis sužinojo apie slaptą Jogailos taiką su Prūsų ir Livonijos kraštais.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     Mūsų tėvas šito padaryti, atimti iš jo
@@ -118,17 +105,15 @@ Nenurodyta
     Jogailą, ir jo brolius, ir jo motiną, ir jo visas žemes
     bei pilis jis paėmė taip pat į savo rankas; ir jo auksą,
     ir iždą, ir žirgyną, viską tą jis paėmė.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   pagrindžia:
-    - t-001
-    - t-002
     - t-003
+    - t-001
+    - t-004
+
 - c-002
-  santrauka: 'Lietuvos metraštis pasakoja, kad Kęstutis nenorėjo išvyti savo giminės ir grąžino Jogailai jo tėvo dalį.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     Mūsų tėvas šitą tikrai patyrė
@@ -148,20 +133,9 @@ Nenurodyta
     Vitebske. Ir po to tačiau tiesos nesilaikė ir užėmė Vil­
     nių prieš mūsų tėvą: tuo metu mūsų tėvas buvo karo
     žygyje.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   pagrindžia:
-    - t-004
+    - t-002
     - t-005
-    - t-006
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/metraštis]]
-- [[objektai/zodynas/žirgynas]]

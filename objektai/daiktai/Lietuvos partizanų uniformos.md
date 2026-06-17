@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Bunkeryje buvę trylika vyrų vilkėjo lietuviškas uniformas, o vienas dėvėjo uniformą su liudininkės siuvinėtu antsiuvu.
+Agenty-smogiky grupė persirengusi Lietuvos partizanų uniformomis. Bunkeryje buvo visi tie trylika vyrų - visi aukšti kaip ąžuolai, visi gražūs, visi vilkėjo lietuviškas uniformas.
 
 ## Pavadinimai šaltiniuose
 
@@ -40,6 +40,8 @@ Nenurodyta
 - t-001
   global_id: t-80689
   teiginys: 'Bunkeryje buvę trylika vyrų vilkėjo lietuviškas uniformas, o vienas dėvėjo uniformą su liudininkės siuvinėtu antsiuvu.'
+  sudarymo_pagrindimas: 'Citata leidžia suformuluoti išsamesnį sakinį apie uniformas.'
+  susije_objektai: 'mentioned_place: Ariogala'
   pagrindžia:
     - c-001
 

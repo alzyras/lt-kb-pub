@@ -29,6 +29,11 @@ periodo_grupes:
 - t-001
   global_id: t-63404
   teiginys: 'Adolfas Ramanauskas-Vanagas 1956 m. buvo suimtas, žiauriai kankintas ir kitais metais sušaudytas.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie asmens suėmimą, kankinimą ir mirtį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_place: Dainava; mentioned_place: SSRS'
+  temporaliniai_duomenys: 'įvykio data: 1956 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie asmens suėmimą, kankinimą ir mirtį.'
   pagrindžia:
     - c-002
 
@@ -36,9 +41,15 @@ periodo_grupes:
 - t-002
   global_id: t-63405
   teiginys: 'Adolfas Ramanauskas-Vanagas vėliau įtarė, kad informacija apie rengiamą partizanų puolimą galėjo pasiekti priešą.'
+  sudarymo_pagrindimas: 'Reikia sutrumpinti ilgą teiginį ir aiškiai įvardyti asmenį.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]; mentioned_place: Perloja'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/grupes/Dainavos apygarda.md#claim-t-80653|Dainavos apygarda]]: Adolfas Ramanauskas-Vanagas vėliau tapo Dainavos apygardos ir Pietų Lietuvos srities partizanų vadu.
+- susijęs iš [[objektai/grupes/Lietuvos gynybos pajėgos.md#claim-t-41026|Lietuvos gynybos pajėgos]]: 1949 m. Adolfas Ramanauskas-Vanagas tapo Jono Žemaičio-Vytauto pavaduotoju ir vėliau LLKS gynybos pajėgų vadu.
+- susijęs iš [[objektai/ivykiai/Merkinės puolimas (1945 m. gruodžio 15 d.).md#claim-t-183675|Merkinės puolimas (1945 m. gruodžio 15 d.)]]: 1945 m. gruodžio 15 d. 11 val. Adolfas Ramanauskas-Vanagas balta raketa paskelbė Merkinės puolimo pradžią.
+- susijęs iš [[objektai/ivykiai/Merkinės puolimas (1945 m. gruodžio 15 d.).md#claim-t-66775|Merkinės puolimas (1945 m. gruodžio 15 d.)]]: Adolfas Ramanauskas-Vanagas, pasitaręs su Juozu Vitkumi-Kazimieraičiu, nutarė telkti partizanus Merkinės puolimui.
+- susijęs iš Merkinė: Adolfas Ramanauskas-Vanagas, pasitaręs su Juozu Vitkumi-Kazimieraičiu, nutarė sutelkti apylinkių partizanų dalinius ir pulti Merkinę.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -94,12 +105,3 @@ periodo_grupes:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/maršalas]]
-- [[objektai/daiktai/Šautuvai]]
-- [[objektai/ivykiai/Merkinės puolimas (1945 m. gruodžio 15 d.)]]
-- [[objektai/grupes/Dainavos apygarda]]
-- [[objektai/grupes/Lietuvos gynybos pajėgos]]
-- [[objektai/grupes/Marcinkonių batalionas]]

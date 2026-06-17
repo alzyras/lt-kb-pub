@@ -4,19 +4,21 @@ pavadinimas: 'Artis magnae artilleriae'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
+  - '1579 m.'
   - '1650 m.'
-date_start: '1650'
-date_end: ''
+date_start: '1579'
+date_end: '1650'
 sukurta: ''
 atnaujinta: ''
 amziai:
+  - 'XVI'
   - 'XVII'
 ---
 # Artis magnae artilleriae
 
 ## Santrauka
 
-Kazimiero Semenavičiaus veikalas „Artis magnae artilleriae“ datuojamas 1650 m. Kazimiero Semenavičiaus 1650 m. „Artis magnae artilleriae“ buvo reikšmingiausias Lietuvos karinės inžinerijos mokyklos darbas. Veikale išdėstyta daugiapakopių raketų teorija siejama su šiuolaikinės artilerijos ir kosmonautikos ištakomis.
+„Artis magnae artilleriae“ yra Kazimiero Semenavičiaus 1650 m. veikalas, apibūdinamas kaip reikšmingiausias Lietuvos karinės inžinerijos mokyklos darbas. Jame siejamos šiuolaikinės artilerijos ir kosmonautikos ištakos su daugiapakopių raketų teorija.
 
 ## Bibliografiniai duomenys
 
@@ -30,6 +32,11 @@ Kazimiero Semenavičiaus veikalas „Artis magnae artilleriae“ datuojamas 1650
 - t-001
   global_id: t-23384
   teiginys: 'Kazimiero Semenavičiaus veikalas „Artis magnae artilleriae“ datuojamas 1650 m.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/zodynas/Vidurio Europa|Vidurio Europa]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/autoriai/Kazimieras Semenavičius|Kazimieras Semenavičius]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1579 m.; įvykio data: 1650 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -37,6 +44,11 @@ Kazimiero Semenavičiaus veikalas „Artis magnae artilleriae“ datuojamas 1650
 - t-002
   global_id: t-23385
   teiginys: 'Kazimiero Semenavičiaus 1650 m. „Artis magnae artilleriae“ buvo reikšmingiausias Lietuvos karinės inžinerijos mokyklos darbas.'
+  sudarymo_pagrindimas: 'Perrašyta, kad data aiškiai apibūdintų veikalą, o ne reikšmingumo atsiradimo momentą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/zodynas/Vidurio Europa|Vidurio Europa]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/autoriai/Kazimieras Semenavičius|Kazimieras Semenavičius]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1579 m.; įvykio data: 1650 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Perrašyta, kad data aiškiai apibūdintų veikalą, o ne reikšmingumo atsiradimo momentą.'
   pagrindžia:
     - c-001
 
@@ -44,6 +56,9 @@ Kazimiero Semenavičiaus veikalas „Artis magnae artilleriae“ datuojamas 1650
 - t-003
   global_id: t-23386
   teiginys: 'Veikale išdėstyta daugiapakopių raketų teorija siejama su šiuolaikinės artilerijos ir kosmonautikos ištakomis.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/zodynas/Vidurio Europa|Vidurio Europa]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/autoriai/Kazimieras Semenavičius|Kazimieras Semenavičius]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1579 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -51,6 +66,11 @@ Kazimiero Semenavičiaus veikalas „Artis magnae artilleriae“ datuojamas 1650
 - t-005
   global_id: t-23388
   teiginys: 'Kazimiero Semenavičiaus veikalo „Artis magnae artilleriae“ frontispisas datuojamas 1650 m.'
+  sudarymo_pagrindimas: 'Pradinis tekstas yra antraštinis fragmentas, todėl perrašytas į pilną sakinį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Vidurio Europa|Vidurio Europa]]; mentioned_object: [[objektai/zodynas/barokas|barokas]]; mentioned_person: [[objektai/autoriai/Kazimieras Semenavičius|Kazimieras Semenavičius]]; mentioned_place: Europa; mentioned_place: Viena; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1650 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis tekstas yra antraštinis fragmentas, todėl perrašytas į pilną sakinį.'
   pagrindžia:
     - c-002
 

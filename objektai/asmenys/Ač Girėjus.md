@@ -18,6 +18,11 @@ Krymo skitai po senojo valdovo mirties paprašė Kazimiero duoti jiems valdovu A
 - t-001
   global_id: t-186035
   teiginys: 'Krymo skitai po senojo valdovo mirties paprašė Kazimiero duoti jiems valdovu Ač Girėjų.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pašalintas puslapio ir antraštės triukšmas, išlaikyta šaltinio remiama mintis.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/skitai|skitai]]; mentioned_place: Krymas'
   pagrindžia:
     - c-001
 
@@ -50,7 +55,3 @@ Krymo skitai po senojo valdovo mirties paprašė Kazimiero duoti jiems valdovu A
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/skitai]]

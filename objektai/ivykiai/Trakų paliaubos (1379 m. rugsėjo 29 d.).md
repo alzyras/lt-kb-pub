@@ -44,6 +44,11 @@ Nenurodyta
 - t-001
   global_id: t-28867
   teiginys: '1379 m. rugsėjo 29 d. Trakuose Kęstutis ir Jogaila su kryžiuočiais sudarė dešimties metų paliaubas dėl Palenkės ir Gardino žemės.'
+  sudarymo_pagrindimas: 'Pradinis teiginys turi OCR triukšmo ir yra neišsamus, citata leidžia suformuluoti aiškesnį faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/paliaubos|paliaubos]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Bielsko; mentioned_place: Gardinas; mentioned_place: Palenkė; mentioned_place: Trakai'
+  temporaliniai_duomenys: 'įvykio data: 1379 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys turi OCR triukšmo ir yra neišsamus, citata leidžia suformuluoti aiškesnį faktą.'
   pagrindžia:
     - c-001
 
@@ -64,14 +69,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/paliaubos]]
-
-### Susiję objektai
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/paliaubos]]

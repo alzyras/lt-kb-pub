@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-M. Vasmeris, nagrinėdamas rusų metraščių toponomastinę medžiagą, baltiškos kilmės žemės vardų rado žymiai toliau už Smolensko.
+Vasmeris baltiškos kilmės žemės vardų rado žymiai toliau už Smolensko.
 
 ## Teiginiai
 
@@ -20,6 +20,8 @@ M. Vasmeris, nagrinėdamas rusų metraščių toponomastinę medžiagą, baltiš
 - t-001
   global_id: t-30852
   teiginys: 'M. Vasmeris, nagrinėdamas rusų metraščių toponomastinę medžiagą, baltiškos kilmės žemės vardų rado žymiai toliau už Smolensko.'
+  sudarymo_pagrindimas: 'Perrašymas aiškiau nusako veiksmą ir pašalina per trumpą kontekstą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Desna; mentioned_place: Dniepras; mentioned_place: Smolenskas'
   pagrindžia:
     - c-001
 
@@ -41,8 +43,3 @@ M. Vasmeris, nagrinėdamas rusų metraščių toponomastinę medžiagą, baltiš
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Baltai]]
-- [[objektai/grupes/Rusai]]

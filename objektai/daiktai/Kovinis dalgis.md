@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Antanas Mackevičius sutelkė 150 dalgiais ir šautuvais ginkluotų vyrų kovai prie Naujaberžės kaimo. Aprašytame sukilėlių būryje pusė kovotojų buvo ginkluoti dalgiais, o pusė - ietimis.
+Mackevičius sutelkė kovai 150 dalgiais ir šautuvais ginkluotų vyrų. Lietuvos sukilėlių kovinio dalgio kopija @ Gegužės 7 d. Pusė sukilėlių ginkluoti dalgiais, pusė - ietimis.
 
 ## Pavadinimai šaltiniuose
 
@@ -41,6 +41,8 @@ Nenurodyta
 - t-001
   global_id: t-39184
   teiginys: 'Antanas Mackevičius sutelkė 150 dalgiais ir šautuvais ginkluotų vyrų kovai prie Naujaberžės kaimo.'
+  sudarymo_pagrindimas: 'Patikslintas veikėjas ir veiksmas, sakinys susietas su citatos kontekstu.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_person: [[objektai/asmenys/Antanas Mackevičius|Antanas Mackevičius]]; mentioned_place: Kaimas; mentioned_place: Narva'
   pagrindžia:
     - c-002
 
@@ -48,6 +50,8 @@ Nenurodyta
 - t-002
   global_id: t-39185
   teiginys: 'Aprašytame sukilėlių būryje pusė kovotojų buvo ginkluoti dalgiais, o pusė - ietimis.'
+  sudarymo_pagrindimas: 'Teiginys pataisytas į aiškesnį sakinį apie dalgių naudojimą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Dalgis|Dalgis]]'
   pagrindžia:
     - c-001
 
@@ -84,12 +88,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Dalgis]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/daiktai/Šautuvai]]
-- [[objektai/asmenys/Antanas (vaistininkas)]]
-- [[objektai/asmenys/Antanas Mackevičius]]
-- [[objektai/ivykiai/Naujaberžės kautynės]]

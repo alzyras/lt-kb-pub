@@ -29,6 +29,11 @@ Alseikos: „Vytauto D.
 - t-001
   global_id: t-34951
   teiginys: 'Dr. A. Alseikos „Vytauto D. sumanymas vainikuotis Lietuvos karaliaus vainiku“ išleistas Vilniuje 1924 m.'
+  sudarymo_pagrindimas: 'Bibliografinis teiginys yra pilnas ir paremtas cituojama nuoroda.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1924 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Bibliografinis teiginys yra pilnas ir paremtas cituojama nuoroda.'
   pagrindžia:
     - c-001
 

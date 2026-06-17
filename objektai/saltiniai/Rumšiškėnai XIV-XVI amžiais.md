@@ -5,6 +5,8 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1929 m.'
+  - '1955 m.'
+  - '1960 m.'
   - '1970 m.'
 date_start: '1929'
 date_end: '1970'
@@ -28,6 +30,11 @@ amziai:
 - t-001
   global_id: t-31906
   teiginys: '„Rumšiškėnai XIV-XVI amžiais“ buvo išleista Vilniuje 1970 m.'
+  sudarymo_pagrindimas: 'Citata pateikia bibliografinį leidinio pavadinimą, vietą ir metus.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Monetos|Monetos]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1955-1960; įvykio data: 1960 m.; įvykio data: 1970 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pateikia bibliografinį leidinio pavadinimą, vietą ir metus.'
   pagrindžia:
     - c-001
 

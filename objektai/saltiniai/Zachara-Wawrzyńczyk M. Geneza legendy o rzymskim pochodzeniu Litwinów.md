@@ -26,6 +26,11 @@ Dusburgietis teigia, kad zachara-Wawrzyńczyk M.
 - t-001
   global_id: t-61376
   teiginys: 'M. Zacharos-Wawrzyńczyk straipsnis „Geneza legendy o rzymskim pochodzeniu Litwinów“ paskelbtas 1963 m. Varšuvos leidinio „Zeszyty historyczne“ 3 sąsiuvinyje.'
+  sudarymo_pagrindimas: 'Citata leidžia suformuluoti bibliografinį faktą apie šaltinio publikavimą.'
+  susije_objektai: 'mentioned_place: Varšuva'
+  temporaliniai_duomenys: 'įvykio data: 1963 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata leidžia suformuluoti bibliografinį faktą apie šaltinio publikavimą.'
   pagrindžia:
     - c-001
 

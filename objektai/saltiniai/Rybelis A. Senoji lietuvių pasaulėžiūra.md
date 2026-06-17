@@ -26,6 +26,11 @@ Dusburgietis teigia, kad rybelis A.
 - t-001
   global_id: t-61276
   teiginys: 'A. Rybelio „Senoji lietuvių pasaulėžiūra“ paskelbta 1978 m. leidinyje „Lietuvių filosofijos istorijos bruožai“.'
+  sudarymo_pagrindimas: 'Citata pagrindžia autorių, pavadinimą, metus ir leidinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
+  temporaliniai_duomenys: 'įvykio data: 1978 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia autorių, pavadinimą, metus ir leidinį.'
   pagrindžia:
     - c-001
 

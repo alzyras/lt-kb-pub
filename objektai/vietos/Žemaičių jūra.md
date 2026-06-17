@@ -16,7 +16,7 @@ amziai:
 
 ## Santrauka
 
-Žemaičių jūra siejama su žuvėdų karėmis ir prekybos plėtra. Į Žemaičių jūrą tekėjo šiaurinės kalvos įšleitės upės, tarp jų Daugava, Nemunas, Pragaras ir Isla. Šią jūrą kai kurie raštininkai vadino Rusų mare.
+Žemaičių jūra per 1000 metų nuseko kelias uolektis. Į Žemaičių jūrą tekėjo šiaurinės upės.
 
 ## Pavadinimai šaltiniuose
 
@@ -45,6 +45,7 @@ galutinė geografinė tapatybė šaltinyje pateikta senąja forma; čia palikta 
 - t-001
   global_id: t-92017
   teiginys: 'Žemaičių jūra siejama su žuvėdų karėmis ir prekybos plėtra.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žuvėdai|Žuvėdai]]'
   pagrindžia:
     - c-005
 
@@ -52,6 +53,8 @@ galutinė geografinė tapatybė šaltinyje pateikta senąja forma; čia palikta 
 - t-002
   global_id: t-92018
   teiginys: 'Į Žemaičių jūrą tekėjo šiaurinės kalvos įšleitės upės, tarp jų Daugava, Nemunas, Pragaras ir Isla.'
+  sudarymo_pagrindimas: 'Citata leidžia tiksliau įvardyti, kokios upės tekėjo į Žemaičių jūrą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Įšleitė|Įšleitė]]'
   pagrindžia:
     - c-002
 
@@ -59,6 +62,7 @@ galutinė geografinė tapatybė šaltinyje pateikta senąja forma; čia palikta 
 - t-003
   global_id: t-92020
   teiginys: 'Šią jūrą kai kurie raštininkai vadino Rusų mare.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalnėnai|Kalnėnai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Nemunas; mentioned_place: Prūsija; mentioned_place: Rusnė; mentioned_place: Žemaičių kraštas'
   pagrindžia:
     - c-003
 
@@ -73,6 +77,8 @@ galutinė geografinė tapatybė šaltinyje pateikta senąja forma; čia palikta 
 - t-005
   global_id: t-92022
   teiginys: 'Žemaičių jūra per 1000 metų nuseko kelias uolektis.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatinis ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/uolektis|uolektis]]'
   pagrindžia:
     - c-001
 

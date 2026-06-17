@@ -20,6 +20,8 @@ Dusburgietis teigia, kad triller.—Marburg, 1961; Bd. 4 (1346—1351) /Н.
 - t-001
   global_id: t-60668
   teiginys: 'A. Triller kartu su H. Koeppenu parengė „Preussisches Urkundenbuch“ trečio tomo papildymus ir registrą.'
+  sudarymo_pagrindimas: 'Citata pagrindžia A. Triller vaidmenį bibliografiniame leidinyje.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
   pagrindžia:
     - c-001
 

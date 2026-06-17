@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Veliuonėlė įteka į Nemuną ir iš šiaurės skalauja Pilies bei Gedimino kalno šlaitus prie Veliuonos.
+Mažas upeliu­ kas, Veliuonėlė, įteka į Nemuną, iš šiaurės skalaudama Pi­ lies ir Gedimino kalno šlaitus.
 
 ## Teiginiai
 
@@ -21,6 +21,8 @@ Veliuonėlė įteka į Nemuną ir iš šiaurės skalauja Pilies bei Gedimino kal
 - t-001
   global_id: t-86223
   teiginys: 'Veliuonėlė įteka į Nemuną ir iš šiaurės skalauja Pilies bei Gedimino kalno šlaitus prie Veliuonos.'
+  sudarymo_pagrindimas: 'Pradiniame teiginyje buvo netaisyklinga dalyvio konstrukcija, o citata leidžia suformuluoti aiškų sakinį.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Bajerburgas; mentioned_place: Nemunas; mentioned_place: Veliuona; mentioned_place: Veliuonėlė'
   pagrindžia:
     - c-001
 

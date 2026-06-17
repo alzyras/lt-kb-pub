@@ -28,6 +28,8 @@ C) Apie Ak ademijos aikštės išplanavimą ir jos apstatymą Mokyklos, Iždo, K
 - t-001
   global_id: t-85874
   teiginys: 'Prie Akademijos aikštės tėvas Riokuras finansavo vieną klasių eilę, o įvairūs jėzuitai apstatydino kitą klasių ir viešų susirinkimų salės eilę.'
+  sudarymo_pagrindimas: 'Teiginys remiasi citata apie Riokuro ir kitų jėzuitų lėšomis apstatytas klasių eiles.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Oginskiai|Oginskiai]]; mentioned_object: [[objektai/daiktai/Akademijos observatorijos prietaisai|Akademijos observatorijos prietaisai]]; mentioned_object: [[objektai/daiktai/Duona|Duona]]; mentioned_person: [[objektai/asmenys/Puzinienė iš Oginskių|Puzinienė iš Oginskių]]; mentioned_place: Mstislavlis; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -35,9 +37,17 @@ C) Apie Ak ademijos aikštės išplanavimą ir jos apstatymą Mokyklos, Iždo, K
 - t-002
   global_id: t-85875
   teiginys: 'Akademijos aikštė buvo netaisyklingas ketvirtainis, apsuptas bažnyčios, kolegijos sienų ir mokymosi patalpų kolonadų.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai perteikia citatos aprašymą apie Akademijos aikštės formą ir apsuptį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/asmenys/Puzinienė iš Oginskių.md#claim-t-87840|Puzinienė iš Oginskių]]: Puzinienė iš Oginskių 1766 m. Akademijos observatorijos įkūrimui, prietaisams ir astronomijos profesoriams užrašė 6 000 raudonųjų auksinų.
+- susijęs iš [[objektai/daiktai/Akademijos aikštės medinis šulinys.md#claim-t-54479|Akademijos aikštės medinis šulinys]]: Akademijos aikštėje buvo medinis keturių šulų šulinys su stogeliu ir volu vandeniui traukti.
+- susijęs iš [[objektai/daiktai/Akademijos observatorijos prietaisai.md#claim-t-81838|Akademijos observatorijos prietaisai]]: Puzinienė iš Oginskių 1766 m. Akademijos observatorijos įkūrimui, prietaisams ir astronomijos profesoriams užrašė 6 000 raudonųjų auksinų.
+- susijęs iš Akademijos visuotinių iškilmių salė: Akademijos visuotinių iškilmių salė buvo pailgos formos salė kairėje pusėje prie bokšto arba varpinės.
+- susijęs iš Akademijos visuotinių iškilmių salė: Akademijos visuotinių iškilmių salė buvo pailgos formos ir stovėjo kairėje pusėje prie bokšto, įėjus pro didžiuosius bažnyčios vartus.
+- susijęs iš Bernardinų gatvė: 1579 m. kovo 6 d. Vilniaus vyskupas Protasevičius Akademijai ir kolegijai užrašė tris mūrinius namus, iš jų vieną Bernardinų gatvėje.
+- susijęs iš Vyskupų gatvė: 1579 m. kovo 6 d. Vilniaus vyskupas Protasevičius Akademijai ir Collegio užrašė du mūrinius namus Vyskupų gatvėje.
 ## Reikšmingi paminėjimai
 
 - c-001

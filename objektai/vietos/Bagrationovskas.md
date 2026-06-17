@@ -20,6 +20,8 @@ Dusburgietis teigia, kad bačkininkėliai Bagrationovskas (buv.
 - t-001
   global_id: t-58686
   teiginys: 'Bagrationovskas anksčiau vadintas Prūsų Ylava.'
+  sudarymo_pagrindimas: 'Citata leidžia suformuluoti trumpą faktą apie vietovės ankstesnį pavadinimą.'
+  susije_objektai: 'mentioned_place: Baiga; mentioned_place: Bajerburgas; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
 

@@ -43,6 +43,8 @@ Nenurodyta
 - t-001
   global_id: t-28863
   teiginys: 'Skuodo laukuose žemaičiai sumušė juos persekiojusį Kuldingos komtūrą Bernhardą von Hareną, žuvo 33 riteriai.'
+  sudarymo_pagrindimas: 'Citata pagrindžia glaustesnį enciklopedinį sakinį apie kautynių eigą ir rezultatą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Kuldinga'
   pagrindžia:
     - c-001
 
@@ -60,11 +62,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/paliaubos]]
-
-### Susiję objektai
-- [[objektai/zodynas/komtūras]]
-- [[objektai/grupes/Žemaičiai]]

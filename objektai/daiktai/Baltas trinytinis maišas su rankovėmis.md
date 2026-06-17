@@ -38,6 +38,7 @@ Nenurodyta
 - t-001
   global_id: t-08283
   teiginys: 'Kariai ant savo apdaro kartais užsimesdavo baltą trinytinį maišą su rankovėmis.'
+  teiginio_tipas: 'faktas'
   pagrindžia:
     - c-001
 

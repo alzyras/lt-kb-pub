@@ -26,6 +26,9 @@ Lowmiański, Uwagi o genezie państwa Litewskiego, Przegląd Historyczny, 1961, 
 - t-001
   global_id: t-31695
   teiginys: 'H. Lowmiańskio straipsnis „Uwagi o genezie państwa Litewskiego“ 1961 m. paskelbtas „Przegląd Historyczny“ 1 numeryje, p. 127–140.'
+  susije_objektai: 'mentioned_place: Maskva'
+  temporaliniai_duomenys: 'įvykio data: 1961 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

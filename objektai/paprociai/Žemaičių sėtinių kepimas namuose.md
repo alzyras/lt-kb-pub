@@ -4,19 +4,21 @@ pavadinimas: 'Žemaičių sėtinių kepimas namuose'
 saltiniai:
   - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
 datos:
+  - '1564 m.'
   - '2026 m.'
-date_start: '2026'
-date_end: ''
+date_start: '1564'
+date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 amziai:
+  - 'XVI'
   - 'XXI'
 ---
 # Žemaičių sėtinių kepimas namuose
 
 ## Santrauka
 
-Lasickis rašė, kad 1564 m. žemaičiai savo namuose kepė sėtinius ir laikė juos dideliu skanėstu.
+Žemaičiai 1564 m. savo namuose kepė sėtinius.
 
 ## Laikotarpis ir datos
 
@@ -44,6 +46,11 @@ Nenurodyta
 - t-001
   global_id: t-67251
   teiginys: 'Lasickis rašė, kad 1564 m. žemaičiai savo namuose kepė sėtinius ir laikė juos dideliu skanėstu.'
+  sudarymo_pagrindimas: 'Citata pateikia Lasickio liudijimą, todėl teiginiui reikia aiškios šaltinio atribucijos.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]'
+  temporaliniai_duomenys: 'įvykio data: 1564 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pateikia Lasickio liudijimą, todėl teiginiui reikia aiškios šaltinio atribucijos.'
   pagrindžia:
     - c-001
 
@@ -61,7 +68,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Žemaičiai]]

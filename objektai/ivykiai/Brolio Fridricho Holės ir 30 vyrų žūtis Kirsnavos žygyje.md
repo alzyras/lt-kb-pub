@@ -44,6 +44,11 @@ Nenurodyta
 - t-001
   global_id: t-91910
   teiginys: 'Brolis Fridrichas Holė su 100 raitelių žygiavo į Sūduvą, o grįžtant iš Kirsnavos valsčiaus priešai nukovė jį ir 30 vyrų.'
+  sudarymo_pagrindimas: 'Pradinis teiginys turi OCR triukšmo ir nėra rišlus sakinys.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_person: [[objektai/asmenys/Markvardas (Ragainės komtūras)|Markvardas (Ragainės komtūras)]]; mentioned_place: Baltija; mentioned_place: Kirsnava; mentioned_place: Semba; mentioned_place: Zelionogradskas'
+  temporaliniai_duomenys: 'įvykio data: po 1372 m.; įvykio data: 1372 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys turi OCR triukšmo ir nėra rišlus sakinys.'
   pagrindžia:
     - c-001
 
@@ -75,11 +80,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kuršiai]]
-- [[objektai/asmenys/Markvardas (Ragainės komtūras)]]
-- [[objektai/grupes/Sūduviai]]
-- [[objektai/asmenys/Fridrichas]]
-- [[objektai/asmenys/Fridrichas, vadinamas Hole]]

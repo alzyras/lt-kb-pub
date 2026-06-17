@@ -27,6 +27,11 @@ Kreiptasi į valstiečius (tai pirmas atsišaukimas lietuvių kalba) – raginta
 - t-001
   global_id: t-45724
   teiginys: '1794 m. sukilėliai kreipėsi į valstiečius, ragino pradėti partizaninį karą prieš Rusijos kariuomenę ir žadėjo asmens laisvę.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūksta ties inicialu, o citata pagrindžia svarbesnį faktą apie atsišaukimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/egzekucija|egzekucija]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Rusija; mentioned_place: Targovica; mentioned_place: Varšuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1794 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūksta ties inicialu, o citata pagrindžia svarbesnį faktą apie atsišaukimą.'
   pagrindžia:
     - c-002
 
@@ -34,6 +39,8 @@ Kreiptasi į valstiečius (tai pirmas atsišaukimas lietuvių kalba) – raginta
 - t-002
   global_id: t-45725
   teiginys: 'Lietuvos sukilėlių atsišaukimas į valstiečius buvo pirmas atsišaukimas lietuvių kalba, raginęs pradėti partizaninį karą prieš Rusijos kariuomenę.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas pateikta citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Rusija'
   pagrindžia:
     - c-001
 
@@ -41,6 +48,7 @@ Kreiptasi į valstiečius (tai pirmas atsišaukimas lietuvių kalba) – raginta
 - t-003
   global_id: t-45726
   teiginys: 'Lietuvos sukilėlių atsišaukimas į valstiečius žadėjo valstiečiams suteikti asmens laisvę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Rusija'
   pagrindžia:
     - c-001
 

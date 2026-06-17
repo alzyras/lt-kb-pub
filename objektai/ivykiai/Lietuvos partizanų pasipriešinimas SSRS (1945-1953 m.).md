@@ -6,7 +6,7 @@ saltiniai:
 datos:
   - '1940 m.'
   - '1944 m.'
-  - '1947 m.'
+  - '1946 m.'
   - '1953 m.'
 date_start: '1940'
 date_end: '1953'
@@ -17,6 +17,7 @@ tags:
   - miestas
   - mūšis
   - tauta
+  - valstybė
 amziai:
   - 'XX'
 ---
@@ -24,7 +25,7 @@ amziai:
 
 ## Santrauka
 
-1944–1953 m. Lietuvoje vyko Sovietų Sąjungos represijos, deportacijos, masinė kolektyvizacija ir ginkluota rezistencija. 1944–1946 m. Lietuvoje susidarė dideli, iki 100 kovotojų siekę partizanų būriai. Nuo 1944 m. vasaros sovietų represijos ir teroras kurstė lietuvių pasipriešinimą, išaugusį į dešimtmetį trukusį partizaninį karą.
+Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines Sovietų Sąjungos vykdytas deportacijas į Sibirą, emigraciją 1944 m. į Vakarus, Lietuva sugebėjo pakilti į ilgiausią „karą po karo“ – Lietuvos partizanų pasipriešinimą SSRS ištisą. 1944–1953 Sovietų Sąjungos organizuotų represijų, deportacijų, masinės kolektyvizacijos ir Lietuvos ginkluotos rezistencijos laikotarpis. Nuo 1944 m. vasaros sovietų represijos ir teroras kurstė lietuvių tautos pasipriešinimą, kilo dešimtmetį trukęs partizaninis karas dėl Lietuvos nepriklausomybės atkūrimo.
 
 ## Laikotarpis ir datos
 
@@ -48,6 +49,11 @@ Nenurodyta
 - t-001
   global_id: t-75180
   teiginys: '1944–1953 m. Lietuvoje vyko Sovietų Sąjungos represijos, deportacijos, masinė kolektyvizacija ir ginkluota rezistencija.'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo be predikato, bet citata pagrindžia aiškų sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/kolektyvizacija|kolektyvizacija]]; mentioned_place: Lietuva; mentioned_place: Vokietija'
+  temporaliniai_duomenys: 'įvykio data: 1944-1953; įvykio data: 1953 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys buvo be predikato, bet citata pagrindžia aiškų sakinį.'
   pagrindžia:
     - c-002
 
@@ -55,6 +61,11 @@ Nenurodyta
 - t-002
   global_id: t-75181
   teiginys: '1944–1946 m. Lietuvoje susidarė dideli, iki 100 kovotojų siekę partizanų būriai.'
+  sudarymo_pagrindimas: 'Pradinis teiginys yra OCR nuotrupa; citata paremia aiškų faktą apie partizanų būrius.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1944-1946; įvykio data: 1946 m.; įvykio data: 1947 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys yra OCR nuotrupa; citata paremia aiškų faktą apie partizanų būrius.'
   pagrindžia:
     - c-003
 
@@ -62,6 +73,11 @@ Nenurodyta
 - t-003
   global_id: t-75182
   teiginys: 'Nuo 1944 m. vasaros sovietų represijos ir teroras kurstė lietuvių pasipriešinimą, išaugusį į dešimtmetį trukusį partizaninį karą.'
+  sudarymo_pagrindimas: 'Pašalinta antraštės nuotrupa ir paliktas citatos paremtas faktinis sakinys.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/posakiai/karas po karo|karas po karo]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Baltija; mentioned_place: Didžioji Britanija; mentioned_place: Lietuva; mentioned_place: SSRS'
+  temporaliniai_duomenys: 'įvykio data: po 1944 m.; įvykio data: 1944 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalinta antraštės nuotrupa ir paliktas citatos paremtas faktinis sakinys.'
   pagrindžia:
     - c-006
 
@@ -69,6 +85,9 @@ Nenurodyta
 - t-004
   global_id: t-75183
   teiginys: 'Nors organizuota ginkluota kova pasibaigė 1953-ųjų pavasarį, keletas pavienių partizanų išsislapstė dar dešimt ir daugiau metų.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]; mentioned_place: Lietuva; mentioned_place: SSRS'
+  temporaliniai_duomenys: 'įvykio data: 1940 m.; įvykio data: 1944-1953; įvykio data: 1953 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-005
 
@@ -76,6 +95,8 @@ Nenurodyta
 - t-005
   global_id: t-75184
   teiginys: 'Sovietams užblokavus Lietuvą nuo laisvojo pasaulio informacijos, atėmus iš žmonių radijo imtuvus, visose apygardose įkurti spaudos ir informacijos skyriai.'
+  sudarymo_pagrindimas: 'Teiginys turi aiškų veiksmą ir yra paremtas citatos informacija.'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-004
 
@@ -83,6 +104,11 @@ Nenurodyta
 - t-006
   global_id: t-75185
   teiginys: 'Po Antrojo pasaulinio karo Lietuvos partizanų pasipriešinimas SSRS truko ištisą dešimtmetį, 1945–1953 m.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: SSRS'
+  temporaliniai_duomenys: 'įvykio data: 1940 m.; įvykio data: 1944 m.; įvykio data: 1945-1953; įvykio data: 1953 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -90,9 +116,17 @@ Nenurodyta
 - t-007
   global_id: t-183254
   teiginys: 'Sovietams izoliavus Lietuvą nuo laisvojo pasaulio informacijos, partizanų apygardose įkurti spaudos ir informacijos skyriai.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Reikia aiškiau susieti įkurtus skyrius su partizanų apygardomis.'
+  susije_objektai: 'mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1947 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia aiškiau susieti įkurtus skyrius su partizanų apygardomis.'
   pagrindžia:
     - c-007
-
+- susijęs iš [[objektai/grupes/Lietuvos partizanai.md#claim-t-74760|Lietuvos partizanai]]: Lietuvos partizanų pasipriešinimas SSRS truko visą dešimtmetį po Antrojo pasaulinio karo, 1945–1953 m.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -218,18 +252,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-007
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/NKVD]]
-- [[objektai/posakiai/karas po karo]]
-- [[objektai/zodynas/Miera|miera]]
-- [[objektai/daiktai/Šautuvai]]
-- [[objektai/grupes/Žydai]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/zodynas/kolektyvizacija]]
-- [[objektai/grupes/Lietuvos partizanai]]
-- [[objektai/ivykiai/Lietuvos partizaninis karas dėl nepriklausomybės atkūrimo (1944–1953 m.)]]
-- [[objektai/ivykiai/Lietuvos žydų sunaikinimas - Holokaustas]]
-- [[objektai/grupes/Sovietų Sąjunga]]

@@ -29,9 +29,14 @@ periodo_grupes:
 - t-001
   global_id: t-34792
   teiginys: '1421 m. čekų pasiuntinys Hinka iš Valdšteino pasiūlė karūną Jogailai, o šiam delsus čekai kreipėsi į Vytautą.'
+  sudarymo_pagrindimas: 'Teiginys sutrumpintas, pašalintas OCR triukšmas ir palikta citatos remiama faktinė esmė.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Liublinas'
+  temporaliniai_duomenys: 'įvykio data: 1421 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys sutrumpintas, pašalintas OCR triukšmas ir palikta citatos remiama faktinė esmė.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/grupes/Čekai.md#claim-t-50768|Čekai]]: 1421 m. čekų pasiuntinys Hinka iš Valdšteino pasiūlė karūną Jogailai, o vėliau čekai kreipėsi į Vytautą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -49,8 +54,3 @@ periodo_grupes:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Karūna]]
-- [[objektai/grupes/Čekai]]

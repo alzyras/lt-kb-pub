@@ -46,6 +46,12 @@ Nenurodyta
 - t-001
   global_id: t-62501
   teiginys: 'Petro Dusburgiečio kronikoje Tepliavos ir Lochštetės pilių pastatymas aprašytas prieš pasitraukimą iš Kroicburgo, nors šis datuojamas 1263 m.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra apie kronikos chronologinį išdėstymą, todėl reikalinga autoriaus atribucija.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_place: Kroicburgas; mentioned_place: Lochštetė; mentioned_place: Prūsai; mentioned_place: Tepliava'
+  temporaliniai_duomenys: 'pastatymo data: 1263 m.; pastatymo data: 1265 m.; pastatymo data: 1270 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra apie kronikos chronologinį išdėstymą, todėl reikalinga autoriaus atribucija.'
   pagrindžia:
     - c-001
 
@@ -67,7 +73,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/Dusburgas]]

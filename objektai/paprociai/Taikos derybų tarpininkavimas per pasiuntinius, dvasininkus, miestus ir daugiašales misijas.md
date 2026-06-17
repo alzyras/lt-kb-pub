@@ -49,6 +49,8 @@ Nenurodyta
 - t-001
   global_id: t-87253
   teiginys: 'Taikos sutarties tarpininkais minėti arkivyskupas, Rygos kapitula, Eželio ir Dorpato vyskupai, Vokiečių ordinas ir Rygos miestas.'
+  sudarymo_pagrindimas: 'Pašalinti nutrūkę fragmentai ir išnašų triukšmas; citata pagrindžia tarpininkų išvardijimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Vokiečių ordinas|Vokiečių ordinas]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Dorpatas; mentioned_place: Livonija; mentioned_place: Mintauja; mentioned_place: Prūsija; mentioned_place: Ryga; mentioned_place: Saremas'
   pagrindžia:
     - c-002
 
@@ -56,6 +58,11 @@ Nenurodyta
 - t-002
   global_id: t-87254
   teiginys: 'Gediminas prašė Ordino riterių, vyskupų ir Livonijos miestų tarpininkauti sudarant taiką.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai perteikia citatoje nurodytą Gedimino prašymą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/nuorašas|nuorašas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Ryga'
+  temporaliniai_duomenys: 'įvykio data: 1323 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai perteikia citatoje nurodytą Gedimino prašymą.'
   pagrindžia:
     - c-001
 
@@ -119,14 +126,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Gediminas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/komtūras]]
-- [[objektai/zodynas/nuorašas]]
-- [[objektai/grupes/Vokiečių ordinas]]
-- [[objektai/asmenys/Jonas de Lovenbinkė]]
-- [[objektai/grupes/Livonijos ordinas]]

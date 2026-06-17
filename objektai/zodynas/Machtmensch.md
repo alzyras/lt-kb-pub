@@ -20,6 +20,8 @@ Kaip ten bebūtų, žinome viena, kad jis buvo pilna to žodžio prasme „Macht
 - t-001
   global_id: t-34303
   teiginys: 'Vytautas apibūdinamas kaip „Machtmensch“, siejamas su garbės ir valdžios troškimu.'
+  sudarymo_pagrindimas: 'Reikia įvardyti asmenį ir pašalinti šnekamąją įžangą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-001
 
@@ -37,7 +39,3 @@ Kaip ten bebūtų, žinome viena, kad jis buvo pilna to žodžio prasme „Macht
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

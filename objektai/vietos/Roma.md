@@ -11,24 +11,27 @@ date_start: '1975'
 date_end: '1978'
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XX'
 tags:
   - unija
   - vieta
   - vyskupas
+amziai:
+  - 'XX'
 ---
 # Roma
 
 ## Santrauka
 
-Romos kurija manė, kad Vytautas ir Jogaila galės išspręsti husitų klausimą. Čekams sukilus, vyskupas Vaitiekus buvo priverstas pasišalinti į Romą. 1595 m. Hipatas Pociejus ir Kirilas Terleckis Romoje gavo popiežiaus Klemenso VIII pritarimą bažnytinei unijai.
+Roma: kai vyskupas Vaitiekus panorėjo ją sustiprinti, čekai sukilo, ir jis buvo priverstas pasišalinti į Ro- mą. Roma: ją sustiprinti, čekai sukilo, ir jis buvo priverstas pasišalinti į Ro- mą. Roma: pociejus su Terleckiu, 1595 m. nuvykę į Romą ir gavę popie- žiaus Klemenso VIII visišką pritarimą, visų Lietuvos ir Lenkijos pravoslavų vardu padarė bažnytinę uniją.
 
 ## Teiginiai
+
 <a id="claim-t-180499"></a>
 - t-001
   global_id: t-180499
   teiginys: 'Romos kurija manė, kad Vytautas ir Jogaila galės išspręsti husitų klausimą.'
+  sudarymo_pagrindimas: 'Citata kalba apie Romos kuriją, todėl teiginį reikia patikslinti.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Husitai|Husitai]]; mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_person: [[objektai/asmenys/imperatorius Zigmantas|imperatorius Zigmantas]]; mentioned_place: Luckas'
   pagrindžia:
     - c-002
 
@@ -36,12 +39,48 @@ Romos kurija manė, kad Vytautas ir Jogaila galės išspręsti husitų klausimą
 - t-002
   global_id: t-180501
   teiginys: '1595 m. Hipatas Pociejus ir Kirilas Terleckis Romoje gavo popiežiaus Klemenso VIII pritarimą bažnytinei unijai.'
+  sudarymo_pagrindimas: 'Sakinys sutvarkytas, pašalintas OCR triukšmas ir paliktas citatos paremtas faktas.'
   pagrindžia:
-    - c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-
+    - c-001
+- susijęs iš [[objektai/autoriai/A. Baltinis.md#claim-t-30496|A. Baltinis]]: A. Baltinis parašė veikalą „Vysk. V. Borisevičiaus gyvenimas ir darbai“, išleistą Romoje 1975 m.
+- susijęs iš [[objektai/autoriai/A. Dambrauskas-Jakštas.md#claim-t-30503|A. Dambrauskas-Jakštas]]: A. Dambrausko-Jakšto „Užgesę Žiburiai“ antrasis leidimas 1975 m. išėjo Romoje.
+- susijęs iš [[objektai/autoriai/A. Kučas.md#claim-t-30513|A. Kučas]]: A. Kučas 1965 m. Romoje paskelbė knygą „Kun. Antanas Staniukynas“.
+- susijęs iš [[objektai/autoriai/A. M. Ammann.md#claim-t-30523|A. M. Ammann]]: A. M. Ammann yra 1947 m. Romoje išleisto veikalo „Storia della Chiesa Russa“ autorius.
+- susijęs iš [[objektai/autoriai/A. Maceina.md#claim-t-29290|A. Maceina]]: A. Maceina yra 1978 m. Romoje išleisto veikalo „Filosofijos kilmė ir prasmė“ autorius.
+- susijęs iš [[objektai/autoriai/A. Prochaska.md#claim-t-47868|A. Prochaska]]: A. Prochaska išleido Vytauto Didžiojo aktų kodeksą ir parašė plačias Jogailos bei Vytauto monografijas.
+- susijęs iš [[objektai/autoriai/A. Šeptyckyj.md#claim-t-30551|A. Šeptyckyj]]: A. Šeptyckyj siejamas su 1964-1975 m. Romoje leistu „Monumenta Ucrainae Historica“ I-XII tomų leidiniu.
+- susijęs iš [[objektai/autoriai/J. Andrius.md#claim-t-30657|J. Andrius]]: J. Andrius 1952 m. „Aiduose“ paskelbė darbą „Kng. Radvilos Lietuvos žemėlapis“.
+- susijęs iš [[objektai/autoriai/J. Eretas.md#claim-t-30668|J. Eretas]]: J. Eretas parašė veikalą „Kazys Pakštas. Tautinio šauklio odisėja“, išleistą Romoje 1970 m.
+- susijęs iš [[objektai/autoriai/J. Grinius.md#claim-t-30672|J. Grinius]]: J. Grinius išleido antrąjį „Veidų ir problemų lietuvių literatūroje“ tomą Romoje 1977 m.
+- susijęs iš [[objektai/autoriai/Lenkų istorikai ir Lietuvos istoriografijos tyrėjai.md#claim-t-179520|Lenkų istorikai ir Lietuvos istoriografijos tyrėjai]]: A. Prochaska savo raštų gausumu apie XIV-XV a. Lietuvą pralenkė kitus lenkų istorikus.
+- susijęs iš [[objektai/autoriai/Lenkų istorikai ir Lietuvos istoriografijos tyrėjai.md#claim-t-179524|Lenkų istorikai ir Lietuvos istoriografijos tyrėjai]]: A. Prochaska rašė apie XIV-XV a. Lietuvą, išleido Vytauto Didžiojo aktų kodeksą ir parašė Jogailos bei Vytauto monografijas.
+- susijęs iš [[objektai/autoriai/O. Halecki.md#claim-t-179557|O. Halecki]]: O. Haleckio 1958 m. darbe „From Florence to Brest“ išsamiai įvertintas Vytauto vaidmuo.
+- susijęs iš [[objektai/autoriai/V. Jatulis.md#claim-t-31029|V. Jatulis]]: V. Jatulis redagavo 1964-1975 m. Romoje leistus „Monumenta Ucrainae Historica“ tomus.
+- susijęs iš [[objektai/grupes/Husitai.md#claim-t-172096|Husitai]]: Kišdamasis į Čekijos reikalus ir tuo erzindamas imperatorių, Vytautas oficialiai savo nusistatymą grindė pastangomis sutaikyti husitus su Roma.
+- susijęs iš J. Andrius Kng. Radvilos Lietuvos žemėlapis: J. Andriaus „Kng. Radvilos Lietuvos žemėlapis“ paskelbtas žurnalo „Aidai“ 1952 m. 10 numeryje, p. 445–448.
+- susijęs iš Monumenta Ucrainae Historica: A. Šeptyckio „Monumenta Ucrainae Historica“ I–XII tomai išleisti Romoje 1964–1975 m., redaguojant V. Jatuliui.
+- susijęs iš P. Rėklaitis Lietuvos senoji kartografija: P. Rėklaičio „Lietuvos senoji kartografija“ paskelbta „Tautos Praeities“ II tomo 1 dalyje, Romoje 1964 m., p. 64-76.
+- susijęs iš Lisabona: XVI–XVII a. Lisabona kartu su Roma ir Madridu skleidė katalikybės bei barokinės architektūros ir dailės įtaką iki Meksikos ir Paragvajaus.
+- susijęs iš Možaiskas: Žvalgams pranešus apie netoliese esantį Možaiską, Algirdas surikiavo karius kautynių tvarka ir išvedė į vieškelį.
 ## Reikšmingi paminėjimai
+
+- c-001
+  santrauka: '1595 m. Hipatas Pociejus ir Kirilas Terleckis Romoje gavo popiežiaus Klemenso VIII pritarimą bažnytinei unijai.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Di-
+    džiausi jos šalininkai buvo Vladimiro vyskupas Hipatas Po-
+    ciejus ir Lucko vyskupas Kirilas Terleckis; jais pasekė
+    ir metropolitas Ragoza. Vėliau prisidėjo ir kiti vyskupai.
+    Pociejus su Terleckiu, 1595 m. nuvykę į Romą ir gavę popie-
+    žiaus Klemenso VIII visišką pritarimą, visų Lietuvos ir Lenkijos
+    pravoslavų vardu padarė bažnytinę uniją.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
 - c-002
   santrauka: 'Romos kurija manė, kad Vytautas ir Jogaila galės išspręsti husitų klausimą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -58,21 +97,3 @@ Romos kurija manė, kad Vytautas ir Jogaila galės išspręsti husitų klausimą
   statusas: verified
   pagrindžia:
     - t-001
-- c-003
-  santrauka: '1595 m. Hipatas Pociejus ir Kirilas Terleckis Romoje gavo popiežiaus Klemenso VIII pritarimą bažnytinei unijai.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Di-
-    džiausi jos šalininkai buvo Vladimiro vyskupas Hipatas Po-
-    ciejus ir Lucko vyskupas Kirilas Terleckis; jais pasekė
-    ir metropolitas Ragoza. Vėliau prisidėjo ir kiti vyskupai.
-    Pociejus su Terleckiu, 1595 m. nuvykę į Romą ir gavę popie-
-    žiaus Klemenso VIII visišką pritarimą, visų Lietuvos ir Lenkijos
-    pravoslavų vardu padarė bažnytinę uniją.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002

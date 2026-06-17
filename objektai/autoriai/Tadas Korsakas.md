@@ -22,7 +22,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Tadas Korsakas veikiausiai buvo Abiejų Tautų tarpusavio įžado autorius. Tadas Korsakas buvo Gegužės trečiosios konstitucijos pataisos autorius ir žuvo ginant Varšuvą. Tadas Korsakas žuvo ginant Varšuvą.
+Tadas Korsakas siejamas su Abiejų Tautų tarpusavio įžado autoryste: šaltinis jį vadina veikiausiu pataisos autoriumi ir vėliau mini kaip Gegužės trečiosios konstitucijos pataisos autorių.
 
 ## Darbai
 
@@ -35,6 +35,11 @@ Tadas Korsakas veikiausiai buvo Abiejų Tautų tarpusavio įžado autorius. Tada
 - t-001
   global_id: t-23258
   teiginys: 'Tadas Korsakas veikiausiai buvo Abiejų Tautų tarpusavio įžado autorius.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai įvardija Tado Korsako tikėtiną autorystę ir atitinka citatą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/konstitucijos|konstitucijos]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1791 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai įvardija Tado Korsako tikėtiną autorystę ir atitinka citatą.'
   pagrindžia:
     - c-002
 
@@ -42,6 +47,8 @@ Tadas Korsakas veikiausiai buvo Abiejų Tautų tarpusavio įžado autorius. Tada
 - t-002
   global_id: t-23259
   teiginys: 'Tadas Korsakas buvo Gegužės trečiosios konstitucijos pataisos autorius ir žuvo ginant Varšuvą.'
+  sudarymo_pagrindimas: 'Teiginys yra išbaigtas sakinys apie Tadą Korsaką ir abi jo dalys paremtos citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Rusijos kariuomenė|Rusijos kariuomenė]]; mentioned_object: [[objektai/zodynas/konstitucijos|konstitucijos]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/T. Korsakas|T. Korsakas]]; mentioned_place: Lietuva; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Rusija; mentioned_place: Varšuva'
   pagrindžia:
     - c-001
 
@@ -49,6 +56,8 @@ Tadas Korsakas veikiausiai buvo Abiejų Tautų tarpusavio įžado autorius. Tada
 - t-003
   global_id: t-23260
   teiginys: 'Tadas Korsakas žuvo ginant Varšuvą.'
+  sudarymo_pagrindimas: 'Teiginys trumpas, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Rusijos kariuomenė|Rusijos kariuomenė]]; mentioned_object: [[objektai/zodynas/konstitucijos|konstitucijos]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/T. Korsakas|T. Korsakas]]; mentioned_place: Lietuva; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Rusija; mentioned_place: Varšuva'
   pagrindžia:
     - c-001
 
@@ -56,9 +65,17 @@ Tadas Korsakas veikiausiai buvo Abiejų Tautų tarpusavio įžado autorius. Tada
 - t-005
   global_id: t-26732
   teiginys: 'Tadas Korsakas veikiausiai buvo Abiejų Tautų tarpusavio įžado, kurį Ketverių metų seimui pristatė Kazimieras Nestoras Sapiega, autorius.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis teiginys labiau pabrėžė Sapiegos veiksmą, todėl perrašyta į sakinį apie Tado Korsako autorystę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/konstitucijos|konstitucijos]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1791 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys labiau pabrėžė Sapiegos veiksmą, todėl perrašyta į sakinį apie Tado Korsako autorystę.'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/asmenys/Kazimieras Nestoras Sapiega.md#claim-t-63826|Kazimieras Nestoras Sapiega]]: Pataisą seimui pristatė Kazimieras Nestoras Sapiega, o jos autorius veikiausiai buvo Vilniaus žemės teisėjas Tadas Korsakas.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -98,18 +115,3 @@ Tadas Korsakas veikiausiai buvo Abiejų Tautų tarpusavio įžado autorius. Tada
   pagrindžia:
     - t-005
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/bajoras]]
-
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/grupes/Rusijos kariuomenė]]
-- [[objektai/zodynas/konstitucijos]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/ivykiai/Abiejų Tautų tarpusavio įžado priėmimas]]
-- [[objektai/posakiai/„Respublikos valstybės“ „bendrą Tėvynę – Lenkijos Respubliką“]]

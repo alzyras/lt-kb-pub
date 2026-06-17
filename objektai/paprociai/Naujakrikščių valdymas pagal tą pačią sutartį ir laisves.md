@@ -42,6 +42,9 @@ Nenurodyta
 - t-001
   global_id: t-62694
   teiginys: 'Kiti naujakrikščiai vėliau buvo valdomi pagal tą pačią sutartį ir laisves, kurios buvo suteiktos pirmiesiems pasidavusiems.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Išplėstas neaiškus įvardis ir pašalintas autorinis įvadas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/naujakrikščiai|naujakrikščiai]]'
   pagrindžia:
     - c-001
     - c-002
@@ -80,8 +83,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/naujakrikščiai]]
-- [[objektai/zodynas/netikėliai]]

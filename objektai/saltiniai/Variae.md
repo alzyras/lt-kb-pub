@@ -21,6 +21,7 @@ tags:
 - t-001
   global_id: t-31962
   teiginys: 'Kassiodoro „Variae“ V, 12 pateiktas Teodoriko padėkos laiško aisčiams už gintaro dovanas tekstas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_object: [[objektai/daiktai/Gintaras|Gintaras]]; mentioned_person: [[objektai/autoriai/Kassiodoras|Kassiodoras]]'
   pagrindžia:
     - c-001
 

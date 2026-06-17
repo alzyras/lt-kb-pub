@@ -22,6 +22,8 @@ Dusburgietis teigia, kad apie Karaliaučiaus, Kroicburgo ir Bartenšteino pilių
 - t-001
   global_id: t-58896
   teiginys: 'Dusburgietis Belialo sūnumis vadina Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apgulėjus.'
+  sudarymo_pagrindimas: 'Tai termino vartojimo faktas, todėl reikalinga aiški atribucija autoriui.'
+  susije_objektai: 'mentioned_place: Bartenšteinas; mentioned_place: Kroicburgas'
   pagrindžia:
     - c-001
 
@@ -43,7 +45,3 @@ Dusburgietis teigia, kad apie Karaliaučiaus, Kroicburgo ir Bartenšteino pilių
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/posakiai/Eime, sakė, išnaikinsime juos]]

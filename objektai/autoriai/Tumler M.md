@@ -29,6 +29,8 @@ Dusburgietis teigia, kad 157 Trečias magistras — Henrikas Bartas (1209?—121
 - t-001
   global_id: t-60631
   teiginys: 'M. Tumlerio veikale „Der Deutsche Orden“ remiamasi datuojant Henriko Barto magistro laikotarpį.'
+  sudarymo_pagrindimas: 'Citata sieja Tumlerio veikalą su Henriko Barto datavimu.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]'
   pagrindžia:
     - c-002
 
@@ -36,6 +38,10 @@ Dusburgietis teigia, kad 157 Trečias magistras — Henrikas Bartas (1209?—121
 - t-002
   global_id: t-60632
   teiginys: 'M. Tumlerio veikale „Der deutsche Orden“ nurodomas 1229–1239 m. laikotarpis.'
+  sudarymo_pagrindimas: 'Citata pateikia Tumlerio veikalo bibliografinę nuorodą ir datą.'
+  temporaliniai_duomenys: 'įvykio data: 1229-1239; įvykio data: 1239 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pateikia Tumlerio veikalo bibliografinę nuorodą ir datą.'
   pagrindžia:
     - c-001
 
@@ -65,7 +71,3 @@ Dusburgietis teigia, kad 157 Trečias magistras — Henrikas Bartas (1209?—121
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/magistras]]

@@ -44,6 +44,11 @@ Nenurodyta
 - t-001
   global_id: t-75125
   teiginys: 'Po 1905 m. revoliucijos Rusijoje atsirado Valstybės Tarybos ir Valstybės Dūmos parlamentas, bet vykdomoji valdžia liko caro rankose.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys, susijęs su rinkimų kontekstu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Lietuva; mentioned_place: Peterburgas; mentioned_place: Rusija'
+  temporaliniai_duomenys: 'įvykio data: po 1905 m.; įvykio data: 1905 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys, susijęs su rinkimų kontekstu.'
   pagrindžia:
     - c-001
 
@@ -51,6 +56,8 @@ Nenurodyta
 - t-002
   global_id: t-75126
   teiginys: 'Rinkimuose į Dūmą lietuviai, susiblokavę su žydais prieš dvarininkus ir lenkakalbius, išrinko pirmuosius savo parlamentarus, daugiausia socialdemokratus.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Lietuva; mentioned_place: Peterburgas; mentioned_place: Rusija'
   pagrindžia:
     - c-001
 
@@ -75,7 +82,3 @@ Nenurodyta
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Žydai]]

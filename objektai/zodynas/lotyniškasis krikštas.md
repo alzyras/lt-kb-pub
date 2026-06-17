@@ -8,6 +8,7 @@ datos:
   - '1385 m.'
   - '1400 m.'
   - '1422 m.'
+  - '1435 m.'
   - '1978 m.'
   - '2026 m.'
 date_start: '1301'
@@ -56,6 +57,8 @@ Terminas vartojamas aiškinant Lietuvos posūkį į Vakarų Europą ir oficialų
 - t-001
   global_id: t-47928
   teiginys: 'Svarbioji jungtis su Vakarų Europa buvo pradėta lotyniškuoju krikštu.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir atitinka citatos vertinamąjį teiginį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vakarų Europa'
   pagrindžia:
     - c-001
 
@@ -63,6 +66,11 @@ Terminas vartojamas aiškinant Lietuvos posūkį į Vakarų Europą ir oficialų
 - t-002
   global_id: t-47929
   teiginys: 'Lietuvos valdovui pereinant į Lenkiją, valstybiniu mastu buvo atnaujintas lotyniškasis krikštas.'
+  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir palikta glausta citatos palaikoma mintis.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Varpai|Varpai]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Sūduva'
+  temporaliniai_duomenys: 'įvykio data: 1422 m.; įvykio data: 1435 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas OCR triukšmas ir palikta glausta citatos palaikoma mintis.'
   pagrindžia:
     - c-002
 
@@ -70,6 +78,9 @@ Terminas vartojamas aiškinant Lietuvos posūkį į Vakarų Europą ir oficialų
 - t-003
   global_id: t-47930
   teiginys: 'Lietuvos valdovui einant į Lenkiją, valstybiniu lygmeniu buvo atnaujintas lotyniškasis krikštas, nuošalyje paliekant Kryžiuočių ordiną.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Varpai|Varpai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Sūduva'
+  temporaliniai_duomenys: 'įvykio data: 1422 m.; įvykio data: 1435 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 
@@ -129,20 +140,3 @@ Terminas vartojamas aiškinant Lietuvos posūkį į Vakarų Europą ir oficialų
   statusas: verified
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/religinis-terminas]]
-
-### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/daiktai/Varpai]]
-- [[objektai/zodynas/Miera|miera]]
-- [[objektai/daiktai/Monetos]]
-- [[objektai/paprociai/Monetų kalimas ir pabūklų, varpų liejimas]]
-- [[objektai/paprociai/Vidaus kolonizacija Sūduvos giriose]]
-- [[objektai/zodynas/misijų teorija]]
-- [[objektai/zodynas/vidaus kolonizacija]]

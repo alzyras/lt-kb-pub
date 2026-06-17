@@ -33,6 +33,9 @@ Naudodamas Rygos archyvų medžiagą, jis ėmė tyrinėti iki tol Lietuvos istor
 - t-001
   global_id: t-31834
   teiginys: 'Sužiedėlis 1933 m. „Athenaeume“ paskelbė studiją „Livonijos prijungimas prie Lietuvos“.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_person: [[objektai/autoriai/S. Sužiedėlis|S. Sužiedėlis]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Ryga'
+  temporaliniai_duomenys: 'įvykio data: 1933 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

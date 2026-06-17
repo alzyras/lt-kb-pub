@@ -22,6 +22,8 @@ Suvorovo vadovaujamai Rusijos kariuomenei imtis veiksmų.
 - t-001
   global_id: t-18745
   teiginys: 'A. Suvorovas vadovavo Rusijos kariuomenei, kuriai įvykiai tapo pretekstu imtis veiksmų prieš sukilimą.'
+  sudarymo_pagrindimas: 'Reikia glaustesnio sakinio be neaiškiai pridėtos formuluotės.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/egzekucija|egzekucija]]; mentioned_place: Prancūzija; mentioned_place: Rusija'
   pagrindžia:
     - c-001
 
@@ -41,8 +43,3 @@ Suvorovo vadovaujamai Rusijos kariuomenei imtis veiksmų.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/egzekucija]]
-- [[objektai/zodynas/jakobinizmas jakobinų klubas]]

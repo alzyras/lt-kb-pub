@@ -49,6 +49,8 @@ Nenurodyta
 - t-001
   global_id: t-87127
   teiginys: 'Vilniaus magistratas turėjo išlaikyti 24 įprastai ginkluotus sargybinius, kad miesto tvarka būtų prižiūrima dieną ir naktį.'
+  sudarymo_pagrindimas: 'Teiginys pagrįstas, bet reikia pataisyti OCR ir suformuluoti sklandžiai.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus magistratas|Vilniaus magistratas]]; mentioned_object: [[objektai/daiktai/Patrankos|Patrankos]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Krokuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -75,10 +77,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Patrankos]]
-- [[objektai/asmenys/Žygimantas]]
-- [[objektai/grupes/Vilniaus magistratas]]
-- [[objektai/daiktai/Ginklai, skydai, šarvai ir šaudymo reikmenys]]

@@ -23,9 +23,13 @@ Atrodo, kad anoji liejykla buvusi toje vieto­ je, kur dabar stovi Medicinos Chi
 - t-001
   global_id: t-86172
   teiginys: 'Belvederiu vadintas Juzefo Mianovskio užmiesčio namas stovėjo spėjamoje senosios liejyklos vietoje.'
+  sudarymo_pagrindimas: 'Teiginys perrašytas aiškiai ir susietas su Belvederiu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Skyrai|Skyrai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_place: Lenkija; mentioned_place: Venecija; mentioned_place: Vilija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Hlebavičius (Vilniaus vaivada ir karaliaus kancleris).md#claim-t-87690|Hlebavičius (Vilniaus vaivada ir karaliaus kancleris)]]: Vilniaus vaivados ir karaliaus kanclerio Hlebavičiaus plytinė buvo prie Vilniaus, už Vilijos upės, greta fabrikui skirto sklypo.
+- susijęs iš [[objektai/asmenys/Povilas Giedraitis.md#claim-t-87836|Povilas Giedraitis]]: Vilniaus gorodničius Povilas Giedraitis 1547 m. gegužės 22 d. karaliaus valia perdavė Paleckio žiniai sklypą fabrikui statyti.
+- susijęs iš Paleckio stiklo liejykla prie Vilijos: 1547 m. Paleckio liejyklai skirtas sklypas buvo už Vilijos, tarp karaliaus šunidės ir Hlebavičiaus plytinės.
 ## Reikšmingi paminėjimai
 
 - c-001

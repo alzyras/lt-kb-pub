@@ -18,6 +18,11 @@ Mikalojus Firlėjus uoliai vykdė karaliaus įsakymą padėti puolamam Kiškai, 
 - t-001
   global_id: t-186149
   teiginys: 'Mikalojus Firlėjus uoliai vykdė karaliaus įsakymą padėti puolamam Kiškai, bet dėl sunkių kelių nespėjo laiku su juo susijungti.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata leidžia suformuluoti aiškų faktą apie Firlėjaus veiksmą ir rezultatą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Kiška|Kiška]]; mentioned_place: Maskva'
   pagrindžia:
     - c-001
 
@@ -47,7 +52,3 @@ Mikalojus Firlėjus uoliai vykdė karaliaus įsakymą padėti puolamam Kiškai, 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]

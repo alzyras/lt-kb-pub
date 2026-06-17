@@ -3,11 +3,18 @@ tipas: saltinis
 pavadinimas: 'Kreipimasis į tautiečius'
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+datos:
+  - '1857 m.'
+  - '1858 m.'
+date_start: '1857'
+date_end: '1858'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
   - tauta
+amziai:
+  - 'XIX'
 ---
 # Kreipimasis į tautiečius
 
@@ -21,6 +28,11 @@ Balinskis atsakė į jo laišką „Kreipimasis į tautiečius", kuriame lietuvi
 - t-001
   global_id: t-88313
   teiginys: 'Mikalojus Akelaitis laiške „Kreipimasis į tautiečius“ reikalavo lietuvių liaudžiai suteikti pilietinio ir kultūrinio ugdymo teises.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vilniaus Senienų muziejus|Vilniaus Senienų muziejus]]; mentioned_person: [[objektai/asmenys/Adomas (auksakalys)|Adomas (auksakalys)]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/asmenys/Eustachijus (raštininkas)|Eustachijus (raštininkas)]]; mentioned_person: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1857-1858; įvykio data: 1858 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
 

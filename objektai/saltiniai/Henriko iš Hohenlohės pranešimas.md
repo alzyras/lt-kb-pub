@@ -5,8 +5,10 @@ saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1050 m.'
+  - '1228 m.'
   - '1242 m.'
   - '1243 m.'
+  - '1244 m.'
   - '1245 m.'
 date_start: '1050'
 date_end: '1245'
@@ -25,7 +27,7 @@ amziai:
 
 ## Santrauka
 
-Henriko iš Hohenlohės pranešime 1243 m. Kulmo žemės nusiaubimas ir Ordino pajėgų sutriuškinimas siejamas su lietuviais ir prūsais. Dusburgiečio pasakojimas apie Kristaus brolių, vėliau vadintų Dobrynės ordinu, įkūrimą paremtas Hohenlohės pranešimu. Henriko iš Hohenlohės pranešime minimi Liubeko pirkliai, padėję maistu aprūpinti atkirstas Ordino pilis Elbingą ir Baigą.
+Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvių kariuomenę (III, 40), tuo tarpu jo šaltinis — Henriko iš Hohenlohės pranešimas — nurodo „lietuvius ir prūsus“144. Dusburgietis teigia, kad šitaip viską patvarkius, kunigaikštis pastatydino167 šiems 165 Dusburgietis čia nepateikia Hohenlohės pranešime (jo autorius galėjo remtis įvykių liudytojais) minimų prūsų pasiuntinių vardų: Petraten. Dusburgietis teigia, kad 166 Dusburgiečio pasakojimas apie Kristaus brolių, vėliau vadintų Dobrynės ordinu, įkūrimą paremtas Hohenlohės pranešimu.
 
 ## Teiginiai
 
@@ -33,6 +35,11 @@ Henriko iš Hohenlohės pranešime 1243 m. Kulmo žemės nusiaubimas ir Ordino p
 - t-001
   global_id: t-175155
   teiginys: 'Henriko iš Hohenlohės pranešime 1243 m. Kulmo žemės nusiaubimas ir Ordino pajėgų sutriuškinimas siejamas su lietuviais ir prūsais.'
+  sudarymo_pagrindimas: 'Citata palaiko teiginį apie pranešime nurodytus veikėjus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Kulmas; mentioned_place: Kulmo žemė; mentioned_place: Lietuva; mentioned_place: Prūsai'
+  temporaliniai_duomenys: 'įvykio data: 1243 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko teiginį apie pranešime nurodytus veikėjus.'
   pagrindžia:
     - c-004
 
@@ -40,6 +47,11 @@ Henriko iš Hohenlohės pranešime 1243 m. Kulmo žemės nusiaubimas ir Ordino p
 - t-002
   global_id: t-175157
   teiginys: 'Dusburgiečio pasakojimas apie Kristaus brolių, vėliau vadintų Dobrynės ordinu, įkūrimą paremtas Hohenlohės pranešimu.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai atitinka citatą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Dobrynė'
+  temporaliniai_duomenys: 'įvykio data: 1228 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai atitinka citatą.'
   pagrindžia:
     - c-002
 
@@ -47,6 +59,8 @@ Henriko iš Hohenlohės pranešime 1243 m. Kulmo žemės nusiaubimas ir Ordino p
 - t-003
   global_id: t-175158
   teiginys: 'Henriko iš Hohenlohės pranešime minimi Liubeko pirkliai, padėję maistu aprūpinti atkirstas Ordino pilis Elbingą ir Baigą.'
+  sudarymo_pagrindimas: 'Citata palaiko konkretų faktą apie pranešime esančius duomenis.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Baiga; mentioned_place: Elbingas; mentioned_place: Liubekas; mentioned_place: Viena'
   pagrindžia:
     - c-007
 
@@ -54,6 +68,8 @@ Henriko iš Hohenlohės pranešime 1243 m. Kulmo žemės nusiaubimas ir Ordino p
 - t-004
   global_id: t-175159
   teiginys: 'Henriko iš Hohenlohės pranešime kryžiuočių pilių statybos seka pateikiama taip: po Marienverderio statytas Cristhborgk, vėliau Elbingas ir Honeda-Baiga.'
+  sudarymo_pagrindimas: 'Citata palaiko aiškią pilių statybos seką pagal pranešimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Baiga; mentioned_place: Elbingas; mentioned_place: Marienverderis'
   pagrindžia:
     - c-006
 
@@ -61,6 +77,8 @@ Henriko iš Hohenlohės pranešime 1243 m. Kulmo žemės nusiaubimas ir Ordino p
 - t-005
   global_id: t-175160
   teiginys: 'Henriko iš Hohenlohės pranešime prūsų pasiuntinių vardai pateikti kaip Petraten, Preroch ir Thorandt.'
+  sudarymo_pagrindimas: 'Citata pateikia konkrečius pranešime minimus prūsų pasiuntinių vardus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_place: Livonija; mentioned_place: Palenkė; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Viena'
   pagrindžia:
     - c-003
 
@@ -68,6 +86,11 @@ Henriko iš Hohenlohės pranešime 1243 m. Kulmo žemės nusiaubimas ir Ordino p
 - t-006
   global_id: t-175161
   teiginys: 'Hohenlohės reliacijoje teigiama, kad Konradas dovanojo Ordinui Kulmo ir Lubavos žemes bei būsimas iš pagonių atkovotas žemes.'
+  sudarymo_pagrindimas: 'Citata palaiko teiginį apie Hohenlohės reliacijoje priskiriamą Konrado dovanojimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Kulmas; mentioned_place: Lubava'
+  temporaliniai_duomenys: 'įvykio data: 1228 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko teiginį apie Hohenlohės reliacijoje priskiriamą Konrado dovanojimą.'
   pagrindžia:
     - c-005
 
@@ -75,6 +98,10 @@ Henriko iš Hohenlohės pranešime 1243 m. Kulmo žemės nusiaubimas ir Ordino p
 - t-007
   global_id: t-175162
   teiginys: 'Vidurio Henriko iš Hohenlohės pranešimas — tik 500 vyrų (SRP, 5, p. 166).'
+  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
+  temporaliniai_duomenys: 'įvykio data: 1244 m.; įvykio data: 1245 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'claim_quality_pipeline deterministic repair'
   pagrindžia:
     - c-001
 

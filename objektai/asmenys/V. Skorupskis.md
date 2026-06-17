@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-V. Skorupskis vadovavo vidurinei kolonai, kuriai buvo įsakyta pulti Degučių-Zarasų kryptimi.
+Skorupskio vadovaujamai kolonai (1-ojo pėst.
 
 ## Teiginiai
 
@@ -20,6 +20,8 @@ V. Skorupskis vadovavo vidurinei kolonai, kuriai buvo įsakyta pulti Degučių-Z
 - t-001
   global_id: t-40490
   teiginys: 'V. Skorupskis vadovavo vidurinei kolonai, kuriai buvo įsakyta pulti Degučių-Zarasų kryptimi.'
+  sudarymo_pagrindimas: 'Pirminis teiginys labiau apibūdina koloną, todėl perrašyta aiškiau apie V. Skorupskio vaidmenį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/brigada|brigada]]; mentioned_object: [[objektai/zodynas/husarai|husarai]]'
   pagrindžia:
     - c-001
 
@@ -51,8 +53,3 @@ V. Skorupskis vadovavo vidurinei kolonai, kuriai buvo įsakyta pulti Degučių-Z
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/brigada]]
-- [[objektai/zodynas/husarai]]

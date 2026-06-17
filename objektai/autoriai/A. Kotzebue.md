@@ -28,6 +28,7 @@ Kotzebue : Preussens ältere Geschichte , III, 292 p. (^14) CEV, 78, 1034 p.
 - t-001
   global_id: t-30511
   teiginys: 'A. Kotzebue parašė veikalą „Preussens ältere Geschichte“.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/J. Voigt|J. Voigt]]; mentioned_person: [[objektai/autoriai/Kotzebue|Kotzebue]]'
   pagrindžia:
     - c-001
 

@@ -22,6 +22,8 @@ Pirmieji tuo klausimu susirūpino Krokuvos profesoriai, iš­ leisdami raštą, 
 - t-001
   global_id: t-35615
   teiginys: 'Krokuvos profesoriai rašte įrodinėjo, kad Romos karalius Zigmantas neturi teisės suteikti karūnos.'
+  susije_objektai: 'territory: Krokuva; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_object: [[objektai/zodynas/Romos karalius|Romos karalius]]; mentioned_object: [[objektai/zodynas/ciesorius|ciesorius]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Krokuva'
+  semantiniai_rysiai: '[[objektai/grupes/Krokuvos profesoriai|Krokuvos profesoriai]] susiję su Krokuva'
   pagrindžia:
     - c-002
 
@@ -29,9 +31,15 @@ Pirmieji tuo klausimu susirūpino Krokuvos profesoriai, iš­ leisdami raštą, 
 - t-002
   global_id: t-35616
   teiginys: 'Krokuvos profesoriai Romos karaliaus teisę karūnuoti kitus laikė nepakankama ir žemesne už popiežiaus teises.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/apsikarūnavimas|apsikarūnavimas]]; mentioned_place: Krokuva'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Dr. Baptistas Cigala.md#claim-t-35051|Dr. Baptistas Cigala]]: Dr. Baptistas Cigala antrame atsakyme teigė, kad karūnacijai atlikti nereikia popiežiaus patvirtinimo.
+- susijęs iš Dr. Baptistos Cigalos atsakymas dėl Vytauto karūnacijos: Baptista Cigala antrame atsakyme gynė poziciją, kad Vytauto karūnacijai nereikėjo popiežiaus patvirtinimo.
+- susijęs iš Krokuvos profesorių raštas dėl Vytauto karūnacijos: Krokuvos profesoriai rašte teigė, kad Romos karalius Zigmantas neturėjo teisės suteikti karūnos, nes nebuvo gavęs popiežiaus suteikto ciesoriaus titulo.
+- susijęs iš Krokuvos profesorių raštas dėl Vytauto karūnacijos: Krokuvos profesoriai rašte teigė, kad karūnuoti gali tik popiežius, o Romos karalius Zigmantas tokios teisės neturi.
+- susijęs iš [[objektai/zodynas/Romos karalius.md#claim-t-36751|Romos karalius]]: Romos karalius laikytas galinčiu karūnuoti ir kurti karalystes be popiežiaus.
+- susijęs iš [[objektai/zodynas/Romos karalius.md#claim-t-36752|Romos karalius]]: Krokuvos profesoriai teigė, kad Romos karalius Zigmantas negalėjo suteikti karūnos, nes pats nebuvo gavęs ciesoriaus titulo iš popiežiaus.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -68,11 +76,4 @@ Pirmieji tuo klausimu susirūpino Krokuvos profesoriai, iš­ leisdami raštą, 
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
-- [[objektai/zodynas/apsikarūnavimas]]
-- [[objektai/zodynas/ciesorius]]
-- [[objektai/asmenys/Dr. Baptistas Cigala]]
-- [[objektai/zodynas/Romos karalius]]
-- [[objektai/daiktai/Karūna]]
-- [[objektai/asmenys/Zbignievas Olesnickis]]
+- Krokuvos profesoriai susije_su [[objektai/vietos/Krokuva]]

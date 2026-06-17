@@ -20,6 +20,8 @@ tags:
 - t-001
   global_id: t-93088
   teiginys: 'Dėl būtinos konsekracijos kilo klausimas, kas turi teisę ją suteikti.'
+  sudarymo_pagrindimas: 'Citata remia glaustą faktą apie konsekracijos suteikimo teisės neaiškumą.'
+  susije_objektai: 'mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -27,9 +29,14 @@ tags:
 - t-002
   global_id: t-93089
   teiginys: 'Konsekracija po karūnacijos buvo laikoma bažnytiniu aktu, kuris ne suteikia daugiau valdžios, o pašventina karūnaciją.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/apsikarūnavimas|apsikarūnavimas]]; mentioned_object: [[objektai/zodynas/ciesorius|ciesorius]]; mentioned_place: Katra'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/asmenys/Henrikas (Varmės vyskupas).md#claim-t-184077|Henrikas (Varmės vyskupas)]]: 1279 m. Varmės vyskupas Henrikas įkūrė Brunsbergo miestą ir pilį toje vietoje, kur kronikos metu jie tebestovėjo.
+- susijęs iš [[objektai/asmenys/Henrikas (Varmės vyskupas).md#claim-t-60310|Henrikas (Varmės vyskupas)]]: 1279 m. Varmės vyskupas Henrikas įkūrė Brunsbergo miestą ir pilį toje vietoje, kur kronikos metu jie tebestovėjo.
+- susijęs iš [[objektai/asmenys/Mikalojus Romedanskis (Medininkų vyskupas).md#claim-t-30363|Mikalojus Romedanskis (Medininkų vyskupas)]]: 1427 m. popiežius įsakė Medininkų vyskupui Mikalojui Romedanskiui savo priesaiką nusiųsti Gniezno arkivyskupui.
+- susijęs iš [[objektai/grupes/Vienos universiteto profesoriai.md#claim-t-184226|Vienos universiteto profesoriai]]: Vienos universiteto profesoriai aiškino, kad mokslininkai nevienodai atsakė, kas turi teisę suteikti konsekraciją.
+- susijęs iš Brunsbergas: 1279 m. Varmės vyskupas Henrikas įkūrė Brunsbergo miestą ir pilį toje vietoje, kur jie stovėjo Dusburgiečio laikais.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -67,12 +74,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/apsikarūnavimas]]
-- [[objektai/zodynas/ciesorius]]
-- [[objektai/ivykiai/Brunsbergo miesto bei pilies atkūrimas (1279 m.)]]
-- [[objektai/asmenys/Henrikas (Varmės vyskupas)]]
-- [[objektai/asmenys/Mikalojus Romedanskis (Medininkų vyskupas)]]
-- [[objektai/grupes/Vienos universiteto profesoriai]]

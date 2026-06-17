@@ -26,6 +26,14 @@ Sacharovo žmona ir bendražygė Jelena Boner (Jelena Bonner) mitinge kalbėjo, 
 - t-001
   global_id: t-183514
   teiginys: '1991 m. kovą daugiau nei 200 tūkst. Maskvos demonstracijos dalyvių skandavo „Šalin rankas nuo Lietuvos“ ir „Gorbačiovai, atsistatydink!“.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata geriau palaiko tiesioginį teiginį apie šūkių skandavimą Maskvoje.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Rusija; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: po 1991 m.; įvykio data: 1991 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata geriau palaiko tiesioginį teiginį apie šūkių skandavimą Maskvoje.'
   pagrindžia:
     - c-001
 
@@ -49,10 +57,3 @@ Sacharovo žmona ir bendražygė Jelena Boner (Jelena Bonner) mitinge kalbėjo, 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/asmenys/Michailas Gorbačiovas]]
-- [[objektai/posakiai/Šalin rankas nuo Lietuvos]]

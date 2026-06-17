@@ -30,6 +30,11 @@ Dusburgietis teigia, kad varakauskas R.
 - t-001
   global_id: t-61345
   teiginys: 'R. Varakausko straipsnis apie 1279 m. kautynes ties Ašerade paskelbtas 1963 m. leidinyje „Istorija“ 4 tome.'
+  sudarymo_pagrindimas: 'Citata pateikia bibliografinį įrašą, todėl galima suformuluoti faktą apie publikaciją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva; mentioned_place: Livonija'
+  temporaliniai_duomenys: 'įvykio data: 1279 m.; įvykio data: apie 1279 m.; įvykio data: 1963 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
+  temporalinis_llm_pakomentavimas: 'Citata pateikia bibliografinį įrašą, todėl galima suformuluoti faktą apie publikaciją.'
   pagrindžia:
     - c-001
 

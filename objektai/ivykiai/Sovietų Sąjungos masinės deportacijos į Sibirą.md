@@ -49,6 +49,11 @@ Nenurodyta
 - t-001
   global_id: t-26385
   teiginys: 'Sovietų Sąjungos vykdytos masinės deportacijos į Sibirą buvo viena iš didžiųjų Lietuvos netekčių.'
+  sudarymo_pagrindimas: 'Pirminis teiginys per ilgas ir nutrūkęs, bet citata pagrindžia glaustesnę formuluotę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: SSRS; mentioned_place: Sibiras; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1944 m.; įvykio data: 1988-1990; įvykio data: 1990 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pirminis teiginys per ilgas ir nutrūkęs, bet citata pagrindžia glaustesnę formuluotę.'
   pagrindžia:
     - c-001
 
@@ -56,6 +61,11 @@ Nenurodyta
 - t-002
   global_id: t-26386
   teiginys: '1944–1953 m. Lietuvoje vyko Sovietų Sąjungos organizuotos represijos, deportacijos, masinė kolektyvizacija ir ginkluota rezistencija.'
+  sudarymo_pagrindimas: 'Perrašyta sklandžiau, išlaikant citatoje pateiktus faktus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/kolektyvizacija|kolektyvizacija]]; mentioned_place: Lietuva; mentioned_place: Vokietija'
+  temporaliniai_duomenys: 'įvykio data: 1944-1953; įvykio data: 1953 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Perrašyta sklandžiau, išlaikant citatoje pateiktus faktus.'
   pagrindžia:
     - c-002
 
@@ -93,10 +103,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Žydai]]
-- [[objektai/zodynas/kolektyvizacija]]
-- [[objektai/ivykiai/1944 m. emigracija į Vakarus]]
-- [[objektai/grupes/Lietuvos Helsinkio grupė]]

@@ -29,6 +29,9 @@ Navickaitė-Kuncienė, O.
 - t-001
   global_id: t-30746
   teiginys: 'K. Navickas 1964 m. paskelbė darbą apie XIII–XIV a. Vilniaus gyventojų apavą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kailiai|Kailiai]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1964 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

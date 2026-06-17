@@ -39,6 +39,8 @@ Nenurodyta
 - t-001
   global_id: t-86926
   teiginys: 'Ulrikas Hozijus prie Vilniaus pastatė ir sutvirtino tiltą per Viliją, o iš nustatyto tilto mokesčio susigrąžino statybos išlaidas.'
+  sudarymo_pagrindimas: 'Teiginyje buvo puslapio ir antraščių triukšmo; citata aiškiai pagrindžia Hozijaus atliktą tilto statybą ir mokesčio paskirtį.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Ulrikas Hozijus|Ulrikas Hozijus]]; mentioned_place: Vilija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -72,9 +74,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/asmenys/Ulrikas Hozijus]]
-- [[objektai/grupes/Dominikonų ordinas]]

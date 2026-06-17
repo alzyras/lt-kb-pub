@@ -5,6 +5,7 @@ saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1435 m.'
+  - '1469 m.'
   - '1492 m.'
 date_start: '1435'
 date_end: '1492'
@@ -15,6 +16,7 @@ tags:
   - miestas
   - ordinas
   - pilis
+  - vieta
 amziai:
   - 'XV'
 ---
@@ -30,9 +32,14 @@ amziai:
 - t-001
   global_id: t-86297
   teiginys: '1469 m. bernardinams Vilniuje buvo atiduotas platus slėnis palei Vilnios upę prie Karališkojo malūno.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai sieja vietą su Karališkuoju malūnu ir yra pagrįstas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_object: [[objektai/zodynas/neofitai|neofitai]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Karališkasis malūnas Vilniuje; mentioned_place: Lietuva; mentioned_place: Pskovas; mentioned_place: Vilniaus monetų kalykla; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 900 m; įvykio data: 1469 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai sieja vietą su Karališkuoju malūnu ir yra pagrįstas citata.'
   pagrindžia:
     - c-001
-
+- susijęs iš Karališkasis malūnas Vilniuje: Karališkasis malūnas Vilniuje Lietuvos Metrikoje buvo įvardytas kaip Molendinum Vilnense, arba Vilniaus malūnas.
 ## Reikšmingi paminėjimai
 
 - c-001

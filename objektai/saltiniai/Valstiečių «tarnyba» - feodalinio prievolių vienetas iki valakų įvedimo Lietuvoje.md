@@ -27,6 +27,9 @@ amziai:
 - t-001
   global_id: t-31958
   teiginys: 'Studija „Valstiečių tarnyba - feodalinio prievolių vienetas iki valakų įvedimo Lietuvoje“ paskelbta 1957 m. AkMD 3 tome, p. 93-103.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Valakai|Valakai]]; mentioned_object: [[objektai/zodynas/Baudžiava|Baudžiava]]; mentioned_object: [[objektai/zodynas/tėvonija|tėvonija]]; mentioned_object: [[objektai/zodynas/vergai|vergai]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1957 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

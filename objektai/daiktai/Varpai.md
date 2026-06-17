@@ -6,16 +6,26 @@ saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+datos:
+  - '1422 m.'
+  - '1435 m.'
+  - '1958 m.'
+  - '1962 m.'
+date_start: '1422'
+date_end: '1962'
 sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
+amziai:
+  - 'XV'
+  - 'XX'
 ---
 # Varpai
 
 ## Santrauka
 
-Vytauto laikams baigiantis daugelyje Lietuvos vietų jau skambėjo bažnyčių varpai. Pilyje paliktas iškaršęs ir aklas Ordino brolis kas valandą kaip paprastai skambino varpu. 1958 m. pasibaigus „atšilimui“, sovietų valdžia draudė skambinti bažnyčių varpais.
+Nuo Vytauto laikų Lietuvoje buvo liejami varpai.
 
 ## Pavadinimai šaltiniuose
 
@@ -43,6 +53,8 @@ Nenurodyta
 - t-001
   global_id: t-12333
   teiginys: 'Vytauto laikams baigiantis daugelyje Lietuvos vietų jau skambėjo bažnyčių varpai.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai pagrįstas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -50,6 +62,8 @@ Nenurodyta
 - t-002
   global_id: t-89438
   teiginys: 'Pilyje paliktas iškaršęs ir aklas Ordino brolis kas valandą kaip paprastai skambino varpu.'
+  sudarymo_pagrindimas: 'Pradinis teiginys yra negramatiškas, bet citata palaiko aiškų faktą apie varpo skambinimą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Ordino brolis|Ordino brolis]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_place: Elbingas; mentioned_place: Viena'
   pagrindžia:
     - c-003
 
@@ -57,6 +71,11 @@ Nenurodyta
 - t-003
   global_id: t-89439
   teiginys: '1958 m. pasibaigus „atšilimui“, sovietų valdžia draudė skambinti bažnyčių varpais.'
+  sudarymo_pagrindimas: 'Pradinė formuluotė nutrūkusi ir perkrauta pašalinėmis detalėmis.'
+  susije_objektai: 'mentioned_place: Kalvarija; mentioned_place: Šiluva'
+  temporaliniai_duomenys: 'įvykio data: 1958 m.; įvykio data: 1962 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinė formuluotė nutrūkusi ir perkrauta pašalinėmis detalėmis.'
   pagrindžia:
     - c-004
 
@@ -64,6 +83,9 @@ Nenurodyta
 - t-004
   global_id: t-89440
   teiginys: 'Nuo Vytauto laikų Lietuvoje buvo liejami varpai.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Sūduva'
+  temporaliniai_duomenys: 'įvykio data: 1422 m.; įvykio data: 1435 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 
@@ -71,9 +93,27 @@ Nenurodyta
 - t-005
   global_id: t-89442
   teiginys: 'Po 1958 m. sovietų valdžia Lietuvoje draudė bažnyčiose skambinti varpais.'
+  sudarymo_pagrindimas: 'Citata nepagrindžia teiginio apie sausio 13-osios aukas, bet pagrindžia faktą apie varpų skambinimo draudimą.'
+  susije_objektai: 'mentioned_place: Kalvarija; mentioned_place: Lietuva; mentioned_place: Šiluva'
+  temporaliniai_duomenys: 'įvykio data: po 1958 m.; įvykio data: 1958 m.; įvykio data: 1962 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata nepagrindžia teiginio apie sausio 13-osios aukas, bet pagrindžia faktą apie varpų skambinimo draudimą.'
   pagrindžia:
     - c-004
-
+- susijęs iš [[objektai/autoriai/Liudvika Gedgaudienė-Didžiulienė.md#claim-t-64705|Liudvika Gedgaudienė-Didžiulienė]]: Liudvika Gedgaudienė-Didžiulienė paliko užrašus su prisiminimais apie sukilėlių pajėgų telkimą Salų miestelyje.
+- susijęs iš [[objektai/autoriai/Liudvika Gedgaudienė-Didžiulienė.md#claim-t-64707|Liudvika Gedgaudienė-Didžiulienė]]: Liudvika Gedgaudienė-Didžiulienė užrašuose mini į Salas atėjusius tris didelius Lietuvos kariuomenės pulkus.
+- susijęs iš [[objektai/daiktai/Monetos.md#claim-t-71567|Monetos]]: Nuo Vytauto laikų Lietuvoje buvo kalamos monetos.
+- susijęs iš [[objektai/daiktai/Varpų vainikas.md#claim-t-08346|Varpų vainikas]]: Antrasis stabas turėjo varpų vainiką ant galvos.
+- susijęs iš [[objektai/ivykiai/Sausio 13-oji ir Vilniaus televizijos bokšto šturmas (1991 m. sausio 12–13 d.).md#claim-t-169852|Sausio 13-oji ir Vilniaus televizijos bokšto šturmas (1991 m. sausio 12–13 d.)]]: Vilniaus televizijos bokšto šturmo įvykiai sukrėtė Lietuvą ir nuskambėjo pasaulyje.
+- susijęs iš [[objektai/paprociai/Monetų kalimas ir pabūklų, varpų liejimas.md#claim-t-31531|Monetų kalimas ir pabūklų, varpų liejimas]]: Nuo Vytauto laikų Lietuvoje buvo kalamos monetos ir liejami pabūklai bei varpai.
+- susijęs iš [[objektai/paprociai/Sukilėlių telkimas Salose per bažnyčios varpų skambinimą ir dvikalbį pamokslą.md#claim-t-09578|Sukilėlių telkimas Salose per bažnyčios varpų skambinimą ir dvikalbį pamokslą]]: Žmones į Salas telkė bažnyčios varpų skambėjimas.
+- susijęs iš [[objektai/paprociai/Vidaus kolonizacija Sūduvos giriose.md#claim-t-31537|Vidaus kolonizacija Sūduvos giriose]]: Po karų su kryžiuočiais pabaigos prasidėjo vidaus kolonizacija, ypač Sūduvos giriose.
+- susijęs iš Salos: Liudvikos Gedgaudienės-Didžiulienės atsiminimuose minima, kad sukilėlių pajėgos buvo telkiamos Salų miestelyje.
+- susijęs iš [[objektai/zodynas/atšilimas.md#claim-t-22059|atšilimas]]: 1958 m. „atšilimas“ baigėsi, o valdžia pradėjo kovą su religija mokymo įstaigose, draudė skambinti varpais ir ribojo atlaidų lankymą.
+- susijęs iš [[objektai/zodynas/lotyniškasis krikštas.md#claim-t-47929|lotyniškasis krikštas (krikštas)]]: Lietuvos valdovui pereinant į Lenkiją, valstybiniu mastu buvo atnaujintas lotyniškasis krikštas.
+- susijęs iš [[objektai/zodynas/lotyniškasis krikštas.md#claim-t-47930|lotyniškasis krikštas (krikštas)]]: Lietuvos valdovui einant į Lenkiją, valstybiniu lygmeniu buvo atnaujintas lotyniškasis krikštas, nuošalyje paliekant Kryžiuočių ordiną.
+- susijęs iš [[objektai/zodynas/misijų teorija.md#claim-t-32797|misijų teorija]]: Kryžiuočių ordinas atstovavo ginkluotai misijų teorijai ir buvo paliktas nuošalyje atnaujinant lotyniškąjį krikštą Lietuvoje.
+- susijęs iš [[objektai/zodynas/vidaus kolonizacija.md#claim-t-32816|vidaus kolonizacija]]: Pasibaigus karams su kryžiuočiais, prasidėjo vidaus kolonizacija, ypač Sūduvos giriose.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -152,28 +192,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Monetos]]
-- [[objektai/daiktai/Patrankos]]
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/maršalas]]
-- [[objektai/zodynas/pagonybė]]
-- [[objektai/autoriai/Liudvika Gedgaudienė-Didžiulienė]]
-- [[objektai/paprociai/Monetų kalimas ir pabūklų, varpų liejimas]]
-- [[objektai/ivykiai/Sausio 13-oji ir Vilniaus televizijos bokšto šturmas (1991 m. sausio 12–13 d.)]]
-- [[objektai/paprociai/Sukilėlių telkimas Salose per bažnyčios varpų skambinimą ir dvikalbį pamokslą]]
-- [[objektai/daiktai/Varpų vainikas]]
-- [[objektai/paprociai/Vidaus kolonizacija Sūduvos giriose]]
-- [[objektai/posakiai/kardinalinės teisės]]
-- [[objektai/zodynas/lotyniškasis krikštas|lotyniškasis krikštas (krikštas)]]
-- [[objektai/zodynas/misijų teorija]]
-- [[objektai/zodynas/vidaus kolonizacija]]
-- [[objektai/zodynas/Ordino brolis]]
-- [[objektai/zodynas/atšilimas]]
-- [[objektai/posakiai/„kiaulių marą“]]

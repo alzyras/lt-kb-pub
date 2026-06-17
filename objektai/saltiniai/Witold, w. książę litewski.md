@@ -28,6 +28,9 @@ amziai:
 - t-001
   global_id: t-31990
   teiginys: 'J. Kochanowskio veikalas „Witold, w. książę litewski“ išleistas 1900 m. Lvove.'
+  susije_objektai: 'mentioned_place: Lvovas; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1900 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

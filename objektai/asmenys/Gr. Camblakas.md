@@ -20,6 +20,8 @@ Camblakas.
 - t-001
   global_id: t-30257
   teiginys: 'Metropolitas Gr. Camblakas Konstancos susirinkime Vytauto vardu rūpestingai kėlė aptariamą klausimą.'
+  sudarymo_pagrindimas: 'Teiginys paremtas citata, bet santrumpą reikia išplėsti į pilną asmens įvardijimą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Konstanca; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -39,7 +41,3 @@ Camblakas.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/metropolitas]]

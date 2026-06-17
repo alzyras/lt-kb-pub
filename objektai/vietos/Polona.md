@@ -1,24 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Polona'
-variantai:
-  - 'Polonos'
-aliases: []
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
 atnaujinta: ''
-laikotarpis: ''
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: ''
 tags:
   - vieta
 ---
@@ -29,18 +15,25 @@ tags:
 Glebui Svetoslavovičiui buvo duotas Polonos miestas.
 
 ## Teiginiai
+
 <a id="claim-t-187294"></a>
 - t-001
   global_id: t-187294
-  teiginys: 'Glebui Svetoslavovičiui buvo duotas Polonos miestas.'
+  teiginys: 'Lietuvos metraštyje rašoma, kad Glebui Svetoslavovičiui buvo duotas Polonos miestas.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Kronikos pasakojime vartojamas titulas pašalintas, o faktas suformuluotas aiškiai.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Glebas (Smolensko kunigaikštis)|Glebas (Smolensko kunigaikštis)]]; mentioned_place: Lietuva; mentioned_place: Smolenskas'
   pagrindžia:
     - c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  statusas: patvirtinta
-
+- susijęs iš [[objektai/zodynas/regula.md#claim-t-184637|regula]]: Vaišvilkas Galiče gyveno pagal griežtesnes regulas, remdamasis Grigorijaus iš Polonos mokslu.
+- susijęs iš [[objektai/asmenys/Grigorijus iš Polonos.md#claim-t-186205|Grigorijus iš Polonos]]: Grigorijaus iš Polonos mokslu buvo grindžiamas griežtesnių regulų gyvenimas, kurį Galiče išpažino Vaišvilkas.
+- susijęs iš [[objektai/ivykiai/Smolensko prijungimas prie Lietuvos apgaunant Glėbą.md#claim-t-185774|Smolensko prijungimas prie Lietuvos apgaunant Glėbą]]: Vytautas vaišino Smolensko kunigaikštį Glėbą stovykloje, kol užėmė Smolenską ir visą kraštą.
+- susijęs iš Lites ac res gestae inter Polonos et Ordinemque cruciferorum: „Lites ac res gestae inter Polonos et Ordinemque cruciferorum“ pirmasis tomas išleistas Poznanėje 1890 m.
+- susijęs iš [[objektai/zodynas/regula.md#claim-t-184637|regula]]: Vaišvilkas Galiče gyveno pagal griežtesnes regulas, remdamasis Grigorijaus iš Polonos mokslu.
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Glebui Svetoslavovičiui buvo duotas Polonos miestas.'
+  santrauka: 'Lietuvos metraštyje rašoma, kad Glebui Svetoslavovičiui buvo duotas Polonos miestas.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     Tad atvykite
@@ -53,10 +46,8 @@ Glebui Svetoslavovičiui buvo duotas Polonos miestas.
     nigaikščiui Glebui Svetoslavovičiui davė Polonos mies­
     tą 9 , Smolensko didžiąją kunigaikštystę —  kunigaikščiui
     Jomantui1 9  ir Boreikos sūnui Vasilijui ".
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

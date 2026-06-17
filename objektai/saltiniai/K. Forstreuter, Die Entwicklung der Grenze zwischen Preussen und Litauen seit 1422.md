@@ -4,9 +4,10 @@ pavadinimas: 'K. Forstreuter, Die Entwicklung der Grenze zwischen Preussen und L
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
+  - '1420 m.'
   - '1422 m.'
   - '1941 m.'
-date_start: '1422'
+date_start: '1420'
 date_end: '1941'
 sukurta: ''
 atnaujinta: ''
@@ -28,6 +29,9 @@ Forstreuter, K.
 - t-001
   global_id: t-31753
   teiginys: 'K. Forstreuterio „Die Entwicklung der Grenze zwischen Preussen und Litauen seit 1422“ 1941 m. paskelbtas AF 18 tome, 50–70 puslapiuose.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Soldau'
+  temporaliniai_duomenys: 'įvykio data: 1420-1422; įvykio data: 1422 m.; įvykio data: 1941 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

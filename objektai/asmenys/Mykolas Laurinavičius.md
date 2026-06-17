@@ -30,9 +30,14 @@ Jachna Laurinavičius žinomas nuo - 1485 m. Tuo metu burmistras Mykolas Laurina
 - t-001
   global_id: t-87922
   teiginys: '1485 m. Mykolas Laurinavičius buvo burmistras.'
+  sudarymo_pagrindimas: 'Pradiniame teiginyje sumaišyti du asmenys ir sąrašo fragmentai, o citata palaiko trumpą faktą apie Mykolą Laurinavičių.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jachna Laurinavičius|Jachna Laurinavičius]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]'
+  temporaliniai_duomenys: 'įvykio data: 1485 m.; įvykio data: 1501 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradiniame teiginyje sumaišyti du asmenys ir sąrašo fragmentai, o citata palaiko trumpą faktą apie Mykolą Laurinavičių.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Kiti priedo I vaitų ir burmistrų sąrašo kandidatai.md#claim-t-87353|Kiti priedo I vaitų ir burmistrų sąrašo kandidatai]]: Jachna Laurinavičius sąraše nurodytas kaip žinomas nuo 1485 m., o tuo metu burmistru buvo Mykolas Laurinavičius.
 ## Reikšmingi paminėjimai
 
 - c-001

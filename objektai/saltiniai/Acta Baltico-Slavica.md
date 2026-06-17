@@ -4,9 +4,11 @@ pavadinimas: 'Acta Baltico-Slavica'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
+  - '1945 m.'
+  - '1949 m.'
   - '1964 m.'
   - '1970 m.'
-date_start: '1964'
+date_start: '1945'
 date_end: '1970'
 sukurta: ''
 atnaujinta: ''
@@ -25,6 +27,9 @@ amziai:
 - t-001
   global_id: t-03500
   teiginys: '„Acta Baltico-Slavica“ yra Balstogės mokslo draugijos nuo 1964 m. leidžiamas žurnalas, iki 1970 m. turėjęs septynis tomus.'
+  susije_objektai: 'mentioned_place: Balstogė'
+  temporaliniai_duomenys: 'įvykio data: iki 1970 m.; įvykio data: 1945-1949; įvykio data: po 1964 m.; įvykio data: 1964 m.; įvykio data: 1970 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data.'
   pagrindžia:
     - c-001
 

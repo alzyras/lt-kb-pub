@@ -18,7 +18,7 @@ amziai:
 
 ## Santrauka
 
-2: Niemiecko-polska.— Wrocław—Warszawa, 1951.
+Dusburgietis teigia, kad 2: Niemiecko-polska.— Wrocław—Warszawa, 1951.
 
 ## Teiginiai
 
@@ -26,6 +26,7 @@ amziai:
 - t-001
   global_id: t-61199
   teiginys: '2: Niemiecko-polska.— Wrocław—Warszawa, 1951.'
+  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
   pagrindžia:
     - c-001
 

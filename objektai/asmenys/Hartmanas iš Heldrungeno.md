@@ -5,9 +5,9 @@ saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1234 m.'
-  - '1282 m.'
+  - '1324 m.'
 date_start: '1234'
-date_end: '1282'
+date_end: '1324'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -17,6 +17,7 @@ tags:
   - popiežius
 amziai:
   - 'XIII'
+  - 'XIV'
 periodo_grupes:
   - 'viduramžiai'
 ---
@@ -32,6 +33,8 @@ Dusburgietis teigia, kad hartmano iš Heldrungeno „Pranešimas...“ aprašo, 
 - t-001
   global_id: t-59966
   teiginys: 'Hartmanas iš Heldrungeno kartu su Konradu, Ditrichu iš Gruningeno ir keliais namiškiais buvo Teneburgo pilyje.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir turi neaiškių įvardžių; citata palaiko tik dalyvavimo pilyje faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/landgrafas|landgrafas]]; mentioned_person: [[objektai/asmenys/Hartmanas|Hartmanas]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Viena'
   pagrindžia:
     - c-002
 
@@ -39,6 +42,11 @@ Dusburgietis teigia, kad hartmano iš Heldrungeno „Pranešimas...“ aprašo, 
 - t-002
   global_id: t-59967
   teiginys: 'Hartmanas iš Heldrungeno buvo didysis magistras, broliu tapęs prieš 1237 m. ir miręs 1282 m.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir atitinka citatoje pateiktą informaciją.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Hartmanas|Hartmanas]]; mentioned_place: Ragainė'
+  temporaliniai_duomenys: 'įvykio data: 1237 m.; įvykio data: 1282 m.; įvykio data: po 1313 m.; įvykio data: 1313 m.; įvykio data: po 1324 m.; įvykio data: 1324 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir atitinka citatoje pateiktą informaciją.'
   pagrindžia:
     - c-001
 
@@ -46,6 +54,8 @@ Dusburgietis teigia, kad hartmano iš Heldrungeno „Pranešimas...“ aprašo, 
 - t-003
   global_id: t-59968
   teiginys: 'Hartmano iš Heldrungeno „Pranešimas“ aprašo Kalavijuočių ordino susijungimą su Vokiečių ordinu ir Livonijos atitekimą pastarajam.'
+  sudarymo_pagrindimas: 'Citata yra apie Hartmano teksto turinį, todėl reikia aiškaus šaltinio turinio teiginio.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Hartmanas|Hartmanas]]; mentioned_place: Livonija'
   pagrindžia:
     - c-003
 
@@ -94,19 +104,3 @@ Dusburgietis teigia, kad hartmano iš Heldrungeno „Pranešimas...“ aprašo, 
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Hartmanas]]
-- [[objektai/grupes/Kalavijuočių ordinas]]
-- [[objektai/asmenys/Konradas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Teutonai]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/didysis magistras]]
-- [[objektai/zodynas/komtūras]]
-- [[objektai/zodynas/landgrafas]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/asmenys/Ditrichas iš Gruningeno]]
-- [[objektai/ivykiai/Kalavijuočių ordino prijungimas prie Teutonų ordino ir Hermano Balko siuntimas į Livoniją (1236-1237 m.)]]
-- [[objektai/ivykiai/Vernerio iš Orzelno išrinkimas didžiuoju magistru (1324 m. liepos 6 d.)]]

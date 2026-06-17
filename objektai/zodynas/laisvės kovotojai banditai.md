@@ -3,10 +3,16 @@ tipas: zodyno_irasas
 pavadinimas: 'laisvės kovotojai banditai'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1949 m.'
+date_start: '1949'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - sąvoka
+amziai:
+  - 'XX'
 ---
 # laisvės kovotojai banditai
 
@@ -20,6 +26,11 @@ Suvažiavime patvirtintas naujas organizacijos pavadinimas: Lietuvos laisvės ko
 - t-001
   global_id: t-22206
   teiginys: 'Partizanų suvažiavime patvirtintas LLKS pavadinimas, o partizanai pradėti vadinti laisvės kovotojais; sovietų valdžia juos vadino banditais.'
+  sudarymo_pagrindimas: 'Teiginys pagrįstas, bet sutrumpintas ir išvalytas nuo perteklinių intarpų.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos laisvės kovos sąjūdis|Lietuvos laisvės kovos sąjūdis]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1949 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys pagrįstas, bet sutrumpintas ir išvalytas nuo perteklinių intarpų.'
   pagrindžia:
     - c-001
 
@@ -47,7 +58,3 @@ Suvažiavime patvirtintas naujas organizacijos pavadinimas: Lietuvos laisvės ko
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuvos laisvės kovos sąjūdis]]

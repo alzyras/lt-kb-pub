@@ -22,6 +22,8 @@ Po to, sąjun­ gininkai ėmė trauktis atgal (liepos 11 d.) Lautenburgo Soldau 
 - t-001
   global_id: t-36253
   teiginys: 'Hohendorfe prie Soldau sustojusiems sąjungininkams Vengrijos pasiuntinys įteikė Jogailai raštą, kuriuo Vengrijos karalius skelbė Lenkijai karą.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai perteikia citatoje nurodytą įvykį Hohendorfe.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Lautenburgas; mentioned_place: Lenkija; mentioned_place: Soldau; mentioned_place: Vengrija'
   pagrindžia:
     - c-001
 

@@ -29,6 +29,8 @@ Hermano C o r neri o, dominikono, Kroniką, Naruševi­ čiau s t. Tas pareiški
 - t-001
   global_id: t-88187
   teiginys: 'Michałas Balińskis rašė, kad Gedimino laiško pabaiga prieštarauja Hermano Kornerio teiginiui apie Gedimino ištikimybę tėvų tikėjimui.'
+  sudarymo_pagrindimas: 'Pradinis tekstas yra OCR fragmentas, bet citata leidžia suformuluoti aiškų teiginį apie autoriaus interpretaciją.'
+  susije_objektai: 'mentioned_object: [[objektai/posakiai/Gyventi ir mirti savo tėvų tikėjimą išpažindamas|Gyventi ir mirti savo tėvų tikėjimą išpažindamas]]; mentioned_person: [[objektai/autoriai/Albertas Krantzas|Albertas Krantzas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/autoriai/Hermanas Corneris|Hermanas Corneris]]'
   pagrindžia:
     - c-001
 
@@ -36,6 +38,8 @@ Hermano C o r neri o, dominikono, Kroniką, Naruševi­ čiau s t. Tas pareiški
 - t-002
   global_id: t-88188
   teiginys: 'Hermano Cornerio kronikoje rašoma, kad Vilniaus miestiečiai buvo palankesni Jogailai negu Kęstučiui.'
+  sudarymo_pagrindimas: 'Citata remia faktą iš kronikos, o pradinis tekstas yra nuorodos fragmentas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus miestiečių luomas|Vilniaus miestiečių luomas]]; mentioned_person: [[objektai/autoriai/Hermanas Corneris|Hermanas Corneris]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 

@@ -10,21 +10,26 @@ atnaujinta: ''
 
 ## Santrauka
 
-Mirza buvo terminas, kilęs iš arabų „emir“ ar „amir“ ir persų „žade“, totorių-mongolų vartotas Tamerlanui ir žymių feodalų giminių nariams tituluoti.
+Mirza buvo iš arabų „emir“ ar „amir“ ir persų „žade“ kilęs terminas, totorių-mongolų vartotas Tamerlanui ir feodalų giminių nariams tituluoti.
 
 ## Teiginiai
 
 <a id="claim-t-187557"></a>
 - t-001
   global_id: t-187557
-  teiginys: 'Mirza buvo terminas, kilęs iš arabų „emir“ ar „amir“ ir persų „žade“, totorių-mongolų vartotas Tamerlanui ir žymių feodalų giminių nariams tituluoti.'
+  teiginys: 'Mirza buvo iš arabų „emir“ ar „amir“ ir persų „žade“ kilęs terminas, totorių-mongolų vartotas Tamerlanui ir feodalų giminių nariams tituluoti.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Sakinys sutrumpintas ir išvalytas nuo perteklinės formuluotės, nekeičiant citatos prasmės.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Arabai|Arabai]]; mentioned_object: [[objektai/grupes/Persai|Persai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_place: Krymas'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Mirza buvo terminas, kilęs iš arabų „emir“ ar „amir“ ir persų „žade“, totorių-mongolų vartotas Tamerlanui ir žymių feodalų giminių nariams tituluoti.'
+  santrauka: 'Mirza buvo iš arabų „emir“ ar „amir“ ir persų „žade“ kilęs terminas, totorių-mongolų vartotas Tamerlanui ir feodalų giminių nariams tituluoti.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     M, M iechovita. (Трактат о  двух Сарматнях, p, 89)
@@ -38,8 +43,3 @@ Mirza buvo terminas, kilęs iš arabų „emir“ ar „amir“ ir persų „ža
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Arabai]]
-- [[objektai/zodynas/chanas]]

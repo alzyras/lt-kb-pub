@@ -19,7 +19,7 @@ amziai:
 
 ## Santrauka
 
-Didžiosios kovos apygardoje buvo įkurtos dvi rinktinės: „A“ Trakų apskrityje ir „B“ Ukmergės apskrityje. 1944 m. Juozas Misiūnas su maždaug 200 partizanų daliniu keliavo po Ukmergės ir Trakų apskritis ir kovėsi su sovietais.
+Misiūnas nuolat keliavo po Ukmergės ir Trakų apskritis ir nevengdamas susidūrimų kovėsi su sovietais. Misiūnas, apygarda pavadinta Didžiosios kovos (DKA), įkurtos dvi rinktinės — „A“ (Trakų apskritis) ir „B“ (Ukmergės apskritis).
 
 ## Teiginiai
 
@@ -27,6 +27,9 @@ Didžiosios kovos apygardoje buvo įkurtos dvi rinktinės: „A“ Trakų apskri
 - t-001
   global_id: t-42222
   teiginys: 'Didžiosios kovos apygardoje buvo įkurtos dvi rinktinės: „A“ Trakų apskrityje ir „B“ Ukmergės apskrityje.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Trakai; mentioned_place: Ukmergė'
+  temporaliniai_duomenys: 'įvykio data: 1946 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 
@@ -34,6 +37,11 @@ Didžiosios kovos apygardoje buvo įkurtos dvi rinktinės: „A“ Trakų apskri
 - t-002
   global_id: t-42223
   teiginys: '1944 m. Juozas Misiūnas su maždaug 200 partizanų daliniu keliavo po Ukmergės ir Trakų apskritis ir kovėsi su sovietais.'
+  sudarymo_pagrindimas: 'Įtrauktas citatoje nurodytas laikas ir paliktas aiškus faktinis teiginys.'
+  susije_objektai: 'location: Trakai; location: Trakų apskritis; location: Ukmergė; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Trakai; mentioned_place: Trakų apskritis; mentioned_place: Ukmergė'
+  temporaliniai_duomenys: 'kelionės data: 1944 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Įtrauktas citatoje nurodytas laikas ir paliktas aiškus faktinis teiginys.'
   pagrindžia:
     - c-001
 

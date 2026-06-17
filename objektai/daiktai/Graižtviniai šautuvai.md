@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Didelis graižtvinių šautuvų kiekis kovos lauke buvo svarbus veiksnys, nes didesnis jų šaudymo nuotolis pavojingu padarė suartėjimą su priešu. Didelis graižtvinių šautuvų kiekis buvo pagrindinis laikotarpio kovos lauko veiksnys.
+Nenurodyta
 
 ## Pavadinimai šaltiniuose
 
@@ -40,6 +40,8 @@ Nenurodyta
 - t-001
   global_id: t-40717
   teiginys: 'Didelis graižtvinių šautuvų kiekis kovos lauke buvo svarbus veiksnys, nes didesnis jų šaudymo nuotolis pavojingu padarė suartėjimą su priešu.'
+  sudarymo_pagrindimas: 'Pirminis teiginys turi neaiškią nuorodą į aptariamą periodą; perrašyta pagal citatos faktus.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]'
   pagrindžia:
     - c-001
 
@@ -47,6 +49,11 @@ Nenurodyta
 - t-002
   global_id: t-183683
   teiginys: 'Didelis graižtvinių šautuvų kiekis buvo pagrindinis laikotarpio kovos lauko veiksnys.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pašalintas puslapio triukšmas ir sutvarkyta sakinio forma.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]'
   pagrindžia:
     - c-002
 
@@ -90,8 +97,3 @@ Nenurodyta
 ## Puslapis 165 Pagrindinis periodo veiksnys kovos lauke - didelis graižtvinių šautuvų kiekis.
 
 Nenurodyta
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Rusai]]
-- [[objektai/daiktai/Šautuvai]]

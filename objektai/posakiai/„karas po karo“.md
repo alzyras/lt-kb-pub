@@ -3,6 +3,10 @@ tipas: posakis
 pavadinimas: '„karas po karo“'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1944 m.'
+date_start: '1944'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -10,6 +14,9 @@ tags:
   - karas
   - posakis
   - tauta
+  - valstybė
+amziai:
+  - 'XX'
 ---
 # „karas po karo“
 
@@ -23,9 +30,14 @@ Karas po karo – ginkluota rezistencija Nuo 1944 m. vasaros sovietų represijos
 - t-001
   global_id: t-20904
   teiginys: 'Nuo 1944 m. vasaros sovietų represijos ir teroras kurstė lietuvių pasipriešinimą, iš kurio kilo dešimtmetį trukęs partizaninis karas dėl nepriklausomybės.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir pagrįstas pateikta citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/posakiai/karas po karo|karas po karo]]; mentioned_place: Baltija; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: po 1944 m.; įvykio data: 1944 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir pagrįstas pateikta citata.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/posakiai/karas po karo.md#claim-t-09685|karas po karo]]: Pavadinimas „karas po karo“ citatoje gretinamas su Lietuvos–SSRS karo (1945–1953) pavadinimu.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -41,8 +53,3 @@ Karas po karo – ginkluota rezistencija Nuo 1944 m. vasaros sovietų represijos
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/posakiai/karas po karo]]

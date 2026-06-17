@@ -3,10 +3,16 @@ tipas: vieta
 pavadinimas: 'Kauno getas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1941 m.'
+date_start: '1941'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
+amziai:
+  - 'XX'
 ---
 # Kauno getas
 
@@ -20,6 +26,11 @@ tags:
 - t-001
   global_id: t-21480
   teiginys: 'Kauno getas buvo tarp getų, kuriuose apie 50 tūkst. žydų laikinai palikti ir išnaudoti kaip pigi darbo jėga.'
+  sudarymo_pagrindimas: 'Teiginys prasideda mažąja raide ir taisytinas į vientisą sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/getas|getas]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Šiauliai'
+  temporaliniai_duomenys: 'įvykio data: 1941 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys prasideda mažąja raide ir taisytinas į vientisą sakinį.'
   pagrindžia:
     - c-001
 

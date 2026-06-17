@@ -5,10 +5,15 @@ saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1222 m.'
+  - '1246 m.'
+  - '1248 m.'
+  - '1251 m.'
   - '1276 m.'
+  - '1278 m.'
   - '1299 m.'
+  - '1306 m.'
 date_start: '1222'
-date_end: '1299'
+date_end: '1306'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -16,8 +21,10 @@ tags:
   - miestas
   - pilis
   - vieta
+  - vyskupas
 amziai:
   - 'XIII'
+  - 'XIV'
 ---
 # Chełmža
 
@@ -31,6 +38,8 @@ Dusburgietis teigia, kad gyvenvietė minima 1222 m. dokumente Lozos vardu (PUB, 
 - t-001
   global_id: t-58411
   teiginys: 'Prūsų kariuomenė apsiautė Chełmžą, o vyskupas sušaukė kilminguosius ir vasalus išžvalgyti priešo kariuomenės dydį bei stiprumą.'
+  sudarymo_pagrindimas: 'Citata palaiko aiškų faktą apie Kulmenzės apgulą, reikia pašalinti triukšmą ir boilerplate.'
+  susije_objektai: 'mentioned_place: Kulmenzė; mentioned_place: Prūsai'
   pagrindžia:
     - c-002
 
@@ -38,6 +47,11 @@ Dusburgietis teigia, kad gyvenvietė minima 1222 m. dokumente Lozos vardu (PUB, 
 - t-002
   global_id: t-58412
   teiginys: 'Chełmža 1222 m. dokumente minima Lozos vardu, o 1251 m. joje įkurta Kulmo vyskupijos katedra ir miestas Culmense.'
+  sudarymo_pagrindimas: 'Citata remia glaustą vietovės vardų ir institucinės raidos teiginį.'
+  susije_objektai: 'mentioned_place: Kaimas; mentioned_place: Kulmas; mentioned_place: Loza'
+  temporaliniai_duomenys: 'įvykio data: 1222 m.; įvykio data: 1246 m.; įvykio data: 1248 m.; įvykio data: 1251 m.; įvykio data: 1276 m.; įvykio data: 1278 m.; įvykio data: 1306 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata remia glaustą vietovės vardų ir institucinės raidos teiginį.'
   pagrindžia:
     - c-003
 
@@ -45,6 +59,12 @@ Dusburgietis teigia, kad gyvenvietė minima 1222 m. dokumente Lozos vardu (PUB, 
 - t-003
   global_id: t-58413
   teiginys: 'Liudvikas iš Šipeno 1299 m. mirė ir buvo palaidotas Chełmžos katedros bažnyčioje.'
+  sudarymo_pagrindimas: 'Citata palaiko faktą apie palaidojimą Kulmenzės katedroje, pradinėje versijoje yra antraštės triukšmo.'
+  susije_objektai: 'location: Chełmža; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_person: [[objektai/asmenys/Liudvikas iš Šipeno|Liudvikas iš Šipeno]]; mentioned_place: Kulmenzė; mentioned_place: Prūsija'
+  semantiniai_rysiai: '[[objektai/asmenys/Liudvikas iš Šipeno|Liudvikas iš Šipeno]] mirė Chełmža'
+  temporaliniai_duomenys: 'mirties data: 1299 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Liudvikas iš Šipeno mirė Chełmža“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko faktą apie palaidojimą Kulmenzės katedroje, pradinėje versijoje yra antraštės triukšmo.'
   pagrindžia:
     - c-004
 
@@ -52,6 +72,8 @@ Dusburgietis teigia, kad gyvenvietė minima 1222 m. dokumente Lozos vardu (PUB, 
 - t-004
   global_id: t-58414
   teiginys: 'Per javapjūtę prūsų kariuomenė 13 dienų slapstėsi miške prie Fogelzango, kol Chełmžos miestiečiai išėjo pjauti javų.'
+  sudarymo_pagrindimas: 'Citata palaiko glaustą faktą apie miestiečių aplinkybes, pradinė formuluotė fragmentiška.'
+  susije_objektai: 'mentioned_place: Kulmenzė; mentioned_place: Prūsai'
   pagrindžia:
     - c-005
 
@@ -59,6 +81,8 @@ Dusburgietis teigia, kad gyvenvietė minima 1222 m. dokumente Lozos vardu (PUB, 
 - t-005
   global_id: t-58415
   teiginys: 'Skomantui priartėjus prie Chełmžos, lenkų karys Ninerikas įsigavo į miestą ir pažadėjo jį išduoti Skomantui.'
+  sudarymo_pagrindimas: 'Citata palaiko konkretų įvykį prie Kulmenzės, reikia išplėsti fragmentą į sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_person: [[objektai/asmenys/Ninerikas|Ninerikas]]; mentioned_place: Eimsutis; mentioned_place: Kulmas; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -150,3 +174,6 @@ Dusburgietis teigia, kad gyvenvietė minima 1222 m. dokumente Lozos vardu (PUB, 
   statusas: verified
   pagrindžia:
     - t-004
+
+## Ryšiai
+- [[objektai/asmenys/Liudvikas iš Šipeno]] mire Chełmža

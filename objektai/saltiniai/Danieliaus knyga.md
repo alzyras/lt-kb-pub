@@ -20,6 +20,7 @@ Dusburgietis teigia, kad pratarmė „Aukščiausias dievas padarė manyje ženk
 - t-001
   global_id: t-61064
   teiginys: 'Dusburgiečio kronikos pratarmėje cituojama Danieliaus knygos vieta apie Dievo ženklų ir stebuklų paskelbimą.'
+  sudarymo_pagrindimas: 'Citata palaiko tik šios Biblijos vietos panaudojimą pratarmėje.'
   pagrindžia:
     - c-001
 

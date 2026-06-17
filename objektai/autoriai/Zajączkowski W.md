@@ -14,7 +14,7 @@ tags:
 
 ## Santrauka
 
-W. Zajączkowskio bendraautorystės darbas cituojamas duomenims apie jotvingių piliakalnį prie Didžiojo Selmento ežero.
+Dusburgietis teigia, kad prie Didžiojo Selmento ežero (Selmęt Wielki) išliko jotvingių piliakalnis (apskritos formos, skersmuo — apie 60 m.— Baranowski T., Zajączkowski W., Archeologia..., p. 110).
 
 ## Teiginiai
 
@@ -22,6 +22,8 @@ W. Zajączkowskio bendraautorystės darbas cituojamas duomenims apie jotvingių 
 - t-001
   global_id: t-60826
   teiginys: 'W. Zajączkowskio bendraautorystės darbas cituojamas duomenims apie jotvingių piliakalnį prie Didžiojo Selmento ežero.'
+  sudarymo_pagrindimas: 'Citata patvirtina autoriaus darbo naudojimą konkrečiam archeologiniam duomeniui.'
+  susije_objektai: 'mentioned_place: Kimenava'
   pagrindžia:
     - c-001
 
@@ -40,7 +42,3 @@ W. Zajączkowskio bendraautorystės darbas cituojamas duomenims apie jotvingių 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/ežeras]]

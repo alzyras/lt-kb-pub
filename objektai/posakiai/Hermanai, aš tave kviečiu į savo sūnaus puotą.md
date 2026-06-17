@@ -23,6 +23,8 @@ Dusburgietis teigia, kad apie tai, kaip iš anksto buvo išpranašautas šis mū
 - t-001
   global_id: t-59095
   teiginys: 'Dusburgiečio pasakojime Marija pasirodė broliui Hermanui Saracėnui ir pakvietė jį į savo sūnaus puotą.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nukreiptas į kitą citatą; pateikta citata geriau pagrindžia posakio kilmės epizodą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Hermanas|Hermanas]]; mentioned_person: [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos]]; mentioned_person: [[objektai/asmenys/Marija|Marija]]'
   pagrindžia:
     - c-001
 
@@ -30,6 +32,8 @@ Dusburgietis teigia, kad apie tai, kaip iš anksto buvo išpranašautas šis mū
 - t-002
   global_id: t-59096
   teiginys: 'Broliui Hermanui, vadinamam Saracėnu, prieš žygį į Kuršą pasirodžiusi Mergelė Marija pakvietė jį į savo sūnaus puotą.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, bet citata aiškiai pagrindžia įvykį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Hermanas|Hermanas]]; mentioned_person: [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos]]; mentioned_person: [[objektai/asmenys/Marija|Marija]]; mentioned_person: [[objektai/asmenys/Mergelė Marija|Mergelė Marija]]'
   pagrindžia:
     - c-001
 
@@ -52,11 +56,3 @@ Dusburgietis teigia, kad apie tai, kaip iš anksto buvo išpranašautas šis mū
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Hermanas]]
-- [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]
-- [[objektai/asmenys/Marija]]
-- [[objektai/asmenys/Mergelė Marija]]
-- [[objektai/zodynas/žygis]]

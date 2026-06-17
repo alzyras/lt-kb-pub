@@ -22,6 +22,8 @@ Li­ vonijos pilys: Marienhausenas, Lutzenas, Švarcenburgas, Rosytė, Dinaburga
 - t-001
   global_id: t-86320
   teiginys: 'Švarcenburgas nurodytas tarp Livonijos pilių.'
+  sudarymo_pagrindimas: 'Citata pagrindžia tik glaustą faktą, kad Švarcenburgas įtrauktas į Livonijos pilių sąrašą.'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Podolė; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

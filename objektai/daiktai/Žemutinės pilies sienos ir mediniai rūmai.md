@@ -3,6 +3,10 @@ tipas: daiktas
 pavadinimas: 'Žemutinės pilies sienos ir mediniai rūmai'
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+datos:
+  - '1506 m.'
+date_start: '1506'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -10,6 +14,8 @@ tags:
   - karalius
   - miestas
   - pilis
+amziai:
+  - 'XVI'
 ---
 # Žemutinės pilies sienos ir mediniai rūmai
 
@@ -43,6 +49,11 @@ Nenurodyta
 - t-001
   global_id: t-87105
   teiginys: '1506 m. tikriausiai buvo pataisytos pakrypusios ir suskilusios Žemutinės pilies sienos, taip pat iškilo erdvūs mediniai rūmai.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Mediniai rūmai|Mediniai rūmai]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_person: [[objektai/asmenys/Vaitiekus (Lucko vyskupas)|Vaitiekus (Lucko vyskupas)]]; mentioned_place: Minskas; mentioned_place: Sluckas; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1506 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -72,12 +83,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]
-- [[objektai/asmenys/Vaitiekus (Lucko vyskupas)]]
-- [[objektai/daiktai/Mediniai rūmai]]
-- [[objektai/daiktai/Mūro sienos ir miesto sienos]]
-- [[objektai/grupes/Vilniaus miestiečių luomas]]
-- [[objektai/daiktai/Vilniaus miesto mūro siena, vartai ir statinių tvora]]

@@ -10,7 +10,7 @@ atnaujinta: ''
 
 ## Santrauka
 
-Lėnas čia reiškia Ordino valdžiai pavaldžią feodalinę valdą. Vytautas pažadėjo valdyti savo tėviškę kaip Ordino lėną, jei Ordinas padėtų ją atgauti.
+Lėnas čia minimas kaip feodalinės priklausomybės forma: viename šaltinyje taip apibūdinama Podolės dalies valda, perduota Spytkui iš Melštyno, o kitame Vytautas pasižada savo tėviškę valdyti kaip Ordino lėną.
 
 ## Teiginiai
 
@@ -18,6 +18,7 @@ Lėnas čia reiškia Ordino valdžiai pavaldžią feodalinę valdą. Vytautas pa
 - t-001
   global_id: t-70215
   teiginys: 'Lėnas čia reiškia Ordino valdžiai pavaldžią feodalinę valdą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/tėviškė|tėviškė]]'
   pagrindžia:
     - c-001
 
@@ -25,9 +26,13 @@ Lėnas čia reiškia Ordino valdžiai pavaldžią feodalinę valdą. Vytautas pa
 - t-002
   global_id: t-70216
   teiginys: 'Vytautas pažadėjo valdyti savo tėviškę kaip Ordino lėną, jei Ordinas padėtų ją atgauti.'
+  sudarymo_pagrindimas: 'Reikia aiškiai įtraukti citatoje nurodytą sąlygą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/tėviškė|tėviškė]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184269|Jogaila (kunigaikštis, XIV–XV a.)]]: Po Torno taikos Jogaila davė Vytautui lėno teisėmis vakarinę Podolijos dalį su Kamieniecu.
+- susijęs iš Podolija: Po Torno taikos Jogaila davė Vytautui lėno teisėmis vakarinę Podolijos dalį su Kamieniecu.
+- susijęs iš Podolė: Po Torno taikos Jogaila davė Vytautui lėno teisėmis vakarinę Podolijos dalį su Kamieniecu.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -45,10 +50,3 @@ Lėnas čia reiškia Ordino valdžiai pavaldžią feodalinę valdą. Vytautas pa
   pagrindžia:
     - t-001
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/zodynas/tėviškė]]
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

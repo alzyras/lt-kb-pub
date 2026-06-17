@@ -6,7 +6,7 @@ saltiniai:
 datos:
   - '1940 m.'
   - '1944 m.'
-  - '1947 m.'
+  - '1946 m.'
   - '1953 m.'
 date_start: '1940'
 date_end: '1953'
@@ -17,6 +17,7 @@ tags:
   - miestas
   - popiežius
   - tauta
+  - valstybė
 amziai:
   - 'XX'
 ---
@@ -24,7 +25,7 @@ amziai:
 
 ## Santrauka
 
-1944–1946 m. Lietuvoje susidarė dideli, net iki 100 kovotojų siekę partizanų būriai. Lietuvos partizanų pasipriešinimas SSRS truko visą dešimtmetį po Antrojo pasaulinio karo, 1945–1953 m. Nuo 1944 m. vasaros sovietų represijos ir teroras Lietuvoje skatino dešimtmetį trukusį partizaninį karą dėl nepriklausomybės atkūrimo.
+Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines Sovietų Sąjungos vykdytas deportacijas į Sibirą, emigraciją 1944 m. į Vakarus, Lietuva sugebėjo pakilti į ilgiausią „karą po karo“ – Lietuvos partizanų pasipriešinimą SSRS ištisą. Nuo 1944 m. vasaros sovietų represijos ir teroras kurstė lietuvių tautos pasipriešinimą, kilo dešimtmetį trukęs partizaninis karas dėl Lietuvos nepriklausomybės atkūrimo. Antinacinė rezistencija koncentravosi miestuose, o antisovietinė buvo ginkluota ir vyko kaime, kur partizanai galėjo gauti valstiečių paramą maistu, medikamentais, drabužiais.
 
 ## Teiginiai
 
@@ -32,6 +33,11 @@ amziai:
 - t-001
   global_id: t-74759
   teiginys: '1944–1946 m. Lietuvoje susidarė dideli, net iki 100 kovotojų siekę partizanų būriai.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nurodo laikotarpį ir partizanų būrių dydį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1944-1946; įvykio data: 1946 m.; įvykio data: 1947 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo laikotarpį ir partizanų būrių dydį.'
   pagrindžia:
     - c-002
 
@@ -39,6 +45,11 @@ amziai:
 - t-002
   global_id: t-74760
   teiginys: 'Lietuvos partizanų pasipriešinimas SSRS truko visą dešimtmetį po Antrojo pasaulinio karo, 1945–1953 m.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir turi būti suformuluotas kaip pilnas sakinys.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Lietuvos partizanų pasipriešinimas SSRS (1945-1953 m.)|Lietuvos partizanų pasipriešinimas SSRS (1945-1953 m.)]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: SSRS'
+  temporaliniai_duomenys: 'įvykio data: 1940 m.; įvykio data: 1944 m.; įvykio data: 1945-1953; įvykio data: 1953 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs ir turi būti suformuluotas kaip pilnas sakinys.'
   pagrindžia:
     - c-001
 
@@ -46,6 +57,11 @@ amziai:
 - t-003
   global_id: t-74763
   teiginys: 'Nuo 1944 m. vasaros sovietų represijos ir teroras Lietuvoje skatino dešimtmetį trukusį partizaninį karą dėl nepriklausomybės atkūrimo.'
+  sudarymo_pagrindimas: 'Reikia pašalinti antraštės triukšmą ir suformuluoti enciklopedinį sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/posakiai/karas po karo|karas po karo]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Baltija; mentioned_place: Didžioji Britanija; mentioned_place: Lietuva; mentioned_place: SSRS'
+  temporaliniai_duomenys: 'įvykio data: po 1944 m.; įvykio data: 1944 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia pašalinti antraštės triukšmą ir suformuluoti enciklopedinį sakinį.'
   pagrindžia:
     - c-006
 
@@ -53,6 +69,8 @@ amziai:
 - t-004
   global_id: t-74764
   teiginys: 'Sovietams užblokavus Lietuvą nuo laisvojo pasaulio informacijos, partizanų apygardose buvo įkurti spaudos ir informacijos skyriai.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 
@@ -60,6 +78,11 @@ amziai:
 - t-005
   global_id: t-74765
   teiginys: '1947 m. pabaigoje Juozas Lukša-Skirmantas ir Kazimieras Pyplys-Mažytis per geležinę uždangą į laisvąjį pasaulį nugabeno partizanų dokumentus.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nurodo veikėjus, laiką, veiksmą ir objektą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Juozas Lukša-Skirmantas|Juozas Lukša-Skirmantas]]; mentioned_person: [[objektai/asmenys/Kazimieras Pyplys-Mažytis|Kazimieras Pyplys-Mažytis]]; mentioned_place: Lietuva; mentioned_place: SSRS'
+  temporaliniai_duomenys: 'įvykio data: 1947 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo veikėjus, laiką, veiksmą ir objektą.'
   pagrindžia:
     - c-004
 
@@ -67,9 +90,16 @@ amziai:
 - t-006
   global_id: t-74766
   teiginys: 'Nors organizuota ginkluota kova pasibaigė 1953-ųjų pavasarį, keletas pavienių partizanų išsislapstė dar dešimt ir daugiau metų.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]; mentioned_place: Lietuva; mentioned_place: SSRS'
+  temporaliniai_duomenys: 'įvykio data: 1940 m.; įvykio data: 1944-1953; įvykio data: 1953 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-005
-
+- susijęs iš [[objektai/daiktai/PPS 41 (Pistolet-Pulemiot Špagina).md#claim-t-39272|PPS 41 (Pistolet-Pulemiot Špagina)]]: PPS 41 buvo vienas gausiausiai gamintų Antrojo pasaulinio karo pistoletų-kulkosvaidžių.
+- susijęs iš [[objektai/ivykiai/Lietuvos partizaninis karas dėl nepriklausomybės atkūrimo (1944–1953 m.).md#claim-t-183253|Lietuvos partizaninis karas dėl nepriklausomybės atkūrimo (1944–1953 m.)]]: 1946–1948 m. Lietuvos partizanai perėjo prie pasalų organizavimo ir sovietinių pareigūnų bei šnipų naikinimo taktikos.
+- susijęs iš [[objektai/ivykiai/Lietuvos partizaninis karas dėl nepriklausomybės atkūrimo (1944–1953 m.).md#claim-t-75178|Lietuvos partizaninis karas dėl nepriklausomybės atkūrimo (1944–1953 m.)]]: 1946–1948 m. Lietuvos partizanai perėjo prie pasalų organizavimo ir sovietinių pareigūnų bei šnipų naikinimo taktikos.
+- susijęs iš [[objektai/zodynas/pyliavos.md#claim-t-101600|pyliavos]]: Užimdami miestelius Lietuvos partizanai naikino vietos įgulas, valsčiaus dokumentus, mobilizacijos sąrašus ir pyliavų žiniaraščius.
+- susijęs iš [[objektai/zodynas/pyliavos.md#claim-t-101601|pyliavos]]: Užimdami miestelius, Lietuvos partizanai naikino valsčiaus dokumentus, mobilizacijos sąrašus ir pyliavų žiniaraščius.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -202,24 +232,3 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-007
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Juozas Lukša-Skirmantas]]
-- [[objektai/asmenys/Kazimieras Pyplys-Mažytis]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/NKVD]]
-- [[objektai/posakiai/karas po karo]]
-- [[objektai/zodynas/Miera|miera]]
-- [[objektai/daiktai/Šautuvai]]
-- [[objektai/grupes/Žydai]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/daiktai/PPS 41 (Pistolet-Pulemiot Špagina)]]
-- [[objektai/ivykiai/Lietuvos partizanų pasipriešinimas SSRS (1945-1953 m.)]]
-- [[objektai/ivykiai/Lietuvos partizaninis karas dėl nepriklausomybės atkūrimo (1944–1953 m.)]]
-- [[objektai/zodynas/pyliavos]]
-- [[objektai/ivykiai/Lietuvos žydų sunaikinimas - Holokaustas]]
-- [[objektai/ivykiai/Partizanų dokumentų nugabenimas į laisvąjį pasaulį (1947 m. pabaiga)]]
-- [[objektai/asmenys/Pijus XII]]
-- [[objektai/grupes/Sovietų Sąjunga]]
-- [[objektai/zodynas/geležinė uždanga]]

@@ -21,6 +21,8 @@ Uždarytoje Vilniaus arkikatedroje atidaryta Paveikslų galerija, panašiai prit
 - t-001
   global_id: t-69579
   teiginys: 'Po LPS steigiamojo suvažiavimo Algirdas Brazauskas grąžino Vilniaus arkikatedrą tikintiesiems.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, turi subjektą ir predikatą, ir remiasi citata.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Algirdas Brazauskas|Algirdas Brazauskas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -28,6 +30,8 @@ Uždarytoje Vilniaus arkikatedroje atidaryta Paveikslų galerija, panašiai prit
 - t-002
   global_id: t-69580
   teiginys: 'Uždarytoje Vilniaus arkikatedroje buvo atidaryta Paveikslų galerija.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Vilniaus arkikatedros panaudojimą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_person: [[objektai/asmenys/Mikalojus Konstantinas Čiurlionis|Mikalojus Konstantinas Čiurlionis]]; mentioned_place: Kaunas; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

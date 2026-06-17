@@ -23,6 +23,7 @@ tags:
 - t-001
   global_id: t-36435
   teiginys: 'Naujosios Marchijos šaltyšius pranešė, kad lenkų kariuomenė buvo išsirikiavusi per kelias mylias.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/apsikarūnavimas|apsikarūnavimas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

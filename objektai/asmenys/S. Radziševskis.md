@@ -20,6 +20,8 @@ Radziševskio.
 - t-001
   global_id: t-39806
   teiginys: 'Plk. S. Radziševskis vadovavo 2-ajam lietuvių pėstininkų pulkui, atakavusiam rusų gynybos centrinius įtvirtinimus.'
+  sudarymo_pagrindimas: 'Citata aiškiai nurodo jo vadovautą pulką ir jo veiksmą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]'
   pagrindžia:
     - c-001
 
@@ -40,9 +42,3 @@ Radziševskio.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/grupes/Lietuviai]]

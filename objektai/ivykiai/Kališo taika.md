@@ -36,6 +36,7 @@ Nenurodyta
 - t-001
   global_id: t-100053
   teiginys: '85 Kališas 217 ; Kališo taika 232, 330 Kalita 371, žr.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas Kalita|Jonas Kalita]]; mentioned_person: [[objektai/asmenys/Lengvenis|Lengvenis]]; mentioned_place: Kairėnai; mentioned_place: Kaltinėnai'
   pagrindžia:
     - c-001
 
@@ -70,9 +71,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Jonas]]
-- [[objektai/asmenys/Jonas Kalita]]
-- [[objektai/asmenys/Lengvenis]]

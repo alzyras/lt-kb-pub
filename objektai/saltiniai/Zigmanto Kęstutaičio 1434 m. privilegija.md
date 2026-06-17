@@ -3,32 +3,42 @@ tipas: saltinis
 pavadinimas: 'Zigmanto Kęstutaičio 1434 m. privilegija'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1413 m.'
+  - '1434 m.'
+date_start: '1413'
+date_end: '1434'
 sukurta: ''
 atnaujinta: ''
 tags:
   - privilegija
   - saltinis
   - valstybė
+amziai:
+  - 'XV'
 ---
 # Zigmanto Kęstutaičio 1434 m. privilegija
 
 ## Santrauka
 
-Zigmanto Kęstutaičio 1434 m. privilegija sulygino civilines pravoslavų ir katalikų teises, bet pravoslavai valstybinių vietų negalėjo gauti. Zigmanto Kęstutaičio 1434 m. privilegija davė naujų teisinių normų Lietuvos valstybės teisėje.
+Naujų teisinių normų davė 1413 m. Jogailos ir Vytauto privilegija, suteikta Horodlėje (žiūr. Zigmanto Kęstutaičio privilegija sulygino civilines pravoslavų teises su katalikų teisėmis, tačiau valstybinių vietų jie vis tiek negalėjo gauti.
 
 ## Teiginiai
+
 <a id="claim-t-67592"></a>
 - t-001
   global_id: t-67592
   teiginys: 'Zigmanto Kęstutaičio 1434 m. privilegija sulygino civilines pravoslavų ir katalikų teises, bet pravoslavai valstybinių vietų negalėjo gauti.'
+  sudarymo_pagrindimas: 'Reikia aiškiai įvardyti privilegiją ir pakeisti įvardį konkrečiu subjektu.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/pravoslavai|pravoslavai]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1413 m.; įvykio data: 1434 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia aiškiai įvardyti privilegiją ir pakeisti įvardį konkrečiu subjektu.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
   santrauka: 'Zigmanto Kęstutaičio 1434 m. privilegija sulygino civilines pravoslavų ir katalikų teises, bet pravoslavai valstybinių vietų negalėjo gauti.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -39,10 +49,8 @@ Zigmanto Kęstutaičio 1434 m. privilegija sulygino civilines pravoslavų ir kat
     leido gauti valstybinių vietų. Zigmanto Kęstutaičio privilegija suly-
     gino civilines pravoslavų teises su katalikų teisėmis, tačiau valstybinių
     vietų jie vis tiek negalėjo gauti.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

@@ -18,7 +18,7 @@ amziai:
 
 ## Santrauka
 
-1945 m. birželio 25 d. į pasalą patekę žuvo „Muškietininkų“ būrio vadas Vladas Gavėnas-Tarzanas, Vincas Boruta-Žvalgas ir Sigitas Melnykas-Portas.
+Prie Daukšių bazavosi „Muškietininkų“ būrys, vadovaujamas Vlado Gavėno-Tarzano. 1945 m. birželio 25 d. į pasalą patekęs žuvo „Muškietininkų“ būrio vadas Vladas Gavėnas-Tarzanas bei laisvės kovotojai Vincas Boruta-Žvalgas ir Sigitas Melnykas-Portas.
 
 ## Teiginiai
 
@@ -26,6 +26,11 @@ amziai:
 - t-001
   global_id: t-41091
   teiginys: '1945 m. birželio 25 d. į pasalą patekę žuvo „Muškietininkų“ būrio vadas Vladas Gavėnas-Tarzanas, Vincas Boruta-Žvalgas ir Sigitas Melnykas-Portas.'
+  sudarymo_pagrindimas: 'Teiginys yra išsamus faktinis sakinys, paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_object: [[objektai/zodynas/Kariauna|Kariauna]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Žuvintas; mentioned_place: Žuvinto ežeras'
+  temporaliniai_duomenys: 'įvykio data: 1945 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra išsamus faktinis sakinys, paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -51,8 +56,3 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/NKVD]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

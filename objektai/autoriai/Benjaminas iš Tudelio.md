@@ -30,6 +30,8 @@ Benjaminas iš Tudelio minimas kaip žydų kilmės keliauninkas, kurio teiginys 
 - t-001
   global_id: t-54999
   teiginys: 'Benjaminas iš Tudelio apibūdintas kaip žydų kilmės keliauninkas.'
+  sudarymo_pagrindimas: 'Teiginys yra trumpas faktinis Benjamino iš Tudelio apibūdinimas, tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_place: Krokuva; mentioned_place: Lenkija'
   pagrindžia:
     - c-001
 
@@ -37,6 +39,11 @@ Benjaminas iš Tudelio minimas kaip žydų kilmės keliauninkas, kurio teiginys 
 - t-002
   global_id: t-55000
   teiginys: 'Benjaminas iš Tudelio tvirtino, kad 1160 m. į Aleksandrijos uostą užsukdavo ir Krokuvos pirklių laivai.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir perteikia citatoje nurodytą Benjamino iš Tudelio tvirtinimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_place: Krokuva; mentioned_place: Lenkija'
+  temporaliniai_duomenys: 'įvykio data: 1160 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir perteikia citatoje nurodytą Benjamino iš Tudelio tvirtinimą.'
   pagrindžia:
     - c-001
 
@@ -44,9 +51,16 @@ Benjaminas iš Tudelio minimas kaip žydų kilmės keliauninkas, kurio teiginys 
 - t-003
   global_id: t-81885
   teiginys: 'Benjaminas iš Tudelio teigė, kad 1160 m. į Aleksandrijos uostą užsukdavo anglų ir Krokuvos pirklių laivai.'
+  sudarymo_pagrindimas: 'Teiginys tiksliai nurodo anglų ir Krokuvos pirklių laivus, minimus citatoje.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Anglai|Anglai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_place: Krokuva; mentioned_place: Lenkija'
+  temporaliniai_duomenys: 'įvykio data: 1160 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys tiksliai nurodo anglų ir Krokuvos pirklių laivus, minimus citatoje.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/daiktai/Laivai, valtys, sieliai ir plaustai.md#claim-t-86993|Laivai, valtys, sieliai ir plaustai]]: Benjaminas iš Tudelio tvirtino, kad 1160 metais į Aleksandrijos uostą užsukdavo anglų ir Krokuvos pirklių laivai.
+- susijęs iš [[objektai/daiktai/Laivai.md#claim-t-179482|Laivai]]: Benjaminas iš Tudelio tvirtino, kad 1160 metais į Aleksandrijos uostą užsukdavo anglų ir Krokuvos pirklių laivai.
+- susijęs iš Krokuva: Benjaminas iš Tudelio teigė, kad 1160 m. į Aleksandrijos uostą užsukdavo ir Krokuvos pirklių laivai.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -74,13 +88,3 @@ Benjaminas iš Tudelio minimas kaip žydų kilmės keliauninkas, kurio teiginys 
     - t-003
     - t-001
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Laivai]]
-- [[objektai/daiktai/Mūro sienos ir miesto sienos]]
-- [[objektai/grupes/Teutonai]]
-- [[objektai/grupes/Žydai]]
-- [[objektai/grupes/Anglai]]
-- [[objektai/daiktai/Laivai, valtys, sieliai ir plaustai]]
-- [[objektai/daiktai/Mūro sienos]]

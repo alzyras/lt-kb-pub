@@ -42,6 +42,8 @@ Nenurodyta
 - t-001
   global_id: t-39315
   teiginys: 'Ietys kartu su kalavijais buvo pagrindiniai kariuomenės ginklai.'
+  sudarymo_pagrindimas: 'Pašalintas neaiškus įvardis ir palikta citata paremta mintis.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Kalavijai|Kalavijai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -49,9 +51,26 @@ Nenurodyta
 - t-002
   global_id: t-183684
   teiginys: 'Ietys ir kalavijai buvo pagrindiniai aptariamų Lietuvos kariuomenės dalinių ginklai.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradiniame teiginyje neaišku, kas yra „tokia kariuomenė“, todėl reikia aiškesnio sakinio.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Kalavijai|Kalavijai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/daiktai/Geležiniai ginklai ir įrankiai.md#claim-t-47811|Geležiniai ginklai ir įrankiai]]: Iš geležies buvo gaminami ginklai, tokie kaip ietys ir kirviai, bei įrankiai, tokie kaip dalgiai, pjautuvai, peiliai ir ylos.
+- susijęs iš [[objektai/daiktai/Kalavijai.md#claim-t-183686|Kalavijai]]: Lietuvos kariuomenės dalinių pagrindiniai ginklai buvo ietys ir kalavijai.
+- susijęs iš [[objektai/daiktai/Kalavijai.md#claim-t-39256|Kalavijai]]: Kalavijai kartu su ietimis buvo pagrindiniai kariuomenės ginklai.
+- susijęs iš [[objektai/daiktai/Karinė ginkluotė.md#claim-t-78665|Karinė ginkluotė]]: Lietuvių karinę ginkluotę sudarė skydai, šalmai, ietys ir kardai.
+- susijęs iš [[objektai/daiktai/Lietuvos akmens amžiaus dirbiniai.md#claim-t-64960|Lietuvos akmens amžiaus dirbiniai]]: Lietuvos akmens amžiaus dirbiniams priskirti kauliniai harpūnai ir durklai, titnaginiai įrankiai bei iečių galai, akmens kirvukai, gintariniai amuletai ir papuošalai, puodas ir grūdų trynimo akmuo.
+- susijęs iš [[objektai/grupes/Lietuvos kariuomenė.md#claim-t-182742|Lietuvos kariuomenė]]: Visuotinio šaukimo metu didesniąją Lietuvos kariuomenės dalį sudarydavo iš pavietų į savo vėliavas susirinkę bajorai.
+- susijęs iš [[objektai/ivykiai/Ragainės karių klasta užimant Junigedą.md#claim-t-185826|Ragainės karių klasta užimant Junigedą]]: Junigedos puolime dalis karių buvo paslėpta abipus kelio, o Ragainės būriui įsakyta traukti prie pilies vartų.
+- susijęs iš [[objektai/ivykiai/Smolensko prastųjų žmonių sukilimas.md#claim-t-186630|Smolensko prastųjų žmonių sukilimas (sukilimas)]]: Lietuvos metraštis pasakoja, kad Smolensko prastieji žmonės po Velykų sumanė išvaryti Andrių Sakavičių ir sulaužyti priesaiką.
+- susijęs iš [[objektai/ivykiai/Smolensko prastųjų žmonių sukilimas.md#claim-t-186631|Smolensko prastųjų žmonių sukilimas (sukilimas)]]: Lietuvos metraštis teigia, kad Smolensko sukilimo metu Andriaus šalininkai susirėmė su prastaisiais žmonėmis prie šv. Boriso ir Glebo cerkvės.
+- susijęs iš [[objektai/ivykiai/Smolensko prastųjų žmonių sukilimas.md#claim-t-186632|Smolensko prastųjų žmonių sukilimas (sukilimas)]]: Lietuvos metraščio pasakojime po Velykų Smolensko prastieji žmonės sumanė išvaryti Andrių, apsiginklavo ietimis, dalgiais ir kirviais bei ėmė skambinti varpu.
+- susijęs iš [[objektai/zodynas/petihorai.md#claim-t-49287|petihorai]]: Petihorai Lietuvos Didžiosios Kunigaikštijos kariuomenėje buvo kavalerijos rūšis, anksčiau naudojusi dzidas.
+- susijęs iš [[objektai/zodynas/petihorai.md#claim-t-49289|petihorai]]: Petihorai LDK kariuomenėje buvo kavalerijos rūšis, atsisakiusi dzidų ir ginkluote prilyginta šarvuočiams.
+- susijęs iš [[objektai/zodynas/žalvario amžius.md#claim-t-03235|žalvario amžius]]: Žalvario amžius Lietuvoje prasidėjo apie antrojo tūkstantmečio pr. Kr. vidurį, kai pasirodė pirmieji žalvario dirbiniai.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -90,18 +109,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Artilerija]]
-- [[objektai/daiktai/Ginklai]]
-- [[objektai/daiktai/Kalavijai]]
-- [[objektai/daiktai/Lietuvos akmens amžiaus dirbiniai]]
-- [[objektai/grupes/Lietuvos kariuomenė]]
-- [[objektai/ivykiai/Ragainės karių klasta užimant Junigedą]]
-- [[objektai/ivykiai/Smolensko prastųjų žmonių sukilimas|Smolensko prastųjų žmonių sukilimas (sukilimas)]]
-- [[objektai/zodynas/petihorai]]
-- [[objektai/zodynas/žalvario amžius]]
-- [[objektai/daiktai/Geležiniai ginklai ir įrankiai]]
-- [[objektai/daiktai/Karinė ginkluotė]]
-- [[objektai/daiktai/Trumpos ietys]]

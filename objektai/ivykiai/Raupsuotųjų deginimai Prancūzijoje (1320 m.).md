@@ -18,7 +18,7 @@ amziai:
 
 ## Santrauka
 
-Apie raupsuotųjų deginimų Prancūzijoje 1320 viešpaties metais Prancūzijoje buvo deginami raupsuotieji. Apie raupsuotųjų deginimų Prancūzijoje 1320 viešpaties metais Prancūzijoje buvo deginami raupsuotieji.
+Dusburgietis teigia, kad apie raupsuotųjų deginimų Prancūzijoje 1320 viešpaties metais Prancūzijoje buvo deginami raupsuotieji.
 
 ## Laikotarpis ir datos
 
@@ -42,6 +42,9 @@ Nenurodyta
 - t-001
   global_id: t-62453
   teiginys: 'Apie raupsuotųjų deginimų Prancūzijoje 1320 viešpaties metais Prancūzijoje buvo deginami raupsuotieji.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
+  susije_objektai: 'mentioned_place: Prancūzija'
   pagrindžia:
     - c-001
 

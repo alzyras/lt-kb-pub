@@ -29,6 +29,8 @@ Lygiai taip pat įžvalgiai karalius užkirto kelią jau pradėjusiems Vilniuje 
 - t-001
   global_id: t-86742
   teiginys: 'Steponas Batoras Vilniuje saugojo graikų apeigų išpažinėjus nuo teismų šventomis dienomis pagal senąjį kalendorių.'
+  sudarymo_pagrindimas: 'Pradinis teiginys per bendras ir nepakankamai susietas su note objektu.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -36,6 +38,11 @@ Lygiai taip pat įžvalgiai karalius užkirto kelią jau pradėjusiems Vilniuje 
 - t-002
   global_id: t-86743
   teiginys: '1586 m. graikų tikėjimo Vilniaus pirkliai apskundė karaliui Vilniaus vaitą Stanislovą Sabiną.'
+  sudarymo_pagrindimas: 'Teiginys yra konkretus ir paremtas citatoje aprašytu 1586 m. skundu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus pirkliai|Vilniaus pirkliai]]; mentioned_object: [[objektai/zodynas/vaitas|vaitas]]; mentioned_person: [[objektai/asmenys/Eustachijus (raštininkas)|Eustachijus (raštininkas)]]; mentioned_person: [[objektai/asmenys/Grigalius (vicekancleris)|Grigalius (vicekancleris)]]; mentioned_person: [[objektai/asmenys/Sabinas|Sabinas]]; mentioned_place: Lenkija; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1586 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus ir paremtas citatoje aprašytu 1586 m. skundu.'
   pagrindžia:
     - c-002
 
@@ -110,18 +117,3 @@ Lygiai taip pat įžvalgiai karalius užkirto kelią jau pradėjusiems Vilniuje 
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/ritualas]]
-
-### Susiję objektai
-- [[objektai/asmenys/Eustachijus (raštininkas)]]
-- [[objektai/asmenys/Grigalius (vicekancleris)]]
-- [[objektai/asmenys/Sabinas]]
-- [[objektai/grupes/Vilniaus pirkliai]]
-- [[objektai/zodynas/vaitas]]
-- [[objektai/asmenys/Steponas]]
-- [[objektai/asmenys/Steponas Batoras]]
-- [[objektai/asmenys/Stanislovas Sabina]]
-- [[objektai/zodynas/miesto sargybos viršininkas]]

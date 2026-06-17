@@ -19,7 +19,7 @@ amziai:
 
 ## Santrauka
 
-Lietuva siekė atgauti Bartą, Nadruvą, Sembą, Kuršą, Žiemgalą, Latgalą ir Baltijos pajūrį tarp Priegliaus ir Dauguvos. 1347 m. vasarį „abu lietuvių karaliai“ Prūsijoje puolė Rastenburgą, niokojo Bartos žemę iki Girdavų pilies, apgulė Lunenburgą ir sunaikino Lunenburgo papilį. Po Varmės nuniokojimo lietuviai nuvedė grobiu apsikrovusius karius į Bartos žemę ir sustojo pailsėti atvirame lauke.
+Taigi, Lietuva siekė atgauti Bartą, Nadruvą, Sembą, Kuršą, Žiemgalą, Latgalą, visą Baltijos pajūrį tarp Priegliaus ir Dauguvos.
 
 ## Teiginiai
 
@@ -27,6 +27,8 @@ Lietuva siekė atgauti Bartą, Nadruvą, Sembą, Kuršą, Žiemgalą, Latgalą i
 - t-001
   global_id: t-79297
   teiginys: 'Lietuva siekė atgauti Bartą, Nadruvą, Sembą, Kuršą, Žiemgalą, Latgalą ir Baltijos pajūrį tarp Priegliaus ir Dauguvos.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Bartos žemę ir atitinka citatą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Baltija; mentioned_place: Dauguva; mentioned_place: Europa; mentioned_place: Latgala; mentioned_place: Lietuva; mentioned_place: Prieglius; mentioned_place: Rusija'
   pagrindžia:
     - c-001
 
@@ -34,6 +36,11 @@ Lietuva siekė atgauti Bartą, Nadruvą, Sembą, Kuršą, Žiemgalą, Latgalą i
 - t-002
   global_id: t-79298
   teiginys: '1347 m. vasarį „abu lietuvių karaliai“ Prūsijoje puolė Rastenburgą, niokojo Bartos žemę iki Girdavų pilies, apgulė Lunenburgą ir sunaikino Lunenburgo papilį.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nurodo veiksmą, laiką, vietą ir yra paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Barta; mentioned_place: Girdavai; mentioned_place: Lietuva; mentioned_place: Lunenburgas; mentioned_place: Prūsija'
+  temporaliniai_duomenys: 'įvykio data: 1347 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo veiksmą, laiką, vietą ir yra paremtas citata.'
   pagrindžia:
     - c-002
 
@@ -41,6 +48,11 @@ Lietuva siekė atgauti Bartą, Nadruvą, Sembą, Kuršą, Žiemgalą, Latgalą i
 - t-003
   global_id: t-184929
   teiginys: 'Po Varmės nuniokojimo lietuviai nuvedė grobiu apsikrovusius karius į Bartos žemę ir sustojo pailsėti atvirame lauke.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir pagrįstas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_person: [[objektai/asmenys/Vytenis|Vytenis]]; mentioned_place: Barta; mentioned_place: Heilsbergas; mentioned_place: Varmė'
   pagrindžia:
     - c-003
 

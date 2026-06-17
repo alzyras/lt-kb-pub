@@ -23,6 +23,8 @@ Vi­ sas Prūsijos kraštas apie Vislos ir Dresvenco upes pateko ka­ ro sūkuri
 - t-001
   global_id: t-95915
   teiginys: 'Prūsijos kraštas apie Vislos ir Dresvenco upes pateko į karo sūkurį.'
+  sudarymo_pagrindimas: 'Sakinys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Kulmija; mentioned_place: Kulmijos šalis; mentioned_place: Prūsija; mentioned_place: Visla'
   pagrindžia:
     - c-001
 

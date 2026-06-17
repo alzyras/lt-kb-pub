@@ -16,6 +16,7 @@ tags:
   - miestas
   - mūšis
   - ordinas
+  - vieta
 amziai:
   - 'XIV'
   - 'XVI'
@@ -32,6 +33,11 @@ Atkaklus mūšis užvirė prie pat miesto, ant tilto, kur Vingrių versmės, nuo
 - t-001
   global_id: t-86032
   teiginys: 'Prie Vilniaus, ant tilto, kur Vingrių versmės plovė miesto aptvarus, užvirė atkaklus mūšis.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/Tavoras|Tavoras]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/nuorašas|nuorašas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_place: Viena; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'mūšio data: 1383 m.; mūšio data: 1388 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
   pagrindžia:
     - c-002
 
@@ -39,9 +45,12 @@ Atkaklus mūšis užvirė prie pat miesto, ant tilto, kur Vingrių versmės, nuo
 - t-002
   global_id: t-86033
   teiginys: 'Vingrių šaltinių vandenys kadaise priklausė Vilniaus miestui, bet vėliau tapo Švč. Trejybės klebonijos nuosavybe.'
+  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytą nuosavybės kaitą.'
+  susije_objektai: 'owner: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; owner: Vilnius; mentioned_object: [[objektai/zodynas/klebonija|klebonija]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_place: Vilnius'
+  semantiniai_rysiai: 'Vingrių šaltiniai priklausė [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; Vingrių šaltiniai priklausė Vilnius'
   pagrindžia:
     - c-001
-
+- susijęs iš Vilnius: Valdant Žygimantui, Vingrių šaltiniai tapo svarbiu Vilniaus saugumo ir patogumo klausimu.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -104,3 +113,7 @@ Atkaklus mūšis užvirė prie pat miesto, ant tilto, kur Vingrių versmės, nuo
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+- Vingrių šaltiniai priklause [[objektai/asmenys/Aleksandras Jogailaitis]]
+- Vingrių šaltiniai priklause [[objektai/vietos/Vilnius]]

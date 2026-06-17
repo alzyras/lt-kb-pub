@@ -6,6 +6,7 @@ saltiniai:
 datos:
   - '1553 m.'
   - '1563 m.'
+  - '1569 m.'
   - '1575 m.'
 date_start: '1553'
 date_end: '1575'
@@ -23,7 +24,7 @@ amziai:
 
 ## Santrauka
 
-Po Mikalojaus Radvilos Juodojo 1553 m. Brastoje įkurtos spaustuvės po dešimtmečio pasirodė „Brastos Biblija“. Radvila Juodasis 1563 m. teigė, kad Bibliją reikia versti į lenkų kalbą, nes ji būtų suprantama liaudžiai.
+Lietuvoje (Brastoje) dar vieną spaustuvę 1553 m. įkūrė Mikalojus Radvila Juodasis. Radvila Juodasis 1563 m. teigė, kad Bibliją reikia versti į lenkų (o ne į kokią kitą) kalbą dėl to, kad „būtų liaudžiai suprantama“.
 
 ## Teiginiai
 
@@ -31,6 +32,11 @@ Po Mikalojaus Radvilos Juodojo 1553 m. Brastoje įkurtos spaustuvės po dešimtm
 - t-001
   global_id: t-23389
   teiginys: 'Po Mikalojaus Radvilos Juodojo 1553 m. Brastoje įkurtos spaustuvės po dešimtmečio pasirodė „Brastos Biblija“.'
+  sudarymo_pagrindimas: 'Pradinis teiginys labiau apie spaustuvę, todėl perrašytas aiškiau susiejant su „Brastos Biblija“.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_object: [[objektai/zodynas/reformacija|reformacija]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Brasta; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Nesvyžius; mentioned_place: Viena; mentioned_place: Vilnius; mentioned_place: Zabluduvas'
+  temporaliniai_duomenys: 'įvykio data: 1553 m.; įvykio data: 1569 m.; įvykio data: 1575 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys labiau apie spaustuvę, todėl perrašytas aiškiau susiejant su „Brastos Biblija“.'
   pagrindžia:
     - c-001
 
@@ -38,6 +44,11 @@ Po Mikalojaus Radvilos Juodojo 1553 m. Brastoje įkurtos spaustuvės po dešimtm
 - t-002
   global_id: t-23390
   teiginys: 'Radvila Juodasis 1563 m. teigė, kad Bibliją reikia versti į lenkų kalbą, nes ji būtų suprantama liaudžiai.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir citata tiesiogiai patvirtina Radvilos Juodojo poziciją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/lenas|lenas]]; mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_object: [[objektai/zodynas/reformacija|reformacija]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]'
+  temporaliniai_duomenys: 'įvykio data: 1563 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir citata tiesiogiai patvirtina Radvilos Juodojo poziciją.'
   pagrindžia:
     - c-002
 

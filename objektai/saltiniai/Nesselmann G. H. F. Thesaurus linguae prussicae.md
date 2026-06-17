@@ -28,6 +28,11 @@ Dusburgietis teigia, kad nesselmann G.
 - t-001
   global_id: t-61198
   teiginys: 'G. H. F. Nesselmanno veikalas „Thesaurus linguae prussicae“ išleistas Berlyne 1873 m.'
+  sudarymo_pagrindimas: 'Citata patvirtina autorių, pavadinimą, vietą ir metus.'
+  susije_objektai: 'mentioned_place: Berlynas'
+  temporaliniai_duomenys: 'įvykio data: 1873 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata patvirtina autorių, pavadinimą, vietą ir metus.'
   pagrindžia:
     - c-001
 

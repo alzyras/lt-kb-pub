@@ -28,6 +28,8 @@ B., Ilovajskij, D.
 - t-001
   global_id: t-29494
   teiginys: 'D. J. Ilovajskij kartu su V. B. Antonovičiumi paskelbė veikalą apie Lietuvos Didžiąją Kunigaikštystę.'
+  sudarymo_pagrindimas: 'Citata palaiko bibliografinį faktą apie Ilovajskio veikalą.'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

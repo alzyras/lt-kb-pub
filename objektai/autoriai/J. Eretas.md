@@ -29,6 +29,7 @@ Eretas, Kazys Pakštas. Eretas, Valančiaus šviesa už marių.
 - t-001
   global_id: t-30667
   teiginys: 'J. Eretas parengė spaudai veikalą „Valančiaus šviesa už marių“ apie Pranciškaus Juro ir jo bendrininkų gyvenimą bei veiklą.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/Motiejus Valančius|Motiejus Valančius]]'
   pagrindžia:
     - c-002
 
@@ -36,6 +37,9 @@ Eretas, Kazys Pakštas. Eretas, Valančiaus šviesa už marių.
 - t-002
   global_id: t-30668
   teiginys: 'J. Eretas parašė veikalą „Kazys Pakštas. Tautinio šauklio odisėja“, išleistą Romoje 1970 m.'
+  susije_objektai: 'mentioned_place: Roma'
+  temporaliniai_duomenys: 'įvykio data: 1970 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

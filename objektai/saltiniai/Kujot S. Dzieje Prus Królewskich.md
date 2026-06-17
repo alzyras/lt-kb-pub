@@ -29,6 +29,11 @@ Dusburgietis teigia, kad kujot S.
 - t-001
   global_id: t-61108
   teiginys: 'S. Kujoto „Dzieje Prus Królewskich“ dalis iki 1309 m. paskelbta Torunės mokslo draugijos metraščiuose 1913–1914 m.'
+  sudarymo_pagrindimas: 'Citata pagrindžia leidinio dalį, laikotarpį ir publikavimo duomenis.'
+  susije_objektai: 'mentioned_place: Torunė'
+  temporaliniai_duomenys: 'įvykio data: iki 1309 m.; įvykio data: 1309 m.; įvykio data: 1913-1914; įvykio data: 1914 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia leidinio dalį, laikotarpį ir publikavimo duomenis.'
   pagrindžia:
     - c-001
 

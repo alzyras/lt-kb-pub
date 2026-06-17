@@ -32,6 +32,8 @@ Dusburgietis teigia, kad 1-os pusės dokumentuose vadinama Rommowe, Romaynis; te
 - t-001
   global_id: t-64867
   teiginys: 'J. Voigtas cituojamas dėl Romuvos paieškų ir Romehnen vietovės Semboje siejimo su šventa kulto vieta.'
+  sudarymo_pagrindimas: 'Citata leidžia susieti autorių su konkrečiu aiškinimu, bet pradinis teiginys yra fragmentiškas.'
+  susije_objektai: 'mentioned_place: Romehnen; mentioned_place: Romuva; mentioned_place: Semba'
   pagrindžia:
     - c-001
 

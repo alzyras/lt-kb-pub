@@ -20,6 +20,8 @@ Ali bios „B išiš „Al Dieyėniškė: D Lenkų raiteliai vakare užima Kapč
 - t-001
   global_id: t-80605
   teiginys: 'Lenkų raiteliai vakare užėmė Kapčiamiestį.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Kapčiamiestį ir atitinka citatos faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]'
   pagrindžia:
     - c-001
 

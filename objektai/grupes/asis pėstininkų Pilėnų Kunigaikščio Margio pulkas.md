@@ -14,7 +14,7 @@ tags:
 
 ## Santrauka
 
-Perkeltas į lenkų frontą 6-asis pėstininkų pulkas Vidugirių kaime susitiko su nuo vasaros vidurio kovojusiu savo I batalionu. Ankstyvą popietę batalionas Aukštadvaryje išsirikiavo prieš 6-ojo pėstininkų Pilėnų Kunigaikščio Margio pulko štabą.
+1 batalionas irgi buvo nuvestas pailsėti pievoj.“ | | 6-ojo pėstininkų pulko 1 bataliono viršila Antanas Šukys prisimena, kaip pervedus į lenkų frontą visą 6-ąjį pulką jo kariai ir vadas susitiko jau nuo vasaros vidurio kovose su lenkais dalyvavusį to paties. Batalionas, [...], ankstyvą popietį pasiekė Aukštadvario miestelį ir išsirikiavo prieš 6 pėstininkų Pilėnų Kunigaikščio Margio pulko štabą.
 
 ## Teiginiai
 
@@ -22,6 +22,8 @@ Perkeltas į lenkų frontą 6-asis pėstininkų pulkas Vidugirių kaime susitiko
 - t-001
   global_id: t-80639
   teiginys: 'Perkeltas į lenkų frontą 6-asis pėstininkų pulkas Vidugirių kaime susitiko su nuo vasaros vidurio kovojusiu savo I batalionu.'
+  sudarymo_pagrindimas: 'Pirminiame teiginyje yra neaiški įvardžio nuoroda, todėl sakinys perrašytas aiškiau.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_object: [[objektai/zodynas/viršila|viršila]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_person: [[objektai/asmenys/Antanas Šukys|Antanas Šukys]]; mentioned_place: Kaimas; mentioned_place: Vidugiriai'
   pagrindžia:
     - c-001
 
@@ -29,6 +31,8 @@ Perkeltas į lenkų frontą 6-asis pėstininkų pulkas Vidugirių kaime susitiko
 - t-002
   global_id: t-80640
   teiginys: 'Ankstyvą popietę batalionas Aukštadvaryje išsirikiavo prieš 6-ojo pėstininkų Pilėnų Kunigaikščio Margio pulko štabą.'
+  sudarymo_pagrindimas: 'Teiginys sklandžiau suformuluotas ir pašalintas nereikalingas judėjimo fragmentas.'
+  susije_objektai: 'mentioned_place: Aukštadvaris; mentioned_place: Pilėnai'
   pagrindžia:
     - c-002
 
@@ -63,12 +67,3 @@ Perkeltas į lenkų frontą 6-asis pėstininkų pulkas Vidugirių kaime susitiko
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Antanas (vaistininkas)]]
-- [[objektai/asmenys/Antanas Šukys]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/zodynas/Adynos|adynos]]
-- [[objektai/zodynas/viršila]]
-- [[objektai/grupes/6-asis pėstininkų Pilėnų Kunigaikščio Margio pulkas]]

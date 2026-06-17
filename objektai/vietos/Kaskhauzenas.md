@@ -22,6 +22,8 @@ Li­ vonijos pilys: Marienhausenas, Lutzenas, Švarcenburgas, Rosytė, Dinaburga
 - t-001
   global_id: t-86298
   teiginys: 'Kaskhauzenas buvo įvardytas tarp Livonijos pilių.'
+  sudarymo_pagrindimas: 'Citata pateikia vietovę Livonijos pilių sąraše, todėl galima glausta klasifikacija.'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Podolė; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

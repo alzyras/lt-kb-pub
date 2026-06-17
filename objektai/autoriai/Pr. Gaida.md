@@ -20,6 +20,7 @@ Gaida, Arkiv.
 - t-001
   global_id: t-29394
   teiginys: 'Pr. Gaida rengė spaudai Arkivyskupo T. Matulionio gyvenimą.'
+  sudarymo_pagrindimas: 'Citata leidžia teigti, kad šis darbas buvo rengiamas spaudai.'
   pagrindžia:
     - c-001
 

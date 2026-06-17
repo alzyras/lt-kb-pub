@@ -28,6 +28,9 @@ Kochanowski, J.
 - t-001
   global_id: t-54129
   teiginys: 'J. Kochanowskis parašė veikalą „Witold, w. książę litewski“, išleistą Lvove 1900 m.'
+  susije_objektai: 'mentioned_place: Lvovas; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1900 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -35,6 +38,9 @@ Kochanowski, J.
 - t-002
   global_id: t-54130
   teiginys: 'J. Kochanowski 1900 m. Lvove paskelbė darbą „Witold, w. książę litewski“.'
+  susije_objektai: 'mentioned_place: Lvovas; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1900 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

@@ -32,6 +32,8 @@ Dusburgietis teigia, kad pašuta parodė kronikos autoriaus siekimą cementuoti 
 - t-001
   global_id: t-60523
   teiginys: 'V. Pašuta siejo Dusburgiečio rutėnus su Smolensko kunigaikščių rusais.'
+  sudarymo_pagrindimas: 'Citata palaiko konkrečią V. Pašutos poziciją, o pradinis teiginys per ilgas ir triukšmingas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Salos; mentioned_place: Smolenskas'
   pagrindžia:
     - c-001
 
@@ -39,9 +41,17 @@ Dusburgietis teigia, kad pašuta parodė kronikos autoriaus siekimą cementuoti 
 - t-002
   global_id: t-60525
   teiginys: 'V. Pašuta rašė apie prūsų tautos kovą, Lietuvos valstybės susidarymą ir revanšistus.'
+  sudarymo_pagrindimas: 'Citata pateikia V. Pašutos darbų pavadinimus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_place: Lietuva; mentioned_place: Prūsai'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/autoriai/I. Štai.md#claim-t-88063|I. Štai]]: I. Štai kartu su V. Pašuta parengė leidinį „Gedimino laiškai“, kuriuo remiamasi cituojant laiško vertimą.
+- susijęs iš [[objektai/autoriai/M. Ročka.md#claim-t-88030|M. Ročka]]: M. Ročka vertė 1966 m. leidyklos „Mintis“ išleistus „Gedimino laiškus“.
+- susijęs iš [[objektai/daiktai/Gedimino antspaudas.md#claim-t-81847|Gedimino antspaudas]]: Kryžiuočiai sudegino Gedimino antspaudą, siekdami užgniaužti jo pradėtą darbą ir apdumti žmonėms akis.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178869|Kryžiuočių ordinas]]: Gedimino laiške kryžiuočiai kaltinami sudeginę jo antspaudą, kad sutrukdytų jo pradėtam krikščionybės reikalui.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178903|Kryžiuočių ordinas]]: Gedimino laiške kryžiuočiai kaltinami sudeginę jo antspaudą, kad sutrukdytų jo pradėtam krikščionybės reikalui.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178958|Kryžiuočių ordinas]]: Gedimino laiške kryžiuočiai kaltinami sudeginę jo antspaudą, kad sutrukdytų jo pradėtam krikščionybės reikalui.
+- susijęs iš Gedimino laiškai: „Gedimino laiškus“ parengė V. Pašuta ir J. Stal, o leidinys išleistas Vilniuje 1966 m.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -75,11 +85,3 @@ Dusburgietis teigia, kad pašuta parodė kronikos autoriaus siekimą cementuoti 
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/daiktai/Gedimino antspaudas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]

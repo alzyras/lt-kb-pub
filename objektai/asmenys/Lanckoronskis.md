@@ -18,6 +18,11 @@ Lenkų kariuomenės lauko etmonui Lanckoronskiui buvo įsakyta atremti virš val
 - t-001
   global_id: t-186136
   teiginys: 'Lenkų kariuomenės lauko etmonui Lanckoronskiui buvo įsakyta atremti virš valstybės pakibusią grėsmę.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nusako Lanckoronskiui duotą įsakymą ir yra pagrįstas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/skitai|skitai]]'
   pagrindžia:
     - c-001
 
@@ -25,6 +30,11 @@ Lenkų kariuomenės lauko etmonui Lanckoronskiui buvo įsakyta atremti virš val
 - t-002
   global_id: t-186137
   teiginys: 'Lanckoronskis buvo paliktas vyriausiuoju karvedžiu prieš laukiamą mūšį.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pirminis teiginys buvo per trumpas, bet citata palaiko aiškų faktinį sakinį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/rezervas|rezervas]]; mentioned_person: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]'
   pagrindžia:
     - c-002
 
@@ -71,9 +81,3 @@ Lenkų kariuomenės lauko etmonui Lanckoronskiui buvo įsakyta atremti virš val
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/zodynas/rezervas]]
-- [[objektai/zodynas/skitai]]

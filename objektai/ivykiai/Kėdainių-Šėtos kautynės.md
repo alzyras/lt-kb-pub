@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Po Kėdainių-Šėtos kautynių Naujosiose Kėdainių kapinėse buvo palaidota 40 žuvusių lietuvių karių. Kėdainių gynyba buvo pirmasis Kėdainių įgulos savanorių kovos krikštas. Kėdainių gynyboje J. Mikoliūnas ir K. Dragunevičius apie 80 savanorių išskleidė abipus vieškelio Kėdainiai-Šėta ir sustabdė bolševikų puolimą.
+Lietuvos kariai prie gautų vokiečių kariuomenės sagčių (kairėje) pritvirtindavo Lietuvos simbolį - Vytj (dešinėje), taip uždengdami vokišką imperijos karūną su šūkiu „GOT MIT UNS“ („DIEVAS SU MUMIS“) Kėdainių gynyba Karininkai J. Toks buvo pirmasis Kėdainių įgulos savanorių kovos krikštas. Naktį iš vasario 7 į 8 d. Kėdainių gynėjų vadovybė gavo žvalgų pranešimą apie tai, kad bolševikų pajėgos palieka pozicijas ir traukiasi nuo Kėdainių.
 
 ## Laikotarpis ir datos
 
@@ -45,6 +45,11 @@ Nenurodyta
 - t-001
   global_id: t-41295
   teiginys: 'Po Kėdainių-Šėtos kautynių Naujosiose Kėdainių kapinėse buvo palaidota 40 žuvusių lietuvių karių.'
+  sudarymo_pagrindimas: 'Pridėta aiški sąsaja su note objektu.'
+  susije_objektai: 'location: Kėdainiai; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kėdainiai'
+  temporaliniai_duomenys: 'mirties data: 1919 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „mirties data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pridėta aiški sąsaja su note objektu.'
   pagrindžia:
     - c-004
 
@@ -52,6 +57,7 @@ Nenurodyta
 - t-002
   global_id: t-41296
   teiginys: 'Kėdainių gynyba buvo pirmasis Kėdainių įgulos savanorių kovos krikštas.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)|Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]; mentioned_place: Kaimas; mentioned_place: Kėdainiai; mentioned_place: Šilginėliai'
   pagrindžia:
     - c-005
 
@@ -59,6 +65,7 @@ Nenurodyta
 - t-003
   global_id: t-41297
   teiginys: 'Kėdainių gynyboje J. Mikoliūnas ir K. Dragunevičius apie 80 savanorių išskleidė abipus vieškelio Kėdainiai-Šėta ir sustabdė bolševikų puolimą.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)|Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]; mentioned_person: [[objektai/asmenys/J. Mikoliūnas|J. Mikoliūnas]]; mentioned_person: [[objektai/asmenys/K. Dragunevičius|K. Dragunevičius]]; mentioned_place: Kėdainiai; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -66,6 +73,11 @@ Nenurodyta
 - t-004
   global_id: t-41298
   teiginys: 'Kėdainių-Šėtos kautynėse prie Taučiūnų kaimo Lukšio padrąsinti lietuviai išsiskleidė į grandį ir atidengė atsakomąją ugnį.'
+  sudarymo_pagrindimas: 'Teiginys susietas su note objektu ir sutvarkytas kaip pilnas faktas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kaimas; mentioned_place: Taučiūnai'
+  temporaliniai_duomenys: 'įvykio data: 1919 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys susietas su note objektu ir sutvarkytas kaip pilnas faktas.'
   pagrindžia:
     - c-003
 
@@ -73,9 +85,11 @@ Nenurodyta
 - t-005
   global_id: t-41299
   teiginys: 'Prieš Kėdainių-Šėtos kautynes Kėdainių gynėjų vadovybė naktį iš vasario 7 į 8 d. sužinojo, kad bolševikų pajėgos traukiasi Šėtos link.'
+  sudarymo_pagrindimas: 'Perrašyta, kad teiginys aiškiau sietų faktą su kautynėmis ir pašalintų perteklinę formuluotę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Kėdainiai'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -191,20 +205,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/ritualas]]
-
-### Susiję objektai
-- [[objektai/daiktai/Artilerija]]
-- [[objektai/asmenys/J. Mikoliūnas]]
-- [[objektai/daiktai/Karūna]]
-- [[objektai/ivykiai/Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Rytas]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/įgula]]
-- [[objektai/daiktai/Šautuvai]]
-- [[objektai/autoriai/Karolis Zikaras]]
-- [[objektai/asmenys/K. Dragunevičius]]

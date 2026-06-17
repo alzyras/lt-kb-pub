@@ -5,9 +5,11 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1632 m.'
+  - '1633 m.'
   - '1634 m.'
+  - '1654 m.'
 date_start: '1632'
-date_end: '1634'
+date_end: '1654'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -19,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-1634 m. sausio 24 d. Vladislovo Vazos vadovaujama lietuvių ir lenkų kariuomenė privertė rusų pajėgas kapituliuoti prie Smolensko. Smolenską gynė apie 2 tūkst. Lietuvos karių, miestas buvo smarkiai apšaudytas ir šturmuojamas, bet nesėkmingai. Po nesėkmingo Rusijos mėginimo užimti Smolenską prie Polianovkos upės buvo sudaryta „amžinosios taikos“ sutartis.
+1632 m. rusų kariuomenė įsiveržė į Lietuvos teritoriją, apsiautė Smolenską, o miesto gynyba baigėsi 1634 m. kapituliacija ir taika prie Polianovkos. 1632 m. rusų kariuomenė įsiveržė į Lietuvos teritoriją ir lapkričio 14 d. apsiautė Smolenską Smolenską gynė apie 2 tūkst. Lietuvos karių, miestas buvo smarkiai apšaudytas ir šturmuojamas, bet nesėkmingai.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -39,6 +41,11 @@ Nenurodyta
 - t-001
   global_id: t-09880
   teiginys: '1634 m. sausio 24 d. Vladislovo Vazos vadovaujama lietuvių ir lenkų kariuomenė privertė rusų pajėgas kapituliuoti prie Smolensko.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nusako veikėją, veiksmą, datą ir rezultatą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Krymo totoriai|Krymo totoriai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_object: [[objektai/zodynas/hetmonas|hetmonas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Kristupas Radvila|Kristupas Radvila]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_person: [[objektai/asmenys/Vladislovas Vaza|Vladislovas Vaza]]; mentioned_place: Krymas; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Smolenskas'
+  temporaliniai_duomenys: 'įvykio data: 1633 m.; įvykio data: 1634 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako veikėją, veiksmą, datą ir rezultatą.'
   pagrindžia:
     - c-003
 
@@ -46,6 +53,7 @@ Nenurodyta
 - t-002
   global_id: t-09881
   teiginys: 'Smolenską gynė apie 2 tūkst. Lietuvos karių, miestas buvo smarkiai apšaudytas ir šturmuojamas, bet nesėkmingai.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras Gonsevskis|Aleksandras Gonsevskis]]; mentioned_place: Lietuva; mentioned_place: Smolenskas'
   pagrindžia:
     - c-002
 
@@ -53,6 +61,11 @@ Nenurodyta
 - t-003
   global_id: t-09882
   teiginys: 'Po nesėkmingo Rusijos mėginimo užimti Smolenską prie Polianovkos upės buvo sudaryta „amžinosios taikos“ sutartis.'
+  sudarymo_pagrindimas: 'Teiginys susietas su Smolensko apgulties padariniais.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Smolenskas'
+  temporaliniai_duomenys: 'sutarties data: iki 1654 m.; sutarties data: 1654 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip sutarties data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys susietas su Smolensko apgulties padariniais.'
   pagrindžia:
     - c-004
 
@@ -60,9 +73,14 @@ Nenurodyta
 - t-004
   global_id: t-09883
   teiginys: '1632 m. maskvėnai įsiveržė į Lietuvos teritoriją siekdami atgauti Smolenską, o Michailo Šejino vadovaujama rusų kariuomenė lapkričio 14 d. apgulė miestą.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'object: Lietuva; object: [[objektai/grupes/Maskvėnai|Maskvėnai]]; object: [[objektai/grupes/Rusai|Rusai]]; object: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'mūšio data: 1632 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Vladislovas puolė Zigmantas (Romos imperatorius)“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Vladislovas puolė Maskvėnai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Vladislovas puolė Rusai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Vladislovas puolė Lietuva“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -153,24 +171,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/asmenys/Aleksandras]]
-- [[objektai/asmenys/Aleksandras Gonsevskis]]
-- [[objektai/asmenys/Kristupas Radvila]]
-- [[objektai/grupes/Krymo totoriai]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Radvila]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/asmenys/Vladislovas]]
-- [[objektai/asmenys/Vladislovas Vaza]]
-- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
-- [[objektai/zodynas/etmonas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/vaivada]]
-- [[objektai/autoriai/Karolis Zikaras]]
-- [[objektai/grupes/Maskvėnai]]

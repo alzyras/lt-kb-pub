@@ -12,48 +12,73 @@ tags:
 
 ## Santrauka
 
-Kęstutis valdė Žemaičių žemę. Kęstutis nujojo į Žemaičius siekdamas gauti pagalbos po to, kai Jogaila be jo žinios užėmė Trakus. Kęstutis sušaukė Žemaičių žemę ir visą kariuomenę.
+Kęstutis sušaukė Žemaičių žemę ir visą kariuomenę. Vytautas užstatė Žemaičių žemę vokiečiams.
 
 ## Teiginiai
 
 <a id="claim-t-187415"></a>
 - t-001
   global_id: t-187415
-  teiginys: 'Kęstutis valdė Žemaičių žemę.'
+  teiginys: 'Kęstutis Lietuvos metraštyje apibūdinamas kaip Algirdo brolis, valdęs Trakus ir Žemaičių žemę.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Valdovo statusas ir giminystės kontekstas palikti kaip metraščio apibūdinimas. Nepridėta informacijos apie Kęstučio sūnus.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_person: [[objektai/asmenys/Vasilijus|Vasilijus]]; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Tverė'
   pagrindžia:
     - c-003
 
 <a id="claim-t-187416"></a>
 - t-002
   global_id: t-187416
-  teiginys: 'Kęstutis nujojo į Žemaičius siekdamas gauti pagalbos po to, kai Jogaila be jo žinios užėmė Trakus.'
+  teiginys: 'Lietuvos metraštyje Kęstutis nujoja į Žemaičius prašyti pagalbos po to, kai Jogaila be jo žinios užima Trakus.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Motyvas ir kaltinantis Jogailos veiksmų vaizdavimas turi būti priskirti šaltiniui.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Trakai'
   pagrindžia:
     - c-004
 
 <a id="claim-t-187417"></a>
 - t-003
   global_id: t-187417
-  teiginys: 'Kęstutis sušaukė Žemaičių žemę ir visą kariuomenę.'
+  teiginys: 'Kęstutis, sušaukęs savo Žemaičių žemę ir kariuomenę, traukė prie Neries, kur susijungė su Vytauto kariuomene.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Išskleistas veiksmo kontekstas: Kęstučio sutelkta Žemaičių žemė siejama su žygiu prie Neries. Nepridėta daugiau Trakų apgulties detalių.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/tėvonija|tėvonija]]; mentioned_place: Gardinas; mentioned_place: Trakai'
   pagrindžia:
     - c-002
 
 <a id="claim-t-187418"></a>
 - t-004
   global_id: t-187418
-  teiginys: 'Vytautas užstatė Žemaičių žemę vokiečiams.'
+  teiginys: 'Lietuvos metraštyje Vytautas, būdamas pas magistrą Marienburge, už tris šimtus tūkstančių auksinų užstato vokiečiams Žemaičių žemę.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Kronikos pasakojimas apie politinį veiksmą perteiktinas tiksliau ir su šaltinio priskyrimu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Užstato daiktai Trakų žydų privilegijoje|Užstato daiktai Trakų žydų privilegijoje]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_person: [[objektai/asmenys/Sofija|Sofija]]; mentioned_place: Lietuva; mentioned_place: Marienburgas; mentioned_place: Maskva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
 <a id="claim-t-187419"></a>
 - t-005
   global_id: t-187419
-  teiginys: 'Kęstutis su žemaičiais atėjo prie Trakų po to, kai Jogaila be Kęstučio žinios užėmė Trakus.'
+  teiginys: 'Lietuvos metraštyje Kęstutis su žemaičiais ateina prie Trakų po to, kai Jogaila be Kęstučio žinios užima Trakus.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Kaltinantis konflikto vaizdavimas turi būti išlaikytas kaip kronikos pasakojimas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Trakai'
   pagrindžia:
     - c-004
-
+- susijęs iš [[objektai/autoriai/J. Posilge.md#claim-t-29505|J. Posilge]]: Jonas von Posilge užrašė, kad Žemaičių žemė pasidavė Ordinui ir krašto kilmingieji davė daug įkaitų.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179276|Lietuviai]]: Cituojamame aiškinime teigiama, kad žemaičiai nuo senų laikų save vadino lietuviais.
+- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176141|Žemaičiai]]: Cituotame aiškinime žemaičiai laikomi tais pačiais žmonėmis kaip lietuviai, kalbančiais ta pačia kalba.
+- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176164|Žemaičiai]]: Cituojamame aiškinime žemaičiai Lietuvą vadino Auxtote, nes ji laikyta aukštesne žeme už Žemaitiją.
+- susijęs iš [[objektai/posakiai/Viskas yra viena - ir žemė, ir žmonės.md#claim-t-86845|Viskas yra viena - ir žemė, ir žmonės]]: Posakiu „Viskas yra viena - ir žemė, ir žmonės“ aiškinta, kodėl valdovo titule nerašomas Žemaitijos vardas.
+- susijęs iš [[objektai/posakiai/Viskas yra viena, viena žemė ir tie patys žmonės.md#claim-t-55201|Viskas yra viena, viena žemė ir tie patys žmonės]]: Balińskio pateiktame 1420 m. Vytauto laiško kontekste Žemaitijos ir Lietuvos tapatumas grindžiamas viena kalba ir tais pačiais žmonėmis.
+- susijęs iš [[objektai/posakiai/Viskas yra viena, viena žemė ir tie patys žmonės.md#claim-t-55202|Viskas yra viena, viena žemė ir tie patys žmonės]]: Balińskio vertime formulė perteikiama žodžiais „viskas yra viena - ir žemė, ir žmonės“.
+- susijęs iš Žemaitija: Žemaitija aiškinta kaip žemesnė žemė, o Aukštaitija - kaip aukštesnė žemė palyginti su Žemaitija.
+- susijęs iš Žemaitija: Žemaitijos žemė aiškinta kaip ta pati Lietuvos žemė, tik vadinama žemesne žeme.
+- susijęs iš [[objektai/zodynas/Szomoyth Auxtote.md#claim-t-86574|Szomoyth Auxtote]]: Szomoyth aiškinta kaip žemesnė žemė, o Auxtote – kaip aukštesnė žemė, palyginti su Žemaitija.
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lietuvos metraštyje Vytautas, būdamas pas magistrą Marienburge, už tris šimtus tūkstančių auksinų užstato vokiečiams Žemaičių žemę.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     Šventasis metropolitas
@@ -80,6 +105,7 @@ Kęstutis valdė Žemaičių žemę. Kęstutis nujojo į Žemaičius siekdamas g
     - t-004
 
 - c-002
+  santrauka: 'Kęstutis, sušaukęs savo Žemaičių žemę ir kariuomenę, traukė prie Neries, kur susijungė su Vytauto kariuomene.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     Didysis kunigaikštis Kęstutis, sušaukęs savo Žemai­
@@ -96,6 +122,7 @@ Kęstutis valdė Žemaičių žemę. Kęstutis nujojo į Žemaičius siekdamas g
     - t-003
 
 - c-003
+  santrauka: 'Kęstutis Lietuvos metraštyje apibūdinamas kaip Algirdo brolis, valdęs Trakus ir Žemaičių žemę.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     Didžiajai kunigaikštienei Onai 1 5  mirus, didysis ku­

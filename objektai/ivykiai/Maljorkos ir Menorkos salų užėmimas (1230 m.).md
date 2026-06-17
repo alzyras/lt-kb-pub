@@ -43,6 +43,12 @@ Nenurodyta
 - t-001
   global_id: t-62388
   teiginys: '1230 m. Aragono karalius Ispanijoje užėmė Maljorkos ir Menorkos salas, kurios anksčiau buvo užimtos saracėnų.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, bet citata aiškiai remia glaustą faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Saracėnai|Saracėnai]]; mentioned_place: Aragonas; mentioned_place: Ispanija; mentioned_place: Maljorka; mentioned_place: Menorka'
+  temporaliniai_duomenys: 'įvykio data: 1230 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs, bet citata aiškiai remia glaustą faktą.'
   pagrindžia:
     - c-001
 
@@ -65,7 +71,3 @@ Nenurodyta
   pagrindžia:
     - t-001
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Saracėnai]]

@@ -39,6 +39,8 @@ Nenurodyta
 - t-001
   global_id: t-59288
   teiginys: 'Per Brunsbergo pilies ir miesto apsiaustį prūsai visą dieną puolė, bet miestiečiai ir pilėnai pasipriešino, todėl užpuolikai pasitraukė.'
+  sudarymo_pagrindimas: 'Citata palaiko faktą apie apsiaustį, pasipriešinimą ir prūsų pasitraukimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/Ordino brolis|Ordino brolis]]; mentioned_object: [[objektai/daiktai/Vežimai|Vežimai]]; mentioned_object: [[objektai/zodynas/apsiaustis|apsiaustis]]; mentioned_place: Brunsbergas; mentioned_place: Pilėnai; mentioned_place: Prūsai; mentioned_place: Varmė'
   pagrindžia:
     - c-001
 
@@ -46,6 +48,8 @@ Nenurodyta
 - t-002
   global_id: t-59289
   teiginys: 'Per Brunsbergo pilies ir miesto apsiaustį priešai nukovė 40 vyrų, išėjusių pasišienauti ir pamalkauti.'
+  sudarymo_pagrindimas: 'Pašalintas autorinis boilerplate ir suformuluotas pilnas faktinis sakinys.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/apsiaustis|apsiaustis]]; mentioned_place: Brunsbergas; mentioned_place: Elbingas'
   pagrindžia:
     - c-002
 
@@ -87,10 +91,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Ordino brolis]]
-- [[objektai/grupes/Teutonai]]
-- [[objektai/daiktai/Vežimai]]
-- [[objektai/zodynas/apsiaustis]]

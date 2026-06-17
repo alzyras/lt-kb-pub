@@ -18,6 +18,12 @@ Liudvikas, Brandenburgo markgrafas ir imperatoriaus Liudviko sūnus, su rinktine
 - t-001
   global_id: t-186234
   teiginys: 'Liudvikas, Brandenburgo markgrafas ir imperatoriaus Liudviko sūnus, su rinktine kariuomene atvyko į Prūsiją.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Liudviko atvykimą į Prūsiją.'
+  susije_objektai: 'location: Prūsija; location: Žemaitija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Prūsija; mentioned_place: Žemaitija'
+  semantiniai_rysiai: '[[objektai/asmenys/Liudvikas (Brandenburgo markgrafas)|Liudvikas (Brandenburgo markgrafas)]] keliavo į Prūsija; [[objektai/asmenys/Liudvikas (Brandenburgo markgrafas)|Liudvikas (Brandenburgo markgrafas)]] keliavo į Žemaitija'
   pagrindžia:
     - c-001
 
@@ -52,8 +58,5 @@ Liudvikas, Brandenburgo markgrafas ir imperatoriaus Liudviko sūnus, su rinktine
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/žygis]]
+- Liudvikas (Brandenburgo markgrafas) keliavo_i [[objektai/vietos/Prūsija]]
+- Liudvikas (Brandenburgo markgrafas) keliavo_i [[objektai/vietos/Žemaitija]]

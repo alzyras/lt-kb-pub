@@ -8,6 +8,7 @@ saltiniai:
 datos:
   - '1323 m.'
   - '1324 m.'
+  - '1328 m.'
   - '1966 m.'
 date_start: '1323'
 date_end: '1966'
@@ -21,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-Gedimino laiškų ordinams ir Hanzos miestams 1323 m. notaro parengtas dokumentas buvo Karaliaučiaus Slaptajame archyve, o Kotzebue juos paskelbė „Prūsijos istorijoje“. Kai kurie Gedimino laiškai rašyti Vilniuje 1323 m. gegužės 26 d. ir Vilnių vadina karališkuoju miestu. Foigtas ginčijo Gedimino laiškų autentiškumą ir jų parengimą priskyrė Rygos arkivyskupui.
+Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominikonams, Mažesniesiems broliams ir pajūrio miestams. Balińskio pasakojime jie yra svarbūs Vilniaus miesto ir Gedimino sostinės paliudijimui, bet kartu pateikiamas Foigto autentiškumo ginčas, laiškus siejęs su Rygos arkivyskupo klastote.
 
 ## Bibliografiniai duomenys
 
@@ -35,10 +36,14 @@ Gedimino laiškų ordinams ir Hanzos miestams 1323 m. notaro parengtas dokumenta
 - Aptariamas krikšto pasiuntinių laukimas, laiškų platinimas, antspaudo formulė ir vėlesnis autentiškumo ginčas.
 
 ## Teiginiai
+
 <a id="claim-t-55211"></a>
 - t-001
   global_id: t-55211
   teiginys: 'Gedimino laiškų ordinams ir Hanzos miestams 1323 m. notaro parengtas dokumentas buvo Karaliaučiaus Slaptajame archyve, o Kotzebue juos paskelbė „Prūsijos istorijoje“.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Hanza|Hanza]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/autoriai/Kotzebue|Kotzebue]]; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1323 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -46,6 +51,11 @@ Gedimino laiškų ordinams ir Hanzos miestams 1323 m. notaro parengtas dokumenta
 - t-002
   global_id: t-55212
   teiginys: 'Kai kurie Gedimino laiškai rašyti Vilniuje 1323 m. gegužės 26 d. ir Vilnių vadina karališkuoju miestu.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir pagrįstas pateiktomis citatomis.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)|Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1323 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, faktinis ir pagrįstas pateiktomis citatomis.'
   pagrindžia:
     - c-002
     - c-007
@@ -54,6 +64,7 @@ Gedimino laiškų ordinams ir Hanzos miestams 1323 m. notaro parengtas dokumenta
 - t-003
   global_id: t-55213
   teiginys: 'Foigtas ginčijo Gedimino laiškų autentiškumą ir jų parengimą priskyrė Rygos arkivyskupui.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Prūsija; mentioned_place: Ryga'
   pagrindžia:
     - c-003
     - c-008
@@ -63,6 +74,7 @@ Gedimino laiškų ordinams ir Hanzos miestams 1323 m. notaro parengtas dokumenta
 - t-004
   global_id: t-55214
   teiginys: 'Abejonės dėl Gedimino laiškų autentiškumo, Balińskio vertinimu, nepaneigia, kad Vilnius jau buvo miestas ir Gedimino sostinė.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Prūsija; mentioned_place: Ryga; mentioned_place: Vilnius'
   pagrindžia:
     - c-004
 
@@ -70,6 +82,7 @@ Gedimino laiškų ordinams ir Hanzos miestams 1323 m. notaro parengtas dokumenta
 - t-005
   global_id: t-55215
   teiginys: 'Balińskis Gedimino laiškus dėjo į papildymus kartu su lenkišku vertimu ir Foigto pastabomis.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Estija'
   pagrindžia:
     - c-005
 
@@ -77,6 +90,8 @@ Gedimino laiškų ordinams ir Hanzos miestams 1323 m. notaro parengtas dokumenta
 - t-006
   global_id: t-55216
   teiginys: 'Gedimino laiškai buvo adresuoti dominikonų ordino vyresniesiems, Mažesniųjų brolių ordinui ir pajūrio miestams.'
+  sudarymo_pagrindimas: 'Teiginys pilnai nusako adresatus ir atitinka citatos informaciją.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)|Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Štetinas'
   pagrindžia:
     - c-006
 
@@ -84,6 +99,7 @@ Gedimino laiškų ordinams ir Hanzos miestams 1323 m. notaro parengtas dokumenta
 - t-007
   global_id: t-55217
   teiginys: 'Trijuose Gedimino laiškuose buvo įrašytas antspaudo tikrumą ginantis prakeiksmas tiems, kurie juo nepatikėtų.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]'
   pagrindžia:
     - c-010
 
@@ -91,6 +107,11 @@ Gedimino laiškų ordinams ir Hanzos miestams 1323 m. notaro parengtas dokumenta
 - t-008
   global_id: t-171537
   teiginys: '„Gedimino laiškus“ parengė V. Pašuta ir J. Stal, o leidinys išleistas Vilniuje 1966 m.'
+  sudarymo_pagrindimas: 'Citata pateikia leidinio rengėjus, vietą ir metus.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)|Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/autoriai/V. Pašuta|V. Pašuta]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1966 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pateikia leidinio rengėjus, vietą ir metus.'
   pagrindžia:
     - c-013
 
@@ -98,6 +119,8 @@ Gedimino laiškų ordinams ir Hanzos miestams 1323 m. notaro parengtas dokumenta
 - t-009
   global_id: t-171538
   teiginys: 'Gediminas laiškais Vakarų šalims ir miestams kvietė į Lietuvą Vakarų pirklius ir amatininkus.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nurodo Gedimino laiškų adresatus, veiksmą ir tikslą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-012
 
@@ -105,6 +128,11 @@ Gedimino laiškų ordinams ir Hanzos miestams 1323 m. notaro parengtas dokumenta
 - t-010
   global_id: t-171539
   teiginys: 'Gedimino laiškai laikomi reikšmingiausiu jo politikos atspindžiu.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas faktinis sakinys apie šaltinį.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Gedimino krikšto akcija|Gedimino krikšto akcija]]; mentioned_event: [[objektai/ivykiai/Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)|Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_place: Vokietija'
+  temporaliniai_duomenys: 'įvykio data: 1323-1324; įvykio data: 1324 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas faktinis sakinys apie šaltinį.'
   pagrindžia:
     - c-015
 
@@ -112,6 +140,8 @@ Gedimino laiškų ordinams ir Hanzos miestams 1323 m. notaro parengtas dokumenta
 - t-011
   global_id: t-171541
   teiginys: 'Laiškų autorius Mazovijos kunigaikštį vadino Bonislavu, todėl, pasak kritikos, prastai žinojo to meto Mazovijos valdovą.'
+  sudarymo_pagrindimas: 'Citata palaiko konkrečią argumentaciją dėl laiškų autoriaus klaidos.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Mazovija'
   pagrindžia:
     - c-011
 
@@ -119,6 +149,8 @@ Gedimino laiškų ordinams ir Hanzos miestams 1323 m. notaro parengtas dokumenta
 - t-012
   global_id: t-171542
   teiginys: 'Gediminas laiškuose Vakarams vadinosi karaliumi, vartodamas titulą rex.'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo per trumpas; citata leidžia aiškiai įvardyti titulavimosi reikšmę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/ivykiai/Lietuvos krikštas|Lietuvos krikštas]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Bizantija; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-017
 
@@ -126,6 +158,11 @@ Gedimino laiškų ordinams ir Hanzos miestams 1323 m. notaro parengtas dokumenta
 - t-013
   global_id: t-171544
   teiginys: 'Balińskis laikėsi nuomonės, kad Gedimino laiškai buvo Rygos arkivyskupo prasimanyti iš neapykantos kryžiuočiams.'
+  sudarymo_pagrindimas: 'Citata tiesiogiai pagrindžia autoriaus išvadą apie laiškų kilmę.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)|Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Ryga; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1328 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata tiesiogiai pagrindžia autoriaus išvadą apie laiškų kilmę.'
   pagrindžia:
     - c-016
 
@@ -133,6 +170,7 @@ Gedimino laiškų ordinams ir Hanzos miestams 1323 m. notaro parengtas dokumenta
 - t-014
   global_id: t-171545
   teiginys: 'Balińskis laiškų netikrumą grindė jų turiniu ir posakiais, kurie esą nebūdingi dar tik krikščioniu norinčiam tapti žmogui.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs; citata perteikia autoriaus interpretaciją, todėl reikalinga atribucija.'
   pagrindžia:
     - c-014
 
@@ -140,6 +178,8 @@ Gedimino laiškų ordinams ir Hanzos miestams 1323 m. notaro parengtas dokumenta
 - t-015
   global_id: t-171546
   teiginys: 'Gedimino laiškų netikrumo įrodymu laikyta užuomina apie Mazoviją kaip laisvą ir saugų kelią svetimšaliams į Lietuvą.'
+  sudarymo_pagrindimas: 'Citata palaiko teiginį, o pradinė formuluotė per ilga ir su OCR klaidomis.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Mazovija'
   pagrindžia:
     - c-019
 
@@ -147,10 +187,13 @@ Gedimino laiškų ordinams ir Hanzos miestams 1323 m. notaro parengtas dokumenta
 - t-016
   global_id: t-171547
   teiginys: 'Gediminas laiške žadėjo saugoti bažnytines teises, gerbti dvasininkiją ir gausinti Dievo šlovinimą.'
+  sudarymo_pagrindimas: 'Citata tiesiogiai pagrindžia Gedimino laiške išsakytus pažadus.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]'
   pagrindžia:
     - c-018
 
-## Bibliografiniai įrodymai
+## Reikšmingi paminėjimai
+
 - c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -191,6 +234,7 @@ Gedimino laiškų ordinams ir Hanzos miestams 1323 m. notaro parengtas dokumenta
   statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -215,6 +259,7 @@ Gedimino laiškų ordinams ir Hanzos miestams 1323 m. notaro parengtas dokumenta
   statusas: verified
   pagrindžia:
     - t-002
+
 - c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -234,6 +279,7 @@ Gedimino laiškų ordinams ir Hanzos miestams 1323 m. notaro parengtas dokumenta
   statusas: verified
   pagrindžia:
     - t-003
+
 - c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -259,6 +305,7 @@ Gedimino laiškų ordinams ir Hanzos miestams 1323 m. notaro parengtas dokumenta
   statusas: verified
   pagrindžia:
     - t-004
+
 - c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -279,6 +326,7 @@ Gedimino laiškų ordinams ir Hanzos miestams 1323 m. notaro parengtas dokumenta
   statusas: verified
   pagrindžia:
     - t-005
+
 - c-006
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -304,6 +352,7 @@ Gedimino laiškų ordinams ir Hanzos miestams 1323 m. notaro parengtas dokumenta
   statusas: verified
   pagrindžia:
     - t-006
+
 - c-007
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -326,6 +375,7 @@ Gedimino laiškų ordinams ir Hanzos miestams 1323 m. notaro parengtas dokumenta
   statusas: verified
   pagrindžia:
     - t-002
+
 - c-008
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -344,6 +394,7 @@ Gedimino laiškų ordinams ir Hanzos miestams 1323 m. notaro parengtas dokumenta
   statusas: verified
   pagrindžia:
     - t-003
+
 - c-009
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -367,6 +418,7 @@ Gedimino laiškų ordinams ir Hanzos miestams 1323 m. notaro parengtas dokumenta
   statusas: verified
   pagrindžia:
     - t-003
+
 - c-010
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -382,6 +434,7 @@ Gedimino laiškų ordinams ir Hanzos miestams 1323 m. notaro parengtas dokumenta
   statusas: verified
   pagrindžia:
     - t-007
+
 - c-011
   santrauka: 'Laiškų autorius Mazovijos kunigaikštį vadino Bonislavu, todėl, pasak kritikos, prastai žinojo to meto Mazovijos valdovą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -398,6 +451,7 @@ Gedimino laiškų ordinams ir Hanzos miestams 1323 m. notaro parengtas dokumenta
   statusas: verified
   pagrindžia:
     - t-011
+
 - c-012
   santrauka: 'Gediminas laiškais Vakarų šalims ir miestams kvietė į Lietuvą Vakarų pirklius ir amatininkus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -415,6 +469,7 @@ Gedimino laiškų ordinams ir Hanzos miestams 1323 m. notaro parengtas dokumenta
   statusas: verified
   pagrindžia:
     - t-009
+
 - c-013
   santrauka: '„Gedimino laiškus“ parengė V. Pašuta ir J. Stal, o leidinys išleistas Vilniuje 1966 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -425,6 +480,7 @@ Gedimino laiškų ordinams ir Hanzos miestams 1323 m. notaro parengtas dokumenta
   statusas: verified
   pagrindžia:
     - t-008
+
 - c-014
   santrauka: 'Balińskis laiškų netikrumą grindė jų turiniu ir posakiais, kurie esą nebūdingi dar tik krikščioniu norinčiam tapti žmogui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -448,6 +504,7 @@ Gedimino laiškų ordinams ir Hanzos miestams 1323 m. notaro parengtas dokumenta
   statusas: verified
   pagrindžia:
     - t-014
+
 - c-015
   santrauka: 'Gedimino laiškai laikomi reikšmingiausiu jo politikos atspindžiu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -473,6 +530,7 @@ Gedimino laiškų ordinams ir Hanzos miestams 1323 m. notaro parengtas dokumenta
   statusas: verified
   pagrindžia:
     - t-010
+
 - c-016
   santrauka: 'Balińskis laikėsi nuomonės, kad Gedimino laiškai buvo Rygos arkivyskupo prasimanyti iš neapykantos kryžiuočiams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -492,6 +550,7 @@ Gedimino laiškų ordinams ir Hanzos miestams 1323 m. notaro parengtas dokumenta
   statusas: verified
   pagrindžia:
     - t-013
+
 - c-017
   santrauka: 'Gediminas laiškuose Vakarams vadinosi karaliumi, vartodamas titulą rex.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -514,6 +573,7 @@ Gedimino laiškų ordinams ir Hanzos miestams 1323 m. notaro parengtas dokumenta
   statusas: verified
   pagrindžia:
     - t-012
+
 - c-018
   santrauka: 'Gediminas laiške žadėjo saugoti bažnytines teises, gerbti dvasininkiją ir gausinti Dievo šlovinimą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -540,6 +600,7 @@ Gedimino laiškų ordinams ir Hanzos miestams 1323 m. notaro parengtas dokumenta
   statusas: verified
   pagrindžia:
     - t-016
+
 - c-019
   santrauka: 'Gedimino laiškų netikrumo įrodymu laikyta užuomina apie Mazoviją kaip laisvą ir saugų kelią svetimšaliams į Lietuvą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

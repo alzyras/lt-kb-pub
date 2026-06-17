@@ -1,22 +1,8 @@
 ---
 tipas: daiktas
-pavadinimas: "Aukso balnai"
-variantai: ["žirgų su aukso balnais"]
-aliases: []
+pavadinimas: 'Aukso balnai'
 saltiniai:
-  - "objektai/saltiniai/Lietuvos metraštis, Bychovco kronika (1971 m.).md"
-bukle: juodrastis
-laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: ""
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -33,30 +19,37 @@ Lietuvos metraštyje pasakojama, kad lietuvos metraštis pasakoja, kad Vytautas 
 - žirgų su aukso balnais
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Naudojimas
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 <a id="claim-t-186845"></a>
 - t-001
   global_id: t-186845
-  teiginys: 'Lietuvos metraštyje pasakojama, kad lietuvos metraštis pasakoja, kad Vytautas dovanojo žirgų su aukso balnais; Šiame gabale aukso balnai minimi kaip prabangi žirgų ekipuotės dalis valdovų dovanose.'
+  teiginys: 'Vytautas savo žentui Vasilijui Dimitrijevičiui dovanojo žirgų su aukso balnais tarp kitų brangių dovanų.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pašalintas perteklinis šaltinio minėjimas ir išryškintas citatos palaikomas faktas.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Bachmatai|Bachmatai]]; mentioned_object: [[objektai/daiktai/Balnas|Balnas]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/asmenys/Lengvenis|Lengvenis]]; mentioned_person: [[objektai/asmenys/Vasilijus|Vasilijus]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Smolenskas'
   pagrindžia:
     - c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Lietuvos metraštyje pasakojama, kad lietuvos metraštis pasakoja, kad Vytautas dovanojo žirgų su aukso balnais; Šiame gabale aukso balnai minimi kaip prabangi žirgų ekipuotės dalis valdovų dovanose.'
+  santrauka: 'Vytautas savo žentui Vasilijui Dimitrijevičiui dovanojo žirgų su aukso balnais tarp kitų brangių dovanų.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     Didysis kunigaikštis Vytautas prieš Ria-
@@ -76,24 +69,8 @@ Nenurodyta
     žirgų su aukso balnais ir daug kitų nuostabių daiktų ir,
     išlydėjęs jį su didele pagarba į Maskvą, pats išvyko
     j Lietuvą l6 .
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Bachmatai]]
-- [[objektai/daiktai/Balnas]]
-- [[objektai/asmenys/Lengvenis]]
-- [[objektai/asmenys/Vasilijus]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/didysis kunigaikštis]]
-- [[objektai/daiktai/Žirgai]]
-- [[objektai/daiktai/Brangūs aksomai]]
-- [[objektai/daiktai/Perlais siuvinėti drabužiai]]
-- [[objektai/ivykiai/Vytauto ir Maskvos didžiojo kunigaikščio Vasilijaus susitikimas Smolenske]]
-- [[objektai/zodynas/metraštis]]

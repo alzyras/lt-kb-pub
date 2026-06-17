@@ -36,6 +36,14 @@ Nenurodyta
 - t-001
   global_id: t-185496
   teiginys: '1307 m. į Prūsiją atvyko grafo Jono fon Španheimo vedama kariuomenė su kilmingais vokiečių riteriais.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir suformuluotas aiškus faktas apie žygio pajėgas.'
+  susije_objektai: 'location: Prūsija; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Prūsija'
+  temporaliniai_duomenys: 'kelionės data: 1307 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas OCR triukšmas ir suformuluotas aiškus faktas apie žygio pajėgas.'
   pagrindžia:
     - c-001
 
@@ -43,6 +51,11 @@ Nenurodyta
 - t-002
   global_id: t-185497
   teiginys: 'Vasaros pabaigoje Ragainės kryžiuočiai sudegino Pūtvės miestą prie Jūros, o miestiečius paėmė į nelaisvę arba išžudė.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys aiškus, faktinis ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Bisenė; mentioned_place: Ragainė'
   pagrindžia:
     - c-002
 
@@ -50,6 +63,11 @@ Nenurodyta
 - t-003
   global_id: t-185498
   teiginys: 'Lietuviai įgulų tarnybas tvarkė taip, kad kariškai lavintųsi jaunimas.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys pilnas ir perteikia citatoje nurodytą įgulų tarnybų tikslą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Bisenė; mentioned_place: Ragainė'
   pagrindžia:
     - c-003
 
@@ -57,6 +75,11 @@ Nenurodyta
 - t-004
   global_id: t-185499
   teiginys: 'Kryžiuočiai nusiaubė Karšuvos žemę Žemaitijoje taip, kad jos gyventojai su turtu išsikėlė į Lietuvą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nusako kryžiuočių veiksmą ir jo pasekmę gyventojams.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_person: [[objektai/asmenys/Spūdas|Spūdas]]; mentioned_place: Karšuva; mentioned_place: Lietuva'
   pagrindžia:
     - c-004
 
@@ -64,6 +87,11 @@ Nenurodyta
 - t-005
   global_id: t-185500
   teiginys: 'Netekusios gynėjų, Skronaitės ir Bibervaitės pilys buvo sunaikintos priešų ir ugnies.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Reikia pašalinti pažodinę, neenciklopedinę formuluotę „priešo ir liepsnų“.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]'
   pagrindžia:
     - c-005
 
@@ -180,14 +208,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-005
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Kalavijas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/daiktai/Pilys]]
-- [[objektai/asmenys/Spūdas]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/seniūnas]]
-- [[objektai/zodynas/žygis]]

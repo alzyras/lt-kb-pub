@@ -18,9 +18,15 @@ Keliaudamas iš Poznanės į Srodą karalius vos nežuvo, kai audros žaibas nut
 - t-001
   global_id: t-185307
   teiginys: 'Keliaudamas iš Poznanės į Srodą karalius vos nežuvo, kai audros žaibas nutrenkė du jo kinkinio palydovus ir kelis arklius.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pašalinta perteklinė atribucija ir OCR triukšmas, sakinys paremtas citata.'
+  susije_objektai: 'territory: Poznanė; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Poznanė'
   pagrindžia:
     - c-001
-
+- susijęs iš Poznanė: Keliaudamas iš Poznanės į Srodą karalius vos nežuvo per audrą.
+- susijęs iš Poznanė: Keliaudamas iš Poznanės į Srodą karalius vos nežuvo per audrą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -40,3 +46,6 @@ Keliaudamas iš Poznanės į Srodą karalius vos nežuvo, kai audros žaibas nut
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] buvo_valdovas Sroda

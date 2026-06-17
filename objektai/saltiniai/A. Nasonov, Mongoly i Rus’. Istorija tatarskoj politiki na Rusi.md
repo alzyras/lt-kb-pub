@@ -26,6 +26,11 @@ Nasonov, A.
 - t-001
   global_id: t-29741
   teiginys: 'A. N. Nasonovo „Mongoly i Rus’. Istorija tatarskoj politiki na Rusi“ buvo išleista Maskvoje 1940 m.'
+  sudarymo_pagrindimas: 'Citata remia autoriaus, pavadinimo, vietos ir metų faktą.'
+  susije_objektai: 'mentioned_place: Maskva'
+  temporaliniai_duomenys: 'įvykio data: 1940 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata remia autoriaus, pavadinimo, vietos ir metų faktą.'
   pagrindžia:
     - c-001
 

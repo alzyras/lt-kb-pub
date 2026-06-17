@@ -28,6 +28,11 @@ Koneczny : Jagiełło i Witołd, Lwów 1893, 147-149 p. rimtai svarstomas, rodė
 - t-001
   global_id: t-100162
   teiginys: 'F. Koneczny veikalas „Jagiełło i Witołd“ buvo išleistas Lvove 1893 m.'
+  sudarymo_pagrindimas: 'Citata palaiko bibliografinį faktą apie šaltinį.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/Koneczny|Koneczny]]; mentioned_place: Lietuva; mentioned_place: Lvovas; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1893 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko bibliografinį faktą apie šaltinį.'
   pagrindžia:
     - c-001
 

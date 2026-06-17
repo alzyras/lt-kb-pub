@@ -29,9 +29,14 @@ Dusburgietis teigia, kad apie tai, kaip Sembos žemėje buvo pastatytos Tepliavo
 - t-001
   global_id: t-60374
   teiginys: 'Laukstetų pilies vardas kildinamas iš ten gyvenusio sembo, vadinamo Laukstetu, vardo.'
+  sudarymo_pagrindimas: 'Citata pagrindžia etimologinį teiginį; pradinis tekstas turi antraštės ir OCR triukšmo.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_place: Prūsai; mentioned_place: Semba; mentioned_place: Tepliava'
+  temporaliniai_duomenys: 'įvykio data: 1265 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia etimologinį teiginį; pradinis tekstas turi antraštės ir OCR triukšmo.'
   pagrindžia:
     - c-001
-
+- susijęs iš Lochštetė: Viklandsorto pilis vėliau buvo vadinama Lochštete pagal ten gyvenusio sembo Lauksteto vardą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -49,8 +54,3 @@ Dusburgietis teigia, kad apie tai, kaip Sembos žemėje buvo pastatytos Tepliavo
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Pilys]]
-- [[objektai/grupes/Sembai]]

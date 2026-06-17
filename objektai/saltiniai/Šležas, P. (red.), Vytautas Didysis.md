@@ -26,6 +26,9 @@ amziai:
 - t-001
   global_id: t-32024
   teiginys: 'P. Šležo redaguotas leidinys „Vytautas Didysis“ išleistas Kaune 1930 m.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/P. Šležas|P. Šležas]]; mentioned_place: Kaunas'
+  temporaliniai_duomenys: 'įvykio data: 1930 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

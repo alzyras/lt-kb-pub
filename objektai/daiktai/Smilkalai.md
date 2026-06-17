@@ -38,6 +38,8 @@ Nenurodyta
 - t-001
   global_id: t-08331
   teiginys: 'Vyriausias kunigas į šventą ugnį mėtydavo smilkalus.'
+  teiginio_tipas: 'faktas'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigas|kunigas]]'
   pagrindžia:
     - c-001
 
@@ -53,7 +55,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/kunigas]]

@@ -29,6 +29,8 @@ Nebu­ vo apie 1390 metus jokio Henriko Anglijos soste, o viešpatavo anuo tarpu
 - t-001
   global_id: t-87524
   teiginys: 'Jonas de Gandas buvo Lankasterio kunigaikštis, Ričardo II dėdė ir Henriko Lankasterio tėvas.'
+  sudarymo_pagrindimas: 'Citata remia giminystės ir titulo faktus, o pradinis teiginys nutrūkęs.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_group: [[objektai/grupes/Škotai|Škotai]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Ričardas (Kornvalijos grafas)|Ričardas (Kornvalijos grafas)]]; mentioned_place: Anglija; mentioned_place: Prūsija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -61,13 +63,3 @@ Nebu­ vo apie 1390 metus jokio Henriko Anglijos soste, o viešpatavo anuo tarpu
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/Henrikas]]
-- [[objektai/grupes/Prancūzai]]
-- [[objektai/asmenys/Ričardas (Kornvalijos grafas)]]
-- [[objektai/grupes/Škotai]]
-- [[objektai/asmenys/Jonas]]
-- [[objektai/asmenys/Henrikas Lankasteris]]
-- [[objektai/asmenys/Ričardas II]]

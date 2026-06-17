@@ -22,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-Gruodžio 11-osios rezoliucija sukėlė neigiamas JAV ir Rusijos lietuvių reakcijas ir suskaldė Lietuvos Tarybą. Gruodžio 11-osios rezoliucijos projektą Oberostas pateikė Tarybos prezidiumui, kuris jį pataisė ir grąžino karinei administracijai kaip priimtą. Gruodžio 11-osios rezoliucija pravertė Vokietijai Bresto taikos derybose, į kurias Lietuvos Tarybos delegacija nebuvo pakviesta.
+Oberostas, rezidavęs Kaune, norimos rezoliucijos projektą įteikė Tarybos prezidiumui, kuris, kiek pataisęs, grąžino ją karinei administracijai gruodžio 11 dieną kaip priimtą. Tačiau vienas teigiamas dalykas buvo – kilo skandalas, gruodžio 11-osios rezoliucija sukėlė negatyvias JAV ir Rusijos lietuvių reakcijas, skilo ir pati Taryba.
 
 ## Teiginiai
 
@@ -30,6 +30,7 @@ Gruodžio 11-osios rezoliucija sukėlė neigiamas JAV ir Rusijos lietuvių reakc
 - t-001
   global_id: t-75448
   teiginys: 'Gruodžio 11-osios rezoliucija sukėlė neigiamas JAV ir Rusijos lietuvių reakcijas ir suskaldė Lietuvos Tarybą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Vokietija'
   pagrindžia:
     - c-002
 
@@ -37,6 +38,9 @@ Gruodžio 11-osios rezoliucija sukėlė neigiamas JAV ir Rusijos lietuvių reakc
 - t-002
   global_id: t-75449
   teiginys: 'Gruodžio 11-osios rezoliucijos projektą Oberostas pateikė Tarybos prezidiumui, kuris jį pataisė ir grąžino karinei administracijai kaip priimtą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1917 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -44,6 +48,11 @@ Gruodžio 11-osios rezoliucija sukėlė neigiamas JAV ir Rusijos lietuvių reakc
 - t-003
   global_id: t-75450
   teiginys: 'Gruodžio 11-osios rezoliucija pravertė Vokietijai Bresto taikos derybose, į kurias Lietuvos Tarybos delegacija nebuvo pakviesta.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie rezoliucijos vaidmenį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Stanislovas|Stanislovas]]; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Vokietija'
+  temporaliniai_duomenys: 'įvykio data: 1918 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie rezoliucijos vaidmenį.'
   pagrindžia:
     - c-003
 
@@ -51,6 +60,14 @@ Gruodžio 11-osios rezoliucija sukėlė neigiamas JAV ir Rusijos lietuvių reakc
 - t-004
   global_id: t-183359
   teiginys: '1917 m. Oberostas Kaune įteikė Gruodžio 11-osios rezoliucijos projektą Lietuvos Tarybos prezidiumui, o šis gruodžio 11 d. grąžino jį kaip priimtą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Reikia aiškiau susieti teiginį su rezoliucija ir išlaikyti pilną sakinį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_place: Vokietija'
+  temporaliniai_duomenys: 'įvykio data: 1917 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia aiškiau susieti teiginį su rezoliucija ir išlaikyti pilną sakinį.'
   pagrindžia:
     - c-004
 

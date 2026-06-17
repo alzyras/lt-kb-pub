@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-XVI–XVII a. Lisabona kartu su Roma ir Madridu skleidė katalikybės bei barokinės architektūros ir dailės įtaką iki Meksikos ir Paragvajaus.
+tai neatrodė bloga išeitis – Roma, Madridas ar Lisabona tebespinduliavo katalikybę ir barokinės architektūros bei dailės šviesą iki pat Meksikos, Paragvajaus.
 
 ## Teiginiai
 
@@ -20,6 +20,8 @@ XVI–XVII a. Lisabona kartu su Roma ir Madridu skleidė katalikybės bei baroki
 - t-001
   global_id: t-21565
   teiginys: 'XVI–XVII a. Lisabona kartu su Roma ir Madridu skleidė katalikybės bei barokinės architektūros ir dailės įtaką iki Meksikos ir Paragvajaus.'
+  sudarymo_pagrindimas: 'Citata mini Lisaboną kartu su Roma ir Madridu, todėl teiginys patikslintas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/protestantizmas|protestantizmas]]; mentioned_place: Europa; mentioned_place: Madridas; mentioned_place: Meksika; mentioned_place: Paragvajus; mentioned_place: Roma; mentioned_place: Viena'
   pagrindžia:
     - c-001
 

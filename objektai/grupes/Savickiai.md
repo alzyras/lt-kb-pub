@@ -28,9 +28,16 @@ Po Cimermano namas atiteko ma­ loningiesiems ponams Savickiams.
 - t-001
   global_id: t-86823
   teiginys: 'Po Cimermano mirties ar valdymo laikotarpio namas atiteko Savickiams.'
+  sudarymo_pagrindimas: 'Ištaisyta OCR forma ir suformuluotas pilnas sakinys apie Savickius.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Neliubovičiai|Neliubovičiai]]; mentioned_group: [[objektai/grupes/Zalivskiai|Zalivskiai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Cimermanas|Cimermanas]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Cimermanas.md#claim-t-87645|Cimermanas]]: Radvila padovanojo savo gydytojui Cimermanui mūrinį namą ir sklypą, o karalius Žygimantas Augustas šį dovanojimą patvirtino.
+- susijęs iš [[objektai/asmenys/Jonas Neliubovičius.md#claim-t-87728|Jonas Neliubovičius]]: 1607 m. Jonas Neliubovičius mūrinį namą su sklypu pardavė Vilniaus kanauninkui Vilčiopolskiui.
+- susijęs iš [[objektai/asmenys/Kristupas Zalivskis.md#claim-t-87761|Kristupas Zalivskis]]: 1583 m. Savickiai pardavė namą Kristupui Zalivskiui, o vėliau jis iš Zalivskių atiteko Neliubovičiams.
+- susijęs iš [[objektai/grupes/Neliubovičiai.md#claim-t-86814|Neliubovičiai]]: 1583 m. Savickių Kristupui Zalivskiui parduota valda vėliau iš Zalivskių atiteko Neliubovičiams.
+- susijęs iš [[objektai/grupes/Zalivskiai.md#claim-t-86836|Zalivskiai]]: 1583 m. Savickiai pardavė namą Kristupui Zalivskiui, o vėliau jis iš Zalivskių atiteko Neliubovičiams.
+- susijęs iš Šv. Jono Akademijos Spaustuvės kronika: 1547 m. Jonas Hozijus pardavė sklypą ir mūrinį namą, kuriame buvo spaustuvė, Sebastijonui Vitinskiui.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -48,15 +55,3 @@ Po Cimermano namas atiteko ma­ loningiesiems ponams Savickiams.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Augustas]]
-- [[objektai/asmenys/Cimermanas]]
-- [[objektai/daiktai/Namas]]
-- [[objektai/grupes/Neliubovičiai]]
-- [[objektai/asmenys/Radvila]]
-- [[objektai/grupes/Zalivskiai]]
-- [[objektai/zodynas/ponai]]
-- [[objektai/asmenys/Jonas Neliubovičius]]
-- [[objektai/asmenys/Kristupas Zalivskis]]

@@ -31,6 +31,9 @@ Ljubavskij : Litovsko-Russkij sejm, Maskva 1900, 355-360 p. Plg.
 - t-001
   global_id: t-30841
   teiginys: 'M. Ljubavskij parašė veikalą „Litovsko-Russkij sejm“, išleistą Maskvoje 1900 m.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/J. Jakubovskis|J. Jakubovskis]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Liublinas; mentioned_place: Maskva'
+  temporaliniai_duomenys: 'įvykio data: 1900 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -54,7 +57,3 @@ Ljubavskij : Litovsko-Russkij sejm, Maskva 1900, 355-360 p. Plg.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/J. Jakubovskis]]

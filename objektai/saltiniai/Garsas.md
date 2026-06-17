@@ -3,11 +3,19 @@ tipas: saltinis
 pavadinimas: 'Garsas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1892 m.'
+  - '1894 m.'
+  - '1899 m.'
+date_start: '1892'
+date_end: '1899'
 sukurta: ''
 atnaujinta: ''
 tags:
   - kunigas
   - saltinis
+amziai:
+  - 'XIX'
 ---
 # Garsas
 
@@ -16,20 +24,21 @@ tags:
 „Garso Amerikos Lietuvių" antraštė.
 
 ## Teiginiai
+
 <a id="claim-t-02165"></a>
 - t-001
   global_id: t-02165
   teiginys: 'Laikraštis 1892–1894 m. ėjo „Garso“ vardu, o 1894–1899 m. jį leido dešimties kunigų bendrovė.'
+  sudarymo_pagrindimas: 'Perrašyta sklandžiau, pašalinant santrumpas ir išlaikant citatos faktus.'
+  temporaliniai_duomenys: 'įvykio data: 1892-1894; įvykio data: 1894 m.; įvykio data: 1894-1899; įvykio data: 1899 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Perrašyta sklandžiau, pašalinant santrumpas ir išlaikant citatos faktus.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Laikraštis 1892–1894 m. ėjo „Garso“ vardu, o 1894–1899 m. jį leido dešimties kunigų bendrovė.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Dabartinė lietuviškosios spaudos būklė J. Amerikos Valsty-
@@ -41,10 +50,8 @@ tags:
     „Laisvė" ir „Vilnis"', socialistų „Naujienos"), keletas dvidie-
     ninių, tridieninių ir savaitinių; kiti — dvisavaitiniai ir mėne-
     siniai.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Per karinius susidūrimus su Lenkija Lietuva prarado lietuviškus Seinus ir Punską. Karinių susidūrimų su Lenkija metu Lietuva prarado lietuviškus Seinus ir Punską. Įsigaliojus sutarčiai Lietuva neteko teisės reikšti teritorinių pretenzijų į Seinus ir Punską.
+Neturėdama pakankamai karinių jėgų Lietuva nesugebėjo apjungti netgi visų etninių lietuvių žemių, kur lietuviai sudarė daugumą gyventojų – karinių susidūrimų su Lenkija metu buvo prarasti lietuviški Seinai ir Punskas. Savo ruožtu Lietuva nustojo teisės reikšti savo teritorines pretenzijas į Seinus, Punską, nors sena istorija, tautinių mažumų klausimas kartais dar kelia karštas diskusijas.
 
 ## Teiginiai
 
@@ -29,6 +29,11 @@ Per karinius susidūrimus su Lenkija Lietuva prarado lietuviškus Seinus ir Puns
 - t-001
   global_id: t-71963
   teiginys: 'Per karinius susidūrimus su Lenkija Lietuva prarado lietuviškus Seinus ir Punską.'
+  sudarymo_pagrindimas: 'Pašalintas antraštės triukšmas ir paliktas tiesiogiai citata paremtas faktas apie Punską.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/M. Sleževičius|M. Sleževičius]]; mentioned_place: Latvija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Seinai'
+  temporaliniai_duomenys: 'įvykio data: 1920 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas antraštės triukšmas ir paliktas tiesiogiai citata paremtas faktas apie Punską.'
   pagrindžia:
     - c-001
 
@@ -36,6 +41,9 @@ Per karinius susidūrimus su Lenkija Lietuva prarado lietuviškus Seinus ir Puns
 - t-002
   global_id: t-71964
   teiginys: 'Karinių susidūrimų su Lenkija metu Lietuva prarado lietuviškus Seinus ir Punską.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/M. Sleževičius|M. Sleževičius]]; mentioned_place: Latvija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Seinai'
+  temporaliniai_duomenys: 'įvykio data: 1920 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -43,9 +51,14 @@ Per karinius susidūrimus su Lenkija Lietuva prarado lietuviškus Seinus ir Puns
 - t-003
   global_id: t-183623
   teiginys: 'Įsigaliojus sutarčiai Lietuva neteko teisės reikšti teritorinių pretenzijų į Seinus ir Punską.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis teiginys turėjo kontekstinę frazę ir papildomą, mažiau tikslų komentarą.'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Potsdamas; mentioned_place: SSRS; mentioned_place: Seinai; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
-
+- susijęs iš Seinai: Ratifikavus sutartį Lietuva neteko teisės reikšti teritorinių pretenzijų į Seinus ir Punską.
 ## Reikšmingi paminėjimai
 
 - c-001

@@ -44,6 +44,12 @@ Vytauto veiksmai sutrikdė ordino kariuomenės aprūpinimą.
 - t-001
   global_id: t-66998
   teiginys: '1377 m. žygis buvo pirmas žinomas Vytauto savarankiškas pasirodymas karo lauke.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir paremtas citata.'
+  susije_objektai: 'event: [[objektai/ivykiai/Vytauto žygis į Ordino žemes (1377 m.)|Vytauto žygis į Ordino žemes (1377 m.)]]; mentioned_object: [[objektai/daiktai/Duona|Duona]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Kęstutis|Kęstutis]] dalyvavo mūšyje [[objektai/ivykiai/Vytauto žygis į Ordino žemes (1377 m.)|Vytauto žygis į Ordino žemes (1377 m.)]]'
+  temporaliniai_duomenys: 'mūšio data: 1377 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Kęstutis (vakarų pasienio valdovas, XIV–XV a.) dalyvavo mūšyje Vytauto žygis į Ordino žemes (1377 m.)“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, faktinis ir paremtas citata.'
   pagrindžia:
     - c-003
 
@@ -51,6 +57,7 @@ Vytauto veiksmai sutrikdė ordino kariuomenės aprūpinimą.
 - t-002
   global_id: t-66999
   teiginys: 'Kęstučio lieptas Vytautas sunaikino ordino maisto atsargas nuo Nemuno iki Tamovos, todėl kryžiuočiai šešias dienas neturėjo duonos ir pašaro.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Duona|Duona]]; mentioned_object: [[objektai/zodynas/maršalka|maršalka]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Vygandas|Vygandas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Tamova; mentioned_place: Užnemunė; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -58,6 +65,11 @@ Vytauto veiksmai sutrikdė ordino kariuomenės aprūpinimą.
 - t-003
   global_id: t-67000
   teiginys: '1377 m. Vytautas, tėvo pavedamas, surengė žygį į Ordino žemes ir pasirodė kaip savarankiškas lietuvių kariuomenės vadas.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir atitinka citatoje nurodytus faktus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]'
+  temporaliniai_duomenys: 'įvykio data: 1377 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir atitinka citatoje nurodytus faktus.'
   pagrindžia:
     - c-001
 
@@ -113,14 +125,4 @@ Vytauto veiksmai sutrikdė ordino kariuomenės aprūpinimą.
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/daiktai/Duona]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/asmenys/Vygandas]]
-- [[objektai/zodynas/maršalka]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/žygis]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] dalyvavo_musyje Vytauto žygis į Ordino žemes (1377 m.)

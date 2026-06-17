@@ -18,6 +18,11 @@ Livonijos magistras Burchardas Harenas su ordino riteriais ir kariais išsireng�
 - t-001
   global_id: t-186188
   teiginys: 'Livonijos magistras Burchardas Harenas su ordino riteriais ir kariais išsirengė į karą prieš Lietuvą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra faktinis sakinys apie Burchardo Hareno veiksmą ir paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
 
@@ -40,7 +45,3 @@ Livonijos magistras Burchardas Harenas su ordino riteriais ir kariais išsireng�
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/magistras]]

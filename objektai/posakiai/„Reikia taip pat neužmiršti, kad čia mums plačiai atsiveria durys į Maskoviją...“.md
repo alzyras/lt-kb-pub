@@ -27,6 +27,11 @@ Vienas jų tada rašė: „Reikia taip pat neužmiršti, kad čia mums plačiai 
 - t-001
   global_id: t-77854
   teiginys: 'Vilniaus akademiją steigęs jėzuitas rašė, kad iš Vilniaus atsiveria kelias į Maskoviją, o per totorius galima pasiekti Kiniją.'
+  sudarymo_pagrindimas: 'Pašalintas puslapio triukšmas ir fragmentas perrašytas į pilną sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Europa; mentioned_place: Kinija; mentioned_place: Krokuva; mentioned_place: Maskva; mentioned_place: Peterburgas; mentioned_place: Vilnius; mentioned_place: Švedija'
+  temporaliniai_duomenys: 'įvykio data: 1626-1634; įvykio data: 1634 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas puslapio triukšmas ir fragmentas perrašytas į pilną sakinį.'
   pagrindžia:
     - c-001
 
@@ -55,7 +60,3 @@ Vienas jų tada rašė: „Reikia taip pat neužmiršti, kad čia mums plačiai 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Totoriai]]

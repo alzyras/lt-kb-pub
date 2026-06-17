@@ -3,11 +3,19 @@ tipas: asmuo
 pavadinimas: 'Zofija Algimantaitė'
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
+datos:
+  - '1928 m.'
+date_start: '1928'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - krikštas
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'modernioji Lietuva'
 ---
 # Zofija Algimantaitė
 
@@ -21,6 +29,11 @@ ją Algimantaitę, Vytauto dvare išauklėtą ir, be to, giminaitę, bet jos kar
 - t-001
   global_id: t-34776
   teiginys: 'Zofija Algimantaitė buvo išauklėta Vytauto dvare ir laikyta jo giminaite.'
+  sudarymo_pagrindimas: 'Pašalinta sakinio pradžios nuotrupa ir paliktas paremtas faktas.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Alšėnai; mentioned_place: Kaunas; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1928 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalinta sakinio pradžios nuotrupa ir paliktas paremtas faktas.'
   pagrindžia:
     - c-001
 
@@ -46,8 +59,3 @@ ją Algimantaitę, Vytauto dvare išauklėtą ir, be to, giminaitę, bet jos kar
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

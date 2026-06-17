@@ -29,6 +29,11 @@ Jono, Gniezno arkivysk.
 - t-001
   global_id: t-34813
   teiginys: 'Gniezno arkivyskupas Mikalojus 1415 m. buvo į Konstanciją išsiųstos Lietuvos ir Lenkijos vyskupų delegacijos narys.'
+  sudarymo_pagrindimas: 'Pradinis tekstas per trumpas ir fragmentiškas; citata palaiko konkretų vaidmenį.'
+  susije_objektai: 'mentioned_place: Breslavas; mentioned_place: Gniezno; mentioned_place: Konstancija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Lvovas; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1415 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis tekstas per trumpas ir fragmentiškas; citata palaiko konkretų vaidmenį.'
   pagrindžia:
     - c-001
 

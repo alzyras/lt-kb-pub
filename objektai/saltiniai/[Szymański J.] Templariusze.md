@@ -26,6 +26,11 @@ Dusburgietis teigia, kad [Szymański J.] Templariusze —SSS, Wrocław—Warszaw
 - t-001
   global_id: t-61305
   teiginys: 'J. Szymańskio straipsnis „Templariusze“ paskelbtas 1977 m. leidinio SSS šešto tomo pirmoje dalyje, 48-49 puslapiuose.'
+  sudarymo_pagrindimas: 'Citata leidžia suformuluoti pilną bibliografinį faktą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
+  temporaliniai_duomenys: 'įvykio data: 1977 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata leidžia suformuluoti pilną bibliografinį faktą.'
   pagrindžia:
     - c-001
 

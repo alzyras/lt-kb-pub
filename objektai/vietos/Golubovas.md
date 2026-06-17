@@ -22,6 +22,7 @@ Karas susmulkėjo į eilę atskirų susirėmimų ir pilių apgulimų, kurių tik
 - t-001
   global_id: t-32178
   teiginys: 'Per karą iš apgultų pilių buvo paimtas tik Golubovas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Viena'
   pagrindžia:
     - c-001
 

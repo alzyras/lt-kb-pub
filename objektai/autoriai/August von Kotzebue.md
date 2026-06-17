@@ -13,6 +13,7 @@ tags:
   - kunigaikštis
   - mokslininkas
   - ordinas
+  - vyskupas
 amziai: []
 periodo_grupes: []
 ---
@@ -28,6 +29,8 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas. Trys 
 - t-001
   global_id: t-87938
   teiginys: 'Augustas von Kotzebue išrašė tris Gedimino laiškus iš slaptojo Kryžiuočių archyvo Karaliaučiuje ir įdėjo juos į savo veikalą.'
+  sudarymo_pagrindimas: 'Citata palaiko faktą, bet teiginyje yra bibliografinio ir OCR triukšmo.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/autoriai/Kotzebue|Kotzebue]]'
   pagrindžia:
     - c-002
 
@@ -35,6 +38,11 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas. Trys 
 - t-002
   global_id: t-87939
   teiginys: 'Michałas Balińskis nesutiko su Kotzebue datavimu, kad minėtas įvykis nutiko tarp 1432 m. rugpjūčio 14 ir 28 d.'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo OCR fragmentas; citata palaiko tik autoriaus polemiką dėl datos.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Antspaudai|Antspaudai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/autoriai/Kotzebue|Kotzebue]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]'
+  temporaliniai_duomenys: 'įvykio data: 1432 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys buvo OCR fragmentas; citata palaiko tik autoriaus polemiką dėl datos.'
   pagrindžia:
     - c-001
 
@@ -42,6 +50,8 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas. Trys 
 - t-003
   global_id: t-87940
   teiginys: 'Kotzebue rašinyje „Switrigail“ gynė Švitrigailą, vaizduodamas jį kaip herojų ir didį žmogų.'
+  sudarymo_pagrindimas: 'Citata palaiko faktą, bet teiginys fragmentiškas ir su OCR triukšmu.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/Kotzebue|Kotzebue]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-006
 
@@ -49,6 +59,11 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas. Trys 
 - t-004
   global_id: t-87941
   teiginys: 'Kotzebue veikale pateikti skundo punktai atitiko Raynaldo 1324 m. nurodytus punktus.'
+  sudarymo_pagrindimas: 'Citata palaiko faktą, bet pradinė formuluotė yra nutrūkusi.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/autoriai/Kotzebue|Kotzebue]]; mentioned_person: [[objektai/asmenys/Vygandas|Vygandas]]'
+  temporaliniai_duomenys: 'įvykio data: 1324 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko faktą, bet pradinė formuluotė yra nutrūkusi.'
   pagrindžia:
     - c-004
 
@@ -56,6 +71,8 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas. Trys 
 - t-005
   global_id: t-87942
   teiginys: 'Kotzebue tikėjosi Gedimino laiškų originalus rasti Ordino archyve ir apkaltinti Ordiną nauja piktadaryste.'
+  sudarymo_pagrindimas: 'Citata palaiko sakinį, bet pirminis teiginys yra retorinis klausimas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/autoriai/Kotzebue|Kotzebue]]'
   pagrindžia:
     - c-003
 
@@ -63,6 +80,8 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas. Trys 
 - t-006
   global_id: t-87944
   teiginys: 'Michałas Balińskis Kotzebue „Prūsijos istoriją“ vadino geriausiu dokumentų vertės paliudijimu.'
+  sudarymo_pagrindimas: 'Citata perteikia autoriaus vertinimą, todėl reikalinga šaltinio atribucija.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/autoriai/Kotzebue|Kotzebue]]; mentioned_place: Prūsija; mentioned_place: Viena'
   pagrindžia:
     - c-005
 
@@ -70,9 +89,17 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas. Trys 
 - t-007
   global_id: t-87945
   teiginys: 'Kotzebue citavo Slaptajame archyve buvusį Švitrigailos laišką didžiajam magistrui, rašytą iš Trakų 1432 m. rugpjūčio 13 d.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir paremtas citata apie Kotzebue cituotą laišką.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/autoriai/Kotzebue|Kotzebue]]; mentioned_person: [[objektai/asmenys/Tame (Baigos brolis)|Tame (Baigos brolis)]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Kistrinas; mentioned_place: Trakai; mentioned_place: Vroclavas'
+  temporaliniai_duomenys: 'įvykio data: 1432 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, aiškus ir paremtas citata apie Kotzebue cituotą laišką.'
   pagrindžia:
     - c-007
-
+- susijęs iš [[objektai/autoriai/Johannes Voigt Foigtas.md#claim-t-87936|Johannes Voigt Foigtas]]: Foigtas išvertė į lenkų kalbą tris Gedimino laiškus ir pataisė jų lotynišką tekstą.
+- susijęs iš Preussens aeltere Geschichte: Augustas Kotzebue į „Preussens aeltere Geschichte“ įdėjo tris Gedimino laiškus iš slaptojo Kryžiuočių archyvo Karaliaučiuje.
+- susijęs iš Karaliaučius: Karaliaučiaus slaptajame Kryžiuočių archyve buvo saugomi trys Gedimino laiškai.
+- susijęs iš Karaliaučius: Trys Gedimino laiškai buvo saugomi slaptajame Kryžiuočių archyve Karaliaučiuje ir paskelbti Augusto Kotzebue veikale.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -249,16 +276,3 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas. Trys 
   statusas: verified
   pagrindžia:
     - t-007
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Antspaudai]]
-- [[objektai/autoriai/Kotzebue]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Lotynai]]
-- [[objektai/asmenys/Tame (Baigos brolis)]]
-- [[objektai/zodynas/didysis magistras]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/asmenys/Švitrigaila]]
-- [[objektai/posakiai/homo furiosus, ac crapula infamis]]

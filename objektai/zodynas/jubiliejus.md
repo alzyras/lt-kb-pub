@@ -27,9 +27,14 @@ Dusburgietis teigia, kad apie jubiliejaus metų indulgenciją Tais pačiais meta
 - t-001
   global_id: t-58906
   teiginys: 'Per jubiliejų popiežius Bonifacas suteikė visišką nuodėmių atleidimą lankantiems apaštalų Petro ir Pauliaus šventoves.'
+  sudarymo_pagrindimas: 'Teiginys perrašytas į vientisą sakinį be OCR klaidų ir nuorodų triukšmo.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/indulgencija|indulgencija]]'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176734|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Atgimstančios lietuvių tautos sąmonėje Vytautas buvo pasirinktas valstybės ir tautos didvyriu.
+- susijęs iš [[objektai/autoriai/A. Alekna.md#claim-t-64505|A. Alekna]]: Prof. A. Alekna peržiūrėjo ir patikrino apie Vytautą Didįjį išleistą plačią monografiją.
+- susijęs iš [[objektai/grupes/Sakalo bendrovė.md#claim-t-35760|Sakalo bendrovė]]: Vytauto Didžiojo 500 metų jubiliejaus proga „Sakalo“ bendrovė išleido plačią monografiją apie Vytautą Didįjį.
+- susijęs iš [[objektai/ivykiai/Vytauto mirties 500 metų jubiliejaus minėjimas (1930 m.).md#claim-t-66990|Vytauto mirties 500 metų jubiliejaus minėjimas (1930 m.)]]: 1930 m. iškilmingai pažymėtas Vytauto mirties 500 metų jubiliejus.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -46,11 +51,3 @@ Dusburgietis teigia, kad apie jubiliejaus metų indulgenciją Tais pačiais meta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/indulgencija]]
-- [[objektai/autoriai/A. Alekna]]
-- [[objektai/grupes/Sakalo bendrovė]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/ivykiai/Vytauto mirties 500 metų jubiliejaus minėjimas (1930 m.)]]

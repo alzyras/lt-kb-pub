@@ -21,6 +21,8 @@ LDK kariuomenė turėjo daug sunkumų su karo vadais (kitaip nei Lenkijos kariuo
 - t-001
   global_id: t-19045
   teiginys: 'Juzefas Poniatovskis vadovavo Lenkijos kariuomenei Ukrainoje.'
+  sudarymo_pagrindimas: 'Citata palaiko glaustą faktą apie asmens vaidmenį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkijos kariuomenė|Lenkijos kariuomenė]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_place: Brasta; mentioned_place: Lenkija; mentioned_place: Ukraina'
   pagrindžia:
     - c-001
 
@@ -39,9 +41,3 @@ LDK kariuomenė turėjo daug sunkumų su karo vadais (kitaip nei Lenkijos kariuo
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkijos kariuomenė]]
-- [[objektai/grupes/Lietuvos kariuomenė]]
-- [[objektai/ivykiai/Brastos pasipriešinimas 1792 m. kare]]

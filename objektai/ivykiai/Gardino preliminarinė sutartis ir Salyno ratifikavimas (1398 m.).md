@@ -45,6 +45,11 @@ Nenurodyta
 - t-001
   global_id: t-95956
   teiginys: '1398 m. Gardine Vytautas sudarė preliminarinę sutartį su Ordinu, siekdamas laisvų rankų Rytuose ir santykiuose su lenkais.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir turi sąrašo fragmentą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Gardinas; mentioned_place: Naugardas; mentioned_place: Nevėžis'
+  temporaliniai_duomenys: 'įvykio data: 1398 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs ir turi sąrašo fragmentą.'
   pagrindžia:
     - c-001
 
@@ -52,6 +57,11 @@ Nenurodyta
 - t-002
   global_id: t-95957
   teiginys: '1398 m. spalio 12 d. Gardino sutartis buvo iškilmingai ratifikuota Salyno saloje Nemune.'
+  sudarymo_pagrindimas: 'Citata pagrindžia faktą, bet reikia sutvarkyti OCR ir pakeisti neaiškų įvardį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Gardinas; mentioned_place: Livonija; mentioned_place: Nemunas; mentioned_place: Prūsai; mentioned_place: Salynas'
+  temporaliniai_duomenys: 'sutarties data: 1398 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia faktą, bet reikia sutvarkyti OCR ir pakeisti neaiškų įvardį.'
   pagrindžia:
     - c-002
 
@@ -96,10 +106,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/grupes/Lenkai]]

@@ -14,18 +14,20 @@ tags:
 
 ## Santrauka
 
-„Codex epistolaris saeculi decimi quinti“ yra XV amžiaus laiškų rinkinys, kurio 1-3 tomus parengė J. Sokołowskis, J. Szujskis ir A. Lewickis. „Cod. ep. saec. XV“ nurodomas kaip vienas leidinių, susijusių su išlikusių dokumentų publikavimu.
+Šis leidinys minimas kaip XV amžiaus laiškų rinkinys. Vienas paminėjimas jį įtraukia tarp išspausdintų dokumentų, o kitas pateikia pilną leidinio pavadinimą, tomus ir leidėjus.
 
 ## Teiginiai
+
 <a id="claim-t-67360"></a>
 - t-001
   global_id: t-67360
   teiginys: '„Codex epistolaris saeculi decimi quinti“ yra XV amžiaus laiškų rinkinys, kurio 1-3 tomus parengė J. Sokołowskis, J. Szujskis ir A. Lewickis.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/A. Lewickis|A. Lewickis]]'
   pagrindžia:
     - c-001
 
+## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |

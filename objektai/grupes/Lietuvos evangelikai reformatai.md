@@ -32,7 +32,7 @@ amziai:
 
 ## Santrauka
 
-XVI a. šeštajame ir septintajame dešimtmečiais beveik visi Lietuvos didikai buvo perėję į reformaciją, o kalvinizmas vėliau pradėjo nykti.
+Lietuvos reformacijos ryškiausia ir įtakingiausia protestantų figūra – LDK kancleris, Vilniaus vaivada Mikalojus Radvila Juodasis (1515–1565), 1563 m. išleidęs lenkiškai „Brastos Bibliją“.
 
 ## Teiginiai
 
@@ -40,6 +40,11 @@ XVI a. šeštajame ir septintajame dešimtmečiais beveik visi Lietuvos didikai 
 - t-001
   global_id: t-45013
   teiginys: 'XVI a. šeštajame ir septintajame dešimtmečiais beveik visi Lietuvos didikai buvo perėję į reformaciją, o kalvinizmas vėliau pradėjo nykti.'
+  sudarymo_pagrindimas: 'Pataisyta gramatika ir išlaikyta citatos reikšmė.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos didikai|Lietuvos didikai]]; mentioned_group: [[objektai/grupes/Protestantai|Protestantai]]; mentioned_object: [[objektai/zodynas/reformacija|reformacija]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]]; mentioned_person: [[objektai/asmenys/Mikalojus Radvila Juodasis|Mikalojus Radvila Juodasis]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1563 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pataisyta gramatika ir išlaikyta citatos reikšmė.'
   pagrindžia:
     - c-001
 
@@ -61,13 +66,3 @@ XVI a. šeštajame ir septintajame dešimtmečiais beveik visi Lietuvos didikai 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Mikalojus Radvila]]
-- [[objektai/asmenys/Mikalojus Radvila Juodasis]]
-- [[objektai/grupes/Protestantai]]
-- [[objektai/asmenys/Radvila]]
-- [[objektai/zodynas/reformacija]]
-- [[objektai/zodynas/vaivada]]
-- [[objektai/grupes/Lietuvos didikai]]

@@ -21,9 +21,14 @@ Todėl šiuo raštu įgaliojame visus seniūnus ir mūsų valdinius, kad, iškil
 - t-001
   global_id: t-86527
   teiginys: 'Seniūnai ir valdiniai įpareigoti teikti pagalbą, kai juos kviečia Vilniaus vyskupo arba jo institucijos instigatorius.'
+  sudarymo_pagrindimas: 'Pirminis tekstas buvo nebaigtas fragmentas; citata pagrindžia pilną faktinį sakinį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/statutas|statutas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Žygimantas Senasis.md#claim-t-173327|Žygimantas Senasis]]: Žygimantas Senasis suteikė Vilniaus vyskupui Povilui pasaulietinės valdžios įgaliojimus bažnytinėms cenzūroms vykdyti.
+- susijęs iš [[objektai/ivykiai/Žygimanto Senojo privilegijos Vilniaus vyskupui dėl erezijos, jurisdikcijos ir prievolių suteikimas (1542 m.).md#claim-t-86977|Žygimanto Senojo privilegijos Vilniaus vyskupui dėl erezijos, jurisdikcijos ir prievolių suteikimas (1542 m.)]]: 1542 m. Žygimanto Senojo privilegija suteikė Vilniaus vyskupui Povilui ir jo įpėdiniams pasaulietinės valdžios paramą bažnytinėms bausmėms vykdyti.
+- susijęs iš [[objektai/ivykiai/Žygimanto Senojo privilegijos Vilniaus vyskupui dėl jurisdikcijos ir prievolių suteikimas (1542 m.).md#claim-t-86978|Žygimanto Senojo privilegijos Vilniaus vyskupui dėl jurisdikcijos ir prievolių suteikimas (1542 m.)]]: 1542 m. Žygimanto Senojo privilegija suteikė Vilniaus vyskupui Povilui ir jo įpėdiniams pasaulietinės valdžios paramą bažnytinėms bausmėms vykdyti.
+- susijęs iš [[objektai/paprociai/Vilniaus vyskupo bažnytinių cenzūrų vykdymas pasitelkiant pasaulietinę valdžią.md#claim-t-87311|Vilniaus vyskupo bažnytinių cenzūrų vykdymas pasitelkiant pasaulietinę valdžią]]: Vilniaus vyskupui Povilui ir jo įpėdiniams suteikta pasaulietinė valdžia prieš ilgiau kaip metus bažnytinių cenzūrų vengusius asmenis.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -46,11 +51,3 @@ Todėl šiuo raštu įgaliojame visus seniūnus ir mūsų valdinius, kad, iškil
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/statutas]]
-- [[objektai/paprociai/Vilniaus vyskupo bažnytinių cenzūrų vykdymas pasitelkiant pasaulietinę valdžią]]
-- [[objektai/asmenys/Žygimantas Senasis]]
-- [[objektai/ivykiai/Žygimanto Senojo privilegijos Vilniaus vyskupui dėl erezijos, jurisdikcijos ir prievolių suteikimas (1542 m.)]]
-- [[objektai/ivykiai/Žygimanto Senojo privilegijos Vilniaus vyskupui dėl jurisdikcijos ir prievolių suteikimas (1542 m.)]]

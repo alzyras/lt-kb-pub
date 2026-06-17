@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Tai rodo Vygrių krašto vietovardžiai (Falk K.-O., Wody wigierskie..., p. 3).
+Dusburgietis teigia, kad tai rodo Vygrių krašto vietovardžiai (Falk K.-O., Wody wigierskie..., p. 3).
 
 ## Teiginiai
 
@@ -21,6 +21,8 @@ Tai rodo Vygrių krašto vietovardžiai (Falk K.-O., Wody wigierskie..., p. 3).
 - t-001
   global_id: t-61071
   teiginys: 'Tai rodo Vygrių krašto vietovardžiai (Falk K.-O., Wody wigierskie..., p. 3).'
+  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
+  susije_objektai: 'mentioned_place: Sūduva'
   pagrindžia:
     - c-001
 

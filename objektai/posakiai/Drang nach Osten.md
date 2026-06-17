@@ -33,6 +33,8 @@ amziai:
 - t-001
   global_id: t-35969
   teiginys: 'Žalgirio laukuose pirmą kartą buvo suduotas smūgis vokiečių siekimui „Drang nach Osten“, tai yra veržimuisi į Rytus.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie posakio vartojimą ir atitinka citatą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
   pagrindžia:
     - c-001
 
@@ -40,6 +42,8 @@ amziai:
 - t-002
   global_id: t-35970
   teiginys: 'Žalgirio laukuose pirmą kartą buvo suduotas smūgis vokiečių siekimui „Drang nach Osten“ veržtis į Rytus.'
+  sudarymo_pagrindimas: 'Teiginys gramatiškas, konkretus ir paremtas ta pačia citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
   pagrindžia:
     - c-001
 
@@ -61,7 +65,3 @@ amziai:
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Vokiečiai]]

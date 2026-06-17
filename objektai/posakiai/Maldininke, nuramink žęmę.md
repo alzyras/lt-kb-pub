@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-„Fridlando“ vardas lotyniškai reiškė posakį „Maldininke, nuramink žęmę“. Petras Dusburgietis aiškina, kad „Fridlando“ vardas lotyniškai reiškia „Maldininke, nuramink žęmę“.
+Dusburgietis teigia, kad taigi ir šis markgrafas, apdairus ir protingas vyras, įsakė pastatyti du karo laivus, iš katrų mažesnysis vadinosi „Piligrimu“, o didesnysis — „Fridlandu“, o šitai lotyniškai reiškia „Maldininke, nuramink žęmę“. Dusburgietis teigia, kad šie laivai padėjo pastatyti dvi pilis: Elbingo ir Baigos ir apsaugoti Gėlo vandens marias241 nuo netikėlių, kurie nuo to laiko nebedrįso čia nė vienas pasirodyti. Tiedu laivai po daugelio metų buvo paskandinti Drūsinės ežere. Šitaip įvykdęs maldininko įžadus.
 
 ## Teiginiai
 
@@ -23,6 +23,8 @@ tags:
 - t-001
   global_id: t-59124
   teiginys: '„Fridlando“ vardas lotyniškai reiškė posakį „Maldininke, nuramink žęmę“.'
+  sudarymo_pagrindimas: 'Citata tiesiogiai sieja didesniojo laivo vardą su posakio reikšme.'
+  susije_objektai: 'mentioned_place: Dubysa'
   pagrindžia:
     - c-001
 
@@ -30,6 +32,11 @@ tags:
 - t-002
   global_id: t-184036
   teiginys: 'Petras Dusburgietis aiškina, kad „Fridlando“ vardas lotyniškai reiškia „Maldininke, nuramink žęmę“.'
+  teiginio_tipas: 'saltinio_teiginys'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra apie vardo aiškinimą, todėl tinka šaltinio atribucija.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_person: [[objektai/autoriai/Petras Dusburgietis|Petras Dusburgietis]]'
   pagrindžia:
     - c-002
 
@@ -65,12 +72,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/ežeras]]
-
-### Susiję objektai
-- [[objektai/daiktai/Laivai]]
-- [[objektai/autoriai/Petras Dusburgietis]]
-- [[objektai/ivykiai/Meiseno markgrafo karo laivų „Piligrimas“ ir „Fridlandas“ panaudojimas bei pasitraukimas]]

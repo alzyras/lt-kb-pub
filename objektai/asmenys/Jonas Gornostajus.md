@@ -18,6 +18,12 @@ Karalius pavedė Jonui Gornostajui, Lietuvos raštininkui, kartu su kitais pasiu
 - t-001
   global_id: t-186047
   teiginys: 'Karalius pavedė Jonui Gornostajui, Lietuvos raštininkui, kartu su kitais pasiuntiniais vykti pas Vasilijų į Maskvą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Reikia aiškiai nurodyti asmens vaidmenį ir užduotį.'
+  susije_objektai: 'territory: Lietuva; territory: Maskva; territory: Trakai; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_person: [[objektai/asmenys/Ivanas|Ivanas]]; mentioned_person: [[objektai/asmenys/Ivanas Vasiljevičius|Ivanas Vasiljevičius]]; mentioned_person: [[objektai/asmenys/Vasilijus|Vasilijus]]; mentioned_person: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Trakai'
+  semantiniai_rysiai: '[[objektai/asmenys/Jonas Gornostajus|Jonas Gornostajus]] buvo valdovas Lietuva; [[objektai/asmenys/Jonas Gornostajus|Jonas Gornostajus]] buvo valdovas Maskva; [[objektai/asmenys/Jonas Gornostajus|Jonas Gornostajus]] buvo valdovas Trakai'
   pagrindžia:
     - c-001
 
@@ -25,6 +31,11 @@ Karalius pavedė Jonui Gornostajui, Lietuvos raštininkui, kartu su kitais pasiu
 - t-002
   global_id: t-186048
   teiginys: 'Lietuvos raštininkas Jonas Gornostajus karaliaus vardu atsakė į prašymus dėl valachų pasiuntinių ir Severino Norvedo.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Joną Gornostajų ir paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_group: [[objektai/grupes/Valachai|Valachai]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Viena'
   pagrindžia:
     - c-002
 
@@ -32,6 +43,11 @@ Karalius pavedė Jonui Gornostajui, Lietuvos raštininkui, kartu su kitais pasiu
 - t-003
   global_id: t-186049
   teiginys: 'Jonas Gornostajus, Lietuvos iždo vyriausiasis valdytojas, karaliaus ir senato vardu atsakė į Ivano Ovčinos laišką.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citatą galima perrašyti į aiškų sakinį apie asmenį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/legatai|legatai]]; mentioned_object: [[objektai/zodynas/senatas|senatas]]; mentioned_person: [[objektai/asmenys/Ivanas|Ivanas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Ovčina|Ovčina]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 
@@ -102,17 +118,6 @@ Karalius pavedė Jonui Gornostajui, Lietuvos raštininkui, kartu su kitais pasiu
     - t-003
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Aleksandras]]
-- [[objektai/asmenys/Aleksandras Jogailaitis]]
-- [[objektai/asmenys/Ivanas]]
-- [[objektai/asmenys/Ivanas Vasiljevičius]]
-- [[objektai/asmenys/Jonas]]
-- [[objektai/grupes/Rytas]]
-- [[objektai/grupes/Valachai]]
-- [[objektai/asmenys/Vasilijus]]
-- [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)]]
-- [[objektai/zodynas/legatai]]
-- [[objektai/zodynas/Miera|miera]]
-- [[objektai/zodynas/senatas]]
-- [[objektai/asmenys/Petras Kiška, Bogušas Bogovitinas ir Stanislovas Daugirdas]]
+- Jonas Gornostajus buvo_valdovas [[objektai/vietos/Lietuva]]
+- Jonas Gornostajus buvo_valdovas [[objektai/vietos/Maskva]]
+- Jonas Gornostajus buvo_valdovas [[objektai/vietos/Trakai]]

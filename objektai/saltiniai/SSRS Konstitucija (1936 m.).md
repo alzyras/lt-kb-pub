@@ -5,8 +5,10 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1936 m.'
+  - '1944 m.'
+  - '1953 m.'
 date_start: '1936'
-date_end: ''
+date_end: '1953'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -26,6 +28,8 @@ Stalino konstitucijos, rusų kalbos dėstymas, uždrausta tikyba, sumažintas li
 - t-001
   global_id: t-21243
   teiginys: 'Mokytojai buvo verčiami studijuoti SSRS konstituciją ir Sovietų Sąjungos komunistų partijos istoriją.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir pagrįstas citata.'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: SSRS'
   pagrindžia:
     - c-002
 
@@ -33,6 +37,11 @@ Stalino konstitucijos, rusų kalbos dėstymas, uždrausta tikyba, sumažintas li
 - t-002
   global_id: t-21244
   teiginys: 'Mokyklose buvo įvestas privalomas J. Stalino konstitucijos ir rusų kalbos dėstymas.'
+  sudarymo_pagrindimas: 'Perrašyta be nereikalingo pasyvo jungties, išlaikant citatos faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/konstitucijos|konstitucijos]]'
+  temporaliniai_duomenys: 'įvykio data: 1944-1953; įvykio data: 1953 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Perrašyta be nereikalingo pasyvo jungties, išlaikant citatos faktą.'
   pagrindžia:
     - c-001
 

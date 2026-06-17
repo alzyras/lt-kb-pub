@@ -46,6 +46,11 @@ Nenurodyta
 - t-001
   global_id: t-86954
   teiginys: 'Andrius Algirdaitis 1380 m. rugsėjo 8 d. Kulikovo lauke kovėsi prieš totorius ir daug prisidėjo prie pergalės.'
+  sudarymo_pagrindimas: 'Citata palaiko asmens veiksmą mūšyje, bet pradinis teiginys yra fragmentiškas ir su OCR triukšmu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Polockiečiai|Polockiečiai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Andrius Algirdaitis|Andrius Algirdaitis]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Polockas; mentioned_place: Vilnius; mentioned_place: Vitebskas'
+  temporaliniai_duomenys: 'įvykio data: 1380 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko asmens veiksmą mūšyje, bet pradinis teiginys yra fragmentiškas ir su OCR triukšmu.'
   pagrindžia:
     - c-001
 
@@ -89,14 +94,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- [[objektai/grupes/Polockiečiai]]
-- [[objektai/asmenys/Skirgaila]]
-- [[objektai/asmenys/Andrius Algirdaitis]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/asmenys/Švitrigaila]]
-- [[objektai/asmenys/Dmitrijus Doniškis]]

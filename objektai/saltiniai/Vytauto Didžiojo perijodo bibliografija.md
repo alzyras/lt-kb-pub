@@ -18,7 +18,7 @@ amziai:
 
 ## Santrauka
 
-Vytauto Didžiojo perijodo bibliografijoje nurodytas Z. Ivinskio straipsnis „Kovos bruožai dėl Žemaičių ir jų sienų“.
+: Kovos bruožai dėl Žemaičių ir jų sienų, Athenaeum, VI, 1935, 54-117 p. — (”) Vytauto Didžiojo perijodo (^37) DlugO, XIII, 119 p.
 
 ## Teiginiai
 
@@ -26,6 +26,8 @@ Vytauto Didžiojo perijodo bibliografijoje nurodytas Z. Ivinskio straipsnis „K
 - t-001
   global_id: t-100223
   teiginys: 'Vytauto Didžiojo perijodo bibliografijoje nurodytas Z. Ivinskio straipsnis „Kovos bruožai dėl Žemaičių ir jų sienų“.'
+  sudarymo_pagrindimas: 'Citata pagrindžia bibliografijos įrašą, o pradinė formuluotė yra OCR fragmentas.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/Z. Ivinskis|Z. Ivinskis]]'
   pagrindžia:
     - c-001
 

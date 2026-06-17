@@ -20,6 +20,7 @@ Dusburgietis teigia, kad 136 Milthaler F.
 - t-001
   global_id: t-60758
   teiginys: 'Milthaler F. parašė darbą „Die Grossgebietiger“, cituojamą 59–69 puslapiuose.'
+  sudarymo_pagrindimas: 'Citata pateikia autoriaus pavardę, veikalo pavadinimą ir puslapius.'
   pagrindžia:
     - c-001
 

@@ -27,6 +27,8 @@ Iš Liudvikos Gedgaudienės-Didžiulienės užrašų. Sukilimo metu dar vaiku bu
 - t-001
   global_id: t-49257
   teiginys: 'Liudvikos Gedgaudienės-Didžiulienės užrašuose minima į Salas atėjusi Lietuvos kariuomenė, sudaryta iš trijų didelių pulkų.'
+  sudarymo_pagrindimas: 'Pradinis teiginys per ilgas; citata pagrindžia trumpesnį faktą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Kariauna|Kariauna]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/asmenys/Dolega|Dolega]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -34,6 +36,8 @@ Iš Liudvikos Gedgaudienės-Didžiulienės užrašų. Sukilimo metu dar vaiku bu
 - t-002
   global_id: t-49259
   teiginys: 'Kunigas Mackevičius pamokslą sakė lenkiškai ir lietuviškai, o kariuomenė bei daugybė žmonių jo klausėsi lauke.'
+  sudarymo_pagrindimas: 'Pradinis tekstas turi OCR ir skyrybos triukšmo, bet faktas citatoje aiškiai paremtas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigas|kunigas]]'
   pagrindžia:
     - c-002
 

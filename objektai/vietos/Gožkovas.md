@@ -21,9 +21,12 @@ Soltykovičius (O stanie Akademii Krakowskiej, p. 115) rašo, kad „Mikalojus i
 - t-001
   global_id: t-86187
   teiginys: 'Mikalojus iš Gožkovo buvo trečiasis Krokuvos akademijos rektorius ir trečiasis Lietuvos vyskupas nuo Vilniaus katedros įsteigimo.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys, o citata aiškiai nurodo Mikalojaus iš Gožkovo pareigas.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/Soltykovičius|Soltykovičius]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Krokuva; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/autoriai/Soltykovičius.md#claim-t-88098|Soltykovičius]]: Soltykovičius rašė, kad Mikalojus iš Gožkovo buvo trečiasis Krokuvos akademijos rektorius ir trečiasis Lietuvos vyskupas.
+- susijęs iš O stanie Akademii Krakowskiej: O stanie Akademii Krakowskiej nurodoma, kad Mikalojus iš Gožkovo buvo trečiasis Krokuvos akademijos rektorius.
 ## Reikšmingi paminėjimai
 
 - c-001

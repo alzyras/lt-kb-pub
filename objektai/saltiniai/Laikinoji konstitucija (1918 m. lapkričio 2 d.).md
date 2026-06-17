@@ -5,8 +5,9 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1918 m.'
+  - '1922 m.'
 date_start: '1918'
-date_end: ''
+date_end: '1922'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -18,7 +19,7 @@ amziai:
 
 ## Santrauka
 
-1918 m. lapkričio 2 d. Valstybės Taryba priėmė Laikinąją konstituciją ir pagal ją tapo įstatymų leidimo organu.
+1918 m. lapkričio 2 d. Taryba priėmė Laikinąją konstituciją, pati pagal ją tapdama įstatymų leidimo organu, o Tarybos prezidiumas (pirmininkas A.
 
 ## Teiginiai
 
@@ -26,6 +27,11 @@ amziai:
 - t-001
   global_id: t-21104
   teiginys: '1918 m. lapkričio 2 d. Valstybės Taryba priėmė Laikinąją konstituciją ir pagal ją tapo įstatymų leidimo organu.'
+  sudarymo_pagrindimas: 'Citata leidžia aiškiau įvardyti Valstybės Tarybą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Valstybės Taryba|Valstybės Taryba]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/organas|organas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_person: [[objektai/asmenys/Justinas Staugaitis|Justinas Staugaitis]]; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Vokietija'
+  temporaliniai_duomenys: 'įvykio data: iki 1922 m.; įvykio data: 1918 m.; įvykio data: 1922 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata leidžia aiškiau įvardyti Valstybės Tarybą.'
   pagrindžia:
     - c-001
 

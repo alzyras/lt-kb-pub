@@ -5,6 +5,7 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1904 m.'
+  - '1972 m.'
   - '1973 m.'
 date_start: '1904'
 date_end: '1973'
@@ -27,6 +28,11 @@ Be to, jis rašė : Lietuvių knygnešiai ir RSDDP literatūra (ligi 1904 m.) (L
 - t-001
   global_id: t-100183
   teiginys: '„Lietuvių knygnešiai ir RSDDP literatūra (ligi 1904 m.)“ paskelbtas „Lietuvos istorijos metraštyje“ 1972 m. tome, išleistame 1973 m.'
+  sudarymo_pagrindimas: 'Teiginys yra bibliografiškai tikslus ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1904 m.; įvykio data: 1972 m.; įvykio data: 1973 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra bibliografiškai tikslus ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
 

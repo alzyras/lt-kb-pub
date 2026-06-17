@@ -18,9 +18,16 @@ Pūtvės pilies seniūnas Spūdas išdavė pilį ir su tėvu, vaikais bei visa �
 - t-001
   global_id: t-186252
   teiginys: 'Pūtvės pilies seniūnas Spūdas išdavė pilį ir su tėvu, vaikais bei visa šeimyna pasidavė kryžiuočiams.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys aiškiai įvardija Spūdą, jo veiksmą ir pasekmę, o citata tai pagrindžia.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_place: Karšuva'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/ivykiai/Prūsijos kryžiuočių žygiai prieš Lietuvą, Pūtvės sunaikinimas ir Bisenės įgulos išžudymas (1307 m.).md#claim-t-185499|Prūsijos kryžiuočių žygiai prieš Lietuvą, Pūtvės sunaikinimas ir Bisenės įgulos išžudymas (1307 m.)]]: Kryžiuočiai nusiaubė Karšuvos žemę Žemaitijoje taip, kad jos gyventojai su turtu išsikėlė į Lietuvą.
+- susijęs iš Karšuva: Kryžiuočiai taip nusiaubė Karšuvos žemę Žemaitijoje, kad jos gyventojai su visu turtu turėjo išsikelti į Lietuvą.
+- susijęs iš Žemaitija: Kryžiuočiai taip nusiaubė Karšuvos žemę Žemaitijoje, kad jos gyventojai su visu turtu turėjo išsikelti į Lietuvą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -42,10 +49,3 @@ Pūtvės pilies seniūnas Spūdas išdavė pilį ir su tėvu, vaikais bei visa �
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/daiktai/Pilys]]
-- [[objektai/zodynas/seniūnas]]
-- [[objektai/ivykiai/Prūsijos kryžiuočių žygiai prieš Lietuvą, Pūtvės sunaikinimas ir Bisenės įgulos išžudymas (1307 m.)]]

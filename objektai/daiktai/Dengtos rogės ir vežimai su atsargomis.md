@@ -43,6 +43,8 @@ Nenurodyta
 - t-001
   global_id: t-87074
   teiginys: 'Metraštininkai pasakojo, kad į Vilnių atvažiavo 300 įvairios žvėrienos prikrautų vežimų.'
+  sudarymo_pagrindimas: 'Citata palaiko glaustą faktą apie vežimus, o pradinė formuluotė yra fragmentiška ir su OCR triukšmu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/daiktai/Vežimai|Vežimai]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Sudimantas|Sudimantas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -50,6 +52,8 @@ Nenurodyta
 - t-002
   global_id: t-87075
   teiginys: 'Vytautas į Vilnių pirmiausia pasiuntė daug dengtų rogių su atsargomis ir jose paslėptais ginkluotais žmonėmis.'
+  sudarymo_pagrindimas: 'Citata palaiko faktą, bet pradinėje formuluotėje yra OCR triukšmo ir perteklinio konteksto.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/gurguolė|gurguolė]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Polockas; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -102,15 +106,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bajorai]]
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
-- [[objektai/asmenys/Skirgaila]]
-- [[objektai/asmenys/Sudimantas]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/gurguolė]]
-- [[objektai/zodynas/kapitula]]
-- [[objektai/daiktai/Vežimai]]
-- [[objektai/daiktai/Vežimai, rogės, karietos ir brikai]]

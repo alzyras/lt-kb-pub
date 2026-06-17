@@ -18,7 +18,7 @@ amziai:
 
 ## Santrauka
 
-V. Mažiulio straipsnis „Apie senovės vakarų baltus bei jų santykius su slavais, ilirais ir germanais“ paskelbtas 1981 m. leidinyje „Iš lietuvių etnogenezės“.
+Dusburgietis teigia, kad mažiulis V.
 
 ## Teiginiai
 
@@ -26,6 +26,11 @@ V. Mažiulio straipsnis „Apie senovės vakarų baltus bei jų santykius su sla
 - t-001
   global_id: t-61164
   teiginys: 'V. Mažiulio straipsnis „Apie senovės vakarų baltus bei jų santykius su slavais, ilirais ir germanais“ paskelbtas 1981 m. leidinyje „Iš lietuvių etnogenezės“.'
+  sudarymo_pagrindimas: 'Pataisyta gramatika ir pašalinta perteklinė bibliografinė detalė, paliekant citata paremtą faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Germanai|Germanai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
+  temporaliniai_duomenys: 'įvykio data: 1981 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pataisyta gramatika ir pašalinta perteklinė bibliografinė detalė, paliekant citata paremtą faktą.'
   pagrindžia:
     - c-001
 

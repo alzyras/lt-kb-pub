@@ -18,9 +18,17 @@ Agilulfui viešpataujant, 591 m. daugelis buvusių arijonų kartu su stabmeldži
 - t-001
   global_id: t-185456
   teiginys: 'Agilulfui viešpataujant, 591 m. daugelis buvusių arijonų kartu su stabmeldžiais perėjo į krikščionybę.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai pagrįstas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/stabmeldžiai|stabmeldžiai]]; mentioned_place: Italija'
+  temporaliniai_duomenys: 'įvykio data: 591 m'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai pagrįstas citata.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/paprociai/Arijonų ir svetimšališkas laidojimas už miesto ant kalno.md#claim-t-87261|Arijonų ir svetimšališkas laidojimas už miesto ant kalno]]: Pagal vietinį Vilniaus paprotį Kasparas Bekešas dėl arijonų tikėjimo turėjęs būti palaidotas ant kalno už miesto.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -44,8 +52,3 @@ Agilulfui viešpataujant, 591 m. daugelis buvusių arijonų kartu su stabmeldži
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/stabmeldžiai]]
-- [[objektai/paprociai/Arijonų ir svetimšališkas laidojimas už miesto ant kalno]]

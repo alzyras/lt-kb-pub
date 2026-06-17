@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Po sovietinės sistemos žlugimo daugelis Lietuvos pramonės įmonių neteko žaliavų, rinkų ir užsakymų. Suomijos, laisvosios rinkos šalies, ekonomika smuko daugiau kaip dešimt procentų, nes 22 proc. produkcijos Suomija eksportavo į SSRS. Paaiškėjus, kad dauguma buvusių kolūkiečių nesugeba ar neturi galimybių vieni ūkininkauti, pradėtos steigti žemės ūkio bendrovės, tačiau dauguma jų irgi nemokėjo tvarkytis naujais laisvosios rinkos pagrindais ir per keletą metų bankrutavo.
+Netgi Suomijos, laisvosios rinkos šalies, ekonomika patyrė didesnį negu dešimties procentų nuosmukį, nes 22 proc. Paaiškėjus, kad dauguma buvusių kolūkiečių nesugeba ar neturi galimybių vieni ūkininkauti, pradėtos steigti žemės ūkio bendrovės, tačiau dauguma jų irgi nemokėjo tvarkytis naujais laisvosios rinkos pagrindais ir per keletą metų bankrutavo.
 
 ## Teiginiai
 
@@ -20,6 +20,8 @@ Po sovietinės sistemos žlugimo daugelis Lietuvos pramonės įmonių neteko ža
 - t-001
   global_id: t-75565
   teiginys: 'Po sovietinės sistemos žlugimo daugelis Lietuvos pramonės įmonių neteko žaliavų, rinkų ir užsakymų.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūksta ir turi būti sutrumpintas į pilną sakinį.'
+  susije_objektai: 'mentioned_place: Estija; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: SSRS; mentioned_place: Suomija'
   pagrindžia:
     - c-001
 
@@ -27,6 +29,8 @@ Po sovietinės sistemos žlugimo daugelis Lietuvos pramonės įmonių neteko ža
 - t-002
   global_id: t-75566
   teiginys: 'Suomijos, laisvosios rinkos šalies, ekonomika smuko daugiau kaip dešimt procentų, nes 22 proc. produkcijos Suomija eksportavo į SSRS.'
+  sudarymo_pagrindimas: 'Reikia sklandesnės formuluotės ir aiškaus antrojo sakinio dėmens subjekto.'
+  susije_objektai: 'mentioned_place: Estija; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: SSRS; mentioned_place: Suomija'
   pagrindžia:
     - c-001
 
@@ -34,6 +38,8 @@ Po sovietinės sistemos žlugimo daugelis Lietuvos pramonės įmonių neteko ža
 - t-003
   global_id: t-75567
   teiginys: 'Paaiškėjus, kad dauguma buvusių kolūkiečių nesugeba ar neturi galimybių vieni ūkininkauti, pradėtos steigti žemės ūkio bendrovės, tačiau dauguma jų irgi nemokėjo tvarkytis naujais laisvosios rinkos pagrindais ir per keletą metų bankrutavo.'
+  sudarymo_pagrindimas: 'Teiginys yra išsamus, gramatiškas ir pagrįstas citata.'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 

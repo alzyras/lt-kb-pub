@@ -41,6 +41,7 @@ Nenurodyta
 - t-001
   global_id: t-54331
   teiginys: 'Lietuvių genties iškilimą lėmė vyrų gausumas karo žygiuose, o šis iškilimas padėjo pagrindus būsimai Lietuvos valstybei.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
 
@@ -59,9 +60,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/ivykiai/Lietuvos valstybės sukūrimas XIII a. viduryje]]
-- [[objektai/ivykiai/Pirmasis savarankiškas lietuvių žygis į Rusios žemes (1183 m.)]]

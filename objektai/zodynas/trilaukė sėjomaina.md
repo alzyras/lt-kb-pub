@@ -23,9 +23,11 @@ Vykdant žemės reformą nyko senieji kaimai, žmonės kėlė savo sodybas į vi
 - t-001
   global_id: t-77806
   teiginys: 'Vykdant žemės reformą ir modernizuojant žemės ūkį Lietuvoje dingo trilaukė sėjomaina.'
+  sudarymo_pagrindimas: 'Pašalintas puslapio triukšmas ir išlaikytas citata pagrįstas faktas apie trilaukę sėjomainą.'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/zodynas/vienkiemiai.md#claim-t-77808|vienkiemiai]]: Vykdant žemės reformą žmonės kėlė sodybas į vienkiemius, nyko senieji kaimai ir dingo trilaukė sėjomaina.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -47,7 +49,3 @@ Vykdant žemės reformą nyko senieji kaimai, žmonės kėlė savo sodybas į vi
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/vienkiemiai]]

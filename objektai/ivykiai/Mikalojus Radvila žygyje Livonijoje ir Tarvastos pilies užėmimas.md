@@ -30,6 +30,11 @@ Nenurodyta
 - t-001
   global_id: t-185622
   teiginys: 'Jonas Volminskis įsakė husarams nulipti nuo arklių ir ietimis pulti Tarvastos pilies gynėjus.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata palaiko konkretų veiksmą per Tarvastos pilies užėmimą; pašalintas OCR triukšmas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/husarai|husarai]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]'
   pagrindžia:
     - c-001
 
@@ -52,8 +57,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Jonas]]
-- [[objektai/zodynas/husarai]]

@@ -22,6 +22,8 @@ Lietuvoj labai paplitęs pa­ protys gyvenvietes prie upių vadin­ ti, pridėju
 - t-001
   global_id: t-86625
   teiginys: 'Lietuvoje prie upių esančių gyvenviečių vardai dažnai sudaromi prie upės pavadinimo pridedant priešdėlį pa-.'
+  sudarymo_pagrindimas: 'Citata palaiko bendrą kalbinį faktą, o pradinis teiginys nutrūkęs.'
+  susije_objektai: 'mentioned_place: Brasta; mentioned_place: Dubysa; mentioned_place: Lietuva; mentioned_place: Paneriai; mentioned_place: Panevėžys; mentioned_place: Vilija; mentioned_place: Širvinta'
   pagrindžia:
     - c-001
 
@@ -52,7 +54,3 @@ Lietuvoj labai paplitęs pa­ protys gyvenvietes prie upių vadin­ ti, pridėju
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/paprociai/Gyvenviečių prie upių vardijimas su priešdėliu „pa-“]]

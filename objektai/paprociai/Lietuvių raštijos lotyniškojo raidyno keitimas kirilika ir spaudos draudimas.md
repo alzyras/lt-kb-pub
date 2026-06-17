@@ -3,10 +3,18 @@ tipas: paprotys
 pavadinimas: 'Lietuvių raštijos lotyniškojo raidyno keitimas kirilika ir spaudos draudimas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1864 m.'
+  - '1904 m.'
+date_start: '1864'
+date_end: '1904'
 sukurta: ''
 atnaujinta: ''
 tags:
   - paprotys
+amziai:
+  - 'XIX'
+  - 'XX'
 ---
 # Lietuvių raštijos lotyniškojo raidyno keitimas kirilika ir spaudos draudimas
 
@@ -40,6 +48,11 @@ Nenurodyta
 - t-001
   global_id: t-169867
   teiginys: 'M. Muravjovo nurodymu pradėta drausti lietuvių raštija tradiciniu raidynu, o draudimas galiojo iki 1904 m. pavasario.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas, konkretus ir tiksliai atitinka citatos informaciją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Rusija'
+  temporaliniai_duomenys: 'įvykio data: iki 1904 m.; įvykio data: 1864 m.; įvykio data: 1904 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas, konkretus ir tiksliai atitinka citatos informaciją.'
   pagrindžia:
     - c-002
 
@@ -47,6 +60,7 @@ Nenurodyta
 - t-002
   global_id: t-169869
   teiginys: 'Valdžia manė, kad etninės Lietuvos kaimo mokykloms reikia dvikalbių elementorių, kuriuose lietuviški vertimai būtų užrašyti kirilika.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/kirilika|kirilika]]; mentioned_place: Kaimas; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -54,6 +68,7 @@ Nenurodyta
 - t-003
   global_id: t-169870
   teiginys: 'Valdžia siekė kaimo mokykloms išleisti dvikalbius elementorius, kuriuose lietuviški vertimai būtų rašomi kirilika.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/kirilika|kirilika]]; mentioned_place: Kaimas; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -90,11 +105,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/zodynas/kirilika]]
-- [[objektai/asmenys/M. Muravjovas]]
-- [[objektai/asmenys/Michailas Muravjovas]]

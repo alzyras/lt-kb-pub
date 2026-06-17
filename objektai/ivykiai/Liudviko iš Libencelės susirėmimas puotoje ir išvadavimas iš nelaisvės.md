@@ -37,6 +37,9 @@ Nenurodyta
 - t-001
   global_id: t-62867
   teiginys: 'Nelaisvėje buvusį Liudviką iš Libencelės Skomantas nusivedė į Sūduvos galingųjų puotą, kur Liudvikas kalaviju nukovė jį užgauliojusį varžovą.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Pašalintas neaiškus įvardis ir perteklinis pasakojimas; įvykis suformuluotas aiškiai.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_person: [[objektai/asmenys/Skomantas|Skomantas]]; mentioned_place: Sūduva'
   pagrindžia:
     - c-001
 
@@ -44,6 +47,9 @@ Nenurodyta
 - t-002
   global_id: t-62868
   teiginys: 'Vėliau vienas Skomanto šeimynykštis išvadavo Liudviką iš Libencelės iš nelaisvės ir sugrąžino jį pas brolius.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Pašalinta atribucija ir išplėsta dalinė nuoroda į aiškų asmens vardą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/zodynas/šeimynykštis|šeimynykštis]]; mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]'
   pagrindžia:
     - c-002
 
@@ -85,11 +91,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Kalavijas]]
-- [[objektai/asmenys/Liudvikas]]
-- [[objektai/zodynas/šeimynykštis]]
-- [[objektai/asmenys/Skomantas]]
-- [[objektai/zodynas/šeimynykštis famulus]]

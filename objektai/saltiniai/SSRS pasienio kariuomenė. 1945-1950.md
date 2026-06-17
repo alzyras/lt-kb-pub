@@ -27,6 +27,11 @@ amziai:
 - t-001
   global_id: t-80760
   teiginys: '„SSRS pasienio kariuomenė. 1945-1950“ buvo išleista Maskvoje 1975 m.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, bet citata palaiko bibliografinį faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_place: Maskva'
+  temporaliniai_duomenys: 'įvykio data: 1975 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs, bet citata palaiko bibliografinį faktą.'
   pagrindžia:
     - c-001
 

@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Lenkijoje ir Lietuvoje tolerancijos ribos vėliau siaurėjo lėtai ir be prievartos, o daugiakonfesiškumas išsilaikė iki XX a. Lenkijoje ir Lietuvoje tolerancijos ribos vėliau siaurėjo lėtai ir be prievartos, o daugiakonfesiškumas išsilaikė iki XX a.
+Būtent iš LDK karaimų bendruomenės iškilo žymiausias, tolerancijos tyrėjų dažnai minimas Isaakas ben Abrahamas iš Trakų (1525–1586). LDK išsiskiria iš Vidurio Rytų Europos regiono daugiakonfesiškumo legitimavimo ar juridinio įforminimo sparta.
 
 ## Laikotarpis ir datos
 
@@ -43,6 +43,8 @@ Nenurodyta
 - t-001
   global_id: t-54262
   teiginys: 'Lenkijoje ir Lietuvoje tolerancijos ribos vėliau siaurėjo lėtai ir be prievartos, o daugiakonfesiškumas išsilaikė iki XX a.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie religinę toleranciją ir daugiakonfesiškumą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Karaimai|Karaimai]]; mentioned_object: [[objektai/zodynas/daugiakonfesiškumas|daugiakonfesiškumas]]; mentioned_object: [[objektai/zodynas/statutas|statutas]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -64,10 +66,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Karaimai]]
-- [[objektai/zodynas/daugiakonfesiškumas]]
-- [[objektai/zodynas/statutas]]
-- [[objektai/zodynas/daugiakonfesiškumas daugiakultūriškumas]]

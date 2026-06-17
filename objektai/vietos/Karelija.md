@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Kronikininkas pasakoja, kad apie 880 metus iš Danijos išvaryti tremtiniai įsikūrė Prūsijoje, Žemaitijoje ir Karelijoje.
+Likimo lemties tremtiniai, sutelkę į draugę valtis, vadovauja­ mi išsirinkto vado, persikėlė per jū­ rą ir įsikūrė Prūsijoje, Žemaitijoje bei Karelijoje, tarp vietinių gyventojų.
 
 ## Teiginiai
 
@@ -20,9 +20,16 @@ Kronikininkas pasakoja, kad apie 880 metus iš Danijos išvaryti tremtiniai įsi
 - t-001
   global_id: t-86194
   teiginys: 'Kronikininkas pasakoja, kad apie 880 metus iš Danijos išvaryti tremtiniai įsikūrė Prūsijoje, Žemaitijoje ir Karelijoje.'
+  sudarymo_pagrindimas: 'Citata pateikia kronikininko pasakojimą, todėl reikalinga šaltinio pozicijos atribucija.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kanutas|Kanutas]]'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/daiktai/Laivai, valtys, sieliai ir plaustai.md#claim-t-86991|Laivai, valtys, sieliai ir plaustai]]: Petro Olai kronikoje pasakojama, kad apie 880 metus Danijos tremtiniai valtimis persikėlė per jūrą ir įsikūrė Prūsijoje, Žemaitijoje bei Karelijoje.
+- susijęs iš [[objektai/daiktai/Valtys.md#claim-t-87124|Valtys]]: Apie 880 m. iš Danijos išvaryti tremtiniai sutelkė valtis, persikėlė per jūrą ir įsikūrė Prūsijoje, Žemaitijoje bei Karelijoje.
+- susijęs iš Prūsija: Apie 880 m. iš Danijos ištremti žmonės persikėlė per jūrą ir įsikūrė Prūsijoje, Žemaitijoje bei Karelijoje.
+- susijęs iš Prūsija: Apie 880 m. iš Danijos ištremti žmonės persikėlė per jūrą ir įsikūrė Prūsijoje, Žemaitijoje bei Karelijoje.
+- susijęs iš Žemaitija: Kronikininkas pasakoja, kad apie 880 m. iš Danijos ištremti žmonės persikėlė per jūrą ir įsikūrė Prūsijoje, Žemaitijoje bei Karelijoje.
+- susijęs iš Žemaitija: Kronikininkas pasakoja, kad apie 880 m. iš Danijos ištremti žmonės persikėlė per jūrą ir įsikūrė Prūsijoje, Žemaitijoje bei Karelijoje.
 ## Reikšmingi paminėjimai
 
 - c-001

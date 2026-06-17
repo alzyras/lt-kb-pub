@@ -44,6 +44,11 @@ Nenurodyta
 - t-001
   global_id: t-20576
   teiginys: 'Tikėta, kad šv. Kazimieras 1518 m. padėjo Lietuvos kariuomenei įveikti priešą prie Polocko, o 1519 m. laimėti mūšį prie Dauguvos.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai perteikia tikėjimą, kuriuo citatoje grindžiamos šv. Kazimierui priskirtos pergalės.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/globėjas|globėjas]]; mentioned_person: [[objektai/asmenys/Šv. Kazimieras|Šv. Kazimieras]]; mentioned_place: Dauguva; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Maskva'
+  temporaliniai_duomenys: 'įvykio data: 1518 m.; įvykio data: 1519 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai perteikia tikėjimą, kuriuo citatoje grindžiamos šv. Kazimierui priskirtos pergalės.'
   pagrindžia:
     - c-001
 
@@ -79,9 +84,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/globėjas]]
-- [[objektai/asmenys/Šv. Kazimieras]]
-- [[objektai/ivykiai/Šv. Kazimiero kanonizacija]]

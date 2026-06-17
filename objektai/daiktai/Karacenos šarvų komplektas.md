@@ -41,6 +41,8 @@ Nenurodyta
 - t-001
   global_id: t-40724
   teiginys: 'Karacenos šarvų komplektas priskiriamas Abiejų Tautų Respublikai ir datuojamas XVIII a.'
+  sudarymo_pagrindimas: 'Antraštinis fragmentas leidžia suformuluoti datavimo ir kilmės faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/daiktai/Šarvai|Šarvai]]'
   pagrindžia:
     - c-001
 
@@ -57,8 +59,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Šarvai]]
-- [[objektai/grupes/Abiejų Tautų Respublika]]

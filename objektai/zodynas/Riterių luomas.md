@@ -10,7 +10,7 @@ atnaujinta: ''
 
 ## Santrauka
 
-Kryžiaus karų poveikis sutramdė feodalizmo piktnaudžiavimą ir iš plėšikaujančios bajorijos suformavo riterių luomą. Balińskis riterių luomą vadino garbingiausiąja viduramžių institucija. Susirėmimas su Rytais prisidėjo prie riterių luomo susiformavimo iš plėšikaujančios bajorijos.
+Riterių luomas apibūdinamas kaip viduramžių institucija, kurios susiformavimas siejamas su Kryžiaus karais ir plėšikaujančios bajorijos pertvarkymu.
 
 ## Žodis ir formos
 
@@ -30,6 +30,7 @@ Vartojama bendrame Europos viduramžių ir Kryžiaus karų poveikio miestams kon
 - t-001
   global_id: t-55269
   teiginys: 'Kryžiaus karų poveikis sutramdė feodalizmo piktnaudžiavimą ir iš plėšikaujančios bajorijos suformavo riterių luomą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/feodalizmas|feodalizmas]]; mentioned_object: [[objektai/zodynas/luomas|luomas]]'
   pagrindžia:
     - c-001
 
@@ -37,6 +38,8 @@ Vartojama bendrame Europos viduramžių ir Kryžiaus karų poveikio miestams kon
 - t-002
   global_id: t-55270
   teiginys: 'Balińskis riterių luomą vadino garbingiausiąja viduramžių institucija.'
+  sudarymo_pagrindimas: 'Citata perteikia vertinamąjį apibūdinimą, todėl reikia aiškios autoriaus atribucijos.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/feodalizmas|feodalizmas]]; mentioned_object: [[objektai/zodynas/luomas|luomas]]'
   pagrindžia:
     - c-001
 
@@ -44,9 +47,14 @@ Vartojama bendrame Europos viduramžių ir Kryžiaus karų poveikio miestams kon
 - t-003
   global_id: t-82096
   teiginys: 'Susirėmimas su Rytais prisidėjo prie riterių luomo susiformavimo iš plėšikaujančios bajorijos.'
+  sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir turi OCR triukšmo, o citata palaiko glaustesnį faktą apie riterių luomą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/feodalizmas|feodalizmas]]; mentioned_object: [[objektai/zodynas/luomas|luomas]]'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/ivykiai/Kryžiaus karai.md#claim-t-86953|Kryžiaus karai]]: XI a. Kryžiaus karai iš pradžių laikyti savotiškais žygiais, bet vėliau virto svarbiu Europos istorijos įvykiu.
+- susijęs iš [[objektai/zodynas/feodalizmas.md#claim-t-82051|feodalizmas]]: Lietuvoje buvo santvarka, maždaug atitikusi Vakaruose feodalizmu vadintą santvarką.
+- susijęs iš [[objektai/zodynas/feodalizmas.md#claim-t-82055|feodalizmas]]: Susidūrimas su Rytais, anot autoriaus, sutramdė feodalizmo piktnaudžiavimą ir iš bajorijos formavo riterių luomą.
+- susijęs iš [[objektai/zodynas/feodalizmas.md#claim-t-82059|feodalizmas]]: Susidūrimas su Rytais esą sutramdė feodalizmo piktnaudžiavimą ir iš plėšikaujančios bajorijos suformavo riterių luomą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -85,10 +93,3 @@ Vartojama bendrame Europos viduramžių ir Kryžiaus karų poveikio miestams kon
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/feodalizmas]]
-- [[objektai/zodynas/luomas]]
-- [[objektai/daiktai/Kryžius]]
-- [[objektai/ivykiai/Kryžiaus karai]]

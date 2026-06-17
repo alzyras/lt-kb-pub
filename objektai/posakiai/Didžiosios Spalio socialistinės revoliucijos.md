@@ -27,6 +27,7 @@ To tomo uždavinys yra parodyti, kaip «Didžiosios Spalio socialistinės revoli
 - t-001
   global_id: t-31540
   teiginys: 'Sovietiniai istorikai teigė, kad po „Didžiosios Spalio socialistinės revoliucijos“ Lietuvoje prasidėjo naujas laikotarpis.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -48,8 +49,3 @@ To tomo uždavinys yra parodyti, kaip «Didžiosios Spalio socialistinės revoli
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]

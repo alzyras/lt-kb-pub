@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Spalio 7 d. demarkacinė linija buvo nustatyta nuo Vokietijos sienos iki Juodosios Ančios ir Nemuno santakos, toliau palei Vilniaus-Lydos geležinkelį iki Bastūnų stoties.
+Galiausiai spalio 7 d. buvo nustatyta demarkacinė linija nuo Vokietijos sienos iki Juodosios Ančios ir Nemuno santakos, toliau - palei Vilniaus-Lydos geležinkelį iki Bastūnų stoties.
 
 ## Teiginiai
 
@@ -20,6 +20,8 @@ Spalio 7 d. demarkacinė linija buvo nustatyta nuo Vokietijos sienos iki Juodosi
 - t-001
   global_id: t-41750
   teiginys: 'Spalio 7 d. demarkacinė linija buvo nustatyta nuo Vokietijos sienos iki Juodosios Ančios ir Nemuno santakos, toliau palei Vilniaus-Lydos geležinkelį iki Bastūnų stoties.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas faktinis sakinys apie demarkacinę liniją ties Juodąja Ančia.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/demarkacijos linija|demarkacijos linija]]; mentioned_place: Bastūnai; mentioned_place: Nemunas; mentioned_place: Varėna; mentioned_place: Vokietija'
   pagrindžia:
     - c-001
 

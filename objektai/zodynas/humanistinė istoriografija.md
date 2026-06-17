@@ -20,6 +20,7 @@ Nors Stryjkovskio istorija « neatitiko visiems moks­ liniams bei literatūrini
 - t-001
   global_id: t-32781
   teiginys: 'Stryjkovskio istorija neatitiko visų humanistinės istoriografijos mokslinių ir literatūrinių kriterijų.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lietuva; mentioned_place: Livonija'
   pagrindžia:
     - c-001
 
@@ -41,8 +42,3 @@ Nors Stryjkovskio istorija « neatitiko visiems moks­ liniams bei literatūrini
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Rusai]]

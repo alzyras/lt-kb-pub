@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Klaipėda „neprilipo“ prie Lietuvos dėl nesėkmingos integracijos ir vokiškosios Klaipėdos krašto direktorijos orientacijos į Vokietiją.
+Pirmasis Europoje procesas prieš nacius ir Klaipėdos praradimas Viena iš svarbių problemų darėsi nesėkmingas Klaipėdos integravimas, nes Klaipėda niekaip „neprilipo“ prie Lietuvos, o vokiškoji Klaipėdos krašto direktorija labiau klausė Vokietijos nurodymų. Svarbiausia, kad Lietuva dėl sudėtingų socialinių, politinių tradicijų ir psichologinių priežasčių prarado lietuviškai kalbėjusius „klaipėdiškius“, kurie rinkimuose į vietos seimelį balsavo už susitelkusias vokiškas partijas (panašiai kaip elzasiečiai ar.
 
 ## Teiginiai
 
@@ -23,6 +23,8 @@ Klaipėda „neprilipo“ prie Lietuvos dėl nesėkmingos integracijos ir vokiš
 - t-001
   global_id: t-77835
   teiginys: 'Klaipėda „neprilipo“ prie Lietuvos dėl nesėkmingos integracijos ir vokiškosios Klaipėdos krašto direktorijos orientacijos į Vokietiją.'
+  sudarymo_pagrindimas: 'Pradiniame teiginyje yra antraštės triukšmo ir per ilga konstrukcija.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Europa; mentioned_place: Klaipėda; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vokietija'
   pagrindžia:
     - c-001
 
@@ -45,9 +47,3 @@ Klaipėda „neprilipo“ prie Lietuvos dėl nesėkmingos integracijos ir vokiš
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/paprociai/Klaipėdos nacių antivalstybinė propaganda, susirinkimų terorizavimas ir žydų puldinėjimas]]

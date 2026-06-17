@@ -3,6 +3,10 @@ tipas: zodyno_irasas
 pavadinimas: '„etnologinės sienos“'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1918 m.'
+date_start: '1918'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -10,6 +14,8 @@ tags:
   - seimas
   - sąvoka
   - valstybė
+amziai:
+  - 'XX'
 ---
 # „etnologinės sienos“
 
@@ -23,6 +29,11 @@ Vienbalsiai priimtas Lietuvos valstybės nepriklausomybės proklamavimo dokument
 - t-001
   global_id: t-22358
   teiginys: 'Vasario 16 Aktas skelbė nepriklausomą Lietuvą su „etnologinėmis sienomis“, tikintis teritorijos padidėjimo.'
+  sudarymo_pagrindimas: 'Pašalinta gramatinė kliūtis ir išlaikyta tik citatos remiama mintis.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1918 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalinta gramatinė kliūtis ir išlaikyta tik citatos remiama mintis.'
   pagrindžia:
     - c-001
 
@@ -42,8 +53,3 @@ Vienbalsiai priimtas Lietuvos valstybės nepriklausomybės proklamavimo dokument
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/seimas]]
-- [[objektai/grupes/Steigiamasis seimas]]

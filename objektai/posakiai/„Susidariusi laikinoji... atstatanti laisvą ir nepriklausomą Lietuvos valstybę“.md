@@ -3,12 +3,18 @@ tipas: posakis
 pavadinimas: '„Susidariusi laikinoji... atstatanti laisvą ir nepriklausomą Lietuvos valstybę“'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1941 m.'
+date_start: '1941'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - ginklas
   - posakis
   - valstybė
+amziai:
+  - 'XX'
 ---
 # „Susidariusi laikinoji... atstatanti laisvą ir nepriklausomą Lietuvos valstybę“
 
@@ -22,6 +28,11 @@ Sukilėliai užimtame Kaune pastatė vokiečius prieš įvykusį faktą – už�
 - t-001
   global_id: t-20872
   teiginys: '1941 m. birželio 23 d. LAF atstovas Leonas Prapuolenis per radiją paskelbė apie nepriklausomos Lietuvos valstybės atkūrimą.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, bet citata pagrindžia aiškų faktą apie paskelbimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/Antisemitizmas|Antisemitizmas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Leonas|Leonas]]; mentioned_place: Europa; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Vokietija'
+  temporaliniai_duomenys: 'įvykio data: 1941 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs, bet citata pagrindžia aiškų faktą apie paskelbimą.'
   pagrindžia:
     - c-001
 
@@ -49,14 +60,3 @@ Sukilėliai užimtame Kaune pastatė vokiečius prieš įvykusį faktą – už�
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Antisemitizmas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Žydai]]
-- [[objektai/asmenys/Leonas]]
-- [[objektai/ivykiai/1941 m. Birželio sukilimas|1941 m. Birželio sukilimas (sukilimas)]]
-- [[objektai/grupes/Laikinoji vyriausybė]]

@@ -30,6 +30,8 @@ Gókski, K.
 - t-001
   global_id: t-54118
   teiginys: 'K. Gókski 1888 m. paskelbė darbą „Bitwa pod Grunwaldem“ leidinyje „Biblioteka Warszawska“.'
+  temporaliniai_duomenys: 'įvykio data: 1888 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -37,6 +39,8 @@ Gókski, K.
 - t-002
   global_id: t-54119
   teiginys: 'K. Gókski 1888 m. „Biblioteka Warszawska“ paskelbė darbą „Bitwa pod Grunwaldem“ apie Žalgirio mūšį.'
+  temporaliniai_duomenys: 'įvykio data: 1888 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

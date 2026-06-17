@@ -26,6 +26,8 @@ Spaustuvės lėšas sudaro pajamos, gautos už parduotas joje spausdintas knygas
 - t-001
   global_id: t-86533
   teiginys: 'Lotyniškos apskaitos formulės nurodo spaustuvės išlaidas spaudmenims, popieriui, atlyginimams, išlaikymui ir remontui.'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo triukšmingas; citata leidžia glaustai įvardyti apskaitoje žymėtas išlaidas.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/oxeft|oxeft]]; mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -56,11 +58,3 @@ Spaustuvės lėšas sudaro pajamos, gautos už parduotas joje spausdintas knygas
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/formulė]]
-
-### Susiję objektai
-- [[objektai/daiktai/Namas]]
-- [[objektai/zodynas/oxeft]]

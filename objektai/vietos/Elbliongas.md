@@ -10,6 +10,7 @@ tags:
   - karalius
   - popiežius
   - vieta
+  - vyskupas
 ---
 # Elbliongas
 
@@ -23,9 +24,26 @@ Vos tik čionai atėjo žinia apie tą sutartį, Varmės vysku­ pas Eberhardas,
 - t-001
   global_id: t-86066
   teiginys: 'Gavę žinią apie sutartį, Varmės, Sembos ir Pomezanijos vyskupai Elblionge surengė pasitarimą.'
+  sudarymo_pagrindimas: 'Pirminis teiginys nutrūkęs, bet citata pagrindžia aiškų faktą apie pasitarimą Elblionge.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/diecezija|diecezija]]; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_person: [[objektai/asmenys/Mikolajus Kulmietis|Mikolajus Kulmietis]]; mentioned_place: Dorpatas; mentioned_place: Estija; mentioned_place: Livonija; mentioned_place: Pomezanija; mentioned_place: Prūsija; mentioned_place: Revelis; mentioned_place: Semba; mentioned_place: Varmė'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Eberhardas (Varmės vyskupas).md#claim-t-82281|Eberhardas (Varmės vyskupas)]]: Varmės vyskupas Eberhardas Elblionge surengė pasitarimą dėl taikos sutarties ir su kitais vyskupais paskelbė ją pražūtinga Prūsijai.
+- susijęs iš [[objektai/asmenys/Jonas (Sembos vyskupas).md#claim-t-87711|Jonas (Sembos vyskupas)]]: Sembos vyskupas Jonas Elblionge dalyvavo pasitarime ir su kitais vyskupais pasiuntė laišką, kuriame taikos sutartį vadino pražūtinga.
+- susijęs iš [[objektai/asmenys/Mikolajus Kulmietis.md#claim-t-87790|Mikolajus Kulmietis]]: Mikolajus Kulmietis buvo neseniai miręs, kai Varmės, Sembos ir Pomezanijos vyskupai Elbinge surengė pasitarimą.
+- susijęs iš [[objektai/asmenys/Rudolfas (Pomezanijos vyskupas).md#claim-t-87847|Rudolfas (Pomezanijos vyskupas)]]: Pomezanijos vyskupas Rudolfas Elblionge su kitais vyskupais surengė pasitarimą dėl taikos sutarties ir prisidėjo prie laiško Livonijai.
+- susijęs iš [[objektai/posakiai/Kaip pelė krepšyje arba angis užantyje.md#claim-t-55178|Kaip pelė krepšyje arba angis užantyje]]: Prūsijos vyskupų laiške taikos sutarties grėsmė lyginama su pele krepšyje arba angimi užantyje.
+- susijęs iš [[objektai/posakiai/Kaip pelė krepšyje arba angis užantyje.md#claim-t-55179|Kaip pelė krepšyje arba angis užantyje]]: Prūsijos vyskupų laiške sutarties grėsmė buvo lyginama su pele krepšyje arba angimi užantyje.
+- susijęs iš [[objektai/posakiai/Kaip pelė krepšyje arba angis užantyje.md#claim-t-82140|Kaip pelė krepšyje arba angis užantyje]]: Vyskupų laiške perspėta, kad priešai kaip pelė krepšyje arba angis užantyje sunaikins jų žemes ir užtrauks pražūtį krikščionybei.
+- susijęs iš 1323 m. Vilniaus sutartis: Popiežiaus buvo prašoma sutartį pripažinti ir patvirtinti ganytojišku žodžiu.
+- susijęs iš 1323 m. Vilniaus taikos sutartis: Popiežius nepatvirtino 1323 m. Vilniaus taikos sutarties be tolesnio nagrinėjimo.
+- susijęs iš Prūsijos vyskupų laiškas dėl 1323 m. sutarties: Prūsijos vyskupų laiškas dėl Vilniaus sutarties buvo parengtas Elbinge ir siųstas Livonijos bei Estijos bažnytiniams ir pasaulietiniams adresatams.
+- susijęs iš Prūsijos vyskupų laiškas dėl 1323 m. sutarties: Prūsijos vyskupai laiške 1323 m. taikos sutartį vadino velnio žabangomis ir gėda krikščioniškajam pasauliui.
+- susijęs iš Morungenas: Morungenas vėliau vadintas Mohrungenu, o dabar tapatinamas su Morongu tarp Elbliongo ir Olštino.
+- susijęs iš Pomezanija: Pomezanijos vyskupas Rudolfas Elblionge dalyvavo pasitarime dėl taikos sutarties.
+- susijęs iš Prūsija: Popiežius nenorėjo be tolesnio nagrinėjimo patvirtinti sutarties, galbūt dėl naujesnių žinių iš Prūsijos.
+- susijęs iš Varmė: Varmės vyskupas Eberhardas Elbinge su kitais vyskupais surengė pasitarimą dėl taikos sutarties.
+- susijęs iš Varmė: Varmės vyskupas Eberhardas Elblionge surengė pasitarimą dėl gautos žinios apie taikos sutartį.
 ## Reikšmingi paminėjimai
 
 - c-001

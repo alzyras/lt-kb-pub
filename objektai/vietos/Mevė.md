@@ -29,6 +29,11 @@ Dusburgietis teigia, kad išklausęs abiejų šalių įrodymų, tas pats legatas
 - t-001
   global_id: t-58596
   teiginys: '1283 m. Teutonų ordino broliai įkūrė Mevės pilį prie Vyslos, perkėlę Poterbergo pilį iš Kulmo žemės.'
+  sudarymo_pagrindimas: 'Citata tiesiogiai nurodo Mevės pilies įkūrimą, datą ir vietą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Kulmas; mentioned_place: Pomeranija; mentioned_place: Poterbergas; mentioned_place: Vysla'
+  temporaliniai_duomenys: 'įkūrimo data: 1283 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata tiesiogiai nurodo Mevės pilies įkūrimą, datą ir vietą.'
   pagrindžia:
     - c-002
 
@@ -36,6 +41,11 @@ Dusburgietis teigia, kad išklausęs abiejų šalių įrodymų, tas pats legatas
 - t-002
   global_id: t-58597
   teiginys: 'Mevė, vėliau vadinta Mewe, yra dabartinis Gnevas kairiajame Vyslos krante.'
+  sudarymo_pagrindimas: 'Citata palaiko vietovardžio tapatinimą ir vietą prie Vyslos.'
+  susije_objektai: 'mentioned_place: Vysla'
+  temporaliniai_duomenys: 'įvykio data: 1283 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko vietovardžio tapatinimą ir vietą prie Vyslos.'
   pagrindžia:
     - c-001
 

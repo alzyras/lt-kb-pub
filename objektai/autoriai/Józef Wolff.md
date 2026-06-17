@@ -32,6 +32,11 @@ Józef Wolff šiame šaltinyje minimas kaip istorikas ir veikalo „Ród Gedimin
 - t-001
   global_id: t-11262
   teiginys: 'Józef Wolff buvo 1886 m. Krokuvoje išleisto veikalo „Ród Gediminą“ autorius.'
+  sudarymo_pagrindimas: 'Bibliografinė citata remia autorystę, vietą ir metus.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]; mentioned_place: Krokuva'
+  temporaliniai_duomenys: 'įvykio data: 1886 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Bibliografinė citata remia autorystę, vietą ir metus.'
   pagrindžia:
     - c-001
 
@@ -39,9 +44,11 @@ Józef Wolff šiame šaltinyje minimas kaip istorikas ir veikalo „Ród Gedimin
 - t-002
   global_id: t-11263
   teiginys: 'Istorikas Józef Wolff teigė, kad sunku Patirgą ir Ringailę laikyti vienos motinos vaikais.'
+  sudarymo_pagrindimas: 'Pašalintas šaltinio boilerplate, paliktas paremtas teiginys.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Aukuras|Aukuras]]; mentioned_person: [[objektai/asmenys/Birutė|Birutė]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Patirgas|Patirgas]]; mentioned_person: [[objektai/asmenys/Ringailė|Ringailė]]; mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-002
-
+- susijęs iš Ród Gediminą: Józefo Wolffo veikalas „Ród Gediminą“ buvo išleistas Krokuvoje 1886 m.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -73,11 +80,3 @@ Józef Wolff šiame šaltinyje minimas kaip istorikas ir veikalo „Ród Gedimin
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Aukuras]]
-- [[objektai/asmenys/Birutė]]
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- [[objektai/asmenys/Patirgas]]
-- [[objektai/asmenys/Ringailė]]

@@ -30,6 +30,9 @@ Būtėnas, P.: Gintaro šneka , Karys, 1973, 110-115, 159-164 p. — Danilaitė,
 - t-001
   global_id: t-97201
   teiginys: 'P. Būtėnas 1973 m. žurnale „Karys“ paskelbė straipsnius apie Vilnių ir jo pradžią.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1973 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 
@@ -37,6 +40,9 @@ Būtėnas, P.: Gintaro šneka , Karys, 1973, 110-115, 159-164 p. — Danilaitė,
 - t-002
   global_id: t-97202
   teiginys: 'P. Būtėnas 1973 m. žurnale „Karys“ paskelbė straipsnį „Gintaro šneka“.'
+  susije_objektai: 'mentioned_place: Kaunas'
+  temporaliniai_duomenys: 'įvykio data: 1973 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

@@ -26,6 +26,9 @@ Jonyno, kuris 1932 m. tapo ekstraordinariniu profesoriumi.
 - t-001
   global_id: t-32779
   teiginys: 'I. Jonynas 1932 m. tapo ekstraordinariniu profesoriumi.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/I. Jonynas|I. Jonynas]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1932 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -44,7 +47,3 @@ Jonyno, kuris 1932 m. tapo ekstraordinariniu profesoriumi.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/I. Jonynas]]

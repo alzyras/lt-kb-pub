@@ -3,11 +3,17 @@ tipas: grupe
 pavadinimas: 'Rohlando būrys'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1831 m.'
+date_start: '1831'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - ginklas
   - grupe
+amziai:
+  - 'XIX'
 ---
 # Rohlando būrys
 
@@ -16,18 +22,22 @@ tags:
 Bet po keleto dienų, padėjęs ginklus, į Prūsiją perėjo ir Rohlando būrys.
 
 ## Teiginiai
+
 <a id="claim-t-01465"></a>
 - t-001
   global_id: t-01465
   teiginys: 'Rohlando būrys po kelių dienų padėjo ginklus ir perėjo į Prūsiją.'
+  sudarymo_pagrindimas: 'Pašalintas sakinio pradžios jungtukas ir išlaikytas citatos faktas.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Prūsija'
+  temporaliniai_duomenys: 'įvykio data: 1831 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas sakinio pradžios jungtukas ir išlaikytas citatos faktas.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Rohlando būrys po kelių dienų padėjo ginklus ir perėjo į Prūsiją.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Emilija Pliaterytė,
@@ -37,16 +47,8 @@ Bet po keleto dienų, padėjęs ginklus, į Prūsiją perėjo ir Rohlando būrys
     šovė Gelgaudą, laikydamas jį to negarbingo žygio kaltininku.
     Bet po keleto dienų, padėjęs ginklus, į Prūsiją perėjo ir Roh-
     lando būrys.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/žygis]]
-- [[objektai/daiktai/Ginklai]]
-- [[objektai/ivykiai/Gelgaudo vadovaujami kariuomenės žygiai į Vilnių ir Šiaulius (1831 m.)]]

@@ -49,6 +49,11 @@ Nenurodyta
 - t-001
   global_id: t-87206
   teiginys: '1323 m. liepos 18 d. Liubeko rotušėje Gedimino vardu rašyti laiškai buvo perskaityti ir aptarti miesto tarybos aplinkoje.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir su OCR klaidomis, bet citata remia viešą laiškų skaitymą ir aptarimą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Liubekas; mentioned_place: Ryga; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1323 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs ir su OCR klaidomis, bet citata remia viešą laiškų skaitymą ir aptarimą.'
   pagrindžia:
     - c-001
 
@@ -82,16 +87,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Gediminas]]
-- [[objektai/autoriai/Henrikas]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/zodynas/komtūras]]
-- [[objektai/asmenys/Gotfridas fon Ustas]]
-- [[objektai/asmenys/Jonas Rygietis]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Mikalojus fon Parsau]]
-- [[objektai/grupes/Pranciškonų ordinas]]
-- [[objektai/asmenys/Reimaras fon Hanė]]

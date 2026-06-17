@@ -20,6 +20,8 @@ Jono Černiaus vyriausybėje, kuri vadinta „vieningo darbo“, abi opozicijos 
 - t-001
   global_id: t-22033
   teiginys: 'Jono Černiaus vyriausybėje, kuri vadinta „vieningo darbo“, abi opozicijos partijos gavo po dvi ministrų vietas.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie vieningo darbo vyriausybę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -40,13 +42,3 @@ Jono Černiaus vyriausybėje, kuri vadinta „vieningo darbo“, abi opozicijos 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Krikščionys]]
-- [[objektai/asmenys/Jonas Černius]]
-- [[objektai/ivykiai/Jono Černiaus „vieningo darbo“ vyriausybės sudarymas po Klaipėdos praradimo (1939 m.)]]
-- [[objektai/grupes/Lietuvos krikščionių demokratų partija]]
-- [[objektai/grupes/Lietuvos valstiečių liaudininkų sąjunga]]
-- [[objektai/asmenys/V. Mironas]]
-- [[objektai/asmenys/Vladas Mironas]]

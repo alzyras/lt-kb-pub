@@ -29,6 +29,8 @@ Dusburgietis teigia, kad ziesemer W.
 - t-001
   global_id: t-61383
   teiginys: 'W. Ziesemerio veikalas „Nicolaus von Jeroschin und seine Quelle“ išleistas Berlyne 1906 metais.'
+  sudarymo_pagrindimas: 'Citata patvirtina veikalo pavadinimą, leidimo vietą ir metus.'
+  susije_objektai: 'mentioned_place: Berlynas'
   pagrindžia:
     - c-001
 

@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Rūdninkų medžioklės rūmai buvo mediniai, stovėjo ant aukšto mūrinio cokolio ir buvo skirti karaliams apsistoti.
+Čia buvo vadinamieji medžioklės rūmai, skirti apsistoti patiems karaliams.
 
 ## Teiginiai
 
@@ -21,6 +21,8 @@ Rūdninkų medžioklės rūmai buvo mediniai, stovėjo ant aukšto mūrinio coko
 - t-001
   global_id: t-86031
   teiginys: 'Rūdninkų medžioklės rūmai buvo mediniai, stovėjo ant aukšto mūrinio cokolio ir buvo skirti karaliams apsistoti.'
+  sudarymo_pagrindimas: 'Citata leidžia pateikti išsamesnį enciklopedinį sakinį apie rūmų paskirtį ir sandarą.'
+  susije_objektai: 'mentioned_place: Rūdninkai'
   pagrindžia:
     - c-001
 

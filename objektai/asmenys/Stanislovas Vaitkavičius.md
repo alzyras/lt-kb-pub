@@ -21,6 +21,8 @@ tags:
 - t-001
   global_id: t-87863
   teiginys: 'Stanislovas Vaitkavičius turėjo žemę, iš kurios buvo mokama kviečių dešimtinė.'
+  sudarymo_pagrindimas: 'Citata remia faktą apie Vaitkavičiaus žemę ir iš jos mokėtą kviečių dešimtinę.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/dešimtinė|dešimtinė]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Ona Tarnavska|Ona Tarnavska]]; mentioned_person: [[objektai/asmenys/Sofija|Sofija]]; mentioned_person: [[objektai/asmenys/Stanislovas|Stanislovas]]; mentioned_place: Deltuva; mentioned_place: Gelvonai'
   pagrindžia:
     - c-001
 
@@ -47,7 +49,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/dešimtinė]]

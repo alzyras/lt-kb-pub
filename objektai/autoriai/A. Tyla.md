@@ -3,11 +3,19 @@ tipas: autorius
 pavadinimas: 'A. Tyla'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+datos:
+  - '1905 m.'
+date_start: '1905'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
   - sukilimas
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'naujieji laikai'
 ---
 # A. Tyla
 
@@ -21,9 +29,14 @@ tags:
 - t-001
   global_id: t-30546
   teiginys: 'A. Tyla svarstė 1905 m. revoliucijos klausimus ir teikė pastabų dėl lietuviškos knygos istorijos.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai įvardija A. Tylos nagrinėtas temas ir remiasi citata.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Antspaudai|Antspaudai]]; mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_person: [[objektai/autoriai/E. Griškūnaitė|E. Griškūnaitė]]; mentioned_person: [[objektai/autoriai/L. Mulevičius|L. Mulevičius]]; mentioned_place: Augustavas; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1905 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai įvardija A. Tylos nagrinėtas temas ir remiasi citata.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/autoriai/Lietuvos istorikai ir socialinės istorijos tyrėjai.md#claim-t-179544|Lietuvos istorikai ir socialinės istorijos tyrėjai]]: P. Girdzijauskienė parašė veikalą „1905-1907 metų revoliucija Lietuvoje“.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -43,8 +56,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Antspaudai]]
-- [[objektai/zodynas/gubernija]]

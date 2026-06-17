@@ -31,6 +31,11 @@ Dusburgietis teigia, kad kristaus brolių ordinas, kaip vyskupo Kristijono karia
 - t-001
   global_id: t-60651
   teiginys: 'T. Manteufelis siejo Kristaus brolių ordiną su 1223 m. vyskupo ir kunigaikščio Konrado sutartimi.'
+  sudarymo_pagrindimas: 'Citata pagrindžia Manteufelio darbo ryšį su šiuo istoriniu aiškinimu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]'
+  temporaliniai_duomenys: 'įvykio data: 1223 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia Manteufelio darbo ryšį su šiuo istoriniu aiškinimu.'
   pagrindžia:
     - c-001
 
@@ -49,7 +54,3 @@ Dusburgietis teigia, kad kristaus brolių ordinas, kaip vyskupo Kristijono karia
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]

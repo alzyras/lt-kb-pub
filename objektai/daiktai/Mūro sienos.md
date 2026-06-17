@@ -51,6 +51,8 @@ Nenurodyta
 - t-001
   global_id: t-87057
   teiginys: 'Otono Didžiojo laikais daugelis Italijos miestų apsitvėrė mūro sienomis, saugodamiesi vengrų ir saracėnų antpuolių.'
+  sudarymo_pagrindimas: 'Citata palaiko faktą apie Italijos miestų mūro sienas; pašalintas sakinio apsunkinimas ir OCR triukšmas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Saracėnai|Saracėnai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_place: Italija'
   pagrindžia:
     - c-002
 
@@ -58,6 +60,8 @@ Nenurodyta
 - t-002
   global_id: t-87058
   teiginys: 'Krokuva už geriausiai sutvirtintas mūro sienas ir svarbias privilegijas buvo skolinga Lešekui Juodajam.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie mūro sienas ir privilegijas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_place: Krokuva; mentioned_place: Lenkija'
   pagrindžia:
     - c-003
 
@@ -65,6 +69,8 @@ Nenurodyta
 - t-003
   global_id: t-87059
   teiginys: 'Gedimino laikų Vilnius dar nebuvo bokštų ir mūro sienų saugomas miestas.'
+  sudarymo_pagrindimas: 'Citata leidžia glaustai teigti, kad tuometinis Vilnius nebuvo mūro sienomis saugomas miestas.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Kazimieras Didysis|Kazimieras Didysis]]; mentioned_place: Bokštai; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_place: Vokietija'
   pagrindžia:
     - c-001
 
@@ -134,16 +140,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Kazimieras Didysis]]
-- [[objektai/daiktai/Laivai]]
-- [[objektai/grupes/Saracėnai]]
-- [[objektai/grupes/Teutonai]]
-- [[objektai/grupes/Vengrai]]
-- [[objektai/grupes/Žydai]]
-- [[objektai/asmenys/Gediminas]]
-- [[objektai/autoriai/Benjaminas iš Tudelio]]
-- [[objektai/daiktai/Laivai, valtys, sieliai ir plaustai]]
-- [[objektai/daiktai/Mūro sienos ir miesto sienos]]

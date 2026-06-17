@@ -3,6 +3,10 @@ tipas: saltinis
 pavadinimas: 'Steigiamojo seimo rinkimų įstatymas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1919 m.'
+date_start: '1919'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -10,6 +14,8 @@ tags:
   - karas
   - saltinis
   - seimas
+amziai:
+  - 'XX'
 ---
 # Steigiamojo seimo rinkimų įstatymas
 
@@ -18,20 +24,22 @@ tags:
 Įstatymas buvo paskelbtas 1919 metų lapkričio mėn.
 
 ## Teiginiai
+
 <a id="claim-t-02285"></a>
 - t-001
   global_id: t-02285
   teiginys: 'Steigiamojo seimo rinkimų įstatymas buvo paskelbtas 1919 m. lapkričio 20 d.'
+  sudarymo_pagrindimas: 'Citata patikslina paskelbimo dieną.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bermontininkai|Bermontininkai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1919 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata patikslina paskelbimo dieną.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Steigiamojo seimo rinkimų įstatymas buvo paskelbtas 1919 m. lapkričio 20 d.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Įstatymas buvo paskelbtas
@@ -43,10 +51,8 @@ tags:
     visuotiniu, tiesioginiu, lygiu ir slaptu balsavimu, „laikantis pro-
     porcingumo sistemos". Kandidatų sąrašus teikė partijos arba
     kuopos.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

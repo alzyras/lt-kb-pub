@@ -3,16 +3,24 @@ tipas: zodyno_irasas
 pavadinimas: 'sovietinis genocidas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1948 m.'
+  - '1949 m.'
+  - '1951 m.'
+date_start: '1948'
+date_end: '1951'
 sukurta: ''
 atnaujinta: ''
 tags:
   - sąvoka
+amziai:
+  - 'XX'
 ---
 # sovietinis genocidas
 
 ## Santrauka
 
-Sovietinio genocido ir teroro aukomis Lietuvoje tapo 456 tūkst. gyventojų.
+Sovietinio genocido ir teroro aukomis tapo 456 tūkst.
 
 ## Teiginiai
 
@@ -20,6 +28,11 @@ Sovietinio genocido ir teroro aukomis Lietuvoje tapo 456 tūkst. gyventojų.
 - t-001
   global_id: t-22302
   teiginys: 'Sovietinio genocido ir teroro aukomis Lietuvoje tapo 456 tūkst. gyventojų.'
+  sudarymo_pagrindimas: 'Patikslintas objektas ir vieta, kuriuos palaiko citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Kaimas; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1948 m.; įvykio data: 1949 m.; įvykio data: 1951 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Patikslintas objektas ir vieta, kuriuos palaiko citata.'
   pagrindžia:
     - c-001
 
@@ -44,7 +57,3 @@ Sovietinio genocido ir teroro aukomis Lietuvoje tapo 456 tūkst. gyventojų.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

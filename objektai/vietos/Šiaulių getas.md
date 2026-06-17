@@ -3,16 +3,22 @@ tipas: vieta
 pavadinimas: 'Šiaulių getas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1941 m.'
+date_start: '1941'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
+amziai:
+  - 'XX'
 ---
 # Šiaulių getas
 
 ## Santrauka
 
-Apie 50 tūkst. žydų buvo laikinai palikta Vilniaus, Kauno, Šiaulių ir mažesniuose getuose kaip pigi darbo jėga.
+žydų laikinai palikti Vilniaus, Kauno, Šiaulių ir mažesniuose getuose, jie išnaudoti kaip pigi darbo jėga.
 
 ## Teiginiai
 
@@ -20,6 +26,11 @@ Apie 50 tūkst. žydų buvo laikinai palikta Vilniaus, Kauno, Šiaulių ir maže
 - t-001
   global_id: t-21943
   teiginys: 'Apie 50 tūkst. žydų buvo laikinai palikta Vilniaus, Kauno, Šiaulių ir mažesniuose getuose kaip pigi darbo jėga.'
+  sudarymo_pagrindimas: 'Perrašyta į sklandesnį gramatišką sakinį be neaiškios pasyvinės konstrukcijos.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Lietuva; mentioned_place: Šiauliai'
+  temporaliniai_duomenys: 'įvykio data: 1941 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Perrašyta į sklandesnį gramatišką sakinį be neaiškios pasyvinės konstrukcijos.'
   pagrindžia:
     - c-001
 

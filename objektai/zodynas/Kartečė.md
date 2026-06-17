@@ -5,6 +5,7 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1602 m.'
+  - '1618 m.'
   - '1648 m.'
 date_start: '1602'
 date_end: '1648'
@@ -21,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-Iš pradžių kartečė naudota ginant arba šturmuojant tvirtoves, o nuo Trisdešimtmečio karo plačiai taikyta ir lauko kautynėse. Ankstyvieji kartečės užtaisai buvo dedami į virvėmis aprišamus maišelius, o vėliau atsirado cilindro formos metalinėse dėžutėse laikoma kartečė. Kartečė buvo skirta žeisti priešo karius nedideliu atstumu, nes didelė kulkų sklaida ribojo jos efektyvumą toliau.
+Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės gynybos) buvo naudojama muškietų kulkų kartečė. Iš pradžių kartečė buvo naudojama ginant arba šturmuojant tvirtoves, nuo Trisdešimtmečio karo (1618-1648 m.) jį pradėta plačiai naudoti ir lauko kautynėse. Kartečė buvo skirstoma pagal kulkų svorį į artimojo ir tolimojo nuotolių.
 
 ## Teiginiai
 
@@ -29,6 +30,8 @@ Iš pradžių kartečė naudota ginant arba šturmuojant tvirtoves, o nuo Trisde
 - t-001
   global_id: t-78896
   teiginys: 'Iš pradžių kartečė naudota ginant arba šturmuojant tvirtoves, o nuo Trisdešimtmečio karo plačiai taikyta ir lauko kautynėse.'
+  temporaliniai_duomenys: 'įvykio data: 1618-1648; įvykio data: 1648 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-004
 
@@ -43,6 +46,7 @@ Iš pradžių kartečė naudota ginant arba šturmuojant tvirtoves, o nuo Trisde
 - t-003
   global_id: t-78900
   teiginys: 'Kartečė buvo skirta žeisti priešo karius nedideliu atstumu, nes didelė kulkų sklaida ribojo jos efektyvumą toliau.'
+  sudarymo_pagrindimas: 'Pašalintas kontekstinis jungtukas ir sutrumpintas sakinys.'
   pagrindžia:
     - c-002
 
@@ -50,6 +54,7 @@ Iš pradžių kartečė naudota ginant arba šturmuojant tvirtoves, o nuo Trisde
 - t-004
   global_id: t-78901
   teiginys: 'Pagal kulkų svorį kartečė buvo skirstoma į artimojo ir tolimojo nuotolio kartečę.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -57,9 +62,11 @@ Iš pradžių kartečė naudota ginant arba šturmuojant tvirtoves, o nuo Trisde
 - t-005
   global_id: t-78902
   teiginys: 'Kartečė buvo skirta žeisti priešo karius nedideliu atstumu, nes didelė kulkų sklaida neleido jos efektyviai naudoti toliau.'
+  sudarymo_pagrindimas: 'Teiginys glaustai ir tiksliai perteikia citatos faktą.'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/asmenys/F. Rolandas.md#claim-t-80732|F. Rolandas]]: Priešo šaulių ir artilerijos ugnis privertė F. Rolando pajėgas pasukti Neries link ir susikauti su rusų pėstininkais.
+- susijęs iš [[objektai/zodynas/Brandskugeliai karkasai.md#claim-t-42419|Brandskugeliai karkasai]]: Brandskugeliai buvo tuščiaviduriai ketaus sviediniai su padegamuoju mišiniu, o karkasai - ovalūs iš geležinių žiedų sudaryti padegamieji sviediniai.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -136,8 +143,3 @@ Iš pradžių kartečė naudota ginant arba šturmuojant tvirtoves, o nuo Trisde
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Brandskugeliai karkasai]]
-- [[objektai/asmenys/F. Rolandas]]

@@ -1,26 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Livonijos kraštas (kraštas)'
-variantai:
-  - 'Livonijos kraštu'
-  - 'Livonijos kraštas'
-aliases:
-  - 'Livonijos kraštas'
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
 atnaujinta: ''
-laikotarpis: ''
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: ''
 tags:
   - vieta
 ---
@@ -31,26 +15,31 @@ tags:
 Prie Trakų Jogailos kariuomenėje buvo Livonijos ponų. Jogaila be Kęstučio žinios sudarė taiką su Livonijos kraštu.
 
 ## Teiginiai
+
 <a id="claim-t-187257"></a>
 - t-001
   global_id: t-187257
-  teiginys: 'Prie Trakų Jogailos kariuomenėje buvo Livonijos ponų.'
+  teiginys: 'Vytauto pasakojime Jogaila be Kęstučio žinios sudarė taiką su Prūsų ir Livonijos kraštais.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Citata yra poleminis Vytauto pasakojimas apie išdavystę, todėl reikalinga atribucija.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Livonija; mentioned_place: Prūsai; mentioned_place: Vilnius'
   pagrindžia:
-    - c-002
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  statusas: patvirtinta
+    - c-001
+
 <a id="claim-t-187258"></a>
 - t-002
   global_id: t-187258
-  teiginys: 'Jogaila be Kęstučio žinios sudarė taiką su Livonijos kraštu.'
+  teiginys: 'Prie Trakų Jogailos kariuomenėje buvo Livonijos ponų.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Sakinys aiškus ir perteikia citatoje nurodytą Livonijos ponų buvimą Jogailos kariuomenėje.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Livonijos ponai|Livonijos ponai]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Livonija; mentioned_place: Trakai'
   pagrindžia:
-    - c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  statusas: patvirtinta
+    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Jogaila be Kęstučio žinios sudarė taiką su Livonijos kraštu.'
+  santrauka: 'Vytauto pasakojime Jogaila be Kęstučio žinios sudarė taiką su Prūsų ir Livonijos kraštais.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     tėvas kunigaikštis Kęstutis (tada jis buvo galingas),
@@ -70,15 +59,13 @@ Prie Trakų Jogailos kariuomenėje buvo Livonijos ponų. Jogaila be Kęstučio �
     dėti ir nuolatos galvojo tik, kaip mano tėvą ir mane
     patį sugauti ir kaip mano tėvą ir mane nužudyti ir mū­
     sų žemę pasiglemžti.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
+
 - c-002
-  santrauka: 'Prie Trakų Jogailos kariuomenėje buvo Livonijos ponų.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     Ir atėjo mūsų tėvas su žemaičiais prie
@@ -86,10 +73,8 @@ Prie Trakų Jogailos kariuomenėje buvo Livonijos ponų. Jogaila be Kęstučio �
     čiu Kęstučiu. Kunigaikštis Jogaila pasitiko mus su savo
     kariuomene. Su juo buvo ir Livonijos ponai [kariuo­
     menėj.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-002

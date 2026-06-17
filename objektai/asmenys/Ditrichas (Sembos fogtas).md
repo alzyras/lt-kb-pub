@@ -4,9 +4,9 @@ pavadinimas: 'Ditrichas (Sembos fogtas)'
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1273 m.'
+  - '1231 m.'
   - '1292 m.'
-date_start: '1273'
+date_start: '1231'
 date_end: '1292'
 sukurta: ''
 atnaujinta: ''
@@ -16,13 +16,13 @@ tags:
 amziai:
   - 'XIII'
 periodo_grupes:
-  - 'LDK'
+  - 'viduramžiai'
 ---
 # Ditrichas (Sembos fogtas)
 
 ## Santrauka
 
-1286 m. Sembos fogtas Ditrichas baiminosi bartų, pagudėnų ir kitų prūsų sumanyto naujo sukilimo prieš brolius. Ditrichas Sembos fogtu buvo 1278-1292 m. Sembos fogtas Ditrichas su kariuomene užpuolė Ramijos pilį, tą pačią dieną į ją įsiveržė ir sugriovė.
+Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiuje216, gyveno vienas prūsas, vardu Dargis, kuris nepakentė baltų žirgų; brolis Ditrichas, Sembos fogtas217, norėdamas jį atpratinti nuo prietaro, nupirko jam baltą arklį ir, nors tas ir prieštaravo, pastatė jį. Dusburgietis teigia, kad 217 Fogtu buvo 1278—1292 m. 218 D. Dusburgietis teigia, kad apie dviejų Nadruvos žemės pilių užėmimą Retavos valsčiuje Brolis Konradas iš Tirbergo, magistras, turėdamas galvoje šių nadruvių sumanumą bei ištikimybę ir tai, kad, jiems pasitraukus pas brolius, Nadruvos žemė tapo smarkiai susilpninta, pasiuntė brolį.
 
 ## Teiginiai
 
@@ -30,6 +30,11 @@ periodo_grupes:
 - t-001
   global_id: t-59833
   teiginys: '1286 m. Sembos fogtas Ditrichas baiminosi bartų, pagudėnų ir kitų prūsų sumanyto naujo sukilimo prieš brolius.'
+  sudarymo_pagrindimas: 'Pašalinta antraštė ir citatos fragmentas, išlaikyta autoriaus priskirta nuostata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_object: [[objektai/zodynas/fogtas|fogtas]]; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Semba'
+  temporaliniai_duomenys: 'įvykio data: 1286 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalinta antraštė ir citatos fragmentas, išlaikyta autoriaus priskirta nuostata.'
   pagrindžia:
     - c-002
 
@@ -37,6 +42,11 @@ periodo_grupes:
 - t-002
   global_id: t-59834
   teiginys: 'Ditrichas Sembos fogtu buvo 1278-1292 m.'
+  sudarymo_pagrindimas: 'Teiginys yra faktinis, glaustas ir paremtas išnašos duomenimis.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/fogtas|fogtas]]; mentioned_place: Semba; mentioned_place: Torunė'
+  temporaliniai_duomenys: 'įvykio data: 1231 m.; įvykio data: apie 1231 m.; įvykio data: 1278-1292; įvykio data: 1292 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra faktinis, glaustas ir paremtas išnašos duomenimis.'
   pagrindžia:
     - c-004
 
@@ -44,6 +54,8 @@ periodo_grupes:
 - t-003
   global_id: t-59835
   teiginys: 'Sembos fogtas Ditrichas su kariuomene užpuolė Ramijos pilį, tą pačią dieną į ją įsiveržė ir sugriovė.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir tiksliai perteikia citatos informaciją.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/fogtas|fogtas]]; mentioned_place: Nemunas; mentioned_place: Semba'
   pagrindžia:
     - c-008
 
@@ -51,6 +63,8 @@ periodo_grupes:
 - t-004
   global_id: t-59836
   teiginys: 'Grįžęs iš Vokietijos, Sembos fogtas Ditrichas iš Lidelau atkalbėjo sembus nuo paklydimo.'
+  sudarymo_pagrindimas: 'Reikia pašalinti perteklinį ir neaiškų žodį „sumanyto“.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_object: [[objektai/zodynas/fogtas|fogtas]]; mentioned_place: Semba'
   pagrindžia:
     - c-006
 
@@ -58,6 +72,11 @@ periodo_grupes:
 - t-005
   global_id: t-59837
   teiginys: 'Konradas iš Tirbergo pasiuntė Sembos fogtą Ditrichą su kariuomene į Nadruvą.'
+  sudarymo_pagrindimas: 'Citata pagrindžia Ditricho pasiuntimą į Nadruvą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Nadruviai|Nadruviai]]; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_object: [[objektai/zodynas/fogtas|fogtas]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Barta; mentioned_place: Nadruva; mentioned_place: Semba'
+  temporaliniai_duomenys: 'įvykio data: 1274 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia Ditricho pasiuntimą į Nadruvą.'
   pagrindžia:
     - c-005
 
@@ -65,6 +84,8 @@ periodo_grupes:
 - t-006
   global_id: t-59838
   teiginys: 'Sembos fogtas Ditrichas magistro įsakymu su brolių ir tūkstančio vyrų pajėgomis užpuolė Ragainės pilies vietoje stovėjusią pilį.'
+  sudarymo_pagrindimas: 'Pašalinta antraštė ir nutrūkęs sakinio fragmentas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_object: [[objektai/zodynas/fogtas|fogtas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Nemunas; mentioned_place: Ragainė; mentioned_place: Semba'
   pagrindžia:
     - c-003
 
@@ -72,6 +93,8 @@ periodo_grupes:
 - t-007
   global_id: t-59839
   teiginys: 'Sembos fogtas Ditrichas nupirko Dargiui baltą arklį, norėdamas atpratinti jį nuo prietaro dėl baltų žirgų.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_object: [[objektai/zodynas/fogtas|fogtas]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/asmenys/Dargis|Dargis]]; mentioned_place: Semba; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -79,6 +102,8 @@ periodo_grupes:
 - t-008
   global_id: t-59840
   teiginys: 'Sembos fogtui Ditrichui nepatiko, kad broliai bartams grąžino į nelaisvę paimtas žmonas ir vaikus.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus ir paremtas citatoje nurodyta Ditricho reakcija.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/fogtas|fogtas]]; mentioned_person: [[objektai/asmenys/Numa|Numa]]; mentioned_place: Gardinas; mentioned_place: Semba'
   pagrindžia:
     - c-007
 
@@ -225,25 +250,3 @@ periodo_grupes:
   pagrindžia:
     - t-009
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Baltai]]
-- [[objektai/grupes/Bartai]]
-- [[objektai/asmenys/Konradas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Nadruviai]]
-- [[objektai/grupes/Notangai]]
-- [[objektai/asmenys/Numa]]
-- [[objektai/grupes/Pagudėnai]]
-- [[objektai/grupes/Rytas]]
-- [[objektai/grupes/Sembai]]
-- [[objektai/grupes/Skalviai]]
-- [[objektai/zodynas/fogtas]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/asmenys/Dargis]]
-- [[objektai/daiktai/Žirgai]]
-- [[objektai/posakiai/Atėjo baisenybė, kurios bijojau]]
-- [[objektai/asmenys/Derska]]
-- [[objektai/asmenys/Konradas iš Tirbergo Vyresnysis]]
-- [[objektai/paprociai/Žirgų plauko spalvos tabu iš pagarbos dievams]]

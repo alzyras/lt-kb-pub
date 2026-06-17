@@ -28,6 +28,11 @@ Dusburgietis teigia, kad sekiau jų pėdomis, nenorėdamas būti nublokštas į 
 - t-001
   global_id: t-58943
   teiginys: 'Petras Dusburgietis 1326 m. užbaigė kroniką, kad būsimoms kartoms liktų šventojo žygio atminimas.'
+  sudarymo_pagrindimas: 'Citata pagrindžia autoriaus veiksmą, datą ir šventojo žygio atminimo tikslą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/autoriai/Petras Dusburgietis|Petras Dusburgietis]]'
+  temporaliniai_duomenys: 'įvykio data: 1326 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia autoriaus veiksmą, datą ir šventojo žygio atminimo tikslą.'
   pagrindžia:
     - c-001
 
@@ -56,10 +61,3 @@ Dusburgietis teigia, kad sekiau jų pėdomis, nenorėdamas būti nublokštas į 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/žygis]]
-- [[objektai/autoriai/Petras Dusburgietis]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/posakiai/šio šventojo žygio atminimas]]

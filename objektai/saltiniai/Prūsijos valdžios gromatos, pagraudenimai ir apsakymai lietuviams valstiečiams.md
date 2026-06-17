@@ -27,6 +27,11 @@ Suredagavo jis taip pat «Prūsijos valdžios gromatos, pagraudenimai ir apsakym
 - t-001
   global_id: t-31897
   teiginys: 'Jablonskis 1960 m. suredagavo „Prūsijos valdžios gromatos, pagraudenimai ir apsakymai lietuviams valstiečiams“ ir parašė pratarmę.'
+  sudarymo_pagrindimas: 'Pradinis teiginys negramatiškas, o citata leidžia aiškiai nurodyti redagavimą ir pratarmę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/inventoriai|inventoriai]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1960 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys negramatiškas, o citata leidžia aiškiai nurodyti redagavimą ir pratarmę.'
   pagrindžia:
     - c-001
 

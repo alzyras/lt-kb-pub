@@ -3,17 +3,23 @@ tipas: saltinis
 pavadinimas: 'Mažosios Lietuvos himnas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1879 m.'
+date_start: '1879'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - mokslininkas
   - saltinis
+amziai:
+  - 'XIX'
 ---
 # Mažosios Lietuvos himnas
 
 ## Santrauka
 
-XIX a. pabaigoje Georgas Zauerveinas parašė Mažosios Lietuvos himną, kuris greitai išpopuliarėjo ir Didžiojoje Lietuvoje. Už lietuvių kalbą Rytų Prūsijoje kovojęs Jurgis Zauerveinas parašė Mažosios Lietuvos himną, išpopuliarėjusį ir Didžiojoje Lietuvoje.
+Jurgis) Zauerveinas (Georg Sauerwein), kovojęs už lietuvių kalbą Rytų Prūsijoje, parašė Mažosios Lietuvos himną, kuriame buvo eilutės: „Lietuviais esame mes gimę / Lietuviais norime ir būt/ Tą garbę gavome užgimę/ Jai ir neturim leist pražūt“ – jis bemat.
 
 ## Teiginiai
 
@@ -21,6 +27,11 @@ XIX a. pabaigoje Georgas Zauerveinas parašė Mažosios Lietuvos himną, kuris g
 - t-001
   global_id: t-75499
   teiginys: 'XIX a. pabaigoje Georgas Zauerveinas parašė Mažosios Lietuvos himną, kuris greitai išpopuliarėjo ir Didžiojoje Lietuvoje.'
+  sudarymo_pagrindimas: 'Pakeista neaiški laiko nuoroda „Amžiaus pabaigoje“ į aiškesnę formuluotę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/JAV lietuviai|JAV lietuviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas|Georgas (liet. Jurgis) Zauerveinas]]; mentioned_person: [[objektai/asmenys/Georgas Zauerveinas|Georgas Zauerveinas]]; mentioned_person: [[objektai/autoriai/Zauerveinas|Zauerveinas]]; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Rusija'
+  temporaliniai_duomenys: 'įvykio data: 1879 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pakeista neaiški laiko nuoroda „Amžiaus pabaigoje“ į aiškesnę formuluotę.'
   pagrindžia:
     - c-001
 
@@ -28,6 +39,11 @@ XIX a. pabaigoje Georgas Zauerveinas parašė Mažosios Lietuvos himną, kuris g
 - t-002
   global_id: t-75500
   teiginys: 'Už lietuvių kalbą Rytų Prūsijoje kovojęs Jurgis Zauerveinas parašė Mažosios Lietuvos himną, išpopuliarėjusį ir Didžiojoje Lietuvoje.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie objektą ir atitinka citatos informaciją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/JAV lietuviai|JAV lietuviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas|Georgas (liet. Jurgis) Zauerveinas]]; mentioned_person: [[objektai/autoriai/Zauerveinas|Zauerveinas]]; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Prūsija; mentioned_place: Rusija'
+  temporaliniai_duomenys: 'įvykio data: 1879 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie objektą ir atitinka citatos informaciją.'
   pagrindžia:
     - c-001
 

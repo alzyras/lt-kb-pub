@@ -29,6 +29,9 @@ Mikalojaus Daukšos „Postilės“ pratarmėje ši formulė tėvų žemę, papr
 - t-001
   global_id: t-26647
   teiginys: 'Mikalojus Daukša tėvų žemę, papročius ir kalbą vadino trimis tautai savais ir tarsi įgimtais dalykais.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Mikalojus Daukša|Mikalojus Daukša]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1595 m.; įvykio data: 1599 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -36,6 +39,11 @@ Mikalojaus Daukšos „Postilės“ pratarmėje ši formulė tėvų žemę, papr
 - t-002
   global_id: t-26899
   teiginys: 'Posakis „Kurgi, sakau, pasaulyje yra tauta...“ pateiktas 1599 m. Mikalojaus Daukšos „Postilės“ pratarmėje, raginant kurti raštiją lietuvių kalba.'
+  sudarymo_pagrindimas: 'Citata pagrindžia posakio vietą ir kontekstą, bet pradiniame teiginyje trūksta aiškaus note objekto.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1595 m.; įvykio data: 1599 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia posakio vietą ir kontekstą, bet pradiniame teiginyje trūksta aiškaus note objekto.'
   pagrindžia:
     - c-001
 
@@ -43,6 +51,11 @@ Mikalojaus Daukšos „Postilės“ pratarmėje ši formulė tėvų žemę, papr
 - t-003
   global_id: t-67311
   teiginys: 'Posakiu „Kurgi, sakau, pasaulyje yra tauta...“ Mikalojus Daukša pabrėžė tėvų žemę, papročius ir kalbą kaip savus tautos dalykus.'
+  sudarymo_pagrindimas: 'Citata leidžia suformuluoti aiškų faktą apie patį posakį ir jo mintį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Mikalojus Daukša|Mikalojus Daukša]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1595 m.; įvykio data: 1599 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata leidžia suformuluoti aiškų faktą apie patį posakį ir jo mintį.'
   pagrindžia:
     - c-001
 
@@ -68,10 +81,3 @@ Mikalojaus Daukšos „Postilės“ pratarmėje ši formulė tėvų žemę, papr
     - t-001
     - t-002
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Mikalojus Daukša]]
-- [[objektai/zodynas/oficialusis kultūros modelis]]
-- [[objektai/zodynas/oficialusis kultūros modelis lietuviakalbė programa]]

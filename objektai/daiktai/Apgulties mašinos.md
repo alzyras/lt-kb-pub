@@ -4,16 +4,19 @@ pavadinimas: 'Apgulties mašinos'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
+  - '1272 m.'
+  - '1274 m.'
+  - '1278 m.'
   - '1368 m.'
   - '2026 m.'
-date_start: '1368'
+date_start: '1272'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
 amziai:
-  - 'XIV'
+  - 'XIII'
   - 'XXI'
 ---
 # Apgulties mašinos
@@ -48,6 +51,11 @@ Nenurodyta
 - t-001
   global_id: t-179463
   teiginys: '1278 m. nesėkmingai apguldamas Daugpilį Traidenis naudojo keturias akmenims svaidyti skirtas apgulties mašinas.'
+  sudarymo_pagrindimas: 'Pradinė citata neatitinka pateikto teiginio, bet remia aiškų faktą apie apgulties mašinas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žiemgaliai|Žiemgaliai]]; mentioned_person: [[objektai/asmenys/Traidenis|Traidenis]]; mentioned_place: Daugpilis; mentioned_place: Lietuva; mentioned_place: Tervetė'
+  temporaliniai_duomenys: 'įvykio data: 1272 m.; įvykio data: 1274 m.; įvykio data: 1278 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinė citata neatitinka pateikto teiginio, bet remia aiškų faktą apie apgulties mašinas.'
   pagrindžia:
     - c-001
 
@@ -68,9 +76,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Traidenis|Traidenis (valdovas, XIII a.)]]
-- [[objektai/grupes/Žiemgaliai]]

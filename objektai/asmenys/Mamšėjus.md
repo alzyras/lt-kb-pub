@@ -4,9 +4,10 @@ pavadinimas: 'Mamšėjus'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
+  - '1278 m.'
   - '1279 m.'
-date_start: '1279'
-date_end: ''
+date_start: '1278'
+date_end: '1279'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -29,9 +30,12 @@ periodo_grupes:
 - t-001
   global_id: t-40326
   teiginys: '1279 m. pradžioje Mamšėjus vadovavo Nogajaus pasiųstai kariuomenei prieš Traidenio Lietuvą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Nogajus|Nogajus]]; mentioned_place: Gardinas; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1278-1279; įvykio data: 1279 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Nogajus (Aukso ordos valdytojas).md#claim-t-40377|Nogajus (Aukso ordos valdytojas)]]: Aukso ordos valdytojas Nogajus pasiuntė Mamšėjaus vadovaujamą kariuomenę prieš Traidenio Lietuvą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -51,13 +55,3 @@ periodo_grupes:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Auksinė Orda]]
-- [[objektai/asmenys/Nogajus]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/grupes/Rusėnai]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/asmenys/Nogajus (Aukso ordos valdytojas)]]

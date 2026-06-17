@@ -23,6 +23,8 @@ Sil­ pno charakterio karalius negalėjo veiksmingai pasipriešinti turčių vyr
 - t-001
   global_id: t-86599
   teiginys: 'Valdant Aleksandrui, miestiečių luomui stigo tvirtos municipalinių laisvių apsaugos nuo valdininkų ir šlėktų piktnaudžiavimo.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir remiasi citatos informacija apie municipalinių laisvių apsaugos stoką.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -47,7 +49,3 @@ Sil­ pno charakterio karalius negalėjo veiksmingai pasipriešinti turčių vyr
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/luomas]]

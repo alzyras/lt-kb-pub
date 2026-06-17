@@ -14,7 +14,7 @@ tags:
 
 ## Santrauka
 
-Tarp popiežiaus Bonifaco ir Prancūzijos karaliaus Pilypo prasidėjo nesantarvė.
+Dusburgietis teigia, kad apie Bonifaco, popiežiaus, ir Pilypo, Prancūzijos karaliaus, nesantarvę Tais pačiais metais prasidėjo nesantarvė tarp Bonifaco, popiežiaus, ir Pilypo, Prancūzijos karaliaus.
 
 ## Teiginiai
 
@@ -22,6 +22,8 @@ Tarp popiežiaus Bonifaco ir Prancūzijos karaliaus Pilypo prasidėjo nesantarv�
 - t-001
   global_id: t-60412
   teiginys: 'Tarp popiežiaus Bonifaco ir Prancūzijos karaliaus Pilypo prasidėjo nesantarvė.'
+  sudarymo_pagrindimas: 'Pradžia „Tais pačiais metais“ yra kontekstinė, todėl teiginys perrašytas be neaiškaus laiko nurodymo.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/reskriptas|reskriptas]]; mentioned_place: Prancūzija'
   pagrindžia:
     - c-001
 
@@ -45,7 +47,3 @@ Tarp popiežiaus Bonifaco ir Prancūzijos karaliaus Pilypo prasidėjo nesantarv�
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/reskriptas]]

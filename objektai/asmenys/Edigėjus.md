@@ -10,6 +10,7 @@ tags:
   - ginklas
   - kunigaikštis
   - mūšis
+  - transportas
 ---
 # Edigėjus
 
@@ -23,6 +24,8 @@ Edigėjus ir padrąsino chaną, derybos iš karto prasidėjo su Edigėjumi. paba
 - t-001
   global_id: t-40095
   teiginys: 'Edigėjus pirmasis su savo pajėgomis stojo į mūšį su Vytautu, bet Lietuvos pajėgos pradėjo pergalėti Ordos kunigaikštį.'
+  sudarymo_pagrindimas: 'Pradinis teiginys gramatiškai sunkus, todėl perrašytas aiškesniu sakiniu.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Arbaletai|Arbaletai]]; mentioned_object: [[objektai/daiktai/Strėlės|Strėlės]]; mentioned_place: Europa; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -30,9 +33,17 @@ Edigėjus ir padrąsino chaną, derybos iš karto prasidėjo su Edigėjumi. paba
 - t-002
   global_id: t-40096
   teiginys: 'Prieš mūšį Edigėjus padrąsino chaną, vedė derybas su Vytautu ir reikalavo Lietuvos pinigus žymėti Ordos ženklais.'
+  sudarymo_pagrindimas: 'Pradinis teiginys fragmentiškas; citata leidžia suformuluoti išsamesnį faktinį sakinį.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Vorskla'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/autoriai/J. Dlugošas.md#claim-t-172865|J. Dlugošas]]: J. Dlugošas aprašė Vorsklos mūšį, kuriame Edigėjaus kariuomenė atrodė akimis neaprėpiama.
+- susijęs iš [[objektai/daiktai/Geležinėmis grandinėmis kaustyti vežimai.md#claim-t-40714|Geležinėmis grandinėmis kaustyti vežimai]]: Prie Vorsklos Vytauto įtvirtintoje stovykloje buvo geležinėmis grandinėmis kaustytų vežimų, patrankėlių, patrankų ir arbaletų.
+- susijęs iš [[objektai/daiktai/Vytauto ženklas.md#claim-t-183691|Vytauto ženklas]]: Edigėjus prie Vorsklos pareikalavo Vytauto klusnumo ir Lietuvos pinigų žymėjimo Ordos ženklais.
+- susijęs iš [[objektai/ivykiai/Vorsklos mūšis (1399 m. rugpjūčio 12 d.).md#claim-t-63377|Vorsklos mūšis (1399 m. rugpjūčio 12 d.)]]: Prieš Vorsklos mūšį Vytautas penkias dienas stovėjo įtvirtintoje stovykloje kitoje Vorsklos pusėje.
+- susijęs iš [[objektai/ivykiai/Vorsklos mūšis (1399 m. rugpjūčio 12 d.).md#claim-t-63383|Vorsklos mūšis (1399 m. rugpjūčio 12 d.)]]: 1399 m. rugpjūčio 12 d., likus dviem valandoms iki saulėlydžio, prasidėjo Vorsklos mūšis.
+- susijęs iš Vorksla: Vorksla apibūdinta kaip upė, tekanti pro Poltavą ir iš kairės pusės įtekanti į Dneprą apie 300 km žemiau Kijevo.
+- susijęs iš [[objektai/zodynas/emyras.md#claim-t-42449|emyras]]: Visoje Ordoje garsus emyras Edigėjus padrąsino chaną, o derybos iš karto prasidėjo su Edigėjumi.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -80,13 +91,4 @@ Edigėjus ir padrąsino chaną, derybos iš karto prasidėjo su Edigėjumi. paba
     - t-003
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/transportas]]
-
-### Susiję objektai
-- [[objektai/daiktai/Arbaletai]]
-- [[objektai/daiktai/Strėlės]]
-- [[objektai/daiktai/Geležinėmis grandinėmis kaustyti vežimai]]
-- [[objektai/ivykiai/Vorsklos mūšis (1399 m. rugpjūčio 12 d.)]]
-- [[objektai/daiktai/Vytauto ženklas]]
-- [[objektai/zodynas/emyras]]
+- Edigėjus dalyvavo_musyje [[objektai/ivykiai/Vorsklos mūšis|Vorsklos mūšis (mūšis)]]

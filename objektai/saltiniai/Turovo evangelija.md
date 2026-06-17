@@ -21,6 +21,8 @@ surašytas Ostromiro ir Turovo evangelijas.
 - t-001
   global_id: t-21287
   teiginys: 'Turovo evangelija buvo viena iš XI a. surašytų evangelijų, minimų greta Ostromiro evangelijos.'
+  sudarymo_pagrindimas: 'Pirminis teiginys fragmentiškas, bet citata remia aiškų faktą apie šaltinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Miro; mentioned_place: Turovas; mentioned_place: Viena'
   pagrindžia:
     - c-001
 

@@ -47,6 +47,8 @@ Nenurodyta
 - t-001
   global_id: t-87043
   teiginys: 'Surašius, persvėrus ir įvertinus Akademinės vaistinės medžiagas, jų vertė buvo mažesnė 28 707 auksinais ir 12 grašių.'
+  sudarymo_pagrindimas: 'Ilgas nutrūkęs fragmentas sutrumpintas iki aiškaus fakto apie vaistinės medžiagų vertę.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vaistinės prekės, vaistai ir gydomieji gėrimai|Vaistinės prekės, vaistai ir gydomieji gėrimai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]'
   pagrindžia:
     - c-001
 
@@ -79,8 +81,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Vaistinės prekės, vaistai ir gydomieji gėrimai]]
-- [[objektai/zodynas/seimas]]

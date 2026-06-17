@@ -22,6 +22,8 @@ tags:
 - t-001
   global_id: t-32740
   teiginys: 'Žemaičių aukštumoje išaugo ištisos ginamųjų pilių grandinės.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_object: [[objektai/daiktai/Grandinės|Grandinės]]; mentioned_object: [[objektai/zodynas/pagonys|pagonys]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

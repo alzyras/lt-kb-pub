@@ -28,6 +28,11 @@ PARTIZANŲ ĮVAIZDIS Juozas Daumantas savo prisiminimuose pasakoja apie vyravus�
 - t-001
   global_id: t-40235
   teiginys: 'Juozas Daumantas prisiminimuose aprašė Tauro apygardos partizanų susišaudymą per 1945 m. Kalėdas.'
+  sudarymo_pagrindimas: 'Teiginys yra taisyklingas faktinis sakinys apie Juozą Daumantą ir jo prisiminimus.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Daumantas|Daumantas]]'
+  temporaliniai_duomenys: 'įvykio data: 1945 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra taisyklingas faktinis sakinys apie Juozą Daumantą ir jo prisiminimus.'
   pagrindžia:
     - c-001
 
@@ -35,9 +40,21 @@ PARTIZANŲ ĮVAIZDIS Juozas Daumantas savo prisiminimuose pasakoja apie vyravus�
 - t-002
   global_id: t-183745
   teiginys: 'Juozas Daumantas prisiminimuose pasakojo apie Tauro apygardos partizanų viešnagę per 1945 m. Kalėdas, pasibaigusią susišaudymu.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis teiginys sujungia kelias temas ir turi antraštės bei fragmento triukšmo.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Daumantas|Daumantas]]'
+  temporaliniai_duomenys: 'įvykio data: 1945 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys sujungia kelias temas ir turi antraštės bei fragmento triukšmo.'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/asmenys/Antanas Jančius-Žaibas.md#claim-t-80704|Antanas Jančius-Žaibas]]: Antanas Jančius-Žaibas buvo siejamas su bunkeriu Šimonių girioje prie Iženos upelio, kurį užpuolus žuvo 6 partizanai.
+- susijęs iš [[objektai/autoriai/Juozas Lukša-Daumantas.md#claim-t-183697|Juozas Lukša-Daumantas]]: STRIBAI Juozas Daumantas pasakoja apie stribus - sovietiniams okupantams talkinusius kolaborantus.
+- susijęs iš [[objektai/autoriai/Juozas Lukša-Daumantas.md#claim-t-40632|Juozas Lukša-Daumantas]]: Juozas Daumantas aprašė Tauro apygardos partizanų 1945 m. Kalėdų apsilankymą pas ūkininką, pasibaigusį susišaudymu.
+- susijęs iš [[objektai/autoriai/Juozas Lukša-Daumantas.md#claim-t-40634|Juozas Lukša-Daumantas]]: Juozas Daumantas rašė apie stribus, sovietiniams okupantams talkinusius kolaborantus.
+- susijęs iš Iženos upelis: Antano Jančio-Žaibo bunkeryje Šimonių girioje prie Iženos upelio žuvo 6 partizanai.
 ## Reikšmingi paminėjimai
 
 - c-001

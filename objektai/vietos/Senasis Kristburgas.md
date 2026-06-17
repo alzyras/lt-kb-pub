@@ -23,6 +23,8 @@ Dusburgietis teigia, kad apie vienos pilies užkariavimą ir apie Kristburgo pil
 - t-001
   global_id: t-58632
   teiginys: 'Pamedėnų pilis stovėjo vietoje, kuri Petro Dusburgiečio kronikoje vadinama Senuoju Kristburgu.'
+  sudarymo_pagrindimas: 'Šaltinis pagrindžia vietos tapatinimą, o pradinis teiginys buvo per platus ir fragmentiškas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pamedėnai|Pamedėnai]]; mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_object: [[objektai/zodynas/naujakrikščiai|naujakrikščiai]]; mentioned_person: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Kristburgas; mentioned_place: Prūsija; mentioned_place: Viena'
   pagrindžia:
     - c-002
 
@@ -30,6 +32,8 @@ Dusburgietis teigia, kad apie vienos pilies užkariavimą ir apie Kristburgo pil
 - t-002
   global_id: t-58633
   teiginys: 'Senasis Kristburgas, vėliau vadintas Alt Christburgu, buvo senas pamedėnų centras.'
+  sudarymo_pagrindimas: 'Citata pagrindžia istorinį pavadinimą ir vietos reikšmę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Pamedėnai|Pamedėnai]]'
   pagrindžia:
     - c-001
 

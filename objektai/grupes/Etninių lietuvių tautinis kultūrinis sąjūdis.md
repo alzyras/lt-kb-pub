@@ -5,6 +5,9 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1830 m.'
+  - '1831 m.'
+  - '1863 m.'
+  - '1864 m.'
   - '1905 m.'
 date_start: '1830'
 date_end: '1905'
@@ -23,7 +26,7 @@ amziai:
 
 ## Santrauka
 
-Vilniaus universiteto aplinkoje susibūrę Žemaitijos inteligentai plėtojo aukštąją kultūrą lietuvių ir žemaičių kalba. Etninių lietuvių tautinis kultūrinis sąjūdis prasidėjo po bajorų bandymų atkurti prarastą valstybę per Napoleono karus ir sukilimus. Simono Daukanto ir Simono Stanevičiaus aplinkos inteligentai laikomi etninių lietuvių tautinio kultūrinio sąjūdžio pradininkais.
+Radikaliau nusiteikę bajorai nesusitaikė su buvusios savo valstybės praradimu, todėl bandė ją atkurti – per Napoleono karus ir du sukilimus – 1830–1831 m. ir 1863–1864 m. Šiuo laikotarpiu prasidėjo ir etninių lietuvių tautinis kultūrinis sąjūdis. Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos kilusių inteligentų (Simonas Daukantas, Simonas Stanevičius ir dar vienas kitas), kurie susitarė kryptingai plėtoti aukštosios kultūros kūrimo lietuvių (žemaičių) kalba darbą, o sykiu.
 
 ## Teiginiai
 
@@ -31,6 +34,8 @@ Vilniaus universiteto aplinkoje susibūrę Žemaitijos inteligentai plėtojo auk
 - t-001
   global_id: t-65147
   teiginys: 'Vilniaus universiteto aplinkoje susibūrę Žemaitijos inteligentai plėtojo aukštąją kultūrą lietuvių ir žemaičių kalba.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs; citata palaiko užbaigtą sakinį apie grupės veiklą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/autoriai/Rėza|Rėza]]; mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_person: [[objektai/autoriai/Simonas Stanevičius|Simonas Stanevičius]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -38,6 +43,14 @@ Vilniaus universiteto aplinkoje susibūrę Žemaitijos inteligentai plėtojo auk
 - t-002
   global_id: t-183125
   teiginys: 'Etninių lietuvių tautinis kultūrinis sąjūdis prasidėjo po bajorų bandymų atkurti prarastą valstybę per Napoleono karus ir sukilimus.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata palaiko glaustesnį teiginį apie sąjūdžio pradžios kontekstą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
+  temporaliniai_duomenys: 'įvykio data: 1830-1831; įvykio data: 1831 m.; įvykio data: 1863-1864; įvykio data: 1864 m.; įvykio data: 1905 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko glaustesnį teiginį apie sąjūdžio pradžios kontekstą.'
   pagrindžia:
     - c-002
 
@@ -45,6 +58,11 @@ Vilniaus universiteto aplinkoje susibūrę Žemaitijos inteligentai plėtojo auk
 - t-003
   global_id: t-183126
   teiginys: 'Simono Daukanto ir Simono Stanevičiaus aplinkos inteligentai laikomi etninių lietuvių tautinio kultūrinio sąjūdžio pradininkais.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata palaiko aiškų teiginį apie sąjūdžio pradininkus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/autoriai/S. Daukantas|S. Daukantas]]; mentioned_person: [[objektai/autoriai/Simonas Stanevičius|Simonas Stanevičius]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 
@@ -121,15 +139,3 @@ Vilniaus universiteto aplinkoje susibūrę Žemaitijos inteligentai plėtojo auk
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bajorai]]
-- [[objektai/asmenys/Kristijonas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/autoriai/Simonas Stanevičius]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/autoriai/S. Daukantas]]
-- [[objektai/paprociai/Lietuvių aukštosios kultūros kūrimas ir liaudies švietimas gimtąja kalba]]
-- [[objektai/grupes/Vilniaus universitetas]]
-- [[objektai/zodynas/dvilypis lietuvių-žemaičių etnosas]]

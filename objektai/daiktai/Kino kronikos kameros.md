@@ -3,12 +3,18 @@ tipas: daiktas
 pavadinimas: 'Kino kronikos kameros'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1927 m.'
+date_start: '1927'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
   - miestas
   - mokslininkas
+amziai:
+  - 'XX'
 ---
 # Kino kronikos kameros
 
@@ -42,6 +48,11 @@ Nenurodyta
 - t-001
   global_id: t-19541
   teiginys: 'Prezidentas Antanas Smetona 1927 m. vasarą ir rudenį keliavo po miestelius, lydimas karininkų, ministrų, žurnalistų ir kino kronikos kamerų.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatinis ir pagrįstas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_person: [[objektai/asmenys/Antanas Smetona|Antanas Smetona]]'
+  temporaliniai_duomenys: 'kelionės data: 1927 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatinis ir pagrįstas citata.'
   pagrindžia:
     - c-001
 
@@ -60,13 +71,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/A. Smetona]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Žydai]]
-- [[objektai/asmenys/Antanas (vaistininkas)]]
-- [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
-- [[objektai/paprociai/Prezidento A. Smetonos iškilmingos kelionės po miestelius ir sutikimo vartų ceremonijos]]
-- [[objektai/daiktai/Sutikimo vartai]]

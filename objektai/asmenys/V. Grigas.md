@@ -20,6 +20,7 @@ Grigo vadovaujama lengvosios artilerijos 1-oji baterija (4 patrankos).
 - t-001
   global_id: t-80744
   teiginys: 'Grigo vadovaujama lengvosios artilerijos 1-oji baterija (4 patrankos).'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/daiktai/Patrankos|Patrankos]]'
   pagrindžia:
     - c-001
 
@@ -41,8 +42,3 @@ Grigo vadovaujama lengvosios artilerijos 1-oji baterija (4 patrankos).
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Artilerija]]
-- [[objektai/daiktai/Patrankos]]

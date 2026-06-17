@@ -42,6 +42,8 @@ Nenurodyta
 - t-001
   global_id: t-54372
   teiginys: 'XVI a. pradžioje karalaitis Kazimieras jau buvo garbinamas Vilniaus apylinkėse.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citata.'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

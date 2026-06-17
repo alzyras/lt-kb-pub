@@ -47,9 +47,14 @@ Nenurodyta
 - t-001
   global_id: t-40772
   teiginys: 'Statybininkų šalmai ir dujokaukės Lietuvos atsikūrimo metu buvo gautos iš Vilniaus miesto tarybos.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Dujokaukės|Dujokaukės]]; mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1947 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/M. Kalašnikovas.md#claim-t-40315|M. Kalašnikovas]]: Sovietų konstruktorius M. Kalašnikovas 1947 m. sukūrė automatinį šautuvą AK-47.
+- susijęs iš [[objektai/daiktai/Dujokaukės.md#claim-t-40705|Dujokaukės]]: Dujokaukės buvo gautos iš Vilniaus miesto tarybos.
+- susijęs iš [[objektai/daiktai/Sovietų automatinis šautuvas AK-47.md#claim-t-78677|Sovietų automatinis šautuvas AK-47]]: 1947 m. M. Kalašnikovo sukurtas automatinis šautuvas AK-47 buvo priimtas į sovietinės armijos ginkluotę.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -76,10 +81,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Šautuvai]]
-- [[objektai/daiktai/Dujokaukės]]
-- [[objektai/asmenys/M. Kalašnikovas]]
-- [[objektai/daiktai/Sovietų automatinis šautuvas AK-47]]

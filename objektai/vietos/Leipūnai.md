@@ -25,28 +25,38 @@ amziai:
 Kai Mykolas Sapiega pasidavė, bajorijos regimentorius, grąžinęs jam kardą, nusivežė jį savo karietoje į Valkininkus (kautynės įvyko į šiaurę nuo Valkininkų, Leipūnuose). Kiti minėjo Leipūnų laukuose žuvusius sūnus, tėvus ir kitus gimines.
 
 ## Teiginiai
+
 <a id="claim-t-111669"></a>
 - t-001
   global_id: t-111669
   teiginys: 'Sapiegų daliniai sustojo prie Lieponių, arba Leipūnų, smuklės už maždaug 7 km nuo respublikonų stovyklos Valkininkuose.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatinis ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Respublikonai|Respublikonai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_person: [[objektai/asmenys/Povilas Sapiega|Povilas Sapiega]]; mentioned_person: [[objektai/asmenys/Pranciškus|Pranciškus]]; mentioned_place: Valkininkai; mentioned_place: Viena; mentioned_place: Vokietija'
   pagrindžia:
     - c-001
+
 <a id="claim-t-111672"></a>
 - t-003
   global_id: t-111672
   teiginys: '." Kiti minėjo Leipūnų laukuose žuvusius sūnus, tėvus ir kitus gimines.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Respublikonai|Respublikonai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_person: [[objektai/asmenys/Povilas Sapiega|Povilas Sapiega]]; mentioned_person: [[objektai/asmenys/Pranciškus|Pranciškus]]; mentioned_place: Viena; mentioned_place: Vokietija'
   pagrindžia:
     - c-001
+
 <a id="claim-t-183042"></a>
 - t-004
   global_id: t-183042
   teiginys: 'Valkininkų kautynės įvyko į šiaurę nuo Valkininkų, Leipūnuose.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir daugiausia kalba apie Mykolą Sapiegą, o vietai pakanka aiškaus fakto apie kautynių vietą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_place: Valkininkai'
   pagrindžia:
     - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-
+- susijęs iš [[objektai/zodynas/regimentorius.md#claim-t-182974|regimentorius]]: Bajorijos regimentorius Višniaveckis, grąžinęs Mykolui Sapiegai kardą, nusivežė jį savo karietoje į Valkininkus.
 ## Reikšmingi paminėjimai
+
 - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -70,6 +80,7 @@ Kai Mykolas Sapiega pasidavė, bajorijos regimentorius, grąžinęs jam kardą, 
     - t-002
     - t-003
     - t-001
+
 - c-002
   santrauka: 'Valkininkų kautynės įvyko į šiaurę nuo Valkininkų, Leipūnuose.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -83,10 +94,8 @@ Kai Mykolas Sapiega pasidavė, bajorijos regimentorius, grąžinęs jam kardą, 
     kiai ir belaisvių sukapojimas. Kai Mykolas Sapiega pasidavė, bajo-
     rijos regimentorius, grąžinęs jam kardą, nusivežė jį savo karietoje į
     Valkininkus (kautynės įvyko į šiaurę nuo Valkininkų, Leipūnuose).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-004

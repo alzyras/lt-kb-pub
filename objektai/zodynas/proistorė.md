@@ -11,7 +11,7 @@ tags: []
 
 ## Santrauka
 
-Lietuvos proistorė Ivinskio veikale apibūdinama kaip plačiai išaugusi į atskirą mokslą, tyrinėjamą kitais metodais. Lietuvos proistorė remiasi archeologiniais duomenimis ir yra tyrinėjama kitais metodais nei rašytinė istorija. Lietuvos proistorė Ivinskio veikale apibūdinama kaip plačiai išaugusi į atskirą mokslą, tyrinėjamą kitais metodais.
+Lietuvos seniausių laikų tyrimų sritis, kuriai reikalingi archeologiniai metodai; Lietuvos priešistorė, ankstyviausias Lietuvos istorijos laikotarpis, siejamas su archeologiniais tyrimais. Autorius aiškiai skiria proistorę nuo tikrosios istorijos ir laiko ją atskiru mokslu.
 
 ## Žodis ir formos
 
@@ -37,6 +37,8 @@ Autorius aiškiai skiria proistorę nuo tikrosios istorijos ir laiko ją atskiru
 - t-001
   global_id: t-05457
   teiginys: 'Lietuvos proistorė Ivinskio veikale apibūdinama kaip plačiai išaugusi į atskirą mokslą, tyrinėjamą kitais metodais.'
+  sudarymo_pagrindimas: 'Pradinis teiginys per silpnas ir praleidžia citatos esmę apie metodus.'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
     - c-002
@@ -45,6 +47,8 @@ Autorius aiškiai skiria proistorę nuo tikrosios istorijos ir laiko ją atskiru
 - t-002
   global_id: t-05458
   teiginys: 'Lietuvos proistorė remiasi archeologiniais duomenimis ir yra tyrinėjama kitais metodais nei rašytinė istorija.'
+  sudarymo_pagrindimas: 'Pradiniame teiginyje yra kontekstinė nuoroda „čia“.'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -52,6 +56,8 @@ Autorius aiškiai skiria proistorę nuo tikrosios istorijos ir laiko ją atskiru
 - t-004
   global_id: t-05608
   teiginys: 'Lietuvos proistorė apima seniausius laikus, paremtus archeologiniais duomenimis.'
+  sudarymo_pagrindimas: 'Citata pagrindžia terminą kaip seniausių laikų ir archeologinių duomenų sritį.'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -59,9 +65,22 @@ Autorius aiškiai skiria proistorę nuo tikrosios istorijos ir laiko ją atskiru
 - t-006
   global_id: t-70294
   teiginys: 'Lietuvos proistorei geriau pažinti padėjo gausūs archeologiniai kasinėjimai ir tyrinėjimai.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/marksistinė periodizacija|marksistinė periodizacija]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
-
+- susijęs iš [[objektai/autoriai/J. Jakubowski.md#claim-t-64629|J. Jakubowski]]: J. Jakubowski 1907 m. paskelbė darbą „Opis księstwa trockiego w 1387 r.“
+- susijęs iš [[objektai/autoriai/St. Zajączkowski.md#claim-t-100100|St. Zajączkowski]]: St. Zajączkowski rašė apie jotvingių vardus ir Jotvos problemą istoriografijoje.
+- susijęs iš [[objektai/grupes/Didžiojo Naugardo respublika.md#claim-t-05243|Didžiojo Naugardo respublika]]: Lietuvių žygiai pasiekdavo Didžiojo Naugardo respublikos plotus.
+- susijęs iš [[objektai/grupes/Didžiojo Naugardo respublika.md#claim-t-103736|Didžiojo Naugardo respublika]]: Lietuvių kunigaikščių kariniai būriai pasiekdavo turtingų Didžiojo Naugardo ir Pskovo respublikų plotus.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178882|Kryžiuočių ordinas]]: XIV a. pabaigos Kryžiuočių ordino Lietuvos kelių aprašymuose Aukštaitijoje minėta 18 didžiojo kunigaikščio dvarų.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178932|Kryžiuočių ordinas]]: XIV a. pabaigos Kryžiuočių ordino Lietuvos kelių aprašymuose minėta 18 didžiojo kunigaikščio dvarų Aukštaitijoje.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179104|Kryžiuočių ordinas]]: XIV a. pabaigoje Kryžiuočių ordino Lietuvos kelių aprašymuose Aukštaitijoje minėta 18 didžiojo kunigaikščio dvarų.
+- susijęs iš [[objektai/grupes/Pskovo respublika.md#claim-t-113194|Pskovo respublika]]: Lietuvių kunigaikščių kariniai būriai pasiekdavo turtingų Didžiojo Naugardo ir Pskovo respublikų plotus.
+- susijęs iš Akmens periodo (mesolithicum-neolithicum) žmogus Žemaitijoje ir Suvalkijoje: J. Žilinsko veikalas „Akmens periodo (mesolithicum-neolithicum) žmogus Žemaitijoje ir Suvalkijoje“ išleistas 1931 m.
+- susijęs iš die litauischen Wegeberichte: XIV a. pabaigos „die litauischen Wegeberichte“ įvairiose Aukštaičių žemės vietose mini 18 didžiojo kunigaikščio dvarų.
+- susijęs iš Didysis Naugardas: Lietuvių kunigaikščių kariniai būriai pasiekdavo turtingų Didžiojo Naugardo ir Pskovo respublikų plotus.
+- susijęs iš Pskovas: Lietuvių kunigaikščių kariniai būriai pasiekdavo turtingų Didžiojo Naugardo ir Pskovo respublikų plotus.
+- susijęs iš Zietela: Zieteloje į pietvakarius nuo Naugarduko iki autoriaus laikų buvo išsilaikiusi lietuvių kalbos sala.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -109,15 +128,3 @@ Autorius aiškiai skiria proistorę nuo tikrosios istorijos ir laiko ją atskiru
   statusas: verified
   pagrindžia:
     - t-006
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/istorinė-sąvoka]]
-
-### Susiję objektai
-- [[objektai/zodynas/marksistinė periodizacija]]
-- [[objektai/grupes/Didžiojo Naugardo respublika]]
-- [[objektai/autoriai/J. Jakubowski]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Pskovo respublika]]
-- [[objektai/autoriai/St. Zajączkowski]]

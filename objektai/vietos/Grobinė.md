@@ -3,11 +3,17 @@ tipas: vieta
 pavadinimas: 'Grobinė'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+datos:
+  - '650 m.'
+date_start: '650'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - pilis
   - vieta
+amziai:
+  - 'VII'
 ---
 # Grobinė
 
@@ -21,6 +27,11 @@ VII amž. gale jie įsi­ kūrė Grobine, kur turėjo savo svarbią karinę baz�
 - t-001
   global_id: t-28344
   teiginys: 'VII a. pabaigoje švedai įsikūrė Grobinėje, kur turėjo svarbią karinę bazę Seeburgą.'
+  sudarymo_pagrindimas: 'Pradiniame teiginyje neaiškus įvardis, o citata leidžia aiškiai įvardyti veikėjus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/ekspansija|ekspansija]]; mentioned_place: Durbė; mentioned_place: Gotlandas; mentioned_place: Seeburgas'
+  temporaliniai_duomenys: 'įvykio data: 650 m; įvykio data: apie 650 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
+  temporalinis_llm_pakomentavimas: 'Pradiniame teiginyje neaiškus įvardis, o citata leidžia aiškiai įvardyti veikėjus.'
   pagrindžia:
     - c-001
 

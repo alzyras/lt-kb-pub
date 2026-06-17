@@ -21,9 +21,13 @@ Vilnius, regis, dar Gediminui valdant, ėmė darytis jau ga­ nėtinai svarbiu p
 - t-001
   global_id: t-86821
   teiginys: 'Gedimino valdymo laikais Vilniuje jau buvo Rygos pirkliams suteiktų privilegijų pėdsakų.'
+  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir palikta citatos paremta faktinė mintis.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Naugardas; mentioned_place: Ryga; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/grupes/Vokiečiai.md#claim-t-117307|Vokiečiai]]: Vokiečių Rygos pirkliai turėjo daug įtakos Jogailos kontrrevoliucijos sėkmei.
+- susijęs iš [[objektai/zodynas/kontrevoliucija.md#claim-t-36795|kontrevoliucija]]: Vokiečių Rygos pirkliai turėjo daug įtakos Jogailos kontrevoliucijos pasisekimui.
+- susijęs iš [[objektai/zodynas/kontrevoliucija.md#claim-t-36797|kontrevoliucija]]: Vokiečių Rygos pirkliai turėjo daug įtakos Jogailos kontrevoliucijos pasisekimui.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -48,9 +52,3 @@ Vilnius, regis, dar Gediminui valdant, ėmė darytis jau ga­ nėtinai svarbiu p
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Gediminas]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/kontrevoliucija]]

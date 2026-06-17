@@ -20,6 +20,8 @@ Dusburgietis teigia, kad ragaina — miškų deivė (Lasickis J., Apie žemaiči
 - t-001
   global_id: t-91945
   teiginys: 'Biržiškos ir Dovydaičio darbas cituojamas teiginiui, kad liaudyje buvo žinomos aukos Ragiui ir Ragei.'
+  sudarymo_pagrindimas: 'Citata remia tik nuorodą į autorių darbą apie aukas Ragiui ir Ragei, ne Dusburgiečio teiginį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Aukausenos|Aukausenos]]; mentioned_place: Nemunas; mentioned_place: Ragainė'
   pagrindžia:
     - c-001
 
@@ -39,7 +41,3 @@ Dusburgietis teigia, kad ragaina — miškų deivė (Lasickis J., Apie žemaiči
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Aukausenos|aukausenos]]

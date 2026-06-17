@@ -22,9 +22,12 @@ dr. Baptista Cigala^16.
 - t-001
   global_id: t-28952
   teiginys: 'Vienos universiteto dr. Baptista Cigala vadovavo imperatoriaus Zigmanto teisininkų delegacijai pas Vytautą.'
+  sudarymo_pagrindimas: 'Pradinis teiginys yra fragmentas be predikato.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Viena'
   pagrindžia:
     - c-001
-
+- susijęs iš Dr. Baptistos Cigalos atsakymas dėl Vytauto karūnacijos: Dr. Baptista Cigala Zigmanto pavedimu atsakė į Krokuvos profesoriaus nuomonę dėl karūnacijos teisės.
+- susijęs iš Dr. Baptistos Cigalos atsakymas dėl Vytauto karūnacijos: Baptista Cigala antrame atsakyme gynė poziciją, kad Vytauto karūnacijai nereikėjo popiežiaus patvirtinimo.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -40,8 +43,3 @@ dr. Baptista Cigala^16.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/paprociai/Karaliaus vainikavimo ceremonialas be būtino vyskupo patepimo]]
-- [[objektai/paprociai/Karaliaus vainikavimo ir patepimo apeigos pagal ordines]]

@@ -28,6 +28,11 @@ Dusburgietis teigia, kad воронин H.
 - t-001
   global_id: t-61412
   teiginys: 'N. N. Voronino darbas apie senąjį Gardiną rėmėsi 1932-1949 m. archeologinių kasinėjimų medžiaga ir išleistas Maskvoje 1954 m.'
+  sudarymo_pagrindimas: 'Citata pagrindžia temą, šaltinių pobūdį, leidimo vietą ir metus.'
+  susije_objektai: 'mentioned_place: Gardinas; mentioned_place: Maskva'
+  temporaliniai_duomenys: 'įvykio data: 1932-1949; įvykio data: 1949 m.; įvykio data: 1954 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia temą, šaltinių pobūdį, leidimo vietą ir metus.'
   pagrindžia:
     - c-001
 

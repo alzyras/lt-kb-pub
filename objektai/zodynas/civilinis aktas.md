@@ -43,6 +43,8 @@ Terminas vartojamas argumentuojant, kad vainikavimas galėjo būti pasaulietinis
 - t-001
   global_id: t-97279
   teiginys: 'Zigmantas teigė, kad Vytauto vainikavimas yra civilinis aktas, kuriam vyskupo patepimas kaip bažnytinė ceremonija nėra būtinas.'
+  sudarymo_pagrindimas: 'Pašalintas puslapio ir antraštės triukšmas, teiginys susietas su veikėju.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Čekija'
   pagrindžia:
     - c-001
 
@@ -50,6 +52,7 @@ Terminas vartojamas argumentuojant, kad vainikavimas galėjo būti pasaulietinis
 - t-002
   global_id: t-97280
   teiginys: 'Karaliaus vainikavimas laikytas civiliniu aktu, kuriam vyskupo patepimas kaip bažnytinė ceremonija nebuvo būtinas.'
+  susije_objektai: 'mentioned_place: Čekija'
   pagrindžia:
     - c-001
 
@@ -57,6 +60,7 @@ Terminas vartojamas argumentuojant, kad vainikavimas galėjo būti pasaulietinis
 - t-003
   global_id: t-97281
   teiginys: 'Zigmantas teigė, kad Vytauto vainikavimas būtų civilinis aktas, kuriam vyskupo patepimas kaip bažnytinė ceremonija nebūtinas.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Čekija'
   pagrindžia:
     - c-001
 
@@ -86,10 +90,3 @@ Terminas vartojamas argumentuojant, kad vainikavimas galėjo būti pasaulietinis
     - t-002
     - t-001
     - t-003
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/teisinis-terminas]]
-
-### Susiję objektai
-- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]

@@ -34,6 +34,7 @@ Nenurodyta
 - t-001
   global_id: t-07810
   teiginys: 'Senieji lietuviai paprastai gėrė vandenį, midų, alų, sulą ir girą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-001
     - c-002
@@ -63,7 +64,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]

@@ -5,8 +5,9 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1923 m.'
+  - '1939 m.'
 date_start: '1923'
-date_end: ''
+date_end: '1939'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -26,6 +27,10 @@ amziai:
 - t-001
   global_id: t-42482
   teiginys: 'Prie sienos nustatyta 6 km pločio neutrali zona, todėl abi pusės turėjo pasitraukti po 3 km.'
+  sudarymo_pagrindimas: 'Citata nepagrindžia neutralios zonos nustatymo metų, todėl pašalinta nepagrįsta data.'
+  temporaliniai_duomenys: 'įvykio data: iki 1939 m.; įvykio data: 1923 m.; įvykio data: 1939 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata nepagrindžia neutralios zonos nustatymo metų, todėl pašalinta nepagrįsta data.'
   pagrindžia:
     - c-001
 

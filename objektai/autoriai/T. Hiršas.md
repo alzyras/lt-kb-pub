@@ -29,6 +29,11 @@ Dusburgietis teigia, kad hiršas mano, kad čia esanti rašybos klaida (turėtų
 - t-001
   global_id: t-91955
   teiginys: 'T. Hiršas villa Culmen laikė rašybos klaida ir siejo šį vietovardį su Kulva.'
+  sudarymo_pagrindimas: 'Citata aiškiai pateikia T. Hiršo interpretaciją; pradinis teiginys negramatiškas.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vygandas|Vygandas]]; mentioned_person: [[objektai/autoriai/Vygandas Marburgietis|Vygandas Marburgietis]]'
+  temporaliniai_duomenys: 'įvykio data: 1384 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata aiškiai pateikia T. Hiršo interpretaciją; pradinis teiginys negramatiškas.'
   pagrindžia:
     - c-001
 

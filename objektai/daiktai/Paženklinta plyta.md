@@ -38,6 +38,8 @@ Nenurodyta
 - t-001
   global_id: t-08312
   teiginys: 'Vilniaus žinyčios sienoje būdavo įmūrijama paženklinta plyta, kad būtų žinomi praėjusių metų skaitliai.'
+  teiginio_tipas: 'faktas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_place: Lietuva; mentioned_place: Pinskas; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -45,6 +47,8 @@ Nenurodyta
 - t-002
   global_id: t-08313
   teiginys: 'Paskuojoji plyta turėjo dvikežį skersį, o ženklas buvo siunčiamas didžiajam kunigaikščiui.'
+  teiginio_tipas: 'faktas'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -86,10 +90,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Krikščionys]]
-- [[objektai/zodynas/Adynos|adynos]]
-- [[objektai/zodynas/kunigas]]
-- [[objektai/zodynas/pagonybė]]

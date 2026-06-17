@@ -22,7 +22,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Jokūbas Jasinskis pirmojoje sukilimo fazėje vadovavo visų Lietuvos sukilėlių veiksmams. 1794 m. balandžio 16 d. Šiauliuose prasidėjus sukilimui Lietuvoje, jo vadu tapo Jokūbas Jasinskis. Ginant Varšuvą žuvo Lietuvos sukilėlių vadas Jokūbas Jasinskis.
+Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiauliuose, sukilėlių vadu tapo Jokūbas Jasinskis. Jasinskis ir Gegužės trečiosios konstitucijos pataisos autorius T.
 
 ## Teiginiai
 
@@ -30,6 +30,8 @@ Jokūbas Jasinskis pirmojoje sukilimo fazėje vadovavo visų Lietuvos sukilėli�
 - t-001
   global_id: t-63708
   teiginys: 'Jokūbas Jasinskis pirmojoje sukilimo fazėje vadovavo visų Lietuvos sukilėlių veiksmams.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/savarankiškumas|savarankiškumas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)|Jokūbas (vėliau Urbonas IV)]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 
@@ -37,6 +39,9 @@ Jokūbas Jasinskis pirmojoje sukilimo fazėje vadovavo visų Lietuvos sukilėli�
 - t-002
   global_id: t-63710
   teiginys: '1794 m. balandžio 16 d. Šiauliuose prasidėjus sukilimui Lietuvoje, jo vadu tapo Jokūbas Jasinskis.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Gardino seimas|Gardino seimas]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)|Jokūbas (vėliau Urbonas IV)]]; mentioned_person: [[objektai/asmenys/Stanislovas|Stanislovas]]; mentioned_place: Gardinas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Šiauliai'
+  temporaliniai_duomenys: 'įvykio data: 1794 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -44,9 +49,11 @@ Jokūbas Jasinskis pirmojoje sukilimo fazėje vadovavo visų Lietuvos sukilėli�
 - t-003
   global_id: t-63711
   teiginys: 'Ginant Varšuvą žuvo Lietuvos sukilėlių vadas Jokūbas Jasinskis.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Rusijos kariuomenė|Rusijos kariuomenė]]; mentioned_object: [[objektai/zodynas/konstitucijos|konstitucijos]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)|Jokūbas (vėliau Urbonas IV)]]; mentioned_person: [[objektai/asmenys/T. Korsakas|T. Korsakas]]; mentioned_place: Lietuva; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Rusija; mentioned_place: Varšuva'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/ivykiai/1794 m. sukilimas Lietuvoje.md#claim-t-20133|1794 m. sukilimas Lietuvoje (sukilimas, XVIII a.)]]: Ginant Varšuvą žuvo Lietuvos sukilėlių vadas Jokūbas Jasinskis ir Gegužės trečiosios konstitucijos pataisos autorius T. Korsakas.
+- susijęs iš [[objektai/ivykiai/1794 m. sukilimas Lietuvoje.md#claim-t-20134|1794 m. sukilimas Lietuvoje (sukilimas, XVIII a.)]]: Lietuvoje 1794 m. sukilimas prasidėjo balandžio 16 d. Šiauliuose, o sukilėlių vadu tapo Jokūbas Jasinskis.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -109,14 +116,3 @@ Jokūbas Jasinskis pirmojoje sukilimo fazėje vadovavo visų Lietuvos sukilėli�
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Gardino seimas]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/grupes/Rusijos kariuomenė]]
-- [[objektai/zodynas/konstitucijos]]
-- [[objektai/zodynas/savarankiškumas]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/ivykiai/1794 m. sukilimas Lietuvoje|1794 m. sukilimas Lietuvoje (sukilimas, XVIII a.)]]

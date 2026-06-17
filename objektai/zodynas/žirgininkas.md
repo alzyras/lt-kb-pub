@@ -6,6 +6,8 @@ saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 datos:
   - '1470 m.'
+  - '1498 m.'
+  - '1500 m.'
   - '1503 m.'
 date_start: '1470'
 date_end: '1503'
@@ -27,6 +29,11 @@ Jonas Vilčekas, karališkasis Vilniaus vaivadijos žirgininkas, buvo pasiųstas
 - t-001
   global_id: t-185418
   teiginys: 'Jonas Vilčekas, karališkasis Vilniaus vaivadijos žirgininkas, buvo pasiųstas į Maskvą kartu su Lukošiumi Garaburda.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Išskirtas aiškus faktas apie žirgininką ir pašalintas perteklinis kontekstas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -34,9 +41,19 @@ Jonas Vilčekas, karališkasis Vilniaus vaivadijos žirgininkas, buvo pasiųstas
 - t-002
   global_id: t-187537
   teiginys: 'Andrius Droždža apie 1500 m. tapo Vilniaus žirgininku ir 1503 m. gavo valdyti Belicą bei Zblianus prie Lydos.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Claimas yra aiškus, gramatiškas ir paremtas citatos duomenimis.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/taurininkas|taurininkas]]; mentioned_place: Kamenecas; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1498 m.; įvykio data: 1500 m.; įvykio data: apie 1500 m.; įvykio data: 1503 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
+  temporalinis_llm_pakomentavimas: 'Claimas yra aiškus, gramatiškas ir paremtas citatos duomenimis.'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/asmenys/Andrius Mackevičius.md#claim-t-186094|Andrius Mackevičius]]: Andrius Mackevičius, slaptosios karaliaus tarybos narys, priklausė pasiuntinybei į Maskvą.
+- susijęs iš [[objektai/asmenys/Motiejus Kločka.md#claim-t-186070|Motiejus Kločka]]: Maršalas Motiejus Kločka buvo pasiuntinybės į Maskvą narys kartu su Vasilijumi Bogdanovičiumi Čižu ir Andriumi Mackevičiumi.
+- susijęs iš [[objektai/zodynas/taurininkas.md#claim-t-187561|taurininkas]]: Andrius Droždža 1498 m. gavo didžiojo kunigaikščio taurininko pareigas ir vyko su diplomatine misija pas totorius.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -76,12 +93,3 @@ Jonas Vilčekas, karališkasis Vilniaus vaivadijos žirgininkas, buvo pasiųstas
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Augustas]]
-- [[objektai/asmenys/Jonas]]
-- [[objektai/grupes/Maskvėnai]]
-- [[objektai/zodynas/taurininkas]]
-- [[objektai/asmenys/Andrius Mackevičius]]
-- [[objektai/asmenys/Motiejus Kločka]]

@@ -26,6 +26,11 @@ Dusburgietis teigia, kad mažvydas (1547) burtininkę vadina šventąja (Mažvyd
 - t-001
   global_id: t-61226
   teiginys: 'M. Mažvydas 1547 m. burtininkę vadina šventąja.'
+  sudarymo_pagrindimas: 'Pradinis teiginys turi klaidingą atribuciją Dusburgiečiui, o citata palaiko trumpą faktą apie Mažvydą.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/Martynas Mažvydas Vaitkūnas|Martynas Mažvydas Vaitkūnas]]'
+  temporaliniai_duomenys: 'įvykio data: 1547 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys turi klaidingą atribuciją Dusburgiečiui, o citata palaiko trumpą faktą apie Mažvydą.'
   pagrindžia:
     - c-001
 

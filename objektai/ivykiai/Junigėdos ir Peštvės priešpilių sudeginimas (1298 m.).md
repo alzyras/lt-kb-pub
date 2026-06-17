@@ -46,6 +46,9 @@ Papiliai buvo sudeginti, o grįžtant kova atsinaujino.
 - t-001
   global_id: t-97019
   teiginys: '1298 m. Brandenburgo komtūras su gausiu būriu sudegino Junigėdos ir Peštvės priešpilius.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_person: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_place: Lietuva; mentioned_place: Peštvė'
+  temporaliniai_duomenys: 'įvykio data: 1298 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -53,6 +56,8 @@ Papiliai buvo sudeginti, o grįžtant kova atsinaujino.
 - t-002
   global_id: t-97020
   teiginys: 'Kunonas, Brandenburgo komtūras, užpuolė Junigėdos ir Pieštvės pilis ir iki pamatų sudegino jų papilius.'
+  sudarymo_pagrindimas: 'Sakinys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Junigeda; mentioned_place: Livonija; mentioned_place: Pieštvė; mentioned_place: Prūsija; mentioned_place: Ragainė'
   pagrindžia:
     - c-002
 
@@ -60,6 +65,7 @@ Papiliai buvo sudeginti, o grįžtant kova atsinaujino.
 - t-004
   global_id: t-97022
   teiginys: 'Dusburgietis rašo, kad Kunonas su didele kariuomene užpuolė Junigėdos ir Pieštvės pilis ir iki pamatų sudegino jų papilius.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Kunonas (Brandenburgo komtūras)|Kunonas (Brandenburgo komtūras)]]; mentioned_place: Junigeda; mentioned_place: Livonija; mentioned_place: Pieštvė; mentioned_place: Prūsija; mentioned_place: Ragainė'
   pagrindžia:
     - c-002
 
@@ -112,15 +118,3 @@ Papiliai buvo sudeginti, o grįžtant kova atsinaujino.
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/komtūras]]
-- [[objektai/zodynas/pagonybė]]
-- [[objektai/autoriai/Dusburgas]]
-- [[objektai/asmenys/Tame (Baigos brolis)]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/asmenys/Kunonas (Brandenburgo komtūras)]]

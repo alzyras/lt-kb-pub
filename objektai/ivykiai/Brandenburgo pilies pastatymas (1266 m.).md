@@ -43,6 +43,12 @@ Nenurodyta
 - t-001
   global_id: t-62750
   teiginys: '1266 m. Brandenburgo markgrafas, magistro ir brolių patariamas, Prūsijoje pastatydino Brandenburgo pilį.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pradinis teiginys perteklinis ir prasideda netinkamu autorystės boilerplate.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Prūsija'
+  temporaliniai_duomenys: 'pastatymo data: 1266 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys perteklinis ir prasideda netinkamu autorystės boilerplate.'
   pagrindžia:
     - c-001
 
@@ -63,7 +69,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/magistras]]

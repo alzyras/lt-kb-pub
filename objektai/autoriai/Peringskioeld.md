@@ -29,6 +29,11 @@ Jo kū­ rinys, pavadintas Heimskringla, tai yra Pasaulis, arba tiksliau - Žem�
 - t-001
   global_id: t-88079
   teiginys: 'Peringskioeld 1697 m. Stokholme išleido „Heimskringlą“ islandų, švedų ir lotynų kalbomis.'
+  sudarymo_pagrindimas: 'Pradiniame teiginyje yra OCR triukšmo, o citata aiškiai palaiko glaustą faktą apie leidimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Europa; mentioned_place: Skandinavija'
+  temporaliniai_duomenys: 'įvykio data: 1697 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradiniame teiginyje yra OCR triukšmo, o citata aiškiai palaiko glaustą faktą apie leidimą.'
   pagrindžia:
     - c-001
 
@@ -67,8 +72,3 @@ Jo kū­ rinys, pavadintas Heimskringla, tai yra Pasaulis, arba tiksliau - Žem�
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Švedai]]
-- [[objektai/grupes/Lotynai]]

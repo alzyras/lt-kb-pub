@@ -20,6 +20,8 @@ Pirmoji iš šių dviejų kariuomenių yra Karūnos armija ir priklauso Lenkijos
 - t-001
   global_id: t-41488
   teiginys: 'Respublikoje viena kariuomenė buvo Karūnos armija, o kita priklausė Lietuvos Didžiajai Kunigaikštystei.'
+  susije_objektai: 'owner: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; owner: Lenkija; owner: Lietuva; owner: Viena; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/posakiai/„Respublika turi dvi atskiras kariuomenes“|„Respublika turi dvi atskiras kariuomenes“]] priklausė [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; [[objektai/posakiai/„Respublika turi dvi atskiras kariuomenes“|„Respublika turi dvi atskiras kariuomenes“]] priklausė Lenkija; [[objektai/posakiai/„Respublika turi dvi atskiras kariuomenes“|„Respublika turi dvi atskiras kariuomenes“]] priklausė Lietuva; [[objektai/posakiai/„Respublika turi dvi atskiras kariuomenes“|„Respublika turi dvi atskiras kariuomenes“]] priklausė Viena'
   pagrindžia:
     - c-001
 
@@ -39,7 +41,7 @@ Pirmoji iš šių dviejų kariuomenių yra Karūnos armija ir priklauso Lenkijos
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Karūna]]
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/paprociai/Abiejų Tautų Respublikos kariuomenių atskiras stovyklavimas ir pavaldumo nebuvimas]]
+- „Respublika turi dvi atskiras kariuomenes“ priklause [[objektai/grupes/Abiejų Tautų Respublika]]
+- „Respublika turi dvi atskiras kariuomenes“ priklause [[objektai/vietos/Lenkija]]
+- „Respublika turi dvi atskiras kariuomenes“ priklause [[objektai/vietos/Lietuva]]
+- „Respublika turi dvi atskiras kariuomenes“ priklause [[objektai/vietos/Viena]]

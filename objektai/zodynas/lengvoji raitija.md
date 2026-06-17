@@ -18,9 +18,14 @@ Prieš pagrindinių jėgų susidūrimą kovėsi abiejų pusių lengvosios raitij
 - t-001
   global_id: t-185367
   teiginys: 'Prieš pagrindinių jėgų susidūrimą kovėsi abiejų pusių lengvosios raitijos žvalgybiniai būriai, o sėkmė lydėjo karaliaus karius.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata remia faktą apie lengvosios raitijos būrius ir susidūrimo baigtį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]; mentioned_place: Borisovas; mentioned_place: Viena'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/paprociai/Tradicinė Lietuvos ir Lenkijos kovinė rikiuotė.md#claim-t-09550|Tradicinė Lietuvos ir Lenkijos kovinė rikiuotė]]: XV a. pabaigoje - XVI a. pradžioje Lietuvoje ir Lenkijoje susiformavo ilgam tradicine tapusi kovinė rikiuotė.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -41,9 +46,3 @@ Prieš pagrindinių jėgų susidūrimą kovėsi abiejų pusių lengvosios raitij
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Konstantinas (Karijotaitis)]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/paprociai/Tradicinė Lietuvos ir Lenkijos kovinė rikiuotė]]

@@ -21,6 +21,8 @@ Dusburgietis teigia, kad iII, 347; Zajączkowski S., Studya..., p. 40—41; SZM,
 - t-001
   global_id: t-60745
   teiginys: 'A. Makarevičius siejo Paštuvos pilį su Jaučakių piliakalniu į rytus nuo Vilkijos.'
+  sudarymo_pagrindimas: 'Citata nurodo Makarevičiaus darbą kaip atramą Paštuvos pilies lokalizacijai.'
+  susije_objektai: 'mentioned_place: Kaimas; mentioned_place: Kulautuva; mentioned_place: Nemunas; mentioned_place: Nevėžis; mentioned_place: Paštuvos valsčius; mentioned_place: Vilkija'
   pagrindžia:
     - c-001
 

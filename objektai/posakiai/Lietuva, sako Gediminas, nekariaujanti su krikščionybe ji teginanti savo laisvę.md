@@ -19,31 +19,27 @@ tags:
 - Pagrindinė forma: Lietuva, sako Gediminas, nekariaujanti su krikščionybe: ji teginanti savo laisvę
 
 ## Teiginiai
-- t-002
+
+<a id="claim-t-06877"></a>
+- t-001
+  global_id: t-06877
   teiginys: 'Gediminas teigė, kad Lietuva nekariauja su krikščionybe, o tik gina savo laisvę.'
+  sudarymo_pagrindimas: 'Boilerplate pakeistas aiškiu sakiniu apie Gedimino teiginį.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Vytenis|Vytenis]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Gediminas teigė, kad Lietuva nekariauja su krikščionybe, o tik gina savo laisvę.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Vytenis prašęs atsiųsti į Lietuvą kunigų, bet ordinas siun-
     tęs ne kunigus, o savo kariuomenę. Maža to, ordinas net suimi-
     nėjąs į Lietuvą vykstančius kunigus. Lietuva, sako Gediminas,
     nekariaujanti su krikščionybe: ji teginanti savo laisvę.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Vytenis]]
-- [[objektai/asmenys/Gediminas]]
+    - t-001

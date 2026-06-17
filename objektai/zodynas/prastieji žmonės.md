@@ -10,7 +10,7 @@ atnaujinta: ''
 
 ## Santrauka
 
-Smolensko prastieji žmonės kartu su vyskupu Semionu, kunigaikščiais, bajorais ir miestiečiais prisiekė laikyti Andrių Sakavičių vaivada. Smolensko bajorai nepripažino Dorohobužo kunigaikščio Andrejaus Dimitrijevičiaus vaivada, nes jį išrinko prastieji žmonės. Smolensko bajorai skundėsi didžiajam kunigaikščiui Kazimierui, kad prastieji žmonės be jų sutikimo išsirinko vaivada Andrejų Dimitrijevičių.
+Smolensko prastieji žmonės kartu su vyskupu Semionu, kunigaikščiais, bajorais ir miestiečiais prisiekė laikyti Andrių Sakavičių vaivada. Smolensko bajorai nepripažino Dorohobužo kunigaikščio Andrejaus Dimitrijevičiaus vaivada, nes jį išrinko prastieji žmonės. Lietuvos metraštyje Smolensko bajorai skundėsi Kazimierui, kad prastieji žmonės be jų sutikimo vaivada išsirinko Dorohobužo kunigaikštį Andrejų.
 
 ## Teiginiai
 
@@ -18,6 +18,11 @@ Smolensko prastieji žmonės kartu su vyskupu Semionu, kunigaikščiais, bajorai
 - t-001
   global_id: t-187544
   teiginys: 'Smolensko prastieji žmonės kartu su vyskupu Semionu, kunigaikščiais, bajorais ir miestiečiais prisiekė laikyti Andrių Sakavičių vaivada.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Claimas tinkamas, bet pataisyta linksnio klaida: prisiekė laikyti ką vaivada.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Smolenskiečiai|Smolenskiečiai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Smolenskas; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -25,16 +30,28 @@ Smolensko prastieji žmonės kartu su vyskupu Semionu, kunigaikščiais, bajorai
 - t-002
   global_id: t-187545
   teiginys: 'Smolensko bajorai nepripažino Dorohobužo kunigaikščio Andrejaus Dimitrijevičiaus vaivada, nes jį išrinko prastieji žmonės.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Sakinys yra aiškus, faktinis ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Smolenskas'
   pagrindžia:
     - c-002
 
 <a id="claim-t-187546"></a>
 - t-003
   global_id: t-187546
-  teiginys: 'Smolensko bajorai skundėsi didžiajam kunigaikščiui Kazimierui, kad prastieji žmonės be jų sutikimo išsirinko vaivada Andrejų Dimitrijevičių.'
+  teiginys: 'Lietuvos metraštyje Smolensko bajorai skundėsi Kazimierui, kad prastieji žmonės be jų sutikimo vaivada išsirinko Dorohobužo kunigaikštį Andrejų.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Išskleistas Andrejaus identifikavimas pagal citatą, o valdovo titulas atribucijos sumetimais praleistas. Nepridėtas vėlesnis Jurgio Lengvenaičio pasirinkimas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Lietuva; mentioned_place: Smolenskas'
   pagrindžia:
     - c-003
-
+- susijęs iš [[objektai/ivykiai/Smolensko prastųjų žmonių sukilimas.md#claim-t-186630|Smolensko prastųjų žmonių sukilimas (sukilimas)]]: Lietuvos metraštis pasakoja, kad Smolensko prastieji žmonės po Velykų sumanė išvaryti Andrių Sakavičių ir sulaužyti priesaiką.
+- susijęs iš [[objektai/ivykiai/Smolensko prastųjų žmonių sukilimas.md#claim-t-186631|Smolensko prastųjų žmonių sukilimas (sukilimas)]]: Lietuvos metraštis teigia, kad Smolensko sukilimo metu Andriaus šalininkai susirėmė su prastaisiais žmonėmis prie šv. Boriso ir Glebo cerkvės.
+- susijęs iš [[objektai/ivykiai/Smolensko prastųjų žmonių sukilimas.md#claim-t-186632|Smolensko prastųjų žmonių sukilimas (sukilimas)]]: Lietuvos metraščio pasakojime po Velykų Smolensko prastieji žmonės sumanė išvaryti Andrių, apsiginklavo ietimis, dalgiais ir kirviais bei ėmė skambinti varpu.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -87,7 +104,7 @@ Smolensko prastieji žmonės kartu su vyskupu Semionu, kunigaikščiais, bajorai
     - t-002
 
 - c-003
-  santrauka: 'Smolensko bajorai skundėsi didžiajam kunigaikščiui Kazimierui, kad prastieji žmonės be jų sutikimo išsirinko vaivada Andrejų Dimitrijevičių.'
+  santrauka: 'Lietuvos metraštyje Smolensko bajorai skundėsi Kazimierui, kad prastieji žmonės be jų sutikimo vaivada išsirinko Dorohobužo kunigaikštį Andrejų.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     Ir jie nuvyko skųs­
@@ -109,14 +126,3 @@ Smolensko prastieji žmonės kartu su vyskupu Semionu, kunigaikščiais, bajorai
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bajorai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Smolenskiečiai]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/maršalas]]
-- [[objektai/zodynas/vaivada]]
-- [[objektai/asmenys/Žygimantas]]
-- [[objektai/ivykiai/Smolensko prastųjų žmonių sukilimas|Smolensko prastųjų žmonių sukilimas (sukilimas)]]

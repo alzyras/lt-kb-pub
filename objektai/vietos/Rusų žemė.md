@@ -19,35 +19,49 @@ amziai:
 
 ## Santrauka
 
-Vytautas prašė raštų dėl jam duotos rusų žemės, priklausiusios Liubartui. Aleksandras su Elena važiavo apžiūrėti Rusų žemės. Rusų žemė čia minima kaip valdovo lankomas regionas.
+Chanas patraukė į Rusų žemę ir padarė daug žalos Rusų žemei. Skirmantas po pergalės nužygiavo Rusų žemėn.
 
 ## Teiginiai
 
 <a id="claim-t-187312"></a>
 - t-001
   global_id: t-187312
-  teiginys: 'Vytautas prašė raštų dėl jam duotos rusų žemės, priklausiusios Liubartui.'
+  teiginys: 'Vytautas prašė Jogailos raštų ir privilegijų dėl jam duotos Rusų žemės, anksčiau priklausiusios Liubartui.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Sakinys pataisytas į aiškią, pilną formą pagal citatą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Liubartas|Liubartas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-002
 
 <a id="claim-t-187313"></a>
 - t-002
   global_id: t-187313
-  teiginys: 'Aleksandras su Elena važiavo apžiūrėti Rusų žemės.'
+  teiginys: 'Pasak Lietuvos metraščio, Aleksandras su Elena ir didikais tą žiemą važiavo apžiūrėti Rusų žemės ir lankėsi Smolenske, Vitebske bei Polocke.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Rusų žemės apžiūra palikta su metraščio atribucija, nes tai kronikos vartojama politinė-geografinė formuluotė. Nepridėta metų ar titulų, kurių nereikia teiginiui.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Brasta; mentioned_place: Lietuva; mentioned_place: Liublinas; mentioned_place: Polockas; mentioned_place: Vilnius; mentioned_place: Vitebskas'
   pagrindžia:
     - c-001
 
 <a id="claim-t-187315"></a>
 - t-003
   global_id: t-187315
-  teiginys: 'Rusų žemė čia minima kaip valdovo lankomas regionas.'
+  teiginys: 'Rusų žemė minima kaip Aleksandro, Elenos ir didikų lankytas regionas su Smolensku, Vitebsku ir Polocku.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pašalintas kontekstinis žodis „čia“ ir sukonkretintas faktas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Brasta; mentioned_place: Liublinas; mentioned_place: Polockas; mentioned_place: Vilnius; mentioned_place: Vitebskas'
   pagrindžia:
     - c-001
 
 <a id="claim-t-187647"></a>
 - t-004
   global_id: t-187647
-  teiginys: 'Didysis kunigaikštis Aleksandras su Elena ir didikais apžiūrėjo Rusų žemę, lankėsi Smolenske, Vitebske ir Polocke, o pavasariop grįžo į Vilnių.'
+  teiginys: 'Aleksandras su Elena ir didikais apžiūrėjo Rusų žemę, lankėsi Smolenske, Vitebske ir Polocke, o pavasariop grįžo į Vilnių.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pašalintas titulas, kuriam šiame profilyje reikėtų atribucijos.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Brasta; mentioned_place: Liublinas; mentioned_place: Vilnius; mentioned_place: Vitebskas'
   pagrindžia:
     - c-001
 
@@ -76,6 +90,7 @@ Vytautas prašė raštų dėl jam duotos rusų žemės, priklausiusios Liubartui
     - t-004
 
 - c-002
+  santrauka: 'Vytautas prašė Jogailos raštų ir privilegijų dėl jam duotos Rusų žemės, anksčiau priklausiusios Liubartui.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     Man tai buvo

@@ -4,6 +4,11 @@ pavadinimas: 'Engelhardas Rabė'
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+datos:
+  - '1388 m.'
+  - '1390 m.'
+date_start: '1388'
+date_end: '1390'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -11,12 +16,17 @@ tags:
   - kunigaikštis
   - ordinas
   - sutartis
+  - valdovas
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 ---
 # Engelhardas Rabė
 
 ## Santrauka
 
-Ordino maršalas Engelhardas Rabė vadovavo kryžiuočių žygiui, nes didysis magistras Konradas Ciolneris sunkiai sirgo. Ordino maršalas Engelhardas Rabė 1388 m. buvo taikos sutarties su Lietuva, sudarytos ties Kaunu, šalis. Ordino maršalas Engelhardas Rabė paėmė Maišiagalą ir sudegino Kernavę.
+Tik taikos sutartyje tarp Ordi­ no maršalo Engelhardo Rabės ir Lietuvos, apie kurią užsimena F o i gt a s, V, 507, sudarytoje ties Kaunu 1388 metais, Scriptum prope Cowno in crastino b. Galop ta galinga kariauna išsiruošė į žygį vedama vyriausiojo vado Ordino maršalo Engelhardo Rabės22, kadangi didysis magistras Konradas Ciolneris gu­ lėjo pakirstas sunkios ligos.
 
 ## Teiginiai
 
@@ -24,6 +34,8 @@ Ordino maršalas Engelhardas Rabė vadovavo kryžiuočių žygiui, nes didysis m
 - t-001
   global_id: t-184430
   teiginys: 'Ordino maršalas Engelhardas Rabė vadovavo kryžiuočių žygiui, nes didysis magistras Konradas Ciolneris sunkiai sirgo.'
+  teiginio_tipas: 'faktas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Anglai|Anglai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/asmenys/Rabė|Rabė]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 
@@ -31,6 +43,10 @@ Ordino maršalas Engelhardas Rabė vadovavo kryžiuočių žygiui, nes didysis m
 - t-002
   global_id: t-184431
   teiginys: 'Ordino maršalas Engelhardas Rabė 1388 m. buvo taikos sutarties su Lietuva, sudarytos ties Kaunu, šalis.'
+  teiginio_tipas: 'faktas'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Rabė|Rabė]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Polockas'
+  temporaliniai_duomenys: 'įvykio data: 1388 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -38,9 +54,15 @@ Ordino maršalas Engelhardas Rabė vadovavo kryžiuočių žygiui, nes didysis m
 - t-003
   global_id: t-184432
   teiginys: 'Ordino maršalas Engelhardas Rabė paėmė Maišiagalą ir sudegino Kernavę.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Reikia suderinti asmenvardžio formą su lietuvišku note pavadinimu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Rabė|Rabė]]; mentioned_place: Kernavė; mentioned_place: Livonija; mentioned_place: Maišiagala; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1390 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia suderinti asmenvardžio formą su lietuvišku note pavadinimu.'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/zodynas/Ordino maršalas didysis maršalas.md#claim-t-86490|Ordino maršalas didysis maršalas]]: Ordino maršalas Engelhardas Rabė vadovavo žygiui, nes didysis magistras Konradas Ciolneris sirgo sunkia liga.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -99,15 +121,3 @@ Ordino maršalas Engelhardas Rabė vadovavo kryžiuočių žygiui, nes didysis m
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Anglai]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/zodynas/didysis magistras]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/maršalas]]
-- [[objektai/zodynas/pagonybė]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/asmenys/Rabė]]
-- [[objektai/zodynas/Ordino maršalas didysis maršalas]]

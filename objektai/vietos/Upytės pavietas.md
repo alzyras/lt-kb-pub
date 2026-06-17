@@ -1,28 +1,18 @@
 ---
 tipas: vieta
 pavadinimas: 'Upytės pavietas'
-variantai:
-  - 'Upytės pavie­'
-aliases: []
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
+datos:
+  - '1434 m.'
+date_start: '1434'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
-laikotarpis: ''
-datos:
-  - '1434 m. rugpjūčio pabaiga'
-periodas: ''
-periodo_grupes: []
-amziai:
-  - 'XV'
-date_start: '1434'
-date_end: '1434'
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: ''
 tags:
   - vieta
+amziai:
+  - 'XV'
 ---
 # Upytės pavietas
 
@@ -31,18 +21,23 @@ tags:
 1434 m. rugpjūčio pabaigoje vienas Livonijos kryžiuočių dalinys buvo įsibrovęs į Upytės pavietą.
 
 ## Teiginiai
+
 <a id="claim-t-187369"></a>
 - t-001
   global_id: t-187369
   teiginys: '1434 m. rugpjūčio pabaigoje vienas Livonijos kryžiuočių dalinys buvo įsibrovęs į Upytės pavietą.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiksliai perteikia citatoje minimą 1434 m. rugpjūčio pabaigos įsiveržimą į Upytės pavietą. Vertinamųjų ar poleminių formuluočių nepridėta.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/pavietas|pavietas]]; mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_place: Livonija; mentioned_place: Upytė'
+  temporaliniai_duomenys: 'įvykio data: 1434 m.; įvykio data: apie 1434 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir tiksliai perteikia citatoje minimą 1434 m. rugpjūčio pabaigos įsiveržimą į Upytės pavietą. Vertinamųjų ar poleminių formuluočių nepridėta.'
   pagrindžia:
     - c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1434 m. rugpjūčio pabaigoje vienas Livonijos kryžiuočių dalinys buvo įsibrovęs į Upytės pavietą.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     *  Kalbama apie 1434 m.
@@ -51,10 +46,8 @@ tags:
     vienas Livonijos kryžiuočių dalinys buvo įsibrovęs I Upytės pavie­
     tų. o kiti du — | Žemaitija; Iš pastarųjų vienas buvo sumuštas
     Žemaičių seniūno vadovaujam ų lietuvių.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

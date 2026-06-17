@@ -4,9 +4,10 @@ pavadinimas: 'Šeinfeldas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
+  - '1940 m.'
   - '1948 m.'
   - '2026 m.'
-date_start: '1948'
+date_start: '1940'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
@@ -28,6 +29,11 @@ Lietuvos pabėgėliai stovykloje Vokietijoje (Šeinfelde) renkasi dalijamus drab
 - t-001
   global_id: t-26300
   teiginys: '1948 m. Šeinfeldo stovykloje Vokietijoje Lietuvos pabėgėliai rinkosi dalijamus drabužius.'
+  sudarymo_pagrindimas: 'Iš antraštės pašalintas OCR triukšmas ir suformuluotas pilnas sakinys.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; mentioned_place: Baltija; mentioned_place: Lietuva; mentioned_place: Vokietija'
+  temporaliniai_duomenys: 'įvykio data: 1940 m.; įvykio data: 1948 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Iš antraštės pašalintas OCR triukšmas ir suformuluotas pilnas sakinys.'
   pagrindžia:
     - c-001
 

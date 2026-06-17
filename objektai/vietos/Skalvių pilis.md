@@ -15,6 +15,7 @@ tags:
   - krikštas
   - pilis
   - tikėjimas
+  - vieta
 amziai:
   - 'XIII'
 ---
@@ -22,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-Skalvių pilis 1293 m. statyta kairiajame Nemuno krante žemiau Ragainės, prie Skalvos upelio ties Paskalviais. Lietuviai pasitraukdami ištrypė ir sunaikino visus pasėlius Skalvių ir Ragainės pilių laukuose. Iš Ragainės pabėgęs ginklanešys pasisiūlė lietuvių karaliui perduoti Skalvių pilį.
+Dusburgietis teigia, kad neilgai trukus prie Nemuno, šiek tiek žemiau, pastatė Skalvių pilį528, kad turėtų kur gyventi skalviai, atsivertę į Kristaus tikėjimą. Dusburgietis teigia, kad skalvių pilis statyta 1293 m. (SRP, 1, 271, 280) kair. Dusburgietis teigia, kad apie Skalvių pilies puolimą 1293 Vienas šios kariuomenės ginklanešys iš Ragainės, gimęs Bartos žemėje, slapčiomis pabėgo; šis pragaro sūnus, atėjęs pas lietuvių karalių, pasisiūlė, laiduodamas galva, perduoti jam Skalvių pilį.
 
 ## Teiginiai
 
@@ -30,6 +31,11 @@ Skalvių pilis 1293 m. statyta kairiajame Nemuno krante žemiau Ragainės, prie 
 - t-001
   global_id: t-91387
   teiginys: 'Skalvių pilis 1293 m. statyta kairiajame Nemuno krante žemiau Ragainės, prie Skalvos upelio ties Paskalviais.'
+  sudarymo_pagrindimas: 'Teiginys yra konkretus, gramatiškas ir paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_place: Nemunas; mentioned_place: Skalva'
+  temporaliniai_duomenys: 'įvykio data: 1293 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus, gramatiškas ir paremtas citata.'
   pagrindžia:
     - c-002
 
@@ -37,6 +43,8 @@ Skalvių pilis 1293 m. statyta kairiajame Nemuno krante žemiau Ragainės, prie 
 - t-002
   global_id: t-91388
   teiginys: 'Lietuviai pasitraukdami ištrypė ir sunaikino visus pasėlius Skalvių ir Ragainės pilių laukuose.'
+  sudarymo_pagrindimas: 'Teiginys perrašytas kaip užbaigtas sakinys be kontekstinio fragmento.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_place: Ragainė'
   pagrindžia:
     - c-003
 
@@ -44,6 +52,8 @@ Skalvių pilis 1293 m. statyta kairiajame Nemuno krante žemiau Ragainės, prie 
 - t-003
   global_id: t-91389
   teiginys: 'Iš Ragainės pabėgęs ginklanešys pasisiūlė lietuvių karaliui perduoti Skalvių pilį.'
+  sudarymo_pagrindimas: 'Pašalinta citatoje tiesiogiai nepagrįsta metų nuoroda ir paliktas aiškiai paremtas faktas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_object: [[objektai/zodynas/ginklanešys|ginklanešys]]; mentioned_person: [[objektai/asmenys/Albrechtas|Albrechtas]]; mentioned_person: [[objektai/asmenys/Albrechtas iš Hageno|Albrechtas iš Hageno]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Barta; mentioned_place: Ragainė; mentioned_place: Viena'
   pagrindžia:
     - c-004
 
@@ -51,6 +61,8 @@ Skalvių pilis 1293 m. statyta kairiajame Nemuno krante žemiau Ragainės, prie 
 - t-004
   global_id: t-91390
   teiginys: 'Prie Nemuno pastatyta Skalvių pilis buvo skirta skalviams, atsivertusiems į krikščionybę.'
+  sudarymo_pagrindimas: 'Teiginys sutrumpintas iki aiškaus sakinio apie pilies paskirtį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_place: Austrija; mentioned_place: Nemunas; mentioned_place: Prūsija; mentioned_place: Ragainė; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -58,6 +70,8 @@ Skalvių pilis 1293 m. statyta kairiajame Nemuno krante žemiau Ragainės, prie 
 - t-005
   global_id: t-91391
   teiginys: 'Tų pačių metų rudenį lietuviai sugriovė Ragainės ir Skalvių pilių papilius.'
+  sudarymo_pagrindimas: 'Pašalinta perteklinė įžanga ir paliktas citatos paremtas rezultatas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_place: Ragainė'
   pagrindžia:
     - c-005
 
@@ -65,9 +79,14 @@ Skalvių pilis 1293 m. statyta kairiajame Nemuno krante žemiau Ragainės, prie 
 - t-006
   global_id: t-91392
   teiginys: '1289 m. brolis Meinhardas prie Nemuno pastatė Ragainės pilį, o netrukus žemiau prie Nemuno pastatė Skalvių pilį.'
+  sudarymo_pagrindimas: 'Citata leidžia susieti Skalvių pilies pastatymą su platesniu Ragainės ir Skalvių pilių statybos epizodu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_place: Austrija; mentioned_place: Nemunas; mentioned_place: Prūsija; mentioned_place: Ragainė; mentioned_place: Viena'
+  temporaliniai_duomenys: 'pastatymo data: 1289 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata leidžia susieti Skalvių pilies pastatymą su platesniu Ragainės ir Skalvių pilių statybos epizodu.'
   pagrindžia:
     - c-001
-
+- susijęs iš Ragainė: Skalvių pilis Ragainėje, manoma, buvo piliakalnyje per 2 km į pietryčius nuo dabartinio miestelio.
 ## Reikšmingi paminėjimai
 
 - c-001

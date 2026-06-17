@@ -26,6 +26,11 @@ Dusburgietis teigia, kad matusas J.
 - t-001
   global_id: t-61161
   teiginys: 'J. Matuso „Ar prūsai buvo lietuviai?“ paskelbtas žurnalo „Vairas“ 1936 m. 7–8 numeriuose, p. 697–705.'
+  sudarymo_pagrindimas: 'Citata pagrindžia autorių, pavadinimą, žurnalą, metus, numerius ir puslapius.'
+  susije_objektai: 'mentioned_place: Prūsai'
+  temporaliniai_duomenys: 'įvykio data: 1936 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia autorių, pavadinimą, žurnalą, metus, numerius ir puslapius.'
   pagrindžia:
     - c-001
 

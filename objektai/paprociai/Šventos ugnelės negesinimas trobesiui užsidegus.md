@@ -38,6 +38,7 @@ Nenurodyta
 - t-001
   global_id: t-67247
   teiginys: 'Užsidegus trobesiui kai kurie lietuviai nenorėdavo jo gesinti, nes ugnelę laikė šventą ir įsižeidžiančią.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Stigavoja|Stigavoja]]; mentioned_place: Pinskas'
   pagrindžia:
     - c-001
 
@@ -57,8 +58,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Stigavoja|stigavoja]]
-- [[objektai/grupes/Lietuviai]]

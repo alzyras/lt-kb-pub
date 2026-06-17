@@ -18,6 +18,11 @@ Kryžiuočiai puolė Christmemelio pilį, daužė jos sienas taranais ir sužeid
 - t-001
   global_id: t-185262
   teiginys: 'Kryžiuočiai puolė Christmemelio pilį, daužė jos sienas taranais ir sužeidė ar nukovė daug pilies gynėjų.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Ilgas nutrūkęs fragmentas perrašytas į glaustą citata paremtą sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vytenis|Vytenis]]; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
 

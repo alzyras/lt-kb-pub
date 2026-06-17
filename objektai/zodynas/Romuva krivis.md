@@ -3,11 +3,18 @@ tipas: zodyno_irasas
 pavadinimas: 'Romuva krivis'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1864 m.'
+  - '1866 m.'
+date_start: '1864'
+date_end: '1866'
 sukurta: ''
 atnaujinta: ''
 tags:
   - sąvoka
   - valstybė
+amziai:
+  - 'XIX'
 ---
 # Romuva krivis
 
@@ -21,6 +28,8 @@ tags:
 - t-001
   global_id: t-77804
   teiginys: 'Romuva Nadruvoje ir jos krivis laikomi ankstyva pagonybės virtimo institucine religija apraiška.'
+  sudarymo_pagrindimas: 'Pašalinta neaiški nuoroda „šio proceso“ ir teiginys padarytas savarankiškas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_person: [[objektai/asmenys/Krivis|Krivis]]; mentioned_place: Nadruva; mentioned_place: Romuva'
   pagrindžia:
     - c-001
 
@@ -28,6 +37,9 @@ tags:
 - t-002
   global_id: t-77805
   teiginys: 'Romuvoje pagrindinis kulto objektas buvo ugnis.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Aukuras|Aukuras]]; mentioned_place: Lietuva; mentioned_place: Romuva'
+  temporaliniai_duomenys: 'įvykio data: 1864-1866; įvykio data: 1866 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 
@@ -61,11 +73,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Aukuras]]
-- [[objektai/zodynas/pagonybė]]
-- [[objektai/asmenys/Krivis]]
-- [[objektai/zodynas/Romuva ir krivis]]
-- [[objektai/paprociai/Romuvos kulto institucija, ugnies garbinimas ir valdovų deginimas|Romuvos kulto institucija, ugnies garbinimas ir valdovų deginimas (institucija)]]

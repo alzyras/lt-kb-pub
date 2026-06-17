@@ -5,6 +5,7 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1296 m.'
+  - '1300 m.'
   - '1307 m.'
 date_start: '1296'
 date_end: '1307'
@@ -28,6 +29,11 @@ amziai:
 - t-001
   global_id: t-32532
   teiginys: '1300 m. lietuviai drauge su rusais puolė Sandomieriaus ir Liublino žemes.'
+  sudarymo_pagrindimas: 'Reikia įtraukti citatoje nurodytą laiką ir pašalinti kontekstinį „tada“.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Kujavija; mentioned_place: Liublinas'
+  temporaliniai_duomenys: 'įvykio data: 1300 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia įtraukti citatoje nurodytą laiką ir pašalinti kontekstinį „tada“.'
   pagrindžia:
     - c-002
 
@@ -35,9 +41,15 @@ amziai:
 - t-002
   global_id: t-32533
   teiginys: '1296 lietuviai įsiveržė į Sandomieriaus ir Kujavijos žemes.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Kujavija; mentioned_place: Liublinas'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/grupes/Jotvingiai.md#claim-t-178781|Jotvingiai]]: 1282 metais lietuviai drauge su jotvingiais teriojo Liublino ir Sandomieriaus žemes.
+- susijęs iš [[objektai/ivykiai/Saulės mūšis (1236 m. rugsėjo 22 d.).md#claim-t-66879|Saulės mūšis (1236 m. rugsėjo 22 d.)]]: Ivinskis Saulės mūšį lokalizuoja prie Saulės, Šiaulių srityje, ir datuoja 1236 m. rugsėjo 22 d.
+- susijęs iš Dobryniaus: 1300 m. lietuviai vėl pasirodė Dobryniaus ir Kujavijos srityse, kur patyrė kryžiuočių smūgį.
+- susijęs iš Kališo sritis: 1307 m. lietuviai drauge su rusais buvo įsiveržę į Kališo sritį.
+- susijęs iš Kujavija: 1300 m. lietuviai vėl pasirodė Dobryniaus ir Kujavijos srityse, kur patyrė kryžiuočių smūgį.
 ## Reikšmingi paminėjimai
 
 - c-001

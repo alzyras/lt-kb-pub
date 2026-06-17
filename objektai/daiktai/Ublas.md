@@ -38,6 +38,8 @@ Nenurodyta
 - t-001
   global_id: t-08344
   teiginys: 'Ublas buvo smalos pečius, kuriame degino dervą, smalą ir degutą.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys glaustai apibrėžia ublą ir atitinka citatos informaciją.'
   pagrindžia:
     - c-001
 

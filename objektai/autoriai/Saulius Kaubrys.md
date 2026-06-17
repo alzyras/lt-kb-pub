@@ -3,11 +3,20 @@ tipas: autorius
 pavadinimas: 'Saulius Kaubrys'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1918 m.'
+  - '2000 m.'
+date_start: '1918'
+date_end: '2000'
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
   - žemėlapis
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'modernioji Lietuva'
 ---
 # Saulius Kaubrys
 
@@ -21,6 +30,11 @@ dr. Sauliui Kaubriui ir daugeliui kitų, prisidėjusių prie jos parengimo, iliu
 - t-001
   global_id: t-19472
   teiginys: 'Saulius Kaubrys parašė 2000 m. Vilniuje išleistą veikalą „Lietuvos mokykla 1918–1939 m.: galios gimtis“.'
+  sudarymo_pagrindimas: 'Bibliografinis įrašas palaiko autorystę, todėl pakeistas silpnas „siejamas“.'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1918-1939; įvykio data: 1939 m.; įvykio data: 2000 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Bibliografinis įrašas palaiko autorystę, todėl pakeistas silpnas „siejamas“.'
   pagrindžia:
     - c-002
 
@@ -28,6 +42,11 @@ dr. Sauliui Kaubriui ir daugeliui kitų, prisidėjusių prie jos parengimo, iliu
 - t-002
   global_id: t-19473
   teiginys: 'Saulius Kaubrys recenzavo leidinį „Lietuvos istorija“.'
+  sudarymo_pagrindimas: 'Pirminis tekstas yra sakinio fragmentas, bet citata aiškiai pagrindžia recenzento vaidmenį.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Romanas (Briansko kunigaikštis)|Romanas (Briansko kunigaikštis)]]; mentioned_person: [[objektai/asmenys/Zenonas|Zenonas]]; mentioned_place: Europa; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: po 1990 m.; įvykio data: 1990 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pirminis tekstas yra sakinio fragmentas, bet citata aiškiai pagrindžia recenzento vaidmenį.'
   pagrindžia:
     - c-001
 
@@ -69,7 +88,3 @@ dr. Sauliui Kaubriui ir daugeliui kitų, prisidėjusių prie jos parengimo, iliu
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/žemėlapis]]

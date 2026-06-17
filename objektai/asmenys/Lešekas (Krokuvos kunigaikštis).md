@@ -37,9 +37,3 @@ Dusburgietis teigia, kad tuo metu, kai šitai dėjosi, pamaldusis Lešekas, Krok
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/ivykiai/Kersovo antpuolis ir Lešeko kontrataka]]

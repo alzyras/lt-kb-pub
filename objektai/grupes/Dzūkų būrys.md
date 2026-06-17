@@ -21,6 +21,8 @@ Tų pačių metų liepos 13 d., grįždami iš žygio, Dzūkų būrio partizanai
 - t-001
   global_id: t-40877
   teiginys: 'Liepos 13 d. Dzūkų būrio partizanai prie Žuvinto ežero susidūrė su pasaloje laukusiais NKVD kareiviais ir vietiniais stribais.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiksliai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_object: [[objektai/zodynas/Kariauna|Kariauna]]; mentioned_place: Žuvintas; mentioned_place: Žuvinto ežeras'
   pagrindžia:
     - c-001
 
@@ -43,10 +45,3 @@ Tų pačių metų liepos 13 d., grįždami iš žygio, Dzūkų būrio partizanai
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/ežeras]]
-
-### Susiję objektai
-- [[objektai/grupes/NKVD]]

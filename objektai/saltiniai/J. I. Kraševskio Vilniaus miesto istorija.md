@@ -5,6 +5,7 @@ saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1750 m.'
+  - '1840 m.'
   - '1842 m.'
 date_start: '1750'
 date_end: '1842'
@@ -30,6 +31,11 @@ Nepaisant gana kritiško požiūrio į istorijos šaltinius, M. Tačiau jaučiam
 - t-001
   global_id: t-88309
   teiginys: 'J. I. Kraševskio 1840–1842 m. išleista Vilniaus miesto istorija chronologiškai nušvietė miesto raidą iki 1750 m.'
+  sudarymo_pagrindimas: 'Pirminis teiginys nutrūkęs, o citata palaiko išsamų faktą apie veikalą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/asmenys/Juozapas (Konstantinopolio patriarchas)|Juozapas (Konstantinopolio patriarchas)]]; mentioned_person: [[objektai/asmenys/Juozapas Ignas Kraševskis|Juozapas Ignas Kraševskis]]; mentioned_person: [[objektai/autoriai/Kraševskis|Kraševskis]]; mentioned_person: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: iki 1750 m.; įvykio data: 1750 m.; įvykio data: 1840-1842; įvykio data: 1842 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pirminis teiginys nutrūkęs, o citata palaiko išsamų faktą apie veikalą.'
   pagrindžia:
     - c-001
 

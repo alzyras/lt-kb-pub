@@ -12,13 +12,15 @@ tags:
 
 ## Santrauka
 
-Lengvenis kartu su Švitrigaila ir Kaributu lydėjo Vytautą žygyje prieš Smolenską po Raciąžo taikos. Po Raciąžo taikos Lengvenis Algirdaitis buvo tarp pusbrolių, kuriuos Vytautas pasitelkė žygiui prieš Smolenską.
+Smolenske buvo įsigalėjęs Lengvenio Algirdaičio sūnus Jurgis.
 
 ## Teiginiai
+
 <a id="claim-t-47959"></a>
 - t-001
   global_id: t-47959
   teiginys: 'Lengvenis kartu su Švitrigaila ir Kaributu lydėjo Vytautą žygyje prieš Smolenską po Raciąžo taikos.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Kaributas|Kaributas]]; mentioned_person: [[objektai/asmenys/Lengvenis|Lengvenis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Maskva; mentioned_place: Smolenskas'
   pagrindžia:
     - c-001
 
@@ -26,10 +28,13 @@ Lengvenis kartu su Švitrigaila ir Kaributu lydėjo Vytautą žygyje prieš Smol
 - t-002
   global_id: t-47960
   teiginys: 'Po Raciąžo taikos Lengvenis Algirdaitis buvo tarp pusbrolių, kuriuos Vytautas pasitelkė žygiui prieš Smolenską.'
+  sudarymo_pagrindimas: 'Reikia labiau susieti faktą su Lengveniu Algirdaičiu kaip pastabos objektu.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Lengvenis|Lengvenis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Maskva; mentioned_place: Smolenskas'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -46,11 +51,3 @@ Lengvenis kartu su Švitrigaila ir Kaributu lydėjo Vytautą žygyje prieš Smol
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/asmenys/Švitrigaila]]
-- [[objektai/asmenys/Kaributas]]
-- [[objektai/asmenys/Lengvenis]]
-- [[objektai/zodynas/žygis]]

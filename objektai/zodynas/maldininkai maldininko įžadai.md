@@ -4,19 +4,24 @@ pavadinimas: 'maldininkai / maldininko įžadai'
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
+  - '1227 m.'
+  - '1236 m.'
   - '1237 m.'
-date_start: '1237'
-date_end: ''
+  - '1316 m.'
+  - '1322 m.'
+date_start: '1227'
+date_end: '1322'
 sukurta: ''
 atnaujinta: ''
 amziai:
   - 'XIII'
+  - 'XIV'
 ---
 # maldininkai / maldininko įžadai
 
 ## Santrauka
 
-Po Urbono II raginimo vyskupai, prelatai, valdovai, kilmingieji ir kiti žmonės davė įžadus leistis į maldininkų žygį. Anglijos karalius Eduardas atvyko su daugybe frizų ir maldininkų į kariuomenę, kuri siekė užkariauti Šventąją Žemę. 1237 m. magistras su broliais ir Meiseno markgrafo paliktais maldininkais Pagudėje pastatė Elbingo pilį.
+Kryžiaus karo ir piligrimystės terminija, taikoma į Prūsiją ar į kryžiaus žygį atvykstantiems talkininkams. Šiame leidinyje maldininkai vaizduojami kaip laikini, įžadais apriboti, bet kariniu požiūriu svarbūs Ordino sąjungininkai.
 
 ## Žodis ir formos
 
@@ -36,6 +41,8 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
 - t-001
   global_id: t-70220
   teiginys: 'Po Urbono II raginimo vyskupai, prelatai, valdovai, kilmingieji ir kiti žmonės davė įžadus leistis į maldininkų žygį.'
+  sudarymo_pagrindimas: 'Citata remia faktą apie maldininko įžadus, o pradinė pretenzija nukrypo į Petro veiksmus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/kryžininkai|kryžininkai]]; mentioned_object: [[objektai/zodynas/luomai|luomai]]; mentioned_object: [[objektai/zodynas/maldininkai|maldininkai]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Simeonas|Simeonas]]; mentioned_place: Italija; mentioned_place: Jeruzalė; mentioned_place: Viena; mentioned_place: Šventoji'
   pagrindžia:
     - c-005
 
@@ -43,6 +50,8 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
 - t-002
   global_id: t-70221
   teiginys: 'Anglijos karalius Eduardas atvyko su daugybe frizų ir maldininkų į kariuomenę, kuri siekė užkariauti Šventąją Žemę.'
+  sudarymo_pagrindimas: 'Sutrumpinta iki aiškaus fakto apie maldininkų dalyvavimą.'
+  susije_objektai: 'location: Anglija; mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_group: [[objektai/grupes/Saracėnai|Saracėnai]]; mentioned_object: [[objektai/zodynas/maldininkai|maldininkai]]; mentioned_place: Anglija'
   pagrindžia:
     - c-001
 
@@ -50,6 +59,11 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
 - t-003
   global_id: t-70223
   teiginys: '1237 m. magistras su broliais ir Meiseno markgrafo paliktais maldininkais Pagudėje pastatė Elbingo pilį.'
+  sudarymo_pagrindimas: 'Ilgas fragmentas sutrauktas į aiškų sakinį su data, veikėjais ir rezultatu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/maldininkai|maldininkai]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_place: Elbingas; mentioned_place: Pagudė'
+  temporaliniai_duomenys: 'pastatymo data: 1237 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Ilgas fragmentas sutrauktas į aiškų sakinį su data, veikėjais ir rezultatu.'
   pagrindžia:
     - c-008
 
@@ -57,6 +71,7 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
 - t-004
   global_id: t-70224
   teiginys: '`Maldininko įžadai` šiame šaltinyje žymi laikiną, įžadais apribotą tarnybos ar žygio laiką.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Baiga; mentioned_place: Drūsinė; mentioned_place: Elbingas; mentioned_place: Prūsija'
   pagrindžia:
     - c-007
 
@@ -64,6 +79,11 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
 - t-005
   global_id: t-70225
   teiginys: '1227 m. rugsėjo 11 d. Ortrante mirė šventosios Elžbietos vyras landgrafas, buvęs maldininko kelionėje po kryžiaus žygio vėliava.'
+  sudarymo_pagrindimas: 'Reikia aiškiai įtraukti note objektą ir tiksliau perteikti citatos formuluotę.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Ortrantas'
+  temporaliniai_duomenys: 'įvykio data: 1227 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia aiškiai įtraukti note objektą ir tiksliau perteikti citatos formuluotę.'
   pagrindžia:
     - c-003
 
@@ -71,6 +91,7 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
 - t-006
   global_id: t-70226
   teiginys: 'Dusburgietis `maldininkais` vadina į Prūsiją atvykstančius ar joje paliekamus religinio karo talkininkus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_place: Elbingas; mentioned_place: Pagudė; mentioned_place: Prūsija'
   pagrindžia:
     - c-008
 
@@ -78,6 +99,11 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
 - t-007
   global_id: t-70227
   teiginys: 'Maldininkai iš Reino krašto dalyvavo Henriko žygyje į Medininkų valsčių, o 1322 m. maldininkai puolė Pieštvės pilį.'
+  sudarymo_pagrindimas: 'Abi citatos remia maldininkų dalyvavimą Ordino žygiuose ir pilių puolime.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/zodynas/maldininkai|maldininkai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_place: Ariogala; mentioned_place: Kulmas; mentioned_place: Medininkai; mentioned_place: Pieštvė; mentioned_place: Pilėnai; mentioned_place: Prūsija; mentioned_place: Raseiniai; mentioned_place: Reinas; mentioned_place: Vaikiai; mentioned_place: Vildenbergas; mentioned_place: Vroclavas; mentioned_place: Čekija'
+  temporaliniai_duomenys: 'įvykio data: 1322 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Abi citatos remia maldininkų dalyvavimą Ordino žygiuose ir pilių puolime.'
   pagrindžia:
     - c-002
     - c-004
@@ -86,6 +112,7 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
 - t-008
   global_id: t-70228
   teiginys: 'Šio šaltinio pasakojime maldininkai veikia kaip atskira nuo Ordino brolių karinė jėga.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/maldininkai|maldininkai]]; mentioned_place: Livonija'
   pagrindžia:
     - c-006
 
@@ -93,6 +120,8 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
 - t-009
   global_id: t-70229
   teiginys: 'Brolis Gerlachas Rudasis pranešė, kad Livonijoje kovoje žuvo magistras Folkvinas, daug brolių, maldininkų ir kitų žmonių.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas citata apie Gerlacho Rudojo pranešimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/maldininkai|maldininkai]]; mentioned_person: [[objektai/asmenys/Gerlachas Rudasis|Gerlachas Rudasis]]; mentioned_place: Livonija'
   pagrindžia:
     - c-006
 
@@ -100,6 +129,11 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
 - t-010
   global_id: t-70230
   teiginys: '1316 m. Henrikas Karaliaučiuje sutiko iš Reino krašto atvykusių maldininkų ir su jais nusiaubė Medininkų valsčių.'
+  sudarymo_pagrindimas: 'Perrašyta į pilną sakinį, pašalinant antraštės ir sąrašo triukšmą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/maldininkai|maldininkai]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Medininkai; mentioned_place: Medvėgalis; mentioned_place: Reinas'
+  temporaliniai_duomenys: 'įvykio data: 1316 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Perrašyta į pilną sakinį, pašalinant antraštės ir sąrašo triukšmą.'
   pagrindžia:
     - c-004
 
@@ -107,6 +141,11 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
 - t-011
   global_id: t-70231
   teiginys: 'Vokietijos maldininkai atvyko į pagalbą prūsų apsiaustai Baigos piliai.'
+  sudarymo_pagrindimas: 'Citata leidžia suformuluoti aiškų faktą apie maldininkus ir Baigos apgultį.'
+  susije_objektai: 'location: Baiga; location: Prūsai; location: Vokietija; mentioned_group: [[objektai/grupes/Vokietijos maldininkai|Vokietijos maldininkai]]; mentioned_object: [[objektai/zodynas/maldininkai|maldininkai]]; mentioned_person: [[objektai/asmenys/Otonas|Otonas]]; mentioned_place: Baiga; mentioned_place: Prūsai; mentioned_place: Vokietija'
+  temporaliniai_duomenys: 'kelionės data: po 1236 m.; kelionės data: 1236 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Otonas keliavo į Baiga“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Otonas keliavo į Prūsai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Otonas keliavo į Vokietija“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata leidžia suformuluoti aiškų faktą apie maldininkus ir Baigos apgultį.'
   pagrindžia:
     - c-009
 
@@ -292,34 +331,3 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
   statusas: verified
   pagrindžia:
     - t-011
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Drabužiai]]
-- [[objektai/asmenys/Fridrichas]]
-- [[objektai/daiktai/Ginklai]]
-- [[objektai/autoriai/Henrikas]]
-- [[objektai/grupes/Krikščionys]]
-- [[objektai/daiktai/Kryžius]]
-- [[objektai/daiktai/Laivai]]
-- [[objektai/asmenys/Otonas]]
-- [[objektai/grupes/Pagudėnai]]
-- [[objektai/grupes/Saracėnai]]
-- [[objektai/asmenys/Simeonas]]
-- [[objektai/grupes/Teutonai]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/kryžininkai]]
-- [[objektai/zodynas/luomai]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/maldininkai]]
-- [[objektai/zodynas/netikėliai]]
-- [[objektai/zodynas/vėliava]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/asmenys/Gerlachas Rudasis]]
-- [[objektai/grupes/Vokietijos maldininkai]]
-- [[objektai/asmenys/Elžbieta]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/ivykiai/Medininkų valsčiaus apiplėšimas ir karių įšventinimas prie Medvėgalio (1316 m.)]]
-- [[objektai/ivykiai/Meiseno markgrafo karo laivų „Piligrimas“ ir „Fridlandas“ panaudojimas bei pasitraukimas]]
-- [[objektai/zodynas/landgrafas]]
-- [[objektai/ivykiai/Žygis į Pagudę ir Elbingo pilies pastatymas (1237 m.)]]

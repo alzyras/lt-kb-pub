@@ -22,6 +22,7 @@ tags:
 - t-001
   global_id: t-36073
   teiginys: '„Lietuvos geografija“ buvo Lietuvos universiteto profesorių ir specialistų pripažinta tinkamu vadovėliu mokykloms.'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

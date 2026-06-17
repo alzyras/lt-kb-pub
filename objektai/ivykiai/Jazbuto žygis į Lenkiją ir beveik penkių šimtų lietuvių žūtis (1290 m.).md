@@ -45,6 +45,8 @@ Nenurodyta
 - t-001
   global_id: t-66563
   teiginys: 'Lietuvis Jazbutas su penkiais šimtais rinktinių vyrų įsibrovė į Lenkiją, išsivarė daug žmonių ir išsivežė daug daiktų.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, faktinis ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Jazbutas|Jazbutas]]; mentioned_place: Lenkija'
   pagrindžia:
     - c-002
 
@@ -52,6 +54,8 @@ Nenurodyta
 - t-002
   global_id: t-66564
   teiginys: 'Grįžtančią lietuvių kariuomenę tarp Luko ir Narevo užpuolė broliai, nukovę 350 žmonių; kiti žuvo dykroje.'
+  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir palikta citata paremta įvykio esmė.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/dykra|dykra]]; mentioned_place: Bebras; mentioned_place: Lukas; mentioned_place: Narevas'
   pagrindžia:
     - c-001
 
@@ -95,10 +99,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Jazbutas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/dykra]]
-- [[objektai/zodynas/magistras]]

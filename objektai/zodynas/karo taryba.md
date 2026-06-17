@@ -18,18 +18,19 @@ tags:
 Vytautas buvo sudarytosios karo tarybos pirmininkas, todėl jisai buvo ir tikrasis mūšio vadas.
 
 ## Teiginiai
+
 <a id="claim-t-03027"></a>
 - t-001
   global_id: t-03027
   teiginys: 'Vytautas buvo sudarytos karo tarybos pirmininkas ir laikytas tikruoju mūšio vadu.'
+  sudarymo_pagrindimas: 'Reikia pašalinti perteklinį jungimą ir suformuluoti sklandesnį enciklopedinį sakinį.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-
+- susijęs iš [[objektai/zodynas/komputas.md#claim-t-09709|komputas]]: Komputu lenkiškai vadintas karo tarybos nustatytas karo etatas.
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Vytautas buvo sudarytos karo tarybos pirmininkas ir laikytas tikruoju mūšio vadu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Visų viršininku buvo laikomas Jogaila, ir jis turėjo duoti ženklą
@@ -37,15 +38,8 @@ Vytautas buvo sudarytosios karo tarybos pirmininkas, todėl jisai buvo ir tikras
     mininkas, todėl jisai buvo ir tikrasis mūšio vadas. Mū-
     šio laimėjimo nuopelnas, be abejo, pirmučiausia priklauso Vy-
     tautui.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/komputas]]

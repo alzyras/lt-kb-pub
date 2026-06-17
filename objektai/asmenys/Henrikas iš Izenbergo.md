@@ -23,7 +23,7 @@ periodo_grupes:
 
 ## Santrauka
 
-1325 m. Henrikas iš Izenbergo, Karaliaučiaus komtūras, pradėjo statyti ir birželio 29 d. užbaigė Girdavų pilį Bartos žemėje.
+Dusburgietis teigia, kad apie daugybės miestų bei pilių pastatymą 1325 viešpaties metais brolis Henrikas iš Izenbergo, Karaliaučiaus komtūras, gavęs gerbiamojo vyro brolio Vernerio, didžiojo magistro, leidimą ir pritarimą,— to vyro, kuris itin rūpestingai ir uoliai ėjo jam patikėtas.
 
 ## Teiginiai
 
@@ -31,6 +31,11 @@ periodo_grupes:
 - t-001
   global_id: t-60313
   teiginys: '1325 m. Henrikas iš Izenbergo, Karaliaučiaus komtūras, pradėjo statyti ir birželio 29 d. užbaigė Girdavų pilį Bartos žemėje.'
+  sudarymo_pagrindimas: 'Citata leidžia tiksliau nurodyti ir pilies užbaigimo datą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Barta; mentioned_place: Girdavai; mentioned_place: Varmė'
+  temporaliniai_duomenys: 'įvykio data: 1325 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata leidžia tiksliau nurodyti ir pilies užbaigimo datą.'
   pagrindžia:
     - c-001
 
@@ -57,9 +62,3 @@ periodo_grupes:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/Henrikas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

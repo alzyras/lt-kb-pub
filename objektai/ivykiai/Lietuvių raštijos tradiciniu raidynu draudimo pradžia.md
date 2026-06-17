@@ -23,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-Valdžios bandymas lietuvių raštijoje lotyniškąjį raidyną pakeisti kirilika žlugo, nes brukamų knygų beveik niekas neskaitė. M. Valančius ragino nepriimti valdžios brukamų knygų ir slapta organizavo lietuviškos spaudos tradiciniu raidynu spausdinimą Rytprūsiuose. 1864 m. M. Muravjovo nurodymu pradėta drausti lietuvių raštija tradiciniu raidynu, o draudimas galiojo iki 1904 m. pavasario.
+Vis dėlto ir valdžiai buvo aišku, kad etninės Lietuvos kaimo mokyklose pradėti mokyti rusų kalbos mokytojui nemokant lietuviškai yra sunkiai įmanomas dalykas, kad visų pirma tokiam mokytojui reikia išleisti dvikalbius elementorius, kuriuose būtų ir rusiškų.
 
 ## Laikotarpis ir datos
 
@@ -47,6 +47,8 @@ Nenurodyta
 - t-001
   global_id: t-25042
   teiginys: 'Valdžios bandymas lietuvių raštijoje lotyniškąjį raidyną pakeisti kirilika žlugo, nes brukamų knygų beveik niekas neskaitė.'
+  sudarymo_pagrindimas: 'Perrašyta į tikslesnį sakinį pagal citatoje nurodytą priežastį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kirilika|kirilika]]'
   pagrindžia:
     - c-001
 
@@ -54,6 +56,11 @@ Nenurodyta
 - t-002
   global_id: t-25044
   teiginys: 'M. Valančius ragino nepriimti valdžios brukamų knygų ir slapta organizavo lietuviškos spaudos tradiciniu raidynu spausdinimą Rytprūsiuose.'
+  sudarymo_pagrindimas: 'Patikslinta pavardė ir pašalintas citatoje nepagrįstas žodis apie leidybą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/knygnešystė|knygnešystė]]; mentioned_person: [[objektai/autoriai/Motiejus Valančius|Motiejus Valančius]]; mentioned_place: Lietuva; mentioned_place: Rytprūsiai'
+  temporaliniai_duomenys: 'įvykio data: 1939 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Patikslinta pavardė ir pašalintas citatoje nepagrįstas žodis apie leidybą.'
   pagrindžia:
     - c-002
 
@@ -61,6 +68,14 @@ Nenurodyta
 - t-003
   global_id: t-183237
   teiginys: '1864 m. M. Muravjovo nurodymu pradėta drausti lietuvių raštija tradiciniu raidynu, o draudimas galiojo iki 1904 m. pavasario.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra tikslus, gramatiškas ir paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Kaimas; mentioned_place: Lietuva; mentioned_place: Rusija'
+  temporaliniai_duomenys: 'įvykio data: iki 1904 m.; įvykio data: 1864 m.; įvykio data: 1904 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra tikslus, gramatiškas ir paremtas citata.'
   pagrindžia:
     - c-003
 
@@ -129,14 +144,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/zodynas/knygnešystė]]
-- [[objektai/autoriai/Motiejus Valančius]]
-- [[objektai/zodynas/kirilika]]
-- [[objektai/daiktai/Dvikalbiai elementoriai kirilika]]
-- [[objektai/paprociai/Kirilikinių lietuviškų knygų boikotas kaip katalikiška norma]]
-- [[objektai/zodynas/kirilika rusiškas raidynas lotyniškasis raidynas]]

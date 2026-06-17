@@ -38,6 +38,9 @@ Nenurodyta
 - t-001
   global_id: t-62762
   teiginys: 'Namedos sūnūs ir kiti Bysleidos pilėnai pakilo į mūšį ir nukovė daugiau kaip du tūkstančius priešo karių.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, suprantamas ir paremtas pateikta citata.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Nameda|Nameda]]; mentioned_place: Bartenšteinas; mentioned_place: Bysleida; mentioned_place: Pilėnai'
   pagrindžia:
     - c-002
 
@@ -45,6 +48,9 @@ Nenurodyta
 - t-002
   global_id: t-62763
   teiginys: 'Sūduviai, nadruviai ir skalviai su didele kariuomene apsiautė ir smarkiai puolė Bysleidos pilį Kartenės miške prie Bartenšteino.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pašalintos išnašų liekanos ir sutrumpintas palaikomas faktas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Nadruviai|Nadruviai]]; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_place: Bartenšteinas; mentioned_place: Bysleida; mentioned_place: Pilėnai'
   pagrindžia:
     - c-001
 
@@ -80,14 +86,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Nadruviai]]
-- [[objektai/asmenys/Nameda]]
-- [[objektai/grupes/Skalviai]]
-- [[objektai/posakiai/Gailiuosi jus pagimdžiusi]]
-- [[objektai/grupes/Mantiminų giminė]]
-- [[objektai/asmenys/Pasdrauputis]]
-- [[objektai/grupes/Sūduviai]]
-- [[objektai/grupes/Sūduviai-jotvingiai]]

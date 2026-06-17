@@ -18,6 +18,11 @@ Kojelavičius posakiu „baimė turi dideles akis“ aiškino karaliaus nerimą 
 - t-001
   global_id: t-185474
   teiginys: 'Kojelavičius posakiu „baimė turi dideles akis“ aiškino karaliaus nerimą dėl Lietuvos išlaikymo po Goštauto mirties.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinė formuluotė turi OCR triukšmo ir nėra taisyklinga.'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

@@ -1,26 +1,19 @@
 ---
 tipas: vieta
 pavadinimas: 'Vakarų Bugas'
-variantai:
-  - 'Vakari) Bugo'
-aliases: []
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
+datos:
+  - '1413 m.'
+  - '1424 m.'
+date_start: '1413'
+date_end: '1424'
 sukurta: ''
 atnaujinta: ''
-laikotarpis: ''
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: ''
 tags:
   - vieta
+amziai:
+  - 'XV'
 ---
 # Vakarų Bugas
 
@@ -29,26 +22,36 @@ tags:
 Horodlė šiame gabale lokalizuojama prie Vakarų Bugo. Vakarų Bugas naudojamas kaip Horodlės vietos orientyras.
 
 ## Teiginiai
+
 <a id="claim-t-187379"></a>
 - t-001
   global_id: t-187379
-  teiginys: 'Horodlė šiame gabale lokalizuojama prie Vakarų Bugo.'
+  teiginys: 'Vakarų Bugas naudojamas kaip Horodlės vietos orientyras.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Sakinys aiškus, gramatinis ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Sofija|Sofija]]; mentioned_place: Horodlė; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Peremišlis; mentioned_place: Sanas'
+  temporaliniai_duomenys: 'įvykio data: 1413 m.; įvykio data: 1424 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Sakinys aiškus, gramatinis ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  statusas: patvirtinta
+
 <a id="claim-t-187380"></a>
 - t-002
   global_id: t-187380
-  teiginys: 'Vakarų Bugas naudojamas kaip Horodlės vietos orientyras.'
+  teiginys: 'Horodlė šaltinio pastaboje lokalizuojama Volynėje, dabartinėje Lenkijoje, prie Vakarų Bugo, į pietus nuo Bresto.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Perrašyta į aiškų sakinį apie Vakarų Bugą, remiantis pastaba.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Sofija|Sofija]]; mentioned_place: Horodlė; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Peremišlis; mentioned_place: Sanas'
+  temporaliniai_duomenys: 'įvykio data: 1413 m.; įvykio data: 1424 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Perrašyta į aiškų sakinį apie Vakarų Bugą, remiantis pastaba.'
   pagrindžia:
     - c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Horodlė šiame gabale lokalizuojama prie Vakarų Bugo.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     1  Peremišlis — dabar pietų Lenkijos miestas (prie Sano upės,
@@ -64,11 +67,9 @@ Horodlė šiame gabale lokalizuojama prie Vakarų Bugo. Vakarų Bugas naudojamas
     ketvirtą kartą; tokia padėtis galėjo būti ne anksčiau kaip 1422.11.7
     (Jogailos vedybos su Sofija Alšėniške) Ir ne vėliau kaip 1424 m.
     lapkričio mėn.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
     - t-002
+    - t-001

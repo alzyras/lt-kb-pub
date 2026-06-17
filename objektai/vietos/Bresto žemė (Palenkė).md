@@ -6,8 +6,9 @@ saltiniai:
 datos:
   - '1323 m.'
   - '1324 m.'
+  - '1325 m.'
 date_start: '1323'
-date_end: '1324'
+date_end: '1325'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -27,6 +28,11 @@ Dusburgietis teigia, kad gedimino Lietuva, matyt, susitarusi su Vladislovu Łoki
 - t-001
   global_id: t-58689
   teiginys: '1323 m. pabaigoje–1324 m. pradžioje Gedimino Lietuva, puldama Volynę, užėmė Bresto žemę, arba Palenkę.'
+  sudarymo_pagrindimas: 'Sakinys aiškus, faktinis ir paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Kijevas; mentioned_place: Palenkė'
+  temporaliniai_duomenys: 'įvykio data: 1323 m.; įvykio data: 1324 m.; įvykio data: 1325 m.; įvykio data: apie 1325 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
+  temporalinis_llm_pakomentavimas: 'Sakinys aiškus, faktinis ir paremtas citata.'
   pagrindžia:
     - c-001
 

@@ -21,6 +21,8 @@ Tuo tarpu Kėdainių kryptimi pamažu artėjo bolševikų 2-asis šaulių pulkas
 - t-001
   global_id: t-40869
   teiginys: 'Bolševikų 2-asis šaulių pulkas artėjo Kėdainių kryptimi ir turėjo apie 900 ar 1 000 kovotojų.'
+  sudarymo_pagrindimas: 'Pašalinta kontekstinė pradžia ir OCR laužymai, išlaikytas pagrindinis faktas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Kaunas; mentioned_place: Kruopiai; mentioned_place: Kėdainiai'
   pagrindžia:
     - c-001
 
@@ -28,6 +30,11 @@ Tuo tarpu Kėdainių kryptimi pamažu artėjo bolševikų 2-asis šaulių pulkas
 - t-002
   global_id: t-183653
   teiginys: 'Bolševikų 2-asis šaulių pulkas turėjo sunkiųjų kulkosvaidžių ir du lengvuosius pabūklus.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Suformuluotas atskiras aiškus faktas apie objekto ginkluotę.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_place: Kėdainiai'
   pagrindžia:
     - c-002
 
@@ -88,8 +95,3 @@ Tuo tarpu Kėdainių kryptimi pamažu artėjo bolševikų 2-asis šaulių pulkas
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/įgula]]

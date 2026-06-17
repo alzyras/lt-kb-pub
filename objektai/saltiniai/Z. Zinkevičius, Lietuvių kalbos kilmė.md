@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Z. Zinkevičiaus „Lietuvių kalbos kilmė“ nurodoma prie paaiškinimo, kad Dusburgietis Krivičių žeme vadino Naugarduko žemę Nemuno aukštupyje.
+Dusburgietis teigia, kad zinkevičius Z. Dusburgietis teigia, kad zinkevičius Z., Lietuvių kalbos kilmė, p. 252.
 
 ## Teiginiai
 
@@ -20,6 +20,8 @@ Z. Zinkevičiaus „Lietuvių kalbos kilmė“ nurodoma prie paaiškinimo, kad D
 - t-001
   global_id: t-61020
   teiginys: 'Z. Zinkevičiaus „Lietuvių kalbos kilmė“ nurodoma prie paaiškinimo, kad Dusburgietis Krivičių žeme vadino Naugarduko žemę Nemuno aukštupyje.'
+  sudarymo_pagrindimas: 'Pradinė formuluotė netaisyklinga, o citata remia tik bibliografinę atramą paaiškinimui.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Krivičiai|Krivičiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Naugardukas; mentioned_place: Nemunas'
   pagrindžia:
     - c-001
 

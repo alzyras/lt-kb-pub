@@ -24,7 +24,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Dusburgietis pasakoja, kad Herkus Mantas priesaika liudijo regėjęs iš sudeginto miestiečio burnos išskrendant baltą balandį. Notangai Herkų Mantą išsirinko savo kariuomenės vadu ir vyresniuoju po prūsų atkritimo nuo tikėjimo. Pokarvių skerdynių pasakojime Herkus du kartus išgelbėjo Hirtshalsą nuo burtų.
+Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs Karaliaučiaus apylinkes, pasigailėjęs į nelaisvę patekusio Hirtshalso, o galiausiai kryžiuočių sučiuptas ir nužudytas.
 
 ## Teiginiai
 
@@ -32,6 +32,7 @@ Dusburgietis pasakoja, kad Herkus Mantas priesaika liudijo regėjęs iš sudegin
 - t-001
   global_id: t-175186
   teiginys: 'Dusburgietis pasakoja, kad Herkus Mantas priesaika liudijo regėjęs iš sudeginto miestiečio burnos išskrendant baltą balandį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Mantas|Mantas]]'
   pagrindžia:
     - c-003
 
@@ -39,6 +40,8 @@ Dusburgietis pasakoja, kad Herkus Mantas priesaika liudijo regėjęs iš sudegin
 - t-002
   global_id: t-175187
   teiginys: 'Notangai Herkų Mantą išsirinko savo kariuomenės vadu ir vyresniuoju po prūsų atkritimo nuo tikėjimo.'
+  sudarymo_pagrindimas: 'Citata pagrindžia Herkaus Manto išrinkimą notangų vadu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_group: [[objektai/grupes/Varmiai|Varmiai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_place: Prūsai'
   pagrindžia:
     - c-006
 
@@ -46,6 +49,7 @@ Dusburgietis pasakoja, kad Herkus Mantas priesaika liudijo regėjęs iš sudegin
 - t-003
   global_id: t-175188
   teiginys: 'Pokarvių skerdynių pasakojime Herkus du kartus išgelbėjo Hirtshalsą nuo burtų.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Hirtshalsas|Hirtshalsas]]; mentioned_place: Kulmas; mentioned_place: Lubava; mentioned_place: Prūsija'
   pagrindžia:
     - c-002
 
@@ -53,6 +57,8 @@ Dusburgietis pasakoja, kad Herkus Mantas priesaika liudijo regėjęs iš sudegin
 - t-004
   global_id: t-175189
   teiginys: 'Herkų Mantą dykrose užtiko Henrikas iš Šenenbergo ir Helvigas iš Goldbacho; jie jį pakorė prie medžio ir pervėrė kalaviju.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir turi neaiškių įvardžių; citata palaiko aiškų sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_person: [[objektai/asmenys/Helvigas iš Goldbacho|Helvigas iš Goldbacho]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Henrikas iš Šenenbergo|Henrikas iš Šenenbergo]]; mentioned_place: Kristburgas'
   pagrindžia:
     - c-004
 
@@ -60,6 +66,7 @@ Dusburgietis pasakoja, kad Herkus Mantas priesaika liudijo regėjęs iš sudegin
 - t-005
   global_id: t-175190
   teiginys: 'Dusburgietis pasakoja, kad notangai savo kariuomenės vadu ir vyresniuoju pasirinko Herkų Mantą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]'
   pagrindžia:
     - c-001
     - c-003
@@ -68,6 +75,11 @@ Dusburgietis pasakoja, kad Herkus Mantas priesaika liudijo regėjęs iš sudegin
 - t-006
   global_id: t-175191
   teiginys: 'Herkaus Manto vadovaujami prūsai nusiaubė Kulmo žemę, o 1263 m. mūšio lauke visiškai sutriuškino kryžiuočius.'
+  sudarymo_pagrindimas: 'Reikia pakeisti neaiškų „Manto“ į pilną asmens vardą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Dauguva; mentioned_place: Kulmas; mentioned_place: Lietuva; mentioned_place: Prieglius; mentioned_place: Prūsai; mentioned_place: Semba; mentioned_place: Vysla; mentioned_place: Vėluva'
+  temporaliniai_duomenys: 'įvykio data: 1262 m.; įvykio data: 1263 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia pakeisti neaiškų „Manto“ į pilną asmens vardą.'
   pagrindžia:
     - c-009
 
@@ -75,6 +87,8 @@ Dusburgietis pasakoja, kad Herkus Mantas priesaika liudijo regėjęs iš sudegin
 - t-007
   global_id: t-175192
   teiginys: 'Herkus Mantas, notangų vadas, su stipria kariuomene įsibrovė į Kulmo žemę ir privertė magistrą Helmerichą jį vytis iki Lubavos žemės.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir užterštas antraštės tekstu; citata leidžia suformuluoti pilną faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Helmerichas|Helmerichas]]; mentioned_place: Kulmas; mentioned_place: Lubava'
   pagrindžia:
     - c-008
 
@@ -82,6 +96,7 @@ Dusburgietis pasakoja, kad Herkus Mantas priesaika liudijo regėjęs iš sudegin
 - t-008
   global_id: t-175193
   teiginys: 'Herkus Mantas, likęs vienas palapinėje, buvo Kristburgo komtūro Henriko iš Šenenbergo ir Helvigo iš Goldbacho pakartas ir pervertas kalaviju.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Helvigas iš Goldbacho|Helvigas iš Goldbacho]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Kristburgas'
   pagrindžia:
     - c-004
 
@@ -89,6 +104,11 @@ Dusburgietis pasakoja, kad Herkus Mantas priesaika liudijo regėjęs iš sudegin
 - t-009
   global_id: t-175194
   teiginys: 'Herkaus Manto vadovaujami prūsai nusiaubė Kulmo žemę ir 1263 m. mūšio lauke sutriuškino kryžiuočius.'
+  sudarymo_pagrindimas: 'Reikia išplėsti pavardę į aiškų asmens vardą ir patikslinti mūšio aplinkybę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Kulmas; mentioned_place: Prieglius; mentioned_place: Prūsai; mentioned_place: Semba; mentioned_place: Vėluva'
+  temporaliniai_duomenys: 'įvykio data: 1262 m.; įvykio data: 1263 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia išplėsti pavardę į aiškų asmens vardą ir patikslinti mūšio aplinkybę.'
   pagrindžia:
     - c-005
 
@@ -96,6 +116,8 @@ Dusburgietis pasakoja, kad Herkus Mantas priesaika liudijo regėjęs iš sudegin
 - t-010
   global_id: t-175195
   teiginys: 'Herkus Mantas vokiškai išviliodavo besislapstančius krikščionis iš slėptuvių, o tada su saviškiais juos suimdavo arba nužudydavo.'
+  sudarymo_pagrindimas: 'Reikia pašalinti vertinamąją antraštę ir nutrūkusį tekstą; citata palaiko konkretų veiksmą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_person: [[objektai/asmenys/Mantas|Mantas]]'
   pagrindžia:
     - c-010
 
@@ -103,6 +125,7 @@ Dusburgietis pasakoja, kad Herkus Mantas priesaika liudijo regėjęs iš sudegin
 - t-011
   global_id: t-175196
   teiginys: 'Herkus Mantas, surinkęs didelę kariuomenę, puolė Karaliaučiaus lauką ir sunkiai sužeidė brolį Henriką Ulenbušą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_person: [[objektai/asmenys/Mantas|Mantas]]'
   pagrindžia:
     - c-012
 
@@ -110,6 +133,8 @@ Dusburgietis pasakoja, kad Herkus Mantas priesaika liudijo regėjęs iš sudegin
 - t-012
   global_id: t-175197
   teiginys: 'Notangų vadas Herkus Mantas subūrė didelę kariuomenę ir atžygiavo į Karaliaučiaus lauką, ketindamas pulti pilį.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, konkretus ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_person: [[objektai/asmenys/Mantas|Mantas]]'
   pagrindžia:
     - c-012
 
@@ -117,6 +142,8 @@ Dusburgietis pasakoja, kad Herkus Mantas priesaika liudijo regėjęs iš sudegin
 - t-013
   global_id: t-175198
   teiginys: 'Herkus Mantas buvo sudegintas367.'
+  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Mantas|Mantas]]'
   pagrindžia:
     - c-011
 
@@ -124,6 +151,7 @@ Dusburgietis pasakoja, kad Herkus Mantas priesaika liudijo regėjęs iš sudegin
 - t-014
   global_id: t-175199
   teiginys: 'Herkus Mantas du kartus išgelbėjo į nelaisvę patekusį Hirtshalsą, prisiminęs Magdeburge patirtas geradarybes.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Mantas|Mantas]]'
   pagrindžia:
     - c-001
 
@@ -131,6 +159,8 @@ Dusburgietis pasakoja, kad Herkus Mantas priesaika liudijo regėjęs iš sudegin
 - t-015
   global_id: t-175200
   teiginys: 'Herkus Mantas su stipria kariuomene įsibrovė į Kulmo žemę, išsivarė daug žmonių, prisigrobė turto ir sudegino pastatus už įtvirtinimų.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nusako Herkaus Manto veiksmus ir remiasi citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Mantas|Mantas]]; mentioned_place: Kulmas; mentioned_place: Lubava; mentioned_place: Prūsija'
   pagrindžia:
     - c-002
 
@@ -138,6 +168,7 @@ Dusburgietis pasakoja, kad Herkus Mantas priesaika liudijo regėjęs iš sudegin
 - t-016
   global_id: t-175201
   teiginys: 'Dusburgietis pabrėžia, kad Herkus vėliau pats liudijo apie Hirtshalso sielos regėjimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_person: [[objektai/asmenys/Helvigas iš Goldbacho|Helvigas iš Goldbacho]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Hirtshalsas|Hirtshalsas]]; mentioned_place: Kristburgas'
   pagrindžia:
     - c-004
 
@@ -145,9 +176,46 @@ Dusburgietis pasakoja, kad Herkus Mantas priesaika liudijo regėjęs iš sudegin
 - t-017
   global_id: t-175202
   teiginys: 'Herkus Mantas, notangų prūsų vyriausiasis vadas, niokojo Kulmo žemę ir Lubavos mūšyje triuškino Ordiną.'
+  sudarymo_pagrindimas: 'Sakinys pataisytas į sklandesnę enciklopedinę formą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_person: [[objektai/asmenys/Mantas|Mantas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Kulmas; mentioned_place: Lubava; mentioned_place: Pamedė; mentioned_place: Prūsai; mentioned_place: Vėluva'
   pagrindžia:
     - c-007
-
+- susijęs iš [[objektai/asmenys/Auktumas.md#claim-t-60242|Auktumas]]: Prūsams atkritus nuo tikėjimo, pagudėnai savo kariuomenės vadu ir vyresniuoju išsirinko Auktumą.
+- susijęs iš [[objektai/asmenys/Ditrichas (Prūsijos žemės maršalas).md#claim-t-89686|Ditrichas (Prūsijos žemės maršalas)]]: Lubavos žemėje prūsai nukovė Prūsijos žemės maršalą Ditrichą per mūšį su Helmericho kariuomene.
+- susijęs iš [[objektai/asmenys/Ditrichas (Prūsijos žemės maršalas).md#claim-t-89688|Ditrichas (Prūsijos žemės maršalas)]]: Lubavos žemėje prūsai nukovė Prūsijos žemės maršalą Ditrichą, magistrą Helmerichą ir keturiasdešimt brolių.
+- susijęs iš [[objektai/asmenys/Divanas.md#claim-t-59914|Divanas]]: Prūsams atkritus nuo tikėjimo, bartai savo kariuomenės vadu ir vyresniuoju išsirinko Divaną.
+- susijęs iš [[objektai/asmenys/Glanda.md#claim-t-60294|Glanda]]: Prūsams vėl atkritus nuo tikėjimo, sembai išsirinko Glandą savo kariuomenės vadu ir vyresniuoju.
+- susijęs iš [[objektai/asmenys/Glapas.md#claim-t-89793|Glapas]]: Prūsams vėl atkritus nuo tikėjimo, varmiai išsirinko Glapą savo kariuomenės vadu ir vyresniuoju.
+- susijęs iš [[objektai/asmenys/Helmerichas.md#claim-t-89795|Helmerichas]]: Helmerichas sutelkė savo pajėgas, nusekė paskui priešus iki Lubavos žemės ir surikiavęs kariuomenę juos užpuolė.
+- susijęs iš [[objektai/asmenys/Helmerichas.md#claim-t-89796|Helmerichas]]: Lubavos žemėje prūsai nukovė magistrą Helmerichą, maršalą Ditrichą, keturiasdešimt brolių ir išžudė krikščionių kariuomenę.
+- susijęs iš [[objektai/asmenys/Helvigas iš Goldbacho.md#claim-t-60022|Helvigas iš Goldbacho]]: Helvigas iš Goldbacho su Henriku iš Šenenbergo ir keliais ginklanešiais sučiupo Herkų Mantą, jį pakorė ir pervėrė kalaviju.
+- susijęs iš [[objektai/asmenys/Henrikas Ulenbušas.md#claim-t-60139|Henrikas Ulenbušas]]: Herkus Mantas ietimi sunkiai sužeidė Henriką Ulenbušą, kai šis tempė arbaletą, bet Henriko Ulenbušo žaizda vėliau užgijo.
+- susijęs iš [[objektai/asmenys/Henrikas iš Šenenbergo.md#claim-t-60317|Henrikas iš Šenenbergo]]: Henrikas iš Šenenbergo, Kristburgo komtūras, su Helvigu iš Goldbacho užtiko Herkų Mantą ir jį nužudė.
+- susijęs iš [[objektai/asmenys/Hirtshalsas.md#claim-t-175204|Hirtshalsas]]: Hirtshalsas buvo kilmingas ir turtingas Magdeburgo miestietis, kurį notangai, trečią kartą burtams kritus, sudegino pririštą ant žirgo.
+- susijęs iš [[objektai/autoriai/Keyserlingk B.md#claim-t-91951|Keyserlingk B]]: B. Keyserlingkas parašė kūrinius „Monte der Rebell“ ir „Sukilėlis Montė“ apie Herkų Mantą.
+- susijęs iš [[objektai/grupes/Bartai.md#claim-t-88535|Bartai]]: Po prūsų atkritimo nuo krikščionių tikėjimo bartai savo kariuomenės vadu išsirinko Divaną.
+- susijęs iš [[objektai/grupes/Notangai.md#claim-t-183889|Notangai]]: Notangų vadas Herkus Mantas subūrė didelę kariuomenę ir atžygiavo į Karaliaučiaus lauką pulti pilies.
+- susijęs iš [[objektai/grupes/Notangai.md#claim-t-78401|Notangai]]: Po skerdynių notangai metė burtus dėl aukos dievams, ir burtai tris kartus krito Magdeburgo miestiečiui Hirtshalsui.
+- susijęs iš [[objektai/grupes/Notangai.md#claim-t-78408|Notangai]]: Notangų vadas Herkus Mantas pasitraukė į dykras, kur Henrikas iš Šenenbergo ir Helvigas iš Goldbacho jį pakorė ir pervėrė kalaviju.
+- susijęs iš [[objektai/grupes/Notangai.md#claim-t-78409|Notangai]]: Prūsams vėl atkritus nuo tikėjimo, notangai savo kariuomenės vadu ir vyresniuoju išsirinko Herkų Mantą.
+- susijęs iš [[objektai/grupes/Notangai.md#claim-t-78411|Notangai]]: Notangų vadą Herkų Mantą broliai Henrikas iš Šenenbergo ir Helvigas iš Goldbacho pakorė ir pervėrė kalaviju.
+- susijęs iš [[objektai/grupes/Notangai.md#claim-t-78412|Notangai]]: Notangų vadas Herkus Mantas subūrė didelę kariuomenę ir atžygiavo į Karaliaučiaus lauką pulti pilies.
+- susijęs iš [[objektai/grupes/Pagudėnai.md#claim-t-89162|Pagudėnai]]: Prūsams vėl atkritus nuo tikėjimo, pagudėnai savo kariuomenės vadu ir vyresniuoju išsirinko Auktumą.
+- susijęs iš [[objektai/grupes/Sembai.md#claim-t-175104|Sembai]]: Prūsams vėl atkritus nuo tikėjimo, sembai savo kariuomenės vadu ir vyresniuoju išsirinko Glandą.
+- susijęs iš [[objektai/grupes/Varmiai.md#claim-t-78541|Varmiai]]: Po prūsų atkritimo nuo tikėjimo varmiai savo kariuomenės vadu ir vyresniuoju išsirinko Glapą.
+- susijęs iš [[objektai/grupes/Žiemgaliai.md#claim-t-89339|Žiemgaliai]]: Žiemgaliai vėl sukilo nepakęsdami griežtos kryžiuočių valdžios.
+- susijęs iš [[objektai/grupes/Žiemgaliai.md#claim-t-89355|Žiemgaliai]]: Žiemgaliai vėl sukilo, nepakęsdami griežtos kryžiuočių valdžios.
+- susijęs iš [[objektai/ivykiai/Antrojo prūsų sukilimo pradžia ir krikščionių žudynės (1260 m.).md#claim-t-66455|Antrojo prūsų sukilimo pradžia ir krikščionių žudynės (1260 m.)]]: 1260 m. prūsai vėl atkrito nuo krikščionių tikėjimo, o sembai, notangai, varmiai, pagudėnai ir bartai išsirinko savo vadus.
+- susijęs iš [[objektai/ivykiai/Glapo išdavystė, suėmimas ir varmių bei notangų pasidavimas.md#claim-t-66552|Glapo išdavystė, suėmimas ir varmių bei notangų pasidavimas]]: Glapo valdinys Steinavas išdavė Karaliaučiaus komtūrui Glapo planą pulti pilį Sembos žemėje prie Gėlavandenių marių.
+- susijęs iš [[objektai/ivykiai/Herkaus Manto suėmimas ir pakorimas.md#claim-t-62804|Herkaus Manto suėmimas ir pakorimas]]: Herkus Mantas žuvo 1273 m. vasarą arba rudenį.
+- susijęs iš [[objektai/ivykiai/Herkaus Manto suėmimas ir pakorimas.md#claim-t-62805|Herkaus Manto suėmimas ir pakorimas]]: Herkų Mantą palapinėje užklupo Henrikas iš Šenenbergo ir Helvigas iš Goldbacho, paskui jį pakorė ir pervėrė kalaviju.
+- susijęs iš [[objektai/ivykiai/Lubavos žemės mūšis, kuriame žuvo magistras Helmerichas ir maršalas Ditrichas (1263 m.).md#claim-t-62870|Lubavos žemės mūšis, kuriame žuvo magistras Helmerichas ir maršalas Ditrichas (1263 m.)]]: Lubavos žemės mūšyje prūsai nukovė magistrą Helmerichą, maršalą Ditrichą, keturiasdešimt brolių ir išžudė krikščionių kariuomenę.
+- susijęs iš [[objektai/ivykiai/Susirėmimas Pokarviuose (1261 m.).md#claim-t-59251|Susirėmimas Pokarviuose (1261 m.)]]: Po susirėmimo Pokarviuose notangai belaisvį Hirtshalsą burtų keliu paskyrė aukai ir sudegino pririštą ant jo žirgo.
+- susijęs iš [[objektai/paprociai/Herkaus Manto vokiški taikos pažadai besislapstantiems išvilioti.md#claim-t-62116|Herkaus Manto vokiški taikos pažadai besislapstantiems išvilioti]]: Herkus Mantas vokiškai žadėdavo saugumą besislapstantiems krikščionims, o išėjusius su saviškiais suimdavo arba nužudydavo.
+- susijęs iš [[objektai/posakiai/Jei kas čia slapstosi, tegu išeina be baimės, nes netikėlių kariuomenė jau atsitraukė.md#claim-t-89587|Jei kas čia slapstosi, tegu išeina be baimės, nes netikėlių kariuomenė jau atsitraukė]]: Herkus Mantas vokiškai kviesdavo besislapstančius krikščionis išeiti be baimės, meluodamas, kad netikėlių kariuomenė jau atsitraukė.
+- susijęs iš [[objektai/posakiai/Jei kas čia slapstosi, tegu išeina be baimės, nes netikėlių kariuomenė jau atsitraukė.md#claim-t-89589|Jei kas čia slapstosi, tegu išeina be baimės, nes netikėlių kariuomenė jau atsitraukė]]: Herkus Mantas vokiškai viliojo besislapstančius krikščionis išeiti, o patikėjusiuosius jo vyrai paimdavo į nelaisvę arba nužudydavo.
+- susijęs iš [[objektai/posakiai/Šiandien pat pasiųsiu tave į dangų.md#claim-t-59171|Šiandien pat pasiųsiu tave į dangų]]: Herkus Mantas, pasakęs Henrikui Ulenbušui „Šiandien pat pasiųsiu tave į dangų“, sunkiai sužeidė jį ietimi.
+- susijęs iš Ewald A. L., Die Eroberung: Ewaldo veikalas „Die Eroberung“ nurodomas kaip šaltinis Herkaus Manto žūčiai 1273 m. vasarą ar rudenį datuoti.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -369,44 +437,3 @@ Dusburgietis pasakoja, kad Herkus Mantas priesaika liudijo regėjęs iš sudegin
   pagrindžia:
     - t-012
     - t-011
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Baltai]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Notangai]]
-- [[objektai/grupes/Teutonai]]
-- [[objektai/zodynas/komtūras]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Bartai]]
-- [[objektai/daiktai/Ginklai]]
-- [[objektai/asmenys/Helvigas iš Goldbacho]]
-- [[objektai/autoriai/Henrikas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
-- [[objektai/grupes/Pagudėnai]]
-- [[objektai/grupes/Sembai]]
-- [[objektai/grupes/Sūduviai]]
-- [[objektai/grupes/Varmiai]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/ginklanešiai]]
-- [[objektai/zodynas/netikėliai]]
-- [[objektai/ivykiai/Antrojo prūsų sukilimo pradžia ir krikščionių žudynės (1260 m.)]]
-- [[objektai/asmenys/Ditrichas (Prūsijos žemės maršalas)]]
-- [[objektai/ivykiai/Glapo išdavystė, suėmimas ir varmių bei notangų pasidavimas]]
-- [[objektai/asmenys/Helmerichas]]
-- [[objektai/asmenys/Henrikas iš Šenenbergo]]
-- [[objektai/ivykiai/Herkaus Manto suėmimas ir pakorimas]]
-- [[objektai/paprociai/Herkaus Manto vokiški taikos pažadai besislapstantiems išvilioti]]
-- [[objektai/posakiai/Jei kas čia slapstosi, tegu išeina be baimės, nes netikėlių kariuomenė jau atsitraukė]]
-- [[objektai/ivykiai/Lubavos žemės mūšis, kuriame žuvo magistras Helmerichas ir maršalas Ditrichas (1263 m.)]]
-- [[objektai/ivykiai/Susirėmimas Pokarviuose (1261 m.)]]
-- [[objektai/posakiai/Šiandien pat pasiųsiu tave į dangų]]
-- [[objektai/grupes/Žiemgaliai]]
-- [[objektai/asmenys/Hirtshalsas]]
-- [[objektai/daiktai/Kalavijas]]
-- [[objektai/asmenys/Mantas]]
-- [[objektai/daiktai/Vytis]]
-- [[objektai/grupes/Sūduviai-jotvingiai]]
-- [[objektai/ivykiai/Treniotos vadovaujamas Mindaugo kariuomenės žygis į Ordino užnugarį (1262 m.)]]

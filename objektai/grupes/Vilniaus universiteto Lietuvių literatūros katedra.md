@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Nuo šeštojo dešimtmečio pabaigos prasidėjo Vilniaus universiteto Lietuvių literatūros katedros darbuotojų ideologinis puolimas. Nuo šeštojo dešimtmečio pabaigos prasidėjo Vilniaus universiteto Lietuvių literatūros katedros darbuotojų ideologinis puolimas.
+Todėl nuo šeštojo dešimtmečio pabaigos prasidėjo Vilniaus universiteto Lietuvių literatūros katedros darbuotojų, kai kurių kultūros veikėjų ideologinis puolimas.
 
 ## Teiginiai
 
@@ -20,6 +20,8 @@ Nuo šeštojo dešimtmečio pabaigos prasidėjo Vilniaus universiteto Lietuvių 
 - t-001
   global_id: t-75040
   teiginys: 'Nuo šeštojo dešimtmečio pabaigos prasidėjo Vilniaus universiteto Lietuvių literatūros katedros darbuotojų ideologinis puolimas.'
+  sudarymo_pagrindimas: 'Sakinys aiškus, gramatiškas ir tiesiogiai pagrįstas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Poznanė; mentioned_place: Vengrija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -41,8 +43,3 @@ Nuo šeštojo dešimtmečio pabaigos prasidėjo Vilniaus universiteto Lietuvių 
   pagrindžia:
     - t-001
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/buržuazinis nacionalizmas]]

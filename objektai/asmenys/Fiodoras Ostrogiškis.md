@@ -18,6 +18,12 @@ Kunigaikštis Fiodoras Ostrogiškis gavo įsakymą su viena žygio vora užimti 
 - t-001
   global_id: t-186037
   teiginys: 'Kunigaikštis Fiodoras Ostrogiškis gavo įsakymą su viena žygio vora užimti Podolę.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata palaiko konkretų įsakymą Fiodorui Ostrogiškiui.'
+  susije_objektai: 'territory: Podolė; territory: Viena; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/vora|vora]]; mentioned_object: [[objektai/zodynas/žygio vora|žygio vora]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Boleslovas|Boleslovas]]; mentioned_person: [[objektai/asmenys/Fiodoras|Fiodoras]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Podolė; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/asmenys/Fiodoras Ostrogiškis|Fiodoras Ostrogiškis]] buvo valdovas Podolė; [[objektai/asmenys/Fiodoras Ostrogiškis|Fiodoras Ostrogiškis]] buvo valdovas Viena'
   pagrindžia:
     - c-001
 
@@ -25,9 +31,14 @@ Kunigaikštis Fiodoras Ostrogiškis gavo įsakymą su viena žygio vora užimti 
 - t-002
   global_id: t-186038
   teiginys: 'Kunigaikštis Fiodoras Ostrogiškis paspruko iš kovos lauko, manydamas, kad lenkams atskuba didelės pagalbos pajėgos.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys pataisytas į sklandesnį ir tikslesnį enciklopedinį sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Fiodoras|Fiodoras]]'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/ivykiai/Švitrigailos įsiveržimas į Lietuvą ir Fiodoro Ostrogiškio žygis į Podolę (1432 m.).md#claim-t-185840|Švitrigailos įsiveržimas į Lietuvą ir Fiodoro Ostrogiškio žygis į Podolę (1432 m.)]]: Fiodoras Ostrogiškis netikėtai užpuolė Podolę ir netrukus ją sugrąžino Boleslovui Švitrigailai.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -86,11 +97,5 @@ Kunigaikštis Fiodoras Ostrogiškis gavo įsakymą su viena žygio vora užimti 
     - t-002
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/zodynas/vora]]
-- [[objektai/zodynas/žygio vora]]
-- [[objektai/ivykiai/Švitrigailos įsiveržimas į Lietuvą ir Fiodoro Ostrogiškio žygis į Podolę (1432 m.)]]
+- Fiodoras Ostrogiškis buvo_valdovas [[objektai/vietos/Podolė]]
+- Fiodoras Ostrogiškis buvo_valdovas [[objektai/vietos/Viena]]

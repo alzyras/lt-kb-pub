@@ -43,6 +43,8 @@ Nenurodyta
 - t-001
   global_id: t-89448
   teiginys: 'Kronikoje stojimas į Teutonų ordiną vadinamas šventu sumanymu.'
+  sudarymo_pagrindimas: 'Teiginys tiksliai nusako kronikoje vartojamą stojimo į Ordiną apibūdinimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_person: [[objektai/asmenys/Petras iš Dusburgo|Petras iš Dusburgo]]; mentioned_place: Prūsija'
   pagrindžia:
     - c-002
 
@@ -93,14 +95,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/Dusburgas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/daiktai/Kryžius]]
-- [[objektai/asmenys/Petras iš Dusburgo|Petras iš Dusburgo (kunigas)]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/grupes/Teutonai]]
-- [[objektai/zodynas/viešpaties dievo kariuomenė dievo tauta]]
-- [[objektai/zodynas/šventas sumanymas]]

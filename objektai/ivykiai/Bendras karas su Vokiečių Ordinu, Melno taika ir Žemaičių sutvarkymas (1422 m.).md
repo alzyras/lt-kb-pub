@@ -25,7 +25,7 @@ amziai:
 
 ## Santrauka
 
-1422 m. Vytautas Didysis grąžino Žemaičių kraštą Lietuvai ir užbaigė dėl jo 1283–1422 m. trukusius karus. 1422 m. liepos pabaigoje Vytautas ir Jogaila išžygiavo prieš Ordiną, bet Vytautui neteko kautis atvirame mūšyje, nes vokiečiai užsidarė pilyse. Melno taika Klaipėdą paliko Ordinui, o Palangą Lietuvai; Palanga skyrė Vokiečių ir Livonijos ordinų žemes.
+Tačiau šį kartą Vytautui neteko su Ordino kariuomene susitikti atvirame mūšyje, nes vokiečiai buvo užsidarę pilyse ir reikėjo kiekvieną jų imti atskirai. 133 taikytis, bet jis laukdamas Zigmanto pagalbos, pareikalavo vi­ sai atitraukti kariuomenę. Tuo būdu Klaipėda buvo palikta Ordinui, o Palanga — Lietuvai; ji skyrė Vokiečių ir Livonijos Ordinų žemes, kas apsaugojo Lie­ tuvą nuo didesnės vokiečių įtakos1 2).
 
 ## Laikotarpis ir datos
 
@@ -49,6 +49,11 @@ Nenurodyta
 - t-001
   global_id: t-50798
   teiginys: '1422 m. Vytautas Didysis grąžino Žemaičių kraštą Lietuvai ir užbaigė dėl jo 1283–1422 m. trukusius karus.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas citatos informacija apie Žemaičių krašto grąžinimą Lietuvai.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Breslavas; mentioned_place: Kėzmarkas; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1283-1422; įvykio data: 1422 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir paremtas citatos informacija apie Žemaičių krašto grąžinimą Lietuvai.'
   pagrindžia:
     - c-003
 
@@ -56,6 +61,11 @@ Nenurodyta
 - t-002
   global_id: t-50799
   teiginys: '1422 m. liepos pabaigoje Vytautas ir Jogaila išžygiavo prieš Ordiną, bet Vytautui neteko kautis atvirame mūšyje, nes vokiečiai užsidarė pilyse.'
+  sudarymo_pagrindimas: 'Citata palaiko tikslesnį sakinį su Jogailos dalyvavimu ir žygio laiku.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Zenonas|Zenonas]]'
+  temporaliniai_duomenys: 'įvykio data: 1422 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko tikslesnį sakinį su Jogailos dalyvavimu ir žygio laiku.'
   pagrindžia:
     - c-004
 
@@ -63,6 +73,7 @@ Nenurodyta
 - t-003
   global_id: t-50800
   teiginys: 'Melno taika Klaipėdą paliko Ordinui, o Palangą Lietuvai; Palanga skyrė Vokiečių ir Livonijos ordinų žemes.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Klaipėda; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Palanga'
   pagrindžia:
     - c-001
 
@@ -70,6 +81,8 @@ Nenurodyta
 - t-004
   global_id: t-50801
   teiginys: 'Vytautas susitarė su Ordinu dėl pagal taiką nustatytų sienų, suteikė laisvę prekybai ir užmezgė draugiškus santykius.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir tiesiogiai atitinka citatą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_person: [[objektai/asmenys/Martynas V|Martynas V]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Sūdavija'
   pagrindžia:
     - c-002
 
@@ -160,15 +173,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-005
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Martynas V]]
-- [[objektai/asmenys/Martynas iš Golino]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/asmenys/Zenonas]]
-- [[objektai/grupes/Žemaičiai]]
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]

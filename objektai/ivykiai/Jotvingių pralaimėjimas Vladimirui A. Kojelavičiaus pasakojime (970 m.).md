@@ -30,6 +30,14 @@ Nenurodyta
 - t-001
   global_id: t-185709
   teiginys: 'Kojelavičiaus pasakojime jotvingiai buvo Vladimiro įveikti, pavergti ir įpareigoti kasmet mokėti nustatytą duoklę.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata remia įvykio aprašymą, o pradinis teiginys nukrypsta į OCR sugadintą šalutinį fragmentą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Jotvingiai|Jotvingiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Taurės|Taurės]]; mentioned_object: [[objektai/zodynas/duoklė|duoklė]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Kijevas'
+  temporaliniai_duomenys: 'įvykio data: 970 m'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata remia įvykio aprašymą, o pradinis teiginys nukrypsta į OCR sugadintą šalutinį fragmentą.'
   pagrindžia:
     - c-001
 
@@ -79,11 +87,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/grupes/Jotvingiai]]
-- [[objektai/zodynas/duoklė]]

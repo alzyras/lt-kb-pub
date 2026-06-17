@@ -38,9 +38,11 @@ Nenurodyta
 - t-001
   global_id: t-08328
   teiginys: 'Kareiviui į kapą dėjo seidoką arba svilksnį kaip vieną iš įkapių.'
+  teiginio_tipas: 'faktas'
+  susije_objektai: 'mentioned_place: Viena'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/daiktai/Karinė ginkluotė.md#claim-t-08294|Karinė ginkluotė]]: Senovės kariai nešiojo šikšninį diržą su vario grandimis arba sagtimis ir įvairią ginkluotę.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -58,9 +60,3 @@ Nenurodyta
 ## Pastabos
 
 - tekste pavartota alternatyva „ar“, todėl neaišku, ar čia du atskiri daiktai, ar du to paties ginklo pavadinimai.
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Karinė ginkluotė]]
-- [[objektai/daiktai/Verpimo įrankiai]]
-- [[objektai/daiktai/Vylyčios]]

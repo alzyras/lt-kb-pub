@@ -20,6 +20,7 @@ Vytautas kartu su karū­ nos pasiuntiniu Zbignievu Olesnickiu pasiuntė ir savo
 - t-001
   global_id: t-35226
   teiginys: 'Vytauto sekretorius Mikalojus Cebulka buvo pasiųstas kaip jo atstovas ir Zigmantui pareiškė Vytauto nepasitenkinimą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]'
   pagrindžia:
     - c-001
 

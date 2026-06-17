@@ -43,6 +43,8 @@ Nenurodyta
 - t-001
   global_id: t-87192
   teiginys: 'Algirdas viešai nubaudė žiauraus poelgio vadus ir paskelbė krikščionių vienuoliams laisvę nevaržomai gyventi bei išpažinti tikėjimą.'
+  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas, išlaikant citatos faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Europa; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -50,6 +52,8 @@ Nenurodyta
 - t-002
   global_id: t-87193
   teiginys: 'Algirdas toleravo krikščionybę, bet dar nedraudė Perkūno garbinimo ir nekeitė pagonių šventyklų krikščionių bažnyčiomis.'
+  sudarymo_pagrindimas: 'Sakinys sutvarkytas ir sutrumpintas pagal citatos turinį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]'
   pagrindžia:
     - c-001
 
@@ -103,9 +107,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/grupes/Pranciškonų ordinas]]
-- [[objektai/zodynas/pagonybė]]

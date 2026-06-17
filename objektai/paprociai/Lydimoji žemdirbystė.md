@@ -47,6 +47,11 @@ Nenurodyta
 - t-001
   global_id: t-97134
   teiginys: 'Po 1557 m. valakų reformos lydimoji žemdirbystė Lietuvoje ėmė nykti, nors XVI-XVII a. aktuose žodis „lydimas“ dar dažnai minėtas.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir pakankamai tiksliai perteikia citatos informaciją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Valakai|Valakai]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: po 1557 m.; įvykio data: 1557 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir pakankamai tiksliai perteikia citatos informaciją.'
   pagrindžia:
     - c-002
 
@@ -54,6 +59,8 @@ Nenurodyta
 - t-002
   global_id: t-97135
   teiginys: 'Lydimoji žemdirbystė rėmėsi ugnies naudojimu, kai išskintame ir nudegintame miško sklype buvo daromas dirbamas laukas.'
+  sudarymo_pagrindimas: 'Teiginys palaikomas citata, bet reikėjo pašalinti OCR triukšmą ir perteklinius terminus.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tame (Baigos brolis)|Tame (Baigos brolis)]]; mentioned_place: Europa; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -61,6 +68,8 @@ Nenurodyta
 - t-003
   global_id: t-97136
   teiginys: 'Lydimoji žemdirbystė buvo galima, kol nebuvo tvarkomas miškų ūkis ir stambieji žemvaldžiai nevaržė naudojimosi mišku.'
+  sudarymo_pagrindimas: 'Perrašyta aiškiau, įvardijant lydimąją žemdirbystę vietoje neaiškaus žodžio „tokia“.'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-003
 
@@ -68,6 +77,7 @@ Nenurodyta
 - t-004
   global_id: t-97137
   teiginys: 'Lydimoji žemdirbystė rėmėsi miško sklypo išskynimu ir nudeginimu, kad jame būtų įrengtas dirbamas laukas.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tame (Baigos brolis)|Tame (Baigos brolis)]]; mentioned_place: Europa; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -75,9 +85,15 @@ Nenurodyta
 - t-005
   global_id: t-97138
   teiginys: 'Po 1557 m. valakų reformos Lietuvoje lydimoji žemdirbystė ėmė nykti, nors XVI–XVII a. aktuose dar minėtas žodis „lydimas“.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, glaustas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Valakai|Valakai]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: po 1557 m.; įvykio data: 1557 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, glaustas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/ivykiai/Valakų reforma (1557 m.).md#claim-t-31479|Valakų reforma (1557 m.)]]: 1557 m. pradėta Valakų reforma Lietuvoje įvedė visuotinę trilaukio ūkio sistemą ir skatino lydimosios žemdirbystės nykimą.
+- susijęs iš [[objektai/paprociai/Trilaukio ūkio sistema.md#claim-t-31536|Trilaukio ūkio sistema]]: 1557 m. valakų reforma Lietuvoje įvedė visuotinę trilaukio ūkio sistemą su vieneriems metams paliekamu pūdymu.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -141,13 +157,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/kasdienybė]]
-
-### Susiję objektai
-- [[objektai/asmenys/Tame (Baigos brolis)]]
-- [[objektai/paprociai/Trilaukio ūkio sistema]]
-- [[objektai/ivykiai/Valakų reforma (1557 m.)]]
-- [[objektai/grupes/Valakai]]

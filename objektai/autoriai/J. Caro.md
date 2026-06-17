@@ -9,28 +9,37 @@ date_start: '1869'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - autorius
 amziai:
   - 'XIX'
 periodo_grupes:
   - 'naujieji laikai'
-tags:
-  - autorius
 ---
 # J. Caro
 
 ## Santrauka
 
-J. Caro 1869 m. išleido veikalo „Geschichte Polens“ trečią tomą.
+HrlU, IV, 127 p. — J. Caro : Geschichte Polens, III, 1869, 211 p.
 
 ## Teiginiai
+
 <a id="claim-t-100111"></a>
 - t-001
   global_id: t-100111
   teiginys: 'J. Caro 1869 m. išleido veikalo „Geschichte Polens“ trečią tomą.'
+  sudarymo_pagrindimas: 'Pradinis tekstas yra bibliografinis fragmentas; citata leidžia suformuluoti glaustą faktinį sakinį.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
+  temporaliniai_duomenys: 'įvykio data: 1869 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis tekstas yra bibliografinis fragmentas; citata leidžia suformuluoti glaustą faktinį sakinį.'
   pagrindžia:
     - c-001
-
+- susijęs iš J. Caro, Geschichte Polens: J. Caro veikalo „Geschichte Polens“ III tomas buvo išleistas 1869 m.
+- susijęs iš J. Caro, Geschichte Polens: J. Caro „Geschichte Polens“ 2-5 tomai, apimantys 1300-1506 m., buvo išleisti Gothoje 1863-1888 m.
+- susijęs iš J. Caro, Geschichte Polens: J. Caro „Geschichte Polens“ III tomas buvo išleistas 1869 m.
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'J. Caro 1869 m. išleido veikalo „Geschichte Polens“ trečią tomą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)

@@ -10,21 +10,26 @@ atnaujinta: ''
 
 ## Santrauka
 
-Žinia, kad mirus Ginvilos palikuoniui Glebui nebeliko Polocko kunigaikščių, laikoma nepagrįsta.
+Lietuvos metraščio komentare žinia, kad mirus Ginvilos palikuoniui Glebui nebeliko Polocko kunigaikščių, vadinama nepagrįsta.
 
 ## Teiginiai
 
 <a id="claim-t-187772"></a>
 - t-001
   global_id: t-187772
-  teiginys: 'Žinia, kad mirus Ginvilos palikuoniui Glebui nebeliko Polocko kunigaikščių, laikoma nepagrįsta.'
+  teiginys: 'Lietuvos metraščio komentare žinia, kad mirus Ginvilos palikuoniui Glebui nebeliko Polocko kunigaikščių, vadinama nepagrįsta.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Nepagrįstumo vertinimas paliktas su atribucija, nes tai interpretacinis teiginys. Nepridėta platesnė rusų metraščių ir Henriko Latvio kronikos argumentacija.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Glebas (Smolensko kunigaikštis)|Glebas (Smolensko kunigaikštis)]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Lietuva; mentioned_place: Polockas'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Žinia, kad mirus Ginvilos palikuoniui Glebui nebeliko Polocko kunigaikščių, laikoma nepagrįsta.'
+  santrauka: 'Lietuvos metraščio komentare žinia, kad mirus Ginvilos palikuoniui Glebui nebeliko Polocko kunigaikščių, vadinama nepagrįsta.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     1 9  Žinia, kad, mirus Ginvilos palikuoniui Glebu!, nebeliko Po­
@@ -36,10 +41,3 @@ atnaujinta: ''
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/Henrikas]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/asmenys/Glebas (Smolensko kunigaikštis)]]

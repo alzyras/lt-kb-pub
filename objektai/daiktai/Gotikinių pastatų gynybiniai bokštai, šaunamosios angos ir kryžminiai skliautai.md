@@ -41,6 +41,8 @@ Nenurodyta
 - t-001
   global_id: t-64922
   teiginys: 'Lietuvos gotikinės architektūros ypatumas – gynybinis pobūdis: net ir sakraliniai pastatai turėjo gynybinius bokštus ar šaunamąsias angas – Vytauto laikais daugiausia statyta būtent gynybinių statinių.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatinis ir paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Statinės|Statinės]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Bokštai; mentioned_place: Lietuva; mentioned_place: Luckas; mentioned_place: Naugardukas'
   pagrindžia:
     - c-001
 
@@ -48,6 +50,8 @@ Nenurodyta
 - t-002
   global_id: t-64923
   teiginys: 'Vytauto laikų gotikinę gynybinę architektūrą liudijo mūrinės pilys Vilniuje, Trakuose, Kaune, Gardine, Naugarduke ir Lucke.'
+  sudarymo_pagrindimas: 'Teiginį reikia susieti su šio įrašo objektu, o citata pagrindžia gynybinės architektūros kontekstą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Bokštai; mentioned_place: Lietuva; mentioned_place: Luckas; mentioned_place: Naugardukas'
   pagrindžia:
     - c-001
 
@@ -68,8 +72,3 @@ Nenurodyta
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/daiktai/Pilys]]

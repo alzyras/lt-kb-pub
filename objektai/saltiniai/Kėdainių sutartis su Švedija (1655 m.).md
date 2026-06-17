@@ -30,6 +30,11 @@ amziai:
 - t-001
   global_id: t-101548
   teiginys: 'Lietuvos magnatai 1655 m. sudarė Kėdainių sutartį su Švedija, tačiau švedams Lietuvoje įsitvirtinti nepavyko.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie sutartį ir jos padarinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Baltija; mentioned_place: Kėdainiai; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Rusija; mentioned_place: Vyborgas; mentioned_place: Švedija'
+  temporaliniai_duomenys: 'įvykio data: 1655 m.; įvykio data: 1655-1660; įvykio data: 1660 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie sutartį ir jos padarinį.'
   pagrindžia:
     - c-001
 

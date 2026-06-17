@@ -18,6 +18,11 @@ Andrius Mackevičius, slaptosios karaliaus tarybos narys, priklausė pasiuntinyb
 - t-001
   global_id: t-186094
   teiginys: 'Andrius Mackevičius, slaptosios karaliaus tarybos narys, priklausė pasiuntinybei į Maskvą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata palaiko glaustą faktą apie Andriaus Mackevičiaus vaidmenį pasiuntinybėje.'
+  susije_objektai: 'owner: Maskva; owner: [[objektai/grupes/Valachai|Valachai]]; owner: [[objektai/asmenys/Vasilijus|Vasilijus]]; owner: Viena; mentioned_group: [[objektai/grupes/Valachai|Valachai]]; mentioned_object: [[objektai/zodynas/legatai|legatai]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_object: [[objektai/zodynas/žirgininkas|žirgininkas]]; mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]; mentioned_person: [[objektai/asmenys/Vasilijus|Vasilijus]]; mentioned_place: Maskva; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -51,13 +56,3 @@ Andrius Mackevičius, slaptosios karaliaus tarybos narys, priklausė pasiuntinyb
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Motiejus]]
-- [[objektai/grupes/Valachai]]
-- [[objektai/asmenys/Vasilijus]]
-- [[objektai/zodynas/legatai]]
-- [[objektai/zodynas/maršalas]]
-- [[objektai/zodynas/žirgininkas]]
-- [[objektai/asmenys/Motiejus Kločka]]

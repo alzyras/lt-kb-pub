@@ -30,6 +30,8 @@ Ivano Ganeckio rinktinėje buvo 5 kuopos pėstininkų, eskadronas ulonų, % eska
 - t-001
   global_id: t-40145
   teiginys: 'Ivano Ganeckio rinktinėje prieš Sierakausko sukilėlius buvo daugiau kaip 1500 karių.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir pagrįstas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Donas'
   pagrindžia:
     - c-001
 
@@ -37,6 +39,8 @@ Ivano Ganeckio rinktinėje buvo 5 kuopos pėstininkų, eskadronas ulonų, % eska
 - t-002
   global_id: t-40146
   teiginys: 'V. Nazimovas balandžio pabaigoje įsakė Ivanui Ganeckiui žygiuoti Anykščių kryptimi ir sunaikinti Ukmergės apskrityje susibūrusius sukilėlius.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie asmens gautą įsakymą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/V. Nazimovas|V. Nazimovas]]; mentioned_place: Ukmergė'
   pagrindžia:
     - c-002
 
@@ -77,8 +81,3 @@ Ivano Ganeckio rinktinėje buvo 5 kuopos pėstininkų, eskadronas ulonų, % eska
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kazokai]]
-- [[objektai/grupes/Rusai]]

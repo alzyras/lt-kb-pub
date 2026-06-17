@@ -3,6 +3,10 @@ tipas: zodyno_irasas
 pavadinimas: 'bajoriškoji demokratija luominė monarchija'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1791 m.'
+date_start: '1791'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -10,6 +14,8 @@ tags:
   - sąvoka
   - tauta
   - valdovas
+amziai:
+  - 'XVIII'
 ---
 # bajoriškoji demokratija luominė monarchija
 
@@ -23,6 +29,8 @@ tags:
 - t-001
   global_id: t-22068
   teiginys: 'Abiejų Tautų Respublikoje atstovai rinkdavo valdovą, todėl santvarka galėjo atrodyti kaip respublika, o ne monarchija.'
+  sudarymo_pagrindimas: 'Pašalintas perteklinis ir neenciklopedinis formulavimas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/zodynas/barokas|barokas]]; mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -30,6 +38,11 @@ tags:
 - t-002
   global_id: t-22069
   teiginys: 'Abiejų Tautų Respublika sukūrė Vakarams tuomet beveik nežinomą religinės tolerancijos ir bajoriškosios demokratijos tradiciją.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citatos sąrašo punktu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/barokas|barokas]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas|Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1791 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citatos sąrašo punktu.'
   pagrindžia:
     - c-001
 
@@ -80,18 +93,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]
-- [[objektai/zodynas/barokas]]
-- [[objektai/zodynas/luomas]]
-- [[objektai/zodynas/Miera|miera]]
-- [[objektai/zodynas/unija]]
-- [[objektai/grupes/Žydai]]
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/paprociai/Abiejų Tautų Respublikos religinės tolerancijos, bajoriškosios demokratijos ir teisinės tradicijos]]
-- [[objektai/zodynas/Bajorų respublika liberum veto]]
-- [[objektai/grupes/Vilniaus baroko architektūros mokykla]]
-- [[objektai/zodynas/bajoriškoji demokratija]]
-- [[objektai/posakiai/„duona, tolerancija, demokratija, konstitucija, barokas“]]

@@ -42,6 +42,8 @@ Nenurodyta
 - t-001
   global_id: t-59711
   teiginys: 'Brolis Ditrichas nugabeno Šv. Barboros relikvijas į Kulmą, kur jos buvo iškilmingai pasitiktos ir padėtos bažnyčioje prie senosios pilies.'
+  sudarymo_pagrindimas: 'Pradinis teiginys turi boilerplate pradžią, o citata palaiko aiškų faktą apie relikvijų perkėlimą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]'
   pagrindžia:
     - c-001
 
@@ -66,7 +68,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Barbora Radvilaitė]]

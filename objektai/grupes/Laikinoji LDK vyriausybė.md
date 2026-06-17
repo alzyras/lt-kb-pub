@@ -3,11 +3,17 @@ tipas: grupe
 pavadinimas: 'Laikinoji LDK vyriausybė'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1812 m.'
+date_start: '1812'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
   - kraštas
+amziai:
+  - 'XIX'
 ---
 # Laikinoji LDK vyriausybė
 
@@ -21,6 +27,11 @@ Napoleonas leido Vilniuje įkurti savo pareigūnų prižiūrimą Laikinąją LDK
 - t-001
   global_id: t-19771
   teiginys: 'Napoleonas leido Vilniuje įkurti jo pareigūnų prižiūrimą Laikinąją LDK vyriausybę.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nusako vyriausybės įkūrimą ir priežiūrą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Rusija; mentioned_place: Varšuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1812 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako vyriausybės įkūrimą ir priežiūrą.'
   pagrindžia:
     - c-001
 
@@ -44,8 +55,3 @@ Napoleonas leido Vilniuje įkurti savo pareigūnų prižiūrimą Laikinąją LDK
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/asmenys/Napoleonas Bonapartas]]

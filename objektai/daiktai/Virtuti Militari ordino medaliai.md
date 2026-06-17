@@ -43,6 +43,8 @@ Nenurodyta
 - t-001
   global_id: t-40779
   teiginys: 'Karalius S. A. Poniatovskis keliolika šio mūšio karininkų ir kareivių apdovanojo Virtuti Militari ordino aukso ir sidabro medaliais.'
+  sudarymo_pagrindimas: 'Reikia pašalinti dviprasmę formuluotę ir tiksliau perteikti citatos faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Kariauna|Kariauna]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]'
   pagrindžia:
     - c-001
 
@@ -65,8 +67,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/Miera|miera]]

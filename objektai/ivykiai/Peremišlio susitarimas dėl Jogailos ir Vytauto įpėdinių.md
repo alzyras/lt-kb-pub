@@ -1,27 +1,10 @@
 ---
-tipas: 'ivykis'
+tipas: ivykis
 pavadinimas: 'Peremišlio susitarimas dėl Jogailos ir Vytauto įpėdinių'
-sukurta: '2026-06-16'
-variantai:
-  - 'Jogailos ir Vytauto susitarimas dėl įpėdinių'
-  - 'lenkų ir lietuvių ponų priesaika dėl valdovų vaikų'
-aliases: []
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
-bukle: 'juodrastis'
-laikotarpis: 'po to mūšio žiemą'
-datos:
-  - 'po to mūšio žiemą'
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: ''
-atnaujinta: '2026-06-16'
+sukurta: ''
+atnaujinta: ''
 tags:
   - sutartis
 ---
@@ -38,43 +21,52 @@ Lietuvos metraštis pasakoja, kad po mūšio žiemą Vytautas susitiko su Jogail
   - po to mūšio žiemą
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 <a id="claim-t-186608"></a>
 - t-001
   global_id: t-186608
-  teiginys: 'Lietuvos metraštis pasakoja, kad po mūšio žiemą Vytautas susitiko su Jogaila Peremišlyje.'
+  teiginys: 'Lietuvos metraštis Jogailos lūpomis pateikia siūlymą, kad po Jogailos ir Vytauto mirties Lenkiją ir Lietuvą paveldėtų vieno iš jų vaikai.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Sukonkretintos valdos ir paveldėjimo sąlyga pagal citatą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Peremišlis; mentioned_place: Viena'
   pagrindžia:
     - c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  statusas: patvirtinta
+
 <a id="claim-t-186609"></a>
 - t-002
   global_id: t-186609
-  teiginys: 'Lietuvos metraštis Jogailos lūpomis pateikia pasiūlymą, kad po jų mirties valdas paveldėtų vieno ar kito valdovo vaikai.'
+  teiginys: 'Lietuvos metraštis Peremišlio susitarimą sieja su Vytauto ir Jogailos susitikimu Peremišlyje žiemą po mūšio.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Patikslintas ryšys su įvykio objektu ir palikta šaltinio atribucija.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Peremišlis; mentioned_place: Viena'
   pagrindžia:
     - c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  statusas: patvirtinta
+
 <a id="claim-t-186610"></a>
 - t-003
   global_id: t-186610
-  teiginys: 'Lietuvos metraštis pasakoja, kad Vytautas su pasiūlymu sutiko.'
+  teiginys: 'Lietuvos metraščio pasakojime Vytautas sutiko su Jogailos siūlytu susitarimu dėl jų vaikų paveldėjimo teisių.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Įvardytas pasiūlymo turinys ir palikta kronikos pasakojimo atribucija.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Peremišlis; mentioned_place: Viena'
   pagrindžia:
     - c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Lietuvos metraštis pasakoja, kad po mūšio žiemą Vytautas susitiko su Jogaila Peremišlyje.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     APIE JOGAILOS IR VYTAUTO SUSITARIMĄ DEL SAVO
@@ -98,22 +90,10 @@ Nenurodyta
     kai į Lenkijos sostą negalės rinkti kito valdovo, tik iš
     Vytauto vaikų, kuris valdys Lenkijos karalystę ir Lie­
     tuvos Didžiąją Kunigaikštystę.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   pagrindžia:
-    - t-001
     - t-002
+    - t-001
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/didysis kunigaikštis]]
-- [[objektai/zodynas/ponai]]
-- [[objektai/zodynas/metraštis]]

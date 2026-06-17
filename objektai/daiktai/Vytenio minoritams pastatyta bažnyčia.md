@@ -43,6 +43,8 @@ Nenurodyta
 - t-001
   global_id: t-87103
   teiginys: 'Vytenis prašė atsiųsti minoritų, kuriems norėjo skirti jau pastatytą bažnyčią.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir atitinka citatos informaciją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Isamas (Rygos arkivyskupas)|Isamas (Rygos arkivyskupas)]]; mentioned_person: [[objektai/asmenys/Vytenis|Vytenis]]; mentioned_place: Ryga; mentioned_place: Žiemgala'
   pagrindžia:
     - c-001
 
@@ -70,12 +72,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Isamas (Rygos arkivyskupas)]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/asmenys/Vytenis]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Pranciškonų ordinas]]

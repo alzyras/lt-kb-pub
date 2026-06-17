@@ -22,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-Vilhelmas iš Modenos apaštališkojo sosto vardu įsakė skelbti kryžiaus karą prieš Sventopelko persekiojimą Prūsijos žemėse. 270 Abejojama, ar Vilhelmas buvo skelbęs kryžiaus žygį prieš Sventopelką.
+Dusburgietis teigia, kad šią žemę savo pasiuntinį Vilhelmą, buvusį Modenos vyskupą, vėliau tapusį popiežiumi Aleksandru IV268, liepdamas šias žemes padalyti į keturias vyskupystes, pataisyti viską, kas ten taisytina, ir įstatyti į tinkamas vėžes269. Dusburgietis teigia, kad 270 Abejojama, ar Vilhelmas buvo skelbęs kryžiaus žygį prieš Sventopelką.
 
 ## Laikotarpis ir datos
 
@@ -46,6 +46,8 @@ Nenurodyta
 - t-001
   global_id: t-66951
   teiginys: 'Vilhelmas iš Modenos apaštališkojo sosto vardu įsakė skelbti kryžiaus karą prieš Sventopelko persekiojimą Prūsijos žemėse.'
+  sudarymo_pagrindimas: 'Citata palaiko veiksmą, bet pradinis teiginys yra fragmentiškas ir be aiškaus veiksnio.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/kryžininkai|kryžininkai]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_person: [[objektai/asmenys/Vilhelmas|Vilhelmas]]; mentioned_person: [[objektai/asmenys/Vilhelmas iš Modenos|Vilhelmas iš Modenos]]; mentioned_place: Prūsija'
   pagrindžia:
     - c-002
 
@@ -53,6 +55,11 @@ Nenurodyta
 - t-002
   global_id: t-66952
   teiginys: '270 Abejojama, ar Vilhelmas buvo skelbęs kryžiaus žygį prieš Sventopelką.'
+  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_person: [[objektai/asmenys/Vilhelmas|Vilhelmas]]'
+  temporaliniai_duomenys: 'įvykio data: 1242 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'claim_quality_pipeline deterministic repair'
   pagrindžia:
     - c-001
 
@@ -95,13 +102,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Kryžius]]
-- [[objektai/grupes/Teutonai]]
-- [[objektai/asmenys/Vilhelmas]]
-- [[objektai/zodynas/kryžininkai]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/asmenys/Sventopelkas]]
-- [[objektai/asmenys/Vilhelmas iš Modenos|Vilhelmas iš Modenos (vyskupas, XIII–XIV a.)]]

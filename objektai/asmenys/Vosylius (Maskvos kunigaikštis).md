@@ -22,7 +22,7 @@ periodo_grupes:
 
 ## Santrauka
 
-1425 m. mirdamas Maskvos kunigaikštis Vosylius savo nepilnametį sūnų Vosylių paliko senelio Vytauto globai.
+Tuo pačiu metu dar įvyko vienas svar­ bus faktas, kuris dar aukščiau iškėlė Vytauto autoritetą ir ga­ lybę, — tai būtent tas, kad 1425 m., mirdamas Maskvos kun. Vosylius, paliko savo nepilnametį sūnų Vosylių jo seneliui Vy­ tautui globoti.
 
 ## Teiginiai
 
@@ -30,6 +30,12 @@ periodo_grupes:
 - t-001
   global_id: t-35328
   teiginys: '1425 m. mirdamas Maskvos kunigaikštis Vosylius savo nepilnametį sūnų Vosylių paliko senelio Vytauto globai.'
+  sudarymo_pagrindimas: 'Reikia aiškiau įvardyti globos ryšį ir pašalinti dviprasmybę.'
+  susije_objektai: 'territory: Lietuva; territory: Maskva; territory: Palanga; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Vosylius|Vosylius]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Palanga'
+  semantiniai_rysiai: '[[objektai/asmenys/Vosylius (Maskvos kunigaikštis)|Vosylius (Maskvos kunigaikštis)]] buvo valdovas Lietuva; [[objektai/asmenys/Vosylius (Maskvos kunigaikštis)|Vosylius (Maskvos kunigaikštis)]] buvo valdovas Maskva; [[objektai/asmenys/Vosylius (Maskvos kunigaikštis)|Vosylius (Maskvos kunigaikštis)]] buvo valdovas Palanga'
+  temporaliniai_duomenys: 'valdymo laikotarpis: 1425 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Vosylius (Maskvos kunigaikštis) buvo valdovas Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Vosylius (Maskvos kunigaikštis) buvo valdovas Maskva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Vosylius (Maskvos kunigaikštis) buvo valdovas Palanga“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia aiškiau įvardyti globos ryšį ir pašalinti dviprasmybę.'
   pagrindžia:
     - c-001
 
@@ -59,6 +65,6 @@ periodo_grupes:
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lenkai]]
+- Vosylius (Maskvos kunigaikštis) buvo_valdovas [[objektai/vietos/Lietuva]]
+- Vosylius (Maskvos kunigaikštis) buvo_valdovas [[objektai/vietos/Maskva]]
+- Vosylius (Maskvos kunigaikštis) buvo_valdovas [[objektai/vietos/Palanga]]

@@ -24,6 +24,11 @@ amziai:
 - t-001
   global_id: t-13511
   teiginys: '1991 m. kovą daugiau nei 200 tūkst. demonstracijoje dalyvavusių maskviečių skandavo „Šalin rankas nuo Lietuvos“.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie šūkio vartojimą ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: po 1991 m.; įvykio data: 1991 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie šūkio vartojimą ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -31,6 +36,11 @@ amziai:
 - t-002
   global_id: t-13512
   teiginys: '1991 m. kovą Maskvos demonstracijoje kartu su „Šalin rankas nuo Lietuvos“ skambėjo šūkis „Gorbačiovai, atsistatydink!“.'
+  sudarymo_pagrindimas: 'Pradinis teiginys priklausė nuo konteksto, todėl patikslintas demonstracijos laikas ir ryšys su posakiu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Rusija; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: po 1991 m.; įvykio data: 1991 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys priklausė nuo konteksto, todėl patikslintas demonstracijos laikas ir ryšys su posakiu.'
   pagrindžia:
     - c-001
 
@@ -54,10 +64,3 @@ amziai:
   pagrindžia:
     - t-001
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/asmenys/Michailas Gorbačiovas]]
-- [[objektai/posakiai/„Šalin rankas nuo Lietuvos“ „Gorbačiovai, atsistatydink!“]]

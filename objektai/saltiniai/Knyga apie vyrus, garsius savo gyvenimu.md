@@ -21,6 +21,8 @@ Enėjas Silvijus Pikolominis (Enea Silvio Piccolomini) „Knygoje apie vyrus, ga
 - t-001
   global_id: t-26485
   teiginys: 'Enėjas Silvijus Pikolominis „Knygoje apie vyrus, garsius savo gyvenimu“ išaukštino Vytautą ir jo tėvynę.'
+  sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir sujungia kelias mintis, todėl sutrumpintas iki vieno pagrįsto sakinio.'
+  susije_objektai: 'mentioned_object: [[objektai/posakiai/„Koks didelis Tu ir kokia didelė Tavo tėvynė.“|„Koks didelis Tu ir kokia didelė Tavo tėvynė.“]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

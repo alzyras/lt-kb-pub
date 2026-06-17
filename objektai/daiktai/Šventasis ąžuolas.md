@@ -41,9 +41,12 @@ Nenurodyta
 - t-001
   global_id: t-59712
   teiginys: 'S. Grunau rašė, kad Romuvoje augęs milžiniškas trijų dalių šventasis ąžuolas su Perkūno, Patulo ir Patrimpo stabais.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nusako S. Grunau aprašytą šventąjį ąžuolą ir stabus.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/S. Grunau|S. Grunau]]; mentioned_place: Romuva'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/autoriai/Powierski J.md#claim-t-60509|Powierski J]]: J. Powierski cituojamas aiškinant Romovės šventojo ąžuolo ryšį su indoeuropiečių mitologiniais vaizdiniais.
+- susijęs iš [[objektai/autoriai/Иванов В. В.md#claim-t-60643|Иванов В. В]]: V. V. Ivanovo ir V. N. Toporovo tyrimai siejami su aiškinimu, kad Romovės šventasis ąžuolas buvo tridalio pasaulio medžio simbolis.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -62,9 +65,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/S. Grunau]]
-- [[objektai/autoriai/Powierski J]]
-- [[objektai/autoriai/Иванов В. В]]

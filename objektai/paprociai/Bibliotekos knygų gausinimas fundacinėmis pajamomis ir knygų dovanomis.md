@@ -48,6 +48,8 @@ Nenurodyta
 - t-001
   global_id: t-87159
   teiginys: 'Leonas Sapiega, vyskupas Bžostovskis, kanauninkas Vaišnarovičius ir kiti dovanotomis bei užrašytomis knygomis praturtino biblioteką.'
+  sudarymo_pagrindimas: 'Reikia sutvarkyti OCR pažeistas formas ir išlaikyti citatos faktą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/pakancleris|pakancleris]]; mentioned_person: [[objektai/asmenys/Leonas|Leonas]]; mentioned_place: Lietuva; mentioned_place: Užupis; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -55,6 +57,11 @@ Nenurodyta
 - t-002
   global_id: t-87160
   teiginys: '1623 m. Adrijanas Vežbickis įpareigojo Akademijos kolegiją iš Blonių valdos pajamų kasmet skirti po 100 auksinų knygoms įsigyti.'
+  sudarymo_pagrindimas: 'Teiginys yra konkretus, gramatiškas ir tiksliai paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vaišių stalai|Vaišių stalai]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_place: Kaunas; mentioned_place: Minskas'
+  temporaliniai_duomenys: 'įvykio data: 1623 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus, gramatiškas ir tiksliai paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -114,15 +121,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Leonas]]
-- [[objektai/asmenys/Mykolas]]
-- [[objektai/daiktai/Vaišių stalai]]
-- [[objektai/zodynas/pakancleris]]
-- [[objektai/daiktai/Bibliotekos baldai dailidžių darbo spintos ir marmuro stalai]]
-- [[objektai/grupes/Kauno jėzuitų kolegija]]
-- [[objektai/asmenys/Kazimieras Vežbickis]]
-- [[objektai/ivykiai/Kazimiero ir Mykolo Vežbickių turto skyrimas bibliotekai (1746 m.)]]
-- [[objektai/asmenys/Mykolas Vežbickis]]

@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Abejojama, kad buvusios 4 gentinės jotvingių teritorijos (Zajączkowski S., Uwagi..., p. 91).
+Dusburgietis teigia, kad abejojama, kad buvusios 4 gentinės jotvingių teritorijos (Zajączkowski S., Uwagi..., p. 91). Dusburgietis teigia, kad 116—117, 152—156; Gerullis G., Zur Sprache..., p. 44—51; Łowmiański H., Studja..., 1, p. 52; 2, p. 23, 39—44; Zajączkowski S., Kaip jotvingiai buvo vadinami..., p. 57—76; to paties, Jotvingių problema..., p. 387—468; Kamiński A.
 
 ## Teiginiai
 
@@ -20,6 +20,7 @@ Abejojama, kad buvusios 4 gentinės jotvingių teritorijos (Zajączkowski S., Uw
 - t-001
   global_id: t-91936
   teiginys: 'Abejojama, kad buvusios 4 gentinės jotvingių teritorijos (Zajączkowski S., Uwagi..., p. 91).'
+  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
   pagrindžia:
     - c-001
 

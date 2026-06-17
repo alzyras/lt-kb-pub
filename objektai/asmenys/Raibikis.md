@@ -20,6 +20,7 @@ Raibikio, ltn.
 - t-001
   global_id: t-39634
   teiginys: 'Raibikis buvo 1-ojo bataliono leitenantas, kurio pasigedo pulko vadas.'
+  sudarymo_pagrindimas: 'Citata leidžia suformuluoti pilną faktinį sakinį apie Raibikį.'
   pagrindžia:
     - c-001
 

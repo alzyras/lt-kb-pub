@@ -20,6 +20,8 @@ Dar viena kovotojų grupė nuvyko Subartonių miško link.
 - t-001
   global_id: t-38557
   teiginys: 'Viena kovotojų grupė nuvyko Subartonių miško link sulaikyti galimo pastiprinimo iš Alytaus.'
+  sudarymo_pagrindimas: 'Citata leidžia sujungti fragmentus į vieną aiškų faktinį sakinį.'
+  susije_objektai: 'location: Alytus; location: Merkinė; location: Viena; mentioned_place: Alytus; mentioned_place: Merkinė; mentioned_place: Viena'
   pagrindžia:
     - c-001
 

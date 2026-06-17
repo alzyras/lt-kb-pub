@@ -20,6 +20,8 @@ Kai jis buvo jau gana toli, lenkų vachmistras išsiskyrė iš žiedo ir ėmė v
 - t-001
   global_id: t-38738
   teiginys: 'Lenkų vachmistras išsiskyrė iš žiedo ir ėmė vytis bėgantį žvalgą.'
+  sudarymo_pagrindimas: 'Sakinys pilnas, aiškiai nurodo vachmistro veiksmą ir yra paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Kardas|Kardas]]; mentioned_object: [[objektai/daiktai/Vytis|Vytis]]'
   pagrindžia:
     - c-001
 
@@ -37,9 +39,3 @@ Kai jis buvo jau gana toli, lenkų vachmistras išsiskyrė iš žiedo ir ėmė v
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Kardas]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/daiktai/Vytis]]

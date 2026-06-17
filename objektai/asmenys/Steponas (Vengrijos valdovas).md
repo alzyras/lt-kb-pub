@@ -3,6 +3,10 @@ tipas: asmuo
 pavadinimas: 'Steponas (Vengrijos valdovas)'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1000 m.'
+date_start: '1000'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -10,12 +14,17 @@ tags:
   - karalius
   - krikštas
   - kunigaikštis
+  - valdovas
+amziai:
+  - 'X'
+periodo_grupes:
+  - 'viduramžiai'
 ---
 # Steponas (Vengrijos valdovas)
 
 ## Santrauka
 
-Vengrijos valdovas Steponas įgijo aukštesnį statusą nei Didysis ir tapo šventuoju Steponu. Šv. Steponas, pirmasis tikras krikščionis Vengrijos soste, buvo karūnuotas 1000 m. Vengrijos valdovas Steponas įgijo aukštesnį statusą nei Didysis ir tapo šventuoju Steponu.
+Paminėkime tokią grandinę: Lenkijos valdovo Mieško krikštas (966), Kijevo Rusios valdovo Vladimiro krikštas (988), kankinyste pasibaigusi šv. Atrodo, kad visa Vytauto politika orientuota į „švento valdovo“ įvaizdį – kaip prieš kelis šimtmečius Vengrijos valdovas Steponas įgijo aukštesnį statusą nei Didysis – tapo šventuoju Steponu.
 
 ## Teiginiai
 
@@ -23,6 +32,9 @@ Vengrijos valdovas Steponas įgijo aukštesnį statusą nei Didysis ir tapo šve
 - t-001
   global_id: t-19264
   teiginys: 'Vengrijos valdovas Steponas įgijo aukštesnį statusą nei Didysis ir tapo šventuoju Steponu.'
+  sudarymo_pagrindimas: 'Citata tiksliau remia formuluotę apie aukštesnį statusą nei Didysis.'
+  susije_objektai: 'territory: Europa; territory: Lietuva; territory: Vengrija; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/autoriai/Grigorijus Camblakas|Grigorijus Camblakas]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Vengrija'
+  semantiniai_rysiai: '[[objektai/asmenys/Steponas (Vengrijos valdovas)|Steponas (Vengrijos valdovas)]] buvo valdovas Europa; [[objektai/asmenys/Steponas (Vengrijos valdovas)|Steponas (Vengrijos valdovas)]] buvo valdovas Lietuva; [[objektai/asmenys/Steponas (Vengrijos valdovas)|Steponas (Vengrijos valdovas)]] buvo valdovas Vengrija'
   pagrindžia:
     - c-002
 
@@ -30,6 +42,11 @@ Vengrijos valdovas Steponas įgijo aukštesnį statusą nei Didysis ir tapo šve
 - t-002
   global_id: t-19265
   teiginys: 'Šv. Steponas, pirmasis tikras krikščionis Vengrijos soste, buvo karūnuotas 1000 m.'
+  sudarymo_pagrindimas: 'Reikia glaustesnės enciklopedinės formos ir datos santrumpos.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_object: [[objektai/zodynas/apsikarūnavimas|apsikarūnavimas]]; mentioned_object: [[objektai/zodynas/christianizacija|christianizacija]]; mentioned_person: [[objektai/asmenys/Adalbertas|Adalbertas]]; mentioned_person: [[objektai/asmenys/Netimeras|Netimeras]]; mentioned_place: Islandija; mentioned_place: Kijevas; mentioned_place: Kijevo Rusia; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Vengrija; mentioned_place: Švedija'
+  temporaliniai_duomenys: 'įvykio data: 1000 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia glaustesnės enciklopedinės formos ir datos santrumpos.'
   pagrindžia:
     - c-001
 
@@ -91,10 +108,6 @@ Vengrijos valdovas Steponas įgijo aukštesnį statusą nei Didysis ir tapo šve
     - t-003
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Kryžius]]
-- [[objektai/zodynas/Adynos|adynos]]
-- [[objektai/zodynas/apsikarūnavimas]]
-- [[objektai/zodynas/christianizacija]]
-- [[objektai/zodynas/konversija christianizacija europeizacija]]
-- [[objektai/posakiai/„švento valdovo“ įvaizdis]]
+- Steponas (Vengrijos valdovas) buvo_valdovas [[objektai/vietos/Europa]]
+- Steponas (Vengrijos valdovas) buvo_valdovas [[objektai/vietos/Lietuva]]
+- Steponas (Vengrijos valdovas) buvo_valdovas [[objektai/vietos/Vengrija]]

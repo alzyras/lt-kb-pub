@@ -1,30 +1,21 @@
 ---
-tipas: 'ivykis'
+tipas: ivykis
 pavadinimas: 'Švitrigailos užpuolimas Ašmenoje'
-sukurta: '2026-06-16'
-variantai:
-  - 'Ašmenos užpuolimas'
-  - '1432 m. rugsėjo 1 d. užpuolimas Ašmenoje'
-  - 'Ašmenos mūšis'
-aliases: []
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
-bukle: 'juodrastis'
-laikotarpis: '1432 m. rugsėjo 1 d.; 1432 m. rugsėjo 3 d.; 1434 m.'
 datos:
-  - '1432.09.01'
-periodas: ''
-periodo_grupes: []
-amziai:
-  - 'XV'
-date_start: '1432'
+  - '1399 m.'
+  - '1422 m.'
+  - '1432 m.'
+  - '1433 m.'
+  - '1434 m.'
+date_start: '1399'
 date_end: '1434'
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: ''
-atnaujinta: '2026-06-16'
-tags: []
+sukurta: ''
+atnaujinta: ''
+amziai:
+  - 'XIV'
+  - 'XV'
 ---
 # Švitrigailos užpuolimas Ašmenoje
 
@@ -43,67 +34,154 @@ tags: []
 - date_end: 1434
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 <a id="claim-t-186737"></a>
 - t-001
   global_id: t-186737
-  teiginys: 'Šio leidimo tekste nurodoma, kad 1432 m. rugsėjo 1 d. naktį Žygimanto Kęstutaičio šalininkai užpuolė Švitrigailą Ašmenoje.'
+  teiginys: 'Po užpuolimo Ašmenoje Švitrigaila pabėgo su nedidele palyda, o jo žmona, dvariškiai, regalijos, iždas ir kanceliarija atiteko Žygimantui Kęstutaičiui.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys jau yra pilnas lietuviškas sakinys su aiškiu subjektu, veiksmais ir pasekmėmis. Jis remiasi citata ir neprideda nuo jos neatsekamų faktų.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus prastuomenė|Vilniaus prastuomenė]]; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_person: [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis]]; mentioned_place: Alšėnai; mentioned_place: Ašmena; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Naugardukas; mentioned_place: Trakai'
+  temporaliniai_duomenys: 'įvykio data: 1432 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys jau yra pilnas lietuviškas sakinys su aiškiu subjektu, veiksmais ir pasekmėmis. Jis remiasi citata ir neprideda nuo jos neatsekamų faktų.'
   pagrindžia:
-    - c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  statusas: patvirtinta
+    - c-004
+
 <a id="claim-t-186738"></a>
 - t-002
   global_id: t-186738
-  teiginys: 'Šio leidimo tekste nurodoma, kad po užpuolimo Švitrigaila pabėgo, o jo žmona, dvariškiai, regalijos, iždas ir kanceliarija pateko Žygimantui Kęstutaičiui.'
+  teiginys: 'Redakcinė pastaba nurodo, kad po pabėgimo iš Ašmenos 1432 m. rugsėjo 1 d. naktį Švitrigaila jau rugsėjo 3 d. buvo Polocke.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pastabos pobūdis svarbus, o data išplėsta į aiškią formą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Ašmena; mentioned_place: Polockas'
+  temporaliniai_duomenys: 'įvykio data: 1432 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pastabos pobūdis svarbus, o data išplėsta į aiškią formą.'
   pagrindžia:
-    - c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  statusas: patvirtinta
+    - c-002
+
 <a id="claim-t-186739"></a>
 - t-003
   global_id: t-186739
-  teiginys: 'Redakcinė pastaba nurodo, kad po pabėgimo iš Ašmenos Švitrigaila jau 1432 m. rugsėjo 3 d. buvo Polocke.'
+  teiginys: 'Redakcinė pastaba nurodo, kad Jurgis Lengvenaitis pateko į Žygimanto Kęstutaičio nelaisvę Ašmenos mūšyje ir pabėgo iki 1433 m. spalio 3 d.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Taisyta gramatika ir išlaikyta atribucija redakcinei pastabai.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jurgis Lengvenaitis|Jurgis Lengvenaitis]]; mentioned_person: [[objektai/asmenys/Lengvenis|Lengvenis]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Ašmena; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Mstislavlis'
+  temporaliniai_duomenys: 'įvykio data: iki 1433 m.; įvykio data: 1399 m.; įvykio data: 1433 m.; įvykio data: 1457 m.; įvykio data: apie 1457 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
+  temporalinis_llm_pakomentavimas: 'Taisyta gramatika ir išlaikyta atribucija redakcinei pastabai.'
   pagrindžia:
-    - c-002
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  statusas: patvirtinta
+    - c-001
+
 <a id="claim-t-186740"></a>
 - t-004
   global_id: t-186740
-  teiginys: 'Redakcinė pastaba nurodo, kad Jurgis Lengvenaitis pateko į Žygimanto Kęstutaičio nelaisvę Ašmenos mūšyje ir iki 1433 m. spalio 3 d. iš jos pabėgo.'
+  teiginys: '1432 m. rugsėjo 1 d. naktį Žygimanto Kęstutaičio ir jo sąjungininkų ginkluoti būriai užpuolė Švitrigailą Ašmenoje.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Citata paremta redakciniu tekstu, todėl nereikia pradėti nuo „Šio leidimo tekste“.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus prastuomenė|Vilniaus prastuomenė]]; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_person: [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis]]; mentioned_place: Alšėnai; mentioned_place: Ašmena; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Naugardukas; mentioned_place: Trakai'
+  temporaliniai_duomenys: 'įvykio data: 1432 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata paremta redakciniu tekstu, todėl nereikia pradėti nuo „Šio leidimo tekste“.'
   pagrindžia:
-    - c-003
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  statusas: patvirtinta
+    - c-004
+
 <a id="claim-t-186741"></a>
 - t-005
   global_id: t-186741
-  teiginys: 'Redakcinė pastaba nurodo, kad Petras Mantgirdaitis dalyvavo 1432 m. rugsėjo 1 d. Švitrigailos užpuolime Ašmenoje ir už tai nuo 1434 m. gavo krašto vyriausiojo maršalo vietą.'
+  teiginys: 'Redakcinė pastaba Simoną Jonaitį Alšėniškį laiko vienu svarbiausių 1432 m. rugsėjo 1 d. Švitrigailos užpuolimo Ašmenoje dalyvių.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Vertinimas „vienas svarbiausių“ turi būti aiškiai atribuuotas.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Ašmena; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1432 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Vertinimas „vienas svarbiausių“ turi būti aiškiai atribuuotas.'
   pagrindžia:
-    - c-004
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  statusas: patvirtinta
+    - c-005
+
 <a id="claim-t-186742"></a>
 - t-006
   global_id: t-186742
-  teiginys: 'Redakcinė pastaba nurodo, kad Simonas Jonaitis Alšėniškis buvo vienas iš svarbiausių 1432 m. rugsėjo 1 d. Švitrigailos užpuolimo Ašmenoje dalyvių.'
+  teiginys: 'Redakcinė pastaba nurodo, kad Petras Mantgirdaitis už dalyvavimą 1432 m. rugsėjo 1 d. Švitrigailos užpuolime Ašmenoje nuo 1434 m. gavo krašto vyriausiojo maršalo vietą.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Reikia glaustesnės sakinio struktūros ir atribucijos redakcinei pastabai.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Alšėnai; mentioned_place: Ašmena; mentioned_place: Kaimas; mentioned_place: Kijevas; mentioned_place: Minskas; mentioned_place: Molodečnas; mentioned_place: Smolenskas'
+  temporaliniai_duomenys: 'įvykio data: po 1422 m.; įvykio data: 1422 m.; įvykio data: 1432 m.; įvykio data: po 1434 m.; įvykio data: 1434 m.; įvykio data: 1435 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia glaustesnės sakinio struktūros ir atribucijos redakcinei pastabai.'
   pagrindžia:
-    - c-005
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  statusas: patvirtinta
+    - c-003
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Šio leidimo tekste nurodoma, kad 1432 m. rugsėjo 1 d. naktį Žygimanto Kęstutaičio šalininkai užpuolė Švitrigailą Ašmenoje.'
+  santrauka: 'Redakcinė pastaba nurodo, kad Jurgis Lengvenaitis pateko į Žygimanto Kęstutaičio nelaisvę Ašmenos mūšyje ir pabėgo iki 1433 m. spalio 3 d.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    1 1  Kalbama apie Jurgi, Mstislavlio kunigaikšti, Jogailos brolio
+    Simono Lengvenio Algirdaičlo Ir Maskvos didžiojo kunigaikščio Di-
+    mltro Donlškio dukters Marijos sūnų, gimus) tarp 1395 Ir 1399 m.,
+    mirusi apie 1457 m. Jurgio Lengvenaičio patekimų Žygimanto Kęs-
+    tutaičlo nelaisvėn Ašmenos mūšyje mini J . Dlugošas. Iš nelaisvės
+    jis pabėgo su 14 kilų Švitrigailos šalininkų 1433 m  prieš spa­
+    lio 3 d.
+    ”  Kituose Lietuvos metraščių nuorašuose M itka Zubrcvickis
+    šioje vieloje neminimas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
+
+- c-002
+  santrauka: 'Redakcinė pastaba nurodo, kad po pabėgimo iš Ašmenos 1432 m. rugsėjo 1 d. naktį Švitrigaila jau rugsėjo 3 d. buvo Polocke.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    ’ Pabėgus 1432.IX I nakl| ii Ašmenos. Švitrigaila buvo Po­
+    locke jau  IX.3.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-003
+  santrauka: 'Redakcinė pastaba nurodo, kad Petras Mantgirdaitis už dalyvavimą 1432 m. rugsėjo 1 d. Švitrigailos užpuolime Ašmenoje nuo 1434 m. gavo krašto vyriausiojo maršalo vietą.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    3 3  Molodečnas — BTSR miestas (110 km j rytus nuo Vilniaus,
+    apie 30 km | rytus nuo Krėvos).
+    2 1 Mykolas — Alšėnų kunigaikštis, Jono Algimanlalčio Alšėniš­
+    kio ir Agripinos, Smolensko kunigaikščio Svetoslavo dukters, sū­
+    nus, buvus Kijevo vietininku bent nuo 1422 m.
+    3 3  Petras Mantgirdaltis (Montygerdovv cz) — N augarduko vie­
+    tininkas (1430— 1452), Kopyiio seniūnas (1435) Už dalyvavimą
+    I432.1X.1 Svitrigai.os užpuolime Ašmenoje gavo iš Žygimanto Kęs-
+    tutaičio aukštą krašto vyriausiojo maršalo vietą (nuo 1434 m.)
+    Mirė 1435 m.
+    86 Kopaėlai — kaimas už 10 km nuo Molodečno,
+    3 7  Zaslavlls — dabar BTSR vietovė (45 km |  pietryčius nuo
+    Molodečno, 20 Km nuo Minsko).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-006
+
+- c-004
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     Iš tikrųjų jis
@@ -121,73 +199,15 @@ Nenurodyta
     viškosios regalijos, iždas ir kanceliarija pateko | Žygimanto Kęstu-
     taičio rankas Po sųmokslo Žygimantui Kęstutaičiul pasidavė Trakų
     kunigaikštystė (Žemaitija.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-    - t-002
-- c-002
-  santrauka: 'Redakcinė pastaba nurodo, kad po pabėgimo iš Ašmenos Švitrigaila jau 1432 m. rugsėjo 3 d. buvo Polocke.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    ’ Pabėgus 1432.IX I nakl| ii Ašmenos. Švitrigaila buvo Po­
-    locke jau  IX.3.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-003
-- c-003
-  santrauka: 'Redakcinė pastaba nurodo, kad Jurgis Lengvenaitis pateko į Žygimanto Kęstutaičio nelaisvę Ašmenos mūšyje ir iki 1433 m. spalio 3 d. iš jos pabėgo.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    1 1  Kalbama apie Jurgi, Mstislavlio kunigaikšti, Jogailos brolio
-    Simono Lengvenio Algirdaičlo Ir Maskvos didžiojo kunigaikščio Di-
-    mltro Donlškio dukters Marijos sūnų, gimus) tarp 1395 Ir 1399 m.,
-    mirusi apie 1457 m. Jurgio Lengvenaičio patekimų Žygimanto Kęs-
-    tutaičlo nelaisvėn Ašmenos mūšyje mini J . Dlugošas. Iš nelaisvės
-    jis pabėgo su 14 kilų Švitrigailos šalininkų 1433 m  prieš spa­
-    lio 3 d.
-    ”  Kituose Lietuvos metraščių nuorašuose M itka Zubrcvickis
-    šioje vieloje neminimas.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-004
-- c-004
-  santrauka: 'Redakcinė pastaba nurodo, kad Petras Mantgirdaitis dalyvavo 1432 m. rugsėjo 1 d. Švitrigailos užpuolime Ašmenoje ir už tai nuo 1434 m. gavo krašto vyriausiojo maršalo vietą.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    3 3  Molodečnas — BTSR miestas (110 km j rytus nuo Vilniaus,
-    apie 30 km | rytus nuo Krėvos).
-    2 1 Mykolas — Alšėnų kunigaikštis, Jono Algimanlalčio Alšėniš­
-    kio ir Agripinos, Smolensko kunigaikščio Svetoslavo dukters, sū­
-    nus, buvus Kijevo vietininku bent nuo 1422 m.
-    3 3  Petras Mantgirdaltis (Montygerdovv cz) — N augarduko vie­
-    tininkas (1430— 1452), Kopyiio seniūnas (1435) Už dalyvavimą
-    I432.1X.1 Svitrigai.os užpuolime Ašmenoje gavo iš Žygimanto Kęs-
-    tutaičio aukštą krašto vyriausiojo maršalo vietą (nuo 1434 m.)
-    Mirė 1435 m.
-    86 Kopaėlai — kaimas už 10 km nuo Molodečno,
-    3 7  Zaslavlls — dabar BTSR vietovė (45 km |  pietryčius nuo
-    Molodečno, 20 Km nuo Minsko).
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-005
+    - t-001
+
 - c-005
-  santrauka: 'Redakcinė pastaba nurodo, kad Simonas Jonaitis Alšėniškis buvo vienas iš svarbiausių 1432 m. rugsėjo 1 d. Švitrigailos užpuolimo Ašmenoje dalyvių.'
+  santrauka: 'Redakcinė pastaba Simoną Jonaitį Alšėniškį laiko vienu svarbiausių 1432 m. rugsėjo 1 d. Švitrigailos užpuolimo Ašmenoje dalyvių.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     31.
@@ -197,23 +217,8 @@ Nenurodyta
     Švitrigailos užpuolimo Ašmenoje dalyvių. Tačiau šiuo atveju lieka
     neaišku, kodėl Mykolas Jonaitis Alšėniškis buvęs suimtas „ne­
     kaltai".
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-006
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Lengvenis]]
-- [[objektai/asmenys/Mykolas]]
-- [[objektai/grupes/Vilniaus prastuomenė]]
-- [[objektai/zodynas/maršalas]]
-- [[objektai/zodynas/seniūnas]]
-- [[objektai/zodynas/vietininkas]]
-- [[objektai/asmenys/Švitrigaila]]
-- [[objektai/asmenys/Žygimantas]]
-- [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]
-- [[objektai/asmenys/Jurgis Lengvenaitis]]
+    - t-005

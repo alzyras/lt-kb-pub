@@ -18,9 +18,16 @@ Daugirdas apkaltino Leliušą leidus nužudyti valdovą jam pavaldžioje pilyje.
 - t-001
   global_id: t-186060
   teiginys: 'Daugirdas apkaltino Leliušą leidus nužudyti valdovą jam pavaldžioje pilyje.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pirminis teiginys klaidingai kartoja Leliušą kaip kaltintoją; citatoje kaltina Daugirdas.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Daugirdas|Daugirdas]]; mentioned_place: Trakai'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Daugirdas.md#claim-t-186102|Daugirdas]]: Po pasitarimo Leliušas su įgula užėmė Trakus, o Daugirdas nuskubėjo į Vilnių.
+- susijęs iš Vilnius: 1560 m. Vilniuje vykusiame LDK Ponų Tarybos seime karalius leido bajorams rinkti delegatus.
+- susijęs iš Vilnius: Daugirdas užėmė Vilniaus Aukštutinę ir Žemutinę pilis kunigaikščiui Švitrigailai.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -50,7 +57,3 @@ Daugirdas apkaltino Leliušą leidus nužudyti valdovą jam pavaldžioje pilyje.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Daugirdas]]

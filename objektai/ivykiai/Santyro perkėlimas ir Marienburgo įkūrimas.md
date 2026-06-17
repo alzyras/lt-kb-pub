@@ -43,6 +43,12 @@ Nenurodyta
 - t-001
   global_id: t-62465
   teiginys: '1280 m. Santyro pilis buvo perkelta į naują vietą ir pavadinta Marienburgu, tai yra Šventos Marijos pilimi.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytą Santyro perkėlimą ir pervadinimą.'
+  susije_objektai: 'mentioned_place: Marienburgas; mentioned_place: Santyras'
+  temporaliniai_duomenys: 'įvykio data: 1280 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia citatoje nurodytą Santyro perkėlimą ir pervadinimą.'
   pagrindžia:
     - c-001
 

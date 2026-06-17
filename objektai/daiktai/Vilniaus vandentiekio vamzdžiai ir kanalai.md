@@ -49,6 +49,8 @@ Nenurodyta
 - t-001
   global_id: t-87040
   teiginys: 'Žygimantas leido iš miesto šaltinio vandenį vamzdžiais išvedžioti po Vilniaus namus.'
+  sudarymo_pagrindimas: 'Teiginys pagrįstas, bet pradinėje formuluotėje neaiškus veikėjas.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vamzdžiai|Vamzdžiai]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Subačius; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -72,9 +74,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Vamzdžiai]]
-- [[objektai/asmenys/Žygimantas]]
-- [[objektai/asmenys/Žygimantas Senasis]]

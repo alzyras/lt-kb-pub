@@ -22,6 +22,8 @@ Dusburgietis teigia, kad apie tai, kaip norėta išduoti brolius Gyveno vienas g
 - t-001
   global_id: t-60064
   teiginys: 'Nelaisvėje Sarkis sutraukė pančius, nužudė vieną brolį ir tris ginklanešius, nukirto kitam ranką ir žuvo kovoje.'
+  sudarymo_pagrindimas: 'Teiginys tiksliai apibendrina citatoje aprašytą Sarkio veiksmą ir žūtį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -29,6 +31,8 @@ Dusburgietis teigia, kad apie tai, kaip norėta išduoti brolius Gyveno vienas g
 - t-002
   global_id: t-60065
   teiginys: 'Sarkis buvo galingas skalvių vyras ir Sarkų pilies pilininkas Lietuvos žemės pasienyje.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir perteikia citatoje nurodytą Sarkio padėtį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_object: [[objektai/zodynas/Pilininkas|Pilininkas]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Skalva'
   pagrindžia:
     - c-002
 
@@ -36,9 +40,11 @@ Dusburgietis teigia, kad apie tai, kaip norėta išduoti brolius Gyveno vienas g
 - t-003
   global_id: t-60066
   teiginys: 'Sarkis pasiuntė žygūnus pas Klaipėdos komtūrą, prašydamas jį su namais ir šeimyna išvesti krikštytis.'
+  sudarymo_pagrindimas: 'Citata leidžia suformuluoti trumpą sakinį apie Sarkio pasiuntinius ir prašymą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_object: [[objektai/zodynas/žygūnai|žygūnai]]; mentioned_place: Karšuva; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
-
+- susijęs iš [[objektai/daiktai/Pančiai.md#claim-t-59698|Pančiai]]: Sarkis pirmąją nelaisvės naktį sutraukė pančius, kuriais buvo pririštas prie medžio.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -95,13 +101,3 @@ Dusburgietis teigia, kad apie tai, kaip norėta išduoti brolius Gyveno vienas g
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Pilininkas]]
-- [[objektai/grupes/Skalviai]]
-- [[objektai/zodynas/Adynos|adynos]]
-- [[objektai/zodynas/ginklanešiai]]
-- [[objektai/zodynas/netikėliai]]
-- [[objektai/zodynas/žygūnai]]
-- [[objektai/daiktai/Pančiai]]

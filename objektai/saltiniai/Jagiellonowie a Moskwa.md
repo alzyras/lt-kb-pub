@@ -26,6 +26,9 @@ amziai:
 - t-001
   global_id: t-31736
   teiginys: 'H. Paszkiewicziaus „Jagiellonowie a Moskwa“ pirmasis tomas „Litwa a Moskwa w XIII i XIV wieku“ išleistas Varšuvoje 1933 m.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Varšuva'
+  temporaliniai_duomenys: 'įvykio data: 1933 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

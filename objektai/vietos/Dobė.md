@@ -4,9 +4,10 @@ pavadinimas: 'Dobė'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
+  - '1253 m.'
   - '1259 m.'
   - '1260 m.'
-date_start: '1259'
+date_start: '1253'
 date_end: '1260'
 sukurta: ''
 atnaujinta: ''
@@ -20,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-1259-1260 m. žiemą kryžiuočiai Žiemgaloje pastatė stiprią Dobės pilį, kurios sukilę žiemgaliai negalėjo įveikti.
+Betarpiškame ryšyje su Georgenburgo įkūrimu reikia sieti 1259-1260 m. žiemą Žiemgaloje pastatymą stiprios pilies Dobės (Doblen)^151 , kurios sukilę žiemgaliai negalėjo įveikti.
 
 ## Teiginiai
 
@@ -28,6 +29,11 @@ amziai:
 - t-001
   global_id: t-32137
   teiginys: '1259-1260 m. žiemą kryžiuočiai Žiemgaloje pastatė stiprią Dobės pilį, kurios sukilę žiemgaliai negalėjo įveikti.'
+  sudarymo_pagrindimas: 'Reikia įvardyti pilies statytojus, nes tai aiškiai nurodyta citatos kontekste.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Žiemgaliai|Žiemgaliai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Georgenburgas; mentioned_place: Žiemgala'
+  temporaliniai_duomenys: 'pastatymo data: po 1253 m.; pastatymo data: 1253 m.; pastatymo data: 1259-1260; pastatymo data: 1260 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip pastatymo data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia įvardyti pilies statytojus, nes tai aiškiai nurodyta citatos kontekste.'
   pagrindžia:
     - c-001
 

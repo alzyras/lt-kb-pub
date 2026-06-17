@@ -43,6 +43,11 @@ Nenurodyta
 - t-001
   global_id: t-20530
   teiginys: '1944 m. pradžioje vokiečių valdžia pritarė lietuvių siūlymui sukurti Vietinę rinktinę, veikiančią tik Lietuvos teritorijoje.'
+  sudarymo_pagrindimas: 'Sutrumpintas ilgas teiginys, paliekant citata pagrįstą esmę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1944 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Sutrumpintas ilgas teiginys, paliekant citata pagrįstą esmę.'
   pagrindžia:
     - c-001
 
@@ -62,9 +67,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/grupes/Vietinė rinktinė]]

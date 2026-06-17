@@ -12,21 +12,22 @@ tags:
 
 ## Santrauka
 
-Generolams sutarus perskirti jėgas, Dembinskis turėjo eiti į Kuršo pasienį.
+Pagaliau generolai sutarė savo jėgas perskirti: Chlapovskis ir Gelgaudas turėjo eiti į Kauną, Dembinskis į Kuršo pasienį, o Rohlandas į Palangą.
 
 ## Teiginiai
+
 <a id="claim-t-02529"></a>
 - t-001
   global_id: t-02529
   teiginys: 'Generolams sutarus perskirti jėgas, Dembinskis turėjo eiti į Kuršo pasienį.'
+  sudarymo_pagrindimas: 'Perrašyta glaustai, paliekant faktą apie Kuršo pasienį.'
+  susije_objektai: 'mentioned_place: Kuršas; mentioned_place: Kuršėnai; mentioned_place: Palanga'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Generolams sutarus perskirti jėgas, Dembinskis turėjo eiti į Kuršo pasienį.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tada Kuršėnuose
@@ -39,10 +40,8 @@ Generolams sutarus perskirti jėgas, Dembinskis turėjo eiti į Kuršo pasienį.
     bajorija buvo labai nepatenkinta generolais. Pagaliau generolai
     sutarė savo jėgas perskirti: Chlapovskis ir Gelgaudas turėjo eiti
     į Kauną, Dembinskis į Kuršo pasienį, o Rohlandas į Palangą.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

@@ -1,13 +1,8 @@
 ---
 tipas: posakis
-pavadinimas: "„Gal šitas kritiškumas trukdė Jonynui paskelbti daugiau savo tyrinėjimų vaisių“"
+pavadinimas: '„Gal šitas kritiškumas trukdė Jonynui paskelbti daugiau savo tyrinėjimų vaisių“'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-aliases:
-  - 'Gal šitas kritiškumas trukdė Jonynui paskelbti daugiau savo tyrinėjimų vaisių'
-  - 'objektai/posakiai/Gal šitas kritiškumas trukdė Jonynui paskelbti daugiau savo tyrinėjimų vaisių'
-variantai:
-  - 'Gal šitas kritiškumas trukdė Jonynui paskelbti daugiau savo tyrinėjimų vaisių'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -20,27 +15,37 @@ tags:
 «Gal šitas kritiškumas trukdė Jonynui paskelbti daugiau savo tyrinėjimų vaisių »^82.
 
 ## Teiginiai
+
 <a id="claim-t-186386"></a>
 - t-001
   global_id: t-186386
-  teiginys: 'Jonyno kritiškumas galėjo trukdyti jam paskelbti daugiau savo tyrinėjimų vaisių.'
+  teiginys: 'Jonynas Lietuvos istorijos kursuose mokė analizuoti šaltinius ir skatino klausytojų visapusišką kritiškumą.'
+  teiginio_tipas: 'faktas'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
+
 <a id="claim-t-186387"></a>
 - t-002
   global_id: t-186387
-  teiginys: 'Jonynas Lietuvos istorijos kursuose mokė analizuoti šaltinius ir skatino klausytojų visapusišką kritiškumą.'
+  teiginys: 'Jonyno kritiškumas galėjo trukdyti jam paskelbti daugiau savo tyrinėjimų vaisių.'
+  teiginio_tipas: 'faktas'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
+
 <a id="claim-t-186388"></a>
 - t-003
   global_id: t-186388
   teiginys: 'Jonyno kritiškumas galėjo trukdyti jam paskelbti daugiau savo tyrinėjimų rezultatų.'
+  teiginio_tipas: 'faktas'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Jonynas Lietuvos istorijos kursuose mokė analizuoti šaltinius ir skatino klausytojų visapusišką kritiškumą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Savo
@@ -56,5 +61,5 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
     - t-002
+    - t-001

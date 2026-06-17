@@ -36,6 +36,11 @@ Nenurodyta
 - t-001
   global_id: t-185743
   teiginys: 'Lietuvių puolėjai pirmąjį staigų smūgį ketino nukreipti į Skalvių miestą ir pilį.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys su aiškiu veikėju ir predikatu, paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]'
   pagrindžia:
     - c-001
 
@@ -59,9 +64,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Liudvikas]]
-- [[objektai/grupes/Skalviai]]
-- [[objektai/grupes/Lietuviai]]

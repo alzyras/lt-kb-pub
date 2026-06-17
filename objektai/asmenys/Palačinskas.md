@@ -20,9 +20,12 @@ Iš antros pusės stovėjęs eilinis Palačinskas nudūrė kitą.
 - t-001
   global_id: t-80742
   teiginys: 'Eilinis Palačinskas bolševikų štabe nudūrė vieną komisarą.'
+  sudarymo_pagrindimas: 'Pradinis teiginys turėjo neaiškų įvardį „kitą“.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Durtuvas|Durtuvas]]; mentioned_person: [[objektai/asmenys/Barkauskas|Barkauskas]]; mentioned_person: [[objektai/asmenys/Baziliauskas|Baziliauskas]]; mentioned_person: [[objektai/asmenys/Lukoševičius|Lukoševičius]]; mentioned_place: Viena'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Baziliauskas.md#claim-t-80730|Baziliauskas]]: Būrininkas Baziliauskas bolševikų štabe nusmeigė kelis komisarus.
+- susijęs iš [[objektai/asmenys/Lukoševičius.md#claim-t-80739|Lukoševičius]]: Skyrininkas Lukoševičius nudūrė leitenantą Barkauską už gerklės griebusį komisarą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -42,7 +45,3 @@ Iš antros pusės stovėjęs eilinis Palačinskas nudūrė kitą.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Durtuvas]]

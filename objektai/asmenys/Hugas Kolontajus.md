@@ -21,6 +21,8 @@ Kolontajus nebūtų parėmęs valdovo pozicijos.
 - t-001
   global_id: t-18920
   teiginys: 'Hugas Kolontajus parėmė valdovo poziciją ir prisidėjo prie nedidelės balsų persvaros.'
+  sudarymo_pagrindimas: 'Reikia išplėsti inicialą ir palikti sklandų sakinį apie asmenį.'
+  susije_objektai: 'mentioned_place: Rusija'
   pagrindžia:
     - c-001
 

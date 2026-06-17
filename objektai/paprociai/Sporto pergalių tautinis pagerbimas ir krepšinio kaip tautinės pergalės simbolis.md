@@ -5,6 +5,7 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1937 m.'
+  - '1938 m.'
   - '1939 m.'
 date_start: '1937'
 date_end: '1939'
@@ -20,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-1937 m. Lietuvos krepšininkams tapus Europos čempionais Rygoje, jų traukinį Lietuvos stotelėse sutiko minios, o krepšinis tapo tautinės pergalės simboliu.
+Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV lietuvių trenerių ir kelių žaidėjų padedami Lietuvos krepšininkai 1937 m. Rygoje tapo Europos čempionais.
 
 ## Laikotarpis ir datos
 
@@ -48,6 +49,11 @@ Nenurodyta
 - t-001
   global_id: t-77959
   teiginys: '1937 m. Lietuvos krepšininkams tapus Europos čempionais Rygoje, jų traukinį Lietuvos stotelėse sutiko minios, o krepšinis tapo tautinės pergalės simboliu.'
+  sudarymo_pagrindimas: 'Perrašyta, kad sakinys apimtų ir pagerbimo praktiką, ir krepšinio simbolinę reikšmę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/asmenys/Pavyzdys|Pavyzdys]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_place: Europa; mentioned_place: Italija; mentioned_place: Kaunas; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1937 m.; įvykio data: 1938 m.; įvykio data: 1939 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Perrašyta, kad sakinys apimtų ir pagerbimo praktiką, ir krepšinio simbolinę reikšmę.'
   pagrindžia:
     - c-001
 
@@ -73,8 +79,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Kūnas]]
-- [[objektai/grupes/Lietuviai]]

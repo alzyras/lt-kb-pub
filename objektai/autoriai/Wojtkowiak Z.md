@@ -28,6 +28,11 @@ Dusburgietis teigia, kad wojtkowiak Z.
 - t-001
   global_id: t-60820
   teiginys: 'Z. Wojtkowiak 1980 m. Poznanėje paskelbė darbą apie Užnerio Lietuvą XV a. ir XVI a. pirmojoje pusėje.'
+  sudarymo_pagrindimas: 'Citata pateikia bibliografinį autoriaus darbo įrašą.'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Poznanė'
+  temporaliniai_duomenys: 'įvykio data: 1980 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pateikia bibliografinį autoriaus darbo įrašą.'
   pagrindžia:
     - c-001
 

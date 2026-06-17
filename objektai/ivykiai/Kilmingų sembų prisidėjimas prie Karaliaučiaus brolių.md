@@ -38,6 +38,9 @@ Nenurodyta
 - t-001
   global_id: t-62825
   teiginys: 'Kai kurie kilmingi sembai su šeimomis paliko gimtuosius namus, atvyko į Karaliaučiaus pilį ir prisidėjo prie brolių.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Citata remia aiškų faktą, o pradinė formuluotė nutrūkusi.'
+  susije_objektai: 'location: Kvedenava; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_place: Kvedenava'
   pagrindžia:
     - c-001
 
@@ -69,7 +72,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Sembai]]

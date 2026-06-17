@@ -15,6 +15,7 @@ tags:
   - karalius
   - ordinas
   - popiežius
+  - vieta
 amziai:
   - 'XIII'
 ---
@@ -22,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-Brolio Hermano vadovavimo metais Teutonų ordinas Vengrijoje gavo vadinamąją Burcos žemę. Burcos žemė Transilvanijoje.
+Dusburgietis teigia, kad jo metais Ordinas gavo puikių dovanų Apulijoje, Romanijoje, Armėnijoje, Vokietijoje, o Vengrijoje vadinamąją Burcos žemę159, be to, Livoniją ir Prūsiją. Dusburgietis teigia, kad burcos žemė Transilvanijoje.
 
 ## Teiginiai
 
@@ -30,6 +31,8 @@ Brolio Hermano vadovavimo metais Teutonų ordinas Vengrijoje gavo vadinamąją B
 - t-001
   global_id: t-58690
   teiginys: 'Brolio Hermano vadovavimo metais Teutonų ordinas Vengrijoje gavo vadinamąją Burcos žemę.'
+  sudarymo_pagrindimas: 'Teiginys pilnas, faktinis ir paremtas citata apie Burcos žemę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Livonija; mentioned_place: Vengrija'
   pagrindžia:
     - c-001
 
@@ -37,9 +40,15 @@ Brolio Hermano vadovavimo metais Teutonų ordinas Vengrijoje gavo vadinamąją B
 - t-002
   global_id: t-58691
   teiginys: 'Burcos žemė Transilvanijoje.'
+  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Transilvanija; mentioned_place: Vengrija'
+  temporaliniai_duomenys: 'įvykio data: 1211 m.; įvykio data: 1225 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'claim_quality_pipeline deterministic repair'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179087|Kryžiuočių ordinas]]: 1211 m. Vengrijos karalius Andrius II įkurdino kryžiuočius Burcos žemėje, kad jie gintų kraštą nuo polovcų.
+- susijęs iš Regesta historico-diplomatica Ordinis Mariae Theutonicorum: Regesta historico-diplomatica Ordinis Nr. 4 siejamas su 1211 m. Andriaus II kryžiuočiams suteikta vieta Transilvanijos Burcos žemėje.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -72,3 +81,6 @@ Brolio Hermano vadovavimo metais Teutonų ordinas Vengrijoje gavo vadinamąją B
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+- [[objektai/grupes/Kryžiuočių ordinas]] susije_su Burcos žemė

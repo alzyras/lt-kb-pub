@@ -5,8 +5,9 @@ saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1390 m.'
+  - '1393 m.'
 date_start: '1390'
-date_end: ''
+date_end: '1393'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -31,6 +32,11 @@ liepos 25 d. 119 ## Puslapis 136 VILNIAUS MIESTO ISTORIJA I TOMAS lankininkų, k
 - t-001
   global_id: t-87428
   teiginys: 'Henrikas Lankasteris apie 1390 m. buvo prie Vilniaus ir Prūsijoje išgarsėjo riteriškais žygiais.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas, aiškus ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_group: [[objektai/grupes/Škotai|Škotai]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Ričardas (Kornvalijos grafas)|Ričardas (Kornvalijos grafas)]]; mentioned_place: Anglija; mentioned_place: Prūsija; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1390 m.; įvykio data: apie 1390 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas, aiškus ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-003
 
@@ -38,6 +44,11 @@ liepos 25 d. 119 ## Puslapis 136 VILNIAUS MIESTO ISTORIJA I TOMAS lankininkų, k
 - t-002
   global_id: t-87429
   teiginys: 'Henrikas Lankasteris, Derbio grafas, dalyvavo Vilniaus apgultyje 1390 m.'
+  sudarymo_pagrindimas: 'Citata aiškiai pagrindžia dalyvavimą Vilniaus apgultyje.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Anglija; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1390 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata aiškiai pagrindžia dalyvavimą Vilniaus apgultyje.'
   pagrindžia:
     - c-002
 
@@ -45,9 +56,14 @@ liepos 25 d. 119 ## Puslapis 136 VILNIAUS MIESTO ISTORIJA I TOMAS lankininkų, k
 - t-003
   global_id: t-87430
   teiginys: 'Derbio grafas Henrikas, Lankasterio kunigaikščio Jono vyresnysis sūnus, vadovavo Gdansko uoste išsilaipinusiems lankininkams.'
+  sudarymo_pagrindimas: 'Pašalintas puslapio triukšmas ir palikta aiški citatos remiama žinia apie asmenį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Henrikas IV|Henrikas IV]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/asmenys/Konradas Valenrodas|Konradas Valenrodas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Anglija; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1391 m.; įvykio data: 1393 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas puslapio triukšmas ir palikta aiški citatos remiama žinia apie asmenį.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Ričardas II.md#claim-t-87571|Ričardas II]]: Henrikas Lankasteris po devynerių metų nuvertė Ričardą II nuo sosto ir ėmė viešpatauti Henriko IV vardu.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -140,21 +156,3 @@ liepos 25 d. 119 ## Puslapis 136 VILNIAUS MIESTO ISTORIJA I TOMAS lankininkų, k
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/Henrikas]]
-- [[objektai/asmenys/Henrikas IV]]
-- [[objektai/asmenys/Konradas]]
-- [[objektai/asmenys/Konradas Valenrodas]]
-- [[objektai/grupes/Prancūzai]]
-- [[objektai/asmenys/Ričardas (Kornvalijos grafas)]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/zodynas/kapitula]]
-- [[objektai/zodynas/komtūras]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Škotai]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/asmenys/Ričardas II]]
-- [[objektai/asmenys/Jonas de Gandas]]

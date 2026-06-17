@@ -46,6 +46,12 @@ Nenurodyta
 - t-001
   global_id: t-62212
   teiginys: '1303 m. rugsėjo pradžioje popiežius Bonifacas VIII buvo įkalintas Ananyje, o bažnyčios turtas išnešiotas.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pradinis teiginys negramatiškas ir turi antraštės triukšmo.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Bonifacas VIII|Bonifacas VIII]]'
+  temporaliniai_duomenys: 'įvykio data: 1303 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys negramatiškas ir turi antraštės triukšmo.'
   pagrindžia:
     - c-001
 
@@ -66,7 +72,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Bonifacas VIII|Bonifacas VIII (arkivyskupas, XIII–XIV a.)]]

@@ -7,30 +7,35 @@ saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
+  - '1216 m.'
+  - '1303 m.'
+  - '1323 m.'
   - '1523 m.'
   - '1536 m.'
   - '2026 m.'
-date_start: '1523'
+date_start: '1216'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XVI'
-  - 'XXI'
 tags:
   - grupe
+amziai:
+  - 'XIII'
+  - 'XXI'
 ---
 # Domininkonų ordinas
 
 ## Santrauka
 
-Rygoje veikė domininkonai, o iš Rygos į Lietuvą buvo siunčiami dvasininkai skelbti evangelijos. 1323 m. gegužės 26 d. laiškai buvo pasiųsti Saksų provincijos domininkonams, pranciškonams ir Hanzos miestams. Bonifacas IX Vladimiro vyskupu paskyrė domininkoną Gregorijų ir taip parėmė Vytauto pastangas plėsti katalikybę.
+Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pranciškonų ir domininkonų; jie turį savo bažnyčių ir laisvai skelbią krikščionybę. Šiame šaltinyje domininkonai papildomai rodomi kaip kryžiaus karo telkėjai, Gedimino laiškų adresatai ir Rygoje veikusios evangelizacinės aplinkos dalis.
 
 ## Teiginiai
+
 <a id="claim-t-112507"></a>
 - t-001
   global_id: t-112507
   teiginys: 'Rygoje veikė domininkonai, o iš Rygos į Lietuvą buvo siunčiami dvasininkai skelbti evangelijos.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_object: [[objektai/zodynas/metropolija|metropolija]]; mentioned_place: Lietuva; mentioned_place: Ryga'
   pagrindžia:
     - c-007
 
@@ -38,6 +43,11 @@ Rygoje veikė domininkonai, o iš Rygos į Lietuvą buvo siunčiami dvasininkai 
 - t-002
   global_id: t-112510
   teiginys: '1323 m. gegužės 26 d. laiškai buvo pasiųsti Saksų provincijos domininkonams, pranciškonams ir Hanzos miestams.'
+  sudarymo_pagrindimas: 'Perrašyta, kad sakinys aiškiau sietų faktą su domininkonais.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Hanza|Hanza]]; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_group: [[objektai/grupes/Romai|Romai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Gotlandas; mentioned_place: Vokietija'
+  temporaliniai_duomenys: 'įvykio data: 1323 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Perrašyta, kad sakinys aiškiau sietų faktą su domininkonais.'
   pagrindžia:
     - c-010
 
@@ -45,6 +55,8 @@ Rygoje veikė domininkonai, o iš Rygos į Lietuvą buvo siunčiami dvasininkai 
 - t-003
   global_id: t-112511
   teiginys: 'Bonifacas IX Vladimiro vyskupu paskyrė domininkoną Gregorijų ir taip parėmė Vytauto pastangas plėsti katalikybę.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatinis ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_person: [[objektai/asmenys/Bonifacas IX|Bonifacas IX]]; mentioned_person: [[objektai/asmenys/Gregorijus (Vladimiro vyskupas)|Gregorijus (Vladimiro vyskupas)]]; mentioned_person: [[objektai/asmenys/Tame (Baigos brolis)|Tame (Baigos brolis)]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Šventoji'
   pagrindžia:
     - c-002
 
@@ -52,6 +64,8 @@ Rygoje veikė domininkonai, o iš Rygos į Lietuvą buvo siunčiami dvasininkai 
 - t-004
   global_id: t-112512
   teiginys: 'Dominikonų ordino broliai turėjo laisvę krikštyti, sakyti pamokslus ir atlikti kitas šventąsias apeigas.'
+  sudarymo_pagrindimas: 'Citata aiškiai nurodo dominikonams suteiktą religinės veiklos laisvę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]'
   pagrindžia:
     - c-004
 
@@ -59,6 +73,8 @@ Rygoje veikė domininkonai, o iš Rygos į Lietuvą buvo siunčiami dvasininkai 
 - t-005
   global_id: t-112513
   teiginys: 'Vingrių šaltinių perleidimas dominikonams sukėlė nesiliaujančius vaidus tarp šio ordino ir Vilniaus miestiečių.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiksliai paremtas citata apie ginčus su miestiečiais.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/klebonija|klebonija]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Maskva; mentioned_place: Poznanė; mentioned_place: Subačius; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 
@@ -66,6 +82,8 @@ Rygoje veikė domininkonai, o iš Rygos į Lietuvą buvo siunčiami dvasininkai 
 - t-006
   global_id: t-112514
   teiginys: 'Ordinas skleidė gandus, kad Vytautas su turkais eina prieš katalikus.'
+  sudarymo_pagrindimas: 'Pradinis teiginys yra fragmentas, bet citata leidžia suformuluoti pilną faktinį sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_person: [[objektai/asmenys/Bonifacas IX|Bonifacas IX]]; mentioned_person: [[objektai/asmenys/Tame (Baigos brolis)|Tame (Baigos brolis)]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Šventoji'
   pagrindžia:
     - c-002
 
@@ -73,6 +91,8 @@ Rygoje veikė domininkonai, o iš Rygos į Lietuvą buvo siunčiami dvasininkai 
 - t-007
   global_id: t-112515
   teiginys: 'Michałas Balińskis Gedimino vardu dominikonų ordinui, minoritams ir Vokietijos miestams rašytus laiškus laikė Rygos arkivyskupo prasimanymu ir klastote.'
+  sudarymo_pagrindimas: 'Reikia tiksliau perteikti autoriaus vertinimą ir aiškiai įvardyti dominikonų ordiną.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Livonija; mentioned_place: Ryga; mentioned_place: Vokietija'
   pagrindžia:
     - c-009
 
@@ -80,6 +100,8 @@ Rygoje veikė domininkonai, o iš Rygos į Lietuvą buvo siunčiami dvasininkai 
 - t-008
   global_id: t-112517
   teiginys: 'Domininkonai Vokietijoje, Čekijoje, Danijoje, Švedijoje, Norvegijoje ir Gotlande skelbė kryžiaus karą ir telkė naujus piligrimų būrius.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai pagrįstas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_place: Gotlandas; mentioned_place: Viena'
   pagrindžia:
     - c-006
 
@@ -87,6 +109,11 @@ Rygoje veikė domininkonai, o iš Rygos į Lietuvą buvo siunčiami dvasininkai 
 - t-009
   global_id: t-112518
   teiginys: '1303 m. valdęs popiežius Benediktas XI buvo Brolių pamokslininkų ordino vienuolis.'
+  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytą Benedikto XI priklausymą ordinui.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Romos karalius|Romos karalius]]; mentioned_person: [[objektai/asmenys/Benediktas|Benediktas]]; mentioned_person: [[objektai/asmenys/Benediktas XI|Benediktas XI]]'
+  temporaliniai_duomenys: 'įvykio data: 1303 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia citatoje nurodytą Benedikto XI priklausymą ordinui.'
   pagrindžia:
     - c-011
 
@@ -94,6 +121,7 @@ Rygoje veikė domininkonai, o iš Rygos į Lietuvą buvo siunčiami dvasininkai 
 - t-010
   global_id: t-112519
   teiginys: 'Domininkonai Vokietijoje, Čekijoje, Danijoje, Švedijoje, Norvegijoje ir Gotlande skelbė kryžiaus karą ir telkė piligrimus.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_place: Gotlandas; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -101,6 +129,7 @@ Rygoje veikė domininkonai, o iš Rygos į Lietuvą buvo siunčiami dvasininkai 
 - t-011
   global_id: t-112520
   teiginys: 'Gediminas teigė norįs kviesti dorus dominikonų ir pranciškonų ordino vienuolius, bet nepageidaująs plėšikaujančių vienuolių.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-008
 
@@ -108,6 +137,7 @@ Rygoje veikė domininkonai, o iš Rygos į Lietuvą buvo siunčiami dvasininkai 
 - t-012
   global_id: t-112521
   teiginys: 'Domininkonai, iš naujo skelbdami kryžiaus karą, turėjo atvesti naujus piligrimų būrius iš kelių Europos kraštų.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_place: Europa; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -115,10 +145,22 @@ Rygoje veikė domininkonai, o iš Rygos į Lietuvą buvo siunčiami dvasininkai 
 - t-013
   global_id: t-112522
   teiginys: 'Brolių pamokslininkų ordinas minimas kaip įkurtas 1216 m., valdant popiežiui Honorijui III.'
+  sudarymo_pagrindimas: 'Citata pagrindžia datą, o pradinis sakinys buvo fragmentiškas.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Popiežius Honorijus III|Popiežius Honorijus III]]'
+  temporaliniai_duomenys: 'įvykio data: 1216 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia datą, o pradinis sakinys buvo fragmentiškas.'
   pagrindžia:
     - c-005
-
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176338|Gediminas]]: Gediminas, Algirdas ir Kęstutis mėgino įvesti Lietuvoje katalikų tikėjimą.
+- susijęs iš [[objektai/asmenys/Goštautas.md#claim-t-113787|Goštautas (vyskupas, XV a.)]]: Algirdo valdymo metu didikas Goštautas Vilniuje apgyvendino 12 pranciškonų ir įkūrė jiems vienuolyną.
+- susijęs iš [[objektai/ivykiai/Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.).md#claim-t-05292|Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)]]: Gediminas laiškuose kvietė į Lietuvą amatininkus ir pirklius, kolonistams žadėjo lengvatų, o pranciškonų ir domininkonų prašė atsiųsti vienuolių.
+- susijęs iš [[objektai/ivykiai/Lietuvių nekrikščionių masinis krikštijimas Vilniuje ir Rytų Lietuvoje.md#claim-t-186717|Lietuvių nekrikščionių masinis krikštijimas Vilniuje ir Rytų Lietuvoje]]: Lietuvių nekrikščionių masinis krikštijimas katalikais vyko Vilniuje ir visoje Rytų Lietuvoje 1387 m. pirmojoje pusėje.
+- susijęs iš [[objektai/paprociai/Vytauto bažnyčių statymas ir vienuolynų steigimas.md#claim-t-35959|Vytauto bažnyčių statymas ir vienuolynų steigimas]]: Vytautas Lietuvoje statė ne tik bažnyčias, bet ir vienuolynus.
+- susijęs iš Gardinas: Vytautas Gardine donacijomis parėmė dominikonus ir pranciškonams pastatė bažnyčią.
+- susijęs iš Gardinas: Vytautas dominikonus parėmė donacijomis Gardine, Lucke ir Naugardėlyje.
 ## Reikšmingi paminėjimai
+
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -134,6 +176,7 @@ Rygoje veikė domininkonai, o iš Rygos į Lietuvą buvo siunčiami dvasininkai 
   pagrindžia:
     - t-012
     - t-010
+
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -154,6 +197,7 @@ Rygoje veikė domininkonai, o iš Rygos į Lietuvą buvo siunčiami dvasininkai 
   pagrindžia:
     - t-003
     - t-006
+
 - c-003
   santrauka: 'Vingrių šaltinių perleidimas dominikonams sukėlė nesiliaujančius vaidus tarp šio ordino ir Vilniaus miestiečių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -220,6 +264,7 @@ Rygoje veikė domininkonai, o iš Rygos į Lietuvą buvo siunčiami dvasininkai 
   statusas: verified
   pagrindžia:
     - t-005
+
 - c-004
   santrauka: 'Dominikonų ordino broliai turėjo laisvę krikštyti, sakyti pamokslus ir atlikti kitas šventąsias apeigas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -238,6 +283,7 @@ Rygoje veikė domininkonai, o iš Rygos į Lietuvą buvo siunčiami dvasininkai 
   statusas: verified
   pagrindžia:
     - t-004
+
 - c-005
   santrauka: 'Brolių pamokslininkų ordinas minimas kaip įkurtas 1216 m., valdant popiežiui Honorijui III.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -250,6 +296,7 @@ Rygoje veikė domininkonai, o iš Rygos į Lietuvą buvo siunčiami dvasininkai 
   statusas: verified
   pagrindžia:
     - t-013
+
 - c-006
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -263,6 +310,7 @@ Rygoje veikė domininkonai, o iš Rygos į Lietuvą buvo siunčiami dvasininkai 
   statusas: verified
   pagrindžia:
     - t-008
+
 - c-007
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -274,6 +322,7 @@ Rygoje veikė domininkonai, o iš Rygos į Lietuvą buvo siunčiami dvasininkai 
   statusas: verified
   pagrindžia:
     - t-001
+
 - c-008
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -312,6 +361,7 @@ Rygoje veikė domininkonai, o iš Rygos į Lietuvą buvo siunčiami dvasininkai 
   statusas: verified
   pagrindžia:
     - t-011
+
 - c-009
   santrauka: 'Michałas Balińskis Gedimino vardu dominikonų ordinui, minoritams ir Vokietijos miestams rašytus laiškus laikė Rygos arkivyskupo prasimanymu ir klastote.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -340,6 +390,7 @@ Rygoje veikė domininkonai, o iš Rygos į Lietuvą buvo siunčiami dvasininkai 
   statusas: verified
   pagrindžia:
     - t-007
+
 - c-010
   santrauka: '1323 m. gegužės 26 d. laiškai buvo pasiųsti Saksų provincijos domininkonams, pranciškonams ir Hanzos miestams.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -356,6 +407,7 @@ Rygoje veikė domininkonai, o iš Rygos į Lietuvą buvo siunčiami dvasininkai 
   statusas: verified
   pagrindžia:
     - t-002
+
 - c-011
   santrauka: '1303 m. valdęs popiežius Benediktas XI buvo Brolių pamokslininkų ordino vienuolis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -369,38 +421,3 @@ Rygoje veikė domininkonai, o iš Rygos į Lietuvą buvo siunčiami dvasininkai 
   statusas: verified
   pagrindžia:
     - t-009
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)]]
-- [[objektai/grupes/Pranciškonų ordinas]]
-- [[objektai/paprociai/Vytauto bažnyčių statymas ir vienuolynų steigimas]]
-- [[objektai/asmenys/Benediktas]]
-- [[objektai/asmenys/Bonifacas IX]]
-- [[objektai/asmenys/Gediminas]]
-- [[objektai/grupes/Hanza]]
-- [[objektai/grupes/Krikščionys]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/daiktai/Kryžius]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Popiežius Honorijus III]]
-- [[objektai/grupes/Romai]]
-- [[objektai/zodynas/Romos karalius]]
-- [[objektai/grupes/Stačiatikiai]]
-- [[objektai/asmenys/Tame (Baigos brolis)]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/klebonija]]
-- [[objektai/zodynas/metropolija]]
-- [[objektai/zodynas/netikėliai]]
-- [[objektai/asmenys/Žygimantas]]
-- [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]]
-- [[objektai/ivykiai/Lietuvių nekrikščionių masinis krikštijimas Vilniuje ir Rytų Lietuvoje]]
-- [[objektai/asmenys/Benediktas XI]]
-- [[objektai/asmenys/Gregorijus (Vladimiro vyskupas)]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Dominikonų ordinas]]
-- [[objektai/paprociai/Gedimino krikščionių dvasininkų kvietimas ir religinio pakantumo norma]]
-- [[objektai/grupes/Livonijos ordinas]]

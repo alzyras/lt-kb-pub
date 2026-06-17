@@ -41,6 +41,8 @@ Nenurodyta
 - t-001
   global_id: t-40742
   teiginys: 'Atskirojo Marijampolės bataliono kariai ties Arnenhofu buvo ginkluoti šautuvais Mauser 98 su užmautais durtuvais.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas factualus sakinys ir atitinka citatos turinį.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]; mentioned_place: Latvija; mentioned_place: Marijampolė'
   pagrindžia:
     - c-001
 
@@ -62,7 +64,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Šautuvai]]

@@ -45,6 +45,11 @@ Nenurodyta
 - t-001
   global_id: t-101527
   teiginys: '1943 m. lapkričio 23–24 d. generaliniai tarėjai ir Tautos taryba atmetė SS dalinio organizavimo planą ir pasisakė už tautinę Lietuvos kariuomenę.'
+  sudarymo_pagrindimas: 'Teiginys tiksliai apibendrina citatoje nurodytą sprendimą ir poziciją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Tautos taryba|Tautos taryba]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/generaliniai tarėjai|generaliniai tarėjai]]; mentioned_person: [[objektai/asmenys/Povilas Plechavičius|Povilas Plechavičius]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1943 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys tiksliai apibendrina citatoje nurodytą sprendimą ir poziciją.'
   pagrindžia:
     - c-001
 
@@ -52,6 +57,11 @@ Nenurodyta
 - t-002
   global_id: t-101528
   teiginys: '1943 m. lapkričio 23–24 d. generaliniai tarėjai ir Tautos taryba atmetė SS dalinio organizavimo planą.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Tautos taryba|Tautos taryba]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/generaliniai tarėjai|generaliniai tarėjai]]; mentioned_person: [[objektai/asmenys/Povilas Plechavičius|Povilas Plechavičius]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1943 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -75,11 +85,3 @@ Nenurodyta
   pagrindžia:
     - t-001
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Povilas Plechavičius]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/generaliniai tarėjai]]
-- [[objektai/grupes/Tautos taryba|Tautos taryba (institucija)]]

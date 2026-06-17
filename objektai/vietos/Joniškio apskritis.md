@@ -26,6 +26,11 @@ amziai:
 - t-001
   global_id: t-38475
   teiginys: '1945 m. balandžio 18 d. Joniškio apskrities Joniškio valsčiaus Gasčiūnų kaime NKVD pajėgos aptiko partizanus, o kautynės truko tris valandas.'
+  sudarymo_pagrindimas: 'Pradinis teiginys turi OCR triukšmo ir yra nutrūkęs, bet citata pagrindžia aiškų faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_object: [[objektai/daiktai/Stoginė|Stoginė]]; mentioned_place: Kaimas'
+  temporaliniai_duomenys: 'įvykio data: 1945 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys turi OCR triukšmo ir yra nutrūkęs, bet citata pagrindžia aiškų faktą.'
   pagrindžia:
     - c-001
 

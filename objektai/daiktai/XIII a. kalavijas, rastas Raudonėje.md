@@ -48,6 +48,8 @@ Nenurodyta
 - t-001
   global_id: t-39305
   teiginys: 'XIII a. kalavijas, saugomas VDKM, buvo rastas Raudonėje.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
+  susije_objektai: 'mentioned_place: Raudonė'
   pagrindžia:
     - c-001
 

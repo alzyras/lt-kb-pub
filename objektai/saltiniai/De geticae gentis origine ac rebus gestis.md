@@ -23,6 +23,8 @@ Tikrai tikėtina, jog vardas tautos, įsikūru­ sios prie Vyslos žiočių - vi
 - t-001
   global_id: t-88414
   teiginys: 'Veikale „De geticae gentis origine ac rebus gestis“ Jornandes minėjo prie Vyslos žiočių įsikūrusius vidivarijus.'
+  sudarymo_pagrindimas: 'Ilgas fragmentas sutrumpintas iki šaltinio palaikomo fakto.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Gotai|Gotai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vidivarii|Vidivarii]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/Vidivarijai|Vidivarijai]]; mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_person: [[objektai/autoriai/Jornandesas|Jornandesas]]; mentioned_person: [[objektai/autoriai/Thunmanas|Thunmanas]]; mentioned_place: Gardinas; mentioned_place: Vilija; mentioned_place: Vilniaus gubernija; mentioned_place: Vilnius; mentioned_place: Vysla'
   pagrindžia:
     - c-001
 

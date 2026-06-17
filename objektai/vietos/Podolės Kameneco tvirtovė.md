@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Turkai stiprino įtvirtinimus prie Podolės Kameneco tvirtovės, numatydami lenkų ir lietuvių puolimo kryptį.
+Turkai, nujausdami lenkų ir lietuvių ir privertė ją Atėjo žinia, kad Turkija ketina siekti puolimo kryptį, stiprino įtvirtinimus daugiau ir surinkusi didžiulę kariuomenę prie Podolės Kameneco tvirtovės.
 
 ## Teiginiai
 
@@ -29,6 +29,11 @@ Turkai stiprino įtvirtinimus prie Podolės Kameneco tvirtovės, numatydami lenk
 - t-001
   global_id: t-38639
   teiginys: 'Turkai stiprino įtvirtinimus prie Podolės Kameneco tvirtovės, numatydami lenkų ir lietuvių puolimo kryptį.'
+  sudarymo_pagrindimas: 'Citata dėl OCR triukšmo patikimai paremia įtvirtinimų stiprinimą, bet ne aiškų kariuomenės sutelkimą ten.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Chotinas; mentioned_place: Kamenecas; mentioned_place: Podolė; mentioned_place: Turkija'
+  temporaliniai_duomenys: 'įvykio data: 1621 m.; įvykio data: 1673 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata dėl OCR triukšmo patikimai paremia įtvirtinimų stiprinimą, bet ne aiškų kariuomenės sutelkimą ten.'
   pagrindžia:
     - c-001
 

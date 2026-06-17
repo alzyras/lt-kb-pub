@@ -28,6 +28,8 @@ amziai:
 - t-001
   global_id: t-86071
   teiginys: 'Jurgis Radvila, dar būdamas Vilniaus vyskupijos koadjutoriumi, su broliu paveldėjo Goštautų vardu vadintą mūrinį namą.'
+  sudarymo_pagrindimas: 'Fragmentas perrašytas į gramatinį sakinį be išnašos triukšmo.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Goštautai|Goštautai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_place: Kardinalija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -35,6 +37,8 @@ amziai:
 - t-002
   global_id: t-86072
   teiginys: 'Kardinolas Radvila Goštautų mūru vadintoje dalyje įrengė koplyčią, kurioje ilgai buvo laikomos pamaldos.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai paremtas pateikta citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Goštautai|Goštautai]]; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Kardinalija'
   pagrindžia:
     - c-002
 

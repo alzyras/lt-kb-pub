@@ -26,6 +26,11 @@ Dusburgietis teigia, kad otrębski J.
 - t-001
   global_id: t-61208
   teiginys: 'J. Otrębskio „Udział Jaćwingów w ukształtowaniu języka polskiego“ 1964 m. publikuotas Balstogėje leidinyje „ABS“.'
+  sudarymo_pagrindimas: 'Citata leidžia pateikti aiškų bibliografinį faktą apie publikaciją.'
+  susije_objektai: 'mentioned_place: Balstogė'
+  temporaliniai_duomenys: 'įvykio data: 1964 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata leidžia pateikti aiškų bibliografinį faktą apie publikaciją.'
   pagrindžia:
     - c-001
 

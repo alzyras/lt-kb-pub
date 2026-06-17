@@ -45,6 +45,11 @@ Nenurodyta
 - t-001
   global_id: t-39099
   teiginys: '1648 m. vasarą sukilę kazokai veržėsi į LDK pietrytines sritis ir siautėjo Pinsko, Starodubo bei Mozyriaus apylinkėse.'
+  sudarymo_pagrindimas: 'Citata leidžia teiginį padaryti konkretesnį ir aiškiau susietą su sukilimo eiga.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Mozyrius; mentioned_place: Starodubas'
+  temporaliniai_duomenys: 'įvykio data: 1648 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata leidžia teiginį padaryti konkretesnį ir aiškiau susietą su sukilimo eiga.'
   pagrindžia:
     - c-001
 
@@ -52,6 +57,8 @@ Nenurodyta
 - t-002
   global_id: t-39100
   teiginys: 'Prie Lojevo priartėjusios Kijevo, Černobylio ir Ovručo kazokų pajėgos buvo triskart gausesnės už LDK kariuomenę.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_place: Lietuva; mentioned_place: Lojevas; mentioned_place: Ovručas; mentioned_place: Ukraina'
   pagrindžia:
     - c-002
 
@@ -98,8 +105,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kazokai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

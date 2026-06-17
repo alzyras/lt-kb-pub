@@ -18,9 +18,15 @@ Pasak Liudviko, turkų valdovas Mechmedas rengėsi kariauti prieš krikščioni�
 - t-001
   global_id: t-186147
   teiginys: 'Pasak Liudviko, turkų valdovas Mechmedas rengėsi kariauti prieš krikščionių pasaulį.'
+  teiginio_tipas: 'saltinio_teiginys'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nurodo šaltinyje priskirtą Liudviko vertinimą.'
+  susije_objektai: 'territory: Europa; mentioned_place: Europa'
+  semantiniai_rysiai: '[[objektai/asmenys/Mechmedas|Mechmedas]] buvo valdovas Europa'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Liudvikas (Antiochijos patriarchas).md#claim-t-186143|Liudvikas (Antiochijos patriarchas)]]: Pasak Liudviko, Mechmedas rengėsi kariauti prieš krikščionių pasaulį.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -43,3 +49,6 @@ Pasak Liudviko, turkų valdovas Mechmedas rengėsi kariauti prieš krikščioni�
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+- Mechmedas buvo_valdovas [[objektai/vietos/Europa]]

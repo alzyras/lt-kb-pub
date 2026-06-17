@@ -20,6 +20,8 @@ Dusburgietis teigia, kad nuo XIX a. vidurio kalbininkai, pradedant F. Bopu, G. H
 - t-001
   global_id: t-64588
   teiginys: 'F. Bopo veikalas „Über die Sprache...“ įtrauktas į prūsų kalbos ir raštijos paminklų bibliografiją.'
+  sudarymo_pagrindimas: 'Bibliografinė citata leidžia teigti, kad F. Bopo veikalas įtrauktas į prūsų kalbos tyrimų sąrašą.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_place: Lietuva; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
 
@@ -43,7 +45,3 @@ Dusburgietis teigia, kad nuo XIX a. vidurio kalbininkai, pradedant F. Bopu, G. H
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/bibliografija]]

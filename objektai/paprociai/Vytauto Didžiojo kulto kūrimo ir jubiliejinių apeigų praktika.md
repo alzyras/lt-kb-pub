@@ -56,6 +56,8 @@ amziai:
 - t-001
   global_id: t-20823
   teiginys: 'Vytauto jubiliejinių renginių svarbiausia mintis buvo tautos vienybė ir žinia, kad Lietuva yra sena istorinė valstybė.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, glaustas ir atitinka citatos mintį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kaunas; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -63,6 +65,8 @@ amziai:
 - t-002
   global_id: t-20824
   teiginys: 'Vytauto Didžiojo mirties 500-ųjų metinių komitetas nutarė Kaune pastatyti Vytauto Didžiojo karo muziejų kaip atminimo panteoną.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir aiškiai susijęs su jubiliejinių apeigų praktika.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Europa; mentioned_place: Kaunas; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -109,17 +113,3 @@ amziai:
 ## Šaltiniai ir įrodymai
 
 Nenurodyta
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/socialinė-praktika]]
-
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/grupes/Žydai]]
-- [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
-- [[objektai/ivykiai/Vytauto mirties 500 metų jubiliejaus minėjimas (1930 m.)]]
-- [[objektai/daiktai/Vytauto paminklai]]
-- [[objektai/daiktai/Vytauto paveikslas]]

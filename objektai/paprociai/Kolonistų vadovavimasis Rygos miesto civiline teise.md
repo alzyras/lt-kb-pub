@@ -51,6 +51,8 @@ Nenurodyta
 - t-001
   global_id: t-87244
   teiginys: 'Gediminas laiške pranešė, kad į Vilnių atvykę kolonistai galės vadovautis Rygos miesto civiline teise, kol bus sukurti geresni įstatymai.'
+  sudarymo_pagrindimas: 'Teiginys nutrūkęs ir su puslapio išnašos triukšmu, bet citata aiškiai remia faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bremeno pirkliai|Bremeno pirkliai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Bajerburgas; mentioned_place: Bremenas; mentioned_place: Dvina; mentioned_place: Gotlandas; mentioned_place: Lietuva; mentioned_place: Ryga; mentioned_place: Salos; mentioned_place: Sanas; mentioned_place: Vilnius; mentioned_place: Štetinas'
   pagrindžia:
     - c-001
 
@@ -93,10 +95,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bremeno pirkliai]]
-- [[objektai/asmenys/Gediminas]]
-- [[objektai/posakiai/Jure civili utantur Rigensis Civitatis]]
-- [[objektai/zodynas/Rygos miesto civilinė teisė vokiečių teisės]]

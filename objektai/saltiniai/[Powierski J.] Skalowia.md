@@ -20,6 +20,8 @@ Dusburgietis teigia, kad [Powierski J.] Skalowia.— SSS, t.
 - t-001
   global_id: t-61255
   teiginys: 'J. Powierskio „Skalowia“ nurodyta SSS 5 tomo 192-193 puslapiuose.'
+  sudarymo_pagrindimas: 'Citata pagrindžia bibliografinę nuorodą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
   pagrindžia:
     - c-001
 

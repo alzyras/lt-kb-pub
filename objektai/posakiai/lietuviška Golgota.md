@@ -30,9 +30,20 @@ Taip Kryžių kalnas (jį 1993 m. aplankė popiežius Jonas Paulius II) tapo sim
 - t-001
   global_id: t-20835
   teiginys: 'Kryžių kalnas, 1993 m. aplankytas popiežiaus Jono Pauliaus II, tapo kovos už tikėjimo laisvę simboliu ir buvo pramintas lietuviška Golgota.'
+  sudarymo_pagrindimas: 'Pradinis teiginys prasideda kontekstiniu žodžiu „Taip“, todėl reikėjo savarankiško sakinio.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Kryžių kalnas; mentioned_place: Šiauliai'
+  temporaliniai_duomenys: 'įvykio data: 1961 m.; įvykio data: 1993 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys prasideda kontekstiniu žodžiu „Taip“, todėl reikėjo savarankiško sakinio.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Jonas Paulius II.md#claim-t-71297|Jonas Paulius II]]: Popiežius Jonas Paulius II 1993 m. aplankė Kryžių kalną, pramintą lietuviška Golgota.
+- susijęs iš [[objektai/daiktai/Kryžių kalno kryžiai.md#claim-t-77918|Kryžių kalno kryžiai]]: Priklausomybės dešimtmečiais Kryžių kalno kryžiai tapo stiprybės ir vilties simboliu.
+- susijęs iš [[objektai/ivykiai/Kryžių kalno kryžių naikinimas ir atstatymas (1961 m. ir vėliau).md#claim-t-183229|Kryžių kalno kryžių naikinimas ir atstatymas (1961 m. ir vėliau)]]: Valdžiai draudžiant statyti kryžius, 1961 m. Kryžių kalne buvo sunaikinti 2 179 kryžiai, bet žmonės naktimis statė vis daugiau naujų kryžių.
+- susijęs iš [[objektai/ivykiai/Kryžių kalno kryžių naikinimas ir atstatymas (1961 m. ir vėliau).md#claim-t-20233|Kryžių kalno kryžių naikinimas ir atstatymas (1961 m. ir vėliau)]]: Kryžių kalnas, 1993 m. aplankytas popiežiaus Jono Pauliaus II, tapo kovos už tikėjimo laisvę simboliu ir buvo pramintas lietuviška Golgota.
+- susijęs iš [[objektai/paprociai/Kryžių statymas Kryžių kalne kaip tikėjimo laisvės pasipriešinimo praktika.md#claim-t-20811|Kryžių statymas Kryžių kalne kaip tikėjimo laisvės pasipriešinimo praktika]]: Kryžių kalnas tapo kovos už tikėjimo laisvę simboliu ir buvo pramintas lietuviška Golgota.
+- susijęs iš Kryžių kalnas: Priklausomybės dešimtmečiais Kryžių kalnas išryškino kryžiaus kaip stiprybės ir vilties šaltinio prasmę.
+- susijęs iš Kryžių kalnas: Kryžių kalnas tapo kovos už tikėjimo laisvę simboliu ir buvo pramintas lietuviška Golgota.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -54,12 +65,3 @@ Taip Kryžių kalnas (jį 1993 m. aplankė popiežius Jonas Paulius II) tapo sim
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Jonas]]
-- [[objektai/daiktai/Kryžius]]
-- [[objektai/asmenys/Jonas Paulius II]]
-- [[objektai/daiktai/Kryžių kalno kryžiai]]
-- [[objektai/ivykiai/Kryžių kalno kryžių naikinimas ir atstatymas (1961 m. ir vėliau)]]
-- [[objektai/paprociai/Kryžių statymas Kryžių kalne kaip tikėjimo laisvės pasipriešinimo praktika]]

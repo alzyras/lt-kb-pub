@@ -20,6 +20,8 @@ tags:
 - t-001
   global_id: t-87900
   teiginys: 'Tikocine pas Zaleskį buvęs bažnytinis auksas ir sidabras buvo paskirti Šv. Onos bažnyčiai.'
+  sudarymo_pagrindimas: 'Pradinis tekstas per ilgas ir fragmentiškas; perrašyta į vieną palaikomą sakinį apie Zaleskį.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_place: Tikocinas; mentioned_place: Šv. Onos bažnyčia'
   pagrindžia:
     - c-001
 
@@ -48,10 +50,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/drabužis]]
-
-### Susiję objektai
-- [[objektai/daiktai/Drabužiai]]

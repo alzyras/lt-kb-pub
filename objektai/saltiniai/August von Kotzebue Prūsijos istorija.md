@@ -21,6 +21,8 @@ Tikriausiai Kotzebue vylėsi jų originalus rasiąs Ordino archyve ir galėsiąs
 - t-001
   global_id: t-88239
   teiginys: 'Augusto von Kotzebue nuomonės apie Prūsijos istoriją vertinamos kritiškai, remiantis teiginiu apie dokumentų patekimą į kryžiuočių archyvą.'
+  sudarymo_pagrindimas: 'Pradinis sakinys nerišlus ir priklauso platesnei kritikai, bet citata leidžia suformuluoti atsargų faktą apie vertinimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/autoriai/Kotzebue|Kotzebue]]; mentioned_place: Prūsija'
   pagrindžia:
     - c-002
 
@@ -28,6 +30,8 @@ Tikriausiai Kotzebue vylėsi jų originalus rasiąs Ordino archyve ir galėsiąs
 - t-002
   global_id: t-88240
   teiginys: 'Kotzebue tikėjosi rasti laiškų originalus Ordino archyve ir apkaltinti Ordiną dar viena piktadaryste.'
+  sudarymo_pagrindimas: 'Citata palaiko autoriaus vertinimą, o pradiniame sakinyje buvo OCR klaidų.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/autoriai/Kotzebue|Kotzebue]]; mentioned_place: Viena'
   pagrindžia:
     - c-001
 

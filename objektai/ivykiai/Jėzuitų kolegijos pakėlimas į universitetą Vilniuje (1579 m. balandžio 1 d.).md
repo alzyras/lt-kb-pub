@@ -47,6 +47,8 @@ Nenurodyta
 - t-001
   global_id: t-54451
   teiginys: 'Balandžio 1-ąją išleisti dekretai patvirtino vyskupo Protasevičiaus funduotos jėzuitų kolegijos pakėlimą į universitetą.'
+  sudarymo_pagrindimas: 'Reikia aiškesnio sakinio be neapibrėžto „karalius“.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]'
   pagrindžia:
     - c-001
 
@@ -72,9 +74,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Steponas Batoras]]
-- [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius (vyskupas)]]
-- [[objektai/asmenys/Valerijonas (raštininkas)]]

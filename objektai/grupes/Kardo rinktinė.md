@@ -33,6 +33,11 @@ Kairėje ŽEMAIČIŲ APYGARDOS Kardo rinktinės vadas Kazimieras Kontrimas-Tėva
 - t-001
   global_id: t-38962
   teiginys: '1949 m. Kazimieras Kontrimas-Tėvas vadovavo Žemaičių apygardos Kardo rinktinei.'
+  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytą Kardo rinktinės vadovybę 1949 m.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kardas|Kardas]]; mentioned_place: Kretinga; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1943 m.; įvykio data: po 1945 m.; įvykio data: 1945 m.; įvykio data: 1949 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data.'
+  temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia citatoje nurodytą Kardo rinktinės vadovybę 1949 m.'
   pagrindžia:
     - c-001
 
@@ -54,7 +59,3 @@ Kairėje ŽEMAIČIŲ APYGARDOS Kardo rinktinės vadas Kazimieras Kontrimas-Tėva
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Kardas]]

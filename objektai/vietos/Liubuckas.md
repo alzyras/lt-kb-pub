@@ -4,9 +4,10 @@ pavadinimas: 'Liubuckas'
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 datos:
+  - '1408 m.'
   - '1494 m.'
-date_start: '1494'
-date_end: ''
+date_start: '1408'
+date_end: '1494'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -18,7 +19,7 @@ amziai:
 
 ## Santrauka
 
-Liubuckas buvo LDK ir Maskvos didžiosios kunigaikštystės pasienio miestas prie Okos. Pagal 1494.II.5 sutarties rezultatą Liubuckas paliko LDK. Liubuckas lokalizuojamas į šiaurės vakarus nuo Tūlos ir apie 150 km į pietus nuo Maskvos.
+Liubuckas aiškinamas kaip LDK ir MDK pasienio miestas prie Okos. Liubuckas lokalizuojamas į šiaurės vakarus nuo Tūlos ir apie 150 km į pietus nuo Maskvos.
 
 ## Teiginiai
 
@@ -26,6 +27,12 @@ Liubuckas buvo LDK ir Maskvos didžiosios kunigaikštystės pasienio miestas pri
 - t-001
   global_id: t-187254
   teiginys: 'Liubuckas buvo LDK ir Maskvos didžiosios kunigaikštystės pasienio miestas prie Okos.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Sakinys aiškiai apibūdina Liubucko politinę ir geografinę padėtį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Maskva'
+  temporaliniai_duomenys: 'įvykio data: 1408 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Sakinys aiškiai apibūdina Liubucko politinę ir geografinę padėtį.'
   pagrindžia:
     - c-001
 
@@ -33,6 +40,8 @@ Liubuckas buvo LDK ir Maskvos didžiosios kunigaikštystės pasienio miestas pri
 - t-002
   global_id: t-187255
   teiginys: 'Pagal 1494.II.5 sutarties rezultatą Liubuckas paliko LDK.'
+  teiginio_tipas: 'faktas'
+  susije_objektai: 'mentioned_place: Chlepenis; mentioned_place: Kijevas; mentioned_place: Maskva'
   pagrindžia:
     - c-002
 
@@ -40,6 +49,12 @@ Liubuckas buvo LDK ir Maskvos didžiosios kunigaikštystės pasienio miestas pri
 - t-003
   global_id: t-187256
   teiginys: 'Liubuckas lokalizuojamas į šiaurės vakarus nuo Tūlos ir apie 150 km į pietus nuo Maskvos.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys jau yra pilnas sakinys apie Liubucko lokalizaciją. Jis remiasi aiškinamąja pastaba ir neprideda vertinimų ar metraščio interpretacijų.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Maskva'
+  temporaliniai_duomenys: 'įvykio data: 1408 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys jau yra pilnas sakinys apie Liubucko lokalizaciją. Jis remiasi aiškinamąja pastaba ir neprideda vertinimų ar metraščio interpretacijų.'
   pagrindžia:
     - c-001
 

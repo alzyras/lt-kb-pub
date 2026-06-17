@@ -21,6 +21,8 @@ Vienas iš kryžiuočių, Falkenbergas, stengėsi dar Vok.
 - t-001
   global_id: t-34787
   teiginys: 'Kryžiuotis Falkenbergas mėgino padėti Vokiečių ordinui, išleisdamas Jogailą šmeižiančią knygą.'
+  sudarymo_pagrindimas: 'Pirminis teiginys buvo nutrūkęs, o citata palaiko pilną faktinį sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Konstancija'
   pagrindžia:
     - c-001
 
@@ -38,8 +40,3 @@ Vienas iš kryžiuočių, Falkenbergas, stengėsi dar Vok.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Vokiečiai]]

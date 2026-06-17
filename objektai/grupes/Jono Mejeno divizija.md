@@ -4,9 +4,10 @@ pavadinimas: 'Jono Mejeno divizija'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
+  - '1794 m.'
   - '2004 m.'
-date_start: '2004'
-date_end: ''
+date_start: '1794'
+date_end: '2004'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -14,6 +15,7 @@ tags:
   - sukilimas
   - tauta
 amziai:
+  - 'XVIII'
   - 'XXI'
 ---
 # Jono Mejeno divizija
@@ -28,9 +30,14 @@ Jono Mejeno divizija, kurią sudarė 2-0ji ir 3-ioji Tautinės kavalerijos briga
 - t-001
   global_id: t-40902
   teiginys: 'Gen. mjr. Jono Mejeno divizija gynė Vilnių nuo rusų puolimo.'
+  sudarymo_pagrindimas: 'Teiginys yra trumpas, gramatiškas ir tiesiogiai pagrįstas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1794 m.; įvykio data: 2004 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra trumpas, gramatiškas ir tiesiogiai pagrįstas citata.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Jonas Mejenas.md#claim-t-40223|Jonas Mejenas]]: Gen. mjr. Jono Mejeno divizija gynė Vilnių nuo rusų puolimo.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -52,11 +59,3 @@ Jono Mejeno divizija, kurią sudarė 2-0ji ir 3-ioji Tautinės kavalerijos briga
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Rusai]]
-- [[objektai/asmenys/Jonas Mejenas]]
-- [[objektai/grupes/2-oji ir 3-ioji Tautinės kavalerijos brigados]]
-- [[objektai/grupes/Jozefo Grabinskio Jėgerių batalionas]]
-- [[objektai/grupes/oji ir 3-ioji Tautinės kavalerijos brigados]]

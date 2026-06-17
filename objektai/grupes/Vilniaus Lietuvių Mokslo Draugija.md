@@ -16,26 +16,27 @@ tags:
 Malinauskas, kurs švenčiausiai tiki Vytauto kaulus tebesant ir kuris iš padavimo numano, kur jie galėtų būti, — surinkęs aukų, padirbdino puikų grabą Vytauto kaulams sudėti, bet lenkai to grabo nepriėmė į katedrą, ir dabar jis saugomas Vilniaus Lietuvių.
 
 ## Teiginiai
+
 <a id="claim-t-72654"></a>
 - t-001
   global_id: t-72654
-  teiginys: 'Vilniaus Lietuvių Mokslo Draugijoje buvo saugomas D. Malinausko aukomis padirbdintas grabas Vytauto kaulams sudėti.'
+  teiginys: 'Vilniaus Lietuvių Mokslo Draugijoje buvo saugomas D. Malinausko padirbdintas grabas Vytauto kaulams sudėti.'
+  sudarymo_pagrindimas: 'Pradinis teiginys ne apie draugiją; citata leidžia suformuoti faktą apie draugijoje saugotą objektą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+
 <a id="claim-t-72655"></a>
 - t-002
   global_id: t-72655
-  teiginys: 'Vilniaus Lietuvių Mokslo Draugijoje buvo saugomas D. Malinausko padirbdintas grabas Vytauto kaulams sudėti.'
+  teiginys: 'Vilniaus Lietuvių Mokslo Draugijoje buvo saugomas D. Malinausko aukomis padirbdintas grabas Vytauto kaulams sudėti.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Vilniaus Lietuvių Mokslo Draugijoje buvo saugomas D. Malinausko aukomis padirbdintas grabas Vytauto kaulams sudėti.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Yra žmonių
@@ -46,16 +47,9 @@ Malinauskas, kurs švenčiausiai tiki Vytauto kaulus tebesant ir kuris iš padav
     galėtų būti, — surinkęs aukų, padirbdino puikų grabą Vytauto kau-
     lams sudėti, bet lenkai to grabo nepriėmė į katedrą, ir dabar jis
     saugomas Vilniaus Lietuvių Mokslo Draugijoje.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
+    - t-001

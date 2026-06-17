@@ -34,6 +34,11 @@ Vilniuje veikusi masonų ložė.
 - t-001
   global_id: t-54829
   teiginys: '1816 m. ložės Uolusis Lietuvis sąraše buvo 114 narių, tarp jų nemažai Vilniaus universiteto profesorių.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai susijęs su lože Uolusis Lietuvis.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Masonų ložė „Uolusis lietuvis“|Masonų ložė „Uolusis lietuvis“]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1816 m.; įvykio data: 1819 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai susijęs su lože Uolusis Lietuvis.'
   pagrindžia:
     - c-001
 
@@ -41,9 +46,14 @@ Vilniuje veikusi masonų ložė.
 - t-002
   global_id: t-54830
   teiginys: 'Michał Baliński 1819 m. įstojo į ložę Uolusis Lietuvis.'
+  sudarymo_pagrindimas: 'Pradinis sakinys remiasi inicialu; geriau išskleisti asmenvardį pagal šaltinio ir citatos kontekstą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1816 m.; įvykio data: 1819 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis sakinys remiasi inicialu; geriau išskleisti asmenvardį pagal šaltinio ir citatos kontekstą.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/grupes/Masonų ložė „Uolusis lietuvis“.md#claim-t-183171|Masonų ložė „Uolusis lietuvis“]]: Po 1812 m. Lietuvoje išpopuliarėjus masonų judėjimui, „Uolusis lietuvis“ buvo garsiausioji masonų ložė.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -64,9 +74,3 @@ Vilniuje veikusi masonų ložė.
   pagrindžia:
     - t-001
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Aleksandras Balinskis]]
-- [[objektai/autoriai/Mykolas Balinskis]]
-- [[objektai/grupes/Masonų ložė „Uolusis lietuvis“]]

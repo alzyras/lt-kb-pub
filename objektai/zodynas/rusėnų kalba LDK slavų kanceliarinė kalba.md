@@ -21,6 +21,8 @@ Pagrindinė Lietuvos metrikos, o ir apskritai LDK rašto kalba buvo rusėnų –
 - t-001
   global_id: t-22294
   teiginys: 'Vytauto laikais didėjant raštijos poreikiams, lietuvių kalba dar neturėjo raštijos tradicijų.'
+  sudarymo_pagrindimas: 'Perrašyta glaudžiau ir sklandžiau, remiantis citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_group: [[objektai/grupes/Ukrainiečiai|Ukrainiečiai]]; mentioned_place: Kijevas; mentioned_place: Kijevo Rusia; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -28,6 +30,8 @@ Pagrindinė Lietuvos metrikos, o ir apskritai LDK rašto kalba buvo rusėnų –
 - t-002
   global_id: t-22295
   teiginys: 'Filologai LDK raštinėse vyravusią raštijos kalbą siūlo vadinti rusėnų kalba.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie rusėnų kalbos pavadinimo siūlymą ir remiasi citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -59,13 +63,3 @@ Pagrindinė Lietuvos metrikos, o ir apskritai LDK rašto kalba buvo rusėnų –
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Rusėnai]]
-- [[objektai/grupes/Slavai]]
-- [[objektai/grupes/Stačiatikiai]]
-- [[objektai/grupes/Ukrainiečiai]]
-- [[objektai/paprociai/Rusėnų kalbos vartojimas LDK raštinėse ir raštijoje]]
-- [[objektai/zodynas/rusėnų kalba LDK raštų kalba]]

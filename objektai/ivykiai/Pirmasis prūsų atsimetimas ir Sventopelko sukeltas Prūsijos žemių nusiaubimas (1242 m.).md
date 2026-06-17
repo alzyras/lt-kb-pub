@@ -5,6 +5,7 @@ saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1236 m.'
+  - '1242 m.'
   - '1243 m.'
 date_start: '1236'
 date_end: '1243'
@@ -46,6 +47,8 @@ Nenurodyta
 - t-001
   global_id: t-66828
   teiginys: 'Sventopelkas įsiveržė į Pamedės ir Kulmo žemes, jas siaubė, sugriovė daugumą pilių ir išžudė 4 tūkstančius krikščionių.'
+  sudarymo_pagrindimas: 'Teiginyje yra vertinamųjų ir neaiškių fragmentų, citata pagrindžia konkretesnį faktą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Prūsijos žemė|Prūsijos žemė]]; mentioned_object: [[objektai/zodynas/naujakrikščiai|naujakrikščiai]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Kulmas; mentioned_place: Pamedė; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
 
@@ -53,6 +56,8 @@ Nenurodyta
 - t-002
   global_id: t-66829
   teiginys: 'Sventopelkas sudarė sąjungą su prūsais, kad iš Prūsijos jėga būtų išvaryti Teutonų ordino broliai ir kiti krikščionys.'
+  sudarymo_pagrindimas: 'Pradinis teiginys sugadintas OCR triukšmo, bet citata pagrindžia aiškų faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Baiga; mentioned_place: Pomeranija; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Vysla'
   pagrindžia:
     - c-004
 
@@ -60,6 +65,8 @@ Nenurodyta
 - t-003
   global_id: t-66830
   teiginys: 'Sventopelkas įsakė naujakrikščiams visose Prūsijos žemėse sukilti prieš Teutonų ordino brolius ir atmesti tikėjimą.'
+  sudarymo_pagrindimas: 'Pradinis teiginys yra fragmentiškas, o citata leidžia suformuluoti pilną sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/naujakrikščiai|naujakrikščiai]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Elbingas; mentioned_place: Prūsija; mentioned_place: Viena; mentioned_place: Vokietija'
   pagrindžia:
     - c-003
 
@@ -67,6 +74,11 @@ Nenurodyta
 - t-004
   global_id: t-66831
   teiginys: 'Pirmojo prūsų atsimetimo pradžia dažniausiai datuojama 1242 m., nors kai kas ją sieja su 1243 m. pabaiga.'
+  sudarymo_pagrindimas: 'Citata pagrindžia sukilimo pradžios datavimą ir leidžia pašalinti bibliografinį triukšmą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Prūsai'
+  temporaliniai_duomenys: 'įvykio data: 1242 m.; įvykio data: 1243 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia sukilimo pradžios datavimą ir leidžia pašalinti bibliografinį triukšmą.'
   pagrindžia:
     - c-002
 
@@ -155,14 +167,3 @@ Nenurodyta
   pagrindžia:
     - t-002
     - t-005
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/Prūsijos žemė]]
-- [[objektai/asmenys/Sventopelkas]]
-- [[objektai/grupes/Teutonai]]
-- [[objektai/zodynas/naujakrikščiai]]
-- [[objektai/grupes/Krikščionys]]
-- [[objektai/autoriai/J. Poverskis]]
-- [[objektai/autoriai/Powierski J]]

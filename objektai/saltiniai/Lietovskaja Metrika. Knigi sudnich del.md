@@ -29,6 +29,11 @@ LMS = Litovskaja Metrika.
 - t-001
   global_id: t-29917
   teiginys: '„Litovskaja Metrika. Knigi sudnich del“ P. A. Hiltebrantas išleido 1903 m. Petrapilyje, „Russkaja Istoričeskaja Biblioteka“ 20 tome.'
+  sudarymo_pagrindimas: 'Citata palaiko konkrečią bibliografinę informaciją apie šaltinio leidimą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Petrapilis'
+  temporaliniai_duomenys: 'įvykio data: 1903 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko konkrečią bibliografinę informaciją apie šaltinio leidimą.'
   pagrindžia:
     - c-001
 

@@ -28,6 +28,8 @@ Bet jam nesisekė, ir jo įkurtoji Dobryniaus riterių brolija neturėjo jėgos.
 - t-001
   global_id: t-99990
   teiginys: 'Kristijono įkurtoji Dobryniaus riterių brolija neturėjo jėgos.'
+  sudarymo_pagrindimas: 'Pašalinta kontekstinė pradžia ir aiškiai įvardytas steigėjas.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_place: Dobryniaus'
   pagrindžia:
     - c-001
 
@@ -46,7 +48,3 @@ Bet jam nesisekė, ir jo įkurtoji Dobryniaus riterių brolija neturėjo jėgos.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Kristijonas]]

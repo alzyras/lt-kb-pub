@@ -23,6 +23,8 @@ Dusburgietis teigia, kad kunigaikščio kariaunos vadas susigrūmė su broliu Fr
 - t-001
   global_id: t-60278
   teiginys: 'Fridrichas iš Veidos susigrūmė su Sventopelko kariaunos vadu; šis perdūrė jam žandą ietimi, tačiau Fridrichas jį nukovė.'
+  sudarymo_pagrindimas: 'Pradinis teiginys remiasi citata, bet reikia aiškesnio sakinio be boilerplate pradžios.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Elbingas; mentioned_place: Svečė'
   pagrindžia:
     - c-001
 
@@ -44,9 +46,3 @@ Dusburgietis teigia, kad kunigaikščio kariaunos vadas susigrūmė su broliu Fr
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Fridrichas]]
-- [[objektai/asmenys/Sventopelkas]]
-- [[objektai/zodynas/ginklanešiai]]

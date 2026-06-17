@@ -20,6 +20,7 @@ tags:
 - t-001
   global_id: t-31640
   teiginys: 'CDPr III tomo 134 numeris nurodytas 180 puslapyje.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
   pagrindžia:
     - c-001
 

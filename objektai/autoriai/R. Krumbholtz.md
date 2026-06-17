@@ -21,7 +21,7 @@ periodo_grupes:
 
 ## Santrauka
 
-R. Krumbholtzas rašė apie įvykius po 1398 m. taikos.
+Krumbholtz : KrSO, 121 sqq.
 
 ## Teiginiai
 
@@ -29,9 +29,14 @@ R. Krumbholtzas rašė apie įvykius po 1398 m. taikos.
 - t-001
   global_id: t-100120
   teiginys: 'R. Krumbholtzas rašė apie įvykius po 1398 m. taikos.'
+  sudarymo_pagrindimas: 'Pradinis tekstas yra nuorodos fragmentas; citata paremia tik bendrą faktą apie aptartą temą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/autoriai/J. Voigt|J. Voigt]]'
+  temporaliniai_duomenys: 'įvykio data: po 1398 m.; įvykio data: 1398 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis tekstas yra nuorodos fragmentas; citata paremia tik bendrą faktą apie aptartą temą.'
   pagrindžia:
     - c-001
-
+- susijęs iš J. Jakštas, Jogailos ir Vytauto kovos su vokiečių ordinu: J. Jakšto „Jogailos ir Vytauto kovos su vokiečių ordinu“ nurodomas JoŠ rinkinyje nuo 139 puslapio.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -50,7 +55,3 @@ R. Krumbholtzas rašė apie įvykius po 1398 m. taikos.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Vokiečiai]]

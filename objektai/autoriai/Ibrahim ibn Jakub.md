@@ -20,6 +20,11 @@ Keliautojas ir pirklys iš arabiškos Ispanijos, žydas Ibrahim ibn Jakub, per v
 - t-001
   global_id: t-100109
   teiginys: 'Keliautojas ir pirklys iš arabiškos Ispanijos, žydas Ibrahim ibn Jakub, per vakarų Europą atvykęs iki Baltijos jūros (Wismar), 973 m. savo kelionių aprašyme prūsus vadino « Burūs ».'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys ir atitinka citatos informaciją.'
+  susije_objektai: 'mentioned_place: Baltija; mentioned_place: Europa; mentioned_place: Prūsai'
+  temporaliniai_duomenys: 'įvykio data: 973 m'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys ir atitinka citatos informaciją.'
   pagrindžia:
     - c-001
 

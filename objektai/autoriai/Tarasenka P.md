@@ -30,6 +30,8 @@ Dusburgietis teigia, kad rogajny), o rytiniame — prie Vištyčio miestelio —
 - t-001
   global_id: t-64857
   teiginys: 'P. Tarasenkos veikale „Pėdos“ Velnių stalo vieta žemėlapyje pažymėta netiksliai.'
+  sudarymo_pagrindimas: 'Citata pagrindžia faktą apie Tarasenkos veikalo žemėlapio netikslumą.'
+  susije_objektai: 'mentioned_place: Kreiviai'
   pagrindžia:
     - c-001
 
@@ -37,6 +39,8 @@ Dusburgietis teigia, kad rogajny), o rytiniame — prie Vištyčio miestelio —
 - t-002
   global_id: t-64858
   teiginys: 'P. Tarasenka cituojamas kaip šaltinis apie žmonių stebuklingu laikytą akmenį prie Vištyčio miestelio.'
+  sudarymo_pagrindimas: 'Citata palaiko autoriaus siejimą su konkrečiu faktu, o pradinis tekstas yra fragmentiškas.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/P. Tarasenka|P. Tarasenka]]; mentioned_place: Kaimas'
   pagrindžia:
     - c-002
 
@@ -69,7 +73,3 @@ Dusburgietis teigia, kad rogajny), o rytiniame — prie Vištyčio miestelio —
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/žemėlapis]]

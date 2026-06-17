@@ -42,6 +42,11 @@ Nenurodyta
 - t-001
   global_id: t-20453
   teiginys: '1967 m. litvakų palikuonis Christiaan Barnard Pietų Afrikos Respublikoje atliko pirmąją pasaulyje žmogaus širdies persodinimo operaciją.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas, faktinis ir pagrįstas citatos informacija.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Litvakai|Litvakai]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_person: [[objektai/asmenys/Christiaan Barnard|Christiaan Barnard]]; mentioned_person: [[objektai/asmenys/Frank Lubin|Frank Lubin]]; mentioned_person: [[objektai/asmenys/Jack Sharkey|Jack Sharkey]]; mentioned_person: [[objektai/asmenys/Johnny Unitas|Johnny Unitas]]; mentioned_person: [[objektai/asmenys/Louis Washkansky|Louis Washkansky]]; mentioned_person: [[objektai/asmenys/Marcinkevičius|Marcinkevičius]]; mentioned_person: [[objektai/asmenys/Vitas|Vitas]]; mentioned_place: Afrika; mentioned_place: Europa; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1967 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas, faktinis ir pagrįstas citatos informacija.'
   pagrindžia:
     - c-001
 
@@ -65,18 +70,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/asmenys/Christiaan Barnard]]
-- [[objektai/asmenys/Frank Lubin]]
-- [[objektai/asmenys/Jack Sharkey]]
-- [[objektai/asmenys/Johnny Unitas]]
-- [[objektai/grupes/Litvakai]]
-- [[objektai/asmenys/Louis Washkansky]]
-- [[objektai/asmenys/Marcinkevičius]]
-- [[objektai/asmenys/Vitas]]
-- [[objektai/zodynas/Adynos|adynos]]
-- [[objektai/asmenys/Algimantas Marcinkevičius]]
-- [[objektai/asmenys/Vytautas Sirvydis]]

@@ -41,6 +41,8 @@ Nenurodyta
 - t-001
   global_id: t-87279
   teiginys: 'Pabaisko bažnyčios fundacija nustatė, kad jos ribose negali būti kitų karčemų, išskyrus priklausančias Pabaisko bažnyčiai.'
+  sudarymo_pagrindimas: 'Citata tiesiogiai palaiko karčemų monopolio taisyklę, o pradinis teiginys su puslapio ir lotyniško fragmento triukšmu.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/filija|filija]]; mentioned_object: [[objektai/zodynas/fundacija|fundacija]]; mentioned_object: [[objektai/zodynas/luomas|luomas]]'
   pagrindžia:
     - c-001
 
@@ -76,10 +78,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/filija]]
-- [[objektai/zodynas/fundacija]]
-- [[objektai/zodynas/luomas]]
-- [[objektai/zodynas/karčema smuklininkas gėrimų pilstymas]]

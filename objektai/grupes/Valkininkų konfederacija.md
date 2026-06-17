@@ -24,7 +24,7 @@ amziai:
 
 ## Santrauka
 
-Valkininkų nutarimu buvo įkurta LDK bajorijos generalinė konfederacija, suformuoti ypatingieji LDK valdžios organai ir nuspręsta konfiskuoti Sapiegų dvarus. Valkininkų konfederacijos raštas buvo datuotas 1700 m. lapkričio 24 d. Valkininkuose, nors iš tikro surašytas vėliau. Vykdant Valkininkų nutarimą, Šnipiškių stovykloje buvo iš esmės suformuota nauja 7500 etatinių vienetų LDK kariuomenė.
+Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunaikinti Sapiegos. Jis datuotas Valkininkuose 1700 m. lapkričio 24 d., t. Ten pat, Valkininkuose, visus Sapiegas ji paskelbė krašto išdavikais, jų dvarus konfiskuotais, jų turėtus urėdus atimtais.
 
 ## Teiginiai
 
@@ -32,6 +32,11 @@ Valkininkų nutarimu buvo įkurta LDK bajorijos generalinė konfederacija, sufor
 - t-001
   global_id: t-78531
   teiginys: 'Valkininkų nutarimu buvo įkurta LDK bajorijos generalinė konfederacija, suformuoti ypatingieji LDK valdžios organai ir nuspręsta konfiskuoti Sapiegų dvarus.'
+  sudarymo_pagrindimas: 'Citata pagrindžia nutarimą konfiskuoti Sapiegų dvarus, todėl formuluotė turi atspindėti sprendimą.'
+  susije_objektai: 'mentioned_place: Valkininkai'
+  temporaliniai_duomenys: 'įvykio data: 1700 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia nutarimą konfiskuoti Sapiegų dvarus, todėl formuluotė turi atspindėti sprendimą.'
   pagrindžia:
     - c-001
 
@@ -39,6 +44,11 @@ Valkininkų nutarimu buvo įkurta LDK bajorijos generalinė konfederacija, sufor
 - t-002
   global_id: t-78532
   teiginys: 'Valkininkų konfederacijos raštas buvo datuotas 1700 m. lapkričio 24 d. Valkininkuose, nors iš tikro surašytas vėliau.'
+  sudarymo_pagrindimas: 'Patikslintas objektas ir suformuotas savarankiškas sakinys.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/konfederacija|konfederacija]]; mentioned_place: Valkininkai'
+  temporaliniai_duomenys: 'įvykio data: 1700 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Patikslintas objektas ir suformuotas savarankiškas sakinys.'
   pagrindžia:
     - c-003
 
@@ -46,6 +56,11 @@ Valkininkų nutarimu buvo įkurta LDK bajorijos generalinė konfederacija, sufor
 - t-003
   global_id: t-78533
   teiginys: 'Vykdant Valkininkų nutarimą, Šnipiškių stovykloje buvo iš esmės suformuota nauja 7500 etatinių vienetų LDK kariuomenė.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, užbaigtas ir tiksliai perteikia citatos faktą.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.)|Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.)]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Respublikonai|Respublikonai]]; mentioned_object: [[objektai/zodynas/hegemonija|hegemonija]]; mentioned_place: Valkininkai; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: po 1700 m.; įvykio data: 1700 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, užbaigtas ir tiksliai perteikia citatos faktą.'
   pagrindžia:
     - c-002
 
@@ -115,12 +130,3 @@ Valkininkų nutarimu buvo įkurta LDK bajorijos generalinė konfederacija, sufor
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuvos kariuomenė]]
-- [[objektai/grupes/Respublikonai]]
-- [[objektai/ivykiai/Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.)]]
-- [[objektai/zodynas/hegemonija]]
-- [[objektai/zodynas/konfederacija]]
-- [[objektai/ivykiai/Valkininkų konfederacijos nutarimas (1700 m.)]]

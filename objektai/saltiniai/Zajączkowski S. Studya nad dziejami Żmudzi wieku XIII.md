@@ -32,6 +32,8 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
 - t-001
   global_id: t-60862
   teiginys: 'Zajączkowskio veikalas nurodomas tarp šaltinių, Bebirvaitės pilį lokalizuojančių prie Bebirvyčio upelio netoli Bebirvų kaimo.'
+  sudarymo_pagrindimas: 'Citata palaiko lokalizacijos teiginį ir leidžia pašalinti neaiškų žodį „čia“.'
+  susije_objektai: 'mentioned_place: Kaimas'
   pagrindžia:
     - c-005
 
@@ -39,6 +41,8 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
 - t-002
   global_id: t-60863
   teiginys: 'S. Zajączkowskio „Studya nad dziejami Żmudzi wieku XIII“ remiama nustatant Paštuvos valsčiaus centro, Paštuvos pilies, vietą.'
+  sudarymo_pagrindimas: 'Citata leidžia teigti, kad šaltinis naudojamas Paštuvos pilies lokalizacijai pagrįsti.'
+  susije_objektai: 'mentioned_place: Kaimas; mentioned_place: Kulautuva; mentioned_place: Nemunas; mentioned_place: Nevėžis; mentioned_place: Paštuvos valsčius; mentioned_place: Vilkija'
   pagrindžia:
     - c-007
 
@@ -46,6 +50,8 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
 - t-003
   global_id: t-60864
   teiginys: 'S. Zajączkowskio „Studya nad dziejami Żmudzi wieku XIII“ minima lyginant Ordino pilies vietą prie Maštaičių piliakalnio.'
+  sudarymo_pagrindimas: 'Citata šaltinį mini kaip palyginimą prie Ordino pilies lokalizacijos.'
+  susije_objektai: 'mentioned_place: Nemunas'
   pagrindžia:
     - c-004
 
@@ -53,6 +59,8 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
 - t-004
   global_id: t-60865
   teiginys: 'Zajączkowskio veikalas nurodomas tarp šaltinių, Kolainių pilį siejančių su Kalnėnais į vakarus nuo Jurbarko.'
+  sudarymo_pagrindimas: 'Citata palaiko aiškų teiginį apie šaltinio naudojimą Kolainių pilies lokalizacijai.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalnėnai|Kalnėnai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Jurbarkas; mentioned_place: Kolainiai; mentioned_place: Kolainių pilis; mentioned_place: Mituva; mentioned_place: Nemunas; mentioned_place: Ragainė'
   pagrindžia:
     - c-006
 
@@ -60,6 +68,8 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
 - t-005
   global_id: t-60866
   teiginys: 'Zajączkowskio veikalas nurodomas tarp šaltinių, Pieštvės pilį lokalizuojančių Seredžiaus vakariniame pakraštyje prie Pieštvės upelio.'
+  sudarymo_pagrindimas: 'Pirminis teiginys buvo fragmentiškas, bet citata palaiko lokalizacijos teiginį.'
+  susije_objektai: 'mentioned_place: Nemunas; mentioned_place: Pieštvė'
   pagrindžia:
     - c-003
 
@@ -67,6 +77,11 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
 - t-006
   global_id: t-60867
   teiginys: 'S. Zajączkowskio „Studya nad dziejami Żmudzi wieku XIII“ siejama su Kalsheimo lauko lokalizavimu į vakarus nuo Veliuonos.'
+  sudarymo_pagrindimas: 'Citata patvirtina, kad šaltinis minimas prie Kalsheimo lauko lokalizacijos.'
+  susije_objektai: 'mentioned_place: Veliuona'
+  temporaliniai_duomenys: 'įvykio data: 1415 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata patvirtina, kad šaltinis minimas prie Kalsheimo lauko lokalizacijos.'
   pagrindžia:
     - c-008
 
@@ -74,6 +89,8 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
 - t-007
   global_id: t-60868
   teiginys: 'Zajączkowskio veikalas nurodomas tarp šaltinių, patikimiau lokalizuojančių minimą vietą buvusioje Pagraudės teritorijoje prie Graumenos.'
+  sudarymo_pagrindimas: 'Citata palaiko atsargų teiginį apie lokalizacijos bandymą, tačiau pirminis tekstas buvo fragmentas.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Pagraudė'
   pagrindžia:
     - c-001
 
@@ -81,6 +98,8 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
 - t-008
   global_id: t-60869
   teiginys: 'S. Zajączkowskio „Studya nad dziejami Żmudzi wieku XIII“ minima aiškinant, kad Junigedos valsčiaus centras buvo Veliuona.'
+  sudarymo_pagrindimas: 'Citata sieja šaltinį su Junigedos ir Veliuonos lokalizacijos aiškinimu.'
+  susije_objektai: 'mentioned_place: Junigeda; mentioned_place: Nemunas; mentioned_place: Veliuona'
   pagrindžia:
     - c-002
 

@@ -41,6 +41,9 @@ Nenurodyta
 - t-001
   global_id: t-62706
   teiginys: 'Prūsų krašte nebuvo leidžiama elgetauti, o pavargėliai galėjo vaikščioti nuo namo prie namo ir valgyti kada tinkami.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys iš esmės pagrįstas, bet reikia aiškiai įvardyti prūsus vietoje įvardžio.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
     - c-002
@@ -78,8 +81,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Namas]]
-- [[objektai/paprociai/Žmonų išpirka ir žmonos tarnystės pareigos Dusburgiečio vaizde]]

@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Michałas Balińskis Žygimanto Augusto laikus Vilniuje vadino aukso amžiumi, o jo mirtį - visuotinio sielvarto ir sunkios netekties diena.
+Žygimanto Augusto laikai Vilniui buvo aukso amžius, o jo mirtis - visuotinio sielvarto ir sunkios netekties diena.
 
 ## Teiginiai
 
@@ -21,6 +21,8 @@ Michałas Balińskis Žygimanto Augusto laikus Vilniuje vadino aukso amžiumi, o
 - t-001
   global_id: t-86876
   teiginys: 'Michałas Balińskis Žygimanto Augusto laikus Vilniuje vadino aukso amžiumi, o jo mirtį - visuotinio sielvarto ir sunkios netekties diena.'
+  sudarymo_pagrindimas: 'Citata perteikia autoriaus vertinimą, todėl teiginiui reikia aiškios šaltinio atribucijos.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lenkija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -47,9 +49,3 @@ Michałas Balińskis Žygimanto Augusto laikus Vilniuje vadino aukso amžiumi, o
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Augustas]]
-- [[objektai/asmenys/Ona Vytautienė]]
-- [[objektai/asmenys/Žygimantas]]

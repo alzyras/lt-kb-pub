@@ -26,6 +26,11 @@ Radijo stotys gautos iš Dariaus ir Girėno skraidymo klubo.
 - t-001
   global_id: t-78164
   teiginys: 'Aukščiausiosios Tarybos gynybai radijo stotys buvo gautos iš Dariaus ir Girėno skraidymo klubo.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis)|Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis)]]; mentioned_group: [[objektai/grupes/DOSAAF|DOSAAF]]; mentioned_place: Aukščiausiosios Tarybos rūmai'
+  temporaliniai_duomenys: 'įvykio data: 1991 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -52,8 +57,3 @@ Radijo stotys gautos iš Dariaus ir Girėno skraidymo klubo.
   pagrindžia:
     - t-001
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis)]]
-- [[objektai/grupes/DOSAAF]]

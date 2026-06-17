@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-„Užsienio Lietuvių Spaudos Metraštis“ rodyklėje nurodytas 17 puslapyje.
+148 Uturiai, prie Betygalos 177 Uzbekas, chanas 183, 241, 242 Užnemunė 61, 78, 95, 96, 105, 108, 254, 326 Užpaliai 118 Užsienio Lietuvių Spaudos Metraštis 17 Vaclovas, Čekijos karalius 336, 356, žr.
 
 ## Teiginiai
 
@@ -21,6 +21,8 @@ tags:
 - t-001
   global_id: t-100220
   teiginys: '„Užsienio Lietuvių Spaudos Metraštis“ rodyklėje nurodytas 17 puslapyje.'
+  sudarymo_pagrindimas: 'Citata yra rodyklės fragmentas ir pagrindžia tik puslapio nuorodą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_person: [[objektai/asmenys/Butautas|Butautas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/autoriai/Motiejus Valančius|Motiejus Valančius]]; mentioned_person: [[objektai/asmenys/Vaclovas|Vaclovas]]; mentioned_person: [[objektai/asmenys/Vaišelga|Vaišelga]]; mentioned_place: Betygala; mentioned_place: Kaimas; mentioned_place: Ukraina; mentioned_place: Upytė; mentioned_place: Užnemunė; mentioned_place: Užpaliai; mentioned_place: Vaišvilčiai; mentioned_place: Čekija'
   pagrindžia:
     - c-001
 

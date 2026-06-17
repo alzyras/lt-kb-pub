@@ -42,6 +42,8 @@ Nenurodyta
 - t-001
   global_id: t-62294
   teiginys: 'Hospitaljerai užėmė Rodo salą, kurioje gyveno turkai, ir penkias kitas salas.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
 

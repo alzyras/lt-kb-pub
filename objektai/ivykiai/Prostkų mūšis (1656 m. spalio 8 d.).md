@@ -5,6 +5,7 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1000 m.'
+  - '1656 m.'
   - '2000 m.'
 date_start: '1000'
 date_end: '2000'
@@ -20,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Prostkų mūšyje Švedijos ir Brandenburgo pajėgas pasitiko Lietuvos lauko etmono Vincento Gosievskio vadovaujama kariuomenė. Prostkų mūšyje priešo nuostoliai buvo apie 5500 karių. 1656 m. spalio 8 d. Prostkų mūšyje kariuomenės suartėjo ties Prostkais, skiriamos Elko upės.
+Mūšis aprašomas kaip lietuvių puolimas prieš besitraukiančias Švedijos ir Brandenburgo pajėgas ties Prostkais. Tekste išskiriamas apgaulingas lietuvių atsitraukimo manevras, priešo puolimo sužlugdymas ir Boguslavo Radvilos patekimą į nelaisvę. 1656 m. spalio 8 d. ties Prostkais Lietuvos pajėgos pasitiko besitraukiančias Švedijos ir Brandenburgo pajėgas Lietuviai apgaulingu atsitraukimo manevru išviliojo brandenburgiečius persikelti į kitą krantą, o priešo įsikišimas buvo sutrukdytas.
 
 ## Laikotarpis ir datos
 
@@ -44,6 +45,8 @@ Nenurodyta
 - t-001
   global_id: t-78632
   teiginys: 'Prostkų mūšyje Švedijos ir Brandenburgo pajėgas pasitiko Lietuvos lauko etmono Vincento Gosievskio vadovaujama kariuomenė.'
+  sudarymo_pagrindimas: 'Perrašyta glaudžiau ir aiškiau susiejant faktą su mūšiu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/raitarai|raitarai]]; mentioned_person: [[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas|Georgas (liet. Jurgis) Zauerveinas]]; mentioned_person: [[objektai/asmenys/Walenrodto|Walenrodto]]; mentioned_place: Krymas; mentioned_place: Lietuva; mentioned_place: Prostkai; mentioned_place: Prūsai; mentioned_place: Švedija'
   pagrindžia:
     - c-001
 
@@ -51,6 +54,7 @@ Nenurodyta
 - t-002
   global_id: t-78633
   teiginys: 'Prostkų mūšyje priešo nuostoliai buvo apie 5500 karių.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Prostkai'
   pagrindžia:
     - c-002
 
@@ -58,6 +62,11 @@ Nenurodyta
 - t-003
   global_id: t-78634
   teiginys: '1656 m. spalio 8 d. Prostkų mūšyje kariuomenės suartėjo ties Prostkais, skiriamos Elko upės.'
+  sudarymo_pagrindimas: 'Perrašyta į aiškų enciklopedinį sakinį apie mūšio eigą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_place: Prostkai'
+  temporaliniai_duomenys: 'įvykio data: 1656 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Perrašyta į aiškų enciklopedinį sakinį apie mūšio eigą.'
   pagrindžia:
     - c-004
 
@@ -65,6 +74,9 @@ Nenurodyta
 - t-004
   global_id: t-78635
   teiginys: '1656 m. spalio 8 d. ties Prostkais Lietuvos pajėgos pasitiko besitraukiančias Švedijos ir Brandenburgo pajėgas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/raitarai|raitarai]]; mentioned_person: [[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas|Georgas (liet. Jurgis) Zauerveinas]]; mentioned_person: [[objektai/asmenys/Walenrodto|Walenrodto]]; mentioned_place: Krymas; mentioned_place: Lietuva; mentioned_place: Prostkai; mentioned_place: Prūsai; mentioned_place: Švedija'
+  temporaliniai_duomenys: 'įvykio data: 1656 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -72,6 +84,8 @@ Nenurodyta
 - t-005
   global_id: t-78636
   teiginys: 'Prostkų mūšyje lietuviai apgaulingu atsitraukimo manevru išviliojo brandenburgiečius persikelti į kitą Elko upės krantą.'
+  sudarymo_pagrindimas: 'Palikta tik citatos aiškiai pagrįsta dalis ir susieta su mūšiu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_place: Prostkai'
   pagrindžia:
     - c-004
 
@@ -79,9 +93,13 @@ Nenurodyta
 - t-006
   global_id: t-78637
   teiginys: 'Prostkų mūšyje pagrindinės V. Gosievskio pajėgos užpuolė ir sumušė brandenburgiečius, o Boguslavas Radvila pateko į nelaisvę.'
+  sudarymo_pagrindimas: 'Teiginys susietas su įvykiu ir išlaiko citatos pagrindžiamus faktus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Prostkai'
   pagrindžia:
     - c-003
-
+- susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
+- susijęs iš [[objektai/ivykiai/Švedijos karo paskelbimas ATR (1655 m.).md#claim-t-183679|Švedijos karo paskelbimas ATR (1655 m.)]]: 1655 m. Švedija paskelbė karą Abiejų Tautų Respublikai ir per trumpą laiką užėmė Žemaitiją bei didelę dalį Lenkijos.
+- susijęs iš [[objektai/ivykiai/Švedijos karo paskelbimas ATR (1655 m.).md#claim-t-39158|Švedijos karo paskelbimas ATR (1655 m.)]]: 1655 m. Švedija paskelbė karą Abiejų Tautų Respublikai ir per trumpą laiką užėmė Žemaitiją bei didelę dalį Lenkijos.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -171,16 +189,3 @@ Nenurodyta
   pagrindžia:
     - t-003
     - t-005
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Radvila]]
-- [[objektai/grupes/Radvilos]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/asmenys/Walenrodto]]
-- [[objektai/zodynas/raitarai]]
-- [[objektai/grupes/Švedai]]
-- [[objektai/autoriai/Karolis Zikaras]]
-- [[objektai/ivykiai/Švedijos karo paskelbimas ATR (1655 m.)]]

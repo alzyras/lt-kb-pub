@@ -22,9 +22,11 @@ Seremetjevas (apie 15000 karių) užėmė Polocką ir Dysną, A.
 - t-001
   global_id: t-40482
   teiginys: 'Rusų karvedys V. B. Seremetjevas su maždaug 15 000 karių užėmė Polocką ir Dysną.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiksliai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Gomelis; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Minskas; mentioned_place: Mstislavlis; mentioned_place: Polockas; mentioned_place: Švedija'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/A. N. Trubeckojus.md#claim-t-39979|A. N. Trubeckojus]]: A. N. Trubeckojaus kariuomenė, turėjusi apie 15000 karių, užėmė Mstislavlį ir žygiavo Lietuvos gilumon Minsko link.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -55,10 +57,3 @@ Seremetjevas (apie 15000 karių) užėmė Polocką ir Dysną, A.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/karvedys]]
-
-### Susiję objektai
-- [[objektai/grupes/Rusai]]

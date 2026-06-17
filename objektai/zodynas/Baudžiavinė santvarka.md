@@ -31,6 +31,11 @@ Jau karo su Turkija ir jos sąjungininkais (1853-1856 ) metu Rusijos carinė vyr
 - t-001
   global_id: t-38746
   teiginys: 'Per 1853-1856 m. karą su Turkija Rusijos carinė vyriausybė baudžiavinę santvarką laikė didžiausia kliūtimi šalies ūkiui ir nusprendė ją panaikinti.'
+  sudarymo_pagrindimas: 'Reikia sutrumpinti ir pašalinti netvarkingą datos rašybą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Baudžiava|Baudžiava]]; mentioned_place: Rusija; mentioned_place: Turkija'
+  temporaliniai_duomenys: 'įvykio data: 1853-1856; įvykio data: 1856 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia sutrumpinti ir pašalinti netvarkingą datos rašybą.'
   pagrindžia:
     - c-001
 
@@ -38,6 +43,14 @@ Jau karo su Turkija ir jos sąjungininkais (1853-1856 ) metu Rusijos carinė vyr
 - t-002
   global_id: t-183706
   teiginys: 'Per 1853-1856 m. karą su Turkija Rusijos carinė vyriausybė baudžiavinę santvarką laikė didžiausia kliūtimi šalies ūkiui.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys sutrumpintas ir pašalintas perteklinis formulavimas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Baudžiava|Baudžiava]]; mentioned_object: [[objektai/zodynas/Lažas|Lažas]]; mentioned_place: Rusija; mentioned_place: Turkija'
+  temporaliniai_duomenys: 'įvykio data: 1853-1856; įvykio data: 1856 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys sutrumpintas ir pašalintas perteklinis formulavimas.'
   pagrindžia:
     - c-002
 
@@ -87,8 +100,3 @@ Jau karo su Turkija ir jos sąjungininkais (1853-1856 ) metu Rusijos carinė vyr
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Baudžiava]]
-- [[objektai/zodynas/Lažas|lažas]]

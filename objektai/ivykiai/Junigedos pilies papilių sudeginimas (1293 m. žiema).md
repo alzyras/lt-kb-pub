@@ -44,6 +44,12 @@ Nenurodyta
 - t-001
   global_id: t-62301
   teiginys: '1293 m. žiemą magistras su kariuomene užpuolė Junigedos pilį, išžudė daug žmonių ir sudegino du jos papilius.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pradinė formuluotė nutrūkusi ir turi perteklinio kronikos stiliaus; citata palaiko glaustą faktą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Junigeda; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1293 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinė formuluotė nutrūkusi ir turi perteklinio kronikos stiliaus; citata palaiko glaustą faktą.'
   pagrindžia:
     - c-001
 
@@ -70,8 +76,3 @@ Nenurodyta
   pagrindžia:
     - t-001
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/papilys]]

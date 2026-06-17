@@ -3,6 +3,10 @@ tipas: grupe
 pavadinimas: 'Rygos kapitula'
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+datos:
+  - '1323 m.'
+date_start: '1323'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -10,6 +14,8 @@ tags:
   - karalius
   - ordinas
   - popiežius
+amziai:
+  - 'XIV'
 ---
 # Rygos kapitula
 
@@ -23,6 +29,11 @@ Be išsamaus išvar­ dijimo taikos sutarties tarpininkų, arkivyskupo ir Rygos 
 - t-001
   global_id: t-86747
   teiginys: 'Rygos kapitula minima tarp 1323 m. Vilniuje sudarytos taikos sutarties tarpininkų.'
+  sudarymo_pagrindimas: 'Citata tiksliai pagrindžia Rygos kapitulos vaidmenį sutarties kontekste.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/nuorašas|nuorašas]]; mentioned_place: Dorpatas; mentioned_place: Mintauja; mentioned_place: Ryga; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1323 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata tiksliai pagrindžia Rygos kapitulos vaidmenį sutarties kontekste.'
   pagrindžia:
     - c-001
 
@@ -30,6 +41,8 @@ Be išsamaus išvar­ dijimo taikos sutarties tarpininkų, arkivyskupo ir Rygos 
 - t-002
   global_id: t-86748
   teiginys: 'Popiežius nusprendė, kad Kryžiuočių ordino riteriai turi Rygos kapitulai grąžinti paimtą turtą ir jos nebepuldinėti.'
+  sudarymo_pagrindimas: 'Citata tiesiogiai palaiko sprendimą dėl Rygos kapitulos; sutrumpinta nutrūkusi citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_place: Palenkė; mentioned_place: Ryga'
   pagrindžia:
     - c-002
 
@@ -84,13 +97,3 @@ Be išsamaus išvar­ dijimo taikos sutarties tarpininkų, arkivyskupo ir Rygos 
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lotynai]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/kapitula]]
-- [[objektai/zodynas/komtūras]]
-- [[objektai/zodynas/nuorašas]]
-- [[objektai/grupes/Rygos vyskupija Rygos Bažnyčia]]

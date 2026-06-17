@@ -47,6 +47,8 @@ Nenurodyta
 - t-001
   global_id: t-87022
   teiginys: 'Bernardinų bažnyčia dėl menkų pamatų grėsė griūtimi, todėl buvo iš naujo pamūryta prisidėjus Vilniaus vaivadai Mikalojui Radvilai.'
+  sudarymo_pagrindimas: 'Pradinis tekstas buvo fragmentas, o citata palaiko aiškų faktą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/maršalka|maršalka]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Bernardinų bažnyčia Vilniuje; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -54,6 +56,11 @@ Nenurodyta
 - t-002
   global_id: t-87023
   teiginys: '1500 m. karalius Aleksandras įsakė nugriauti prie bernardinų vienuolyno buvusį savo malūną, nes jo drebėjimas judino pastatų pamatus.'
+  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir suformuotas aiškus sakinys.'
+  susije_objektai: 'territory: Borisovas; mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_person: [[objektai/asmenys/Korčiakas|Korčiakas]]; mentioned_place: Borisovas'
+  temporaliniai_duomenys: 'valdymo laikotarpis: 1500 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Aleksandras Jogailaitis buvo valdovas Borisovas“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas OCR triukšmas ir suformuotas aiškus sakinys.'
   pagrindžia:
     - c-001
 
@@ -106,15 +113,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Aleksandras]]
-- [[objektai/asmenys/Aleksandras Jogailaitis]]
-- [[objektai/asmenys/Korčiakas]]
-- [[objektai/daiktai/Malūnas]]
-- [[objektai/zodynas/kunigas]]
-- [[objektai/zodynas/maršalka]]
-- [[objektai/zodynas/vaivada]]
-- [[objektai/grupes/Bernardinų ordinas]]
-- [[objektai/asmenys/Mikalojus Radvila II]]

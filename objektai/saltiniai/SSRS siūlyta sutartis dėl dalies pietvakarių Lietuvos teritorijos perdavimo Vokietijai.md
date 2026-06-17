@@ -14,7 +14,7 @@ tags:
 
 ## Santrauka
 
-Spalio 3 d. Maskvoje Josifas Stalinas spaudė J. Urbšį pasirašyti sutartį dėl dalies pietvakarių Lietuvos teritorijos perdavimo Vokietijai.
+Urbšį pasirašyti savitarpio pagalbos sutartį, sutartį dėl Vilniaus ir Vilniaus krašto perdavimo ir sutartį dėl dalies pietvakarių Lietuvos teritorijos perdavimo Vokietijai.
 
 ## Teiginiai
 
@@ -22,6 +22,8 @@ Spalio 3 d. Maskvoje Josifas Stalinas spaudė J. Urbšį pasirašyti sutartį d�
 - t-001
   global_id: t-21251
   teiginys: 'Spalio 3 d. Maskvoje Josifas Stalinas spaudė J. Urbšį pasirašyti sutartį dėl dalies pietvakarių Lietuvos teritorijos perdavimo Vokietijai.'
+  sudarymo_pagrindimas: 'Reikia palikti tik citatos remiamą formą ir nevartoti nepagrįstai išplėsto vardo.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/demobilizacija|demobilizacija]]; mentioned_person: [[objektai/asmenys/Josifas Stalinas|Josifas Stalinas]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Vilnius; mentioned_place: Vokietija'
   pagrindžia:
     - c-001
 

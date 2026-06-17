@@ -10,16 +10,17 @@ date_start: '1700'
 date_end: '1721'
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XVII'
-  - 'XVIII'
-periodo_grupes:
-  - 'LDK'
 tags:
   - asmuo
   - karalius
   - karas
   - kunigaikštis
+  - sutartis
+amziai:
+  - 'XVII'
+  - 'XVIII'
+periodo_grupes:
+  - 'LDK'
 ---
 # Karolis XII
 
@@ -28,10 +29,16 @@ tags:
 Kai Augustas II su Petru I padarė sutartį atimti iš Švedų Baltijos pajūrį, tuo metu Švedų karalium buvo jaunutis Karolis XII; jam tebuvo vos 18 metų amžiaus. Tada Karolis XII, pasiskelbęs esąs puolamas, su visa savo kariuomene užėmė Žemaitiją, Kauną, Vilnių (1702 m.) ir nužygiavo į Lenkiją, ketindamas Augusto vietoje pastatyti kitą karalių. Švedų karalius Karolis XII, išvijęs ją iš Livonijos, įsiveržė iš pradžių į Lietuvą, o paskui ir į Lenkiją.
 
 ## Teiginiai
+
 <a id="claim-t-171586"></a>
 - t-001
   global_id: t-171586
   teiginys: 'Nugalėjęs Augustą II, Karolis XII 1708 m. puolė Rusiją, bet 1709 m. buvo nugalėtas prie Poltavos ir pralaimėjo karą.'
+  sudarymo_pagrindimas: 'Sutvarkyta OCR rašyba ir stilius, nekeičiant citatos faktų.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Saksonija'
+  temporaliniai_duomenys: 'įvykio data: 1706 m.; įvykio data: 1708 m.; įvykio data: 1709 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Sutvarkyta OCR rašyba ir stilius, nekeičiant citatos faktų.'
   pagrindžia:
     - c-001
 
@@ -39,10 +46,15 @@ Kai Augustas II su Petru I padarė sutartį atimti iš Švedų Baltijos pajūrį
 - t-002
   global_id: t-171587
   teiginys: 'Dalis Livonijos aristokratijos, nepatenkintos Karolio XII valdymu, rėmė Augusto II siekius.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus ir tiesiogiai paremtas pateikta citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Saksonija; mentioned_place: Švedija'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/asmenys/Augustas II.md#claim-t-78953|Augustas II]]: 1697 m. ATR valdovu išrinktas Saksonijos kurfiurstas Augustas II siekė ATR paversti absoliutine monarchija.
+- susijęs iš Altrandštato taika (1706 m.): 1706 m. Augustas Altrandštate sudarė taiką su Karoliu, atsisakė Respublikos sosto ir pripažino Leščinskį karaliumi.
+- susijęs iš Altrandštatas: 1706 m. Augustas Altrandštate sudarė taiką su Karoliu, atsisakė Respublikos sosto ir pripažino Leščinskį karaliumi.
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Nugalėjęs Augustą II, Karolis XII 1708 m. puolė Rusiją, bet 1709 m. buvo nugalėtas prie Poltavos ir pralaimėjo karą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -59,6 +71,7 @@ Kai Augustas II su Petru I padarė sutartį atimti iš Švedų Baltijos pajūrį
   statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Dalis Livonijos aristokratijos, nepatenkintos Karolio XII valdymu, rėmė Augusto II siekius.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -80,9 +93,3 @@ Kai Augustas II su Petru I padarė sutartį atimti iš Švedų Baltijos pajūrį
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Švedai]]
-- [[objektai/ivykiai/Karolio XII žygis į Rusiją ir Poltavos mūšis (1709 m.)]]
-- [[objektai/ivykiai/Karolio XII žygis į Saksoniją ir Altrandštato taika (1706 m.)]]

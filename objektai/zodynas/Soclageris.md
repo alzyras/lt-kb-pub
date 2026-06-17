@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Soclagerio politinės, ekonominės ir tautinės krizės metu lietuviai sukūrė tautinio judėjimo modelį ir padėjo sunaikinti vienpartinį SSRS režimą. Soclagerio politinės, ekonominės ir tautinės krizės sąlygomis lietuviai sukūrė tautinio judėjimo modelį ir prisidėjo prie SSRS vienpartinio režimo žlugimo.
+Soclagerį ištikus politinei, ekonominei, tautinei krizei, lietuviai surado jėgų prisikelti kaip tauta, sukurti tautinio judėjimo modelį, išsprogdinti komunistų valdymą respublikoje ir padėti sunaikinti vienpartinį režimą visoje SSRS, pagaliau ir pačią SSRS.
 
 ## Teiginiai
 
@@ -21,6 +21,8 @@ Soclagerio politinės, ekonominės ir tautinės krizės metu lietuviai sukūrė 
 - t-001
   global_id: t-22023
   teiginys: 'Soclagerio politinės, ekonominės ir tautinės krizės metu lietuviai sukūrė tautinio judėjimo modelį ir padėjo sunaikinti vienpartinį SSRS režimą.'
+  sudarymo_pagrindimas: 'Perrašyta tiksliau pagal citatą, veikėju nurodant lietuvius.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: SSRS'
   pagrindžia:
     - c-001
 
@@ -28,9 +30,15 @@ Soclagerio politinės, ekonominės ir tautinės krizės metu lietuviai sukūrė 
 - t-002
   global_id: t-183464
   teiginys: 'Soclagerio politinės, ekonominės ir tautinės krizės sąlygomis lietuviai sukūrė tautinio judėjimo modelį ir prisidėjo prie SSRS vienpartinio režimo žlugimo.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir publicistiškas, todėl sutrumpintas išlaikant citatos faktus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: SSRS'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/V. Leninas.md#claim-t-19295|V. Leninas]]: Sovietmečiu tautiniais drabužiais vilkintys choristai dainavo apie V. Leniną.
+- susijęs iš [[objektai/asmenys/Vladimiras Leninas.md#claim-t-64247|Vladimiras Leninas]]: Sovietmečiu tautiniais drabužiais vilkintys choristai dainavo apie Vladimirą Leniną.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -57,10 +65,3 @@ Soclagerio politinės, ekonominės ir tautinės krizės metu lietuviai sukūrė 
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/V. Leninas]]
-- [[objektai/asmenys/Vladimiras Leninas]]

@@ -19,7 +19,7 @@ amziai:
 
 ## Santrauka
 
-Lietuvai įstojus į ES, Europos Parlamente jai atstovavo 12 europarlamentarų. Lietuva, įstojusi į ES, Europos Parlamente turėjo 12 europarlamentarų. ES piliečiai turi teisę teikti peticijas Europos Parlamentui.
+Lietuva, įstojusi į ES, gali Briuselyje reikšti savo poziciją įvairiais klausimais ir net paveikti ES sprendimus – ji turi savo komisarą, Europarlamente – 12 europarlamentarų.
 
 ## Teiginiai
 
@@ -27,6 +27,11 @@ Lietuvai įstojus į ES, Europos Parlamente jai atstovavo 12 europarlamentarų. 
 - t-001
   global_id: t-74105
   teiginys: 'Lietuvai įstojus į ES, Europos Parlamente jai atstovavo 12 europarlamentarų.'
+  sudarymo_pagrindimas: 'Citata palaiko trumpą faktą apie Lietuvos atstovavimą Europos Parlamente.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Algirdas Brazauskas|Algirdas Brazauskas]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_person: [[objektai/asmenys/Antanas Valionis|Antanas Valionis]]; mentioned_place: Briuselis; mentioned_place: Europa; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 2003 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko trumpą faktą apie Lietuvos atstovavimą Europos Parlamente.'
   pagrindžia:
     - c-001
 
@@ -34,6 +39,9 @@ Lietuvai įstojus į ES, Europos Parlamente jai atstovavo 12 europarlamentarų. 
 - t-002
   global_id: t-74106
   teiginys: 'Lietuva, įstojusi į ES, Europos Parlamente turėjo 12 europarlamentarų.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Algirdas Brazauskas|Algirdas Brazauskas]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_person: [[objektai/asmenys/Antanas Valionis|Antanas Valionis]]; mentioned_place: Briuselis; mentioned_place: Europa; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 2003 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -41,6 +49,8 @@ Lietuvai įstojus į ES, Europos Parlamente jai atstovavo 12 europarlamentarų. 
 - t-003
   global_id: t-74107
   teiginys: 'ES piliečiai turi teisę teikti peticijas Europos Parlamentui.'
+  sudarymo_pagrindimas: 'Rewrite failed deterministic gates: missing_factual_predicate'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/peticija|peticija]]; mentioned_place: Europa'
   pagrindžia:
     - c-002
 
@@ -84,12 +94,3 @@ Lietuvai įstojus į ES, Europos Parlamente jai atstovavo 12 europarlamentarų. 
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/asmenys/Algirdas Brazauskas]]
-- [[objektai/asmenys/Antanas (vaistininkas)]]
-- [[objektai/asmenys/Antanas Valionis]]
-- [[objektai/zodynas/peticija]]
-- [[objektai/grupes/Europos Sąjunga]]

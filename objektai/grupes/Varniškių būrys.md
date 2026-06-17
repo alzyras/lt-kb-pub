@@ -26,6 +26,9 @@ Paliose veikę Varniškių ir „Muškietininkų“ būrių partizanai.
 - t-001
   global_id: t-41192
   teiginys: '1945 m. balandį Varniškių būrio partizanai veikė Paliose.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)|Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)]]; mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Žuvintas'
+  temporaliniai_duomenys: 'įvykio data: 1945 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -52,9 +55,3 @@ Paliose veikę Varniškių ir „Muškietininkų“ būrių partizanai.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/NKVD]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/ivykiai/Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)]]

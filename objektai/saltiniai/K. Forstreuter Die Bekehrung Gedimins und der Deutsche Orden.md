@@ -26,6 +26,9 @@ amziai:
 - t-001
   global_id: t-31751
   teiginys: 'K. Forstreuterio „Die Bekehrung Gedimins und der Deutsche Orden“ 1928 m. paskelbtas AP 5 tome, 239–268 puslapiuose.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]'
+  temporaliniai_duomenys: 'įvykio data: 1928 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

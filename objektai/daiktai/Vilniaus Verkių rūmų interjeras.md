@@ -48,6 +48,7 @@ Nenurodyta
 - t-001
   global_id: t-45547
   teiginys: 'Vilniaus Verkių rūmų interjeras pavaizduotas J. K. Vilčinskio „Vilniaus albume“.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/Baudžiava|Baudžiava]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Verkiai; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -55,9 +56,15 @@ Nenurodyta
 - t-002
   global_id: t-45548
   teiginys: 'Vilniaus Verkių rūmų interjeras pavaizduotas J. K. Vilčinskio „Vilniaus albume“ P. Benoist 1848 m. kūrinyje.'
+  sudarymo_pagrindimas: 'Pradinis teiginys turi nutrūkusią inicialę ir pašalinį kontekstą, o citata palaiko aiškų enciklopedinį sakinį.'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Verkiai; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1848 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys turi nutrūkusią inicialę ir pašalinį kontekstą, o citata palaiko aiškų enciklopedinį sakinį.'
   pagrindžia:
     - c-002
-
+- susijęs iš Vilniaus albumas: J. K. Vilčinskio „Vilniaus albume“ pateiktas Vilniaus Verkių rūmų interjero vaizdas.
+- susijęs iš Vilniaus albumas: J. K. Vilčinskio „Vilniaus albume“ paskelbtas P. Benoist 1848 m. Vilniaus Verkių rūmų interjero vaizdas.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -88,8 +95,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bajorai]]
-- [[objektai/zodynas/Baudžiava]]

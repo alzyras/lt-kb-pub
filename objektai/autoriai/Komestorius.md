@@ -29,6 +29,8 @@ Dusburgietis teigia, kad pasak Komestoriaus, panašūs ženklai šitaip rodęsi 
 - t-001
   global_id: t-60730
   teiginys: 'Komestorius rašė, kad panašūs ženklai rodėsi mirštant Julijui Cezariui, o po jo mirties suskilo senatas.'
+  sudarymo_pagrindimas: 'Citata aiškiai perteikia Komestoriaus poziciją ir leidžia pašalinti nutrūkusią nuorodą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/senatas|senatas]]'
   pagrindžia:
     - c-001
 
@@ -48,8 +50,3 @@ Dusburgietis teigia, kad pasak Komestoriaus, panašūs ženklai šitaip rodęsi 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/senatas]]
-- [[objektai/ivykiai/Trijų saulių pasirodymas ir kardinolų kolegijos skilimas (1314–1316 m.)]]

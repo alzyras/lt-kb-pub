@@ -42,6 +42,11 @@ Nenurodyta
 - t-001
   global_id: t-78607
   teiginys: '1945 m. kovo pradžioje NKVD divizijos persekiojami partizanai pasitraukė į Ažagų-Eimuliškio miškus.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys, tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Žalioji giria'
+  temporaliniai_duomenys: 'įvykio data: 1945 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys, tiesiogiai paremtas citata.'
   pagrindžia:
     - c-005
 
@@ -49,6 +54,8 @@ Nenurodyta
 - t-002
   global_id: t-78608
   teiginys: 'Ažagų-Eimuliškio miško kautynėse dalyvavo Žaliosios rinktinės Aušros būrys, o dienos pabaigoje dalis partizanų prasiveržė Pakruojo link.'
+  sudarymo_pagrindimas: 'Teiginys susietas su mūšio objektu ir patikslintas pagal citatą.'
+  susije_objektai: 'mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -56,6 +63,9 @@ Nenurodyta
 - t-003
   global_id: t-78609
   teiginys: '1945 m. kovo pradžioje NKVD divizija pradėjo puolimą prieš Pušaloto, Pasvalio ir Žaliosios girios partizanus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Žalioji giria'
+  temporaliniai_duomenys: 'įvykio data: 1945 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-004
 
@@ -63,6 +73,7 @@ Nenurodyta
 - t-004
   global_id: t-78610
   teiginys: 'Ažagų-Eimuliškio miško kautynėse žuvo apie 76-80 partizanų.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]'
   pagrindžia:
     - c-003
 
@@ -70,6 +81,8 @@ Nenurodyta
 - t-005
   global_id: t-78611
   teiginys: 'NKVD puolimas buvo vykdomas iš vakarų į rytus, siekiant atkirsti partizanų pasitraukimo kelius, o kovo 27 d. mūšis prasidėjo 7 val. ryto.'
+  susije_objektai: 'event: [[objektai/ivykiai/Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.)|Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.)]]; mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]'
+  semantiniai_rysiai: '[[objektai/grupes/NKVD|NKVD]] dalyvavo mūšyje [[objektai/ivykiai/Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.)|Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.)]]; [[objektai/grupes/Rytas|Rytas]] dalyvavo mūšyje [[objektai/ivykiai/Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.)|Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.)]]'
   pagrindžia:
     - c-002
 
@@ -77,9 +90,12 @@ Nenurodyta
 - t-006
   global_id: t-78612
   teiginys: 'Ažagų-Eimuliškio miško kautynėse žuvo apie 76–80 partizanų.'
+  sudarymo_pagrindimas: 'Pradinis teiginys sumaišytas su puslapio numeriu ir kitu sakiniu; citata pagrindžia žuvusiųjų skaičių.'
   pagrindžia:
     - c-006
-
+- susijęs iš [[objektai/autoriai/Dalius Žygelis.md#claim-t-40613|Dalius Žygelis]]: Dalius Žygelis buvo kelių tekstų apie 1945–1949 m. Lietuvos partizanų kautynes bendraautoris.
+- susijęs iš [[objektai/autoriai/Ričardas Čekutis.md#claim-t-40672|Ričardas Čekutis]]: Ričardas Čekutis kartu su Daliumi Žygeliu parašė tekstus apie 1945 m. Kiauneliškių, Kalniškės ir Merkinės kautynes.
+- susijęs iš J. Juškos pasakojimas apie Ažagų-Eimuliškio miško kautynes: J. Juška pasakojo, kad Ažagų-Eimuliškio miško kautynės prasidėjo ankstų rytą ir truko iki pavakario.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -192,10 +208,5 @@ Nenurodyta
     - t-006
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Ginklai]]
-- [[objektai/grupes/NKVD]]
-- [[objektai/grupes/Rytas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/autoriai/Dalius Žygelis]]
-- [[objektai/autoriai/Ričardas Čekutis]]
+- [[objektai/grupes/NKVD]] dalyvavo_musyje Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.)
+- [[objektai/grupes/Rytas]] dalyvavo_musyje Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.)

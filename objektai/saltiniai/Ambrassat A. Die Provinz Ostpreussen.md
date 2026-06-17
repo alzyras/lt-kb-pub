@@ -11,8 +11,6 @@ datos:
   - '1347 m.'
   - '1348 m.'
   - '1350 m.'
-  - '1351 m.'
-  - '1912 m.'
   - '1939 m.'
 date_start: '1319'
 date_end: '1939'
@@ -31,7 +29,7 @@ amziai:
 
 ## Santrauka
 
-Ambrassato veikalo puslapis 421 nurodomas prie Gilgenburgo pilies ir miesto datavimo aptarimo. A. Ambrassato veikalas „Die Provinz Ostpreussen“ išleistas Karaliaučiuje 1912 m.
+Dusburgietis teigia, kad 33, p. 286; MGP, p. 50; Ambrassat A., Die Provinz Ostpreussen, p. 389). Dusburgietis teigia, kad ordino pilis statyta 1319 m., prie jos miestas įkurtas 1326 m. (PUB, 3, 3, p. 708, 697; Weber L., Preussen..., p. 473; Ambrassat A., Die Provinz..., p. 421). Dusburgietis teigia, kad ambrassat A.
 
 ## Teiginiai
 
@@ -39,6 +37,11 @@ Ambrassato veikalo puslapis 421 nurodomas prie Gilgenburgo pilies ir miesto data
 - t-001
   global_id: t-60947
   teiginys: 'Ambrassato veikalo puslapis 421 nurodomas prie Gilgenburgo pilies ir miesto datavimo aptarimo.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir pagrįstas citatoje esančia bibliografine nuoroda.'
+  susije_objektai: 'mentioned_place: Gilgenburgas'
+  temporaliniai_duomenys: 'įvykio data: 1319 m.; įvykio data: 1326 m.; įvykio data: 1340 m.; įvykio data: 1350 m.; įvykio data: 1351 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir pagrįstas citatoje esančia bibliografine nuoroda.'
   pagrindžia:
     - c-002
 
@@ -46,6 +49,10 @@ Ambrassato veikalo puslapis 421 nurodomas prie Gilgenburgo pilies ir miesto data
 - t-002
   global_id: t-60949
   teiginys: 'A. Ambrassato veikalas „Die Provinz Ostpreussen“ išleistas Karaliaučiuje 1912 m.'
+  sudarymo_pagrindimas: 'Bibliografinė citata pagrindžia autorių, pavadinimą, leidimo vietą ir metus.'
+  temporaliniai_duomenys: 'įvykio data: 1912 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Bibliografinė citata pagrindžia autorių, pavadinimą, leidimo vietą ir metus.'
   pagrindžia:
     - c-001
 

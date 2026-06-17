@@ -21,9 +21,13 @@ Dėl šios ir kitų priežasčių lietuvių pogrindžio spauda nacių leistą sa
 - t-001
   global_id: t-22297
   teiginys: 'Lietuvių pogrindžio spauda nacių leistą savivaldą vadino „savismauga“, nes jos pareigūnai tarnavo vokiečiams ir padėjo išnaudoti kraštą.'
+  sudarymo_pagrindimas: 'Sakinys aiškus, gramatiškas ir tiesiogiai paaiškina termino vartoseną.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/posakiai/„savismauga“|„savismauga“]]'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/posakiai/„viešpataujanti“ „ponų tauta“.md#claim-t-20961|„viešpataujanti“ „ponų tauta“]]: Naciai manė, kad dėl rasinio ir kultūrinio pranašumo vokiečių tauta turi būti „viešpataujanti“ arba „ponų tauta“.
+- susijęs iš [[objektai/zodynas/ponų tauta viešpataujanti tauta.md#claim-t-22254|ponų tauta viešpataujanti tauta]]: Naciai teigė, kad dėl rasinio ir kultūrinio pranašumo vokiečių tauta turi būti „viešpataujanti“ arba „ponų tauta“.
+- susijęs iš [[objektai/zodynas/rasės atžvilgiu svetimi elementai.md#claim-t-22261|rasės atžvilgiu svetimi elementai]]: Naciai manė, kad „rasės atžvilgiu svetimus elementus“ būtina pašalinti.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -44,12 +48,3 @@ Dėl šios ir kitų priežasčių lietuvių pogrindžio spauda nacių leistą sa
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/posakiai/„savismauga“]]
-- [[objektai/zodynas/ponų tauta viešpataujanti tauta]]
-- [[objektai/zodynas/rasės atžvilgiu svetimi elementai]]
-- [[objektai/posakiai/„viešpataujanti“ „ponų tauta“]]

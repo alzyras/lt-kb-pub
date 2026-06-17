@@ -43,6 +43,8 @@ Nenurodyta
 - t-001
   global_id: t-95967
   teiginys: 'Kai Vytauto prašymai nieko negelbėjo, jis ėmė ieškoti būdų pabėgti iš Krėvos kalėjimo.'
+  sudarymo_pagrindimas: 'Pradinis sakinys gramatiškai silpnas; citata leidžia aiškiai įvardyti pabėgimą iš Krėvos kalėjimo.'
+  susije_objektai: 'mentioned_place: Krėva'
   pagrindžia:
     - c-001
 

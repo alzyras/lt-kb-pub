@@ -6,18 +6,19 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1788 m.'
+  - '1791 m.'
   - '1792 m.'
 date_start: '1788'
 date_end: '1792'
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XVIII'
 tags:
   - ivykis
   - karalius
   - seimas
   - sutartis
+amziai:
+  - 'XVIII'
 ---
 # Ketverių metų seimas (1788–1792 m.)
 
@@ -42,10 +43,24 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
+<a id="claim-t-78619"></a>
+- t-001
+  global_id: t-78619
+  teiginys: '1787 m. Kaneve Kotryna ir Stanislovas Augustas sutarė, kad kitų metų seime karalius sieks Respublikos paramos Rusijai kare su turkais.'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo per ilgas, triukšmingas ir nutrūkęs.'
+  pagrindžia:
+    - c-003
+
 <a id="claim-t-78620"></a>
 - t-002
   global_id: t-78620
   teiginys: 'Ketverių metų seimas 1791 m. gegužės 3 d. priėmė konstituciją ir kitus įstatymus, turėjusius reformuoti valstybę bei atsikratyti Rusijos protektorato.'
+  sudarymo_pagrindimas: 'Pašalintas antraštės ir puslapio triukšmas, paliktas citatos remiamas faktas.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Lietuvos Brastos mūšis (1792 m. liepos 23 d.)|Lietuvos Brastos mūšis (1792 m. liepos 23 d.)]]; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Ketverių metų seimas|Ketverių metų seimas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Brasta; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Švedija'
+  temporaliniai_duomenys: 'įvykio data: 1791 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas antraštės ir puslapio triukšmas, paliktas citatos remiamas faktas.'
   pagrindžia:
     - c-001
 
@@ -53,18 +68,12 @@ Nenurodyta
 - t-003
   global_id: t-78623
   teiginys: 'Ketverių metų seimas atmetė siūlymą sudaryti karinę sąjungą su Rusija ir, Prūsijos palaikomas, ėmėsi reformų.'
-  pagrindžia:
-    - c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-004
-  teiginys: '1787 m. Kaneve Kotryna ir Stanislovas Augustas sutarė, kad kitų metų seime karalius sieks Respublikos paramos Rusijai kare su turkais.'
+  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir palikta aiški faktinė esmė.'
   pagrindžia:
     - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Ketverių metų seimas 1791 m. gegužės 3 d. priėmė konstituciją ir kitus įstatymus, turėjusius reformuoti valstybę bei atsikratyti Rusijos protektorato.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -90,26 +99,8 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-- c-002
-  santrauka: '1787 m. Kaneve Kotryna ir Stanislovas Augustas sutarė, kad kitų metų seime karalius sieks Respublikos paramos Rusijai kare su turkais.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    1787 m. Kotryna Dniepru keliavo aplankyt Rusijos neseniai
-    užkariauto Krimo. Pakeliui (Kaneve) ji susitiko su buvusiu prieš
-    25 m. savo mylimuoju Stanislovu Augustu. To susitikimo metu
-    buvo sutarta, kad kitų metų seime karalius išgaus Respublikos su-
-    tikimą padėti Rusijai kariauti su Turkais, o Kotryna už tai ž a-
 
-    dėjo leisti padidinti Respublikos kariuomenę ir bent kiek
-    praplėsti karaliaus valdžią.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-004
-- c-003
+- c-002
   santrauka: 'Ketverių metų seimas atmetė siūlymą sudaryti karinę sąjungą su Rusija ir, Prūsijos palaikomas, ėmėsi reformų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -121,22 +112,26 @@ Nenurodyta
     sudaryti karinę sąjungą su Ru-
     sija ir, Prūsijos palaikomas,
     ėmėsi reformų.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-003
 
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/grupes/Ketverių metų seimas]]
-- [[objektai/asmenys/Kotryna]]
-- [[objektai/ivykiai/Lietuvos Brastos mūšis (1792 m. liepos 23 d.)]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/asmenys/Augustas]]
-- [[objektai/asmenys/Stanislovas]]
-- [[objektai/asmenys/Stanislovas Augustas]]
+- c-003
+  santrauka: '1787 m. Kaneve Kotryna ir Stanislovas Augustas sutarė, kad kitų metų seime karalius sieks Respublikos paramos Rusijai kare su turkais.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    1787 m. Kotryna Dniepru keliavo aplankyt Rusijos neseniai
+    užkariauto Krimo. Pakeliui (Kaneve) ji susitiko su buvusiu prieš
+    25 m. savo mylimuoju Stanislovu Augustu. To susitikimo metu
+    buvo sutarta, kad kitų metų seime karalius išgaus Respublikos su-
+    tikimą padėti Rusijai kariauti su Turkais, o Kotryna už tai ž a-
+
+    dėjo leisti padidinti Respublikos kariuomenę ir bent kiek
+    praplėsti karaliaus valdžią.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001

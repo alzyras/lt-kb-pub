@@ -3,6 +3,10 @@ tipas: zodyno_irasas
 pavadinimas: 'autonomija autonominis statusas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1921 m.'
+date_start: '1921'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -10,12 +14,14 @@ tags:
   - reforma
   - sąvoka
   - tauta
+amziai:
+  - 'XX'
 ---
 # autonomija autonominis statusas
 
 ## Santrauka
 
-Paryžiuje Lietuva pažadėjo plačią kultūrinę autonomiją žydams ir kitoms tautinėms mažumoms. Pirmojo pasaulinio karo metais Vilniuje susibūręs lietuvių politikos centras nusivylė, kad nei Rusija, nei Vokietija nežadėjo Lietuvai autonomijos. Vilnijos kantono autonomijos svarstyme keltas klausimas, ar Varšuva nebūtų diktavusi vietos lenkams savo politikos.
+Visuomeninė veikla, domėjimasis karo eiga ir pokario sutvarkymo reikalais Vilniuje subūrė lietuvius į politikos centrą, nusivylusį tuo, jog nei Rusija, nei Vokietija nežada Lietuvai net autonomijos. Lietuva Paryžiuje turėjo aiškintis ir dėl vidaus politikos klausimų, atrėmė kaltinimus Lietuvos Tarybai dėl provokiškos politikos, pažadėjo plačią kultūrinę autonomiją žydams, tautinėms mažumoms, aiškinosi dėl numatomos žemės reformos. Rugsėjį Himansas dar pataisė planą lietuvių naudai – Vilniaus regionas jau nebesudarė kantono, o atitiko autonominio rajono statusą.
 
 ## Teiginiai
 
@@ -23,6 +29,8 @@ Paryžiuje Lietuva pažadėjo plačią kultūrinę autonomiją žydams ir kitoms
 - t-001
   global_id: t-70093
   teiginys: 'Paryžiuje Lietuva pažadėjo plačią kultūrinę autonomiją žydams ir kitoms tautinėms mažumoms.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Lietuvos pažadėtą kultūrinę autonomiją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Lietuva; mentioned_place: Paryžius; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
 
@@ -30,6 +38,8 @@ Paryžiuje Lietuva pažadėjo plačią kultūrinę autonomiją žydams ir kitoms
 - t-002
   global_id: t-70094
   teiginys: 'Pirmojo pasaulinio karo metais Vilniuje susibūręs lietuvių politikos centras nusivylė, kad nei Rusija, nei Vokietija nežadėjo Lietuvai autonomijos.'
+  sudarymo_pagrindimas: 'Teiginys sutrumpintas ir padarytas aiškesnis, išlaikant citatos remiamą turinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_place: Vokietija'
   pagrindžia:
     - c-003
 
@@ -37,6 +47,8 @@ Paryžiuje Lietuva pažadėjo plačią kultūrinę autonomiją žydams ir kitoms
 - t-003
   global_id: t-70095
   teiginys: 'Vilnijos kantono autonomijos svarstyme keltas klausimas, ar Varšuva nebūtų diktavusi vietos lenkams savo politikos.'
+  sudarymo_pagrindimas: 'Pirminis tekstas yra klausimas; perrašyta kaip faktas apie autonomijos svarstymo turinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Varšuva; mentioned_place: Vilnija; mentioned_place: Vilnius'
   pagrindžia:
     - c-004
 
@@ -44,6 +56,11 @@ Paryžiuje Lietuva pažadėjo plačią kultūrinę autonomiją žydams ir kitoms
 - t-004
   global_id: t-70096
   teiginys: '1921 m. rugsėjį Himansas pataisė planą lietuvių naudai: Vilniaus regionas turėjo autonominio rajono, o ne kantono statusą.'
+  sudarymo_pagrindimas: 'Teiginys tiksliai apibendrina citatos informaciją apie Himanso plano pataisą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Vilniaus regionas; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1921 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys tiksliai apibendrina citatos informaciją apie Himanso plano pataisą.'
   pagrindžia:
     - c-002
 
@@ -51,6 +68,11 @@ Paryžiuje Lietuva pažadėjo plačią kultūrinę autonomiją žydams ir kitoms
 - t-005
   global_id: t-183399
   teiginys: 'Svarstydami Vilnijos autonomiją autoriai kėlė klausimą, ar lietuvių kalba galėjo tapti bent lygiateise su lenkų kalba Vilnijoje.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata pateikia autorių keliamą klausimą, todėl reikia aiškios atribucijos ir pilno sakinio.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Varšuva; mentioned_place: Vilnija; mentioned_place: Vilnius'
   pagrindžia:
     - c-005
 
@@ -136,11 +158,3 @@ Paryžiuje Lietuva pažadėjo plačią kultūrinę autonomiją žydams ir kitoms
   statusas: verified
   pagrindžia:
     - t-005
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Žydai]]
-- [[objektai/zodynas/kantonas kantoninis principas]]

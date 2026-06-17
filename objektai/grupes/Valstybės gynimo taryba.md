@@ -3,12 +3,21 @@ tipas: grupe
 pavadinimas: 'Valstybės gynimo taryba (institucija)'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1933 m.'
+  - '1934 m.'
+  - '1935 m.'
+  - '1938 m.'
+date_start: '1933'
+date_end: '1938'
 sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
   - kraštas
   - valstybė
+amziai:
+  - 'XX'
 ---
 # Valstybės gynimo taryba (institucija)
 
@@ -22,9 +31,16 @@ Savo dalies kariuomenės modernizacijai reikalavo kariškiai – 1935 m. Valstyb
 - t-001
   global_id: t-20058
   teiginys: 'Valstybės gynimo taryba priėmė kariuomenės perorganizavimo planą, pagal kurį apie 20 proc. biudžeto teko krašto gynybai.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus ir tiesiogiai paremtas citata apie tarybos sprendimą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_place: Estija; mentioned_place: Vokietija'
+  temporaliniai_duomenys: 'įvykio data: 1933 m.; įvykio data: 1934 m.; įvykio data: 1935 m.; įvykio data: 1938 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus ir tiesiogiai paremtas citata apie tarybos sprendimą.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Juozas Tūbelis.md#claim-t-170082|Juozas Tūbelis]]: Juozas Tūbelis 7,5 metų vadovavo Ministrų Tarybai ir garantavo vyriausybių stabilumą bei vieningą ministrų politiką.
+- susijęs iš [[objektai/ivykiai/Valstybės gynimo tarybos kariuomenės perorganizavimo plano priėmimas (1935 m.).md#claim-t-20525|Valstybės gynimo tarybos kariuomenės perorganizavimo plano priėmimas (1935 m.)]]: Valstybės gynimo taryba priėmė kariuomenės perorganizavimo planą, pagal kurį apie 20 proc. biudžeto turėjo būti skirta krašto gynybai.
+- susijęs iš Valstybės gynimo tarybos kariuomenės perorganizavimo planas (1935 m.): Valstybės gynimo tarybos priimtas kariuomenės perorganizavimo planas numatė apie 20 proc. biudžeto skirti krašto gynybai.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -43,9 +59,3 @@ Savo dalies kariuomenės modernizacijai reikalavo kariškiai – 1935 m. Valstyb
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/A. Smetona]]
-- [[objektai/asmenys/Juozas Tūbelis]]
-- [[objektai/ivykiai/Valstybės gynimo tarybos kariuomenės perorganizavimo plano priėmimas (1935 m.)]]

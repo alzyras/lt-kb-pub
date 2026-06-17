@@ -11,7 +11,7 @@ atnaujinta: ''
 
 ## Santrauka
 
-Dimitrijus, metropolitas, viečė ir žymiausieji bajorai prisiekė laikytis taikos sąlygų su Algirdu. Polocko vyrai reikalus sprendė viečėje, kaip Didysis Naugardas ir Pskovas. Polockiečiai reikalus sprendė viečėje, kaip Didžiajame Naugarde ir Pskove, ir nebeturėjo savo valdovo.
+Dimitrijus, metropolitas, viečė ir žymiausieji bajorai prisiekė laikytis taikos sąlygų su Algirdu. Polocko vyrai reikalus sprendė viečėje, kaip Didysis Naugardas ir Pskovas. Lietuvos metraštis pasakoja, kad po Polocko kunigaikščio Glėbo mirties polockiečiai ėmė reikalus spręsti viečėje ir nebeturėjo valdovo.
 
 ## Teiginiai
 
@@ -19,6 +19,11 @@ Dimitrijus, metropolitas, viečė ir žymiausieji bajorai prisiekė laikytis tai
 - t-001
   global_id: t-185415
   teiginys: 'Dimitrijus, metropolitas, viečė ir žymiausieji bajorai prisiekė laikytis taikos sąlygų su Algirdu.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pašalintas ilgas fragmentas ir OCR triukšmas; paliktas citatos remiamas faktas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/daiktai/Akademijos teatro įranga|Akademijos teatro įranga]]; mentioned_object: [[objektai/daiktai/Altorius|Altorius]]; mentioned_object: [[objektai/daiktai/Ietis|Ietis]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Dimitrijus|Dimitrijus]]'
   pagrindžia:
     - c-001
 
@@ -26,13 +31,23 @@ Dimitrijus, metropolitas, viečė ir žymiausieji bajorai prisiekė laikytis tai
 - t-002
   global_id: t-187534
   teiginys: 'Polocko vyrai reikalus sprendė viečėje, kaip Didysis Naugardas ir Pskovas.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Claimas yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Mingaila|Mingaila]]; mentioned_place: Didysis Naugardas; mentioned_place: Naugardas; mentioned_place: Naugardas ir Pskovas; mentioned_place: Polockas; mentioned_place: Pskovas'
   pagrindžia:
     - c-002
 
 <a id="claim-t-187535"></a>
 - t-003
   global_id: t-187535
-  teiginys: 'Polockiečiai reikalus sprendė viečėje, kaip Didžiajame Naugarde ir Pskove, ir nebeturėjo savo valdovo.'
+  teiginys: 'Lietuvos metraštis pasakoja, kad po Polocko kunigaikščio Glėbo mirties polockiečiai ėmė reikalus spręsti viečėje ir nebeturėjo valdovo.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Išskleistas chronikos pasakojimo kontekstas ir subjektas, todėl teiginys atribuuotas Lietuvos metraščiui. Nepridėta platesnių išvadų apie Polocko santvarką.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Polockiečiai|Polockiečiai]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Lietuva; mentioned_place: Naugardas; mentioned_place: Polockas'
   pagrindžia:
     - c-003
 
@@ -40,9 +55,17 @@ Dimitrijus, metropolitas, viečė ir žymiausieji bajorai prisiekė laikytis tai
 - t-004
   global_id: t-187536
   teiginys: 'Viečė buvo žymesnių Kijevo Rusios miestų gyventojų susirinkimas karo, taikos, pareigūnų ir kitiems svarbiausiems klausimams svarstyti.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus viečės apibrėžimas, paremtas aiškinamąja pastaba. Jame neperimama poleminė ar legendinė kronikos interpretacija.'
+  susije_objektai: 'mentioned_place: Kijevas; mentioned_place: Kijevo Rusia; mentioned_place: Polockas'
   pagrindžia:
     - c-004
-
+- susijęs iš [[objektai/asmenys/Dimitrijus.md#claim-t-186106|Dimitrijus]]: Dimitrijus sutiko sumokėti kareiviams algą, o karo vadui atlyginti karo išlaidas.
+- susijęs iš [[objektai/ivykiai/Algirdo žygis į Maskvą ir taika su Dimitrijumi per Velykas.md#claim-t-187467|Algirdo žygis į Maskvą ir taika su Dimitrijumi per Velykas]]: Algirdas ir Maskvos valdovas Dimitrijus sutarė sudaryti taiką, pagal kurią Lietuvos sienos turėjo būti praplėstos iki Možaisko ir Ugros.
+- susijęs iš [[objektai/zodynas/margutis.md#claim-t-185407|margutis]]: Rusai nuo senų laikų Velykų dieną dovanodavo vienas kitam margutį kaip bičiuliškumo ženklą.
+- susijęs iš [[objektai/zodynas/metropolitas.md#claim-t-184630|metropolitas]]: Sudarius taikos sąlygas, Dimitrijus, metropolitu vadintas vyriausiasis šventikas, viečė ir žymiausieji bajorai prisiekė.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -90,7 +113,7 @@ Dimitrijus, metropolitas, viečė ir žymiausieji bajorai prisiekė laikytis tai
     - t-002
 
 - c-003
-  santrauka: 'Polockiečiai reikalus sprendė viečėje, kaip Didžiajame Naugarde ir Pskove, ir nebeturėjo savo valdovo.'
+  santrauka: 'Lietuvos metraštis pasakoja, kad po Polocko kunigaikščio Glėbo mirties polockiečiai ėmė reikalus spręsti viečėje ir nebeturėjo valdovo.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     O jos brolis, Polocko kunigaikštis Glėbas, mirė,
@@ -120,18 +143,3 @@ Dimitrijus, metropolitas, viečė ir žymiausieji bajorai prisiekė laikytis tai
   statusas: verified
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Akademijos teatro įranga]]
-- [[objektai/daiktai/Altorius]]
-- [[objektai/asmenys/Dimitrijus]]
-- [[objektai/daiktai/Ietis]]
-- [[objektai/asmenys/Mingaila]]
-- [[objektai/grupes/Polockiečiai]]
-- [[objektai/zodynas/didysis kunigaikštis]]
-- [[objektai/ivykiai/Algirdo žygis į Maskvą ir taika su Dimitrijumi per Velykas]]
-- [[objektai/zodynas/margutis]]
-- [[objektai/zodynas/metropolitas]]
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/grupes/Bajorai]]

@@ -22,6 +22,8 @@ tags:
 - t-001
   global_id: t-88027
   teiginys: 'Lindenblatto kronikoje vietovardis Boparthen siejamas su dabartine Bobie vietove į šiaurės vakarus nuo Kauno.'
+  sudarymo_pagrindimas: 'Citata palaiko konkretų teiginį apie Lindenblatto kronikoje minimą vietovardį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Statinės|Statinės]]; mentioned_person: [[objektai/autoriai/Lindenblattas|Lindenblattas]]; mentioned_place: Kaimas; mentioned_place: Kaunas; mentioned_place: Trakai'
   pagrindžia:
     - c-003
 
@@ -29,6 +31,8 @@ tags:
 - t-002
   global_id: t-88028
   teiginys: 'Lindenblattas kryžiuočių persikėlimą per Viliją datavo Šv. Augustino diena, rugpjūčio 28-ąja.'
+  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas, teiginys suformuluotas apie autoriaus nurodytą datą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Augustinas|Augustinas]]; mentioned_person: [[objektai/autoriai/Lindenblattas|Lindenblattas]]; mentioned_place: Vilija; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -36,6 +40,8 @@ tags:
 - t-003
   global_id: t-88029
   teiginys: 'Lindenblatto kronikos leidėjai Visevaldės pilį vadino Vižemais, tačiau toks tapatinimas kėlė abejonių.'
+  sudarymo_pagrindimas: 'Reikia pašalinti puslapio numerio triukšmą ir įtraukti citatoje esančią abejonę.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/Lindenblattas|Lindenblattas]]'
   pagrindžia:
     - c-001
 
@@ -105,7 +111,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]

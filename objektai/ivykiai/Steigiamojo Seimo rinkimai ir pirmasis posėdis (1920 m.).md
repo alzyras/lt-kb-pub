@@ -45,6 +45,11 @@ Nenurodyta
 - t-001
   global_id: t-75287
   teiginys: '1920 m. balandžio 14–15 d. Steigiamojo Seimo rinkimus laimėjo krikščionių demokratų blokas, gavęs 59 vietas.'
+  sudarymo_pagrindimas: 'Pašalintas puslapio triukšmas ir nutrūkusi sakinio pabaiga.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionių demokratų blokas|Krikščionių demokratų blokas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos socialdemokratų partija|Lietuvos socialdemokratų partija]]; mentioned_group: [[objektai/grupes/Lietuvos valstiečių liaudininkų sąjunga|Lietuvos valstiečių liaudininkų sąjunga]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1920 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas puslapio triukšmas ir nutrūkusi sakinio pabaiga.'
   pagrindžia:
     - c-002
 
@@ -52,6 +57,11 @@ Nenurodyta
 - t-002
   global_id: t-75288
   teiginys: '1920 m. balandžio 14–15 d. rinkimus į Steigiamąjį Seimą laimėjo krikščionių demokratų blokas, gavęs 59 vietas.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūksta, citata leidžia suformuluoti pilną sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionių demokratų blokas|Krikščionių demokratų blokas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos socialdemokratų partija|Lietuvos socialdemokratų partija]]; mentioned_group: [[objektai/grupes/Lietuvos valstiečių liaudininkų sąjunga|Lietuvos valstiečių liaudininkų sąjunga]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1920 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūksta, citata leidžia suformuluoti pilną sakinį.'
   pagrindžia:
     - c-002
 
@@ -59,6 +69,11 @@ Nenurodyta
 - t-003
   global_id: t-75289
   teiginys: 'Dėl nepriklausomybės kovų rinkimai į Steigiamąjį Seimą surengti tik 1920 m. balandžio viduryje.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie rinkimus ir paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1920 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie rinkimus ir paremtas citata.'
   pagrindžia:
     - c-003
 
@@ -66,6 +81,11 @@ Nenurodyta
 - t-004
   global_id: t-75290
   teiginys: '1920 m. gegužės 15 d. Kaune į pirmąjį Steigiamojo Seimo posėdį susirinko 112 išrinktų atstovų.'
+  sudarymo_pagrindimas: 'Pašalintas kontekstinis pradžios žodis ir patikslinta data.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Kaunas; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1920 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas kontekstinis pradžios žodis ir patikslinta data.'
   pagrindžia:
     - c-001
 
@@ -125,13 +145,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Krikščionių demokratų blokas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Lietuvos socialdemokratų partija]]
-- [[objektai/grupes/Lietuvos valstiečių liaudininkų sąjunga]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Steigiamasis seimas]]

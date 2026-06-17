@@ -5,8 +5,10 @@ saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1388 m.'
+  - '1408 m.'
+  - '1414 m.'
 date_start: '1388'
-date_end: ''
+date_end: '1414'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -16,6 +18,7 @@ tags:
   - tauta
 amziai:
   - 'XIV'
+  - 'XV'
 ---
 # Trakų žydų privilegija
 
@@ -29,6 +32,11 @@ amziai:
 - t-001
   global_id: t-88484
   teiginys: 'Trakų žydai dar 1388 m. atskirai gavo privilegiją, kurioje išsamiai apibūdinta jų elgsena krikščionių atžvilgiu.'
+  sudarymo_pagrindimas: 'Citata tiesiogiai pagrindžia datą, gavėjus ir privilegijos turinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Trakų žydai|Trakų žydai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Luckas; mentioned_place: Prūsija; mentioned_place: Trakai; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1388 m.; įvykio data: 1408 m.; įvykio data: 1408-1414; įvykio data: 1414 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata tiesiogiai pagrindžia datą, gavėjus ir privilegijos turinį.'
   pagrindžia:
     - c-001
 

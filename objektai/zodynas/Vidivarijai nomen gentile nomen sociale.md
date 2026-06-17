@@ -23,6 +23,8 @@ Tikrai tikėtina, jog vardas tautos, įsikūru­ sios prie Vyslos žiočių - vi
 - t-001
   global_id: t-86577
   teiginys: 'Vidivarijų vardas, Jornandeso duotas tautai prie Vyslos žiočių, aiškintas kaip įvairių tautų sambūrio nomen sociale.'
+  sudarymo_pagrindimas: 'Citata palaiko aiškinimą, kad tai bendruomenės, o ne vienos giminės vardas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Gotai|Gotai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vidivarii|Vidivarii]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/Vidivarijai|Vidivarijai]]; mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_person: [[objektai/autoriai/Jornandesas|Jornandesas]]; mentioned_person: [[objektai/autoriai/Thunmanas|Thunmanas]]; mentioned_place: Gardinas; mentioned_place: Vilija; mentioned_place: Vilniaus gubernija; mentioned_place: Vilnius; mentioned_place: Vysla'
   pagrindžia:
     - c-001
 
@@ -61,14 +63,3 @@ Tikrai tikėtina, jog vardas tautos, įsikūru­ sios prie Vyslos žiočių - vi
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Gotai]]
-- [[objektai/autoriai/Jornandesas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/autoriai/Thunmanas]]
-- [[objektai/grupes/Vidivarii]]
-- [[objektai/zodynas/Vidivarijai]]
-- [[objektai/zodynas/gubernija]]
-- [[objektai/grupes/Švedai]]

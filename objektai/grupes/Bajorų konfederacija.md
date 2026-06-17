@@ -3,12 +3,18 @@ tipas: grupe
 pavadinimas: 'Bajorų konfederacija'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+datos:
+  - '1656 m.'
+date_start: '1656'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - bajorija
   - grupe
   - unija
+amziai:
+  - 'XVII'
 ---
 # Bajorų konfederacija
 
@@ -22,6 +28,9 @@ Prieš švedus ir jų sąjungininkus taip pat kovojo vadinamoji bajorų konfeder
 - t-001
   global_id: t-40861
   teiginys: 'Bajorų konfederacijai, kovojusiai prieš švedus ir jų sąjungininkus, vadovavo Vincentas Gonsievskis, Povilas Sapiega, Kristupas ir Mykolas Pacai.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Pacai|Pacai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/konfederacija|konfederacija]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1656 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -29,9 +38,19 @@ Prieš švedus ir jų sąjungininkus taip pat kovojo vadinamoji bajorų konfeder
 - t-002
   global_id: t-183652
   teiginys: 'Bajorų konfederacija kovojo prieš švedus ir jų sąjungininkus, deklaravo ištikimybę Lenkijai ir Jonui Kazimierui Vazai.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'counterparty: [[objektai/grupes/Bajorai|Bajorai]]; counterparty: [[objektai/grupes/Švedai|Švedai]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/konfederacija|konfederacija]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Švedija'
+  semantiniai_rysiai: '[[objektai/grupes/Bajorų konfederacija|Bajorų konfederacija]] kariavo prieš [[objektai/grupes/Bajorai|Bajorai]]; [[objektai/grupes/Bajorų konfederacija|Bajorų konfederacija]] kariavo prieš [[objektai/grupes/Švedai|Švedai]]'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/asmenys/Jonas Kazimieras Vaza.md#claim-t-39751|Jonas Kazimieras Vaza]]: Bajorų konfederacija deklaravo unijinę ištikimybę Lenkijai ir karaliui Jonui Kazimierui Vazai.
+- susijęs iš [[objektai/asmenys/Povilas Sapiega.md#claim-t-79152|Povilas Sapiega]]: Povilas Sapiega vadovavo bajorų konfederacijai, kovojusiai prieš švedus ir jų sąjungininkus.
+- susijęs iš [[objektai/asmenys/Povilas Sapiega.md#claim-t-79153|Povilas Sapiega]]: Povilas Sapiega buvo vienas bajorų konfederacijos vadovų, kovojusių prieš švedus ir jų sąjungininkus.
+- susijęs iš [[objektai/ivykiai/Žemaičių sukilimas (1656 m.).md#claim-t-39089|Žemaičių sukilimas (1656 m.)]]: 1656 m. kilęs Žemaičių sukilimas padarė švedams daug nuostolių.
+- susijęs iš Biržų pilis (pilis): Iki 1657 m. V. Gonsievskio vadovaujamai Lietuvos kariuomenei pasidavė paskutinė Biržų pilyje buvusi švedų įgula.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -68,14 +87,5 @@ Prieš švedus ir jų sąjungininkus taip pat kovojo vadinamoji bajorų konfeder
     - t-002
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bajorai]]
-- [[objektai/zodynas/konfederacija]]
-- [[objektai/grupes/Švedai]]
-- [[objektai/asmenys/Jonas Kazimieras Vaza]]
-- [[objektai/asmenys/Kristupas Pacas]]
-- [[objektai/asmenys/Mykolas Pacas]]
-- [[objektai/asmenys/Povilas Sapiega]]
-- [[objektai/ivykiai/Žemaičių sukilimas (1656 m.)]]
-- [[objektai/asmenys/Mykolas]]
-- [[objektai/grupes/Pacai]]
+- Bajorų konfederacija kariavo_pries [[objektai/grupes/Bajorai]]
+- Bajorų konfederacija kariavo_pries [[objektai/grupes/Švedai]]

@@ -30,6 +30,11 @@ Nenurodyta
 - t-001
   global_id: t-185570
   teiginys: 'Kojelavičius patikimiausia laikė prielaidą, kad italai į šias žemes atvyko po devintojo amžiaus nuo Kristaus gimimo.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Tai autoriaus datavimo prielaida, todėl reikalingas aiškus priskyrimas.'
+  susije_objektai: 'location: Italija; mentioned_place: Italija'
   pagrindžia:
     - c-001
 

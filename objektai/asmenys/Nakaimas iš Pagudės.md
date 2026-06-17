@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Nakaimas iš Pagudės minimas tarp krikščionių plėšikautojų, kurių žygius Dusburgietis vadino nuostabiais ir nepaprastais.
+Dusburgietis teigia, kad vargu ar kas galėtų nuodugniai papasakoti, kokie nuostabūs ir nepaprasti buvę žygiai krikščionių plėšikautojų, būtent: Martyno iš Golino, Konrado, vardu Divelis, kito [vyro], vadinamo Štaubemeliu, Kudaro iš Sūduvos, Nakaimo iš Pagudės ir daugybės kitų.
 
 ## Teiginiai
 
@@ -20,6 +20,8 @@ Nakaimas iš Pagudės minimas tarp krikščionių plėšikautojų, kurių žygiu
 - t-001
   global_id: t-60392
   teiginys: 'Nakaimas iš Pagudės minimas tarp krikščionių plėšikautojų, kurių žygius Dusburgietis vadino nuostabiais ir nepaprastais.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nurodo Nakaimą iš Pagudės ir yra paremtas citatoje esančiu sąrašu bei vertinimu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Kaimas; mentioned_place: Pagudė; mentioned_place: Prūsai; mentioned_place: Sūduva; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -42,10 +44,3 @@ Nakaimas iš Pagudės minimas tarp krikščionių plėšikautojų, kurių žygiu
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Ginklai]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/ivykiai/Martyno iš Golino žygis į Sūduvos kaimą, bendražygių žūtis ir kerštas]]
-- [[objektai/daiktai/Skobnis]]

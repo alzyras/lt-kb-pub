@@ -22,6 +22,7 @@ Mūšis Spalio 8 d. kariuomenės suartėjo ties Prostkais skiriamos Elko upės.
 - t-001
   global_id: t-41711
   teiginys: 'Spalio 8 d. kariuomenės ties Prostkais suartėjo prie jas skyrusios Elko upės.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Prostkai'
   pagrindžia:
     - c-001
 

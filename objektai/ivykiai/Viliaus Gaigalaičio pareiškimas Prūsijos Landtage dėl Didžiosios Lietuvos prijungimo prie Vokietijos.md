@@ -36,6 +36,8 @@ Nenurodyta
 - t-001
   global_id: t-26387
   teiginys: 'Rugpjūčio 1 d. Prūsijos Landtage Vilius Gaigalaitis lietuvių vardu pareiškė tikįsis Didžiosios Lietuvos prijungimo prie Vokietijos.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Vilius|Vilius]]; mentioned_person: [[objektai/asmenys/Vilius Gaigalaitis|Vilius Gaigalaitis]]; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Vokietija'
   pagrindžia:
     - c-001
 
@@ -53,9 +55,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Vilius]]
-- [[objektai/asmenys/Vilius Gaigalaitis]]

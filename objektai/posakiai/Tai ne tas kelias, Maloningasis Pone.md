@@ -3,10 +3,6 @@ tipas: posakis
 pavadinimas: 'Tai ne tas kelias, Maloningasis Pone'
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-aliases:
-  - 'objektai/posakiai/Tai ne tas kelias, Maloningasis Pone...'
-variantai:
-  - 'Tai ne tas kelias, Maloningasis Pone...'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -27,6 +23,8 @@ Apie tai sužinojęs Vilniaus vysku­ pas Povilas kartu su sufraganu Kiprijonu i
 - t-001
   global_id: t-86872
   teiginys: 'Vilniaus vyskupas Povilas posakiu „Tai ne tas kelias, Maloningasis Pone“ sustabdė karalių ir nukreipė jį į katalikų katedrą.'
+  sudarymo_pagrindimas: 'Citata palaiko konkretesnį ir gramatišką sakinį apie vyskupo veiksmą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -60,8 +58,3 @@ Apie tai sužinojęs Vilniaus vysku­ pas Povilas kartu su sufraganu Kiprijonu i
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Augustas]]
-- [[objektai/asmenys/Žygimantas]]

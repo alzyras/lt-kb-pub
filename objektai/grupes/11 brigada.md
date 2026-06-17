@@ -26,6 +26,8 @@ Marijampolės batalionas veikė 11 brigadoje, kuri kovėsi su raudonarmiečiais 
 - t-001
   global_id: t-38838
   teiginys: 'Marijampolės batalionas veikė 11 brigadoje, kuri kovėsi su raudonarmiečiais šiauriau nei Zarasų operaciją vykdžiusi I brigada.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie 11 brigados veikimą ir paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/I brigada|I brigada]]; mentioned_group: [[objektai/grupes/Marijampolės batalionas|Marijampolės batalionas]]; mentioned_group: [[objektai/grupes/brigada|brigada]]; mentioned_object: [[objektai/zodynas/viršila|viršila]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_person: [[objektai/asmenys/Antanas Šukys|Antanas Šukys]]; mentioned_place: Marijampolė; mentioned_place: Zarasai'
   pagrindžia:
     - c-001
 
@@ -33,6 +35,7 @@ Marijampolės batalionas veikė 11 brigadoje, kuri kovėsi su raudonarmiečiais 
 - t-002
   global_id: t-38839
   teiginys: 'Nastopkos vadovaujamos 11 brigados dalys veikė šiaurinėje Lietuvos teritorijos dalyje.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/brigada|brigada]]; mentioned_place: Daugpilis; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -90,13 +93,3 @@ Marijampolės batalionas veikė 11 brigadoje, kuri kovėsi su raudonarmiečiais 
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Antanas (vaistininkas)]]
-- [[objektai/asmenys/Antanas Šukys]]
-- [[objektai/grupes/I brigada]]
-- [[objektai/grupes/brigada]]
-- [[objektai/zodynas/viršila]]
-- [[objektai/grupes/Marijampolės batalionas]]
-- [[objektai/asmenys/S. Nastopka]]

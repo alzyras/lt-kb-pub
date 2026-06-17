@@ -26,6 +26,11 @@ Dusburgietis teigia, kad zajączkowski S.
 - t-001
   global_id: t-61378
   teiginys: 'S. Zajączkowskio straipsnis „Kaip jotvingiai buvo vadinami viduriniais amžiais“ paskelbtas 1940 m. leidinio „Lietuvos praeitis“ 1 tomo 1 sąsiuvinyje.'
+  sudarymo_pagrindimas: 'Citata patvirtina šaltinio publikavimo vietą, metus ir leidinio duomenis.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Jotvingiai|Jotvingiai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
+  temporaliniai_duomenys: 'įvykio data: 1940 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata patvirtina šaltinio publikavimo vietą, metus ir leidinio duomenis.'
   pagrindžia:
     - c-001
 

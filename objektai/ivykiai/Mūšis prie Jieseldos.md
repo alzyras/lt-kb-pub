@@ -20,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-Redakcinė pastaba teigia, kad mūšio prie Jieseldos pasakojimas siejamas ir su 1251—1252 m. karo tarp Mindaugo ir Danieliaus Romanovičiaus aprašymu. Pasakojimas apie mūšį prie Jieseldos gali būti paremtas Ipatijaus metraščio žinia apie 1262 m. Vasilkos Romanovičiaus karą su Lietuva. Redakcinė pastaba teigia, kad pasakojimas apie mūšį prie Jieseldos gali būti sukurtas pagal 1262 m. karo su Lietuva žinią.
+Redakcinė pastaba teigia, kad pasakojimas apie mūšį prie Jieseldos gali būti sukurtas pagal 1262 m. karo su Lietuva žinią. Redakcinė pastaba teigia, kad tame karo epizode Volynės kunigaikštis Vasilka Romanovičius vijosi lietuvius ligi Jieseldos ir sumušė juos.
 
 ## Laikotarpis ir datos
 
@@ -49,28 +49,52 @@ Nenurodyta
 <a id="claim-t-186683"></a>
 - t-001
   global_id: t-186683
-  teiginys: 'Redakcinė pastaba teigia, kad mūšio prie Jieseldos pasakojimas siejamas ir su 1251—1252 m. karo tarp Mindaugo ir Danieliaus Romanovičiaus aprašymu.'
+  teiginys: 'Pasakojimas apie mūšį prie Jieseldos 1971 m. komentare papildomai siejamas su 1251–1252 m. Mindaugo ir Danieliaus Romanovičiaus karo aprašymu.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Sąsaja su kitu aprašymu yra interpretacinė, todėl palikta su komentaro atribucija. Nepridėta detalių apie Pinsko kunigaikščių dalyvavimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_person: [[objektai/asmenys/Vasilka|Vasilka]]; mentioned_place: Naugardukas; mentioned_place: Nemunas; mentioned_place: Pinskas; mentioned_place: Volynė'
+  temporaliniai_duomenys: 'įvykio data: 1251-1252; įvykio data: 1252 m.; įvykio data: 1262 m.; įvykio data: apie 1262 m.; įvykio data: 1971 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
+  temporalinis_llm_pakomentavimas: 'Sąsaja su kitu aprašymu yra interpretacinė, todėl palikta su komentaro atribucija. Nepridėta detalių apie Pinsko kunigaikščių dalyvavimą.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-186684"></a>
 - t-002
   global_id: t-186684
-  teiginys: 'Pasakojimas apie mūšį prie Jieseldos gali būti paremtas Ipatijaus metraščio žinia apie 1262 m. Vasilkos Romanovičiaus karą su Lietuva.'
+  teiginys: 'Pasakojimas apie mūšį prie Jieseldos 1971 m. komentare laikomas galbūt sukurtu pagal žinią apie 1262 m. karą su Lietuva.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Spėjama pasakojimo kilmė suformuluota kaip komentaro vertinimas. Nepridėta Vasilkos Romanovičiaus veiksmų, nes šis teiginys apsiriboja šaltinio pagrindu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Vasilka|Vasilka]]; mentioned_place: Lietuva; mentioned_place: Naugardukas; mentioned_place: Nemunas; mentioned_place: Pinskas; mentioned_place: Volynė'
+  temporaliniai_duomenys: 'įvykio data: 1252 m.; įvykio data: 1262 m.; įvykio data: apie 1262 m.; įvykio data: 1971 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
+  temporalinis_llm_pakomentavimas: 'Spėjama pasakojimo kilmė suformuluota kaip komentaro vertinimas. Nepridėta Vasilkos Romanovičiaus veiksmų, nes šis teiginys apsiriboja šaltinio pagrindu.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-186685"></a>
 - t-003
   global_id: t-186685
-  teiginys: 'Redakcinė pastaba teigia, kad pasakojimas apie mūšį prie Jieseldos gali būti sukurtas pagal 1262 m. karo su Lietuva žinią.'
+  teiginys: 'Redakcinėje pastaboje mūšio prie Jieseldos pasakojimas laikomas galbūt sukurtu pagal žinią apie 1262 m. karą su Lietuva.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Tai redakcinė interpretacija, todėl palikta atribucija ir suformuluota aiškiau.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Vasilka|Vasilka]]; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Pripetė; mentioned_place: Volynė'
+  temporaliniai_duomenys: 'įvykio data: 1262 m.; įvykio data: apie 1262 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
+  temporalinis_llm_pakomentavimas: 'Tai redakcinė interpretacija, todėl palikta atribucija ir suformuluota aiškiau.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-186686"></a>
 - t-004
   global_id: t-186686
-  teiginys: 'Redakcinė pastaba teigia, kad tame karo epizode Volynės kunigaikštis Vasilka Romanovičius vijosi lietuvius ligi Jieseldos ir sumušė juos.'
+  teiginys: 'Pasakojimas apie mūšį prie Jieseldos 1971 m. komentare siejamas su žinia, kad 1262 m. Vasilka Romanovičius vijosi lietuvius iki Jieseldos ir juos sumušė.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Pasakojimo kilmės aiškinimas paliktas su komentaro atribucija. Subjektas išskleistas iki mūšio prie Jieseldos, nepridedant kitų karo aplinkybių.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Vasilka|Vasilka]]; mentioned_place: Nemunas; mentioned_place: Pripetė; mentioned_place: Volynė'
+  temporaliniai_duomenys: 'įvykio data: 1262 m.; įvykio data: apie 1262 m.; įvykio data: 1971 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
+  temporalinis_llm_pakomentavimas: 'Pasakojimo kilmės aiškinimas paliktas su komentaro atribucija. Subjektas išskleistas iki mūšio prie Jieseldos, nepridedant kitų karo aplinkybių.'
   pagrindžia:
     - c-001
 
@@ -112,11 +136,3 @@ Nenurodyta
   pagrindžia:
     - t-001
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Vasilka]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
-- [[objektai/asmenys/Tame (Baigos brolis)]]

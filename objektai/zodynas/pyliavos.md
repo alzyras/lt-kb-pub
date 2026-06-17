@@ -4,10 +4,13 @@ pavadinimas: 'pyliavos'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
+  - '1944 m.'
+  - '1946 m.'
   - '1947 m.'
   - '1949 m.'
-date_start: '1947'
-date_end: '1949'
+  - '1951 m.'
+date_start: '1944'
+date_end: '1951'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -29,6 +32,9 @@ Lietuvos partizanų 1947 m. 5 skyrius • L I E T U VA : S O V I E T Ų I R N A 
 - t-001
   global_id: t-101597
   teiginys: 'Mokesčiai ir pyliavos „buožėms“ buvo 50–100 proc. didesni negu vadinamiesiems „darbo valstiečiams“.'
+  susije_objektai: 'mentioned_place: SSRS'
+  temporaliniai_duomenys: 'įvykio data: 1949 m.; įvykio data: 1951 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 
@@ -36,6 +42,7 @@ Lietuvos partizanų 1947 m. 5 skyrius • L I E T U VA : S O V I E T Ų I R N A 
 - t-002
   global_id: t-101598
   teiginys: 'Partizanams užėmus miestelius, buvo naikinami valsčiaus dokumentai, mobilizacijos sąrašai ir pyliavų žiniaraščiai.'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -43,6 +50,11 @@ Lietuvos partizanų 1947 m. 5 skyrius • L I E T U VA : S O V I E T Ų I R N A 
 - t-004
   global_id: t-101600
   teiginys: 'Užimdami miestelius Lietuvos partizanai naikino vietos įgulas, valsčiaus dokumentus, mobilizacijos sąrašus ir pyliavų žiniaraščius.'
+  sudarymo_pagrindimas: 'Pašalintas OCR ir puslapio triukšmas, sakinys suformuluotas gramatiškai.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos partizanai|Lietuvos partizanai]]; mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1944-1946; įvykio data: 1946 m.; įvykio data: 1947 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas OCR ir puslapio triukšmas, sakinys suformuluotas gramatiškai.'
   pagrindžia:
     - c-003
 
@@ -50,6 +62,9 @@ Lietuvos partizanų 1947 m. 5 skyrius • L I E T U VA : S O V I E T Ų I R N A 
 - t-005
   global_id: t-101601
   teiginys: 'Užimdami miestelius, Lietuvos partizanai naikino valsčiaus dokumentus, mobilizacijos sąrašus ir pyliavų žiniaraščius.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos partizanai|Lietuvos partizanai]]; mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1944-1946; įvykio data: 1946 m.; įvykio data: 1947 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-003
 
@@ -114,8 +129,3 @@ Lietuvos partizanų 1947 m. 5 skyrius • L I E T U VA : S O V I E T Ų I R N A 
   pagrindžia:
     - t-005
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/NKVD]]
-- [[objektai/grupes/Lietuvos partizanai]]

@@ -37,6 +37,8 @@ Nenurodyta
 - t-001
   global_id: t-59459
   teiginys: 'Konradas iš Tirbergo su didele kariuomene įsiveržė į Sūduvos Zilijos valsčių, sudegino pastatus ir išsigabeno grobį.'
+  sudarymo_pagrindimas: 'Pradinis teiginys yra OCR fragmentas; citata remia pilną sakinį apie Zilijos nusiaubimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Dainava; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Sūduva; mentioned_place: Viena; mentioned_place: Zilija'
   pagrindžia:
     - c-001
 
@@ -44,6 +46,8 @@ Nenurodyta
 - t-002
   global_id: t-59460
   teiginys: 'Antrą kartą patekęs į nelaisvę, brolis Liudvikas iš Libencelės buvo nuvestas pas kilmingąjį Kantigirdą ir pavestas jo globai.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Kantigirdas|Kantigirdas]]; mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_person: [[objektai/asmenys/Liudvikas iš Libencelės|Liudvikas iš Libencelės]]; mentioned_place: Viena'
   pagrindžia:
     - c-002
 
@@ -91,13 +95,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Konradas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Liudvikas]]
-- [[objektai/asmenys/Liudvikas iš Libencelės]]
-- [[objektai/grupes/Sūduviai]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/asmenys/Kantigirdas]]

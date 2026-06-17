@@ -30,9 +30,15 @@ Dusburgietis teigia, kad apie Livonijos žemės atvertimą į tikėjimą 1204 vi
 - t-001
   global_id: t-60332
   teiginys: '1204 m. Livonija popiežiaus Inocento rūpesčiu buvo atversta į Kristaus tikėjimą.'
+  sudarymo_pagrindimas: 'Pašalintas antraštės ir bibliografinis triukšmas, paliktas aiškus faktas apie Inocentą.'
+  susije_objektai: 'mentioned_place: Livonija; mentioned_place: Ryga'
+  temporaliniai_duomenys: 'įvykio data: 1204 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas antraštės ir bibliografinis triukšmas, paliktas aiškus faktas apie Inocentą.'
   pagrindžia:
     - c-001
-
+- susijęs iš Martyno iš Opavos popiežių ir imperatorių istorija: Martyno iš Opavos istorijoje Inocentas III minimas kaip popiežius, o Otonas IV ir Fridrichas II – kaip imperatoriai.
+- susijęs iš Ptolomėjaus iš Lukos Analai: Popiežius Inocentas III viešpatavo kartu su imperatoriais Otonu IV ir Fridrichu II.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -48,7 +54,3 @@ Dusburgietis teigia, kad apie Livonijos žemės atvertimą į tikėjimą 1204 vi
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/Livonijos žemės atvertimas į tikėjimą (1204 m.)]]

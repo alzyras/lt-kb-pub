@@ -52,6 +52,7 @@ Nenurodyta
 - t-001
   global_id: t-47808
   teiginys: 'E. Danilaitė domėjosi brūkšniuotąja keramika Lietuvoje.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Sidabro dirbiniai|Sidabro dirbiniai]]; mentioned_person: [[objektai/autoriai/E. Danilaitė|E. Danilaitė]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -59,9 +60,16 @@ Nenurodyta
 - t-002
   global_id: t-47809
   teiginys: 'E. Danilaitė tyrinėjo brūkšniuotąją keramiką Lietuvoje.'
+  sudarymo_pagrindimas: 'Pradinis teiginys yra nutrūkęs bibliografinis fragmentas.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Sidabro dirbiniai|Sidabro dirbiniai]]; mentioned_person: [[objektai/autoriai/E. Danilaitė|E. Danilaitė]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/autoriai/E. Danilaitė.md#claim-t-30591|E. Danilaitė]]: E. Danilaitė tyrinėjo brūkšniuotąją keramiką Lietuvoje.
+- susijęs iš [[objektai/autoriai/E. Radzvilovaitė.md#claim-t-30596|E. Radzvilovaitė]]: Radzvilovaitė pateikė žinių apie lietuvių genčių skydus II-VIII a.
+- susijęs iš [[objektai/daiktai/Geležiniai įrankiai.md#claim-t-31107|Geležiniai įrankiai]]: J. Stankus rašė apie geležinių įrankių technologiją Lietuvoje V-VIII ir IX-XIII a.
+- susijęs iš [[objektai/daiktai/Skydai.md#claim-t-97104|Skydai]]: E. Radzvilovaitė pateikė žinių apie lietuvių genčių skydus II-VIII a.
+- susijęs iš [[objektai/grupes/LTSR Mokslų Akademijos Istorijos Institutas.md#claim-t-31259|LTSR Mokslų Akademijos Istorijos Institutas]]: LTSR Mokslų Akademijos Istorijos Institutas kas dvejus metus leido knygas „Archeologiniai ir etnografiniai tyrinėjimai Lietuvoje“.
+- susijęs iš Archeologiniai ir etnografiniai tyrinėjimai Lietuvoje: „Archeologiniai ir etnografiniai tyrinėjimai Lietuvoje“ buvo kas dvejus metus leidžiamas LTSR MA Istorijos instituto leidinys.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -80,12 +88,3 @@ Nenurodyta
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/E. Danilaitė]]
-- [[objektai/daiktai/Sidabro dirbiniai]]
-- [[objektai/autoriai/E. Radzvilovaitė]]
-- [[objektai/daiktai/Geležiniai įrankiai]]
-- [[objektai/grupes/LTSR Mokslų Akademijos Istorijos Institutas]]
-- [[objektai/daiktai/Skydai]]

@@ -21,6 +21,8 @@ Reikš­ mingiausia jos dalis buvo šventasis Šventaragio slėnis,' rėpian­ t
 - t-001
   global_id: t-86509
   teiginys: 'Po Vilniaus gyventojų krikšto amžinoji ugnis buvo iškilmingai užgesinta.'
+  sudarymo_pagrindimas: 'Citata tiesiogiai remia teiginį, bet pradinis tekstas nutrūkęs ir triukšmingas.'
+  susije_objektai: 'mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -28,9 +30,14 @@ Reikš­ mingiausia jos dalis buvo šventasis Šventaragio slėnis,' rėpian­ t
 - t-002
   global_id: t-86510
   teiginys: 'Šventaragio slėnyje degė lietuvių garbinama amžinoji ugnis Gabija.'
+  sudarymo_pagrindimas: 'Teiginys gramatiškas ir tiksliai perteikia citatoje pateiktą faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Akademijos teatro įranga|Akademijos teatro įranga]]; mentioned_object: [[objektai/zodynas/gabija|gabija]]; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_place: Vilija'
   pagrindžia:
     - c-001
-
+- susijęs iš Vilnelė: Šventaragio slėnis buvo lanka tarp Vilijos ir Vilnelės, kur degė lietuvių garbinama amžinoji ugnis Gabija.
+- susijęs iš Šventaragio slėnis: Šventaragio slėnyje tarp Vilijos ir Vilnelės degė lietuvių garbinta amžinoji ugnis Gabija.
+- susijęs iš Šventaragio slėnis: Šventaragio slėnyje, kur dabar stovi katedra, iki krikščionybės įvedimo degė amžinoji ugnis Gabija.
+- susijęs iš Šventaragio slėnis: Šventaragio slėnyje, kur dabar stovi katedra, iki krikščionybės įvedimo degė amžinoji ugnis Gabija Perkūno garbei.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -65,16 +72,3 @@ Reikš­ mingiausia jos dalis buvo šventasis Šventaragio slėnis,' rėpian­ t
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/ritualas]]
-
-### Susiję objektai
-- [[objektai/daiktai/Akademijos teatro įranga]]
-- [[objektai/zodynas/pagonybė]]
-- [[objektai/asmenys/Šventaragis]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/gabija]]
-- [[objektai/paprociai/Amžinosios ugnies saugojimas ir Perkūno garbinimas Šventaragio slėnyje]]
-- [[objektai/zodynas/vaidilos, žyniai ir pranašai]]

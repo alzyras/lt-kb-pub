@@ -18,6 +18,11 @@ Albertas Vijūkas-Kojelavičius sekė antikiniais istorikais, ypač Titu Livijum
 - t-001
   global_id: t-186289
   teiginys: 'Albertas Vijūkas-Kojelavičius sekė antikiniais istorikais, ypač Titu Livijumi.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata pagrindžia Livijaus įtaką Kojelavičiui, o pradinė formuluotė turi OCR klaidų ir neaiškų įvardį.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Albertas|Albertas]]; mentioned_person: [[objektai/autoriai/Albertas Vijūkas-Kojelavičius|Albertas Vijūkas-Kojelavičius]]'
   pagrindžia:
     - c-001
 

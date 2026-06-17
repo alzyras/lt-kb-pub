@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Prie Stalovičių Aleksandro Suvorovo pajėgos sumušė ir išblaškė M. K. Oginskio pajėgas.
+Oginskio pajėgos netrukus buvo sumuštos prie Stalovičių ir išblaškytos tuo metu dar pulkininko, vėliau tapusio rusų generalisimu Aleksandro Suvorovo pajėgų.
 
 ## Teiginiai
 
@@ -21,9 +21,11 @@ Prie Stalovičių Aleksandro Suvorovo pajėgos sumušė ir išblaškė M. K. Ogi
 - t-001
   global_id: t-38554
   teiginys: 'Prie Stalovičių Aleksandro Suvorovo pajėgos sumušė ir išblaškė M. K. Oginskio pajėgas.'
+  sudarymo_pagrindimas: 'Pataisyta sakinio sandara ir aiškiau nurodytas veiksmo atlikėjas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/ivykiai/Bezdežo (Antopolio) mūšis (1771 m.).md#claim-t-09821|Bezdežo (Antopolio) mūšis (1771 m.)]]: Po Bezdežo mūšio M. K. Oginskio pajėgos netrukus buvo sumuštos prie Stalovičių ir išblaškytos Aleksandro Suvorovo pajėgų.
 ## Reikšmingi paminėjimai
 
 - c-001

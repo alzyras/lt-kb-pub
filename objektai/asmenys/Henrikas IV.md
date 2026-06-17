@@ -32,9 +32,16 @@ Dalyvavo ir Lancasterio grafas Derby, būsimasis Anglijos karalius Henrikas IV (
 - t-001
   global_id: t-30261
   teiginys: 'Būsimasis Anglijos karalius Henrikas IV dalyvavo žygyje kaip Lancasterio grafas Derby ir paliko smulkias jo sąskaitas.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'territory: Anglija; territory: Lietuva; territory: Prancūzija; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Anglija; mentioned_place: Lietuva; mentioned_place: Prancūzija'
+  semantiniai_rysiai: '[[objektai/asmenys/Henrikas IV|Henrikas IV]] buvo valdovas Anglija; [[objektai/asmenys/Henrikas IV|Henrikas IV]] buvo valdovas Lietuva; [[objektai/asmenys/Henrikas IV|Henrikas IV]] buvo valdovas Prancūzija'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Boucicaut.md#claim-t-87490|Boucicaut]]: Riteris Boucicaut vadovavo prancūzams ir kitiems kariams žygyje, kurio dalyviai susijungė prie Kauno.
+- susijęs iš [[objektai/asmenys/Henrikas Lankasteris.md#claim-t-87430|Henrikas Lankasteris]]: Derbio grafas Henrikas, Lankasterio kunigaikščio Jono vyresnysis sūnus, vadovavo Gdansko uoste išsilaipinusiems lankininkams.
+- susijęs iš [[objektai/grupes/Anglai.md#claim-t-172067|Anglai]]: Tūkstančiui rinktinių anglų lankininkų, išsilaipinusių Gdansko uoste, vadovavo Derbio grafas Henrikas.
+- susijęs iš [[objektai/grupes/Prancūzai.md#claim-t-81588|Prancūzai]]: 1390 m. žygyje prancūzams ir kitiems kariams vadovavo riteris Boucicaut.
+- susijęs iš Anglija: Derbio grafas Henrikas vadovavo Gdansko uoste išsilaipinusiems lankininkams ir vėliau, kaip Henrikas IV, paveldėjo Anglijos sostą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -54,10 +61,6 @@ Dalyvavo ir Lancasterio grafas Derby, būsimasis Anglijos karalius Henrikas IV (
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Miera|miera]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/grupes/Anglai]]
-- [[objektai/asmenys/Boucicaut]]
-- [[objektai/asmenys/Henrikas Lankasteris]]
-- [[objektai/grupes/Prancūzai]]
+- Henrikas IV buvo_valdovas [[objektai/vietos/Anglija]]
+- Henrikas IV buvo_valdovas [[objektai/vietos/Lietuva]]
+- Henrikas IV buvo_valdovas [[objektai/vietos/Prancūzija]]

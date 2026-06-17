@@ -29,6 +29,10 @@ Dusburgietis teigia, kad powierski J.
 - t-001
   global_id: t-61239
   teiginys: 'J. Powierskio veikalas apie Vloclaveko vyskupijos Ostrovico ir Golubo valdas 1235–1308 m. išleistas Gdanske 1977 m.'
+  sudarymo_pagrindimas: 'Citata palaiko šaltinio temą, autorių, leidimo vietą ir metus.'
+  temporaliniai_duomenys: 'įvykio data: 1235-1308; įvykio data: 1308 m.; įvykio data: 1977 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko šaltinio temą, autorių, leidimo vietą ir metus.'
   pagrindžia:
     - c-001
 

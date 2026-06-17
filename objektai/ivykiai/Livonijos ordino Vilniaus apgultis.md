@@ -4,9 +4,10 @@ pavadinimas: 'Livonijos ordino Vilniaus apgultis'
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 datos:
+  - '1431 m.'
   - '1433 m.'
-date_start: '1433'
-date_end: ''
+date_start: '1431'
+date_end: '1433'
 sukurta: ''
 atnaujinta: ''
 amziai:
@@ -16,7 +17,7 @@ amziai:
 
 ## Santrauka
 
-1433 m. liepą–rugsėjį Livonijos ordino kariuomenė, veikiausiai veikdama atskirai nuo Švitrigailos šalininkų, dvi savaites buvo apgulusi Vilnių. 1433 m. liepą iš Cėsių Lietuvos niokoti išžygiavusi Livonijos ordino kariuomenė žygyje užtruko 11 savaičių, o magistras Rutenbergas rugsėjo 18 d. grįžo į Rygą. Redakcinė pastaba nurodo, kad 1433 m. liepos–rugsėjo mėn. Livonijos kariuomenė veikė atskirai nuo Švitrigailos šalininkų.
+Redakcinė pastaba nurodo, kad 1433 m. liepos–rugsėjo mėn. Livonijos kariuomenė veikė atskirai nuo Švitrigailos šalininkų. Redakcinė pastaba nurodo, kad ji, kaip manoma, dvi savaites buvo apgulusi Vilnių.
 
 ## Laikotarpis ir datos
 
@@ -45,7 +46,13 @@ Nenurodyta
 <a id="claim-t-186749"></a>
 - t-001
   global_id: t-186749
-  teiginys: '1433 m. liepą–rugsėjį Livonijos ordino kariuomenė, veikiausiai veikdama atskirai nuo Švitrigailos šalininkų, dvi savaites buvo apgulusi Vilnių.'
+  teiginys: 'Komentaro teigimu, 1433 m. liepą–rugsėjį Livonijos kariuomenė veikiausiai atskirai nuo Švitrigailos šalininkų dvi savaites buvo apgulusi Vilnių.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Reikalinga atribucija dėl šaltinyje esančio „atrodo“.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Livonija; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1431 m.; įvykio data: 1433 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikalinga atribucija dėl šaltinyje esančio „atrodo“.'
   pagrindžia:
     - c-001
 
@@ -53,15 +60,14 @@ Nenurodyta
 - t-002
   global_id: t-186750
   teiginys: '1433 m. liepą iš Cėsių Lietuvos niokoti išžygiavusi Livonijos ordino kariuomenė žygyje užtruko 11 savaičių, o magistras Rutenbergas rugsėjo 18 d. grįžo į Rygą.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Livonijos ordino kariuomenės žygio trukmę ir Rutenbergo grįžimą. Citata tiesiogiai remia datas, vietas ir rezultatą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Cėsiai; mentioned_place: Lietuva; mentioned_place: Livonija'
+  temporaliniai_duomenys: 'įvykio data: 1433 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie Livonijos ordino kariuomenės žygio trukmę ir Rutenbergo grįžimą. Citata tiesiogiai remia datas, vietas ir rezultatą.'
   pagrindžia:
     - c-002
-
-<a id="claim-t-186751"></a>
-- t-003
-  global_id: t-186751
-  teiginys: 'Redakcinė pastaba nurodo, kad 1433 m. liepos–rugsėjo mėn. Livonijos kariuomenė veikė atskirai nuo Švitrigailos šalininkų.'
-  pagrindžia:
-    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -93,13 +99,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Livonijos ordinas]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/asmenys/Švitrigaila]]
-- [[objektai/asmenys/Žygimantas]]
-- [[objektai/zodynas/žygis]]

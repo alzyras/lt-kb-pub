@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Po ištarmės Noliubas pabėgo į Ziokos valsčių, o vėliau, dažnų antpuolių nukamuotas, priėmė tikėjimą. Vargulis įspėjo Noliubą žodžiais „Prakeiktasis Noliube, eik dabar ir būk valkata“, ragindamas paklusti broliams. Po Vargulio įspėjimo Noliubas pabėgo į Ziokos valsčių, o vėliau, nukamuotas antpuolių, nulenkė galvą prieš tikėjimą.
+Dusburgietis teigia, kad kai dėl to supykę broliai ketino prieš jį traukti su kariuomene, jo giminaitis, vardu Vargulis, gailėdamasis šiojo jaunatviško neapdairumo, broliams pritarus, išėjo į priekį ir pasakė jam: „Prakeiktasis p. 54), kelio iš Kaliningrado į Laduškiną pradžioje. Dusburgietis teigia, kad šis pabėgo į kaimyninį Ziokos valsčių, paspruko vienui vienas, o visa jo namų šeimyna bei visi turtai buvo brolių išsklaidyti. Ilgainiui tas pats Noliubas, dažnų antpuolių nukamuotas, nulenkė prieš tikėjimą galvą, tapdamas pagirtinu žmogumi ir dėl savo.
 
 ## Teiginiai
 
@@ -29,6 +29,8 @@ Po ištarmės Noliubas pabėgo į Ziokos valsčių, o vėliau, dažnų antpuoli�
 - t-001
   global_id: t-89601
   teiginys: 'Po ištarmės Noliubas pabėgo į Ziokos valsčių, o vėliau, dažnų antpuolių nukamuotas, priėmė tikėjimą.'
+  sudarymo_pagrindimas: 'Citata pagrindžia faktą, bet reikia susieti jį su posakio aplinkybe.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Noliubas|Noliubas]]'
   pagrindžia:
     - c-002
 
@@ -36,6 +38,8 @@ Po ištarmės Noliubas pabėgo į Ziokos valsčių, o vėliau, dažnų antpuoli�
 - t-002
   global_id: t-89602
   teiginys: 'Vargulis įspėjo Noliubą žodžiais „Prakeiktasis Noliube, eik dabar ir būk valkata“, ragindamas paklusti broliams.'
+  sudarymo_pagrindimas: 'Citata palaiko teiginį, o OCR išnašos triukšmas pašalintas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_person: [[objektai/asmenys/Noliubas|Noliubas]]; mentioned_person: [[objektai/asmenys/Vargulis|Vargulis]]; mentioned_place: Kvedenava; mentioned_place: Sklunija'
   pagrindžia:
     - c-001
 
@@ -43,6 +47,8 @@ Po ištarmės Noliubas pabėgo į Ziokos valsčių, o vėliau, dažnų antpuoli�
 - t-003
   global_id: t-89603
   teiginys: 'Po Vargulio įspėjimo Noliubas pabėgo į Ziokos valsčių, o vėliau, nukamuotas antpuolių, nulenkė galvą prieš tikėjimą.'
+  sudarymo_pagrindimas: 'Citata palaiko pilną faktinį sakinį apie Noliubo likimą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Noliubas|Noliubas]]; mentioned_person: [[objektai/asmenys/Vargulis|Vargulis]]'
   pagrindžia:
     - c-002
 
@@ -91,10 +97,3 @@ Po ištarmės Noliubas pabėgo į Ziokos valsčių, o vėliau, dažnų antpuoli�
   pagrindžia:
     - t-003
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Sembai]]
-- [[objektai/asmenys/Noliubas]]
-- [[objektai/asmenys/Vargulis]]

@@ -19,7 +19,7 @@ amziai:
 
 ## Santrauka
 
-1293 m. liepos 25 d. magistras Meinhardas užpuolė Junigedą ir Pieštvę, o jo pajėgos iki pamatų sudegino abiejų pilių papilius.
+Dusburgietis teigia, kad apie Junigedos ir Pieštvės pilių papilių sudeginimą Tais pačiais metais, švento Jokūbo apaštalo dieną (liepos 25), brolis Meinhardas, magistras, kurio nei vargai nepalaužė, nei mirtis nepalauš, kuris nei žūti nebijojo, nei gyventi neatsižadėjo, subūrė galybę.
 
 ## Laikotarpis ir datos
 
@@ -43,6 +43,11 @@ Nenurodyta
 - t-001
   global_id: t-59528
   teiginys: '1293 m. liepos 25 d. magistras Meinhardas užpuolė Junigedą ir Pieštvę, o jo pajėgos iki pamatų sudegino abiejų pilių papilius.'
+  sudarymo_pagrindimas: 'Reikia aiškiai nurodyti metus iš įvykio konteksto ir išlaikyti pilną sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)|Jokūbas (vėliau Urbonas IV)]]; mentioned_place: Junigeda; mentioned_place: Pieštvė'
+  temporaliniai_duomenys: 'įvykio data: 1293 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia aiškiai nurodyti metus iš įvykio konteksto ir išlaikyti pilną sakinį.'
   pagrindžia:
     - c-001
 
@@ -69,9 +74,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/magistras]]

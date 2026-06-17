@@ -43,6 +43,11 @@ Nenurodyta
 - t-001
   global_id: t-26374
   teiginys: '1948 m. viduryje JAV Kongresas priėmė Perkeltųjų asmenų įstatymą, numatantį įsileisti 205 tūkst. dipukų.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nurodo veikėją, veiksmą, laiką ir įstatymo turinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/JAV Kongresas|JAV Kongresas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Australija; mentioned_place: Baltija; mentioned_place: Lenkija'
+  temporaliniai_duomenys: 'įvykio data: 1948 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo veikėją, veiksmą, laiką ir įstatymo turinį.'
   pagrindžia:
     - c-001
 
@@ -65,8 +70,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/JAV Kongresas]]
-- [[objektai/grupes/Lietuviai]]

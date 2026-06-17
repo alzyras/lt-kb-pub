@@ -24,9 +24,17 @@ Choinicams kritus, popiežiaus pasiuntinys Rudolfas pasistengė, kad būtų suda
 - t-001
   global_id: t-185261
   teiginys: 'Choinicams kritus, popiežiaus pasiuntinys Rudolfas pasistengė, kad būtų sudaryta taika.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Choinicų kritimo pasekmę.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/įgula|įgula]]'
+  temporaliniai_duomenys: 'įvykio data: 1467 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie Choinicų kritimo pasekmę.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/ivykiai/Choinicų apgultis ir pasidavimas karaliui (1466-1467 m.).md#claim-t-185558|Choinicų apgultis ir pasidavimas karaliui (1466-1467 m.)]]: Per Choinicų apgultį karalius įsakė lietuvių kavalerijos vadui budėti, kad būtų atremti pilies gynėjų išpuoliai.
 ## Reikšmingi paminėjimai
 
 - c-001

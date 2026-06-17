@@ -3,12 +3,18 @@ tipas: vieta
 pavadinimas: 'Nacionalinė M. Mažvydo biblioteka'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+datos:
+  - '1940 m.'
+date_start: '1940'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - ginklas
   - miestas
   - vieta
+amziai:
+  - 'XX'
 ---
 # Nacionalinė M. Mažvydo biblioteka
 
@@ -22,6 +28,11 @@ Pociaus vadovaujamų vyrų buvo išdėstyti ties Žvėryno tiltu kitoje Neries p
 - t-001
   global_id: t-41953
   teiginys: 'Dalis A. Pociaus vadovaujamų ginkluotų vyrų išsidėstė ant Nacionalinės M. Mažvydo bibliotekos stogo.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie bibliotekos stogą ir paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/posakiai/Nepakartoti 1940 m. klaidos!|Nepakartoti 1940 m. klaidos!]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/autoriai/Martynas Mažvydas Vaitkūnas|Martynas Mažvydas Vaitkūnas]]'
+  temporaliniai_duomenys: 'įvykio data: 1940 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie bibliotekos stogą ir paremtas citata.'
   pagrindžia:
     - c-002
 
@@ -29,6 +40,8 @@ Pociaus vadovaujamų vyrų buvo išdėstyti ties Žvėryno tiltu kitoje Neries p
 - t-002
   global_id: t-41954
   teiginys: 'Nacionalinėje M. Mažvydo bibliotekoje Raudonasis Kryžius įkūrė pirmosios medicinos pagalbos ir medicininio vadovavimo punktą.'
+  sudarymo_pagrindimas: 'Patikslinta pagal citatą, kad punktas buvo ir medicininio vadovavimo.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Raudonasis Kryžius|Raudonasis Kryžius]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/daiktai/Vaistinės prekės, vaistai ir gydomieji gėrimai|Vaistinės prekės, vaistai ir gydomieji gėrimai]]; mentioned_person: [[objektai/autoriai/Martynas Mažvydas Vaitkūnas|Martynas Mažvydas Vaitkūnas]]'
   pagrindžia:
     - c-001
 

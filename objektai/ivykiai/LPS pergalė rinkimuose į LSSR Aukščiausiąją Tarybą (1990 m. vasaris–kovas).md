@@ -43,6 +43,11 @@ Nenurodyta
 - t-001
   global_id: t-20251
   teiginys: 'Per 1990 m. vasario–kovo rinkimus į LSSR Aukščiausiąją Tarybą LPS iškelti ir paremti atstovai gavo 96 iš 133 vietų.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiksliai nurodo rinkimų rezultatą.'
+  susije_objektai: 'mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1990 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir tiksliai nurodo rinkimų rezultatą.'
   pagrindžia:
     - c-001
 

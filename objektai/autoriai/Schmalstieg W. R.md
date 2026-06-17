@@ -28,6 +28,11 @@ Dusburgietis teigia, kad schmalstieg W.
 - t-001
   global_id: t-60785
   teiginys: 'W. R. Schmalstiegas 1974 m. Londone išleido knygą apie trijų katekizmų senosios prūsų kalbos fonologiją ir morfologiją.'
+  sudarymo_pagrindimas: 'Bibliografinis įrašas aiškiai nurodo autorių, knygos temą, vietą ir metus.'
+  susije_objektai: 'mentioned_place: Londonas; mentioned_place: Prūsai'
+  temporaliniai_duomenys: 'įvykio data: 1974 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Bibliografinis įrašas aiškiai nurodo autorių, knygos temą, vietą ir metus.'
   pagrindžia:
     - c-001
 

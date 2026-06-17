@@ -3,11 +3,17 @@ tipas: posakis
 pavadinimas: '„Iš tikrųjų jokia kita pasaulio kalba...“'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1812 m.'
+date_start: '1812'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - posakis
   - tauta
+amziai:
+  - 'XIX'
 ---
 # „Iš tikrųjų jokia kita pasaulio kalba...“
 
@@ -21,6 +27,11 @@ III s k y r i u s Rusijos imperijos valdoma Lietuva (1795–1915) „Iš tikrųj
 - t-001
   global_id: t-20842
   teiginys: 'Lietuvių kalba apibūdinama kaip sulaukusi daugiau aukščiausių pagyrimų nei bet kuri kita pasaulio kalba.'
+  sudarymo_pagrindimas: 'Pašalintas boilerplate ir suformuluotas sklandus faktinis sakinys.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Immanuel Kant|Immanuel Kant]]; mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_place: Lietuva; mentioned_place: Rusija'
+  temporaliniai_duomenys: 'įvykio data: 1812 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas boilerplate ir suformuluotas sklandus faktinis sakinys.'
   pagrindžia:
     - c-001
 
@@ -52,12 +63,3 @@ III s k y r i u s Rusijos imperijos valdoma Lietuva (1795–1915) „Iš tikrųj
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Immanuel Kant]]
-- [[objektai/asmenys/Kristijonas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Kristijonas Gotlibas Milkus]]
-- [[objektai/zodynas/autokratinė monarchinė imperija]]
-- [[objektai/zodynas/interliudas]]

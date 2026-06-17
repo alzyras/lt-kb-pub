@@ -31,6 +31,12 @@ Dusburgietis teigia, kad apie Vaclovo, Čekijos karaliaus, mirtį ir jo sosto at
 - t-001
   global_id: t-60454
   teiginys: '1307 m. mirė Čekijos karalius Vaclovas, o Čekijos sostas atiteko svetimiesiems.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Vaclovo mirtį ir sosto atitekimą.'
+  susije_objektai: 'territory: Čekija; mentioned_object: [[objektai/zodynas/Romos karalius|Romos karalius]]; mentioned_person: [[objektai/asmenys/Albrechtas|Albrechtas]]; mentioned_place: Čekija'
+  semantiniai_rysiai: '[[objektai/asmenys/Vaclovas (Čekijos karalius)|Vaclovas (Čekijos karalius)]] buvo valdovas Čekija'
+  temporaliniai_duomenys: 'valdymo laikotarpis: 1307 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Vaclovas (Čekijos karalius) buvo valdovas Čekija“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie Vaclovo mirtį ir sosto atitekimą.'
   pagrindžia:
     - c-001
 
@@ -53,8 +59,4 @@ Dusburgietis teigia, kad apie Vaclovo, Čekijos karaliaus, mirtį ir jo sosto at
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Albrechtas]]
-- [[objektai/zodynas/Romos karalius]]
-- [[objektai/asmenys/Albrechtas (Romos karalius)]]
-- [[objektai/ivykiai/Čekijos sosto perėjimas po Vaclovo mirties (1307 m.)]]
+- Vaclovas (Čekijos karalius) buvo_valdovas [[objektai/vietos/Čekija]]

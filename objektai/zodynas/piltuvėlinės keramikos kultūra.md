@@ -3,10 +3,16 @@ tipas: zodyno_irasas
 pavadinimas: 'piltuvėlinės keramikos kultūra'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+datos:
+  - '4000 m.'
+date_start: '4000'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - sąvoka
+amziai:
+  - 'XL'
 ---
 # piltuvėlinės keramikos kultūra
 
@@ -20,6 +26,11 @@ pietiniame Pabaltijyje, tarp Danijos ir Lietuvos plotų, išryškėjo gana savit
 - t-001
   global_id: t-32802
   teiginys: 'Piltuvėlinės keramikos kultūra nuo 4000 m. pr. Kr. išryškėjo pietiniame Pabaltijyje, tarp Danijos ir Lietuvos plotų.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
+  susije_objektai: 'mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 4000 m; įvykio data: po 4000 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
   pagrindžia:
     - c-001
 

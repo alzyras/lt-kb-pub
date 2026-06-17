@@ -20,9 +20,11 @@ Kolona pro Kaniūkų bei Pakalnių kaimus turėjo veržtis Utenos kryptimi.
 - t-001
   global_id: t-41760
   teiginys: 'Kolona pro Kaniūkų ir Pakalnių kaimus turėjo veržtis Utenos kryptimi.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_place: Utena; mentioned_place: Viena'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/M. Pečiulionis.md#claim-t-40319|M. Pečiulionis]]: K. Ladygos kolonos karius, supusius Kaniūkų kaimą, rėmė karininko M. Pečiulionio artilerija.
 ## Reikšmingi paminėjimai
 
 - c-001

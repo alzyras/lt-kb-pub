@@ -5,8 +5,9 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1764 m.'
+  - '1768 m.'
 date_start: '1764'
-date_end: ''
+date_end: '1768'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -30,6 +31,9 @@ Jai vadovauti buvo pakviestas iš šalies 1764 m. išvarytas buvęs respublikona
 - t-001
   global_id: t-40273
   teiginys: 'Karolis Stanislovas Radvila buvo pakviestas vadovauti konfederatams po to, kai 1764 m. buvo išvarytas iš šalies.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Čartoriskiai|Čartoriskiai]]; mentioned_object: [[objektai/zodynas/konfederacija|konfederacija]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_person: [[objektai/asmenys/Stanislovas|Stanislovas]]'
+  temporaliniai_duomenys: 'įvykio data: 1764 m.; įvykio data: 1767-1768; įvykio data: 1768 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -53,13 +57,3 @@ Jai vadovauti buvo pakviestas iš šalies 1764 m. išvarytas buvęs respublikona
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bajorai]]
-- [[objektai/asmenys/Karolis]]
-- [[objektai/asmenys/Radvila]]
-- [[objektai/zodynas/konfederacija]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/grupes/Čartoriskiai]]
-- [[objektai/asmenys/Stanislovas]]

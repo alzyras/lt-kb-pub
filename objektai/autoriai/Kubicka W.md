@@ -29,6 +29,8 @@ Dusburgietis teigia, kad kubicka W.
 - t-001
   global_id: t-60733
   teiginys: 'W. Kubicka parengė senosios prūsų kalbos bibliografiją iki 1965 metų.'
+  sudarymo_pagrindimas: 'Citata yra bibliografinis įrašas, leidžiantis suformuluoti pilną sakinį apie autorę.'
+  susije_objektai: 'mentioned_place: Prūsai'
   pagrindžia:
     - c-001
 
@@ -45,7 +47,3 @@ Dusburgietis teigia, kad kubicka W.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/bibliografija]]

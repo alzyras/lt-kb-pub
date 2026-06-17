@@ -22,6 +22,9 @@ Dusburgietis teigia, kad kluniečių ordinas — 900 viešpaties metais popieži
 - t-001
   global_id: t-63010
   teiginys: 'Kluniečių ordinas datuojamas 900 Viešpaties metais, popiežiaus Adrijono III laikais.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pašalintas nutrūkęs bibliografinis fragmentas ir suformuluotas pilnas sakinys.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kartūzų ordinas|Kartūzų ordinas]]'
   pagrindžia:
     - c-001
 
@@ -39,7 +42,3 @@ Dusburgietis teigia, kad kluniečių ordinas — 900 viešpaties metais popieži
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kartūzų ordinas]]

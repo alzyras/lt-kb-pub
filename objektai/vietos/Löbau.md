@@ -20,6 +20,8 @@ Kai kurių riterių įspėtas, įsakė jis savo kariuomenei iš Kanerniko eiti �
 - t-001
   global_id: t-34135
   teiginys: 'Kryžiuočių kariuomenė kelią nuo Löbau iki Grünvaldo turėjo įveikti audringą naktį.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-002
 
@@ -27,6 +29,8 @@ Kai kurių riterių įspėtas, įsakė jis savo kariuomenei iš Kanerniko eiti �
 - t-002
   global_id: t-34136
   teiginys: 'Įspėtas kai kurių riterių, Ordino vadas įsakė kariuomenei iš Kanerniko eiti šiaurėn į Löbau.'
+  sudarymo_pagrindimas: 'Pradinė formuluotė neaiški dėl įvardžio; citata palaiko aiškesnį sakinį.'
+  susije_objektai: 'mentioned_place: Drevenca'
   pagrindžia:
     - c-001
 
@@ -34,6 +38,11 @@ Kai kurių riterių įspėtas, įsakė jis savo kariuomenei iš Kanerniko eiti �
 - t-003
   global_id: t-184308
   teiginys: 'Įspėtas kai kurių riterių, Ordino vadas įsakė kariuomenei iš Kanerniko žygiuoti į šiaurę, į Löbau.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis teiginys turėjo neaiškų įvardį ir OCR fragmentų.'
+  susije_objektai: 'mentioned_place: Drevenca'
   pagrindžia:
     - c-001
 

@@ -18,6 +18,11 @@ Didikai ir bajorai teigė, kad Lietuvos Didžiajai Kunigaikštystei ramybę sute
 - t-001
   global_id: t-185469
   teiginys: 'Didikai ir bajorai teigė, kad Lietuvos Didžiajai Kunigaikštystei ramybę suteiktų valdovas, asmeniškai saugantis jos vientisumą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pašalintos nutrūkusios frazės ir išlaikyta citatos mintis.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lietuva; mentioned_place: Sluckas'
   pagrindžia:
     - c-001
 
@@ -25,6 +30,11 @@ Didikai ir bajorai teigė, kad Lietuvos Didžiajai Kunigaikštystei ramybę sute
 - t-002
   global_id: t-185470
   teiginys: 'Mintis apie savarankišką Lietuvos Didžiosios Kunigaikštystės valdovą sukėlė palankumą Aleksandrui Sluckiečiui arba vienam iš jo sūnų.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata palaiko konkretų politinės minties poveikį, sakinys sutvarkytas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lietuva; mentioned_place: Sluckas'
   pagrindžia:
     - c-002
 
@@ -79,9 +89,3 @@ Didikai ir bajorai teigė, kad Lietuvos Didžiajai Kunigaikštystei ramybę sute
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Bajorai]]
-- [[objektai/grupes/Lietuvos didikai]]

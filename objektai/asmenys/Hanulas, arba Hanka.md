@@ -28,6 +28,11 @@ Ta­ da visa tai paėmė į savo valdžią - ir jo auksą, ir jo turtus, ir jo �
 - t-001
   global_id: t-87511
   teiginys: 'Hanulas autentiškame 1385 m. Vladislovo Jogailos laiške vadinamas Hanka, Vilniaus seniūnu.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir tinkamai perteikia citatoje nurodytą vardo bei pareigų vartoseną.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_person: [[objektai/asmenys/Hanulas|Hanulas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1385 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir tinkamai perteikia citatoje nurodytą vardo bei pareigų vartoseną.'
   pagrindžia:
     - c-001
 
@@ -57,8 +62,3 @@ Ta­ da visa tai paėmė į savo valdžią - ir jo auksą, ir jo turtus, ir jo �
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/seniūnas]]
-- [[objektai/zodynas/Pilininkas capitaneus seniūnas]]

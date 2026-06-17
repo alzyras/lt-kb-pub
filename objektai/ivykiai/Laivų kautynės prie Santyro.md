@@ -39,6 +39,9 @@ Nenurodyta
 - t-001
   global_id: t-62359
   teiginys: 'Prie Santyro brolis Konradas Bremeris užpuolė Sventopelko laivus ir dalį jų paskandino arba smarkiai apgadino.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Citata palaiko glaustą kautynių aprašymą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/asmenys/Konradas Bremeris|Konradas Bremeris]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Elbingas; mentioned_place: Santyras; mentioned_place: Viena'
   pagrindžia:
     - c-001
     - c-002
@@ -79,11 +82,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Konradas]]
-- [[objektai/daiktai/Laivai]]
-- [[objektai/zodynas/ginklanešiai]]
-- [[objektai/asmenys/Konradas Bremeris]]
-- [[objektai/asmenys/Sventopelkas]]

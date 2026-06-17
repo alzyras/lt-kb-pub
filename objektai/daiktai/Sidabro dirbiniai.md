@@ -23,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-L. Nakaitė rašė apie sidabro naudojimą II-XIII a. Lietuvoje, sidabrą kaip vertės matą, sidabro dirbinius ir auksakalystę iki XIII a.
+Sidabro dirbiniai ir auksakalystė Lietuvoje iki XIII a. paminėti kaip atskira tyrimų sritis.
 
 ## Pavadinimai šaltiniuose
 
@@ -51,9 +51,18 @@ Nenurodyta
 - t-001
   global_id: t-05235
   teiginys: 'L. Nakaitė rašė apie sidabro naudojimą II-XIII a. Lietuvoje, sidabrą kaip vertės matą, sidabro dirbinius ir auksakalystę iki XIII a.'
+  sudarymo_pagrindimas: 'Patikslinta pagal citatą, įtraukiant auksakalystę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_person: [[objektai/autoriai/L. Nakaitė|L. Nakaitė]]; mentioned_person: [[objektai/autoriai/M. Michelbertas|M. Michelbertas]]; mentioned_place: Lietuva; mentioned_place: Rudaičiai; mentioned_place: Veliuona'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/autoriai/E. Danilaitė.md#claim-t-30591|E. Danilaitė]]: E. Danilaitė tyrinėjo brūkšniuotąją keramiką Lietuvoje.
+- susijęs iš [[objektai/autoriai/E. Radzvilovaitė.md#claim-t-30596|E. Radzvilovaitė]]: Radzvilovaitė pateikė žinių apie lietuvių genčių skydus II-VIII a.
+- susijęs iš [[objektai/autoriai/Vaitkunskienė L.md#claim-t-60806|Vaitkunskienė L]]: Vaitkunskienė L., Sidabras..., p. 10 ir kt.
+- susijęs iš [[objektai/daiktai/Brūkšniuotoji keramika.md#claim-t-47808|Brūkšniuotoji keramika]]: E. Danilaitė domėjosi brūkšniuotąja keramika Lietuvoje.
+- susijęs iš [[objektai/daiktai/Brūkšniuotoji keramika.md#claim-t-47809|Brūkšniuotoji keramika]]: E. Danilaitė tyrinėjo brūkšniuotąją keramiką Lietuvoje.
+- susijęs iš [[objektai/daiktai/Geležiniai įrankiai.md#claim-t-31107|Geležiniai įrankiai]]: J. Stankus rašė apie geležinių įrankių technologiją Lietuvoje V-VIII ir IX-XIII a.
+- susijęs iš [[objektai/daiktai/Skydai.md#claim-t-97104|Skydai]]: E. Radzvilovaitė pateikė žinių apie lietuvių genčių skydus II-VIII a.
+- susijęs iš [[objektai/posakiai/O iškiliausioji meile, padaryk, kad tvirtai ir nuoširdžiai trokščiau tavęs.md#claim-t-59143|O iškiliausioji meile, padaryk, kad tvirtai ir nuoširdžiai trokščiau tavęs]]: Dangaus balsas Albertui nurodė kasdien kalbėti maldą „O iškiliausioji meile, padaryk, kad tvirtai ir nuoširdžiai trokščiau tavęs“.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -76,16 +85,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Baltai]]
-- [[objektai/autoriai/M. Michelbertas]]
-- [[objektai/daiktai/Brūkšniuotoji keramika]]
-- [[objektai/autoriai/E. Danilaitė]]
-- [[objektai/autoriai/E. Radzvilovaitė]]
-- [[objektai/daiktai/Geležiniai įrankiai]]
-- [[objektai/posakiai/O iškiliausioji meile, padaryk, kad tvirtai ir nuoširdžiai trokščiau tavęs]]
-- [[objektai/daiktai/Skydai]]
-- [[objektai/autoriai/Vaitkunskienė L]]
-- [[objektai/autoriai/L. Nakaitė]]

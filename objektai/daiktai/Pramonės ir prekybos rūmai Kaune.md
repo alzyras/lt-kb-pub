@@ -49,6 +49,11 @@ Nenurodyta
 - t-001
   global_id: t-25169
   teiginys: 'Pramonės ir prekybos rūmų Kaune architektas buvo V. Landsbergis-Žemkalnis; objektas datuojamas 1938 m.'
+  sudarymo_pagrindimas: 'Pašalintas puslapio ir OCR triukšmas, išlaikyti citatoje esantys faktai.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_place: Kaunas'
+  temporaliniai_duomenys: 'įvykio data: 1938 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas puslapio ir OCR triukšmas, išlaikyti citatoje esantys faktai.'
   pagrindžia:
     - c-001
 
@@ -70,8 +75,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/A. Smetona]]
-- [[objektai/grupes/Lietuviai]]

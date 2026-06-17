@@ -8,10 +8,6 @@ datos:
   - '1902 m.'
 date_start: '1835'
 date_end: '1902'
-aliases:
-  - 'objektai/autoriai/Antanas Baranauskas'
-variantai:
-  - 'Antanas Baranauskas'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -19,6 +15,7 @@ tags:
   - kunigas
   - mokslininkas
   - tauta
+  - vyskupas
 amziai:
   - 'XIX'
   - 'XX'
@@ -37,6 +34,11 @@ Tačiau antros šio sąjūdžio kartos atstovas, aukštaitis, kunigas ir poetas,
 - t-001
   global_id: t-78029
   teiginys: 'Antanas Baranauskas 1859 m. išreiškė civilizuotos, aukštąją kultūrą turinčios lietuvių tautos viziją.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas interpretacinis faktas, kurį tiesiogiai remia citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]'
+  temporaliniai_duomenys: 'įvykio data: 1859 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas interpretacinis faktas, kurį tiesiogiai remia citata.'
   pagrindžia:
     - c-002
 
@@ -44,9 +46,14 @@ Tačiau antros šio sąjūdžio kartos atstovas, aukštaitis, kunigas ir poetas,
 - t-002
   global_id: t-78030
   teiginys: 'Etninės lietuvybės pagrindu gimstančiai nacijai vyskupo Antano Baranausko formuluoti tikslai atrodė pasiekiami, ypač jei atsirastų valstybė, kuri juos laikytų ir savo kultūros politikos dalimi.'
+  sudarymo_pagrindimas: 'Teiginys gramatiškas ir susietas su Baranausko formuluotais tikslais.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Tautinės mažumos|Tautinės mažumos]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/posakiai/„Viso svieto mokslus lietuviam paduosiu...“.md#claim-t-26651|„Viso svieto mokslus lietuviam paduosiu...“]]: 1859 m. Antanas Baranauskas parašė eilutes „Viso svieto mokslus lietuviam paduosiu“.
+- susijęs iš [[objektai/posakiai/„Viso svieto mokslus lietuviam paduosiu...“.md#claim-t-26903|„Viso svieto mokslus lietuviam paduosiu...“]]: 1859 m. Antanas Baranauskas žadėjo lietuviams perduoti pasaulio mokslus ir lietuviškai versti pasaulio raštus bei knygas.
+- susijęs iš [[objektai/posakiai/„Viso svieto mokslus lietuviam paduosiu...“.md#claim-t-67317|„Viso svieto mokslus lietuviam paduosiu...“]]: Antano Baranausko žodžiai apie pasaulio mokslus lietuviams vadinami civilizuotos, aukštąją kultūrą turinčios tautos vizija.
+- susijęs iš Anykščių šilelis: „Anykščių šilelis“ apibūdinamas kaip Antano Baranausko lietuvių literatūros šedevras.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -80,12 +87,3 @@ Tačiau antros šio sąjūdžio kartos atstovas, aukštaitis, kunigas ir poetas,
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/Tautinės mažumos]]
-- [[objektai/zodynas/kunigas]]
-- [[objektai/posakiai/„Viso svieto mokslus lietuviam paduosiu...“]]
-- [[objektai/zodynas/tautinė mažuma etninė kultūrinė mažuma]]

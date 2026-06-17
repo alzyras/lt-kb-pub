@@ -12,21 +12,26 @@ tags:
 
 ## Santrauka
 
-Tvenkinys susidarė iš Lanės upės praplatėjimo dėl vieškelio sankasos. Raudonasis tvenkinys šiame gabale siejamas su mūšio perėjimo vieta. Lietuvos kariuomenė įsirengė du perėjimus abipus Raudonojo tvenkinio užtvankos.
+Lietuvos kariuomenė įsirengė du perėjimus abipus Raudonojo tvenkinio užtvankos. Raudonasis tvenkinys šiame gabale siejamas su mūšio perėjimo vieta.
 
 ## Teiginiai
 
 <a id="claim-t-187305"></a>
 - t-001
   global_id: t-187305
-  teiginys: 'Tvenkinys susidarė iš Lanės upės praplatėjimo dėl vieškelio sankasos.'
+  teiginys: 'Raudonasis tvenkinys susidarė į šiaurę nuo Pinsko–Klecko vieškelio dėl sankasos, kirtusios Lanės upę ir jos slėnį.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys perrašytas į pilnesnį sakinį su vietos ir priežasties kontekstu iš citatos. Paliktas tik šaltinio pagrįstas paaiškinimas, be papildomų geografinių spėjimų.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-187306"></a>
 - t-002
   global_id: t-187306
-  teiginys: 'Raudonasis tvenkinys šiame gabale siejamas su mūšio perėjimo vieta.'
+  teiginys: 'Lietuvos kariuomenė abipus Raudonojo tvenkinio užtvankos pasidarė du perėjimus per upę.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys gramatiškas ir tiksliai atkuria citatos faktą apie Lietuvos kariuomenės pasidarytus perėjimus. Nepridėta neparemtų aplinkybių apie mūšio eigą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -34,13 +39,18 @@ Tvenkinys susidarė iš Lanės upės praplatėjimo dėl vieškelio sankasos. Rau
 - t-003
   global_id: t-187307
   teiginys: 'Lietuvos kariuomenė įsirengė du perėjimus abipus Raudonojo tvenkinio užtvankos.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys turi aiškų subjektą ir predikatą, o citata tiesiogiai pagrindžia du perėjimus abipus Raudonojo tvenkinio užtvankos. Papildomas kovos su totoriais kontekstas nepridėtas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
 <a id="claim-t-187308"></a>
 - t-004
   global_id: t-187308
-  teiginys: 'Raudonasis tvenkinys buvo vandens telkinys ties Klecku.'
+  teiginys: 'Raudonasis tvenkinys buvo Lanės upės praplatėjimas ties Klecku, į vakarus nuo miestelio.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys patikslintas pagal citatą: išskleista, kad tai Lanės upės praplatėjimas ir nurodyta kryptis nuo Klecko. Nepridėta vėlesnio susidarymo paaiškinimo.'
   pagrindžia:
     - c-002
 
@@ -48,6 +58,11 @@ Tvenkinys susidarė iš Lanės upės praplatėjimo dėl vieškelio sankasos. Rau
 - t-005
   global_id: t-187645
   teiginys: 'Lietuvos kariuomenė įsirengė du perėjimus per upę abipus Raudonojo tvenkinio užtvankos.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus sakinys apie Raudonąjį tvenkinį ir tiesiogiai paremtas citata. Nepapildyta neparemtomis detalėmis apie totorius ar kovos trukmę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

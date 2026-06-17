@@ -29,6 +29,11 @@ amziai:
 - t-001
   global_id: t-26493
   teiginys: 'Jono Žiliaus knygoje „The Boundaries of Lithuania“, išleistoje Paryžiuje 1920 m., buvo žemėlapis „Lituania Propria“.'
+  sudarymo_pagrindimas: 'Pašalintas puslapių ir antraščių triukšmas, paliktas citatos pagrįstas faktas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: Sarajevas; mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/daiktai/Žemėlapis „Lituania Propria“|Žemėlapis „Lituania Propria“]]; mentioned_person: [[objektai/asmenys/Donatas Malinauskas|Donatas Malinauskas]]; mentioned_person: [[objektai/autoriai/Stasys Šilingas|Stasys Šilingas]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Paryžius; mentioned_place: Rusija; mentioned_place: Suvalkai; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1914 m.; įvykio data: 1920 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas puslapių ir antraščių triukšmas, paliktas citatos pagrįstas faktas.'
   pagrindžia:
     - c-001
 

@@ -36,6 +36,14 @@ Nenurodyta
 - t-001
   global_id: t-185829
   teiginys: 'Per sunkų badą Baltarusijoje sulaukėję šunys puldinėjo ir draskė sutiktus žmones.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys pagrįstas citata, bet reikėjo sutvarkyti kalbą ir pašalinti autorinį boilerplate.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Baltarusija'
+  temporaliniai_duomenys: 'įvykio data: 1440 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys pagrįstas citata, bet reikėjo sutvarkyti kalbą ir pašalinti autorinį boilerplate.'
   pagrindžia:
     - c-001
 
@@ -78,7 +86,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]

@@ -23,6 +23,8 @@ Dusburgietis teigia, kad apie Rizenburgo pilies bei miesto pastatymą Tais metai
 - t-001
   global_id: t-60229
   teiginys: 'Albrechtas, Pamedės vyskupas, Prūsijos žemėje pastatė Rizenburgo pilį ir miestą.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_place: Pamedė; mentioned_place: Prūsija; mentioned_place: Rizenburgas'
   pagrindžia:
     - c-001
 

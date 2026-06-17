@@ -45,6 +45,8 @@ Laivas buvo paimtas ir sudegintas.
 - t-001
   global_id: t-55707
   teiginys: 'Surmino vadovaujami lietuviai laivą paėmė, nužudė jo sargybą ir sudegino.'
+  teiginio_tipas: 'faktas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Surminas|Surminas]]; mentioned_place: Nemunas'
   pagrindžia:
     - c-003
 
@@ -52,6 +54,8 @@ Laivas buvo paimtas ir sudegintas.
 - t-002
   global_id: t-55708
   teiginys: 'Kai laivą prie kranto nubloškė vėjas, Junigedos pilėnai jį užpuolė, bet pirmąjį susidūrimą broliai ir ginklanešiai atlaikė.'
+  teiginio_tipas: 'faktas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_place: Junigeda; mentioned_place: Pilėnai'
   pagrindžia:
     - c-001
 
@@ -59,6 +63,12 @@ Laivas buvo paimtas ir sudegintas.
 - t-003
   global_id: t-55709
   teiginys: '1313 m. Verneris, Ragainės komtūras, pasistatydino sienomis apsaugotą karo laivą ir su juo nuplaukė pulti Junigedos pilies.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Junigeda; mentioned_place: Ragainė'
+  temporaliniai_duomenys: 'įvykio data: 1313 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, aiškus ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-002
 
@@ -66,6 +76,8 @@ Laivas buvo paimtas ir sudegintas.
 - t-004
   global_id: t-55710
   teiginys: 'Dusburgietis pasakoja, kad Surminas su gausia lietuvių jėga buvo pasiųstas sunaikinti karo laivo.'
+  teiginio_tipas: 'terminas_ar_titulas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Surminas|Surminas]]; mentioned_place: Nemunas'
   pagrindžia:
     - c-003
 
@@ -114,10 +126,3 @@ Laivas buvo paimtas ir sudegintas.
   pagrindžia:
     - t-004
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Surminas]]
-- [[objektai/zodynas/ginklanešiai]]
-- [[objektai/ivykiai/Vernerio karo laivo žygis prieš Junigedą (1313 m.)]]

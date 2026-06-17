@@ -42,6 +42,8 @@ Reikšmė aiški iš citatos konteksto ir neplečiama už tiesioginio šaltinio 
 - t-001
   global_id: t-55180
   teiginys: 'Maskvoje buvo išlikęs priežodis „Kto w Wilnie nie bywał, tot czudes nie widał“.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie posakį ir yra paremtas citata.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Lenkija; mentioned_place: Maskva; mentioned_place: Perekopas; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -49,6 +51,8 @@ Reikšmė aiški iš citatos konteksto ir neplečiama už tiesioginio šaltinio 
 - t-002
   global_id: t-55181
   teiginys: '„Kto w Wilnie nie bywał, tot czudes nie widał“ lietuviškai aiškinama kaip „Kas Vilniuje nebuvo, tas stebuklų neregėjo.“'
+  sudarymo_pagrindimas: 'Teiginys pagrįstas, bet patikslintas, kad būtų aiškiai apie patį priežodį.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Lenkija; mentioned_place: Maskva; mentioned_place: Perekopas; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -56,9 +60,11 @@ Reikšmė aiški iš citatos konteksto ir neplečiama už tiesioginio šaltinio 
 - t-003
   global_id: t-82141
   teiginys: '„Kto w Wilnie nie bywał, tot czudes nie widał“ Maskvoje išliko kaip priežodis apie Vilniuje matytus stebuklus.'
+  sudarymo_pagrindimas: 'Pradinis teiginys maišė nesusijusį kontekstą ir OCR triukšmą, bet citata palaiko perrašytą sakinį.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Lenkija; mentioned_place: Maskva; mentioned_place: Perekopas; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
-
+- susijęs iš Maskva: Balińskis teigė, kad Maskvoje buvo išlikęs priežodis: kas Vilniuje nebuvo, tas stebuklų neregėjo.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -87,7 +93,3 @@ Reikšmė aiški iš citatos konteksto ir neplečiama už tiesioginio šaltinio 
     - t-003
     - t-001
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]

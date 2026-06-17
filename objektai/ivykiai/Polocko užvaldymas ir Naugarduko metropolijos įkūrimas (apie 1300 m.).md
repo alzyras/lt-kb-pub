@@ -18,7 +18,7 @@ amziai:
 
 ## Santrauka
 
-Apie 1300 m. Vytenis ilgam užvaldė Polocką Lietuvai, nes po Mindaugo mirties šis miestas buvo atsipalaidavęs nuo Lietuvos.
+Naudodamasis proga, jis apie 1300 m. ilgiems laikams Lietuvai užvaldė Polocką. Šis turtingas ir svarbus prekybos punktas prie Dauguvos, Mindaugui mirus, buvo atsipalaidavęs nuo Lietuvos.
 
 ## Laikotarpis ir datos
 
@@ -42,6 +42,11 @@ Nenurodyta
 - t-001
   global_id: t-31466
   teiginys: 'Apie 1300 m. Vytenis ilgam užvaldė Polocką Lietuvai, nes po Mindaugo mirties šis miestas buvo atsipalaidavęs nuo Lietuvos.'
+  sudarymo_pagrindimas: 'Reikia įvardyti veikėją ir tiksliau perteikti citatos faktus.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_person: [[objektai/asmenys/Vytenis|Vytenis]]; mentioned_place: Lietuva; mentioned_place: Polockas'
+  temporaliniai_duomenys: 'įvykio data: 1300 m.; įvykio data: apie 1300 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
+  temporalinis_llm_pakomentavimas: 'Reikia įvardyti veikėją ir tiksliau perteikti citatos faktus.'
   pagrindžia:
     - c-001
 
@@ -61,8 +66,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
-- [[objektai/asmenys/Vytenis]]

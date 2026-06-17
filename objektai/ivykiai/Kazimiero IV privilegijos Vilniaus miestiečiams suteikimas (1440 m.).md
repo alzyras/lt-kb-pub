@@ -45,6 +45,11 @@ Nenurodyta
 - t-001
   global_id: t-86952
   teiginys: '1440 m. Kazimieras IV suteikė Vilniaus katalikų ir stačiatikių miestiečiams privilegiją laisvai prekiauti be muito Lietuvos valstybėje.'
+  sudarymo_pagrindimas: 'Citata pagrindžia privilegijos davėją, gavėjus ir turinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kazimieras IV|Kazimieras IV]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1440 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia privilegijos davėją, gavėjus ir turinį.'
   pagrindžia:
     - c-001
 
@@ -92,12 +97,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Stačiatikiai]]
-- [[objektai/asmenys/Kazimieras IV]]
-- [[objektai/zodynas/Romos tikėjimas graikų apeigų tikėjimas]]
-- [[objektai/paprociai/Vilniaus miestiečių tarpregioninė prekyba ir muito laisvė]]

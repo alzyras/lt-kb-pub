@@ -35,10 +35,13 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 <a id="claim-t-05333"></a>
 - t-001
   global_id: t-05333
   teiginys: 'Aisčių laidotuvių apeigose mirusiųjų kapai darėsi turtingesni, o drauge su mirusiaisiais buvo pakasami išpuošti žirgai.'
+  sudarymo_pagrindimas: 'Teiginys faktinis, bet reikėjo aiškiai susieti su note objektu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_object: [[objektai/daiktai/Papuošalai|Papuošalai]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]'
   pagrindžia:
     - c-003
 
@@ -46,13 +49,32 @@ Nenurodyta
 - t-002
   global_id: t-05335
   teiginys: 'Wulfstano aprašyti aisčiai mirusiojo kūną laikydavo mėnesius, iš jo turto keldavo puotas, o likutį išdalydavo per arklių lenktynes.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_person: [[objektai/autoriai/Wulfstanas|Wulfstanas]]; mentioned_place: Prūsai'
   pagrindžia:
     - c-004
+
+<a id="claim-t-10812"></a>
+- t-003
+  global_id: t-10812
+  teiginys: 'Laidodami lavonus aisčiai į kapą dėdavo įkapes, o laidojimo būdas buvo nevienodas: žymesniuosius sudegindavo, kitus laidodavo nesudegintus su daiktais.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_object: [[objektai/zodynas/Vėlė|Vėlė]]'
+  pagrindžia:
+    - c-001
+
+<a id="claim-t-10813"></a>
+- t-004
+  global_id: t-10813
+  teiginys: 'Aisčiai rengdavo vėlių garbinamąsias šventes, vadinamas vėlinėmis, per kurias aukodavo aukas, o vėlėms nuliedavo gėrimų ir numesdavo maisto.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_object: [[objektai/zodynas/Vėlė|Vėlė]]'
+  pagrindžia:
+    - c-002
 
 <a id="claim-t-12418"></a>
 - t-005
   global_id: t-12418
   teiginys: 'Aisčių laidotuvių paprotys numatė, kad su kilmingo žmogaus lavonu sudegindavo ginklus, arklį, tarnus, moteris ir karo žygiui reikalingus daiktus.'
+  sudarymo_pagrindimas: 'Teiginys paremtas citata, bet pritaikytas note objektui ir sutrumpintas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]'
   pagrindžia:
     - c-005
 
@@ -60,22 +82,45 @@ Nenurodyta
 - t-006
   global_id: t-12419
   teiginys: 'Vėlinių dienomis gyvieji, rūpindamiesi vėlių likimu, Žeminei nuliedavo gėrimų ir numesdavo valgio, o vėles laikė galinčiomis pereiti į gyvulius, medžius ir kitus gamtos kūnus.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Vėlė|Vėlė]]'
   pagrindžia:
     - c-006
-- t-008
-  teiginys: 'Laidodami lavonus aisčiai į kapą dėdavo įkapes, o laidojimo būdas buvo nevienodas: žymesniuosius sudegindavo, kitus laidodavo nesudegintus su daiktais.'
-  pagrindžia:
-    - c-007
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-009
-  teiginys: 'Aisčiai rengdavo vėlių garbinamąsias šventes, vadinamas vėlinėmis, per kurias aukodavo aukas, o vėlėms nuliedavo gėrimų ir numesdavo maisto.'
-  pagrindžia:
-    - c-008
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+- c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Aisčiai manė, kad mirusiam žmogui būsią
+    reikalinga turėti tų pačių reikmenių ir įrankių, kuriuos turėjęs
+    šiame pasauly. Todėl, laidodami lavonus, jie įdėdavo į kapą įvai-
+    rių daiktų: pabalnotų arklių, ginklų, papuošalų ir kitko. Tik pat-
+    sai laidojimo būdas buvo nevienodas. Vieni žmonės, ypač žy-
+    mesnieji, pirma buvo sudeginami ant laužo, o paskui buvo lai-
+    dojami jų ir kartu sudeginto turto pelenai; kiti buvo laidojami
+    su daiktais nesudeginti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
+
+- c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tačiau aisčiai tikėjo, kad mirusiųjų vėlės nesiskiriančios nuo
+    šeimų ir gyventos aplinkos: jos apsigyvenančios gyvuliuose ar
+    medžiuose, augančiuose ant jų kapų, ir būnančios savo šeimų
+    globėjos. Todėl būdavo ruošiamos specialios vėlių garbinamo-
+    sios šventės, vadinamosios vėlinės; tuomet joms būdavo
+    aukojamos įvairios aukos. Vėlėms kiekvienos puotos metu že-
+    mėn būdavo nuliejama gėrimų ir numetama maisto.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-004
+
 - c-003
   santrauka: 'Aisčių laidotuvių apeigose mirusiųjų kapai darėsi turtingesni, o drauge su mirusiaisiais buvo pakasami išpuošti žirgai.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -88,6 +133,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
 - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -102,6 +148,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+
 - c-005
   santrauka: 'Aisčių laidotuvių paprotys numatė, kad su kilmingo žmogaus lavonu sudegindavo ginklus, arklį, tarnus, moteris ir karo žygiui reikalingus daiktus.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -119,6 +166,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-005
+
 - c-006
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -132,51 +180,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-006
-- c-007
-  santrauka: 'Laidodami lavonus aisčiai į kapą dėdavo įkapes, o laidojimo būdas buvo nevienodas: žymesniuosius sudegindavo, kitus laidodavo nesudegintus su daiktais.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Aisčiai manė, kad mirusiam žmogui būsią
-    reikalinga turėti tų pačių reikmenių ir įrankių, kuriuos turėjęs
-    šiame pasauly. Todėl, laidodami lavonus, jie įdėdavo į kapą įvai-
-    rių daiktų: pabalnotų arklių, ginklų, papuošalų ir kitko. Tik pat-
-    sai laidojimo būdas buvo nevienodas. Vieni žmonės, ypač žy-
-    mesnieji, pirma buvo sudeginami ant laužo, o paskui buvo lai-
-    dojami jų ir kartu sudeginto turto pelenai; kiti buvo laidojami
-    su daiktais nesudeginti.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-008
-- c-008
-  santrauka: 'Aisčiai rengdavo vėlių garbinamąsias šventes, vadinamas vėlinėmis, per kurias aukodavo aukas, o vėlėms nuliedavo gėrimų ir numesdavo maisto.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tačiau aisčiai tikėjo, kad mirusiųjų vėlės nesiskiriančios nuo
-    šeimų ir gyventos aplinkos: jos apsigyvenančios gyvuliuose ar
-    medžiuose, augančiuose ant jų kapų, ir būnančios savo šeimų
-    globėjos. Todėl būdavo ruošiamos specialios vėlių garbinamo-
-    sios šventės, vadinamosios vėlinės; tuomet joms būdavo
-    aukojamos įvairios aukos. Vėlėms kiekvienos puotos metu že-
-    mėn būdavo nuliejama gėrimų ir numetama maisto.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-009
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Aisčiai]]
-- [[objektai/daiktai/Ginklai]]
-- [[objektai/daiktai/Papuošalai]]
-- [[objektai/autoriai/Wulfstanas]]
-- [[objektai/zodynas/Vėlė|vėlė]]
-- [[objektai/daiktai/Žirgai]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/asmenys/Kūnas]]

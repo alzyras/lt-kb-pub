@@ -22,6 +22,8 @@ Taip atrodė mūsų artilerija (baigia Golembiovskis, išvar­ dinęs ginklus ir
 - t-001
   global_id: t-88075
   teiginys: 'Golembiovskis, išvardijęs ginklus ir pilis, apibendrino Lietuvos provincijos artilerijos būklę.'
+  sudarymo_pagrindimas: 'Pirminis tekstas buvo fragmentiškas, bet citata palaiko aiškų teiginį apie autorių.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -51,10 +53,3 @@ Taip atrodė mūsų artilerija (baigia Golembiovskis, išvar­ dinęs ginklus ir
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Artilerija]]
-- [[objektai/daiktai/Ginklai]]
-- [[objektai/daiktai/Ginklai, skydai, šarvai ir šaudymo reikmenys]]
-- [[objektai/daiktai/Žygimanto Augusto Vilniuje pagaminti ginklai ir amunicija]]

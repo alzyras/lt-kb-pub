@@ -20,9 +20,11 @@ Apie KGB-MGB provokaciją pasakoja Prisikėlimo apygardos partizanė Aleksandra 
 - t-001
   global_id: t-39475
   teiginys: 'Prisikėlimo apygardos partizanė Aleksandra Atgailainytė buvo suimta ir po tardymų Raseinių kalėjime pervežama į kitą vietą.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie asmenį ir atitinka citatos turinį.'
+  susije_objektai: 'mentioned_place: Raseiniai'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/grupes/Prisikėlimo apygarda.md#claim-t-41118|Prisikėlimo apygarda]]: Prisikėlimo apygardos partizanė Aleksandra Atgailainytė pasakojo apie KGB-MGB provokaciją.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -41,7 +43,3 @@ Apie KGB-MGB provokaciją pasakoja Prisikėlimo apygardos partizanė Aleksandra 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Prisikėlimo apygarda]]

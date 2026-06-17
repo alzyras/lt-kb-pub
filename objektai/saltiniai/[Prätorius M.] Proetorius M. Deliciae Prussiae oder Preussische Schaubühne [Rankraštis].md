@@ -26,6 +26,7 @@ Dusburgietis teigia, kad [Prätorius M.] Proetorius M.
 - t-001
   global_id: t-61260
   teiginys: 'M. Prätoriaus „Proetorius M. Deliciae Prussiae oder Preussische Schaubühne“ rankraštis nurodytas MAB RS fonde F 129-1338.'
+  sudarymo_pagrindimas: 'Citata pagrindžia rankraščio pavadinimą ir saugojimo fondo nuorodą.'
   pagrindžia:
     - c-001
 

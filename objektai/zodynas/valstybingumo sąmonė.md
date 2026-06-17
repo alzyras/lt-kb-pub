@@ -23,6 +23,8 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
 - t-001
   global_id: t-28564
   teiginys: 'Kojalavičiaus laikais Lietuvos bajorijoje buvo pastebimas savos valstybingumo sąmonės silpnėjimas.'
+  sudarymo_pagrindimas: 'Citata tiesiogiai pagrindžia trumpesnį teiginį apie valstybingumo sąmonę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Liublinas'
   pagrindžia:
     - c-001
 
@@ -30,6 +32,8 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
 - t-002
   global_id: t-28565
   teiginys: 'Stryjkovskis ryškino Lietuvos valstybinį patriotizmą ir gynė atskirą Lietuvos valstybinę sąmonę.'
+  sudarymo_pagrindimas: 'Teiginys pilnas, faktinis ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/poliublininis laikotarpis|poliublininis laikotarpis]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -70,14 +74,3 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/dinastija]]
-
-### Susiję objektai
-- [[objektai/grupes/Lotynai]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/zodynas/poliublininis laikotarpis]]
-- [[objektai/zodynas/unija]]
-- [[objektai/zodynas/poliublininis laikotarpis poliublininiai laikai]]

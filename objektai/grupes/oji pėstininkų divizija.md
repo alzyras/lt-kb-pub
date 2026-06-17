@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Lapkričio 17 d. auštant L. Želigovskis puolė lietuvių 1-osios pėstininkų divizijos užimamą barą nuo Nėries iki Dubingių.
+Želigovskis lapkričio 17 d. auštant pradėjo savo didžiąją ofenzyvą, puldamas lietuvių 1-osios pėstininkų divizijos užimamą barą nuo Nėries iki Dubingių.
 
 ## Teiginiai
 
@@ -20,6 +20,8 @@ Lapkričio 17 d. auštant L. Želigovskis puolė lietuvių 1-osios pėstininkų 
 - t-001
   global_id: t-80636
   teiginys: 'Lapkričio 17 d. auštant L. Želigovskis puolė lietuvių 1-osios pėstininkų divizijos užimamą barą nuo Nėries iki Dubingių.'
+  sudarymo_pagrindimas: 'Perrašyta glaustiau, pašalinant publicistinį žodį „ofenzyvą“ ir išlaikant citatos faktus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/L. Želigovskis|L. Želigovskis]]; mentioned_place: Balnininkai; mentioned_place: Dubingiai'
   pagrindžia:
     - c-001
 
@@ -44,11 +46,3 @@ Lapkričio 17 d. auštant L. Želigovskis puolė lietuvių 1-osios pėstininkų 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/asmenys/L. Želigovskis]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/1-oji pėstininkų divizija]]
-- [[objektai/grupes/L. Želigovskio pajėgos]]

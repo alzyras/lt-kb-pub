@@ -1,28 +1,16 @@
 ---
 tipas: posakis
-pavadinimas: "Šitaip aš, nors jaunas, vienas pats apgyniau nuo priešo tėvynę"
-sukurta: '2026-06-16'
-variantai:
-  - "Šitaip aš, nors jaunas, vienas pats apgyniau nuo priešo [M. Glinskio] tėvynę"
-aliases: []
+pavadinimas: 'Šitaip aš, nors jaunas, vienas pats apgyniau nuo priešo tėvynę'
 saltiniai:
-  - Lietuvos metraštis, Bychovco kronika (1971 m.)
-bukle: juodrastis
-laikotarpis: "1525 m."
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 datos:
-  - "1525 m."
-periodas: ""
-periodo_grupes: []
+  - '1525 m.'
+date_start: '1525'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
 amziai:
-  - "XVI"
-date_start: "1525"
-date_end: "1525"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: ""
-atnaujinta: '2026-06-16'
-tags: []
+  - 'XVI'
 ---
 # Šitaip aš, nors jaunas, vienas pats apgyniau nuo priešo tėvynę
 
@@ -31,27 +19,33 @@ tags: []
 Heroizuojanti formulė šiame leidinyje cituojama kaip A. Goštauto memorialo savęs kaip tėvynės gynėjo ištarma.
 
 ## Forma
+
 - Pagrindinė forma: Šitaip aš, nors jaunas, vienas pats apgyniau nuo priešo tėvynę
 
 ## Kontekstas ir vartojimas
+
 Frazė pateikiama aiškinant Goštautų panegirinę liniją Bychovco kronikos aplinkoje.
 
 ## Reikšmė
+
 Savęs išaukštinimo ir politinio nuopelno deklaracija.
 
 ## Teiginiai
+
 <a id="claim-t-186890"></a>
 - t-001
   global_id: t-186890
-  teiginys: 'Šiame leidinyje A. Goštauto memoriale cituojama heroizuojanti savęs kaip tėvynės gynėjo formulė.'
+  teiginys: 'A. Goštauto memoriale Albertas Goštautas save vaizduoja kaip jauną Lietuvos tėvynės gynėją nuo M. Glinskio.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Reikia aiškesnio asmens, veiksmo ir atribucijos, nepridedant neparemtų detalių.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/memorialas|memorialas]]; mentioned_person: [[objektai/asmenys/Albertas|Albertas]]; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Šiame leidinyje A. Goštauto memoriale cituojama heroizuojanti savęs kaip tėvynės gynėjo formulė.'
+  santrauka: 'A. Goštauto memoriale Albertas Goštautas save vaizduoja kaip jauną Lietuvos tėvynės gynėją nuo M. Glinskio.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     Kaip Bychovco kronikoje Jonas Goštau­
@@ -66,17 +60,8 @@ Savęs išaukštinimo ir politinio nuopelno deklaracija.
     chovco kronika rodo toji memorialo vieta, kur A. Goš­
     tautas trumpai išdėsto savo protėvių nuopelnus Lietu­
     vos valstybei.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Albertas]]
-- [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]]
-- [[objektai/asmenys/Jonas]]
-- [[objektai/zodynas/memorialas]]

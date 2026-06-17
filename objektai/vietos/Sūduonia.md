@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Ir Tepliava) Suvalkai Sūduonia, Sūduonė, u.
+Dusburgietis teigia, kad ir Tepliava) Suvalkai Sūduonia, Sūduonė, u.
 
 ## Teiginiai
 
@@ -20,6 +20,8 @@ Ir Tepliava) Suvalkai Sūduonia, Sūduonė, u.
 - t-001
   global_id: t-58734
   teiginys: 'Ir Tepliava) Suvalkai Sūduonia, Sūduonė, u.'
+  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
+  susije_objektai: 'mentioned_place: Suvalkai; mentioned_place: Sūduva'
   pagrindžia:
     - c-001
 

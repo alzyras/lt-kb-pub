@@ -26,6 +26,9 @@ Semkowicz, Wb.: Hanul, namiestnik wileński i jego ród , AW, t.
 - t-001
   global_id: t-31701
   teiginys: 'Wb. Semkowicziaus „Hanul, namiestnik wileński i jego ród“ paskelbta AW 7 tome 1930 m., p. 1–20.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
+  temporaliniai_duomenys: 'įvykio data: 1930 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

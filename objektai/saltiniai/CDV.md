@@ -30,6 +30,7 @@ Lotynišką krikštą pa­ darant lietuviams privalomu ir draudžiant mišrias m
 - t-001
   global_id: t-31641
   teiginys: 'CDV I tomo medžiaga nurodyta 13-15 puslapiuose.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
   pagrindžia:
     - c-001
 

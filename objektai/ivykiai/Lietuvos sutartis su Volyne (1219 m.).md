@@ -4,9 +4,11 @@ pavadinimas: 'Lietuvos sutartis su Volyne (1219 m.)'
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
+  - '1205 m.'
+  - '1210 m.'
   - '1218 m.'
   - '1219 m.'
-date_start: '1218'
+date_start: '1205'
 date_end: '1219'
 sukurta: ''
 atnaujinta: ''
@@ -46,6 +48,12 @@ Nenurodyta
 - t-001
   global_id: t-62862
   teiginys: '1219 m. Živinbudo valdoma priešmindauginė Lietuva sudarė sutartį su Volyne, kilus pavojui Lietuvai ir siekiant ginti prūsų kraštą.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pirminis teiginys nutrūkęs, o citata leidžia pateikti pilną faktinį sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/baltų sąjunga|baltų sąjunga]]; mentioned_object: [[objektai/zodynas/priešmindauginė Lietuva|priešmindauginė Lietuva]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Popiežius Honorijus II|Popiežius Honorijus II]]; mentioned_person: [[objektai/asmenys/Živinbudas|Živinbudas]]; mentioned_place: Lietuva; mentioned_place: Prūsai; mentioned_place: Volynė'
+  temporaliniai_duomenys: 'įvykio data: 1205 m.; įvykio data: 1210 m.; įvykio data: 1218 m.; įvykio data: 1219 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pirminis teiginys nutrūkęs, o citata leidžia pateikti pilną faktinį sakinį.'
   pagrindžia:
     - c-001
 
@@ -69,16 +77,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Baltai]]
-- [[objektai/daiktai/Kryžius]]
-- [[objektai/asmenys/Popiežius Honorijus II]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/baltų sąjunga]]
-- [[objektai/zodynas/priešmindauginė Lietuva]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/asmenys/Živinbudas]]
-- [[objektai/ivykiai/Kryžiaus žygis į Prūsiją (1218 m.)]]
-- [[objektai/grupes/Pamarėnai]]

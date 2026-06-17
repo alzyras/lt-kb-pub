@@ -12,8 +12,9 @@ datos:
   - '1927 m.'
   - '1928 m.'
   - '1930 m.'
+  - '1935 m.'
 date_start: '1795'
-date_end: '1930'
+date_end: '1935'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -34,6 +35,9 @@ Tarp gausių jo raštų paminėtina: «Žydai Lietuvoje» (1923), «Vyriausias L
 - t-001
   global_id: t-31971
   teiginys: '„Vyriausias Lietuvos Tribunolas XVI-XVIII amž.“ buvo paminėtas tarp gausių autoriaus raštų ir datuotas 1927 m.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/poliublininis laikotarpis|poliublininis laikotarpis]]; mentioned_object: [[objektai/zodynas/tribunolas|tribunolas]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1927 m.; įvykio data: po 1935 m.; įvykio data: 1935 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data.'
   pagrindžia:
     - c-001
 

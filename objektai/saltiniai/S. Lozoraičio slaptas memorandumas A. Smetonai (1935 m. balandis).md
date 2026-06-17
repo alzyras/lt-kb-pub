@@ -4,9 +4,10 @@ pavadinimas: 'S. Lozoraičio slaptas memorandumas A. Smetonai (1935 m. balandis)
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
+  - '1934 m.'
   - '1935 m.'
-date_start: '1935'
-date_end: ''
+date_start: '1934'
+date_end: '1935'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -26,6 +27,11 @@ Lozoraičio įdėja – „nepriklausomybė svarbiausia“, todėl modus L I E T
 - t-001
   global_id: t-26491
   teiginys: 'S. Lozoraitis laikė modus vivendi su Lenkija būtina Lietuvos nepriklausomybės sąlyga.'
+  sudarymo_pagrindimas: 'Reikia pašalinti boilerplate „teigė“ ir glaudžiau suformuluoti citatos mintį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Modus vivendi|Modus vivendi]]; mentioned_object: [[objektai/zodynas/diplomatija|diplomatija]]; mentioned_person: [[objektai/asmenys/Stasys Lozoraitis|Stasys Lozoraitis]]; mentioned_person: [[objektai/asmenys/Stasys Raštikis|Stasys Raštikis]]; mentioned_place: Kaunas; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1934 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia pašalinti boilerplate „teigė“ ir glaudžiau suformuluoti citatos mintį.'
   pagrindžia:
     - c-001
 

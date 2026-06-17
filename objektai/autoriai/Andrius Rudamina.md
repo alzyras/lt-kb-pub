@@ -34,6 +34,9 @@ Andrius Rudamina minimas kaip Vilniaus universiteto auklėtinis, Kinijoje mision
 - t-001
   global_id: t-23221
   teiginys: 'Andrius Rudamina buvo Vilniaus universiteto auklėtinis.'
+  susije_objektai: 'mentioned_place: Europa; mentioned_place: Rudamina; mentioned_place: Vilnius; mentioned_place: Švedija'
+  temporaliniai_duomenys: 'įvykio data: 1626-1634; įvykio data: 1634 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -41,6 +44,9 @@ Andrius Rudamina minimas kaip Vilniaus universiteto auklėtinis, Kinijoje mision
 - t-002
   global_id: t-23222
   teiginys: 'Rudamina 1626–1634 m. misionieriavo Kinijoje.'
+  susije_objektai: 'mentioned_place: Europa; mentioned_place: Kinija; mentioned_place: Rudamina; mentioned_place: Vilnius; mentioned_place: Švedija'
+  temporaliniai_duomenys: 'įvykio data: 1626-1634; įvykio data: 1634 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -48,6 +54,11 @@ Andrius Rudamina minimas kaip Vilniaus universiteto auklėtinis, Kinijoje mision
 - t-003
   global_id: t-23223
   teiginys: 'Andrius Rudamina 1626–1634 m. misionieriavo Kinijoje ir rašė asketikos veikalus kinų kalba.'
+  sudarymo_pagrindimas: 'Sakinys patikslintas vardu, data ir veiklos vieta pagal citatą.'
+  susije_objektai: 'mentioned_place: Europa; mentioned_place: Kinija; mentioned_place: Rudamina; mentioned_place: Vilnius; mentioned_place: Švedija'
+  temporaliniai_duomenys: 'įvykio data: 1626-1634; įvykio data: 1634 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Sakinys patikslintas vardu, data ir veiklos vieta pagal citatą.'
   pagrindžia:
     - c-001
 
@@ -55,6 +66,11 @@ Andrius Rudamina minimas kaip Vilniaus universiteto auklėtinis, Kinijoje mision
 - t-004
   global_id: t-23224
   teiginys: 'Andrius Rudamina, Vilniaus universiteto auklėtinis, 1626–1634 m. misionieriavo Kinijoje ir rašė asketikos veikalus kinų kalba.'
+  sudarymo_pagrindimas: 'Citata palaiko aiškų faktą apie Rudaminos veiklą Kinijoje.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Kinija; mentioned_place: Vilnius; mentioned_place: Švedija'
+  temporaliniai_duomenys: 'įvykio data: 1626-1634; įvykio data: 1634 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko aiškų faktą apie Rudaminos veiklą Kinijoje.'
   pagrindžia:
     - c-002
 
@@ -62,9 +78,18 @@ Andrius Rudamina minimas kaip Vilniaus universiteto auklėtinis, Kinijoje mision
 - t-005
   global_id: t-26708
   teiginys: 'Andrius Rudamina nunešė Jėzaus draugijos idėjas iki Kinijos, kur 1626–1634 m. misionieriavo.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata palaiko faktą apie Rudaminos misiją ir jėzuitų idėjų sklaidą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Rudamina; mentioned_place: Vilnius; mentioned_place: Švedija'
+  temporaliniai_duomenys: 'įvykio data: 1626-1634; įvykio data: 1634 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko faktą apie Rudaminos misiją ir jėzuitų idėjų sklaidą.'
   pagrindžia:
     - c-002
-
+- susijęs iš Kinija: Andrius Rudamina Kinijoje misionieriavo 1626–1634 m. ir rašė asketikos veikalus kinų kalba.
+- susijęs iš Kinija: Andrius Rudamina 1626–1634 m. misionieriavo Kinijoje ir rašė asketikos veikalus kinų kalba.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -103,10 +128,3 @@ Andrius Rudamina minimas kaip Vilniaus universiteto auklėtinis, Kinijoje mision
   pagrindžia:
     - t-005
     - t-004
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/dvasininkas]]
-
-### Susiję objektai
-- [[objektai/grupes/Totoriai]]

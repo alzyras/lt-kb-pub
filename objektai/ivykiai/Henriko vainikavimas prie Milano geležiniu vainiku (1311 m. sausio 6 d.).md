@@ -45,6 +45,12 @@ Nenurodyta
 - t-001
   global_id: t-62289
   teiginys: '1311 m. sausio 6 d. Henrikas, Romos karalius, prie Milano buvo vainikuotas geležiniu vainiku.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pradinis teiginys turi perteklinį autorystės įvadą ir nutrūkusią nuorodą; citata pagrindžia datą, vietą ir vainikavimą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Milanas'
+  temporaliniai_duomenys: 'įvykio data: 1311 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys turi perteklinį autorystės įvadą ir nutrūkusią nuorodą; citata pagrindžia datą, vietą ir vainikavimą.'
   pagrindžia:
     - c-001
 
@@ -63,9 +69,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/daiktai/Geležinis vainikas]]
-- [[objektai/asmenys/Henrikas VII]]

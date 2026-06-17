@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-1-ojo pėstininkų pulko batalionui parėmus puolimą, buvo užimta Turmanto geležinkelio stotis ir seni vokiečių apkasai. Du 1-ojo pėstininkų pulko batalionai įėjo į Ladygos vadovaujamą dešiniąją koloną kartu su raitaisiais žvalgais, dviem eskadronais ir 4-ąja baterija. 1-asis pėstininkų pulkas naktį iš 23 į 24 d. palei Zarasų plentą nesėkmingai puolė „Bružų poziciją“.
+Dešiniąją koloną sudarė 1-ojo pėstininkų pulko du batalionai, raitųjų žvalgų komanda, du raitelių eskadronai ir karin. Tuo tarpu 1-asis pėstininkų pulkas puolimą pradėjo naktį iš 23 į 24 d. palei Zarasų plentą ir siekė pralaužti atsparumu pagarsėjusią „Bružų poziciją“, tačiau lietuviai patyrė nemažų nuostolių ir puolimas nepavyko.
 
 ## Teiginiai
 
@@ -20,6 +20,8 @@ tags:
 - t-001
   global_id: t-78158
   teiginys: '1-ojo pėstininkų pulko batalionui parėmus puolimą, buvo užimta Turmanto geležinkelio stotis ir seni vokiečių apkasai.'
+  sudarymo_pagrindimas: 'Pradiniame teiginyje yra kontekstinių fragmentų „Tos dienos“ ir „šią stotį“.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Turmantas; mentioned_place: Zarasai'
   pagrindžia:
     - c-002
 
@@ -27,6 +29,7 @@ tags:
 - t-002
   global_id: t-78159
   teiginys: 'Du 1-ojo pėstininkų pulko batalionai įėjo į Ladygos vadovaujamą dešiniąją koloną kartu su raitaisiais žvalgais, dviem eskadronais ir 4-ąja baterija.'
+  sudarymo_pagrindimas: 'Perrašyta, kad teiginio subjektas aiškiau sietųsi su note objektu.'
   pagrindžia:
     - c-001
 
@@ -34,9 +37,12 @@ tags:
 - t-003
   global_id: t-78160
   teiginys: '1-asis pėstininkų pulkas naktį iš 23 į 24 d. palei Zarasų plentą nesėkmingai puolė „Bružų poziciją“.'
+  sudarymo_pagrindimas: 'Teiginys pilnas, faktinis ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/brigada|brigada]]; mentioned_person: [[objektai/asmenys/K. Ladyga|K. Ladyga]]; mentioned_place: Zarasai'
   pagrindžia:
     - c-003
-
+- susijęs iš [[objektai/asmenys/V. Grigaliūnas-Glovackis.md#claim-t-49493|V. Grigaliūnas-Glovackis]]: V. Grigaliūnas-Glovackis vadovavo rezerve buvusiam 2-ajam pėstininkų pulkui.
+- susijęs iš [[objektai/grupes/asis pėstininkų pulkas.md#claim-t-80634|asis pėstininkų pulkas]]: Vakare, 1-ojo pėstininkų pulko batalionui parėmus puolimą, buvo užimta Turmanto geležinkelio stotis ir seni Pirmojo pasaulinio karo vokiečių apkasai.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -95,13 +101,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/K. Ladyga]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/grupes/brigada]]
-- [[objektai/asmenys/V. Grigaliūnas-Glovackis]]
-- [[objektai/grupes/asis pėstininkų pulkas]]
-- [[objektai/asmenys/M. Pečiulionis]]

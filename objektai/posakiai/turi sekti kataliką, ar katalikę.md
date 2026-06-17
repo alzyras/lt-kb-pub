@@ -21,6 +21,7 @@ tags:
 - t-001
   global_id: t-31572
   teiginys: 'Įsakyme frazė „turi sekti kataliką, ar katalikę“ taikyta vedusiems rusę ar ištekėjusioms už ruso ir siejo juos su Romos krikštu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]'
   pagrindžia:
     - c-001
 
@@ -28,6 +29,11 @@ tags:
 - t-002
   global_id: t-184363
   teiginys: 'Jogailos įsakyme mišriose santuokose su rusais buvo reikalaujama sekti kataliką ar katalikę ir priimti Romos krikštą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Perrašyta į sklandų enciklopedinį sakinį be citatos fragmentų ir OCR formų.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -65,10 +71,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
-- [[objektai/asmenys/Kūnas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Rusai]]

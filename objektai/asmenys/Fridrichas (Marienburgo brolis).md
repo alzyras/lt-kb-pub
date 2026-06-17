@@ -21,6 +21,8 @@ Dusburgietis teigia, kad apie nuostabų įvykį Tuo metu Marienburgo pilyje gyve
 - t-001
   global_id: t-60277
   teiginys: 'Marienburgo pilyje gyvenęs brolis Fridrichas nukrito nuo žirgo ir užsimušė.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, pilnas ir paremtas citata.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_person: [[objektai/asmenys/Heinemanas (Marienburgo brolis)|Heinemanas (Marienburgo brolis)]]; mentioned_place: Marienburgas'
   pagrindžia:
     - c-001
 
@@ -28,6 +30,12 @@ Dusburgietis teigia, kad apie nuostabų įvykį Tuo metu Marienburgo pilyje gyve
 - t-002
   global_id: t-184062
   teiginys: 'Brolis Fridrichas ir brolis Heinemanas gyveno Marienburgo pilyje ir buvo vaizduojami kaip labai artimi.'
+  teiginio_tipas: 'saltinio_teiginys'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata palaiko enciklopedinį sakinį apie Fridrichą ir Heinemaną.'
+  susije_objektai: 'location: Marienburgas; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_person: [[objektai/asmenys/Heinemanas (Marienburgo brolis)|Heinemanas (Marienburgo brolis)]]; mentioned_place: Marienburgas'
+  semantiniai_rysiai: '[[objektai/asmenys/Fridrichas (Marienburgo brolis)|Fridrichas (Marienburgo brolis)]] gyveno Marienburgas'
   pagrindžia:
     - c-001
 
@@ -52,6 +60,4 @@ Dusburgietis teigia, kad apie nuostabų įvykį Tuo metu Marienburgo pilyje gyve
     - t-002
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Fridrichas]]
-- [[objektai/asmenys/Heinemanas (Marienburgo brolis)]]
+- Fridrichas (Marienburgo brolis) gyveno [[objektai/vietos/Marienburgas]]

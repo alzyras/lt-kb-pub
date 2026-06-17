@@ -26,6 +26,10 @@ Dusburgietis teigia, kad schmid B.
 - t-001
   global_id: t-61287
   teiginys: 'B. Schmido „Die Gründung der Marienburg“ paskelbtas „Altpreussische Forschungen“ 1929 m. antrajame sąsiuvinyje.'
+  sudarymo_pagrindimas: 'Citata pagrindžia autorių, pavadinimą, leidinį, metus ir sąsiuvinį.'
+  temporaliniai_duomenys: 'įvykio data: 1929 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia autorių, pavadinimą, leidinį, metus ir sąsiuvinį.'
   pagrindžia:
     - c-001
 

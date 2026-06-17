@@ -11,7 +11,7 @@ tags: []
 
 ## Santrauka
 
-Amfiktionija buvo senovės graikų polių sąjunga, sudaryta tarpgentinėje teritorijoje esančiai šventovei ginti. Amfiktionija buvo senovės graikų polių sąjunga, sudaryta tarpgentinėje teritorijoje esančiai šventovei ginti.
+Amfiktionija paaiškinama kaip polių sąjunga, sudaryta tarpgentinėje teritorijoje esančiai šventovei ginti.
 
 ## Žodis ir formos
 
@@ -35,9 +35,16 @@ Vartojama lyginamajame religinių-politinių institucijų aiškinime.
 - t-001
   global_id: t-23432
   teiginys: 'Amfiktionija buvo senovės graikų polių sąjunga, sudaryta tarpgentinėje teritorijoje esančiai šventovei ginti.'
+  sudarymo_pagrindimas: 'Pradinė formuluotė per ilga ir labiau aiškina Romuvos analogiją.'
+  susije_objektai: 'mentioned_place: Nadruva; mentioned_place: Romuva'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/daiktai/Aukuro kalnai ir akmenys.md#claim-t-77919|Aukuro kalnai ir akmenys]]: Ugnies garbinimas buvo susijęs su Lietuvoje išplitusiais Aukuro kalnais ir akmenimis.
+- susijęs iš [[objektai/paprociai/Romuvos kulto institucija, ugnies garbinimas ir valdovų deginimas.md#claim-t-54334|Romuvos kulto institucija, ugnies garbinimas ir valdovų deginimas (institucija)]]: Romuvoje pagrindinis kulto objektas buvo ugnis.
+- susijęs iš Nadruva: Žynys įsikūrė Nadruvos teritorijoje, kad būtų išlaikyta politinė pusiausvyra tarp genčių.
+- susijęs iš Romuva: Romuvoje pagrindinis kulto objektas buvo ugnis.
+- susijęs iš Romuva: Romuvoje pagrindinis kulto objektas buvo ugnis.
+- susijęs iš [[objektai/zodynas/Romuva ir krivis.md#claim-t-75585|Romuva ir krivis]]: Romuvoje pagrindinis kulto objektas buvo ugnis.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -70,13 +77,3 @@ Vartojama lyginamajame religinių-politinių institucijų aiškinime.
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/istorinė-sąvoka]]
-- [[temos/religinis-terminas]]
-
-### Susiję objektai
-- [[objektai/daiktai/Aukuro kalnai ir akmenys]]
-- [[objektai/zodynas/Romuva ir krivis]]
-- [[objektai/paprociai/Romuvos kulto institucija, ugnies garbinimas ir valdovų deginimas|Romuvos kulto institucija, ugnies garbinimas ir valdovų deginimas (institucija)]]

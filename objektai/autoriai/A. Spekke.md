@@ -28,6 +28,9 @@ SpHL = Spekke, A.
 - t-001
   global_id: t-30542
   teiginys: 'A. Spekke 1951 m. Stokholme paskelbė veikalą „History of Latvia, an outline“.'
+  susije_objektai: 'mentioned_place: Maskva'
+  temporaliniai_duomenys: 'įvykio data: 1951 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

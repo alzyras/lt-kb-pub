@@ -32,6 +32,11 @@ Carlsonas Gyllienhelmas. ee Kuoknesės pilis Baronas Karolis Karlsonas Gyllenhie
 - t-001
   global_id: t-79073
   teiginys: 'Karolis Carlsonas Gyllenhielmas vadovavo švedų kariuomenei, veikusiai prieš lietuvius Livonijoje.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_place: Kuoknesė; mentioned_place: Kuoknesės pilis; mentioned_place: Livonija; mentioned_place: Švedija'
+  temporaliniai_duomenys: 'įvykio data: 1574-1650; įvykio data: 1616 m.; įvykio data: 1620 m.; įvykio data: 1650 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-003
 
@@ -39,6 +44,8 @@ Carlsonas Gyllienhelmas. ee Kuoknesės pilis Baronas Karolis Karlsonas Gyllenhie
 - t-002
   global_id: t-79074
   teiginys: 'Karolis Carlsonas Gyllenhielmas buvo paskirtas vadovauti švedų kariuomenės aprūpinimo operacijai.'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo apie Karolį Sudermaną, o citata leidžia suformuluoti faktą apie note objektą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]'
   pagrindžia:
     - c-002
 
@@ -46,6 +53,7 @@ Carlsonas Gyllienhelmas. ee Kuoknesės pilis Baronas Karolis Karlsonas Gyllenhie
 - t-003
   global_id: t-79075
   teiginys: 'K. Carlsonas Gyllenhielmas buvo paskirtas vadovauti operacijai.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -108,10 +116,3 @@ Carlsonas Gyllienhelmas. ee Kuoknesės pilis Baronas Karolis Karlsonas Gyllenhie
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Karolis]]
-- [[objektai/grupes/Lietuvos kariuomenė]]
-- [[objektai/grupes/Švedai]]
-- [[objektai/grupes/Lietuviai]]

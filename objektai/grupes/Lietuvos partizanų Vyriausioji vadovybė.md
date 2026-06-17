@@ -26,6 +26,11 @@ Tapes partizanu, buvo paskirtas Tauro apygardos Geležinio Vilko rinktinės spau
 - t-001
   global_id: t-80655
   teiginys: 'Tapęs partizanu, šis asmuo prisidėjo organizuojant visų Lietuvos partizanų Vyriausiąją vadovybę.'
+  sudarymo_pagrindimas: 'Citata neįvardija asmens, bet palaiko ryšį su note objektu; reikia pašalinti fragmentišką pareigybių sąrašą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Birutė|Birutė]]; mentioned_place: Kaunas; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: po 1947 m.; įvykio data: 1947 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata neįvardija asmens, bet palaiko ryšį su note objektu; reikia pašalinti fragmentišką pareigybių sąrašą.'
   pagrindžia:
     - c-001
 
@@ -47,10 +52,3 @@ Tapes partizanu, buvo paskirtas Tauro apygardos Geležinio Vilko rinktinės spau
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/redaktorius]]
-
-### Susiję objektai
-- [[objektai/asmenys/Birutė]]

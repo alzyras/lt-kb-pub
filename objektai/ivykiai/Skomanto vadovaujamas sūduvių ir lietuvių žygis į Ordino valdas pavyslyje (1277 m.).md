@@ -5,8 +5,9 @@ saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1277 m.'
+  - '1282 m.'
 date_start: '1277'
-date_end: ''
+date_end: '1282'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -44,6 +45,12 @@ Nenurodyta
 - t-001
   global_id: t-62924
   teiginys: '1277 m. Skomanto vadovaujama sūduvių ir lietuvių kariuomenė siaubė Ordino valdas Pavyslyje iki Kristburgo.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys paremtas citata, bet per ilgas ir su pertekliniu autorystės įvadu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_person: [[objektai/asmenys/Traidenis|Traidenis]]; mentioned_place: Kristburgas; mentioned_place: Lietuva; mentioned_place: Prūsai'
+  temporaliniai_duomenys: 'įvykio data: 1277 m.; įvykio data: 1282 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys paremtas citata, bet per ilgas ir su pertekliniu autorystės įvadu.'
   pagrindžia:
     - c-001
 
@@ -64,10 +71,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Sūduviai]]
-- [[objektai/asmenys/Traidenis|Traidenis (valdovas, XIII a.)]]
-- [[objektai/asmenys/Skomantas]]

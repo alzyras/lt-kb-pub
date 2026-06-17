@@ -23,6 +23,8 @@ Vos tik čionai atėjo žinia apie tą sutartį, Varmės vysku­ pas Eberhardas,
 - t-001
   global_id: t-87711
   teiginys: 'Sembos vyskupas Jonas Elblionge dalyvavo pasitarime ir su kitais vyskupais pasiuntė laišką, kuriame taikos sutartį vadino pražūtinga.'
+  sudarymo_pagrindimas: 'Citata palaiko konkretų Jono veiksmą, bet pradinė formuluotė nutrūkusi ir su OCR triukšmu.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/diecezija|diecezija]]; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Mikolajus Kulmietis|Mikolajus Kulmietis]]; mentioned_place: Dorpatas; mentioned_place: Elbliongas; mentioned_place: Estija; mentioned_place: Livonija; mentioned_place: Pomezanija; mentioned_place: Prūsija; mentioned_place: Revelis; mentioned_place: Semba; mentioned_place: Varmė'
   pagrindžia:
     - c-001
 
@@ -57,12 +59,3 @@ Vos tik čionai atėjo žinia apie tą sutartį, Varmės vysku­ pas Eberhardas,
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Mikolajus Kulmietis]]
-- [[objektai/zodynas/diecezija]]
-- [[objektai/zodynas/vietininkas]]
-- [[objektai/asmenys/Jonas]]
-- [[objektai/asmenys/Eberhardas (Varmės vyskupas)]]
-- [[objektai/asmenys/Rudolfas (Pomezanijos vyskupas)]]

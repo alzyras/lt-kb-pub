@@ -51,6 +51,8 @@ Nenurodyta
 - t-001
   global_id: t-87305
   teiginys: 'Kronikų pasakojimu, XIII amžiuje kunigaikštis Germantas Šventaragio slėnyje įkurdino vaidilas, įrengė kunigaikščių kapavietes ir rengė dievų šlovinimus.'
+  sudarymo_pagrindimas: 'Pašalintas OCR ir puslapio triukšmas, atkurta citatos mintis.'
+  susije_objektai: 'territory: Europa; territory: Islandija; territory: Lietuva; territory: Salos; territory: Skandinavija; territory: Vilnius; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Germantas|Germantas]]; mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_place: Europa; mentioned_place: Islandija; mentioned_place: Lietuva; mentioned_place: Salos; mentioned_place: Skandinavija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -117,10 +119,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Germantas]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/grupes/Švedai]]
-- [[objektai/asmenys/Šventaragis]]

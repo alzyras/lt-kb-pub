@@ -20,6 +20,7 @@ tags:
 - t-001
   global_id: t-96053
   teiginys: 'Karlio May „Per dykumą“ I, II ir III tomus iš originalo vertė J. Vadeikis.'
+  sudarymo_pagrindimas: 'Citata palaiko bibliografinį faktą apie May kūrinio vertimą.'
   pagrindžia:
     - c-001
 

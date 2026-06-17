@@ -22,6 +22,8 @@ Beveik tuo pat metu kunigaikštis Konstantinas Ostrogiškis, kaip padėką Dievu
 - t-001
   global_id: t-86210
   teiginys: 'Konstantinas Ostrogiškis netoli Medininkų vartų pastatė mūrinę Švč. Trejybės cerkvę.'
+  sudarymo_pagrindimas: 'Teiginys yra konkretus, gramatiškas ir paremtas citatos turiniu.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]; mentioned_person: [[objektai/asmenys/Konstantinas Ostrogiškis|Konstantinas Ostrogiškis]]; mentioned_place: Medininkai'
   pagrindžia:
     - c-001
 

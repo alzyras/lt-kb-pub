@@ -46,6 +46,11 @@ Nenurodyta
 - t-001
   global_id: t-34521
   teiginys: '1426 m. rugpjūtį Vytautas su lietuvių, lenkų, čekų ir totorių kariuomene užpuolė Pskovą, bet miesto paimti nepavyko.'
+  sudarymo_pagrindimas: 'Pradinis tekstas nutrūkęs, o citata palaiko glaustą faktą apie žygį ir jo baigtį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pskoviečiai|Pskoviečiai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_object: [[objektai/zodynas/kontribucija|kontribucija]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Dorpatas; mentioned_place: Naugardas; mentioned_place: Pskovas'
+  temporaliniai_duomenys: 'įvykio data: 1426 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis tekstas nutrūkęs, o citata palaiko glaustą faktą apie žygį ir jo baigtį.'
   pagrindžia:
     - c-002
 
@@ -53,6 +58,11 @@ Nenurodyta
 - t-002
   global_id: t-34522
   teiginys: '1426 m. rugpjūčio 25 d. taika įpareigojo Pskovą pripažinti Vytauto viršenybę ir neteikti pagalbos jo priešams.'
+  sudarymo_pagrindimas: 'Pradinis teiginys yra fragmentas be faktinio predikato.'
+  susije_objektai: 'mentioned_place: Pskovas'
+  temporaliniai_duomenys: 'įvykio data: 1426 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys yra fragmentas be faktinio predikato.'
   pagrindžia:
     - c-001
 
@@ -88,12 +98,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Pskoviečiai]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/kontribucija]]
-- [[objektai/grupes/Čekai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

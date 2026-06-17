@@ -12,22 +12,25 @@ date_start: '1350'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+tags: []
 amziai:
   - 'XIV'
   - 'XXI'
-tags: []
 ---
 # bažnytinė provincija
 
 ## Santrauka
 
-Vytautas rūpinosi Lietuvoje įsteigti bažnytinę provinciją ir sekė Konstancijos susirinkimo eigą. Vytautas siekė sudaryti nepriklausomą Lietuvos bažnytinę provinciją. Vytautas norėjo iš pirmųjų trijų vyskupijų sudaryti nepriklausomą Lietuvos bažnytinę provinciją.
+Tuo metu buvo visiškai nesutvarkytas Lietuvos bažnytinės provincijos klausimas. Todėl, užmezgus oficialinius santykius su Vatikanu, pirmas vyriausybės rūpestis buvo sudaryti atskirą Lietuvos bažnytinę provinciją, iš kurios nebūtų išskirtas okupuotasis Vilniaus kraštas.
 
 ## Teiginiai
+
 <a id="claim-t-70098"></a>
 - t-001
   global_id: t-70098
   teiginys: 'Vytautas rūpinosi Lietuvoje įsteigti bažnytinę provinciją ir sekė Konstancijos susirinkimo eigą.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir paremtas citata apie Vytauto veiklas.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Konstancija; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -35,6 +38,8 @@ Vytautas rūpinosi Lietuvoje įsteigti bažnytinę provinciją ir sekė Konstanc
 - t-002
   global_id: t-70099
   teiginys: 'Vytautas siekė sudaryti nepriklausomą Lietuvos bažnytinę provinciją.'
+  sudarymo_pagrindimas: 'Teiginys yra taisyklingas ir pagrįstas citatoje nurodytu Vytauto siekiu.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/metropolija|metropolija]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -42,6 +47,8 @@ Vytautas rūpinosi Lietuvoje įsteigti bažnytinę provinciją ir sekė Konstanc
 - t-003
   global_id: t-70100
   teiginys: 'Vytautas norėjo iš pirmųjų trijų vyskupijų sudaryti nepriklausomą Lietuvos bažnytinę provinciją.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nurodo Vytauto ketinimą ir jo objektą, paremtą citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/metropolija|metropolija]]; mentioned_object: [[objektai/zodynas/savarankiškumas|savarankiškumas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 
@@ -49,6 +56,8 @@ Vytautas rūpinosi Lietuvoje įsteigti bažnytinę provinciją ir sekė Konstanc
 - t-004
   global_id: t-70101
   teiginys: 'Vytautas rūpinosi Lietuvoje įsteigti bažnytinę provinciją.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir atitinka citatos informaciją apie Vytauto rūpestį.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Konstancija; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -56,12 +65,19 @@ Vytautas rūpinosi Lietuvoje įsteigti bažnytinę provinciją ir sekė Konstanc
 - t-005
   global_id: t-182937
   teiginys: 'Užmezgusi oficialius santykius su Vatikanu, Lietuvos vyriausybė siekė sudaryti atskirą Lietuvos bažnytinę provinciją su Vilniaus kraštu.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis sakinys prasideda kontekstiniu „Todėl“, o citata leidžia aiškiai įvardyti veikėją ir tikslą.'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vatikanas; mentioned_place: Vilnius'
   pagrindžia:
     - c-004
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-
+- susijęs iš [[objektai/posakiai/Gens Lithuanorum.md#claim-t-35971|Gens Lithuanorum]]: Lietuvos bažnytinė provincija buvo įkurta 1926 m. balandžio 4 d. popiežiaus Pijaus XI bule „Gens Lithuanorum“.
+- susijęs iš Vatikanas: Užmezgusi oficialius santykius su Vatikanu, Lietuvos vyriausybė siekė sudaryti atskirą Lietuvos bažnytinę provinciją su Vilniaus kraštu.
+- susijęs iš [[objektai/zodynas/metropolija bažnytinė provincija bažnytinė unija.md#claim-t-22229|metropolija bažnytinė provincija bažnytinė unija (unija)]]: Po Žalgirio mūšio Lietuvoje bandyta steigti katalikų bažnytinę provinciją ir stačiatikių metropoliją ar vyskupiją sujungti su Katalikų bažnyčia.
+- susijęs iš [[objektai/zodynas/metropolija bažnytinė provincija.md#claim-t-22230|metropolija bažnytinė provincija]]: Po Žalgirio mūšio Lietuvoje bandyta steigti atskirą katalikų bažnytinę provinciją.
 ## Reikšmingi paminėjimai
+
 - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -79,6 +95,7 @@ Vytautas rūpinosi Lietuvoje įsteigti bažnytinę provinciją ir sekė Konstanc
   statusas: verified
   pagrindžia:
     - t-002
+
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -95,6 +112,7 @@ Vytautas rūpinosi Lietuvoje įsteigti bažnytinę provinciją ir sekė Konstanc
   pagrindžia:
     - t-004
     - t-001
+
 - c-003
   santrauka: 'Vytautas norėjo iš pirmųjų trijų vyskupijų sudaryti nepriklausomą Lietuvos bažnytinę provinciją.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -113,6 +131,7 @@ Vytautas rūpinosi Lietuvoje įsteigti bažnytinę provinciją ir sekė Konstanc
   statusas: verified
   pagrindžia:
     - t-003
+
 - c-004
   santrauka: 'Užmezgusi oficialius santykius su Vatikanu, Lietuvos vyriausybė siekė sudaryti atskirą Lietuvos bažnytinę provinciją su Vilniaus kraštu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -125,23 +144,8 @@ Vytautas rūpinosi Lietuvoje įsteigti bažnytinę provinciją ir sekė Konstanc
     tasis Vilniaus kraštas. Tačiau Vatikanas 1925 metais sudarė
     konkordatą su Lenkija, visai neatsižvelgdamas į Lietuvos teises
     nepabaigtame ginče su Lenkija.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-005
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/religinis-terminas]]
-
-### Susiję objektai
-- [[objektai/asmenys/Martynas iš Golino]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/metropolija]]
-- [[objektai/zodynas/savarankiškumas]]
-- [[objektai/posakiai/Gens Lithuanorum]]
-- [[objektai/zodynas/metropolija bažnytinė provincija]]
-- [[objektai/zodynas/metropolija bažnytinė provincija bažnytinė unija|metropolija bažnytinė provincija bažnytinė unija (unija)]]

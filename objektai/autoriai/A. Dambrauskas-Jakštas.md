@@ -28,6 +28,9 @@ Dambrauskas-Jakštas, Užgesę Žiburiai, XVI-502 psl., Roma^2 1975.
 - t-001
   global_id: t-30503
   teiginys: 'A. Dambrausko-Jakšto „Užgesę Žiburiai“ antrasis leidimas 1975 m. išėjo Romoje.'
+  susije_objektai: 'mentioned_place: Roma'
+  temporaliniai_duomenys: 'įvykio data: 1975 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -46,7 +49,3 @@ Dambrauskas-Jakštas, Užgesę Žiburiai, XVI-502 psl., Roma^2 1975.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/metraštis]]

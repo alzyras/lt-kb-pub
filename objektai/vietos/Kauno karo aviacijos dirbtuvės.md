@@ -3,17 +3,23 @@ tipas: vieta
 pavadinimas: 'Kauno karo aviacijos dirbtuvės'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1934 m.'
+date_start: '1934'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - karas
   - vieta
+amziai:
+  - 'XX'
 ---
 # Kauno karo aviacijos dirbtuvės
 
 ## Santrauka
 
-Kauno karo aviacijos dirbtuvėse buvo pastatyti 66 Antano Gustaičio sukonstruotos ANBO serijos lėktuvai.
+66 tokie lėktuvai buvo pastatyti Kauno karo aviacijos dirbtuvėse.
 
 ## Teiginiai
 
@@ -21,6 +27,11 @@ Kauno karo aviacijos dirbtuvėse buvo pastatyti 66 Antano Gustaičio sukonstruot
 - t-001
   global_id: t-15268
   teiginys: 'Kauno karo aviacijos dirbtuvėse buvo pastatyti 66 Antano Gustaičio sukonstruotos ANBO serijos lėktuvai.'
+  sudarymo_pagrindimas: 'Pradinis teiginys turi neaiškų įvardį „tokie“, todėl objektas išplėstas pagal citatą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Lėktuvai|Lėktuvai]]; mentioned_object: [[objektai/posakiai/„Antanas nori būti ore“|„Antanas nori būti ore“]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_place: Kaunas; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'pastatymo data: po 1934 m.; pastatymo data: 1934 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip pastatymo data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys turi neaiškų įvardį „tokie“, todėl objektas išplėstas pagal citatą.'
   pagrindžia:
     - c-001
 

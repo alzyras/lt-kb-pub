@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Maskvos didysis kunigaikštis po taikos su Algirdu dovanojo jam sabalų ir kitų brangių bei retų žvėrių kailių.
+Lietuvos metraštyje pasakojama, kad lietuvos metraštis pasakoja, kad Maskvos didysis kunigaikštis dovanojo Algirdui sabalų ir kitų brangių bei retų žvėrių kailių; Šiame gabale kailiai minimi kaip taikos ir išlaidų atlyginimo dovanos.
 
 ## Pavadinimai šaltiniuose
 
@@ -40,14 +40,17 @@ Nenurodyta
 <a id="claim-t-186840"></a>
 - t-001
   global_id: t-186840
-  teiginys: 'Maskvos didysis kunigaikštis po taikos su Algirdu dovanojo jam sabalų ir kitų brangių bei retų žvėrių kailių.'
+  teiginys: 'Bychovco kronikoje pasakojama, kad po taikos su Algirdu Maskvos didysis kunigaikštis dovanojo jam sabalų ir kitų brangių bei retų žvėrių kailių.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Dovana ir politinis kontekstas palikti kaip kronikos pasakojimas, nes citatoje yra valdovų titulų ir motyvų kalbos. Nepridėta daugiau apie dovanos kiekį ar susitarimo sąlygas.'
+  susije_objektai: 'territory: Maskva; mentioned_object: [[objektai/daiktai/Kailiai|Kailiai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Maskva'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Maskvos didysis kunigaikštis po taikos su Algirdu dovanojo jam sabalų ir kitų brangių bei retų žvėrių kailių.'
+  santrauka: 'Bychovco kronikoje pasakojama, kad po taikos su Algirdu Maskvos didysis kunigaikštis dovanojo jam sabalų ir kitų brangių bei retų žvėrių kailių.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     Ir,
@@ -70,8 +73,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/zodynas/didysis kunigaikštis]]

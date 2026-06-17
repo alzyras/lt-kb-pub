@@ -23,6 +23,8 @@ Dusburgietis teigia, kad ditrichas (Meiseno markgrafas) sušakosiąs ir ateityje
 - t-001
   global_id: t-60262
   teiginys: 'Meiseno markgrafas Ditrichas buvo tarp didikų, pritarusių siųsti legatus Henrikui VI dėl ligoninės patvirtinimo.'
+  sudarymo_pagrindimas: 'Ilgas fragmentas sutrumpintas iki citata paremto fakto apie Ditrichą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/landgrafas|landgrafas]]; mentioned_object: [[objektai/zodynas/legatai|legatai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Albertas|Albertas]]; mentioned_person: [[objektai/asmenys/Gardolfas|Gardolfas]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Austrija; mentioned_place: Jeruzalė; mentioned_place: Reinas; mentioned_place: Saksonija'
   pagrindžia:
     - c-001
 
@@ -62,14 +64,3 @@ Dusburgietis teigia, kad ditrichas (Meiseno markgrafas) sušakosiąs ir ateityje
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Albertas]]
-- [[objektai/asmenys/Gardolfas]]
-- [[objektai/autoriai/Henrikas]]
-- [[objektai/asmenys/Jonas]]
-- [[objektai/zodynas/landgrafas]]
-- [[objektai/zodynas/legatai]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/maršalas]]

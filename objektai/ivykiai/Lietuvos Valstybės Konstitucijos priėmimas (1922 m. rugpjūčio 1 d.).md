@@ -17,7 +17,7 @@ amziai:
 
 ## Santrauka
 
-Lietuvos Valstybės Konstitucija skelbė, kad aukščiausioji valdžia priklauso tautai. Lietuvių kalba Lietuvos Valstybės Konstitucijoje pirmą kartą įteisinta kaip valstybinė. Seimas 1922 m. rugpjūčio 1 d. priimtoje Lietuvos Valstybės Konstitucijoje įtvirtino Prancūzijos III respublikos pavyzdžio demokratijos principus.
+1922 m. rugpjūčio 1 d. priimta Lietuvos Valstybės Konstitucija įtvirtino demokratinės respublikos principus, lietuvių kalbos valstybinį statusą, piliečių lygybę ir plačias Seimo galias.
 
 ## Laikotarpis ir datos
 
@@ -47,6 +47,9 @@ Nenurodyta
 - t-001
   global_id: t-45389
   teiginys: 'Lietuvos Valstybės Konstitucija skelbė, kad aukščiausioji valdžia priklauso tautai.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lietuva; mentioned_place: Prancūzija'
+  temporaliniai_duomenys: 'įvykio data: 1922 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 
@@ -54,6 +57,11 @@ Nenurodyta
 - t-002
   global_id: t-45390
   teiginys: 'Lietuvių kalba Lietuvos Valstybės Konstitucijoje pirmą kartą įteisinta kaip valstybinė.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir paremtas pateikta citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lietuva; mentioned_place: Prancūzija'
+  temporaliniai_duomenys: 'įvykio data: 1922 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir paremtas pateikta citata.'
   pagrindžia:
     - c-002
 
@@ -61,6 +69,11 @@ Nenurodyta
 - t-003
   global_id: t-45391
   teiginys: 'Seimas 1922 m. rugpjūčio 1 d. priimtoje Lietuvos Valstybės Konstitucijoje įtvirtino Prancūzijos III respublikos pavyzdžio demokratijos principus.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas, konkretus ir tiesiogiai pagrįstas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lietuva; mentioned_place: Prancūzija'
+  temporaliniai_duomenys: 'įvykio data: 1922 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas, konkretus ir tiesiogiai pagrįstas citata.'
   pagrindžia:
     - c-002
 
@@ -68,6 +81,11 @@ Nenurodyta
 - t-004
   global_id: t-45392
   teiginys: '1922 m. Lietuvos Valstybės Konstitucija Seimui, sudarytam iš tautos atstovų, suteikė ypač didelių galių.'
+  sudarymo_pagrindimas: 'Perrašyta aiškiau, pašalinant neenciklopedinį žodį „vadinamieji“.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1922 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Perrašyta aiškiau, pašalinant neenciklopedinį žodį „vadinamieji“.'
   pagrindžia:
     - c-001
 
@@ -75,6 +93,9 @@ Nenurodyta
 - t-005
   global_id: t-45393
   teiginys: 'Lietuvos Valstybės Konstitucija skelbė Lietuvos valstybę nepriklausoma demokratine respublika.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lietuva; mentioned_place: Prancūzija'
+  temporaliniai_duomenys: 'įvykio data: 1922 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 
@@ -82,6 +103,8 @@ Nenurodyta
 - t-006
   global_id: t-45394
   teiginys: 'Lietuvos Valstybės Konstitucija suteikė plačią autonomiją Lietuvoje gyvenusioms tautinėms mažumoms ir įteisino privalomą pradžios mokslą.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir tiksliai perteikia citatos faktus.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -120,10 +143,3 @@ Nenurodyta
     - t-005
     - t-002
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/grupes/Bajorai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/seimas]]

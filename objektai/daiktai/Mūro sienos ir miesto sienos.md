@@ -7,6 +7,7 @@ saltiniai:
 datos:
   - '1160 m.'
   - '1330 m.'
+  - '1505 m.'
   - '1506 m.'
 date_start: '1160'
 date_end: '1506'
@@ -53,6 +54,8 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
 - t-001
   global_id: t-55045
   teiginys: 'Otono Didžiojo laikais Italijos miestai, saugodamiesi vengrų ir saracėnų antpuolių, apsitvėrė mūro sienomis.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie mūro sienas ir remiasi citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Saracėnai|Saracėnai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_place: Italija'
   pagrindžia:
     - c-001
 
@@ -60,6 +63,8 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
 - t-002
   global_id: t-55046
   teiginys: 'Krokuva Lešekui Juodajam buvo skolinga už svarbias privilegijas, svetimtaučių antplūdį ir gerai sutvirtintas mūro sienas.'
+  sudarymo_pagrindimas: 'Teiginys pilnas, gramatiškas ir tiesiogiai atitinka citatą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_place: Krokuva; mentioned_place: Lenkija'
   pagrindžia:
     - c-006
 
@@ -67,6 +72,9 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
 - t-003
   global_id: t-55047
   teiginys: '1505 m. Vilniaus gyventojams nurodyta apjuosti miestą mūro siena, o negalintiems jos statyti - tverti statinių tvorą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Statinės|Statinės]]; mentioned_object: [[objektai/zodynas/barbarai|barbarai]]; mentioned_place: Išganytojo (Spaso) bažnyčia Vilniuje; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1505 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 
@@ -74,6 +82,11 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
 - t-004
   global_id: t-89428
   teiginys: '1330 m. Eberhardas iš Manheimo neįžengė į Rygą, kol miesto sienoje nebuvo išlaužta 30 uolekčių ilgio spraga.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nebaigtas ir painus; citata pagrindžia konkretų faktą apie miesto sieną.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Eberhardas (Varmės vyskupas)|Eberhardas (Varmės vyskupas)]]; mentioned_person: [[objektai/asmenys/Eberhardas iš Manheimo|Eberhardas iš Manheimo]]; mentioned_place: Livonija; mentioned_place: Ryga; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1330 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys nebaigtas ir painus; citata pagrindžia konkretų faktą apie miesto sieną.'
   pagrindžia:
     - c-003
 
@@ -81,6 +94,8 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
 - t-005
   global_id: t-89429
   teiginys: 'Krokuva už geriausiai sutvirtintas mūro sienas ir svarbias privilegijas buvo skolinga Lešekui Juodajam.'
+  sudarymo_pagrindimas: 'Teiginys yra tikslus ir paremtas pateikta citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_place: Krokuva; mentioned_place: Lenkija'
   pagrindžia:
     - c-006
 
@@ -88,6 +103,8 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
 - t-006
   global_id: t-89430
   teiginys: 'Gedimino laikų Vilnius dar nebuvo bokštų ir mūro sienų saugomas miestas.'
+  sudarymo_pagrindimas: 'Citata leidžia glaustai teigti, kad tuometinis Vilnius nebuvo mūro sienomis saugomas miestas.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Kazimieras Didysis|Kazimieras Didysis]]; mentioned_place: Bokštai; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_place: Vokietija'
   pagrindžia:
     - c-004
 
@@ -95,9 +112,32 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
 - t-007
   global_id: t-89431
   teiginys: '1506 m. totorių grėsmės išsigandę vilniečiai apjuosė Vilnių mūro pylimu ir pašalino medinius statinius.'
+  sudarymo_pagrindimas: 'Pašalintas puslapio triukšmas; citata aiškiai remia faktą apie Vilniaus apjuosimą mūro pylimu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_person: [[objektai/asmenys/Vaitiekus (Lucko vyskupas)|Vaitiekus (Lucko vyskupas)]]; mentioned_place: Minskas; mentioned_place: Sluckas; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1506 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas puslapio triukšmas; citata aiškiai remia faktą apie Vilniaus apjuosimą mūro pylimu.'
   pagrindžia:
     - c-005
-
+- susijęs iš [[objektai/asmenys/Kazimieras Jogailaitis.md#claim-t-82511|Kazimieras Jogailaitis]]: Kazimieras Jogailaitis 1441 metais Brastoje išleista privilegija atnaujino Vilniui Magdeburgo teises.
+- susijęs iš [[objektai/asmenys/Klemensas V.md#claim-t-59927|Klemensas V]]: Po Klemenso V vainikavimo prie Liono sugriuvusi mūro siena pražudė daug žmonių, o pats popiežius nukentėjo.
+- susijęs iš [[objektai/asmenys/Vaitiekus Taboras.md#claim-t-87413|Vaitiekus Taboras (vyskupas, XV–XVI a.)]]: Vaitiekus Taboras, lietuvių bajoras nuo Eišiškių, 1491 m. buvo iškeltas į vyskupus ir mirė 1507 m.
+- susijęs iš [[objektai/grupes/Vilniaus gyventojai.md#claim-t-86689|Vilniaus gyventojai]]: Vilniaus gyventojams nuo seno galiojo pareiga saugoti Vilniaus pilį.
+- susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-172833|Vilniaus miestiečių luomas]]: 1505 m. karalius atleido Vilniaus gyventojus nuo karo tarnybos vieneriems metams, kad jie apjuostų miestą mūro siena.
+- susijęs iš [[objektai/ivykiai/Klemenso V vainikavimo procesijos nelaimė prie Liono (1305 m. po lapkričio 18 d.).md#claim-t-183931|Klemenso V vainikavimo procesijos nelaimė prie Liono (1305 m. po lapkričio 18 d.)]]: Per nelaimę prie Liono nukentėjo popiežius Klemensas V, o nuo jo galvos nulėkė vainikas, iš kurio iškrito ir pradingo rubinas.
+- susijęs iš [[objektai/ivykiai/Klemenso V vainikavimo procesijos nelaimė prie Liono (1305 m. po lapkričio 18 d.).md#claim-t-62322|Klemenso V vainikavimo procesijos nelaimė prie Liono (1305 m. po lapkričio 18 d.)]]: Po Klemenso V vainikavimo prie Liono išgriuvusi mūro siena nuslėgė daug žmonių, tarp jų ir popiežiaus arklį vedusį Britanijos kunigaikštį.
+- susijęs iš [[objektai/paprociai/Vilniaus miestiečių Magdeburgo teisės, prekybos laisvės ir municipalinių pajamų tvarka.md#claim-t-87135|Vilniaus miestiečių Magdeburgo teisės, prekybos laisvės ir municipalinių pajamų tvarka]]: Kazimiero 1441 m. Brastoje išleista privilegija atnaujino Vilniaus Magdeburgo teises ir nustatė du didžiuosius prekymečius.
+- susijęs iš [[objektai/paprociai/Vilniaus miestiečių gynybinė prievolė statyti miesto sieną ir eiti vartų sargybą.md#claim-t-87233|Vilniaus miestiečių gynybinė prievolė statyti miesto sieną ir eiti vartų sargybą]]: 1505 m. karalius metams atleido Vilniaus gyventojus nuo karo tarnybos su sąlyga, kad jie apjuos miestą mūro siena.
+- susijęs iš [[objektai/posakiai/ius Teutonicum quod Magdeburiense dicitur denuo darnus.md#claim-t-86859|ius Teutonicum quod Magdeburiense dicitur denuo darnus]]: 1441 m. Kazimiero privilegijoje Vilniui iš naujo suteikta teutoniškoji, Magdeburgo vardu vadinama teisė.
+- susijęs iš Martyno iš Opavos popiežių ir imperatorių istorija: Po popiežiaus Klemenso vainikavimo prie Liono išgriuvusi mūro siena pražudė daug žmonių ir sužeidė patį popiežių.
+- susijęs iš Lionas: Po popiežiaus Klemenso vainikavimo prie Liono esančioje Šv. Justo bažnyčioje griuvusi mūro siena nuslėgė daug žmonių.
+- susijęs iš Pskovas: 1581 m. rugpjūčio pabaigoje jungtinės pajėgos pasiekė labai gerai įtvirtintą Pskovo miestą.
+- susijęs iš Pskovas: 1581 m. rugpjūčio pabaigoje jungtinės pajėgos pasiekė labai gerai įtvirtintą Pskovo miestą.
+- susijęs iš [[objektai/zodynas/Magdeburgo teisės.md#claim-t-113645|Magdeburgo teisės]]: 1441 m. Brastoje išleista Kazimiero privilegija Vilniui atkūrė Magdeburgo teises ir nustatė du didžiuosius prekymečius.
+- susijęs iš [[objektai/zodynas/Magdeburgo teisės.md#claim-t-113648|Magdeburgo teisės]]: 1441 m. Kazimiero privilegija atnaujino Vilniaus Magdeburgo teises, nustatė du didžiuosius prekymečius ir savaitinius turgus.
+- susijęs iš [[objektai/zodynas/oktava.md#claim-t-58858|oktava]]: Per švento Martyno oktavą popiežiui Klemensui leidžiantis iš švento Justo bažnyčios prie Liono išgriuvo mūro siena.
+- susijęs iš [[objektai/zodynas/pilėnas.md#claim-t-184636|pilėnas]]: Vytauto kariams įsiveržus į žemutinę Vitebsko pilį, kovojant dėl miesto sienos žuvo vienas kitas pilėnas.
+- susijęs iš [[objektai/zodynas/prekymečiai ir turgūs.md#claim-t-86610|prekymečiai ir turgūs]]: Kazimiero 1441 m. Brastoje išleista privilegija nustatė Vilniui du didžiuosius prekymečius ir savaitinius turgus.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -231,39 +271,3 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
   pagrindžia:
     - t-005
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/Benjaminas iš Tudelio]]
-- [[objektai/daiktai/Laivai]]
-- [[objektai/grupes/Teutonai]]
-- [[objektai/grupes/Vengrai]]
-- [[objektai/asmenys/Švitrigaila]]
-- [[objektai/grupes/Žydai]]
-- [[objektai/asmenys/Eberhardas (Varmės vyskupas)]]
-- [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]
-- [[objektai/asmenys/Kazimieras Didysis]]
-- [[objektai/grupes/Saracėnai]]
-- [[objektai/asmenys/Vaitiekus (Lucko vyskupas)]]
-- [[objektai/zodynas/barbarai]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/asmenys/Kazimieras Jogailaitis]]
-- [[objektai/asmenys/Klemensas V]]
-- [[objektai/ivykiai/Klemenso V vainikavimo procesijos nelaimė prie Liono (1305 m. po lapkričio 18 d.)]]
-- [[objektai/zodynas/Magdeburgo teisės]]
-- [[objektai/asmenys/Vaitiekus Taboras|Vaitiekus Taboras (vyskupas, XV–XVI a.)]]
-- [[objektai/grupes/Vilniaus gyventojai]]
-- [[objektai/paprociai/Vilniaus miestiečių Magdeburgo teisės, prekybos laisvės ir municipalinių pajamų tvarka]]
-- [[objektai/posakiai/ius Teutonicum quod Magdeburiense dicitur denuo darnus]]
-- [[objektai/zodynas/oktava]]
-- [[objektai/zodynas/prekymečiai ir turgūs]]
-- [[objektai/asmenys/Eberhardas iš Manheimo]]
-- [[objektai/asmenys/Gediminas]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/paprociai/Vilniaus miestiečių gynybinė prievolė statyti miesto sieną ir eiti vartų sargybą]]
-- [[objektai/grupes/Vilniaus miestiečių luomas]]
-- [[objektai/zodynas/pilėnas]]
-- [[objektai/daiktai/Laivai, valtys, sieliai ir plaustai]]
-- [[objektai/daiktai/Mūro sienos]]
-- [[objektai/daiktai/Vilniaus miesto mūro siena, vartai ir statinių tvora]]
-- [[objektai/daiktai/Žemutinės pilies sienos ir mediniai rūmai]]

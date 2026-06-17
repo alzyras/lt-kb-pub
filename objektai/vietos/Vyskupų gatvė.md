@@ -33,6 +33,11 @@ Be to, dar anksčiau minėtas Vilniaus vyskupas Protasevičius tris mūrinius na
 - t-001
   global_id: t-85970
   teiginys: '1579 m. kovo 6 d. Vilniaus vyskupas Protasevičius Akademijai ir Collegio užrašė du mūrinius namus Vyskupų gatvėje.'
+  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytą datą, veikėją ir namus Vyskupų gatvėje.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/fundacija|fundacija]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Akademijos aikštė; mentioned_place: Viena; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1579 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia citatoje nurodytą datą, veikėją ir namus Vyskupų gatvėje.'
   pagrindžia:
     - c-001
 
@@ -40,6 +45,11 @@ Be to, dar anksčiau minėtas Vilniaus vyskupas Protasevičius tris mūrinius na
 - t-002
   global_id: t-85971
   teiginys: '1573 m. sutartyje Vyskupų gatvė nurodyta aprašant sklypą prie Skapo gatvės kampo, einant nuo Vilniaus vyskupo dvaro.'
+  sudarymo_pagrindimas: 'Citata leidžia suformuluoti rišlų faktą apie Vyskupų gatvės paminėjimą sklypo vietai nusakyti.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1573 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata leidžia suformuluoti rišlų faktą apie Vyskupų gatvės paminėjimą sklypo vietai nusakyti.'
   pagrindžia:
     - c-003
 
@@ -47,6 +57,11 @@ Be to, dar anksčiau minėtas Vilniaus vyskupas Protasevičius tris mūrinius na
 - t-003
   global_id: t-85972
   teiginys: '1677 m. Paulius Bochenas 750 auksinų skyrė namui Vyskupų gatvėje remontuoti.'
+  sudarymo_pagrindimas: 'Teiginys yra glaustas ir pagrįstas citatos informacija apie 750 auksinų skyrimą remontui.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/bursa|bursa]]; mentioned_person: [[objektai/asmenys/Eustachijus (raštininkas)|Eustachijus (raštininkas)]]; mentioned_person: [[objektai/asmenys/Paulius Bochenas|Paulius Bochenas]]; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1677 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra glaustas ir pagrįstas citatos informacija apie 750 auksinų skyrimą remontui.'
   pagrindžia:
     - c-002
 

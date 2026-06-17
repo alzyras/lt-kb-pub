@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Pina yra Pripetės kairysis intakas, prie kurio yra Pinsko miestas. Pina yra Pripetės kairysis intakas, prie kurio yra Pinsko miestas.
+Pinskas lokalizuojamas prie Pinos upės.
 
 ## Teiginiai
 
@@ -20,6 +20,9 @@ Pina yra Pripetės kairysis intakas, prie kurio yra Pinsko miestas. Pina yra Pri
 - t-001
   global_id: t-187287
   teiginys: 'Pina yra Pripetės kairysis intakas, prie kurio yra Pinsko miestas.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys aiškus, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Kukovaitis|Kukovaitis]]; mentioned_place: Pinskas; mentioned_place: Pripetė; mentioned_place: Viena'
   pagrindžia:
     - c-001
 

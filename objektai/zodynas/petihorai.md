@@ -47,6 +47,8 @@ Terminas žymi savitą LDK kavalerijos rūšį tarp husarų ir lengvesniųjų ra
 - t-001
   global_id: t-49286
   teiginys: 'J. P. Sapiegos husarų ir petihorų vėliavos atlaikė pagrindinį Švedijos kariuomenės smūgį prie lietuvių dešiniojo sparno.'
+  sudarymo_pagrindimas: 'Pradinis tekstas yra fragmentiškas, o citata palaiko pilną sakinį apie petihorų vaidmenį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Sapiegos|Sapiegos]]; mentioned_object: [[objektai/daiktai/Vėliavos|Vėliavos]]; mentioned_object: [[objektai/zodynas/husarai|husarai]]; mentioned_object: [[objektai/zodynas/rotmistras|rotmistras]]; mentioned_place: Lietuva; mentioned_place: Švedija'
   pagrindžia:
     - c-002
 
@@ -54,6 +56,7 @@ Terminas žymi savitą LDK kavalerijos rūšį tarp husarų ir lengvesniųjų ra
 - t-002
   global_id: t-49287
   teiginys: 'Petihorai Lietuvos Didžiosios Kunigaikštijos kariuomenėje buvo kavalerijos rūšis, anksčiau naudojusi dzidas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Janičarai|Janičarai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Ietys|Ietys]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_object: [[objektai/zodynas/husarai|husarai]]; mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_object: [[objektai/daiktai/Šarvuočiai|Šarvuočiai]]; mentioned_place: Chotinas; mentioned_place: Krymas; mentioned_place: Lietuva; mentioned_place: Turkija'
   pagrindžia:
     - c-003
 
@@ -61,6 +64,7 @@ Terminas žymi savitą LDK kavalerijos rūšį tarp husarų ir lengvesniųjų ra
 - t-003
   global_id: t-49288
   teiginys: 'Petihorai buvo Lietuvos kariuomenės raitininkai, Lenkijoje vadinti pancernais.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/flangas|flangas]]; mentioned_object: [[objektai/zodynas/husarai|husarai]]; mentioned_object: [[objektai/daiktai/Šarvai|Šarvai]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -68,6 +72,8 @@ Terminas žymi savitą LDK kavalerijos rūšį tarp husarų ir lengvesniųjų ra
 - t-004
   global_id: t-49289
   teiginys: 'Petihorai LDK kariuomenėje buvo kavalerijos rūšis, atsisakiusi dzidų ir ginkluote prilyginta šarvuočiams.'
+  sudarymo_pagrindimas: 'Pirminis teiginys yra OCR triukšmingas ir nutrūkęs, o citata aiškiai pagrindžia glaustą apibrėžimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Janičarai|Janičarai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Ietys|Ietys]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_object: [[objektai/zodynas/husarai|husarai]]; mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_object: [[objektai/daiktai/Šarvuočiai|Šarvuočiai]]; mentioned_place: Chotinas; mentioned_place: Krymas; mentioned_place: Lietuva; mentioned_place: Turkija'
   pagrindžia:
     - c-003
 
@@ -75,10 +81,13 @@ Terminas žymi savitą LDK kavalerijos rūšį tarp husarų ir lengvesniųjų ra
 - t-005
   global_id: t-49290
   teiginys: 'Petihorai sudarydavo vidutinę kavaleriją ir mūšyje manevruodavo flanguose, remdami husarų ataką.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/flangas|flangas]]; mentioned_object: [[objektai/zodynas/husarai|husarai]]; mentioned_object: [[objektai/daiktai/Šarvai|Šarvai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
     - c-002
-
+- susijęs iš [[objektai/grupes/Turkijos kariuomenė.md#claim-t-41184|Turkijos kariuomenė]]: Chotino link artėjusią Turkijos kariuomenę sudarė apie 100000 karių, įskaitant spahius, janičarus, totorius, moldavus ir valakus.
+- susijęs iš [[objektai/zodynas/rotmistras.md#claim-t-70311|rotmistras]]: Rotmistras buvo kavalerijos dalinio vadas, su šaukimo raštais pats rinkdavęs bajoriškos kilmės karius.
+- susijęs iš [[objektai/zodynas/sunkioji kavalerija.md#claim-t-42513|sunkioji kavalerija]]: Tautinio autoramento pagrindu formuota sunkioji kavalerija buvo husarai.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -152,22 +161,3 @@ Terminas žymi savitą LDK kavalerijos rūšį tarp husarų ir lengvesniųjų ra
   pagrindžia:
     - t-004
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Ietys]]
-- [[objektai/grupes/Janičarai]]
-- [[objektai/daiktai/Karūna]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Sapiegos]]
-- [[objektai/daiktai/Vėliavos]]
-- [[objektai/zodynas/flangas]]
-- [[objektai/zodynas/husarai]]
-- [[objektai/zodynas/kunigaikštija]]
-- [[objektai/zodynas/rotmistras]]
-- [[objektai/daiktai/Šarvai]]
-- [[objektai/daiktai/Šarvuočiai]]
-- [[objektai/grupes/Turkijos kariuomenė]]
-- [[objektai/zodynas/sunkioji kavalerija]]
-- [[objektai/asmenys/H. Brantas]]
-- [[objektai/asmenys/J. P. Sapiega]]

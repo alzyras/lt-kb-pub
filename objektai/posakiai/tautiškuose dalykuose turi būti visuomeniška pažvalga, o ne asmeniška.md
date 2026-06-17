@@ -17,18 +17,19 @@ tags:
 Šliūpas savo asmeniškomis pažiūromis nėra katalikas, bet jeigu jis, kaipo lietuvis, ką naudingo lietuvystei parašo, o tas veikalas nesipriešina mūsų tikėjimui, tai su džiaugsmu turime priimti ir jam dėkoti: tautiškuose dalykuose turi būti visuomeniška.
 
 ## Teiginiai
+
 <a id="claim-t-02098"></a>
 - t-001
   global_id: t-02098
   teiginys: 'Burba rašė, kad Šliūpo lietuvystei naudingi darbai priimtini, jei neprieštarauja tikėjimui, nes tautiškuose dalykuose svarbi visuomeniška pažvalga.'
+  sudarymo_pagrindimas: 'Pradinis teiginys per ilgas, nutrūkęs ir turi būti sutrauktas į vieną aiškų sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/autoriai/Jonas Šliūpas|Jonas Šliūpas]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_place: Viena'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Burba rašė, kad Šliūpo lietuvystei naudingi darbai priimtini, jei neprieštarauja tikėjimui, nes tautiškuose dalykuose svarbi visuomeniška pažvalga.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Ir
@@ -42,15 +43,8 @@ tags:
     rašo, o tas veikalas nesipriešina mūsų tikėjimui, tai su džiaugsmu
     turime priimti ir jam dėkoti: tautiškuose dalykuose turi būti visuo-
     meniška pažvalga, o ne asmeniška".
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/kunigas]]

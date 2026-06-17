@@ -25,7 +25,7 @@ amziai:
 
 ## Santrauka
 
-Po 1877-1878 m. Rusijos-Turkijos karo Rusijos karinė vadovybė nurodė sukurti naujo tipo ginklą, kuriuo tapo Mosin-Nagant šautuvas. Mosin-Nagant šautuvas buvo naudotas įvairių pajėgų kovose buvusioje Rusijos imperijos teritorijoje.
+Po 1877 -1878 m. Rusijos-Turkijos karo Rusijos karinė vadovybė suvokė, kad vienu šoviniu užtaisomi šautuvai yra pasenę (Turkijos kariuomenė jau naudojo daugiašūvius šautuvus) ir nurodė sukurti naujo tipo ginklą, kuriuo tapo Mosin-Nagant šautuvas.
 
 ## Pavadinimai šaltiniuose
 
@@ -53,6 +53,11 @@ Nenurodyta
 - t-001
   global_id: t-39209
   teiginys: 'Po 1877-1878 m. Rusijos-Turkijos karo Rusijos karinė vadovybė nurodė sukurti naujo tipo ginklą, kuriuo tapo Mosin-Nagant šautuvas.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus ir remiasi tvarkinga citatos dalimi.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/2-asis pėstininkų pulkas|2-asis pėstininkų pulkas]]; mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_place: Alytus; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Rusija'
+  temporaliniai_duomenys: 'įvykio data: 1877-1878; įvykio data: 1878 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus ir remiasi tvarkinga citatos dalimi.'
   pagrindžia:
     - c-001
 
@@ -60,6 +65,14 @@ Nenurodyta
 - t-002
   global_id: t-183687
   teiginys: 'Mosin-Nagant šautuvas buvo naudotas įvairių pajėgų kovose buvusioje Rusijos imperijos teritorijoje.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata pagrindžia kitą glaustą faktą apie šautuvo naudojimą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]; mentioned_place: Rusija'
+  temporaliniai_duomenys: 'įvykio data: 1877-1878; įvykio data: 1878 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia kitą glaustą faktą apie šautuvo naudojimą.'
   pagrindžia:
     - c-002
 
@@ -99,10 +112,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/2-asis pėstininkų pulkas]]
-- [[objektai/daiktai/Šautuvai]]
-- [[objektai/daiktai/Žirgai]]
-- [[objektai/daiktai/Rusiškas 1870 m. modelio šautuvas Berdan Nr. 2]]

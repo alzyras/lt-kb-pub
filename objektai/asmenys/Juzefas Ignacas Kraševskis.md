@@ -3,11 +3,20 @@ tipas: asmuo
 pavadinimas: 'Juzefas Ignacas Kraševskis'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1841 m.'
+  - '1851 m.'
+date_start: '1841'
+date_end: '1851'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - tauta
+amziai:
+  - 'XIX'
+periodo_grupes:
+  - 'naujieji laikai'
 ---
 # Juzefas Ignacas Kraševskis
 
@@ -21,6 +30,11 @@ Suvokimas, kad be tautos atminties nebus ir tautos ateities, atsispindi 1859 m. 
 - t-001
   global_id: t-63788
   teiginys: 'Juzefas Ignacas Kraševskis 1841–1851 m. Vilniuje leido kultūrinio pobūdžio žurnalą „Atheneum“.'
+  sudarymo_pagrindimas: 'Pradinis teiginys yra sakinio fragmentas, bet citata palaiko pilną sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/autoriai/Kraševskis|Kraševskis]]; mentioned_place: Lietuva; mentioned_place: Liublinas; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1841-1851; įvykio data: 1851 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys yra sakinio fragmentas, bet citata palaiko pilną sakinį.'
   pagrindžia:
     - c-001
 
@@ -40,7 +54,3 @@ Suvokimas, kad be tautos atminties nebus ir tautos ateities, atsispindi 1859 m. 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]

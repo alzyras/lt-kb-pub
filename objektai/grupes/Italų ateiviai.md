@@ -18,6 +18,11 @@ Senoliai tvirtino, kad į tolimą kelią leidusiųsi italų ateivių buvo penki 
 - t-001
   global_id: t-185426
   teiginys: 'Senoliai tvirtino, kad į tolimą kelią leidusiųsi italų ateivių buvo penki šimtai kilmingųjų.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas, aiškus ir pagrįstas citatoje pateikta tradicija.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Herulai|Herulai]]; mentioned_object: [[objektai/daiktai/Herbas|Herbas]]; mentioned_place: Italija; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -53,9 +58,3 @@ Senoliai tvirtino, kad į tolimą kelią leidusiųsi italų ateivių buvo penki 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Herbas]]
-- [[objektai/grupes/Herulai]]
-- [[objektai/asmenys/Julijonas Dausprungas]]

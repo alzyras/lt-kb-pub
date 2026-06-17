@@ -40,6 +40,8 @@ Nenurodyta
 - t-001
   global_id: t-80697
   teiginys: 'Vokiškas pistoletas Walther PP citatoje įvardytas kaip Walther Polizeipistole ir nurodytas kaip VDKM iliustracija.'
+  sudarymo_pagrindimas: 'Pradinis teiginys yra apie kitą objektą; citata paremia tik objekto pavadinimą ir iliustracijos priskyrimą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Pistoletas|Pistoletas]]'
   pagrindžia:
     - c-001
 
@@ -58,7 +60,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Pistoletas]]

@@ -19,7 +19,7 @@ amziai:
 
 ## Santrauka
 
-Vokiečiai Vilniuje išplatino atsišaukimą, kuriame Vilnius buvo pavadintas „gražiausiu Lenkijos karalystės perlu“, bet po lietuvių protesto jį nudraskė. 1915 m. vokiečiai Vilniuje išplatino atsišaukimą, kuriame Vilnius vadintas „gražiausiu Lenkijos karalystės perlu“, bet po lietuvių protesto atsišaukimai buvo nudraskyti.
+Dar nesusigaudę kur pateko, vokiečiai Vilniuje išplatino atsišaukimą, kuriame Vilnius buvo pavadintas „gražiausiu Lenkijos karalystės perlu“, tačiau, lietuviams užprotestavus, tuos atsišaukimus nudraskė.
 
 ## Teiginiai
 
@@ -27,6 +27,11 @@ Vokiečiai Vilniuje išplatino atsišaukimą, kuriame Vilnius buvo pavadintas �
 - t-001
   global_id: t-21317
   teiginys: 'Vokiečiai Vilniuje išplatino atsišaukimą, kuriame Vilnius buvo pavadintas „gražiausiu Lenkijos karalystės perlu“, bet po lietuvių protesto jį nudraskė.'
+  sudarymo_pagrindimas: 'Reikia pataisyti gramatiką ir sutrumpinti sakinį nekeičiant citatos prasmės.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Austrija; mentioned_place: Kaunas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_place: Vokietija'
+  temporaliniai_duomenys: 'įvykio data: 1915 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia pataisyti gramatiką ir sutrumpinti sakinį nekeičiant citatos prasmės.'
   pagrindžia:
     - c-001
 
@@ -34,6 +39,14 @@ Vokiečiai Vilniuje išplatino atsišaukimą, kuriame Vilnius buvo pavadintas �
 - t-002
   global_id: t-183388
   teiginys: '1915 m. vokiečiai Vilniuje išplatino atsišaukimą, kuriame Vilnius vadintas „gražiausiu Lenkijos karalystės perlu“, bet po lietuvių protesto atsišaukimai buvo nudraskyti.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis sakinys turi publicistinių formuluočių; faktą galima pateikti neutraliau.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lenkija; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1915 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis sakinys turi publicistinių formuluočių; faktą galima pateikti neutraliau.'
   pagrindžia:
     - c-002
 

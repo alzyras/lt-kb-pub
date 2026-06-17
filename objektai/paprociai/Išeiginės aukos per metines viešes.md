@@ -34,6 +34,7 @@ Nenurodyta
 - t-001
   global_id: t-07768
   teiginys: 'Per metines viešes viršaitis ar viršininkas kartu su žyniais ir svietu atlikdavo viešą aukos apeigą po didžiuoju ąžuolu.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Aukuras|Aukuras]]; mentioned_object: [[objektai/daiktai/Duona|Duona]]; mentioned_object: [[objektai/daiktai/Taurės|Taurės]]; mentioned_object: [[objektai/zodynas/Aukausenos|Aukausenos]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -52,12 +53,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Aukuras]]
-- [[objektai/daiktai/Duona]]
-- [[objektai/zodynas/Miera|miera]]
-- [[objektai/zodynas/Aukausenos|aukausenos]]
-- [[objektai/daiktai/Dievų stabai]]
-- [[objektai/daiktai/Torielius]]

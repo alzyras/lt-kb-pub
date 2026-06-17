@@ -28,6 +28,11 @@ Dusburgietis teigia, kad apie vienos Sembos dalies nusiaubimą 1283 viešpaties 
 - t-001
   global_id: t-58580
   teiginys: '1283 m. žiemą aštuoni šimtai raitelių iš Lietuvos per Kuršių neriją įsibrovė į Sembą ir nusiaubė du valsčius.'
+  sudarymo_pagrindimas: 'Teiginys yra konkretus ir tiesiogiai paremtas citata apie 1283 m. žygį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Abenda; mentioned_place: Lietuva; mentioned_place: Semba; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1283 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus ir tiesiogiai paremtas citata apie 1283 m. žygį.'
   pagrindžia:
     - c-002
 
@@ -35,9 +40,11 @@ Dusburgietis teigia, kad apie vienos Sembos dalies nusiaubimą 1283 viešpaties 
 - t-002
   global_id: t-58581
   teiginys: 'Ordino lotyniškuose dokumentuose vardu Neria iš pradžių vadinta tik Aismarių nerija.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai perteikia citatos informaciją apie vardo Neria vartoseną.'
+  susije_objektai: 'mentioned_place: Aismarių nerija; mentioned_place: Aistmarios'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/autoriai/Mažiulis V.md#claim-t-60847|Mažiulis V]]: V. Mažiulis teigė, kad lietuvių kalboje Kuršių nerija vadinta Kopomis, Kalnais, Pajūriais ir Randavomis.
 ## Reikšmingi paminėjimai
 
 - c-001

@@ -14,6 +14,7 @@ tags:
   - diplomatas
   - karalius
   - kunigaikštis
+  - vyskupas
 amziai:
   - 'XVI'
 periodo_grupes:
@@ -35,6 +36,12 @@ Nenurodyta
 - t-001
   global_id: t-87483
   teiginys: 'Andrius Kopernikas 1514 m. buvo Varmės kanauninkas, kuriam rašė Lenkijos karalius Žygimantas.'
+  sudarymo_pagrindimas: 'Antraštė citatoje pagrindžia asmens pareigas, datą ir ryšį su Žygimanto raštu.'
+  susije_objektai: 'territory: Gniezno; territory: Lenkija; territory: Lietuva; territory: Trakai; territory: Varmė; territory: Vilnius; mentioned_event: [[objektai/ivykiai/Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.)|Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.)]]; mentioned_object: [[objektai/zodynas/kaštelionas|kaštelionas]]; mentioned_object: [[objektai/zodynas/maršalka|maršalka]]; mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Fabianas (Varmės vyskupas)|Fabianas (Varmės vyskupas)]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Gniezno; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Varmė; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Andrius Kopernikas|Andrius Kopernikas]] buvo valdovas Gniezno; [[objektai/asmenys/Andrius Kopernikas|Andrius Kopernikas]] buvo valdovas Lenkija; [[objektai/asmenys/Andrius Kopernikas|Andrius Kopernikas]] buvo valdovas Lietuva; [[objektai/asmenys/Andrius Kopernikas|Andrius Kopernikas]] buvo valdovas Trakai; [[objektai/asmenys/Andrius Kopernikas|Andrius Kopernikas]] buvo valdovas Varmė; [[objektai/asmenys/Andrius Kopernikas|Andrius Kopernikas]] buvo valdovas Vilnius'
+  temporaliniai_duomenys: 'valdymo laikotarpis: 1514 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Andrius Kopernikas buvo valdovas Gniezno“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Andrius Kopernikas buvo valdovas Lenkija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Andrius Kopernikas buvo valdovas Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Andrius Kopernikas buvo valdovas Trakai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Andrius Kopernikas buvo valdovas Varmė“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Andrius Kopernikas buvo valdovas Vilnius“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Antraštė citatoje pagrindžia asmens pareigas, datą ir ryšį su Žygimanto raštu.'
   pagrindžia:
     - c-001
 
@@ -90,9 +97,9 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.)]]
-- [[objektai/zodynas/kaštelionas]]
-- [[objektai/zodynas/maršalka]]
-- [[objektai/zodynas/seniūnas]]
-- [[objektai/zodynas/vaivada]]
+- Andrius Kopernikas buvo_valdovas [[objektai/vietos/Gniezno]]
+- Andrius Kopernikas buvo_valdovas [[objektai/vietos/Lenkija]]
+- Andrius Kopernikas buvo_valdovas [[objektai/vietos/Lietuva]]
+- Andrius Kopernikas buvo_valdovas [[objektai/vietos/Trakai]]
+- Andrius Kopernikas buvo_valdovas [[objektai/vietos/Varmė]]
+- Andrius Kopernikas buvo_valdovas [[objektai/vietos/Vilnius]]

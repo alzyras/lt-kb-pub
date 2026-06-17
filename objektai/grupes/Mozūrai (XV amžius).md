@@ -20,6 +20,8 @@ Mozūrai šiame fragmente įvardijami kaip Lietuvos sandarų partneriai.
 - t-001
   global_id: t-11083
   teiginys: 'Mozūrai buvo tarp grupių, su kuriomis Zigmantas Kęstutaitis patvirtino sandaras, po kurių prekyba didėjo.'
+  sudarymo_pagrindimas: 'Citata palaiko glaustesnį faktą apie sandaras ir jų padarinį prekybai.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/Tavoras|Tavoras]]; mentioned_object: [[objektai/zodynas/Ermyderiai|Ermyderiai]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]'
   pagrindžia:
     - c-001
 
@@ -36,11 +38,3 @@ Mozūrai šiame fragmente įvardijami kaip Lietuvos sandarų partneriai.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
-- [[objektai/zodynas/Ermyderiai|ermyderiai]]
-- [[objektai/grupes/Valakai]]

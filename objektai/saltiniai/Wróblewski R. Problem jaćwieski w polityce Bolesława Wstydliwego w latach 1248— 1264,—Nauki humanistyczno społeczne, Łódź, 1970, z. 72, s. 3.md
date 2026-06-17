@@ -29,6 +29,10 @@ Dusburgietis teigia, kad wróblewski R.
 - t-001
   global_id: t-61371
   teiginys: 'R. Wróblewskio straipsnis apie jotvingių klausimą Boleslovo Droviojo politikoje 1248-1264 m. paskelbtas Lodzėje 1970 m.'
+  sudarymo_pagrindimas: 'Citata pateikia straipsnio autorių, temą, chronologiją, leidimo vietą ir metus.'
+  temporaliniai_duomenys: 'įvykio data: 1248-1264; įvykio data: 1264 m.; įvykio data: 1970 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pateikia straipsnio autorių, temą, chronologiją, leidimo vietą ir metus.'
   pagrindžia:
     - c-001
 

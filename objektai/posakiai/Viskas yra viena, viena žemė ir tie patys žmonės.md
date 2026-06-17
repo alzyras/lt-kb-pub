@@ -5,15 +5,16 @@ saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
+  - '1420 m.'
   - '1978 m.'
   - '2026 m.'
-date_start: '1978'
+date_start: '1420'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags: []
 amziai:
-  - 'XX'
+  - 'XV'
   - 'XXI'
 ---
 # Viskas yra viena, viena žemė ir tie patys žmonės
@@ -38,6 +39,9 @@ amziai:
 - t-001
   global_id: t-55201
   teiginys: 'Balińskio pateiktame 1420 m. Vytauto laiško kontekste Žemaitijos ir Lietuvos tapatumas grindžiamas viena kalba ir tais pačiais žmonėmis.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Žemaičių žemė'
+  temporaliniai_duomenys: 'įvykio data: 1420 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -45,6 +49,7 @@ amziai:
 - t-002
   global_id: t-55202
   teiginys: 'Balińskio vertime formulė perteikiama žodžiais „viskas yra viena - ir žemė, ir žmonės“.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Žemaičių žemė'
   pagrindžia:
     - c-001
 
@@ -52,9 +57,11 @@ amziai:
 - t-003
   global_id: t-71821
   teiginys: 'Vytautas laiške teigė, kad žemaičiai yra ta pati lietuvių tautos dalis: „viskas yra viena, viena žemė ir tie patys žmonės“.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai perteikia Vytauto laiške išdėstytą poziciją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Viena; mentioned_place: Vroclavas'
   pagrindžia:
     - c-002
-
+- susijęs iš Vroclavas: Jogaila ir Vytautas pasiuntė į Vroclavą protestus, kuriuos gabeno Zbignievas Olesnickis.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -99,12 +106,3 @@ amziai:
   pagrindžia:
     - t-004
     - t-003
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/formulė]]
-
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/grupes/Žemaičiai]]

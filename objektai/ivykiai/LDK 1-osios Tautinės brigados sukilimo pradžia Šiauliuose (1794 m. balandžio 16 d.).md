@@ -44,6 +44,11 @@ Nenurodyta
 - t-001
   global_id: t-39147
   teiginys: '1794 m. balandžio 16 d. Šiauliuose ir jo apylinkėse sukilimą pradėjo LDK 1-oji Tautinė brigada, anksčiau vadinta Kauno husarų brigada.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Vilniaus išvadavimas (1794 m. balandžio 22–23 d.)|Vilniaus išvadavimas (1794 m. balandžio 22–23 d.)]]; mentioned_group: [[objektai/grupes/LDK 1-oji Tautinė brigada|LDK 1-oji Tautinė brigada]]; mentioned_group: [[objektai/grupes/brigada|brigada]]; mentioned_object: [[objektai/zodynas/husarai|husarai]]; mentioned_place: Kaunas; mentioned_place: Rusija; mentioned_place: Vilnius; mentioned_place: Šiauliai'
+  temporaliniai_duomenys: 'įvykio data: 1794 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, aiškus ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -66,10 +71,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/LDK 1-oji Tautinė brigada]]
-- [[objektai/ivykiai/Vilniaus išvadavimas (1794 m. balandžio 22–23 d.)]]
-- [[objektai/grupes/brigada]]
-- [[objektai/zodynas/husarai]]

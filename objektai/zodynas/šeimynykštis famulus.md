@@ -23,6 +23,8 @@ Dusburgietis teigia, kad vėliau brolį Liudviką iš nelaisvės išvadavo viena
 - t-001
   global_id: t-58885
   teiginys: 'Brolis Gerhardas prieš tapdamas vienuoliu buvo Brandenburgo markgrafo šeimynykštis.'
+  sudarymo_pagrindimas: 'Pradinis teiginys turi antraštės triukšmą ir nutrūkusią pabaigą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/šeimynykštis|šeimynykštis]]; mentioned_person: [[objektai/asmenys/Gerhardas|Gerhardas]]; mentioned_place: Marienburgas; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -30,6 +32,8 @@ Dusburgietis teigia, kad vėliau brolį Liudviką iš nelaisvės išvadavo viena
 - t-002
   global_id: t-58886
   teiginys: 'Skomanto šeimynykštis išvadavo brolį Liudviką iš nelaisvės ir sugrąžino pas brolius.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir tiksliai atitinka citatos informaciją.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/zodynas/šeimynykštis|šeimynykštis]]; mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]'
   pagrindžia:
     - c-002
 
@@ -73,12 +77,3 @@ Dusburgietis teigia, kad vėliau brolį Liudviką iš nelaisvės išvadavo viena
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Kalavijas]]
-- [[objektai/asmenys/Liudvikas]]
-- [[objektai/zodynas/šeimynykštis]]
-- [[objektai/asmenys/Gerhardas|Gerhardas (valdovas)]]
-- [[objektai/daiktai/Karo pabūklai]]
-- [[objektai/ivykiai/Liudviko iš Libencelės susirėmimas puotoje ir išvadavimas iš nelaisvės]]

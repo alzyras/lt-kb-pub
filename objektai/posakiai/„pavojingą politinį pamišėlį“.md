@@ -27,6 +27,11 @@ Hitlerį apibūdino kaip „pavojingą politinį pamišėlį“, kuris dėl savo
 - t-001
   global_id: t-77852
   teiginys: '1935 m. A. Smetona privačiai apibūdino A. Hitlerį kaip „pavojingą politinį pamišėlį“, galintį dėl pseudoidėjų išnaikinti pusę Europos.'
+  sudarymo_pagrindimas: 'Teiginys tiksliai nusako A. Smetonos vartotą apibūdinimą ir jo kontekstą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Vokietija'
+  temporaliniai_duomenys: 'įvykio data: 1935 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys tiksliai nusako A. Smetonos vartotą apibūdinimą ir jo kontekstą.'
   pagrindžia:
     - c-001
 
@@ -45,8 +50,3 @@ Hitlerį apibūdino kaip „pavojingą politinį pamišėlį“, kuris dėl savo
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/A. Smetona]]
-- [[objektai/asmenys/A. Hitleris]]

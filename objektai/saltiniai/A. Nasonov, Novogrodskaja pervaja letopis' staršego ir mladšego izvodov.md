@@ -4,15 +4,17 @@ pavadinimas: 'A. Nasonov, Novogrodskaja pervaja letopis'''' staršego ir mladše
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
+  - '1406 m.'
   - '1950 m.'
-date_start: '1950'
-date_end: ''
+date_start: '1406'
+date_end: '1950'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ordinas
   - saltinis
 amziai:
+  - 'XV'
   - 'XX'
 ---
 # A. Nasonov, Novogrodskaja pervaja letopis'' staršego ir mladšego izvodov
@@ -27,6 +29,9 @@ Nasonov : Novogrodskaja pervaja letopis' staršego i mladšego izvodov , Moskva-
 - t-001
   global_id: t-31592
   teiginys: 'A. Nasonovo „Novogrodskaja pervaja letopis'''' staršego i mladšego izvodov“ išleista Maskvoje-Leningrade 1950 m.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Maskva'
+  temporaliniai_duomenys: 'įvykio data: 1406 m.; įvykio data: 1950 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

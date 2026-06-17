@@ -3,10 +3,16 @@ tipas: ivykis
 pavadinimas: 'Polocko praradimas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1563 m.'
+date_start: '1563'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
+amziai:
+  - 'XVI'
 ---
 # Polocko praradimas
 
@@ -36,9 +42,15 @@ Nenurodyta
 - t-001
   global_id: t-16735
   teiginys: '1563 m. Polocko praradimas parodė, kad Lietuvai reikėjo Lenkijos paramos.'
+  sudarymo_pagrindimas: 'Teiginys pataisytas į savarankišką ir aiškią faktinę formą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Polockas; mentioned_place: Vitebskas'
+  temporaliniai_duomenys: 'įvykio data: 1563 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys pataisytas į savarankišką ir aiškią faktinę formą.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/ivykiai/Polocko apsiaustis (1563 m. sausio 31 d.).md#claim-t-41344|Polocko apsiaustis (1563 m. sausio 31 d.)]]: Polocko praradimas buvo skaudi netektis Lietuvai, nes miestas buvo svarbus prekybos centras ir stipriausia rytinių žemių tvirtovė.
+- susijęs iš Maskvos-Lietuvos pasienis: Po Polocko praradimo ir Ulos mūšio karo veiksmai persikėlė į Maskvos-Lietuvos pasienį.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -53,10 +65,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Chodkevičiai]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/zodynas/seniūnas]]
-- [[objektai/ivykiai/Polocko apsiaustis (1563 m. sausio 31 d.)]]

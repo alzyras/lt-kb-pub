@@ -5,6 +5,7 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1940 m.'
+  - '1941 m.'
   - '1990 m.'
 date_start: '1940'
 date_end: '1990'
@@ -17,7 +18,7 @@ amziai:
 
 ## Santrauka
 
-LAF aktyvistai rinko žinias iš sovietų valdomos Lietuvos ir siuntė instrukcijas, o karinė LAF dalis bendradarbiavo su Abveru. LAF programoje ir kituose dokumentuose buvo nacionalistinės retorikos ir antisemitizmo, o 16-asis programos punktas atšaukė teisę žydams gyventi Lietuvoje. 1941 m. rugsėjo 26 d. naciai uždarė Lietuvių aktyvistų frontą.
+Lietuvių aktyvistų frontas buvo 1940 m. lapkritį Berlyne lietuvių emigrantų įkurta politinė ir rezistencinė organizacija. Šaltinis ją sieja su Birželio sukilimo rengimu, Kazio Škirpos vadovavimu, karinės dalies bendradarbiavimu su Abveru, antisemitiniais programiniais punktais ir nacių sprendimu 1941 m. rugsėjo 26 d. LAF uždaryti.
 
 ## Pavadinimai šaltiniuose
 
@@ -59,6 +60,7 @@ Nenurodyta
 - t-001
   global_id: t-13466
   teiginys: 'LAF aktyvistai rinko žinias iš sovietų valdomos Lietuvos ir siuntė instrukcijas, o karinė LAF dalis bendradarbiavo su Abveru.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abveras|Abveras]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Voldemarininkai|Voldemarininkai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -66,6 +68,7 @@ Nenurodyta
 - t-002
   global_id: t-13467
   teiginys: 'LAF programoje ir kituose dokumentuose buvo nacionalistinės retorikos ir antisemitizmo, o 16-asis programos punktas atšaukė teisę žydams gyventi Lietuvoje.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Nacių Vokietija|Nacių Vokietija]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_person: [[objektai/asmenys/K. Škirpa|K. Škirpa]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Vokietija'
   pagrindžia:
     - c-001
 
@@ -73,6 +76,11 @@ Nenurodyta
 - t-003
   global_id: t-23307
   teiginys: '1941 m. rugsėjo 26 d. naciai uždarė Lietuvių aktyvistų frontą.'
+  sudarymo_pagrindimas: 'Pateikta citata nepagrindžia pradinio teiginio, bet pagrindžia faktą apie LAF uždarymą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Voldemarininkai|Voldemarininkai]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1941 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pateikta citata nepagrindžia pradinio teiginio, bet pagrindžia faktą apie LAF uždarymą.'
   pagrindžia:
     - c-002
 
@@ -80,6 +88,7 @@ Nenurodyta
 - t-004
   global_id: t-24554
   teiginys: 'LAF programoje ir kituose dokumentuose neišvengta nacionalistinės retorikos, antisemitizmo (16-asis LAF programos punktas atšaukė teisę žydams gyventi Lietuvoje).'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Nacių Vokietija|Nacių Vokietija]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/Antisemitizmas|Antisemitizmas]]; mentioned_person: [[objektai/asmenys/K. Škirpa|K. Škirpa]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Vokietija'
   pagrindžia:
     - c-001
 
@@ -87,6 +96,11 @@ Nenurodyta
 - t-005
   global_id: t-26625
   teiginys: 'Lietuvių aktyvistų frontas rinko žinias iš sovietų valdomos Lietuvos ir iš Vokietijos siuntė instrukcijas dėl valstybingumo atkūrimo bei sukilimo.'
+  sudarymo_pagrindimas: 'Teiginys yra faktinis, aiškus ir tiesiogiai atitinka citatos turinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Nacių Vokietija|Nacių Vokietija]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Berlynas; mentioned_place: Europa; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: SSRS; mentioned_place: Vokietija'
+  temporaliniai_duomenys: 'įvykio data: 1940 m.; įvykio data: 1941 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra faktinis, aiškus ir tiesiogiai atitinka citatos turinį.'
   pagrindžia:
     - c-004
 
@@ -94,9 +108,17 @@ Nenurodyta
 - t-006
   global_id: t-26626
   teiginys: 'Naciai rugsėjo 26-ąją uždarė Lietuvių aktyvistų frontą, kai dauguma ministrų atsisakė tapti tarėjais.'
+  sudarymo_pagrindimas: 'Pašalinta šalutinė informacija apie kitą partiją ir teiginys sutelktas į pastabos objektą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Voldemarininkai|Voldemarininkai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
-
+- susijęs iš [[objektai/posakiai/„Vokietijos vadovaujamoje Naujoje Europoje...“.md#claim-t-75625|„Vokietijos vadovaujamoje Naujoje Europoje...“]]: LAF vadovybė tikėjo, kad Vokietijos vadovaujamoje Naujoje Europoje tautoms bus leista tvarkytis pačioms.
+- susijęs iš Lietuvių aktyvistų fronto programa: Kazys Škirpa manė, kad Lietuvių aktyvistų frontas turi palaikyti ypač glaudžius ryšius su nacių Vokietija.
+- susijęs iš Lietuva: Vokiečių vermachtui įžengiant į Lietuvą, daug lietuvių jį sutiko palankiai, kai kurie net su gėlėmis rankose.
+- susijęs iš Pravieniškių įkalinimo kolonija: 1941 m. birželio 26 d. sovietai nužudė Pravieniškių lagerio kalinius ir prižiūrėtojus.
+- susijęs iš Pravieniškių įkalinimo kolonija: 1941 m. birželio 26 d. sovietai nužudė Pravieniškių lagerio kalinius ir prižiūrėtojus.
+- susijęs iš Vokietija: LAF aktyvistai per ryšininkus iš Vokietijos siuntė instrukcijas dėl Lietuvos valstybingumo atkūrimo ir būsimo sukilimo.
+- susijęs iš Vokietija: Aktyvistai per ryšininkus iš Vokietijos siuntė instrukcijas dėl Lietuvos valstybingumo atkūrimo ir būsimo sukilimo detalių.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -180,18 +202,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-005
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/K. Škirpa]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Nacių Vokietija]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/grupes/Voldemarininkai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/posakiai/„Vokietijos vadovaujamoje Naujoje Europoje...“]]
-- [[objektai/zodynas/Antisemitizmas]]
-- [[objektai/grupes/Žydai]]
-- [[objektai/grupes/Abveras]]
-- [[objektai/grupes/Lietuvių nacionalistų partija]]
-- [[objektai/ivykiai/Voldemarininkų pučas ir Laikinosios vyriausybės veiklos uždraudimas (1941 m. liepos 23 d. - rugpjūčio 5 d.)]]

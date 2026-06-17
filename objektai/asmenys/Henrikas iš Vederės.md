@@ -30,6 +30,8 @@ Dusburgietis teigia, kad apie Gardino pilies apylinkių bei jos papilio nusiaubi
 - t-001
   global_id: t-60316
   teiginys: 'Henrikas iš Vederės buvo sunkiai sužeistas pabėgusio ruso, bet pats jį mirtinai sužeidė.'
+  sudarymo_pagrindimas: 'Citata pagrindžia įvykį, kuriame Henrikas buvo sužeistas ir atsakė puolėjui.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Baiga; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Notanga'
   pagrindžia:
     - c-001
 
@@ -53,10 +55,3 @@ Dusburgietis teigia, kad apie Gardino pilies apylinkių bei jos papilio nusiaubi
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/Henrikas]]
-- [[objektai/zodynas/ginklanešiai]]
-- [[objektai/asmenys/Valteris, pravarde Goldinas]]
-- [[objektai/asmenys/Zigfridas iš Rechbergo]]

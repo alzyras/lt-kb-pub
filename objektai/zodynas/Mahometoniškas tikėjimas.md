@@ -28,6 +28,8 @@ Gavę sau privilegijas iš Vytauto, kuris totorių atmintyje per šimtmečius bu
 - t-001
   global_id: t-32754
   teiginys: 'Vytauto privilegijas gavę Lietuvos totoriai išlaikė mahometonišką tikėjimą ir papročius.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, pilnas ir paremtas pateikta citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos totoriai|Lietuvos totoriai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Dniepras; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Trakai'
   pagrindžia:
     - c-001
 
@@ -49,10 +51,3 @@ Gavę sau privilegijas iš Vytauto, kuris totorių atmintyje per šimtmečius bu
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuvos totoriai]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/žygis]]

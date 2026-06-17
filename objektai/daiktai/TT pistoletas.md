@@ -47,6 +47,11 @@ Nenurodyta
 - t-001
   global_id: t-40773
   teiginys: 'Sausio įvykių metu TT pistoletu ginkluotas ATAS darbuotojas saugojo Aukščiausiosios Tarybos rūmus.'
+  sudarymo_pagrindimas: 'Pirminis teiginys netaisyklingas, o citata leidžia suformuluoti pilną sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/ATAS|ATAS]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Pistoletas|Pistoletas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Aukščiausiosios Tarybos rūmai'
+  temporaliniai_duomenys: 'įvykio data: 1991 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pirminis teiginys netaisyklingas, o citata leidžia suformuluoti pilną sakinį.'
   pagrindžia:
     - c-001
 
@@ -66,10 +71,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/ATAS]]
-- [[objektai/daiktai/Ginklai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/daiktai/Pistoletas]]

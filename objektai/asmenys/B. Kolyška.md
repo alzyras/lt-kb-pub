@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-B. Kolyška kartu su Z. Sierakausku, S. Kozakausku ir keliais kitais karininkais pateko į nelaisvę. Z. Sierakauskas B. Kolyškai pavedė vadovauti vienai sukilėlių kariuomenės kolonai. B. Kolyška norėjo su savo kariais vytis priešą, tačiau Z. Sierakauskas to neleido.
+Kolyškai. Kolyškos. Kolyška norėjo su savo kariais vytis priešą, tačiau to neleido vyriausiasis vadas Z.
 
 ## Teiginiai
 
@@ -21,6 +21,7 @@ B. Kolyška kartu su Z. Sierakausku, S. Kozakausku ir keliais kitais karininkais
 - t-001
   global_id: t-40053
   teiginys: 'B. Kolyška kartu su Z. Sierakausku, S. Kozakausku ir keliais kitais karininkais pateko į nelaisvę.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/S. Kozakauskas|S. Kozakauskas]]; mentioned_place: Rusija; mentioned_place: Vilnius'
   pagrindžia:
     - c-004
 
@@ -28,6 +29,8 @@ B. Kolyška kartu su Z. Sierakausku, S. Kozakausku ir keliais kitais karininkais
 - t-002
   global_id: t-40054
   teiginys: 'Z. Sierakauskas B. Kolyškai pavedė vadovauti vienai sukilėlių kariuomenės kolonai.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_place: Viena'
   pagrindžia:
     - c-002
 
@@ -35,6 +38,8 @@ B. Kolyška kartu su Z. Sierakausku, S. Kozakausku ir keliais kitais karininkais
 - t-003
   global_id: t-40055
   teiginys: 'B. Kolyška norėjo su savo kariais vytis priešą, tačiau Z. Sierakauskas to neleido.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie B. Kolyškos veiksmą ir Z. Sierakausko sprendimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_person: [[objektai/asmenys/Merlinas|Merlinas]]'
   pagrindžia:
     - c-003
 
@@ -42,6 +47,7 @@ B. Kolyška kartu su Z. Sierakausku, S. Kozakausku ir keliais kitais karininkais
 - t-004
   global_id: t-40056
   teiginys: 'B. Kolyška vadovavo pirmajai sukilėlių kolonai, pasiekusiai Medeikių kaimą.'
+  susije_objektai: 'mentioned_place: Kaimas'
   pagrindžia:
     - c-001
 
@@ -123,9 +129,3 @@ B. Kolyška kartu su Z. Sierakausku, S. Kozakausku ir keliais kitais karininkais
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Rusai]]
-- [[objektai/daiktai/Vytis]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

@@ -21,6 +21,8 @@ List Radzcy Wileńskomu Bohdanu Onkieiviczu, na wybranie jemu winnych peneźy z 
 - t-001
   global_id: t-87635
   teiginys: 'Vilniaus tarėjas Bohdanas Ankevičius gavo leidimą surinkti jam priklausančius pinigus iš Bobruisko ir Svisločės smuklių už devynerius metus.'
+  sudarymo_pagrindimas: 'Citata patvirtina Bohdano Ankevičiaus pareigas ir leidimą surinkti pinigus, o pradinė formuluotė yra fragmentiška.'
+  susije_objektai: 'mentioned_place: Bobruiskas; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

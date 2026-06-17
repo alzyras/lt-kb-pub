@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-1394 metų Vilniaus apgultyje didysis kunigaikštis įtvirtino įgulas abiejose pilyse ir mieste. 1394 m. Švitrigaila mėgino užimti Vilnių, įkalbėdamas vienuolius padegti du medinius bokštus puolimo metu. 1394 m. magistras tris savaites ir dvi dienas daužė Vilniaus pilių sienas ir bokštus, bet pilių neužėmė dėl griovių ir perkasų.
+Negalėjo didysis kunigaikštis atvirame mūšio lauke drąsiai stoti prieš daug pajėgesnį priešą, tad sumaniai įtvirtinęs įgulas abiejose pilyse ir mieste, pats už­ ėmė Vilniaus miškingas apylinkes, kad užkirstų visus ke­ lius užpuolikams gabentis maistą ir. Iš­ stovėjo jis tris savaites ir dvi dienas prie Vilniaus pilių be paliovos treškindamas sienas ir bokštus, bet negalėjo jų užimti dėl didelių griovių ir perkasų aplink tvirtovę ir dėl Vytauto sumanumo mūšio lauke. • — 137 ## Puslapis 154 VILNIAUS MIESTO ISTORIJA / TOMAS tarp miesto gyventojų, mat nemažą dalį miestiečių sudarė rusinai ir rusų vienuoliai, žmonių vadinami „čiornais", tie, kurie nuo Gedimino laikų, kaip matėme, turėjo savo vie­ nuolyną.
 
 ## Pavadinimai šaltiniuose
 
@@ -49,6 +49,8 @@ Nenurodyta
 - t-001
   global_id: t-87066
   teiginys: '1394 metų Vilniaus apgultyje didysis kunigaikštis įtvirtino įgulas abiejose pilyse ir mieste.'
+  sudarymo_pagrindimas: 'Citata pagrindžia faktą, bet pradinis teiginys nutrūkęs ir per platus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 
@@ -56,6 +58,11 @@ Nenurodyta
 - t-002
   global_id: t-87067
   teiginys: '1394 m. Švitrigaila mėgino užimti Vilnių, įkalbėdamas vienuolius padegti du medinius bokštus puolimo metu.'
+  sudarymo_pagrindimas: 'Pašalintas antraštės triukšmas, suformuluotas citata pagrįstas apgulties epizodas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Bokštai; mentioned_place: Viena; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1394 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas antraštės triukšmas, suformuluotas citata pagrįstas apgulties epizodas.'
   pagrindžia:
     - c-002
 
@@ -63,6 +70,11 @@ Nenurodyta
 - t-003
   global_id: t-87068
   teiginys: '1394 m. magistras tris savaites ir dvi dienas daužė Vilniaus pilių sienas ir bokštus, bet pilių neužėmė dėl griovių ir perkasų.'
+  sudarymo_pagrindimas: 'Perrašyta aiškiau, pašalinant dviprasmį įvardį ir išlaikant citatos faktus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1394 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Perrašyta aiškiau, pašalinant dviprasmį įvardį ir išlaikant citatos faktus.'
   pagrindžia:
     - c-001
 
@@ -134,17 +146,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Gediminas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/didysis kunigaikštis]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/įgula]]
-- [[objektai/asmenys/Švitrigaila]]
-- [[objektai/paprociai/Apgulties logistika blokuojant maisto tiekimą]]

@@ -10,11 +10,11 @@ date_start: '1350'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - ginklas
 amziai:
   - 'XIV'
   - 'XXI'
-tags:
-  - ginklas
 ---
 # Du pliki kardai
 
@@ -43,10 +43,13 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 <a id="claim-t-92955"></a>
 - t-001
   global_id: t-92955
   teiginys: 'Ordino magistras prašė Jogailos ir Vytauto priimti du kardus kaip pagalbą būsimam susirėmimui atvirame lauke.'
+  sudarymo_pagrindimas: 'Teiginyje reikia aiškiau įvardyti objektą ir pašalinti neenciklopedinę formą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Vengrija; mentioned_place: Štetinas'
   pagrindžia:
     - c-002
 
@@ -54,6 +57,8 @@ Nenurodyta
 - t-002
   global_id: t-92956
   teiginys: 'Du riteriai, pažymėti Vengrijos ir Štetino kunigaikštijos ženklais, atnešė du nuogus kardus.'
+  sudarymo_pagrindimas: 'Sakinys yra pilnas faktinis teiginys apie du kardus ir atitinka citatą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Vengrija; mentioned_place: Štetinas'
   pagrindžia:
     - c-002
 
@@ -61,6 +66,7 @@ Nenurodyta
 - t-003
   global_id: t-92957
   teiginys: 'Du nuogus kardus nešę pasiuntiniai buvo du riteriai su Vengrijos ir Štetino kunigaikštystės ženklais.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Vengrija; mentioned_place: Štetinas'
   pagrindžia:
     - c-001
 
@@ -68,6 +74,8 @@ Nenurodyta
 - t-004
   global_id: t-92958
   teiginys: 'Pasiuntiniai pareiškė, kad du kardai buvo atnešti kryžiuočių didžiojo magistro nurodymu.'
+  sudarymo_pagrindimas: 'Reikia pašalinti neaiškų įvardį ir suformuluoti pilną faktinį sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]'
   pagrindžia:
     - c-003
 
@@ -75,10 +83,13 @@ Nenurodyta
 - t-005
   global_id: t-92959
   teiginys: 'Kryžiuočių didžiojo magistro pasiuntiniai atnešė du kardus ir ragino su jais stoti į atvirą mūšį.'
+  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir paliktas citatos remiamas esminis faktas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
+
 - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -91,6 +102,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
+
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -107,6 +119,7 @@ Nenurodyta
   pagrindžia:
     - t-001
     - t-002
+
 - c-003
   santrauka: 'Kryžiuočių didžiojo magistro pasiuntiniai atnešė du kardus ir ragino su jais stoti į atvirą mūšį.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -124,12 +137,3 @@ Nenurodyta
   pagrindžia:
     - t-005
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Ulrichas von Jungingenas]]
-- [[objektai/daiktai/Ginklai]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/zodynas/kunigaikštija]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/ivykiai/Žalgirio mūšis (1410 m.)]]

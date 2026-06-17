@@ -26,6 +26,10 @@ Dusburgietis teigia, kad mažiulis V.
 - t-001
   global_id: t-61174
   teiginys: 'V. Mažiulio „Senovės vakarų baltai“ paskelbta MG 1981 m. Nr. 2, p. 7–8.'
+  sudarymo_pagrindimas: 'Citata pateikia bibliografinį įrašo faktą.'
+  temporaliniai_duomenys: 'įvykio data: 1981 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pateikia bibliografinį įrašo faktą.'
   pagrindžia:
     - c-001
 

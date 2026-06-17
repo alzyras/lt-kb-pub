@@ -3,18 +3,24 @@ tipas: saltinis
 pavadinimas: 'Hermano Wartberges kronika'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+datos:
+  - '1351 m.'
+date_start: '1351'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - popiežius
   - saltinis
   - upė
+amziai:
+  - 'XIV'
 ---
 # Hermano Wartberges kronika
 
 ## Santrauka
 
-Hermano Wartberges kronikoje reikalaujamų žemių siena su Mozūrija turėjo prasidėti nuo Alnos aukštupio.
+Tos kronikos pamini taip pat mirtį « daugybės kryžininkų » (pilgrimų). Hermano Wartberges kronikoje yra smulkiau pažymėtos reikalaujamų žemių ribos : rubežiuodamasi su Mozūrija, siena turėjo prasidėti nuo Alnos aukštupio.
 
 ## Teiginiai
 
@@ -22,6 +28,11 @@ Hermano Wartberges kronikoje reikalaujamų žemių siena su Mozūrija turėjo pr
 - t-001
   global_id: t-31704
   teiginys: 'Hermano Wartberges kronikoje reikalaujamų žemių siena su Mozūrija turėjo prasidėti nuo Alnos aukštupio.'
+  sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir turi skyrybos bei formuluotės negrabumų.'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Mozūrija'
+  temporaliniai_duomenys: 'įvykio data: 1351 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys per ilgas ir turi skyrybos bei formuluotės negrabumų.'
   pagrindžia:
     - c-001
 

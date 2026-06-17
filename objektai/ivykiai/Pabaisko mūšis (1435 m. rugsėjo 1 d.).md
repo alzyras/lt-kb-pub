@@ -5,12 +5,10 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1435 m.'
+  - '1436 m.'
+  - '1440 m.'
 date_start: '1435'
-date_end: ''
-aliases:
-  - 'objektai/ivykiai/Ukmergės mūšis'
-variantai:
-  - 'Ukmergės mūšis'
+date_end: '1440'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -49,6 +47,7 @@ Nenurodyta
 - t-001
   global_id: t-66810
   teiginys: 'Priešas Pabaisko apylinkėse atsitraukė į patogesnes pozicijas, bet lietuvių-lenkų kariuomenė jį smogė ir perskėlė pusiau.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tame (Baigos brolis)|Tame (Baigos brolis)]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Gelvonai; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -56,6 +55,11 @@ Nenurodyta
 - t-002
   global_id: t-66811
   teiginys: 'Po Vytauto mirties kilusios sosto dalybos sukėlė pilietinį karą, pasibaigusį 1435 m. Pabaisko mūšiu, o jame dalyvavęs Livonijos ordinas buvo visiškai susilpnintas.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai susieja pilietinį karą, mūšį ir jo padarinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]; mentioned_place: Lietuva; mentioned_place: Livonija'
+  temporaliniai_duomenys: 'įvykio data: 1435 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai susieja pilietinį karą, mūšį ir jo padarinį.'
   pagrindžia:
     - c-003
 
@@ -63,6 +67,9 @@ Nenurodyta
 - t-003
   global_id: t-66812
   teiginys: '1435 m. rugsėjo 1 d. prie Ukmergės, prie Šventosios upės, įvyko mūšis, kuriame Žygimantas ir jo sūnus Mykolas sumušė Švitrigailos pajėgas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]'
+  temporaliniai_duomenys: 'mūšio data: 1435 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-004
 
@@ -70,6 +77,7 @@ Nenurodyta
 - t-004
   global_id: t-66813
   teiginys: 'Pabaisko mūšyje Švitrigailos ir Ordino kariuomenė palūžo ir bėgo, o daug žmonių pateko į nelaisvę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]'
   pagrindžia:
     - c-002
 
@@ -77,6 +85,9 @@ Nenurodyta
 - t-005
   global_id: t-66814
   teiginys: 'Pabaisko mūšyje žuvo Livonijos magistras Kerskorfas ir maršalas Nesselrodė, o imperatoriaus laiške mūšis lygintas su Tanenbergo-Žalgirio kautynėmis.'
+  sudarymo_pagrindimas: 'Teiginys gramatiškai apibendrina mūšio padarinius ir vertinimą.'
+  susije_objektai: 'event: [[objektai/ivykiai/Pabaisko mūšis (1435 m. rugsėjo 1 d.)|Pabaisko mūšis (1435 m. rugsėjo 1 d.)]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Kerskorfas|Kerskorfas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Kerskorfas|Kerskorfas]] dalyvavo mūšyje [[objektai/ivykiai/Pabaisko mūšis (1435 m. rugsėjo 1 d.)|Pabaisko mūšis (1435 m. rugsėjo 1 d.)]]; [[objektai/asmenys/Švitrigaila|Švitrigaila]] dalyvavo mūšyje [[objektai/ivykiai/Pabaisko mūšis (1435 m. rugsėjo 1 d.)|Pabaisko mūšis (1435 m. rugsėjo 1 d.)]]'
   pagrindžia:
     - c-005
 
@@ -84,6 +95,11 @@ Nenurodyta
 - t-006
   global_id: t-66815
   teiginys: 'Žygimantas Kęstutaitis pergalei Pabaiske atminti pastatė parapinę bažnyčią.'
+  sudarymo_pagrindimas: 'Teiginys yra trumpas, aiškus ir paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_person: [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis]]; mentioned_place: Livonija; mentioned_place: Pabaiskas'
+  temporaliniai_duomenys: 'pastatymo data: 1436-1440; pastatymo data: 1440 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra trumpas, aiškus ir paremtas citata.'
   pagrindžia:
     - c-006
 
@@ -211,19 +227,5 @@ Nenurodyta
     - t-006
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Livonijos ordinas]]
-- [[objektai/grupes/Rusėnai]]
-- [[objektai/asmenys/Tame (Baigos brolis)]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/asmenys/Švitrigaila]]
-- [[objektai/asmenys/Žygimantas]]
-- [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]
-- [[objektai/asmenys/Kerskorfas]]
-- [[objektai/asmenys/Mykolas]]
-- [[objektai/zodynas/maršalas]]
+- [[objektai/asmenys/Kerskorfas]] dalyvavo_musyje Pabaisko mūšis (1435 m. rugsėjo 1 d.)
+- [[objektai/asmenys/Švitrigaila]] dalyvavo_musyje Pabaisko mūšis (1435 m. rugsėjo 1 d.)

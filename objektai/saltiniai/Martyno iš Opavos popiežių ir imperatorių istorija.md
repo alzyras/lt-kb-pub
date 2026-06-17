@@ -6,9 +6,9 @@ saltiniai:
 datos:
   - '1216 m.'
   - '1221 m.'
+  - '1223 m.'
   - '1225 m.'
   - '1232 m.'
-  - '1278 m.'
   - '1317 m.'
 date_start: '1216'
 date_end: '1317'
@@ -27,7 +27,7 @@ amziai:
 
 ## Santrauka
 
-Martynas iš Opavos parašė popiežių ir imperatorių istoriją, baigiamą XIII a. aštuntojo dešimtmečio įvykiais. 1317 m. popiežius Jonas kanonizavo šventąjį Liudviką, Sicilijos karaliaus Roberto brolį iš Mažesniųjų brolių ordino. 1232 m. Tolede vienas žydas esą rado akmenyje iškaltą knygą su hebrajiškais, graikiškais ir lotyniškais įrašais.
+Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonus), gyvenęs ir veikęs Prahoje, po to Romoje, popiežiaus kurijoje, 1278 m. buvo paskirtas Gnezno arkivyskupu (todėl „Polonus“), bet mirė ten nenuvykęs. Dusburgietis teigia, kad apie Inocentą III, popiežių, ir Otoną IV bei Fridrichą II, imperatorius Po to viešpatavo Inocentas III, popiežius, ir Otonas IV bei Fridrichas II, imperatoriai (Ptol. Dusburgietis teigia, kad apie lai, kaip prie šventojo altoriaus vynas pavirto krauju, o duona — kūnu Tuo metu netoli Rozėjos Briksijoje vynas žmonių akyse pavirto krauju, o duona kūnu prie šventojo altoriaus (Ptol. 21,4; Mart. p. 395).
 
 ## Teiginiai
 
@@ -35,6 +35,11 @@ Martynas iš Opavos parašė popiežių ir imperatorių istoriją, baigiamą XII
 - t-001
   global_id: t-60879
   teiginys: 'Martynas iš Opavos parašė popiežių ir imperatorių istoriją, baigiamą XIII a. aštuntojo dešimtmečio įvykiais.'
+  sudarymo_pagrindimas: 'Teiginys yra išbaigtas ir tiesiogiai paremtas citata apie Martyno iš Opavos veikalą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Martynas iš Opavos|Martynas iš Opavos]]; mentioned_place: Čekija'
+  temporaliniai_duomenys: 'įvykio data: 1278 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra išbaigtas ir tiesiogiai paremtas citata apie Martyno iš Opavos veikalą.'
   pagrindžia:
     - c-004
 
@@ -42,6 +47,11 @@ Martynas iš Opavos parašė popiežių ir imperatorių istoriją, baigiamą XII
 - t-002
   global_id: t-60880
   teiginys: '1317 m. popiežius Jonas kanonizavo šventąjį Liudviką, Sicilijos karaliaus Roberto brolį iš Mažesniųjų brolių ordino.'
+  sudarymo_pagrindimas: 'Teiginys yra konkretus, gramatiškas ir visiškai paremtas citata.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Robertas (Sicilijos karalius)|Robertas (Sicilijos karalius)]]'
+  temporaliniai_duomenys: 'įvykio data: 1317 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus, gramatiškas ir visiškai paremtas citata.'
   pagrindžia:
     - c-008
 
@@ -49,6 +59,11 @@ Martynas iš Opavos parašė popiežių ir imperatorių istoriją, baigiamą XII
 - t-003
   global_id: t-60881
   teiginys: '1232 m. Tolede vienas žydas esą rado akmenyje iškaltą knygą su hebrajiškais, graikiškais ir lotyniškais įrašais.'
+  sudarymo_pagrindimas: 'Citata pagrindžia aiškų vieno sakinio pasakojimą be nutrūkusių fragmentų.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Adomas (auksakalys)|Adomas (auksakalys)]]; mentioned_place: Toledas'
+  temporaliniai_duomenys: 'įvykio data: 1232 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia aiškų vieno sakinio pasakojimą be nutrūkusių fragmentų.'
   pagrindžia:
     - c-003
 
@@ -56,6 +71,8 @@ Martynas iš Opavos parašė popiežių ir imperatorių istoriją, baigiamą XII
 - t-004
   global_id: t-60882
   teiginys: 'Martyno iš Opavos istorijoje pasakojama, kad netoli Rozėjos Briksijoje prie altoriaus vynas pavirto krauju, o duona – kūnu.'
+  sudarymo_pagrindimas: 'Tai legendinis šaltinio pasakojimas, todėl reikalinga šaltinio atribucija.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Altorius|Altorius]]; mentioned_object: [[objektai/daiktai/Duona|Duona]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]'
   pagrindžia:
     - c-002
 
@@ -63,6 +80,11 @@ Martynas iš Opavos parašė popiežių ir imperatorių istoriją, baigiamą XII
 - t-005
   global_id: t-60883
   teiginys: '1225 m. Burgundijos Druskos kalnuose žemės drebėjimas esą nustūmė kalną ir pražudė penkis tūkstančius žmonių.'
+  sudarymo_pagrindimas: 'Citata remia įvykio pasakojimą, o „esą“ išlaiko šaltinio pobūdį.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Druska|Druska]]'
+  temporaliniai_duomenys: 'įvykio data: 1225 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata remia įvykio pasakojimą, o „esą“ išlaiko šaltinio pobūdį.'
   pagrindžia:
     - c-001
 
@@ -70,6 +92,11 @@ Martynas iš Opavos parašė popiežių ir imperatorių istoriją, baigiamą XII
 - t-006
   global_id: t-60884
   teiginys: 'Brolių pamokslininkų ordinas datuojamas 1216 m., o Mažesniųjų brolių ordinas – 1223 m., valdant popiežiui Honorijui III.'
+  sudarymo_pagrindimas: 'Citata pagrindžia datavimą, pradinis teiginys nutrūkęs.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Popiežius Honorijus III|Popiežius Honorijus III]]'
+  temporaliniai_duomenys: 'įvykio data: 1216 m.; įvykio data: 1223 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia datavimą, pradinis teiginys nutrūkęs.'
   pagrindžia:
     - c-007
 
@@ -77,6 +104,8 @@ Martynas iš Opavos parašė popiežių ir imperatorių istoriją, baigiamą XII
 - t-007
   global_id: t-60885
   teiginys: 'Martyno iš Opavos istorijoje Inocentas III minimas kaip popiežius, o Otonas IV ir Fridrichas II – kaip imperatoriai.'
+  sudarymo_pagrindimas: 'Citata remia tik šaltinyje pateiktą titulų ir valdovų paminėjimą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_person: [[objektai/asmenys/Fridrichas II|Fridrichas II]]; mentioned_person: [[objektai/asmenys/Inocentas III|Inocentas III]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Otonas|Otonas]]'
   pagrindžia:
     - c-006
 
@@ -84,6 +113,8 @@ Martynas iš Opavos parašė popiežių ir imperatorių istoriją, baigiamą XII
 - t-008
   global_id: t-60886
   teiginys: 'Po popiežiaus Klemenso vainikavimo prie Liono išgriuvusi mūro siena pražudė daug žmonių ir sužeidė patį popiežių.'
+  sudarymo_pagrindimas: 'Citata remia įvykį, o pradinė formuluotė nutrūkusi.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Mūro sienos ir miesto sienos|Mūro sienos ir miesto sienos]]; mentioned_object: [[objektai/zodynas/oktava|oktava]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Lionas; mentioned_place: Prancūzija'
   pagrindžia:
     - c-009
 
@@ -91,6 +122,8 @@ Martynas iš Opavos parašė popiežių ir imperatorių istoriją, baigiamą XII
 - t-009
   global_id: t-60887
   teiginys: 'Popiežiaus Bonifaco ir Prancūzijos karaliaus Pilypo nesantarvė kilo dėl popiežiaus teiginio apie Prancūzijos reikalų pavaldumą apaštališkajam sostui.'
+  sudarymo_pagrindimas: 'Perrašyta aiškiau nurodant nesantarvės priežastį ir veikėjus.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/reskriptas|reskriptas]]; mentioned_place: Prancūzija'
   pagrindžia:
     - c-005
 

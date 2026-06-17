@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Vėlesnė Romehnen Semboje (jos vak.
+Dusburgietis teigia, kad vėlesnė Romehnen Semboje (jos vak.
 
 ## Teiginiai
 
@@ -21,9 +21,11 @@ Vėlesnė Romehnen Semboje (jos vak.
 - t-001
   global_id: t-58718
   teiginys: 'Vėlesnė Romehnen Semboje (jos vak.'
+  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
+  susije_objektai: 'mentioned_place: Romuva; mentioned_place: Semba'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/autoriai/Voigt J.md#claim-t-64867|Voigt J]]: J. Voigtas cituojamas dėl Romuvos paieškų ir Romehnen vietovės Semboje siejimo su šventa kulto vieta.
 ## Reikšmingi paminėjimai
 
 - c-001

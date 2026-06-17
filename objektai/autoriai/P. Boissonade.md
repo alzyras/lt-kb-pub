@@ -28,6 +28,9 @@ Boissonade, P.
 - t-001
   global_id: t-30891
   teiginys: 'P. Boissonade 1923 m. Paryžiuje paskelbė darbą „Du nouveau sur la Chanson de Roland“.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Paryžius'
+  temporaliniai_duomenys: 'įvykio data: 1923 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -60,7 +63,3 @@ Boissonade, P.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]

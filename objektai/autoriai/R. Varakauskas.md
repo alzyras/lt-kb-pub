@@ -29,6 +29,9 @@ Varakauskas, R. Varakauskas, R.: Lietuvos vals­ tybės susidarymo klausimu, Ist
 - t-001
   global_id: t-30944
   teiginys: 'R. Varakauskas 1969 m. paskelbė darbą „Lietuvos valstybės susidarymo klausimu“.'
+  susije_objektai: 'mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1969 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

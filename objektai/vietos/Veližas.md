@@ -25,7 +25,7 @@ amziai:
 
 ## Santrauka
 
-Pagal Stepono Batoro planą Kristupas Radvila Perkūnas turėjo saugoti pasienį su Rusija ir imituoti įsiveržimą tarp Veližo ir Smolensko. Vytautas išsirengė prieš Pskovą ir paėmė Pskovo miestus Veližą bei Krasnyj Gorod.
+Sutartyje caras atsisakė nuo Livonijos, Polocko ir Veližo; jam buvo grąžinti tik Didieji Lukai.
 
 ## Teiginiai
 
@@ -33,6 +33,8 @@ Pagal Stepono Batoro planą Kristupas Radvila Perkūnas turėjo saugoti pasienį
 - t-001
   global_id: t-69546
   teiginys: 'Pagal Stepono Batoro planą Kristupas Radvila Perkūnas turėjo saugoti pasienį su Rusija ir imituoti įsiveržimą tarp Veližo ir Smolensko.'
+  sudarymo_pagrindimas: 'Citata leidžia pateikti aiškesnį veiksmą ir tikslą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Kristupas Radvila|Kristupas Radvila]]; mentioned_person: [[objektai/asmenys/Kristupas Radvila Perkūnas|Kristupas Radvila Perkūnas]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_place: Biala; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Smolenskas; mentioned_place: Toropecas'
   pagrindžia:
     - c-001
 
@@ -40,9 +42,16 @@ Pagal Stepono Batoro planą Kristupas Radvila Perkūnas turėjo saugoti pasienį
 - t-002
   global_id: t-187667
   teiginys: 'Vytautas išsirengė prieš Pskovą ir paėmė Pskovo miestus Veližą bei Krasnyj Gorod.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Sakinys aiškus, konkretus ir paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Kristupas Radvila|Kristupas Radvila]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Biala; mentioned_place: Krasnyj Gorod; mentioned_place: Lietuva; mentioned_place: Pskovas; mentioned_place: Rusija; mentioned_place: Smolenskas; mentioned_place: Toropecas'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/ivykiai/Pskovo pasidavimas Vytautui ir vietininko paskyrimas.md#claim-t-186598|Pskovo pasidavimas Vytautui ir vietininko paskyrimas]]: Lietuvos metraštis pasakoja, kad kitais metais Vytautas išsirengė prieš Pskovą ir paėmė Veližą bei Krasnyj Gorodą.
+- susijęs iš Krasnyj Gorod: Vytautas per žygį prieš Pskovą paėmė Pskovo miestus Veližą ir Krasnyj Gorod.
+- susijęs iš Toropecas: K. Radvilos pajėgos turėjo nuo Veližo pulti Toropeco ir Bialos pilių apylinkes.
 ## Reikšmingi paminėjimai
 
 - c-001

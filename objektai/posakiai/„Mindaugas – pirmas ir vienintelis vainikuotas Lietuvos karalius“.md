@@ -35,6 +35,11 @@ m. Mindaugas krikštijosi, mainais perleidęs didelę dalį Žemaitijos Livonijo
 - t-001
   global_id: t-25378
   teiginys: '1251 m. Mindaugas krikštijosi, o 1253 m. liepos 6 d. buvo vainikuotas pirmuoju ir vieninteliu Lietuvos karaliumi.'
+  sudarymo_pagrindimas: 'Perrašyta taip, kad sakinys aiškiai sietų Mindaugą su posakio turiniu.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Mindaugo karūnacija (1253 m.)|Mindaugo karūnacija (1253 m.)]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1251 m.; įvykio data: 1253 m.; įvykio data: 1952-1953; įvykio data: 1953 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Perrašyta taip, kad sakinys aiškiai sietų Mindaugą su posakio turiniu.'
   pagrindžia:
     - c-001
 
@@ -61,8 +66,3 @@ m. Mindaugas krikštijosi, mainais perleidęs didelę dalį Žemaitijos Livonijo
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
-- [[objektai/ivykiai/Mindaugo karūnacija (1253 m.)]]

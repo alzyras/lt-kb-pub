@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Lietuvos Metrikos dokumentai laikomi svarbiausiu LDK istorijos šaltiniu. XIV–XV a. sandūroje LDK raštinės tapo kultūrinės produkcijos gamintojomis, kaupėjomis ir raštininkų mokyklomis.
+Raštinės tapo kultūrinės produkcijos gamintojomis, kaupėjomis ir raštininkų mokyklomis. Šis pareigūnas saugojo valstybės antspaudus, prižiūrėjo, kad didžiojo kunigaikščio kanceliarijoje nebūtų parengtas joks raštas, prieštaraująs valstybės įstatymams.
 
 ## Laikotarpis ir datos
 
@@ -43,6 +43,7 @@ Nenurodyta
 - t-001
   global_id: t-54230
   teiginys: 'Lietuvos Metrikos dokumentai laikomi svarbiausiu LDK istorijos šaltiniu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Arabai|Arabai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_place: Lietuva; mentioned_place: Maskva'
   pagrindžia:
     - c-001
 
@@ -50,6 +51,11 @@ Nenurodyta
 - t-002
   global_id: t-183307
   teiginys: 'XIV–XV a. sandūroje LDK raštinės tapo kultūrinės produkcijos gamintojomis, kaupėjomis ir raštininkų mokyklomis.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie LDK raštinių funkcijas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/raštinių kultūra|raštinių kultūra]]; mentioned_place: Europa; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -92,12 +98,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Arabai]]
-- [[objektai/grupes/Bajorai]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/raštinių kultūra]]
-- [[objektai/grupes/Čekai]]
-- [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]

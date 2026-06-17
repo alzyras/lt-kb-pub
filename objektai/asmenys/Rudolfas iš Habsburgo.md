@@ -30,6 +30,8 @@ Dusburgietis teigia, kad apie Rudolfo išrinkimą Romos karaliumi 1273 viešpati
 - t-001
   global_id: t-60197
   teiginys: 'Rudolfas iš Habsburgo kare nukovė Čekijos karalių Otokarą ir Austrijos kunigaikštystę atidavė sūnui Albrechtui.'
+  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytus Rudolfo veiksmus.'
+  susije_objektai: 'mentioned_place: Austrija; mentioned_place: Čekija'
   pagrindžia:
     - c-002
 
@@ -37,6 +39,7 @@ Dusburgietis teigia, kad apie Rudolfo išrinkimą Romos karaliumi 1273 viešpati
 - t-002
   global_id: t-60198
   teiginys: '1273 metais Rudolfas iš Habsburgo buvo išrinktas Romos karaliumi.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -44,6 +47,11 @@ Dusburgietis teigia, kad apie Rudolfo išrinkimą Romos karaliumi 1273 viešpati
 - t-003
   global_id: t-184124
   teiginys: 'Rudolfas iš Habsburgo savo dukterį atidavė nukauto Čekijos karaliaus Otokaro sūnui.'
+  teiginio_tipas: 'saltinio_teiginys'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus ir paremtas citatos sakiniu apie Rudolfo dukterį.'
+  susije_objektai: 'mentioned_place: Austrija; mentioned_place: Čekija'
   pagrindžia:
     - c-002
 

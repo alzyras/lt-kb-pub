@@ -12,25 +12,28 @@ date_start: '1409'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XV'
-  - 'XXI'
 tags:
   - ežeras
   - pilis
   - vieta
+amziai:
+  - 'XV'
+  - 'XXI'
 ---
 # Galvės ežeras
 
 ## Santrauka
 
-Ivinskis Galvės ežero salos pilį minėjo kaip žymiausią Vytauto garbės ir pasididžiavimo statinį. Gediminas Galvės ežero pusiasalyje pastatė Trakų pilį, ilgą laiką laikytą antrąja Lietuvos sostine.
+Netoli Vilniaus, sunkiai prieinamame Galvės ežero pusiasaly, Gediminas pastatė dar kitą tvirtą pilį, kuri ilgą laiką buvo tarytum antroji Lietuvos sostinė, — tai Trakai. Šiame šaltinyje Galvės ežeras taip pat minimas kaip Trakų salos pilies vieta.
 
 ## Teiginiai
+
 <a id="claim-t-79348"></a>
 - t-001
   global_id: t-79348
   teiginys: 'Ivinskis Galvės ežero salos pilį minėjo kaip žymiausią Vytauto garbės ir pasididžiavimo statinį.'
+  sudarymo_pagrindimas: 'Citata perteikia autoriaus vertinimą, todėl reikia šaltinio atribucijos.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_person: [[objektai/autoriai/V. Trumpa|V. Trumpa]]; mentioned_place: Lietuva; mentioned_place: Salos'
   pagrindžia:
     - c-001
 
@@ -38,12 +41,16 @@ Ivinskis Galvės ežero salos pilį minėjo kaip žymiausią Vytauto garbės ir 
 - t-002
   global_id: t-183017
   teiginys: 'Gediminas Galvės ežero pusiasalyje pastatė Trakų pilį, ilgą laiką laikytą antrąja Lietuvos sostine.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Sutrumpinta ir pašalintos perteklinės aplinkybės, paliekant citatos remiamą faktą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Trakai'
   pagrindžia:
     - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Ivinskis Galvės ežero salos pilį minėjo kaip žymiausią Vytauto garbės ir pasididžiavimo statinį.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -69,6 +76,7 @@ Ivinskis Galvės ežero salos pilį minėjo kaip žymiausią Vytauto garbės ir 
   statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Gediminas Galvės ežero pusiasalyje pastatė Trakų pilį, ilgą laiką laikytą antrąja Lietuvos sostine.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -79,10 +87,8 @@ Ivinskis Galvės ežero salos pilį minėjo kaip žymiausią Vytauto garbės ir 
     laiką buvo tarytum antroji Lietuvos sostinė, — tai Trakai. Jo
     sūnus [[Kęstutis]] vėliau pastatė kitą didingą mūro pilį to paties
     ežero saloje.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002

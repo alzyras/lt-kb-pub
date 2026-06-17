@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Mažoji Podolė buvo tarp Aukštutinio Pietinio Bugo ir Dniestro. Algirdo remiami Karijotaičiai įsitvirtino Mažojoje Podolėje, organizavo jos gynybą nuo totorių ir statė pilis. Mažosios Podolės ir kitų pietinių žemių išėmimas iš tiesioginės Aukso ordos valdžios sudarė saugesnę padėtį Rytų Europoje.
+Mūšio padariniai „Pasakojime apie Podolę“ teigiama, kad Lietuvos valdovo Algirdo brolio Karijoto, valdančio Lietuvos Naugarduką, sūnūs - trys broliai Karijotaičiai, leidus Algirdui, su Lietuvos žemės pagalba, patraukė į Podolės žemę (Mažoji Podolė tarp. Pietinių žemių (Kijevo, Mažosios Podolės ir kt.) išėmimas iš tiesioginės Aukso ordos valdžios vietiniams rusėnams, kaimyninėms Rytų Europos šalims (Lenkijai, iš dalies Moldavijai, Vengrijai) sudarė saugesnę padėtį rytuose.
 
 ## Teiginiai
 
@@ -23,6 +23,8 @@ Mažoji Podolė buvo tarp Aukštutinio Pietinio Bugo ir Dniestro. Algirdo remiam
 - t-001
   global_id: t-79827
   teiginys: 'Mažoji Podolė buvo tarp Aukštutinio Pietinio Bugo ir Dniestro.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nusako Mažosios Podolės vietą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Dniestras; mentioned_place: Lietuva; mentioned_place: Podolė'
   pagrindžia:
     - c-003
 
@@ -30,6 +32,8 @@ Mažoji Podolė buvo tarp Aukštutinio Pietinio Bugo ir Dniestro. Algirdo remiam
 - t-002
   global_id: t-79828
   teiginys: 'Algirdo remiami Karijotaičiai įsitvirtino Mažojoje Podolėje, organizavo jos gynybą nuo totorių ir statė pilis.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_group: [[objektai/grupes/Karijotaičiai|Karijotaičiai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Europa; mentioned_place: Kamenecas; mentioned_place: Podolė'
   pagrindžia:
     - c-001
 
@@ -37,6 +41,8 @@ Mažoji Podolė buvo tarp Aukštutinio Pietinio Bugo ir Dniestro. Algirdo remiam
 - t-003
   global_id: t-79829
   teiginys: 'Mažosios Podolės ir kitų pietinių žemių išėmimas iš tiesioginės Aukso ordos valdžios sudarė saugesnę padėtį Rytų Europoje.'
+  sudarymo_pagrindimas: 'Reikia patikslinti, kam citata sieja saugesnę padėtį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Europa; mentioned_place: Kamenecas; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Podolė'
   pagrindžia:
     - c-002
 

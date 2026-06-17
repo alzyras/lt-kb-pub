@@ -35,6 +35,10 @@ Rechtsgeschich­ te, 50, Kanonistische Abteil., XIX, 1930, 514-552 ; XX, 1931, 4
 - t-001
   global_id: t-31662
   teiginys: 'H. F. Schmido „Die rechtlichen Grundlagen der Pfarrorganisation auf westslavischem Boden“ išleista Veimare 1938 m.'
+  sudarymo_pagrindimas: 'Citata leidžia bibliografinį fragmentą perrašyti į pilną sakinį.'
+  temporaliniai_duomenys: 'įvykio data: 1938 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata leidžia bibliografinį fragmentą perrašyti į pilną sakinį.'
   pagrindžia:
     - c-001
 

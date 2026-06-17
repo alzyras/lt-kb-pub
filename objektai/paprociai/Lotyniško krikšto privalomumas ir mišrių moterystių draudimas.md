@@ -46,6 +46,8 @@ Nenurodyta
 - t-001
   global_id: t-05354
   teiginys: 'Jogailos įsakymu lietuviams buvo draudžiamos mišrios santuokos su rusais ir nekatalikais, kol antroji pusė priims katalikų tikėjimą.'
+  sudarymo_pagrindimas: 'Citata palaiko faktą, bet pirminis teiginys nepakankamai tiksliai perteikė dokumento adresatus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]'
   pagrindžia:
     - c-001
 
@@ -53,6 +55,8 @@ Nenurodyta
 - t-002
   global_id: t-05355
   teiginys: 'Jogaila dokumente įsipareigojo lietuvius priversti paklusti Romos Bažnyčiai, įvedant privalomą lotynišką krikštą ir draudžiant mišrias santuokas.'
+  sudarymo_pagrindimas: 'Citata pagrindžia teiginį, bet įvestyje yra OCR triukšmo ir fragmentų.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -94,13 +98,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
-- [[objektai/daiktai/Kryžius]]
-- [[objektai/asmenys/Kūnas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/asmenys/Švitrigaila]]
-- [[objektai/posakiai/patraukti, pašaukti, net jėga priversti]]

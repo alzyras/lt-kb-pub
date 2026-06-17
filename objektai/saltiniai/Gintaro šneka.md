@@ -27,6 +27,9 @@ Būtėnas, P.: Gintaro šneka , Karys, 1973, 110-115, 159-164 p. — Danilaitė,
 - t-001
   global_id: t-97251
   teiginys: 'P. Būtėno „Gintaro šneka“ paskelbta „Karyje“ 1973 m., p. 110–115 ir 159–164.'
+  susije_objektai: 'mentioned_place: Kaunas'
+  temporaliniai_duomenys: 'įvykio data: 1973 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -34,6 +37,11 @@ Būtėnas, P.: Gintaro šneka , Karys, 1973, 110-115, 159-164 p. — Danilaitė,
 - t-002
   global_id: t-97252
   teiginys: 'P. Būtėno „Gintaro šneka“ paskelbta žurnale „Karys“ 1973 m., p. 110-115 ir 159-164.'
+  sudarymo_pagrindimas: 'Citata palaiko bibliografinį faktą apie šaltinį.'
+  susije_objektai: 'mentioned_place: Kaunas'
+  temporaliniai_duomenys: 'įvykio data: 1973 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko bibliografinį faktą apie šaltinį.'
   pagrindžia:
     - c-001
 

@@ -22,9 +22,13 @@ Stokodami kariškų ginklų sukilėliai dažnai naudodavo medžioklinius KAUTYN�
 - t-001
   global_id: t-39830
   teiginys: 'Juozas Miliauskas prisiminimuose aprašė Švėkšnos apylinkių miškuose rusų pajėgų užpultą sukilėlių stovyklą.'
+  sudarymo_pagrindimas: 'Pašalintas OCR ir antraštės triukšmas, paliktas citatos paremtas faktas apie autorių.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
-
+- susijęs iš Juozo Miliausko prisiminimai: Juozas Miliauskas prisiminimuose aprašė, kaip Švėkšnos apylinkių miškuose rusų pajėgos užpuolė užvartomis sutvirtintą sukilėlių stovyklą.
+- susijęs iš Juozo Miliausko prisiminimai: Juozas Miliauskas rašė, kad antrą puolimo dieną šaudymas tęsėsi šešias valandas, o sukilėlių pusėje buvo du lengvai sužeisti.
+- susijęs iš Juozo Miliausko prisiminimai: Juozas Miliauskas prisiminimuose aprašė rusų pajėgų puolimą prieš medžių užvartomis sutvirtintą sukilėlių stovyklą Švėkšnos apylinkių miškuose.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -44,8 +48,3 @@ Stokodami kariškų ginklų sukilėliai dažnai naudodavo medžioklinius KAUTYN�
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Ginklai]]
-- [[objektai/grupes/Rusai]]

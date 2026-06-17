@@ -37,6 +37,8 @@ Nenurodyta
 - t-001
   global_id: t-31404
   teiginys: 'Po aštuonių dienų Apuolės apgulos švedų karalius Olafas privertė kuršius grąžinti danų grobį, sudaryti taiką, mokėti duoklę ir duoti 30 įkaitų.'
+  sudarymo_pagrindimas: 'Patikslinta veiksmo formuluotė ir išlaikyti tik citatos paremti faktai.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/duoklė|duoklė]]; mentioned_object: [[objektai/zodynas/įkaitai|įkaitai]]; mentioned_place: Seeburgas'
   pagrindžia:
     - c-001
 
@@ -58,10 +60,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kuršiai]]
-- [[objektai/grupes/Švedai]]
-- [[objektai/zodynas/duoklė]]
-- [[objektai/zodynas/įkaitai]]

@@ -28,6 +28,9 @@ Szymański, W.
 - t-001
   global_id: t-31073
   teiginys: 'W. Szymański 1958 m. Poznanėje išleido veikalą „Kontakty handlowe Wielkopolski w IX-XI w.“.'
+  susije_objektai: 'mentioned_place: Poznanė'
+  temporaliniai_duomenys: 'įvykio data: 1958 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

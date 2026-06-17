@@ -42,6 +42,8 @@ Nenurodyta
 - t-001
   global_id: t-54247
   teiginys: 'Katalikiška bažnytinė organizacija plėtėsi kuriant parapijas ir statant bažnyčias net toli nuo vyskupijų centrų.'
+  sudarymo_pagrindimas: 'Teiginys susietas su užrašo objektu ir išlaiko citatos faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_place: Kaunas'
   pagrindžia:
     - c-001
 
@@ -49,6 +51,7 @@ Nenurodyta
 - t-002
   global_id: t-54248
   teiginys: 'Katalikiška bažnytinė organizacija plėsta kuriant parapijas ir statant bažnyčias net toli nuo vyskupijų centrų.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_place: Kaunas'
   pagrindžia:
     - c-001
 
@@ -70,7 +73,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Pranciškonų ordinas]]

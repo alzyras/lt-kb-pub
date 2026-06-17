@@ -4,9 +4,9 @@ pavadinimas: 'Z. Raulinaitis'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
-  - '1970 m.'
+  - '1966 m.'
   - '1971 m.'
-date_start: '1970'
+date_start: '1966'
 date_end: '1971'
 sukurta: ''
 atnaujinta: ''
@@ -29,6 +29,9 @@ Raulinaitis, Z.
 - t-001
   global_id: t-31088
   teiginys: 'Z. Raulinaitis 1970 m. žurnale „Karys“ paskelbė darbą „Apuolės užpuolimus“.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Kalavijai|Kalavijai]]; mentioned_object: [[objektai/daiktai/Vilniaus gaisro gesinimo įrankiai|Vilniaus gaisro gesinimo įrankiai]]; mentioned_object: [[objektai/zodynas/feodalizmas|feodalizmas]]; mentioned_place: Europa; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Zarasai'
+  temporaliniai_duomenys: 'įvykio data: 1966 m.; įvykio data: 1970 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -66,10 +69,3 @@ Raulinaitis, Z.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Kalavijai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/daiktai/Vilniaus gaisro gesinimo įrankiai]]
-- [[objektai/zodynas/feodalizmas]]

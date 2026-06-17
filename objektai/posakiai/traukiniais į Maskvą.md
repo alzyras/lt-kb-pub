@@ -20,6 +20,8 @@ Raudonarmiečiai bėgo plūsdami savo vadovybę ir reikalaudami tuoj pat juos ve
 - t-001
   global_id: t-41476
   teiginys: 'Raudonarmiečiai bėgo plūsdami savo vadovybę ir reikalaudami tuoj pat juos vesti į Vilnių, o iš ten — „traukiniais į Maskvą“.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys ir tiksliai perteikia citatos informaciją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Aukštadvaris; mentioned_place: Jieznas'
   pagrindžia:
     - c-001
 
@@ -42,7 +44,3 @@ Raudonarmiečiai bėgo plūsdami savo vadovybę ir reikalaudami tuoj pat juos ve
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]

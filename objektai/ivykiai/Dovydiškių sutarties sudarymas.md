@@ -11,10 +11,10 @@ date_start: '1380'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XIV'
 tags:
   - sutartis
+amziai:
+  - 'XIV'
 ---
 # Dovydiškių sutarties sudarymas
 
@@ -42,10 +42,13 @@ Jogaila surengė tariamą medžioklę Dovydiškėse, į kurią Ordino magistras 
 Sutartis buvo nukreipta prieš Kęstutį ir jo vaikus.
 
 ## Teiginiai
+
 <a id="claim-t-12402"></a>
 - t-001
   global_id: t-12402
   teiginys: 'Vytautas dalyvavo medžioklėje, bet slaptos sutarties sudarymo nepajuto; jo dalyvavimu Jogaila prisidengė nuo Kęstučio įtarimų.'
+  sudarymo_pagrindimas: 'Teiginys yra faktinis, gramatiškas ir pagrįstas citatos turiniu.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-001
 
@@ -53,6 +56,7 @@ Sutartis buvo nukreipta prieš Kęstutį ir jo vaikus.
 - t-002
   global_id: t-66523
   teiginys: 'Ivinskis pabrėžia, kad Dovydiškių sutartis palieka svarbių neatsakytų klausimų dėl Vytauto žinojimo ir Jogailos laikysenos.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -60,23 +64,36 @@ Sutartis buvo nukreipta prieš Kęstutį ir jo vaikus.
 - t-003
   global_id: t-66524
   teiginys: '1380 m. gegužės 31 d. Jogaila slapta sudarė Dovydiškių sutartį su kryžiuočiais medžioklės metu, turbūt arti Gardino.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Gardinas; mentioned_place: Maskva; mentioned_place: Riazanė'
+  temporaliniai_duomenys: 'įvykio data: 1380 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-003
+
+<a id="claim-t-66525"></a>
+- t-004
+  global_id: t-66525
+  teiginys: '1380 m. Jogaila slapta, be Kęstučio žinios, sudarė Dovydiškių sutartį su ordinu tam surengtoje medžioklėje.'
+  sudarymo_pagrindimas: 'Pradinis teiginys remiasi neaiškiais įvardžiais ir konteksto fragmentais, todėl reikia įvardyti veikėjus ir veiksmą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]'
+  temporaliniai_duomenys: 'įvykio data: 1380 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys remiasi neaiškiais įvardžiais ir konteksto fragmentais, todėl reikia įvardyti veikėjus ir veiksmą.'
+  pagrindžia:
+    - c-004
 
 <a id="claim-t-66526"></a>
 - t-005
   global_id: t-66526
   teiginys: 'Dovydiškių sutartimi Kęstučio žemės buvo išskirtos ir paliktos tolesniems ordino naikinimams.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Kardas|Kardas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]'
   pagrindžia:
     - c-005
-- t-006
-  teiginys: '1380 m. Jogaila slapta, be Kęstučio žinios, sudarė Dovydiškių sutartį su ordinu tam surengtoje medžioklėje.'
-  pagrindžia:
-    - c-006
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-
+- susijęs iš [[objektai/ivykiai/Dovydiškių sutarties sudarymas (1380 m. gegužės 31 d.).md#claim-t-54161|Dovydiškių sutarties sudarymas (1380 m. gegužės 31 d.)]]: Dovydiškių sutartimi pagoniškosios Kęstučio žemės buvo išskirtos ir paliktos tolesniems naikinimams.
+- susijęs iš Gardinas: Dovydiškių sutartis 1380 m. gegužės 31 d. slapta surašyta medžioklės metu Dovydiškėse, turbūt arti Gardino.
+- susijęs iš Gardinas: Dovydiškių sutartis buvo slapta surašyta medžioklės metu Dovydiškėse, turbūt arti Gardino, 1380 m. gegužės 31 d.
 ## Reikšmingi paminėjimai
+
 - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -90,6 +107,7 @@ Sutartis buvo nukreipta prieš Kęstutį ir jo vaikus.
   statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -106,6 +124,7 @@ Sutartis buvo nukreipta prieš Kęstutį ir jo vaikus.
   statusas: verified
   pagrindžia:
     - t-002
+
 - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -121,6 +140,22 @@ Sutartis buvo nukreipta prieš Kęstutį ir jo vaikus.
   statusas: verified
   pagrindžia:
     - t-003
+
+- c-004
+  santrauka: '1380 m. Jogaila slapta, be Kęstučio žinios, sudarė Dovydiškių sutartį su ordinu tam surengtoje medžioklėje.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Bet tais pačiais (1380) metais Jogaila padarė naują
+    sutartį su visu ordinu. Ji buvo padaryta slaptai, be Kęstučio ži-
+    nios. Kad šis nieko nesuprastų, ji buvo pasirašyta tyčia tam
+    reikalui suruoštoje medžioklėje; nuo pasirašymo vietos ji va-
+    dinama Dovydiškių sutartimi.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-004
+
 - c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -134,34 +169,3 @@ Sutartis buvo nukreipta prieš Kęstutį ir jo vaikus.
   statusas: verified
   pagrindžia:
     - t-005
-- c-006
-  santrauka: '1380 m. Jogaila slapta, be Kęstučio žinios, sudarė Dovydiškių sutartį su ordinu tam surengtoje medžioklėje.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Bet tais pačiais (1380) metais Jogaila padarė naują
-    sutartį su visu ordinu. Ji buvo padaryta slaptai, be Kęstučio ži-
-    nios. Kad šis nieko nesuprastų, ji buvo pasirašyta tyčia tam
-    reikalui suruoštoje medžioklėje; nuo pasirašymo vietos ji va-
-    dinama Dovydiškių sutartimi.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-006
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
-- [[objektai/asmenys/Vaidotas]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/daiktai/Kardas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/chanas]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/ivykiai/Dovydiškių sutarties sudarymas (1380 m. gegužės 31 d.)]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/ivykiai/Dovydiškių slapta sutartis (1380 m.)]]

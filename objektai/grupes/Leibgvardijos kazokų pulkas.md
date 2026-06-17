@@ -29,6 +29,9 @@ Kautynėms paruoštą Rusijos kariuomenės pagrindą sudarė: Leibgvardijos liet
 - t-001
   global_id: t-40982
   teiginys: 'Leibgvardijos kazokų pulkas buvo įtrauktas į kautynėms paruoštos Rusijos kariuomenės pagrindą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/zodynas/ulonai|ulonai]]; mentioned_place: Podolė; mentioned_place: Rusija; mentioned_place: Vilnius; mentioned_place: Voluinė'
+  temporaliniai_duomenys: 'įvykio data: 1831 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -36,6 +39,11 @@ Kautynėms paruoštą Rusijos kariuomenės pagrindą sudarė: Leibgvardijos liet
 - t-002
   global_id: t-183658
   teiginys: 'Leibgvardijos kazokų pulkas sudarė kautynėms paruoštos Rusijos kariuomenės pagrindo dalį.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis teiginys yra nutrūkęs sąrašo fragmentas, tačiau citata patvirtina pulko vietą Rusijos kariuomenės sudėtyje.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_object: [[objektai/zodynas/ulonai|ulonai]]; mentioned_place: Podolė; mentioned_place: Rusija; mentioned_place: Vilnius; mentioned_place: Voluinė'
   pagrindžia:
     - c-002
 
@@ -106,12 +114,3 @@ Kautynėms paruoštą Rusijos kariuomenės pagrindą sudarė: Leibgvardijos liet
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Artilerija]]
-- [[objektai/grupes/Kazokai]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/zodynas/ulonai]]
-- [[objektai/grupes/Leibgvardijos Voluinės pėstininkų pulkas]]
-- [[objektai/grupes/Leibgvardijos lietuviškasis pėstininkų pulkas]]

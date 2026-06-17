@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Vytautas tėvonija vadino beveik visas prūsų žemes iki dešiniojo Vyslos intako Osos. Voluinėje tėvonijas sukūrė Sanguškos, Čartoriskiai, Vyšnioveckiai ir kitos Gediminaičių šakos. Jogaila neatsisakė teisių į Lietuvą kaip į tėvoniją, todėl Lietuva valstybingumo neprarado, bet tapo Lenkijos vasale.
+Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietuva valstybingumo neprarado, tik tapo Lenkijos vasale. Labiausiai integruota į Lietuvos Didžiosios Kunigaikštijos gyvenimą tapo Voluinė, kurią Lietuvos didysis kunigaikštis Vytautas ėmė L I E T U V O S I S T O R I J A 46 laikyti tėvonijos dalimi. Kuchmeisteriui pareiškus, kad Lietuva nesilaikanti Torunės sutarties sąlygų, kad turėtų sugriauti Veliuonos pilį ir šią žemę grąžinti Ordinui, Vytautas atkirtęs: „Jūs norite man išplėšti tėvų palikimą ir Veliuonos pilį atimti; bet kol aš jums atiduosiu, ne.
 
 ## Teiginiai
 
@@ -23,6 +23,8 @@ Vytautas tėvonija vadino beveik visas prūsų žemes iki dešiniojo Vyslos inta
 - t-001
   global_id: t-70366
   teiginys: 'Vytautas tėvonija vadino beveik visas prūsų žemes iki dešiniojo Vyslos intako Osos.'
+  sudarymo_pagrindimas: 'Citatoje įvardis „jis“ pagrįstai išplėstas į Vytauto vardą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_object: [[objektai/zodynas/tėvonija|tėvonija]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Kulmas; mentioned_place: Nemunas; mentioned_place: Prūsai; mentioned_place: Užnemunė; mentioned_place: Vysla'
   pagrindžia:
     - c-003
 
@@ -30,6 +32,8 @@ Vytautas tėvonija vadino beveik visas prūsų žemes iki dešiniojo Vyslos inta
 - t-002
   global_id: t-70368
   teiginys: 'Voluinėje tėvonijas sukūrė Sanguškos, Čartoriskiai, Vyšnioveckiai ir kitos Gediminaičių šakos.'
+  sudarymo_pagrindimas: 'Pradinė citata per silpna Vytauto teiginiui, bet aiškiai remia faktą apie tėvonijų kūrimą Voluinėje.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_group: [[objektai/grupes/Vyšnioveckiai|Vyšnioveckiai]]; mentioned_group: [[objektai/grupes/Čartoriskiai|Čartoriskiai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/tėvonija|tėvonija]]; mentioned_place: Ostrohas; mentioned_place: Voluinė'
   pagrindžia:
     - c-001
 
@@ -37,6 +41,8 @@ Vytautas tėvonija vadino beveik visas prūsų žemes iki dešiniojo Vyslos inta
 - t-003
   global_id: t-70369
   teiginys: 'Jogaila neatsisakė teisių į Lietuvą kaip į tėvoniją, todėl Lietuva valstybingumo neprarado, bet tapo Lenkijos vasale.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai susieja Jogailos teises į tėvoniją su Lietuvos statusu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Valstybės Taryba|Valstybės Taryba]]; mentioned_object: [[objektai/zodynas/tėvonija|tėvonija]]; mentioned_object: [[objektai/zodynas/vasalas|vasalas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lenkija; mentioned_place: Lenkijos karalystė; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -44,6 +50,11 @@ Vytautas tėvonija vadino beveik visas prūsų žemes iki dešiniojo Vyslos inta
 - t-005
   global_id: t-183484
   teiginys: 'Lietuvos didysis kunigaikštis Vytautas Voluinę laikė savo tėvonijos dalimi.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pašalintas puslapio antraštės triukšmas ir paliktas citatos remiamas faktas.'
+  susije_objektai: 'territory: Europa; territory: Lietuva; territory: Ostrohas; territory: Voluinė; mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_group: [[objektai/grupes/Vyšnioveckiai|Vyšnioveckiai]]; mentioned_group: [[objektai/grupes/Čartoriskiai|Čartoriskiai]]; mentioned_object: [[objektai/zodynas/Lietuvos didysis kunigaikštis|Lietuvos didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/tėvonija|tėvonija]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Ostrohas; mentioned_place: Voluinė'
   pagrindžia:
     - c-005
 
@@ -140,23 +151,3 @@ Vytautas tėvonija vadino beveik visas prūsų žemes iki dešiniojo Vyslos inta
   statusas: verified
   pagrindžia:
     - t-005
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bajorai]]
-- [[objektai/grupes/Baltai]]
-- [[objektai/grupes/Chodkevičiai]]
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
-- [[objektai/zodynas/Lietuvos didysis kunigaikštis]]
-- [[objektai/grupes/Radvilos]]
-- [[objektai/grupes/Valstybės Taryba]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/grupes/Vyšnioveckiai]]
-- [[objektai/zodynas/didysis kunigaikštis]]
-- [[objektai/zodynas/kunigaikštija]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/tėvonija]]
-- [[objektai/zodynas/vasalas]]
-- [[objektai/grupes/Čartoriskiai]]
-- [[objektai/grupes/Bajorų seimas|Bajorų seimas (seimas)]]
-- [[objektai/grupes/Lenkijos valstybės taryba|Lenkijos valstybės taryba (institucija)]]

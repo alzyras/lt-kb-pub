@@ -29,6 +29,11 @@ Dusburgietis teigia, kad dar apie tą patį Tais pačiais 1314 metais, apie grab
 - t-001
   global_id: t-60423
   teiginys: 'Brolis Rebodas iš Izenburgo žuvo 1314 m. kovoje prie Sizditės pilies Medininkų valsčiuje.'
+  sudarymo_pagrindimas: 'Pirminis teiginys nemini objekto aiškiai; citata palaiko faktą apie Rebodo žūtį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Medininkai; mentioned_place: Pilėnai; mentioned_place: Sizditė'
+  temporaliniai_duomenys: 'įvykio data: 1314 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pirminis teiginys nemini objekto aiškiai; citata palaiko faktą apie Rebodo žūtį.'
   pagrindžia:
     - c-001
 
@@ -53,13 +58,3 @@ Dusburgietis teigia, kad dar apie tą patį Tais pačiais 1314 metais, apie grab
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Henrikas Rutėnas]]
-- [[objektai/asmenys/Henrikas iš Plockės]]
-- [[objektai/asmenys/Kviramas iš Valdavos]]
-- [[objektai/asmenys/Mindotė]]
-- [[objektai/asmenys/Spagerotė]]
-- [[objektai/asmenys/Ulrichas iš Tetingeno]]

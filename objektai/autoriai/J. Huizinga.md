@@ -3,10 +3,18 @@ tipas: autorius
 pavadinimas: 'J. Huizinga'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+datos:
+  - '1970 m.'
+date_start: '1970'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'XX a.'
 ---
 # J. Huizinga
 
@@ -20,6 +28,11 @@ Huizinga) yra labai platus objektas.
 - t-001
   global_id: t-100126
   teiginys: 'J. Huizingos sąvoka „vidurinių amžių ruduo“ citatoje siejama su Europos vidurinių amžių pabaiga.'
+  sudarymo_pagrindimas: 'Pradinis teiginys yra fragmentiškas, bet citata leidžia suformuluoti faktą apie Huizingos sąvokos vartojimą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Europa; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1970 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys yra fragmentiškas, bet citata leidžia suformuluoti faktą apie Huizingos sąvokos vartojimą.'
   pagrindžia:
     - c-001
 

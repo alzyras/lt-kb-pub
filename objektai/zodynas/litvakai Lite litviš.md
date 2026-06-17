@@ -23,6 +23,8 @@ Visą istorinės Lietuvos laikotarpį joje gyvenę žydai vadino šią šalį �
 - t-001
   global_id: t-26549
   teiginys: 'Lietuvoje susiformavusi jidiš kalbos tarmė litviš ilgainiui tapo norminės jidiš kalbos pagrindu.'
+  sudarymo_pagrindimas: 'Teiginys gramatiškai ir tiksliai perteikia citatos informaciją apie litviš tarmę.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Jidiš|Jidiš]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -30,6 +32,8 @@ Visą istorinės Lietuvos laikotarpį joje gyvenę žydai vadino šią šalį �
 - t-002
   global_id: t-26550
   teiginys: 'Kai kurių vertinimu, kuriant Izraelį reikšmingiausius vaidmenis atliko iš LDK erdvės kilę žydai, vadinęsi litvakais.'
+  sudarymo_pagrindimas: 'Pradinis teiginys fragmentiškas, citata leidžia suformuluoti aiškų sakinį.'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Ukraina'
   pagrindžia:
     - c-003
 
@@ -37,6 +41,8 @@ Visą istorinės Lietuvos laikotarpį joje gyvenę žydai vadino šią šalį �
 - t-003
   global_id: t-26551
   teiginys: 'Visą istorinės Lietuvos laikotarpį joje gyvenę žydai vadino šią šalį „Lite“, o save – „litvakais“.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir tiksliai remiasi citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/istorinė Lietuva|istorinė Lietuva]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -44,9 +50,18 @@ Visą istorinės Lietuvos laikotarpį joje gyvenę žydai vadino šią šalį �
 - t-004
   global_id: t-183446
   teiginys: 'Kai kurių vertinimu, kuriant Izraelį reikšmingiausius vaidmenis atliko iš ATR ir LDK erdvės kilę žydai, vadinęsi litvakais.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pašalintas kontekstinis fragmentas ir aiškiai įvardyta, apie kokią erdvę bei valstybę kalbama.'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Ukraina'
   pagrindžia:
     - c-003
-
+- susijęs iš [[objektai/grupes/Litvakai.md#claim-t-45106|Litvakai]]: Litvakas reiškė žydą iš istorinės Lietuvos, tačiau šiuo vardu imta vadinti ir savita gyvensena pasižymėjusius žydus.
+- susijęs iš [[objektai/grupes/Žydai.md#claim-t-117389|Žydai]]: Vilniaus Gaono autoritetas prisidėjo prie litvakų įvaizdžio kaip religinei tradicijai, racionalumui ir išsimokslinimui atsidavusių žydų.
+- susijęs iš Babilono Talmudas: Sklido gandai, kad Vilniaus išminčiai atmintinai mokėjo visus 64 Talmudo tomus.
+- susijęs iš Lietuva: Ir šiandien vartojama sąvoka „litvakas“ susijusi su gyvenamosios vietos pavadinimu – tai žydas iš Lietuvos (turima omenyje istorinė Lietuva – LDK po Liublino unijos).
+- susijęs iš [[objektai/zodynas/litvakas litviš.md#claim-t-22223|litvakas litviš]]: Litviš buvo Lietuvoje susiformavusi jidiš kalbos tarmė, ilgainiui tapusi norminės jidiš kalbos pagrindu.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -95,14 +110,3 @@ Visą istorinės Lietuvos laikotarpį joje gyvenę žydai vadino šią šalį �
   pagrindžia:
     - t-004
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Lite litvakai]]
-- [[objektai/zodynas/litvakas litviš]]
-- [[objektai/grupes/Žydai]]
-- [[objektai/zodynas/Jidiš]]
-- [[objektai/zodynas/istorinė Lietuva]]
-- [[objektai/grupes/Litvakai]]
-- [[objektai/paprociai/Istorinės Lietuvos žydų savivardystė „Lite“ ir „litvakai“]]
-- [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]

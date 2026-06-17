@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Komentare nurodoma, kad komentare pažymima, kad pagal herbynus Davainų giminės ženklas buvęs ne Dubnios. Dubnios herbas buvo Habdanko herbo atmaina su baltu kryžiumi raudoname skyde ir kryžiumi tarp dviejų jaučio ragų virš skydo.
+Komentare nurodoma, kad komentare teigiama, kad aptariamame intarpe buvo medžiagos apie Dubnios herbo kilmę. Komentare nurodoma, kad komentare Dubnia aprašoma kaip Habdanko herbo atmaina; Komentare nurodoma, kad Dubnios herbo skyde yra baltas kryžius raudoname lauke; Komentare nurodoma, kad virš skydo, šalme, vaizduojamas kryžius tarp dviejų jaučio ragų.
 
 ## Pavadinimai šaltiniuose
 
@@ -41,7 +41,10 @@ Nenurodyta
 <a id="claim-t-186864"></a>
 - t-001
   global_id: t-186864
-  teiginys: 'Komentare nurodoma, kad komentare pažymima, kad pagal herbynus Davainų giminės ženklas buvęs ne Dubnios.'
+  teiginys: 'Pagal herbynus Davainų giminės ženklas buvo ne Dubnios, o į Seligos herbą panašus kryžius gulsčiame pusmėnulyje.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pašalintas pasikartojantis komentaro minėjimas ir sutvarkytas fragmentiškas šaltinio tekstas.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Herbas|Herbas]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/daiktai/Seligos herbas|Seligos herbas]]'
   pagrindžia:
     - c-002
 
@@ -49,6 +52,9 @@ Nenurodyta
 - t-002
   global_id: t-186865
   teiginys: 'Dubnios herbas buvo Habdanko herbo atmaina su baltu kryžiumi raudoname skyde ir kryžiumi tarp dviejų jaučio ragų virš skydo.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir paremtas heraldiniu komentaru.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Habdankas|Habdankas]]; mentioned_object: [[objektai/daiktai/Herbas|Herbas]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/daiktai/Skydas|Skydas]]'
   pagrindžia:
     - c-001
 
@@ -69,6 +75,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: 'Pagal herbynus Davainų giminės ženklas buvo ne Dubnios, o į Seligos herbą panašus kryžius gulsčiame pusmėnulyje.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     Bei pagal
@@ -84,14 +91,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/simbolis]]
-
-### Susiję objektai
-- [[objektai/daiktai/Habdankas]]
-- [[objektai/daiktai/Herbas]]
-- [[objektai/daiktai/Kryžius]]
-- [[objektai/daiktai/Seligos herbas]]
-- [[objektai/daiktai/Skydas]]

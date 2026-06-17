@@ -22,9 +22,14 @@ Koeppenas leidžia svarbius vokiečių ordino generalinių prokuratorių praneš
 - t-001
   global_id: t-64598
   teiginys: 'H. Koeppenas su K. Forstreuteriu leido svarbius Vokiečių ordino generalinių prokuratorių pranešimus.'
+  sudarymo_pagrindimas: 'Reikia išplėsti bendraautorį ir pašalinti santrumpą, kuri nėra būtina faktui.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/autoriai/H. Koeppen.md#claim-t-60712|H. Koeppen]]: H. Koeppenas parengė „Preussisches Urkundenbuch“ trečio tomo 1342–1345 m. dalį ir ketvirtą tomą.
+- susijęs iš [[objektai/autoriai/Lenkų istorikai ir Lietuvos istoriografijos tyrėjai.md#claim-t-179515|Lenkų istorikai ir Lietuvos istoriografijos tyrėjai]]: M. Zeilleris 1647 m. išleido Didžiosios Lietuvos Kunigaikštystės istoriją, kuri anuomet buvo labai vertinama ir sulaukė kelių laidų.
+- susijęs iš [[objektai/autoriai/Lenkų istorikai ir Lietuvos istoriografijos tyrėjai.md#claim-t-179528|Lenkų istorikai ir Lietuvos istoriografijos tyrėjai]]: M. Zeilleris 1647 m. išleido Didžiosios Lietuvos Kunigaikštystės istoriją, kuri anuomet buvo labai vertinama.
+- susijęs iš [[objektai/autoriai/M. Zeilleris.md#claim-t-30854|M. Zeilleris]]: M. Zeilleris 1647 m. išleido Didžiosios Lietuvos Kunigaikštystės istoriją, kuri anuomet buvo vertinama ir sulaukė kelių laidų.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -43,7 +48,3 @@ Koeppenas leidžia svarbius vokiečių ordino generalinių prokuratorių praneš
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Vokiečiai]]

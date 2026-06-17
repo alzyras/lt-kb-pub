@@ -141,10 +141,3 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija]]
-- [[objektai/zodynas/kapitula]]
-- [[objektai/zodynas/vyskupystė]]
-- [[objektai/daiktai/Kryžius]]

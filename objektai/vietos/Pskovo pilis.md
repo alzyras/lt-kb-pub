@@ -3,11 +3,17 @@ tipas: vieta
 pavadinimas: 'Pskovo pilis (pilis)'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+datos:
+  - '1299 m.'
+date_start: '1299'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - pilis
   - vieta
+amziai:
+  - 'XIII'
 ---
 # Pskovo pilis (pilis)
 
@@ -21,6 +27,9 @@ Pačią Pskovo pilį jis apjuosė akmens mūrais, kurie ligi šiol tebevadinami 
 - t-001
   global_id: t-32489
   teiginys: 'Pskovo pilis buvo apjuosta akmens mūrais, kurie vadinti Daumanto sienomis.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_person: [[objektai/asmenys/Daumantas|Daumantas]]; mentioned_place: Livonija; mentioned_place: Pskovas'
+  temporaliniai_duomenys: 'įvykio data: 1299 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

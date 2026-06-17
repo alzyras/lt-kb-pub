@@ -3,6 +3,10 @@ tipas: posakis
 pavadinimas: '„duona, tolerancija, demokratija, konstitucija, barokas“'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1791 m.'
+date_start: '1791'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -10,6 +14,8 @@ tags:
   - mokslininkas
   - ordinas
   - posakis
+amziai:
+  - 'XVIII'
 ---
 # „duona, tolerancija, demokratija, konstitucija, barokas“
 
@@ -23,6 +29,11 @@ davė labai reikšmingus fenomenus, kurių trumpa formulė būtų tokia – duon
 - t-001
   global_id: t-20890
   teiginys: 'Abiejų Tautų Respublikos XVII–XVIII a. įnašas į Europos ir pasaulio civilizaciją apibendrintas formule „duona, tolerancija, demokratija, konstitucija, barokas“.'
+  sudarymo_pagrindimas: 'Sakinys pradėtas taisyklingai ir aiškiai susietas su citatoje nurodytu objektu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/barokas|barokas]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas|Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1791 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Sakinys pradėtas taisyklingai ir aiškiai susietas su citatoje nurodytu objektu.'
   pagrindžia:
     - c-001
 
@@ -56,16 +67,3 @@ davė labai reikšmingus fenomenus, kurių trumpa formulė būtų tokia – duon
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]
-- [[objektai/zodynas/barokas]]
-- [[objektai/zodynas/Miera|miera]]
-- [[objektai/zodynas/unija]]
-- [[objektai/grupes/Žydai]]
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/paprociai/Abiejų Tautų Respublikos religinės tolerancijos, bajoriškosios demokratijos ir teisinės tradicijos]]
-- [[objektai/grupes/Vilniaus baroko architektūros mokykla]]
-- [[objektai/zodynas/bajoriškoji demokratija]]
-- [[objektai/zodynas/bajoriškoji demokratija luominė monarchija]]

@@ -3,8 +3,14 @@ tipas: saltinis
 pavadinimas: 'Prokopijaus veikalas'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+datos:
+  - '559 m.'
+date_start: '559'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'VI'
 ---
 # Prokopijaus veikalas
 
@@ -18,6 +24,14 @@ Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose; apie 559 m. jie s
 - t-001
   global_id: t-186343
   teiginys: 'Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose; apie 559 m. jie su langobardais įsiveržė į Italiją.'
+  teiginio_tipas: 'saltinio_teiginys'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pataisyta, kad Prokopijaus autorystė aiškiai sietųsi tik su citatoje nurodyta dalimi.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Gepidai|Gepidai]]; mentioned_group: [[objektai/grupes/Herulai|Herulai]]; mentioned_group: [[objektai/grupes/Langobardai|Langobardai]]; mentioned_place: Italija'
+  temporaliniai_duomenys: 'įvykio data: 559 m; įvykio data: apie 559 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
+  temporalinis_llm_pakomentavimas: 'Pataisyta, kad Prokopijaus autorystė aiškiai sietųsi tik su citatoje nurodyta dalimi.'
   pagrindžia:
     - c-001
 

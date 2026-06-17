@@ -16,18 +16,19 @@ tags:
 Tik penkių valstybių atstovai (Kolumbijos, Italijos, Paragvajaus, Persijos ir Portugalijos) teišdrįso tada ginti Pabaltijo valstybių priėmimą su visais iš to einančiais padariniais.
 
 ## Teiginiai
+
 <a id="claim-t-02670"></a>
 - t-001
   global_id: t-02670
   teiginys: 'Persijos atstovai buvo tarp penkių valstybių atstovų, gynusių Pabaltijo valstybių priėmimą.'
+  sudarymo_pagrindimas: 'Pirminis sakinys per ilgas ir labiau apie penkių valstybių grupę; perrašyta apie Persiją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_place: Lietuva; mentioned_place: Rusija'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-
+- susijęs iš Paragvajus: Paragvajaus atstovai buvo tarp penkių valstybių atstovų, gynusių Pabaltijo valstybių priėmimą.
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Persijos atstovai buvo tarp penkių valstybių atstovų, gynusių Pabaltijo valstybių priėmimą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     15 —
@@ -41,10 +42,8 @@ Tik penkių valstybių atstovai (Kolumbijos, Italijos, Paragvajaus, Persijos ir 
     atstovai (Kolumbijos, Italijos, Paragvajaus, Persijos ir Portu-
     galijos) teišdrįso tada ginti Pabaltijo valstybių priėmimą su visais
     iš to einančiais padariniais.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

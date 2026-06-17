@@ -48,6 +48,11 @@ Nenurodyta
 - t-001
   global_id: t-26399
   teiginys: '1387 m. Lietuvos ir 1413–1417 m. Žemaitijos krikštai tik nedaug priartino visuomenę prie krikščionybės, nes sunaikintos tik svarbiausios pagoniškos šventvietės.'
+  sudarymo_pagrindimas: 'Reikia įtraukti citatoje esančias datas ir suformuluoti sklandesnį enciklopedinį sakinį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/gotika|gotika]]; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1387 m.; įvykio data: 1413-1417; įvykio data: 1417 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia įtraukti citatoje esančias datas ir suformuluoti sklandesnį enciklopedinį sakinį.'
   pagrindžia:
     - c-001
 
@@ -74,10 +79,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/gotika]]
-- [[objektai/zodynas/pagonybė]]
-- [[objektai/paprociai/Pagoniškų elementų ir pagoniškųjų tikėjimų integravimas į krikščioniškas praktikas]]
-- [[objektai/paprociai/Pagoniškųjų tikėjimų integravimas į krikščionišką praktiką]]

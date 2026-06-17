@@ -37,6 +37,14 @@ Nenurodyta
 - t-001
   global_id: t-185771
   teiginys: 'Kazimieras, sužinojęs apie skitų įsiveržimą į Lenkiją, pradėjo ryžtingiau rūpintis Lietuvos reikalais ir įsitraukė į karą dėl Podolės.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pašalintas nutrūkimas ir įvardytas sakinio subjektas pagal citatos kontekstą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/skitai|skitai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Krokuva; mentioned_place: Lietuva; mentioned_place: Podolė'
+  temporaliniai_duomenys: 'įvykio data: 1489 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas nutrūkimas ir įvardytas sakinio subjektas pagal citatos kontekstą.'
   pagrindžia:
     - c-001
 
@@ -75,12 +83,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Jonas]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/zodynas/skitai]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/asmenys/Kazimieras Jogailaitis]]
-- [[objektai/posakiai/Ugnimi ir kalaviju]]

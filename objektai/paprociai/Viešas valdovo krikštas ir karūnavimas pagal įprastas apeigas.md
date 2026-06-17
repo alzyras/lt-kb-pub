@@ -33,6 +33,11 @@ Nenurodyta
 - t-001
   global_id: t-185866
   teiginys: 'Mindaugui buvo žadėta, kad priėmus krikščionybę jis pagal apeigas bus pripažintas krikščionišku valdovu ir gaus karaliaus vardą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pašalintas neaiškus įvardis; citata palaiko sąlyginį pažadą Mindaugui.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -55,7 +60,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]

@@ -39,6 +39,9 @@ Nenurodyta
 - t-001
   global_id: t-62917
   teiginys: 'Vėluvos pilies vadas Tirskas su kitais pilyje buvusiais vyrais išsižadėjo stabmeldystės ir tapo krikščionių tikėjimo gynėjais.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Pradinis teiginys gremėzdiškas; citata palaiko glaustą faktą apie Tirską ir jo vyrus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Nadruviai|Nadruviai]]; mentioned_person: [[objektai/asmenys/Tirskas|Tirskas]]; mentioned_place: Vėluva'
   pagrindžia:
     - c-002
 
@@ -46,6 +49,9 @@ Nenurodyta
 - t-002
   global_id: t-62918
   teiginys: 'Karaliaučiaus pastatymo metais nadruviai, skalviai ir sūduviai nuniokojo Sembą ir grįždami pastatė Vėluvos pilį.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pradinis teiginys fragmentiškas ir su OCR triukšmu; citata palaiko aiškų perrašymą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Nadruviai|Nadruviai]]; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_place: Nadruva; mentioned_place: Semba; mentioned_place: Vėluva'
   pagrindžia:
     - c-001
 
@@ -88,11 +94,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Nadruviai]]
-- [[objektai/grupes/Sembai]]
-- [[objektai/grupes/Skalviai]]
-- [[objektai/grupes/Sūduviai]]
-- [[objektai/asmenys/Tirskas]]

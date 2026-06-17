@@ -20,6 +20,8 @@ Kromerio kronikos.
 - t-001
   global_id: t-30838
   teiginys: 'M. Kromerio kronika buvo tarp XVI a. išspausdintų lenkų kronikų, naudotų Lietuvos istorijos pasakojimui.'
+  sudarymo_pagrindimas: 'Citata mini Kromerio kronikas konkrečiame istorinių šaltinių kontekste.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
 
@@ -41,8 +43,3 @@ Kromerio kronikos.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Rusai]]

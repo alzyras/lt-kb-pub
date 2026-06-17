@@ -20,9 +20,10 @@ Baranovskio brigada atakuoja 2-ojo pėst.
 - t-001
   global_id: t-40892
   teiginys: 'Lapkričio 17 d. gen. J. Baranovskio brigada atakavo 2-ojo pėstininkų pulko pozicijas ir privertė lietuvius pasitraukti iš Giedraičių.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/M. Butkievičiaus kavalerijos brigada|M. Butkievičiaus kavalerijos brigada]]; mentioned_group: [[objektai/grupes/brigada|brigada]]; mentioned_place: Giedraičiai; mentioned_place: Jašiūnai; mentioned_place: Videniškis'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/grupes/M. Butkievičiaus kavalerijos brigada.md#claim-t-41078|M. Butkievičiaus kavalerijos brigada]]: Plk. M. Butkievičiaus kavalerijos brigada prasiveržė į lietuvių užnugarį ir iki dienos pabaigos pasiekė Videniškio rajoną.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -44,9 +45,3 @@ Baranovskio brigada atakuoja 2-ojo pėst.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/M. Butkievičiaus kavalerijos brigada]]
-- [[objektai/grupes/brigada]]

@@ -5,6 +5,7 @@ saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1382 m.'
+  - '1391 m.'
   - '1393 m.'
 date_start: '1382'
 date_end: '1393'
@@ -28,6 +29,11 @@ Mykolą paskirtas Ordino didžiuoju maršalu, 1387 metais per Apreiški­ mo Mar
 - t-001
   global_id: t-86586
   teiginys: 'Konradas Valenrodas 1387 metais tapo Ordino didžiuoju komtūru, arba arkikomtūru.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus ir tiksliai perteikia citatoje nurodytas pareigas bei datą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Arkikomtūras|Arkikomtūras]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/asmenys/Konradas Valenrodas|Konradas Valenrodas]]; mentioned_place: Lietuva; mentioned_place: Prūsija'
+  temporaliniai_duomenys: 'įvykio data: 1391 m.; įvykio data: 1393 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus ir tiksliai perteikia citatoje nurodytas pareigas bei datą.'
   pagrindžia:
     - c-001
 
@@ -71,21 +77,3 @@ Mykolą paskirtas Ordino didžiuoju maršalu, 1387 metais per Apreiški­ mo Mar
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Konradas]]
-- [[objektai/asmenys/Konradas Valenrodas]]
-- [[objektai/zodynas/kapitula]]
-- [[objektai/zodynas/komtūras]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/zodynas/Arkikomtūras]]
-- [[objektai/asmenys/Konradas Ciolneris Rotenšteinas]]
-- [[objektai/autoriai/M. Strijkovskis Stryjkowski]]
-- [[objektai/autoriai/Miechovita]]
-- [[objektai/autoriai/Miechowita Miechovita]]
-- [[objektai/autoriai/M. Strijkovskis|Motiejus Strijkovskis (kronikininkas)]]
-- [[objektai/zodynas/Ordino maršalas didysis maršalas]]
-- [[objektai/zodynas/didysis magistras]]

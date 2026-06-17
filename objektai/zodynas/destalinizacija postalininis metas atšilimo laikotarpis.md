@@ -20,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-Atšilimo laikotarpiu po J. Stalino mirties sovietinėje Lietuvoje oficialiai nuolaidžiau vertintas tautinis kultūrinis palikimas. Postalininiu metu atsisakyta masinio fizinio teroro, bet toliau vykdytas priverstinis ideologinis gyventojų apdorojimas. Postalininiu metu atsisakyta masinio fizinio teroro, bet toliau vykdytas priverstinis ideologinis gyventojų apdorojimas.
+Postalininiu metu atsisakius masinio fizinio teroro, ne taip atvirai ir masiškai pažeidinėjamos žmogaus teisės ir laisvės, tačiau toliau vykdytas gyventojų priverstinis ideologinis apdorojimas, taikomi administraciniai metodai. Lietuvos visuomenėje konformizmas ypač išplito destalinizacijos metu. Padėtis kultūroje ėmė švelnėti tik šeštojo dešimtmečio antroje pusėje, prasidėjus destalinizacijai.
 
 ## Teiginiai
 
@@ -28,6 +28,8 @@ Atšilimo laikotarpiu po J. Stalino mirties sovietinėje Lietuvoje oficialiai nu
 - t-001
   global_id: t-22113
   teiginys: 'Atšilimo laikotarpiu po J. Stalino mirties sovietinėje Lietuvoje oficialiai nuolaidžiau vertintas tautinis kultūrinis palikimas.'
+  sudarymo_pagrindimas: 'Perrašyta į aiškesnį sakinį su objektu ir vieta.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/atšilimas|atšilimas]]; mentioned_person: [[objektai/asmenys/Mikalojus Konstantinas Čiurlionis|Mikalojus Konstantinas Čiurlionis]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -35,6 +37,8 @@ Atšilimo laikotarpiu po J. Stalino mirties sovietinėje Lietuvoje oficialiai nu
 - t-002
   global_id: t-22115
   teiginys: 'Postalininiu metu atsisakyta masinio fizinio teroro, bet toliau vykdytas priverstinis ideologinis gyventojų apdorojimas.'
+  sudarymo_pagrindimas: 'Teiginys pilnai perteikia citatos faktą apie postalininį metą.'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -101,18 +105,3 @@ Atšilimo laikotarpiu po J. Stalino mirties sovietinėje Lietuvoje oficialiai nu
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Mikalojus Konstantinas Čiurlionis|Mikalojus Konstantinas Čiurlionis (dailininkas)]]
-- [[objektai/zodynas/atšilimas]]
-- [[objektai/asmenys/Balys Sruoga]]
-- [[objektai/asmenys/Jonas Mačiulis-Maironis]]
-- [[objektai/asmenys/Jurgis Baltrušaitis]]
-- [[objektai/asmenys/M. K. Čiurlionis]]
-- [[objektai/autoriai/Maironis]]
-- [[objektai/asmenys/V. Krėvė-Mickevičius]]
-- [[objektai/asmenys/Vincas Krėvė-Mickevičius]]
-- [[objektai/asmenys/Vincas Mykolaitis-Putinas]]
-- [[objektai/zodynas/destalinizacija atšilimo laikotarpis]]

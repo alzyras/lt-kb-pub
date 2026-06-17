@@ -16,18 +16,18 @@ tags:
 Kaip tik tuo metu Varšuvoje susidarė bajorijos konfederacija, kuri skelbėsi norinti sujungti į vieną kūną visas buvusios Respublikos žemes ir visus kvietė į bendrą darbą.
 
 ## Teiginiai
+
 <a id="claim-t-72035"></a>
 - t-001
   global_id: t-72035
   teiginys: 'Varšuvoje susidariusi bajorijos konfederacija siekė sujungti visas buvusios Respublikos žemes į vieną kūną.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/zodynas/konfederacija|konfederacija]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_place: Lietuva; mentioned_place: Varšuva; mentioned_place: Viena'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Varšuvoje susidariusi bajorijos konfederacija siekė sujungti visas buvusios Respublikos žemes į vieną kūną.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tas jo apsivylimas daug prisidėjo, kad jis vis nieko
@@ -37,17 +37,8 @@ Kaip tik tuo metu Varšuvoje susidarė bajorijos konfederacija, kuri skelbėsi n
     tik tuo metu Varšuvoje susidarė bajorijos konfederacija, kuri
     skelbėsi norinti sujungti į vieną kūną visas buvusios Respubli-
     kos žemes ir visus kvietė į bendrą darbą.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Kūnas]]
-- [[objektai/zodynas/unija]]
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/zodynas/konfederacija]]

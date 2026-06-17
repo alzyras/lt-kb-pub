@@ -18,6 +18,11 @@ Pasiuntiniams buvo uždrausta ką nors spręsti, todėl jie turėjo viską prane
 - t-001
   global_id: t-185448
   teiginys: 'Pasiuntiniams buvo uždrausta ką nors spręsti, todėl jie turėjo viską pranešti luomams, susirinkusiems į Bresto seimą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata pagrindžia aiškų faktą apie Bresto seimą; pašalintas OCR triukšmas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]'
   pagrindžia:
     - c-001
 
@@ -41,8 +46,3 @@ Pasiuntiniams buvo uždrausta ką nors spręsti, todėl jie turėjo viską prane
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/zodynas/seimas]]

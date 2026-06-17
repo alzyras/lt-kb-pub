@@ -20,6 +20,8 @@ Pagaliau Raynoldo Bažny­ čios istorija ir paskesni vėliau Lietu­ voje vieš
 - t-001
   global_id: t-88328
   teiginys: 'Raynaldo Bažnyčios istorija aiškino kai kuriuos Gedimino valdymo ir politikos aspektus.'
+  sudarymo_pagrindimas: 'Citata palaiko šaltinio reikšmę Gedimino valdymo ir politikos aiškinimui.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Ryga'
   pagrindžia:
     - c-001
 

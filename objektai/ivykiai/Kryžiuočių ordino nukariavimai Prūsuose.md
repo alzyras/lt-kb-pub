@@ -188,15 +188,3 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-006
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Aisčiai]]
-- [[objektai/asmenys/Kristijonas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/daiktai/Kryžius]]
-- [[objektai/daiktai/Pilys]]
-- [[objektai/zodynas/pagonybė]]
-- [[objektai/zodynas/įgula]]
-- [[objektai/ivykiai/Kryžiaus karai]]
-- [[objektai/zodynas/ekspansija]]

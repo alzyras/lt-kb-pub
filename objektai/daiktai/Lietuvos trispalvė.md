@@ -5,6 +5,8 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1919 m.'
+  - '1920 m.'
+  - '1988 m.'
   - '2026 m.'
 date_start: '1919'
 date_end: '2026'
@@ -20,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-Liepos 9 d. Vingio parke LPS vadovybė pareikalavo legalizuoti tautinius simbolius: trispalvę ir „Tautišką giesmę“. Spalio 6-ąją Aukščiausiosios Tarybos Prezidiumas legalizavo Lietuvos trispalvę. Po Aleksandro Jakovlevo apsilankymo Lietuvoje LKP vadovybė oficialiai pripažino trispalvę ir „Tautišką giesmę“.
+Lietuvos trispalvė minima kaip materialus valstybės simbolis 1919 m. rugsėjo 26 d. Kaune vykusioje džiaugsmo manifestacijoje, kai lėktuvai danguje tempė trispalvę.
 
 ## Pavadinimai šaltiniuose
 
@@ -55,6 +57,8 @@ Nenurodyta
 - t-001
   global_id: t-75334
   teiginys: 'Liepos 9 d. Vingio parke LPS vadovybė pareikalavo legalizuoti tautinius simbolius: trispalvę ir „Tautišką giesmę“.'
+  sudarymo_pagrindimas: 'Perrašyta tiksliau pagal citatą, išlaikant faktinę atramą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]'
   pagrindžia:
     - c-002
 
@@ -62,6 +66,11 @@ Nenurodyta
 - t-002
   global_id: t-75335
   teiginys: 'Spalio 6-ąją Aukščiausiosios Tarybos Prezidiumas legalizavo Lietuvos trispalvę.'
+  sudarymo_pagrindimas: 'Teiginys yra trumpas, gramatiškas ir pakankamai pagrįstas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/autoriai/Vincas Kudirka|Vincas Kudirka]]; mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Aukščiausiosios Tarybos rūmai; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1988 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra trumpas, gramatiškas ir pakankamai pagrįstas citata.'
   pagrindžia:
     - c-003
 
@@ -69,6 +78,8 @@ Nenurodyta
 - t-003
   global_id: t-75336
   teiginys: 'Po Aleksandro Jakovlevo apsilankymo Lietuvoje LKP vadovybė oficialiai pripažino trispalvę ir „Tautišką giesmę“.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nesusijęs su citata, o citata pagrindžia trispalvės pripažinimą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Romualdas Ozolas|Romualdas Ozolas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-004
 
@@ -76,6 +87,11 @@ Nenurodyta
 - t-004
   global_id: t-75337
   teiginys: 'Spalio 6-ąją Aukščiausiosios Tarybos Prezidiumas legalizavo Lietuvos trispalvę, „Tautišką giesmę“, Vytį ir Gediminaičių stulpus.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai pagrįstas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Stulpai|Stulpai]]; mentioned_object: [[objektai/autoriai/Vincas Kudirka|Vincas Kudirka]]; mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Aukščiausiosios Tarybos rūmai; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1988 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai pagrįstas citata.'
   pagrindžia:
     - c-003
 
@@ -83,6 +99,8 @@ Nenurodyta
 - t-005
   global_id: t-75338
   teiginys: 'Po Aleksandro Jakovlevo apsilankymo Lietuvoje LKP oficialiai pripažino trispalvę ir „Tautišką giesmę“.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir atitinka citatos informaciją.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Romualdas Ozolas|Romualdas Ozolas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-004
 
@@ -90,6 +108,11 @@ Nenurodyta
 - t-006
   global_id: t-75339
   teiginys: '1919 m. rugsėjo 26 d. virš Kauno skraidę lėktuvai tempė Lietuvos trispalvę.'
+  sudarymo_pagrindimas: 'Pradinis teiginys per platus, o citata tiesiogiai paremia konkretesnį faktą apie trispalvę.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Lėktuvai|Lėktuvai]]; mentioned_object: [[objektai/zodynas/de facto|de facto]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_place: Didžioji Britanija; mentioned_place: Kaunas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Prancūzija'
+  temporaliniai_duomenys: 'įvykio data: 1919 m.; įvykio data: 1920 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys per platus, o citata tiesiogiai paremia konkretesnį faktą apie trispalvę.'
   pagrindžia:
     - c-001
 
@@ -171,19 +194,3 @@ Nenurodyta
 ## Šaltiniai ir įrodymai
 
 Nenurodyta
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/simbolis]]
-
-### Susiję objektai
-- [[objektai/asmenys/A. Smetona]]
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/asmenys/Gediminas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Romualdas Ozolas]]
-- [[objektai/daiktai/Vytis]]
-- [[objektai/zodynas/de facto]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/daiktai/Lėktuvai]]
-- [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis]]

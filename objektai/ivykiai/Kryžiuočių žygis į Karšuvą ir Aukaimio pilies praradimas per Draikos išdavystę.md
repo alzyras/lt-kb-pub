@@ -30,6 +30,11 @@ Nenurodyta
 - t-001
   global_id: t-185726
   teiginys: 'Aukaimio pilis buvo prarasta per jos viršininko Draikos išdavystę.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis teiginys palaikomas, bet reikia pašalinti perteklinę autorystės formulę.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Draika|Draika]]; mentioned_place: Aukaimio pilis; mentioned_place: Aukaimis; mentioned_place: Ragainė'
   pagrindžia:
     - c-001
 
@@ -37,6 +42,11 @@ Nenurodyta
 - t-002
   global_id: t-185727
   teiginys: 'Draika per sūnų Piną susitarė su Ragainės komtūru Folradu ir įleido jo kariuomenę į Aukaimio pilį.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata palaiko konkretesnį sakinį su aiškiais veikėjais ir veiksmu.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Draika|Draika]]; mentioned_person: [[objektai/asmenys/Folradas|Folradas]]; mentioned_person: [[objektai/asmenys/Pinas|Pinas]]; mentioned_person: [[objektai/asmenys/Sudargas|Sudargas]]; mentioned_place: Aukaimis; mentioned_place: Ragainė'
   pagrindžia:
     - c-002
 
@@ -88,11 +98,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Draika]]
-- [[objektai/asmenys/Sudargas]]
-- [[objektai/asmenys/Folradas]]
-- [[objektai/asmenys/Pinas]]
-- [[objektai/zodynas/komtūras]]

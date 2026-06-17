@@ -30,9 +30,15 @@ periodo_grupes:
 - t-001
   global_id: t-34819
   teiginys: '1392 m. Mozūrų kunigaikštis Henrikas Ritesverderyje vedė Ringailę.'
+  sudarymo_pagrindimas: 'Teiginys yra konkretus, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'territory: Mozūrija; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Ringailė|Ringailė]]; mentioned_place: Mozūrija'
+  semantiniai_rysiai: '[[objektai/asmenys/Mozūrų kunigaikštis Henrikas|Mozūrų kunigaikštis Henrikas]] buvo valdovas Mozūrija'
+  temporaliniai_duomenys: 'valdymo laikotarpis: 1392 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Mozūrų kunigaikštis Henrikas buvo valdovas Mozūrija“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Henrikas (Mozūrų kunigaikštis).md#claim-t-63619|Henrikas (Mozūrų kunigaikštis)]]: Lenkijai atsidūrus sunkioje padėtyje, Mozūrų kunigaikštis Henrikas išvyko į Prūsus ir rado Vytautą Rittersverderyje.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -47,3 +53,6 @@ periodo_grupes:
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+- Mozūrų kunigaikštis Henrikas buvo_valdovas [[objektai/vietos/Mozūrija]]

@@ -21,6 +21,8 @@ tags:
 - t-001
   global_id: t-75583
   teiginys: 'Ilgainiui įsivyravo nuomonė, kad Nadruvos Romovės, arba Romuvos, vieta nebeatsekama.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiksliai perteikia citatos mintį.'
+  susije_objektai: 'mentioned_place: Nadruva; mentioned_place: Romuva'
   pagrindžia:
     - c-001
 
@@ -28,6 +30,7 @@ tags:
 - t-002
   global_id: t-75584
   teiginys: 'Šio leidimo komentare `Romovė`, `Romuva`, `Romow`, `Rômowe` ir `Romava` siejamos su prūsų, lietuvių ir kitų baltų religiniu kulto centru.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Romuva'
   pagrindžia:
     - c-002
 
@@ -35,6 +38,7 @@ tags:
 - t-003
   global_id: t-75585
   teiginys: 'Romuvoje pagrindinis kulto objektas buvo ugnis.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Aukuras|Aukuras]]; mentioned_object: [[objektai/zodynas/amfiktionija|amfiktionija]]; mentioned_place: Lietuva; mentioned_place: Romuva'
   pagrindžia:
     - c-003
 
@@ -42,6 +46,8 @@ tags:
 - t-004
   global_id: t-75586
   teiginys: 'Romuva Nadruvoje ir jos krivis laikomi ankstyva pagonybės virtimo institucine religija apraiška.'
+  sudarymo_pagrindimas: 'Pašalinta neaiški nuoroda „šio proceso“ ir teiginys padarytas savarankiškas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_person: [[objektai/asmenys/Krivis|Krivis]]; mentioned_place: Nadruva; mentioned_place: Romuva'
   pagrindžia:
     - c-004
 
@@ -96,14 +102,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Aukuras]]
-- [[objektai/grupes/Baltai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/amfiktionija]]
-- [[objektai/zodynas/pagonybė]]
-- [[objektai/asmenys/Krivis]]
-- [[objektai/zodynas/Romuva krivis]]
-- [[objektai/paprociai/Romuvos kulto institucija, ugnies garbinimas ir valdovų deginimas|Romuvos kulto institucija, ugnies garbinimas ir valdovų deginimas (institucija)]]

@@ -29,6 +29,11 @@ amziai:
 - t-001
   global_id: t-31770
   teiginys: 'Stasio Ylos „Krikščionybės įvedimas Lietuvoje“ išleistas Kaune 1938 m.'
+  sudarymo_pagrindimas: 'Citata patvirtina autorių, pavadinimą, leidimo vietą ir metus.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/M. Jučas|M. Jučas]]; mentioned_place: Kaunas; mentioned_place: Krėva; mentioned_place: Liublinas; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1938 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata patvirtina autorių, pavadinimą, leidimo vietą ir metus.'
   pagrindžia:
     - c-001
 

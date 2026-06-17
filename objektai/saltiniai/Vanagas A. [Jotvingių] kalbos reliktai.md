@@ -26,6 +26,10 @@ Dusburgietis teigia, kad vanagas A.
 - t-001
   global_id: t-61338
   teiginys: 'A. Vanago straipsnis „Jotvingių kalbos reliktai“ paskelbtas žurnale „Mokslas ir gyvenimas“ 1974 m.'
+  sudarymo_pagrindimas: 'Citata pateikia autorių, pavadinimą, leidinį ir metus.'
+  temporaliniai_duomenys: 'įvykio data: 1974 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pateikia autorių, pavadinimą, leidinį ir metus.'
   pagrindžia:
     - c-001
 

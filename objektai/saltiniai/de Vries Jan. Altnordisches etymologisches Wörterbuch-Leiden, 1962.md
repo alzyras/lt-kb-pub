@@ -26,6 +26,10 @@ Dusburgietis teigia, kad de Vries Jan.
 - t-001
   global_id: t-61065
   teiginys: 'Jano de Vrieso „Altnordisches etymologisches Wörterbuch“ išleistas Leidene 1962 m.'
+  sudarymo_pagrindimas: 'Citata pateikia autorių, pavadinimą, leidimo vietą ir metus.'
+  temporaliniai_duomenys: 'įvykio data: 1962 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pateikia autorių, pavadinimą, leidimo vietą ir metus.'
   pagrindžia:
     - c-001
 

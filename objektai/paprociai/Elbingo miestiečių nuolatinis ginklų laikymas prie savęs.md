@@ -49,6 +49,12 @@ Nenurodyta
 - t-001
   global_id: t-62674
   teiginys: '1273 m. Elbingo miestiečiai nuolat laikė prie savęs kovai parengtus ginklus ir vijosi prie miesto pasirodžiusius pagudėnų raitelius.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pašalintas antraštės ir OCR triukšmas, paliktas aiškus faktas apie note objektą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_group: [[objektai/grupes/Elbingo miestiečiai|Elbingo miestiečiai]]; mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_group: [[objektai/grupes/Varmiai|Varmiai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_place: Elbingas; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1273 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas antraštės ir OCR triukšmas, paliktas aiškus faktas apie note objektą.'
   pagrindžia:
     - c-001
     - c-002
@@ -92,12 +98,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bartai]]
-- [[objektai/daiktai/Malūnas]]
-- [[objektai/grupes/Varmiai]]
-- [[objektai/grupes/Elbingo miestiečiai]]
-- [[objektai/daiktai/Ginklai]]
-- [[objektai/grupes/Pagudėnai]]

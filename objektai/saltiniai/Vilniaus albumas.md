@@ -5,9 +5,11 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1848 m.'
+  - '1850 m.'
   - '1857 m.'
+  - '1858 m.'
 date_start: '1848'
-date_end: '1857'
+date_end: '1858'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -19,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Motiejaus Valančiaus atvaizdas buvo publikuotas J. K. Vilčinskio „Vilniaus albume“. J. K. Vilčinskio „Vilniaus albume“ pavaizduota Vilniaus katedra. J. K. Vilčinskio „Vilniaus albume“ 1850 m. publikuotas Vilniaus universiteto Didžiojo kiemo ir Šv. Jonų bažnyčios vaizdas.
+Vilniaus universiteto Didysis kiemas ir Šv. Vilniaus katedra iš J. Prancūzų kariuomenės traukimasis per Vilniaus rotušės aikštę.
 
 ## Teiginiai
 
@@ -27,6 +29,11 @@ Motiejaus Valančiaus atvaizdas buvo publikuotas J. K. Vilčinskio „Vilniaus a
 - t-001
   global_id: t-75528
   teiginys: 'Motiejaus Valančiaus atvaizdas buvo publikuotas J. K. Vilčinskio „Vilniaus albume“.'
+  sudarymo_pagrindimas: 'Citata paremia tik vaizdo sąsają su „Vilniaus albumu“, todėl teiginys sutrumpintas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]; mentioned_person: [[objektai/autoriai/Motiejus Valančius|Motiejus Valančius]]'
+  temporaliniai_duomenys: 'įvykio data: 1858 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata paremia tik vaizdo sąsają su „Vilniaus albumu“, todėl teiginys sutrumpintas.'
   pagrindžia:
     - c-004
 
@@ -34,6 +41,8 @@ Motiejaus Valančiaus atvaizdas buvo publikuotas J. K. Vilčinskio „Vilniaus a
 - t-002
   global_id: t-75529
   teiginys: 'J. K. Vilčinskio „Vilniaus albume“ pavaizduota Vilniaus katedra.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, bet citata leidžia suformuluoti faktą apie albumą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva; mentioned_place: Vilniaus katedra; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -41,6 +50,11 @@ Motiejaus Valančiaus atvaizdas buvo publikuotas J. K. Vilčinskio „Vilniaus a
 - t-003
   global_id: t-75531
   teiginys: 'J. K. Vilčinskio „Vilniaus albume“ 1850 m. publikuotas Vilniaus universiteto Didžiojo kiemo ir Šv. Jonų bažnyčios vaizdas.'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo nutrūkęs, bet citata leidžia suformuluoti pilną faktą.'
+  susije_objektai: 'mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1850 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys buvo nutrūkęs, bet citata leidžia suformuluoti pilną faktą.'
   pagrindžia:
     - c-001
 
@@ -48,6 +62,8 @@ Motiejaus Valančiaus atvaizdas buvo publikuotas J. K. Vilčinskio „Vilniaus a
 - t-004
   global_id: t-75532
   teiginys: 'J. K. Vilčinskio „Vilniaus albume“ pateiktas Vilniaus Verkių rūmų interjero vaizdas.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, o citata pagrindžia tvarkingą faktą apie albumą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/Baudžiava|Baudžiava]]; mentioned_object: [[objektai/daiktai/Vilniaus Verkių rūmų interjeras|Vilniaus Verkių rūmų interjeras]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Verkiai; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 
@@ -55,6 +71,11 @@ Motiejaus Valančiaus atvaizdas buvo publikuotas J. K. Vilčinskio „Vilniaus a
 - t-005
   global_id: t-75533
   teiginys: 'J. K. Vilčinskio „Vilniaus albume“ paskelbtas P. Benoist 1848 m. Vilniaus Verkių rūmų interjero vaizdas.'
+  sudarymo_pagrindimas: 'Pašalintas kontekstinis fragmentas ir išlaikyta citatos pagrįsta informacija.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vilniaus Verkių rūmų interjeras|Vilniaus Verkių rūmų interjeras]]; mentioned_place: Lietuva; mentioned_place: Verkiai; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1848 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas kontekstinis fragmentas ir išlaikyta citatos pagrįsta informacija.'
   pagrindžia:
     - c-005
 

@@ -43,6 +43,8 @@ Nenurodyta
 - t-001
   global_id: t-59736
   teiginys: 'Skomantas su visais savo namais bei šeimyna pasidavė krikščionių tikėjimui ir broliams.'
+  sudarymo_pagrindimas: 'Teiginys gramatiškas ir atitinka citatoje nurodytą Skomanto pasidavimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_person: [[objektai/asmenys/Skomantas|Skomantas]]; mentioned_place: Sūduva'
   pagrindžia:
     - c-002
 
@@ -50,6 +52,8 @@ Nenurodyta
 - t-002
   global_id: t-59737
   teiginys: 'Kilmingas sūduvis Ruseinis su savo namais ir šeimyna atvyko pas Baigos komtūrą, norėdamas išklausyti pamaldų.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'location: Baiga; location: Viena; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/asmenys/Ruseinis|Ruseinis]]; mentioned_place: Baiga; mentioned_place: Viena'
   pagrindžia:
     - c-003
 
@@ -57,6 +61,8 @@ Nenurodyta
 - t-003
   global_id: t-59738
   teiginys: 'Kimenavos sūduvių vadas Gedetas su savo namais, šeimyna ir 1500 vyrų bei moterų pasitraukė pas brolius ir priėmė krikštą.'
+  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia Gedeto pasitraukimą pas brolius ir krikštą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_person: [[objektai/asmenys/Gedetas|Gedetas]]; mentioned_place: Kimenava; mentioned_place: Lietuva; mentioned_place: Sūduva'
   pagrindžia:
     - c-001
 
@@ -64,6 +70,11 @@ Nenurodyta
 - t-004
   global_id: t-183988
   teiginys: 'Kilmingas sūduvis Ruseinis bematant leidosi apkrikštijamas su visa savo šeimyna.'
+  teiginio_tipas: 'saltinio_teiginys'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys pilnas, aiškus ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/asmenys/Ruseinis|Ruseinis]]; mentioned_place: Baiga; mentioned_place: Viena'
   pagrindžia:
     - c-003
 
@@ -125,16 +136,3 @@ Nenurodyta
   pagrindžia:
     - t-002
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Skomantas]]
-- [[objektai/grupes/Sūduviai]]
-- [[objektai/zodynas/komtūras]]
-- [[objektai/zodynas/kunigas]]
-- [[objektai/asmenys/Gedetas]]
-- [[objektai/asmenys/Ruseinis]]
-- [[objektai/ivykiai/Gedeto ir 1500 sūduvių atsivertimas bei Skurdos pasitraukimas į Lietuvą]]
-- [[objektai/daiktai/Medinis kryžius]]
-- [[objektai/ivykiai/Ruseinio atsivertimas ir mirtis]]
-- [[objektai/ivykiai/Skomanto pasitraukimas į Rusios žemę ir atsivertimas]]

@@ -32,6 +32,8 @@ Patarlinė formulė čia vartojama kalbant apie jėgų nelygybę ir nenorą prie
 - t-001
   global_id: t-36016
   teiginys: 'Lenkai nedrįso pasipriešinti Vytautui, nes suprato, kad „prieš vėją nepapūs“, o Vytautas buvo per galingas.'
+  sudarymo_pagrindimas: 'Reikia pašalinti dviprasmišką įvardį ir aiškiai įvardyti Vytautą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -39,6 +41,8 @@ Patarlinė formulė čia vartojama kalbant apie jėgų nelygybę ir nenorą prie
 - t-002
   global_id: t-36017
   teiginys: 'Lenkai nedrįso priešintis Vytautui, nes suprato, kad prieš vėją nepapūs, o Vytautas buvo per galingas.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie posakio prasmę šaltinyje ir atitinka citatą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-001
 
@@ -78,10 +82,3 @@ Patarlinė formulė čia vartojama kalbant apie jėgų nelygybę ir nenorą prie
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/autoriai/O. Halecki]]

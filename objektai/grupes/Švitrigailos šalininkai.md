@@ -23,6 +23,8 @@ tags:
 - t-001
   global_id: t-86778
   teiginys: 'Švitrigailos grupuotė kartu su Žygimanto šalininkais po vidaus karo išbandymų vėl taikėsi į Vilnių.'
+  sudarymo_pagrindimas: 'Citata geriau pagrindžia faktą apie Švitrigailos grupuotę, o ne nutrūkusį pasakojimo fragmentą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -30,6 +32,9 @@ tags:
 - t-002
   global_id: t-86779
   teiginys: 'Podolėje Jogaila kovojo su Moldovos kunigaikščių remiamais Švitrigailos šalininkais.'
+  sudarymo_pagrindimas: 'Teiginys faktinis ir palaikomas, bet reikia pašalinti kontekstinę pradžią bei OCR triukšmą.'
+  susije_objektai: 'counterparty: [[objektai/asmenys/Jogaila|Jogaila]]; counterparty: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; counterparty: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Livonija; mentioned_place: Moldova; mentioned_place: Podolė; mentioned_place: Prūsija'
+  semantiniai_rysiai: '[[objektai/grupes/Švitrigailos šalininkai|Švitrigailos šalininkai]] kariavo prieš [[objektai/asmenys/Jogaila|Jogaila]]; [[objektai/grupes/Švitrigailos šalininkai|Švitrigailos šalininkai]] kariavo prieš [[objektai/asmenys/Švitrigaila|Švitrigaila]]; [[objektai/grupes/Švitrigailos šalininkai|Švitrigailos šalininkai]] kariavo prieš [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-002
 
@@ -81,13 +86,6 @@ tags:
     - t-002
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bajorai]]
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/asmenys/Švitrigaila]]
-- [[objektai/asmenys/Žygimantas]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/grupes/Moldovos kunigaikščiai]]
-- [[objektai/grupes/Žygimanto šalininkai]]
+- Švitrigailos šalininkai kariavo_pries [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
+- Švitrigailos šalininkai kariavo_pries [[objektai/grupes/Kryžiuočių ordinas]]
+- Švitrigailos šalininkai kariavo_pries [[objektai/asmenys/Švitrigaila]]

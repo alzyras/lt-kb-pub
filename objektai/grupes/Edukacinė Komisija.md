@@ -6,46 +6,113 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
+  - '1579 m.'
   - '1773 m.'
+  - '1803 m.'
   - '2026 m.'
-date_start: '1773'
+date_start: '1579'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XVIII'
-  - 'XXI'
 tags:
   - grupe
   - ordinas
   - seimas
   - valstybė
+amziai:
+  - 'XVI'
+  - 'XXI'
 ---
 # Edukacinė Komisija
 
 ## Santrauka
 
-Michałas Balińskis, vertindamas Vilniaus akademijos istoriją, pagyrė Edukacinės komisijos veiklą. Targovicos konfederacija perskyrė nuo 1773 m. veikusią bendrą Edukacinę Komisiją į atskiras Lietuvos ir Lenkijos komisijas. Edukacinė Komisija buvo laikoma pirmu Europoje atveju, kai švietimą perėmė valstybė.
+Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos buvo panaikintos, ir visi turtai pavesti Edukacinei Komisijai. Edukacinės Komisijos idėja buvo tikrai vykusi: tai buvo iš viso pirmas atsitikimas Europoj, kad švietimą paėmė į savo žinią pati valstybė.
 
 ## Teiginiai
+
 <a id="claim-t-107733"></a>
 - t-001
   global_id: t-107733
   teiginys: 'Michałas Balińskis, vertindamas Vilniaus akademijos istoriją, pagyrė Edukacinės komisijos veiklą.'
+  sudarymo_pagrindimas: 'Citata tiesiogiai remia glaustą teiginį apie komisijos vertinimą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1579-1803; įvykio data: 1803 m.; įvykio data: 1862 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata tiesiogiai remia glaustą teiginį apie komisijos vertinimą.'
   pagrindžia:
     - c-004
+
+<a id="claim-t-107734"></a>
+- t-002
+  global_id: t-107734
+  teiginys: 'Targovicos konfederacija perskyrė nuo 1773 m. veikusią bendrą Edukacinę Komisiją į atskiras Lietuvos ir Lenkijos komisijas.'
+  sudarymo_pagrindimas: 'Originalas prasideda skyrybos triukšmu ir reikia sutvarkyti sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Targovicos konfederacija|Targovicos konfederacija]]; mentioned_object: [[objektai/zodynas/konfederacija|konfederacija]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Targovica; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: po 1773 m.; įvykio data: 1773 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Originalas prasideda skyrybos triukšmu ir reikia sutvarkyti sakinį.'
+  pagrindžia:
+    - c-007
+
+<a id="claim-t-107736"></a>
+- t-003
+  global_id: t-107736
+  teiginys: 'Edukacinė Komisija buvo laikoma pirmu Europoje atveju, kai švietimą perėmė valstybė.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1579-1803; įvykio data: 1803 m.; įvykio data: 1862 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  pagrindžia:
+    - c-003
+
+<a id="claim-t-107737"></a>
+- t-004
+  global_id: t-107737
+  teiginys: '1776 m. panaikinus Dalomąsias Komisijas, visi jų valdyti turtai buvo pavesti Edukacinei Komisijai.'
+  sudarymo_pagrindimas: 'Pradinis teiginys labiau apie Dalomąsias Komisijas; citata palaiko geresnį teiginį apie Edukacinę Komisiją.'
+  susije_objektai: 'mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1776 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys labiau apie Dalomąsias Komisijas; citata palaiko geresnį teiginį apie Edukacinę Komisiją.'
+  pagrindžia:
+    - c-002
 
 <a id="claim-t-107738"></a>
 - t-005
   global_id: t-107738
   teiginys: 'Vilniuje gyvenęs autorius kurį laiką dirbo Edukacinėje teismo komisijoje.'
+  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir paliktas sakinys apie komisiją.'
+  susije_objektai: 'mentioned_place: Vilnius'
   pagrindžia:
     - c-006
+
+<a id="claim-t-107739"></a>
+- t-006
+  global_id: t-107739
+  teiginys: 'Targovicos konfederacija bendrą Edukacinę Komisiją padalijo į atskiras Lietuvos ir Lenkijos komisijas.'
+  sudarymo_pagrindimas: 'Originalas per ilgas, nutrūkstantis ir turi nereikalingo konteksto.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Targovicos konfederacija|Targovicos konfederacija]]; mentioned_object: [[objektai/zodynas/konfederacija|konfederacija]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Targovica; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: po 1773 m.; įvykio data: 1773 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Originalas per ilgas, nutrūkstantis ir turi nereikalingo konteksto.'
+  pagrindžia:
+    - c-007
+
+<a id="claim-t-107740"></a>
+- t-007
+  global_id: t-107740
+  teiginys: 'Edukacinė Komisija buvo įkurta kaip bendra Lietuvos ir Lenkijos institucija.'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva'
+  pagrindžia:
+    - c-001
 
 <a id="claim-t-107741"></a>
 - t-008
   global_id: t-107741
   teiginys: 'Edukacinės komisijos veikla sulaukė pagyrimo, priešingai nei XVII-XVIII a. jėzuitų ordino veikla.'
+  susije_objektai: 'mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1579-1803; įvykio data: 1803 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-008
 
@@ -53,62 +120,102 @@ Michałas Balińskis, vertindamas Vilniaus akademijos istoriją, pagyrė Edukaci
 - t-009
   global_id: t-107742
   teiginys: 'Edukacinė komisija sumodernino ir supasaulietino mokymo programą, įvesdama gamtos ir tiksliųjų mokslų disciplinas.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Edukacinę komisiją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Targovicos konfederacija|Targovicos konfederacija]]; mentioned_object: [[objektai/zodynas/konfederacija|konfederacija]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Targovica; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: po 1773 m.; įvykio data: 1773 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie Edukacinę komisiją.'
   pagrindžia:
     - c-005
+
+<a id="claim-t-107743"></a>
+- t-010
+  global_id: t-107743
+  teiginys: '1776 m. panaikinus komisijas, jų turtai buvo pavesti Edukacinei Komisijai.'
+  susije_objektai: 'mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1776 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  pagrindžia:
+    - c-002
 
 <a id="claim-t-107744"></a>
 - t-011
   global_id: t-107744
   teiginys: 'Edukacinė komisija įkurta 1773 m.; jos pirmininku tapo Vilniaus vyskupas Ignotas Masalskis.'
+  sudarymo_pagrindimas: 'Teiginys yra konkretus, gramatiškas ir paremtas šaltiniu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_person: [[objektai/asmenys/Ignotas Masalskis|Ignotas Masalskis]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1773 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus, gramatiškas ir paremtas šaltiniu.'
   pagrindžia:
     - c-009
 
 <a id="claim-t-182888"></a>
 - t-012
   global_id: t-182888
-  teiginys: 'Edukacinė Komisija buvo įkurta kaip bendra Lietuvos ir Lenkijos institucija.'
+  teiginys: 'A. Šapokos redaguotoje istorijoje Edukacinė Komisija vertinama kaip pirmas Europoje atvejis, kai švietimą perėmė valstybė.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Tai yra vertinimas, todėl reikia šaltinio atribucijos.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/autoriai/A. Šapoka|A. Šapoka]]; mentioned_place: Europa'
   pagrindžia:
     - c-010
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-013
-  teiginys: '1776 m. panaikinus komisijas, jų turtai buvo pavesti Edukacinei Komisijai.'
-  pagrindžia:
-    - c-011
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-014
-  teiginys: 'Edukacinė Komisija buvo laikoma pirmu Europoje atveju, kai švietimą perėmė valstybė.'
-  pagrindžia:
-    - c-012
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-015
-  teiginys: 'Targovicos konfederacija perskyrė nuo 1773 m. veikusią bendrą Edukacinę Komisiją į atskiras Lietuvos ir Lenkijos komisijas.'
-  pagrindžia:
-    - c-014
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-016
-  teiginys: '1776 m. panaikinus Dalomąsias Komisijas, visi jų valdyti turtai buvo pavesti Edukacinei Komisijai.'
-  pagrindžia:
-    - c-011
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-017
-  teiginys: 'Targovicos konfederacija bendrą Edukacinę Komisiją padalijo į atskiras Lietuvos ir Lenkijos komisijas.'
-  pagrindžia:
-    - c-014
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-018
-  teiginys: 'A. Šapokos redaguotoje istorijoje Edukacinė Komisija vertinama kaip pirmas Europoje atvejis, kai švietimą perėmė valstybė.'
-  pagrindžia:
-    - c-013
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-
+- susijęs iš [[objektai/grupes/Jėzuitų ordinas.md#claim-t-172110|Jėzuitų ordinas]]: 1773 m. įkurta Edukacinė komisija turėjo perimti panaikinto jėzuitų ordino švietimo sistemą.
+- susijęs iš [[objektai/grupes/Jėzuitų ordinas.md#claim-t-172116|Jėzuitų ordinas]]: 1773 m. įkurta Edukacinė komisija turėjo perimti panaikinto jėzuitų ordino švietimo sistemą.
+- susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštija.md#claim-t-169689|Lietuvos Didžioji Kunigaikštija]]: Edukacinės komisijos pertvarkyta valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios – į apygardas.
+- susijęs iš [[objektai/grupes/Pijarų ordinas.md#claim-t-72601|Pijarų ordinas]]: Pijarų ordinas išlaikė ypač daug mokyklų, kurių Edukacinė Komisija neperėmė, bet prižiūrėjo jų mokymą.
+- susijęs iš [[objektai/ivykiai/Edukacinės komisijos įkūrimas.md#claim-t-183221|Edukacinės komisijos įkūrimas]]: Edukacinė komisija turėjo perimti panaikinto jėzuitų ordino švietimo sistemą.
+- susijęs iš [[objektai/ivykiai/Edukacinės komisijos įkūrimas.md#claim-t-66536|Edukacinės komisijos įkūrimas]]: 1773 m. įkurta Edukacinė komisija buvo pirmoji Europoje švietimo ministerijos tipo įstaiga.
+- susijęs iš [[objektai/ivykiai/Jėzuitų ordino panaikinimas.md#claim-t-77883|Jėzuitų ordino panaikinimas]]: 1773 m. įkurta Edukacinė komisija turėjo perimti panaikinto jėzuitų ordino švietimo sistemą.
+- susijęs iš Pradinis švietimas Lietuvoje iki trečiojo padalinimo (1795 m.): „Pradinis švietimas Lietuvoje iki trečiojo padalinimo (1795 m.)“ 1971 m. paskelbtas „Lietuvių Tautos Praeities“ III tomo 1 numeryje.
 ## Reikšmingi paminėjimai
+
+- c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    visų kitų mokyklų priežiūra. Komisija buvo įkurta bendra Lie-
+    tuvai ir Lenkijai.
+    Komisija turėjo rūpintis tik pačiu mokymu, vadovėliais ir
+    pinigų sunaudojimu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-007
+
+- c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tiek už išnuomotus dvarus, tiek
+    už kapitalus Edukacinei Komisijai buvo mokama 41 /2%.
+    Greit pasirodė, kad Dalomosios Komisijos su tais turtais daro
+    biznį — dvarus labai pigiai dalina savo artimiesiems, o pinigus tie-
+    siog vagia. Todėl 1776 m. tos komisijos buvo panaikintos, ir visi
+    turtai pavesti Edukacinei Komisijai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-010
+    - t-004
+
+- c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Valstybės atžvilgiu senoji karta buvo kon-
+    servatyvi ir bajoriškųjų laisvių garbintoja, o jaunoji karta išdidžiai
+    siekė reformų. Tad paskutiniaisiais Respublikos gyvenimo metais
+    padarytosios reformos buvo jaunosios kartos darbas.
+    Edukacinės Komisijos idėja buvo tikrai vykusi: tai buvo iš viso
+    pirmas atsitikimas Europoj, kad švietimą paėmė į savo žinią pati
+    valstybė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
+
 - c-004
   santrauka: 'Michałas Balińskis, vertindamas Vilniaus akademijos istoriją, pagyrė Edukacinės komisijos veiklą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -125,6 +232,7 @@ Michałas Balińskis, vertindamas Vilniaus akademijos istoriją, pagyrė Edukaci
   statusas: verified
   pagrindžia:
     - t-001
+
 - c-005
   santrauka: 'Edukacinė komisija sumodernino ir supasaulietino mokymo programą, įvesdama gamtos ir tiksliųjų mokslų disciplinas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -140,6 +248,7 @@ Michałas Balińskis, vertindamas Vilniaus akademijos istoriją, pagyrė Edukaci
   statusas: verified
   pagrindžia:
     - t-009
+
 - c-006
   santrauka: 'Vilniuje gyvenęs autorius kurį laiką dirbo Edukacinėje teismo komisijoje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -155,6 +264,25 @@ Michałas Balińskis, vertindamas Vilniaus akademijos istoriją, pagyrė Edukaci
   statusas: verified
   pagrindžia:
     - t-005
+
+- c-007
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tačiau
+    Targovicos konfederacija, kuri ėjo prieš visas reformas — už
+    senąją santvarką, sugrąžino ir senąjį Lietuvos Lenkijos valstybių
+    atskirumą. Viskas sugrįžo į senąją būklę, o kai kuriais atžvil-
+    giais valstybių atskirumas net dar padidėjo; pav., Targovicos
+    konfederacija net perskyrė nuo 1773 m. buvusią bendrą Edu-
+    kacinę Komisiją: vietoje vienos buvo sudarytos dvi atskiros
+    Lietuvos ir Lenkijos komisijos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+    - t-006
+
 - c-008
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -169,6 +297,7 @@ Michałas Balińskis, vertindamas Vilniaus akademijos istoriją, pagyrė Edukaci
   statusas: verified
   pagrindžia:
     - t-002
+
 - c-009
   santrauka: 'Edukacinė komisija įkurta 1773 m.; jos pirmininku tapo Vilniaus vyskupas Ignotas Masalskis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -183,58 +312,8 @@ Michałas Balińskis, vertindamas Vilniaus akademijos istoriją, pagyrė Edukaci
   statusas: verified
   pagrindžia:
     - t-011
+
 - c-010
-  santrauka: 'Edukacinė Komisija buvo įkurta kaip bendra Lietuvos ir Lenkijos institucija.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    visų kitų mokyklų priežiūra. Komisija buvo įkurta bendra Lie-
-    tuvai ir Lenkijai.
-    Komisija turėjo rūpintis tik pačiu mokymu, vadovėliais ir
-    pinigų sunaudojimu.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-012
-- c-011
-  santrauka: '1776 m. panaikinus komisijas, jų turtai buvo pavesti Edukacinei Komisijai.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tiek už išnuomotus dvarus, tiek
-    už kapitalus Edukacinei Komisijai buvo mokama 41 /2%.
-    Greit pasirodė, kad Dalomosios Komisijos su tais turtais daro
-    biznį — dvarus labai pigiai dalina savo artimiesiems, o pinigus tie-
-    siog vagia. Todėl 1776 m. tos komisijos buvo panaikintos, ir visi
-    turtai pavesti Edukacinei Komisijai.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-013
-    - t-016
-- c-012
-  santrauka: 'Edukacinė Komisija buvo laikoma pirmu Europoje atveju, kai švietimą perėmė valstybė.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Valstybės atžvilgiu senoji karta buvo kon-
-    servatyvi ir bajoriškųjų laisvių garbintoja, o jaunoji karta išdidžiai
-    siekė reformų. Tad paskutiniaisiais Respublikos gyvenimo metais
-    padarytosios reformos buvo jaunosios kartos darbas.
-    Edukacinės Komisijos idėja buvo tikrai vykusi: tai buvo iš viso
-    pirmas atsitikimas Europoj, kad švietimą paėmė į savo žinią pati
-    valstybė.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-014
-- c-013
   santrauka: 'A. Šapokos redaguotoje istorijoje Edukacinė Komisija vertinama kaip pirmas Europoje atvejis, kai švietimą perėmė valstybė.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -244,45 +323,8 @@ Michałas Balińskis, vertindamas Vilniaus akademijos istoriją, pagyrė Edukaci
     pirmas atsitikimas Europoj, kad švietimą paėmė į savo žinią pati
     valstybė. Iš to būtų galėję išeiti nemaža naudos, jei žmonės, kurie
     stovėjo prie to darbo, būtų buvę sąžiningesni.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-018
-- c-014
-  santrauka: 'Targovicos konfederacija perskyrė nuo 1773 m. veikusią bendrą Edukacinę Komisiją į atskiras Lietuvos ir Lenkijos komisijas.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tačiau
-    Targovicos konfederacija, kuri ėjo prieš visas reformas — už
-    senąją santvarką, sugrąžino ir senąjį Lietuvos Lenkijos valstybių
-    atskirumą. Viskas sugrįžo į senąją būklę, o kai kuriais atžvil-
-    giais valstybių atskirumas net dar padidėjo; pav., Targovicos
-    konfederacija net perskyrė nuo 1773 m. buvusią bendrą Edu-
-    kacinę Komisiją: vietoje vienos buvo sudarytos dvi atskiros
-    Lietuvos ir Lenkijos komisijos.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-015
-    - t-017
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/Edukacinės komisijos įkūrimas]]
-- [[objektai/grupes/Pijarų ordinas]]
-- [[objektai/grupes/Vyriausioji Lietuvos Mokykla]]
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/asmenys/Aleksandras Balinskis]]
-- [[objektai/autoriai/Mykolas Balinskis]]
-- [[objektai/grupes/Targovicos konfederacija]]
-- [[objektai/zodynas/konfederacija]]
-- [[objektai/grupes/Jėzuitų ordinas]]
-- [[objektai/ivykiai/Jėzuitų ordino panaikinimas]]
-- [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]
-- [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė]]
+    - t-012

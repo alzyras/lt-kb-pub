@@ -21,6 +21,7 @@ Dusburgietis teigia, kad 14 Mažiulis V. Dusburgietis teigia, kad 19 Mažiulis V
 - t-001
   global_id: t-61012
   teiginys: 'V. Mažiulio „Senovės vakarų baltai“ cituojama nurodant 7 puslapį.'
+  sudarymo_pagrindimas: 'Citata tiesiogiai nurodo šį veikalą ir puslapį.'
   pagrindžia:
     - c-001
 

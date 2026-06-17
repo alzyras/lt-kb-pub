@@ -45,6 +45,11 @@ Nenurodyta
 - t-001
   global_id: t-80680
   teiginys: '1794 m. rugpjūčio 11 d. vakare Vilniaus įgula sėkmingai atsitraukė per Žaliąjį tiltą, dengiama Kazimiero Sapiegos artilerijos baterijos.'
+  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytą Vilniaus įgulos atsitraukimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Sapiegos|Sapiegos]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_place: Lietuva; mentioned_place: Prancūzija; mentioned_place: Rusija; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1794 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia citatoje nurodytą Vilniaus įgulos atsitraukimą.'
   pagrindžia:
     - c-001
 
@@ -132,11 +137,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Artilerija]]
-- [[objektai/daiktai/Ginklai]]
-- [[objektai/grupes/Lietuvos kariuomenė]]
-- [[objektai/grupes/Sapiegos]]
-- [[objektai/zodynas/įgula]]

@@ -3,12 +3,18 @@ tipas: saltinis
 pavadinimas: 'Heinrici Chronicon Livoniae'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-aliases:
-  - 'objektai/saltiniai/Henriko Latvio kronika'
-variantai:
-  - 'Henriko Latvio kronika'
+datos:
+  - '1225 m.'
+  - '1227 m.'
+  - '1290 m.'
+  - '1955 m.'
+date_start: '1225'
+date_end: '1955'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XIII'
+  - 'XX'
 ---
 # Heinrici Chronicon Livoniae
 
@@ -22,6 +28,9 @@ Henriko Latvio kronika minima kaip viena iš pirmųjų Pabaltijyje vokiečių kr
 - t-001
   global_id: t-67398
   teiginys: 'Henriko Latvio kronika yra viena iš pirmųjų Pabaltijyje vokiečių kronikų ir buvo surašyta 1225-27 m.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Latvija; mentioned_place: Livonija; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1225-1227; įvykio data: po 1290 m.; įvykio data: 1290 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data.'
   pagrindžia:
     - c-001
 
@@ -29,6 +38,9 @@ Henriko Latvio kronika minima kaip viena iš pirmųjų Pabaltijyje vokiečių kr
 - t-002
   global_id: t-67399
   teiginys: 'HChL santrumpa žymi L. Arbusowo ir Alb. Bauerio parengtą „Heinrici Chronicon Livoniae“ leidimą, išleistą Hanoveryje 1955 m.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/L. Arbusow|L. Arbusow]]'
+  temporaliniai_duomenys: 'įvykio data: 1955 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 

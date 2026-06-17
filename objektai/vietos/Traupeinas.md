@@ -29,6 +29,11 @@ Dusburgietis teigia, kad apie dvylikos brolių ir penkių šimtų vyrų žūtį,
 - t-001
   global_id: t-58481
   teiginys: 'Traupeino pilis buvo tarp Kristburgo ir Marienburgo, o pagudėnai ją apgulė Divano žygio metu.'
+  sudarymo_pagrindimas: 'Citata nurodo Traupeino pilies vietą ir apgulties aplinkybes.'
+  susije_objektai: 'object: [[objektai/grupes/Bartai|Bartai]]; object: Kristburgas; object: Kulmas; object: [[objektai/asmenys/Linkas|Linkas]]; object: [[objektai/grupes/Pagudėnai|Pagudėnai]]; object: Pilaitė; mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Divanas|Divanas]]; mentioned_person: [[objektai/asmenys/Linkas|Linkas]]; mentioned_place: Kristburgas; mentioned_place: Kulmas; mentioned_place: Pilaitė'
+  temporaliniai_duomenys: 'mūšio data: 1265 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Divanas puolė Linkas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Divanas puolė Bartai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Divanas puolė Pagudėnai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Divanas puolė Kristburgas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Divanas puolė Kulmas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Divanas puolė Pilaitė“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata nurodo Traupeino pilies vietą ir apgulties aplinkybes.'
   pagrindžia:
     - c-001
 
@@ -36,9 +41,12 @@ Dusburgietis teigia, kad apie dvylikos brolių ir penkių šimtų vyrų žūtį,
 - t-002
   global_id: t-58483
   teiginys: 'Traupeinas rodyklėje siejamas su vardais Tranpere, Traupeien, vėlesniu Troopen ir dabartiniais Tropais.'
+  sudarymo_pagrindimas: 'Citata pateikia vietovės vardų variantus ir dabartinį tapatinimą.'
+  susije_objektai: 'mentioned_place: Transilvanija'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/asmenys/Kaltis.md#claim-t-60152|Kaltis]]: Kaltis buvo paskirtas pėstininkų, paliktų Traupeino pilies apgulai, vadu.
+- susijęs iš [[objektai/ivykiai/Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas.md#claim-t-66522|Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas]]: Divanas Klokinis ir Linkas su didele kariuomene įsibrovė į Kulmo žemę, o jų pajėgos patraukė prie Traupeino pilies.
 ## Reikšmingi paminėjimai
 
 - c-001

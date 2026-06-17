@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Zioka Skomackas Skomantai Skomanto ež.
+Dusburgietis teigia, kad zioka Skomackas Skomantai Skomanto ež.
 
 ## Teiginiai
 
@@ -21,6 +21,8 @@ Zioka Skomackas Skomantai Skomanto ež.
 - t-001
   global_id: t-58726
   teiginys: 'Zioka Skomackas Skomantai Skomanto ež.'
+  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
+  susije_objektai: 'mentioned_place: Skomanto kalnas'
   pagrindžia:
     - c-001
 

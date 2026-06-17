@@ -29,6 +29,9 @@ Aukščiausiosios Tarybos gynybos štabas 1991 m.: Audrius Butkevičius, Česlov
 - t-001
   global_id: t-79217
   teiginys: 'Virginijus Česnulevičius 1991 m. priklausė Aukščiausiosios Tarybos gynybos štabui.'
+  susije_objektai: 'owner: [[objektai/grupes/Aukščiausiosios Tarybos gynybos štabas|Aukščiausiosios Tarybos gynybos štabas]]; owner: Aukščiausiosios Tarybos rūmai; mentioned_group: [[objektai/grupes/Aukščiausiosios Tarybos gynybos štabas|Aukščiausiosios Tarybos gynybos štabas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Aukščiausiosios Tarybos rūmai'
+  temporaliniai_duomenys: 'priklausymo laikotarpis: 1991 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Jonas susiję su Aukščiausiosios Tarybos gynybos štabas (institucija)“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jonas susiję su Aukščiausiosios Tarybos rūmai (institucija)“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -36,9 +39,14 @@ Aukščiausiosios Tarybos gynybos štabas 1991 m.: Audrius Butkevičius, Česlov
 - t-002
   global_id: t-79218
   teiginys: 'Virginijus Česnulevičius 1991 m. buvo Aukščiausiosios Tarybos gynybos štabo narys.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas faktinis sakinys, pagrįstas pateiktu sąrašu.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis)|Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis)]]; mentioned_group: [[objektai/grupes/Aukščiausiosios Tarybos gynybos štabas|Aukščiausiosios Tarybos gynybos štabas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas Gečas|Jonas Gečas]]; mentioned_place: Aukščiausiosios Tarybos rūmai'
+  temporaliniai_duomenys: 'įvykio data: 1991 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas faktinis sakinys, pagrįstas pateiktu sąrašu.'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/grupes/Aukščiausiosios Tarybos gynybos štabas.md#claim-t-40860|Aukščiausiosios Tarybos gynybos štabas (institucija)]]: 1991 m. Aukščiausiosios Tarybos gynybos štabe buvo Audrius Butkevičius, Česlovas Jezerskas, Virginijus Česnulevičius ir Jonas Gečas.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -75,13 +83,3 @@ Aukščiausiosios Tarybos gynybos štabas 1991 m.: Audrius Butkevičius, Česlov
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Aukščiausiosios Tarybos gynybos štabas|Aukščiausiosios Tarybos gynybos štabas (institucija)]]
-- [[objektai/ivykiai/Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis)]]
-- [[objektai/asmenys/Jonas]]
-- [[objektai/asmenys/Jonas Gečas]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/asmenys/Česlovas Jezerskas]]

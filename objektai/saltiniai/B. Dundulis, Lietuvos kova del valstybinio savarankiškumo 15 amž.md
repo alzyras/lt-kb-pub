@@ -29,6 +29,9 @@ Dundulis, B.
 - t-001
   global_id: t-31623
   teiginys: 'B. Dundulio „Lietuvos kova dėl valstybinio savarankiškumo 15 amž.“ išleista Vilniuje 1968 m.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/apsikarūnavimas|apsikarūnavimas]]; mentioned_object: [[objektai/zodynas/savarankiškumas|savarankiškumas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1968 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

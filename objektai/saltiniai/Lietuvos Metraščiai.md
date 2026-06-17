@@ -16,7 +16,7 @@ amziai:
 
 ## Santrauka
 
-Lietuvos metraščiuose sukurta Palemono legenda tapo pagrindu lietuvių ir rusėnų bajorijai savo kilmę sieti su Palemono tradicija. Lietuvos metraščiuose užrašyti Gedimino sapno, Algirdo žygių į Maskvą ir Birutės bei Kęstučio meilės istorijos siužetai laikomi epiniais pasakojimais. Rusėnų kalba buvo surašyti Lietuvos Metrika, Lietuvos metraščiai ir Lietuvos Statutai.
+„Lietuvos Metraščiai“ šiame veikale minimi kaip M. Jučo 1968 m. Vilniuje paskelbtas leidinys. Santrumpų sąraše šis pavadinimas pateikiamas kaip savarankiška bibliografinė nuoroda.
 
 ## Teiginiai
 
@@ -24,6 +24,8 @@ Lietuvos metraščiuose sukurta Palemono legenda tapo pagrindu lietuvių ir rus�
 - t-001
   global_id: t-75478
   teiginys: 'Lietuvos metraščiuose sukurta Palemono legenda tapo pagrindu lietuvių ir rusėnų bajorijai savo kilmę sieti su Palemono tradicija.'
+  sudarymo_pagrindimas: 'Citata leidžia tiksliau įvardyti lietuvių ir rusėnų bajoriją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos bajorija|Lietuvos bajorija]]; mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_person: [[objektai/asmenys/Palemonas|Palemonas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -31,6 +33,8 @@ Lietuvos metraščiuose sukurta Palemono legenda tapo pagrindu lietuvių ir rus�
 - t-002
   global_id: t-75480
   teiginys: 'Lietuvos metraščiuose užrašyti Gedimino sapno, Algirdo žygių į Maskvą ir Birutės bei Kęstučio meilės istorijos siužetai laikomi epiniais pasakojimais.'
+  sudarymo_pagrindimas: 'Citata palaiko konkretesnį ir aiškesnį teiginį su išvardytais siužetais.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Algirdo žygiai į Maskvą|Algirdo žygiai į Maskvą]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/epas|epas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Birutė|Birutė]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_place: Birutės kalnas; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Palanga; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -38,6 +42,8 @@ Lietuvos metraščiuose sukurta Palemono legenda tapo pagrindu lietuvių ir rus�
 - t-003
   global_id: t-75481
   teiginys: 'Rusėnų kalba buvo surašyti Lietuvos Metrika, Lietuvos metraščiai ir Lietuvos Statutai.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys ir citata jį tiesiogiai pagrindžia.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_object: [[objektai/daiktai/Duona|Duona]]; mentioned_place: Europa; mentioned_place: Krokuva; mentioned_place: Lietuva; mentioned_place: Luckas; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 

@@ -14,7 +14,7 @@ tags:
 
 ## Santrauka
 
-Ten žuvo nukautas brolis Konradas, vadinamas Tušenfeldu.
+Dusburgietis teigia, kad ten žuvo nukautas brolis Konradas, vadinamas Tušenfeldu.
 
 ## Teiginiai
 
@@ -22,6 +22,8 @@ Ten žuvo nukautas brolis Konradas, vadinamas Tušenfeldu.
 - t-001
   global_id: t-60370
   teiginys: 'Ten žuvo nukautas brolis Konradas, vadinamas Tušenfeldu.'
+  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Livonija'
   pagrindžia:
     - c-001
 
@@ -43,7 +45,3 @@ Ten žuvo nukautas brolis Konradas, vadinamas Tušenfeldu.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Gediminas]]

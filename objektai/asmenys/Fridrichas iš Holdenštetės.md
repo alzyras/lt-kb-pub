@@ -22,7 +22,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Tuo metu maršalu buvo brolis Fridrichas iš Holdenštetės397. Fridrichas iš Holdenštetės, Brandenburgo komtūras, su broliais ir ginklanešiais nusiaubė Saldavos valsčių Notangoje. Tuo metu maršalu buvo brolis Fridrichas iš Holdenštetės397.
+Dusburgietis teigia, kad tuo metu maršalu buvo brolis Fridrichas iš Holdenštetės397. Dusburgietis teigia, kad apie Brandenburgo pilies sunaikinimą Brolis Fridrichas iš Holdenštetės, Brandenburgo komtūras, su broliais bei ginklanešiais atvyko į Notangos valsčių, vardu Saldava403, buvusį netoli Kroicburgo pilies, ir jį nusiaubė, degindamas bei plėšdamas, daug žmonių.
 
 ## Teiginiai
 
@@ -30,6 +30,8 @@ Tuo metu maršalu buvo brolis Fridrichas iš Holdenštetės397. Fridrichas iš H
 - t-001
   global_id: t-60119
   teiginys: 'Tuo metu maršalu buvo brolis Fridrichas iš Holdenštetės397.'
+  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_place: Prūsija'
   pagrindžia:
     - c-002
 
@@ -37,6 +39,8 @@ Tuo metu maršalu buvo brolis Fridrichas iš Holdenštetės397. Fridrichas iš H
 - t-002
   global_id: t-60120
   teiginys: 'Fridrichas iš Holdenštetės, Brandenburgo komtūras, su broliais ir ginklanešiais nusiaubė Saldavos valsčių Notangoje.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas, konkretus ir paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_place: Brandenburgo pilis; mentioned_place: Kroicburgas; mentioned_place: Notanga'
   pagrindžia:
     - c-001
 
@@ -79,11 +83,3 @@ Tuo metu maršalu buvo brolis Fridrichas iš Holdenštetės397. Fridrichas iš H
   pagrindžia:
     - t-003
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Fridrichas]]
-- [[objektai/asmenys/Liudvikas]]
-- [[objektai/zodynas/ginklanešiai]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/maršalas]]

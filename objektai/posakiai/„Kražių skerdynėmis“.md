@@ -20,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-Sužeidimų, žūčių ir išprievartavimų lydėtus Kražių įvykius liaudis pavadino „Kražių skerdynėmis“. 1893 m. Kražių bažnyčios gynimą nuo uždarymo ir kazokų šturmą liaudis pavadino „Kražių skerdynėmis“.
+1893 m. po visą Europą nuskambėjo Kražių įvykiai – raiti kazokai šturmavo Kražių bažnyčią, kurią nuo uždarymo gynė susirinkę miestelio gyventojai.
 
 ## Teiginiai
 
@@ -28,6 +28,11 @@ Sužeidimų, žūčių ir išprievartavimų lydėtus Kražių įvykius liaudis p
 - t-001
   global_id: t-20847
   teiginys: 'Sužeidimų, žūčių ir išprievartavimų lydėtus Kražių įvykius liaudis pavadino „Kražių skerdynėmis“.'
+  sudarymo_pagrindimas: 'Pradiniame teiginyje buvo faktų, kurių pateikta citata tiesiogiai nepagrindžia.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Kražių įvykiai|Kražių įvykiai]]; mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Europa; mentioned_place: Kražiai; mentioned_place: Vatikanas'
+  temporaliniai_duomenys: 'įvykio data: 1893 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradiniame teiginyje buvo faktų, kurių pateikta citata tiesiogiai nepagrindžia.'
   pagrindžia:
     - c-001
 
@@ -35,9 +40,18 @@ Sužeidimų, žūčių ir išprievartavimų lydėtus Kražių įvykius liaudis p
 - t-002
   global_id: t-183494
   teiginys: '1893 m. Kražių bažnyčios gynimą nuo uždarymo ir kazokų šturmą liaudis pavadino „Kražių skerdynėmis“.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata geriau palaiko sakinį, aiškiai susiejantį įvykius su posakiu.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Kražių įvykiai|Kražių įvykiai]]; mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Europa; mentioned_place: Kražiai; mentioned_place: Vatikanas'
+  temporaliniai_duomenys: 'įvykio data: 1893 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata geriau palaiko sakinį, aiškiai susiejantį įvykius su posakiu.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/grupes/Kazokai.md#claim-t-65308|Kazokai]]: 1893 m. po visą Europą nuskambėjo Kražių įvykiai – raiti kazokai šturmavo Kražių bažnyčią, kurią nuo uždarymo gynė susirinkę miestelio gyventojai.
+- susijęs iš Kražių bažnyčia: 1893 m. po visą Europą nuskambėjo Kražių įvykiai – raiti kazokai šturmavo Kražių bažnyčią, kurią nuo uždarymo gynė susirinkę miestelio gyventojai.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -57,10 +71,3 @@ Sužeidimų, žūčių ir išprievartavimų lydėtus Kražių įvykius liaudis p
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kazokai]]
-- [[objektai/ivykiai/Kražių įvykiai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Rusai]]

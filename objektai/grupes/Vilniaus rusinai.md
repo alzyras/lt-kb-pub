@@ -10,6 +10,7 @@ tags:
   - miestas
   - privilegija
   - ritualas
+  - tauta
 ---
 # Vilniaus rusinai
 
@@ -23,9 +24,11 @@ Didesnioji Vilniaus miestiečių da­ lis juk buvo gerokai didesnį gyventojų s
 - t-001
   global_id: t-86775
   teiginys: 'Didesnę Vilniaus miestiečių dalį sudarė graikų apeigų tikėjimą išpažinę rusinai.'
+  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir palikta citatos aiškiai paremta faktinė mintis.'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/zodynas/čiornai čiornyje liūdi.md#claim-t-86497|čiornai čiornyje liūdi]]: Vilniaus rusinai ir rusų vienuoliai, žmonių vadinti čiornais, nuo Gedimino laikų turėjo savo vienuolyną.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -55,12 +58,3 @@ Didesnioji Vilniaus miestiečių da­ lis juk buvo gerokai didesnį gyventojų s
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/ritualas]]
-
-### Susiję objektai
-- [[objektai/zodynas/čiornai čiornyje liūdi]]
-- [[objektai/zodynas/miestiečių luomas]]
-- [[objektai/zodynas/schizmatikai graikų apeigų tikėjimas]]

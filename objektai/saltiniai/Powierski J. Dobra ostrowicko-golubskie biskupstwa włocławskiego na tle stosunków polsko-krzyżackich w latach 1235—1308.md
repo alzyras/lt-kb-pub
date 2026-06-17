@@ -25,7 +25,7 @@ amziai:
 
 ## Santrauka
 
-555 Aprašomas 1302—1303 m. žiemos puolimas (Powierski J., Dobra..., p. 201). J. Powierskio veikale Dusburgiečio 1292 m. datuotas puolimas siejamas su 1294 m. įvykiais. J. Powierskis Goliubo pilį siejo ne su Konrado Žako statyba, o su jos pritaikymu kryžiuočių poreikiams.
+Dusburgietis teigia, kad apie tai, kaip krikščionys stebuklingai ištrūko nuo netikėlių rankų 540 Aprašomas ne 1292 m., kaip teigia Dusburgietis, o 1294 m. puolimas (SRP, 1, p. 156, išnaša 1; Regesta Lithuaniae..., p. 147; Powierski J., Dobra..., p. 162). Dusburgietis teigia, kad dėl to, prisiartinus brolių kariuomenei, jis slapta atidarė pilies vartus, ir broliai, ten įsibrovę, visus išžudė, išskyrus vieną, būtent Sudargo sūnų, kuris vis dėlto buvo sunkiai 554 Konradas Žakas, atrodo, ne pastatė Goliubo pilį, o tik ją pritaikė. Dusburgietis teigia, kad 555 Aprašomas 1302—1303 m. žiemos puolimas (Powierski J., Dobra..., p. 201).
 
 ## Teiginiai
 
@@ -33,6 +33,10 @@ amziai:
 - t-001
   global_id: t-60959
   teiginys: '555 Aprašomas 1302—1303 m. žiemos puolimas (Powierski J., Dobra..., p. 201).'
+  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
+  temporaliniai_duomenys: 'įvykio data: 1303 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'claim_quality_pipeline deterministic repair'
   pagrindžia:
     - c-003
 
@@ -40,6 +44,11 @@ amziai:
 - t-002
   global_id: t-60960
   teiginys: 'J. Powierskio veikale Dusburgiečio 1292 m. datuotas puolimas siejamas su 1294 m. įvykiais.'
+  sudarymo_pagrindimas: 'Pradinis teiginys turi OCR triukšmo; citata remia datavimo pataisą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]'
+  temporaliniai_duomenys: 'įvykio data: 1292 m.; įvykio data: 1294 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys turi OCR triukšmo; citata remia datavimo pataisą.'
   pagrindžia:
     - c-001
 
@@ -47,6 +56,8 @@ amziai:
 - t-003
   global_id: t-60961
   teiginys: 'J. Powierskis Goliubo pilį siejo ne su Konrado Žako statyba, o su jos pritaikymu kryžiuočių poreikiams.'
+  sudarymo_pagrindimas: 'Citata remia konkrečią Powierskio išvadą; pašalintas nesusijęs kronikos fragmentas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/asmenys/Sudargas|Sudargas]]'
   pagrindžia:
     - c-002
 

@@ -27,6 +27,7 @@ Vartojamos formos: `ašvienio`.
 - t-001
   global_id: t-69978
   teiginys: 'Ašvienio neturintis vargdienis galėjo išnuomoti dirvą ar pievą kitam ir gauti pusę javų ar šieno.'
+  sudarymo_pagrindimas: 'Teiginys perrašytas taip, kad aiškiai minėtų žodyno objektą ir remtųsi citatos ūkinio sandorio aprašymu.'
   pagrindžia:
     - c-001
 
@@ -36,7 +37,9 @@ Vartojamos formos: `ašvienio`.
   teiginys: '`Ašvienis` šiame tekste reiškia arklį ar kitą jojamąjį/ūkinį gyvulį.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/autoriai/Guagnini.md#claim-t-30624|Guagnini]]: Guagnini kartu su Herbersteinu ir Lasiciu pateikė netikslių XVI a. žinių, kad Žemaičiuose naudoti tik mediniai arklų noragai.
+- susijęs iš [[objektai/autoriai/Herberstein.md#claim-t-30638|Herberstein]]: Herbersteino XVI a. žinios, kad Žemaičiuose tebuvę vartojami mediniai arklų noragai, laikomos netiksliomis.
+- susijęs iš [[objektai/daiktai/Žemdirbystės įrankiai.md#claim-t-179494|Žemdirbystės įrankiai]]: Žemės darbui naudotas jaučių jungas, vėliau arklai su geležiniu noragu ir kiti geležiniai darbo įrankiai.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -49,9 +52,3 @@ Vartojamos formos: `ašvienio`.
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/Guagnini]]
-- [[objektai/autoriai/Herberstein]]
-- [[objektai/daiktai/Žemdirbystės įrankiai]]

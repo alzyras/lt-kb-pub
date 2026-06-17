@@ -39,6 +39,9 @@ Nenurodyta
 - t-001
   global_id: t-62927
   teiginys: 'Broliams negrąžinus sūnaus, Sventopelkas Vyslos ir Nogato santakoje pastatė Santyro pilį.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Citata palaiko aiškų faktą apie Santyro pilies pastatymą, o pradinis teiginys cituoja kalbą ir yra perkrautas.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Nogatas; mentioned_place: Santyras; mentioned_place: Vysla'
   pagrindžia:
     - c-001
 
@@ -46,6 +49,9 @@ Nenurodyta
 - t-002
   global_id: t-62928
   teiginys: 'Sventopelkas surinko stiprią kariuomenę, įsibrovė į Kujaviją ir degindamas bei plėšdamas baisiai ją sunaikino.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Kujavija'
   pagrindžia:
     - c-002
 
@@ -87,8 +93,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Sventopelkas]]
-- [[objektai/asmenys/Kazimieras (Kujavijos kunigaikštis)]]

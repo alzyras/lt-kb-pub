@@ -27,9 +27,10 @@ Vartojamos formos: `sriuobalą`, `sriuobalu`.
 - t-001
   global_id: t-70049
   teiginys: '`Sriuobalas` šiame tekste reiškia skystą valgomą putrą ar sriubą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Duona|Duona]]'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/paprociai/Vasaros valgymas ant žemės ir paprasti sriuobalai.md#claim-t-07812|Vasaros valgymas ant žemės ir paprasti sriuobalai]]: Vasarą visi valgė ant žemės, prisikloję dembliais ar meškenomis.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -47,8 +48,3 @@ Vartojamos formos: `sriuobalą`, `sriuobalu`.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/paprociai/Vasaros valgymas ant žemės ir paprasti sriuobalai]]
-- [[objektai/daiktai/Duona]]

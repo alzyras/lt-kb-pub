@@ -43,6 +43,11 @@ Nenurodyta
 - t-001
   global_id: t-35886
   teiginys: '1382 m. liepos 20 d. Trakų pilies įgula pasidavė Jogailai, o pilyje buvo pastatyti jo kareiviai.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir tiesiogiai paremtas citatos duomenimis.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/Kariauna|Kariauna]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Trakai'
+  temporaliniai_duomenys: 'pastatymo data: 1382 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys ir tiesiogiai paremtas citatos duomenimis.'
   pagrindžia:
     - c-001
 
@@ -50,6 +55,7 @@ Nenurodyta
 - t-002
   global_id: t-35887
   teiginys: 'Skirgaila Trakų piliai ginti iš maršalkos gavo dovanų kelias dideles armotas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/maršalka|maršalka]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Trakai'
   pagrindžia:
     - c-002
 
@@ -84,11 +90,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- [[objektai/asmenys/Skirgaila]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/maršalka]]
-- [[objektai/zodynas/įgula]]

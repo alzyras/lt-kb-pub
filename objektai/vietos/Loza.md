@@ -29,9 +29,15 @@ Dusburgietis teigia, kad gyvenvietė minima 1222 m. dokumente Lozos vardu (PUB, 
 - t-001
   global_id: t-58701
   teiginys: 'Loza minima 1222 m. dokumente, o 1246 m. dokumente rašoma apie prie Lozos kaimo esantį ežerą.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nurodo dokumentų datas ir yra paremtas citata.'
+  susije_objektai: 'mentioned_place: Kaimas'
+  temporaliniai_duomenys: 'įvykio data: 1222 m.; įvykio data: 1246 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo dokumentų datas ir yra paremtas citata.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/ivykiai/Kulmo vyskupijos katedros ir miesto Culmense įkūrimas (1251 m.).md#claim-t-59552|Kulmo vyskupijos katedros ir miesto Culmense įkūrimas (1251 m.)]]: 1251 m. Culmense vietovėje įkurta Kulmo vyskupijos katedra ir miestas Culmense.
+- susijęs iš Chełmža: Chełmža 1222 m. dokumente minima Lozos vardu, o 1251 m. joje įkurta Kulmo vyskupijos katedra ir miestas Culmense.
 ## Reikšmingi paminėjimai
 
 - c-001

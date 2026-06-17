@@ -20,6 +20,7 @@ Pakilau perbėgti tolyn ir matau - greta manęs buvęs Mingilas krinta apsipylę
 - t-001
   global_id: t-39051
   teiginys: 'Sužeistas Mingilas raitėsi iš skausmo ir pasakė: „Nepalik manęs gyvo — nušauk.“'
+  sudarymo_pagrindimas: 'Pradinis teiginys aprašo tik ankstesnį veiksmą, o citata tiesiogiai pagrindžia patį posakį.'
   pagrindžia:
     - c-001
 

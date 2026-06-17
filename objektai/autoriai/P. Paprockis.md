@@ -26,9 +26,14 @@ Vilniaus akademijos profesorius P. Paprockis parašė trumpą Lietuvos istoriją
 - t-001
   global_id: t-186290
   teiginys: 'Vilniaus akademijos profesorius P. Paprockis parašė trumpą Lietuvos istoriją lenkų kalba.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Paprockį ir paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/autoriai/Albertas Vijūkas-Kojelavičius.md#claim-t-184603|Albertas Vijūkas-Kojelavičius]]: J. Jurginis įvade teigia, kad Alberto Vijūko-Kojelavičiaus „Lietuvos istorija“ sėkmingai atstovavo Lietuvai mokslo pasaulyje.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -48,7 +53,3 @@ Vilniaus akademijos profesorius P. Paprockis parašė trumpą Lietuvos istoriją
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]

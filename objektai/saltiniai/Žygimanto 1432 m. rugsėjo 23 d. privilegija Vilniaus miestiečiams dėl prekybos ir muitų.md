@@ -28,6 +28,11 @@ Tų pačių metų rugsėjo 23 dieną Žygimantas, protėvių pa­ pročiu, Vilni
 - t-001
   global_id: t-88516
   teiginys: '1432 m. rugsėjo 23 d. Žygimantas suteikė Vilniaus miestiečiams teisę prekiauti ir be muitų gabenti prekes Lietuvos žemėje.'
+  sudarymo_pagrindimas: 'Citata palaiko faktą, bet reikėjo pašalinti OCR triukšmą ir perteklinį vietovių sąrašą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva; mentioned_place: Smolenskas; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1432 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko faktą, bet reikėjo pašalinti OCR triukšmą ir perteklinį vietovių sąrašą.'
   pagrindžia:
     - c-001
 

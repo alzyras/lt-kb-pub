@@ -30,6 +30,7 @@ Formulė pateikiama kaip politinis Gedimino pareiškimas, atskiriantis kovą su 
 - t-001
   global_id: t-67272
   teiginys: 'Gediminas pareiškė, kad lietuviai kariauja ne su kryžiumi, o su vokiečiais.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Europa'
   pagrindžia:
     - c-001
 
@@ -37,6 +38,8 @@ Formulė pateikiama kaip politinis Gedimino pareiškimas, atskiriantis kovą su 
 - t-002
   global_id: t-67273
   teiginys: 'Gediminas pareiškė, kad lietuviai kariauja ne su kryžiumi, o su vokiečiais, ir prieš juos jungėsi su lenkais bei mozūrais.'
+  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir palikti tik citatos palaikomi faktai.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Europa'
   pagrindžia:
     - c-001
 
@@ -59,12 +62,3 @@ Formulė pateikiama kaip politinis Gedimino pareiškimas, atskiriantis kovą su 
   pagrindžia:
     - t-001
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Gediminas]]
-- [[objektai/grupes/Krikščionys]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Vokiečiai]]

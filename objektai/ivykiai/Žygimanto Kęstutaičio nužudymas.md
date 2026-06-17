@@ -5,18 +5,21 @@ saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 datos:
   - '1440 m.'
+  - '1830 m.'
+  - '1831 m.'
 date_start: '1440'
-date_end: ''
+date_end: '1831'
 sukurta: ''
 atnaujinta: ''
 amziai:
   - 'XV'
+  - 'XIX'
 ---
 # Žygimanto Kęstutaičio nužudymas
 
 ## Santrauka
 
-Ipolitas Klimaševskis paskelbė Bychovco kronikos pasakojimą apie Žygimanto Kęstutaičio nužudymą 1440 m. Žygimanto Kęstutaičio nužudymas datuojamas 1440 m.
+Ipolitas Klimaševskis paskelbė Bychovco kronikos fragmentą apie Žygimanto Kęstutaičio nužudymą. Įvykis datuojamas 1440 metais.
 
 ## Laikotarpis ir datos
 
@@ -46,6 +49,12 @@ Nenurodyta
 - t-001
   global_id: t-187470
   teiginys: 'Ipolitas Klimaševskis paskelbė Bychovco kronikos pasakojimą apie Žygimanto Kęstutaičio nužudymą 1440 m.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas faktinis sakinys apie pasakojimo paskelbimą ir jo objektą. Citata tiesiogiai remia Ipolito Klimaševskio veiksmą ir 1440 m. nužudymo temą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Ipolitas Klimaševskis|Ipolitas Klimaševskis]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Mogiliovcai'
+  temporaliniai_duomenys: 'įvykio data: 1440 m.; įvykio data: 1830 m.; įvykio data: 1831 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas faktinis sakinys apie pasakojimo paskelbimą ir jo objektą. Citata tiesiogiai remia Ipolito Klimaševskio veiksmą ir 1440 m. nužudymo temą.'
   pagrindžia:
     - c-001
 
@@ -53,6 +62,12 @@ Nenurodyta
 - t-002
   global_id: t-187471
   teiginys: 'Žygimanto Kęstutaičio nužudymas datuojamas 1440 m.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Trumpas faktinis sakinys apie įvykį, aiškiai paremtas citata.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Mogiliovcai'
+  temporaliniai_duomenys: 'įvykio data: 1440 m.; įvykio data: 1830 m.; įvykio data: 1831 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Trumpas faktinis sakinys apie įvykį, aiškiai paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -74,8 +89,3 @@ Nenurodyta
   pagrindžia:
     - t-001
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Ipolitas Klimaševskis|Ipolitas Klimaševskis (Vilniaus gimnazijos mokytojas, XIX a.)]]
-- [[objektai/asmenys/Žygimantas]]

@@ -27,6 +27,11 @@ amziai:
 - t-001
   global_id: t-41639
   teiginys: '1620 m. Lenkijos kariuomenė įžengė į Valakiją ir mūšyje prie Cecoro netoli Jasų buvo sutriuškinta Turkijos kariuomenės.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie mūšio vietą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkijos kariuomenė|Lenkijos kariuomenė]]; mentioned_place: Jasai; mentioned_place: Lenkija; mentioned_place: Turkija; mentioned_place: Valakija'
+  temporaliniai_duomenys: 'įvykio data: 1620 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie mūšio vietą.'
   pagrindžia:
     - c-001
 

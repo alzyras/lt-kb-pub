@@ -52,6 +52,12 @@ Nenurodyta
 - t-001
   global_id: t-62118
   teiginys: '1313 m. gegužės 5 d. popiežius Klemensas V kanonizavo Petrą Celestiną V ir liepė jį gerbti birželio 14 d.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus ir tiesiogiai susijęs su liturginio minėjimo dienos nustatymu.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Klemensas V|Klemensas V]]'
+  temporaliniai_duomenys: 'įvykio data: 1313 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus ir tiesiogiai susijęs su liturginio minėjimo dienos nustatymu.'
   pagrindžia:
     - c-001
 
@@ -59,6 +65,12 @@ Nenurodyta
 - t-002
   global_id: t-62119
   teiginys: '1317 m. popiežius Jonas kanonizavo šventą Liudviką ir liepė jo gimimą švęsti penktą dieną po Žolinės.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys gramatiškai ir tiksliai perteikia citatoje nurodytą kanonizavimą bei minėjimo laiką.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Robertas (Sicilijos karalius)|Robertas (Sicilijos karalius)]]'
+  temporaliniai_duomenys: 'įvykio data: 1317 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys gramatiškai ir tiksliai perteikia citatoje nurodytą kanonizavimą bei minėjimo laiką.'
   pagrindžia:
     - c-002
 
@@ -93,15 +105,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Klemensas V]]
-- [[objektai/asmenys/Robertas (Sicilijos karalius)]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/asmenys/Jonas]]
-- [[objektai/ivykiai/Celestino V kanonizavimas (1313 m. gegužės 5 d.)]]
-- [[objektai/asmenys/Liudvikas (Sicilijos karaliaus Roberto brolis)]]
-- [[objektai/asmenys/Petras (Celestinas V)]]
-- [[objektai/grupes/Pranciškonų ordinas]]
-- [[objektai/ivykiai/Švento Liudviko, Roberto brolio, kanonizavimas (1317 m.)]]

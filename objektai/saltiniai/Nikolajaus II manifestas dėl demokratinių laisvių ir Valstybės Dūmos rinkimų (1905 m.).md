@@ -28,6 +28,11 @@ Po to, kai 1905 m. spalio pabaigoje caras Nikolajus II, išsigandęs vis kylanč
 - t-001
   global_id: t-21213
   teiginys: '1905 m. spalio pabaigoje caras Nikolajus II išleido manifestą, pažadėjusį demokratines laisves ir Valstybės Dūmos rinkimus.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nusako manifestą, datą, autorių ir pažadėtą turinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Nikolajus II|Nikolajus II]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1905 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako manifestą, datą, autorių ir pažadėtą turinį.'
   pagrindžia:
     - c-001
 

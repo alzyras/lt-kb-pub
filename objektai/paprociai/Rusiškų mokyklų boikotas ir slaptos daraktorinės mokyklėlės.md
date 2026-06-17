@@ -23,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-Po 1863–1864 m. sukilimo daraktorinėmis vadintos slaptos mokyklėlės masiškai išplito ir miestuose. Policijos persekiojamos daraktorinės mokyklėlės neišnyko, nes jų poreikis virto tradicija. XIX a. pabaigoje etninėje Lietuvoje oficialias pradžios mokyklas lankė itin maža mokyklinio amžiaus vaikų dalis.
+Po 1863– 1864 m. sukilimo leidus steigti tik rusiškas mokyklas, kuriose mokytų rusai, vyskupas per patikimus kunigus paragino kaimiečius vaikų į tokias mokyklas neleisti. Nors tas mokyklėles persekiojo policija, įkliuvusius jų mokytojus valdžia kartais ištremdavo keleriems metams į Rusijos gilumą, tai nieko neatbaidė – buvo poreikis, susiformavo tradicija. Etninės Lietuvos teritorija visoje europinėje Rusijos imperijos dalyje išsiskyrė bene mažiausiu mokyklinio amžiaus vaikų, lankančių oficialias pradžios mokyklas, procentu – europinėje Rusijos imperijos dalyje XIX a.
 
 ## Laikotarpis ir datos
 
@@ -51,6 +51,11 @@ Nenurodyta
 - t-001
   global_id: t-75389
   teiginys: 'Po 1863–1864 m. sukilimo daraktorinėmis vadintos slaptos mokyklėlės masiškai išplito ir miestuose.'
+  sudarymo_pagrindimas: 'Reikia aiškesnio laiko ir konteksto, kurį pateikia citata.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/Motiejus Valančius|Motiejus Valančius]]; mentioned_place: Kaimas; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1863-1864; įvykio data: 1864 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia aiškesnio laiko ir konteksto, kurį pateikia citata.'
   pagrindžia:
     - c-003
 
@@ -58,6 +63,7 @@ Nenurodyta
 - t-002
   global_id: t-75391
   teiginys: 'Policijos persekiojamos daraktorinės mokyklėlės neišnyko, nes jų poreikis virto tradicija.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/daraktorinės mokyklėlės|daraktorinės mokyklėlės]]; mentioned_place: Rusija'
   pagrindžia:
     - c-001
 
@@ -65,6 +71,11 @@ Nenurodyta
 - t-003
   global_id: t-75392
   teiginys: 'XIX a. pabaigoje etninėje Lietuvoje oficialias pradžios mokyklas lankė itin maža mokyklinio amžiaus vaikų dalis.'
+  sudarymo_pagrindimas: 'Pašalintas puslapio ir OCR triukšmas, paliktas šaltinio remiamas faktas.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Pirmasis visuotinis Rusijos imperijos gyventojų surašymas|Pirmasis visuotinis Rusijos imperijos gyventojų surašymas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Rusija'
+  temporaliniai_duomenys: 'įvykio data: 1897 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas puslapio ir OCR triukšmas, paliktas šaltinio remiamas faktas.'
   pagrindžia:
     - c-002
 
@@ -72,6 +83,7 @@ Nenurodyta
 - t-004
   global_id: t-75393
   teiginys: 'Policijos persekiojamos daraktorinės mokyklėlės neišnyko, nes jų poreikis išliko ir susiformavo tokio mokymo tradicija.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/daraktorinės mokyklėlės|daraktorinės mokyklėlės]]; mentioned_place: Rusija'
   pagrindžia:
     - c-001
 
@@ -79,6 +91,11 @@ Nenurodyta
 - t-005
   global_id: t-75394
   teiginys: 'XIX a. pabaigoje Kauno gubernijoje oficialias pradžios mokyklas lankė 21 proc. berniukų ir 4 proc. mergaičių.'
+  sudarymo_pagrindimas: 'Teiginys yra konkretus, gramatiškas ir pagrįstas citatos statistika.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Pirmasis visuotinis Rusijos imperijos gyventojų surašymas|Pirmasis visuotinis Rusijos imperijos gyventojų surašymas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Rusija'
+  temporaliniai_duomenys: 'įvykio data: 1897 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus, gramatiškas ir pagrįstas citatos statistika.'
   pagrindžia:
     - c-002
 
@@ -86,6 +103,14 @@ Nenurodyta
 - t-006
   global_id: t-183334
   teiginys: 'Po 1863–1864 m. sukilimo vyskupas Motiejus Valančius per kunigus ragino kaimiečius neleisti vaikų į rusiškas mokyklas.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Reikia išplėsti dalinę nuorodą į aiškiai įvardytą vyskupą ir sutvarkyti sakinį.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]; mentioned_person: [[objektai/autoriai/Motiejus Valančius|Motiejus Valančius]]; mentioned_place: Kaimas; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1863-1864; įvykio data: 1864 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia išplėsti dalinę nuorodą į aiškiai įvardytą vyskupą ir sutvarkyti sakinį.'
   pagrindžia:
     - c-003
 
@@ -155,12 +180,3 @@ Nenurodyta
   pagrindžia:
     - t-006
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/autoriai/Motiejus Valančius]]
-- [[objektai/ivykiai/Pirmasis visuotinis Rusijos imperijos gyventojų surašymas]]
-- [[objektai/zodynas/gubernija]]
-- [[objektai/asmenys/Motiejus]]
-- [[objektai/zodynas/daraktorinės mokyklėlės]]

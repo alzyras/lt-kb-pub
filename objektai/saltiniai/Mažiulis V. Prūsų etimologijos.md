@@ -27,6 +27,11 @@ Dusburgietis teigia, kad mažiulis V.
 - t-001
   global_id: t-61169
   teiginys: 'V. Mažiulio „Prūsų etimologijos“ publikuotos „Baltistica“ 1975 m. ir 1978 m. numeriuose.'
+  sudarymo_pagrindimas: 'Citata patvirtina publikavimo žurnalą ir metus.'
+  susije_objektai: 'mentioned_place: Prūsai'
+  temporaliniai_duomenys: 'įvykio data: 1975 m.; įvykio data: 1978 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata patvirtina publikavimo žurnalą ir metus.'
   pagrindžia:
     - c-001
 

@@ -20,9 +20,12 @@ Pabaiskas yra parapijos kaimas, priklausantis vie­ tiniam klebonui ir nutolęs 
 - t-001
   global_id: t-86202
   teiginys: 'Pabaiskas buvo už pusės mylios nuo Kščeniškių ir per 2 varstus į kairę nuo Vilniaus–Ukmergės pašto trakto.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, tikslus ir paremtas citata apie Pabaisko padėtį Kščeniškių atžvilgiu.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/fundacija|fundacija]]; mentioned_place: Pabaiskas; mentioned_place: Ukmergė'
   pagrindžia:
     - c-001
-
+- susijęs iš Pabaiskas: Pabaiskas buvo parapijos kaimas, nutolęs nuo Vilniaus–Ukmergės pašto trakto per 2 varstus į kairę.
+- susijęs iš Pabaiskas: Pabaiskas buvo kalvota, bet atvira ir gana graži vietovė prie naujos mūrinės bažnyčios.
 ## Reikšmingi paminėjimai
 
 - c-001

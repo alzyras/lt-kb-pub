@@ -22,6 +22,8 @@ Dusburgietis teigia, kad kronikininkas parodo, kad užkariavimus Ordinas įtvirt
 - t-001
   global_id: t-58939
   teiginys: 'Petras Dusburgietis Ordino pilių statybą vaizdavo kaip užkariavimų įtvirtinimą „iš dievo malonės“ ir „viešpaties darbą“.'
+  sudarymo_pagrindimas: 'Citata remia autoriaus vaizdavimo teiginį, bet pradinis sakinys per ilgas ir prasideda boilerplate.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_person: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_person: [[objektai/autoriai/Petras Dusburgietis|Petras Dusburgietis]]; mentioned_person: [[objektai/asmenys/Petras iš Dusburgo|Petras iš Dusburgo]]; mentioned_place: Kristmemelis; mentioned_place: Marienverderis; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
 
@@ -44,11 +46,3 @@ Dusburgietis teigia, kad kronikininkas parodo, kad užkariavimus Ordinas įtvirt
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/Dusburgas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Petras iš Dusburgo|Petras iš Dusburgo (kunigas)]]
-- [[objektai/zodynas/netikėliai]]
-- [[objektai/autoriai/Petras Dusburgietis]]

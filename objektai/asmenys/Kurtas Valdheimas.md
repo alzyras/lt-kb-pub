@@ -3,10 +3,19 @@ tipas: asmuo
 pavadinimas: 'Kurtas Valdheimas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1939 m.'
+  - '1979 m.'
+date_start: '1939'
+date_end: '1979'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'modernioji Lietuva'
 ---
 # Kurtas Valdheimas
 
@@ -20,6 +29,11 @@ Dar didesnio atgarsio susilaukė vadinamasis 45 pabaltijiečių memorandumas, ad
 - t-001
   global_id: t-19084
   teiginys: 'Kurtas Valdheimas buvo JT generalinis sekretorius, kuriam adresuotas 45 pabaltijiečių memorandumas.'
+  sudarymo_pagrindimas: 'Reikia sakinio apie asmenį, o citata patvirtina jo pareigas ir memorandumo adresavimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_place: Baltija; mentioned_place: Vokietija'
+  temporaliniai_duomenys: 'įvykio data: 1939 m.; įvykio data: 1979 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia sakinio apie asmenį, o citata patvirtina jo pareigas ir memorandumo adresavimą.'
   pagrindžia:
     - c-001
 
@@ -41,7 +55,3 @@ Dar didesnio atgarsio susilaukė vadinamasis 45 pabaltijiečių memorandumas, ad
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]

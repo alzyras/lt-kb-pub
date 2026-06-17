@@ -4,6 +4,10 @@ pavadinimas: 'Žemutinė pilis Kreivoji pilis (pilis)'
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+datos:
+  - '1390 m.'
+date_start: '1390'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -11,19 +15,24 @@ tags:
   - karalius
   - kunigaikštis
   - vieta
+amziai:
+  - 'XIV'
 ---
 # Žemutinė pilis Kreivoji pilis (pilis)
 
 ## Santrauka
 
-Vilniaus Žemutinės pilies vietoje sodybų žymių rasta jau iš I tūkstantmečio vidurio. Seniausieji Žemutinės pilies įtvirtinimai tebebuvo neištirti, o jų pastatymo data nenustatyta. Vytautas šturmavo Kreivąją pilį prie Vilniaus.
+O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai vieno gar­ siausių Lietuvos didikų Manvydo rūmai, o kalno papėdėje, palei Viliją, driekėsi Žemutinė pilis, vadinta Kreivąja. Iš Žemutinės pilies vakarinių var­ tų vedė kelias per du tiltus, nutiestus per Vilnios upę ir Ving­ rių upokšnį, kuris šalimais su ana upe įtekėjo į Viliją.
 
 ## Teiginiai
 
 <a id="claim-t-187178"></a>
 - t-001
   global_id: t-187178
-  teiginys: 'Vilniaus Žemutinės pilies vietoje sodybų žymių rasta jau iš I tūkstantmečio vidurio.'
+  teiginys: 'Vilniaus Žemutinės pilies vietoje, Gedimino kalno papėdėje, sodybų žymių rasta iš I tūkstantmečio vidurio.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Patikslintas objektas pagal citatos paaiškinimą apie Žemutinės pilies vietą. Pašalintas OCR triukšmas ir nepridėta vėlesnio mūrinio pastato fakto.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Lizdeika|Lizdeika]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-004
 
@@ -31,13 +40,18 @@ Vilniaus Žemutinės pilies vietoje sodybų žymių rasta jau iš I tūkstantme�
 - t-002
   global_id: t-187179
   teiginys: 'Seniausieji Žemutinės pilies įtvirtinimai tebebuvo neištirti, o jų pastatymo data nenustatyta.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra išsamus, gramatinis ir paremtas citata.'
   pagrindžia:
     - c-006
 
 <a id="claim-t-187181"></a>
 - t-003
   global_id: t-187181
-  teiginys: 'Vytautas šturmavo Kreivąją pilį prie Vilniaus.'
+  teiginys: 'Vytautas su visomis pajėgomis apgulė Vilnių ir pradėjo šturmuoti Kreivąją pilį bei šaudyti iš patrankų.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pašalintas titulas ir išlaikytas tiesiogiai cituotas veiksmas apie Kreivąją pilį. Dieviškos pagalbos motyvas sąmoningai neįtrauktas.'
+  susije_objektai: 'object: [[objektai/grupes/Bajorai|Bajorai]]; object: [[objektai/asmenys/Levas (Haličo kunigaikštis)|Levas (Haličo kunigaikštis)]]; object: Lietuva; object: Smolenskas; object: Vilnius; object: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]; mentioned_person: [[objektai/asmenys/Levas (Haličo kunigaikštis)|Levas (Haličo kunigaikštis)]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Smolenskas; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -45,6 +59,8 @@ Vilniaus Žemutinės pilies vietoje sodybų žymių rasta jau iš I tūkstantme�
 - t-004
   global_id: t-187182
   teiginys: 'Iš Žemutinės pilies vakarinių vartų kelias vedė per du tiltus, nutiestus per Vilnią ir Vingrių upokšnį.'
+  teiginio_tipas: 'faktas'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_person: [[objektai/asmenys/Vladislovas Jogaila|Vladislovas Jogaila]]; mentioned_place: Lietuva; mentioned_place: Vilija; mentioned_place: Vilnius'
   pagrindžia:
     - c-005
 
@@ -52,6 +68,8 @@ Vilniaus Žemutinės pilies vietoje sodybų žymių rasta jau iš I tūkstantme�
 - t-005
   global_id: t-187183
   teiginys: 'Žemutinė pilis, vadinta Kreivąja, driekėsi pilies kalno papėdėje palei Viliją.'
+  teiginio_tipas: 'faktas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Manvydas|Manvydas]]; mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_place: Lietuva; mentioned_place: Vilija; mentioned_place: Vilnelė'
   pagrindžia:
     - c-003
 
@@ -59,13 +77,22 @@ Vilniaus Žemutinės pilies vietoje sodybų žymių rasta jau iš I tūkstantme�
 - t-007
   global_id: t-187187
   teiginys: 'Vilniaus Žemutinės pilies teritorijoje XIII a. antrojoje pusėje ir XIV a. pradžioje būta mūrinio pastato.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Paliktas vienas archeologinis faktas apie Žemutinės pilies teritoriją. Neįtraukta Lizdeikos pastaba ir puslapio antraštės triukšmas.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Lizdeika|Lizdeika]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-004
 
 <a id="claim-t-187188"></a>
 - t-008
   global_id: t-187188
-  teiginys: 'Kryžiuočių kronikoje minima didelė medinė Kreivoji pilis.'
+  teiginys: 'Didelė medinė Kreivoji pilis minima kryžiuočių kronikos 1390 m. Vilniaus puolimo aprašyme.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir gramatiškas sakinys apie Kreivosios pilies minimą kontekstą. Jame nepridedama vertinimų ar metraščio nepagrįstų detalių.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1390 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir gramatiškas sakinys apie Kreivosios pilies minimą kontekstą. Jame nepridedama vertinimų ar metraščio nepagrįstų detalių.'
   pagrindžia:
     - c-002
 
@@ -73,6 +100,9 @@ Vilniaus Žemutinės pilies vietoje sodybų žymių rasta jau iš I tūkstantme�
 - t-009
   global_id: t-187189
   teiginys: 'Žemutinės pilies įtvirtinimai veikiausiai yra ankstesni už Gedimino laikotarpį.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys aiškiai perteikia citatos atsargią išvadą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]'
   pagrindžia:
     - c-006
 
@@ -80,6 +110,9 @@ Vilniaus Žemutinės pilies vietoje sodybų žymių rasta jau iš I tūkstantme�
 - t-012
   global_id: t-187192
   teiginys: 'Vilniaus Žemoji pilis laikoma Gedimino kalno papėdėje buvusiu gynybinių įrengimų ir kitų pastatų kompleksu.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys ir atitinka citatos turinį.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Lizdeika|Lizdeika]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-004
 
@@ -87,6 +120,12 @@ Vilniaus Žemutinės pilies vietoje sodybų žymių rasta jau iš I tūkstantme�
 - t-014
   global_id: t-187195
   teiginys: '1390 m. Vilniaus puolimo metu Kreivoji pilis buvo sudeginta ir daugiau nebeatstatyta.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nusako Kreivosios pilies likimą 1390 m. Vilniaus puolimo metu. Jis remiasi citata ir neprideda papildomos priežasties ar kaltininko.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1390 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako Kreivosios pilies likimą 1390 m. Vilniaus puolimo metu. Jis remiasi citata ir neprideda papildomos priežasties ar kaltininko.'
   pagrindžia:
     - c-002
 

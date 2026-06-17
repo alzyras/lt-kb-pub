@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Prie Myro rimtesnės kautynės vyko birželio 11 dieną, o birželio 14-ąją Vilnius buvo atiduotas be kovos.
+Rimtesnės kautynės vyko birželio 11 dieną prie Myro, tačiau birželio 14-ąją Vilnius buvo atiduotas be kovos.
 
 ## Laikotarpis ir datos
 
@@ -36,6 +36,8 @@ Nenurodyta
 - t-001
   global_id: t-20427
   teiginys: 'Prie Myro rimtesnės kautynės vyko birželio 11 dieną, o birželio 14-ąją Vilnius buvo atiduotas be kovos.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, pilnas sakinys ir atitinka citatos informaciją.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Varšuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -54,8 +56,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/ivykiai/Vilniaus atidavimas be kovos]]

@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Graikų katalikų bažnyčios metropolitai buvo Kijevo metropolitai, nuolat rezidavę Vilniuje.
+Tačiau Graikų katalikų bažnyčios metropolitai vėlgi buvo Kijevo metropolitai, tik jau nuolat reziduojantys Vilniuje.
 
 ## Teiginiai
 
@@ -20,6 +20,8 @@ Graikų katalikų bažnyčios metropolitai buvo Kijevo metropolitai, nuolat rezi
 - t-001
   global_id: t-74119
   teiginys: 'Graikų katalikų bažnyčios metropolitai buvo Kijevo metropolitai, nuolat rezidavę Vilniuje.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Graikų katalikų bažnyčią.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Brasta; mentioned_place: Kijevas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -38,8 +40,3 @@ Graikų katalikų bažnyčios metropolitai buvo Kijevo metropolitai, nuolat rezi
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/unija]]
-- [[objektai/zodynas/metropolija bažnytinė unija|metropolija bažnytinė unija (unija)]]

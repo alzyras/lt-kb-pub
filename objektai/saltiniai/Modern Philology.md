@@ -21,6 +21,7 @@ Dwight Iš jo „Modern Philology“ („Modernioji filologija“).
 - t-001
   global_id: t-45745
   teiginys: 'Benjaminas W. Dwightas veikale „Modern Philology“ lietuvių kalbos grožį iškėlė kaip lietuvių tautos vertės pagrindą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/autoriai/Benjamin W. Dwight|Benjamin W. Dwight]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Vokietija'
   pagrindžia:
     - c-001
 
@@ -28,6 +29,8 @@ Dwight Iš jo „Modern Philology“ („Modernioji filologija“).
 - t-002
   global_id: t-45746
   teiginys: '„Modern Philology“ lietuvių kalba apibūdinta kaip turinti daugiausia maloninių ir mažybinių žodžių tarp Europos kalbų.'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo fragmentiškas, o citata leidžia suformuluoti konkretų teiginį apie šaltinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/autoriai/Benjamin W. Dwight|Benjamin W. Dwight]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Vokietija'
   pagrindžia:
     - c-001
 

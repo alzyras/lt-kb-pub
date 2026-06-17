@@ -22,6 +22,8 @@ Dusburgietis teigia, kad štai tokių didžiulių „stebuklų padarė aukščia
 - t-001
   global_id: t-89604
   teiginys: 'Pratarmėje pirmųjų Ordino brolių veikla Prūsijoje apibūdinta žodžiais, kad per juos „stebuklų padarė aukščiausias dievas“.'
+  sudarymo_pagrindimas: 'Citata pagrindžia posakio kontekstą ir objektą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; mentioned_place: Prūsija'
   pagrindžia:
     - c-002
 
@@ -29,6 +31,8 @@ Dusburgietis teigia, kad štai tokių didžiulių „stebuklų padarė aukščia
 - t-002
   global_id: t-89605
   teiginys: 'Kronikos pratarmėje Petras Dusburgietis idealizavo pirmuosius Ordino brolius kaip neturtą, pavojus ir tikėjimo gynimą pasirinkusius vyrus.'
+  sudarymo_pagrindimas: 'Citata palaiko faktą apie idealizavimą, bet pradinis teiginys per ilgas ir turi santrumpą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; mentioned_person: [[objektai/autoriai/Petras Dusburgietis|Petras Dusburgietis]]; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
 
@@ -36,6 +40,8 @@ Dusburgietis teigia, kad štai tokių didžiulių „stebuklų padarė aukščia
 - t-003
   global_id: t-89606
   teiginys: 'Petras Dusburgietis kronikos pratarmėje rašė, kad aukščiausias Dievas per Ordino brolius Prūsijoje padarė stebuklų.'
+  sudarymo_pagrindimas: 'Teiginys apie autoriaus formuluotę pagrįstas, bet pradinė versija yra citatos fragmentas.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; mentioned_person: [[objektai/autoriai/Petras Dusburgietis|Petras Dusburgietis]]; mentioned_place: Prūsija'
   pagrindžia:
     - c-002
 
@@ -43,6 +49,8 @@ Dusburgietis teigia, kad štai tokių didžiulių „stebuklų padarė aukščia
 - t-004
   global_id: t-89607
   teiginys: 'Petras Dusburgietis daugybe pavyzdžių vaizdavo Dievą padedantį kovojantiems Ordino broliams.'
+  sudarymo_pagrindimas: 'Citata palaiko interpretacinį teiginį apie autoriaus vaizdavimą, bet reikia glaustesnės sakinio formos.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/autoriai/Petras Dusburgietis|Petras Dusburgietis]]'
   pagrindžia:
     - c-003
 
@@ -115,11 +123,3 @@ Dusburgietis teigia, kad štai tokių didžiulių „stebuklų padarė aukščia
   statusas: verified
   pagrindžia:
     - t-005
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Drabužiai]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/autoriai/Petras Dusburgietis]]
-- [[objektai/paprociai/Ankstyvųjų Ordino brolių asketinio gyvenimo idealas]]
-- [[objektai/zodynas/netikėliai]]

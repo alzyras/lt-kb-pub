@@ -35,6 +35,8 @@ Jie pasiekdavo plotus turtingųjų Didžiojo Naugardo ir Pskovo respublikų. Nuo
 - t-001
   global_id: t-113193
   teiginys: 'Pskovo ir Naugardo respublikose Vytauto įtaka buvo susilpnėjusi, nes jos labiau šliejosi prie Livonijos ordino ir Maskvos.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Naugardas; mentioned_place: Pskovas; mentioned_place: Rusija'
   pagrindžia:
     - c-001
 
@@ -42,6 +44,8 @@ Jie pasiekdavo plotus turtingųjų Didžiojo Naugardo ir Pskovo respublikų. Nuo
 - t-002
   global_id: t-113194
   teiginys: 'Lietuvių kunigaikščių kariniai būriai pasiekdavo turtingų Didžiojo Naugardo ir Pskovo respublikų plotus.'
+  sudarymo_pagrindimas: 'Reikia įvardyti veikėją ir pašalinti kontekstinį fragmentiškumą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/proistorė|proistorė]]; mentioned_place: Dniepras; mentioned_place: Lietuva; mentioned_place: Naugardas; mentioned_place: Pskovas'
   pagrindžia:
     - c-005
 
@@ -49,6 +53,8 @@ Jie pasiekdavo plotus turtingųjų Didžiojo Naugardo ir Pskovo respublikų. Nuo
 - t-003
   global_id: t-113195
   teiginys: 'Naugardo ir Pskovo respublikas šiaurėje ir Aukso Ordos bei Krymo totorius pietuose Vytautas privertė nusilenkti savo galybei — mokėti jam duokles ir teikti dovanų.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiksliai perteikia citatos informaciją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Krymas; mentioned_place: Maskva; mentioned_place: Naugardas; mentioned_place: Pskovas'
   pagrindžia:
     - c-002
 
@@ -56,6 +62,12 @@ Jie pasiekdavo plotus turtingųjų Didžiojo Naugardo ir Pskovo respublikų. Nuo
 - t-004
   global_id: t-113196
   teiginys: 'Po Vytauto žygių Pskovo pasiuntiniai 1427 m. atvyko į Vilnių prašyti paleisti belaisvius.'
+  sudarymo_pagrindimas: 'Teiginys buvo nutrūkęs; citata pagrindžia Pskovo pasiuntinių atvykimą ir tikslą.'
+  susije_objektai: 'location: Lietuva; location: Pskovas; location: Vilnius; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/bojarinai|bojarinai]]; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_person: [[objektai/asmenys/Joachimas (Pskovo vietininkas)|Joachimas (Pskovo vietininkas)]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Pskovas; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Pskovo respublika|Pskovo respublika]] keliavo į Lietuva; [[objektai/grupes/Pskovo respublika|Pskovo respublika]] keliavo į Pskovas; [[objektai/grupes/Pskovo respublika|Pskovo respublika]] keliavo į Vilnius'
+  temporaliniai_duomenys: 'kelionės data: 1427 m.; kelionės data: 1429 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Pskovo respublika keliavo į Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Pskovo respublika keliavo į Pskovas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Pskovo respublika keliavo į Vilnius“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys buvo nutrūkęs; citata pagrindžia Pskovo pasiuntinių atvykimą ir tikslą.'
   pagrindžia:
     - c-003
 
@@ -63,6 +75,8 @@ Jie pasiekdavo plotus turtingųjų Didžiojo Naugardo ir Pskovo respublikų. Nuo
 - t-005
   global_id: t-113197
   teiginys: 'Vytauto įtaka Pskovo ir Naugardo respublikose buvo susilpnėjusi, nes jos labiau šliejosi prie Livonijos ordino ir Maskvos.'
+  sudarymo_pagrindimas: 'Pirminis teiginys nutrūkęs ir turi neaiškią nuorodą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Naugardas; mentioned_place: Pskovas; mentioned_place: Rusija'
   pagrindžia:
     - c-001
 
@@ -70,6 +84,11 @@ Jie pasiekdavo plotus turtingųjų Didžiojo Naugardo ir Pskovo respublikų. Nuo
 - t-006
   global_id: t-113198
   teiginys: 'Pskovo metraščio duomenimis, 1432 m. Pskovo vietininkai Joachimas ir Aleksas Jefremovičius sudarė sutartį su Švitrigaila.'
+  sudarymo_pagrindimas: 'Pradinis tekstas yra OCR ir išnašos fragmentas; citata leidžia suformuluoti pilną teiginį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Aleksas Jefremovičius|Aleksas Jefremovičius]]; mentioned_person: [[objektai/asmenys/Joachimas (Pskovo vietininkas)|Joachimas (Pskovo vietininkas)]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Pskovas'
+  temporaliniai_duomenys: 'įvykio data: 1432 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis tekstas yra OCR ir išnašos fragmentas; citata leidžia suformuluoti pilną teiginį.'
   pagrindžia:
     - c-004
 
@@ -168,25 +187,6 @@ Jie pasiekdavo plotus turtingųjų Didžiojo Naugardo ir Pskovo respublikų. Nuo
     - t-002
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Auksinė Orda]]
-- [[objektai/grupes/Didžiojo Naugardo respublika]]
-- [[objektai/asmenys/Joachimas (Pskovo vietininkas)]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/Adynos|adynos]]
-- [[objektai/zodynas/bojarinai]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/metraštis]]
-- [[objektai/zodynas/proistorė]]
-- [[objektai/zodynas/vietininkas]]
-- [[objektai/asmenys/Švitrigaila]]
-- [[objektai/asmenys/Aleksas Jefremovičius]]
-- [[objektai/asmenys/Ivanas Sidorovičius]]
-- [[objektai/asmenys/Joachimas Pavlovičius]]
-- [[objektai/grupes/Maskvos kunigaikštija]]
-- [[objektai/zodynas/posadnikas bojarinas vietininkas]]
+- Pskovo respublika keliavo_i [[objektai/vietos/Lietuva]]
+- Pskovo respublika keliavo_i [[objektai/vietos/Pskovas]]
+- Pskovo respublika keliavo_i [[objektai/vietos/Vilnius]]

@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Prieš skrydį Steponas Darius ir Stasys Girėnas laiške ragino Lietuvos jaunimą paskirti save Tėvynės garbei. Prieš skrydį Steponas Darius ir Stasys Girėnas laiške ragino Lietuvos jaunimą paskirti save Tėvynės garbei.
+Savo laiške prieš skrydį lakūnai ragino Lietuvos jaunimą paskirti save Tėvynės garbei ir šis priesakas tapo tūkstančių jaunuolių ir merginų siekiu.
 
 ## Teiginiai
 
@@ -20,6 +20,8 @@ Prieš skrydį Steponas Darius ir Stasys Girėnas laiške ragino Lietuvos jaunim
 - t-001
   global_id: t-20932
   teiginys: 'Prieš skrydį Steponas Darius ir Stasys Girėnas laiške ragino Lietuvos jaunimą paskirti save Tėvynės garbei.'
+  sudarymo_pagrindimas: 'Aiškiai įvardyti lakūnai ir paliktas tiesiogiai paremtas faktas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Stasys Girėnas|Stasys Girėnas]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_person: [[objektai/asmenys/Steponas Darius|Steponas Darius]]; mentioned_place: Kaunas; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -56,12 +58,3 @@ Prieš skrydį Steponas Darius ir Stasys Girėnas laiške ragino Lietuvos jaunim
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/asmenys/Stasys Girėnas]]
-- [[objektai/asmenys/Steponas]]
-- [[objektai/asmenys/Steponas Darius]]
-- [[objektai/daiktai/Dariaus ir Girėno mauzoliejus Kaune]]
-- [[objektai/ivykiai/S. Dariaus ir S. Girėno skrydis per Atlantą ir „Lituanicos“ katastrofa (1933 m. liepos 15-17 d.)]]

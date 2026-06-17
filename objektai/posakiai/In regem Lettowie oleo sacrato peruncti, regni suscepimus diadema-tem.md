@@ -18,7 +18,7 @@ amziai:
 
 ## Santrauka
 
-Formulė „In regem Lettowie oleo sacrato peruncti, regni suscepimus diadematem“ cituojama iš LUB I, 243.
+(^118) « In regem Lettowie oleo sacrato peruncti, regni suscepimus diadematem » (LUB I, 243).
 
 ## Teiginiai
 
@@ -26,6 +26,7 @@ Formulė „In regem Lettowie oleo sacrato peruncti, regni suscepimus diadematem
 - t-001
   global_id: t-99999
   teiginys: 'Formulė „In regem Lettowie oleo sacrato peruncti, regni suscepimus diadematem“ cituojama iš LUB I, 243.'
+  sudarymo_pagrindimas: 'Pradinis tekstas buvo bibliografinė nuotrupa su OCR laužymu, bet citata leidžia suformuluoti teiginį apie posakio šaltinį.'
   pagrindžia:
     - c-001
 

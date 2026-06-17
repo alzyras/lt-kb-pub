@@ -23,7 +23,7 @@ periodo_grupes:
 
 ## Santrauka
 
-1576 m. Vilniuje Mikalojaus Radvilos spaustuvėje išspausdinta Andriaus Volano knyga „Contra Skargae missam“. Andrius Volanas Vilniuje buvo reformatų idėjų skleidėjas ir garsėjo mokslu bei rašytojo talentu.
+Tai iš ten kilo anas Andrius Volanas, pagarsėjęs mokslu ir rašytojo talentu, visą savo gy­ venimą buvęs uoliausias reformatų idėjų skleidėjas Vilniu­ je ir pavojingiausias katalikų Bažnyčios pagrindų griovėjas. Volanus knyga, atspausdinta šioje spaustucontra Skargae missam. Lib.
 
 ## Teiginiai
 
@@ -31,6 +31,11 @@ periodo_grupes:
 - t-001
   global_id: t-88051
   teiginys: '1576 m. Vilniuje Mikalojaus Radvilos spaustuvėje išspausdinta Andriaus Volano knyga „Contra Skargae missam“.'
+  sudarymo_pagrindimas: 'Pradinis teiginys yra OCR fragmentas; citata leidžia suformuluoti pilną faktinį sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1576 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys yra OCR fragmentas; citata leidžia suformuluoti pilną faktinį sakinį.'
   pagrindžia:
     - c-001
 
@@ -38,6 +43,8 @@ periodo_grupes:
 - t-002
   global_id: t-88052
   teiginys: 'Andrius Volanas Vilniuje buvo reformatų idėjų skleidėjas ir garsėjo mokslu bei rašytojo talentu.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir pagrįstas citatoje pateiktu Volano apibūdinimu.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Andrius Volanas|Andrius Volanas]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -75,7 +82,3 @@ periodo_grupes:
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Radvilos]]

@@ -23,6 +23,8 @@ Dusburgietis teigia, kad lietuvių kalba težinojusi tokius Kuršių nerijos pav
 - t-001
   global_id: t-60847
   teiginys: 'V. Mažiulis teigė, kad lietuvių kalboje Kuršių nerija vadinta Kopomis, Kalnais, Pajūriais ir Randavomis.'
+  sudarymo_pagrindimas: 'Citata tiesiogiai pateikia Mažiulio darbu grindžiamą teiginį apie Kuršių nerijos pavadinimus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/vyskupystė|vyskupystė]]; mentioned_person: [[objektai/autoriai/V. Mažiulis|V. Mažiulis]]; mentioned_place: Kuršas; mentioned_place: Kuršių nerija'
   pagrindžia:
     - c-001
 
@@ -42,9 +44,3 @@ Dusburgietis teigia, kad lietuvių kalba težinojusi tokius Kuršių nerijos pav
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kuršiai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/vyskupystė]]

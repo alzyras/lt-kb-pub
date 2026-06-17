@@ -29,6 +29,11 @@ Dusburgietis teigia, kad ročka M.
 - t-001
   global_id: t-61274
   teiginys: 'M. Ročkos straipsnis „Lietuvių studentai Krokuvoje ir humanizmo pradžia Lietuvoje“ 1966 m. paskelbtas leidinyje „Literatūra“.'
+  sudarymo_pagrindimas: 'Citata pagrindžia autorių, straipsnio pavadinimą, metus ir leidinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Krokuva; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1966 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia autorių, straipsnio pavadinimą, metus ir leidinį.'
   pagrindžia:
     - c-001
 

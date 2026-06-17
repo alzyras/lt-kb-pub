@@ -38,6 +38,7 @@ Nenurodyta
 - t-001
   global_id: t-08321
   teiginys: 'Ritmuša buvo senovinis vaikų žaidimo ir karinės pratybos įrankis.'
+  teiginio_tipas: 'faktas'
   pagrindžia:
     - c-001
 
@@ -45,6 +46,8 @@ Nenurodyta
 - t-002
   global_id: t-08322
   teiginys: 'Ritmuša buvo senovinis jaunimo karės įrankis, kurio mokėsi nuo mažų dienų.'
+  teiginio_tipas: 'faktas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalnėnai|Kalnėnai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-002
 
@@ -78,8 +81,3 @@ Nenurodyta
 ## Pastabos
 
 - terminas tekste turi ir žaidybinį, ir karės įrankio vartojimą, todėl daiktinis kandidatas čia keliamas kartu su galimu žodyno kandidatu.
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kalnėnai]]
-- [[objektai/grupes/Lietuviai]]

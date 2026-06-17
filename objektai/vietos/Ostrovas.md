@@ -14,6 +14,7 @@ tags:
   - karas
   - kraštas
   - kunigaikštis
+  - vieta
 amziai:
   - 'XIV'
 ---
@@ -29,6 +30,7 @@ amziai:
 - t-001
   global_id: t-36467
   teiginys: 'Jogaila rugpjūčio 5 d. atvyko į Ostrovą netoli Lydos.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]'
   pagrindžia:
     - c-001
 
@@ -36,9 +38,21 @@ amziai:
 - t-002
   global_id: t-184317
   teiginys: '1392 m. Vytauto ir Jogailos sudaryta Ostrovos sutartis padėjo pagrindą Lietuvos nepriklausomybei atstatyti.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Perrašyta į pilną enciklopedinį sakinį be OCR triukšmo.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Astravos sutartis|Astravos sutartis]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'sutarties data: 1392 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Perrašyta į pilną enciklopedinį sakinį be OCR triukšmo.'
   pagrindžia:
     - c-002
-
+- susijęs iš Ostrovo sutartis (1392 m.): Ostrovo sutartis padėjo pagrindą Lietuvos nepriklausomybei atstatyti ir turėjo užtikrinti taiką bei tvarką krašte.
+- susijęs iš Gardinas: Ostrovo taikos metu Jogaila grąžino Vytautui jo tėviškę, įskaitant Trakus ir Gardiną.
+- susijęs iš Luckas: Ostrovo taika Jogaila grąžino Vytautui Trakus ir Gardiną, o prie kitų žemių pridėjo Lucką.
+- susijęs iš Luckas: Ostrovo taikos metu Jogaila grąžino Vytautui Trakus ir Gardiną, taip pat pridėjo Lucką.
+- susijęs iš Trakai: Ostrovo taikos metu Jogaila grąžino Vytautui Trakus, Gardiną ir kitas žemes.
 ## Reikšmingi paminėjimai
 
 - c-001

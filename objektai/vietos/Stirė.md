@@ -21,6 +21,8 @@ Prie Stirės įvyko Švitrigailos pajėgoms nesékmingas mūšis.
 - t-001
   global_id: t-42167
   teiginys: 'Prie Stirės įvyko Švitrigailos pajėgoms nesėkmingas mūšis.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas sakinys apie įvykį prie Stirės.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]'
   pagrindžia:
     - c-001
 

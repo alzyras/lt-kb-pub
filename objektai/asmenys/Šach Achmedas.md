@@ -15,6 +15,7 @@ tags:
   - karalius
   - miestas
   - pilis
+  - privilegija
 amziai:
   - 'XVI'
 periodo_grupes:
@@ -32,6 +33,8 @@ Veltui Šach Achmedas, Perekopo ordos chanas, ir atkaklus Mendli Girėjaus prie�
 - t-001
   global_id: t-87415
   teiginys: 'Šach Achmedas baigė gyvenimą kalėjime Lietuvoje.'
+  sudarymo_pagrindimas: 'Citata tiesiogiai palaiko teiginį apie Šach Achmedo mirtį kalėjime Lietuvoje.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Vilnius'
   pagrindžia:
     - c-004
 
@@ -39,6 +42,8 @@ Veltui Šach Achmedas, Perekopo ordos chanas, ir atkaklus Mendli Girėjaus prie�
 - t-002
   global_id: t-87416
   teiginys: 'Sugautas ir Vilniuje įkalintas Šach Achmedas kėlė rūpesčių karaliui ir seimui.'
+  sudarymo_pagrindimas: 'Citata palaiko faktą, bet reikia pašalinti OCR triukšmą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Brasta; mentioned_place: Maskva; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 
@@ -46,6 +51,9 @@ Veltui Šach Achmedas, Perekopo ordos chanas, ir atkaklus Mendli Girėjaus prie�
 - t-003
   global_id: t-87417
   teiginys: 'Šach Achmedas su savo palyda klajojo palapinėse aplink Vilnių, kol karalius tvarkė totorių reikalus.'
+  sudarymo_pagrindimas: 'Citata palaiko aiškų faktą apie asmenį.'
+  susije_objektai: 'territory: Kaunas; territory: Krymas; territory: Liublinas; territory: Vilnius; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/posakiai/Iki gyvos galvos|Iki gyvos galvos]]; mentioned_place: Kaunas; mentioned_place: Krymas; mentioned_place: Liublinas; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Šach Achmedas|Šach Achmedas]] buvo valdovas Kaunas; [[objektai/asmenys/Šach Achmedas|Šach Achmedas]] buvo valdovas Krymas; [[objektai/asmenys/Šach Achmedas|Šach Achmedas]] buvo valdovas Liublinas; [[objektai/asmenys/Šach Achmedas|Šach Achmedas]] buvo valdovas Vilnius'
   pagrindžia:
     - c-002
 
@@ -53,9 +61,21 @@ Veltui Šach Achmedas, Perekopo ordos chanas, ir atkaklus Mendli Girėjaus prie�
 - t-004
   global_id: t-87418
   teiginys: 'Šach Achmedas, Perekopo ordos chanas ir Mendli Girėjaus priešas, savo pajėgomis rėmė lietuvius.'
+  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytą Šach Achmedo vaidmenį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_person: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]; mentioned_place: Krymas; mentioned_place: Lenkija; mentioned_place: Maskva; mentioned_place: Perekopas; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Aleksandras Balinskis.md#claim-t-54931|Aleksandras Balinskis]]: Aleksandras Balinskis buvo iš Krokuvos pakviestas alchemikas, kurio gydymas nepadėjo sergančiam Aleksandrui Jogailaičiui.
+- susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-54940|Aleksandras Jogailaitis]]: Aleksandrą Vilniuje kamavo sunki liga ir paralyžius, o gydyti buvo pakviestas Balinskis iš Krokuvos.
+- susijęs iš [[objektai/asmenys/Mendli Girėjus.md#claim-t-87443|Mendli Girėjus]]: Aleksandras siekė suimti ir įbauginti Mendli Girėjų, todėl Šach Achmedas buvo iki gyvos galvos įkalintas Kaune.
+- susijęs iš [[objektai/daiktai/Šach Achmedo palapinės prie Vilniaus.md#claim-t-87104|Šach Achmedo palapinės prie Vilniaus]]: Šach Achmedas su palyda palapinėse klajojo aplink Vilnių, o Krymo ir Nogajaus ordų pasiuntiniai laukė karaliaus už miesto sienų.
+- susijęs iš [[objektai/grupes/Perekopo orda.md#claim-t-86767|Perekopo orda]]: Perekopo ordos chanas Šach Achmedas savo pajėgomis rėmė lietuvius prieš Mendli Girėjų.
+- susijęs iš Brasta: 1505 m. Šach Achmedas buvo atgabentas iš Vilniaus į seimą Brastoje, o vėliau pasiųstas gyventi į Trakus.
+- susijęs iš Kaunas: Šach Achmedas buvo iki gyvos galvos įkalintas Kauno kalėjime.
+- susijęs iš Kaunas: Šach Achmedas buvo iki gyvos galvos įkalintas Kauno kalėjime.
+- susijęs iš Lietuva: Aleksandro planai žlugo, nes totoriai netrukus su didelėmis pajėgomis įsiveržė į Lietuvą.
+- susijęs iš Lietuva: Aleksandras pasiuntė į Maskvą pasiuntinius parvežti didžiosios kunigaikštytės Elenos į Lietuvą.
+- susijęs iš Trakai: 1505 m. Šach Achmedas buvo atgabentas iš Vilniaus į seimą Brastoje, o paskui pasiųstas gyventi į Trakus.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -163,18 +183,7 @@ Veltui Šach Achmedas, Perekopo ordos chanas, ir atkaklus Mendli Girėjaus prie�
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]
-- [[objektai/posakiai/Iki gyvos galvos]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/chanas]]
-- [[objektai/grupes/Perekopo orda]]
-- [[objektai/daiktai/Šach Achmedo palapinės prie Vilniaus]]
-- [[objektai/asmenys/Aleksandras Jogailaitis]]
-- [[objektai/asmenys/Mendli Girėjus]]
+- Šach Achmedas buvo_valdovas [[objektai/vietos/Kaunas]]
+- Šach Achmedas buvo_valdovas [[objektai/vietos/Krymas]]
+- Šach Achmedas buvo_valdovas [[objektai/vietos/Liublinas]]
+- Šach Achmedas buvo_valdovas [[objektai/vietos/Vilnius]]

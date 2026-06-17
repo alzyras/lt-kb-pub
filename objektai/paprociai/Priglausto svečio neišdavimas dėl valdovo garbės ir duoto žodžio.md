@@ -33,6 +33,11 @@ Nenurodyta
 - t-001
   global_id: t-185923
   teiginys: 'Valachų valdovas atsisakė išduoti priglaustą Mykolą, nes jo orumas ir duotas žodis neleido perduoti svečio lenkams.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pašalintas boilerplate ir aiškiai įvardytas asmuo bei veiksmas.'
+  susije_objektai: 'territory: Podolė; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Valachai|Valachai]]; mentioned_object: [[objektai/zodynas/skitai|skitai]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_place: Podolė'
   pagrindžia:
     - c-001
 
@@ -56,11 +61,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Mykolas]]
-- [[objektai/grupes/Valachai]]
-- [[objektai/zodynas/skitai]]
-- [[objektai/zodynas/vaivada]]
-- [[objektai/grupes/Lenkai]]

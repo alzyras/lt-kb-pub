@@ -26,9 +26,15 @@ Vėliau jis tapo Dainavos apygardos ir Pietų Lietuvos srities partizanų vadu.
 - t-001
   global_id: t-80653
   teiginys: 'Adolfas Ramanauskas-Vanagas vėliau tapo Dainavos apygardos ir Pietų Lietuvos srities partizanų vadu.'
+  sudarymo_pagrindimas: 'Teiginys paremtas citata, bet objektas yra asmuo, todėl sakinys turi aiškiai įvardyti pilną vardą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos laisvės kovos sąjūdis|Lietuvos laisvės kovos sąjūdis]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_person: [[objektai/asmenys/Adolfas Ramanauskas-Vanagas|Adolfas Ramanauskas-Vanagas]]; mentioned_place: Dainava; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1949 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys paremtas citata, bet objektas yra asmuo, todėl sakinys turi aiškiai įvardyti pilną vardą.'
   pagrindžia:
     - c-001
-
+- susijęs iš Alovė: 1945 m. birželio 14 d. Varčios miške tarp Alovės ir Daugų partizanai susikovė su NKVD 220-uoju pasienio pulku.
+- susijęs iš Varčios miškas: 1945 m. birželio 14 d. Varčios miške tarp Alovės ir Daugų partizanai susikovė su NKVD kariuomenės 220-uoju pasienio pulku.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -48,11 +54,3 @@ Vėliau jis tapo Dainavos apygardos ir Pietų Lietuvos srities partizanų vadu.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuvos laisvės kovos sąjūdis]]
-- [[objektai/zodynas/Adynos|adynos]]
-- [[objektai/asmenys/Adolfas Ramanauskas-Vanagas]]
-- [[objektai/grupes/LLKS gynybos pajėgos]]
-- [[objektai/grupes/Lietuvos gynybos pajėgos]]

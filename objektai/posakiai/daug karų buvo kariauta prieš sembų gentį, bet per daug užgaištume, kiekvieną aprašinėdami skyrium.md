@@ -14,7 +14,7 @@ tags:
 
 ## Santrauka
 
-Kalbėdamas apie Ordino pastangas užgrobti Sembą, Dusburgietis nurodė, kad prieš sembus kariauta daug karų, bet visų aprašyti neverta. Dusburgietis rašė, kad Ordino broliai daug kartų ir ilgai kariavo su sūduviais, bet šių karų plačiau neaprašys. Dusburgietis rašė, kad prieš Skomanto žygį į Kulmo žemę sūduviai vis dažniau į ją įsibraudavo ir ją nusiaubdavo.
+Dusburgietis teigia, kad pradėdamas kalbėti apie Ordino pastangas užgrobti Sembą, jis pabrėžia, jog „daug karų buvo kariauta prieš sembų gentį, bet per daug užgaištume, kiekvieną aprašinėdami skyrium, nors šį bei tą reikia pasakyti“ (III, 68), vėliau taip pat pažymi, kad „vargu ar. Dusburgietis teigia, kad nedaug jis, matyt, tikslesnių žinių turėjo apie nadruvių kovas, nes pažymėjo tik tiek, kad „daug kartų su Nadruvos žeme buvo vedami šlovingi karai, neaprašytini nė šioje knygoje, nes būtų be galo atkaru skyrium apie viską pasakoti“ (III, 179). Dusburgietis teigia, kad nors apie Ordino pastangas pavergti Sūduvą kronikininkas plačiai rašo, bet ir čia išsitaria: „Daug kartų ir be galo ilgai broliai kariavo su sūduviais, tačiau, nenorėdami išsiplėsti, nerašysime apie tuos karus“ (III, 219). Netgi kalbėdamas apie XIV a.
 
 ## Teiginiai
 
@@ -22,6 +22,8 @@ Kalbėdamas apie Ordino pastangas užgrobti Sembą, Dusburgietis nurodė, kad pr
 - t-001
   global_id: t-89579
   teiginys: 'Kalbėdamas apie Ordino pastangas užgrobti Sembą, Dusburgietis nurodė, kad prieš sembus kariauta daug karų, bet visų aprašyti neverta.'
+  sudarymo_pagrindimas: 'Citata remia glaustą faktą apie Dusburgiečio pasakojimo atranką.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_group: [[objektai/grupes/Sembai|Sembai]]'
   pagrindžia:
     - c-002
 
@@ -29,6 +31,8 @@ Kalbėdamas apie Ordino pastangas užgrobti Sembą, Dusburgietis nurodė, kad pr
 - t-002
   global_id: t-89580
   teiginys: 'Dusburgietis rašė, kad Ordino broliai daug kartų ir ilgai kariavo su sūduviais, bet šių karų plačiau neaprašys.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs; citata pagrindžia vieną aiškų faktą apie Sūduvos karų aprašymo ribojimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_place: Kulmas; mentioned_place: Sūduva'
   pagrindžia:
     - c-001
 
@@ -36,6 +40,8 @@ Kalbėdamas apie Ordino pastangas užgrobti Sembą, Dusburgietis nurodė, kad pr
 - t-003
   global_id: t-89582
   teiginys: 'Dusburgietis rašė, kad prieš Skomanto žygį į Kulmo žemę sūduviai vis dažniau į ją įsibraudavo ir ją nusiaubdavo.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, o citata leidžia suformuluoti pilną sakinį apie sūduvių antpuolius.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Kulmas; mentioned_place: Sūduva'
   pagrindžia:
     - c-001
 
@@ -75,11 +81,3 @@ Kalbėdamas apie Ordino pastangas užgrobti Sembą, Dusburgietis nurodė, kad pr
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Pagudėnai]]
-- [[objektai/grupes/Sembai]]
-- [[objektai/grupes/Sūduviai]]
-- [[objektai/zodynas/žygis]]

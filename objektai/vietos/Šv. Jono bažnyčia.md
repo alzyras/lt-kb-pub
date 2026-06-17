@@ -23,6 +23,8 @@ Jono bažnyčią, tokiu būdu iki aukščiausio laipsnio sujušino protus65. Jon
 - t-001
   global_id: t-86280
   teiginys: 'Goštautų vardu vadintas mūrinis namas stovėjo priešais Šv. Jono bažnyčią.'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo OCR fragmentas, o citata pagrindžia aiškų vietos ryšį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Goštautai|Goštautai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_place: Kardinalija; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -30,9 +32,13 @@ Jono bažnyčią, tokiu būdu iki aukščiausio laipsnio sujušino protus65. Jon
 - t-002
   global_id: t-86281
   teiginys: 'Vyskupas Protasevičius įsakė viešai deginti surinktas disidentų knygas priešais Šv. Jono bažnyčią.'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo fragmentiškas, o citata palaiko pilną sakinį apie įvykį prie bažnyčios.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/grupes/Vilniaus magistratas.md#claim-t-172812|Vilniaus magistratas]]: 1667 m. balandžio 4 d. Vilniaus magistratas stojo į teismą su Šv. Jono bažnyčia dėl ankstesnių potvarkių.
+- susijęs iš Šv. Jono bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Jono bažnyčia Vilniuje; Šv. Jono bažnyčia): Šv. Jono bažnyčia Vilniuje įkurta 1386 m., pabaigta 1426 m. ir pašventinta 1427 m. sausio 10 d.
+- susijęs iš Šv. Jono bažnyčia Vilniuje: Šv. Jono bažnyčia Vilniuje įkurta 1386 m., pabaigta 1426 m. ir pašventinta 1427 m. sausio 10 d.
+- susijęs iš [[objektai/zodynas/arkipresbiteris nuolatinis vikaras adjutoriai.md#claim-t-86511|arkipresbiteris nuolatinis vikaras adjutoriai]]: Nuo įkūrimo Šv. Jono bažnyčia buvo pavesta klebonams, turėjusiems arkipresbiterių titulus ir kelis pagalbininkus kunigus.
 ## Reikšmingi paminėjimai
 
 - c-001

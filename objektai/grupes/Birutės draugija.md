@@ -45,9 +45,3 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/Mikšas]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/tautiškas susipratimas tautiška sąmonė tautiškoji veikla]]

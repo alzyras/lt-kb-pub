@@ -18,6 +18,11 @@ Spitekas iš Melštino parūpino pinigų, o Vytautas atidavė karaliui Kamenecą
 - t-001
   global_id: t-186164
   teiginys: 'Spitekas iš Melštino parūpino pinigų, o Vytautas atidavė karaliui Kamenecą, Smotričių, Skalą ir Červonogradą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_person: [[objektai/asmenys/Teodoras|Teodoras]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Krokuva; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -52,7 +57,3 @@ Spitekas iš Melštino parūpino pinigų, o Vytautas atidavė karaliui Kamenecą
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/vietininkas]]

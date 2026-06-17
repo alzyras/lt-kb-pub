@@ -4,10 +4,18 @@ pavadinimas: 'W. Hubatsch'
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+datos:
+  - '1948 m.'
+date_start: '1948'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'XX a.'
 ---
 # W. Hubatsch
 
@@ -21,6 +29,7 @@ Hubatsch^158.
 - t-001
   global_id: t-64883
   teiginys: 'Bonnos universiteto profesorius W. Hubatschas parašė išsamią monografiją apie Prūsų hercogą Albrechtą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_object: [[objektai/zodynas/monografija|monografija]]; mentioned_place: Lietuva; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
 
@@ -28,6 +37,10 @@ Hubatsch^158.
 - t-002
   global_id: t-64884
   teiginys: 'W. Hubatschas 1948 m. Getingene išleido „Regesta historico-diplomatica Ordinis S. Mariae Theutonicorum“ antrąją dalį.'
+  sudarymo_pagrindimas: 'Citata nurodo W. Hubatschą kaip leidėją ir pateikia leidimo vietą bei metus.'
+  temporaliniai_duomenys: 'įvykio data: 1948 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata nurodo W. Hubatschą kaip leidėją ir pateikia leidimo vietą bei metus.'
   pagrindžia:
     - c-002
 
@@ -60,8 +73,3 @@ Hubatsch^158.
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/metraštis]]
-- [[objektai/zodynas/monografija]]

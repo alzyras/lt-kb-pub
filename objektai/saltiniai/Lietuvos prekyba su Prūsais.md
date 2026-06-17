@@ -27,6 +27,9 @@ amziai:
 - t-001
   global_id: t-31820
   teiginys: '„Lietuvos prekyba su Prūsais“ buvo paskelbta 1934 m. kaip Lietuvos ūkio istorijos darbas apie laikotarpį iki XVI a. pradžios.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_person: [[objektai/autoriai/A. Alekna|A. Alekna]]; mentioned_place: Berlynas; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1933 m.; įvykio data: 1934 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

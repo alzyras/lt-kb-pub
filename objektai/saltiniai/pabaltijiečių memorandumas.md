@@ -21,6 +21,8 @@ Dar didesnio atgarsio susilaukė vadinamasis 45 pabaltijiečių memorandumas, ad
 - t-001
   global_id: t-78124
   teiginys: '45 pabaltijiečių memorandumas buvo adresuotas JT generaliniam sekretoriui Kurtui Waldheimui, Atlanto chartijos signatarėms ir abiejų Vokietijų vyriausybėms.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, todėl perrašytas į pilną sakinį be OCR fragmentų.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: SSRS; mentioned_place: Vokietija'
   pagrindžia:
     - c-001
 

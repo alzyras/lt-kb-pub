@@ -37,6 +37,9 @@ Nenurodyta
 - t-001
   global_id: t-62312
   teiginys: 'Aštuoni šimtai Lietuvos raitelių nuniokojo 10 Kersovo kaimų, o Krokuvos kunigaikštis Lešekas kontratakoje beveik visus juos sunaikino.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Citata remia aiškų antpuolio ir kontratakos apibendrinimą.'
+  susije_objektai: 'territory: Kersovas; territory: Krokuva; territory: Lenkija; territory: Lietuva; territory: Viena; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Lešekas|Lešekas]]; mentioned_place: Kersovas; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -63,10 +66,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/asmenys/Lešekas]]
-- [[objektai/asmenys/Lešekas (Krokuvos kunigaikštis)]]

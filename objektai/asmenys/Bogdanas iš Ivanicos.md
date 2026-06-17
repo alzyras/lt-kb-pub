@@ -18,6 +18,11 @@ Bogdanas iš Ivanicos naktį išžvalgė lenkų stovyklą ir patarė Vladimire a
 - t-001
   global_id: t-186185
   teiginys: 'Bogdanas iš Ivanicos naktį išžvalgė lenkų stovyklą ir patarė Vladimire apsuptam Liubartui, kaip išvengti nelaisvės.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata pagrindžia Bogdano žvalgybą ir patarimą Liubartui.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Liubartas|Liubartas]]'
   pagrindžia:
     - c-001
 
@@ -41,7 +46,3 @@ Bogdanas iš Ivanicos naktį išžvalgė lenkų stovyklą ir patarė Vladimire a
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]

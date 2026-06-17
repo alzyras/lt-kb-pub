@@ -27,6 +27,11 @@ Dusburgietis teigia, kad apie vieną švenčiausiosios mergelės stebuklą 1302 
 - t-001
   global_id: t-59082
   teiginys: '1302 m. Perudžoje nukirsta plėšiko galva paprašė atvesti kunigą, nes Marija neleido jam mirti neišpažinus nuodėmių.'
+  sudarymo_pagrindimas: 'Citata palaiko pilną faktinį sakinį apie stebuklo epizodą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Marija|Marija]]; mentioned_place: Perudža; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1302 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko pilną faktinį sakinį apie stebuklo epizodą.'
   pagrindžia:
     - c-001
 
@@ -52,8 +57,3 @@ Dusburgietis teigia, kad apie vieną švenčiausiosios mergelės stebuklą 1302 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Marija]]
-- [[objektai/ivykiai/Perudžos stebuklas su nubausto plėšiko galva (1302 m.)]]

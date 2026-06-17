@@ -31,6 +31,8 @@ VILNIAUS MIESTO ISTORIJA I I TOMAS 29 to Augusto 1543 metais, numirė VilElžbie
 - t-001
   global_id: t-87739
   teiginys: 'Jurgis buvo Vilniaus kaštelionas ir Barboros Radvilaitės tėvas.'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo OCR triukšmas, o citata palaiko aiškų faktą apie Jurgį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kaštelionas|kaštelionas]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Barboros rūmai Vilniuje; mentioned_place: Trakai; mentioned_place: Vengrija; mentioned_place: Vilnius; mentioned_place: Čekija'
   pagrindžia:
     - c-001
 
@@ -60,11 +62,3 @@ VILNIAUS MIESTO ISTORIJA I I TOMAS 29 to Augusto 1543 metais, numirė VilElžbie
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Augustas]]
-- [[objektai/asmenys/Barbora Radvilaitė]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/zodynas/kaštelionas]]
-- [[objektai/asmenys/Goštautas (Trakų vaivada, Barboros vyras)]]

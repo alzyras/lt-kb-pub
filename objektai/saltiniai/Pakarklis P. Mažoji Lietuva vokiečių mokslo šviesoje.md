@@ -27,6 +27,11 @@ Dusburgietis teigia, kad pakarklis P.
 - t-001
   global_id: t-61213
   teiginys: 'P. Pakarklio „Mažoji Lietuva vokiečių mokslo šviesoje“ išleistas 1935 m.'
+  sudarymo_pagrindimas: 'Citata nurodo šio leidinio autorių, pavadinimą ir leidimo metus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva; mentioned_place: Mažoji Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1935 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata nurodo šio leidinio autorių, pavadinimą ir leidimo metus.'
   pagrindžia:
     - c-001
 

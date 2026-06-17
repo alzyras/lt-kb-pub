@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-B. Zenavičiaus LDK husarai iš dešinės atakavo puolančius turkus. Etmono svainis B. Zenavičius žuvo mūšyje su turkais.
+Zenavičiaus LDK husarai atakavo puolančius turkus “8 iš dešinės, o Kuchovičiaus iš kairės. Zenavičius.
 
 ## Teiginiai
 
@@ -21,6 +21,8 @@ B. Zenavičiaus LDK husarai iš dešinės atakavo puolančius turkus. Etmono sva
 - t-001
   global_id: t-40058
   teiginys: 'B. Zenavičiaus LDK husarai iš dešinės atakavo puolančius turkus.'
+  sudarymo_pagrindimas: 'Teiginys gramatiškas ir atitinka citatoje nurodytą B. Zenavičiaus husarų veiksmą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/husarai|husarai]]'
   pagrindžia:
     - c-001
 
@@ -28,6 +30,8 @@ B. Zenavičiaus LDK husarai iš dešinės atakavo puolančius turkus. Etmono sva
 - t-002
   global_id: t-40059
   teiginys: 'Etmono svainis B. Zenavičius žuvo mūšyje su turkais.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie B. Zenavičiaus žūtį mūšyje.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_person: [[objektai/asmenys/Karakašas|Karakašas]]'
   pagrindžia:
     - c-002
 
@@ -67,9 +71,3 @@ B. Zenavičiaus LDK husarai iš dešinės atakavo puolančius turkus. Etmono sva
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Artilerija]]
-- [[objektai/grupes/Kazokai]]
-- [[objektai/zodynas/husarai]]

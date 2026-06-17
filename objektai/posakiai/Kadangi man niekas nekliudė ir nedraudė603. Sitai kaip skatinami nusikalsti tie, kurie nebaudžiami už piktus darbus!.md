@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Sugautas vyras savo piktadarybes aiškino tuo, kad niekas jam nekliudė ir nedraudė. Karvedys Henrikas savo piktadarybes aiškino tuo, kad jam niekas nekliudė ir nedraudė.
+Dusburgietis teigia, kad kai jį broliai sugavo ir kai paklausė, kodėl tiek daug ir šitokių baisių piktadarysčių esąs pridaręs, jis atsakė: „Kadangi man niekas nekliudė ir nedraudė603.
 
 ## Teiginiai
 
@@ -20,6 +20,7 @@ Sugautas vyras savo piktadarybes aiškino tuo, kad niekas jam nekliudė ir nedra
 - t-001
   global_id: t-89593
   teiginys: 'Sugautas vyras savo piktadarybes aiškino tuo, kad niekas jam nekliudė ir nedraudė.'
+  sudarymo_pagrindimas: 'Citata leidžia suformuluoti pilną sakinį, nors asmens vardas joje nepateiktas.'
   pagrindžia:
     - c-001
 
@@ -27,6 +28,8 @@ Sugautas vyras savo piktadarybes aiškino tuo, kad niekas jam nekliudė ir nedra
 - t-002
   global_id: t-89594
   teiginys: 'Karvedys Henrikas savo piktadarybes aiškino tuo, kad jam niekas nekliudė ir nedraudė.'
+  sudarymo_pagrindimas: 'Reikia susieti faktą su posakiu ir pašalinti perteklinį kontekstą.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]'
   pagrindžia:
     - c-002
 
@@ -64,7 +67,3 @@ Sugautas vyras savo piktadarybes aiškino tuo, kad niekas jam nekliudė ir nedra
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/Henrikas]]

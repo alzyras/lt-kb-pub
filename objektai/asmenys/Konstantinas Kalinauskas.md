@@ -6,8 +6,9 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1863 m.'
+  - '1864 m.'
 date_start: '1863'
-date_end: ''
+date_end: '1864'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -31,6 +32,11 @@ Lenkijos sukilėlių vyriausybė į Lietuvos sukilimo vadovybę grąžino „rau
 - t-001
   global_id: t-63836
   teiginys: 'Sukilimo vadu Lietuvoje tapo Konstantinas Kalinauskas.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citata.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Varšuva'
+  temporaliniai_duomenys: 'įvykio data: 1863 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citata.'
   pagrindžia:
     - c-002
 
@@ -38,6 +44,9 @@ Lenkijos sukilėlių vyriausybė į Lietuvos sukilimo vadovybę grąžino „rau
 - t-002
   global_id: t-63837
   teiginys: '1863 m. pabaigoje Konstantinas Kalinauskas pateko į sukilimo slopintojų rankas ir netrukus buvo viešai pakartas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltarusiai|Baltarusiai]]; mentioned_object: [[objektai/zodynas/tautinis atgimimas|tautinis atgimimas]]; mentioned_person: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1863 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -45,9 +54,16 @@ Lenkijos sukilėlių vyriausybė į Lietuvos sukilimo vadovybę grąžino „rau
 - t-003
   global_id: t-63838
   teiginys: 'Michailo Muravjovo įsakymu Konstantinas Kalinauskas buvo pakartas kartu su kitais sukilėliais.'
+  sudarymo_pagrindimas: 'Citata tiesiogiai mini K. Kalinausko egzekuciją ir Muravjovo įsakymą karti sukilėlius.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/egzekucija|egzekucija]]; mentioned_object: [[objektai/zodynas/generalgubernatorius|generalgubernatorius]]; mentioned_person: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1864 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata tiesiogiai mini K. Kalinausko egzekuciją ir Muravjovo įsakymą karti sukilėlius.'
   pagrindžia:
     - c-003
-
+- susijęs iš [[objektai/grupes/Laikinoji Vyriausybė Lietuvoje.md#claim-t-40980|Laikinoji Vyriausybė Lietuvoje]]: Lietuvos Provincijos komitetas 1863 m. vasario 1 d. paskelbė manifestą ir pasivadino Laikinąja Vyriausybe Lietuvoje.
+- susijęs iš [[objektai/ivykiai/1863 m. sukilimo pradžia.md#claim-t-39122|1863 m. sukilimo pradžia (sukilimas)]]: 1863 m. sausio 22 d. Lenkijoje prasidėjo sukilimas.
+- susijęs iš [[objektai/paprociai/Carinės sukilimo slopinimo teroro ir viešų bausmių praktika.md#claim-t-75356|Carinės sukilimo slopinimo teroro ir viešų bausmių praktika (sukilimas)]]: 1863 m. pabaigoje Antanas Mackevičius ir Konstantinas Kalinauskas pateko į sukilimo slopintojų rankas ir netrukus buvo viešai pakarti.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -102,13 +118,3 @@ Lenkijos sukilėlių vyriausybė į Lietuvos sukilimo vadovybę grąžino „rau
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Baltarusiai]]
-- [[objektai/zodynas/egzekucija]]
-- [[objektai/zodynas/generalgubernatorius]]
-- [[objektai/zodynas/tautinis atgimimas]]
-- [[objektai/ivykiai/1863 m. sukilimo pradžia|1863 m. sukilimo pradžia (sukilimas)]]
-- [[objektai/grupes/Laikinoji Vyriausybė Lietuvoje]]
-- [[objektai/paprociai/Carinės sukilimo slopinimo teroro ir viešų bausmių praktika|Carinės sukilimo slopinimo teroro ir viešų bausmių praktika (sukilimas)]]

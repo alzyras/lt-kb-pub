@@ -3,12 +3,19 @@ tipas: vieta
 pavadinimas: 'Žemaičių vyskupystė'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1849 m.'
+  - '1875 m.'
+date_start: '1849'
+date_end: '1875'
 sukurta: ''
 atnaujinta: ''
 tags:
   - popiežius
   - vieta
   - vyskupas
+amziai:
+  - 'XIX'
 ---
 # Žemaičių vyskupystė
 
@@ -17,18 +24,23 @@ tags:
 Lietuvoje didžiausią pasisekimą ji turėjo vyskupo Valančiaus valdomoje Žemaičių vyskupystėje (jis vyskupavo 1850—1875 m.; prieš jo vyskupavimą, 1849 m., Žemaičių vyskupystė buvo padidinta, — prie jos buvo pirskirtos 93 Vilniaus vyskupystės parapijos — Kauno.
 
 ## Teiginiai
+
 <a id="claim-t-02939"></a>
 - t-001
   global_id: t-02939
   teiginys: 'Žemaičių vyskupystė 1849 m. buvo padidinta, prie jos prijungus 93 Vilniaus vyskupystės parapijas.'
+  sudarymo_pagrindimas: 'Teiginys buvo nutrūkęs ir su OCR klaida; citata leidžia suformuluoti aiškų faktą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/vyskupystė|vyskupystė]]; mentioned_person: [[objektai/autoriai/Motiejus Valančius|Motiejus Valančius]]; mentioned_place: Kuršas; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1849 m.; įvykio data: 1875 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys buvo nutrūkęs ir su OCR klaida; citata leidžia suformuluoti aiškų faktą.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-
+- susijęs iš [[objektai/autoriai/Motiejus Valančius.md#claim-t-00061|Motiejus Valančius]]: Valančius vyskupavo 1850—1875 m., o jo raginama kunigija platino blaivybės brolijas.
+- susijęs iš [[objektai/autoriai/Motiejus Valančius.md#claim-t-179553|Motiejus Valančius]]: Motiejus Valančius 1848 m. buvo paskirtas Telšių (Žemaičių) vyskupijos vyskupu.
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Žemaičių vyskupystė 1849 m. buvo padidinta, prie jos prijungus 93 Vilniaus vyskupystės parapijas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tai buvo savotiškas mokestis.
@@ -40,10 +52,8 @@ Lietuvoje didžiausią pasisekimą ji turėjo vyskupo Valančiaus valdomoje Žem
     jos buvo pirskirtos 93 Vilniaus vyskupystės parapijos — Kauno,
     Panevėžio, Ukmergės, Utenos, Obelių, Zarasų, Kuršo ir Žiem-
     galos dekanatai).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

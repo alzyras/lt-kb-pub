@@ -36,6 +36,11 @@ Nenurodyta
 - t-001
   global_id: t-185606
   teiginys: 'Mindaugas, gavęs rusų paramą, slapta įsiveržė į Mazoviją ir Jazdovo dvare užklupo kunigaikštį Zemovitą bei jo sūnų Konradą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pašalintas autorinis boilerplate ir OCR triukšmas; faktas aiškiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Zemovitas|Zemovitas]]; mentioned_place: Mazovija'
   pagrindžia:
     - c-001
 
@@ -43,6 +48,14 @@ Nenurodyta
 - t-002
   global_id: t-185607
   teiginys: 'Netekę vadų, Mazovijos žmonės bandė priešintis, bet buvo sumušti, o po to nusiaubta visa Mazovija ir didelė Kujavijos dalis.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pirminis teiginys sugadintas OCR; citata leidžia suformuluoti aiškų faktą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_place: Kujavija; mentioned_place: Mazovija; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1262 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pirminis teiginys sugadintas OCR; citata leidžia suformuluoti aiškų faktą.'
   pagrindžia:
     - c-002
 
@@ -98,9 +111,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Namas]]
-- [[objektai/asmenys/Zemovitas]]
-- [[objektai/grupes/Rusai]]

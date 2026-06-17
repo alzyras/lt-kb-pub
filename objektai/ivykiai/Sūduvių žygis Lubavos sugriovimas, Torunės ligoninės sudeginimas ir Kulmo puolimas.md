@@ -38,6 +38,8 @@ Nenurodyta
 - t-001
   global_id: t-59429
   teiginys: 'Sūduviai įsiveržė į Lubavos žemę, sugriovė Lubavos pilį ir miestą, sudegino Torunės ligoninę ir nesėkmingai puolė Kulmą.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, bet citata pagrindžia pilną įvykio santrauką.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_place: Kulmas; mentioned_place: Lubava; mentioned_place: Torunė; mentioned_place: Štraisbergas'
   pagrindžia:
     - c-001
 
@@ -45,6 +47,8 @@ Nenurodyta
 - t-002
   global_id: t-59430
   teiginys: 'Per sūduvių žygį į pelkes sprukusi krikščionė pasipriešino ją ketinusiam nužudyti sūduvių kariui ir jį mirtinai užtroškino dumblu.'
+  sudarymo_pagrindimas: 'Citata pagrindžia konkretų epizodą, o pradinis teiginys nebaigtas ir per daug pažodinis.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Viena'
   pagrindžia:
     - c-002
 
@@ -87,8 +91,3 @@ Nenurodyta
   pagrindžia:
     - t-003
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Sūduviai]]
-- [[objektai/zodynas/žygis]]

@@ -3,12 +3,20 @@ tipas: asmuo
 pavadinimas: 'Pavelas Bermontas-Avalovas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1919 m.'
+date_start: '1919'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - ginklas
   - karas
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'modernioji Lietuva'
 ---
 # Pavelas Bermontas-Avalovas
 
@@ -22,6 +30,11 @@ Kovos veiksmai su raudonaisiais baigėsi jų išstūmimu iš Lietuvos 1919 m. va
 - t-001
   global_id: t-19188
   teiginys: 'Pavelas Bermontas-Avalovas vadovavo rusų ir vokiečių kariuomenei, vadintai bermontininkais.'
+  sudarymo_pagrindimas: 'Pradinis teiginys perkrautas ir nutrūkęs, bet citata palaiko vadovavimo faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bermontininkai|Bermontininkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1919 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys perkrautas ir nutrūkęs, bet citata palaiko vadovavimo faktą.'
   pagrindžia:
     - c-001
 
@@ -43,10 +56,3 @@ Kovos veiksmai su raudonaisiais baigėsi jų išstūmimu iš Lietuvos 1919 m. va
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Rusai]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/grupes/Bermontininkai]]
-- [[objektai/asmenys/Aleksandras Kolčiakas]]

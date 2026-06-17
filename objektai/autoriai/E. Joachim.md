@@ -3,12 +3,17 @@ tipas: autorius
 pavadinimas: 'E. Joachim'
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+datos: []
+date_start: ''
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
   - diplomatas
   - privilegija
+amziai: []
+periodo_grupes: []
 ---
 # E. Joachim
 
@@ -22,6 +27,11 @@ Dusburgietis teigia, kad joachim; Herausgegeben von W.
 - t-001
   global_id: t-60694
   teiginys: 'E. Joachimas prisidėjo rengiant Vokiečių ordino 1198-1525 m. privilegijų regestų antrąją dalį.'
+  sudarymo_pagrindimas: 'Citata leidžia suformuluoti faktą apie E. Joachimo darbą rengiant leidinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Joachimas (Pskovo vietininkas)|Joachimas (Pskovo vietininkas)]]'
+  temporaliniai_duomenys: 'įvykio data: 1198-1525; įvykio data: 1525 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata leidžia suformuluoti faktą apie E. Joachimo darbą rengiant leidinį.'
   pagrindžia:
     - c-001
 
@@ -40,7 +50,3 @@ Dusburgietis teigia, kad joachim; Herausgegeben von W.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Vokiečiai]]

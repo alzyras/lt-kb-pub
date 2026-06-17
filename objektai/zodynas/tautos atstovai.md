@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-1928 m. Konstitucija numatė, kad prezidentą septyneriems metams renka ypatingi tautos atstovai. 1928 m. Konstitucija numatė, kad prezidentą septyneriems metams renka ypatingi tautos atstovai.
+Konstitucija ypač didelių galių suteikė Seimui, kurį sudarė vadinamieji tautos atstovai. Prezidentą renka septyneriems metams ypatingi tautos atstovai, jis daro visus paskyrimus ir atleidimus.
 
 ## Teiginiai
 
@@ -29,9 +29,18 @@ amziai:
 - t-001
   global_id: t-70357
   teiginys: '1928 m. Konstitucija numatė, kad prezidentą septyneriems metams renka ypatingi tautos atstovai.'
+  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatos faktą apie ypatingus tautos atstovus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Valstybės Taryba|Valstybės Taryba]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]'
+  temporaliniai_duomenys: 'įvykio data: 1928 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia citatos faktą apie ypatingus tautos atstovus.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/A. Hitleris.md#claim-t-75632|A. Hitleris]]: 1933 m. A. Hitleris atėjo į valdžią Vokietijoje.
+- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75752|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1931 m. gruodžio 11 d. ypatingieji tautos atstovai vienbalsiai išrinko Antaną Smetoną Lietuvos prezidentu.
+- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75756|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1931 m. gruodžio 11 d. ypatingieji tautos atstovai vienbalsiai perrinko Antaną Smetoną Lietuvos prezidentu.
+- susijęs iš [[objektai/grupes/Aukščiausioji Taryba.md#claim-t-40858|Aukščiausioji Taryba (institucija)]]: 1991 m. sausio 8 d. perversmininkų minia bandė įsiveržti į Aukščiausiosios Tarybos rūmus ir nuversti nepriklausomos Lietuvos valdžią.
+- susijęs iš [[objektai/ivykiai/A. Smetonos perrinkimas ypatingųjų tautos atstovų balsais (1931 m. ir 1938 m.).md#claim-t-20156|A. Smetonos perrinkimas ypatingųjų tautos atstovų balsais (1931 m. ir 1938 m.)]]: Antanas Smetona sudarė sau sąlygas būti perrenkamam, o ypatingieji tautos atstovai 1931 m. gruodžio 11 d. vienbalsiai išrinko jį Lietuvos prezidentu.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -54,14 +63,3 @@ amziai:
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/A. Smetona]]
-- [[objektai/grupes/Valstybės Taryba]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/asmenys/A. Hitleris]]
-- [[objektai/ivykiai/A. Smetonos perrinkimas ypatingųjų tautos atstovų balsais (1931 m. ir 1938 m.)]]
-- [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
-- [[objektai/grupes/Aukščiausioji Taryba|Aukščiausioji Taryba (institucija)]]

@@ -20,6 +20,8 @@ f Kojelavičius Pagraudenę vadina apylinkę Žemaitijoje: pograudienb C S 7/7 S
 - t-001
   global_id: t-87997
   teiginys: 'Kojelavičius Pagraudenę vadino Žemaitijos apylinke.'
+  sudarymo_pagrindimas: 'Citata tiesiogiai remia trumpą faktinį teiginį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]; mentioned_person: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Pagraudenė'
   pagrindžia:
     - c-001
 
@@ -46,8 +48,3 @@ f Kojelavičius Pagraudenę vadina apylinkę Žemaitijoje: pograudienb C S 7/7 S
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Rytas]]
-- [[objektai/zodynas/vėliava]]

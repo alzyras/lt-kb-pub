@@ -4,9 +4,10 @@ pavadinimas: 'Romo Ubarto aukso medalis Barselonos olimpinėse žaidynėse (1992
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
+  - '1991 m.'
   - '1992 m.'
-date_start: '1992'
-date_end: ''
+date_start: '1991'
+date_end: '1992'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -42,6 +43,11 @@ Nenurodyta
 - t-001
   global_id: t-20465
   teiginys: 'Disko metikas Romas Ubartas 1992 m. Barselonos olimpinėse žaidynėse iškovojo pirmą aukso medalį nepriklausomai Lietuvai.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Romo Ubarto laimėjimą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Romas Ubartas|Romas Ubartas]]; mentioned_place: Barselona; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1991 m.; įvykio data: 1992 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie Romo Ubarto laimėjimą.'
   pagrindžia:
     - c-001
 
@@ -61,8 +67,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Romas Ubartas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

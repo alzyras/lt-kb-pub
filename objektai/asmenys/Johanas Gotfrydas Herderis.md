@@ -21,7 +21,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Vidurio ir Rytų Europoje išpopuliarėjo Johano Gotfrydo Herderio ir kitų vokiečių romantikų mintys apie tautos dvasią liaudies kalboje ir kultūroje. Vidurio ir Rytų Europoje išpopuliarėjo Johano Gotfrydo Herderio ir kitų vokiečių romantikų mintys apie tautos dvasią liaudies kalboje ir kultūroje.
+Tačiau Vidurio ir Rytų Europoje išpopuliarėjo Johano Gotfrydo Herderio (Johann Gottfried Herder) ir kitų vokiečių romantizmo atstovų mintys, kad tautos dvasia glūdi liaudies kalboje ir kultūroje, kad kiekviena kalba ir kultūra yra vertingas visos žmonijos.
 
 ## Teiginiai
 
@@ -29,6 +29,11 @@ Vidurio ir Rytų Europoje išpopuliarėjo Johano Gotfrydo Herderio ir kitų voki
 - t-001
   global_id: t-75881
   teiginys: 'Vidurio ir Rytų Europoje išpopuliarėjo Johano Gotfrydo Herderio ir kitų vokiečių romantikų mintys apie tautos dvasią liaudies kalboje ir kultūroje.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Herderio idėjų paplitimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Europa'
+  temporaliniai_duomenys: 'įvykio data: 1831 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie Herderio idėjų paplitimą.'
   pagrindžia:
     - c-001
 
@@ -72,7 +77,3 @@ Vidurio ir Rytų Europoje išpopuliarėjo Johano Gotfrydo Herderio ir kitų voki
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Vokiečiai]]

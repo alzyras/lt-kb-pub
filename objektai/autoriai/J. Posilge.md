@@ -14,7 +14,7 @@ tags:
 
 ## Santrauka
 
-Jonas von Posilge užrašė, kad Žemaičių žemė pasidavė Ordinui ir krašto kilmingieji davė daug įkaitų. Kronikininkas Jonas von Posilge pateikė žinių apie Žemaičių pasidavimą Ordinui ir krašto kilmingųjų duotus įkaitus.
+Daug įdomių žinių iš to laikotarpio yra patiekęs kronikininkas Jonas von Posilge.
 
 ## Teiginiai
 
@@ -22,6 +22,8 @@ Jonas von Posilge užrašė, kad Žemaičių žemė pasidavė Ordinui ir krašto
 - t-001
   global_id: t-29505
   teiginys: 'Jonas von Posilge užrašė, kad Žemaičių žemė pasidavė Ordinui ir krašto kilmingieji davė daug įkaitų.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas Posilgės citatos perteikimu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/įkaitai|įkaitai]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas von Posilge|Jonas von Posilge]]; mentioned_place: Žemaičių žemė'
   pagrindžia:
     - c-001
 
@@ -29,9 +31,18 @@ Jonas von Posilge užrašė, kad Žemaičių žemė pasidavė Ordinui ir krašto
 - t-002
   global_id: t-184350
   teiginys: 'Kronikininkas Jonas von Posilge pateikė žinių apie Žemaičių pasidavimą Ordinui ir krašto kilmingųjų duotus įkaitus.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis teiginys pernelyg bendras ir vertinamasis, o citata leidžia suformuluoti konkretesnį faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/įkaitai|įkaitai]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas von Posilge|Jonas von Posilge]]'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/asmenys/Jadvyga.md#claim-t-176407|Jadvyga]]: 1393 m. Jogaila ir Jadvyga nuvyko į Vilnių spręsti Vytauto ir Skirgailos smarkaus ginčo.
+- susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179643|Skirgaila]]: 1393 m. tarp Vytauto ir Skirgailos kilo smarkus ginčas, kuriam išspręsti Jogaila ir Jadvyga nuvyko į Vilnių.
+- susijęs iš Vilnius: 1393 m. Jogaila ir Jadvyga nuvyko į Vilnių spręsti Vytauto ir Skirgailos ginčo.
+- susijęs iš Vilnius: 1392 m. Vytautas, nors dokumentuose tai neminima, turėjo gauti ir Vilnių.
+- susijęs iš Vilnius: 1392 m. Vytautas turėjo gauti ir Vilnių, nors dokumentuose tai nepaminėta.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -65,8 +76,3 @@ Jonas von Posilge užrašė, kad Žemaičių žemė pasidavė Ordinui ir krašto
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/zodynas/įkaitai]]

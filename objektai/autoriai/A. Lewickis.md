@@ -3,10 +3,18 @@ tipas: autorius
 pavadinimas: 'A. Lewickis'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+datos:
+  - '1947 m.'
+date_start: '1947'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'XX a.'
 ---
 # A. Lewickis
 
@@ -20,9 +28,15 @@ Lewickis, kuris ne tik išleido du tomus svarbių XV amž. šaltinių (CeXV), be
 - t-001
   global_id: t-30520
   teiginys: 'A. Lewickis išleido du tomus svarbių XV a. šaltinių ir parašė šaltiniais paremtą monografiją apie Švitrigailą.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nusako Lewickio darbus ir yra paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/monografija|monografija]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1947 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako Lewickio darbus ir yra paremtas citata.'
   pagrindžia:
     - c-001
-
+- susijęs iš Cod. ep. saec. XV: „Codex epistolaris saeculi decimi quinti“ yra XV amžiaus laiškų rinkinys, kurio 1-3 tomus parengė J. Sokołowskis, J. Szujskis ir A. Lewickis.
+- susijęs iš Codex epistolaris saeculi XV: Codex epistolaris saeculi XV sudarė du tomai, kuriuos A. Lewickis parengė ir 1891 m. išleido Krokuvoje.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -41,7 +55,3 @@ Lewickis, kuris ne tik išleido du tomus svarbių XV amž. šaltinių (CeXV), be
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/monografija]]

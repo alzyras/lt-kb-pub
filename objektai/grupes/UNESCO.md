@@ -3,6 +3,12 @@ tipas: grupe
 pavadinimas: 'UNESCO'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1991 m.'
+  - '1993 m.'
+  - '2004 m.'
+date_start: '1991'
+date_end: '2004'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -10,12 +16,15 @@ tags:
   - mokslininkas
   - sutartis
   - tauta
+amziai:
+  - 'XX'
+  - 'XXI'
 ---
 # UNESCO
 
 ## Santrauka
 
-1991 m. pabaigoje Lietuva buvo priimta į UNESCO ir kitas JT specializuotas įstaigas.
+1991 m. rugsėjo 17 d. Lietuva priimta į Jungtinių Tautų (JT) organizaciją, 1991 m. pabaigoje – į JT specializuotas įstaigas (UNESCO (Švietimo, mokslo ir kultūros organizacija), TDO (Tarptautinė darbo organizacija) ir kt.), 1993 m. priimta į Europos Tarybą.
 
 ## Teiginiai
 
@@ -23,6 +32,11 @@ tags:
 - t-001
   global_id: t-20052
   teiginys: '1991 m. pabaigoje Lietuva buvo priimta į UNESCO ir kitas JT specializuotas įstaigas.'
+  sudarymo_pagrindimas: 'Perrašymas glaudžiau susieja faktą su UNESCO ir pašalina perteklinį vardijimą.'
+  susije_objektai: 'mentioned_place: Baltija; mentioned_place: Europa; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1991 m.; įvykio data: 1993 m.; įvykio data: 2004 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Perrašymas glaudžiau susieja faktą su UNESCO ir pašalina perteklinį vardijimą.'
   pagrindžia:
     - c-001
 
@@ -47,12 +61,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Europos Sąjunga]]
-- [[objektai/grupes/Europos Taryba|Europos Taryba (institucija)]]
-- [[objektai/grupes/Jungtinių Tautų organizacija]]
-- [[objektai/ivykiai/Lietuvos priėmimas į Jungtines Tautas ir Europos Tarybą (1991–1993 m.)]]
-- [[objektai/grupes/Tarptautinė darbo organizacija]]
-- [[objektai/grupes/Šiaurės Atlanto sutarties organizacija (NATO)]]

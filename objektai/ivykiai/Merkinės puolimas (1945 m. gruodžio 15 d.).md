@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Adolfas Ramanauskas-Vanagas, pasitaręs su Juozu Vitkumi-Kazimieraičiu, nutarė telkti partizanus Merkinės puolimui. Per Merkinės puolimą partizanai užėmė NKVD būstinę, paštą, valsčiaus ir milicijos įstaigas. Druskininkų bataliono grupei nenutraukus ryšio linijų tarp Merkinės ir Druskininkų, sovietai susisiekė su Alytumi ir išsikvietė pagalbą.
+Merkinės puolimas buvo sumanytas kaip atsakas į Marcinkonių bataliono vado ir jo kovos draugų žūtį, o ataka prasidėjo baltos raketos signalu. 1945 m. gruodžio 5 d. prie Mardasavo žuvo Marcinkonių bataliono vadas ir dar trys kovos draugai Adolfas Ramanauskas-Vanagas, pasitaręs su Juozu Vitkumi-Kazimieraičiu, nutarė pulti Merkinę keršijant už kovos draugų žūtį.
 
 ## Laikotarpis ir datos
 
@@ -45,6 +45,8 @@ Nenurodyta
 - t-001
   global_id: t-66775
   teiginys: 'Adolfas Ramanauskas-Vanagas, pasitaręs su Juozu Vitkumi-Kazimieraičiu, nutarė telkti partizanus Merkinės puolimui.'
+  sudarymo_pagrindimas: 'Sakinys sukonkretintas ir sutrumpintas pagal citatą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Adolfas Ramanauskas-Vanagas|Adolfas Ramanauskas-Vanagas]]; mentioned_place: Dainava; mentioned_place: Dzūkija; mentioned_place: Merkinė'
   pagrindžia:
     - c-002
 
@@ -52,6 +54,8 @@ Nenurodyta
 - t-002
   global_id: t-66776
   teiginys: 'Per Merkinės puolimą partizanai užėmė NKVD būstinę, paštą, valsčiaus ir milicijos įstaigas.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie puolimo rezultatą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_place: Alytus; mentioned_place: Druskininkai; mentioned_place: Merkinė; mentioned_place: Vilnius; mentioned_place: Vokietija'
   pagrindžia:
     - c-003
 
@@ -59,6 +63,8 @@ Nenurodyta
 - t-003
   global_id: t-66777
   teiginys: 'Druskininkų bataliono grupei nenutraukus ryšio linijų tarp Merkinės ir Druskininkų, sovietai susisiekė su Alytumi ir išsikvietė pagalbą.'
+  sudarymo_pagrindimas: 'Pašalintas silpnas įvadas „Paaiškėjo“ ir sakinys padarytas enciklopedinis.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_place: Alytus; mentioned_place: Druskininkai; mentioned_place: Merkinė; mentioned_place: Vilnius; mentioned_place: Vokietija'
   pagrindžia:
     - c-003
 
@@ -66,6 +72,11 @@ Nenurodyta
 - t-004
   global_id: t-66779
   teiginys: '1945 m. gruodžio 15 d. 11 val. A. Ramanauskas-Vanagas iššovė baltą raketą ir paskelbė atakos pradžią.'
+  sudarymo_pagrindimas: 'Teiginys turi aiškų veikėją, veiksmą ir datą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_place: Alytus; mentioned_place: Merkinė'
+  temporaliniai_duomenys: 'įvykio data: 1945 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys turi aiškų veikėją, veiksmą ir datą.'
   pagrindžia:
     - c-004
 
@@ -73,6 +84,11 @@ Nenurodyta
 - t-005
   global_id: t-66780
   teiginys: 'Prieš Merkinės puolimą 1945 m. gruodžio 5 d. prie Mardasavo NKVD dalinio užklupti žuvo keturi Marcinkonių bataliono partizanai.'
+  sudarymo_pagrindimas: 'Reikia glaudesnio sakinio, pašalinant perteklinį vardų sąrašą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Mardasavas; mentioned_place: Merkinė'
+  temporaliniai_duomenys: 'įvykio data: 1945 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia glaudesnio sakinio, pašalinant perteklinį vardų sąrašą.'
   pagrindžia:
     - c-001
 
@@ -80,6 +96,9 @@ Nenurodyta
 - t-006
   global_id: t-66781
   teiginys: '1945 m. gruodžio 5 d. prie Mardasavo žuvo Marcinkonių bataliono vadas Lionginas Švalkus-Šernas ir trys jo kovos draugai.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Mardasavas'
+  temporaliniai_duomenys: 'įvykio data: 1945 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -87,9 +106,23 @@ Nenurodyta
 - t-007
   global_id: t-183675
   teiginys: '1945 m. gruodžio 15 d. 11 val. Adolfas Ramanauskas-Vanagas balta raketa paskelbė Merkinės puolimo pradžią.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis tekstas buvo tik datos fragmentas, o citata leidžia suformuoti faktinį sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_person: [[objektai/asmenys/Adolfas Ramanauskas-Vanagas|Adolfas Ramanauskas-Vanagas]]; mentioned_place: Alytus; mentioned_place: Merkinė'
+  temporaliniai_duomenys: 'įvykio data: 1945 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis tekstas buvo tik datos fragmentas, o citata leidžia suformuoti faktinį sakinį.'
   pagrindžia:
     - c-004
-
+- susijęs iš [[objektai/autoriai/Dalius Žygelis.md#claim-t-40613|Dalius Žygelis]]: Dalius Žygelis buvo kelių tekstų apie 1945–1949 m. Lietuvos partizanų kautynes bendraautoris.
+- susijęs iš [[objektai/autoriai/Ričardas Čekutis.md#claim-t-40672|Ričardas Čekutis]]: Ričardas Čekutis kartu su Daliumi Žygeliu parašė tekstus apie 1945 m. Kiauneliškių, Kalniškės ir Merkinės kautynes.
+- susijęs iš [[objektai/daiktai/Tanketė.md#claim-t-40775|Tanketė]]: Per Merkinės puolimą 1945 m. gruodžio 15 d. plentų kryžkelėje pasirodžiusi tanketė atidengė ugnį į miestelį.
+- susijęs iš Dzūkija: Žinios apie Dzūkijos partizanų sėkmę paskatino kitur Lietuvoje veikusius laisvės kovotojus imtis aktyvesnių veiksmų.
+- susijęs iš Merkinė: Po 1945 m. gruodžio 15 d. Merkinės puolimo jame dalyvavę partizanų būriai pamažu atsitraukė iš Merkinės.
+- susijęs iš Merkinė: 1945 m. Merkinės puolimas buvo pasiūlytas kaip keršto priešui veiksmas.
+- susijęs iš Merkinė: Po 1945 m. gruodžio 15 d. Merkinės puolimo partizanų būriai pamažu atsitraukė iš miestelio.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -194,13 +227,3 @@ Nenurodyta
   pagrindžia:
     - t-007
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Adolfas Ramanauskas-Vanagas]]
-- [[objektai/asmenys/Martynas iš Golino]]
-- [[objektai/grupes/NKVD]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/autoriai/Dalius Žygelis]]
-- [[objektai/autoriai/Ričardas Čekutis]]
-- [[objektai/daiktai/Tanketė]]

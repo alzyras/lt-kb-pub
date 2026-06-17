@@ -5,6 +5,7 @@ saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1836 m.'
+  - '1841 m.'
   - '1847 m.'
 date_start: '1836'
 date_end: '1847'
@@ -43,6 +44,11 @@ Nenurodyta
 - t-001
   global_id: t-86942
   teiginys: '1841 m. Michałas Balińskis tapo vienu iš enciklopedinio leidinio „Biblioteka Warszawska“ steigėjų.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūksta inicialu, o citata aiškiai pagrindžia steigėjo faktą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_person: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_place: Lenkija'
+  temporaliniai_duomenys: 'įvykio data: 1841 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūksta inicialu, o citata aiškiai pagrindžia steigėjo faktą.'
   pagrindžia:
     - c-001
 
@@ -65,9 +71,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Aleksandras Balinskis]]
-- [[objektai/asmenys/Barbora Radvilaitė]]
-- [[objektai/autoriai/Mykolas Balinskis]]

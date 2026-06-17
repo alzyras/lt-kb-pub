@@ -34,6 +34,7 @@ Nenurodyta
 - t-001
   global_id: t-07791
   teiginys: 'Motriškosios po namus trūsėjo, audė, švarino namus, tiekė drabužius ir saugojo viežlybumą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; mentioned_object: [[objektai/zodynas/Viežlybumas|Viežlybumas]]; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -53,8 +54,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Drabužiai]]
-- [[objektai/zodynas/Viežlybumas|viežlybumas]]

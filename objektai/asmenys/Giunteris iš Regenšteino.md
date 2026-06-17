@@ -31,6 +31,8 @@ Dusburgietis teigia, kad vis dėlto broliai Ditrichas ir Giunteris iš Regenšte
 - t-001
   global_id: t-60293
   teiginys: 'Giunteris iš Regenšteino su broliu Ditrichu ir pasitelktais kariais sugriovė pilaitę prie įeigos į Notangos žemę.'
+  sudarymo_pagrindimas: 'Citata palaiko glaustesnį faktą apie asmens veiksmą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_person: [[objektai/asmenys/Giunteris (Mazovijos vyskupas)|Giunteris (Mazovijos vyskupas)]]; mentioned_place: Notanga; mentioned_place: Pilaitė; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
 
@@ -61,10 +63,3 @@ Dusburgietis teigia, kad vis dėlto broliai Ditrichas ir Giunteris iš Regenšte
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Giunteris (Mazovijos vyskupas)]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/įgula]]
-- [[objektai/ivykiai/Meiseno markos valdovo Ditricho žygis į Notangą (1272 m.)]]

@@ -10,13 +10,13 @@ date_start: '1936'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XX'
-  - 'XXI'
 tags:
   - miestas
   - pilis
   - vieta
+amziai:
+  - 'XX'
+  - 'XXI'
 ---
 # Alenšteinas
 
@@ -25,10 +25,13 @@ tags:
 Štai Lietuvai artimesniųjų pilių įkūrimo datos: Klaipėda — 1252 m., Ragainė — 1289 m., Tilžė — 1293 m., Girdava — 1325 m., Vėluva ir Angerburgas — 1335 m., Įsrutis ir Röselis — 1337 m., Lotzenburgas — apie 1340 m., Rastenburgas ir Johanisburgas — 1345 m..
 
 ## Teiginiai
+
 <a id="claim-t-51349"></a>
 - t-001
   global_id: t-51349
   teiginys: 'Kariuomenės taryba nutarė pro Alenšteiną apeiti Drevencos upę ir tolimesniu keliu pasiekti Marienburgą.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai aprašo tarybos nutarimą ir Alenšteino vaidmenį maršrute.'
+  susije_objektai: 'mentioned_place: Drevenca; mentioned_place: Marienburgas'
   pagrindžia:
     - c-001
 
@@ -36,10 +39,18 @@ tags:
 - t-002
   global_id: t-51350
   teiginys: 'Žygio planuotojai nutarė pro Alenšteiną apeiti Drevencos upę ir tolimesniu keliu pasiekti Marienburgą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Drevenca; mentioned_place: Marienburgas'
   pagrindžia:
     - c-001
-
+- susijęs iš Angerburgas: Angerburgo pilis minima tarp Lietuvai artimesnių pilių, įkurtų 1335 metais.
+- susijęs iš Drevenca: Sąjungininkai nutarė apeiti Drevencos upę pro Alenšteiną, kad tolimesniu keliu pasiektų Marienburgą.
+- susijęs iš Girdava: Girdavos pilis buvo įkurta 1325 m.
+- susijęs iš Johanisburgas: Johanisburgas buvo viena Lietuvai artimesniųjų pilių, įkurta 1345 m.
+- susijęs iš Lotzenburgas: Lotzenburgas buvo viena iš Lietuvai artimesnių pilių, įkurta apie 1340 m.
+- susijęs iš Rastenburgas: Rastenburgo pilis buvo įkurta 1345 m.
+- susijęs iš Röselis: Röselio pilis priskiriama prie Lietuvai artimesnių pilių ir nurodoma įkurta 1337 m.
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Kariuomenės taryba nutarė pro Alenšteiną apeiti Drevencos upę ir tolimesniu keliu pasiekti Marienburgą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)

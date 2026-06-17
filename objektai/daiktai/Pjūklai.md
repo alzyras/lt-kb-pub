@@ -42,9 +42,13 @@ Nenurodyta
 - t-001
   global_id: t-59701
   teiginys: 'Kaimiečiai pjūklais papjovė medžius miškuose, kad grįžtančius vengrus užgriūtų vienas kitą parbloškiantys medžiai.'
+  sudarymo_pagrindimas: 'Pradinė formuluotė turi neaiškių įvardžių ir yra per daug priklausoma nuo citatos konteksto.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_place: Kulmas; mentioned_place: Vengrija; mentioned_place: Viena'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/grupes/Vengrai.md#claim-t-66254|Vengrai]]: Vengrai siaubė Kulmo žemę, o grįždami per mišką patyrė didelių nuostolių nuo kaimiečių parverstų medžių.
+- susijęs iš [[objektai/ivykiai/Antroji Smolensko apgultis ir gudrus sienų plyšių užtaisymas.md#claim-t-185690|Antroji Smolensko apgultis ir gudrus sienų plyšių užtaisymas]]: Antrosios Smolensko apgulties metu priešas pabūklais sugriovė didelę gynybinės sienos dalį.
+- susijęs iš Mstislavlis: Praradę viltį užimti Smolenską, Šemiačičiai patraukė prie Mstislavlio, bet Ivanas Solomereckis atrėmė antpuolį.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -64,8 +68,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Vengrai]]
-- [[objektai/ivykiai/Antroji Smolensko apgultis ir gudrus sienų plyšių užtaisymas]]

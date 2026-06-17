@@ -20,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-1950 m. lapkričio 25 d. likę Šarūno ir Kunigaikščio Margio rinktinių kovotojai buvo sujungti į Tumo Vaižganto rinktinę.
+Algimanto apygardą sudarė trys rinktinės: Šarūno, Kunigaikščio Margio ir Žalioji. Margio rinktinės žvalgybos sk. Likę Šarūno ir Kunigaikščio Margio rinktinių kovotojai sujungti į vieną - Tumo Vaižganto rinktinę ir įtraukti į Vytauto, o Žaliosios rinktinės kovotojai - į Vyčio apygardas.
 
 ## Teiginiai
 
@@ -28,6 +28,11 @@ amziai:
 - t-001
   global_id: t-40958
   teiginys: '1950 m. lapkričio 25 d. likę Šarūno ir Kunigaikščio Margio rinktinių kovotojai buvo sujungti į Tumo Vaižganto rinktinę.'
+  sudarymo_pagrindimas: 'Teiginys yra konkretus, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Algimanto apygarda|Algimanto apygarda]]; mentioned_person: [[objektai/asmenys/Vaižgantas|Vaižgantas]]; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1950 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -49,12 +54,3 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Algimanto apygarda]]
-- [[objektai/asmenys/Vaižgantas]]
-- [[objektai/grupes/Tumo Vaižganto rinktinė]]
-- [[objektai/grupes/Vytauto apygarda]]
-- [[objektai/grupes/Vyčio apygarda]]
-- [[objektai/grupes/Žalioji rinktinė]]

@@ -41,6 +41,8 @@ Nenurodyta
 - t-001
   global_id: t-87269
   teiginys: 'Lietuvoje buvo paplitęs paprotys gyvenvietes prie upių vadinti prie upės pavadinimo pridedant priešdėlį „pa-“.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, faktinis ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_place: Brasta; mentioned_place: Dubysa; mentioned_place: Lietuva; mentioned_place: Paneriai; mentioned_place: Panevėžys; mentioned_place: Vilija; mentioned_place: Širvinta'
   pagrindžia:
     - c-001
 
@@ -71,7 +73,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/vietovardžių priešdėlis `pa]]

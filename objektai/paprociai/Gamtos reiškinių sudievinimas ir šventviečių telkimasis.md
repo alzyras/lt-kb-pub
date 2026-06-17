@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Gamtos sudievinimo sampratoje senieji lietuviai šventybės raišką matė danguje, žemėje, ugnyje ir vandenyje. Gamtos sudievinimo sampratoje senieji lietuviai šventybės raišką matė danguje, žemėje, ugnyje ir vandenyje. Senųjų lietuvių gamtos reiškinių, ypač žemės, sudievinimas trukdė plėstis žemės dirbimui, todėl šventumas pamažu telkėsi šventvietėse.
+Toks gamtos reiškinių, ypač žemės, sudievinimas trukdė plėstis žemės dirbimui, todėl šventumas pamažu koncentravosi šventvietėse.
 
 ## Laikotarpis ir datos
 
@@ -40,6 +40,8 @@ Nenurodyta
 - t-001
   global_id: t-54232
   teiginys: 'Gamtos sudievinimo sampratoje senieji lietuviai šventybės raišką matė danguje, žemėje, ugnyje ir vandenyje.'
+  sudarymo_pagrindimas: 'Teiginį reikia aiškiau susieti su gamtos sudievinimu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Romai|Romai]]'
   pagrindžia:
     - c-001
 
@@ -47,6 +49,11 @@ Nenurodyta
 - t-003
   global_id: t-183310
   teiginys: 'Senųjų lietuvių gamtos reiškinių, ypač žemės, sudievinimas trukdė plėstis žemės dirbimui, todėl šventumas pamažu telkėsi šventvietėse.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus ir tiksliai paremtas citatos faktu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-002
 
@@ -84,8 +91,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Romai]]

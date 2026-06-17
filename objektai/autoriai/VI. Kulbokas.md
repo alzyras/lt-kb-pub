@@ -20,6 +20,8 @@ Kulbokas, Lietuvių literatūrinė kritika tremtyje, spaus­ dinama.
 - t-001
   global_id: t-100122
   teiginys: 'Vl. Kulbokas rengė spaudai darbą „Lietuvių literatūrinė kritika tremtyje“.'
+  sudarymo_pagrindimas: 'Citata palaiko trumpą faktą apie rengiamą autoriaus darbą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-001
 
@@ -37,7 +39,3 @@ Kulbokas, Lietuvių literatūrinė kritika tremtyje, spaus­ dinama.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]

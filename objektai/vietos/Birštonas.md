@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Už Birštono rinktinė išėjo į plentą, sustojo ir praleido keturias pravažiavusias vokiečių patrankas. Netoli Birštono Zaskevičiaus kariai susitiko su A. Žemaičio vadovaujama 1-ojo pėstininkų pulko 2-ąja kuopa, vykusia paremti Jiezno puolimą.
+Netoli Birštono Zaskevičiaus kariai susitiko karin. „Rinktinė už Birštono išėjo į plentą ir sustojo.
 
 ## Teiginiai
 
@@ -21,6 +21,8 @@ Už Birštono rinktinė išėjo į plentą, sustojo ir praleido keturias pravaž
 - t-001
   global_id: t-38347
   teiginys: 'Už Birštono rinktinė išėjo į plentą, sustojo ir praleido keturias pravažiavusias vokiečių patrankas.'
+  sudarymo_pagrindimas: 'Pašalintos netvarkingos kabutės ir tiesioginės kalbos triukšmas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/Kariauna|Kariauna]]'
   pagrindžia:
     - c-001
 
@@ -28,9 +30,11 @@ Už Birštono rinktinė išėjo į plentą, sustojo ir praleido keturias pravaž
 - t-002
   global_id: t-38348
   teiginys: 'Netoli Birštono Zaskevičiaus kariai susitiko su A. Žemaičio vadovaujama 1-ojo pėstininkų pulko 2-ąja kuopa, vykusia paremti Jiezno puolimą.'
+  sudarymo_pagrindimas: 'Pradiniame teiginyje trūko prielinksnio ir buvo netaisyklinga linksnių konstrukcija.'
+  susije_objektai: 'mentioned_place: Jieznas; mentioned_place: Prienai'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/asmenys/A. Žemaitis.md#claim-t-39988|A. Žemaitis]]: Netoli Birštono Zaskevičiaus kariai sutiko A. Žemaičio vadovaujamą 1-ojo pėstininkų pulko 2-ąją kuopą, vykusią paremti Jiezno puolimo.
 ## Reikšmingi paminėjimai
 
 - c-001

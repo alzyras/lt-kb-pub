@@ -6,8 +6,9 @@ saltiniai:
 datos:
   - '1944 m.'
   - '1953 m.'
+  - '1995 m.'
 date_start: '1944'
-date_end: '1953'
+date_end: '1995'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -27,6 +28,11 @@ Lietuvos gyventojų trėmimai 1941, 1944–1953 metais.
 - t-001
   global_id: t-21152
   teiginys: 'Eugenijaus Grunskio „Lietuvos gyventojų trėmimai 1941, 1944–1953 metais“ išleista Vilniuje 1995 m.'
+  sudarymo_pagrindimas: 'Perrašyta dėl aiškesnės ir gramatiškesnės formuluotės.'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1995 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Perrašyta dėl aiškesnės ir gramatiškesnės formuluotės.'
   pagrindžia:
     - c-001
 

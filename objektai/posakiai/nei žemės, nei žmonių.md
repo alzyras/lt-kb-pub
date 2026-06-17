@@ -21,6 +21,7 @@ Kryžiuočiams atrodė, kad bėglys Vytautas, kuris, jų žodžiais tariant, neb
 - t-001
   global_id: t-31564
   teiginys: 'Kryžiuočiai bėglį Vytautą, jų žodžiais nebeturėjusį „nei žemės, nei žmonių“, laikė įrankiu spausti Jogailą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Julijona|Julijona]]'
   pagrindžia:
     - c-001
 
@@ -40,11 +41,3 @@ Kryžiuočiams atrodė, kad bėglys Vytautas, kuris, jų žodžiais tariant, neb
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/įrankis]]
-
-### Susiję objektai
-- [[objektai/asmenys/Julijona]]
-- [[objektai/grupes/Kryžiuočių ordinas]]

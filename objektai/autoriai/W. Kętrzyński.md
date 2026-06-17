@@ -30,6 +30,8 @@ Kętrzyńskis atsidėjo Mindaugo donacinių dokumentų klausimui^127. Kętrzyńs
 - t-001
   global_id: t-31065
   teiginys: 'W. Kętrzyńskis nagrinėjo Mindaugo donacinių dokumentų klausimą.'
+  sudarymo_pagrindimas: 'Pašalinta išnašos žyma ir suformuluotas sklandus enciklopedinis sakinys.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -51,7 +53,3 @@ Kętrzyńskis atsidėjo Mindaugo donacinių dokumentų klausimui^127. Kętrzyńs
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/dinastija]]

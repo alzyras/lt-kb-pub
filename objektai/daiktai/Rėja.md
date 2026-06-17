@@ -38,6 +38,8 @@ Nenurodyta
 - t-001
   global_id: t-08327
   teiginys: 'Neturtingieji rėjos duoboje pėrėsi, nes ant kakalio buvo sukrauta krosnis.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Įvardis išplėstas pagal objekto kontekstą, sakinys padarytas savarankiškas.'
   pagrindžia:
     - c-001
 

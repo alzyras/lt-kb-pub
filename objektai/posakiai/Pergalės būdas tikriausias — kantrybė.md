@@ -21,6 +21,8 @@ Dusburgietis teigia, kad (1 Mak 6 ir 9) Yra dar viena, visai nauja priemonė lai
 - t-001
   global_id: t-59050
   teiginys: 'Dusburgietis kantrybę vadina priemone laimėti kovą ir cituoja posakį, kad pasikliaujantis kantrumu laimi.'
+  sudarymo_pagrindimas: 'Citata pagrindžia autoriaus aiškinimą, bet pradinis teiginys kopijuoja nutrūkusį fragmentą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Bachidas|Bachidas]]'
   pagrindžia:
     - c-001
 
@@ -28,6 +30,8 @@ Dusburgietis teigia, kad (1 Mak 6 ir 9) Yra dar viena, visai nauja priemonė lai
 - t-002
   global_id: t-59051
   teiginys: 'Dusburgietis kantrybę vadina dorybių viršūne, galinčia įveikti ir beginklį, ir ginkluotą priešininką.'
+  sudarymo_pagrindimas: 'Citata leidžia aiškiai perfrazuoti poetinį fragmentą į vieną sakinį.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Grigalius (vicekancleris)|Grigalius (vicekancleris)]]'
   pagrindžia:
     - c-002
 
@@ -35,6 +39,8 @@ Dusburgietis teigia, kad (1 Mak 6 ir 9) Yra dar viena, visai nauja priemonė lai
 - t-003
   global_id: t-59052
   teiginys: 'Dusburgietis Grigaliui priskiria mintį, kad kankiniu galima būti ir be kalavijo ar liepsnų, jei sieloje išsaugoma kantrybė.'
+  sudarymo_pagrindimas: 'Teiginys yra apie cituojamą autoritetą, todėl reikia aiškiai priskirti mintį.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_person: [[objektai/asmenys/Grigalius (vicekancleris)|Grigalius (vicekancleris)]]; mentioned_person: [[objektai/asmenys/Jeronimas|Jeronimas]]'
   pagrindžia:
     - c-003
 
@@ -94,11 +100,3 @@ Dusburgietis teigia, kad (1 Mak 6 ir 9) Yra dar viena, visai nauja priemonė lai
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Bachidas]]
-- [[objektai/asmenys/Grigalius (vicekancleris)]]
-- [[objektai/asmenys/Jeronimas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/daiktai/Kalavijas]]

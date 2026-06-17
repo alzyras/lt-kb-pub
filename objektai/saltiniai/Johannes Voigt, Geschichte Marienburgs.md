@@ -29,6 +29,11 @@ amziai:
 - t-001
   global_id: t-88311
   teiginys: 'Johannesas Voigtas rašė, kad 1426 m. Vytautas prašė didžiojo magistro rūmų gydytojo sergančiai žmonai Julijonai.'
+  sudarymo_pagrindimas: 'Citata palaiko faktą apie Voigto pateiktą žinią ir Vytauto prašymą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lenkija; mentioned_place: Marienburgas'
+  temporaliniai_duomenys: 'įvykio data: 1426 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko faktą apie Voigto pateiktą žinią ir Vytauto prašymą.'
   pagrindžia:
     - c-001
 

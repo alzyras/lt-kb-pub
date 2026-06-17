@@ -3,12 +3,18 @@ tipas: ivykis
 pavadinimas: 'Gintarinės deklaracijos surašymas ir paskelbimas Rusijos Dūmoje'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1914 m.'
+date_start: '1914'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
   - karas
   - tauta
+amziai:
+  - 'XX'
 ---
 # Gintarinės deklaracijos surašymas ir paskelbimas Rusijos Dūmoje
 
@@ -38,6 +44,11 @@ Nenurodyta
 - t-001
   global_id: t-20195
   teiginys: '1914 m. liepą Jonas Basanavičius, Stasys Šilingas ir Donatas Malinauskas Vilniuje surašė Gintarinę deklaraciją, paskelbtą Rusijos Dūmoje rugpjūčio 4 d.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nurodo deklaracijos surašytojus, vietą ir paskelbimo datą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: Sarajevas; mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Donatas Malinauskas|Donatas Malinauskas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/autoriai/Stasys Šilingas|Stasys Šilingas]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Rusija; mentioned_place: Suvalkai; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1914 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo deklaracijos surašytojus, vietą ir paskelbimo datą.'
   pagrindžia:
     - c-001
 
@@ -68,16 +79,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Donatas Malinauskas]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/autoriai/Stasys Šilingas]]
-- [[objektai/zodynas/gubernija]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/asmenys/Jonas]]
-- [[objektai/asmenys/Jonas Basanavičius]]
-- [[objektai/asmenys/Pranciškus Ferdinandas]]

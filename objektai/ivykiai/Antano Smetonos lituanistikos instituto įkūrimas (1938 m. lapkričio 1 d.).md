@@ -45,6 +45,11 @@ Nenurodyta
 - t-001
   global_id: t-20162
   teiginys: '1938 m. lapkričio 1 d. įkurtas Antano Smetonos lituanistikos institutas turėjo tirti lietuvių kalbą, tautosaką ir Lietuvos praeitį.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas, enciklopedinis ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Antano Smetonos lituanistikos institutas|Antano Smetonos lituanistikos institutas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Lituanistika|Lituanistika]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1938 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas, enciklopedinis ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -67,12 +72,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/A. Smetona]]
-- [[objektai/asmenys/Antanas (vaistininkas)]]
-- [[objektai/grupes/Antano Smetonos lituanistikos institutas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/Lituanistika]]
-- [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]

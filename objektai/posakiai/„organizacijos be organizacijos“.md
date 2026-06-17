@@ -32,6 +32,11 @@ hos įvykių Lietuvoje pradėjo kurtis „organizacijos be organizacijos“, į 
 - t-001
   global_id: t-25385
   teiginys: 'Po Prahos įvykių Lietuvoje pradėjo kurtis „organizacijos be organizacijos“, telkusios žmones bendromis idėjomis ir tikslais.'
+  sudarymo_pagrindimas: 'Perrašyta taip, kad teiginys būtų tiesiogiai apie posakį ir remtųsi citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Praha'
+  temporaliniai_duomenys: 'įvykio data: iki 1965 m.; įvykio data: 1965 m.; įvykio data: 1987 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Perrašyta taip, kad teiginys būtų tiesiogiai apie posakį ir remtųsi citata.'
   pagrindžia:
     - c-001
 
@@ -58,7 +63,3 @@ hos įvykių Lietuvoje pradėjo kurtis „organizacijos be organizacijos“, į 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]

@@ -23,9 +23,11 @@ Iš to susidarė dvi partijos: karo ir taikos.
 - t-001
   global_id: t-34367
   teiginys: 'Taikos partija, atsižvelgdama į didelį totorių kariuomenės skaičių, ragino Vytautą sudaryti paliaubas.'
+  sudarymo_pagrindimas: 'Pradinė frazė buvo per silpna, citata leidžia aiškesnį faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/grupes/Karo partija.md#claim-t-34355|Karo partija]]: Vytautas ir karo partija reikalavo mūšio, nors taikos partija ragino jį sudaryti paliaubas su totoriais.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -41,12 +43,3 @@ Iš to susidarė dvi partijos: karo ir taikos.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/paliaubos]]
-
-### Susiję objektai
-- [[objektai/grupes/Totoriai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/grupes/Karo partija]]

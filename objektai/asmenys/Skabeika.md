@@ -18,9 +18,15 @@ Skabeika neleido ginkluotiems vyrams tą vakarą išlipti iš šieno prikrautų 
 - t-001
   global_id: t-186161
   teiginys: 'Skabeika neleido ginkluotiems vyrams tą vakarą išlipti iš šieno prikrautų vežimų.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pašalinta autorinė formuluotė ir aiškiai įvardytas Skabeikos veiksmas.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vežimai|Vežimai]]'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/ivykiai/Žygimanto Kęstutaičio nužudymas per Verbų sekmadienį (1440 m.).md#claim-t-185685|Žygimanto Kęstutaičio nužudymas per Verbų sekmadienį (1440 m.)]]: Sąmokslininkai sutarė nužudyti Žygimantą Kęstutaitį Verbų sekmadienį.
+- susijęs iš [[objektai/posakiai/Verbų sekmadieni.md#claim-t-186893|Verbų sekmadieni]]: Formulė „Verbų sekmadieni“ 1971 m. leidinio pastaboje aiškinama kaip 1440 m. kovo 20 d. data.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -40,10 +46,3 @@ Skabeika neleido ginkluotiems vyrams tą vakarą išlipti iš šieno prikrautų 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/posakiai/Verbų sekmadieni]]
-- [[objektai/posakiai/šuns kfauju]]
-- [[objektai/ivykiai/Žygimanto Kęstutaičio nužudymas per Verbų sekmadienį (1440 m.)]]
-- [[objektai/daiktai/Vežimai]]

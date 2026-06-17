@@ -20,6 +20,8 @@ tags:
 - t-001
   global_id: t-86562
   teiginys: 'Formulė manu proprio prie parašų reiškė, kad Eustachijus Valavičius pasirašė savo ranka.'
+  sudarymo_pagrindimas: 'Pradinis tekstas buvo parašo fragmentas; citata leidžia paaiškinti formulės reikšmę ir susieti ją su asmeniu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Valavičiai|Valavičiai]]; mentioned_object: [[objektai/daiktai/Antspaudai|Antspaudai]]; mentioned_person: [[objektai/asmenys/Eustachijus (raštininkas)|Eustachijus (raštininkas)]]; mentioned_person: [[objektai/asmenys/Eustachijus Valavičius|Eustachijus Valavičius]]; mentioned_person: [[objektai/asmenys/Leonas|Leonas]]; mentioned_person: [[objektai/asmenys/Manvydas|Manvydas]]; mentioned_person: [[objektai/asmenys/Teodoras|Teodoras]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -41,13 +43,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Antspaudai]]
-- [[objektai/asmenys/Eustachijus (raštininkas)]]
-- [[objektai/asmenys/Leonas]]
-- [[objektai/asmenys/Manvydas]]
-- [[objektai/asmenys/Teodoras]]
-- [[objektai/asmenys/Eustachijus Valavičius]]
-- [[objektai/grupes/Valavičiai]]

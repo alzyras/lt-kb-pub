@@ -20,6 +20,7 @@ tags:
 - t-001
   global_id: t-31735
   teiginys: '„Jadwyga d’Anjou“ nurodyta kaip Lietuvos enciklopedijos 9 tomo straipsnis, apimantis 244-249 puslapius.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/M. Jučas|M. Jučas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Krėva; mentioned_place: Lietuva; mentioned_place: Liublinas; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

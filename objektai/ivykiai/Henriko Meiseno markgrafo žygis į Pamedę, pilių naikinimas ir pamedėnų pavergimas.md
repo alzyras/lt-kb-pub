@@ -5,6 +5,7 @@ saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1236 m.'
+  - '1300 m.'
   - '1437 m.'
 date_start: '1236'
 date_end: '1437'
@@ -47,6 +48,11 @@ Nenurodyta
 - t-001
   global_id: t-66557
   teiginys: 'Henrikas Meiseno markgrafas 1236 m. atvyko į Prūsiją ir niokojo Pamedę.'
+  sudarymo_pagrindimas: 'Bibliografinis triukšmas pašalintas, o pastabos faktas sujungtas su objekto pavadinimu.'
+  susije_objektai: 'location: Pamedė; location: Prūsija; location: Rizenburgas; location: Rudinas; mentioned_group: [[objektai/grupes/Pamedėnai|Pamedėnai]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_object: [[objektai/zodynas/naujakrikščiai|naujakrikščiai]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Pamedė; mentioned_place: Prūsija; mentioned_place: Rizenburgas; mentioned_place: Rudinas'
+  temporaliniai_duomenys: 'kelionės data: 1236 m.; kelionės data: 1300 m.; kelionės data: 1437 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Henrikas keliavo į Pamedė“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Henrikas keliavo į Prūsija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Henrikas keliavo į Rizenburgas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Henrikas keliavo į Rudinas“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Bibliografinis triukšmas pašalintas, o pastabos faktas sujungtas su objekto pavadinimu.'
   pagrindžia:
     - c-001
 
@@ -54,6 +60,11 @@ Nenurodyta
 - t-002
   global_id: t-66558
   teiginys: 'Pamedėje Henrikas, Meiseno markgrafas, puolė Reisių valsčių, naikino pilis ir privertė pamedėnus pasiduoti tikėjimui bei broliams.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūksta ir turi OCR bei išnašų triukšmo; citata pagrindžia puolimą, pilių naikinimą ir pasidavimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pamedėnai|Pamedėnai]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_object: [[objektai/zodynas/naujakrikščiai|naujakrikščiai]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_place: Pamedė; mentioned_place: Prūsija; mentioned_place: Rizenburgas; mentioned_place: Rudinas'
+  temporaliniai_duomenys: 'įvykio data: 1236 m.; įvykio data: 1300 m.; įvykio data: 1437 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūksta ir turi OCR bei išnašų triukšmo; citata pagrindžia puolimą, pilių naikinimą ir pasidavimą.'
   pagrindžia:
     - c-001
 
@@ -61,6 +72,8 @@ Nenurodyta
 - t-003
   global_id: t-66559
   teiginys: 'Henrikas, Meiseno markgrafas, atvyko į Prūsiją su 500 kilmingų kovai pasirengusių vyrų ir dideliais turtais.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nusako Henriko atvykimą ir yra paremtas citata.'
+  susije_objektai: 'location: Prūsija; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_place: Prūsija'
   pagrindžia:
     - c-002
 
@@ -119,15 +132,3 @@ Nenurodyta
   pagrindžia:
     - t-003
     - t-004
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/ežeras]]
-
-### Susiję objektai
-- [[objektai/grupes/Pamedėnai]]
-- [[objektai/zodynas/Adynos|adynos]]
-- [[objektai/zodynas/naujakrikščiai]]
-- [[objektai/zodynas/netikėliai]]
-- [[objektai/autoriai/Henrikas]]
-- [[objektai/asmenys/Henrikas (Meiseno markgrafas)]]

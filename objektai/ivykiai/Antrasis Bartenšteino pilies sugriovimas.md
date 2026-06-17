@@ -38,6 +38,9 @@ Nenurodyta
 - t-001
   global_id: t-62195
   teiginys: 'Sūduviai staiga apsiautė Bartenšteino pilį, sugriovė ją, gyventojus išžudė arba išsivarė į nelaisvę ir pilį pavertė pelenais.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas, konkretus ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_group: [[objektai/grupes/Varmiai|Varmiai]]; mentioned_place: Bartenšteinas; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
 
@@ -63,10 +66,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Varmiai]]
-- [[objektai/grupes/Sūduviai]]
-- [[objektai/grupes/Bartai]]
-- [[objektai/grupes/Sūduviai-jotvingiai]]

@@ -44,6 +44,7 @@ Nenurodyta
 - t-001
   global_id: t-19547
   teiginys: 'Mokyklose buvo įrengiami Lenino kampeliai ir leidžiami sienlaikraščiai, siekiant stiprinti idėjinį komunistinį mokinių auklėjimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Komjaunimas|Komjaunimas]]; mentioned_place: SSRS'
   pagrindžia:
     - c-001
 
@@ -68,11 +69,3 @@ Nenurodyta
 ## Šaltiniai ir įrodymai
 
 Nenurodyta
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/simbolis]]
-
-### Susiję objektai
-- [[objektai/grupes/Komjaunimas]]
-- [[objektai/grupes/Pionierių organizacijos]]

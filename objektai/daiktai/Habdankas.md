@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Komentare nurodoma, kad komentare Habdankas pateikiamas ir kaip sudėtinė Dubnios herbo detalė. Habdankas buvo senovinis lenkų bajorų herbas su sidabriniu W raidę primenančiu ženklu raudoname lauke.
+Komentare nurodoma, kad komentare Habdankas aprašomas kaip senovinis lenkų bajorų herbas; Komentare nurodoma, kad Habdanką sudaro sidabrinis ženklas, panašus į raidę W, raudoname lauke; Komentare teigiama, kad Habdanko herbu antspaudavo Goštautai, tarp jų Albertas Goštautas. Komentare nurodoma, kad komentare Habdankas pateikiamas ir kaip sudėtinė Dubnios herbo detalė.
 
 ## Pavadinimai šaltiniuose
 
@@ -40,7 +40,10 @@ Nenurodyta
 <a id="claim-t-186862"></a>
 - t-001
   global_id: t-186862
-  teiginys: 'Komentare nurodoma, kad komentare Habdankas pateikiamas ir kaip sudėtinė Dubnios herbo detalė.'
+  teiginys: 'Habdanko ženklas sudarė Dubnios herbo atmainos detalę: baltą W raidę apatiniame kairiajame raudono skydo kampe.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pašalintas pasikartojantis komentarų boilerplate ir suformuluotas aiškus faktas apie objektą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Herbas|Herbas]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/daiktai/Skydas|Skydas]]; mentioned_person: [[objektai/asmenys/Davaina|Davaina]]'
   pagrindžia:
     - c-002
 
@@ -48,9 +51,12 @@ Nenurodyta
 - t-002
   global_id: t-186863
   teiginys: 'Habdankas buvo senovinis lenkų bajorų herbas su sidabriniu W raidę primenančiu ženklu raudoname lauke.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys gramatiškas, konkretus ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuvos didikai|Lietuvos didikai]]; mentioned_object: [[objektai/daiktai/Herbas|Herbas]]; mentioned_person: [[objektai/asmenys/Albertas|Albertas]]; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/daiktai/Dubnia herbas.md#claim-t-186865|Dubnia herbas]]: Dubnios herbas buvo Habdanko herbo atmaina su baltu kryžiumi raudoname skyde ir kryžiumi tarp dviejų jaučio ragų virš skydo.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -69,6 +75,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: 'Habdanko ženklas sudarė Dubnios herbo atmainos detalę: baltą W raidę apatiniame kairiajame raudono skydo kampe.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     IS  Istorija apie Davainos ir jo belaisvės vedybas žinoma tik
@@ -81,16 +88,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Albertas]]
-- [[objektai/grupes/Bajorai]]
-- [[objektai/asmenys/Davaina]]
-- [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]]
-- [[objektai/daiktai/Herbas]]
-- [[objektai/daiktai/Kryžius]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuvos didikai]]
-- [[objektai/daiktai/Skydas]]
-- [[objektai/daiktai/Dubnia herbas]]

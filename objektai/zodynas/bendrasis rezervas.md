@@ -27,6 +27,8 @@ BECAS turėjo vykti Katinų | Bendrasis rezervas (vadas - karin. Rezervas parėm
 - t-001
   global_id: t-38707
   teiginys: 'Rezervas parėmė J. Nastopkos koloną, o vadovavimą perėmė karininkas J. Reikala.'
+  sudarymo_pagrindimas: 'Citata leidžia sukonkretinti, kurią koloną parėmė rezervas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/rezervas|rezervas]]; mentioned_person: [[objektai/asmenys/J. Reikala|J. Reikala]]'
   pagrindžia:
     - c-002
 
@@ -34,9 +36,14 @@ BECAS turėjo vykti Katinų | Bendrasis rezervas (vadas - karin. Rezervas parėm
 - t-002
   global_id: t-38708
   teiginys: 'Bendrąjį rezervą, vadovaujamą karininko J. Reikalos, sudarė Panevėžio bataliono 2-oji ir 6-oji kuopos bei kiti daliniai.'
+  sudarymo_pagrindimas: 'Pradinis teiginys sugadintas OCR triukšmo, bet citata remia glaustą faktą apie rezervo sudėtį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/rezervas|rezervas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Kaimas; mentioned_place: Katinai; mentioned_place: Lietuva; mentioned_place: Lionas'
+  temporaliniai_duomenys: 'įvykio data: 1919 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys sugadintas OCR triukšmo, bet citata remia glaustą faktą apie rezervo sudėtį.'
   pagrindžia:
     - c-001
-
+- susijęs iš Katinai: Bendrasis rezervas turėjo vykti Katinų kaimo link ir jį užimti.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -71,9 +78,3 @@ BECAS turėjo vykti Katinų | Bendrasis rezervas (vadas - karin. Rezervas parėm
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/J. Reikala]]
-- [[objektai/zodynas/rezervas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

@@ -44,6 +44,11 @@ Nenurodyta
 - t-001
   global_id: t-31488
   teiginys: 'Vytautas su Jogailos žinia ir kartu su Skirgaila 1392 m. paėmė Vitebską.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nurodo veikėjus, datą ir veiksmą, o citata tai patvirtina.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Dimitras Kaributas|Dimitras Kaributas]]; mentioned_person: [[objektai/asmenys/Kaributas|Kaributas]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Brianskas; mentioned_place: Naugardas; mentioned_place: Vitebskas'
+  temporaliniai_duomenys: 'įvykio data: 1392 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo veikėjus, datą ir veiksmą, o citata tai patvirtina.'
   pagrindžia:
     - c-001
 
@@ -64,10 +69,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Dimitras Kaributas]]
-- [[objektai/asmenys/Kaributas]]
-- [[objektai/asmenys/Skirgaila]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

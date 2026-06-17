@@ -50,9 +50,15 @@ Nenurodyta
 - t-001
   global_id: t-40778
   teiginys: '1831 m. sukilimo laikotarpiu Rusijos artilerija naudojo „jedinorog“, arba „vienaragio“, tipo pabūklus.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/daiktai/Herbas|Herbas]]; mentioned_place: Rusija'
+  temporaliniai_duomenys: 'įvykio data: 1831 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, aiškus ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Ona Jogailaitė.md#claim-t-54986|Ona Jogailaitė]]: Karalaitei Onai (Onai Jogailaitei) palikta spręsti dėl Šv. Onos bažnyčios užbaigimo ir laiškų sudeginimo.
+- susijęs iš [[objektai/paprociai/Svetimų laiškų neskaitymas ir sudeginimas pagal testatoriaus valią.md#claim-t-87303|Svetimų laiškų neskaitymas ir sudeginimas pagal testatoriaus valią]]: Testatorius prašė karalaitės Onos jo skryniose rastus laiškus sudeginti neskaičius ir neleisti jų skaityti kitiems.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -72,11 +78,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Artilerija]]
-- [[objektai/daiktai/Herbas]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/asmenys/Ona Jogailaitė]]
-- [[objektai/paprociai/Svetimų laiškų neskaitymas ir sudeginimas pagal testatoriaus valią]]

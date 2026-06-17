@@ -3,11 +3,17 @@ tipas: vieta
 pavadinimas: 'Sauslaukė'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+datos:
+  - '650 m.'
+date_start: '650'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - pilis
   - vieta
+amziai:
+  - 'VII'
 ---
 # Sauslaukė
 
@@ -21,6 +27,11 @@ VIII amž. pusėje jie randami Sauslauke (prie Durbės).
 - t-001
   global_id: t-28461
   teiginys: 'VIII a. viduryje švedai buvo aptinkami Sauslaukėje prie Durbės.'
+  sudarymo_pagrindimas: 'Pirminis teiginys buvo fragmentiškas, bet citata leidžia suformuluoti faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/ekspansija|ekspansija]]; mentioned_place: Durbė; mentioned_place: Gotlandas'
+  temporaliniai_duomenys: 'įvykio data: 650 m; įvykio data: apie 650 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
+  temporalinis_llm_pakomentavimas: 'Pirminis teiginys buvo fragmentiškas, bet citata leidžia suformuluoti faktą.'
   pagrindžia:
     - c-001
 

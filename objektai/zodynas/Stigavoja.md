@@ -27,6 +27,8 @@ Papildomos aiškios formos neišskirtos.
 - t-001
   global_id: t-70051
   teiginys: 'Žodis „stigavoja“ citatose vartojamas pasakų ir senovės raštininkų liudijimams nusakyti.'
+  sudarymo_pagrindimas: 'Citatos pagrindžia vartoseną, bet pradinė formuluotė per plati dėl gamtos būsenos.'
+  susije_objektai: 'mentioned_place: Viena'
   pagrindžia:
     - c-002
     - c-003
@@ -35,9 +37,10 @@ Papildomos aiškios formos neišskirtos.
 - t-002
   global_id: t-70052
   teiginys: '`Stigavoja` čia reiškia „rodo“ arba „patvirtina“.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tame (Baigos brolis)|Tame (Baigos brolis)]]'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/paprociai/Šventos ugnelės negesinimas trobesiui užsidegus.md#claim-t-67247|Šventos ugnelės negesinimas trobesiui užsidegus]]: Užsidegus trobesiui kai kurie lietuviai nenorėdavo jo gesinti, nes ugnelę laikė šventą ir įsižeidžiančią.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -83,10 +86,3 @@ Papildomos aiškios formos neišskirtos.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kalnėnai]]
-- [[objektai/asmenys/Tame (Baigos brolis)]]
-- [[objektai/zodynas/Dabą|dabą]]
-- [[objektai/paprociai/Šventos ugnelės negesinimas trobesiui užsidegus]]

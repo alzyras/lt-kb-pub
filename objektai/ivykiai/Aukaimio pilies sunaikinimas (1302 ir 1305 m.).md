@@ -45,6 +45,9 @@ Nenurodyta
 - t-001
   global_id: t-31406
   teiginys: '1305 m. Svirtila išdavė Aukaimio pilį kryžiuočiams, kurie ją užėmė, išžudė rastus vyrus, o moteris ir vaikus paėmė į nelaisvę.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Aukaimis'
+  temporaliniai_duomenys: 'įvykio data: 1305 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 
@@ -52,6 +55,11 @@ Nenurodyta
 - t-002
   global_id: t-31407
   teiginys: 'Riteriai 1302 ir 1305 m. du kartus paėmė ir sunaikino Aukaimio pilį.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nusako įvykį, datas ir rezultatą pagal citatą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Draika|Draika]]; mentioned_place: Aukaimis; mentioned_place: Ragainė'
+  temporaliniai_duomenys: 'įvykio data: 1305 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako įvykį, datas ir rezultatą pagal citatą.'
   pagrindžia:
     - c-001
 
@@ -105,10 +113,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Draika]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/komtūras]]
-- [[objektai/grupes/Žemaičiai]]

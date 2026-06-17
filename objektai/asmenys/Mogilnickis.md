@@ -20,9 +20,12 @@ Mogilnickis išleido 5 flor.
 - t-001
   global_id: t-87793
   teiginys: 'Lukove L. Mogilnickis Karališkosios Didenybės reikalams supirko lietuviškų monetų už 2 florinus.'
+  sudarymo_pagrindimas: 'Pradinis teiginys per siauras ir neaiškus, o citata leidžia suformuluoti pilnesnį faktą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/florinai|florinai]]; mentioned_place: Lukovas'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Pekarskis.md#claim-t-87820|Pekarskis]]: Pekarskiui buvo paskolinti 800 zlotų sidabrui, užstatytam Jo Karališkosios Didenybės reikalams.
+- susijęs iš [[objektai/zodynas/raudonasis auksinas, taleris ir dukatas.md#claim-t-86492|raudonasis auksinas, taleris ir dukatas]]: Ponas Pekarskis perdavė 96 raudonuosius auksinus, imtus Brastoje po 56 lenkiškus grašius už vienetą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -39,8 +42,3 @@ Mogilnickis išleido 5 flor.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/raudonasis auksinas, taleris ir dukatas]]
-- [[objektai/zodynas/florinai]]

@@ -23,6 +23,8 @@ Fluminibus quoque circa illud flu­ entibus, Villia et Vilna, ex ejusdem du­ ci
 - t-001
   global_id: t-86254
   teiginys: 'Pasakojime Vilnios ir Vilijos vardai kildinami iš kunigaikščio Viliaus vardo.'
+  sudarymo_pagrindimas: 'Citata remia vardų kilmės pasakojimą, pašalintas lotyniškas fragmentas.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vilius|Vilius]]; mentioned_place: Italija; mentioned_place: Vilija'
   pagrindžia:
     - c-001
 

@@ -3,10 +3,16 @@ tipas: daiktas
 pavadinimas: 'Religinės relikvijos'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1993 m.'
+date_start: '1993'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
+amziai:
+  - 'XX'
 ---
 # Religinės relikvijos
 
@@ -40,6 +46,11 @@ Nenurodyta
 - t-001
   global_id: t-23464
   teiginys: 'Religinėse manifestacijose maldininkai įsigydavo draustų religinių relikvijų ir nelegaliai išspausdintos religinės literatūros.'
+  sudarymo_pagrindimas: 'Pakeistas neaiškus įvardis ir suformuotas savarankiškas faktinis sakinys.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/maldininkai|maldininkai]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Kryžių kalnas'
+  temporaliniai_duomenys: 'įvykio data: 1993 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pakeistas neaiškus įvardis ir suformuotas savarankiškas faktinis sakinys.'
   pagrindžia:
     - c-001
 
@@ -59,12 +70,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Jonas]]
-- [[objektai/daiktai/Kryžius]]
-- [[objektai/zodynas/maldininkai]]
-- [[objektai/paprociai/Draudimų nepaisančios religinės manifestacijos ir draustos religinės literatūros įsigijimas]]
-- [[objektai/daiktai/Nelegaliai išspausdinta religinė literatūra]]
-- [[objektai/zodynas/pogrindis pogrindiniai leidiniai nelegali spauda]]

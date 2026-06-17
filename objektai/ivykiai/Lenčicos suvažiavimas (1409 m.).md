@@ -19,7 +19,7 @@ amziai:
 
 ## Santrauka
 
-1409 m. Lenčicos suvažiavime buvo pritarta bendradarbiavimui su Lietuva prieš Ordiną.
+Bet 1409 m. visuotiname Lenčicos suvažiavime, kur turėjo būti tas klausimas išspręstas, gavo viršų bendradarbiavimo idė­ ja su Lietuva.
 
 ## Laikotarpis ir datos
 
@@ -43,6 +43,11 @@ Nenurodyta
 - t-001
   global_id: t-35852
   teiginys: '1409 m. Lenčicos suvažiavime buvo pritarta bendradarbiavimui su Lietuva prieš Ordiną.'
+  sudarymo_pagrindimas: 'Citata leidžia aiškiau įvardyti sprendimo kryptį ir prieš ką ji buvo nukreipta.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lenčica; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1409 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata leidžia aiškiau įvardyti sprendimo kryptį ir prieš ką ji buvo nukreipta.'
   pagrindžia:
     - c-001
 
@@ -65,8 +70,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
-- [[objektai/grupes/Kryžiuočių ordinas]]

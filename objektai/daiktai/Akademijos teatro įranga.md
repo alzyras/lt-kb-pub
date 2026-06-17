@@ -52,6 +52,7 @@ Nenurodyta
 - t-002
   global_id: t-55028
   teiginys: 'Prie teatro buvo podėlis scenos rykams laikyti su užrakinamomis durimis, pakopomis, plytelių grindimis, dūmtraukiu ir švino rėmų langu.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Rykai|Rykai]]'
   pagrindžia:
     - c-002
 
@@ -59,9 +60,19 @@ Nenurodyta
 - t-003
   global_id: t-81839
   teiginys: 'Akademijos teatro įrangoje buvo mediniai laipteliai, mūriniai lentomis apkalti laiptai ir podėlis scenos rykams laikyti.'
+  sudarymo_pagrindimas: 'Pirminis teiginys yra inventoriaus fragmentas su neaiškia sintakse, todėl perrašytas į vientisą sakinį.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Rykai|Rykai]]'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/asmenys/Dimitrijus.md#claim-t-186106|Dimitrijus]]: Dimitrijus sutiko sumokėti kareiviams algą, o karo vadui atlyginti karo išlaidas.
+- susijęs iš [[objektai/ivykiai/Algirdo žygis į Maskvą ir taika su Dimitrijumi per Velykas.md#claim-t-187467|Algirdo žygis į Maskvą ir taika su Dimitrijumi per Velykas]]: Algirdas ir Maskvos valdovas Dimitrijus sutarė sudaryti taiką, pagal kurią Lietuvos sienos turėjo būti praplėstos iki Možaisko ir Ugros.
+- susijęs iš Šventaragio slėnis: Šventaragio slėnyje tarp Vilijos ir Vilnelės degė lietuvių garbinta amžinoji ugnis Gabija.
+- susijęs iš [[objektai/zodynas/amžinoji ugnis Gabija.md#claim-t-86510|amžinoji ugnis Gabija]]: Šventaragio slėnyje degė lietuvių garbinama amžinoji ugnis Gabija.
+- susijęs iš [[objektai/zodynas/margutis.md#claim-t-185407|margutis]]: Rusai nuo senų laikų Velykų dieną dovanodavo vienas kitam margutį kaip bičiuliškumo ženklą.
+- susijęs iš [[objektai/zodynas/marksistinė periodizacija komunistinės istoriografijos nomenklatūra.md#claim-t-28544|marksistinė periodizacija komunistinės istoriografijos nomenklatūra]]: Tarybiniai istorikai, taikydami komunistinės istoriografijos nomenklatūrą Lietuvos istorijai, išskyrė du ryškius laikotarpius.
+- susijęs iš [[objektai/zodynas/metropolitas.md#claim-t-184630|metropolitas]]: Sudarius taikos sąlygas, Dimitrijus, metropolitu vadintas vyriausiasis šventikas, viečė ir žymiausieji bajorai prisiekė.
+- susijęs iš [[objektai/zodynas/vaidilos, žyniai ir pranašai.md#claim-t-86494|vaidilos, žyniai ir pranašai]]: Šventaragio slėnyje prie medinės šventyklos stovėjo pagonių vaidilų būstai.
+- susijęs iš [[objektai/zodynas/viečė.md#claim-t-185415|viečė]]: Dimitrijus, metropolitas, viečė ir žymiausieji bajorai prisiekė laikytis taikos sąlygų su Algirdu.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -112,19 +123,3 @@ Nenurodyta
   pagrindžia:
     - t-002
     - t-003
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/įrankis]]
-
-### Susiję objektai
-- [[objektai/zodynas/marksistinė periodizacija komunistinės istoriografijos nomenklatūra]]
-- [[objektai/daiktai/Rykai]]
-- [[objektai/ivykiai/Algirdo žygis į Maskvą ir taika su Dimitrijumi per Velykas]]
-- [[objektai/asmenys/Dimitrijus]]
-- [[objektai/zodynas/amžinoji ugnis Gabija]]
-- [[objektai/zodynas/margutis]]
-- [[objektai/zodynas/marksistinė periodizacija]]
-- [[objektai/zodynas/metropolitas]]
-- [[objektai/zodynas/vaidilos, žyniai ir pranašai]]
-- [[objektai/zodynas/viečė]]

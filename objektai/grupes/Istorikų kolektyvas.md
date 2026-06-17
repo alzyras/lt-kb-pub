@@ -21,9 +21,12 @@ Bendrą tų kovų istoriją paruošė istorikų kolektyvas : Lietuviu karas su k
 - t-001
   global_id: t-31193
   teiginys: 'Istorikų kolektyvas parengė bendrą lietuvių kovų su kryžiuočiais istoriją „Lietuvių karas su kryžiuočiais“.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas nurodyta citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/autoriai/B. Dundulis|B. Dundulis]]; mentioned_person: [[objektai/autoriai/Juozas Jurginis|Juozas Jurginis]]; mentioned_place: Durbė'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/autoriai/B. Dundulis.md#claim-t-71508|B. Dundulis]]: B. Dundulis išsamiai tyrinėjo lietuvių santykius ir kovas su kryžiuočiais XV amžiuje.
+- susijęs iš [[objektai/autoriai/K. Sideravičius.md#claim-t-30749|K. Sideravičius]]: K. Sideravičius 1944 m. paskelbė darbą „Nuo Durbės iki Žalgirio“.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -39,12 +42,3 @@ Bendrą tų kovų istoriją paruošė istorikų kolektyvas : Lietuviu karas su k
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/B. Dundulis]]
-- [[objektai/autoriai/Juozas Jurginis]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/autoriai/K. Sideravičius]]

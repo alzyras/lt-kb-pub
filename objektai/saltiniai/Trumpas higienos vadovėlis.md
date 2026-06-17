@@ -26,6 +26,11 @@ Maciūno, TRUMPAS HIGIENOS VADOVĖLIS.
 - t-001
   global_id: t-96073
   teiginys: 'J. Maciūno „Trumpas higienos vadovėlis“ buvo sudarytas pagal Švietimo ministerijos programą ir išleistas 1929 m.'
+  sudarymo_pagrindimas: 'Pirminis teiginys buvo bibliografinis fragmentas, o citata leidžia suformuluoti pilną faktinį sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rytas|Rytas]]'
+  temporaliniai_duomenys: 'įvykio data: 1929 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pirminis teiginys buvo bibliografinis fragmentas, o citata leidžia suformuluoti pilną faktinį sakinį.'
   pagrindžia:
     - c-001
 

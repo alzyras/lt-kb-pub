@@ -20,6 +20,8 @@ Vietoje LV ministrų vokiečių valdžia lietuvių administracijos vadovais pask
 - t-001
   global_id: t-26341
   teiginys: 'Nacių okupacijos metais vokiečių valdžia Lietuvos ministerijas pervadino vadybomis.'
+  sudarymo_pagrindimas: 'Reikia pašalinti puslapio ir antraštės OCR triukšmą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Petras Kubiliūnas|Petras Kubiliūnas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -44,9 +46,3 @@ Vietoje LV ministrų vokiečių valdžia lietuvių administracijos vadovais pask
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Petras Kubiliūnas]]
-- [[objektai/grupes/Vokiečiai]]

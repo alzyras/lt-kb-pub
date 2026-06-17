@@ -33,6 +33,8 @@ Dusburgietis teigia, kad čia minimas ežeras ieškotas ir į šiaurę nuo Augus
 - t-001
   global_id: t-60905
   teiginys: 'Łowmiańskio veikalas nurodomas tarp šaltinių, kuriais remiamasi manant, kad Glotava buvo pietrytinis Pagudės valsčius.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir paremtas citatos bibliografine nuoroda.'
+  susije_objektai: 'mentioned_place: Drevanta; mentioned_place: Glotava; mentioned_place: Kulmas; mentioned_place: Pagudė'
   pagrindžia:
     - c-004
 
@@ -40,6 +42,8 @@ Dusburgietis teigia, kad čia minimas ežeras ieškotas ir į šiaurę nuo Augus
 - t-002
   global_id: t-60909
   teiginys: 'Łowmiańskio veikalas nurodomas prie nuomonės, kad Medininkų žemė susiformavo XIV a. sujungus centrinius Žemaitijos valsčius.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir atitinka citatoje išdėstytą aiškinimą su Łowmiańskio nuoroda.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Krivičiai|Krivičiai]]; mentioned_place: Medininkai; mentioned_place: Medininkų žemė; mentioned_place: Medvėgalis; mentioned_place: Naugardukas'
   pagrindžia:
     - c-002
 
@@ -47,6 +51,10 @@ Dusburgietis teigia, kad čia minimas ežeras ieškotas ir į šiaurę nuo Augus
 - t-003
   global_id: t-60911
   teiginys: 'Łowmiańskio veikalas nurodomas tarp šaltinių, siejančių Rasytės pilies statybą su XIV a. viduriu ir jos minėjimą nuo 1372 m.'
+  sudarymo_pagrindimas: 'Teiginys tiksliai apibūdina, kuriai nuomonei citatoje priskirta Łowmiańskio nuoroda.'
+  temporaliniai_duomenys: 'įvykio data: po 1372 m.; įvykio data: 1372 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys tiksliai apibūdina, kuriai nuomonei citatoje priskirta Łowmiańskio nuoroda.'
   pagrindžia:
     - c-001
 
@@ -54,6 +62,11 @@ Dusburgietis teigia, kad čia minimas ežeras ieškotas ir į šiaurę nuo Augus
 - t-004
   global_id: t-60912
   teiginys: 'Łowmiańskio veikalas nurodomas prie nuomonės, kad Dusburgiečio minėto ežero ieškota ir į šiaurę nuo Augustavo.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citatoje pateikta nuoroda.'
+  susije_objektai: 'mentioned_place: Augustavas'
+  temporaliniai_duomenys: 'įvykio data: 1280 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citatoje pateikta nuoroda.'
   pagrindžia:
     - c-003
 

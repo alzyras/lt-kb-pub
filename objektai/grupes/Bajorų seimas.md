@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Lenkijoje jau buvo pradėjęs veikti bajorų seimas, o Lietuvoje valstybės valią reiškė tik didysis kunigaikštis. Lenkijoje greta monarcho valstybingumą įkūnijo valstybės taryba ir pradėjęs veikti bajorų seimas.
+Kitaip nei Lenkijoje (jos valstybingumą greta monarcho įkūnijo valstybės taryba ir jau buvo pradėjęs veikti bajorų seimas), Lietuvoje, be didžiojo kunigaikščio, kitos institucijos, kuri galėtų išreikšti Lietuvos valstybės valią, nebūta.
 
 ## Teiginiai
 
@@ -23,6 +23,9 @@ Lenkijoje jau buvo pradėjęs veikti bajorų seimas, o Lietuvoje valstybės vali
 - t-001
   global_id: t-19651
   teiginys: 'Lenkijoje jau buvo pradėjęs veikti bajorų seimas, o Lietuvoje valstybės valią reiškė tik didysis kunigaikštis.'
+  sudarymo_pagrindimas: 'Pradinis sakinys per ilgas ir kontekstinis; citata pagrindžia glaustesnę formuluotę.'
+  susije_objektai: 'territory: Krėva; territory: Lenkija; territory: Lenkijos karalystė; territory: Lietuva; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Valstybės Taryba|Valstybės Taryba]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Krėva; mentioned_place: Lenkija; mentioned_place: Lenkijos karalystė; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/grupes/Bajorų seimas|Bajorų seimas]] susiję su Krėva; [[objektai/grupes/Bajorų seimas|Bajorų seimas]] susiję su Lenkija; [[objektai/grupes/Bajorų seimas|Bajorų seimas]] susiję su Lenkijos karalystė; [[objektai/grupes/Bajorų seimas|Bajorų seimas]] susiję su Lietuva'
   pagrindžia:
     - c-001
 
@@ -30,9 +33,16 @@ Lenkijoje jau buvo pradėjęs veikti bajorų seimas, o Lietuvoje valstybės vali
 - t-002
   global_id: t-183121
   teiginys: 'Lenkijoje greta monarcho valstybingumą įkūnijo valstybės taryba ir pradėjęs veikti bajorų seimas.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys pilnai nusako bajorų seimo institucinį vaidmenį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Valstybės Taryba|Valstybės Taryba]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/tėvonija|tėvonija]]; mentioned_object: [[objektai/zodynas/vasalas|vasalas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lenkija; mentioned_place: Lenkijos karalystė; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/grupes/Lenkijos valstybės taryba.md#claim-t-74513|Lenkijos valstybės taryba (institucija)]]: Lenkijoje valstybingumą greta monarcho įkūnijo valstybės taryba ir jau pradėjęs veikti bajorų seimas.
+- susijęs iš [[objektai/ivykiai/Lietuvos krikštas Vilniuje (1387 m.).md#claim-t-54446|Lietuvos krikštas Vilniuje (1387 m.)]]: Vilniuje sušauktas visuotinis lietuvių kunigaikščių ir bajorų seimas paskelbė didelį religijos pokytį.
+- susijęs iš Lenkija: Lenkijoje valstybingumą greta monarcho įkūnijo valstybės taryba ir jau pradėjęs veikti bajorų seimas.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -70,14 +80,7 @@ Lenkijoje jau buvo pradėjęs veikti bajorų seimas, o Lietuvoje valstybės vali
     - t-002
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bajorai]]
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
-- [[objektai/grupes/Valstybės Taryba]]
-- [[objektai/zodynas/tėvonija]]
-- [[objektai/zodynas/vasalas]]
-- [[objektai/zodynas/didysis kunigaikštis]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/grupes/Lenkijos valstybės taryba|Lenkijos valstybės taryba (institucija)]]
-- [[objektai/ivykiai/Lietuvos krikštas Vilniuje (1387 m.)]]
-- [[objektai/zodynas/tėvonija tėvų palikimas]]
+- Bajorų seimas (seimas) susije_su [[objektai/vietos/Krėva]]
+- Bajorų seimas (seimas) susije_su [[objektai/vietos/Lenkija]]
+- Bajorų seimas (seimas) susije_su [[objektai/vietos/Lenkijos karalystė]]
+- Bajorų seimas (seimas) susije_su [[objektai/vietos/Lietuva]]

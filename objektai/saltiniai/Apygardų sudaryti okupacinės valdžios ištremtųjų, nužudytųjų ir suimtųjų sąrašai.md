@@ -20,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-1947 m. pabaigoje Juozas Lukša-Skirmantas ir Kazimieras Pyplys-Mažytis į laisvąjį pasaulį nugabeno apygardų sudarytus okupacinės valdžios aukų sąrašus. Okupacinė valdžia kovai su partizanais vis dažniau naudojo agentų smogikų būrius, sudarytus iš užverbuotų buvusių partizanų ir MGB karininkų.
+1947 m. pabaigoje partizanai Juozas Lukša-Skirmantas ir Kazimieras Pyplys-Mažytis per „geležinę uždangą“ į laisvąjį pasaulį nugabeno partizanų rašytus dokumentus: apygardų sudarytus okupacinės valdžios ištremtųjų, nužudytųjų ir suimtųjų sąrašus, partizanų.
 
 ## Teiginiai
 
@@ -28,6 +28,11 @@ amziai:
 - t-001
   global_id: t-75441
   teiginys: '1947 m. pabaigoje Juozas Lukša-Skirmantas ir Kazimieras Pyplys-Mažytis į laisvąjį pasaulį nugabeno apygardų sudarytus okupacinės valdžios aukų sąrašus.'
+  sudarymo_pagrindimas: 'Citata tiksliau nurodo kryptį kaip laisvąjį pasaulį, ne vien Vakarus.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Juozas Lukša-Skirmantas|Juozas Lukša-Skirmantas]]; mentioned_person: [[objektai/asmenys/Kazimieras Pyplys-Mažytis|Kazimieras Pyplys-Mažytis]]; mentioned_place: Lietuva; mentioned_place: SSRS'
+  temporaliniai_duomenys: 'įvykio data: 1947 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata tiksliau nurodo kryptį kaip laisvąjį pasaulį, ne vien Vakarus.'
   pagrindžia:
     - c-001
 
@@ -35,6 +40,11 @@ amziai:
 - t-002
   global_id: t-75442
   teiginys: 'Okupacinė valdžia kovai su partizanais vis dažniau naudojo agentų smogikų būrius, sudarytus iš užverbuotų buvusių partizanų ir MGB karininkų.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas, faktinis ir paremtas citata.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Juozas Lukša-Skirmantas|Juozas Lukša-Skirmantas]]; mentioned_person: [[objektai/asmenys/Kazimieras Pyplys-Mažytis|Kazimieras Pyplys-Mažytis]]; mentioned_place: Lietuva; mentioned_place: SSRS'
+  temporaliniai_duomenys: 'įvykio data: 1947 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas, faktinis ir paremtas citata.'
   pagrindžia:
     - c-001
 

@@ -5,6 +5,7 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1937 m.'
+  - '1955 m.'
   - '1967 m.'
 date_start: '1937'
 date_end: '1967'
@@ -27,6 +28,10 @@ Weise : Das Widerstandsrecht im Ordenslande Preussen und das mittelalterliche Eu
 - t-001
   global_id: t-100159
   teiginys: 'E. Weise 1955 m. paskelbė veikalą „Das Widerstandsrecht im Ordenslande Preussen und das mittelalterliche Europa“.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas bibliografinis sakinys, paremtas citatoje nurodytu autoriumi, pavadinimu ir metais.'
+  temporaliniai_duomenys: 'įvykio data: 1955 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas bibliografinis sakinys, paremtas citatoje nurodytu autoriumi, pavadinimu ir metais.'
   pagrindžia:
     - c-001
 

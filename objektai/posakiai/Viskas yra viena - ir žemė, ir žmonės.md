@@ -21,6 +21,8 @@ Tai reiškia: „Žemaitijos žemė yra ir visada bu­ vo vienas ir tas pats, ka
 - t-001
   global_id: t-86845
   teiginys: 'Posakiu „Viskas yra viena - ir žemė, ir žmonės“ aiškinta, kodėl valdovo titule nerašomas Žemaitijos vardas.'
+  sudarymo_pagrindimas: 'Citata palaiko aiškų enciklopedinį sakinį, o pradinis teiginys nutrūkęs ir negramatiškas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Normanai|Normanai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_object: [[objektai/zodynas/Austurweg|Austurweg]]; mentioned_place: Baltija; mentioned_place: Lietuva; mentioned_place: Suomija; mentioned_place: Viena; mentioned_place: Vysla; mentioned_place: Žemaičių žemė'
   pagrindžia:
     - c-001
 
@@ -57,11 +59,3 @@ Tai reiškia: „Žemaitijos žemė yra ir visada bu­ vo vienas ir tas pats, ka
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Austurweg]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Normanai]]
-- [[objektai/grupes/Žemaičiai]]
-- [[objektai/zodynas/Szomoyth Auxtote]]

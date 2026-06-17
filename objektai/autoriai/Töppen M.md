@@ -20,6 +20,7 @@ Dusburgietis teigia, kad 139 Töppen M. Dusburgietis teigia, kad 613; Töppen M.
 - t-001
   global_id: t-60803
   teiginys: 'M. Töppenas parašė veikalą „Geschichte der preussischen Historiographie“.'
+  sudarymo_pagrindimas: 'Citata pateikia aiškią bibliografinę nuorodą į Töppeno veikalą.'
   pagrindžia:
     - c-001
 

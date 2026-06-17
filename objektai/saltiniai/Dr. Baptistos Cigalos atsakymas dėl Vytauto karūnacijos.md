@@ -23,6 +23,7 @@ Baptistą Cigala. Cigala antrame savo atsakyme gina, kad karūnacijai atlikti ne
 - t-001
   global_id: t-36039
   teiginys: 'Dr. Baptista Cigala Zigmanto pavedimu atsakė į Krokuvos profesoriaus nuomonę dėl karūnacijos teisės.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/apsikarūnavimas|apsikarūnavimas]]; mentioned_object: [[objektai/zodynas/ciesorius|ciesorius]]; mentioned_person: [[objektai/asmenys/Baptista Cigala|Baptista Cigala]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Krokuva'
   pagrindžia:
     - c-001
 
@@ -30,6 +31,8 @@ Baptistą Cigala. Cigala antrame savo atsakyme gina, kad karūnacijai atlikti ne
 - t-002
   global_id: t-36040
   teiginys: 'Baptista Cigala antrame atsakyme gynė poziciją, kad Vytauto karūnacijai nereikėjo popiežiaus patvirtinimo.'
+  sudarymo_pagrindimas: 'Reikia išplėsti asmens vardą ir aiškiau susieti teiginį su Vytauto karūnacijos klausimu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Krokuvos profesoriai|Krokuvos profesoriai]]; mentioned_object: [[objektai/zodynas/apsikarūnavimas|apsikarūnavimas]]; mentioned_person: [[objektai/asmenys/Baptista Cigala|Baptista Cigala]]; mentioned_place: Krokuva'
   pagrindžia:
     - c-002
 

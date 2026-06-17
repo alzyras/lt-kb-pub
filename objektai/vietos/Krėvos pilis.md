@@ -20,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-Valdant Gediminui ar Algirdui Krėvos pilis buvo įtraukta į mūro pilių sistemą aplink valstybės sostinę.
+Jogaila su savo broliais ją priėmė Krėvos pilyje. Tenai Jogaila patvirtino visus savo delegacijos duotus pažadus specialiu dokumentu, kuris yra žinomas Krėvos akto vardu (1385 m. rugpiūčio 14 d.).
 
 ## Teiginiai
 
@@ -28,6 +28,8 @@ Valdant Gediminui ar Algirdui Krėvos pilis buvo įtraukta į mūro pilių siste
 - t-001
   global_id: t-46813
   teiginys: 'Valdant Gediminui ar Algirdui Krėvos pilis buvo įtraukta į mūro pilių sistemą aplink valstybės sostinę.'
+  sudarymo_pagrindimas: 'Pirminis teiginys yra ilgas sąrašas; citata leidžia aiškiai suformuluoti faktą apie Krėvos pilį.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Gardinas; mentioned_place: Kaunas; mentioned_place: Krėva; mentioned_place: Lietuva; mentioned_place: Polockas; mentioned_place: Pskovas; mentioned_place: Voluinė'
   pagrindžia:
     - c-001
 

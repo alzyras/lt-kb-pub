@@ -21,6 +21,7 @@ Bolševikai tą dieną į lietuvių pusę paleido užtvarą ir tęsė puolimą K
 - t-001
   global_id: t-78194
   teiginys: 'Kėdainių įgulos savanoriai pirmąjį kovos krikštą patyrė sulaikydami bolševikų puolimą Kėdainių link.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]; mentioned_place: Kėdainiai'
   pagrindžia:
     - c-001
 
@@ -28,6 +29,8 @@ Bolševikai tą dieną į lietuvių pusę paleido užtvarą ir tęsė puolimą K
 - t-002
   global_id: t-78195
   teiginys: 'Vasario 7 d. anksti ryte Kėdainių įgula iš Kauno gavo šautuvų, šovinių ir rankinių granatų.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]; mentioned_place: Kaunas; mentioned_place: Kėdainiai'
   pagrindžia:
     - c-002
 
@@ -70,12 +73,3 @@ Bolševikai tą dieną į lietuvių pusę paleido užtvarą ir tęsė puolimą K
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Artilerija]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Rytas]]
-- [[objektai/zodynas/įgula]]
-- [[objektai/daiktai/Šautuvai]]
-- [[objektai/ivykiai/Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)]]

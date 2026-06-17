@@ -38,6 +38,8 @@ Nenurodyta
 - t-001
   global_id: t-59596
   teiginys: 'Vienas Rudino brolis ir Martynas iš Golino, pasiklydę dykrose, susidūrė su prūsais, juos įveikė ir grįžo į Rudino pilį.'
+  sudarymo_pagrindimas: 'Teiginys buvo nebaigtas ir su fragmentuotu pasakojimu, bet citata remia aiškų įvykio apibendrinimą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Prūsai; mentioned_place: Rudinas'
   pagrindžia:
     - c-001
 
@@ -63,11 +65,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/drabužis]]
-
-### Susiję objektai
-- [[objektai/daiktai/Kalavijas]]
-- [[objektai/asmenys/Martynas iš Golino]]

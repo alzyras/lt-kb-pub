@@ -28,6 +28,7 @@ Gimbutienė (Gimbutas), M. Gimbutienė, M.
 - t-001
   global_id: t-30830
   teiginys: 'M. Gimbutienė parašė tekstą „Vidurinis geležies amžius“, publikuotą Lietuvių enciklopedijos 15 tome.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
   pagrindžia:
     - c-001
 
@@ -35,6 +36,7 @@ Gimbutienė (Gimbutas), M. Gimbutienė, M.
 - t-002
   global_id: t-30831
   teiginys: 'M. Gimbutienė paskelbė darbą apie bronzos amžiaus kultūrą pietryčių Baltijos regione.'
+  susije_objektai: 'mentioned_place: Baltija'
   pagrindžia:
     - c-002
 
@@ -69,7 +71,3 @@ Gimbutienė (Gimbutas), M. Gimbutienė, M.
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]

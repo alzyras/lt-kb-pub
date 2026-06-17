@@ -27,6 +27,8 @@ Tad jau nuo seno buvusi turtinga, Krokuva už pirmąją municipalinę tvarką, p
 - t-001
   global_id: t-87765
   teiginys: 'Lešekas Juodasis Krokuvai suteikė svarbias privilegijas ir sustiprino miestą geriausiomis mūro sienomis.'
+  sudarymo_pagrindimas: 'Citata patvirtina Lešeko Juodojo vaidmenį Krokuvos privilegijoms ir įtvirtinimui.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_person: [[objektai/asmenys/Lešekas|Lešekas]]; mentioned_place: Krokuva; mentioned_place: Liublinas; mentioned_place: Poznanė; mentioned_place: Sandomiras'
   pagrindžia:
     - c-001
 
@@ -52,10 +54,3 @@ Tad jau nuo seno buvusi turtinga, Krokuva už pirmąją municipalinę tvarką, p
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Laivai]]
-- [[objektai/grupes/Teutonai]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/grupes/Žydai]]

@@ -21,6 +21,8 @@ Be to, pagal šią fundaciją ir tvarką, mūsų perimtą iš ją įvedusio pirm
 - t-001
   global_id: t-86531
   teiginys: 'Pabaisko bažnyčios valdose leista laikyti tik jai priklausančias karčemas, kuriose buvo galima pilstyti midų, alų ir degtinę.'
+  sudarymo_pagrindimas: 'Pašalintas ilgas dokumento stilius ir išsaugotas pagrindinis faktas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/filija|filija]]; mentioned_object: [[objektai/zodynas/fundacija|fundacija]]; mentioned_object: [[objektai/zodynas/luomas|luomas]]'
   pagrindžia:
     - c-001
 
@@ -56,10 +58,3 @@ Be to, pagal šią fundaciją ir tvarką, mūsų perimtą iš ją įvedusio pirm
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/filija]]
-- [[objektai/zodynas/fundacija]]
-- [[objektai/zodynas/luomas]]
-- [[objektai/paprociai/Pabaisko bažnyčios karčemų monopolis ir gėrimų pilstymo tvarka]]

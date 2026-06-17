@@ -42,6 +42,9 @@ Nenurodyta
 - t-001
   global_id: t-62676
   teiginys: 'Ietininkų turnyre apsiginklavęs raitelis kvietė kautis dėl žirgo, ginklų ir savo mergelės garbės.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pradinis teiginys yra nutrūkęs ir su OCR triukšmu; citata palaiko glaustą faktą apie turnyro paprotį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]'
   pagrindžia:
     - c-001
 
@@ -64,8 +67,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Ginklai]]
-- [[objektai/grupes/Teutonai]]

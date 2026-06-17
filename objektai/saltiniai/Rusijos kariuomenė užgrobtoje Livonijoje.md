@@ -27,6 +27,11 @@ L XL Rusijos kariuomenė užgrobtoje Livonijoje.
 - t-001
   global_id: t-41577
   teiginys: '„Rusijos kariuomenė užgrobtoje Livonijoje“ yra vokiško informacinio leidinio fragmentas apie Maskvos kariuomenės sukeltas baisybes Livonijoje.'
+  sudarymo_pagrindimas: 'Citata palaiko tvarkingą sakinį, tačiau reikia suvienodinti formuluotę.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)|Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)]]; mentioned_group: [[objektai/grupes/Rusijos kariuomenė|Rusijos kariuomenė]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Rusija'
+  temporaliniai_duomenys: 'įvykio data: 1564 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko tvarkingą sakinį, tačiau reikia suvienodinti formuluotę.'
   pagrindžia:
     - c-001
 

@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Potsdame buvo pagamintas prūsiškas 17,4 mm kalibro karabinas su titnagine spyna.
+Kalibras - 17,4 mm. Pagamintas Potsdame.
 
 ## Teiginiai
 
@@ -21,9 +21,18 @@ Potsdame buvo pagamintas prūsiškas 17,4 mm kalibro karabinas su titnagine spyn
 - t-001
   global_id: t-38531
   teiginys: 'Potsdame buvo pagamintas prūsiškas 17,4 mm kalibro karabinas su titnagine spyna.'
+  sudarymo_pagrindimas: 'Citata paremia pagaminimo vietą ir ginklo ypatybes, bet XVIII a. antroji pusė jo datavimui nėra aiški.'
+  susije_objektai: 'mentioned_place: Prūsija'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Borisas Jelcinas.md#claim-t-63521|Borisas Jelcinas]]: Po 1991 m. sausio 13 d. įvykių Vilniuje Borisas Jelcinas kreipėsi į Baltijos šalyse tarnaujančius karius, ragindamas nepasiduoti reakcijos jėgoms.
+- susijęs iš [[objektai/ivykiai/B. Jelcino kreipimasis į Baltijos šalyse tarnaujančius karius po Sausio 13-osios (1991 m. sausio 14 d.).md#claim-t-20166|B. Jelcino kreipimasis į Baltijos šalyse tarnaujančius karius po Sausio 13-osios (1991 m. sausio 14 d.)]]: Po 1991 m. sausio 13 d. įvykių Borisas Jelcinas ragino Baltijos šalyse tarnaujančius karius nepasiduoti reakcijos jėgoms.
+- susijęs iš Kaliningrado sritis: Potsdamo konferencijoje Kaliningrado sritis buvo 50 metų atiduota administruoti SSRS.
+- susijęs iš Kaliningrado sritis: Atkūrusi nepriklausomybę Lietuva Vakaruose įgijo sieną su Rusijos Kaliningrado sritimi.
+- susijęs iš Punskas: Įsigaliojus sutarčiai Lietuva neteko teisės reikšti teritorinių pretenzijų į Seinus ir Punską.
+- susijęs iš Rusija: Atkūrusi nepriklausomybę Lietuva vakaruose įgijo sieną su Rusijos Kaliningrado sritimi.
+- susijęs iš Seinai: Ratifikavus sutartį Lietuva neteko teisės reikšti teritorinių pretenzijų į Seinus ir Punską.
+- susijęs iš Vilnius: Po 1991 m. sausio 13 d. įvykių Vilniuje Borisas Jelcinas kreipėsi į Baltijos šalyse tarnaujančius karius, ragindamas nešturmuoti civilinių pastatų.
 ## Reikšmingi paminėjimai
 
 - c-001

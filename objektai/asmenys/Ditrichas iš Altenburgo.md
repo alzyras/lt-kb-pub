@@ -15,6 +15,7 @@ tags:
   - kunigaikštis
   - miestas
   - pilis
+  - upė
 amziai:
   - 'XIV'
 periodo_grupes:
@@ -24,7 +25,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Ditrichas iš Altenburgo, Baigos komtūras, gavęs didžiojo magistro leidimą pastatė Lunenburgo pilį Bartos žemėje. 1316 m. balandžio 4 d. Ditrichas iš Altenburgo su Fridrichu Kvicu ir kitais vyrais patraukė link Bisenės pilies. Ditrichas iš Altenburgo buvo Ordino magistras 1335–1341 m.; jo laikais apie 1340 m. Mikalojus baigė darbą.
+Dusburgietis teigia, kad darbą Mikalojus baigė jau magistro Ditricho iš Altenburgo (1335—1341 m.) laikais, apie 1340 m. Jo „Prūsijos žemės kronikoje“ nemaža detalių pakeista arba pridėta79. Dusburgietis teigia, kad apie Bisenės pilies sudeginimą 1316 metais Tais pačiais metais, švento Ambraziejaus dieną (balandžo 4), brolis Ditrichas iš Altenburgo, brolis Fridrichas Kvicas ir dar vienas brolis patraukė su trimis Ragainės ginklanešiais link Bisenės pilies irgi tuo laiku. Dusburgietis teigia, kad apie Gedimino pilies papilio sudeginimą 1324 metais Po to, gegužės 22 dieną, brolis Ditrichas iš Altenburgo, Ragainės komtūras, ir 44 broliai su 400 Sembos ir Notangos vyrų apyaušryje netikėtai užpuolė Gedimino pilies papilį, sudegino jį ir išžudė visus.
 
 ## Teiginiai
 
@@ -32,6 +33,8 @@ Ditrichas iš Altenburgo, Baigos komtūras, gavęs didžiojo magistro leidimą p
 - t-001
   global_id: t-59949
   teiginys: 'Ditrichas iš Altenburgo, Baigos komtūras, gavęs didžiojo magistro leidimą pastatė Lunenburgo pilį Bartos žemėje.'
+  sudarymo_pagrindimas: 'Citata remia pilies statybą ir pareigybę; pradinis teiginys per ilgas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Baiga; mentioned_place: Barta; mentioned_place: Bartenšteinas; mentioned_place: Ilienburgas; mentioned_place: Kristburgas; mentioned_place: Lunenburgas'
   pagrindžia:
     - c-003
 
@@ -39,6 +42,11 @@ Ditrichas iš Altenburgo, Baigos komtūras, gavęs didžiojo magistro leidimą p
 - t-002
   global_id: t-59950
   teiginys: '1316 m. balandžio 4 d. Ditrichas iš Altenburgo su Fridrichu Kvicu ir kitais vyrais patraukė link Bisenės pilies.'
+  sudarymo_pagrindimas: 'Citata remia žygį prie Bisenės, bet pradinis teiginys yra negramatiškas ir perkrautas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_person: [[objektai/asmenys/Fridrichas Kvicas|Fridrichas Kvicas]]; mentioned_place: Bisenė; mentioned_place: Ragainė'
+  temporaliniai_duomenys: 'įvykio data: 1316 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata remia žygį prie Bisenės, bet pradinis teiginys yra negramatiškas ir perkrautas.'
   pagrindžia:
     - c-004
 
@@ -46,6 +54,11 @@ Ditrichas iš Altenburgo, Baigos komtūras, gavęs didžiojo magistro leidimą p
 - t-003
   global_id: t-59951
   teiginys: 'Ditrichas iš Altenburgo buvo Ordino magistras 1335–1341 m.; jo laikais apie 1340 m. Mikalojus baigė darbą.'
+  sudarymo_pagrindimas: 'Reikia glaustesnio sakinio, aiškiau susieto su Ditrichu iš Altenburgo.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]'
+  temporaliniai_duomenys: 'įvykio data: 1335 m.; įvykio data: 1335-1341; įvykio data: 1340 m.; įvykio data: apie 1340 m.; įvykio data: 1341 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
+  temporalinis_llm_pakomentavimas: 'Reikia glaustesnio sakinio, aiškiau susieto su Ditrichu iš Altenburgo.'
   pagrindžia:
     - c-001
 
@@ -53,9 +66,19 @@ Ditrichas iš Altenburgo, Baigos komtūras, gavęs didžiojo magistro leidimą p
 - t-004
   global_id: t-59952
   teiginys: '1324 m. gegužės 22 d. Ditrichas iš Altenburgo, Ragainės komtūras, su broliais ir kariais užpuolė Gedimino pilies papilį.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, datuotas ir paremtas citatos duomenimis.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Notanga; mentioned_place: Ragainė; mentioned_place: Semba'
+  temporaliniai_duomenys: 'įvykio data: 1324 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, datuotas ir paremtas citatos duomenimis.'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/ivykiai/Bisenos sunaikinimas (1316 m.).md#claim-t-97014|Bisenos sunaikinimas (1316 m.)]]: 1316 m. balandžio 4 d. Ditrichas iš Altenburgo ir Fridrichas Kvicas, užklupę Bisenės sargybos kaitą, įėjo į tuščią pilį ir ją sudegino.
+- susijęs iš [[objektai/ivykiai/Lunenburgo pilies ir dviejų miestų pastatymas.md#claim-t-183941|Lunenburgo pilies ir dviejų miestų pastatymas (pilis)]]: Baigos komtūras Ditrichas iš Altenburgo pastatė Lunenburgo pilį Bartos žemėje, Gubros ir Sainos upių santakoje.
+- susijęs iš [[objektai/ivykiai/Lunenburgo pilies ir dviejų miestų pastatymas.md#claim-t-62387|Lunenburgo pilies ir dviejų miestų pastatymas (pilis)]]: Baigos komtūras Ditrichas iš Altenburgo pastatė Lunenburgo pilį Bartos žemėje, Gubros ir Sainos upių santakoje.
+- susijęs iš Lunenburgas: Baigos komtūras Ditrichas iš Altenburgo pastatė Lunenburgo pilį Bartos žemėje, Gubros ir Sainos santakoje.
+- susijęs iš Saina: Ditrichas iš Altenburgo Lunenburgo pilį pastatė Bartos žemėje, Gubros ir Sainos santakoje.
+- susijęs iš [[objektai/zodynas/papilys.md#claim-t-58776|papilys]]: 1324 m. gegužės 22 d. Ditrichas iš Altenburgo su Ordino pajėgomis užpuolė ir sudegino Gedimino pilies papilį.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -123,18 +146,3 @@ Ditrichas iš Altenburgo, Baigos komtūras, gavęs didžiojo magistro leidimą p
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Fridrichas]]
-- [[objektai/asmenys/Fridrichas Kvicas]]
-- [[objektai/asmenys/Gediminas]]
-- [[objektai/daiktai/Ginklai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/ginklanešiai]]
-- [[objektai/zodynas/komtūras]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/ivykiai/Bisenos sunaikinimas (1316 m.)]]
-- [[objektai/ivykiai/Lunenburgo pilies ir dviejų miestų pastatymas|Lunenburgo pilies ir dviejų miestų pastatymas (pilis)]]
-- [[objektai/zodynas/papilys]]

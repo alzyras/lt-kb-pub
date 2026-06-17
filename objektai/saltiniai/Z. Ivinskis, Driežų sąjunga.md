@@ -3,10 +3,17 @@ tipas: saltinis
 pavadinimas: 'Z. Ivinskis, Driežų sąjunga'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+datos:
+  - '1420 m.'
+  - '1422 m.'
+date_start: '1420'
+date_end: '1422'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XV'
 ---
 # Z. Ivinskis, Driežų sąjunga
 
@@ -20,6 +27,9 @@ Ivinskis, Z. Ivinskis: Dubysos pilis , LE, t.
 - t-001
   global_id: t-31997
   teiginys: 'Z. Ivinskio tekstas „Driežų sąjunga“ nurodytas LE 5 tome, 184–185 puslapiuose.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/autoriai/Z. Ivinskis|Z. Ivinskis]]; mentioned_place: Soldau'
+  temporaliniai_duomenys: 'įvykio data: 1420-1422; įvykio data: 1422 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

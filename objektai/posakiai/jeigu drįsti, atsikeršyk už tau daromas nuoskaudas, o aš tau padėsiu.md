@@ -20,6 +20,8 @@ Dusburgietis teigia, kad todėl jis tarė Skomantui: „Negi tam čia mane atsiv
 - t-001
   global_id: t-59102
   teiginys: 'Puotoje Skomantas paragino brolį Liudviką atsikeršyti už įžeidimus ir pažadėjo jam padėti.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir paremtas citata apie Skomanto žodžius Liudvikui.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Skomantas|Skomantas]]'
   pagrindžia:
     - c-001
 
@@ -39,7 +41,3 @@ Dusburgietis teigia, kad todėl jis tarė Skomantui: „Negi tam čia mane atsiv
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Skomantas]]

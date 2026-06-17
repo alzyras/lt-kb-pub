@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-1919 m. liepos 26 d. ties Kuršėnais iš Latvijos į Lietuvos teritoriją įžengė stipri jungtinė vokiečių ir rusų kariuomenė. 1919 m. liepos 26 d. į Kuršėnus įžengė pirmieji plk. Virgoličiaus vadovaujami bermontininkai. Lietuvos vyriausybė negalėjo užkirsti kelio plk. Virgoličiaus rinktinei, nes Lietuvos kariuomenė tuo metu dar kovėsi su bolševikais Dauguvos fronte.
+1919 m. liepos mėn. 1919 m. spalių mėnesį, kai šiaurinėje Lietuvos dalyje dar nebuvo mūsų kariuomenės, bermontininkai užėmė Šiaulius, Biržus, Linkuvą, Radviliškį ir pradėjo rodyti aiškų nepalankumą Lietuvai.
 
 ## Laikotarpis ir datos
 
@@ -45,6 +45,9 @@ Nenurodyta
 - t-001
   global_id: t-66493
   teiginys: '1919 m. liepos 26 d. ties Kuršėnais iš Latvijos į Lietuvos teritoriją įžengė stipri jungtinė vokiečių ir rusų kariuomenė.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bermontininkai|Bermontininkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Kuršėnai; mentioned_place: Latvija; mentioned_place: Lietuva; mentioned_place: Rusija'
+  temporaliniai_duomenys: 'įvykio data: 1919 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-003
 
@@ -52,6 +55,11 @@ Nenurodyta
 - t-002
   global_id: t-66494
   teiginys: '1919 m. liepos 26 d. į Kuršėnus įžengė pirmieji plk. Virgoličiaus vadovaujami bermontininkai.'
+  sudarymo_pagrindimas: 'Teiginys yra konkretus, gramatinis ir paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bermontininkai|Bermontininkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Virgoličius|Virgoličius]]; mentioned_place: Kuršėnai; mentioned_place: Latvija; mentioned_place: Lietuva; mentioned_place: Rusija'
+  temporaliniai_duomenys: 'įvykio data: 1919 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus, gramatinis ir paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -59,6 +67,8 @@ Nenurodyta
 - t-003
   global_id: t-66496
   teiginys: 'Lietuvos vyriausybė negalėjo užkirsti kelio plk. Virgoličiaus rinktinei, nes Lietuvos kariuomenė tuo metu dar kovėsi su bolševikais Dauguvos fronte.'
+  sudarymo_pagrindimas: 'Citata remia užkirtimą kelio, o ne pažodinį sustabdymą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Virgoličiaus rinktinė|Virgoličiaus rinktinė]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Virgoličius|Virgoličius]]; mentioned_place: Dauguva; mentioned_place: Kuršėnai; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -113,13 +123,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bermontininkai]]
-- [[objektai/grupes/Lietuvos kariuomenė]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/grupes/Virgoličiaus rinktinė]]
-- [[objektai/asmenys/Virgoličius]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Vokiečiai]]

@@ -22,9 +22,10 @@ Dusburgietis teigia, kad 337 D.— Angetete, Jer.— Angetêtin.
 - t-001
   global_id: t-58680
   teiginys: 'Angetetos pilis buvo tapatinama su Engelšteinu, dabartiniu Vengelštinu į šiaurės vakarus nuo Mamrų ežero.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiksliai perteikia citatoje nurodytą tapatinimą.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/paprociai/Įkaitų davimas kaip sutarties garantija.md#claim-t-67239|Įkaitų davimas kaip sutarties garantija (sutartis)]]: Unzatrapio, Gundavos ir Angetetos pilių žmonės atsiuntė įkaitų ir pasidavė krikščionių tikėjimui bei broliams.
 ## Reikšmingi paminėjimai
 
 - c-001

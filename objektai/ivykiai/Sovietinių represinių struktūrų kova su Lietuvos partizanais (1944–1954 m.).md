@@ -5,6 +5,8 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1944 m.'
+  - '1945 m.'
+  - '1946 m.'
   - '1954 m.'
 date_start: '1944'
 date_end: '1954'
@@ -21,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-Represinės institucijos trėmė partizanų šeimas ir rėmėjus, kankino pasipriešinimo dalyvius bei viešai niekino žuvusių partizanų kūnus. Dislokuoti visuose valsčiuose jie saugojo sovietinį aktyvą. Kovai su Lietuvos partizanais 1945 m. vasarą Lietuvoje buvo dislokuota iki 20 tūkst., o 1946 m. apie 14 tūkst. NKVD karių.
+Kovai su partizanais Lietuvoje dislokuota gausi NKVD kariuomenė: 1945 m. vasarą joje buvo iki 20 tūkst., 1946 m. – apie 14 tūkst. Represinės institucijos, slopindamos partizaninio judėjimo atramą, trėmė į Sibirą ginkluoto pasipriešinimo dalyvių šeimas, rėmėjus, kankino pasipriešinimo dalyvius, naudojo psichologinę prievartą, pusnuogius žuvusių partizanų lavonus išmesdavo centrinėse.
 
 ## Laikotarpis ir datos
 
@@ -45,6 +47,7 @@ Nenurodyta
 - t-001
   global_id: t-75278
   teiginys: 'Represinės institucijos trėmė partizanų šeimas ir rėmėjus, kankino pasipriešinimo dalyvius bei viešai niekino žuvusių partizanų kūnus.'
+  susije_objektai: 'mentioned_place: Sibiras'
   pagrindžia:
     - c-001
 
@@ -52,6 +55,7 @@ Nenurodyta
 - t-002
   global_id: t-75279
   teiginys: 'Dislokuoti visuose valsčiuose jie saugojo sovietinį aktyvą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/MGB-KGB agentai smogikai|MGB-KGB agentai smogikai]]; mentioned_object: [[objektai/zodynas/agentai smogikai|agentai smogikai]]; mentioned_place: Sibiras'
   pagrindžia:
     - c-002
 
@@ -59,6 +63,14 @@ Nenurodyta
 - t-003
   global_id: t-183275
   teiginys: 'Kovai su Lietuvos partizanais 1945 m. vasarą Lietuvoje buvo dislokuota iki 20 tūkst., o 1946 m. apie 14 tūkst. NKVD karių.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Patikslinta vieta, nes citata kalba apie NKVD kariuomenę Lietuvoje.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/NKGB|NKGB]]; mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1944-1954; įvykio data: 1945 m.; įvykio data: 1946 m.; įvykio data: 1954 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Patikslinta vieta, nes citata kalba apie NKVD kariuomenę Lietuvoje.'
   pagrindžia:
     - c-003
 
@@ -132,13 +144,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/MGB-KGB agentai smogikai]]
-- [[objektai/grupes/NKGB]]
-- [[objektai/grupes/NKVD]]
-- [[objektai/zodynas/agentai smogikai]]
-- [[objektai/zodynas/stribai naikintojų batalionai liaudies gynėjai]]
-- [[objektai/paprociai/Žuvusių partizanų kūnų viešas išniekinimas ir slapti užkasimai]]

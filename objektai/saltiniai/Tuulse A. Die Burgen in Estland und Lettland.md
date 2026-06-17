@@ -19,7 +19,7 @@ amziai:
 
 ## Santrauka
 
-A. Tuulse veikalas „Die Burgen in Estland und Lettland“ minimas kaip šaltinis apie Adažių pilį į šiaurės rytus nuo Rygos. Viljandžio (Tuulse A., Die Burgen..., p. 79).
+Dusburgietis teigia, kad viljandžio (Tuulse A., Die Burgen..., p. 79). Dusburgietis teigia, kad adažiai, pilis į šiaurės rytus nuo Rygos (Tuulse A., Die Burgen..., p. 133). Dusburgietis teigia, kad tuulse A.
 
 ## Teiginiai
 
@@ -27,6 +27,8 @@ A. Tuulse veikalas „Die Burgen in Estland und Lettland“ minimas kaip šaltin
 - t-001
   global_id: t-60965
   teiginys: 'A. Tuulse veikalas „Die Burgen in Estland und Lettland“ minimas kaip šaltinis apie Adažių pilį į šiaurės rytus nuo Rygos.'
+  sudarymo_pagrindimas: 'Citata sieja Tuulse veikalą su Adažių pilies identifikacija.'
+  susije_objektai: 'mentioned_place: Ryga'
   pagrindžia:
     - c-002
 
@@ -34,6 +36,8 @@ A. Tuulse veikalas „Die Burgen in Estland und Lettland“ minimas kaip šaltin
 - t-002
   global_id: t-60966
   teiginys: 'Viljandžio (Tuulse A., Die Burgen..., p. 79).'
+  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Livonija'
   pagrindžia:
     - c-001
 

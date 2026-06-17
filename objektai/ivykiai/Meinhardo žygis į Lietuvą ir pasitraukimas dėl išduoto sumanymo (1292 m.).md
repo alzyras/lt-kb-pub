@@ -36,6 +36,14 @@ Nenurodyta
 - t-001
   global_id: t-185819
   teiginys: '1292 m. Meinhardas sutelkė kariuomenę žygiui į Lietuvą, bet įspėtas apie išdavystę atsitraukė į Prūsiją prieš prasidedant kovai.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata palaiko žygio sumanymą ir pasitraukimo priežastį; pašalintas nutrūkęs fragmentas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Prūsija'
+  temporaliniai_duomenys: 'įvykio data: 1292 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko žygio sumanymą ir pasitraukimo priežastį; pašalintas nutrūkęs fragmentas.'
   pagrindžia:
     - c-001
 
@@ -75,8 +83,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/zodynas/žygis]]

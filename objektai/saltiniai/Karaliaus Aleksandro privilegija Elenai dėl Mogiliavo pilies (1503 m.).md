@@ -33,6 +33,8 @@ Nenurodyta
 - t-001
   global_id: t-88255
   teiginys: 'Aleksandras Elenai iki gyvos galvos dovanojo Mogiliavo pilį prie Dniepro su jai priklausančiomis žemėmis ir valdomis.'
+  sudarymo_pagrindimas: 'Lotyniškas OCR fragmentas turi būti pakeistas lietuvišku sakiniu, kurį tiesiogiai pagrindžia citatos vertimas.'
+  susije_objektai: 'mentioned_object: [[objektai/posakiai/Iki gyvos galvos|Iki gyvos galvos]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Bona|Bona]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Dniepras; mentioned_place: Lenkija; mentioned_place: Mogiliavas; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -40,6 +42,11 @@ Nenurodyta
 - t-002
   global_id: t-88257
   teiginys: '1503 m. Aleksandro privilegija suteikė karalienei Elenai teisę iki gyvos galvos turėti, naudotis ir ramiai valdyti Mogiliavo pilį su priklausiniais.'
+  sudarymo_pagrindimas: 'Citata pagrindžia konkrečią privilegijos suteiktą teisę ir jos trukmę.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_object: [[objektai/posakiai/Iki gyvos galvos|Iki gyvos galvos]]; mentioned_object: [[objektai/zodynas/maršalka|maršalka]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Merkinė; mentioned_place: Mogiliavas; mentioned_place: Polockas; mentioned_place: Trakai; mentioned_place: Vilnius; mentioned_place: Vroclavas'
+  temporaliniai_duomenys: 'įvykio data: 1503 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia konkrečią privilegijos suteiktą teisę ir jos trukmę.'
   pagrindžia:
     - c-002
 

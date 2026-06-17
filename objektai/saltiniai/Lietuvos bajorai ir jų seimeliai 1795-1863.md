@@ -34,6 +34,11 @@ Surinkdamas daug archyvinės medžiagos, Janulaitis parašė išsamų veikalą �
 - t-001
   global_id: t-31811
   teiginys: 'Janulaitis, surinkęs daug archyvinės medžiagos, 1936 m. parašė veikalą „Lietuvos bajorai ir jų seimeliai 1795-1863“.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/tribunolas|tribunolas]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1936 m.; įvykio data: 1940 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, faktinis ir paremtas citata.'
   pagrindžia:
     - c-001
 

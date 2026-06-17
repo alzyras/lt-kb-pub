@@ -43,6 +43,11 @@ Nenurodyta
 - t-001
   global_id: t-100044
   teiginys: '1382 m. liepos 20 d. Skirgaila įtikino Trakų pilies įgulą pasiduoti Jogailos ir kryžiuočių apgulties metu.'
+  sudarymo_pagrindimas: 'Pašalintas išnašos ženklas ir neaiški datos santrumpa, sakinys padarytas enciklopedinis.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Livonija; mentioned_place: Trakai'
+  temporaliniai_duomenys: 'įvykio data: 1382 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas išnašos ženklas ir neaiški datos santrumpa, sakinys padarytas enciklopedinis.'
   pagrindžia:
     - c-001
 
@@ -64,11 +69,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- [[objektai/daiktai/Namas]]
-- [[objektai/asmenys/Skirgaila]]
-- [[objektai/zodynas/įgula]]

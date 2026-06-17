@@ -10,12 +10,13 @@ tags:
   - karvedys
   - kunigaikštis
   - ordinas
+  - valdovas
 ---
 # Nameisis (žiemgalių kunigaikštis)
 
 ## Santrauka
 
-Traidenio valdymo laikotarpiu žiemgalių kunigaikštis Nameisis buvo Traidenio karvedys ir vadovavo jo kariuomenei Ordino vakarų fronte. Nameisio vadovaujami ir lietuvių remiami žiemgaliai po Livonijos ordino sutriuškinimo atsiėmė Tervetės pilį. Traidenio valdymo laikotarpiu žiemgalių kunigaikštis Nameisis vadovavo Traidenio kariuomenei Ordino vakarų fronte.
+Traidenio valdymo laikotarpiu vyko aktyvus lietuvių ir žiemgalių bendradarbiavimas, jų kunigaikštis Nameisis - Traidenio karvedys - vadovavo valdovo kariuomenei net tolimame Ordino vakarų fronte. Po šio Livonijos ordino sutriuškinimo žiemgaliai vėl sukilo prieš Ordiną, jų kunigaikščio Nameisio vadovaujami ir remiami lietuvių, atsiėmė Tervetės pilį, dalį belaisvių Ordino brolių žemgaliai pasiuntė lietuviams.
 
 ## Teiginiai
 
@@ -23,6 +24,9 @@ Traidenio valdymo laikotarpiu žiemgalių kunigaikštis Nameisis buvo Traidenio 
 - t-001
   global_id: t-40366
   teiginys: 'Traidenio valdymo laikotarpiu žiemgalių kunigaikštis Nameisis buvo Traidenio karvedys ir vadovavo jo kariuomenei Ordino vakarų fronte.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir aiškiai apibūdina Nameisio vaidmenį.'
+  susije_objektai: 'territory: Lietuva; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Žiemgaliai|Žiemgaliai]]; mentioned_person: [[objektai/asmenys/Nameisis|Nameisis]]; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Nameisis (žiemgalių kunigaikštis)|Nameisis (žiemgalių kunigaikštis)]] buvo valdovas Lietuva'
   pagrindžia:
     - c-002
 
@@ -30,6 +34,8 @@ Traidenio valdymo laikotarpiu žiemgalių kunigaikštis Nameisis buvo Traidenio 
 - t-002
   global_id: t-40367
   teiginys: 'Nameisio vadovaujami ir lietuvių remiami žiemgaliai po Livonijos ordino sutriuškinimo atsiėmė Tervetės pilį.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas, faktinis ir paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Žiemgaliai|Žiemgaliai]]; mentioned_object: [[objektai/grupes/Žemgaliai|Žemgaliai]]; mentioned_place: Livonija; mentioned_place: Tervetė'
   pagrindžia:
     - c-001
 
@@ -37,6 +43,12 @@ Traidenio valdymo laikotarpiu žiemgalių kunigaikštis Nameisis buvo Traidenio 
 - t-003
   global_id: t-183756
   teiginys: 'Traidenio valdymo laikotarpiu žiemgalių kunigaikštis Nameisis vadovavo Traidenio kariuomenei Ordino vakarų fronte.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Nameisio vadovavimą Traidenio kariuomenei.'
+  susije_objektai: 'territory: Lietuva; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Žiemgaliai|Žiemgaliai]]; mentioned_person: [[objektai/asmenys/Nameisis|Nameisis]]; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Nameisis (žiemgalių kunigaikštis)|Nameisis (žiemgalių kunigaikštis)]] buvo valdovas Lietuva'
   pagrindžia:
     - c-002
 
@@ -83,14 +95,4 @@ Traidenio valdymo laikotarpiu žiemgalių kunigaikštis Nameisis buvo Traidenio 
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/karvedys]]
-
-### Susiję objektai
-- [[objektai/grupes/Baltai]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Nameisis]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/grupes/Žiemgaliai]]
+- Nameisis (žiemgalių kunigaikštis) buvo_valdovas [[objektai/vietos/Lietuva]]

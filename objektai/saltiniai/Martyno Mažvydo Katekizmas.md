@@ -3,16 +3,23 @@ tipas: saltinis
 pavadinimas: 'Martyno Mažvydo Katekizmas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1522 m.'
+  - '1547 m.'
+date_start: '1522'
+date_end: '1547'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XVI'
 ---
 # Martyno Mažvydo Katekizmas
 
 ## Santrauka
 
-Martyno Mažvydo „Katekizmas“ yra pirmoji lietuviška knyga. Martyno Mažvydo „Katekizmas“ citatoje įvardijamas kaip pirmoji lietuviška knyga. 1547 m. Karaliaučiuje išspausdintas Martyno Mažvydo „Katekizmas“ buvo pirmoji knyga lietuvių kalba.
+Dar po ketvirčio amžiaus, 1547-aisiais Lietuva pribrendo pirmai knygai lietuvių kalba – tai garsusis Martyno Mažvydo „Katekizmas“: išspausdintas emigracijoje Karaliaučiuje, bet skirtas lietuviams ir Lietuvai. Pirmoji lietuviška knyga – Martyno Mažvydo „Katekizmas“. Kulvietis bandė įvykdyti emigracijoje, kur kartu su Stanislovu Rapolioniu tapo pirmaisiais ką tik (1544) įkurto Karaliaučiaus universiteto profesoriais, o jų programos dalimi ir reikia laikyti 1547 m. išleistą Martyno Mažvydo „Katekizmą“.
 
 ## Teiginiai
 
@@ -20,6 +27,8 @@ Martyno Mažvydo „Katekizmas“ yra pirmoji lietuviška knyga. Martyno Mažvyd
 - t-001
   global_id: t-71825
   teiginys: 'Martyno Mažvydo „Katekizmas“ yra pirmoji lietuviška knyga.'
+  sudarymo_pagrindimas: 'Teiginys yra trumpas, aiškus ir paremtas citatos pabaigoje pateiktu faktu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_group: [[objektai/grupes/Romėnai|Romėnai]]; mentioned_person: [[objektai/autoriai/Martynas Mažvydas Vaitkūnas|Martynas Mažvydas Vaitkūnas]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -27,6 +36,8 @@ Martyno Mažvydo „Katekizmas“ yra pirmoji lietuviška knyga. Martyno Mažvyd
 - t-002
   global_id: t-71826
   teiginys: 'Martyno Mažvydo „Katekizmas“ citatoje įvardijamas kaip pirmoji lietuviška knyga.'
+  sudarymo_pagrindimas: 'Pradinis teiginys jungė nesusijusį OCR fragmentą su faktu apie „Katekizmą“.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_group: [[objektai/grupes/Romėnai|Romėnai]]; mentioned_person: [[objektai/autoriai/Martynas Mažvydas Vaitkūnas|Martynas Mažvydas Vaitkūnas]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -34,6 +45,11 @@ Martyno Mažvydo „Katekizmas“ yra pirmoji lietuviška knyga. Martyno Mažvyd
 - t-003
   global_id: t-71827
   teiginys: '1547 m. Karaliaučiuje išspausdintas Martyno Mažvydo „Katekizmas“ buvo pirmoji knyga lietuvių kalba.'
+  sudarymo_pagrindimas: 'Pašalintas kontekstinis pradžios žodis ir publicistinės formuluotės.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/autoriai/Martynas Mažvydas Vaitkūnas|Martynas Mažvydas Vaitkūnas]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1522 m.; įvykio data: 1547 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas kontekstinis pradžios žodis ir publicistinės formuluotės.'
   pagrindžia:
     - c-001
 
@@ -41,6 +57,11 @@ Martyno Mažvydo „Katekizmas“ yra pirmoji lietuviška knyga. Martyno Mažvyd
 - t-004
   global_id: t-71828
   teiginys: '1547 m. išleistas Martyno Mažvydo „Katekizmas“ laikomas Abraomo Kulviečio ir Stanislovo Rapolionio kultūrinės programos dalimi.'
+  sudarymo_pagrindimas: 'Pradinis sakinys buvo per ilgas ir prasidėjo neaiškia daline nuoroda.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_person: [[objektai/asmenys/Abraomas Kulvietis|Abraomas Kulvietis]]; mentioned_person: [[objektai/autoriai/Martynas Mažvydas Vaitkūnas|Martynas Mažvydas Vaitkūnas]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1547 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis sakinys buvo per ilgas ir prasidėjo neaiškia daline nuoroda.'
   pagrindžia:
     - c-003
 

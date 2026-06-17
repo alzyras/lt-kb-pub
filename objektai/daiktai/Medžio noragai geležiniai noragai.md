@@ -42,6 +42,8 @@ Nenurodyta
 - t-001
   global_id: t-92024
   teiginys: 'Mediniai noragai buvo dirbami tada, kai dėl užimtų pajūrio pilių nebegauta geležies žambių noragams.'
+  sudarymo_pagrindimas: 'Pradinis teiginys per ilgas, su fragmentais ir citatos triukšmu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalnėnai|Kalnėnai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Noragai|Noragai]]'
   pagrindžia:
     - c-001
 
@@ -71,9 +73,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kalnėnai]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/daiktai/Noragai]]

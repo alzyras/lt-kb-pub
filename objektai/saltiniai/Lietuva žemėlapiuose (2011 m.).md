@@ -30,6 +30,11 @@ Lietuva žemėlapiuose.
 - t-001
   global_id: t-45684
   teiginys: '„Lietuva žemėlapiuose“ antrąjį papildytą leidimą sudarė A. Bieliūnienė ir kiti, jis išleistas Vilniuje 2011 m.'
+  sudarymo_pagrindimas: 'Pradinis tekstas buvo bibliografinis fragmentas be predikato.'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 2011 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis tekstas buvo bibliografinis fragmentas be predikato.'
   pagrindžia:
     - c-001
 

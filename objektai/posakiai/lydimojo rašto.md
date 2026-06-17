@@ -23,6 +23,8 @@ Ir tikrai, kada Gilbert de Lannoy, Ang­ lijos karaliaus Henriko VI pasiuntinys 
 - t-001
   global_id: t-36009
   teiginys: 'Gilbertui de Lannoy keliaujant per totorių žemes į Krymą, Vytauto kepurės užteko kaip „lydimojo rašto“.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_person: [[objektai/asmenys/Henne|Henne]]; mentioned_place: Krymas'
   pagrindžia:
     - c-001
 
@@ -41,11 +43,3 @@ Ir tikrai, kada Gilbert de Lannoy, Ang­ lijos karaliaus Henriko VI pasiuntinys 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Henne]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/zodynas/Miera|miera]]
-- [[objektai/asmenys/Gilbert de Lannoy]]
-- [[objektai/asmenys/Henrikas VI]]

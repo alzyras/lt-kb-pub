@@ -19,7 +19,7 @@ amziai:
 
 ## Santrauka
 
-Karalius Olbrachtas kelias dienas stovėjo prie Sučiavos, bet suprato miesto nepaimsiąs ir nuo jo pasitraukė. 1485 m. rugsėjo 19–20 d. Turkijos kariuomenė puolė Sučiavą. Steponas sustiprino savo sostinę, Sučiavos pilį.
+Olbrachtas pasitraukė nuo Sučiavos miesto. Sučiava čia lieka nepaimta po nesėkmingos apgulties.
 
 ## Teiginiai
 
@@ -27,34 +27,55 @@ Karalius Olbrachtas kelias dienas stovėjo prie Sučiavos, bet suprato miesto ne
 - t-001
   global_id: t-187339
   teiginys: 'Karalius Olbrachtas kelias dienas stovėjo prie Sučiavos, bet suprato miesto nepaimsiąs ir nuo jo pasitraukė.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys aiškiai apibendrina Olbrachto veiksmus prie Sučiavos.'
+  susije_objektai: 'territory: Moldavija; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_object: [[objektai/zodynas/vasalas|vasalas]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Moldavija'
   pagrindžia:
     - c-003
 
 <a id="claim-t-187340"></a>
 - t-002
   global_id: t-187340
-  teiginys: '1485 m. rugsėjo 19–20 d. Turkijos kariuomenė puolė Sučiavą.'
+  teiginys: '1485 m. rugsėjo 19–20 d. Ali-pašos vadovaujama Turkijos kariuomenė puolė Moldavijos sostinę Sučiavą.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Citata palaiko tikslesnį sakinį su kariuomenės vadu ir vietos statusu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Turkijos kariuomenė|Turkijos kariuomenė]]; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_place: Moldavija; mentioned_place: Turkija'
+  temporaliniai_duomenys: 'įvykio data: 1485 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko tikslesnį sakinį su kariuomenės vadu ir vietos statusu.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-187341"></a>
 - t-003
   global_id: t-187341
-  teiginys: 'Steponas sustiprino savo sostinę, Sučiavos pilį.'
+  teiginys: 'Moldavijos vaivada Steponas sustiprino savo sostinę Sučiavos pilį ir kitus miestus, palikdamas juose įgulas.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Citata leidžia aiškiau nurodyti veikėją, objektą ir rezultatą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Moldavija; mentioned_place: Trakai'
   pagrindžia:
     - c-001
 
 <a id="claim-t-187342"></a>
 - t-004
   global_id: t-187342
-  teiginys: 'Sučiava čia pristatoma kaip Moldavijos valdovo sostinė.'
+  teiginys: 'Sučiavos pilis šiame pasakojime įvardijama kaip Moldavijos vaivados Stepono sostinė.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Kadangi kalbama apie šaltinio įvardijimą, reikia atribucijos formos.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Moldavija; mentioned_place: Trakai'
   pagrindžia:
     - c-001
 
 <a id="claim-t-187343"></a>
 - t-005
   global_id: t-187343
-  teiginys: 'Sučiava šiame gabale įvardijama kaip Moldavijos sostinė.'
+  teiginys: '1485 m. rugsėjo 19–20 d. puolimo pastaboje Sučiava įvardijama kaip Moldavijos sostinė.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginį reikia susieti su konkrečiu citatos kontekstu.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_place: Moldavija; mentioned_place: Turkija'
+  temporaliniai_duomenys: 'įvykio data: 1485 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginį reikia susieti su konkrečiu citatos kontekstu.'
   pagrindžia:
     - c-002
 
@@ -62,9 +83,21 @@ Karalius Olbrachtas kelias dienas stovėjo prie Sučiavos, bet suprato miesto ne
 - t-006
   global_id: t-187344
   teiginys: 'Olbrachtas pasitraukė nuo Sučiavos miesto.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie veiksmą prie Sučiavos. Jis sąmoningai neperima citatoje esančio motyvo apie troškimą kautis.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_object: [[objektai/zodynas/vasalas|vasalas]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Moldavija'
   pagrindžia:
     - c-003
-
+- susijęs iš [[objektai/asmenys/Aleksandras.md#claim-t-184656|Aleksandras]]: Po Jurgio ir Teodoro pasitraukimo visa Podolė liko kunigaikščių Aleksandro ir Konstantino valdžioje.
+- susijęs iš [[objektai/ivykiai/Ali-pašos įsiveržimas į Moldaviją ir Sučiavos puolimas.md#claim-t-186767|Ali-pašos įsiveržimas į Moldaviją ir Sučiavos puolimas]]: Redakcinė pastaba nurodo, kad 1485 m. rugsėjo 19–20 d. buvo puolama Moldavijos sostinė Sučiava.
+- susijęs iš [[objektai/ivykiai/Jono Olbrachto žygis į Moldaviją ir Sučiavos apgultis.md#claim-t-186652|Jono Olbrachto žygis į Moldaviją ir Sučiavos apgultis]]: Olbrachtas pasitraukė nuo Sučiavos ir žygiavo gilyn į Moldaviją.
+- susijęs iš [[objektai/ivykiai/Jono Olbrachto žygis į Moldaviją ir Sučiavos apgultis.md#claim-t-186653|Jono Olbrachto žygis į Moldaviją ir Sučiavos apgultis]]: Lietuvos metraštis pasakoja, kad Moldavijos vaivada Steponas pasiuntė pasiuntinius pas Olbrachtą ir sudarė su juo taiką.
+- susijęs iš [[objektai/ivykiai/Jono Olbrachto žygis į Moldaviją ir Sučiavos apgultis.md#claim-t-186654|Jono Olbrachto žygis į Moldaviją ir Sučiavos apgultis]]: Olbrachtas kelias dienas stovėjo prie Sučiavos, bet suprato, kad miesto nepaims.
+- susijęs iš [[objektai/ivykiai/Jono Olbrachto žygis į Moldaviją ir Sučiavos apgultis.md#claim-t-186655|Jono Olbrachto žygis į Moldaviją ir Sučiavos apgultis]]: Lietuvos metraštis teigia, kad Moldavijos vaivada Steponas su Olbrachtu sudarė taiką, sutiko duoti vasalo ištikimybės priesaiką ir surašė raštus.
+- susijęs iš [[objektai/ivykiai/Jono Olbrachto žygis į Moldaviją ir Sučiavos apgultis.md#claim-t-186656|Jono Olbrachto žygis į Moldaviją ir Sučiavos apgultis]]: Sučiavos gynėjai paragino Olbrachtą kautis su Steponu lauke.
+- susijęs iš Bukovina: Lietuvos metraštyje Bukovina vaizduojama kaip akmeninga, uolėta ir sunkiai pereinama vietovė Lenkijos sienos link.
+- susijęs iš Bukovina: Po sutarties su Moldavijos vaivada Olbrachtas traukė per Bukoviną ir kalnus Lenkijos sienos link.
+- susijęs iš Moldavija: Lietuvos metraštis pasakoja, kad Olbrachtui įsiveržus į Moldaviją vaivada Steponas sustiprino Sučiavą ir pasitraukė į kalnų tarpeklius.
 ## Reikšmingi paminėjimai
 
 - c-001

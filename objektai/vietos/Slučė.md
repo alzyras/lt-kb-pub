@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Slučė prasideda šiauriau Slucko. Slučė teka pro Slucką į Pripetę. Slučė yra upė, prasidedanti šiauriau Slucko ir pro Slucką tekanti pietų kryptimi į Pripetę.
+Slučė prasideda šiauriau Slucko. Slučė teka pro Slucką į Pripetę.
 
 ## Teiginiai
 
@@ -20,13 +20,19 @@ Slučė prasideda šiauriau Slucko. Slučė teka pro Slucką į Pripetę. Sluč�
 - t-001
   global_id: t-187326
   teiginys: 'Slučė prasideda šiauriau Slucko.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir tiksliai perteikia vieną citatos faktą apie Slučės pradžią. Nepridėta tekėjimo krypties, nes ji yra atskirame teiginyje.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_place: Krymas; mentioned_place: Sluckas'
   pagrindžia:
     - c-001
 
 <a id="claim-t-187327"></a>
 - t-002
   global_id: t-187327
-  teiginys: 'Slučė teka pro Slucką į Pripetę.'
+  teiginys: 'Slučė teka pro Slucką pietų kryptimi į Pripetę.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys gramatiškas ir tiesiogiai paremtas citatos dalimi apie Slučės tekėjimą pro Slucką į Pripetę. Nepridėta upės pradžios informacijos.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_place: Krymas; mentioned_place: Pripetė; mentioned_place: Sluckas'
   pagrindžia:
     - c-001
 
@@ -34,9 +40,16 @@ Slučė prasideda šiauriau Slucko. Slučė teka pro Slucką į Pripetę. Sluč�
 - t-003
   global_id: t-187652
   teiginys: 'Slučė yra upė, prasidedanti šiauriau Slucko ir pro Slucką tekanti pietų kryptimi į Pripetę.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas enciklopedinis sakinys apie Slučę ir sujungia citatoje pateiktus geografinius faktus. Neperkelta nesusijusi pastaba apie atstumą iki Kopyliaus.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_place: Krymas; mentioned_place: Pripetė; mentioned_place: Sluckas'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Lukošius Moravecas.md#claim-t-186235|Lukošius Moravecas]]: Lukošius Moravecas prie Slučės upės su dviem šimtais pėstininkų užpuolė siaubėjusį priešą ir jį sumušė.
+- susijęs iš [[objektai/ivykiai/Skitų sumušimas Volynėje ir prie Slučės.md#claim-t-185769|Skitų sumušimas Volynėje ir prie Slučės]]: Lukošius Moravecas su dviem šimtais pėstininkų prie Slučės upės užpuolė siaubėjus ir juos sumušė.
+- susijęs iš Umolis: Umolis buvo gyvenvietė prie Slucko.
 ## Reikšmingi paminėjimai
 
 - c-001

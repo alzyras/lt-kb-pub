@@ -15,6 +15,7 @@ tags:
   - karalius
   - kunigaikštis
   - mokslininkas
+  - vyskupas
 amziai:
   - 'XVI'
 periodo_grupes:
@@ -32,6 +33,11 @@ Iš šio miesto 1579 metais jis išsiuntė svarbią pasiuntinybę į Rusiją per
 - t-001
   global_id: t-87538
   teiginys: '1581 m. Steponas Batoras iš Vilniaus per Lauryną Goslickį išsiuntė svarbią pasiuntinybę į Švediją.'
+  sudarymo_pagrindimas: 'Citata pagrindžia Lauryno Goslickio vaidmenį pasiuntinybėje.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Kuršas; mentioned_place: Maskva; mentioned_place: Rusija; mentioned_place: Vilnius; mentioned_place: Švedija'
+  temporaliniai_duomenys: 'įvykio data: 1581 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia Lauryno Goslickio vaidmenį pasiuntinybėje.'
   pagrindžia:
     - c-002
 
@@ -39,9 +45,11 @@ Iš šio miesto 1579 metais jis išsiuntė svarbią pasiuntinybę į Rusiją per
 - t-002
   global_id: t-87539
   teiginys: 'Laurynas Goslickis buvo karaliaus Stepono sekretorius, vėliau Poznanės vyskupas ir lotyniškos knygos „De optimo Senatore“ autorius.'
+  sudarymo_pagrindimas: 'Citata pagrindžia pareigas ir autorystę, o pradinis teiginys buvo nutrūkęs.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Anglai|Anglai]]; mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_person: [[objektai/autoriai/Ossoliński|Ossoliński]]; mentioned_place: Poznanė'
   pagrindžia:
     - c-001
-
+- susijęs iš Poznanė: Laurynas Goslickis buvo karaliaus Stepono sekretorius, vėliau tapo Poznanės vyskupu.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -87,9 +95,3 @@ Iš šio miesto 1579 metais jis išsiuntė svarbią pasiuntinybę į Rusiją per
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Anglai]]
-- [[objektai/grupes/Lotynai]]
-- [[objektai/zodynas/chanas]]

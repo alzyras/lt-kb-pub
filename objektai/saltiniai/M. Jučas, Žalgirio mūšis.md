@@ -31,6 +31,9 @@ amziai:
 - t-001
   global_id: t-31835
   teiginys: 'M. Jučo „Žalgirio mūšis“ buvo išleistas Vilniuje 1959 m.'
+  susije_objektai: 'mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'mūšio data: 1959 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

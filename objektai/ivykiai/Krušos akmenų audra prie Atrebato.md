@@ -36,6 +36,8 @@ Nenurodyta
 - t-001
   global_id: t-62345
   teiginys: 'Liepos mėnesį prie Atrebato kilusi smarki audra krušos akmenimis visiškai išmušė pasėlius, vynuogynus ir miškelius.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir konkretus faktinis sakinys, tiksliai remiamas citatos apie audrą prie Atrebato.'
   pagrindžia:
     - c-001
 

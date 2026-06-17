@@ -18,6 +18,11 @@ atnaujinta: ''
 - t-001
   global_id: t-186266
   teiginys: 'Įsruties komtūras Vigandas fon Baldersheimas, vydamasis iš Prūsijos traukiančius lietuvius, apiplėšė ir sudegino daug kaimų.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pašalinta autorinė įžanga ir OCR triukšmas, paliktas citata pagrįstas faktas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Lenkija; mentioned_place: Prūsija; mentioned_place: Volynė'
   pagrindžia:
     - c-001
 
@@ -44,9 +49,3 @@ atnaujinta: ''
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/daiktai/Vytis]]
-- [[objektai/zodynas/komtūras]]

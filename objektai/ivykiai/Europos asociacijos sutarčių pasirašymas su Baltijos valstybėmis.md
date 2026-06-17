@@ -38,6 +38,8 @@ Nenurodyta
 - t-001
   global_id: t-20181
   teiginys: 'Lietuva, Latvija ir Estija pasirašė Europos asociacijos sutartis su ES, kuri pripažino Baltijos valstybių tikslą tapti jos narėmis.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir tiksliai atitinka citatos informaciją.'
+  susije_objektai: 'mentioned_place: Baltija; mentioned_place: Estija; mentioned_place: Europa; mentioned_place: Latvija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -58,7 +60,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Europos Sąjunga]]

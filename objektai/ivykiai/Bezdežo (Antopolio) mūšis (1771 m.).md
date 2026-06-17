@@ -5,8 +5,9 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1771 m.'
+  - '1772 m.'
 date_start: '1771'
-date_end: ''
+date_end: '1772'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -38,9 +39,14 @@ Nenurodyta
 - t-001
   global_id: t-09821
   teiginys: 'Po Bezdežo mūšio M. K. Oginskio pajėgos netrukus buvo sumuštos prie Stalovičių ir išblaškytos Aleksandro Suvorovo pajėgų.'
+  sudarymo_pagrindimas: 'Citata leidžia suformuoti konkretesnį teiginį apie tiesiogines pasekmes.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Baro konfederacija (1768–1772 m.)|Baro konfederacija (1768–1772 m.)]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/konfederacija|konfederacija]]; mentioned_place: Stalovičiai'
+  temporaliniai_duomenys: 'įvykio data: 1772 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata leidžia suformuoti konkretesnį teiginį apie tiesiogines pasekmes.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -63,10 +69,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/Baro konfederacija (1768–1772 m.)]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/zodynas/konfederacija]]
-- [[objektai/autoriai/Karolis Zikaras]]

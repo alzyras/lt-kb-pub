@@ -42,6 +42,13 @@ Nenurodyta
 - t-001
   global_id: t-62960
   teiginys: '1317 m. žiemą žygis prieš Vaikių valsčių nutrūko, kai audra išblaškė daugiau nei penkis šimtus kariuomenės arklių.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pradinis teiginys yra fragmentiškas ir perrašo šaltinio antraštę.'
+  susije_objektai: 'event: [[objektai/ivykiai/Žygio prieš Vaikių valsčių nutraukimas po audros (1317 m. žiema)|Žygio prieš Vaikių valsčių nutraukimas po audros (1317 m. žiema)]]; mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Notanga; mentioned_place: Semba; mentioned_place: Vaikiai'
+  semantiniai_rysiai: '[[objektai/grupes/Krikščionys|Krikščionys]] dalyvavo mūšyje [[objektai/ivykiai/Žygio prieš Vaikių valsčių nutraukimas po audros (1317 m. žiema)|Žygio prieš Vaikių valsčių nutraukimas po audros (1317 m. žiema)]]'
+  temporaliniai_duomenys: 'mūšio data: 1317 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Krikščionys dalyvavo mūšyje Žygio prieš Vaikių valsčių nutraukimas po audros (1317 m. žiema)“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys yra fragmentiškas ir perrašo šaltinio antraštę.'
   pagrindžia:
     - c-001
 
@@ -71,9 +78,4 @@ Nenurodyta
     - t-002
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Krikščionys]]
-- [[objektai/zodynas/netikėliai]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/grupes/Notangai]]
-- [[objektai/grupes/Sembai]]
+- [[objektai/grupes/Krikščionys]] dalyvavo_musyje Žygio prieš Vaikių valsčių nutraukimas po audros (1317 m. žiema)

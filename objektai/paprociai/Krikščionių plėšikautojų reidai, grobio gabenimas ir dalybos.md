@@ -43,6 +43,8 @@ Nenurodyta
 - t-001
   global_id: t-59739
   teiginys: 'Martynas su bendrais prie Bugo užpuolė prekių laivą, išžudė upeivius, nuplukdė grobį į Torunę ir pasidalijo pinigus.'
+  sudarymo_pagrindimas: 'Pašalintas antraštės ir puslapių triukšmas, paliktas citatos remiamas reido aprašas.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Lietuva; mentioned_place: Torunė'
   pagrindžia:
     - c-001
 
@@ -50,6 +52,8 @@ Nenurodyta
 - t-002
   global_id: t-59740
   teiginys: 'Martynas nukovė dešimt vyrų pirtyje, pagrobė arklių, gyvulių ir kitų daiktų, o moteris bei vaikus išsivarė į nelaisvę.'
+  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytą Martyno veiksmą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Kaimas; mentioned_place: Sūduva; mentioned_place: Viena'
   pagrindžia:
     - c-003
 
@@ -57,6 +61,8 @@ Nenurodyta
 - t-003
   global_id: t-59741
   teiginys: 'Martynas iš Golino su keturiais vokiečiais ir vienuolika prūsų užgrobė kaimą Sūduvos žemėje.'
+  sudarymo_pagrindimas: 'Teiginys gramatiškas ir tiesiogiai paremtas citatos sakiniu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Kalavijai|Kalavijai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Kaimas; mentioned_place: Pagudė; mentioned_place: Prūsai; mentioned_place: Sūduva; mentioned_place: Viena'
   pagrindžia:
     - c-002
 
@@ -130,15 +136,3 @@ Nenurodyta
   pagrindžia:
     - t-002
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Ginklai]]
-- [[objektai/daiktai/Kalavijai]]
-- [[objektai/asmenys/Martynas iš Golino]]
-- [[objektai/daiktai/Namas]]
-- [[objektai/grupes/Sūduviai]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/netikėliai]]
-- [[objektai/ivykiai/Martyno iš Golino laivo užgrobimas Bugo upėje]]
-- [[objektai/ivykiai/Martyno iš Golino vakarinis antpuolis Sūduvos kaime]]

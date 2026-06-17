@@ -50,6 +50,11 @@ Nenurodyta
 - t-001
   global_id: t-40709
   teiginys: 'Eriko Dalbergo graviūra „Urbs et Castellum Brestzie Litewski a S.R.M. Suecix die“ vaizduoja 1657 m. švedų apsiaustą Lietuvos Brastą.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas, enciklopedinis ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_group: [[objektai/grupes/Švedijos kariuomenė|Švedijos kariuomenė]]; mentioned_object: [[objektai/zodynas/apsiaustis|apsiaustis]]; mentioned_place: Brasta; mentioned_place: Lietuva; mentioned_place: Švedija'
+  temporaliniai_duomenys: 'įvykio data: 1656 m.; įvykio data: 1657 m.; įvykio data: 1696 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas, enciklopedinis ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -57,6 +62,11 @@ Nenurodyta
 - t-002
   global_id: t-40710
   teiginys: 'Eriko Dalbergo graviūroje matyti už apgulos įtvirtinimų išdėstytos švedų patrankos, dengtos pylimais ir gabionais.'
+  sudarymo_pagrindimas: 'Citata palaiko aiškų faktą apie graviūroje vaizduojamas apgulos priemones.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/apsiaustis|apsiaustis]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1656 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko aiškų faktą apie graviūroje vaizduojamas apgulos priemones.'
   pagrindžia:
     - c-002
 
@@ -94,9 +104,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/apsiaustis]]
-- [[objektai/grupes/Švedai]]
-- [[objektai/grupes/Švedijos kariuomenė]]

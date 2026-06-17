@@ -31,9 +31,15 @@ periodo_grupes:
 - t-001
   global_id: t-87807
   teiginys: 'Nogajaus mongolai 1272 m. kartu su Haličo kunigaikščiais puolė Lietuvą.'
+  sudarymo_pagrindimas: 'Citata leidžia suformuluoti aiškų faktą be antraščių ir OCR triukšmo.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Mongolai|Mongolai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Haličas; mentioned_place: Lietuva; mentioned_place: Prūsija'
+  temporaliniai_duomenys: 'įvykio data: 1272 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata leidžia suformuluoti aiškų faktą be antraščių ir OCR triukšmo.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Mamšėjus.md#claim-t-40326|Mamšėjus]]: 1279 m. pradžioje Mamšėjus vadovavo Nogajaus pasiųstai kariuomenei prieš Traidenio Lietuvą.
+- susijęs iš [[objektai/asmenys/Nogajus (Aukso ordos valdytojas).md#claim-t-40377|Nogajus (Aukso ordos valdytojas)]]: Aukso ordos valdytojas Nogajus pasiuntė Mamšėjaus vadovaujamą kariuomenę prieš Traidenio Lietuvą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -57,11 +63,3 @@ periodo_grupes:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Teutonai]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/asmenys/Mamšėjus]]
-- [[objektai/asmenys/Nogajus (Aukso ordos valdytojas)]]
-- [[objektai/grupes/Mongolai]]

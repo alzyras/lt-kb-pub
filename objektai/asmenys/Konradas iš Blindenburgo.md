@@ -20,6 +20,8 @@ Dusburgietis teigia, kad brolis Konradas iš Blindenburgo, išėjęs kautis su j
 - t-001
   global_id: t-60365
   teiginys: 'Konradas iš Blindenburgo išėjo kautis su prūsais, gavo penkias žaizdas ir krito kovoje.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, glaustas ir paremtas citata.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Konradas|Konradas]]'
   pagrindžia:
     - c-001
 
@@ -38,7 +40,3 @@ Dusburgietis teigia, kad brolis Konradas iš Blindenburgo, išėjęs kautis su j
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Konradas]]

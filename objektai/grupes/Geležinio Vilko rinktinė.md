@@ -20,6 +20,7 @@ Tapes partizanu, buvo paskirtas Tauro apygardos Geležinio Vilko rinktinės spau
 - t-001
   global_id: t-40884
   teiginys: 'Geležinio Vilko rinktinė turėjo spaudos skyrių, kurio viršininkas redagavo „Laisvės žvalgą“ ir „Kovos keliu“.'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -40,7 +41,3 @@ Tapes partizanu, buvo paskirtas Tauro apygardos Geležinio Vilko rinktinės spau
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/redaktorius]]

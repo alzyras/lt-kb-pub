@@ -22,7 +22,7 @@ periodo_grupes:
 
 ## Santrauka
 
-1413 m. imperatoriaus Zigmanto arbitras Benediktas Makra apvažiavo ginčijamas sienas. 1413 m. imperatoriaus Zigmanto arbitras Benediktas Makra apvažiavo ginčijamas sienas.
+Imperatoriaus Zigmanto arbitras Benediktas Makra apvažiavo ginčijamas sienas (1413).
 
 ## Teiginiai
 
@@ -30,6 +30,11 @@ periodo_grupes:
 - t-001
   global_id: t-28988
   teiginys: '1413 m. imperatoriaus Zigmanto arbitras Benediktas Makra apvažiavo ginčijamas sienas.'
+  sudarymo_pagrindimas: 'Perrašymas panaikina skliaustinę datą ir padaro sakinį enciklopediškesnį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Benediktas|Benediktas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]'
+  temporaliniai_duomenys: 'įvykio data: 1413 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Perrašymas panaikina skliaustinę datą ir padaro sakinį enciklopediškesnį.'
   pagrindžia:
     - c-001
 
@@ -65,7 +70,3 @@ periodo_grupes:
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]

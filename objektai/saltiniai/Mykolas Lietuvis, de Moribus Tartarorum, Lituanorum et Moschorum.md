@@ -29,6 +29,8 @@ amziai:
 - t-001
   global_id: t-88203
   teiginys: 'Mykolo Lietuvio veikale Kafa prie Juodosios jūros minima kaip svarbiausias Lietuvos prekybinis uostas, jungęs ją su Rytais.'
+  sudarymo_pagrindimas: 'Citata pagrindžia teiginį apie veikale nurodytą prekybos ryšį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kijevo kunigaikštystė|Kijevo kunigaikštystė]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Tavoras|Tavoras]]; mentioned_person: [[objektai/autoriai/Mykolas Lietuvis|Mykolas Lietuvis]]; mentioned_person: [[objektai/autoriai/Naruszewicz|Naruszewicz]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Dniepras; mentioned_place: Dniestras; mentioned_place: Kafa; mentioned_place: Kijevas; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -36,6 +38,8 @@ amziai:
 - t-002
   global_id: t-88204
   teiginys: 'Mykolas Lietuvis liudijo, kad seniau totoriai garsėjo santūrumu, svetingumu ir iš kartos į kartą perduodamomis dorybėmis.'
+  sudarymo_pagrindimas: 'Pašalinti puslapio ir OCR fragmentai, paliktas citatos pagrįstas faktas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_person: [[objektai/autoriai/Mykolas Lietuvis|Mykolas Lietuvis]]'
   pagrindžia:
     - c-002
 

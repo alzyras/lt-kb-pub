@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Popiežiaus Inocento laikais beveik visi krikščionys turėjo viešai atgailauti ir plakėsi rykštėmis. Brolis Konradas viešai atgailavo Friclare: ėjo basas ir plika galva, puolė prieš bažnyčios duris ir leido žmonėms jį plakti.
+Dusburgietis teigia, kad apie viešąją krikščionių atgailą To popiežiaus Inocento laikais beveik visi krikščionys turėjo viešai daryti atgailą, o kadangi jie plakėsi rykštėmis, vokiškai juos vadino Geyseler [saviplakiais]. Dusburgietis teigia, kad kai dar buvo pasaulietis, jis kartą smarkiai puolė Friclaro miestą, todėl vėliau, norėdamas įstoti į vienuolius, darė atgailą ir rodė nusižeminimą, atsiteisdamas už šitokią piktadarybę, taigi ėjo minėtajame mieste su procesija basomis ir plika galva, puolė. Dusburgietis teigia, kad toji mat klimpo į nuodėmes iš vargo, o jis — džiaugdamasis pertekliumi, lengvapėdiškai savo nuodėmėmis sukurstęs prieš save dievo rūstybę; šitokių minčių kamuojamas, jis kiaurą naktį nesudėjo nė bluosto. Rytą, patyręs, jog anksčiau minėtuosius Hartmaną bei.
 
 ## Laikotarpis ir datos
 
@@ -43,6 +43,9 @@ Nenurodyta
 - t-001
   global_id: t-62724
   teiginys: 'Popiežiaus Inocento laikais beveik visi krikščionys turėjo viešai atgailauti ir plakėsi rykštėmis.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir tiesiogiai remiasi citata apie viešąją atgailą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_object: [[objektai/zodynas/Geyseler|Geyseler]]'
   pagrindžia:
     - c-001
     - c-002
@@ -51,6 +54,9 @@ Nenurodyta
 - t-002
   global_id: t-62725
   teiginys: 'Brolis Konradas viešai atgailavo Friclare: ėjo basas ir plika galva, puolė prieš bažnyčios duris ir leido žmonėms jį plakti.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Reikia aiškiai susieti veiksmus su viešosios atgailos papročiu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Viena'
   pagrindžia:
     - c-003
 
@@ -108,13 +114,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Geyseler]]
-- [[objektai/asmenys/Hartmanas]]
-- [[objektai/asmenys/Konradas]]
-- [[objektai/grupes/Krikščionys]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Teutonai]]
-- [[objektai/grupes/Saviplakiai]]

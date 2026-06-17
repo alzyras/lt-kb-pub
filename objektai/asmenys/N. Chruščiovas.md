@@ -3,11 +3,19 @@ tipas: asmuo
 pavadinimas: 'N. Chruščiovas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1962 m.'
+date_start: '1962'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - kunigas
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'XX a.'
 ---
 # N. Chruščiovas
 
@@ -21,6 +29,11 @@ Chruščiovo laikais bažnyčią imta diskredituoti, spausti morališkai, nors i
 - t-001
   global_id: t-19166
   teiginys: 'N. Chruščiovo laikais bažnyčia buvo diskredituojama ir morališkai spaudžiama, nors iš trėmimų vietų grįžo 130 kunigų.'
+  sudarymo_pagrindimas: 'Teiginys paremtas citata, bet taisytina forma „bažnyčią imta“ į aiškesnį sakinį apie objektą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija|Vilniaus vyskupijos klierikų kolegija]]; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1962 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys paremtas citata, bet taisytina forma „bažnyčią imta“ į aiškesnį sakinį apie objektą.'
   pagrindžia:
     - c-001
 
@@ -41,7 +54,3 @@ Chruščiovo laikais bažnyčią imta diskredituoti, spausti morališkai, nors i
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija]]

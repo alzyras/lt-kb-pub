@@ -21,6 +21,7 @@ fevaf 143 Kritusius mūšy karius laukuose liepia palaidot, Tie bevardžiai kapa
 - t-001
   global_id: t-41467
   teiginys: 'Posakyje „Tie bevardžiai kapai - paminklas amžinas mūšio“ bevardžiai kapai vaizduojami kaip amžinas mūšio paminklas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Suomiai|Suomiai]]'
   pagrindžia:
     - c-001
 
@@ -45,7 +46,3 @@ fevaf 143 Kritusius mūšy karius laukuose liepia palaidot, Tie bevardžiai kapa
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Suomiai]]

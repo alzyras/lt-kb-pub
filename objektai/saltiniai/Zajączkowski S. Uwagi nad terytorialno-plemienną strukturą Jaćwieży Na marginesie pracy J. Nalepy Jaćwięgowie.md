@@ -26,6 +26,11 @@ Dusburgietis teigia, kad zajączkowski S.
 - t-001
   global_id: t-61380
   teiginys: 'S. Zajączkowskio straipsnis „Uwagi nad terytorialno-plemienną strukturą Jaćwieży“ paskelbtas 1966 m. Torunės leidinio ZHP 31 tomo 4 sąsiuvinyje.'
+  sudarymo_pagrindimas: 'Citata pateikia šaltinio pavadinimą, leidinį, vietą, metus, tomą ir sąsiuvinį.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Torunė'
+  temporaliniai_duomenys: 'įvykio data: 1966 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pateikia šaltinio pavadinimą, leidinį, vietą, metus, tomą ir sąsiuvinį.'
   pagrindžia:
     - c-001
 

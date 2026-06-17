@@ -30,6 +30,10 @@ Dusburgietis teigia, kad voigt J.
 - t-001
   global_id: t-61353
   teiginys: 'J. Voigto „Geschichte Preussens“ sudarė 9 tomai, leisti Karaliaučiuje 1827–1838 m.'
+  sudarymo_pagrindimas: 'Citata nurodo tomų skaičių, leidimo vietą ir metų intervalą.'
+  temporaliniai_duomenys: 'įvykio data: 1827-1838; įvykio data: 1838 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata nurodo tomų skaičių, leidimo vietą ir metų intervalą.'
   pagrindžia:
     - c-001
 

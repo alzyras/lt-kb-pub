@@ -28,6 +28,11 @@ Johansen, Eine Riga-Wisby-Urkunde des 13.
 - t-001
   global_id: t-30007
   teiginys: 'P. Johanseno „Eine Riga-Wisby-Urkunde des 13. Jahrhunderts“ paskelbta 1958 m. leidinio „Zeitschr. des Vereins für Lübekische Geschichte und Altertumskunde“ 38 tome, p. 99-107.'
+  sudarymo_pagrindimas: 'Citata pateikia autorių, pavadinimą, leidinį, tomą, metus ir puslapius.'
+  susije_objektai: 'mentioned_place: Nalšia'
+  temporaliniai_duomenys: 'įvykio data: 1958 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pateikia autorių, pavadinimą, leidinį, tomą, metus ir puslapius.'
   pagrindžia:
     - c-001
 

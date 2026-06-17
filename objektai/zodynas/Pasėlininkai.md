@@ -27,6 +27,7 @@ Vartojamos formos: `pasėlininkais`, `auglininkais`.
 - t-001
   global_id: t-07696
   teiginys: 'Pasėlininkai ir auglininkai, dar gyvendami prie tėvų, netoli tėvo kiemo įkūrė namus ir pataisė dirvas.'
+  sudarymo_pagrindimas: 'Teiginys suprantamas, bet stilistiškai taisytinas ir gali būti glaustesnis.'
   pagrindžia:
     - c-001
 
@@ -34,6 +35,7 @@ Vartojamos formos: `pasėlininkais`, `auglininkais`.
 - t-002
   global_id: t-07697
   teiginys: 'Pasėlininkais ir auglininkais vadinti vaikai, kurie prie tėvų kiemo įkūrė namus ir pataisė dirvas.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatinis ir tiksliai perteikia pasėlininkų bei auglininkų apibūdinimą.'
   pagrindžia:
     - c-001
 

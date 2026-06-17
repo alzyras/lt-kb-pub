@@ -23,6 +23,8 @@ Tuo metu pirmą kartą miesto lėšomis pastatyta vieša pirtis, ir jos pelnas m
 - t-001
   global_id: t-86123
   teiginys: 'Jonui Hozijui buvo leista atvesti ir nuolat turėti vandenį jo namuose Vokiečių gatvėje.'
+  sudarymo_pagrindimas: 'Sakinys sutrumpintas ir pašalintas perteklinis kontekstas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/Pilininkas|Pilininkas]]; mentioned_object: [[objektai/daiktai/Vamzdžiai|Vamzdžiai]]; mentioned_place: Viena; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -30,6 +32,8 @@ Tuo metu pirmą kartą miesto lėšomis pastatyta vieša pirtis, ir jos pelnas m
 - t-002
   global_id: t-86124
   teiginys: 'Iš turgaus centro pašalintos mėsinės buvo perkeltos prie Vokiečių gatvės.'
+  sudarymo_pagrindimas: 'Citata palaiko konkretų faktą apie Vokiečių gatvę; pašalintas OCR ir perteklinis kontekstas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

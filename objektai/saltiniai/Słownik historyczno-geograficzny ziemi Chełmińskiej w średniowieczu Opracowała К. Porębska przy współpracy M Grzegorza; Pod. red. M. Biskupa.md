@@ -26,6 +26,11 @@ Dusburgietis teigia, kad słownik historyczno-geograficzny ziemi Chełmińskiej 
 - t-001
   global_id: t-61306
   teiginys: '„Słownik historyczno-geograficzny ziemi Chełmińskiej w średniowieczu“ išleistas 1971 m. Vroclave, Varšuvoje, Krokuvoje ir Gdanske.'
+  sudarymo_pagrindimas: 'Citata leidžia suformuluoti bibliografinį faktą, o pradinis teiginys yra fragmentas.'
+  susije_objektai: 'mentioned_place: Krokuva'
+  temporaliniai_duomenys: 'įvykio data: 1971 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata leidžia suformuluoti bibliografinį faktą, o pradinis teiginys yra fragmentas.'
   pagrindžia:
     - c-001
 

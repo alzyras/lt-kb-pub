@@ -26,6 +26,10 @@ Dusburgietis teigia, kad wunder H.
 - t-001
   global_id: t-61372
   teiginys: 'H. Wunder knyga apie Christburgo komtūrijos gyvenviečių ir gyventojų istoriją XIII-XVI a. išleista Vysbadene 1968 m.'
+  sudarymo_pagrindimas: 'Citata pagrindžia autorių, temą, laikotarpį, vietą ir metus.'
+  temporaliniai_duomenys: 'įvykio data: 1968 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia autorių, temą, laikotarpį, vietą ir metus.'
   pagrindžia:
     - c-001
 

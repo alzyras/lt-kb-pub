@@ -3,6 +3,11 @@ tipas: zodyno_irasas
 pavadinimas: 'stabmeldys'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+datos:
+  - '1345 m.'
+  - '1348 m.'
+date_start: '1345'
+date_end: '1348'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -10,6 +15,8 @@ tags:
   - kraštas
   - ordinas
   - sąvoka
+amziai:
+  - 'XIV'
 ---
 # stabmeldys
 
@@ -23,6 +30,11 @@ Mat viena klastinga stabmeldė pranešė magistrui, kad lietuvių karalius telk�
 - t-001
   global_id: t-42510
   teiginys: 'Stabmeldžiai svaidė ietis į krikščionis, o rusai strėlėmis sužeidė daug vyrų ir žirgų.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir tiksliai perteikia citatos turinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Ietis|Ietis]]; mentioned_object: [[objektai/daiktai/Lankai|Lankai]]; mentioned_object: [[objektai/daiktai/Strėlės|Strėlės]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/stabmeldžiai|stabmeldžiai]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_place: Semba; mentioned_place: Smolenskas; mentioned_place: Strėva'
+  temporaliniai_duomenys: 'įvykio data: 1348 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys ir tiksliai perteikia citatos turinį.'
   pagrindžia:
     - c-001
 
@@ -30,6 +42,9 @@ Mat viena klastinga stabmeldė pranešė magistrui, kad lietuvių karalius telk�
 - t-002
   global_id: t-42511
   teiginys: 'Viena stabmeldė pranešė magistrui, kad lietuvių karalius telkia kariuomenę Sembos žemei nusiaubti.'
+  susije_objektai: 'territory: Prūsija; territory: Semba; territory: Viena; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Vygandas|Vygandas]]; mentioned_person: [[objektai/autoriai/Vygandas Marburgietis|Vygandas Marburgietis]]; mentioned_place: Prūsija; mentioned_place: Semba; mentioned_place: Viena'
+  temporaliniai_duomenys: 'valdymo laikotarpis: 1345 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Vygandas buvo valdovas Prūsija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Vygandas buvo valdovas Semba“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Vygandas buvo valdovas Viena“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 
@@ -37,6 +52,7 @@ Mat viena klastinga stabmeldė pranešė magistrui, kad lietuvių karalius telk�
 - t-003
   global_id: t-42512
   teiginys: 'Sausio 24-osios išvakarėse į stabmeldžių žemę įžengę kariai žudė gyventojus ir degino kraštą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/stabmeldžiai|stabmeldžiai]]; mentioned_person: [[objektai/asmenys/Zygfridas iš Da[he]nfeldo|Zygfridas iš Da[he]nfeldo]]; mentioned_place: Smolenskas'
   pagrindžia:
     - c-003
 
@@ -90,21 +106,3 @@ Mat viena klastinga stabmeldė pranešė magistrui, kad lietuvių karalius telk�
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/daiktai/Lankai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/daiktai/Strėlės]]
-- [[objektai/asmenys/Vygandas]]
-- [[objektai/autoriai/Vygandas Marburgietis]]
-- [Zygfridas iš Da[he]nfeldo](/objektai/asmenys/Zygfridas%20i%C5%A1%20Da%5Bhe%5Dnfeldo)
-- [[objektai/zodynas/komtūras]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/maršalas]]
-- [[objektai/zodynas/stabmeldžiai]]
-- [[objektai/daiktai/Žirgai]]
-- [[objektai/daiktai/Ietis]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

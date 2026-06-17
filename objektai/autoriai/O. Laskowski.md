@@ -3,10 +3,18 @@ tipas: autorius
 pavadinimas: 'O. Laskowski'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+datos:
+  - '1929 m.'
+date_start: '1929'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'modernioji Lietuva'
 ---
 # O. Laskowski
 
@@ -20,6 +28,9 @@ Laskowski, O.
 - t-001
   global_id: t-30882
   teiginys: 'O. Laskowski 1929 m. Varšuvoje paskelbė išsamų strateginį tyrinėjimą „Grunwald“.'
+  susije_objektai: 'mentioned_place: Varšuva'
+  temporaliniai_duomenys: 'įvykio data: 1929 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

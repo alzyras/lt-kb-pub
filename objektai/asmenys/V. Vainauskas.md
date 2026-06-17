@@ -21,6 +21,8 @@ Vainauską ir P. Vainauskas, vyresniojo padėjėju — P.
 - t-001
   global_id: t-40491
   teiginys: 'V. Vainauskas su P. Lukšiu ir 8 kareiviais užėjo bolševikams į užnugarį ir privertė juos trauktis į Juodikio mišką.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/Kariauna|Kariauna]]; mentioned_person: [[objektai/asmenys/J. Šarauskas|J. Šarauskas]]; mentioned_place: Eiguliai; mentioned_place: Kaimas; mentioned_place: Kėdainiai; mentioned_place: Paobeliai'
   pagrindžia:
     - c-002
 
@@ -28,6 +30,7 @@ Vainauską ir P. Vainauskas, vyresniojo padėjėju — P.
 - t-002
   global_id: t-40492
   teiginys: 'V. Vainauskas buvo paskirtas sustiprinto 17 žmonių žvalgybos patrulio vyresniuoju.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Kėdainiai'
   pagrindžia:
     - c-001
 
@@ -76,9 +79,3 @@ Vainauską ir P. Vainauskas, vyresniojo padėjėju — P.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Rusai]]
-- [[objektai/grupes/Rytas]]
-- [[objektai/grupes/Vokiečiai]]

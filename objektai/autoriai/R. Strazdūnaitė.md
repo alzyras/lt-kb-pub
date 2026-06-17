@@ -3,18 +3,15 @@ tipas: autorius
 pavadinimas: 'R. Strazdūnaitė'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-datos:
-  - '1959 m.'
-date_start: '1959'
+datos: []
+date_start: ''
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
-amziai:
-  - 'XX'
-periodo_grupes:
-  - 'XX a.'
+amziai: []
+periodo_grupes: []
 ---
 # R. Strazdūnaitė
 
@@ -28,9 +25,14 @@ Strazdūnaitė: Valstiečių kasos ir teismai Lietuvoje XIX a.
 - t-001
   global_id: t-30942
   teiginys: 'R. Strazdūnaitė 1959 m. paskelbė darbą „Valstiečių kasos ir teismai Lietuvoje XIX a. pirmojoje pusėje“.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas bibliografine citata.'
+  susije_objektai: 'mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1831 m.; įvykio data: 1959 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir paremtas bibliografine citata.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/autoriai/Lietuvos istorikai ir socialinės istorijos tyrėjai.md#claim-t-179542|Lietuvos istorikai ir socialinės istorijos tyrėjai]]: R. Strazdūnaitė 1959 m. paskelbė darbą „Valstiečių kasos ir teismai Lietuvoje XIX a. pirmojoje pusėje“.
 ## Reikšmingi paminėjimai
 
 - c-001

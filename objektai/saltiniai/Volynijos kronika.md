@@ -3,8 +3,14 @@ tipas: saltinis
 pavadinimas: 'Volynijos kronika'
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
+datos:
+  - '1248 m.'
+date_start: '1248'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XIII'
 ---
 # Volynijos kronika
 
@@ -23,6 +29,11 @@ Volynijos kronika šiame veikale cituojama kaip šaltinis, teigiantis, kad 1248 
 - t-001
   global_id: t-11207
   teiginys: 'Volynijos kronika nurodė, kad 1248 m. viename mūšyje žuvo net 40 jotvingių kunigų.'
+  sudarymo_pagrindimas: 'Teiginį verta perrašyti be boilerplate, paliekant citata paremtą faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1248 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginį verta perrašyti be boilerplate, paliekant citata paremtą faktą.'
   pagrindžia:
     - c-001
 

@@ -1,29 +1,16 @@
 ---
-tipas: 'ivykis'
+tipas: ivykis
 pavadinimas: 'Ivano Vasiljevičiaus karo prieš Aleksandrą planavimas'
-sukurta: '2026-06-16'
-variantai:
-  - 'Maskvos didžiojo kunigaikščio Ivano Vasiljevičiaus karo planas prieš Aleksandrą'
-  - 'Ivano Vasiljevičiaus sąmokslas prieš Aleksandrą'
-aliases: []
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
-bukle: 'juodrastis'
-laikotarpis: '1499 m.'
 datos:
   - '1499 m.'
-periodas: ''
-periodo_grupes: []
+date_start: '1499'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
 amziai:
   - 'XV'
-date_start: '1499'
-date_end: '1499'
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: ''
-atnaujinta: '2026-06-16'
-tags: []
 ---
 # Ivano Vasiljevičiaus karo prieš Aleksandrą planavimas
 
@@ -42,27 +29,33 @@ tags: []
 - date_end: 1499
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 <a id="claim-t-186667"></a>
 - t-001
   global_id: t-186667
-  teiginys: 'Lietuvos metraštis teigia, kad prieš tai jis buvo sudaręs sąmokslą su Mengli-Girėjumi ir palaikė ryšį su Moldavijos vaivada Steponu.'
+  teiginys: 'Lietuvos metraštis Ivano Vasiljevičiaus karo prieš Aleksandrą sumanymą sieja su sąmokslu su Mengli-Girėjumi ir taika su Steponu.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Motyvų ir sąmokslo aiškinimas reikalauja šaltinio atribucijos.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Ivanas|Ivanas]]; mentioned_person: [[objektai/asmenys/Ivanas Vasiljevičius|Ivanas Vasiljevičius]]; mentioned_person: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Perekopas'
   pagrindžia:
     - c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Lietuvos metraštis teigia, kad prieš tai jis buvo sudaręs sąmokslą su Mengli-Girėjumi ir palaikė ryšį su Moldavijos vaivada Steponu.'
+  santrauka: 'Lietuvos metraštis Ivano Vasiljevičiaus karo prieš Aleksandrą sumanymą sieja su sąmokslu su Mengli-Girėjumi ir taika su Steponu.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     Sugrįžo, padarę Lenkijos žemei daug žalos.
@@ -78,20 +71,8 @@ Nenurodyta
     chanu Mengli-Girėjumi1  bei savo marčios tėvu, Mol­
     davijos vaivada Steponu prisiekęs jiems amžiną taiką
     bei pasirėmęs giminystės ryšiais.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Ivanas]]
-- [[objektai/asmenys/Ivanas Vasiljevičius]]
-- [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)]]
-- [[objektai/zodynas/chanas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/vaivada]]
-- [[objektai/zodynas/metraštis]]

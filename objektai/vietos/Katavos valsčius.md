@@ -28,6 +28,11 @@ Dusburgietis teigia, kad apie Auktuolyčių pilies užkariavimą Neilgai trukus 
 - t-001
   global_id: t-58568
   teiginys: 'Katavos valsčius lokalizuojamas Katinavos apylinkėse, o jo vardas siejamas su Katinava arba Katniava.'
+  sudarymo_pagrindimas: 'Teiginys glaustai perteikia citatoje nurodytą Katavos lokalizaciją ir vardo siejimą.'
+  susije_objektai: 'mentioned_place: Marienverderis; mentioned_place: Norkyčiai; mentioned_place: Stalupėnai'
+  temporaliniai_duomenys: 'įvykio data: 1384 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys glaustai perteikia citatoje nurodytą Katavos lokalizaciją ir vardo siejimą.'
   pagrindžia:
     - c-001
 
@@ -35,6 +40,8 @@ Dusburgietis teigia, kad apie Auktuolyčių pilies užkariavimą Neilgai trukus 
 - t-002
   global_id: t-58569
   teiginys: 'Brolis Ditrichas su kariuomene atžygiavo į Nadruvos valsčių Katavą ir pradėjo pulti Auktuolyčių pilį.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiksliai perteikia citatos faktą apie Katavos valsčių.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Auktuolyčiai; mentioned_place: Nadruva; mentioned_place: Pilėnai'
   pagrindžia:
     - c-002
 

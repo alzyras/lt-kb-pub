@@ -5,6 +5,7 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1940 m.'
+  - '1954 m.'
   - '1965 m.'
   - '1969 m.'
 date_start: '1940'
@@ -28,6 +29,9 @@ amziai:
 - t-001
   global_id: t-31808
   teiginys: 'Lietuvos TSR istorijos bibliografiją 1940-1965 sudarė septynių asmenų kolektyvas, ji išleista Vilniuje 1969 m.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/autoriai/J. Balys|J. Balys]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: po 1954 m.; įvykio data: 1954 m.; įvykio data: 1969 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

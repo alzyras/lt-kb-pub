@@ -3,12 +3,19 @@ tipas: paprotys
 pavadinimas: 'Valančiaus blaivybės sąjūdis ir blaivybės brolijos'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1858 m.'
+  - '1860 m.'
+date_start: '1858'
+date_end: '1860'
 sukurta: ''
 atnaujinta: ''
 tags:
   - kraštas
   - paprotys
   - vyskupas
+amziai:
+  - 'XIX'
 ---
 # Valančiaus blaivybės sąjūdis ir blaivybės brolijos
 
@@ -42,6 +49,11 @@ Nenurodyta
 - t-001
   global_id: t-54359
   teiginys: '1858 m. Motiejus Valančius, remdamasis katalikiškuose kraštuose plitusiomis blaivybės idėjomis, inicijavo blaivybės sąjūdį.'
+  sudarymo_pagrindimas: 'Reikia išplėsti inicialą ir įtraukti citatoje nurodytą datą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]; mentioned_place: Kaimas'
+  temporaliniai_duomenys: 'įvykio data: 1858 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia išplėsti inicialą ir įtraukti citatoje nurodytą datą.'
   pagrindžia:
     - c-001
 
@@ -49,6 +61,12 @@ Nenurodyta
 - t-003
   global_id: t-54361
   teiginys: 'Apie 1860 m. blaivybės brolijoms priklausė daugiau kaip 80 proc. vyskupijos gyventojų katalikų.'
+  sudarymo_pagrindimas: 'Reikia pakeisti kontekstinę nuorodą „po poros metų“ aiškia data.'
+  susije_objektai: 'owner: [[objektai/grupes/Lietuviai|Lietuviai]]; owner: [[objektai/asmenys/Motiejus|Motiejus]]; owner: [[objektai/autoriai/Motiejus Valančius|Motiejus Valančius]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]; mentioned_person: [[objektai/autoriai/Motiejus Valančius|Motiejus Valančius]]'
+  semantiniai_rysiai: '[[objektai/paprociai/Valančiaus blaivybės sąjūdis ir blaivybės brolijos|Valančiaus blaivybės sąjūdis ir blaivybės brolijos]] priklausė [[objektai/asmenys/Motiejus|Motiejus]]; [[objektai/paprociai/Valančiaus blaivybės sąjūdis ir blaivybės brolijos|Valančiaus blaivybės sąjūdis ir blaivybės brolijos]] priklausė [[objektai/autoriai/Motiejus Valančius|Motiejus Valančius]]; [[objektai/paprociai/Valančiaus blaivybės sąjūdis ir blaivybės brolijos|Valančiaus blaivybės sąjūdis ir blaivybės brolijos]] priklausė [[objektai/grupes/Lietuviai|Lietuviai]]'
+  temporaliniai_duomenys: 'priklausymo laikotarpis: 1858 m.; priklausymo laikotarpis: 1860 m.; priklausymo laikotarpis: apie 1860 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Valančiaus blaivybės sąjūdis ir blaivybės brolijos priklausė Motiejus“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Valančiaus blaivybės sąjūdis ir blaivybės brolijos priklausė Motiejus Valančius“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Valančiaus blaivybės sąjūdis ir blaivybės brolijos priklausė Lietuviai“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia pakeisti kontekstinę nuorodą „po poros metų“ aiškia data.'
   pagrindžia:
     - c-002
 
@@ -92,8 +110,6 @@ Nenurodyta
     - t-003
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Motiejus]]
-- [[objektai/autoriai/Motiejus Valančius]]
-- [[objektai/grupes/Blaivybės brolijos]]
+- Valančiaus blaivybės sąjūdis ir blaivybės brolijos priklause [[objektai/grupes/Lietuviai]]
+- Valančiaus blaivybės sąjūdis ir blaivybės brolijos priklause [[objektai/asmenys/Motiejus]]
+- Valančiaus blaivybės sąjūdis ir blaivybės brolijos priklause [[objektai/autoriai/Motiejus Valančius]]

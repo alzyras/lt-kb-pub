@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-1839 m. Unitų bažnyčia buvo likviduota, o unitai prievarta grąžinti į Rusų stačiatikių bažnyčią. Bajoriškoji santvarka leido šalia katalikų egzistuoti kalvinistų, liuteronų, stačiatikių, unitų ir kitoms etnokonfesinėms bendrijoms.
+1839 m. likviduojama Unitų bažnyčia, unitai prievarta grąžinami į Rusų stačiatikių bažnyčios gretas.
 
 ## Teiginiai
 
@@ -29,6 +29,11 @@ amziai:
 - t-001
   global_id: t-101479
   teiginys: '1839 m. Unitų bažnyčia buvo likviduota, o unitai prievarta grąžinti į Rusų stačiatikių bažnyčią.'
+  sudarymo_pagrindimas: 'Perrašymas paverčia teiginį sklandžiu enciklopediniu sakiniu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_group: [[objektai/grupes/Unitai|Unitai]]; mentioned_group: [[objektai/grupes/Unitų bažnyčia|Unitų bažnyčia]]'
+  temporaliniai_duomenys: 'įvykio data: 1839 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Perrašymas paverčia teiginį sklandžiu enciklopediniu sakiniu.'
   pagrindžia:
     - c-002
 
@@ -36,6 +41,8 @@ amziai:
 - t-002
   global_id: t-101480
   teiginys: 'Bajoriškoji santvarka leido šalia katalikų egzistuoti kalvinistų, liuteronų, stačiatikių, unitų ir kitoms etnokonfesinėms bendrijoms.'
+  sudarymo_pagrindimas: 'Pradinis teiginys prasideda kontekstiniu fragmentu ir nutrūksta prieš pabaigą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Unitai|Unitai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/Liberum veto|Liberum veto]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/posakiai/„tvanas“|„tvanas“]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Švedija'
   pagrindžia:
     - c-001
 
@@ -80,18 +87,3 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Liberum veto]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/grupes/Stačiatikiai]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/grupes/Unitai]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/grupes/Švedai]]
-- [[objektai/posakiai/„tvanas“]]
-- [[objektai/grupes/Unitų bažnyčia]]
-- [[objektai/grupes/Liuteronai]]
-- [[objektai/paprociai/Religinė carinės valdžios prievarta prieš katalikų vienuolynus ir unitus]]
-- [[objektai/grupes/Rusų stačiatikių bažnyčia]]

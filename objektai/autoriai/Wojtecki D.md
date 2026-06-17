@@ -29,6 +29,11 @@ Dusburgietis teigia, kad l., Die Eroberung..., 3, p. 3; Wojtecki D., Studien...,
 - t-001
   global_id: t-60819
   teiginys: 'D. Wojteckis Sembos puolimą datavo 1252–1253 m. žiema.'
+  sudarymo_pagrindimas: 'Citata nurodo D. Wojteckio poziciją dėl Sembos puolimo datavimo.'
+  susije_objektai: 'mentioned_place: Semba'
+  temporaliniai_duomenys: 'įvykio data: 1252-1253; įvykio data: 1253 m.; įvykio data: 1254 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata nurodo D. Wojteckio poziciją dėl Sembos puolimo datavimo.'
   pagrindžia:
     - c-001
 
@@ -46,7 +51,3 @@ Dusburgietis teigia, kad l., Die Eroberung..., 3, p. 3; Wojtecki D., Studien...,
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/Henriko Stangės žygis į Sembą ir Girmavos nuniokojimas]]

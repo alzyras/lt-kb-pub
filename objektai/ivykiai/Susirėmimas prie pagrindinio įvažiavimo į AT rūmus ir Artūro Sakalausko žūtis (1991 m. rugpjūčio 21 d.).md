@@ -42,6 +42,8 @@ Nenurodyta
 - t-001
   global_id: t-39114
   teiginys: 'Augant įtampai, sovietų kariškių provokacijos metu poste prie pagrindinio įvažiavimo į AT rūmus žuvo Lietuvos savanoris Artūras Sakalauskas.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie įvykį ir paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Savanoris|Savanoris]]; mentioned_person: [[objektai/asmenys/Artūras Sakalauskas|Artūras Sakalauskas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -61,8 +63,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Artūras Sakalauskas]]
-- [[objektai/zodynas/Savanoris]]

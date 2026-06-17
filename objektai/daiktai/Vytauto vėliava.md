@@ -49,6 +49,7 @@ Nenurodyta
 - t-001
   global_id: t-97105
   teiginys: 'Po Vytauto vėliava kovėsi apie 50 kunigaikščių, iš kurių daugiau kaip dvidešimt žuvo.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Karijotaičiai|Karijotaičiai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_place: Brianskas; mentioned_place: Maskva; mentioned_place: Polockas'
   pagrindžia:
     - c-001
 
@@ -56,6 +57,8 @@ Nenurodyta
 - t-002
   global_id: t-97106
   teiginys: 'Po Vytauto vėliava kovėsi apie 50 kunigaikščių, iš kurių daugiau kaip 20 žuvo.'
+  sudarymo_pagrindimas: 'Pradinis tekstas buvo OCR fragmentas; citata remia aiškų faktą apie Vytauto vėliavą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]'
   pagrindžia:
     - c-002
 
@@ -94,13 +97,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/simbolis]]
-
-### Susiję objektai
-- [[objektai/grupes/Karijotaičiai]]
-- [[objektai/asmenys/Mykolas]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/vėliava]]

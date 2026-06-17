@@ -18,28 +18,39 @@ amziai:
 
 ## Santrauka
 
-Tamovas šiame gabale apibrėžia puolimo gylį Lenkijos žemėje. Stepono kariuomenė pasiekė net Tamovą. Stepono kariuomenė pasiekė net Tamovą.
+Stepono kariuomenė pasiekė net Tamovą. Tamovas šiame gabale apibrėžia puolimo gylį Lenkijos žemėje.
 
 ## Teiginiai
 
 <a id="claim-t-187350"></a>
 - t-001
   global_id: t-187350
-  teiginys: 'Tamovas šiame gabale apibrėžia puolimo gylį Lenkijos žemėje.'
+  teiginys: 'Tamovas kronikoje žymi tolimiausią Stepono ir Malkočo karo žygio Lenkijos žemėje ribą prie Krokuvos.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Neaiški interpretacija perrašyta į konkretų teiginį apie Tamovą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_place: Kamenecas; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Moldavija'
   pagrindžia:
     - c-001
 
 <a id="claim-t-187351"></a>
 - t-002
   global_id: t-187351
-  teiginys: 'Stepono kariuomenė pasiekė net Tamovą.'
+  teiginys: 'Moldavijos vaivada Steponas su Malkoču kariavo Lenkijos žemėje iki Tamovo, esančio už dešimties mylių nuo Krokuvos.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Išplėstas subjektas ir pridėta citatoje nurodyta vietos reikšmė.'
+  susije_objektai: 'counterparty: [[objektai/asmenys/Aleksandras|Aleksandras]]; counterparty: [[objektai/asmenys/Steponas|Steponas]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Kamenecas; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Moldavija'
   pagrindžia:
     - c-001
 
 <a id="claim-t-187658"></a>
 - t-005
   global_id: t-187658
-  teiginys: 'Moldavijos vaivada Steponas su Malkoču kariavo Lenkijos žemėje nuo Kameneco ir Lvovo iki Tamovo.'
+  teiginys: 'Moldavijos vaivada Steponas su Malkoču kariavo Lenkijos žemėje nuo Kameneco per Lvovą iki Tamovo.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys patikslintas pagal citatos eigą ir sutrumpintas.'
+  susije_objektai: 'counterparty: [[objektai/asmenys/Aleksandras|Aleksandras]]; counterparty: [[objektai/asmenys/Steponas|Steponas]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Kamenecas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Lvovas; mentioned_place: Moldavija'
   pagrindžia:
     - c-001
 

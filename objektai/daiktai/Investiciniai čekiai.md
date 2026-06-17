@@ -20,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-Už investicinius čekius pirktas privatus turtas buvo vienas iš pradinio kapitalo įsigijimo šaltinių. Investicinius čekius patikėjusiems asmenims nebuvo palikta garantijų, kai privatizavimui kūrėsi žemės ūkio akcinės ir investicinės bendrovės. Daugelis gyventojų investicinius čekius pardavė ir nesugebėjo privatizuoti savo gyvenamojo būsto.
+Investiciniai čekiai aprašomi kaip privatizacijos priemonė, kuria buvo įsigyjamas privatizuojamas valstybės turtas. Šaltinis pabrėžia nevienodą pasinaudojimą čekiais ir garantijų stoką juos patikėjusiems asmenims.
 
 ## Pavadinimai šaltiniuose
 
@@ -63,6 +63,7 @@ Nenurodyta
 - t-002
   global_id: t-75328
   teiginys: 'Investicinius čekius patikėjusiems asmenims nebuvo palikta garantijų, kai privatizavimui kūrėsi žemės ūkio akcinės ir investicinės bendrovės.'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 
@@ -70,6 +71,7 @@ Nenurodyta
 - t-003
   global_id: t-75329
   teiginys: 'Daugelis gyventojų investicinius čekius pardavė ir nesugebėjo privatizuoti savo gyvenamojo būsto.'
+  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytą faktą.'
   pagrindžia:
     - c-004
 
@@ -77,6 +79,7 @@ Nenurodyta
 - t-004
   global_id: t-75330
   teiginys: 'Investicinius čekius bendrovėms patikėjusiems asmenims nebuvo palikta garantijų.'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 
@@ -84,6 +87,7 @@ Nenurodyta
 - t-005
   global_id: t-75331
   teiginys: 'Šalies piliečiams buvo sudarytos galimybės įsigyti privatizuojamo valstybės turto už investicinius čekius, bet tinkamai tuo pasinaudojo ne visi.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie investicinius čekius.'
   pagrindžia:
     - c-002
 
@@ -91,6 +95,7 @@ Nenurodyta
 - t-006
   global_id: t-75333
   teiginys: 'Nors visiems šalies piliečiams sudarytos tarsi vienodos galimybės įsigyti privatizuojamo valstybės turto už investicinius čekius, tinkamai tuo pasinaudojo ne visi.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatinis ir tiesiogiai pagrįstas citata.'
   pagrindžia:
     - c-004
 

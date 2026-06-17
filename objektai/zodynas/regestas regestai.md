@@ -19,7 +19,7 @@ amziai:
 
 ## Santrauka
 
-Ignas Danilavičius pirmasis lenkų kalba sudarė Lietuvos istorijai reikalingų dokumentų arba jų santraukų, vadinamų regestais, rinkinį.
+Čia reikia paminėti labai kritišką Igną Danilavičių (Danilowicz)^37 , kuris pirmasis sudarė Lietuvos istorijai reikalingų dokumentų ar jų santraukų (regestų) rinkinį lenkų kalba, pradedant nuo Herodoto.
 
 ## Teiginiai
 
@@ -27,6 +27,11 @@ Ignas Danilavičius pirmasis lenkų kalba sudarė Lietuvos istorijai reikalingų
 - t-001
   global_id: t-28626
   teiginys: 'Ignas Danilavičius pirmasis lenkų kalba sudarė Lietuvos istorijai reikalingų dokumentų arba jų santraukų, vadinamų regestais, rinkinį.'
+  sudarymo_pagrindimas: 'Citata remia dokumentų arba jų santraukų rinkinį, ne būtinai abu kartu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/autoriai/Danilavičius|Danilavičius]]; mentioned_person: [[objektai/autoriai/Ignas Danilavičius|Ignas Danilavičius]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: iki 1569 m.; įvykio data: 1569 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata remia dokumentų arba jų santraukų rinkinį, ne būtinai abu kartu.'
   pagrindžia:
     - c-001
 
@@ -50,11 +55,3 @@ Ignas Danilavičius pirmasis lenkų kalba sudarė Lietuvos istorijai reikalingų
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/Danilavičius]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/autoriai/Ignas Danilavičius]]
-- [[objektai/zodynas/regestai]]

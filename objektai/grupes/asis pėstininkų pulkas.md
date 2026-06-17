@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Vakare, 1-ojo pėstininkų pulko batalionui parėmus puolimą, buvo užimta Turmanto geležinkelio stotis ir seni Pirmojo pasaulinio karo vokiečių apkasai. 1-ojo pėstininkų pulko du batalionai įėjo į dešiniąją koloną, kuriai vadovavo Ladyga.
+Dešiniąją koloną sudarė 1-ojo pėstininkų pulko du batalionai, raitųjų žvalgų komanda, du raitelių eskadronai ir karin. Tos dienos vakare, nežiūrint itin atkaklaus bolševikų pasipriešinimo, parėmus 1-ojo pėstininkų pulko batalionui, pavyko užimti šią stotį, o taip pat ir senus Pirmojo pasaulinio karo laikų vokiečių apkasus.
 
 ## Teiginiai
 
@@ -21,6 +21,8 @@ Vakare, 1-ojo pėstininkų pulko batalionui parėmus puolimą, buvo užimta Turm
 - t-001
   global_id: t-80634
   teiginys: 'Vakare, 1-ojo pėstininkų pulko batalionui parėmus puolimą, buvo užimta Turmanto geležinkelio stotis ir seni Pirmojo pasaulinio karo vokiečių apkasai.'
+  sudarymo_pagrindimas: 'Pašalintos neaiškios nuorodos ir įvardyta citatoje minima Turmanto geležinkelio stotis.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/1-asis pėstininkų pulkas|1-asis pėstininkų pulkas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Turmantas; mentioned_place: Zarasai'
   pagrindžia:
     - c-001
 
@@ -28,6 +30,7 @@ Vakare, 1-ojo pėstininkų pulko batalionui parėmus puolimą, buvo užimta Turm
 - t-002
   global_id: t-80635
   teiginys: '1-ojo pėstininkų pulko du batalionai įėjo į dešiniąją koloną, kuriai vadovavo Ladyga.'
+  sudarymo_pagrindimas: 'Perrašyta, kad teiginio subjektas būtų pats pulkas ir pašalintas perteklinis sąrašas.'
   pagrindžia:
     - c-002
 
@@ -71,10 +74,3 @@ Vakare, 1-ojo pėstininkų pulko batalionui parėmus puolimą, buvo užimta Turm
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/1-asis pėstininkų pulkas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/asmenys/M. Pečiulionis]]

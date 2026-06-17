@@ -22,6 +22,8 @@ Dusburgietis teigia, kad visa tai plukdydami Zirgūnos upe, broliai bei jų tarn
 - t-001
   global_id: t-60203
   teiginys: 'Prūsai pagavo Samilį, kankino jį verdančiu vandeniu ir ugnimi, o vėliau Samilis pas brolius pasveiko.'
+  sudarymo_pagrindimas: 'Teiginys per ilgas ir pažodinis; citata pagrindžia glaustą faktą apie Samilio kankinimą ir pasveikimą.'
+  susije_objektai: 'mentioned_place: Kristburgas; mentioned_place: Pamedė; mentioned_place: Prūsai; mentioned_place: Zirgūna'
   pagrindžia:
     - c-002
 
@@ -29,9 +31,12 @@ Dusburgietis teigia, kad visa tai plukdydami Zirgūnos upe, broliai bei jų tarn
 - t-002
   global_id: t-60204
   teiginys: 'Pamedės kilmingasis Samilis, Tusino tėvas, padėjo badaujančiai Kristburgo piliai ir slapta gerbė tikėjimą bei brolius.'
+  sudarymo_pagrindimas: 'Citata pagrindžia Samilio kilmę, pagalbą Kristburgui ir slaptą palankumą broliams.'
+  susije_objektai: 'mentioned_place: Elbingas; mentioned_place: Kristburgas; mentioned_place: Pamedė; mentioned_place: Prūsai; mentioned_place: Zirgūna'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/ivykiai/Kristburgo bado krizės ir Samilio nukankinimo bandymas.md#claim-t-89373|Kristburgo bado krizės ir Samilio nukankinimo bandymas]]: Prūsai pagavo Samilį, kankino jį verdančiu vandeniu ir ugnimi, nusiuntė broliams, o Samilis vėliau pagijo.
+- susijęs iš Pamedė: Pamedės kilmingasis Samilis padėjo badaujančiai Kristburgo piliai, nors gyveno tarp priešų ir tikėjimą bei brolius gerbė slapta.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -75,5 +80,4 @@ Dusburgietis teigia, kad visa tai plukdydami Zirgūnos upe, broliai bei jų tarn
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/Kristburgo bado krizės ir Samilio nukankinimo bandymas]]
+- Samilis gyveno [[objektai/vietos/Pamedė]]

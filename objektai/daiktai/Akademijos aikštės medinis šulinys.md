@@ -42,6 +42,8 @@ Nenurodyta
 - t-001
   global_id: t-54479
   teiginys: 'Akademijos aikštėje buvo medinis keturių šulų šulinys su stogeliu ir volu vandeniui traukti.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie objektą ir visiškai paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Rykai|Rykai]]; mentioned_place: Akademijos aikštė'
   pagrindžia:
     - c-001
 
@@ -67,10 +69,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/buities-daiktas]]
-
-### Susiję objektai
-- [[objektai/daiktai/Rykai]]

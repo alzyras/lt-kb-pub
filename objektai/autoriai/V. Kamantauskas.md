@@ -20,6 +20,8 @@ Kamantausko, KIRČIUOTA LIETUVIŲ LITERATŪROS CHRESTOMATIJA.
 - t-001
   global_id: t-96058
   teiginys: 'V. Kamantauskas parengė „Kirčiuotą lietuvių literatūros chrestomatiją“, kurios kirčius patikrino Pr. Skardžius.'
+  sudarymo_pagrindimas: 'Pradinė formuluotė yra bibliografinis fragmentas, o citata leidžia suformuluoti faktą apie leidinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/autoriai/Pr. Skardžius|Pr. Skardžius]]; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -40,7 +42,3 @@ Kamantausko, KIRČIUOTA LIETUVIŲ LITERATŪROS CHRESTOMATIJA.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]

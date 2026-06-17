@@ -3,21 +3,17 @@ tipas: autorius
 pavadinimas: 'P. Dundulienė'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-datos:
-  - '1917 m.'
-  - '1969 m.'
-date_start: '1917'
-date_end: '1969'
+datos: []
+date_start: ''
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
   - miestas
   - įrankis
-amziai:
-  - 'XX'
-periodo_grupes:
-  - 'naujieji laikai'
+amziai: []
+periodo_grupes: []
 ---
 # P. Dundulienė
 
@@ -31,6 +27,11 @@ Dundulienė: Žemdirbystė Lietuvoje (nuo seniausia laiku iki 1917 metu) (1963)^
 - t-001
   global_id: t-30896
   teiginys: 'P. Dundulienė rašė Lietuvos žemdirbystės istorijos klausimais ir 1963 m. paskelbė veikalą „Žemdirbystė Lietuvoje“.'
+  sudarymo_pagrindimas: 'Teiginys gramatiškai apibendrina citatoje nurodytą autorės darbą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/ekonomija|ekonomija]]; mentioned_object: [[objektai/zodynas/inventoriai|inventoriai]]; mentioned_object: [[objektai/zodynas/statutas|statutas]]; mentioned_person: [[objektai/autoriai/S. Lazutka|S. Lazutka]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1769 m.; įvykio data: 1783-1832; įvykio data: 1832 m.; įvykio data: 1963 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys gramatiškai apibendrina citatoje nurodytą autorės darbą.'
   pagrindžia:
     - c-001
 
@@ -58,12 +59,3 @@ Dundulienė: Žemdirbystė Lietuvoje (nuo seniausia laiku iki 1917 metu) (1963)^
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/įrankis]]
-
-### Susiję objektai
-- [[objektai/zodynas/ekonomija]]
-- [[objektai/zodynas/inventoriai]]
-- [[objektai/zodynas/statutas]]

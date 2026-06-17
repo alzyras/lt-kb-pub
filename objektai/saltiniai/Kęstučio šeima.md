@@ -26,6 +26,10 @@ amziai:
 - t-001
   global_id: t-100180
   teiginys: '„Kęstučio šeima“ buvo paskelbta žurnalo „Mūsų Žinynas“ 1933 m. 98–99 numeriuose.'
+  sudarymo_pagrindimas: 'Citata palaiko bibliografinį faktą apie publikavimo vietą ir laiką.'
+  temporaliniai_duomenys: 'įvykio data: 1933 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko bibliografinį faktą apie publikavimo vietą ir laiką.'
   pagrindžia:
     - c-001
 

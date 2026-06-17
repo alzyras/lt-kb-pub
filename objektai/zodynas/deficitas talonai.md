@@ -20,6 +20,8 @@ Tačiau tai nereiškė gerovės Lietuvoje – kaip ir visoje SSRS parduotuvės b
 - t-001
   global_id: t-70104
   teiginys: 'Sovietmečio Lietuvoje trūko maisto produktų, butų, medicinos reikmenų ir vaistų, o baldams, indams ir televizoriams įsigyti reikėjo talonų.'
+  sudarymo_pagrindimas: 'Pradinis sakinys nutrūkęs ir turi perteklinio konteksto.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Duona|Duona]]; mentioned_object: [[objektai/daiktai/Vaistinės prekės, vaistai ir gydomieji gėrimai|Vaistinės prekės, vaistai ir gydomieji gėrimai]]; mentioned_place: Lietuva; mentioned_place: SSRS'
   pagrindžia:
     - c-001
 
@@ -27,6 +29,11 @@ Tačiau tai nereiškė gerovės Lietuvoje – kaip ir visoje SSRS parduotuvės b
 - t-002
   global_id: t-183407
   teiginys: 'Komandinės planinės ekonomikos neefektyvumas pašieptas juoku, kad socializmas Sacharoje sukeltų smėlio deficitą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata pateikia vertinamąjį posakį, kurį reikia suformuluoti kaip aiškų teiginį.'
+  susije_objektai: 'mentioned_object: [[objektai/posakiai/„jeigu Sacharos dykumoje būtų įvestas socializmas...“|„jeigu Sacharos dykumoje būtų įvestas socializmas...“]]'
   pagrindžia:
     - c-002
 
@@ -63,11 +70,3 @@ Tačiau tai nereiškė gerovės Lietuvoje – kaip ir visoje SSRS parduotuvės b
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Duona]]
-- [[objektai/daiktai/Vaistinės prekės, vaistai ir gydomieji gėrimai]]
-- [[objektai/posakiai/„jeigu Sacharos dykumoje būtų įvestas socializmas...“]]
-- [[objektai/daiktai/Deficitinės vartojimo prekės]]
-- [[objektai/paprociai/Sovietinio deficito eilės ir talonų laukimas]]

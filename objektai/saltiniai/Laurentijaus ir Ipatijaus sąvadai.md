@@ -3,16 +3,22 @@ tipas: saltinis
 pavadinimas: 'Laurentijaus ir Ipatijaus sąvadai'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+datos:
+  - '1044 m.'
+date_start: '1044'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XI'
 ---
 # Laurentijaus ir Ipatijaus sąvadai
 
 ## Santrauka
 
-Nuo XII a. antros pusės Laurentijaus ir Ipatijaus sąvaduose daugėjo žinių apie lietuvių puolimus į rusų žemes.
+Nuo XII amž. antros pusės, kai lietuviai išvystė gausius puolimus į rusų žemes, atsirado vis daugiau žinių, kurios kartojamos įvai­ riuose rusų metraščiuose, ypač Laurentijaus ir Ipatijaus sąvaduose.
 
 ## Teiginiai
 
@@ -20,6 +26,11 @@ Nuo XII a. antros pusės Laurentijaus ir Ipatijaus sąvaduose daugėjo žinių a
 - t-001
   global_id: t-31784
   teiginys: 'Nuo XII a. antros pusės Laurentijaus ir Ipatijaus sąvaduose daugėjo žinių apie lietuvių puolimus į rusų žemes.'
+  sudarymo_pagrindimas: 'Reikia sklandesnio sakinio su aiškesniu faktiniu predikatu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1044 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia sklandesnio sakinio su aiškesniu faktiniu predikatu.'
   pagrindžia:
     - c-001
 

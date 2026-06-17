@@ -26,6 +26,11 @@ Dusburgietis teigia, kad kšivickis L.
 - t-001
   global_id: t-61119
   teiginys: 'L. Kšivickio „Žemaičių senovė“ išleista Kaune ir Marijampolėje 1928 m.'
+  sudarymo_pagrindimas: 'Citata pateikia pakankamą bibliografinį faktą apie leidimą.'
+  susije_objektai: 'mentioned_place: Kaunas; mentioned_place: Marijampolė'
+  temporaliniai_duomenys: 'įvykio data: 1928 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pateikia pakankamą bibliografinį faktą apie leidimą.'
   pagrindžia:
     - c-001
 

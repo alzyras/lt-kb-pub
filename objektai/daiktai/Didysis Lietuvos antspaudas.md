@@ -3,6 +3,10 @@ tipas: daiktas
 pavadinimas: 'Didysis Lietuvos antspaudas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1588 m.'
+date_start: '1588'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -10,6 +14,8 @@ tags:
   - diplomatas
   - karalius
   - tauta
+amziai:
+  - 'XVI'
 ---
 # Didysis Lietuvos antspaudas
 
@@ -43,6 +49,11 @@ Nenurodyta
 - t-001
   global_id: t-19514
   teiginys: 'Po Liublino unijos LDK išlaikė atskirą iždą, kariuomenę, teismus ir Trečiojo Lietuvos Statuto įformintą teisinę sistemą.'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo sugadintas fragmentas, citata remia aiškų faktą apie LDK savarankiškas institucijas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/senatas|senatas]]; mentioned_object: [[objektai/zodynas/statutas|statutas]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Didžioji Lenkija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Liublinas; mentioned_place: Mažoji Lenkija; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1588 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys buvo sugadintas fragmentas, citata remia aiškų faktą apie LDK savarankiškas institucijas.'
   pagrindžia:
     - c-001
 
@@ -65,13 +76,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/etmonas]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/zodynas/senatas]]
-- [[objektai/zodynas/statutas]]
-- [[objektai/zodynas/unija]]
-- [[objektai/zodynas/federacija federacinė valstybė]]
-- [[objektai/zodynas/federacija konfederacinė valstybė unitarinė valstybė]]

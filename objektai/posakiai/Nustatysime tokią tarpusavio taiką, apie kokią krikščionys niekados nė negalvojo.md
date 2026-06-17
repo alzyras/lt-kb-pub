@@ -34,6 +34,7 @@ Tai iškilminga ir hiperbolinė taikos pažado formulė.
 - t-001
   global_id: t-54760
   teiginys: 'Lietuviškame vertime pažadas suformuluotas kaip taika, apie kokią krikščionys niekados nė negalvojo.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_place: Viena'
   pagrindžia:
     - c-002
 
@@ -41,6 +42,8 @@ Tai iškilminga ir hiperbolinė taikos pažado formulė.
 - t-002
   global_id: t-54761
   teiginys: 'Formulė „talem pacem ordinabimus“ žadėjo nustatyti tokią taiką, kokios krikščionys nebuvo patyrę.'
+  sudarymo_pagrindimas: 'Manual fix after rewrite gate.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -97,8 +100,3 @@ Tai iškilminga ir hiperbolinė taikos pažado formulė.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Krikščionys]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]

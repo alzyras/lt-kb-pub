@@ -3,10 +3,16 @@ tipas: vieta
 pavadinimas: 'Taškentas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1979 m.'
+date_start: '1979'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
+amziai:
+  - 'XX'
 ---
 # Taškentas
 
@@ -20,9 +26,14 @@ tags:
 - t-001
   global_id: t-21829
   teiginys: 'Taškento konferencijų dalyviai sutarė stiprinti rusų kalbos mokymą SSRS mokymo įstaigose ir kelti rusų kalbos mokytojų kvalifikaciją.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir per ilgas, citata pagrindžia glaustesnę formą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lietuva; mentioned_place: SSRS'
+  temporaliniai_duomenys: 'įvykio data: 1979 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs ir per ilgas, citata pagrindžia glaustesnę formą.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/ivykiai/Taškento konferencijos dėl rusų kalbos stiprinimo SSRS (1975 ir 1979 m.).md#claim-t-20518|Taškento konferencijos dėl rusų kalbos stiprinimo SSRS (1975 ir 1979 m.)]]: Taškento konferencijų dalyviai sutarė stiprinti rusų kalbą SSRS mokymo įstaigose ir gerinti rusų kalbos mokytojų kvalifikaciją.
 ## Reikšmingi paminėjimai
 
 - c-001

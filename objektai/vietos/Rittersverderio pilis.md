@@ -22,6 +22,8 @@ Jokūbą, vėl išsiruošė ana­ pus Nemuno ir, dar nesulaukęs savo raitelių,
 - t-001
   global_id: t-86230
   teiginys: 'Didysis magistras vasarą per Šv. Jokūbą išsiruošė anapus Nemuno ir pradėjo statydinti bei stiprinti Rittersverderio pilį.'
+  sudarymo_pagrindimas: 'Citata palaiko pilies statymo ir stiprinimo faktą, o pradiniame teiginyje trūksta aiškaus subjekto.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)|Jokūbas (vėliau Urbonas IV)]]; mentioned_place: Nemunas; mentioned_place: Rittersverderis; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

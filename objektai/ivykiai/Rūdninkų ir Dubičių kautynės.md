@@ -37,6 +37,8 @@ Nenurodyta
 - t-001
   global_id: t-41356
   teiginys: 'Vilniaus apskrityje veikę Liudviko Narbuto vadovaujami sukilėliai kovėsi su rusų kariuomene prie Rūdninkų ir Dubičių, kur žuvo pats Narbutas, o sukilėliai buvo išblaškyti.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_place: Kaunas; mentioned_place: Rūdninkai; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -63,10 +65,3 @@ Nenurodyta
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Rusai]]
-- [[objektai/zodynas/gubernija]]
-- [[objektai/zodynas/kunigas]]
-- [[objektai/asmenys/Liudvikas Narbutas]]

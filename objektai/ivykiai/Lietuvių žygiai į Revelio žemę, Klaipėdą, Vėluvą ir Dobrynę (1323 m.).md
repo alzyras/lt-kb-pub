@@ -51,6 +51,11 @@ Nenurodyta
 - t-001
   global_id: t-59554
   teiginys: 'M. Tepenas manė, kad Dusburgietis 1323 m. lietuvių žygius į Revelio žemę, Klaipėdą, Vėluvą ir Dobrynę aprašė remdamasis Varmės dokumentu.'
+  sudarymo_pagrindimas: 'Teiginys palaikomas, bet reikia glaustesnės formos ir be perteklinių detalių.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_object: [[objektai/zodynas/legatai|legatai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/autoriai/M. Tepenas|M. Tepenas]]; mentioned_person: [[objektai/asmenys/Mstivojus|Mstivojus]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Dobrynė; mentioned_place: Pamaris; mentioned_place: Revelis; mentioned_place: Varmė; mentioned_place: Vėluva'
+  temporaliniai_duomenys: 'įvykio data: 1230 m.; įvykio data: 1243 m.; įvykio data: 1282 m.; įvykio data: 1323 m.; įvykio data: 1324 m.; įvykio data: 1861 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys palaikomas, bet reikia glaustesnės formos ir be perteklinių detalių.'
   pagrindžia:
     - c-001
 
@@ -58,6 +63,11 @@ Nenurodyta
 - t-002
   global_id: t-59555
   teiginys: 'G. Liabuda atmetė nuomonę, kad 1323 m. lietuvių žygių ir Gedimino krikšto bei taikos pasakojimai paremti dokumentais.'
+  sudarymo_pagrindimas: 'Reikia pataisyti vardą, pašalinti klaidingą priskyrimą Dusburgiečiui ir suformuluoti visą sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]'
+  temporaliniai_duomenys: 'įvykio data: 1323 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia pataisyti vardą, pašalinti klaidingą priskyrimą Dusburgiečiui ir suformuluoti visą sakinį.'
   pagrindžia:
     - c-002
 
@@ -95,14 +105,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Gediminas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Mstivojus]]
-- [[objektai/asmenys/Sventopelkas]]
-- [[objektai/zodynas/kapitula]]
-- [[objektai/zodynas/legatai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/autoriai/M. Tepenas]]

@@ -20,6 +20,7 @@ Mackevičius, Antonievičius, E. Stanišausko batalionai, centre pozicijas užsi
 - t-001
   global_id: t-40036
   teiginys: 'Antonievičius buvo paskirtas vieno iš batalionų vadu.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/M. Stanišauskas|M. Stanišauskas]]'
   pagrindžia:
     - c-003
 
@@ -27,6 +28,7 @@ Mackevičius, Antonievičius, E. Stanišausko batalionai, centre pozicijas užsi
 - t-002
   global_id: t-40037
   teiginys: 'Antonievičius kartu su D. Maleckiu užėmė pozicijas centre.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Merlinas|Merlinas]]'
   pagrindžia:
     - c-001
 
@@ -34,9 +36,12 @@ Mackevičius, Antonievičius, E. Stanišausko batalionai, centre pozicijas užsi
 - t-003
   global_id: t-40038
   teiginys: 'Majoras Antonievičius žuvo, kai sukilėliai dvi valandas atkakliai priešinosi.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/asmenys/D. Maleckis.md#claim-t-40081|D. Maleckis]]: D. Maleckis su Antonievičiumi užėmė pozicijas centre, kai kairiajame sparne stovėjo kiti batalionai.
+- susijęs iš [[objektai/asmenys/M. Stanišauskas.md#claim-t-40321|M. Stanišauskas]]: M. Stanišausko batalionai stovėjo kairiajame sparne.
+- susijęs iš [[objektai/asmenys/P. Vivulskis.md#claim-t-40385|P. Vivulskis]]: P. Vivulskio dalgininkai stovėjo dešiniajame sparne kartu su dviem rezervinėmis 4-ojo bataliono kuopomis.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -96,7 +101,3 @@ Mackevičius, Antonievičius, E. Stanišausko batalionai, centre pozicijas užsi
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Rusai]]

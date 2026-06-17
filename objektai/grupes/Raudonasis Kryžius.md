@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Raudonojo Kryžiaus pastangomis Nacionalinėje M. Mažvydo bibliotekoje įkurtas pirmosios medicinos pagalbos ir medicininio vadovavimo punktas.
+Mažvydo bibliotekoje Raudonojo Kryžiaus pastangomis įkurtas pirmosios medicinos pagalbos ir medicininio vadovavimo punktas, atsakingas už žmonių evakuaciją iš Parlamento prieigų, medikamentai ir tvarsliava gauti privačia medikų iniciatyva, o vėliau - pagalba.
 
 ## Teiginiai
 
@@ -20,9 +20,12 @@ Raudonojo Kryžiaus pastangomis Nacionalinėje M. Mažvydo bibliotekoje įkurtas
 - t-001
   global_id: t-41120
   teiginys: 'Raudonojo Kryžiaus pastangomis Nacionalinėje M. Mažvydo bibliotekoje įkurtas pirmosios medicinos pagalbos ir medicininio vadovavimo punktas.'
+  sudarymo_pagrindimas: 'Citata tiksliau remia punktą kaip pirmosios pagalbos ir medicininio vadovavimo vietą, o evakuacijos atsakomybė priklausė punktui.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/daiktai/Vaistinės prekės, vaistai ir gydomieji gėrimai|Vaistinės prekės, vaistai ir gydomieji gėrimai]]; mentioned_person: [[objektai/autoriai/Martynas Mažvydas Vaitkūnas|Martynas Mažvydas Vaitkūnas]]'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/paprociai/Aukščiausiosios Tarybos gynybos savitarpio aprūpinimo praktika.md#claim-t-09609|Aukščiausiosios Tarybos gynybos savitarpio aprūpinimo praktika (institucija)]]: Aukščiausiosios Tarybos gynybos metu Nacionalinėje M. Mažvydo bibliotekoje Raudonasis Kryžius įkūrė pirmosios pagalbos ir medicininio vadovavimo punktą.
+- susijęs iš Nacionalinė M. Mažvydo biblioteka: Nacionalinėje M. Mažvydo bibliotekoje Raudonasis Kryžius įkūrė pirmosios medicinos pagalbos ir medicininio vadovavimo punktą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -44,10 +47,3 @@ Raudonojo Kryžiaus pastangomis Nacionalinėje M. Mažvydo bibliotekoje įkurtas
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Kryžius]]
-- [[objektai/autoriai/Martynas Mažvydas Vaitkūnas]]
-- [[objektai/daiktai/Vaistinės prekės, vaistai ir gydomieji gėrimai]]
-- [[objektai/paprociai/Aukščiausiosios Tarybos gynybos savitarpio aprūpinimo praktika|Aukščiausiosios Tarybos gynybos savitarpio aprūpinimo praktika (institucija)]]

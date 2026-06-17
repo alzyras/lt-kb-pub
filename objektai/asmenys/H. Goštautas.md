@@ -21,6 +21,8 @@ Goštauto vadovaujamas husarų eskadrono būrys, kiek vėliau dvi vokiečių pė
 - t-001
   global_id: t-39734
   teiginys: 'Karininkas H. Goštautas vadovavo husarų eskadrono būriui.'
+  sudarymo_pagrindimas: 'Citata pagrindžia aiškų faktą apie asmenį, bet pirminis teiginys yra fragmentas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/husarai|husarai]]; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]'
   pagrindžia:
     - c-001
 
@@ -39,8 +41,3 @@ Goštauto vadovaujamas husarų eskadrono būrys, kiek vėliau dvi vokiečių pė
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/husarai]]

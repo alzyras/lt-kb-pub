@@ -50,6 +50,11 @@ Nenurodyta
 - t-001
   global_id: t-78682
   teiginys: 'Vokiškas universalusis kulkosvaidis MG 34 buvo vienas pirmųjų bendrosios paskirties kulkosvaidžių.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir tiesiogiai atitinka citatos informaciją.'
+  susije_objektai: 'mentioned_place: Vilnius; mentioned_place: Vokietija'
+  temporaliniai_duomenys: 'įvykio data: 1945-1951; įvykio data: 1951 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, aiškus ir tiesiogiai atitinka citatos informaciją.'
   pagrindžia:
     - c-001
 
@@ -57,6 +62,7 @@ Nenurodyta
 - t-002
   global_id: t-78683
   teiginys: 'Vokiškas universalusis kulkosvaidis MG 34 naudojo 7,92x57 mm Mauser šovinį, šaudė 800-900 šūvių per minutę tempu ir be trikojo svėrė 12,1 kg.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_place: Vilnius; mentioned_place: Vokietija'
   pagrindžia:
     - c-002
 
@@ -117,7 +123,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/NKVD]]

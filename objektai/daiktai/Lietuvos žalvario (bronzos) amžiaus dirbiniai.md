@@ -4,17 +4,25 @@ pavadinimas: 'Lietuvos žalvario (bronzos) amžiaus dirbiniai'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+datos:
+  - '500 m.'
+  - '1600 m.'
+date_start: '500'
+date_end: '1600'
 sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
   - ginklas
+amziai:
+  - 'V'
+  - 'XVI'
 ---
 # Lietuvos žalvario (bronzos) amžiaus dirbiniai
 
 ## Santrauka
 
-Pabaltijyje bronzos amžius datuojamas 1600-500 m. pr. Kr. Lietuvos žalvario amžiaus dirbinių sąraše minimi kirviai, kalavijai, iečių galai, papuošalai ir statulėlė.
+Lietuvos žalvario amžiaus dirbinių aprašyme minimi kirviai, durklai, iečių galai, piautuvai, skustuvai ir papuošalai. Šiame šaltinyje bronzos amžius Pabaltijyje tiesiogiai datuojamas 1600-500 m. pr. Kr.
 
 ## Pavadinimai šaltiniuose
 
@@ -37,10 +45,14 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 <a id="claim-t-64966"></a>
 - t-001
   global_id: t-64966
   teiginys: 'Pabaltijyje bronzos amžius datuojamas 1600-500 m. pr. Kr.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vilniaus gaisro gesinimo įrankiai|Vilniaus gaisro gesinimo įrankiai]]'
+  temporaliniai_duomenys: 'įvykio data: 500 m; įvykio data: 1600-500'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -48,12 +60,13 @@ Nenurodyta
 - t-002
   global_id: t-64967
   teiginys: 'Lietuvos žalvario amžiaus dirbinių sąraše minimi kirviai, kalavijai, iečių galai, papuošalai ir statulėlė.'
+  sudarymo_pagrindimas: 'Citata yra sąrašas, todėl teiginį geriau formuluoti kaip sąrašo faktą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Papuošalai|Papuošalai]]; mentioned_object: [[objektai/daiktai/Vilniaus gaisro gesinimo įrankiai|Vilniaus gaisro gesinimo įrankiai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -66,6 +79,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Lietuvos žalvario amžiaus dirbinių sąraše minimi kirviai, kalavijai, iečių galai, papuošalai ir statulėlė.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -73,15 +87,8 @@ Nenurodyta
     **Lietuvos žalvario (bronzos) amžiaus dirbiniai:**
     1 — 10 kirviai, 11 — 13 kalavijai, 14, 19—21 iečių galai, 15—21 papuošalai,
     statulėlė, 22, 24—31 kirviai.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Vilniaus gaisro gesinimo įrankiai]]
-- [[objektai/daiktai/Papuošalai]]

@@ -23,6 +23,9 @@ Karolis, iki tol dažniausiai gyvenęs Try re, atvyko lydimas keleto gerai iš­
 - t-001
   global_id: t-87435
   teiginys: 'Karolis Tryrietis atvyko į Avinjoną su teisininkais ir riteriais, o popiežius jį priėmė maloniai ir pagarbiai.'
+  sudarymo_pagrindimas: 'Citata leidžia suformuluoti pilną sakinį apie Karolio atvykimą ir priėmimą.'
+  susije_objektai: 'location: Avinjonas; location: Livonija; location: Ryga; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_place: Avinjonas; mentioned_place: Livonija; mentioned_place: Ryga'
+  semantiniai_rysiai: '[[objektai/asmenys/Karolis Tryrietis|Karolis Tryrietis]] keliavo į Avinjonas; [[objektai/asmenys/Karolis Tryrietis|Karolis Tryrietis]] keliavo į Livonija; [[objektai/asmenys/Karolis Tryrietis|Karolis Tryrietis]] keliavo į Ryga'
   pagrindžia:
     - c-001
 
@@ -30,9 +33,16 @@ Karolis, iki tol dažniausiai gyvenęs Try re, atvyko lydimas keleto gerai iš­
 - t-002
   global_id: t-183841
   teiginys: 'Karolis Tryrietis prieš popiežių ir kardinolus gynė Ordiną nuo kaltinimų ir palenkė klausytojus į savo pusę.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradiniame teiginyje yra neenciklopedinė formuluotė ir išnašos numeris.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Palenkė; mentioned_place: Ryga; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/autoriai/Vygandas Marburgietis.md#claim-t-172969|Vygandas Marburgietis]]: Vygandas Marburgietis pasakojo, kad Karolis Tryrietis popiežiaus rūmuose buvo priimtas pagarbiai ir draugiškai.
+- susijęs iš Vokietija: Karolis Tryrietis 1323 m. rugpjūčio viduryje buvo Vokietijoje.
+- susijęs iš Vokietija: Karolis Tryrietis 1323 m. rugpjūčio viduryje dar buvo Vokietijoje.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -82,9 +92,6 @@ Karolis, iki tol dažniausiai gyvenęs Try re, atvyko lydimas keleto gerai iš­
     - t-002
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/zodynas/didysis magistras]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/asmenys/Karolis]]
+- Karolis Tryrietis keliavo_i [[objektai/vietos/Avinjonas]]
+- Karolis Tryrietis keliavo_i [[objektai/vietos/Livonija]]
+- Karolis Tryrietis keliavo_i [[objektai/vietos/Ryga]]

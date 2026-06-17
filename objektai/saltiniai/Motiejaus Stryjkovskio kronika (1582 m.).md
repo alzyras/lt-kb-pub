@@ -18,7 +18,7 @@ amziai:
 
 ## Santrauka
 
-XVI a. antroje pusėje, remiantis Lietuvos Metraščiu ir Motiejaus Stryjkovskio kronika, Lietuvos istorija buvo pradedama nuo Nerono laikų.
+Akmens amžiaus laikai iki indoeuropiečiu pasirodymo^1 Pasiremiant plačiausia « Lietuvos Metraščio » redakcija ir Mo­ tiejaus Stryjkovskio kronika (1582), XVI amž. antroje pusėje Lietuvos istorija buvo pradedama nuo Romos imperatoriaus Ne­ rono laikų, kai, nuo.
 
 ## Teiginiai
 
@@ -26,6 +26,8 @@ XVI a. antroje pusėje, remiantis Lietuvos Metraščiu ir Motiejaus Stryjkovskio
 - t-001
   global_id: t-31853
   teiginys: 'XVI a. antroje pusėje, remiantis Lietuvos Metraščiu ir Motiejaus Stryjkovskio kronika, Lietuvos istorija buvo pradedama nuo Nerono laikų.'
+  sudarymo_pagrindimas: 'Pirminis teiginys praleido kitą citatoje nurodytą atramą, todėl reikėjo patikslinti šaltinių pagrindą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva; mentioned_place: Nemunas'
   pagrindžia:
     - c-001
 

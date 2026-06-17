@@ -42,6 +42,8 @@ Nenurodyta
 - t-001
   global_id: t-87294
   teiginys: 'Krikščionis, padaręs žalą žydų kapinėse ar jas užpuolęs, turėjo būti nubaustas pagal žemės paprotį ir netekti turto iždo naudai.'
+  sudarymo_pagrindimas: 'Pradinis teiginys turi OCR triukšmo, o citata aiškiai pagrindžia kapinių apsaugos normą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -73,11 +75,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/laidotuvės]]
-- [[temos/socialinė-praktika]]
-
-### Susiję objektai
-- [[objektai/grupes/Žydai]]

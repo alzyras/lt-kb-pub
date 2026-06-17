@@ -22,6 +22,8 @@ Dusburgietis teigia, kad tačiau vienas [vyras], vardu Povyda, juos netrukus iš
 - t-001
   global_id: t-60417
   teiginys: 'Povyda netrukus išvadavo Elbingo komtūrą, Kristburgo komtūrą Helvigą iš Goldbacho ir jų padėjėjus iš pagudėnų nelaisvės.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_place: Elbingas; mentioned_place: Kristburgas; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -41,10 +43,3 @@ Dusburgietis teigia, kad tačiau vienas [vyras], vardu Povyda, juos netrukus iš
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/komtūras]]
-- [[objektai/zodynas/kunigas]]
-- [[objektai/grupes/Pagudėnai]]
-- [[objektai/asmenys/Helvigas iš Goldbacho]]

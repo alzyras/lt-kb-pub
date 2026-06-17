@@ -39,6 +39,8 @@ Nenurodyta
 - t-001
   global_id: t-59397
   teiginys: 'Kunigaikštis ir Teutonų ordino broliai užėmė Partigalos pilį ir kuorą, sudegino pastatus, o žmones išsivedė į nelaisvę arba išžudė.'
+  sudarymo_pagrindimas: 'Pradinis teiginys beveik tinkamas, bet reikia pašalinti kontekstinę pradžią ir patikslinti veikėjus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Baiga; mentioned_place: Partigala'
   pagrindžia:
     - c-002
 
@@ -46,6 +48,8 @@ Nenurodyta
 - t-002
   global_id: t-59398
   teiginys: 'Pomandas apsimetė tikėjimo priešu ir paskatino Varmės, Notangos bei Bartos karius apsupti Baigos pilį.'
+  sudarymo_pagrindimas: 'Pradinis teiginys prasideda antrašte ir silpnu fragmentu, citata pagrindžia tikslesnį faktą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/maldininkai|maldininkai]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_person: [[objektai/asmenys/Pomandas|Pomandas]]; mentioned_place: Baiga; mentioned_place: Barta; mentioned_place: Notanga; mentioned_place: Partigala; mentioned_place: Prūsai; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -92,10 +96,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Pomandas]]
-- [[objektai/zodynas/maldininkai]]
-- [[objektai/zodynas/netikėliai]]
-- [[objektai/grupes/Teutonai]]

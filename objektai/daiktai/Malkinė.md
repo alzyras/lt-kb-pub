@@ -38,6 +38,7 @@ Nenurodyta
 - t-001
   global_id: t-64968
   teiginys: 'Ant tos pačios malkinės Brutenis liepė uždegti ugnį, o abu seneliai su ja sudegė.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Kūrėjų kūrėjas|Kūrėjų kūrėjas]]; mentioned_object: [[objektai/zodynas/Žynių titulai ir pareigybės|Žynių titulai ir pareigybės]]'
   pagrindžia:
     - c-001
 
@@ -47,7 +48,7 @@ Nenurodyta
   teiginys: 'Abu seneliai galiausiai sudegė kartu su malkine.'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/paprociai/Paimtų priešo vadų aukojimas dievams ir kaukolių naudojimas pokyliuose.md#claim-t-07829|Paimtų priešo vadų aukojimas dievams ir kaukolių naudojimas pokyliuose]]: Sugautus priešo vyresniuosius lietuviai aukodavo dievams gyvus sudegindami.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -78,8 +79,3 @@ Nenurodyta
 ## Pastabos
 
 - žodis čia gali reikšti apeiginį laužą ar malkų sukrautą pakylą; kandidatas pateikiamas dėl aiškaus materialaus panaudojimo apeiginiame veiksme.
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Kūrėjų kūrėjas|kūrėjų kūrėjas]]
-- [[objektai/paprociai/Paimtų priešo vadų aukojimas dievams ir kaukolių naudojimas pokyliuose]]

@@ -28,6 +28,8 @@ amziai:
 - t-001
   global_id: t-88441
   teiginys: 'Lenkijos karalius laiške dėkojo didžiajam magistrui už atsiųstą rūmų gydytoją ir gyrė jo patyrimą.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiksliai perteikia laiško turinį pagal citatą.'
+  susije_objektai: 'territory: Lenkija; territory: Marienburgas; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lenkija; mentioned_place: Marienburgas'
   pagrindžia:
     - c-001
 

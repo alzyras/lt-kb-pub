@@ -21,6 +21,8 @@ Pastariesiems vadovavo patyręs karys Jonušas Svierčiovskis.
 - t-001
   global_id: t-40232
   teiginys: 'Jonušas Svierčiovskis vadovavo samdinių pulkams, kurie turėjo sudaryti daugiau kaip 8000 karių.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Jonušą Svierčiovskį ir atitinka citatą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Albertas|Albertas]]; mentioned_person: [[objektai/asmenys/Albertas (Vaitiekus) Sampolinskis|Albertas (Vaitiekus) Sampolinskis]]; mentioned_place: Lenkija'
   pagrindžia:
     - c-001
 
@@ -51,7 +53,3 @@ Pastariesiems vadovavo patyręs karys Jonušas Svierčiovskis.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]

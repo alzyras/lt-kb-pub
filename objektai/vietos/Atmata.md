@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Atlanto vandenynas Atmata, u.
+Dusburgietis teigia, kad atlanto vandenynas Atmata, u.
 
 ## Teiginiai
 
@@ -20,6 +20,7 @@ Atlanto vandenynas Atmata, u.
 - t-001
   global_id: t-58682
   teiginys: 'Atlanto vandenynas Atmata, u.'
+  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
   pagrindžia:
     - c-001
 

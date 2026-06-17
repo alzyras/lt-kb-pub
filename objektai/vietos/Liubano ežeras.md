@@ -23,6 +23,8 @@ Plačiu ruožu atsiremdama į Baltijos jūrą, šiaurėje siena buvo užbrėžta
 - t-001
   global_id: t-99932
   teiginys: 'Šiaurinė siena buvo vedama nuo Dauguvos žiočių iki vietos, kur iš Liubano ežero ištekanti Aiviekstė įteka į Dauguvą.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiksliai perteikia citatos informaciją.'
+  susije_objektai: 'mentioned_place: Aiviekstė; mentioned_place: Baltija; mentioned_place: Dauguva; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

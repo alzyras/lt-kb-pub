@@ -42,6 +42,7 @@ Nenurodyta
 - t-001
   global_id: t-40750
   teiginys: 'MP 18 pasirodė Pirmojo pasaulinio karo pabaigoje ir buvo pirmasis masiškai gamintas vokiečių pistoletas-kulkosvaidis.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Pistoletas|Pistoletas]]; mentioned_object: [[objektai/daiktai/Pistoletas-kulkosvaidis MP 40|Pistoletas-kulkosvaidis MP 40]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -62,10 +63,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Ginklai]]
-- [[objektai/daiktai/Pistoletas]]
-- [[objektai/daiktai/Pistoletas-kulkosvaidis MP 40]]
-- [[objektai/grupes/Vokiečiai]]

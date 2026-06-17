@@ -38,6 +38,8 @@ Nenurodyta
 - t-001
   global_id: t-86958
   teiginys: 'Pavasarį sukilimas spontaniškai prasidėjo Žemaitijoje ir greitai apėmė visą Lietuvą.'
+  sudarymo_pagrindimas: 'Reikia pašalinti kontekstinį jungtuką „Tačiau“, kad sakinys būtų savarankiškas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -58,7 +60,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Rusai]]

@@ -3,16 +3,22 @@ tipas: saltinis
 pavadinimas: 'Visuotinė žmogaus teisių deklaracija'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1948 m.'
+date_start: '1948'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XX'
 ---
 # Visuotinė žmogaus teisių deklaracija
 
 ## Santrauka
 
-Disidentinis judėjimas ragino okupacinę valdžią laikytis 1948 m. JT Generalinės Asamblėjos patvirtintos Visuotinės žmogaus teisių deklaracijos, kurios SSRS faktiškai nepaisė.
+Disidentinis judėjimas stengėsi priversti okupacinę valdžią bent neignoruoti visuotinai pripažintų žmogaus teisių ir laisvių, laikytis JT Generalinės Asamblėjos 1948 m. patvirtintos Visuotinės žmogaus teisių deklaracijos, nes SSRS faktiškai jos nepaisė.
 
 ## Teiginiai
 
@@ -20,6 +26,11 @@ Disidentinis judėjimas ragino okupacinę valdžią laikytis 1948 m. JT Generali
 - t-001
   global_id: t-21316
   teiginys: 'Disidentinis judėjimas ragino okupacinę valdžią laikytis 1948 m. JT Generalinės Asamblėjos patvirtintos Visuotinės žmogaus teisių deklaracijos, kurios SSRS faktiškai nepaisė.'
+  sudarymo_pagrindimas: 'Teiginys gramatiškai ir tiksliai perteikia citatos informaciją apie deklaracijos reikšmę disidentiniam judėjimui.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: SSRS'
+  temporaliniai_duomenys: 'įvykio data: 1948 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys gramatiškai ir tiksliai perteikia citatos informaciją apie deklaracijos reikšmę disidentiniam judėjimui.'
   pagrindžia:
     - c-001
 

@@ -5,8 +5,9 @@ saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1434 m.'
+  - '1436 m.'
 date_start: '1434'
-date_end: ''
+date_end: '1436'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -28,6 +29,11 @@ Garbingosios Mergelės Marijos gimimo dieną (rugsėjo 8), dalyvaujant Jo Dideny
 - t-001
   global_id: t-87629
   teiginys: '1434 m. rugsėjo 8 d. Trakuose Vilniaus kaštelionas Aštikas buvo tarp akto patvirtinimui pritarusių asmenų.'
+  sudarymo_pagrindimas: 'Citata leidžia suformuluoti pilną sakinį apie Aštiko pareigas ir dalyvavimą, pašalinant OCR triukšmą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_object: [[objektai/zodynas/kaštelionas|kaštelionas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Kęsgaila|Kęsgaila]]; mentioned_place: Lionas; mentioned_place: Trakai; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1434 m.; įvykio data: 1436 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata leidžia suformuluoti pilną sakinį apie Aštiko pareigas ir dalyvavimą, pašalinant OCR triukšmą.'
   pagrindžia:
     - c-001
 
@@ -66,9 +72,3 @@ Garbingosios Mergelės Marijos gimimo dieną (rugsėjo 8), dalyvaujant Jo Dideny
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/kapitula]]
-- [[objektai/zodynas/vaivada]]
-- [[objektai/zodynas/kaštelionas]]

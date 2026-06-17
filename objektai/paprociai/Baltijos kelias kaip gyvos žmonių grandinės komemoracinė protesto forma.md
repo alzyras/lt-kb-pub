@@ -4,9 +4,10 @@ pavadinimas: 'Baltijos kelias kaip gyvos žmonių grandinės komemoracinė prote
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
+  - '1940 m.'
   - '1989 m.'
-date_start: '1989'
-date_end: ''
+date_start: '1940'
+date_end: '1989'
 sukurta: ''
 atnaujinta: ''
 tags: []
@@ -56,6 +57,11 @@ amziai:
 - t-001
   global_id: t-23361
   teiginys: '1989 m. rugpjūčio 23 d. apie du milijonai lietuvių, latvių ir estų Baltijos kelyje susikibo rankomis į daugiau kaip 650 km gyvą žmonių grandinę.'
+  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia datos, dalyvių ir protesto formos faktus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Estai|Estai]]; mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_object: [[objektai/zodynas/Aukausenos|Aukausenos]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Baltija; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1940 m.; įvykio data: 1989 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia datos, dalyvių ir protesto formos faktus.'
   pagrindžia:
     - c-001
 
@@ -63,6 +69,9 @@ amziai:
 - t-002
   global_id: t-23362
   teiginys: 'Baltijos kelio komemoraciniai ženklai buvo juodi gedulo kaspinai ir žvakutės.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Estai|Estai]]; mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_object: [[objektai/zodynas/Aukausenos|Aukausenos]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Baltija; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1940 m.; įvykio data: 1989 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -92,15 +101,3 @@ amziai:
 ## Šaltiniai ir įrodymai
 
 Nenurodyta
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/socialinė-praktika]]
-
-### Susiję objektai
-- [[objektai/grupes/Estai]]
-- [[objektai/asmenys/Gediminas]]
-- [[objektai/grupes/Latviai]]
-- [[objektai/zodynas/Aukausenos|aukausenos]]
-- [[objektai/daiktai/Baltijos kelio gedulo kaspinai ir žvakutės]]
-- [[objektai/grupes/Lietuvos SSR Aukščiausioji Taryba]]

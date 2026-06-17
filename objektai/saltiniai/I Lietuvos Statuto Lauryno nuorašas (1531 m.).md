@@ -19,7 +19,7 @@ amziai:
 
 ## Santrauka
 
-I Lietuvos Statuto Lauryno nuorašo 1531 m. antraštiniame lape pavaizduotas Vytis.
+Tačiau dalis etninės Lietuvos yra už šiandieninės Lietuvos ribų, antra vertus, Lietuvos vardu vadinamos į vakarus nuo etninių žemių esančios senųjų žemaičių, dalies jotvingių, sėlių, žiemgalių ir prūsų teritorijos.
 
 ## Teiginiai
 
@@ -27,6 +27,11 @@ I Lietuvos Statuto Lauryno nuorašo 1531 m. antraštiniame lape pavaizduotas Vyt
 - t-001
   global_id: t-13519
   teiginys: 'I Lietuvos Statuto Lauryno nuorašo 1531 m. antraštiniame lape pavaizduotas Vytis.'
+  sudarymo_pagrindimas: 'Pradinis teiginys kalba apie Lietuvos teritoriją, o citatos dalis apie objektą pagrindžia aiškesnį faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_object: [[objektai/zodynas/nuorašas|nuorašas]]; mentioned_object: [[objektai/zodynas/statutas|statutas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Prūsai'
+  temporaliniai_duomenys: 'įvykio data: 1531 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys kalba apie Lietuvos teritoriją, o citatos dalis apie objektą pagrindžia aiškesnį faktą.'
   pagrindžia:
     - c-001
 

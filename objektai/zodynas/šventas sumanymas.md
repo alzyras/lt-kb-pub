@@ -23,6 +23,8 @@ Dusburgietis teigia, kad čia pabrėžiama, kad kryžiaus karui pats „viešpat
 - t-001
   global_id: t-58942
   teiginys: '„Šventas sumanymas“ kronikos įvade siejamas su stojimu į Ordiną ir jo veiksmų pateisinimu krikščionybės platinimu.'
+  sudarymo_pagrindimas: 'Citata palaiko glaustą teiginį apie posakio reikšmę, o pradinė formuluotė nutrūkusi ir perteklinė.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_place: Europa; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
 
@@ -48,11 +50,3 @@ Dusburgietis teigia, kad čia pabrėžiama, kad kryžiaus karui pats „viešpat
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/daiktai/Kryžius]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/paprociai/Stojimas į Ordiną kaip šventas sumanymas]]
-- [[objektai/zodynas/viešpaties dievo kariuomenė dievo tauta]]

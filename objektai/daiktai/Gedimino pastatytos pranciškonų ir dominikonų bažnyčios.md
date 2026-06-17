@@ -43,6 +43,8 @@ Nenurodyta
 - t-001
   global_id: t-87077
   teiginys: 'Gediminas nurodė pastatęs dvi pranciškonų bažnyčias Vilniuje ir Naugarduke bei trečią dominikonų bažnyčią.'
+  sudarymo_pagrindimas: 'Citata palaiko faktą, o pradinė formuluotė nutrūksta ir turi OCR triukšmo.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Naugardukas; mentioned_place: Ryga; mentioned_place: Viena; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -73,13 +75,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/ritualas]]
-
-### Susiję objektai
-- [[objektai/zodynas/Miera|miera]]
-- [[objektai/asmenys/Gediminas]]
-- [[objektai/grupes/Pranciškonų ordinas]]
-- [[objektai/grupes/Dominikonų ordinas]]

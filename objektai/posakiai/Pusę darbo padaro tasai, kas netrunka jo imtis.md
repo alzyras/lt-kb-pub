@@ -23,6 +23,8 @@ Dusburgietis teigia, kad jie ir paprašė minėtąjį kunigaikštį pastatydinti
 - t-001
   global_id: t-59158
   teiginys: 'Posakis „Pusę darbo padaro tasai, kas netrunka jo imtis“ kronikoje pateikiamas kaip poeto žodžiai, kuriuos prisiminęs Lenkijos kunigaikštis pastatė pilį prie Torunės.'
+  sudarymo_pagrindimas: 'Pirminis teiginys fragmentiškas ir per ilgas; citata leidžia aiškiai nusakyti posakio vartojimo kontekstą.'
+  susije_objektai: 'territory: Lenkija; territory: Prūsija; territory: Torunė; territory: Viena; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Lenkija; mentioned_place: Prūsija; mentioned_place: Torunė; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -51,8 +53,3 @@ Dusburgietis teigia, kad jie ir paprašė minėtąjį kunigaikštį pastatydinti
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Konradas]]
-- [[objektai/grupes/Teutonai]]

@@ -21,7 +21,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Jogaila per savo seną gynėją Klemensą iš Moskoževo pasiuntė į Vilnių papuoštą knygą apie Kristaus kančias.
+Apie tai galima spręsti iš to, kad Jogaila, kartu su „brangiausia žmona“, taikos vardan pasiuntė į Vilnių per jo se­ ną gynėją Klemensą iš Moskoževo, papuoštą knygą apie Kris­ taus kančias, padėtą Vilniaus Katedroj jos patronų garbei (bu­ vo ir tam tikras.
 
 ## Teiginiai
 
@@ -29,6 +29,11 @@ Jogaila per savo seną gynėją Klemensą iš Moskoževo pasiuntė į Vilnių pa
 - t-001
   global_id: t-35189
   teiginys: 'Jogaila per savo seną gynėją Klemensą iš Moskoževo pasiuntė į Vilnių papuoštą knygą apie Kristaus kančias.'
+  sudarymo_pagrindimas: 'Reikia aiškiai nurodyti, kad Klemensas iš Moskoževo buvo Jogailos senas gynėjas.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Baiga; mentioned_place: Salynas; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1398 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia aiškiai nurodyti, kad Klemensas iš Moskoževo buvo Jogailos senas gynėjas.'
   pagrindžia:
     - c-001
 
@@ -53,10 +58,3 @@ Jogaila per savo seną gynėją Klemensą iš Moskoževo pasiuntė į Vilnių pa
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/papuošalas]]
-
-### Susiję objektai
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]

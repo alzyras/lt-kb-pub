@@ -28,6 +28,8 @@ Dusburgietis teigia, kad karwasińska J.
 - t-001
   global_id: t-60725
   teiginys: 'Karwasińska J. parašė straipsnį apie Karolio IV aukso bules Lietuvos krikšto klausimu.'
+  sudarymo_pagrindimas: 'Bibliografinė citata pakankamai nurodo autorę ir jos darbo temą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Karolis IV|Karolis IV]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

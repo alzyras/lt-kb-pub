@@ -1,23 +1,19 @@
 ---
 tipas: posakis
-pavadinimas: "„Toji tvirtovė yra pastatyta mano širdyje, ir aš kentėsiu dėl jos skausmą, kol gyvas busiu“"
+pavadinimas: '„Toji tvirtovė yra pastatyta mano širdyje, ir aš kentėsiu dėl jos skausmą, kol gyvas busiu“'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
+  - '1278 m.'
   - '1279 m.'
-date_start: '1279'
-date_end: ''
-aliases:
-  - 'Toji tvirtovė yra pastatyta mano širdyje, ir aš kentėsiu dėl jos skausmą, kol gyvas busiu'
-  - 'objektai/posakiai/Toji tvirtovė yra pastatyta mano širdyje, ir aš kentėsiu dėl jos skausmą, kol gyvas busiu'
-variantai:
-  - 'Toji tvirtovė yra pastatyta mano širdyje, ir aš kentėsiu dėl jos skausmą, kol gyvas busiu'
-amziai:
-  - 'XIII'
+date_start: '1278'
+date_end: '1279'
 sukurta: ''
 atnaujinta: ''
 tags:
   - posakis
+amziai:
+  - 'XIII'
 ---
 # „Toji tvirtovė yra pastatyta mano širdyje, ir aš kentėsiu dėl jos skausmą, kol gyvas busiu“
 
@@ -26,21 +22,32 @@ tags:
 Vaizdingais Eiliuotinės kronikos žodžiais, jis esą skundęsis : « Toji tvirtovė yra pastatyta mano širdyje, ir aš kentėsiu dėl jos skausmą, kol gyvas busiu »^236.
 
 ## Teiginiai
+
 <a id="claim-t-186420"></a>
 - t-001
   global_id: t-186420
-  teiginys: 'Po nesėkmingos Daugpilio apgulos 1278 m. Eiliuotinė kronika Traideniui priskyrė skundą dėl tvirtovės.'
+  teiginys: 'Posakis „Toji tvirtovė yra pastatyta mano širdyje“ Eiliuotinėje kronikoje pateiktas kaip skundas dėl tvirtovės.'
+  teiginio_tipas: 'faktas'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Traidenis|Traidenis]]; mentioned_place: Daugpilis'
+  temporaliniai_duomenys: 'pastatymo data: 1278 m.; pastatymo data: 1279 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
+
 <a id="claim-t-186421"></a>
 - t-002
   global_id: t-186421
-  teiginys: 'Posakis „Toji tvirtovė yra pastatyta mano širdyje“ Eiliuotinėje kronikoje pateiktas kaip skundas dėl tvirtovės.'
+  teiginys: 'Po nesėkmingos Daugpilio apgulos 1278 m. Eiliuotinė kronika Traideniui priskyrė skundą dėl tvirtovės.'
+  teiginio_tipas: 'faktas'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Traidenis|Traidenis]]; mentioned_place: Daugpilis'
+  temporaliniai_duomenys: 'įvykio data: 1278 m.; įvykio data: 1279 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Po nesėkmingos Daugpilio apgulos 1278 m. Eiliuotinė kronika Traideniui priskyrė skundą dėl tvirtovės.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Po nepasise­
@@ -55,10 +62,4 @@ Vaizdingais Eiliuotinės kronikos žodžiais, jis esą skundęsis : « Toji tvir
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Traidenis|Traidenis (valdovas, XIII a.)]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/žygis]]
+    - t-002

@@ -23,6 +23,8 @@ tags:
 - t-001
   global_id: t-86753
   teiginys: 'Prie Vilniaus ne daugiau kaip 200 Burgundijos šaulių ir 300 kitų karių laikinai įsirengė įtvirtinimus iš statybinių medžiagų.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Burgundijos šaulius ir remiasi citata.'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -30,6 +32,8 @@ tags:
 - t-002
   global_id: t-86754
   teiginys: 'Burgundijos šauliai taikliais šūviais ir narsa atrėmė puolimą, nors patys patyrė didelių nuostolių.'
+  sudarymo_pagrindimas: 'Ilgas fragmentas sutrumpintas iki enciklopedinio sakinio.'
+  susije_objektai: 'mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 

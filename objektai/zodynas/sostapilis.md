@@ -20,6 +20,8 @@ Jo «sostapilio» jieškota net keliose Žemaičių vietose.
 - t-001
   global_id: t-28563
   teiginys: 'Mindaugo sostapilio ieškota keliose Žemaičių vietose.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]'
   pagrindžia:
     - c-001
 
@@ -53,7 +55,3 @@ Jo «sostapilio» jieškota net keliose Žemaičių vietose.
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]

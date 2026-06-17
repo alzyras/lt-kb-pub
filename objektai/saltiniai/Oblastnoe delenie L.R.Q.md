@@ -28,6 +28,9 @@ iš Liubavski, Oblastnoe delenie L.R.Q.
 - t-001
   global_id: t-36089
   teiginys: 'Liubavskio „Oblastnoe delenie L.R.Q.“ buvo išleista Maskvoje 1892 m.'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1892 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

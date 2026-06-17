@@ -4,10 +4,12 @@ pavadinimas: 'Olimpiniai medaliai'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
+  - '1988 m.'
+  - '1991 m.'
   - '1992 m.'
   - '1996 m.'
   - '2000 m.'
-date_start: '1992'
+date_start: '1988'
 date_end: '2000'
 sukurta: ''
 atnaujinta: ''
@@ -49,6 +51,11 @@ Nenurodyta
 - t-001
   global_id: t-19574
   teiginys: '1991 m. rugpjūtį Tarptautinis olimpinis komitetas atkūrė Lietuvos tautinio olimpinio komiteto tarptautines teises.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir tiksliai perteikia citatos faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Tarptautinis olimpinis komitetas|Tarptautinis olimpinis komitetas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: po 1988 m.; įvykio data: 1988 m.; įvykio data: 1991 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys ir tiksliai perteikia citatos faktą.'
   pagrindžia:
     - c-002
 
@@ -56,6 +63,11 @@ Nenurodyta
 - t-002
   global_id: t-19575
   teiginys: 'Barselonos olimpinėse žaidynėse buvo iškovotas pirmasis aukso medalis nepriklausomai Lietuvai.'
+  sudarymo_pagrindimas: 'Citata nepateikia Romo Ubarto vardo, todėl reikia pašalinti nepagrįstą detalę.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Romas Ubartas|Romas Ubartas]]; mentioned_place: Barselona; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1992 m.; įvykio data: 2000 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata nepateikia Romo Ubarto vardo, todėl reikia pašalinti nepagrįstą detalę.'
   pagrindžia:
     - c-001
 
@@ -63,6 +75,11 @@ Nenurodyta
 - t-003
   global_id: t-19576
   teiginys: 'Lietuvos vyrų krepšinio rinktinė 1992, 1996 ir 2000 m. olimpinėse žaidynėse iškovojo bronzos medalius.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie olimpinius medalius.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos vyrų krepšinio rinktinė|Lietuvos vyrų krepšinio rinktinė]]; mentioned_person: [[objektai/asmenys/Romas Ubartas|Romas Ubartas]]; mentioned_place: Barselona; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1992 m.; įvykio data: 2000 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie olimpinius medalius.'
   pagrindžia:
     - c-001
 
@@ -99,18 +116,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/simbolis]]
-
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Romas Ubartas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Lietuvos vyrų krepšinio rinktinė]]
-- [[objektai/grupes/Tarptautinis olimpinis komitetas|Tarptautinis olimpinis komitetas (institucija)]]
-- [[objektai/paprociai/Lietuvos sportininkų atsisakymas dalyvauti SSRS rinktinėse ir atstovavimas Lietuvai]]
-- [[objektai/ivykiai/Lietuvos tautinio olimpinio komiteto tarptautinių teisių atkūrimas (1991 m. rugpjūtis)]]
-- [[objektai/grupes/Lietuvos tautinis olimpinis komitetas|Lietuvos tautinis olimpinis komitetas (institucija)]]
-- [[objektai/ivykiai/Lietuvos vyrų krepšinio rinktinės olimpiniai bronzos medaliai (1992, 1996 ir 2000 m.)]]

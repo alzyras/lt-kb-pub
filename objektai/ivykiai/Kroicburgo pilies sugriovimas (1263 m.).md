@@ -44,6 +44,12 @@ Nenurodyta
 - t-001
   global_id: t-62344
   teiginys: '1263 m. notangai trejus metus puolė apsuptą Kroicburgo pilį, naudodami tris apgulos mašinas ir tris kuorus.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai paremtas citata apie notangų apgultį ir puolimo priemones.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_object: [[objektai/daiktai/Kalavijai|Kalavijai]]; mentioned_object: [[objektai/daiktai/Kuorai|Kuorai]]; mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_place: Kroicburgas; mentioned_place: Prūsai'
+  temporaliniai_duomenys: 'įvykio data: 1263 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir tiesiogiai paremtas citata apie notangų apgultį ir puolimo priemones.'
   pagrindžia:
     - c-001
 
@@ -51,6 +57,11 @@ Nenurodyta
 - t-002
   global_id: t-183936
   teiginys: 'Maisto pristigę Kroicburgo broliai ir jų šeimyna naktį slapta pasitraukė iš pilies, o prūsai juos pasivijo ir išžudė beveik visus.'
+  teiginio_tipas: 'saltinio_teiginys'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys aiškiai perteikia citatoje nurodytą pasitraukimą iš pilies ir beveik visų išžudymą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kalavijai|Kalavijai]]; mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_place: Kroicburgas; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
 
@@ -76,9 +87,3 @@ Nenurodyta
   pagrindžia:
     - t-001
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Kalavijai]]
-- [[objektai/daiktai/Vytis]]
-- [[objektai/grupes/Notangai]]

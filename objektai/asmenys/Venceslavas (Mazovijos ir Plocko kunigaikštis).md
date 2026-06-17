@@ -15,6 +15,7 @@ tags:
   - dokumentas
   - kunigaikštis
   - ordinas
+  - sutartis
 amziai:
   - 'XIV'
 periodo_grupes:
@@ -32,6 +33,12 @@ Savo dviejuose laiškuose jį vadina dominus Bonizlaus dux Masovie [Bonislavas, 
 - t-001
   global_id: t-87880
   teiginys: 'Venceslavas tuo tarpsniu valdė Mazoviją ir Plocką, o 1321 m. sudarė sutartį su kryžiuočių Ordinu.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Venceslavo valdžią ir sutartį.'
+  susije_objektai: 'territory: Mazovija; territory: Plockas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Mazovija; mentioned_place: Plockas'
+  semantiniai_rysiai: '[[objektai/asmenys/Venceslavas (Mazovijos ir Plocko kunigaikštis)|Venceslavas (Mazovijos ir Plocko kunigaikštis)]] valdė teritoriją Mazovija; [[objektai/asmenys/Venceslavas (Mazovijos ir Plocko kunigaikštis)|Venceslavas (Mazovijos ir Plocko kunigaikštis)]] valdė teritoriją Plockas'
+  temporaliniai_duomenys: 'valdymo laikotarpis: 1321 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Venceslavas (Mazovijos ir Plocko kunigaikštis) valdė teritoriją Mazovija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Venceslavas (Mazovijos ir Plocko kunigaikštis) valdė teritoriją Plockas“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie Venceslavo valdžią ir sutartį.'
   pagrindžia:
     - c-001
 
@@ -61,5 +68,5 @@ Savo dviejuose laiškuose jį vadina dominus Bonizlaus dux Masovie [Bonislavas, 
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
+- Venceslavas (Mazovijos ir Plocko kunigaikštis) valde_teritorija [[objektai/vietos/Mazovija]]
+- Venceslavas (Mazovijos ir Plocko kunigaikštis) valde_teritorija [[objektai/vietos/Plockas]]

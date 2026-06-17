@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Petras iš Dusburgo dedikacijoje mini Jėzaus Kristaus darbus, kuriuos aiškino praeities šventieji tėvai. Jėzus Kristus skelbti ir savo stebuklus, nes jie galingi. Jėzus Kristus, pasak dedikacijos, stebuklingus darbus nuveikė pats arba per savo mokinius.
+Dusburgietis teigia, kad kiekvienam pastabiam žmogui žinoma, kaip kruopščiai ir rūpestingai aiškino praeityje šventieji tėvai stebuklingus mūsų viešpaties Jėzaus Kristaus darbus, kuriuos jis teikėsi nuveikti arba pats, arba per savo mokinius savo šlovei bei garbei ir dabartinėms bei. Dusburgietis teigia, kad jėzus Kristus skelbti ir savo stebuklus, nes jie galingi. Dusburgietis teigia, kad septyni Teutonų ordino broliai su keliais ginklanešiais, įsirengę Kulmo žemėje, kaip jau esame sakę, kuorą aukštai ąžuole, ne tik iš karto išdrįso užpulti tokią turtingą, tokią nesuskaitomą gausybę pagonių [gentium], bet ilgainiui, per penkiasdešimt trejus.
 
 ## Teiginiai
 
@@ -23,6 +23,8 @@ Petras iš Dusburgo dedikacijoje mini Jėzaus Kristaus darbus, kuriuos aiškino 
 - t-001
   global_id: t-89876
   teiginys: 'Petras iš Dusburgo dedikacijoje mini Jėzaus Kristaus darbus, kuriuos aiškino praeities šventieji tėvai.'
+  sudarymo_pagrindimas: 'Pradinis teiginys kopijavo antraštės ir dedikacijos fragmentus, todėl perrašytas pagal citatos faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/posakiai/apreikšti dievo darbus yra šlovinga|apreikšti dievo darbus yra šlovinga]]; mentioned_person: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_person: [[objektai/asmenys/Petras iš Dusburgo|Petras iš Dusburgo]]; mentioned_place: Jeruzalė; mentioned_place: Prūsija'
   pagrindžia:
     - c-002
 
@@ -30,6 +32,7 @@ Petras iš Dusburgo dedikacijoje mini Jėzaus Kristaus darbus, kuriuos aiškino 
 - t-002
   global_id: t-89877
   teiginys: 'Jėzus Kristus skelbti ir savo stebuklus, nes jie galingi.'
+  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
   pagrindžia:
     - c-001
 
@@ -37,6 +40,8 @@ Petras iš Dusburgo dedikacijoje mini Jėzaus Kristaus darbus, kuriuos aiškino 
 - t-003
   global_id: t-89878
   teiginys: 'Jėzus Kristus, pasak dedikacijos, stebuklingus darbus nuveikė pats arba per savo mokinius.'
+  sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir nutrūkęs, bet citata palaiko glaustesnį faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/posakiai/apreikšti dievo darbus yra šlovinga|apreikšti dievo darbus yra šlovinga]]; mentioned_place: Jeruzalė; mentioned_place: Prūsija'
   pagrindžia:
     - c-002
 
@@ -44,9 +49,11 @@ Petras iš Dusburgo dedikacijoje mini Jėzaus Kristaus darbus, kuriuos aiškino 
 - t-004
   global_id: t-89879
   teiginys: 'Jėzus Kristus įvardijamas kaip pagalbininkas Teutonų ordino broliams per 53 metus palaužiant prūsus.'
+  sudarymo_pagrindimas: 'Citata sieja prūsų palaužimą su Viešpaties Jėzaus Kristaus pagalba.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_place: Kulmas; mentioned_place: Prūsai'
   pagrindžia:
     - c-003
-
+- susijęs iš [[objektai/asmenys/Petras Atsiskyrėlis.md#claim-t-90007|Petras Atsiskyrėlis]]: Pasak Dusburgiečio, Petrui Atsiskyrėliui sapne pasirodęs Jėzus Kristus įpareigojo jį kreiptis į popiežių ir Vakarų valdovus dėl Šventosios Žemės išvadavimo.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -109,14 +116,3 @@ Petras iš Dusburgo dedikacijoje mini Jėzaus Kristaus darbus, kuriuos aiškino 
   statusas: verified
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Teutonai]]
-- [[objektai/posakiai/apreikšti dievo darbus yra šlovinga]]
-- [[objektai/zodynas/pagonybė]]
-- [[objektai/autoriai/Dusburgas]]
-- [[objektai/asmenys/Petras iš Dusburgo|Petras iš Dusburgo (kunigas)]]
-- [[objektai/daiktai/Kuoras aukštai ąžuole]]
-- [[objektai/autoriai/Petras Dusburgietis]]
-- [[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]

@@ -32,6 +32,11 @@ Dusburgietis teigia, kad apie apaštališkojo sosto legatus ir taiką, padarytą
 - t-001
   global_id: t-60250
   teiginys: 'Bernardas, Šv. Teofrido vienuolyno abatas, 1324 m. buvo popiežiaus Jono XXII pasiųstas į Livoniją kaip legatas.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nemini Bernardo ir turi antraštės bei OCR triukšmo.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/legatai|legatai]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_person: [[objektai/asmenys/Benediktas|Benediktas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Livonija; mentioned_place: Ryga; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1324 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys nemini Bernardo ir turi antraštės bei OCR triukšmo.'
   pagrindžia:
     - c-001
 
@@ -39,6 +44,11 @@ Dusburgietis teigia, kad apie apaštališkojo sosto legatus ir taiką, padarytą
 - t-002
   global_id: t-184674
   teiginys: 'Šv. Teofrido vienuolyno abatas Bernardas kartu su Alėto vyskupu Baltramiejumi tapo pasiuntiniu taikos ir krikšto reikalu.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis teiginys negramatiškas, o citata pagrindžia Bernardo pasiuntinio vaidmenį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Bernardas|Bernardas]]; mentioned_place: Livonija'
   pagrindžia:
     - c-002
 
@@ -87,11 +97,3 @@ Dusburgietis teigia, kad apie apaštališkojo sosto legatus ir taiką, padarytą
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/zodynas/legatai]]
-- [[objektai/zodynas/netikėliai]]

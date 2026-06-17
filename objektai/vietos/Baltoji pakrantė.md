@@ -21,6 +21,8 @@ Metraščių liudijimu, šalia Mėlynųjų Vandenų buvo nukariauta ir Baltoji p
 - t-001
   global_id: t-41613
   teiginys: 'Metraščių liudijimu, šalia Mėlynųjų Vandenų buvo nukariauta ir Baltoji pakrantė („Beloberežė“).'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas faktinis sakinys apie objektą ir remiasi citata.'
+  susije_objektai: 'mentioned_place: Dniepras'
   pagrindžia:
     - c-001
 
@@ -28,6 +30,7 @@ Metraščių liudijimu, šalia Mėlynųjų Vandenų buvo nukariauta ir Baltoji p
 - t-002
   global_id: t-41614
   teiginys: 'Senoji Baltoji pakrantė laikyta šiaurine Juodosios jūros pakrante prie Dniepro-Bugo limano, nuo Dniepro žemupio iki Berezanės limano.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_place: Dniepras; mentioned_place: Dniestras'
   pagrindžia:
     - c-002
 

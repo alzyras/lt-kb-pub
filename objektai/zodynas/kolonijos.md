@@ -17,18 +17,22 @@ tags:
 Bet visos didžiosios Europos tautos jau seniai pradėjo tvarkyti savo emigraciją: jos stengiasi visus išeivius sukoncentruoti kitų kontinentų tuščiuose ar apytuščiuose plotuose, vadinamosiose kolonijose, kurios tampa antrąja tėvyne. Pietų Amerika dar tebėra didelių galimybių kraštas, dar dideli žemės plotai tebėra neišnaudoti, ir daugely vietų būtų galima įkurti grynai lietuviškų kolonijų, kokių kad turi kitos tautos.
 
 ## Teiginiai
+
 <a id="claim-t-70183"></a>
 - t-001
   global_id: t-70183
   teiginys: 'Pietų Amerikoje buvo laikoma įmanoma įkurti grynai lietuviškų kolonijų, kokių turėjo kitos tautos.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Pietų Amerika'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-
+- susijęs iš [[objektai/asmenys/Avigenas.md#claim-t-186096|Avigenas]]: Kolonijos Agripinos arkivyskupas Avigenas su kariuomene patraukė į žygį ir jai vadovavo lyg etmonas.
+- susijęs iš [[objektai/grupes/Kuršiai.md#claim-t-184514|Kuršiai]]: Staiga kilusi grėsmė išjudino daug kuršių, žemaičių ir lietuvių priešintis priešui, kurio pavojų rodė pavergtos Latvijos likimas.
+- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-184592|Žemaičiai]]: Staigi grėsmė išjudino kuršius, žemaičius ir lietuvius, kurie pirmajame susidūrime sutriuškino krikščionių karius.
+- susijęs iš Padauguvis: Nuo XI a., skandinavams liovusis lankytis Padauguvyje, į šį kraštą pradėjo atvykti vokiečių pirkliai.
+- susijęs iš [[objektai/zodynas/vokiečių ateivių valstybė.md#claim-t-70405|vokiečių ateivių valstybė]]: Livonijoje ateiviai krikščionys įkūrė apsaugos organizaciją, paprastai vadintą kalavijuočių ordinu.
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Pietų Amerikoje buvo laikoma įmanoma įkurti grynai lietuviškų kolonijų, kokių turėjo kitos tautos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Ypatingai daug lietuvių vargsta Pietų Amerikoje; čia labiausiai ir
@@ -37,19 +41,8 @@ Bet visos didžiosios Europos tautos jau seniai pradėjo tvarkyti savo emigracij
     Pietų Amerika dar tebėra didelių galimybių kraštas, dar dideli
     žemės plotai tebėra neišnaudoti, ir daugely vietų būtų galima įkurti
     grynai lietuviškų kolonijų, kokių kad turi kitos tautos.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/Adynos|adynos]]
-- [[objektai/asmenys/Avigenas]]
-- [[objektai/grupes/Kuršiai]]
-- [[objektai/zodynas/vokiečių ateivių valstybė]]
-- [[objektai/grupes/Žemaičiai]]

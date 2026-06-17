@@ -4,9 +4,10 @@ pavadinimas: 'Aukaimio pilies srities teriojimas grįžtant nuo Junigėdos (1292
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
+  - '1291 m.'
   - '1292 m.'
   - '1293 m.'
-date_start: '1292'
+date_start: '1291'
 date_end: '1293'
 sukurta: ''
 atnaujinta: ''
@@ -45,6 +46,11 @@ Nenurodyta
 - t-001
   global_id: t-31405
   teiginys: '1292 m. grįždami nuo Junigėdos kryžiuočiai teriojo 1291 m. sudegintos Aukaimio pilies sritį.'
+  sudarymo_pagrindimas: 'Žodis „pernai“ yra kontekstinis; citata leidžia jį pakeisti konkrečiais metais.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_place: Aukaimis; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1291 m.; įvykio data: 1292 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Žodis „pernai“ yra kontekstinis; citata leidžia jį pakeisti konkrečiais metais.'
   pagrindžia:
     - c-001
 
@@ -67,9 +73,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/Dusburgas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/zodynas/magistras]]

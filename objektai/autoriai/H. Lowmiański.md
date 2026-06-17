@@ -3,19 +3,15 @@ tipas: autorius
 pavadinimas: 'H. Lowmiański'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-datos:
-  - '1931 m.'
-  - '1932 m.'
-date_start: '1931'
-date_end: '1932'
+datos: []
+date_start: ''
+date_end: ''
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XX'
-periodo_grupes:
-  - 'modernioji Lietuva'
 tags:
   - autorius
+amziai: []
+periodo_grupes: []
 ---
 # H. Lowmiański
 
@@ -28,10 +24,16 @@ H. Lowmiański minimas kaip istorikas ir tyrėjas; šiame tome jo darbai pasitel
 - Studja nad początkami społeczeństwa i państwa litewskiego
 
 ## Teiginiai
+
 <a id="claim-t-05941"></a>
 - t-001
   global_id: t-05941
   teiginys: 'H. Lowmiański 1931–1932 m. Vilniuje išleido dviejų tomų veikalą „Studja nad początkami społeczeństwa i państwa litewskiego“.'
+  sudarymo_pagrindimas: 'Citata leidžia pridėti leidimo vietą, metus ir tomų skaičių.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/I. Lappo|I. Lappo]]; mentioned_place: Petrapilis; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1931-1932; įvykio data: 1932 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata leidžia pridėti leidimo vietą, metus ir tomų skaičių.'
   pagrindžia:
     - c-001
     - c-002
@@ -40,6 +42,11 @@ H. Lowmiański minimas kaip istorikas ir tyrėjas; šiame tome jo darbai pasitel
 - t-002
   global_id: t-05942
   teiginys: 'H. Lowmiański darė išvadą, kad 58 000 km² latvių gyvenamame plote buvo apie 145 000 gyventojų.'
+  sudarymo_pagrindimas: 'Reikia faktinio sakinio apie autorių, ne citavimo konteksto.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1000 m.; įvykio data: apie 1000 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
+  temporalinis_llm_pakomentavimas: 'Reikia faktinio sakinio apie autorių, ne citavimo konteksto.'
   pagrindžia:
     - c-004
 
@@ -47,10 +54,16 @@ H. Lowmiański minimas kaip istorikas ir tyrėjas; šiame tome jo darbai pasitel
 - t-003
   global_id: t-05943
   teiginys: 'H. Lowmiański išgarsėjo dviejų tomų veikalu apie Lietuvos visuomenės ir valstybės pradžią.'
+  sudarymo_pagrindimas: 'Pašalintas santykinis laikas ir pataisyta vardo forma.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
-
+- susijęs iš [[objektai/zodynas/apostazija.md#claim-t-05588|apostazija]]: Mindaugo apostazijos klausimas šaltinyje pateikiamas kaip viena pagrindinių problemų.
+- susijęs iš [[objektai/zodynas/apostazija.md#claim-t-05589|apostazija]]: Pagrindinės kronikos įsakmiai pažymi Mindaugo apostaziją.
+- susijęs iš [[objektai/zodynas/apostazija.md#claim-t-05591|apostazija]]: Mindaugo apostazijos klausimas siejamas su ginču, ar Mindaugas po Žemaičių laimėjimo prie Durbės atsimetė nuo krikščionybės.
+- susijęs iš [[objektai/zodynas/apostazija.md#claim-t-97278|apostazija]]: J. Stakauskas pripažino, kad nuomonė apie Mindaugo apostaziją po Durbės mūšio turi tam tikro pagrindo.
 ## Reikšmingi paminėjimai
+
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -63,6 +76,7 @@ H. Lowmiański minimas kaip istorikas ir tyrėjas; šiame tome jo darbai pasitel
   statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -76,6 +90,7 @@ H. Lowmiański minimas kaip istorikas ir tyrėjas; šiame tome jo darbai pasitel
   statusas: verified
   pagrindžia:
     - t-001
+
 - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -91,6 +106,7 @@ H. Lowmiański minimas kaip istorikas ir tyrėjas; šiame tome jo darbai pasitel
   statusas: verified
   pagrindžia:
     - t-003
+
 - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -106,10 +122,3 @@ H. Lowmiański minimas kaip istorikas ir tyrėjas; šiame tome jo darbai pasitel
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Baltai]]
-- [[objektai/grupes/Latviai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/apostazija]]

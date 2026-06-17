@@ -29,6 +29,11 @@ Kryczyński, St.: Tatarzy litewscy.
 - t-001
   global_id: t-29246
   teiginys: 'St. Kryczyński 1938 m. Varšuvoje paskelbė istorinę-etnografinę monografiją „Tatarzy litewscy“.'
+  sudarymo_pagrindimas: 'Bibliografinis įrašas pagrindžia autoriaus ir veikalo publikavimo faktą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/monografija|monografija]]; mentioned_person: [[objektai/autoriai/St. Kryczyński|St. Kryczyński]]; mentioned_place: Varšuva'
+  temporaliniai_duomenys: 'įvykio data: 1938 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Bibliografinis įrašas pagrindžia autoriaus ir veikalo publikavimo faktą.'
   pagrindžia:
     - c-001
 
@@ -46,7 +51,3 @@ Kryczyński, St.: Tatarzy litewscy.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/monografija]]

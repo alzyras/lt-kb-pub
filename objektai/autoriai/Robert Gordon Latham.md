@@ -3,15 +3,19 @@ tipas: autorius
 pavadinimas: 'Robert Gordon Latham'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-aliases:
-  - 'objektai/asmenys/Robert Gordon Latham'
-variantai:
-  - 'Robert Gordon Latham'
+datos:
+  - '1990 m.'
+date_start: '1990'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - mokslininkas
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'šiuolaikinė Lietuva'
 ---
 # Robert Gordon Latham
 
@@ -25,6 +29,7 @@ tags:
 - t-001
   global_id: t-75425
   teiginys: 'Robert Gordon Latham veikale „Descriptive Ethnology“ teigė, kad sanskrito giminingumas su lietuvių kalba yra ypač didelis.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Vidurio Europa|Vidurio Europa]]; mentioned_object: [[objektai/posakiai/„Be abejonės, sanskrito giminingumas su lietuvių kalba yra didesnis, negu su bet kuria kita kalba šioje žemėje“|„Be abejonės, sanskrito giminingumas su lietuvių kalba yra didesnis, negu su bet kuria kita kalba šioje žemėje“]]; mentioned_person: [[objektai/asmenys/Alfonsas (Kastilijos karalius)|Alfonsas (Kastilijos karalius)]]; mentioned_place: Europa; mentioned_place: Kaukazas; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -32,9 +37,26 @@ tags:
 - t-002
   global_id: t-75426
   teiginys: 'Robert Gordon Latham veikale „Descriptive Ethnology“ teigė, kad sanskritas ypač giminingas lietuvių kalbai.'
+  sudarymo_pagrindimas: 'Pradinis tekstas turi antraščių ir citatos fragmentų, todėl reikia glausto teiginio apie autoriaus išsakytą vertinimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Vidurio Europa|Vidurio Europa]]; mentioned_object: [[objektai/posakiai/„Be abejonės, sanskrito giminingumas su lietuvių kalba yra didesnis, negu su bet kuria kita kalba šioje žemėje“|„Be abejonės, sanskrito giminingumas su lietuvių kalba yra didesnis, negu su bet kuria kita kalba šioje žemėje“]]; mentioned_person: [[objektai/asmenys/Alfonsas (Kastilijos karalius)|Alfonsas (Kastilijos karalius)]]; mentioned_person: [[objektai/asmenys/Romanas (Briansko kunigaikštis)|Romanas (Briansko kunigaikštis)]]; mentioned_person: [[objektai/asmenys/Zenonas|Zenonas]]; mentioned_place: Europa; mentioned_place: Europos geografinis centras; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: po 1990 m.; įvykio data: 1990 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis tekstas turi antraščių ir citatos fragmentų, todėl reikia glausto teiginio apie autoriaus išsakytą vertinimą.'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/autoriai/Alfonsas Eidintas.md#claim-t-169877|Alfonsas Eidintas]]: Alfonsas Eidintas buvo leidinio „Lietuvos istorija“ redaktorius.
+- susijęs iš [[objektai/autoriai/Alfonsas Eidintas.md#claim-t-169880|Alfonsas Eidintas]]: Alfonsas Eidintas buvo „Lietuvos istorijos“ redaktorius.
+- susijęs iš [[objektai/posakiai/Be abejonės, sanskrito giminingumas su lietuvių kalba.md#claim-t-13491|Be abejonės, sanskrito giminingumas su lietuvių kalba]]: Posakyje sanskrito giminingumas su lietuvių kalba laikomas didesniu negu su bet kuria kita kalba žemėje.
+- susijęs iš [[objektai/posakiai/Be abejonės, sanskrito giminingumas su lietuvių kalba.md#claim-t-13492|Be abejonės, sanskrito giminingumas su lietuvių kalba]]: Posakis apie sanskrito giminingumą su lietuvių kalba priskiriamas Robertui Gordonui Lathamui.
+- susijęs iš [[objektai/posakiai/„Be abejonės, sanskrito giminingumas su lietuvių kalba yra didesnis, negu su bet kuria kita kalba šioje žemėje“.md#claim-t-75606|„Be abejonės, sanskrito giminingumas su lietuvių kalba yra didesnis, negu su bet kuria kita kalba šioje žemėje“]]: Posakis apie sanskrito giminingumą su lietuvių kalba pateiktas kaip Roberto Gordono Lathamo veikalo „Descriptive Ethnology“ citata.
+- susijęs iš [[objektai/posakiai/„Be abejonės, sanskrito giminingumas su lietuvių kalba yra didesnis, negu su bet kuria kita kalba šioje žemėje“.md#claim-t-75607|„Be abejonės, sanskrito giminingumas su lietuvių kalba yra didesnis, negu su bet kuria kita kalba šioje žemėje“]]: Citata apie sanskrito giminingumą su lietuvių kalba pateikta kaip Roberto Gordono Lathamo veikalo „Descriptive Ethnology“ ištrauka.
+- susijęs iš Descriptive Ethnology: „Descriptive Ethnology“ minima kaip britų mokslininko Robert Gordon Latham veikalas.
+- susijęs iš Descriptive Ethnology: Leidinyje prie „Descriptive Ethnology“ pateikta lietuviška pavadinimo forma „Aprašomoji etnologija“.
+- susijęs iš Descriptive Ethnology: Robertas Gordonas Lathamas „Descriptive Ethnology“ teigė, kad sanskritas yra artimesnis lietuvių kalbai nei bet kuriai kitai kalbai.
+- susijęs iš Descriptive Ethnology: Robertas Gordonas Lathamas „Descriptive Ethnology“ teigė, kad sanskritas yra artimesnis lietuvių kalbai nei bet kuriai kitai kalbai.
+- susijęs iš Europos geografinis centras: Prancūzijos nacionalinis geografijos institutas apskaičiavo, kad Europos centro statmuo yra 25 km į šiaurę nuo Vilniaus.
+- susijęs iš Europos geografinis centras: Geografinis Europos centras nurodomas Lietuvoje.
+- susijęs iš Lietuva: Lietuvoje yra geografinis Europos centras, kurį Prancūzijos nacionalinis geografijos institutas lokalizavo 25 km į šiaurę nuo Vilniaus.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -95,9 +117,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/posakiai/„Be abejonės, sanskrito giminingumas su lietuvių kalba yra didesnis, negu su bet kuria kita kalba šioje žemėje“]]
-- [[objektai/posakiai/Be abejonės, sanskrito giminingumas su lietuvių kalba]]

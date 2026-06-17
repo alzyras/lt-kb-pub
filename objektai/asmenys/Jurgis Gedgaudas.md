@@ -30,6 +30,11 @@ Jiems vadovavo du Vytauto didikai (Jurgis Gedgaudas, Jurgis Galminas) ir jo sekr
 - t-001
   global_id: t-29025
   teiginys: '1415 m. į Konstancą atsiųstiems pakrikštytiems žemaičių bajorams vadovavo Vytauto didikas Jurgis Gedgaudas.'
+  sudarymo_pagrindimas: 'Pradinis sakinys rėmėsi įvardžiu ir stokojо konteksto.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_person: [[objektai/asmenys/Gedgaudas|Gedgaudas]]; mentioned_person: [[objektai/asmenys/Mikalojus Sepienskis|Mikalojus Sepienskis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Konstanca'
+  temporaliniai_duomenys: 'įvykio data: 1415 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis sakinys rėmėsi įvardžiu ir stokojо konteksto.'
   pagrindžia:
     - c-001
 
@@ -47,7 +52,3 @@ Jiems vadovavo du Vytauto didikai (Jurgis Gedgaudas, Jurgis Galminas) ir jo sekr
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bajorai]]

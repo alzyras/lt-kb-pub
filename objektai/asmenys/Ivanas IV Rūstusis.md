@@ -5,9 +5,9 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1558 m.'
-  - '1559 m.'
+  - '1610 m.'
 date_start: '1558'
-date_end: '1559'
+date_end: '1610'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -17,6 +17,7 @@ tags:
   - valdovas
 amziai:
   - 'XVI'
+  - 'XVII'
 periodo_grupes:
   - 'LDK'
 ---
@@ -24,7 +25,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Mirus Ivano IV Rūsčiojo palikuonims Fiodorui ir mažamečiui Dmitrijui, nutrūko Rusiją valdžiusi Riurikaičių dinastija.
+1558 m. Ivanas IV Rūstusis užpuolė Livoniją ir užėmė dalį jos žemių, 1559 m. rusai siaubė gilesnes Livonijos sritis. pradžioje, kai mirus abiems Ivano IV (Rūsčiojo) palikuonims Fiodorui ir mažamečiui Dmitrijui, nutrūko Rusiją valdžiusių Riurikaičių dinastija ir šią šalį ištiko gili krizė.
 
 ## Teiginiai
 
@@ -32,6 +33,11 @@ Mirus Ivano IV Rūsčiojo palikuonims Fiodorui ir mažamečiui Dmitrijui, nutrū
 - t-001
   global_id: t-40147
   teiginys: 'Mirus Ivano IV Rūsčiojo palikuonims Fiodorui ir mažamečiui Dmitrijui, nutrūko Rusiją valdžiusi Riurikaičių dinastija.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir aiškiai susietas su asmeniu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Riurikaičių dinastija|Riurikaičių dinastija]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/bojarinai|bojarinai]]; mentioned_person: [[objektai/asmenys/Fiodoras|Fiodoras]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Rusija; mentioned_place: Smolenskas'
+  temporaliniai_duomenys: 'įvykio data: 1610 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir aiškiai susietas su asmeniu.'
   pagrindžia:
     - c-001
 
@@ -57,13 +63,3 @@ Mirus Ivano IV Rūsčiojo palikuonims Fiodorui ir mažamečiui Dmitrijui, nutrū
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/dinastija]]
-
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Riurikaičių dinastija]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/zodynas/bojarinai]]

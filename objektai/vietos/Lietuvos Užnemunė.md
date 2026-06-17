@@ -5,8 +5,9 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1863 m.'
+  - '1864 m.'
 date_start: '1863'
-date_end: ''
+date_end: '1864'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -14,6 +15,7 @@ tags:
   - kraštas
   - tauta
   - valstybė
+  - vieta
 amziai:
   - 'XIX'
 ---
@@ -21,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-Didžiojo Vilniaus Seimo rezoliucijoje Lietuvos autonomijos teritorijai priskirta ir Užnemunė, arba Suvalkija. Svarstant Lenkijos autonomiją Valstybės Dūmoje, lietuvių veikėjai siūlė nuo karalystės atskirti Lietuvos Užnemunę. Praėjus 20 metų po 1863 m. sukilimo, etninių lietuvių tautinį sąjūdį atnaujino inteligentai, kilę daugiausia iš Užnemunės krašto.
+Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių kalbai paliekant disciplinos statusą (žinoma, mokyti lietuviškai reikėjo iš vadovėlių, parašytų kirilika). Praėjus 20 metų nuo 1863 m. sukilimo etninių lietuvių tautinis sąjūdis prasidėjo iš naujo. Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietuvių žemės, įskaitant Lenkijos karalystei priklausiusią Užnemunę, arba Suvalkiją, ir tos žemės, kurios prie Vilniaus linksta.
 
 ## Teiginiai
 
@@ -29,6 +31,8 @@ Didžiojo Vilniaus Seimo rezoliucijoje Lietuvos autonomijos teritorijai priskirt
 - t-001
   global_id: t-76812
   teiginys: 'Didžiojo Vilniaus Seimo rezoliucijoje Lietuvos autonomijos teritorijai priskirta ir Užnemunė, arba Suvalkija.'
+  sudarymo_pagrindimas: 'Pradiniam tekstui trūko aiškaus predikato apie note objektą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Suvalkija; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 
@@ -36,6 +40,11 @@ Didžiojo Vilniaus Seimo rezoliucijoje Lietuvos autonomijos teritorijai priskirt
 - t-002
   global_id: t-76813
   teiginys: 'Svarstant Lenkijos autonomiją Valstybės Dūmoje, lietuvių veikėjai siūlė nuo karalystės atskirti Lietuvos Užnemunę.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Suvalkai; mentioned_place: Suvalkija; mentioned_place: Užnemunė'
+  temporaliniai_duomenys: 'įvykio data: po 1864 m.; įvykio data: 1864 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs.'
   pagrindžia:
     - c-005
 
@@ -43,6 +52,11 @@ Didžiojo Vilniaus Seimo rezoliucijoje Lietuvos autonomijos teritorijai priskirt
 - t-003
   global_id: t-76814
   teiginys: 'Praėjus 20 metų po 1863 m. sukilimo, etninių lietuvių tautinį sąjūdį atnaujino inteligentai, kilę daugiausia iš Užnemunės krašto.'
+  sudarymo_pagrindimas: 'Citata geriau paremia teiginį apie Užnemunės vaidmenį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Rusija; mentioned_place: Užnemunė'
+  temporaliniai_duomenys: 'įvykio data: po 1863 m.; įvykio data: 1863 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata geriau paremia teiginį apie Užnemunės vaidmenį.'
   pagrindžia:
     - c-002
 
@@ -50,6 +64,11 @@ Didžiojo Vilniaus Seimo rezoliucijoje Lietuvos autonomijos teritorijai priskirt
 - t-004
   global_id: t-76815
   teiginys: 'Po 1863 m. sukilimo etninių lietuvių tautinį sąjūdį atnaujino inteligentai, daugiausia kilę iš Užnemunės krašto.'
+  sudarymo_pagrindimas: 'Pašalintos perteklinės kabutės ir suformuluotas pilnas faktinis sakinys.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Rusija; mentioned_place: Užnemunė'
+  temporaliniai_duomenys: 'įvykio data: po 1863 m.; įvykio data: 1863 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintos perteklinės kabutės ir suformuluotas pilnas faktinis sakinys.'
   pagrindžia:
     - c-002
 
@@ -57,6 +76,8 @@ Didžiojo Vilniaus Seimo rezoliucijoje Lietuvos autonomijos teritorijai priskirt
 - t-005
   global_id: t-76816
   teiginys: 'Didžiojo Vilniaus seimo rezoliucijoje autonomijos teritorija apibrėžta kaip etnografinės lietuvių žemės, įskaitant Užnemunę arba Suvalkiją.'
+  sudarymo_pagrindimas: 'Pradiniame teiginyje neaiški nuoroda ir jis menkai siejasi su objektu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Suvalkija; mentioned_place: Užnemunė; mentioned_place: Vilnius'
   pagrindžia:
     - c-004
 
@@ -64,9 +85,16 @@ Didžiojo Vilniaus Seimo rezoliucijoje Lietuvos autonomijos teritorijai priskirt
 - t-006
   global_id: t-76817
   teiginys: 'Caro valdžia Lietuvos Užnemunėje nurodė kurti mokyklas rusų dėstomąja kalba, lietuvių kalbą palikdama disciplinos statusu.'
+  sudarymo_pagrindimas: 'Sakinys sutrumpintas ir aiškiau įvardytas veikėjas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/kirilika|kirilika]]; mentioned_object: [[objektai/posakiai/„lenkų suartinimo su rusais“|„lenkų suartinimo su rusais“]]; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Užnemunė'
   pagrindžia:
     - c-001
-
+- susijęs iš Augustavo gubernija: Lietuvos Užnemunė priklausė gubernijai, kuri iš pradžių vadinta Augustavo gubernija, o nuo 1867 m. – Suvalkų gubernija.
+- susijęs iš Suvalkų gubernija: Nuo 1867 m. Lietuvos Užnemunė priklausė Suvalkų gubernijai, apėmusiai maždaug šeštadalį dabartinės Lietuvos teritorijos.
+- susijęs iš Užnemunė: Lietuvos Užnemunė priklausė gubernijai, iš pradžių vadintai Augustavo, o nuo 1867 m. Suvalkų gubernija.
+- susijęs iš Augustavo gubernija: Lietuvos Užnemunė priklausė gubernijai, kuri iš pradžių vadinta Augustavo gubernija, o nuo 1867 m. – Suvalkų gubernija.
+- susijęs iš Suvalkų gubernija: Nuo 1867 m. Lietuvos Užnemunė priklausė Suvalkų gubernijai, apėmusiai maždaug šeštadalį dabartinės Lietuvos teritorijos.
+- susijęs iš Užnemunė: Lietuvos Užnemunė priklausė gubernijai, iš pradžių vadintai Augustavo, o nuo 1867 m. Suvalkų gubernija.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -172,3 +200,8 @@ Didžiojo Vilniaus Seimo rezoliucijoje Lietuvos autonomijos teritorijai priskirt
   statusas: verified
   pagrindžia:
     - t-007
+
+## Ryšiai
+- [[objektai/vietos/Augustavo gubernija]] priklause Lietuvos Užnemunė
+- [[objektai/vietos/Suvalkų gubernija]] priklause Lietuvos Užnemunė
+- [[objektai/vietos/Užnemunė]] priklause Lietuvos Užnemunė

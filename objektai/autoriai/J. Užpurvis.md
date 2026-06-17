@@ -22,7 +22,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Užpurvio parengtuose „Lietuvių tautos istorijos šaltiniuose“95.
+Dusburgietis teigia, kad užpurvio parengtuose „Lietuvių tautos istorijos šaltiniuose“95.
 
 ## Teiginiai
 
@@ -30,9 +30,16 @@ Užpurvio parengtuose „Lietuvių tautos istorijos šaltiniuose“95.
 - t-001
   global_id: t-62619
   teiginys: 'Užpurvio parengtuose „Lietuvių tautos istorijos šaltiniuose“95.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Prūsai'
+  temporaliniai_duomenys: 'įvykio data: iki 1324 m.; įvykio data: 1324 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'claim_quality_pipeline deterministic repair'
   pagrindžia:
     - c-001
-
+- susijęs iš Lietuvių karas su kryžiuočiais Redagavo J. Jurginis: „Lietuvių karas su kryžiuočiais“, redaguotas J. Jurginio, išleistas Vilniuje 1964 m.
+- susijęs iš Lietuvių tautos istoriniai šaltiniai Paruošė J. Užpurvis: J. Užpurvio parengti „Lietuvių tautos istoriniai šaltiniai“ išleisti Klaipėdoje 1938–1939 m.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -49,8 +56,3 @@ Užpurvio parengtuose „Lietuvių tautos istorijos šaltiniuose“95.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lietuviai]]

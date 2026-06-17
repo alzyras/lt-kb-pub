@@ -5,9 +5,9 @@ saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1289 m.'
-  - '1291 m.'
+  - '1298 m.'
 date_start: '1289'
-date_end: '1291'
+date_end: '1298'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -32,6 +32,8 @@ Dusburgietis teigia, kad bertoldas, vadinamas Briuhavenu visų vadinama nuo šal
 - t-001
   global_id: t-59876
   teiginys: 'Bertoldas su tūkstančiu Sembos vyrų nesėkmingai bandė sutrukdyti statybai, o vėliau sudegino Medrabos pilį.'
+  sudarymo_pagrindimas: 'Citata pagrindžia Bertoldo bandymą ir vėlesnį pilies sudeginimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_person: [[objektai/asmenys/Bertoldas|Bertoldas]]; mentioned_place: Medraba; mentioned_place: Semba'
   pagrindžia:
     - c-006
 
@@ -39,6 +41,11 @@ Dusburgietis teigia, kad bertoldas, vadinamas Briuhavenu visų vadinama nuo šal
 - t-002
   global_id: t-59877
   teiginys: '1291 m. Karaliaučiaus komtūras Bertoldas Bruhavenas su broliais ir 1500 vyrų sudegino tuščią Kolainių pilį.'
+  sudarymo_pagrindimas: 'Citata pagrindžia datą, pareigas, pajėgas ir veiksmą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_person: [[objektai/asmenys/Bertoldas|Bertoldas]]; mentioned_place: Junigeda; mentioned_place: Kolainiai'
+  temporaliniai_duomenys: 'įvykio data: 1291 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia datą, pareigas, pajėgas ir veiksmą.'
   pagrindžia:
     - c-002
 
@@ -46,6 +53,8 @@ Dusburgietis teigia, kad bertoldas, vadinamas Briuhavenu visų vadinama nuo šal
 - t-003
   global_id: t-59878
   teiginys: 'Bertoldas Briuhavenas neilgai vadovavo Ragainės piliai, nes netrukus buvo paskirtas Karaliaučiaus brolių komtūru.'
+  sudarymo_pagrindimas: 'Citata tiesiogiai pagrindžia pareigų pasikeitimą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Bertoldas|Bertoldas]]; mentioned_person: [[objektai/asmenys/Bertoldas Briuhavenas|Bertoldas Briuhavenas]]; mentioned_place: Ragainė'
   pagrindžia:
     - c-001
 
@@ -53,6 +62,11 @@ Dusburgietis teigia, kad bertoldas, vadinamas Briuhavenu visų vadinama nuo šal
 - t-004
   global_id: t-59879
   teiginys: '1298 m. didysis magistras Gotfridas Hohenlohė pasiuntė Karaliaučiaus komtūrą Bertoldą Briuhaveną į pagalbą Livonijos broliams.'
+  sudarymo_pagrindimas: 'Citata tiesiogiai pagrindžia Bertoldo pasiuntimą į Livoniją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Gotfridas Hohenlohė|Gotfridas Hohenlohė]]; mentioned_place: Goliubo pilis; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Ryga; mentioned_place: Torunė'
+  temporaliniai_duomenys: 'įvykio data: 1298 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata tiesiogiai pagrindžia Bertoldo pasiuntimą į Livoniją.'
   pagrindžia:
     - c-003
 
@@ -60,6 +74,11 @@ Dusburgietis teigia, kad bertoldas, vadinamas Briuhavenu visų vadinama nuo šal
 - t-005
   global_id: t-59880
   teiginys: '1289 m. Meinhardas Ragainės piliai ginti paliko iš Austrijos kilusį komtūrą Bertoldą Briuhaveną su 40 brolių ir 100 ginklanešių.'
+  sudarymo_pagrindimas: 'Citata aiškiai pagrindžia Bertoldo paskyrimą ginti Ragainę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Austrija; mentioned_place: Nemunas; mentioned_place: Prūsija; mentioned_place: Ragainė; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1289 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata aiškiai pagrindžia Bertoldo paskyrimą ginti Ragainę.'
   pagrindžia:
     - c-004
 
@@ -67,6 +86,8 @@ Dusburgietis teigia, kad bertoldas, vadinamas Briuhavenu visų vadinama nuo šal
 - t-006
   global_id: t-59881
   teiginys: 'Karaliaučiaus komtūras Bertoldas pavedė Henrikui Cutsvertui su kariuomene traukti link Lietuvos ir siaubti Vytenio žemes.'
+  sudarymo_pagrindimas: 'Citata pagrindžia Bertoldo įsakymą ir žygio tikslą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Bertoldas|Bertoldas]]; mentioned_person: [[objektai/asmenys/Vytenis|Vytenis]]; mentioned_place: Baiga; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Pilėnai'
   pagrindžia:
     - c-005
 
@@ -187,26 +208,3 @@ Dusburgietis teigia, kad bertoldas, vadinamas Briuhavenu visų vadinama nuo šal
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Bertoldas]]
-- [[objektai/grupes/Krikščionys]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Skalviai]]
-- [[objektai/grupes/Teutonai]]
-- [[objektai/asmenys/Vytenis]]
-- [[objektai/zodynas/komtūras]]
-- [[objektai/zodynas/netikėliai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/asmenys/Bertoldas Briuhavenas]]
-- [[objektai/asmenys/Gotfridas Hohenlohė]]
-- [[objektai/zodynas/didysis magistras]]
-- [[objektai/zodynas/ginklanešiai]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/asmenys/Henrikas Cutsvertas]]
-- [[objektai/asmenys/Meinhardas Saksas iš Kverfurto]]
-- [[objektai/ivykiai/Ragainės ir Skalvių pilių pastatymas]]
-- [[objektai/ivykiai/Rygos apsiausties pralaužimas (1298 m. birželio 29 d.)]]
-- [[objektai/grupes/Sembai]]
-- [[objektai/zodynas/ginklanešys]]

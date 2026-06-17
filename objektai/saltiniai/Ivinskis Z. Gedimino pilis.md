@@ -23,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-Z. Ivinskio „Gedimino pilis“ paskelbta „Lietuviškojoje enciklopedijoje“ 1940 m., aštuntame tome. Gedimino pilies lokalizacija buvusioje Pagraudės teritorijoje prie Graumenos laikoma patikimesne.
+Dusburgietis teigia, kad jūros aukštupio krante (Zajączkowski S., Studya..., p. 33—34 ir žemėlapis; SZM, p. 213; Ivinskis Z., Gedimino pilis, p. 1139— 1141; Pašuta V., Lietuvos..., p. 340). Dusburgietis teigia, kad ivinskis Z.
 
 ## Teiginiai
 
@@ -31,6 +31,11 @@ Z. Ivinskio „Gedimino pilis“ paskelbta „Lietuviškojoje enciklopedijoje“
 - t-001
   global_id: t-60981
   teiginys: 'Z. Ivinskio „Gedimino pilis“ paskelbta „Lietuviškojoje enciklopedijoje“ 1940 m., aštuntame tome.'
+  sudarymo_pagrindimas: 'Citata palaiko publikacijos autorių, šaltinį, metus ir tomą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/autoriai/Z. Ivinskis|Z. Ivinskis]]'
+  temporaliniai_duomenys: 'įvykio data: 1940 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko publikacijos autorių, šaltinį, metus ir tomą.'
   pagrindžia:
     - c-002
 
@@ -38,6 +43,8 @@ Z. Ivinskio „Gedimino pilis“ paskelbta „Lietuviškojoje enciklopedijoje“
 - t-002
   global_id: t-60982
   teiginys: 'Gedimino pilies lokalizacija buvusioje Pagraudės teritorijoje prie Graumenos laikoma patikimesne.'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo nutrūkęs ir su bibliografiniu triukšmu; citata leidžia suformuluoti pilną sakinį.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Pagraudė'
   pagrindžia:
     - c-001
 

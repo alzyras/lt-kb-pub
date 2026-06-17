@@ -38,6 +38,7 @@ Nenurodyta
 - t-001
   global_id: t-09849
   teiginys: 'Lietuviai, remiami maždaug 50 vokiečių kareivių, apėjo bolševikų dešinįjį sparną, paėmė 18 raudonarmiečių į nelaisvę, o bolševikai vakare paliko Kėdainių apylinkes ir traukėsi į Šėtą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Kaimas; mentioned_place: Kolupiai; mentioned_place: Kėdainiai'
   pagrindžia:
     - c-007
 
@@ -45,6 +46,8 @@ Nenurodyta
 - t-002
   global_id: t-09850
   teiginys: 'Kėdainių gynyba tapo pirmuoju Kėdainių įgulos savanorių kovos krikštu.'
+  sudarymo_pagrindimas: 'Pašalintas šaltinio boilerplate ir paliktas citatos paremtas faktas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]; mentioned_place: Kėdainiai'
   pagrindžia:
     - c-002
 
@@ -52,6 +55,9 @@ Nenurodyta
 - t-003
   global_id: t-09851
   teiginys: 'Vasario 8-osios rytą Kėdainių gynėjai sudarė 17 žmonių žvalgybos patrulį, kuriam vadovavo V. Vainauskas, o padėjėju paskirtas P. Lukšys.'
+  sudarymo_pagrindimas: 'Perrašyta tiksliau pagal citatos formuluotę.'
+  susije_objektai: 'event: [[objektai/ivykiai/Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)|Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)]]; mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Kėdainiai'
+  semantiniai_rysiai: '[[objektai/grupes/Rytas|Rytas]] dalyvavo mūšyje [[objektai/ivykiai/Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)|Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)]]; [[objektai/grupes/Vokiečiai|Vokiečiai]] dalyvavo mūšyje [[objektai/ivykiai/Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)|Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)]]'
   pagrindžia:
     - c-003
 
@@ -59,6 +65,8 @@ Nenurodyta
 - t-004
   global_id: t-09852
   teiginys: 'Kėdainių-Šėtos kautynėse vokiečių kulkosvaidininkas perėmė kulkosvaidį ir sustabdė bolševikų mėginimą apsupti žvalgus.'
+  sudarymo_pagrindimas: 'Teiginys papildytas įvykio pavadinimu ir išlaiko citatos faktus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
   pagrindžia:
     - c-005
 
@@ -66,6 +74,11 @@ Nenurodyta
 - t-005
   global_id: t-09853
   teiginys: 'Kėdainių-Šėtos kautynėse prie Taučiūnų kaimo Lukšio padrąsinti lietuviai išsiskleidė į grandį ir atidengė atsakomąją ugnį.'
+  sudarymo_pagrindimas: 'Teiginys susietas su įvykiu ir sutrumpintas iki enciklopedinio sakinio.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kaimas; mentioned_place: Taučiūnai'
+  temporaliniai_duomenys: 'įvykio data: 1919 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys susietas su įvykiu ir sutrumpintas iki enciklopedinio sakinio.'
   pagrindžia:
     - c-004
 
@@ -73,6 +86,8 @@ Nenurodyta
 - t-006
   global_id: t-09854
   teiginys: 'Kėdainių-Šėtos kautynėse P. Lukšys žuvo, kai į žvalgus pasipylė ugnis iš Taučiūnų dvaro.'
+  sudarymo_pagrindimas: 'Teiginys susietas su įvykiu ir pašalinta perteklinė aplinkybė.'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Taučiūnai'
   pagrindžia:
     - c-006
 
@@ -80,9 +95,19 @@ Nenurodyta
 - t-007
   global_id: t-09855
   teiginys: 'Kėdainių gynybai vadovavę J. Mikoliūnas ir K. Dragunevičius apie 80 savanorių šautuvų ugnimi sustabdė bolševikų puolimą.'
+  sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir jungia kelis faktus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]; mentioned_person: [[objektai/asmenys/J. Mikoliūnas|J. Mikoliūnas]]; mentioned_person: [[objektai/asmenys/K. Dragunevičius|K. Dragunevičius]]; mentioned_place: Kėdainiai'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/J. Mikoliūnas.md#claim-t-40159|J. Mikoliūnas]]: J. Mikoliūnas ir K. Dragunevičius, surinkę apie 80 savanorių, šautuvų ugnimi sustabdė priešo puolimą prie Kėdainių-Šėtos vieškelio.
+- susijęs iš [[objektai/asmenys/K. Dragunevičius.md#claim-t-40247|K. Dragunevičius]]: K. Dragunevičius ir J. Mikoliūnas Kėdainių gynyboje surinko apie 80 savanorių ir šautuvų ugnimi sustabdė priešo puolimą.
+- susijęs iš [[objektai/daiktai/Geltonas lankelis ant kepurės.md#claim-t-78650|Geltonas lankelis ant kepurės]]: Besikuriančioje Lietuvos kariuomenėje geltonas lankelis ant kepurės buvo įvestas kaip skiriamasis ženklas kartu su tautinių spalvų rankovės antsiuvu.
+- susijęs iš [[objektai/daiktai/Lietuvos kario savadarbė diržo sagtis.md#claim-t-78670|Lietuvos kario savadarbė diržo sagtis]]: Lietuvos kariai prie vokiškų sagčių pritvirtindavo Vytį, uždengdami imperijos karūną ir šūkį „GOT MIT UNS“.
+- susijęs iš [[objektai/daiktai/Lietuvos kario savadarbė diržo sagtis.md#claim-t-78671|Lietuvos kario savadarbė diržo sagtis]]: Lietuvos kariai prie vokiečių kariuomenės sagčių pritvirtindavo Vytį, taip uždengdami vokišką imperijos karūną.
+- susijęs iš [[objektai/daiktai/Lietuvos kariuomenės savanorio rankovės antsiuvas.md#claim-t-78672|Lietuvos kariuomenės savanorio rankovės antsiuvas]]: Pirmųjų Lietuvos karių skiriamasis ženklas buvo trikampis tautinių spalvų rankovės antsiuvas.
+- susijęs iš [[objektai/daiktai/Lietuvos kariuomenės savanorio rankovės antsiuvas.md#claim-t-78673|Lietuvos kariuomenės savanorio rankovės antsiuvas]]: Lietuvos kariuomenės savanorio rankovės antsiuvas buvo trikampis tautinių spalvų skiriamasis ženklas.
+- susijęs iš [[objektai/ivykiai/Kėdainių-Šėtos kautynės.md#claim-t-41296|Kėdainių-Šėtos kautynės]]: Kėdainių gynyba buvo pirmasis Kėdainių įgulos savanorių kovos krikštas.
+- susijęs iš [[objektai/ivykiai/Kėdainių-Šėtos kautynės.md#claim-t-41297|Kėdainių-Šėtos kautynės]]: Kėdainių gynyboje J. Mikoliūnas ir K. Dragunevičius apie 80 savanorių išskleidė abipus vieškelio Kėdainiai-Šėta ir sustabdė bolševikų puolimą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -224,18 +249,5 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Artilerija]]
-- [[objektai/asmenys/J. Mikoliūnas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Rytas]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/įgula]]
-- [[objektai/daiktai/Šautuvai]]
-- [[objektai/daiktai/Geltonas lankelis ant kepurės]]
-- [[objektai/asmenys/K. Dragunevičius]]
-- [[objektai/ivykiai/Kėdainių-Šėtos kautynės]]
-- [[objektai/daiktai/Lietuvos kario savadarbė diržo sagtis]]
-- [[objektai/daiktai/Lietuvos kariuomenės savanorio rankovės antsiuvas]]
-- [[objektai/grupes/Kėdainių įgula]]
-- [[objektai/asmenys/Povilas Lukšys]]
+- [[objektai/grupes/Rytas]] dalyvavo_musyje Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)
+- [[objektai/grupes/Vokiečiai]] dalyvavo_musyje Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)

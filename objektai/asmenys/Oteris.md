@@ -20,6 +20,9 @@ Dusburgietis teigia, kad pakliuvo į nelaisvę ir brolis Oteris, tačiau neilgai
 - t-001
   global_id: t-60398
   teiginys: 'Brolis Oteris pateko į nelaisvę, bet netrukus iš jos išsigelbėjo ir dešimt dienų keliavo be maisto.'
+  sudarymo_pagrindimas: 'Reikia pašalinti boilerplate ir aiškiau sujungti citatos faktus.'
+  susije_objektai: 'location: Notanga; mentioned_place: Notanga'
+  semantiniai_rysiai: '[[objektai/asmenys/Oteris|Oteris]] keliavo į Notanga'
   pagrindžia:
     - c-001
 
@@ -37,3 +40,6 @@ Dusburgietis teigia, kad pakliuvo į nelaisvę ir brolis Oteris, tačiau neilgai
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+- Oteris keliavo_i [[objektai/vietos/Notanga]]

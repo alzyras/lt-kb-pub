@@ -29,6 +29,8 @@ V, 143, įdėjo šiuos Pskovo kusią pas Vytautą: Pskowicy poslasza metraštini
 - t-001
   global_id: t-88081
   teiginys: 'Pskovo metraštininkas minėjo pskoviečių pasiuntinybę pas Vytautą.'
+  sudarymo_pagrindimas: 'Citata patvirtina Pskovo metraštininko žodžių turinį apie pasiuntinybę pas Vytautą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pskoviečiai|Pskoviečiai]]; mentioned_person: [[objektai/autoriai/Karamzin|Karamzin]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Pskovas; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -54,10 +56,3 @@ V, 143, įdėjo šiuos Pskovo kusią pas Vytautą: Pskowicy poslasza metraštini
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/metraštis]]
-
-### Susiję objektai
-- [[objektai/grupes/Pskoviečiai]]

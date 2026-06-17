@@ -19,7 +19,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Ivanas Fiodorovas buvo pirmasis Maskvos spaustuvininkas, kurį 1569 m. Zabluduve priglobė Chodkevičiai. Chodkevičiai priglobė Ivaną Fiodorovą Zabluduvo spaustuvėje, o jis nulėmė jos stačiatikišką pobūdį. 1569 m. Chodkevičiai Zabluduve priglobė pirmąjį Maskvos spaustuvininką Ivaną Fiodorovą, kuris nulėmė stačiatikišką spaustuvės pobūdį.
+Ivanas Fiodorovas pristatomas kaip pirmasis Maskvos spaustuvininkas, kurį Chodkevičiai priglobė Zabluduvo spaustuvėje.
 
 ## Teiginiai
 
@@ -27,6 +27,11 @@ Ivanas Fiodorovas buvo pirmasis Maskvos spaustuvininkas, kurį 1569 m. Zabluduve
 - t-001
   global_id: t-23198
   teiginys: 'Ivanas Fiodorovas buvo pirmasis Maskvos spaustuvininkas, kurį 1569 m. Zabluduve priglobė Chodkevičiai.'
+  sudarymo_pagrindimas: 'Citata palaiko išsamesnį enciklopedinį sakinį apie jo vaidmenį ir priglobimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_object: [[objektai/zodynas/reformacija|reformacija]]; mentioned_person: [[objektai/asmenys/Ivanas|Ivanas]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Maskva; mentioned_place: Nesvyžius; mentioned_place: Zabluduvas'
+  temporaliniai_duomenys: 'įvykio data: 1569 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko išsamesnį enciklopedinį sakinį apie jo vaidmenį ir priglobimą.'
   pagrindžia:
     - c-001
 
@@ -34,6 +39,9 @@ Ivanas Fiodorovas buvo pirmasis Maskvos spaustuvininkas, kurį 1569 m. Zabluduve
 - t-002
   global_id: t-23199
   teiginys: 'Chodkevičiai priglobė Ivaną Fiodorovą Zabluduvo spaustuvėje, o jis nulėmė jos stačiatikišką pobūdį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_object: [[objektai/zodynas/reformacija|reformacija]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Maskva; mentioned_place: Nesvyžius; mentioned_place: Zabluduvas'
+  temporaliniai_duomenys: 'įvykio data: 1569 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -41,6 +49,11 @@ Ivanas Fiodorovas buvo pirmasis Maskvos spaustuvininkas, kurį 1569 m. Zabluduve
 - t-003
   global_id: t-23200
   teiginys: '1569 m. Chodkevičiai Zabluduve priglobė pirmąjį Maskvos spaustuvininką Ivaną Fiodorovą, kuris nulėmė stačiatikišką spaustuvės pobūdį.'
+  sudarymo_pagrindimas: 'Reikia aiškiau susieti dalyvinę konstrukciją su Ivanu Fiodorovu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_object: [[objektai/zodynas/reformacija|reformacija]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Maskva; mentioned_place: Nesvyžius; mentioned_place: Zabluduvas'
+  temporaliniai_duomenys: 'įvykio data: 1569 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia aiškiau susieti dalyvinę konstrukciją su Ivanu Fiodorovu.'
   pagrindžia:
     - c-001
 
@@ -48,9 +61,16 @@ Ivanas Fiodorovas buvo pirmasis Maskvos spaustuvininkas, kurį 1569 m. Zabluduve
 - t-004
   global_id: t-26597
   teiginys: '1569 m. Chodkevičiai Zabluduve įsteigė spaustuvę ir priglobė pirmąjį Maskvos spaustuvininką Ivaną Fiodorovą.'
+  sudarymo_pagrindimas: 'Sakinys aiškus, gramatiškas ir paremtas citata.'
+  susije_objektai: 'object: Maskva; object: Nesvyžius; object: Zabluduvas; object: [[objektai/zodynas/reformacija|reformacija]]; mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_object: [[objektai/zodynas/reformacija|reformacija]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Maskva; mentioned_place: Nesvyžius; mentioned_place: Zabluduvas'
+  semantiniai_rysiai: '[[objektai/asmenys/Ivanas Fiodorovas|Ivanas Fiodorovas]] pastatė Maskva; [[objektai/asmenys/Ivanas Fiodorovas|Ivanas Fiodorovas]] pastatė Nesvyžius; [[objektai/asmenys/Ivanas Fiodorovas|Ivanas Fiodorovas]] pastatė Zabluduvas; [[objektai/asmenys/Ivanas Fiodorovas|Ivanas Fiodorovas]] pastatė [[objektai/zodynas/reformacija|reformacija]]'
+  temporaliniai_duomenys: 'pastatymo data: 1569 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Ivanas Fiodorovas pastatė Maskva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Ivanas Fiodorovas pastatė Nesvyžius“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Ivanas Fiodorovas pastatė Zabluduvas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Ivanas Fiodorovas pastatė reformacija“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Sakinys aiškus, gramatiškas ir paremtas citata.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/grupes/Chodkevičiai.md#claim-t-19665|Chodkevičiai]]: 1569 m. Chodkevičiai Zabluduve įsteigė spaustuvę ir priglobė pirmąjį Maskvos spaustuvininką Ivaną Fiodorovą.
+- susijęs iš Zabluduvas: 1569 m. Chodkevičiai Zabluduve įsteigė spaustuvę ir priglobė pirmąjį Maskvos spaustuvininką Ivaną Fiodorovą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -72,7 +92,7 @@ Ivanas Fiodorovas buvo pirmasis Maskvos spaustuvininkas, kurį 1569 m. Zabluduve
     - t-003
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/reformacija]]
-- [[objektai/grupes/Chodkevičiai]]
-- [[objektai/ivykiai/Radvilų ir Chodkevičių spaustuvių steigimai ir Brastos spaustuvės perkėlimas]]
+- Ivanas Fiodorovas pastate [[objektai/vietos/Maskva]]
+- Ivanas Fiodorovas pastate [[objektai/vietos/Nesvyžius]]
+- Ivanas Fiodorovas pastate [[objektai/vietos/Zabluduvas]]
+- Ivanas Fiodorovas pastate [[objektai/zodynas/reformacija]]

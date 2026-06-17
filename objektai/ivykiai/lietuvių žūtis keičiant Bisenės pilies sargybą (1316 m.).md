@@ -44,6 +44,8 @@ Nenurodyta
 - t-001
   global_id: t-59476
   teiginys: 'Fridrichas iš Libencelės su bendražygiais išžudė Bisenės pilies sargybą keitusius lietuvius; pabėgo tik penki vyrai.'
+  sudarymo_pagrindimas: 'Pradinis teiginys fragmentiškas, su antraštės triukšmu ir nebaigta mintimi.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_person: [[objektai/asmenys/Fridrichas iš Libencelės|Fridrichas iš Libencelės]]; mentioned_place: Bisenė; mentioned_place: Kristmemelis; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -69,9 +71,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Fridrichas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Fridrichas iš Libencelės|Fridrichas iš Libencelės (vyskupas, XIV a.)]]

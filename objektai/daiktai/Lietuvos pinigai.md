@@ -7,22 +7,26 @@ saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1387 m.'
+  - '1390 m.'
+  - '1565 m.'
   - '1707 m.'
+  - '1844 m.'
+  - '1922 m.'
 date_start: '1387'
-date_end: '1707'
+date_end: '1922'
 sukurta: ''
 atnaujinta: ''
 tags:
   - pinigai
 amziai:
   - 'XIV'
-  - 'XVIII'
+  - 'XX'
 ---
 # Lietuvos pinigai
 
 ## Santrauka
 
-Seniausieji Lietuvos sidabro pinigai buvo kapos, lietos iš sidabro tam tikrose formose ir randamos skirtingo ilgio, svorio bei ženklinimo. Kapomis vadintus Lietuvos pinigus greičiausiai liejo ne tik didžiojo kunigaikščio iždas, bet ir privatūs žmonės. Vytauto laikų pinigėliai dokumentuose minimi jau 1387 m., o jų nominalai buvo siejami su skatikais ir denarais.
+Šaltinio priedėlyje Lietuvos pinigai aprašomi nuo seniausių sidabrinių kapų iki Augusto II laikų monetų. Jame matyti monetų formų, nominalų, kalyklų, užrašų ir ženklų kaita, taip pat perėjimas nuo sidabrinių prie auksinių ir varinių pinigų.
 
 ## Pavadinimai šaltiniuose
 
@@ -52,6 +56,8 @@ Nenurodyta
 - t-001
   global_id: t-10727
   teiginys: 'Seniausieji Lietuvos sidabro pinigai buvo kapos, lietos iš sidabro tam tikrose formose ir randamos skirtingo ilgio, svorio bei ženklinimo.'
+  sudarymo_pagrindimas: 'Citata palaiko tikslesnį teiginį apie kapų formų ir ženklinimo įvairovę.'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -59,6 +65,11 @@ Nenurodyta
 - t-002
   global_id: t-10728
   teiginys: 'Kapomis vadintus Lietuvos pinigus greičiausiai liejo ne tik didžiojo kunigaikščio iždas, bet ir privatūs žmonės.'
+  sudarymo_pagrindimas: 'Teiginys pataisytas, kad aiškiai sietųsi su Lietuvos pinigais ir remtųsi citata.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Stulpai|Stulpai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Kaunas; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1844 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys pataisytas, kad aiškiai sietųsi su Lietuvos pinigais ir remtųsi citata.'
   pagrindžia:
     - c-002
 
@@ -66,6 +77,9 @@ Nenurodyta
 - t-003
   global_id: t-10729
   teiginys: 'Vytauto laikų pinigėliai dokumentuose minimi jau 1387 m., o jų nominalai buvo siejami su skatikais ir denarais.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vytauto laikų pinigėliai|Vytauto laikų pinigėliai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Kezmarkas; mentioned_place: Vengrija'
+  temporaliniai_duomenys: 'įvykio data: 1387 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-003
 
@@ -73,6 +87,7 @@ Nenurodyta
 - t-004
   global_id: t-10731
   teiginys: 'Aleksandro pinigų serijoje buvo pinigėlis, pusskatikis ir skatikas, tačiau nevykusiai nukalti skatikai nebuvo leidžiami į apyvartą.'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Praha'
   pagrindžia:
     - c-004
 
@@ -80,6 +95,7 @@ Nenurodyta
 - t-005
   global_id: t-12316
   teiginys: 'Totoriai turėjo atmušti Vytauto atvaizdą savo piniguose.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/duoklė|duoklė]]; mentioned_person: [[objektai/asmenys/Edyga|Edyga]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Vorskla'
   pagrindžia:
     - c-005
 
@@ -87,6 +103,8 @@ Nenurodyta
 - t-006
   global_id: t-12318
   teiginys: 'Vytauto laikais Jogailos ir Vytauto rūmuose kartais mokėta rubliais, o Lietuvoje kursavo ir buvo kalami čekų grašiai.'
+  sudarymo_pagrindimas: 'Patikslinta, kuriuose rūmuose buvo mokėta rubliais.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_object: [[objektai/zodynas/rublis|rublis]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-006
 
@@ -94,6 +112,11 @@ Nenurodyta
 - t-007
   global_id: t-12319
   teiginys: 'Lietuviški denariukai atsirado 1387-1390 m.; jų pusėse buvo ieties galas, kryžius ir Gedimino stulpai.'
+  sudarymo_pagrindimas: 'Citata palaiko faktą, tačiau pradinis sakinys sklandesnis su pataisyta skyryba.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/daiktai/Stulpai|Stulpai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1387-1390; įvykio data: 1390 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko faktą, tačiau pradinis sakinys sklandesnis su pataisyta skyryba.'
   pagrindžia:
     - c-007
 
@@ -101,6 +124,11 @@ Nenurodyta
 - t-008
   global_id: t-12320
   teiginys: 'Vytauto įsakymu Kaune kalti K pinigėliai turėjo Gedimino stulpus ir raidę K, o mokesčiai turėjo būti mokami Lietuvoje kaltais sidabriniais pinigais.'
+  sudarymo_pagrindimas: 'Sakinys pilnas, faktinis ir tiesiogiai paremtas citata apie Vytauto pinigus.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Stulpai|Stulpai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Kaunas; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1844 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Sakinys pilnas, faktinis ir tiesiogiai paremtas citata apie Vytauto pinigus.'
   pagrindžia:
     - c-008
 
@@ -108,6 +136,9 @@ Nenurodyta
 - t-009
   global_id: t-12874
   teiginys: 'Apie 1565 m. Zigmantas Augustas mėgino suvienodinti Lietuvos ir Lenkijos pinigų vertę, kaldindamas lenkiškos vertės monetas Tikocine.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_person: [[objektai/asmenys/Zigmantas Augustas|Zigmantas Augustas]]; mentioned_place: Kezmarkas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Tikocinas; mentioned_place: Vengrija'
+  temporaliniai_duomenys: 'įvykio data: 1565 m.; įvykio data: apie 1565 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   pagrindžia:
     - c-009
 
@@ -115,6 +146,8 @@ Nenurodyta
 - t-010
   global_id: t-103465
   teiginys: 'Lietuvoje tebekursavusias ostmarkes Lietuvos valdžia pavadino auksinais.'
+  sudarymo_pagrindimas: 'Perrašyta aiškiau į enciklopedinį sakinį su konkrečia vieta.'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-012
 
@@ -122,6 +155,8 @@ Nenurodyta
 - t-011
   global_id: t-103466
   teiginys: 'Jogailos ir Vytauto dokumente nurodyta mokesčius mokėti Lietuvoje kaltais sidabriniais pinigais, tikriausiai grašiais arba denariukais.'
+  sudarymo_pagrindimas: 'Reikia pašalinti OCR triukšmą ir sutrumpinti sakinį.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-014
 
@@ -129,6 +164,11 @@ Nenurodyta
 - t-012
   global_id: t-103467
   teiginys: 'Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Piniginio vieneto įstatymą, kuris skelbė, kad piniginis Lietuvos vienetas yra auksu paremtas litas, kurį sudaro 100 centų.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiksliai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Steigiamasis seimas|Steigiamasis seimas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1922 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiksliai paremtas citata.'
   pagrindžia:
     - c-011
 
@@ -136,6 +176,11 @@ Nenurodyta
 - t-013
   global_id: t-103468
   teiginys: 'Per nepriklausomos Lietuvos laikotarpį litas išlaikė stabilų kursą ir buvo pagrįstas vertybiniais popieriais bei 12 tonų aukso atsargomis.'
+  sudarymo_pagrindimas: 'Perrašyta sklandžiau, pašalinant gremėzdišką formuluotę.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/litas|litas]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1922 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Perrašyta sklandžiau, pašalinant gremėzdišką formuluotę.'
   pagrindžia:
     - c-010
 
@@ -143,9 +188,11 @@ Nenurodyta
 - t-014
   global_id: t-103469
   teiginys: 'Vytautas pareikalavo, kad totoriai pripažintų jį tėvu, mokėtų duoklę ir kaldintų jo atvaizdą savo piniguose.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai perteikia Vytauto reikalavimus totoriams, nurodytus citatoje.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/duoklė|duoklė]]; mentioned_person: [[objektai/asmenys/Edyga|Edyga]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-013
-
+- susijęs iš [[objektai/daiktai/Zigmanto Augusto pinigai.md#claim-t-65011|Zigmanto Augusto pinigai]]: Zigmantas Augustas apie 1565 m. Tikocine pradėjo kalti lenkiškos vertės pinigus, bet dėl nepasitenkinimo darbą nutraukė.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -375,34 +422,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-011
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Aleksandro pinigai]]
-- [[objektai/asmenys/Augustas II]]
-- [[objektai/daiktai/Vytauto laikų pinigėliai]]
-- [[objektai/daiktai/Zigmanto Augusto pinigai]]
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/asmenys/Edyga]]
-- [[objektai/asmenys/Gediminas]]
-- [[objektai/asmenys/Kaributas]]
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- [[objektai/grupes/Slavai]]
-- [[objektai/grupes/Steigiamasis seimas]]
-- [[objektai/daiktai/Stulpai]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/duoklė]]
-- [[objektai/zodynas/litas]]
-- [[objektai/zodynas/Miera|miera]]
-- [[objektai/zodynas/rublis]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/grupes/Čekai]]
-- [[objektai/asmenys/Augustas]]
-- [[objektai/daiktai/Kryžius]]
-- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
-- [[objektai/asmenys/Zigmantas Augustas]]
-- [[objektai/ivykiai/Piniginio vieneto įstatymo priėmimas ir lito įvedimas (1922 m.)]]
-- [[objektai/zodynas/denariukas]]
-- [[objektai/zodynas/grašis]]
-- [[objektai/zodynas/ostmarkės auksinai]]

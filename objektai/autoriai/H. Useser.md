@@ -28,6 +28,7 @@ Useser, H.: Götternamen, (cap. 7 : Solmseh, F.
 - t-001
   global_id: t-30632
   teiginys: 'H. Useseris nurodytas kaip veikalo „Götternamen“ autorius.'
+  susije_objektai: 'mentioned_place: Bonn; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

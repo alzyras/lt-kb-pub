@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-1947 m. pabaigoje Juozas Lukša-Skirmantas ir Kazimieras Pyplys-Mažytis per geležinę uždangą į laisvąjį pasaulį nugabeno partizanų dokumentus. 1947 m. pabaigoje partizanų dokumentų nugabenimas į Vakarus padėjo pirmą kartą užmegzti ryšius su pasitraukusių lietuvių organizacijomis.
+1947 m. pabaigoje partizanai Juozas Lukša-Skirmantas ir Kazimieras Pyplys-Mažytis per „geležinę uždangą“ į laisvąjį pasaulį nugabeno partizanų rašytus dokumentus: apygardų sudarytus okupacinės valdžios ištremtųjų, nužudytųjų ir suimtųjų sąrašus, partizanų. Pirmą kartą užmegzti ryšiai tarp partizanų ir į Vakarus pasitraukusių lietuvių ir jų organizacijų, Vakarai gavo tikrų žinių apie sovietų okupuotoje Lietuvoje susiklosčiusią situaciją ir partizanines kovas, tačiau lietuvių ginkluotos kovos neparėmė, grupę.
 
 ## Laikotarpis ir datos
 
@@ -45,6 +45,11 @@ Nenurodyta
 - t-001
   global_id: t-75255
   teiginys: '1947 m. pabaigoje Juozas Lukša-Skirmantas ir Kazimieras Pyplys-Mažytis per geležinę uždangą į laisvąjį pasaulį nugabeno partizanų dokumentus.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai pagrįstas citata.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Juozas Lukša-Skirmantas|Juozas Lukša-Skirmantas]]; mentioned_person: [[objektai/asmenys/Kazimieras Pyplys-Mažytis|Kazimieras Pyplys-Mažytis]]; mentioned_place: Lietuva; mentioned_place: SSRS'
+  temporaliniai_duomenys: 'įvykio data: 1947 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai pagrįstas citata.'
   pagrindžia:
     - c-001
 
@@ -52,6 +57,11 @@ Nenurodyta
 - t-002
   global_id: t-75257
   teiginys: '1947 m. pabaigoje partizanų dokumentų nugabenimas į Vakarus padėjo pirmą kartą užmegzti ryšius su pasitraukusių lietuvių organizacijomis.'
+  sudarymo_pagrindimas: 'Pirminis teiginys turi neaiškų ryšį su įvykiu, todėl jį reikia sukonkretinti.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Juozas Lukša-Skirmantas|Juozas Lukša-Skirmantas]]; mentioned_person: [[objektai/asmenys/Kazimieras Pyplys-Mažytis|Kazimieras Pyplys-Mažytis]]; mentioned_place: Lietuva; mentioned_place: SSRS'
+  temporaliniai_duomenys: 'įvykio data: 1947 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pirminis teiginys turi neaiškų ryšį su įvykiu, todėl jį reikia sukonkretinti.'
   pagrindžia:
     - c-002
 
@@ -101,12 +111,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Juozas Lukša-Skirmantas]]
-- [[objektai/asmenys/Kazimieras Pyplys-Mažytis]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Lietuvos partizanai]]
-- [[objektai/asmenys/Pijus XII]]
-- [[objektai/zodynas/geležinė uždanga]]

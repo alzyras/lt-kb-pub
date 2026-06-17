@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Priešingos kariuomenės viena kitą pastebėjo šiauriau Žirnajų ežero, ties vieta, kur išteka Žirnajos upelis. Tikroji mūšio vieta buvo prie Žirnajos upelio, tarp Žirnajų ežero ir Pabaisko, apie 9 km nuo Ukmergės.
+Jos viena kitą pastebėjo šiauriau Žirnajų ežero, kur išteka Žirnajos upelis.
 
 ## Teiginiai
 
@@ -23,16 +23,25 @@ Priešingos kariuomenės viena kitą pastebėjo šiauriau Žirnajų ežero, ties
 - t-001
   global_id: t-80621
   teiginys: 'Priešingos kariuomenės viena kitą pastebėjo šiauriau Žirnajų ežero, ties vieta, kur išteka Žirnajos upelis.'
+  sudarymo_pagrindimas: 'Reikia aiškesnio vietos ryšio su Žirnajos upeliu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)|Jokūbas (vėliau Urbonas IV)]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
 <a id="claim-t-187695"></a>
 - t-002
   global_id: t-187695
-  teiginys: 'Tikroji mūšio vieta buvo prie Žirnajos upelio, tarp Žirnajų ežero ir Pabaisko, apie 9 km nuo Ukmergės.'
+  teiginys: 'Mūšio vieta buvo prie Žirnajos upelio, tarp Žirnajų ežero ir Pabaisko, apie 9 km nuo Ukmergės ir 6 km nuo Šventosios.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie mūšio vietą prie Žirnajos upelio. Jame pašalintas citatos OCR triukšmas ir nepridėta informacijos apie nuorašus.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kaributas|Kaributas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Ukmergė'
   pagrindžia:
     - c-002
-
+- susijęs iš Gelvonai: Švitrigailos ir Ordino pajėgos iš Vilkmergės patraukė į pietus pro Pašilę keliu Gelvonų link.
+- susijęs iš Pašilė: Švitrigailos ir Ordino pajėgos iš Vilkmergės traukė į pietus pro Pašilę Gelvonų link.
+- susijęs iš Žirnajų ežeras: Švitrigailos ir Ordino pajėgos prie Žirnajų ežero judėjo vakarine pakrante, o Žygimanto kariuomenė traukė rytine ežero puse.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -57,7 +66,7 @@ Priešingos kariuomenės viena kitą pastebėjo šiauriau Žirnajų ežero, ties
     - t-001
 
 - c-002
-  santrauka: 'Tikroji mūšio vieta buvo prie Žirnajos upelio, tarp Žirnajų ežero ir Pabaisko, apie 9 km nuo Ukmergės.'
+  santrauka: 'Mūšio vieta buvo prie Žirnajos upelio, tarp Žirnajų ežero ir Pabaisko, apie 9 km nuo Ukmergės ir 6 km nuo Šventosios.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     TS Ir PS nuorašuose upė be vardo. Tikroji mūšio vieta buvo prie

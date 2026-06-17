@@ -11,19 +11,19 @@ date_start: '1930'
 date_end: '1955'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - autorius
+  - upė
 amziai:
   - 'XX'
 periodo_grupes:
   - 'modernioji Lietuva'
-tags:
-  - autorius
-  - upė
 ---
 # A. Salys
 
 ## Santrauka
 
-Dr. A. Salio straipsnis buvo įdėtas žurnalo „Kalba“ numeryje kartu su kitų autorių straipsniais. A. Salio Die žemaitischen Mundarten šiame šaltinyje cituojamas Žemaičių tarmių klausimu. A. Salys parašė straipsnį „Baltic Languages“, 1955 m. išspausdintą trečiame „Encyclopedia Britannica“ tome.
+A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žemaičių tarmių istorija, baltų kalbų apžvalga ir baltų santykių su slavų bei germanų kalbomis tyrimu. Dabartinis šaltinis jį papildomai mini tarp žurnalo „Kalba“ straipsnių autorių.
 
 ## Darbai
 
@@ -33,10 +33,13 @@ Dr. A. Salio straipsnis buvo įdėtas žurnalo „Kalba“ numeryje kartu su kit
 - straipsniai žurnale „Kalba"
 
 ## Teiginiai
+
 <a id="claim-t-12236"></a>
 - t-001
   global_id: t-12236
   teiginys: 'Dr. A. Salio straipsnis buvo įdėtas žurnalo „Kalba“ numeryje kartu su kitų autorių straipsniais.'
+  sudarymo_pagrindimas: 'Silpnas paminėjimas perrašytas į aiškų faktą apie autoriaus straipsnį.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/Kuzmickis|Kuzmickis]]'
   pagrindžia:
     - c-005
 
@@ -44,6 +47,7 @@ Dr. A. Salio straipsnis buvo įdėtas žurnalo „Kalba“ numeryje kartu su kit
 - t-002
   global_id: t-64513
   teiginys: 'A. Salio Die žemaitischen Mundarten šiame šaltinyje cituojamas Žemaičių tarmių klausimu.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/Z. Ivinskis|Z. Ivinskis]]; mentioned_place: Vysla'
   pagrindžia:
     - c-006
 
@@ -51,6 +55,11 @@ Dr. A. Salio straipsnis buvo įdėtas žurnalo „Kalba“ numeryje kartu su kit
 - t-003
   global_id: t-64514
   teiginys: 'A. Salys parašė straipsnį „Baltic Languages“, 1955 m. išspausdintą trečiame „Encyclopedia Britannica“ tome.'
+  sudarymo_pagrindimas: 'Citata palaiko A. Salio autorystę tik straipsniui „Baltic Languages“, o ne kitam nurodytam darbui.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
+  temporaliniai_duomenys: 'įvykio data: 1955 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko A. Salio autorystę tik straipsniui „Baltic Languages“, o ne kitam nurodytam darbui.'
   pagrindžia:
     - c-004
 
@@ -58,6 +67,8 @@ Dr. A. Salio straipsnis buvo įdėtas žurnalo „Kalba“ numeryje kartu su kit
 - t-004
   global_id: t-64515
   teiginys: 'A. Salys teigė, kad slavų ir baltų prokalbės išriedėjo iš dviejų artimų indoeuropiečių prokalbės tarmių.'
+  sudarymo_pagrindimas: 'Teiginys tinkamai priskiria Salio kalbinę poziciją ir remiasi citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Skandinavai|Skandinavai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_object: [[objektai/zodynas/prokalbė|prokalbė]]'
   pagrindžia:
     - c-002
 
@@ -65,6 +76,7 @@ Dr. A. Salio straipsnis buvo įdėtas žurnalo „Kalba“ numeryje kartu su kit
 - t-005
   global_id: t-64517
   teiginys: 'A. Salys parašė Baltic Languages.'
+  sudarymo_pagrindimas: 'Teiginys yra trumpas faktinis sakinys apie Salio publikaciją.'
   pagrindžia:
     - c-003
 
@@ -72,10 +84,20 @@ Dr. A. Salio straipsnis buvo įdėtas žurnalo „Kalba“ numeryje kartu su kit
 - t-006
   global_id: t-64518
   teiginys: 'A. Salys parašė Die žemaitischen Mundarten. Teil 1 : Geschichte des žemaitischen Sprachgebiets.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Salio darbą ir paremtas bibliografine citata.'
+  susije_objektai: 'mentioned_place: Kaunas'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/autoriai/Salys A.md#claim-t-64846|Salys A]]: A. Salys Ragainės vardo kilmę siejo su Lietuva.
+- susijęs iš [[objektai/grupes/Baltai.md#claim-t-96085|Baltai]]: Su slavais baltų protėviai, ypač iki geležies amžiaus pradžios, yra turėję artimų santykių.
+- susijęs iš Salys A. Die žemaitischen Mundarten: A. Salio „Die žemaitischen Mundarten“ 1 dalis paskelbta „Tauta ir žodis“ 6 knygoje 1930 m., p. 173–314.
+- susijęs iš Vokiškieji kryžiuočių kelių aprašymai: XIV a. pabaigos kryžiuočių kelių į Lietuvą aprašymuose Sešuvis vadintas Sessow, Sassow ir panašiomis formomis.
+- susijęs iš Ceklio sritis: Kuršiams priskiriama Ceklio sritis istorinių laikų pradžioje siekė dešinįjį Ventos krantą.
+- susijęs iš Kuršas: Istorinių laikų angoje kuršiai dar buvo užėmę platų Žemaičių šiaurės vakarų kampą ir Klaipėdos apylinkę.
+- susijęs iš Prūsija: Po Kryžiuočių ordino užkariavimo Prūsija galutinai imtas vadinti visas kraštas tarp Vyslos ir Nemuno.
+- susijęs iš [[objektai/zodynas/prūsas Prūsa Prūsija.md#claim-t-58793|prūsas Prūsa Prūsija]]: XIII a. pirmojoje pusėje Semba šaltiniuose minima atskirai nuo Prūsijos.
 ## Reikšmingi paminėjimai
+
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -88,6 +110,7 @@ Dr. A. Salio straipsnis buvo įdėtas žurnalo „Kalba“ numeryje kartu su kit
   statusas: verified
   pagrindžia:
     - t-006
+
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -104,6 +127,7 @@ Dr. A. Salio straipsnis buvo įdėtas žurnalo „Kalba“ numeryje kartu su kit
   statusas: verified
   pagrindžia:
     - t-004
+
 - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -116,6 +140,7 @@ Dr. A. Salio straipsnis buvo įdėtas žurnalo „Kalba“ numeryje kartu su kit
   statusas: verified
   pagrindžia:
     - t-005
+
 - c-004
   santrauka: 'A. Salys parašė straipsnį „Baltic Languages“, 1955 m. išspausdintą trečiame „Encyclopedia Britannica“ tome.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -130,6 +155,7 @@ Dr. A. Salio straipsnis buvo įdėtas žurnalo „Kalba“ numeryje kartu su kit
   statusas: verified
   pagrindžia:
     - t-003
+
 - c-005
   santrauka: 'Dr. A. Salio straipsnis buvo įdėtas žurnalo „Kalba“ numeryje kartu su kitų autorių straipsniais.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -143,6 +169,7 @@ Dr. A. Salio straipsnis buvo įdėtas žurnalo „Kalba“ numeryje kartu su kit
   statusas: verified
   pagrindžia:
     - t-001
+
 - c-006
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -164,11 +191,3 @@ Dr. A. Salio straipsnis buvo įdėtas žurnalo „Kalba“ numeryje kartu su kit
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Baltai]]
-- [[objektai/grupes/Skandinavai]]
-- [[objektai/grupes/Slavai]]
-- [[objektai/zodynas/prokalbė]]
-- [[objektai/zodynas/prūsas Prūsa Prūsija]]

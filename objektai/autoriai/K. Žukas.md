@@ -28,9 +28,13 @@ periodo_grupes:
 - t-001
   global_id: t-30754
   teiginys: 'K. Žukas 1965 m. paskelbė „Prof. K. Jablonskio bibliografiją“ leidinio „Bibliotekininkystės ir bibliografijos klausimai“ IV tome.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/autoriai/Z. Ivinskis|Z. Ivinskis]]'
+  temporaliniai_duomenys: 'įvykio data: 1965 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/K. Škirpa.md#claim-t-49400|K. Škirpa]]: Rugsėjo 5 d. K. Škirpos ir Jakaičio vadovaujamos pajėgos tęsė nevaisingą Suvalkų puolimą.
+- susijęs iš [[objektai/asmenys/K. Škirpa.md#claim-t-49401|K. Škirpa]]: Rugsėjo 5 d. K. Škirpos ir A. Jakaičio vadovaujamos pajėgos tęsė nevaisingą Suvalkų puolimą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -45,7 +49,3 @@ periodo_grupes:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/bibliografija]]

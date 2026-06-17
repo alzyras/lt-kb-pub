@@ -33,9 +33,17 @@ periodo_grupes:
 - t-001
   global_id: t-80722
   teiginys: '1894 m. Silvestras Žukauskas vedė liuteronę Zozefing Hasdorfaitę ir perėjo į evangelikų reformatų tikėjimą.'
+  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir paliktas citata paremtas faktas.'
+  temporaliniai_duomenys: 'įvykio data: 1894 m.; įvykio data: 1904-1905; įvykio data: 1905 m.; įvykio data: 1912 m.; įvykio data: 1914 m.; įvykio data: 1916 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas OCR triukšmas ir paliktas citata paremtas faktas.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/autoriai/J. Aničas.md#claim-t-39866|J. Aničas]]: J. Aničas parašė biografinę apybraižą „Generolas Silvestras Žukauskas (1861–1937)“.
+- susijęs iš Generolas Silvestras Žukauskas (1861-1937): Jono Aničo biografinė apybraiža „Generolas Silvestras Žukauskas (1861–1937)“ išleista Vilniuje 2006 m.
+- susijęs iš Ukmergė: 1919 m. gegužės 24 d. generolas Silvestras Žukauskas įsakė Kazio Ladygos vadovaujamai Ukmergės rinktinei žygiuoti Ukmergės-Daugpilio plentu ir užimti Uteną.
+- susijęs iš Ukmergė: 1919 m. gegužės 24 d. generolas Silvestras Žukauskas įsakė Kazio Ladygos vadovaujamai Ukmergės rinktinei žygiuoti Ukmergės-Daugpilio plentu ir užimti Uteną.
+- susijęs iš Ukmergė: 1919 m. gegužės 24 d. generolas Silvestras Žukauskas įsakė Kazio Ladygos vadovaujamai Ukmergės rinktinei žygiuoti Ukmergės-Daugpilio plentu ir užimti Uteną.
 ## Reikšmingi paminėjimai
 
 - c-001

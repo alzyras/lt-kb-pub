@@ -23,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-1950 m. lapkričio 25 d. panaikinus Algimanto apygardą, Šarūno ir Kunigaikščio Margio rinktinių kovotojai įtraukti į Vytauto apygardą. 1951 m. kovo 19 d. Pagaigalės kautynėse žuvo 10 Šiaurės Rytų Lietuvos srities ir Vytauto apygardos štabo narių.
+PASTOVIAIO) JONAVA) is [B Bagaslaviškis Giedraičiai "Maironio X, Už: é (ius ra VYTAUTO APYGARDA rinktiné N = MOS» Pabradė Aavovers 1 PAGAIGALĖS KAUTYNĖS Lu ka | š sii apygarda A ŠA 1951 m. kovo 19 d. MGB vidaus kariuomenės 137-ojo = AR 3 Kada UN Paberdė. “ ## Puslapis 245 ŠIMONIŲ GIRIOS APGULTIS 1949 X OKUPUOTOJI LIETUVA Mūšio priešistorė Algimanto apygarda įkurta 1947 m. gegužės 1 d. Rytų Lietuvos srities partizanų vadų sprendimu iš Panevėžio ir Rokiškio apskrityse veikusių partizanų junginių, kurie. 1950 m. lapkričio 25 d. srities vado įsakymu Algimanto apygarda buvo panaikinta.
 
 ## Teiginiai
 
@@ -31,6 +31,11 @@ amziai:
 - t-001
   global_id: t-41200
   teiginys: '1950 m. lapkričio 25 d. panaikinus Algimanto apygardą, Šarūno ir Kunigaikščio Margio rinktinių kovotojai įtraukti į Vytauto apygardą.'
+  sudarymo_pagrindimas: 'Citata leidžia patikslinti datą ir palikti aiškų faktą apie Vytauto apygardą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Algimanto apygarda|Algimanto apygarda]]; mentioned_person: [[objektai/asmenys/Vaižgantas|Vaižgantas]]; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1950 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata leidžia patikslinti datą ir palikti aiškų faktą apie Vytauto apygardą.'
   pagrindžia:
     - c-001
 
@@ -38,9 +43,17 @@ amziai:
 - t-002
   global_id: t-41201
   teiginys: '1951 m. kovo 19 d. Pagaigalės kautynėse žuvo 10 Šiaurės Rytų Lietuvos srities ir Vytauto apygardos štabo narių.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Vytauto apygardos štabo narių žūtį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Prisikėlimo apygarda|Prisikėlimo apygarda]]; mentioned_object: [[objektai/zodynas/Kariauna|Kariauna]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Giedraičiai; mentioned_place: Kaunas; mentioned_place: Labanoras; mentioned_place: Lietuva; mentioned_place: Maišiagala; mentioned_place: Pagaigalė; mentioned_place: Smilgiai; mentioned_place: Švenčionėliai; mentioned_place: Žiežmariai'
+  temporaliniai_duomenys: 'įvykio data: 1949 m.; įvykio data: 1951 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie Vytauto apygardos štabo narių žūtį.'
   pagrindžia:
     - c-002
-
+- susijęs iš Kiauneliškio geležinkelio stotis: 1951 m. kovo 19 d. MGB vidaus kariuomenės 137-ojo šaulių pulko kariai puolė partizanų žemines Kiauneliškio geležinkelio stoties apylinkėse.
+- susijęs iš Labanoro giria: 1951 m. kovo 19 d. Labanoro girioje MGB vidaus kariuomenės 137-ojo šaulių pulko kareiviai puolė dvi partizanų žemines.
+- susijęs iš Naručio apylinkės: 1951 m. kovo 19 d. MGB vidaus kariuomenės 137-ojo šaulių pulko kareiviai Naručio apylinkėse puolė dvi partizanų žemines.
+- susijęs iš Pagaigalė: 1951 m. kovo 19 d. MGB 137-ojo šaulių pulko kareiviai Pagaigalės kaimo apylinkėse puolė dvi partizanų žemines.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -85,14 +98,3 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Algimanto apygarda]]
-- [[objektai/grupes/Prisikėlimo apygarda]]
-- [[objektai/asmenys/Vaižgantas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Kunigaikščio Margio rinktinė]]
-- [[objektai/grupes/Tumo Vaižganto rinktinė]]
-- [[objektai/grupes/Vyčio apygarda]]
-- [[objektai/grupes/Žalioji rinktinė]]

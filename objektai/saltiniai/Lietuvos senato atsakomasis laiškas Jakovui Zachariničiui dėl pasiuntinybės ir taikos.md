@@ -18,6 +18,11 @@ Jakovui Zachariničiui Ivano vardu pareiškus skundą, Lietuvos senatas atsakė 
 - t-001
   global_id: t-186337
   teiginys: 'Jakovui Zachariničiui Ivano vardu pareiškus skundą, Lietuvos senatas atsakė laišku dėl pasiuntinių vykimo į Maskvą ir taikos.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata pagrindžia laiško adresavimo aplinkybes ir temą; pašalintos perteklinės detalės.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/senatas|senatas]]; mentioned_person: [[objektai/asmenys/Ivanas|Ivanas]]; mentioned_person: [[objektai/asmenys/Jakovas Zachariničius|Jakovas Zachariničius]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Maskva'
   pagrindžia:
     - c-001
 

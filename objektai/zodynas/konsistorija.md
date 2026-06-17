@@ -10,6 +10,7 @@ tags:
   - ordinas
   - popiežius
   - sąvoka
+  - vyskupas
 ---
 # konsistorija
 
@@ -23,9 +24,11 @@ Po slapto jų pokal­ bio veikiai buvo sukviesta vieša kardinolų konsistorija,
 - t-001
   global_id: t-86634
   teiginys: 'Vieša kardinolų konsistorija buvo sukviesta svarstyti Rygos arkivyskupo ginčą su Livonijos ordinu.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai atitinka citatoje nurodytą konsistorijos paskirtį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_object: [[objektai/zodynas/naujakrikščiai|naujakrikščiai]]; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_place: Avinjonas; mentioned_place: Dvina; mentioned_place: Livonija; mentioned_place: Ryga'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/paprociai/Popiežiaus kurijos ginčo svarstymas, sprendimo paskelbimas ir iškilminga priesaika vykdyti nurodymus.md#claim-t-87180|Popiežiaus kurijos ginčo svarstymas, sprendimo paskelbimas ir iškilminga priesaika vykdyti nurodymus]]: Popiežius su kardinolais viešoje konsistorijoje svarstė Rygos arkivyskupo ginčą su Livonijos ordinu ir paskelbė sprendimą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -60,11 +63,3 @@ Po slapto jų pokal­ bio veikiai buvo sukviesta vieša kardinolų konsistorija,
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/kapitula]]
-- [[objektai/zodynas/naujakrikščiai]]
-- [[objektai/zodynas/pagonybė]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/paprociai/Popiežiaus kurijos ginčo svarstymas, sprendimo paskelbimas ir iškilminga priesaika vykdyti nurodymus]]

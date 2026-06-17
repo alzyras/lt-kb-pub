@@ -27,9 +27,14 @@ amziai:
 - t-001
   global_id: t-38653
   teiginys: '1398 m. Vytautas prie Žemutinio Dniepro iš molio ir akmenų pastatė Tavanės pilį, pavadintą šv. Jono vardu.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, todėl atkurtas pilnas citata paremtas sakinys.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Dniepras'
+  temporaliniai_duomenys: 'pastatymo data: 1398 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs, todėl atkurtas pilnas citata paremtas sakinys.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/ivykiai/Vytauto žygiai prie Juodosios jūros ir Krymo (1397–1398 m.).md#claim-t-31500|Vytauto žygiai prie Juodosios jūros ir Krymo (1397–1398 m.)]]: 1398 m. antrajame žygyje Vytautas Dniepro žiotyse pastatė Tavanės tvirtovę.
 ## Reikšmingi paminėjimai
 
 - c-001

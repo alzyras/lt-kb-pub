@@ -3,29 +3,37 @@ tipas: saltinis
 pavadinimas: 'Vulfstano pasakojimas'
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+datos:
+  - '890 m.'
+date_start: '890'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
-aliases:
-  - 'objektai/saltiniai/Wulfstano pasakojimai'
-variantai:
-  - 'Wulfstano pasakojimai'
 tags:
   - dokumentas
   - ežeras
   - karas
   - kraštas
+amziai:
+  - 'IX'
 ---
 # Vulfstano pasakojimas
 
 ## Santrauka
 
-Vietovardis apie 890 m. Vulfstano užrašytas kaip Truso. Vulfstano pasakojime Aismarės vadinamos Estmere.
+Dusburgietis teigia, kad vietovardis apie 890 m. Vulfstano užrašytas kaip Truso. Dusburgietis teigia, kad apie vieną stebuklą Daug kartų Elbingo broliai garbingai kariavo su pagudėnais, o tų karų niekas nestengtų 241 Kalbama apie Aismares (Vulfstano Estmere — SRP, I, p. 733).
 
 ## Teiginiai
+
 <a id="claim-t-61016"></a>
 - t-001
   global_id: t-61016
   teiginys: 'Vietovardis apie 890 m. Vulfstano užrašytas kaip Truso.'
+  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Aistmarios; mentioned_place: Elbingas'
+  temporaliniai_duomenys: 'įvykio data: 890 m; įvykio data: apie 890 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
+  temporalinis_llm_pakomentavimas: 'claim_quality_pipeline deterministic repair'
   pagrindžia:
     - c-001
 
@@ -33,10 +41,13 @@ Vietovardis apie 890 m. Vulfstano užrašytas kaip Truso. Vulfstano pasakojime A
 - t-002
   global_id: t-61017
   teiginys: 'Vulfstano pasakojime Aismarės vadinamos Estmere.'
+  sudarymo_pagrindimas: 'Pirminis teiginys užterštas antrašte ir išnašomis, bet citata remia trumpą faktą apie Vulfstano vartotą pavadinimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_place: Aismares; mentioned_place: Elbingas; mentioned_place: Viena; mentioned_place: Vysla; mentioned_place: Širvinta'
   pagrindžia:
     - c-002
 
-## Bibliografiniai įrodymai
+## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Vietovardis apie 890 m. Vulfstano užrašytas kaip Truso.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -51,6 +62,7 @@ Vietovardis apie 890 m. Vulfstano užrašytas kaip Truso. Vulfstano pasakojime A
   statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Vulfstano pasakojime Aismarės vadinamos Estmere.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

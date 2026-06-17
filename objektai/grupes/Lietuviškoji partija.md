@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Smolenske buvo išžudytas Vytauto vietininkas ir lietuviškąją partiją palaikę bajorai.
+Jam padėjo jo uošvis, Riazaniaus kunigaikštis Olegas, ir rusiškoji bajorų partija.
 
 ## Teiginiai
 
@@ -23,6 +23,8 @@ Smolenske buvo išžudytas Vytauto vietininkas ir lietuviškąją partiją palai
 - t-001
   global_id: t-95931
   teiginys: 'Smolenske buvo išžudytas Vytauto vietininkas ir lietuviškąją partiją palaikę bajorai.'
+  sudarymo_pagrindimas: 'Reikia patikslinti, kad įvykis vyko Smolenske, ir sakinį padaryti sklandesnį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_person: [[objektai/asmenys/Sviatoslavas|Sviatoslavas]]; mentioned_place: Smolenskas'
   pagrindžia:
     - c-001
 
@@ -42,10 +44,3 @@ Smolenske buvo išžudytas Vytauto vietininkas ir lietuviškąją partiją palai
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bajorai]]
-- [[objektai/asmenys/Sviatoslavas]]
-- [[objektai/zodynas/vietininkas]]
-- [[objektai/grupes/Rusiškoji bajorų partija]]

@@ -28,6 +28,11 @@ Dusburgietis teigia, kad labuda G.
 - t-001
   global_id: t-61123
   teiginys: 'G. Labudos publikacija apie Kryžiuočių ordino santykį su Vokietijos imperija paskelbta 1951 m. Poznanės leidinyje „Czasopismo prawno-historyczne“.'
+  sudarymo_pagrindimas: 'Pradinė formuluotė fragmentiška; citata leidžia pateikti bibliografinį faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Poznanė; mentioned_place: Vokietija'
+  temporaliniai_duomenys: 'įvykio data: 1951 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinė formuluotė fragmentiška; citata leidžia pateikti bibliografinį faktą.'
   pagrindžia:
     - c-001
 

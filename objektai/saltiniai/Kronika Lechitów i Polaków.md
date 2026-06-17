@@ -31,6 +31,11 @@ Apie tai mini Kroni­ ka Lechitów i Polaków, parašyta Poznanės kustodo G o d
 - t-001
   global_id: t-88314
   teiginys: '„Kronika Lechitów i Polaków“ mini, kad 1253 m. Vitas buvo įšventintas pirmuoju Lietuvos vyskupu.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nusako šaltinio minimą faktą apie Vitą ir 1253 m.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/kustodas|kustodas]]; mentioned_person: [[objektai/asmenys/Pelka|Pelka]]; mentioned_person: [[objektai/asmenys/Vitas|Vitas]]; mentioned_place: Gniezno; mentioned_place: Lietuva; mentioned_place: Poznanė; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1253 m.; įvykio data: 1822 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako šaltinio minimą faktą apie Vitą ir 1253 m.'
   pagrindžia:
     - c-001
 

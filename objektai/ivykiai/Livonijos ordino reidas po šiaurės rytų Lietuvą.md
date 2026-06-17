@@ -4,9 +4,10 @@ pavadinimas: 'Livonijos ordino reidas po šiaurės rytų Lietuvą'
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 datos:
+  - '1432 m.'
   - '1433 m.'
-date_start: '1433'
-date_end: ''
+date_start: '1432'
+date_end: '1433'
 sukurta: ''
 atnaujinta: ''
 amziai:
@@ -16,7 +17,7 @@ amziai:
 
 ## Santrauka
 
-Redakcinė pastaba nurodo, kad reidas ėjo per Linkmenų, Tauragnų, Utenos ir Užpalių valsčius. Švitrigailos ir Livonijos ordino magistro Rutenbergo susitarimas susijungti Kurenece bendram žygiui į Vilnių nebuvo įgyvendintas. 1433 m. sausio 30–vasario 9 d. Livonijos kariuomenė surengė reidą po šiaurės rytų Lietuvą, o Švitrigaila pasiliko Lukomlyje telkti kariuomenės.
+Redakcinė pastaba nurodo, kad buvo sutarta 1433 m. sausio 25 d. Livonijos ordino magistrui įsiveržti į Lietuvą, o Švitrigailai žygiuoti nuo Vitebsko pusės. Redakcinė pastaba nurodo, kad abi pajėgos planavo susijungti 1433 m. vasario 15 d. Kurenece bendram žygiui į Vilnių.
 
 ## Laikotarpis ir datos
 
@@ -45,7 +46,13 @@ Nenurodyta
 <a id="claim-t-186743"></a>
 - t-001
   global_id: t-186743
-  teiginys: 'Redakcinė pastaba nurodo, kad reidas ėjo per Linkmenų, Tauragnų, Utenos ir Užpalių valsčius.'
+  teiginys: 'Livonijos kariuomenės reidas 1433 m. sausio 30–vasario 9 d. ėjo per Linkmenų, Tauragnų, Utenos ir Užpalių valsčius.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys paverstas savarankišku sakiniu su aiškiu objektu.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Utena; mentioned_place: Užpaliai'
+  temporaliniai_duomenys: 'įvykio data: 1433 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys paverstas savarankišku sakiniu su aiškiu objektu.'
   pagrindžia:
     - c-001
 
@@ -53,6 +60,12 @@ Nenurodyta
 - t-002
   global_id: t-186744
   teiginys: 'Švitrigailos ir Livonijos ordino magistro Rutenbergo susitarimas susijungti Kurenece bendram žygiui į Vilnių nebuvo įgyvendintas.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus ir tiesiogiai remiasi citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Daugpilis; mentioned_place: Kurenecas; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Vilnius; mentioned_place: Vitebskas'
+  temporaliniai_duomenys: 'įvykio data: 1432 m.; įvykio data: 1433 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus ir tiesiogiai remiasi citata.'
   pagrindžia:
     - c-002
 
@@ -60,13 +73,25 @@ Nenurodyta
 - t-003
   global_id: t-186745
   teiginys: '1433 m. sausio 30–vasario 9 d. Livonijos kariuomenė surengė reidą po šiaurės rytų Lietuvą, o Švitrigaila pasiliko Lukomlyje telkti kariuomenės.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, konkretus ir paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Lukomlis'
+  temporaliniai_duomenys: 'įvykio data: 1433 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, konkretus ir paremtas citata.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-186746"></a>
 - t-004
   global_id: t-186746
-  teiginys: 'Redakcinė pastaba nurodo, kad buvo sutarta 1433 m. sausio 25 d. Livonijos ordino magistrui įsiveržti į Lietuvą, o Švitrigailai žygiuoti nuo Vitebsko pusės.'
+  teiginys: '1433 m. sausio 25 d. buvo sutarta, kad Livonijos ordino magistras Rutenbergas įsiverš į Lietuvą, o Švitrigaila žygiuos nuo Vitebsko.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pašalintas redakcinis įvadas ir aiškiai įvardyti veikėjai.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Daugpilis; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Vitebskas'
+  temporaliniai_duomenys: 'įvykio data: 1432 m.; įvykio data: 1433 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas redakcinis įvadas ir aiškiai įvardyti veikėjai.'
   pagrindžia:
     - c-002
 
@@ -74,13 +99,25 @@ Nenurodyta
 - t-005
   global_id: t-186747
   teiginys: '1433 m. vasario 15 d. Livonijos ordino magistras Rutenbergas ir Švitrigaila turėjo susijungti Kurenece bendram žygiui į Vilnių.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Daugpilis; mentioned_place: Kurenecas; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Vilnius; mentioned_place: Vitebskas'
+  temporaliniai_duomenys: 'įvykio data: 1432 m.; įvykio data: 1433 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-186748"></a>
 - t-006
   global_id: t-186748
-  teiginys: 'Redakcinė pastaba nurodo, kad Livonijos kariuomenė 1433 m. sausio 30 d.–vasario 9 d. surengė reidą po šiaurės rytų Lietuvą.'
+  teiginys: '1433 m. sausio 30–vasario 9 d. Livonijos kariuomenė surengė reidą po šiaurės rytų Lietuvą.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pašalintas nereikalingas redakcinis įvadas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lietuva; mentioned_place: Livonija'
+  temporaliniai_duomenys: 'įvykio data: 1433 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas nereikalingas redakcinis įvadas.'
   pagrindžia:
     - c-001
 
@@ -119,11 +156,3 @@ Nenurodyta
     - t-004
     - t-005
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Livonijos ordinas]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/asmenys/Švitrigaila]]
-- [[objektai/zodynas/žygis]]

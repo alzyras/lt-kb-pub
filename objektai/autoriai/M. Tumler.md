@@ -3,10 +3,18 @@ tipas: autorius
 pavadinimas: 'M. Tumler'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+datos:
+  - '1955 m.'
+date_start: '1955'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'XX a.'
 ---
 # M. Tumler
 
@@ -20,6 +28,9 @@ TuDO = Tumler, M.
 - t-001
   global_id: t-30851
   teiginys: 'M. Tumleris 1955 m. Vienoje išleido veikalą „Der Deutsche Orden im Werden, Wachsen und Wirken bis 1400“.'
+  susije_objektai: 'mentioned_place: Maskva; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1955 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

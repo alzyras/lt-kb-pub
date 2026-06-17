@@ -28,6 +28,11 @@ Dusburgietis teigia, kad powierski J.
 - t-001
   global_id: t-61246
   teiginys: 'J. Powierskio veikalas „Stosunki polsko-pruskie do 1230 r.“ išleistas Torunėje 1968 m.'
+  sudarymo_pagrindimas: 'Citata pagrindžia trumpą bibliografinį faktą apie leidinį.'
+  susije_objektai: 'mentioned_place: Torunė'
+  temporaliniai_duomenys: 'įvykio data: 1968 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia trumpą bibliografinį faktą apie leidinį.'
   pagrindžia:
     - c-001
 

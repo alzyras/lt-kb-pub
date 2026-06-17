@@ -44,6 +44,8 @@ Nenurodyta
 - t-001
   global_id: t-24531
   teiginys: 'Vilniuje buvo pašalintas Lenino paminklas.'
+  sudarymo_pagrindimas: 'Teiginys yra trumpas, bet pilnas faktinis sakinys apie įvykį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/daiktai/Lenino paminklas Vilniuje|Lenino paminklas Vilniuje]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -66,10 +68,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/daiktai/Lenino paminklas Vilniuje]]
-- [[objektai/zodynas/Baltic Kindergarten]]
-- [[objektai/posakiai/„Baltic Kindergarten“]]

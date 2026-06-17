@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Aismarių nerija šaltinio rodyklėje nurodyta pavadinimu „Neria“. Aismarių nerija šaltinio rodyklėje nurodyta pavadinimu „Neria“.
+Dusburgietis teigia, kad gėlo vandens marios) Aismarių nerija (Neria) Aista, Aistija (plg.
 
 ## Teiginiai
 
@@ -20,9 +20,11 @@ Aismarių nerija šaltinio rodyklėje nurodyta pavadinimu „Neria“. Aismarių
 - t-001
   global_id: t-90276
   teiginys: 'Aismarių nerija šaltinio rodyklėje nurodyta pavadinimu „Neria“.'
+  sudarymo_pagrindimas: 'Pradinis tekstas yra nutrūkęs fragmentas; citata leidžia pateikti tik rodyklės faktą.'
+  susije_objektai: 'mentioned_place: Aistmarios; mentioned_place: Aizkrauklė; mentioned_place: Vysla'
   pagrindžia:
     - c-001
-
+- susijęs iš Kuršių nerija: Ordino lotyniškuose dokumentuose vardu Neria iš pradžių vadinta tik Aismarių nerija.
 ## Reikšmingi paminėjimai
 
 - c-001

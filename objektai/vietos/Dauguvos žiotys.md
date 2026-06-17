@@ -29,6 +29,11 @@ Todėl linkstama prie apytikrės datos – Lietuvos valstybė susikūrė apie 12
 - t-001
   global_id: t-77780
   teiginys: '1202 m. Dauguvos žiotyse susikūrė Kalavijuočių ordinas, vėliau pradėjęs užkariauti lybius, latvius, estus ir kuršius.'
+  sudarymo_pagrindimas: 'Pirminis teiginys per ilgas ir turi perteklinio konteksto apie Mindaugą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Estai|Estai]]; mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Dauguva; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1202 m.; įvykio data: 1240 m.; įvykio data: apie 1240 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
+  temporalinis_llm_pakomentavimas: 'Pirminis teiginys per ilgas ir turi perteklinio konteksto apie Mindaugą.'
   pagrindžia:
     - c-001
 

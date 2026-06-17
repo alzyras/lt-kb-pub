@@ -16,6 +16,7 @@ tags:
   - ivykis
   - karas
   - kraštas
+  - vyskupas
 amziai:
   - 'XVII'
   - 'XVIII'
@@ -24,7 +25,7 @@ amziai:
 
 ## Santrauka
 
-Valkininkų kautynės baigėsi Sapiegų pralaimėjimu, o jų kariuomenei vadovavęs Mykolas Sapiega buvo apsuptas ir pasidavė. Karolio Zikaro sudarytame leidinyje Valkininkų mūšis siejamas su suirutės Lietuvoje pradžia ir kaimynų įtakos stiprėjimu.
+Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.): sapiegoms visus jėga tramdant, vis dėlto 1700 m. visam krašte atsirado daugybė jų dvarus plėšiančių būrių, kurie pagaliau susi- spietė Lydos ir Ašmenos apylinkėse, o iš ten atėjo prie Val- kininkų. Čia jau buvo sutraukta visa Sapiegų kariuomenė ir dalis jiems. Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.): bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunaikinti Sapiegos. Konfederacijos maršalka buvo išrinktas Katilas, o regimentorium (karo vadu) — Mykolas Višniaveckis. Vilniaus vyskupui Bžostauskui tarpininkaujant, dar buvo mėginta. Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.): visą dieną užtrukusios kautynės pasibaigė Sapiegų pralaimėjimu.
 
 ## Laikotarpis ir datos
 
@@ -48,6 +49,7 @@ Nenurodyta
 - t-001
   global_id: t-78641
   teiginys: 'Valkininkų kautynės baigėsi Sapiegų pralaimėjimu, o jų kariuomenei vadovavęs Mykolas Sapiega buvo apsuptas ir pasidavė.'
+  sudarymo_pagrindimas: 'Fragmentas perrašytas į savarankišką sakinį be nutrūkusios pabaigos.'
   pagrindžia:
     - c-002
 
@@ -55,9 +57,14 @@ Nenurodyta
 - t-002
   global_id: t-78642
   teiginys: 'Karolio Zikaro sudarytame leidinyje Valkininkų mūšis siejamas su suirutės Lietuvoje pradžia ir kaimynų įtakos stiprėjimu.'
+  sudarymo_pagrindimas: 'Tai interpretacinis teiginys, todėl pridėta šaltinio atribucija.'
+  susije_objektai: 'event: [[objektai/ivykiai/Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.)|Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.)]]; mentioned_person: [[objektai/autoriai/Karolis Zikaras|Karolis Zikaras]]; mentioned_place: Lietuva; mentioned_place: Valkininkai'
+  semantiniai_rysiai: '[[objektai/autoriai/Karolis Zikaras|Karolis Zikaras]] dalyvavo mūšyje [[objektai/ivykiai/Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.)|Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.)]]'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
+- susijęs iš [[objektai/grupes/Respublikonai.md#claim-t-41123|Respublikonai]]: Po Valkininkų nutarimo respublikonų kariuomenė Vilniaus Šnipiškių stovykloje iš esmės suformavo naują 7500 etatinių vienetų LDK kariuomenę.
+- susijęs iš [[objektai/grupes/Valkininkų konfederacija.md#claim-t-78533|Valkininkų konfederacija]]: Vykdant Valkininkų nutarimą, Šnipiškių stovykloje buvo iš esmės suformuota nauja 7500 etatinių vienetų LDK kariuomenė.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -110,11 +117,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bajorai]]
-- [[objektai/asmenys/Mykolas]]
-- [[objektai/grupes/Rytas]]
-- [[objektai/autoriai/Karolis Zikaras]]
-- [[objektai/grupes/Respublikonai]]
-- [[objektai/grupes/Valkininkų konfederacija]]
-- [[objektai/daiktai/Kardas]]
+- [[objektai/autoriai/Karolis Zikaras]] dalyvavo_musyje Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.)

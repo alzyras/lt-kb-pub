@@ -33,6 +33,11 @@ Nenurodyta
 - t-001
   global_id: t-185924
   teiginys: 'Kafos gyventojai, bijodami augančios turkų galybės, sumanė krikščioniškose karalystėse samdyti įgulos tarnybai tinkamų karių.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatos faktą apie Kafos gyventojų sumanymą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/algininkai|algininkai]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_place: Teodosija (Kafa)'
   pagrindžia:
     - c-001
 
@@ -60,9 +65,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/algininkai]]
-- [[objektai/zodynas/įgula]]
-- [[objektai/grupes/Kafos gyventojai]]

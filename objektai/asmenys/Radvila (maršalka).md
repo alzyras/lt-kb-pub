@@ -22,6 +22,8 @@ Geremferdenas, Vytauto padedamas įvei­ kęs priešininkus, tuoj pat atvyko į 
 - t-001
   global_id: t-87841
   teiginys: 'Maršalka Radvila globojo Geremferdeną, kai šis po įvesdinimo Vilniuje buvo išsiųstas į ordą.'
+  sudarymo_pagrindimas: 'Citata pagrindžia Radvilos vaidmenį Geremferdeno išsiuntime.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/maršalka|maršalka]]; mentioned_object: [[objektai/zodynas/vasalas|vasalas]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -48,9 +50,3 @@ Geremferdenas, Vytauto padedamas įvei­ kęs priešininkus, tuoj pat atvyko į 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/maršalka]]
-- [[objektai/zodynas/vasalas]]
-- [[objektai/asmenys/Radvila]]

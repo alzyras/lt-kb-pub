@@ -32,6 +32,7 @@ Ypač jų reikėjo ieškoti bendroje respublikoje poliublininiais amžiais. Per�
 - t-001
   global_id: t-32803
   teiginys: 'Poliublininiais amžiais lietuvių istorikams lietuvių pėdsakų teko ieškoti bendroje respublikoje.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/poliublininis laikotarpis|poliublininis laikotarpis]]; mentioned_object: [[objektai/posakiai/surasti lietuvius Lietuvos istorijoje|surasti lietuvius Lietuvos istorijoje]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -39,9 +40,13 @@ Ypač jų reikėjo ieškoti bendroje respublikoje poliublininiais amžiais. Per�
 - t-002
   global_id: t-32804
   teiginys: 'Poliublininiai laikai tapo laikotarpiu, kuriame istorikas ieškojo lietuvių ir nuo 1931 m. skelbė straipsnius periodikoje.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/autoriai/A. Šapoka|A. Šapoka]]; mentioned_object: [[objektai/zodynas/duoklė|duoklė]]; mentioned_object: [[objektai/zodynas/poliublininis laikotarpis|poliublininis laikotarpis]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Liublinas'
+  temporaliniai_duomenys: 'įvykio data: po 1931 m.; įvykio data: 1931 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/autoriai/T. Wierzbowski.md#claim-t-31014|T. Wierzbowski]]: T. Wierzbowskis tyrinėjo Edukacinę Komisiją bendruose Respublikos istorijos rėmuose.
+- susijęs iš [[objektai/zodynas/poliublininis laikotarpis poliublininiai laikai.md#claim-t-103842|poliublininis laikotarpis poliublininiai laikai]]: Poliublininiai laikai tapo laikotarpiu, kuriame istorikas ieškojo lietuvių ir nuo 1931 m. skelbė straipsnius periodikoje.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -74,15 +79,3 @@ Ypač jų reikėjo ieškoti bendroje respublikoje poliublininiais amžiais. Per�
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/duoklė]]
-- [[objektai/zodynas/poliublininis laikotarpis]]
-- [[objektai/posakiai/surasti lietuvius Lietuvos istorijoje]]
-- [[objektai/zodynas/unija]]
-- [[objektai/autoriai/T. Wierzbowski]]
-- [[objektai/zodynas/poliublininis laikotarpis poliublininiai laikai]]

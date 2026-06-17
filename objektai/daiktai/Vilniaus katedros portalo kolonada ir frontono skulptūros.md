@@ -3,10 +3,19 @@ tipas: daiktas
 pavadinimas: 'Vilniaus katedros portalo kolonada ir frontono skulptūros'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1586 m.'
+  - '1784 m.'
+  - '1787 m.'
+date_start: '1586'
+date_end: '1787'
 sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
+amziai:
+  - 'XVI'
+  - 'XVIII'
 ---
 # Vilniaus katedros portalo kolonada ir frontono skulptūros
 
@@ -40,6 +49,8 @@ Nenurodyta
 - t-001
   global_id: t-19608
   teiginys: 'Ant Vilniaus katedros frontono buvo šv. Kazimiero, šv. Stanislovo ir šv. Elenos skulptūros.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas, aiškus ir paremtas citata apie katedros frontono skulptūras.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/globėjas|globėjas]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Lenkija; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -47,6 +58,11 @@ Nenurodyta
 - t-002
   global_id: t-19609
   teiginys: 'Vilniaus katedros fasado skulptūros buvo sukurtos 1784–1787 m., kai Lietuvoje dar vyravo baroko dvasia.'
+  sudarymo_pagrindimas: 'Citata remia sukūrimo datą ir baroko kontekstą, bet ne formuluotę apie vėlyvą laikotarpį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/barokas|barokas]]; mentioned_place: Lietuva; mentioned_place: Nesvyžius; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: po 1586 m.; įvykio data: 1586 m.; įvykio data: 1784-1787; įvykio data: 1787 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata remia sukūrimo datą ir baroko kontekstą, bet ne formuluotę apie vėlyvą laikotarpį.'
   pagrindžia:
     - c-001
 
@@ -78,10 +94,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/barokas]]
-- [[objektai/zodynas/globėjas]]

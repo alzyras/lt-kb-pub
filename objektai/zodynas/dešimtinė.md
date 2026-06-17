@@ -10,6 +10,7 @@ tags:
   - popiežius
   - sąvoka
   - valdovas
+  - vyskupas
 ---
 # dešimtinė
 
@@ -18,10 +19,13 @@ tags:
 72 ## Puslapis 89 I KNYGA bo prievolių, tam laikui praėjus, turės, priklausomai nuo žemės rūšies, tokią dešimtinę mokėti, kokią yra įprasta imti kitose šalyse; visiems atvykėliams galioja Rygos miesto tei­ sė, nebent teisės žinovų potvarkiu kita nustatyta. 77 ## Puslapis 94 VILNIAUS MIESTO ISTORIJA I TOMAS Jeigu dabar išnagrinėtume viską, ko tik kelerių metų tarps­ niu būta Ordino santykiuose arba su Lenkijos karaliumi, kad ir Pamario valdymo klausimu, arba su lenkų vyskupais dėl dešimtinės ir šv. Skelbiame, kad Pabaisko baž­ nyčiai privaloma dešimtinę mokėti tokia tvarka: visų pirma iš Liepūnų, mūsų dvaro, atiduoti dešimtą grūdą nuo visų tiek laukuose, tiek daržuose augančių javų, neišskiriant jo­ kio pasėlio ar daržovių, išskyrus avižas, ir.
 
 ## Teiginiai
+
 <a id="claim-t-173012"></a>
 - t-001
   global_id: t-173012
   teiginys: 'Ordino santykiuose su lenkų vyskupais kilo ginčų dėl dešimtinės ir šv. Petro skatiko rinkliavų.'
+  sudarymo_pagrindimas: 'Teiginys yra rišlus, faktinis ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Pamaris; mentioned_place: Ryga; mentioned_place: Tartai; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -29,10 +33,14 @@ tags:
 - t-002
   global_id: t-173013
   teiginys: 'Po dešimties metų atleidimo nuo mokesčių atvykę žemdirbiai turėjo mokėti pagal žemės rūšį nustatomą dešimtinę.'
+  sudarymo_pagrindimas: 'Pašalintas puslapio triukšmas; citata tiesiogiai aprašo dešimtinės mokėjimo sąlygą.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)|Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)]]; mentioned_object: [[objektai/zodynas/nuorašas|nuorašas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Ryga'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Stanislovas Skopas.md#claim-t-87581|Stanislovas Skopas]]: Stanislovas Skopas Pabaisko parapijoje turėjo gėrybių, nuo kurių anksčiau buvo mokama dešimtinė.
+- susijęs iš [[objektai/asmenys/Stanislovas Vaitkavičius.md#claim-t-87863|Stanislovas Vaitkavičius]]: Stanislovas Vaitkavičius turėjo žemę, iš kurios buvo mokama kviečių dešimtinė.
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Po dešimties metų atleidimo nuo mokesčių atvykę žemdirbiai turėjo mokėti pagal žemės rūšį nustatomą dešimtinę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -59,6 +67,7 @@ tags:
   statusas: verified
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Ordino santykiuose su lenkų vyskupais kilo ginčų dėl dešimtinės ir šv. Petro skatiko rinkliavų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -98,16 +107,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Gediminas]]
-- [[objektai/ivykiai/Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/zodynas/nuorašas]]
-- [[objektai/asmenys/Stanislovas Skopas]]
-- [[objektai/asmenys/Stanislovas Vaitkavičius]]
-- [[objektai/zodynas/Rygos miesto teisė]]
-- [[objektai/zodynas/šv. Petro skatiko rinkliava]]

@@ -7,17 +7,13 @@ datos:
   - '1336 m.'
 date_start: '1336'
 date_end: ''
-aliases:
-  - 'objektai/posakiai/bemeilijo žūti ugny, negu pasiduoti vokiečiams'
-variantai:
-  - 'bemeilijo žūti ugny, negu pasiduoti vokiečiams'
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XIV'
 tags:
   - kunigaikštis
   - posakis
+amziai:
+  - 'XIV'
 ---
 # Bemeilijo žūti ugny, negu pasiduoti vokiečiams
 
@@ -34,18 +30,22 @@ tags:
 - bemeilijo žūti ugny, negu pasiduoti vokiečiams (1336 m.)
 
 ## Teiginiai
+
 <a id="claim-t-06869"></a>
 - t-001
   global_id: t-06869
   teiginys: '1336 m. kunigaikščio Margio vadovaujami lietuviai, nebegalėdami apsiginti, verčiau rinkosi žūti ugnyje, negu pasiduoti vokiečiams.'
+  sudarymo_pagrindimas: 'Citata palaiko aiškesnį faktinį sakinį be boilerplate.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Europa; mentioned_place: Pilėnai'
+  temporaliniai_duomenys: 'įvykio data: 1336 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko aiškesnį faktinį sakinį be boilerplate.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1336 m. kunigaikščio Margio vadovaujami lietuviai, nebegalėdami apsiginti, verčiau rinkosi žūti ugnyje, negu pasiduoti vokiečiams.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bet giliau į kraštą įsibrauti ordinui vis dėlto nepasisekė,
@@ -54,16 +54,8 @@ tags:
     Iš šito laikotarpio yra žinomas ir Pilėnų pilies gynimas.
     Kunigaikščio Margio vadovaujami lietuviai, kai matėsi nebeapsi-
     ginsią, bemeilijo žūti ugny, negu pasiduoti vokiečiams (1336 m.).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Vokiečiai]]

@@ -28,6 +28,9 @@ amziai:
 - t-001
   global_id: t-31836
   teiginys: 'M. Krasauskaitės „Vytauto charakteristika“ išspausdinta 1930 m. Kaune išleistame rinkinyje „Vytautas Didysis“, p. 253–265.'
+  susije_objektai: 'mentioned_object: [[objektai/autoriai/M. Krasauskaitė|M. Krasauskaitė]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Kaunas'
+  temporaliniai_duomenys: 'įvykio data: 1930 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

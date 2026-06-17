@@ -19,7 +19,7 @@ amziai:
 
 ## Santrauka
 
-Redakcinė pastaba nurodo, kad Aleksandras Krokuvoje buvo vainikuotas 1501.XII.12. Redakcinė pastaba nurodo, kad Aleksandras iš Melniko į Krokuvą išvyko 1501.XI.29. Aleksandras 1501 m. spalio 3 d. Petrakave buvo preliminariai išrinktas Lenkijos karaliumi po Jono Olbrachto mirties.
+Redakcinė pastaba nurodo, kad Lenkijos seimas 1501.X.3 Petrakave išrinko Aleksandrą Lenkijos karaliumi. Redakcinė pastaba nurodo, kad Jonas Olbrachtas buvo miręs 1501.VI.17.
 
 ## Laikotarpis ir datos
 
@@ -49,6 +49,8 @@ Nenurodyta
 - t-001
   global_id: t-186789
   teiginys: 'Redakcinė pastaba nurodo, kad Aleksandras Krokuvoje buvo vainikuotas 1501.XII.12.'
+  teiginio_tipas: 'faktas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Melnikas'
   pagrindžia:
     - c-002
 
@@ -56,6 +58,8 @@ Nenurodyta
 - t-002
   global_id: t-186790
   teiginys: 'Redakcinė pastaba nurodo, kad Aleksandras iš Melniko į Krokuvą išvyko 1501.XI.29.'
+  teiginio_tipas: 'faktas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Melnikas'
   pagrindžia:
     - c-002
 
@@ -63,13 +67,25 @@ Nenurodyta
 - t-003
   global_id: t-186791
   teiginys: 'Aleksandras 1501 m. spalio 3 d. Petrakave buvo preliminariai išrinktas Lenkijos karaliumi po Jono Olbrachto mirties.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citata.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_place: Lenkija; mentioned_place: Petrakavas'
+  temporaliniai_duomenys: 'įvykio data: 1501 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citata.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-186792"></a>
 - t-004
   global_id: t-186792
-  teiginys: 'Redakcinė pastaba nurodo, kad Lenkijos seimas 1501.X.3 Petrakave išrinko Aleksandrą Lenkijos karaliumi.'
+  teiginys: 'Lenkijos seimas 1501 m. spalio 3 d. Petrakave preliminariai išrinko Aleksandrą Lenkijos karaliumi.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pašalintas redakcinės pastabos boilerplate ir pataisyta į aiškų faktinį sakinį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lenkija; mentioned_place: Petrakavas'
+  temporaliniai_duomenys: 'įvykio data: 1501 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas redakcinės pastabos boilerplate ir pataisyta į aiškų faktinį sakinį.'
   pagrindžia:
     - c-001
 
@@ -104,11 +120,3 @@ Nenurodyta
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/karūnacija]]
-
-### Susiję objektai
-- [[objektai/asmenys/Aleksandras]]
-- [[objektai/zodynas/seimas]]

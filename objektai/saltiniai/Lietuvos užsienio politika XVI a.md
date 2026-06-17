@@ -26,6 +26,7 @@ Lietuvos užsienio politika xvi a. Lietuvos užsienio politika xvi a., (įklijos
 - t-001
   global_id: t-41562
   teiginys: 'Knygos „Lietuvos užsienio politika XVI a.“ įklijoje tarp 224 ir 225 puslapių pavaizduotas totorių raitelis.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -33,6 +34,7 @@ Lietuvos užsienio politika xvi a. Lietuvos užsienio politika xvi a., (įklijos
 - t-002
   global_id: t-41563
   teiginys: 'Knygos „Lietuvos užsienio politika XVI a.“ įklijoje pavaizduoti Krymo totoriai, varantys užgrobtus belaisvius ir gyvulius.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Krymo totoriai|Krymo totoriai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Krymas; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

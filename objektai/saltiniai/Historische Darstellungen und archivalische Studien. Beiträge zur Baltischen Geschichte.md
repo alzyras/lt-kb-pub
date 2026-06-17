@@ -28,6 +28,10 @@ Schie­ mann, be kitko, išsp. Historische Darstellungen und archivalische Studi
 - t-001
   global_id: t-29851
   teiginys: 'Theodoras Schiemannas 1886 m. išspausdino „Historische Darstellungen und archivalische Studien. Beiträge zur Baltischen Geschichte“.'
+  sudarymo_pagrindimas: 'Citata patvirtina autorių, pavadinimą ir išleidimo metus.'
+  temporaliniai_duomenys: 'įvykio data: 1886 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata patvirtina autorių, pavadinimą ir išleidimo metus.'
   pagrindžia:
     - c-001
 

@@ -30,6 +30,11 @@ Tęstas 1902 m. Kazimiero Būgos pradėtas lietuvių kalbos žodyno sudarymas (p
 - t-001
   global_id: t-19054
   teiginys: 'Kazimieras Būga pradėjo lietuvių kalbos žodyno sudarymą.'
+  sudarymo_pagrindimas: 'Pirminis teiginys nutrūkęs, bet citata pagrindžia trumpą faktą apie veiklą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Antano Smetonos lituanistikos institutas|Antano Smetonos lituanistikos institutas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Lituanistika|Lituanistika]]; mentioned_object: [[objektai/zodynas/Politrukai|Politrukai]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_person: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1902 m.; įvykio data: 1938 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pirminis teiginys nutrūkęs, bet citata pagrindžia trumpą faktą apie veiklą.'
   pagrindžia:
     - c-001
 
@@ -37,9 +42,17 @@ Tęstas 1902 m. Kazimiero Būgos pradėtas lietuvių kalbos žodyno sudarymas (p
 - t-002
   global_id: t-183549
   teiginys: 'Kazimieras Būga 1902 m. pradėjo lietuvių kalbos žodyno sudarymą, kuris buvo tęsiamas vėlesniais laikotarpiais.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs; citata palaiko glaustesnį faktą apie Būgos pradėtą darbą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/autoriai/K. Būga|K. Būga]]'
+  temporaliniai_duomenys: 'įvykio data: 1902 m.; įvykio data: 2001 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs; citata palaiko glaustesnį faktą apie Būgos pradėtą darbą.'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/zodynas/Aistuva.md#claim-t-11667|Aistuva]]: Kazimieras Jaunius ir Kazimieras Būga žodį „aesti“ kildino iš žodžio „Aistuva“.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -73,11 +86,3 @@ Tęstas 1902 m. Kazimiero Būgos pradėtas lietuvių kalbos žodyno sudarymas (p
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Antano Smetonos lituanistikos institutas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/Lituanistika]]
-- [[objektai/zodynas/Politrukai]]
-- [[objektai/zodynas/Aistuva]]

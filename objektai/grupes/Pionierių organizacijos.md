@@ -20,6 +20,8 @@ Mokiniai buvo verčiami stoti į pionierių ir komjaunimo organizacijas, ideolog
 - t-001
   global_id: t-19962
   teiginys: 'Mokyklose pionierių organizacijos buvo steigiamos siekiant sustiprinti idėjinį komunistinį mokinių auklėjimą.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai pagrįstas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Komjaunimas|Komjaunimas]]; mentioned_place: SSRS'
   pagrindžia:
     - c-002
 
@@ -27,6 +29,8 @@ Mokiniai buvo verčiami stoti į pionierių ir komjaunimo organizacijas, ideolog
 - t-002
   global_id: t-19963
   teiginys: 'Mokiniai buvo verčiami stoti į pionierių ir komjaunimo organizacijas.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie mokinių vertimą stoti į pionierių organizacijas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Komjaunimas|Komjaunimas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]'
   pagrindžia:
     - c-001
 
@@ -76,10 +80,3 @@ Mokiniai buvo verčiami stoti į pionierių ir komjaunimo organizacijas, ideolog
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Komjaunimas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/daiktai/Lenino kampeliai ir sienlaikraščiai]]

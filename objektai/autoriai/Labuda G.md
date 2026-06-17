@@ -3,6 +3,11 @@ tipas: autorius
 pavadinimas: 'Labuda G'
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+datos:
+  - '1202 m.'
+  - '1235 m.'
+date_start: '1202'
+date_end: '1235'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -10,6 +15,10 @@ tags:
   - diplomatas
   - kunigaikštis
   - ordinas
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'viduramžiai'
 ---
 # Labuda G
 
@@ -23,6 +32,8 @@ Dusburgietis teigia, kad , norėdamas kronikoje 137 Labuda G. Dusburgietis teigi
 - t-001
   global_id: t-64697
   teiginys: 'G. Labuda Dirsovės vardą laikė prūsišku.'
+  sudarymo_pagrindimas: 'Teiginys yra glaustas, gramatiškas ir pagrįstas citatos nuoroda į Labudą.'
+  susije_objektai: 'mentioned_place: Nogatas'
   pagrindžia:
     - c-004
 
@@ -30,6 +41,11 @@ Dusburgietis teigia, kad , norėdamas kronikoje 137 Labuda G. Dusburgietis teigi
 - t-002
   global_id: t-64698
   teiginys: 'G. Labuda nurodė, kad Henriko Barzdotojo dokumentai liudija jo buvimą Prūsijoje 1235 metais.'
+  sudarymo_pagrindimas: 'Citata aiškiai palaiko konkretų Labudos teiginį apie Henriko Barzdotojo dokumentus.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Krokuva; mentioned_place: Kulmas; mentioned_place: Lenkija; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Rudinas; mentioned_place: Silezija'
+  temporaliniai_duomenys: 'įvykio data: po 1202 m.; įvykio data: 1202 m.; įvykio data: po 1229 m.; įvykio data: 1229 m.; įvykio data: po 1232 m.; įvykio data: 1232 m.; įvykio data: 1233 m.; įvykio data: po 1234 m.; įvykio data: 1234 m.; įvykio data: 1235 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata aiškiai palaiko konkretų Labudos teiginį apie Henriko Barzdotojo dokumentus.'
   pagrindžia:
     - c-001
 
@@ -37,6 +53,8 @@ Dusburgietis teigia, kad , norėdamas kronikoje 137 Labuda G. Dusburgietis teigi
 - t-003
   global_id: t-64699
   teiginys: 'G. Labuda Vitlando pavadinimą siejo su baltų žodžiu „vidus“ ir lygino jį su latvių Vidzeme.'
+  sudarymo_pagrindimas: 'Citata palaiko autoriaus aiškinimą apie Vitlando pavadinimo kilmę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_place: Aistmarios; mentioned_place: Pagudė; mentioned_place: Prūsija; mentioned_place: Semba'
   pagrindžia:
     - c-002
 
@@ -44,6 +62,8 @@ Dusburgietis teigia, kad , norėdamas kronikoje 137 Labuda G. Dusburgietis teigi
 - t-004
   global_id: t-64700
   teiginys: 'G. Labuda nagrinėjo imperatoriaus ir pagoniškųjų prūsų žemių teisinį santykį.'
+  sudarymo_pagrindimas: 'Citata palaiko teminį Labudos darbo apibūdinimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Prūsai'
   pagrindžia:
     - c-005
 
@@ -51,6 +71,8 @@ Dusburgietis teigia, kad , norėdamas kronikoje 137 Labuda G. Dusburgietis teigi
 - t-005
   global_id: t-64701
   teiginys: 'G. Labuda recenzavo M. Hellmanno darbą apie Prūsijos istorijos pagrindus.'
+  sudarymo_pagrindimas: 'Citatoje yra bibliografinė nuoroda į Labudos recenziją, o pradinis teiginys buvo nuotrupa.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_place: Prūsija'
   pagrindžia:
     - c-003
 
@@ -134,13 +156,3 @@ Dusburgietis teigia, kad , norėdamas kronikoje 137 Labuda G. Dusburgietis teigi
   statusas: verified
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Baltai]]
-- [[objektai/autoriai/Henrikas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Latviai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/žygis]]

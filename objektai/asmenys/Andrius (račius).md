@@ -29,6 +29,11 @@ Dusburgietis teigia, kad apie kraujo lašus, varvėjusius iš duonos Kristburgo 
 - t-001
   global_id: t-60236
   teiginys: '1324 m. Kristburgo pilyje iš račiaus Andriaus aluje dažytos duonos pradėjo varvėti kraujo lašai.'
+  sudarymo_pagrindimas: 'Pradinis teiginys yra antraštės ir nutrūkusio sakinio junginys.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Duona|Duona]]; mentioned_place: Kristburgas; mentioned_place: Prūsija'
+  temporaliniai_duomenys: 'įvykio data: 1324 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys yra antraštės ir nutrūkusio sakinio junginys.'
   pagrindžia:
     - c-001
 
@@ -53,8 +58,3 @@ Dusburgietis teigia, kad apie kraujo lašus, varvėjusius iš duonos Kristburgo 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Duona]]
-- [[objektai/ivykiai/Dusburgiečio pasakojamas kraujo lašų stebuklas Kristburgo pilyje (1324 m.)]]

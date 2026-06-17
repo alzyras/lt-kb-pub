@@ -21,9 +21,18 @@ Artimiausieji rytų kaimynai dregovičiai (Beržūnės baseine) ir krivičiai (D
 - t-001
   global_id: t-31176
   teiginys: 'Dregovičiai Beržūnės baseine, nors Kijevo Rusia 988 m. priėmė Bizantijos krikštą, gyveno gana žemame kultūros laipsnyje.'
+  sudarymo_pagrindimas: 'Teiginys sutelktas į note objektą ir pašalinta perteklinė informacija apie krivičius.'
+  susije_objektai: 'location: Bizantija; location: Dauguva; location: Europa; location: Kijevas; location: Rusia; mentioned_group: [[objektai/grupes/Krivičiai|Krivičiai]]; mentioned_object: [[objektai/zodynas/pagonys|pagonys]]; mentioned_place: Bizantija; mentioned_place: Dauguva; mentioned_place: Europa; mentioned_place: Kijevas; mentioned_place: Rusia'
+  semantiniai_rysiai: '[[objektai/grupes/Dregovičiai|Dregovičiai]] gyveno Bizantija; [[objektai/grupes/Dregovičiai|Dregovičiai]] gyveno Dauguva; [[objektai/grupes/Dregovičiai|Dregovičiai]] gyveno Europa; [[objektai/grupes/Dregovičiai|Dregovičiai]] gyveno Kijevas; [[objektai/grupes/Dregovičiai|Dregovičiai]] gyveno Rusia'
+  temporaliniai_duomenys: 'gyvenimo laikotarpis: 988 m'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Dregovičiai gyveno Bizantija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Dregovičiai gyveno Dauguva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Dregovičiai gyveno Europa“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Dregovičiai gyveno Kijevas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Dregovičiai gyveno Rusia“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys sutelktas į note objektą ir pašalinta perteklinė informacija apie krivičius.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/grupes/Krivičiai.md#claim-t-31222|Krivičiai]]: Zenono Ivinskio vertinimu, krivičiai Dniepro ir Dauguvos aukštupiuose gyveno gana žemame kultūros laipsnyje.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179219|Lietuviai]]: XIII-XIV a. rašytiniai šaltiniai ir karai su ordino riteriais rodo, kad pagonys lietuviai buvo pasiekę palyginti aukštą kultūros lygį.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179292|Lietuviai]]: XI a. rusų metraščiai tik du kartus paminėjo lietuvių ir Kijevo rusų karinius konfliktus, jei 1040 ir 1044 m. Jaroslavo žygiai nebuvo viena ekspedicija.
+- susijęs iš [[objektai/ivykiai/Kijevo Jaroslavo žygis į Lietuvą ir Naugarduko įkūrimas (1044 m.).md#claim-t-05299|Kijevo Jaroslavo žygis į Lietuvą ir Naugarduko įkūrimas (1044 m.)]]: XI a. rusų metraščiai mini tik du lietuvių ir Kijevo rusų karinius konfliktus, jei 1040 ir 1044 m. Jaroslavo žygiai nebuvo viena ekspedicija.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -45,8 +54,8 @@ Artimiausieji rytų kaimynai dregovičiai (Beržūnės baseine) ir krivičiai (D
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Krivičiai]]
-- [[objektai/zodynas/pagonys]]
-- [[objektai/ivykiai/Kijevo Jaroslavo žygis į Lietuvą ir Naugarduko įkūrimas (1044 m.)]]
-- [[objektai/grupes/Lietuviai]]
+- Dregovičiai gyveno [[objektai/vietos/Bizantija]]
+- Dregovičiai gyveno [[objektai/vietos/Dauguva]]
+- Dregovičiai gyveno [[objektai/vietos/Europa]]
+- Dregovičiai gyveno [[objektai/vietos/Kijevas]]
+- Dregovičiai gyveno [[objektai/vietos/Rusia]]

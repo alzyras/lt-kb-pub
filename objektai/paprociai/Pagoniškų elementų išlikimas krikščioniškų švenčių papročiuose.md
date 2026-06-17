@@ -41,6 +41,7 @@ Nenurodyta
 - t-001
   global_id: t-169876
   teiginys: 'Pagoniškos šventės Lietuvoje išliko krikščioniškųjų švenčių sluoksnyje, o žilos senovės elementai lėmė tautosakos, folkloro ir tautodailės savitumą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -58,8 +59,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/paprociai/Pagoniškų elementų ir pagoniškųjų tikėjimų integravimas į krikščioniškas praktikas]]

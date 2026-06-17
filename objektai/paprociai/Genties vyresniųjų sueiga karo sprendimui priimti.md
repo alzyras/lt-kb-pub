@@ -42,6 +42,9 @@ Nenurodyta
 - t-001
   global_id: t-62115
   teiginys: 'Skalvių genties vyresnieji sueigoje tarėsi dėl keršto ir vienbalsiai nusprendė pasiųsti į žygį 400 rinktinių vyrų.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pašalinta antraštė, fragmentas ir neaiški nuoroda „šitai“.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/sueiga|sueiga]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Labguva'
   pagrindžia:
     - c-001
 
@@ -67,10 +70,3 @@ Nenurodyta
   pagrindžia:
     - t-001
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Laivai]]
-- [[objektai/grupes/Skalviai]]
-- [[objektai/zodynas/sueiga]]
-- [[objektai/zodynas/žygis]]

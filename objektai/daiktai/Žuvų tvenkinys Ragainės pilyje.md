@@ -42,6 +42,8 @@ Nenurodyta
 - t-001
   global_id: t-59718
   teiginys: 'Ragainės pilies viduryje buvo maždaug 20 žingsnių ilgio ir beveik tokio pat pločio žuvų tvenkinys.'
+  sudarymo_pagrindimas: 'Pašalinta perteklinė įžanga ir suformuluotas aiškus faktas apie tvenkinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Tame (Baigos brolis)|Tame (Baigos brolis)]]; mentioned_place: Prūsija; mentioned_place: Ragainė'
   pagrindžia:
     - c-001
 
@@ -65,9 +67,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Skalviai]]
-- [[objektai/asmenys/Tame (Baigos brolis)]]
-- [[objektai/grupes/Teutonai]]

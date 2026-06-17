@@ -9,17 +9,17 @@ date_start: '1767'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XVIII'
 tags:
   - ivykis
   - karalius
+amziai:
+  - 'XVIII'
 ---
 # Radomo konfederacija (1767 m.)
 
 ## Santrauka
 
-Radome rusų kariuomenės apsupti konfederatai buvo priversti pasirašyti aktą, pripažinusį lygias teises kitatikiams.
+Radomo konfederacija. Tačiau ir jis ir visi konfederatai labai apsivylė: Radome rusų kariuomenės apsupti, jie buvo priversti pasirašyti konfederacijos aktą, kuriuo kvietė prisidėti prie konfederacijos ir karalių, pripažino lygias teises kitatikiams, o Kotryną II prašė „priimti.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -34,18 +34,19 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 <a id="claim-t-01784"></a>
 - t-001
   global_id: t-01784
   teiginys: 'Radome rusų kariuomenės apsupti konfederatai buvo priversti pasirašyti aktą, pripažinusį lygias teises kitatikiams.'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo nutrūkęs, citata pagrindžia sutrumpintą faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Čartoriskiai|Čartoriskiai]]; mentioned_object: [[objektai/zodynas/konfederacija|konfederacija]]; mentioned_place: Radomas; mentioned_place: Rusija; mentioned_place: Viena'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Radome rusų kariuomenės apsupti konfederatai buvo priversti pasirašyti aktą, pripažinusį lygias teises kitatikiams.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Už
@@ -68,17 +69,8 @@ Nenurodyta
     vadino, kardinalines teises; be to, iš Rusijos buvo
     paprašyta garantijos, kad nė viena iš tų teisių nebus pa-
     keista.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/zodynas/konfederacija]]
-- [[objektai/grupes/Čartoriskiai]]

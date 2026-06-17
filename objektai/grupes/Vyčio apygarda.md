@@ -33,6 +33,11 @@ VYČIO APYGARDOS vadas Alfonsas Smetona-Žygaudas (1915-1950), buvęs policinink
 - t-001
   global_id: t-41203
   teiginys: '1948 m. Alfonsas Smetona-Žygaudas tapo Vyčio apygardos vadu po Jono Krištaponio ir Danieliaus Vitelio-Briedžio žūties.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas faktinis sakinys apie Vyčio apygardos vadą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Alfonsas (Kastilijos karalius)|Alfonsas (Kastilijos karalius)]]'
+  temporaliniai_duomenys: 'įvykio data: po 1944 m.; įvykio data: 1944 m.; įvykio data: 1948 m.; įvykio data: 1950 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas faktinis sakinys apie Vyčio apygardos vadą.'
   pagrindžia:
     - c-001
 
@@ -40,6 +45,9 @@ VYČIO APYGARDOS vadas Alfonsas Smetona-Žygaudas (1915-1950), buvęs policinink
 - t-002
   global_id: t-41204
   teiginys: '1950 m. panaikinus Algimanto apygardą, Žaliosios rinktinės kovotojai buvo įtraukti į Vyčio apygardą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Algimanto apygarda|Algimanto apygarda]]; mentioned_person: [[objektai/asmenys/Vaižgantas|Vaižgantas]]; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1950 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 
@@ -81,13 +89,3 @@ VYČIO APYGARDOS vadas Alfonsas Smetona-Žygaudas (1915-1950), buvęs policinink
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Alfonsas (Kastilijos karalius)]]
-- [[objektai/grupes/Algimanto apygarda]]
-- [[objektai/asmenys/Vaižgantas]]
-- [[objektai/grupes/Kunigaikščio Margio rinktinė]]
-- [[objektai/grupes/Tumo Vaižganto rinktinė]]
-- [[objektai/grupes/Vytauto apygarda]]
-- [[objektai/grupes/Žalioji rinktinė]]

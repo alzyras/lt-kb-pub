@@ -22,9 +22,12 @@ Taip pat [dovanojame] turtą, va­ dinamą Smolnėnais, su visomis Smolnėnų ir
 - t-001
   global_id: t-86189
   teiginys: 'Horodiščės dvaras ir Losičiai buvo dovanojami su visomis Horodiščės ir Losičių žemėmis bei kaimiečiais.'
+  sudarymo_pagrindimas: 'Nutrūkęs dovanojimo fragmentas perrašytas į užbaigtą faktinį sakinį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/inkorporuoti|inkorporuoti]]; mentioned_place: Bełskas; mentioned_place: Losičiai; mentioned_place: Prutas; mentioned_place: Smolnėnai; mentioned_place: Teterinas; mentioned_place: Čirčinskas'
   pagrindžia:
     - c-001
-
+- susijęs iš Losičiai: Losičiai buvo dovanojami kartu su Horodiščės ir Losičių žemėmis bei visais kaimiečiais.
+- susijęs iš [[objektai/zodynas/chanaičiai.md#claim-t-187549|chanaičiai]]: Didikai Naugarduke pasiuntė sučiupti belaisvio, kad sužinotų, kur buvo chanaičių kariuomenės stovykla.
 ## Reikšmingi paminėjimai
 
 - c-001

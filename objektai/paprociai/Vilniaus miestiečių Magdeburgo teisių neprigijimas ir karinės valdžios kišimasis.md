@@ -43,6 +43,8 @@ Nenurodyta
 - t-001
   global_id: t-87289
   teiginys: 'Vilniaus Magdeburgo teisės buvo menkai paveikios dėl miestiečių nepripratimo, karo sumaišties ir karinės valdžios kišimosi į miesto valdymą.'
+  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir fragmentiškumas; teiginys tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/Magdeburgo teisės|Magdeburgo teisės]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -70,10 +72,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Rusai]]
-- [[objektai/asmenys/Vladislovas]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/Magdeburgo teisės]]

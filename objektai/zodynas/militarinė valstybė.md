@@ -18,6 +18,8 @@ atnaujinta: ''
 - t-001
   global_id: t-11668
   teiginys: 'Įsigalėjęs kardininkų ordinas virto paprasta militarine valstybe.'
+  sudarymo_pagrindimas: 'Citata leidžia tiksliau įvardyti minimą ordiną.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]'
   pagrindžia:
     - c-001
 
@@ -38,7 +40,3 @@ atnaujinta: ''
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kalavijuočių ordinas]]

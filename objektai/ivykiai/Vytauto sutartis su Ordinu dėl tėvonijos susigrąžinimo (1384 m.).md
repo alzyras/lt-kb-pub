@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-1384 m. sutartimi Ordinas prisiekė grąžinti Vytautui atimtą tėvoniją, o Vytautas be įpėdinių turėjo perleisti paveldėjimo teises kryžiuočiams.
+Kai Vytau­ tas po Kęstučio mirties užmezgė ryšius su didžiuoju magistru, 1384 metais buvo sudaryta sutartis, ku­ ria Ordinas prisiekė atgauti Vytau­ tui iš jo atimtą tėvoniją, o Vytautas tuo atveju, jeigu neturėtų įpėdinių, savo paveldėjimo teises į valstybę.
 
 ## Laikotarpis ir datos
 
@@ -45,6 +45,11 @@ Nenurodyta
 - t-001
   global_id: t-86970
   teiginys: '1384 m. sutartimi Ordinas prisiekė grąžinti Vytautui atimtą tėvoniją, o Vytautas be įpėdinių turėjo perleisti paveldėjimo teises kryžiuočiams.'
+  sudarymo_pagrindimas: 'Perrašyta sklandesne lietuvių kalba, išlaikant citatoje nurodytas sutarties sąlygas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1384 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Perrašyta sklandesne lietuvių kalba, išlaikant citatoje nurodytas sutarties sąlygas.'
   pagrindžia:
     - c-001
 
@@ -76,10 +81,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/zodynas/Tėvonija paveldas paveldėjimo teisės]]

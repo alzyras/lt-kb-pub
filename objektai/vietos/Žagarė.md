@@ -3,11 +3,17 @@ tipas: vieta
 pavadinimas: 'Žagarė'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+datos:
+  - '1259 m.'
+date_start: '1259'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - pilis
   - vieta
+amziai:
+  - 'XIII'
 ---
 # Žagarė
 
@@ -21,9 +27,14 @@ Kai kryžiuočiams nepasisekė paimti žiemgalių pilies Tervetės (į šiaurę 
 - t-001
   global_id: t-99969
   teiginys: 'Kryžiuočiams nepavyko paimti Tervetės pilies, buvusios į šiaurę nuo Žagarės.'
+  sudarymo_pagrindimas: 'Sutrumpinta iki aiškaus fakto apie Žagarės atžvilgiu minimą vietą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Žiemgaliai|Žiemgaliai]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_place: Georgenburgas; mentioned_place: Ryga; mentioned_place: Tervetė'
+  temporaliniai_duomenys: 'įvykio data: 1259 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Sutrumpinta iki aiškaus fakto apie Žagarės atžvilgiu minimą vietą.'
   pagrindžia:
     - c-001
-
+- susijęs iš Tervetė: Kryžiuočiams nepavyko paimti į šiaurę nuo Žagarės buvusios žiemgalių pilies Tervetės.
 ## Reikšmingi paminėjimai
 
 - c-001

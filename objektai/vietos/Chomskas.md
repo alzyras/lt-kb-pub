@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Chomske M. K. Oginskio sutelktą Lietuvos kariuomenę pradėjo supti Rusijos kariuomenės daliniai.
+Oginskis spėjo sutelkti Chomske, ėmė supti Rusijos kariuomenės daliniai.
 
 ## Teiginiai
 
@@ -21,6 +21,8 @@ Chomske M. K. Oginskio sutelktą Lietuvos kariuomenę pradėjo supti Rusijos kar
 - t-001
   global_id: t-41641
   teiginys: 'Chomske M. K. Oginskio sutelktą Lietuvos kariuomenę pradėjo supti Rusijos kariuomenės daliniai.'
+  sudarymo_pagrindimas: 'Reikia sklandesnės enciklopedinės formuluotės.'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Rusija'
   pagrindžia:
     - c-001
 

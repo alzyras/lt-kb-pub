@@ -43,6 +43,11 @@ Nenurodyta
 - t-001
   global_id: t-80681
   teiginys: '1792 m. birželio 18 d. Lenkijos kariuomenė prie Zelencų sumušė Rusijos kariuomenę.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūksta ir apima kitus įvykius, o citata pagrindžia glaustą faktą apie Zelencų mūšį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkijos kariuomenė|Lenkijos kariuomenė]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Zelencai; mentioned_place: Zelva'
+  temporaliniai_duomenys: 'įvykio data: 1792 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūksta ir apima kitus įvykius, o citata pagrindžia glaustą faktą apie Zelencų mūšį.'
   pagrindžia:
     - c-001
 
@@ -67,11 +72,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuvos kariuomenė]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Lenkijos kariuomenė]]
-- [[objektai/ivykiai/Miro mūšis (1792 m. birželio 11 d.)]]
-- [[objektai/ivykiai/Zelvos mūšis (1792 m. liepos 4 d.)]]

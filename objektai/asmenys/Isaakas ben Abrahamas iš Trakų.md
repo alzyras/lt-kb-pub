@@ -19,7 +19,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Isaakas ben Abrahamas iš Trakų iškilo iš LDK karaimų bendruomenės. Isaakas ben Abrahamas iš Trakų iškilo iš LDK karaimų bendruomenės ir gyveno 1525–1586 m.
+Isaakas ben Abrahamas iš Trakų pristatomas kaip iš LDK karaimų bendruomenės iškilęs asmuo, dažnai minimas tolerancijos tyrėjų.
 
 ## Teiginiai
 
@@ -27,6 +27,8 @@ Isaakas ben Abrahamas iš Trakų iškilo iš LDK karaimų bendruomenės. Isaakas
 - t-001
   global_id: t-23196
   teiginys: 'Isaakas ben Abrahamas iš Trakų iškilo iš LDK karaimų bendruomenės.'
+  sudarymo_pagrindimas: 'Sakinys gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Karaimai|Karaimai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/Lietuvos didysis kunigaikštis|Lietuvos didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Liublinas; mentioned_place: Trakai; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -34,9 +36,17 @@ Isaakas ben Abrahamas iš Trakų iškilo iš LDK karaimų bendruomenės. Isaakas
 - t-002
   global_id: t-23197
   teiginys: 'Isaakas ben Abrahamas iš Trakų iškilo iš LDK karaimų bendruomenės ir gyveno 1525–1586 m.'
+  sudarymo_pagrindimas: 'Sakinys aiškus, enciklopedinis ir paremtas citata.'
+  susije_objektai: 'location: Lietuva; location: Liublinas; location: Trakai; location: Vilnius; mentioned_group: [[objektai/grupes/Karaimai|Karaimai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/Lietuvos didysis kunigaikštis|Lietuvos didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Liublinas; mentioned_place: Trakai; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Isaakas ben Abrahamas iš Trakų|Isaakas ben Abrahamas iš Trakų]] gyveno Lietuva; [[objektai/asmenys/Isaakas ben Abrahamas iš Trakų|Isaakas ben Abrahamas iš Trakų]] gyveno Liublinas; [[objektai/asmenys/Isaakas ben Abrahamas iš Trakų|Isaakas ben Abrahamas iš Trakų]] gyveno Trakai; [[objektai/asmenys/Isaakas ben Abrahamas iš Trakų|Isaakas ben Abrahamas iš Trakų]] gyveno Vilnius'
+  temporaliniai_duomenys: 'gyvenimo laikotarpis: 1525-1586; gyvenimo laikotarpis: 1586 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Isaakas ben Abrahamas iš Trakų gyveno Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Isaakas ben Abrahamas iš Trakų gyveno Liublinas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Isaakas ben Abrahamas iš Trakų gyveno Trakai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Isaakas ben Abrahamas iš Trakų gyveno Vilnius“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Sakinys aiškus, enciklopedinis ir paremtas citata.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171428|Totoriai]]: Lietuvos didysis kunigaikštis Vytautas LDK apgyvendino ryškias musulmonų totorių ir karaimų bendruomenes.
+- susijęs iš Lenkija: Lenkijoje žydų ir armėnų vaidmuo buvo ryškesnis nei LDK, bet joje nebuvo tokių ryškių totorių ir karaimų bendruomenių.
+- susijęs iš Lenkija: Lenkijoje nebuvo tokių ryškių musulmonų totorių ir karaimų bendruomenių kaip LDK.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -58,9 +68,7 @@ Isaakas ben Abrahamas iš Trakų iškilo iš LDK karaimų bendruomenės. Isaakas
     - t-002
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Karaimai]]
-- [[objektai/zodynas/Lietuvos didysis kunigaikštis]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/zodynas/didysis kunigaikštis]]
-- [[objektai/grupes/Žydai]]
+- Isaakas ben Abrahamas iš Trakų gyveno [[objektai/vietos/Lietuva]]
+- Isaakas ben Abrahamas iš Trakų gyveno [[objektai/vietos/Liublinas]]
+- Isaakas ben Abrahamas iš Trakų gyveno [[objektai/vietos/Trakai]]
+- Isaakas ben Abrahamas iš Trakų gyveno [[objektai/vietos/Vilnius]]

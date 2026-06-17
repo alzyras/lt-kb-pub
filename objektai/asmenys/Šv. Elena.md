@@ -28,6 +28,11 @@ Elenos skulptūros ant katedros frontono.
 - t-001
   global_id: t-19354
   teiginys: 'Šv. Elenos skulptūra buvo ant katedros frontono.'
+  sudarymo_pagrindimas: 'Pirminis fragmentas nėra pilnas sakinys.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/globėjas|globėjas]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1792 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pirminis fragmentas nėra pilnas sakinys.'
   pagrindžia:
     - c-001
 
@@ -35,6 +40,14 @@ Elenos skulptūros ant katedros frontono.
 - t-002
   global_id: t-183578
   teiginys: '1792 m. buvo baigta šv. Elenos skulptūra ant katedros frontono.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis tekstas yra ne visas sakinys, bet citata remia faktą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/globėjas|globėjas]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1792 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis tekstas yra ne visas sakinys, bet citata remia faktą.'
   pagrindžia:
     - c-001
 
@@ -52,7 +65,3 @@ Elenos skulptūros ant katedros frontono.
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/globėjas]]

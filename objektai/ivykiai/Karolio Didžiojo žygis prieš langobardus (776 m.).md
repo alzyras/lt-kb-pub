@@ -30,6 +30,14 @@ Nenurodyta
 - t-001
   global_id: t-185803
   teiginys: 'Karolis Didysis su galinga kariuomene įsiveržė į Italiją ir, du kartus sumušęs langobardus, juos nugalėjo.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pašalinta autorinė įžanga, OCR triukšmas ir perteklinė formuluotė.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_person: [[objektai/asmenys/Karolis Didysis|Karolis Didysis]]; mentioned_place: Italija'
+  temporaliniai_duomenys: 'įvykio data: 754 m; įvykio data: 776 m'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalinta autorinė įžanga, OCR triukšmas ir perteklinė formuluotė.'
   pagrindžia:
     - c-001
 
@@ -60,8 +68,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Karolis]]
-- [[objektai/asmenys/Karolis Didysis]]

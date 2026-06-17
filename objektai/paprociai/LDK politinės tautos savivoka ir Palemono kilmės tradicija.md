@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Lietuvos metraščiuose sukurta Palemono ir jo ainių legenda tapo lietuvių ir rusėnų bajorijos kilmės aiškinimo pagrindu. Lietuvos metraščiuose sukurta Palemono legenda tapo lietuvių ir rusėnų bajorijos kilmės aiškinimo pagrindu.
+formavosi ir bendra Abiejų Tautų Respublikos kaip Lenkijos savimonė, tačiau šioje Lenkijoje aiškiai skiriant ir „kitą Lenkiją“.
 
 ## Laikotarpis ir datos
 
@@ -43,6 +43,8 @@ Nenurodyta
 - t-001
   global_id: t-54264
   teiginys: 'Lietuvos metraščiuose sukurta Palemono ir jo ainių legenda tapo lietuvių ir rusėnų bajorijos kilmės aiškinimo pagrindu.'
+  sudarymo_pagrindimas: 'Pradinis teiginys gramatiškai nevikrus, todėl perrašytas aiškesniu sakiniu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Gediminaičių dinastija|Gediminaičių dinastija]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos bajorija|Lietuvos bajorija]]; mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_person: [[objektai/asmenys/Palemonas|Palemonas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -50,6 +52,8 @@ Nenurodyta
 - t-002
   global_id: t-54265
   teiginys: 'Lietuvos metraščiuose sukurta Palemono legenda tapo lietuvių ir rusėnų bajorijos kilmės aiškinimo pagrindu.'
+  sudarymo_pagrindimas: 'Pradinis teiginys suformuluotas negrabiai, bet citata palaiko aiškią enciklopedinę versiją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Gediminaičių dinastija|Gediminaičių dinastija]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos bajorija|Lietuvos bajorija]]; mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_person: [[objektai/asmenys/Palemonas|Palemonas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -72,15 +76,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/dinastija]]
-
-### Susiję objektai
-- [[objektai/grupes/Gediminaičių dinastija]]
-- [[objektai/grupes/Lietuvos bajorija]]
-- [[objektai/asmenys/Palemonas]]
-- [[objektai/grupes/Rusėnai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/politinė tauta lietuvių nacija]]

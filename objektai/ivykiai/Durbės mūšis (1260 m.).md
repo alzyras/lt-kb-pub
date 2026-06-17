@@ -2,24 +2,24 @@
 tipas: ivykis
 pavadinimas: 'Durbės mūšis (1260 m.)'
 saltiniai:
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1219 m.'
+  - '1238 m.'
+  - '1259 m.'
+  - '1260 m.'
   - '1261 m.'
 date_start: '1219'
 date_end: '1261'
-aliases:
-  - 'objektai/ivykiai/Durbės mūšis'
-variantai:
-  - 'Durbės mūšis'
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XIII'
 tags:
   - ivykis
   - karas
   - mūšis
+amziai:
+  - 'XIII'
 ---
 # Durbės mūšis (1260 m.)
 
@@ -49,10 +49,16 @@ Ordinas ruošė didelį žygį į Žemaičius ir į pagalbą pasikvietė Prūsų
 Žemaičiai laimėjo mūšį. Jame žuvo visa ordino vadovybė ir beveik visi broliai, o tai tapo sunkiu smūgiu Livonijos ordinui.
 
 ## Teiginiai
+
 <a id="claim-t-66527"></a>
 - t-001
   global_id: t-66527
   teiginys: 'Durbės mūšyje 1260 m. liepos 13 d. žuvo Livonijos magistras Burchardas, Prūsijos maršalas Henrikas Botelis ir 150 brolių.'
+  sudarymo_pagrindimas: 'Citata remia datą, vietą ir žuvusiuosius.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Estai|Estai]]; mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Henrikas Botelis|Henrikas Botelis]]; mentioned_place: Durbė; mentioned_place: Kuršas; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Revelis'
+  temporaliniai_duomenys: 'įvykio data: 1219 m.; įvykio data: 1238 m.; įvykio data: 1260 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata remia datą, vietą ir žuvusiuosius.'
   pagrindžia:
     - c-002
 
@@ -60,6 +66,8 @@ Ordinas ruošė didelį žygį į Žemaičius ir į pagalbą pasikvietė Prūsų
 - t-002
   global_id: t-66528
   teiginys: 'Prieš Durbės mūšį kuršiai prašė, kad krikščionims laimėjus jiems būtų sugrąžintos moterys ir vaikai.'
+  sudarymo_pagrindimas: 'Citata remia konkretų kuršių prašymą prieš mūšį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Durbė; mentioned_place: Livonija; mentioned_place: Prūsija'
   pagrindžia:
     - c-004
 
@@ -67,6 +75,11 @@ Ordinas ruošė didelį žygį į Žemaičius ir į pagalbą pasikvietė Prūsų
 - t-003
   global_id: t-66529
   teiginys: '1260 m. Livonijos ir Prūsijos broliai su stipriomis kariuomenėmis susirinko nugabenti maisto Švento Jurgio pilies broliams.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie įvykio aplinkybes ir remiasi citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalnėnai|Kalnėnai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Kaimas; mentioned_place: Karšuva; mentioned_place: Kuršas; mentioned_place: Livonija; mentioned_place: Minija; mentioned_place: Mituva; mentioned_place: Nemunas; mentioned_place: Prūsija; mentioned_place: Skalva; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: iki 1261 m.; įvykio data: po 1259 m.; įvykio data: 1259 m.; įvykio data: 1260 m.; įvykio data: 1261 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie įvykio aplinkybes ir remiasi citata.'
   pagrindžia:
     - c-001
 
@@ -74,10 +87,16 @@ Ordinas ruošė didelį žygį į Žemaičius ir į pagalbą pasikvietė Prūsų
 - t-004
   global_id: t-66530
   teiginys: 'Durbės mūšyje lietuviai puolė krikščionis iš priekio, o kuršiai juos užgriuvo iš užpakalio.'
+  sudarymo_pagrindimas: 'Ilgas fragmentas sutrauktas į aiškų citata paremtą teiginį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Noliubas|Noliubas]]; mentioned_place: Durbė; mentioned_place: Prūsija'
   pagrindžia:
     - c-003
-
+- susijęs iš [[objektai/asmenys/Michailas Jaroslavičius.md#claim-t-79112|Michailas Jaroslavičius]]: Lietuviai prie Protvos nukovė Maskvos didįjį kunigaikštį Michailą Jaroslavičių.
+- susijęs iš [[objektai/asmenys/Michailas Jaroslavičius.md#claim-t-79113|Michailas Jaroslavičius]]: Pamaskvėje prie Protvos lietuviai nukovė Maskvos didįjį kunigaikštį Michailą Jaroslavičių.
+- susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
+- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179417|Livonijos ordinas]]: 1260 m. liepos 13 d. Durbės mūšyje buvo sutriuškinta Livonijos ordino šaka, Prūsijos kryžiuočiai ir jų talkininkai.
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: '1260 m. Livonijos ir Prūsijos broliai su stipriomis kariuomenėmis susirinko nugabenti maisto Švento Jurgio pilies broliams.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -109,6 +128,7 @@ Ordinas ruošė didelį žygį į Žemaičius ir į pagalbą pasikvietė Prūsų
   statusas: verified
   pagrindžia:
     - t-003
+
 - c-002
   santrauka: 'Durbės mūšyje 1260 m. liepos 13 d. žuvo Livonijos magistras Burchardas, Prūsijos maršalas Henrikas Botelis ir 150 brolių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -142,6 +162,7 @@ Ordinas ruošė didelį žygį į Žemaičius ir į pagalbą pasikvietė Prūsų
   statusas: verified
   pagrindžia:
     - t-001
+
 - c-003
   santrauka: 'Durbės mūšyje lietuviai puolė krikščionis iš priekio, o kuršiai juos užgriuvo iš užpakalio.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -163,6 +184,7 @@ Ordinas ruošė didelį žygį į Žemaičius ir į pagalbą pasikvietė Prūsų
   statusas: verified
   pagrindžia:
     - t-004
+
 - c-004
   santrauka: 'Prieš Durbės mūšį kuršiai prašė, kad krikščionims laimėjus jiems būtų sugrąžintos moterys ir vaikai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -181,25 +203,3 @@ Ordinas ruošė didelį žygį į Žemaičius ir į pagalbą pasikvietė Prūsų
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Estai]]
-- [[objektai/autoriai/Henrikas]]
-- [[objektai/grupes/Kalnėnai]]
-- [[objektai/grupes/Kuršiai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Noliubas]]
-- [[objektai/zodynas/Adynos|adynos]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/autoriai/Karolis Zikaras]]
-- [[objektai/grupes/Livonijos ordinas]]
-- [[objektai/asmenys/Michailas Jaroslavičius]]
-- [[objektai/asmenys/Henrikas Botelis]]
-- [[objektai/zodynas/maršalas]]
-- [[objektai/paprociai/Belaisvių likimo sprendimas pagal visiems žinomus karo papročius]]
-- [[objektai/asmenys/Burchardas iš Hornhauzeno]]
-- [[objektai/asmenys/Sklodas iš Kvedenavos]]
-- [[objektai/zodynas/atskalūnybė atskalūnai]]
-- [[objektai/posakiai/Šiandien prisiminkite puikius drabužius]]

@@ -3,16 +3,22 @@ tipas: saltinis
 pavadinimas: 'SSRS ultimatumas Lietuvai (1940 m. birželio 14 d.)'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1940 m.'
+date_start: '1940'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XX'
 ---
 # SSRS ultimatumas Lietuvai (1940 m. birželio 14 d.)
 
 ## Santrauka
 
-Birželio 15-osios naktį Lietuvos vyriausybė svarstė, ar priešintis okupacijai, ar priimti SSRS ultimatumą. 1940 m. birželio 14 d. vakare J. Urbšys iš V. Molotovo gavo ultimatumą, kuriuo Lietuvai pareikalauta įsileisti neribotus sovietų karinius dalinius. Prieš invaziją sovietai pradėjo Baltijos šalių oro ir jūrų blokadą, o birželio 15-osios paryčiais atakavo kelis Lietuvos pasienio postus.
+Smetonos laiškas sovietų prezidentui Michailui Kalininui, nei dviejų aukštų Lietuvos pareigūnų atleidimas nepadėjo – birželio 14-osios rytą vermachtui įžengus į Paryžių, tos pat dienos vakare 11:45 J. Visą birželio 15-osios naktį vykusiame vyriausybės posėdyje svarstyta, ar priešintis okupacijai, ar priimti ultimatumą. Raštikis) motyvavo, kad viena Lietuva rimčiau pasipriešinti sovietų karinei mašinai negali, būtų daug aukų.
 
 ## Teiginiai
 
@@ -20,6 +26,8 @@ Birželio 15-osios naktį Lietuvos vyriausybė svarstė, ar priešintis okupacij
 - t-001
   global_id: t-75516
   teiginys: 'Birželio 15-osios naktį Lietuvos vyriausybė svarstė, ar priešintis okupacijai, ar priimti SSRS ultimatumą.'
+  sudarymo_pagrindimas: 'Teiginys sutrumpintas ir aiškiau susietas su SSRS ultimatumu.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Baltija; mentioned_place: Lietuva; mentioned_place: SSRS'
   pagrindžia:
     - c-002
 
@@ -27,6 +35,9 @@ Birželio 15-osios naktį Lietuvos vyriausybė svarstė, ar priešintis okupacij
 - t-002
   global_id: t-75517
   teiginys: '1940 m. birželio 14 d. vakare J. Urbšys iš V. Molotovo gavo ultimatumą, kuriuo Lietuvai pareikalauta įsileisti neribotus sovietų karinius dalinius.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Merkys'
+  temporaliniai_duomenys: 'įvykio data: 1940 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -34,6 +45,8 @@ Birželio 15-osios naktį Lietuvos vyriausybė svarstė, ar priešintis okupacij
 - t-003
   global_id: t-75518
   teiginys: 'Prieš invaziją sovietai pradėjo Baltijos šalių oro ir jūrų blokadą, o birželio 15-osios paryčiais atakavo kelis Lietuvos pasienio postus.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Anglija; mentioned_place: Baltija; mentioned_place: Lietuva'
   pagrindžia:
     - c-004
 
@@ -41,6 +54,8 @@ Birželio 15-osios naktį Lietuvos vyriausybė svarstė, ar priešintis okupacij
 - t-004
   global_id: t-75519
   teiginys: 'Generolai V. Vitkauskas ir S. Raštikis teigė, kad viena Lietuva negali rimčiau pasipriešinti sovietų karinei mašinai.'
+  sudarymo_pagrindimas: 'Teiginys pataisytas pagal citatos formuluotę ir pašalinta perteklinė konstrukcija.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_person: [[objektai/asmenys/V. Vitkauskas|V. Vitkauskas]]; mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-003
 

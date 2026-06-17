@@ -44,6 +44,8 @@ Nenurodyta
 - t-001
   global_id: t-59447
   teiginys: 'Lietuviai Nemune užėmė Ordino karo laivą, nužudė keturis lankininkus ir sudegino laivą, nors per puolimą žuvo Surmino brolis Skaldonis.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir turi neaiškių įvardžių, o citata pagrindžia aiškų rezultatą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Skaldonis|Skaldonis]]; mentioned_person: [[objektai/asmenys/Surminas|Surminas]]; mentioned_place: Nemunas'
   pagrindžia:
     - c-001
 
@@ -51,6 +53,11 @@ Nenurodyta
 - t-002
   global_id: t-59448
   teiginys: '1313 m. lietuvių karalius pasiuntė Surminą su šimtu laivų, šešiais šimtais ar daugiau vyrų ir šimtu raitelių sunaikinti Ordino karo laivo.'
+  sudarymo_pagrindimas: 'Pradinis teiginys turi antraštės triukšmo, bet citata pagrindžia lietuvių sprendimą ir Surmino pajėgas.'
+  susije_objektai: 'territory: Nemunas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Surminas|Surminas]]; mentioned_place: Nemunas'
+  temporaliniai_duomenys: 'valdymo laikotarpis: 1313 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Surminas buvo valdovas Nemunas“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys turi antraštės triukšmo, bet citata pagrindžia lietuvių sprendimą ir Surmino pajėgas.'
   pagrindžia:
     - c-001
 
@@ -75,9 +82,3 @@ Nenurodyta
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Surminas]]
-- [[objektai/asmenys/Skaldonis]]

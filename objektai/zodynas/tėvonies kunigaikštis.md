@@ -10,21 +10,26 @@ atnaujinta: ''
 
 ## Santrauka
 
-Prie Smolensko kilus nesantaikai, vieni rėmė Vytautą, o kiti norėjo tėvonies kunigaikščio Jurijaus.
+Lietuvos metraštis Smolensko nesantaikos aprašyme Jurijų Svetoslavovičių vadina tėvonies kunigaikščiu, kurio norėjo dalis miestiečių.
 
 ## Teiginiai
 
 <a id="claim-t-187562"></a>
 - t-001
   global_id: t-187562
-  teiginys: 'Prie Smolensko kilus nesantaikai, vieni rėmė Vytautą, o kiti norėjo tėvonies kunigaikščio Jurijaus.'
+  teiginys: 'Lietuvos metraštis Smolensko nesantaikos aprašyme Jurijų Svetoslavovičių vadina tėvonies kunigaikščiu, kurio norėjo dalis miestiečių.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Titulavimas ir kronikos formuluotė turi likti priskirti šaltiniui.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Jurijus|Jurijus]]; mentioned_place: Lietuva; mentioned_place: Riazanė; mentioned_place: Smolenskas'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Prie Smolensko kilus nesantaikai, vieni rėmė Vytautą, o kiti norėjo tėvonies kunigaikščio Jurijaus.'
+  santrauka: 'Lietuvos metraštis Smolensko nesantaikos aprašyme Jurijų Svetoslavovičių vadina tėvonies kunigaikščiu, kurio norėjo dalis miestiečių.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     Šeši tūkstančiai devyni šimtai devintaisiais metais
@@ -38,7 +43,3 @@ Prie Smolensko kilus nesantaikai, vieni rėmė Vytautą, o kiti norėjo tėvonie
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Jurijus]]

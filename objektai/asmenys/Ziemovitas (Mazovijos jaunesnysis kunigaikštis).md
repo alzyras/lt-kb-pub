@@ -10,6 +10,7 @@ tags:
   - karalius
   - kraštas
   - kunigaikštis
+  - miestas
 ---
 # Ziemovitas (Mazovijos jaunesnysis kunigaikštis)
 
@@ -23,6 +24,9 @@ Miestui teko būti liudytoju dviejų prašmatnių vestuvių: Ziemovito, Mazovijo
 - t-001
   global_id: t-87892
   teiginys: 'Mazovijos jaunesnysis kunigaikštis Ziemovitas vedė Jogailos seserį Aleksandrą.'
+  sudarymo_pagrindimas: 'Citata palaiko faktą apie Ziemovitą.'
+  susije_objektai: 'territory: Lietuva; territory: Mazovija; territory: Vilnius; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Ziemovitas|Ziemovitas]]; mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Ziemovitas (Mazovijos jaunesnysis kunigaikštis)|Ziemovitas (Mazovijos jaunesnysis kunigaikštis)]] buvo valdovas Lietuva; [[objektai/asmenys/Ziemovitas (Mazovijos jaunesnysis kunigaikštis)|Ziemovitas (Mazovijos jaunesnysis kunigaikštis)]] buvo valdovas Mazovija; [[objektai/asmenys/Ziemovitas (Mazovijos jaunesnysis kunigaikštis)|Ziemovitas (Mazovijos jaunesnysis kunigaikštis)]] buvo valdovas Vilnius'
   pagrindžia:
     - c-001
 
@@ -49,11 +53,6 @@ Miestui teko būti liudytoju dviejų prašmatnių vestuvių: Ziemovito, Mazovijo
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Skirgaila]]
-- [[objektai/zodynas/vietininkas]]
-- [[objektai/asmenys/Ziemovitas]]
-- [[objektai/asmenys/Aleksandra (Jogailos sesuo)]]
-- [[objektai/asmenys/Jonušas (Mazovijos vyresnysis kunigaikštis)]]
-- [[objektai/asmenys/Ona (Vytauto sesuo)]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Ziemovitas (Mazovijos jaunesnysis kunigaikštis) buvo_valdovas [[objektai/vietos/Lietuva]]
+- Ziemovitas (Mazovijos jaunesnysis kunigaikštis) buvo_valdovas [[objektai/vietos/Mazovija]]
+- Ziemovitas (Mazovijos jaunesnysis kunigaikštis) buvo_valdovas [[objektai/vietos/Vilnius]]

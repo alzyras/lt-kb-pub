@@ -23,16 +23,19 @@ tags:
 - Rex lithuanorum et multorum ruthenorum
 
 ## Teiginiai
-- t-002
+
+<a id="claim-t-06878"></a>
+- t-001
+  global_id: t-06878
   teiginys: 'Gediminas raštuose save titulavo Lietuvos ir daugelio rusų karaliumi.'
+  sudarymo_pagrindimas: 'Boilerplate pakeistas tiesiogiai citata paremtu faktu apie titulavimąsi.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Gediminas raštuose save titulavo Lietuvos ir daugelio rusų karaliumi.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Gediminas jau aiškiai buvo nusistatęs prie savo valstybės pri-
@@ -40,15 +43,8 @@ tags:
     užėmęs, tai raštuose save tituluodavo „Lietuvos ir dau-
     gelio rusų karalium" _(Rex lithuanorum et multorum
     ruthenorum)._
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Gediminas]]
-- [[objektai/grupes/Rusai]]
+    - t-001

@@ -14,7 +14,7 @@ tags:
 
 ## Santrauka
 
-Algirdas paskelbė, kad visa Rusia savaime turėtų priklausyti lietuviams. Lotyniška formulė „Omnis Russia ad Letwinos deberet simpliciter pertinere“ reiškė, kad visa Rusia turėtų priklausyti lietuviams.
+Ši formuluotė abiejuose šaltiniuose pateikiama kaip Algirdo politinės pretenzijos į Rusią formulė.
 
 ## Forma
 
@@ -27,10 +27,13 @@ Algirdas paskelbė, kad visa Rusia savaime turėtų priklausyti lietuviams. Loty
 - Omnis Russia ad Letwinos deberet simpliciter pertinere
 
 ## Teiginiai
+
 <a id="claim-t-05384"></a>
 - t-001
   global_id: t-05384
   teiginys: 'Algirdas paskelbė, kad visa Rusia savaime turėtų priklausyti lietuviams.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys ir atitinka citatos turinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Rusia'
   pagrindžia:
     - c-001
 
@@ -38,10 +41,13 @@ Algirdas paskelbė, kad visa Rusia savaime turėtų priklausyti lietuviams. Loty
 - t-002
   global_id: t-05385
   teiginys: 'Lotyniška formulė „Omnis Russia ad Letwinos deberet simpliciter pertinere“ reiškė, kad visa Rusia turėtų priklausyti lietuviams.'
+  sudarymo_pagrindimas: 'Išnaša tiesiogiai pateikia lotynišką formulę, todėl ją galima paversti pilnu teiginiu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Rusia'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Algirdas paskelbė, kad visa Rusia savaime turėtų priklausyti lietuviams.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -60,6 +66,7 @@ Algirdas paskelbė, kad visa Rusia savaime turėtų priklausyti lietuviams. Loty
   statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Lotyniška formulė „Omnis Russia ad Letwinos deberet simpliciter pertinere“ reiškė, kad visa Rusia turėtų priklausyti lietuviams.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -72,11 +79,3 @@ Algirdas paskelbė, kad visa Rusia savaime turėtų priklausyti lietuviams. Loty
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Jonas]]
-- [[objektai/grupes/Slavai]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/grupes/Lietuviai]]

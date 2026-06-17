@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-6-ojo pėstininkų pulko 1-ojo bataliono viršila Antanas Šukys pasakojo apie savo kuopos kontrataką prieš lenkų pajėgas tarp Seinų ir Gibų.
+APŠAUDYMAS ŠRAPNELE Viršila Antanas Šukys pasakoja apie lenkų | artilerijos apšaudymą, kurį patyrė jo va- | dovaujami kariai. Tuo tikslu Marijampolės grupė buvo Nepriklausomybės kovos | a ## Puslapis 202 KONTRATAKA 6-ojo pėstininkų pulko 1-ojo bataliono viršila Antanas Šukys pasakoja, kaip jo vadovaujama kuopa kontratakavo puolančias lenkų pajėgas ruože tarp Seinų ir Gibų.
 
 ## Teiginiai
 
@@ -20,6 +20,8 @@ tags:
 - t-001
   global_id: t-41503
   teiginys: '6-ojo pėstininkų pulko 1-ojo bataliono viršila Antanas Šukys pasakojo apie savo kuopos kontrataką prieš lenkų pajėgas tarp Seinų ir Gibų.'
+  sudarymo_pagrindimas: 'Citata leidžia patikslinti Antano Šukio pareigas ir suformuluoti sklandesnį sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/Nepriklausomybės kovos|Nepriklausomybės kovos]]; mentioned_object: [[objektai/zodynas/viršila|viršila]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_person: [[objektai/asmenys/Antanas Šukys|Antanas Šukys]]; mentioned_person: [[objektai/asmenys/K. Ladyga|K. Ladyga]]; mentioned_place: Augustavas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Marijampolė; mentioned_place: Seinai'
   pagrindžia:
     - c-001
 

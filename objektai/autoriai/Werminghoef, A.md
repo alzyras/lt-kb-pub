@@ -30,6 +30,9 @@ Werminghoef, A.
 - t-001
   global_id: t-54139
   teiginys: 'A. Werminghoefas 1910 m. Berlyne paskelbė darbą apie Tannenbergo mūšį ir jo reikšmę vokietybei Rytuose.'
+  susije_objektai: 'mentioned_object: [[objektai/ivykiai/Tanenbergo mūšis 1410 m. liepos 15 d|Tanenbergo mūšis 1410 m. liepos 15 d]]; mentioned_place: Berlynas'
+  temporaliniai_duomenys: 'įvykio data: 1910 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -37,6 +40,9 @@ Werminghoef, A.
 - t-002
   global_id: t-54140
   teiginys: 'A. Werminghoef 1910 m. Berlyne išleido veikalą apie Tannenbergo mūšį ir jo reikšmę vokietybei Rytuose.'
+  susije_objektai: 'mentioned_object: [[objektai/ivykiai/Tanenbergo mūšis 1410 m. liepos 15 d|Tanenbergo mūšis 1410 m. liepos 15 d]]; mentioned_place: Berlynas'
+  temporaliniai_duomenys: 'įvykio data: 1910 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

@@ -22,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-Žygimantas Senasis Vilniaus vandens tiekimui skyrė savo šaltinį už Subačiaus vartų ir leido vandenį vamzdžiais išvedžioti po namus.
+Tai sukėlė nesiliaujančius vaidus tarp šio ordino ir miestiečių, tad Žygimantas, kad paten­ kintų pirmąją sąlygą ir aprūpintų Vilnių vandeniu, kaip kad buvo aprūpinta Krokuva, atidavė miestui nuosavą sa­ vo šaltinį netoli miesto, už Subačiaus vartų, prie.
 
 ## Laikotarpis ir datos
 
@@ -50,6 +50,8 @@ Nenurodyta
 - t-001
   global_id: t-87310
   teiginys: 'Žygimantas Senasis Vilniaus vandens tiekimui skyrė savo šaltinį už Subačiaus vartų ir leido vandenį vamzdžiais išvedžioti po namus.'
+  sudarymo_pagrindimas: 'Perrašyta, kad teiginys aiškiai sietųsi su vandens tiekimo tvarka.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_object: [[objektai/zodynas/Pilininkas|Pilininkas]]; mentioned_object: [[objektai/daiktai/Vamzdžiai|Vamzdžiai]]; mentioned_object: [[objektai/posakiai/Vendimus abscedimus, et resignamus|Vendimus abscedimus, et resignamus]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_person: [[objektai/asmenys/Kiščina (Vitebsko vaivadienė)|Kiščina (Vitebsko vaivadienė)]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_person: [[objektai/asmenys/Žygimantas Senasis|Žygimantas Senasis]]; mentioned_place: Kaimas; mentioned_place: Lietuva; mentioned_place: Subačius; mentioned_place: Trakai; mentioned_place: Viena; mentioned_place: Vilnelė; mentioned_place: Vilnius; mentioned_place: Vitebskas'
   pagrindžia:
     - c-001
 
@@ -180,20 +182,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Antspaudas]]
-- [[objektai/asmenys/Augustas]]
-- [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]
-- [[objektai/asmenys/Kiščina (Vitebsko vaivadienė)]]
-- [[objektai/zodynas/Pilininkas]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/daiktai/Vamzdžiai]]
-- [[objektai/posakiai/Vendimus abscedimus, et resignamus]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/vaivada]]
-- [[objektai/asmenys/Žygimantas]]
-- [[objektai/asmenys/Žygimantas Senasis]]

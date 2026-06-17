@@ -21,9 +21,11 @@ Dusburgietis teigia, kad vis dėlto, kai Karaliaučiaus komtūras sugrįžo, kai
 - t-001
   global_id: t-60352
   teiginys: 'Juodutis buvo Naudžioto, sembų valstiečių išrinkto karvedžio, tėvas.'
+  sudarymo_pagrindimas: 'Citata Juodutį mini kaip Naudžioto tėvą ir paaiškina Naudžioto vaidmenį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Notanga; mentioned_place: Sklunija; mentioned_place: Viena'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/autoriai/Jordanas.md#claim-t-62623|Jordanas]]: Jordanas buvo gotų istorikas.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -42,11 +44,3 @@ Dusburgietis teigia, kad vis dėlto, kai Karaliaučiaus komtūras sugrįžo, kai
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/karvedys]]
-
-### Susiję objektai
-- [[objektai/zodynas/komtūras]]
-- [[objektai/grupes/Sembai]]

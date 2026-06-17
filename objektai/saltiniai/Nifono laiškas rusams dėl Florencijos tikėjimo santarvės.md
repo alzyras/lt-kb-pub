@@ -18,6 +18,11 @@ Nifono laiškas ragino rusus tvirtai laikytis Florencijos tikėjimo santarvės, 
 - t-001
   global_id: t-186342
   teiginys: 'Nifono laiškas ragino rusus tvirtai laikytis Florencijos tikėjimo santarvės, dėl kurios sutarė Jonas Paleologas ir Rytų bažnyčios patriarchai.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiksliai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/asmenys/Pavyzdys|Pavyzdys]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas Paleologas|Jonas Paleologas]]; mentioned_person: [[objektai/asmenys/Juozapas (Konstantinopolio patriarchas)|Juozapas (Konstantinopolio patriarchas)]]; mentioned_person: [[objektai/asmenys/Paleologas|Paleologas]]; mentioned_place: Florencija; mentioned_place: Kijevas; mentioned_place: Konstantinopolis; mentioned_place: Severskas'
   pagrindžia:
     - c-001
 

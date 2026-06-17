@@ -20,6 +20,8 @@ Lenkų įtaka ribota, nes valdžia siekė juos lituanizuoti, laikydama esant nut
 - t-001
   global_id: t-22007
   teiginys: 'Valdžia siekė lituanizuoti lenkus, laikydama juos nutautėjusiais lietuviais.'
+  sudarymo_pagrindimas: 'Teiginys pritaikytas žodyno objektui ir paliktas tik citatos pagrindžiamas faktas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]'
   pagrindžia:
     - c-001
 
@@ -39,9 +41,3 @@ Lenkų įtaka ribota, nes valdžia siekė juos lituanizuoti, laikydama esant nut
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/A. Smetona]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]

@@ -23,7 +23,7 @@ periodo_grupes:
 
 ## Santrauka
 
-H. Paszkiewicziaus darbas cituojamas aiškinant, kad 1262 m. žygį organizavo Mindaugas, o kariuomenei vadovavo Treniota. H. Paszkiewicziaus darbas sieja aptariamą antpuolį su Traidenio politika vakaruose.
+Dusburgietis teigia, kad paszkiewicz H datuojamas ir 1263 m.) organizavo Mindaugas, o tuo metu, kaip atrodo, Žemaitiją valdęs Treniota vadovavo kariuomenei (Regesta Lithuaniae, Nr. 393; Paszkiewicz H, Jagiellonowie..., p. 103; Lietuvių karas..., p. 159, 165; Batūra R., Lietuva..., p. 153). Dusburgietis teigia, kad sis antpuolis, matyt, susijęs su Traidenio politika vakaruose (Paszkiewicz H., Jagiellonowie.., p. 130—131).
 
 ## Teiginiai
 
@@ -31,6 +31,11 @@ H. Paszkiewicziaus darbas cituojamas aiškinant, kad 1262 m. žygį organizavo M
 - t-001
   global_id: t-64802
   teiginys: 'H. Paszkiewicziaus darbas cituojamas aiškinant, kad 1262 m. žygį organizavo Mindaugas, o kariuomenei vadovavo Treniota.'
+  sudarymo_pagrindimas: 'Teiginys iš esmės pagrįstas, bet pataisytas į aiškesnį enciklopedinį sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Treniota|Treniota]]; mentioned_place: Kulmas; mentioned_place: Torunė'
+  temporaliniai_duomenys: 'įvykio data: 1262 m.; įvykio data: 1263 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys iš esmės pagrįstas, bet pataisytas į aiškesnį enciklopedinį sakinį.'
   pagrindžia:
     - c-002
 
@@ -38,6 +43,8 @@ H. Paszkiewicziaus darbas cituojamas aiškinant, kad 1262 m. žygį organizavo M
 - t-002
   global_id: t-64803
   teiginys: 'H. Paszkiewicziaus darbas sieja aptariamą antpuolį su Traidenio politika vakaruose.'
+  sudarymo_pagrindimas: 'Pradinis teiginys turi klaidingą atribuciją Dusburgiečiui ir neaiškų įvardį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Skomantas|Skomantas]]; mentioned_place: Gardinas; mentioned_place: Naugardukas'
   pagrindžia:
     - c-001
 
@@ -80,14 +87,3 @@ H. Paszkiewicziaus darbas cituojamas aiškinant, kad 1262 m. žygį organizavo M
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Skomantas]]
-- [[objektai/grupes/Sūduviai]]
-- [[objektai/asmenys/Treniota]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/autoriai/Batūra R]]
-- [[objektai/autoriai/R. Batūra|Romas Batūra]]

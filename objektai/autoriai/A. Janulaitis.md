@@ -8,12 +8,12 @@ date_start: ''
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-amziai: []
-periodo_grupes: []
 tags:
   - autorius
   - bajorija
   - seimas
+amziai: []
+periodo_grupes: []
 ---
 # A. Janulaitis
 
@@ -22,14 +22,21 @@ tags:
 Surinkdamas daug archyvinės medžiagos, Janulaitis parašė išsamų veikalą «Lietuvos bajorai ir jų seimeliai 1795-1863 » (1936).
 
 ## Teiginiai
+
 <a id="claim-t-100104"></a>
 - t-001
   global_id: t-100104
   teiginys: 'Surinkdamas daug archyvinės medžiagos, Janulaitis parašė išsamų veikalą «Lietuvos bajorai ir jų seimeliai 1795-1863 » (1936).'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Janulaičio veikalą ir remiasi citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/tribunolas|tribunolas]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1940 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie Janulaičio veikalą ir remiasi citata.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/ivykiai/Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti įkūrimas Vilniuje (1915 m. lapkritis).md#claim-t-01602|Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti įkūrimas Vilniuje (1915 m. lapkritis)]]: Centralinio komiteto pirmininku buvo Rusijos Dūmos atstovas M. Yčas.
 ## Reikšmingi paminėjimai
+
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -45,10 +52,3 @@ Surinkdamas daug archyvinės medžiagos, Janulaitis parašė išsamų veikalą �
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bajorai]]
-- [[objektai/zodynas/tribunolas]]
-- [[objektai/ivykiai/Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti įkūrimas Vilniuje (1915 m. lapkritis)]]
-- [[objektai/grupes/Lietuvos Karininkų Ramovė]]

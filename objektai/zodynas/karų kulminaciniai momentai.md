@@ -23,6 +23,7 @@ tags:
 - t-001
   global_id: t-42467
   teiginys: 'Karų kulminaciniai momentai leidinyje suprantami kaip mūšiai, per kuriuos rodoma kovų už Lietuvos valstybę istorija.'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -30,6 +31,11 @@ tags:
 - t-002
   global_id: t-183714
   teiginys: 'Leidiniu siekta per karų kulminacinius momentus, tai yra mūšius, parodyti ilgaamžę kovų už Lietuvos valstybę istoriją.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pirminė formuluotė remiasi neaiškiu įvardžiu „šio“, todėl perrašyta kaip savarankiškas sakinys.'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -68,7 +74,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Lietuvos kario įvaizdis]]

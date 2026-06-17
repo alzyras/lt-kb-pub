@@ -45,6 +45,11 @@ Nenurodyta
 - t-001
   global_id: t-34473
   teiginys: '1396 m. Vytautas Dubysos saloje susitiko su Vokiečių Ordino magistru deryboms.'
+  sudarymo_pagrindimas: 'Pirminis sakinys per daug priklauso nuo ankstesnio konteksto.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/supremacija|supremacija]]; mentioned_object: [[objektai/zodynas/įkaitai|įkaitai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Dubysa; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1396 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pirminis sakinys per daug priklauso nuo ankstesnio konteksto.'
   pagrindžia:
     - c-001
 
@@ -66,12 +71,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bajorai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/supremacija]]
-- [[objektai/zodynas/įkaitai]]
-- [[objektai/grupes/Vokiečiai]]

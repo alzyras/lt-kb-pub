@@ -42,6 +42,8 @@ Nenurodyta
 - t-001
   global_id: t-39293
   teiginys: 'Vienvamzdis medžioklinis šautuvas kapsuline spyna buvo perdarytas iš titnaginio šautuvo.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
 
@@ -65,7 +67,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Ginklai]]

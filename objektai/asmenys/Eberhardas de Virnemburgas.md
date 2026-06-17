@@ -29,6 +29,11 @@ Pirmą kartą jį Dusburgas mini prie 1304 metų (356 lape), pasakodamas, kaip b
 - t-001
   global_id: t-87656
   teiginys: '1304 m. Eberhardas de Virnemburgas nusiaubė Lietuvos valsčių, vadintą Pagraudene.'
+  sudarymo_pagrindimas: 'Citata aiškiai pagrindžia trumpą faktą, o pradinis teiginys buvo su OCR ir lotynišku intarpu.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_person: [[objektai/asmenys/Eberhardas (Varmės vyskupas)|Eberhardas (Varmės vyskupas)]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/autoriai/Hartknochas|Hartknochas]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/asmenys/Konradas Lichtenhagenas|Konradas Lichtenhagenas]]; mentioned_place: Lietuva; mentioned_place: Prūsija'
+  temporaliniai_duomenys: 'įvykio data: 1304 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata aiškiai pagrindžia trumpą faktą, o pradinis teiginys buvo su OCR ir lotynišku intarpu.'
   pagrindžia:
     - c-001
 
@@ -55,13 +60,3 @@ Pirmą kartą jį Dusburgas mini prie 1304 metų (356 lape), pasakodamas, kaip b
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/Dusburgas]]
-- [[objektai/asmenys/Eberhardas (Varmės vyskupas)]]
-- [[objektai/asmenys/Gediminas]]
-- [[objektai/autoriai/Hartknochas]]
-- [[objektai/asmenys/Konradas]]
-- [[objektai/asmenys/Konradas Lichtenhagenas]]
-- [[objektai/zodynas/komtūras]]

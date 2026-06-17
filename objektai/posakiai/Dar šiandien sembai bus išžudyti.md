@@ -20,6 +20,8 @@ Dusburgietis teigia, kad šitaip iš dievo malonės tą dieną krito daugiau nei
 - t-001
   global_id: t-59084
   teiginys: 'Tą pačią dieną, kai prieš metus įvyko Pokarvių kautynės, žuvo daugiau nei trys tūkstančiai sembų ir kitų prūsų.'
+  sudarymo_pagrindimas: 'Teiginys yra faktinis, gramatinis ir paremtas pateikta citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_place: Prūsai; mentioned_place: Viena'
   pagrindžia:
     - c-002
 
@@ -27,6 +29,8 @@ Dusburgietis teigia, kad šitaip iš dievo malonės tą dieną krito daugiau nei
 - t-002
   global_id: t-59085
   teiginys: 'Vienas prūsas išpranašavo sembų sutriuškinimą ir Karaliaučiaus broliams pareiškė, kad sembai dar tą pačią dieną bus išžudyti.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai apibendrina citatoje pateiktą pranašystę ir posakį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_object: [[objektai/zodynas/maldininkai|maldininkai]]'
   pagrindžia:
     - c-001
 
@@ -65,9 +69,3 @@ Dusburgietis teigia, kad šitaip iš dievo malonės tą dieną krito daugiau nei
   pagrindžia:
     - t-003
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Sembai]]
-- [[objektai/zodynas/maldininkai]]
-- [[objektai/ivykiai/Julicho ir Markos grafų pergalė prieš sembus prie Karaliaučiaus (1262 m. sausio 21 d.)]]

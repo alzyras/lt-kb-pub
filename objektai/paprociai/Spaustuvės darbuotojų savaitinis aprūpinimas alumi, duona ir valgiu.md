@@ -18,7 +18,7 @@ amziai:
 
 ## Santrauka
 
-Spaustuvė kas savaitę privalėjo duoti statinę alaus, silpnesnio alaus oxeftą, 8 asmenims po 8 kepalus duonos ir valgį iš kolegijos virtuvės.
+Spaustuvės lėšas sudaro pajamos, gautos už parduotas joje spausdintas knygas, ir a demptis expensis [iš gautų išlai­ doms] - spaudmenims, popieriui, atlyginimams, rinkėjams ir spausdintojams, prefekto ir padėjėjo išlaikymui, daugiau kaip 20 žmonių maitinimui.
 
 ## Laikotarpis ir datos
 
@@ -46,6 +46,8 @@ Nenurodyta
 - t-001
   global_id: t-87284
   teiginys: 'Spaustuvė kas savaitę privalėjo duoti statinę alaus, silpnesnio alaus oxeftą, 8 asmenims po 8 kepalus duonos ir valgį iš kolegijos virtuvės.'
+  sudarymo_pagrindimas: 'Citata leidžia tiksliau įvardyti savaitinį aprūpinimą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Duona|Duona]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/oxeft|oxeft]]'
   pagrindžia:
     - c-001
 
@@ -73,10 +75,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Duona]]
-- [[objektai/daiktai/Namas]]
-- [[objektai/zodynas/oxeft]]
-- [[objektai/daiktai/Spaustuvės išlaikymo alaus statinė ir duonos kepalai]]

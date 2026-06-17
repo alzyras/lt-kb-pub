@@ -5,6 +5,7 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1911 m.'
+  - '1923 m.'
   - '1930 m.'
   - '1936 m.'
 date_start: '1911'
@@ -29,6 +30,11 @@ Jau 1911 m. jis išleido «Lietuvos istoriją», jos platesniajam leidimui, ketv
 - t-001
   global_id: t-97255
   teiginys: 'Antanas Alekna 1911 m. išleido „Lietuvos istoriją“, o 1923 m. parengė platesnį ketvirtąjį jos leidimą.'
+  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir paliktas citatos paremtas faktas apie leidimą.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/A. Alekna|A. Alekna]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1911 m.; įvykio data: 1923 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas OCR triukšmas ir paliktas citatos paremtas faktas apie leidimą.'
   pagrindžia:
     - c-001
 
@@ -36,6 +42,9 @@ Jau 1911 m. jis išleido «Lietuvos istoriją», jos platesniajam leidimui, ketv
 - t-002
   global_id: t-97256
   teiginys: '1936 m. „Lietuvos istoriją“ rašė penki autoriai, o jos redaktorius pats parengė didžiausią dalį ir vienodino kitų tekstus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/autoriai/A. Šapoka|A. Šapoka]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1936 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 
@@ -43,6 +52,11 @@ Jau 1911 m. jis išleido «Lietuvos istoriją», jos platesniajam leidimui, ketv
 - t-003
   global_id: t-97257
   teiginys: 'Alekna 1911 m. išleido „Lietuvos istoriją“, o 1923 m. ketvirtajam leidimui panaudojo daugiau šaltinių ir tyrinėjimų.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiksliai perteikia citatos faktus.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/A. Alekna|A. Alekna]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1911 m.; įvykio data: 1923 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir tiksliai perteikia citatos faktus.'
   pagrindžia:
     - c-001
 

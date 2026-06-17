@@ -22,6 +22,8 @@ Jiems vadovavo kapitonas Antanas Kaminskas.
 - t-001
   global_id: t-39710
   teiginys: 'Kapitonas Antanas Kaminskas vadovavo apie 80 karių iš 8-ojo regimento, dengusių du reduto pabūklus.'
+  sudarymo_pagrindimas: 'Pronominalus teiginys išplėstas remiantis citatos kontekstu.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_person: [[objektai/asmenys/Juozapas (Konstantinopolio patriarchas)|Juozapas (Konstantinopolio patriarchas)]]'
   pagrindžia:
     - c-001
 
@@ -29,6 +31,11 @@ Jiems vadovavo kapitonas Antanas Kaminskas.
 - t-002
   global_id: t-183727
   teiginys: 'Kapitonas Antanas Kaminskas vadovavo apie 80 karių iš 8-ojo regimento redute tarp miesto ir priemiesčio.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginį verta pataisyti į sklandesnį sakinį su aiškesne sintakse.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_place: Muchavecas'
   pagrindžia:
     - c-002
 

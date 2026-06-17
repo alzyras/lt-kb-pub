@@ -18,6 +18,11 @@ Taikos sąlygose numatyta Lietuvos sienas praplėsti iki Možaisko ir Ugros upė
 - t-001
   global_id: t-185316
   teiginys: 'Taikos sąlygose numatyta Lietuvos sienas praplėsti iki Možaisko ir Ugros upės.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata palaiko taikos sąlygą, o pradinis teiginys turi boilerplate pradžią ir OCR klaidų.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ietis|Ietis]]; mentioned_person: [[objektai/asmenys/Dimitrijus|Dimitrijus]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Možaiskas'
   pagrindžia:
     - c-001
 

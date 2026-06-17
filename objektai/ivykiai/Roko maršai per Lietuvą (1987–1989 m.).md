@@ -19,7 +19,7 @@ amziai:
 
 ## Santrauka
 
-Roko maršai per Lietuvą vyko 1987, 1988 ir 1989 m. vasaromis, skleisdami LPS idėjas ir drąsindami režimo įbaugintus žmones.
+Ypač populiarūs tapo vadinamieji Roko maršai.
 
 ## Laikotarpis ir datos
 
@@ -43,6 +43,11 @@ Nenurodyta
 - t-001
   global_id: t-20463
   teiginys: 'Roko maršai per Lietuvą vyko 1987, 1988 ir 1989 m. vasaromis, skleisdami LPS idėjas ir drąsindami režimo įbaugintus žmones.'
+  sudarymo_pagrindimas: 'Citata palaiko tikslesnį sakinį su nurodytu antruoju tikslu.'
+  susije_objektai: 'mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1989 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko tikslesnį sakinį su nurodytu antruoju tikslu.'
   pagrindžia:
     - c-001
 

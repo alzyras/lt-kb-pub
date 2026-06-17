@@ -23,9 +23,12 @@ Quum Nobis Exposuisset Venerabilis Valentinus a Pilzno Vilnensis, et Luceoriensi
 - t-001
   global_id: t-87877
   teiginys: 'Valentinas iš Pilzno pranešė, kad per Pabaisko bažnyčios gaisrą buvo prarasta jos fundacijos privilegija.'
+  sudarymo_pagrindimas: 'Lotyniškas fragmentas ir OCR triukšmas perrašyti į citatos palaikomą lietuvišką sakinį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/fundacija|fundacija]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lenkija; mentioned_place: Luckas; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
-
+- susijęs iš Luckas: Valentinas iš Pilzno buvo Vilniaus ir Lucko kanauninkas bei Pabaisko bažnyčios klebonas.
+- susijęs iš Luckas: Valentinas iš Pilzno buvo Vilniaus ir Lucko kanauninkas bei Pabaisko bažnyčios klebonas.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -96,7 +99,3 @@ Quum Nobis Exposuisset Venerabilis Valentinus a Pilzno Vilnensis, et Luceoriensi
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/fundacija]]

@@ -22,6 +22,8 @@ Ciolką.
 - t-001
   global_id: t-34827
   teiginys: 'St. Ciolka buvo Vytauto proteguojamas kandidatas į Poznanės vyskupus.'
+  sudarymo_pagrindimas: 'Pirminis teiginys neturėjo predikato, o citata pagrindžia asmens vaidmenį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Husitai|Husitai]]; mentioned_object: [[objektai/zodynas/ciesorius|ciesorius]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Luckas; mentioned_place: Poznanė'
   pagrindžia:
     - c-001
 
@@ -43,8 +45,3 @@ Ciolką.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Husitai]]
-- [[objektai/zodynas/ciesorius]]

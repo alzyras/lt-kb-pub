@@ -6,8 +6,9 @@ saltiniai:
 datos:
   - '1992 m.'
   - '1993 m.'
+  - '1996 m.'
 date_start: '1992'
-date_end: '1993'
+date_end: '1996'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -20,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-1996 m. Seimo rinkimuose sėkmė lydėjo V. Landsbergio vadovaujamus konservatorius. Tėvynės Sąjunga–Lietuvos konservatoriai 1993 m. susidarė iš Sąjūdžio daugumos.
+Visuomenė darėsi pliuralistinė, įregistruota net 40 partijų, tačiau Lietuvos politiniame gyvenime dominavo du pagrindiniai žaidėjai: susidariusi iš savarankiškos LKP, pasivadinusi L I E T U V O S I S T O R I J A 250 socialdemokratine, LDDP (vėliau susivienys. Landsbergio vadovaujamus konservatorius.
 
 ## Teiginiai
 
@@ -28,6 +29,11 @@ amziai:
 - t-001
   global_id: t-75008
   teiginys: '1996 m. Seimo rinkimuose sėkmė lydėjo V. Landsbergio vadovaujamus konservatorius.'
+  sudarymo_pagrindimas: 'Pradinis teiginys yra sakinio fragmentas, bet citata remia pilną faktinį sakinį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1992 m.; įvykio data: 1993 m.; įvykio data: 1996 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys yra sakinio fragmentas, bet citata remia pilną faktinį sakinį.'
   pagrindžia:
     - c-001
 
@@ -35,9 +41,14 @@ amziai:
 - t-002
   global_id: t-75010
   teiginys: 'Tėvynės Sąjunga–Lietuvos konservatoriai 1993 m. susidarė iš Sąjūdžio daugumos.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir tiksliai remiasi citata.'
+  susije_objektai: 'mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1993 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys ir tiksliai remiasi citata.'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/ivykiai/1992 m. Seimo rinkimai ir LDDP dauguma.md#claim-t-66444|1992 m. Seimo rinkimai ir LDDP dauguma (seimas, XX a.)]]: Po 1992 m. rinkimų Lietuvos politiniame gyvenime dominavo LDDP ir 1993 m. iš Sąjūdžio daugumos susidariusi Tėvynės Sąjunga-Lietuvos konservatoriai.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -82,13 +93,3 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/seimas]]
-- [[objektai/ivykiai/1992 m. Seimo rinkimai ir LDDP dauguma|1992 m. Seimo rinkimai ir LDDP dauguma (seimas, XX a.)]]
-- [[objektai/ivykiai/1996 m. Seimo rinkimai ir konservatorių pergalė|1996 m. Seimo rinkimai ir konservatorių pergalė (seimas, XX a.)]]
-- [[objektai/zodynas/Brazauskininkai ir landsbergininkai]]
-- [[objektai/grupes/Lietuvos demokratinė darbo partija]]
-- [[objektai/grupes/Lietuvos socialdemokratų partija]]
-- [[objektai/asmenys/Vytautas Landsbergis]]

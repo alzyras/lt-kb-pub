@@ -23,6 +23,8 @@ Jos buvo pravestos nuo Mozūrijos sienos upe aukštyn į Grajevo ir Ragordo eže
 - t-001
   global_id: t-36351
   teiginys: 'Vytauto nustatytos Žemaitijos ir Sūduvijos ribos ėjo pro Vištyčio ežerą į Leipūnos upę.'
+  sudarymo_pagrindimas: 'Ilgas ribų aprašymas sutrumpintas iki aiškaus fakto apie Leipūnos upę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Grajevo; mentioned_place: Klaipėda; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Mozūrija; mentioned_place: Nemunas; mentioned_place: Palanga; mentioned_place: Viena; mentioned_place: Šešupė'
   pagrindžia:
     - c-001
 

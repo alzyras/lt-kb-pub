@@ -22,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-Šv. Dvasios dominikonų bažnyčioje buvo galima matyti karaliaus Aleksandro ir kunigo Korčiako portretus ant priešais stovinčių kolonų. Hozijus buvo įpareigotas prie dominikonų Šv. Dvasios bažnyčios pastatyti ir nuolat išlaikyti viešą špitolę. Šv. Dvasios bažnyčios kapinių vartai buvo priešais įėjimą į prieglaudos namus.
+Aleksandras iš Lenkijos pakvietė į Vilnių dominikonus (1501 m.) ir po sa­ vo kapeliono kunigo Korčiako mirties, jiems atidavė Šv. Dvasios dominikonų baž­ nyčioje galima pamatyti karaliaus Aleksandro portretą visu ūgiu ant pirmosios kolonos nuo įėjimo deši­ nėje pusėje, o ant priešais stovinčios - tokio pat didumo kunigo Korčiako paveikslą. Hozijus buvo įpareigotas vėliau, kai jam sugrįš tilto statybos išlaidos, prie dominikonų Šv.
 
 ## Teiginiai
 
@@ -30,6 +30,8 @@ amziai:
 - t-001
   global_id: t-85988
   teiginys: 'Šv. Dvasios dominikonų bažnyčioje buvo galima matyti karaliaus Aleksandro ir kunigo Korčiako portretus ant priešais stovinčių kolonų.'
+  sudarymo_pagrindimas: 'Citata pagrindžia portretų buvimą ir vietą bažnyčioje.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/asmenys/Korčiakas|Korčiakas]]'
   pagrindžia:
     - c-004
 
@@ -37,6 +39,8 @@ amziai:
 - t-002
   global_id: t-85989
   teiginys: 'Hozijus buvo įpareigotas prie dominikonų Šv. Dvasios bažnyčios pastatyti ir nuolat išlaikyti viešą špitolę.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, citata leidžia suformuluoti pilną faktinį sakinį.'
+  susije_objektai: 'mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -44,6 +48,8 @@ amziai:
 - t-003
   global_id: t-85990
   teiginys: 'Šv. Dvasios bažnyčios kapinių vartai buvo priešais įėjimą į prieglaudos namus.'
+  sudarymo_pagrindimas: 'Pirminis teiginys labiau kalba apie prieglaudos sklypą, todėl perrašyta apie bažnyčios aplinką.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-005
 
@@ -51,6 +57,8 @@ amziai:
 - t-004
   global_id: t-85991
   teiginys: 'Šventosios Trejybės prieglaudai plėsti ketinta supirkti Šv. Dvasios bažnyčios namelius ir du namelius priešais bažnyčią.'
+  sudarymo_pagrindimas: 'Citata leidžia suformuluoti konkretų faktą apie bažnyčios aplinką.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]'
   pagrindžia:
     - c-001
 
@@ -58,6 +66,11 @@ amziai:
 - t-005
   global_id: t-85992
   teiginys: '1501 m. Aleksandras pakvietė dominikonus į Vilnių, atidavė jiems Šv. Dvasios kleboniją ir skyrė lėšų bažnyčiai bei vienuolynui statyti.'
+  sudarymo_pagrindimas: 'Fragmentas perrašytas į aiškų sakinį be nutrūkusių dalių.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/klebonija|klebonija]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Korčiakas|Korčiakas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1501 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Fragmentas perrašytas į aiškų sakinį be nutrūkusių dalių.'
   pagrindžia:
     - c-003
 

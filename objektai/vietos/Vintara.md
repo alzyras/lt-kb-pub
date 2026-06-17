@@ -23,6 +23,7 @@ tags:
 - t-001
   global_id: t-42305
   teiginys: 'Kariuomenių išsidėstymą natūroje atitinka Vintaros, o ne Žirnajos, padėtis; Vintara yra dešinysis Žirnajos intakas, tekantis per dabartinį Pabaiską.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Gelvonai; mentioned_place: Pabaiskas'
   pagrindžia:
     - c-001
 

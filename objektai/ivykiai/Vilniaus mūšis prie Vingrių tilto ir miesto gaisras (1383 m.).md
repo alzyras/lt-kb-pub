@@ -15,6 +15,7 @@ tags:
   - karalius
   - miestas
   - mūšis
+  - ordinas
 amziai:
   - 'XIV'
 ---
@@ -46,6 +47,8 @@ Nenurodyta
 - t-001
   global_id: t-86928
   teiginys: 'Per mūšį į medinius Vilniaus namus mestas deglas sukėlė didžiulį gaisrą, pasiglemžusį didelę miesto dalį.'
+  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir sakinys suformuluotas sklandžiai.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Deglas|Deglas]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]; mentioned_object: [[objektai/daiktai/Šv. Jurgio vėliava|Šv. Jurgio vėliava]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -53,6 +56,12 @@ Nenurodyta
 - t-002
   global_id: t-86929
   teiginys: '1383 m. prie Vilniaus, ant tilto ties Vingrių versmėmis, užvirė atkaklus mūšis.'
+  sudarymo_pagrindimas: 'Pašalinta išnašų ir puslapio triukšmo medžiaga.'
+  susije_objektai: 'event: [[objektai/ivykiai/Vilniaus mūšis prie Vingrių tilto ir miesto gaisras (1383 m.)|Vilniaus mūšis prie Vingrių tilto ir miesto gaisras (1383 m.)]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/Tavoras|Tavoras]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/nuorašas|nuorašas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_place: Viena; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]] dalyvavo mūšyje [[objektai/ivykiai/Vilniaus mūšis prie Vingrių tilto ir miesto gaisras (1383 m.)|Vilniaus mūšis prie Vingrių tilto ir miesto gaisras (1383 m.)]]'
+  temporaliniai_duomenys: 'mūšio data: 1383 m.; mūšio data: 1388 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Tomas (Hertvigo iš Pokarvių sūnus) dalyvavo mūšyje Vilniaus mūšis prie Vingrių tilto ir miesto gaisras (1383 m.)“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalinta išnašų ir puslapio triukšmo medžiaga.'
   pagrindžia:
     - c-001
 
@@ -121,14 +130,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Deglas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/zodynas/didysis magistras]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/nuorašas]]
-- [[objektai/zodynas/vėliava]]
-- [[objektai/daiktai/Šv. Jurgio vėliava]]
-- [[objektai/grupes/Lietuviai Lietuvos kariuomenė]]
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]] dalyvavo_musyje Vilniaus mūšis prie Vingrių tilto ir miesto gaisras (1383 m.)

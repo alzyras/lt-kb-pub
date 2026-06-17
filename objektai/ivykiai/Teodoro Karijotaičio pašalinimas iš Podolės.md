@@ -4,9 +4,11 @@ pavadinimas: 'Teodoro Karijotaičio pašalinimas iš Podolės'
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 datos:
+  - '1388 m.'
   - '1393 m.'
+  - '1394 m.'
   - '1395 m.'
-date_start: '1393'
+date_start: '1388'
 date_end: '1395'
 sukurta: ''
 atnaujinta: ''
@@ -17,7 +19,7 @@ amziai:
 
 ## Santrauka
 
-Redakcinė pastaba teigia, kad Vytautas 1393 m. pašalino Teodorą Karijotaitį iš Podolės. Lietuvos metraštis teigia, kad Vytautas 1393 m. pašalino Teodorą Karijotaitį iš Podolės ir pats perėmė jos valdymą. Redakcinė pastaba teigia, kad po 1393 m. pašalinimo Vytautas pats perėmė Podolės valdymą.
+Redakcinė pastaba teigia, kad Vytautas 1393 m. pašalino Teodorą Karijotaitį iš Podolės. Redakcinė pastaba šį veiksmą apibūdina kaip vieną iš valstybės centralizavimo aktų.
 
 ## Laikotarpis ir datos
 
@@ -46,21 +48,26 @@ Nenurodyta
 <a id="claim-t-186700"></a>
 - t-001
   global_id: t-186700
-  teiginys: 'Redakcinė pastaba teigia, kad Vytautas 1393 m. pašalino Teodorą Karijotaitį iš Podolės.'
+  teiginys: 'Redakcinė pastaba Teodoro Karijotaičio pašalinimą iš Podolės 1393 m. sieja su Vytautu ir laiko valstybės centralizavimo aktu.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Citata palaiko ir veiksmą, ir redakcinį vertinimą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]; mentioned_place: Podolė'
+  temporaliniai_duomenys: 'įvykio data: 1388 m.; įvykio data: apie 1388 m.; įvykio data: 1393 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko ir veiksmą, ir redakcinį vertinimą.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-186701"></a>
 - t-002
   global_id: t-186701
-  teiginys: 'Lietuvos metraštis teigia, kad Vytautas 1393 m. pašalino Teodorą Karijotaitį iš Podolės ir pats perėmė jos valdymą.'
-  pagrindžia:
-    - c-001
-
-<a id="claim-t-186702"></a>
-- t-003
-  global_id: t-186702
-  teiginys: 'Redakcinė pastaba teigia, kad po 1393 m. pašalinimo Vytautas pats perėmė Podolės valdymą.'
+  teiginys: 'Vytautas 1393 m. pašalino Teodorą Karijotaitį iš Podolės ir pats perėmė jos valdymą.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Pakartotas tas pats citatos remiamas faktas apie įvykio subjektą, veiksmą ir rezultatą. Papildomos vakarinės ir rytinės Podolės detalės neįtrauktos.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lenkija; mentioned_place: Podolė'
+  temporaliniai_duomenys: 'įvykio data: 1393 m.; įvykio data: 1394 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pakartotas tas pats citatos remiamas faktas apie įvykio subjektą, veiksmą ir rezultatą. Papildomos vakarinės ir rytinės Podolės detalės neįtrauktos.'
   pagrindžia:
     - c-001
 
@@ -84,6 +91,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: 'Redakcinė pastaba Teodoro Karijotaičio pašalinimą iš Podolės 1393 m. sieja su Vytautu ir laiko valstybės centralizavimo aktu.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     Podolę ėmė val­
@@ -97,12 +105,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
-- [[objektai/asmenys/Konstantinas (Karijotaitis)]]
-- [[objektai/asmenys/Vladislovas Lokietka]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/metraštis]]

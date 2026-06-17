@@ -9,39 +9,71 @@ date_start: '1525'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XVI'
 tags:
   - didikas
   - karalius
   - ordinas
   - sąvoka
+amziai:
+  - 'XVI'
 ---
 # protestantizmas
 
 ## Santrauka
 
-Protestantizmas labai greitai pasiekė Lietuvą. Karalių Vazų laikais paaiškėjo, kad protestantizmas Lietuvoje nyks, ypač išmirus protestantiškajai Radvilų šakai. XVI a. protestantizmo banga Lietuvoje paveikė katalikybę, bet amžiaus pabaigoje jėzuitai padėjo jai atsigauti.
+Protestantizmas labai greitai pa- siekė Lietuvą. protestantizmas: lietuvos didikų tarpe labiausiai buvo įsigalėjęs kalvinizmas, o miestuose ir kai kur vidutinės bajo- rijos tarpe — liuteranizmas. protestantizmas: xVI am- žiuje užplūdusi protestantizmo banga išjudino iš pamatų kata- likybę Lietuvoje. Beveik visos didžiųjų ponų šeimos buvo išvir- tusios protestantais. Bet jau to pat amžiaus gale atvykusių jėzuitų pastangomis katalikybė ėmė atsigauti, ir daugelis.
 
 ## Teiginiai
+
 <a id="claim-t-168684"></a>
 - t-001
   global_id: t-168684
-  teiginys: 'Lietuvos protestantizmo srovės skyrėsi: tarp didikų labiausiai įsigalėjo kalvinizmas, o miestuose ir kai kur tarp vidutinės bajorijos - liuteranizmas.'
+  teiginys: 'Karalių Vazų laikais paaiškėjo, kad protestantizmas Lietuvoje nyks, ypač išmirus protestantiškajai Radvilų šakai.'
+  sudarymo_pagrindimas: 'Citata remia tikslesnį ir informatyvesnį sakinį.'
   pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+    - c-002
+
 <a id="claim-t-168689"></a>
 - t-002
   global_id: t-168689
-  teiginys: 'Karalių Vazų laikais paaiškėjo, kad protestantizmas Lietuvoje nyks, ypač išmirus protestantiškajai Radvilų šakai.'
+  teiginys: 'Lietuvos protestantizmo srovės skyrėsi: tarp didikų labiausiai įsigalėjo kalvinizmas, o miestuose ir kai kur tarp vidutinės bajorijos - liuteranizmas.'
+  sudarymo_pagrindimas: 'Perrašyta, kad teiginys aiškiau sietųsi su protestantizmu.'
   pagrindžia:
-    - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-
+    - c-001
+- susijęs iš [[objektai/autoriai/J. Bretkūnas.md#claim-t-05719|J. Bretkūnas]]: J. Bretkūnas buvo tarp lietuvių, rašiusių protestantizmo skleidimo tekstus.
+- susijęs iš [[objektai/autoriai/Martynas Mažvydas Vaitkūnas.md#claim-t-64753|Martynas Mažvydas Vaitkūnas]]: Mažvydas rašė lietuviškas protestantiškas knygas.
+- susijęs iš [[objektai/autoriai/Stanislovas Rapagelionis.md#claim-t-05728|Stanislovas Rapagelionis]]: Stanislovas Rapagelionis buvo tarp lietuvių, rašiusių tikybines knygas Mažojoje Lietuvoje.
+- susijęs iš [[objektai/grupes/Biržų Radvilos.md#claim-t-72037|Biržų Radvilos]]: Biržų Radvilos vėliau liko tarp svarbiausių protestantizmo rėmėjų po M. Radvilos Rudojo.
+- susijęs iš [[objektai/grupes/Biržų Radvilos.md#claim-t-72038|Biržų Radvilos]]: Biržų Radvilos po M. Radvilos Rudojo išliko svarbūs protestantizmo rėmėjai.
+- susijęs iš [[objektai/grupes/Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai.md#claim-t-101239|Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai]]: XVI a. šeštajame ir septintajame dešimtmetyje beveik visi LDK didikai perėjo į reformaciją ir sekuliarizavo savo funduotas bažnyčias.
+- susijęs iš [[objektai/grupes/Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai.md#claim-t-183129|Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai]]: Antruoju reformacijos etapu LDK didikai rinkosi kalvinizmą, siekdami silpninti didžiojo kunigaikščio ir Katalikų bažnyčios įtaką.
+- susijęs iš [[objektai/grupes/Katalikų Bažnyčia.md#claim-t-116734|Katalikų Bažnyčia]]: Lietuvos didikai reformacijos antruoju etapu rinkosi kalvinizmą, siekdami silpninti didžiojo kunigaikščio valdžią ir Katalikų bažnyčios įtaką.
+- susijęs iš [[objektai/grupes/Katalikų Bažnyčia.md#claim-t-182895|Katalikų Bažnyčia]]: Katalikų Bažnyčia Vakaruose pradėjo kovą su protestantizmu.
+- susijęs iš [[objektai/paprociai/Baudžiauninkų tikėjimo priklausomybė nuo pono paskirto kunigo.md#claim-t-01930|Baudžiauninkų tikėjimo priklausomybė nuo pono paskirto kunigo]]: Baudžiauninkai turėdavo priklausyti tam tikėjimui, kurio kunigą ponas paskirdavo savo bažnyčioje.
+- susijęs iš [[objektai/paprociai/Didikų perėjimas į kalvinizmą ir funduotų bažnyčių sekuliarizavimas.md#claim-t-183306|Didikų perėjimas į kalvinizmą ir funduotų bažnyčių sekuliarizavimas]]: Reformacijos antrajame etape didikai rinkosi kalvinizmą, nes jis tiko jų siekiui silpninti didžiojo kunigaikščio ir Katalikų bažnyčios įtaką.
+- susijęs iš [[objektai/paprociai/Didikų perėjimas į kalvinizmą ir funduotų bažnyčių sekuliarizavimas.md#claim-t-54226|Didikų perėjimas į kalvinizmą ir funduotų bažnyčių sekuliarizavimas]]: XVI a. šeštajame ir septintajame dešimtmetyje beveik visi LDK didikai perėjo į reformaciją ir sekuliarizavo savo funduotas bažnyčias.
+- susijęs iš Italija: Katalikybė sudarė prielaidas Italijos ir Ispanijos baroko kultūrai plisti Vakarų Europos katalikiškose šalyse.
+- susijęs iš Italija: Katalikybė sudarė prielaidas Italijos ir Ispanijos baroko kultūrai plisti Vakarų Europos katalikiškose šalyse.
+- susijęs iš Lietuva: XVI a. pabaigoje protestantizmas Lietuvoje buvo labai įsigalėjęs tarp didikų ir miestiečių.
+- susijęs iš Lisabona: XVI–XVII a. Lisabona kartu su Roma ir Madridu skleidė katalikybės bei barokinės architektūros ir dailės įtaką iki Meksikos ir Paragvajaus.
+- susijęs iš Madridas: XVI–XVII a. Madridas tebespinduliavo katalikybės ir barokinės architektūros bei dailės šviesą iki Meksikos ir Paragvajaus.
+- susijęs iš Mažoji Lietuva: Žmonių iš Mažosios Lietuvos lietuviškai skelbtas protestantizmas buvo silpnas ir trumpas judėjimas.
+- susijęs iš Mažoji Lietuva: 1921 m. lapkričio 11 d. Steigiamasis Seimas vienbalsiai pareikalavo įjungti Klaipėdos teritoriją į Lietuvos sudėtį, demonstruodamas vienybę su Mažąja Lietuva.
+- susijęs iš Olandija: XVII-XVIII a. Olandija ir Anglija priklausė šiaurinei, dinamiškajai Vakarų Europos daliai.
+- susijęs iš Prancūzija: Katalikybė sudarė prielaidą Italijos ir Ispanijos baroko kultūrai plisti Prancūzijoje.
+- susijęs iš Prancūzija: XVII–XVIII a. Italijos ir Ispanijos baroko kultūra plito katalikiškoje Prancūzijoje, Bavarijoje ir Flandrijoje.
+- susijęs iš Skandinavija: Protestantizmas padėjo Skandinavijai pritapti prie dinamiškosios šiaurinės Vakarų Europos dalies.
+- susijęs iš Vidurio Europa: Katalikiškoji Vidurio Europa šliejosi prie katalikybę išpažinusios pietinės Vakarų Europos.
+- susijęs iš Vilnius: Mikalojus Radvila Juodasis Lukiškėse pastatė kalvinų bažnyčią ir traukė į ją vilniečius.
+- susijęs iš Vilnius: Karalius Vilniuje užkirto kelią piktnaudžiavimams ir maištams dėl pataisyto kalendoriaus įvedimo.
+- susijęs iš Vokietija: Vokietijos universitetuose besimokę didikų vaikai protestantų mokslą parsiveždavo į Lietuvą.
+- susijęs iš Vokietija: Išvykę į Vokietijos universitetus jaunuoliai dažnai vėl pereidavo į protestantizmą.
+- susijęs iš Šiaurės Europa: XVII–XVIII a. Šiaurės Europa dėl protestantizmo pritapo prie dinamiškosios Vakarų Europos dalies.
+- susijęs iš Šiaurės Europa: Protestantizmas lėmė, kad Šiaurės Europa per XVII–XVIII a. pritapo prie dinamiškosios Vakarų Europos dalies ir pralenkė katalikiškąją Vidurio Europą.
+- susijęs iš [[objektai/zodynas/reformacija protestantizmas kalvinizmas.md#claim-t-22264|reformacija protestantizmas kalvinizmas]]: Antruoju reformacijos etapu Lietuvos didikai pasirinko kalvinizmą, nes jis atitiko jų siekį silpninti didžiojo kunigaikščio valdžią ir Katalikų bažnyčią.
+- susijęs iš [[objektai/zodynas/reformacija.md#claim-t-77786|reformacija]]: Antruoju reformacijos etapu Lietuvos didikai pasirinko kalvinizmą, nes jis atitiko jų siekį silpninti didžiojo kunigaikščio valdžią ir Katalikų bažnyčią.
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Lietuvos protestantizmo srovės skyrėsi: tarp didikų labiausiai įsigalėjo kalvinizmas, o miestuose ir kai kur tarp vidutinės bajorijos - liuteranizmas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -53,13 +85,12 @@ Protestantizmas labai greitai pasiekė Lietuvą. Karalių Vazų laikais paaišk�
     savitarpio nesutikimai. Lietuvos didikų tarpe labiausiai buvo
     įsigalėjęs kalvinizmas, o miestuose ir kai kur vidutinės bajo-
     rijos tarpe — liuteranizmas.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
+
 - c-002
   santrauka: 'Karalių Vazų laikais paaiškėjo, kad protestantizmas Lietuvoje nyks, ypač išmirus protestantiškajai Radvilų šakai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -71,27 +102,8 @@ Protestantizmas labai greitai pasiekė Lietuvą. Karalių Vazų laikais paaišk�
     tantizmui laikytis buvo neįmanoma. Todėl iki mūsų laikų Lie-
     tuvoje protestantų išliko tik mažos salelės apie buvusius Rad-
     vilų centrus.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Protestantai]]
-- [[objektai/asmenys/Radvila]]
-- [[objektai/paprociai/Baudžiauninkų tikėjimo priklausomybė nuo pono paskirto kunigo]]
-- [[objektai/grupes/Biržų Radvilos]]
-- [[objektai/paprociai/Didikų perėjimas į kalvinizmą ir funduotų bažnyčių sekuliarizavimas]]
-- [[objektai/grupes/Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai]]
-- [[objektai/autoriai/J. Bretkūnas]]
-- [[objektai/grupes/Katalikų Bažnyčia]]
-- [[objektai/autoriai/Martynas Mažvydas Vaitkūnas]]
-- [[objektai/paprociai/Protestantų pamaldos lenkiškai]]
-- [[objektai/autoriai/Stanislovas Rapagelionis]]
-- [[objektai/asmenys/Zigmantas Augustas]]
-- [[objektai/zodynas/reformacija]]
-- [[objektai/zodynas/reformacija protestantizmas kalvinizmas]]
+    - t-001

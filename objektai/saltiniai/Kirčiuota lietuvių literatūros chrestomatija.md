@@ -20,6 +20,8 @@ Kamantausko, KIRČIUOTA LIETUVIŲ LITERATŪROS CHRESTOMATIJA. Iki šiol dar nė 
 - t-001
   global_id: t-36061
   teiginys: 'Kirčiuota lietuvių literatūros chrestomatija pristatyta kaip reikalinga norintiems gerai išmokti rašomosios lietuvių kalbos kirčiavimo.'
+  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir paliktas citatos palaikomas faktas apie chrestomatijos paskirtį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Viena'
   pagrindžia:
     - c-002
 
@@ -27,6 +29,7 @@ Kamantausko, KIRČIUOTA LIETUVIŲ LITERATŪROS CHRESTOMATIJA. Iki šiol dar nė 
 - t-002
   global_id: t-36062
   teiginys: 'V. Kamantausko „Kirčiuotos lietuvių literatūros chrestomatijos“ kirčius patikrino dr. Pr. Skardžius.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/autoriai/Pr. Skardžius|Pr. Skardžius]]'
   pagrindžia:
     - c-001
 

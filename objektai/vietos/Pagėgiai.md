@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Kalmantavičiaus-Bajoro vadovaujama sukilėlių grupė be pasipriešinimo užėmė Pagėgius. Pagėgių sukilėlių grupę sudarė 3 kuopos, kuriose buvo 13 karininkų, 180 kareivių ir 250 šaulių. Sausio 14 d. iš Pagėgių atvyko dalis II ir III grupių sukilėlių pagrindinėms pajėgoms sustiprinti.
+Sukilėlių pajėgos buvo suskirstytos į tris grupes - Klaipėdos, Pagėgių ir Šilutės. Kalmantavičiaus-Bajoro vadovaujama grupė be pasipriešinimo užima Pagėgius, o Jakšto-Kalvaičio vadovaujama III grupė Šilutę. [0] Sausio 14 d. iš Šilutės ir Pagėgių atvyksta II ir III grupių sukilėlių dalis, pagrindinių sukilėlių pajėgų sustiprinimui.
 
 ## Teiginiai
 
@@ -21,6 +21,8 @@ Kalmantavičiaus-Bajoro vadovaujama sukilėlių grupė be pasipriešinimo užėm
 - t-001
   global_id: t-41996
   teiginys: 'Kalmantavičiaus-Bajoro vadovaujama sukilėlių grupė be pasipriešinimo užėmė Pagėgius.'
+  sudarymo_pagrindimas: 'Perrašyta pašalinant nereikalingą inicialą ir išlaikant citatos paremtą faktą.'
+  susije_objektai: 'mentioned_place: Klaipėda'
   pagrindžia:
     - c-002
 
@@ -28,6 +30,8 @@ Kalmantavičiaus-Bajoro vadovaujama sukilėlių grupė be pasipriešinimo užėm
 - t-002
   global_id: t-41997
   teiginys: 'Pagėgių sukilėlių grupę sudarė 3 kuopos, kuriose buvo 13 karininkų, 180 kareivių ir 250 šaulių.'
+  sudarymo_pagrindimas: 'Citata leidžia pateikti konkretesnį faktą apie Pagėgių grupę.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Kariauna|Kariauna]]; mentioned_place: Šilutė'
   pagrindžia:
     - c-001
 
@@ -35,6 +39,7 @@ Kalmantavičiaus-Bajoro vadovaujama sukilėlių grupė be pasipriešinimo užėm
 - t-003
   global_id: t-41998
   teiginys: 'Sausio 14 d. iš Pagėgių atvyko dalis II ir III grupių sukilėlių pagrindinėms pajėgoms sustiprinti.'
+  susije_objektai: 'location: Šilutė; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Šilutė'
   pagrindžia:
     - c-003
 

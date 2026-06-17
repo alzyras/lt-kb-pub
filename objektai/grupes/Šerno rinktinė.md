@@ -19,7 +19,7 @@ amziai:
 
 ## Santrauka
 
-1946 m. rugpjūčio 20 d. J. Žemaitis tapo Šerno rinktinės vadu.
+1946 m. rugpjūčio 20 d. jis tapo Šerno rinktinės vadu, o nuo 1945 m. Žebenkšties rinktinės štabo viršininku.
 
 ## Teiginiai
 
@@ -27,6 +27,11 @@ amziai:
 - t-001
   global_id: t-41212
   teiginys: '1946 m. rugpjūčio 20 d. J. Žemaitis tapo Šerno rinktinės vadu.'
+  sudarymo_pagrindimas: 'Išplėstas asmens įvardijimas pagal citatą.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/Šernas|Šernas]]'
+  temporaliniai_duomenys: 'įvykio data: po 1945 m.; įvykio data: 1945 m.; įvykio data: 1946 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Išplėstas asmens įvardijimas pagal citatą.'
   pagrindžia:
     - c-001
 
@@ -45,7 +50,3 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/Šernas]]

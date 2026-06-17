@@ -95,13 +95,3 @@ Augusto III valdymo pabaigoje Čartoriskiai pasiuntė Stanislovą Augustą Ponia
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/asmenys/Augustas]]
-- [[objektai/asmenys/Kotryna]]
-- [[objektai/grupes/Protestantai]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/grupes/Čartoriskiai]]
-- [[objektai/zodynas/įpėdinis]]

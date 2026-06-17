@@ -45,6 +45,11 @@ Nenurodyta
 - t-001
   global_id: t-28840
   teiginys: 'Lietuvos ir Tarybų Sąjungos savitarpinės pagalbos paktas 1939 m. spalio 10 d. žymėjo ketverių okupacijos metų laikotarpio pradžią.'
+  sudarymo_pagrindimas: 'Citata leidžia teiginį tiesiogiai susieti su pakto reikšme Lietuvai.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1939 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata leidžia teiginį tiesiogiai susieti su pakto reikšme Lietuvai.'
   pagrindžia:
     - c-001
 
@@ -65,7 +70,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Vokiečiai]]

@@ -5,8 +5,9 @@ saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1000 m.'
+  - '1300 m.'
 date_start: '1000'
-date_end: ''
+date_end: '1300'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -14,6 +15,7 @@ tags:
   - pilis
 amziai:
   - 'X'
+  - 'XIII'
 ---
 # Senosios Torunės pilaitės sunaikinimas prūsų
 
@@ -43,6 +45,12 @@ Nenurodyta
 - t-001
   global_id: t-62920
   teiginys: 'Dabartinės Torunės pilies vietoje stovėjusi X a. vidurio–XII–XIII a. sandūros pilaitė buvo sunaikinta prūsų.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Citata pagrindžia pilaitės datavimą ir sunaikinimą prūsų.'
+  susije_objektai: 'mentioned_place: Pilaitė; mentioned_place: Prūsai; mentioned_place: Torunė'
+  temporaliniai_duomenys: 'įvykio data: 500 m; įvykio data: iki 1300 m.; įvykio data: 1300 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia pilaitės datavimą ir sunaikinimą prūsų.'
   pagrindžia:
     - c-001
 

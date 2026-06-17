@@ -26,6 +26,9 @@ amziai:
 - t-001
   global_id: t-31898
   teiginys: 'Pskovskije letopisi 1-asis leidimas buvo išleistas Maskvoje-Leningrade 1941 m.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Pskoviečiai|Pskoviečiai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Naugardas'
+  temporaliniai_duomenys: 'įvykio data: 1941 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

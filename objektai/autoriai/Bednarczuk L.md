@@ -20,6 +20,8 @@ Dusburgietis teigia, kad antikinių šaltinių tyrimas rodo, kad lotyniškoji fo
 - t-001
   global_id: t-60676
   teiginys: 'L. Bednarczukas tyrė antikinių šaltinių onomastiką, susijusią su Vyslos vardo baltiška kilme.'
+  sudarymo_pagrindimas: 'Citata sieja Bednarczuko darbą su antikinių šaltinių onomastikos tyrimu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_place: Vysla'
   pagrindžia:
     - c-001
 
@@ -38,7 +40,3 @@ Dusburgietis teigia, kad antikinių šaltinių tyrimas rodo, kad lotyniškoji fo
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Baltai]]

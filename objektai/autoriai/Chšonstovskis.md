@@ -28,6 +28,7 @@ Spausdinta Vilniuje pas Joną Karcaną, 1583, in 4to, 54 p. (Chšonstovskio veik
 - t-001
   global_id: t-88089
   teiginys: 'Spausdinta Vilniuje pas Joną Karcaną, 1583, in 4to, 54 p. (Chšonstovskio veikalas).'
+  susije_objektai: 'mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -55,7 +56,3 @@ Spausdinta Vilniuje pas Joną Karcaną, 1583, in 4to, 54 p. (Chšonstovskio veik
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/bibliografija]]

@@ -28,6 +28,11 @@ periodo_grupes:
 - t-001
   global_id: t-39499
   teiginys: 'Bronius Liesis-Naktis žuvo 1949 m. rugpjūčio 13 d., kai Užpelkių miške buvo sunaikintas Prisikėlimo apygardos štabas.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nurodo Broniaus Liesio-Nakties žūties datą, vietą ir aplinkybes.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos laisvės kovos sąjūdis|Lietuvos laisvės kovos sąjūdis]]; mentioned_person: [[objektai/asmenys/Petras Bartkus-Žadgaila|Petras Bartkus-Žadgaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Užpelkiai'
+  temporaliniai_duomenys: 'įvykio data: 1949 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo Broniaus Liesio-Nakties žūties datą, vietą ir aplinkybes.'
   pagrindžia:
     - c-001
 
@@ -50,7 +55,3 @@ periodo_grupes:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuvos laisvės kovos sąjūdis]]

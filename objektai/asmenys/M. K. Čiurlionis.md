@@ -3,6 +3,9 @@ tipas: asmuo
 pavadinimas: 'M. K. Čiurlionis'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos: []
+date_start: ''
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -10,6 +13,9 @@ tags:
   - karas
   - mokslininkas
   - tauta
+  - valstybė
+amziai: []
+periodo_grupes: []
 ---
 # M. K. Čiurlionis
 
@@ -23,6 +29,8 @@ tags:
 - t-001
   global_id: t-63885
   teiginys: 'Po J. Stalino mirties „atšilimo“ laikotarpiu oficialiai išspausdinta M. K. Čiurlionio kūrybos albumų.'
+  sudarymo_pagrindimas: 'Teiginys pataisytas į gramatiškai sklandų sakinį apie Čiurlionio kūrybos leidybą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Mikalojus Konstantinas Čiurlionis|Mikalojus Konstantinas Čiurlionis]]'
   pagrindžia:
     - c-002
 
@@ -30,6 +38,7 @@ tags:
 - t-002
   global_id: t-63886
   teiginys: 'Čiurlionio muziejaus senojo meno ekspozicija.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_person: [[objektai/asmenys/Mikalojus Konstantinas Čiurlionis|Mikalojus Konstantinas Čiurlionis]]; mentioned_place: Kaunas; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 
@@ -37,9 +46,19 @@ tags:
 - t-003
   global_id: t-63887
   teiginys: 'M. K. Čiurlionis įvardijamas kaip didžiausias Lietuvos menininkas, dailininkas ir kompozitorius.'
+  sudarymo_pagrindimas: 'Pradinis tekstas buvo nutrūkęs, o citata leidžia suformuluoti aiškų sakinį apie Čiurlionį.'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Rusija'
+  temporaliniai_duomenys: 'įvykio data: po 1795 m.; įvykio data: 1795 m.; įvykio data: 1918-1919; įvykio data: 1919 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis tekstas buvo nutrūkęs, o citata leidžia suformuluoti aiškų sakinį apie Čiurlionį.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Mikalojus Konstantinas Čiurlionis.md#claim-t-101690|Mikalojus Konstantinas Čiurlionis (dailininkas)]]: M. K. Čiurlionis įvardijamas kaip didžiausias Lietuvos menininkas, dailininkas ir kompozitorius.
+- susijęs iš [[objektai/asmenys/Mikalojus Konstantinas Čiurlionis.md#claim-t-101691|Mikalojus Konstantinas Čiurlionis (dailininkas)]]: Mikalojus Konstantinas Čiurlionis muziką ir dailę studijavo Varšuvoje ir Leipcige.
+- susijęs iš [[objektai/asmenys/Mikalojus Konstantinas Čiurlionis.md#claim-t-101692|Mikalojus Konstantinas Čiurlionis (dailininkas)]]: Mikalojus Konstantinas Čiurlionis, kilęs iš etniškai lietuviškos aplinkos, bet dar gerai nemokėjęs lietuviškai, pasirinko lietuvius.
+- susijęs iš [[objektai/asmenys/Mikalojus Konstantinas Čiurlionis.md#claim-t-101694|Mikalojus Konstantinas Čiurlionis (dailininkas)]]: M. K. Čiurlionis įvardijamas kaip didžiausias Lietuvos menininkas, dailininkas ir kompozitorius.
+- susijęs iš Varšuva: Mikalojus Konstantinas Čiurlionis muziką ir dailę studijavo Varšuvoje ir Leipcige.
+- susijęs iš Varšuva: Mikalojus Konstantinas Čiurlionis muziką ir dailę studijavo Varšuvoje ir Leipcige.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -97,10 +116,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/įgula]]
-- [[objektai/zodynas/destalinizacija atšilimo laikotarpis]]
-- [[objektai/zodynas/destalinizacija postalininis metas atšilimo laikotarpis]]

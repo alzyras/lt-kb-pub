@@ -27,9 +27,18 @@ amziai:
 - t-001
   global_id: t-42464
   teiginys: '1919 m. spalio 9 d. Lietuvos vyriausybė paskelbė visoje šalyje karo padėtį, spalio 16 d. buvo priimtas sprendimas jėga išvaryti bermontininkus iš Lietuvos.'
+  sudarymo_pagrindimas: 'Teiginys yra išsamus, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bermontininkai|Bermontininkai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1919 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra išsamus, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/ivykiai/III Seimo daugumos demokratinės reformos (1926 m. birželio 17 d.).md#claim-t-23318|III Seimo daugumos demokratinės reformos (1926 m. birželio 17 d.)]]: 1926 m. birželio 17 d. panaikinta karo padėtis.
+- susijęs iš [[objektai/ivykiai/Karo padėties Klaipėdos krašte atšaukimas po Miuncheno susitarimo (1938 m. pabaiga).md#claim-t-169829|Karo padėties Klaipėdos krašte atšaukimas po Miuncheno susitarimo (1938 m. pabaiga)]]: Lietuvos vyriausybė į Klaipėdos uostą investavo 42 mln. litų, tačiau iš jo gavo tik 11 mln. litų pajamų.
+- susijęs iš [[objektai/paprociai/Klaipėdos krašto lietuvinimas per kalbos ir švenčių dalyvavimo nurodymus tarnautojams.md#claim-t-77956|Klaipėdos krašto lietuvinimas per kalbos ir švenčių dalyvavimo nurodymus tarnautojams]]: Nurodymai Klaipėdos krašto tarnautojams darbe kalbėti lietuviškai ir dalyvauti lietuviškose šventėse trukdė krašto integracijai.
+- susijęs iš Klaipėdos krašto Statutas: Klaipėdos krašto Statute įrašytas dviejų kalbų lygiateisiškumas 1938 m. pabaigoje faktiškai buvo virtęs fikcija.
+- susijęs iš Memelio (Klaipėdos) Konvencija ir Statutas: Lietuvos vyriausybė į Klaipėdos uostą investavo 42 mln. litų, o pajamų gavo 11 mln. litų.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -51,11 +60,3 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bermontininkai]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/ivykiai/Karo padėties Klaipėdos krašte atšaukimas po Miuncheno susitarimo (1938 m. pabaiga)]]
-- [[objektai/paprociai/Klaipėdos krašto lietuvinimas per kalbos ir švenčių dalyvavimo nurodymus tarnautojams]]
-- [[objektai/ivykiai/Lietuvos karo padėties paskelbimas ir sprendimas išvaryti bermontininkus iš Lietuvos (1919 m. spalio 9–16 d.)]]

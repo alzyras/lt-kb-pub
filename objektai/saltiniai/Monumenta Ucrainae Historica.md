@@ -28,6 +28,8 @@ amziai:
 - t-001
   global_id: t-31851
   teiginys: 'Kardinolas J. Slipyj išleido metropolito A. Šeptyckio surinktų dokumentų rinkinį „Monumenta Ucrainae Historica“.'
+  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytą J. Slipyj vaidmenį išleidžiant dokumentų rinkinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_place: Lietuva; mentioned_place: Prūsai'
   pagrindžia:
     - c-002
 
@@ -35,6 +37,11 @@ amziai:
 - t-002
   global_id: t-31852
   teiginys: 'A. Šeptyckio „Monumenta Ucrainae Historica“ I–XII tomai išleisti Romoje 1964–1975 m., redaguojant V. Jatuliui.'
+  sudarymo_pagrindimas: 'Citata patvirtina autorių, tomus, leidimo vietą, metus ir redaktorių.'
+  susije_objektai: 'mentioned_place: Roma'
+  temporaliniai_duomenys: 'įvykio data: 1964-1975; įvykio data: 1975 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata patvirtina autorių, tomus, leidimo vietą, metus ir redaktorių.'
   pagrindžia:
     - c-001
 

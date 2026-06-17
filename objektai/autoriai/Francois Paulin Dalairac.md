@@ -3,10 +3,6 @@ tipas: autorius
 pavadinimas: 'Francois Paulin Dalairac'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-aliases:
-  - 'objektai/asmenys/Francois Paulin Dalairac'
-variantai:
-  - 'Francois Paulin Dalairac'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -24,9 +20,10 @@ Francois Paulin Dalairac vadinasi lenkų autoramentu [Armee Polonoise], 0 ją su
 - t-001
   global_id: t-181536
   teiginys: 'Francois Paulin Dalairac vadinasi lenkų autoramentu [Armee Polonoise], 0 ją sudaro du trečdaliai, tai yra 24 000 raitelių.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/dragūnai|dragūnai]]; mentioned_object: [[objektai/zodynas/komputas|komputas]]; mentioned_place: Prancūzija; mentioned_place: Viena'
   pagrindžia:
     - c-001
-
+- susijęs iš Francois Paulin Dalairac atsiminimai apie Lenkijos ir Lietuvos kariuomenes: Francois Paulin Dalairac rašė, kad Karūnos ir Lietuvos kariuomenė buvo padalyta į lenkų ir svetimšalių autoramentus.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -46,9 +43,3 @@ Francois Paulin Dalairac vadinasi lenkų autoramentu [Armee Polonoise], 0 ją su
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/zodynas/dragūnai]]
-- [[objektai/zodynas/komputas]]

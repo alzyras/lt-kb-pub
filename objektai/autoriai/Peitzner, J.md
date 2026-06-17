@@ -29,6 +29,8 @@ Hruševskoho, I, 1928, Kijiv, 165-168 p. — Peitzner, J.
 - t-001
   global_id: t-30923
   teiginys: 'J. Peitznerio darbe „PfiW“ buvo du skyriai apie Vytauto rytų politiką.'
+  sudarymo_pagrindimas: 'Citata nurodo Peitznerį ir jo darbo skyrių temą.'
+  susije_objektai: 'mentioned_place: Maskva'
   pagrindžia:
     - c-001
 

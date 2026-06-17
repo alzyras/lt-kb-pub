@@ -20,6 +20,8 @@ Kampuose buvo išdėstomi šaulių padaliniai - „rankovės, batalionu, kolona 
 - t-001
   global_id: t-38731
   teiginys: 'Rankovės buvo šaulių padaliniai, išdėstomi pėstininkų rikiuotės kampuose.'
+  sudarymo_pagrindimas: 'Reikia pašalinti neaiškų junginį su garnizonais ir suformuluoti tiesiogiai pagal citatą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -36,7 +38,3 @@ Kampuose buvo išdėstomi šaulių padaliniai - „rankovės, batalionu, kolona 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuvos kariuomenė]]

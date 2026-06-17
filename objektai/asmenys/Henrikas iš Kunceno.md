@@ -23,6 +23,8 @@ Dusburgietis teigia, kad apie brolį Henriką iš Kunceno Tuo metu Prūsijoje mi
 - t-001
   global_id: t-59973
   teiginys: 'Henrikas iš Kunceno mirė Prūsijoje ir buvo gimęs Tiuringijoje.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citatos pradžia.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
 
@@ -30,6 +32,8 @@ Dusburgietis teigia, kad apie brolį Henriką iš Kunceno Tuo metu Prūsijoje mi
 - t-002
   global_id: t-59974
   teiginys: 'Henrikas iš Kunceno, atvykęs į Prūsiją, davė įžadus Teutonų ordinui ir vienuolyne pranoko kitus brolius dorybėmis.'
+  sudarymo_pagrindimas: 'Citata pagrindžia Henriko įžadus ir apibūdina jo elgesį vienuolyne.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Prūsija; mentioned_place: Viena'
   pagrindžia:
     - c-003
 
@@ -37,6 +41,8 @@ Dusburgietis teigia, kad apie brolį Henriką iš Kunceno Tuo metu Prūsijoje mi
 - t-003
   global_id: t-59975
   teiginys: 'Henrikui iš Kunceno pasižadėjus įstoti į Teutonų ordiną, išnyko jį gąsdinęs sambūris ir regėjimai.'
+  sudarymo_pagrindimas: 'Teiginys perrašytas į pilną sakinį su aiškiu veikėju ir rezultatu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]'
   pagrindžia:
     - c-002
 
@@ -93,11 +99,3 @@ Dusburgietis teigia, kad apie brolį Henriką iš Kunceno Tuo metu Prūsijoje mi
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/Henrikas]]
-- [[objektai/grupes/Teutonai]]
-- [[objektai/grupes/Žydai]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/zodynas/pasaulietis]]

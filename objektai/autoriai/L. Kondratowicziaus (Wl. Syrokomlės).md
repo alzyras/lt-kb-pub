@@ -22,9 +22,11 @@ Kondratowicziaus (Wl.
 - t-001
   global_id: t-54131
   teiginys: 'XIX a. tautinio atgimimo laikotarpiu L. Kondratowicziaus poema „Margier“ lietuviams darė stiprų įspūdį.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/tautinis atgimimas|tautinis atgimimas]]'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/autoriai/Ign. Kraszewskio.md#claim-t-29338|Ign. Kraszewskio]]: Ign. Kraszewskio apysaka „Kunigas“ XIX a. tautinio atgimimo laikotarpiu lietuviams darė stiprų įspūdį.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -39,8 +41,3 @@ Kondratowicziaus (Wl.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/tautinis atgimimas]]

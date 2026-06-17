@@ -30,6 +30,8 @@ Dusburgietis teigia, kad apie mūšį netoli Kelno, prie Vurungeno kaimo Tuo met
 - t-001
   global_id: t-60340
   teiginys: 'Netoli Kelno, prie Vurungeno kaimo, Jonas, Brabanto kunigaikštis, mūšyje nugalėjo Kelno arkivyskupą Zigfridą iš Runkelės.'
+  sudarymo_pagrindimas: 'Pradinis teiginys turi antraštės ir pasikartojančių fragmentų, bet citata palaiko aiškų faktą apie Joną.'
+  susije_objektai: 'mentioned_place: Kaimas; mentioned_place: Kelnas'
   pagrindžia:
     - c-001
 
@@ -53,7 +55,3 @@ Dusburgietis teigia, kad apie mūšį netoli Kelno, prie Vurungeno kaimo Tuo met
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/Mūšis prie Vurungeno kaimo|Mūšis prie Vurungeno kaimo (mūšis, XIII a.)]]

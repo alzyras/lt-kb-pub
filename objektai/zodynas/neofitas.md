@@ -5,6 +5,8 @@ saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1350 m.'
+  - '1388 m.'
+  - '1404 m.'
   - '2026 m.'
 date_start: '1350'
 date_end: '2026'
@@ -26,6 +28,11 @@ amziai:
 - t-001
   global_id: t-179583
   teiginys: '1388–1404 m. popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII draudė Vokiečių ordinui pulti lietuvius kaip neofitus.'
+  sudarymo_pagrindimas: 'Pradinis tekstas yra fragmentas be aiškaus veiksnio.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/Vakarų Bažnyčios schizma|Vakarų Bažnyčios schizma]]; mentioned_person: [[objektai/asmenys/Bonifacas IX|Bonifacas IX]]; mentioned_person: [[objektai/asmenys/Inocentas VII|Inocentas VII]]; mentioned_place: Malburgas'
+  temporaliniai_duomenys: 'įvykio data: 1388-1404; įvykio data: 1404 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis tekstas yra fragmentas be aiškaus veiksnio.'
   pagrindžia:
     - c-002
 
@@ -33,6 +40,8 @@ amziai:
 - t-002
   global_id: t-179584
   teiginys: 'Lietuvos katalikai buvo laikomi neofitais, nes į tikėjimą žiūrėjo šalčiau ir labiau iš reikalo negu iš įsitikinimo.'
+  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir suformuluotas aiškus sakinys apie neofitus.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/neofitai|neofitai]]; mentioned_place: Europa; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -40,9 +49,12 @@ amziai:
 - t-003
   global_id: t-179585
   teiginys: 'Popiežius Bonifacas IX rėmė neofitą Vytautą kaip kovotoją su katalikų priešais.'
+  sudarymo_pagrindimas: 'Pašalinta kontekstinė pradžia ir aiškiai įvardytas Bažnyčios ganytojas.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Bonifacas IX|Bonifacas IX]]'
   pagrindžia:
     - c-003
-
+- susijęs iš [[objektai/posakiai/„krikščionys turi raudoti dėl jo mirties“.md#claim-t-186393|„krikščionys turi raudoti dėl jo mirties“]]: Eiliuotinės kronikos autorius apie neofitą Suksę rašė, kad „krikščionys turi raudoti dėl jo mirties“.
+- susijęs iš [[objektai/posakiai/„krikščionys turi raudoti dėl jo mirties“.md#claim-t-186394|„krikščionys turi raudoti dėl jo mirties“]]: Eiliuotinės kronikos autorius žodžius „krikščionys turi raudoti dėl jo mirties“ įtraukė į kelias šiltas eilutes.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -93,16 +105,3 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Bonifacas IX]]
-- [[objektai/asmenys/Inocentas VII]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/daiktai/Kryžius]]
-- [[objektai/zodynas/Vakarų Bažnyčios schizma]]
-- [[objektai/zodynas/neofitai]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/posakiai/„krikščionys turi raudoti dėl jo mirties“]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Vokiečiai]]

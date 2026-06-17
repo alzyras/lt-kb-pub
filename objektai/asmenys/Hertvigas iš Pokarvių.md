@@ -30,6 +30,11 @@ Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Bra
 - t-001
   global_id: t-60329
   teiginys: 'Hertvigas iš Pokarvių buvo Tomo, kuris 1322 m. Brandenburgo pilyje mirė ir atgijo per Viešpaties kryžiaus atskalą, tėvas.'
+  sudarymo_pagrindimas: 'Citata Hertvigą sieja su Tomu kaip tėvą, todėl galima pateikti atsargų faktą apie jo vaidmenį.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/atskala|atskala]]; mentioned_person: [[objektai/asmenys/Flekenšteinas|Flekenšteinas]]; mentioned_person: [[objektai/asmenys/Gebhardas|Gebhardas]]; mentioned_person: [[objektai/asmenys/Gebhardas iš Manstfeldo|Gebhardas iš Manstfeldo]]; mentioned_person: [[objektai/asmenys/Hertvigas|Hertvigas]]; mentioned_place: Prūsija; mentioned_place: Reinas; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1322 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata Hertvigą sieja su Tomu kaip tėvą, todėl galima pateikti atsargų faktą apie jo vaidmenį.'
   pagrindžia:
     - c-001
 
@@ -56,14 +61,3 @@ Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Bra
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Flekenšteinas]]
-- [[objektai/asmenys/Gebhardas]]
-- [[objektai/asmenys/Gebhardas iš Manstfeldo]]
-- [[objektai/asmenys/Hertvigas]]
-- [[objektai/daiktai/Kryžius]]
-- [[objektai/zodynas/atskala]]
-- [[objektai/ivykiai/Dusburgiečio pasakojamas Tomo sūnaus prisikėlimas Brandenburgo pilyje (1322 m.)]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]

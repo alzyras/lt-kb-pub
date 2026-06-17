@@ -3,12 +3,19 @@ tipas: grupe
 pavadinimas: 'Kooperacinės bendrovės „Lietūkis“, „Pienocentras“ ir „Maistas“'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1935 m.'
+  - '1938 m.'
+date_start: '1935'
+date_end: '1938'
 sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
   - tauta
   - valstybė
+amziai:
+  - 'XX'
 ---
 # Kooperacinės bendrovės „Lietūkis“, „Pienocentras“ ir „Maistas“
 
@@ -22,6 +29,11 @@ Tūbelio veikla stiprino kapitalistinius santykius Lietuvoje, o kooperacijos, dr
 - t-001
   global_id: t-65314
   teiginys: '1935 m. „Pienocentras“ tris kartus sumažino iš valstiečių supirkinėtų pieno produktų kainas.'
+  sudarymo_pagrindimas: 'Citata pagrindžia faktą, tik reikia pašalinti OCR triukšmą ir sutvarkyti sakinį.'
+  susije_objektai: 'mentioned_place: Kaunas; mentioned_place: Suvalkija; mentioned_place: Veiveriai'
+  temporaliniai_duomenys: 'įvykio data: 1935 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia faktą, tik reikia pašalinti OCR triukšmą ir sutvarkyti sakinį.'
   pagrindžia:
     - c-002
 
@@ -29,6 +41,9 @@ Tūbelio veikla stiprino kapitalistinius santykius Lietuvoje, o kooperacijos, dr
 - t-002
   global_id: t-65315
   teiginys: 'Tūbelio veikla stiprino kapitalistinius santykius Lietuvoje, o kooperacijos, draugijų palaikymas sustambino lietuvių kooperacines bendroves „Lietūkis“, „Pienocentras“, „Maistas“.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/J. Tūbelis|J. Tūbelis]]; mentioned_place: Lietuva; mentioned_place: Vokietija; mentioned_place: Švedija'
+  temporaliniai_duomenys: 'įvykio data: 1938 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -69,9 +84,3 @@ Tūbelio veikla stiprino kapitalistinius santykius Lietuvoje, o kooperacijos, dr
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/J. Tūbelis]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/ivykiai/Suvalkijos valstiečių streikas ir Veiverių susidūrimas (1935 m.)]]

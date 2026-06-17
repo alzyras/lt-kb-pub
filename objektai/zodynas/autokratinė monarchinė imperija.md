@@ -3,16 +3,26 @@ tipas: zodyno_irasas
 pavadinimas: 'autokratinė monarchinė imperija'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1795 m.'
+  - '1812 m.'
+  - '1905 m.'
+  - '1915 m.'
+date_start: '1795'
+date_end: '1915'
 sukurta: ''
 atnaujinta: ''
 tags:
   - sąvoka
+amziai:
+  - 'XVIII'
+  - 'XX'
 ---
 # autokratinė monarchinė imperija
 
 ## Santrauka
 
-Vietiniame Rusijos imperijos valdyme gubernijai vadovavo caro skiriamas, vidaus reikalų žinybai pavaldus gubernatorius. Vietiniame Rusijos imperijos valdyme gubernijai vadovavo caro skiriamas, vidaus reikalų žinybai pavaldus gubernatorius. 1795–1915 m. Lietuva, išskyrus Užnemunę ir 1812 m. Napoleono interliudą, priklausė autokratinei Rusijos imperijai.
+Š iuo laikotarpiu Lietuva (darant išlygą dėl Užnemunės) priklausė autokratinei Rusijos imperijai (išskyrus pusmečiui 1812 m. antrojoje pusėje įsiterpusį Napoleono Bonaparto „interliudą“). L DK teritorijų prijungimas prie Rusijos reiškė patekimą į autokratinės monarchinės imperijos valdžią, kuri realizuota pasitelkus monarchui pavaldų centralizuotą biurokratinį aparatą.
 
 ## Teiginiai
 
@@ -20,6 +30,9 @@ Vietiniame Rusijos imperijos valdyme gubernijai vadovavo caro skiriamas, vidaus 
 - t-001
   global_id: t-45782
   teiginys: 'Vietiniame Rusijos imperijos valdyme gubernijai vadovavo caro skiriamas, vidaus reikalų žinybai pavaldus gubernatorius.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_object: [[objektai/zodynas/kultūrinė autonomija|kultūrinė autonomija]]; mentioned_place: Rusija'
+  temporaliniai_duomenys: 'įvykio data: 1905 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 
@@ -27,6 +40,12 @@ Vietiniame Rusijos imperijos valdyme gubernijai vadovavo caro skiriamas, vidaus 
 - t-003
   global_id: t-45784
   teiginys: '1795–1915 m. Lietuva, išskyrus Užnemunę ir 1812 m. Napoleono interliudą, priklausė autokratinei Rusijos imperijai.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nusako Lietuvos priklausymą autokratinei Rusijos imperijai nurodytu laikotarpiu.'
+  susije_objektai: 'owner: [[objektai/asmenys/Immanuel Kant|Immanuel Kant]]; owner: [[objektai/asmenys/Kristijonas|Kristijonas]]; owner: Lietuva; owner: [[objektai/grupes/Lietuviai|Lietuviai]]; owner: Rusija; owner: Užnemunė; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Immanuel Kant|Immanuel Kant]]; mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Užnemunė'
+  semantiniai_rysiai: '[[objektai/zodynas/autokratinė monarchinė imperija|autokratinė monarchinė imperija]] priklausė [[objektai/asmenys/Immanuel Kant|Immanuel Kant]]; [[objektai/zodynas/autokratinė monarchinė imperija|autokratinė monarchinė imperija]] priklausė [[objektai/asmenys/Kristijonas|Kristijonas]]; [[objektai/zodynas/autokratinė monarchinė imperija|autokratinė monarchinė imperija]] priklausė [[objektai/grupes/Lietuviai|Lietuviai]]; [[objektai/zodynas/autokratinė monarchinė imperija|autokratinė monarchinė imperija]] priklausė Lietuva; [[objektai/zodynas/autokratinė monarchinė imperija|autokratinė monarchinė imperija]] priklausė Rusija; [[objektai/zodynas/autokratinė monarchinė imperija|autokratinė monarchinė imperija]] priklausė Užnemunė'
+  temporaliniai_duomenys: 'priklausymo laikotarpis: 1795-1915; priklausymo laikotarpis: 1812 m.; priklausymo laikotarpis: 1915 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „autokratinė monarchinė imperija priklausė Immanuel Kant“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „autokratinė monarchinė imperija priklausė Kristijonas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „autokratinė monarchinė imperija priklausė Lietuviai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „autokratinė monarchinė imperija priklausė Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „autokratinė monarchinė imperija priklausė Rusija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „autokratinė monarchinė imperija priklausė Užnemunė“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako Lietuvos priklausymą autokratinei Rusijos imperijai nurodytu laikotarpiu.'
   pagrindžia:
     - c-001
 
@@ -34,6 +53,8 @@ Vietiniame Rusijos imperijos valdyme gubernijai vadovavo caro skiriamas, vidaus 
 - t-004
   global_id: t-45785
   teiginys: 'LDK teritorijų prijungimas prie Rusijos reiškė patekimą į autokratinės monarchinės imperijos valdžią.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir tiksliai perteikia citatos mintį apie LDK teritorijų prijungimą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_object: [[objektai/zodynas/kultūrinė autonomija|kultūrinė autonomija]]; mentioned_place: Rusija'
   pagrindžia:
     - c-003
 
@@ -111,13 +132,9 @@ Vietiniame Rusijos imperijos valdyme gubernijai vadovavo caro skiriamas, vidaus 
     - t-004
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Immanuel Kant]]
-- [[objektai/asmenys/Kristijonas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/gubernija]]
-- [[objektai/zodynas/kultūrinė autonomija]]
-- [[objektai/asmenys/Kristijonas Gotlibas Milkus]]
-- [[objektai/zodynas/gubernija apskritis (ujezd)]]
-- [[objektai/zodynas/interliudas]]
-- [[objektai/posakiai/„Iš tikrųjų jokia kita pasaulio kalba...“]]
+- autokratinė monarchinė imperija priklause [[objektai/asmenys/Immanuel Kant]]
+- autokratinė monarchinė imperija priklause [[objektai/asmenys/Kristijonas]]
+- autokratinė monarchinė imperija priklause [[objektai/vietos/Lietuva]]
+- autokratinė monarchinė imperija priklause [[objektai/grupes/Lietuviai]]
+- autokratinė monarchinė imperija priklause [[objektai/vietos/Rusija]]
+- autokratinė monarchinė imperija priklause [[objektai/vietos/Užnemunė]]

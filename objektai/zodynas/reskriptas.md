@@ -20,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-Popiežiaus Bonifaco Prancūzijos karaliui siųstas priklausomybės reskriptas buvo perskaitytas ir sudegintas Paryžiaus karaliaus rūmuose.
+Dusburgietis teigia, kad mat popiežius pasakė, kad ir pasaulietiški, ir dvasiški Prancūzijos karalystės reikalai esą betarpiškai pavaldūs apaštališkajam sostui, ir pasiuntė popiežius priklausomybės reskriptą su bule Prancūzijos karaliui, tvirtindamas, jog tas, kas teigiąs priešingai.
 
 ## Teiginiai
 
@@ -28,9 +28,17 @@ Popiežiaus Bonifaco Prancūzijos karaliui siųstas priklausomybės reskriptas b
 - t-001
   global_id: t-58923
   teiginys: 'Popiežiaus Bonifaco Prancūzijos karaliui siųstas priklausomybės reskriptas buvo perskaitytas ir sudegintas Paryžiaus karaliaus rūmuose.'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo negrabios sandaros; citata leidžia aiškiai įvardyti siuntėją ir veiksmą.'
+  susije_objektai: 'mentioned_place: Paryžius; mentioned_place: Prancūzija'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Bonifacas VIII.md#claim-t-59900|Bonifacas VIII (arkivyskupas, XIII–XIV a.)]]: Bonifaco VIII ir Prancūzijos karaliaus Pilypo nesantarvė prasidėjo dėl popiežiaus pretenzijų į Prancūzijos reikalų pavaldumą Apaštalų sostui.
+- susijęs iš [[objektai/asmenys/Pilypas (Prancūzijos karalius).md#claim-t-60412|Pilypas (Prancūzijos karalius)]]: Tarp popiežiaus Bonifaco ir Prancūzijos karaliaus Pilypo prasidėjo nesantarvė.
+- susijęs iš [[objektai/ivykiai/Bonifaco VIII ir Pilypo IV nesantarvė bei bulės sudeginimas Paryžiuje (1302 m.).md#claim-t-62211|Bonifaco VIII ir Pilypo IV nesantarvė bei bulės sudeginimas Paryžiuje (1302 m.)]]: 1302 m. prasidėjo popiežiaus Bonifaco VIII ir Prancūzijos karaliaus Pilypo IV nesantarvė dėl Prancūzijos pavaldumo apaštališkajam sostui.
+- susijęs iš Martyno iš Opavos popiežių ir imperatorių istorija: Popiežiaus Bonifaco ir Prancūzijos karaliaus Pilypo nesantarvė kilo dėl popiežiaus teiginio apie Prancūzijos reikalų pavaldumą apaštališkajam sostui.
+- susijęs iš Ptolomėjaus iš Lukos Analai: Tarp popiežiaus Bonifaco ir Prancūzijos karaliaus Pilypo prasidėjo nesantarvė dėl Prancūzijos karalystės pavaldumo apaštališkajam sostui.
+- susijęs iš Paryžius: Popiežiaus priklausomybės reskriptas buvo perskaitytas ir sudegintas Paryžiaus karaliaus rūmuose dvasininkų bei pasauliečių akivaizdoje.
+- susijęs iš [[objektai/zodynas/bulė.md#claim-t-58897|bulė]]: Popiežius Bonifacas pasiuntė Prancūzijos karaliui Pilypui priklausomybės reskriptą su bule.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -52,10 +60,3 @@ Popiežiaus Bonifaco Prancūzijos karaliui siųstas priklausomybės reskriptas b
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Bonifacas VIII|Bonifacas VIII (arkivyskupas, XIII–XIV a.)]]
-- [[objektai/ivykiai/Bonifaco VIII ir Pilypo IV nesantarvė bei bulės sudeginimas Paryžiuje (1302 m.)]]
-- [[objektai/asmenys/Pilypas (Prancūzijos karalius)]]
-- [[objektai/zodynas/bulė]]

@@ -42,6 +42,11 @@ Nenurodyta
 - t-001
   global_id: t-28835
   teiginys: '1381 m. Kęstutis staiga užėmė Vilnių ir suėmė Jogailą su jo broliais bei motina.'
+  sudarymo_pagrindimas: 'Sakinys pagrįstas citata, bet reikėjo pašalinti laužytą žodį ir glaustinti formuluotę.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Polockas; mentioned_place: Vilnius; mentioned_place: Vitebskas'
+  temporaliniai_duomenys: 'įvykio data: 1381 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Sakinys pagrįstas citata, bet reikėjo pašalinti laužytą žodį ir glaustinti formuluotę.'
   pagrindžia:
     - c-001
 
@@ -61,7 +66,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]

@@ -10,6 +10,7 @@ tags:
   - kraštas
   - kunigaikštis
   - miestas
+  - tauta
 ---
 # Vilius
 
@@ -23,9 +24,13 @@ Dlugošas nurodo, jog Vilnius yra senovinis miestas, lietuvių tautos protėvių
 - t-001
   global_id: t-87933
   teiginys: 'Pasak Dlugošo, Vilnius vardą gavo nuo vado Viliaus, kuris lietuvių protėvius atvedęs iš Italijos.'
+  sudarymo_pagrindimas: 'Reikia atribucijos, nes tai autoriaus perteikiama kilmės legenda.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Romėnai|Romėnai]]; mentioned_person: [[objektai/asmenys/Dlugošas|Dlugošas]]; mentioned_place: Italija; mentioned_place: Lietuva; mentioned_place: Vilija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Vilius Gaigalaitis.md#claim-t-26464|Vilius Gaigalaitis]]: Prūsijos Landtago parlamentaras Vilius Gaigalaitis lietuvių vardu pareiškė, kad tikimasi Didžiosios Lietuvos prijungimo prie Vokietijos.
+- susijęs iš [[objektai/ivykiai/Viliaus Gaigalaičio pareiškimas Prūsijos Landtage dėl Didžiosios Lietuvos prijungimo prie Vokietijos.md#claim-t-26387|Viliaus Gaigalaičio pareiškimas Prūsijos Landtage dėl Didžiosios Lietuvos prijungimo prie Vokietijos]]: Rugpjūčio 1 d. Prūsijos Landtage Vilius Gaigalaitis lietuvių vardu pareiškė tikįsis Didžiosios Lietuvos prijungimo prie Vokietijos.
+- susijęs iš Vilnia ir Vilija: Pasakojime Vilnios ir Vilijos vardai kildinami iš kunigaikščio Viliaus vardo.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -67,9 +72,3 @@ Dlugošas nurodo, jog Vilnius yra senovinis miestas, lietuvių tautos protėvių
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Romėnai]]
-- [[objektai/ivykiai/Viliaus Gaigalaičio pareiškimas Prūsijos Landtage dėl Didžiosios Lietuvos prijungimo prie Vokietijos]]

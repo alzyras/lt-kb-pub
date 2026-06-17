@@ -19,7 +19,7 @@ amziai:
 
 ## Santrauka
 
-1945 m. birželio 14 d. Varčios miške tarp Alovės ir Daugų partizanai susikovė su NKVD kariuomenės 220-uoju pasienio pulku.
+Varčios miške, tarp Alovės ir Daugų mstl.
 
 ## Teiginiai
 
@@ -27,6 +27,11 @@ amziai:
 - t-001
   global_id: t-38568
   teiginys: '1945 m. birželio 14 d. Varčios miške tarp Alovės ir Daugų partizanai susikovė su NKVD kariuomenės 220-uoju pasienio pulku.'
+  sudarymo_pagrindimas: 'Citata patikslina Varčios miško vietą tarp Alovės ir Daugų.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Dainavos apygarda|Dainavos apygarda]]; mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Alovė; mentioned_place: Alytus; mentioned_place: Dainava; mentioned_place: Daugai; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1945 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata patikslina Varčios miško vietą tarp Alovės ir Daugų.'
   pagrindžia:
     - c-001
 

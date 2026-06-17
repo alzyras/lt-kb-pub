@@ -27,6 +27,11 @@ amziai:
 - t-001
   global_id: t-31876
   teiginys: 'P. Būtėno „Karalius-kuniugas“ paskelbtas žurnale „Karys“ 1971 m., p. 193-197, 227-230, 263-265 ir 306-311.'
+  sudarymo_pagrindimas: 'Citata pateikia bibliografinį įrašo leidimo faktą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]'
+  temporaliniai_duomenys: 'įvykio data: 1971 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pateikia bibliografinį įrašo leidimo faktą.'
   pagrindžia:
     - c-001
 

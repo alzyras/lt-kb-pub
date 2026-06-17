@@ -42,6 +42,8 @@ Nenurodyta
 - t-001
   global_id: t-87128
   teiginys: 'Pilies gynėjai iškėlė vėliavas su kryžiais kaip ženklą, kad kovoja su Vytauto gretose buvusiais nepakrikštytais lietuviais ir žemaičiais.'
+  sudarymo_pagrindimas: 'Teiginys pagrįstas, bet pradinė formuluotė sujungta su pašaliniu fragmentu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]'
   pagrindžia:
     - c-001
 
@@ -74,12 +76,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/zodynas/įgula]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/daiktai/Karinės vėliavos ir ženklai]]
-- [[objektai/asmenys/Mikalojus Moskoževskis]]
-- [[objektai/paprociai/Vėliavų su kryžiais kėlimas kaip kovos su pagonimis ženklas]]

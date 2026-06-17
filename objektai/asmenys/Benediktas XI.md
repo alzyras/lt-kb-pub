@@ -33,9 +33,14 @@ Dusburgietis teigia, kad apie Benediktą XI, popiežių, ir Albrechtą, karalių
 - t-001
   global_id: t-60246
   teiginys: '1303 m. valdė popiežius Benediktas XI, brolių pamokslininkų ordino vienuolis, ir Romos karalius Albrechtas.'
+  sudarymo_pagrindimas: 'Pradinė formuluotė turi antraštės ir bibliografinio triukšmo fragmentų.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Romos karalius|Romos karalius]]; mentioned_person: [[objektai/asmenys/Albrechtas|Albrechtas]]; mentioned_person: [[objektai/asmenys/Benediktas|Benediktas]]'
+  temporaliniai_duomenys: 'įvykio data: 1303 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinė formuluotė turi antraštės ir bibliografinio triukšmo fragmentų.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/grupes/Domininkonų ordinas.md#claim-t-112518|Domininkonų ordinas]]: 1303 m. valdęs popiežius Benediktas XI buvo Brolių pamokslininkų ordino vienuolis.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -51,8 +56,3 @@ Dusburgietis teigia, kad apie Benediktą XI, popiežių, ir Albrechtą, karalių
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Romos karalius]]
-- [[objektai/grupes/Domininkonų ordinas]]

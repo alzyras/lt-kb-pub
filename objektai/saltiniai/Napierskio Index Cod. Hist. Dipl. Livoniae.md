@@ -23,6 +23,8 @@ tags:
 - t-001
   global_id: t-88316
   teiginys: 'Napierskio „Index Cod. Hist. Dipl. Livoniae“ siejamas su Dinaburgo komtūro pranešimu apie Vilniaus miesto, kapitulos ir pilies gaisrą.'
+  sudarymo_pagrindimas: 'Citata palaiko ryšį tarp Napierskio nuorodos ir dokumento apie Vilniaus gaisrą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/nuorašas|nuorašas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Dinaburgas; mentioned_place: Livonija; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -30,6 +32,8 @@ tags:
 - t-002
   global_id: t-88317
   teiginys: 'Napierskio „Index Cod. Hist. Dipl. Livoniae“ minimas kaip Livonijos dokumentų rinkinio nuoroda.'
+  sudarymo_pagrindimas: 'Citata palaiko faktą, kad šis Napierskio veikalas pateiktas kaip palyginamoji dokumentų rinkinio nuoroda.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/nuorašas|nuorašas]]; mentioned_place: Livonija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

@@ -20,9 +20,18 @@ Sierakauskas išsiuntė Kasperą Maleckį su 150 karių ardyti geležinkelio kom
 - t-001
   global_id: t-42174
   teiginys: 'Zigmantas Sierakauskas su pagrindiniais sukilėlių daliniais išskubėjo Svėdasų kryptimi.'
+  sudarymo_pagrindimas: 'Reikia išplėsti inicialą ir pašalinti OCR triukšmą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_person: [[objektai/asmenys/Zigmantas Sierakauskas|Zigmantas Sierakauskas]]; mentioned_place: Rusija'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Kasperas Maleckis.md#claim-t-40277|Kasperas Maleckis]]: Zigmantas Sierakauskas išsiuntė Kasperą Maleckį su 150 karių ardyti geležinkelio komunikacijų ir rinkti žinių apie priešą.
+- susijęs iš [[objektai/ivykiai/Šimonių girios apgultis (1949 m.).md#claim-t-67010|Šimonių girios apgultis (1949 m.)]]: 1949 m. lapkričio 1-2 d. Šimonių girioje MGB vidaus kariuomenė vykdė karines-čekistines operacijas.
+- susijęs iš [[objektai/ivykiai/Šimonių girios apgultis.md#claim-t-39119|Šimonių girios apgultis]]: 1949 m. lapkričio 1–2 d. MGB vidaus kariuomenė vykdė karines-čekistines operacijas Šimonių girioje, Svėdasų valsčiuje.
+- susijęs iš Antalieptė: P. Genys po Svėdasų ir Užpalių užėmimo ėmė Antalieptę birželio 5 d.
+- susijęs iš Kupiškio apskritis: 1949 m. lapkričio 1-2 d. MGB vidaus kariuomenės 137-ojo ir 298-ojo šaulių pulkų kareiviai vykdė operacijas Kupiškio apskrityje.
+- susijęs iš Svėdasų valsčius: 1949 m. lapkričio 1–2 d. Svėdasų valsčiuje, Šimonių girioje, MGB vidaus kariuomenė vykdė karines-čekistines operacijas.
+- susijęs iš Užpaliai: Po Svėdasų užėmimo P. Genys užėmė Užpalius, o 1919 m. birželio 5 d. - Antalieptę.
+- susijęs iš Šimonių giria: 1949 m. lapkričio 1-2 d. MGB vidaus kariuomenė vykdė karines-čekistines operacijas Šimonių girioje.
 ## Reikšmingi paminėjimai
 
 - c-001

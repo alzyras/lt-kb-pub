@@ -22,6 +22,8 @@ O Sąjūdis – tautos frontas, suvienijęs plačiausius jos sluoksnius, labai �
 - t-001
   global_id: t-22323
   teiginys: 'Sąjūdis buvo tautos frontas, suvienijęs plačius ir įvairių pažiūrų Lietuvos visuomenės sluoksnius.'
+  sudarymo_pagrindimas: 'Citata geriau pagrindžia glaustesnį teiginį apie Sąjūdį kaip tautos frontą.'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -44,7 +46,3 @@ O Sąjūdis – tautos frontas, suvienijęs plačiausius jos sluoksnius, labai �
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis]]

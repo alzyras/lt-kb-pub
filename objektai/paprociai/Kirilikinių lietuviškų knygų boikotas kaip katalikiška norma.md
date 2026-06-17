@@ -40,6 +40,7 @@ Nenurodyta
 - t-001
   global_id: t-54249
   teiginys: 'Kirilikinė lietuvių abėcėlė galėjo būti boikotuojama dėl lietuviškų pradžios mokyklų draudimo ir katalikų diskriminacijos.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kaunas'
   pagrindžia:
     - c-001
 
@@ -47,6 +48,8 @@ Nenurodyta
 - t-002
   global_id: t-54250
   teiginys: 'Kirilikinių lietuviškų knygų boikotas sužlugdė valdžios užmačią lietuvių raštijoje lotyniškąjį raidyną pakeisti kirilika.'
+  sudarymo_pagrindimas: 'Teiginys paremtas citata, bet reikia aiškiai įvardyti boikotą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kirilika|kirilika]]; mentioned_place: Kaunas'
   pagrindžia:
     - c-001
 
@@ -54,6 +57,11 @@ Nenurodyta
 - t-003
   global_id: t-183313
   teiginys: 'Lietuviškų kirilikinių knygų boikotą skatino valdžios draudimai lietuviškoms mokykloms ir diskriminacinės priemonės prieš Katalikų bažnyčią.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis teiginys hipotetinis ir gremėzdiškas; citata remia glaustesnę priežastinę formuluotę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-002
 
@@ -94,8 +102,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/ivykiai/Lietuvių raštijos tradiciniu raidynu draudimo pradžia]]

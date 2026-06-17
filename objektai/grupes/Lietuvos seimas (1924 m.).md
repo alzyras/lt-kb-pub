@@ -9,11 +9,11 @@ date_start: '1924'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XX'
 tags:
   - grupe
   - seimas
+amziai:
+  - 'XX'
 ---
 # Lietuvos seimas (1924 m.)
 
@@ -22,18 +22,19 @@ tags:
 Lietuvos seimas konvenciją ratifikavo tų pat metų liepos m. 30 d.
 
 ## Teiginiai
+
 <a id="claim-t-01407"></a>
 - t-001
   global_id: t-01407
   teiginys: 'Lietuvos seimas liepos 30 d. ratifikavo konvenciją.'
+  sudarymo_pagrindimas: 'Pašalinta neaiški nuoroda „tų pat metų“.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos seimas|Lietuvos seimas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/tranzitas|tranzitas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Lietuvos seimas liepos 30 d. ratifikavo konvenciją.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Ket-
@@ -41,16 +42,8 @@ Lietuvos seimas konvenciją ratifikavo tų pat metų liepos m. 30 d.
     penktoje dalyje signatarai apsiima pripažinti po ratifikacijos
     teisėtais Lietuvos vyriausybės aktus, kuriais ji palaikė tvarką šalyje.
     Lietuvos seimas konvenciją ratifikavo tų pat metų liepos m. 30 d.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuvos seimas|Lietuvos seimas (seimas)]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/zodynas/tranzitas]]

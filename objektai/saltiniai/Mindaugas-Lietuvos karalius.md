@@ -6,6 +6,7 @@ saltiniai:
 datos:
   - '1252 m.'
   - '1466 m.'
+  - '1929 m.'
   - '1933 m.'
   - '1934 m.'
 date_start: '1252'
@@ -32,6 +33,9 @@ Pažymėtini Šležo stambesni darbai (at­ spaudai) : 1) «Klaipėdos miesto is
 - t-001
   global_id: t-31849
   teiginys: 'Šležas 1934 m. paskelbė darbą „Mindaugas-Lietuvos karalius“.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/monografija|monografija]]; mentioned_place: Kaunas; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: po 1929 m.; įvykio data: 1929 m.; įvykio data: 1934 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

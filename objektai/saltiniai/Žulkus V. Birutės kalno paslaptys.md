@@ -26,6 +26,11 @@ Dusburgietis teigia, kad žulkus V.
 - t-001
   global_id: t-61403
   teiginys: 'V. Žulkaus „Birutės kalno paslaptys“ paskelbtas 1984 m. MG 6 numeryje, 16 puslapyje.'
+  sudarymo_pagrindimas: 'Citata remia taisyklingą bibliografinį teiginį; pašalintas gretimo įrašo triukšmas.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Birutė|Birutė]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1984 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata remia taisyklingą bibliografinį teiginį; pašalintas gretimo įrašo triukšmas.'
   pagrindžia:
     - c-001
 

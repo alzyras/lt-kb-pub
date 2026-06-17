@@ -23,9 +23,20 @@ Dusburgietis teigia, kad iš šios pilies išėjo brolis Konradas Švabas iš El
 - t-001
   global_id: t-60369
   teiginys: 'Konradas Švabas iš Elbingo išėjo iš Belichovo pilies su daugybe ginklanešių ir ietimis susirėmė su priešais.'
+  sudarymo_pagrindimas: 'Teiginys yra užbaigtas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Belichovas; mentioned_place: Elbingas; mentioned_place: Kulmas; mentioned_place: Marienverderis; mentioned_place: Viena'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/grupes/Pamedėnai.md#claim-t-78420|Pamedėnai]]: Belichovo pilis prie Osos priklausė kilmingam pamedėnui Jonui, Sarginio sūnui.
+- susijęs iš Belichovas: Belichovo pilis stovėjo Osos pakrantėje ir priklausė kilmingam pamedėnui Jonui, Sarginio sūnui.
+- susijęs iš [[objektai/asmenys/Jonas (Sarginio sūnus).md#claim-t-60343|Jonas (Sarginio sūnus)]]: Jonas, Sarginio sūnus, buvo kilmingas pamedėnas, kuriam priklausė Osos pakrantėje pastatyta Belichovo pilis.
+- susijęs iš [[objektai/grupes/Marienverderio miestiečiai.md#claim-t-63149|Marienverderio miestiečiai]]: Prūsai po ilgų grumtynių sugriovė Marienverderio miestą, o dalį miestiečių paėmė į nelaisvę arba užmušė.
+- susijęs iš [[objektai/grupes/Pamedėnai.md#claim-t-78415|Pamedėnai]]: Pagudėnai prie Kristburgo užpuolė pilaitę, kurioje gyveno tikintieji pamedėnai, į ją įsiveržė ir ją sugriovė.
+- susijęs iš [[objektai/grupes/Pamedėnai.md#claim-t-78420|Pamedėnai]]: Belichovo pilis prie Osos priklausė kilmingam pamedėnui Jonui, Sarginio sūnui.
+- susijęs iš [[objektai/ivykiai/Antrasis Marienverderio miesto sugriovimas.md#claim-t-62196|Antrasis Marienverderio miesto sugriovimas (miestas)]]: Prūsai po ilgų kovų vėl iš pagrindų sugriovė Marienverderio miestą, o dalį miestiečių paėmė į nelaisvę arba nužudė.
+- susijęs iš Belichovas: Belichovo pilis stovėjo Osos pakrantėje ir priklausė kilmingam pamedėnui Jonui, Sarginio sūnui.
+- susijęs iš Kulmo žemė: Prūsai su didele kariuomene nusiaubė Kulmo žemę ir patraukė prie Osos pakrantėje stovėjusios Belichovo pilies.
+- susijęs iš Marienverderis: Prūsai antrą kartą sugriovė atstatytą Marienverderio miestą, o dalį miestiečių paėmė į nelaisvę arba nužudė.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -51,10 +62,11 @@ Dusburgietis teigia, kad iš šios pilies išėjo brolis Konradas Švabas iš El
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Konradas]]
-- [[objektai/ivykiai/Antrasis Marienverderio miesto sugriovimas|Antrasis Marienverderio miesto sugriovimas (miestas)]]
-- [[objektai/asmenys/Jonas (Sarginio sūnus)]]
-- [[objektai/grupes/Marienverderio miestiečiai]]
-- [[objektai/grupes/Pamedėnai]]
-- [[objektai/zodynas/ginklanešiai]]
+- [[objektai/vietos/Belichovas]] priklause Konradas Švabas iš Elbingo
+- Konradas Švabas iš Elbingo susije_su [[objektai/vietos/Belichovas]]
+- Konradas Švabas iš Elbingo susije_su [[objektai/vietos/Elbingas]]
+- Konradas Švabas iš Elbingo susije_su [[objektai/asmenys/Konradas]]
+- Konradas Švabas iš Elbingo susije_su [[objektai/vietos/Kulmas]]
+- Konradas Švabas iš Elbingo susije_su [[objektai/vietos/Marienverderis]]
+- Konradas Švabas iš Elbingo susije_su [[objektai/vietos/Viena]]
+- [[objektai/grupes/Pamedėnai]] priklause Konradas Švabas iš Elbingo

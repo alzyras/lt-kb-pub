@@ -10,21 +10,26 @@ atnaujinta: ''
 
 ## Santrauka
 
-Vedęs Vitebsko kunigaikštytę Julijoną, Algirdas dėl jos priėmė krikštą ir rusų tikėjimą, o lietuvių didikai liko pagonys.
+Lietuvos metraščio pasakojime Algirdas, vedęs Vitebsko kunigaikštytę Julijoną, dėl jos priėmė krikštą ir rusų tikėjimą, o lietuvių didikai liko pagonys.
 
 ## Teiginiai
 
 <a id="claim-t-187559"></a>
 - t-001
   global_id: t-187559
-  teiginys: 'Vedęs Vitebsko kunigaikštytę Julijoną, Algirdas dėl jos priėmė krikštą ir rusų tikėjimą, o lietuvių didikai liko pagonys.'
+  teiginys: 'Lietuvos metraščio pasakojime Algirdas, vedęs Vitebsko kunigaikštytę Julijoną, dėl jos priėmė krikštą ir rusų tikėjimą, o lietuvių didikai liko pagonys.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Religiniai teiginiai ir pagonių įvardijimas šiame profilyje turi būti priskirti kronikai.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/pagonys|pagonys]]; mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Kamenecas; mentioned_place: Lietuva; mentioned_place: Podolė; mentioned_place: Vilnius; mentioned_place: Vitebskas'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/zodynas/Romos tikėjimas.md#claim-t-187526|Romos tikėjimas]]: Lietuvos metraštis vaizduoja, kad Algirdo laikais Lietuvoje Romos tikėjimo jau nebuvo, liko vien rusų tikėjimas.
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Vedęs Vitebsko kunigaikštytę Julijoną, Algirdas dėl jos priėmė krikštą ir rusų tikėjimą, o lietuvių didikai liko pagonys.'
+  santrauka: 'Lietuvos metraščio pasakojime Algirdas, vedęs Vitebsko kunigaikštytę Julijoną, dėl jos priėmė krikštą ir rusų tikėjimą, o lietuvių didikai liko pagonys.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     76
@@ -45,13 +50,3 @@ Vedęs Vitebsko kunigaikštytę Julijoną, Algirdas dėl jos priėmė krikštą 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Pranciškonų ordinas]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/zodynas/seniūnas]]
-- [[objektai/zodynas/pagonys]]
-- [[objektai/zodynas/Romos tikėjimas]]

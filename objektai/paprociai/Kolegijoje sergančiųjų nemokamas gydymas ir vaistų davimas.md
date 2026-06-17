@@ -40,6 +40,8 @@ Nenurodyta
 - t-001
   global_id: t-87274
   teiginys: 'Kolegijoje sergantys asmenys turėjo būti vaistininkų gydomi be užmokesčio ir aprūpinami vaistais.'
+  sudarymo_pagrindimas: 'Citata pagrindžia nemokamą gydymą ir vaistų davimą, o pirminis tekstas turi lotyniškų intarpų ir OCR triukšmo.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vaistinės prekės, vaistai ir gydomieji gėrimai|Vaistinės prekės, vaistai ir gydomieji gėrimai]]'
   pagrindžia:
     - c-001
 
@@ -60,7 +62,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Vaistinės prekės, vaistai ir gydomieji gėrimai]]

@@ -23,6 +23,8 @@ Dusburgietis teigia, kad naujojo Malūno pilį.552 Šioje kovoje vienas prūsas 
 - t-001
   global_id: t-61095
   teiginys: 'Dusburgietis kovojusį prūsą iš Sembos palygino su Karalių knygoje minimu Ahohiečiu.'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo OCR fragmentas; citata pagrindžia aiškią mintį apie Karalių knygos palyginimą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_place: Semba'
   pagrindžia:
     - c-001
 

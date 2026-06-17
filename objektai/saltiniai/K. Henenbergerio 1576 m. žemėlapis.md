@@ -27,6 +27,11 @@ Dusburgietis teigia, kad sandūroje sudarytame Sreterio žemėlapyje Auksinės (
 - t-001
   global_id: t-61091
   teiginys: 'K. Henenbergerio 1576 m. žemėlapyje Auksinė vadinta Augste.'
+  sudarymo_pagrindimas: 'Citata tiesiogiai sieja K. Henenbergerio 1576 m. žemėlapį su vietovardžio forma Augste.'
+  susije_objektai: 'mentioned_place: Auksinė'
+  temporaliniai_duomenys: 'įvykio data: 1576 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata tiesiogiai sieja K. Henenbergerio 1576 m. žemėlapį su vietovardžio forma Augste.'
   pagrindžia:
     - c-001
 

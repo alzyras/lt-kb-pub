@@ -6,33 +6,43 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1769 m.'
+  - '1783 m.'
+  - '1832 m.'
+  - '1969 m.'
   - '2026 m.'
 date_start: '1769'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XVIII'
-  - 'XXI'
 tags:
   - sukilimas
   - vieta
+amziai:
+  - 'XVIII'
+  - 'XXI'
 ---
 # Šiaulių ekonomija
 
 ## Santrauka
 
-R. Marčėnas 1969 m. paskelbė darbą apie Šiaulių ekonomijos valstiečių sukilimą 1769 m.
+Ypač garsus buvo 1769 m. Šiaulių ekonomijos valstiečių sukilimas.
 
 ## Teiginiai
+
 <a id="claim-t-69886"></a>
 - t-001
   global_id: t-69886
   teiginys: 'R. Marčėnas 1969 m. paskelbė darbą apie Šiaulių ekonomijos valstiečių sukilimą 1769 m.'
+  sudarymo_pagrindimas: 'Bibliografinis fragmentas paverstas pilnu faktiniu sakiniu apie objektą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/ekonomija|ekonomija]]; mentioned_object: [[objektai/zodynas/inventoriai|inventoriai]]; mentioned_object: [[objektai/zodynas/statutas|statutas]]; mentioned_person: [[objektai/autoriai/S. Lazutka|S. Lazutka]]; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_place: Šiauliai'
+  temporaliniai_duomenys: 'įvykio data: 1769 m.; įvykio data: 1783-1832; įvykio data: 1832 m.; įvykio data: 1969 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Bibliografinis fragmentas paverstas pilnu faktiniu sakiniu apie objektą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'R. Marčėnas 1969 m. paskelbė darbą apie Šiaulių ekonomijos valstiečių sukilimą 1769 m.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)

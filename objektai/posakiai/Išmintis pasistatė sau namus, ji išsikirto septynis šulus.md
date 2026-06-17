@@ -5,6 +5,7 @@ saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1191 m.'
+  - '1196 m.'
   - '1198 m.'
 date_start: '1191'
 date_end: '1198'
@@ -22,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-Petras Dusburgietis septyniais dvasiniais šulais vadino klusnumą, neturtą, skaistybę, gailestį, išpažinimą, atgailą ir artimo meilę. Petras Dusburgietis „namus“ aiškina kaip Celestino III Jeruzalėje įkurtą ir pašventintą Teutonų ordino ligoninę. Petras Dusburgietis rašo, kad Celestinas III Jeruzalėje „pastatė namus“ ir „išsikirto septynis šulus“, paskirdamas septynis kraštų komtūrus.
+Dusburgietis teigia, kad pirma knygos dalis PRASIDEDA PIRMA KNYGOS DALIS APIE TEUTONŲ NAMŲ ORDINO ATSIRADIMĄ Pratarmė apie Teutonų namų ordino įkūrimą (Pat 9,1) „Išmintis pasistatė sau namus, ji išsikirto septynis šulus“ (Patarlių knyga, 9). Dusburgietis teigia, kad štai šis popiežius Celestinas III Jeruzalėje „pastatė namus“, tai yra įkūrė ir pašventino savo bei šventosios bažnyčios naudai namus — šventosios Marijos Teutonų ordino vienuolių ligoninę151 ir „išsikirto septynis šulus“, tai yra paskyrė septynis brolius. Dusburgietis teigia, kad šitokie dvasiniai šulai iškirsti išminties ranka to šventojo tikėjimo namuose, kuriuos taip pastatydino jo šventenybė popiežius, kad, pasipylus ant jų godumo liūčiai ir užplūdus juos prabangos potvyniui, puikybės vėjui juos užgriuvus ir įsibrovus į vidų, jie.
 
 ## Teiginiai
 
@@ -30,6 +31,11 @@ Petras Dusburgietis septyniais dvasiniais šulais vadino klusnumą, neturtą, sk
 - t-001
   global_id: t-89583
   teiginys: 'Petras Dusburgietis septyniais dvasiniais šulais vadino klusnumą, neturtą, skaistybę, gailestį, išpažinimą, atgailą ir artimo meilę.'
+  sudarymo_pagrindimas: 'Reikia aiškiau susieti teiginį su posakyje aiškinamais septyniais šulais.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Celestinas III|Celestinas III]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_person: [[objektai/autoriai/Petras Dusburgietis|Petras Dusburgietis]]; mentioned_person: [[objektai/asmenys/Popiežius Celestinas III|Popiežius Celestinas III]]; mentioned_place: Jeruzalė'
+  temporaliniai_duomenys: 'įvykio data: 1196 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia aiškiau susieti teiginį su posakyje aiškinamais septyniais šulais.'
   pagrindžia:
     - c-001
 
@@ -37,6 +43,8 @@ Petras Dusburgietis septyniais dvasiniais šulais vadino klusnumą, neturtą, sk
 - t-002
   global_id: t-89584
   teiginys: 'Petras Dusburgietis „namus“ aiškina kaip Celestino III Jeruzalėje įkurtą ir pašventintą Teutonų ordino ligoninę.'
+  sudarymo_pagrindimas: 'Pradinis teiginys per ilgas; citata palaiko trumpą autoriaus alegorijos aiškinimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Celestinas III|Celestinas III]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_person: [[objektai/autoriai/Petras Dusburgietis|Petras Dusburgietis]]; mentioned_person: [[objektai/asmenys/Popiežius Celestinas III|Popiežius Celestinas III]]; mentioned_place: Jeruzalė; mentioned_place: Romanija'
   pagrindžia:
     - c-003
 
@@ -44,6 +52,8 @@ Petras Dusburgietis septyniais dvasiniais šulais vadino klusnumą, neturtą, sk
 - t-003
   global_id: t-89585
   teiginys: 'Petras Dusburgietis rašo, kad Celestinas III Jeruzalėje „pastatė namus“ ir „išsikirto septynis šulus“, paskirdamas septynis kraštų komtūrus.'
+  sudarymo_pagrindimas: 'Citata geriau palaiko posakio alegorinį aiškinimą, o ne tiesioginį lyginimą su Saliamonu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Celestinas III|Celestinas III]]; mentioned_person: [[objektai/autoriai/Petras Dusburgietis|Petras Dusburgietis]]; mentioned_person: [[objektai/asmenys/Popiežius Celestinas III|Popiežius Celestinas III]]; mentioned_place: Jeruzalė; mentioned_place: Romanija'
   pagrindžia:
     - c-002
 
@@ -119,16 +129,3 @@ Petras Dusburgietis septyniais dvasiniais šulais vadino klusnumą, neturtą, sk
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Celestinas III]]
-- [[objektai/asmenys/Kūnas]]
-- [[objektai/daiktai/Namas]]
-- [[objektai/asmenys/Popiežius Celestinas III]]
-- [[objektai/grupes/Teutonai]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/didysis magistras]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/autoriai/Petras Dusburgietis]]
-- [[objektai/grupes/Kryžiuočių ordinas]]

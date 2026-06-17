@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Steponas Šukys-Mauzeris nusišovė, o kiti bunkeryje buvę partizanai pasidavė čekistams išsprogdinus bunkerio viršų.
+Steponas Šukys-Mauzeris nusišovė, kiti pasidavė, kai čekistai išsprogdino bunkerio viršų.
 
 ## Teiginiai
 
@@ -21,9 +21,11 @@ Steponas Šukys-Mauzeris nusišovė, o kiti bunkeryje buvę partizanai pasidavė
 - t-001
   global_id: t-40448
   teiginys: 'Steponas Šukys-Mauzeris nusišovė, o kiti bunkeryje buvę partizanai pasidavė čekistams išsprogdinus bunkerio viršų.'
+  sudarymo_pagrindimas: 'Reikia aiškiai įvardyti, kas buvo „kiti“, ir pašalinti dviprasmybę.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Steponas|Steponas]]'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Jurgis Trečiokas-Rytas.md#claim-t-40241|Jurgis Trečiokas-Rytas]]: Lapkričio 2 d. rytą čekistų pajėgos apsupo Jurgio Trečioko-Ryto bunkerį Šimonių girioje netoli Varležerio.
 ## Reikšmingi paminėjimai
 
 - c-001

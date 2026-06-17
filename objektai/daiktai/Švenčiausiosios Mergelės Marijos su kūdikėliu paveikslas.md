@@ -47,6 +47,11 @@ Nenurodyta
 - t-001
   global_id: t-59716
   teiginys: 'Sūduviai iš Lenkijos išsivežė Švenčiausiosios Mergelės Marijos su kūdikėliu paveikslą ir ketino mėtyti į jį ietis.'
+  sudarymo_pagrindimas: 'Pradinis sakinys buvo fragmentiškas; citata tiesiogiai pagrindžia konkretų įvykį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_object: [[objektai/daiktai/Ietis|Ietis]]; mentioned_place: Kėdainiai; mentioned_place: Lenkija; mentioned_place: Raseiniai'
+  temporaliniai_duomenys: 'įvykio data: 1419 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis sakinys buvo fragmentiškas; citata tiesiogiai pagrindžia konkretų įvykį.'
   pagrindžia:
     - c-001
 
@@ -75,9 +80,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Ietis]]
-- [[objektai/grupes/Sūduviai]]
-- [[objektai/posakiai/Už pagarbą, kurią per mano paveikslą esi man parodęs]]

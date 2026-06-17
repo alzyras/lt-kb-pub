@@ -20,6 +20,8 @@ tags:
 - t-001
   global_id: t-86844
   teiginys: 'Formulė „Praemissa er corde considerantes devoto“ pavartota Žygimanto dovanojimo akte, buvusiame Vilniaus kapitulos archyve.'
+  sudarymo_pagrindimas: 'Pradinis tekstas yra su puslapio numeriu ir OCR lūžiais, o citata pagrindžia dokumento kontekstą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -64,9 +66,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/zodynas/kapitula]]
-- [[objektai/asmenys/Žygimantas]]

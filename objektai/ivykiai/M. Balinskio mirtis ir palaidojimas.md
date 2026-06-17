@@ -4,9 +4,10 @@ pavadinimas: 'M. Balinskio mirtis ir palaidojimas'
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
+  - '1863 m.'
   - '1864 m.'
-date_start: '1864'
-date_end: ''
+date_start: '1863'
+date_end: '1864'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -42,6 +43,11 @@ Nenurodyta
 - t-001
   global_id: t-86956
   teiginys: '1864 m. sausio 1 d. Mykolas Balinskis mirė Vilniuje ir buvo palaidotas Jašiūnų dvare.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiksliai atitinka citatą.'
+  susije_objektai: 'location: Jašiūnai; location: Vilnius; mentioned_object: [[objektai/zodynas/generalgubernatorius|generalgubernatorius]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_person: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_place: Jašiūnai; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'mirties data: 1863 m.; mirties data: 1864 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Aleksandras Balinskis mirė Jašiūnai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Aleksandras Balinskis mirė Vilnius“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiksliai atitinka citatą.'
   pagrindžia:
     - c-001
 
@@ -61,13 +67,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Aleksandras Balinskis]]
-- [[objektai/autoriai/Mykolas Balinskis]]
-- [[objektai/zodynas/generalgubernatorius]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/asmenys/Mykolas]]
-- [[objektai/ivykiai/1863 m. sukilimas]]
-- [[objektai/asmenys/Michailas Muravjovas-Korikas]]

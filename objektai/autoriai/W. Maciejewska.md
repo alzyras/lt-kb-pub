@@ -28,6 +28,7 @@ Maciejewska, W.
 - t-001
   global_id: t-31067
   teiginys: 'W. Maciejewska parašė darbą apie Lenkijos karalienę Jadvygą.'
+  susije_objektai: 'mentioned_place: Krokuva; mentioned_place: Lenkija'
   pagrindžia:
     - c-001
 

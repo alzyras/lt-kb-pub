@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Pistoletas Browning HP buvo sukurtas Džono Brauningo, išbaigtas Belgijoje ir pradėtas gaminti 1935 m.
+Belgiškas pistoletas Browning HP (Hi-Power). Pistoletas Browning HP buvo priimtas į ikikarinės Lietuvos kariuomenės ginkluotę.
 
 ## Pavadinimai šaltiniuose
 
@@ -49,6 +49,11 @@ Nenurodyta
 - t-001
   global_id: t-40749
   teiginys: 'Pistoletas Browning HP buvo sukurtas Džono Brauningo, išbaigtas Belgijoje ir pradėtas gaminti 1935 m.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiksliai perteikia citatos faktus.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Pistoletas|Pistoletas]]'
+  temporaliniai_duomenys: 'įvykio data: 1935 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir tiksliai perteikia citatos faktus.'
   pagrindžia:
     - c-001
 
@@ -72,7 +77,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Pistoletas]]

@@ -20,6 +20,8 @@ Dusburgietis teigia, kad 140 Donner G.
 - t-001
   global_id: t-60690
   teiginys: 'Donner G. A. parašė darbą apie kardinolą Wilhelmą von Sabiną.'
+  sudarymo_pagrindimas: 'Citata pateikia autoriaus pavardę ir jo darbo temą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Sabinas|Sabinas]]'
   pagrindžia:
     - c-001
 

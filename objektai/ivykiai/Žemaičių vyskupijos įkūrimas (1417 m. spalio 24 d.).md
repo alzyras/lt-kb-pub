@@ -47,6 +47,11 @@ Nenurodyta
 - t-001
   global_id: t-34526
   teiginys: 'Varniuose Vytauto pastatyta bažnyčia buvo pašventinta Žemaičių vyskupijos katedra šv. Aleksandro vardu.'
+  sudarymo_pagrindimas: 'Originalas nutrūkęs ir su OCR klaidomis, bet citata pagrindžia aiškų faktą.'
+  susije_objektai: 'mentioned_place: Trakai; mentioned_place: Varniai'
+  temporaliniai_duomenys: 'pastatymo data: po 1413 m.; pastatymo data: 1413 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip pastatymo data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Originalas nutrūkęs ir su OCR klaidomis, bet citata pagrindžia aiškų faktą.'
   pagrindžia:
     - c-002
 
@@ -54,6 +59,11 @@ Nenurodyta
 - t-002
   global_id: t-34527
   teiginys: 'Žemaičių arba Medininkų vyskupija buvo įkurta 1417 m. spalio 24 d. kaip antroji Lietuvos vyskupija.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, tikslus ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Konstancija; mentioned_place: Kuršas; mentioned_place: Lietuva; mentioned_place: Medininkai; mentioned_place: Nevėžis; mentioned_place: Prūsai; mentioned_place: Užnemunė; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1417 m.; įvykio data: 1418 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, tikslus ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -95,8 +105,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Martynas iš Golino]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

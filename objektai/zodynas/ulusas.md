@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Vytautas prie Azovo buvo užėmęs totorių ulusą, paliko jiems tikėjimo laisvę ir suteikė žemės valdų bei laisvių. Ulusai buvo savos žemės valdos, kurias turėjo žymiausi chanų giminės totorių feodalai, vadinti ulanais.
+Juos Vytautas atsivežė nuo Azovo, kur sekdamas garbingais sa­ vo pirmtakais Gediminu ir Algirdu61, bemaž tuo metu užka­ riavęs neramias šios tautos ordas, buvo užėmęs ištisą jų ulusą, palikęs jiems valią išpažinti senąjį tikėjimą, davęs daug žemės valdų ir.
 
 ## Teiginiai
 
@@ -23,6 +23,8 @@ Vytautas prie Azovo buvo užėmęs totorių ulusą, paliko jiems tikėjimo laisv
 - t-001
   global_id: t-86621
   teiginys: 'Vytautas prie Azovo buvo užėmęs totorių ulusą, paliko jiems tikėjimo laisvę ir suteikė žemės valdų bei laisvių.'
+  sudarymo_pagrindimas: 'Iš fragmento suformuotas pilnas sakinys be nutrūkusių dalių.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/autoriai/Naruszewicz|Naruszewicz]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Azovas'
   pagrindžia:
     - c-001
 
@@ -30,9 +32,14 @@ Vytautas prie Azovo buvo užėmęs totorių ulusą, paliko jiems tikėjimo laisv
 - t-002
   global_id: t-187531
   teiginys: 'Ulusai buvo savos žemės valdos, kurias turėjo žymiausi chanų giminės totorių feodalai, vadinti ulanais.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra gramatinis, aiškus ir paremtas citatos paaiškinimu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_group: [[objektai/grupes/Krymo chanatas|Krymo chanatas]]; mentioned_group: [[objektai/grupes/Perekopo orda|Perekopo orda]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_object: [[objektai/zodynas/ulan|ulan]]; mentioned_place: Isteris; mentioned_place: Krymas; mentioned_place: Perekopas'
   pagrindžia:
     - c-002
-
+- susijęs iš Azovas: Vytautas prie Azovo buvo užėmęs ištisą ulusą ir jo žmonėms paliko teisę išpažinti senąjį tikėjimą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -79,15 +86,3 @@ Vytautas prie Azovo buvo užėmęs totorių ulusą, paliko jiems tikėjimo laisv
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Auksinė Orda]]
-- [[objektai/asmenys/Gediminas]]
-- [[objektai/grupes/Krymo chanatas]]
-- [[objektai/autoriai/Naruszewicz]]
-- [[objektai/grupes/Perekopo orda]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/chanas]]
-- [[objektai/zodynas/ulan]]

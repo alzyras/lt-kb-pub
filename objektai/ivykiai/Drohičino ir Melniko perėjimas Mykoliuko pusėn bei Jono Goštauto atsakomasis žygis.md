@@ -10,7 +10,7 @@ atnaujinta: ''
 
 ## Santrauka
 
-Lietuvos metraštis teigia, kad Jonui Goštautui ginklu sugrąžinus miestus Lietuvos Didžiajai Kunigaikštystei, Jurgis Nosuta pabėgo į Mazoviją. Lietuvos metraštis teigia, kad Jurgis Nosuta pervedė Drohičiną ir Melniką Mykoliuko Žygimantaičio tarnybon ir ragino lenkų miestus atsiskirti nuo LDK. Lietuvos metraštis pasakoja, kad Kazimieras ir Ponų Taryba pasiuntė Joną Goštautą su kariuomene.
+Lietuvos metraštis pasakoja, kad Jurgis Nosuta su Drohičinu ir Melniku perėjo tarnauti Mykoliukui. Lietuvos metraštis pasakoja, kad Nosuta ragino ir kitus lenkų miestus atsiskirti nuo Lietuvos Didžiosios Kunigaikštystės.
 
 ## Laikotarpis ir datos
 
@@ -33,7 +33,10 @@ Nenurodyta
 <a id="claim-t-186624"></a>
 - t-001
   global_id: t-186624
-  teiginys: 'Lietuvos metraštis teigia, kad Jonui Goštautui ginklu sugrąžinus miestus Lietuvos Didžiajai Kunigaikštystei, Jurgis Nosuta pabėgo į Mazoviją.'
+  teiginys: 'Lietuvos metraštis teigia, kad Jonui Goštautui ginklu sugrąžinus miestus Didžiajai Kunigaikštystei, Jurgis Nosuta pabėgo į Mazoviją.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Pašalintas perteklinis LDK kartojimas ir išlaikyta šaltinio atribucija.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Ponų taryba|Ponų taryba]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_person: [[objektai/asmenys/Jurgis Nosuta|Jurgis Nosuta]]; mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -41,27 +44,39 @@ Nenurodyta
 - t-002
   global_id: t-186625
   teiginys: 'Lietuvos metraštis teigia, kad Jurgis Nosuta pervedė Drohičiną ir Melniką Mykoliuko Žygimantaičio tarnybon ir ragino lenkų miestus atsiskirti nuo LDK.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tinkamai atribuuoja kronikos pasakojimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Ponų taryba|Ponų taryba]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_person: [[objektai/asmenys/Jurgis Nosuta|Jurgis Nosuta]]; mentioned_place: Drohičinas; mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_place: Melnikas'
   pagrindžia:
     - c-001
 
 <a id="claim-t-186626"></a>
 - t-003
   global_id: t-186626
-  teiginys: 'Lietuvos metraštis pasakoja, kad Kazimieras ir Ponų Taryba pasiuntė Joną Goštautą su kariuomene.'
+  teiginys: 'Lietuvos metraštis pasakoja, kad Kazimieras ir Didžiosios Kunigaikštystės Ponų Taryba skubiai pasiuntė Joną Goštautą su kariuomene.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Patikslintas Ponų Tarybos pavadinimas ir išlaikyta šaltinio atribucija.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Ponų taryba|Ponų taryba]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_person: [[objektai/asmenys/Jurgis Nosuta|Jurgis Nosuta]]; mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
 <a id="claim-t-186627"></a>
 - t-004
   global_id: t-186627
-  teiginys: 'Lietuvos metraštis pasakoja, kad Goštautas ginklo jėga susigrąžino visus miestus Lietuvos Didžiajai Kunigaikštystei.'
+  teiginys: 'Lietuvos metraštis pasakoja, kad Jonas Goštautas didžiojo kunigaikščio įsakymu ginklo jėga sugrąžino miestus Didžiajai Kunigaikštystei.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Išplėstas veikėjo vardas ir atribuuotas konfliktinis kronikos teiginys.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Ponų taryba|Ponų taryba]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jurgis Nosuta|Jurgis Nosuta]]; mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
 <a id="claim-t-186628"></a>
 - t-005
   global_id: t-186628
-  teiginys: 'Lietuvos metraštis pasakoja, kad Jurgis Nosuta su Drohičinu ir Melniku perėjo tarnauti Mykoliukui.'
+  teiginys: 'Lietuvos metraštis pasakoja, kad Jurgis Nosuta su Drohičinu ir Melniku perėjo į Mykoliuko Žygimantaičio tarnybą.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Patikslintas Mykoliuko vardas ir išlaikyta kronikos atribucija.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Ponų taryba|Ponų taryba]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_person: [[objektai/asmenys/Jurgis Nosuta|Jurgis Nosuta]]; mentioned_place: Drohičinas; mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_place: Melnikas'
   pagrindžia:
     - c-001
 
@@ -119,14 +134,3 @@ Nenurodyta
     - t-003
     - t-004
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]]
-- [[objektai/asmenys/Jurgis Nosuta]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Ponų taryba|Ponų taryba (institucija)]]
-- [[objektai/zodynas/didysis kunigaikštis]]
-- [[objektai/zodynas/ponai]]
-- [[objektai/zodynas/seniūnas]]
-- [[objektai/zodynas/metraštis]]

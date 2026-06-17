@@ -5,6 +5,7 @@ saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1581 m.'
+  - '1582 m.'
   - '1823 m.'
 date_start: '1581'
 date_end: '1823'
@@ -23,7 +24,7 @@ amziai:
 
 ## Santrauka
 
-Vilniaus vyskupas Jurgis Radvila 1582 m. iš vyskupo dvaro pajamų įkūrė seminariją dvasinei jaunuomenei lavinti. Balandžio 1 d. dekretais karalius vyskupo Protasevičiaus funduotą jėzuitų kolegiją pakėlė iki universiteto laipsnio.
+Vyskupo Protasevičiaus funduotą ir tinkamai aprūpintą jėzuitų kolegiją karalius pa­ kelia iki universiteto laipsnio, tą rodo ir, nepaisant kai ku­ rių senatorių priešinimosi, balandžio 1-ą dieną iškilmingai išleisti dekretai57. Protasevičiaus pėdomis sekė ir jo įpėdinis Vilniaus vyskupas kunigaikštis Jurgis Radvila, vė­ liau kardinolas; jis nusipelnė Vilniui ir visai diecezijai iš vys­ kupo dvaro pajamų 1582 metais įkurdamas svarbią mokyklą dvasiškai jaunuomenei lavintis, vadinamą.
 
 ## Teiginiai
 
@@ -31,6 +32,11 @@ Vilniaus vyskupas Jurgis Radvila 1582 m. iš vyskupo dvaro pajamų įkūrė semi
 - t-001
   global_id: t-88350
   teiginys: 'Vilniaus vyskupas Jurgis Radvila 1582 m. iš vyskupo dvaro pajamų įkūrė seminariją dvasinei jaunuomenei lavinti.'
+  sudarymo_pagrindimas: 'Citata palaiko aiškų faktą apie Jurgio Radvilos veiksmą, o pradinis sakinys nutrūksta ir turi OCR triukšmo.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija|Vilniaus vyskupijos klierikų kolegija]]; mentioned_object: [[objektai/zodynas/diecezija|diecezija]]; mentioned_object: [[objektai/zodynas/tribunolas|tribunolas]]; mentioned_object: [[objektai/zodynas/įpėdinis|įpėdinis]]; mentioned_person: [[objektai/autoriai/Ignacas Onacevičius|Ignacas Onacevičius]]; mentioned_person: [[objektai/asmenys/Jurgis Radvila|Jurgis Radvila]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įkūrimo data: 1582 m.; įkūrimo data: 1823 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko aiškų faktą apie Jurgio Radvilos veiksmą, o pradinis sakinys nutrūksta ir turi OCR triukšmo.'
   pagrindžia:
     - c-002
 
@@ -38,6 +44,8 @@ Vilniaus vyskupas Jurgis Radvila 1582 m. iš vyskupo dvaro pajamų įkūrė semi
 - t-002
   global_id: t-88351
   teiginys: 'Balandžio 1 d. dekretais karalius vyskupo Protasevičiaus funduotą jėzuitų kolegiją pakėlė iki universiteto laipsnio.'
+  sudarymo_pagrindimas: 'Perrašyta į aiškesnį vieno sakinio faktą, tiesiogiai paremtą citata.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]'
   pagrindžia:
     - c-001
 

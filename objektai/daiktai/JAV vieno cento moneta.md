@@ -5,6 +5,7 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1871 m.'
+  - '1901 m.'
   - '1924 m.'
 date_start: '1871'
 date_end: '1924'
@@ -48,6 +49,11 @@ Nenurodyta
 - t-001
   global_id: t-64932
   teiginys: 'JAV vieno cento monetos autoriumi įvardijamas iš Šiaulių kilęs skulptorius Victor David Brenneris.'
+  sudarymo_pagrindimas: 'Citata sieja JAV vieno cento autorių su Victor David Brenneriu, o pradinė pretenzija nukrypsta nuo objekto.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Gintaras|Gintaras]]; mentioned_object: [[objektai/daiktai/Monetos|Monetos]]; mentioned_person: [[objektai/asmenys/Chaim Soutin|Chaim Soutin]]; mentioned_person: [[objektai/asmenys/Jascha Heifetz|Jascha Heifetz]]; mentioned_person: [[objektai/asmenys/Victor David Brenner|Victor David Brenner]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Europa; mentioned_place: Prancūzija; mentioned_place: Tryškiai; mentioned_place: Turkija; mentioned_place: Vilnius; mentioned_place: Šiauliai'
+  temporaliniai_duomenys: 'įvykio data: 1901 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata sieja JAV vieno cento autorių su Victor David Brenneriu, o pradinė pretenzija nukrypsta nuo objekto.'
   pagrindžia:
     - c-001
 
@@ -79,15 +85,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Chaim Soutin]]
-- [[objektai/daiktai/Gintaras]]
-- [[objektai/asmenys/Jascha Heifetz]]
-- [[objektai/asmenys/Victor David Brenner]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/daiktai/Monetos]]
-- [[objektai/asmenys/Jurgis Mačiūnas]]
-- [[objektai/asmenys/Violeta Urmana]]
-- [[objektai/posakiai/„idealiąją Lietuvą“]]

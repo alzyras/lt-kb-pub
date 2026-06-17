@@ -16,7 +16,7 @@ amziai:
 
 ## Santrauka
 
-Sekančių metų vasarą ir rudenį Steponas su Malkoču kariavo Lenkijos žemėje nuo Kameneco iki Tarnovo. Moldavijos vaivados Stepono ir Malkočo vadovaujamas žygis nuniokojo Lenkijos žemę nuo Kameneco iki Lvovo ir Tarnovo apylinkių.
+Tais pačiais metais Lietuvos žemę ištiko baisus badas ir paplito ligos. Sekančių metų vasarą ir rudenį Steponas su Malkoču kariavo Lenkijos žemėje nuo Kameneco iki Tarnovo.
 
 ## Laikotarpis ir datos
 
@@ -45,14 +45,20 @@ Nenurodyta
 <a id="claim-t-186665"></a>
 - t-001
   global_id: t-186665
-  teiginys: 'Sekančių metų vasarą ir rudenį Steponas su Malkoču kariavo Lenkijos žemėje nuo Kameneco iki Tarnovo.'
+  teiginys: 'Moldavijos vaivada Steponas ir turkų sultono didysis paša Malkočas vasarą bei rudenį kariavo Lenkijoje nuo Kameneco iki Lvovo ir Tarnovo.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Sakinys pataisytas pagal citatą, įtraukiant Lvovą ir aiškiai įvardijant veikėjus.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Kamenecas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Lvovas; mentioned_place: Moldavija'
   pagrindžia:
     - c-001
 
 <a id="claim-t-186666"></a>
 - t-002
   global_id: t-186666
-  teiginys: 'Moldavijos vaivados Stepono ir Malkočo vadovaujamas žygis nuniokojo Lenkijos žemę nuo Kameneco iki Lvovo ir Tarnovo apylinkių.'
+  teiginys: 'Moldavijos vaivados Stepono ir Malkočo žygis, Lietuvos metraščio pasakojimu, padarė daug žalos Lenkijos žemei.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Žalos vertinimas šaltinyje apibendrinamas, todėl palikta metraščio atribucija.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Kamenecas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Moldavija'
   pagrindžia:
     - c-001
 
@@ -75,9 +81,3 @@ Nenurodyta
   pagrindžia:
     - t-001
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/vaivada]]
-- [[objektai/asmenys/Steponas]]
-- [[objektai/zodynas/žygis]]

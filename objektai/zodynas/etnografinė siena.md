@@ -10,55 +10,85 @@ date_start: '1921'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - sąvoka
 amziai:
   - 'XX'
   - 'XXI'
-tags:
-  - sąvoka
 ---
 # etnografinė siena
 
 ## Santrauka
 
-Vilniaus konferencija ir Taryba būsimos Lietuvos ribas siejo su lietuvių gyvenamosiomis, arba etnografinėmis, žemėmis. Pradinė Latvijos ir Lietuvos siena nesutapo su etnografine lietuvių siena, todėl pradžioje kildavo nesusipratimų. Okupacijos metu Vilniaus konferencija ir Taryba būsimos Lietuvos ribas siejo su lietuvių gyvenamosiomis etnografinėmis žemėmis.
+kadangi ji nesutapo su etnografine lietuvių siena, tai pradžioje čia pasitaikydavo nesusipratimų.
 
 ## Teiginiai
+
 <a id="claim-t-72688"></a>
 - t-001
   global_id: t-72688
   teiginys: 'Vilniaus konferencija ir Taryba būsimos Lietuvos ribas siejo su lietuvių gyvenamosiomis, arba etnografinėmis, žemėmis.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Vilniaus konferencija (1917 m. rugsėjo 18–22 d.)|Vilniaus konferencija (1917 m. rugsėjo 18–22 d.)]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/Žynių titulai ir pareigybės|Žynių titulai ir pareigybės]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
-    - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+    - c-001
+
 <a id="claim-t-72689"></a>
 - t-002
   global_id: t-72689
   teiginys: 'Pradinė Latvijos ir Lietuvos siena nesutapo su etnografine lietuvių siena, todėl pradžioje kildavo nesusipratimų.'
+  sudarymo_pagrindimas: 'Pašalinta kontekstinė pradžia ir aiškiai įvardyta minima siena.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_place: Kuršas; mentioned_place: Latvija; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1921 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalinta kontekstinė pradžia ir aiškiai įvardyta minima siena.'
   pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+    - c-002
+
 <a id="claim-t-72690"></a>
 - t-003
   global_id: t-72690
   teiginys: 'Okupacijos metu Vilniaus konferencija ir Taryba būsimos Lietuvos ribas siejo su lietuvių gyvenamosiomis etnografinėmis žemėmis.'
+  sudarymo_pagrindimas: 'Perrašyta glaustai, pašalinant perteklinę konstrukciją ir išlaikant citatos faktą.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Vilniaus konferencija (1917 m. rugsėjo 18–22 d.)|Vilniaus konferencija (1917 m. rugsėjo 18–22 d.)]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/Žynių titulai ir pareigybės|Žynių titulai ir pareigybės]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
-    - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+    - c-001
+
 <a id="claim-t-72691"></a>
 - t-004
   global_id: t-72691
   teiginys: 'Pradinė Lietuvos ir Latvijos siena laikyta buvusia Kuršo gubernijos siena, tačiau ji nesutapo su etnografine lietuvių siena.'
+  sudarymo_pagrindimas: 'Pašalintas antraštinis triukšmas ir teiginys suformuluotas kaip vienas aiškus faktinis sakinys.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_place: Kuršas; mentioned_place: Latvija; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1921 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas antraštinis triukšmas ir teiginys suformuluotas kaip vienas aiškus faktinis sakinys.'
   pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Pradinė Latvijos ir Lietuvos siena nesutapo su etnografine lietuvių siena, todėl pradžioje kildavo nesusipratimų.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tad valstybės
+    kūrėjai svajojo, kad į nepriklausomą Lietuvą turi įeiti ne tik
+    Rusų valdžioje buvusi Didžioji Lietuva, bet ir jau daug amžių
+    Vokiečių valdoma Mažoji Lietuva.
+    Okupacijos metu ir Vilniaus konferencija ir Taryba vengė
+    aiškiai kelti Mažosios Lietuvos klausimo; buvo pasitenkinta
+    bendru posakiu, kad būsimoji Lietuva turinti apimti lietuvių gyve-
+    namąsias (etnografines) žemes. Priešingai, lietuviai Rusijoje,
+    Amerikoje ir kitur užsieniuose nebuvo tuo atžvilgiu suvaržyti
+    ir aiškiai pabrėžė savo reikalavimuose Mažosios ir Didžiosios
+    Lietuvos sujungimą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+    - t-003
+
+- c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Lietuvos Latvijos sienos nustatymas**
@@ -73,42 +103,9 @@ Vilniaus konferencija ir Taryba būsimos Lietuvos ribas siejo su lietuvių gyven
     dentas A. Smetona), kurios savo konferencijose, tarpininkaujant
     škotui prof. Simpsonui, išvedė sieną, nedaug tenutoldamos nuo
     buvusios gubernijos sienos.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002
     - t-004
-- c-002
-  santrauka: 'Vilniaus konferencija ir Taryba būsimos Lietuvos ribas siejo su lietuvių gyvenamosiomis, arba etnografinėmis, žemėmis.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tad valstybės
-    kūrėjai svajojo, kad į nepriklausomą Lietuvą turi įeiti ne tik
-    Rusų valdžioje buvusi Didžioji Lietuva, bet ir jau daug amžių
-    Vokiečių valdoma Mažoji Lietuva.
-    Okupacijos metu ir Vilniaus konferencija ir Taryba vengė
-    aiškiai kelti Mažosios Lietuvos klausimo; buvo pasitenkinta
-    bendru posakiu, kad būsimoji Lietuva turinti apimti lietuvių gyve-
-    namąsias (etnografines) žemes. Priešingai, lietuviai Rusijoje,
-    Amerikoje ir kitur užsieniuose nebuvo tuo atžvilgiu suvaržyti
-    ir aiškiai pabrėžė savo reikalavimuose Mažosios ir Didžiosios
-    Lietuvos sujungimą.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-    - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/ivykiai/Vilniaus konferencija (1917 m. rugsėjo 18–22 d.)]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/gubernija]]

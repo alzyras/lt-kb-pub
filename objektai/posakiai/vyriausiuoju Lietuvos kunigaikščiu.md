@@ -19,7 +19,7 @@ amziai:
 
 ## Santrauka
 
-Vilniaus-Radomo aktais formaliai buvo įgytas didžiojo kunigaikščio titulas iki gyvos galvos.
+Vil­ niaus-Radomo aktais formaliai įgijo didžiojo kunigaikščio titulą iki gyvos galvos.
 
 ## Teiginiai
 
@@ -27,6 +27,11 @@ Vilniaus-Radomo aktais formaliai buvo įgytas didžiojo kunigaikščio titulas i
 - t-001
   global_id: t-100004
   teiginys: 'Vilniaus-Radomo aktais formaliai buvo įgytas didžiojo kunigaikščio titulas iki gyvos galvos.'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo per daug fragmentiškas; perrašyta į pilną faktinį sakinį.'
+  susije_objektai: 'mentioned_object: [[objektai/posakiai/Iki gyvos galvos|Iki gyvos galvos]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Salynas'
+  temporaliniai_duomenys: 'įvykio data: po 1401 m.; įvykio data: 1401 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys buvo per daug fragmentiškas; perrašyta į pilną faktinį sakinį.'
   pagrindžia:
     - c-001
 
@@ -45,10 +50,3 @@ Vilniaus-Radomo aktais formaliai buvo įgytas didžiojo kunigaikščio titulas i
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/didysis magistras]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/posakiai/Iki gyvos galvos]]
-- [[objektai/posakiai/supremus dux]]

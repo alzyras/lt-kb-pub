@@ -3,17 +3,23 @@ tipas: saltinis
 pavadinimas: 'Lietuvos ir Vatikano konkordatas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1940 m.'
+date_start: '1940'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
   - valstybė
+amziai:
+  - 'XX'
 ---
 # Lietuvos ir Vatikano konkordatas
 
 ## Santrauka
 
-1940 m. birželio 27 d. Liaudies vyriausybė panaikino Lietuvos ir Vatikano konkordatą. 1940 m. birželio 27 d. Liaudies vyriausybė panaikino Lietuvos ir Vatikano konkordatą.
+Birželio 27-ąją Liaudies vyriausybė panaikino Lietuvos ir Vatikano konkordatą, o liepos 12-ąją, spaudžiant V.
 
 ## Teiginiai
 
@@ -21,6 +27,11 @@ tags:
 - t-001
   global_id: t-75472
   teiginys: '1940 m. birželio 27 d. Liaudies vyriausybė panaikino Lietuvos ir Vatikano konkordatą.'
+  sudarymo_pagrindimas: 'Teiginyje trūksta metų, kuriuos leidžia nustatyti citatos kontekstas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Liaudies vyriausybė|Liaudies vyriausybė]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_place: Lietuva; mentioned_place: Sniečkus; mentioned_place: Vatikanas'
+  temporaliniai_duomenys: 'įvykio data: 1940 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginyje trūksta metų, kuriuos leidžia nustatyti citatos kontekstas.'
   pagrindžia:
     - c-001
 

@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Horodlės unija nepraplėtė sosto paveldėjimo teisės tiems Jogailos vaikams, kurie būtų kilę ne iš Piastų dinastijos.
+Bet Ho­ rodlės unija šį klausimą, kaip žinom, nutyli; buvo tik pripažinta Lenkijos karalaitė Jogailos duktė Jadvyga ir jai padaryta išti­ kimybės priesaika: matyt, nenorėta tos teisės išplėsti ant tų Jogailos vaikų, kurie būtų kilę ne iš Piastų dinastijos.
 
 ## Teiginiai
 
@@ -29,6 +29,11 @@ Horodlės unija nepraplėtė sosto paveldėjimo teisės tiems Jogailos vaikams, 
 - t-001
   global_id: t-34363
   teiginys: 'Horodlės unija nepraplėtė sosto paveldėjimo teisės tiems Jogailos vaikams, kurie būtų kilę ne iš Piastų dinastijos.'
+  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir palikta citata paremta esmė.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Jadvyga|Jadvyga]]; mentioned_place: Horodlė; mentioned_place: Lenkija'
+  temporaliniai_duomenys: 'įvykio data: 1417 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas OCR triukšmas ir palikta citata paremta esmė.'
   pagrindžia:
     - c-001
 
@@ -49,12 +54,3 @@ Horodlės unija nepraplėtė sosto paveldėjimo teisės tiems Jogailos vaikams, 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/dinastija]]
-
-### Susiję objektai
-- [[objektai/asmenys/Jadvyga]]
-- [[objektai/zodynas/unija]]
-- [[objektai/asmenys/Jadvyga (Jogailos duktė)]]

@@ -40,7 +40,7 @@ Nenurodyta
   teiginys: 'Iš žvėrių ragų ant kesčių galų darydavo ragotines kaip sau skirtą ginklą.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-55086|Vilniaus miestiečių luomas]]: Vilniaus miestiečiai gaisro atveju privalėjo skubėti prie ugnies, o miesto gynybai turėti šarvus, muškietą ir ragotinę.
 ## Reikšmingi paminėjimai
 
 - c-001

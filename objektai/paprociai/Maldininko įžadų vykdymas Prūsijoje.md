@@ -41,6 +41,9 @@ Nenurodyta
 - t-001
   global_id: t-62693
   teiginys: 'Kryžininkas iš Meiseno per vienus metus Prūsijoje įvykdė maldininko įžadus ir mirė kelyje grįždamas į tėvynę.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiksliai atitinka citatos faktus.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_place: Prūsija; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -85,8 +88,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Kūnas]]
-- [[objektai/paprociai/Kapinių šventinimas ir kapų šlakstymas švęstu vandeniu]]

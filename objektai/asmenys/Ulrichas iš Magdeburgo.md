@@ -15,6 +15,7 @@ tags:
   - dokumentas
   - karalius
   - kraštas
+  - ordinas
 amziai:
   - 'XIII'
 periodo_grupes:
@@ -24,7 +25,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Petras Dusburgietis rašė, kad Ulrichas iš Magdeburgo gyveno Karaliaučiaus brolių konvente ir buvo itin stipraus kūno sudėjimo. Ulrichui iš Magdeburgo buvo patikėta su keliais broliais ir ginklanešiais saugoti krikščionių laivus, atplaukiančius į Prūsiją.
+Dusburgietis teigia, kad apie brolį Ulrichą ir 50 prūsų žūtį Tuo metu Karaliaučiaus brolių konvente gyveno brolis Ulrichas iš Magdeburgo, tokio stipraus kūno sudėjimo, kad lenkė visus kitus vyrus. Dusburgietis teigia, kad kartą, jam pasilikus su kitais prie minėtųjų laivų, atplaukė penkiais laivais ginkluoti prūsai; kai jie priplaukė su savo laivais arčiau, kėsindamiesi sunaikinti mūsiškius, brolis Ulrichas pagriebė savo laivo stiebą ir pradėjo daužyti jų laivus, o tiek jų.
 
 ## Teiginiai
 
@@ -32,6 +33,9 @@ Petras Dusburgietis rašė, kad Ulrichas iš Magdeburgo gyveno Karaliaučiaus br
 - t-001
   global_id: t-60214
   teiginys: 'Petras Dusburgietis rašė, kad Ulrichas iš Magdeburgo gyveno Karaliaučiaus brolių konvente ir buvo itin stipraus kūno sudėjimo.'
+  sudarymo_pagrindimas: 'Reikia aiškios atribucijos, nes teiginys apima autoriaus apibūdinimą.'
+  susije_objektai: 'location: Prūsai; location: Prūsija; mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_person: [[objektai/autoriai/Petras Dusburgietis|Petras Dusburgietis]]; mentioned_place: Prūsai; mentioned_place: Prūsija'
+  semantiniai_rysiai: '[[objektai/asmenys/Ulrichas iš Magdeburgo|Ulrichas iš Magdeburgo]] gyveno Prūsai; [[objektai/asmenys/Ulrichas iš Magdeburgo|Ulrichas iš Magdeburgo]] gyveno Prūsija'
   pagrindžia:
     - c-001
 
@@ -39,6 +43,11 @@ Petras Dusburgietis rašė, kad Ulrichas iš Magdeburgo gyveno Karaliaučiaus br
 - t-002
   global_id: t-184136
   teiginys: 'Ulrichui iš Magdeburgo buvo patikėta su keliais broliais ir ginklanešiais saugoti krikščionių laivus, atplaukiančius į Prūsiją.'
+  teiginio_tipas: 'saltinio_teiginys'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata palaiko konkretesnį enciklopedinį faktą apie Ulricho vaidmenį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_place: Prūsai; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
 
@@ -62,8 +71,5 @@ Petras Dusburgietis rašė, kad Ulrichas iš Magdeburgo gyveno Karaliaučiaus br
     - t-002
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Kūnas]]
-- [[objektai/zodynas/ginklanešiai]]
-- [[objektai/zodynas/Miera|miera]]
-- [[objektai/autoriai/Petras Dusburgietis]]
+- Ulrichas iš Magdeburgo gyveno [[objektai/vietos/Prūsai]]
+- Ulrichas iš Magdeburgo gyveno [[objektai/vietos/Prūsija]]

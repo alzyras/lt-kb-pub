@@ -4,10 +4,10 @@ pavadinimas: 'J. Stalinas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
-  - '1950 m.'
-  - '1953 m.'
-date_start: '1950'
-date_end: '1953'
+  - '1944 m.'
+  - '1962 m.'
+date_start: '1944'
+date_end: '1962'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -15,6 +15,7 @@ tags:
   - kunigas
   - miestas
   - tauta
+  - valstybė
 amziai:
   - 'XX'
 periodo_grupes:
@@ -24,7 +25,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Po J. Stalino mirties ir jo kulto pasmerkimo Lietuvoje susilpnėjo rusinimas, o valdžia pradėjo labiau pasitikėti vietiniais lietuviais. J. Stalino laikais okupacinė valdžia siekė fiziškai sunaikinti ar ištremti dvasininkiją, o bažnyčias paversti sandėliais. J. Stalino laikais okupacinė valdžia stengėsi fiziškai sunaikinti ar ištremti dvasininkiją, o bažnyčias paversti sandėliais.
+Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Stalino SSRS. Stalino valdymo metais vyko tiesmukas lietuvių kultūros griovimas, siekiant su šaknimis išrauti bet kokį tautiškumą, nes visas kultūros sritis kontroliavo ir griežtai administravo, kiekvieną eilutę cenzūravo komunistų partija: primesta marksistinė-lenininė.
 
 ## Teiginiai
 
@@ -32,6 +33,11 @@ Po J. Stalino mirties ir jo kulto pasmerkimo Lietuvoje susilpnėjo rusinimas, o 
 - t-001
   global_id: t-101639
   teiginys: 'Po J. Stalino mirties ir jo kulto pasmerkimo Lietuvoje susilpnėjo rusinimas, o valdžia pradėjo labiau pasitikėti vietiniais lietuviais.'
+  sudarymo_pagrindimas: 'Citata kalba apie padėtį Lietuvoje, todėl teiginį reikia patikslinti.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: SSRS'
+  temporaliniai_duomenys: 'įvykio data: 1953 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata kalba apie padėtį Lietuvoje, todėl teiginį reikia patikslinti.'
   pagrindžia:
     - c-001
 
@@ -39,6 +45,11 @@ Po J. Stalino mirties ir jo kulto pasmerkimo Lietuvoje susilpnėjo rusinimas, o 
 - t-002
   global_id: t-101640
   teiginys: 'J. Stalino laikais okupacinė valdžia siekė fiziškai sunaikinti ar ištremti dvasininkiją, o bažnyčias paversti sandėliais.'
+  sudarymo_pagrindimas: 'Sakinys pilnas, aiškus ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija|Vilniaus vyskupijos klierikų kolegija]]; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1962 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Sakinys pilnas, aiškus ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-006
 
@@ -46,6 +57,11 @@ Po J. Stalino mirties ir jo kulto pasmerkimo Lietuvoje susilpnėjo rusinimas, o 
 - t-003
   global_id: t-101641
   teiginys: 'J. Stalino laikais okupacinė valdžia stengėsi fiziškai sunaikinti ar ištremti dvasininkiją, o bažnyčias paversti sandėliais.'
+  sudarymo_pagrindimas: 'Sakinys aiškiai perteikia citatoje nurodytą politiką.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija|Vilniaus vyskupijos klierikų kolegija]]; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1962 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Sakinys aiškiai perteikia citatoje nurodytą politiką.'
   pagrindžia:
     - c-006
 
@@ -53,6 +69,8 @@ Po J. Stalino mirties ir jo kulto pasmerkimo Lietuvoje susilpnėjo rusinimas, o 
 - t-004
   global_id: t-101642
   teiginys: 'Sovietinėje Lietuvoje mokytojai buvo verčiami studijuoti J. Stalino, V. Lenino ir Karlo Markso veikalus.'
+  sudarymo_pagrindimas: 'Sakinys gramatiškas, aiškus ir paremtas citata.'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: SSRS'
   pagrindžia:
     - c-005
 
@@ -60,6 +78,8 @@ Po J. Stalino mirties ir jo kulto pasmerkimo Lietuvoje susilpnėjo rusinimas, o 
 - t-005
   global_id: t-101643
   teiginys: 'J. Stalino veikalus mokytojai buvo verčiami studijuoti kartu su V. Lenino ir Karlo Markso veikalais.'
+  sudarymo_pagrindimas: 'Sakinys pilnas, faktinis ir atitinka citatą.'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: SSRS'
   pagrindžia:
     - c-005
 
@@ -67,6 +87,9 @@ Po J. Stalino mirties ir jo kulto pasmerkimo Lietuvoje susilpnėjo rusinimas, o 
 - t-006
   global_id: t-101644
   teiginys: 'J. Stalinas buvo vaizduojamas statulomis, statytomis Lietuvos valstybingumą liudijusių paminklų vietose.'
+  susije_objektai: 'mentioned_object: [[objektai/autoriai/Vincas Kudirka|Vincas Kudirka]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1950 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-004
 
@@ -74,6 +97,11 @@ Po J. Stalino mirties ir jo kulto pasmerkimo Lietuvoje susilpnėjo rusinimas, o 
 - t-007
   global_id: t-101645
   teiginys: 'Lietuvoje tikėta, kad Vakarai pakils į žygį prieš J. Stalino SSRS ir padės sugrąžinti nepriklausomybę dėl karo jos netekusioms šalims.'
+  sudarymo_pagrindimas: 'Citata palaiko turiningesnį enciklopedinį sakinį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Didžioji Britanija; mentioned_place: Lietuva; mentioned_place: SSRS'
+  temporaliniai_duomenys: 'įvykio data: 1944 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko turiningesnį enciklopedinį sakinį.'
   pagrindžia:
     - c-002
 
@@ -81,6 +109,9 @@ Po J. Stalino mirties ir jo kulto pasmerkimo Lietuvoje susilpnėjo rusinimas, o 
 - t-008
   global_id: t-101646
   teiginys: 'Stalino statulų, prikabinėta komunistinių šūkių.'
+  susije_objektai: 'mentioned_object: [[objektai/autoriai/Vincas Kudirka|Vincas Kudirka]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1950 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-004
 
@@ -88,9 +119,13 @@ Po J. Stalino mirties ir jo kulto pasmerkimo Lietuvoje susilpnėjo rusinimas, o 
 - t-009
   global_id: t-101647
   teiginys: 'J. Stalino valdymo metais vyko tiesmukas lietuvių kultūros griovimas, siekiant išrauti bet kokį tautiškumą.'
+  sudarymo_pagrindimas: 'Sakinys aiškus, gramatiškas ir paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
-
+- susijęs iš [[objektai/grupes/Lietuvos SSR Aukščiausioji Taryba.md#claim-t-65780|Lietuvos SSR Aukščiausioji Taryba]]: Po karo rinkimai į Lietuvos SSR Aukščiausiąją Tarybą pirmą kartą vyko 1947 m.
+- susijęs iš [[objektai/ivykiai/Okupacinės valdžios rinkimai į aukščiausias institucijas po karo (1946-1947 m.).md#claim-t-66803|Okupacinės valdžios rinkimai į aukščiausias institucijas po karo (1946-1947 m.)]]: 1946 ir 1947 m. Lietuvoje pirmą kartą po karo vyko nedemokratiniai rinkimai į aukščiausias okupacinės valdžios institucijas.
+- susijęs iš [[objektai/ivykiai/Okupacinės valdžios rinkimai į aukščiausias institucijas po karo (1946-1947 m.).md#claim-t-66804|Okupacinės valdžios rinkimai į aukščiausias institucijas po karo (1946-1947 m.)]]: Pokario okupacinės valdžios rinkimuose kandidatus galėjo siūlyti tik komunistų partija, o rezultatai buvo klastojami skelbiant per 90 proc. dalyvavimą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -194,17 +229,3 @@ Po J. Stalino mirties ir jo kulto pasmerkimo Lietuvoje susilpnėjo rusinimas, o 
   pagrindžia:
     - t-003
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/grupes/Lietuvos SSR Aukščiausioji Taryba]]
-- [[objektai/ivykiai/Okupacinės valdžios rinkimai į aukščiausias institucijas po karo (1946-1947 m.)]]
-- [[objektai/asmenys/Josifas Stalinas]]
-- [[objektai/asmenys/Karlas Marksas]]
-- [[objektai/ivykiai/Lietuvos himno „Tautiška giesmė“ uždraudimas (1950 m.)]]
-- [[objektai/grupes/Sovietų Sąjungos komunistų partija]]
-- [[objektai/zodynas/rusinimas]]
-- [[objektai/zodynas/rusinimas dvikalbystė]]

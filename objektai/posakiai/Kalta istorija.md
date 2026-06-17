@@ -21,6 +21,8 @@ Tūlas gal pasakys, kad mūsų naratyvas, papasakota istorija, jam pasirodė atv
 - t-001
   global_id: t-75600
   teiginys: 'Posakis „Kalta istorija“ vartojamas aiškinant, kad dėl Lietuvos istorijos komplikuotumo nekalti Lietuvos istorikai.'
+  sudarymo_pagrindimas: 'Šaltinio pratarmės fragmentas perrašytas į savarankišką faktą apie posakį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -28,6 +30,7 @@ Tūlas gal pasakys, kad mūsų naratyvas, papasakota istorija, jam pasirodė atv
 - t-002
   global_id: t-75601
   teiginys: 'Pasakojimas apie Lietuvos istoriją galėjo atrodyti atveriantis daug aštrių prieštaravimų ir pernelyg kritiškas kaimynams.'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -35,6 +38,7 @@ Tūlas gal pasakys, kad mūsų naratyvas, papasakota istorija, jam pasirodė atv
 - t-003
   global_id: t-75602
   teiginys: 'Dėl Lietuvos istorijos komplikuotumo Lietuvos istorikai nelaikomi kaltais.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -76,7 +80,3 @@ Tūlas gal pasakys, kad mūsų naratyvas, papasakota istorija, jam pasirodė atv
   pagrindžia:
     - t-003
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]

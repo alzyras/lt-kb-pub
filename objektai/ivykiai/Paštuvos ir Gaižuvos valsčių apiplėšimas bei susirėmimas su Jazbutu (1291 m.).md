@@ -44,6 +44,8 @@ Nenurodyta
 - t-001
   global_id: t-66821
   teiginys: 'Gaižuva buvo į rytus nuo Dubysos žiočių ir į šiaurės vakarus nuo Vilkijos.'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo bibliografinis fragmentas; citata palaiko aiškų geografinį faktą apie Gaižuvą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_object: [[objektai/zodynas/papilys|papilys]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Dubysa; mentioned_place: Gaižuva; mentioned_place: Jurbarkas; mentioned_place: Kaimas; mentioned_place: Kulautuva; mentioned_place: Medraba; mentioned_place: Mituva; mentioned_place: Nemunas; mentioned_place: Nevėžis; mentioned_place: Paštuvos valsčius; mentioned_place: Veliuona; mentioned_place: Vilkaviškis; mentioned_place: Vilkija'
   pagrindžia:
     - c-002
 
@@ -51,6 +53,8 @@ Nenurodyta
 - t-002
   global_id: t-66822
   teiginys: 'Magistras Meinhardas su šimtu brolių ir daugybe raitelių įsiveržė į Gaižuvos ir Paštuvos valsčius ir niokojo juos gaisrais.'
+  sudarymo_pagrindimas: 'Citata remia įsiveržimą ir niokojimą, bet pradinė formuluotė nutrūksta ir prasideda boilerplate.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Gaižuva; mentioned_place: Paštuvos valsčius; mentioned_place: Veliuona'
   pagrindžia:
     - c-001
 
@@ -106,13 +110,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Gediminas]]
-- [[objektai/autoriai/Henrikas]]
-- [[objektai/daiktai/Kalavijas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/Miera|miera]]
-- [[objektai/zodynas/papilys]]
-- [[objektai/zodynas/magistras]]

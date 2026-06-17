@@ -20,6 +20,8 @@ Dusburgietis teigia, kad netgi žiaurusis Tarkvinijus, tiek daug sugalvojęs vis
 - t-001
   global_id: t-60445
   teiginys: 'Petras Dusburgietis Tarkvinijų mini kaip žiaurų daugelio kankinimo būdų sumanytoją.'
+  sudarymo_pagrindimas: 'Citata yra autoriaus palyginimas, todėl tinkama atribucija Dusburgiečiui.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/Petras Dusburgietis|Petras Dusburgietis]]'
   pagrindžia:
     - c-001
 

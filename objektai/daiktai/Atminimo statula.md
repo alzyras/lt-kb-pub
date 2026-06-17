@@ -33,6 +33,11 @@ Nenurodyta
 - t-001
   global_id: t-185847
   teiginys: 'Po Barkaus sudeginimo jo pelenų vietoje pastatyta atminimo statula iki Jogailos laikų buvo laikoma šventenybe.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata aiškiai kalba apie atminimo statulą, bet teiginį reikia sutrumpinti ir išvalyti.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Barkus|Barkus]]'
   pagrindžia:
     - c-001
 
@@ -60,7 +65,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Barkus]]

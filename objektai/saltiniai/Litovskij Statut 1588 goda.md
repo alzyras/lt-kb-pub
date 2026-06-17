@@ -4,11 +4,12 @@ pavadinimas: 'Litovskij Statut 1588 goda'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
+  - '1569 m.'
   - '1588 m.'
   - '1934 m.'
   - '1936 m.'
   - '1938 m.'
-date_start: '1588'
+date_start: '1569'
 date_end: '1938'
 sukurta: ''
 atnaujinta: ''
@@ -31,6 +32,11 @@ Lappo : Litovskij Statut 1588 goda, I t.
 - t-001
   global_id: t-31830
   teiginys: 'I. I. Lappo „Litovskij Statut 1588 goda“ dalys buvo išleistos Kaune 1934 m., 1936 m. ir 1938 m.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus ir paremtas citatoje išvardytais leidimo metais bei vieta.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Ukrainiečiai|Ukrainiečiai]]; mentioned_person: [[objektai/autoriai/I. Lappo|I. Lappo]]; mentioned_place: Kaunas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: po 1569 m.; įvykio data: 1569 m.; įvykio data: 1934 m.; įvykio data: 1936 m.; įvykio data: 1938 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus ir paremtas citatoje išvardytais leidimo metais bei vieta.'
   pagrindžia:
     - c-001
 

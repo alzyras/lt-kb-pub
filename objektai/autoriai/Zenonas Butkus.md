@@ -3,11 +3,19 @@ tipas: autorius
 pavadinimas: 'Zenonas Butkus'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1990 m.'
+date_start: '1990'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
   - žemėlapis
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'šiuolaikinė Lietuva'
 ---
 # Zenonas Butkus
 
@@ -21,6 +29,11 @@ Nuoširdžiai dėkojame leidinio iniciatoriams, redakcinės kolegijos nariams, s
 - t-001
   global_id: t-19496
   teiginys: 'Zenonas Butkus recenzavo knygą „Lietuvos istorija“.'
+  sudarymo_pagrindimas: 'Pradinis tekstas yra padėkos fragmentas, citata remia glaustą teiginį apie vaidmenį.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Romanas (Briansko kunigaikštis)|Romanas (Briansko kunigaikštis)]]; mentioned_person: [[objektai/asmenys/Zenonas|Zenonas]]; mentioned_place: Europa; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: po 1990 m.; įvykio data: 1990 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis tekstas yra padėkos fragmentas, citata remia glaustą teiginį apie vaidmenį.'
   pagrindžia:
     - c-001
 
@@ -51,7 +64,3 @@ Nuoširdžiai dėkojame leidinio iniciatoriams, redakcinės kolegijos nariams, s
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/žemėlapis]]

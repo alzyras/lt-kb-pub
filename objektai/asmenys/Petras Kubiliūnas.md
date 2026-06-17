@@ -3,10 +3,19 @@ tipas: asmuo
 pavadinimas: 'Petras Kubiliūnas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1934 m.'
+  - '1942 m.'
+date_start: '1934'
+date_end: '1942'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'modernioji Lietuva'
 ---
 # Petras Kubiliūnas
 
@@ -20,9 +29,14 @@ Petro Kubiliūno vadovaujamas dalinių išvedimas į Kauno gatves buvo pavojingi
 - t-001
   global_id: t-19193
   teiginys: 'Petras Kubiliūnas 1934 m. vadovavo dalinių išvedimui į Kauno gatves, laikytam pavojingiausiu voldemarininkų pučo bandymu.'
+  sudarymo_pagrindimas: 'Pradinis sakinys taisytinas, kad tiesiogiai įvardytų asmens veiksmą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Voldemarininkai|Voldemarininkai]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_place: Europa; mentioned_place: Italija; mentioned_place: Kaunas; mentioned_place: Latvija; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1934 m.; įvykio data: 1941-1942; įvykio data: 1942 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis sakinys taisytinas, kad tiesiogiai įvardytų asmens veiksmą.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/zodynas/vadybos.md#claim-t-26341|vadybos]]: Nacių okupacijos metais vokiečių valdžia Lietuvos ministerijas pervadino vadybomis.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -44,9 +58,3 @@ Petro Kubiliūno vadovaujamas dalinių išvedimas į Kauno gatves buvo pavojingi
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/vadybos]]
-- [[objektai/grupes/Voldemarininkai]]
-- [[objektai/ivykiai/Generolo Petro Kubiliūno vadovautas dalinių išvedimas į Kauno gatves (1934 m.)]]

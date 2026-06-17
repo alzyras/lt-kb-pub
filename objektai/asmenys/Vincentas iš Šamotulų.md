@@ -18,6 +18,12 @@ Karalius iš Lvovo pasiuntė Rusios vaivadą Vincentą iš Šamotulų prieš Fio
 - t-001
   global_id: t-186088
   teiginys: 'Karalius iš Lvovo pasiuntė Rusios vaivadą Vincentą iš Šamotulų prieš Fiodorą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Sutvarkyta OCR klaida ir pašalinta nereikalinga įžanga.'
+  susije_objektai: 'territory: Braclavas; territory: Lvovas; territory: Viena; mentioned_group: [[objektai/grupes/Valachai|Valachai]]; mentioned_object: [[objektai/zodynas/skitai|skitai]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Fiodoras|Fiodoras]]; mentioned_place: Braclavas; mentioned_place: Lvovas; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/asmenys/Vincentas iš Šamotulų|Vincentas iš Šamotulų]] buvo valdovas Braclavas; [[objektai/asmenys/Vincentas iš Šamotulų|Vincentas iš Šamotulų]] buvo valdovas Lvovas; [[objektai/asmenys/Vincentas iš Šamotulų|Vincentas iš Šamotulų]] buvo valdovas Viena'
   pagrindžia:
     - c-001
 
@@ -25,6 +31,11 @@ Karalius iš Lvovo pasiuntė Rusios vaivadą Vincentą iš Šamotulų prieš Fio
 - t-002
   global_id: t-186089
   teiginys: 'Vincentas iš Šamotulų, atsidūręs dvigubame pavojuje, įsakė suversti vežimus po ledu ir atlaisvinti kelią kitiems būriams.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Perrašyta sklandžiau, pašalinant neaiškią formuluotę ir išlaikant citatos faktus.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vežimai|Vežimai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]'
   pagrindžia:
     - c-002
 
@@ -67,9 +78,6 @@ Karalius iš Lvovo pasiuntė Rusios vaivadą Vincentą iš Šamotulų prieš Fio
     - t-002
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Valachai]]
-- [[objektai/daiktai/Vežimai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/skitai]]
-- [[objektai/zodynas/vaivada]]
+- Vincentas iš Šamotulų buvo_valdovas [[objektai/vietos/Braclavas]]
+- Vincentas iš Šamotulų buvo_valdovas [[objektai/vietos/Lvovas]]
+- Vincentas iš Šamotulų buvo_valdovas [[objektai/vietos/Viena]]

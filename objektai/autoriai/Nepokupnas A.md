@@ -28,6 +28,11 @@ Dusburgietis teigia, kad nepokupnas A.
 - t-001
   global_id: t-60848
   teiginys: 'A. Nepokupnas 1983 m. paskelbė darbą „Baltai slavų giminaičiai“.'
+  sudarymo_pagrindimas: 'Bibliografinė nuoroda palaiko aiškų faktą apie autoriaus darbą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]'
+  temporaliniai_duomenys: 'įvykio data: 1983 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Bibliografinė nuoroda palaiko aiškų faktą apie autoriaus darbą.'
   pagrindžia:
     - c-001
 
@@ -43,8 +48,3 @@ Dusburgietis teigia, kad nepokupnas A.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Baltai]]
-- [[objektai/grupes/Slavai]]

@@ -10,30 +10,32 @@ date_start: '1936'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XX'
-  - 'XXI'
 tags:
   - sąvoka
   - valstybė
+amziai:
+  - 'XX'
+  - 'XXI'
 ---
 # vokiečių ateivių valstybė
 
 ## Santrauka
 
-Livonijoje ateiviai krikščionys įkūrė apsaugos organizaciją, paprastai vadintą kalavijuočių ordinu.
+Kai XII amž. gale Livonijoje įsikūrė vokiečių ateivių valstybė, lietuviai ėmė pulti ir ją.
 
 ## Teiginiai
+
 <a id="claim-t-70405"></a>
 - t-001
   global_id: t-70405
   teiginys: 'Livonijoje ateiviai krikščionys įkūrė apsaugos organizaciją, paprastai vadintą kalavijuočių ordinu.'
+  sudarymo_pagrindimas: 'Pradiniame teiginyje neaiškus vietos įvardis, o citata leidžia nurodyti Livoniją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/kolonijos|kolonijos]]; mentioned_place: Livonija'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Livonijoje ateiviai krikščionys įkūrė apsaugos organizaciją, paprastai vadintą kalavijuočių ordinu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -45,20 +47,8 @@ Livonijoje ateiviai krikščionys įkūrė apsaugos organizaciją, paprastai vad
     ateiviai taip pat buvo vokiečiai. Tuo būdu abiejose lietuvių
     pašonėse XIII amž. pradžioje įsikūrė vokiečių ateivių valstybės,
     kurių tikslas buvo pakrikštyti aisčius ir paimti juos į savo valdžią.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Aisčiai]]
-- [[objektai/grupes/Kalavijuočių ordinas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/kolonijos]]
-- [[objektai/grupes/Krikščionys]]
-- [[objektai/grupes/Kryžiuočių ordinas]]

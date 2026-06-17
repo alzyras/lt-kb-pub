@@ -4,9 +4,10 @@ pavadinimas: 'S. Lozoraičio slapto memorandumo įteikimas A. Smetonai (1935 m. 
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
+  - '1934 m.'
   - '1935 m.'
   - '2026 m.'
-date_start: '1935'
+date_start: '1934'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
@@ -45,6 +46,11 @@ Nenurodyta
 - t-001
   global_id: t-75262
   teiginys: 'Stasys Lozoraitis laikė modus vivendi su Lenkija būtina Lietuvos nepriklausomybės sąlyga.'
+  sudarymo_pagrindimas: 'Sakinys tinkamas, bet perrašytas kaip glaustas enciklopedinis teiginys.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Modus vivendi|Modus vivendi]]; mentioned_object: [[objektai/zodynas/diplomatija|diplomatija]]; mentioned_person: [[objektai/asmenys/Stasys Lozoraitis|Stasys Lozoraitis]]; mentioned_person: [[objektai/asmenys/Stasys Raštikis|Stasys Raštikis]]; mentioned_place: Kaunas; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1934 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Sakinys tinkamas, bet perrašytas kaip glaustas enciklopedinis teiginys.'
   pagrindžia:
     - c-001
 
@@ -52,6 +58,11 @@ Nenurodyta
 - t-002
   global_id: t-75263
   teiginys: '1935 m. balandį Stasys Lozoraitis įteikė prezidentui Antanui Smetonai slaptą memorandumą apie Klaipėdos ir Vilniaus padėtį.'
+  sudarymo_pagrindimas: 'Pradiniame teiginyje trūksta veiksnio, o citata palaiko glaustesnį sakinį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/diplomatija|diplomatija]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_person: [[objektai/asmenys/J. Tūbelis|J. Tūbelis]]; mentioned_person: [[objektai/asmenys/Stasys Lozoraitis|Stasys Lozoraitis]]; mentioned_place: Estija; mentioned_place: Latvija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1935 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradiniame teiginyje trūksta veiksnio, o citata palaiko glaustesnį sakinį.'
   pagrindžia:
     - c-002
 
@@ -59,6 +70,9 @@ Nenurodyta
 - t-003
   global_id: t-75264
   teiginys: 'S. Lozoraitis laikė modus vivendi su Lenkija būtina Lietuvos nepriklausomybės sąlyga.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Modus vivendi|Modus vivendi]]; mentioned_object: [[objektai/zodynas/diplomatija|diplomatija]]; mentioned_person: [[objektai/asmenys/Stasys Lozoraitis|Stasys Lozoraitis]]; mentioned_person: [[objektai/asmenys/Stasys Raštikis|Stasys Raštikis]]; mentioned_place: Kaunas; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1934 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -101,16 +115,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/A. Smetona]]
-- [[objektai/asmenys/J. Tūbelis]]
-- [[objektai/asmenys/Stasys Lozoraitis]]
-- [[objektai/asmenys/Stasys Raštikis]]
-- [[objektai/zodynas/diplomatija]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/asmenys/Antanas (vaistininkas)]]
-- [[objektai/zodynas/Modus vivendi]]
-- [[objektai/asmenys/Juozas Tūbelis]]
-- [[objektai/posakiai/„nepriklausomybė svarbiausia“]]

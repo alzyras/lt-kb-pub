@@ -4,9 +4,10 @@ pavadinimas: 'Motiejaus Kazimiero Sarbievijaus poezijos vertimas į anglų kalb�
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
+  - '1618 m.'
   - '1646 m.'
-date_start: '1646'
-date_end: ''
+date_start: '1618'
+date_end: '1646'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -26,6 +27,11 @@ Vilniaus universiteto profesorių veikalai pasiekė net protestantiškąją Angl
 - t-001
   global_id: t-21209
   teiginys: 'Motiejaus Kazimiero Sarbievijaus poezija 1646 m. buvo išversta iš lotynų į anglų kalbą ir skaityta Europos universitetuose.'
+  sudarymo_pagrindimas: 'Teiginys tiksliai atitinka citatoje pateiktą informaciją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Anglai|Anglai]]; mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_person: [[objektai/asmenys/Horacijus|Horacijus]]; mentioned_person: [[objektai/autoriai/Martynas Smigleckis|Martynas Smigleckis]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Anglija; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Oksfordas; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1618 m.; įvykio data: 1646 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys tiksliai atitinka citatoje pateiktą informaciją.'
   pagrindžia:
     - c-001
 

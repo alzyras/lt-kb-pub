@@ -2,51 +2,80 @@
 tipas: autorius
 pavadinimas: 'K. Korsakas'
 saltiniai:
-  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
+  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1957 m.'
   - '1971 m.'
 date_start: '1957'
 date_end: '1971'
-variantai:
-  - 'K. KORSAKAS'
-periodo_grupes:
-  - 'XX a.'
-amziai:
-  - 'XX'
-sukurta: '2026-06-16'
-atnaujinta: '2026-06-16'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'XX a.'
 ---
 # K. Korsakas
 
 ## Santrauka
 
-K. Korsakas minimas kaip 1957 m. „Lietuvių literatūros chrestomatijos“ rengėjas su J. Lebedžiu ir kaip 1971 m. Bychovco kronikos leidinio redakcinės komisijos pirmininkas.
+Korsako ir J.
 
 ## Teiginiai
+
 <a id="claim-t-186446"></a>
 - t-001
   global_id: t-186446
   teiginys: 'K. Korsakas su J. Lebedžiu parengė 1957 m. Vilniuje išleistą „Lietuvių literatūros chrestomatiją“.'
+  teiginio_tipas: 'faktas'
+  susije_objektai: 'mentioned_place: Kaunas; mentioned_place: Krokuva; mentioned_place: Veliuona; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1957 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
-    - c-001
+    - c-002
+
 <a id="claim-t-186447"></a>
 - t-002
   global_id: t-186447
   teiginys: 'K. Korsakas buvo 1971 m. Bychovco kronikos leidinio redakcinės komisijos pirmininkas.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia, kad K. Korsakas sąraše nurodytas redakcinės komisijos pirmininku.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/A. Venclova|A. Venclova]]; mentioned_person: [[objektai/autoriai/Rimantas Jasas|Rimantas Jasas]]'
+  temporaliniai_duomenys: 'įvykio data: 1971 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia, kad K. Korsakas sąraše nurodytas redakcinės komisijos pirmininku.'
   pagrindžia:
-    - c-002
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  statusas: patvirtinta
-
+    - c-001
+- susijęs iš [[objektai/autoriai/A. Venclova.md#claim-t-186436|A. Venclova]]: A. Venclova buvo 1971 m. Bychovco kronikos leidinio redakcinės komisijos narys.
+- susijęs iš [[objektai/autoriai/J. Pauonis.md#claim-t-186435|J. Pauonis]]: J. Pauonis buvo 1971 m. Bychovco kronikos leidinio redakcinės komisijos narys.
+- susijęs iš [[objektai/autoriai/Juozas Jurginis.md#claim-t-186444|Juozas Jurginis]]: Juozas Jurginis buvo 1971 m. Bychovco kronikos leidinio redakcinės komisijos narys.
+- susijęs iš [[objektai/autoriai/Juozas Jurginis.md#claim-t-186445|Juozas Jurginis]]: Juozas Jurginis buvo 1971 m. Bychovco kronikos leidinio redakcinės komisijos narys.
+- susijęs iš [[objektai/autoriai/K. Ambrasas.md#claim-t-186434|K. Ambrasas]]: K. Ambrasas buvo 1971 m. Bychovco kronikos leidinio redakcinės komisijos narys.
+- susijęs iš [[objektai/autoriai/R. Šarmaitis.md#claim-t-186449|R. Šarmaitis]]: R. Šarmaitis buvo 1971 m. Bychovco kronikos leidinio redakcinės komisijos narys.
+- susijęs iš [[objektai/autoriai/R. Šarmaitis.md#claim-t-186450|R. Šarmaitis]]: R. Šarmaitis buvo 1971 m. Bychovco kronikos leidinio redakcinės komisijos narys.
+- susijęs iš [[objektai/autoriai/Rimantas Jasas.md#claim-t-186453|Rimantas Jasas]]: Rimantas Jasas išvertė Bychovco kroniką ir parašė 1971 m. leidinio įvadą bei paaiškinimus.
+- susijęs iš Lietuvos metraštis, Bychovco kronika (1971 m.): 1971 m. Vilniuje išleistas leidinys pavadintas „Lietuvos metraštis, Bychovco kronika“, o vertimą, įvadą ir paaiškinimus parašė Rimantas Jasas.
 ## Reikšmingi paminėjimai
+
 - c-001
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    REDAKCINE KOMISIJA
+    K. KORSAKAS  (pirmininkas), K. AM BRASAS. J. JURGINIS,
+    MALDONIS, J. PAUONIS, R ŠARMAITIS,  Į A. VENCLOVA  Į
+    *
+    Vertė, įvadą ir paaiškinimus parašė RIM ANTAS JASA S
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   citata_originali: |
     1 d., Kaunas 1934, 48-81 p.;
     jis kildino Rotundą iš Veliuonos ; Z. Ivinskis, LE, t. 26, 15 p.; J. Jurgi­
@@ -67,19 +96,3 @@ K. Korsakas minimas kaip 1957 m. „Lietuvių literatūros chrestomatijos“ ren
   statusas: verified
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'K. Korsakas buvo 1971 m. Bychovco kronikos leidinio redakcinės komisijos pirmininkas.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    REDAKCINE KOMISIJA
-    K. KORSAKAS  (pirmininkas), K. AM BRASAS. J. JURGINIS,
-    MALDONIS, J. PAUONIS, R ŠARMAITIS,  Į A. VENCLOVA  Į
-    *
-    Vertė, įvadą ir paaiškinimus parašė RIM ANTAS JASA S
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002

@@ -24,7 +24,7 @@ amziai:
 
 ## Santrauka
 
-1949 m. rudenį buvo sunaikinti Algimanto apygardos ir Šarūno rinktinės štabai. Šarūno rinktinė buvo viena iš trijų Algimanto apygardos rinktinių kartu su Kunigaikščio Margio ir Žaliąja rinktinėmis. Čekistai puolė Šarūno rinktinės štabo bunkerį, kurio vietą jiems nurodė Balys.
+1945 m. buvo išrinktas Šarūno rinktinės vadu. Algimanto apygardą sudarė trys rinktinės: Šarūno, Kunigaikščio Margio ir Žalioji. Netrukus tomis pačiomis pajėgomis čekistai puolė Šarūno rinktinės štabo bunkerį, kurį taip pat nurodė Balys = ee ae : ¥ Bunkerj apsupusiy rusy pozicijos a Žuvę partizanai t L] Miškinga vietovė “Vandens telkinys = ¥ = i SH oath Gultai net RAPE’ Ventiliacija |.
 
 ## Teiginiai
 
@@ -32,6 +32,11 @@ amziai:
 - t-001
   global_id: t-49114
   teiginys: '1949 m. rudenį buvo sunaikinti Algimanto apygardos ir Šarūno rinktinės štabai.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Šimonių girios apgultis|Šimonių girios apgultis]]; mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_object: [[objektai/daiktai/Partizanų bunkeriai|Partizanų bunkeriai]]'
+  temporaliniai_duomenys: 'įvykio data: 1949 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -39,6 +44,8 @@ amziai:
 - t-002
   global_id: t-49115
   teiginys: 'Šarūno rinktinė buvo viena iš trijų Algimanto apygardos rinktinių kartu su Kunigaikščio Margio ir Žaliąja rinktinėmis.'
+  sudarymo_pagrindimas: 'Perrašyta, kad teiginio subjektas būtų pati Šarūno rinktinė.'
+  susije_objektai: 'mentioned_place: Viena'
   pagrindžia:
     - c-002
 
@@ -46,6 +53,7 @@ amziai:
 - t-003
   global_id: t-49116
   teiginys: 'Čekistai puolė Šarūno rinktinės štabo bunkerį, kurio vietą jiems nurodė Balys.'
+  sudarymo_pagrindimas: 'Patikslintas objektas ir pašalintas neaiškus įvardinis ryšys.'
   pagrindžia:
     - c-003
 
@@ -147,10 +155,3 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/NKVD]]
-- [[objektai/daiktai/Partizanų bunkeriai]]
-- [[objektai/ivykiai/Šimonių girios apgultis]]
-- [[objektai/grupes/Žalioji rinktinė]]

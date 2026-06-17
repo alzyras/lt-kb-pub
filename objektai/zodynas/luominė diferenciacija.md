@@ -33,6 +33,7 @@ Socialiniu atžvilgiu ši epocha yra charakterizuojama išryškė­ jusią luomi
 - t-001
   global_id: t-28594
   teiginys: 'Socialiniu atžvilgiu ši epocha pasižymėjo išryškėjusia luomine diferenciacija.'
+  sudarymo_pagrindimas: 'Pradinis sakinys turi OCR ir gramatikos klaidų, bet citata aiškiai palaiko teiginį.'
   pagrindžia:
     - c-001
 
@@ -54,7 +55,3 @@ Socialiniu atžvilgiu ši epocha yra charakterizuojama išryškė­ jusią luomi
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/paprociai/Bajorijos stiprinimas valdovo privilegijomis|Bajorijos stiprinimas valdovo privilegijomis (privilegija)]]

@@ -28,6 +28,9 @@ amziai:
 - t-001
   global_id: t-32766
   teiginys: '1966 ir 1967 m. bibliografija Čikagoje išleista dviem sąsiuviniais kaip „Užsienio Lietuvių Spaudos Metraštis“.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Čikaga'
+  temporaliniai_duomenys: 'įvykio data: 1967 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -43,11 +46,3 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/bibliografija]]
-- [[temos/metraštis]]
-
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]

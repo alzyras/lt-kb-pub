@@ -43,6 +43,12 @@ Nenurodyta
 - t-001
   global_id: t-62429
   teiginys: '1302 m. Perudžoje nukirsdinto Mariją gerbusio plėšiko galva paprašė kunigo, nes, pasak pasakojimo, Marija neleido jam numirti be išpažinties.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo nutrūkęs ir su netvarkinga citata; pataisytas sakinys išlaiko citatos faktus.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Marija|Marija]]; mentioned_place: Perudža; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1302 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys buvo nutrūkęs ir su netvarkinga citata; pataisytas sakinys išlaiko citatos faktus.'
   pagrindžia:
     - c-001
 
@@ -68,8 +74,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Marija]]
-- [[objektai/posakiai/Atveskite man kunigą, nes švenčiausioji Marija, nors kiekvieną dieną esu ją maldose to prašęs, neleidžia man numirti, kol nebūsiu išpažinęs]]

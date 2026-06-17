@@ -14,7 +14,7 @@ tags:
 
 ## Santrauka
 
-Brolis Volframas Saksas Karaliaučiaus pilyje keldavosi iš lovos maldai ir uoliai tarnavo Dievui. Karaliaučiaus pilies broliai lenkė kitus pasninku, maldomis, naktiniais budėjimais ir klūpojimu bažnyčioje. Karaliaučiaus pilies broliai lenkė kitus pasninku, maldomis, naktiniais budėjimais ir klūpojimu bažnyčioje.
+Dusburgietis teigia, kad apie pagirtiną kai kurių brolių gyvenimą Karaliaučiaus pilyje Karaliaučiaus pilyje nuo pat jos įkūrimo gyveno narsūs vyrai: broliai ir įgudę kariai. Dusburgietis teigia, kad apie kito brolio gyvenimą toje pačioje pilyje Tuo pat metu minėtoje pilyje gyveno brolis Volframas Saksas, kuris, davęs įžadus Teutonų ordinui, troško žengti nuo dorybės prie dorybės, tačiau velnias, pavydėdamas jam šios laimės, ėmė regzti visokiausių.
 
 ## Laikotarpis ir datos
 
@@ -42,6 +42,9 @@ Nenurodyta
 - t-001
   global_id: t-62681
   teiginys: 'Brolis Volframas Saksas Karaliaučiaus pilyje keldavosi iš lovos maldai ir uoliai tarnavo Dievui.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir perpasakoja legendinį kontekstą; citata palaiko aiškų faktą apie maldos praktiką.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Volframas Saksas|Volframas Saksas]]'
   pagrindžia:
     - c-002
 
@@ -49,6 +52,9 @@ Nenurodyta
 - t-002
   global_id: t-62682
   teiginys: 'Karaliaučiaus pilies broliai lenkė kitus pasninku, maldomis, naktiniais budėjimais ir klūpojimu bažnyčioje.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Reikia aiškiau perteikti citatos palyginimą su kitais.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Albertas|Albertas]]'
   pagrindžia:
     - c-001
     - c-002
@@ -91,9 +97,3 @@ Nenurodyta
     - t-001
     - t-002
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Albertas]]
-- [[objektai/grupes/Teutonai]]
-- [[objektai/asmenys/Volframas Saksas]]

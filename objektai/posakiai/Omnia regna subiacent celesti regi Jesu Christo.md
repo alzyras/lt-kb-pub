@@ -29,6 +29,11 @@ amziai:
 - t-001
   global_id: t-86869
   teiginys: '1323 m. laiške vartota formulė, kad visos karalystės paklūsta dangiškajam karaliui Jėzui Kristui.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nusako posakio vartojimą ir yra paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vaškas|Vaškas]]; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1323 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako posakio vartojimą ir yra paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -71,7 +76,3 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Vaškas]]

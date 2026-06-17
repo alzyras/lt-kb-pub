@@ -3,6 +3,9 @@ tipas: asmuo
 pavadinimas: 'Odoničius'
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+datos: []
+date_start: ''
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -10,6 +13,8 @@ tags:
   - kunigaikštis
   - miestas
   - ordinas
+amziai: []
+periodo_grupes: []
 ---
 # Odoničius
 
@@ -23,9 +28,18 @@ Dusburgietis teigia, kad vėliau nužudė totoriai229, taip pat Gnezno kunigaik�
 - t-001
   global_id: t-60396
   teiginys: 'Gnezno kunigaikštis Odoničius su kitais Lenkijos ir Pomeranijos kilmingaisiais atvyko į Prūsiją statyti Marienverderio miesto.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir turi pašalinio OCR bei konteksto triukšmo.'
+  susije_objektai: 'location: Bebras; location: Kaimas; location: Krokuva; location: Kujavija; location: Kulmas; location: Lenkija; location: Marienverderis; location: Nogatas; location: Pomeranija; location: Prūsai; location: Prūsija; location: Rizenburgas; location: Vroclavas; location: Vysla; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Brunonas|Brunonas]]; mentioned_place: Bebras; mentioned_place: Kaimas; mentioned_place: Krokuva; mentioned_place: Kujavija; mentioned_place: Kulmas; mentioned_place: Lenkija; mentioned_place: Marienverderis; mentioned_place: Nogatas; mentioned_place: Pomeranija; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Rizenburgas; mentioned_place: Vroclavas; mentioned_place: Vysla'
+  semantiniai_rysiai: '[[objektai/asmenys/Odoničius|Odoničius]] keliavo į Bebras; [[objektai/asmenys/Odoničius|Odoničius]] keliavo į Kaimas; [[objektai/asmenys/Odoničius|Odoničius]] keliavo į Krokuva; [[objektai/asmenys/Odoničius|Odoničius]] keliavo į Kujavija; [[objektai/asmenys/Odoničius|Odoničius]] keliavo į Kulmas; [[objektai/asmenys/Odoničius|Odoničius]] keliavo į Lenkija; [[objektai/asmenys/Odoničius|Odoničius]] keliavo į Marienverderis; [[objektai/asmenys/Odoničius|Odoničius]] keliavo į Nogatas; [[objektai/asmenys/Odoničius|Odoničius]] keliavo į Pomeranija; [[objektai/asmenys/Odoničius|Odoničius]] keliavo į Prūsai; [[objektai/asmenys/Odoničius|Odoničius]] keliavo į Prūsija; [[objektai/asmenys/Odoničius|Odoničius]] keliavo į Rizenburgas; [[objektai/asmenys/Odoničius|Odoničius]] keliavo į Vroclavas; [[objektai/asmenys/Odoničius|Odoničius]] keliavo į Vysla'
+  temporaliniai_duomenys: 'kelionės data: 1217 m.; kelionės data: 1232 m.; kelionės data: 1234 m.; kelionės data: apie 1234 m.; kelionės data: 1347 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Odoničius keliavo į Bebras“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Odoničius keliavo į Kaimas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Odoničius keliavo į Krokuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Odoničius keliavo į Kujavija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Odoničius keliavo į Kulmas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Odoničius keliavo į Lenkija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Odoničius keliavo į Marienverderis“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Odoničius keliavo į Nogatas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Odoničius keliavo į Pomeranija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Odoničius keliavo į Prūsai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Odoničius keliavo į Prūsija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Odoničius keliavo į Rizenburgas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Odoničius keliavo į Vroclavas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Odoničius keliavo į Vysla“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs ir turi pašalinio OCR bei konteksto triukšmo.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis).md#claim-t-93420|Konradas (Mozūrijos kunigaikštis)]]: Kunigaikštis Konradas su kitais Lenkijos kunigaikščiais atvyko į Kulmą ir prisidėjo prie Marienverderio miesto pastatymo.
+- susijęs iš [[objektai/asmenys/Samboras.md#claim-t-60202|Samboras]]: Samboras su broliu Sventopelku ir kitais kunigaikščiais atvyko į Prūsiją ir sustiprino Marienverderio pilį.
+- susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90030|Sventopelkas]]: Sventopelkas, Pomeranijos kunigaikštis, su broliu Samboru atvyko padėti statyti Marienverderio miestą.
+- susijęs iš [[objektai/ivykiai/Marienverderio pilies pastatymas, perkėlimas ir miesto sustiprinimas.md#claim-t-66768|Marienverderio pilies pastatymas, perkėlimas ir miesto sustiprinimas]]: Lenkijos ir Pomeranijos kunigaikščiai bei kiti didikai su didele kariuomene pastatė Marienverderio miestą ir sustiprino anksčiau įkurtą pilį.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -73,11 +87,17 @@ Dusburgietis teigia, kad vėliau nužudė totoriai229, taip pat Gnezno kunigaik�
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Brunonas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)]]
-- [[objektai/ivykiai/Marienverderio pilies pastatymas, perkėlimas ir miesto sustiprinimas]]
-- [[objektai/asmenys/Samboras]]
-- [[objektai/asmenys/Sventopelkas]]
+- Odoničius keliavo_i [[objektai/vietos/Bebras]]
+- Odoničius keliavo_i [[objektai/vietos/Kaimas]]
+- Odoničius keliavo_i [[objektai/vietos/Krokuva]]
+- Odoničius keliavo_i [[objektai/vietos/Kujavija]]
+- Odoničius keliavo_i [[objektai/vietos/Kulmas]]
+- Odoničius keliavo_i [[objektai/vietos/Lenkija]]
+- Odoničius keliavo_i [[objektai/vietos/Marienverderis]]
+- Odoničius keliavo_i [[objektai/vietos/Nogatas]]
+- Odoničius keliavo_i [[objektai/vietos/Pomeranija]]
+- Odoničius keliavo_i [[objektai/vietos/Prūsai]]
+- Odoničius keliavo_i [[objektai/vietos/Prūsija]]
+- Odoničius keliavo_i [[objektai/vietos/Rizenburgas]]
+- Odoničius keliavo_i [[objektai/vietos/Vroclavas]]
+- Odoničius keliavo_i [[objektai/vietos/Vysla]]

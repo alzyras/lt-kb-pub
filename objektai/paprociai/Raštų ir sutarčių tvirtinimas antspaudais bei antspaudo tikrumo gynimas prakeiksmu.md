@@ -43,6 +43,8 @@ Nenurodyta
 - t-001
   global_id: t-87246
   teiginys: 'Raštas buvo tvirtinamas antspaudu, o jo tikrumu netikintys asmenys laiškuose skelbti tiesos nedraugais ir tikėjimo priešais.'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo ilgas ir pažodinis, bet citata palaiko faktą apie antspaudą ir prakeiksmą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]'
   pagrindžia:
     - c-002
 
@@ -50,6 +52,8 @@ Nenurodyta
 - t-002
   global_id: t-87247
   teiginys: 'Trijuose laiškuose antspaudo niekintojai buvo pasmerkti kaip tikėjimo ardytojai, eretikai, melagiai ir garbės neturintys žmonės.'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo lotyniško fragmento nuotrupa, o citata pateikia lietuviškai suprantamą prakeiksmo turinį.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]'
   pagrindžia:
     - c-001
 
@@ -95,9 +99,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Antspaudas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/posakiai/Tiesos nedraugas, velnio garbintojas, tikėjimo priešas]]

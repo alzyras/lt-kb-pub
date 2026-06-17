@@ -31,6 +31,8 @@ Vartojama normanų žygių Baltijos regione aptarime.
 - t-001
   global_id: t-54799
   teiginys: 'Austurweg pavadinimas buvo taikomas Baltijos jūros pakrantei nuo Vyslos žiočių iki Suomijos įlankos.'
+  sudarymo_pagrindimas: 'Manual fix after rewrite gate.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Normanai|Normanai]]; mentioned_group: [[objektai/grupes/Skandinavai|Skandinavai]]; mentioned_place: Baltija; mentioned_place: Europa; mentioned_place: Suomija; mentioned_place: Vysla'
   pagrindžia:
     - c-001
 
@@ -38,9 +40,15 @@ Vartojama normanų žygių Baltijos regione aptarime.
 - t-002
   global_id: t-54800
   teiginys: 'Austurweg buvo normanų vartotas Baltijos jūros pakrantės nuo Vyslos žiočių iki Suomijos įlankos pavadinimas.'
+  sudarymo_pagrindimas: 'Reikia pašalinti boilerplate formuluotę ir aiškiau pateikti faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Normanai|Normanai]]; mentioned_group: [[objektai/grupes/Skandinavai|Skandinavai]]; mentioned_place: Baltija; mentioned_place: Europa; mentioned_place: Suomija; mentioned_place: Vysla'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179276|Lietuviai]]: Cituojamame aiškinime teigiama, kad žemaičiai nuo senų laikų save vadino lietuviais.
+- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176141|Žemaičiai]]: Cituotame aiškinime žemaičiai laikomi tais pačiais žmonėmis kaip lietuviai, kalbančiais ta pačia kalba.
+- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176164|Žemaičiai]]: Cituojamame aiškinime žemaičiai Lietuvą vadino Auxtote, nes ji laikyta aukštesne žeme už Žemaitiją.
+- susijęs iš [[objektai/posakiai/Viskas yra viena - ir žemė, ir žmonės.md#claim-t-86845|Viskas yra viena - ir žemė, ir žmonės]]: Posakiu „Viskas yra viena - ir žemė, ir žmonės“ aiškinta, kodėl valdovo titule nerašomas Žemaitijos vardas.
+- susijęs iš [[objektai/zodynas/Szomoyth Auxtote.md#claim-t-86574|Szomoyth Auxtote]]: Szomoyth aiškinta kaip žemesnė žemė, o Auxtote – kaip aukštesnė žemė, palyginti su Žemaitija.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -70,12 +78,3 @@ Vartojama normanų žygių Baltijos regione aptarime.
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Normanai]]
-- [[objektai/grupes/Skandinavai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/Szomoyth Auxtote]]
-- [[objektai/posakiai/Viskas yra viena - ir žemė, ir žmonės]]
-- [[objektai/grupes/Žemaičiai]]

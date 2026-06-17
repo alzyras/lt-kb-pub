@@ -31,6 +31,9 @@ periodo_grupes:
 - t-001
   global_id: t-78960
   teiginys: 'Burundajus vadovavo Aukso ordos totoriams per didelį antpuolį, kurį Lietuva atrėmė žiemą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Lietuva; mentioned_place: Nemunas'
+  temporaliniai_duomenys: 'įvykio data: 1258-1259; įvykio data: 1259 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -38,9 +41,14 @@ periodo_grupes:
 - t-002
   global_id: t-78961
   teiginys: '1258-1259 m. žiemą Lietuva atrėmė didžiulį Aukso ordos totorių, vadovaujamų Burundajaus, bei jiems jau pavaldžios Haličo-Voluinės Rusios antpuolį.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai sieja Burundajų su antpuoliu ir yra paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_place: Lietuva; mentioned_place: Nemunas'
+  temporaliniai_duomenys: 'įvykio data: 1258-1259; įvykio data: 1259 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai sieja Burundajų su antpuoliu ir yra paremtas citata.'
   pagrindžia:
     - c-001
-
+- susijęs iš Nalšėnų žemė: Apie 1259 m. totorių chanas Burundajus su Volinijos-Haličo Danieliumi nusiaubė Aukštaitiją ir pasiekė Nalšėnų žemę.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -60,8 +68,3 @@ periodo_grupes:
   pagrindžia:
     - t-001
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Auksinė Orda]]
-- [[objektai/grupes/Totoriai]]

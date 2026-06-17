@@ -18,6 +18,11 @@ Karalienė motina patarė karaliui prašyti Austrijos kunigaikštytės Kotrynos 
 - t-001
   global_id: t-186132
   teiginys: 'Karalienė motina patarė karaliui prašyti Austrijos kunigaikštytės Kotrynos rankos, kad nenutrūktų giminystė su Austrijos karališkąja šeima.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata palaiko teiginį, bet reikia įvardyti Kotryną ir pašalinti boilerplate.'
+  susije_objektai: 'mentioned_place: Austrija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

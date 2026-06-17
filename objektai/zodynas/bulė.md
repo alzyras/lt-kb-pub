@@ -9,12 +9,12 @@ date_start: '1221'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XIII'
 tags:
   - karalius
   - popiežius
   - sąvoka
+amziai:
+  - 'XIII'
 ---
 # bulė
 
@@ -23,14 +23,19 @@ tags:
 Dusburgietis teigia, kad apie Bonifaco, popiežiaus, ir Pilypo, Prancūzijos karaliaus, nesantarvę Tais pačiais metais prasidėjo nesantarvė tarp Bonifaco, popiežiaus, ir Pilypo, Prancūzijos karaliaus. Mat popiežius pasakė, kad ir pasaulietiški, ir dvasiški Prancūzijos karalystės.
 
 ## Teiginiai
+
 <a id="claim-t-58897"></a>
 - t-001
   global_id: t-58897
   teiginys: 'Popiežius Bonifacas pasiuntė Prancūzijos karaliui Pilypui priklausomybės reskriptą su bule.'
+  sudarymo_pagrindimas: 'Citata pagrindžia faktą apie bulę, pradinis teiginys yra nutrūkęs.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/reskriptas|reskriptas]]; mentioned_place: Prancūzija'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Kiprijonas.md#claim-t-63829|Kiprijonas]]: Kijevo metropolitas Kiprijonas buvo raginamas kviesti tikinčiuosius į karą prieš totorius.
+- susijęs iš Lubavos žemė: Dėl Lubavos žemės, tapusios vyskupo Kristijono valda, vėliau ginčijosi kryžiuočiai ir Konradas.
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Popiežius Bonifacas pasiuntė Prancūzijos karaliui Pilypui priklausomybės reskriptą su bule.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -50,10 +55,3 @@ Dusburgietis teigia, kad apie Bonifaco, popiežiaus, ir Pilypo, Prancūzijos kar
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/reskriptas]]
-- [[objektai/asmenys/Kiprijonas]]
-- [[objektai/asmenys/Bonifacas VIII|Bonifacas VIII (arkivyskupas, XIII–XIV a.)]]
-- [[objektai/ivykiai/Bonifaco VIII ir Pilypo IV nesantarvė bei bulės sudeginimas Paryžiuje (1302 m.)]]

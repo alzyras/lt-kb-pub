@@ -36,6 +36,11 @@ Nenurodyta
 - t-001
   global_id: t-185624
   teiginys: 'Mingaila prie Gorodeco užpuolė polockiečių kariuomenę ir privertė ją bėgti iš kovos lauko bei stovyklos.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo fragmentiškas; citata remia aiškų faktą apie Mingailos veiksmą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Polockiečiai|Polockiečiai]]; mentioned_person: [[objektai/asmenys/Mingaila|Mingaila]]; mentioned_place: Gorodecas'
   pagrindžia:
     - c-001
 
@@ -66,8 +71,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Mingaila]]
-- [[objektai/grupes/Polockiečiai]]

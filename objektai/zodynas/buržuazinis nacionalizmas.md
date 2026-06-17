@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Šeštąjį–septintąjį dešimtmetį kai kuriems į Lietuvą grįžusiems tremtiniams ir politiniams kaliniams prikaišiodavo „buržuazinį nacionalizmą“. Nuo šeštojo dešimtmečio pabaigos Vilniaus universiteto Lietuvių literatūros katedros darbuotojai ir kai kurie kultūros veikėjai kaltinti „buržuaziniu nacionalizmu“. Nuo šeštojo dešimtmečio pabaigos Vilniaus universiteto Lietuvių literatūros katedros darbuotojai ir kai kurie kultūros veikėjai kaltinti „buržuaziniu nacionalizmu“.
+Kai kuriems jų neleista apsigyventi Lietuvoje, dirbti vadovaujamo darbo, mokyti aukštosiose mokyklose, jie ignoruojami, sekami, jiems prikaišiojama „antisovietinė veikla“ ir „buržuazinis nacionalizmas“. Nusižengusieji buvo kaltinami „buržuaziniu nacionalizmu“, neigiama Vakarų kultūros įtaka.
 
 ## Teiginiai
 
@@ -20,6 +20,8 @@ tags:
 - t-001
   global_id: t-70102
   teiginys: 'Šeštąjį–septintąjį dešimtmetį kai kuriems į Lietuvą grįžusiems tremtiniams ir politiniams kaliniams prikaišiodavo „buržuazinį nacionalizmą“.'
+  sudarymo_pagrindimas: 'Reikia aiškesnės veiksmažodinės formos ir sklandesnio sakinio.'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: SSRS'
   pagrindžia:
     - c-001
 
@@ -27,6 +29,8 @@ tags:
 - t-002
   global_id: t-70103
   teiginys: 'Nuo šeštojo dešimtmečio pabaigos Vilniaus universiteto Lietuvių literatūros katedros darbuotojai ir kai kurie kultūros veikėjai kaltinti „buržuaziniu nacionalizmu“.'
+  sudarymo_pagrindimas: 'Pradiniame teiginyje neaišku, kas vadinami nusižengusiaisiais.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Poznanė; mentioned_place: Vengrija; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -68,8 +72,3 @@ tags:
   pagrindžia:
     - t-003
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Vilniaus universiteto Lietuvių literatūros katedra]]

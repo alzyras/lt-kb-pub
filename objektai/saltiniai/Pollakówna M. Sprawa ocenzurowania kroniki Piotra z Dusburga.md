@@ -26,6 +26,11 @@ Dusburgietis teigia, kad pollakówna M.
 - t-001
   global_id: t-61232
   teiginys: 'M. Pollakównos straipsnis apie Petro Dusburgiečio kronikos cenzūravimą paskelbtas 1970 m. Poznanėje išleistame rinkinyje, p. 127–134.'
+  sudarymo_pagrindimas: 'Citata pateikia bibliografinį straipsnio įrašą su rinkiniu, vieta, metais ir puslapiais.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_place: Poznanė'
+  temporaliniai_duomenys: 'įvykio data: 1970 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pateikia bibliografinį straipsnio įrašą su rinkiniu, vieta, metais ir puslapiais.'
   pagrindžia:
     - c-001
 

@@ -21,6 +21,8 @@ Tuo pat laiku mirė ir didysis kovotojas ordino pusėje Kniprodė ir taip pat jo
 - t-001
   global_id: t-30339
   teiginys: 'Kuno von Hattenstein buvo Ordino maršalas ir padėjo Jogailai įveikti dėdę.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir paremtas citatoje pateikta informacija.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vengrija'
   pagrindžia:
     - c-001
 
@@ -41,7 +43,3 @@ Tuo pat laiku mirė ir didysis kovotojas ordino pusėje Kniprodė ir taip pat jo
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/maršalas]]

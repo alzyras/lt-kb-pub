@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Pieno perdirbimo bendrovėms įsigijus modernią įrangą ir šaldytuvus, didėjo pieno ir mėsos produktų eksportas į užsienį. Pieno perdirbimo bendrovėms įsigijus modernią įrangą ir šaldytuvus, didėjo pieno ir mėsos produktų eksportas į užsienį. Pieno perdirbimo bendrovėms įsigijus modernią įrangą ir šaldytuvus, didėjo pieno ir mėsos produktų eksportas į užsienį.
+Moderni pieno perdirbimo įranga ir šaldytuvai siejami su pieno perdirbimo bendrovių kūrimusi bei pieno ir mėsos produktų eksporto augimu.
 
 ## Pavadinimai šaltiniuose
 
@@ -44,6 +44,8 @@ Nenurodyta
 - t-001
   global_id: t-45532
   teiginys: 'Pieno perdirbimo bendrovėms įsigijus modernią įrangą ir šaldytuvus, didėjo pieno ir mėsos produktų eksportas į užsienį.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir pašalina citatoje esantį nereikalingą kontekstą.'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -86,11 +88,3 @@ Nenurodyta
 ## Šaltiniai ir įrodymai
 
 Nenurodyta
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/įrankis]]
-- [[temos/ūkio-įrankis]]
-
-### Susiję objektai
-- [[objektai/daiktai/Javų sėklos, veisliniai gyvuliai ir trąšos]]

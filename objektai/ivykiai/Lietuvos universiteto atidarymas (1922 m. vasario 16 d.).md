@@ -44,6 +44,11 @@ Nenurodyta
 - t-001
   global_id: t-23344
   teiginys: 'Aukštieji kursai Kaune peraugo į Lietuvos universitetą, kuris buvo atidarytas 1922 m. vasario 16 d.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir remiasi citatoje pateikta informacija.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_place: Kaunas; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1919 m.; įvykio data: 1922 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys ir remiasi citatoje pateikta informacija.'
   pagrindžia:
     - c-001
 
@@ -63,8 +68,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Rytas]]
-- [[objektai/grupes/Lietuvos universitetas]]

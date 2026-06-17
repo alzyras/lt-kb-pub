@@ -3,12 +3,18 @@ tipas: ivykis
 pavadinimas: 'Žygimanto Senojo ir Bonos Sforcos vedybos'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1519 m.'
+date_start: '1519'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
   - kunigaikštis
   - pilis
+amziai:
+  - 'XVI'
 ---
 # Žygimanto Senojo ir Bonos Sforcos vedybos
 
@@ -38,6 +44,11 @@ Nenurodyta
 - t-001
   global_id: t-20595
   teiginys: 'Žygimantas Senasis 1519 m. vedė Milano kunigaikštytę Boną Sforcą.'
+  sudarymo_pagrindimas: 'Pradinis teiginys prasideda fragmentu; citata remia užbaigtą sakinį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/reformacija|reformacija]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_person: [[objektai/asmenys/Žygimantas Senasis|Žygimantas Senasis]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Milanas'
+  temporaliniai_duomenys: 'įvykio data: 1519 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys prasideda fragmentu; citata remia užbaigtą sakinį.'
   pagrindžia:
     - c-001
 
@@ -60,10 +71,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/reformacija]]
-- [[objektai/asmenys/Žygimantas]]
-- [[objektai/asmenys/Žygimantas Senasis]]
-- [[objektai/asmenys/Aleksandras (didysis kunigaikštis)]]

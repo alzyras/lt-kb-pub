@@ -18,7 +18,7 @@ amziai:
 
 ## Santrauka
 
-Prieš Krokuvos seimą dėl Jogailos pakvietimo į Lenkijos sostą Lietuvos delegacija 1385 m. kovo pradžioje Vengrijoje gavo Elžbietos sutikimą. Komentare nurodoma, kad 1385 m. vasario 18 d. į Krokuvą buvo atvykusi Jogailos delegacija, vadovaujama Skirgailos. Šio leidimo komentare nurodoma, kad seimas, nutaręs kviesti Jogailą į Lenkijos sostą, vyko Krokuvoje 1385 m. birželio ar liepos mėn.
+Šio leidimo komentare nurodoma, kad seimas, nutaręs kviesti Jogailą į Lenkijos sostą, vyko Krokuvoje 1385 m. birželio ar liepos mėn. Komentare nurodoma, kad 1385 m. vasario 18 d. į Krokuvą buvo atvykusi Jogailos delegacija, vadovaujama Skirgailos.
 
 ## Laikotarpis ir datos
 
@@ -48,20 +48,38 @@ Nenurodyta
 - t-001
   global_id: t-186709
   teiginys: 'Prieš Krokuvos seimą dėl Jogailos pakvietimo į Lenkijos sostą Lietuvos delegacija 1385 m. kovo pradžioje Vengrijoje gavo Elžbietos sutikimą.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vengrija'
+  temporaliniai_duomenys: 'įvykio data: 1385 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citata.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-186710"></a>
 - t-002
   global_id: t-186710
-  teiginys: 'Komentare nurodoma, kad 1385 m. vasario 18 d. į Krokuvą buvo atvykusi Jogailos delegacija, vadovaujama Skirgailos.'
+  teiginys: 'Prieš Krokuvos seimą 1385 m. vasario 18 d. į Krokuvą Jogailos ir Jadvygos vedybų reikalu atvyko Skirgailos vadovaujama Jogailos delegacija.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys turi aiškų įvykio kontekstą, datą, vietą ir delegacijos vadovą. Atribucija nereikalinga, nes sakinys perteikia neutralų chronologinį faktą, o ne legendą ar vertinimą.'
+  susije_objektai: 'location: Krokuva; location: Lenkija; location: Lietuva; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'kelionės data: 1385 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Skirgaila keliavo į Krokuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Skirgaila keliavo į Lenkija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Skirgaila keliavo į Lietuva“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys turi aiškų įvykio kontekstą, datą, vietą ir delegacijos vadovą. Atribucija nereikalinga, nes sakinys perteikia neutralų chronologinį faktą, o ne legendą ar vertinimą.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-186711"></a>
 - t-003
   global_id: t-186711
-  teiginys: 'Šio leidimo komentare nurodoma, kad seimas, nutaręs kviesti Jogailą į Lenkijos sostą, vyko Krokuvoje 1385 m. birželio ar liepos mėn.'
+  teiginys: 'Krokuvos seimas, nutaręs kviesti Jogailą į Lenkijos sostą, vyko Krokuvoje 1385 m. birželio arba liepos mėnesį.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Komentaro atribucija nebūtina, galima pateikti glaustą faktą apie seimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1385 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Komentaro atribucija nebūtina, galima pateikti glaustą faktą apie seimą.'
   pagrindžia:
     - c-001
 
@@ -85,9 +103,3 @@ Nenurodyta
     - t-003
     - t-002
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bajorai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/seimas]]

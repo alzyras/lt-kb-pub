@@ -9,12 +9,12 @@ date_start: '1928'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - autorius
 amziai:
   - 'XX'
 periodo_grupes:
   - 'modernioji Lietuva'
-tags:
-  - autorius
 ---
 # L. Arbusow
 
@@ -23,10 +23,13 @@ tags:
 Arbusow, Grundriss d. Geschichte Liw-, Estund Kurlands (1889; yra dar 3 laidos); Th.
 
 ## Teiginiai
+
 <a id="claim-t-64694"></a>
 - t-001
   global_id: t-64694
   teiginys: 'L. Arbusow nurodomas 1928 m. „Acta Universitatis Latviensis“ paskelbto darbo „Römischer Arbeitsbericht“ autoriumi.'
+  temporaliniai_duomenys: 'įvykio data: 1928 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -36,8 +39,9 @@ Arbusow, Grundriss d. Geschichte Liw-, Estund Kurlands (1889; yra dar 3 laidos);
   teiginys: 'L. Arbusow parašė darbą „Römischer Arbeitsbericht“.'
   pagrindžia:
     - c-001
-
+- susijęs iš Heinrici Chronicon Livoniae: HChL santrumpa žymi L. Arbusowo ir Alb. Bauerio parengtą „Heinrici Chronicon Livoniae“ leidimą, išleistą Hanoveryje 1955 m.
 ## Reikšmingi paminėjimai
+
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |

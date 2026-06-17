@@ -28,6 +28,11 @@ Dusburgietis teigia, kad m, Tepenas atkreipė dėmesį į Rausvės intaką Romen
 - t-001
   global_id: t-58616
   teiginys: 'M. Tepenas atkreipė dėmesį į Rausvės intaką Romenę rytų Nadruvoje, į pietus nuo Pilkalnio.'
+  sudarymo_pagrindimas: 'Pradinis teiginys turi OCR triukšmo ir klaidingą atribuciją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_person: [[objektai/autoriai/M. Tepenas|M. Tepenas]]; mentioned_place: Romuva'
+  temporaliniai_duomenys: 'įvykio data: 1684 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys turi OCR triukšmo ir klaidingą atribuciją.'
   pagrindžia:
     - c-001
 
@@ -35,9 +40,12 @@ Dusburgietis teigia, kad m, Tepenas atkreipė dėmesį į Rausvės intaką Romen
 - t-002
   global_id: t-58617
   teiginys: 'A. Mežinskis manė, kad Romovė galėjusi būti ir prie Rausvės.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs; citata remia glaustą tyrėjo nuomonės sakinį.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Krivis|Krivis]]; mentioned_place: Auksinė; mentioned_place: Prieglius; mentioned_place: Romuva'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/autoriai/M. Tepenas.md#claim-t-64746|M. Tepenas]]: M. Tepenas atkreipė dėmesį į Rausvės intaką Romenę rytų Nadruvoje, į pietus nuo Pilkalnio.
+- susijęs iš [[objektai/autoriai/Тоерреn M.md#claim-t-60665|Тоерреn M]]: M. Tepenas atkreipė dėmesį į Rausvės intaką Romenę rytų Nadruvoje, į pietus nuo Pilkalnio.
 ## Reikšmingi paminėjimai
 
 - c-001

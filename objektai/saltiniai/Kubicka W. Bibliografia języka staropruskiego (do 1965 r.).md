@@ -27,6 +27,11 @@ Dusburgietis teigia, kad kubicka W.
 - t-001
   global_id: t-61107
   teiginys: 'W. Kubickos „Bibliografia języka staropruskiego (do 1965 r.)“ paskelbta Balstogėje 1967 m.'
+  sudarymo_pagrindimas: 'Citata nurodo autorę, pavadinimą, leidimo vietą ir metus.'
+  susije_objektai: 'mentioned_place: Balstogė'
+  temporaliniai_duomenys: 'įvykio data: 1967 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata nurodo autorę, pavadinimą, leidimo vietą ir metus.'
   pagrindžia:
     - c-001
 

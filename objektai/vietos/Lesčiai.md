@@ -26,9 +26,18 @@ Kazimieraicio : Li Ores / Wyinlavas DAUGĖLIŠKIŲ KAUTYNES ) Leipalingis Armoni
 - t-001
   global_id: t-41862
   teiginys: '1950 m. liepos 22 d. Lesčių kaimo rajone, Daugėliškių miške, MGB 208-ojo pulko kareiviai puolė partizanų bunkerį.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nusako įvykį, vietą ir veikėjus pagal citatą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos laisvės kovos sąjūdis|Lietuvos laisvės kovos sąjūdis]]; mentioned_object: [[objektai/zodynas/Kariauna|Kariauna]]; mentioned_person: [[objektai/autoriai/Maironis|Maironis]]; mentioned_place: Ariogala; mentioned_place: Kaimas; mentioned_place: Vilkija'
+  temporaliniai_duomenys: 'įvykio data: 1950 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako įvykį, vietą ir veikėjus pagal citatą.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/autoriai/Dalius Žygelis.md#claim-t-40613|Dalius Žygelis]]: Dalius Žygelis buvo kelių tekstų apie 1945–1949 m. Lietuvos partizanų kautynes bendraautoris.
+- susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171498|Karolis Zikaras]]: Karolis Zikaras nurodytas prie teksto „Valstybės smukimas“.
+- susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
+- susijęs iš [[objektai/autoriai/Ričardas Čekutis.md#claim-t-40672|Ričardas Čekutis]]: Ričardas Čekutis kartu su Daliumi Žygeliu parašė tekstus apie 1945 m. Kiauneliškių, Kalniškės ir Merkinės kautynes.
+- susijęs iš Kovų istorijos II knyga XX amžius: V. Lesčiaus ir A. Anušausko „Kovų istorijos II knyga. XX amžius“ 2008 m. išleista Vilniuje.
 ## Reikšmingi paminėjimai
 
 - c-001

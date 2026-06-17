@@ -20,6 +20,8 @@ Taip pat jie yra įpareigojami paklusniai užimti vietą, kurioje prieš tai pri
 - t-001
   global_id: t-86594
   teiginys: 'Šv. Dvasios vienuolyno vyresnysis ir broliai prisiėmė panaikintą prieglaudos klebono titulą.'
+  sudarymo_pagrindimas: 'Pradinis teiginys gremėzdiškas ir neaiškus, bet citata palaiko trumpą faktą apie titulą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]'
   pagrindžia:
     - c-001
 
@@ -43,7 +45,3 @@ Taip pat jie yra įpareigojami paklusniai užimti vietą, kurioje prieš tai pri
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Kūnas]]

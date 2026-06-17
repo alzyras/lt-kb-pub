@@ -50,6 +50,8 @@ Nenurodyta
 - t-001
   global_id: t-67184
   teiginys: 'Bažnyčia siekė integruoti pagoniškuosius tikėjimus, tačiau katalikų šventieji tik pamažu stūmė pagonių dievus.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai paremtas citatos mintimi.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/gotika|gotika]]; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -76,10 +78,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/gotika]]
-- [[objektai/zodynas/pagonybė]]
-- [[objektai/ivykiai/Lietuvos ir Žemaitijos krikštai kaip krikščionėjimo pradžia]]
-- [[objektai/paprociai/Pagoniškų elementų ir pagoniškųjų tikėjimų integravimas į krikščioniškas praktikas]]

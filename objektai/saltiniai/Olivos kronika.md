@@ -25,7 +25,7 @@ amziai:
 
 ## Santrauka
 
-Olivos kronikoje Unzatrapio pavadinimas pateikiamas suvokietintomis formomis Wonsdorff ir Wansdorf. Olivos kronikoje Cristburgo pavadinimas pateikiamas formomis Kirsburg ir Kirsberg. Olivos kronikoje atitinkama vieta perteikta žodžiais „tradidit illis“, reiškiančiais „jiems perdavė“.
+Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J. Dusburgietis teigia, kad palyginę Senosios Olivos kronikos, kurioje ryški Pamedės tradicija, ir Dusburgiečio tekstus, matome, jog Pipinas buvo kryžiuočių žiauriai nukankintas: išpjovus jam iš pilvo bambą ir prikalus ją prie medžio, Pipinas, smarkiai mušamas, buvo verčiamas. Dusburgietis teigia, kad 167 D.— edificavit; Olivos kronika — tradidit illis (SRP, 1, p. 676) — jiems perdavė.
 
 ## Teiginiai
 
@@ -33,6 +33,8 @@ Olivos kronikoje Unzatrapio pavadinimas pateikiamas suvokietintomis formomis Won
 - t-001
   global_id: t-60852
   teiginys: 'Olivos kronikoje Unzatrapio pavadinimas pateikiamas suvokietintomis formomis Wonsdorff ir Wansdorf.'
+  sudarymo_pagrindimas: 'Citata patvirtina Olivos kronikoje pateiktas pavadinimo formas ir jų aiškinimą.'
+  susije_objektai: 'mentioned_place: Oliva'
   pagrindžia:
     - c-004
 
@@ -40,6 +42,8 @@ Olivos kronikoje Unzatrapio pavadinimas pateikiamas suvokietintomis formomis Won
 - t-002
   global_id: t-60853
   teiginys: 'Olivos kronikoje Cristburgo pavadinimas pateikiamas formomis Kirsburg ir Kirsberg.'
+  sudarymo_pagrindimas: 'Citata patvirtina Olivos kronikoje pateiktas vietovardžio formas.'
+  susije_objektai: 'mentioned_place: Kulmas; mentioned_place: Oliva; mentioned_place: Prūsija'
   pagrindžia:
     - c-006
 
@@ -47,6 +51,8 @@ Olivos kronikoje Unzatrapio pavadinimas pateikiamas suvokietintomis formomis Won
 - t-003
   global_id: t-60854
   teiginys: 'Olivos kronikoje atitinkama vieta perteikta žodžiais „tradidit illis“, reiškiančiais „jiems perdavė“.'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo fragmentiškas ir su OCR triukšmu; citata palaiko teiginį apie Olivos kronikos formuluotę.'
+  susije_objektai: 'mentioned_place: Oliva'
   pagrindžia:
     - c-009
 
@@ -54,6 +60,8 @@ Olivos kronikoje Unzatrapio pavadinimas pateikiamas suvokietintomis formomis Won
 - t-004
   global_id: t-60855
   teiginys: 'Senesnėje Olivos kronikoje: generatio [...] Bogatini (SRP, 1, p. 680).'
+  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
+  susije_objektai: 'mentioned_place: Oliva'
   pagrindžia:
     - c-003
 
@@ -61,6 +69,8 @@ Olivos kronikoje Unzatrapio pavadinimas pateikiamas suvokietintomis formomis Won
 - t-005
   global_id: t-60856
   teiginys: 'Senojoje Olivos kronikoje nurodyta, kad per 1243 (1242?) m. birželio 15 d. kautynes Sventopelkas buvo sudaręs paliaubas su Ordinu.'
+  sudarymo_pagrindimas: 'Citata leidžia suformuluoti aiškų teiginį apie Olivos kronikoje pateiktą informaciją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Kulmas; mentioned_place: Oliva; mentioned_place: Pamedė'
   pagrindžia:
     - c-007
 
@@ -68,6 +78,8 @@ Olivos kronikoje Unzatrapio pavadinimas pateikiamas suvokietintomis formomis Won
 - t-006
   global_id: t-60857
   teiginys: 'Olivos kronikoje vietovardis pateikiamas formomis Kirske ir Kirsko.'
+  sudarymo_pagrindimas: 'Citata palaiko trumpą faktinį teiginį apie kronikoje vartojamas vietovardžio formas.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tirskas|Tirskas]]; mentioned_place: Oliva'
   pagrindžia:
     - c-005
 
@@ -75,6 +87,8 @@ Olivos kronikoje Unzatrapio pavadinimas pateikiamas suvokietintomis formomis Won
 - t-007
   global_id: t-60858
   teiginys: 'Senojoje Olivos kronikoje aiškiau aprašytas Dusburgiečio minimas Pamedės niokojimas.'
+  sudarymo_pagrindimas: 'Citata tiesiogiai nurodo, kad tas epizodas aiškesnis Senojoje Olivos kronikoje.'
+  susije_objektai: 'mentioned_place: Oliva; mentioned_place: Pamedė'
   pagrindžia:
     - c-001
 
@@ -82,6 +96,11 @@ Olivos kronikoje Unzatrapio pavadinimas pateikiamas suvokietintomis formomis Won
 - t-008
   global_id: t-60860
   teiginys: 'J. Venta analizavo Olivos kronikos šaltinius ir svarstė išlikusios Dusburgiečio kronikos redakciją.'
+  sudarymo_pagrindimas: 'Citata palaiko aiškų teiginį apie Olivos kronikos šaltinių analizę.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/J. Poverskis|J. Poverskis]]; mentioned_person: [[objektai/autoriai/J. Venta|J. Venta]]; mentioned_place: Oliva; mentioned_place: Pamaris; mentioned_place: Venta'
+  temporaliniai_duomenys: 'įvykio data: 1326 m.; įvykio data: 1330 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko aiškų teiginį apie Olivos kronikos šaltinių analizę.'
   pagrindžia:
     - c-002
 
@@ -89,6 +108,8 @@ Olivos kronikoje Unzatrapio pavadinimas pateikiamas suvokietintomis formomis Won
 - t-009
   global_id: t-60861
   teiginys: 'Olivos kronikoje Renseno ežeras minimas lotyniška forma „ad lacum qui dicitur Rensin“.'
+  sudarymo_pagrindimas: 'Citata patvirtina Olivos kronikoje vartotą Renseno ežero pavadinimo formą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Oliva; mentioned_place: Torunė; mentioned_place: Vysla'
   pagrindžia:
     - c-008
 

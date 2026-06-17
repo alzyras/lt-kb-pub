@@ -52,6 +52,11 @@ Nenurodyta
 - t-001
   global_id: t-59552
   teiginys: '1251 m. Culmense vietovėje įkurta Kulmo vyskupijos katedra ir miestas Culmense.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir perkrautas nuorodomis.'
+  susije_objektai: 'mentioned_place: Kaimas; mentioned_place: Kulmas; mentioned_place: Loza; mentioned_place: Torunė'
+  temporaliniai_duomenys: 'įvykio data: 1222 m.; įvykio data: 1246 m.; įvykio data: 1248 m.; įvykio data: 1251 m.; įvykio data: 1276 m.; įvykio data: 1278 m.; įvykio data: 1306 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs ir perkrautas nuorodomis.'
   pagrindžia:
     - c-001
 
@@ -75,7 +80,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/ežeras]]

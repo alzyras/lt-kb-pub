@@ -3,10 +3,16 @@ tipas: daiktas
 pavadinimas: 'Alebardos'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+datos:
+  - '1568 m.'
+date_start: '1568'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
+amziai:
+  - 'XVI'
 ---
 # Alebardos
 
@@ -40,9 +46,12 @@ Nenurodyta
 - t-001
   global_id: t-40687
   teiginys: 'Vokiškojo tipo alebarda datuojama XVI a., o kita alebarda - XVI a. antrąja puse-XVII a.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusijos kariuomenė|Rusijos kariuomenė]]; mentioned_object: [[objektai/daiktai/Vokiškojo tipo alebarda|Vokiškojo tipo alebarda]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_place: Rusija'
+  temporaliniai_duomenys: 'įvykio data: 1568 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
-
+- susijęs iš Tikocinas: Testamente nurodyta, kad Tikocine buvę apmušalai ir kiti užtiesalai turėjo atitekti karalaitėms seserims.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -60,9 +69,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Antanas (vaistininkas)]]
-- [[objektai/grupes/Rusijos kariuomenė]]
-- [[objektai/daiktai/Vokiškojo tipo alebarda]]

@@ -34,6 +34,8 @@ Nenurodyta
 - t-001
   global_id: t-09544
   teiginys: 'Podolėje paskirti atamanai nuo Podolės žemės duodavo duoklę atvykstantiems Ordos baskakams.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/baskakas|baskakas]]; mentioned_object: [[objektai/zodynas/duoklė|duoklė]]; mentioned_object: [[objektai/zodynas/tėvonys|tėvonys]]; mentioned_place: Podolė'
   pagrindžia:
     - c-001
 
@@ -51,10 +53,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/baskakas]]
-- [[objektai/zodynas/duoklė]]
-- [[objektai/zodynas/tėvonys]]
-- [[objektai/zodynas/atamanas]]

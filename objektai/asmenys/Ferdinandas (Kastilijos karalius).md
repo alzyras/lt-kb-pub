@@ -3,17 +3,25 @@ tipas: asmuo
 pavadinimas: 'Ferdinandas (Kastilijos karalius)'
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+datos:
+  - '1241 m.'
+date_start: '1241'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - karalius
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'viduramžiai'
 ---
 # Ferdinandas (Kastilijos karalius)
 
 ## Santrauka
 
-Be to, ten buvo parašyta, kad Ferdinando laikais ji ir turi būti surasta (Mart. Ferdinandas, Kastilijos karalius, nugalėjo Granados saracėnų karalių, kuris vėliau mokėjo jam duoklę.
+Dusburgietis teigia, kad kaip Ferdinandas, Kastilijos karalius, nugalėjo Granados karalių Tuo pat metu Ferdinandas, Kastilijos karalius, nunugalėjo Granados saracėnų karalių, 596 1241 m. įvykiai. Dusburgietis teigia, kad be to, ten buvo parašyta, kad Ferdinando laikais ji ir turi būti surasta (Mart.
 
 ## Teiginiai
 
@@ -21,6 +29,7 @@ Be to, ten buvo parašyta, kad Ferdinando laikais ji ir turi būti surasta (Mart
 - t-001
   global_id: t-60113
   teiginys: 'Be to, ten buvo parašyta, kad Ferdinando laikais ji ir turi būti surasta (Mart.'
+  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
   pagrindžia:
     - c-001
 
@@ -28,6 +37,11 @@ Be to, ten buvo parašyta, kad Ferdinando laikais ji ir turi būti surasta (Mart
 - t-002
   global_id: t-60114
   teiginys: 'Ferdinandas, Kastilijos karalius, nugalėjo Granados saracėnų karalių, kuris vėliau mokėjo jam duoklę.'
+  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatos faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Saracėnai|Saracėnai]]; mentioned_object: [[objektai/zodynas/duoklė|duoklė]]; mentioned_object: [[objektai/zodynas/marobortinai|marobortinai]]'
+  temporaliniai_duomenys: 'įvykio data: 1241 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia citatos faktą.'
   pagrindžia:
     - c-002
 
@@ -61,10 +75,3 @@ Be to, ten buvo parašyta, kad Ferdinando laikais ji ir turi būti surasta (Mart
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Saracėnai]]
-- [[objektai/zodynas/duoklė]]
-- [[objektai/zodynas/marobortinai]]
-- [[objektai/ivykiai/Ferdinando pergalė prieš Granados karalių]]

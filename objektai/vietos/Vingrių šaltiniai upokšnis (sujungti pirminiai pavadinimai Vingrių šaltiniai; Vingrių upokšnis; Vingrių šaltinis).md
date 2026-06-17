@@ -5,6 +5,8 @@ saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1383 m.'
+  - '1388 m.'
+  - '1398 m.'
   - '1536 m.'
 date_start: '1383'
 date_end: '1536'
@@ -31,6 +33,11 @@ Atkaklus mūšis užvirė prie pat miesto, ant tilto, kur Vingrių versmės, nuo
 - t-001
   global_id: t-174583
   teiginys: 'Prie Vilniaus, ant tilto, kur Vingrių versmės plovė miesto aptvarus, užvirė atkaklus mūšis.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas citatoje aprašyta mūšio vieta.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/Tavoras|Tavoras]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/nuorašas|nuorašas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_place: Viena; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'mūšio data: 1383 m.; mūšio data: 1388 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir paremtas citatoje aprašyta mūšio vieta.'
   pagrindžia:
     - c-005
 
@@ -38,6 +45,9 @@ Atkaklus mūšis užvirė prie pat miesto, ant tilto, kur Vingrių versmės, nuo
 - t-002
   global_id: t-174584
   teiginys: 'Vingrių šaltinių vandenys kadaise priklausė Vilniaus miestui, bet vėliau tapo Švč. Trejybės klebonijos nuosavybe.'
+  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytą nuosavybės kaitą.'
+  susije_objektai: 'owner: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; owner: Vilnius; mentioned_object: [[objektai/zodynas/klebonija|klebonija]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_place: Vilnius'
+  semantiniai_rysiai: 'Vingrių šaltiniai upokšnis (sujungti pirminiai pavadinimai Vingrių šaltiniai; Vingrių upokšnis; Vingrių šaltinis) priklausė [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; Vingrių šaltiniai upokšnis (sujungti pirminiai pavadinimai Vingrių šaltiniai; Vingrių upokšnis; Vingrių šaltinis) priklausė Vilnius'
   pagrindžia:
     - c-002
 
@@ -45,6 +55,11 @@ Atkaklus mūšis užvirė prie pat miesto, ant tilto, kur Vingrių versmės, nuo
 - t-003
   global_id: t-174585
   teiginys: 'Vingrių šaltinis slėnyje įtekėjo į Viliją prie Totorių vartų.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus ir paremtas citatoje nurodyta vieta.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Lietuva; mentioned_place: Vilija; mentioned_place: Vingrių šaltinis'
+  temporaliniai_duomenys: 'įvykio data: 1398 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus ir paremtas citatoje nurodyta vieta.'
   pagrindžia:
     - c-003
 
@@ -52,6 +67,8 @@ Atkaklus mūšis užvirė prie pat miesto, ant tilto, kur Vingrių versmės, nuo
 - t-004
   global_id: t-174586
   teiginys: 'Kelias iš Žemutinės pilies vakarinių vartų ėjo per tiltą per Vingrių upokšnį, kuris greta Vilnios įtekėjo į Viliją.'
+  sudarymo_pagrindimas: 'Citata palaiko aiškų faktą apie Vingrių upokšnį ir kelią.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Ukmergė; mentioned_place: Vilija'
   pagrindžia:
     - c-004
 
@@ -59,6 +76,8 @@ Atkaklus mūšis užvirė prie pat miesto, ant tilto, kur Vingrių versmės, nuo
 - t-005
   global_id: t-174587
   teiginys: 'Iš vakarų atitekėjęs Vingrių upokšnis įtekėjo į Viliją visai greta Vilnios žiočių.'
+  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatos duomenis apie Vingrių upokšnį.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Vilija; mentioned_place: Vilnelė; mentioned_place: Vingrių upokšnis'
   pagrindžia:
     - c-001
 
@@ -191,3 +210,7 @@ Atkaklus mūšis užvirė prie pat miesto, ant tilto, kur Vingrių versmės, nuo
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+- Vingrių šaltiniai upokšnis (sujungti pirminiai pavadinimai Vingrių šaltiniai; Vingrių upokšnis; Vingrių šaltinis) priklause [[objektai/asmenys/Aleksandras Jogailaitis]]
+- Vingrių šaltiniai upokšnis (sujungti pirminiai pavadinimai Vingrių šaltiniai; Vingrių upokšnis; Vingrių šaltinis) priklause [[objektai/vietos/Vilnius]]

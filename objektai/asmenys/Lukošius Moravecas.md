@@ -18,9 +18,14 @@ Lukošius Moravecas prie Slučės upės su dviem šimtais pėstininkų užpuolė
 - t-001
   global_id: t-186235
   teiginys: 'Lukošius Moravecas prie Slučės upės su dviem šimtais pėstininkų užpuolė siaubėjusį priešą ir jį sumušė.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_place: Sluckas; mentioned_place: Slučė'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/ivykiai/Skitų sumušimas Volynėje ir prie Slučės.md#claim-t-185769|Skitų sumušimas Volynėje ir prie Slučės]]: Lukošius Moravecas su dviem šimtais pėstininkų prie Slučės upės užpuolė siaubėjus ir juos sumušė.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -44,7 +49,3 @@ Lukošius Moravecas prie Slučės upės su dviem šimtais pėstininkų užpuolė
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/Skitų sumušimas Volynėje ir prie Slučės]]

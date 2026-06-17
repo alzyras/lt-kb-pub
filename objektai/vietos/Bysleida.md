@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Sūduviai, nadruviai ir skalviai su didele kariuomene apsiautė ir smarkiai užpuolė Bysleidos pilį netoli Bartenšteino. Bartoszyce) prie Bysleidos upelio.
+Dusburgietis teigia, kad kitais metais456 sūduviai, nadruviai ir skalviai, atitraukę su didele kariuomene, apsiautė Bysleidos pilį457, buvusią netoli Bartenšteino, miške, vardu Kartenė, ir ją smarkiai užpuolė. Dusburgietis teigia, kad bartoszyce) prie Bysleidos upelio.
 
 ## Teiginiai
 
@@ -21,6 +21,8 @@ Sūduviai, nadruviai ir skalviai su didele kariuomene apsiautė ir smarkiai užp
 - t-001
   global_id: t-58536
   teiginys: 'Sūduviai, nadruviai ir skalviai su didele kariuomene apsiautė ir smarkiai užpuolė Bysleidos pilį netoli Bartenšteino.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai pagrįstas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Nadruviai|Nadruviai]]; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_place: Bartenšteinas; mentioned_place: Pilėnai'
   pagrindžia:
     - c-002
 
@@ -28,9 +30,19 @@ Sūduviai, nadruviai ir skalviai su didele kariuomene apsiautė ir smarkiai užp
 - t-002
   global_id: t-58537
   teiginys: 'Bartoszyce) prie Bysleidos upelio.'
+  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
+  susije_objektai: 'mentioned_place: Bartenšteinas'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Nameda.md#claim-t-60393|Nameda]]: Nameda, Pasdraupučio motina iš Mantiminų giminės, paragino sūnus ginti savo gyvybę ir gentį nuo priešų.
+- susijęs iš [[objektai/asmenys/Pasdrauputis.md#claim-t-60405|Pasdrauputis]]: Pasdrauputis buvo Namedos, kilusios iš Mantiminų giminės, sūnus.
+- susijęs iš [[objektai/grupes/Nadruviai.md#claim-t-65940|Nadruviai]]: Sūduviai, nadruviai ir skalviai su didele kariuomene apsiautė ir smarkiai užpuolė Bysleidos pilį prie Bartenšteino.
+- susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175135|Sūduviai-jotvingiai]]: Sūduviai, nadruviai ir skalviai su didele kariuomene apsiautė ir smarkiai užpuolė Bysleidos pilį netoli Bartenšteino.
+- susijęs iš [[objektai/grupes/Sūduviai.md#claim-t-89235|Sūduviai]]: Sūduviai, nadruviai ir skalviai su didele kariuomene apsiautė ir smarkiai užpuolė Bysleidos pilį netoli Bartenšteino.
+- susijęs iš [[objektai/ivykiai/Bysleidos pilies apgula ir daugiau kaip dviejų tūkstančių sūduvių žūtis.md#claim-t-62762|Bysleidos pilies apgula ir daugiau kaip dviejų tūkstančių sūduvių žūtis (pilis)]]: Namedos sūnūs ir kiti Bysleidos pilėnai pakilo į mūšį ir nukovė daugiau kaip du tūkstančius priešo karių.
+- susijęs iš [[objektai/ivykiai/Bysleidos pilies apgula ir daugiau kaip dviejų tūkstančių sūduvių žūtis.md#claim-t-62763|Bysleidos pilies apgula ir daugiau kaip dviejų tūkstančių sūduvių žūtis (pilis)]]: Sūduviai, nadruviai ir skalviai su didele kariuomene apsiautė ir smarkiai puolė Bysleidos pilį Kartenės miške prie Bartenšteino.
+- susijęs iš [[objektai/ivykiai/Dviejų Nadruvos pilių užėmimas Retavos valsčiuje.md#claim-t-91913|Dviejų Nadruvos pilių užėmimas Retavos valsčiuje]]: Konrado iš Tirbergo pasiųstas Sembos fogtas Ditrichas su kariuomene Retavos valsčiuje užėmė ir sudegino dvi pilis.
+- susijęs iš [[objektai/posakiai/Gailiuosi jus pagimdžiusi.md#claim-t-59092|Gailiuosi jus pagimdžiusi]]: Nameda savo sūnums pasakė, kad gailisi juos pagimdžiusi, nes jie nenori ginti nei savo gyvybės, nei genties.
 ## Reikšmingi paminėjimai
 
 - c-001

@@ -22,6 +22,8 @@ Ketveri metai ordino žemėse buvo naudingai praleistas « mokslo laikas ».
 - t-001
   global_id: t-28707
   teiginys: 'Ketveri Vytauto metai ordino žemėse apibūdinti kaip naudingai praleistas „mokslo laikas“.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -54,7 +56,3 @@ Ketveri metai ordino žemėse buvo naudingai praleistas « mokslo laikas ».
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

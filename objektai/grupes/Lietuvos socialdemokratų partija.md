@@ -4,11 +4,13 @@ pavadinimas: 'Lietuvos socialdemokratų partija'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
+  - '1920 m.'
+  - '1926 m.'
   - '1927 m.'
   - '1940 m.'
   - '1990 m.'
   - '1993 m.'
-date_start: '1927'
+date_start: '1920'
 date_end: '1993'
 sukurta: ''
 atnaujinta: ''
@@ -17,6 +19,7 @@ tags:
   - grupe
   - miestas
   - seimas
+  - sukilimas
 amziai:
   - 'XX'
 ---
@@ -24,7 +27,7 @@ amziai:
 
 ## Santrauka
 
-1920 m. balandžio 14–15 d. rinkimuose Lietuvos socialdemokratų partija liko trečia. Lietuvos socialdemokratų partija Steigiamojo Seimo rinkimuose liko trečia. 1926 m. birželį socialdemokratai su valstiečiais liaudininkais ir septyniais tautinių mažumų atstovais sudarė naują valdančiąją koaliciją.
+LSDP Lietuvos socialdemokratų partija. Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudininkų sąjunga – LVLS) gavo 29 vietas, trečia liko Lietuvos socialdemokratų partija (LSDP). Naują valdančiąją koaliciją birželį pirmą kartą suformavo kairė – valstiečiai liaudininkai ir socialdemokratai, prie jų prisidėjo septyni tautinių mažumų atstovai Seime.
 
 ## Teiginiai
 
@@ -32,6 +35,11 @@ amziai:
 - t-001
   global_id: t-169731
   teiginys: '1920 m. balandžio 14–15 d. rinkimuose Lietuvos socialdemokratų partija liko trečia.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nurodo rinkimų datą ir partijos rezultatą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionių demokratų blokas|Krikščionių demokratų blokas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos valstiečių liaudininkų sąjunga|Lietuvos valstiečių liaudininkų sąjunga]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1920 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo rinkimų datą ir partijos rezultatą.'
   pagrindžia:
     - c-003
 
@@ -39,6 +47,8 @@ amziai:
 - t-002
   global_id: t-169732
   teiginys: 'Lietuvos socialdemokratų partija Steigiamojo Seimo rinkimuose liko trečia.'
+  sudarymo_pagrindimas: 'Pradinis teiginys apie kitų politinių jėgų pažadus, o citata tiesiogiai palaiko faktą apie LSDP vietą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuvos valstiečių liaudininkų sąjunga|Lietuvos valstiečių liaudininkų sąjunga]]; mentioned_object: [[objektai/zodynas/Tautinės mažumos|Tautinės mažumos]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-004
 
@@ -46,6 +56,11 @@ amziai:
 - t-003
   global_id: t-169733
   teiginys: '1926 m. birželį socialdemokratai su valstiečiais liaudininkais ir septyniais tautinių mažumų atstovais sudarė naują valdančiąją koaliciją.'
+  sudarymo_pagrindimas: 'Teiginys susietas su LSDP ir papildytas citatoje esančiais metais.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Kazys Grinius|Kazys Grinius]]'
+  temporaliniai_duomenys: 'įvykio data: 1926 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys susietas su LSDP ir papildytas citatoje esančiais metais.'
   pagrindžia:
     - c-002
 
@@ -53,9 +68,18 @@ amziai:
 - t-004
   global_id: t-169734
   teiginys: 'LDDP vėliau susivienijo su Lietuvos socialdemokratais ir tapo LSDP.'
+  sudarymo_pagrindimas: 'Pradinis teiginys apie valdymo sistemą, o citata leidžia pagrįsti faktą apie LSDP susidarymą.'
+  susije_objektai: 'mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1993 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys apie valdymo sistemą, o citata leidžia pagrįsti faktą apie LSDP susidarymą.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/grupes/Krikščionių demokratų blokas.md#claim-t-74191|Krikščionių demokratų blokas]]: Krikščionių demokratų blokas laimėjo 1920 m. balandžio 14–15 d. rinkimus ir gavo 59 vietas.
+- susijęs iš [[objektai/grupes/Krikščionių demokratų blokas.md#claim-t-74193|Krikščionių demokratų blokas]]: Krikščionių demokratų blokas laimėjo 1920 m. balandžio 14–15 d. rinkimus ir gavo 59 vietas.
+- susijęs iš [[objektai/grupes/Lietuvos valstiečių liaudininkų sąjunga.md#claim-t-101469|Lietuvos valstiečių liaudininkų sąjunga]]: Kairysis valstiečių liaudininkų blokas, vėliau tapęs Lietuvos valstiečių liaudininkų sąjunga, 1920 m. rinkimuose gavo 29 vietas.
+- susijęs iš [[objektai/ivykiai/Steigiamojo Seimo rinkimai ir pirmasis posėdis (1920 m.).md#claim-t-75287|Steigiamojo Seimo rinkimai ir pirmasis posėdis (1920 m.)]]: 1920 m. balandžio 14–15 d. Steigiamojo Seimo rinkimus laimėjo krikščionių demokratų blokas, gavęs 59 vietas.
+- susijęs iš [[objektai/ivykiai/Steigiamojo Seimo rinkimai ir pirmasis posėdis (1920 m.).md#claim-t-75288|Steigiamojo Seimo rinkimai ir pirmasis posėdis (1920 m.)]]: 1920 m. balandžio 14–15 d. rinkimus į Steigiamąjį Seimą laimėjo krikščionių demokratų blokas, gavęs 59 vietas.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -153,19 +177,3 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-005
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Kazys Grinius]]
-- [[objektai/grupes/Krikščionių demokratų blokas]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Lietuvos valstiečių liaudininkų sąjunga]]
-- [[objektai/zodynas/Tautinės mažumos]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/ivykiai/Steigiamojo Seimo rinkimai ir pirmasis posėdis (1920 m.)]]
-- [[objektai/ivykiai/1992 m. Seimo rinkimai ir LDDP dauguma|1992 m. Seimo rinkimai ir LDDP dauguma (seimas, XX a.)]]
-- [[objektai/ivykiai/III Seimo rinkimai ir kairiosios valdančiosios koalicijos sudarymas (1926 m.)]]
-- [[objektai/grupes/Lietuvos demokratinė darbo partija]]
-- [[objektai/grupes/Tėvynės Sąjunga-Lietuvos konservatoriai]]

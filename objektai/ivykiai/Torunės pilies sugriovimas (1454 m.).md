@@ -45,6 +45,11 @@ Nenurodyta
 - t-001
   global_id: t-59613
   teiginys: 'Torunės pilis buvo sugriauta 1454 m.'
+  sudarymo_pagrindimas: 'Teiginys yra glaustas, faktinis ir tiesiogiai pagrįstas citata.'
+  susije_objektai: 'mentioned_place: Torunė'
+  temporaliniai_duomenys: 'įvykio data: iki 1300 m.; įvykio data: 1300 m.; įvykio data: 1454 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra glaustas, faktinis ir tiesiogiai pagrįstas citata.'
   pagrindžia:
     - c-001
 

@@ -21,6 +21,8 @@ tags:
 - t-001
   global_id: t-38929
   teiginys: '2-ajai divizijai buvo numatyta gynybinė pozicija nuo Dimitravo ežero per Meros upę ir Augustavo kanalą iki Nemuno.'
+  sudarymo_pagrindimas: 'Originalas fragmentiškas ir su OCR klaidomis, bet citata pagrindžia gynybinio ruožo aprašymą.'
+  susije_objektai: 'mentioned_place: Augustavas; mentioned_place: Nemunas'
   pagrindžia:
     - c-001
 
@@ -39,9 +41,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/3-ioji divizija]]
-- [[objektai/grupes/ioji divizija]]
-- [[objektai/grupes/oji divizija]]

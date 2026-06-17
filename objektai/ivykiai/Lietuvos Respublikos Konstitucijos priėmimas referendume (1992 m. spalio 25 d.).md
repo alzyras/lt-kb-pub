@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-1992 m. Konstitucijos preambulė valstybės teisės tęstinumą siejo su Lietuvos Statutais ir Lietuvos Respublikos konstitucijomis. Konstitucija skelbė Lietuvą demokratine respublika, kurios suverenitetas priklauso tautai. 1992 m. spalio 25 d. piliečių referendume priimta Lietuvos Respublikos Konstitucija.
+Tapusi visateise Europos valstybe, Lietuva siekė pertvarkyti savo vidaus valdymą pagal demokratinį Vakarų pasaulio modelį. Pagrindinės Konstitucijos nuostatos skelbė, kad Lietuva yra demokratinė respublika, Lietuvos valstybę kuria tauta, suverenitetas priklauso tautai, aukščiausią suverenią galią tauta vykdo tiesiogiai ar per demokratiškai išrinktus savo atstovus, valstybės.
 
 ## Laikotarpis ir datos
 
@@ -45,6 +45,11 @@ Nenurodyta
 - t-001
   global_id: t-75194
   teiginys: '1992 m. Konstitucijos preambulė valstybės teisės tęstinumą siejo su Lietuvos Statutais ir Lietuvos Respublikos konstitucijomis.'
+  sudarymo_pagrindimas: 'Pradinis sakinys per ilgas ir gremėzdiškas; citata leidžia pateikti aiškesnį teiginį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Suverenitetas|Suverenitetas]]; mentioned_object: [[objektai/zodynas/konstitucijos|konstitucijos]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1992 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis sakinys per ilgas ir gremėzdiškas; citata leidžia pateikti aiškesnį teiginį.'
   pagrindžia:
     - c-003
 
@@ -52,6 +57,7 @@ Nenurodyta
 - t-002
   global_id: t-75195
   teiginys: 'Konstitucija skelbė Lietuvą demokratine respublika, kurios suverenitetas priklauso tautai.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Suverenitetas|Suverenitetas]]; mentioned_object: [[objektai/zodynas/konstitucijos|konstitucijos]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -59,6 +65,11 @@ Nenurodyta
 - t-003
   global_id: t-75196
   teiginys: '1992 m. spalio 25 d. piliečių referendume priimta Lietuvos Respublikos Konstitucija.'
+  sudarymo_pagrindimas: 'Teiginys yra glaustas, gramatiškas ir tiksliai pagrįstas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_place: Baltija; mentioned_place: Europa; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1992 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra glaustas, gramatiškas ir tiksliai pagrįstas citata.'
   pagrindžia:
     - c-001
 
@@ -66,6 +77,14 @@ Nenurodyta
 - t-004
   global_id: t-183257
   teiginys: '1992 m. spalio 25 d. referendume priimtos Konstitucijos preambulėje įtvirtinti pilietinės visuomenės ir teisinės valstybės principai.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata geriau pagrindžia teiginį apie priimtos Konstitucijos principus, susijusius su įvykio objektu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/zodynas/konstitucijos|konstitucijos]]; mentioned_place: Europa; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1992 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata geriau pagrindžia teiginį apie priimtos Konstitucijos principus, susijusius su įvykio objektu.'
   pagrindžia:
     - c-004
 
@@ -146,11 +165,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/Suverenitetas]]
-- [[objektai/zodynas/konstitucijos]]
-- [[objektai/grupes/Lietuvos Respublikos Seimas|Lietuvos Respublikos Seimas (seimas)]]

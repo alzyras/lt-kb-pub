@@ -29,6 +29,11 @@ Dusburgietis teigia, kad pūtvės pilis ir laukas identifikuojami su Pūtvės ka
 - t-001
   global_id: t-60956
   teiginys: 'J. Mickevičiaus straipsnis „Putvės pilis XIV amžiuje“ paskelbtas 1940 m. žurnalo „Gimtasai kraštas“ 3-4 numeryje.'
+  sudarymo_pagrindimas: 'Citata leidžia suformuluoti pilną bibliografinį teiginį.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/Mickevičius|Mickevičius]]; mentioned_place: Putvė'
+  temporaliniai_duomenys: 'įvykio data: 1940 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata leidžia suformuluoti pilną bibliografinį teiginį.'
   pagrindžia:
     - c-002
 
@@ -36,6 +41,8 @@ Dusburgietis teigia, kad pūtvės pilis ir laukas identifikuojami su Pūtvės ka
 - t-002
   global_id: t-60957
   teiginys: 'Pūtvės pilis ir laukas siejami su Pūtvės kaimu prie Akmenos, į pietryčius nuo Šilalės, arba su gretimo Kreivių kaimo piliakalniu.'
+  sudarymo_pagrindimas: 'Citata remia lokalizacijos teiginį, pradinis sakinys per ilgas ir su nuotrupa.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/autoriai/Mickevičius|Mickevičius]]; mentioned_place: Kaimas; mentioned_place: Kreiviai'
   pagrindžia:
     - c-001
 
@@ -43,6 +50,8 @@ Dusburgietis teigia, kad pūtvės pilis ir laukas identifikuojami su Pūtvės ka
 - t-003
   global_id: t-60958
   teiginys: 'Kreiviai, anksčiau vadinti Kryvos vardu, ir gretimas Romės Laukas galėjo būti susiję su pagonišku kultu.'
+  sudarymo_pagrindimas: 'Teiginys yra išbaigtas ir paremtas citatos vertinimu apie Kreivius bei Romės Lauką.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/Mickevičius|Mickevičius]]; mentioned_place: Kaimas; mentioned_place: Kreiviai'
   pagrindžia:
     - c-003
 

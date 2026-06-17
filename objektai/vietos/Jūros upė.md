@@ -22,6 +22,8 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
 - t-001
   global_id: t-28359
   teiginys: 'Jūros upės krantu siena pasislinko vieną mylią į šiaurę, o Nemunas, Rusnė ir Klaipėda buvo palikti Ordinui.'
+  sudarymo_pagrindimas: 'Pašalintos OCR klaidos ir sutrumpinta paini formuluotė.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/dykra|dykra]]; mentioned_place: Baltija; mentioned_place: Klaipėda; mentioned_place: Livonija; mentioned_place: Nemunas; mentioned_place: Rusnė; mentioned_place: Viena'
   pagrindžia:
     - c-001
 

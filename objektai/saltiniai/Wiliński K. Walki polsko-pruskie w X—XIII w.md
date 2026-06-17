@@ -26,6 +26,11 @@ Dusburgietis teigia, kad wiliński K.
 - t-001
   global_id: t-61368
   teiginys: 'K. Wilińskio straipsnis apie lenkų ir prūsų kovas X-XIII a. paskelbtas 1984 m. Lodzės universiteto istorijos leidinyje.'
+  sudarymo_pagrindimas: 'Citata pagrindžia autorių, temą, leidinį, vietą ir metus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Prūsai'
+  temporaliniai_duomenys: 'įvykio data: 1984 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia autorių, temą, leidinį, vietą ir metus.'
   pagrindžia:
     - c-001
 

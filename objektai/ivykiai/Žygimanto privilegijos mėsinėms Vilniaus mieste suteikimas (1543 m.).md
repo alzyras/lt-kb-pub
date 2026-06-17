@@ -45,6 +45,11 @@ Nenurodyta
 - t-001
   global_id: t-86902
   teiginys: '1543 m. privilegija leido Vilniaus vyskupui Povilui bažnyčios teritorijoje įrengti tiek mėsinių, kiek jis anksčiau turėjo Vilniaus turguje.'
+  sudarymo_pagrindimas: 'Citata aiškiai palaiko privilegijos turinį, bet pradinis teiginys buvo kontekstinis fragmentas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/jurisdikcija|jurisdikcija]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1543 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata aiškiai palaiko privilegijos turinį, bet pradinis teiginys buvo kontekstinis fragmentas.'
   pagrindžia:
     - c-002
 
@@ -52,6 +57,11 @@ Nenurodyta
 - t-002
   global_id: t-86903
   teiginys: '1543 m. privilegija leido Vilniaus miestiečiams ir gyventojams pirkti mėsą vyskupo įrengtose mėsinėse turguje.'
+  sudarymo_pagrindimas: 'Citata palaiko leidimą, o pradinė formuluotė buvo triukšminga ir per ilga.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/leičiai liečiai leišiai|leičiai liečiai leišiai]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1543 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko leidimą, o pradinė formuluotė buvo triukšminga ir per ilga.'
   pagrindžia:
     - c-001
 
@@ -111,8 +121,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/jurisdikcija]]
-- [[objektai/zodynas/leičiai liečiai leišiai|leičiai / liečiai / leišiai]]

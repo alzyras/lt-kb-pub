@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Marija Gimbutienė cituojama požiūriui, kad žalvario amžiuje baltų arealas siekė Oderio žemupį. Marija Gimbutienė knygoje „Baltai“ aptarė politeistinę baltų religiją, Krivės funkcijas, Perkūną ir kitus baltų dievus.
+Dusburgietis teigia, kad manoma, kad žalvario amžiuje baltų arealas siekęs Oderio žemupį (Gimbutienė M., Rytprūsių..., p. 13, 31 ir kt.; tos pačios, The Balts, p. 30—31, 63, 83). Dusburgietis teigia, kad baltų dievus — Gimbutienė M.
 
 ## Teiginiai
 
@@ -20,6 +20,8 @@ Marija Gimbutienė cituojama požiūriui, kad žalvario amžiuje baltų arealas 
 - t-001
   global_id: t-60600
   teiginys: 'Marija Gimbutienė cituojama požiūriui, kad žalvario amžiuje baltų arealas siekė Oderio žemupį.'
+  sudarymo_pagrindimas: 'Citata palaiko autorės siejimą su nurodytu požiūriu; sakinys gali būti enciklopediškesnis.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_person: [[objektai/asmenys/Marija|Marija]]'
   pagrindžia:
     - c-001
 
@@ -27,6 +29,8 @@ Marija Gimbutienė cituojama požiūriui, kad žalvario amžiuje baltų arealas 
 - t-002
   global_id: t-60601
   teiginys: 'Marija Gimbutienė knygoje „Baltai“ aptarė politeistinę baltų religiją, Krivės funkcijas, Perkūną ir kitus baltų dievus.'
+  sudarymo_pagrindimas: 'Citata palaiko teiginį apie autorės nagrinėtas baltų religijos temas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_person: [[objektai/asmenys/Marija|Marija]]; mentioned_place: Prūsai'
   pagrindžia:
     - c-002
 
@@ -59,7 +63,3 @@ Marija Gimbutienė cituojama požiūriui, kad žalvario amžiuje baltų arealas 
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Baltai]]

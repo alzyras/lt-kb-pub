@@ -3,11 +3,17 @@ tipas: grupe
 pavadinimas: 'Estijos liaudies frontas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1988 m.'
+date_start: '1988'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
   - reforma
+amziai:
+  - 'XX'
 ---
 # Estijos liaudies frontas
 
@@ -21,6 +27,11 @@ tags:
 - t-001
   global_id: t-19677
   teiginys: 'Estijos liaudies frontas buvo įsteigtas 1988 m. balandžio 13 d. kaip neformalus judėjimas reformoms vykdyti.'
+  sudarymo_pagrindimas: 'Citata tiesiogiai palaiko aiškesnį faktą apie įsteigimą ir judėjimo pobūdį.'
+  susije_objektai: 'mentioned_place: Estija; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1988 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata tiesiogiai palaiko aiškesnį faktą apie įsteigimą ir judėjimo pobūdį.'
   pagrindžia:
     - c-001
 

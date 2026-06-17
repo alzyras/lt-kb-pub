@@ -26,6 +26,8 @@ amziai:
 - t-001
   global_id: t-31370
   teiginys: 'Albertas Vijūkas Kojalavičius buvo Vilniaus Akademijos profesorius ir vėliau išryškėjo kaip žymus Lietuvos istorikas.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas citata apie Vilniaus Akademijos profesorių.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_person: [[objektai/asmenys/Albertas|Albertas]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -33,9 +35,15 @@ amziai:
 - t-002
   global_id: t-31371
   teiginys: 'Per Vilniaus Akademiją lotynų kalba vis labiau plito Lietuvos kilmingųjų sluoksniuose.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1766 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/autoriai/Albertas Vijūkas-Kojelavičius.md#claim-t-184459|Albertas Vijūkas-Kojelavičius]]: 1640 m. Vilniaus akademija išleido Alberto Vijūko-Kojelavičiaus redaguotą kalbų rinkinį jėzuitų ordino šimtmečiui paminėti.
+- susijęs iš [[objektai/grupes/Lietuvos jėzuitų kolegijos.md#claim-t-81465|Lietuvos jėzuitų kolegijos]]: Lietuvos jėzuitų kolegijos ir Vilniaus akademija prisidėjo prie lotynų kalbos plitimo tarp Lietuvos kilmingųjų.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -76,10 +84,3 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Albertas]]
-- [[objektai/grupes/Lotynai]]
-- [[objektai/autoriai/Albertas Vijūkas-Kojelavičius]]
-- [[objektai/grupes/Lietuvos jėzuitų kolegijos]]

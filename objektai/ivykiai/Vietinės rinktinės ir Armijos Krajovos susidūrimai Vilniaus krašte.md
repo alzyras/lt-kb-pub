@@ -14,7 +14,7 @@ tags:
 
 ## Santrauka
 
-Kovai su vietos lenkų pasipriešinimu į Vilniją pasiųsti Vietinės rinktinės daliniai susidūrė su ginkluotais Armijos Krajovos daliniais. Naciams Vilniaus kraštą priskyrus Lietuvos generalinei sričiai ir lietuvių administracijai, lietuvių ir lenkų santykiai susiklostė komplikuotai. Vilniaus krašte lietuvių Vietinės rinktinės daliniai susidūrė su ginkluotais lenkų Armijos Krajovos daliniais.
+Komplikuotai susiklostė lietuvių ir lenkų santykiai Vilniaus krašte, kurį naciai padarė Lietuvos generalinės srities dalimi ir priskyrė lietuvių administracijai.
 
 ## Laikotarpis ir datos
 
@@ -38,6 +38,8 @@ Nenurodyta
 - t-001
   global_id: t-75294
   teiginys: 'Kovai su vietos lenkų pasipriešinimu į Vilniją pasiųsti Vietinės rinktinės daliniai susidūrė su ginkluotais Armijos Krajovos daliniais.'
+  sudarymo_pagrindimas: 'Reikia pataisyti linksnį ir sutrumpinti sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Armija Krajova|Armija Krajova]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Vilnija; mentioned_place: Vokietija'
   pagrindžia:
     - c-002
 
@@ -45,6 +47,7 @@ Nenurodyta
 - t-002
   global_id: t-75295
   teiginys: 'Naciams Vilniaus kraštą priskyrus Lietuvos generalinei sričiai ir lietuvių administracijai, lietuvių ir lenkų santykiai susiklostė komplikuotai.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_place: Vokietija'
   pagrindžia:
     - c-001
 
@@ -52,6 +55,11 @@ Nenurodyta
 - t-003
   global_id: t-183281
   teiginys: 'Vilniaus krašte lietuvių Vietinės rinktinės daliniai susidūrė su ginkluotais lenkų Armijos Krajovos daliniais.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata geriau pagrindžia konkretų susidūrimų faktą, o ne tik bendrą kontekstą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Armija Krajova|Armija Krajova]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Vilnija; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 
@@ -106,11 +114,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Armija Krajova]]
-- [[objektai/daiktai/Ginklai]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Vietinė rinktinė]]

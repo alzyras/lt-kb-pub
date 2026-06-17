@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-246 D.— cum omni domo et familia sua. Prūsai nužudė brolį Konradą iš Dortmundo su visa jo šeimyna. Kilmingieji ir vasalai iš Vokietijos kraštų į Prūsiją atvyko su namais, šeimynomis ir giminėmis.
+Dusburgietis teigia, kad apie tai, kaip buvo pastatytas ir išgriautas malūnas Tuo metu daug kilmingų ir galingų Varmės vyrų, matydami, kad dievas padeda kovoti broliams, pajuto tokią didelę sąžinės graužatį, kad su namais bei savo šeimynomis246 persikėlė pas Baigos brolius, o šie. Dusburgietis teigia, kad 246 D.— cum omni domo et familia sua. Dusburgietis teigia, kad daug ir kitų pilių pastatė kilmingieji ir vasalai, atvykę į pagalbą šiai žemei iš įvairių Vokietijos kraštų drauge su visais namais, šeimynomis ir giminėmis, kurių vardus vienas dievas težino.
 
 ## Teiginiai
 
@@ -29,6 +29,8 @@ amziai:
 - t-001
   global_id: t-58818
   teiginys: '246 D.— cum omni domo et familia sua.'
+  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/vergai|vergai]]; mentioned_object: [[objektai/zodynas/vitingas|vitingas]]'
   pagrindžia:
     - c-004
 
@@ -36,6 +38,8 @@ amziai:
 - t-002
   global_id: t-58819
   teiginys: 'Prūsai nužudė brolį Konradą iš Dortmundo su visa jo šeimyna.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Elbingas; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Vokietija'
   pagrindžia:
     - c-001
 
@@ -43,6 +47,8 @@ amziai:
 - t-003
   global_id: t-58820
   teiginys: 'Kilmingieji ir vasalai iš Vokietijos kraštų į Prūsiją atvyko su namais, šeimynomis ir giminėmis.'
+  sudarymo_pagrindimas: 'Pradinis teiginys prasideda nereikalinga atribucija; citata palaiko aiškų faktą.'
+  susije_objektai: 'location: Galinda; location: Heilsbergas; location: Prūsija; location: Varmė; location: Vokietija; mentioned_place: Galinda; mentioned_place: Heilsbergas; mentioned_place: Prūsija; mentioned_place: Varmė; mentioned_place: Vokietija'
   pagrindžia:
     - c-003
 
@@ -50,6 +56,8 @@ amziai:
 - t-004
   global_id: t-58821
   teiginys: 'Kilmingi Varmės vyrai su namais ir šeimynomis persikėlė pas Baigos brolius.'
+  sudarymo_pagrindimas: 'Pradinis teiginys fragmentiškas, su antrašte ir nutrūkusia pabaiga.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_place: Aistmarios; mentioned_place: Baiga; mentioned_place: Varmė'
   pagrindžia:
     - c-002
 
@@ -124,12 +132,3 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Malūnas]]
-- [[objektai/asmenys/Sventopelkas]]
-- [[objektai/zodynas/vergai]]
-- [[objektai/zodynas/vitingas]]
-- [[objektai/asmenys/Konradas iš Dortmundo]]
-- [[objektai/grupes/Varmiai]]

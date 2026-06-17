@@ -43,6 +43,11 @@ Nenurodyta
 - t-001
   global_id: t-20506
   teiginys: 'Prezidentas 1940 m. balandį po ambicijų konflikto atleido populiarų kariuomenės vadą Stasį Raštikį iš pareigų.'
+  sudarymo_pagrindimas: 'Sutrumpinta ir pašalintos šalutinės detalės, paliekant citatos pagrįstą įvykio esmę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Katalikų veikimo centras|Katalikų veikimo centras]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]'
+  temporaliniai_duomenys: 'įvykio data: 1940 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Sutrumpinta ir pašalintos šalutinės detalės, paliekant citatos pagrįstą įvykio esmę.'
   pagrindžia:
     - c-001
 
@@ -65,9 +70,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Katalikų veikimo centras]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/asmenys/Stasys Raštikis]]

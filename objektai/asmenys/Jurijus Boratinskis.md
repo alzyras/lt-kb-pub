@@ -21,6 +21,8 @@ tags:
 - t-001
   global_id: t-40242
   teiginys: 'Šklovo mūšyje dalyvavo kunigaikščio Jurijaus Boratinskio vadovaujamos pajėgos.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie asmenį ir jo vadovautas pajėgas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_person: [[objektai/asmenys/Jurijus|Jurijus]]; mentioned_place: Smolenskas; mentioned_place: Šklovas'
   pagrindžia:
     - c-001
 
@@ -45,7 +47,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Radvilos]]

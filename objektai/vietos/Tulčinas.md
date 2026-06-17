@@ -15,18 +15,19 @@ tags:
 Lenkijoje tokiuos žymius dvarus turėjo — Čartoriskiai Pulavuose, Potockiai Tulčine, Branickis Balstogėje.
 
 ## Teiginiai
+
 <a id="claim-t-02799"></a>
 - t-001
   global_id: t-02799
   teiginys: 'Potockiai Tulčine turėjo vieną iš žymių Lenkijos dvarų.'
+  sudarymo_pagrindimas: 'Teiginys sutrumpintas ir išvalytas nuo laužytų eilučių.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Oginskiai|Oginskiai]]; mentioned_group: [[objektai/grupes/Čartoriskiai|Čartoriskiai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Slanimas; mentioned_place: Viena'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Potockiai Tulčine turėjo vieną iš žymių Lenkijos dvarų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Čia buvo kuriami visi poli-
@@ -35,10 +36,8 @@ Lenkijoje tokiuos žymius dvarus turėjo — Čartoriskiai Pulavuose, Potockiai 
     mius dvarus turėjo — Čartoriskiai Pulavuose, Potockiai Tulčine,
     Branickis Balstogėje. Lietuvoje puikiausias dvaras buvo Radvilų
     Nesvyžiuje; vėliau iškilo Oginskių dvaras Slanime.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

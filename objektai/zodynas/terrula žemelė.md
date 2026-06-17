@@ -33,6 +33,11 @@ Dusburgietis teigia, kad 1257.IV.14 Sembos vyskupo ir vicemagistro valdų dalyb�
 - t-001
   global_id: t-58876
   teiginys: 'Codex Justinianus žodis terrula vartojamas kaip deminutyvas, reiškiantis žemės sklypą arba sklypelį.'
+  sudarymo_pagrindimas: 'Citata pagrindžia termino reikšmę, o pradinė formuluotė buvo negramatiška ir perteklinė.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_place: Lietuva; mentioned_place: Prūsai; mentioned_place: Prūsija'
+  temporaliniai_duomenys: 'įvykio data: 1387 m.; įvykio data: 1737 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia termino reikšmę, o pradinė formuluotė buvo negramatiška ir perteklinė.'
   pagrindžia:
     - c-001
 
@@ -40,6 +45,11 @@ Dusburgietis teigia, kad 1257.IV.14 Sembos vyskupo ir vicemagistro valdų dalyb�
 - t-002
   global_id: t-58877
   teiginys: '1257 m. Sembos vyskupo ir vicemagistro valdų dalybų dokumentuose vartotas terminas terrula.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir tiksliai remiasi citata.'
+  susije_objektai: 'mentioned_place: Semba'
+  temporaliniai_duomenys: 'įvykio data: 1257 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys ir tiksliai remiasi citata.'
   pagrindžia:
     - c-002
 
@@ -81,8 +91,3 @@ Dusburgietis teigia, kad 1257.IV.14 Sembos vyskupo ir vicemagistro valdų dalyb�
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Baltai]]
-- [[objektai/grupes/Latviai]]

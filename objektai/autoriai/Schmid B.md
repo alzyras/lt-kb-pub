@@ -32,6 +32,11 @@ Dusburgietis teigia, kad ordino konventas perkeltas iš Santyro į Marienburgo p
 - t-001
   global_id: t-60786
   teiginys: 'B. Schmidas cituojamas dėl teiginio, kad Ordino konventas 1280 m. perkeltas iš Santyro į Marienburgo pilį.'
+  sudarymo_pagrindimas: 'Citata leidžia susieti autorių su konkrečiu datuotu teiginiu, bet pradinis sakinys turi OCR triukšmo.'
+  susije_objektai: 'mentioned_place: Aukštutinė pilis; mentioned_place: Marienburgas; mentioned_place: Nogatas; mentioned_place: Santyras'
+  temporaliniai_duomenys: 'įvykio data: iki 1279 m.; įvykio data: 1272 m.; įvykio data: 1274 m.; įvykio data: 1275 m.; įvykio data: 1276 m.; įvykio data: 1279 m.; įvykio data: 1280 m.; įvykio data: 1300 m.; įvykio data: apie 1300 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
+  temporalinis_llm_pakomentavimas: 'Citata leidžia susieti autorių su konkrečiu datuotu teiginiu, bet pradinis sakinys turi OCR triukšmo.'
   pagrindžia:
     - c-001
 

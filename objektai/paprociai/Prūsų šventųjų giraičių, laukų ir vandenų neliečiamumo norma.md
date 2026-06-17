@@ -42,6 +42,8 @@ Nenurodyta
 - t-001
   global_id: t-91925
   teiginys: 'Prūsai turėjo šventųjų giraičių, laukų ir vandenų, kuriuose niekas nedrįso kirsti medžių, dirbti žemės ar žvejoti.'
+  sudarymo_pagrindimas: 'Įvardytas objektas ir pašalinta nereikalinga autorinė formulė.'
+  susije_objektai: 'mentioned_place: Galinda; mentioned_place: Lenkija; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
 

@@ -49,6 +49,11 @@ Nenurodyta
 - t-001
   global_id: t-39278
   teiginys: 'Rusiškas pėstininkų graižtvinis šautuvas kapsuline spyna pagamintas 1847 m. Tuloje, o 1855 m. perdarytas iš titnaginio į kapsulinį.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiksliai perteikia citatos informaciją.'
+  susije_objektai: 'mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1847 m.; įvykio data: 1855 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiksliai perteikia citatos informaciją.'
   pagrindžia:
     - c-001
 

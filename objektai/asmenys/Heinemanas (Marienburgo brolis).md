@@ -22,9 +22,14 @@ Dusburgietis teigia, kad apie nuostabų įvykį Tuo metu Marienburgo pilyje gyve
 - t-001
   global_id: t-60303
   teiginys: 'Marienburgo pilyje gyvenęs brolis Heinemanas užsikrėtė raupsais ir mirė tą pačią dieną, kai sužinojo apie brolio Fridricho mirtį.'
+  sudarymo_pagrindimas: 'Pradinis teiginys turi antraštės triukšmo; citata palaiko konkretesnį faktą apie Heinemaną.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_place: Marienburgas'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Fridrichas (Marienburgo brolis).md#claim-t-184062|Fridrichas (Marienburgo brolis)]]: Brolis Fridrichas ir brolis Heinemanas gyveno Marienburgo pilyje ir buvo vaizduojami kaip labai artimi.
+- susijęs iš [[objektai/asmenys/Fridrichas (Marienburgo brolis).md#claim-t-60277|Fridrichas (Marienburgo brolis)]]: Marienburgo pilyje gyvenęs brolis Fridrichas nukrito nuo žirgo ir užsimušė.
+- susijęs iš [[objektai/posakiai/abu drauge turėjome keliauti ten, kur amžinos linksmybės.md#claim-t-184022|abu drauge turėjome keliauti ten, kur amžinos linksmybės]]: Sužinojęs apie brolio Fridricho mirtį, brolis Heinemanas sakė, kad abu turėjo kartu keliauti ten, kur amžinos linksmybės.
+- susijęs iš [[objektai/posakiai/abu drauge turėjome keliauti ten, kur amžinos linksmybės.md#claim-t-59071|abu drauge turėjome keliauti ten, kur amžinos linksmybės]]: Sužinojęs apie brolio Fridricho mirtį, brolis Heinemanas sakė, kad abu turėjo kartu keliauti ten, kur amžinos linksmybės.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -46,10 +51,3 @@ Dusburgietis teigia, kad apie nuostabų įvykį Tuo metu Marienburgo pilyje gyve
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Fridrichas]]
-- [[objektai/zodynas/kunigas]]
-- [[objektai/asmenys/Fridrichas (Marienburgo brolis)]]
-- [[objektai/posakiai/abu drauge turėjome keliauti ten, kur amžinos linksmybės]]

@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos, nes per ją eina tiesiausias kelias iš Vokietijos į Rusiją. Lietuva dažnai laikoma Rytų Europos dalimi dėl geopolitinės, o ne vien geografinės krašto padėties.
+Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesiausias kelias iš Vokietijos į Rusiją, per Lietuvą vokiečiai veržėsi į rytus, o rusai į vakarus. Nors Lietuva yra geografinis Europos centras (o Kaunas buvo Hanzos miestas), ji dažnai laikoma Rytų Europos dalimi.
 
 ## Teiginiai
 
@@ -21,6 +21,8 @@ Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos, nes per ją eina tiesiau
 - t-001
   global_id: t-77298
   teiginys: 'Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos, nes per ją eina tiesiausias kelias iš Vokietijos į Rusiją.'
+  sudarymo_pagrindimas: 'Sakinys sutrumpintas iki aiškaus enciklopedinio fakto.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Europa; mentioned_place: Europos geografinis centras; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Vokietija'
   pagrindžia:
     - c-001
 
@@ -28,9 +30,11 @@ Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos, nes per ją eina tiesiau
 - t-002
   global_id: t-77299
   teiginys: 'Lietuva dažnai laikoma Rytų Europos dalimi dėl geopolitinės, o ne vien geografinės krašto padėties.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir turi citatos fragmentų; citata leidžia suformuluoti aiškų faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Hanza|Hanza]]; mentioned_place: Europa; mentioned_place: Europos geografinis centras; mentioned_place: Italija; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Suomija; mentioned_place: Šveicarija'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/ivykiai/Mindaugo pasiuntinių siuntimas pas popiežių (1251 m.).md#claim-t-31454|Mindaugo pasiuntinių siuntimas pas popiežių (1251 m.)]]: 1251 m. vidurvasarį iš kurijos išėjo šeši popiežiaus raštai Mindaugui arba jo reikalu kitiems adresatams.
 ## Reikšmingi paminėjimai
 
 - c-001

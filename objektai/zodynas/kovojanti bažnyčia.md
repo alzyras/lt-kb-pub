@@ -23,6 +23,8 @@ Dusburgietis teigia, kad šit koks reikšmingas ženklas pasirodęs kovojančios
 - t-001
   global_id: t-58937
   teiginys: 'Brolių karo sėkmė Prūsijoje vadinama reikšmingu ženklu kovojančios bažnyčios padangėje.'
+  sudarymo_pagrindimas: 'Citata leidžia suformuluoti pilną teiginį apie frazės vartojimą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Barta; mentioned_place: Kulmas; mentioned_place: Lubava; mentioned_place: Notanga; mentioned_place: Palenkė; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
 
@@ -48,7 +50,3 @@ Dusburgietis teigia, kad šit koks reikšmingas ženklas pasirodęs kovojančios
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

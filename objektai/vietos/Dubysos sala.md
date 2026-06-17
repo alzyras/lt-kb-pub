@@ -29,6 +29,11 @@ Taip 1396 m. Vytautas su magistru susivažiavo Dubysos saloj.
 - t-001
   global_id: t-34177
   teiginys: '1396 m. Vytautas Dubysos saloje susitiko su magistru, kuris jam pateikė Ordino reikalavimus.'
+  sudarymo_pagrindimas: 'Pašalintas įvadinis žodis ir sutvarkyta enciklopedinė formuluotė.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/supremacija|supremacija]]; mentioned_object: [[objektai/zodynas/įkaitai|įkaitai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Dubysa; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1396 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas įvadinis žodis ir sutvarkyta enciklopedinė formuluotė.'
   pagrindžia:
     - c-001
 

@@ -45,6 +45,12 @@ Nenurodyta
 - t-001
   global_id: t-62819
   teiginys: '1255 m. magistras ir broliai pastatė Karaliaučiaus pilį, kurią Čekijos karaliaus garbei pavadino Karaliaus pilimi.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Sakinys yra gramatiškas, enciklopedinis ir paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Čekija'
+  temporaliniai_duomenys: 'pastatymo data: 1255 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Sakinys yra gramatiškas, enciklopedinis ir paremtas citata.'
   pagrindžia:
     - c-001
     - c-002
@@ -103,8 +109,3 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/komtūras]]
-- [[objektai/zodynas/magistras]]

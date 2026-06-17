@@ -21,6 +21,7 @@ Konstitucija, aptardama valstybės politinę santvarką, rėmėsi Šarlio Montes
 - t-001
   global_id: t-19353
   teiginys: 'Šarlio Monteskjė valdžių padalijimo principu buvo remtasi aptariant valstybės politinę santvarką Konstitucijoje.'
+  sudarymo_pagrindimas: 'Teiginys yra taisyklingas, pilnas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -28,6 +29,11 @@ Konstitucija, aptardama valstybės politinę santvarką, rėmėsi Šarlio Montes
 - t-002
   global_id: t-183577
   teiginys: 'Konstitucija rėmėsi Šarlio Monteskjė valdžių padalijimo principu, aptardama valstybės politinę santvarką.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys turi aiškų veiksnį ir tarinį, o citata jį tiesiogiai pagrindžia.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]'
   pagrindžia:
     - c-002
 
@@ -62,7 +68,3 @@ Konstitucija, aptardama valstybės politinę santvarką, rėmėsi Šarlio Montes
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/seimas]]

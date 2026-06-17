@@ -21,6 +21,8 @@ Napiersk i s, išleidęs tik dokumentų rinkinio apie Livoniją, Estiją ir Kur�
 - t-001
   global_id: t-88456
   teiginys: 'Napierskis išleido dokumentų rinkinio apie Livoniją, Estiją ir Kuršą rodyklę.'
+  sudarymo_pagrindimas: 'Pradinis tekstas buvo vertinamasis ir triukšmingas; citata pagrindžia leidinio faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Estija; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
 

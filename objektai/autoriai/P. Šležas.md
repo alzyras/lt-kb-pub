@@ -11,12 +11,12 @@ date_start: '1928'
 date_end: '1937'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - autorius
 amziai:
   - 'XX'
 periodo_grupes:
   - 'modernioji Lietuva'
-tags:
-  - autorius
 ---
 # P. Šležas
 
@@ -31,10 +31,16 @@ P. Šležas minimas kaip autorius ir redaktorius; jam priskiriami darbai Lietuvo
 - Vytauto konfliktas su Lenkija dėl karūnacijos
 
 ## Teiginiai
+
 <a id="claim-t-64799"></a>
 - t-001
   global_id: t-64799
   teiginys: 'P. Šležas 1937 m. leidinyje „Naujoji Romuva“ paskelbė straipsnį „Lietuvos krikštas“.'
+  sudarymo_pagrindimas: 'Citata pateikia autoriaus, straipsnio, leidinio ir metų duomenis.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/christianizacija|christianizacija]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1937 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pateikia autoriaus, straipsnio, leidinio ir metų duomenis.'
   pagrindžia:
     - c-003
 
@@ -42,6 +48,11 @@ P. Šležas minimas kaip autorius ir redaktorius; jam priskiriami darbai Lietuvo
 - t-002
   global_id: t-64800
   teiginys: 'P. Šležas 1930 m. redagavo kolektyvinę monografiją apie Vytautą Didįjį.'
+  sudarymo_pagrindimas: 'Citata aiškiai sieja Šležą su 1930 m. kolektyvinės monografijos redagavimu.'
+  susije_objektai: 'mentioned_object: [[objektai/autoriai/M. Krasauskaitė|M. Krasauskaitė]]; mentioned_object: [[objektai/zodynas/monografija|monografija]]; mentioned_place: Kaunas; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1930 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata aiškiai sieja Šležą su 1930 m. kolektyvinės monografijos redagavimu.'
   pagrindžia:
     - c-002
 
@@ -49,10 +60,19 @@ P. Šležas minimas kaip autorius ir redaktorius; jam priskiriami darbai Lietuvo
 - t-003
   global_id: t-64801
   teiginys: 'Turinyje P. Šležui priskiriami skyriai „Vytauto santykiai su Lenkija“ ir „Vytauto konfliktas su Lenkija dėl karūnacijos“.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/apsikarūnavimas|apsikarūnavimas]]; mentioned_place: Lenkija'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/autoriai/P. Klimas.md#claim-t-00063|P. Klimas]]: P. Klimas parašė veikalo dalį apie nepriklausomosios valstybės atstatymą ir gyvenimą.
+- susijęs iš [[objektai/autoriai/P. Klimas.md#claim-t-93052|P. Klimas]]: P. Klimas parašė veikalo dalį apie nepriklausomosios valstybės atstatymą ir gyvenimą.
+- susijęs iš [[objektai/autoriai/St. Matulis.md#claim-t-30997|St. Matulis]]: St. Matulis 1961 m. LASD IV tome paskelbė darbą „Kun. prof. dr. Jonas Totoraitis“.
+- susijęs iš [[objektai/autoriai/Z. Ivinskis.md#claim-t-00084|Zenonas Ivinskis]]: Z. Ivinskis parašė veikalo dalį apie laikotarpį iki Gediminaičių dinastijos galo.
+- susijęs iš [[objektai/autoriai/Šležas, P.md#claim-t-31095|Šležas, P]]: P. Šležas 1937 m. leidinyje „Naujoji Romuva“ paskelbė darbą „Lietuvos krikštas“.
+- susijęs iš P. Šležas Kauno pilies išgriovimas: P. Šležo „Kauno pilies išgriovimas“ paskelbtas „Židinyje“ 1932 m. Nr. 10, p. 271 ir toliau.
+- susijęs iš P. Šležas, Vytauto D. kovos dėl Žemaičių ir Klaipėdos: P. Šležo „Vytauto D. kovos dėl Žemaičių ir Klaipėdos“ paskelbta 1932 m. leidinyje „NaR“, nr. 18, p. 409–412.
+- susijęs iš Šležas, P. (red.), Vytautas Didysis: P. Šležo redaguotas leidinys „Vytautas Didysis“ išleistas Kaune 1930 m.
 ## Reikšmingi paminėjimai
+
 - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -63,6 +83,7 @@ P. Šležas minimas kaip autorius ir redaktorius; jam priskiriami darbai Lietuvo
   statusas: verified
   pagrindžia:
     - t-003
+
 - c-002
   santrauka: 'P. Šležas 1930 m. redagavo kolektyvinę monografiją apie Vytautą Didįjį.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -85,6 +106,7 @@ P. Šležas minimas kaip autorius ir redaktorius; jam priskiriami darbai Lietuvo
   statusas: verified
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'P. Šležas 1937 m. leidinyje „Naujoji Romuva“ paskelbė straipsnį „Lietuvos krikštas“.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -100,9 +122,3 @@ P. Šležas minimas kaip autorius ir redaktorius; jam priskiriami darbai Lietuvo
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/apsikarūnavimas]]
-- [[objektai/zodynas/christianizacija]]
-- [[objektai/zodynas/monografija]]

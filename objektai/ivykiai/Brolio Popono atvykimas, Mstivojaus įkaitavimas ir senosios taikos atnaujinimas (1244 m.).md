@@ -45,6 +45,12 @@ Nenurodyta
 - t-001
   global_id: t-62755
   teiginys: '1244 m. atvykus magistrui Poponui ir pagalbai iš Vokietijos bei Austrijos, Sventopelkas pabandė susitaikyti su broliais ir senoji taika buvo atnaujinta.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra rišlus, enciklopedinis ir paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Austrija; mentioned_place: Krokuva; mentioned_place: Kulmas; mentioned_place: Lenkija; mentioned_place: Prūsija; mentioned_place: Santyras; mentioned_place: Vokietija'
+  temporaliniai_duomenys: 'įvykio data: 1244 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra rišlus, enciklopedinis ir paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -76,8 +82,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Sventopelkas]]
-- [[objektai/zodynas/magistras]]

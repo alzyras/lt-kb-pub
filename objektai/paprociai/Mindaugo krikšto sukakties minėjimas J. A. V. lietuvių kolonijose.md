@@ -4,9 +4,10 @@ pavadinimas: 'Mindaugo krikšto sukakties minėjimas J. A. V. lietuvių kolonijo
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
+  - '1251 m.'
   - '1951 m.'
-date_start: '1951'
-date_end: ''
+date_start: '1251'
+date_end: '1951'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -14,6 +15,7 @@ tags:
   - krikštas
   - paprotys
 amziai:
+  - 'XIII'
   - 'XX'
 ---
 # Mindaugo krikšto sukakties minėjimas J. A. V. lietuvių kolonijose (krikštas)
@@ -48,6 +50,11 @@ Nenurodyta
 - t-001
   global_id: t-31530
   teiginys: '1951 m. J. A. V. lietuvių kolonijose buvo dėmesingai švenčiama Mindaugo krikšto 700 metų sukaktis.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie minimą paprotį ir remiasi citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]'
+  temporaliniai_duomenys: 'įvykio data: 700 m; įvykio data: 1251 m.; įvykio data: 1951 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie minimą paprotį ir remiasi citata.'
   pagrindžia:
     - c-001
 
@@ -70,9 +77,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
-- [[objektai/ivykiai/Mindaugo ir Livonijos ordino taika bei Mindaugo krikštas (1250 m. gale – 1251 m. pradžia)]]

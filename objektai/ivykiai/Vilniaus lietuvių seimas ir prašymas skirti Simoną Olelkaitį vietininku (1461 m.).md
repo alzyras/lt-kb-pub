@@ -36,6 +36,14 @@ Nenurodyta
 - t-001
   global_id: t-185653
   teiginys: '1461 m. Vilniaus seime Lietuvos luomai pareiškė, kad visuomenė gali būti rami tik karaliui asmeniškai valdant Lietuvą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata palaiko luomų poziciją, bet teiginį reikia sukonkretinti.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos luomai|Lietuvos luomai]]; mentioned_object: [[objektai/zodynas/luomai|luomai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1461 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko luomų poziciją, bet teiginį reikia sukonkretinti.'
   pagrindžia:
     - c-001
 
@@ -43,6 +51,14 @@ Nenurodyta
 - t-002
   global_id: t-185654
   teiginys: '1461 m. Vilniaus seime Lietuvos luomai prašė paskirti Simoną Olelkaitį Lietuvos vietininku.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pirminis teiginys OCR triukšmingas; citata palaiko glaustą faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos luomai|Lietuvos luomai]]; mentioned_object: [[objektai/zodynas/luomai|luomai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Lietuva; mentioned_place: Sluckas; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1461 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pirminis teiginys OCR triukšmingas; citata palaiko glaustą faktą.'
   pagrindžia:
     - c-002
 
@@ -94,13 +110,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/zodynas/luomai]]
-- [[objektai/zodynas/vietininkas]]
-- [[objektai/grupes/Lietuvos luomai]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/asmenys/Simonas Olelkaitis]]
-- [[objektai/grupes/Vilniaus lietuvių seimas|Vilniaus lietuvių seimas (seimas, XV a.)]]

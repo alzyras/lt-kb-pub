@@ -34,6 +34,8 @@ Nenurodyta
 - t-001
   global_id: t-09541
   teiginys: 'Vilniuje Algirdą džiaugsmingai pasitiko žmonės, senovės papročiu plodami rankomis ir giedodami „Lado! Lado!“.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie paprotį ir atitinka citatos informaciją.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -41,6 +43,8 @@ Nenurodyta
 - t-002
   global_id: t-09542
   teiginys: 'Vilniuje Algirdą pasitikę žmonės plojo rankomis ir giedojo „Lado! Lado!“.'
+  sudarymo_pagrindimas: 'Reikia įvardyti, ką ir kur pasitiko pasitinkantieji.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -59,7 +63,3 @@ Nenurodyta
   pagrindžia:
     - t-001
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]

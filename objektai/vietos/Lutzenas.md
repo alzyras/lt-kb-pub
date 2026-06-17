@@ -22,6 +22,8 @@ Li­ vonijos pilys: Marienhausenas, Lutzenas, Švarcenburgas, Rosytė, Dinaburga
 - t-001
   global_id: t-86302
   teiginys: 'Lutzenas Balinskio pateiktame vietovių sąraše įvardytas kaip viena iš Livonijos pilių.'
+  sudarymo_pagrindimas: 'Citata palaiko tik sąrašo faktą, todėl formuluotė turi būti glausta ir neutrali.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Podolė; mentioned_place: Viena; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

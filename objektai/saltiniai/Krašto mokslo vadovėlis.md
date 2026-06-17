@@ -22,6 +22,8 @@ Vireliūno, KRAŠTO MOKSLO VADOVĖLIS.
 - t-001
   global_id: t-96069
   teiginys: 'A. Vireliūno „Krašto mokslo vadovėlis“ buvo skirtas III pradžios mokyklos skyriui.'
+  sudarymo_pagrindimas: 'Pradinis teiginys yra bibliografinis fragmentas, citata leidžia sudaryti pilną faktinį sakinį.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/A. Vireliūnas|A. Vireliūnas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

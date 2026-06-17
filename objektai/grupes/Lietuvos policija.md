@@ -21,6 +21,8 @@ Lietuvos policijai pasiekus pergalių prieš didėjantį organizuotą nusikalsta
 - t-001
   global_id: t-26342
   teiginys: 'Lietuvos policijai pasiekus pergalių prieš didėjantį organizuotą nusikalstamumą, nusikaltėlių grupės emigravo paskui tautiečius.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, susijęs su Lietuvos policijos veikla ir paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/posakiai/„Made in Lithuania“|„Made in Lithuania“]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -40,7 +42,3 @@ Lietuvos policijai pasiekus pergalių prieš didėjantį organizuotą nusikalsta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/posakiai/„Made in Lithuania“]]

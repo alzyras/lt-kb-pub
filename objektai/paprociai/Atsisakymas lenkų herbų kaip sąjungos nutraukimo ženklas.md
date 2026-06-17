@@ -33,6 +33,11 @@ Nenurodyta
 - t-001
   global_id: t-185910
   teiginys: 'Daugelis žymių didikų atsisakė lenkų herbų, norėdami parodyti, kad nutraukia senąją sąjungą su lenkais.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytą paprotinį veiksmą ir jo prasmę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]'
   pagrindžia:
     - c-001
 
@@ -53,7 +58,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]

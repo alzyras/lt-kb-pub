@@ -43,6 +43,11 @@ Nenurodyta
 - t-001
   global_id: t-100033
   teiginys: 'Apie 1396 m. Vytautas atėmė Kijevą iš Vladimiro Algirdaičio, pasiliko Žitomiro ir Ovručio valsčius, o Kijevą atidavė Skirgailai mainais už Polocką.'
+  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytus veiksmus, vietas ir mainų rezultatą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Teodoras|Teodoras]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Kijevas; mentioned_place: Podolė; mentioned_place: Polockas; mentioned_place: Žitomiras'
+  temporaliniai_duomenys: 'įvykio data: 1396 m.; įvykio data: apie 1396 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
+  temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia citatoje nurodytus veiksmus, vietas ir mainų rezultatą.'
   pagrindžia:
     - c-001
 
@@ -64,11 +69,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Gediminas]]
-- [[objektai/asmenys/Skirgaila]]
-- [[objektai/asmenys/Teodoras]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/asmenys/Vladimiras Algirdaitis]]

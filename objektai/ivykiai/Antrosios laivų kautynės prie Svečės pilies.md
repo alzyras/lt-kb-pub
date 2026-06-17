@@ -39,6 +39,9 @@ Nenurodyta
 - t-001
   global_id: t-62198
   teiginys: 'Prie Svečės pilies Sventopelkas su ginklanešiais ir 10 laivų vėl užpuolė Elbingo brolių laivus.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pradinė formuluotė aprašo kontekstą, ne patį įvykį; citata palaiko glaustesnį kautynių faktą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Elbingas; mentioned_place: Kulmas; mentioned_place: Svečė'
   pagrindžia:
     - c-001
 
@@ -64,10 +67,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Fridrichas]]
-- [[objektai/daiktai/Laivai]]
-- [[objektai/asmenys/Sventopelkas]]
-- [[objektai/zodynas/ginklanešiai]]

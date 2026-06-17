@@ -18,7 +18,7 @@ amziai:
 
 ## Santrauka
 
-„Sukilėlių“ sėkmė Lietuvoje atrodė kaip moralinė satisfakcija už prarastą Vilnių.
+„Sukilėlių“ sėkmė atrodė kaip moralinė satisfakcija už prarastą Vilnių.
 
 ## Teiginiai
 
@@ -26,9 +26,15 @@ amziai:
 - t-001
   global_id: t-77800
   teiginys: '„Sukilėlių“ sėkmė Lietuvoje atrodė kaip moralinė satisfakcija už prarastą Vilnių.'
+  sudarymo_pagrindimas: 'Teiginys palaikomas, bet perrašytas kaip aiškesnis vientisas sakinys be OCR lūžio.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1923 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys palaikomas, bet perrašytas kaip aiškesnis vientisas sakinys be OCR lūžio.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/ivykiai/Klaipėdos prisijungimas prie Lietuvos (1923 m.).md#claim-t-23328|Klaipėdos prisijungimas prie Lietuvos (1923 m.)]]: 1923 m. sausio 17 d. Vyriausias Mažosios Lietuvos gelbėjimo komitetas paskelbė sprendimą prisijungti prie Lietuvos autonominėmis teisėmis.
+- susijęs iš [[objektai/ivykiai/Klaipėdos prisijungimas prie Lietuvos (1923 m.).md#claim-t-26646|Klaipėdos prisijungimas prie Lietuvos (1923 m.)]]: 1923 m. sausio 17 d. Vyriausias Mažosios Lietuvos gelbėjimo komitetas nutarė prisijungti prie Lietuvos autonominėmis teisėmis ir paprašė karinės bei finansinės pagalbos.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -44,8 +50,3 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/ivykiai/Klaipėdos prisijungimas prie Lietuvos (1923 m.)]]

@@ -42,6 +42,8 @@ Nenurodyta
 - t-001
   global_id: t-77948
   teiginys: 'Po LDK branduolio žemių prijungimo prie Rusijos valstiečiams didžiausia blogybė buvo 25 metų rekrutų tarnyba Rusijos kariuomenėje.'
+  sudarymo_pagrindimas: 'Citata geriau pagrindžia teiginį apie rekrutų prievolę, kuri yra užrašo objektas.'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Užnemunė'
   pagrindžia:
     - c-001
 
@@ -64,8 +66,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/rekrutų prievolė]]
-- [[objektai/zodynas/rekrutų prievolė rekrutai]]

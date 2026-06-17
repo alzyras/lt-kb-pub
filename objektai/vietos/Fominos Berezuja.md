@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Vytautui užėmus Viazmą, Fominos Berezujos kunigaikščiai išsigando ir geruoju prisidėjo prie Vytauto.
+Nusigandę Fominos Berezujos kunigaikš­ čiai, patys geruoju prisidėjo prie Vytauto.
 
 ## Teiginiai
 
@@ -20,6 +20,8 @@ Vytautui užėmus Viazmą, Fominos Berezujos kunigaikščiai išsigando ir geruo
 - t-001
   global_id: t-36221
   teiginys: 'Vytautui užėmus Viazmą, Fominos Berezujos kunigaikščiai išsigando ir geruoju prisidėjo prie Vytauto.'
+  sudarymo_pagrindimas: 'Perrašyta, kad neliktų neaiškios nuorodos „prie jo“ ir būtų įtrauktas citatoje nurodytas kontekstas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Sviatoslavas|Sviatoslavas]]; mentioned_place: Maskva; mentioned_place: Smolenskas'
   pagrindžia:
     - c-001
 

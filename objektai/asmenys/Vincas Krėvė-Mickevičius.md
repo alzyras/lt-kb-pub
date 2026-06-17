@@ -14,7 +14,7 @@ tags:
 
 ## Santrauka
 
-Po J. Stalino mirties atšilimo laikotarpiu buvo reabilituotas lietuvių literatūros klasikas Vincas Krėvė-Mickevičius. J. Stalino valdymo metais iš bibliotekų buvo pašalintos Vinco Krėvės-Mickevičiaus ir kitų lietuvių autorių knygos.
+Iš bibliotekų pašalintos žymių lietuvių rašytojų Vinco Kudirkos, Maironio, Vinco Krėvės-Mickevičiaus ir kitų autorių knygos, tautinio pobūdžio literatūra. Krėvė-Mickevičius, išspausdinta jo, Jurgio Baltrušaičio, Balio Sruogos, Maironio, Vinco Mykolaičio-Putino ir kt.
 
 ## Teiginiai
 
@@ -22,6 +22,8 @@ Po J. Stalino mirties atšilimo laikotarpiu buvo reabilituotas lietuvių literat
 - t-001
   global_id: t-19315
   teiginys: 'Po J. Stalino mirties atšilimo laikotarpiu buvo reabilituotas lietuvių literatūros klasikas Vincas Krėvė-Mickevičius.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys ir atitinka citatos turinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/atšilimas|atšilimas]]; mentioned_person: [[objektai/asmenys/Mikalojus Konstantinas Čiurlionis|Mikalojus Konstantinas Čiurlionis]]'
   pagrindžia:
     - c-002
 
@@ -29,6 +31,8 @@ Po J. Stalino mirties atšilimo laikotarpiu buvo reabilituotas lietuvių literat
 - t-002
   global_id: t-19316
   teiginys: 'J. Stalino valdymo metais iš bibliotekų buvo pašalintos Vinco Krėvės-Mickevičiaus ir kitų lietuvių autorių knygos.'
+  sudarymo_pagrindimas: 'Citata leidžia pridėti laikotarpį ir suformuluoti tikslesnį enciklopedinį sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -74,10 +78,3 @@ Po J. Stalino mirties atšilimo laikotarpiu buvo reabilituotas lietuvių literat
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/atšilimas]]
-- [[objektai/zodynas/destalinizacija atšilimo laikotarpis]]
-- [[objektai/zodynas/destalinizacija postalininis metas atšilimo laikotarpis]]

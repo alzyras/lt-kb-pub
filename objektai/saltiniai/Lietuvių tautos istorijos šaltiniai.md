@@ -20,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-Kai kurie Dusburgiečio kronikos fragmentai buvo verčiami ir į lietuvių kalbą.
+Dusburgietis teigia, kad kai kurie Dusburgiečio kronikos fragmentai buvo verčiami ir į lietuvių kalbą.
 
 ## Teiginiai
 
@@ -28,6 +28,11 @@ Kai kurie Dusburgiečio kronikos fragmentai buvo verčiami ir į lietuvių kalb�
 - t-001
   global_id: t-61136
   teiginys: 'Kai kurie Dusburgiečio kronikos fragmentai buvo verčiami ir į lietuvių kalbą.'
+  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Prūsai'
+  temporaliniai_duomenys: 'įvykio data: iki 1324 m.; įvykio data: 1324 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'claim_quality_pipeline deterministic repair'
   pagrindžia:
     - c-001
 

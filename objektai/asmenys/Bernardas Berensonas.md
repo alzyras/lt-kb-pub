@@ -17,7 +17,7 @@ periodo_grupes: []
 
 ## Santrauka
 
-Bernardas Berensonas buvo žymus italų renesanso tapybos žinovas, kilęs iš Butrimonių apylinkių. Bernardas Berensonas buvo žymus italų renesanso tapybos žinovas, kilęs iš Butrimonių.
+nuo kurių kilęs ir įžymus italų renesanso tapybos žinovas Bernardas Berensonas (Bernhard Valvrojenski, g.
 
 ## Teiginiai
 
@@ -25,6 +25,11 @@ Bernardas Berensonas buvo žymus italų renesanso tapybos žinovas, kilęs iš B
 - t-001
   global_id: t-101637
   teiginys: 'Bernardas Berensonas buvo žymus italų renesanso tapybos žinovas, kilęs iš Butrimonių apylinkių.'
+  sudarymo_pagrindimas: 'Reikia sklandesnės formuluotės apie kilmę ir asmens vaidmenį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Litvakai|Litvakai]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_person: [[objektai/asmenys/Bernardas|Bernardas]]; mentioned_person: [[objektai/asmenys/Christiaan Barnard|Christiaan Barnard]]; mentioned_person: [[objektai/asmenys/David Baltimore|David Baltimore]]; mentioned_person: [[objektai/asmenys/Gertrude Ellion|Gertrude Ellion]]; mentioned_person: [[objektai/asmenys/Louis Washkansky|Louis Washkansky]]; mentioned_person: [[objektai/asmenys/Marcinkevičius|Marcinkevičius]]; mentioned_person: [[objektai/asmenys/Sydney Brenner|Sydney Brenner]]; mentioned_place: Afrika; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1865 m.; įvykio data: 1910 m.; įvykio data: 1927 m.; įvykio data: 1967 m.; įvykio data: 1975 m.; įvykio data: 1988 m.; įvykio data: 2002 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia sklandesnės formuluotės apie kilmę ir asmens vaidmenį.'
   pagrindžia:
     - c-001
 
@@ -32,9 +37,12 @@ Bernardas Berensonas buvo žymus italų renesanso tapybos žinovas, kilęs iš B
 - t-002
   global_id: t-101638
   teiginys: 'Bernardas Berensonas buvo žymus italų renesanso tapybos žinovas, kilęs iš Butrimonių.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Litvakai|Litvakai]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_person: [[objektai/asmenys/Bernardas|Bernardas]]; mentioned_person: [[objektai/asmenys/Christiaan Barnard|Christiaan Barnard]]; mentioned_person: [[objektai/asmenys/David Baltimore|David Baltimore]]; mentioned_person: [[objektai/asmenys/Gertrude Ellion|Gertrude Ellion]]; mentioned_person: [[objektai/asmenys/Louis Washkansky|Louis Washkansky]]; mentioned_person: [[objektai/asmenys/Marcinkevičius|Marcinkevičius]]; mentioned_person: [[objektai/asmenys/Sydney Brenner|Sydney Brenner]]; mentioned_place: Afrika; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1865 m.; įvykio data: 1910 m.; įvykio data: 1927 m.; įvykio data: 1967 m.; įvykio data: 1975 m.; įvykio data: 1988 m.; įvykio data: 2002 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
-
+- susijęs iš Butrimonys: Italų renesanso tapybos žinovas Bernardas Berensonas buvo kilęs iš Butrimonių.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -61,16 +69,3 @@ Bernardas Berensonas buvo žymus italų renesanso tapybos žinovas, kilęs iš B
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/asmenys/Bernardas]]
-- [[objektai/asmenys/Christiaan Barnard]]
-- [[objektai/asmenys/David Baltimore]]
-- [[objektai/asmenys/Gertrude Ellion]]
-- [[objektai/grupes/Litvakai]]
-- [[objektai/asmenys/Louis Washkansky]]
-- [[objektai/asmenys/Marcinkevičius]]
-- [[objektai/asmenys/Sydney Brenner]]
-- [[objektai/zodynas/Adynos|adynos]]

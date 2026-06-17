@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Dėl sąmyšio anuose kraštuose Vaišvilkas Šventojo Kalno nepasiekė. Vaišvilkas iškeliavo į Šventąjį Kalną, bet jo nepasiekė dėl didelio sąmyšio anuose kraštuose. Po trejų metų vienuolyne Vaišvilkas iškeliavo į Šventąjį Kalną ir buvo Grigorijaus palaimintas.
+Vaišvilkas leidosi į Šventąjį Kalną. Dėl sąmyšio anuose kraštuose Vaišvilkas Šventojo Kalno nepasiekė.
 
 ## Teiginiai
 
@@ -20,6 +20,9 @@ Dėl sąmyšio anuose kraštuose Vaišvilkas Šventojo Kalno nepasiekė. Vaišvi
 - t-001
   global_id: t-187407
   teiginys: 'Dėl sąmyšio anuose kraštuose Vaišvilkas Šventojo Kalno nepasiekė.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Sakinys yra pilnas, aiškus ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Rūbai|Rūbai]]'
   pagrindžia:
     - c-001
 
@@ -27,6 +30,9 @@ Dėl sąmyšio anuose kraštuose Vaišvilkas Šventojo Kalno nepasiekė. Vaišvi
 - t-002
   global_id: t-187408
   teiginys: 'Vaišvilkas iškeliavo į Šventąjį Kalną, bet jo nepasiekė dėl didelio sąmyšio anuose kraštuose.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Sakinys aiškiai perteikia citatoje nurodytą veiksmą ir rezultatą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Rūbai|Rūbai]]'
   pagrindžia:
     - c-001
 
@@ -34,6 +40,11 @@ Dėl sąmyšio anuose kraštuose Vaišvilkas Šventojo Kalno nepasiekė. Vaišvi
 - t-003
   global_id: t-187692
   teiginys: 'Po trejų metų vienuolyne Vaišvilkas iškeliavo į Šventąjį Kalną ir buvo Grigorijaus palaimintas.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Sakinys gramatiškas ir tiksliai apibendrina citatos informaciją.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Rūbai|Rūbai]]; mentioned_person: [[objektai/asmenys/Levas (Haličo kunigaikštis)|Levas (Haličo kunigaikštis)]]'
   pagrindžia:
     - c-002
 

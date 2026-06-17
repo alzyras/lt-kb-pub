@@ -30,6 +30,7 @@ Pašuto : Obrazovanie litovskogo gosudarstva (išl. Pašuto, V.
 - t-001
   global_id: t-31046
   teiginys: 'V. T. Pašuto parašė darbą „Choziajstvo i technika srednevekovoj Litvy“.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Skydai|Skydai]]; mentioned_place: Krokuva; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -37,9 +38,19 @@ Pašuto : Obrazovanie litovskogo gosudarstva (išl. Pašuto, V.
 - t-002
   global_id: t-31047
   teiginys: 'V. T. Pašuto parašė veikalą „Obrazovanie litovskogo gosudarstva“, kurio lietuviškas vertimas išėjo pavadinimu „Lietuvos valstybės susidarymas“.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/Z. Ivinskis|Z. Ivinskis]]; mentioned_place: Kijevas; mentioned_place: Maskva'
   pagrindžia:
     - c-002
-
+- susijęs iš Pašuto, V. T. Očerki po istorii Galicko-Volynskoj Rusi: V. T. Pašuto „Očerki po istorii Galicko-Volynskoj Rusi“ išleista 1950 m. Maskvoje.
+- susijęs iš V. T. Pašuto, Očerki po istorii Galicko-Volynskoj Rusi: V. T. Pašuto „Očerki po istorii Galicko-Volynskoj Rusi“ išleista Maskvoje 1950 m.
+- susijęs iš V. T. Pašuto, Očerki po istorii Galicko-Volynskoj Rusi: V. T. Pašuto veikalas „Očerki po istorii Galicko-Volynskoj Rusi“ buvo išleistas 1950 m.
+- susijęs iš Пашуто В. Т. Борьба прусского народа за независимость (до конца XIII в.): V. T. Pašuto straipsnis „Борьба прусского народа за независимость (до конца XIII в.)“ paskelbtas žurnale „История СССР“ 1958 m. Nr. 6.
+- susijęs iš Пашуто В. Т. Гродно в Хронике Петра Дусбурга: V. T. Pašuto straipsnis „Гродно в Хронике Петра Дусбурга“ paskelbtas rinkinyje „Культура древней Руси“ 1966 m.
+- susijęs iš Пашуто В. Т. Некоторые общие вопросы летописного источниковедения: V. T. Pašuto straipsnis „Некоторые общие вопросы летописного источниковедения“ paskelbtas rinkinio „Источниковедение отечественной истории“ 1-ajame leidime 1973 m.
+- susijęs iš Пашуто В. Т. Образование Литовского государства: V. T. Pašuto veikalas „Образование Литовского государства“ išleistas 1959 m.
+- susijęs iš Пашуто В. Т. Помезания «Помезанская правда» как исторический источник изучения общественного и политического строя Помезании XIII—XIV вв: V. T. Pašuto veikalas apie „Помезанская правда“ kaip XIII-XIV a. Pomezanijos santvarkos šaltinį išleistas 1955 m.
+- susijęs iš Пашуто В. Т. Реваншисты: V. T. Pašuto veikalas „Реваншисты — псевдоисторики России“ išleistas 1971 m.
+- susijęs iš Пашуто В. Т. Христбургский (Кишпорский) договор 1249 г. как исторический источник: V. T. Pašuto straipsnis „Христбургский (Кишпорский) договор 1249 г. как исторический источник“ paskelbtas „Проблемы источниковедения“ 7-ajame tome.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -76,7 +87,3 @@ Pašuto : Obrazovanie litovskogo gosudarstva (išl. Pašuto, V.
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Skydai]]

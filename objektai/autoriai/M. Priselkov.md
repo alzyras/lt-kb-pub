@@ -29,6 +29,9 @@ Priselkova, Maskva 1950. Priselkov, M.
 - t-001
   global_id: t-30846
   teiginys: 'M. D. Priselkovas rekonstravo Troickajos metraštį, 1950 m. išleistą Maskvoje.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/J. Totoraitis|J. Totoraitis]]; mentioned_place: Kaunas; mentioned_place: Maskva'
+  temporaliniai_duomenys: 'įvykio data: 1950 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 
@@ -36,6 +39,7 @@ Priselkova, Maskva 1950. Priselkov, M.
 - t-002
   global_id: t-30847
   teiginys: 'M. Priselkovas kartu su M. Fasmeriu paskelbė darbą apie V. N. Beneševičiaus ištraukas iš XIV a. Rusios bažnyčios istorijos.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/M. Fasmer|M. Fasmer]]'
   pagrindžia:
     - c-001
 

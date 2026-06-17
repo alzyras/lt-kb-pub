@@ -43,6 +43,8 @@ Nenurodyta
 - t-001
   global_id: t-87012
   teiginys: 'Pabaisko fundacijos privilegija buvo parašyta lotynų kalba ant daugiau negu uolekties ilgio ir pločio pergamento.'
+  sudarymo_pagrindimas: 'Citata palaiko dokumento medžiagą, kalbą ir dydį; pašalinti nutrūkę fragmentai.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_object: [[objektai/zodynas/fundacija|fundacija]]; mentioned_object: [[objektai/zodynas/tribunolas|tribunolas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -50,6 +52,8 @@ Nenurodyta
 - t-002
   global_id: t-87014
   teiginys: 'Žygimanto sudaryta Pabaisko fundacijos privilegija buvo įrašyta į LDK Vyriausiojo Tribunolo Viešųjų reikalų knygas.'
+  sudarymo_pagrindimas: 'Teiginys gramatiškas ir tiesiogiai paremtas citatos informacija.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/fundacija|fundacija]]; mentioned_object: [[objektai/zodynas/globėjas|globėjas]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_object: [[objektai/zodynas/tribunolas|tribunolas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Smolenskas; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -98,14 +102,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lotynai]]
-- [[objektai/zodynas/fundacija]]
-- [[objektai/zodynas/globėjas]]
-- [[objektai/zodynas/kunigas]]
-- [[objektai/zodynas/tribunolas]]
-- [[objektai/asmenys/Žygimantas]]
-- [[objektai/asmenys/Ignotas Houvaitas]]
-- [[objektai/zodynas/uolektis]]

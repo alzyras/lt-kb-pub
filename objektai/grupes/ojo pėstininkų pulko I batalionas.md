@@ -21,6 +21,8 @@ tags:
 - t-001
   global_id: t-80648
   teiginys: '2-ojo pėstininkų pulko I batalionas prie Panevėžio rinktinės prisijungė jau išlaisvinus Panevėžį.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys su aiškiu subjektu, predikatu ir citatos palaikomu faktu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_person: [[objektai/asmenys/Antanas Šukys|Antanas Šukys]]; mentioned_place: Kaimas; mentioned_place: Pagiriai'
   pagrindžia:
     - c-001
 
@@ -44,9 +46,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Antanas (vaistininkas)]]
-- [[objektai/asmenys/Antanas Šukys]]
-- [[objektai/grupes/Lietuviai]]

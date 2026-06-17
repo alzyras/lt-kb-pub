@@ -15,6 +15,7 @@ tags:
   - karalius
   - miestas
   - tauta
+  - vyskupas
 amziai:
   - 'XVI'
 periodo_grupes:
@@ -24,7 +25,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Ulrikas Hozijus turėjo prie dominikonų Šv. Dvasios bažnyčios pastatyti viešą špitolę ir ją išlaikyti. Ulrikas Hozijus iki mirties buvo Vilniaus monetų kalyklos prižiūrėtojas. Ulrikas Hozijus ragino pastatyti tiltą per Vilijos upę ir gavo pavedimą jį nutiesti savo lėšomis.
+Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingiau ir karaliaus iždui teikė nemaža pajamų, kaip ma­ tyti iš Lietuvos maršalkos Chreptavičiaus ataskaitos52. Malūnas, iki mūsų laikų vadin­ tas Karališkuoju, irgi buvo pastatytas anuomet, nes karalius 1515 metais leido Ulrikui Hošui (Hozijui), Vilniaus pilininkui ir LDK monetų kalyklos valdytojui, statytis savo paties lėšo­ mis, leisdamas imti trečią grūdą iki gyvos. Tas pats Ulrikas visą laiką iki pat mirties buvo Vil­ niaus monetų kalyklos prižiūrėtojas.
 
 ## Teiginiai
 
@@ -32,6 +33,8 @@ Ulrikas Hozijus turėjo prie dominikonų Šv. Dvasios bažnyčios pastatyti vie�
 - t-001
   global_id: t-87362
   teiginys: 'Ulrikas Hozijus turėjo prie dominikonų Šv. Dvasios bažnyčios pastatyti viešą špitolę ir ją išlaikyti.'
+  sudarymo_pagrindimas: 'Teiginys aiškus, faktinis ir paremtas citata.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -39,6 +42,11 @@ Ulrikas Hozijus turėjo prie dominikonų Šv. Dvasios bažnyčios pastatyti vie�
 - t-002
   global_id: t-87363
   teiginys: 'Ulrikas Hozijus iki mirties buvo Vilniaus monetų kalyklos prižiūrėtojas.'
+  sudarymo_pagrindimas: 'Teiginys pilnas ir tiesiogiai paremtas citatos sakiniu.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Karališkasis malūnas Vilniuje; mentioned_place: Krokuva; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1536 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys pilnas ir tiesiogiai paremtas citatos sakiniu.'
   pagrindžia:
     - c-006
 
@@ -46,6 +54,8 @@ Ulrikas Hozijus turėjo prie dominikonų Šv. Dvasios bažnyčios pastatyti vie�
 - t-003
   global_id: t-87364
   teiginys: 'Ulrikas Hozijus ragino pastatyti tiltą per Vilijos upę ir gavo pavedimą jį nutiesti savo lėšomis.'
+  sudarymo_pagrindimas: 'Citata remia Hozijaus raginimą, pavedimą ir finansavimo sąlygą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Druska|Druska]]; mentioned_object: [[objektai/daiktai/Statinės|Statinės]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_place: Vilija; mentioned_place: Vilnius'
   pagrindžia:
     - c-007
 
@@ -53,6 +63,12 @@ Ulrikas Hozijus turėjo prie dominikonų Šv. Dvasios bažnyčios pastatyti vie�
 - t-004
   global_id: t-87365
   teiginys: '1515 m. karalius leido Ulrikui Hozijui savo lėšomis statytis malūną ir iki gyvos galvos imti trečią grūdą.'
+  sudarymo_pagrindimas: 'Citata palaiko papildomą esminę sąlygą, o sakinys tampa tikslesnis.'
+  susije_objektai: 'territory: Vilnius; mentioned_object: [[objektai/posakiai/Iki gyvos galvos|Iki gyvos galvos]]; mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_object: [[objektai/zodynas/Pilininkas|Pilininkas]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Ulrikas Hozijus|Ulrikas Hozijus]] buvo valdovas Vilnius'
+  temporaliniai_duomenys: 'valdymo pabaiga: 1515 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Ulrikas Hozijus buvo valdovas Vilnius“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko papildomą esminę sąlygą, o sakinys tampa tikslesnis.'
   pagrindžia:
     - c-005
 
@@ -60,6 +76,11 @@ Ulrikas Hozijus turėjo prie dominikonų Šv. Dvasios bažnyčios pastatyti vie�
 - t-005
   global_id: t-87366
   teiginys: '1536 m. rugpjūčio 6 d. Ulrikui Hozijui suteikta teisė rinkti muitą iš praeivių tiltu per Vilijos upę.'
+  sudarymo_pagrindimas: 'Teiginys pilnas ir paremtas privilegijos antrašte citatoje.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_object: [[objektai/posakiai/Viešpaties vardu Amen|Viešpaties vardu Amen]]; mentioned_object: [[objektai/zodynas/kaštelionas|kaštelionas]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Naugardukas; mentioned_place: Vilija; mentioned_place: Vilnius; mentioned_place: Vitebskas'
+  temporaliniai_duomenys: 'įvykio data: 1536 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys pilnas ir paremtas privilegijos antrašte citatoje.'
   pagrindžia:
     - c-001
 
@@ -67,6 +88,8 @@ Ulrikas Hozijus turėjo prie dominikonų Šv. Dvasios bažnyčios pastatyti vie�
 - t-006
   global_id: t-87367
   teiginys: 'Ulrikas Hozijus greitai ir rūpestingai pastatė tiltą per Vilijos upę prie Vilniaus savo didelėmis lėšomis.'
+  sudarymo_pagrindimas: 'Teiginys pilnas, gramatinis ir tiesiogiai atitinka citatos informaciją.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilija; mentioned_place: Vilnius'
   pagrindžia:
     - c-004
 
@@ -74,9 +97,20 @@ Ulrikas Hozijus turėjo prie dominikonų Šv. Dvasios bažnyčios pastatyti vie�
 - t-007
   global_id: t-87368
   teiginys: 'Ulriko Hozijaus prižiūrima Vilniaus monetų kalykla veikė vis energingiau ir teikė nemažai pajamų karaliaus iždui.'
+  sudarymo_pagrindimas: 'Teiginys pilnas, gramatinis ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/maršalka|maršalka]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Lietuva; mentioned_place: Vilniaus monetų kalykla; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
-
+- susijęs iš [[objektai/grupes/Dominikonų ordinas.md#claim-t-172092|Dominikonų ordinas]]: Ulrikas Hozijus pradėjo statyti prieglaudą prie dominikonų vienuolyno ir spėjo išmūryti nemažą jos dalį.
+- susijęs iš [[objektai/ivykiai/Vilijos tilto prie Vilniaus pastatymas ir remontas Hozijų rūpesčiu.md#claim-t-86926|Vilijos tilto prie Vilniaus pastatymas ir remontas Hozijų rūpesčiu]]: Ulrikas Hozijus prie Vilniaus pastatė ir sutvirtino tiltą per Viliją, o iš nustatyto tilto mokesčio susigrąžino statybos išlaidas.
+- susijęs iš Žygimanto Senojo privilegija dėl Vilijos tilto muito Ulrikui Hozijui ir Švenčiausiosios Trejybės prieglaudai (1536 m. rugpjūčio 6 d.): Žygimanto Senojo tarėjai apžiūrėjo vietą prie Šv. Dvasios prieglaudos, kurią Ulrikas Hozijus buvo pradėjęs mūryti.
+- susijęs iš Žygimanto Senojo privilegija dėl Vilijos tilto muito Ulrikui Hozijui ir Švenčiausiosios Trejybės prieglaudai (1536 m. rugpjūčio 6 d.): Ulrikas Hozijus prie Vilniaus pastatė ir sutvirtino tiltą per Vilijos upę, o iš tilto muito susigrąžino statybos išlaidas.
+- susijęs iš Ulriko Hozijaus tiltas per Viliją: Ulrikas Hozijus pradėjo mūryti tiltą per Viliją ir špitolę, o po jo mirties statybą užbaigė sūnus Jonas.
+- susijęs iš Vilniaus tiltas per Viliją (sujungti pirminiai pavadinimai Ulriko Hozijaus tiltas per Viliją; Vilniaus tiltas per Viliją): Ulrikas Hozijus įvykdė karaliaus pavedimą: per Viliją pastatė mūrinį tiltą, o po jo mirties darbus užbaigė sūnus Jonas.
+- susijęs iš Vilniaus tiltas per Viliją (sujungti pirminiai pavadinimai Ulriko Hozijaus tiltas per Viliją; Vilniaus tiltas per Viliją): Ulrikas Hozijus didelėmis lėšomis pastatė ir sutvirtino tiltą per Viliją prie Vilniaus.
+- susijęs iš Vilniaus tiltas per Viliją: Ulrikas Hozijus didelėmis lėšomis pastatė ir sutvirtino tiltą per Viliją prie Vilniaus.
+- susijęs iš Šv. Dvasios prieglauda Vilniuje: Ulrikas Hozijus pradėjo mūryti prieglaudą prie dominikonų vienuolyno, bet mirė jos nebaigęs.
+- susijęs iš Šv. Dvasios prieglauda Vilniuje: Valdovo tarėjams buvo pavesta atnaujinti Ulriko Hozijaus pradėtą Šv. Dvasios prieglaudą ir apžiūrėti, kaip ją būtų galima pabaigti.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -317,22 +351,4 @@ Ulrikas Hozijus turėjo prie dominikonų Šv. Dvasios bažnyčios pastatyti vie�
     - t-003
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Antspaudas]]
-- [[objektai/daiktai/Druska]]
-- [[objektai/asmenys/Jonas]]
-- [[objektai/grupes/Lotynai]]
-- [[objektai/daiktai/Malūnas]]
-- [[objektai/zodynas/Pilininkas]]
-- [[objektai/posakiai/Viešpaties vardu Amen]]
-- [[objektai/zodynas/kaštelionas]]
-- [[objektai/zodynas/maršalka]]
-- [[objektai/zodynas/Miera|miera]]
-- [[objektai/zodynas/ponai]]
-- [[objektai/zodynas/seniūnas]]
-- [[objektai/zodynas/vaivada]]
-- [[objektai/posakiai/Iki gyvos galvos]]
-- [[objektai/grupes/Dominikonų ordinas]]
-- [[objektai/ivykiai/Vilijos tilto prie Vilniaus pastatymas ir remontas Hozijų rūpesčiu]]
-- [[objektai/daiktai/Aleksandro laikų Vilniaus monetos ir kalyklos metalai]]
-- [[objektai/zodynas/trečias grūdas]]
+- Ulrikas Hozijus buvo_valdovas [[objektai/vietos/Vilnius]]

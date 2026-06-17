@@ -3,12 +3,17 @@ tipas: autorius
 pavadinimas: 'E. Thunert'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+datos: []
+date_start: ''
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
   - karas
   - mūšis
+amziai: []
+periodo_grupes: []
 ---
 # E. Thunert
 
@@ -22,6 +27,9 @@ Thunert, E.
 - t-001
   global_id: t-30599
   teiginys: 'E. Thunert 1886 m. paskelbė darbą apie 1410 m. Lenkijos ir Vokiečių ordino karą iki 1411 m. vasario.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Dancigas; mentioned_place: Lenkija'
+  temporaliniai_duomenys: 'įvykio data: iki 1411 m.; įvykio data: 1410 m.; įvykio data: apie 1410 m.; įvykio data: 1411 m.; įvykio data: 1886 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   pagrindžia:
     - c-001
 
@@ -44,8 +52,3 @@ Thunert, E.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Vokiečiai]]

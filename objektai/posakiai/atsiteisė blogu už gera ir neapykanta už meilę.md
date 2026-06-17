@@ -38,9 +38,11 @@ Dusburgietis teigia, kad tačiau tas vyras, užmiršęs patirtas malones, atsite
 - t-001
   global_id: t-59080
   teiginys: 'Dusburgietis rašė, kad Glapo mėgtas valdinys Steinavas už patirtas malones atsiteisė blogu už gera ir neapykanta už meilę.'
+  sudarymo_pagrindimas: 'Reikia įvardyti asmenis ir pašalinti neaiškų įvardį „tas vyras“.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_group: [[objektai/grupes/Varmiai|Varmiai]]; mentioned_person: [[objektai/asmenys/Glapas|Glapas]]; mentioned_person: [[objektai/asmenys/Steinavas|Steinavas]]'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/grupes/Varmiai.md#claim-t-78537|Varmiai]]: Glapas, varmių vadas, turėjo mėgstamą valdinį Steinavą, kurį daug kartų buvo gelbėjęs iš mirtino pavojaus.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -57,10 +59,3 @@ Dusburgietis teigia, kad tačiau tas vyras, užmiršęs patirtas malones, atsite
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Notangai]]
-- [[objektai/grupes/Varmiai]]
-- [[objektai/asmenys/Glapas]]
-- [[objektai/asmenys/Steinavas]]

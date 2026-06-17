@@ -3,10 +3,6 @@ tipas: posakis
 pavadinimas: 'Vyresniuosius jis laikąs tėvais, lygius — broliais, o jaunesniuosius — savo vaikais'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-aliases:
-  - 'objektai/posakiai/vyresniuosius jis laikąs tėvais, lygius — broliais, o jaunesniuosius — savo vaikais'
-variantai:
-  - 'vyresniuosius jis laikąs tėvais, lygius — broliais, o jaunesniuosius — savo vaikais'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -24,18 +20,19 @@ tags:
 - Pagrindinė forma: vyresniuosius jis laikąs tėvais, lygius — broliais, o jaunesniuosius — savo vaikais
 
 ## Teiginiai
+
 <a id="claim-t-06884"></a>
 - t-001
   global_id: t-06884
   teiginys: 'Gediminas laiške aiškino norą būti paklusniu popiežiaus sūnumi ir teigė vyresniuosius laikąs tėvais, lygius broliais, o jaunesniuosius savo vaikais.'
+  sudarymo_pagrindimas: 'Pakeista metakalbinė formuluotė į sakinį apie Gedimino pareiškimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Gediminas laiške aiškino norą būti paklusniu popiežiaus sūnumi ir teigė vyresniuosius laikąs tėvais, lygius broliais, o jaunesniuosius savo vaikais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Rusiškosios sritys pagrasino, kad jo nebeklau-
@@ -48,16 +45,8 @@ tags:
     piežiaus sūnum, nes popiežius esąs už jį vyresnis; vyresniuosius
     jis laikąs tėvais, lygius — broliais, o jaunesniuosius — savo vai-
     kais.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Gediminas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Žemaičiai]]

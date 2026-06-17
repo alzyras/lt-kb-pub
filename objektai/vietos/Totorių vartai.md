@@ -19,7 +19,7 @@ amziai:
 
 ## Santrauka
 
-Michałas Balińskis Totorių vartų pavadinimą siejo su totoriais, kurie, jo manymu, pirmiausia buvo įsikūrę Lukiškėse.
+Nuo jų taip pat kilo gatvės ir Totorių vartų, kur slė­ nyje į Viliją įteka Vingrių šaltinis, pavadinimas.
 
 ## Teiginiai
 
@@ -27,6 +27,11 @@ Michałas Balińskis Totorių vartų pavadinimą siejo su totoriais, kurie, jo m
 - t-001
   global_id: t-86245
   teiginys: 'Michałas Balińskis Totorių vartų pavadinimą siejo su totoriais, kurie, jo manymu, pirmiausia buvo įsikūrę Lukiškėse.'
+  sudarymo_pagrindimas: 'Kadangi teiginys aiškina pavadinimo kilmę ir remiasi autoriaus interpretacija, reikia nurodyti priskyrimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Lietuva; mentioned_place: Vilija'
+  temporaliniai_duomenys: 'įvykio data: 1398 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Kadangi teiginys aiškina pavadinimo kilmę ir remiasi autoriaus interpretacija, reikia nurodyti priskyrimą.'
   pagrindžia:
     - c-001
 

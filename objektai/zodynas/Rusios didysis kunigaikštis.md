@@ -18,9 +18,14 @@ Kijevo luomai pasveikino Gediminą kaip Kijevo ir Rusios didįjį kunigaikštį 
 - t-001
   global_id: t-185410
   teiginys: 'Kijevo luomai pasveikino Gediminą kaip Kijevo ir Rusios didįjį kunigaikštį ir prisiekė su visomis žemėmis paklusti jo valdžiai.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir tiesiogiai pagrįstas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/posakiai/Kijevo ir Rusios didįjį kunigaikštį|Kijevo ir Rusios didįjį kunigaikštį]]; mentioned_object: [[objektai/zodynas/luomai|luomai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Kijevas'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Dmitrijus Michailovičius.md#claim-t-87653|Dmitrijus Michailovičius]]: Rusios didysis kunigaikštis Dmitrijus Michailovičius buvo vedęs vieną iš Gedimino dukterų ir 1326 m. spalio 15 d. nužudytas totorių chano Uzbeko įsakymu.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -49,11 +54,3 @@ Kijevo luomai pasveikino Gediminą kaip Kijevo ir Rusios didįjį kunigaikštį 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Gediminas]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/posakiai/Kijevo ir Rusios didįjį kunigaikštį]]
-- [[objektai/zodynas/luomai]]
-- [[objektai/asmenys/Dmitrijus Michailovičius]]

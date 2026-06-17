@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Kronikos lotyniškas terminas „territorium castri“ reiškia pilies apygardą. Prūsų žemė kronikoje skirstoma į mažesnes teritorijas, kurioms istoriografijoje taikomas valsčiaus terminas. Prūsijoje žemiausias teritorinio skirstymo vienetas buvo pulka arba polka, Dusburgiečio vadinta campus.
+Dusburgietis teigia, kad žemė susideda iš mažesnių „teritorijų” (in terrilorio Scoken, III, 6; ad territorium Reysen, III, 11; de depredatione territorium Pastovie et Gesovie, III, 246 ir kt.); žinomas tik lotyniškas šio teritorinio vieneto vardas (Jer —geblt), plg. Dusburgietis teigia, kad valsčių sudarė pilis ir didelis laukų, pievų, miškelių plotas su bajorų sodybomis — kaimais ir žemdirbių — sodžiais (Jurginis J. Baudžiavos..., p. 168; Łowmiański H. Studja..., 2, p. 6— 44, 78; Пашуто В. T. Образование..., c. 333; Pašuta V. Lietuvos..., p.. Dusburgietis teigia, kad žemiausias teritorinio padalijimo Prūsijoje vienetas — pulka arba polka (plg.
 
 ## Laikotarpis ir datos
 
@@ -43,6 +43,8 @@ Nenurodyta
 - t-001
   global_id: t-59729
   teiginys: 'Kronikos lotyniškas terminas „territorium castri“ reiškia pilies apygardą.'
+  sudarymo_pagrindimas: 'Teiginys papildytas tariniu ir paverstas pilnu faktiniu sakiniu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]'
   pagrindžia:
     - c-004
 
@@ -50,6 +52,8 @@ Nenurodyta
 - t-002
   global_id: t-59730
   teiginys: 'Prūsų žemė kronikoje skirstoma į mažesnes teritorijas, kurioms istoriografijoje taikomas valsčiaus terminas.'
+  sudarymo_pagrindimas: 'Išvalytas bibliografinis triukšmas ir suformuluotas aiškus administracinio skirstymo faktas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Lietuva; mentioned_place: Prūsai; mentioned_place: Prūsų žemė'
   pagrindžia:
     - c-001
 
@@ -57,6 +61,8 @@ Nenurodyta
 - t-003
   global_id: t-59731
   teiginys: 'Prūsijoje žemiausias teritorinio skirstymo vienetas buvo pulka arba polka, Dusburgiečio vadinta campus.'
+  sudarymo_pagrindimas: 'Citata pagrindžia terminą ir Dusburgiečio vartotą lotynišką atitikmenį.'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Prūsija'
   pagrindžia:
     - c-003
 
@@ -64,6 +70,8 @@ Nenurodyta
 - t-004
   global_id: t-59732
   teiginys: 'Prūsų valsčių sudarė pilis, dideli laukų, pievų ir miškelių plotai, bajorų sodybos-kaimai ir žemdirbių sodžiai.'
+  sudarymo_pagrindimas: 'Perrašyta sklandžiau ir pašalintas neaiškus junginys „su bajorų kaimais“.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Prūsai'
   pagrindžia:
     - c-002
 
@@ -137,11 +145,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bajorai]]
-- [[objektai/grupes/Baltai]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/zodynas/territorium castri pilies apygarda|territorium castri pilies apygarda (pilis)]]
-- [[objektai/zodynas/territorium lant valsčius]]

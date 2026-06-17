@@ -22,6 +22,8 @@ Li­ vonijos pilys: Marienhausenas, Lutzenas, Švarcenburgas, Rosytė, Dinaburga
 - t-001
   global_id: t-86309
   teiginys: 'Rundborgas minimas tarp Livonijos pilių kartu su Kokenhauzenu, Diunamunde, Ryga ir Šmetene.'
+  sudarymo_pagrindimas: 'Citata palaiko faktą, kad Rundborgas įtrauktas į Livonijos pilių sąrašą.'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Podolė; mentioned_place: Ryga; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

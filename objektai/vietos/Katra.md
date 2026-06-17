@@ -21,9 +21,16 @@ Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Kat
 - t-001
   global_id: t-32210
   teiginys: 'Mezolito įrankių gausiai aptikta palei Katrą ir kitas Lietuvos upes.'
+  susije_objektai: 'mentioned_place: Alytus; mentioned_place: Lietuva; mentioned_place: Vysla'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Patrikas.md#claim-t-121122|Patrikas (kunigaikštis, XIV a.)]]: Patrikas buvo Jogailos pusbrolis ir prie Strėvos 1348 m. žuvusio Narimanto sūnus.
+- susijęs iš [[objektai/posakiai/Aktai sau, gyvenimas nuėjo sau.md#claim-t-67254|Aktai sau, gyvenimas nuėjo sau]]: Unijos dokumentas liko juridiniu aktu, o politinis gyvenimas savo raida nuėjo kitu keliu.
+- susijęs iš [[objektai/posakiai/Aktai sau, gyvenimas nuėjo sau.md#claim-t-67255|Aktai sau, gyvenimas nuėjo sau]]: Unijos dokumentas liko dokumentu, o gyvenimas pagal savo logiką pasuko kitu keliu.
+- susijęs iš Alytus: Mezolito įrankių gausiai aptikta paežerėse nuo Lydos iki Alytaus, taip pat palei Nemuną, Nerį, Merkį, Ūlą ir Katrą.
+- susijęs iš Merkys: Palei Merkį, Nemuną, Nerį, Ūlą ir Katrą gausiai aptikta mezolito įrankių.
+- susijęs iš [[objektai/zodynas/Sūdas.md#claim-t-07709|sūdas]]: Sūdas vartojamas skolų ir ginčo sprendimo kontekste, kai sprendimą galėjo persūdyti didysis kunigaikštis.
+- susijęs iš [[objektai/zodynas/konsekracija.md#claim-t-93089|konsekracija]]: Konsekracija po karūnacijos buvo laikoma bažnytiniu aktu, kuris ne suteikia daugiau valdžios, o pašventina karūnaciją.
 ## Reikšmingi paminėjimai
 
 - c-001

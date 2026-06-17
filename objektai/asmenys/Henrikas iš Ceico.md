@@ -22,6 +22,8 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
 - t-001
   global_id: t-60312
   teiginys: 'Henrikas iš Ceico iš Vitchendorfo kaimo buvo paskirtas Ditricho iš Bernheimo pagalbininku su ginklanešiais ir daugybe žirgų.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs; citata pagrindžia Henriko iš Ceico paskyrimą pagalbininku.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Kaimas; mentioned_place: Vitchendorfas; mentioned_place: Vysla'
   pagrindžia:
     - c-001
 
@@ -45,11 +47,3 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/ginklanešiai]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/maršalas]]
-- [[objektai/autoriai/Henrikas]]
-- [[objektai/daiktai/Žirgai]]

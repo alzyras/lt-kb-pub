@@ -28,6 +28,9 @@ periodo_grupes:
 - t-001
   global_id: t-30924
   teiginys: 'P. Petkunas 1928 m. Kijeve paskelbė darbą apie Lietuvos Didžiosios Kunigaikštystės rytinę sieną XV a. ketvirtajame dešimtmetyje.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/Osten-Sacken, P. von|Osten-Sacken, P. von]]; mentioned_person: [[objektai/autoriai/P. von|P. von]]; mentioned_place: Kijevas; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1928 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

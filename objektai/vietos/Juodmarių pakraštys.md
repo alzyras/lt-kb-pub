@@ -20,6 +20,7 @@ Jis suima savo valdžion visus Pavolgio, Juod­ marių pakraščio ir Krymo toto
 - t-001
   global_id: t-36258
   teiginys: 'Vytautas savo valdymo pabaigoje valdė Juodmarių pakraščio totorius.'
+  susije_objektai: 'territory: Krymas; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Machmetas|Machmetas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Krymas'
   pagrindžia:
     - c-001
 

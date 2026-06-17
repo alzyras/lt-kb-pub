@@ -12,14 +12,17 @@ tags:
 
 ## Santrauka
 
-Skirgaila nujojęs į Miloslavičius ten susirgo. Po puotos kunigaikštis Skirgaila nujojo už Dnepro į Miloslavičius, ten susirgo ir, grįžęs į Kijevą, septintą dieną mirė.
+Skirgaila nujojęs į Miloslavičius ten susirgo.
 
 ## Teiginiai
 
 <a id="claim-t-187261"></a>
 - t-001
   global_id: t-187261
-  teiginys: 'Skirgaila nujojęs į Miloslavičius ten susirgo.'
+  teiginys: 'Po puotos Skirgaila nujojo už Dnepro į Miloslavičius, ten susirgo ir, grįžęs į Kijevą, septintą dieną mirė.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pradinis teiginys per siauras; citata remia išsamesnį vieno sakinio faktą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_person: [[objektai/asmenys/Foma|Foma]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Dnepras'
   pagrindžia:
     - c-001
 
@@ -27,12 +30,18 @@ Skirgaila nujojęs į Miloslavičius ten susirgo. Po puotos kunigaikštis Skirga
 - t-002
   global_id: t-187615
   teiginys: 'Po puotos kunigaikštis Skirgaila nujojo už Dnepro į Miloslavičius, ten susirgo ir, grįžęs į Kijevą, septintą dieną mirė.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatinis ir paremtas citata.'
+  susije_objektai: 'territory: Dnepras; territory: Kijevas; mentioned_person: [[objektai/asmenys/Foma|Foma]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Dnepras; mentioned_place: Kijevas'
   pagrindžia:
     - c-002
-
+- susijęs iš Kijevas: Skirgaila po puotos susirgo Miloslavičiuose ir, grįžęs į Kijevą, septintą dieną mirė.
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Po puotos Skirgaila nujojo už Dnepro į Miloslavičius, ten susirgo ir, grįžęs į Kijevą, septintą dieną mirė.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     Kai

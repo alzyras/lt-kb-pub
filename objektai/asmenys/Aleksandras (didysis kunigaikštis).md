@@ -10,43 +10,54 @@ date_start: '1519'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XVI'
-periodo_grupes:
-  - 'LDK'
 tags:
   - asmuo
   - bajorija
   - dokumentas
   - kunigaikštis
+amziai:
+  - 'XVI'
+periodo_grupes:
+  - 'LDK'
 ---
 # Aleksandras (didysis kunigaikštis)
 
 ## Santrauka
 
-Mirus Jonui Albrechtui, Aleksandras buvo išrinktas Lenkijos karaliumi. Aleksandro laikais daug valstybės dvarų Lietuvoje pateko bajorijai ir ponams, nes valdovas juos dalijo be atodairos. XV–XVI a. sandūroje didžiojo kunigaikščio Aleksandro dvare buvo humanistinio išsilavinimo žmonių.
+Aleksandras (didysis kunigaikštis): 1. Aleksandro (1492—1506 m.) išrinkimas didžiuoju Lietu. Aleksandras (didysis kunigaikštis): 5. Aleksandro asmuo ir jo mirtis 201. Aleksandras (didysis kunigaikštis): aleksandras mirė 1506 m. ir buvo palaidotas Vilniaus katedroje.
 
 ## Teiginiai
+
+<a id="claim-t-75642"></a>
+- t-001
+  global_id: t-75642
+  teiginys: 'Mirus Jonui Albrechtui, Aleksandras buvo išrinktas Lenkijos karaliumi.'
+  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
+  pagrindžia:
+    - c-003
+
+<a id="claim-t-75647"></a>
+- t-002
+  global_id: t-75647
+  teiginys: 'Aleksandro laikais daug valstybės dvarų Lietuvoje pateko bajorijai ir ponams, nes valdovas juos dalijo be atodairos.'
+  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
+  pagrindžia:
+    - c-002
+
 <a id="claim-t-75650"></a>
 - t-003
   global_id: t-75650
   teiginys: 'XV–XVI a. sandūroje didžiojo kunigaikščio Aleksandro dvare buvo humanistinio išsilavinimo žmonių.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/reformacija|reformacija]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Milanas'
+  temporaliniai_duomenys: 'įvykio data: 1519 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
-- t-004
-  teiginys: 'Aleksandro laikais daug valstybės dvarų Lietuvoje pateko bajorijai ir ponams, nes valdovas juos dalijo be atodairos.'
-  pagrindžia:
-    - c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-005
-  teiginys: 'Mirus Jonui Albrechtui, Aleksandras buvo išrinktas Lenkijos karaliumi.'
-  pagrindžia:
-    - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'XV–XVI a. sandūroje didžiojo kunigaikščio Aleksandro dvare buvo humanistinio išsilavinimo žmonių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -65,25 +76,8 @@ Mirus Jonui Albrechtui, Aleksandras buvo išrinktas Lenkijos karaliumi. Aleksand
   statusas: verified
   pagrindžia:
     - t-003
+
 - c-002
-  santrauka: 'Mirus Jonui Albrechtui, Aleksandras buvo išrinktas Lenkijos karaliumi.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Viena iš
-    jų ištekėjo už Hohencolerno; jos sūnus buvo paskutinysis kryžiuočių
-    magistras ir pirmasis pasaulinis Prūsų kunigaikštis. Kazimiero sūnus
-    Vladislovas buvo Čekų ir Vengrų karalius; kitas jo sūnus, Jonas
-    Albrechtas, buvo tėvo įpėdinis — Lenkų karalius, o sūnus Alek-
-    sandras — didysis Lietuvos kunigaikštis. Jonui Albrechtui mirus,
-    Aleksandras buvo išrinktas ir Lenkų karalium.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-005
-- c-003
   santrauka: 'Aleksandro laikais daug valstybės dvarų Lietuvoje pateko bajorijai ir ponams, nes valdovas juos dalijo be atodairos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -94,27 +88,25 @@ Mirus Jonui Albrechtui, Aleksandras buvo išrinktas Lenkijos karaliumi. Aleksand
     Lietuvoje daugybė valstybės dvarų buvo taip pat patekę į bajorijos
     ir ponų rankas, — ypač Aleksandro laikais, nes jis juos dalino be
     atodairos, ir todėl jiems niekas neturėjo nuosavybės dokumentų.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-004
+    - t-002
 
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Aleksandras]]
-- [[objektai/grupes/Bajorai]]
-- [[objektai/asmenys/Jonas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Vengrai]]
-- [[objektai/asmenys/Vladislovas]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/ponai]]
-- [[objektai/zodynas/reformacija]]
-- [[objektai/grupes/Čekai]]
-- [[objektai/zodynas/įpėdinis]]
-- [[objektai/zodynas/egzekucija]]
-- [[objektai/ivykiai/Žygimanto Senojo ir Bonos Sforcos vedybos]]
+- c-003
+  santrauka: 'Mirus Jonui Albrechtui, Aleksandras buvo išrinktas Lenkijos karaliumi.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Viena iš
+    jų ištekėjo už Hohencolerno; jos sūnus buvo paskutinysis kryžiuočių
+    magistras ir pirmasis pasaulinis Prūsų kunigaikštis. Kazimiero sūnus
+    Vladislovas buvo Čekų ir Vengrų karalius; kitas jo sūnus, Jonas
+    Albrechtas, buvo tėvo įpėdinis — Lenkų karalius, o sūnus Alek-
+    sandras — didysis Lietuvos kunigaikštis. Jonui Albrechtui mirus,
+    Aleksandras buvo išrinktas ir Lenkų karalium.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001

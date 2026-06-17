@@ -28,6 +28,9 @@ amziai:
 - t-001
   global_id: t-31902
   teiginys: 'H. Paszkiewicziaus Regesta Lithnaniae I tomas išleistas Varšuvoje 1930 m. ir apima medžiagą iki 1315 m.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Varšuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: iki 1315 m.; įvykio data: 1315 m.; įvykio data: 1930 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

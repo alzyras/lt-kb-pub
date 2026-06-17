@@ -44,6 +44,9 @@ Nenurodyta
 - t-001
   global_id: t-62823
   teiginys: 'Ketvirtosios atskalūnybės sąmokslas buvo susektas statant Ragainės pilį, o kaltinami bartai ir pagudėnai buvo nubausti.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pradinė formuluotė turi vertinamosios kalbos ir nereikalingą atribuciją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_place: Prūsija; mentioned_place: Ragainė; mentioned_place: Semba'
   pagrindžia:
     - c-001
 
@@ -70,8 +73,3 @@ Nenurodyta
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Pagudėnai]]
-- [[objektai/grupes/Bartai]]

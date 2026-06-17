@@ -3,10 +3,16 @@ tipas: vieta
 pavadinimas: 'Adutiškis'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+datos:
+  - '1920 m.'
+date_start: '1920'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
+amziai:
+  - 'XX'
 ---
 # Adutiškis
 
@@ -20,6 +26,9 @@ liepą-rugpjūtį atsiimtos lietuviškos teritorijos SS [7] Rugpjūčio 8 d. Aug
 - t-001
   global_id: t-41584
   teiginys: 'Adutiškis minimas tarp lietuviškų teritorijų, atsiimtų rugpjūčio 9 d.'
+  susije_objektai: 'mentioned_place: Augustavas; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1920 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

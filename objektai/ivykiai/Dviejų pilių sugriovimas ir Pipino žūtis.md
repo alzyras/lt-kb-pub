@@ -22,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-221 Pipino nukankinimas vaizduojamas tendencingai (žr. Prūsai Vyslos pakrantėje, aukščiau Torunės, turėjo Ragavos pilį, o žemiau Torunės stovėjo dar viena jų pilis. Prūsai Vyslos pakrantėje, aukščiau Torunės, turėjo Ragavos pilį, o žemiau Torunės stovėjo dar viena jų pilis.
+Dusburgietis teigia, kad apie dviejų pilių sugriovimą ir Pipino žūtį Sako, kad tuo metu, kai broliai gyveno minėtajame ąžuole, prūsai turėję Vyslos pakrantėje, aukščiau Torunės, pilį, vardu Ragava218, o dar vieną — žemiau, apie tą vietą, kur dabar yra senoji pilis219. Dusburgietis teigia, kad 221 Pipino nukankinimas vaizduojamas tendencingai (žr.
 
 ## Laikotarpis ir datos
 
@@ -46,6 +46,8 @@ Nenurodyta
 - t-001
   global_id: t-66533
   teiginys: '221 Pipino nukankinimas vaizduojamas tendencingai (žr.'
+  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Pipinas|Pipinas]]'
   pagrindžia:
     - c-002
 
@@ -53,6 +55,11 @@ Nenurodyta
 - t-002
   global_id: t-66534
   teiginys: 'Prūsai Vyslos pakrantėje, aukščiau Torunės, turėjo Ragavos pilį, o žemiau Torunės stovėjo dar viena jų pilis.'
+  sudarymo_pagrindimas: 'Sakinys sutvarkytas iš antraštinio fragmento į aiškų faktą apie dvi pilis.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_object: [[objektai/zodynas/fogtas|fogtas]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_person: [[objektai/asmenys/Pipinas|Pipinas]]; mentioned_place: Drevanta; mentioned_place: Kaimas; mentioned_place: Pamedė; mentioned_place: Pilaitė; mentioned_place: Pilėnai; mentioned_place: Prūsai; mentioned_place: Semba; mentioned_place: Torunė; mentioned_place: Viena; mentioned_place: Vysla'
+  temporaliniai_duomenys: 'įvykio data: 1231 m.; įvykio data: apie 1231 m.; įvykio data: 1292 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
+  temporalinis_llm_pakomentavimas: 'Sakinys sutvarkytas iš antraštinio fragmento į aiškų faktą apie dvi pilis.'
   pagrindžia:
     - c-001
 
@@ -117,12 +124,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/K. Būga]]
-- [[objektai/grupes/Kuršiai]]
-- [[objektai/asmenys/Pipinas]]
-- [[objektai/zodynas/fogtas]]
-- [[objektai/zodynas/netikėliai]]
-- [[objektai/daiktai/Žirgai]]

@@ -24,17 +24,19 @@ amziai:
 Didžioji lietuvių kolonija Šiaurės Amerikoj nuo pat karo pradžios griebėsi šelpti nukentėjusią tėvynę ir reikalavo iš pradžių autonomijos, o vėliau ir nepriklausomybės. Komiteto įgaliotiniai, nusiųsti į Šiaurės Ameriką, paskatino ten lietuvius rinkti aukas (Amerikos prezidentas Vilsonas net paskyrė.
 
 ## Teiginiai
+
 <a id="claim-t-44042"></a>
 - t-001
   global_id: t-44042
   teiginys: 'Lietuvių kolonija Šiaurės Amerikoje nuo karo pradžios šelpė nukentėjusią Lietuvą ir iš pradžių reikalavo autonomijos, vėliau nepriklausomybės.'
+  sudarymo_pagrindimas: 'Teiginys pagrįstas, bet „tėvynę“ verta pakeisti aiškia nuoroda į Lietuvą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Lietuvių kolonija Šiaurės Amerikoje nuo karo pradžios šelpė nukentėjusią Lietuvą ir iš pradžių reikalavo autonomijos, vėliau nepriklausomybės.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **4. Lietuvių veikla Amerikoj, Šveicarijoj ir kitur**
@@ -44,11 +46,9 @@ Didžioji lietuvių kolonija Šiaurės Amerikoj nuo pat karo pradžios griebėsi
     lavo iš pradžių autonomijos, o vėliau ir nepriklausomybės. Tą
     darbą įvairios srovės organizavo skyrium, o 1918 metų pradžioj
     sukūrė bendrą Vykdomąjį Komitetą.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
     - t-002
+    - t-001

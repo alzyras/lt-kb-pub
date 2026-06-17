@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Pagudėnai su sūduviais ir kitomis Prūsijos gentimis sudegino pilaitę tarp Ragavos ir Veisikos upių. Užpuolikai prie Ragavos upės ilgai puolė Veklico pilį, palaužė jos gynėjus, pilį sudegino, o žmones paėmė į nelaisvę arba nukovė.
+Dusburgietis teigia, kad apie Veklico pilies ir vienos pilaitės sugriovimą Pagudėnai, kartu su sūduviais bei kitomis Prūsijos gentimis subūrę stiprią kariuomenę, antrosios atskalūnybės pradžioje skersai išilgai išnaršė Pagudę bei Pamedę ir išžudė visus krikščionis, kuriuos ten. Dusburgietis teigia, kad po to, matydami, kad viskas jiems gerai sekasi, patraukė prie Veklico pilies453, esančios prie Ragavos upės, ir, ilgai bei smarkiai ją puolę, galop palaužė narsią apsiaustųjų gynybą, pilį pavertė pelenais, visus paėmė į nelaisvę arba nukovė.
 
 ## Laikotarpis ir datos
 
@@ -39,6 +39,8 @@ Nenurodyta
 - t-001
   global_id: t-66945
   teiginys: 'Pagudėnai su sūduviais ir kitomis Prūsijos gentimis sudegino pilaitę tarp Ragavos ir Veisikos upių.'
+  sudarymo_pagrindimas: 'Rewrite failed deterministic gates: claim_missing_note_object'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_object: [[objektai/zodynas/tėvonija|tėvonija]]; mentioned_place: Drūsinė; mentioned_place: Elbingas; mentioned_place: Kaimas; mentioned_place: Kulmas; mentioned_place: Kulmenzė; mentioned_place: Pagudė; mentioned_place: Pamedė; mentioned_place: Pilaitė; mentioned_place: Prūsija; mentioned_place: Torunė; mentioned_place: Veklicas; mentioned_place: Viena'
   pagrindžia:
     - c-002
 
@@ -46,6 +48,8 @@ Nenurodyta
 - t-002
   global_id: t-66946
   teiginys: 'Užpuolikai prie Ragavos upės ilgai puolė Veklico pilį, palaužė jos gynėjus, pilį sudegino, o žmones paėmė į nelaisvę arba nukovė.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir tiesiogiai paremtas citata apie Veklico pilį.'
+  susije_objektai: 'mentioned_place: Drūsinė; mentioned_place: Veklicas'
   pagrindžia:
     - c-001
 
@@ -100,12 +104,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/ežeras]]
-
-### Susiję objektai
-- [[objektai/grupes/Sūduviai]]
-- [[objektai/zodynas/tėvonija]]
-- [[objektai/grupes/Pagudėnai]]

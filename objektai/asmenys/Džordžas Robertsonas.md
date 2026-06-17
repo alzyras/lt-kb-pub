@@ -5,14 +5,16 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '2000 m.'
+  - '2004 m.'
 date_start: '2000'
-date_end: ''
+date_end: '2004'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
 amziai:
   - 'XX'
+  - 'XXI'
 periodo_grupes:
   - 'šiuolaikinė Lietuva'
 ---
@@ -28,9 +30,14 @@ Tarptautinės konferencijos Vilniuje „NATO vaidmuo besikeičiančioje Europos 
 - t-001
   global_id: t-26439
   teiginys: 'Džordžas Robertsonas 2000 m. gegužės 19 d. Vilniuje dalyvavo konferencijoje apie NATO vaidmenį Europos saugumo aplinkoje.'
+  sudarymo_pagrindimas: 'Reikia pašalinti OCR ir puslapio triukšmą, paliekant citatos pagrindžiamą faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/NATO|NATO]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Valdas Adamkus|Valdas Adamkus]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Vašingtonas; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 2000 m.; įvykio data: 2003 m.; įvykio data: 2004 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia pašalinti OCR ir puslapio triukšmą, paliekant citatos pagrindžiamą faktą.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Valdas Adamkus.md#claim-t-64205|Valdas Adamkus]]: Valdas Adamkus 2000 m. gegužės 19 d. dalyvavo Vilniaus konferencijoje apie NATO vaidmenį Europos saugumo aplinkoje.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -56,10 +63,3 @@ Tarptautinės konferencijos Vilniuje „NATO vaidmuo besikeičiančioje Europos 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/grupes/NATO]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

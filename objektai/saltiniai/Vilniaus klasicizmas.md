@@ -29,6 +29,9 @@ Vilniaus klasicizmas: parodos katalogas.
 - t-001
   global_id: t-45770
   teiginys: '„Vilniaus klasicizmas“ yra parodos katalogas, siejamas su 1999–2000 m. parodomis Varšuvos nacionaliniame muziejuje ir Lietuvos dailės muziejuje.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos dailės muziejus|Lietuvos dailės muziejus]]; mentioned_group: [[objektai/grupes/Varšuvos nacionalinis muziejus|Varšuvos nacionalinis muziejus]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva; mentioned_place: Varšuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1999-2000; įvykio data: 2000 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -36,6 +39,11 @@ Vilniaus klasicizmas: parodos katalogas.
 - t-002
   global_id: t-45771
   teiginys: '„Vilniaus klasicizmas“ buvo parodos katalogas, susijęs su 1999–2000 m. parodomis Varšuvoje ir Vilniuje.'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo bibliografinis fragmentas, o citata pagrindžia aiškesnį faktą apie katalogą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos dailės muziejus|Lietuvos dailės muziejus]]; mentioned_group: [[objektai/grupes/Varšuvos nacionalinis muziejus|Varšuvos nacionalinis muziejus]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva; mentioned_place: Varšuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1999-2000; įvykio data: 2000 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys buvo bibliografinis fragmentas, o citata pagrindžia aiškesnį faktą apie katalogą.'
   pagrindžia:
     - c-001
 

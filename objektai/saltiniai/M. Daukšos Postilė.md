@@ -29,6 +29,11 @@ amziai:
 - t-001
   global_id: t-26662
   teiginys: '1599 m. Mikalojus Daukša išleido „Postilę“, kurios pratarmėje ragino Lietuvos visuomenę kurti raštiją lietuvių kalba.'
+  sudarymo_pagrindimas: 'Teiginys paremtas citata, bet reikia pašalinti nutrūkusią citatą ir suformuluoti sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Mikalojus Daukša|Mikalojus Daukša]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1595 m.; įvykio data: 1599 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys paremtas citata, bet reikia pašalinti nutrūkusią citatą ir suformuluoti sakinį.'
   pagrindžia:
     - c-001
 

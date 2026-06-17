@@ -22,6 +22,8 @@ Dusburgietis teigia, kad apie kito brolio gyvenimą toje pačioje pilyje Tuo pat
 - t-001
   global_id: t-60222
   teiginys: 'Dusburgietis pasakoja, kad Teutonų ordino brolį Volframą Saksą pilyje metus kasnakt gundė velnias.'
+  sudarymo_pagrindimas: 'Citata remia kronikos pasakojimą, ne neutralų istorinį faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]'
   pagrindžia:
     - c-001
 
@@ -29,9 +31,11 @@ Dusburgietis teigia, kad apie kito brolio gyvenimą toje pačioje pilyje Tuo pat
 - t-002
   global_id: t-60223
   teiginys: 'Brolis Volframas Saksas metus priešinosi velnio pagundoms, kol šis nuo jo atstojo.'
+  sudarymo_pagrindimas: 'Teiginys perrašytas kaip aiškus sakinys apie asmenį, pašalinant puslapio triukšmą.'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/paprociai/Karaliaučiaus pilies brolių pasninkavimo, maldos ir naktinio budėjimo praktikos.md#claim-t-183986|Karaliaučiaus pilies brolių pasninkavimo, maldos ir naktinio budėjimo praktikos (pilis)]]: Brolis Volframas Saksas Karaliaučiaus pilyje keldavosi iš lovos maldai ir uoliai tarnavo Dievui.
+- susijęs iš [[objektai/paprociai/Karaliaučiaus pilies brolių pasninkavimo, maldos ir naktinio budėjimo praktikos.md#claim-t-62681|Karaliaučiaus pilies brolių pasninkavimo, maldos ir naktinio budėjimo praktikos (pilis)]]: Brolis Volframas Saksas Karaliaučiaus pilyje keldavosi iš lovos maldai ir uoliai tarnavo Dievui.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -70,8 +74,3 @@ Dusburgietis teigia, kad apie kito brolio gyvenimą toje pačioje pilyje Tuo pat
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Teutonai]]
-- [[objektai/paprociai/Karaliaučiaus pilies brolių pasninkavimo, maldos ir naktinio budėjimo praktikos|Karaliaučiaus pilies brolių pasninkavimo, maldos ir naktinio budėjimo praktikos (pilis)]]

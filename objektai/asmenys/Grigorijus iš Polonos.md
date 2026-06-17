@@ -18,6 +18,11 @@ Grigorijaus iš Polonos mokslu buvo grindžiamas griežtesnių regulų gyvenimas
 - t-001
   global_id: t-186205
   teiginys: 'Grigorijaus iš Polonos mokslu buvo grindžiamas griežtesnių regulų gyvenimas, kurį Galiče išpažino Vaišvilkas.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis sakinys daugiausia apie Vaišvilką, todėl perrašyta aiškiau susiejant faktą su Grigorijumi.'
+  susije_objektai: 'mentioned_place: Nemunas; mentioned_place: Polona'
   pagrindžia:
     - c-001
 
@@ -45,7 +50,3 @@ Grigorijaus iš Polonos mokslu buvo grindžiamas griežtesnių regulų gyvenimas
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/regula]]

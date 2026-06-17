@@ -7,6 +7,9 @@ saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1605 m.'
+  - '1655 m.'
+  - '1660 m.'
+  - '1791 m.'
   - '1919 m.'
 date_start: '1605'
 date_end: '1919'
@@ -23,7 +26,7 @@ amziai:
 
 ## Santrauka
 
-Per Gdanską Abiejų Tautų Respublika XVII–XVIII a. aprūpino Vakarus javais, gabendama juos į Amsterdamą. Kai kurie klaipėdiškiai lietuvininkai siekė laisvojo miesto statuso, panašaus į Dancigo, dabartinio Gdansko, statusą. Per Gdanską Abiejų Tautų Respublika XVII–XVIII a. aprūpino Vakarus javais, gabendama juos į Amsterdamą.
+Beje, ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos ir siekė „laisvojo miesto“ statuso (panašaus į Dancigo (dabar Gdanskas)). Būtent čia, prie Bugo ir Narevo, susiformuos pagrindinis LDK javų ūkis, aprūpinęs L I E T U V O S I S T O R I J A 40 grūdais pagrindinį Europos duonos uostą – Gdanską. Kova dėl Livonijos daugiausia buvo suinteresuota didesnio uosto neturėjusi Lietuva, nes Lenkija turėjo Gdansko uostą.
 
 ## Teiginiai
 
@@ -31,6 +34,11 @@ Per Gdanską Abiejų Tautų Respublika XVII–XVIII a. aprūpino Vakarus javais,
 - t-001
   global_id: t-114280
   teiginys: 'Per Gdanską Abiejų Tautų Respublika XVII–XVIII a. aprūpino Vakarus javais, gabendama juos į Amsterdamą.'
+  sudarymo_pagrindimas: 'Perrašyta, kad teiginys aiškiau sietų faktą su Gdansku ir citatos chronologija.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/barokas|barokas]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas|Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]; mentioned_place: Amsterdamas; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1791 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Perrašyta, kad teiginys aiškiau sietų faktą su Gdansku ir citatos chronologija.'
   pagrindžia:
     - c-003
 
@@ -38,6 +46,7 @@ Per Gdanską Abiejų Tautų Respublika XVII–XVIII a. aprūpino Vakarus javais,
 - t-002
   global_id: t-114281
   teiginys: 'Kai kurie klaipėdiškiai lietuvininkai siekė laisvojo miesto statuso, panašaus į Dancigo, dabartinio Gdansko, statusą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Klaipėdiškiai|Klaipėdiškiai]]; mentioned_object: [[objektai/zodynas/lietuvininkai|lietuvininkai]]; mentioned_object: [[objektai/zodynas/Žynių titulai ir pareigybės|Žynių titulai ir pareigybės]]; mentioned_place: Dancigas; mentioned_place: Lietuva; mentioned_place: Vokietija'
   pagrindžia:
     - c-001
 
@@ -45,6 +54,8 @@ Per Gdanską Abiejų Tautų Respublika XVII–XVIII a. aprūpino Vakarus javais,
 - t-004
   global_id: t-114283
   teiginys: 'Vytauto laikais Vilniaus prekybiniai ryšiai jau siekė Gdanską ir Sileziją.'
+  sudarymo_pagrindimas: 'Sakinys sutrumpintas iki aiškaus fakto apie Gdanską, išlaikant citatos prasmę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/bojarinai|bojarinai]]; mentioned_person: [[objektai/asmenys/Chariničius|Chariničius]]; mentioned_person: [[objektai/asmenys/Ivanas|Ivanas]]; mentioned_person: [[objektai/asmenys/Ivanas Jermoliničius|Ivanas Jermoliničius]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lietuva; mentioned_place: Naugardas; mentioned_place: Ryga; mentioned_place: Silezija; mentioned_place: Vilnius'
   pagrindžia:
     - c-005
 
@@ -52,6 +63,8 @@ Per Gdanską Abiejų Tautų Respublika XVII–XVIII a. aprūpino Vakarus javais,
 - t-005
   global_id: t-114284
   teiginys: 'XVI a. antroje pusėje Gdanske buvo saugotos kelios Dusburgiečio kronikos rankraštinės ištraukos.'
+  sudarymo_pagrindimas: 'Teiginys buvo nutrūkęs; citata leidžia suformuluoti pilną faktą apie Gdanską.'
+  susije_objektai: 'mentioned_place: Elbingas'
   pagrindžia:
     - c-004
 
@@ -59,6 +72,11 @@ Per Gdanską Abiejų Tautų Respublika XVII–XVIII a. aprūpino Vakarus javais,
 - t-006
   global_id: t-114285
   teiginys: 'Kova dėl Livonijos labiausiai domino didesnio uosto neturėjusią Lietuvą, nes Lenkija turėjo Gdansko uostą.'
+  sudarymo_pagrindimas: 'Pradinis teiginys gramatiškai netikslus, bet citata aiškiai pagrindžia pataisytą formuluotę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Lenkija; mentioned_place: Livonija; mentioned_place: Švedija'
+  temporaliniai_duomenys: 'įvykio data: 1655-1660; įvykio data: 1660 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys gramatiškai netikslus, bet citata aiškiai pagrindžia pataisytą formuluotę.'
   pagrindžia:
     - c-002
 
@@ -66,9 +84,17 @@ Per Gdanską Abiejų Tautų Respublika XVII–XVIII a. aprūpino Vakarus javais,
 - t-007
   global_id: t-183591
   teiginys: 'Kai kurie Klaipėdos krašto lietuvininkai siekė laisvojo miesto statuso, panašaus į Dancigo, dabartinio Gdansko.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pašalintas šnekamasis pradžios žodis ir sakinys padarytas enciklopedinis.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_object: [[objektai/zodynas/lietuvininkai|lietuvininkai]]; mentioned_place: Dancigas; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Vokietija'
   pagrindžia:
     - c-006
-
+- susijęs iš [[objektai/ivykiai/Versalio taikos konferencijos sprendimas dėl Klaipėdos krašto (1919 m.).md#claim-t-20527|Versalio taikos konferencijos sprendimas dėl Klaipėdos krašto (1919 m.)]]: Dalis klaipėdiškių lietuvininkų nenorėjo jungtis prie Lietuvos ir siekė laisvojo miesto statuso.
+- susijęs iš Klaipėdos kraštas: 1919 m. Versalio taikos konferencija nuo Vokietijos atskyrė Klaipėdos kraštą, bet jo neatidavė Lietuvai.
+- susijęs iš Vokietija: 1919 m. Versalio taikos konferencija nuo Vokietijos atskyrė Klaipėdos kraštą, bet jo Lietuvai neatidavė.
+- susijęs iš [[objektai/zodynas/lietuvininkai.md#claim-t-26548|lietuvininkai]]: Ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos; dalis siekė „laisvojo miesto“ statuso.
 ## Reikšmingi paminėjimai
 
 - c-001

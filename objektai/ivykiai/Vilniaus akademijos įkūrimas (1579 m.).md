@@ -86,13 +86,3 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Antspaudas]]
-- [[objektai/grupes/Lietuvos didikai]]
-- [[objektai/asmenys/Radvila]]
-- [[objektai/grupes/Valavičiai]]
-- [[objektai/grupes/Protestantai]]
-- [[objektai/asmenys/Steponas]]
-- [[objektai/asmenys/Steponas Batoras]]

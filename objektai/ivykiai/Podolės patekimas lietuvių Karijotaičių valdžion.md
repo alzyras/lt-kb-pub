@@ -4,22 +4,25 @@ pavadinimas: 'Podolės patekimas lietuvių Karijotaičių valdžion'
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 datos:
+  - '1240 m.'
   - '1349 m.'
   - '1350 m.'
   - '1351 m.'
   - '1362 m.'
-date_start: '1349'
-date_end: '1362'
+  - '1971 m.'
+date_start: '1240'
+date_end: '1971'
 sukurta: ''
 atnaujinta: ''
 amziai:
-  - 'XIV'
+  - 'XIII'
+  - 'XX'
 ---
 # Podolės patekimas lietuvių Karijotaičių valdžion
 
 ## Santrauka
 
-Lietuvos metraštis teigia, kad Podolės patekimas lietuvių Karijotaičių valdžion datuojamas nevienodai: 1349, 1350–1351 arba 1362 metais. Redakcinė pastaba teigia, kad Lietuvos metraščių pasakojimas apie Podolės patekimą Lietuvos kunigaikščių valdžion sietinas su XV a. Lietuvos ir Lenkijos ginčais dėl Podolės vakarinės dalies. Redakcinė pastaba teigia, kad Podolės patekimo lietuvių Karijotaičių valdžion data istoriografijoje nėra vieningai nustatyta.
+Redakcinė pastaba teigia, kad Lietuvos metraščių pasakojimas apie Podolės patekimą Lietuvos kunigaikščių valdžion sietinas su XV a. Lietuvos ir Lenkijos ginčais dėl Podolės vakarinės dalies. Redakcinė pastaba teigia, kad Podolės patekimo lietuvių Karijotaičių valdžion data istoriografijoje nėra vieningai nustatyta.
 
 ## Laikotarpis ir datos
 
@@ -48,7 +51,13 @@ Nenurodyta
 <a id="claim-t-186697"></a>
 - t-001
   global_id: t-186697
-  teiginys: 'Lietuvos metraštis teigia, kad Podolės patekimas lietuvių Karijotaičių valdžion datuojamas nevienodai: 1349, 1350–1351 arba 1362 metais.'
+  teiginys: 'Podolės patekimas lietuvių Karijotaičių valdžion 1971 m. komentare pateikiamas kaip nedatuojamas vieningai: minimi 1349, 1350–1351 ir 1362 m.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Datavimo neapibrėžtumas paliktas su komentaro atribucija. Nepridėta jokių priežasčių ar politinių pasekmių, kurių citata nepateikia.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Karijotaičiai|Karijotaičiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Podolė; mentioned_place: Smotričius; mentioned_place: Smotričė'
+  temporaliniai_duomenys: 'įvykio data: 1240 m.; įvykio data: 1362 m.; įvykio data: 1971 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Datavimo neapibrėžtumas paliktas su komentaro atribucija. Nepridėta jokių priežasčių ar politinių pasekmių, kurių citata nepateikia.'
   pagrindžia:
     - c-001
 
@@ -56,6 +65,9 @@ Nenurodyta
 - t-002
   global_id: t-186698
   teiginys: 'Redakcinė pastaba teigia, kad Lietuvos metraščių pasakojimas apie Podolės patekimą Lietuvos kunigaikščių valdžion sietinas su XV a. Lietuvos ir Lenkijos ginčais dėl Podolės vakarinės dalies.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Sakinys pilnas, gramatiškas ir tiksliai paremtas redakcine pastaba.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Podolė; mentioned_place: Ukraina'
   pagrindžia:
     - c-002
 
@@ -63,6 +75,12 @@ Nenurodyta
 - t-003
   global_id: t-186699
   teiginys: 'Redakcinė pastaba teigia, kad Podolės patekimo lietuvių Karijotaičių valdžion data istoriografijoje nėra vieningai nustatyta.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Sakinys pilnas, gramatiškas ir atitinka citatos informaciją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Karijotaičiai|Karijotaičiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Podolė; mentioned_place: Smotričius; mentioned_place: Smotričė'
+  temporaliniai_duomenys: 'įvykio data: 1240 m.; įvykio data: 1362 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Sakinys pilnas, gramatiškas ir atitinka citatos informaciją.'
   pagrindžia:
     - c-001
 
@@ -97,12 +115,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Karijotaičiai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/zodynas/Adynos|adynos]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/metraštis]]

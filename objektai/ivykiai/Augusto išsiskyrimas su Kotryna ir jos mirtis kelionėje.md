@@ -30,6 +30,11 @@ Nenurodyta
 - t-001
   global_id: t-185551
   teiginys: 'Karalius Augustas atvirai išsiskyrė su austrų kunigaikštyte Kotryna.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Liuteronai|Liuteronai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Kotryna|Kotryna]]'
   pagrindžia:
     - c-001
 
@@ -37,6 +42,11 @@ Nenurodyta
 - t-002
   global_id: t-185552
   teiginys: 'Augusto išsiskyrimas su Kotryna įžeidė Romos popiežių, anksčiau leidusį jam vesti mirusios žmonos seserį.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Sakinys išvalytas nuo puslapio antraštės ir OCR įterpinių.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Kotryna|Kotryna]]'
   pagrindžia:
     - c-002
 
@@ -44,6 +54,11 @@ Nenurodyta
 - t-003
   global_id: t-185553
   teiginys: 'Kotryna, pasiųsta pas imperatorių Maksimilijoną, susirgo ir mirė kelionėje.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys tinkamas, bet perrašymas išlaiko aiškią vieno sakinio formą be pertekliaus.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]'
   pagrindžia:
     - c-003
 
@@ -115,10 +130,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Augustas]]
-- [[objektai/grupes/Liuteronai]]
-- [[objektai/asmenys/Kotryna]]
-- [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]]

@@ -11,12 +11,12 @@ date_start: '1418'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XV'
-  - 'XXI'
 tags:
   - ivykis
   - sukilimas
+amziai:
+  - 'XV'
+  - 'XXI'
 ---
 # Žemaičių sukilimas 1418 m (sukilimas)
 
@@ -41,10 +41,12 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 <a id="claim-t-50813"></a>
 - t-001
   global_id: t-50813
   teiginys: 'Įkūrus Žemaičių vyskupiją, baigėsi bažnytinių reikalų tvarkymo etapas ir prasidėjo katalikų tikėjimo įsąmoninimas žmonėse.'
+  sudarymo_pagrindimas: 'Citata palaiko bendrą kontekstą, bet reikėjo pašalinti OCR triukšmą.'
   pagrindžia:
     - c-001
 
@@ -52,10 +54,12 @@ Nenurodyta
 - t-002
   global_id: t-50814
   teiginys: 'Žemaičių sukilimas prasidėjo Raseinių apskrityje, apėmė Ariogalą, Kražius ir Medininkus, o Vytautas jį malšino du kartus.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Kražiai; mentioned_place: Raseiniai; mentioned_place: Sudeikiai'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Įkūrus Žemaičių vyskupiją, baigėsi bažnytinių reikalų tvarkymo etapas ir prasidėjo katalikų tikėjimo įsąmoninimas žmonėse.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -75,6 +79,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -90,7 +95,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

@@ -18,6 +18,11 @@ Kojelavičius „barbarų barbaru“ pavadino žmogų, kurio pasitikėjimą sėk
 - t-001
   global_id: t-185475
   teiginys: 'Kojelavičius „barbarų barbaru“ pavadino žmogų, kurio pasitikėjimą sėkme ir pasipūtėlišką išdidumą smerkė.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata palaiko autoriaus vertinamąją formuluotę, bet pradinis teiginys per ilgas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/barbarai|barbarai]]'
   pagrindžia:
     - c-001
 
@@ -47,7 +52,3 @@ Kojelavičius „barbarų barbaru“ pavadino žmogų, kurio pasitikėjimą sėk
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/barbarai]]

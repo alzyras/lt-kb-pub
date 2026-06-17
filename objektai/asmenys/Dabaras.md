@@ -20,9 +20,13 @@ Dusburgietis teigia, kad ten jie narsiai užpuolė Divaną ir nukovė vieną jo 
 - t-001
   global_id: t-60259
   teiginys: 'Dabaras buvo Divano giminaitis, nukautas per Divano užpuolimą prie Gubros upės.'
+  sudarymo_pagrindimas: 'Pašalintas nereikalingas šaltinio įvardijimas ir suformuluotas aiškus faktas.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Divanas|Divanas]]; mentioned_place: Viena'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Divanas.md#claim-t-184056|Divanas]]: Prie Gubros upės broliai užpuolė Divaną, nukovė jo giminaitį Dabarą ir išžudė jo žmones.
+- susijęs iš [[objektai/asmenys/Divanas.md#claim-t-59912|Divanas]]: Prie Gubros upės broliai užpuolė Divaną, nukovė jo giminaitį Dabarą ir išžudė jo žmones.
+- susijęs iš [[objektai/ivykiai/Kristburgo brolių smūgis Divanui prie Gubros upės.md#claim-t-91915|Kristburgo brolių smūgis Divanui prie Gubros upės]]: Kristburgo ir Elbingo broliai prie Gubros upės užpuolė Divaną, nukovė jo giminaitį Dabarą ir susigrąžino grobį.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -37,8 +41,3 @@ Dusburgietis teigia, kad ten jie narsiai užpuolė Divaną ir nukovė vieną jo 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Divanas]]
-- [[objektai/ivykiai/Kristburgo brolių smūgis Divanui prie Gubros upės]]

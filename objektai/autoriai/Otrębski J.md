@@ -20,6 +20,7 @@ Dusburgietis teigia, kad otrembskis etnonimą prūsas siejo su sanskrito púrusa
 - t-001
   global_id: t-60767
   teiginys: 'J. Otrębskis etnonimą „prūsas“ siejo su sanskrito žodžiu „púrusah“, reiškiančiu žmogų arba vyrą.'
+  sudarymo_pagrindimas: 'Citata tiesiogiai palaiko aiškų faktą apie autoriaus teiginį.'
   pagrindžia:
     - c-001
 

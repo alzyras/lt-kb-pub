@@ -3,6 +3,7 @@ tipas: daiktas
 pavadinimas: 'Karinė ginkluotė'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 sukurta: ''
@@ -15,7 +16,7 @@ tags:
 
 ## Santrauka
 
-Senovės kariai nešiojo šikšninį diržą su vario grandimis arba sagtimis ir įvairią ginkluotę. Pėstųjų karinė ginkluotė apėmė rendėtus brūklius, kuriais jie daugiausia kariavo. XIII a. Vakarų Europos pėstininkų karinė ginkluotė apėmė dvirankius artimosios kovos ginklus, lankus ir arbaletus.
+Iš lietuvių žygio grobio buvo arklių su balnais, skydų ir šalmų. Pilies gynėjai naudojo ietis, kalavijus ir kitokius ginklus. Senovės kariai nešiojo šikšninį diržą su vario grandimis arba sagtimis ir įvairią ginkluotę. Pėstieji daugiau kariavo rendėtais brūkliais. Šiame šaltinyje papildomai aprašoma XIII-XIV a. pėstininkų ir raitininkų apsauga bei puolamieji ginklai, šarvų ir ginklų branginimas bei valstybinio jų paskirstymo praktika.
 
 ## Pavadinimai šaltiniuose
 
@@ -43,6 +44,7 @@ Nenurodyta
 - t-001
   global_id: t-08294
   teiginys: 'Senovės kariai nešiojo šikšninį diržą su vario grandimis arba sagtimis ir įvairią ginkluotę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kalavijai|Kalavijai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/daiktai/Kardas|Kardas]]; mentioned_object: [[objektai/daiktai/Seidokas|Seidokas]]; mentioned_place: Viena'
   pagrindžia:
     - c-002
 
@@ -50,6 +52,8 @@ Nenurodyta
 - t-002
   global_id: t-08295
   teiginys: 'Pėstųjų karinė ginkluotė apėmė rendėtus brūklius, kuriais jie daugiausia kariavo.'
+  sudarymo_pagrindimas: 'Pradinis sakinys neįvardija note objekto, bet citata palaiko faktą apie pėstųjų ginkluotę.'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 
@@ -57,6 +61,8 @@ Nenurodyta
 - t-003
   global_id: t-10150
   teiginys: 'XIII a. Vakarų Europos pėstininkų karinė ginkluotė apėmė dvirankius artimosios kovos ginklus, lankus ir arbaletus.'
+  sudarymo_pagrindimas: 'Teiginys susietas su note objektu ir remiasi citatoje nurodytais ginklais.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Arbaletai|Arbaletai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Lankai|Lankai]]; mentioned_place: Europa'
   pagrindžia:
     - c-004
 
@@ -64,6 +70,8 @@ Nenurodyta
 - t-004
   global_id: t-10151
   teiginys: 'XIII-XIV a. Lietuvos raitininko karinė ginkluotė galėjo apimti Desiukiškių tipo kalaviją, žieduočio šarvus ir krūtinšarvį.'
+  sudarymo_pagrindimas: 'Teiginys susietas su karine ginkluote ir neperrašo aprašymo kaip izoliuotos iliustracijos.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/daiktai/Šarvai|Šarvai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-005
 
@@ -71,6 +79,8 @@ Nenurodyta
 - t-005
   global_id: t-10152
   teiginys: 'Ginklai ir ypač šarvai buvo branginami, sugadinti perkalami, o didesnė dalis ginkluotės galėjo būti saugoma valstybės ir išdalinama kariams prieš operacijas.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie karinę ginkluotę ir pagrįstas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Šarvai|Šarvai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-006
 
@@ -78,6 +88,8 @@ Nenurodyta
 - t-006
   global_id: t-10153
   teiginys: 'XIV a. Europos karinėje ginkluotėje plito lakštiniai šarvai, tačiau dėl brangumo plačiai naudoti ir žieduočio šarvai.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai siejamas su karine ginkluote ir palaikomas citatos.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Šarvai|Šarvai]]; mentioned_place: Europa'
   pagrindžia:
     - c-007
 
@@ -85,6 +97,8 @@ Nenurodyta
 - t-007
   global_id: t-78663
   teiginys: 'Didesnė Lietuvos karinės ginkluotės dalis galėjo būti saugoma valstybės, išduodama kariams prieš operacijas ir po jų grąžinama.'
+  sudarymo_pagrindimas: 'Perrašyta glaudžiau ir enciklopediškiau, pašalinant šnekamąją intarpą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Šarvai|Šarvai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-006
 
@@ -92,6 +106,8 @@ Nenurodyta
 - t-008
   global_id: t-78665
   teiginys: 'Lietuvių karinę ginkluotę sudarė skydai, šalmai, ietys ir kardai.'
+  sudarymo_pagrindimas: 'Citata išvardija lietuvių naudotus ginklus, todėl teiginys sukonkretintas pagal note objektą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Ietis|Ietis]]; mentioned_object: [[objektai/daiktai/Ietys|Ietys]]; mentioned_place: Livonija; mentioned_place: Volinija'
   pagrindžia:
     - c-001
 
@@ -215,19 +231,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-006
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Arbaletai]]
-- [[objektai/daiktai/Ginklai]]
-- [[objektai/daiktai/Ietis]]
-- [[objektai/daiktai/Kalavijai]]
-- [[objektai/daiktai/Kalavijas]]
-- [[objektai/daiktai/Kardas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/daiktai/Seidokas]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/daiktai/Šarvai]]
-- [[objektai/daiktai/Ietys]]
-- [[objektai/daiktai/Lankai]]

@@ -27,6 +27,7 @@ Vartojamos formos: `viežlybumą`, `viežlybai`, `viežlybos`.
 - t-001
   global_id: t-07649
   teiginys: 'Viežlybumą moterys turėjo saugoti namuose kartu su ugnimi.'
+  sudarymo_pagrindimas: 'Citatos palaiko namų saugojimo motyvą, bet reikia įvardyti objektą.'
   pagrindžia:
     - c-001
     - c-002
@@ -35,9 +36,10 @@ Vartojamos formos: `viežlybumą`, `viežlybai`, `viežlybos`.
 - t-002
   global_id: t-07650
   teiginys: 'Viežlybumas siejamas su namuose saugota dora, švara ir tvarkingu gyvenimu.'
+  sudarymo_pagrindimas: 'Pašalintas boilerplate ir sakinys glaudžiau susietas su citata.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/paprociai/Lyčių pasiskirstymas ūkio ir namų darbuose.md#claim-t-07791|Lyčių pasiskirstymas ūkio ir namų darbuose]]: Motriškosios po namus trūsėjo, audė, švarino namus, tiekė drabužius ir saugojo viežlybumą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -60,7 +62,3 @@ Vartojamos formos: `viežlybumą`, `viežlybai`, `viežlybos`.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/paprociai/Lyčių pasiskirstymas ūkio ir namų darbuose]]

@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Konradas, buvęs Tiuringijos landgrafas ir penktasis Teutonų namų ordino didysis magistras, mirė liepos 24 d. ir buvo palaidotas Markburge. Dusburgietis vaizduoja Konradą kaip šventosios dvasios apšviestą magistrą, permanydavusį žmonių paslaptis. Konradas (Tiuringijos landgrafas) kreipėsi į jo šventenybę popiežių, kuriam ir išpažino visas savo nuodėmes.
+Dusburgietis teigia, kad jo šviesybė valdovas Konradas, Tiuringijos landgrafas, kurio giminaitis buvo ir pats magistras, būdamas pasauliečiu, užsivilko drauge su dideliu būriu savo kilmingųjų šio Ordino vienuoli© apsiaustą. Dusburgietis teigia, kad apie brolį Konradą, kadaise Tiuringijos landgrafą, penktą Teutonų namų ordino didįjį magistrą Brolis Konradas, kadaise Tiuringijos landgrafas, penktas Teutonų namų ordino didysis magistras, mirė liepos 24 dieną, o palaidotas Markburge. Dusburgietis teigia, kad konradas (Tiuringijos landgrafas) kreipėsi į jo šventenybę popiežių, kuriam ir išpažino visas savo nuodėmes.
 
 ## Teiginiai
 
@@ -23,6 +23,9 @@ Konradas, buvęs Tiuringijos landgrafas ir penktasis Teutonų namų ordino didys
 - t-001
   global_id: t-59988
   teiginys: 'Konradas, buvęs Tiuringijos landgrafas ir penktasis Teutonų namų ordino didysis magistras, mirė liepos 24 d. ir buvo palaidotas Markburge.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'location: Markburgas; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/landgrafas|landgrafas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Markburgas'
+  semantiniai_rysiai: '[[objektai/asmenys/Konradas (Tiuringijos landgrafas)|Konradas (Tiuringijos landgrafas)]] mirė Markburgas'
   pagrindžia:
     - c-003
 
@@ -30,6 +33,8 @@ Konradas, buvęs Tiuringijos landgrafas ir penktasis Teutonų namų ordino didys
 - t-002
   global_id: t-59990
   teiginys: 'Dusburgietis vaizduoja Konradą kaip šventosios dvasios apšviestą magistrą, permanydavusį žmonių paslaptis.'
+  sudarymo_pagrindimas: 'Tai autoriaus legendinis vertinimas, todėl reikalinga šaltinio atribucija.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Šventoji'
   pagrindžia:
     - c-002
 
@@ -37,6 +42,8 @@ Konradas, buvęs Tiuringijos landgrafas ir penktasis Teutonų namų ordino didys
 - t-003
   global_id: t-59991
   teiginys: 'Konradas (Tiuringijos landgrafas) kreipėsi į jo šventenybę popiežių, kuriam ir išpažino visas savo nuodėmes.'
+  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Hartmanas|Hartmanas]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]'
   pagrindžia:
     - c-001
 
@@ -99,7 +106,4 @@ Konradas, buvęs Tiuringijos landgrafas ir penktasis Teutonų namų ordino didys
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Teutonai]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/landgrafas]]
+- Konradas (Tiuringijos landgrafas) mire [[objektai/vietos/Markburgas]]

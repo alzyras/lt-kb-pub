@@ -30,6 +30,9 @@ amziai:
 - t-001
   global_id: t-32616
   teiginys: '1285 m. pavasarį Tverės sritį plėšė tie patys užpuolikai, kurie 1284 m. vėl žygiavo į Lenkiją.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lenkija; mentioned_place: Livonija; mentioned_place: Tverė'
+  temporaliniai_duomenys: 'įvykio data: 1284 m.; įvykio data: 1285 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -37,6 +40,14 @@ amziai:
 - t-002
   global_id: t-184405
   teiginys: '1285 m. pavasarį lietuviai plėšė Tverės sritį.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis teiginys turėjo neaiškų įvardį ir perteklinį kontekstą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Liublinas; mentioned_place: Tverė'
+  temporaliniai_duomenys: 'įvykio data: 1285 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys turėjo neaiškų įvardį ir perteklinį kontekstą.'
   pagrindžia:
     - c-002
 

@@ -20,6 +20,8 @@ Su tam tikru pagrindu virvelinės kera­ mikos kultūros šaknų yra ieškoma pi
 - t-001
   global_id: t-32450
   teiginys: 'Virvelinės keramikos kultūros šaknų ieškoma Pietų Rusijoje.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Europa; mentioned_place: Kaukazas; mentioned_place: Rusija'
   pagrindžia:
     - c-001
 
@@ -27,9 +29,13 @@ Su tam tikru pagrindu virvelinės kera­ mikos kultūros šaknų yra ieškoma pi
 - t-002
   global_id: t-32451
   teiginys: 'Indoeuropiečiai į Europą greičiausiai atkeliavo per Pietų Rusijos stepes ir Kaukazą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Europa; mentioned_place: Kaukazas; mentioned_place: Rusija; mentioned_place: Ukraina'
   pagrindžia:
     - c-002
-
+- susijęs iš Smolenskas: Smolenskas ir visa pietų Rusija priklausė Vytautui, kai jis siekė sumušti totorius ir veržtis į Rytus.
+- susijęs iš Smolenskas: Vytautui priklausė Smolenskas ir visa pietų Rusia, tačiau jis siekė sumušti totorius ir plėsti įtaką rytuose.
+- susijęs iš Smolenskas: Smolenskas ir visa pietų Rusija priklausė Vytautui, kai jis siekė sumušti totorius ir veržtis į Rytus.
+- susijęs iš Smolenskas: Vytautui priklausė Smolenskas ir visa pietų Rusia, tačiau jis siekė sumušti totorius ir plėsti įtaką rytuose.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -61,3 +67,6 @@ Su tam tikru pagrindu virvelinės kera­ mikos kultūros šaknų yra ieškoma pi
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+- [[objektai/vietos/Smolenskas]] priklause Pietų Rusija

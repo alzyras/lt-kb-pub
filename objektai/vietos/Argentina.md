@@ -3,17 +3,23 @@ tipas: vieta
 pavadinimas: 'Argentina'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1939 m.'
+date_start: '1939'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - valstybė
   - vieta
+amziai:
+  - 'XX'
 ---
 # Argentina
 
 ## Santrauka
 
-Argentina buvo viena Pietų Amerikos šalių, į kurias daugiausia vyko lietuviai emigrantai.
+De jure Lietuva tebuvo pripažinta tik Vokietijos, Rusijos, Šveicarijos, Argentinos, Meksikos ir Latvijos bei Estijos (šias pastarąsias tada jau buvo pripažinusi de jure 21 valstybė).
 
 ## Teiginiai
 
@@ -21,6 +27,11 @@ Argentina buvo viena Pietų Amerikos šalių, į kurias daugiausia vyko lietuvia
 - t-001
   global_id: t-46505
   teiginys: 'Argentina buvo viena Pietų Amerikos šalių, į kurias daugiausia vyko lietuviai emigrantai.'
+  sudarymo_pagrindimas: 'Sakinys perrašytas aiškiai susiejant faktą su Argentina.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_place: Afrika; mentioned_place: Kaunas; mentioned_place: Venesuela; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1939 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Sakinys perrašytas aiškiai susiejant faktą su Argentina.'
   pagrindžia:
     - c-001
 

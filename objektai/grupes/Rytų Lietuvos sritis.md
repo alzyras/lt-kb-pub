@@ -20,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-Bunkeryje susisprogdino Rytų Lietuvos srities vadas Antanas Slučka-Šarūnas, Joana Railaitė-Neringa ir partizanas Juozas Jovaiša-Lokys. Spalio 28 d. čekistai buvo atvesti prie tuometinio Šiaurės Rytų partizanų srities štabo bunkerio Jovaišų sodyboje. Rytų Lietuvos srities vadas Antanas Slučka-Šarūnas bunkeryje susisprogdino su žmona Joana Railaite-Neringa ir partizanu Juozu Jovaiša-Lokiu.
+1947 m. įkūrus Algimanto apygardą, jis tapo jos vadu, 1948 m. Rytų Lietuvos srities vadu. Po intensyvių tardymų bei kankinimų abu sutiko bendradarbiauti ir spalio 28 d. atvedė čekistus prie tuometinio Šiaurės Rytų partizanų srities štabo bunkerio Anykščių valsčiaus, Butkiškio vienkiemio Jovaišų sodyboje. Nematydami kitos išeities, bunkeryje susisprogdino Rytų Lietuvos srities vadas Antanas Slučka-Šarūnas kartu su savo žmona, RL štabo nare, štabo sekretore Joana Railaite-Neringa ir partizanu Juozu JovaišaLokiu.
 
 ## Teiginiai
 
@@ -28,6 +28,9 @@ Bunkeryje susisprogdino Rytų Lietuvos srities vadas Antanas Slučka-Šarūnas, 
 - t-001
   global_id: t-41137
   teiginys: 'Bunkeryje susisprogdino Rytų Lietuvos srities vadas Antanas Slučka-Šarūnas, Joana Railaitė-Neringa ir partizanas Juozas Jovaiša-Lokys.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Šimonių girios apgultis|Šimonių girios apgultis]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1949 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 
@@ -35,6 +38,8 @@ Bunkeryje susisprogdino Rytų Lietuvos srities vadas Antanas Slučka-Šarūnas, 
 - t-002
   global_id: t-41138
   teiginys: 'Spalio 28 d. čekistai buvo atvesti prie tuometinio Šiaurės Rytų partizanų srities štabo bunkerio Jovaišų sodyboje.'
+  sudarymo_pagrindimas: 'Reikia pašalinti perteklinį ir kiek netikslų vietos formulavimą, paliekant citata paremtą sakinį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Kariauna|Kariauna]]'
   pagrindžia:
     - c-001
 
@@ -42,6 +47,11 @@ Bunkeryje susisprogdino Rytų Lietuvos srities vadas Antanas Slučka-Šarūnas, 
 - t-003
   global_id: t-183667
   teiginys: 'Rytų Lietuvos srities vadas Antanas Slučka-Šarūnas bunkeryje susisprogdino su žmona Joana Railaite-Neringa ir partizanu Juozu Jovaiša-Lokiu.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 
@@ -106,8 +116,3 @@ Bunkeryje susisprogdino Rytų Lietuvos srities vadas Antanas Slučka-Šarūnas, 
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Antanas (vaistininkas)]]
-- [[objektai/ivykiai/Šimonių girios apgultis]]

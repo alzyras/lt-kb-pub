@@ -3,10 +3,17 @@ tipas: daiktas
 pavadinimas: 'A. Varno paveikslas „Mindaugo karūnacija“'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1952 m.'
+  - '1953 m.'
+date_start: '1952'
+date_end: '1953'
 sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
+amziai:
+  - 'XX'
 ---
 # A. Varno paveikslas „Mindaugo karūnacija“
 
@@ -40,6 +47,11 @@ Nenurodyta
 - t-001
   global_id: t-24535
   teiginys: 'A. Varno paveikslas „Mindaugo karūnacija“ vaizduoja Mindaugo vainikavimą ir buvo sukurtas 1952–1953 m.'
+  sudarymo_pagrindimas: 'Pirminis teiginys negramatiškas, bet citata leidžia suformuluoti faktą.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Mindaugo karūnacija (1253 m.)|Mindaugo karūnacija (1253 m.)]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]'
+  temporaliniai_duomenys: 'įvykio data: 1952-1953; įvykio data: 1953 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pirminis teiginys negramatiškas, bet citata leidžia suformuluoti faktą.'
   pagrindžia:
     - c-001
 
@@ -56,9 +68,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
-- [[objektai/ivykiai/Mindaugo karūnacija (1253 m.)]]
-- [[objektai/ivykiai/Mindaugo karūnacija]]

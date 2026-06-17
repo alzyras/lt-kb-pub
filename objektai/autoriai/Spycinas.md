@@ -20,6 +20,8 @@ tags:
 - t-001
   global_id: t-30988
   teiginys: 'Spycinas buvo proistorikas.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir citata tiesiogiai nurodo Spycino apibūdinimą.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/Sobolevskij|Sobolevskij]]; mentioned_person: [[objektai/asmenys/Sofija|Sofija]]; mentioned_person: [[objektai/asmenys/Sofija Vytautaitė|Sofija Vytautaitė]]; mentioned_place: Alšėnai'
   pagrindžia:
     - c-001
 
@@ -59,9 +61,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/Sobolevskij]]
-- [[objektai/asmenys/Sofija]]
-- [[objektai/asmenys/Sofija Vytautaitė]]

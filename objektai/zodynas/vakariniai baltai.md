@@ -10,7 +10,7 @@ atnaujinta: ''
 
 ## Santrauka
 
-Šio leidimo aiškinime prūsai ir jotvingiai priskiriami vakarų baltų tarmių regionui. Šio leidimo aiškinime nadruviai, skalviai ir kuršiai priskiriami prie vakarinių baltų. Prie vakarinių baltų priskiriami prūsai, kuršiai, nadruviai ir skalviai, o dalis jų XIV–XVI a. sulietuvėjo.
+Etnolingvistinis ir istoriografinis terminas, kuriuo šiame leidinyje apimami prūsai, nadruviai, skalviai, kuršiai ir su jais gretinami jotvingiai. Terminas nuolat priešpriešinamas rytiniams baltams.
 
 ## Žodis ir formos
 
@@ -30,6 +30,7 @@ Vartojama kalbiniams, kultūriniams ir istoriografiniams baltų ryšiams aiškin
 - t-001
   global_id: t-70376
   teiginys: 'Šio leidimo aiškinime prūsai ir jotvingiai priskiriami vakarų baltų tarmių regionui.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Jotvingiai|Jotvingiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Prūsai; mentioned_place: Viena'
   pagrindžia:
     - c-003
 
@@ -37,6 +38,7 @@ Vartojama kalbiniams, kultūriniams ir istoriografiniams baltų ryšiams aiškin
 - t-002
   global_id: t-70377
   teiginys: 'Šio leidimo aiškinime nadruviai, skalviai ir kuršiai priskiriami prie vakarinių baltų.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Nadruviai|Nadruviai]]; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_person: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
 
@@ -44,6 +46,8 @@ Vartojama kalbiniams, kultūriniams ir istoriografiniams baltų ryšiams aiškin
 - t-003
   global_id: t-70378
   teiginys: 'Prie vakarinių baltų priskiriami prūsai, kuršiai, nadruviai ir skalviai, o dalis jų XIV–XVI a. sulietuvėjo.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Nadruviai|Nadruviai]]; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_person: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
 
@@ -51,6 +55,8 @@ Vartojama kalbiniams, kultūriniams ir istoriografiniams baltų ryšiams aiškin
 - t-004
   global_id: t-70380
   teiginys: 'Vakarų baltų prūsų tarmės skyrėsi nuo rytų baltų lietuvių ir latvių tarmių.'
+  sudarymo_pagrindimas: 'Citata palaiko kalbinį skirtumą, bet pradinė formuluotė apie leidinio priešpriešą yra silpnesnė.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Prūsai'
   pagrindžia:
     - c-002
 
@@ -58,6 +64,8 @@ Vartojama kalbiniams, kultūriniams ir istoriografiniams baltų ryšiams aiškin
 - t-005
   global_id: t-70381
   teiginys: 'Vakarų baltų, arba prūsų, tarmės daugeliu atvejų laikomos archaiškesnėmis už rytų baltų lietuvių ir latvių tarmes.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata apie vakarų baltų tarmių archajiškumą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Prūsai'
   pagrindžia:
     - c-002
 
@@ -109,16 +117,3 @@ Vartojama kalbiniams, kultūriniams ir istoriografiniams baltų ryšiams aiškin
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Baltai]]
-- [[objektai/autoriai/K. Būga]]
-- [[objektai/grupes/Latviai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Nadruviai]]
-- [[objektai/grupes/Skalviai]]
-- [[objektai/grupes/Jotvingiai]]
-- [[objektai/grupes/Kuršiai]]
-- [[objektai/autoriai/J. Endzelynas]]
-- [[objektai/autoriai/V. Mažiulis]]

@@ -25,6 +25,11 @@ Savo gausiuose veikaluose Lelevelis, kuris iki pat paskutinių savo gyvenimo met
 - t-001
   global_id: t-29204
   teiginys: 'Jokimas Lelevelis savo gausiuose veikaluose nemažai rašė apie Didžiosios Lietuvos Kunigaikštystės istoriją.'
+  sudarymo_pagrindimas: 'Pradinis sakinys per ilgas ir turi šalutinės informacijos, kurią galima glaustai perrašyti.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/Lelevelis|Lelevelis]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: iki 1569 m.; įvykio data: 1569 m.; įvykio data: 1839 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis sakinys per ilgas ir turi šalutinės informacijos, kurią galima glaustai perrašyti.'
   pagrindžia:
     - c-001
 
@@ -32,6 +37,10 @@ Savo gausiuose veikaluose Lelevelis, kuris iki pat paskutinių savo gyvenimo met
 - t-002
   global_id: t-184351
   teiginys: 'Jokimas Lelevelis parašė Aug.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/Lelevelis|Lelevelis]]'
   pagrindžia:
     - c-002
 

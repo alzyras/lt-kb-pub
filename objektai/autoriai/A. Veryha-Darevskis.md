@@ -3,10 +3,6 @@ tipas: autorius
 pavadinimas: 'A. Veryha-Darevskis'
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
-aliases:
-  - 'objektai/autoriai/A. Veryha - Darevskis'
-variantai:
-  - 'A. Veryha - Darevskis'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -28,6 +24,7 @@ A. Veryha-Darevskis šiame šaltinyje minimas kaip veikalo „Lietuvos mokesčia
 - t-001
   global_id: t-71487
   teiginys: 'A. Veryha-Darevskis šiame šaltinyje nurodomas kaip veikalo „Lietuvos mokesčiai“ autorius.'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -35,6 +32,7 @@ A. Veryha-Darevskis šiame šaltinyje minimas kaip veikalo „Lietuvos mokesčia
 - t-002
   global_id: t-71488
   teiginys: 'A. Veryha-Darevskis nurodomas kaip veikalo „Lietuvos mokesčiai“ autorius.'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-001
 

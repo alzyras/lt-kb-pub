@@ -3,6 +3,11 @@ tipas: asmuo
 pavadinimas: 'Jonas iš Zabrežjės'
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+datos:
+  - '1501 m.'
+  - '1503 m.'
+date_start: '1501'
+date_end: '1503'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -10,6 +15,11 @@ tags:
   - karalius
   - kunigaikštis
   - tikėjimas
+  - vyskupas
+amziai:
+  - 'XVI'
+periodo_grupes:
+  - 'LDK'
 ---
 # Jonas iš Zabrežjės
 
@@ -23,6 +33,11 @@ Ten pat daly­ vaujant didžiai gerbiamiems, didingiesiems ir prakilnie­ siems 
 - t-001
   global_id: t-87525
   teiginys: '1503 m. Vilniuje Jonas iš Zabrežjės dalyvavo rašto išdavimo paliudijime kaip LDK didysis maršalka, Trakų vaivada ir Merkinės laikytojas.'
+  sudarymo_pagrindimas: 'Pradinis tekstas buvo dokumento liudytojų sąrašo fragmentas, todėl reikėjo sakinio.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_object: [[objektai/zodynas/maršalka|maršalka]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Merkinė; mentioned_place: Polockas; mentioned_place: Trakai; mentioned_place: Vilnius; mentioned_place: Vroclavas'
+  temporaliniai_duomenys: 'įvykio data: 1503 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis tekstas buvo dokumento liudytojų sąrašo fragmentas, todėl reikėjo sakinio.'
   pagrindžia:
     - c-002
 
@@ -30,9 +45,15 @@ Ten pat daly­ vaujant didžiai gerbiamiems, didingiesiems ir prakilnie­ siems 
 - t-002
   global_id: t-87526
   teiginys: 'Jonas iš Zabrežjės 1501 m. Gardine dalyvavo kaip Trakų vaivada ir LDK didysis maršalka.'
+  sudarymo_pagrindimas: 'Citata nurodo datą, vietą, dalyvavimą ir Jono iš Zabrežjės pareigas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Pataurininkis|Pataurininkis]]; mentioned_object: [[objektai/zodynas/kaštelionas|kaštelionas]]; mentioned_object: [[objektai/zodynas/maršalka|maršalka]]; mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Bełskas; mentioned_place: Gardinas; mentioned_place: Slonimas; mentioned_place: Trakai; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1501 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata nurodo datą, vietą, dalyvavimą ir Jono iš Zabrežjės pareigas.'
   pagrindžia:
     - c-001
-
+- susijęs iš Merkinė: Karaliaus Aleksandro testamento liudytojų sąraše Jonas iš Zabrežjės įvardytas Merkinės laikytoju.
+- susijęs iš Merkinė: 1503 m. Vilniuje duotame dokumente Jonas iš Zabrežjės minimas kaip Merkinės laikytojas.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -79,12 +100,3 @@ Ten pat daly­ vaujant didžiai gerbiamiems, didingiesiems ir prakilnie­ siems 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Antspaudas]]
-- [[objektai/zodynas/Pataurininkis]]
-- [[objektai/zodynas/kaštelionas]]
-- [[objektai/zodynas/maršalka]]
-- [[objektai/zodynas/seniūnas]]
-- [[objektai/zodynas/vaivada]]

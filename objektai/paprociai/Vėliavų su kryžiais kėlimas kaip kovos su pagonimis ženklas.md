@@ -42,6 +42,8 @@ Nenurodyta
 - t-001
   global_id: t-87291
   teiginys: 'Apgultos tvirtovės gynėjai iškėlė vėliavas su kryžiais, rodydami, kad kovoja su pagonimis Vytauto gretose.'
+  sudarymo_pagrindimas: 'Pradinis teiginys turi OCR triukšmo ir pašalinį fragmentą, bet pagrindinis faktas citatoje aiškus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]'
   pagrindžia:
     - c-001
 
@@ -74,11 +76,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/zodynas/įgula]]
-- [[objektai/daiktai/Karinės vėliavos ir ženklai]]
-- [[objektai/asmenys/Mikalojus Moskoževskis]]
-- [[objektai/daiktai/Vėliavos su kryžiais]]

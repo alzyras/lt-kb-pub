@@ -29,6 +29,11 @@ Iki 1362 jis užėmė Smolensko kunigaikštijai priklausantį Mogiliavą, Toropi
 - t-001
   global_id: t-99915
   teiginys: 'Iki 1362 m. Algirdas užėmė Smolensko kunigaikštijai priklausiusį Toropiecą.'
+  sudarymo_pagrindimas: 'Teiginys paremtas, bet reikia aiškaus veikėjo ir taisyklingos datos.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Mstislavlis; mentioned_place: Rževas; mentioned_place: Smolenskas'
+  temporaliniai_duomenys: 'įvykio data: iki 1362 m.; įvykio data: 1362 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys paremtas, bet reikia aiškaus veikėjo ir taisyklingos datos.'
   pagrindžia:
     - c-001
 

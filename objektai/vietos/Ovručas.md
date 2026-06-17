@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-1394 m. Vytautas puolė Vladimiro žemes ir paėmė Ovručą bei Žitomirą. Gedimino kariuomenė perėjo Vladimiro ir Lucko žemes, nedarydama sąjungininkams skriaudų, ir priartėjo prie Ovručo. Lietuviai gaudė pabėgusius totorius Ovručo ir kitais keliais, juos žudė ir atiminėjo grobį.
+Tik 1394 metais jis puolė Vladimiro že­ mes ir paėmė Ovručą ir Žitomirą.
 
 ## Teiginiai
 
@@ -29,6 +29,9 @@ amziai:
 - t-001
   global_id: t-36470
   teiginys: '1394 m. Vytautas puolė Vladimiro žemes ir paėmė Ovručą bei Žitomirą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Vladimiras; mentioned_place: Žitomiras'
+  temporaliniai_duomenys: 'įvykio data: 1394 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -36,16 +39,30 @@ amziai:
 - t-002
   global_id: t-185075
   teiginys: 'Gedimino kariuomenė perėjo Vladimiro ir Lucko žemes, nedarydama sąjungininkams skriaudų, ir priartėjo prie Ovručo.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nusako Gedimino kariuomenės judėjimą link Ovručo.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Kijevas; mentioned_place: Luckas'
+  temporaliniai_duomenys: 'įvykio data: 1320 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako Gedimino kariuomenės judėjimą link Ovručo.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-187628"></a>
 - t-003
   global_id: t-187628
-  teiginys: 'Lietuviai gaudė pabėgusius totorius Ovručo ir kitais keliais, juos žudė ir atiminėjo grobį.'
+  teiginys: 'Lietuvos metraštis pasakoja, kad lietuviai Ovručo ir kitais keliais gaudė bėgančius totorius, juos žudė ir atiminėjo grobį.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Priešiškas karo epizodo vaizdavimas paliktas kaip metraščio pasakojimas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Lietuva; mentioned_place: Volynė'
   pagrindžia:
     - c-003
-
+- susijęs iš [[objektai/ivykiai/Bogdano Chmelnickio vadovaujamas Ukrainos kazokų sukilimas (1648–1651 m.).md#claim-t-39100|Bogdano Chmelnickio vadovaujamas Ukrainos kazokų sukilimas (1648–1651 m.)]]: Prie Lojevo priartėjusios Kijevo, Černobylio ir Ovručo kazokų pajėgos buvo triskart gausesnės už LDK kariuomenę.
+- susijęs iš Žitomiras: 1394 m. Vytautas puolė Vladimiro žemes ir paėmė Ovručą bei Žitomirą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -108,7 +125,7 @@ amziai:
     - t-002
 
 - c-003
-  santrauka: 'Lietuviai gaudė pabėgusius totorius Ovručo ir kitais keliais, juos žudė ir atiminėjo grobį.'
+  santrauka: 'Lietuvos metraštis pasakoja, kad lietuviai Ovručo ir kitais keliais gaudė bėgančius totorius, juos žudė ir atiminėjo grobį.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     Ir kai totoriai pribėgo Ceprą, bemaž visi upėje ir

@@ -26,6 +26,11 @@ Dusburgietis teigia, kad mažiulis V.
 - t-001
   global_id: t-61165
   teiginys: 'V. Mažiulio „Baltų ir kitų indoeuropiečių kalbų santykiai: Deklinacija“ išleistas Vilniuje 1970 m.'
+  sudarymo_pagrindimas: 'Citata pagrindžia autorių, pavadinimą, leidimo vietą ir metus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1970 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia autorių, pavadinimą, leidimo vietą ir metus.'
   pagrindžia:
     - c-001
 

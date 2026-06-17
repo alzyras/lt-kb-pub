@@ -3,11 +3,16 @@ tipas: autorius
 pavadinimas: 'G. Rhode'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+datos: []
+date_start: ''
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
   - valstybė
+amziai: []
+periodo_grupes: []
 ---
 # G. Rhode
 
@@ -21,6 +26,9 @@ Rhode : RhOP, 172-206 p.; A. Rhode, G.
 - t-001
   global_id: t-30619
   teiginys: 'G. Rhode 1973 m. paskelbė straipsnį apie polemiką dėl 1410 m. Tanenbergo mūšio.'
+  susije_objektai: 'mentioned_place: Tanenbergas'
+  temporaliniai_duomenys: 'įvykio data: 1410 m.; įvykio data: 1973 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -28,9 +36,14 @@ Rhode : RhOP, 172-206 p.; A. Rhode, G.
 - t-002
   global_id: t-30620
   teiginys: 'G. Rhode plačiai rašė apie kovas, aptartas veikalo „RhOP“ 172-206 puslapiuose.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Liubartas|Liubartas]]'
+  temporaliniai_duomenys: 'įvykio data: 1353 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179678|Skirgaila]]: Jogaila, užrašydamas Skirgailai Trakus ir Polocką, pažadėjo laikyti jį aukščiau už visus kitus brolius.
+- susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179679|Skirgaila]]: Jogaila, užrašydamas Skirgailai Trakus ir Polocką, pažadėjo laikyti jį aukščiau už visus kitus brolius.
+- susijęs iš [[objektai/autoriai/Rhode, G.md#claim-t-30952|Rhode, G]]: G. Rhode 1973 m. paskelbė darbą apie polemiką dėl 1410 m. Tanenbergo mūšio.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -65,9 +78,3 @@ Rhode : RhOP, 172-206 p.; A. Rhode, G.
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/žygis]]

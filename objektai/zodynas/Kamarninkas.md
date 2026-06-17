@@ -23,6 +23,8 @@ tags:
 - t-001
   global_id: t-28554
   teiginys: 'Ordinas į Žemaičius siuntė kamarninkus žmonėms teisti ir valdyti.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nusako kamarninkų funkciją Žemaičiuose ir atitinka citatą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-002
 
@@ -30,6 +32,8 @@ tags:
 - t-002
   global_id: t-28555
   teiginys: 'Ordino kamarninkai Žemaičiuose vėl ėmė matuoti laukus ir surašinėti gyventojus.'
+  sudarymo_pagrindimas: 'Teiginys yra konkretus, pilnas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]'
   pagrindžia:
     - c-001
 
@@ -61,8 +65,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/zodynas/vietininkas]]

@@ -3,17 +3,25 @@ tipas: saltinis
 pavadinimas: 'Tautiška giesmė'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1889 m.'
+  - '1950 m.'
+date_start: '1889'
+date_end: '1950'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
   - tauta
+amziai:
+  - 'XIX'
+  - 'XX'
 ---
 # Tautiška giesmė
 
 ## Santrauka
 
-1950 m. sovietai uždraudė Lietuvos himną - Vinco Kudirkos „Tautišką giesmę“. Vincas Kudirka sukūrė eilėraštį „Tautiška giesmė“ ir jo melodiją; šis kūrinys tapo Lietuvos himnu.
+Kudirka rašė poeziją, sukūrė eilėraštį „Tautiška giesmė“ ir jam melodiją – šis kūrinys taps Lietuvos himnu. 1950 m. uždraustas ir Lietuvos himnas – Vinco Kudirkos „Tautiška giesmė“.
 
 ## Teiginiai
 
@@ -21,6 +29,11 @@ tags:
 - t-001
   global_id: t-21278
   teiginys: '1950 m. sovietai uždraudė Lietuvos himną - Vinco Kudirkos „Tautišką giesmę“.'
+  sudarymo_pagrindimas: 'Perrašyta į pilnesnį sakinį, aiškiai nurodant veikėją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Komjaunimas|Komjaunimas]]; mentioned_object: [[objektai/autoriai/Vincas Kudirka|Vincas Kudirka]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1950 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Perrašyta į pilnesnį sakinį, aiškiai nurodant veikėją.'
   pagrindžia:
     - c-002
 
@@ -28,6 +41,11 @@ tags:
 - t-002
   global_id: t-21279
   teiginys: 'Vincas Kudirka sukūrė eilėraštį „Tautiška giesmė“ ir jo melodiją; šis kūrinys tapo Lietuvos himnu.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/autoriai/Vincas Kudirka|Vincas Kudirka]]; mentioned_person: [[objektai/autoriai/V. Kudirka|V. Kudirka]]; mentioned_place: Lietuva; mentioned_place: Varšuva'
+  temporaliniai_duomenys: 'įvykio data: 1889 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
 

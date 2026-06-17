@@ -20,6 +20,8 @@ Dusburgietis teigia, kad voigt J.
 - t-001
   global_id: t-61351
   teiginys: 'J. Voigto „Burgen-Karte von Preussen zur Zeit des Deutschen Ordens“ pateikta „Geschichte Preussens“ antrajame tome.'
+  sudarymo_pagrindimas: 'Citata susieja žemėlapį su J. Voigto „Geschichte Preussens“ antruoju tomu.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
   pagrindžia:
     - c-001
 

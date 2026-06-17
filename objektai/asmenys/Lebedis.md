@@ -20,6 +20,7 @@ Be to, Lebedis mokėjo skolas lietuviškomis monetomis, pridėjau 69 flor., 4 gr
 - t-001
   global_id: t-87540
   teiginys: 'Lebedis skolas mokėjo lietuviškomis monetomis, prie kurių buvo pridėta 69 florinai, 4 grašiai ir 9 denarai.'
+  sudarymo_pagrindimas: 'Pradiniame teiginyje buvo neaiški pirmojo asmens forma ir sutrumpinimai.'
   pagrindžia:
     - c-002
 
@@ -27,6 +28,8 @@ Be to, Lebedis mokėjo skolas lietuviškomis monetomis, pridėjau 69 flor., 4 gr
 - t-002
   global_id: t-87541
   teiginys: 'Gruodžio 1 d. Lebedis Varšuvoje, būdamas mokesčių rinkėjas, prie lietuviškų monetų pridėjo 3 florinus ir 19 grašių.'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo fragmentiškas; citata leidžia atkurti pilną faktinį sakinį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/florinai|florinai]]'
   pagrindžia:
     - c-001
 
@@ -57,7 +60,3 @@ Be to, Lebedis mokėjo skolas lietuviškomis monetomis, pridėjau 69 flor., 4 gr
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/florinai]]

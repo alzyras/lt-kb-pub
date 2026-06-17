@@ -4,9 +4,10 @@ pavadinimas: 'Jozefo Grabinskio Jėgerių batalionas'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
+  - '1794 m.'
   - '2004 m.'
-date_start: '2004'
-date_end: ''
+date_start: '1794'
+date_end: '2004'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -14,6 +15,7 @@ tags:
   - sukilimas
   - tauta
 amziai:
+  - 'XVIII'
   - 'XXI'
 ---
 # Jozefo Grabinskio Jėgerių batalionas
@@ -28,6 +30,12 @@ Jozefo Grabinskio Jėgerių batalionas, LDK kariuomenės artileristai prasidėju
 - t-001
   global_id: t-40903
   teiginys: 'Jozefo Grabinskio Jėgerių batalionas priklausė Vilnių nuo rusų puolimo gynusiai gen. mjr. Jono Mejeno divizijai.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'owner: [[objektai/grupes/Rusai|Rusai]]; owner: Vilnius; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Jozefo Grabinskio Jėgerių batalionas|Jozefo Grabinskio Jėgerių batalionas]] priklausė [[objektai/grupes/Rusai|Rusai]]; [[objektai/grupes/Jozefo Grabinskio Jėgerių batalionas|Jozefo Grabinskio Jėgerių batalionas]] priklausė Vilnius'
+  temporaliniai_duomenys: 'priklausymo laikotarpis: 1794 m.; priklausymo laikotarpis: 2004 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Jozefo Grabinskio Jėgerių batalionas priklausė Rusai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jozefo Grabinskio Jėgerių batalionas priklausė Vilnius“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -54,8 +62,5 @@ Jozefo Grabinskio Jėgerių batalionas, LDK kariuomenės artileristai prasidėju
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Rusai]]
-- [[objektai/grupes/2-oji ir 3-ioji Tautinės kavalerijos brigados]]
-- [[objektai/grupes/Jono Mejeno divizija]]
-- [[objektai/grupes/oji ir 3-ioji Tautinės kavalerijos brigados]]
+- Jozefo Grabinskio Jėgerių batalionas priklause [[objektai/grupes/Rusai]]
+- Jozefo Grabinskio Jėgerių batalionas priklause [[objektai/vietos/Vilnius]]

@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Lietuvos barokas architektūroje perėjo nuo importo etapo prie savitos Vilniaus baroko mokyklos ir medinio provincijos baroko. Lietuvoje barokas geriausiai matomas architektūroje, ypač bažnyčių architektūroje.
+Baroko sąvoka, kaip minėjome, atėjusi iš meno, ypač iš architektūros, istorijos, o pats žodis „barokas“ siejamas su isp. barrueco, port. Nuo 1586 m. Nesvyžiaus jėzuitų bažnyčios iki Vilniaus katedros fasado skulptūrų, sukurtų 1784–1787 m. du šimtus metų Lietuva gyveno baroko dvasia.
 
 ## Laikotarpis ir datos
 
@@ -49,6 +49,8 @@ Nenurodyta
 - t-001
   global_id: t-67056
   teiginys: 'Lietuvos barokas architektūroje perėjo nuo importo etapo prie savitos Vilniaus baroko mokyklos ir medinio provincijos baroko.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai remiasi baroko raidos aprašymu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/barokas|barokas]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -56,6 +58,8 @@ Nenurodyta
 - t-002
   global_id: t-67057
   teiginys: 'Lietuvoje barokas geriausiai matomas architektūroje, ypač bažnyčių architektūroje.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, pilnas ir tiesiogiai paremtas citatos sakiniu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/barokas|barokas]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -88,11 +92,3 @@ Nenurodyta
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/drabužis]]
-
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/barokas]]

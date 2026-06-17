@@ -18,6 +18,14 @@ Odoakras, užėmęs Ticiną, įkalino imperatoriaus Augustulo tėvą Orestą.
 - t-001
   global_id: t-186243
   teiginys: 'Odoakras, užėmęs Ticiną, įkalino imperatoriaus Augustulo tėvą Orestą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, pilnas ir paremtas citatoje nurodytu Oresto įkalinimu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Herulai|Herulai]]; mentioned_group: [[objektai/grupes/Langobardai|Langobardai]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 475 m'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, pilnas ir paremtas citatoje nurodytu Oresto įkalinimu.'
   pagrindžia:
     - c-001
 
@@ -56,9 +64,3 @@ Odoakras, užėmęs Ticiną, įkalino imperatoriaus Augustulo tėvą Orestą.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Herulai]]
-- [[objektai/grupes/Langobardai]]
-- [[objektai/ivykiai/Vakarų Romos imperatoriaus nuvertimas ir Otokaro įsigalėjimas Romoje (475 m.)]]

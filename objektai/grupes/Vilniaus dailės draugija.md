@@ -21,6 +21,9 @@ Lietuviai pirmieji Vilniuje įkūrė Lietuvių dailės draugiją, pradėjo rengt
 - t-001
   global_id: t-75018
   teiginys: 'Vilniaus dailės draugija veikė greta Lietuvių dailės draugijos, o kai kurie žmonės priklausė abiem draugijoms tuo pat metu.'
+  sudarymo_pagrindimas: 'Pradinis teiginys per bendras; citata leidžia suformuluoti faktą apie draugiją.'
+  susije_objektai: 'owner: [[objektai/grupes/Lietuviai|Lietuviai]]; owner: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Vilniaus dailės draugija|Vilniaus dailės draugija]] priklausė [[objektai/grupes/Lietuviai|Lietuviai]]; [[objektai/grupes/Vilniaus dailės draugija|Vilniaus dailės draugija]] priklausė Vilnius'
   pagrindžia:
     - c-002
 
@@ -28,6 +31,8 @@ Lietuviai pirmieji Vilniuje įkūrė Lietuvių dailės draugiją, pradėjo rengt
 - t-002
   global_id: t-75019
   teiginys: 'Vilniaus dailės draugiją įkūrė vietiniai dailininkai, nenorėję tapatintis su etninių lietuvių tautinio sąjūdžio tikslais.'
+  sudarymo_pagrindimas: 'Teiginys pilnai nusako, kas įkūrė draugiją ir kokiame kontekste.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Viena; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -73,8 +78,5 @@ Lietuviai pirmieji Vilniuje įkūrė Lietuvių dailės draugiją, pradėjo rengt
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Lietuvių Dailės Draugija]]
-- [[objektai/ivykiai/Lietuvių dailės draugijos ir Vilniaus dailės draugijos įkūrimas]]
-- [[objektai/paprociai/Lietuvių ir lenkų kultūrinių draugijų paralelizmas, tyrimai ir viešos parodos]]
+- Vilniaus dailės draugija priklause [[objektai/grupes/Lietuviai]]
+- Vilniaus dailės draugija priklause [[objektai/vietos/Vilnius]]

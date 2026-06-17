@@ -26,7 +26,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Vosylius I, Dimitro Donskojaus sūnus ir Vytauto žentas, mirdamas norėjo, kad Vytautas globotų jo šeimą. Vosylius I buvo Vytauto žentas, su kuriuo Vytautas oficialiai laikėsi taikos. 1425 m. mirštantis Maskvos kunigaikštis Vosylius paliko savo nepilnametį sūnų Vosylių Vytauto globai.
+Iš Smolensko puldamas Riazanių, kuris savo globon paėmė Jurgį Sviatoslovaitį, Vytautas priartėjo prie valdų savo žento Vosyliaus I (1389-1425), su kuriuo oficialiai laikėsi taikos. Tokia Vosyliaus laikysena paskatino Vytautą pradėti prieš žentą karo veiksmus, kurie užsitęsė trejus metus (1406-1408).
 
 ## Teiginiai
 
@@ -34,6 +34,11 @@ Vosylius I, Dimitro Donskojaus sūnus ir Vytauto žentas, mirdamas norėjo, kad 
 - t-001
   global_id: t-64265
   teiginys: 'Vosylius I, Dimitro Donskojaus sūnus ir Vytauto žentas, mirdamas norėjo, kad Vytautas globotų jo šeimą.'
+  sudarymo_pagrindimas: 'Citata patvirtina faktą, bet reikėjo pašalinti išnašų ir OCR triukšmą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vosylius|Vosylius]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  temporaliniai_duomenys: 'įvykio data: 1422 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata patvirtina faktą, bet reikėjo pašalinti išnašų ir OCR triukšmą.'
   pagrindžia:
     - c-001
 
@@ -41,6 +46,7 @@ Vosylius I, Dimitro Donskojaus sūnus ir Vytauto žentas, mirdamas norėjo, kad 
 - t-002
   global_id: t-64266
   teiginys: 'Vosylius I buvo Vytauto žentas, su kuriuo Vytautas oficialiai laikėsi taikos.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/lenas|lenas]]; mentioned_person: [[objektai/asmenys/Hlebas|Hlebas]]; mentioned_person: [[objektai/asmenys/Jomantas|Jomantas]]; mentioned_person: [[objektai/asmenys/Vosylius|Vosylius]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Riazanė; mentioned_place: Smolenskas; mentioned_place: Tverė'
   pagrindžia:
     - c-003
 
@@ -48,6 +54,12 @@ Vosylius I, Dimitro Donskojaus sūnus ir Vytauto žentas, mirdamas norėjo, kad 
 - t-003
   global_id: t-64267
   teiginys: '1425 m. mirštantis Maskvos kunigaikštis Vosylius paliko savo nepilnametį sūnų Vosylių Vytauto globai.'
+  sudarymo_pagrindimas: 'Citata tiesiogiai patvirtina faktą, o pradinis teiginys buvo per daug kontekstinis.'
+  susije_objektai: 'territory: Lietuva; territory: Maskva; territory: Palanga; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Vosylius|Vosylius]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Palanga'
+  semantiniai_rysiai: '[[objektai/asmenys/Vosylius I|Vosylius I]] buvo valdovas Lietuva; [[objektai/asmenys/Vosylius I|Vosylius I]] buvo valdovas Maskva; [[objektai/asmenys/Vosylius I|Vosylius I]] buvo valdovas Palanga'
+  temporaliniai_duomenys: 'valdymo laikotarpis: 1425 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Vosylius I buvo valdovas Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Vosylius I buvo valdovas Maskva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Vosylius I buvo valdovas Palanga“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata tiesiogiai patvirtina faktą, o pradinis teiginys buvo per daug kontekstinis.'
   pagrindžia:
     - c-002
 
@@ -55,9 +67,17 @@ Vosylius I, Dimitro Donskojaus sūnus ir Vytauto žentas, mirdamas norėjo, kad 
 - t-004
   global_id: t-64268
   teiginys: 'Vosyliaus I laikysena paskatino Vytautą pradėti karo veiksmus prieš Vosylių I; jie truko 1406–1408 m.'
+  sudarymo_pagrindimas: 'Reikia tiksliau atskirti karo veiksmų pradžią nuo jų trukmės.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_place: Maskva'
+  temporaliniai_duomenys: 'įvykio data: 1406-1408; įvykio data: 1408 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia tiksliau atskirti karo veiksmų pradžią nuo jų trukmės.'
   pagrindžia:
     - c-004
-
+- susijęs iš Maskva: Tapęs savo duktėno globėju, Vytautas kartu tapo Maskvos kunigaikštijos protektoriumi.
+- susijęs iš Maskva: Vytautas rašė su kariuomene pasiekęs vietą, nuo kurios iki Maskvos buvo trijų dienų kelias.
+- susijęs iš Pronskas: Vytautas toliausiai nužygiavo iki Okos prieupio Znos už Pronsko, visai netoli dabartinės Penzos.
+- susijęs iš Zna: Vytautas toliausiai nuėjo iki Okos prieupio Zna už Pronsko, netoli dabartinės Penzos.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -133,13 +153,6 @@ Vosylius I, Dimitro Donskojaus sūnus ir Vytauto žentas, mirdamas norėjo, kad 
     - t-004
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Hlebas]]
-- [[objektai/asmenys/Jomantas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/asmenys/Vosylius]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/chanas]]
-- [[objektai/asmenys/Jurgis Sviatoslavaitis]]
+- Vosylius I buvo_valdovas [[objektai/vietos/Lietuva]]
+- Vosylius I buvo_valdovas [[objektai/vietos/Maskva]]
+- Vosylius I buvo_valdovas [[objektai/vietos/Palanga]]

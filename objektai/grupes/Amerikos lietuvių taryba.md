@@ -3,11 +3,19 @@ tipas: grupe
 pavadinimas: 'Amerikos lietuvių taryba (institucija)'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1940 m.'
+  - '1951 m.'
+  - '1974 m.'
+date_start: '1940'
+date_end: '1974'
 sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
   - tauta
+amziai:
+  - 'XX'
 ---
 # Amerikos lietuvių taryba (institucija)
 
@@ -21,9 +29,20 @@ JAV veikė didžiausia lietuvių išeivijos dalis, svarbiausios ir stipriausios 
 - t-001
   global_id: t-23465
   teiginys: 'Amerikos lietuvių taryba, įsteigta 1940 m., buvo viena svarbiausių ir stipriausių JAV lietuvių išeivijos organizacijų.'
+  sudarymo_pagrindimas: 'Sutrumpinta iki aiškaus enciklopedinio sakinio apie objektą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Niujorkas; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1940 m.; įvykio data: 1951 m.; įvykio data: 1974 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Sutrumpinta iki aiškaus enciklopedinio sakinio apie objektą.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/grupes/Pasaulio lietuvių bendruomenė.md#claim-t-19960|Pasaulio lietuvių bendruomenė]]: Pasaulio lietuvių bendruomenė buvo viena svarbiausių ir stipriausių JAV lietuvių išeivijos organizacijų.
+- susijęs iš [[objektai/grupes/Vyriausiasis Lietuvos išlaisvinimo komitetas.md#claim-t-66326|Vyriausiasis Lietuvos išlaisvinimo komitetas]]: Iš Europos į JAV persikėlęs VLIK siekė veikti išvien su ALT ir PLB bei tarptautiniu mastu pasitarnauti Lietuvos laisvės bylai.
+- susijęs iš [[objektai/ivykiai/Lietuvių laisvinimo darbo konferencija Niujorke (1974 m. spalio 26–27 d.).md#claim-t-23491|Lietuvių laisvinimo darbo konferencija Niujorke (1974 m. spalio 26–27 d.)]]: 1974 m. spalio 26–27 d. Niujorke vykusi lietuvių laisvinimo darbo konferencija patvirtino nuostatą siekti nepriklausomos Lietuvos atstatymo.
+- susijęs iš Lietuvių laisvinimo darbo konferencijos nuostata dėl nepriklausomos Lietuvos atstatymo (1974 m.): 1974 m. lietuvių laisvinimo darbo konferencija patvirtino nuostatą siekti nepriklausomos Lietuvos atstatymo, remiantis lietuvių tautos valia.
+- susijęs iš JAV: JAV veikė didžiausia lietuvių išeivijos dalis ir svarbiausios organizacijos: ALT, PLB bei iš Europos persikėlęs VLIK.
+- susijęs iš Jungtinės Amerikos Valstijos: Jungtinėse Amerikos Valstijose veikė didžiausia lietuvių išeivijos dalis ir svarbiausios jos organizacijos ALT, PLB bei VLIK.
+- susijęs iš White Plains: 1974 m. spalio 26–27 d. White Plainse vyko lietuvių laisvinimo darbo konferencija, patvirtinusi siekį atstatyti nepriklausomą Lietuvą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -42,10 +61,3 @@ JAV veikė didžiausia lietuvių išeivijos dalis, svarbiausios ir stipriausios 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/ivykiai/Lietuvių laisvinimo darbo konferencija Niujorke (1974 m. spalio 26–27 d.)]]
-- [[objektai/grupes/Pasaulio lietuvių bendruomenė]]
-- [[objektai/grupes/Vyriausiasis Lietuvos išlaisvinimo komitetas]]

@@ -15,18 +15,18 @@ tags:
 Tik didieji mūsų kalbininkai Jaunius su Būga visas tas gimines vadino aisčiais, argumentuodami tuo, kad taip jas vadina senieji viduramžio raštai ir kad ten, kur jie gyveno, yra tą vardą pateisinančių vietovardžių (pav., Aistmarės Prūsuose). Jaunius; jo mokinys buvo ir poetas Vienažindys.
 
 ## Teiginiai
+
 <a id="claim-t-64676"></a>
 - t-001
   global_id: t-64676
   teiginys: 'K. Jaunius su K. Būga kelias gimines vadino aisčiais, remdamasis viduramžių raštais ir vietovardžiais.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_place: Baltija; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'K. Jaunius su K. Būga kelias gimines vadino aisčiais, remdamasis viduramžių raštais ir vietovardžiais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tas geografinis terminas reiš-
@@ -34,10 +34,8 @@ Tik didieji mūsų kalbininkai Jaunius su Būga visas tas gimines vadino aisčia
     Būga visas tas gimines vadino aisčiais, argumentuodami tuo, kad
     taip jas vadina senieji viduramžio raštai ir kad ten, kur jie gyveno,
     yra tą vardą pateisinančių vietovardžių (pav., _Aistmarės_ Prūsuose).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

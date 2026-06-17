@@ -20,6 +20,7 @@ p. dalys, turinčios apsaugoti divizijos vadovybe ir sustiprinti kitus pulkus.
 - t-001
   global_id: t-40830
   teiginys: 'Į Ukmergę atvykusios 8-ojo pėstininkų pulko dalys turėjo apsaugoti divizijos vadovybę ir sustiprinti kitus pulkus.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/flangas|flangas]]; mentioned_place: Ukmergė'
   pagrindžia:
     - c-001
 
@@ -40,7 +41,3 @@ p. dalys, turinčios apsaugoti divizijos vadovybe ir sustiprinti kitus pulkus.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/flangas]]

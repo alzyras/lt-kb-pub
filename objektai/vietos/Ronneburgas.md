@@ -20,9 +20,11 @@ tags:
 - t-001
   global_id: t-32511
   teiginys: 'Pagal Stryjkovskio kroniką buvo restauruoti Livonijos Ronneburgo analai ir nekrologas.'
+  sudarymo_pagrindimas: 'Reikia pataisyti formuluotę ir pašalinti šaltinio fragmentiškumą.'
+  susije_objektai: 'mentioned_place: Livonija'
   pagrindžia:
     - c-001
-
+- susijęs iš Livonija: Pagal Stryjkovskio kroniką buvo restauruoti Livonijos Ronneburgo analai ir nekrologas.
 ## Reikšmingi paminėjimai
 
 - c-001

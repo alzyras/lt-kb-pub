@@ -29,6 +29,9 @@ periodo_grupes:
 - t-001
   global_id: t-30551
   teiginys: 'A. Šeptyckyj siejamas su 1964-1975 m. Romoje leistu „Monumenta Ucrainae Historica“ I-XII tomų leidiniu.'
+  susije_objektai: 'mentioned_place: Roma'
+  temporaliniai_duomenys: 'įvykio data: 1964-1975; įvykio data: 1975 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

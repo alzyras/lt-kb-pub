@@ -27,6 +27,11 @@ Dusburgietis teigia, kad todėl tas pats brolis Zigfridas, magistras, nutarė, k
 - t-001
   global_id: t-58892
   teiginys: '1309 m. magistras Zigfridas nurodė broliams vienuoliams po liturginių valandų giedoti antifoną ir kolektą.'
+  sudarymo_pagrindimas: 'Citata pagrindžia liturginį nurodymą, o pradinis teiginys nutrūkęs.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1309 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia liturginį nurodymą, o pradinis teiginys nutrūkęs.'
   pagrindžia:
     - c-001
 
@@ -53,7 +58,3 @@ Dusburgietis teigia, kad todėl tas pats brolis Zigfridas, magistras, nutarė, k
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/magistras]]

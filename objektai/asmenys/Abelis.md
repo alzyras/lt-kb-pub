@@ -21,7 +21,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Dusburgietis pasakoja, kad Abelis nužudė savo brolį Henriką, siekdamas karaliauti jo vietoje. 1250 m. Abelis nužudė savo vyresnįjį brolį Danijos karalių Henriką, norėdamas užimti jo sostą, bet kitais metais jį nužudė frizai. Kitais metais Abelis žuvo nuo frizų ir taip nepasinaudojo savo piktadaryste.
+Abelis kronikos pasakojime rodomas kaip Danijos karaliaus Henriko brolis, nužudęs jį dėl karaliaus vietos ir netrukus pats žuvęs.
 
 ## Teiginiai
 
@@ -29,6 +29,7 @@ Dusburgietis pasakoja, kad Abelis nužudė savo brolį Henriką, siekdamas karal
 - t-001
   global_id: t-56962
   teiginys: 'Dusburgietis pasakoja, kad Abelis nužudė savo brolį Henriką, siekdamas karaliauti jo vietoje.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_object: [[objektai/zodynas/piktadarystė|piktadarystė]]; mentioned_place: Livonija'
   pagrindžia:
     - c-001
 
@@ -36,6 +37,11 @@ Dusburgietis pasakoja, kad Abelis nužudė savo brolį Henriką, siekdamas karal
 - t-002
   global_id: t-56963
   teiginys: '1250 m. Abelis nužudė savo vyresnįjį brolį Danijos karalių Henriką, norėdamas užimti jo sostą, bet kitais metais jį nužudė frizai.'
+  sudarymo_pagrindimas: 'Pradinė formuluotė gremėzdiška ir kartoja OCR fragmentus; citata palaiko aiškų faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_object: [[objektai/zodynas/piktadarystė|piktadarystė]]; mentioned_place: Livonija'
+  temporaliniai_duomenys: 'įvykio data: 1250 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinė formuluotė gremėzdiška ir kartoja OCR fragmentus; citata palaiko aiškų faktą.'
   pagrindžia:
     - c-001
 
@@ -43,6 +49,8 @@ Dusburgietis pasakoja, kad Abelis nužudė savo brolį Henriką, siekdamas karal
 - t-003
   global_id: t-56964
   teiginys: 'Kitais metais Abelis žuvo nuo frizų ir taip nepasinaudojo savo piktadaryste.'
+  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_object: [[objektai/zodynas/piktadarystė|piktadarystė]]; mentioned_place: Livonija'
   pagrindžia:
     - c-001
 
@@ -67,9 +75,3 @@ Dusburgietis pasakoja, kad Abelis nužudė savo brolį Henriką, siekdamas karal
     - t-002
     - t-001
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/piktadarystė]]
-- [[objektai/grupes/Čekai]]
-- [[objektai/asmenys/Henrikas (Danijos karalius)]]

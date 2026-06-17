@@ -31,6 +31,9 @@ amziai:
 - t-001
   global_id: t-31869
   teiginys: 'O. Laskowskio „Grunwald“ išleistas Varšuvoje 1929 m. ir apibūdintas kaip išsamus strateginis tyrinėjimas.'
+  susije_objektai: 'mentioned_place: Varšuva'
+  temporaliniai_duomenys: 'įvykio data: 1929 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

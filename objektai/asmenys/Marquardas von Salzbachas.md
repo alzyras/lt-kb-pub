@@ -5,8 +5,9 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1384 m.'
+  - '1388 m.'
 date_start: '1384'
-date_end: ''
+date_end: '1388'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -29,6 +30,9 @@ Antrajam Vytauto išbėgimui pas kryžiuočius daug pasitarnavo ordino riteris M
 - t-001
   global_id: t-30358
   teiginys: 'Marquardas von Salzbachas padėjo Vytautui pataikyti į palankų momentą Ordine.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Liublinas'
+  temporaliniai_duomenys: 'įvykio data: po 1388 m.; įvykio data: 1388 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -36,6 +40,7 @@ Antrajam Vytauto išbėgimui pas kryžiuočius daug pasitarnavo ordino riteris M
 - t-002
   global_id: t-30359
   teiginys: 'Marquardas von Salzbachas buvo uolus Vytauto patarėjas.'
+  susije_objektai: 'mentioned_place: Liublinas'
   pagrindžia:
     - c-002
 
@@ -43,6 +48,11 @@ Antrajam Vytauto išbėgimui pas kryžiuočius daug pasitarnavo ordino riteris M
 - t-003
   global_id: t-30360
   teiginys: 'Antrajam Vytauto išbėgimui pas kryžiuočius daug pasitarnavo ordino riteris Marquardas von Salzbachas.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie asmens vaidmenį ir remiasi citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Gardinas'
+  temporaliniai_duomenys: 'įvykio data: po 1384 m.; įvykio data: 1384 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie asmens vaidmenį ir remiasi citata.'
   pagrindžia:
     - c-003
 
@@ -89,8 +99,3 @@ Antrajam Vytauto išbėgimui pas kryžiuočius daug pasitarnavo ordino riteris M
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/zodynas/magistras]]

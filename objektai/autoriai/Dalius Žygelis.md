@@ -32,9 +32,15 @@ pradžioje Karolis Zikaras, Vytautas Lesčius 190 Šiaulių-Radviliškio operaci
 - t-001
   global_id: t-40613
   teiginys: 'Dalius Žygelis buvo kelių tekstų apie 1945–1949 m. Lietuvos partizanų kautynes bendraautoris.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Augustavo-Suvalkų operacija|Augustavo-Suvalkų operacija]]; mentioned_event: [[objektai/ivykiai/Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.)|Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.)]]; mentioned_event: [[objektai/ivykiai/Giedraičių kautynės|Giedraičių kautynės]]; mentioned_event: [[objektai/ivykiai/Kalniškės mūšis (1945 m. gegužės 16-17 d.)|Kalniškės mūšis (1945 m. gegužės 16-17 d.)]]; mentioned_event: [[objektai/ivykiai/Merkinės puolimas (1945 m. gruodžio 15 d.)|Merkinės puolimas (1945 m. gruodžio 15 d.)]]; mentioned_event: [[objektai/ivykiai/Radviliškio kautynės (1919 m. lapkričio 21–22 d.)|Radviliškio kautynės (1919 m. lapkričio 21–22 d.)]]; mentioned_event: [[objektai/ivykiai/Užpelkių kautynės|Užpelkių kautynės]]; mentioned_event: [[objektai/ivykiai/Šimonių girios apgultis|Šimonių girios apgultis]]; mentioned_event: [[objektai/ivykiai/Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)|Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)]]; mentioned_object: [[objektai/zodynas/Lietuvos atsikūrimas|Lietuvos atsikūrimas]]; mentioned_object: [[objektai/posakiai/karas po karo|karas po karo]]; mentioned_person: [[objektai/asmenys/Albertas|Albertas]]; mentioned_person: [[objektai/autoriai/Albertas Daugirdas|Albertas Daugirdas]]; mentioned_person: [[objektai/autoriai/Arvydas Anušauskas|Arvydas Anušauskas]]; mentioned_person: [[objektai/asmenys/Daugirdas|Daugirdas]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_person: [[objektai/asmenys/Ričardas (Kornvalijos grafas)|Ričardas (Kornvalijos grafas)]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Aukščiausiosios Tarybos rūmai; mentioned_place: Giedraičiai; mentioned_place: Lesčiai; mentioned_place: Lietuva; mentioned_place: Merkinė; mentioned_place: Užpelkiai; mentioned_place: Žuvintas'
+  temporaliniai_duomenys: 'įvykio data: 1919 m.; įvykio data: 1920 m.; įvykio data: 1945-1949; įvykio data: 1949 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171508|Karolis Zikaras]]: Karolis Zikaras, Dalius Žygelis ir Loreta Uzdraitė nurodyti kaip teksto apie Lietuvos partizanų apygardas autoriai.
+- susijęs iš [[objektai/autoriai/Loreta Uzdraitė.md#claim-t-78780|Loreta Uzdraitė]]: Loreta Uzdraitė, Karolis Zikaras ir Dalius Žygelis nurodyti kaip teksto apie Lietuvos partizanų apygardas autoriai.
+- susijęs iš [[objektai/autoriai/Ričardas Čekutis.md#claim-t-40672|Ričardas Čekutis]]: Ričardas Čekutis kartu su Daliumi Žygeliu parašė tekstus apie 1945 m. Kiauneliškių, Kalniškės ir Merkinės kautynes.
+- susijęs iš LIETUVOS PARTIZANŲ APYGARDOS IR JŲ ŽYMESNI ATSTOVAI: Informacinio bloko „Lietuvos partizanų apygardos ir jų žymesni atstovai“ autoriai nurodyti Karolis Zikaras, Dalius Žygelis ir Loreta Uzdraitė.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -94,17 +100,3 @@ pradžioje Karolis Zikaras, Vytautas Lesčius 190 Šiaulių-Radviliškio operaci
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/Augustavo-Suvalkų operacija]]
-- [[objektai/ivykiai/Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.)]]
-- [[objektai/ivykiai/Giedraičių kautynės]]
-- [[objektai/ivykiai/Kalniškės mūšis (1945 m. gegužės 16-17 d.)]]
-- [[objektai/zodynas/Lietuvos atsikūrimas]]
-- [[objektai/ivykiai/Merkinės puolimas (1945 m. gruodžio 15 d.)]]
-- [[objektai/ivykiai/Radviliškio kautynės (1919 m. lapkričio 21–22 d.)]]
-- [[objektai/ivykiai/Užpelkių kautynės]]
-- [[objektai/posakiai/karas po karo]]
-- [[objektai/ivykiai/Šimonių girios apgultis]]
-- [[objektai/ivykiai/Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)]]

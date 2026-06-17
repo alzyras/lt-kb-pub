@@ -29,6 +29,11 @@ Sobieskio pradėtą karą su Turkija ir jam net pavyko atsiimti šiek tiek Lenki
 - t-001
   global_id: t-80734
   teiginys: 'J. Sobieskis 1683 m. pradėjo karą su Turkija.'
+  sudarymo_pagrindimas: 'Citata patvirtina tik tai, kad J. Sobieskis pradėjo šį karą; kita dalis fragmentiška.'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Turkija'
+  temporaliniai_duomenys: 'įvykio data: 1683 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata patvirtina tik tai, kad J. Sobieskis pradėjo šį karą; kita dalis fragmentiška.'
   pagrindžia:
     - c-001
 

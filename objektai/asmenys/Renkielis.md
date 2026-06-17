@@ -30,6 +30,8 @@ Po pastarojo mirties, kai dabartinis vaistininkas maloningasis ponas Renkielis p
 - t-001
   global_id: t-87568
   teiginys: 'Po Necelo mirties vaistininkas Renkielis perėmė vaistinę ir buvo laikomas gerai pasiruošusiu savo amato specialistu.'
+  sudarymo_pagrindimas: 'Citata pagrindžia Renkielio pareigas ir vertinimą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Necelas|Necelas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -37,9 +39,13 @@ Po pastarojo mirties, kai dabartinis vaistininkas maloningasis ponas Renkielis p
 - t-002
   global_id: t-87569
   teiginys: 'Vaistininkas Renkielis perėmė vaistinę po Necelo mirties ir buvo laikomas gerai pasiruošusiu savo menui.'
+  sudarymo_pagrindimas: 'Citata aiškiai remia Renkielio pareigas, vaistinės perėmimą ir vertinimą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Necelas|Necelas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Necelas.md#claim-t-87805|Necelas]]: Necelas buvo vaistininkas ir puikus gydytojas, miręs netrukus prieš Renkieliui perimant vaistinę.
+- susijęs iš [[objektai/paprociai/Vaistininkų gydytojavimas ir vaistinės pajamų didinimas gydymu.md#claim-t-87286|Vaistininkų gydytojavimas ir vaistinės pajamų didinimas gydymu]]: Vaistininkai didindavo vaistinės pajamas eidami ir gydytojo pareigas bei patys gydydami.
+- susijęs iš [[objektai/zodynas/farmacinės lotyniškos sąvokos vaistinės kronikoje.md#claim-t-86524|farmacinės lotyniškos sąvokos vaistinės kronikoje]]: Vaistininkai, ruošdami preparatus pagal pareigas ir gydydami žmones, didindavo vaistinės pajamas.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -73,9 +79,3 @@ Po pastarojo mirties, kai dabartinis vaistininkas maloningasis ponas Renkielis p
   pagrindžia:
     - t-001
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/paprociai/Vaistininkų gydytojavimas ir vaistinės pajamų didinimas gydymu]]
-- [[objektai/zodynas/farmacinės lotyniškos sąvokos vaistinės kronikoje]]

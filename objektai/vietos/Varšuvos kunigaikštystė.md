@@ -5,6 +5,7 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1807 m.'
+  - '1809 m.'
   - '1827 m.'
 date_start: '1807'
 date_end: '1827'
@@ -21,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-Napoleono kariuomenės trečdalį sudarė Varšuvos kunigaikštystės pulkai. 1807 m. Europos žemėlapyje atsirado Varšuvos kunigaikštystė – pusiau nepriklausoma, Napoleono globojama valstybė, sudaryta iš Prūsijos anksčiau prisijungtų Lenkijos žemių ir Lietuvos Užnemunės. 1807 m. Europos žemėlapyje atsirado pusiau nepriklausoma, Napoleono globojama Varšuvos kunigaikštystė.
+1807 m. Europos žemėlapyje atsirado Varšuvos kunigaikštystė – pusiau nepriklausoma, Napoleono globojama valstybė, sudaryta iš Prūsijos anksčiau prisijungtų Lenkijos žemių ir Lietuvos Užnemunės. Vilniaus katedroje, dalyvaujant Varšuvos kunigaikštystės delegacijai, deklaruotas noras iš naujo susivienyti su Lenkija, susigrąžinant LDK prarastas žemes.
 
 ## Teiginiai
 
@@ -29,6 +30,8 @@ Napoleono kariuomenės trečdalį sudarė Varšuvos kunigaikštystės pulkai. 18
 - t-001
   global_id: t-77419
   teiginys: 'Napoleono kariuomenės trečdalį sudarė Varšuvos kunigaikštystės pulkai.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Varšuvos kunigaikštystės pulkus.'
+  susije_objektai: 'mentioned_place: Varšuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -36,6 +39,11 @@ Napoleono kariuomenės trečdalį sudarė Varšuvos kunigaikštystės pulkai. 18
 - t-002
   global_id: t-77420
   teiginys: '1807 m. Europos žemėlapyje atsirado Varšuvos kunigaikštystė – pusiau nepriklausoma, Napoleono globojama valstybė, sudaryta iš Prūsijos anksčiau prisijungtų Lenkijos žemių ir Lietuvos Užnemunės.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Austrija; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Užnemunė; mentioned_place: Varšuva'
+  temporaliniai_duomenys: 'įvykio data: iki 1809 m.; įvykio data: 1807 m.; įvykio data: 1809 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, aiškus ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -43,6 +51,11 @@ Napoleono kariuomenės trečdalį sudarė Varšuvos kunigaikštystės pulkai. 18
 - t-003
   global_id: t-77421
   teiginys: '1807 m. Europos žemėlapyje atsirado pusiau nepriklausoma, Napoleono globojama Varšuvos kunigaikštystė.'
+  sudarymo_pagrindimas: 'Teiginys yra glaustas faktinis sakinys apie Varšuvos kunigaikštystės atsiradimą.'
+  susije_objektai: 'mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Užnemunė; mentioned_place: Varšuva'
+  temporaliniai_duomenys: 'įvykio data: 1807 m.; įvykio data: 1827 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra glaustas faktinis sakinys apie Varšuvos kunigaikštystės atsiradimą.'
   pagrindžia:
     - c-003
 
@@ -50,9 +63,11 @@ Napoleono kariuomenės trečdalį sudarė Varšuvos kunigaikštystės pulkai. 18
 - t-004
   global_id: t-77422
   teiginys: 'Vilniaus katedroje, dalyvaujant Varšuvos kunigaikštystės delegacijai, deklaruotas noras iš naujo susivienyti su Lenkija, susigrąžinant LDK prarastas žemes.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir susieja Varšuvos kunigaikštystę su Vilniaus deklaracija.'
+  susije_objektai: 'mentioned_place: Varšuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
-
+- susijęs iš Napoleono kodeksas: 1807 m. Varšuvos kunigaikštystė buvo Napoleono globojama valstybė, kurioje įvestas civilinis Napoleono kodeksas.
 ## Reikšmingi paminėjimai
 
 - c-001

@@ -20,6 +20,11 @@ patvirtina ir romėnų istorikas Cornelius Tacitas (52-117 m. po Kr.) savo Germa
 - t-001
   global_id: t-29311
   teiginys: 'Romėnų istorikas Cornelius Tacitas apie 98 m. po Kr. savo „Germanijos“ 45 skyriuje patvirtino šį liudijimą.'
+  sudarymo_pagrindimas: 'Teiginys yra palaikomas, bet prasideda mažąja raide ir stokoją tvarkingos formos.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Romėnai|Romėnai]]'
+  temporaliniai_duomenys: 'įvykio data: 117 m'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra palaikomas, bet prasideda mažąja raide ir stokoją tvarkingos formos.'
   pagrindžia:
     - c-001
 
@@ -35,7 +40,3 @@ patvirtina ir romėnų istorikas Cornelius Tacitas (52-117 m. po Kr.) savo Germa
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Romėnai]]

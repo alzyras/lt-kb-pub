@@ -27,6 +27,7 @@ Vartojamos formos: `sage`, `sagše`, `vilnonę`.
 - t-001
   global_id: t-70006
   teiginys: '`Kilimas` šiame tekste reiškia moterų išeiginę vilnonę skarą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Balti vilnoniai marškiniai|Balti vilnoniai marškiniai]]'
   pagrindžia:
     - c-001
     - c-002
@@ -35,9 +36,11 @@ Vartojamos formos: `sage`, `sagše`, `vilnonę`.
 - t-002
   global_id: t-70007
   teiginys: 'Kilimas buvo moterų išeiginis drabužis, dar vadintas sage arba sagše nuo žodžio „segti“.'
+  sudarymo_pagrindimas: 'Pirminis teiginys neminėjo kilimo, o citata palaiko aiškesnį sakinį apie drabužio pavadinimus.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Balti vilnoniai marškiniai|Balti vilnoniai marškiniai]]'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/daiktai/Kilimas.md#claim-t-08296|Kilimas]]: `Kilimas` šiame tekste reiškė moterų išeiginę vilnonę skarą ar apsiaustą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -88,10 +91,3 @@ Vartojamos formos: `sage`, `sagše`, `vilnonę`.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Balti vilnoniai marškiniai]]
-- [[objektai/grupes/Kalnėnai]]
-- [[objektai/paprociai/Mergaičių, nuotakų, žmonų ir našlių galvos puošyba]]
-- [[objektai/daiktai/Kilimas]]

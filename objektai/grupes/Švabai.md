@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Švabija, švabai Švandenas Švarcburgas Švedija Šventainė, u.
+Dusburgietis teigia, kad švabija, švabai Švandenas Švarcburgas Švedija Šventainė, u.
 
 ## Teiginiai
 
@@ -20,6 +20,8 @@ tags:
 - t-001
   global_id: t-59046
   teiginys: 'Švabija, švabai Švandenas Švarcburgas Švedija Šventainė, u.'
+  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
+  susije_objektai: 'mentioned_place: Švedija'
   pagrindžia:
     - c-001
 

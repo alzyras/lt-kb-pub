@@ -16,6 +16,7 @@ tags:
   - ordinas
   - pilis
   - sukilimas
+  - vieta
 amziai:
   - 'XIII'
 ---
@@ -31,6 +32,8 @@ Dusburgietis teigia, kad apžvelgiant Didžiojo prūsų sukilimo laikus, iš pra
 - t-001
   global_id: t-58319
   teiginys: 'Lochštetė buvo Ordino pilis Sembos pietvakarių kyšulyje, į pietvakarius nuo Fišhauzeno.'
+  sudarymo_pagrindimas: 'Teiginys gramatiškas, konkretus ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_place: Fišhauzenas; mentioned_place: Girmava; mentioned_place: Semba'
   pagrindžia:
     - c-003
 
@@ -38,6 +41,8 @@ Dusburgietis teigia, kad apžvelgiant Didžiojo prūsų sukilimo laikus, iš pra
 - t-002
   global_id: t-58321
   teiginys: 'Henrikas Stangė žiemos metu įsiveržė į Sembą prie vietos, kur vėliau stovėjo Lochštetės pilis.'
+  sudarymo_pagrindimas: 'Citata palaiko faktą apie įsiveržimo vietą, pradinė formuluotė per ilga ir fragmentiška.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Girmava; mentioned_place: Kristburgas; mentioned_place: Semba'
   pagrindžia:
     - c-002
 
@@ -45,6 +50,8 @@ Dusburgietis teigia, kad apžvelgiant Didžiojo prūsų sukilimo laikus, iš pra
 - t-003
   global_id: t-58322
   teiginys: 'Lochštetės pilis stovėjo Sembos pietvakarių kyšulyje.'
+  sudarymo_pagrindimas: 'Citata palaiko trumpą faktą apie pilies vietą, reikia pašalinti nuorodų ir santrumpų triukšmą.'
+  susije_objektai: 'mentioned_place: Laukstetų pilis; mentioned_place: Semba'
   pagrindžia:
     - c-004
 
@@ -52,6 +59,11 @@ Dusburgietis teigia, kad apžvelgiant Didžiojo prūsų sukilimo laikus, iš pra
 - t-004
   global_id: t-58323
   teiginys: 'Analų duomenimis, Lochštetės pilis pastatyta 1270 m., nors Petro Dusburgiečio kronikoje jos statyba aprašyta nedatuojant.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūksta ir turi triukšmo; citata leidžia suformuluoti pilną faktą apie Lochštetę.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_place: Kroicburgas; mentioned_place: Prūsai; mentioned_place: Tepliava'
+  temporaliniai_duomenys: 'pastatymo data: 1263 m.; pastatymo data: 1265 m.; pastatymo data: 1270 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūksta ir turi triukšmo; citata leidžia suformuluoti pilną faktą apie Lochštetę.'
   pagrindžia:
     - c-005
 
@@ -59,9 +71,17 @@ Dusburgietis teigia, kad apžvelgiant Didžiojo prūsų sukilimo laikus, iš pra
 - t-005
   global_id: t-58324
   teiginys: 'Viklandsorto pilis vėliau buvo vadinama Lochštete pagal ten gyvenusio sembo Lauksteto vardą.'
+  sudarymo_pagrindimas: 'Citata palaiko pilies pavadinimo kilmę, pradinė formuluotė fragmentiška.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_person: [[objektai/asmenys/Laukstetas|Laukstetas]]; mentioned_place: Prūsai; mentioned_place: Semba; mentioned_place: Tepliava'
+  temporaliniai_duomenys: 'įvykio data: 1265 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko pilies pavadinimo kilmę, pradinė formuluotė fragmentiška.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/ivykiai/Tepliavos ir Lochštetės pilių pastatymas bei pasitraukimas iš Kroicburgo (1263-1270 m.).md#claim-t-62501|Tepliavos ir Lochštetės pilių pastatymas bei pasitraukimas iš Kroicburgo (1263-1270 m.)]]: Petro Dusburgiečio kronikoje Tepliavos ir Lochštetės pilių pastatymas aprašytas prieš pasitraukimą iš Kroicburgo, nors šis datuojamas 1263 m.
+- susijęs iš Kroicburgas: Kronikoje brolių pasitraukimas iš Kroicburgo datuojamas 1263 m., nors šis įvykis aprašomas po vėlesnių pilių statybos epizodų.
+- susijęs iš Kroicburgas: Petro Dusburgiečio kronikoje brolių pasitraukimas iš Kroicburgo datuojamas 1263 m., nors aprašomas po vėlesnių įvykių.
+- susijęs iš Tepliava: Petro Dusburgiečio kronikoje Tepliavos pilies pastatymas minimas ne chronologine tvarka, prieš 1263 m. Kroicburgo įvykį.
 ## Reikšmingi paminėjimai
 
 - c-001

@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Lenkų kalba LDK tapo bajorijos integracine kalba ir Vakarų kultūros sklaidos rusėnų žemėse priemone. Lenkų kalba Lietuvos bajorų reikalavimu Seime įteisinta kaip oficiali raštinių kalba vietoje rusėnų raštų kalbos. Vyriausybei leidus steigti 70 lenkiškų mokyklų, kaltinimai polonizacija buvo siejami su pavojumi tautai dėl įtemptų Lietuvos ir Lenkijos santykių.
+Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų žodynas“ (1620). Benneto veikalo „Viešpaties dešinės galybė“, 1674) 2 skyrius • L E N K I J O S I R L I E T U V O S VA L S T Y B I Ų J U N G T U V Ė S 75 kų kalbos vaidmenį Lietuvos kultūroje apibendrino vienas iš Radvilų savo laiške, rašytame 1615 m.: „Nors lietuviu esu. „Bolševizaciją“ papildė kaltinimai polonizacija, mat vykdydama rinkiminius pažadus vyriausybė lenkams leido steigti 70 lenkiškų mokyklų, o tai, esant įtemptiems Lietuvos ir Lenkijos santykiams, įvertinta kaip pavojus visai tautai.
 
 ## Teiginiai
 
@@ -23,6 +23,8 @@ Lenkų kalba LDK tapo bajorijos integracine kalba ir Vakarų kultūros sklaidos 
 - t-001
   global_id: t-22248
   teiginys: 'Lenkų kalba LDK tapo bajorijos integracine kalba ir Vakarų kultūros sklaidos rusėnų žemėse priemone.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys ir atitinka citatą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]'
   pagrindžia:
     - c-001
 
@@ -30,6 +32,8 @@ Lenkų kalba LDK tapo bajorijos integracine kalba ir Vakarų kultūros sklaidos 
 - t-002
   global_id: t-22249
   teiginys: 'Lenkų kalba Lietuvos bajorų reikalavimu Seime įteisinta kaip oficiali raštinių kalba vietoje rusėnų raštų kalbos.'
+  sudarymo_pagrindimas: 'Aiškiau įvardytas sakinio subjektas ir veiksmas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_object: [[objektai/zodynas/polonizacija|polonizacija]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -37,6 +41,8 @@ Lenkų kalba LDK tapo bajorijos integracine kalba ir Vakarų kultūros sklaidos 
 - t-003
   global_id: t-22250
   teiginys: 'Vyriausybei leidus steigti 70 lenkiškų mokyklų, kaltinimai polonizacija buvo siejami su pavojumi tautai dėl įtemptų Lietuvos ir Lenkijos santykių.'
+  sudarymo_pagrindimas: 'Trumpiau ir sklandžiau perteikiamas citatos faktas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/polonizacija|polonizacija]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 
@@ -83,15 +89,3 @@ Lenkų kalba LDK tapo bajorijos integracine kalba ir Vakarų kultūros sklaidos 
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bajorai]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Rusėnai]]
-- [[objektai/zodynas/polonizacija]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/zodynas/bolševizacija]]
-- [[objektai/zodynas/integracinė kalba polonizacija]]
-- [[objektai/zodynas/oficialusis kultūros modelis]]

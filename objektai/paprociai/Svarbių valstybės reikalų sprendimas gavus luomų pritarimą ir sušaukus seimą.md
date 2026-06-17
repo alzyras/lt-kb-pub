@@ -33,6 +33,11 @@ Nenurodyta
 - t-001
   global_id: t-185892
   teiginys: 'Karalius atsakė, kad svarbiais valstybės reikalais negali nieko nutarti be luomų pritarimo, ir sušaukė seimą Lenčicoje.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra išsamus, aiškus ir paremtas citatos informacija.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/luomai|luomai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lenčica; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -40,6 +45,11 @@ Nenurodyta
 - t-002
   global_id: t-185893
   teiginys: 'Karalius sušaukė seimą Lenčicoje, o seimas pasiuntė Gnezno arkivyskupą Mikalojų Kurovskį skatinti magistrą taikiai baigti ginčą su Vytautu.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis teiginys turi neaiškų kontekstą, o citata leidžia sudaryti turiningesnį sakinį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lenčica; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -86,12 +96,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/luomai]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/grupes/Lenčicos seimas|Lenčicos seimas (seimas)]]
-- [[objektai/asmenys/Mikalojus Kurovskis]]
-- [[objektai/zodynas/luomas]]

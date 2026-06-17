@@ -30,9 +30,16 @@ Pagaliau valdovų kaitaliojimasis pa­ sibaigė 1424 met., kai Kipčako sostan V
 - t-001
   global_id: t-34784
   teiginys: 'Didysis Machmetas 1424 m. Vytauto padedamas užėmė Kipčako sostą ir valdžią išlaikė iki 1437 ar 1438 m.'
+  sudarymo_pagrindimas: 'Citata palaiko aiškesnį enciklopedinį sakinį be laužytų žodžių.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Machmetas|Machmetas]]; mentioned_place: Kipčakas'
+  temporaliniai_duomenys: 'įvykio data: 1424 m.; įvykio data: 1438 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko aiškesnį enciklopedinį sakinį be laužytų žodžių.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Machmetas.md#claim-t-96028|Machmetas]]: 1424 m. Didysis Machmetas Vytauto pagalba atsisėdo į Kipčako sostą ir išsilaikė iki 1437 ar 1438 m.
+- susijęs iš [[objektai/ivykiai/Didžiojo Machmeto įsodinimas į Kipčako sostą ir įsigalėjimas Ordoje.md#claim-t-34470|Didžiojo Machmeto įsodinimas į Kipčako sostą ir įsigalėjimas Ordoje]]: 1424 m. Didysis Machmetas Vytauto padedamas užėmė Kipčako sostą ir išsilaikė jame iki 1437 ar 1438 m.
+- susijęs iš Kipčakas: 1424 m. Vytauto padedamas Didysis Machmetas užėmė Kipčako sostą ir išsilaikė jame iki 1437 ar 1438 metų.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -48,7 +55,3 @@ Pagaliau valdovų kaitaliojimasis pa­ sibaigė 1424 met., kai Kipčako sostan V
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/Didžiojo Machmeto įsodinimas į Kipčako sostą ir įsigalėjimas Ordoje]]

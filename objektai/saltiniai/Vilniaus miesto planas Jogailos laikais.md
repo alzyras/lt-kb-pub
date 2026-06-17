@@ -33,6 +33,11 @@ Nenurodyta
 - t-001
   global_id: t-88493
   teiginys: 'Vilniaus miesto planas Jogailos laikais žymėjo Aukštutinę pilį, Kreivąją pilį, Perkūno šventyklą, kelius, bažnyčias ir vienuolynus.'
+  sudarymo_pagrindimas: 'Citatos sąrašas leidžia suformuluoti konkretų teiginį apie plano pažymėtus objektus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_person: [[objektai/asmenys/Manvydas|Manvydas]]; mentioned_place: Aukštutinė pilis; mentioned_place: Ašmena; mentioned_place: Kernavė; mentioned_place: Medininkai; mentioned_place: Ukmergė; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1387 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citatos sąrašas leidžia suformuluoti konkretų teiginį apie plano pažymėtus objektus.'
   pagrindžia:
     - c-001
 

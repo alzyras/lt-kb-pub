@@ -44,6 +44,12 @@ Nenurodyta
 - t-001
   global_id: t-62753
   teiginys: '1302 m. brolis Gundramas prie Kristburgo persekiojo lietuvių plėšikautojus, buvo mirtinai sužeistas ir žuvo išžudžius lietuvius.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir per ilgas, bet citata remia aiškų faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_person: [[objektai/asmenys/Gundramas|Gundramas]]; mentioned_place: Kristburgas; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1302 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs ir per ilgas, bet citata remia aiškų faktą.'
   pagrindžia:
     - c-001
 
@@ -51,6 +57,9 @@ Nenurodyta
 - t-002
   global_id: t-62754
   teiginys: 'Dusburgietis pasakoja, kad Gundramo išvaduotos moterys virš į Kristburgą gabentų jo palaikų sakėsi mačiusios du baltus balandžius.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Tai legendinis pasakojimas, todėl reikia aiškios šaltinio atribucijos.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_person: [[objektai/asmenys/Gundramas|Gundramas]]; mentioned_place: Kristburgas; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -76,11 +85,3 @@ Nenurodyta
   pagrindžia:
     - t-001
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Baltai]]
-- [[objektai/asmenys/Gundramas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/ginklanešiai]]
-- [[objektai/zodynas/netikėliai]]

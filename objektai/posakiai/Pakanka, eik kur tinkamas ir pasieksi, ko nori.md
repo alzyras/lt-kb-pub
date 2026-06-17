@@ -21,6 +21,8 @@ Dusburgietis teigia, kad tada sutraukė dvigubai tiek kariuomenės, o jis, ją m
 - t-001
   global_id: t-59144
   teiginys: 'Posakis „Pakanka, eik kur tinkamas ir pasieksi, ko nori“ buvo atsakymas karaliui, klaususiam, ar pakanka kariuomenės veikti Semboje.'
+  sudarymo_pagrindimas: 'Pradinė formuluotė neįvardija posakio, bet citata palaiko glaustą teiginį.'
+  susije_objektai: 'mentioned_place: Semba'
   pagrindžia:
     - c-001
 
@@ -44,8 +46,3 @@ Dusburgietis teigia, kad tada sutraukė dvigubai tiek kariuomenės, o jis, ją m
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Gedūnas]]
-- [[objektai/paprociai/Karaliaus vėliavų iškabinimas prie žemių ir kiemų apsaugai]]

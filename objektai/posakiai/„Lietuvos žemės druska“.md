@@ -3,12 +3,18 @@ tipas: posakis
 pavadinimas: '„Lietuvos žemės druska“'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1902 m.'
+date_start: '1902'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - bajorija
   - kraštas
   - posakis
+amziai:
+  - 'XX'
 ---
 # „Lietuvos žemės druska“
 
@@ -22,6 +28,11 @@ tags:
 - t-001
   global_id: t-20855
   teiginys: 'Jaunieji Lietuvos bajorai buvo raginami būti „Lietuvos žemės druska“: kalbėti lietuviškai, mylėti kraštą ir rūpintis liaudies gerove.'
+  sudarymo_pagrindimas: 'Pirminis sakinys turi nepagrįstų detalių, bet citata leidžia suformuluoti posakio prasmę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Druska|Druska]]; mentioned_person: [[objektai/asmenys/Adomas (auksakalys)|Adomas (auksakalys)]]; mentioned_person: [[objektai/asmenys/Adomas Jakštas-Dambrauskas|Adomas Jakštas-Dambrauskas]]; mentioned_place: Kaimas; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1902 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pirminis sakinys turi nepagrįstų detalių, bet citata leidžia suformuluoti posakio prasmę.'
   pagrindžia:
     - c-001
 
@@ -45,11 +56,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Adomas (auksakalys)]]
-- [[objektai/asmenys/Adomas Jakštas-Dambrauskas]]
-- [[objektai/grupes/Bajorai]]
-- [[objektai/daiktai/Druska]]
-- [[objektai/grupes/Lietuviai]]

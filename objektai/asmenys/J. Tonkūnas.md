@@ -19,16 +19,19 @@ J. Tonkūnas minimas kaip švietimo ministeris, rūpinęsis veikalo bendradarbi�
 - Švietimo ministeris
 
 ## Teiginiai
-- t-002
+
+<a id="claim-t-00007"></a>
+- t-001
+  global_id: t-00007
   teiginys: 'J. Tonkūnas rūpinosi Lietuvos istorijos bendradarbių rinkimu ir teikė paramą atliekamam darbui.'
+  sudarymo_pagrindimas: 'Citata pagrindžia veiksmus, bet pradinis sakinys perteikia perteklinį ir kiek negrabų formulavimą.'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-
+- susijęs iš [[objektai/asmenys/K. Masiliūnas.md#claim-t-00009|K. Masiliūnas (viceministeris)]]: K. Masiliūnas kartu su J. Tonkūnu rūpinosi bendradarbių rinkimu ir teikė paramą atliekamam darbui.
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'J. Tonkūnas rūpinosi Lietuvos istorijos bendradarbių rinkimu ir teikė paramą atliekamam darbui.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Norėtumėm pareikšti viltį, kad vadovėlis nors iš dalies pa-
@@ -38,10 +41,8 @@ J. Tonkūnas minimas kaip švietimo ministeris, rūpinęsis veikalo bendradarbi�
     ceministeriui K. Masiliūnui, kurie daugiausia rūpinosi renkant
     bendradarbius, o vėliau visą laiką rodė dėmesį dirbamajam dar-
     bui ir teikė reikiamos paramos.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-001

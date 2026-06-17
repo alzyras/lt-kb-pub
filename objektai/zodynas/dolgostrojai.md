@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Sovietmečiu Lietuvoje nebūdavo „dolgostrojų“, nes naujos įmonės buvo paleidžiamos daugiau ar mažiau laiku. Sovietų valdžia Lietuvoje noriai investavo, nes čia nebūdavo „dolgostrojų“, o naujos įmonės būdavo paleidžiamos daugiau ar mažiau laiku.
+Sovietų valdžia noriai statė ir investavo Lietuvoje ir dėl to, kad į Maskvą keliaudavo kyšiai (lagaminai rūkytų dešrų ir kumpių), ir dėl to, jog čia nebūdavo „dolgostrojų“ (ilgus metus užsitęsusių statybų, kurios reikalaudavo nesibaigiančio finansavimo).
 
 ## Teiginiai
 
@@ -20,6 +20,8 @@ Sovietmečiu Lietuvoje nebūdavo „dolgostrojų“, nes naujos įmonės buvo pa
 - t-001
   global_id: t-22126
   teiginys: 'Sovietmečiu Lietuvoje nebūdavo „dolgostrojų“, nes naujos įmonės buvo paleidžiamos daugiau ar mažiau laiku.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie dolgostrojus ir atitinka citatą.'
+  susije_objektai: 'mentioned_place: Leningradas; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: SSRS'
   pagrindžia:
     - c-001
 
@@ -27,6 +29,11 @@ Sovietmečiu Lietuvoje nebūdavo „dolgostrojų“, nes naujos įmonės buvo pa
 - t-002
   global_id: t-183416
   teiginys: 'Sovietų valdžia Lietuvoje noriai investavo, nes čia nebūdavo „dolgostrojų“, o naujos įmonės būdavo paleidžiamos daugiau ar mažiau laiku.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_place: Leningradas; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: SSRS'
   pagrindžia:
     - c-002
 
@@ -76,7 +83,3 @@ Sovietmečiu Lietuvoje nebūdavo „dolgostrojų“, nes naujos įmonės buvo pa
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Lagaminai rūkytų dešrų ir kumpių]]

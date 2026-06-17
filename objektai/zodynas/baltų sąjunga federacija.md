@@ -3,12 +3,19 @@ tipas: zodyno_irasas
 pavadinimas: 'baltų sąjunga federacija'
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+datos:
+  - '1205 m.'
+  - '1210 m.'
+date_start: '1205'
+date_end: '1210'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ordinas
   - sąvoka
   - valstybė
+amziai:
+  - 'XIII'
 ---
 # baltų sąjunga federacija
 
@@ -22,6 +29,11 @@ Dusburgietis teigia, kad kol kas istoriografijoje nepakankamai apžvelgti prūs�
 - t-001
   global_id: t-58893
   teiginys: 'Baltų sąjunga–federacija apibūdinama kaip Lietuvos vadovaujamas valstybingumo raidos etapas kovoje prieš feodalų agresiją.'
+  sudarymo_pagrindimas: 'Citata remia sąvokos aiškinimą, o pradinis tekstas nutrūkęs ir perteklinis.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/baltų sąjunga|baltų sąjunga]]; mentioned_place: Lietuva; mentioned_place: Prūsai; mentioned_place: Volynė'
+  temporaliniai_duomenys: 'įvykio data: 1205 m.; įvykio data: 1210 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata remia sąvokos aiškinimą, o pradinis tekstas nutrūkęs ir perteklinis.'
   pagrindžia:
     - c-001
 
@@ -29,6 +41,8 @@ Dusburgietis teigia, kad kol kas istoriografijoje nepakankamai apžvelgti prūs�
 - t-002
   global_id: t-58894
   teiginys: 'Mindaugas siekė paversti Lietuvą bendrąja baltų valstybe, apimančia Livoniją ir Prūsiją.'
+  sudarymo_pagrindimas: 'Pašalintas netikslus šaltinio priskyrimas ir paliktas citata paremtas faktas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_object: [[objektai/zodynas/baltų sąjunga|baltų sąjunga]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Viena'
   pagrindžia:
     - c-002
 
@@ -68,11 +82,3 @@ Dusburgietis teigia, kad kol kas istoriografijoje nepakankamai apžvelgti prūs�
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Baltai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/baltų sąjunga]]

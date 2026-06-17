@@ -4,9 +4,10 @@ pavadinimas: 'Kazimieraičio rinktinė'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
+  - '1944 m.'
   - '1948 m.'
-date_start: '1948'
-date_end: ''
+date_start: '1944'
+date_end: '1948'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -26,6 +27,11 @@ amziai:
 - t-001
   global_id: t-80654
   teiginys: '1948 m. Vaclovas Voveris buvo paskirtas Kazimieraičio rinktinės vadu ir ėjo Dainavos apygardos vado pavaduotojo pareigas.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nusako Vaclovo Voverio ryšį su Kazimieraičio rinktine ir atitinka citatą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vaclovas|Vaclovas]]; mentioned_place: Dainava'
+  temporaliniai_duomenys: 'įvykio data: 1944 m.; įvykio data: 1948 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako Vaclovo Voverio ryšį su Kazimieraičio rinktine ir atitinka citatą.'
   pagrindžia:
     - c-001
 
@@ -43,7 +49,3 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Vaclovas]]

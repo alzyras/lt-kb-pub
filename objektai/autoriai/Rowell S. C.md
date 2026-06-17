@@ -3,10 +3,20 @@ tipas: autorius
 pavadinimas: 'Rowell S. C'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1295 m.'
+  - '1345 m.'
+date_start: '1295'
+date_end: '1345'
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
+amziai:
+  - 'XIII'
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 ---
 # Rowell S. C
 
@@ -20,6 +30,11 @@ Rowell S.
 - t-001
   global_id: t-19466
   teiginys: 'S. C. Rowellas parašė veikalą „Lithuania ascending“ apie pagonišką imperiją Rytų ir Vidurio Europoje 1295–1345 m.'
+  sudarymo_pagrindimas: 'Bibliografinis įrašas palaiko autorystę, todėl sakinys patikslintas.'
+  susije_objektai: 'mentioned_place: Europa'
+  temporaliniai_duomenys: 'įvykio data: 1295-1345; įvykio data: 1345 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Bibliografinis įrašas palaiko autorystę, todėl sakinys patikslintas.'
   pagrindžia:
     - c-001
 

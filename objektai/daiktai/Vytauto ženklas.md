@@ -22,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-Pasak Ivinskio, Vytautas esą reikalavo, kad chanas Timūras Kutlug paklustų ir savo piniguose kaldintų Vytauto ženklą. Prieš mūšį Vytautas iš chano Timūro Kutluko tarsi reikalavo Ordos pinigus žymėti Vytauto ženklu. Edigėjus prie Vorsklos pareikalavo Vytauto klusnumo ir Lietuvos pinigų žymėjimo Ordos ženklais.
+Vytautas reikalavo, kad chanas savo piniguose muštų Vytauto ženklą.
 
 ## Pavadinimai šaltiniuose
 
@@ -50,6 +50,8 @@ Nenurodyta
 - t-001
   global_id: t-182858
   teiginys: 'Pasak Ivinskio, Vytautas esą reikalavo, kad chanas Timūras Kutlug paklustų ir savo piniguose kaldintų Vytauto ženklą.'
+  sudarymo_pagrindimas: 'Teiginys yra apie autoriaus perteikiamą pasakojimą, todėl reikalinga atribucija.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_person: [[objektai/asmenys/Ediga|Ediga]]; mentioned_person: [[objektai/asmenys/Timuras|Timuras]]; mentioned_person: [[objektai/asmenys/Timūras (Tamerlanas)|Timūras (Tamerlanas)]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Vorskla'
   pagrindžia:
     - c-002
 
@@ -57,6 +59,11 @@ Nenurodyta
 - t-002
   global_id: t-183690
   teiginys: 'Prieš mūšį Vytautas iš chano Timūro Kutluko tarsi reikalavo Ordos pinigus žymėti Vytauto ženklu.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pašalintas antraštės triukšmas ir suformuluotas pilnas sakinys.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_object: [[objektai/zodynas/emyras|emyras]]; mentioned_person: [[objektai/asmenys/Timūras (Tamerlanas)|Timūras (Tamerlanas)]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-001
 
@@ -64,6 +71,11 @@ Nenurodyta
 - t-003
   global_id: t-183691
   teiginys: 'Edigėjus prie Vorsklos pareikalavo Vytauto klusnumo ir Lietuvos pinigų žymėjimo Ordos ženklais.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nusako Edigėjaus reikalavimą ir yra paremtas citata.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Edigėjus|Edigėjus]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Vorskla'
   pagrindžia:
     - c-003
 
@@ -126,20 +138,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/simbolis]]
-
-### Susiję objektai
-- [[objektai/asmenys/Ediga]]
-- [[objektai/asmenys/Edigėjus]]
-- [[objektai/asmenys/Timuras]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/chanas]]
-- [[objektai/zodynas/emyras]]
-- [[objektai/asmenys/Timūras (Tamerlanas)]]
-- [[objektai/daiktai/Geležinėmis grandinėmis kaustyti vežimai]]
-- [[objektai/paprociai/Pavaldumo demonstravimas derybose per pinigų ženklinimą ir dovanas]]
-- [[objektai/asmenys/Timur-Kutlugas]]
-- [[objektai/ivykiai/Vorsklos mūšis (1399 m. rugpjūčio 12 d.)]]

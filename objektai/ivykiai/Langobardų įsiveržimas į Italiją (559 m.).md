@@ -30,6 +30,14 @@ Nenurodyta
 - t-001
   global_id: t-185810
   teiginys: 'Apie 559 metus Albojino vedami langobardai iškeliavo iš Panonijos ir su didžiule kariuomene įsiveržė į Italiją.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie įvykį ir atitinka citatos duomenis.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Gepidai|Gepidai]]; mentioned_group: [[objektai/grupes/Herulai|Herulai]]; mentioned_group: [[objektai/grupes/Langobardai|Langobardai]]; mentioned_place: Italija'
+  temporaliniai_duomenys: 'įvykio data: 559 m'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie įvykį ir atitinka citatos duomenis.'
   pagrindžia:
     - c-001
 
@@ -63,10 +71,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Gepidai]]
-- [[objektai/grupes/Herulai]]
-- [[objektai/grupes/Langobardai]]
-- [[objektai/autoriai/Prokopijus]]

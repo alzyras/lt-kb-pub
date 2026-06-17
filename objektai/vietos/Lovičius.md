@@ -18,9 +18,15 @@ Iš iki tol nepaliestų Lovičiaus apygardų buvo išgabentas didžiulis grobis,
 - t-001
   global_id: t-185328
   teiginys: 'Iš iki tol nepaliestų Lovičiaus apygardų buvo išgabentas didžiulis grobis, o visa kita sunaikinta ugnimi ir kalaviju.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys tiesiogiai paremtas citata ir yra pilnas faktinis sakinys apie Lovičiaus apygardas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/posakiai/Ugnimi ir kalaviju|Ugnimi ir kalaviju]]'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-184517|Lenkai]]: Lenkams įkyrėjo dažnai pasikartojančios nelaimės, o suskilusi Lenkų karalystė sunkiai susitardavo dėl gynybos.
+- susijęs iš [[objektai/ivykiai/Lietuvos žygis į Mazoviją ir Lovičiaus apygardų nusiaubimas (1263 m.).md#claim-t-185612|Lietuvos žygis į Mazoviją ir Lovičiaus apygardų nusiaubimas (1263 m.)]]: 1263 m. Mindaugo kariuomenė persikėlė per Vyslą, išgabeno didelį grobį iš Lovičiaus apygardų ir visa kita sunaikino ugnimi bei kalaviju.
 ## Reikšmingi paminėjimai
 
 - c-001

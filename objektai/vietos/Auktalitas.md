@@ -27,6 +27,7 @@ Dusburgietis teigia, kad apie tai, kaip buvo paimtos kitos pilys ir pavergta Von
 - t-001
   global_id: t-58521
   teiginys: 'Auktalitas buvo vėlesnis Auglitten kairiajame Alnos krante aukščiau Alenburgo.'
+  sudarymo_pagrindimas: 'Citata pagrindžia Auktalito tapatinimą su Auglitten vieta.'
   pagrindžia:
     - c-001
 
@@ -34,6 +35,11 @@ Dusburgietis teigia, kad apie tai, kaip buvo paimtos kitos pilys ir pavergta Von
 - t-002
   global_id: t-58522
   teiginys: '1256 m. Karaliaučiaus komtūras Vonsdorfo žemėje apsupo, užėmė ir iki pamatų sudegino Auktalito pilį.'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo negramatiškas ir su išnašos triukšmu; citata remia pilies užėmimą 1256 m.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Vonsdorfas'
+  temporaliniai_duomenys: 'įvykio data: 1256 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys buvo negramatiškas ir su išnašos triukšmu; citata remia pilies užėmimą 1256 m.'
   pagrindžia:
     - c-002
 

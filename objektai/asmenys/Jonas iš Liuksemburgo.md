@@ -31,6 +31,11 @@ Dusburgietis teigia, kad apie Medvėgalio pilėnus 1329 viešpaties metais į Pr
 - t-001
   global_id: t-60347
   teiginys: '1329 m. Jonas iš Liuksemburgo, Čekijos karalius, su kilmingųjų palyda atžygiavo į Prūsiją.'
+  sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir turi perteklinę šaltinio atribuciją.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Anglija; mentioned_place: Lietuva; mentioned_place: Medvėgalis; mentioned_place: Pilėnai; mentioned_place: Prūsija; mentioned_place: Silezija; mentioned_place: Vokietija; mentioned_place: Čekija'
+  temporaliniai_duomenys: 'įvykio data: 1329 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys per ilgas ir turi perteklinę šaltinio atribuciją.'
   pagrindžia:
     - c-001
 
@@ -56,7 +61,3 @@ Dusburgietis teigia, kad apie Medvėgalio pilėnus 1329 viešpaties metais į Pr
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Jonas]]

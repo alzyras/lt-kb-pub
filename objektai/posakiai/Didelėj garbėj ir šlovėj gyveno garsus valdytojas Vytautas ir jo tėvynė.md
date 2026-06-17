@@ -22,6 +22,7 @@ tags:
 - t-001
   global_id: t-35968
   teiginys: 'Vienas kronikininkas Vytautą ir jo tėvynę apibūdino kaip gyvenusius didelėje garbėje ir šlovėje.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-001
 
@@ -45,7 +46,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

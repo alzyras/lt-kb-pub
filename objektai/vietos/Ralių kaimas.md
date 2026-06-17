@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Dar saulei netekėjus prie Ralių kaimo miško pasigirdo automatų šūviai, o vyrai pakilo ir išėjo į savo vietas.
+Dar saulei netekėjus Ralių k. prie miško pasigirdo automatų šūviai. Vyrai sukilo ir išėjo į savo vietas.
 
 ## Teiginiai
 
@@ -20,6 +20,8 @@ Dar saulei netekėjus prie Ralių kaimo miško pasigirdo automatų šūviai, o v
 - t-001
   global_id: t-42085
   teiginys: 'Dar saulei netekėjus prie Ralių kaimo miško pasigirdo automatų šūviai, o vyrai pakilo ir išėjo į savo vietas.'
+  sudarymo_pagrindimas: 'Sakinys pataisytas, kad būtų aiškesnis ir be dviprasmės jungties.'
+  susije_objektai: 'mentioned_place: Kaimas'
   pagrindžia:
     - c-001
 

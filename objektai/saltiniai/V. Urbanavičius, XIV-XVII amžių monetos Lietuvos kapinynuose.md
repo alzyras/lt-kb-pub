@@ -4,9 +4,11 @@ pavadinimas: 'V. Urbanavičius, XIV-XVII amžių monetos Lietuvos kapinynuose'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
+  - '1955 m.'
+  - '1960 m.'
   - '1967 m.'
   - '1970 m.'
-date_start: '1967'
+date_start: '1955'
 date_end: '1970'
 sukurta: ''
 atnaujinta: ''
@@ -27,6 +29,11 @@ Urbanavičius, V.
 - t-001
   global_id: t-31956
   teiginys: 'V. Urbanavičiaus „XIV-XVII amžių monetos Lietuvos kapinynuose“ išspausdintas AkMD 24 tome 1967 m., p. 61-74.'
+  sudarymo_pagrindimas: 'Citata pateikia pilną bibliografinį įrašą, todėl galima pašalinti dangling inicialą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Monetos|Monetos]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1955-1960; įvykio data: 1960 m.; įvykio data: 1967 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pateikia pilną bibliografinį įrašą, todėl galima pašalinti dangling inicialą.'
   pagrindžia:
     - c-001
 

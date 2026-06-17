@@ -20,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-Vaikių valsčius įtikimiau lokalizuojamas į rytus nuo Viduklės, kur kryžiuočių kelių aprašymuose minimi lant Wayke ir Waykowsoppe. XIV a. pabaigos kryžiuočių kelių į Lietuvą aprašymuose Sešuvis vadintas Sessow, Sassow ir panašiomis formomis. 1384 m. kelio iš Įsruties į Marienverderį prie Kauno aprašyme minimas vedlys iš Nerwekiten ir kelias czu Kattow.
+Dusburgietis teigia, kad 1384 m. kelio iš Įsruties į Marienverderį (prie Kauno) aprašyme figūruoja vedlys iš Nerwekiten, o toliau minimas kelias czu Kattow (SRP, 2, p. 683). Dusburgietis teigia, kad vokiškuose kryžiuočių kelių aprašymuose — Rangith (Weg. Dusburgietis teigia, kad pabaigoje kryžiuočių kelių į Lietuvą aprašymuose vadinamas Sessow, Sassow ir pan.
 
 ## Teiginiai
 
@@ -28,6 +28,8 @@ Vaikių valsčius įtikimiau lokalizuojamas į rytus nuo Viduklės, kur kryžiuo
 - t-001
   global_id: t-60930
   teiginys: 'Vaikių valsčius įtikimiau lokalizuojamas į rytus nuo Viduklės, kur kryžiuočių kelių aprašymuose minimi lant Wayke ir Waykowsoppe.'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo ne iki galo gramatiškas; perrašyta į pilną enciklopedinį sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Mituva; mentioned_place: Raseiniai; mentioned_place: Vaikiai; mentioned_place: Vaikių valsčius'
   pagrindžia:
     - c-001
 
@@ -35,6 +37,8 @@ Vaikių valsčius įtikimiau lokalizuojamas į rytus nuo Viduklės, kur kryžiuo
 - t-002
   global_id: t-60931
   teiginys: 'XIV a. pabaigos kryžiuočių kelių į Lietuvą aprašymuose Sešuvis vadintas Sessow, Sassow ir panašiomis formomis.'
+  sudarymo_pagrindimas: 'Citata tiesiogiai nurodo Sešuvies pavadinimo formas šiuose aprašymuose.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/autoriai/A. Salys|A. Salys]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -42,6 +46,11 @@ Vaikių valsčius įtikimiau lokalizuojamas į rytus nuo Viduklės, kur kryžiuo
 - t-003
   global_id: t-60932
   teiginys: '1384 m. kelio iš Įsruties į Marienverderį prie Kauno aprašyme minimas vedlys iš Nerwekiten ir kelias czu Kattow.'
+  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje minimą 1384 m. kelio aprašymą.'
+  susije_objektai: 'mentioned_place: Kaunas; mentioned_place: Marienverderis; mentioned_place: Norkyčiai'
+  temporaliniai_duomenys: 'įvykio data: 1384 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia citatoje minimą 1384 m. kelio aprašymą.'
   pagrindžia:
     - c-003
 
@@ -49,6 +58,8 @@ Vaikių valsčius įtikimiau lokalizuojamas į rytus nuo Viduklės, kur kryžiuo
 - t-004
   global_id: t-60933
   teiginys: 'Vokiškuose kryžiuočių kelių aprašymuose Ragainė minima formomis Rangith, Rangnit, Rangnith, Rangit ir Ragnit.'
+  sudarymo_pagrindimas: 'Citata išvardija vietovardžio formas kelių aprašymuose.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Ragainė'
   pagrindžia:
     - c-004
 

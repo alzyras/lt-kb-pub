@@ -28,6 +28,11 @@ Dusburgietis teigia, kad mierzyński A.
 - t-001
   global_id: t-60756
   teiginys: 'Mierzyński A. 1896 m. Varšuvoje paskelbė antrąją „Źródła do mytologii litewskiej“ dalį apie XIV ir XV amžius.'
+  sudarymo_pagrindimas: 'Bibliografinė citata pagrindžia autoriaus, veikalo, vietos ir metų faktą.'
+  susije_objektai: 'mentioned_place: Varšuva'
+  temporaliniai_duomenys: 'įvykio data: 1896 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Bibliografinė citata pagrindžia autoriaus, veikalo, vietos ir metų faktą.'
   pagrindžia:
     - c-001
 

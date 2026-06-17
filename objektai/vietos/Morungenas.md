@@ -14,6 +14,7 @@ tags:
   - miestas
   - ordinas
   - pilis
+  - vieta
 amziai:
   - 'XIV'
 ---
@@ -29,6 +30,8 @@ Dusburgietis teigia, kad apie Morungeno pilies pastatymą 1327 viešpaties metai
 - t-001
   global_id: t-58598
   teiginys: 'Morungenas vėliau vadintas Mohrungenu, o dabar tapatinamas su Morongu tarp Elbliongo ir Olštino.'
+  sudarymo_pagrindimas: 'Citata palaiko vietovardžio raidą ir dabartinį tapatinimą.'
+  susije_objektai: 'mentioned_place: Elbliongas'
   pagrindžia:
     - c-001
 
@@ -36,9 +39,14 @@ Dusburgietis teigia, kad apie Morungeno pilies pastatymą 1327 viešpaties metai
 - t-002
   global_id: t-58599
   teiginys: '1327 m. Elbingo komtūras Hermanas netoli Zalfeldo pastatė Morungeną, pavadintą pagal ežerą, prie kurio jis buvo įkurdintas.'
+  sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir turi perteklinę atribuciją, bet citata palaiko konkretų faktą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Hermanas|Hermanas]]; mentioned_place: Elbingas'
+  temporaliniai_duomenys: 'pastatymo data: 1327 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys per ilgas ir turi perteklinę atribuciją, bet citata palaiko konkretų faktą.'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/asmenys/Hermanas (Elbingo komtūras ir didysis Ordino špitolininkas).md#claim-t-60321|Hermanas (Elbingo komtūras ir didysis Ordino špitolininkas)]]: 1327 m. Hermanas, Elbingo komtūras ir didysis Ordino špitolininkas, netoli Zalfeldo pastatė Morungeno miestą.
 ## Reikšmingi paminėjimai
 
 - c-001

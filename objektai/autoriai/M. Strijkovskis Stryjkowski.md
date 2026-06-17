@@ -32,6 +32,8 @@ periodo_grupes:
 - t-001
   global_id: t-172913
   teiginys: 'Strijkovskis savo kronikoje minėjo, kad Šv. Martyno bažnyčia XVI a. jau buvo apleista ir sugriauta.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas citata apie Strijkovskio kronikos liudijimą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-014
 
@@ -39,6 +41,8 @@ periodo_grupes:
 - t-002
   global_id: t-172914
   teiginys: 'Strijkovskis neužsiminė apie tariamą Goštauto vienuolystę ir vyskupystę, todėl ši aplinkybė tekste atmetama.'
+  sudarymo_pagrindimas: 'Citata palaiko faktą, kad Strijkovskio kronikoje ši aplinkybė neminima.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/autoriai/Grzybowski|Grzybowski]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Podolė; mentioned_place: Vilnius'
   pagrindžia:
     - c-011
 
@@ -46,6 +50,8 @@ periodo_grupes:
 - t-004
   global_id: t-172916
   teiginys: 'Stryjkowskis nurodė, kad Švitrigaila piliai užimti pasinaudojo rusų vienuolių, vadintų čiornais, išdavyste.'
+  sudarymo_pagrindimas: 'Citata palaiko konkretų autoriaus nurodymą apie pilies užėmimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Prūsai; mentioned_place: Strėva; mentioned_place: Trakai; mentioned_place: Vilnius'
   pagrindžia:
     - c-005
 
@@ -53,6 +59,11 @@ periodo_grupes:
 - t-007
   global_id: t-172920
   teiginys: 'Strijkovskis klaidingai teigė, kad žygio vadovavimas buvo pavestas Konradui Valenrodui kaip didžiajam magistrui.'
+  sudarymo_pagrindimas: 'Citata palaiko autoriaus klaidos esmę, be perteklinių chronologinių detalių.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/asmenys/Konradas Valenrodas|Konradas Valenrodas]]; mentioned_place: Lietuva; mentioned_place: Prūsija'
+  temporaliniai_duomenys: 'įvykio data: 1391 m.; įvykio data: 1393 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko autoriaus klaidos esmę, be perteklinių chronologinių detalių.'
   pagrindžia:
     - c-006
 
@@ -60,6 +71,8 @@ periodo_grupes:
 - t-009
   global_id: t-172922
   teiginys: 'Strijkovskis rašė, kad Antakalnyje buvusi didžiulė menė arba šventovė, kur ketvirtadieniais dvasininkai degindavo vaško žvakes.'
+  sudarymo_pagrindimas: 'Citata remia Strijkovskio teiginį apie Antakalnio šventovę.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vaškas|Vaškas]]; mentioned_place: Antakalnis'
   pagrindžia:
     - c-002
 
@@ -67,6 +80,8 @@ periodo_grupes:
 - t-014
   global_id: t-172927
   teiginys: 'Strijkovskis minėjo pagonių šventyklą Antakalnyje, kurios vietoje, pagal padavimą, Goštautas pastatydino Šv. Petro bažnyčią.'
+  sudarymo_pagrindimas: 'Citata palaiko autoriaus minimą šventyklą ir su ja siejamą padavimą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]'
   pagrindžia:
     - c-009
 
@@ -74,6 +89,8 @@ periodo_grupes:
 - t-015
   global_id: t-172928
   teiginys: 'Stryjkowskis savo kronikoje aiškino Šventaragio vardo kilmę.'
+  sudarymo_pagrindimas: 'Citata palaiko faktą, bet pradinis teiginys yra nutrūkęs bibliografinis fragmentas.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/Grzybowski|Grzybowski]]; mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]'
   pagrindžia:
     - c-015
 
@@ -81,6 +98,8 @@ periodo_grupes:
 - t-017
   global_id: t-172930
   teiginys: 'Strijkovskis ir Kojelavičius rašė, kad Vytautas paleido gandą apie Ringailės vestuves su Mazovijos kunigaikščiu Henriku.'
+  sudarymo_pagrindimas: 'OCR fragmentas perrašytas į vieną aiškų sakinį, paremtą citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Ringailė|Ringailė]]; mentioned_person: [[objektai/asmenys/Sudimantas|Sudimantas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Mazovija; mentioned_place: Viena; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 
@@ -88,6 +107,8 @@ periodo_grupes:
 - t-018
   global_id: t-172931
   teiginys: 'Strijkovskis užsiminė apie mūšį, po kurio prie Sudervėlės upelio liko lietuvių sumuštų kryžiuočių kapavietė.'
+  sudarymo_pagrindimas: 'Citata palaiko teiginį apie Strijkovskio užuominą į mūšį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Kalvė|Kalvė]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Tame (Baigos brolis)|Tame (Baigos brolis)]]; mentioned_place: Kaimas; mentioned_place: Sudervėlė; mentioned_place: Vilnius'
   pagrindžia:
     - c-008
 
@@ -95,6 +116,8 @@ periodo_grupes:
 - t-019
   global_id: t-172932
   teiginys: 'Strijkovskis plačiai aprašė gudrybes, kurių Kęstutis ėmėsi puldamas Vilnių.'
+  sudarymo_pagrindimas: 'Pašalintas šaltinio ir OCR triukšmas, paliktas citatos palaikomas faktas.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Polockas; mentioned_place: Vilnius; mentioned_place: Vorskla'
   pagrindžia:
     - c-017
 
@@ -102,6 +125,8 @@ periodo_grupes:
 - t-020
   global_id: t-172933
   teiginys: 'Strijkovskis savo kronikoje Vilniaus įkūrimą priskyrė Gediminui.'
+  sudarymo_pagrindimas: 'Citata remia glaustą teiginį apie Strijkovskio kronikos pasakojimą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_place: Aukštutinė pilis; mentioned_place: Luckas; mentioned_place: Trakai; mentioned_place: Vengrija; mentioned_place: Vilniaus Aukštutinė pilis; mentioned_place: Vilnius'
   pagrindžia:
     - c-016
 
@@ -109,6 +134,8 @@ periodo_grupes:
 - t-022
   global_id: t-172935
   teiginys: 'Strijkovskis teigė, kad Gedimino palaikai buvo atvežti į Vilnių ir iškilmingai palaidoti.'
+  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia Strijkovskio poziciją apie Gedimino palaikus.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Dlugošas|Dlugošas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Veliuona; mentioned_place: Vilnius'
   pagrindžia:
     - c-012
 
@@ -116,6 +143,8 @@ periodo_grupes:
 - t-023
   global_id: t-172936
   teiginys: 'Stryjkowskis susirėmimą ir mūšį prie Vižūnų laikė tuo pačiu įvykiu, nors šis tapatinimas laikomas klaidingu.'
+  sudarymo_pagrindimas: 'Citata tiesiogiai palaiko teiginį apie autoriaus netikslų tapatinimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Glebas (Smolensko kunigaikštis)|Glebas (Smolensko kunigaikštis)]]; mentioned_person: [[objektai/asmenys/Sviatoslavas|Sviatoslavas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Nemunas; mentioned_place: Smolenskas; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -123,6 +152,8 @@ periodo_grupes:
 - t-024
   global_id: t-172937
   teiginys: 'Strijkovskis klaidingai nurodė, kad Lankasteris, Anglijos karaliaus Henriko sūnus, su didelėmis pajėgomis įsibrovė į Lietuvą.'
+  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas, paliktas citatos palaikomas faktas apie Strijkovskio klaidą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_group: [[objektai/grupes/Škotai|Škotai]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Ričardas (Kornvalijos grafas)|Ričardas (Kornvalijos grafas)]]; mentioned_place: Anglija; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-004
 
@@ -130,6 +161,8 @@ periodo_grupes:
 - t-027
   global_id: t-172940
   teiginys: 'Strijkovskis klydo teigdamas, kad miškas lietuviškai vadinamas lauku ir iš šio žodžio kilo Lukiškių pavadinimas.'
+  sudarymo_pagrindimas: 'Teiginys pagrįstas, bet reikėjo pašalinti OCR triukšmą ir sutvarkyti sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-010
 
@@ -137,6 +170,8 @@ periodo_grupes:
 - t-028
   global_id: t-172941
   teiginys: 'Strijkovskis, aprašydamas Vilniaus apgultį, teigė, kad Mikalojus Moskorovskis su lenkais narsiai gynė Aukštutinę pilį.'
+  sudarymo_pagrindimas: 'Citata remia Strijkovskio aprašytą Aukštutinės pilies gynybą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_person: [[objektai/asmenys/Karigaila|Karigaila]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-007
 
@@ -144,6 +179,8 @@ periodo_grupes:
 - t-029
   global_id: t-172942
   teiginys: 'Strijkovskis prie Vilniaus apsupties metu nukautųjų priskyrė Narimantą ir pateikė Długoszo pasakojimą apie jo mirtį.'
+  sudarymo_pagrindimas: 'Citata remia Strijkovskio priskyrimą ir pasakojimo kilmę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)|Narimantas (Pinsko kunigaikštis)]]; mentioned_place: Lietuva; mentioned_place: Pinskas; mentioned_place: Rusia; mentioned_place: Vilnius'
   pagrindžia:
     - c-013
 
@@ -651,42 +688,3 @@ periodo_grupes:
   statusas: verified
   pagrindžia:
     - t-019
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bajorai]]
-- [[objektai/asmenys/Glebas (Smolensko kunigaikštis)]]
-- [[objektai/autoriai/Henrikas]]
-- [[objektai/daiktai/Kalvė]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Pranciškonų ordinas]]
-- [[objektai/grupes/Prancūzai]]
-- [[objektai/asmenys/Ričardas (Kornvalijos grafas)]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/asmenys/Sviatoslavas]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/daiktai/Vaškas]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/didysis magistras]]
-- [[objektai/zodynas/kapitula]]
-- [[objektai/zodynas/komtūras]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/pagonybė]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/seniūnas]]
-- [[objektai/zodynas/vaivada]]
-- [[objektai/grupes/Škotai]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]]
-- [[objektai/paprociai/Apgultos pilies išardų taisymas laikinais užtaisais]]
-- [[objektai/autoriai/M. Strijkovskis|Motiejus Strijkovskis (kronikininkas)]]
-- [[objektai/zodynas/Ordino maršalas didysis maršalas]]
-- [[objektai/daiktai/Pilaitės pilkapis prie Sudervėlės]]
-- [[objektai/autoriai/Stryjkowski Strijkovskis]]
-- [[objektai/daiktai/Vilniaus pilys ir miesto sutvirtinimai 1390 m. apgultyje]]
-- [[objektai/zodynas/didysis komtūras arkikomtūras]]
-- [[objektai/paprociai/Įtartinų žmonių šalinimas iš tvirtovės apgulties metu]]

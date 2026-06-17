@@ -4,9 +4,12 @@ pavadinimas: 'Vilniaus perdavimo sutarties ir SSRS-Lietuvos savitarpio pagalbos 
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
+  - '1920 m.'
+  - '1926 m.'
   - '1939 m.'
-date_start: '1939'
-date_end: ''
+  - '1941 m.'
+date_start: '1920'
+date_end: '1941'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -20,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-Prieš J. Urbšio kelionę į Maskvą pradėta dalinė Lietuvos kariuomenės demobilizacija. 1939 m. spalio 10 d., spaudžiant Josifui Stalinui ir Viačeslavui Molotovui, buvo pasirašytos Vilniaus perdavimo ir SSRS-Lietuvos savitarpio pagalbos sutartys. Sutartis fundamentaliai pakeitė Lietuvos tarptautinę padėtį – Lietuva prarado neutralios politikos statusą ir dalį suvereniteto.
+Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Įsitikinus, kad iš niekur jokios pagalbos negaus, kad Vokietija jau atidavė Lietuvą SSRS įtakos sferai, agresyviai spaudžiant J. Lietuva gavo 6,7 tūkst.
 
 ## Laikotarpis ir datos
 
@@ -44,6 +47,8 @@ Nenurodyta
 - t-001
   global_id: t-75296
   teiginys: 'Prieš J. Urbšio kelionę į Maskvą pradėta dalinė Lietuvos kariuomenės demobilizacija.'
+  sudarymo_pagrindimas: 'Pradiniame teiginyje yra neaiškus įvardis, todėl reikia aiškesnio sakinio.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/demobilizacija|demobilizacija]]; mentioned_person: [[objektai/asmenys/Josifas Stalinas|Josifas Stalinas]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Vilnius; mentioned_place: Vokietija'
   pagrindžia:
     - c-001
 
@@ -51,6 +56,11 @@ Nenurodyta
 - t-002
   global_id: t-75297
   teiginys: '1939 m. spalio 10 d., spaudžiant Josifui Stalinui ir Viačeslavui Molotovui, buvo pasirašytos Vilniaus perdavimo ir SSRS-Lietuvos savitarpio pagalbos sutartys.'
+  sudarymo_pagrindimas: 'Reikia išplėsti asmenvardžių inicialus ir pataisyti sutarties skaičių.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: SSRS; mentioned_place: Vilnius; mentioned_place: Vokietija'
+  temporaliniai_duomenys: 'įvykio data: 1939 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia išplėsti asmenvardžių inicialus ir pataisyti sutarties skaičių.'
   pagrindžia:
     - c-002
 
@@ -58,6 +68,11 @@ Nenurodyta
 - t-003
   global_id: t-75298
   teiginys: 'Sutartis fundamentaliai pakeitė Lietuvos tarptautinę padėtį – Lietuva prarado neutralios politikos statusą ir dalį suvereniteto.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas faktinis sakinys apie sutarties padarinius.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Suverenitetas|Suverenitetas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Berlynas; mentioned_place: Lietuva; mentioned_place: SSRS; mentioned_place: Viena; mentioned_place: Vilnius; mentioned_place: Vokietija'
+  temporaliniai_duomenys: 'sutarties data: 1920 m.; sutarties data: 1941 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas faktinis sakinys apie sutarties padarinius.'
   pagrindžia:
     - c-004
 
@@ -65,6 +80,11 @@ Nenurodyta
 - t-004
   global_id: t-75299
   teiginys: 'Lietuva gavo 6,7 tūkst. kv. km teritoriją su Vilniumi ir apie 0,5 mln. gyventojų, bet turėjo įsileisti sovietų karines bazes.'
+  sudarymo_pagrindimas: 'Teiginys pilnas, aiškus ir tiksliai perteikia citatos faktus.'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: SSRS; mentioned_place: Vilnius; mentioned_place: Vokietija'
+  temporaliniai_duomenys: 'įvykio data: 1920 m.; įvykio data: 1926 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys pilnas, aiškus ir tiksliai perteikia citatos faktus.'
   pagrindžia:
     - c-003
 
@@ -72,6 +92,11 @@ Nenurodyta
 - t-005
   global_id: t-75300
   teiginys: '1939 m. spalio 3 d. Maskvoje Josifas Stalinas spaudė Juozą Urbšį pasirašyti savitarpio pagalbos, Vilniaus perdavimo ir dalies Lietuvos teritorijos perdavimo Vokietijai sutartis.'
+  sudarymo_pagrindimas: 'Reikia išplėsti inicialą ir tiksliau suformuluoti sutarties objektą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/demobilizacija|demobilizacija]]; mentioned_person: [[objektai/asmenys/Josifas Stalinas|Josifas Stalinas]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Vilnius; mentioned_place: Vokietija'
+  temporaliniai_duomenys: 'sutarties data: 1939 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia išplėsti inicialą ir tiksliau suformuluoti sutarties objektą.'
   pagrindžia:
     - c-001
 
@@ -145,13 +170,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Josifas Stalinas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/Suverenitetas]]
-- [[objektai/zodynas/demobilizacija]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/asmenys/Juozas Urbšys]]
-- [[objektai/asmenys/Viačeslavas Molotovas]]

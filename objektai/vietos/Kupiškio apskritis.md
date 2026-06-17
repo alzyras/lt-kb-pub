@@ -26,6 +26,11 @@ Priešo pajėgos 1949 m. lapkričio 1-2 dienomis MGB vidaus kariuomenės 137-0jo
 - t-001
   global_id: t-38496
   teiginys: '1949 m. lapkričio 1-2 d. MGB vidaus kariuomenės 137-ojo ir 298-ojo šaulių pulkų kareiviai vykdė operacijas Kupiškio apskrityje.'
+  sudarymo_pagrindimas: 'Pašalintas antraštės ir OCR triukšmas, paliktas citatos pagrįstas faktas apie Kupiškio apskritį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Kariauna|Kariauna]]; mentioned_place: Kupiškis; mentioned_place: Svėdasai'
+  temporaliniai_duomenys: 'įvykio data: 1949 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas antraštės ir OCR triukšmas, paliktas citatos pagrįstas faktas apie Kupiškio apskritį.'
   pagrindžia:
     - c-001
 

@@ -17,7 +17,7 @@ amziai:
 
 ## Santrauka
 
-Husarų „draugų“ tarnai nestodavo į rikiuotę, užsiimdavo ūkine veikla ir saugodavo stovyklą. Husarai ir jų XVII a. pavyzdžio organizacija Abiejų Tautų Respublikoje egzistavo iki XVIII a. Husarai paprastai atakuodavo priešą dviem linijomis, kurių pirmoji silpnindavo rikiuotę, o antroji pralauždavo gretas.
+Husarų vėliavų branduolį sudarė turtingi bajorai - draugai. Kiekvienas draugas atsivesdavo palydą ir tarnus, o palydą ginklais, šarvais ir žirgais aprūpindavo pats draugas.
 
 ## Laikotarpis ir datos
 
@@ -45,6 +45,8 @@ Nenurodyta
 - t-001
   global_id: t-71798
   teiginys: 'Husarų „draugų“ tarnai nestodavo į rikiuotę, užsiimdavo ūkine veikla ir saugodavo stovyklą.'
+  sudarymo_pagrindimas: 'Teiginys gramatiškas, turi aiškų subjektą ir predikatą, remiasi citatos pradžia.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Ietis|Ietis]]; mentioned_object: [[objektai/zodynas/husarai|husarai]]'
   pagrindžia:
     - c-002
 
@@ -52,6 +54,8 @@ Nenurodyta
 - t-002
   global_id: t-71800
   teiginys: 'Husarai ir jų XVII a. pavyzdžio organizacija Abiejų Tautų Respublikoje egzistavo iki XVIII a.'
+  sudarymo_pagrindimas: 'Reikia išplėsti santrumpą ir suformuluoti enciklopediškiau.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/zodynas/husarai|husarai]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 
@@ -59,6 +63,7 @@ Nenurodyta
 - t-003
   global_id: t-71801
   teiginys: 'Husarai paprastai atakuodavo priešą dviem linijomis, kurių pirmoji silpnindavo rikiuotę, o antroji pralauždavo gretas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/husarai|husarai]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-004
 
@@ -66,6 +71,7 @@ Nenurodyta
 - t-004
   global_id: t-71802
   teiginys: 'Husarų vėliavų branduolį sudarė turtingi bajorai - draugai.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_object: [[objektai/daiktai/Vėliavos|Vėliavos]]; mentioned_object: [[objektai/zodynas/husarai|husarai]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]; mentioned_object: [[objektai/daiktai/Šarvai|Šarvai]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_place: Lyda'
   pagrindžia:
     - c-001
 
@@ -73,6 +79,8 @@ Nenurodyta
 - t-005
   global_id: t-71803
   teiginys: 'XVII a. Lietuvos ir Lenkijos husarai buvo vienintelė „šoko kavalerija“ Europoje.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys, o citata tiesiogiai jį palaiko.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/husarai|husarai]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-004
 
@@ -177,17 +185,3 @@ Nenurodyta
   pagrindžia:
     - t-005
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Ginklai]]
-- [[objektai/daiktai/Ietis]]
-- [[objektai/grupes/Kazokai]]
-- [[objektai/daiktai/Vėliavos]]
-- [[objektai/zodynas/husarai]]
-- [[objektai/zodynas/vėliava]]
-- [[objektai/daiktai/Šarvai]]
-- [[objektai/daiktai/Žirgai]]
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/grupes/Bajorai]]
-- [[objektai/grupes/Abiejų Tautų Respublikos kariuomenė]]

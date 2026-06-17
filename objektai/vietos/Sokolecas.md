@@ -18,9 +18,14 @@ Dimitras, prisiekęs ištikimybę Vytautui ir jo įpėdiniams, gavo valdyti Brac
 - t-001
   global_id: t-185306
   teiginys: 'Dimitras, prisiekęs ištikimybę Vytautui ir jo įpėdiniams, gavo valdyti Braclavą, Vinicą, Kremenecą ir Sokolecą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nusako Dimitro gautas valdas ir yra paremtas citata.'
+  susije_objektai: 'mentioned_place: Kremenecas; mentioned_place: Severskas'
   pagrindžia:
     - c-001
-
+- susijęs iš Braclavas: Dimitras, prisiekęs ištikimybę Vytautui ir jo įpėdiniams, gavo valdyti Braclavą, Vinicą, Kremenecą ir Sokolecą.
 ## Reikšmingi paminėjimai
 
 - c-001

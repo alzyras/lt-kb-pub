@@ -28,6 +28,7 @@ Trumpa, V. Trumpa: Jonynas I ., LE 9 t., 478 p. (^83) A.
 - t-001
   global_id: t-31048
   teiginys: 'V. Trumpa parašė Lietuvių enciklopedijos straipsnį apie I. Jonyną.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -35,9 +36,12 @@ Trumpa, V. Trumpa: Jonynas I ., LE 9 t., 478 p. (^83) A.
 - t-002
   global_id: t-31049
   teiginys: 'V. Trumpa parašė straipsnį „Lietuvos istorikų darbai ir dienos“, paskelbtą žurnale „Aidai“.'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-
+- susijęs iš Galvės ežeras: Ivinskis Galvės ežero salos pilį minėjo kaip žymiausią Vytauto garbės ir pasididžiavimo statinį.
+- susijęs iš Galvės ežero salos pilis (pilis): 1414 m. Galvės ežero salos pilyje apsilankė Burgundijos riteris Ghillebert de Lannoy.
+- susijęs iš Galvės ežero salos pilis (pilis): Ivinskis Galvės ežero salos pilį vadino žymiausiu Vytauto garbės ir pasididžiavimo statiniu.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -67,7 +71,3 @@ Trumpa, V. Trumpa: Jonynas I ., LE 9 t., 478 p. (^83) A.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]

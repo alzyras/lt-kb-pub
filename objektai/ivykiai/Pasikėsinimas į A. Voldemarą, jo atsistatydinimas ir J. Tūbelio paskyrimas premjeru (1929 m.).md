@@ -42,6 +42,11 @@ Nenurodyta
 - t-001
   global_id: t-20440
   teiginys: 'Po 1929 m. gegužės pasikėsinimo į A. Voldemarą rugsėjį atsistatydino ministrai, todėl turėjo atsistatydinti ir premjeras A. Voldemaras.'
+  sudarymo_pagrindimas: 'Reikia aiškiai įvardyti, kas atsistatydino, ir pašalinti neaiškią formuluotę.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/in corpore|in corpore]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/vienvaldystė|vienvaldystė]]; mentioned_person: [[objektai/asmenys/A. Voldemaras|A. Voldemaras]]; mentioned_place: Europa'
+  temporaliniai_duomenys: 'įvykio data: po 1929 m.; įvykio data: 1929 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia aiškiai įvardyti, kas atsistatydino, ir pašalinti neaiškią formuluotę.'
   pagrindžia:
     - c-001
 
@@ -62,11 +67,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/in corpore]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/vienvaldystė]]
-- [[objektai/asmenys/A. Voldemaras]]
-- [[objektai/asmenys/Augustinas Voldemaras]]

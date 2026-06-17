@@ -3,10 +3,16 @@ tipas: daiktas
 pavadinimas: 'Išsaugotos Toros'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '2004 m.'
+date_start: '2004'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - dokumentas
+amziai:
+  - 'XXI'
 ---
 # Išsaugotos Toros
 
@@ -43,6 +49,9 @@ Nenurodyta
 - t-001
   global_id: t-19534
   teiginys: 'Lietuva siekė grąžinti žydams išblaškytas kultūros vertybes, tarp jų išsaugotas 300 Torų.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/Antisemitizmas|Antisemitizmas]]; mentioned_place: Afganistanas; mentioned_place: Goras; mentioned_place: Gruzija; mentioned_place: Lietuva; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 2004 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -73,9 +82,3 @@ Nenurodyta
 ## Šaltiniai ir įrodymai
 
 Nenurodyta
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Antisemitizmas]]
-- [[objektai/grupes/Žydai]]
-- [[objektai/zodynas/Restitucija]]

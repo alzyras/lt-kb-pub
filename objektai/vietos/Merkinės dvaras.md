@@ -10,12 +10,12 @@ date_start: '1827'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XIX'
-  - 'XXI'
 tags:
   - pinigai
   - vieta
+amziai:
+  - 'XIX'
+  - 'XXI'
 ---
 # Merkinės dvaras
 
@@ -24,26 +24,30 @@ tags:
 Merkinės dvaro (prie Turgelių, netoli Vilniaus) valstiečius atleido vien už piniginį mokestį ir net davė jiems savivaldybę.
 
 ## Teiginiai
+
 <a id="claim-t-43781"></a>
 - t-001
   global_id: t-43781
   teiginys: 'Merkinės dvaro valstiečiai buvo atleisti už piniginį mokestį ir gavo savivaldybę.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Baudžiava|Baudžiava]]; mentioned_place: Merkinė'
+  temporaliniai_duomenys: 'įvykio data: 1827 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+
 <a id="claim-t-43782"></a>
 - t-002
   global_id: t-43782
   teiginys: 'Merkinės dvaro valstiečiai buvo atleisti vien už piniginį mokestį ir gavo savivaldybę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/Baudžiava|Baudžiava]]; mentioned_place: Merkinė'
+  temporaliniai_duomenys: 'įvykio data: 1827 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Merkinės dvaro valstiečiai buvo atleisti vien už piniginį mokestį ir gavo savivaldybę.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Baudžiavos naikinimas atskiruose dvaruose.** Tačiau šiuo
@@ -58,15 +62,13 @@ Merkinės dvaro (prie Turgelių, netoli Vilniaus) valstiečius atleido vien už 
     dvaro valstiečių savivaldybės
     kūrėjas († 1827 m.).
     dinga patiems dvarininkams.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002
+
 - c-002
-  santrauka: 'Merkinės dvaro valstiečiai buvo atleisti už piniginį mokestį ir gavo savivaldybę.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Merkinės dvaro (prie Turgelių,
@@ -80,10 +82,8 @@ Merkinės dvaro (prie Turgelių, netoli Vilniaus) valstiečius atleido vien už 
     Todėl kai kurie iš jų patys savo
     iniciatyva išlaisvino valstiečius,
     sau pasilikdami tik žemę.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

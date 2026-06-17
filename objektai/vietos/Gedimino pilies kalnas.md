@@ -22,6 +22,7 @@ prie arsenalo (pasak kitų šaltinių - nuo Gedimino pilies kalno) driokstelėjo
 - t-001
   global_id: t-41726
   teiginys: 'Velykų naktį patrankos šūvis, pasak kai kurių šaltinių, driokstelėjo nuo Gedimino pilies kalno ir davė puolimo signalą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Patrankos|Patrankos]]; mentioned_object: [[objektai/posakiai/pasak kai kurių|pasak kai kurių]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]'
   pagrindžia:
     - c-001
 

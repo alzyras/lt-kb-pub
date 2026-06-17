@@ -27,9 +27,13 @@ Dusburgietis teigia, kad akmenos krante, Kreivių kaime (Jucaičių apyl.
 - t-001
   global_id: t-58699
   teiginys: 'Kreivių kaime, kairiajame Akmenos krante, yra Pilės kalva su ovalia aikštele ir terasomis papėdėje.'
+  sudarymo_pagrindimas: 'Citata leidžia suformuluoti konkretų faktą apie Kreiviuose esančią kalvą.'
+  susije_objektai: 'mentioned_place: Kaimas'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/autoriai/Tarasenka P.md#claim-t-64857|Tarasenka P]]: P. Tarasenkos veikale „Pėdos“ Velnių stalo vieta žemėlapyje pažymėta netiksliai.
+- susijęs iš Mickevičius J. Putvės pilis XIV amžiuje: Pūtvės pilis ir laukas siejami su Pūtvės kaimu prie Akmenos, į pietryčius nuo Šilalės, arba su gretimo Kreivių kaimo piliakalniu.
+- susijęs iš Mickevičius J. Putvės pilis XIV amžiuje: Kreiviai, anksčiau vadinti Kryvos vardu, ir gretimas Romės Laukas galėjo būti susiję su pagonišku kultu.
 ## Reikšmingi paminėjimai
 
 - c-001

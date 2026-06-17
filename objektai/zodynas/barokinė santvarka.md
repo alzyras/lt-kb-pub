@@ -5,6 +5,7 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1566 m.'
+  - '1579 m.'
   - '1586 m.'
 date_start: '1566'
 date_end: '1586'
@@ -22,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-Barokinės santvarkos sąvoka siejama su 1566 m. įsigalėjusia luomine bajorų santvarka. Barokinės santvarkos sąvoka siejama su 1566 m. įsigalėjusia luomine bajorų santvarka ir Valakų reformos suformuotu lažiniu palivarkiniu ūkiu.
+Barokinė Nesvyžiaus jėzuitų kolegijos bažnyčia pradėta statyti 1586 m., o barokinės architektūros manifestu paprastai laikoma Vilniaus Šv.
 
 ## Teiginiai
 
@@ -30,6 +31,11 @@ Barokinės santvarkos sąvoka siejama su 1566 m. įsigalėjusia luomine bajorų 
 - t-001
   global_id: t-22079
   teiginys: 'Barokinės santvarkos sąvoka siejama su 1566 m. įsigalėjusia luomine bajorų santvarka.'
+  sudarymo_pagrindimas: 'Citata leidžia suformuluoti aiškesnį faktinį sakinį apie sąvoką.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Valakai|Valakai]]; mentioned_object: [[objektai/zodynas/barokas|barokas]]; mentioned_place: Lietuva; mentioned_place: Liublinas; mentioned_place: Nesvyžius; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1566 m.; įvykio data: 1579 m.; įvykio data: 1586 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata leidžia suformuluoti aiškesnį faktinį sakinį apie sąvoką.'
   pagrindžia:
     - c-001
 
@@ -37,6 +43,14 @@ Barokinės santvarkos sąvoka siejama su 1566 m. įsigalėjusia luomine bajorų 
 - t-002
   global_id: t-183401
   teiginys: 'Barokinės santvarkos sąvoka siejama su 1566 m. įsigalėjusia luomine bajorų santvarka ir Valakų reformos suformuotu lažiniu palivarkiniu ūkiu.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata palaiko tikslesnį sakinį apie sąvokos vartojimo pagrindą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Valakai|Valakai]]; mentioned_object: [[objektai/zodynas/barokas|barokas]]; mentioned_place: Lietuva; mentioned_place: Liublinas; mentioned_place: Nesvyžius; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1566 m.; įvykio data: 1579 m.; įvykio data: 1586 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko tikslesnį sakinį apie sąvokos vartojimo pagrindą.'
   pagrindžia:
     - c-001
 
@@ -60,12 +74,3 @@ Barokinės santvarkos sąvoka siejama su 1566 m. įsigalėjusia luomine bajorų 
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bajorai]]
-- [[objektai/grupes/Valakai]]
-- [[objektai/zodynas/barokas]]
-- [[objektai/ivykiai/Vilniaus universiteto įkūrimas]]
-- [[objektai/ivykiai/Vilniaus universiteto įkūrimas (1579 m.)]]
-- [[objektai/zodynas/barokinė santvarka barokinis ūkis]]

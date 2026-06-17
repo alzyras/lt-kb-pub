@@ -6,13 +6,15 @@ saltiniai:
 datos:
   - '1569 m.'
   - '1572 m.'
+  - '1932 m.'
 date_start: '1569'
-date_end: '1572'
+date_end: '1932'
 sukurta: ''
 atnaujinta: ''
 tags: []
 amziai:
   - 'XVI'
+  - 'XX'
 ---
 # poliublininis laikotarpis
 
@@ -48,17 +50,21 @@ Terminas vartojamas kalbant apie istorijos rašymą po Liublino unijos ir atskir
 - t-001
   global_id: t-05602
   teiginys: 'Stryjkovskis rašė pirmais poliublininiais dešimtmečiais.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_person: [[objektai/autoriai/K. Avižonis|K. Avižonis]]; mentioned_place: Berlynas; mentioned_place: Lietuva; mentioned_place: Liublinas'
+  temporaliniai_duomenys: 'įvykio data: 1932 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
+    - c-001
     - c-002
+    - c-004
     - c-005
     - c-006
-    - c-001
-    - c-004
 
 <a id="claim-t-05603"></a>
 - t-002
   global_id: t-05603
   teiginys: 'Poliublininiame laikotarpyje iki T. Narbuto laikų atskiros Lietuvos istorijos tradicija nebebuvo tęsiama.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 
@@ -66,6 +72,8 @@ Terminas vartojamas kalbant apie istorijos rašymą po Liublino unijos ir atskir
 - t-003
   global_id: t-05606
   teiginys: 'Pirmieji poliublininiai dešimtmečiai siejami su laikotarpiu po Liublino įvykių.'
+  sudarymo_pagrindimas: 'Citata leidžia suformuluoti ribotą teiginį apie termino taikymą laikotarpiui po Liublino.'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Liublinas'
   pagrindžia:
     - c-002
 
@@ -73,6 +81,8 @@ Terminas vartojamas kalbant apie istorijos rašymą po Liublino unijos ir atskir
 - t-004
   global_id: t-97286
   teiginys: 'Pirmaisiais poliublininiais dešimtmečiais rašęs Stryjkovskis perėmė Lietuvos didikų valstybingumo sąmonę.'
+  sudarymo_pagrindimas: 'Teiginys yra glaustas, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -80,9 +90,29 @@ Terminas vartojamas kalbant apie istorijos rašymą po Liublino unijos ir atskir
 - t-005
   global_id: t-97287
   teiginys: 'Kojalavičius įtvirtino tradiciją poliublininiu laikotarpiu nebetęsti atskiros Lietuvos istorijos.'
+  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir suformuluotas pilnas sakinys apie laikotarpį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
-
+- susijęs iš [[objektai/autoriai/K. Avižonis.md#claim-t-30723|K. Avižonis]]: K. Avižonis tyrė poliublininius laikus, parašė veikalą apie bajorus Vazų laikų Lietuvoje ir kelias kritiškas istorijos studijas.
+- susijęs iš [[objektai/grupes/Lietuvos didikai.md#claim-t-81461|Lietuvos didikai]]: Lietuvos didikai po Liublino unijos išlaikė stiprią valstybingumo sąmonę ir nenorėjo sutikti su tuo, kas buvo įvykę Liubline.
+- susijęs iš [[objektai/posakiai/surasti lietuvius Lietuvos istorijoje.md#claim-t-97295|surasti lietuvius Lietuvos istorijoje]]: Šapoka poliublininių laikų tyrimuose „ieškojo lietuvių“ ir rašė apie Lietuvos ir Lenkijos santykius.
+- susijęs iš [[objektai/posakiai/surasti lietuvius Lietuvos istorijoje.md#claim-t-97296|surasti lietuvius Lietuvos istorijoje]]: „Ieškodamas lietuvių“ poliublininiuose laikuose, tyrėjas skelbė straipsnius periodikoje nuo 1931 ir 1933 m.
+- susijęs iš Napoleono teisynas: Augustinas Janulaitis „Napoleono teisyną“ paskelbė 1930 m.
+- susijęs iš Napoleono teisynas: „Napoleono teisynas“ buvo išleistas 1930 m.
+- susijęs iš Užnemunė po Prūsais 1795-1807: Augustino Janulaičio raštas „Užnemunė po Prūsais 1795-1807“ paminėtas tarp jo darbų su 1928 m. data.
+- susijęs iš Užnemunė po Prūsais 1795-1807: „Užnemunė po Prūsais 1795-1807“ išleista 1928 m.
+- susijęs iš Vyriausias Lietuvos Tribunolas XVI-XVIII amž: „Vyriausias Lietuvos Tribunolas XVI-XVIII amž.“ buvo paminėtas tarp gausių autoriaus raštų ir datuotas 1927 m.
+- susijęs iš Žydai Lietuvoje: „Žydai Lietuvoje“ yra vienas iš paminėtų Janulaičio raštų, išleistų 1923 m.
+- susijęs iš Berlynas: 1932 m. Berlyne Konstantinas Avižonis parašė disertaciją apie Lietuvos bajorų atsiradimą ir jų luomo susiformavimą iki 1385 m.
+- susijęs iš Berlynas: Konstantinas Avižonis 1932 m. Berlyne parašė disertaciją apie Lietuvos bajorų atsiradimą ir luomo susiformavimą iki 1385 m.
+- susijęs iš [[objektai/zodynas/poliublininiai laikai.md#claim-t-32803|poliublininiai laikai]]: Poliublininiais amžiais lietuvių istorikams lietuvių pėdsakų teko ieškoti bendroje respublikoje.
+- susijęs iš [[objektai/zodynas/poliublininiai laikai.md#claim-t-32804|poliublininiai laikai]]: Poliublininiai laikai tapo laikotarpiu, kuriame istorikas ieškojo lietuvių ir nuo 1931 m. skelbė straipsnius periodikoje.
+- susijęs iš [[objektai/zodynas/poliublininis laikotarpis poliublininiai laikai.md#claim-t-103839|poliublininis laikotarpis poliublininiai laikai]]: Adolfas Šapoka daugiausia tyrinėjo poliublininius laikus ir nuo 1931 m. skelbė straipsnius periodikoje apie lietuvius po Liublino unijos.
+- susijęs iš [[objektai/zodynas/poliublininis laikotarpis poliublininiai laikai.md#claim-t-103840|poliublininis laikotarpis poliublininiai laikai]]: Poliublininiais amžiais lietuvių istorikams lietuvių pėdsakų teko ieškoti bendroje respublikoje.
+- susijęs iš [[objektai/zodynas/poliublininis laikotarpis poliublininiai laikai.md#claim-t-103841|poliublininis laikotarpis poliublininiai laikai]]: Pirmaisiais poliublininiais dešimtmečiais Stryjkovskis ryškino Lietuvos valstybinį patriotizmą ir gynė atskirą jos valstybinę sąmonę.
+- susijęs iš [[objektai/zodynas/poliublininis laikotarpis poliublininiai laikai.md#claim-t-103842|poliublininis laikotarpis poliublininiai laikai]]: Poliublininiai laikai tapo laikotarpiu, kuriame istorikas ieškojo lietuvių ir nuo 1931 m. skelbė straipsnius periodikoje.
+- susijęs iš [[objektai/zodynas/valstybingumo sąmonė.md#claim-t-28565|valstybingumo sąmonė]]: Stryjkovskis ryškino Lietuvos valstybinį patriotizmą ir gynė atskirą Lietuvos valstybinę sąmonę.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -189,26 +219,3 @@ Terminas vartojamas kalbant apie istorijos rašymą po Liublino unijos ir atskir
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/istorinė-sąvoka]]
-- [[temos/teisinis-terminas]]
-
-### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/asmenys/Augustas]]
-- [[objektai/grupes/Bajorai]]
-- [[objektai/autoriai/K. Avižonis]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/duoklė]]
-- [[objektai/zodynas/luomas]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/posakiai/surasti lietuvius Lietuvos istorijoje]]
-- [[objektai/grupes/Čekai]]
-- [[objektai/asmenys/Žygimantas]]
-- [[objektai/grupes/Lietuvos didikai]]
-- [[objektai/zodynas/poliublininiai laikai]]
-- [[objektai/zodynas/poliublininis laikotarpis poliublininiai laikai]]
-- [[objektai/zodynas/valstybingumo sąmonė]]

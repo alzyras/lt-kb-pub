@@ -16,7 +16,7 @@ amziai:
 
 ## Santrauka
 
-Sulaukęs brolio kariuomenės pagalbos, karalius Olbrachtas be baimės žengė keliu, pasiekė Kamenecą ir paskui Lvovą.
+Stanislovo Petravičiaus vadovaujama pagalbinė kariuomenė laiku nespėjo pasiekti Olbrachto. Kelyje, persikėlusi per Dniestrą, ši kariuomenė susidūrė su moldavais.
 
 ## Laikotarpis ir datos
 
@@ -45,14 +45,17 @@ Nenurodyta
 <a id="claim-t-186660"></a>
 - t-001
   global_id: t-186660
-  teiginys: 'Sulaukęs brolio kariuomenės pagalbos, karalius Olbrachtas be baimės žengė keliu, pasiekė Kamenecą ir paskui Lvovą.'
+  teiginys: 'Karalius Olbrachtas, sulaukęs brolio kariuomenės pagalbos, žengė keliu be baimės, pasiekė Kamenecą, paskui Lvovą, ir kariuomenė išsiskirstė.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Patikslintas veikėjas, eiga ir rezultatas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Moldavija'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Sulaukęs brolio kariuomenės pagalbos, karalius Olbrachtas be baimės žengė keliu, pasiekė Kamenecą ir paskui Lvovą.'
+  santrauka: 'Karalius Olbrachtas, sulaukęs brolio kariuomenės pagalbos, žengė keliu be baimės, pasiekė Kamenecą, paskui Lvovą, ir kariuomenė išsiskirstė.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     Moldavijos vaivada leidosi atgalios, o karalius Olb­
@@ -67,7 +70,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/vaivada]]

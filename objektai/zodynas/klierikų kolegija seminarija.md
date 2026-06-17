@@ -3,6 +3,10 @@ tipas: zodyno_irasas
 pavadinimas: 'klierikų kolegija seminarija'
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+datos:
+  - '1582 m.'
+date_start: '1582'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -10,6 +14,8 @@ tags:
   - kunigaikštis
   - popiežius
   - sąvoka
+amziai:
+  - 'XVI'
 ---
 # klierikų kolegija seminarija
 
@@ -23,6 +29,11 @@ O kadangi no­ rime, kad ši pastatyta ir įkurta seminarija amžinai gyvuotų i
 - t-001
   global_id: t-86474
   teiginys: '1582 m. Vilniuje klierikų seminarijos mokymas ir valdymas buvo patikėti Vilniaus Jėzaus draugijos kolegijai.'
+  sudarymo_pagrindimas: 'Teiginys buvo su OCR triukšmu ir fragmentiškas; citata pagrindžia aiškų sakinį apie seminarijos valdymą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija|Vilniaus vyskupijos klierikų kolegija]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1582 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys buvo su OCR triukšmu ir fragmentiškas; citata pagrindžia aiškų sakinį apie seminarijos valdymą.'
   pagrindžia:
     - c-002
 
@@ -30,6 +41,8 @@ O kadangi no­ rime, kad ši pastatyta ir įkurta seminarija amžinai gyvuotų i
 - t-002
   global_id: t-86475
   teiginys: 'Vilniaus seminarijai prašyta karaliaus Stepono globos ir gynybos, kad ji galėtų nuolat gyvuoti ir klestėti.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, citata leidžia tiksliai perrašyti mintį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija|Vilniaus vyskupijos klierikų kolegija]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -86,9 +99,3 @@ O kadangi no­ rime, kad ši pastatyta ir įkurta seminarija amžinai gyvuotų i
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Namas]]
-- [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Raštinių kultūros plėtrą XIV–XV a. sandūroje skatino augantis LDK rašto poreikis ir vienuolijų trūkumas Lietuvoje.
+Raštinės tapo kultūrinės produkcijos gamintojomis, kaupėjomis ir raštininkų mokyklomis.
 
 ## Teiginiai
 
@@ -23,9 +23,12 @@ Raštinių kultūros plėtrą XIV–XV a. sandūroje skatino augantis LDK rašto
 - t-001
   global_id: t-22262
   teiginys: 'Raštinių kultūros plėtrą XIV–XV a. sandūroje skatino augantis LDK rašto poreikis ir vienuolijų trūkumas Lietuvoje.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai susietas su pastabos objektu ir remiasi citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/gotika|gotika]]; mentioned_place: Europa; mentioned_place: Kremlius; mentioned_place: Lietuva; mentioned_place: Maskva'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštija.md#claim-t-169686|Lietuvos Didžioji Kunigaikštija]]: XIV–XV a. sandūroje Lietuvos Didžiojoje Kunigaikštijoje sparčiai didėjo rašto poreikis, bet trūko vienuolijų jam tenkinti.
+- susijęs iš [[objektai/paprociai/Didžiojo kunigaikščio raštinės dokumentų rengimo, kaupimo ir registravimo praktika.md#claim-t-183307|Didžiojo kunigaikščio raštinės dokumentų rengimo, kaupimo ir registravimo praktika]]: XIV–XV a. sandūroje LDK raštinės tapo kultūrinės produkcijos gamintojomis, kaupėjomis ir raštininkų mokyklomis.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -46,9 +49,3 @@ Raštinių kultūros plėtrą XIV–XV a. sandūroje skatino augantis LDK rašto
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/gotika]]
-- [[objektai/paprociai/Didžiojo kunigaikščio raštinės dokumentų rengimo, kaupimo ir registravimo praktika]]
-- [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]

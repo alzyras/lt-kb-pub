@@ -22,6 +22,7 @@ Wulfstanas buvo pirmasis, kuris pats matė aprašomą kraštą. Apie « aisčių
 - t-001
   global_id: t-97232
   teiginys: 'Wulfstanas pasakojo apie prūsų laidojimo papročius ir teigė, kad aisčiai mokėjo išlaikyti užšaldytus lavonus vasarą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_place: Prūsai'
   pagrindžia:
     - c-004
 
@@ -29,6 +30,7 @@ Wulfstanas buvo pirmasis, kuris pats matė aprašomą kraštą. Apie « aisčių
 - t-002
   global_id: t-97233
   teiginys: 'Wulfstanas buvo pirmasis autorius, pats matęs aprašomą rytų Pabaltijo kraštą.'
+  sudarymo_pagrindimas: 'Patikslintas neaiškus objektas, remiantis citatos kontekstu apie rytų Pabaltijį.'
   pagrindžia:
     - c-003
 
@@ -36,6 +38,8 @@ Wulfstanas buvo pirmasis, kuris pats matė aprašomą kraštą. Apie « aisčių
 - t-003
   global_id: t-97234
   teiginys: 'Wulfstanas rašė, kad aisčių žemė buvo labai didelė, joje buvo daug medaus ir žuvies.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir atitinka citatoje pateiktą Wulfstano pasakojimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_place: Prūsai'
   pagrindžia:
     - c-002
 
@@ -43,9 +47,17 @@ Wulfstanas buvo pirmasis, kuris pats matė aprašomą kraštą. Apie « aisčių
 - t-004
   global_id: t-97235
   teiginys: 'Wulfstanas buvo jūrininkas, lankęsis Baltijos jūros pakraščių kraštuose ir perdavęs žinių karaliui Alfredui Didžiajam.'
+  sudarymo_pagrindimas: 'Reikia pakeisti neaiškų įvardį ir fragmentišką kontekstą aiškiu faktiniu sakiniu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_group: [[objektai/grupes/Anglai|Anglai]]; mentioned_place: Baltija'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/paprociai/Aisčių laidotuvių ir vėlinių apeigos.md#claim-t-05335|Aisčių laidotuvių ir vėlinių apeigos]]: Wulfstano aprašyti aisčiai mirusiojo kūną laikydavo mėnesius, iš jo turto keldavo puotas, o likutį išdalydavo per arklių lenktynes.
+- susijęs iš [[objektai/posakiai/at litus australe Slavi et Aisti et aliae diversae incolunt nationes.md#claim-t-31554|at litus australe Slavi et Aisti et aliae diversae incolunt nationes]]: Apie 830 m. Einhardas „Vita Caroli Magni“ pietiniame Baltijos krante minėjo slavus, aisčius ir kitas tautas.
+- susijęs iš Prūsijos žemės kronika: Mikalojus iš Jarošino, versdamas Dusburgo kroniką į vokiečių kalbą, pridėjo nemažai savo papildymų ir paaiškinimų.
+- susijęs iš Prūsijos žemės kronika: Mikalojus iš Jarošino, versdamas Dusburgo kroniką iš lotynų į vokiečių kalbą, pridėjo papildymų ir paaiškinimų nuo savęs.
+- susijęs iš [[objektai/zodynas/kastuvo mokslas.md#claim-t-32782|kastuvo mokslas]]: Baltų gyvenimą menkai aprašius rašytiniams šaltiniams, jų praeičiai tirti reikėjo kastuvo mokslo.
+- susijęs iš [[objektai/zodynas/kunigas.md#claim-t-32787|kunigas]]: Wulfstanas pažymėjo socialinius skirtumus, nes aisčių kunigai ir turtingieji gėrė kumelių pieną.
+- susijęs iš [[objektai/zodynas/kunigas.md#claim-t-32788|kunigas]]: XII-XIII a. kunigų įrengtos pilys, anksčiau naudotos tarpusavio vaidams, ėmė tarnauti gynybai nuo išorinių priešų.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -114,12 +126,3 @@ Wulfstanas buvo pirmasis, kuris pats matė aprašomą kraštą. Apie « aisčių
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Aisčiai]]
-- [[objektai/grupes/Anglai]]
-- [[objektai/paprociai/Aisčių laidotuvių ir vėlinių apeigos]]
-- [[objektai/posakiai/at litus australe Slavi et Aisti et aliae diversae incolunt nationes]]
-- [[objektai/zodynas/kastuvo mokslas]]
-- [[objektai/zodynas/kunigas]]

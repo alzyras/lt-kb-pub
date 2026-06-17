@@ -3,10 +3,16 @@ tipas: paprotys
 pavadinimas: 'Religinė carinės valdžios prievarta prieš katalikų vienuolynus ir unitus'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1839 m.'
+date_start: '1839'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - paprotys
+amziai:
+  - 'XIX'
 ---
 # Religinė carinės valdžios prievarta prieš katalikų vienuolynus ir unitus
 
@@ -40,6 +46,9 @@ Nenurodyta
 - t-001
   global_id: t-54332
   teiginys: 'Carinė valdžia uždarė nemažai katalikų vienuolynų, o 1839 m. likvidavo Unitų bažnyčią ir prievarta grąžino unitus į Rusų stačiatikių bažnyčią.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_group: [[objektai/grupes/Unitai|Unitai]]'
+  temporaliniai_duomenys: 'įvykio data: 1839 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -47,6 +56,9 @@ Nenurodyta
 - t-002
   global_id: t-54333
   teiginys: 'Caro valdžia uždarė nemažai katalikų vienuolynų, 1839 m. likvidavo Unitų bažnyčią ir prievarta grąžino unitus į stačiatikybę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_group: [[objektai/grupes/Unitai|Unitai]]'
+  temporaliniai_duomenys: 'įvykio data: 1839 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -63,12 +75,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Rusai]]
-- [[objektai/grupes/Stačiatikiai]]
-- [[objektai/grupes/Unitai]]
-- [[objektai/grupes/Rusų stačiatikių bažnyčia]]
-- [[objektai/grupes/Unitų bažnyčia]]
-- [[objektai/grupes/Unitų bažnyčia unitai]]

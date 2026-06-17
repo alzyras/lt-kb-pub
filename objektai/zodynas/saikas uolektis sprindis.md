@@ -21,6 +21,8 @@ tags:
 - t-001
   global_id: t-86546
   teiginys: 'Prieglaudos sklypo plotis nuo bažnyčios sklypo į viršų buvo nurodytas kaip 20 sprindžių arba 7 uolektys.'
+  sudarymo_pagrindimas: 'Citata palaiko matavimo faktą, o pradinis teiginys nėra sklandi sakinys.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -45,9 +47,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Namas]]
-- [[objektai/asmenys/Petras Puzdravičius]]
-- [[objektai/asmenys/Povilas Piestavičius]]

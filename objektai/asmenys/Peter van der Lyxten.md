@@ -20,6 +20,8 @@ Peter van der Lyxten dabar grįžęs man pranešė, kad Švitrigaila yra laisvė
 - t-001
   global_id: t-87822
   teiginys: 'Peter van der Lyxten grįžęs iš Lietuvos pranešė, kad Švitrigaila yra laisvėje.'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo OCR fragmentas; citata palaiko glaustą faktą apie pranešimą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lietuva; mentioned_place: Liksna'
   pagrindžia:
     - c-001
 

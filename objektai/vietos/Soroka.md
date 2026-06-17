@@ -1,28 +1,18 @@
 ---
 tipas: vieta
 pavadinimas: 'Soroka'
-variantai:
-  - 'Sorokos'
-aliases: []
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
-sukurta: ''
-atnaujinta: ''
-laikotarpis: ''
 datos:
   - '1497 m.'
-periodas: ''
-periodo_grupes: []
-amziai:
-  - 'XV'
 date_start: '1497'
-date_end: '1497'
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: ''
+date_end: ''
+sukurta: ''
+atnaujinta: ''
 tags:
   - vieta
+amziai:
+  - 'XV'
 ---
 # Soroka
 
@@ -31,26 +21,30 @@ tags:
 Slaptame plane Aleksandro žygis turėjo eiti link Sorokos. Soroka šiame gabale yra karo krypties orientyras.
 
 ## Teiginiai
+
 <a id="claim-t-187336"></a>
 - t-001
   global_id: t-187336
-  teiginys: 'Slaptame plane Aleksandro žygis turėjo eiti link Sorokos.'
+  teiginys: 'Lietuvos metraštis pasakoja, kad Aleksandras Parčevo seime slapta sutarė žygiuoti į Moldavijos žemę per Braclavą link Sorokos.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Palikta metraščio atribucija, nes citata perteikia slaptą susitarimą ir valdovo veiksmų pasakojimą. Nepridėta teiginių apie vėlesnį žygio įvykdymą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_person: [[objektai/asmenys/Tame (Baigos brolis)|Tame (Baigos brolis)]]; mentioned_place: Braclavas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Moldavija; mentioned_place: Parčevas'
   pagrindžia:
     - c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  statusas: patvirtinta
+
 <a id="claim-t-187337"></a>
 - t-002
   global_id: t-187337
-  teiginys: 'Soroka šiame gabale yra karo krypties orientyras.'
+  teiginys: 'Soroka minima kaip didžiojo kunigaikščio Aleksandro planuoto žygio į Moldavijos žemę krypties orientyras.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pirminė formuluotė per šnekamoji; citata palaiko enciklopedinį sakinį.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_person: [[objektai/asmenys/Tame (Baigos brolis)|Tame (Baigos brolis)]]; mentioned_place: Lenkija; mentioned_place: Moldavija; mentioned_place: Parčevas'
   pagrindžia:
     - c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  statusas: patvirtinta
-
+- susijęs iš [[objektai/ivykiai/Aleksandro žygis Braclavo link Moldavijos kampanijoje.md#claim-t-186651|Aleksandro žygis Braclavo link Moldavijos kampanijoje]]: Lietuvos metraštis pasakoja, kad Parčevo seime Aleksandras ir Olbrachtas slapta sutarė pulti Moldaviją iš dviejų krypčių.
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Slaptame plane Aleksandro žygis turėjo eiti link Sorokos.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     Paskui abi šalys su visais
@@ -72,11 +66,9 @@ Slaptame plane Aleksandro žygis turėjo eiti link Sorokos. Soroka šiame gabale
     kad didysis kunigaikštis Aleksandras žygiuos j Molda­
     vijos žemę per Braclavą. link Sorokos “ , o karalius
     Olbrachtas — iš kito šono.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
     - t-002

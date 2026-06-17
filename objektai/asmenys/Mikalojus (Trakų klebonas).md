@@ -4,9 +4,9 @@ pavadinimas: 'Mikalojus (Trakų klebonas)'
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
-  - '1417 m.'
+  - '1408 m.'
   - '1421 m.'
-date_start: '1417'
+date_start: '1408'
 date_end: '1421'
 sukurta: ''
 atnaujinta: ''
@@ -31,6 +31,11 @@ Mikalojus (Trakų klebonas) buvo nepa­ geidaujamas Vytauto, Apaštališkajam So
 - t-001
   global_id: t-87917
   teiginys: 'Vytautas Apaštališkajam Sostui siūlė Trakų koleginės bažnyčios kleboną Mikalojų į Vilniaus vyskupus.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nurodo Mikalojaus vaidmenį ir yra paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Medininkai; mentioned_place: Trakai; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: iki 1414 m.; įvykio data: po 1408 m.; įvykio data: 1408 m.; įvykio data: 1414 m.; įvykio data: 1415 m.; įvykio data: 1421 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo Mikalojaus vaidmenį ir yra paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -57,7 +62,3 @@ Mikalojus (Trakų klebonas) buvo nepa­ geidaujamas Vytauto, Apaštališkajam So
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Antspaudas]]

@@ -36,6 +36,8 @@ Tai aštri diplomatinė priekaišto hiperbolė dėl neatsakytų pasiūlymų.
 - t-001
   global_id: t-55183
   teiginys: 'Gedimino laiške priekaištauta, kad į ankstesnius pasiuntinius, laiškus ir atvertą kraštą net nė šuo su padėka neatsiliepė.'
+  sudarymo_pagrindimas: 'Teiginys pagrįstas, bet perrašytas taip, kad tiesiogiai apimtų posakį.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]'
   pagrindžia:
     - c-001
 
@@ -50,6 +52,7 @@ Tai aštri diplomatinė priekaišto hiperbolė dėl neatsakytų pasiūlymų.
 - t-003
   global_id: t-82142
   teiginys: 'Posakis „net nė šuo iš jūsų pusės su padėka neatsiliepė“ pavartotas priekaištaujant, kad adresatai neatsakė į pasiūlymus.'
+  sudarymo_pagrindimas: 'Pradinis teiginys yra ilgas kreipinio fragmentas; citata leidžia suformuluoti aiškų sakinį apie posakio vartoseną.'
   pagrindžia:
     - c-002
 
@@ -97,7 +100,3 @@ Tai aštri diplomatinė priekaišto hiperbolė dėl neatsakytų pasiūlymų.
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Gediminas]]

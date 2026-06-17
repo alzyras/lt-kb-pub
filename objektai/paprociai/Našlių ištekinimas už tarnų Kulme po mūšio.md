@@ -43,6 +43,9 @@ Nenurodyta
 - t-001
   global_id: t-62696
   teiginys: 'Dvi moterys, eidamos į bažnyčią, aikštėje pamatė kauliukais žaidžiantį stiprų ir gražaus gymio tarną.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys ir tiksliai perteikia citatos epizodą.'
+  susije_objektai: 'mentioned_place: Viena'
   pagrindžia:
     - c-002
 
@@ -50,6 +53,9 @@ Nenurodyta
 - t-002
   global_id: t-62697
   teiginys: 'Po mūšio Kulmo vyskupas įpareigojo visas našles tekėti už savo tarnų, nes Kulmo mieste buvo išžudyti vyrai.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai paremtas abiem citatomis.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tame (Baigos brolis)|Tame (Baigos brolis)]]; mentioned_place: Kulmas; mentioned_place: Viena'
   pagrindžia:
     - c-001
     - c-003
@@ -104,9 +110,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Tame (Baigos brolis)]]
-- [[objektai/ivykiai/Kulmo vyskupo nurodymas našlėms tekėti už tarnų po mūšio|Kulmo vyskupo nurodymas našlėms tekėti už tarnų po mūšio (mūšis)]]
-- [[objektai/zodynas/nuodėmių atleidimas]]

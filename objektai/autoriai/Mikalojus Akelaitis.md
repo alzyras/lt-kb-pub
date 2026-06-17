@@ -8,10 +8,6 @@ datos:
   - '1859 m.'
 date_start: '1857'
 date_end: '1859'
-aliases:
-  - 'objektai/asmenys/Mikalojus Akelaitis'
-variantai:
-  - 'Mikalojus Akelaitis'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -34,6 +30,11 @@ periodo_grupes:
 - t-001
   global_id: t-169889
   teiginys: '1859 m. Mikalojus Akelaitis Juzefui Ignacui Kraševskiui rašė, kad tautos istorija turi būti kiekvieno piliečio lūpose.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai perteikia citatoje pateiktus Akelaičio žodžius.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/asmenys/Mikalojus Akelaitis|Mikalojus Akelaitis]]; mentioned_object: [[objektai/posakiai/„Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.“|„Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.“]]; mentioned_person: [[objektai/autoriai/Kraševskis|Kraševskis]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1859 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai perteikia citatoje pateiktus Akelaičio žodžius.'
   pagrindžia:
     - c-001
 
@@ -56,11 +57,3 @@ periodo_grupes:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/posakiai/Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga|Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.]]
-- [[objektai/paprociai/Tautos istorijos atminties saugojimas piliečių lūpose]]
-- [[objektai/posakiai/„Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.“]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]

@@ -38,6 +38,7 @@ Nenurodyta
 - t-001
   global_id: t-67244
   teiginys: 'Lenkai frontui pralaužti atsivežė specialias šturmovąsias grupes.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]'
   pagrindžia:
     - c-002
 
@@ -45,6 +46,7 @@ Nenurodyta
 - t-002
   global_id: t-67245
   teiginys: 'Durtuvų kautynės šioms grupėms tapo netikėta kliūtimi.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/durtuvų kautynės|durtuvų kautynės]]'
   pagrindžia:
     - c-001
 
@@ -78,10 +80,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Artilerija]]
-- [[objektai/grupes/Prancūzai]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/zodynas/durtuvų kautynės]]

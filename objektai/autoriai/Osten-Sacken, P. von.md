@@ -20,9 +20,11 @@ Osten-Sacken, P.
 - t-001
   global_id: t-30890
   teiginys: 'P. von Osten-Sackenas rašė apie Livonijos ir Rusios santykius Lietuvos didžiojo kunigaikščio Vytauto valdymo laikotarpiu.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/P. von|P. von]]; mentioned_place: Lietuva; mentioned_place: Livonija'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/autoriai/P. von.md#claim-t-30913|P. von]]: P. von Osten-Sackenas 1910 m. paskelbė darbą apie Livonijos ir Rusios santykius Vytauto valdymo laikotarpiu.
+- susijęs iš [[objektai/autoriai/Petkun’, P.md#claim-t-30924|Petkun’, P]]: P. Petkunas 1928 m. Kijeve paskelbė darbą apie Lietuvos Didžiosios Kunigaikštystės rytinę sieną XV a. ketvirtajame dešimtmetyje.
 ## Reikšmingi paminėjimai
 
 - c-001

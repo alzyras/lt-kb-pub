@@ -28,6 +28,11 @@ amziai:
 - t-001
   global_id: t-77796
   teiginys: '1997 m. spalį Lietuva ir Rusija pasirašė sutartį dėl valstybinės sienos bei išskirtinės ekonominės zonos ir žemyninio šelfo Baltijos jūroje atskyrimo.'
+  sudarymo_pagrindimas: 'Pašalintas puslapio antraštės triukšmas ir sutvarkytas nutrūkęs žodis.'
+  susije_objektai: 'mentioned_place: Baltija; mentioned_place: Lietuva; mentioned_place: Rusija'
+  temporaliniai_duomenys: 'įvykio data: 1997 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas puslapio antraštės triukšmas ir sutvarkytas nutrūkęs žodis.'
   pagrindžia:
     - c-001
 

@@ -23,6 +23,8 @@ Vien tik Vytauto privilegi­ jos Rygos, vokiečių ir rusų pirkliams, liudijan�
 - t-001
   global_id: t-86822
   teiginys: 'Vytauto privilegijos Rygos, vokiečių ir rusų pirkliams liudijo jo globą prekybai Vilniuje ir visoje šalyje.'
+  sudarymo_pagrindimas: 'Pirminis teiginys nutrūkęs, bet citata aiškiai remia glaustą sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -49,11 +51,3 @@ Vien tik Vytauto privilegi­ jos Rygos, vokiečių ir rusų pirkliams, liudijan�
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Rusai]]
-- [[objektai/asmenys/Skirgaila]]
-- [[objektai/asmenys/Vladislovas]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/paprociai/Vytauto prekybos globa ir pirklių privilegijos Vilniuje]]

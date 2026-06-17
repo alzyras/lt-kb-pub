@@ -11,8 +11,6 @@ datos:
   - '1347 m.'
   - '1348 m.'
   - '1350 m.'
-  - '1351 m.'
-  - '1878 m.'
   - '1939 m.'
 date_start: '1319'
 date_end: '1939'
@@ -39,6 +37,11 @@ Dusburgietis teigia, kad ordino pilis statyta 1319 m., prie jos miestas įkurtas
 - t-001
   global_id: t-61018
   teiginys: 'L. Weberio „Preussen vor 500 Jahren“ išleistas Dancige 1878 m.'
+  sudarymo_pagrindimas: 'Citata patvirtina autorių, pavadinimą, leidimo vietą ir metus.'
+  susije_objektai: 'mentioned_place: Dancigas'
+  temporaliniai_duomenys: 'įvykio data: 1878 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata patvirtina autorių, pavadinimą, leidimo vietą ir metus.'
   pagrindžia:
     - c-002
 
@@ -46,6 +49,11 @@ Dusburgietis teigia, kad ordino pilis statyta 1319 m., prie jos miestas įkurtas
 - t-002
   global_id: t-61019
   teiginys: 'Weberio veikalas nurodomas tarp šaltinių, kuriais grindžiama, kad Gilgenburgo Ordino pilis statyta 1319 m., o miestas prie jos įkurtas 1326 m.'
+  sudarymo_pagrindimas: 'Citata palaiko bibliografinę atramą, o pirminis sakinys klaidingai priskyrė teiginį Dusburgiečiui.'
+  susije_objektai: 'mentioned_place: Gilgenburgas'
+  temporaliniai_duomenys: 'įvykio data: 1319 m.; įvykio data: 1326 m.; įvykio data: 1340 m.; įvykio data: 1350 m.; įvykio data: 1351 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko bibliografinę atramą, o pirminis sakinys klaidingai priskyrė teiginį Dusburgiečiui.'
   pagrindžia:
     - c-001
 

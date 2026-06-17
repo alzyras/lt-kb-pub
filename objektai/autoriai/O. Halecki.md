@@ -9,10 +9,10 @@ date_start: ''
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-amziai: []
-periodo_grupes: []
 tags:
   - autorius
+amziai: []
+periodo_grupes: []
 ---
 # O. Halecki
 
@@ -32,10 +32,16 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
 - From, the Union with Hungary to the Union with Lithuania : Jadwiga, 1374-99
 
 ## Teiginiai
+
 <a id="claim-t-179557"></a>
 - t-001
   global_id: t-179557
   teiginys: 'O. Haleckio 1958 m. darbe „From Florence to Brest“ išsamiai įvertintas Vytauto vaidmuo.'
+  sudarymo_pagrindimas: 'Teiginys remiasi citatoje nurodytu darbu, metais ir Vytauto vaidmens įvertinimu.'
+  susije_objektai: 'mentioned_place: Roma'
+  temporaliniai_duomenys: 'įvykio data: 1958 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys remiasi citatoje nurodytu darbu, metais ir Vytauto vaidmens įvertinimu.'
   pagrindžia:
     - c-004
 
@@ -43,6 +49,9 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
 - t-002
   global_id: t-179558
   teiginys: 'O. Halecki manė, kad Hohencolerno kandidatūra Lenkijoje Vytautui buvo neparanki.'
+  susije_objektai: 'mentioned_place: Lenkija'
+  temporaliniai_duomenys: 'įvykio data: 1421 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-003
 
@@ -50,6 +59,8 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
 - t-003
   global_id: t-179559
   teiginys: 'O. Halecki teigė, kad lenkai kantriai laukė Kamienieco Podolijos, nes ji buvo atiduota tik iki Vytauto gyvos galvos.'
+  sudarymo_pagrindimas: 'Teiginys perrašytas be laužytų žodžių ir su aiškiu veikėju.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-008
 
@@ -57,6 +68,7 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
 - t-004
   global_id: t-179560
   teiginys: 'O. Halecki gausiais raštais paliko pėdsaką Lietuvos istorijos tyrimuose ir emigracijoje skyrė dėmesio Lietuvai.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-009
 
@@ -64,6 +76,8 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
 - t-005
   global_id: t-179561
   teiginys: 'O. Halecki manė, kad Vytauto ketinimas atiduoti Palangą kryžiuočiams būtų atkirtęs Lietuvą nuo jūros.'
+  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir palikta citatos paremta esmė.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Palanga'
   pagrindžia:
     - c-005
 
@@ -71,6 +85,9 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
 - t-006
   global_id: t-179562
   teiginys: 'O. Halecki 1919–1920 m. Krokuvoje išleido dviejų tomų veikalą „Dzieje Unii Jagiellońskiej“.'
+  susije_objektai: 'mentioned_place: Krokuva'
+  temporaliniai_duomenys: 'įvykio data: 1919-1920; įvykio data: 1920 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
     - c-006
@@ -79,6 +96,11 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
 - t-007
   global_id: t-179563
   teiginys: 'O. Halecki 1930 m. paskelbė darbą „Witold“.'
+  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia bibliografinę citatos informaciją.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Lengvenis|Lengvenis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  temporaliniai_duomenys: 'įvykio data: 1930 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia bibliografinę citatos informaciją.'
   pagrindžia:
     - c-007
 
@@ -93,10 +115,13 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
 - t-009
   global_id: t-179565
   teiginys: 'O. Haleckis gausiais raštais paliko plačių pėdsakų Lietuvos istorijos srityje.'
+  sudarymo_pagrindimas: 'Citata palaiko bendrą teiginį apie Haleckio raštų reikšmę Lietuvos istorijai.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-009
 
 ## Reikšmingi paminėjimai
+
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -108,6 +133,7 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
   statusas: verified
   pagrindžia:
     - t-008
+
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -121,6 +147,7 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
   statusas: verified
   pagrindžia:
     - t-006
+
 - c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -136,6 +163,7 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
   statusas: verified
   pagrindžia:
     - t-002
+
 - c-004
   santrauka: 'O. Haleckio 1958 m. darbe „From Florence to Brest“ išsamiai įvertintas Vytauto vaidmuo.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -151,6 +179,7 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
   statusas: verified
   pagrindžia:
     - t-001
+
 - c-005
   santrauka: 'O. Halecki manė, kad Vytauto ketinimas atiduoti Palangą kryžiuočiams būtų atkirtęs Lietuvą nuo jūros.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -171,6 +200,7 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
   statusas: verified
   pagrindžia:
     - t-005
+
 - c-006
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -183,6 +213,7 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
   statusas: verified
   pagrindžia:
     - t-006
+
 - c-007
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -197,6 +228,7 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
   statusas: verified
   pagrindžia:
     - t-007
+
 - c-008
   santrauka: 'O. Halecki teigė, kad lenkai kantriai laukė Kamienieco Podolijos, nes ji buvo atiduota tik iki Vytauto gyvos galvos.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -213,6 +245,7 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
   statusas: verified
   pagrindžia:
     - t-003
+
 - c-009
   santrauka: 'O. Haleckis gausiais raštais paliko plačių pėdsakų Lietuvos istorijos srityje.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -231,12 +264,3 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
   pagrindžia:
     - t-009
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Karūna]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/zodynas/unija]]
-- [[objektai/posakiai/prieš vėją nepapūs]]

@@ -26,6 +26,11 @@ Dusburgietis teigia, kad crome H.
 - t-001
   global_id: t-61062
   teiginys: 'H. Crome veikalas apie ankstyvuosius Sembos piliakalnius paskelbtas 1940 m. leidinio „Prussia“ 34 tome.'
+  sudarymo_pagrindimas: 'Citata pateikia autorių, temą, leidinį, tomą ir metus.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Semba'
+  temporaliniai_duomenys: 'įvykio data: 1940 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pateikia autorių, temą, leidinį, tomą ir metus.'
   pagrindžia:
     - c-001
 

@@ -20,9 +20,11 @@ Nors Pauli savo Prūsijos valsty­ bės istorijoje, T.
 - t-001
   global_id: t-88078
   teiginys: 'Pauli savo „Prūsijos valstybės istorijos“ IV tome pateikė vertinimą, kurio Balinskis nelaikė patikimu.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūksta, bet citata leidžia suformuluoti faktą apie Pauli veikalo vertinimą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/paprociai/Popiežiaus kurijos ginčo svarstymas, sprendimo paskelbimas ir iškilminga priesaika vykdyti nurodymus.md#claim-t-87180|Popiežiaus kurijos ginčo svarstymas, sprendimo paskelbimas ir iškilminga priesaika vykdyti nurodymus]]: Popiežius su kardinolais viešoje konsistorijoje svarstė Rygos arkivyskupo ginčą su Livonijos ordinu ir paskelbė sprendimą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -41,7 +43,3 @@ Nors Pauli savo Prūsijos valsty­ bės istorijoje, T.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/paprociai/Popiežiaus kurijos ginčo svarstymas, sprendimo paskelbimas ir iškilminga priesaika vykdyti nurodymus]]

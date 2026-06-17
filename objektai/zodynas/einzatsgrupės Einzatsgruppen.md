@@ -3,16 +3,23 @@ tipas: zodyno_irasas
 pavadinimas: 'einzatsgrupės Einzatsgruppen'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1940 m.'
+  - '1941 m.'
+date_start: '1940'
+date_end: '1941'
 sukurta: ''
 atnaujinta: ''
 tags:
   - sąvoka
+amziai:
+  - 'XX'
 ---
 # einzatsgrupės Einzatsgruppen
 
 ## Santrauka
 
-Pirmą nacių okupacijos savaitę SD einzatsgrupės pradėjo „valymo operacijas“, per kurias sunaikinti keli tūkstančiai žmonių. Einzatsgrupės terorą organizavo taip, kad pirmieji pogromai ir „apsivalymo“ akcijos atrodytų vykdomi vietinių gyventojų. Pirmą nacių okupacijos savaitę atvykusios SD Einzatsgruppen pradėjo „valymo operacijas“, per kurias sunaikinti keli tūkstančiai žmonių.
+Pirmą nacių okupacijos savaitę daug gyventojų, tarp jų ir žydai persekioti kaip komunistai, sovietų aktyvistai, ir keli tūkstančiai jų sunaikinti per vadinamąsias „valymo operacijas“, kurias pradėjo atvykusios SD Einzatsgruppen – operatyviniai būriai. Einzatsgrupės terorą organizavo taip, kad atrodytų, jog pirmuosius pogromus ir „apsivalymo“ akcijas vykdo vietiniai gyventojai.
 
 ## Teiginiai
 
@@ -20,6 +27,11 @@ Pirmą nacių okupacijos savaitę SD einzatsgrupės pradėjo „valymo operacija
 - t-001
   global_id: t-22130
   teiginys: 'Pirmą nacių okupacijos savaitę SD einzatsgrupės pradėjo „valymo operacijas“, per kurias sunaikinti keli tūkstančiai žmonių.'
+  sudarymo_pagrindimas: 'Pataisyta gramatika ir pašalintas OCR triukšmas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/V. Krėvė-Mickevičius|V. Krėvė-Mickevičius]]; mentioned_place: Lietuva; mentioned_place: Maskva'
+  temporaliniai_duomenys: 'įvykio data: 1940 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pataisyta gramatika ir pašalintas OCR triukšmas.'
   pagrindžia:
     - c-001
 
@@ -27,6 +39,11 @@ Pirmą nacių okupacijos savaitę SD einzatsgrupės pradėjo „valymo operacija
 - t-002
   global_id: t-22131
   teiginys: 'Einzatsgrupės terorą organizavo taip, kad pirmieji pogromai ir „apsivalymo“ akcijos atrodytų vykdomi vietinių gyventojų.'
+  sudarymo_pagrindimas: 'Reikia aiškiai susieti teiginį su einzatsgrupėmis ir pašalinti fragmentiškumą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/akcijos|akcijos]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Gargždai; mentioned_place: Kaunas; mentioned_place: Kretinga; mentioned_place: Lietuva; mentioned_place: Palanga; mentioned_place: Vokietija'
+  temporaliniai_duomenys: 'įvykio data: 1941 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia aiškiai susieti teiginį su einzatsgrupėmis ir pašalinti fragmentiškumą.'
   pagrindžia:
     - c-002
 
@@ -34,6 +51,11 @@ Pirmą nacių okupacijos savaitę SD einzatsgrupės pradėjo „valymo operacija
 - t-003
   global_id: t-183419
   teiginys: 'Pirmą nacių okupacijos savaitę atvykusios SD Einzatsgruppen pradėjo „valymo operacijas“, per kurias sunaikinti keli tūkstančiai žmonių.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Reikia išlaikyti šaltinyje vartojamą pavadinimą ir pašalinti netikslų sulietuvinimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]'
   pagrindžia:
     - c-003
 
@@ -103,14 +125,3 @@ Pirmą nacių okupacijos savaitę SD einzatsgrupės pradėjo „valymo operacija
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/V. Krėvė-Mickevičius]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Žydai]]
-- [[objektai/zodynas/akcijos]]
-- [[objektai/ivykiai/Lietuvos žydų sunaikinimas - Holokaustas]]
-- [[objektai/ivykiai/Vilijampolės ir „Lietūkio“ garažo pogromai (1941 m. birželio 26-27 d.)]]
-- [[objektai/zodynas/valymo operacijos]]

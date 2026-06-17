@@ -23,6 +23,8 @@ Dusburgietis teigia, kad kad Ordino užduotis — kariauti, ypač Prūsijoje bei
 - t-001
   global_id: t-67297
   teiginys: 'Dusburgiečio karo sampratoje pabrėžiama religinė kovos esmė: „juk čia ne jūsų, bet dievo kova“.'
+  sudarymo_pagrindimas: 'Teiginys taisytinas dėl boilerplate pradžios ir išnašos triukšmo, bet citata pagrindžia autoriaus religinę interpretaciją.'
+  susije_objektai: 'mentioned_place: Prūsai; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
 
@@ -42,11 +44,3 @@ Dusburgietis teigia, kad kad Ordino užduotis — kariauti, ypač Prūsijoje bei
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/transportas]]
-
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/paprociai/Ordino karo religinio įprasminimo praktika]]

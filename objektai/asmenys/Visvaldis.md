@@ -23,7 +23,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Visvaldis buvo nugalėtas Rygos vyskupo Alberto. Visvaldis buvo nugalėtas Rygos vyskupo Alberto.
+Nes Lietuviai Vilnius 0 Jotvingiai aw MI Visvaldis buvo nugalėtas NY Rygos vyskupo Alberto.
 
 ## Teiginiai
 
@@ -31,9 +31,15 @@ Visvaldis buvo nugalėtas Rygos vyskupo Alberto. Visvaldis buvo nugalėtas Rygos
 - t-001
   global_id: t-79219
   teiginys: 'Visvaldis buvo nugalėtas Rygos vyskupo Alberto.'
+  sudarymo_pagrindimas: 'Pradinis teiginys turėjo žemėlapio ir OCR triukšmo.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Jotvingiai|Jotvingiai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Saulė|Saulė]]; mentioned_group: [[objektai/grupes/Sėliai|Sėliai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_group: [[objektai/grupes/Žiemgaliai|Žiemgaliai]]; mentioned_person: [[objektai/asmenys/Albertas (Rygos vyskupas)|Albertas (Rygos vyskupas)]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Dauguva; mentioned_place: Europa; mentioned_place: Kulmas; mentioned_place: Mozūrija; mentioned_place: Ryga; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1226-1228; įvykio data: 1228 m.; įvykio data: 1236 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys turėjo žemėlapio ir OCR triukšmo.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Albertas (Rygos vyskupas).md#claim-t-09984|Albertas (Rygos vyskupas)]]: Rygos vyskupas Albertas nugalėjo Visvaldį.
+- susijęs iš [[objektai/asmenys/Albertas.md#claim-t-78932|Albertas]]: Rygos vyskupas Albertas nugalėjo Jersikos karalių Visvaldį.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -66,13 +72,3 @@ Visvaldis buvo nugalėtas Rygos vyskupo Alberto. Visvaldis buvo nugalėtas Rygos
   pagrindžia:
     - t-001
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Jotvingiai]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Saulė]]
-- [[objektai/grupes/Sėliai]]
-- [[objektai/grupes/Teutonai]]
-- [[objektai/grupes/Žiemgaliai]]

@@ -3,11 +3,19 @@ tipas: saltinis
 pavadinimas: 'Stanislovo Augusto Poniatovskio abdikacijos aktas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1797 m.'
+  - '1815 m.'
+date_start: '1797'
+date_end: '1815'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
   - valstybė
+amziai:
+  - 'XVIII'
+  - 'XIX'
 ---
 # Stanislovo Augusto Poniatovskio abdikacijos aktas
 
@@ -21,6 +29,11 @@ Prie konvencijos buvo pridėtas Stanislovo Augusto Poniatovskio abdikacijos (sos
 - t-001
   global_id: t-21267
   teiginys: 'Stanislovo Augusto Poniatovskio abdikacijos aktas buvo pridėtas prie 1797 m. sausio 26 d. Peterburgo konvencijos.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai pagrįstas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/abdikacija|abdikacija]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Austrija; mentioned_place: Lenkija; mentioned_place: Peterburgas; mentioned_place: Prūsija'
+  temporaliniai_duomenys: 'įvykio data: 1797 m.; įvykio data: 1815 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir tiesiogiai pagrįstas citata.'
   pagrindžia:
     - c-001
 

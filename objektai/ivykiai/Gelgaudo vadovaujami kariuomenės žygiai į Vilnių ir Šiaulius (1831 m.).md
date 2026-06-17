@@ -88,11 +88,3 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Dembinskio rinktinė]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/daiktai/Ginklai]]
-- [[objektai/grupes/Rohlando būrys]]

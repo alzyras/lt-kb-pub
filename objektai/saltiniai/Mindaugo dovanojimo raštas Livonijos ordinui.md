@@ -24,6 +24,11 @@ Livonijos magistras reikalavo, kad Lietuvos valdovas priimtų krikščionybę ir
 - t-001
   global_id: t-186318
   teiginys: 'Livonijos magistras reikalavo, kad Lietuvos valdovas priimtų krikščionybę ir perleistų teises į žemes riterių ordinui.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata remia reikalavimą, bet pradinis teiginys turi neaiškų įvardį ir perteklinę autorinę įžangą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Lietuva; mentioned_place: Livonija'
   pagrindžia:
     - c-001
 
@@ -31,6 +36,14 @@ Livonijos magistras reikalavo, kad Lietuvos valdovas priimtų krikščionybę ir
 - t-002
   global_id: t-186319
   teiginys: '1252 m. Mindaugas pasiuntinybės akivaizdoje priėmė krikščionybę ir raštu pripažino amžiams dovanojęs Jotvingijos, Žemaitijos, Kuršo ir Veizių kraštus.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nusako Mindaugo veiksmus ir remiasi citata.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Kuršas'
+  temporaliniai_duomenys: 'įvykio data: 1252 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako Mindaugo veiksmus ir remiasi citata.'
   pagrindžia:
     - c-002
 

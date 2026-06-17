@@ -14,7 +14,7 @@ tags:
 
 ## Santrauka
 
-Lenkų organinis nacionalizmas etniniams lietuviams numatė etninės kultūrinės mažumos statusą Lenkijos valstybėje arba autonominėje Lenkijoje. Lenkų tautinių demokratų lyderis Romanas Dmovskis vadovavosi lenkų organinio nacionalizmo doktrina.
+Labiausiai savo veiklą čia buvo išplėtoję lenkų tautiniai demokratai, kurių lyderis visų lenkų žemių mastu Romanas Dmovskis (Roman Dmowski) vadovavosi lenkų organinio nacionalizmo doktrina.
 
 ## Teiginiai
 
@@ -22,6 +22,8 @@ Lenkų organinis nacionalizmas etniniams lietuviams numatė etninės kultūrinė
 - t-001
   global_id: t-22235
   teiginys: 'Lenkų organinis nacionalizmas etniniams lietuviams numatė etninės kultūrinės mažumos statusą Lenkijos valstybėje arba autonominėje Lenkijoje.'
+  sudarymo_pagrindimas: 'Teiginys susietas su pastabos objektu ir paremtas citatos informacija.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_person: [[objektai/asmenys/Romanas (Briansko kunigaikštis)|Romanas (Briansko kunigaikštis)]]; mentioned_person: [[objektai/asmenys/Romanas Dmovskis|Romanas Dmovskis]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Rusija'
   pagrindžia:
     - c-001
 
@@ -29,6 +31,11 @@ Lenkų organinis nacionalizmas etniniams lietuviams numatė etninės kultūrinė
 - t-002
   global_id: t-183449
   teiginys: 'Lenkų tautinių demokratų lyderis Romanas Dmovskis vadovavosi lenkų organinio nacionalizmo doktrina.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Sakinys sutrumpintas ir aiškiau susietas su sąvoka.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_person: [[objektai/asmenys/Romanas (Briansko kunigaikštis)|Romanas (Briansko kunigaikštis)]]; mentioned_person: [[objektai/asmenys/Romanas Dmovskis|Romanas Dmovskis]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Rusija'
   pagrindžia:
     - c-001
 
@@ -52,12 +59,3 @@ Lenkų organinis nacionalizmas etniniams lietuviams numatė etninės kultūrinė
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/asmenys/Romanas (Briansko kunigaikštis)]]
-- [[objektai/asmenys/Romanas Dmovskis]]
-- [[objektai/zodynas/Miera|miera]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/tautinė mažuma etninė kultūrinė mažuma]]

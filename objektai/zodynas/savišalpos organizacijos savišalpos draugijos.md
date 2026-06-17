@@ -69,7 +69,3 @@ Jungtinėse Amerikos Valstijose smulkios lietuvių draugijos dažniausiai rėmė
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]

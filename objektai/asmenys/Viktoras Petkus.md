@@ -3,16 +3,24 @@ tipas: asmuo
 pavadinimas: 'Viktoras Petkus'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1976 m.'
+date_start: '1976'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'XX a.'
 ---
 # Viktoras Petkus
 
 ## Santrauka
 
-Buvęs politinis kalinys Viktoras Petkus priklausė 1976 m. rudenį Vilniuje įsikūrusiai Helsinkio grupei. Sovietinė valdžia suėmė ir nuteisė Viktorą Petkų kaip vieną iš disidentų. Sovietinė valdžia suimdavo ir nuteisdavo kai kuriuos disidentus, tarp jų Balį Gajauską ir Viktorą Petkų.
+Grupei priklausė kun. Karolis Garuckas, fizikas Eitanas Finkelšteinas, poetė, buvusi kalinė Ona Lukauskaitė-Poškienė, poetas Tomas Venclova ir buvęs politinis kalinys Viktoras Petkus, palaikę ryšius su Maskvos, kitų SSRS regionų ir žmogaus teisių gynimo. Sovietinė valdžia represijas prieš disidentus derino su dalinių nuolaidų kitaminčiams taktika, vengdama imtis drastiškų priemonių, žinomus disidentus išsiųsdavo iš Sovietų Sąjungos, o kitus suimdavo ir nuteisdavo (pavyzdžiui, teisti Balys Gajauskas, Viktoras.
 
 ## Teiginiai
 
@@ -20,6 +28,11 @@ Buvęs politinis kalinys Viktoras Petkus priklausė 1976 m. rudenį Vilniuje įs
 - t-001
   global_id: t-19313
   teiginys: 'Buvęs politinis kalinys Viktoras Petkus priklausė 1976 m. rudenį Vilniuje įsikūrusiai Helsinkio grupei.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Viktorą Petkų.'
+  susije_objektai: 'owner: [[objektai/asmenys/Karolis|Karolis]]; owner: Maskva; owner: [[objektai/grupes/Maskvos Helsinkio grupė|Maskvos Helsinkio grupė]]; owner: SSRS; owner: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; owner: [[objektai/asmenys/Tomas Venclova|Tomas Venclova]]; owner: Vilnius; mentioned_group: [[objektai/grupes/Maskvos Helsinkio grupė|Maskvos Helsinkio grupė]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Jurijus|Jurijus]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Tomas Venclova|Tomas Venclova]]; mentioned_place: Maskva; mentioned_place: SSRS; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'priklausymo laikotarpis: 1976 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Jurijus susiję su Karolis“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jurijus susiję su Tomas (Hertvigo iš Pokarvių sūnus)“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jurijus susiję su Tomas Venclova“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jurijus susiję su Maskvos Helsinkio grupė“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jurijus susiję su Maskva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jurijus susiję su SSRS“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jurijus susiję su Vilnius“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie Viktorą Petkų.'
   pagrindžia:
     - c-001
 
@@ -27,6 +40,8 @@ Buvęs politinis kalinys Viktoras Petkus priklausė 1976 m. rudenį Vilniuje įs
 - t-002
   global_id: t-19314
   teiginys: 'Sovietinė valdžia suėmė ir nuteisė Viktorą Petkų kaip vieną iš disidentų.'
+  sudarymo_pagrindimas: 'Citata Petkų pateikia kaip teistų disidentų pavyzdį, todėl formuluotė tikslinama.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos Helsinkio grupė|Lietuvos Helsinkio grupė]]; mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-002
 
@@ -34,9 +49,16 @@ Buvęs politinis kalinys Viktoras Petkus priklausė 1976 m. rudenį Vilniuje įs
 - t-003
   global_id: t-183574
   teiginys: 'Sovietinė valdžia suimdavo ir nuteisdavo kai kuriuos disidentus, tarp jų Balį Gajauską ir Viktorą Petkų.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, bet citata pagrindžia konkretų faktą apie Viktorą Petkų.'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-003
-
+- susijęs iš [[objektai/grupes/Lietuvos Helsinkio grupė.md#claim-t-74674|Lietuvos Helsinkio grupė]]: Lietuvos Helsinkio grupei priklausė Karolis Garuckas, Eitanas Finkelšteinas, Ona Lukauskaitė-Poškienė, Tomas Venclova ir Viktoras Petkus.
+- susijęs iš [[objektai/asmenys/Balys Gajauskas.md#claim-t-18846|Balys Gajauskas]]: Sovietinė valdžia Balį Gajauską teisė kaip vieną iš disidentų, prieš kuriuos taikė represijas.
+- susijęs iš [[objektai/grupes/Lietuvos Helsinkio grupė.md#claim-t-74674|Lietuvos Helsinkio grupė]]: Lietuvos Helsinkio grupei priklausė Karolis Garuckas, Eitanas Finkelšteinas, Ona Lukauskaitė-Poškienė, Tomas Venclova ir Viktoras Petkus.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -93,9 +115,4 @@ Buvęs politinis kalinys Viktoras Petkus priklausė 1976 m. rudenį Vilniuje įs
     - t-003
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuvos Helsinkio grupė]]
-- [[objektai/grupes/Maskvos Helsinkio grupė]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/asmenys/Balys Gajauskas]]
-- [[objektai/grupes/Lietuvos disidentai]]
+- [[objektai/grupes/Lietuvos Helsinkio grupė]] priklause Viktoras Petkus

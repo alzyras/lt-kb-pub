@@ -29,6 +29,11 @@ amziai:
 - t-001
   global_id: t-77807
   teiginys: 'Į Valstybinį žemės fondą buvo paimta valstybinė žemė, kai kurių dvarų ir virš 80 ha turėjusių privačių ar bažnytinių savininkų žemė.'
+  sudarymo_pagrindimas: 'Pradinis teiginys labiau apie įstatymo priėmimą, o ne apie Valstybinį žemės fondą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bermontininkai|Bermontininkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Steigiamasis seimas|Steigiamasis seimas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Estija; mentioned_place: Kaimas; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1922 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys labiau apie įstatymo priėmimą, o ne apie Valstybinį žemės fondą.'
   pagrindžia:
     - c-001
 
@@ -57,11 +62,3 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bermontininkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Steigiamasis seimas]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/seimas]]

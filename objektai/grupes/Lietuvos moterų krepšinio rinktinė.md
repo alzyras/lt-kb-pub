@@ -4,21 +4,24 @@ pavadinimas: 'Lietuvos moterų krepšinio rinktinė'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
+  - '1995 m.'
   - '1997 m.'
-date_start: '1997'
-date_end: ''
+  - '2003 m.'
+date_start: '1995'
+date_end: '2003'
 sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
 amziai:
   - 'XX'
+  - 'XXI'
 ---
 # Lietuvos moterų krepšinio rinktinė
 
 ## Santrauka
 
-Lietuvos moterų krepšinio rinktinė 1997 m. tapo Europos čempione. Lietuvos moterų krepšinio rinktinė 1997 m. tapo Europos čempione.
+Moterų krepšinio rinktinė 1997 m. tapo Europos čempione.
 
 ## Teiginiai
 
@@ -26,6 +29,11 @@ Lietuvos moterų krepšinio rinktinė 1997 m. tapo Europos čempione. Lietuvos m
 - t-001
   global_id: t-74757
   teiginys: 'Lietuvos moterų krepšinio rinktinė 1997 m. tapo Europos čempione.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nurodo rinktinės pasiektą rezultatą ir metus.'
+  susije_objektai: 'mentioned_place: Europa; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1995 m.; įvykio data: 1997 m.; įvykio data: 2003 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo rinktinės pasiektą rezultatą ir metus.'
   pagrindžia:
     - c-001
 
@@ -44,7 +52,3 @@ Lietuvos moterų krepšinio rinktinė 1997 m. tapo Europos čempione. Lietuvos m
   pagrindžia:
     - t-001
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/Lietuvos krepšinio rinktinių Europos čempionatų laimėjimai (1995, 1997 ir 2003 m.)]]

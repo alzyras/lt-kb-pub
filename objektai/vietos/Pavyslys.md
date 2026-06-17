@@ -15,31 +15,29 @@ tags:
 
 ## Santrauka
 
-Ordinas išvežė žymesniųjų Žemaičių bajorų vaikus į Pavyslį kaip įkaitus.
+Žymesniųjų bajorų vaikai buvo net išvežti į Pavyslį, kaip įkaitai. Vokiečių, arba kryžiuočių, ordinas buvo atkviestas apie 1226 m. į Pavyslį kovoti su aisčiais.
 
 ## Teiginiai
+
 <a id="claim-t-68911"></a>
 - t-001
   global_id: t-68911
   teiginys: 'Ordinas išvežė žymesniųjų Žemaičių bajorų vaikus į Pavyslį kaip įkaitus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/įkaitai|įkaitai]]'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Ordinas išvežė žymesniųjų Žemaičių bajorų vaikus į Pavyslį kaip įkaitus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Ordi-
     nas tuo tarpu Žemaičiuose statėsi pilis ir ėmėsi visokių priemonių
     prieš galimą sukilimą. Žymesniųjų bajorų vaikai buvo net iš-
     vežti į Pavyslį, kaip įkaitai. Ordino valdžia buvo labai žiauri.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

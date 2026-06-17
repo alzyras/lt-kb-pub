@@ -28,6 +28,11 @@ amziai:
 - t-001
   global_id: t-80616
   teiginys: '1580 m. buvo paimtos Veližo, Didžiųjų Lukų, Usviatų ir Jezeriščės tvirtovės.'
+  sudarymo_pagrindimas: 'Pradinis teiginys neturėjo aiškaus subjekto; perrašyta kaip savarankiškas faktinis sakinys.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Rusija; mentioned_place: Usviatai'
+  temporaliniai_duomenys: 'įvykio data: 1580 m.; įvykio data: 1581 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys neturėjo aiškaus subjekto; perrašyta kaip savarankiškas faktinis sakinys.'
   pagrindžia:
     - c-001
 
@@ -35,9 +40,14 @@ amziai:
 - t-002
   global_id: t-184964
   teiginys: 'Zebžidovskis pro Polocką atžygiavo į Jezeriščę, o paskui patraukė į Nevelį.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata palaiko trumpą maršruto faktą, bet pradinis teiginys turi OCR klaidų.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_place: Polockas'
   pagrindžia:
     - c-002
-
+- susijęs iš Usviatai: 1580 m. Kristupas Radvila dalyvavo paimant Usviatų tvirtovę.
 ## Reikšmingi paminėjimai
 
 - c-001

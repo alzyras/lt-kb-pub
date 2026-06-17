@@ -19,7 +19,7 @@ amziai:
 
 ## Santrauka
 
-Pilaitė po Glebavičių tapo jėzuitų nuosavybe, o vėliau atiteko Vilniaus universitetui. Pilaitė prie Vilniaus kadaise buvo jėzuitų nuosavybė, o vėliau atiteko Vilniaus universitetui. Lietuvos jėzuitų kolegijos ir Vilniaus akademija prisidėjo prie lotynų kalbos plitimo tarp Lietuvos kilmingųjų.
+Kai per Lietuvos jėzuitų kolegijas ir Vilniaus Akademiją lotynų kalba vis daugiau praplito Lietuvos kilmingųjų sluoksniuose, Koja­ lavičius parašė savo Historiae Lituanae.
 
 ## Teiginiai
 
@@ -27,6 +27,8 @@ Pilaitė po Glebavičių tapo jėzuitų nuosavybe, o vėliau atiteko Vilniaus un
 - t-001
   global_id: t-81463
   teiginys: 'Pilaitė po Glebavičių tapo jėzuitų nuosavybe, o vėliau atiteko Vilniaus universitetui.'
+  sudarymo_pagrindimas: 'Citata palaiko aiškesnę paveldėjimo seką ir ryšį su jėzuitais.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Pilaitė; mentioned_place: Sudervėlė; mentioned_place: Vilija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -34,6 +36,8 @@ Pilaitė po Glebavičių tapo jėzuitų nuosavybe, o vėliau atiteko Vilniaus un
 - t-002
   global_id: t-81464
   teiginys: 'Pilaitė prie Vilniaus kadaise buvo jėzuitų nuosavybė, o vėliau atiteko Vilniaus universitetui.'
+  sudarymo_pagrindimas: 'Citata mini jėzuitų valdytą Pilaitę, bet ne Lietuvos jėzuitų kolegijas kaip platesnį objektą; paliktas tik palaikomas faktas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva; mentioned_place: Pilaitė; mentioned_place: Vilija; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 
@@ -41,6 +45,9 @@ Pilaitė po Glebavičių tapo jėzuitų nuosavybe, o vėliau atiteko Vilniaus un
 - t-003
   global_id: t-81465
   teiginys: 'Lietuvos jėzuitų kolegijos ir Vilniaus akademija prisidėjo prie lotynų kalbos plitimo tarp Lietuvos kilmingųjų.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_group: [[objektai/grupes/Vilniaus Akademija|Vilniaus Akademija]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1766 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 
@@ -112,16 +119,3 @@ Pilaitė po Glebavičių tapo jėzuitų nuosavybe, o vėliau atiteko Vilniaus un
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/grupes/Lotynai]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/grupes/Vilniaus Akademija]]
-- [[objektai/asmenys/Fričinskis]]
-- [[objektai/grupes/Glebavičių giminė]]
-- [[objektai/daiktai/Pilaitės kunigaikščių pilis]]
-- [[objektai/grupes/Viršilų giminė]]

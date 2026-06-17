@@ -20,7 +20,7 @@ periodo_grupes:
 
 ## Santrauka
 
-N. Ulaščikas 1966 m. paskelbė Bychovco kronikos vertimą į dabartinę rusų kalbą. N. Ulaščikas prie Bychovco kronikos vertimo pridėjo įvadą ir trumpų paaiškinimų apie vietoves, terminus bei kai kurias teksto vietas.
+N. Ulaščikas 1966 m. paskelbė Bychovco kronikos vertimą į dabartinę rusų kalbą. Prie šio leidimo jis pridėjo įvadą ir trumpų paaiškinimų apie tekste minimas vietoves, terminus ir kitas vietas.
 
 ## Darbai
 
@@ -32,6 +32,12 @@ N. Ulaščikas 1966 m. paskelbė Bychovco kronikos vertimą į dabartinę rusų 
 - t-001
   global_id: t-186451
   teiginys: 'N. Ulaščikas 1966 m. paskelbė Bychovco kronikos vertimą į dabartinę rusų kalbą.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra konkretus, gramatiškas ir paremtas citata apie 1966 m. vertimą į dabartinę rusų kalbą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/autoriai/M. Strijkovskis|M. Strijkovskis]]'
+  temporaliniai_duomenys: 'įvykio data: 1966 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus, gramatiškas ir paremtas citata apie 1966 m. vertimą į dabartinę rusų kalbą.'
   pagrindžia:
     - c-001
 
@@ -39,9 +45,17 @@ N. Ulaščikas 1966 m. paskelbė Bychovco kronikos vertimą į dabartinę rusų 
 - t-002
   global_id: t-186452
   teiginys: 'N. Ulaščikas prie Bychovco kronikos vertimo pridėjo įvadą ir trumpų paaiškinimų apie vietoves, terminus bei kai kurias teksto vietas.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus sakinys apie N. Ulaščiko indėlį prie vertimo. Citata tiesiogiai palaiko įvadą ir trumpus paaiškinimus apie vietoves, terminus bei teksto vietas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]'
+  temporaliniai_duomenys: 'įvykio data: 1966 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus sakinys apie N. Ulaščiko indėlį prie vertimo. Citata tiesiogiai palaiko įvadą ir trumpus paaiškinimus apie vietoves, terminus bei teksto vietas.'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/ivykiai/Klecko mūšis.md#claim-t-186541|Klecko mūšis (mūšis, XVI a.)]]: Klecko mūšio 1506 m. aprašymas su vietovardžiais buvo vienas iš N. N. Ulaščiko argumentų dėl Bychovco kronikos kilmės iš Naugarduko ar Slucko krašto.
+- susijęs iš [[objektai/ivykiai/Klecko mūšis.md#claim-t-186548|Klecko mūšis (mūšis, XVI a.)]]: Klecko mūšio aprašymu N. N. Ulaščikas rėmė spėjimą apie Bychovco kronikos kilmę iš Naugarduko ar Slucko krašto.
+- susijęs iš Gomelis: Uzos upė įteka į Sožą truputį žemiau Gomelio.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -87,8 +101,3 @@ N. Ulaščikas 1966 m. paskelbė Bychovco kronikos vertimą į dabartinę rusų 
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Rusai]]
-- [[objektai/ivykiai/Klecko mūšis|Klecko mūšis (mūšis, XVI a.)]]

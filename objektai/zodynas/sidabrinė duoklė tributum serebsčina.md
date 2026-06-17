@@ -23,6 +23,8 @@ Duoklėmis ir mezliavomis atsilygindavo daugiausia pa­ prastieji žmonės, kuni
 - t-001
   global_id: t-34312
   teiginys: 'Sidabrinė duoklė buvo piniginis paklusnybės mokestis, daugiausia žinomas sidabrinės arba serebsčinos vardu.'
+  sudarymo_pagrindimas: 'Suformuluota tiesioginė sąvokos reikšmė pagal citatą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/duoklė|duoklė]]; mentioned_object: [[objektai/zodynas/sidabrinė duoklė|sidabrinė duoklė]]; mentioned_place: Horodlė'
   pagrindžia:
     - c-001
 
@@ -42,8 +44,3 @@ Duoklėmis ir mezliavomis atsilygindavo daugiausia pa­ prastieji žmonės, kuni
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/duoklė]]
-- [[objektai/zodynas/sidabrinė duoklė]]

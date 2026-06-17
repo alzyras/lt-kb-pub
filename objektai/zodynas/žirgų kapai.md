@@ -20,6 +20,8 @@ tags:
 - t-001
   global_id: t-28617
   teiginys: 'Terminas „žirgų kapai“ kilo iš papročio šalia sudegintų žmonių lavonų su įkapėmis užkasti nedegintus žirgus.'
+  sudarymo_pagrindimas: 'Perrašyta be OCR triukšmo ir aiškiai susieta su termino kilme.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_place: Kaunas; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -39,7 +41,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Žirgai]]

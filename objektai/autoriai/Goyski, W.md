@@ -3,10 +3,15 @@ tipas: autorius
 pavadinimas: 'Goyski, W'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+datos: []
+date_start: ''
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
+amziai: []
+periodo_grupes: []
 ---
 # Goyski, W
 
@@ -20,6 +25,9 @@ tags:
 - t-001
   global_id: t-30621
   teiginys: 'W. Goyskis 1906 m. paskelbė darbą apie Lenkijos, Lietuvos ir Ordino santykius 1399-1404 m.'
+  susije_objektai: 'mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1399-1404; įvykio data: 1404 m.; įvykio data: 1409 m.; įvykio data: 1906 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

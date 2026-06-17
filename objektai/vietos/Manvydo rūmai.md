@@ -27,6 +27,8 @@ amziai:
 - t-001
   global_id: t-86087
   teiginys: 'Kalno griūtis užslinko ant Manvydo rūmų, pridarė daug nuostolių, užpylė jo tarnus ir užvertė brangenybes.'
+  sudarymo_pagrindimas: 'Pradinis tekstas perima žalius šaltinio fragmentus ir skliaustinius paaiškinimus.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Pataurininkis|Pataurininkis]]; mentioned_person: [[objektai/asmenys/Manvydas|Manvydas]]'
   pagrindžia:
     - c-002
 
@@ -34,9 +36,11 @@ amziai:
 - t-002
   global_id: t-86088
   teiginys: 'Šlaito nuošliaužos užslinko ant vaivados Manvydo rūmų, stovėjusių pakalnėje, užgriuvo jo tarnus ir turtus.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Manvydo rūmus ir atitinka citatą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Manvydas|Manvydas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
-
+- susijęs iš Vilnelė: Pilies kalno pietų pusėje tarp kalno ir Vilnelės stovėjo didžiuliai Manvydo rūmai.
 ## Reikšmingi paminėjimai
 
 - c-001

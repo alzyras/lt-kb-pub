@@ -5,6 +5,7 @@ saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1034 m.'
+  - '1323 m.'
   - '1324 m.'
 date_start: '1034'
 date_end: '1324'
@@ -51,6 +52,11 @@ Nenurodyta
 - t-001
   global_id: t-87180
   teiginys: 'Popiežius su kardinolais viešoje konsistorijoje svarstė Rygos arkivyskupo ginčą su Livonijos ordinu ir paskelbė sprendimą.'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo išnašinis fragmentas, o citata palaiko platesnį faktą apie kurijos svarstymą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_object: [[objektai/zodynas/konsistorija|konsistorija]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/naujakrikščiai|naujakrikščiai]]; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_person: [[objektai/autoriai/Pauli|Pauli]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Vygandas|Vygandas]]; mentioned_place: Avinjonas; mentioned_place: Dvina; mentioned_place: Livonija; mentioned_place: Palenkė; mentioned_place: Prūsija; mentioned_place: Ryga; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1323 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys buvo išnašinis fragmentas, o citata palaiko platesnį faktą apie kurijos svarstymą.'
   pagrindžia:
     - c-001
 
@@ -168,17 +174,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Karolis]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/autoriai/Pauli]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/asmenys/Vygandas]]
-- [[objektai/zodynas/didysis magistras]]
-- [[objektai/zodynas/kapitula]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/naujakrikščiai]]
-- [[objektai/zodynas/pagonybė]]
-- [[objektai/zodynas/konsistorija]]

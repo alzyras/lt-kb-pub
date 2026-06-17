@@ -29,6 +29,8 @@ Il Prie jo buvo įkurta Puškarnia, tai yra, anuometinės artilerijos įrangos b
 - t-001
   global_id: t-86613
   teiginys: 'Puškarnia buvo anuometinės artilerijos įrangos ir amunicijos dirbtuvė.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus apibrėžiamasis sakinys, tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_person: [[objektai/autoriai/Gurnickis|Gurnickis]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]'
   pagrindžia:
     - c-001
 
@@ -63,9 +65,3 @@ Il Prie jo buvo įkurta Puškarnia, tai yra, anuometinės artilerijos įrangos b
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Artilerija]]
-- [[objektai/autoriai/Gurnickis]]
-- [[objektai/asmenys/Žygimantas]]

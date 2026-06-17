@@ -23,6 +23,8 @@ Dusburgietis teigia, kad tačiau du bartai, būtent: Numa ir Derska, nusekė, br
 - t-001
   global_id: t-60100
   teiginys: 'Derska su Numa tarpininkavo bartams, kad broliai grąžintų į nelaisvę paimtas jų žmonas ir vaikus.'
+  sudarymo_pagrindimas: 'Iš fragmento suformuluotas pilnas sakinys apie Derskos veiksmą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Numa|Numa]]; mentioned_place: Gardinas; mentioned_place: Semba'
   pagrindžia:
     - c-001
 
@@ -30,6 +32,8 @@ Dusburgietis teigia, kad tačiau du bartai, būtent: Numa ir Derska, nusekė, br
 - t-002
   global_id: t-60101
   teiginys: 'Derska su Numa pasitiko lietuvių kariuomenę, išžudė lietuvius ir visą grobį išsigabeno į Pagudę.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir pagrįstas citatos pasakojimu apie Derskos veiksmus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Numa|Numa]]; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Pagudė'
   pagrindžia:
     - c-002
 
@@ -37,9 +41,17 @@ Dusburgietis teigia, kad tačiau du bartai, būtent: Numa ir Derska, nusekė, br
 - t-003
   global_id: t-184690
   teiginys: 'Prūsų didikas Derska, pabėgęs iš Prūsijos, gyveno Lietuvoje ir tikėjosi kryžiuočių atleidimo už naują išdavystę.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Perrašyta be OCR klaidų ir aiškiai susieta su Derska.'
+  susije_objektai: 'location: Lenkija; location: Lietuva; location: Prūsai; mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Prūsai'
+  semantiniai_rysiai: '[[objektai/asmenys/Derska|Derska]] gyveno Lenkija; [[objektai/asmenys/Derska|Derska]] gyveno Lietuva; [[objektai/asmenys/Derska|Derska]] gyveno Prūsai'
   pagrindžia:
     - c-003
-
+- susijęs iš [[objektai/asmenys/Numa.md#claim-t-60185|Numa]]: Numa ir Derska tarpininkavo bartams, kad broliai grąžintų į nelaisvę paimtas jų žmonas ir vaikus.
+- susijęs iš [[objektai/asmenys/Numa.md#claim-t-60186|Numa]]: Numa ir Derska pelnė brolių palankumą, išžudė lietuvius ir išsigabeno grobį į Pagudę.
+- susijęs iš [[objektai/ivykiai/Bartų sugrįžimas pas brolius ir lietuvių išžudymas.md#claim-t-66482|Bartų sugrįžimas pas brolius ir lietuvių išžudymas]]: Numa ir Derska pelnė brolių palankumą, pasitiko lietuvių kariuomenę, išžudė lietuvius ir grobį išsigabeno į Pagudę.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -104,10 +116,6 @@ Dusburgietis teigia, kad tačiau du bartai, būtent: Numa ir Derska, nusekė, br
     - t-003
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bartai]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Numa]]
-- [[objektai/ivykiai/Bartų sugrįžimas pas brolius ir lietuvių išžudymas]]
-- [[objektai/asmenys/Ditrichas (Sembos fogtas)]]
+- Derska gyveno [[objektai/vietos/Lenkija]]
+- Derska gyveno [[objektai/vietos/Lietuva]]
+- Derska gyveno [[objektai/vietos/Prūsai]]

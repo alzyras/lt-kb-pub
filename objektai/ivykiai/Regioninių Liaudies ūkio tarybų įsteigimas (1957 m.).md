@@ -43,6 +43,11 @@ Nenurodyta
 - t-001
   global_id: t-20462
   teiginys: '1957 m. vietoje pramonės ir statybos ministerijų įsteigtos regioninės Liaudies ūkio tarybos turėjo pertvarkyti pramonės valdymą iš šakinio į teritorinį.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nėra užbaigtas, citata leidžia suformuluoti tikslų sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Liaudies ūkio tarybos|Liaudies ūkio tarybos]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1953 m.; įvykio data: 1957 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys nėra užbaigtas, citata leidžia suformuluoti tikslų sakinį.'
   pagrindžia:
     - c-001
 
@@ -50,6 +55,14 @@ Nenurodyta
 - t-002
   global_id: t-183268
   teiginys: '1957 m. vietoje pramonės ir statybos ministerijų įsteigus regionines Liaudies ūkio tarybas, pramonės valdymas turėjo pereiti iš šakinio į teritorinį.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas, faktinis ir paremtas citata.'
+  susije_objektai: 'mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1953 m.; įvykio data: 1957 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas, faktinis ir paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -77,7 +90,3 @@ Nenurodyta
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Liaudies ūkio tarybos|Liaudies ūkio tarybos (institucija)]]

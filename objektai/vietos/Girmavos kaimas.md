@@ -22,6 +22,8 @@ Dusburgietis teigia, kad kristburgo komtūras, brolis Henrikas, vadinamas Stange
 - t-001
   global_id: t-90456
   teiginys: 'Henriko Stange kariuomenė, įsiveržusi į Sembą, degino ir grobė abipus kelio iki Girmavos kaimo.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai susietas su Girmavos kaimu ir pašalina nutrūkusį fragmentą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Girmava; mentioned_place: Kaimas; mentioned_place: Kristburgas; mentioned_place: Semba'
   pagrindžia:
     - c-002
 
@@ -29,6 +31,8 @@ Dusburgietis teigia, kad kristburgo komtūras, brolis Henrikas, vadinamas Stange
 - t-002
   global_id: t-90457
   teiginys: 'Henriko Stangės kariuomenė žiemos metu įsibrovė į Sembą ir degindama bei grobdama pasiekė Girmavos kaimą.'
+  sudarymo_pagrindimas: 'Citata remia pilną sakinį apie Girmavos kaimą; pašalintas antraštės ir įvado triukšmas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Girmava; mentioned_place: Kaimas; mentioned_place: Kristburgas; mentioned_place: Semba'
   pagrindžia:
     - c-001
 

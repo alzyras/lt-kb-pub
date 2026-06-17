@@ -42,6 +42,9 @@ Nenurodyta
 - t-001
   global_id: t-62731
   teiginys: 'Prūsai pagal seną paprotį žmonas pirkdavosi už tam tikrą pinigų sumą ir laikė jas tarsi tarnaitėmis.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pirminis teiginys prasidėjo nereikalingu autoriniu boilerplate; citata remia faktinę formuluotę.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_place: Prūsai'
   pagrindžia:
     - c-002
     - c-004
@@ -50,6 +53,9 @@ Nenurodyta
 - t-002
   global_id: t-62732
   teiginys: 'Komentare teigiama, kad Dusburgietis veikiausiai supainiojo nelaisvos šeimynos moters padėtį su žmonos kaip gyvenimo draugės padėtimi.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Tai interpretacinis komentaras, todėl būtina priskirti teiginį komentaro pozicijai.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-001
 
@@ -115,13 +121,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/socialinė-praktika]]
-
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/daiktai/Namas]]
-- [[objektai/zodynas/Miera|miera]]
-- [[objektai/paprociai/Pavargėlių maitinimas be elgetavimo]]

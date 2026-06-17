@@ -4,12 +4,6 @@ pavadinimas: 'Juodoji jūra'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
-aliases:
-  - 'objektai/vietos/Uksinė jūra'
-  - 'objektai/vietos/Uksinė marė'
-variantai:
-  - 'Uksinė jūra'
-  - 'Uksinė marė'
 sukurta: ''
 atnaujinta: ''
 ---
@@ -17,7 +11,7 @@ atnaujinta: ''
 
 ## Santrauka
 
-Daukanto pasakojime lietuviai buvo atskirti nuo Uksinės, arba Juodosios, jūros ir Dunojaus. Uksinė jūra Daukanto tekste tapatinama su Juodąja jūra. Juodoji jūra siejama su Lietuvos prekybos ir valstybės ribų plėtra.
+Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buvo pasiekiama net Juodoji jūra, tolimi vakarinės Azijos kraštai ir Viduržemio pajūris. Uksinė marė yra svarbus vandens telkinys šiaurės ir rytų regiono geografijoje. Kimerija aprašoma kaip vieta, įsikišusi į Uksinę marę.
 
 ## Pavadinimai šaltiniuose
 
@@ -39,26 +33,40 @@ Daukanto pasakojime lietuviai buvo atskirti nuo Uksinės, arba Juodosios, jūros
 - tipas: jūra / marių baseinas; jūra
 
 ## Teiginiai
+
 <a id="claim-t-08500"></a>
 - t-001
   global_id: t-08500
   teiginys: 'Daukanto pasakojime lietuviai buvo atskirti nuo Uksinės, arba Juodosios, jūros ir Dunojaus.'
+  sudarymo_pagrindimas: 'Citata nepagrindžia gintaro prekybos, bet remia atskyrimą nuo Juodosios jūros.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/autoriai/S. Daukantas|S. Daukantas]]; mentioned_person: [[objektai/asmenys/Tame (Baigos brolis)|Tame (Baigos brolis)]]; mentioned_place: Isteris; mentioned_place: Lietuva; mentioned_place: Podolė'
   pagrindžia:
     - c-001
+
 <a id="claim-t-08501"></a>
 - t-002
   global_id: t-08501
   teiginys: 'Uksinė jūra Daukanto tekste tapatinama su Juodąja jūra.'
+  sudarymo_pagrindimas: 'Sakinys yra pilnas ir tiksliai perteikia Daukanto vartotą Uksinės ir Juodosios jūros tapatinimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_object: [[objektai/daiktai/Druska|Druska]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_person: [[objektai/autoriai/S. Daukantas|S. Daukantas]]; mentioned_place: Isteris; mentioned_place: Lietuva; mentioned_place: Možaiskas; mentioned_place: Putivlis'
   pagrindžia:
     - c-002
+
 <a id="claim-t-08502"></a>
 - t-003
   global_id: t-08502
   teiginys: 'Juodoji jūra siejama su Lietuvos prekybos ir valstybės ribų plėtra.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalnėnai|Kalnėnai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
-
+- susijęs iš [[objektai/autoriai/J. Andrius.md#claim-t-30657|J. Andrius]]: J. Andrius 1952 m. „Aiduose“ paskelbė darbą „Kng. Radvilos Lietuvos žemėlapis“.
+- susijęs iš [[objektai/paprociai/Kailinių dėvėjimas žiemą ir vasarą, vasarą išvirkščius.md#claim-t-07770|Kailinių dėvėjimas žiemą ir vasarą, vasarą išvirkščius]]: Graikai šiaurėje gyvenusius žmones vadino skitais arba kailinuočiais, nes jie žiemą ir vasarą dėvėdavo kailinius.
+- susijęs iš J. Andrius Kng. Radvilos Lietuvos žemėlapis: J. Andriaus „Kng. Radvilos Lietuvos žemėlapis“ paskelbtas žurnalo „Aidai“ 1952 m. 10 numeryje, p. 445–448.
+- susijęs iš P. Rėklaitis Lietuvos senoji kartografija: P. Rėklaičio „Lietuvos senoji kartografija“ paskelbta „Tautos Praeities“ II tomo 1 dalyje, Romoje 1964 m., p. 64-76.
+- susijęs iš Kimerija: Kimerija buvo žemės šnypis arba pusiasalis prie Uksinės marės.
+- susijęs iš [[objektai/zodynas/Medė.md#claim-t-70028|medė]]: Medės Daukanto tekste vadinamos giriomis, buvusiomis į šiaurę nuo tyrų prie Tyrulės upės.
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Daukanto pasakojime lietuviai buvo atskirti nuo Uksinės, arba Juodosios, jūros ir Dunojaus.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
@@ -69,6 +77,7 @@ Daukanto pasakojime lietuviai buvo atskirti nuo Uksinės, arba Juodosios, jūros
   statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Uksinė jūra Daukanto tekste tapatinama su Juodąja jūra.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
@@ -81,6 +90,7 @@ Daukanto pasakojime lietuviai buvo atskirti nuo Uksinės, arba Juodosios, jūros
   statusas: verified
   pagrindžia:
     - t-002
+
 - c-003
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
@@ -97,6 +107,7 @@ Daukanto pasakojime lietuviai buvo atskirti nuo Uksinės, arba Juodosios, jūros
   statusas: verified
   pagrindžia:
     - t-003
+
 - c-004
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |

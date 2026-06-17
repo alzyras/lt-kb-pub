@@ -21,9 +21,13 @@ Tačiau krikščionių demokratų blokas, Katalikų veikimo centras (KVC) nuolat
 - t-001
   global_id: t-19747
   teiginys: 'Katalikų veikimo centras neleido tautininkams monopolizuoti ideologinės ir organizacinės erdvės.'
+  sudarymo_pagrindimas: 'Pašalinta šnekamoji metafora.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_place: Lietuva; mentioned_place: Maskva'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Stasys Raštikis.md#claim-t-101711|Stasys Raštikis]]: Kariuomenės vadas Stasys Raštikis visuomenėje įgavo didelį populiarumą, todėl prezidentas po ambicijų konflikto 1940 m. balandį atleido jį iš pareigų.
+- susijęs iš [[objektai/grupes/Krikščionių demokratų blokas.md#claim-t-74194|Krikščionių demokratų blokas]]: Krikščionių demokratų blokas ir Katalikų veikimo centras trukdė tautininkams monopolizuoti ideologinę ir organizacinę erdvę.
+- susijęs iš [[objektai/ivykiai/Stasio Raštikio atleidimas iš pareigų (1940 m. balandis).md#claim-t-20506|Stasio Raštikio atleidimas iš pareigų (1940 m. balandis)]]: Prezidentas 1940 m. balandį po ambicijų konflikto atleido populiarų kariuomenės vadą Stasį Raštikį iš pareigų.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -42,10 +46,3 @@ Tačiau krikščionių demokratų blokas, Katalikų veikimo centras (KVC) nuolat
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/A. Smetona]]
-- [[objektai/grupes/Krikščionių demokratų blokas]]
-- [[objektai/ivykiai/Stasio Raštikio atleidimas iš pareigų (1940 m. balandis)]]
-- [[objektai/asmenys/Stasys Raštikis]]

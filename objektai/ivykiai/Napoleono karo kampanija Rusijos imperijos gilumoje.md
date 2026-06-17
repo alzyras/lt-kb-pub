@@ -22,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-1812 m. prancūzams valdant Vilnių ir Lietuvą, krašto bajorai laukė žinių apie Napoleono kampaniją Rusijos imperijos gilumoje. Po Napoleono sutriuškinimo Rusijoje kurį laiką pagyvėjo visuomeninis gyvenimas.
+Tuo me­ tu Vilnius, kaip ir visa Lietuva, buvo patekusi prancūzų val­ džion, ir krašto bajorai, užgniaužę kvapą, laukdavo žinių apie Napoleono karo kampaniją Rusijos imperijos gilumoje. Po Napoleono sutriuškinimo Rusijoje kurį laiką pastebimas visuomeninio gyvenimo pagyvėjimas.
 
 ## Laikotarpis ir datos
 
@@ -46,6 +46,11 @@ Nenurodyta
 - t-001
   global_id: t-86922
   teiginys: '1812 m. prancūzams valdant Vilnių ir Lietuvą, krašto bajorai laukė žinių apie Napoleono kampaniją Rusijos imperijos gilumoje.'
+  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir sakinys suformuluotas kaip aiškus faktas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_place: Rusija; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1812 m.; įvykio data: 1814 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas OCR triukšmas ir sakinys suformuluotas kaip aiškus faktas.'
   pagrindžia:
     - c-002
 
@@ -53,6 +58,8 @@ Nenurodyta
 - t-002
   global_id: t-86923
   teiginys: 'Po Napoleono sutriuškinimo Rusijoje kurį laiką pagyvėjo visuomeninis gyvenimas.'
+  sudarymo_pagrindimas: 'Reikia sklandesnio enciklopedinio sakinio be publicistinės formos „pastebimas“.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Baudžiava|Baudžiava]]; mentioned_place: Rusija'
   pagrindžia:
     - c-001
 
@@ -90,14 +97,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Aleksandras Balinskis]]
-- [[objektai/zodynas/Baudžiava]]
-- [[objektai/autoriai/Mykolas Balinskis]]
-- [[objektai/grupes/Prancūzai]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/grupes/Bajorai]]
-- [[objektai/grupes/Vilniaus universitetas]]
-- [[objektai/paprociai/Visuomenės būklės ir reformų aptarimas draugijose, salonuose ir vakaruose]]

@@ -43,6 +43,8 @@ Nenurodyta
 - t-001
   global_id: t-87104
   teiginys: 'Šach Achmedas su palyda palapinėse klajojo aplink Vilnių, o Krymo ir Nogajaus ordų pasiuntiniai laukė karaliaus už miesto sienų.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiksliai perteikia citatoje pateiktą faktą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_person: [[objektai/asmenys/Šach Achmedas|Šach Achmedas]]; mentioned_place: Krymas; mentioned_place: Liublinas; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -72,10 +74,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]
-- [[objektai/asmenys/Šach Achmedas]]
-- [[objektai/grupes/Krymo orda]]
-- [[objektai/grupes/Nogajaus orda]]

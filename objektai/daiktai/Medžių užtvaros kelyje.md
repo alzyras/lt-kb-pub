@@ -49,6 +49,8 @@ Nenurodyta
 - t-001
   global_id: t-87087
   teiginys: 'Prie Strėvos upės žemaičių būriai prikirto medžių ir jais užvertė atsitraukiančios kariaunos kelią.'
+  sudarymo_pagrindimas: 'Citata palaiko konkretų teiginį apie medžių užtvarą, o išnašų triukšmas pašalintas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Strėva; mentioned_place: Trakai'
   pagrindžia:
     - c-001
 
@@ -104,9 +106,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Rusai]]
-- [[objektai/asmenys/Švitrigaila]]
-- [[objektai/grupes/Žemaičiai]]

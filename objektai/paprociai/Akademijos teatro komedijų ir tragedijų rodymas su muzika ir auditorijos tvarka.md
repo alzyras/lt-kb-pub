@@ -40,6 +40,7 @@ Nenurodyta
 - t-001
   global_id: t-87259
   teiginys: 'Akademijos teatro salė buvo skirta komedijoms ir tragedijoms rodyti, ją laikė keturios didelės ir dvi mažos arkados.'
+  sudarymo_pagrindimas: 'Citata geriau pagrindžia trumpą faktą apie teatro salės paskirtį.'
   pagrindžia:
     - c-001
 

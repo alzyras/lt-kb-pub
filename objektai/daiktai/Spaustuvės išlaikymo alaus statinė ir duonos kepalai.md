@@ -40,6 +40,8 @@ Nenurodyta
 - t-001
   global_id: t-87122
   teiginys: 'Spaustuvės pelnas buvo skiriamas prefekto ir padėjėjo maitinimui, o kas savaitę dar reikėjo duoti alaus ir duonos kepalų.'
+  sudarymo_pagrindimas: 'Citata palaiko turinį, bet pradinė formuluotė turi lotyniškų intarpų ir OCR triukšmo.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Duona|Duona]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/oxeft|oxeft]]'
   pagrindžia:
     - c-001
 
@@ -67,10 +69,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Duona]]
-- [[objektai/daiktai/Namas]]
-- [[objektai/zodynas/oxeft]]
-- [[objektai/paprociai/Spaustuvės darbuotojų savaitinis aprūpinimas alumi, duona ir valgiu]]

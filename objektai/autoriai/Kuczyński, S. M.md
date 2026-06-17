@@ -28,6 +28,11 @@ Kuczyński, S.
 - t-001
   global_id: t-29370
   teiginys: 'S. M. Kuczyński 1936 m. Varšuvoje išleido veikalą „Antymoskiewska inicjatywa Litwy w drugiej połowie XIV wieku“.'
+  sudarymo_pagrindimas: 'Citata pateikia autoriaus, veikalo, vietos ir metų bibliografinį įrašą.'
+  susije_objektai: 'mentioned_place: Varšuva'
+  temporaliniai_duomenys: 'įvykio data: 1936 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pateikia autoriaus, veikalo, vietos ir metų bibliografinį įrašą.'
   pagrindžia:
     - c-001
 

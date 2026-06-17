@@ -3,17 +3,25 @@ tipas: grupe
 pavadinimas: 'Vilniaus universiteto Tarptautinių santykių ir politikos mokslų institutas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1990 m.'
+  - '2004 m.'
+date_start: '1990'
+date_end: '2004'
 sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
   - mokslininkas
+amziai:
+  - 'XX'
+  - 'XXI'
 ---
 # Vilniaus universiteto Tarptautinių santykių ir politikos mokslų institutas
 
 ## Santrauka
 
-Rengdamasi Lietuvos pirmininkavimui Europos Sąjungai, Užsienio reikalų ministerija paprašė VU TSPMI mokslininkų parengti Lietuvos istorijos veikalą.
+Rengiantis Lietuvos pirmininkavimui Europos Sąjungai, Užsienio reikalų ministerija (ministras Audronius Ažubalis) kreipėsi į Vilniaus universiteto Tarptautinių santykių ir politikos mokslų instituto mokslininkus, ne pirmus metus tiriančius istorijos politikos.
 
 ## Teiginiai
 
@@ -21,6 +29,11 @@ Rengdamasi Lietuvos pirmininkavimui Europos Sąjungai, Užsienio reikalų minist
 - t-001
   global_id: t-20076
   teiginys: 'Rengdamasi Lietuvos pirmininkavimui Europos Sąjungai, Užsienio reikalų ministerija paprašė VU TSPMI mokslininkų parengti Lietuvos istorijos veikalą.'
+  sudarymo_pagrindimas: 'Teiginys pataisytas į sklandesnę gramatinę formą, nekeičiant citatos faktų.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/NATO|NATO]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1990 m.; įvykio data: 2004 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys pataisytas į sklandesnę gramatinę formą, nekeičiant citatos faktų.'
   pagrindžia:
     - c-001
 
@@ -50,11 +63,3 @@ Rengdamasi Lietuvos pirmininkavimui Europos Sąjungai, Užsienio reikalų minist
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/NATO]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/autoriai/Audronius Ažubalis]]
-- [[objektai/grupes/Lietuvos Respublikos užsienio reikalų ministerija|Lietuvos Respublikos užsienio reikalų ministerija (institucija)]]
-- [[objektai/ivykiai/Lietuvos pirmininkavimas Europos Sąjungai (2013 m.)]]

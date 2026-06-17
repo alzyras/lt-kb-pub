@@ -23,6 +23,8 @@ Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesia
 - t-001
   global_id: t-20844
   teiginys: 'Posakyje Lietuva vadinama kraštu, kuriame labai pavojinga gyventi mažai tautai.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie posakio turinį ir paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Hanza|Hanza]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Europa; mentioned_place: Europos geografinis centras; mentioned_place: Italija; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Suomija; mentioned_place: Vokietija; mentioned_place: Šveicarija'
   pagrindžia:
     - c-001
 
@@ -43,12 +45,3 @@ Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesia
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/ežeras]]
-
-### Susiję objektai
-- [[objektai/grupes/Hanza]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/grupes/Vokiečiai]]

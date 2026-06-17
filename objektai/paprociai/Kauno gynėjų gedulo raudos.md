@@ -3,8 +3,14 @@ tipas: paprotys
 pavadinimas: 'Kauno gynėjų gedulo raudos'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+datos:
+  - '1362 m.'
+date_start: '1362'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XIV'
 ---
 # Kauno gynėjų gedulo raudos
 
@@ -33,6 +39,14 @@ Nenurodyta
 - t-001
   global_id: t-185930
   teiginys: 'Apie Kauno pilies įgulos žūtį degančios pilies liepsnose paprasti žmonės giedojo gedulo raudas.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis teiginys suprantamas, bet perteklinis ir su nereikalinga autorine formule.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_place: Kaunas'
+  temporaliniai_duomenys: 'įvykio data: 1362 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys suprantamas, bet perteklinis ir su nereikalinga autorine formule.'
   pagrindžia:
     - c-001
 
@@ -72,9 +86,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bajorai]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/zodynas/įgula]]

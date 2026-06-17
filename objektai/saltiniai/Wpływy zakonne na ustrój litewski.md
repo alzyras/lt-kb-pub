@@ -27,6 +27,9 @@ Kamieniecki, WŁ.: Wpływy zakonne na ustrój litewski, PH, t.
 - t-001
   global_id: t-31992
   teiginys: 'Wł. Kamienieckio straipsnis „Wpływy zakonne na ustrój litewski“ paskelbtas 1925 m. PH 25 tome, p. 160–186.'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Maskva'
+  temporaliniai_duomenys: 'įvykio data: 1925 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

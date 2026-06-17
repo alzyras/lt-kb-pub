@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-L. Želigovskio pajėgos lapkričio 17 d. auštant puolė lietuvių 1-osios pėstininkų divizijos barą nuo Nėries iki Dubingių.
+Želigovskio pajėgoms užgrobus Vilnių, 6-asis pėstininkų pulkas nedelsiant išžygiavo į Aukštadvarį. Prieš kautynes Sutelkęs stambias pajėgas, gen.
 
 ## Teiginiai
 
@@ -20,6 +20,8 @@ L. Želigovskio pajėgos lapkričio 17 d. auštant puolė lietuvių 1-osios pės
 - t-001
   global_id: t-40973
   teiginys: 'L. Želigovskio pajėgos lapkričio 17 d. auštant puolė lietuvių 1-osios pėstininkų divizijos barą nuo Nėries iki Dubingių.'
+  sudarymo_pagrindimas: 'Perrašyta, kad teiginys būtų aiškiau apie pajėgas kaip objekto pavadinimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Balnininkai; mentioned_place: Dubingiai'
   pagrindžia:
     - c-001
 
@@ -44,10 +46,3 @@ L. Želigovskio pajėgos lapkričio 17 d. auštant puolė lietuvių 1-osios pės
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/1-oji pėstininkų divizija]]
-- [[objektai/grupes/oji pėstininkų divizija]]

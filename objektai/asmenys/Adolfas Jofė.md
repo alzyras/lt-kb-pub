@@ -14,7 +14,7 @@ tags:
 
 ## Santrauka
 
-Adolfo Jofės vadovaujami sovietai Lietuvą laikė nauju politiniu vienetu ir sutiko ją pripažinti remdamiesi nacijų apsisprendimo teise.
+Tačiau sovietai, vadovaujami Adolfo Jofės (Adolf Joffe), traktavo Lietuvą kaip naują politinį vienetą ir sutiko pripažinti Lietuvą remdamiesi nacijų apsisprendimo teise – taigi silpnesniu pripažinimo dokumentu.
 
 ## Teiginiai
 
@@ -22,9 +22,11 @@ Adolfo Jofės vadovaujami sovietai Lietuvą laikė nauju politiniu vienetu ir su
 - t-001
   global_id: t-18755
   teiginys: 'Adolfo Jofės vadovaujami sovietai Lietuvą laikė nauju politiniu vienetu ir sutiko ją pripažinti remdamiesi nacijų apsisprendimo teise.'
+  sudarymo_pagrindimas: 'Perrašyta sklandžiau, išlaikant citatos faktus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Rusija'
   pagrindžia:
     - c-001
-
+- susijęs iš Lenkija: Nors dalį ginčijamų žemių jau kontroliavo Lenkija, Adolfas Jofė sutiko Vilnių, Gardiną ir Lydą priskirti Lietuvai.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -44,8 +46,3 @@ Adolfo Jofės vadovaujami sovietai Lietuvą laikė nauju politiniu vienetu ir su
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/suverenitetas suverenumas]]

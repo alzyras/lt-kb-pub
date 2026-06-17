@@ -110,15 +110,3 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/dinastija]]
-
-### Susiję objektai
-- [[objektai/asmenys/Jaunutis|Jaunutis (valdovas, XIV a.)]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/asmenys/Teodoras]]
-- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
-- [[objektai/zodynas/ponai]]
-- [[objektai/zodynas/vaivada]]

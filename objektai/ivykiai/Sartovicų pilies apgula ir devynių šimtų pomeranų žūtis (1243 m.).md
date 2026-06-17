@@ -22,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-1243 m. brolis Ditrichas su nedidele kariuomene smogė Sartovicų pilį apgulusioms pajėgoms ir nukovė devynis šimtus vyrų.
+Dusburgietis teigia, kad apie Sartovicų pilies apgulą ir devynių šimtų pomeranų žūtį Kai apie šiuos įvykius išgirdo minėtasis kunigaikštis, jis, nepaprastai irzdamas ir apie nieką kita negalvodamas, tik apie nuodingą kerštą, sušaukė visus Prūsijos žemės naujakrikščius, atsimetusius. Dusburgietis teigia, kad apie tai, kaip pasidavė Naklo pilis ir buvo apiplėšta Pomeranijos žemė Apaštališkojo sosto legatas, nuolatos rūpindamasis tikėjimo reikalais ir dėl jų sielvartaudamas, be to, norėdamas tikėjimui padėti, o tikėjimo priešui Pomeranijos kunigaikščiui pakenkti.
 
 ## Laikotarpis ir datos
 
@@ -46,6 +46,12 @@ Nenurodyta
 - t-001
   global_id: t-62467
   teiginys: '1243 m. brolis Ditrichas su nedidele kariuomene smogė Sartovicų pilį apgulusioms pajėgoms ir nukovė devynis šimtus vyrų.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, bet citata remia apgulos ir mūšio rezultatą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pomeranai|Pomeranai]]; mentioned_object: [[objektai/daiktai/Strėlės|Strėlės]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Kulmas; mentioned_place: Prūsija; mentioned_place: Vysla'
+  temporaliniai_duomenys: 'įvykio data: 1243 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs, bet citata remia apgulos ir mūšio rezultatą.'
   pagrindžia:
     - c-001
 
@@ -74,9 +80,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Pomeranai]]
-- [[objektai/daiktai/Strėlės]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

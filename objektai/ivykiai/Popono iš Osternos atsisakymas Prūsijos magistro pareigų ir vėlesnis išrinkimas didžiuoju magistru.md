@@ -43,6 +43,12 @@ Nenurodyta
 - t-001
   global_id: t-62442
   teiginys: 'Poponas iš Osternos septynerius metus buvo antrasis Prūsijos žemės magistras, 1241 m. atsisakė pareigų ir vėliau tapo didžiuoju magistru.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pradinis teiginys turi antraštės triukšmo ir nuorodos liekaną, bet faktas pagrįstas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Poponas iš Osternos|Poponas iš Osternos]]; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Vokietija'
+  temporaliniai_duomenys: 'įvykio data: 1241 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys turi antraštės triukšmo ir nuorodos liekaną, bet faktas pagrįstas.'
   pagrindžia:
     - c-001
 
@@ -67,8 +73,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/magistras]]
-- [[objektai/asmenys/Poponas iš Osternos]]

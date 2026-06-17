@@ -19,7 +19,7 @@ amziai:
 
 ## Santrauka
 
-P. Končius slapstėsi Latvijoje ir Kretingos rajone, o 1965 m., apsuptas Kretingos saugumiečių, nusišovė.
+1945 m. vadovavo Kretingos apskrities partizanų Klevo kuopai. Slapstėsi Latvijos teritorijoje, vėliau Kretingos rajone.
 
 ## Teiginiai
 
@@ -27,6 +27,11 @@ P. Končius slapstėsi Latvijoje ir Kretingos rajone, o 1965 m., apsuptas Kretin
 - t-001
   global_id: t-38360
   teiginys: 'P. Končius slapstėsi Latvijoje ir Kretingos rajone, o 1965 m., apsuptas Kretingos saugumiečių, nusišovė.'
+  sudarymo_pagrindimas: 'Teiginys paremtas citata, bet reikia sutvarkyti skyrybą.'
+  susije_objektai: 'mentioned_place: Kretinga; mentioned_place: Latvija'
+  temporaliniai_duomenys: 'įvykio data: 1965 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys paremtas citata, bet reikia sutvarkyti skyrybą.'
   pagrindžia:
     - c-001
 

@@ -14,7 +14,7 @@ tags:
 
 ## Santrauka
 
-Pagudėnas, pamatęs nedidelį brolių karių būrį, paklausė, kur yra kiti kariai. Pagudėnai pasakojo matę lauką, pilną ginkluotų vyrų, todėl jų kariuomenė leidosi bėgti. Petras Dusburgietis pagudėnams priskiria pasakojimą, kad jų kariuomenė bėgo pamačiusi lauką, pilną ginkluotų vyrų.
+Dusburgietis teigia, kad šis, išvydęs tokį nedidelį brolių karių būrį, paklausė, kur kiti. Dusburgietis teigia, kad tą patį viešai sakė ir kiti pagudėnai, buvę tuo metu šioje kariuomenėje, kai jie vėliau priėmė Kristaus tikėjimą.
 
 ## Teiginiai
 
@@ -22,6 +22,7 @@ Pagudėnas, pamatęs nedidelį brolių karių būrį, paklausė, kur yra kiti ka
 - t-001
   global_id: t-103451
   teiginys: 'Pagudėnas, pamatęs nedidelį brolių karių būrį, paklausė, kur yra kiti kariai.'
+  sudarymo_pagrindimas: 'Reikia išplėsti neaiškų įvardį į citatos paremtą veikėją.'
   pagrindžia:
     - c-001
 
@@ -29,6 +30,8 @@ Pagudėnas, pamatęs nedidelį brolių karių būrį, paklausė, kur yra kiti ka
 - t-002
   global_id: t-103452
   teiginys: 'Pagudėnai pasakojo matę lauką, pilną ginkluotų vyrų, todėl jų kariuomenė leidosi bėgti.'
+  sudarymo_pagrindimas: 'Reikia aiškiai perteikti patį posakio turinį ir jo paaiškinamą rezultatą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]'
   pagrindžia:
     - c-002
 
@@ -36,6 +39,8 @@ Pagudėnas, pamatęs nedidelį brolių karių būrį, paklausė, kur yra kiti ka
 - t-003
   global_id: t-103453
   teiginys: 'Petras Dusburgietis pagudėnams priskiria pasakojimą, kad jų kariuomenė bėgo pamačiusi lauką, pilną ginkluotų vyrų.'
+  sudarymo_pagrindimas: 'Teiginys apie pasakymo priskyrimą turi būti aiškus ir ne raw citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_person: [[objektai/autoriai/Petras Dusburgietis|Petras Dusburgietis]]'
   pagrindžia:
     - c-002
 
@@ -69,10 +74,3 @@ Pagudėnas, pamatęs nedidelį brolių karių būrį, paklausė, kur yra kiti ka
   pagrindžia:
     - t-003
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Pagudėnai]]
-- [[objektai/autoriai/Petras Dusburgietis]]
-- [[objektai/ivykiai/Dusburgiečio pasakojamas Elbingo brolių stebuklas ir pagudėnų pasidavimas]]
-- [[objektai/paprociai/Pasidavimas tikėjimui ir broliams davus įkaitį]]

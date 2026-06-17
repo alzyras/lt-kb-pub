@@ -29,6 +29,8 @@ amziai:
 - t-001
   global_id: t-88478
   teiginys: '1581 metais viešosios rimties drumstėjai užpuolė reformatų maldos namus ir Danieliaus Lenčickio prižiūrėtą spaustuvę.'
+  sudarymo_pagrindimas: 'Pirminis teiginys turi OCR triukšmo, bet citata palaiko užpuolimo faktą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_place: Pskovas'
   pagrindžia:
     - c-001
 

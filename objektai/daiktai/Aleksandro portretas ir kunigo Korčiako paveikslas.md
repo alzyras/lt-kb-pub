@@ -45,6 +45,7 @@ Nenurodyta
 - t-001
   global_id: t-55030
   teiginys: 'Šv. Dvasios dominikonų bažnyčioje buvo matomas karaliaus Aleksandro viso ūgio portretas ir tokio pat dydžio kunigo Korčiako paveikslas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/asmenys/Korčiakas|Korčiakas]]'
   pagrindžia:
     - c-001
 
@@ -52,9 +53,11 @@ Nenurodyta
 - t-002
   global_id: t-81840
   teiginys: 'Šv. Dvasios dominikonų bažnyčioje buvo matomas karaliaus Aleksandro portretas visu ūgiu ir tokio pat dydžio kunigo Korčiako paveikslas.'
+  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir sakinys sutrumpintas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/asmenys/Korčiakas|Korčiakas]]'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Korčiakas.md#claim-t-87536|Korčiakas]]: Šv. Dvasios dominikonų bažnyčioje priešais karaliaus Aleksandro portretą buvo kunigo Korčiako paveikslas.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -80,8 +83,3 @@ Nenurodyta
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/kunigas]]
-- [[objektai/asmenys/Korčiakas]]

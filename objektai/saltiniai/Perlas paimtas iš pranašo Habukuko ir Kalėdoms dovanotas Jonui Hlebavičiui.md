@@ -26,6 +26,11 @@ amziai:
 - t-001
   global_id: t-88461
   teiginys: 'Veikalas „Perlas paimtas iš pranašo Habukuko ir Kalėdoms dovanotas Jonui Hlebavičiui“ buvo išspausdintas Vilniuje pas Joną Karcaną 1583 m.'
+  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia leidimo vietą, spaustuvininką ir metus.'
+  susije_objektai: 'mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1583 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia leidimo vietą, spaustuvininką ir metus.'
   pagrindžia:
     - c-001
 

@@ -29,6 +29,11 @@ Vėlyvą 1830 m. rudenį, prasidėjus sukilimui Varšuvoje, Vil­ niuje susikūr
 - t-001
   global_id: t-87627
   teiginys: 'Antanas Goreckis priklausė 1830 m. rudenį Vilniuje susikūrusiam sukilimo centriniam komitetui.'
+  sudarymo_pagrindimas: 'Citata palaiko konkretų faktą apie Goreckio narystę komitete, bet pradinį tekstą reikia sutrumpinti.'
+  susije_objektai: 'owner: [[objektai/asmenys/Mykolas|Mykolas]]; owner: Rusija; owner: [[objektai/asmenys/Stanislovas|Stanislovas]]; owner: Vilnius; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_person: [[objektai/asmenys/Stanislovas|Stanislovas]]; mentioned_place: Rusija; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'priklausymo laikotarpis: 1830 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Antanas (vaistininkas) susiję su Mykolas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Antanas (vaistininkas) susiję su Stanislovas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Antanas (vaistininkas) susiję su Rusija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Antanas (vaistininkas) susiję su Vilnius“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko konkretų faktą apie Goreckio narystę komitete, bet pradinį tekstą reikia sutrumpinti.'
   pagrindžia:
     - c-001
 
@@ -51,8 +56,3 @@ Vėlyvą 1830 m. rudenį, prasidėjus sukilimui Varšuvoje, Vil­ niuje susikūr
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/Vilniaus sukilimo centrinio komiteto susikūrimas]]
-- [[objektai/grupes/Vilniaus sukilimo centrinis komitetas]]

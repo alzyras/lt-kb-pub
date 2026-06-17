@@ -45,6 +45,11 @@ Nenurodyta
 - t-001
   global_id: t-28789
   teiginys: '1717 m. Nebyliajam seimui generolas Grigorijus Dolgorukis padiktavo caro norimas bajorijos ir Augusto II susitaikymo sąlygas.'
+  sudarymo_pagrindimas: 'Citata palaiko faktą, tačiau pradiniame teiginyje yra santrumpų ir OCR triukšmo.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Lietuva; mentioned_place: Rusija'
+  temporaliniai_duomenys: 'įvykio data: 1717 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko faktą, tačiau pradiniame teiginyje yra santrumpų ir OCR triukšmo.'
   pagrindžia:
     - c-002
 
@@ -52,6 +57,11 @@ Nenurodyta
 - t-002
   global_id: t-28790
   teiginys: 'Nuo Nebyliojo seimo 1717 m. Petro I politika ilgainiui privedė prie Kotrynos II įvykdytų Respublikos padalijimų.'
+  sudarymo_pagrindimas: 'Teiginys taisytinas dėl OCR ir stiliaus, bet citata palaiko ryšį su vėlesniais padalijimais.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lietuva; mentioned_place: Prūsija'
+  temporaliniai_duomenys: 'įvykio data: 1717 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys taisytinas dėl OCR ir stiliaus, bet citata palaiko ryšį su vėlesniais padalijimais.'
   pagrindžia:
     - c-001
 
@@ -89,10 +99,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/asmenys/Augustas]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/zodynas/seimas]]

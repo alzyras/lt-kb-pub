@@ -22,9 +22,14 @@ Pagaliau kunigaikštis Zubovas, ku­ rio ainiai dabar yra Raudonės savininkai, 
 - t-001
   global_id: t-87895
   teiginys: 'Kunigaikštis Zubovas pradėjo tvarkyti Raudonę, siekdamas grąžinti jai senovinį gotikinį vaizdą, bet mirė nebaigęs darbų.'
+  sudarymo_pagrindimas: 'Citata palaiko teiginį, bet pradinėje formuluotėje yra OCR klaidų.'
+  susije_objektai: 'territory: Raudonė; mentioned_place: Raudonė'
+  semantiniai_rysiai: '[[objektai/asmenys/Zubovas|Zubovas]] buvo valdovas Raudonė'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/grupes/Zubovai.md#claim-t-86837|Zubovai]]: Kunigaikštis Zubovas pradėjo tvarkyti Raudonę, norėdamas grąžinti jai senovinį gotikinį vaizdą, bet mirė darbų nebaigęs.
+- susijęs iš [[objektai/ivykiai/Vilniaus gynyba (1794 m. liepos 19–20 d.).md#claim-t-80676|Vilniaus gynyba (1794 m. liepos 19–20 d.)]]: 1794 m. liepos 19 d. B. Knorringo vadovaujamas Rusijos kariuomenės korpusas, padalytas į tris kolonas, pasiekė Vilnių.
+- susijęs iš Liepkalnis: Gen. mjr. N. Zubovo divizija atakavo gen. J. Mejeno karių įtvirtinimus Liepkalnyje.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -44,6 +49,4 @@ Pagaliau kunigaikštis Zubovas, ku­ rio ainiai dabar yra Raudonės savininkai, 
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/Vilniaus gynyba (1794 m. liepos 19–20 d.)]]
-- [[objektai/grupes/Zubovai]]
+- Zubovas buvo_valdovas [[objektai/vietos/Raudonė]]

@@ -21,6 +21,8 @@ Viešai grasinama, kad „asmenys, kurie nebalsuos, yra liaudies priešai“ –
 - t-001
   global_id: t-22213
   teiginys: 'Per rinkimų agitaciją valdžia viešai grasino, kad nebalsuosiantys asmenys yra „liaudies priešai“.'
+  sudarymo_pagrindimas: 'Teiginys pagrįstas, bet perrašytas su aiškiu kontekstu.'
+  susije_objektai: 'mentioned_object: [[objektai/posakiai/„asmenys, kurie nebalsuos, yra liaudies priešai“|„asmenys, kurie nebalsuos, yra liaudies priešai“]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -41,9 +43,3 @@ Viešai grasinama, kad „asmenys, kurie nebalsuos, yra liaudies priešai“ –
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/A. Smetona]]
-- [[objektai/posakiai/„asmenys, kurie nebalsuos, yra liaudies priešai“]]
-- [[objektai/ivykiai/Liaudies seimo rinkimai (1940 m. liepos 14-15 d.)]]

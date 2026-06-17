@@ -33,6 +33,11 @@ Nenurodyta
 - t-001
   global_id: t-185898
   teiginys: 'Pagal genties papročius valdovas buvo sudegintas ant laidotuvių laužo, o jo pelenų vieta laikyta šventenybe.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys sujungia citatos faktus apie deginimą ir sakralizuotą atminimo vietą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Boleslovas|Boleslovas]]'
   pagrindžia:
     - c-001
 
@@ -56,8 +61,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Boleslovas]]
-- [[objektai/grupes/Lenkai]]

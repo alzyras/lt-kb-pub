@@ -4,16 +4,17 @@ pavadinimas: 'P. Girdzijauskienė'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
-  - '1905 m.'
-  - '1955 m.'
-date_start: '1905'
-date_end: '1955'
+  - '1861 m.'
+  - '1965 m.'
+date_start: '1861'
+date_end: '1965'
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
   - sukilimas
 amziai:
+  - 'XIX'
   - 'XX'
 periodo_grupes:
   - 'naujieji laikai'
@@ -30,9 +31,12 @@ periodo_grupes:
 - t-001
   global_id: t-30898
   teiginys: 'P. Girdzijauskienė 1955 m. paskelbė darbą „1905-1907 metų revoliucija Lietuvoje“.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Antspaudai|Antspaudai]]; mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_person: [[objektai/autoriai/E. Griškūnaitė|E. Griškūnaitė]]; mentioned_person: [[objektai/autoriai/L. Mulevičius|L. Mulevičius]]; mentioned_person: [[objektai/autoriai/O. Maksimaitienė|O. Maksimaitienė]]; mentioned_person: [[objektai/autoriai/V. Černeckis|V. Černeckis]]; mentioned_place: Augustavas; mentioned_place: Baltarusija; mentioned_place: Kaunas; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1861-1913; įvykio data: 1863 m.; įvykio data: apie 1863 m.; įvykio data: 1905 m.; įvykio data: 1913 m.; įvykio data: 1955 m.; įvykio data: 1965 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/autoriai/Lietuvos istorikai ir socialinės istorijos tyrėjai.md#claim-t-179544|Lietuvos istorikai ir socialinės istorijos tyrėjai]]: P. Girdzijauskienė parašė veikalą „1905-1907 metų revoliucija Lietuvoje“.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -55,8 +59,3 @@ periodo_grupes:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Antspaudai]]
-- [[objektai/zodynas/gubernija]]

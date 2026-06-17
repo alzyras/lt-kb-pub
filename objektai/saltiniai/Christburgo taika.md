@@ -26,6 +26,7 @@ Jonynas: Christburgo taika , Lietuviškoji Enciklopedija, t.
 - t-001
   global_id: t-100155
   teiginys: 'Jonynas: Christburgo taika , Lietuviškoji Enciklopedija, t.'
+  susije_objektai: 'mentioned_place: Kaunas'
   pagrindžia:
     - c-001
 

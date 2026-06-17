@@ -4,14 +4,17 @@ pavadinimas: 'Naujausių Proistorinių Tyrinėjimų Duomens'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
+  - '1356 m.'
   - '1938 m.'
-date_start: '1938'
-date_end: ''
+  - '1961 m.'
+date_start: '1356'
+date_end: '1961'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
 amziai:
+  - 'XIV'
   - 'XX'
 ---
 # Naujausių Proistorinių Tyrinėjimų Duomens
@@ -26,6 +29,9 @@ amziai:
 - t-001
   global_id: t-31860
   teiginys: 'J. Puzino „Naujausių Proistorinių Tyrinėjimų Duomens“ išleistas Kaune 1938 m. kaip atspaudas iš „Senovės“ 4 tomo.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Kaunas'
+  temporaliniai_duomenys: 'įvykio data: iki 1356 m.; įvykio data: 1356 m.; įvykio data: 1938 m.; įvykio data: 1961 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

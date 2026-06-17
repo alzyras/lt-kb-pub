@@ -26,6 +26,11 @@ Dusburgietis teigia, kad mapa grodzisk w Polsce / Praca zbiorowa pod redakcją W
 - t-001
   global_id: t-61157
   teiginys: '„Mapa grodzisk w Polsce“ yra W. Antoniewicziaus ir Z. Wartołowskos redaguotas kolektyvinis darbas, išleistas 1964 m. Vroclave, Varšuvoje ir Krokuvoje.'
+  sudarymo_pagrindimas: 'Citata pagrindžia leidinio redaktorius, pobūdį, vietą ir metus.'
+  susije_objektai: 'mentioned_place: Krokuva; mentioned_place: Varšuva'
+  temporaliniai_duomenys: 'įvykio data: 1964 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia leidinio redaktorius, pobūdį, vietą ir metus.'
   pagrindžia:
     - c-001
 

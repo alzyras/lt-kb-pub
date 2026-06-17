@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Istorijos priešaušryje lietgalių žemėse turėjo būti gana daug atskirų sričių kunigų. Net tarp vienkiemius mėgusių lietgalių rasta kuopinių kaimų. Net tarp vienkiemius mėgusių lietgalių rasta kuopinių kaimų.
+Įdomu, kad apie jodinėjančias ir narsias moteris lietgalių žemėje kalba dar Eilėtoji Livonijos kronika (eil. Tokiu atskirų sričių kunigų istorijos priešaušryje lietuvių, kuršių, žiemgalių, lietgalių ir prūsų (imant drauge ir jotvingius) žemėse turėjo būti gana daug. Net ir pas vienkiemius pamėgusius lietgalius yra atrasta kuopinių kaimų.
 
 ## Teiginiai
 
@@ -21,6 +21,8 @@ Istorijos priešaušryje lietgalių žemėse turėjo būti gana daug atskirų sr
 - t-001
   global_id: t-31267
   teiginys: 'Istorijos priešaušryje lietgalių žemėse turėjo būti gana daug atskirų sričių kunigų.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas citata apie lietgalių žemėse buvusius sričių kunigus.'
+  susije_objektai: 'mentioned_place: Prūsai'
   pagrindžia:
     - c-002
 
@@ -28,9 +30,20 @@ Istorijos priešaušryje lietgalių žemėse turėjo būti gana daug atskirų sr
 - t-002
   global_id: t-31268
   teiginys: 'Net tarp vienkiemius mėgusių lietgalių rasta kuopinių kaimų.'
+  sudarymo_pagrindimas: 'Rewrite failed deterministic gates: missing_factual_predicate'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žiemgaliai|Žiemgaliai]]; mentioned_object: [[objektai/zodynas/vienkiemiai|vienkiemiai]]'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/grupes/Jotvingiai.md#claim-t-178775|Jotvingiai]]: Pagal XIII a. duomenis Jotvingija tęsėsi į šiaurę nuo Bebro aukštupio ir Nemuno prie Gardino.
+- susijęs iš [[objektai/grupes/Kuršiai.md#claim-t-184328|Kuršiai]]: Kuršiai ir žiemgaliai yra taip pat gyvenę kaimais.
+- susijęs iš [[objektai/grupes/Kuršiai.md#claim-t-65556|Kuršiai]]: Istorijos priešaušryje kuršių žemėse turėjo būti gana daug atskirų sričių kunigų, atlikdavusių aukojimus.
+- susijęs iš [[objektai/grupes/Kuršiai.md#claim-t-65559|Kuršiai]]: Istorijos priešaušryje kuršių ir kitų baltų žemėse turėjo būti daug atskirų sričių kunigų.
+- susijęs iš [[objektai/grupes/Kuršiai.md#claim-t-65564|Kuršiai]]: Kuršiai ir žiemgaliai yra taip pat gyvenę kaimais.
+- susijęs iš [[objektai/grupes/Žiemgaliai.md#claim-t-184336|Žiemgaliai]]: Kuršiai ir žiemgaliai yra taip pat gyvenę kaimais.
+- susijęs iš [[objektai/grupes/Žiemgaliai.md#claim-t-89350|Žiemgaliai]]: Kuršiai ir žiemgaliai yra taip pat gyvenę kaimais.
+- susijęs iš [[objektai/posakiai/moterų kraštas.md#claim-t-28744|moterų kraštas (kraštas)]]: Adomas Bremenietis minėjo moterų „karalystę“, nors rytinių baltų vardų apskritai nepaminėjo.
+- susijęs iš [[objektai/zodynas/kuopiniai kaimai.md#claim-t-32789|kuopiniai kaimai]]: Gyvendami savo medinėse šiaudais dengtose dvišlaičiais stogais triobose, lietuviai, kaip ir kiti baltai, būrėsi į kuopinius kaimus.
+- susijęs iš [[objektai/zodynas/kuopiniai kaimai.md#claim-t-32790|kuopiniai kaimai]]: Istorinių laikų sandūroje šalia įprastinių kuopinių kaimų pasitaikydavo lietuvių viensėdžių sodybų, bet kaiminės sodybos dominavo.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -75,13 +88,3 @@ Istorijos priešaušryje lietgalių žemėse turėjo būti gana daug atskirų sr
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kuršiai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/vienkiemiai]]
-- [[objektai/grupes/Žiemgaliai]]
-- [[objektai/grupes/Jotvingiai]]
-- [[objektai/zodynas/kuopiniai kaimai]]
-- [[objektai/posakiai/moterų kraštas|moterų kraštas (kraštas)]]

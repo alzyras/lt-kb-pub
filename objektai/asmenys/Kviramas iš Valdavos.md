@@ -29,6 +29,8 @@ Dusburgietis teigia, kad dar apie tą patį Tais pačiais 1314 metais, apie grab
 - t-001
   global_id: t-60373
   teiginys: 'Kviramas iš Valdavos buvo vienas iš keturių prityrusių karių, kurių broliai neteko Sizditės pilies kautynėse.'
+  sudarymo_pagrindimas: 'Pirminis teiginys neįvardijo objekto; citata remia faktą apie Kviramo netektį mūšyje.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Medininkai; mentioned_place: Pilėnai; mentioned_place: Sizditė; mentioned_place: Valdava'
   pagrindžia:
     - c-001
 
@@ -53,13 +55,3 @@ Dusburgietis teigia, kad dar apie tą patį Tais pačiais 1314 metais, apie grab
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Henrikas Rutėnas]]
-- [[objektai/asmenys/Henrikas iš Plockės]]
-- [[objektai/asmenys/Mindotė]]
-- [[objektai/asmenys/Rebodas iš Izenburgo]]
-- [[objektai/asmenys/Spagerotė]]
-- [[objektai/asmenys/Ulrichas iš Tetingeno]]

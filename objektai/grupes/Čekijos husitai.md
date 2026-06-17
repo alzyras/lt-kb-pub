@@ -19,7 +19,7 @@ amziai:
 
 ## Santrauka
 
-Lenkija su Čekijos husitais vakaruose rengėsi kovoti prieš Ordiną.
+Kovai prieš Ordiną Lenkija suartėjo su Čekijos husitais. Ordinas, pirmiausia jo Livonijos šaka, toliau liko Švitrigailos rėmėja, nes siekė, kad pastarasis organizuotų platų pietryčių frontą (su voluiniečiais, podoliečiais, totoriais) prieš Lenkiją, kuri su husitais vakaruose rengėsi kovoti prieš Ordiną. Vakaruose 1433 m. Lenkijai suartėjus su čekų husitais, Ordinui kilo didelė grėsmė.
 
 ## Teiginiai
 
@@ -27,6 +27,11 @@ Lenkija su Čekijos husitais vakaruose rengėsi kovoti prieš Ordiną.
 - t-001
   global_id: t-41207
   teiginys: 'Lenkija su Čekijos husitais vakaruose rengėsi kovoti prieš Ordiną.'
+  sudarymo_pagrindimas: 'Rewrite failed deterministic gates: missing_factual_predicate'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Husitai|Husitai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lenkija; mentioned_place: Livonija; mentioned_place: Užpaliai; mentioned_place: Čekija'
+  temporaliniai_duomenys: 'įvykio data: 1433 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Rewrite failed deterministic gates: missing_factual_predicate'
   pagrindžia:
     - c-001
 
@@ -56,12 +61,3 @@ Lenkija su Čekijos husitais vakaruose rengėsi kovoti prieš Ordiną.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Husitai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Livonijos ordinas]]
-- [[objektai/asmenys/Švitrigaila]]
-- [[objektai/asmenys/Žygimantas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]

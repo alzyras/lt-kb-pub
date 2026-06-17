@@ -18,6 +18,11 @@ Rusų sąmokslininkai nužudė sargybos viršininką Konradą Frankenbergą ir p
 - t-001
   global_id: t-186228
   teiginys: 'Rusų sąmokslininkai nužudė sargybos viršininką Konradą Frankenbergą ir paleido Švitrigailą iš Kremeneco kalėjimo.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys perrašytas taip, kad būtų aiškus Frankenbergo vaidmuo ir įvykio rezultatas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Kremenecas'
   pagrindžia:
     - c-001
 
@@ -47,7 +52,3 @@ Rusų sąmokslininkai nužudė sargybos viršininką Konradą Frankenbergą ir p
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Rusai]]

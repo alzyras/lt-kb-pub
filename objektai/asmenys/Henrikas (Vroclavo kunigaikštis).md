@@ -23,6 +23,8 @@ Dusburgietis teigia, kad apie Vengrijos bei Lenkijos nuniokojimą ir apie Koloma
 - t-001
   global_id: t-60131
   teiginys: 'Totoriai, įsiveržę į Vengriją ir Lenkiją, mūšyje nukovė Henriką, Vroclavo kunigaikštį.'
+  sudarymo_pagrindimas: 'Citata pagrindžia Henriko žūtį per totorių įsiveržimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Lenkija; mentioned_place: Vengrija; mentioned_place: Vroclavas'
   pagrindžia:
     - c-001
 
@@ -44,8 +46,3 @@ Dusburgietis teigia, kad apie Vengrijos bei Lenkijos nuniokojimą ir apie Koloma
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Totoriai]]
-- [[objektai/ivykiai/Totorių invazija į Vengriją ir Lenkiją (1241 m.)]]

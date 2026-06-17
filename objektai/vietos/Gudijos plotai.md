@@ -20,6 +20,7 @@ tags:
 - t-001
   global_id: t-32186
   teiginys: 'IX a. pirmoje pusėje per Gudijos plotus į Lietuvą atėjo dalis žodžių.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vikingai|Vikingai]]; mentioned_place: Dniepras; mentioned_place: Gudija; mentioned_place: Lietuva; mentioned_place: Skandinavija'
   pagrindžia:
     - c-001
 

@@ -3,10 +3,19 @@ tipas: asmuo
 pavadinimas: 'Juozas Gabrys-Paršaitis'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1916 m.'
+  - '1917 m.'
+date_start: '1916'
+date_end: '1917'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'naujieji laikai'
 ---
 # Juozas Gabrys-Paršaitis
 
@@ -20,6 +29,11 @@ JAV lietuviai finansiškai rėmė Lietuvių informacijos biuro Lozanoje veiklą 
 - t-001
   global_id: t-19014
   teiginys: 'Juozas Gabrys-Paršaitis vadovavo Lietuvių informacijos biurui Lozanoje, kurio veiklą finansiškai rėmė JAV lietuviai.'
+  sudarymo_pagrindimas: 'Pradinis sakinys per platus, citata leidžia sutelkti faktą į asmenį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/JAV lietuviai|JAV lietuviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Lozana; mentioned_place: Niujorkas; mentioned_place: Vokietija'
+  temporaliniai_duomenys: 'įvykio data: 1916 m.; įvykio data: 1917 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis sakinys per platus, citata leidžia sutelkti faktą į asmenį.'
   pagrindžia:
     - c-001
 
@@ -44,9 +58,3 @@ JAV lietuviai finansiškai rėmė Lietuvių informacijos biuro Lozanoje veiklą 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/JAV lietuviai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Lietuvių informacijos biuras Lozanoje]]

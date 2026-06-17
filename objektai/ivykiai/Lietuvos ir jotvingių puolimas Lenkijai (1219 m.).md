@@ -4,9 +4,12 @@ pavadinimas: 'Lietuvos ir jotvingių puolimas Lenkijai (1219 m.)'
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
+  - '1205 m.'
+  - '1210 m.'
+  - '1218 m.'
   - '1219 m.'
-date_start: '1219'
-date_end: ''
+date_start: '1205'
+date_end: '1219'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -42,6 +45,12 @@ Nenurodyta
 - t-001
   global_id: t-62859
   teiginys: '1219 m. Lietuvos ir jotvingių jėgos puolė Lenkiją, kuri priklausė antiprūsiškai kryžiaus žygio koalicijai.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Reikia pašalinti nepagrįstą autorinę įžangą, puslapio žymę ir sutvarkyti rašybą.'
+  susije_objektai: 'owner: Lietuva; owner: Prūsai; owner: Viena; owner: Volynė; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/priešmindauginė Lietuva|priešmindauginė Lietuva]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Popiežius Honorijus II|Popiežius Honorijus II]]; mentioned_place: Lietuva; mentioned_place: Prūsai; mentioned_place: Viena; mentioned_place: Volynė'
+  temporaliniai_duomenys: 'priklausymo laikotarpis: 1205 m.; priklausymo laikotarpis: 1210 m.; priklausymo laikotarpis: 1218 m.; priklausymo laikotarpis: 1219 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Popiežius Honorijus II susiję su Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Popiežius Honorijus II susiję su Prūsai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Popiežius Honorijus II susiję su Viena“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Popiežius Honorijus II susiję su Volynė“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia pašalinti nepagrįstą autorinę įžangą, puslapio žymę ir sutvarkyti rašybą.'
   pagrindžia:
     - c-001
     - c-002
@@ -82,15 +91,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/daiktai/Kryžius]]
-- [[objektai/asmenys/Popiežius Honorijus II]]
-- [[objektai/zodynas/kryžininkai]]
-- [[objektai/zodynas/Miera|miera]]
-- [[objektai/zodynas/priešmindauginė Lietuva]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/ivykiai/Lietuvos ir jotvingių veiksmai prieš Volynę (apie 1205 1209—1210 m.)]]
-- [[objektai/grupes/Sūduviai-jotvingiai]]

@@ -18,7 +18,7 @@ amziai:
 
 ## Santrauka
 
-1947 m. liepos 17 d. Prienų apskrities Ašmintos kaime MGB grupė apsupo partizanų bunkerį, kuriame slėpėsi 7 Birutės ir Geležinio Vilko rinktinės partizanai.
+Staliorių, Rugienių X AŠMINTOS SUSISPROGDINIMAS 1947 m. liepos 17 d. Prienų aps.
 
 ## Teiginiai
 
@@ -26,9 +26,14 @@ amziai:
 - t-001
   global_id: t-38441
   teiginys: '1947 m. liepos 17 d. Prienų apskrities Ašmintos kaime MGB grupė apsupo partizanų bunkerį, kuriame slėpėsi 7 Birutės ir Geležinio Vilko rinktinės partizanai.'
+  sudarymo_pagrindimas: 'Reikia tiksliau perteikti vietą ir neplėsti citatoje esančio rinktinės pavadinimo.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Birutė|Birutė]]; mentioned_place: Kaimas; mentioned_place: Prienai'
+  temporaliniai_duomenys: 'įvykio data: 1947 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia tiksliau perteikti vietą ir neplėsti citatoje esančio rinktinės pavadinimo.'
   pagrindžia:
     - c-001
-
+- susijęs iš Pagaršvio upelis: 1947 m. liepos 17 d. Ašmintos kaime, Pagaršvio upelio šlaite, MGB grupė apsupo bunkerį su 7 Birutės ir Geležinio Vilko rinktinės partizanais.
 ## Reikšmingi paminėjimai
 
 - c-001

@@ -22,6 +22,8 @@ Dusburgietis teigia, kad persekiojami miestiečiai, nestengdami priešintis toki
 - t-001
   global_id: t-58586
   teiginys: 'Persekiojami miestiečiai pasitraukė į Liefardo malūną, kuris buvo įtvirtintas kaip pilis.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nusako įvykį ir Liefardo malūno įtvirtinimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_place: Viena'
   pagrindžia:
     - c-001
 

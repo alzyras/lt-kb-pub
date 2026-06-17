@@ -21,6 +21,8 @@ Blažytė-Baužienė D., Tamošaitis M., Truska L.
 - t-001
   global_id: t-19482
   teiginys: 'M. Tamošaitis kartu su D. Blažyte-Baužiene ir L. Truska parašė leidinį „Lietuvos Seimo istorija: XX–XXI a. pradžia“.'
+  sudarymo_pagrindimas: 'Pradinė formuluotė tik išvardija autorius, citata remia autorystės teiginį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/autoriai/L. Truska|L. Truska]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -38,7 +40,3 @@ Blažytė-Baužienė D., Tamošaitis M., Truska L.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/seimas]]

@@ -5,6 +5,7 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1581 m.'
+  - '1609 m.'
   - '1919 m.'
 date_start: '1581'
 date_end: '1919'
@@ -21,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-Uždegti branderiai davė lietuviams signalą pradėti Salacgryvos uosto puolimą iš sausumos. Jonas Karolis Chodkevičius Salacgryvos uosto prieigose slapta parengė du branderius - padegamuosius laivus. Jonas Karolis Chodkevičius prie Salacgryvos žygiavo tiesiai per miškus, siekdamas užklupti priešą nepasiruošusį.
+Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas Pociūnas 96 Salaspilio (Kircholmo) mūšis 1605 Arvydas Pociūnas 100 Salacgryvos jūrų mūšis 1609 Gintautas Jakštys 110 Chotino mūšis 1621 Arvydas Pociūnas 112 Smolensko apgultis. Norėdamas užklupti priešą nepasiruošusį, jis prie Salacgryvos (Salismiinde) žygiavo tiesiai per miškus. Suformuota flotilė patraukė Salacgryvos uosto link, kurio prieigose etmono įsakymu slapta buvo parengti du branderiai - padegamieji laivai, kurie medinių laivų amžiuje buvo labai efektyvi priemonė naikinant priešo laivus, ypač stovinčius uoste.
 
 ## Teiginiai
 
@@ -29,6 +30,8 @@ Uždegti branderiai davė lietuviams signalą pradėti Salacgryvos uosto puolim�
 - t-001
   global_id: t-42112
   teiginys: 'Uždegti branderiai davė lietuviams signalą pradėti Salacgryvos uosto puolimą iš sausumos.'
+  sudarymo_pagrindimas: 'Teiginys yra išsamus sakinys apie Salacgryvos uosto puolimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_place: Švedija'
   pagrindžia:
     - c-001
 
@@ -36,6 +39,11 @@ Uždegti branderiai davė lietuviams signalą pradėti Salacgryvos uosto puolim�
 - t-002
   global_id: t-42113
   teiginys: 'Jonas Karolis Chodkevičius Salacgryvos uosto prieigose slapta parengė du branderius - padegamuosius laivus.'
+  sudarymo_pagrindimas: 'Reikia aiškiai įvardyti etmoną ir pašalinti neapibrėžtą nuorodą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas Karolis Chodkevičius|Jonas Karolis Chodkevičius]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_place: Piarnu'
+  temporaliniai_duomenys: 'įvykio data: 1609 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia aiškiai įvardyti etmoną ir pašalinti neapibrėžtą nuorodą.'
   pagrindžia:
     - c-003
 
@@ -43,9 +51,16 @@ Uždegti branderiai davė lietuviams signalą pradėti Salacgryvos uosto puolim�
 - t-003
   global_id: t-42114
   teiginys: 'Jonas Karolis Chodkevičius prie Salacgryvos žygiavo tiesiai per miškus, siekdamas užklupti priešą nepasiruošusį.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas Karolis Chodkevičius|Jonas Karolis Chodkevičius]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_place: Piarnu'
+  temporaliniai_duomenys: 'įvykio data: 1609 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citata.'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
+- susijęs iš Piarnu: 1609 m. kovo 14 d. Jono Karolio Chodkevičiaus vadovaujama LDK kariuomenė pasiekė Piarnu, bet netikėtas antpuolis nepavyko.
+- susijęs iš Talinas: 1609 m. kovo 16 d. Jonas Karolis Chodkevičius sužinojo, kad iš Talino išsiųstas švedų pastiprinimas buvo 50 km nuo Piarnu.
 ## Reikšmingi paminėjimai
 
 - c-001

@@ -28,6 +28,11 @@ Dusburgietis teigia, kad apie Mikalojų III, popiežių, bei karalių Rudolfą i
 - t-001
   global_id: t-58737
   teiginys: '1277 m. Romoje Tibras ištvino ir pakilo daugiau kaip keturias pėdas virš Švč. Marijos altoriaus rotondoje.'
+  sudarymo_pagrindimas: 'Teiginys yra konkretus faktinis sakinys ir atitinka citatoje pateiktą informaciją.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Altorius|Altorius]]'
+  temporaliniai_duomenys: 'įvykio data: 1277 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus faktinis sakinys ir atitinka citatoje pateiktą informaciją.'
   pagrindžia:
     - c-001
 

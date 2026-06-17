@@ -20,6 +20,8 @@ Rusų gynybos centrinius įtvirtinimus atakavo 7-asis lenkų pėstininkų pulkas
 - t-001
   global_id: t-39723
   teiginys: 'Pulkininkas E. Koso vadovavo 7-ajam lenkų pėstininkų pulkui, atakavusiam rusų gynybos centrinius įtvirtinimus.'
+  sudarymo_pagrindimas: 'Pradinis teiginys jungė kelis objektus; perrašyta į sakinį apie E. Koso vaidmenį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]'
   pagrindžia:
     - c-001
 
@@ -40,8 +42,3 @@ Rusų gynybos centrinius įtvirtinimus atakavo 7-asis lenkų pėstininkų pulkas
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Rusai]]

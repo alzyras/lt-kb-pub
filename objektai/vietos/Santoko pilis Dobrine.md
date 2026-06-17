@@ -23,6 +23,8 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
 - t-001
   global_id: t-99948
   teiginys: 'Naujame dokumente skelbta, kad Santoko pilis Dobrine, Drezdenka, Žemaičiai ir Sūduva turi priklausyti kryžiuočiams.'
+  sudarymo_pagrindimas: 'Pradinis teiginys prasideda neaiškiu įvardžiu, o citata leidžia suformuluoti savarankišką sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_place: Sūduva; mentioned_place: Žemaičių kraštas'
   pagrindžia:
     - c-001
 

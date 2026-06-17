@@ -5,6 +5,7 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1507 m.'
+  - '1948 m.'
   - '1950 m.'
 date_start: '1507'
 date_end: '1950'
@@ -30,6 +31,11 @@ Kai Lenkų Liaudies respublikoje istorijos mokslas buvo perorganizuotas, nutruko
 - t-001
   global_id: t-31850
   teiginys: '„Monumenta Poloniae Vaticana“ leidimas nutrūko 1950 m., kai Lenkų Liaudies Respublikoje buvo perorganizuotas istorijos mokslas.'
+  sudarymo_pagrindimas: 'Teiginys gramatiškas ir tiesiogiai paremtas citatos informacija apie leidimo nutrūkimą 1950 m.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.)|Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.)]]; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: iki 1507 m.; įvykio data: 1507 m.; įvykio data: 1948 m.; įvykio data: 1950 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys gramatiškas ir tiesiogiai paremtas citatos informacija apie leidimo nutrūkimą 1950 m.'
   pagrindžia:
     - c-001
 

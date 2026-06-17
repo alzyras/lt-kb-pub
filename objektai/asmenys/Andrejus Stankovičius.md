@@ -21,6 +21,8 @@ tags:
 - t-001
   global_id: t-87620
   teiginys: 'Andrejus Stankovičius buvo vienas iš Vilniaus namo dokumento liudininkų.'
+  sudarymo_pagrindimas: 'Citata pateikia jį tarp dokumento liudininkų, o pradinis tekstas nėra lietuviškas sakinys.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -47,7 +49,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Namas]]

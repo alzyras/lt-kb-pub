@@ -21,9 +21,11 @@ Vėliau iš šių periferinių sritinių žemių kunigaikščių kilo garsios v�
 - t-001
   global_id: t-20013
   teiginys: 'Sluckiai kilo iš periferinių sritinių žemių kunigaikščių ir tapo viena iš garsių vėlesnių laikų LDK giminių.'
+  sudarymo_pagrindimas: 'Perrašyta, kad sakinys tiesiogiai apibūdintų note objektą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Alšėnų kunigaikščiai|Alšėnų kunigaikščiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Alšėnai; mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/paprociai/Gedimino dinastinė vedybų politika.md#claim-t-05341|Gedimino dinastinė vedybų politika]]: Gediminaičių vedybos ir rusų papročių perėmimas davė pradžią vėlesnėms kunigaikščių giminėms.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -46,13 +48,3 @@ Vėliau iš šių periferinių sritinių žemių kunigaikščių kilo garsios v�
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Alšėnų kunigaikščiai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/paprociai/Gedimino dinastinė vedybų politika]]
-- [[objektai/grupes/Sanguškos]]
-- [[objektai/grupes/Vyšnioveckiai]]
-- [[objektai/grupes/Čartoriskiai]]

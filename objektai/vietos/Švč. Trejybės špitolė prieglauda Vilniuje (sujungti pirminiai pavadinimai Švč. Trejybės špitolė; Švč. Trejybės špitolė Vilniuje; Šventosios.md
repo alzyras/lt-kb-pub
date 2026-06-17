@@ -29,6 +29,8 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
 - t-001
   global_id: t-85973
   teiginys: 'Šventosios Trejybės prieglaudą buvo numatyta plėsti supirkus namelius prie Šventosios Trejybės ir Šv. Dvasios bažnyčių.'
+  sudarymo_pagrindimas: 'Citata palaiko prieglaudos plėtimo faktą, bet pradinis teiginys yra OCR fragmentas.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]'
   pagrindžia:
     - c-001
 
@@ -36,6 +38,7 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
 - t-002
   global_id: t-85974
   teiginys: 'Karalius testamentu pavedė seserims plėsti Švč. Trejybės prieglaudą, supirkinėjant aplinkinius namus.'
+  sudarymo_pagrindimas: 'Citata palaiko prieglaudos plėtimo pavedimą, bet pradinis teiginys nutrūkęs.'
   pagrindžia:
     - c-002
 
@@ -43,6 +46,11 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
 - t-003
   global_id: t-85976
   teiginys: '1545 m. gegužės 4 d. Švč. Trejybės prieglaudos pajamų valdymas buvo patikėtas Vilniaus magistratui.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatinis ir tiksliai perteikia citatos faktą apie prieglaudos pajamas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/globėjas|globėjas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1545 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatinis ir tiksliai perteikia citatos faktą apie prieglaudos pajamas.'
   pagrindžia:
     - c-003
 

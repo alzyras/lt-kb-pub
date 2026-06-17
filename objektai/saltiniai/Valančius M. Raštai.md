@@ -21,6 +21,8 @@ Dusburgietis teigia, kad 570 D,— castrum [...] Sisditen, Jer.— Sirdîten; pi
 - t-001
   global_id: t-61335
   teiginys: '„Valančius M. Raštai“ cituojamas spėjimui, kad Sisditen pilis buvusi Girgždutės piliakalnyje.'
+  sudarymo_pagrindimas: 'Citata sieja leidinį su konkrečiu teiginiu apie Sisditen pilies lokalizaciją.'
+  susije_objektai: 'mentioned_place: Telšiai'
   pagrindžia:
     - c-001
 

@@ -18,6 +18,12 @@ Andrius Vingaudas, Trubčevsko kunigaikštis ir Jogailos brolis, persikėlė per
 - t-001
   global_id: t-185996
   teiginys: 'Andrius Vingaudas, Trubčevsko kunigaikštis ir Jogailos brolis, persikėlė per Dauguvą ir ėmė niokoti lietuvių valdas.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Sakinys aiškus, gramatiškas ir paremtas citata.'
+  susije_objektai: 'territory: Dauguva; territory: Lietuva; territory: Trubčevskas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Dauguva; mentioned_place: Lietuva; mentioned_place: Trubčevskas'
+  semantiniai_rysiai: '[[objektai/asmenys/Andrius Vingaudas|Andrius Vingaudas]] buvo valdovas Dauguva; [[objektai/asmenys/Andrius Vingaudas|Andrius Vingaudas]] buvo valdovas Lietuva; [[objektai/asmenys/Andrius Vingaudas|Andrius Vingaudas]] buvo valdovas Trubčevskas'
   pagrindžia:
     - c-001
 
@@ -25,6 +31,11 @@ Andrius Vingaudas, Trubčevsko kunigaikštis ir Jogailos brolis, persikėlė per
 - t-002
   global_id: t-185997
   teiginys: 'Vytautas per susitikimą rūpinosi Andriaus Vingaudo paleidimu, siekdamas pelnyti Jogailos brolių palankumą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis teiginys sugadintas OCR; citata palaiko aiškų sakinį apie Vytauto veiksmą Andriaus atžvilgiu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Trubčevskas'
   pagrindžia:
     - c-002
 
@@ -32,6 +43,11 @@ Andrius Vingaudas, Trubčevsko kunigaikštis ir Jogailos brolis, persikėlė per
 - t-003
   global_id: t-185998
   teiginys: 'Jogaila pirmaisiais savo viešpatavimo metais įkalino Andrių Vingaudą, kuris buvo linkęs maištauti ir su kryžiuočių pagalba siekė valdžios.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata palaiko faktą apie Andriaus Vingaudo įkalinimą ir jo priežastį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-003
 
@@ -108,9 +124,6 @@ Andrius Vingaudas, Trubčevsko kunigaikštis ir Jogailos brolis, persikėlė per
     - t-003
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Konradas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/zodynas/kunigaikščiai]]
+- Andrius Vingaudas buvo_valdovas [[objektai/vietos/Dauguva]]
+- Andrius Vingaudas buvo_valdovas [[objektai/vietos/Lietuva]]
+- Andrius Vingaudas buvo_valdovas [[objektai/vietos/Trubčevskas]]

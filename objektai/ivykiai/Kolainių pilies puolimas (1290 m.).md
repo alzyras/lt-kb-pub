@@ -46,6 +46,9 @@ Pilis liko nepaimta.
 - t-001
   global_id: t-70947
   teiginys: '1290 m. balandžio 23 d. Meinhardas su 500 raitelių ir 2 tūkst. pėstininkų puolė Kolainių pilį, kurią gynė Surminas su 120 vyrų.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Surminas|Surminas]]; mentioned_place: Kolainiai'
+  temporaliniai_duomenys: 'įvykio data: 1290 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 
@@ -53,6 +56,8 @@ Pilis liko nepaimta.
 - t-002
   global_id: t-70948
   teiginys: 'Kolainių apgula nutrūko, kai sargybos raitelių triukšmo išgąsdinti paprasti kariai pabėgo prie laivų.'
+  sudarymo_pagrindimas: 'Teiginys sutrumpintas ir aiškiai susietas su Kolainių apgula.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/posakiai/prisiekęs dievų galybe|prisiekęs dievų galybe]]; mentioned_person: [[objektai/asmenys/Surminas|Surminas]]; mentioned_place: Kolainiai; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 
@@ -103,11 +108,3 @@ Pilis liko nepaimta.
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/magistras]]
-- [[objektai/asmenys/Surminas]]
-- [[objektai/posakiai/prisiekęs dievų galybe]]
-- [[objektai/daiktai/Laivai]]
-- [[objektai/ivykiai/Kolainių pilies puolimas (1290 m. balandžio 23 d.)]]

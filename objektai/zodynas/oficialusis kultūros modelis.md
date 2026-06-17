@@ -30,6 +30,8 @@ Daukšai rūpi ne kasdienės lietuvių kalbos vartojimas, o būtinybė šia kalb
 - t-001
   global_id: t-70254
   teiginys: 'LDK oficialiajame kultūros modelyje lietuvių kalbą iš pradžių lenkė rusėnų, o vėliau lenkų kalba.'
+  sudarymo_pagrindimas: 'Pašalinta kontekstinė pradžia ir suformuluotas glaustas faktinis sakinys apie objektą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]'
   pagrindžia:
     - c-001
 
@@ -37,6 +39,14 @@ Daukšai rūpi ne kasdienės lietuvių kalbos vartojimas, o būtinybė šia kalb
 - t-002
   global_id: t-183448
   teiginys: 'Mikalojui Daukšai rūpėjo ne kasdienis lietuvių kalbos vartojimas, o oficialiojo kultūros modelio kūrimas lietuvių kalba.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Reikia aiškiai įvardyti asmenį ir sugramatinti formuluotę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1595 m.; įvykio data: 1599 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia aiškiai įvardyti asmenį ir sugramatinti formuluotę.'
   pagrindžia:
     - c-002
 
@@ -77,13 +87,3 @@ Daukšai rūpi ne kasdienės lietuvių kalbos vartojimas, o būtinybė šia kalb
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Rusėnai]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/zodynas/integracinė kalba polonizacija]]
-- [[objektai/zodynas/oficialusis kultūros modelis lietuviakalbė programa]]
-- [[objektai/zodynas/polonizacija integracinė kalba]]
-- [[objektai/posakiai/„Kurgi, sakau, pasaulyje yra tauta...“]]

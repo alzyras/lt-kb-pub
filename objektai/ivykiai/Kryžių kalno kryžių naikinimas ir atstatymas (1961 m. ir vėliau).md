@@ -22,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-Kryžių kalnas, 1993 m. aplankytas popiežiaus Jono Pauliaus II, tapo kovos už tikėjimo laisvę simboliu ir buvo pramintas lietuviška Golgota. Valdžiai draudžiant statyti kryžius, 1961 m. Kryžių kalne buvo sunaikinti 2 179 kryžiai, bet žmonės naktimis statė vis daugiau naujų kryžių.
+Priklausomybės dešimtmečiais ypač atsiskleidė kryžiaus, kaip stiprybės ir vilties šaltinio, prasmė.
 
 ## Laikotarpis ir datos
 
@@ -46,6 +46,11 @@ Nenurodyta
 - t-001
   global_id: t-20233
   teiginys: 'Kryžių kalnas, 1993 m. aplankytas popiežiaus Jono Pauliaus II, tapo kovos už tikėjimo laisvę simboliu ir buvo pramintas lietuviška Golgota.'
+  sudarymo_pagrindimas: 'Citata remia tikslesnį sakinį, kuriame įvardyta simbolinė reikšmė.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/posakiai/lietuviška Golgota|lietuviška Golgota]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Kryžių kalnas; mentioned_place: Šiauliai'
+  temporaliniai_duomenys: 'įvykio data: 1961 m.; įvykio data: 1993 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata remia tikslesnį sakinį, kuriame įvardyta simbolinė reikšmė.'
   pagrindžia:
     - c-001
 
@@ -53,6 +58,14 @@ Nenurodyta
 - t-002
   global_id: t-183229
   teiginys: 'Valdžiai draudžiant statyti kryžius, 1961 m. Kryžių kalne buvo sunaikinti 2 179 kryžiai, bet žmonės naktimis statė vis daugiau naujų kryžių.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir tiesiogiai paremtas citata apie naikinimą ir atstatymą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/posakiai/lietuviška Golgota|lietuviška Golgota]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Kryžių kalnas; mentioned_place: Šiauliai'
+  temporaliniai_duomenys: 'įvykio data: 1961 m.; įvykio data: 1993 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, aiškus ir tiesiogiai paremtas citata apie naikinimą ir atstatymą.'
   pagrindžia:
     - c-001
 
@@ -77,10 +90,3 @@ Nenurodyta
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Jonas]]
-- [[objektai/daiktai/Kryžius]]
-- [[objektai/posakiai/lietuviška Golgota]]
-- [[objektai/daiktai/Kryžių kalno kryžiai]]

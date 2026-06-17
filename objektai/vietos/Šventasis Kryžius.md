@@ -18,7 +18,7 @@ amziai:
 
 ## Santrauka
 
-Šventasis Kryžius yra 593 m aukščio viršūnė prie Opatovo. Šventajame Kryžiuje XII a. buvo įkurtas benediktinų vienuolynas ir bažnyčia. Šventasis Kryžius yra 593 m aukščio Lysa Gora viršūnė Lenkijos Kielcų vaivadijos Šventojo Kryžiaus kalnuose.
+J. Dlugošo pasakojime Sandomiro kraštas niokojamas iki Šventojo Kryžiaus vienuolyno. Šventasis Kryžius yra 593 m aukščio viršūnė prie Opatovo.
 
 ## Teiginiai
 
@@ -26,6 +26,12 @@ amziai:
 - t-001
   global_id: t-187410
   teiginys: 'Šventasis Kryžius yra 593 m aukščio viršūnė prie Opatovo.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Sakinys yra aiškus faktinis teiginys apie vietą ir paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_place: Lenkija; mentioned_place: Opatovas'
+  temporaliniai_duomenys: 'įvykio data: 593 m'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Sakinys yra aiškus faktinis teiginys apie vietą ir paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -33,6 +39,12 @@ amziai:
 - t-002
   global_id: t-187411
   teiginys: 'Šventajame Kryžiuje XII a. buvo įkurtas benediktinų vienuolynas ir bažnyčia.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Sakinys pilnas, konkretus ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_place: Lenkija'
+  temporaliniai_duomenys: 'įvykio data: 593 m'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Sakinys pilnas, konkretus ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -40,6 +52,14 @@ amziai:
 - t-003
   global_id: t-187693
   teiginys: 'Šventasis Kryžius yra 593 m aukščio Lysa Gora viršūnė Lenkijos Kielcų vaivadijos Šventojo Kryžiaus kalnuose.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys tiksliai apibūdina Šventojo Kryžiaus viršūnę pagal citatos geografinius duomenis. Relikvijos ir tariamo stebuklingumo motyvas neįtrauktas.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_place: Lenkija'
+  temporaliniai_duomenys: 'įvykio data: 593 m'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys tiksliai apibūdina Šventojo Kryžiaus viršūnę pagal citatos geografinius duomenis. Relikvijos ir tariamo stebuklingumo motyvas neįtrauktas.'
   pagrindžia:
     - c-001
 

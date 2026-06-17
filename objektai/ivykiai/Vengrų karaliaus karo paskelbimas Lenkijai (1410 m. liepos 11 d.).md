@@ -45,6 +45,9 @@ Nenurodyta
 - t-001
   global_id: t-35893
   teiginys: '1410 m. liepos 11 d. sąjungininkams sustojus prie Soldau, Vengrijos pasiuntinys įteikė Jogailai raštą, kuriuo Vengrijos karalius skelbė Lenkijai karą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Lautenburgas; mentioned_place: Lenkija; mentioned_place: Soldau; mentioned_place: Vengrija'
+  temporaliniai_duomenys: 'įvykio data: 1410 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 
@@ -52,6 +55,7 @@ Nenurodyta
 - t-002
   global_id: t-35894
   teiginys: 'Vengrijos pasiuntinys Jogailai pranešė, kad vengrai neketina kariauti ir karo paskelbimu siekia iš Ordino gauti daugiau pinigų.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_place: Vengrija'
   pagrindžia:
     - c-001
 
@@ -83,8 +87,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Vengrai]]
-- [[objektai/zodynas/magistras]]

@@ -46,6 +46,11 @@ Nenurodyta
 - t-001
   global_id: t-77925
   teiginys: 'J. Bulhako nuotraukos antraštė Vilnių vadina 1916 m. lietuvių ir lenkų disputo epicentru.'
+  sudarymo_pagrindimas: 'Pradinis teiginys sugadintas OCR intarpu, bet citata paremia aiškią formuluotę apie nuotraukos antraštę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Rytų Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1916 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys sugadintas OCR intarpu, bet citata paremia aiškią formuluotę apie nuotraukos antraštę.'
   pagrindžia:
     - c-001
 
@@ -70,8 +75,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]

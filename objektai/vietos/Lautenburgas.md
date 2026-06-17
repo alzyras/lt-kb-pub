@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Liepos 11 d. sąjungininkai ėmė trauktis Lautenburgo ir Soldau link.
+Po to, sąjun­ gininkai ėmė trauktis atgal (liepos 11 d.) Lautenburgo Soldau link.
 
 ## Teiginiai
 
@@ -20,9 +20,13 @@ Liepos 11 d. sąjungininkai ėmė trauktis Lautenburgo ir Soldau link.
 - t-001
   global_id: t-95917
   teiginys: 'Liepos 11 d. sąjungininkai ėmė trauktis Lautenburgo ir Soldau link.'
+  sudarymo_pagrindimas: 'Citata nepateikia metų, todėl teiginys sutrumpintas iki tiesiogiai paremtos datos ir krypties.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Soldau'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/ivykiai/Vengrų karaliaus karo paskelbimas Lenkijai (1410 m. liepos 11 d.).md#claim-t-35893|Vengrų karaliaus karo paskelbimas Lenkijai (1410 m. liepos 11 d.)]]: 1410 m. liepos 11 d. sąjungininkams sustojus prie Soldau, Vengrijos pasiuntinys įteikė Jogailai raštą, kuriuo Vengrijos karalius skelbė Lenkijai karą.
+- susijęs iš Hohendorfas: Hohendorfe prie Soldau sustojusiems sąjungininkams Vengrijos pasiuntinys įteikė Jogailai raštą, kuriuo Vengrijos karalius skelbė Lenkijai karą.
+- susijęs iš Soldau: Liepos 11 d. sąjungininkai ėmė trauktis Lautenburgo ir Soldau link.
 ## Reikšmingi paminėjimai
 
 - c-001

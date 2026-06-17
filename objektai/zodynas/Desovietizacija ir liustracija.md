@@ -3,10 +3,17 @@ tipas: zodyno_irasas
 pavadinimas: 'Desovietizacija ir liustracija'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1940 m.'
+  - '1990 m.'
+date_start: '1940'
+date_end: '1990'
 sukurta: ''
 atnaujinta: ''
 tags:
   - sąvoka
+amziai:
+  - 'XX'
 ---
 # Desovietizacija ir liustracija
 
@@ -20,6 +27,11 @@ Visuomenėje virė diskusijos dėl tų, kurie uoliai talkino naciams ir sovietam
 - t-001
   global_id: t-21988
   teiginys: 'Atkūrus nepriklausomybę desovietizacijos ir liustracijos klausimai Lietuvoje buvo sprendžiami lėtai.'
+  sudarymo_pagrindimas: 'Citata pagrindžia lėtą klausimų sprendimą, o pradinis sakinys pernelyg apkrautas šalutinėmis temomis.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/posakiai/atėjus okupantui nepulk jam padėti, netarnauk, nekolaboruok|atėjus okupantui nepulk jam padėti, netarnauk, nekolaboruok]]; mentioned_place: Lietuva; mentioned_place: Sibiras'
+  temporaliniai_duomenys: 'įvykio data: 1940-1990; įvykio data: 1990 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia lėtą klausimų sprendimą, o pradinis sakinys pernelyg apkrautas šalutinėmis temomis.'
   pagrindžia:
     - c-001
 
@@ -46,8 +58,3 @@ Visuomenėje virė diskusijos dėl tų, kurie uoliai talkino naciams ir sovietam
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/posakiai/atėjus okupantui nepulk jam padėti, netarnauk, nekolaboruok]]

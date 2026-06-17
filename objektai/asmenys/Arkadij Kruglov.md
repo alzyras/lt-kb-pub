@@ -20,6 +20,8 @@ Ją paleido prie durų stovėjęs Prienų NKGB tardytojas Kruglov Arkadij. Krugl
 - t-001
   global_id: t-39347
   teiginys: 'Prienų NKGB tardytojas Arkadijus Kruglovas prie durų paleido automato seriją.'
+  sudarymo_pagrindimas: 'Citata pagrindžia Kruglovo pareigas ir veiksmą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/NKGB|NKGB]]; mentioned_person: [[objektai/asmenys/Tigras|Tigras]]; mentioned_place: Prienai'
   pagrindžia:
     - c-001
 
@@ -27,6 +29,8 @@ Ją paleido prie durų stovėjęs Prienų NKGB tardytojas Kruglov Arkadij. Krugl
 - t-002
   global_id: t-39348
   teiginys: 'Kapitoną Arkadijų Kruglovą Tigras nukovė pirmaisiais šūviais.'
+  sudarymo_pagrindimas: 'Reikia išplėsti asmens vardą ir sutvarkyti sakinio formą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/NKGB|NKGB]]; mentioned_person: [[objektai/asmenys/Marcinkevičius|Marcinkevičius]]; mentioned_person: [[objektai/asmenys/Tigras|Tigras]]; mentioned_place: Viena'
   pagrindžia:
     - c-002
 
@@ -34,6 +38,11 @@ Ją paleido prie durų stovėjęs Prienų NKGB tardytojas Kruglov Arkadij. Krugl
 - t-003
   global_id: t-183730
   teiginys: 'Prie durų stovėjęs Prienų NKGB tardytojas Arkadijus Kruglovas paleido automato seriją.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis teiginys turi neaiškų įvardį ir netaisyklingą vardo formą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/NKGB|NKGB]]; mentioned_place: Prienai'
   pagrindžia:
     - c-003
 
@@ -76,7 +85,3 @@ Ją paleido prie durų stovėjęs Prienų NKGB tardytojas Kruglov Arkadij. Krugl
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/NKGB]]

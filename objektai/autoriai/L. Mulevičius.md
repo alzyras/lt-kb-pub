@@ -4,14 +4,16 @@ pavadinimas: 'L. Mulevičius'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
-  - '1905 m.'
-date_start: '1905'
-date_end: ''
+  - '1861 m.'
+  - '1965 m.'
+date_start: '1861'
+date_end: '1965'
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
 amziai:
+  - 'XIX'
   - 'XX'
 periodo_grupes:
   - 'naujieji laikai'
@@ -28,9 +30,16 @@ Mulevičius 120.
 - t-001
   global_id: t-30781
   teiginys: 'L. Mulevičius rašė apie to laiko žemėvaldos klausimus.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Antspaudai|Antspaudai]]; mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_person: [[objektai/autoriai/E. Griškūnaitė|E. Griškūnaitė]]; mentioned_person: [[objektai/autoriai/O. Maksimaitienė|O. Maksimaitienė]]; mentioned_person: [[objektai/autoriai/V. Černeckis|V. Černeckis]]; mentioned_place: Augustavas; mentioned_place: Baltarusija; mentioned_place: Kaunas; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1861-1913; įvykio data: 1863 m.; įvykio data: apie 1863 m.; įvykio data: 1905 m.; įvykio data: 1913 m.; įvykio data: 1965 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/autoriai/A. Tyla.md#claim-t-30546|A. Tyla]]: A. Tyla svarstė 1905 m. revoliucijos klausimus ir teikė pastabų dėl lietuviškos knygos istorijos.
+- susijęs iš [[objektai/autoriai/E. Griškūnaitė.md#claim-t-30592|E. Griškūnaitė]]: E. Griškūnaitė rašė apie 1905 m. sukilimą Lietuvoje.
+- susijęs iš [[objektai/autoriai/Lietuvos istorikai ir socialinės istorijos tyrėjai.md#claim-t-179544|Lietuvos istorikai ir socialinės istorijos tyrėjai]]: P. Girdzijauskienė parašė veikalą „1905-1907 metų revoliucija Lietuvoje“.
+- susijęs iš [[objektai/autoriai/O. Maksimaitienė.md#claim-t-30883|O. Maksimaitienė]]: O. Maksimaitienė pateikė duomenų apie 1863 m. sukilėlių kovinius veiksmus Augustavo gubernijoje ir jų antspaudus.
+- susijęs iš [[objektai/autoriai/P. Girdzijauskienė.md#claim-t-30898|P. Girdzijauskienė]]: P. Girdzijauskienė 1955 m. paskelbė darbą „1905-1907 metų revoliucija Lietuvoje“.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -53,8 +62,3 @@ Mulevičius 120.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Antspaudai]]
-- [[objektai/zodynas/gubernija]]

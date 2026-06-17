@@ -18,6 +18,11 @@ Kernavėje rūmų maršalas ragino Giliginą ir Trobį siekti tokios pat santarv
 - t-001
   global_id: t-185477
   teiginys: 'Kernavėje rūmų maršalas ragino Giliginą ir Trobį siekti tokios pat santarvės bei šlovės karo ir taikos metu.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys ir tiksliai perteikia citatos informaciją.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Germantas|Germantas]]; mentioned_person: [[objektai/asmenys/Giliginas|Giliginas]]; mentioned_person: [[objektai/asmenys/Trobius|Trobius]]; mentioned_place: Kernavė; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Žemaitija'
   pagrindžia:
     - c-001
 
@@ -45,12 +50,3 @@ Kernavėje rūmų maršalas ragino Giliginą ir Trobį siekti tokios pat santarv
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Germantas]]
-- [[objektai/asmenys/Giliginas]]
-- [[objektai/daiktai/Kalavijas]]
-- [[objektai/asmenys/Trobius]]
-- [[objektai/zodynas/maršalas]]
-- [[objektai/paprociai/Valdovo vainikavimo paprotys įteikiant kalaviją ir lazdą]]

@@ -20,6 +20,8 @@ Gavusi Maskvos palaiminimą Lietuvos valdžia, matydama, kad sąjunginio pavaldu
 - t-001
   global_id: t-20871
   teiginys: 'Lietuva vadinta „Sovietų Sąjungos ferma“, nes daug investicijų buvo nukreipta į žemės ūkį ir maisto pramonę.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai paaiškina posakio vartojimo pagrindą.'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Maskva'
   pagrindžia:
     - c-001
 

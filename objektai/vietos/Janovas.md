@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Liepos 22 d. Janove buvęs A. Byševskis gavo nurodymą neleisti Rusijos kariuomenei persikelti per Bugą šiauriau.
+Byševskis jau buvo Janove, jis gavo Karo tarybos prie karaliaus nurodymą vykti ne į Lietuvos Brastą, o neleisti Rusijos kariuomenei persikelti per Bugą šiauriau, nors ten tokio pavojaus nebuvo.
 
 ## Teiginiai
 
@@ -21,6 +21,8 @@ Liepos 22 d. Janove buvęs A. Byševskis gavo nurodymą neleisti Rusijos kariuom
 - t-001
   global_id: t-41741
   teiginys: 'Liepos 22 d. Janove buvęs A. Byševskis gavo nurodymą neleisti Rusijos kariuomenei persikelti per Bugą šiauriau.'
+  sudarymo_pagrindimas: 'Reikia išplėsti inicialą ir pašalinti sakinio neapibrėžtumą.'
+  susije_objektai: 'mentioned_place: Brasta; mentioned_place: Lietuva; mentioned_place: Rusija'
   pagrindžia:
     - c-001
 

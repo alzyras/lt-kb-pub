@@ -3,10 +3,6 @@ tipas: autorius
 pavadinimas: 'Justinas Marcinkevičius'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-aliases:
-  - 'objektai/asmenys/Justinas Marcinkevičius'
-variantai:
-  - 'Justinas Marcinkevičius'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -25,6 +21,9 @@ Kadangi iniciatyvinę grupę sudarė visoje šalyje žinomi inteligentai ir jų 
 - t-001
   global_id: t-63307
   teiginys: 'Justinas Marcinkevičius buvo tarp garsių visuomenės veikėjų, parėmusių LPS iniciatyvinės grupės tautinio atgimimo idėjas.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys aiškiai sieja Justiną Marcinkevičių su citatoje minima parama.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/tautinis atgimimas|tautinis atgimimas]]; mentioned_person: [[objektai/asmenys/Marcinkevičius|Marcinkevičius]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -50,7 +49,3 @@ Kadangi iniciatyvinę grupę sudarė visoje šalyje žinomi inteligentai ir jų 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/tautinis atgimimas]]

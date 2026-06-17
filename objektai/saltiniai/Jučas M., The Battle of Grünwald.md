@@ -28,6 +28,11 @@ The Battle of Grünwald: in commemoration of the 600th anniversary of the Battle
 - t-001
   global_id: t-78148
   teiginys: 'Mečislovo Jučo knyga „The Battle of Grünwald“ 2009 m. Vilniuje išleista minint 1410 m. Žalgirio mūšio 600-ąsias metines.'
+  sudarymo_pagrindimas: 'Pradinis teiginys yra bibliografinis fragmentas anglų kalba, todėl perrašytas į pilną lietuvišką sakinį.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1410 m.; įvykio data: 2009 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys yra bibliografinis fragmentas anglų kalba, todėl perrašytas į pilną lietuvišką sakinį.'
   pagrindžia:
     - c-001
 

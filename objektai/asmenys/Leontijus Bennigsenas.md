@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Gen. mjr. Leontijus Bennigsenas trimis kavalerijos pulkais ir kazokų pulko parama atakavo M. Frankovskio vadovaujamus lietuvių įtvirtinimus.
+Leontijus Benningsenas. Leontijus Bennigsenas trimis kavalerijos pulkais, remiamas kazokų pulko, atakavo gen.
 
 ## Teiginiai
 
@@ -20,9 +20,13 @@ Gen. mjr. Leontijus Bennigsenas trimis kavalerijos pulkais ir kazokų pulko para
 - t-001
   global_id: t-40305
   teiginys: 'Gen. mjr. Leontijus Bennigsenas trimis kavalerijos pulkais ir kazokų pulko parama atakavo M. Frankovskio vadovaujamus lietuvių įtvirtinimus.'
+  sudarymo_pagrindimas: 'Reikia sutrumpinti ir išlaikyti aiškią faktinę formą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Pogulianka'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/M. Frankovskis.md#claim-t-39778|M. Frankovskis]]: Gen. mjr. M. Frankovskis vadovavo lietuvių įtvirtinimams tarp Naujininkų, Šv. Stepono bažnyčios ir Poguliankos.
+- susijęs iš Naujininkai: Leontijaus Bennigseno kavalerija atakavo lietuvių įtvirtinimus tarp Naujininkų, Šv. Stepono bažnyčios ir Poguliankos rajonų.
+- susijęs iš Pogulianka: Leontijus Bennigsenas su kavalerijos ir kazokų pajėgomis puolė lietuvių įtvirtinimus ties Pogulianka.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -40,8 +44,3 @@ Gen. mjr. Leontijus Bennigsenas trimis kavalerijos pulkais ir kazokų pulko para
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kazokai]]
-- [[objektai/grupes/Lietuviai]]

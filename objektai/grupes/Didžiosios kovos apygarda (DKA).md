@@ -27,6 +27,7 @@ Rugsėjį savo junginį jis pavadino Didžiosios kovos rinktine. Visų partizan�
 - t-001
   global_id: t-40874
   teiginys: 'Junginys, rugsėjį pavadintas Didžiosios kovos rinktine, vėliau tapo Didžiosios kovos apygarda.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Trakai; mentioned_place: Trakų apskritis; mentioned_place: Ukmergė'
   pagrindžia:
     - c-002
 
@@ -34,6 +35,11 @@ Rugsėjį savo junginį jis pavadino Didžiosios kovos rinktine. Visų partizan�
 - t-002
   global_id: t-40875
   teiginys: '1946 m. Žaliam Velniui patekus į Juozo Markulio-Erelio pinkles, beveik visa Didžiosios kovos apygarda buvo sunaikinta.'
+  sudarymo_pagrindimas: 'Išplėstas trumpinys, kad sakinys aiškiai įvardytų objektą.'
+  susije_objektai: 'mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1946 m.; įvykio data: 1947 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Išplėstas trumpinys, kad sakinys aiškiai įvardytų objektą.'
   pagrindžia:
     - c-001
 
@@ -68,7 +74,3 @@ Rugsėjį savo junginį jis pavadino Didžiosios kovos rinktine. Visų partizan�
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

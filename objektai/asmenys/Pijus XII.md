@@ -3,12 +3,20 @@ tipas: asmuo
 pavadinimas: 'Pijus XII'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1947 m.'
+date_start: '1947'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - dokumentas
   - popiežius
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'XX a.'
 ---
 # Pijus XII
 
@@ -22,6 +30,11 @@ tags:
 - t-001
   global_id: t-19194
   teiginys: 'Popiežiui Pijui XII buvo skirtas 1947 m. pabaigoje į laisvąjį pasaulį nugabentas partizanų vadovybės laiškas.'
+  sudarymo_pagrindimas: 'Perrašyta taip, kad sakinys tiesiogiai sietų faktą su Pijumi XII.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Juozas Lukša-Skirmantas|Juozas Lukša-Skirmantas]]; mentioned_person: [[objektai/asmenys/Kazimieras Pyplys-Mažytis|Kazimieras Pyplys-Mažytis]]; mentioned_place: Lietuva; mentioned_place: SSRS'
+  temporaliniai_duomenys: 'įvykio data: 1947 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Perrašyta taip, kad sakinys tiesiogiai sietų faktą su Pijumi XII.'
   pagrindžia:
     - c-001
 
@@ -47,9 +60,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuvos partizanai]]
-- [[objektai/ivykiai/Partizanų dokumentų nugabenimas į laisvąjį pasaulį (1947 m. pabaiga)]]
-- [[objektai/zodynas/geležinė uždanga]]

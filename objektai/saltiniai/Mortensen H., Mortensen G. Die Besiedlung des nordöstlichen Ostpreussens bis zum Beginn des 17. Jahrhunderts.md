@@ -5,6 +5,7 @@ saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1293 m.'
+  - '1915 m.'
   - '1938 m.'
 date_start: '1293'
 date_end: '1938'
@@ -30,6 +31,7 @@ Dusburgietis teigia, kad 34, p. 107; Mortensen H., Mortensen G., Die Besiedlung.
 - t-001
   global_id: t-175164
   teiginys: 'Bebirvaitės pilis lokalizuojama prie Bebirvos upelio ir Bebirvų kaimo, netoli Raseinių–Šilinės kelio.'
+  sudarymo_pagrindimas: 'Citata remia lokalizaciją, pradinė formuluotė yra tik fragmentas su bibliografija.'
   pagrindžia:
     - c-005
 
@@ -37,6 +39,11 @@ Dusburgietis teigia, kad 34, p. 107; Mortensen H., Mortensen G., Die Besiedlung.
 - t-002
   global_id: t-175165
   teiginys: 'Skronaitę bandyta tapatinti su Skeršpile prie Mituvos aukštupio, bet dabartiniuose Skeršpyliuose piliakalnio pėdsakų nerasta.'
+  sudarymo_pagrindimas: 'Citata remia ir tapatinimą, ir jo ribotumą; pradinis teiginys nutrūkęs.'
+  susije_objektai: 'mentioned_place: Jurbarkas; mentioned_place: Lietuva; mentioned_place: Mituva'
+  temporaliniai_duomenys: 'įvykio data: 1915 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata remia ir tapatinimą, ir jo ribotumą; pradinis teiginys nutrūkęs.'
   pagrindžia:
     - c-001
 
@@ -44,6 +51,8 @@ Dusburgietis teigia, kad 34, p. 107; Mortensen H., Mortensen G., Die Besiedlung.
 - t-003
   global_id: t-175166
   teiginys: 'H. ir G. Mortensenų veikalas nurodomas kaip darbas, kuriame Pagraudės ieškota labiau į rytus.'
+  sudarymo_pagrindimas: 'Citata tiesiogiai pagrindžia šaltinio ryšį su Pagraudės lokalizacija.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Gedimino pilis; mentioned_place: Pagraudė'
   pagrindžia:
     - c-003
 
@@ -51,6 +60,10 @@ Dusburgietis teigia, kad 34, p. 107; Mortensen H., Mortensen G., Die Besiedlung.
 - t-004
   global_id: t-175167
   teiginys: 'H. Mortenseno ir G. Mortenseno „Die Besiedlung des nordöstlichen Ostpreussens bis zum Beginn des 17. Jahrhunderts“ išleista dviem dalimis 1937 ir 1938 m.'
+  sudarymo_pagrindimas: 'Citata pateikia autorius, pavadinimą, dalių skaičių ir leidimo metus.'
+  temporaliniai_duomenys: 'įvykio data: 1938 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pateikia autorius, pavadinimą, dalių skaičių ir leidimo metus.'
   pagrindžia:
     - c-004
 
@@ -58,6 +71,8 @@ Dusburgietis teigia, kad 34, p. 107; Mortensen H., Mortensen G., Die Besiedlung.
 - t-005
   global_id: t-175169
   teiginys: 'H. ir G. Mortensenų veikalas minimas tarp darbų, kuriuose Kolainių pilies ieškota toliau į rytus už Bisenės.'
+  sudarymo_pagrindimas: 'Citata sieja šaltinį su Kolainių lokalizacijos aiškinimu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalnėnai|Kalnėnai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Bisenė; mentioned_place: Jurbarkas; mentioned_place: Kolainiai; mentioned_place: Kolainių pilis; mentioned_place: Mituva; mentioned_place: Nemunas; mentioned_place: Ragainė'
   pagrindžia:
     - c-002
 

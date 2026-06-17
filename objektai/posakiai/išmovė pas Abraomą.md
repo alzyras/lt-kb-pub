@@ -20,6 +20,7 @@ Jie arba išmovė pas Abraomą, arba išbaigė šovinius.
 - t-001
   global_id: t-39044
   teiginys: 'Bolševikų ugniai nutilus, pasakotojas svarstė, kad jie arba išmovė pas Abraomą, arba išbaigė šovinius.'
+  sudarymo_pagrindimas: 'Pirminis teiginys be konteksto neaiškus, o citata pagrindžia, kas ir kokiomis aplinkybėmis pasakyta.'
   pagrindžia:
     - c-001
 

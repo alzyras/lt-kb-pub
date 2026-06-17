@@ -26,6 +26,11 @@ Uršulė ir Mauricijus, ignoti cognominis [nežinoma pavardė], iš magistrato u
 - t-001
   global_id: t-86220
   teiginys: '1632 m. Uršulė ir Mauricijus už 4750 auksinų nupirko Parulio mūrą iš magistrato ir perdavė jį Akademijos kolegijai.'
+  sudarymo_pagrindimas: 'Teiginys yra išsamus ir tiesiogiai paremtas citata apie Parulio mūro pirkimą bei perdavimą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mauricijus|Mauricijus]]; mentioned_person: [[objektai/asmenys/Parulis|Parulis]]; mentioned_person: [[objektai/asmenys/Uršulė|Uršulė]]'
+  temporaliniai_duomenys: 'įvykio data: 1632 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra išsamus ir tiesiogiai paremtas citata apie Parulio mūro pirkimą bei perdavimą.'
   pagrindžia:
     - c-001
 

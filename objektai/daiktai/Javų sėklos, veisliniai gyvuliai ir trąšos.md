@@ -18,7 +18,7 @@ amziai:
 
 ## Santrauka
 
-Valstybė lengvatinėmis sąlygomis aprūpindavo ūkininkus geresnėmis javų sėklomis ir veisliniais gyvuliais. Žemės ūkyje pradėjus naudoti organines ir mineralines trąšas, javų derlingumas padidėjo nuo 9 cnt prieš karą iki 12 cnt ketvirtajame dešimtmetyje.
+Javų sėklos, veisliniai gyvuliai ir trąšos minimi kaip materialūs žemės ūkio modernizacijos ištekliai. Valstybė lengvatinėmis sąlygomis aprūpindavo ūkininkus sėklomis ir gyvuliais, o trąšų naudojimas siejamas su javų derlingumo pagerėjimu.
 
 ## Pavadinimai šaltiniuose
 
@@ -55,6 +55,7 @@ Nenurodyta
 - t-001
   global_id: t-23286
   teiginys: 'Valstybė lengvatinėmis sąlygomis aprūpindavo ūkininkus geresnėmis javų sėklomis ir veisliniais gyvuliais.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatinis ir paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -62,6 +63,7 @@ Nenurodyta
 - t-002
   global_id: t-23287
   teiginys: 'Žemės ūkyje pradėjus naudoti organines ir mineralines trąšas, javų derlingumas padidėjo nuo 9 cnt prieš karą iki 12 cnt ketvirtajame dešimtmetyje.'
+  sudarymo_pagrindimas: 'Citata leidžia patikslinti derlingumo pokyčio mastą.'
   pagrindžia:
     - c-001
 
@@ -88,10 +90,3 @@ Nenurodyta
 ## Šaltiniai ir įrodymai
 
 Nenurodyta
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/ūkio-įrankis]]
-
-### Susiję objektai
-- [[objektai/daiktai/Pieno perdirbimo įranga ir šaldytuvai]]

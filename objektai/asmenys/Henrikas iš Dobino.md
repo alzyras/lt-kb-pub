@@ -30,6 +30,8 @@ Dusburgietis teigia, kad beveik 14 dienų žygiavęs per šią žemę nuo vieno 
 - t-001
   global_id: t-60134
   teiginys: 'Henrikas iš Dobino su būriu ginklanešių nukovė 80 lietuvių, kai lietuvių kariuomenė traukėsi iš Sembos žemės.'
+  sudarymo_pagrindimas: 'Pašalinta perteklinė aplinkybė ir šaltinio formuluotė; citata palaiko konkretų veiksmą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Semba'
   pagrindžia:
     - c-002
 
@@ -37,9 +39,21 @@ Dusburgietis teigia, kad beveik 14 dienų žygiavęs per šią žemę nuo vieno 
 - t-002
   global_id: t-60135
   teiginys: '1300 m. Henrikas iš Dobino su kitais broliais ir 200 vyrų įsiveržė į Aukaimio pilies apylinkes ir sudegino šešis kaimus.'
+  sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir su antraštės triukšmu; citata palaiko glaustą faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Aukaimis; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1300 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys per ilgas ir su antraštės triukšmu; citata palaiko glaustą faktą.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179336|Lietuviai]]: Lietuvių karalius su 8 tūkstančiais raitelių įsiveržė į Sembą ir sudegino visus pastatus bei pasėlius.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-183886|Lietuviai]]: Lietuvių karalius su 8 tūkstančiais raitelių įsiveržė į Sembą ir sudegino visus pastatus bei pasėlius.
+- susijęs iš [[objektai/ivykiai/1289 m. rudens Sembos žemės nusiaubimas.md#claim-t-183909|1289 m. rudens Sembos žemės nusiaubimas]]: 1289 m. rudenį lietuvių kariuomenė beveik 14 dienų žygiavo per Sembą nuo vieno pasienio iki kito ir atsitraukdama patyrė sunkių nuostolių.
+- susijęs iš [[objektai/ivykiai/1289 m. rudens Sembos žemės nusiaubimas.md#claim-t-62188|1289 m. rudens Sembos žemės nusiaubimas]]: 1289 m. rudenį lietuvių karalius su 8000 raitelių įsiveržė į Sembą, sudegino pastatus ir pasėlius, bet išsigabeno palyginti nedaug grobio.
+- susijęs iš [[objektai/ivykiai/Aukaimio pilies apylinkių nusiaubimas (1300 m.).md#claim-t-183913|Aukaimio pilies apylinkių nusiaubimas (1300 m.)]]: Po Aukaimio apylinkių nusiaubimo lietuviai besitraukiančius brolius kelis kartus smarkiai puolė, todėl abi šalys patyrė sužeistųjų.
+- susijęs iš [[objektai/ivykiai/Aukaimio pilies apylinkių nusiaubimas (1300 m.).md#claim-t-62199|Aukaimio pilies apylinkių nusiaubimas (1300 m.)]]: 1300 m. brolis Henrikas iš Dobino su kitais broliais ir 200 vyrų įsiveržė į Aukaimio pilies apylinkes ir sudegino šešis kaimus.
+- susijęs iš Aukaimio pilis (pilis): 1300 m. Henrikas iš Dobino su kitais broliais ir 200 vyrų įsiveržė į Aukaimio pilies apylinkes ir sudegino šešis kaimus.
+- susijęs iš Semba: Lietuvių karalius su aštuoniais tūkstančiais raitelių įsibrovė į Sembą ir sudegino pastatus bei pasėlius.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -88,9 +102,4 @@ Dusburgietis teigia, kad beveik 14 dienų žygiavęs per šią žemę nuo vieno 
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/Henrikas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/ginklanešiai]]
-- [[objektai/ivykiai/1289 m. rudens Sembos žemės nusiaubimas]]
-- [[objektai/ivykiai/Aukaimio pilies apylinkių nusiaubimas (1300 m.)]]
+- Henrikas iš Dobino buvo_valdovas [[objektai/vietos/Semba]]

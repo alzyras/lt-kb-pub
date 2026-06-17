@@ -3,18 +3,26 @@ tipas: asmuo
 pavadinimas: 'Juozas Tumas-Vaižgantas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1896 m.'
+date_start: '1896'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - kunigas
   - tauta
+amziai:
+  - 'XIX'
+periodo_grupes:
+  - 'naujieji laikai'
 ---
 # Juozas Tumas-Vaižgantas
 
 ## Santrauka
 
-Juozas Tumas-Vaižgantas tarpukariu minėtas kaip vienas lietuvių literatūros klasikų, dar vaikščiojusių Kauno gatvėmis. Jaunas kunigas Juozas Tumas-Vaižgantas buvo svarbiausias nuo 1896 m. leisto katalikiško laikraščio „Tėvynės sargas“ veikėjas.
+Populiariausiu tapo nuo 1896 m. leistas „Tėvynės sargas“, kurio spiritus movens buvo tuomet jaunas kunigas Juozas Tumas (Vaižgantas), vėliau garsus rašytojas, tolerancijos ir geranoriškumo įsikūnijimas. Jauna ir dar niekuo neimponuojanti lietuvių kultūra (literatūros klasikai Maironis, Vaižgantas, V.
 
 ## Teiginiai
 
@@ -22,6 +30,8 @@ Juozas Tumas-Vaižgantas tarpukariu minėtas kaip vienas lietuvių literatūros 
 - t-001
   global_id: t-63766
   teiginys: 'Juozas Tumas-Vaižgantas tarpukariu minėtas kaip vienas lietuvių literatūros klasikų, dar vaikščiojusių Kauno gatvėmis.'
+  sudarymo_pagrindimas: 'Pirminis teiginys buvo fragmentas; citata palaiko Vaižganto įvardijimą literatūros klasiku.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/Jidiš|Jidiš]]; mentioned_person: [[objektai/asmenys/V. Krėvė-Mickevičius|V. Krėvė-Mickevičius]]; mentioned_place: Kaunas; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -29,9 +39,15 @@ Juozas Tumas-Vaižgantas tarpukariu minėtas kaip vienas lietuvių literatūros 
 - t-002
   global_id: t-63767
   teiginys: 'Jaunas kunigas Juozas Tumas-Vaižgantas buvo svarbiausias nuo 1896 m. leisto katalikiško laikraščio „Tėvynės sargas“ veikėjas.'
+  sudarymo_pagrindimas: 'Perrašyta lietuviškiau ir enciklopediškiau, išlaikant citatos prasmę.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_object: [[objektai/zodynas/rusinimas|rusinimas]]; mentioned_object: [[objektai/zodynas/spiritus movens|spiritus movens]]; mentioned_person: [[objektai/autoriai/Juozas Tumas (Vaižgantas)|Juozas Tumas (Vaižgantas)]]'
+  temporaliniai_duomenys: 'įvykio data: po 1896 m.; įvykio data: 1896 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Perrašyta lietuviškiau ir enciklopediškiau, išlaikant citatos prasmę.'
   pagrindžia:
     - c-001
-
+- susijęs iš Tėvynės sargas: „Tėvynės sargas“ nuo 1896 m. tapo populiariausiu katalikiškos pakraipos leidiniu, o jo varomoji jėga buvo Juozas Tumas-Vaižgantas.
+- susijęs iš [[objektai/zodynas/spiritus movens.md#claim-t-22304|spiritus movens]]: 1896 m. pradėto leisti „Tėvynės sargo“ spiritus movens buvo jaunas kunigas Juozas Tumas-Vaižgantas.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -74,15 +90,3 @@ Juozas Tumas-Vaižgantas tarpukariu minėtas kaip vienas lietuvių literatūros 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Jidiš]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/zodynas/kunigas]]
-- [[objektai/zodynas/rusinimas]]
-- [[objektai/zodynas/spiritus movens]]
-- [[objektai/grupes/Žydai]]
-- [[objektai/paprociai/Žydų atskiras bendruomeninis gyvenimas ir hebrajų bei jidiš mokyklos]]
-- [[objektai/ivykiai/„Tėvynės sargo“ leidimo pradžia]]

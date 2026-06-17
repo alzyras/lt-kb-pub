@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-J. Fijałeko „Średniowieczne biskupstwa“ minima kaip 1896 m. „Kwartalnik Historyczny“ publikacija.
+Tuo būdu Vilniuje sėdįs valdovas formaliai išlaikė pagonybę, nors jo dvare bei šeimoje stačiatikių įtaka buvo stipresnė negu pas (^2) Fijałek : Średniowieczne biskupstwa , KH, 1896, 518 p. (^3) PSRL, 10, 213; plg.
 
 ## Teiginiai
 
@@ -29,6 +29,11 @@ J. Fijałeko „Średniowieczne biskupstwa“ minima kaip 1896 m. „Kwartalnik 
 - t-001
   global_id: t-100171
   teiginys: 'J. Fijałeko „Średniowieczne biskupstwa“ minima kaip 1896 m. „Kwartalnik Historyczny“ publikacija.'
+  sudarymo_pagrindimas: 'Citata palaiko bibliografinį teiginį, o pradinė formuluotė yra OCR fragmentas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_object: [[objektai/zodynas/pagonys|pagonys]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Bizantija; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1896 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko bibliografinį teiginį, o pradinė formuluotė yra OCR fragmentas.'
   pagrindžia:
     - c-001
 

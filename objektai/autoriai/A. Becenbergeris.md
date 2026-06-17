@@ -26,6 +26,7 @@ A. Becenbergeris šiame šaltinyje minimas kaip kalbininkas ir tyrinėtojas, nag
 - t-001
   global_id: t-56717
   teiginys: 'A. Becenbergeris šiame šaltinyje pristatomas kaip tyrinėtojas, nustatęs lietuvių ir prūsų kalbinę ribą pagal vietovardžių paplitimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_place: Deimena; mentioned_place: Prieglius; mentioned_place: Prūsai; mentioned_place: Vangrapė'
   pagrindžia:
     - c-002
 
@@ -33,6 +34,8 @@ A. Becenbergeris šiame šaltinyje minimas kaip kalbininkas ir tyrinėtojas, nag
 - t-002
   global_id: t-56718
   teiginys: 'A. Becenbergerio darbai cituojami aptariant vietovardžius su šaknimi garb-.'
+  sudarymo_pagrindimas: 'Teiginys glaustai ir gramatiškai perteikia bibliografinėje pastaboje matomą faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
 
@@ -40,9 +43,14 @@ A. Becenbergeris šiame šaltinyje minimas kaip kalbininkas ir tyrinėtojas, nag
 - t-003
   global_id: t-56719
   teiginys: 'A. Becenbergeris nustatė, kad lietuviškos kilmės vietovardžiai paplitę į rytus nuo Deimenos ir Alnos.'
+  sudarymo_pagrindimas: 'Citata tiesiogiai pagrindžia autoriaus nustatytą išvadą; pradinis teiginys nutrūkęs.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_place: Deimena; mentioned_place: Prieglius; mentioned_place: Prūsai; mentioned_place: Vangrapė'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/autoriai/M. Tepenas.md#claim-t-64745|M. Tepenas]]: M. Tepenas, remdamasis įvairiais rašytiniais šaltiniais, padarė išvadą, kad skalviai ir nadruviai buvo lietuviai.
+- susijęs iš [[objektai/grupes/Nadruviai.md#claim-t-65935|Nadruviai]]: M. Tepenas, remdamasis rašytiniais šaltiniais, dar XIX a. laikė skalvius ir nadruvius lietuviais.
+- susijęs iš [[objektai/grupes/Skalviai.md#claim-t-89211|Skalviai]]: M. Tepenas, remdamasis įvairiais rašytiniais šaltiniais, dar XIX a. laikė skalvius ir nadruvius lietuviais.
+- susijęs iš Alna: A. Becenbergeris nustatė, kad lietuviškos kilmės vietovardžiai paplitę į rytus nuo Deimenos ir Alnos.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -82,10 +90,3 @@ A. Becenbergeris šiame šaltinyje minimas kaip kalbininkas ir tyrinėtojas, nag
   pagrindžia:
     - t-003
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Baltai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Nadruviai]]
-- [[objektai/grupes/Skalviai]]

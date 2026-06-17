@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Savarankiška LKP, vėliau pasivadinusi Lietuvos demokratine darbo partija, pasirinko socialdemokratinę orientaciją. Lietuvos politiniame gyvenime dominavo LDDP, vėliau susivienijusi su Lietuvos socialdemokratais ir tapusi LSDP.
+LDDP Lietuvos demokratinė darbo partija. Taip atsirado nacionalinė eurokomunistinio tipo partija, turinti reformuotą programą ir naują statutą. Visuomenė darėsi pliuralistinė, įregistruota net 40 partijų, tačiau Lietuvos politiniame gyvenime dominavo du pagrindiniai žaidėjai: susidariusi iš savarankiškos LKP, pasivadinusi L I E T U V O S I S T O R I J A 250 socialdemokratine, LDDP (vėliau susivienys.
 
 ## Teiginiai
 
@@ -29,6 +29,8 @@ Savarankiška LKP, vėliau pasivadinusi Lietuvos demokratine darbo partija, pasi
 - t-001
   global_id: t-169677
   teiginys: 'Savarankiška LKP, vėliau pasivadinusi Lietuvos demokratine darbo partija, pasirinko socialdemokratinę orientaciją.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai pagrįstas citata.'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -36,6 +38,11 @@ Savarankiška LKP, vėliau pasivadinusi Lietuvos demokratine darbo partija, pasi
 - t-002
   global_id: t-169680
   teiginys: 'Lietuvos politiniame gyvenime dominavo LDDP, vėliau susivienijusi su Lietuvos socialdemokratais ir tapusi LSDP.'
+  sudarymo_pagrindimas: 'Pradinis teiginys daugiausia apie valstybės valdymo sistemą, o citata leidžia suformuluoti teiginį apie LDDP.'
+  susije_objektai: 'mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1993 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys daugiausia apie valstybės valdymo sistemą, o citata leidžia suformuluoti teiginį apie LDDP.'
   pagrindžia:
     - c-001
 
@@ -82,11 +89,3 @@ Savarankiška LKP, vėliau pasivadinusi Lietuvos demokratine darbo partija, pasi
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/1992 m. Seimo rinkimai ir LDDP dauguma|1992 m. Seimo rinkimai ir LDDP dauguma (seimas, XX a.)]]
-- [[objektai/grupes/Lietuvos komunistų partija]]
-- [[objektai/grupes/Lietuvos socialdemokratų partija]]
-- [[objektai/grupes/Tėvynės Sąjunga-Lietuvos konservatoriai]]
-- [[objektai/zodynas/eurokomunistinio tipo partija]]

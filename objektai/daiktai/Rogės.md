@@ -2,12 +2,8 @@
 tipas: daiktas
 pavadinimas: 'Rogės'
 saltiniai:
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
-  - 'objektai/saltiniai/Lietuvos metraštis, Bychovco kronika (1971 m.).md'
-aliases:
-  - 'objektai/daiktai/Rogelės'
-variantai:
-  - 'Rogelės'
 sukurta: ''
 atnaujinta: ''
 ---
@@ -38,20 +34,27 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 <a id="claim-t-08324"></a>
 - t-001
   global_id: t-08324
   teiginys: 'Žiemą važiuodavo važiuose, taip vadinamose rogėse, o ką vežė, tą vežė rogėse ir šlajose.'
+  teiginio_tipas: 'faktas'
   pagrindžia:
     - c-001
-- t-003
-  teiginys: 'Lietuvos metraštyje pasakojama, kad lietuvos metraštis pasakoja, kad Steponas, nors jam skaudėjo koją, įsakė vežti save rogėse; Lietuvos metraštis roges mini kaip karo žygio ir vadovavimo judėjimo priemonę.'
+
+<a id="claim-t-186847"></a>
+- t-002
+  global_id: t-186847
+  teiginys: 'Lietuvos metraščio pasakojime Moldavijos vaivada Steponas, skaudant kojai, įsakė vežti save rogėse ir atvyko su savo žmonėmis.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pašalintas pasikartojimas, palikta šaltiniui priskirta kronikos scena apie roges.'
+  susije_objektai: 'location: Lietuva; location: Moldavija; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Lietuva; mentioned_place: Moldavija'
   pagrindžia:
     - c-002
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
@@ -62,8 +65,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Lietuvos metraštyje pasakojama, kad lietuvos metraštis pasakoja, kad Steponas, nors jam skaudėjo koją, įsakė vežti save rogėse; Lietuvos metraštis roges mini kaip karo žygio ir vadovavimo judėjimo priemonę.'
+  santrauka: 'Lietuvos metraščio pasakojime Moldavijos vaivada Steponas, skaudant kojai, įsakė vežti save rogėse ir atvyko su savo žmonėmis.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     savo žmonėmis — raiteliais ir pėstininkais. Ir kai ka­
@@ -82,17 +86,8 @@ Nenurodyta
     jo ponų bei karių nieko nepakenkė.
     Kai karalius perėjo miškus ir Bukoviną, Moldavijos
     vaivada su visais savo žmonėmis pasuko atgalios.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/ponai]]
-- [[objektai/zodynas/vaivada]]
-- [[objektai/zodynas/metraštis]]
-- [[objektai/zodynas/žygis]]
+    - t-002

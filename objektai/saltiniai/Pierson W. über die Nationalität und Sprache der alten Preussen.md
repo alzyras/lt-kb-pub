@@ -28,6 +28,11 @@ Dusburgietis teigia, kad pierson W.
 - t-001
   global_id: t-61224
   teiginys: 'W. Piersono straipsnis „Über die Nationalität und Sprache der alten Preussen“ paskelbtas Berlyne 1873 m., p. 1–20.'
+  sudarymo_pagrindimas: 'Citata pateikia bibliografinį šaltinio įrašą su leidimo vieta, metais ir puslapiais.'
+  susije_objektai: 'mentioned_place: Berlynas'
+  temporaliniai_duomenys: 'įvykio data: 1873 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pateikia bibliografinį šaltinio įrašą su leidimo vieta, metais ir puslapiais.'
   pagrindžia:
     - c-001
 

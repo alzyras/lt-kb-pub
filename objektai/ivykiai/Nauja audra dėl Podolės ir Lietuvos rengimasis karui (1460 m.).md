@@ -36,6 +36,11 @@ Nenurodyta
 - t-001
   global_id: t-185756
   teiginys: 'Lietuva suskato rengtis karui dėl Podolės, tačiau apsiribota grasinimais ir kariuomenės telkimu.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas, glaustas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -43,6 +48,14 @@ Nenurodyta
 - t-002
   global_id: t-185757
   teiginys: '1460 m. karalius Bresto seime stengėsi nukreipti didikų užmojus nuo Podolės.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys aiškiai perteikia citatoje nurodytą karaliaus veiksmą Bresto seime.'
+  susije_objektai: 'territory: Podolė; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Podolė'
+  temporaliniai_duomenys: 'valdymo pradžia: 1460 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Jonas buvo valdovas Podolė“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai perteikia citatoje nurodytą karaliaus veiksmą Bresto seime.'
   pagrindžia:
     - c-002
 
@@ -107,11 +120,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Ginklai]]
-- [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]]
-- [[objektai/asmenys/Jonas]]
-- [[objektai/zodynas/Miera|miera]]
-- [[objektai/zodynas/seimas]]

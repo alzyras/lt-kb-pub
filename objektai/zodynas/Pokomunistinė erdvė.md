@@ -21,6 +21,8 @@ Su panašiomis problemomis susidūrė ir kitos pokomunistinės valstybės. Prezi
 - t-001
   global_id: t-70034
   teiginys: 'Prezidento Vladimiro Putino „valdomos demokratijos“ režimas siekia susigrąžinti įtaką vadinamojoje pokomunistinėje erdvėje, pirmiausia sugriuvusios SSRS teritorijoje.'
+  sudarymo_pagrindimas: 'Teiginys yra tikslus, gramatiškas ir tiesiogiai pagrįstas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/posakiai/„valdomos demokratijos“|„valdomos demokratijos“]]; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: SSRS'
   pagrindžia:
     - c-001
 
@@ -28,6 +30,11 @@ Su panašiomis problemomis susidūrė ir kitos pokomunistinės valstybės. Prezi
 - t-002
   global_id: t-183453
   teiginys: 'Kitos pokomunistinės valstybės, kaip ir atsikūrusi Lietuva, turėjo vytis Vakarus ir perimti daugybę naujovių.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo per daug kontekstinis, todėl patikslinta, kokios problemos minimos citatoje.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -62,10 +69,3 @@ Su panašiomis problemomis susidūrė ir kitos pokomunistinės valstybės. Prezi
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Vytis]]
-- [[objektai/posakiai/„valdomos demokratijos“]]
-- [[objektai/zodynas/Valdoma demokratija]]
-- [[objektai/asmenys/Vladimiras Putinas]]

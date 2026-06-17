@@ -3,17 +3,23 @@ tipas: zodyno_irasas
 pavadinimas: 'agentas-smogikas'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+datos:
+  - '1949 m.'
+date_start: '1949'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - ginklas
   - sąvoka
+amziai:
+  - 'XX'
 ---
 # agentas-smogikas
 
 ## Santrauka
 
-Smogikai veikdavo saugumo majoro Aleksejaus Sokolovo suformuotose specialiosiose grupėse, kurioms paprastai vadovaudavo operatyvininkas. MGB-KGB agentai smogikai suvaidino itin svarbų vaidmenį galutinai sunaikinant ginkluotą rezistenciją Lietuvoje.
+UŽPELKIŲ KAUTYNĖS 241 fo} j= o a o Qa nn co ia co ae ## Puslapis 244 NKVD SMOGIKAI MGB-KGB agentai smogikai suvaidino itin svarbų vaidmenį galutinai sunaikinant ginkluotą rezistenciją Lietuvoje. Smogikai veikdavo saugumo majoro Aleksejaus Sokolovo suformuotose vadinamosiose specialiosiose grupėse, kurioms paprastai vadovaudavo koks nors operatyvininkas.
 
 ## Teiginiai
 
@@ -21,6 +27,7 @@ Smogikai veikdavo saugumo majoro Aleksejaus Sokolovo suformuotose specialiosiose
 - t-001
   global_id: t-42428
   teiginys: 'Smogikai veikdavo saugumo majoro Aleksejaus Sokolovo suformuotose specialiosiose grupėse, kurioms paprastai vadovaudavo operatyvininkas.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-002
 
@@ -28,6 +35,11 @@ Smogikai veikdavo saugumo majoro Aleksejaus Sokolovo suformuotose specialiosiose
 - t-002
   global_id: t-42429
   teiginys: 'MGB-KGB agentai smogikai suvaidino itin svarbų vaidmenį galutinai sunaikinant ginkluotą rezistenciją Lietuvoje.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas citata, pašalinus citatos puslapio triukšmą.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Užpelkių kautynės|Užpelkių kautynės]]; mentioned_group: [[objektai/grupes/MGB-KGB agentai smogikai|MGB-KGB agentai smogikai]]; mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_object: [[objektai/zodynas/agentai smogikai|agentai smogikai]]; mentioned_place: Lietuva; mentioned_place: Užpelkiai'
+  temporaliniai_duomenys: 'įvykio data: 1949 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir paremtas citata, pašalinus citatos puslapio triukšmą.'
   pagrindžia:
     - c-001
 
@@ -80,13 +92,3 @@ Smogikai veikdavo saugumo majoro Aleksejaus Sokolovo suformuotose specialiosiose
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/MGB-KGB agentai smogikai]]
-- [[objektai/grupes/NKVD]]
-- [[objektai/ivykiai/Užpelkių kautynės]]
-- [[objektai/zodynas/agentai smogikai]]
-- [[objektai/grupes/Agentai-smogikai]]
-- [[objektai/asmenys/Aleksejus Sokolovas]]
-- [[objektai/zodynas/specialioji grupė]]

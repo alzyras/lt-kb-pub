@@ -21,6 +21,8 @@ Dva­ sios bažnyčios kapinių vartus, nuo tų vartų prasidedančia ri­ ba, �
 - t-001
   global_id: t-87828
   teiginys: 'Petras Puzdravičius buvo Vilniaus vyskupo valdinys ir turėjo namą prie apibrėžto prieglaudos sklypo ribos.'
+  sudarymo_pagrindimas: 'Citata tiksliai nurodo jo statusą ir namo vietą sklypo aprašyme.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -45,8 +47,3 @@ Dva­ sios bažnyčios kapinių vartus, nuo tų vartų prasidedančia ri­ ba, �
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Namas]]
-- [[objektai/zodynas/saikas uolektis sprindis]]

@@ -23,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-Totorių kariuomenės pajėgos užėmė Zaslavlį ir kitas Lietuvos vietoves, o vėliau priartėjo prie Kauno. Zaslavlyje, tarp Volinijos ir Podolės, valdė Jaunučio sūnus. Zaslavlis buvo gyvenvietė apie 20 km į šiaurės vakarus nuo Minsko.
+Paskutinės rytinių slavų pilys čia buvo Lohajskas, Gorodecas, Minskas, Zaslavlis. Netoliese nuo ten, būtent, Zaslavlyje (tarp Volinijos ir Podolės) valdė Jaunučio sūnus.
 
 ## Teiginiai
 
@@ -31,6 +31,8 @@ Totorių kariuomenės pajėgos užėmė Zaslavlį ir kitas Lietuvos vietoves, o 
 - t-001
   global_id: t-172045
   teiginys: 'Totorių kariuomenės pajėgos užėmė Zaslavlį ir kitas Lietuvos vietoves, o vėliau priartėjo prie Kauno.'
+  sudarymo_pagrindimas: 'Sakinys pataisytas, kad aiškiai įvardytų veikėją ir pašalintų neapibrėžtą nuorodą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Trakai; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -38,6 +40,11 @@ Totorių kariuomenės pajėgos užėmė Zaslavlį ir kitas Lietuvos vietoves, o 
 - t-002
   global_id: t-184407
   teiginys: 'Zaslavlyje, tarp Volinijos ir Podolės, valdė Jaunučio sūnus.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Zaslavlį ir atitinka citatą.'
+  susije_objektai: 'territory: Pinskas; territory: Podolė; territory: Polesė; territory: Turovas; territory: Volinija; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Karijotas|Karijotas]]; mentioned_person: [[objektai/asmenys/Liubartas|Liubartas]]; mentioned_person: [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)|Narimantas (Pinsko kunigaikštis)]]; mentioned_place: Pinskas; mentioned_place: Podolė; mentioned_place: Polesė; mentioned_place: Turovas; mentioned_place: Volinija'
   pagrindžia:
     - c-002
 
@@ -45,9 +52,25 @@ Totorių kariuomenės pajėgos užėmė Zaslavlį ir kitas Lietuvos vietoves, o 
 - t-003
   global_id: t-187689
   teiginys: 'Zaslavlis buvo gyvenvietė apie 20 km į šiaurės vakarus nuo Minsko.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus geografinis faktas, tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Jaunutis|Jaunutis]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Maskva; mentioned_place: Minskas'
+  temporaliniai_duomenys: 'įvykio data: 1366 m.; įvykio data: apie 1366 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus geografinis faktas, tiesiogiai paremtas citata.'
   pagrindžia:
     - c-003
-
+- susijęs iš [[objektai/grupes/Gediminaičių dinastija.md#claim-t-96111|Gediminaičių dinastija]]: Kiti Gediminaičiai valdė Turovo-Pinsko kunigaikštijoje, Podolėje, Zaslavlyje ir Volinijoje.
+- susijęs iš Polesė: Senojoje Turovo ir Pinsko kunigaikštijoje, vadintoje Polese, valdė Algirdo brolio Narimanto sūnus.
+- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-184664|Algirdas (Lietuvos valdovas)]]: Kęstutis ir Algirdas sutarė, kad Algirdas gaus didžiojo kunigaikščio titulą, o kitą valdžią jie dalysis lygiomis.
+- susijęs iš [[objektai/grupes/Gediminaičių dinastija.md#claim-t-96111|Gediminaičių dinastija]]: Kiti Gediminaičiai valdė Turovo-Pinsko kunigaikštijoje, Podolėje, Zaslavlyje ir Volinijoje.
+- susijęs iš Luckas: Po kovų su Lenkija Gediminaitis Liubartas išsilaikė Volinijoje, Lucke.
+- susijęs iš Minskas: Rytiniame lietuvių etnografinės sienos pakraštyje Minskas minimas tarp paskutinių rytinių slavų pilių.
+- susijęs iš Polesė: Senojoje Turovo ir Pinsko kunigaikštijoje, vadintoje Polese, valdė Algirdo brolio Narimanto sūnus.
+- susijęs iš Volinija: Po kietų kovų su Lenkija, Volinijoje (Lucke) išsilaikė senas Gediminaitis Liubartas.
+- susijęs iš Volinija: Po kovų su Lenkija Gediminaitis Liubartas išsilaikė Volinijoje, Lucke.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -125,3 +148,7 @@ Totorių kariuomenės pajėgos užėmė Zaslavlį ir kitas Lietuvos vietoves, o 
   statusas: verified
   pagrindžia:
     - t-003
+
+## Ryšiai
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] valde_teritorija Zaslavlis
+- [[objektai/grupes/Gediminaičių dinastija]] valde_teritorija Zaslavlis

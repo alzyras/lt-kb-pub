@@ -6,9 +6,10 @@ saltiniai:
 datos:
   - '1539 m.'
   - '1589 m.'
+  - '1601 m.'
   - '1610 m.'
+  - '1633 m.'
   - '1646 m.'
-  - '1660 m.'
   - '1664 m.'
   - '1737 m.'
 date_start: '1539'
@@ -28,7 +29,7 @@ amziai:
 
 ## Santrauka
 
-Trakų vaivada Oginskis kėlė Dievo Kūno koplyčią iš griuvėsių ir, skyręs daug lėšų, ją išpuošė. 1610 m. Vilniaus kanauninkas Vilčiopolskis mūrinį namą su sklypu užrašė Akademijos kolegijai, 25 metų činšą paskirdamas Dievo Kūno koplyčiai. Dievo Kūno koplyčios ankstyvieji dokumentai buvo prarasti 1660 m. maskvėnų užėmimo ir 1737 m. gaisro metu.
+174 ## Puslapis 191 Il KNYGA B) Žinios apie Dievo Kūno koplyčios įkūrimą Patikimų pirminių žinių apie tos koplyčios būklę nėra galimybių išsiaiškinti, kadangi dokumentų ir visokių senų­ jų raštų dalis 1660 metais maskvėnų paimta, dalis 1737 me­ tais per. Tos Dievo koplyčios pajamas sudarė jai skirtas mokestis nuo įvairių mūrinių namų, renkamas iš vietos didikų, 'bet dėl pradangintų dokumentų pajamų dydis nėra žinomas; tačiau kai kurie mūriniai namai ir dabar prie tos koplyčios priklauso; jais disponuoja. ; Jo­ nas Kazimieras -1664 m. Tą koplyčią iš griuvėsių kėlė ir daug lėšų sudėjęs išpuo­ šė Trakų vaivada ponas Oginskis.
 
 ## Teiginiai
 
@@ -36,6 +37,11 @@ Trakų vaivada Oginskis kėlė Dievo Kūno koplyčią iš griuvėsių ir, skyrę
 - t-001
   global_id: t-85885
   teiginys: 'Trakų vaivada Oginskis kėlė Dievo Kūno koplyčią iš griuvėsių ir, skyręs daug lėšų, ją išpuošė.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Dievo Kūno koplyčią ir paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_person: [[objektai/asmenys/Vladislovas IV|Vladislovas IV]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lenkija; mentioned_place: Trakai; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1601 m.; įvykio data: 1633 m.; įvykio data: 1664 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie Dievo Kūno koplyčią ir paremtas citata.'
   pagrindžia:
     - c-003
 
@@ -43,6 +49,11 @@ Trakų vaivada Oginskis kėlė Dievo Kūno koplyčią iš griuvėsių ir, skyrę
 - t-002
   global_id: t-85886
   teiginys: '1610 m. Vilniaus kanauninkas Vilčiopolskis mūrinį namą su sklypu užrašė Akademijos kolegijai, 25 metų činšą paskirdamas Dievo Kūno koplyčiai.'
+  sudarymo_pagrindimas: 'Reikia sklandžiau suformuluoti činšo paskyrimą, nekeičiant citatos fakto.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Neliubovičiai|Neliubovičiai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/činšas|činšas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas Neliubovičius|Jonas Neliubovičius]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_person: [[objektai/asmenys/Vilčiopolskis|Vilčiopolskis]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1610 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia sklandžiau suformuluoti činšo paskyrimą, nekeičiant citatos fakto.'
   pagrindžia:
     - c-002
 
@@ -50,6 +61,11 @@ Trakų vaivada Oginskis kėlė Dievo Kūno koplyčią iš griuvėsių ir, skyrę
 - t-003
   global_id: t-85887
   teiginys: 'Dievo Kūno koplyčios ankstyvieji dokumentai buvo prarasti 1660 m. maskvėnų užėmimo ir 1737 m. gaisro metu.'
+  sudarymo_pagrindimas: 'Citata palaiko faktą apie dokumentų praradimą, susijusį su koplyčios istorijos neaiškumu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1660 m.; įvykio data: 1737 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko faktą apie dokumentų praradimą, susijusį su koplyčios istorijos neaiškumu.'
   pagrindžia:
     - c-004
 
@@ -57,6 +73,11 @@ Trakų vaivada Oginskis kėlė Dievo Kūno koplyčią iš griuvėsių ir, skyrę
 - t-005
   global_id: t-85889
   teiginys: 'Dievo Kūno koplyčios pajamas sudarė mokestis nuo įvairių mūrinių namų, o dalį tų namų valdė Vilniaus magistratas.'
+  sudarymo_pagrindimas: 'Pradinis tekstas nutrūkęs ir turi šaltinio fragmentų; perrašyta į vientisą sakinį.'
+  susije_objektai: 'territory: Lenkija; territory: Vilnius; mentioned_group: [[objektai/grupes/Vilniaus magistratas|Vilniaus magistratas]]; mentioned_person: [[objektai/asmenys/Grigalius (vicekancleris)|Grigalius (vicekancleris)]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_person: [[objektai/asmenys/Vladislovas IV|Vladislovas IV]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lenkija; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'valdymo pradžia: 1601 m.; valdymo pradžia: 1633 m.; valdymo pradžia: 1664 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Grigalius (vicekancleris) valdė teritoriją Lenkija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Grigalius (vicekancleris) valdė teritoriją Vilnius“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis tekstas nutrūkęs ir turi šaltinio fragmentų; perrašyta į vientisą sakinį.'
   pagrindžia:
     - c-001
 

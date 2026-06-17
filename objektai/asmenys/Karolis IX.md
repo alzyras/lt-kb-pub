@@ -24,7 +24,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Salaspilio mūšyje Švedijos karalius Karolis IX rengėsi duoti nurodymą siųsti gvardijos kavaleriją į lemiamą ataką. Salaspilio mūšyje Švedijos karalius Karolis IX vos nepateko į nelaisvę. Karolis IX ir Karina Nilsdotter buvo nesantuokinio sūnaus Karolio Karlsono Gyllenhielmo tėvai.
+Savo kandidatūrą statė ir Zigmanto Augusto sesers, Kotrynos, vyras — Švedų karalius Jonas, tačiau labiausiai rūpinosi gauti sostą Prancūzų karaliaus Karolio IX brolis Henrikas Valua (Valois). Henrikas sužinojo, kad mirė jo brolis Karolis IX; slapta, niekam nieko nesakęs, jis išvyko į Prancūziją ir sėdo į sostą (jis ten karaliavo Henriko III vardu, kurs žinomas, kaip vienas iš blogiausių Prancūzijos karalių). Zigmanto tėvas Švedijoje buvo nepopuliarus, todėl bijojo, kad po jo mirties, vietoj Zigmanto, nepaskelbtų karalium jo brolio (Zigmanto dėdės) Karolio, Sudermanlandijos kunigaikščio.
 
 ## Teiginiai
 
@@ -32,6 +32,12 @@ Salaspilio mūšyje Švedijos karalius Karolis IX rengėsi duoti nurodymą siųs
 - t-001
   global_id: t-79076
   teiginys: 'Salaspilio mūšyje Švedijos karalius Karolis IX rengėsi duoti nurodymą siųsti gvardijos kavaleriją į lemiamą ataką.'
+  sudarymo_pagrindimas: 'Perrašyta tiksliau pagal citatos formuluotę.'
+  susije_objektai: 'territory: Švedija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_place: Švedija'
+  semantiniai_rysiai: '[[objektai/asmenys/Karolis IX|Karolis IX]] buvo valdovas Švedija'
+  temporaliniai_duomenys: 'valdymo laikotarpis: 1605 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Karolis IX buvo valdovas Švedija“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Perrašyta tiksliau pagal citatos formuluotę.'
   pagrindžia:
     - c-002
 
@@ -39,6 +45,9 @@ Salaspilio mūšyje Švedijos karalius Karolis IX rengėsi duoti nurodymą siųs
 - t-002
   global_id: t-79077
   teiginys: 'Salaspilio mūšyje Švedijos karalius Karolis IX vos nepateko į nelaisvę.'
+  sudarymo_pagrindimas: 'Pašalintas kontekstinis įvadas ir OCR klaida, sakinys padarytas savarankiškas.'
+  susije_objektai: 'territory: Švedija; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Henrikas Vrede|Henrikas Vrede]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_place: Švedija'
+  semantiniai_rysiai: '[[objektai/asmenys/Karolis IX|Karolis IX]] buvo valdovas Švedija'
   pagrindžia:
     - c-005
 
@@ -46,6 +55,9 @@ Salaspilio mūšyje Švedijos karalius Karolis IX rengėsi duoti nurodymą siųs
 - t-003
   global_id: t-79078
   teiginys: 'Karolis IX ir Karina Nilsdotter buvo nesantuokinio sūnaus Karolio Karlsono Gyllenhielmo tėvai.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_person: [[objektai/asmenys/Karina Nilsdotter|Karina Nilsdotter]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_place: Kuoknesė; mentioned_place: Kuoknesės pilis; mentioned_place: Švedija'
+  temporaliniai_duomenys: 'įvykio data: 1574-1650; įvykio data: 1616 m.; įvykio data: 1650 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -53,6 +65,8 @@ Salaspilio mūšyje Švedijos karalius Karolis IX rengėsi duoti nurodymą siųs
 - t-004
   global_id: t-79079
   teiginys: 'Karolis IX vos nepakliuvo į nelaisvę, bet išsigelbėjo, kai švedų reitaras Henrikas Vrede atidavė jam savo žirgą.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Karolį IX ir tiksliai remiasi citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Henrikas Vrede|Henrikas Vrede]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_place: Lietuva; mentioned_place: Švedija'
   pagrindžia:
     - c-003
 
@@ -60,6 +74,8 @@ Salaspilio mūšyje Švedijos karalius Karolis IX rengėsi duoti nurodymą siųs
 - t-005
   global_id: t-79080
   teiginys: 'Karolis Sudermanas pasiuntė 2400 karių pristatyti apsiaustai švedų kariuomenei maisto ir šaudmenų.'
+  sudarymo_pagrindimas: 'Teiginys paremtas citata, bet sutrumpintas ir sutvarkytas į enciklopedinį sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]'
   pagrindžia:
     - c-004
 
@@ -67,6 +83,9 @@ Salaspilio mūšyje Švedijos karalius Karolis IX rengėsi duoti nurodymą siųs
 - t-006
   global_id: t-79081
   teiginys: 'Salaspilio mūšyje Karolis IX netrukus turėjo duoti nurodymą siųsti gvardijos kavaleriją į lemiamą ataką.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_place: Švedija'
+  temporaliniai_duomenys: 'įvykio data: 1605 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 
@@ -74,9 +93,21 @@ Salaspilio mūšyje Švedijos karalius Karolis IX rengėsi duoti nurodymą siųs
 - t-007
   global_id: t-79082
   teiginys: 'Karolis IX buvo Švedijos karalius ir Karolio Karlsono Gyllenhielmo tėvas.'
+  susije_objektai: 'territory: Kuoknesė; territory: Kuoknesės pilis; territory: Švedija; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_place: Kuoknesė; mentioned_place: Kuoknesės pilis; mentioned_place: Švedija'
+  semantiniai_rysiai: '[[objektai/asmenys/Karolis IX|Karolis IX]] buvo valdovas Kuoknesė; [[objektai/asmenys/Karolis IX|Karolis IX]] buvo valdovas Kuoknesės pilis; [[objektai/asmenys/Karolis IX|Karolis IX]] buvo valdovas Švedija'
+  temporaliniai_duomenys: 'valdymo laikotarpis: 1574-1650; valdymo laikotarpis: 1616 m.; valdymo laikotarpis: 1650 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Karolis IX buvo valdovas Kuoknesė“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Karolis IX buvo valdovas Kuoknesės pilis (pilis)“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Karolis IX buvo valdovas Švedija“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Henrikas Vrede.md#claim-t-40135|Henrikas Vrede]]: Švedų reitaras Henrikas Vrede atidavė karaliui savo žirgą ir žuvo, o Karolis IX dėl to išsigelbėjo.
+- susijęs iš Salaspilio mūšis: Salaspilio mūšyje Karolio IX vadovaujami švedai tuoj pat pradėjo puolimą.
+- susijęs iš Salaspilio mūšis: Salaspilio mūšio schemų viršus orientuotas į pietus, kad jos sutaptų su P. Snayerso paveikslu „Salaspilio mūšis“.
+- susijęs iš Krokuva: Henrikas vainikavosi Krokuvoje, nepaisė savo pažadų ir atidėliojo vedybas su Ona.
+- susijęs iš Krokuva: Krokuvoje vainikuotas valdovas nepaisė pažadų, atidėliojo vedybas su Ona ir svajojo valdyti kaip Prancūzijoje.
+- susijęs iš Paryžius: Paryžiuje Henrikas ir Karolis IX mėgino pakeisti kai kuriuos artikulų punktus, bet delegacijoms nenusileidus sutiko ir prisiekė.
+- susijęs iš Prancūzija: Rugpjūtį į Prūsiją atvyko savanorių iš Anglijos ir Prancūzijos kariauti su pagonimis.
+- susijęs iš Prancūzija: Prancūzija minima kaip absoliutinio valdymo pavyzdys, kuriuo norėjo sekti Krokuvoje vainikuotas valdovas.
+- susijęs iš Prancūzija: Į Prūsijoje rengiamus mūšius atvyko savanorių iš Anglijos ir Prancūzijos.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -172,8 +203,6 @@ Salaspilio mūšyje Švedijos karalius Karolis IX rengėsi duoti nurodymą siųs
     - t-002
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Karolis]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Švedai]]
-- [[objektai/asmenys/Karina Nilsdotter]]
+- Karolis IX buvo_valdovas [[objektai/vietos/Kuoknesė]]
+- Karolis IX buvo_valdovas [[objektai/vietos/Kuoknesės pilis|Kuoknesės pilis (pilis)]]
+- Karolis IX buvo_valdovas [[objektai/vietos/Švedija]]

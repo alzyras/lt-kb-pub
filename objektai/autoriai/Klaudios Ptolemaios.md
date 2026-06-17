@@ -20,9 +20,12 @@ Tik graikų matematikas-geografas Klaudios Ptolemaios (a.
 - t-001
   global_id: t-30757
   teiginys: 'Klaudios Ptolemaios buvo graikų matematikas-geografas ir pirmasis pateikė du neabejotinus baltų kilčių vardus.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]'
   pagrindžia:
     - c-001
-
+- susijęs iš Geografija: Klaudijas Ptolemajas „Geografijoje“ pateikė galindų ir sūdinų vardus kaip du neabejotinus baltų kilčių vardus.
+- susijęs iš Geografija: Klaudijas Ptolemajas „Geografijoje“ pateikė galindų ir sūdinų vardus kaip du neabejotinus baltų kilčių vardus.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -36,7 +39,3 @@ Tik graikų matematikas-geografas Klaudios Ptolemaios (a.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Baltai]]

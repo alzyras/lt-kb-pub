@@ -22,6 +22,8 @@ Nutarta užimti gynybines pozicijas.
 - t-001
   global_id: t-80631
   teiginys: 'Lietuvos vadovybė numatė pozicinę gynybą visu frontu be manevravimo galimybės ir didesnio rezervo.'
+  sudarymo_pagrindimas: 'Pradinis sakinys per bendras, o citata leidžia tiksliai apibūdinti pozicinę gynybą.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Augustavo-Suvalkų operacija (1920 m. rugsėjo 22 d. – rugsėjo pabaiga)|Augustavo-Suvalkų operacija (1920 m. rugsėjo 22 d. – rugsėjo pabaiga)]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/rezervas|rezervas]]; mentioned_place: Augustavas; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -50,9 +52,3 @@ Nutarta užimti gynybines pozicijas.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/Augustavo-Suvalkų operacija (1920 m. rugsėjo 22 d. – rugsėjo pabaiga)]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/zodynas/rezervas]]

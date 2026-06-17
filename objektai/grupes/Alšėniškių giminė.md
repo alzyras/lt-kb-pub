@@ -10,21 +10,26 @@ atnaujinta: ''
 
 ## Santrauka
 
-Fedoras Jaroslavičius Lietuvos Didžiojoje Kunigaikštystėje buvo susigiminiavęs su Goštautais, Olelkaičiais ir Alšėniškiais.
+Fedoras Ivanovičius Jaroslavičius LDK buvo susigiminiavęs su Goštautais, Olelkaičiais ir Alšėniškiais.
 
 ## Teiginiai
 
 <a id="claim-t-187770"></a>
 - t-001
   global_id: t-187770
-  teiginys: 'Fedoras Jaroslavičius Lietuvos Didžiojoje Kunigaikštystėje buvo susigiminiavęs su Goštautais, Olelkaičiais ir Alšėniškiais.'
+  teiginys: 'Fedoras Ivanovičius Jaroslavičius LDK buvo susigiminiavęs su Goštautais, Olelkaičiais ir Alšėniškiais.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Išskleistas pilnas Fedoro Ivanovičiaus Jaroslavičiaus vardas ir paliktas ryšys su Alšėniškiais. Nepridėtos valdos ar santuokos detalės.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Goštautai|Goštautai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Sluckas'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Fedoras Jaroslavičius Lietuvos Didžiojoje Kunigaikštystėje buvo susigiminiavęs su Goštautais, Olelkaičiais ir Alšėniškiais.'
+  santrauka: 'Fedoras Ivanovičius Jaroslavičius LDK buvo susigiminiavęs su Goštautais, Olelkaičiais ir Alšėniškiais.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     5 Fedoras Ivanovičius Jaroslavičius — Maskvos emigranto, Ser-
@@ -40,10 +45,3 @@ Fedoras Jaroslavičius Lietuvos Didžiojoje Kunigaikštystėje buvo susigiminiav
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Goštautai]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/grupes/Goštautų giminė]]
-- [[objektai/grupes/Slucko kunigaikščiai Olelkaičiai]]

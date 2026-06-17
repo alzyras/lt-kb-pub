@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Lauko etmonas Grigalius Chodkevičius buvo tarp geriausių tuo metu surinktų karių. Krokuvos vestuvėse iš lietuvių puošniausiai atrodė Radvila ir Grigalius Chodkevičius.
+Radvilos buvo jo šešiolikmetis sūnus Kristupas Radvila, vėliau tapęs didžiuoju etmonu ir vadintas Perkūnu, lauko etmonas Grigalius Chodkevičius, būsimasis lauko etmonas Romanas Sanguška, būsimasis Livonijos etmonas Jonas Chodkevičius ir daugelis kitų.
 
 ## Teiginiai
 
@@ -21,6 +21,8 @@ Lauko etmonas Grigalius Chodkevičius buvo tarp geriausių tuo metu surinktų ka
 - t-001
   global_id: t-40125
   teiginys: 'Lauko etmonas Grigalius Chodkevičius buvo tarp geriausių tuo metu surinktų karių.'
+  sudarymo_pagrindimas: 'Perrašyta į aiškų enciklopedinį sakinį apie asmenį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_object: [[objektai/zodynas/hetmonas|hetmonas]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Grigalius (vicekancleris)|Grigalius (vicekancleris)]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas Chodkevičius|Jonas Chodkevičius]]; mentioned_person: [[objektai/asmenys/Romanas (Briansko kunigaikštis)|Romanas (Briansko kunigaikštis)]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Livonija'
   pagrindžia:
     - c-001
 
@@ -28,6 +30,11 @@ Lauko etmonas Grigalius Chodkevičius buvo tarp geriausių tuo metu surinktų ka
 - t-002
   global_id: t-184710
   teiginys: 'Krokuvos vestuvėse iš lietuvių puošniausiai atrodė Radvila ir Grigalius Chodkevičius.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Faktas palaikomas, bet reikia pašalinti nereikalingą autoriaus priskyrimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Grigalius (vicekancleris)|Grigalius (vicekancleris)]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Krokuva'
   pagrindžia:
     - c-002
 
@@ -81,19 +88,3 @@ Lauko etmonas Grigalius Chodkevičius buvo tarp geriausių tuo metu surinktų ka
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Augustas]]
-- [[objektai/grupes/Chodkevičiai]]
-- [[objektai/asmenys/Grigalius (vicekancleris)]]
-- [[objektai/asmenys/Jonas]]
-- [[objektai/asmenys/Jonas Chodkevičius]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Radvila]]
-- [[objektai/grupes/Radvilos]]
-- [[objektai/asmenys/Romanas (Briansko kunigaikštis)]]
-- [[objektai/zodynas/etmonas]]
-- [[objektai/asmenys/Žygimantas]]
-- [[objektai/asmenys/Kunzas Lochneris]]
-- [[objektai/asmenys/Romanas Sanguška]]

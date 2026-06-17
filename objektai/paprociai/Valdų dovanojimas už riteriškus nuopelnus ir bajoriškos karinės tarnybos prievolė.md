@@ -43,6 +43,8 @@ Nenurodyta
 - t-001
   global_id: t-87185
   teiginys: 'Dovanotų valdų gavėjas ir jo palikuonys galėjo jomis laisvai disponuoti, bet privalėjo atlikti Lietuvos Didžiosios Kunigaikštystės bajorų karinę tarnybą.'
+  sudarymo_pagrindimas: 'Citata leidžia sujungti teises į valdas ir karinę prievolę į aiškų enciklopedinį sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/tėvonija|tėvonija]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -69,8 +71,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bajorai]]
-- [[objektai/zodynas/tėvonija]]

@@ -3,10 +3,18 @@ tipas: grupe
 pavadinimas: 'Pasaulio lietuvių bendruomenė'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1940 m.'
+  - '1951 m.'
+  - '1991 m.'
+date_start: '1940'
+date_end: '1991'
 sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+amziai:
+  - 'XX'
 ---
 # Pasaulio lietuvių bendruomenė
 
@@ -20,6 +28,11 @@ JAV veikė didžiausia lietuvių išeivijos dalis, svarbiausios ir stipriausios 
 - t-001
   global_id: t-19960
   teiginys: 'Pasaulio lietuvių bendruomenė buvo viena svarbiausių ir stipriausių JAV lietuvių išeivijos organizacijų.'
+  sudarymo_pagrindimas: 'Citata leidžia suformuluoti aiškesnį teiginį apie organizaciją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Amerikos lietuvių taryba|Amerikos lietuvių taryba]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1940 m.; įvykio data: 1951 m.; įvykio data: 1991 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata leidžia suformuluoti aiškesnį teiginį apie organizaciją.'
   pagrindžia:
     - c-001
 
@@ -40,10 +53,3 @@ JAV veikė didžiausia lietuvių išeivijos dalis, svarbiausios ir stipriausios 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Amerikos lietuvių taryba|Amerikos lietuvių taryba (institucija)]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/Miera|miera]]
-- [[objektai/grupes/Vyriausiasis Lietuvos išlaisvinimo komitetas]]

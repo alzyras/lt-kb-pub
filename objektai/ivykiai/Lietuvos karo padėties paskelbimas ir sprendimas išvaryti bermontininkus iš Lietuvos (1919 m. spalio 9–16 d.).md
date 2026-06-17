@@ -44,6 +44,11 @@ Nenurodyta
 - t-001
   global_id: t-41309
   teiginys: '1919 m. spalio 9 d. Lietuvos vyriausybė paskelbė visoje šalyje karo padėtį, o spalio 16 d. priėmė sprendimą jėga išvaryti bermontininkus.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir atitinka note objektą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bermontininkai|Bermontininkai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1919 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, faktinis ir atitinka note objektą.'
   pagrindžia:
     - c-001
 
@@ -51,6 +56,11 @@ Nenurodyta
 - t-002
   global_id: t-41310
   teiginys: 'Lietuvos konfliktas su bermontininkais labai pablogino santykius su Vokietija, nes didelę dalį Bermonto pajėgų sudarė vokiečių savanoriai.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas citatos faktu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bermontininkai|Bermontininkai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva; mentioned_place: Vokietija'
+  temporaliniai_duomenys: 'įvykio data: 1919 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir paremtas citatos faktu.'
   pagrindžia:
     - c-002
 
@@ -96,9 +106,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bermontininkai]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/karo padėtis]]

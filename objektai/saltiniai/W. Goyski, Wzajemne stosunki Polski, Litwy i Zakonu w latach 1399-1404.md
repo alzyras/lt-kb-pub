@@ -33,6 +33,9 @@ amziai:
 - t-001
   global_id: t-31979
   teiginys: 'W. Goyskio „Wzajemne stosunki Polski, Litwy i Zakonu w latach 1399-1404“ paskelbtas 1906 m. „Przewodnik naukowy i literacki“ 34 tome.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
+  temporaliniai_duomenys: 'įvykio data: 1409 m.; įvykio data: 1906 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

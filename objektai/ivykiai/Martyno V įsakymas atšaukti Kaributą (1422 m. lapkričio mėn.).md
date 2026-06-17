@@ -44,6 +44,11 @@ Nenurodyta
 - t-001
   global_id: t-34547
   teiginys: '1422 m. lapkritį popiežius Martynas V įsakė Vytautui per du mėnesius atšaukti Kaributą, grasindamas ekskomunika.'
+  sudarymo_pagrindimas: 'Citata leidžia tiksliau susieti teiginį su įsakymu ir jo grėsme.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Husitai|Husitai]]; mentioned_group: [[objektai/grupes/Lietuvos vyskupai|Lietuvos vyskupai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/ekskomunika|ekskomunika]]; mentioned_person: [[objektai/asmenys/Martynas V|Martynas V]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1422 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata leidžia tiksliau susieti teiginį su įsakymu ir jo grėsme.'
   pagrindžia:
     - c-001
 
@@ -65,13 +70,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Husitai]]
-- [[objektai/daiktai/Kryžius]]
-- [[objektai/grupes/Lietuvos vyskupai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/asmenys/Martynas V]]
-- [[objektai/asmenys/Martynas iš Golino]]
-- [[objektai/zodynas/ekskomunika]]

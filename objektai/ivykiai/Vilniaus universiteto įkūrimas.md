@@ -5,9 +5,11 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1566 m.'
+  - '1579 m.'
   - '1586 m.'
+  - '1618 m.'
 date_start: '1566'
-date_end: '1586'
+date_end: '1618'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -17,12 +19,13 @@ tags:
   - valdovas
 amziai:
   - 'XVI'
+  - 'XVII'
 ---
 # Vilniaus universiteto įkūrimas
 
 ## Santrauka
 
-Yra ir kitas senojo Vilniaus universiteto istorinės reikšmės aspektas. Livonijos karo metu Steponas Batoras rūpinosi Vilniaus universiteto kūrimu. Į Lietuvą atvykę jėzuitai 1579 m. įkūrė Vilniaus universitetą.
+Epochos pradžią galima sieti ne tik su Liublino unija, bet ir su jėzuitais, kurie atvykę į Lietuvą 1579 m. įkūrė Vilniaus universitetą. Tačiau Steponas Batoras Livonijos karo metu rūpinosi mūzų prieglobsčio – Vilniaus universiteto – kūrimu. 1579 m. balandžio 1 d. karalius Steponas Batoras, paremdamas vyskupo Valerijono Protasevičiaus sumanymą ir pastangas, išdavė Vilniaus universiteto Didysis kiemas ir Šv.
 
 ## Laikotarpis ir datos
 
@@ -46,6 +49,9 @@ Nenurodyta
 - t-001
   global_id: t-71774
   teiginys: 'Yra ir kitas senojo Vilniaus universiteto istorinės reikšmės aspektas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Anglai|Anglai]]; mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_person: [[objektai/autoriai/Martynas Smigleckis|Martynas Smigleckis]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Anglija; mentioned_place: Europa; mentioned_place: Oksfordas; mentioned_place: Vilnius; mentioned_place: Čekija'
+  temporaliniai_duomenys: 'įvykio data: 1618 m.; įvykio data: 1646 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-003
 
@@ -53,6 +59,8 @@ Nenurodyta
 - t-002
   global_id: t-71775
   teiginys: 'Livonijos karo metu Steponas Batoras rūpinosi Vilniaus universiteto kūrimu.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie universiteto kūrimą ir atitinka citatą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Protestantai|Protestantai]]; mentioned_object: [[objektai/zodynas/reformacija|reformacija]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]; mentioned_person: [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -60,6 +68,11 @@ Nenurodyta
 - t-003
   global_id: t-71776
   teiginys: 'Į Lietuvą atvykę jėzuitai 1579 m. įkūrė Vilniaus universitetą.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Valakai|Valakai]]; mentioned_object: [[objektai/zodynas/barokas|barokas]]; mentioned_place: Lietuva; mentioned_place: Liublinas; mentioned_place: Nesvyžius; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įkūrimo data: 1566 m.; įkūrimo data: 1579 m.; įkūrimo data: 1586 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-004
 
@@ -67,6 +80,9 @@ Nenurodyta
 - t-004
   global_id: t-71777
   teiginys: '1579 m. balandžio 1 d. karalius Steponas Batoras, paremdamas vyskupo Valerijono Protasevičiaus sumanymą ir pastangas, išdavė Vilniaus universiteto Didysis kiemas ir Šv.'
+  susije_objektai: 'territory: Vilnius; mentioned_group: [[objektai/grupes/Vilniaus universitetas|Vilniaus universitetas]]; mentioned_person: [[objektai/asmenys/Grigalius (vicekancleris)|Grigalius (vicekancleris)]]; mentioned_person: [[objektai/asmenys/Grigalius XIII|Grigalius XIII]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]; mentioned_person: [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'valdymo laikotarpis: 1579 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Grigalius (vicekancleris) buvo valdovas Vilnius“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 
@@ -74,6 +90,11 @@ Nenurodyta
 - t-005
   global_id: t-71778
   teiginys: 'Vilniaus universitetas buvo vienas seniausių Vidurio Europos universitetų; už jį senesni buvo tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus universitetai.'
+  sudarymo_pagrindimas: 'Teiginys gramatiškas, enciklopedinis ir tiksliai perteikia citatos informaciją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Anglai|Anglai]]; mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_object: [[objektai/zodynas/Vidurio Europa|Vidurio Europa]]; mentioned_person: [[objektai/autoriai/Martynas Smigleckis|Martynas Smigleckis]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Anglija; mentioned_place: Europa; mentioned_place: Oksfordas; mentioned_place: Vilnius; mentioned_place: Čekija'
+  temporaliniai_duomenys: 'įvykio data: 1618 m.; įvykio data: 1646 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys gramatiškas, enciklopedinis ir tiksliai perteikia citatos informaciją.'
   pagrindžia:
     - c-003
 
@@ -148,27 +169,3 @@ Nenurodyta
   pagrindžia:
     - t-006
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Anglai]]
-- [[objektai/grupes/Bajorai]]
-- [[objektai/asmenys/Grigalius (vicekancleris)]]
-- [[objektai/asmenys/Grigalius XIII]]
-- [[objektai/grupes/Lotynai]]
-- [[objektai/autoriai/Martynas Smigleckis]]
-- [[objektai/asmenys/Martynas iš Golino]]
-- [[objektai/grupes/Protestantai]]
-- [[objektai/asmenys/Steponas]]
-- [[objektai/asmenys/Steponas Batoras]]
-- [[objektai/grupes/Valakai]]
-- [[objektai/asmenys/Valerijonas (raštininkas)]]
-- [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius (vyskupas)]]
-- [[objektai/grupes/Vilniaus universitetas]]
-- [[objektai/zodynas/barokas]]
-- [[objektai/zodynas/reformacija]]
-- [[objektai/paprociai/Jėzuitiškas mokymas ir katalikybės sklaida per Vilniaus universitetą]]
-- [[objektai/ivykiai/Vilniaus universiteto įkūrimas (1579 m.)]]
-- [[objektai/zodynas/barokinė santvarka]]
-- [[objektai/zodynas/barokinė santvarka barokinis ūkis]]
-- [[objektai/posakiai/„aidint patrankoms, mūzos tyli“]]

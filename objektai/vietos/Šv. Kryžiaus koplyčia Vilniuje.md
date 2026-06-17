@@ -22,6 +22,8 @@ Kryžiaus bažnytėlė, Vilniaus vyskupas Alšėnų kunigaikštis Povilas toje v
 - t-001
   global_id: t-86284
   teiginys: 'Sudegus medinei Šv. Kryžiaus bažnytėlei, Vilniaus vyskupas Povilas Alšėniškis savo sode pastatydino nedidelę koplyčią.'
+  sudarymo_pagrindimas: 'Pradinis tekstas buvo triukšmingas fragmentas, citata pagrindžia glaustą faktą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_place: Alšėnai; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

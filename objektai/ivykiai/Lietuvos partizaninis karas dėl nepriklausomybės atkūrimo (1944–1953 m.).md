@@ -7,8 +7,6 @@ datos:
   - '1940 m.'
   - '1944 m.'
   - '1946 m.'
-  - '1947 m.'
-  - '1948 m.'
   - '1953 m.'
 date_start: '1940'
 date_end: '1953'
@@ -26,7 +24,7 @@ amziai:
 
 ## Santrauka
 
-1944–1946 m. Lietuvoje susidarė dideli, iki 100 kovotojų siekę partizanų būriai. Nuo 1944 m. vasaros sovietų represijos ir teroras kurstė lietuvių pasipriešinimą, išaugusį į dešimtmetį trukusį partizaninį karą. 1946–1948 m. Lietuvos partizanai perėjo prie pasalų organizavimo ir sovietinių pareigūnų bei šnipų naikinimo taktikos.
+Nuo 1944 m. vasaros sovietų represijos ir teroras kurstė lietuvių tautos pasipriešinimą, kilo dešimtmetį trukęs partizaninis karas dėl Lietuvos nepriklausomybės atkūrimo. Užimant Grupė Lietuvos partizanų 1947 m. Sovietams užblokavus Lietuvą nuo laisvojo pasaulio informacijos, atėmus iš žmonių radijo imtuvus, visose apygardose įkurti spaudos ir informacijos skyriai.
 
 ## Laikotarpis ir datos
 
@@ -50,6 +48,11 @@ Nenurodyta
 - t-001
   global_id: t-75174
   teiginys: '1944–1946 m. Lietuvoje susidarė dideli, iki 100 kovotojų siekę partizanų būriai.'
+  sudarymo_pagrindimas: 'Pradinis teiginys yra OCR nuotrupa; citata paremia aiškų faktą apie partizanų būrius.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1944-1946; įvykio data: 1946 m.; įvykio data: 1947 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys yra OCR nuotrupa; citata paremia aiškų faktą apie partizanų būrius.'
   pagrindžia:
     - c-001
 
@@ -57,6 +60,11 @@ Nenurodyta
 - t-002
   global_id: t-75175
   teiginys: 'Nuo 1944 m. vasaros sovietų represijos ir teroras kurstė lietuvių pasipriešinimą, išaugusį į dešimtmetį trukusį partizaninį karą.'
+  sudarymo_pagrindimas: 'Pašalinta antraštės nuotrupa ir paliktas citatos paremtas faktinis sakinys.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/posakiai/karas po karo|karas po karo]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Baltija; mentioned_place: Didžioji Britanija; mentioned_place: Lietuva; mentioned_place: SSRS'
+  temporaliniai_duomenys: 'įvykio data: po 1944 m.; įvykio data: 1944 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalinta antraštės nuotrupa ir paliktas citatos paremtas faktinis sakinys.'
   pagrindžia:
     - c-003
 
@@ -64,6 +72,11 @@ Nenurodyta
 - t-003
   global_id: t-75178
   teiginys: '1946–1948 m. Lietuvos partizanai perėjo prie pasalų organizavimo ir sovietinių pareigūnų bei šnipų naikinimo taktikos.'
+  sudarymo_pagrindimas: 'Pradinis teiginys turi neaiškų numanomą veikėją, todėl perrašytas su aiškiu subjektu ir laikotarpiu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos partizanai|Lietuvos partizanai]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1946 m.; įvykio data: 1946-1948; įvykio data: 1948 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys turi neaiškų numanomą veikėją, todėl perrašytas su aiškiu subjektu ir laikotarpiu.'
   pagrindžia:
     - c-005
 
@@ -71,6 +84,8 @@ Nenurodyta
 - t-004
   global_id: t-75179
   teiginys: 'Sovietams užblokavus Lietuvą nuo laisvojo pasaulio informacijos, atėmus iš žmonių radijo imtuvus, visose apygardose įkurti spaudos ir informacijos skyriai.'
+  sudarymo_pagrindimas: 'Teiginys turi aiškų subjektą ir veiksmą, citata jį tiesiogiai patvirtina.'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -78,6 +93,14 @@ Nenurodyta
 - t-005
   global_id: t-183252
   teiginys: 'Sovietams izoliavus Lietuvą nuo laisvojo pasaulio informacijos, partizanų apygardose įkurti spaudos ir informacijos skyriai.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Reikia aiškiau susieti įkurtus skyrius su partizanų apygardomis.'
+  susije_objektai: 'mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1947 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia aiškiau susieti įkurtus skyrius su partizanų apygardomis.'
   pagrindžia:
     - c-004
 
@@ -176,12 +199,3 @@ Nenurodyta
   pagrindžia:
     - t-006
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/NKVD]]
-- [[objektai/posakiai/karas po karo]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/grupes/Lietuvos partizanai]]
-- [[objektai/ivykiai/Lietuvos partizanų pasipriešinimas SSRS (1945-1953 m.)]]

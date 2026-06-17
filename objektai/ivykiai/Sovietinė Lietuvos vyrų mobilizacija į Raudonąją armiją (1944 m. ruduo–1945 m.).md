@@ -4,9 +4,10 @@ pavadinimas: 'Sovietinė Lietuvos vyrų mobilizacija į Raudonąją armiją (194
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
+  - '1907 m.'
   - '1944 m.'
-date_start: '1944'
-date_end: ''
+date_start: '1907'
+date_end: '1944'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -43,6 +44,11 @@ Nenurodyta
 - t-001
   global_id: t-20498
   teiginys: 'Pradėjus mobilizaciją į SSRS kariuomenę, lietuviai vengė tarnybos Raudonojoje armijoje, nes Lietuvą laikė okupuota.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūksta, todėl reikia užbaigtos ir glaustesnės formuluotės.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: SSRS'
+  temporaliniai_duomenys: 'įvykio data: 1907 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūksta, todėl reikia užbaigtos ir glaustesnės formuluotės.'
   pagrindžia:
     - c-001
 
@@ -61,7 +67,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]

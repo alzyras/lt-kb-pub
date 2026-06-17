@@ -21,6 +21,8 @@ Vis dėlto pasididžiavimas praeitimi, susietas su sunkiu darbu ir tinkamai skir
 - t-001
   global_id: t-41461
   teiginys: 'Zikaras pasididžiavimą praeitimi, siejamą su darbu ir tinkamomis priemonėmis, vertina kaip lietuvių stiprybę ir privalumą.'
+  sudarymo_pagrindimas: 'Teiginys yra autoriaus vertinimas, todėl reikia aiškios atribucijos ir mažiau dviprasmio „mūsų“.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Europa; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -47,7 +49,3 @@ Vis dėlto pasididžiavimas praeitimi, susietas su sunkiu darbu ir tinkamai skir
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]

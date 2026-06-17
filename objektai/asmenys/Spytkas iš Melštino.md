@@ -21,6 +21,8 @@ Taip pat lenkų didikai paremdavo ir jo reikalus, kaip Spytkas iš Melštino, vy
 - t-001
   global_id: t-96042
   teiginys: 'Spytkas iš Melštino buvo vienas iš lenkų didikų, rėmusių Vytauto reikalus.'
+  sudarymo_pagrindimas: 'Pradinis teiginys yra nutrūkęs fragmentas; citata leidžia suformuluoti pilną faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Luckas; mentioned_place: Naugardas'
   pagrindžia:
     - c-001
 
@@ -41,7 +43,3 @@ Taip pat lenkų didikai paremdavo ir jo reikalus, kaip Spytkas iš Melštino, vy
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]

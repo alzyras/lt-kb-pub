@@ -10,11 +10,11 @@ date_start: '1936'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - vieta
 amziai:
   - 'XX'
   - 'XXI'
-tags:
-  - vieta
 ---
 # Mažoji Azija
 
@@ -23,48 +23,42 @@ tags:
 Kiek vėliau Mažoji Azija pateko į Turkų valdžią; prekybos centrai, kurie grupavosi Viduržemio jūroje, tada pamažu visai Europai nustojo savo reikšmės, ir šiaurėje ėmė kurtis nauji prekybos centrai.
 
 ## Teiginiai
+
 <a id="claim-t-169044"></a>
 - t-001
   global_id: t-169044
   teiginys: 'Ordinas įsigijo daug turtų Mažojoje Azijoje ir Europoje.'
+  sudarymo_pagrindimas: 'Įvardis pakeistas aiškiu veikėju.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Europa'
   pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+    - c-002
+
 <a id="claim-t-169045"></a>
 - t-002
   global_id: t-169045
   teiginys: 'Mažojoje Azijoje buvo likusi tik nedidelė ordino dalis.'
+  sudarymo_pagrindimas: 'Pašalinta kontekstinė frazė „tuo būdu“.'
+  susije_objektai: 'mentioned_place: Vengrija'
   pagrindžia:
-    - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+    - c-001
+
 <a id="claim-t-183052"></a>
 - t-003
   global_id: t-183052
   teiginys: 'Mažajai Azijai patekus į turkų valdžią, Viduržemio jūros prekybos centrai pamažu neteko reikšmės Europai.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pašalinta kontekstinė pradžia ir OCR triukšmas, išlaikyti tik citatos faktai.'
+  susije_objektai: 'mentioned_place: Baltija; mentioned_place: Dniepras; mentioned_place: Europa'
   pagrindžia:
     - c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-
+- susijęs iš Viduržemio jūra: Mažajai Azijai patekus į turkų valdžią, Viduržemio jūros prekybos centrai pamažu prarado reikšmę Europai.
+- susijęs iš Šiaurės jūra: Šiaurės ir Baltijos jūrose suaktyvėjo prekyba, o jose įsigalėjo vokiškųjų miestų pirklių sąjunga Hanza.
+- susijęs iš Šiaurės jūra: Šiaurės ir Baltijos jūrose suaktyvėjo prekyba, o jose įsigalėjo vokiškųjų miestų pirklių sąjunga Hanza.
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Ordinas įsigijo daug turtų Mažojoje Azijoje ir Europoje.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Ordinas buvo vokiečių imperatorių bei kunigaikščių remia-
-    mas ir labai greit pralobo. Jis įsigijo daugybę turtų ne tik Mažojoj
-    Azijoj, bet ir Europoj. Krikščionių būklė Mažojoj Azijoj buvo labai
-    netikra, todėl kryžiuočių vadovybė stengėsi įsistiprinti Europoj.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
   santrauka: 'Mažojoje Azijoje buvo likusi tik nedidelė ordino dalis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -72,13 +66,26 @@ Kiek vėliau Mažoji Azija pateko į Turkų valdžią; prekybos centrai, kurie g
     atskirą valstybę. Mažojoj Azijoj tuo būdu buvo likusi tik nedidelė
     ordino dalis. Į Vengriją ordinas buvo pakviestas kariauti su ją puo-
     lančiais pagonimis kumanais.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002
+
+- c-002
+  santrauka: 'Ordinas įsigijo daug turtų Mažojoje Azijoje ir Europoje.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Ordinas buvo vokiečių imperatorių bei kunigaikščių remia-
+    mas ir labai greit pralobo. Jis įsigijo daugybę turtų ne tik Mažojoj
+    Azijoj, bet ir Europoj. Krikščionių būklė Mažojoj Azijoj buvo labai
+    netikra, todėl kryžiuočių vadovybė stengėsi įsistiprinti Europoj.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
 - c-003
   santrauka: 'Mažajai Azijai patekus į turkų valdžią, Viduržemio jūros prekybos centrai pamažu neteko reikšmės Europai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -93,10 +100,8 @@ Kiek vėliau Mažoji Azija pateko į Turkų valdžią; prekybos centrai, kurie g
     centrai. Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose;
     čia įsigalėjo vokiškųjų miestų pirklių sąjunga, vadinamoji Han-
     za.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-003

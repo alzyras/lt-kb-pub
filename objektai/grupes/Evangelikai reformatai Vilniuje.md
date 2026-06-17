@@ -28,6 +28,11 @@ Iš lenkiškų ir lotyniškų spaustuvių, be aukščiau paminėtos Radvilų, o 
 - t-001
   global_id: t-86791
   teiginys: 'Apie 1580 m. Vilniuje klestėjo evangelikų reformatų Danieliaus iš Lenčicos spaustuvė.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai susijęs su evangelikų reformatų veikla Vilniuje.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kaštelionas|kaštelionas]]; mentioned_person: [[objektai/asmenys/Hlebavičius (Vilniaus vaivada ir karaliaus kancleris)|Hlebavičius (Vilniaus vaivada ir karaliaus kancleris)]]; mentioned_place: Lenčica; mentioned_place: Minskas; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1580 m.; įvykio data: apie 1580 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir tiesiogiai susijęs su evangelikų reformatų veikla Vilniuje.'
   pagrindžia:
     - c-001
 
@@ -54,12 +59,3 @@ Iš lenkiškų ir lotyniškų spaustuvių, be aukščiau paminėtos Radvilų, o 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Hlebavičius (Vilniaus vaivada ir karaliaus kancleris)]]
-- [[objektai/zodynas/kaštelionas]]
-- [[objektai/asmenys/Danielius iš Lenčicos]]
-- [[objektai/asmenys/Jonas Hlebavičius]]
-- [[objektai/asmenys/Jonas Karcanas]]
-- [[objektai/asmenys/Kasparas Vilkovskis]]

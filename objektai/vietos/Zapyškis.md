@@ -20,6 +20,8 @@ pirmame trečdalyje, kai buvo pastatyti reikšmingiausi paminklai Kaune ir ypač
 - t-001
   global_id: t-21933
   teiginys: 'XV a. pabaigoje–XVI a. pirmame trečdalyje gotika pasiekė provinciją, įskaitant Kėdainius ir Zapyškį.'
+  sudarymo_pagrindimas: 'Pradinis teiginys prasideda mažąja raide ir yra fragmentiškas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_object: [[objektai/zodynas/gotika|gotika]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Kaunas; mentioned_place: Kėdainiai; mentioned_place: Naugardukas; mentioned_place: Salos; mentioned_place: Trakai'
   pagrindžia:
     - c-001
 

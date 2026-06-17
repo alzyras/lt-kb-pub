@@ -20,6 +20,8 @@ Frankovskio vadovaujamus lietuvių įtvirtinimus tarp Naujininkų, šv.
 - t-001
   global_id: t-38518
   teiginys: 'Leontijaus Bennigseno kavalerija atakavo lietuvių įtvirtinimus tarp Naujininkų, Šv. Stepono bažnyčios ir Poguliankos rajonų.'
+  sudarymo_pagrindimas: 'Pradinis teiginys yra nutrūkęs, o citata leidžia atkurti pilną sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Leontijus Bennigsenas|Leontijus Bennigsenas]]; mentioned_place: Pogulianka'
   pagrindžia:
     - c-001
 

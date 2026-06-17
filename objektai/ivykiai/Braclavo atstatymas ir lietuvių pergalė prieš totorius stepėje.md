@@ -16,7 +16,7 @@ amziai:
 
 ## Santrauka
 
-Tuo metu stepėje, dvylika mylių nuo Braclavo, lietuviai sumušė kelis šimtus totorių. Iš Braclavo į Moldaviją išvaryti žmonės sugrįžo į miestą. Didysis kunigaikštis Aleksandras nemažai laiko praleido Braclave ir atstatė Braclavo miestą.
+Aleksandras nemaža laiko išstovėjo Braclave ir atstatė Braclavo miestą. Iš Braclavo į Moldaviją išvaryti žmonės sugrįžo į miestą.
 
 ## Laikotarpis ir datos
 
@@ -45,21 +45,30 @@ Nenurodyta
 <a id="claim-t-186661"></a>
 - t-001
   global_id: t-186661
-  teiginys: 'Tuo metu stepėje, dvylika mylių nuo Braclavo, lietuviai sumušė kelis šimtus totorių.'
+  teiginys: 'Lietuvos metraštis pasakoja, kad tuo metu stepėje, dvylika mylių nuo Braclavo, lietuviai sumušė kelis šimtus totorių.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys jau atribuoja pasakojimą Lietuvos metraščiui ir aiškiai nurodo įvykį prie Braclavo. Priešo apibūdinimas paliktas kaip šaltinio pasakojimo dalis.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_place: Braclavas; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
 <a id="claim-t-186662"></a>
 - t-002
   global_id: t-186662
-  teiginys: 'Iš Braclavo į Moldaviją išvaryti žmonės sugrįžo į miestą.'
+  teiginys: 'Lietuvos metraščio pasakojime visi iš Braclavo į Moldaviją išvaryti žmonės sugrįžo į Braclavą po miesto atstatymo.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Kronikos pasakojimas perteiktas kaip šaltinio teiginys ir patikslintas objektas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_place: Braclavas; mentioned_place: Lietuva; mentioned_place: Moldavija'
   pagrindžia:
     - c-001
 
 <a id="claim-t-186663"></a>
 - t-003
   global_id: t-186663
-  teiginys: 'Didysis kunigaikštis Aleksandras nemažai laiko praleido Braclave ir atstatė Braclavo miestą.'
+  teiginys: 'Lietuvos metraštis Aleksandrą vadina didžiuoju kunigaikščiu ir pasakoja, kad jis nemažai laiko praleido Braclave bei atstatė miestą.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Valdovo titulas ir kronikos pasakojimas šiame profilyje turi būti atribuuoti.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_place: Braclavas; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -82,11 +91,3 @@ Nenurodyta
     - t-003
     - t-002
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Aleksandras]]
-- [[objektai/asmenys/Aleksandras Jogailaitis]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/didysis kunigaikštis]]
-- [[objektai/grupes/Totoriai]]

@@ -38,6 +38,8 @@ Nenurodyta
 - t-001
   global_id: t-08289
   teiginys: 'Kaltininkus pririšdavo prie dybo ir plakdavo.'
+  teiginio_tipas: 'faktas'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Vieža|Vieža]]'
   pagrindžia:
     - c-001
 
@@ -58,7 +60,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Vieža|vieža]]

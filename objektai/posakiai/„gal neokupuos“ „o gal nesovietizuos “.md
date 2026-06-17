@@ -21,6 +21,8 @@ Atkritus vilčiai, kad sovietai „gal neokupuos“, liko dar viena – „o gal
 - t-001
   global_id: t-26353
   teiginys: 'Sovietų okupacijos akivaizdoje viltys, kad jie „gal neokupuos“ ar „o gal nesovietizuos“, žlugo.'
+  sudarymo_pagrindimas: 'Pirminis teiginys per abstraktus; citata leidžia aiškiau įvardyti sovietų okupacijos kontekstą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Merkys; mentioned_place: Viena; mentioned_place: Vokietija'
   pagrindžia:
     - c-001
 
@@ -41,7 +43,3 @@ Atkritus vilčiai, kad sovietai „gal neokupuos“, liko dar viena – „o gal
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/A. Smetona]]

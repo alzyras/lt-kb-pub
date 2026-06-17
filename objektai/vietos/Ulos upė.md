@@ -22,6 +22,8 @@ tags:
 - t-001
   global_id: t-42226
   teiginys: 'P. Šuiskis pasirinko mūšio vietą lauke tarpumiškyje prie Ulos upės netoli Čašnikų.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nurodo veikėją, veiksmą ir vietą prie Ulos upės.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)|Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Čašnikai'
   pagrindžia:
     - c-001
 

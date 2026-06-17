@@ -50,6 +50,8 @@ Nenurodyta
 - t-001
   global_id: t-47802
   teiginys: 'Jonas III, laikydamas save žlugusios Bizantijos paveldėtoju, pasisavino jos dvigalvį erelį ir imperatoriaus dvaro ceremonialą.'
+  sudarymo_pagrindimas: 'Citata remia aiškesnį teiginį be netikslaus žodžio apie herbą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Romai|Romai]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Bizantija; mentioned_place: Maskva'
   pagrindžia:
     - c-001
 
@@ -57,6 +59,7 @@ Nenurodyta
 - t-002
   global_id: t-47803
   teiginys: 'Jonas III, laikydamas save žlugusios Bizantijos imperijos paveldėtoju, pasisavino jos dvigalvį erelį ir dvaro ceremonialą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Romai|Romai]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Bizantija; mentioned_place: Maskva'
   pagrindžia:
     - c-001
 
@@ -79,12 +82,3 @@ Nenurodyta
   pagrindžia:
     - t-001
     - t-002
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/simbolis]]
-
-### Susiję objektai
-- [[objektai/asmenys/Jonas]]
-- [[objektai/grupes/Romai]]
-- [[objektai/paprociai/Imperatoriaus dvaro ceremonialo perėmimas]]

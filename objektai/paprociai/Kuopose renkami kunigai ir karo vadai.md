@@ -34,6 +34,8 @@ Nenurodyta
 - t-001
   global_id: t-07788
   teiginys: 'Į kuopas suėjęs svietas rinkdavo žynius arba kunigus iš dorų, išmintingų ir patyrusių vyrų.'
+  sudarymo_pagrindimas: 'Teiginį reikia aiškiai susieti su kuopose renkamais kunigais.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Rėda|Rėda]]; mentioned_object: [[objektai/zodynas/Žynių titulai ir pareigybės|Žynių titulai ir pareigybės]]; mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-001
     - c-002
@@ -66,8 +68,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Kūrėjų kūrėjas|kūrėjų kūrėjas]]
-- [[objektai/zodynas/Rėda|rėda]]

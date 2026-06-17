@@ -5,8 +5,9 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1937 m.'
+  - '1938 m.'
 date_start: '1937'
-date_end: ''
+date_end: '1938'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -21,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-Kovo 17 d. Varšuva įteikė Lietuvai ultimatumą, reikalaudama užmegzti diplomatinius santykius ir be išlygų atsakyti teigiamai. Priėmus Lenkijos ultimatumą Lietuva turėjo atkurti diplomatinius santykius, apsikeisti pasiuntinybėmis ir nutraukti „Vilniui vaduoti sąjungos“ veiklą. Po Lenkijos ultimatumo Lietuva turėjo apsikeisti pasiuntinybėmis, įsteigti konsulatą Vilniuje ir paleisti „Vilniui vaduoti sąjungą“.
+Nors per panašius incidentus lenkai buvo nušovę 7 lietuvių pasienio policininkus, Varšuva, Vokietijai absorbuojant Austriją, sukėlė antilietuvišką isteriją ir kovo 17-ąją įteikė Lietuvai ultimatumą, reikalaudama užmegzti diplomatinius santykius, be išlygų. Politikai Kaune ultimatumo tikėjosi, patys ieškojo būdų, kaip užmegzti santykius. Tautinėms lietuvių ambicijoms buvo suduotas stiprus smūgis – teko liautis minėti spalio 9-ąją – Vilniaus praradimo dieną, apsikeisti pasiuntinybėmis, įsteigti Vilniuje Lietuvos konsulatą, paleisti 700 000 narių turėjusią patriotinę „Vilniui vaduoti sąjungą“.
 
 ## Laikotarpis ir datos
 
@@ -45,6 +46,11 @@ Nenurodyta
 - t-001
   global_id: t-75117
   teiginys: 'Kovo 17 d. Varšuva įteikė Lietuvai ultimatumą, reikalaudama užmegzti diplomatinius santykius ir be išlygų atsakyti teigiamai.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nusako ultimatumo datą, veikėją ir reikalavimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Varšuva; mentioned_place: Vokietija'
+  temporaliniai_duomenys: 'įvykio data: 1938 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako ultimatumo datą, veikėją ir reikalavimą.'
   pagrindžia:
     - c-001
 
@@ -52,6 +58,8 @@ Nenurodyta
 - t-002
   global_id: t-75118
   teiginys: 'Priėmus Lenkijos ultimatumą Lietuva turėjo atkurti diplomatinius santykius, apsikeisti pasiuntinybėmis ir nutraukti „Vilniui vaduoti sąjungos“ veiklą.'
+  sudarymo_pagrindimas: 'Pradinis teiginys labiau apibūdina nuotaikas, o citata geriau pagrindžia konkrečius ultimatumo priėmimo padarinius.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Varšuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 
@@ -59,6 +67,7 @@ Nenurodyta
 - t-003
   global_id: t-75119
   teiginys: 'Po Lenkijos ultimatumo Lietuva turėjo apsikeisti pasiuntinybėmis, įsteigti konsulatą Vilniuje ir paleisti „Vilniui vaduoti sąjungą“.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Varšuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 
@@ -66,6 +75,8 @@ Nenurodyta
 - t-004
   global_id: t-75120
   teiginys: 'Kauno politikai tikėjosi Lenkijos ultimatumo ir patys ieškojo būdų užmegzti santykius su Lenkija.'
+  sudarymo_pagrindimas: 'Reikia aiškiau įvardyti santykių šalį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Berlynas; mentioned_place: Kaunas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Vokietija'
   pagrindžia:
     - c-002
 
@@ -139,13 +150,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-005
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/A. Smetona]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Prancūzai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/asmenys/Stasys Raštikis]]
-- [[objektai/grupes/Vilniui vaduoti sąjunga]]

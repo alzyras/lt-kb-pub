@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Vakare Vilniaus įgula, dengiama Kazimiero Sapiegos vadovaujamos artilerijos baterijos, atsitraukė per Žaliąjį tiltą.
+Vakare Vilniaus įgula, dengiama artilerijos kapitono kunigaikščio Kazimiero Sapiegos, sumaniai vadovaujamos artilerijos baterijos, sėkmingai atsitraukė per Žaliąjį tiltą.
 
 ## Teiginiai
 
@@ -21,6 +21,8 @@ Vakare Vilniaus įgula, dengiama Kazimiero Sapiegos vadovaujamos artilerijos bat
 - t-001
   global_id: t-42390
   teiginys: 'Vakare Vilniaus įgula, dengiama Kazimiero Sapiegos vadovaujamos artilerijos baterijos, atsitraukė per Žaliąjį tiltą.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiksliai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Sapiegos|Sapiegos]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

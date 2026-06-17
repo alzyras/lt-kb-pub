@@ -26,6 +26,11 @@ Dusburgietis teigia, kad powierski J.
 - t-001
   global_id: t-61247
   teiginys: 'J. Powierskio straipsnis „Uwagi o starożytnych dziejach ziem pruskich“ paskelbtas 1976 m. ZHPB 41 tomo 4 sąsiuvinyje.'
+  sudarymo_pagrindimas: 'Citata leidžia suformuluoti pilną bibliografinį sakinį.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
+  temporaliniai_duomenys: 'įvykio data: 1976 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata leidžia suformuluoti pilną bibliografinį sakinį.'
   pagrindžia:
     - c-001
 

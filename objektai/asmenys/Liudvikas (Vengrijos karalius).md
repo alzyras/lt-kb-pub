@@ -14,6 +14,7 @@ tags:
   - karalius
   - ordinas
   - pilis
+  - valdovas
 amziai:
   - 'XIV'
 periodo_grupes:
@@ -31,6 +32,12 @@ periodo_grupes:
 - t-001
   global_id: t-39587
   teiginys: '1345 m. sausį Vengrijos karalius Liudvikas atvyko į Prūsiją su kitais valdovais ir kilmingaisiais.'
+  sudarymo_pagrindimas: 'Pradinis teiginys gramatiškas, bet geriau sutelkti sakinį į šio asmens veiksmą.'
+  susije_objektai: 'location: Lietuva; location: Nemunas; location: Niurnbergas; location: Pieštvė; location: Prūsija; location: Veliuona; location: Vengrija; location: Čekija; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Niurnbergas; mentioned_place: Pieštvė; mentioned_place: Prūsija; mentioned_place: Veliuona; mentioned_place: Vengrija; mentioned_place: Čekija'
+  semantiniai_rysiai: '[[objektai/asmenys/Liudvikas (Vengrijos karalius)|Liudvikas (Vengrijos karalius)]] keliavo į Lietuva; [[objektai/asmenys/Liudvikas (Vengrijos karalius)|Liudvikas (Vengrijos karalius)]] keliavo į Nemunas; [[objektai/asmenys/Liudvikas (Vengrijos karalius)|Liudvikas (Vengrijos karalius)]] keliavo į Niurnbergas; [[objektai/asmenys/Liudvikas (Vengrijos karalius)|Liudvikas (Vengrijos karalius)]] keliavo į Pieštvė; [[objektai/asmenys/Liudvikas (Vengrijos karalius)|Liudvikas (Vengrijos karalius)]] keliavo į Prūsija; [[objektai/asmenys/Liudvikas (Vengrijos karalius)|Liudvikas (Vengrijos karalius)]] keliavo į Veliuona; [[objektai/asmenys/Liudvikas (Vengrijos karalius)|Liudvikas (Vengrijos karalius)]] keliavo į Vengrija; [[objektai/asmenys/Liudvikas (Vengrijos karalius)|Liudvikas (Vengrijos karalius)]] keliavo į Čekija'
+  temporaliniai_duomenys: 'kelionės data: 1345 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Liudvikas (Vengrijos karalius) keliavo į Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Liudvikas (Vengrijos karalius) keliavo į Nemunas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Liudvikas (Vengrijos karalius) keliavo į Niurnbergas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Liudvikas (Vengrijos karalius) keliavo į Pieštvė“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Liudvikas (Vengrijos karalius) keliavo į Prūsija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Liudvikas (Vengrijos karalius) keliavo į Veliuona“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Liudvikas (Vengrijos karalius) keliavo į Vengrija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Liudvikas (Vengrijos karalius) keliavo į Čekija“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys gramatiškas, bet geriau sutelkti sakinį į šio asmens veiksmą.'
   pagrindžia:
     - c-001
 
@@ -55,6 +62,11 @@ periodo_grupes:
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- Liudvikas (Vengrijos karalius) keliavo_i [[objektai/vietos/Lietuva]]
+- Liudvikas (Vengrijos karalius) keliavo_i [[objektai/vietos/Nemunas]]
+- Liudvikas (Vengrijos karalius) keliavo_i [[objektai/vietos/Niurnbergas]]
+- Liudvikas (Vengrijos karalius) keliavo_i [[objektai/vietos/Pieštvė]]
+- Liudvikas (Vengrijos karalius) keliavo_i [[objektai/vietos/Prūsija]]
+- Liudvikas (Vengrijos karalius) keliavo_i [[objektai/vietos/Veliuona]]
+- Liudvikas (Vengrijos karalius) keliavo_i [[objektai/vietos/Vengrija]]
+- Liudvikas (Vengrijos karalius) keliavo_i [[objektai/vietos/Čekija]]

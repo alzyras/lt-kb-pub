@@ -45,6 +45,11 @@ Nenurodyta
 - t-001
   global_id: t-75307
   teiginys: '1939 m. kovo 23 d. Klaipėdoje Adolfą Hitlerį sveikino vietos vokiečių nacių simpatikai ir SA smogikai.'
+  sudarymo_pagrindimas: 'Citata yra iliustracijos antraštė, bet palaiko aiškų faktinį sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/SA smogikai|SA smogikai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]'
+  temporaliniai_duomenys: 'įvykio data: 1939 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata yra iliustracijos antraštė, bet palaiko aiškų faktinį sakinį.'
   pagrindžia:
     - c-001
 
@@ -52,6 +57,11 @@ Nenurodyta
 - t-002
   global_id: t-75308
   teiginys: '1939 m. kovo 23 d. Lietuva ir Vokietija pasirašė Klaipėdos teritorijos perdavimo sutartį.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir tiesiogiai atitinka citatos informaciją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/A. Hitleris|A. Hitleris]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_place: Lietuva; mentioned_place: Vokietija'
+  temporaliniai_duomenys: 'įvykio data: 1939 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys ir tiesiogiai atitinka citatos informaciją.'
   pagrindžia:
     - c-003
 
@@ -59,6 +69,8 @@ Nenurodyta
 - t-003
   global_id: t-75309
   teiginys: 'Praradusi Klaipėdą Lietuva neteko trečdalio ekonomikos, nors Klaipėda sudarė 6 proc. Lietuvos teritorijos ir 5 proc. gyventojų.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs; citata leidžia suformuluoti pilną faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Klaipėda; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -66,6 +78,11 @@ Nenurodyta
 - t-004
   global_id: t-75310
   teiginys: '1939 m. kovo 23 d. Adolfas Hitleris Klaipėdoje sakė kalbą vietos vokiečiams iš teatro balkono.'
+  sudarymo_pagrindimas: 'Pradiniame tekste susimaišė pastraipa, paveikslo antraštė ir puslapio triukšmas, bet citata palaiko šį faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/SA smogikai|SA smogikai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]'
+  temporaliniai_duomenys: 'įvykio data: 1939 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradiniame tekste susimaišė pastraipa, paveikslo antraštė ir puslapio triukšmas, bet citata palaiko šį faktą.'
   pagrindžia:
     - c-001
 
@@ -124,13 +141,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/A. Hitleris]]
-- [[objektai/asmenys/A. Smetona]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/SA smogikai]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/ivykiai/Antano Merkio vyriausybės sudarymas (1939 m. lapkritis)]]

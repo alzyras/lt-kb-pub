@@ -41,6 +41,7 @@ Terminas žymi kovinę seką, kurioje eilės šaudo pakaitomis, nuolat persiriki
 - t-001
   global_id: t-42460
   teiginys: 'Karakolė, arba „sraigė“, reiškė šaulių priekinės eilės pasitraukimą į rikiuotės galą po salvės.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Protestantai|Protestantai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/muškietininkai|muškietininkai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -48,6 +49,7 @@ Terminas žymi kovinę seką, kurioje eilės šaudo pakaitomis, nuolat persiriki
 - t-002
   global_id: t-42461
   teiginys: 'Karakolė buvo taktika, kai priekinė šaulių eilė po salvės pasisukdavo dešinėn, žygiuodavo į rikiuotės galą ir ten užtaisydavo ginklus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Protestantai|Protestantai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/zodynas/muškietininkai|muškietininkai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -55,6 +57,7 @@ Terminas žymi kovinę seką, kurioje eilės šaudo pakaitomis, nuolat persiriki
 - t-003
   global_id: t-42462
   teiginys: 'Švedų raitarai pasikliovė karakoliavimo taktika.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/husarai|husarai]]; mentioned_object: [[objektai/zodynas/raitarai|raitarai]]; mentioned_place: Austrija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -62,6 +65,8 @@ Terminas žymi kovinę seką, kurioje eilės šaudo pakaitomis, nuolat persiriki
 - t-004
   global_id: t-42463
   teiginys: 'Švedų raitarai, pasikliaudami karakoliavimo taktika, vengdavo artimo mūšio.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie karakoliavimo taktiką.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/husarai|husarai]]; mentioned_place: Austrija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -69,6 +74,11 @@ Terminas žymi kovinę seką, kurioje eilės šaudo pakaitomis, nuolat persiriki
 - t-005
   global_id: t-183710
   teiginys: 'Karakolės metu priekinė šaulių eilė, iššovusi salvę, pasisukdavo dešinėn, grįždavo į rikiuotės galą ir ten užtaisydavo ginklus.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Reikia paversti aprašomąjį fragmentą aiškiu vieno sakinio apibrėžimu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Protestantai|Protestantai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/zodynas/muškietininkai|muškietininkai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -133,12 +143,3 @@ Terminas žymi kovinę seką, kurioje eilės šaudo pakaitomis, nuolat persiriki
     - t-005
     - t-001
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Protestantai]]
-- [[objektai/zodynas/husarai]]
-- [[objektai/zodynas/muškietininkai]]
-- [[objektai/grupes/Švedai]]
-- [[objektai/daiktai/Ginklai]]
-- [[objektai/zodynas/raitarai]]

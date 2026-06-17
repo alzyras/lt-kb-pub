@@ -25,7 +25,7 @@ periodo_grupes:
 
 ## Santrauka
 
-LDK valdovas Aleksandras vyriausiais kariuomenės vadais paskyrė etmoną Stanislovą Kišką ir dvaro maršalką Mykolą Glinskį. Rugpjūčio 5 d. paryčiais etmonas Stanislovas Kiška dėl žygio vargų nebegalėjo vadovauti ir pageidavo toliau važiuoti vežimu. Stanislovas Kiška Kazimiero įsakymu su turimomis jėgomis turėjo sustabdyti maskvėnų antpuolius.
+Stanislovas Kiška nebuvo labai gabus karvedys, bet jau turėjo tam tikros patirties kovose su totoriais ir maskvėnais (po to, kai 1502 m. jam pavyko apginti Smolenską nuo maskvėnų, jam buvo patikėtos etmono pareigos). Rugpjūčio 5 d. paryčiais žygio vargai etmoną Stanislovą Kišką išvertė iš kojų.
 
 ## Teiginiai
 
@@ -33,6 +33,12 @@ LDK valdovas Aleksandras vyriausiais kariuomenės vadais paskyrė etmoną Stanis
 - t-001
   global_id: t-79162
   teiginys: 'LDK valdovas Aleksandras vyriausiais kariuomenės vadais paskyrė etmoną Stanislovą Kišką ir dvaro maršalką Mykolą Glinskį.'
+  sudarymo_pagrindimas: 'Citata leidžia patikslinti Stanislovo Kiškos pareigas ir pašalinti trumpinį.'
+  susije_objektai: 'territory: Smolenskas; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_object: [[objektai/zodynas/maršalka|maršalka]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Kiška|Kiška]]; mentioned_person: [[objektai/asmenys/Stanislovas|Stanislovas]]; mentioned_place: Smolenskas'
+  semantiniai_rysiai: '[[objektai/asmenys/Stanislovas Kiška|Stanislovas Kiška]] buvo valdovas Smolenskas'
+  temporaliniai_duomenys: 'valdymo laikotarpis: 1502 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Stanislovas Kiška buvo valdovas Smolenskas“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata leidžia patikslinti Stanislovo Kiškos pareigas ir pašalinti trumpinį.'
   pagrindžia:
     - c-002
 
@@ -40,6 +46,7 @@ LDK valdovas Aleksandras vyriausiais kariuomenės vadais paskyrė etmoną Stanis
 - t-002
   global_id: t-79163
   teiginys: 'Rugpjūčio 5 d. paryčiais etmonas Stanislovas Kiška dėl žygio vargų nebegalėjo vadovauti ir pageidavo toliau važiuoti vežimu.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Kiška|Kiška]]; mentioned_person: [[objektai/asmenys/Stanislovas|Stanislovas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -47,6 +54,14 @@ LDK valdovas Aleksandras vyriausiais kariuomenės vadais paskyrė etmoną Stanis
 - t-003
   global_id: t-184831
   teiginys: 'Stanislovas Kiška Kazimiero įsakymu su turimomis jėgomis turėjo sustabdyti maskvėnų antpuolius.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis teiginys labiau akcentuoja Kazimiero veiksmą, todėl perrašyta aiškiau apie Kiškos vaidmenį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_person: [[objektai/asmenys/Kiška|Kiška]]; mentioned_person: [[objektai/asmenys/Stanislovas|Stanislovas]]; mentioned_place: Kazanė; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Viazma'
+  temporaliniai_duomenys: 'įvykio data: 1442 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys labiau akcentuoja Kazimiero veiksmą, todėl perrašyta aiškiau apie Kiškos vaidmenį.'
   pagrindžia:
     - c-003
 
@@ -54,6 +69,11 @@ LDK valdovas Aleksandras vyriausiais kariuomenės vadais paskyrė etmoną Stanis
 - t-004
   global_id: t-184832
   teiginys: 'Stanislovas Kiška prasivalė kelią ir nusiaubė Viazmos žemę bei gretimas apygardas, žudydamas ir degindamas.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir tiesiogiai paremtas citata apie Kiškos žygį.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kiška|Kiška]]; mentioned_person: [[objektai/asmenys/Stanislovas|Stanislovas]]; mentioned_place: Viazma'
   pagrindžia:
     - c-004
 
@@ -61,9 +81,18 @@ LDK valdovas Aleksandras vyriausiais kariuomenės vadais paskyrė etmoną Stanis
 - t-005
   global_id: t-184833
   teiginys: 'Sužinojęs apie iš slėptuvių išviliotą priešo kariuomenę, Stanislovas Kiška paprašė karaliaus pagalbos.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Antraštės ir puslapio triukšmas pašalintas, išlaikytas remiamas faktas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Kiška|Kiška]]; mentioned_person: [[objektai/asmenys/Stanislovas|Stanislovas]]; mentioned_place: Maskva'
   pagrindžia:
     - c-005
-
+- susijęs iš [[objektai/asmenys/Aleksandras.md#claim-t-89626|Aleksandras]]: Mirtinai negaluojantis LDK valdovas Aleksandras kariuomenės vadais paskyrė Stanislovą Kišką ir Mykolą Glinskį.
+- susijęs iš [[objektai/asmenys/Mykolas Glinskis.md#claim-t-82630|Mykolas Glinskis]]: Mykolas Glinskis kartu su Stanislovu Kiška buvo paskirtas vienu vyriausiųjų kariuomenės vadų.
+- susijęs iš [[objektai/grupes/LDK Ponų Taryba.md#claim-t-187765|LDK Ponų Taryba (institucija, XV a.)]]: Jonas Zaberezinskis, Vaitiekus Taboras, Stanislovas Kiška ir Stanislovas Jonaitis Kęsgaila buvo pašalinti iš LDK Ponų Tarybos.
+- susijęs iš [[objektai/grupes/Ponų taryba.md#claim-t-187739|Ponų taryba (institucija)]]: Jonas Zaberezinskis, Vaitiekus Taboras, Stanislovas Kiška ir Stanislovas Jonaitis Kęsgaila buvo pašalinti iš Ponų tarybos.
+- susijęs iš Viazmos žemė: Stanislovas Kiška nusiaubė Viazmos žemę ir gretimas apygardas, visur žudydamas ir degindamas.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -181,19 +210,4 @@ LDK valdovas Aleksandras vyriausiais kariuomenės vadais paskyrė etmoną Stanis
     - t-005
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/karvedys]]
-- [[temos/transportas]]
-
-### Susiję objektai
-- [[objektai/asmenys/Kiška]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Maskvėnai]]
-- [[objektai/zodynas/ponai]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/asmenys/Stanislovas]]
-- [[objektai/zodynas/etmonas]]
-- [[objektai/zodynas/maršalka]]
-- [[objektai/zodynas/Miera|miera]]
-- [[objektai/grupes/LDK Ponų Taryba|LDK Ponų Taryba (institucija, XV a.)]]
-- [[objektai/grupes/Ponų taryba|Ponų taryba (institucija)]]
+- Stanislovas Kiška buvo_valdovas [[objektai/vietos/Smolenskas]]

@@ -6,6 +6,7 @@ saltiniai:
 datos:
   - '1940 m.'
   - '1948 m.'
+  - '1949 m.'
   - '1950 m.'
   - '1972 m.'
 date_start: '1940'
@@ -31,6 +32,9 @@ Valstybės saugumo komiteto (KGB) kontržvalgybos organai agentus-smogikus naudo
 - t-001
   global_id: t-41536
   teiginys: 'KGB kontržvalgybos organai agentus-smogikus laikė rezervu kovai su žvalgybinėmis-diversinėmis grupėmis ir nacionalistinėmis gaujomis karo metu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Agentai-smogikai|Agentai-smogikai]]; mentioned_object: [[objektai/zodynas/rezervas|rezervas]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_place: Baltija; mentioned_place: Ukraina'
+  temporaliniai_duomenys: 'įvykio data: 1940-1950; įvykio data: 1948 m.; įvykio data: 1949 m.; įvykio data: 1950 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

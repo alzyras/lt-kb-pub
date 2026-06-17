@@ -46,6 +46,11 @@ Nenurodyta
 - t-001
   global_id: t-55026
   teiginys: '1766 m. Puzinienė iš Oginskių užrašė 6 000 raudonųjų auksinų Akademijos observatorijos įkūrimui, prietaisams ir astronomijos profesoriams.'
+  sudarymo_pagrindimas: 'Teiginys tiksliai nurodo datą, asmenį, sumą ir paskirtį pagal citatą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Oginskiai|Oginskiai]]; mentioned_object: [[objektai/daiktai/Duona|Duona]]; mentioned_person: [[objektai/asmenys/Puzinienė iš Oginskių|Puzinienė iš Oginskių]]; mentioned_place: Mstislavlis'
+  temporaliniai_duomenys: 'įvykio data: 1766 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys tiksliai nurodo datą, asmenį, sumą ir paskirtį pagal citatą.'
   pagrindžia:
     - c-001
 
@@ -53,9 +58,16 @@ Nenurodyta
 - t-002
   global_id: t-81838
   teiginys: 'Puzinienė iš Oginskių 1766 m. Akademijos observatorijos įkūrimui, prietaisams ir astronomijos profesoriams užrašė 6 000 raudonųjų auksinų.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Oginskiai|Oginskiai]]; mentioned_object: [[objektai/daiktai/Duona|Duona]]; mentioned_person: [[objektai/asmenys/Puzinienė iš Oginskių|Puzinienė iš Oginskių]]; mentioned_place: Akademijos aikštė; mentioned_place: Mstislavlis; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1766 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/asmenys/Puzinienė iš Oginskių.md#claim-t-87840|Puzinienė iš Oginskių]]: Puzinienė iš Oginskių 1766 m. Akademijos observatorijos įkūrimui, prietaisams ir astronomijos profesoriams užrašė 6 000 raudonųjų auksinų.
+- susijęs iš Akademijos aikštė: Prie Akademijos aikštės tėvas Riokuras finansavo vieną klasių eilę, o įvairūs jėzuitai apstatydino kitą klasių ir viešų susirinkimų salės eilę.
+- susijęs iš [[objektai/zodynas/Olia Charitatis.md#claim-t-86601|Olia Charitatis]]: Iš Joniškio pajamų neturtingiems studentams kasdien buvo skiriami Olia Charitatis labdaringi pietūs ir duonos kepalas.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -100,13 +112,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/įrankis]]
-
-### Susiję objektai
-- [[objektai/grupes/Oginskiai]]
-- [[objektai/daiktai/Duona]]
-- [[objektai/asmenys/Puzinienė iš Oginskių]]
-- [[objektai/zodynas/Olia Charitatis]]

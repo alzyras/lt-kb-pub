@@ -3,11 +3,19 @@ tipas: asmuo
 pavadinimas: 'Juozas Pajaujis'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1927 m.'
+date_start: '1927'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - seimas
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'modernioji Lietuva'
 ---
 # Juozas Pajaujis
 
@@ -21,6 +29,11 @@ Atsitokėjusi kairioji opozicija dar pabandė perversmininkų stiliumi grąžint
 - t-001
   global_id: t-19016
   teiginys: '1927 m. pavasarį apie Seimo narį Juozą Pajaujį susibūrusios grupės perversmo planas žlugo suėmus J. Pajaujį.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir paremtas citatoje aprašytu perversmo plano žlugimu.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_person: [[objektai/asmenys/A. Voldemaras|A. Voldemaras]]'
+  temporaliniai_duomenys: 'įvykio data: 1927 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, faktinis ir paremtas citatoje aprašytu perversmo plano žlugimu.'
   pagrindžia:
     - c-001
 
@@ -49,9 +62,3 @@ Atsitokėjusi kairioji opozicija dar pabandė perversmininkų stiliumi grąžint
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/seimas]]
-- [[objektai/ivykiai/Juozo Pajaujo grupės perversmo plano žlugimas (1927 m. pavasaris)]]
-- [[objektai/posakiai/„seimų laikus“]]

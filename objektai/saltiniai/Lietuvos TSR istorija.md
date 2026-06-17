@@ -19,7 +19,7 @@ amziai:
 
 ## Santrauka
 
-Pirmasis „Lietuvos TSR istorijos“ tomas išleistas Vilniuje 1957 m. „Lietuvos TSR istorijoje“ neaiškiai minima, kad prūsus ir vakarinius lietuvius tarp Vyslos ir Nemuno skyrė Persantės upė.
+Dusburgietis teigia, kad prūsus ir vakarinius lietuvius tarp Vyslos ir Nemuno, kartais — tiesa, neaiškiai — minima, kad juos skyrusi Persantės upė (Lietuvos TSR istorija. Dusburgietis teigia, kad lietuvos TSR istorija.—T.
 
 ## Teiginiai
 
@@ -27,6 +27,11 @@ Pirmasis „Lietuvos TSR istorijos“ tomas išleistas Vilniuje 1957 m. „Lietu
 - t-001
   global_id: t-60988
   teiginys: 'Pirmasis „Lietuvos TSR istorijos“ tomas išleistas Vilniuje 1957 m.'
+  sudarymo_pagrindimas: 'Citata pagrindžia bibliografinį faktą, o pradinė formuluotė nutrūkusi.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1957 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia bibliografinį faktą, o pradinė formuluotė nutrūkusi.'
   pagrindžia:
     - c-001
 
@@ -34,6 +39,8 @@ Pirmasis „Lietuvos TSR istorijos“ tomas išleistas Vilniuje 1957 m. „Lietu
 - t-002
   global_id: t-60989
   teiginys: '„Lietuvos TSR istorijoje“ neaiškiai minima, kad prūsus ir vakarinius lietuvius tarp Vyslos ir Nemuno skyrė Persantės upė.'
+  sudarymo_pagrindimas: 'Reikia pataisyti šaltinio pavadinimo formą ir pašalinti nesklandžią konstrukciją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/autoriai/Jurginis J|Jurginis J]]; mentioned_place: Nemunas; mentioned_place: Prūsai; mentioned_place: Vysla'
   pagrindžia:
     - c-002
 

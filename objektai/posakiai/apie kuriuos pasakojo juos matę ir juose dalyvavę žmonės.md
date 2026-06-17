@@ -20,6 +20,8 @@ Dusburgietis, kaip jis pats pažymi įvade, pasisėmė medžiagos ne tik iš ra�
 - t-001
   global_id: t-59073
   teiginys: 'Dusburgietis įvade nurodė aprašęs ir įvykius, apie kuriuos jam pasakojo juos matę ir juose dalyvavę žmonės.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir pagrįstas citata apie Dusburgiečio įvade nurodytus šaltinius.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Elbingas; mentioned_place: Prūsai; mentioned_place: Rudinas; mentioned_place: Varmė'
   pagrindžia:
     - c-001
 
@@ -60,7 +62,3 @@ Dusburgietis, kaip jis pats pažymi įvade, pasisėmė medžiagos ne tik iš ra�
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]

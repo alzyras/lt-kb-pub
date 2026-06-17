@@ -18,7 +18,7 @@ amziai:
 
 ## Santrauka
 
-Po Lubavos apiplėšimo broliai iš patikimų šaltinių sužinojo, kad gyvi ir sveiki sugrįžo tik keli vieno lietuvių būrio nariai. 1302 m. iš Lietuvos atvykę plėšikautojai užpuolė penkis Lubavos žemės kaimus ir nužudė arba išsivarė į nelaisvę beveik 200 krikščionių.
+Dusburgietis teigia, kad apie Lubavos žemės apiplėšimą ir 65 lietuvių žūtį 1302 metais Vėliau kiti iš Lietuvos atsibeldę plėšikautojai užpuolė 5 Lubavos žemės kaimus ir ten nužudė ar išsivarė į nelaisvę beveik 200 krikščionių. Dusburgietis teigia, kad po to broliai iš patikimų šaltinių sužinojo, kad vos keli šio būrio lietuviai gyvi ir sveiki besugrįžo.
 
 ## Laikotarpis ir datos
 
@@ -42,6 +42,9 @@ Nenurodyta
 - t-001
   global_id: t-62382
   teiginys: 'Po Lubavos apiplėšimo broliai iš patikimų šaltinių sužinojo, kad gyvi ir sveiki sugrįžo tik keli vieno lietuvių būrio nariai.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Reikia išplėsti neaiškią nuorodą „šio būrio“ į aiškesnį sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lubava'
   pagrindžia:
     - c-002
 
@@ -49,6 +52,12 @@ Nenurodyta
 - t-002
   global_id: t-62383
   teiginys: '1302 m. iš Lietuvos atvykę plėšikautojai užpuolė penkis Lubavos žemės kaimus ir nužudė arba išsivarė į nelaisvę beveik 200 krikščionių.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Citata remia konkretų faktą, o pradinis teiginys per ilgas ir su boilerplate.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Kristburgas; mentioned_place: Lietuva; mentioned_place: Lubava; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1302 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata remia konkretų faktą, o pradinis teiginys per ilgas ir su boilerplate.'
   pagrindžia:
     - c-001
 
@@ -84,10 +93,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/netikėliai]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/zodynas/dykra]]

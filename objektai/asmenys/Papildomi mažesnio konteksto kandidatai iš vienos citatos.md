@@ -21,6 +21,7 @@ Papildomi mažesnio konteksto kandidatai iš vienos citatos nevertas būti pavyz
 - t-001
   global_id: t-87924
   teiginys: 'Papildomi mažesnio konteksto kandidatai iš vienos citatos nevertas būti pavyzdžiu kitiems?'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -49,8 +50,3 @@ Papildomi mažesnio konteksto kandidatai iš vienos citatos nevertas būti pavyz
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/kunigas]]

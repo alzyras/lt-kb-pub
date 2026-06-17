@@ -27,6 +27,9 @@ Apie Volynijos ginčą liudija tiktai Jadvygos dokumentas, duotas 1393 m. lapkr.
 - t-001
   global_id: t-36052
   teiginys: 'Jadvygos dokumentas, duotas 1393 m. lapkričio 4 d., liudija apie Volynijos ginčą ir Ostrogo kunigaikščio pavaldumą Jadvygai bei Lenkijai.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Lenkija'
+  temporaliniai_duomenys: 'įvykio data: 1393 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

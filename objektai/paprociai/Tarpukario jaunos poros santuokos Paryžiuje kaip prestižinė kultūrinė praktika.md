@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Tarpukariu jaunos poros laikė garbės reikalu susituokti Paryžiuje ir susipažinti su pasauline literatūra bei menu.
+Jaunos poros laikė garbės reikalu susituokti Paryžiuje, susipažinti su pasauline literatūra, menu.
 
 ## Laikotarpis ir datos
 
@@ -40,6 +40,8 @@ Nenurodyta
 - t-001
   global_id: t-77960
   teiginys: 'Tarpukariu jaunos poros laikė garbės reikalu susituokti Paryžiuje ir susipažinti su pasauline literatūra bei menu.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie aprašomą praktiką.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Paryžius'
   pagrindžia:
     - c-001
 
@@ -59,7 +61,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]

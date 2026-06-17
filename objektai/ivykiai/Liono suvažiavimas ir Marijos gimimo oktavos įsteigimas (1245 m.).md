@@ -44,6 +44,12 @@ Nenurodyta
 - t-001
   global_id: t-62377
   teiginys: '1245 m. popiežius Lione sušaukė suvažiavimą, kuriame nutarta švęsti Švenčiausiosios Mergelės Marijos gimimo oktavą.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pašalintas antraštės, puslapio ir bibliografinis triukšmas; sakinys užbaigtas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/oktava|oktava]]; mentioned_place: Lionas'
+  temporaliniai_duomenys: 'įvykio data: 1245 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas antraštės, puslapio ir bibliografinis triukšmas; sakinys užbaigtas.'
   pagrindžia:
     - c-001
 
@@ -66,8 +72,3 @@ Nenurodyta
   pagrindžia:
     - t-001
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/oktava]]
-- [[objektai/paprociai/Švenčiausiosios Mergelės Marijos gimimo oktavų šventimas]]

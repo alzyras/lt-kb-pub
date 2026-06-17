@@ -20,9 +20,11 @@ Jie, susispaude į krūvą, atstatė durtuvus ir laukė.
 - t-001
   global_id: t-80623
   teiginys: 'Dvylika lietuvių karių, lenkams puolant, susispaudė į krūvą, atstatė durtuvus ir laukė atakos.'
+  sudarymo_pagrindimas: 'Įvardytas veikėjas ir kontekstas, pašalintas neaiškus įvardis.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/paprociai/Šturmovųjų grupių fronto pralaužimo taktika.md#claim-t-67245|Šturmovųjų grupių fronto pralaužimo taktika]]: Durtuvų kautynės šioms grupėms tapo netikėta kliūtimi.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -38,9 +40,3 @@ Jie, susispaude į krūvą, atstatė durtuvus ir laukė.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/paprociai/Šturmovųjų grupių fronto pralaužimo taktika]]

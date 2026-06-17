@@ -20,6 +20,7 @@ Dusburgietis teigia, kad karaliūnui, istorikui R.
 - t-001
   global_id: t-60779
   teiginys: 'S. Karaliūnas buvo vienas iš rankraščio recenzentų rengiant knygą spaudai.'
+  sudarymo_pagrindimas: 'Citata aiškiai nurodo S. Karaliūną kaip rankraštį recenzavusį asmenį.'
   pagrindžia:
     - c-001
 

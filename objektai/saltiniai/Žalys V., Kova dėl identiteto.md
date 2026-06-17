@@ -3,16 +3,24 @@ tipas: saltinis
 pavadinimas: 'Žalys V., Kova dėl identiteto'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1923 m.'
+  - '1939 m.'
+  - '1993 m.'
+date_start: '1923'
+date_end: '1993'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XX'
 ---
 # Žalys V., Kova dėl identiteto
 
 ## Santrauka
 
-V. Žalio knyga „Kova dėl identiteto“ 1993 m. išleista Liuneburge su paantrašte apie Lietuvos nesėkmę Klaipėdoje 1923–1939 m.
+Kova dėl identiteto.
 
 ## Teiginiai
 
@@ -20,6 +28,11 @@ V. Žalio knyga „Kova dėl identiteto“ 1993 m. išleista Liuneburge su paant
 - t-001
   global_id: t-18070
   teiginys: 'V. Žalio knyga „Kova dėl identiteto“ 1993 m. išleista Liuneburge su paantrašte apie Lietuvos nesėkmę Klaipėdoje 1923–1939 m.'
+  sudarymo_pagrindimas: 'Bibliografinė citata patikimai remia leidinio duomenis ir paantraštę.'
+  susije_objektai: 'mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1923-1939; įvykio data: 1939 m.; įvykio data: 1993 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Bibliografinė citata patikimai remia leidinio duomenis ir paantraštę.'
   pagrindžia:
     - c-001
 

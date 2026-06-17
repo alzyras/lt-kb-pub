@@ -30,6 +30,10 @@ Dusburgietis teigia, kad codex diplomaticus Warmiensis oder Regesten und Urkunde
 - t-001
   global_id: t-61059
   teiginys: 'Codex diplomaticus Warmiensis pirmasis tomas, apimantis 1231–1340 m., išleistas Maince 1860 m.'
+  sudarymo_pagrindimas: 'Citata pateikia leidinio tomą, chronologines ribas ir leidimo vietą bei metus.'
+  temporaliniai_duomenys: 'įvykio data: 1231-1340; įvykio data: 1340 m.; įvykio data: 1860 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pateikia leidinio tomą, chronologines ribas ir leidimo vietą bei metus.'
   pagrindžia:
     - c-001
 

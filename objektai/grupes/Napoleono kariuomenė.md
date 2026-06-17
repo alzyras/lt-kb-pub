@@ -10,37 +10,40 @@ date_start: '1936'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XX'
-  - 'XXI'
 tags:
   - bajorija
   - grupe
+amziai:
+  - 'XX'
+  - 'XXI'
 ---
 # Napoleono kariuomenė
 
 ## Santrauka
 
-Napoleono kariuomenės likučiai atslinko į Lietuvą išbadėję ir nuskurę, pakeliui viską plėšdami. Napoleono kariuomenei užėmus Lietuvą, bajorija ėmė rūpintis Didžiosios Kunigaikštijos atkūrimu Napoleono globoje. Napoleono kariuomenei užėmus Lietuvą, bajorija ėmė rūpintis Didžiosios Kunigaikštijos atkūrimu Napoleono globoje.
+Napoleonas su kariuomene persikėlė per Nemuną ties Kaunu ir greit nužygiavo į Vilnių. Napoleono kariuomenei užėmus Lietuvą, bajorija tuojau sujudo rūpintis atgaivinti didžiąją kunigaikštiją Napoleono globoje. Paskui Napoleoną atslinko į Lietuvą ir jo kariuomenės likučiai.
 
 ## Teiginiai
+
 <a id="claim-t-43516"></a>
 - t-001
   global_id: t-43516
-  teiginys: 'Napoleono kariuomenei užėmus Lietuvą, bajorija ėmė rūpintis Didžiosios Kunigaikštijos atkūrimu Napoleono globoje.'
+  teiginys: 'Napoleono kariuomenės likučiai atslinko į Lietuvą išbadėję ir nuskurę, pakeliui viską plėšdami.'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+    - c-002
+
 <a id="claim-t-43517"></a>
 - t-002
   global_id: t-43517
-  teiginys: 'Napoleono kariuomenės likučiai atslinko į Lietuvą išbadėję ir nuskurę, pakeliui viską plėšdami.'
+  teiginys: 'Napoleono kariuomenei užėmus Lietuvą, bajorija ėmė rūpintis Didžiosios Kunigaikštijos atkūrimu Napoleono globoje.'
+  sudarymo_pagrindimas: 'Perrašyta glaudžiau ir sklandesne bendrine kalba.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_place: Lietuva; mentioned_place: Rusija'
   pagrindžia:
-    - c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+    - c-001
+- susijęs iš Nemunas: 1812 m. Napoleono kariuomenė kėlėsi per Nemuną žygyje į Rusiją.
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Napoleono kariuomenei užėmus Lietuvą, bajorija ėmė rūpintis Didžiosios Kunigaikštijos atkūrimu Napoleono globoje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -51,14 +54,25 @@ Napoleono kariuomenės likučiai atslinko į Lietuvą išbadėję ir nuskurę, p
     Napoleono kariuomenei užėmus Lietuvą, bajorija tuojau
     sujudo rūpintis atgaivinti didžiąją kunigaikštiją Napoleono glo-
     boje.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    **Rusų valdžios sugrįžimas.** Paskui Napoleoną atslinko į
+    Lietuvą ir jo kariuomenės likučiai. Išbadėjusi ir nuskurusi ka-
+    riuomenė pakeliui viską plėšė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   pagrindžia:
     - t-001
-- c-002
+
+- c-003
   santrauka: 'Napoleono kariuomenei užėmus Lietuvą, bajorija ėmė rūpintis Didžiosios Kunigaikštijos atkūrimu Napoleono globoje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -68,29 +82,8 @@ Napoleono kariuomenės likučiai atslinko į Lietuvą išbadėję ir nuskurę, p
     sujudo rūpintis atgaivinti didžiąją kunigaikštiją Napoleono glo-
     boje. Bet Napoleonui pirmučiausia rūpėjo, kiek Lietuva galėtų
     duoti jo armijai maisto ir kareivių.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-003
-- c-003
-  santrauka: 'Napoleono kariuomenės likučiai atslinko į Lietuvą išbadėję ir nuskurę, pakeliui viską plėšdami.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    **Rusų valdžios sugrįžimas.** Paskui Napoleoną atslinko į
-    Lietuvą ir jo kariuomenės likučiai. Išbadėjusi ir nuskurusi ka-
-    riuomenė pakeliui viską plėšė.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Rusai]]
-- [[objektai/zodynas/kunigaikštija]]

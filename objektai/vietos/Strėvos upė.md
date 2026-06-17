@@ -3,6 +3,10 @@ tipas: vieta
 pavadinimas: 'Strėvos upė'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+datos:
+  - '1348 m.'
+date_start: '1348'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -10,12 +14,14 @@ tags:
   - ordinas
   - upė
   - vieta
+amziai:
+  - 'XIV'
 ---
 # Strėvos upė
 
 ## Santrauka
 
-Prie Strėvos upės Lietuvos kariuomenė pavijo atgal grįžtantį priešą. Prie Strėvos upės susirėmė stabmeldžių ir krikščionių pajėgos.
+Atgal grįžtantį priešą prie Strėvos upės pavijo Lietuvos kariuomenė. J, kad vienu metu [suėję] prie Strėvos upės susiremia mirtiname mūšyje.
 
 ## Teiginiai
 
@@ -23,6 +29,8 @@ Prie Strėvos upės Lietuvos kariuomenė pavijo atgal grįžtantį priešą. Pri
 - t-001
   global_id: t-42168
   teiginys: 'Prie Strėvos upės Lietuvos kariuomenė pavijo atgal grįžtantį priešą.'
+  sudarymo_pagrindimas: 'Perrašyta į sklandesnį sakinį su aiškesne sakinio sandara.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Polockas; mentioned_place: Strėva; mentioned_place: Trakai'
   pagrindžia:
     - c-001
 
@@ -30,6 +38,9 @@ Prie Strėvos upės Lietuvos kariuomenė pavijo atgal grįžtantį priešą. Pri
 - t-002
   global_id: t-42169
   teiginys: 'Prie Strėvos upės susirėmė stabmeldžių ir krikščionių pajėgos.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Lankai|Lankai]]; mentioned_object: [[objektai/daiktai/Strėlės|Strėlės]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/stabmeldžiai|stabmeldžiai]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_place: Semba; mentioned_place: Smolenskas; mentioned_place: Strėva'
+  temporaliniai_duomenys: 'įvykio data: 1348 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 

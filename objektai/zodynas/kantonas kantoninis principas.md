@@ -3,18 +3,24 @@ tipas: zodyno_irasas
 pavadinimas: 'kantonas kantoninis principas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1921 m.'
+date_start: '1921'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - sąvoka
   - tauta
   - valstybė
+amziai:
+  - 'XX'
 ---
 # kantonas kantoninis principas
 
 ## Santrauka
 
-Lietuviams sutikus derėtis tik dėl Lietuvos su sostine Vilniumi, P. Himansas parengė Kauno ir Vilniaus kantonų projektą. 1921 m. rugsėjį Himansas pataisė planą lietuvių naudai: Vilniaus regionas nebebuvo kantonas, o atitiko autonominio rajono statusą.
+Himansas Šveicarijos pavyzdžiu paruošė Lietuvos federacinės valstybės, sudarytos iš Kauno ir Vilniaus kantonų, projektą. Rugsėjį Himansas dar pataisė planą lietuvių naudai – Vilniaus regionas jau nebesudarė kantono, o atitiko autonominio rajono statusą. Ar Lietuva nepralaimėjo neišnaudojusi visų federacijos idėjos su Lenkija galimybių, kad Rytų Europoje nebuvo įdiegtas Šveicarijoje pasiteisinęs kantonų principas?
 
 ## Teiginiai
 
@@ -22,6 +28,8 @@ Lietuviams sutikus derėtis tik dėl Lietuvos su sostine Vilniumi, P. Himansas p
 - t-001
   global_id: t-104189
   teiginys: 'Lietuviams sutikus derėtis tik dėl Lietuvos su sostine Vilniumi, P. Himansas parengė Kauno ir Vilniaus kantonų projektą.'
+  sudarymo_pagrindimas: 'Pirminis teiginys per silpnai susietas su kantonais; citata leidžia suformuluoti aiškesnį faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Varšuva; mentioned_place: Vilnius; mentioned_place: Šveicarija'
   pagrindžia:
     - c-002
 
@@ -29,6 +37,11 @@ Lietuviams sutikus derėtis tik dėl Lietuvos su sostine Vilniumi, P. Himansas p
 - t-002
   global_id: t-104192
   teiginys: '1921 m. rugsėjį Himansas pataisė planą lietuvių naudai: Vilniaus regionas nebebuvo kantonas, o atitiko autonominio rajono statusą.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nusako 1921 m. Himanso plano pakeitimą dėl Vilniaus regiono statuso.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Vilniaus regionas; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1921 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako 1921 m. Himanso plano pakeitimą dėl Vilniaus regiono statuso.'
   pagrindžia:
     - c-001
 
@@ -67,11 +80,3 @@ Lietuviams sutikus derėtis tik dėl Lietuvos su sostine Vilniumi, P. Himansas p
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/autonomija autonominis statusas]]
-- [[objektai/zodynas/federacija federacinė valstybė]]

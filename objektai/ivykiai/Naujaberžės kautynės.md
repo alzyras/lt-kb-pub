@@ -36,6 +36,8 @@ Nenurodyta
 - t-001
   global_id: t-41331
   teiginys: 'Kovo 27 d. ties Surviliškio valsčiaus Naujaberžės kaimu A. Mackevičiaus sukilėliai atlaikė barono Dellingsgauzeno vadovaujamo dalinio puolimą.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie kautynes.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]; mentioned_place: Kaimas; mentioned_place: Narva'
   pagrindžia:
     - c-001
 
@@ -56,9 +58,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/daiktai/Šautuvai]]
-- [[objektai/daiktai/Kovinis dalgis]]

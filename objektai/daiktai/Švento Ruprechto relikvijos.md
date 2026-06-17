@@ -47,6 +47,10 @@ Nenurodyta
 - t-001
   global_id: t-59713
   teiginys: '1306 m. Karaliaučiaus pilyje prie švento Ruprechto relikvijų, pasak kronikos, pagijo daug žmonių, šunų ir traukos gyvulių.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir atitinka citatoje pateiktą informaciją.'
+  temporaliniai_duomenys: 'įvykio data: 1306 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir atitinka citatoje pateiktą informaciją.'
   pagrindžia:
     - c-001
 
@@ -70,7 +74,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/Dusburgiečio pasakojami švento Ruprechto relikvijų stebuklai Karaliaučiuje (1306 m.)]]

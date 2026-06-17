@@ -6,6 +6,7 @@ saltiniai:
 datos:
   - '1801 m.'
   - '1900 m.'
+  - '1905 m.'
   - '1912 m.'
 date_start: '1801'
 date_end: '1912'
@@ -50,6 +51,11 @@ Nenurodyta
 - t-001
   global_id: t-26407
   teiginys: 'A. Jurašaičio nuotraukoje užfiksuoti Lietuvių mokslo draugijos suvažiavimo dalyviai Vilniuje 1912 m.'
+  sudarymo_pagrindimas: 'Sakinys aiškiai nusako nuotraukos turinį ir yra paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Liudvika Didžiulienė-Žmona|Liudvika Didžiulienė-Žmona]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1905 m.; įvykio data: 1912 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Sakinys aiškiai nusako nuotraukos turinį ir yra paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -78,14 +84,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Jonas]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Liudvika Didžiulienė-Žmona]]
-- [[objektai/asmenys/Jonas Basanavičius]]
-- [[objektai/asmenys/Jonas Jablonskis]]
-- [[objektai/asmenys/Julija Žymantienė-Žemaitė]]
-- [[objektai/asmenys/Petras Kriaučiūnas]]

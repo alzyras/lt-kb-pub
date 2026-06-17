@@ -45,6 +45,9 @@ Nenurodyta
 - t-001
   global_id: t-62906
   teiginys: 'Netrukus po Ragainės pastatymo brolis Meinhardas prie Nemuno pastatė Skalvių pilį atsivertusiems skalviams gyventi.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Citata pagrindžia pilies paskirtį ir statytoją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_place: Austrija; mentioned_place: Nemunas; mentioned_place: Prūsija; mentioned_place: Ragainė; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -52,6 +55,12 @@ Nenurodyta
 - t-002
   global_id: t-62907
   teiginys: '1289 m. brolis Meinhardas Nemuno pakrantėje, skalvių žemėje, pastatė Landeshutės pilį, vėliau vadintą Ragaine.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Teiginys perrašytas pašalinant fragmentiškumą ir paliekant pagrįstus faktus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_place: Austrija; mentioned_place: Nemunas; mentioned_place: Prūsija; mentioned_place: Ragainė; mentioned_place: Viena'
+  temporaliniai_duomenys: 'pastatymo data: 1289 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys perrašytas pašalinant fragmentiškumą ir paliekant pagrįstus faktus.'
   pagrindžia:
     - c-001
 
@@ -76,11 +85,3 @@ Nenurodyta
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Skalviai]]
-- [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu]]
-- [[objektai/asmenys/Meinhardas Saksas iš Kverfurto]]
-- [[objektai/zodynas/ginklanešiai]]
-- [[objektai/zodynas/ginklanešys]]

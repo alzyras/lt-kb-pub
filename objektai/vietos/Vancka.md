@@ -14,6 +14,7 @@ tags:
   - ordinas
   - pilis
   - privilegija
+  - vieta
 amziai:
   - 'XIII'
 ---
@@ -29,9 +30,11 @@ Dusburgietis teigia, kad išklausęs abiejų šalių įrodymų, tas pats legatas
 - t-001
   global_id: t-58742
   teiginys: 'Vancka buvo Pomeranijos kunigaikštystės kraštas, kuriame tuo metu stovėjo Mevės pilis.'
+  sudarymo_pagrindimas: 'Citata pagrindžia Vanckos vietą ir ryšį su Mevės pilimi; pradinis teiginys nutrūkęs.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Kulmas; mentioned_place: Pomeranija; mentioned_place: Poterbergas; mentioned_place: Vysla'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178983|Kryžiuočių ordinas]]: Teutonų ordino broliai pasiliko Vanckos kraštą Pomeranijos kunigaikštystėje, kur vėliau stovėjo Mevės pilis.
 ## Reikšmingi paminėjimai
 
 - c-001

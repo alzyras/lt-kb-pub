@@ -9,49 +9,57 @@ date_start: '1588'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XVI'
 tags:
   - bajorija
   - elekcija
   - seimas
   - sąvoka
+amziai:
+  - 'XVI'
 ---
 # seimelis
 
 ## Santrauka
 
-Vėliau seimeliai buvo šaukiami atskiriems reikalams: priešseiminiuose rinkti atstovai į seimą, reliaciniuose pranešta apie seimo darbus. Grabnyčių seimelyje apie vasario 2 d. būdavo renkami tribunolo nariai, kurie tribunole dirbdavo vienus metus. Seimeliuose bajorija rinkdavo atstovus į seimą ir surašydavo jiems instrukcijas.
+Žemės teismams rinkti buvo įvesti viso pavieto arba vaivadijos bajorų suvažiavimai, vadinami seimeliais. Vėliau seimeliai buvo šaukiami vienam kuriam reikalui, ir kiekvienas iš jų turėjo atskirus vardus: priešseiminiuose seimeliuose būdavo renkami atstovai į seimą; reliaciniuose atstovai, grįžę iš seimo, padarydavo pranešimus apie seimo darbus; elekciniuose. Jie visada būdavo renkami specialiai šaukiamame Grabnyčių seimely (apie vasario 2 d.) ir darbuodavos tribunole vienus metus.
 
 ## Teiginiai
+
 <a id="claim-t-72752"></a>
 - t-001
   global_id: t-72752
   teiginys: 'Vėliau seimeliai buvo šaukiami atskiriems reikalams: priešseiminiuose rinkti atstovai į seimą, reliaciniuose pranešta apie seimo darbus.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/pavietas|pavietas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+
 <a id="claim-t-72755"></a>
 - t-002
   global_id: t-72755
   teiginys: 'Grabnyčių seimelyje apie vasario 2 d. būdavo renkami tribunolo nariai, kurie tribunole dirbdavo vienus metus.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/tribunolas|tribunolas]]'
   pagrindžia:
     - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+
 <a id="claim-t-72756"></a>
 - t-003
   global_id: t-72756
   teiginys: 'Seimeliuose bajorija rinkdavo atstovus į seimą ir surašydavo jiems instrukcijas.'
+  sudarymo_pagrindimas: 'Pašalintas kontekstinis junginys ir sukonkretintas veiksnys.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/pavietas|pavietas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-
+- susijęs iš [[objektai/paprociai/Klaipėdos krašto autonominis režimas.md#claim-t-67119|Klaipėdos krašto autonominis režimas (kraštas)]]: Klaipėdos krašto autonominis statutas apibrėžė vietinių organų kompetenciją, seimelio, direktorijos ir gubernatoriaus funkcijas.
+- susijęs iš [[objektai/zodynas/Klaipėdiškiai.md#claim-t-183433|Klaipėdiškiai]]: Lietuva dėl socialinių, politinių tradicijų ir psichologinių priežasčių prarado lietuviškai kalbėjusius klaipėdiškius.
+- susijęs iš [[objektai/zodynas/Klaipėdiškiai.md#claim-t-21995|Klaipėdiškiai]]: Lietuva prarado lietuviškai kalbėjusius klaipėdiškius, kurie rinkimuose į vietos seimelį balsavo už susitelkusias vokiškas partijas.
+- susijęs iš [[objektai/zodynas/Suverenitetas.md#claim-t-05586|Suverenitetas]]: Dubysos sutartyje Jogailos suverenitetas buvo siaurinamas, nes jis įsipareigojo be Ordino žinios, patarimo ir valios nepradėti karo.
+- susijęs iš [[objektai/zodynas/Suverenitetas.md#claim-t-10898|Suverenitetas]]: Suverenitetas reiškia Lietuvos valdžią ir teisinę viršenybę Klaipėdos krašte.
+- susijęs iš [[objektai/zodynas/klaipėdiečiai klaipėdiškiai.md#claim-t-183432|klaipėdiečiai klaipėdiškiai]]: Lietuva prarado lietuviškai kalbėjusius klaipėdiškius, kurie vietos seimelio rinkimuose balsavo už vokiškas partijas.
+- susijęs iš [[objektai/zodynas/klaipėdiečiai klaipėdiškiai.md#claim-t-22187|klaipėdiečiai klaipėdiškiai]]: Lietuva prarado lietuviškai kalbėjusių klaipėdiškių paramą, nes jie vietos seimelio rinkimuose balsavo už vokiškas partijas.
+- susijęs iš [[objektai/zodynas/plikbajoris.md#claim-t-72729|plikbajoris]]: Seimelių metu didikų virtuvės maitindavo plikbajorius, kurie, anot šaltinio, sočiai pavalgydavo tik seimelyje.
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Vėliau seimeliai buvo šaukiami atskiriems reikalams: priešseiminiuose rinkti atstovai į seimą, reliaciniuose pranešta apie seimo darbus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Seimeliuose bajorija apsvarstydavo savo reikalus, išsirinkdavo
@@ -64,16 +72,14 @@ Vėliau seimeliai buvo šaukiami atskiriems reikalams: priešseiminiuose rinkti 
     elekciniuose būdavo renkami pavieto arba vaivadijos urė-
     dai, ir t. t.
     **3.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
     - t-003
+
 - c-002
-  santrauka: 'Grabnyčių seimelyje apie vasario 2 d. būdavo renkami tribunolo nariai, kurie tribunole dirbdavo vienus metus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Su mažais pakeitimais jis toks
@@ -81,23 +87,8 @@ Vėliau seimeliai buvo šaukiami atskiriems reikalams: priešseiminiuose rinkti 
     jais buvo visų seimelių renkami bajorijos atstovai. Jie visada bū-
     davo renkami specialiai šaukiamame Grabnyčių seimely (apie va-
     sario 2 d.) ir darbuodavos tribunole vienus metus.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/pavietas]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/zodynas/tribunolas]]
-- [[objektai/paprociai/Bajorijos seimelių rinkimosi ir atstovų rinkimo praktika]]
-- [[objektai/zodynas/Klaipėdiškiai]]
-- [[objektai/paprociai/Klaipėdos krašto autonominis režimas|Klaipėdos krašto autonominis režimas (kraštas)]]
-- [[objektai/zodynas/Suverenitetas]]
-- [[objektai/zodynas/klaipėdiečiai klaipėdiškiai]]
-- [[objektai/zodynas/plikbajoris]]
-- [[objektai/paprociai/Pavietų ir vaivadijų bajorų seimeliai]]

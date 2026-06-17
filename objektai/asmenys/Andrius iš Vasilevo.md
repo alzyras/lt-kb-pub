@@ -30,9 +30,17 @@ Andrius iš Vasilevo (Važila), iš švento Pranciškaus ordi­ no, lenkas, Aro 
 - t-001
   global_id: t-87623
   teiginys: 'Andrius iš Vasilevo buvo pirmasis Vilniaus vyskupas, į pareigas iškeltas 1387 m. ir miręs 1399 m.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiksliai perteikia citatoje pateiktą informaciją.'
+  susije_objektai: 'mentioned_place: Vasilevas; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1387 m.; įvykio data: 1399 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiksliai perteikia citatoje pateiktą informaciją.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Jonas Pliekta.md#claim-t-87730|Jonas Pliekta]]: Pranciškonas Jonas Pliekta Vilniaus vyskupu tapo 1399 m., bet šaltinyje nenurodyta, kodėl pareigas ėjo tik vienerius metus.
+- susijęs iš [[objektai/autoriai/Michał Baliński Mykolas Balinskis.md#claim-t-182788|Michał Baliński Mykolas Balinskis]]: Rodyklė apima įvadą ir M. Balinskio veikalo vertimą.
+- susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108315|Pranciškonų ordinas]]: Pranciškonas Jonas Pliekta Vilniaus vyskupu tapo 1399 m., bet, anot Balińskio, nežinoma, kodėl pareigas ėjo tik vienerius metus.
+- susijęs iš Vasilevas: Andrius iš Vasilevo, pranciškonas ir lenkas, 1387 m. tapo pirmuoju Vilniaus vyskupu ir mirė 1399 m.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -50,8 +58,3 @@ Andrius iš Vasilevo (Važila), iš švento Pranciškaus ordi­ no, lenkas, Aro 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/Michał Baliński Mykolas Balinskis]]
-- [[objektai/grupes/Pranciškonų ordinas]]

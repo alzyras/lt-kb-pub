@@ -36,6 +36,14 @@ Nenurodyta
 - t-001
   global_id: t-185777
   teiginys: 'A. Gvagninis 1525 m. valstiečių karą Vokietijoje siejo su valstiečių sukilimu prieš bažnytinius ir pasaulietinius ponus.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Reikia taisyti OCR klaidas ir atriboti Gvagninio pateiktą apibūdinimą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_person: [[objektai/autoriai/Aleksandras Gvagninis|Aleksandras Gvagninis]]; mentioned_person: [[objektai/asmenys/Tame (Baigos brolis)|Tame (Baigos brolis)]]; mentioned_place: Vokietija'
+  temporaliniai_duomenys: 'įvykio data: 1525 m.; įvykio data: apie 1525 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
+  temporalinis_llm_pakomentavimas: 'Reikia taisyti OCR klaidas ir atriboti Gvagninio pateiktą apibūdinimą.'
   pagrindžia:
     - c-001
 
@@ -60,9 +68,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/Aleksandras Gvagninis]]
-- [[objektai/asmenys/Tame (Baigos brolis)]]
-- [[objektai/zodynas/ponai]]

@@ -2,50 +2,73 @@
 tipas: autorius
 pavadinimas: 'R. Šarmaitis'
 saltiniai:
-  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
+  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1963 m.'
   - '1971 m.'
 date_start: '1963'
 date_end: '1971'
-variantai:
-  - 'R ŠARMAITIS'
-periodo_grupes:
-  - 'XX a.'
-amziai:
-  - 'XX'
-sukurta: '2026-06-16'
-atnaujinta: '2026-06-16'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'XX a.'
 ---
 # R. Šarmaitis
 
 ## Santrauka
 
-R. Šarmaitis minimas kaip 1963 m. straipsnio „Iš marksistinių-lenininių pozicijų“ autorius. 1971 m. Bychovco kronikos leidinyje jis taip pat įrašytas į redakcinę komisiją.
+Šarmaitis, R.: Iš marksistiniųlenininių pozicijų, Komunistas, 1963, nr.
 
 ## Teiginiai
+
 <a id="claim-t-186448"></a>
 - t-001
   global_id: t-186448
   teiginys: 'R. Šarmaitis 1963 m. žurnale „Komunistas“ paskelbė straipsnį „Iš marksistinių-lenininių pozicijų“.'
+  teiginio_tipas: 'faktas'
+  susije_objektai: 'mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1963 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
-    - c-001
+    - c-002
+
 <a id="claim-t-186449"></a>
 - t-002
   global_id: t-186449
   teiginys: 'R. Šarmaitis buvo 1971 m. Bychovco kronikos leidinio redakcinės komisijos narys.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas redakcinės komisijos sąrašu.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/A. Venclova|A. Venclova]]; mentioned_person: [[objektai/autoriai/K. Korsakas|K. Korsakas]]; mentioned_person: [[objektai/autoriai/Rimantas Jasas|Rimantas Jasas]]'
+  temporaliniai_duomenys: 'įvykio data: 1971 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas redakcinės komisijos sąrašu.'
   pagrindžia:
-    - c-002
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  statusas: patvirtinta
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    REDAKCINE KOMISIJA
+    K. KORSAKAS  (pirmininkas), K. AM BRASAS. J. JURGINIS,
+    MALDONIS, J. PAUONIS, R ŠARMAITIS,  Į A. VENCLOVA  Į
+    *
+    Vertė, įvadą ir paaiškinimus parašė RIM ANTAS JASA S
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
+    - t-002
+
+- c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   citata_originali: |
     — Sideravičius, K. : _Marksistinė Lietuvos TSR isto­
     rija,_ Tiesa, 1959, m. 137 (VI.12).—Šarmaitis, R.: _Iš marksistinių-
@@ -58,20 +81,3 @@ R. Šarmaitis minimas kaip 1963 m. straipsnio „Iš marksistinių-lenininių po
   statusas: verified
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'R. Šarmaitis buvo 1971 m. Bychovco kronikos leidinio redakcinės komisijos narys.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    REDAKCINE KOMISIJA
-    K. KORSAKAS  (pirmininkas), K. AM BRASAS. J. JURGINIS,
-    MALDONIS, J. PAUONIS, R ŠARMAITIS,  Į A. VENCLOVA  Į
-    *
-    Vertė, įvadą ir paaiškinimus parašė RIM ANTAS JASA S
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
-    - t-003

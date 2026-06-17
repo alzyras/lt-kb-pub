@@ -27,9 +27,12 @@ Vartojamos formos: `gaspadinę`, `viešne`, `viešnė`.
 - t-001
   global_id: t-70005
   teiginys: '`Gaspadinė` šiame tekste reiškia vestuvių šeimininkę ar vaišių tvarkytoją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_object: [[objektai/zodynas/Vėdliai|Vėdliai]]'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/daiktai/Vąšas.md#claim-t-08353|Vąšas]]: Prie vąšo rišdavo druskos gabalą, kurį gaspadinė galėdavo įleisti į katilą.
+- susijęs iš [[objektai/zodynas/Ūkės vilkėja.md#claim-t-07652|ūkės vilkėja]]: Ūkės vilkėja siejama su didžios gaspadinės vardu ir tokiais darbais kaip sėjimas, arimas, šieno pjovimas bei javų valymas.
+- susijęs iš [[objektai/zodynas/Ūkės vilkėja.md#claim-t-07653|ūkės vilkėja]]: Ūkės vilkėjomis vadintos merginos ar moterys, siejamos su gaspadinės vardu, lauko darbais ir rūtos auginimu.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -41,10 +44,3 @@ Vartojamos formos: `gaspadinę`, `viešne`, `viešnė`.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Rytas]]
-- [[objektai/zodynas/Vėdliai|vėdliai]]
-- [[objektai/daiktai/Vąšas]]
-- [[objektai/zodynas/Ūkės vilkėja|ūkės vilkėja]]

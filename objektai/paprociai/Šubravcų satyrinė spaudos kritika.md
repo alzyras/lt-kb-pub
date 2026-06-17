@@ -43,6 +43,8 @@ Nenurodyta
 - t-001
   global_id: t-54739
   teiginys: 'Šubravcų laikraštis Wiadomości brukowe satyriškai vaizdavo kilmingųjų kasdienybę, kritikavo baudžiavą, obskurantizmą ir tradicionalizmą.'
+  sudarymo_pagrindimas: 'Reikėjo aiškaus veiksnio ir faktinio predikato.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Šubravcų draugija|Šubravcų draugija]]; mentioned_place: Anglija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -50,6 +52,7 @@ Nenurodyta
 - t-002
   global_id: t-54740
   teiginys: 'Šubravcų draugijos nariai leido humoristinį laikraštį Wiadomości brukowe, kuriame aktyviai bendradarbiavo ir M. Balinskis.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Šubravcų draugija|Šubravcų draugija]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_place: Anglija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -71,10 +74,3 @@ Nenurodyta
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/socialinė-praktika]]
-
-### Susiję objektai
-- [[objektai/grupes/Šubravcų draugija]]

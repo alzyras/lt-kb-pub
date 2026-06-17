@@ -30,6 +30,11 @@ Nenurodyta
 - t-001
   global_id: t-185759
   teiginys: 'Pasak Kojelavičiaus, Palemonas pirmąją Lietuvos sodybą Romanovą paskyrė vyriausiajam žyniui tikėjimui saugoti.'
+  teiginio_tipas: 'saltinio_teiginys'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pašalintas boilerplate ir OCR triukšmas, palikta citatos palaikoma mintis.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Gotai|Gotai]]; mentioned_group: [[objektai/grupes/Langobardai|Langobardai]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/asmenys/Palemonas|Palemonas]]; mentioned_place: Lietuva; mentioned_place: Romanova'
   pagrindžia:
     - c-001
 
@@ -56,11 +61,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Gotai]]
-- [[objektai/grupes/Langobardai]]
-- [[objektai/zodynas/kunigas]]
-- [[objektai/asmenys/Palemonas]]
-- [[objektai/autoriai/Dusburgas]]

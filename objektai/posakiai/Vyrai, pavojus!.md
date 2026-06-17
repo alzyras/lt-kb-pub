@@ -31,6 +31,7 @@ amziai:
 - t-001
   global_id: t-41471
   teiginys: 'Šūksnis „Vyrai, pavojus!“ buvo ištartas pastebėjus, kad stovyklą supa čekistai.'
+  sudarymo_pagrindimas: 'Pirminis teiginys perrašomas į pilną, aiškų sakinį be perteklinio konteksto.'
   pagrindžia:
     - c-001
 
@@ -61,7 +62,3 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Ginklai]]

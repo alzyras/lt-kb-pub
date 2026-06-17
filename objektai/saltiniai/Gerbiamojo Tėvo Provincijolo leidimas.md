@@ -24,6 +24,14 @@ Jėzaus draugijos Lietuvos provincijos viršininkas Jonas Rivockis 1663 m. rugs�
 - t-001
   global_id: t-186311
   teiginys: 'Jėzaus draugijos Lietuvos provincijos viršininkas Jonas Rivockis 1663 m. rugsėjo 9 d. Gardine leido spausdinti antrąją Alberto Kojelavičiaus „Lietuvos istorijos“ dalį.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra tikslus, pilnas ir tiesiogiai paremtas leidimo tekstu.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Gardinas; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1663 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra tikslus, pilnas ir tiesiogiai paremtas leidimo tekstu.'
   pagrindžia:
     - c-001
 

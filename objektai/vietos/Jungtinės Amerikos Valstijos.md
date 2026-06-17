@@ -4,10 +4,12 @@ pavadinimas: 'Jungtinės Amerikos Valstijos'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
+  - '1938 m.'
   - '1940 m.'
   - '1951 m.'
-date_start: '1940'
-date_end: '1951'
+  - '1991 m.'
+date_start: '1938'
+date_end: '1991'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -20,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-JAV prezidentas Džordžas Bušas Vilniuje pareiškė, kad Lietuvos priešai taptų ir Jungtinių Amerikos Valstijų priešais. JAV įvestos imigracijos kvotos skatino neprasigyvenusius smulkius mažažemius valstiečius emigruoti daugiausia į Pietų Amerikos šalis. Jungtinėse Amerikos Valstijose veikė didžiausia lietuvių išeivijos dalis ir svarbiausios jos organizacijos ALT, PLB bei VLIK.
+Neprasigyvenę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugiausia į Pietų Amerikos šalis, nes JAV įvedė imigracijos kvotas. Prasidėjus Šaltajam karui tarp JAV ir SSRS, amerikiečiai ėmė keisti savo požiūrį į dipukus. JAV veikė didžiausia lietuvių išeivijos dalis, svarbiausios ir stipriausios organizacijos – Amerikos lietuvių taryba (ALT, įsteigta 1940 m.), Pasaulio lietuvių bendruomenė (PLB) (1951 m.) ir iš Europos persikėlęs Vyriausiasis Lietuvos išlaisvinimo komitetas.
 
 ## Teiginiai
 
@@ -28,6 +30,8 @@ JAV prezidentas Džordžas Bušas Vilniuje pareiškė, kad Lietuvos priešai tap
 - t-001
   global_id: t-76352
   teiginys: 'JAV prezidentas Džordžas Bušas Vilniuje pareiškė, kad Lietuvos priešai taptų ir Jungtinių Amerikos Valstijų priešais.'
+  sudarymo_pagrindimas: 'Reikia ištaisyti nutrūkusią citatą ir aiškiai įvardyti kalbėjusį asmenį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/NATO|NATO]]; mentioned_person: [[objektai/asmenys/Džordžas Bušas|Džordžas Bušas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -35,6 +39,11 @@ JAV prezidentas Džordžas Bušas Vilniuje pareiškė, kad Lietuvos priešai tap
 - t-002
   global_id: t-76353
   teiginys: 'JAV įvestos imigracijos kvotos skatino neprasigyvenusius smulkius mažažemius valstiečius emigruoti daugiausia į Pietų Amerikos šalis.'
+  sudarymo_pagrindimas: 'Perrašyta taip, kad teiginys tiesiogiai sietųsi su Jungtinėmis Amerikos Valstijomis.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Kaunas'
+  temporaliniai_duomenys: 'įvykio data: 1938 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Perrašyta taip, kad teiginys tiesiogiai sietųsi su Jungtinėmis Amerikos Valstijomis.'
   pagrindžia:
     - c-003
 
@@ -42,6 +51,11 @@ JAV prezidentas Džordžas Bušas Vilniuje pareiškė, kad Lietuvos priešai tap
 - t-003
   global_id: t-76354
   teiginys: 'Jungtinėse Amerikos Valstijose veikė didžiausia lietuvių išeivijos dalis ir svarbiausios jos organizacijos ALT, PLB bei VLIK.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir faktinis, tiesiogiai susijęs su Jungtinėmis Amerikos Valstijomis.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Amerikos lietuvių taryba|Amerikos lietuvių taryba]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Europa; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1940 m.; įvykio data: 1951 m.; įvykio data: 1991 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir faktinis, tiesiogiai susijęs su Jungtinėmis Amerikos Valstijomis.'
   pagrindžia:
     - c-001
 

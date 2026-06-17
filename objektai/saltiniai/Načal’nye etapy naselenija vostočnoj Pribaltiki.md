@@ -26,6 +26,9 @@ amziai:
 - t-001
   global_id: t-31862
   teiginys: 'V. P. Jakimovo „Načal’nye etapy naselenija vostočnoj Pribaltiki“ paskelbtas 1956 m. Maskvoje, „Baltijskij Etnografičeskij Sbornik“ leidinyje.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_person: [[objektai/asmenys/Marija|Marija]]; mentioned_place: Maskva; mentioned_place: Milanas; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1956 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

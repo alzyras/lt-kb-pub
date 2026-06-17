@@ -33,6 +33,11 @@ Nenurodyta
 - t-001
   global_id: t-185897
   teiginys: 'Artėjant žiemai kariams reikėjo traukti į žiemos stovyklas, nes šis metas krašte laikytas netinkamu karui.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata remia glaustą teiginį apie žiemos stovyklų poreikį.'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Viena'
   pagrindžia:
     - c-001
 

@@ -30,6 +30,11 @@ periodo_grupes:
 - t-001
   global_id: t-87742
   teiginys: 'Jurgis Chodkevičius 1575 m. Vilniuje padėjo ir globojo spaustuvininką Petrą Timofejevą Mstislavliškį.'
+  sudarymo_pagrindimas: 'Citata palaiko Jurgio Chodkevičiaus pagalbą spaustuvininkui.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_person: [[objektai/asmenys/Stanislovas|Stanislovas]]; mentioned_place: Lukas; mentioned_place: Maskva; mentioned_place: Upytė; mentioned_place: Viena; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1575 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko Jurgio Chodkevičiaus pagalbą spaustuvininkui.'
   pagrindžia:
     - c-001
 
@@ -37,9 +42,15 @@ periodo_grupes:
 - t-002
   global_id: t-184746
   teiginys: 'Bresto seimo pradžioje Jurgis Chodkevičius paskirtas Lietuvos Didžiosios Kunigaikštystės archikamerarijumi.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis sakinys triukšmingas; citata palaiko pareigybės paskyrimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_object: [[objektai/zodynas/archikamerarijus|archikamerarijus]]; mentioned_object: [[objektai/zodynas/luomai|luomai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/ivykiai/Bresto seimas ir Augusto paskyrimas valdyti Lietuvos Didžiąją Kunigaikštystę.md#claim-t-185698|Bresto seimas ir Augusto paskyrimas valdyti Lietuvos Didžiąją Kunigaikštystę (seimas)]]: Bresto seimo pradžioje Jurgis Chodkevičius buvo paskirtas Lietuvos Didžiosios Kunigaikštystės archikamerarijumi.
+- susijęs iš [[objektai/zodynas/archikamerarijus.md#claim-t-185398|archikamerarijus]]: Seimo pradžioje Jurgis Chodkevičius buvo paskirtas vyriausiuoju kunigaikščio miegamojo prižiūrėtoju, vadintu archikamerarijumi.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -95,12 +106,3 @@ periodo_grupes:
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Chodkevičiai]]
-- [[objektai/zodynas/luomai]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/zodynas/archikamerarijus]]
-- [[objektai/ivykiai/Bresto seimas ir Augusto paskyrimas valdyti Lietuvos Didžiąją Kunigaikštystę|Bresto seimas ir Augusto paskyrimas valdyti Lietuvos Didžiąją Kunigaikštystę (seimas)]]
-- [[objektai/grupes/Mamoničių giminė]]

@@ -18,6 +18,11 @@ Kunigaikščiai Belskiai su didžiulėmis tėvonijomis perėjo į Maskvos pusę 
 - t-001
   global_id: t-185457
   teiginys: 'Kunigaikščiai Belskiai su didžiulėmis tėvonijomis perėjo į Maskvos pusę ir su savo kariaunomis pradėjo puldinėti karaliaus valdas.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Belskius ir atitinka citatos turinį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Lietuva; mentioned_place: Maskva'
   pagrindžia:
     - c-001
 
@@ -51,9 +56,3 @@ Kunigaikščiai Belskiai su didžiulėmis tėvonijomis perėjo į Maskvos pusę 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/grupes/Boratinskių giminė]]
-- [[objektai/grupes/Vorotinskių giminė]]

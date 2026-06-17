@@ -22,9 +22,12 @@ Kitą dieną sąjungininkai priėjo Drevencos upę ties Kauer­ niku. Čia paste
 - t-001
   global_id: t-36272
   teiginys: 'Ties Kauerniku sąjungininkai priėjo Drevencos upę ir pamatė, kad perėjimą saugo kryžiuočiai.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Drevenca'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178939|Kryžiuočių ordinas]]: Sąjungininkai ties Kauerniku pastebėjo, kad kryžiuočiai jau saugo perėjimą per Drevencos upę.
+- susijęs iš Drevenca: Sąjungininkai priėjo Drevencos upę ties Kauerniku.
+- susijęs iš Drevenca: Sąjungininkai priėjo Drevencos upę ties Kauerniku ir rado kryžiuočių saugomą perėjimą.
 ## Reikšmingi paminėjimai
 
 - c-001

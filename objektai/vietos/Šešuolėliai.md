@@ -20,9 +20,11 @@ tags:
 - t-001
   global_id: t-42361
   teiginys: '7-asis pulkas turėjo pulti Širvintas ir užimti liniją iki Šešuolėlių dvaro.'
+  sudarymo_pagrindimas: 'Sakinys yra pilnas, gramatiškas ir citata patvirtina planuotą liniją iki Šešuolėlių dvaro.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rytas|Rytas]]'
   pagrindžia:
     - c-001
-
+- susijęs iš Puoriai: 7-asis pulkas turėjo pulti Širvintas ir užimti Alionių, Puorių, Ramaškonių ir Šešuolėlių dvaro liniją.
 ## Reikšmingi paminėjimai
 
 - c-001

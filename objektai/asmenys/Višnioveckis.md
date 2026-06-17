@@ -18,6 +18,11 @@ Skitai paėmė kunigaikštį Višnioveckį, jo žmoną ir visą šeimyną ir iš
 - t-001
   global_id: t-186170
   teiginys: 'Skitai paėmė kunigaikštį Višnioveckį, jo žmoną ir visą šeimyną ir išvežė juos į Skitiją.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nusako Višnioveckio paėmimą ir išvežimą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/skitai|skitai]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Skitija'
   pagrindžia:
     - c-001
 
@@ -56,7 +61,3 @@ Skitai paėmė kunigaikštį Višnioveckį, jo žmoną ir visą šeimyną ir iš
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/skitai]]

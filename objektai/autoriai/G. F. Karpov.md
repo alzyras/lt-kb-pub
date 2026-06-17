@@ -3,11 +3,16 @@ tipas: autorius
 pavadinimas: 'G. F. Karpov'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+datos: []
+date_start: ''
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
   - diplomatas
+amziai: []
+periodo_grupes: []
 ---
 # G. F. Karpov
 
@@ -21,6 +26,11 @@ Karpov, 1892) ir t.
 - t-001
   global_id: t-29475
   teiginys: 'G. F. Karpovas 1892 m. išleido SbRIO 35 tomą apie Lietuvos ir Lenkijos diplomatinius santykius su Maskva.'
+  sudarymo_pagrindimas: 'Citata palaiko leidėjo, metų ir tomo temos faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Maskva'
+  temporaliniai_duomenys: 'įvykio data: 1487-1570; įvykio data: 1570 m.; įvykio data: 1892 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko leidėjo, metų ir tomo temos faktą.'
   pagrindžia:
     - c-001
 
@@ -39,7 +49,3 @@ Karpov, 1892) ir t.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Totoriai]]

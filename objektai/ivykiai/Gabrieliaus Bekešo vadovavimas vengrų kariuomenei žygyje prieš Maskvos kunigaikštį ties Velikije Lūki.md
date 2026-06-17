@@ -39,6 +39,8 @@ Nenurodyta
 - t-001
   global_id: t-86945
   teiginys: 'Žygyje ties Velikije Lūki Gabrielis Bekešas buvo paskirtas vadovauti vengrų kariuomenės riteriams.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, o citata pagrindžia Bekešo paskyrimą vadovauti vengrų riteriams.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_object: [[objektai/zodynas/tėvonija|tėvonija]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Gabrielius Bekešas|Gabrielius Bekešas]]; mentioned_person: [[objektai/asmenys/Grigalius (vicekancleris)|Grigalius (vicekancleris)]]; mentioned_place: Alanta; mentioned_place: Maskva; mentioned_place: Ukmergė; mentioned_place: Velikije Lūki'
   pagrindžia:
     - c-001
 
@@ -86,13 +88,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Grigalius (vicekancleris)]]
-- [[objektai/grupes/Vengrai]]
-- [[objektai/zodynas/ponai]]
-- [[objektai/zodynas/tėvonija]]
-- [[objektai/asmenys/Gabrielius Bekešas]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/grupes/Stepono Batoro vengrų kariuomenė]]

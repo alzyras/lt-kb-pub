@@ -12,9 +12,9 @@ date_start: '1801'
 date_end: '1900'
 sukurta: ''
 atnaujinta: ''
+tags: []
 amziai:
   - 'XIX'
-tags: []
 ---
 # Žemaičių vyskupystės istorija
 
@@ -30,14 +30,21 @@ tags: []
 - Data: aiškiai nenurodyta.
 
 ## Teiginiai
+
 <a id="claim-t-45776"></a>
 - t-001
   global_id: t-45776
   teiginys: 'Simonas Daukantas įkalbino Motiejų Valančių Sankt Peterburge rašyti ir lietuviškai išleisti Žemaičių vyskupijos istoriją.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas, konkretus ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/Motiejus Valančius|Motiejus Valančius]]; mentioned_person: [[objektai/autoriai/S. Daukantas|S. Daukantas]]; mentioned_person: [[objektai/asmenys/Simonas Daukantas|Simonas Daukantas]]; mentioned_place: Peterburgas; mentioned_place: Telšiai; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1848 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas, konkretus ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
 
-## Bibliografiniai įrodymai
+## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Simonas Daukantas įkalbino Motiejų Valančių Sankt Peterburge rašyti ir lietuviškai išleisti Žemaičių vyskupijos istoriją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

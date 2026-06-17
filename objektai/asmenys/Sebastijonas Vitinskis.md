@@ -29,6 +29,11 @@ Sklypas tas ir mūrinis namas, kuriame yra spaustu­ vė, parduotas Jono Hozijau
 - t-001
   global_id: t-87849
   teiginys: '1547 m. Sebastijonui Vitinskiui atiteko Jono Hozijaus parduotas sklypas ir mūrinis namas su spaustuve.'
+  sudarymo_pagrindimas: 'Pradinis sakinys turi OCR triukšmo, bet citata aiškiai pagrindžia faktą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1547 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis sakinys turi OCR triukšmo, bet citata aiškiai pagrindžia faktą.'
   pagrindžia:
     - c-001
 
@@ -48,8 +53,3 @@ Sklypas tas ir mūrinis namas, kuriame yra spaustu­ vė, parduotas Jono Hozijau
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Namas]]
-- [[objektai/zodynas/vaivada]]

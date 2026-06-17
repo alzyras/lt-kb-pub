@@ -28,7 +28,7 @@ amziai:
 
 ## Santrauka
 
-Liuteronybė nuo 1539 m. buvo ankstyviausia reformacijos kryptis Lietuvoje, o vėliau liuteronų bendruomenės imtos vadinti vokiečių bendruomenėmis. LDK santvarka leido liuteronams egzistuoti šalia katalikų ir kitų etnokonfesinių bendrijų.
+Liuteronybė, prasidėjusi 1539 m., – ankstyviausia reformacijos kryptis Lietuvoje, vėliau ji vis labiau sutapo su vokiečiais, todėl liuteronų bendruomenės buvo pradėtos vadinti „vokiečių bendruomenėmis“.
 
 ## Teiginiai
 
@@ -36,6 +36,11 @@ Liuteronybė nuo 1539 m. buvo ankstyviausia reformacijos kryptis Lietuvoje, o v�
 - t-001
   global_id: t-45108
   teiginys: 'Liuteronybė nuo 1539 m. buvo ankstyviausia reformacijos kryptis Lietuvoje, o vėliau liuteronų bendruomenės imtos vadinti vokiečių bendruomenėmis.'
+  sudarymo_pagrindimas: 'Sutrumpinta ir sugramatinta ilga formuluotė.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/reformacija|reformacija]]; mentioned_place: Kijevas'
+  temporaliniai_duomenys: 'įvykio data: po 1539 m.; įvykio data: 1539 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Sutrumpinta ir sugramatinta ilga formuluotė.'
   pagrindžia:
     - c-001
 
@@ -43,9 +48,22 @@ Liuteronybė nuo 1539 m. buvo ankstyviausia reformacijos kryptis Lietuvoje, o v�
 - t-002
   global_id: t-45109
   teiginys: 'LDK santvarka leido liuteronams egzistuoti šalia katalikų ir kitų etnokonfesinių bendrijų.'
+  sudarymo_pagrindimas: 'Pirminis sakinys per ilgas ir nutrūksta; citata palaiko glaustą faktą apie liuteronus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/Liberum veto|Liberum veto]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/posakiai/„tvanas“|„tvanas“]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Švedija'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/asmenys/Kotryna.md#claim-t-186056|Kotryna]]: Karalius Augustas atvirai išsiskyrė su austrų kunigaikštyte Kotryna, todėl žmonės dar labiau patikėjo gandais apie jo perėjimą į liuteronybę.
+- susijęs iš [[objektai/asmenys/Valerijonas Suškovskis Protasevičius.md#claim-t-186263|Valerijonas Suškovskis Protasevičius (vyskupas)]]: Vilniaus vyskupo įpėdiniu tapo Lucko vyskupas Valerijonas Suškovskis Protasevičius.
+- susijęs iš [[objektai/asmenys/Žygimantas Augustas.md#claim-t-184912|Žygimantas Augustas (arkivyskupas, XVI a.)]]: Žygimantas Augustas slėpė Rygos katedros kolegijos atsimetimą nuo katalikų tikėjimo, todėl pasklido gandai apie jo palankumą liuteronybei.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179342|Lietuviai]]: Oberosto režimo metu lietuviai įsteigė apie tūkstantį mokyklų ir mokytojų kursų.
+- susijęs iš [[objektai/grupes/Oberostas.md#claim-t-74883|Oberostas]]: Oberosto režimas nusavino maistą, apkrovė gyventojus mokesčiais ir prievolėmis, išvežė pramonės įmones ir pradėjo germanizaciją mokyklose.
+- susijęs iš [[objektai/grupes/Oberostas.md#claim-t-74886|Oberostas]]: Oberosto karinis kolonijinis režimas nusavindavo maistą, apkrovė valstiečius mokesčiais bei prievolėmis ir pradėjo germanizaciją mokyklose.
+- susijęs iš [[objektai/ivykiai/Augusto išsiskyrimas su Kotryna ir jos mirtis kelionėje.md#claim-t-185551|Augusto išsiskyrimas su Kotryna ir jos mirtis kelionėje]]: Karalius Augustas atvirai išsiskyrė su austrų kunigaikštyte Kotryna.
+- susijęs iš [[objektai/ivykiai/Pasak Kojelavičiaus, Rygos katedros kolegijos atsimetimas ir karaliaus lapkričio 26 d. apsaugos raštas.md#claim-t-185760|Pasak Kojelavičiaus, Rygos katedros kolegijos atsimetimas ir karaliaus lapkričio 26 d. apsaugos raštas]]: Pasak Kojelavičiaus, Rygos arkivyskupo katedros dvasininkai pasidalijo kolegijos valdas ir išsižadėjo skaistybės.
+- susijęs iš [[objektai/paprociai/LDK didikų kalvinizmo rėmimas ir katalikų bažnyčių sekuliarizavimas.md#claim-t-77951|LDK didikų kalvinizmo rėmimas ir katalikų bažnyčių sekuliarizavimas]]: LDK didikai parėmė evangelikų reformatų tikėjimą, o beveik visi didikai katalikai ir dalis ortodoksų perėjo į kalvinizmą ir sekuliarizavo apie pusę katalikų bažnyčių.
+- susijęs iš Dabartis: Oberosto režimo metais „Dabartis“ buvo vienintelis lietuviškai leistas cenzūruojamas laikraštis.
+- susijęs iš Oberostas: Oberosto karinis kolonijinis režimas nusavindavo valstiečių maistą, apkrovė juos mokesčiais bei prievolėmis ir išvežė pramonės įmones į Vokietiją.
+- susijęs iš [[objektai/zodynas/atskala.md#claim-t-185348|atskala]]: Karaliui Augustui slepiant Rygos katedros kolegijos atsimetimą nuo katalikų tikėjimo, pasklido gandai apie jo perėjimą į liuteronų atskalą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -90,25 +108,3 @@ Liuteronybė nuo 1539 m. buvo ankstyviausia reformacijos kryptis Lietuvoje, o v�
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Liberum veto]]
-- [[objektai/grupes/Stačiatikiai]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/zodynas/reformacija]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/grupes/Švedai]]
-- [[objektai/posakiai/„tvanas“]]
-- [[objektai/ivykiai/Augusto išsiskyrimas su Kotryna ir jos mirtis kelionėje]]
-- [[objektai/asmenys/Kotryna]]
-- [[objektai/paprociai/LDK didikų kalvinizmo rėmimas ir katalikų bažnyčių sekuliarizavimas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Oberostas]]
-- [[objektai/ivykiai/Pasak Kojelavičiaus, Rygos katedros kolegijos atsimetimas ir karaliaus lapkričio 26 d. apsaugos raštas]]
-- [[objektai/asmenys/Valerijonas Suškovskis Protasevičius|Valerijonas Suškovskis Protasevičius (vyskupas)]]
-- [[objektai/zodynas/atskala]]
-- [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/grupes/Unitai]]
-- [[objektai/grupes/Unitų bažnyčia unitai]]

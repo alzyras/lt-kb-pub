@@ -29,6 +29,11 @@ Dar prieš įžengiant karaliui Steponui į sostą, Lie­ tuvos piliečių broli
 - t-001
   global_id: t-86745
   teiginys: '1575 m. Vilniuje pas Kuzmą ir Luką Mamoničius Petras Timofiejevas Mstislavliškis pirmą kartą išspausdino „Cztėry Ewangelje“.'
+  sudarymo_pagrindimas: 'Pašalintas išnašos ir OCR triukšmas, paliktas faktas apie Mamoničius.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Petras Timofiejevas Mstislavliškis|Petras Timofiejevas Mstislavliškis]]; mentioned_person: [[objektai/asmenys/Stanislovas|Stanislovas]]; mentioned_place: Lukas; mentioned_place: Maskva; mentioned_place: Upytė; mentioned_place: Viena; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1575 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas išnašos ir OCR triukšmas, paliktas faktas apie Mamoničius.'
   pagrindžia:
     - c-002
 
@@ -36,6 +41,8 @@ Dar prieš įžengiant karaliui Steponui į sostą, Lie­ tuvos piliečių broli
 - t-002
   global_id: t-86746
   teiginys: 'Mamoničių namai, anot citatos, veikiausiai stovėjo ten, kur vėliau buvo Sledzinskio namai Nr. 203.'
+  sudarymo_pagrindimas: 'Sakinys išvalytas nuo OCR triukšmo ir išlaikytas atsargus šaltinio teiginys.'
+  susije_objektai: 'mentioned_place: Mamoničių namai'
   pagrindžia:
     - c-001
 
@@ -88,12 +95,3 @@ Dar prieš įžengiant karaliui Steponui į sostą, Lie­ tuvos piliečių broli
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Stanislovas]]
-- [[objektai/asmenys/Petras Timofiejevas Mstislavliškis]]
-- [[objektai/asmenys/Jonas Semenavičius Zažeckis]]
-- [[objektai/asmenys/Jurgis Chodkevičius]]
-- [[objektai/asmenys/Kuzma Mamoničius]]
-- [[objektai/asmenys/Luka Mamoničius]]

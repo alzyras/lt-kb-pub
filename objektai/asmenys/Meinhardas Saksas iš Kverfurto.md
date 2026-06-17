@@ -24,7 +24,7 @@ periodo_grupes:
 
 ## Santrauka
 
-1294 m. Meinhardas Saksas iš Kverfurto subūrė kariuomenę, užėmė Mazovijos kunigaikščio Boleslovo Viznos pilį ir ją sugriovė. Meinhardas Saksas iš Kverfurto švento Jokūbo dieną su raiteliais užpuolė Junigedą ir Pieštvę ir sudegino abiejų pilių papilius. Meinhardas Saksas iš Kverfurto buvo tryliktas Prūsijos magistras ir vadovavo vienuolika metų.
+Dusburgietis teigia, kad apie brolį Meinhardą, Prūsijos žemės magistrą Brolis Meinhardas Saksas iš Kverfurto, tryliktas Prūsijos magistras, vadovavo vienuolika metų527. Dusburgietis teigia, kad meinhardas Saksas iš Kverfurto kėlė siaubą visiems priešams, nes jų negalėjo apsaugoti nuo jo keršto nei įtvirtinimai, nei dideli nuotoliai. Dusburgietis teigia, kad apie Ragainės ir Skalvių pilių pastatymą 1289 viešpaties metais tas pats brolis Meinhardas, didžiai trokšdamas praplėsti krikščionių gyvenamus plotus ir padidinti Prūsijos žemes, patraukė švento Jurgio kankinio dieną (balandžio 23) su galybe karių į skalvių.
 
 ## Teiginiai
 
@@ -32,6 +32,11 @@ periodo_grupes:
 - t-001
   global_id: t-59871
   teiginys: '1294 m. Meinhardas Saksas iš Kverfurto subūrė kariuomenę, užėmė Mazovijos kunigaikščio Boleslovo Viznos pilį ir ją sugriovė.'
+  sudarymo_pagrindimas: 'Citata patvirtina datą, veikėją, pilį ir rezultatą.'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Mazovija; mentioned_place: Prūsija; mentioned_place: Vizna'
+  temporaliniai_duomenys: 'įvykio data: 1294 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata patvirtina datą, veikėją, pilį ir rezultatą.'
   pagrindžia:
     - c-003
 
@@ -39,6 +44,8 @@ periodo_grupes:
 - t-002
   global_id: t-59872
   teiginys: 'Meinhardas Saksas iš Kverfurto švento Jokūbo dieną su raiteliais užpuolė Junigedą ir Pieštvę ir sudegino abiejų pilių papilius.'
+  sudarymo_pagrindimas: 'Perrašyta į vientisą sakinį be kronikos antraštės ir retorinių intarpų.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)|Jokūbas (vėliau Urbonas IV)]]; mentioned_place: Junigeda; mentioned_place: Pieštvė'
   pagrindžia:
     - c-001
 
@@ -46,6 +53,8 @@ periodo_grupes:
 - t-003
   global_id: t-59873
   teiginys: 'Meinhardas Saksas iš Kverfurto buvo tryliktas Prūsijos magistras ir vadovavo vienuolika metų.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir paremtas citatos informacija.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Prūsija'
   pagrindžia:
     - c-004
 
@@ -53,6 +62,11 @@ periodo_grupes:
 - t-004
   global_id: t-59874
   teiginys: '1289 m. balandžio 23 d. Meinhardas Saksas iš Kverfurto su kariuomene patraukė į Skalvą ir Nemuno pakrantėje pastatė Landeshutės pilį.'
+  sudarymo_pagrindimas: 'Citata palaiko konkrečią datą, veikėją, žygį ir pilies pastatymą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_place: Austrija; mentioned_place: Nemunas; mentioned_place: Prūsija; mentioned_place: Ragainė; mentioned_place: Skalva; mentioned_place: Viena'
+  temporaliniai_duomenys: 'pastatymo data: 1289 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko konkrečią datą, veikėją, žygį ir pilies pastatymą.'
   pagrindžia:
     - c-005
 
@@ -60,6 +74,7 @@ periodo_grupes:
 - t-005
   global_id: t-59875
   teiginys: 'Meinhardas Saksas iš Kverfurto kėlė siaubą visiems priešams, nes jų negalėjo apsaugoti nuo jo keršto nei įtvirtinimai, nei dideli nuotoliai.'
+  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
   pagrindžia:
     - c-002
 
@@ -156,15 +171,3 @@ periodo_grupes:
   statusas: verified
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Skalviai]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu]]
-- [[objektai/ivykiai/Ragainės ir Skalvių pilių pastatymas]]
-- [[objektai/ivykiai/Viznos pilies sugriovimas (1294 m.)]]
-- [[objektai/zodynas/ginklanešiai]]
-- [[objektai/zodynas/ginklanešys]]

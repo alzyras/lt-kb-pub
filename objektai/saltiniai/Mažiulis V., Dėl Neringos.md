@@ -14,7 +14,7 @@ tags:
 
 ## Santrauka
 
-Vidurio Ordino dokumentuose atsiranda lytis Neringe.
+Dusburgietis teigia, kad vidurio Ordino dokumentuose atsiranda lytis Neringe.
 
 ## Teiginiai
 
@@ -22,6 +22,8 @@ Vidurio Ordino dokumentuose atsiranda lytis Neringe.
 - t-001
   global_id: t-61175
   teiginys: 'Vidurio Ordino dokumentuose atsiranda lytis Neringe.'
+  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-001
 

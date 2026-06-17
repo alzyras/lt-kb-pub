@@ -41,6 +41,9 @@ Nenurodyta
 - t-001
   global_id: t-62683
   teiginys: 'Kariuomenė paprastai traukdavo į žygį keliais skirtingais keliais, kad palaikytų tvarką ir išvengtų kamšaties.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pradinis teiginys turi antraštės ir šaltinio atribucijos triukšmą; citata palaiko bendrą žygio praktiką.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -62,7 +65,3 @@ Nenurodyta
   pagrindžia:
     - t-001
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/žygis]]

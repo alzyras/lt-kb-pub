@@ -29,6 +29,7 @@ Włodarski, B.
 - t-001
   global_id: t-30572
   teiginys: 'B. Włodarskis paskelbė darbus apie jotvingių problemą lenkų ir rusėnų santykiuose.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_place: Maskva'
   pagrindžia:
     - c-001
 
@@ -50,8 +51,3 @@ Włodarski, B.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Rusėnai]]

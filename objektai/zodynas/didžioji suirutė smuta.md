@@ -3,10 +3,16 @@ tipas: zodyno_irasas
 pavadinimas: 'didžioji suirutė smuta'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1584 m.'
+date_start: '1584'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - sąvoka
+amziai:
+  - 'XVI'
 ---
 # didžioji suirutė smuta
 
@@ -15,34 +21,57 @@ tags:
 Maskvoje tuomet prasidėjo perversmų periodas — užėjo vadinamoji didžioji suirutė ( smuta ). Priešingai, suirutės metu Maskva buvo nebe puolančioji, bet puolamoji.
 
 ## Teiginiai
+
 <a id="claim-t-02975"></a>
 - t-001
   global_id: t-02975
   teiginys: 'Maskvoje prasidėjęs perversmų periodas vadintas didžiąja suirute (smuta).'
+  sudarymo_pagrindimas: 'Pašalintas OCR skaidymas ir sukonkretintas apibrėžiamas reiškinys.'
+  susije_objektai: 'mentioned_object: [[objektai/posakiai/didžioji suirutė|didžioji suirutė]]; mentioned_place: Maskva'
+  temporaliniai_duomenys: 'įvykio data: 1584 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas OCR skaidymas ir sukonkretintas apibrėžiamas reiškinys.'
   pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+    - c-002
+
 <a id="claim-t-02976"></a>
 - t-002
   global_id: t-02976
   teiginys: 'Didžiosios suirutės metu Maskva nebebuvo puolanti pusė, o pati buvo puolama.'
+  sudarymo_pagrindimas: 'Perrašyta sklandžiau, išlaikant citatos faktą.'
+  susije_objektai: 'mentioned_object: [[objektai/posakiai/didžioji suirutė|didžioji suirutė]]; mentioned_place: Maskva'
   pagrindžia:
-    - c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+    - c-001
+
 <a id="claim-t-182941"></a>
 - t-003
   global_id: t-182941
   teiginys: 'Po Teodoro mirties Maskvoje prasidėjo perversmų periodas, vadinamas didžiąja suirute (smuta).'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis teiginys turi kontekstinį žodį „tuomet“, kurį reikia išskleisti.'
+  susije_objektai: 'mentioned_object: [[objektai/posakiai/didžioji suirutė|didžioji suirutė]]; mentioned_place: Lietuva; mentioned_place: Maskva'
   pagrindžia:
-    - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+    - c-003
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Maskvoje prasidėjęs perversmų periodas vadintas didžiąja suirute (smuta).'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Maskvoje tuomet prasidėjo per-
+    versmų periodas — užėjo vadinamoji didžioji suirutė ( _smuta_ ).
+    Dėl to po Jono IV Žiauriojo dar ilgai iš Maskvos pusės nebuvo
+    jokio pavojaus Lietuvai. Priešingai, suirutės metu Maskva buvo
+    nebe puolančioji, bet puolamoji.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     su Lietuva, tačiau jam jau nebeteko kariauti, nes netrukus
@@ -50,14 +79,13 @@ Maskvoje tuomet prasidėjo perversmų periodas — užėjo vadinamoji didžioji 
     žygiams netikęs jo silpnaprotis sūnus Teodoras, su kurio mirtim
     pasibaigė Kalitos dinastija. Maskvoje tuomet prasidėjo per-
     versmų periodas — užėjo vadinamoji didžioji suirutė ( _smuta_ ).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
-- c-002
+
+- c-003
   santrauka: 'Po Teodoro mirties Maskvoje prasidėjo perversmų periodas, vadinamas didžiąja suirute (smuta).'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -67,31 +95,8 @@ Maskvoje tuomet prasidėjo perversmų periodas — užėjo vadinamoji didžioji 
     versmų periodas — užėjo vadinamoji didžioji suirutė ( _smuta_ ).
     Dėl to po Jono IV Žiauriojo dar ilgai iš Maskvos pusės nebuvo
     jokio pavojaus Lietuvai.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-003
-- c-003
-  santrauka: 'Didžiosios suirutės metu Maskva nebebuvo puolanti pusė, o pati buvo puolama.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Maskvoje tuomet prasidėjo per-
-    versmų periodas — užėjo vadinamoji didžioji suirutė ( _smuta_ ).
-    Dėl to po Jono IV Žiauriojo dar ilgai iš Maskvos pusės nebuvo
-    jokio pavojaus Lietuvai. Priešingai, suirutės metu Maskva buvo
-    nebe puolančioji, bet puolamoji.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/posakiai/didžioji suirutė]]
-- [[objektai/asmenys/Teodoras]]

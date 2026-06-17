@@ -33,6 +33,11 @@ Generolas Silvestras Žukauskas (1861-1937) / Biografinė apybraiža, Vilnius, 2
 - t-001
   global_id: t-39919
   teiginys: 'Jono Aničo biografinė apybraiža „Generolas Silvestras Žukauskas (1861–1937)“ išleista Vilniuje 2006 m.'
+  sudarymo_pagrindimas: 'Citata pagrindžia bibliografinį faktą apie šaltinio autorių, pavadinimą, vietą ir metus.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Silvestras Žukauskas|Silvestras Žukauskas]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 2006 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia bibliografinį faktą apie šaltinio autorių, pavadinimą, vietą ir metus.'
   pagrindžia:
     - c-001
 

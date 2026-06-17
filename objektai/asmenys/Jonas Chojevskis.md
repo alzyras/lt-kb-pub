@@ -4,9 +4,10 @@ pavadinimas: 'Jonas Chojevskis'
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
+  - '1533 m.'
   - '1536 m.'
-date_start: '1536'
-date_end: ''
+date_start: '1533'
+date_end: '1536'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -31,6 +32,11 @@ Dalyvaujant didžiai gerbiamiems Kristuje tėvams ponams Pšemislio vys­ kupui 
 - t-001
   global_id: t-87715
   teiginys: 'Pšemislio vyskupas Jonas Chojevskis 1533 m. liepos 26 d. Vilniuje dalyvavo kaip karaliaus Žygimanto rašto liudininkas.'
+  sudarymo_pagrindimas: 'Citata palaiko pareigas, datą ir dalyvavimą, bet pradinė formuluotė nutrūkusi.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_object: [[objektai/posakiai/Viešpaties vardu Amen|Viešpaties vardu Amen]]; mentioned_object: [[objektai/zodynas/kaštelionas|kaštelionas]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Naugardukas; mentioned_place: Vilija; mentioned_place: Vilnius; mentioned_place: Vitebskas'
+  temporaliniai_duomenys: 'įvykio data: 1533 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko pareigas, datą ir dalyvavimą, bet pradinė formuluotė nutrūkusi.'
   pagrindžia:
     - c-001
 
@@ -72,13 +78,3 @@ Dalyvaujant didžiai gerbiamiems Kristuje tėvams ponams Pšemislio vys­ kupui 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Antspaudas]]
-- [[objektai/grupes/Lotynai]]
-- [[objektai/posakiai/Viešpaties vardu Amen]]
-- [[objektai/zodynas/kaštelionas]]
-- [[objektai/zodynas/ponai]]
-- [[objektai/zodynas/seniūnas]]
-- [[objektai/zodynas/vaivada]]

@@ -21,7 +21,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Priešo šaulių ir artilerijos ugnis privertė F. Rolando pajėgas pasukti Neries link ir susikauti su rusų pėstininkais.
+Rolando pajėgas pasukti kairiau, Nėries link.
 
 ## Teiginiai
 
@@ -29,6 +29,11 @@ Priešo šaulių ir artilerijos ugnis privertė F. Rolando pajėgas pasukti Neri
 - t-001
   global_id: t-80732
   teiginys: 'Priešo šaulių ir artilerijos ugnis privertė F. Rolando pajėgas pasukti Neries link ir susikauti su rusų pėstininkais.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatinis ir tiesiogiai pagrįstas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/zodynas/Kartečė|Kartečė]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/ulonai|ulonai]]; mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]; mentioned_place: Paneriai; mentioned_place: Varšuva; mentioned_place: Voluinė'
+  temporaliniai_duomenys: 'įvykio data: 1831 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatinis ir tiesiogiai pagrįstas citata.'
   pagrindžia:
     - c-001
 
@@ -132,17 +137,3 @@ Priešo šaulių ir artilerijos ugnis privertė F. Rolando pajėgas pasukti Neri
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/schema]]
-
-### Susiję objektai
-- [[objektai/daiktai/Artilerija]]
-- [[objektai/zodynas/Kartečė]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/ulonai]]
-- [[objektai/daiktai/Šautuvai]]

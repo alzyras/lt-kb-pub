@@ -5,8 +5,9 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1931 m.'
+  - '1972 m.'
 date_start: '1931'
-date_end: ''
+date_end: '1972'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -26,6 +27,9 @@ amziai:
 - t-001
   global_id: t-31615
   teiginys: 'J. Žilinsko veikalas „Akmens periodo (mesolithicum-neolithicum) žmogus Žemaitijoje ir Suvalkijoje“ išleistas 1931 m.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_object: [[objektai/zodynas/proistorė|proistorė]]; mentioned_place: Lietuva; mentioned_place: Merkinė'
+  temporaliniai_duomenys: 'įvykio data: 1931 m.; įvykio data: 1972 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

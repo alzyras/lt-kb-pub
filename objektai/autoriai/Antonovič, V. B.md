@@ -28,6 +28,11 @@ Antonovič, V.
 - t-001
   global_id: t-29450
   teiginys: 'V. B. Antonovič su D. J. Ilovaiskiu 1887 m. Tarnopolyje paskelbė darbą apie Lietuvos Didžiąją Kunigaikštystę.'
+  sudarymo_pagrindimas: 'Pradinis tekstas tėra vardo fragmentas be predikato.'
+  susije_objektai: 'mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1887 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis tekstas tėra vardo fragmentas be predikato.'
   pagrindžia:
     - c-001
 

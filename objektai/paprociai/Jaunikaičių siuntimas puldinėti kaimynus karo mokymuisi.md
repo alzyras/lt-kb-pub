@@ -33,6 +33,11 @@ Nenurodyta
 - t-001
   global_id: t-185916
   teiginys: 'Erdivydas, Vykintas ir Tautvilas buvo išsiųsti į kariuomenę, kad puldinėdami kaimynus pratintųsi kariauti.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys gramatiškas, turi aiškų subjektą ir atitinka citatos turinį.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tautvilas|Tautvilas]]'
   pagrindžia:
     - c-001
 
@@ -58,7 +63,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Tautvilas]]

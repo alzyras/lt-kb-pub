@@ -2,6 +2,7 @@
 tipas: daiktas
 pavadinimas: 'Patrankos'
 saltiniai:
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1350 m.'
@@ -10,12 +11,12 @@ date_start: '1350'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XIV'
-  - 'XXI'
 tags:
   - daiktas
   - ginklas
+amziai:
+  - 'XIV'
+  - 'XXI'
 ---
 # Patrankos
 
@@ -44,10 +45,13 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 <a id="claim-t-176197"></a>
 - t-001
   global_id: t-176197
   teiginys: 'Žalgirio mūšio pradžioje kryžiuočiai porą kartų iššovė iš patrankų, bet sąjungininkų sumišimo nesukėlė.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas, konkretus ir tiesiogiai pagrįstas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-006
 
@@ -55,6 +59,7 @@ Nenurodyta
 - t-002
   global_id: t-176198
   teiginys: 'Žalgirio mūšyje patrankos buvo vartotos tik pradžioje.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir tiksliai perteikia citatos faktą.'
   pagrindžia:
     - c-007
 
@@ -62,6 +67,8 @@ Nenurodyta
 - t-003
   global_id: t-176199
   teiginys: 'XV a. patrankos buvo griozdiškos, didelės, sunkiai pervežamos ir labiau tiko tvirtovėms griauti.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, enciklopedinis ir paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]'
   pagrindžia:
     - c-001
 
@@ -69,6 +76,7 @@ Nenurodyta
 - t-004
   global_id: t-176200
   teiginys: 'Prie Drevencos kryžiuočiai sustiprino upės krantus ir apstatė juos patrankomis.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Drevenca'
   pagrindžia:
     - c-002
 
@@ -76,6 +84,8 @@ Nenurodyta
 - t-005
   global_id: t-176201
   teiginys: 'Skirgaila Trakų piliai ginti iš Ordino maršalkos dovanų gavo keletą didelių patrankų.'
+  sudarymo_pagrindimas: 'Teiginys pagrįstas, bet reikia aiškiai susieti armotas su patrankomis.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/maršalka|maršalka]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Ragainė; mentioned_place: Trakai'
   pagrindžia:
     - c-003
 
@@ -83,6 +93,7 @@ Nenurodyta
 - t-006
   global_id: t-176203
   teiginys: 'Patrankos keldavo daug triukšmo, bet duodavo mažai naudos.'
+  sudarymo_pagrindimas: 'Reikia pašalinti OCR triukšmą ir suformuluoti sklandžiau.'
   pagrindžia:
     - c-004
 
@@ -90,6 +101,7 @@ Nenurodyta
 - t-007
   global_id: t-176204
   teiginys: 'Žalgirio mūšyje patrankos buvo naudotos mažai ir tik mūšio pradžioje.'
+  sudarymo_pagrindimas: 'Reikia pašalinti pažodinį, sunkesnį citatos fragmentą ir suformuluoti sklandų sakinį.'
   pagrindžia:
     - c-004
 
@@ -97,10 +109,35 @@ Nenurodyta
 - t-008
   global_id: t-176205
   teiginys: 'Mūšio pradžioje kryžiuočiai porą kartų iššovė iš patrankų, bet sąjungininkų kariuomenėje sumišimo nesukėlė.'
+  sudarymo_pagrindimas: 'Reikia sklandesnės formuluotės ir aiškesnės sakinio sandaros.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Dlugošas|Dlugošas]]'
   pagrindžia:
     - c-005
-
+- susijęs iš [[objektai/asmenys/M. Dejevas.md#claim-t-40313|M. Dejevas]]: Plk. M. Dejevas vadovavo B. Knorringo į Paupį pasiųstiems batalionams.
+- susijęs iš [[objektai/asmenys/V. Grigas.md#claim-t-80744|V. Grigas]]: Grigo vadovaujama lengvosios artilerijos 1-oji baterija (4 patrankos).
+- susijęs iš [[objektai/asmenys/Vladislovas Jogaila.md#claim-t-173236|Vladislovas Jogaila]]: Pagal Vladislovo Jogailos potvarkį Vilniaus sargyba ir policija laikinai priklausė pilies tarnybai.
+- susijęs iš [[objektai/asmenys/Žygimantas Senasis.md#claim-t-173324|Žygimantas Senasis]]: 1522 m. Žygimantas Senasis įsakė grąžinti Vilniaus miesto sargybą ir policiją magistratui.
+- susijęs iš [[objektai/daiktai/1916 m. modelio 77 mm vokiška patranka.md#claim-t-183681|1916 m. modelio 77 mm vokiška patranka]]: Lietuvos kariuomenės artileristai buvo prie 1916 m. modelio 77 mm vokiškos patrankos.
+- susijęs iš [[objektai/daiktai/1916 m. modelio 77 mm vokiška patranka.md#claim-t-39233|1916 m. modelio 77 mm vokiška patranka]]: Lietuvos kariuomenės artileristai buvo užfiksuoti prie 1916 m. modelio 77 mm vokiškos patrankos.
+- susijęs iš [[objektai/daiktai/Ginklai, skydai, šarvai ir šaudymo reikmenys.md#claim-t-86987|Ginklai, skydai, šarvai ir šaudymo reikmenys]]: Vertingiausi ginklai turėjo vardus: keturios didžiosios akmenų patrankos vadinosi Elgeta, Vytautas, Boba ir Augustas.
+- susijęs iš [[objektai/daiktai/Ginklai, skydai, šarvai ir šaudymo reikmenys.md#claim-t-86989|Ginklai, skydai, šarvai ir šaudymo reikmenys]]: Vilniaus miestiečiai gynybai turėjo turėti šarvus, muškietą ir ragotinę, o miesto taryba prižiūrėjo patrankas ir arkebuzas.
+- susijęs iš [[objektai/daiktai/Patranka Hidra.md#claim-t-39187|Patranka Hidra]]: Patrankos „Hidra“ laibgalis dekoruotas Hidra, o drūtgalis - karūna, Vyčiu, Gediminaičių stulpais ir 1564 m. Žygimanto Augusto įrašu.
+- susijęs iš [[objektai/daiktai/Vilniaus miestiečių gynybinė ginkluotė.md#claim-t-87127|Vilniaus miestiečių gynybinė ginkluotė]]: Vilniaus magistratas turėjo išlaikyti 24 įprastai ginkluotus sargybinius, kad miesto tvarka būtų prižiūrima dieną ir naktį.
+- susijęs iš [[objektai/daiktai/Žygimanto Augusto Vilniuje pagaminti ginklai ir amunicija.md#claim-t-87010|Žygimanto Augusto Vilniuje pagaminti ginklai ir amunicija]]: Golembiovskio aprašyme keturios didžiosios akmenų patrankos vadintos Elgeta, Vytautu, Boba ir Augustu.
+- susijęs iš [[objektai/grupes/Vilniaus magistratas.md#claim-t-172819|Vilniaus magistratas]]: Karaliaus Žygimanto 1522 m. įsakymu miesto sargyba ir policija buvo sugrąžinta Vilniaus magistratui.
+- susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-172825|Vilniaus miestiečių luomas]]: Gaisro atveju kiekvienas Vilniaus miestietis privalėjo skubėti prie ugnies, o burmistrai turėjo vadovauti gesinimui.
+- susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-55086|Vilniaus miestiečių luomas]]: Vilniaus miestiečiai gaisro atveju privalėjo skubėti prie ugnies, o miesto gynybai turėti šarvus, muškietą ir ragotinę.
+- susijęs iš [[objektai/ivykiai/Vilniaus gynyba (1794 m. liepos 19–20 d.).md#claim-t-80676|Vilniaus gynyba (1794 m. liepos 19–20 d.)]]: 1794 m. liepos 19 d. B. Knorringo vadovaujamas Rusijos kariuomenės korpusas, padalytas į tris kolonas, pasiekė Vilnių.
+- susijęs iš [[objektai/paprociai/Patrankų vardų ir lotyniškų įrašų suteikimas.md#claim-t-87301|Patrankų vardų ir lotyniškų įrašų suteikimas]]: Vertingiausios patrankos turėjo vardus, o ant kiekvieno pabūklo paprastai būdavo dvi lotyniškos eilutės apie jo žygdarbius.
+- susijęs iš 1565 metų 39 lapų rankraštis apie Vilniuje pagamintus ginklus ir sprogmenis: 1565 m. rankraštyje minima, kad vertingiausi ginklai turėjo vardus, o dvi etmono patrankos vadintos Žygimantu Senuoju ir Žygimantu Augustu.
+- susijęs iš MORTYROS IR PATRANKOS TRAJEKTORIJOS: Iliustracijos „Mortyros ir patrankos trajektorijos“ dailininkas buvo Andžej Geglis.
+- susijęs iš Gedimino pilies kalnas (pilis): Velykų naktį patrankos šūvis, pasak kai kurių šaltinių, driokstelėjo nuo Gedimino pilies kalno ir davė puolimo signalą.
+- susijęs iš Paupys: 1794 m. liepos 19 d. dalis rusų pajėgų prasiveržė ir užėmė Paupį bei Užupį.
+- susijęs iš Trakų pilis (pilis): Ordino patrankos buvo išmėgintos imant Trakų pilį, o 1384 m. Jogaila jas panaudojo prieš Ordiną prie Marienverderio.
+- susijęs iš Užupis: 1794 m. liepos 19 d. dalis rusų jėgerių batalionų prasiveržė į Paupį ir Užupį, o Užupis buvo padegtas.
+- susijęs iš [[objektai/zodynas/miesto sargyba ir policija.md#claim-t-86596|miesto sargyba ir policija]]: 1522 m. karaliaus Žygimanto įsakymu miesto sargyba ir policija buvo sugrąžintos magistratui, kuris turėjo išlaikyti 24 sargybinius.
 ## Reikšmingi paminėjimai
+
 - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -115,6 +152,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
+
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -127,6 +165,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-004
+
 - c-003
   santrauka: 'Skirgaila Trakų piliai ginti iš Ordino maršalkos dovanų gavo keletą didelių patrankų.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -148,6 +187,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-005
+
 - c-004
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -162,6 +202,7 @@ Nenurodyta
   pagrindžia:
     - t-007
     - t-006
+
 - c-005
   santrauka: 'Mūšio pradžioje kryžiuočiai porą kartų iššovė iš patrankų, bet sąjungininkų kariuomenėje sumišimo nesukėlė.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -178,6 +219,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-008
+
 - c-006
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -192,6 +234,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
 - c-007
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -204,32 +247,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Monetos]]
-- [[objektai/daiktai/Varpai]]
-- [[objektai/daiktai/Artilerija]]
-- [[objektai/asmenys/Dlugošas]]
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Skirgaila]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/maršalka]]
-- [[objektai/zodynas/įgula]]
-- [[objektai/daiktai/1916 m. modelio 77 mm vokiška patranka]]
-- [[objektai/daiktai/Ginklai, skydai, šarvai ir šaudymo reikmenys]]
-- [[objektai/asmenys/M. Dejevas]]
-- [[objektai/daiktai/Patranka Hidra]]
-- [[objektai/paprociai/Patrankų vardų ir lotyniškų įrašų suteikimas]]
-- [[objektai/ivykiai/Vilniaus gynyba (1794 m. liepos 19–20 d.)]]
-- [[objektai/grupes/Vilniaus magistratas]]
-- [[objektai/daiktai/Vilniaus miestiečių gynybinė ginkluotė]]
-- [[objektai/grupes/Vilniaus miestiečių luomas]]
-- [[objektai/asmenys/Vladislovas Jogaila]]
-- [[objektai/zodynas/miesto sargyba ir policija]]
-- [[objektai/asmenys/Žygimantas Senasis]]
-- [[objektai/daiktai/Žygimanto Augusto Vilniuje pagaminti ginklai ir amunicija]]
-- [[objektai/asmenys/V. Grigas]]
-- [[objektai/daiktai/Armotos]]
-- [[objektai/daiktai/Kardas]]

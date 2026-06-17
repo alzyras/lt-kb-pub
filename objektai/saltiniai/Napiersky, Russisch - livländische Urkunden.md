@@ -28,6 +28,11 @@ Nap. = Napiersky, K, E., Russisch - livländische Urkunden.
 - t-001
   global_id: t-34976
   teiginys: 'K. E. Napiersky veikalas „Russisch-livländische Urkunden“ buvo išleistas Peterburge 1868 m.'
+  sudarymo_pagrindimas: 'Citata leidžia pateikti pilną bibliografinį faktą apie leidinį.'
+  susije_objektai: 'mentioned_place: Peterburgas'
+  temporaliniai_duomenys: 'įvykio data: 1868 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata leidžia pateikti pilną bibliografinį faktą apie leidinį.'
   pagrindžia:
     - c-001
 

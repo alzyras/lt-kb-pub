@@ -37,6 +37,8 @@ Vartojama ankstyvųjų normanų ir Rusios istorijos aptarime.
 - t-001
   global_id: t-55271
   teiginys: 'IX a. Rusioje pirmieji normanai iš Skandinavijos buvo žinomi variagų vardu.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Normanai|Normanai]]; mentioned_person: [[objektai/asmenys/Tame (Baigos brolis)|Tame (Baigos brolis)]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Baltija; mentioned_place: Lietuva; mentioned_place: Skandinavija'
   pagrindžia:
     - c-003
 
@@ -44,6 +46,7 @@ Vartojama ankstyvųjų normanų ir Rusios istorijos aptarime.
 - t-002
   global_id: t-55272
   teiginys: 'Riurikas ir jo variagai, Balinskio aiškinimu, į Rusią galėjo būti atblokšti Petro Olai aprašyto įvykio.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/asmenys/Palemonas|Palemonas]]; mentioned_person: [[objektai/asmenys/Riurikas|Riurikas]]; mentioned_place: Islandija; mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -51,6 +54,8 @@ Vartojama ankstyvųjų normanų ir Rusios istorijos aptarime.
 - t-003
   global_id: t-82105
   teiginys: 'Petro Olai „Danų kronikoje“ aprašytas įvykis siejamas su Riuriko ir jo variagų pasitraukimu į Rusiją.'
+  sudarymo_pagrindimas: 'Pradinė frazė pernelyg ilga ir su citavimo klaida; citata pagrindžia siauresnį faktą apie variagus.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kanutas|Kanutas]]; mentioned_person: [[objektai/asmenys/Palemonas|Palemonas]]; mentioned_person: [[objektai/asmenys/Riurikas|Riurikas]]; mentioned_place: Rusija; mentioned_place: Viena'
   pagrindžia:
     - c-002
 
@@ -58,9 +63,11 @@ Vartojama ankstyvųjų normanų ir Rusios istorijos aptarime.
 - t-004
   global_id: t-82106
   teiginys: 'IX a. Rusioje variagais vadinti skandinavų normanai Baltijos pakrantėse vertėsi plėšikavimu ir prekyba.'
+  sudarymo_pagrindimas: 'Pašalintas puslapio triukšmas ir paliktas citatos pagrįstas faktas apie variagus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Normanai|Normanai]]; mentioned_group: [[objektai/grupes/Skandinavai|Skandinavai]]; mentioned_person: [[objektai/asmenys/Tame (Baigos brolis)|Tame (Baigos brolis)]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Baltija; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
-
+- susijęs iš [[objektai/grupes/Slavai.md#claim-t-89228|Slavai]]: Slavų ekspansija artėjo prie Lietuvos žemių.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -155,17 +162,3 @@ Vartojama ankstyvųjų normanų ir Rusios istorijos aptarime.
   pagrindžia:
     - t-004
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Aleksandras Balinskis]]
-- [[objektai/asmenys/Palemonas]]
-- [[objektai/asmenys/Kanutas]]
-- [[objektai/grupes/Normanai]]
-- [[objektai/asmenys/Tame (Baigos brolis)]]
-- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
-- [[objektai/grupes/Slavai]]
-- [[objektai/asmenys/Riurikas]]
-- [[objektai/grupes/Skandinavai]]
-- [[objektai/paprociai/Normanų jūros kelionės, plėšikavimas ir prekyba Baltijos pakrantėse]]
-- [[objektai/autoriai/Petras Olai]]

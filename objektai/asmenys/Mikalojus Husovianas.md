@@ -7,10 +7,6 @@ datos:
   - '1523 m.'
 date_start: '1523'
 date_end: ''
-aliases:
-  - 'objektai/autoriai/Mikalojus Husovianas'
-variantai:
-  - 'Mikalojus Husovianas'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -33,6 +29,11 @@ Jau pirmoji Lietuvos poema, tikras renesansinis kūrinys, 1523 m. išleista Mika
 - t-001
   global_id: t-78067
   teiginys: 'Mikalojaus Husoviano 1523 m. išleista poema „Giesmė apie stumbro išvaizdą, žiaurumą ir medžioklę“ Vytauto laikus rodė kaip idealą.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nurodo asmenį, kūrinį ir citatoje paremtą vertinimą.'
+  susije_objektai: 'mentioned_object: [[objektai/autoriai/Mikalojus Husovianas|Mikalojus Husovianas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1523 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo asmenį, kūrinį ir citatoje paremtą vertinimą.'
   pagrindžia:
     - c-001
 

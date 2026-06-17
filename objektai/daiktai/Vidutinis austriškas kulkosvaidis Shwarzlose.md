@@ -46,6 +46,11 @@ Nenurodyta
 - t-001
   global_id: t-39292
   teiginys: 'Vidutinis austriškas kulkosvaidis Shwarzlose, modelis 07/12, buvo naudotas Lenkijos kariuomenės.'
+  sudarymo_pagrindimas: 'Teiginys pašalina sąrašo fragmentiškumą ir yra paremtas citata.'
+  susije_objektai: 'mentioned_place: Lenkija'
+  temporaliniai_duomenys: 'įvykio data: 1000 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys pašalina sąrašo fragmentiškumą ir yra paremtas citata.'
   pagrindžia:
     - c-001
 

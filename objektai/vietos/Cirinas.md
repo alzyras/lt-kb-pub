@@ -1,24 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Cirinas'
-variantai:
-  - 'Ciriną'
-aliases: []
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
 atnaujinta: ''
-laikotarpis: ''
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: ''
 tags:
   - vieta
 ---
@@ -29,26 +15,32 @@ tags:
 Cirinas yra kaimas prie Servečio upės, 5 km į pietus nuo Ostašino. LDK kariuomenė žygiuodama į Klecką paliko Ciriną po dešinei.
 
 ## Teiginiai
+
 <a id="claim-t-187215"></a>
 - t-001
   global_id: t-187215
-  teiginys: 'Cirinas yra kaimas prie Servečio upės, 5 km į pietus nuo Ostašino.'
+  teiginys: 'LDK kariuomenė žygiuodama į Klecką paliko Ciriną po dešinei.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Cirino padėtį LDK kariuomenės žygio atžvilgiu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Kaimas; mentioned_place: Nesvyžius'
   pagrindžia:
     - c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  statusas: patvirtinta
+
 <a id="claim-t-187216"></a>
 - t-002
   global_id: t-187216
-  teiginys: 'LDK kariuomenė žygiuodama į Klecką paliko Ciriną po dešinei.'
+  teiginys: 'Cirinas yra kaimas prie Servečio upės, 5 km į pietus nuo Ostašino.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nusako Cirino vietą prie Servečio upės ir atstumą nuo Ostašino. Nepridėta informacijos apie LDK kariuomenės žygį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Kaimas; mentioned_place: Nesvyžius'
   pagrindžia:
     - c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  statusas: patvirtinta
-
+- susijęs iš Polonka: 1971 m. leidimo paaiškinime Polonka, dabar Polonečka, nurodoma kaip kaimas prie Dviejos upės.
+- susijęs iš Polonka: Polonka yra prie Dviejos upės, kuri nurodyta kaip Ušos intakas.
+- susijęs iš Polonka: Polonka, dabar vadinama Polonečka, yra kaimas apie 10 km į pietryčius nuo Cirino, prie Dviejos upės.
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Cirinas yra kaimas prie Servečio upės, 5 km į pietus nuo Ostašino.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     1 8  Ostašinas — BTSR kaimas (apie 20 km ( pietryčius nuo Nau­
@@ -60,11 +52,9 @@ Cirinas yra kaimas prie Servečio upės, 5 km į pietus nuo Ostašino. LDK kariu
     1 3 Cirinas — BTSR kaimas (prie Servečio upės, už 5 km ( pietus
     nuo Ostašino). LDK kariuom enė žygiavo i Klecką, palikdama Ciriną
     po dešinei.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
     - t-002
+    - t-001

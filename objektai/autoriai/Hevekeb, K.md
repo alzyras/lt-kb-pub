@@ -30,6 +30,9 @@ Hevekeb, K.
 - t-001
   global_id: t-54120
   teiginys: 'K. Hevekebas 1906 m. Berlyne parengė disertaciją „Die Schlacht bei Tannenberg“.'
+  susije_objektai: 'mentioned_place: Berlynas'
+  temporaliniai_duomenys: 'įvykio data: 1906 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

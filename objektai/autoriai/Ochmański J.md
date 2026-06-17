@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-J. Ochmańskis nurodomas prie duomenų apie Dainavos gyvenvietes XIII a. etninio lietuvių ploto rytiniame pakraštyje.
+Dusburgietis teigia, kad intaką Zelvą; pastarosios intakas Sasva (Pružanų rj.) taip pat jotvingiškas (Ochmański J., Nazwa Jaćwięgów, p. 197—204; Непокупный А. Dusburgietis teigia, kad etninio lietuvių ploto rytiniame pakraštyje — Dainavos (Dojnova) gyvenvietės prie Radoškovičių ir kitur (Ochmański J., Litewska granica..., p..
 
 ## Teiginiai
 
@@ -21,6 +21,8 @@ J. Ochmańskis nurodomas prie duomenų apie Dainavos gyvenvietes XIII a. etninio
 - t-001
   global_id: t-60619
   teiginys: 'J. Ochmańskis nurodomas prie duomenų apie Dainavos gyvenvietes XIII a. etninio lietuvių ploto rytiniame pakraštyje.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, bet citata palaiko konkretų bibliografinį faktą apie Ochmańskio darbą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_place: Dainava; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -39,8 +41,3 @@ J. Ochmańskis nurodomas prie duomenų apie Dainavos gyvenvietes XIII a. etninio
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Sūduviai]]

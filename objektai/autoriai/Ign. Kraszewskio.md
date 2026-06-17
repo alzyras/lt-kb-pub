@@ -22,6 +22,8 @@ Kraszewskio apysaka «Kunigas ».
 - t-001
   global_id: t-29338
   teiginys: 'Ign. Kraszewskio apysaka „Kunigas“ XIX a. tautinio atgimimo laikotarpiu lietuviams darė stiprų įspūdį.'
+  sudarymo_pagrindimas: 'Teiginys gramatiškas ir tiesiogiai remiasi citata apie apysakos poveikį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/tautinis atgimimas|tautinis atgimimas]]; mentioned_person: [[objektai/autoriai/L. Kondratowicziaus (Wl. Syrokomlės)|L. Kondratowicziaus (Wl. Syrokomlės)]]'
   pagrindžia:
     - c-001
 
@@ -39,8 +41,3 @@ Kraszewskio apysaka «Kunigas ».
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/tautinis atgimimas]]

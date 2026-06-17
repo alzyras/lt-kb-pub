@@ -18,7 +18,7 @@ amziai:
 
 ## Santrauka
 
-Teresboro stovykloje mokymai vyko lietuviškai, o komandos buvo duodamos lietuvių kalba. Teresboro stovykloje mokymai vyko lietuviškai, o komandos buvo duodamos lietuvių kalba. Teresboro stovykloje mokymai vyko lietuviškai.
+Teresboro stovykloje mokymai vyko lietuviškai. Komandos stovykloje buvo duodamos lietuvių kalba.
 
 ## Laikotarpis ir datos
 
@@ -46,6 +46,8 @@ Nenurodyta
 - t-001
   global_id: t-78718
   teiginys: 'Teresboro stovykloje mokymai vyko lietuviškai, o komandos buvo duodamos lietuvių kalba.'
+  sudarymo_pagrindimas: 'Teiginys sutrumpintas iki pagrindinio objekto fakto.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]'
   pagrindžia:
     - c-002
 
@@ -53,6 +55,7 @@ Nenurodyta
 - t-003
   global_id: t-78721
   teiginys: 'Teresboro stovykloje mokymai vyko lietuviškai.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]'
   pagrindžia:
     - c-001
 
@@ -90,10 +93,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/kunigas]]
-- [[objektai/asmenys/Antanas Mackevičius]]
-- [[objektai/paprociai/Kunigo A. Mackevičiaus religinės apeigos sukilėlių stovykloje]]

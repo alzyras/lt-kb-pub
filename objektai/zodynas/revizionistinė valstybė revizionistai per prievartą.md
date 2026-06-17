@@ -21,6 +21,8 @@ Tačiau Lietuva tik iš dalies tapo buferine valstybe, nes jos siekiai atgauti V
 - t-001
   global_id: t-22278
   teiginys: 'Siekis atgauti Vilnių Lietuvą vedė į revizionistinių valstybių draugiją ir net grėsė nepriklausomybės praradimu.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys ir remiasi citatos formuluote.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/posakiai/„revizionistais per prievartą“|„revizionistais per prievartą“]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -28,6 +30,8 @@ Tačiau Lietuva tik iš dalies tapo buferine valstybe, nes jos siekiai atgauti V
 - t-002
   global_id: t-22279
   teiginys: 'Lietuviai tapo „revizionistais per prievartą“.'
+  sudarymo_pagrindimas: 'Citata palaiko trumpą faktinę formuluotę, bet reikia pašalinti perteklinį „Žinoma, kad“.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/posakiai/„revizionistais per prievartą“|„revizionistais per prievartą“]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -49,10 +53,3 @@ Tačiau Lietuva tik iš dalies tapo buferine valstybe, nes jos siekiai atgauti V
   pagrindžia:
     - t-001
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/posakiai/„revizionistais per prievartą“]]
-- [[objektai/zodynas/buferinė valstybė saugumo kordonas cordon sanitaire]]

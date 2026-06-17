@@ -33,6 +33,11 @@ Nenurodyta
 - t-001
   global_id: t-185900
   teiginys: 'Augustas Ivanui aiškino, kad laisvų žmonių valstybėje valdovas įstatymų verčiamas skaitytis su kitų nuomone dėl karo.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas lietuviškas sakinys su aiškiu subjektu ir predikatu.'
+  susije_objektai: 'territory: Lenkija; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Lenkija'
   pagrindžia:
     - c-001
 
@@ -56,8 +61,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Augustas]]
-- [[objektai/zodynas/žygis]]

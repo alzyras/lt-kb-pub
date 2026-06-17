@@ -23,6 +23,8 @@ tags:
 - t-001
   global_id: t-32380
   teiginys: 'Salyno akte ordinui tenkančių žemių riba nuo Vaišvilčių kaimo buvo pratęsta Mūšos upe, Smardonės upeliu ir Apaščios ežeru.'
+  sudarymo_pagrindimas: 'Pirminiame teiginyje netiksliai ir per plačiai suformuluotas ribų kontekstas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Apaščia; mentioned_place: Kaimas; mentioned_place: Nevėžis; mentioned_place: Pskovas; mentioned_place: Salynas; mentioned_place: Smardonė; mentioned_place: Sūduva; mentioned_place: Vaišvilčiai'
   pagrindžia:
     - c-001
 

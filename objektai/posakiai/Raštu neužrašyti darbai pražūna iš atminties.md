@@ -3,8 +3,14 @@ tipas: posakis
 pavadinimas: 'Raštu neužrašyti darbai pražūna iš atminties'
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+datos:
+  - '1536 m.'
+date_start: '1536'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XVI'
 ---
 # Raštu neužrašyti darbai pražūna iš atminties
 
@@ -35,6 +41,7 @@ Raštas saugo veiksmus nuo užmaršties ir perduoda žinią ateinančioms kartom
 - t-001
   global_id: t-54781
   teiginys: 'Privilegijos vertime žmonių darbų neišnykimas iš atminties siejamas su jų įamžinimu raštais ir patikimų liudininkų parašais.'
+  susije_objektai: 'mentioned_place: Lenkija'
   pagrindžia:
     - c-002
 
@@ -42,6 +49,9 @@ Raštas saugo veiksmus nuo užmaršties ir perduoda žinią ateinančioms kartom
 - t-002
   global_id: t-54782
   teiginys: '1536 m. privilegijos įžangoje teigiama, kad raštu neužrašyti darbai lengvai pražūna žmonių atmintyje.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lenkija; mentioned_place: Vilija; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1536 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-003
 
@@ -49,6 +59,8 @@ Raštas saugo veiksmus nuo užmaršties ir perduoda žinią ateinančioms kartom
 - t-003
   global_id: t-54783
   teiginys: 'Privilegijos įžangoje teigiama, kad raštai įamžina valdovų valdymo metu nuveiktus darbus.'
+  sudarymo_pagrindimas: 'Manual fix after rewrite gate.'
+  susije_objektai: 'mentioned_place: Kijevas'
   pagrindžia:
     - c-001
 
@@ -120,10 +132,3 @@ Raštas saugo veiksmus nuo užmaršties ir perduoda žinią ateinančioms kartom
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lotynai]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/asmenys/Žygimantas]]

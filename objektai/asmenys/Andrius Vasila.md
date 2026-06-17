@@ -18,6 +18,11 @@ Vilniaus vyskupas Andrius Vasila šv. Stanislovo bažnyčioje iškilmingai pakė
 - t-001
   global_id: t-186095
   teiginys: 'Vilniaus vyskupas Andrius Vasila šv. Stanislovo bažnyčioje iškilmingai pakėlė Vytautą ir jo žmoną Oną į sostą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata palaiko aiškų faktą apie Andriaus Vasilos atliktą veiksmą.'
+  susije_objektai: 'mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

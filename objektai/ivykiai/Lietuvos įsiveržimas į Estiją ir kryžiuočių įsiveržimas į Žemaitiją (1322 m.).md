@@ -43,6 +43,11 @@ Nenurodyta
 - t-001
   global_id: t-28845
   teiginys: '1322 m. lietuviai įsiveržė į Estiją, o kryžiuočiai per lietuvių puolimą Livonijoje įsiveržė į Žemaitijos gilumą.'
+  sudarymo_pagrindimas: 'Pradinis teiginys apie ankstesnius puolimus, citata palaiko tikslesnį teiginį apie 1322 m. įvykį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Livonija; mentioned_place: Prūsai'
+  temporaliniai_duomenys: 'įvykio data: 1322 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys apie ankstesnius puolimus, citata palaiko tikslesnį teiginį apie 1322 m. įvykį.'
   pagrindžia:
     - c-001
 
@@ -60,8 +65,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lietuviai]]

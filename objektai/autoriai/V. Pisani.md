@@ -4,9 +4,10 @@ pavadinimas: 'V. Pisani'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
+  - '1948 m.'
   - '1965 m.'
-date_start: '1965'
-date_end: ''
+date_start: '1948'
+date_end: '1965'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -28,6 +29,9 @@ Pisani, V.: II paganesimo balto-slavo, Storia delle religioni, red. G.
 - t-001
   global_id: t-31042
   teiginys: 'V. Pisani parašė darbą „Il paganesimo balto-slavo“, paskelbtą leidinyje „Storia delle religioni“.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Saulė|Saulė]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1948-1958; įvykio data: 1958 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -50,7 +54,3 @@ Pisani, V.: II paganesimo balto-slavo, Storia delle religioni, red. G.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Saulė]]

@@ -10,6 +10,7 @@ tags:
   - ivykis
   - kraštas
   - miestas
+  - mokslininkas
 ---
 # Kryžiaus karai
 
@@ -39,9 +40,14 @@ Nenurodyta
 - t-001
   global_id: t-86953
   teiginys: 'XI a. Kryžiaus karai iš pradžių laikyti savotiškais žygiais, bet vėliau virto svarbiu Europos istorijos įvykiu.'
+  sudarymo_pagrindimas: 'Teiginys paremtas citata, bet reikia pašalinti OCR triukšmą ir sutrumpinti vertinamą formuluotę.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/Riterių luomas|Riterių luomas]]; mentioned_object: [[objektai/zodynas/feodalizmas|feodalizmas]]; mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_place: Europa'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176292|Algirdas (Lietuvos valdovas)]]: Valdant Ldk Algirdui 1345–1377 m. Lietuva tapo didvalstybe ir išplėtė teritoriją nuo Baltijos iki Juodosios jūros.
+- susijęs iš Lietuva: Kryžiaus karai prieš Lietuvą iš dalies paaiškina Lietuvos ekspansiją į mongolų nuteriotas Kijevo Rusios žemes ir jų pajungimą – taip buvo kaupiami ištekliai kovai Vakaruose.
+- susijęs iš Palestina: Europoje skelbiami kryžiaus karai prieš turkus Palestinoje skatino savanorius karius vykti į kovas su pagonimis.
+- susijęs iš [[objektai/zodynas/didvalstybė.md#claim-t-22119|didvalstybė]]: Valdant Ldk Algirdui 1345–1377 m., Lietuva tapo didvalstybe ir išplėtė teritoriją nuo Baltijos iki Juodosios jūros.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -71,13 +77,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Kryžius]]
-- [[objektai/zodynas/Riterių luomas]]
-- [[objektai/zodynas/feodalizmas]]
-- [[objektai/zodynas/luomas]]
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/zodynas/didvalstybė]]
-- [[objektai/ivykiai/Kryžiuočių ordino nukariavimai Prūsuose]]

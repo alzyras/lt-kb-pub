@@ -21,6 +21,8 @@ tags:
 - t-001
   global_id: t-86089
   teiginys: 'Prie Mogiliavo pilies buvusios dvaro žemės buvo skirtos karalienei Elenai valdyti iki gyvos galvos.'
+  sudarymo_pagrindimas: 'Teiginys išlaiko citatos faktą apie žemes prie Mogiliavo pilies.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_object: [[objektai/posakiai/Iki gyvos galvos|Iki gyvos galvos]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Mogiliavas'
   pagrindžia:
     - c-001
 

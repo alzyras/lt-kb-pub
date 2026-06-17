@@ -2,6 +2,7 @@
 tipas: vieta
 pavadinimas: 'Vilniaus Aukštutinė pilis (sujungti pirminiai pavadinimai Vilniaus Aukštutinė pilis; Aukštutinė pilis)'
 saltiniai:
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1387 m.'
@@ -23,7 +24,7 @@ amziai:
 
 ## Santrauka
 
-Jogailos laikų Vilniaus miesto plane Aukštutinė pilis nurodyta ant Tauro kalno. Pagal Lizdeikos sapno aiškinimą Gediminas ant Tauro kalno pastatydino Aukštutinę mūro pilį. Dmitrijus Kaributas su žmona ir vaikais buvo uždarytas Vilniaus Aukštutinėje pilyje ir ilgai saugomas sargybos.
+Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėjus, ant Tauro kalno pastatydinti Aukštutinę mūro pilį, o kitą - kalno papėdėje, slėnyje, - medinę, kurią pavadi­ no Vilniumi pagal Vilnios upės vardą. Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su lenkų įgula17 tuomet valdydavo ir kitus gyventojus, bet ir 16 Skirgaila ne anksčiau kaip 1388 me­ tais tapo didžiuoju kunigaikščiu, nes 1387 metais visuose dokumentuose visur vadinamas Skargalo Dux. Aukštutinė pilis, aukštų mūrų bei bokštų saugoma, ir Žemutinė, apačioje besidriekianti, kur buvo kunigaikščių menės, vadinta Kreivąja.
 
 ## Teiginiai
 
@@ -31,6 +32,8 @@ Jogailos laikų Vilniaus miesto plane Aukštutinė pilis nurodyta ant Tauro kaln
 - t-001
   global_id: t-85844
   teiginys: 'Jogailos laikų Vilniaus miesto plane Aukštutinė pilis nurodyta ant Tauro kalno.'
+  sudarymo_pagrindimas: 'Citata pateikia plano punktą apie Aukštutinę pilį.'
+  susije_objektai: 'mentioned_place: Aukštutinė pilis; mentioned_place: Vilnius'
   pagrindžia:
     - c-004
 
@@ -38,6 +41,8 @@ Jogailos laikų Vilniaus miesto plane Aukštutinė pilis nurodyta ant Tauro kaln
 - t-002
   global_id: t-85845
   teiginys: 'Pagal Lizdeikos sapno aiškinimą Gediminas ant Tauro kalno pastatydino Aukštutinę mūro pilį.'
+  sudarymo_pagrindimas: 'Patikslintas sapno aiškinimo subjektas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Lizdeika|Lizdeika]]; mentioned_place: Aukštutinė pilis; mentioned_place: Luckas; mentioned_place: Vengrija; mentioned_place: Vilniaus Aukštutinė pilis; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -45,6 +50,8 @@ Jogailos laikų Vilniaus miesto plane Aukštutinė pilis nurodyta ant Tauro kaln
 - t-003
   global_id: t-85846
   teiginys: 'Dmitrijus Kaributas su žmona ir vaikais buvo uždarytas Vilniaus Aukštutinėje pilyje ir ilgai saugomas sargybos.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/duoklė|duoklė]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Dmitrijus|Dmitrijus]]; mentioned_person: [[objektai/asmenys/Dmitrijus Kaributas|Dmitrijus Kaributas]]; mentioned_person: [[objektai/asmenys/Kaributas|Kaributas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Naugardas; mentioned_place: Podolė; mentioned_place: Riazanė; mentioned_place: Severskas; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -52,6 +59,8 @@ Jogailos laikų Vilniaus miesto plane Aukštutinė pilis nurodyta ant Tauro kaln
 - t-004
   global_id: t-85847
   teiginys: 'Aukštutinę pilį saugojo aukšti mūrai ir bokštai, o apačioje driekėsi Žemutinė pilis, vadinta Kreivąja.'
+  sudarymo_pagrindimas: 'Pradinis sakinys gramatiškai painus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Statinės|Statinės]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Bokštai'
   pagrindžia:
     - c-006
 
@@ -59,6 +68,8 @@ Jogailos laikų Vilniaus miesto plane Aukštutinė pilis nurodyta ant Tauro kaln
 - t-005
   global_id: t-85848
   teiginys: 'Aukštutinėje tvirtovėje užsidarė lenkai, kuriems vadovavo Karūnos pakancleris Mikalojus Moskoževskis.'
+  sudarymo_pagrindimas: 'Citata remia faktą, pašalintas nutrūkęs išnašos fragmentas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_object: [[objektai/daiktai/Statinės|Statinės]]; mentioned_object: [[objektai/zodynas/pakancleris|pakancleris]]; mentioned_person: [[objektai/asmenys/Mikalojus Moskoževskis|Mikalojus Moskoževskis]]; mentioned_place: Smolenskas'
   pagrindžia:
     - c-003
 
@@ -66,6 +77,8 @@ Jogailos laikų Vilniaus miesto plane Aukštutinė pilis nurodyta ant Tauro kaln
 - t-006
   global_id: t-85849
   teiginys: 'Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su lenkų įgula valdė ir kitus gyventojus.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
+  susije_objektai: 'territory: Kaunas; territory: Lietuva; territory: Polockas; territory: Vilnius; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Polockas; mentioned_place: Vilnius'
   pagrindžia:
     - c-007
 
@@ -73,6 +86,8 @@ Jogailos laikų Vilniaus miesto plane Aukštutinė pilis nurodyta ant Tauro kaln
 - t-007
   global_id: t-85850
   teiginys: 'Kalno, ant kurio stovėjo Aukštutinė pilis, griūtis užslinko ant Manvydo rūmo ir pridarė daug nuostolių.'
+  sudarymo_pagrindimas: 'Perrašyta aiškiau, išsaugant citatos faktus.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Pataurininkis|Pataurininkis]]; mentioned_person: [[objektai/asmenys/Manvydas|Manvydas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]'
   pagrindžia:
     - c-005
 

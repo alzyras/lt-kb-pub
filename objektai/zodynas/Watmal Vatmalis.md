@@ -20,6 +20,8 @@ Dusburgietis teigia, kad jis buvo pramintas Vatmaliu nuo vilnonių drabužių, v
 - t-001
   global_id: t-58930
   teiginys: 'Hartmanas iš Grumbacho buvo pramintas Vatmaliu dėl vilnonių drabužių, vadintų Watmal, kuriuos įsakė išduoti broliams.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai paaiškina pravardės kilmę pagal citatą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Hartmanas|Hartmanas]]; mentioned_person: [[objektai/asmenys/Hartmanas iš Grumbacho|Hartmanas iš Grumbacho]]; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
 
@@ -40,12 +42,3 @@ Dusburgietis teigia, kad jis buvo pramintas Vatmaliu nuo vilnonių drabužių, v
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/drabužis]]
-
-### Susiję objektai
-- [[objektai/asmenys/Hartmanas]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/asmenys/Hartmanas iš Grumbacho]]

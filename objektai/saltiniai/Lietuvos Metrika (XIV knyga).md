@@ -28,6 +28,11 @@ amziai:
 - t-001
   global_id: t-88444
   teiginys: '1529 m. Lietuvos Metrikos XIV knyga liudijo, kad Vilnius mokėjo 1500 kapų grašių krikščionių mokesčio.'
+  sudarymo_pagrindimas: 'Pašalintas fragmentiškumas ir patikslinta, kad kalbama apie krikščionių mokestį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Gardinas; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1529 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas fragmentiškumas ir patikslinta, kad kalbama apie krikščionių mokestį.'
   pagrindžia:
     - c-001
 

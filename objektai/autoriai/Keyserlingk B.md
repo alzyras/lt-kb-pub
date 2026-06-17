@@ -30,6 +30,8 @@ Dusburgietis teigia, kad 33—73; Springborn M, Herkus Monte.— Berlin, 1897; t
 - t-001
   global_id: t-91951
   teiginys: 'B. Keyserlingkas parašė kūrinius „Monte der Rebell“ ir „Sukilėlis Montė“ apie Herkų Mantą.'
+  sudarymo_pagrindimas: 'Citata palaiko bibliografinį faktą apie Keyserlingko kūrinius, bet pradinį tekstą reikia sutvarkyti.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Herkus Mantas|Herkus Mantas]]; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
 

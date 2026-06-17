@@ -21,6 +21,8 @@ Atsitraukimą dengti savanoriškai stojo Liolių būrys, vadovaujamas Liudo Jank
 - t-001
   global_id: t-80656
   teiginys: 'Atsitraukimą dengti savanoriškai stojo Liolių būrys, vadovaujamas Liudo Jankausko.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatinis ir tiesiogiai pagrįstas citata.'
+  susije_objektai: 'mentioned_place: Viena'
   pagrindžia:
     - c-001
 

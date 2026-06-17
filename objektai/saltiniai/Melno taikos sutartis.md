@@ -4,9 +4,10 @@ pavadinimas: 'Melno taikos sutartis'
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
+  - '1420 m.'
   - '1422 m.'
-date_start: '1422'
-date_end: ''
+date_start: '1420'
+date_end: '1422'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -29,6 +30,11 @@ Vilniaus miesto reikšmė jau anais laikais buvo tokia didelė, kad lygia greta 
 - t-001
   global_id: t-88263
   teiginys: '1422 m. Vilniui leista drauge su svarbiausiais karalystės miestais laiduoti prie Osos upės sudarytos sutarties su kryžiuočiais patikimumą.'
+  sudarymo_pagrindimas: 'Pašalintas vertinamasis perteklius ir paliktas citatos palaikomas faktas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva; mentioned_place: Praha; mentioned_place: Valakija; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1420 m.; įvykio data: 1422 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas vertinamasis perteklius ir paliktas citatos palaikomas faktas.'
   pagrindžia:
     - c-001
 

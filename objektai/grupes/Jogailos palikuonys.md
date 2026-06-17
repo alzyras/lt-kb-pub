@@ -15,19 +15,21 @@ tags:
 
 ## Santrauka
 
-Jogailos palikuonys manė, kad Lietuva jiems turinti tekti paveldėtinai, todėl susitarime numatyta elekcija nepaisė jų teisių.
+Nors lietuviai jau nuo Švitrigailos laikų rinkosi sau kunigaikščius, tačiau Jogailos palikuonys manė, kad bent Lietuva jiems turinti tekti paveldėtinai; o tuo susitarimu buvo norima įvesti elekciją, taigi visai nebuvo atsižvelgiama į jų tei- ses. Jogailos palikuonys: tiesa, nuo Kazimiero laikų lenkai ėmė rinktis sau karaliais visada tuos pačius asmenis, kuriuos išsirinkdavo Lietuva sau didžiaisiais kunigaikščiais. Tuo būdu išliko personalinės valstybių unijos ryšys: abi valstybės buvo vieno valdovo valdomos. Bet kadangi, pradedant Kazimieru, Lietuvos valdovais visada būdavo išrenkami Jogailos palikuonys, tai Kazimiero šeima jautėsi turinti sosto paveldėjamųjų teisių.
 
 ## Teiginiai
+
 <a id="claim-t-72087"></a>
 - t-001
   global_id: t-72087
   teiginys: 'Jogailos palikuonys manė, kad Lietuva jiems turinti tekti paveldėtinai, todėl susitarime numatyta elekcija nepaisė jų teisių.'
+  sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir turi perteklinį kontekstą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Jogailos palikuonys manė, kad Lietuva jiems turinti tekti paveldėtinai, todėl susitarime numatyta elekcija nepaisė jų teisių.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -42,18 +44,8 @@ Jogailos palikuonys manė, kad Lietuva jiems turinti tekti paveldėtinai, todėl
     ses. Tuo būdu šis susitarimas pasiliko tik popieriuje: Lietuva
     ir Lenkija, kaip ir anksčiau, liko atskiros valstybės, tik vieno
     valdovo valdomos (personalinė unija).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
-- [[objektai/zodynas/unija]]
-- [[objektai/grupes/Čekai]]
-- [[objektai/asmenys/Švitrigaila]]

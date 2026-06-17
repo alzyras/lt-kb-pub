@@ -33,6 +33,11 @@ Nenurodyta
 - t-001
   global_id: t-185907
   teiginys: 'Žemaičiai, nepratę prie svetimųjų valdymo, iš pasalų žudė kryžiuočių dvarų ir kaimų užvaizdas, o kaltininkų niekas neišdavė.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pašalintas Kojelavičiaus boilerplate ir OCR triukšmas; faktas aiškiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Durklas|Durklas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]'
   pagrindžia:
     - c-001
 
@@ -57,9 +62,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Durklas]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/grupes/Kryžiuočių ordinas]]

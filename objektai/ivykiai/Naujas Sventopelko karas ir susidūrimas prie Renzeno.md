@@ -39,6 +39,8 @@ Nenurodyta
 - t-001
   global_id: t-59381
   teiginys: 'Per susidūrimą prūsai nužudė naująjį maršalą Berleviną, visus brolius ir 400 vyrų, išskyrus 10 pabėgusiųjų.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir turi neaiškių įvardžių.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_place: Kulmas; mentioned_place: Prūsai; mentioned_place: Torunė; mentioned_place: Viena'
   pagrindžia:
     - c-002
 
@@ -86,12 +88,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Krikščionys]]
-- [[objektai/zodynas/ginklanešiai]]
-- [[objektai/zodynas/maršalas]]
-- [[objektai/zodynas/naujakrikščiai]]
-- [[objektai/zodynas/netikėliai]]
-- [[objektai/asmenys/Sventopelkas]]

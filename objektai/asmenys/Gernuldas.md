@@ -30,6 +30,8 @@ Dusburgietis teigia, kad šitai padaryta apie 1226 (1230) viešpaties metus173, 
 - t-001
   global_id: t-60290
   teiginys: 'Apie 1226 (1230) m. abatas Gernuldas dalyvavo kaip Kulmo ir Lubavos žemių dovanojimo rašto liudytojas.'
+  sudarymo_pagrindimas: 'Citata mini Gernuldą kaip liudytoją, bet pradinis teiginys yra fragmentiškas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Agota|Agota]]; mentioned_person: [[objektai/asmenys/Grigalius (vicekancleris)|Grigalius (vicekancleris)]]; mentioned_place: Kujavija; mentioned_place: Kulmas; mentioned_place: Lubava; mentioned_place: Mazovija; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
 
@@ -57,16 +59,3 @@ Dusburgietis teigia, kad šitai padaryta apie 1226 (1230) viešpaties metus173, 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Agota|Agota (kunigaikščio žmona, XIII a.)]]
-- [[objektai/asmenys/Grigalius (vicekancleris)]]
-- [[objektai/grupes/Teutonai]]
-- [[objektai/asmenys/Boguslavas (jaunesnysis Dirsovijos grafas)]]
-- [[objektai/asmenys/Boguslavas (vyresnysis Dirsovijos grafas)]]
-- [[objektai/asmenys/Giunteris (Mazovijos vyskupas)]]
-- [[objektai/asmenys/Jonas (kancleris)]]
-- [[objektai/ivykiai/Kulmo ir Lubavos žemių dovanojimas Teutonų namų ordino broliams]]
-- [[objektai/asmenys/Mykolas (Kujavijos vyskupas)]]
-- [[objektai/asmenys/Vilhelmas (dekanas)]]

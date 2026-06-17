@@ -3,10 +3,15 @@ tipas: asmuo
 pavadinimas: 'Ziemovitas III'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+datos: []
+date_start: ''
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+amziai: []
+periodo_grupes: []
 ---
 # Ziemovitas III
 
@@ -20,6 +25,11 @@ O Ziemovito viltys laimėti Jadvygos ranką 1383 m. pavasarį buvo padidėjusios
 - t-001
   global_id: t-30474
   teiginys: 'Jogaila geruoju susitarė su Mozūrijos Ziemovitu III po to, kai mažlenkių ponai jėga išvarė Vilhelmą.'
+  sudarymo_pagrindimas: 'Teiginys palaikomas, bet reikia aiškiau įvardyti Ziemovitą ir sakinio ryšį.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Mažlenkiai; mentioned_place: Mozūrija'
+  temporaliniai_duomenys: 'sutarties data: 1385-1986; sutarties data: 1986 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys palaikomas, bet reikia aiškiau įvardyti Ziemovitą ir sakinio ryšį.'
   pagrindžia:
     - c-001
 
@@ -27,6 +37,11 @@ O Ziemovito viltys laimėti Jadvygos ranką 1383 m. pavasarį buvo padidėjusios
 - t-002
   global_id: t-30475
   teiginys: '1383 m. pavasarį Ziemovitas III planavo prievarta pagrobti Jadvygą, nors tam priešinosi Krokuvos ponai.'
+  sudarymo_pagrindimas: 'Teiginys palaikomas, bet reikia glaustesnio ir aiškaus sakinio apie Ziemovitą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_person: [[objektai/asmenys/Ziemovitas|Ziemovitas]]; mentioned_place: Krokuva'
+  temporaliniai_duomenys: 'įvykio data: 1383 m.; įvykio data: 1384 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys palaikomas, bet reikia glaustesnio ir aiškaus sakinio apie Ziemovitą.'
   pagrindžia:
     - c-002
 
@@ -63,8 +78,3 @@ O Ziemovito viltys laimėti Jadvygos ranką 1383 m. pavasarį buvo padidėjusios
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Karūna]]
-- [[objektai/zodynas/ponai]]

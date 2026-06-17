@@ -18,6 +18,11 @@ Liudviko Libencelės kariai tais pačiais metais nukovė dvidešimt penkis Aukai
 - t-001
   global_id: t-186145
   teiginys: 'Liudviko Libencelės kariai tais pačiais metais nukovė dvidešimt penkis Aukaimio įgulos vyrus, neatsargiai įžengusius į priešo žemę.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Perrašyta į sklandesnį pilną sakinį, išlaikant citatos faktus.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_person: [[objektai/asmenys/Jazbutas|Jazbutas]]; mentioned_place: Aukaimis; mentioned_place: Baiga; mentioned_place: Lenkija; mentioned_place: Narevas'
   pagrindžia:
     - c-001
 
@@ -25,6 +30,11 @@ Liudviko Libencelės kariai tais pačiais metais nukovė dvidešimt penkis Aukai
 - t-002
   global_id: t-186146
   teiginys: 'Liudvikas Libencelė užėmė Lietuvoje Kimelio pilį ir sumušė su juo kovoti stojusius gardiniečius.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata palaiko glaustą faktą apie Liudviko Libencelės veiksmus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_place: Kimelis; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -75,9 +85,3 @@ Liudviko Libencelės kariai tais pačiais metais nukovė dvidešimt penkis Aukai
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Laivai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/įgula]]

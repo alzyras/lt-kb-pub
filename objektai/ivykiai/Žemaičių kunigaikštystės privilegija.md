@@ -30,42 +30,28 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 <a id="claim-t-01901"></a>
 - t-001
   global_id: t-01901
   teiginys: 'Po Zigmanto mirties kilusių kovų metu žemaičiai iš Kazimiero išgavo privilegiją, laidavusią jų teises ir savitą vidaus tvarkymąsi.'
+  sudarymo_pagrindimas: 'Sutrumpinta ir pašalintas šaltinio fragmentiškumas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]'
   pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+    - c-002
+
 <a id="claim-t-01902"></a>
 - t-002
   global_id: t-01902
   teiginys: 'Žemaičių kunigaikštystės privilegija patvirtino Vytauto laikų žemaičių teises ir garantavo, kad krašto seniūną jie rinksis patys.'
+  sudarymo_pagrindimas: 'Teiginys paremtas citata, bet suformuluotas aiškiau apie privilegiją.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]'
   pagrindžia:
-    - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-
+    - c-001
+- susijęs iš [[objektai/asmenys/Kazimieras Jogailaitis.md#claim-t-82505|Kazimieras Jogailaitis]]: Kazimiero karaliavimas Lenkijoje ir jo santykiai su.
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Po Zigmanto mirties kilusių kovų metu žemaičiai iš Kazimiero išgavo privilegiją, laidavusią jų teises ir savitą vidaus tvarkymąsi.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    **2. Žemaičių kunigaikštystės privilegija**
-    Nesutikimai, kilę po Zigmanto mirties, teturėjo tam tikrų
-    padarinių tik Žemaičiams: konkurentų kovų metu jie išgavo
-    iš Kazimiero privilegiją, kuri apdraudė visas jų teises ir visiems
-    laikams laidavo jiems savotišką vidaus tvarkymąsi.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Žemaičių kunigaikštystės privilegija patvirtino Vytauto laikų žemaičių teises ir garantavo, kad krašto seniūną jie rinksis patys.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Ta privilegija patvirtino visas Vytauto laikais jų tu-
@@ -76,20 +62,22 @@ Nenurodyta
     buvo tam tikra našta gyventojams). Pagaliau jiems buvo leista
     laisvai medžioti ir žūklauti ten pat, kur ir anksčiau medžiodavo
     ir žūklaudavo.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002
 
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
-- [[objektai/zodynas/didysis kunigaikštis]]
-- [[objektai/zodynas/Miera|miera]]
-- [[objektai/zodynas/seniūnas]]
-- [[objektai/asmenys/Kazimieras Jogailaitis]]
-- [[objektai/grupes/Žemaičiai]]
-- [[objektai/paprociai/Žemaičių savivalda ir seniūno rinkimasis]]
+- c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    **2. Žemaičių kunigaikštystės privilegija**
+    Nesutikimai, kilę po Zigmanto mirties, teturėjo tam tikrų
+    padarinių tik Žemaičiams: konkurentų kovų metu jie išgavo
+    iš Kazimiero privilegiją, kuri apdraudė visas jų teises ir visiems
+    laikams laidavo jiems savotišką vidaus tvarkymąsi.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001

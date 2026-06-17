@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Viešas lietuvių kalbos vartojimas ir lietuviškų pamaldų reikalavimai bažnyčiose kėlė lenkiškai kalbančiųjų opoziciją. Būsimų tautininkų grupuotė apie Antano Smetonos redaguojamą „Viltį“ kartu su krikščionimis demokratais kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose. Viešas kalbėjimas lietuviškai ir lietuviškų pamaldų reikalavimai bažnyčiose kėlė lenkiškai kalbančiųjų opoziciją.
+Lietuvių tautinis atgimimas, laikęs savo priešu caro režimą, netrukus atrado dar vieną – lenkų polonizatorius. Daugiausia dėmesio jie skyrė katalikišką doktriną atitinkančiai lietuvių kultūrinei ir visuomeninei veiklai.
 
 ## Laikotarpis ir datos
 
@@ -43,6 +43,7 @@ Nenurodyta
 - t-001
   global_id: t-75368
   teiginys: 'Viešas lietuvių kalbos vartojimas ir lietuviškų pamaldų reikalavimai bažnyčiose kėlė lenkiškai kalbančiųjų opoziciją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Kiška|Kiška]]; mentioned_place: Kaimas; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -50,6 +51,8 @@ Nenurodyta
 - t-002
   global_id: t-75369
   teiginys: 'Būsimų tautininkų grupuotė apie Antano Smetonos redaguojamą „Viltį“ kartu su krikščionimis demokratais kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose.'
+  sudarymo_pagrindimas: 'Citata remia tikslesnį teiginį su aiškiai įvardytais veikėjais.'
+  susije_objektai: 'counterparty: [[objektai/grupes/Krikščionys|Krikščionys]]; counterparty: [[objektai/grupes/Lenkai|Lenkai]]; counterparty: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -57,6 +60,7 @@ Nenurodyta
 - t-003
   global_id: t-75370
   teiginys: 'Viešas kalbėjimas lietuviškai ir lietuviškų pamaldų reikalavimai bažnyčiose kėlė lenkiškai kalbančiųjų opoziciją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Kiška|Kiška]]; mentioned_place: Kaimas; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -64,6 +68,8 @@ Nenurodyta
 - t-004
   global_id: t-75371
   teiginys: 'Krikščionys demokratai ir būsimi tautininkai kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiksliai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -105,11 +111,3 @@ Nenurodyta
   pagrindžia:
     - t-004
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Kiška]]
-- [[objektai/grupes/Krikščionys]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Antanas (vaistininkas)]]

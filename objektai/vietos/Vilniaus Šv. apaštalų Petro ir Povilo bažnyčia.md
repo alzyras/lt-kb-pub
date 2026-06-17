@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Vilniaus Šv. apaštalų Petro ir Povilo bažnyčios XVII a. antros pusės interjeras laikomas vienu didingiausių ir puošniausių LDK baroko interjerų. Vilniaus Šv. apaštalų Petro ir Povilo bažnyčia priskiriama europinės reikšmės kūriniams. Vilniaus Šv. apaštalų Petro ir Povilo bažnyčios XVII a. antros pusės interjeras laikomas vienu didingiausių ir puošniausių LDK baroko interjerų.
+Vienas didingiausių ir puošniausių LDK baroko interjerų – Vilniaus Šv. Sukurti europinės reikšmės kūriniai: Vilniaus katedros Šv.
 
 ## Teiginiai
 
@@ -20,6 +20,8 @@ Vilniaus Šv. apaštalų Petro ir Povilo bažnyčios XVII a. antros pusės inter
 - t-001
   global_id: t-71981
   teiginys: 'Vilniaus Šv. apaštalų Petro ir Povilo bažnyčios XVII a. antros pusės interjeras laikomas vienu didingiausių ir puošniausių LDK baroko interjerų.'
+  sudarymo_pagrindimas: 'Citata leidžia pridėti datavimą ir suformuoti pilnesnį enciklopedinį sakinį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/barokas|barokas]]; mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -27,6 +29,8 @@ Vilniaus Šv. apaštalų Petro ir Povilo bažnyčios XVII a. antros pusės inter
 - t-002
   global_id: t-71982
   teiginys: 'Vilniaus Šv. apaštalų Petro ir Povilo bažnyčia priskiriama europinės reikšmės kūriniams.'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo nutrūkęs, o citata leidžia suformuluoti aiškų faktą apie bažnyčią.'
+  susije_objektai: 'mentioned_place: Kaunas; mentioned_place: Pažaislio vienuolyno ansamblis; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 

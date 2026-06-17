@@ -23,6 +23,8 @@ Dusburgietis teigia, kad stiprindamas jų kilnias širdis, jis guodė juos šiai
 - t-001
   global_id: t-60996
   teiginys: 'Pakartoto Įstatymo knygoje kerštas priskiriamas Viešpačiui, sakant: „Mano yra kerštas, ir aš atlyginsiu“.'
+  sudarymo_pagrindimas: 'Citata tiesiogiai pateikia Pakartoto Įstatymo knygai priskirtą teiginį.'
+  susije_objektai: 'mentioned_place: Višogrudas'
   pagrindžia:
     - c-001
 
@@ -30,6 +32,8 @@ Dusburgietis teigia, kad stiprindamas jų kilnias širdis, jis guodė juos šiai
 - t-002
   global_id: t-60997
   teiginys: 'Pakartoto Įstatymo knygos žodžiais buvo guodžiami į karą einantys žmonės, raginant nebijoti gausesnės priešų kariuomenės.'
+  sudarymo_pagrindimas: 'Citata remia sakinį apie Pakartoto Įstatymo knygos žodžių turinį ir vartojimą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vežimai|Vežimai]]'
   pagrindžia:
     - c-002
 

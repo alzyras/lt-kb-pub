@@ -28,6 +28,11 @@ Narsiojo Kasparo Bekešo atminimas Vilniuje 1580 metais buvo pagerbtas prie jo k
 - t-001
   global_id: t-86073
   teiginys: '1580 m. prie Kasparo Bekešo kapo ant kalno prie Vilnelės buvo pastatytas apvalaus bokšto pavidalo paminklas.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nurodo datą, vietą, veiksmą ir paminklo formą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija|Vilniaus vyskupijos klierikų kolegija]]; mentioned_object: [[objektai/zodynas/fundacija|fundacija]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Astikas|Astikas]]; mentioned_person: [[objektai/asmenys/Jurgis Astikas|Jurgis Astikas]]; mentioned_place: Vilnelė; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'pastatymo data: 1580 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo datą, vietą, veiksmą ir paminklo formą.'
   pagrindžia:
     - c-002
 
@@ -35,6 +40,9 @@ Narsiojo Kasparo Bekešo atminimas Vilniuje 1580 metais buvo pagerbtas prie jo k
 - t-002
   global_id: t-86074
   teiginys: 'Kasparas Bekešas buvo palaidotas ant kalno už Vilniaus miesto, po apvaliu bokštu.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas citatoje pateiktu Sulikovskio pasakojimu.'
+  susije_objektai: 'location: Kalnas prie Vilnelės; mentioned_person: [[objektai/asmenys/Kasparas Bekešas|Kasparas Bekešas]]; mentioned_person: [[objektai/autoriai/Sulikovskis|Sulikovskis]]; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Kasparas Bekešas|Kasparas Bekešas]] mirė Kalnas prie Vilnelės'
   pagrindžia:
     - c-001
 
@@ -90,3 +98,6 @@ Narsiojo Kasparo Bekešo atminimas Vilniuje 1580 metais buvo pagerbtas prie jo k
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+- [[objektai/asmenys/Kasparas Bekešas]] mire Kalnas prie Vilnelės

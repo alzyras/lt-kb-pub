@@ -10,6 +10,7 @@ tags:
   - karalius
   - kunigaikštis
   - miestas
+  - valstybė
 ---
 # Mendli Girėjus
 
@@ -23,6 +24,8 @@ tags:
 - t-001
   global_id: t-87443
   teiginys: 'Aleksandras siekė suimti ir įbauginti Mendli Girėjų, todėl Šach Achmedas buvo iki gyvos galvos įkalintas Kaune.'
+  sudarymo_pagrindimas: 'Citata palaiko politinį tikslą Mendli Girėjaus atžvilgiu ir Šach Achmedo įkalinimą.'
+  susije_objektai: 'mentioned_object: [[objektai/posakiai/Iki gyvos galvos|Iki gyvos galvos]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Šach Achmedas|Šach Achmedas]]; mentioned_place: Kaunas; mentioned_place: Krymas; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -30,9 +33,11 @@ tags:
 - t-002
   global_id: t-87445
   teiginys: 'Mendli Girėjus sumušė sąjungininko apleistą Šach Achmedą.'
+  sudarymo_pagrindimas: 'Citata palaiko trumpą faktą apie Mendli Girėjaus veiksmą, o likusi įvestis yra nesusijęs puslapio triukšmas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
-
+- susijęs iš Taurija: Taurijos chanas Mendli Girėjus veikė prieš Aleksandrą ir nukreipė jo dėmesį į save.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -99,12 +104,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]
-- [[objektai/posakiai/Iki gyvos galvos]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/asmenys/Šach Achmedas]]

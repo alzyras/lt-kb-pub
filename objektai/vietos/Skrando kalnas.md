@@ -21,6 +21,8 @@ Dusburgietis teigia, kad apie Partigalos pilies ir Skrando kuoro pastatymą Varm
 - t-001
   global_id: t-58640
   teiginys: 'Gubučiai Skrando kalne pastatė įtvirtintą kuorą ir sustiprino jį kariais.'
+  sudarymo_pagrindimas: 'Citata pagrindžia aiškų faktą apie Skrando kalne pastatytą įtvirtinimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Gubučiai|Gubučiai]]; mentioned_place: Baiga; mentioned_place: Partigala; mentioned_place: Varmė'
   pagrindžia:
     - c-002
 
@@ -28,6 +30,7 @@ Dusburgietis teigia, kad apie Partigalos pilies ir Skrando kuoro pastatymą Varm
 - t-002
   global_id: t-58641
   teiginys: 'Skrando kalnas vėliau sietas su Srangenbergo piliakalniu į pietvakarius nuo Parteinių.'
+  sudarymo_pagrindimas: 'Citata leidžia suformuluoti vietos tapatinimą be OCR ir santrumpų triukšmo.'
   pagrindžia:
     - c-001
 

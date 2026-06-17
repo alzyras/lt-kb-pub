@@ -21,6 +21,8 @@ Ilgai ne­ begalėjo laikytis įprastiniai Vakaruose ordino skleidžiami gandai 
 - t-001
   global_id: t-31643
   teiginys: 'CEV 53 numeris nurodytas 18 puslapyje.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas lietuviškas sakinys ir tiesiogiai remiasi nuoroda į CEV 18 p. nr. 53.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/autoriai/K. Heinl|K. Heinl]]; mentioned_person: [[objektai/autoriai/L. Kolankowski|L. Kolankowski]]'
   pagrindžia:
     - c-001
 

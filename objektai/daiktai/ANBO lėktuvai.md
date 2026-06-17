@@ -5,6 +5,7 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1934 m.'
+  - '1935 m.'
   - '1939 m.'
 date_start: '1934'
 date_end: '1939'
@@ -19,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-ANBO šaltinyje aiškinamas kaip lėktuvų projektavimo ir gamybos Kaune ženklas. Antanas Gustaitis sukonstravo ANBO seriją, o Kauno karo aviacijos dirbtuvėse pastatyti 66 tokie lėktuvai. ANBO VIII buvo Antano Gustaičio sukonstruotas ir Kauno aviacijos dirbtuvėse 1939 m. pagamintas lengvasis bombonešis.
+ANBO lėktuvai siejami su Lietuvos Respublikos aviacijos pasiekimais, lėktuvų projektavimu ir gamyba Kaune. Antanas Gustaitis sukonstravo ANBO seriją; Kauno karo aviacijos dirbtuvėse pastatyti 66 tokie lėktuvai, o ANBO VIII įvardytas kaip lengvasis bombonešis.
 
 ## Pavadinimai šaltiniuose
 
@@ -57,6 +58,9 @@ Nenurodyta
 - t-001
   global_id: t-13449
   teiginys: 'ANBO šaltinyje aiškinamas kaip lėktuvų projektavimo ir gamybos Kaune ženklas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/daiktai/Lėktuvai|Lėktuvai]]; mentioned_place: Europa; mentioned_place: Kaunas; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1939 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -64,6 +68,11 @@ Nenurodyta
 - t-002
   global_id: t-13450
   teiginys: 'Antanas Gustaitis sukonstravo ANBO seriją, o Kauno karo aviacijos dirbtuvėse pastatyti 66 tokie lėktuvai.'
+  sudarymo_pagrindimas: 'Sakinys pilnas, gramatiškas ir tiksliai perteikia citatos informaciją.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Lėktuvai|Lėktuvai]]; mentioned_object: [[objektai/posakiai/„Antanas nori būti ore“|„Antanas nori būti ore“]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_person: [[objektai/asmenys/Antanas Gustaitis|Antanas Gustaitis]]; mentioned_place: Kaunas; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'pastatymo data: po 1934 m.; pastatymo data: 1934 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip pastatymo data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Sakinys pilnas, gramatiškas ir tiksliai perteikia citatos informaciją.'
   pagrindžia:
     - c-003
 
@@ -71,6 +80,11 @@ Nenurodyta
 - t-003
   global_id: t-13451
   teiginys: 'ANBO VIII buvo Antano Gustaičio sukonstruotas ir Kauno aviacijos dirbtuvėse 1939 m. pagamintas lengvasis bombonešis.'
+  sudarymo_pagrindimas: 'Sakinys aiškiai apibūdina ANBO VIII ir yra paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_place: Afrika; mentioned_place: Kaunas; mentioned_place: Venesuela'
+  temporaliniai_duomenys: 'įvykio data: 1939 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Sakinys aiškiai apibūdina ANBO VIII ir yra paremtas citata.'
   pagrindžia:
     - c-002
 
@@ -78,6 +92,11 @@ Nenurodyta
 - t-004
   global_id: t-23269
   teiginys: 'ANBO siejamas su lėktuvų projektavimu ir gamyba Kaune kaip vienu iš Lietuvos Respublikos civilizacinių pasiekimų.'
+  sudarymo_pagrindimas: 'Neaiškus kontekstinis fragmentas perrašytas į sakinį apie ANBO.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/daiktai/Lėktuvai|Lėktuvai]]; mentioned_place: Europa; mentioned_place: Kaunas; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1939 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Neaiškus kontekstinis fragmentas perrašytas į sakinį apie ANBO.'
   pagrindžia:
     - c-001
 
@@ -85,6 +104,11 @@ Nenurodyta
 - t-005
   global_id: t-23270
   teiginys: 'Antanas Gustaitis sukonstravo lėktuvų seriją ir pavadino ją ANBO pagal sakinio „Antanas nori būti ore“ žodžių pirmąsias raides.'
+  sudarymo_pagrindimas: 'Sakinys aiškiai nusako ANBO pavadinimo kilmę ir remiasi citata.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Lėktuvai|Lėktuvai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/posakiai/„Antanas nori būti ore“|„Antanas nori būti ore“]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_person: [[objektai/asmenys/Antanas Gustaitis|Antanas Gustaitis]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: po 1934 m.; įvykio data: 1934 m.; įvykio data: 1935 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Sakinys aiškiai nusako ANBO pavadinimo kilmę ir remiasi citata.'
   pagrindžia:
     - c-004
 
@@ -157,19 +181,3 @@ Nenurodyta
 ## Šaltiniai ir įrodymai
 
 Nenurodyta
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/transportas]]
-
-### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/asmenys/Antanas (vaistininkas)]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/daiktai/Lėktuvai]]
-- [[objektai/zodynas/Adynos|adynos]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/posakiai/„Antanas nori būti ore“]]
-- [[objektai/asmenys/Antanas Gustaitis]]
-- [[objektai/ivykiai/ANBO IV lėktuvų grupės skrydis per Europos sostines (1934 m.)]]
-- [[objektai/grupes/Lietuvos karo aviacija]]

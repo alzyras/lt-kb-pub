@@ -21,6 +21,7 @@ Krivių Krivaičio, vyriausiojo kunigo, bokštas.
 - t-001
   global_id: t-86200
   teiginys: 'Krivių Krivaičio, vyriausiojo kunigo, bokštas.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Manvydas|Manvydas]]'
   pagrindžia:
     - c-001
 

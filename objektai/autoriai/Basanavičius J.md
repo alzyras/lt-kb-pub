@@ -3,6 +3,9 @@ tipas: autorius
 pavadinimas: 'Basanavičius J'
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+datos: []
+date_start: ''
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -10,12 +13,14 @@ tags:
   - kunigaikštis
   - ordinas
   - pilis
+amziai: []
+periodo_grupes: []
 ---
 # Basanavičius J
 
 ## Santrauka
 
-Pratorius M., Deliciae., (1871), p. 99; Basanavičius J., Iš gyvenimo vėlių.., p. XXXIII). Basanavičiaus veikale nurodomas Vangrapės upės kilpoje, apie 400 m į pietus nuo Tamoviškių, žinomas Kampsvykalnio piliakalnis.
+Dusburgietis teigia, kad pratorius M., Deliciae., (1871), p. 99; Basanavičius J., Iš gyvenimo vėlių.., p. XXXIII). Dusburgietis teigia, kad vangrapės krante, upės kilpoje, žinomas piliakalnis Kampsvykalnis (Basanavičius J., Iš gyvenimo vėlių.., p. 190—191), per 400 m į pietus nuo Tamoviškių.
 
 ## Teiginiai
 
@@ -23,6 +28,8 @@ Pratorius M., Deliciae., (1871), p. 99; Basanavičius J., Iš gyvenimo vėlių..
 - t-001
   global_id: t-64567
   teiginys: 'Pratorius M., Deliciae., (1871), p. 99; Basanavičius J., Iš gyvenimo vėlių.., p. XXXIII).'
+  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/autoriai/Jonas Basanavičius|Jonas Basanavičius]]'
   pagrindžia:
     - c-001
 
@@ -30,6 +37,11 @@ Pratorius M., Deliciae., (1871), p. 99; Basanavičius J., Iš gyvenimo vėlių..
 - t-002
   global_id: t-64568
   teiginys: 'Basanavičiaus veikale nurodomas Vangrapės upės kilpoje, apie 400 m į pietus nuo Tamoviškių, žinomas Kampsvykalnio piliakalnis.'
+  sudarymo_pagrindimas: 'Citata remia bibliografinę nuorodą į Basanavičiaus veikalą, o pradinė formuluotė netiksli ir perkrauta.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Nadruviai|Nadruviai]]; mentioned_object: [[objektai/autoriai/Jonas Basanavičius|Jonas Basanavičius]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Vangrapė'
+  temporaliniai_duomenys: 'įvykio data: 400 m; įvykio data: apie 400 m.; įvykio data: 1275 m.; įvykio data: 1366 m.; įvykio data: 1371 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
+  temporalinis_llm_pakomentavimas: 'Citata remia bibliografinę nuorodą į Basanavičiaus veikalą, o pradinė formuluotė netiksli ir perkrauta.'
   pagrindžia:
     - c-002
 
@@ -64,9 +76,3 @@ Pratorius M., Deliciae., (1871), p. 99; Basanavičius J., Iš gyvenimo vėlių..
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Nadruviai]]
-- [[objektai/zodynas/Adynos|adynos]]

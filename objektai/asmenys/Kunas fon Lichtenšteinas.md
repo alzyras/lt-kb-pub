@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Didysis komtūras Kunas fon Lichtenšteinas mūšio lauke vadovavo dešiniajam kariuomenės sparnui. Didysis komtūras Kunas fon Lichtenšteinas mūšio lauke vadovavo dešiniajam kariuomenės sparnui.
+Kariuomenei išsirikiavus mūšio lauke, kairiajam sparnui vadovavo didysis maršalas Frydrichas fon Valenrodas, dešiniajam - didysis komtūras Kunas fon Lichtenšteinas.
 
 ## Teiginiai
 
@@ -21,6 +21,8 @@ Didysis komtūras Kunas fon Lichtenšteinas mūšio lauke vadovavo dešiniajam k
 - t-001
   global_id: t-40298
   teiginys: 'Didysis komtūras Kunas fon Lichtenšteinas mūšio lauke vadovavo dešiniajam kariuomenės sparnui.'
+  sudarymo_pagrindimas: 'Reikia sklandesnio sakinio be perteklinės konstrukcijos.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-001
 
@@ -53,7 +55,3 @@ Didysis komtūras Kunas fon Lichtenšteinas mūšio lauke vadovavo dešiniajam k
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/komtūras]]

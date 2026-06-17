@@ -68,9 +68,3 @@ Po Vosyliaus III mirties Maskvos kunigaikščiu tapus mažamečiam Jonui IV Žia
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Jonas]]
-- [[objektai/asmenys/Vosylius]]
-- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]

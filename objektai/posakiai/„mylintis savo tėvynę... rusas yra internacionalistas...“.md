@@ -20,6 +20,8 @@ Populiarus to meto posakis, kad mylintis savo tėvynę, kalbą, kultūrą rusas 
 - t-001
   global_id: t-20919
   teiginys: 'Sovietmečio Lietuvoje posakis apie rusą internacionalistą, lietuvį nacionalistą ir žydą sionistą atspindėjo kompartijos ideologiją.'
+  sudarymo_pagrindimas: 'Pradinį ilgą teiginį galima sutrumpinti į aiškesnį enciklopedinį sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -42,11 +44,3 @@ Populiarus to meto posakis, kad mylintis savo tėvynę, kalbą, kultūrą rusas 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/frazė]]
-
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Rusai]]

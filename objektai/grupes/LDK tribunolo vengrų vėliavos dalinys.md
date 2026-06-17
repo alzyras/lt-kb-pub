@@ -21,6 +21,8 @@ Lietuvos pajėgos Vilniaus puolime balandžio 23 d. dalyvavo LDK 4-ojo pėstinin
 - t-001
   global_id: t-40977
   teiginys: 'Vilniaus puolime balandžio 23 d. dalyvavo 50 LDK tribunolo vengrų vėliavos dalinio karių.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir citata tiesiogiai patvirtina dalinio karių dalyvavimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/7-ojo fuzilierių regimento|7-ojo fuzilierių regimento]]; mentioned_group: [[objektai/grupes/LDK 4-ojo pėstininkų regimento|LDK 4-ojo pėstininkų regimento]]; mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/daiktai/Vėliavos|Vėliavos]]; mentioned_object: [[objektai/zodynas/tribunolas|tribunolas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -46,12 +48,3 @@ Lietuvos pajėgos Vilniaus puolime balandžio 23 d. dalyvavo LDK 4-ojo pėstinin
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/7-ojo fuzilierių regimento]]
-- [[objektai/daiktai/Artilerija]]
-- [[objektai/grupes/LDK 4-ojo pėstininkų regimento]]
-- [[objektai/grupes/Vengrai]]
-- [[objektai/daiktai/Vėliavos]]
-- [[objektai/zodynas/tribunolas]]

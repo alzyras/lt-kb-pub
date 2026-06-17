@@ -1,28 +1,10 @@
 ---
-tipas: 'ivykis'
+tipas: ivykis
 pavadinimas: 'Žemaičių sukilimas prieš Kazimierą ir paklusimo atnaujinimas Kaune (sukilimas)'
-sukurta: '2026-06-16'
-variantai:
-  - 'Žemaičių sukilimas prieš Kazimierą Jogailaitį'
-  - 'žemaičių nusileidimas Kazimierui Kaune'
-  - 'Žemaičių sukilimas prieš Kazimierą ir paklusimo atnaujinimas Kaune'
-aliases:
-  - 'Žemaičių sukilimas prieš Kazimierą ir paklusimo atnaujinimas Kaune'
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
-bukle: 'juodrastis'
-laikotarpis: ''
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: ''
-atnaujinta: '2026-06-16'
+sukurta: ''
+atnaujinta: ''
 tags:
   - sukilimas
 ---
@@ -37,27 +19,33 @@ Lietuvos metraštis pasakoja, kad žemaičiai nenorėjo paklusti Kazimierui, pal
 - laikotarpis:
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 <a id="claim-t-186629"></a>
 - t-001
   global_id: t-186629
-  teiginys: 'Lietuvos metraštis pasakoja, kad po susitaikymo Kazimieras patvirtino žemaičių privilegijas ir paliko Kantautą seniūnu trejiems metams.'
+  teiginys: 'Lietuvos metraštis pasakoja, kad Kazimieras, priėmęs Kaune prisiekusius žemaičius, patvirtino jų privilegijas ir paliko Kantautą seniūnu trejiems metams.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Sakinys padarytas konkretesnis ir susietas su Kauno paklusimo epizodu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_person: [[objektai/asmenys/Kantautas|Kantautas]]; mentioned_place: Kaunas; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Lietuvos metraštis pasakoja, kad po susitaikymo Kazimieras patvirtino žemaičių privilegijas ir paliko Kantautą seniūnu trejiems metams.'
+  santrauka: 'Lietuvos metraštis pasakoja, kad Kazimieras, priėmęs Kaune prisiekusius žemaičius, patvirtino jų privilegijas ir paliko Kantautą seniūnu trejiems metams.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     O paskui jis prikalbėjo savo
@@ -77,18 +65,8 @@ Nenurodyta
     lai palikti Kantautą bent trejus metus Žemaičių seniū­
     nu, kad jis sutvirtintų jų ištikimybę didžiajam kuni­
     gaikščiui Kazimierui.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Kantautas]]
-- [[objektai/zodynas/didysis kunigaikštis]]
-- [[objektai/zodynas/seniūnas]]
-- [[objektai/grupes/Žemaičiai]]
-- [[objektai/zodynas/metraštis]]

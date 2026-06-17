@@ -3,10 +3,16 @@ tipas: zodyno_irasas
 pavadinimas: 'interliudas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1812 m.'
+date_start: '1812'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - sąvoka
+amziai:
+  - 'XIX'
 ---
 # interliudas
 
@@ -20,6 +26,11 @@ tags:
 - t-001
   global_id: t-22167
   teiginys: '1812 m. antrojoje pusėje Lietuvos priklausymą Rusijos imperijai pusmečiui pertraukė Napoleono Bonaparto interliudas.'
+  sudarymo_pagrindimas: 'Pašalintas OCR ir antraštės triukšmas, suformuluotas aiškus sakinys apie interliudą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Immanuel Kant|Immanuel Kant]]; mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_place: Lietuva; mentioned_place: Rusija'
+  temporaliniai_duomenys: 'įvykio data: 1812 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas OCR ir antraštės triukšmas, suformuluotas aiškus sakinys apie interliudą.'
   pagrindžia:
     - c-001
 
@@ -51,12 +62,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Immanuel Kant]]
-- [[objektai/asmenys/Kristijonas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Kristijonas Gotlibas Milkus]]
-- [[objektai/zodynas/autokratinė monarchinė imperija]]
-- [[objektai/posakiai/„Iš tikrųjų jokia kita pasaulio kalba...“]]

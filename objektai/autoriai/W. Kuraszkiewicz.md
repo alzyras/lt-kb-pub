@@ -3,18 +3,15 @@ tipas: autorius
 pavadinimas: 'W. Kuraszkiewicz'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-datos:
-  - '1955 m.'
-date_start: '1955'
+datos: []
+date_start: ''
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
-amziai:
-  - 'XX'
-periodo_grupes:
-  - 'XX a.'
+amziai: []
+periodo_grupes: []
 ---
 # W. Kuraszkiewicz
 
@@ -28,6 +25,11 @@ Kuraszkiewicz, W.
 - t-001
   global_id: t-31064
   teiginys: 'W. Kuraszkiewiczius 1955 m. Varšuvoje paskelbė darbą apie spėjamą jotvingių pėdsaką Palenkėje.'
+  sudarymo_pagrindimas: 'Citata pateikia bibliografinį įrašą, leidžiantį suformuluoti faktą apie autorių.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Palenkė; mentioned_place: Varšuva'
+  temporaliniai_duomenys: 'įvykio data: iki 1200 m.; įvykio data: 1200 m.; įvykio data: 1939 m.; įvykio data: 1955 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pateikia bibliografinį įrašą, leidžiantį suformuluoti faktą apie autorių.'
   pagrindžia:
     - c-001
 
@@ -48,7 +50,3 @@ Kuraszkiewicz, W.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]

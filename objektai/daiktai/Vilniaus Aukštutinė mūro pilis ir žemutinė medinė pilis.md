@@ -43,6 +43,8 @@ Nenurodyta
 - t-001
   global_id: t-87098
   teiginys: 'Pasak sapno aiškinimo, Gediminas ant Tauro kalno turėjo pastatyti Aukštutinę mūro pilį, o slėnyje - medinę pilį, pavadintą Vilniumi.'
+  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir aiškiai perteiktas citatoje aprašytas pasakojimas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Aukštutinė pilis; mentioned_place: Luckas; mentioned_place: Vengrija; mentioned_place: Vilniaus Aukštutinė pilis; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -50,6 +52,8 @@ Nenurodyta
 - t-002
   global_id: t-87099
   teiginys: 'Balińskis Vilniaus vardą kildino iš Vilnios ir laikė tai ženklu, kad pirmykštė Vilniaus gyvenvietė buvo prie šios upės.'
+  sudarymo_pagrindimas: 'Pirminis sakinys per ilgas ir nutrūksta; citata palaiko autoriaus etimologinę interpretaciją.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_place: Vilija; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -117,10 +121,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Gediminas]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/asmenys/Šventaragis]]
-- [[objektai/paprociai/Žynio sapno aiškinimas ir aukojimas prieš miesto statybą]]

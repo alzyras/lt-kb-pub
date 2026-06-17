@@ -22,6 +22,8 @@ Vainą ir „vengrų“ pėstininkų rotmistrą Kurovičių.
 - t-001
   global_id: t-39781
   teiginys: 'Breslaujos seniūnas M. Vaina buvo nužudytas kartu su M. P. Sapiega ir rotmistru Kurovičiumi.'
+  sudarymo_pagrindimas: 'Citata palaiko M. Vainos pareigas ir žūties faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos totoriai|Lietuvos totoriai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/rotmistras|rotmistras]]; mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_person: [[objektai/asmenys/Kurovičius|Kurovičius]]; mentioned_person: [[objektai/asmenys/M. P. Sapiega|M. P. Sapiega]]; mentioned_person: [[objektai/asmenys/Vaina|Vaina]]; mentioned_place: Breslauja; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -48,10 +50,3 @@ Vainą ir „vengrų“ pėstininkų rotmistrą Kurovičių.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuvos totoriai]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/zodynas/rotmistras]]
-- [[objektai/zodynas/seniūnas]]

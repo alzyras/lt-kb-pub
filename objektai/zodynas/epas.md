@@ -21,6 +21,8 @@ Galėtume manyti, kad ir lietuvių epas buvo pradėjęs formuotis.
 - t-001
   global_id: t-22132
   teiginys: 'Epas yra pasakojimai apie dievus, pusdievius ir didvyrius.'
+  sudarymo_pagrindimas: 'Pradinis teiginys citata nepagrįstas, bet citata leidžia pateikti sąvokos apibrėžimą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -28,9 +30,17 @@ Galėtume manyti, kad ir lietuvių epas buvo pradėjęs formuotis.
 - t-002
   global_id: t-183420
   teiginys: 'Lietuvių epas, autorių vertinimu, buvo pradėjęs formuotis.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra interpretacinis, todėl reikia aiškios formos ir priskyrimo vertinimui.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/paprociai/Birutės legendos tęstinumas ir Birutės kalno gerbimas.md#claim-t-77949|Birutės legendos tęstinumas ir Birutės kalno gerbimas]]: Birutės legenda nenutrūko įsigalint krikščionybei, o Birutės kalnas Palangoje buvo gerbiamas kaip šventosios vieta.
+- susijęs iš Lietuvos Metraščiai: Lietuvos metraščiuose užrašyti Gedimino sapno, Algirdo žygių į Maskvą ir Birutės bei Kęstučio meilės istorijos siužetai laikomi epiniais pasakojimais.
+- susijęs iš Maskva: Lietuvos metraščiuose Algirdo žygiai į Maskvą priskiriami epinius pasakojimus atitinkantiems siužetams.
+- susijęs iš Maskva: Lietuvos metraščiuose užrašyti epiniai siužetai apie Gedimino sapną, Algirdo žygius į Maskvą ir Kęstučio bei Birutės meilę.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -59,10 +69,3 @@ Galėtume manyti, kad ir lietuvių epas buvo pradėjęs formuotis.
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/paprociai/Birutės legendos tęstinumas ir Birutės kalno gerbimas]]

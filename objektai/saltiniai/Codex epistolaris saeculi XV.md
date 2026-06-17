@@ -28,6 +28,11 @@ amziai:
 - t-001
   global_id: t-34950
   teiginys: 'Codex epistolaris saeculi XV sudarė du tomai, kuriuos A. Lewickis parengė ir 1891 m. išleido Krokuvoje.'
+  sudarymo_pagrindimas: 'Citata palaiko tomų skaičių, rengėją, vietą ir metus.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/A. Lewickis|A. Lewickis]]; mentioned_place: Krokuva'
+  temporaliniai_duomenys: 'įvykio data: 1891 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko tomų skaičių, rengėją, vietą ir metus.'
   pagrindžia:
     - c-001
 

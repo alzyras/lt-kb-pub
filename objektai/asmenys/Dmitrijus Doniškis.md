@@ -32,6 +32,12 @@ Tuo metu, kai Andrius, nuolatinis Dmitrijaus Do­ niškio bendražygis, karo rū
 - t-001
   global_id: t-87652
   teiginys: 'Dmitrijus Doniškis kovojo prieš totorius kartu su Andriumi, kuris daug prisidėjo prie pergalės Kulikovo lauke 1380 m. rugsėjo 8 d.'
+  sudarymo_pagrindimas: 'Citata remia Dmitrijaus Doniškio ryšį su Andriumi ir Kulikovo mūšiu, bet pradinis sakinys fragmentiškas.'
+  susije_objektai: 'counterparty: [[objektai/asmenys/Algirdas|Algirdas]]; counterparty: [[objektai/asmenys/Dmitrijus|Dmitrijus]]; counterparty: [[objektai/asmenys/Kęstutis|Kęstutis]]; counterparty: [[objektai/grupes/Polockiečiai|Polockiečiai]]; counterparty: [[objektai/asmenys/Skirgaila|Skirgaila]]; counterparty: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Polockiečiai|Polockiečiai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Dmitrijus|Dmitrijus]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Polockas; mentioned_place: Vilnius; mentioned_place: Vitebskas'
+  semantiniai_rysiai: '[[objektai/asmenys/Dmitrijus Doniškis|Dmitrijus Doniškis]] kariavo prieš [[objektai/asmenys/Algirdas|Algirdas]]; [[objektai/asmenys/Dmitrijus Doniškis|Dmitrijus Doniškis]] kariavo prieš [[objektai/asmenys/Dmitrijus|Dmitrijus]]; [[objektai/asmenys/Dmitrijus Doniškis|Dmitrijus Doniškis]] kariavo prieš [[objektai/asmenys/Kęstutis|Kęstutis]]; [[objektai/asmenys/Dmitrijus Doniškis|Dmitrijus Doniškis]] kariavo prieš [[objektai/asmenys/Skirgaila|Skirgaila]]; [[objektai/asmenys/Dmitrijus Doniškis|Dmitrijus Doniškis]] kariavo prieš [[objektai/grupes/Polockiečiai|Polockiečiai]]; [[objektai/asmenys/Dmitrijus Doniškis|Dmitrijus Doniškis]] kariavo prieš [[objektai/grupes/Totoriai|Totoriai]]'
+  temporaliniai_duomenys: 'mūšio data: 1380 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Dmitrijus Doniškis kariavo prieš Algirdas (Lietuvos valdovas)“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Dmitrijus Doniškis kariavo prieš Dmitrijus“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Dmitrijus Doniškis kariavo prieš Kęstutis (vakarų pasienio valdovas, XIV–XV a.)“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Dmitrijus Doniškis kariavo prieš Skirgaila“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Dmitrijus Doniškis kariavo prieš Polockiečiai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Dmitrijus Doniškis kariavo prieš Totoriai“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata remia Dmitrijaus Doniškio ryšį su Andriumi ir Kulikovo mūšiu, bet pradinis sakinys fragmentiškas.'
   pagrindžia:
     - c-001
 
@@ -77,12 +83,9 @@ Tuo metu, kai Andrius, nuolatinis Dmitrijaus Do­ niškio bendražygis, karo rū
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- [[objektai/grupes/Polockiečiai]]
-- [[objektai/asmenys/Skirgaila]]
-- [[objektai/asmenys/Dmitrijus]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/asmenys/Andrius Algirdaitis]]
-- [[objektai/ivykiai/Kulikovo mūšis (1380 m. rugsėjo 8 d.)]]
+- Dmitrijus Doniškis kariavo_pries [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- Dmitrijus Doniškis kariavo_pries [[objektai/asmenys/Dmitrijus]]
+- Dmitrijus Doniškis kariavo_pries [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- Dmitrijus Doniškis kariavo_pries [[objektai/grupes/Polockiečiai]]
+- Dmitrijus Doniškis kariavo_pries [[objektai/asmenys/Skirgaila]]
+- Dmitrijus Doniškis kariavo_pries [[objektai/grupes/Totoriai]]

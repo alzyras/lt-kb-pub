@@ -23,7 +23,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Krikščionys demokratai ir liaudininkai pareikalavo vietoje Antano Merkio ministru pirmininku paskirti Stasį Raštikį. Sovietų spaudimo akivaizdoje Maskva pakvietė atvykti Lietuvos ministrą pirmininką Antaną Merkį. 1939 m. lapkritį LVLS ir LKDP sutiko deleguoti po du atstovus į tautininko Antano Merkio vyriausybę.
+LVLS ir LKDP nepareikalavo leisti atkurti savo partinių organizacijų ir sutiko deleguoti po du savo atstovus į naują, 1939 m. lapkritį sudarytą taip pat tautininko Antano Merkio vyriausybę. Merkį. Merkį brutaliu elgesiu, absurdiškai kaltino Lietuvą antisovieti.
 
 ## Teiginiai
 
@@ -31,6 +31,8 @@ Krikščionys demokratai ir liaudininkai pareikalavo vietoje Antano Merkio minis
 - t-001
   global_id: t-169957
   teiginys: 'Krikščionys demokratai ir liaudininkai pareikalavo vietoje Antano Merkio ministru pirmininku paskirti Stasį Raštikį.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_place: Anglija; mentioned_place: Lietuva'
   pagrindžia:
     - c-004
 
@@ -38,6 +40,11 @@ Krikščionys demokratai ir liaudininkai pareikalavo vietoje Antano Merkio minis
 - t-002
   global_id: t-169958
   teiginys: 'Sovietų spaudimo akivaizdoje Maskva pakvietė atvykti Lietuvos ministrą pirmininką Antaną Merkį.'
+  sudarymo_pagrindimas: 'Citata leidžia aiškiau nurodyti politinį kontekstą, neperžengiant jos ribų.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_place: Lietuva; mentioned_place: Maskva'
+  temporaliniai_duomenys: 'įvykio data: 1939 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata leidžia aiškiau nurodyti politinį kontekstą, neperžengiant jos ribų.'
   pagrindžia:
     - c-003
 
@@ -45,6 +52,11 @@ Krikščionys demokratai ir liaudininkai pareikalavo vietoje Antano Merkio minis
 - t-003
   global_id: t-169959
   teiginys: '1939 m. lapkritį LVLS ir LKDP sutiko deleguoti po du atstovus į tautininko Antano Merkio vyriausybę.'
+  sudarymo_pagrindimas: 'Reikia aiškesnės sakinio sandaros ir objekto susiejimo su Antano Merkio vyriausybe.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]'
+  temporaliniai_duomenys: 'įvykio data: 1939 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia aiškesnės sakinio sandaros ir objekto susiejimo su Antano Merkio vyriausybe.'
   pagrindžia:
     - c-001
 
@@ -52,6 +64,11 @@ Krikščionys demokratai ir liaudininkai pareikalavo vietoje Antano Merkio minis
 - t-004
   global_id: t-169961
   teiginys: '1940 m. birželio 7 d. Maskvoje Viačeslavas Molotovas brutaliai elgėsi su Antanu Merkiu ir kaltino Lietuvą antisovietine veikla.'
+  sudarymo_pagrindimas: 'Pirminis teiginys buvo fragmentiškas ir su OCR klaida.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_person: [[objektai/asmenys/Viačeslavas Molotovas|Viačeslavas Molotovas]]; mentioned_place: Lietuva; mentioned_place: Maskva'
+  temporaliniai_duomenys: 'įvykio data: 1939 m.; įvykio data: 1940 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pirminis teiginys buvo fragmentiškas ir su OCR klaida.'
   pagrindžia:
     - c-005
 
@@ -59,6 +76,8 @@ Krikščionys demokratai ir liaudininkai pareikalavo vietoje Antano Merkio minis
 - t-005
   global_id: t-169962
   teiginys: 'Antanas Merkys psichologiškai palūžo nuo Viačeslavo Molotovo rėksmingų kaltinimų absurdiškumo.'
+  sudarymo_pagrindimas: 'Išplėstas vardas ir aiškiai nurodyta priežastis.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_person: [[objektai/asmenys/Augustinas|Augustinas]]; mentioned_place: Kaunas; mentioned_place: Maskva; mentioned_place: Merkys'
   pagrindžia:
     - c-002
 
@@ -144,11 +163,3 @@ Krikščionys demokratai ir liaudininkai pareikalavo vietoje Antano Merkio minis
   statusas: verified
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Krikščionys]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Lietuvos krikščionių demokratų partija]]
-- [[objektai/grupes/Lietuvos valstiečių liaudininkų sąjunga]]
-- [[objektai/ivykiai/Maskvos kaltinimų Lietuvai ir A. Merkio derybų krizė (1940 m. gegužė-birželis)]]

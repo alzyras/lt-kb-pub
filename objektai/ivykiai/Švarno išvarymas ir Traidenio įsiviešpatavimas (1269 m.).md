@@ -44,6 +44,9 @@ Nenurodyta
 - t-001
   global_id: t-31508
   teiginys: 'Traidenis, kaip sprendžiama, jėga išvarė Švarną iš Lietuvos ir 1269 m. turėjo įsiviešpatauti.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_place: Lietuva; mentioned_place: Volinijos-Haličo kunigaikštija'
+  temporaliniai_duomenys: 'įvykio data: 1269 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -64,7 +67,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/kunigaikštija]]

@@ -42,6 +42,9 @@ Nenurodyta
 - t-001
   global_id: t-62688
   teiginys: 'Per badą Kristburgo broliai įkalbinėjo jiems ištikimus pamedėnus pasitraukti kitur, kad šie galėtų prasimaitinti.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pašalintas nutrūkimas ir aiškiai įvardyta veiksmo priežastis.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pamedėnai|Pamedėnai]]; mentioned_place: Kristburgas; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
     - c-003
@@ -50,6 +53,9 @@ Nenurodyta
 - t-002
   global_id: t-62689
   teiginys: 'Apsuptiems Kristburgo broliams būtiniausius dalykus iš Elbingo Zirgūnos upe gabenti pavykdavo retai ir su dideliu vargu.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Teiginys buvo su antrašte ir nutrūkusiu sakiniu; citata leidžia suformuluoti vientisą faktą.'
+  susije_objektai: 'mentioned_place: Elbingas; mentioned_place: Kristburgas; mentioned_place: Pamedė; mentioned_place: Prūsai; mentioned_place: Zirgūna'
   pagrindžia:
     - c-002
 
@@ -112,8 +118,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Pamedėnai]]
-- [[objektai/ivykiai/Kristburgo bado krizės ir Samilio nukankinimo bandymas]]

@@ -3,6 +3,11 @@ tipas: asmuo
 pavadinimas: 'Julijus Cezaris (vyskupas)'
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+datos:
+  - '100 m.'
+  - '144 m.'
+date_start: '100'
+date_end: '144'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -10,6 +15,12 @@ tags:
   - karvedys
   - ordinas
   - valstybė
+  - vyskupas
+amziai:
+  - 'I'
+  - 'II'
+periodo_grupes:
+  - 'viduramžiai'
 ---
 # Julijus Cezaris (vyskupas)
 
@@ -23,6 +34,11 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
 - t-001
   global_id: t-60034
   teiginys: 'Gajus Julijus Cezaris buvo Romos valstybės veikėjas, karvedys ir rašytojas, gyvenęs 102 arba 100-44 m. pr. m. e.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas enciklopedinis sakinys ir tiesiogiai paremtas išnašos tekstu.'
+  susije_objektai: 'mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 100-144'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas enciklopedinis sakinys ir tiesiogiai paremtas išnašos tekstu.'
   pagrindžia:
     - c-001
 
@@ -30,6 +46,8 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
 - t-002
   global_id: t-60035
   teiginys: 'Pasak Dusburgiečio, Julijus Cezaris buvo vienas iš senaisiais laikais su prūsais kariavusių veikėjų.'
+  sudarymo_pagrindimas: 'Citata palaiko autoriaus teiginį, bet pradiniame sakinyje yra OCR ir išnašų triukšmo.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Dobrynės broliai|Dobrynės broliai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Dobrynė; mentioned_place: Prūsai; mentioned_place: Prūsija'
   pagrindžia:
     - c-003
 
@@ -37,9 +55,11 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
 - t-003
   global_id: t-60036
   teiginys: 'Dusburgietis Julijų Cezarį įtraukia į senųjų kovotojų prieš prūsus genealogiją.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktas apie Dusburgiečio interpretaciją ir paremtas citata.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_place: Dobrynė; mentioned_place: Prūsai; mentioned_place: Švedija'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/autoriai/Plinius C. Secundus.md#claim-t-64820|Plinius C. Secundus]]: Plinijus Vyresnysis pateikė žinių apie Nerono laikais surengtą žygį, iš kurio romėnų raitelis parvežė daug gintaro.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -93,13 +113,3 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/karvedys]]
-
-### Susiję objektai
-- [[objektai/grupes/Dobrynės broliai]]
-- [[objektai/grupes/Teutonai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/asmenys/Hugonas Butyras]]

@@ -22,6 +22,8 @@ Dusburgietis teigia, kad tačiau Glapą nusivarė su savimi į Karaliaučių ir 
 - t-001
   global_id: t-58554
   teiginys: 'Glapas buvo nuvestas į Karaliaučių ir pakartas ant kalvos, kuri vadinta Glapo kalva.'
+  sudarymo_pagrindimas: 'Teiginys sutvarkytas į pilną sakinį apie vietovardžio kilmę ir įvykį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_group: [[objektai/grupes/Varmiai|Varmiai]]; mentioned_person: [[objektai/asmenys/Glapas|Glapas]]'
   pagrindžia:
     - c-001
 
@@ -29,9 +31,13 @@ Dusburgietis teigia, kad tačiau Glapą nusivarė su savimi į Karaliaučių ir 
 - t-002
   global_id: t-58555
   teiginys: 'Glapo kalva, vėliau vadinta Rollbergu, buvo į vakarus nuo pilies, dabartinės Kaliningrado centrinės aikštės vakaruose.'
+  sudarymo_pagrindimas: 'Citata palaiko vietos pavadinimus ir padėtį pilies atžvilgiu.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Glapas|Glapas]]'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/asmenys/Glapas.md#claim-t-89789|Glapas]]: Glapas buvo nuvarytas į Karaliaučių ir pakartas ant kalvos, kuri vėliau vadinta Glapo kalva.
+- susijęs iš [[objektai/ivykiai/Glapo išdavystė, suėmimas ir varmių bei notangų pasidavimas.md#claim-t-66554|Glapo išdavystė, suėmimas ir varmių bei notangų pasidavimas]]: Užkluptas prie apgultos pilies Glapas buvo nuvarytas į Karaliaučių ir pakartas ant kalvos, vadintos Glapo kalva.
+- susijęs iš Karaliaučius: Glapas buvo nugabentas į Karaliaučių ir pakartas ant kalvos, kuri, pasak Dusburgiečio, vadinta Glapo kalva.
 ## Reikšmingi paminėjimai
 
 - c-001

@@ -28,6 +28,11 @@ Dusburgietis teigia, kad tumler M.
 - t-001
   global_id: t-61328
   teiginys: 'M. Tumlerio „Der Deutsche Orden im Werden, Wachsen und Wirken bis 1400“ išleista Vienoje 1954 m.'
+  sudarymo_pagrindimas: 'Citata pagrindžia leidinio pavadinimą, vietą ir metus.'
+  susije_objektai: 'mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1954 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia leidinio pavadinimą, vietą ir metus.'
   pagrindžia:
     - c-001
 

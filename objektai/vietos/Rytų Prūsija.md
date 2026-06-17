@@ -20,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-Visų lietuvių žemių sujungimas į vieną vienetą – dar praeito šimtmečio tautinio lietuvių judėjimo planų dalis, nors LDK niekuomet Rytų Prūsijos, lietuvių vadinamos Mažąja Lietuva, nevaldė. Versalyje Lietuvos delegacija kėlė Rytų Prūsijos perdavimo Lietuvai ir išėjimo į Baltijos jūrą per Klaipėdą klausimą. Kaltinamieji teigė, kad nurodymus jiems davė Rytų Prūsijos oberprezidentas Ėrichas Kochas ir kiti nacių atstovai.
+Visų lietuvių žemių sujungimas į vieną vienetą – dar praeito šimtmečio tautinio lietuvių judėjimo planų dalis, nors LDK niekuomet Rytų Prūsijos, lietuvių vadinamos Mažąja Lietuva, nevaldė. Tačiau Versalyje Lietuvos delegacija iškėlė Rytų Prūsijos (kurioje tarp pusės milijono vokiečių gyveno iki 100 000 lietuvių) teritorijos perdavimo Lietuvai ir išėjimo į Baltijos jūrą per Klaipėdą klausimą. 11 minučių ir įveikę 6 411 km, antrą tuo metu ilgiausią atstumą be nusileidimo pasaulyje, aviatoriai patyrė katastrofą tuometinėje Rytų Prūsijoje.
 
 ## Teiginiai
 
@@ -28,6 +28,8 @@ Visų lietuvių žemių sujungimas į vieną vienetą – dar praeito šimtmeči
 - t-001
   global_id: t-170843
   teiginys: 'Visų lietuvių žemių sujungimas į vieną vienetą – dar praeito šimtmečio tautinio lietuvių judėjimo planų dalis, nors LDK niekuomet Rytų Prūsijos, lietuvių vadinamos Mažąja Lietuva, nevaldė.'
+  sudarymo_pagrindimas: 'Teiginys yra faktinis ir susijęs su Rytų Prūsija.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Baltija; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Viena; mentioned_place: Vokietija'
   pagrindžia:
     - c-003
 
@@ -35,6 +37,8 @@ Visų lietuvių žemių sujungimas į vieną vienetą – dar praeito šimtmeči
 - t-002
   global_id: t-170844
   teiginys: 'Versalyje Lietuvos delegacija kėlė Rytų Prūsijos perdavimo Lietuvai ir išėjimo į Baltijos jūrą per Klaipėdą klausimą.'
+  sudarymo_pagrindimas: 'Teiginys aiškus ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Baltija; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Viena; mentioned_place: Vokietija'
   pagrindžia:
     - c-003
 
@@ -42,6 +46,8 @@ Visų lietuvių žemių sujungimas į vieną vienetą – dar praeito šimtmeči
 - t-003
   global_id: t-170846
   teiginys: 'Kaltinamieji teigė, kad nurodymus jiems davė Rytų Prūsijos oberprezidentas Ėrichas Kochas ir kiti nacių atstovai.'
+  sudarymo_pagrindimas: 'Fragmentas papildytas faktiniu predikatu, neperžengiant citatos.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Valteris R. Hesas|Valteris R. Hesas]]; mentioned_person: [[objektai/asmenys/Ėrichas Kochas|Ėrichas Kochas]]; mentioned_place: Prūsija; mentioned_place: Vokietija'
   pagrindžia:
     - c-001
 
@@ -49,6 +55,8 @@ Visų lietuvių žemių sujungimas į vieną vienetą – dar praeito šimtmeči
 - t-004
   global_id: t-170847
   teiginys: '„Lituanica“ aviatoriai be nusileidimo per 37 val. 11 min. įveikė 6 411 km ir patyrė katastrofą tuometinėje Rytų Prūsijoje.'
+  sudarymo_pagrindimas: 'Sakinys sutrumpintas ir padarytas sklandesnis.'
+  susije_objektai: 'mentioned_place: Niujorkas; mentioned_place: Prūsija'
   pagrindžia:
     - c-002
 
@@ -56,6 +64,11 @@ Visų lietuvių žemių sujungimas į vieną vienetą – dar praeito šimtmeči
 - t-006
   global_id: t-183632
   teiginys: 'Be nusileidimo 37 val. 11 min. skridę ir 6 411 km įveikę aviatoriai patyrė katastrofą tuometinėje Rytų Prūsijoje.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys sutvarkytas kaip pilnas faktinis sakinys.'
+  susije_objektai: 'mentioned_place: Kaunas; mentioned_place: Prūsija'
   pagrindžia:
     - c-004
 

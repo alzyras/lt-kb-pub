@@ -40,6 +40,8 @@ Nenurodyta
 - t-001
   global_id: t-08309
   teiginys: 'Vyriškieji patys dailidavo namų baldus, rakandus ir įvairius būtos padargus.'
+  teiginio_tipas: 'faktas'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Prasma|Prasma]]'
   pagrindžia:
     - c-001
 
@@ -58,7 +60,3 @@ Nenurodyta
 ## Pastabos
 
 - šis platus sąrašas artimas bendresniam viešam įrašui apie namų dirbinius, bet čia pateikiamas gerokai platesnis būtos padargų sąrašas.
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Prasma|prasma]]

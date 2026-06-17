@@ -31,6 +31,11 @@ Giovanni Villani buvo tai tam tikra rūšis pabūklų arba patrankų, įtaisytų
 - t-001
   global_id: t-88057
   teiginys: 'Giovanni Villani nurodytas kaip šaltinis apie anglų bombardų panaudojimą 1346 m. rugpjūčio 26 d. mūšyje prie Kreši.'
+  sudarymo_pagrindimas: 'Citata remia nuorodą į Villani kaip šaltinį, bet ne teiginį, kad jis pats buvo pabūklų rūšis.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Anglai|Anglai]]; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]'
+  temporaliniai_duomenys: 'įvykio data: 1346 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata remia nuorodą į Villani kaip šaltinį, bet ne teiginį, kad jis pats buvo pabūklų rūšis.'
   pagrindžia:
     - c-001
 
@@ -60,14 +65,3 @@ Giovanni Villani buvo tai tam tikra rūšis pabūklų arba patrankų, įtaisytų
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/metraštis]]
-- [[temos/transportas]]
-
-### Susiję objektai
-- [[objektai/grupes/Anglai]]
-- [[objektai/daiktai/Ginklai]]
-- [[objektai/grupes/Prancūzai]]
-- [[objektai/daiktai/Žirgai]]

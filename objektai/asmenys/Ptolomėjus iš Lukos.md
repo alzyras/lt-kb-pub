@@ -29,6 +29,11 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
 - t-001
   global_id: t-60421
   teiginys: 'Ptolomėjus iš Lukos buvo Tomo Akviniečio mokinys ir popiežiaus bibliotekininkas, parašęs bažnyčios istoriją „Analai“.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, informatyvus ir paremtas citata.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
+  temporaliniai_duomenys: 'įvykio data: 1327 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, informatyvus ir paremtas citata.'
   pagrindžia:
     - c-001
 

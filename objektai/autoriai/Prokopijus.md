@@ -18,6 +18,14 @@ Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose.
 - t-001
   global_id: t-186291
   teiginys: 'Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose.'
+  teiginio_tipas: 'saltinio_teiginys'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys aiškiai perteikia Prokopijui priskirtą informaciją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Gepidai|Gepidai]]; mentioned_group: [[objektai/grupes/Herulai|Herulai]]; mentioned_group: [[objektai/grupes/Langobardai|Langobardai]]; mentioned_place: Italija'
+  temporaliniai_duomenys: 'įvykio data: 559 m'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai perteikia Prokopijui priskirtą informaciją.'
   pagrindžia:
     - c-001
 
@@ -51,10 +59,3 @@ Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Gepidai]]
-- [[objektai/grupes/Herulai]]
-- [[objektai/grupes/Langobardai]]
-- [[objektai/ivykiai/Langobardų įsiveržimas į Italiją (559 m.)]]

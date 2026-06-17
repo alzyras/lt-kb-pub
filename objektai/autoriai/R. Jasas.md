@@ -4,18 +4,23 @@ pavadinimas: 'R. Jasas'
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+datos: []
+date_start: ''
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
   - ginklas
   - sukilimas
+amziai: []
+periodo_grupes: []
 ---
 # R. Jasas
 
 ## Santrauka
 
-R. Jasas cituojamas tarp autorių, kurių darbai siejami su skalvių lietuviškumo klausimu. Istorikas R. Jasas buvo vienas iš rankraštį recenzavusių asmenų. R. Jasas 1959 m. paskelbė darbą „Didysis prūsų sukilimas 1260-1274 m.“ apie lietuvių kovas su kryžiuočiais ir kalavijuočiais.
+Lietuvių kovas su kryžiuočiais ir kalavijuočiais aprašė ir visa eilė istorikų, kaip R. J a s a s : Didysis prūsų sukilimas 1260-1274 m. (1959), M.
 
 ## Teiginiai
 
@@ -23,6 +28,8 @@ R. Jasas cituojamas tarp autorių, kurių darbai siejami su skalvių lietuvišku
 - t-001
   global_id: t-64830
   teiginys: 'R. Jasas cituojamas tarp autorių, kurių darbai siejami su skalvių lietuviškumo klausimu.'
+  sudarymo_pagrindimas: 'Citata palaiko tik bibliografinį autoriaus ryšį su tema.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]'
   pagrindžia:
     - c-002
 
@@ -30,6 +37,7 @@ R. Jasas cituojamas tarp autorių, kurių darbai siejami su skalvių lietuvišku
 - t-002
   global_id: t-64831
   teiginys: 'Istorikas R. Jasas buvo vienas iš rankraštį recenzavusių asmenų.'
+  sudarymo_pagrindimas: 'Citata tiesiogiai nurodo R. Jasą kaip rankraščio recenzentą.'
   pagrindžia:
     - c-001
 
@@ -37,9 +45,15 @@ R. Jasas cituojamas tarp autorių, kurių darbai siejami su skalvių lietuvišku
 - t-003
   global_id: t-64832
   teiginys: 'R. Jasas 1959 m. paskelbė darbą „Didysis prūsų sukilimas 1260-1274 m.“ apie lietuvių kovas su kryžiuočiais ir kalavijuočiais.'
+  sudarymo_pagrindimas: 'Citata palaiko tikslesnį sakinį apie paskelbtą darbą ir jo teminį kontekstą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/LTSR Mokslų Akademijos Istorijos Institutas|LTSR Mokslų Akademijos Istorijos Institutas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/autoriai/Rimantas Jasas|Rimantas Jasas]]; mentioned_place: Lietuva; mentioned_place: Prūsai'
+  temporaliniai_duomenys: 'įvykio data: 1260-1274; įvykio data: 1274 m.; įvykio data: 1959 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko tikslesnį sakinį apie paskelbtą darbą ir jo teminį kontekstą.'
   pagrindžia:
     - c-003
-
+- susijęs iš [[objektai/autoriai/Lietuvos istorikai ir socialinės istorijos tyrėjai.md#claim-t-179536|Lietuvos istorikai ir socialinės istorijos tyrėjai]]: R. Jasas ir M. Jučas buvo tarp istorikų, aprašiusių lietuvių kovas su kryžiuočiais ir kalavijuočiais.
+- susijęs iš Lietuvos metraštis Bychovco kronika Parengė R. Jasas: R. Jasas parengė leidinį „Lietuvos metraštis: Bychovco kronika“, išleistą Vilniuje 1971 m.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -86,13 +100,3 @@ R. Jasas cituojamas tarp autorių, kurių darbai siejami su skalvių lietuvišku
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kalavijuočių ordinas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/LTSR Mokslų Akademijos Istorijos Institutas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Skalviai]]
-- [[objektai/grupes/Teutonai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

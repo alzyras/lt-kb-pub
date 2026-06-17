@@ -30,6 +30,11 @@ Nenurodyta
 - t-001
   global_id: t-185690
   teiginys: 'Antrosios Smolensko apgulties metu priešas pabūklais sugriovė didelę gynybinės sienos dalį.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys perrašytas trumpai ir be sąlyginio pertekliaus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_object: [[objektai/daiktai/Pjūklai|Pjūklai]]; mentioned_place: Smolenskas; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -66,9 +71,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Maskvėnai]]
-- [[objektai/daiktai/Pjūklai]]
-- [[objektai/grupes/Rytas]]

@@ -4,9 +4,10 @@ pavadinimas: '„nepriklausomybė svarbiausia“'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
+  - '1934 m.'
   - '2013 m.'
   - '2026 m.'
-date_start: '2013'
+date_start: '1934'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
@@ -14,6 +15,7 @@ tags:
   - diplomatas
   - posakis
 amziai:
+  - 'XX'
   - 'XXI'
 ---
 # „nepriklausomybė svarbiausia“
@@ -28,6 +30,9 @@ amziai:
 - t-001
   global_id: t-75618
   teiginys: 'Stasys Lozoraitis laikėsi idėjos „nepriklausomybė svarbiausia“ ir modus vivendi su Lenkija laikė būtina jos sąlyga.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Modus vivendi|Modus vivendi]]; mentioned_object: [[objektai/zodynas/diplomatija|diplomatija]]; mentioned_person: [[objektai/asmenys/Stasys Lozoraitis|Stasys Lozoraitis]]; mentioned_person: [[objektai/asmenys/Stasys Raštikis|Stasys Raštikis]]; mentioned_place: Kaunas; mentioned_place: Lenkija'
+  temporaliniai_duomenys: 'įvykio data: 1934 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -35,6 +40,11 @@ amziai:
 - t-002
   global_id: t-75619
   teiginys: 'Stasys Lozoraitis laikėsi idėjos „nepriklausomybė svarbiausia“ ir modus vivendi su Lenkija laikė būtina nepriklausomybės sąlyga.'
+  sudarymo_pagrindimas: 'Pašalintas puslapio triukšmas ir pataisyta gramatika.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Modus vivendi|Modus vivendi]]; mentioned_object: [[objektai/zodynas/diplomatija|diplomatija]]; mentioned_person: [[objektai/asmenys/Stasys Lozoraitis|Stasys Lozoraitis]]; mentioned_person: [[objektai/asmenys/Stasys Raštikis|Stasys Raštikis]]; mentioned_place: Kaunas; mentioned_place: Lenkija'
+  temporaliniai_duomenys: 'įvykio data: 1934 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas puslapio triukšmas ir pataisyta gramatika.'
   pagrindžia:
     - c-001
 
@@ -59,14 +69,3 @@ amziai:
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/schema]]
-
-### Susiję objektai
-- [[objektai/asmenys/Stasys Lozoraitis]]
-- [[objektai/asmenys/Stasys Raštikis]]
-- [[objektai/zodynas/diplomatija]]
-- [[objektai/zodynas/Modus vivendi]]
-- [[objektai/ivykiai/S. Lozoraičio slapto memorandumo įteikimas A. Smetonai (1935 m. balandis)]]

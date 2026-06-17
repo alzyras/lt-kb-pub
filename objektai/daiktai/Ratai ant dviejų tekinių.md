@@ -38,9 +38,12 @@ Nenurodyta
 - t-001
   global_id: t-08319
   teiginys: 'Pirmieji kalnėnų ir žemaičių ratai buvo ant dviejų tekinių, vadinamų šliuižiu.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai pagrįstas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalnėnai|Kalnėnai]]; mentioned_object: [[objektai/zodynas/Šliuižiai|Šliuižiai]]'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/zodynas/Šliuižiai.md#claim-t-07640|šliuižiai]]: Šliuižiai buvo pirmieji kalnėnų ir žemaičių ratai ant dviejų tekinių.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -54,8 +57,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kalnėnai]]
-- [[objektai/zodynas/Šliuižiai|šliuižiai]]

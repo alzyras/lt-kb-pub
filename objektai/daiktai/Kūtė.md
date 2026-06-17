@@ -38,6 +38,9 @@ Nenurodyta
 - t-001
   global_id: t-08300
   teiginys: 'Namo tvarte, arba kūtėje, laikytos karvės, jaučiai ir avys, o už jo buvo atskira arklių kūtė.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Citata palaiko gyvulių laikymą kūtėje ir atskirą arklių kūtę.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]'
   pagrindžia:
     - c-001
 
@@ -45,6 +48,8 @@ Nenurodyta
 - t-002
   global_id: t-08301
   teiginys: 'Už arklių kūtės dar buvo kiaulių kūtelė, o bandos tvarte laikydavo žąsis ir pyles.'
+  teiginio_tipas: 'faktas'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]'
   pagrindžia:
     - c-002
 
@@ -86,8 +91,3 @@ Nenurodyta
 ## Pastabos
 
 - terminas sutampa su žodyno vartosena, bet šiame gabale aiškiai kalbama apie konkretų gyvulių pastatą.
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Namas]]
-- [[objektai/zodynas/Adynos|adynos]]

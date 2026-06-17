@@ -21,6 +21,8 @@ Sapiegos. Šios Sapiegų kariuomenės dalies gynyba neleido respublikonams organ
 - t-001
   global_id: t-78446
   teiginys: 'M. P. Sapiega, gavęs Višnioveckių saugumo garantijas, pasidavė respublikonams su visa likusia kariuomene.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus sakinys apie Sapiegų kariuomenės pasidavimą ir remiasi citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Respublikonai|Respublikonai]]; mentioned_place: Bauskė; mentioned_place: Druja; mentioned_place: Mintauja'
   pagrindžia:
     - c-001
 
@@ -28,6 +30,7 @@ Sapiegos. Šios Sapiegų kariuomenės dalies gynyba neleido respublikonams organ
 - t-002
   global_id: t-78447
   teiginys: 'M. P. Sapiega pasidavė respublikonams kartu su visa likusia Sapiegų kariuomene.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Respublikonai|Respublikonai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/B. P. Sapiega|B. P. Sapiega]]; mentioned_person: [[objektai/asmenys/M. P. Sapiega|M. P. Sapiega]]'
   pagrindžia:
     - c-002
 
@@ -35,9 +38,10 @@ Sapiegos. Šios Sapiegų kariuomenės dalies gynyba neleido respublikonams organ
 - t-003
   global_id: t-78448
   teiginys: 'Sapiegų kariuomenės dalies gynyba sutrukdė respublikonams persekioti besitraukiančius Sapiegų giminės senjorus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Respublikonai|Respublikonai]]; mentioned_place: Bauskė; mentioned_place: Druja; mentioned_place: Mintauja'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/zodynas/dvarų milicija.md#claim-t-02981|dvarų milicija]]: Dvarų milicija buvo didikų atsivesta samdyta kariuomenė.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -84,11 +88,3 @@ Sapiegos. Šios Sapiegų kariuomenės dalies gynyba neleido respublikonams organ
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/B. P. Sapiega]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/zodynas/dvarų milicija]]
-- [[objektai/asmenys/M. P. Sapiega]]
-- [[objektai/grupes/Respublikonai]]

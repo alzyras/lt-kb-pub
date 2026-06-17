@@ -18,6 +18,11 @@ Laiške karaliui Ivanas pasirašė nauju Livonijos valdovo titulu.
 - t-001
   global_id: t-186330
   teiginys: 'Laiške karaliui Ivanas pasirašė nauju Livonijos valdovo titulu.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata pagrindžia, kad laiške Ivanas prisidėjo Livonijos valdovo titulą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/legatai|legatai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Ivanas|Ivanas]]; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Viena'
   pagrindžia:
     - c-001
 

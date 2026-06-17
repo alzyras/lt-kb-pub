@@ -20,6 +20,8 @@ AK-47 automatika veikia dujų nuvedimo principu, kai dalis kulką iš vamzdžio 
 - t-001
   global_id: t-38745
   teiginys: 'AK-47 automatika veikia dujų nuvedimo principu, kai dalis kulką iš vamzdžio išstumiančių parako dujų grąžina spyną į galinę padėtį ir tokiu būdu leidžia kitam šoviniui iš dėtuvės patekti į šovinio lizdą.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai pagrįstas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Parakas|Parakas]]; mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]'
   pagrindžia:
     - c-001
 
@@ -42,8 +44,3 @@ AK-47 automatika veikia dujų nuvedimo principu, kai dalis kulką iš vamzdžio 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Parakas]]
-- [[objektai/daiktai/Šautuvai]]

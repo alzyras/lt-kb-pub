@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Užsienyje gyvenantys lietuviai statė Romo Kalantos paminklus ir kitus atminimo simbolius bendruomenių susibūrimo vietose. Romo Kalantos auka sulaukė didžiulio atgarsio, kėlė Lietuvos nelaisvės klausimą, o kauniečiai kasmet minėdavo gegužės 14-ąją.
+Romo Kalantos atminimo paminklai ir simboliai minimi kaip užsienyje gyvenusių lietuvių bendruomenių susibūrimo vietose statyti atminimo objektai.
 
 ## Pavadinimai šaltiniuose
 
@@ -41,6 +41,7 @@ Nenurodyta
 - t-001
   global_id: t-45538
   teiginys: 'Užsienyje gyvenantys lietuviai statė Romo Kalantos paminklus ir kitus atminimo simbolius bendruomenių susibūrimo vietose.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kaunas; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -48,6 +49,8 @@ Nenurodyta
 - t-002
   global_id: t-45539
   teiginys: 'Romo Kalantos auka sulaukė didžiulio atgarsio, kėlė Lietuvos nelaisvės klausimą, o kauniečiai kasmet minėdavo gegužės 14-ąją.'
+  sudarymo_pagrindimas: 'Reikia išskleisti inicialą į pilną asmens vardą ir pavardę pagal objekto pavadinimą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -83,14 +86,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/simbolis]]
-
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/asmenys/Romas Kalanta]]
-- [[objektai/daiktai/Tautinės vėliavos]]
-- [[objektai/posakiai/„Laisvę Lietuvai!“]]

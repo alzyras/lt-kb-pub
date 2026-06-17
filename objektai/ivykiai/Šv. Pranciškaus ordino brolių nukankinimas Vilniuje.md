@@ -30,6 +30,11 @@ Nenurodyta
 - t-001
   global_id: t-185792
   teiginys: 'Goštautui išvykus į Tikociną, Vilniuje sukurstyta minia nužudė keturiolika krikščionių vienuolių.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata leidžia pakeisti miglotą formuluotę konkrečiu faktu apie keturiolikos vienuolių nužudymą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_place: Tikocinas; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -59,9 +64,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]]
-- [[objektai/daiktai/Kryžius]]
-- [[objektai/grupes/Lietuviai]]

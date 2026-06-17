@@ -20,9 +20,12 @@ Būrininkas Baziliauskas nusmeigė dar kelis komisarus, ir tuo būdu per minutę
 - t-001
   global_id: t-80730
   teiginys: 'Būrininkas Baziliauskas bolševikų štabe nusmeigė kelis komisarus.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nurodo Baziliausko veiksmą ir yra paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Durtuvas|Durtuvas]]; mentioned_person: [[objektai/asmenys/Barkauskas|Barkauskas]]; mentioned_person: [[objektai/asmenys/Lukoševičius|Lukoševičius]]; mentioned_person: [[objektai/asmenys/Palačinskas|Palačinskas]]'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Lukoševičius.md#claim-t-80739|Lukoševičius]]: Skyrininkas Lukoševičius nudūrė leitenantą Barkauską už gerklės griebusį komisarą.
+- susijęs iš [[objektai/asmenys/Palačinskas.md#claim-t-80742|Palačinskas]]: Eilinis Palačinskas bolševikų štabe nudūrė vieną komisarą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -42,7 +45,3 @@ Būrininkas Baziliauskas nusmeigė dar kelis komisarus, ir tuo būdu per minutę
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Durtuvas]]

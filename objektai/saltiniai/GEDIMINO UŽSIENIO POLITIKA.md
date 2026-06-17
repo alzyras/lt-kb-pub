@@ -20,6 +20,7 @@ P-34, „GEDIMINO UŽSIENIO POLITIKA“, Romas Batūra.
 - t-001
   global_id: t-80763
   teiginys: 'P-34, „GEDIMINO UŽSIENIO POLITIKA“, Romas Batūra.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_person: [[objektai/autoriai/Karolis Zikaras|Karolis Zikaras]]; mentioned_person: [[objektai/autoriai/R. Batūra|R. Batūra]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

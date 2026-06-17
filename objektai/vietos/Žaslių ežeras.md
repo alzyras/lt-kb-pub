@@ -1,24 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Žaslių ežeras'
-variantai:
-  - 'Žaslių ežeru'
-aliases: []
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
 atnaujinta: ''
-laikotarpis: ''
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: ''
 tags:
   - vieta
 ---
@@ -29,26 +15,30 @@ tags:
 Pajautos stabas buvo pastatytas ties Žaslių ežeru. Žaslių ežeras kronikoje siejamas su Pajautos kultu.
 
 ## Teiginiai
+
 <a id="claim-t-187412"></a>
 - t-001
   global_id: t-187412
-  teiginys: 'Pajautos stabas buvo pastatytas ties Žaslių ežeru.'
+  teiginys: 'Lietuvos metraštyje Žaslių ežeras siejamas su Pajautos stabu, kurį žmonės garbino ir Pajautą laikė deive.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Religinis vertinimas ir kulto vaizdavimas turi likti šaltiniui priskirti.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Pajauta|Pajauta]]; mentioned_place: Lietuva; mentioned_place: Naugardukas'
   pagrindžia:
     - c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  statusas: patvirtinta
+
 <a id="claim-t-187413"></a>
 - t-002
   global_id: t-187413
-  teiginys: 'Žaslių ežeras kronikoje siejamas su Pajautos kultu.'
+  teiginys: 'Lietuvos metraštyje Kukovaitis pastato motinos Pajautos vardo stabą ties Žaslių ežeru jos atminimui pagerbti.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys jau yra pilnas lietuviškas sakinys su aiškiu subjektu ir veiksmo vieta. Legendinis pasakojimas paliktas susietas su Lietuvos metraščiu, nepridedant detalių apie Pajautos dievinimą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Kukovaitis|Kukovaitis]]; mentioned_person: [[objektai/asmenys/Pajauta|Pajauta]]; mentioned_place: Lietuva; mentioned_place: Naugardukas'
   pagrindžia:
     - c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Pajautos stabas buvo pastatytas ties Žaslių ežeru.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     Didžiajam Lietuvos ir Žemaičių kunigaikščiui Ku-
@@ -60,11 +50,9 @@ Pajautos stabas buvo pastatytas ties Žaslių ežeru. Žaslių ežeras kronikoje
     padirbo stabą ir pastatė tą savo motinos Pajautos vardo
     stabą ties Žaslių ežeru. O tą jos stabą garbino ir Pa­
     jautą laikė deive.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
     - t-002
+    - t-001

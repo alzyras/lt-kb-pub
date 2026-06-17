@@ -49,6 +49,10 @@ Nenurodyta
 - t-001
   global_id: t-31429
   teiginys: 'Kijevo Mstislavas 1131 m. grįžo iš žygio į Lietuvą su daug belaisvių, o 1132 m. jo žygis baigėsi pralaimėjimu.'
+  susije_objektai: 'event: [[objektai/ivykiai/Kijevo Mstislavo žygiai į Lietuvą (1131–1132 m.)|Kijevo Mstislavo žygiai į Lietuvą (1131–1132 m.)]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/posakiai/na Litvu|na Litvu]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Jaroslavas|Jaroslavas]]; mentioned_place: Kijevas; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Jaroslavas|Jaroslavas]] dalyvavo mūšyje [[objektai/ivykiai/Kijevo Mstislavo žygiai į Lietuvą (1131–1132 m.)|Kijevo Mstislavo žygiai į Lietuvą (1131–1132 m.)]]'
+  temporaliniai_duomenys: 'mūšio data: 1131 m.; mūšio data: 1132 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Jaroslavas dalyvavo mūšyje Kijevo Mstislavo žygiai į Lietuvą (1131–1132 m.)“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 
@@ -56,6 +60,10 @@ Nenurodyta
 - t-002
   global_id: t-31430
   teiginys: 'Metraščiuose 1131–1132 m. minimi Kijevo Mstislavo žygiai į Lietuvą galėjo būti vienas ir tas pats žygis.'
+  susije_objektai: 'event: [[objektai/ivykiai/Kijevo Mstislavo žygiai į Lietuvą (1131–1132 m.)|Kijevo Mstislavo žygiai į Lietuvą (1131–1132 m.)]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] dalyvavo mūšyje [[objektai/ivykiai/Kijevo Mstislavo žygiai į Lietuvą (1131–1132 m.)|Kijevo Mstislavo žygiai į Lietuvą (1131–1132 m.)]]'
+  temporaliniai_duomenys: 'mūšio data: 1113 m.; mūšio data: 1131 m.; mūšio data: 1131-1132; mūšio data: 1132 m.; mūšio data: 1205 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Lietuviai dalyvavo mūšyje Kijevo Mstislavo žygiai į Lietuvą (1131–1132 m.)“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -96,8 +104,5 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Jaroslavas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/posakiai/na Litvu]]
-- [[objektai/zodynas/žygis]]
+- [[objektai/asmenys/Jaroslavas]] dalyvavo_musyje Kijevo Mstislavo žygiai į Lietuvą (1131–1132 m.)
+- [[objektai/grupes/Lietuviai]] dalyvavo_musyje Kijevo Mstislavo žygiai į Lietuvą (1131–1132 m.)

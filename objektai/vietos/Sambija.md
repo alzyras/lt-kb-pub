@@ -27,6 +27,11 @@ Pasidalinę mažais būre­ liais ir nuterioję kelias Sambijos krašto sritis, 
 - t-001
   global_id: t-36567
   teiginys: '1370 m. vasarį lietuviai mažais būreliais nusiaubė kelias Sambijos krašto sritis.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Sambijos sričių nusiaubimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Prūsai; mentioned_place: Rudava'
+  temporaliniai_duomenys: 'įvykio data: 1370 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie Sambijos sričių nusiaubimą.'
   pagrindžia:
     - c-001
 

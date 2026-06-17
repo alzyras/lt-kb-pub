@@ -20,6 +20,7 @@ Anglijoje leidžiamo žurnalo Spectator tradicijas.
 - t-001
   global_id: t-88476
   teiginys: 'Anglijoje leidžiamo žurnalo Spectator tradicijas.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.)|Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.)]]; mentioned_group: [[objektai/grupes/Šubravcų draugija|Šubravcų draugija]]; mentioned_place: Anglija'
   pagrindžia:
     - c-001
 

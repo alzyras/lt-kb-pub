@@ -3,6 +3,10 @@ tipas: asmuo
 pavadinimas: 'Karolis (švedų kunigaikštis)'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+datos:
+  - '1260 m.'
+date_start: '1260'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -10,6 +14,10 @@ tags:
   - karas
   - kunigaikštis
   - ordinas
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'LDK'
 ---
 # Karolis (švedų kunigaikštis)
 
@@ -23,6 +31,10 @@ tags:
 - t-001
   global_id: t-40261
   teiginys: 'Švedų kunigaikštis Karolis vadovavo Revelio danų kariuomenei ir turėjo savo būrį.'
+  susije_objektai: 'territory: Europa; territory: Lietuva; territory: Livonija; territory: Prūsija; territory: Revelis; territory: Vokietija; mentioned_group: [[objektai/grupes/Estai|Estai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/kryžininkai|kryžininkai]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Revelis; mentioned_place: Vokietija'
+  semantiniai_rysiai: '[[objektai/asmenys/Karolis (švedų kunigaikštis)|Karolis (švedų kunigaikštis)]] buvo valdovas Europa; [[objektai/asmenys/Karolis (švedų kunigaikštis)|Karolis (švedų kunigaikštis)]] buvo valdovas Lietuva; [[objektai/asmenys/Karolis (švedų kunigaikštis)|Karolis (švedų kunigaikštis)]] buvo valdovas Livonija; [[objektai/asmenys/Karolis (švedų kunigaikštis)|Karolis (švedų kunigaikštis)]] buvo valdovas Prūsija; [[objektai/asmenys/Karolis (švedų kunigaikštis)|Karolis (švedų kunigaikštis)]] buvo valdovas Revelis; [[objektai/asmenys/Karolis (švedų kunigaikštis)|Karolis (švedų kunigaikštis)]] buvo valdovas Vokietija'
+  temporaliniai_duomenys: 'valdymo laikotarpis: 1260 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Karolis (švedų kunigaikštis) buvo valdovas Europa“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Karolis (švedų kunigaikštis) buvo valdovas Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Karolis (švedų kunigaikštis) buvo valdovas Livonija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Karolis (švedų kunigaikštis) buvo valdovas Prūsija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Karolis (švedų kunigaikštis) buvo valdovas Revelis“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Karolis (švedų kunigaikštis) buvo valdovas Vokietija“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -53,16 +65,9 @@ tags:
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Estai]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/zodynas/kryžininkai]]
-- [[objektai/grupes/Švedai]]
-- [[objektai/asmenys/Karolis]]
-- [[objektai/grupes/Danijos karaliaus kariai iš Revelio]]
-- [[objektai/grupes/Livonijos ordinas]]
-- [[objektai/grupes/Notangai]]
-- [[objektai/grupes/Pamedėnai]]
-- [[objektai/grupes/Sembai]]
-- [[objektai/grupes/Varmiai]]
+- Karolis (švedų kunigaikštis) buvo_valdovas [[objektai/vietos/Europa]]
+- Karolis (švedų kunigaikštis) buvo_valdovas [[objektai/vietos/Lietuva]]
+- Karolis (švedų kunigaikštis) buvo_valdovas [[objektai/vietos/Livonija]]
+- Karolis (švedų kunigaikštis) buvo_valdovas [[objektai/vietos/Prūsija]]
+- Karolis (švedų kunigaikštis) buvo_valdovas [[objektai/vietos/Revelis]]
+- Karolis (švedų kunigaikštis) buvo_valdovas [[objektai/vietos/Vokietija]]

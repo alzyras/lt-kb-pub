@@ -26,6 +26,11 @@ Kaip pats prisipažino atsiminimuose, turėjęs „gimti Mickūnuose, jei ne tų
 - t-001
   global_id: t-86855
   teiginys: 'Michałas Balińskis atsiminimuose rašė, kad būtų gimęs Mickūnuose, jei ne jėgerių ir kazokų užpuolimas.'
+  sudarymo_pagrindimas: 'Citata leidžia sutvarkyti sakinį ir aiškiai įvardyti asmenį bei teiginio šaltinį atsiminimuose.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]'
+  temporaliniai_duomenys: 'įvykio data: 1794 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata leidžia sutvarkyti sakinį ir aiškiai įvardyti asmenį bei teiginio šaltinį atsiminimuose.'
   pagrindžia:
     - c-001
 
@@ -45,9 +50,3 @@ Kaip pats prisipažino atsiminimuose, turėjęs „gimti Mickūnuose, jei ne tų
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Aleksandras Balinskis]]
-- [[objektai/grupes/Kazokai]]
-- [[objektai/autoriai/Mykolas Balinskis]]

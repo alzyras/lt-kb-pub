@@ -20,6 +20,8 @@ Lietuvos Metrikos rusėnų kalbą pateko ir buvo vartojamos net Ukrainoje lietuv
 - t-001
   global_id: t-22217
   teiginys: 'XV–XVI a. Lietuvos Metrikos rusėnų kalboje vartotos lietuviškos ūkio sąvokos, tarp jų „litovka“, „doilida“, „jevje“ ir „sviren“.'
+  sudarymo_pagrindimas: 'Teiginys yra faktinis, pilnas ir atitinka citatoje išvardytas lietuviškas ūkio sąvokas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_object: [[objektai/zodynas/alodas alodinė nuosavybė|alodas alodinė nuosavybė]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Ukraina'
   pagrindžia:
     - c-001
 
@@ -27,6 +29,11 @@ Lietuvos Metrikos rusėnų kalbą pateko ir buvo vartojamos net Ukrainoje lietuv
 - t-002
   global_id: t-183443
   teiginys: 'XV–XVI a. Lietuvos Metrikos rusėnų kalboje vartotos lietuviškos ūkio ir gerovės sąvokos, tarp jų „litovka“, „jevje“, „sviren“ ir „skilond“.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys aiškiai perteikia citatos informaciją apie ūkio ir gerovės sąvokas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_place: Lietuva; mentioned_place: Ukraina'
   pagrindžia:
     - c-002
 
@@ -65,8 +72,3 @@ Lietuvos Metrikos rusėnų kalbą pateko ir buvo vartojamos net Ukrainoje lietuv
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Rusėnai]]
-- [[objektai/zodynas/alodas alodinė nuosavybė|alodas / alodinė nuosavybė]]

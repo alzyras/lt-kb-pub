@@ -20,6 +20,8 @@ Dusburgietis teigia, kad vienas brolis, vardu [..?] iš Glizbergo, buvo pasiekę
 - t-001
   global_id: t-59135
   teiginys: 'Brolis iš Glizbergo per Didžiojo penktadienio pamaldas atsisakė būti apkabintas nukryžiuotojo medinių rankų.'
+  sudarymo_pagrindimas: 'Citata remia faktą, bet reikia pašalinti neaiškų vardą ir perteklinę atribuciją.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]'
   pagrindžia:
     - c-001
 
@@ -39,7 +41,3 @@ Dusburgietis teigia, kad vienas brolis, vardu [..?] iš Glizbergo, buvo pasiekę
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Kryžius]]

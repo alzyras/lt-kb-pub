@@ -33,6 +33,11 @@ Nenurodyta
 - t-001
   global_id: t-185889
   teiginys: 'Kojelavičiaus pasakojime Palemonas Lietuvoje nepanaikino daugelio dievų garbinimo ir senąsias apeigas papildė naujais prietarais.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys aiškus ir pagrįstai priskiria pasakojimą Kojelavičiui.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Gotai|Gotai]]; mentioned_group: [[objektai/grupes/Langobardai|Langobardai]]; mentioned_object: [[objektai/zodynas/barbarai|barbarai]]; mentioned_person: [[objektai/asmenys/Palemonas|Palemonas]]; mentioned_place: Italija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -40,6 +45,11 @@ Nenurodyta
 - t-002
   global_id: t-185890
   teiginys: 'Kojelavičiaus pasakojime Palemonas Romanovą paskyrė vyriausiajam žyniui, turėjusiam saugoti tikėjimą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata tiesiogiai remia faktą apie Romanovos paskyrimą vyriausiajam žyniui.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/asmenys/Palemonas|Palemonas]]; mentioned_place: Lietuva; mentioned_place: Romanova'
   pagrindžia:
     - c-002
 
@@ -85,13 +95,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Gotai]]
-- [[objektai/grupes/Langobardai]]
-- [[objektai/asmenys/Palemonas]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/zodynas/barbarai]]
-- [[objektai/zodynas/kunigas]]
-- [[objektai/asmenys/Petras iš Dusburgo|Petras iš Dusburgo (kunigas)]]

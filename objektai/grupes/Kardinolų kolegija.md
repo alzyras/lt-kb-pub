@@ -29,9 +29,12 @@ Dusburgietis teigia, kad apie tris saulės spindulius ir kolegijos suskilimą 13
 - t-001
   global_id: t-62600
   teiginys: 'Po popiežiaus mirties kardinolų kolegijos skilimas truko dvejus metus ir keturis mėnesius, kol kardinolai sutarė dėl naujo popiežiaus.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiksliai perteikia citatos faktą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/senatas|senatas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Viena'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/ivykiai/Trijų saulių pasirodymas ir kardinolų kolegijos skilimas (1314–1316 m.).md#claim-t-62942|Trijų saulių pasirodymas ir kardinolų kolegijos skilimas (1314–1316 m.)]]: Dusburgietis trijų saulių pasirodymą laikė ženklu, kad mirs popiežius, o po jo mirties suskils kardinolų kolegija.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -53,9 +56,3 @@ Dusburgietis teigia, kad apie tris saulės spindulius ir kolegijos suskilimą 13
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/senatas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/ivykiai/Trijų saulių pasirodymas ir kardinolų kolegijos skilimas (1314–1316 m.)]]

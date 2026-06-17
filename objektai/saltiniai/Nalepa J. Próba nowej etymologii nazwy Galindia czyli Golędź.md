@@ -26,6 +26,10 @@ Dusburgietis teigia, kad nalepa J.
 - t-001
   global_id: t-61191
   teiginys: 'J. Nalepos darbas apie Galindijos, arba Golędź, vardo etimologiją paskelbtas 1976 m. ABS 9 tome, p. 191–209.'
+  sudarymo_pagrindimas: 'Citata pagrindžia pavadinimą, leidimo metus, tomą ir puslapius.'
+  temporaliniai_duomenys: 'įvykio data: 1976 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia pavadinimą, leidimo metus, tomą ir puslapius.'
   pagrindžia:
     - c-001
 

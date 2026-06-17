@@ -12,44 +12,37 @@ tags:
 
 ## Santrauka
 
-Inventoriai negalėjo daug padėti valstiečiams, nes jie liko beteisiai ir neturėjo kam skųstis ponui didinant prievoles. Inventoriai buvo rengiami valstiečių prievolėms suvienodinti, juose nuo seno buvo surašomos visos valstiečių pareigos.
+Tam tikslui buvo įsakyta paruošti vadinamuo- sius inventorius, kuriuose nuo seno buvo surašomos visos valstiečių pareigos. Tačiau tie inventoriai nega- lėjo daug padėti, nes valstiečiai vis tiek pasiliko beteisiai: jei ponas didino prievoles, jie neturėjo kam pasiskųsti. Kokios pa- reigos būdavo pažymėtos tuose inventoriuose, tokias valstiečiai turė- davo ir eiti tiems dvarams.
 
 ## Teiginiai
+
 <a id="claim-t-72696"></a>
 - t-001
   global_id: t-72696
-  teiginys: 'Inventoriai buvo rengiami valstiečių prievolėms suvienodinti, juose nuo seno buvo surašomos visos valstiečių pareigos.'
+  teiginys: 'Inventoriai negalėjo daug padėti valstiečiams, nes jie liko beteisiai ir neturėjo kam skųstis ponui didinant prievoles.'
+  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir sakinys perrašytas glaustai.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+
 <a id="claim-t-72699"></a>
 - t-002
   global_id: t-72699
-  teiginys: 'Inventoriai negalėjo daug padėti valstiečiams, nes jie liko beteisiai ir neturėjo kam skųstis ponui didinant prievoles.'
+  teiginys: 'Inventoriai buvo rengiami valstiečių prievolėms suvienodinti, juose nuo seno buvo surašomos visos valstiečių pareigos.'
+  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir neaiški nuoroda „tam tikslui“.'
   pagrindžia:
     - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-
+- susijęs iš [[objektai/autoriai/K. Jablonskis.md#claim-t-179503|K. Jablonskis]]: K. Jablonskis sudarė pirmąjį XVI–XVII a. dokumentų rinkinio „Lietuvos valstiečių ir miestelėnų ginčai su dvarų valdytojais“ tomą.
+- susijęs iš [[objektai/autoriai/Konstantinas Jablonskis.md#claim-t-179507|Konstantinas Jablonskis]]: Konstantinas Jablonskis sudarė pirmąjį rinkinio „Lietuvos valstiečių ir miestelėnų ginčai su dvarų valdytojais“ tomą.
+- susijęs iš [[objektai/autoriai/Lietuvos istorikai ir socialinės istorijos tyrėjai.md#claim-t-179538|Lietuvos istorikai ir socialinės istorijos tyrėjai]]: P. Dundulienė, R. Marčėnas ir A. Makarevičius rašė apie žemdirbystės istoriją Lietuvoje ir ekonomikos klausimus.
+- susijęs iš [[objektai/autoriai/P. Dundulienė.md#claim-t-30896|P. Dundulienė]]: P. Dundulienė rašė Lietuvos žemdirbystės istorijos klausimais ir 1963 m. paskelbė veikalą „Žemdirbystė Lietuvoje“.
+- susijęs iš [[objektai/paprociai/Valstiečių prievolių inventorizavimas ir suvienodinimas.md#claim-t-02041|Valstiečių prievolių inventorizavimas ir suvienodinimas]]: Privatiniuose dvaruose valstiečių prievolėms suvienodinti buvo įsakyta parengti inventorius, kuriuose surašytos jų pareigos.
+- susijęs iš Lietuvos inventoriai XVII amž: Rinkinys „Lietuvos inventoriai XVII amž.“ buvo sudarytas drauge su M. Juču ir išleistas 1962 m.
+- susijęs iš Prūsijos valdžios gromatos, pagraudenimai ir apsakymai lietuviams valstiečiams: Jablonskis 1960 m. suredagavo „Prūsijos valdžios gromatos, pagraudenimai ir apsakymai lietuviams valstiečiams“ ir parašė pratarmę.
+- susijęs iš Prūsija: 1960 m. buvo suredaguotas leidinys „Prūsijos valdžios gromatos, pagraudenimai ir apsakymai lietuviams valstiečiams“.
+- susijęs iš Šiaulių ekonomija: R. Marčėnas 1969 m. paskelbė darbą apie Šiaulių ekonomijos valstiečių sukilimą 1769 m.
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Inventoriai buvo rengiami valstiečių prievolėms suvienodinti, juose nuo seno buvo surašomos visos valstiečių pareigos.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Privatiniuose dvaruose tebuvo tik suvienodintos vals-
-    tiečių prievolės. Tam tikslui buvo įsakyta paruošti vadinamuo-
-    sius inventorius, kuriuose nuo seno buvo surašomos visos
-    valstiečių pareigos. Inventoriams suvienodinti visose gubernijose
-    buvo įsteigti specialūs komitetai.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
   santrauka: 'Inventoriai negalėjo daug padėti valstiečiams, nes jie liko beteisiai ir neturėjo kam skųstis ponui didinant prievoles.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -61,18 +54,23 @@ Inventoriai negalėjo daug padėti valstiečiams, nes jie liko beteisiai ir netu
 
 
     ponas didino prievoles, jie neturėjo kam pasiskųsti.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-002
+  santrauka: 'Inventoriai buvo rengiami valstiečių prievolėms suvienodinti, juose nuo seno buvo surašomos visos valstiečių pareigos.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Privatiniuose dvaruose tebuvo tik suvienodintos vals-
+    tiečių prievolės. Tam tikslui buvo įsakyta paruošti vadinamuo-
+    sius inventorius, kuriuose nuo seno buvo surašomos visos
+    valstiečių pareigos. Inventoriams suvienodinti visose gubernijose
+    buvo įsteigti specialūs komitetai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/K. Jablonskis]]
-- [[objektai/autoriai/Konstantinas Jablonskis]]
-- [[objektai/autoriai/Lietuvos istorikai ir socialinės istorijos tyrėjai]]
-- [[objektai/autoriai/P. Dundulienė]]
-- [[objektai/paprociai/Valstiečių prievolių inventorizavimas ir suvienodinimas]]

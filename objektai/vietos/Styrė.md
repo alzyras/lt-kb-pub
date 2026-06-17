@@ -18,9 +18,14 @@ Lenkams prie Lucko reikėjo persikelti per Styrės upę, tekančią dumbluota va
 - t-001
   global_id: t-185308
   teiginys: 'Lenkams prie Lucko reikėjo persikelti per Styrės upę, tekančią dumbluota vaga per pelkes tarp aukštų krantų.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys gramatiškai apibūdina Styrės upę ir lenkų veiksmą pagal citatą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Luckas'
   pagrindžia:
     - c-001
-
+- susijęs iš Luckas: Karo veiksmai artėjo prie Lucko, nes niekas nedrįso ginklu ginti Boleslovo.
 ## Reikšmingi paminėjimai
 
 - c-001

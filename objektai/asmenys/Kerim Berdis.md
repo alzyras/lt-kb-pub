@@ -26,6 +26,14 @@ Kerim Berdis, būdamas galingesnis už brolius, jėga užėmė tai, ko negalėjo
 - t-001
   global_id: t-186052
   teiginys: 'Kerim Berdis, būdamas galingesnis už brolius, jėga užėmė tai, ko negalėjo pasiekti taikiai.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys paremtas citata, bet reikėjo pataisyti vardą ir pašalinti boilerplate.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/chanas|chanas]]'
+  temporaliniai_duomenys: 'įvykio data: 1419 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys paremtas citata, bet reikėjo pataisyti vardą ir pašalinti boilerplate.'
   pagrindžia:
     - c-001
 
@@ -33,6 +41,10 @@ Kerim Berdis, būdamas galingesnis už brolius, jėga užėmė tai, ko negalėjo
 - t-002
   global_id: t-186053
   teiginys: 'Kerim Berdis sutelkė stiprią kariuomenę, mūšyje išsklaidė Tochtamyšo dalinius ir nužudė brolį.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pašalintos OCR klaidos ir įvardytas brolis, kurį leidžia nustatyti citata.'
   pagrindžia:
     - c-002
 
@@ -40,9 +52,15 @@ Kerim Berdis, būdamas galingesnis už brolius, jėga užėmė tai, ko negalėjo
 - t-003
   global_id: t-186054
   teiginys: 'Kerim Berdis, padrąsintas ankstesnės pergalės, ryžtingai su kariuomene užpuolė brolį netoli Volgos.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Fragmentas perrašytas į savarankišką sakinį su aiškiu veikėju ir veiksmu.'
+  susije_objektai: 'mentioned_place: Volga'
   pagrindžia:
     - c-003
-
+- susijęs iš [[objektai/asmenys/Tochtamyšas.md#claim-t-184843|Tochtamyšas]]: Kerim Berdis mūšyje išsklaidė Tochtamyšo dalinius ir nužudė savo brolį Tochtamyšą.
+- susijęs iš Volga: Kerim Berdis netoli Volgos su kariuomene ryžtingai užpuolė savo brolį Jerim Berdį.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -105,9 +123,3 @@ Kerim Berdis, būdamas galingesnis už brolius, jėga užėmė tai, ko negalėjo
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/chanas]]
-- [[objektai/asmenys/Tochtamyšas]]
-- [[objektai/ivykiai/Tochtamyšo priėmimas Vilniuje ir paskelbimas Užvolgio skitų chanu (1419 m.)]]

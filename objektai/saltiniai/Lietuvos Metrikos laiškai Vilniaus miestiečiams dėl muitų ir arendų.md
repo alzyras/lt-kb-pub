@@ -22,6 +22,8 @@ tags:
 - t-001
   global_id: t-88445
   teiginys: 'Lietuvos Metrikoje minimas Žygimanto Senojo laiškas Vilniaus miestiečiui Andrejui Tiekiui dėl Smolensko muito ir smuklių arendavimo.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiksliai paremtas Lietuvos Metrikos laiško aprašymu.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Bobruiskas; mentioned_place: Lietuva; mentioned_place: Smolenskas; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

@@ -20,6 +20,7 @@ tags:
 - t-001
   global_id: t-41460
   teiginys: '„Niekada nesitarsim, nesiderėsim!“ išreiškė atsisakymą priimti siūlomą taikos ir draugystės ranką.'
+  susije_objektai: 'mentioned_place: SSRS'
   pagrindžia:
     - c-001
 

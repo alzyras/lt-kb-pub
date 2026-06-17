@@ -3,11 +3,17 @@ tipas: saltinis
 pavadinimas: 'Bolonijos deklaracija'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1999 m.'
+date_start: '1999'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - mokslininkas
   - saltinis
+amziai:
+  - 'XX'
 ---
 # Bolonijos deklaracija
 
@@ -21,6 +27,11 @@ Siekdama savo švietimo sistemą integruoti į Europą, Lietuva 1999 m. prisidė
 - t-001
   global_id: t-21022
   teiginys: 'Siekdama savo švietimo sistemą integruoti į Europą, Lietuva 1999 m. prisidėjo prie Bolonijos deklaracijos, kuria siekiama sukurti bendrą Europos aukštojo mokslo erdvę.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, enciklopedinis ir tiesiogiai pagrįstas citata.'
+  susije_objektai: 'mentioned_place: Europa; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1999 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, enciklopedinis ir tiesiogiai pagrįstas citata.'
   pagrindžia:
     - c-001
 

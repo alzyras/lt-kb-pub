@@ -34,6 +34,7 @@ Nenurodyta
 - t-001
   global_id: t-09577
   teiginys: 'Kunigas Mackevičius sakė pamokslą ir lenkiškai, ir lietuviškai, o kariuomenė bei žmonių pulkai jo klausėsi tyrame lauke.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -41,6 +42,7 @@ Nenurodyta
 - t-002
   global_id: t-09578
   teiginys: 'Žmones į Salas telkė bažnyčios varpų skambėjimas.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Varpai|Varpai]]; mentioned_place: Viena'
   pagrindžia:
     - c-002
 
@@ -70,10 +72,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Varpai]]
-- [[objektai/zodynas/kunigas]]
-- [[objektai/asmenys/Antanas Mackevičius]]
-- [[objektai/posakiai/Eikime, broliai, už vierą šventą]]

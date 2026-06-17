@@ -20,6 +20,7 @@ Tuskenis.
 - t-001
   global_id: t-19390
   teiginys: 'E. Tuskenis redagavo leidinį „Lithuania in European Politics“.'
+  sudarymo_pagrindimas: 'Citata leidžia pagrįsti redagavimo faktą.'
   pagrindžia:
     - c-001
 

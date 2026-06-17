@@ -5,6 +5,8 @@ saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1230 m.'
+  - '1243 m.'
+  - '1282 m.'
   - '1861 m.'
 date_start: '1230'
 date_end: '1861'
@@ -30,6 +32,11 @@ Dusburgietis teigia, kad tepenas, leisdamas 1861 m. kroniką, pažymėjo, kad Du
 - t-001
   global_id: t-61101
   teiginys: 'M. Tepenas nurodė, kad Dusburgietis rėmėsi 1230 m. kunigaikščio Konrado dovanojamuoju raštu.'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo nutrūkęs; citata pagrindžia Tepeno poziciją apie Dusburgiečio naudotą dokumentą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/autoriai/M. Tepenas|M. Tepenas]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]'
+  temporaliniai_duomenys: 'įvykio data: 1230 m.; įvykio data: 1243 m.; įvykio data: 1282 m.; įvykio data: 1861 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys buvo nutrūkęs; citata pagrindžia Tepeno poziciją apie Dusburgiečio naudotą dokumentą.'
   pagrindžia:
     - c-001
 

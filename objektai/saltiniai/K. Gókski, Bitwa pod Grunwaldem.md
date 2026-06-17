@@ -4,20 +4,21 @@ pavadinimas: 'K. Gókski, Bitwa pod Grunwaldem'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
+  - '1409 m.'
   - '1801 m.'
   - '1888 m.'
   - '1890 m.'
   - '1900 m.'
   - '1910 m.'
   - '1930 m.'
-date_start: '1801'
+date_start: '1409'
 date_end: '1930'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
 amziai:
-  - 'XIX'
+  - 'XV'
   - 'XX'
 ---
 # K. Gókski, Bitwa pod Grunwaldem
@@ -32,6 +33,8 @@ amziai:
 - t-001
   global_id: t-31754
   teiginys: '„Bitwa pod Grunwaldem“ 1888 m. buvo paskelbta „Biblioteka Warszawska“ numeriuose 559–561.'
+  temporaliniai_duomenys: 'įvykio data: 1409 m.; įvykio data: 1888 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

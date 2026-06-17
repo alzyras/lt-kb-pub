@@ -4,9 +4,10 @@ pavadinimas: 'Vilniaus Šv. Kazimiero bažnyčia'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
+  - '1579 m.'
   - '1586 m.'
-date_start: '1586'
-date_end: ''
+date_start: '1579'
+date_end: '1586'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -26,6 +27,11 @@ Barokinė Nesvyžiaus jėzuitų kolegijos bažnyčia pradėta statyti 1586 m., o
 - t-001
   global_id: t-77783
   teiginys: 'Vilniaus Šv. Kazimiero bažnyčia paprastai laikoma barokinės architektūros manifestu Lietuvoje.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie bažnyčios architektūrinį vertinimą.'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Liublinas; mentioned_place: Nesvyžius; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1579 m.; įvykio data: 1586 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie bažnyčios architektūrinį vertinimą.'
   pagrindžia:
     - c-001
 

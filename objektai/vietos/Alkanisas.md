@@ -29,9 +29,11 @@ Tačiau šio karaliaus val­ dymo saulėlydyje, 1571 metais, baisus badas nuo pu
 - t-001
   global_id: t-86166
   teiginys: 'Alkanisas nurodomas kaip Aragono miestas, kuriame gimė teisininkas Petrus Maureus Royzius.'
+  sudarymo_pagrindimas: 'Pradiniame teiginyje sumaišytas nesusijęs tekstas ir pastabos fragmentas, bet citata pagrindžia faktą apie Alkanisą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kustodas|kustodas]]; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_place: Aragonas; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
-
+- susijęs iš Aragonas: Aragone esančiame Alkaniso mieste gimė teisininkas Petrus Maureus Royzius.
 ## Reikšmingi paminėjimai
 
 - c-001

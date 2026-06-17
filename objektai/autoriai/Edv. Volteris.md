@@ -21,6 +21,8 @@ Volteris).
 - t-001
   global_id: t-29323
   teiginys: 'Edv. Volteris Lietuvos vardą kildino iš šiaurės rytų Aukštaičiuose ieškotų „Lietuvos“ upės pėdsakų.'
+  sudarymo_pagrindimas: 'Citata tiesiogiai nurodo Volterio aiškinimą dėl Lietuvos vardo kilmės.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -38,7 +40,3 @@ Volteris).
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]

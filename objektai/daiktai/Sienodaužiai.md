@@ -56,6 +56,8 @@ Nenurodyta
 - t-002
   global_id: t-171481
   teiginys: 'Puldami Gotteswerderį lietuviai naudojo 15 mašinų ir 5 sienodaužius.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Torno'
   pagrindžia:
     - c-001
 
@@ -63,6 +65,7 @@ Nenurodyta
 - t-004
   global_id: t-171483
   teiginys: 'Apgulimo metu pilies mūrams griauti buvo pastatyti sienodaužiai ir pilies mūrų aukščio bokštas.'
+  sudarymo_pagrindimas: 'Įvardytas kontekstas ir pašalintas neaiškus įvardis.'
   pagrindžia:
     - c-002
 
@@ -99,9 +102,3 @@ Nenurodyta
   pagrindžia:
     - t-004
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- [[objektai/grupes/Lietuviai]]

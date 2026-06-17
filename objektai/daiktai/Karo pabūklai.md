@@ -43,6 +43,8 @@ Nenurodyta
 - t-001
   global_id: t-59688
   teiginys: 'Brolis Gerhardas anksčiau garsėjo kaip gabus račius ir didelis karo pabūklų meistras.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai pagrįstas citata.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gerhardas|Gerhardas]]; mentioned_place: Marienburgas; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -68,9 +70,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Gerhardas|Gerhardas (valdovas)]]
-- [[objektai/zodynas/šeimynykštis]]
-- [[objektai/zodynas/šeimynykštis famulus]]

@@ -49,6 +49,8 @@ Nenurodyta
 - t-001
   global_id: t-35956
   teiginys: 'Vytautas per savo valdymą pastatė apie 35 bažnyčias įvairiose Lietuvos valstybės vietose.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 
@@ -56,6 +58,8 @@ Nenurodyta
 - t-002
   global_id: t-35958
   teiginys: 'Įkurtąsias bažnyčias ir vyskupų katedras Vytautas gausiai apdovanojo žemėmis, javais ir pinigais.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys ir tiksliai atitinka citatos informaciją.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -63,6 +67,7 @@ Nenurodyta
 - t-003
   global_id: t-35959
   teiginys: 'Vytautas Lietuvoje statė ne tik bažnyčias, bet ir vienuolynus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Domininkonų ordinas|Domininkonų ordinas]]; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Drahočynas; mentioned_place: Gardinas; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Medininkai; mentioned_place: Trakai; mentioned_place: Vorskla'
   pagrindžia:
     - c-001
 
@@ -116,9 +121,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Domininkonų ordinas]]
-- [[objektai/grupes/Pranciškonų ordinas]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

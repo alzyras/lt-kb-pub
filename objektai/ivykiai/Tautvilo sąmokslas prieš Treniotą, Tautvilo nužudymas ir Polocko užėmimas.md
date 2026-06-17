@@ -30,6 +30,11 @@ Nenurodyta
 - t-001
   global_id: t-185830
   teiginys: 'Tautvilo sąmokslą prieš Treniotą išdavė klastingas Polocko dvariškis, todėl valdovas jį skubiai užgniaužė.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis tekstas buvo fragmentiškas; citata tvirčiau palaiko aiškų sąmokslo išdavimo faktą.'
+  susije_objektai: 'territory: Polockas; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_person: [[objektai/asmenys/Tautvilas|Tautvilas]]; mentioned_person: [[objektai/asmenys/Treniota|Treniota]]; mentioned_place: Polockas'
   pagrindžia:
     - c-001
 
@@ -63,9 +68,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
-- [[objektai/asmenys/Tautvilas]]
-- [[objektai/asmenys/Treniota]]

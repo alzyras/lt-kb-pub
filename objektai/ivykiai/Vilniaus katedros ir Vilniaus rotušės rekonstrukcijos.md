@@ -5,6 +5,9 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1753 m.'
+  - '1782 m.'
+  - '1786 m.'
+  - '1792 m.'
   - '1798 m.'
 date_start: '1753'
 date_end: '1798'
@@ -46,6 +49,11 @@ Nenurodyta
 - t-001
   global_id: t-77889
   teiginys: 'Laurynas Gucevičius 1782 m. pradėjo Vilniaus katedros, o 1786 m. – Vilniaus rotušės rekonstrukciją.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nurodo veikėją, veiksmą, objektus ir datas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/barokas|barokas]]; mentioned_object: [[objektai/zodynas/globėjas|globėjas]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_person: [[objektai/asmenys/Laurynas Gucevičius|Laurynas Gucevičius]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1782 m.; įvykio data: 1786 m.; įvykio data: 1792 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo veikėją, veiksmą, objektus ir datas.'
   pagrindžia:
     - c-001
 
@@ -53,6 +61,8 @@ Nenurodyta
 - t-002
   global_id: t-77890
   teiginys: 'Vilniaus katedros ir rotušės statyba sutapo su didžiosiomis Ketverių metų Seimo nulemtomis permainomis.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie rekonstrukcijų istorinį kontekstą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -91,14 +101,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]
-- [[objektai/zodynas/barokas]]
-- [[objektai/zodynas/globėjas]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/asmenys/Laurynas Gucevičius]]
-- [[objektai/ivykiai/1794 m. sukilimas Lietuvoje T. Kosciuškos sukilimas]]
-- [[objektai/ivykiai/T. Kosciuškos sukilimas]]

@@ -3,10 +3,19 @@ tipas: autorius
 pavadinimas: 'Liekis Š'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1918 m.'
+  - '1925 m.'
+date_start: '1918'
+date_end: '1925'
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'modernioji Lietuva'
 ---
 # Liekis Š
 
@@ -20,6 +29,11 @@ Liekis Š.
 - t-001
   global_id: t-17675
   teiginys: 'Š. Liekis parašė veikalą „A State within a State?“ apie žydų autonomiją Lietuvoje 1918–1925 m.'
+  sudarymo_pagrindimas: 'Citata leidžia suformuluoti bibliografinį faktą apie autorių.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1918-1925; įvykio data: 1925 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata leidžia suformuluoti bibliografinį faktą apie autorių.'
   pagrindžia:
     - c-001
 
@@ -35,7 +49,3 @@ Liekis Š.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Žydai]]

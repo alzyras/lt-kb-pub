@@ -49,6 +49,11 @@ Nenurodyta
 - t-001
   global_id: t-40775
   teiginys: 'Per Merkinės puolimą 1945 m. gruodžio 15 d. plentų kryžkelėje pasirodžiusi tanketė atidengė ugnį į miestelį.'
+  sudarymo_pagrindimas: 'Citata leidžia pridėti aiškų įvykio kontekstą ir pašalinti fragmentiškumą.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Merkinės puolimas (1945 m. gruodžio 15 d.)|Merkinės puolimas (1945 m. gruodžio 15 d.)]]; mentioned_place: Merkinė'
+  temporaliniai_duomenys: 'įvykio data: 1945 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata leidžia pridėti aiškų įvykio kontekstą ir pašalinti fragmentiškumą.'
   pagrindžia:
     - c-001
 
@@ -71,7 +76,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/Merkinės puolimas (1945 m. gruodžio 15 d.)]]

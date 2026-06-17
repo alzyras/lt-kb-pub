@@ -28,6 +28,11 @@ Dusburgietis teigia, kad stryjkowski M.
 - t-001
   global_id: t-61302
   teiginys: 'M. Stryjkowskio kronikos tomas išleistas Varšuvoje 1846 m.'
+  sudarymo_pagrindimas: 'Citata pateikia bibliografinį leidimo faktą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Varšuva'
+  temporaliniai_duomenys: 'įvykio data: 1846 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pateikia bibliografinį leidimo faktą.'
   pagrindžia:
     - c-001
 

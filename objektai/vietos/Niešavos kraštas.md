@@ -22,9 +22,11 @@ Lietuvai atiteko žymi dalis Žemaičių ir Sūduvos dykros, o Lenkija gavo Nie�
 - t-001
   global_id: t-32420
   teiginys: 'Lietuvai atiteko žymi dalis Žemaičių ir Sūduvos dykros, o Lenkija gavo Niešavos kraštą.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nurodo, kam atiteko Niešavos kraštas, ir yra paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/dykra|dykra]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Niešava; mentioned_place: Sūduva'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/ivykiai/Lietuvos ir ordino sienos galutinis patvirtinimas pagal Melno taiką (1422 m.).md#claim-t-66698|Lietuvos ir ordino sienos galutinis patvirtinimas pagal Melno taiką (1422 m.)]]: Melno taika sutarta siena išsilaikė penkis šimtmečius, Lietuvai atiteko žymi dalis Žemaičių ir Sūduvos dykros, o Lenkijai Niešavos kraštas.
 ## Reikšmingi paminėjimai
 
 - c-001

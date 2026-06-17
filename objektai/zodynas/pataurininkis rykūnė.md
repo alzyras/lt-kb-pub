@@ -21,6 +21,8 @@ Tas kalnas užslinko ant Manvydo rūmo (namo) ir daug nuostolių pridarė, jo pa
 - t-001
   global_id: t-86605
   teiginys: 'Aukštutinės pilies kalno griūtis užpylė Manvydo pataurininkį ir rykūnes, o nuošliaužos užvertė jo brangenybes.'
+  sudarymo_pagrindimas: 'Pradinis teiginys turi neaiškų įvardį ir perteklinį šaltinio fragmentiškumą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Pataurininkis|Pataurininkis]]; mentioned_person: [[objektai/asmenys/Manvydas|Manvydas]]'
   pagrindžia:
     - c-001
 
@@ -42,8 +44,3 @@ Tas kalnas užslinko ant Manvydo rūmo (namo) ir daug nuostolių pridarė, jo pa
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Manvydas]]
-- [[objektai/zodynas/Pataurininkis]]

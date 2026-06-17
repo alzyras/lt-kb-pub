@@ -3,6 +3,11 @@ tipas: posakis
 pavadinimas: '„kiaulių marą“'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1958 m.'
+  - '1962 m.'
+date_start: '1958'
+date_end: '1962'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -10,6 +15,8 @@ tags:
   - miestas
   - mokslininkas
   - posakis
+amziai:
+  - 'XX'
 ---
 # „kiaulių marą“
 
@@ -23,6 +30,11 @@ tags:
 - t-001
   global_id: t-20906
   teiginys: '1958 m. pasibaigus „atšilimui“, valdžia ribojo atlaidų lankymą Šiluvoje, miestelį blokuodama ir skelbdama neva „kiaulių marą“.'
+  sudarymo_pagrindimas: 'Teiginį verta patikslinti pagal citatą: blokuotas miestelis atlaidų metu.'
+  susije_objektai: 'mentioned_place: Kalvarija; mentioned_place: Šiluva'
+  temporaliniai_duomenys: 'įvykio data: 1958 m.; įvykio data: 1962 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginį verta patikslinti pagal citatą: blokuotas miestelis atlaidų metu.'
   pagrindžia:
     - c-001
 
@@ -47,8 +59,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Varpai]]
-- [[objektai/zodynas/atšilimas]]

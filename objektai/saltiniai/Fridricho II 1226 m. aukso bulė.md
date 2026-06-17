@@ -6,8 +6,14 @@ saltiniai:
 datos:
   - '1226 m.'
   - '1230 m.'
+  - '1232 m.'
+  - '1243 m.'
+  - '1245 m.'
+  - '1248 m.'
+  - '1323 m.'
+  - '1330 m.'
 date_start: '1226'
-date_end: '1230'
+date_end: '1330'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -16,6 +22,7 @@ tags:
   - sutartis
 amziai:
   - 'XIII'
+  - 'XIV'
 ---
 # Fridricho II 1226 m. aukso bulė
 
@@ -29,6 +36,11 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
 - t-001
   global_id: t-61072
   teiginys: 'M. Perlbachas nurodė, kad Dusburgietis, rašydamas apie Ordino teises, panaudojo imperatoriaus Fridricho II 1226 m. aukso bulę.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, faktinis ir paremtas citata apie aukso bulės panaudojimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/autoriai/M. Perlbachas|M. Perlbachas]]; mentioned_person: [[objektai/autoriai/M. Poliakuvna|M. Poliakuvna]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Kristburgas; mentioned_place: Prūsija'
+  temporaliniai_duomenys: 'įvykio data: 1226 m.; įvykio data: 1230 m.; įvykio data: 1232 m.; įvykio data: 1243 m.; įvykio data: 1245 m.; įvykio data: 1248 m.; įvykio data: 1323 m.; įvykio data: 1330 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, faktinis ir paremtas citata apie aukso bulės panaudojimą.'
   pagrindžia:
     - c-001
 

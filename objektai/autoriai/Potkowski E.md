@@ -22,6 +22,8 @@ Dusburgietis teigia, kad po derybų Fridrichas II pripažino popiežiaus valdži
 - t-001
   global_id: t-60770
   teiginys: 'E. Potkowski cituojamas aiškinant Fridricho II ir popiežiaus ginčą dėl dvasinės bei pasaulietinės valdžios ribų.'
+  sudarymo_pagrindimas: 'Citata palaiko autoriaus ryšį su aptariamu istoriniu aiškinimu.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_person: [[objektai/asmenys/Fridrichas II|Fridrichas II]]; mentioned_place: Europa'
   pagrindžia:
     - c-001
 
@@ -41,8 +43,3 @@ Dusburgietis teigia, kad po derybų Fridrichas II pripažino popiežiaus valdži
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Fridrichas]]
-- [[objektai/asmenys/Fridrichas II]]

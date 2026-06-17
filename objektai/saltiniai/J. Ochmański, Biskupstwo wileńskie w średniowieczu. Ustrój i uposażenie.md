@@ -26,6 +26,9 @@ Ochmański, J.
 - t-001
   global_id: t-31731
   teiginys: 'J. Ochmańskio „Biskupstwo wileńskie w średniowieczu. Ustrój i uposażenie“ išleista Poznanėje 1972 m.'
+  susije_objektai: 'mentioned_place: Poznanė; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1972 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

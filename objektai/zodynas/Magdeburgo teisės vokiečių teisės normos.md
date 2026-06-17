@@ -23,6 +23,8 @@ Laikas nutrynė pėdsa­ kus raštuose: nežinia, kokių pokyčių miesto valdym
 - t-001
   global_id: t-86482
   teiginys: 'Po pirmųjų Magdeburgo teisių suteikimo nežinoma, kokių miesto valdymo pokyčių ar laisvių gyventojams buvo duota.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai perteikia citatoje nurodytą nežinią apie miesto valdymo pokyčius ir laisves.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]'
   pagrindžia:
     - c-001
 
@@ -52,10 +54,3 @@ Laikas nutrynė pėdsa­ kus raštuose: nežinia, kokių pokyčių miesto valdym
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Rusai]]
-- [[objektai/asmenys/Vladislovas]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/grupes/Vilniaus miestiečių luomas]]

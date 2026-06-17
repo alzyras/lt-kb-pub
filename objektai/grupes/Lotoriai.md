@@ -26,6 +26,11 @@ Lotoriai šiame fragmente pateikiami kaip viena iš puolusių grupių, o jų vie
 - t-001
   global_id: t-07841
   teiginys: '1276 m. Lotoriai su vokiečiais meldžionimis ir gudais nusiaubė Lietuvą bei Žemaičius ir mėgino įsilaužti į Naujapilę.'
+  sudarymo_pagrindimas: 'Citata leidžia pateikti konkretų veiksmą, o ne metapastabą apie fragmentą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1276 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata leidžia pateikti konkretų veiksmą, o ne metapastabą apie fragmentą.'
   pagrindžia:
     - c-001
 
@@ -44,7 +49,3 @@ Lotoriai šiame fragmente pateikiami kaip viena iš puolusių grupių, o jų vie
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Vokiečiai]]

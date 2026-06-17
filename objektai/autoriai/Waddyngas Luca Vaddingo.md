@@ -31,6 +31,11 @@ periodo_grupes:
 - t-001
   global_id: t-88049
   teiginys: 'Waddyngas ir Antoni Melissanius de Macro pasakojo, kad 1333 m. Petras Goštautas į Vilnių atkvietė keturiolika pranciškonų.'
+  sudarymo_pagrindimas: 'Ilgas OCR fragmentas sutrumpintas iki citata pagrįsto fakto apie Waddyngo pasakojimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_object: [[objektai/zodynas/regula|regula]]; mentioned_person: [[objektai/autoriai/Antoni Melissanius de Macro|Antoni Melissanius de Macro]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_person: [[objektai/asmenys/Petras Goštautas|Petras Goštautas]]; mentioned_place: Podolė; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1333 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Ilgas OCR fragmentas sutrumpintas iki citata pagrįsto fakto apie Waddyngo pasakojimą.'
   pagrindžia:
     - c-001
 
@@ -38,6 +43,8 @@ periodo_grupes:
 - t-002
   global_id: t-88050
   teiginys: 'Balińskis Waddyngo pasakojimą laikė painiu ir nepatikimu dėl neaiškių šaltinių.'
+  sudarymo_pagrindimas: 'Pradinis tekstas buvo kontekstinis fragmentas; citata pagrindžia autoriaus vertinimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -97,10 +104,3 @@ periodo_grupes:
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Pranciškonų ordinas]]
-- [[objektai/zodynas/pagonybė]]
-- [[objektai/zodynas/regula]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

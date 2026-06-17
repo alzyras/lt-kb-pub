@@ -27,6 +27,10 @@ Dusburgietis teigia, kad tautavičius A.
 - t-001
   global_id: t-61313
   teiginys: 'A. Tautavičiaus „Mūsų giminaičiai prūsai“ paskelbtas 1968 m. žurnalo MG 6 numeryje, 17–22 puslapiuose.'
+  sudarymo_pagrindimas: 'Citata pateikia bibliografinius publikacijos duomenis.'
+  temporaliniai_duomenys: 'įvykio data: 1968 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pateikia bibliografinius publikacijos duomenis.'
   pagrindžia:
     - c-001
 

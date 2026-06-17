@@ -30,6 +30,8 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
 - t-001
   global_id: t-58407
   teiginys: 'Dusburgietis personifikuoja Šventąją žemę kaip krikščionių tautas į pagalbą ir išvadavimą kviečiančią žemę.'
+  sudarymo_pagrindimas: 'Citata pagrindžia retorinį Šventosios žemės personifikavimą ir raginimą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Skydas|Skydas]]; mentioned_place: Šventoji'
   pagrindžia:
     - c-002
 
@@ -37,6 +39,11 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
 - t-002
   global_id: t-58408
   teiginys: 'Karaliai ir kunigaikščiai buvo atsiėmę Šventąją žemę, bet vėliau ją prarado, o 1290 m. pagonys sugriovė Akono miestą.'
+  sudarymo_pagrindimas: 'Citata pagrindžia glaustą faktą apie Šventosios žemės praradimą ir Akono sugriovimą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/pagonys|pagonys]]'
+  temporaliniai_duomenys: 'įvykio data: 1290 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia glaustą faktą apie Šventosios žemės praradimą ir Akono sugriovimą.'
   pagrindžia:
     - c-001
 
@@ -44,6 +51,7 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
 - t-003
   global_id: t-58409
   teiginys: 'Dusburgietis Šventąją žemę vaizduoja kaip Dievo išrinktą, bet apleistą ir sielvarto prislėgtą žemę.'
+  sudarymo_pagrindimas: 'Citata yra autoriaus retorinė interpretacija, todėl tinka atribučiuota formuluotė.'
   pagrindžia:
     - c-004
 
@@ -51,6 +59,8 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
 - t-004
   global_id: t-58410
   teiginys: 'Omaras, trečias Mahometo karalystės paveldėtojas, įsiveržė į Šventąją žemę ir ją užėmė po Heraklijaus pasitraukimo.'
+  sudarymo_pagrindimas: 'Citata pagrindžia įvykį, bet pradinė formuluotė buvo fragmentiška ir su boilerplate.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Arabai|Arabai]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_person: [[objektai/asmenys/Heraklijus|Heraklijus]]; mentioned_place: Jeruzalė'
   pagrindžia:
     - c-003
 

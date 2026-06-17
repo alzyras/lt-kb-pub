@@ -40,6 +40,8 @@ Nenurodyta
 - t-001
   global_id: t-40696
   teiginys: 'Bermondto-Avalovo kryžius buvo teikiamas pasižymėjusiems bermontininkams.'
+  sudarymo_pagrindimas: 'Teiginys aiškus, gramatinis ir paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bermontininkai|Bermontininkai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/ulonai|ulonai]]; mentioned_place: Lenkija'
   pagrindžia:
     - c-001
 
@@ -57,9 +59,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/ulonai]]
-- [[objektai/grupes/Bermontininkai]]
-- [[objektai/daiktai/Kryžius]]

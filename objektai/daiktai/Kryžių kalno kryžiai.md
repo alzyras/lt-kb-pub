@@ -50,6 +50,11 @@ Nenurodyta
 - t-001
   global_id: t-77918
   teiginys: 'Priklausomybės dešimtmečiais Kryžių kalno kryžiai tapo stiprybės ir vilties simboliu.'
+  sudarymo_pagrindimas: 'Pradinis teiginys per bendras; citata leidžia susieti kryžiaus prasmę su Kryžių kalnu.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/posakiai/lietuviška Golgota|lietuviška Golgota]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Kryžių kalnas; mentioned_place: Šiauliai'
+  temporaliniai_duomenys: 'įvykio data: 1961 m.; įvykio data: 1993 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys per bendras; citata leidžia susieti kryžiaus prasmę su Kryžių kalnu.'
   pagrindžia:
     - c-001
 
@@ -73,10 +78,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Jonas]]
-- [[objektai/daiktai/Kryžius]]
-- [[objektai/posakiai/lietuviška Golgota]]
-- [[objektai/ivykiai/Kryžių kalno kryžių naikinimas ir atstatymas (1961 m. ir vėliau)]]

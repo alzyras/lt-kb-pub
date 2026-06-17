@@ -20,9 +20,13 @@ Todėl iš visų indoeuropiečių kalbų slavų kalbos yra artimiausios baltų k
 - t-001
   global_id: t-28604
   teiginys: 'Baltų ir slavų prokalbės išriedėjo iš dviejų artimų indoeuropiečių prokalbės tarmių.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiksliai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/autoriai/A. Salys.md#claim-t-64515|A. Salys]]: A. Salys teigė, kad slavų ir baltų prokalbės išriedėjo iš dviejų artimų indoeuropiečių prokalbės tarmių.
+- susijęs iš [[objektai/grupes/Baltai.md#claim-t-96085|Baltai]]: Su slavais baltų protėviai, ypač iki geležies amžiaus pradžios, yra turėję artimų santykių.
+- susijęs iš Dniepro žemupys: Apie VI a. po Kr. iš Dniepro žemupio pajudėję slavai užėmė ir pamažu asimiliavo dalį rytinių baltų žemių.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -41,9 +45,3 @@ Todėl iš visų indoeuropiečių kalbų slavų kalbos yra artimiausios baltų k
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Baltai]]
-- [[objektai/grupes/Slavai]]
-- [[objektai/autoriai/A. Salys]]

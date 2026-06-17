@@ -26,6 +26,11 @@ Petro Skargos „Seimų pamoksluose“ pasisakoma už stiprią jungtinės valsty
 - t-001
   global_id: t-186345
   teiginys: 'Petro Skargos „Seimų pamoksluose“ pasisakoma už stiprią jungtinės valstybės valdžią su karaliumi priešakyje.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata apie „Seimų pamokslus“.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_person: [[objektai/autoriai/Petras Skarga|Petras Skarga]]'
   pagrindžia:
     - c-001
 

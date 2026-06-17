@@ -36,6 +36,14 @@ Nenurodyta
 - t-001
   global_id: t-185778
   teiginys: '1563 m. karalius sušaukė Varšuvos seimą pasitarti su lenkų luomais dėl Livonijos prijungimo prie karalystės.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pirminis teiginys buvo su OCR tarpais ir puslapio triukšmu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/luomai|luomai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Livonija; mentioned_place: Varšuva'
+  temporaliniai_duomenys: 'įvykio data: 1563 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pirminis teiginys buvo su OCR tarpais ir puslapio triukšmu.'
   pagrindžia:
     - c-001
 
@@ -59,9 +67,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/zodynas/luomai]]
-- [[objektai/zodynas/seimas]]

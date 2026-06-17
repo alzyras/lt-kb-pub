@@ -35,6 +35,8 @@ Vartojama aiškinant lietuvių, rusėnų žemių ir Maskvos erdvės nuosavybės 
 - t-001
   global_id: t-71204
   teiginys: 'Gardino pilininko Dovydo alodas vadinamas dvaru ir buvo Notangos vyrų sudegintas iki pamatų.'
+  sudarymo_pagrindimas: 'Citata tiesiogiai sieja alodą su dvaru ir nurodo įvykį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Pilininkas|Pilininkas]]; mentioned_place: Gardinas; mentioned_place: Notanga'
   pagrindžia:
     - c-001
 
@@ -42,9 +44,15 @@ Vartojama aiškinant lietuvių, rusėnų žemių ir Maskvos erdvės nuosavybės 
 - t-002
   global_id: t-71205
   teiginys: 'Gardino pilininko Dovydo alodas, arba dvaras, buvo užpultas ir sudegintas iki pamatų.'
+  sudarymo_pagrindimas: 'Pašalintas šaltinio įvadas ir suformuluotas pilnas faktinis sakinys apie sąvokos vartojimą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Pilininkas|Pilininkas]]; mentioned_place: Gardinas; mentioned_place: Notanga'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179231|Lietuviai]]: Lietuvių bajorai ir individualiai ūkininkavę valstiečiai skyrėsi nuo rytinių slavų nuosavybės struktūra.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179334|Lietuviai]]: Lietuvių bajorai ir individualiai ūkininkaujantys valstiečiai skyrėsi nuo rytinių slavų žemėvaldos tradicijos.
+- susijęs iš [[objektai/grupes/Rusėnai.md#claim-t-74910|Rusėnai]]: Lenkijai ir Lietuvai priklausiusiose rusėnų žemėse išplito alodas, vakarietiška ūkininkavimo ir nuosavybės forma.
+- susijęs iš [[objektai/grupes/Rusėnai.md#claim-t-74913|Rusėnai]]: XV–XVI a. Lietuvos Metrikos rusėnų kalboje buvo vartojamos lietuviškos ūkio sąvokos, paplitusios net Ukrainoje.
+- susijęs iš [[objektai/zodynas/lietuviškos ūkio ir gerovės sąvokos rusėnų kalboje.md#claim-t-22217|lietuviškos ūkio ir gerovės sąvokos rusėnų kalboje]]: XV–XVI a. Lietuvos Metrikos rusėnų kalboje vartotos lietuviškos ūkio sąvokos, tarp jų „litovka“, „doilida“, „jevje“ ir „sviren“.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -89,12 +97,3 @@ Vartojama aiškinant lietuvių, rusėnų žemių ir Maskvos erdvės nuosavybės 
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bajorai]]
-- [[objektai/asmenys/Dovydas (Gardino pilininkas)]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Rusėnai]]
-- [[objektai/zodynas/Pilininkas]]
-- [[objektai/zodynas/lietuviškos ūkio ir gerovės sąvokos rusėnų kalboje]]

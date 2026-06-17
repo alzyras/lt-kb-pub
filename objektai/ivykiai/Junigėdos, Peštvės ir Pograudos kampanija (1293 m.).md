@@ -6,6 +6,7 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1292 m.'
+  - '1293 m.'
   - '1294 m.'
 date_start: '1292'
 date_end: '1294'
@@ -46,6 +47,9 @@ Sudegė abiejų pilių papiliai.
 - t-001
   global_id: t-70938
   teiginys: '1293 m. liepos 25 d. Meinhardas su gausia raitija puolė Junigedą ir Pieštvę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)|Jokūbas (vėliau Urbonas IV)]]; mentioned_place: Junigeda; mentioned_place: Pieštvė'
+  temporaliniai_duomenys: 'įvykio data: 1293 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -53,6 +57,8 @@ Sudegė abiejų pilių papiliai.
 - t-002
   global_id: t-70941
   teiginys: 'Magistras Meinhardas liepos 25 d. užpuolė Junigėdą ir Pieštvę, o nepajėgęs daugiau padaryti sudegino abiejų pilių papilius.'
+  sudarymo_pagrindimas: 'Pašalintas neaiškus kontekstas ir paliktas citatos paremtas faktas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)|Jokūbas (vėliau Urbonas IV)]]; mentioned_place: Junigeda'
   pagrindžia:
     - c-001
 
@@ -103,10 +109,3 @@ Sudegė abiejų pilių papiliai.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)]]
-- [[objektai/grupes/Lietuviai]]

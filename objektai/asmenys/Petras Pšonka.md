@@ -18,6 +18,11 @@ Lietuviai pasiuntė Pšonką surasti brastą per Vyslą prieš netikėtą įsive
 - t-001
   global_id: t-186157
   teiginys: 'Lietuviai pasiuntė Pšonką surasti brastą per Vyslą prieš netikėtą įsiveržimą į Lenkijos gilumą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Sakinys sutrumpintas ir išplėstas iš konteksto, pašalinant neaiškų įvardį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Brasta; mentioned_place: Lenkija; mentioned_place: Vysla'
   pagrindžia:
     - c-001
 
@@ -49,7 +54,3 @@ Lietuviai pasiuntė Pšonką surasti brastą per Vyslą prieš netikėtą įsive
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]

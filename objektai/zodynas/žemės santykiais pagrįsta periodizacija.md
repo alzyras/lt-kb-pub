@@ -5,6 +5,9 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1387 m.'
+  - '1447 m.'
+  - '1861 m.'
+  - '1919 m.'
   - '1940 m.'
 date_start: '1387'
 date_end: '1940'
@@ -31,6 +34,11 @@ Kai šitoje periodizacijoje neatsižvelgiama į dinastinius bei tarpvalstybinius
 - t-001
   global_id: t-97288
   teiginys: 'Žemės santykiais pagrįsta periodizacija Lietuvos istoriją skirsto pagal agrarinių santykių kaitą, o ne dinastinius ar tarpvalstybinius santykius.'
+  sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir neenciklopedinis, citata leidžia suformuluoti aiškų faktą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/marksistinė periodizacija|marksistinė periodizacija]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1447 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys per ilgas ir neenciklopedinis, citata leidžia suformuluoti aiškų faktą.'
   pagrindžia:
     - c-002
 
@@ -38,6 +46,11 @@ Kai šitoje periodizacijoje neatsižvelgiama į dinastinius bei tarpvalstybinius
 - t-002
   global_id: t-97289
   teiginys: 'Žemės santykiais pagrįsta periodizacija pagal Lietuvos ūkininko santykių su žeme kaitą išskiria šešias epochas.'
+  sudarymo_pagrindimas: 'Pašalintas OCR ir puslapio triukšmas, paliktas citata pagrįstas faktas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Baudžiava|Baudžiava]]; mentioned_object: [[objektai/zodynas/marksistinė periodizacija|marksistinė periodizacija]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1861 m.; įvykio data: 1919 m.; įvykio data: 1940 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas OCR ir puslapio triukšmas, paliktas citata pagrįstas faktas.'
   pagrindžia:
     - c-001
 
@@ -82,11 +95,3 @@ Kai šitoje periodizacijoje neatsižvelgiama į dinastinius bei tarpvalstybinius
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/dinastija]]
-
-### Susiję objektai
-- [[objektai/zodynas/Baudžiava]]
-- [[objektai/zodynas/marksistinė periodizacija]]

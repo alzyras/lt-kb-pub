@@ -21,6 +21,8 @@ Dusburgietis teigia, kad turi paprotį lažintis, jog vaišėse visi gers po lyg
 - t-001
   global_id: t-59176
   teiginys: 'Prūsai laikėsi papročio vaišėse gerti po lygiai ir be saiko, kol nusigerdavo svečias ir namiškiai.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir negramatiškas, bet citata palaiko papročio apibūdinimą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
 
@@ -41,10 +43,3 @@ Dusburgietis teigia, kad turi paprotį lažintis, jog vaišėse visi gers po lyg
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/socialinė-praktika]]
-
-### Susiję objektai
-- [[objektai/zodynas/Miera|miera]]

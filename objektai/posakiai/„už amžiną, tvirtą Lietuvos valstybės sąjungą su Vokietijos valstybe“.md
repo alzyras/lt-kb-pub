@@ -33,6 +33,11 @@ amziai:
 - t-001
   global_id: t-45872
   teiginys: '1917 m. pabaigoje Vokietija spaudė Lietuvos Tarybą deklaruoti Lietuvos valstybę ir jos prisijungimą prie Vokietijos.'
+  sudarymo_pagrindimas: 'Teiginys sutampa su citatos pagrindiniu faktu ir yra gramatiškas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Vokietija'
+  temporaliniai_duomenys: 'įvykio data: 1917 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys sutampa su citatos pagrindiniu faktu ir yra gramatiškas.'
   pagrindžia:
     - c-001
 
@@ -40,6 +45,11 @@ amziai:
 - t-002
   global_id: t-45873
   teiginys: 'Lietuvos Taryba, vykdydama Vokietijos reikalavimą, pasisakė „už amžiną, tvirtą Lietuvos valstybės sąjungą su Vokietijos valstybe“.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai susieja Lietuvos Tarybos veiksmą su citatoje pateikta formuluote.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_place: Vokietija'
+  temporaliniai_duomenys: 'įvykio data: 1917 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai susieja Lietuvos Tarybos veiksmą su citatoje pateikta formuluote.'
   pagrindžia:
     - c-002
 
@@ -89,10 +99,3 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/grupes/Oberostas]]
-- [[objektai/zodynas/separatinės taikos derybos]]

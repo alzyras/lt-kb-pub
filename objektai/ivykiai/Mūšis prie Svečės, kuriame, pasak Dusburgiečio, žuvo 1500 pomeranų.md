@@ -49,6 +49,9 @@ Nenurodyta
 - t-001
   global_id: t-62404
   teiginys: 'Prie Svečės pilies broliai užpuolė Sventopelko kariuomenę ir, pasak Dusburgiečio, tą dieną nukovė 1500 Pomeranijos vyrų.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Reikia atribucijos, nes skaičius pateiktas kaip Dusburgiečio pranešimas ir yra ginčijamas kitų šaltinių.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pomeranai|Pomeranai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Kulmas; mentioned_place: Pomeranija; mentioned_place: Svečė; mentioned_place: Viena; mentioned_place: Višogrudas'
   pagrindžia:
     - c-001
 
@@ -56,6 +59,12 @@ Nenurodyta
 - t-002
   global_id: t-62405
   teiginys: 'Komentare nurodoma, kad mūšis prie Svečės vyko 1244 m. arba 1245 m. pradžioje.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Citata yra redakcinis komentaras, todėl būtina atribucija; data tiesiogiai paremta.'
+  susije_objektai: 'mentioned_place: Svečė'
+  temporaliniai_duomenys: 'mūšio data: 1244 m.; mūšio data: 1245 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata yra redakcinis komentaras, todėl būtina atribucija; data tiesiogiai paremta.'
   pagrindžia:
     - c-002
 
@@ -94,10 +103,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Kalavijas]]
-- [[objektai/daiktai/Namas]]
-- [[objektai/grupes/Pomeranai]]
-- [[objektai/asmenys/Sventopelkas]]

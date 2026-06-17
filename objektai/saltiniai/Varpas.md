@@ -5,19 +5,20 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1858 m.'
+  - '1889 m.'
   - '1899 m.'
   - '1902 m.'
 date_start: '1858'
 date_end: '1902'
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XIX'
-  - 'XX'
 tags:
   - mokslininkas
   - saltinis
   - tauta
+amziai:
+  - 'XIX'
+  - 'XX'
 ---
 # Varpas
 
@@ -26,10 +27,16 @@ tags:
 „Aušros“ idėjas toliau plėtojo 1889 m. pradėtas leisti žurnalas „Varpas“, įsteigtas Varšuvos lietuvių studentų draugijos „Lietuva“. Bene rimčiausias krikščionių demokratų konkurentas etninių lietuvių tautiniame sąjūdyje buvo liberali Lietuvos demokratų partija, susikūrusi 1902 m. „Varpą“ leidusios organizacijos pagrindu.
 
 ## Teiginiai
+
 <a id="claim-t-78120"></a>
 - t-001
   global_id: t-78120
   teiginys: '1902 m. Lietuvos demokratų partija susikūrė „Varpą“ leidusios organizacijos pagrindu.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie „Varpą“ leidusios organizacijos reikšmę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos demokratų partija|Lietuvos demokratų partija]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1902 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie „Varpą“ leidusios organizacijos reikšmę.'
   pagrindžia:
     - c-002
 
@@ -37,10 +44,16 @@ tags:
 - t-002
   global_id: t-78121
   teiginys: '„Aušros“ idėjas toliau plėtojo 1889 m. pradėtas leisti žurnalas „Varpas“, įsteigtas Varšuvos lietuvių studentų draugijos „Lietuva“.'
+  sudarymo_pagrindimas: 'Teiginys tiesiogiai apibūdina „Varpą“ ir yra paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/autoriai/Vincas Kudirka|Vincas Kudirka]]; mentioned_person: [[objektai/autoriai/V. Kudirka|V. Kudirka]]; mentioned_place: Lietuva; mentioned_place: Varšuva'
+  temporaliniai_duomenys: 'įvykio data: 1889 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys tiesiogiai apibūdina „Varpą“ ir yra paremtas citata.'
   pagrindžia:
     - c-001
 
-## Bibliografiniai įrodymai
+## Reikšmingi paminėjimai
+
 - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -63,6 +76,7 @@ tags:
   statusas: verified
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: '1902 m. Lietuvos demokratų partija susikūrė „Varpą“ leidusios organizacijos pagrindu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

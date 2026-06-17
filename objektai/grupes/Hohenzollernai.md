@@ -10,6 +10,7 @@ tags:
   - grupe
   - tauta
   - upė
+  - valstybė
 ---
 # Hohenzollernai
 
@@ -23,9 +24,10 @@ Kai vienu metu anos garsiosios trys dinastijos (Romanovai, Hohenzollernai, Habsb
 - t-001
   global_id: t-31190
   teiginys: 'Hohenzollernai buvo viena iš trijų dinastijų, kurių protėviai dalijosi Lietuvą-Lenkiją ir kurios vienu metu buvo nuverstos nuo sostų.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/grupes/Romanovų dinastija.md#claim-t-66062|Romanovų dinastija]]: Romanovų, Hohenzollernų ir Habsburgų dinastijų nuvertimas nuo sostų sudarė sąlygas buvusiems unijos partneriams siekti tautinių idealų.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -45,11 +47,3 @@ Kai vienu metu anos garsiosios trys dinastijos (Romanovai, Hohenzollernai, Habsb
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/dinastija]]
-
-### Susiję objektai
-- [[objektai/zodynas/unija]]
-- [[objektai/grupes/Romanovų dinastija]]

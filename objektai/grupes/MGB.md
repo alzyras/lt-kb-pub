@@ -6,6 +6,7 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1948 m.'
+  - '1949 m.'
   - '2026 m.'
 date_start: '1948'
 date_end: '2026'
@@ -24,7 +25,7 @@ amziai:
 
 ## Santrauka
 
-1948 m. vasario 1 d. Gulbiniškių kaime MGB operatyvinė karinė grupė apsupo sodybą, kurioje slėpėsi trys partizanai. V. Voveris žuvo 1949 m., kai MGB užverbuoti agentai K. Kubilinskas-Varna ir A. Slinkis-Rytas išdavė Dainavos apygardos vadavietę.
+MGB Valstybės saugumo ministerija (SSRS). Visuotinį šio karo mastą rodo okupantų baudžiamųjų akcijų duomenys: 1944–1953 m. MGB organai sunaikino 2 353 partizanų grupes, nukovė 20 000 partizanų, suėmė 19 000 (iš viso nukovė, suėmė ar legalizavo 120 000 žmonių), paėmė 9 patrankas, 30 prieštankinių.
 
 ## Teiginiai
 
@@ -32,6 +33,11 @@ amziai:
 - t-001
   global_id: t-65908
   teiginys: '1948 m. vasario 1 d. Gulbiniškių kaime MGB operatyvinė karinė grupė apsupo sodybą, kurioje slėpėsi trys partizanai.'
+  sudarymo_pagrindimas: 'Papildyta citatoje nurodyta data ir vieta, sakinys tapo enciklopediškesnis.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_place: Gulbiniškiai; mentioned_place: Kaimas; mentioned_place: Pilviškiai; mentioned_place: Vilkaviškis'
+  temporaliniai_duomenys: 'įvykio data: 1948 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Papildyta citatoje nurodyta data ir vieta, sakinys tapo enciklopediškesnis.'
   pagrindžia:
     - c-002
 
@@ -39,6 +45,11 @@ amziai:
 - t-002
   global_id: t-65910
   teiginys: 'V. Voveris žuvo 1949 m., kai MGB užverbuoti agentai K. Kubilinskas-Varna ir A. Slinkis-Rytas išdavė Dainavos apygardos vadavietę.'
+  sudarymo_pagrindimas: 'Citata pagrindžia MGB agentų vaidmenį; pataisyta nutrūkusi pavardė.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_place: Dainava'
+  temporaliniai_duomenys: 'įvykio data: 1948 m.; įvykio data: 1949 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia MGB agentų vaidmenį; pataisyta nutrūkusi pavardė.'
   pagrindžia:
     - c-001
 
@@ -71,8 +82,3 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Antanas (vaistininkas)]]
-- [[objektai/zodynas/įgula]]

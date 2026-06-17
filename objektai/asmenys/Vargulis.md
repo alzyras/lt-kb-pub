@@ -31,9 +31,12 @@ Dusburgietis teigia, kad kai dėl to supykę broliai ketino prieš jį traukti s
 - t-001
   global_id: t-60459
   teiginys: 'Vargulis, Noliubės giminaitis, broliams pritarus išėjo į priekį ir įspėjo Noliubę dėl nepaklusnumo.'
+  sudarymo_pagrindimas: 'Išmestas į citatą įsiterpęs komentarų triukšmas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Sklunija'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/posakiai/Prakeiktasis Noliube, eik dabar ir būk valkata.md#claim-t-89602|Prakeiktasis Noliube, eik dabar ir būk valkata]]: Vargulis įspėjo Noliubą žodžiais „Prakeiktasis Noliube, eik dabar ir būk valkata“, ragindamas paklusti broliams.
+- susijęs iš [[objektai/posakiai/Prakeiktasis Noliube, eik dabar ir būk valkata.md#claim-t-89603|Prakeiktasis Noliube, eik dabar ir būk valkata]]: Po Vargulio įspėjimo Noliubas pabėgo į Ziokos valsčių, o vėliau, nukamuotas antpuolių, nulenkė galvą prieš tikėjimą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -57,8 +60,3 @@ Dusburgietis teigia, kad kai dėl to supykę broliai ketino prieš jį traukti s
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/posakiai/Prakeiktasis Noliube, eik dabar ir būk valkata]]

@@ -20,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-Lietuvos delegacija prie Paryžiaus taikos konferencijos veikė kuluaruose, nes Lietuva nebuvo juridinė 1919 m. prasidėjusios konferencijos dalyvė. Lietuvos delegacijai prie Paryžiaus taikos konferencijos vadovavo Augustinas Voldemaras. Lietuvos delegacija prie Paryžiaus taikos konferencijos memorandumais, straipsniais ir pasisakymais kėlė Lietuvos pripažinimo problemą.
+Lietuva, kitaip negu Lenkija, nebuvo 1919 m. pradžioje prasidėjusios Paryžiaus taikos konferencijos juridinė dalyvė, tad oficialiai delegacija vadinosi Lietuvos delegacija prie Paryžiaus taikos konferencijos ir veikė kuluaruose. Memorandumais, straipsniais, pasisakymais komisijose delegacija kreipė dėmesį į Lietuvos valstybės pripažinimo problemą – pirmą kartą Lietuvos delegacija tarėsi ne su kitais lietuviais, o Lietuvos vardu veikė svarbiausiame tarptautiniame forume, kurdama. Delegacija buvo instruktuota diskusijose dėl sienų remtis etnografiniu principu darant būtiniausias ekonomines korektyvas, gauti išėjimą į jūrą per Klaipėdą arba Liepoją, pabrėžti, kad Lietuvos sostinė yra Vilnius ir pasiekti, kad Lietuva būtų priimta į Tautų.
 
 ## Teiginiai
 
@@ -28,6 +28,11 @@ Lietuvos delegacija prie Paryžiaus taikos konferencijos veikė kuluaruose, nes 
 - t-001
   global_id: t-74635
   teiginys: 'Lietuvos delegacija prie Paryžiaus taikos konferencijos veikė kuluaruose, nes Lietuva nebuvo juridinė 1919 m. prasidėjusios konferencijos dalyvė.'
+  sudarymo_pagrindimas: 'Pradinis sakinys labiau kalbėjo apie Lietuvą, todėl perrašytas apie delegaciją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Antantė|Antantė]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos Taryba|Lietuvos Taryba]]; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_person: [[objektai/asmenys/Oskaras Milašius|Oskaras Milašius]]; mentioned_place: Lietuva; mentioned_place: Paryžius; mentioned_place: Vokietija'
+  temporaliniai_duomenys: 'įvykio data: 1919 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis sakinys labiau kalbėjo apie Lietuvą, todėl perrašytas apie delegaciją.'
   pagrindžia:
     - c-004
 
@@ -35,6 +40,8 @@ Lietuvos delegacija prie Paryžiaus taikos konferencijos veikė kuluaruose, nes 
 - t-002
   global_id: t-74636
   teiginys: 'Lietuvos delegacijai prie Paryžiaus taikos konferencijos vadovavo Augustinas Voldemaras.'
+  sudarymo_pagrindimas: 'Pradinis tekstas yra nutrūkęs fragmentas; citata pagrindžia aiškų faktą apie vadovą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_person: [[objektai/asmenys/Augustinas|Augustinas]]; mentioned_person: [[objektai/asmenys/Augustinas Voldemaras|Augustinas Voldemaras]]; mentioned_person: [[objektai/asmenys/Oskaras Milašius|Oskaras Milašius]]; mentioned_place: Lietuva; mentioned_place: Paryžius; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 
@@ -42,6 +49,11 @@ Lietuvos delegacija prie Paryžiaus taikos konferencijos veikė kuluaruose, nes 
 - t-003
   global_id: t-74637
   teiginys: 'Lietuvos delegacija prie Paryžiaus taikos konferencijos memorandumais, straipsniais ir pasisakymais kėlė Lietuvos pripažinimo problemą.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiesiogiai apibūdina delegacijos veiklą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_person: [[objektai/asmenys/Oskaras Milašius|Oskaras Milašius]]; mentioned_place: Lietuva; mentioned_place: Paryžius'
+  temporaliniai_duomenys: 'įvykio data: 1919 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir tiesiogiai apibūdina delegacijos veiklą.'
   pagrindžia:
     - c-002
 
@@ -49,6 +61,7 @@ Lietuvos delegacija prie Paryžiaus taikos konferencijos veikė kuluaruose, nes 
 - t-005
   global_id: t-74639
   teiginys: 'Lietuvos delegacija prie Paryžiaus taikos konferencijos buvo instruktuota siekti išėjimo į jūrą per Klaipėdą arba Liepoją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_person: [[objektai/asmenys/Oskaras Milašius|Oskaras Milašius]]; mentioned_place: Liepoja; mentioned_place: Lietuva; mentioned_place: Paryžius; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 
@@ -56,6 +69,11 @@ Lietuvos delegacija prie Paryžiaus taikos konferencijos veikė kuluaruose, nes 
 - t-006
   global_id: t-74640
   teiginys: 'Lietuvos delegacija prie Paryžiaus taikos konferencijos veikė kuluaruose, nes Lietuva nebuvo juridinė konferencijos dalyvė.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai susieja delegacijos veikimo būdą su Lietuvos teisiniu statusu konferencijoje.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Antantė|Antantė]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos Taryba|Lietuvos Taryba]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva; mentioned_place: Paryžius; mentioned_place: Vokietija'
+  temporaliniai_duomenys: 'įvykio data: 1919 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai susieja delegacijos veikimo būdą su Lietuvos teisiniu statusu konferencijoje.'
   pagrindžia:
     - c-001
 
@@ -63,9 +81,14 @@ Lietuvos delegacija prie Paryžiaus taikos konferencijos veikė kuluaruose, nes 
 - t-007
   global_id: t-183152
   teiginys: 'Lietuvos delegacija prie Paryžiaus taikos konferencijos veikė Lietuvos vardu ir kėlė valstybės pripažinimo problemą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs; citata pagrindžia glaustą savarankišką sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Estai|Estai]]; mentioned_place: Lietuva; mentioned_place: Paryžius; mentioned_place: Suvalkai; mentioned_place: Vilnius'
   pagrindžia:
     - c-005
-
+- susijęs iš Paryžius: Lietuva, kitaip negu Lenkija, nebuvo 1919 m. pradžioje prasidėjusios Paryžiaus taikos konferencijos juridinė dalyvė, tad oficialiai delegacija vadinosi Lietuvos delegacija prie Paryžiaus taikos konferencijos ir veikė kuluaruose.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -181,21 +204,3 @@ Lietuvos delegacija prie Paryžiaus taikos konferencijos veikė kuluaruose, nes 
   statusas: verified
   pagrindžia:
     - t-007
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Antantė]]
-- [[objektai/grupes/Estai]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Lietuvos Taryba|Lietuvos Taryba (institucija)]]
-- [[objektai/asmenys/Oskaras Milašius]]
-- [[objektai/grupes/Prancūzai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Žydai]]
-- [[objektai/asmenys/Augustinas]]
-- [[objektai/asmenys/Augustinas Voldemaras]]
-- [[objektai/asmenys/Dominykas Semaško]]
-- [[objektai/asmenys/Simonas Rozenbaumas]]
-- [[objektai/grupes/Tautų Sąjunga]]
-- [[objektai/zodynas/etnografinės ribos etnografinis principas]]

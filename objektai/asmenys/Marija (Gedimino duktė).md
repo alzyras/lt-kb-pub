@@ -30,6 +30,8 @@ Per 150 metų toliau patverusi su Tverės kunigaikš­ čiais sąjunga, kuri rei
 - t-001
   global_id: t-82550
   teiginys: 'Gedimino duktė Marija buvo ištekinta už Rusios kunigaikščio Boleslovo.'
+  sudarymo_pagrindimas: 'Citata palaiko aiškų faktą apie Marijos santuoką, bet įvestyje yra OCR triukšmo.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Marija|Marija]]; mentioned_person: [[objektai/asmenys/Uzbeko|Uzbeko]]; mentioned_place: Lenkija; mentioned_place: Mazovija'
   pagrindžia:
     - c-001
 
@@ -37,6 +39,8 @@ Per 150 metų toliau patverusi su Tverės kunigaikš­ čiais sąjunga, kuri rei
 - t-002
   global_id: t-82552
   teiginys: 'Gedimino duktė Marija politinėmis vedybomis ištekėjo už didžiojo Tverės kunigaikščio Dimitro.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Marija|Marija]]; mentioned_place: Maskva; mentioned_place: Tverė; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -80,12 +84,3 @@ Per 150 metų toliau patverusi su Tverės kunigaikš­ čiais sąjunga, kuri rei
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Gediminas]]
-- [[objektai/asmenys/Marija]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/asmenys/Uzbeko]]
-- [[objektai/zodynas/chanas]]
-- [[objektai/asmenys/Dimitras (Tverės kunigaikštis)]]

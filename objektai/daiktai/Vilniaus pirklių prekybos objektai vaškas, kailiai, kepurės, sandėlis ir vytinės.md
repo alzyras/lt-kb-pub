@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Žaliaminės odos ir vaškas buvo svarbiausios Vilniaus pirklių išvežamosios prekės. Miesto lėšomis pastatyti kailiadirbių namai turguje leido ant sienų pardavimui kabinti kepures ir kailius. Karaliaus raštu Vilniaus vaitui leista į užsienį parduoti tris vaško gabalus po 50 akmenų.
+19 Žaliaminės odos ir ypač vaškas tuo laiku buvo svarbiausios išvežamo­ sios prekės. Nauji svečių namai toje vietoje, kur iki šiol sto­ vi, buvo pastatyti miesto lėšomis, taip pat ir kailiadirbių na­ mai prie mūrinių krautuvių turguje, - juose ant sienų par­ davimui iškabintos kepurės ir kailiai teikė patogumą pirkliams ir pirkėjams, o. Pagaliau karaliaus raštas ponui Abramui, iž­ dininkui, kad laisvai leistų Vilniaus vaitui į užsienį parduoti tris gaba­ lus vaško po 50 akmenų], fol.
 
 ## Pavadinimai šaltiniuose
 
@@ -49,6 +49,8 @@ Nenurodyta
 - t-001
   global_id: t-87005
   teiginys: 'Žaliaminės odos ir vaškas buvo svarbiausios Vilniaus pirklių išvežamosios prekės.'
+  sudarymo_pagrindimas: 'Perrašyta glaudžiau ir be migloto laiko žymens.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Tavoras|Tavoras]]; mentioned_object: [[objektai/daiktai/Vaškas|Vaškas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 
@@ -56,6 +58,8 @@ Nenurodyta
 - t-002
   global_id: t-87006
   teiginys: 'Miesto lėšomis pastatyti kailiadirbių namai turguje leido ant sienų pardavimui kabinti kepures ir kailius.'
+  sudarymo_pagrindimas: 'Teiginys pagrįstas, bet pradinė formuluotė per ilga ir nutrūkusi.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kailiai|Kailiai]]; mentioned_object: [[objektai/daiktai/Vaškas|Vaškas]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_object: [[objektai/zodynas/vaitas|vaitas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -63,6 +67,8 @@ Nenurodyta
 - t-003
   global_id: t-87007
   teiginys: 'Karaliaus raštu Vilniaus vaitui leista į užsienį parduoti tris vaško gabalus po 50 akmenų.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir remiasi citatoje minimu karaliaus raštu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Vaškas|Vaškas]]; mentioned_object: [[objektai/zodynas/vaitas|vaitas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas Markovičius|Jonas Markovičius]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Bobruiskas; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Rudamina; mentioned_place: Smolenskas; mentioned_place: Vilija; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -180,15 +186,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Jonas]]
-- [[objektai/asmenys/Jonas Markovičius]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/daiktai/Vaškas]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/Miera|miera]]
-- [[objektai/zodynas/vaitas]]
-- [[objektai/asmenys/Žygimantas]]
-- [[objektai/grupes/Vilniaus pirkliai]]

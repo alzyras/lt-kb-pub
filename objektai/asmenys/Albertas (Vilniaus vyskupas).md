@@ -3,6 +3,10 @@ tipas: asmuo
 pavadinimas: 'Albertas (Vilniaus vyskupas)'
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+datos:
+  - '1501 m.'
+date_start: '1501'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -10,12 +14,16 @@ tags:
   - karalius
   - kunigaikštis
   - tikėjimas
+amziai:
+  - 'XVI'
+periodo_grupes:
+  - 'LDK'
 ---
 # Albertas (Vilniaus vyskupas)
 
 ## Santrauka
 
-Albertas kaip vyskupas dalyvavo 1501 m. Gardine aktuotame dokumente tarp patikimų liudytojų.
+Ten pat daly­ vaujant didžiai gerbiamiems, didingiesiems ir prakilnie­ siems vyskupui Albertui, Vilniaus kaštelionui ir Gardino seniūnui Aleksandrui Jurgėvičiui, Trakų vaivadai ir LDK didžiajam maršalkai Jonui iš Zabrežjės, LDK pataurininkiui ir Bełsko. Ten pat dalyvaujant didžiai gerbiamam Kristuje tėvui ir Vilniaus vyskupui Albertui, didingiesiems ir prakilniesiems LDK didžiajam maršalkai, Trakų vaivadai Jonui iš Zabrežjės, Merkinės laikytojui, mūsų Lietuvos rūmų maršalkai, Glinsko kunigaikščiui Mykolui.
 
 ## Teiginiai
 
@@ -23,6 +31,11 @@ Albertas kaip vyskupas dalyvavo 1501 m. Gardine aktuotame dokumente tarp patikim
 - t-001
   global_id: t-87422
   teiginys: 'Albertas kaip vyskupas dalyvavo 1501 m. Gardine aktuotame dokumente tarp patikimų liudytojų.'
+  sudarymo_pagrindimas: 'Teiginys pašalina OCR triukšmą ir remiasi citatoje nurodytu dalyvavimu.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Pataurininkis|Pataurininkis]]; mentioned_object: [[objektai/zodynas/kaštelionas|kaštelionas]]; mentioned_object: [[objektai/zodynas/maršalka|maršalka]]; mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Albertas|Albertas]]; mentioned_place: Bełskas; mentioned_place: Gardinas; mentioned_place: Slonimas; mentioned_place: Trakai; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1501 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys pašalina OCR triukšmą ir remiasi citatoje nurodytu dalyvavimu.'
   pagrindžia:
     - c-001
 
@@ -49,11 +62,3 @@ Albertas kaip vyskupas dalyvavo 1501 m. Gardine aktuotame dokumente tarp patikim
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Pataurininkis]]
-- [[objektai/zodynas/kaštelionas]]
-- [[objektai/zodynas/maršalka]]
-- [[objektai/zodynas/seniūnas]]
-- [[objektai/zodynas/vaivada]]

@@ -21,6 +21,8 @@ Dusburgietis teigia, kad iki Persantės vakaruose žalvario amžiuje buvo paplit
 - t-001
   global_id: t-91964
   teiginys: 'Lietuvos archeologijos bruožuose nurodoma, kad žalvario amžiuje iki Persantės vakaruose buvo paplitę baltų kultūrinei sričiai būdingi gyvatgalviai kapliai.'
+  sudarymo_pagrindimas: 'Citata palaiko teiginį, o perrašymas pašalina nutrūkusią bibliografinę nuorodą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_object: [[objektai/daiktai/Gyvatgalviai kapliai|Gyvatgalviai kapliai]]; mentioned_place: Lietuva; mentioned_place: Pasarė'
   pagrindžia:
     - c-001
 

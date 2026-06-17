@@ -28,6 +28,7 @@ Kas nori žinoti, kas buvo Did. karas, turi būtinai šią knygą perskaityti.
 - t-002
   global_id: t-93129
   teiginys: 'Posakis ragino perskaityti knygą, kurioje vaizduotos Didžiojo karo baisybės: atakos, nuodingos dujos, tankai ir mirtis.'
+  sudarymo_pagrindimas: 'Reklaminis fragmentas sutrumpintas į faktą apie posakio paskirtį ir citatoje nurodytą knygos turinį.'
   pagrindžia:
     - c-001
 

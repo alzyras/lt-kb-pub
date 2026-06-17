@@ -3,12 +3,20 @@ tipas: autorius
 pavadinimas: 'Hermanas iš Vartbergės'
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+datos:
+  - '1330 m.'
+date_start: '1330'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
   - karas
   - ordinas
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 ---
 # Hermanas iš Vartbergės
 
@@ -22,6 +30,12 @@ Dusburgietis teigia, kad epochai, kai vyko sunkus karas prieš Kryžiuočių ord
 - t-001
   global_id: t-62615
   teiginys: 'Hermano iš Vartbergės kronika laikoma svarbiu šaltiniu XIII-XIV a. Lietuvos feodalinio laikotarpio istorijai nušviesti.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Citata pagrindžia teiginį apie Hermano iš Vartbergės kronikos reikšmę, bet pradinis tekstas yra triukšmingas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_person: [[objektai/asmenys/Vygandas|Vygandas]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Prūsai; mentioned_place: Prūsija'
+  temporaliniai_duomenys: 'įvykio data: iki 1330 m.; įvykio data: 1330 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia teiginį apie Hermano iš Vartbergės kronikos reikšmę, bet pradinis tekstas yra triukšmingas.'
   pagrindžia:
     - c-001
 
@@ -47,15 +61,3 @@ Dusburgietis teigia, kad epochai, kai vyko sunkus karas prieš Kryžiuočių ord
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/Dusburgas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Vygandas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/autoriai/Henrikas Latvis]]
-- [[objektai/grupes/Katalikų Bažnyčia]]
-- [[objektai/autoriai/Petras Dusburgietis]]
-- [[objektai/autoriai/Vygandas iš Marburgo]]

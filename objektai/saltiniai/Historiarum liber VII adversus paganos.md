@@ -37,6 +37,8 @@ Veikalas minimas kaip Orosijaus knyga, kurią versdamas Anglų karalius Alfredas
 - t-001
   global_id: t-36049
   teiginys: 'Alfredas Didysis, versdamas Orosijaus „Historiarum liber VII adversus paganos“, pridėjo žinių apie Baltijos jūros pakraščių tautas.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, faktinis ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_group: [[objektai/grupes/Anglai|Anglai]]; mentioned_group: [[objektai/grupes/Gotai|Gotai]]; mentioned_place: Baltija'
   pagrindžia:
     - c-002
 
@@ -44,6 +46,7 @@ Veikalas minimas kaip Orosijaus knyga, kurią versdamas Anglų karalius Alfredas
 - t-002
   global_id: t-36050
   teiginys: '„Historiarum liber VII adversus paganos“ šiame veikale minima kaip Orosijaus knyga.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_group: [[objektai/grupes/Anglai|Anglai]]; mentioned_group: [[objektai/grupes/Gotai|Gotai]]; mentioned_place: Baltija'
   pagrindžia:
     - c-002
 
@@ -51,6 +54,8 @@ Veikalas minimas kaip Orosijaus knyga, kurią versdamas Anglų karalius Alfredas
 - t-003
   global_id: t-36051
   teiginys: 'Alfredas Didysis, versdamas Orosijaus „Historiarum liber VII adversus paganos“, pridėjo žinių apie Baltijos pakraščių tautas ir aisčius.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus ir pagrįstas citatoje pateikta informacija.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_group: [[objektai/grupes/Anglai|Anglai]]; mentioned_group: [[objektai/grupes/Gotai|Gotai]]; mentioned_place: Baltija'
   pagrindžia:
     - c-001
 

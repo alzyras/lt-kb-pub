@@ -10,6 +10,7 @@ tags:
   - bajorija
   - kunigaikštis
   - tauta
+  - valdovas
 ---
 # Silvestras Levontjevičius
 
@@ -23,9 +24,11 @@ Likus trims sa­ vaitėms iki Velykų, pskoviečiai pa­ siuntė pas Vytautą po
 - t-001
   global_id: t-87928
   teiginys: 'Pskoviečiai pasiuntė posadniką Silvestrą Levontjevičių pas Vytautą derėtis dėl belaisvių išpirkimo.'
+  sudarymo_pagrindimas: 'Citata pagrindžia Silvestro Levontjevičiaus pasiuntimą pas Vytautą dėl belaisvių.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Pskoviečiai|Pskoviečiai]]; mentioned_object: [[objektai/zodynas/bojarinai|bojarinai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_person: [[objektai/asmenys/Grigalius (vicekancleris)|Grigalius (vicekancleris)]]; mentioned_person: [[objektai/asmenys/Parfėjus|Parfėjus]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/zodynas/posadnikas bojarinas vietininkas.md#claim-t-86609|posadnikas bojarinas vietininkas]]: 1429 metais pas Vytautą buvo atsiųsti Pskovo posadnikas Silvestras Levontjevičius ir vietininkas Parfėjus.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -63,12 +66,3 @@ Likus trims sa­ vaitėms iki Velykų, pskoviečiai pa­ siuntė pas Vytautą po
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bajorai]]
-- [[objektai/grupes/Pskoviečiai]]
-- [[objektai/zodynas/bojarinai]]
-- [[objektai/zodynas/didysis kunigaikštis]]
-- [[objektai/zodynas/vietininkas]]
-- [[objektai/zodynas/posadnikas bojarinas vietininkas]]

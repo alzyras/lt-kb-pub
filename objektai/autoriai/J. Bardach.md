@@ -28,6 +28,7 @@ Bardach, J.
 - t-001
   global_id: t-30660
   teiginys: 'J. Bardach knygoje apie Lietuvos Didžiosios Kunigaikštystės santvarką ir teisę paskelbė darbą „Akt w Krewie“.'
+  susije_objektai: 'mentioned_place: Krokuva; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

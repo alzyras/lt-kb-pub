@@ -28,6 +28,11 @@ Jį, dar būdama Stanislovienė Goštautienė, Trakų vaivadienė, našlė, išd
 - t-001
   global_id: t-87826
   teiginys: '1547 m. rugsėjo 10 d. Barbora Radvilaitė pasiskolino iš Petro Ivanovskio 128 kapas grašių ir 8 dubenis medaus.'
+  sudarymo_pagrindimas: 'Citata palaiko konkretų faktą apie skolą Petrui Ivanovskiui.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_place: Auksinė; mentioned_place: Trakai'
+  temporaliniai_duomenys: 'įvykio data: 1547 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko konkretų faktą apie skolą Petrui Ivanovskiui.'
   pagrindžia:
     - c-001
 

@@ -15,13 +15,15 @@ tags:
 
 ## Santrauka
 
-Henrikas (Mozūrų kunigaikštis) savo valdovo vardu Vytautui grįžti, žadėdamas jam grąžinti Lietuvą. Lenkijai atsidūrus sunkioje padėtyje, Mozūrų kunigaikštis Henrikas išvyko į Prūsus ir rado Vytautą Rittersverderyje.
+Kadangi mozūrai su ordinu gyveno geruoju, o, be to, Henrikas, viešėdamas pas Vytautą, vedė jo seserį Ringailę, tai ordinas jo neįtarė, ir tuo būdu buvo slapta susitarta. Jogaila pasiuntė pas Vytautą jaunutį Mozūrų kunigaikštį Henriką.
 
 ## Teiginiai
+
 <a id="claim-t-63618"></a>
 - t-001
   global_id: t-63618
   teiginys: 'Henrikas (Mozūrų kunigaikštis) savo valdovo vardu Vytautui grįžti, žadėdamas jam grąžinti Lietuvą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -29,10 +31,14 @@ Henrikas (Mozūrų kunigaikštis) savo valdovo vardu Vytautui grįžti, žadėda
 - t-002
   global_id: t-63619
   teiginys: 'Lenkijai atsidūrus sunkioje padėtyje, Mozūrų kunigaikštis Henrikas išvyko į Prūsus ir rado Vytautą Rittersverderyje.'
+  sudarymo_pagrindimas: 'Reikia išskleisti kontekstinį „pavojaus metu“ ir aiškiau suformuluoti sakinį.'
+  susije_objektai: 'territory: Lenkija; territory: Prūsai; territory: Rittersverderis; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Mozūrų kunigaikštis Henrikas|Mozūrų kunigaikštis Henrikas]]; mentioned_place: Lenkija; mentioned_place: Prūsai; mentioned_place: Rittersverderis'
+  semantiniai_rysiai: '[[objektai/asmenys/Henrikas (Mozūrų kunigaikštis)|Henrikas (Mozūrų kunigaikštis)]] buvo valdovas Lenkija; [[objektai/asmenys/Henrikas (Mozūrų kunigaikštis)|Henrikas (Mozūrų kunigaikštis)]] buvo valdovas Prūsai; [[objektai/asmenys/Henrikas (Mozūrų kunigaikštis)|Henrikas (Mozūrų kunigaikštis)]] buvo valdovas Rittersverderis'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Lenkijai atsidūrus sunkioje padėtyje, Mozūrų kunigaikštis Henrikas išvyko į Prūsus ir rado Vytautą Rittersverderyje.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -47,6 +53,7 @@ Henrikas (Mozūrų kunigaikštis) savo valdovo vardu Vytautui grįžti, žadėda
   statusas: verified
   pagrindžia:
     - t-002
+
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -64,5 +71,6 @@ Henrikas (Mozūrų kunigaikštis) savo valdovo vardu Vytautui grįžti, žadėda
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
+- Henrikas (Mozūrų kunigaikštis) buvo_valdovas [[objektai/vietos/Lenkija]]
+- Henrikas (Mozūrų kunigaikštis) buvo_valdovas [[objektai/vietos/Prūsai]]
+- Henrikas (Mozūrų kunigaikštis) buvo_valdovas [[objektai/vietos/Rittersverderis]]

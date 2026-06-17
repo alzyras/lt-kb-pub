@@ -29,6 +29,11 @@ Dvarininkai, gindamiesi nuo „litvomanijos“, vis labiau tolo nuo lietuviškai
 - t-001
   global_id: t-77798
   teiginys: 'Dvarininkai, gindamiesi nuo „litvomanijos“, tolo nuo lietuviškai kalbančių kaimo gyventojų, o dalis kunigų konfliktavo su lietuvių siekiais.'
+  sudarymo_pagrindimas: 'Pirminis teiginys per ilgas ir turi publicistinių formuluočių.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Adomas (auksakalys)|Adomas (auksakalys)]]; mentioned_person: [[objektai/asmenys/Adomas Jakštas-Dambrauskas|Adomas Jakštas-Dambrauskas]]; mentioned_person: [[objektai/asmenys/Kiška|Kiška]]; mentioned_place: Kaimas; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1902 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pirminis teiginys per ilgas ir turi publicistinių formuluočių.'
   pagrindžia:
     - c-001
 
@@ -59,12 +64,3 @@ Dvarininkai, gindamiesi nuo „litvomanijos“, vis labiau tolo nuo lietuviškai
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Adomas (auksakalys)]]
-- [[objektai/asmenys/Adomas Jakštas-Dambrauskas]]
-- [[objektai/grupes/Bajorai]]
-- [[objektai/asmenys/Kiška]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]

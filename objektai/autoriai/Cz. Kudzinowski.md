@@ -3,18 +3,15 @@ tipas: autorius
 pavadinimas: 'Cz. Kudzinowski'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-datos:
-  - '1964 m.'
-date_start: '1964'
+datos: []
+date_start: ''
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
-amziai:
-  - 'XX'
-periodo_grupes:
-  - 'XX a.'
+amziai: []
+periodo_grupes: []
 ---
 # Cz. Kudzinowski
 
@@ -28,6 +25,9 @@ Kudzinowski, Cz.
 - t-001
   global_id: t-97149
   teiginys: 'Cz. Kudzinowski 1964 m. paskelbė darbą „Jaćwingowie w języku“ leidinyje ABaSl.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
+  temporaliniai_duomenys: 'įvykio data: iki 1200 m.; įvykio data: 1200 m.; įvykio data: 1939 m.; įvykio data: 1964 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -35,6 +35,11 @@ Kudzinowski, Cz.
 - t-002
   global_id: t-97150
   teiginys: 'Cz. Kudzinowski parašė straipsnį „Jaćwingome w języku“, paskelbtą ABaSl I tome 1964 m.'
+  sudarymo_pagrindimas: 'Pradinis teiginys yra šaltinio fragmentas, o citata palaiko bibliografinį sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
+  temporaliniai_duomenys: 'įvykio data: iki 1200 m.; įvykio data: 1200 m.; įvykio data: 1939 m.; įvykio data: 1964 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys yra šaltinio fragmentas, o citata palaiko bibliografinį sakinį.'
   pagrindžia:
     - c-001
 
@@ -55,7 +60,3 @@ Kudzinowski, Cz.
   pagrindžia:
     - t-001
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]

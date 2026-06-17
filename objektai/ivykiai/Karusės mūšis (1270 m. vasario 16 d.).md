@@ -18,7 +18,7 @@ amziai:
 
 ## Santrauka
 
-Karusės mūšyje žuvo Livonijos magistras Ottonas Luterbergas ir 52 Ordino broliai. Hermano Vartbergės kronika mūšį sieja su 52 ordino broliais ir 600 krikščionių prie Karuzo. Karusės mūšyje lietuviai ir vyskupų pajėgos 1270 m. vasario 16 d. ties Karuse susitiko ant užšalusios jūros ledo.
+Citata 1 (`new_claim`): galimas teiginys: 1270 m. vasario 16 d. abi kariuomenės ties Karuse (Virtsu) susitiko ant užšalusios jūros ledo. 1270 m. vasario 16 d. abi kariuomenės ties Karuse (Virtsu) susitiko ant užšalusios jūros ledo Karusės mūšyje žuvo Livonijos magistras Ottonas Luterbergas ir 52 Ordino broliai.
 
 ## Laikotarpis ir datos
 
@@ -42,6 +42,7 @@ Nenurodyta
 - t-001
   global_id: t-66606
   teiginys: 'Karusės mūšyje žuvo Livonijos magistras Ottonas Luterbergas ir 52 Ordino broliai.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/asmenys/Luterbergas|Luterbergas]]; mentioned_person: [[objektai/asmenys/Ottonas Luterbergas|Ottonas Luterbergas]]; mentioned_place: Livonija; mentioned_place: Talinas'
   pagrindžia:
     - c-003
 
@@ -49,6 +50,7 @@ Nenurodyta
 - t-002
   global_id: t-66607
   teiginys: 'Hermano Vartbergės kronika mūšį sieja su 52 ordino broliais ir 600 krikščionių prie Karuzo.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]'
   pagrindžia:
     - c-001
 
@@ -56,9 +58,14 @@ Nenurodyta
 - t-003
   global_id: t-66608
   teiginys: 'Karusės mūšyje lietuviai ir vyskupų pajėgos 1270 m. vasario 16 d. ties Karuse susitiko ant užšalusios jūros ledo.'
+  sudarymo_pagrindimas: 'Pradiniame teiginyje neaišku, kurios kariuomenės minimos.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Saremos'
+  temporaliniai_duomenys: 'įvykio data: 1270 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradiniame teiginyje neaišku, kurios kariuomenės minimos.'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -104,12 +111,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/daiktai/Žirgai]]
-- [[objektai/autoriai/Karolis Zikaras]]
-- [[objektai/asmenys/Luterbergas]]
-- [[objektai/asmenys/Ottonas Luterbergas]]

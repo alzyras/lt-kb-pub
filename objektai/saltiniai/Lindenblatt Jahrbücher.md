@@ -29,6 +29,8 @@ amziai:
 - t-001
   global_id: t-88115
   teiginys: 'Lindenblatto kronikos vietovardis Boparthen pastabose aiškinamas kaip dabartinis Bobiai į šiaurės vakarus nuo Kauno.'
+  sudarymo_pagrindimas: 'Citata palaiko teiginį apie kronikos vietovardžio identifikavimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Statinės|Statinės]]; mentioned_person: [[objektai/autoriai/Lindenblattas|Lindenblattas]]; mentioned_place: Kaimas; mentioned_place: Kaunas; mentioned_place: Trakai'
   pagrindžia:
     - c-002
 
@@ -36,6 +38,8 @@ amziai:
 - t-002
   global_id: t-88116
   teiginys: 'Lindenblattas išsaugojo smulkias Vilniaus pilių apgulties aplinkybes, kurių lietuvių metraštininkai nežinojo.'
+  sudarymo_pagrindimas: 'Citata pagrindžia teiginį apie Lindenblatto pateiktas detales, o pradinė forma sugadinta.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/autoriai/Lindenblattas|Lindenblattas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -43,6 +47,8 @@ amziai:
 - t-003
   global_id: t-88117
   teiginys: 'Lindenblatt Jahrbücher kryžiuočių persikėlimą per Viliją datavo rugpjūčio 28 d., o priartėjimą prie Vilniaus - rugsėjo 4 d.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Vilija; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 
@@ -50,6 +56,11 @@ amziai:
 - t-004
   global_id: t-88118
   teiginys: 'Lindenblatt Jahrbücher minėjo 1401 m. Vilniuje Šv. Priskos, mergelės ir kankinės, dieną duotą Lietuvos prelatus liečiančią privilegiją.'
+  sudarymo_pagrindimas: 'Pradinis tekstas buvo OCR fragmentas; citata leidžia suformuluoti pilną bibliografinį faktą.'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1401 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis tekstas buvo OCR fragmentas; citata leidžia suformuluoti pilną bibliografinį faktą.'
   pagrindžia:
     - c-004
 

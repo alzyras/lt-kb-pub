@@ -36,6 +36,14 @@ Nenurodyta
 - t-001
   global_id: t-185652
   teiginys: '1487 m. Vasiljevičius iš Krošino kunigaikščių atėmė geroką krašto dalį ir stengėsi nuslėpti brolio Andrejaus įsibrovimą į Viazmos žemę.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citate nurodyta, kad jis stengėsi nuslėpti įsibrovimą, todėl teiginį reikia patikslinti.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]; mentioned_person: [[objektai/asmenys/Vygandas|Vygandas]]; mentioned_place: Možaiskas; mentioned_place: Viazma'
+  temporaliniai_duomenys: 'įvykio data: 1487 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citate nurodyta, kad jis stengėsi nuslėpti įsibrovimą, todėl teiginį reikia patikslinti.'
   pagrindžia:
     - c-001
 
@@ -67,10 +75,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)]]
-- [[objektai/asmenys/Vygandas]]
-- [[objektai/zodynas/kunigaikščiai]]

@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Brolio Hermano vadovavimo metais Ordinas gavo dovanų Armėnijoje.
+Dusburgietis teigia, kad jo metais Ordinas gavo puikių dovanų Apulijoje, Romanijoje, Armėnijoje, Vokietijoje, o Vengrijoje vadinamąją Burcos žemę159, be to, Livoniją ir Prūsiją.
 
 ## Teiginiai
 
@@ -23,6 +23,8 @@ Brolio Hermano vadovavimo metais Ordinas gavo dovanų Armėnijoje.
 - t-001
   global_id: t-58759
   teiginys: 'Brolio Hermano vadovavimo metais Ordinas gavo dovanų Armėnijoje.'
+  sudarymo_pagrindimas: 'Citata remia konkretesnį teiginį apie Armėniją be perteklinio vietų sąrašo.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Livonija; mentioned_place: Vengrija'
   pagrindžia:
     - c-001
 

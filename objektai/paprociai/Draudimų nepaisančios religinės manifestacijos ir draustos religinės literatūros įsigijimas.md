@@ -3,10 +3,16 @@ tipas: paprotys
 pavadinimas: 'Draudimų nepaisančios religinės manifestacijos ir draustos religinės literatūros įsigijimas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1993 m.'
+date_start: '1993'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - tikėjimas
+amziai:
+  - 'XX'
 ---
 # Draudimų nepaisančios religinės manifestacijos ir draustos religinės literatūros įsigijimas
 
@@ -47,6 +53,11 @@ Sovietmečiu religinės manifestacijos veikė kaip masinė draudimų nepaisymo p
 - t-001
   global_id: t-23363
   teiginys: 'Nepaisydami valdžios draudimų, į religines manifestacijas suvažiuodavo dešimtys tūkstančių maldininkų, įsigydavusių draustų relikvijų ir nelegalios religinės literatūros.'
+  sudarymo_pagrindimas: 'Citata pagrindžia teiginį, bet joje nenurodyta sovietų valdžia.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Kryžių kalnas'
+  temporaliniai_duomenys: 'įvykio data: 1993 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia teiginį, bet joje nenurodyta sovietų valdžia.'
   pagrindžia:
     - c-001
 
@@ -70,14 +81,3 @@ Sovietmečiu religinės manifestacijos veikė kaip masinė draudimų nepaisymo p
 ## Šaltiniai ir įrodymai
 
 Nenurodyta
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/religinė-praktika]]
-
-### Susiję objektai
-- [[objektai/asmenys/Jonas]]
-- [[objektai/daiktai/Kryžius]]
-- [[objektai/daiktai/Nelegaliai išspausdinta religinė literatūra]]
-- [[objektai/daiktai/Religinės relikvijos]]
-- [[objektai/zodynas/pogrindis pogrindiniai leidiniai nelegali spauda]]

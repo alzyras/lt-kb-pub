@@ -20,9 +20,11 @@ Vitkauskas, gen.
 - t-001
   global_id: t-19300
   teiginys: 'Kariuomenės vadas generolas V. Vitkauskas motyvavo, kad Lietuva viena negali rimčiau pasipriešinti sovietų karinei mašinai.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir citatoje V. Vitkauskas įvardytas tarp taip motyvavusių kariškių.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-001
-
+- susijęs iš SSRS ultimatumas Lietuvai (1940 m. birželio 14 d.): Generolai V. Vitkauskas ir S. Raštikis teigė, kad viena Lietuva negali rimčiau pasipriešinti sovietų karinei mašinai.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -39,7 +41,3 @@ Vitkauskas, gen.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/SSRS ultimatumas Lietuvai ir jo priėmimas (1940 m. birželio 14-15 d.)]]

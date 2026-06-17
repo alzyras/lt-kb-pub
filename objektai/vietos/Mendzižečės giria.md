@@ -22,6 +22,9 @@ Per pusantros mylios nuo Rūdninkų Mendzižečės link stūksojo nuostabiai gra
 - t-001
   global_id: t-86211
   teiginys: 'Mendzižečės giria apėmė daugiau kaip 3000 valakų plotą, kuriam priklausė ir Rūdninkų medžionė.'
+  sudarymo_pagrindimas: 'Citata palaiko faktą apie girios plotą ir priklausinius, o pradinis teiginys turi vertėjo pastabos triukšmo.'
+  susije_objektai: 'owner: Rūdninkai; owner: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; owner: [[objektai/grupes/Valakai|Valakai]]; owner: Viena; owner: Vilnius; owner: Žgvižda; mentioned_group: [[objektai/grupes/Valakai|Valakai]]; mentioned_object: [[objektai/daiktai/Statinės|Statinės]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Rūdninkai; mentioned_place: Viena; mentioned_place: Vilnius; mentioned_place: Žgvižda'
+  semantiniai_rysiai: 'Mendzižečės giria priklausė [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; Mendzižečės giria priklausė [[objektai/grupes/Valakai|Valakai]]; Mendzižečės giria priklausė Rūdninkai; Mendzižečės giria priklausė Viena; Mendzižečės giria priklausė Vilnius; Mendzižečės giria priklausė Žgvižda'
   pagrindžia:
     - c-001
 
@@ -51,3 +54,11 @@ Per pusantros mylios nuo Rūdninkų Mendzižečės link stūksojo nuostabiai gra
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+- Mendzižečės giria priklause [[objektai/vietos/Rūdninkai]]
+- Mendzižečės giria priklause [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
+- Mendzižečės giria priklause [[objektai/grupes/Valakai]]
+- Mendzižečės giria priklause [[objektai/vietos/Viena]]
+- Mendzižečės giria priklause [[objektai/vietos/Vilnius]]
+- Mendzižečės giria priklause [[objektai/vietos/Žgvižda]]

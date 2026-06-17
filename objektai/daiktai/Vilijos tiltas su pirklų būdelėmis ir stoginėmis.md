@@ -49,6 +49,11 @@ Nenurodyta
 - t-001
   global_id: t-87096
   teiginys: '1529 m. Albertas Goštautas gavo karaliaus leidimą per Viliją nutiesti akmeninį arba plytinį tiltą su pirklių būdelėmis ar stoginėmis.'
+  sudarymo_pagrindimas: 'Sakinys sutvarkytas, išlaikant citatoje pagrįstą leidimą ir tilto įrangą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Albertas|Albertas]]; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_place: Vilija; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1529 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Sakinys sutvarkytas, išlaikant citatoje pagrįstą leidimą ir tilto įrangą.'
   pagrindžia:
     - c-001
 
@@ -56,6 +61,8 @@ Nenurodyta
 - t-002
   global_id: t-87097
   teiginys: 'Karalius leido Hozijui pastatyti tiltą per Viliją vietoje nepatogios perkėlos ir imti nustatytą mokestį iš pravažiuojančiųjų.'
+  sudarymo_pagrindimas: 'Pašalintas nutrūkęs fragmentas ir suformuotas aiškus faktas apie tilto teisę.'
+  susije_objektai: 'territory: Vilija; territory: Vilnius; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Vilija; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -100,11 +107,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Albertas]]
-- [[objektai/asmenys/Jonas]]
-- [[objektai/zodynas/vaivada]]
-- [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]]
-- [[objektai/daiktai/Tiltai, jazai ir vandens infrastruktūra]]

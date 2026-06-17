@@ -14,6 +14,7 @@ tags:
   - miestas
   - pilis
   - privilegija
+  - vieta
 amziai:
   - 'XIII'
 ---
@@ -21,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-Privilegijos dokumente prie Torunės minima prūsiška Lisske (pr.
+Dusburgietis teigia, kad privilegijos dokumente prie Torunės minima prūsiška Lisske (pr.
 
 ## Teiginiai
 
@@ -29,9 +30,17 @@ Privilegijos dokumente prie Torunės minima prūsiška Lisske (pr.
 - t-001
   global_id: t-58700
   teiginys: 'Privilegijos dokumente prie Torunės minima prūsiška Lisske (pr.'
+  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
+  susije_objektai: 'mentioned_place: Torunė'
+  temporaliniai_duomenys: 'įvykio data: 1233 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'claim_quality_pipeline deterministic repair'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/autoriai/Jasiński T.md#claim-t-60719|Jasiński T]]: T. Jasińskis Lisske lokalizavo saloje prie Senosios Torunės.
+- susijęs iš Senoji Torunė: Senojoje Torunėje greta pilies augo miestas, 1233 m. gavęs privilegiją.
+- susijęs iš [[objektai/zodynas/liscis lizkis Lisske.md#claim-t-58946|liscis lizkis Lisske]]: Privilegijos dokumente prie Torunės minima prūsiška Lisske (pr.
+- susijęs iš [[objektai/zodynas/liscis lizkis.md#claim-t-58945|liscis lizkis]]: Liscis, lizkis ‘stovykla, apsistojimo vieta’, iš pr.
 ## Reikšmingi paminėjimai
 
 - c-001

@@ -1,28 +1,16 @@
 ---
-tipas: 'ivykis'
+tipas: ivykis
 pavadinimas: 'I Lietuvos Statuto priėmimas'
-sukurta: '2026-06-16'
-variantai:
-  - 'I-jo Lietuvos Statuto priėmimas'
-aliases: []
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
-bukle: 'juodrastis'
-laikotarpis: '1529 m.'
 datos:
   - '1529 m.'
-periodas: ''
-periodo_grupes: []
+date_start: '1529'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
 amziai:
   - 'XVI'
-date_start: '1529'
-date_end: '1529'
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: ''
-atnaujinta: '2026-06-16'
-tags: []
 ---
 # I Lietuvos Statuto priėmimas
 
@@ -41,35 +29,48 @@ tags: []
 - date_end: 1529
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 <a id="claim-t-187472"></a>
 - t-001
   global_id: t-187472
-  teiginys: '1529 m. buvo priimtas I Lietuvos Statutas.'
+  teiginys: 'Alberto Goštauto pagyrimas Žygimantui II Kazimieraičiui buvo parašytas 1529 m. I Lietuvos Statuto priėmimo proga.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Išplėstas neaiškus įvardis ir pridėtas citatoje nurodytas objektas.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.)|Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.)]]; mentioned_object: [[objektai/zodynas/statutas|statutas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1529 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Išplėstas neaiškus įvardis ir pridėtas citatoje nurodytas objektas.'
   pagrindžia:
     - c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  statusas: patvirtinta
+
 <a id="claim-t-187473"></a>
 - t-002
   global_id: t-187473
-  teiginys: 'Alberto Goštauto pagyrimas Žygimantui II Kazimieraičiui buvo parašytas šio priėmimo proga.'
+  teiginys: '1529 m. buvo priimtas I Lietuvos Statutas.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra trumpas faktinis sakinys apie I Lietuvos Statuto priėmimą. Citata tiesiogiai remia datą ir įvykį, nepridedant platesnio konteksto.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.)|Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.)]]; mentioned_object: [[objektai/zodynas/statutas|statutas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1529 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra trumpas faktinis sakinys apie I Lietuvos Statuto priėmimą. Citata tiesiogiai remia datą ir įvykį, nepridedant platesnio konteksto.'
   pagrindžia:
     - c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1529 m. buvo priimtas I Lietuvos Statutas.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     O Bychovco kronikoje iš
@@ -80,18 +81,9 @@ Nenurodyta
     manto II Kazimieraičio pagyrimą, parašytą 1529 m.
     Lietuvos Didžiosios Kunigaikštystės teisės kodekso —
     I-jo Lietuvos Statuto priėmimo proga 5 7 .
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.)]]
-- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
-- [[objektai/zodynas/statutas]]
-- [[objektai/asmenys/Žygimantas]]
+    - t-001

@@ -23,6 +23,7 @@ Podolėje Karijotaičiai ėmė įvesti tvarką, statyti pilis (Kamieniecą, Smot
 - t-001
   global_id: t-32562
   teiginys: 'Podolėje Karijotaičiai statė pilis, tarp jų Smotryčą, ir ėmė tvarkyti krašto ūkinį gyvenimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Karijotaičiai|Karijotaičiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Karijotas|Karijotas]]; mentioned_person: [[objektai/asmenys/Teodoras|Teodoras]]; mentioned_place: Bakota; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_place: Podolė'
   pagrindžia:
     - c-001
 

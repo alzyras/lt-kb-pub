@@ -3,6 +3,12 @@ tipas: ivykis
 pavadinimas: 'Reformacijos pradžia Lietuvoje'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1517 m.'
+  - '1525 m.'
+  - '1542 m.'
+date_start: '1517'
+date_end: '1542'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -10,6 +16,8 @@ tags:
   - kunigaikštis
   - reforma
   - valstybė
+amziai:
+  - 'XVI'
 ---
 # Reformacijos pradžia Lietuvoje
 
@@ -39,6 +47,11 @@ Nenurodyta
 - t-001
   global_id: t-20460
   teiginys: 'Abraomas Kulvietis siekė lietuvių kalbą padaryti švietimo sistemos pagrindu ir išugdyti lietuvių inteligentiją.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir tiksliai perteikia citatos informaciją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Abraomas|Abraomas]]; mentioned_person: [[objektai/asmenys/Abraomas Kulvietis|Abraomas Kulvietis]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: po 1525 m.; įvykio data: 1525 m.; įvykio data: 1542 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, aiškus ir tiksliai perteikia citatos informaciją.'
   pagrindžia:
     - c-002
 
@@ -46,6 +59,11 @@ Nenurodyta
 - t-002
   global_id: t-20461
   teiginys: '1517 m. Martynas Liuteris pradėjo reformaciją, laikomą viena reikšmingiausių Naujųjų amžių apraiškų.'
+  sudarymo_pagrindimas: 'Reikia lietuviškos vardo formos ir sklandesnės enciklopedinės formuluotės.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_group: [[objektai/grupes/Romėnai|Romėnai]]; mentioned_object: [[objektai/zodynas/reformacija|reformacija]]; mentioned_person: [[objektai/asmenys/Martynas Liuteris|Martynas Liuteris]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1517 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia lietuviškos vardo formos ir sklandesnės enciklopedinės formuluotės.'
   pagrindžia:
     - c-001
 
@@ -83,15 +101,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Abraomas Kulvietis]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Lotynai]]
-- [[objektai/asmenys/Martynas iš Golino]]
-- [[objektai/grupes/Romėnai]]
-- [[objektai/zodynas/reformacija]]
-- [[objektai/asmenys/Abraomas]]
-- [[objektai/asmenys/Martynas Liuteris]]
-- [[objektai/zodynas/reformacija protestantizmas kalvinizmas]]

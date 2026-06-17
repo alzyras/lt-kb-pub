@@ -23,6 +23,8 @@ Dusburgietis teigia, kad pasakojimą apie krikščionių pergalę kartais linkst
 - t-001
   global_id: t-60734
   teiginys: 'S. Kujot Dusburgiečio pasakojimą apie krikščionių pergalę siejo su įvykius pagražinančiu prasimanymu arba vėlesne tradicija.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir pagrįstas citatoje nurodyta Kujoto pozicija.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_place: Zirgūna'
   pagrindžia:
     - c-001
 
@@ -44,7 +46,3 @@ Dusburgietis teigia, kad pasakojimą apie krikščionių pergalę kartais linkst
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/ežeras]]

@@ -20,6 +20,7 @@ Pirmiausia buvo pulta viena vietinių vyrų, daugiausia iš Dragonių k.
 - t-001
   global_id: t-41687
   teiginys: 'Pirmiausia buvo pulta vietinių vyrų stovykla, kurios dauguma buvo iš Dragonių kaimo.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Kaimas; mentioned_place: Viena'
   pagrindžia:
     - c-001
 

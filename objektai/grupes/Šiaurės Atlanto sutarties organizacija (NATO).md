@@ -5,10 +5,13 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1991 m.'
+  - '1993 m.'
   - '1994 m.'
+  - '1999 m.'
   - '2002 m.'
+  - '2004 m.'
 date_start: '1991'
-date_end: '2002'
+date_end: '2004'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -24,7 +27,7 @@ amziai:
 
 ## Santrauka
 
-Lietuva kelią į NATO pradėjo 1991 m. gruodį, prisijungdama prie Šiaurės Atlanto bendradarbiavimo tarybos. Vašingtono sutarties 5-asis straipsnis garantuoja NATO narių individualios ar kolektyvinės savigynos teisę ginkluoto užpuolimo atveju. 2004 m. Lietuva buvo priimta į Šiaurės Atlanto sutarties organizaciją ir Europos Sąjungą.
+1991 m. rugsėjo 17 d. Lietuva priimta į Jungtinių Tautų (JT) organizaciją, 1991 m. pabaigoje – į JT specializuotas įstaigas (UNESCO (Švietimo, mokslo ir kultūros organizacija), TDO (Tarptautinė darbo organizacija) ir kt.), 1993 m. priimta į Europos Tarybą. Savo kelią į NATO Lietuva pradėjo 1991 m. gruodį – prisijungė prie Šiaurės Atlanto bendradarbiavimo tarybos. 2002 m. lapkritį Prahoje septynios NATO kandidatės – Bulgarija, Estija, Latvija, Lietuva, Rumunija, Slovakija ir Slovėnija – pakviestos pradėti derybas su Šiaurės Atlanto sutarties organizacija dėl narystės.
 
 ## Teiginiai
 
@@ -32,6 +35,11 @@ Lietuva kelią į NATO pradėjo 1991 m. gruodį, prisijungdama prie Šiaurės At
 - t-001
   global_id: t-75050
   teiginys: 'Lietuva kelią į NATO pradėjo 1991 m. gruodį, prisijungdama prie Šiaurės Atlanto bendradarbiavimo tarybos.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie stojimo į NATO pradžią.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/NATO|NATO]]; mentioned_object: [[objektai/posakiai/Taikos labui|Taikos labui]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Manfredas|Manfredas]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1991 m.; įvykio data: 1994 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie stojimo į NATO pradžią.'
   pagrindžia:
     - c-003
 
@@ -39,6 +47,8 @@ Lietuva kelią į NATO pradėjo 1991 m. gruodį, prisijungdama prie Šiaurės At
 - t-002
   global_id: t-75051
   teiginys: 'Vašingtono sutarties 5-asis straipsnis garantuoja NATO narių individualios ar kolektyvinės savigynos teisę ginkluoto užpuolimo atveju.'
+  sudarymo_pagrindimas: 'Citata pagrindžia tikslesnį teiginį apie 5-ojo straipsnio turinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/NATO|NATO]]; mentioned_place: Vašingtonas; mentioned_place: Viena'
   pagrindžia:
     - c-004
 
@@ -46,6 +56,11 @@ Lietuva kelią į NATO pradėjo 1991 m. gruodį, prisijungdama prie Šiaurės At
 - t-003
   global_id: t-75053
   teiginys: '2004 m. Lietuva buvo priimta į Šiaurės Atlanto sutarties organizaciją ir Europos Sąjungą.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citata.'
+  susije_objektai: 'mentioned_place: Baltija; mentioned_place: Europa; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1991 m.; įvykio data: 1993 m.; įvykio data: 2004 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -53,6 +68,8 @@ Lietuva kelią į NATO pradėjo 1991 m. gruodį, prisijungdama prie Šiaurės At
 - t-004
   global_id: t-75056
   teiginys: 'NATO Vašingtono sutarties 5 straipsnis garantuoja individualios ar kolektyvinės savigynos teisę užpuolus Aljanso narę.'
+  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir patikslinta sakinio atrama citatoje.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/NATO|NATO]]; mentioned_place: Vašingtonas; mentioned_place: Viena'
   pagrindžia:
     - c-004
 
@@ -60,9 +77,16 @@ Lietuva kelią į NATO pradėjo 1991 m. gruodį, prisijungdama prie Šiaurės At
 - t-005
   global_id: t-75057
   teiginys: '2002 m. lapkritį Prahoje septynios NATO kandidatės – Bulgarija, Estija, Latvija, Lietuva, Rumunija, Slovakija ir Slovėnija – pakviestos pradėti derybas su Šiaurės Atlanto sutarties organizacija dėl narystės.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai perteikia citatoje nurodytą faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/NATO|NATO]]; mentioned_object: [[objektai/posakiai/Taikos labui|Taikos labui]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva; mentioned_place: Praha; mentioned_place: Vašingtonas'
+  temporaliniai_duomenys: 'įvykio data: 1999 m.; įvykio data: 2002 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai perteikia citatoje nurodytą faktą.'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/ivykiai/Lietuvos tapimas visateise NATO nare (2004 m. kovo 29 d.).md#claim-t-75197|Lietuvos tapimas visateise NATO nare (2004 m. kovo 29 d.)]]: 1999 m. balandį NATO šalių vadovų susitikime Vašingtone pripažinus Lietuvos pastangas ir pažangą siekiant narystės, patvirtintas Narystės veiksmų planas pasirengti stojimui į NATO.
+- susijęs iš [[objektai/ivykiai/Lietuvos įstojimas į ES ir NATO (2004 m.).md#claim-t-75221|Lietuvos įstojimas į ES ir NATO (2004 m.)]]: 1999 m. balandį NATO vadovų susitikime Vašingtone buvo patvirtintas Narystės veiksmų planas Lietuvos pasirengimui stoti į NATO.
+- susijęs iš Praha: 2002 m. lapkritį Prahoje Lietuva ir dar šešios NATO kandidatės pakviestos pradėti derybas dėl narystės NATO.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -136,18 +160,3 @@ Lietuva kelią į NATO pradėjo 1991 m. gruodį, prisijungdama prie Šiaurės At
   pagrindžia:
     - t-004
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Manfredas]]
-- [[objektai/grupes/NATO]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/ivykiai/Lietuvos tapimas visateise NATO nare (2004 m. kovo 29 d.)]]
-- [[objektai/ivykiai/Lietuvos įstojimas į ES ir NATO (2004 m.)]]
-- [[objektai/grupes/Europos Sąjunga]]
-- [[objektai/grupes/Europos Taryba|Europos Taryba (institucija)]]
-- [[objektai/grupes/Jungtinių Tautų organizacija]]
-- [[objektai/zodynas/Kolektyvinės savigynos teisė]]
-- [[objektai/ivykiai/Lietuvos priėmimas į Jungtines Tautas ir Europos Tarybą (1991–1993 m.)]]
-- [[objektai/grupes/Tarptautinė darbo organizacija]]
-- [[objektai/grupes/UNESCO]]

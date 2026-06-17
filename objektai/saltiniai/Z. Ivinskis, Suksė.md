@@ -28,6 +28,11 @@ Ivinskis, Nalšia , LE XIX, 1959, 490- 491 ; Z.
 - t-001
   global_id: t-30131
   teiginys: 'Z. Ivinskio „Suksė“ 1963 m. nurodyta „Lietuvių enciklopedijos“ XXIX tome, 179 puslapyje.'
+  sudarymo_pagrindimas: 'Citata pagrindžia sutvarkytą bibliografinį teiginį.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/Z. Ivinskis|Z. Ivinskis]]; mentioned_place: Nalšia'
+  temporaliniai_duomenys: 'įvykio data: 1963 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia sutvarkytą bibliografinį teiginį.'
   pagrindžia:
     - c-001
 

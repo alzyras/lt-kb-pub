@@ -43,6 +43,7 @@ Nenurodyta
 - t-001
   global_id: t-55168
   teiginys: 'Filantropinių organizacijų ir susivienijimų nariai aptardavo visuomenės būklę ir tardavosi dėl konkrečių bei numatomų tikslų.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Šubravcų draugija|Šubravcų draugija]]; mentioned_place: Rusija; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -50,6 +51,8 @@ Nenurodyta
 - t-002
   global_id: t-81871
   teiginys: 'Vilniuje legalios filantropinės organizacijos ir susivienijimai aptardavo visuomenės būklę ir reformų tikslus.'
+  sudarymo_pagrindimas: 'Pašalinti OCR lūžiai ir perrašyta į aiškų sakinį apie note objektą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Šubravcų draugija|Šubravcų draugija]]; mentioned_place: Rusija; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -57,6 +60,8 @@ Nenurodyta
 - t-003
   global_id: t-81872
   teiginys: 'Po Napoleono sutriuškinimo Rusijoje salonuose, vakaruose ir draugijose atvirai aptarinėtos socialinės, politinės problemos, valdžios reformavimo ir baudžiavos paveldo klausimai.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas, informatyvus ir paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Baudžiava|Baudžiava]]; mentioned_place: Rusija'
   pagrindžia:
     - c-001
 
@@ -98,12 +103,3 @@ Nenurodyta
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/socialinė-praktika]]
-
-### Susiję objektai
-- [[objektai/zodynas/Baudžiava]]
-- [[objektai/grupes/Šubravcų draugija]]
-- [[objektai/ivykiai/Napoleono karo kampanija Rusijos imperijos gilumoje]]

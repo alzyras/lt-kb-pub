@@ -34,6 +34,7 @@ Nenurodyta
 - t-001
   global_id: t-07827
   teiginys: 'Smulkesnėje prekyboje pilyse dar vertėsi krikščionys, o žydai negalėjo pirkti į pilį įvežamų prekių iki didžiosios pusrytės ar iki pietų.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_object: [[objektai/zodynas/Pusrytės|Pusrytės]]'
   pagrindžia:
     - c-001
 
@@ -48,11 +49,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Krikščionys]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Žydai]]
-- [[objektai/zodynas/Adynos|adynos]]
-- [[objektai/zodynas/Pusrytės|pusrytės]]

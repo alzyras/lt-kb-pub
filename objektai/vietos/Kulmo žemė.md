@@ -7,7 +7,11 @@ saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1222 m.'
+  - '1223 m.'
+  - '1230 m.'
   - '1231 m.'
+  - '1243 m.'
+  - '1265 m.'
   - '2026 m.'
 date_start: '1222'
 date_end: '2026'
@@ -25,7 +29,7 @@ amziai:
 
 ## Santrauka
 
-Divanas Klokinis ir pagudėnas Linkas su didele kariuomene įsibrovė į Kulmo žemę. Dusburgietis nutyli lenkų ir kryžiuočių ginčus dėl Kulmo žemės dovanojimo pobūdžio bei apimties. Istoriografijoje vyrauja nuomonė, kad Dusburgietis perdėjo Kulmo žemės nusiaubimo mastą.
+Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kunigaikštis Konradas 1230 m. pakvietė kurtis Kulmo žemėje prie Vyslos Vokiečių ordino riterius (kryžiuočius). Savo tėvonija jis vadina beveik visas prūsų žemes iki dešiniojo Vyslos intako Osos, už kurios piečiau jau buvo tik Kulmo žemė, mozūrų kunigaikščių dovanota vokiečiams.
 
 ## Teiginiai
 
@@ -33,6 +37,11 @@ Divanas Klokinis ir pagudėnas Linkas su didele kariuomene įsibrovė į Kulmo �
 - t-001
   global_id: t-79492
   teiginys: 'Divanas Klokinis ir pagudėnas Linkas su didele kariuomene įsibrovė į Kulmo žemę.'
+  sudarymo_pagrindimas: 'Teiginys konkrečiai perteikia citatoje minimą įsibrovimą į Kulmo žemę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Divanas|Divanas]]; mentioned_person: [[objektai/asmenys/Linkas|Linkas]]; mentioned_place: Kristburgas; mentioned_place: Kulmas; mentioned_place: Pilaitė'
+  temporaliniai_duomenys: 'įvykio data: 1265 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys konkrečiai perteikia citatoje minimą įsibrovimą į Kulmo žemę.'
   pagrindžia:
     - c-017
 
@@ -40,6 +49,11 @@ Divanas Klokinis ir pagudėnas Linkas su didele kariuomene įsibrovė į Kulmo �
 - t-002
   global_id: t-79493
   teiginys: 'Dusburgietis nutyli lenkų ir kryžiuočių ginčus dėl Kulmo žemės dovanojimo pobūdžio bei apimties.'
+  sudarymo_pagrindimas: 'Teiginys pagrįstai priskiria Dusburgiečiui citatoje aptartą nutylėjimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/ekspansija|ekspansija]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Kulmas; mentioned_place: Prūsai'
+  temporaliniai_duomenys: 'įvykio data: iki 1223 m.; įvykio data: 1223 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys pagrįstai priskiria Dusburgiečiui citatoje aptartą nutylėjimą.'
   pagrindžia:
     - c-015
 
@@ -47,6 +61,8 @@ Divanas Klokinis ir pagudėnas Linkas su didele kariuomene įsibrovė į Kulmo �
 - t-003
   global_id: t-79494
   teiginys: 'Istoriografijoje vyrauja nuomonė, kad Dusburgietis perdėjo Kulmo žemės nusiaubimo mastą.'
+  sudarymo_pagrindimas: 'Citata pagrindžia būtent istoriografinę poziciją, o pirminis tekstas per ilgas ir nutrūkęs.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_place: Kulmas; mentioned_place: Prūsai'
   pagrindžia:
     - c-014
 
@@ -54,6 +70,8 @@ Divanas Klokinis ir pagudėnas Linkas su didele kariuomene įsibrovė į Kulmo �
 - t-004
   global_id: t-79495
   teiginys: 'Sventopelkas su dviem tūkstančiais karių perplaukė Vyslą, įsibrovė į Kulmo žemę ir ją nusiaubė per dvi dienas bei naktis.'
+  sudarymo_pagrindimas: 'Citata leidžia išplėsti įvardį į Sventopelką ir suformuluoti pilną sakinį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/tėvonija|tėvonija]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Kulmas; mentioned_place: Pomeranija'
   pagrindžia:
     - c-018
 
@@ -61,6 +79,8 @@ Divanas Klokinis ir pagudėnas Linkas su didele kariuomene įsibrovė į Kulmo �
 - t-005
   global_id: t-79496
   teiginys: 'Ordino įsikūrimas Mazovijos kunigaikščio Konrado dovanotoje Kulmo žemėje laikomas Ordino veiklos Prūsijoje pagrindu.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai perteikia citatoje nurodytą interpretaciją apie Kulmo žemę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/asmenys/Jogaila (Lenkijos karalius, 1382 m.)|Jogaila (Lenkijos karalius, 1382 m.)]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Lokietka|Lokietka]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_person: [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]]; mentioned_place: Kulmas; mentioned_place: Lenkija; mentioned_place: Mazovija; mentioned_place: Pamaris; mentioned_place: Prūsija'
   pagrindžia:
     - c-012
 
@@ -68,6 +88,8 @@ Divanas Klokinis ir pagudėnas Linkas su didele kariuomene įsibrovė į Kulmo �
 - t-006
   global_id: t-79497
   teiginys: 'Anlanto kunigaikštis perkėlė Kulmo miestą nuo senosios pilies į kalvą, taip siekdamas padaryti Kulmo žemę saugesnę.'
+  sudarymo_pagrindimas: 'Citata pagrindžia faktą apie Kulmo žemės saugumą; pirminis teiginys nutrūkęs.'
+  susije_objektai: 'territory: Kulmas; territory: Prūsija; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Kulmas; mentioned_place: Prūsija'
   pagrindžia:
     - c-013
 
@@ -75,6 +97,8 @@ Divanas Klokinis ir pagudėnas Linkas su didele kariuomene įsibrovė į Kulmo �
 - t-007
   global_id: t-79498
   teiginys: 'Magistras Hermanas pasiuntė Konradą iš Landsbergo ir dar vieną brolį apžiūrėti Kulmo žemės.'
+  sudarymo_pagrindimas: 'Citata pagrindžia veiksmą; pirminiame teiginyje perteklinė įžanga.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Hermanas|Hermanas]]; mentioned_person: [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos]]; mentioned_place: Kulmas; mentioned_place: Lenkija; mentioned_place: Prūsai; mentioned_place: Viena; mentioned_place: Vokietija'
   pagrindžia:
     - c-003
 
@@ -82,6 +106,8 @@ Divanas Klokinis ir pagudėnas Linkas su didele kariuomene įsibrovė į Kulmo �
 - t-008
   global_id: t-79499
   teiginys: '„Pranešime“ kalbama apie Vokiečių ordino pakvietimą ir Kulmo žemės užrašymą broliams.'
+  sudarymo_pagrindimas: 'Tai teiginys apie šaltinio turinį; pirminis tekstas per ilgas ir nutrūkęs.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Dobrynė; mentioned_place: Kulmas; mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_place: Prūsai; mentioned_place: Prūsija'
   pagrindžia:
     - c-005
 
@@ -89,6 +115,11 @@ Divanas Klokinis ir pagudėnas Linkas su didele kariuomene įsibrovė į Kulmo �
 - t-009
   global_id: t-79500
   teiginys: 'Kulmo žemė rašytiniuose šaltiniuose minima nuo 1222 m., o jos vardas įsitvirtino XIII a. 3–4 dešimtmečiais.'
+  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatą apie Kulmo žemės paminėjimą ir vardo įsitvirtinimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_place: Kulmas; mentioned_place: Mazovija'
+  temporaliniai_duomenys: 'įvykio data: po 1222 m.; įvykio data: 1222 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia citatą apie Kulmo žemės paminėjimą ir vardo įsitvirtinimą.'
   pagrindžia:
     - c-010
 
@@ -96,6 +127,8 @@ Divanas Klokinis ir pagudėnas Linkas su didele kariuomene įsibrovė į Kulmo �
 - t-010
   global_id: t-79501
   teiginys: 'Druzigeriui Torunėje paskelbus klaidingą žinią apie kariuomenės žūtį, Kulmo žemėje ir Lenkijoje kilo didelis krikščionių raudojimas.'
+  sudarymo_pagrindimas: 'Pirminis teiginys per ilgas ir nutrūkęs; citata pagrindžia aiškų epizodą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/stalininkas|stalininkas]]; mentioned_person: [[objektai/asmenys/Druzigeris|Druzigeris]]; mentioned_place: Kulmas; mentioned_place: Lenkija; mentioned_place: Torunė'
   pagrindžia:
     - c-016
 
@@ -103,6 +136,11 @@ Divanas Klokinis ir pagudėnas Linkas su didele kariuomene įsibrovė į Kulmo �
 - t-011
   global_id: t-79502
   teiginys: '1231 m. Ordino magistras persikėlė per Vyslą į Kulmo žemę, pastatė Torunės pilį ir pradėjo sistemingą agresiją prieš prūsus.'
+  sudarymo_pagrindimas: 'Sutrumpinta ir sutvarkyta gremėzdiška sakinio konstrukcija, nekeičiant citatos faktų.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Kulmas; mentioned_place: Lenkija; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Torunė; mentioned_place: Vokietija; mentioned_place: Vysla'
+  temporaliniai_duomenys: 'pastatymo data: 1231 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Sutrumpinta ir sutvarkyta gremėzdiška sakinio konstrukcija, nekeičiant citatos faktų.'
   pagrindžia:
     - c-002
 
@@ -110,6 +148,7 @@ Divanas Klokinis ir pagudėnas Linkas su didele kariuomene įsibrovė į Kulmo �
 - t-012
   global_id: t-79503
   teiginys: 'Kulmo žemę mozūrų kunigaikščiai buvo dovanoję vokiečiams.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/tėvonija|tėvonija]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Kulmas; mentioned_place: Lietuva; mentioned_place: Prūsai; mentioned_place: Vysla'
   pagrindžia:
     - c-001
 
@@ -117,6 +156,8 @@ Divanas Klokinis ir pagudėnas Linkas su didele kariuomene įsibrovė į Kulmo �
 - t-013
   global_id: t-79504
   teiginys: 'Prūsai su didele kariuomene nusiaubė Kulmo žemę ir patraukė prie Osos pakrantėje stovėjusios Belichovo pilies.'
+  sudarymo_pagrindimas: 'Pirminis teiginys turi antraštės triukšmo; citata palaiko glaustą faktą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/asmenys/Konradas Švabas iš Elbingo|Konradas Švabas iš Elbingo]]; mentioned_place: Belichovas; mentioned_place: Elbingas; mentioned_place: Kulmas; mentioned_place: Marienverderis; mentioned_place: Prūsai; mentioned_place: Viena'
   pagrindžia:
     - c-006
 
@@ -124,6 +165,8 @@ Divanas Klokinis ir pagudėnas Linkas su didele kariuomene įsibrovė į Kulmo �
 - t-014
   global_id: t-79505
   teiginys: 'XIII a., prieš kryžiuočių atsikraustymą į Pavyslį, Kulmo žemė vėl buvo prūsų rankose.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus ir paremtas citatos teiginiu apie Kulmo žemę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Kulmas; mentioned_place: Prūsai'
   pagrindžia:
     - c-011
 
@@ -131,6 +174,11 @@ Divanas Klokinis ir pagudėnas Linkas su didele kariuomene įsibrovė į Kulmo �
 - t-015
   global_id: t-79506
   teiginys: 'Dusburgietis nutyli, kad Lietuvos kariuomenė dalyvavo bendroje kovoje prieš Ordiną jau pirmojo prūsų sukilimo pradžioje (1243 m.), kai buvo nusiaubta Kulmo žemė ir Ordino pajėgos sutriuškintos mūšio lauke.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citatos formuluote.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Kulmas; mentioned_place: Lietuva; mentioned_place: Prūsai'
+  temporaliniai_duomenys: 'įvykio data: 1243 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citatos formuluote.'
   pagrindžia:
     - c-008
 
@@ -138,6 +186,8 @@ Divanas Klokinis ir pagudėnas Linkas su didele kariuomene įsibrovė į Kulmo �
 - t-016
   global_id: t-79507
   teiginys: 'Sūduvių vadas Skomantas su didele sūduvių ir rusų kariuomene devynias dienas siaubė Kulmo žemę.'
+  sudarymo_pagrindimas: 'Teiginys tiksliai atitinka citatą apie Skomanto žygį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_person: [[objektai/asmenys/Skomantas|Skomantas]]; mentioned_place: Eimsutis; mentioned_place: Kulmas; mentioned_place: Viena'
   pagrindžia:
     - c-009
 
@@ -145,6 +195,8 @@ Divanas Klokinis ir pagudėnas Linkas su didele kariuomene įsibrovė į Kulmo �
 - t-017
   global_id: t-79508
   teiginys: 'Prūsai po kelerių metų nusiaubė Kulmo žemę, pavertė ją dykra, o krikščionis išžudė arba išsivarė į nelaisvę.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai atitinka citatą apie Kulmo žemės nusiaubimą.'
+  susije_objektai: 'mentioned_place: Kulmas; mentioned_place: Prūsai'
   pagrindžia:
     - c-007
 
@@ -152,9 +204,30 @@ Divanas Klokinis ir pagudėnas Linkas su didele kariuomene įsibrovė į Kulmo �
 - t-019
   global_id: t-79511
   teiginys: '1222 ir 1230 m. dokumentuose Kulmo žemė apibūdinama kaip teritorija tarp Osos, Vyslos ir Drėvantos.'
+  sudarymo_pagrindimas: 'Teiginys yra glaustas ir paremtas citata apie Kulmo žemės ribas.'
+  susije_objektai: 'mentioned_place: Kulmas; mentioned_place: Vysla'
+  temporaliniai_duomenys: 'įvykio data: 1230 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra glaustas ir paremtas citata apie Kulmo žemės ribas.'
   pagrindžia:
     - c-004
-
+- susijęs iš [[objektai/asmenys/Burchardas iš Magdeburgo.md#claim-t-60097|Burchardas iš Magdeburgo]]: Burchardas iš Magdeburgo su magistru ir broliais perkėlė Marienverderio pilį iš Kvedino salos į Pamedės valsčių.
+- susijęs iš [[objektai/asmenys/Henrikas iš Hohenlohės.md#claim-t-59969|Henrikas iš Hohenlohės]]: Henriko iš Hohenlohės pranešime pirmojo prūsų sukilimo pradžios kariuomenė įvardyta kaip „lietuviai ir prūsai“.
+- susijęs iš [[objektai/asmenys/Hermanas (Ordino magistras).md#claim-t-60029|Hermanas (Ordino magistras)]]: Magistras Hermanas su broliais 1233 m. Kvedino saloje pastatė pilį ir pavadino ją Marienverderiu.
+- susijęs iš [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis).md#claim-t-93425|Konradas (Mozūrijos kunigaikštis)]]: „Pranešime...“ kalbama apie pagonių brovimąsi į Mazovijos kunigaikščio Konrado valdas ir Vokiečių ordino pakvietimą.
+- susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90014|Sventopelkas]]: Dusburgietis Sventopelką vaizduoja kaip su prūsais bendradarbiavusį „išdaviką“.
+- susijęs iš [[objektai/grupes/Dobrynės broliai.md#claim-t-65108|Dobrynės broliai]]: „Pranešime...“ Dobrynės broliai minimi greta pagonių brovimosi į Konrado valdas, Vokiečių ordino pakvietimo ir Sventopelko, Lietuvos bei prūsų bendros kovos.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178876|Kryžiuočių ordinas]]: 1233 m. magistras ir Kryžiuočių ordino broliai Kvedino saloje pastatė pilį ir pavadino ją Marienverderiu.
+- susijęs iš [[objektai/ivykiai/Kulmo žemės nusiaubimas prūsų antpuoliu.md#claim-t-66653|Kulmo žemės nusiaubimas prūsų antpuoliu]]: Istoriografijoje laikomasi nuomonės, kad Dusburgietis perdėjo Kulmo žemės nusiaubimo mastą.
+- susijęs iš [[objektai/ivykiai/Marienverderio pilies pastatymas, perkėlimas ir miesto sustiprinimas.md#claim-t-66769|Marienverderio pilies pastatymas, perkėlimas ir miesto sustiprinimas]]: 1233 m. magistras ir broliai Kvedino saloje pastatė Marienverderio pilį, vėliau perkeltą į Pamedės valsčiaus Reisių vietovę.
+- susijęs iš [[objektai/ivykiai/Marienverderio pilies pastatymas, perkėlimas ir miesto sustiprinimas.md#claim-t-66770|Marienverderio pilies pastatymas, perkėlimas ir miesto sustiprinimas]]: 1233 m. pastatyta Marienverderio pilis vėliau buvo perkelta iš Kvedino salos į Pamedės valsčių, vadintą Reisiais.
+- susijęs iš [[objektai/ivykiai/Renzeno mūšis ir lietuvių-prūsų žygis į Kulmo žemę (1243 m.).md#claim-t-89389|Renzeno mūšis ir lietuvių-prūsų žygis į Kulmo žemę (1243 m.)]]: 1243 m. pirmojo prūsų sukilimo pradžioje Lietuvos kariuomenė dalyvavo kovoje, kai buvo nusiaubta Kulmo žemė ir sutriuškintos Ordino pajėgos.
+- susijęs iš [[objektai/ivykiai/Renzeno mūšis ir lietuvių-prūsų žygis į Kulmo žemę (1243 m.).md#claim-t-89390|Renzeno mūšis ir lietuvių-prūsų žygis į Kulmo žemę (1243 m.)]]: 1243 m. Kulmo žemės nusiaubime ir Ordino pajėgų sutriuškinime dalyvavo Lietuvos kariuomenė.
+- susijęs iš [[objektai/ivykiai/Renzeno mūšis ir lietuvių-prūsų žygis į Kulmo žemę (1243 m.).md#claim-t-89392|Renzeno mūšis ir lietuvių-prūsų žygis į Kulmo žemę (1243 m.)]]: Dusburgietis nutylėjo Lietuvos kariuomenės dalyvavimą 1243 m. bendroje kovoje prieš Kryžiuočių ordiną.
+- susijęs iš Henriko iš Hohenlohės pranešimas: Henriko iš Hohenlohės pranešime 1243 m. Kulmo žemės nusiaubimas ir Ordino pajėgų sutriuškinimas siejamas su lietuviais ir prūsais.
+- susijęs iš Prūsijos žemės kronika: Prūsijos žemės kronikoje minima tik Dobrynės kunigaikštystė, o kitame dokumente nurodoma ir kaimyninė Kulmo žemė.
+- susijęs iš Mazovija: Prieš tai Kulmo žemė buvusi Mazovijos kunigaikščių valda.
+- susijęs iš Mazovija: „Pranešime...“ minimas pagonių brovimasis į Mazovijos kunigaikščio Konrado valdas.
 ## Reikšmingi paminėjimai
 
 - c-001

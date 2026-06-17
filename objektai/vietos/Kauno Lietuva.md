@@ -3,16 +3,22 @@ tipas: vieta
 pavadinimas: 'Kauno Lietuva'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1920 m.'
+date_start: '1920'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
+amziai:
+  - 'XX'
 ---
 # Kauno Lietuva
 
 ## Santrauka
 
-Lietuvos Respublika lenkiškoje Lietuvos sampratoje buvo vadinama Kauno Lietuva. Lenkiškoje Lietuvos sampratoje Lietuvos Respublika buvo vadinama „Kauno Lietuva“, o žemaičių tarmė – lietuvių kalba. Lenkiškoje Lietuvos sampratoje Lietuvos Respublika buvo vadinama „Kauno Lietuva“.
+Kauno Lietuva pateikiama kaip lenkiškos Lietuvos sampratos vartotas Lietuvos Respublikos pavadinimas.
 
 ## Pavadinimai šaltiniuose
 
@@ -40,6 +46,9 @@ Nenurodyta
 - t-001
   global_id: t-13535
   teiginys: 'Lietuvos Respublika lenkiškoje Lietuvos sampratoje buvo vadinama Kauno Lietuva.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuvos Respublika|Lietuvos Respublika]]; mentioned_place: Kaunas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1920 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 
@@ -47,6 +56,11 @@ Nenurodyta
 - t-002
   global_id: t-23422
   teiginys: 'Lenkiškoje Lietuvos sampratoje Lietuvos Respublika buvo vadinama „Kauno Lietuva“, o žemaičių tarmė – lietuvių kalba.'
+  sudarymo_pagrindimas: 'Pirminiame teiginyje neaiški nuoroda „tokia“, todėl sakinys perrašytas aiškiau.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos Respublika|Lietuvos Respublika]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1920 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pirminiame teiginyje neaiški nuoroda „tokia“, todėl sakinys perrašytas aiškiau.'
   pagrindžia:
     - c-003
 
@@ -54,6 +68,8 @@ Nenurodyta
 - t-003
   global_id: t-26941
   teiginys: 'Lenkiškoje Lietuvos sampratoje Lietuvos Respublika buvo vadinama „Kauno Lietuva“.'
+  sudarymo_pagrindimas: 'Pradinis teiginys labiau apie „Vidurinę Lietuvą“, todėl perrašytas pagal objekto temą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos Respublika|Lietuvos Respublika]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

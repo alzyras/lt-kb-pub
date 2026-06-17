@@ -4,9 +4,9 @@ pavadinimas: 'Kuršaitis (redaktorius, 1849–1880 m.)'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 datos:
-  - '1849 m.'
+  - '1832 m.'
   - '1880 m.'
-date_start: '1849'
+date_start: '1832'
 date_end: '1880'
 sukurta: ''
 atnaujinta: ''
@@ -21,7 +21,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Kuršaičio „Keleivis“ ragino lietuvius uoliai dalyvauti rinkimuose. Kuršaitis redagavo lietuvišką laikraštį „Keleivį“ ir buvo Karaliaučiaus lietuvių seminarijos profesorius. Prof. Kuršaitis 1849–1880 m. su valdžios parama leido laikraštį „Keleivis“.
+Kuršaitis šiame šaltinyje minimas kaip redaktorius, profesorius; jam priskiriami darbai „Keleivis“, lietuvių kalbos gramatika ir kiti darbai.
 
 ## Darbai
 
@@ -36,6 +36,8 @@ Kuršaičio „Keleivis“ ragino lietuvius uoliai dalyvauti rinkimuose. Kuršai
 - t-001
   global_id: t-11074
   teiginys: 'Kuršaičio „Keleivis“ ragino lietuvius uoliai dalyvauti rinkimuose.'
+  sudarymo_pagrindimas: 'Pradiniame teiginyje trūko note objekto, o citata jį aiškiai susieja su Kuršaičiu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/autoriai/Kuršaitis|Kuršaitis]]'
   pagrindžia:
     - c-002
 
@@ -43,6 +45,9 @@ Kuršaičio „Keleivis“ ragino lietuvius uoliai dalyvauti rinkimuose. Kuršai
 - t-002
   global_id: t-11075
   teiginys: 'Kuršaitis redagavo lietuvišką laikraštį „Keleivį“ ir buvo Karaliaučiaus lietuvių seminarijos profesorius.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija|Vilniaus vyskupijos klierikų kolegija]]; mentioned_object: [[objektai/autoriai/Kuršaitis|Kuršaitis]]'
+  temporaliniai_duomenys: 'įvykio data: iki 1880 m.; įvykio data: 1880 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -50,6 +55,11 @@ Kuršaičio „Keleivis“ ragino lietuvius uoliai dalyvauti rinkimuose. Kuršai
 - t-003
   global_id: t-11076
   teiginys: 'Prof. Kuršaitis 1849–1880 m. su valdžios parama leido laikraštį „Keleivis“.'
+  sudarymo_pagrindimas: 'Citata leidžia suformuluoti tikslesnį sakinį su leidybos laikotarpiu ir valdžios parama.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/autoriai/Kuršaitis|Kuršaitis]]; mentioned_place: Prūsai'
+  temporaliniai_duomenys: 'įvykio data: 1832 m.; įvykio data: 1849-1880; įvykio data: 1880 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata leidžia suformuluoti tikslesnį sakinį su leidybos laikotarpiu ir valdžios parama.'
   pagrindžia:
     - c-003
 
@@ -104,12 +114,3 @@ Kuršaičio „Keleivis“ ragino lietuvius uoliai dalyvauti rinkimuose. Kuršai
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/redaktorius]]
-
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija]]
-- [[objektai/grupes/Žydai]]

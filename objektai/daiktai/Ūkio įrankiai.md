@@ -38,6 +38,8 @@ Nenurodyta
 - t-001
   global_id: t-08360
   teiginys: 'Įrankius jie patys sau kalė ir gaminosi be svetimo meistro, o šiame sąraše tiesiogiai minimi grąžtai, kaltai, Strūnos, skaptai, skrytulės, kirviai ir skliutai.'
+  teiginio_tipas: 'faktas'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vilniaus gaisro gesinimo įrankiai|Vilniaus gaisro gesinimo įrankiai]]; mentioned_object: [[objektai/zodynas/Strūnijo|Strūnijo]]'
   pagrindžia:
     - c-001
 
@@ -60,9 +62,3 @@ Nenurodyta
 ## Pastabos
 
 - šis sąrašas artimas bendresniam viešam įrašui apie įrankius, bet ši ištrauka aiškiai pabrėžia savadarbius variantus.
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Strūnijo|strūnijo]]
-- [[objektai/daiktai/Vilniaus gaisro gesinimo įrankiai]]
-- [[objektai/paprociai/Savarankiškas ūkio ir namų dirbinių gaminimas]]

@@ -20,7 +20,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Puzinienė iš Oginskių 1766 m. Akademijos observatorijos įkūrimui, prietaisams ir astronomijos profesoriams užrašė 6 000 raudonųjų auksinų.
+Jos Šviesybė ponia Puzinienė iš Oginskių Mstislavlio kaš­ telioniene 1766 metais Akademijos observatorijos įkūrimui, prietaisams ir astronomijos profesorių dėlei užrašė 6 000 rau­ donųjų auksinų.
 
 ## Teiginiai
 
@@ -28,9 +28,17 @@ Puzinienė iš Oginskių 1766 m. Akademijos observatorijos įkūrimui, prietaisa
 - t-001
   global_id: t-87840
   teiginys: 'Puzinienė iš Oginskių 1766 m. Akademijos observatorijos įkūrimui, prietaisams ir astronomijos profesoriams užrašė 6 000 raudonųjų auksinų.'
+  sudarymo_pagrindimas: 'Citata konkrečiai mini observatorijos įkūrimą, todėl teiginį verta patikslinti.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Oginskiai|Oginskiai]]; mentioned_object: [[objektai/daiktai/Akademijos observatorijos prietaisai|Akademijos observatorijos prietaisai]]; mentioned_object: [[objektai/daiktai/Duona|Duona]]; mentioned_place: Akademijos aikštė; mentioned_place: Mstislavlis; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1766 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata konkrečiai mini observatorijos įkūrimą, todėl teiginį verta patikslinti.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/daiktai/Akademijos observatorijos prietaisai.md#claim-t-55026|Akademijos observatorijos prietaisai]]: 1766 m. Puzinienė iš Oginskių užrašė 6 000 raudonųjų auksinų Akademijos observatorijos įkūrimui, prietaisams ir astronomijos profesoriams.
+- susijęs iš [[objektai/daiktai/Akademijos observatorijos prietaisai.md#claim-t-81838|Akademijos observatorijos prietaisai]]: Puzinienė iš Oginskių 1766 m. Akademijos observatorijos įkūrimui, prietaisams ir astronomijos profesoriams užrašė 6 000 raudonųjų auksinų.
+- susijęs iš Akademijos aikštė: Prie Akademijos aikštės tėvas Riokuras finansavo vieną klasių eilę, o įvairūs jėzuitai apstatydino kitą klasių ir viešų susirinkimų salės eilę.
+- susijęs iš [[objektai/zodynas/Olia Charitatis.md#claim-t-86601|Olia Charitatis]]: Iš Joniškio pajamų neturtingiems studentams kasdien buvo skiriami Olia Charitatis labdaringi pietūs ir duonos kepalas.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -53,10 +61,3 @@ Puzinienė iš Oginskių 1766 m. Akademijos observatorijos įkūrimui, prietaisa
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Akademijos observatorijos prietaisai]]
-- [[objektai/daiktai/Duona]]
-- [[objektai/grupes/Oginskiai]]
-- [[objektai/zodynas/Olia Charitatis]]

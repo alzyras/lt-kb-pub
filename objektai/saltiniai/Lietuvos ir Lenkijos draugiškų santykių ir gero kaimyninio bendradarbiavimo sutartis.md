@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Lietuvos ir Lenkijos sutarties preambulėje pasmerktas smurtas tarpusavio santykiuose ir patvirtintas abiejų šalių teritorijų vientisumas. Lietuva ir Lenkija 1994 m. balandžio 26 d. po ilgų derybų pasirašė draugiškų santykių ir gero kaimyninio bendradarbiavimo sutartį.
+1994 m. balandžio 26 d. santykius vaisingai vainikavo po ilgų derybų Lietuvos ir Lenkijos pasirašyta draugiškų santykių ir gero kaimyninio bendradarbiavimo sutartis.
 
 ## Teiginiai
 
@@ -29,6 +29,11 @@ Lietuvos ir Lenkijos sutarties preambulėje pasmerktas smurtas tarpusavio santyk
 - t-001
   global_id: t-21153
   teiginys: 'Lietuvos ir Lenkijos sutarties preambulėje pasmerktas smurtas tarpusavio santykiuose ir patvirtintas abiejų šalių teritorijų vientisumas.'
+  sudarymo_pagrindimas: 'Pirminis teiginys taisytinas dėl neaiškios formuluotės apie Vilnių ir Varšuvą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/posakiai/„su sostinėmis Vilniumi ir Varšuva vientisumą[as] dabar ir ateityje“|„su sostinėmis Vilniumi ir Varšuva vientisumą[as] dabar ir ateityje“]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Varšuva; mentioned_place: Vilnius; mentioned_place: Šalčininkai'
+  temporaliniai_duomenys: 'įvykio data: 1994 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pirminis teiginys taisytinas dėl neaiškios formuluotės apie Vilnių ir Varšuvą.'
   pagrindžia:
     - c-001
 
@@ -36,6 +41,14 @@ Lietuvos ir Lenkijos sutarties preambulėje pasmerktas smurtas tarpusavio santyk
 - t-002
   global_id: t-183365
   teiginys: 'Lietuva ir Lenkija 1994 m. balandžio 26 d. po ilgų derybų pasirašė draugiškų santykių ir gero kaimyninio bendradarbiavimo sutartį.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Perrašyta be publicistinio vertinimo ir su aiškiai įvardytu veiksmu.'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Varšuva; mentioned_place: Viena; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1994 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Perrašyta be publicistinio vertinimo ir su aiškiai įvardytu veiksmu.'
   pagrindžia:
     - c-002
 

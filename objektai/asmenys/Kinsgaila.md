@@ -21,9 +21,10 @@ Kiti vadai buvo maršalas Čupurna, per Žemaičių sukilimą pagarsėjęs Rumba
 - t-001
   global_id: t-30330
   teiginys: 'Kinsgaila buvo Ukmergės seniūnas ir vienas iš sąjungininkų pusės vadų.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_place: Kaunas; mentioned_place: Ukmergė'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Sungaila.md#claim-t-30386|Sungaila]]: Sungaila buvo Kauno seniūnas ir vienas iš Žalgirio kautynių vadų.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -43,10 +44,3 @@ Kiti vadai buvo maršalas Čupurna, per Žemaičių sukilimą pagarsėjęs Rumba
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/zodynas/maršalas]]
-- [[objektai/zodynas/seniūnas]]
-- [[objektai/asmenys/Sungaila]]

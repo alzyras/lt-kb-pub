@@ -23,9 +23,11 @@ Dusburgietis teigia, kad apie Baigos pilį Išgirdęs šią liūdną naujieną, 
 - t-001
   global_id: t-60335
   teiginys: 'Joabas buvo Dovydo kariuomenės vadas, kuris sielojosi dėl saviškių mirties.'
+  sudarymo_pagrindimas: 'Citata pateikia aiškų biblinį pavyzdį apie Joabo pareigas ir reakciją.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Baiga; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
-
+- susijęs iš „2 Kar 11, 25“: 2 Kar 11, 25 cituojama kaip Dovydo pamokymas Joabui neprarasti drąsos dėl karių žūties.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -49,10 +51,3 @@ Dusburgietis teigia, kad apie Baigos pilį Išgirdęs šią liūdną naujieną, 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Kalavijas]]
-- [[objektai/daiktai/Laivai]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/posakiai/Tegul tas dalykas neatima iš tavęs drąsos, nes kare esti visokių atsitikimų, o kalavijas sunaikina tai vieną, tai kitą, padrąsink savo kovot]]

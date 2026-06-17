@@ -17,7 +17,7 @@ periodo_grupes: []
 
 ## Santrauka
 
-Karolis Zikaras buvo vienas iš šio leidinio iliustracijų rinkėjų. Karolis Zikaras yra informacinio bloko „Leičiai - valdovo valios įgyvendintojai“ autorius. Karolis Zikaras nurodytas prie teksto „Valstybės smukimas“.
+Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudarytojas, skyrių įvadų autorius ir kelių straipsnių bei informacinių blokų autorius. Autorių sąraše jis apibūdinamas kaip Lietuvos karybos istorija, jos didaktika ir valstybingumo istorija besidomintis istorikas.
 
 ## Darbai
 
@@ -34,6 +34,8 @@ Karolis Zikaras buvo vienas iš šio leidinio iliustracijų rinkėjų. Karolis Z
 - t-001
   global_id: t-171496
   teiginys: 'Karolis Zikaras buvo vienas iš šio leidinio iliustracijų rinkėjų.'
+  sudarymo_pagrindimas: 'Citatoje Karolis Zikaras įrašytas tarp iliustracijas rinkusių asmenų.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/autoriai/Jonas Arvasevičius|Jonas Arvasevičius]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_person: [[objektai/autoriai/Loreta Uzdraitė|Loreta Uzdraitė]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-005
 
@@ -41,6 +43,8 @@ Karolis Zikaras buvo vienas iš šio leidinio iliustracijų rinkėjų. Karolis Z
 - t-002
   global_id: t-171497
   teiginys: 'Karolis Zikaras yra informacinio bloko „Leičiai - valdovo valios įgyvendintojai“ autorius.'
+  sudarymo_pagrindimas: 'Citata pateikia autoriaus vardą prie konkretaus informacinio bloko.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_person: [[objektai/autoriai/R. Batūra|R. Batūra]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 
@@ -48,6 +52,8 @@ Karolis Zikaras buvo vienas iš šio leidinio iliustracijų rinkėjų. Karolis Z
 - t-003
   global_id: t-171498
   teiginys: 'Karolis Zikaras nurodytas prie teksto „Valstybės smukimas“.'
+  sudarymo_pagrindimas: 'Citata pagrindžia Zikaro priskyrimą konkrečiam tekstui.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Nepriklausomybės kovos|Nepriklausomybės kovos]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lesčiai'
   pagrindžia:
     - c-008
 
@@ -55,6 +61,8 @@ Karolis Zikaras buvo vienas iš šio leidinio iliustracijų rinkėjų. Karolis Z
 - t-004
   global_id: t-171499
   teiginys: 'Karolis Zikaras yra informacinio bloko „Partizanų bunkeriai“ autorius.'
+  sudarymo_pagrindimas: 'Citata pagrindžia autorystę, o pradiniame teiginyje yra skyriaus ir puslapių triukšmas.'
+  susije_objektai: 'mentioned_object: [[objektai/posakiai/karas po karo|karas po karo]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]'
   pagrindžia:
     - c-006
 
@@ -62,6 +70,11 @@ Karolis Zikaras buvo vienas iš šio leidinio iliustracijų rinkėjų. Karolis Z
 - t-005
   global_id: t-171500
   teiginys: 'Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.'
+  sudarymo_pagrindimas: 'Citatoje tiesiogiai nurodyta Karolio Zikaro funkcija leidinyje.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Aizkrauklės mūšis (1279 m. kovo 5 d.)|Aizkrauklės mūšis (1279 m. kovo 5 d.)]]; mentioned_event: [[objektai/ivykiai/Algirdo žygiai į Maskvą|Algirdo žygiai į Maskvą]]; mentioned_event: [[objektai/ivykiai/Bezdežo (Antopolio) mūšis (1771 m.)|Bezdežo (Antopolio) mūšis (1771 m.)]]; mentioned_event: [[objektai/ivykiai/Biržų (Medeikių) mūšis (1863 m.)|Biržų (Medeikių) mūšis (1863 m.)]]; mentioned_event: [[objektai/ivykiai/Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)|Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)]]; mentioned_event: [[objektai/ivykiai/Durbės mūšis (1260 m.)|Durbės mūšis (1260 m.)]]; mentioned_event: [[objektai/ivykiai/Karusės mūšis (1270 m. vasario 16 d.)|Karusės mūšis (1270 m. vasario 16 d.)]]; mentioned_event: [[objektai/ivykiai/Klecko mūšis|Klecko mūšis]]; mentioned_event: [[objektai/ivykiai/K. Radvilos Perkūno reidas (1581 m. liepa-spalis)|K. Radvilos Perkūno reidas (1581 m. liepa-spalis)]]; mentioned_event: [[objektai/ivykiai/Kuoknesės mūšis (1601 m. birželio 23 d.)|Kuoknesės mūšis (1601 m. birželio 23 d.)]]; mentioned_event: [[objektai/ivykiai/Kėdainių-Šėtos kautynės|Kėdainių-Šėtos kautynės]]; mentioned_event: [[objektai/ivykiai/Lietuvos Brastos mūšis (1792 m. liepos 23 d.)|Lietuvos Brastos mūšis (1792 m. liepos 23 d.)]]; mentioned_event: [[objektai/ivykiai/Lojevo mūšis (1649 m. liepos 31 d.)|Lojevo mūšis (1649 m. liepos 31 d.)]]; mentioned_event: [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)|Mėlynųjų Vandenų mūšis (1362 m.)]]; mentioned_event: [[objektai/ivykiai/Oršos mūšis (1514 m.)|Oršos mūšis (1514 m.)]]; mentioned_event: [[objektai/ivykiai/Prostkų mūšis (1656 m. spalio 8 d.)|Prostkų mūšis (1656 m. spalio 8 d.)]]; mentioned_event: [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.)|Salaspilio (Kircholmo) mūšis (1605 m.)]]; mentioned_event: [[objektai/ivykiai/Saulės mūšis (1236 m. rugsėjo 22 d.)|Saulės mūšis (1236 m. rugsėjo 22 d.)]]; mentioned_event: [[objektai/ivykiai/Smolensko apgultis (1632–1634 m.)|Smolensko apgultis (1632–1634 m.)]]; mentioned_event: [[objektai/ivykiai/Strėvos mūšis (1348 m.)|Strėvos mūšis (1348 m.)]]; mentioned_event: [[objektai/ivykiai/Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)|Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)]]; mentioned_event: [[objektai/ivykiai/Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.)|Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.)]]; mentioned_event: [[objektai/ivykiai/Vorsklos mūšis|Vorsklos mūšis]]; mentioned_event: [[objektai/ivykiai/Šklovo mūšis (1654 m. rugpjūčio 12 d.)|Šklovo mūšis (1654 m. rugpjūčio 12 d.)]]; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_object: [[objektai/autoriai/Lina Vidauskytė|Lina Vidauskytė]]; mentioned_object: [[objektai/zodynas/Nepriklausomybės kovos|Nepriklausomybės kovos]]; mentioned_object: [[objektai/autoriai/Valdas Rakutis|Valdas Rakutis]]; mentioned_person: [[objektai/autoriai/Alfredas Bumblauskas|Alfredas Bumblauskas]]; mentioned_person: [[objektai/autoriai/Algimantas Daugirdas|Algimantas Daugirdas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/autoriai/Arvydas Pociūnas|Arvydas Pociūnas]]; mentioned_person: [[objektai/autoriai/Darius Baronas|Darius Baronas]]; mentioned_person: [[objektai/asmenys/Daugirdas|Daugirdas]]; mentioned_person: [[objektai/autoriai/Eduardas Brusokas|Eduardas Brusokas]]; mentioned_person: [[objektai/autoriai/Gintautas Jakštys|Gintautas Jakštys]]; mentioned_person: [[objektai/autoriai/Gintautas Sliesoriūnas|Gintautas Sliesoriūnas]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_person: [[objektai/autoriai/R. Batūra|R. Batūra]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Aizkrauklė; mentioned_place: Brasta; mentioned_place: Chotinas; mentioned_place: Durbė; mentioned_place: Irpenė; mentioned_place: Jieznas; mentioned_place: Kaunas; mentioned_place: Kuoknesė; mentioned_place: Lesčiai; mentioned_place: Lietuva; mentioned_place: Lojevas; mentioned_place: Marienverderis; mentioned_place: Maskva; mentioned_place: Paneriai; mentioned_place: Prostkai; mentioned_place: Salacgryva; mentioned_place: Smolenskas; mentioned_place: Strėva; mentioned_place: Utena; mentioned_place: Valkininkai; mentioned_place: Vilnius; mentioned_place: Vorskla; mentioned_place: Zarasai; mentioned_place: Šklovas'
+  temporaliniai_duomenys: 'įvykio data: 1919 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citatoje tiesiogiai nurodyta Karolio Zikaro funkcija leidinyje.'
   pagrindžia:
     - c-002
 
@@ -69,6 +82,8 @@ Karolis Zikaras buvo vienas iš šio leidinio iliustracijų rinkėjų. Karolis Z
 - t-006
   global_id: t-171501
   teiginys: 'Karolis Zikaras yra informacinio bloko „Didysis artilerijos menas“ autorius.'
+  sudarymo_pagrindimas: 'Citata pagrindžia autorystę, o pradiniame teiginyje yra antraštinis triukšmas.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]'
   pagrindžia:
     - c-010
 
@@ -76,6 +91,9 @@ Karolis Zikaras buvo vienas iš šio leidinio iliustracijų rinkėjų. Karolis Z
 - t-007
   global_id: t-171502
   teiginys: 'Autorių sąraše Karolis Zikaras apibūdinamas kaip Lietuvos karybos istorija, jos didaktika ir valstybingumo istorija besidomintis istorikas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/karyba|karyba]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1979 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -83,6 +101,11 @@ Karolis Zikaras buvo vienas iš šio leidinio iliustracijų rinkėjų. Karolis Z
 - t-008
   global_id: t-171504
   teiginys: 'Karolis Zikaras nurodytas prie tekstų „1991 m. Sausio 13 d.“ ir „1991 m. Rugpjūčio Maskvos pučas“.'
+  sudarymo_pagrindimas: 'Citata pagrindžia Zikaro priskyrimą dviem tekstams.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Lietuvos atsikūrimas|Lietuvos atsikūrimas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_place: Lietuva; mentioned_place: Maskva'
+  temporaliniai_duomenys: 'įvykio data: 1991 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia Zikaro priskyrimą dviem tekstams.'
   pagrindžia:
     - c-011
 
@@ -90,6 +113,8 @@ Karolis Zikaras buvo vienas iš šio leidinio iliustracijų rinkėjų. Karolis Z
 - t-009
   global_id: t-171505
   teiginys: 'Karolis Zikaras nurodytas prie teksto „Kryžiuočiai prieš Lietuvą XIV a.“'
+  sudarymo_pagrindimas: 'Citata pagrindžia Zikaro priskyrimą konkrečiam tekstui.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-004
 
@@ -97,6 +122,8 @@ Karolis Zikaras buvo vienas iš šio leidinio iliustracijų rinkėjų. Karolis Z
 - t-010
   global_id: t-171506
   teiginys: 'Karolis Zikaras nurodytas prie tekstų „Vyties kryžius“ ir „Šarvuotas traukinys Gediminas“.'
+  sudarymo_pagrindimas: 'Citata pagrindžia Zikaro priskyrimą dviem tekstams.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Karolis|Karolis]]'
   pagrindžia:
     - c-007
 
@@ -104,6 +131,11 @@ Karolis Zikaras buvo vienas iš šio leidinio iliustracijų rinkėjų. Karolis Z
 - t-011
   global_id: t-171507
   teiginys: 'Karolis Zikaras ir Loreta Uzdraitė yra teksto apie 1923 m. sausio 9-15 d. sukilėlių žygį į Klaipėdos kraštą autoriai.'
+  sudarymo_pagrindimas: 'Citata pagrindžia bendraautorystę ir leidžia pašalinti fragmentišką pradžią.'
+  susije_objektai: 'mentioned_object: [[objektai/posakiai/karas po karo|karas po karo]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_person: [[objektai/autoriai/Loreta Uzdraitė|Loreta Uzdraitė]]'
+  temporaliniai_duomenys: 'įvykio data: 1923 m.; įvykio data: apie 1923 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia bendraautorystę ir leidžia pašalinti fragmentišką pradžią.'
   pagrindžia:
     - c-012
 
@@ -111,9 +143,31 @@ Karolis Zikaras buvo vienas iš šio leidinio iliustracijų rinkėjų. Karolis Z
 - t-012
   global_id: t-171508
   teiginys: 'Karolis Zikaras, Dalius Žygelis ir Loreta Uzdraitė nurodyti kaip teksto apie Lietuvos partizanų apygardas autoriai.'
+  sudarymo_pagrindimas: 'Reikia pašalinti galimą OCR klaidą pavadinime ir suformuluoti sklandesnį sakinį.'
+  susije_objektai: 'mentioned_object: [[objektai/posakiai/karas po karo|karas po karo]]; mentioned_person: [[objektai/autoriai/Dalius Žygelis|Dalius Žygelis]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_person: [[objektai/autoriai/Loreta Uzdraitė|Loreta Uzdraitė]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-009
-
+- susijęs iš [[objektai/autoriai/Andžej Geglis.md#claim-t-71496|Andžej Geglis]]: Andžej Geglis kartu su Karoliu Zikaru buvo teksto „Kalašnikovo sistemos automatiniai šautuvai“ bendraautoris.
+- susijęs iš [[objektai/autoriai/Andžej Geglis.md#claim-t-71503|Andžej Geglis]]: Andžej Geglis kartu su Karoliu Zikaru buvo teksto „Kalašnikovo sistemos automatiniai šautuvai“ bendraautoris.
+- susijęs iš [[objektai/autoriai/Arvydas Anušauskas.md#claim-t-78743|Arvydas Anušauskas]]: Arvydas Anušauskas yra teksto „Žymiausi Lietuvos partizanų mūšiai prieš sovietų pajėgas“ autorius.
+- susijęs iš [[objektai/autoriai/Loreta Uzdraitė.md#claim-t-78780|Loreta Uzdraitė]]: Loreta Uzdraitė, Karolis Zikaras ir Dalius Žygelis nurodyti kaip teksto apie Lietuvos partizanų apygardas autoriai.
+- susijęs iš [[objektai/autoriai/Loreta Uzdraitė.md#claim-t-78782|Loreta Uzdraitė]]: Loreta Uzdraitė, Arvydas Anušauskas ir Karolis Zikaras yra teksto „Žymiausi Lietuvos partizanų mūšiai prieš sovietų pajėgas“ autoriai.
+- susijęs iš [[objektai/autoriai/Loreta Uzdraitė.md#claim-t-78783|Loreta Uzdraitė]]: Loreta Uzdraitė, Romas Batūra ir Karolis Zikaras yra teksto „Kryžininkų pajėgų telkimas prieš Lietuvą 1236 m.“ autoriai.
+- susijęs iš [[objektai/autoriai/Loreta Uzdraitė.md#claim-t-78784|Loreta Uzdraitė]]: Loreta Uzdraitė, Romas Batūra ir Karolis Zikaras yra teksto „Kalavijuočių ordino ir kryžininkų įsiveržimas į Šiaulių žemę“ autoriai.
+- susijęs iš [[objektai/autoriai/Paulius Bugys.md#claim-t-40666|Paulius Bugys]]: Paulius Bugys kartu su Vidmantu Airini ir Karoliu Zikaru siejamas su leidinio iliustracija „Alebardos“.
+- susijęs iš [[objektai/autoriai/Vidmantas Airini.md#claim-t-40674|Vidmantas Airini]]: Vidmantas Airini buvo vienas teksto „Alebardos“ autorių.
+- susijęs iš [[objektai/daiktai/Būgnas-timpanas (būgnas-katilas).md#claim-t-40701|Būgnas-timpanas (būgnas-katilas)]]: Būgnas-timpanas buvo vienas iš dviejų Vilniaus Šv. apaštalų Petro ir Povilo bažnyčioje saugomų būgnų.
+- susijęs iš [[objektai/daiktai/Sausio 13-osios dienos brolijos ženklelis.md#claim-t-40760|Sausio 13-osios dienos brolijos ženklelis]]: Sausio 13-osios dienos brolijos ženklelio dailininkas buvo Domantas Vildžiūnas.
+- susijęs iš [[objektai/grupes/Sausio 13-osios dienos brolija.md#claim-t-41145|Sausio 13-osios dienos brolija]]: Sausio 13-osios dienos brolija vienijo Sausio įvykių dalyvius.
+- susijęs iš [[objektai/ivykiai/Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.).md#claim-t-78642|Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.)]]: Karolio Zikaro sudarytame leidinyje Valkininkų mūšis siejamas su suirutės Lietuvoje pradžia ir kaimynų įtakos stiprėjimu.
+- susijęs iš Didysis artilerijos menas: Karolis Zikaras yra skyriaus „Didysis artilerijos menas“, prasidedančio 115 puslapyje, autorius.
+- susijęs iš GEDIMINO UŽSIENIO POLITIKA: P-34, „GEDIMINO UŽSIENIO POLITIKA“, Romas Batūra.
+- susijęs iš HUSARŲ ORGANIZACIJA XVII A: „Husarų organizacija XVII a.“ autoriumi nurodytas Andžej Geglis, o Karolis Zikaras paminėtas prie šios medžiagos.
+- susijęs iš LEIČIAI - VALDOVO VALIOS ĮGYVENDINTOJAI: Karolis Zikaras parengė informacinį bloką „Leičiai - valdovo valios įgyvendintojai“.
+- susijęs iš LIETUVOS KARIUOMENĖ XVI A: Informacinį bloką „Lietuvos kariuomenė XVI a.“ parengė Lina Vidauskytė, Andžej Geglis ir Karolis Zikaras.
+- susijęs iš LIETUVOS KARIUOMENĖS ORGANIZACIJA IR PERMAINOS XVII A: Prie informacinio bloko „Lietuvos kariuomenės organizacija ir permainos XVII a.“ nurodyti Lina Vidauskytė, Andžej Geglis ir Karolis Zikaras.
+- susijęs iš LIETUVOS KARYBA XIII A: Karolis Zikaras parengė informacinį bloką „Lietuvos karyba XIII a.“.
+- susijęs iš ŽYMIAUSI LIETUVOS PARTIZANŲ MŪŠIAI PRIEŠ SOVIETŲ PAJĖGAS: Straipsnio „Žymiausi Lietuvos partizanų mūšiai prieš sovietų pajėgas“ autoriai yra Arvydas Anušauskas, Karolis Zikaras ir Loreta Uzdraitė.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -406,40 +460,4 @@ Karolis Zikaras buvo vienas iš šio leidinio iliustracijų rinkėjų. Karolis Z
     - t-011
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/Aizkrauklės mūšis (1279 m. kovo 5 d.)]]
-- [[objektai/ivykiai/Algirdo žygiai į Maskvą]]
-- [[objektai/daiktai/Artilerija]]
-- [[objektai/ivykiai/Bezdežo (Antopolio) mūšis (1771 m.)]]
-- [[objektai/ivykiai/Biržų (Medeikių) mūšis (1863 m.)]]
-- [[objektai/ivykiai/Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)]]
-- [[objektai/ivykiai/Durbės mūšis (1260 m.)]]
-- [[objektai/ivykiai/Karusės mūšis (1270 m. vasario 16 d.)]]
-- [[objektai/ivykiai/Klecko mūšis|Klecko mūšis (mūšis, XVI a.)]]
-- [[objektai/ivykiai/K. Radvilos Perkūno reidas (1581 m. liepa-spalis)|Kristupo Radvilos Perkūno reidas (1581 m. liepa-spalis)]]
-- [[objektai/ivykiai/Kuoknesės mūšis (1601 m. birželio 23 d.)]]
-- [[objektai/ivykiai/Kėdainių-Šėtos kautynės]]
-- [[objektai/ivykiai/Lietuvos Brastos mūšis (1792 m. liepos 23 d.)]]
-- [[objektai/zodynas/Lietuvos atsikūrimas]]
-- [[objektai/ivykiai/Lojevo mūšis (1649 m. liepos 31 d.)]]
-- [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)]]
-- [[objektai/zodynas/Nepriklausomybės kovos]]
-- [[objektai/ivykiai/Oršos mūšis (1514 m.)]]
-- [[objektai/ivykiai/Prostkų mūšis (1656 m. spalio 8 d.)]]
-- [[objektai/grupes/Radvilos]]
-- [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.)]]
-- [[objektai/ivykiai/Saulės mūšis (1236 m. rugsėjo 22 d.)]]
-- [[objektai/ivykiai/Smolensko apgultis (1632–1634 m.)]]
-- [[objektai/ivykiai/Strėvos mūšis (1348 m.)]]
-- [[objektai/ivykiai/Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)]]
-- [[objektai/ivykiai/Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.)]]
-- [[objektai/ivykiai/Vorsklos mūšis|Vorsklos mūšis (mūšis)]]
-- [[objektai/posakiai/karas po karo]]
-- [[objektai/zodynas/karyba]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/ivykiai/Šklovo mūšis (1654 m. rugpjūčio 12 d.)]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/daiktai/Būgnas-timpanas (būgnas-katilas)]]
-- [[objektai/grupes/Sausio 13-osios dienos brolija]]
-- [[objektai/daiktai/Sausio 13-osios dienos brolijos ženklelis]]
+- Karolis Zikaras dalyvavo_musyje [[objektai/ivykiai/Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.)]]

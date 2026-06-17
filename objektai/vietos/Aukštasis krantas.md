@@ -1,24 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Aukštasis krantas'
-variantai:
-  - 'Krūty Bierah'
-aliases: []
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
 atnaujinta: ''
-laikotarpis: ''
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: ''
 tags:
   - vieta
 ---
@@ -29,26 +15,30 @@ tags:
 Aukštasis krantas yra kaimas dešiniame Ušos krante. Aukštasis krantas yra apie 25 km į šiaurę ar šiaurės vakarus nuo Klecko.
 
 ## Teiginiai
+
 <a id="claim-t-187162"></a>
 - t-001
   global_id: t-187162
-  teiginys: 'Aukštasis krantas yra kaimas dešiniame Ušos krante.'
+  teiginys: 'Aukštasis krantas yra apie 25 km į šiaurę ar šiaurės vakarus nuo Klecko.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nurodo Aukštojo kranto padėtį Klecko atžvilgiu ir yra paremtas citata. Nieko papildomai nepridėta.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Kaimas; mentioned_place: Nemunas; mentioned_place: Nesvyžius; mentioned_place: Polonka'
   pagrindžia:
     - c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  statusas: patvirtinta
+
 <a id="claim-t-187163"></a>
 - t-002
   global_id: t-187163
-  teiginys: 'Aukštasis krantas yra apie 25 km į šiaurę ar šiaurės vakarus nuo Klecko.'
+  teiginys: 'Aukštasis krantas yra kaimas dešiniame Ušos krante.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatinis sakinys apie Aukštąjį krantą ir tiesiogiai remiasi geografine pastaba. Papildomų interpretacijų ar atribucijos nereikia.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Kaimas; mentioned_place: Nemunas; mentioned_place: Nesvyžius; mentioned_place: Polonka'
   pagrindžia:
     - c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Aukštasis krantas yra kaimas dešiniame Ušos krante.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     1 5  Iškoldis — kaimas (apie 8 km j rytus nuo Polonkos (Polo-
@@ -59,11 +49,9 @@ Aukštasis krantas yra kaimas dešiniame Ušos krante. Aukštasis krantas yra ap
     1 7  Aukštasis krantas (Krūty Bierah) — kaimas (už 15 km į piet­
     ryčius nuo Iškoldies. dešiniame, priešingame Ušos krante, apie
     25 km j šiaurę (šiaurės vakarus) nuo Klecko).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
     - t-002
+    - t-001

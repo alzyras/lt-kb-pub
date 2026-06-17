@@ -1,28 +1,18 @@
 ---
 tipas: vieta
 pavadinimas: 'Putna'
-variantai:
-  - 'Putnu'
-aliases: []
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
-sukurta: ''
-atnaujinta: ''
-laikotarpis: ''
 datos:
   - '1497 m.'
-periodas: ''
-periodo_grupes: []
-amziai:
-  - 'XV'
 date_start: '1497'
-date_end: '1497'
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: ''
+date_end: ''
+sukurta: ''
+atnaujinta: ''
 tags:
   - vieta
+amziai:
+  - 'XV'
 ---
 # Putna
 
@@ -31,26 +21,30 @@ tags:
 Kalnuose buvo Stepono mėgstamas vienuolynas, vadinamas Putnu. Prie Putnos Steponas apsistojo su visa kariuomene kaip tvirtovėje.
 
 ## Teiginiai
+
 <a id="claim-t-187303"></a>
 - t-001
   global_id: t-187303
-  teiginys: 'Kalnuose buvo Stepono mėgstamas vienuolynas, vadinamas Putnu.'
+  teiginys: 'Prie Putnos Steponas apsistojo su visa kariuomene kaip tvirtovėje.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra gramatinis, aiškus ir paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Moldavija; mentioned_place: Trakai'
   pagrindžia:
     - c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  statusas: patvirtinta
+
 <a id="claim-t-187304"></a>
 - t-002
   global_id: t-187304
-  teiginys: 'Prie Putnos Steponas apsistojo su visa kariuomene kaip tvirtovėje.'
+  teiginys: 'Putna buvo kalnuose esantis Stepono mėgstamas vienuolynas, kuriame jis apsistojo su visa kariuomene.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Sakinys papildytas aiškiu predikatu ir sujungtas su vietovės funkcija pasakojime.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Moldavija; mentioned_place: Trakai'
   pagrindžia:
     - c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Kalnuose buvo Stepono mėgstamas vienuolynas, vadinamas Putnu.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     Ir pagal tą Trakų vaivados patarimą karalius
@@ -69,11 +63,9 @@ Kalnuose buvo Stepono mėgstamas vienuolynas, vadinamas Putnu. Prie Putnos Stepo
 
     lamas vienuolynas, vadinamas Putnu 2 S , ir ten apsistojo
     su visa savo kariuomene kaip didelėje tvirtovėje2 9 .
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
     - t-002
+    - t-001

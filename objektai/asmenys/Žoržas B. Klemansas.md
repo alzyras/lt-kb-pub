@@ -23,6 +23,8 @@ Prancūzija Žoržo B.
 - t-001
   global_id: t-78077
   teiginys: 'Žoržo B. Klemanso rašte vokiečiams Prancūzija aiškino sąjungininkų sprendimą dėl Klaipėdos krašto.'
+  sudarymo_pagrindimas: 'Citata palaiko faktą apie Klemanso rašto paskirtį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva; mentioned_place: Prancūzija; mentioned_place: Vokietija'
   pagrindžia:
     - c-001
 
@@ -45,9 +47,3 @@ Prancūzija Žoržo B.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/tautų apsisprendimo teisė tautų apsisprendimo principas]]
-- [[objektai/posakiai/„visada buvo lietuviškas“]]

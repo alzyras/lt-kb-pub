@@ -20,6 +20,8 @@ tags:
 - t-001
   global_id: t-36399
   teiginys: 'Vytautui pasidavė Mcensko, Liubutsko, Novosielsko, Peremišlio, Vorotinsko, Odojevo ir kitos Okos aukštupio kunigaikštijos.'
+  sudarymo_pagrindimas: 'Teiginys yra faktinis, pilnas ir citata tiesiogiai jį patvirtina.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Odojevas; mentioned_place: Smolenskas'
   pagrindžia:
     - c-001
 

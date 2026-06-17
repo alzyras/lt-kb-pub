@@ -6,6 +6,8 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1944 m.'
+  - '1945 m.'
+  - '1946 m.'
   - '2026 m.'
 date_start: '1944'
 date_end: '2026'
@@ -55,6 +57,9 @@ Sovietinė valstybės saugumo ir represinė struktūra.
 - t-001
   global_id: t-65923
   teiginys: 'NKVD ir NKGB skyriai visose apskrityse koordinavo baudžiamąsias operacijas, gaudynes, tardymus ir agentų verbavimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1945 m.; įvykio data: 1946 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 
@@ -62,6 +67,11 @@ Sovietinė valstybės saugumo ir represinė struktūra.
 - t-002
   global_id: t-65924
   teiginys: 'Tigras pirmaisiais šūviais nukovė tris NKGB dalinio vadus: kapitoną Kruglovą, leitenantą Marcinkevičių ir dar vieną rusų karininką.'
+  sudarymo_pagrindimas: 'Reikia pataisyti linksnį ir sutvarkyti formuluotę pagal citatą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Marcinkevičius|Marcinkevičius]]; mentioned_person: [[objektai/asmenys/Tigras|Tigras]]; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1945 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia pataisyti linksnį ir sutvarkyti formuluotę pagal citatą.'
   pagrindžia:
     - c-004
 
@@ -69,6 +79,9 @@ Sovietinė valstybės saugumo ir represinė struktūra.
 - t-003
   global_id: t-65925
   teiginys: 'Atkuriant stalininį režimą Lietuvoje, totalitariniam režimui dirigavo komunistų partija, NKGB ir NKVD struktūros.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_place: Estija; mentioned_place: Latvija; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: iki 1945 m.; įvykio data: 1945 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -76,9 +89,20 @@ Sovietinė valstybės saugumo ir represinė struktūra.
 - t-004
   global_id: t-65926
   teiginys: 'Prienų NKGB tardytojas Arkadijus Kruglovas prie durų paleido automato seriją.'
+  sudarymo_pagrindimas: 'Pirminiame teiginyje neaiškus įvardis, todėl faktas sukonkretintas pagal citatą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_person: [[objektai/asmenys/Tigras|Tigras]]; mentioned_place: Prienai; mentioned_place: Viena'
   pagrindžia:
     - c-003
-
+- susijęs iš [[objektai/asmenys/Arkadij Kruglov.md#claim-t-183730|Arkadij Kruglov]]: Prie durų stovėjęs Prienų NKGB tardytojas Arkadijus Kruglovas paleido automato seriją.
+- susijęs iš [[objektai/asmenys/Arkadij Kruglov.md#claim-t-39347|Arkadij Kruglov]]: Prienų NKGB tardytojas Arkadijus Kruglovas prie durų paleido automato seriją.
+- susijęs iš [[objektai/asmenys/Arkadij Kruglov.md#claim-t-39348|Arkadij Kruglov]]: Kapitoną Arkadijų Kruglovą Tigras nukovė pirmaisiais šūviais.
+- susijęs iš [[objektai/asmenys/Marcinkevičius.md#claim-t-39596|Marcinkevičius]]: Leitenantas Marcinkevičius buvo vienas iš trijų NKGB dalinio vadų, kuriuos nukovė Tigras.
+- susijęs iš [[objektai/asmenys/Tigras.md#claim-t-40465|Tigras]]: Tigras pirmaisiais šūviais nukovė tris buvusius NKGB dalinio vadus: kapitoną Kruglovą, leitenantą Marcinkevičių ir rusą karininką.
+- susijęs iš [[objektai/grupes/NKVD.md#claim-t-71681|NKVD]]: Kovai su partizanais Lietuvoje dislokuotoje NKVD kariuomenėje 1945 m. vasarą buvo iki 20 tūkst., o 1946 m. apie 14 tūkst. karių.
+- susijęs iš [[objektai/ivykiai/Sovietinių represinių struktūrų kova su Lietuvos partizanais (1944–1954 m.).md#claim-t-183275|Sovietinių represinių struktūrų kova su Lietuvos partizanais (1944–1954 m.)]]: Kovai su Lietuvos partizanais 1945 m. vasarą Lietuvoje buvo dislokuota iki 20 tūkst., o 1946 m. apie 14 tūkst. NKVD karių.
+- susijęs iš Prienai: Prienų NKGB tardytojas Arkadijus Kruglovas prie durų paleido automato seriją.
+- susijęs iš Prienai: Prienų NKGB tardytojas Arkadijus Kruglovas prie durų paleido automato seriją.
+- susijęs iš [[objektai/zodynas/stribai naikintojų batalionai liaudies gynėjai.md#claim-t-183466|stribai naikintojų batalionai liaudies gynėjai]]: Kovai su lietuvių partizanais okupacinė valdžia prie NKVD įkūrė naikintojų batalionus, lietuvių vadintus stribais.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -143,15 +167,3 @@ Sovietinė valstybės saugumo ir represinė struktūra.
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Kūnas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Marcinkevičius]]
-- [[objektai/grupes/NKVD]]
-- [[objektai/asmenys/Tigras]]
-- [[objektai/asmenys/Arkadij Kruglov]]
-- [[objektai/ivykiai/Sovietinių represinių struktūrų kova su Lietuvos partizanais (1944–1954 m.)]]
-- [[objektai/zodynas/stribai naikintojų batalionai liaudies gynėjai]]
-- [[objektai/grupes/Rusai]]

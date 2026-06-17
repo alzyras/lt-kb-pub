@@ -3,6 +3,10 @@ tipas: paprotys
 pavadinimas: 'Rusų pirklių privalomas apsistojimas Svečių namuose, muito mokėjimas ir prisistatymas pilininkui'
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+datos:
+  - '1500 m.'
+date_start: '1500'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -10,6 +14,8 @@ tags:
   - miestas
   - paprotys
   - sutartis
+amziai:
+  - 'XV'
 ---
 # Rusų pirklių privalomas apsistojimas Svečių namuose, muito mokėjimas ir prisistatymas pilininkui
 
@@ -43,6 +49,11 @@ Nenurodyta
 - t-001
   global_id: t-87224
   teiginys: 'Aleksandras leido Vilniui pastatyti Svečių namus, kuriuose rusų pirkliai privalėjo apsistoti, mokėti muitą ir prisistatyti pilininkui.'
+  sudarymo_pagrindimas: 'Citata pagrindžia aiškesnį sakinį, tiesiogiai atitinkantį note objektą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Rusų pirkliai|Rusų pirkliai]]; mentioned_object: [[objektai/zodynas/Pilininkas|Pilininkas]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Pskovas; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'pastatymo data: 1500 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia aiškesnį sakinį, tiesiogiai atitinkantį note objektą.'
   pagrindžia:
     - c-002
 
@@ -50,6 +61,8 @@ Nenurodyta
 - t-002
   global_id: t-87225
   teiginys: 'Aleksandras leido statyti Svečių namus ir dėl miesto bei muito pelno, ir dėl išorinio saugumo.'
+  sudarymo_pagrindimas: 'Pašalinta fragmentiška pradžia; citata pagrindžia motyvus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]'
   pagrindžia:
     - c-001
 
@@ -99,14 +112,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/grupes/Rusų pirkliai]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/asmenys/Aleksandras]]
-- [[objektai/zodynas/Pilininkas]]
-- [[objektai/asmenys/Aleksandras Jogailaitis]]
-- [[objektai/zodynas/svečiai Svečių namai]]

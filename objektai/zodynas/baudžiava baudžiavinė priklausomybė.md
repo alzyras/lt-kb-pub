@@ -4,9 +4,10 @@ pavadinimas: 'baudžiava baudžiavinė priklausomybė'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
+  - '1861 m.'
   - '1864 m.'
-date_start: '1864'
-date_end: ''
+date_start: '1861'
+date_end: '1864'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -21,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-Aleksandras II 1861 m. pavasarį pasirašė manifestą, paleidusį privačių dvarų valstiečius iš baudžiavinės priklausomybės. 1864 m. Rusijos caro valdžia pradėjo jau anksčiau paskelbtą valstiečių paleidimą iš baudžiavinės priklausomybės. 1864 m. carizmui pradėjus valstiečių paleidimą iš baudžiavinės priklausomybės, valstiečiai tapo sąlyginai laisvu žemdirbių luomu.
+Tuo metu carizmas pradėjo jau anksčiau paskelbtą valstiečių paleidimo iš baudžiavinės priklausomybės procesą. Todėl sukilėlių būriuose, kuriems vadovavo vietiniai smulkiosios bajorijos atstovai, buvo daug valstiečių, kai kuriuose net dauguma, tad atsišaukimuose lenkų ir lietuvių (žemaičių) kalbomis keltas ir reikalavimas paleisti valstiečius iš baudžiavos. Rusijos pralaimėjimas Krymo kare (1853–1856) paskatino naująjį carą Aleksandrą II rengtis baudžiavos panaikinimui, sušvelninta tautinė politika.
 
 ## Teiginiai
 
@@ -29,6 +30,11 @@ Aleksandras II 1861 m. pavasarį pasirašė manifestą, paleidusį privačių dv
 - t-001
   global_id: t-22080
   teiginys: 'Aleksandras II 1861 m. pavasarį pasirašė manifestą, paleidusį privačių dvarų valstiečius iš baudžiavinės priklausomybės.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Baudžiava|Baudžiava]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras II|Aleksandras II]]; mentioned_place: Krymas; mentioned_place: Rusija'
+  temporaliniai_duomenys: 'įvykio data: 1861 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-002
 
@@ -36,6 +42,11 @@ Aleksandras II 1861 m. pavasarį pasirašė manifestą, paleidusį privačių dv
 - t-002
   global_id: t-22082
   teiginys: '1864 m. Rusijos caro valdžia pradėjo jau anksčiau paskelbtą valstiečių paleidimą iš baudžiavinės priklausomybės.'
+  sudarymo_pagrindimas: 'Aiškiau įvardytas veikėjas ir išlaikyta citatos paremta faktinė mintis.'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Rusija'
+  temporaliniai_duomenys: 'įvykio data: 1864 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Aiškiau įvardytas veikėjas ir išlaikyta citatos paremta faktinė mintis.'
   pagrindžia:
     - c-001
 
@@ -43,6 +54,14 @@ Aleksandras II 1861 m. pavasarį pasirašė manifestą, paleidusį privačių dv
 - t-003
   global_id: t-183403
   teiginys: '1864 m. carizmui pradėjus valstiečių paleidimą iš baudžiavinės priklausomybės, valstiečiai tapo sąlyginai laisvu žemdirbių luomu.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata palaiko turiningesnį sakinį su proceso padariniu.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Rusija'
+  temporaliniai_duomenys: 'įvykio data: 1864 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko turiningesnį sakinį su proceso padariniu.'
   pagrindžia:
     - c-003
 
@@ -96,10 +115,3 @@ Aleksandras II 1861 m. pavasarį pasirašė manifestą, paleidusį privačių dv
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Baudžiava]]
-- [[objektai/asmenys/Aleksandras]]
-- [[objektai/asmenys/Aleksandras II]]
-- [[objektai/zodynas/luomas]]

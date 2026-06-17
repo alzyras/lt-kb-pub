@@ -18,6 +18,11 @@ Ivanas per derybas dėl santuokos pareikalavo Aleksandro raštiško pasižadėji
 - t-001
   global_id: t-186306
   teiginys: 'Ivanas per derybas dėl santuokos pareikalavo Aleksandro raštiško pasižadėjimo, kad Elena liks rusų tikėjimo ir nebus verčiama pereiti į Romos tikėjimą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata palaiko aiškų faktą apie pasižadėjimą; pradinis tekstas turi boilerplate ir OCR klaidų.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_person: [[objektai/asmenys/Ivanas|Ivanas]]; mentioned_place: Maskva; mentioned_place: Trakai'
   pagrindžia:
     - c-001
 
@@ -25,6 +30,11 @@ Ivanas per derybas dėl santuokos pareikalavo Aleksandro raštiško pasižadėji
 - t-002
   global_id: t-186307
   teiginys: 'Aleksandro pasiuntinius į Lietuvą palydėjo keturi didikai, turėję pagal Ivano nurodymus užbaigti derybas dėl Elenos vestuvių.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir tiesiogiai pagrįstas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 

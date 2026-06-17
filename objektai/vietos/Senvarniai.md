@@ -22,9 +22,10 @@ Brastoje (pirmos žmonos Marijos Praksėdos atminimui), Volkoviske, Visoko Litev
 - t-001
   global_id: t-36571
   teiginys: 'Vytautas Žemaitijoje pastatė bažnyčias, tarp jų ir Senvarniuose.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Brasta; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-
+- susijęs iš Žemaitija: Žemaitijoje Vytautas pastatė Varnių katedrą ir bažnyčias Ariogaloje, Betygaloje, Kelmėje, Kražiuose, Kaltinėnuose, Luokėje, Raseiniuose, Viduklėje, Senvarniuose ir Veliuonoje.
 ## Reikšmingi paminėjimai
 
 - c-001

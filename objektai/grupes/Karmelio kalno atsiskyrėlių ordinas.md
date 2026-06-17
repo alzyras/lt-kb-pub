@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Karmelio kalno atsiskyrėlių ordiną patvirtino popiežius Honorijus. Karmelio kalno atsiskyrėlių ordiną patvirtino popiežius Honorijus.
+Dusburgietis teigia, kad karmelio kalno atsiskyrėlių ordiną bei Mokinių slėnio brolių ordiną [Ordo fratrum valtis scolarium] patvirtino tas pats valdovas popiežius Honorijus.
 
 ## Teiginiai
 
@@ -29,6 +29,8 @@ Karmelio kalno atsiskyrėlių ordiną patvirtino popiežius Honorijus. Karmelio 
 - t-001
   global_id: t-88577
   teiginys: 'Karmelio kalno atsiskyrėlių ordiną patvirtino popiežius Honorijus.'
+  sudarymo_pagrindimas: 'Teiginys yra trumpas, pilnas ir paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-001
     - c-002
@@ -67,9 +69,3 @@ Karmelio kalno atsiskyrėlių ordiną patvirtino popiežius Honorijus. Karmelio 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Elžbieta]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Mokinių slėnio brolių ordinas]]

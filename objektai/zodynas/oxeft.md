@@ -26,9 +26,13 @@ Notandum [pa­ žymėtina], kurios pro contigenti lucro [iš gaunamo pelno] skir
 - t-001
   global_id: t-86603
   teiginys: 'Oxeftas šaltinyje minimas kaip alaus statinė, kurią kas savaitę privalėta duoti kolegijos prefektui ir jo padėjėjui.'
+  sudarymo_pagrindimas: 'Citata leidžia aiškiai apibrėžti terminą, o pradinis tekstas fragmentiškas.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/daiktai/Spaustuvės išlaikymo alaus statinė ir duonos kepalai.md#claim-t-87122|Spaustuvės išlaikymo alaus statinė ir duonos kepalai]]: Spaustuvės pelnas buvo skiriamas prefekto ir padėjėjo maitinimui, o kas savaitę dar reikėjo duoti alaus ir duonos kepalų.
+- susijęs iš [[objektai/paprociai/Spaustuvės darbuotojų savaitinis aprūpinimas alumi, duona ir valgiu.md#claim-t-87284|Spaustuvės darbuotojų savaitinis aprūpinimas alumi, duona ir valgiu]]: Spaustuvė kas savaitę privalėjo duoti statinę alaus, silpnesnio alaus oxeftą, 8 asmenims po 8 kepalus duonos ir valgį iš kolegijos virtuvės.
+- susijęs iš [[objektai/zodynas/lotyniškos apskaitos formulės spaustuvės kronikoje.md#claim-t-86533|lotyniškos apskaitos formulės spaustuvės kronikoje]]: Lotyniškos apskaitos formulės nurodo spaustuvės išlaidas spaudmenims, popieriui, atlyginimams, išlaikymui ir remontui.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -56,10 +60,3 @@ Notandum [pa­ žymėtina], kurios pro contigenti lucro [iš gaunamo pelno] skir
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Namas]]
-- [[objektai/paprociai/Spaustuvės darbuotojų savaitinis aprūpinimas alumi, duona ir valgiu]]
-- [[objektai/daiktai/Spaustuvės išlaikymo alaus statinė ir duonos kepalai]]
-- [[objektai/zodynas/lotyniškos apskaitos formulės spaustuvės kronikoje]]

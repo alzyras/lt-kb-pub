@@ -23,6 +23,8 @@ Dusburgietis teigia, kad apie Svečės pilies pastatymą ir jos užpuolimą Tod�
 - t-001
   global_id: t-58721
   teiginys: 'Broliai atsižadėjo Sartovicų pilies ir ją su visu turtu perdavė Samborui, Sventopelko sūnui.'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo apkrautas antrašte ir šaltinio boilerplate.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Svečė'
   pagrindžia:
     - c-001
 

@@ -14,6 +14,7 @@ tags:
   - karas
   - kunigaikštis
   - tauta
+  - valdovas
 amziai:
   - 'XIII'
 periodo_grupes:
@@ -31,6 +32,12 @@ Dusburgietis teigia, kad apie tai, kaip Notangos žemę nusiaubė Meiseno markos
 - t-001
   global_id: t-60263
   teiginys: '1272 m. Meiseno markos valdovas Ditrichas atvyko į Prūsiją su daugybe karių ir ketino pulti Notangos žemę.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas, glaustas ir tiesiogiai paremtas citatos duomenimis.'
+  susije_objektai: 'location: Notanga; location: Prūsija; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_person: [[objektai/asmenys/Giunteris (Mazovijos vyskupas)|Giunteris (Mazovijos vyskupas)]]; mentioned_place: Notanga; mentioned_place: Prūsija'
+  semantiniai_rysiai: '[[objektai/asmenys/Ditrichas (Meiseno markos valdovas)|Ditrichas (Meiseno markos valdovas)]] keliavo į Notanga; [[objektai/asmenys/Ditrichas (Meiseno markos valdovas)|Ditrichas (Meiseno markos valdovas)]] keliavo į Prūsija'
+  temporaliniai_duomenys: 'kelionės data: 1272 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Ditrichas (Meiseno markos valdovas) keliavo į Notanga“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Ditrichas (Meiseno markos valdovas) keliavo į Prūsija“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas, glaustas ir tiesiogiai paremtas citatos duomenimis.'
   pagrindžia:
     - c-001
 
@@ -57,7 +64,5 @@ Dusburgietis teigia, kad apie tai, kaip Notangos žemę nusiaubė Meiseno markos
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Giunteris (Mazovijos vyskupas)]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/įgula]]
+- Ditrichas (Meiseno markos valdovas) keliavo_i [[objektai/vietos/Notanga]]
+- Ditrichas (Meiseno markos valdovas) keliavo_i [[objektai/vietos/Prūsija]]

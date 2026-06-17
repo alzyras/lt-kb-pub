@@ -16,18 +16,20 @@ tags:
 Tik penkių valstybių atstovai (Kolumbijos, Italijos, Paragvajaus, Persijos ir Portugalijos) teišdrįso tada ginti Pabaltijo valstybių priėmimą su visais iš to einančiais padariniais.
 
 ## Teiginiai
+
 <a id="claim-t-02662"></a>
 - t-001
   global_id: t-02662
   teiginys: 'Paragvajaus atstovai buvo tarp penkių valstybių atstovų, gynusių Pabaltijo valstybių priėmimą.'
+  sudarymo_pagrindimas: 'Pradinė formuluotė per plati, bet citata palaiko faktą apie Paragvajaus atstovus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_place: Lietuva; mentioned_place: Persija; mentioned_place: Rusija'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-
+- susijęs iš Lisabona: XVI–XVII a. Lisabona kartu su Roma ir Madridu skleidė katalikybės bei barokinės architektūros ir dailės įtaką iki Meksikos ir Paragvajaus.
+- susijęs iš Madridas: XVI–XVII a. Madridas tebespinduliavo katalikybės ir barokinės architektūros bei dailės šviesą iki Meksikos ir Paragvajaus.
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Paragvajaus atstovai buvo tarp penkių valstybių atstovų, gynusių Pabaltijo valstybių priėmimą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     15 —
@@ -41,10 +43,8 @@ Tik penkių valstybių atstovai (Kolumbijos, Italijos, Paragvajaus, Persijos ir 
     atstovai (Kolumbijos, Italijos, Paragvajaus, Persijos ir Portu-
     galijos) teišdrįso tada ginti Pabaltijo valstybių priėmimą su visais
     iš to einančiais padariniais.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

@@ -45,6 +45,8 @@ Nenurodyta
 - t-001
   global_id: t-28779
   teiginys: 'Specialiu raštu panaikindamas Rygos arkivyskupo jurisdikciją Lietuvai, Inocentas IV Mindaugui pranešė apie Lietuvos vyskupijos išskyrimą iš kaimyninės metropolito jurisdikcijos.'
+  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytą popiežiaus raštą ir vyskupijos išskyrimą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/jurisdikcija|jurisdikcija]]; mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_person: [[objektai/asmenys/Inocentas IV|Inocentas IV]]; mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva; mentioned_place: Ryga; mentioned_place: Saksonija'
   pagrindžia:
     - c-001
 
@@ -52,6 +54,11 @@ Nenurodyta
 - t-002
   global_id: t-28780
   teiginys: '1254 m. birželio 24 d. Inocentas IV pavedė arkivyskupui Albertui išrinkti ir konsekruoti Mindaugo pageidaujamą vyskupo kandidatą.'
+  sudarymo_pagrindimas: 'Teiginys paremtas citata, bet sutvarkyta data ir kalba.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Inocentas IV|Inocentas IV]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]'
+  temporaliniai_duomenys: 'įvykio data: 1254 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys paremtas citata, bet sutvarkyta data ir kalba.'
   pagrindžia:
     - c-002
 
@@ -84,12 +91,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Inocentas IV]]
-- [[objektai/asmenys/Kristijonas]]
-- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
-- [[objektai/zodynas/jurisdikcija]]
-- [[objektai/zodynas/metropolitas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

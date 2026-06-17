@@ -39,6 +39,7 @@ Nenurodyta
 - t-001
   global_id: t-19546
   teiginys: 'Į Maskvą keliaudavo kyšiai, apibūdinti kaip lagaminai rūkytų dešrų ir kumpių.'
+  susije_objektai: 'mentioned_place: Leningradas; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: SSRS'
   pagrindžia:
     - c-001
 
@@ -65,10 +66,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/buities-daiktas]]
-
-### Susiję objektai
-- [[objektai/zodynas/dolgostrojai]]

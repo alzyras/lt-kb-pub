@@ -28,6 +28,11 @@ amziai:
 - t-001
   global_id: t-88241
   teiginys: 'Bohuszo „Summaryusz Aktów Kapituły Wileńskiej“ mini, kad 1556 m. naujosios sektos tapo reformos šalininkų prieglobsčiu ir mokykla.'
+  sudarymo_pagrindimas: 'Pradinis tekstas užterštas puslapio triukšmu ir nutrūkęs, bet citata pagrindžia glaustą faktą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Cvinglis|Cvinglis]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1556 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis tekstas užterštas puslapio triukšmu ir nutrūkęs, bet citata pagrindžia glaustą faktą.'
   pagrindžia:
     - c-001
 

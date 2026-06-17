@@ -42,6 +42,8 @@ Nenurodyta
 - t-001
   global_id: t-87089
   teiginys: 'XVI a. pradžioje Pilaitės kaime veikė malūnas, kalvė ir lentpjūvė.'
+  sudarymo_pagrindimas: 'Pirminis teiginys buvo gremėzdiškas ir turėjo neenciklopedinių formuluočių.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Kalvė|Kalvė]]; mentioned_person: [[objektai/asmenys/Tame (Baigos brolis)|Tame (Baigos brolis)]]; mentioned_place: Kaimas; mentioned_place: Pilaitė; mentioned_place: Sudervėlė; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -65,10 +67,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Kalvė]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Tame (Baigos brolis)]]

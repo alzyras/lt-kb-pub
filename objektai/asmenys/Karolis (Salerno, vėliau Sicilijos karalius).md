@@ -29,6 +29,11 @@ Dusburgietis teigia, kad apie palaimintosios Marijos Magdalietės palaikų atide
 - t-001
   global_id: t-60354
   teiginys: '1280 m. Karolis, Salerno ir vėlesnis Sicilijos karalius, atidengė Marijos Magdalietės palaikus.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiksliai perteikia citatos faktą.'
+  susije_objektai: 'mentioned_place: Salernas'
+  temporaliniai_duomenys: 'įvykio data: 1280 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir tiksliai perteikia citatos faktą.'
   pagrindžia:
     - c-001
 

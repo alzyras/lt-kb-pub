@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Chasidai siūlė reformuoti ortodoksinį rabinizmą, sureikšminti individą ir nuoširdų tikėjimą bei sušvelninti buitį normuojančius įstatymus. Vilniaus Gaonas paskelbė chasidus eretikais ir savo autoritetu sustabdė chasidizmo plitimą Lietuvoje. Vilniaus Gaonas paskelbė chasidus eretikais ir savo autoritetu sustabdė chasidizmo plitimą Lietuvoje.
+Aplinkinėse valstybėse ir LDK pietrytinėje dalyje iki Vilniaus išplitusio chasidizmo šalininkai siūlė reformuoti ortodoksinį rabinizmą – sureikšminti individą ir nuoširdų jo tikėjimą, sušvelninti griežtus buitį normuojančius įstatymus. Vilniaus Gaonas ne tik inicijavo akcijas prieš chasidizmą ir paskelbė chasidus esant eretikus, bet ir savo autoritetu ir pastangomis sustabdė chasidizmo plitimą Lietuvoje.
 
 ## Teiginiai
 
@@ -23,6 +23,8 @@ Chasidai siūlė reformuoti ortodoksinį rabinizmą, sureikšminti individą ir 
 - t-001
   global_id: t-169573
   teiginys: 'Chasidai siūlė reformuoti ortodoksinį rabinizmą, sureikšminti individą ir nuoširdų tikėjimą bei sušvelninti buitį normuojančius įstatymus.'
+  sudarymo_pagrindimas: 'Patikslintas objektas ir įtrauktas šaltinyje minimas nuoširdus tikėjimas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/akcijos|akcijos]]; mentioned_person: [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas|Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]; mentioned_place: Viena; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -30,9 +32,15 @@ Chasidai siūlė reformuoti ortodoksinį rabinizmą, sureikšminti individą ir 
 - t-002
   global_id: t-169575
   teiginys: 'Vilniaus Gaonas paskelbė chasidus eretikais ir savo autoritetu sustabdė chasidizmo plitimą Lietuvoje.'
+  sudarymo_pagrindimas: 'Sutrumpinta iki aiškaus, šaltinio paremto fakto apie chasidus.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas|Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas.md#claim-t-75433|Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]: Vilniaus Gaonas savo autoritetu ir pastangomis sustabdė chasidizmo plitimą Lietuvoje.
+- susijęs iš [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas.md#claim-t-75435|Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]: Vilniaus Gaonas inicijavo akcijas prieš chasidizmą, paskelbė chasidus eretikais ir sustabdė chasidizmo plitimą Lietuvoje.
+- susijęs iš [[objektai/paprociai/Litvakų rabininės tradicijos gynimas, Talmudo studijos ir savita gyvensena.md#claim-t-54306|Litvakų rabininės tradicijos gynimas, Talmudo studijos ir savita gyvensena]]: Vilniaus Gaonas gynė rabininę tradiciją, inicijavo akcijas prieš chasidizmą ir sustabdė jo plitimą Lietuvoje.
+- susijęs iš [[objektai/paprociai/Litvakų rabininės tradicijos gynimas, Talmudo studijos ir savita gyvensena.md#claim-t-54308|Litvakų rabininės tradicijos gynimas, Talmudo studijos ir savita gyvensena]]: Vilniaus Gaonas gynė rabininę tradiciją, inicijavo akcijas prieš chasidizmą ir sustabdė jo plitimą Lietuvoje.
+- susijęs iš [[objektai/zodynas/chasidizmas rabinizmas.md#claim-t-22092|chasidizmas rabinizmas]]: Vilniaus Gaonas inicijavo akcijas prieš chasidizmą ir savo autoritetu sustabdė jo plitimą Lietuvoje.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -70,12 +78,3 @@ Chasidai siūlė reformuoti ortodoksinį rabinizmą, sureikšminti individą ir 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]
-- [[objektai/zodynas/akcijos]]
-- [[objektai/grupes/Žydai]]
-- [[objektai/paprociai/Litvakų rabininės tradicijos gynimas, Talmudo studijos ir savita gyvensena]]
-- [[objektai/zodynas/chasidizmas rabinizmas]]
-- [[objektai/zodynas/ješiva]]

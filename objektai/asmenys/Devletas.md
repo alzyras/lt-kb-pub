@@ -29,9 +29,14 @@ Devletas pabandė iš to protektorato išsivaduoti, neteko sosto ir vos gyvas pa
 - t-001
   global_id: t-34716
   teiginys: '1422 m. Devletas bandė išsivaduoti iš protektorato, neteko sosto ir vos gyvas paspruko.'
+  sudarymo_pagrindimas: 'Teiginys yra faktinis sakinys apie Devletą ir remiasi citata.'
+  susije_objektai: 'mentioned_place: Konstantinopolis'
+  temporaliniai_duomenys: 'įvykio data: 1422 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra faktinis sakinys apie Devletą ir remiasi citata.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/ivykiai/Devleto mėginimas išsivaduoti iš protektorato ir sosto netekimas.md#claim-t-34469|Devleto mėginimas išsivaduoti iš protektorato ir sosto netekimas]]: 1422 m. Devletas pabandė išsivaduoti iš protektorato, neteko sosto ir vos gyvas paspruko.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -48,7 +53,3 @@ Devletas pabandė iš to protektorato išsivaduoti, neteko sosto ir vos gyvas pa
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/Devleto mėginimas išsivaduoti iš protektorato ir sosto netekimas]]

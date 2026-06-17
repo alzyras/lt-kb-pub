@@ -43,6 +43,8 @@ Nenurodyta
 - t-001
   global_id: t-87154
   teiginys: 'Įsigiję valdas rusai ir totoriai turėjo mokėti tas pačias dešimtines, pelno mokestį ir duokles, kurias mokėjo ankstesni savininkai.'
+  sudarymo_pagrindimas: 'Ilgas OCR fragmentas perrašytas į aiškų prievolių tęstinumo faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/dominija|dominija]]; mentioned_object: [[objektai/zodynas/luomai|luomai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -81,14 +83,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Maskvėnai]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/zodynas/dominija]]
-- [[objektai/zodynas/luomai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/cesija ir decesija]]

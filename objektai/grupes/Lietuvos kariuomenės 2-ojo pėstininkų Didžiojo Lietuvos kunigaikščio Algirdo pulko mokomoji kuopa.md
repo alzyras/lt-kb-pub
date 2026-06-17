@@ -4,9 +4,10 @@ pavadinimas: 'Lietuvos kariuomenės 2-ojo pėstininkų Didžiojo Lietuvos kuniga
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
+  - '1917 m.'
   - '1920 m.'
-date_start: '1920'
-date_end: ''
+date_start: '1917'
+date_end: '1920'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -20,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-1920 m. lapkričio 22 d. 2-ojo pėstininkų Didžiojo Lietuvos kunigaikščio Algirdo pulko mokomoji kuopa buvo Giedraičių apylinkėse po mūšio su lenkais.
+p. 208, Lietuvos kariuomenės 2-ojo pėstininkų Didžiojo Lietuvos kunigaikščio Algirdo pulko mokomoji kuopa.
 
 ## Teiginiai
 
@@ -28,6 +29,11 @@ amziai:
 - t-001
   global_id: t-41041
   teiginys: '1920 m. lapkričio 22 d. 2-ojo pėstininkų Didžiojo Lietuvos kunigaikščio Algirdo pulko mokomoji kuopa buvo Giedraičių apylinkėse po mūšio su lenkais.'
+  sudarymo_pagrindimas: 'Citata yra kataloginis užrašas, todėl perrašyta į pilną faktinį sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Mokomoji kuopa|Mokomoji kuopa]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/zodynas/gurguolė|gurguolė]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Giedraičiai; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1917 m.; įvykio data: 1920 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata yra kataloginis užrašas, todėl perrašyta į pilną faktinį sakinį.'
   pagrindžia:
     - c-001
 
@@ -46,11 +52,3 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/daiktai/Artilerija]]
-- [[objektai/zodynas/gurguolė]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Mokomoji kuopa]]

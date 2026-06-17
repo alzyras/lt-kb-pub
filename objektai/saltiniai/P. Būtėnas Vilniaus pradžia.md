@@ -27,6 +27,11 @@ amziai:
 - t-001
   global_id: t-31878
   teiginys: 'P. Būtėno „Vilniaus pradžia“ paskelbta žurnalo „Karys“ 1973 m. 10 numeryje, p. 342-344.'
+  sudarymo_pagrindimas: 'Citata leidžia suformuluoti tikslų leidimo faktą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]'
+  temporaliniai_duomenys: 'įvykio data: 1973 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata leidžia suformuluoti tikslų leidimo faktą.'
   pagrindžia:
     - c-001
 

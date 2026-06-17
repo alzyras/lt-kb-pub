@@ -28,6 +28,9 @@ Kučiui panaudojus spec.
 - t-001
   global_id: t-40488
   teiginys: '1949 m. spalio 24 d. MGB agentas V. Kučius panaudojo specialius preparatus „Neptun-20“ prieš partizanų suėmimą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vaistinės prekės, vaistai ir gydomieji gėrimai|Vaistinės prekės, vaistai ir gydomieji gėrimai]]; mentioned_person: [[objektai/asmenys/Albinas (Vilniaus sufraganas)|Albinas (Vilniaus sufraganas)]]; mentioned_person: [[objektai/asmenys/Albinas Kubilius-Rūgštymas|Albinas Kubilius-Rūgštymas]]; mentioned_person: [[objektai/asmenys/Alfonsas (Kastilijos karalius)|Alfonsas (Kastilijos karalius)]]'
+  temporaliniai_duomenys: 'įvykio data: 1949 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -56,7 +59,3 @@ Kučiui panaudojus spec.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Vaistinės prekės, vaistai ir gydomieji gėrimai]]

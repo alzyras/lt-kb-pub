@@ -26,6 +26,10 @@ Dusburgietis teigia, kad mažiulis V.
 - t-001
   global_id: t-61171
   teiginys: 'V. Mažiulio recenzija apie B. H. Топоров „Прусский язык. Словарь (А-Д)“ paskelbta „Baltistica“ 1979 m.'
+  sudarymo_pagrindimas: 'Citata patvirtina recenzijos objektą, žurnalą ir metus.'
+  temporaliniai_duomenys: 'įvykio data: 1979 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata patvirtina recenzijos objektą, žurnalą ir metus.'
   pagrindžia:
     - c-001
 

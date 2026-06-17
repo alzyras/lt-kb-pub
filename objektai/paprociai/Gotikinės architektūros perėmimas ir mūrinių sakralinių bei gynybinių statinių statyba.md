@@ -42,6 +42,8 @@ Nenurodyta
 - t-001
   global_id: t-77935
   teiginys: 'Valstybės krikštas ir Vytauto mūrinių bažnyčių statybos programa paskatino gotikinės architektūros plitimą Lietuvoje.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai pagrįstas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_place: Kaunas; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -63,7 +65,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Pranciškonų ordinas]]

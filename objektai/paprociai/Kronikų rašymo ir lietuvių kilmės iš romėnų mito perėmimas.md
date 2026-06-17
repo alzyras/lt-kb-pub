@@ -3,6 +3,12 @@ tipas: paprotys
 pavadinimas: 'Kronikų rašymo ir lietuvių kilmės iš romėnų mito perėmimas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1523 m.'
+  - '1550 m.'
+  - '1575 m.'
+date_start: '1523'
+date_end: '1575'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -10,12 +16,14 @@ tags:
   - kraštas
   - paprotys
   - valdovas
+amziai:
+  - 'XVI'
 ---
 # Kronikų rašymo ir lietuvių kilmės iš romėnų mito perėmimas
 
 ## Santrauka
 
-Perimant Vakarų kultūros idėjas Lietuvoje susipažinta su kronikų rašymo tradicija ir perimtas mitas apie valdovų kildinimą iš kito krašto. Perimant Vakarų kultūros idėjas Lietuvoje susipažinta su kronikų rašymo tradicija ir atsirado poreikis pažinti savo istoriją. Mykolas Lietuvis apie 1550 m. Vytauto laikų papročių griežtumą ir asketizmą priešpriešino savo meto išglebimui ir netvarkai.
+Perimant Vakarų kultūros idėjas, visuomenėje susipažinta su kronikų rašymo tradicija, atsirado poreikis pažinti savo istoriją, perimtas ir Renesanso laikais Europoje paplitęs mitas apie valdovų kildinimą iš kito krašto. Kitas Lietuvos bajoriškosios visuomenės istorinės sąmonės siužetas formavosi iškeliant Vytautą ir jo laikus.
 
 ## Laikotarpis ir datos
 
@@ -43,6 +51,11 @@ Nenurodyta
 - t-001
   global_id: t-75363
   teiginys: 'Perimant Vakarų kultūros idėjas Lietuvoje susipažinta su kronikų rašymo tradicija ir perimtas mitas apie valdovų kildinimą iš kito krašto.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir tiksliai perteikia citatos mintį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_place: Brasta; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1575 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys ir tiksliai perteikia citatos mintį.'
   pagrindžia:
     - c-003
 
@@ -50,6 +63,11 @@ Nenurodyta
 - t-002
   global_id: t-75364
   teiginys: 'Perimant Vakarų kultūros idėjas Lietuvoje susipažinta su kronikų rašymo tradicija ir atsirado poreikis pažinti savo istoriją.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas, glaustas ir tiesiogiai pagrįstas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_place: Brasta; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1575 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas, glaustas ir tiesiogiai pagrįstas citata.'
   pagrindžia:
     - c-003
 
@@ -57,6 +75,9 @@ Nenurodyta
 - t-003
   global_id: t-75365
   teiginys: 'Mykolas Lietuvis apie 1550 m. Vytauto laikų papročių griežtumą ir asketizmą priešpriešino savo meto išglebimui ir netvarkai.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_object: [[objektai/autoriai/Mikalojus Husovianas|Mikalojus Husovianas]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_person: [[objektai/autoriai/Mykolas Lietuvis|Mykolas Lietuvis]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1523 m.; įvykio data: 1550 m.; įvykio data: apie 1550 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   pagrindžia:
     - c-002
 
@@ -64,6 +85,8 @@ Nenurodyta
 - t-004
   global_id: t-75366
   teiginys: 'Perimant Vakarų kultūros idėjas Lietuvoje susipažinta su kronikų rašymo tradicija ir sukurta lietuvių kilmės iš romėnų teorija.'
+  sudarymo_pagrindimas: 'Perrašyta tiksliau: citata sako, kad kronikų tradicija buvo pažinta, o teorija sukurta.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_group: [[objektai/grupes/Romėnai|Romėnai]]; mentioned_place: Europa; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -71,6 +94,9 @@ Nenurodyta
 - t-005
   global_id: t-75367
   teiginys: 'Mykolas Lietuvis Vytauto laikų papročių griežtumą ir asketizmą priešino savo meto visuomenės išglebimui ir netvarkai.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_object: [[objektai/autoriai/Mikalojus Husovianas|Mikalojus Husovianas]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_person: [[objektai/autoriai/Mykolas Lietuvis|Mykolas Lietuvis]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1523 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 
@@ -133,13 +159,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Lotynai]]
-- [[objektai/grupes/Maskvėnai]]
-- [[objektai/autoriai/Mykolas Lietuvis]]
-- [[objektai/grupes/Radvilos]]
-- [[objektai/grupes/Romėnai]]
-- [[objektai/asmenys/Mykolas]]

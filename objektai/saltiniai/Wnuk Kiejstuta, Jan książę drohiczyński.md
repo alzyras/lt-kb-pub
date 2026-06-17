@@ -29,6 +29,11 @@ amziai:
 - t-001
   global_id: t-31991
   teiginys: 'J. Fijałeko „Wnuk Kiejstuta, Jan książę drohiczyński“ išspausdintas KH 28 tome 1914 m., p. 181-197.'
+  sudarymo_pagrindimas: 'Pradinė pretenzija yra nutrūkęs bibliografinis fragmentas, o citata jį palaiko pataisytą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
+  temporaliniai_duomenys: 'įvykio data: 1914 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinė pretenzija yra nutrūkęs bibliografinis fragmentas, o citata jį palaiko pataisytą.'
   pagrindžia:
     - c-001
 

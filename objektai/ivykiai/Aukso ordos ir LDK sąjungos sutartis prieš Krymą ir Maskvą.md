@@ -20,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-Redakcinė pastaba nurodo, kad 1501 m. tarp Aukso ordos ir LDK buvo sudaryta sąjungos sutartis prieš Mengli-Girėjų ir Maskvos Didžiąją Kunigaikštystę. 1501 m., tarpininkaujant Michailui Chaleckiui, Aukso orda ir LDK sudarė sąjungos sutartį prieš Krymą ir Maskvos Didžiąją Kunigaikštystę.
+Redakcinė pastaba nurodo, kad Michailas Chaleckis jau 1496.VIII buvo siųstas pas Sich-Achmetą reguliariems santykiams užmegzti. Redakcinė pastaba nurodo, kad 1501 m. tarp Aukso ordos ir LDK buvo sudaryta sąjungos sutartis prieš Mengli-Girėjų ir Maskvos Didžiąją Kunigaikštystę.
 
 ## Laikotarpis ir datos
 
@@ -50,14 +50,13 @@ Nenurodyta
 <a id="claim-t-186780"></a>
 - t-001
   global_id: t-186780
-  teiginys: 'Redakcinė pastaba nurodo, kad 1501 m. tarp Aukso ordos ir LDK buvo sudaryta sąjungos sutartis prieš Mengli-Girėjų ir Maskvos Didžiąją Kunigaikštystę.'
-  pagrindžia:
-    - c-001
-
-<a id="claim-t-186781"></a>
-- t-002
-  global_id: t-186781
-  teiginys: '1501 m., tarpininkaujant Michailui Chaleckiui, Aukso orda ir LDK sudarė sąjungos sutartį prieš Krymą ir Maskvos Didžiąją Kunigaikštystę.'
+  teiginys: '1501 m., tarpininkaujant Michailui Chaleckiui, Aukso orda ir LDK sudarė sąjungos sutartį prieš Krymo chaną Mengli-Girėjų ir Maskvos Didžiąją Kunigaikštystę.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Paprastam faktui nereikia redakcinės pastabos įžangos.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_group: [[objektai/grupes/Aukso orda|Aukso orda]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_place: Gomelis; mentioned_place: Krymas; mentioned_place: Lietuva; mentioned_place: Maskva'
+  temporaliniai_duomenys: 'įvykio data: 1501 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Paprastam faktui nereikia redakcinės pastabos įžangos.'
   pagrindžia:
     - c-001
 
@@ -78,9 +77,3 @@ Nenurodyta
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Auksinė Orda]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/grupes/Aukso orda]]

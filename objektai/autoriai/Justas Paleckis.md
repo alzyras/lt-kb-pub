@@ -3,12 +3,20 @@ tipas: autorius
 pavadinimas: 'Justas Paleckis'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1940 m.'
+date_start: '1940'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
   - kraštas
   - seimas
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'XX a.'
 ---
 # Justas Paleckis
 
@@ -22,6 +30,11 @@ Smetonos valdymą inteligentai: ministru pirmininku paskirtas komunistuojantis l
 - t-001
   global_id: t-19414
   teiginys: '1940 m. birželio 17 d. Justas Paleckis paskirtas marionetinės „Liaudies vyriausybės“ ministru pirmininku.'
+  sudarymo_pagrindimas: 'Pradinis teiginys suardytas OCR, citata pagrindžia aiškų faktą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_person: [[objektai/asmenys/Ernestas (Livonijos žemės magistras)|Ernestas (Livonijos žemės magistras)]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1940 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys suardytas OCR, citata pagrindžia aiškų faktą.'
   pagrindžia:
     - c-002
 
@@ -29,6 +42,11 @@ Smetonos valdymą inteligentai: ministru pirmininku paskirtas komunistuojantis l
 - t-002
   global_id: t-19415
   teiginys: 'Justas Paleckis vadovavo delegacijai, kuri 1940 m. rugpjūčio 3 d. Maskvoje pasiprašė į SSRS sudėtį.'
+  sudarymo_pagrindimas: 'Pradinis teiginys fragmentiškas, citata pagrindžia asmens vaidmenį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Liaudies seimas|Liaudies seimas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: SSRS'
+  temporaliniai_duomenys: 'įvykio data: 1940 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys fragmentiškas, citata pagrindžia asmens vaidmenį.'
   pagrindžia:
     - c-001
 
@@ -36,6 +54,14 @@ Smetonos valdymą inteligentai: ministru pirmininku paskirtas komunistuojantis l
 - t-003
   global_id: t-183345
   teiginys: '1940 m. birželio 17 d. Justas Paleckis buvo paskirtas sovietų remtos „Liaudies vyriausybės“ ministru pirmininku.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis teiginys yra nutrūkęs ir negramatiškas, bet citata aiškiai pagrindžia Paleckio paskyrimą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_person: [[objektai/asmenys/Ernestas (Livonijos žemės magistras)|Ernestas (Livonijos žemės magistras)]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1940 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys yra nutrūkęs ir negramatiškas, bet citata aiškiai pagrindžia Paleckio paskyrimą.'
   pagrindžia:
     - c-002
 
@@ -75,9 +101,3 @@ Smetonos valdymą inteligentai: ministru pirmininku paskirtas komunistuojantis l
   pagrindžia:
     - t-003
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Liaudies seimas|Liaudies seimas (seimas)]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

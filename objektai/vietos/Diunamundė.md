@@ -22,6 +22,8 @@ Li­ vonijos pilys: Marienhausenas, Lutzenas, Švarcenburgas, Rosytė, Dinaburga
 - t-001
   global_id: t-86294
   teiginys: 'Diunamundė nurodyta kaip viena iš Livonijos pilių tarp aprašytų vietovių pavadinimų.'
+  sudarymo_pagrindimas: 'Citata palaiko Diunamundės priskyrimą Livonijos pilių sąrašui.'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Podolė; mentioned_place: Viena; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

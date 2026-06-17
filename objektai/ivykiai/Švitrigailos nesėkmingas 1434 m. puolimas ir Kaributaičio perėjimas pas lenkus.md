@@ -36,6 +36,11 @@ Nenurodyta
 - t-001
   global_id: t-185793
   teiginys: 'Teodoras Kaributaitis, išlaisvintas po Boleslovo kariuomenės sumušimo, perėjo pas lenkus ir perdavė Vladislovui Braclavą bei Kremenecą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata palaiko geresnį sakinį, aiškiau susietą su note pavadinimo objektu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Boleslovas|Boleslovas]]; mentioned_person: [[objektai/asmenys/Teodoras|Teodoras]]; mentioned_place: Braclavas; mentioned_place: Kremenecas; mentioned_place: Podolė'
   pagrindžia:
     - c-001
 
@@ -58,9 +63,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Boleslovas]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/asmenys/Teodoras]]

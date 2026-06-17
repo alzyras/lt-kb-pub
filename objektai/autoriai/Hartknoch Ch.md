@@ -21,6 +21,8 @@ Dusburgietis teigia, kad hartknochas, pirmas D.
 - t-001
   global_id: t-60844
   teiginys: 'Ch. Hartknochas buvo pirmasis Dusburgiečio kronikos leidėjas ir manė, kad rutėnais vadinti Riugeno gyventojai.'
+  sudarymo_pagrindimas: 'Citata tiesiogiai palaiko abu faktus apie Hartknochą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/autoriai/Hartknochas|Hartknochas]]; mentioned_place: Salos; mentioned_place: Smolenskas'
   pagrindžia:
     - c-001
 
@@ -39,8 +41,3 @@ Dusburgietis teigia, kad hartknochas, pirmas D.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Rusai]]
-- [[objektai/zodynas/kunigaikščiai]]

@@ -3,10 +3,6 @@ tipas: asmuo
 pavadinimas: 'Enėjas Silvijus Pikolominis'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-aliases:
-  - 'objektai/autoriai/Enėjas Silvijus Pikolominis'
-variantai:
-  - 'Enėjas Silvijus Pikolominis'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -24,6 +20,8 @@ Enėjas Silvijus Pikolominis (Enea Silvio Piccolomini) „Knygoje apie vyrus, ga
 - t-001
   global_id: t-26440
   teiginys: 'Enėjas Silvijus Pikolominis „Knygoje apie vyrus, garsius savo gyvenimu“ Vytautui skyrė pagiriamuosius žodžius.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nusako Enėjo Silvijaus Pikolominio veiksmą ir remiasi citata.'
+  susije_objektai: 'mentioned_object: [[objektai/posakiai/„Koks didelis Tu ir kokia didelė Tavo tėvynė.“|„Koks didelis Tu ir kokia didelė Tavo tėvynė.“]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -44,7 +42,3 @@ Enėjas Silvijus Pikolominis (Enea Silvio Piccolomini) „Knygoje apie vyrus, ga
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/posakiai/„Koks didelis Tu ir kokia didelė Tavo tėvynė.“]]

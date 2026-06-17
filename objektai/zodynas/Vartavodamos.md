@@ -29,6 +29,7 @@ Papildomos aiškios formos neišskirtos.
 - t-001
   global_id: t-07753
   teiginys: '`Vartavodamos` šaltinyje reiškia prekiaujant ar mainant.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_object: [[objektai/zodynas/Pažinės|Pažinės]]'
   pagrindžia:
     - c-001
 
@@ -36,6 +37,8 @@ Papildomos aiškios formos neišskirtos.
 - t-002
   global_id: t-07754
   teiginys: 'Vartavodamos Daukanto tekste vartojamas kalbant apie javų pirkimą pigiai ir pardavimą brangiai.'
+  sudarymo_pagrindimas: 'Citata tiesiogiai sieja terminą su javų pirkimu ir pardavimu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_object: [[objektai/zodynas/Pažinės|Pažinės]]; mentioned_person: [[objektai/autoriai/S. Daukantas|S. Daukantas]]'
   pagrindžia:
     - c-001
 
@@ -54,9 +57,3 @@ Papildomos aiškios formos neišskirtos.
   pagrindžia:
     - t-001
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Pažinės|pažinės]]
-- [[objektai/grupes/Žemaičiai]]
-- [[objektai/autoriai/S. Daukantas]]

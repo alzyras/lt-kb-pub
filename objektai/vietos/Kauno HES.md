@@ -20,6 +20,8 @@ Atšilimo laikotarpiu Lietuvoje pagal sovietinį modelį vykstant sparčiai indu
 - t-001
   global_id: t-21475
   teiginys: 'Atšilimo laikotarpiu Kauno HES minima tarp didelių naujų pramonės objektų, statytų sparčios sovietinės industrializacijos ir urbanizacijos metu.'
+  sudarymo_pagrindimas: 'Reikia atsargiau perteikti citatą, nes ji Kauno HES pateikia kaip vieną iš kelių objektų.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/atšilimas|atšilimas]]; mentioned_place: Ignalinos atominė elektrinė; mentioned_place: Jonava; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Mažeikiai'
   pagrindžia:
     - c-001
 

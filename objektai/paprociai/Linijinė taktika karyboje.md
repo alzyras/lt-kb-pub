@@ -38,6 +38,8 @@ Nenurodyta
 - t-001
   global_id: t-67163
   teiginys: 'XVII a. antroji pusė ir visas XVIII a. buvo linijinės taktikos epocha karyboje.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie linijinės taktikos epochą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Kariauna|Kariauna]]; mentioned_object: [[objektai/zodynas/karyba|karyba]]'
   pagrindžia:
     - c-001
 
@@ -45,6 +47,8 @@ Nenurodyta
 - t-002
   global_id: t-67164
   teiginys: 'Linijinėje taktikoje kariai šaudydavo nesitaikydami, o mažą taiklumą kompensuodavo salvėmis ir kulkų gausa.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiksliai apibendrina citatos informaciją apie šaudymą linijinėje taktikoje.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]'
   pagrindžia:
     - c-004
 
@@ -59,6 +63,8 @@ Nenurodyta
 - t-004
   global_id: t-67166
   teiginys: 'Linijinės taktikos puolime ilgos linijos artėdavo prie priešo pozicijų ir efektyvios ugnies nuotolyje derindavo šaudymą su judėjimu.'
+  sudarymo_pagrindimas: 'Pradinio teiginio apie vietovę citata nepagrindžia, bet ji pagrindžia taktikos eigą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/flangas|flangas]]; mentioned_place: Viena'
   pagrindžia:
     - c-003
 
@@ -129,9 +135,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/flangas]]
-- [[objektai/daiktai/Šautuvai]]
-- [[objektai/zodynas/karyba]]

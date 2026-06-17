@@ -14,7 +14,7 @@ tags:
 
 ## Santrauka
 
-Herasimas rengė sąmokslą perduoti Smolensko žemę Zigmantui, bet buvo susektas ir Švitrigailos įsakymu sudegintas ant laužo.
+Bet Herasimo sąmokslas buvo susektas, ir jis, Švitrigailos įsakymu, buvo sudegintas ant laužo, o Smolenskas liko, kaip buvęs, Švitrigailos valdžioje.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -29,16 +29,18 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 <a id="claim-t-01622"></a>
 - t-001
   global_id: t-01622
   teiginys: 'Herasimas rengė sąmokslą perduoti Smolensko žemę Zigmantui, bet buvo susektas ir Švitrigailos įsakymu sudegintas ant laužo.'
+  sudarymo_pagrindimas: 'Citata leidžia tiksliau įvardyti Herasimo veiksmą ir sąmokslo tikslą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Laužas|Laužas]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Smolenskas; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Herasimas rengė sąmokslą perduoti Smolensko žemę Zigmantui, bet buvo susektas ir Švitrigailos įsakymu sudegintas ant laužo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -51,18 +53,8 @@ Nenurodyta
     Zigmantas. Bet Herasimo sąmokslas buvo susektas, ir jis, Švit-
     rigailos įsakymu, buvo sudegintas ant laužo, o Smolenskas liko,
     kaip buvęs, Švitrigailos valdžioje.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Motiejus]]
-- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
-- [[objektai/zodynas/unija]]
-- [[objektai/asmenys/Švitrigaila]]
-- [[objektai/daiktai/Laužas]]

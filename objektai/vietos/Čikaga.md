@@ -6,6 +6,7 @@ saltiniai:
 datos:
   - '1879 m.'
   - '1910 m.'
+  - '1917 m.'
   - '1952 m.'
 date_start: '1879'
 date_end: '1952'
@@ -23,7 +24,7 @@ amziai:
 
 ## Santrauka
 
-1910 m. JAV Pensilvanijoje, Čikagoje ir Niujorke gyveno 207 tūkst. lietuvių. Lietuvių katalikų seimas Čikagoje rugsėjį pritarė Lietuvos autonomijai. Robertas Zemeckis gimė Čikagoje 1952 m. lietuvio šeimoje.
+Idėja skynėsi kelią ne tik Europoje – rugsėjį Lietuvos autonomijai pritarė lietuvių katalikų seimas Čikagoje (JAV). Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyvenusių lietuvių imigrantų, gerai organizuotų į draugijas, sukūrusių gausią spaudą ir kultūrines organizacijas, suaktyvino JAV įstojimas į karą prieš Vokietiją 1917 m. balandį, o. Įsivaizduokime „idealiąją Lietuvą“, kurioje spektaklius ir filmus kuria ne tik Jonas Mekas ar teatro režisierius Eimuntas Nekrošius, bet ir Robertas Zemeckis (Robert Zemecki, gimęs Čikagoje 1952 m. lietuvio šeimoje), o juose vaidina seras John Gielgud (Džonas.
 
 ## Teiginiai
 
@@ -31,6 +32,12 @@ amziai:
 - t-001
   global_id: t-77709
   teiginys: '1910 m. JAV Pensilvanijoje, Čikagoje ir Niujorke gyveno 207 tūkst. lietuvių.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nurodo datą, vietas ir lietuvių skaičių, o citata tai patvirtina.'
+  susije_objektai: 'location: Čikaga; mentioned_group: [[objektai/grupes/JAV lietuviai|JAV lietuviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas|Georgas (liet. Jurgis) Zauerveinas]]; mentioned_place: Lietuva; mentioned_place: Niujorkas; mentioned_place: Rusija'
+  semantiniai_rysiai: '[[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas|Georgas (liet. Jurgis) Zauerveinas]] gyveno Čikaga'
+  temporaliniai_duomenys: 'gyvenimo laikotarpis: 1879 m.; gyvenimo laikotarpis: 1910 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Georgas (liet. Jurgis) Zauerveinas gyveno Čikaga“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo datą, vietas ir lietuvių skaičių, o citata tai patvirtina.'
   pagrindžia:
     - c-004
 
@@ -38,6 +45,8 @@ amziai:
 - t-002
   global_id: t-77710
   teiginys: 'Lietuvių katalikų seimas Čikagoje rugsėjį pritarė Lietuvos autonomijai.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Čikagoje vykusį seimą ir paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -45,6 +54,11 @@ amziai:
 - t-003
   global_id: t-77711
   teiginys: 'Robertas Zemeckis gimė Čikagoje 1952 m. lietuvio šeimoje.'
+  sudarymo_pagrindimas: 'Pradinis teiginys fragmentiškas; citata pagrindžia konkretų faktą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/John Gielgud|John Gielgud]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Robertas (Sicilijos karalius)|Robertas (Sicilijos karalius)]]; mentioned_person: [[objektai/asmenys/Robertas Zemeckis|Robertas Zemeckis]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1952 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys fragmentiškas; citata pagrindžia konkretų faktą.'
   pagrindžia:
     - c-003
 
@@ -52,9 +66,32 @@ amziai:
 - t-004
   global_id: t-77712
   teiginys: '1917 m. JAV lietuvių imigrantus, gyvenusius daugiausia Čikagoje, Niujorke ir Pensilvanijoje, suaktyvino JAV įstojimas į karą.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir turi OCR fragmentą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva; mentioned_place: Niujorkas; mentioned_place: Peterburgas; mentioned_place: Rusija; mentioned_place: Vokietija; mentioned_place: Voronežas'
+  temporaliniai_duomenys: 'įvykio data: 1917 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs ir turi OCR fragmentą.'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/asmenys/Davidas Suchetas.md#claim-t-18874|Davidas Suchetas]]: Davidas Suchetas Tryškiuose ieškojo savo protėvių Suchedowitzų, emigravusių per Turkiją į Pietų Afrikos Respubliką.
+- susijęs iš [[objektai/asmenys/Eimuntas Nekrošius.md#claim-t-78050|Eimuntas Nekrošius]]: Eimuntas Nekrošius citatoje įvardytas kaip teatro režisierius, kūręs spektaklius įsivaizduojamoje „idealiojoje Lietuvoje“.
+- susijęs iš [[objektai/asmenys/John Gielgud.md#claim-t-78058|John Gielgud]]: John Gielgud buvo pasaulinė teatro ir kino žvaigždė, kilusi iš Lietuvos emigrantų šeimos.
+- susijęs iš [[objektai/asmenys/Robertas Zemeckis.md#claim-t-19204|Robertas Zemeckis]]: Robertas Zemeckis gimė Čikagoje 1952 m. lietuvio šeimoje.
+- susijęs iš [[objektai/autoriai/C. R. Jurgėla.md#claim-t-30578|C. R. Jurgėla]]: C. R. Jurgėla 1961 m. Čikagoje paskelbė darbą „Tannenberg (Eglija-Grunwald) 15 July 1410“.
+- susijęs iš [[objektai/autoriai/Jurgėla, C. R.md#claim-t-29516|Jurgėla, C. R]]: C. R. Jurgėla parašė 1961 m. Čikagoje išleistą veikalą „Tannenberg (Eglija-Grunwald) 15 July 1410“.
+- susijęs iš [[objektai/autoriai/M. Jučas.md#claim-t-179549|M. Jučas]]: M. Jučas parašė veikalą „Vytautas Didysis“, išleistą Čikagoje 2010 m.
+- susijęs iš [[objektai/autoriai/Vcl. Biržiška.md#claim-t-100121|Vcl. Biržiška]]: Vcl. Biržiška parašė veikalą „Senųjų lietuviškų knygų istorija“, kurio pirmasis tomas išleistas 1953 m. Čikagoje.
+- susijęs iš [[objektai/grupes/Lietuvos Vyčių Sąjunga.md#claim-t-01397|Lietuvos Vyčių Sąjunga]]: Lietuvos Vyčių Sąjunga telkė katalikų jaunimą, turėjo apie 100 kuopų ir leido laikraštį „Vytis“.
+- susijęs iš [[objektai/ivykiai/Vokietijos kariuomenės įžengimas į Lietuvą, Kauno tvirtovės paėmimas ir Vilniaus užėmimas.md#claim-t-75303|Vokietijos kariuomenės įžengimas į Lietuvą, Kauno tvirtovės paėmimas ir Vilniaus užėmimas]]: 1915 m. pavasarį vokiečiai be mūšio paėmė strategiškai svarbią Kauno tvirtovę, o rugsėjo 15 d. įžengė į Vilnių.
+- susijęs iš [[objektai/posakiai/„idealiąją Lietuvą“.md#claim-t-183492|„idealiąją Lietuvą“]]: „Idealiojoje Lietuvoje“ įsivaizduojama, kad spektaklius ir filmus kuria Jonas Mekas, Eimuntas Nekrošius ir Robertas Zemeckis.
+- susijęs iš [[objektai/posakiai/„idealiąją Lietuvą“.md#claim-t-75612|„idealiąją Lietuvą“]]: „Idealioji Lietuva“ įsivaizduota kaip kultūrinė erdvė, kurioje filmus ir spektaklius kurtų Jonas Mekas, Eimuntas Nekrošius ir Robertas Zemeckis.
+- susijęs iš Laiškai Lietuviams: „Laiškai Lietuviams“ 1958 m. Čikagoje buvo nurodyti kaip 5–9 numerių leidinys.
+- susijęs iš Senųjų lietuviškų knygų istorija: Vaclovas Biržiška „Senųjų lietuviškų knygų istorijos“ I tomą išleido Čikagoje 1953 m.
+- susijęs iš Vytautas Didysis (M. Jučas): M. Jučo veikalas „Vytautas Didysis“ išleistas Čikagoje 2010 m.
+- susijęs iš Kauno tvirtovė: 1915 m. pavasarį vokiečiai be mūšio paėmė strategiškai svarbią Kauno tvirtovę.
+- susijęs iš Tryškiai: Tryškiuose aktorius Davidas Suchetas ieškojo savo protėvių Suchedowitzų, emigravusių per Turkiją į Pietų Afrikos Respubliką.
+- susijęs iš Vilnius: 1915 m. rugsėjo 15 d. vokiečiai įžengė į Vilnių, o senoji Lenkijos ir Lietuvos valstybės teritorija atsidūrė Vokietijos ir Austrijos kariuomenių kontrolėje.
+- susijęs iš [[objektai/zodynas/bibliografinis biuletenis sąsiuvinys.md#claim-t-32766|bibliografinis biuletenis sąsiuvinys]]: 1966 ir 1967 m. bibliografija Čikagoje išleista dviem sąsiuviniais kaip „Užsienio Lietuvių Spaudos Metraštis“.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -136,3 +173,6 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+- [[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas]] gyveno Čikaga

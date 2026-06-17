@@ -30,6 +30,11 @@ Dusburgietis teigia, kad słownik starożytności słowiańskich: 6 t., 1962—1
 - t-001
   global_id: t-61307
   teiginys: '„Słownik starożytności słowiańskich“ sudaro šeši tomai, leisti 1962–1980 m. Vroclave, Varšuvoje ir Krokuvoje.'
+  sudarymo_pagrindimas: 'Citata patvirtina leidinio apimtį, metus ir leidimo vietas.'
+  susije_objektai: 'mentioned_place: Krokuva; mentioned_place: Varšuva'
+  temporaliniai_duomenys: 'įvykio data: 1962-1980; įvykio data: 1980 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata patvirtina leidinio apimtį, metus ir leidimo vietas.'
   pagrindžia:
     - c-001
 

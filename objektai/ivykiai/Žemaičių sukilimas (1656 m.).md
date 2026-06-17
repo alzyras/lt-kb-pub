@@ -45,6 +45,11 @@ Nenurodyta
 - t-001
   global_id: t-39089
   teiginys: '1656 m. kilęs Žemaičių sukilimas padarė švedams daug nuostolių.'
+  sudarymo_pagrindimas: 'Pašalintas su graviūra nesusijęs triukšmas ir paliktas citata paremtas faktas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Bajorų konfederacija|Bajorų konfederacija]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/konfederacija|konfederacija]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1656 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas su graviūra nesusijęs triukšmas ir paliktas citata paremtas faktas.'
   pagrindžia:
     - c-001
 
@@ -68,10 +73,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bajorai]]
-- [[objektai/grupes/Bajorų konfederacija]]
-- [[objektai/zodynas/konfederacija]]
-- [[objektai/grupes/Švedai]]

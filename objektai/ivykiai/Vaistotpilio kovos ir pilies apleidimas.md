@@ -37,6 +37,8 @@ Nenurodyta
 - t-001
   global_id: t-89412
   teiginys: 'Bartos žemėje, Gubros pakrantėje, broliai turėjo pilį, vadintą Vaistotpiliu.'
+  sudarymo_pagrindimas: 'Pradinis teiginys apkrautas antrašte ir puslapio žyme; citata remia pilies vietos faktą.'
+  susije_objektai: 'mentioned_place: Barta; mentioned_place: Prūsai; mentioned_place: Vaistotpilis; mentioned_place: Viena'
   pagrindžia:
     - c-002
 
@@ -44,6 +46,8 @@ Nenurodyta
 - t-002
   global_id: t-89413
   teiginys: 'Vaistotpilio pilies broliai persekiojo prūsų kariuomenę, apiplėšusią du kaimus prie pilies.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai susieja Vaistotpilio pilį su citatoje aprašytu persekiojimu.'
+  susije_objektai: 'mentioned_place: Prūsai; mentioned_place: Vaistotpilis; mentioned_place: Viena'
   pagrindžia:
     - c-001
     - c-002
@@ -52,6 +56,8 @@ Nenurodyta
 - t-003
   global_id: t-89414
   teiginys: 'Prūsai apsupo Vaistotpilio pilį ir puolė ją nuo aušros iki sutemų, o broliai narsiai gynėsi.'
+  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia Vaistotpilio pilies apsiaustį ir gynybą.'
+  susije_objektai: 'mentioned_place: Prūsai; mentioned_place: Vaistotpilis'
   pagrindžia:
     - c-003
 
@@ -59,6 +65,11 @@ Nenurodyta
 - t-004
   global_id: t-183972
   teiginys: 'Kai prūsai pasitraukė, broliai sudegino nepakankamai sutvirtintą Vaistotpilio pilį ir slapta pasitraukė.'
+  teiginio_tipas: 'saltinio_teiginys'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citatos pabaiga.'
+  susije_objektai: 'mentioned_place: Prūsai; mentioned_place: Vaistotpilis'
   pagrindžia:
     - c-003
 

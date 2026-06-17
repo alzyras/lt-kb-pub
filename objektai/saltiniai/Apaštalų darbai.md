@@ -21,6 +21,8 @@ Dusburgietis teigia, kad apie didingus ženklus „Apaštalų darbuose“ (Apd 6
 - t-001
   global_id: t-61046
   teiginys: '„Apaštalų darbuose“ sakoma, kad Steponas, pilnas malonės ir galios, darė žmonėse didžių stebuklingų ženklų.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiksliai atspindi cituojamą Apaštalų darbų vietą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
 

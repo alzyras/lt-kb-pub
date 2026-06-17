@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Panemunėje esama Rambyno (žr.
+Dusburgietis teigia, kad panemunėje esama Rambyno (žr.
 
 ## Teiginiai
 
@@ -23,9 +23,13 @@ Panemunėje esama Rambyno (žr.
 - t-001
   global_id: t-58714
   teiginys: 'Panemunėje esama Rambyno (žr.'
+  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_place: Panemunė'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/autoriai/Remeika J.md#claim-t-91933|Remeika J]]: J. Remeikos darbas minimas tarp šaltinių apie padavimuose minimą Rambyno kunigaikštį Skraudopą.
+- susijęs iš [[objektai/autoriai/Топоров B. H.md#claim-t-175153|Топоров B. H]]: Топоров B. H. siejo mitologinį personažą su šaknimi „vėl-“ vadinamajame pagrindiniame mite.
+- susijęs iš Basanavičius J., Iš gyvenimo vėlių: Basanavičiaus veikalo puslapiai 181–182 nurodomi tarp šaltinių apie padavimuose minimą Rambyno kunigaikštį Skraudopą.
 ## Reikšmingi paminėjimai
 
 - c-001

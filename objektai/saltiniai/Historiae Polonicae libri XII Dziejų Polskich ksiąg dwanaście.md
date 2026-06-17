@@ -27,6 +27,11 @@ amziai:
 - t-001
   global_id: t-34959
   teiginys: 'Joanio Długossio „Historiae Polonicae libri XII“ išleista Frankfurte ir Leipcige 1711–1712 m.'
+  sudarymo_pagrindimas: 'Citata leidžia suformuluoti glaustą bibliografinį faktą apie veikalą.'
+  susije_objektai: 'mentioned_place: Leipcigas'
+  temporaliniai_duomenys: 'įvykio data: 1711-1712; įvykio data: 1712 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata leidžia suformuluoti glaustą bibliografinį faktą apie veikalą.'
   pagrindžia:
     - c-001
 

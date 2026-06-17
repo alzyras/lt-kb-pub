@@ -37,6 +37,11 @@ Nenurodyta
 - t-001
   global_id: t-185629
   teiginys: 'Kojelavičius spėja, kad gandas apie Podolėje prasidėjusį karą galėjo lemti skubiai Parčeve šaukto seimo atidėjimą beveik iki metų pabaigos.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra apie autoriaus spėjimą, todėl palikta atribucija ir sutvarkyta kalba.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Parčevas; mentioned_place: Podolė; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -44,6 +49,11 @@ Nenurodyta
 - t-002
   global_id: t-185630
   teiginys: 'Lapkričio mėnesį lenkų seimas susirinko Parčeve, lietuvių seimas Breste, o po ginčų nutarta susitikti Lomžoje.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys pilnas, aiškiai nusako seimų susirinkimą ir sprendimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lomža; mentioned_place: Parčevas; mentioned_place: Viena'
   pagrindžia:
     - c-002
 
@@ -92,10 +102,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/paprociai/Derybinis susitikimas neutralioje pusiaukelėje tarp priešiškų šalių]]

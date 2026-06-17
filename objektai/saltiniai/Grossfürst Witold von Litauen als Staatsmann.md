@@ -26,6 +26,10 @@ amziai:
 - t-001
   global_id: t-34908
   teiginys: 'Jozepho Pfitznerio veikalas „Grossfürst Witold von Litauen als Staatsmann“ buvo išleistas Rudolfo M. Rohrerio leidykloje 1930 m.'
+  sudarymo_pagrindimas: 'Citata pateikia autorių, pavadinimą, leidėją ir metus.'
+  temporaliniai_duomenys: 'įvykio data: 1930 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pateikia autorių, pavadinimą, leidėją ir metus.'
   pagrindžia:
     - c-001
 

@@ -28,6 +28,9 @@ Essen, V.: Die länd­ lichen Siedlungen in Litauen, SBRiga, 1934.
 - t-001
   global_id: t-31026
   teiginys: 'V. Essen 1934 m. paskelbė darbą apie kaimo gyvenvietes Lietuvoje.'
+  susije_objektai: 'mentioned_place: Kaimas; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1934 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

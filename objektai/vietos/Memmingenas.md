@@ -4,9 +4,11 @@ pavadinimas: 'Memmingenas'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
+  - '1948 m.'
   - '1949 m.'
-date_start: '1949'
-date_end: ''
+  - '1965 m.'
+date_start: '1948'
+date_end: '1965'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -26,6 +28,11 @@ leisto Lietuvių Bibliografinės Tarnybos Biu­ letenio Knygų Lentyna (pradėta
 - t-001
   global_id: t-32359
   teiginys: 'Lietuvių Bibliografinės Tarnybos biuletenis „Knygų lentyna“ buvo pradėtas leisti Vokietijos Memmingene.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai paremtas citata apie leidinio pradžią Memmingene.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Vokietija'
+  temporaliniai_duomenys: 'įvykio data: 1948-1965; įvykio data: po 1949 m.; įvykio data: 1949 m.; įvykio data: 1965 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir tiesiogiai paremtas citata apie leidinio pradžią Memmingene.'
   pagrindžia:
     - c-001
 

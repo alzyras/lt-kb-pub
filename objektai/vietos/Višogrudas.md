@@ -10,6 +10,7 @@ tags:
   - kunigaikštis
   - mūšis
   - pilis
+  - vieta
 ---
 # Višogrudas
 
@@ -23,6 +24,8 @@ Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūksta
 - t-001
   global_id: t-58487
   teiginys: 'Magistras Poponas su savo ir kunigaikščio Kazimiero kariuomene atvyko prie Višogrudo pilies ir ten įsirengė stovyklą.'
+  sudarymo_pagrindimas: 'Teiginys gramatiškas ir tiksliai atitinka citatoje aprašytą Popono atvykimą prie Višogrudo.'
+  susije_objektai: 'location: Svečė; mentioned_group: [[objektai/grupes/Pomeranai|Pomeranai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Svečė'
   pagrindžia:
     - c-001
 
@@ -30,6 +33,8 @@ Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūksta
 - t-002
   global_id: t-58488
   teiginys: 'Višogrudas tapatinamas su dabartiniu Fordonu kairiajame Vyslos krante prie Bidgoščiaus, kur išliko piliakalnis.'
+  sudarymo_pagrindimas: 'Citata palaiko lokalizaciją ir išlikusio piliakalnio faktą.'
+  susije_objektai: 'mentioned_place: Vysla'
   pagrindžia:
     - c-002
 
@@ -37,9 +42,21 @@ Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūksta
 - t-003
   global_id: t-58489
   teiginys: 'Magistro pasiųsta kariuomenė Lenkijoje apsupo Višogrudą, Lenkijos karaliaus pilį prie Vyslos.'
+  sudarymo_pagrindimas: 'Ilgas fragmentas sutrauktas į vieną aiškų faktą apie Višogrudą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_place: Lenkija; mentioned_place: Prūsija; mentioned_place: Vysla'
   pagrindžia:
     - c-003
-
+- susijęs iš [[objektai/asmenys/Poponas iš Osternos.md#claim-t-59948|Poponas iš Osternos]]: Magistras Poponas pasiuntė žvalgus stebėti Sventopelko ir su savo bei kunigaikščio Kazimiero kariuomene įsikūrė prie Višogrudo.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178968|Kryžiuočių ordinas]]: Magistras pasiuntė Kryžiuočių ordino kariuomenę į Lenkiją, kur ji apsupo ir sudegino Višogrudo pilį.
+- susijęs iš [[objektai/grupes/Pomeranai.md#claim-t-89172|Pomeranai]]: Prie Svečės pilies broliai nukovė tūkstantį penkis šimtus Pomeranijos vyrų.
+- susijęs iš [[objektai/ivykiai/Mūšis prie Svečės, kuriame, pasak Dusburgiečio, žuvo 1500 pomeranų.md#claim-t-62404|Mūšis prie Svečės, kuriame, pasak Dusburgiečio, žuvo 1500 pomeranų (mūšis, XI a.)]]: Prie Svečės pilies broliai užpuolė Sventopelko kariuomenę ir, pasak Dusburgiečio, tą dieną nukovė 1500 Pomeranijos vyrų.
+- susijęs iš [[objektai/posakiai/Atsiminkite jūsų tėvų darbus, kuriuos jie yra padarę savo kartose, ir jūs laimėsite didelę garbę ir amžiną vardą.md#claim-t-59079|Atsiminkite jūsų tėvų darbus, kuriuos jie yra padarę savo kartose, ir jūs laimėsite didelę garbę ir amžiną vardą]]: Pasakojime apie Višogrudo pilies sugriovimą cituojamas Matatijo raginimas sūnums atsiminti tėvų darbus ir laimėti garbę.
+- susijęs iš [[objektai/posakiai/Mano yra kerštas, ir aš atlyginsiu.md#claim-t-59128|Mano yra kerštas, ir aš atlyginsiu]]: Posakis „Mano yra kerštas, ir aš atlyginsiu“ priskiriamas Pakartoto įstatymo knygai.
+- susijęs iš Pakartoto Įstatymo knyga: Pakartoto Įstatymo knygoje kerštas priskiriamas Viešpačiui, sakant: „Mano yra kerštas, ir aš atlyginsiu“.
+- susijęs iš Svečė: Magistro Popono pasiųsti žvalgai pranešė, kad Sventopelkas su gausia kariuomene stovėjo prie Svečės pilies ir ją stiprino.
+- susijęs iš Svečė: Magistro Popono pasiųsti žvalgai pranešė, kad Sventopelkas su gausia kariuomene stovėjo prie Svečės pilies ir ją stiprino.
+- susijęs iš Vitchendorfas: Vitchendorfas buvo kaimas Saksonijoje.
+- susijęs iš Vonsdorfas: Prūsijos žemės kronikos rodyklėje Vonsdorfas siejamas su formomis Wohenstorph, Wünsdorf, Wonsdorff, Wansdorf ir Unzatrapis.
 ## Reikšmingi paminėjimai
 
 - c-001

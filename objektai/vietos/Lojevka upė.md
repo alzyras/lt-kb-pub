@@ -22,6 +22,8 @@ Radvilos pajėgų sparnuose stovėjo pėstininkai ir dragūnai (jie gynė Lojevk
 - t-001
   global_id: t-41884
   teiginys: 'Radvilos pajėgų sparnuose stovėję pėstininkai ir dragūnai gynė Lojevkos upės, juosiančios stovyklą, užtvanką.'
+  sudarymo_pagrindimas: 'Teiginys tiesiogiai susieja Lojevkos upę su ginama užtvanka.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_object: [[objektai/zodynas/dragūnai|dragūnai]]'
   pagrindžia:
     - c-001
 

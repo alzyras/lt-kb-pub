@@ -31,6 +31,9 @@ Desantininkams vadovavo iš Pasvalio kilęs leitenantas Vladas JazokasPetraitis.
 - t-001
   global_id: t-40513
   teiginys: 'Vladas Jazokas-Petraitis buvo 3-iosios Šiaurės LLA apygardos vado pavaduotojas ir štabo viršininkas.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Steponas|Steponas]]'
+  temporaliniai_duomenys: 'įvykio data: 1945 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -49,7 +52,3 @@ Desantininkams vadovavo iš Pasvalio kilęs leitenantas Vladas JazokasPetraitis.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/drabužis]]

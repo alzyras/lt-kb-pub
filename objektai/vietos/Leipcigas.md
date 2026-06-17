@@ -19,7 +19,7 @@ amziai:
 
 ## Santrauka
 
-Vasarį stovyklininkas Pavlikas buvo iš anksto pasiųstas su pinigais, kad jie laiku pasiektų Mlodyčių Leipcige. Mikalojus Konstantinas Čiurlionis muziką ir dailę studijavo Varšuvoje ir Leipcige. Rugpjūčio 5 d. Turčinas nuvežė pinigus karališkajai didenybei į Leipcigą ir keitė lietuviškas monetas į lenkiškas.
+Kurį laiką taip elgėsi Mikalojus Konstantinas Čiurlionis (1875–1911), beje, plačiausiai šiuo metu pasaulyje žinomas lietuvių dailininkas ir kompozitorius, muziką ir dailę studijavęs Varšuvoje ir Leipcige.
 
 ## Teiginiai
 
@@ -27,6 +27,8 @@ Vasarį stovyklininkas Pavlikas buvo iš anksto pasiųstas su pinigais, kad jie 
 - t-001
   global_id: t-83727
   teiginys: 'Vasarį stovyklininkas Pavlikas buvo iš anksto pasiųstas su pinigais, kad jie laiku pasiektų Mlodyčių Leipcige.'
+  sudarymo_pagrindimas: 'Pradinis teiginys turi neaiškų įvardžių ryšį ir perteklinę formuluotę, o citata leidžia sakinį sutvarkyti.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mlodyčius|Mlodyčius]]; mentioned_person: [[objektai/asmenys/Pavlikas|Pavlikas]]; mentioned_person: [[objektai/asmenys/Plockis|Plockis]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Liublinas; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -34,6 +36,8 @@ Vasarį stovyklininkas Pavlikas buvo iš anksto pasiųstas su pinigais, kad jie 
 - t-002
   global_id: t-83728
   teiginys: 'Mikalojus Konstantinas Čiurlionis muziką ir dailę studijavo Varšuvoje ir Leipcige.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]; mentioned_person: [[objektai/asmenys/Mikalojus Konstantinas Čiurlionis|Mikalojus Konstantinas Čiurlionis]]; mentioned_place: Varšuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -41,6 +45,8 @@ Vasarį stovyklininkas Pavlikas buvo iš anksto pasiųstas su pinigais, kad jie 
 - t-003
   global_id: t-83729
   teiginys: 'Rugpjūčio 5 d. Turčinas nuvežė pinigus karališkajai didenybei į Leipcigą ir keitė lietuviškas monetas į lenkiškas.'
+  sudarymo_pagrindimas: 'Perrašyta į pilną faktinį sakinį su citatoje nurodytu veiksmu.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Turčinas|Turčinas]]'
   pagrindžia:
     - c-003
 
@@ -48,9 +54,29 @@ Vasarį stovyklininkas Pavlikas buvo iš anksto pasiųstas su pinigais, kad jie 
 - t-004
   global_id: t-83730
   teiginys: 'Pavlikas turėjo laiku pasiųsti pinigus Mlodyčiui į Leipcigą ir ponui Plockiui skolai sumokėti.'
+  sudarymo_pagrindimas: 'Citata palaiko glaustą faktą apie pinigų siuntimą į Leipcigą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mlodyčius|Mlodyčius]]; mentioned_person: [[objektai/asmenys/Pavlikas|Pavlikas]]; mentioned_person: [[objektai/asmenys/Plockis|Plockis]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Liublinas; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/asmenys/Mikalojus Konstantinas Čiurlionis.md#claim-t-101689|Mikalojus Konstantinas Čiurlionis (dailininkas)]]: Mikalojus Konstantinas Čiurlionis studijavo muziką ir dailę Varšuvoje bei Leipcige.
+- susijęs iš [[objektai/asmenys/Mikalojus Konstantinas Čiurlionis.md#claim-t-101691|Mikalojus Konstantinas Čiurlionis (dailininkas)]]: Mikalojus Konstantinas Čiurlionis muziką ir dailę studijavo Varšuvoje ir Leipcige.
+- susijęs iš [[objektai/asmenys/Mlodyčius.md#claim-t-87919|Mlodyčius]]: Mlodyčiui į Leipcigą turėjo būti laiku pasiųsti pinigai skolai sumokėti iš lietuviškų monetų, jas keičiant į lenkiškas.
+- susijęs iš [[objektai/asmenys/Pavlikas.md#claim-t-87819|Pavlikas]]: Stovyklininkas Pavlikas Liubline keitė lietuviškas monetas į lenkiškas, kad būtų sumokėta skola Plockiui.
+- susijęs iš [[objektai/asmenys/Plockis.md#claim-t-87834|Plockis]]: Ponui Plockiui turėjo būti sumokėta skola iš lietuviškų monetų, jas keičiant į lenkiškas.
+- susijęs iš [[objektai/asmenys/Turčinas.md#claim-t-87587|Turčinas]]: Rugpjūčio 5 d. per Turčiną karališkajai didenybei buvo nuvežti pinigai į Leipcigą.
+- susijęs iš [[objektai/autoriai/S. F. Platonov.md#claim-t-30968|S. F. Platonov]]: S. F. Platonovo „Geschichte Russlands vom Beginn bis zur Jetztzeit“ 1927 m. buvo išleista Leipcige.
+- susijęs iš Gerullis G. Die altpreussischen Ortsnamen: G. Gerullio veikalas „Die altpreussischen Ortsnamen“ išleistas Berlyne ir Leipcige 1922 m.
+- susijęs iš Grunau S. Preussische Chronik: S. Grunau „Preussische Chronik“ pirmasis tomas, parengtas M. Perlbacho, išleistas Leipcige 1875 m.
+- susijęs iš Historiae Polonicae libri XII Dziejų Polskich ksiąg dwanaście: Joanio Długossio „Historiae Polonicae libri XII“ išleista Frankfurte ir Leipcige 1711–1712 m.
+- susijęs iš Plinius C. Secundus Naturalis historiae libri XXXVII Ed. C. Mayhoff. Vol. V. Libri XXXI— XXXVII,—Lipsiae, 1897: C. Pliniaus Secundus veikalo „Naturalis historiae“ penktasis tomas, apimantis XXXI–XXXVII knygas, C. Mayhoffo parengtas Leipcige 1897 m.
+- susijęs iš S. F. Platonov Geschichte Russlands vom Beginn bis zur Jetztzeit: S. F. Platonovo „Geschichte Russlands vom Beginn bis zur Jetztzeit“ išleista Leipcige 1927 m.
+- susijęs iš S. F. Platonov, Geschichte Russlands vom Beginn bis zur Jetztzeit: S. F. Platonovo „Geschichte Russlands vom Beginn bis zur Jetztzeit“ išleista Leipcige 1927 m.
+- susijęs iš Scriptores rerum Prussicarum T. Hirsch, M. Toppen, E. Strehlke 5 Bd: Penkių tomų „Scriptores rerum Prussicarum“ leidinys išėjo Leipcige 1861–1874 m.
+- susijęs iš Urkundenbuch des Bisthums Samland Herausgegeben von C. P. Woelky und H. Mendthai: „Urkundenbuch des Bisthums Samland“ parengė C. P. Woelky ir H. Mendthai, o leidinys išėjo Leipcige 1891 ir 1898 m.
+- susijęs iš Liublinas: Liubline stovyklininkas Pavlikas keitė lietuviškas monetas į lenkiškas, kad pinigai būtų pasiųsti į Leipcigą.
+- susijęs iš Liublinas: Vasarį stovyklininkas Pavlikas Liubline keitė lietuviškas monetas į lenkiškas, kad pinigai būtų išsiųsti į Leipcigą.
+- susijęs iš Varšuva: Mikalojus Konstantinas Čiurlionis muziką ir dailę studijavo Varšuvoje ir Leipcige.
+- susijęs iš Varšuva: Mikalojus Konstantinas Čiurlionis muziką ir dailę studijavo Varšuvoje ir Leipcige.
 ## Reikšmingi paminėjimai
 
 - c-001

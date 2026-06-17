@@ -20,6 +20,8 @@ Užvirė jami bermontininkai ypač atkaklios kautynės, Tą pačią lapkričio 2
 - t-001
   global_id: t-38624
   teiginys: 'Lapkričio 22 d. Panevėžio batalionas išmušė bermontininkus iš Meškuičių.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Meškuičius.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bermontininkai|Bermontininkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Panevėžio batalionas|Panevėžio batalionas]]; mentioned_place: Pašiaušė; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

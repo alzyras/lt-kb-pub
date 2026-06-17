@@ -3,19 +3,15 @@ tipas: autorius
 pavadinimas: 'J. Puzinas'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-datos:
-  - '1938 m.'
-  - '1950 m.'
-date_start: '1938'
-date_end: '1950'
+datos: []
+date_start: ''
+date_end: ''
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XX'
-periodo_grupes:
-  - 'modernioji Lietuva'
 tags:
   - autorius
+amziai: []
+periodo_grupes: []
 ---
 # J. Puzinas
 
@@ -30,10 +26,16 @@ J. Puzinas minimas kaip specialistas, archeologas ir proistorės tyrėjas; šiam
 - Die Flügelfibeln in Litauen und ihre Bedeutung für die Handelsgeschichte
 
 ## Teiginiai
+
 <a id="claim-t-64642"></a>
 - t-001
   global_id: t-64642
   teiginys: 'J. Puzinas 1938 m. Kaune paskelbė darbą „Naujausių proistorinių tyrinėjimų duomens“.'
+  sudarymo_pagrindimas: 'Reikia pataisyti pavadinimo rašybą ir sakinį padaryti sklandesnį.'
+  susije_objektai: 'mentioned_place: Kaunas'
+  temporaliniai_duomenys: 'įvykio data: iki 1356 m.; įvykio data: 1356 m.; įvykio data: 1938 m.; įvykio data: 1961 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia pataisyti pavadinimo rašybą ir sakinį padaryti sklandesnį.'
   pagrindžia:
     - c-002
 
@@ -41,6 +43,11 @@ J. Puzinas minimas kaip specialistas, archeologas ir proistorės tyrėjas; šiam
 - t-002
   global_id: t-64643
   teiginys: 'J. Puzinas 1948 m. žurnale „Aidai“ paskelbė straipsnį „Aisčiai istorinių šaltinių šviesoje“.'
+  sudarymo_pagrindimas: 'Citata remia tikslesnį bibliografinį teiginį su leidiniu ir metais.'
+  susije_objektai: 'mentioned_place: Kretinga; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1948 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata remia tikslesnį bibliografinį teiginį su leidiniu ir metais.'
   pagrindžia:
     - c-003
 
@@ -48,10 +55,13 @@ J. Puzinas minimas kaip specialistas, archeologas ir proistorės tyrėjas; šiam
 - t-003
   global_id: t-64645
   teiginys: 'J. Puzinas pristatomas kaip specialistas, duodantis atskirą išsamų veikalą.'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/daiktai/Iždo ir pilių raktai.md#claim-t-64929|Iždo ir pilių raktai]]: Dlugošo aprašymu, Vytautas prieš mirtį pavedė Lietuvą Jogailai ir liepė jam atiduoti iždo ir pilių raktus.
+- susijęs iš [[objektai/daiktai/Vežimai.md#claim-t-93003|Vežimai]]: Vytautui pakeliui į Trakus nukritus nuo arklio, jis buvo nuvežtas žmonos vežime.
 ## Reikšmingi paminėjimai
+
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -65,6 +75,7 @@ J. Puzinas minimas kaip specialistas, archeologas ir proistorės tyrėjas; šiam
   statusas: verified
   pagrindžia:
     - t-003
+
 - c-002
   santrauka: 'J. Puzinas 1938 m. Kaune paskelbė darbą „Naujausių proistorinių tyrinėjimų duomens“.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -79,6 +90,7 @@ J. Puzinas minimas kaip specialistas, archeologas ir proistorės tyrėjas; šiam
   statusas: verified
   pagrindžia:
     - t-001
+
 - c-003
   santrauka: 'J. Puzinas 1948 m. žurnale „Aidai“ paskelbė straipsnį „Aisčiai istorinių šaltinių šviesoje“.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -97,8 +109,3 @@ J. Puzinas minimas kaip specialistas, archeologas ir proistorės tyrėjas; šiam
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Iždo ir pilių raktai]]
-- [[objektai/daiktai/Vežimai]]

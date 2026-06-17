@@ -22,6 +22,8 @@ Susiformavo tvirta kontrabandinės knygnešystės tradicija, ir į XIX a.
 - t-001
   global_id: t-22189
   teiginys: 'Knygnešystė apėmė Rytprūsiuose spausdintos lietuviškos spaudos tradiciniu raidynu nelegalų platinimą Lietuvoje.'
+  sudarymo_pagrindimas: 'Pirminis teiginys nutrūkęs, o citata pagrindžia tikslesnį apibūdinimą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/knygnešystė|knygnešystė]]; mentioned_place: Lietuva; mentioned_place: Rytprūsiai'
   pagrindžia:
     - c-001
 
@@ -40,9 +42,3 @@ Susiformavo tvirta kontrabandinės knygnešystės tradicija, ir į XIX a.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/knygnešystė]]
-- [[objektai/paprociai/Kontrabandinė knygnešystė ir nelegalus lietuviškos spaudos platinimas]]
-- [[objektai/daiktai/Spaudos leidiniai kaip kontrabandiniai objektai]]

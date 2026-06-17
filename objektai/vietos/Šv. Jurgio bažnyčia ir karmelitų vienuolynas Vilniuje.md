@@ -20,6 +20,8 @@ Jurgio bažny­ čios prie Vilijos.
 - t-001
   global_id: t-86129
   teiginys: 'Barboros rūmų griuvėsiai Vilniuje stovėjo tarp Katedros ir Šv. Jurgio bažnyčios prie Vilijos.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas, faktinis ir paremtas citata.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_place: Barboros rūmai Vilniuje; mentioned_place: Vilija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

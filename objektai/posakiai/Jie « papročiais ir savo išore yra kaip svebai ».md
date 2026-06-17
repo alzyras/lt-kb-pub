@@ -20,9 +20,12 @@ Anot Tacito, Svebų (Baltijos) jūros dešiniajame krante gyveną Aestii garbin�
 - t-001
   global_id: t-28704
   teiginys: 'Tacitas rašė, kad Aestii papročiais ir išore buvo panašūs į svebus, bet jų kalba esanti artimesnė britų kalbai.'
+  sudarymo_pagrindimas: 'Citata tiesiogiai palaiko teiginį apie posakį, o pradinė formuluotė nukrypo į platesnį kontekstą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Aušrėnai|Aušrėnai]]; mentioned_group: [[objektai/grupes/Svebai|Svebai]]; mentioned_object: [[objektai/zodynas/glesum|glesum]]'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/daiktai/Šernų amuletai.md#claim-t-47838|Šernų amuletai]]: Anot Tacito, prie Svebų jūros gyvenę Aestii garbino dievų motiną, nešiojo šernų amuletus, augino javus ir rinko gintarą.
+- susijęs iš [[objektai/daiktai/Šernų amuletai.md#claim-t-47839|Šernų amuletai]]: Tacitas rašė, kad prie Baltijos jūros gyvenę Aestii garbino dievų motiną ir nešiojo šernų amuletus.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -39,10 +42,3 @@ Anot Tacito, Svebų (Baltijos) jūros dešiniajame krante gyveną Aestii garbin�
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Aušrėnai]]
-- [[objektai/grupes/Svebai]]
-- [[objektai/zodynas/glesum]]
-- [[objektai/daiktai/Šernų amuletai]]

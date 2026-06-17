@@ -5,6 +5,7 @@ saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1380 m.'
+  - '1381 m.'
   - '2026 m.'
 date_start: '1380'
 date_end: '2026'
@@ -20,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Per 1380-1381 m. susirėmimus kariuomenės dalis paėmė Naujapilį su 3000 žmonių.
+122, 132, 158, 160, 169, 189, 197, 213, 225, 230, 240- 242, 262, 263, 266, 272, 274, 303, 305, 307, 313, 319-322, 324, 327, 351, 372, 379 Naugardas-Sieverskas 262, 312, 313, 321 Naugardo metraštis 163-164, 168, 183, 244, 311, 320 Naugardukas 119, 125, 126.
 
 ## Teiginiai
 
@@ -28,9 +29,14 @@ Per 1380-1381 m. susirėmimus kariuomenės dalis paėmė Naujapilį su 3000 žmo
 - t-001
   global_id: t-33800
   teiginys: 'Per 1380-1381 m. susirėmimus kariuomenės dalis paėmė Naujapilį su 3000 žmonių.'
+  sudarymo_pagrindimas: 'Reikia pašalinti neaiškų pradžios kontekstą ir paversti teiginį savarankišku sakiniu.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Ragainė'
+  temporaliniai_duomenys: 'įvykio data: 1380-1381; įvykio data: 1381 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia pašalinti neaiškų pradžios kontekstą ir paversti teiginį savarankišku sakiniu.'
   pagrindžia:
     - c-001
-
+- susijęs iš Ragainė: Ragainės komtūras per vieną puolimą išsivedė 100 žmonių į nelaisvę.
 ## Reikšmingi paminėjimai
 
 - c-001

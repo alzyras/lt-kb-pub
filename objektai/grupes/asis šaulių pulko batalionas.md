@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-2-ojo šaulių pulko batalionas birželio 19 d. palaikė Trakų sukilėlių puolimą prieš rusų kairįjį sparną, bet ataka buvo atmušta.
+Matusevičiaus Trakų sukilėlių daliniai, palaikomi 2-ojo šaulių pulko bataliono, puolė rusų kairįjį sparną, tačiau rusų 6-asis karabinierių pulkas ataką atmušė.
 
 ## Teiginiai
 
@@ -21,6 +21,8 @@ tags:
 - t-001
   global_id: t-80645
   teiginys: '2-ojo šaulių pulko batalionas birželio 19 d. palaikė Trakų sukilėlių puolimą prieš rusų kairįjį sparną, bet ataka buvo atmušta.'
+  sudarymo_pagrindimas: 'Perrašyta glaustai, aiškiai susiejant batalioną su jo veiksmu ir puolimo baigtimi.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Trakai'
   pagrindžia:
     - c-001
 
@@ -47,10 +49,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Rusai]]
-- [[objektai/grupes/Rytas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/2-asis šaulių pulko batalionas]]

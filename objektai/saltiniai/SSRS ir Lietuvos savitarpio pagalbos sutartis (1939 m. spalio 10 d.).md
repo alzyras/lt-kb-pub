@@ -6,8 +6,10 @@ saltiniai:
 datos:
   - '1920 m.'
   - '1926 m.'
+  - '1939 m.'
+  - '1941 m.'
 date_start: '1920'
-date_end: '1926'
+date_end: '1941'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -29,6 +31,11 @@ amziai:
 - t-001
   global_id: t-67530
   teiginys: 'Sutartis fundamentaliai pakeitė Lietuvos tarptautinę padėtį – Lietuva prarado neutralios politikos statusą ir dalį suvereniteto.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie sutarties pasekmes Lietuvai.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Suverenitetas|Suverenitetas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Berlynas; mentioned_place: Lietuva; mentioned_place: SSRS; mentioned_place: Viena; mentioned_place: Vilnius; mentioned_place: Vokietija'
+  temporaliniai_duomenys: 'sutarties data: 1920 m.; sutarties data: 1941 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie sutarties pasekmes Lietuvai.'
   pagrindžia:
     - c-001
 
@@ -36,6 +43,11 @@ amziai:
 - t-002
   global_id: t-67531
   teiginys: '1939 m. spalio 10 d., spaudžiant Josifui Stalinui ir Viačeslavui Molotovui, pasirašyta SSRS ir Lietuvos savitarpio pagalbos sutartis.'
+  sudarymo_pagrindimas: 'Citata leidžia išplėsti inicialus ir užbaigti nutrūkusį teiginį.'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: SSRS; mentioned_place: Vilnius; mentioned_place: Vokietija'
+  temporaliniai_duomenys: 'sutarties data: 1920 m.; sutarties data: 1926 m.; sutarties data: 1939 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata leidžia išplėsti inicialus ir užbaigti nutrūkusį teiginį.'
   pagrindžia:
     - c-002
 
@@ -43,6 +55,14 @@ amziai:
 - t-003
   global_id: t-183382
   teiginys: 'Pagal 1939 m. spalio 10 d. sutartį Lietuva gavo Vilnių ir dalį teritorijos, bet turėjo įsileisti sovietų karines bazes.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata pagrindžia aiškesnį sakinį apie sutarties rezultatą.'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: SSRS; mentioned_place: Vilnius; mentioned_place: Vokietija'
+  temporaliniai_duomenys: 'įvykio data: 1920 m.; įvykio data: 1926 m.; įvykio data: 1939 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia aiškesnį sakinį apie sutarties rezultatą.'
   pagrindžia:
     - c-003
 

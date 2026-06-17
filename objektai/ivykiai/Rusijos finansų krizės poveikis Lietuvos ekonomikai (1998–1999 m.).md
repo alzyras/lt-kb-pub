@@ -44,6 +44,11 @@ Nenurodyta
 - t-001
   global_id: t-20466
   teiginys: '1998–1999 m. Rusijos finansų krizė Lietuvai sukėlė biudžeto sunkumų, nes iki krizės daug lietuviškų prekių buvo eksportuojama į NVS, pirmiausia Rusiją.'
+  sudarymo_pagrindimas: 'Citata leidžia suformuluoti konkretesnį teiginį apie krizės poveikį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/litas|litas]]; mentioned_place: Lietuva; mentioned_place: Rusija'
+  temporaliniai_duomenys: 'įvykio data: 1998 m.; įvykio data: 1998-1999; įvykio data: 1999 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata leidžia suformuluoti konkretesnį teiginį apie krizės poveikį.'
   pagrindžia:
     - c-001
 
@@ -51,6 +56,8 @@ Nenurodyta
 - t-002
   global_id: t-20467
   teiginys: 'Po Rusijos finansų krizės pagrindinėmis Lietuvos užsienio prekybos partnerėmis tapo Vokietija ir Lenkija.'
+  sudarymo_pagrindimas: 'Perrašymas aiškiau susieja faktą su note objektu ir pašalina perteklinį kontekstą.'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Vokietija'
   pagrindžia:
     - c-002
 
@@ -58,6 +65,14 @@ Nenurodyta
 - t-003
   global_id: t-183270
   teiginys: '1998–1999 m. Rusijos finansų krizė sukėlė Lietuvai biudžeto sunkumų, nes eksportas į NVS 1999 m. sumažėjo 59 proc.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo abstraktus; citata pagrindžia konkretesnį poveikį Lietuvos ekonomikai.'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Rusija'
+  temporaliniai_duomenys: 'įvykio data: 1998 m.; įvykio data: 1998-1999; įvykio data: 1999 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys buvo abstraktus; citata pagrindžia konkretesnį poveikį Lietuvos ekonomikai.'
   pagrindžia:
     - c-003
 
@@ -65,6 +80,11 @@ Nenurodyta
 - t-004
   global_id: t-183271
   teiginys: 'Rusijos finansų krizė privertė Lietuvos eksportą persiorientuoti iš nestabilių Rytų rinkų į reiklesnes Vakarų rinkas.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys gramatiškas, faktinis ir tiksliai paremtas citata.'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Vokietija'
   pagrindžia:
     - c-004
 
@@ -131,8 +151,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/litas]]
-- [[objektai/grupes/Nepriklausomų Valstybių Sandrauga]]

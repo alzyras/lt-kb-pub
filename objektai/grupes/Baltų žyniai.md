@@ -23,6 +23,8 @@ Dusburgietis teigia, kad liaudies tradicija mena, kad ant Kaukų kalnelio apiera
 - t-001
   global_id: t-58993
   teiginys: 'Baltų religijoje, tikėtina, buvo vyriausiųjų ir žemesnio rango žynių, atlikdavusių pagoniškas laidotuvių apeigas.'
+  sudarymo_pagrindimas: 'Teiginys perrašytas kaip pilnas sakinys ir išlaikytas citatos atsargumas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]'
   pagrindžia:
     - c-001
 
@@ -30,6 +32,8 @@ Dusburgietis teigia, kad liaudies tradicija mena, kad ant Kaukų kalnelio apiera
 - t-002
   global_id: t-58994
   teiginys: 'Žynio pasiuntinys su krivūle ar kitu ženklu susilaukdavo pagarbos iš kunigaikščių, kilmingųjų ir prastuomenės.'
+  sudarymo_pagrindimas: 'Citata pagrindžia žynio autoritetą ir jo pasiuntinio statusą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Krivūlė|Krivūlė]]; mentioned_object: [[objektai/posakiai/negęstančiąją ugnį|negęstančiąją ugnį]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_object: [[objektai/zodynas/prastuomenė|prastuomenė]]; mentioned_place: Livonija'
   pagrindžia:
     - c-002
 
@@ -67,14 +71,3 @@ Dusburgietis teigia, kad liaudies tradicija mena, kad ant Kaukų kalnelio apiera
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/laidotuvės]]
-- [[temos/ritualas]]
-
-### Susiję objektai
-- [[objektai/posakiai/negęstančiąją ugnį]]
-- [[objektai/zodynas/netikėliai]]
-- [[objektai/grupes/Baltai]]
-- [[objektai/zodynas/prastuomenė]]

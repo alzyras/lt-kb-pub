@@ -4,13 +4,18 @@ pavadinimas: 'Codex epistolaris Vitoldi, magni ducis Lithuaniae'
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-aliases:
-  - 'objektai/saltiniai/Codex ep. Vitoldi'
-variantai:
-  - 'Codex ep. Vitoldi'
+datos:
+  - '1376 m.'
+  - '1430 m.'
+  - '1882 m.'
+date_start: '1376'
+date_end: '1882'
 sukurta: ''
 atnaujinta: ''
 tags: []
+amziai:
+  - 'XIV'
+  - 'XIX'
 ---
 # Codex epistolaris Vitoldi, magni ducis Lithuaniae
 
@@ -24,6 +29,10 @@ tags: []
 - t-001
   global_id: t-12448
   teiginys: 'Šiame veikale bibliografijoje santrumpa C. ep. V. išskleidžiama kaip 1376-1430 m. Vytauto laiškų rinkinys, kurį parengė A. Prochaska ir išleido Krokuvoje 1882 m.'
+  teiginio_tipas: 'faktas'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/A. Prochaska|A. Prochaska]]; mentioned_person: [[objektai/autoriai/Prochaska|Prochaska]]; mentioned_place: Krokuva'
+  temporaliniai_duomenys: 'įvykio data: 1376-1430; įvykio data: 1430 m.; įvykio data: 1882 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 

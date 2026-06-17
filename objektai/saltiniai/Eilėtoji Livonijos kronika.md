@@ -9,14 +9,11 @@ datos:
   - '1247 m.'
   - '1259 m.'
   - '1368 m.'
+  - '1369 m.'
   - '1372 m.'
   - '2026 m.'
 date_start: '1247'
 date_end: '2026'
-aliases:
-  - 'objektai/saltiniai/Livonijos Eiliuotinė kronika'
-variantai:
-  - 'Livonijos Eiliuotinė kronika'
 sukurta: ''
 atnaujinta: ''
 amziai:
@@ -27,7 +24,7 @@ amziai:
 
 ## Santrauka
 
-Eiliuotinės Livonijos kronikos autorius žemaičius tapatino su lietuviais ir beveik trečdalį kronikos skyrė Livonijos ordino santykiams su Lietuva. Eiliuotoji Livonijos kronika prie Skuodo mūšio mini žemaičius, o Durbės mūšio išvakarėse ir mūšyje - lietuvius arba pagonis. Eiliuotoji Livonijos kronika pasakoja, kad lietuvių kariuomenė susirinko galinga ir žygiuodama didėjo.
+Eilėtoji Livonijos kronika šiame veikale minima ir kaip konkretus pasakojimo šaltinis, ir kaip plačiai naudojama Livonijos ordino santykių su Lietuva kronika. Viena citata išskiria jos liudijimą apie lietgalių žemės moteris, kita pabrėžia, kad kronikos autorius beveik trečdalį veikalo paskyrė ordino santykiams su Lietuva.
 
 ## Teiginiai
 
@@ -35,6 +32,8 @@ Eiliuotinės Livonijos kronikos autorius žemaičius tapatino su lietuviais ir b
 - t-001
   global_id: t-171530
   teiginys: 'Eiliuotinės Livonijos kronikos autorius žemaičius tapatino su lietuviais ir beveik trečdalį kronikos skyrė Livonijos ordino santykiams su Lietuva.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, faktinis ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Dubysa; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Minija; mentioned_place: Venta; mentioned_place: Šušvė'
   pagrindžia:
     - c-004
 
@@ -42,6 +41,11 @@ Eiliuotinės Livonijos kronikos autorius žemaičius tapatino su lietuviais ir b
 - t-002
   global_id: t-171531
   teiginys: 'Eiliuotoji Livonijos kronika prie Skuodo mūšio mini žemaičius, o Durbės mūšio išvakarėse ir mūšyje - lietuvius arba pagonis.'
+  sudarymo_pagrindimas: 'Teiginys paremtas citata, bet perrašytas glaudžiau ir be perteklinių žodžių.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_person: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Durbė; mentioned_place: Georgenburgas; mentioned_place: Kuršas; mentioned_place: Lietuva; mentioned_place: Livonija'
+  temporaliniai_duomenys: 'įvykio data: 1259 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys paremtas citata, bet perrašytas glaudžiau ir be perteklinių žodžių.'
   pagrindžia:
     - c-003
 
@@ -49,6 +53,8 @@ Eiliuotinės Livonijos kronikos autorius žemaičius tapatino su lietuviais ir b
 - t-003
   global_id: t-171532
   teiginys: 'Eiliuotoji Livonijos kronika pasakoja, kad lietuvių kariuomenė susirinko galinga ir žygiuodama didėjo.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiksliai perteikia cituojamą kronikos pasakojimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Livonija'
   pagrindžia:
     - c-001
 
@@ -56,6 +62,8 @@ Eiliuotinės Livonijos kronikos autorius žemaičius tapatino su lietuviais ir b
 - t-004
   global_id: t-171533
   teiginys: 'Eiliuotinės Livonijos kronikos autorius žemaičius tapatino su lietuviais.'
+  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir paliktas citatos palaikomas teiginys.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Dubysa; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Minija; mentioned_place: Venta; mentioned_place: Šušvė'
   pagrindžia:
     - c-004
 
@@ -63,6 +71,11 @@ Eiliuotinės Livonijos kronikos autorius žemaičius tapatino su lietuviais ir b
 - t-005
   global_id: t-171534
   teiginys: '1369 m. Algirdas, magistrui ir krašto maršalui išvykus prieš rusus, nuniokojo Aizkrauklės ir Cisegalės žemes.'
+  sudarymo_pagrindimas: 'Pradinis tekstas sujungia nesusijusius fragmentus; citata pagrindžia konkretų faktą apie Algirdo žygį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Dmitrijus|Dmitrijus]]; mentioned_place: Aizkrauklė; mentioned_place: Gotesverderis; mentioned_place: Lietuva; mentioned_place: Nemunas'
+  temporaliniai_duomenys: 'įvykio data: 1369 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis tekstas sujungia nesusijusius fragmentus; citata pagrindžia konkretų faktą apie Algirdo žygį.'
   pagrindžia:
     - c-002
 
@@ -70,6 +83,14 @@ Eiliuotinės Livonijos kronikos autorius žemaičius tapatino su lietuviais ir b
 - t-006
   global_id: t-184608
   teiginys: 'Tautvilas, remiamas Livonijos ir Polocko pulkų, užpuolė Mindaugą Lietuvoje ir be mūšio išsigabeno didelį grobį į Polocką.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Reikia pašalinti perteklinę formuluotę ir išlaikyti citatos palaikomą faktą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Kuršas; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Polockas; mentioned_place: Žiemgala'
+  temporaliniai_duomenys: 'įvykio data: 1247 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia pašalinti perteklinę formuluotę ir išlaikyti citatos palaikomą faktą.'
   pagrindžia:
     - c-005
 
@@ -77,6 +98,11 @@ Eiliuotinės Livonijos kronikos autorius žemaičius tapatino su lietuviais ir b
 - t-007
   global_id: t-184609
   teiginys: 'Pasak Livonijos metraščio, žemaičiai ir lietuviai prie Eželio ant ledo kovėsi su Livonijos magistru Otonu, kuris žuvo su penkiasdešimčia ordino brolių.'
+  teiginio_tipas: 'saltinio_teiginys'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/įpėdinis|įpėdinis]]; mentioned_place: Livonija'
   pagrindžia:
     - c-006
 

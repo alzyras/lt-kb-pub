@@ -28,6 +28,11 @@ Prieš mūšį Apie kilometrą už Krosnos, Lazdijų link, kairėje plento pusė
 - t-001
   global_id: t-79490
   teiginys: 'Apie kilometrą už Krosnos Lazdijų link kairėje plento pusėje driekėsi kalvotas mišrus Kalniškės miškas.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Krosnos apylinkėse buvusį Kalniškės mišką.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]; mentioned_place: Kalniškės miškas; mentioned_place: Lazdijai; mentioned_place: Simnas'
+  temporaliniai_duomenys: 'įvykio data: 1945 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie Krosnos apylinkėse buvusį Kalniškės mišką.'
   pagrindžia:
     - c-002
 
@@ -35,9 +40,15 @@ Prieš mūšį Apie kilometrą už Krosnos, Lazdijų link, kairėje plento pusė
 - t-002
   global_id: t-79491
   teiginys: 'Apie kilometrą už Krosnos Lazdijų link buvo Kalniškės miškas, kuriame 1945 m. įvyko Kalniškės mūšis.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citata.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Kalniškės mūšis (1945 m. gegužės 16-17 d.)|Kalniškės mūšis (1945 m. gegužės 16-17 d.)]]; mentioned_place: Lazdijai; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'mūšio data: 1945 m.; mūšio data: 1945-1951; mūšio data: 1951 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citata.'
   pagrindžia:
     - c-001
-
+- susijęs iš Kalniškės miškas: Kalniškės miškas tęsiasi apie kilometrą už Krosnos Lazdijų link ir yra 3–4 km pločio bei apie 8 km ilgio kalvotas mišrus miškas.
+- susijęs iš Kalniškės miškas: Kalniškės miškas yra apie 3–4 km pločio ir 8 km ilgio mišrus miškas, kuriame 1945 m. įvyko Kalniškės mūšis.
 ## Reikšmingi paminėjimai
 
 - c-001

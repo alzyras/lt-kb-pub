@@ -4,9 +4,10 @@ pavadinimas: 'Jonas Jablonskis'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
+  - '1905 m.'
   - '1912 m.'
-date_start: '1912'
-date_end: ''
+date_start: '1905'
+date_end: '1912'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -29,6 +30,11 @@ Lietuvių mokslo draugijos iniciatorius ir Lietuvių mokslo draugijos suvažiavi
 - t-001
   global_id: t-26448
   teiginys: 'Kalbininkas Jonas Jablonskis 1912 m. Vilniuje dalyvavo Lietuvių mokslo draugijos suvažiavime.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys, o citata patvirtina Jono Jablonskio dalyvavimą suvažiavime.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Liudvika Didžiulienė-Žmona|Liudvika Didžiulienė-Žmona]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1905 m.; įvykio data: 1912 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys, o citata patvirtina Jono Jablonskio dalyvavimą suvažiavime.'
   pagrindžia:
     - c-001
 
@@ -57,14 +63,3 @@ Lietuvių mokslo draugijos iniciatorius ir Lietuvių mokslo draugijos suvažiavi
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Jonas]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Liudvika Didžiulienė-Žmona]]
-- [[objektai/daiktai/A. Jurašaičio nuotrauka „Lietuvių mokslo draugijos suvažiavimo dalyviai Vilniuje 1912 m.“]]
-- [[objektai/asmenys/Jonas Basanavičius]]
-- [[objektai/asmenys/Julija Žymantienė-Žemaitė]]
-- [[objektai/asmenys/Petras Kriaučiūnas]]

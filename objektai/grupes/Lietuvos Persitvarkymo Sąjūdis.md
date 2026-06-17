@@ -5,7 +5,11 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1909 m.'
+  - '1939 m.'
+  - '1940 m.'
+  - '1972 m.'
   - '1976 m.'
+  - '1988 m.'
   - '1990 m.'
   - '1991 m.'
 date_start: '1909'
@@ -19,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-Lietuvos Persitvarkymo Sąjūdis tapo pagrindine Lietuvos nepriklausomybę atkūrusia jėga. Sąjūdis apibūdinamas kaip tautos frontas, suvienijęs plačius Lietuvos visuomenės sluoksnius, o jo priekyje stovėjo mokslo ir kultūros inteligentija. 1988 m. birželio 3 d. Vilniuje Lietuvos mokslų akademijos salėje įsteigta Lietuvos Persitvarkymo Sąjūdžio iniciatyvinė grupė.
+Lietuvos Persitvarkymo Sąjūdis buvo tautinis politinis judėjimas, 1988 m. birželio 3 d. pradėtas LPS iniciatyvinės grupės įsteigimu Vilniuje. Jis sutelkė plačius Lietuvos visuomenės sluoksnius, plėtėsi per iniciatyvines grupes, mitingus ir spaudą, o 1988 m. spalio 22-23 d. surengė steigiamąjį suvažiavimą. 1989-1990 m. LPS tapo viena svarbiausių politinių jėgų, siekusių Lietuvos nepriklausomybės atkūrimo parlamentiniu būdu.
 
 ## Pavadinimai šaltiniuose
 
@@ -63,6 +67,8 @@ Nenurodyta
 - t-001
   global_id: t-13469
   teiginys: 'Lietuvos Persitvarkymo Sąjūdis tapo pagrindine Lietuvos nepriklausomybę atkūrusia jėga.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Lietuvos Persitvarkymo Sąjūdį.'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -70,6 +76,7 @@ Nenurodyta
 - t-002
   global_id: t-13470
   teiginys: 'Sąjūdis apibūdinamas kaip tautos frontas, suvienijęs plačius Lietuvos visuomenės sluoksnius, o jo priekyje stovėjo mokslo ir kultūros inteligentija.'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -77,6 +84,11 @@ Nenurodyta
 - t-003
   global_id: t-13471
   teiginys: '1988 m. birželio 3 d. Vilniuje Lietuvos mokslų akademijos salėje įsteigta Lietuvos Persitvarkymo Sąjūdžio iniciatyvinė grupė.'
+  sudarymo_pagrindimas: 'Išplėstas objekto pavadinimas ir pašalinta citata nepagrįsta detalė apie 35 narius.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Estija; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1988 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Išplėstas objekto pavadinimas ir pašalinta citata nepagrįsta detalė apie 35 narius.'
   pagrindžia:
     - c-009
 
@@ -84,6 +96,9 @@ Nenurodyta
 - t-004
   global_id: t-13472
   teiginys: 'Pradiniame etape Sąjūdis buvo siejamas su gorbačiovine perestroika, jo pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“.'
+  susije_objektai: 'mentioned_object: [[objektai/posakiai/„Viešumas, demokratija, suverenumas“|„Viešumas, demokratija, suverenumas“]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Rusija'
+  temporaliniai_duomenys: 'įvykio data: 1939-1940; įvykio data: 1940 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-010
 
@@ -91,6 +106,8 @@ Nenurodyta
 - t-005
   global_id: t-13473
   teiginys: 'Steigiant Lietuvos Persitvarkymo Sąjūdį sutarta nerinkti iniciatyvinės grupės vadovo.'
+  sudarymo_pagrindimas: 'Išplėstas objekto pavadinimas ir sakinys sutrumpintas iki esminio fakto.'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 
@@ -98,6 +115,11 @@ Nenurodyta
 - t-006
   global_id: t-13474
   teiginys: '1988 m. birželio 10 d. Lietuvos Persitvarkymo Sąjūdžio iniciatyvinė grupė įsteigta Kaune, o liepos 6 d. – Klaipėdoje.'
+  sudarymo_pagrindimas: 'Palikti tik citatos palaikomi faktai, pašalintos nepagrįstos detalės.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/tautinis atgimimas|tautinis atgimimas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1988 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Palikti tik citatos palaikomi faktai, pašalintos nepagrįstos detalės.'
   pagrindžia:
     - c-011
 
@@ -105,6 +127,11 @@ Nenurodyta
 - t-007
   global_id: t-13475
   teiginys: '1988 m. spalio pabaigoje 1 200 Lietuvoje įregistruotų LPS grupių vienijo 300 000 narių.'
+  sudarymo_pagrindimas: 'Teiginys konkretus, gramatiškas ir tiesiogiai pagrįstas citata.'
+  susije_objektai: 'mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1988 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys konkretus, gramatiškas ir tiesiogiai pagrįstas citata.'
   pagrindžia:
     - c-004
 
@@ -112,6 +139,11 @@ Nenurodyta
 - t-008
   global_id: t-13476
   teiginys: '1988 m. spalio 22–23 d. Lietuvos Persitvarkymo Sąjūdžio steigiamajame suvažiavime dalyvavo 1 021 delegatas.'
+  sudarymo_pagrindimas: 'Išplėstas objekto pavadinimas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/autoriai/Vincas Kudirka|Vincas Kudirka]]; mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Aukščiausiosios Tarybos rūmai; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1988 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Išplėstas objekto pavadinimas.'
   pagrindžia:
     - c-005
 
@@ -119,6 +151,8 @@ Nenurodyta
 - t-009
   global_id: t-13477
   teiginys: 'Per Lietuvos Persitvarkymo Sąjūdžio suvažiavimą išrinktas 220 narių seimas, o lapkričio 25 d. jo tarybos pirmininku išrinktas Vytautas Landsbergis.'
+  sudarymo_pagrindimas: 'Išplėstas objekto pavadinimas ir išlaikytos citatos detalės.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Vytautas Landsbergis|Vytautas Landsbergis]]; mentioned_place: Lietuva; mentioned_place: SSRS'
   pagrindžia:
     - c-006
 
@@ -126,6 +160,11 @@ Nenurodyta
 - t-010
   global_id: t-13478
   teiginys: '1989 m. kovą rinkimus į SSRS Aukščiausiąją Tarybą triuškinamai laimėjo Lietuvos Persitvarkymo Sąjūdžio kandidatai.'
+  sudarymo_pagrindimas: 'Sutrumpinta iki aiškaus citatos palaikomo fakto apie objektą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/konstitucijos|konstitucijos]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Baltija; mentioned_place: Lietuva; mentioned_place: SSRS'
+  temporaliniai_duomenys: 'įvykio data: 1989 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Sutrumpinta iki aiškaus citatos palaikomo fakto apie objektą.'
   pagrindžia:
     - c-007
 
@@ -133,6 +172,9 @@ Nenurodyta
 - t-011
   global_id: t-13479
   teiginys: '1990 m. pradžioje LPS buvo viena iš dviejų pagrindinių Lietuvos SSR Aukščiausiosios Tarybos rinkimų kampanijos jėgų ir rengėsi nepriklausomybę atkurti parlamentiniu būdu.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Suverenitetas|Suverenitetas]]; mentioned_place: Aukščiausiosios Tarybos rūmai; mentioned_place: Lietuva; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1990 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-008
 
@@ -140,6 +182,7 @@ Nenurodyta
 - t-012
   global_id: t-23308
   teiginys: '1988 VI 3 įkuriamas Lietuvos Persitvarkymo Sąjūdis.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Aukščiausioji Taryba|Aukščiausioji Taryba]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-020
 
@@ -147,6 +190,11 @@ Nenurodyta
 - t-013
   global_id: t-23309
   teiginys: 'Pradiniame etape Sąjūdis iš esmės buvo gorbačiovinės perestroikos kūdikis, kurį su ankstesniais kovų etapais siejo tik laisvos Lietuvos siekis.'
+  sudarymo_pagrindimas: 'Teiginys perteikia citatos interpretacinį vertinimą ir yra aiškus.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Stulpai|Stulpai]]; mentioned_object: [[objektai/daiktai/Sąjūdžio ženklas su Gedimino stulpais|Sąjūdžio ženklas su Gedimino stulpais]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Rusija'
+  temporaliniai_duomenys: 'įvykio data: 1939-1940; įvykio data: 1940 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys perteikia citatos interpretacinį vertinimą ir yra aiškus.'
   pagrindžia:
     - c-012
 
@@ -154,6 +202,11 @@ Nenurodyta
 - t-014
   global_id: t-23310
   teiginys: '1987, 1988 ir 1989 m. vasarą jaunimo muzikos koncertų žygiai per Lietuvą skleidė LPS idėjas ir drąsino režimo įbaugintus žmones.'
+  sudarymo_pagrindimas: 'Reikia pakeisti neenciklopedinę formuluotę „išlaisvinti žmones“ į tikslesnę.'
+  susije_objektai: 'mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1989 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia pakeisti neenciklopedinę formuluotę „išlaisvinti žmones“ į tikslesnę.'
   pagrindžia:
     - c-013
 
@@ -161,6 +214,8 @@ Nenurodyta
 - t-015
   global_id: t-26801
   teiginys: 'Atgimimo laikotarpiu Lietuvos Persitvarkymo Sąjūdis, o ne Lietuvos laisvės lyga, tapo pagrindine Lietuvos nepriklausomybę atkūrusia jėga.'
+  sudarymo_pagrindimas: 'Reikia sutrumpinti sakinį ir išskleisti LLL santrumpą.'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-016
 
@@ -168,6 +223,11 @@ Nenurodyta
 - t-016
   global_id: t-26802
   teiginys: 'Sąjūdis buvo tautos frontas, suvienijęs plačius Lietuvos visuomenės sluoksnius ir kėlęs laisvės, demokratijos bei nepriklausomybės idealus.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, todėl perrašytas į pilną sakinį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Kaunas; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1972 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs, todėl perrašytas į pilną sakinį.'
   pagrindžia:
     - c-015
 
@@ -175,6 +235,8 @@ Nenurodyta
 - t-017
   global_id: t-26804
   teiginys: 'LPS įtaka visuomenėje didėjo, liepą–rugsėjį visoje Lietuvoje steigėsi iniciatyvinės grupės, vyko didžiuliai mitingai, kuriuose dalyvavo LPS iniciatyvinės grupės nariai.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie LPS veiklos plėtrą.'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-014
 
@@ -182,6 +244,11 @@ Nenurodyta
 - t-018
   global_id: t-26805
   teiginys: 'LPS grupės pripažino Sąjūdžio iniciatyvinės grupės lyderystę, nors iniciatyvinę grupę rinko tik vilniečiai.'
+  sudarymo_pagrindimas: 'Teiginys aiškus, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1988 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškus, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-004
 
@@ -189,6 +256,8 @@ Nenurodyta
 - t-019
   global_id: t-26806
   teiginys: 'Lietuvos Persitvarkymo Sąjūdžio suvažiavimas priėmė bendrąją programą, įstatus ir 30 rezoliucijų politikos, kultūros, ekonomikos bei demokratijos klausimais.'
+  sudarymo_pagrindimas: 'Pradiniame teiginyje trūksta aiškaus note objekto.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva; mentioned_place: SSRS'
   pagrindžia:
     - c-017
 
@@ -196,6 +265,11 @@ Nenurodyta
 - t-020
   global_id: t-26807
   teiginys: '1988 m. lapkritį Lietuvos Persitvarkymo Sąjūdžio aplinkoje visoje Lietuvoje reikalauta nepritarti SSRS konstitucijos pataisoms.'
+  sudarymo_pagrindimas: 'Reikia aiškiai susieti teiginį su Lietuvos Persitvarkymo Sąjūdžiu ir pašalinti perteklinę formuluotę.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/konstitucijos|konstitucijos]]; mentioned_place: Lietuva; mentioned_place: SSRS'
+  temporaliniai_duomenys: 'įvykio data: 1988 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia aiškiai susieti teiginį su Lietuvos Persitvarkymo Sąjūdžiu ir pašalinti perteklinę formuluotę.'
   pagrindžia:
     - c-018
 
@@ -203,6 +277,11 @@ Nenurodyta
 - t-021
   global_id: t-26808
   teiginys: '1989 m. LPS kandidatams laimėjus rinkimus į SSRS Aukščiausiąją Tarybą, lietuvių tautinis išsivadavimas įgijo politinį pobūdį.'
+  sudarymo_pagrindimas: 'Reikia aiškiau susieti faktą su Lietuvos Persitvarkymo Sąjūdžiu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/konstitucijos|konstitucijos]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Baltija; mentioned_place: SSRS'
+  temporaliniai_duomenys: 'įvykio data: 1989 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia aiškiau susieti faktą su Lietuvos Persitvarkymo Sąjūdžiu.'
   pagrindžia:
     - c-007
 
@@ -210,6 +289,11 @@ Nenurodyta
 - t-022
   global_id: t-26809
   teiginys: '1990 m. sausį–vasarį rinkimų kampanijoje susidūrė LPS, skleidęs nepriklausomos Lietuvos atkūrimo idėją, ir savarankiška LKP.'
+  sudarymo_pagrindimas: 'Teiginys yra konkretus ir tiesiogiai paremtas citatos informacija apie rinkimų kampaniją.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Suverenitetas|Suverenitetas]]; mentioned_place: Lietuva; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1990 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus ir tiesiogiai paremtas citatos informacija apie rinkimų kampaniją.'
   pagrindžia:
     - c-008
 
@@ -217,9 +301,27 @@ Nenurodyta
 - t-023
   global_id: t-26810
   teiginys: '1988–1990 m. Lietuvos Sąjūdžio kūrėjai prisidėjo prie Sovietų Sąjungos aneksijos įveikimo ir Nepriklausomybės atkūrimo.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir suformuluotas pilnas citatos palaikomas sakinys.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/aneksija|aneksija]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/Žynių titulai ir pareigybės|Žynių titulai ir pareigybės]]; mentioned_person: [[objektai/asmenys/Mikalojus Konstantinas Čiurlionis|Mikalojus Konstantinas Čiurlionis]]; mentioned_place: Baltija; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1909 m.; įvykio data: 1988-1990; įvykio data: 1990 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas OCR triukšmas ir suformuluotas pilnas citatos palaikomas sakinys.'
   pagrindžia:
     - c-019
-
+- susijęs iš [[objektai/asmenys/Petras Griškevičius.md#claim-t-64026|Petras Griškevičius]]: Prasidėjus Michailo Gorbačiovo pertvarkai, LKP CK pirmasis sekretorius Petras Griškevičius Lietuvoje laikėsi pasyviai.
+- susijęs iš [[objektai/asmenys/Rimgaudas Songaila.md#claim-t-64040|Rimgaudas Songaila]]: Rimgaudas Songaila, pakeitęs Petrą Griškevičių LKP CK pirmojo sekretoriaus poste, Michailo Gorbačiovo pertvarkos pradžioje laikėsi pasyviai.
+- susijęs iš [[objektai/grupes/Dailininkų sąjunga.md#claim-t-19667|Dailininkų sąjunga]]: Sąjūdžio priešistorėje Dailininkų sąjunga įsitraukė į visuomeninį aktyvumą kartu su ekonomistais ir filosofais.
+- susijęs iš [[objektai/ivykiai/LPS iniciatyvinių grupių įsteigimas Kaune ir Klaipėdoje ir pirmieji mitingai (1988 m. birželis–liepa).md#claim-t-183262|LPS iniciatyvinių grupių įsteigimas Kaune ir Klaipėdoje ir pirmieji mitingai (1988 m. birželis–liepa)]]: Žinia apie LPS iniciatyvinę grupę greitai pasklido po visą Lietuvą, nes grupę sudarė žinomi inteligentai.
+- susijęs iš [[objektai/ivykiai/LPS iniciatyvinių grupių įsteigimas Kaune ir Klaipėdoje ir pirmieji mitingai (1988 m. birželis–liepa).md#claim-t-20249|LPS iniciatyvinių grupių įsteigimas Kaune ir Klaipėdoje ir pirmieji mitingai (1988 m. birželis–liepa)]]: 1988 m. birželio 10 d. LPS iniciatyvinė grupė įsteigta Kaune, liepos 6 d. – Klaipėdoje, o pirmieji masiniai mitingai vyko Vilniuje.
+- susijęs iš [[objektai/ivykiai/Lietuvos Persitvarkymo Sąjūdžio įkūrimas (1988 VI 3).md#claim-t-183255|Lietuvos Persitvarkymo Sąjūdžio įkūrimas (1988 VI 3)]]: 1988 VI 3 įkuriamas Lietuvos Persitvarkymo Sąjūdis.
+- susijęs iš [[objektai/ivykiai/Lietuvos Persitvarkymo Sąjūdžio įkūrimas (1988 VI 3).md#claim-t-66692|Lietuvos Persitvarkymo Sąjūdžio įkūrimas (1988 VI 3)]]: 1988 VI 3 įkuriamas Lietuvos Persitvarkymo Sąjūdis.
+- susijęs iš [[objektai/ivykiai/Lietuvos nepriklausomybės atkūrimas (1990 III 11).md#claim-t-75164|Lietuvos nepriklausomybės atkūrimas (1990 III 11)]]: 1988 VI 3 įkuriamas Lietuvos Persitvarkymo Sąjūdis.
+- susijęs iš Kaunas: Birželio 10 d. Lietuvos Persitvarkymo Sąjūdžio iniciatyvinė grupė buvo įsteigta Kaune.
+- susijęs iš Klaipėda: 1988 m. birželio 10 d. LPS iniciatyvinė grupė įsteigta Kaune, o liepos 6 d. – Klaipėdoje.
+- susijęs iš [[objektai/zodynas/pertvarka perestroika.md#claim-t-22243|pertvarka perestroika]]: SSRS pradėjus Michailo Gorbačiovo pertvarką, LKP vadovai Petras Griškevičius ir Rimgaudas Songaila Lietuvoje laikėsi pasyviai.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -580,38 +682,3 @@ Nenurodyta
   pagrindžia:
     - t-024
     - t-012
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/grupes/Aukščiausioji Taryba|Aukščiausioji Taryba (institucija)]]
-- [[objektai/asmenys/Gediminas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Mikalojus Konstantinas Čiurlionis|Mikalojus Konstantinas Čiurlionis (dailininkas)]]
-- [[objektai/daiktai/Stulpai]]
-- [[objektai/zodynas/Suverenitetas]]
-- [[objektai/daiktai/Sąjūdžio ženklas su Gedimino stulpais]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/daiktai/Vytis]]
-- [[objektai/zodynas/aneksija]]
-- [[objektai/zodynas/konstitucijos]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/tautinis atgimimas]]
-- [[objektai/grupes/Dailininkų sąjunga]]
-- [[objektai/ivykiai/LPS iniciatyvinių grupių įsteigimas Kaune ir Klaipėdoje ir pirmieji mitingai (1988 m. birželis–liepa)]]
-- [[objektai/asmenys/Petras Griškevičius]]
-- [[objektai/asmenys/Rimgaudas Songaila]]
-- [[objektai/zodynas/pertvarka perestroika]]
-- [[objektai/asmenys/Vytautas Landsbergis]]
-- [[objektai/posakiai/„Viešumas, demokratija, suverenumas“]]
-- [[objektai/ivykiai/Lietuvos Persitvarkymo Sąjūdžio įkūrimas (1988 VI 3)]]
-- [[objektai/ivykiai/Lietuvos nepriklausomybės atkūrimas (1990 III 11)]]
-- [[objektai/ivykiai/LPS kandidatų pergalė SSRS Aukščiausiosios Tarybos rinkimuose ir LKP monopolio panaikinimas (1989 m.)]]
-- [[objektai/ivykiai/Lietuvos Persitvarkymo Sąjūdžio iniciatyvinės grupės įsteigimas (1988 m. birželio 3 d.)]]
-- [[objektai/ivykiai/Lietuvos Persitvarkymo Sąjūdžio steigiamasis suvažiavimas (1988 m. spalio 22–23 d.)]]
-- [[objektai/grupes/Lietuvos komunistų partija]]
-- [[objektai/daiktai/Lietuvos trispalvė]]
-- [[objektai/paprociai/Sąjūdžio masiniai mitingai ir reikalavimų viešinimas]]
-- [[objektai/zodynas/tautos frontas]]
-- [[objektai/posakiai/„Lietuva be suvereniteto – Lietuva be ateities.“]]

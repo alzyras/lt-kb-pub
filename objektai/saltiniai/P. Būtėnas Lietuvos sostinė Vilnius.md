@@ -26,6 +26,9 @@ Būtėnas, P.
 - t-001
   global_id: t-31877
   teiginys: 'P. Būtėno „Lietuvos sostinė Vilnius“ paskelbta žurnale „Karys“ 1973 m. Nr. 8, p. 264-266.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]'
+  temporaliniai_duomenys: 'įvykio data: 1973 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

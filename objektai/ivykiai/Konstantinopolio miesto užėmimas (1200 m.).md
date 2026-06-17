@@ -43,6 +43,12 @@ Nenurodyta
 - t-001
   global_id: t-62333
   teiginys: '1200 m. Konstantinopolį užėmė prancūzai ir Venecijos kariai, o Flandrijos grafas Balduinas tapo imperatoriumi.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys pilnas, faktinis ir paremtas citatos turiniu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_person: [[objektai/asmenys/Balduinas (Flandrijos grafas)|Balduinas (Flandrijos grafas)]]; mentioned_place: Konstantinopolis; mentioned_place: Venecija'
+  temporaliniai_duomenys: 'įvykio data: 1200 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys pilnas, faktinis ir paremtas citatos turiniu.'
   pagrindžia:
     - c-001
 
@@ -64,9 +70,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lotynai]]
-- [[objektai/grupes/Prancūzai]]
-- [[objektai/asmenys/Balduinas (Flandrijos grafas)]]

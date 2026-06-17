@@ -37,6 +37,9 @@ Nenurodyta
 - t-001
   global_id: t-62543
   teiginys: 'Prūsai stipria kariuomene apsiautė Štarkenbergo pilį, ją užėmė, išžudė brolius ir gyventojus, o pilį pavertė pelenais.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra išsamus, gramatiškas ir tiesiogiai paremtas citata apie pilies užėmimą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Prūsai; mentioned_place: Viena; mentioned_place: Štarkenbergas'
   pagrindžia:
     - c-001
 
@@ -61,7 +64,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Konradas]]

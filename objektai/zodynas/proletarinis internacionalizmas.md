@@ -14,7 +14,7 @@ tags:
 
 ## Santrauka
 
-Į proletarinį internacionalizmą orientuotos radikalių kairiųjų organizacijos Lietuvoje veikė nelegaliai ir krašte buvo neįtakingos.
+Tokia pozicija nesivadovavo tik krašte neįtakingos radikalių kairiųjų, į komunistinę revoliuciją ir vadinamąjį proletarinį internacionalizmą besiorientavusios, nelegaliai veikusios organizacijos, vienas kitas intelektualas, taip pat negausi LDK valstybingumo.
 
 ## Teiginiai
 
@@ -22,6 +22,8 @@ tags:
 - t-001
   global_id: t-22258
   teiginys: 'Į proletarinį internacionalizmą orientuotos radikalių kairiųjų organizacijos Lietuvoje veikė nelegaliai ir krašte buvo neįtakingos.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, bet citata leidžia suformuluoti aiškų faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -48,8 +50,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]

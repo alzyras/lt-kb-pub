@@ -20,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-Lietuva 1991 m. spalį su Baltarusija pasirašė geros kaimynystės principų deklaraciją, o po ketverių metų – sutartį dėl geros kaimynystės, bendradarbiavimo ir valstybės sienos.
+Atsikūrusi Lietuva siekė nustatyti gerus santykius su nauja valstybe – Baltarusija, su ja 1991 m. spalį pasirašė Deklaraciją dėl geros kaimynystės santykių principų, o po ketverių metų – sutartį dėl geros kaimynystės, Sutarties pasirašymas su Rusija – centre.
 
 ## Teiginiai
 
@@ -28,6 +28,11 @@ Lietuva 1991 m. spalį su Baltarusija pasirašė geros kaimynystės principų de
 - t-001
   global_id: t-26496
   teiginys: 'Lietuva 1991 m. spalį su Baltarusija pasirašė geros kaimynystės principų deklaraciją, o po ketverių metų – sutartį dėl geros kaimynystės, bendradarbiavimo ir valstybės sienos.'
+  sudarymo_pagrindimas: 'Reikia tiksliau įvardyti pirmąjį dokumentą ir pašalinti citatoje įsiterpusį puslapio bei iliustracijos triukšmą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Borisas (Tverės kunigaikštis)|Borisas (Tverės kunigaikštis)]]; mentioned_person: [[objektai/asmenys/Borisas Jelcinas|Borisas Jelcinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Vytautas Landsbergis|Vytautas Landsbergis]]; mentioned_place: Baltarusija; mentioned_place: Lietuva; mentioned_place: Rusija'
+  temporaliniai_duomenys: 'įvykio data: 1991 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia tiksliau įvardyti pirmąjį dokumentą ir pašalinti citatoje įsiterpusį puslapio bei iliustracijos triukšmą.'
   pagrindžia:
     - c-001
 

@@ -47,6 +47,11 @@ Nenurodyta
 - t-001
   global_id: t-86973
   teiginys: 'Gediminas 1337 m. žuvo mūšyje su kryžiuočiais prie Bajerburgo pilies, per mylią nuo Veliuonos.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nukrypsta į Vilniaus aprašymą, o citata tiesiogiai pagrindžia Gedimino žūties faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bremeno pirkliai|Bremeno pirkliai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Bajerburgas; mentioned_place: Bremenas; mentioned_place: Dvina; mentioned_place: Lietuva; mentioned_place: Ryga; mentioned_place: Veliuona'
+  temporaliniai_duomenys: 'įvykio data: 1337 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys nukrypsta į Vilniaus aprašymą, o citata tiesiogiai pagrindžia Gedimino žūties faktą.'
   pagrindžia:
     - c-001
 
@@ -85,11 +90,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bremeno pirkliai]]
-- [[objektai/asmenys/Gediminas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/zodynas/Feodalinis ir leninis valdymas]]
-- [[objektai/ivykiai/Gedimino žūtis Bajerburgo mūšyje (1337 m.)]]

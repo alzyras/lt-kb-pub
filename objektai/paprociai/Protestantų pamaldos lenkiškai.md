@@ -62,8 +62,3 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Protestantai]]
-- [[objektai/zodynas/protestantizmas]]

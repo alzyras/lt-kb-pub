@@ -5,6 +5,7 @@ saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1273 m.'
+  - '1274 m.'
   - '1292 m.'
 date_start: '1273'
 date_end: '1292'
@@ -45,6 +46,11 @@ Nenurodyta
 - t-001
   global_id: t-91913
   teiginys: 'Konrado iš Tirbergo pasiųstas Sembos fogtas Ditrichas su kariuomene Retavos valsčiuje užėmė ir sudegino dvi pilis.'
+  sudarymo_pagrindimas: 'Citata remia aiškų veikėjo, vietos ir rezultato sakinį be nutrūkusio fragmento.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Nadruviai|Nadruviai]]; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_object: [[objektai/zodynas/fogtas|fogtas]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Barta; mentioned_place: Bartenšteinas; mentioned_place: Bysleida; mentioned_place: Nadruva; mentioned_place: Retavos valsčius; mentioned_place: Semba'
+  temporaliniai_duomenys: 'įvykio data: 1274 m.; įvykio data: 1292 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata remia aiškų veikėjo, vietos ir rezultato sakinį be nutrūkusio fragmento.'
   pagrindžia:
     - c-001
 
@@ -85,14 +91,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/žemėlapis]]
-
-### Susiję objektai
-- [[objektai/asmenys/Konradas]]
-- [[objektai/grupes/Nadruviai]]
-- [[objektai/grupes/Sembai]]
-- [[objektai/zodynas/Adynos|adynos]]
-- [[objektai/zodynas/fogtas]]

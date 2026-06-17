@@ -39,6 +39,9 @@ Nenurodyta
 - t-001
   global_id: t-62196
   teiginys: 'Prūsai po ilgų kovų vėl iš pagrindų sugriovė Marienverderio miestą, o dalį miestiečių paėmė į nelaisvę arba nužudė.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pradinis sakinys per ilgas, nutrūkęs ir su antraštės triukšmu; citata palaiko glaustą faktą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/asmenys/Konradas Švabas iš Elbingo|Konradas Švabas iš Elbingo]]; mentioned_place: Belichovas; mentioned_place: Elbingas; mentioned_place: Kulmas; mentioned_place: Marienverderis; mentioned_place: Prūsai; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -64,8 +67,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Konradas]]
-- [[objektai/asmenys/Konradas Švabas iš Elbingo]]

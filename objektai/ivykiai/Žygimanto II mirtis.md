@@ -36,6 +36,14 @@ Nenurodyta
 - t-001
   global_id: t-185844
   teiginys: 'Žygimantas II mirė per Velykas, grįždamas iš Piotrkovo į Krokuvą, būdamas daugiau kaip aštuoniasdešimties metų.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis teiginys fragmentiškas; citata tiesiogiai palaiko mirties aplinkybes.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Piotrkovas'
+  temporaliniai_duomenys: 'įvykio data: 1548 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys fragmentiškas; citata tiesiogiai palaiko mirties aplinkybes.'
   pagrindžia:
     - c-001
 
@@ -69,7 +77,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Žygimantas]]

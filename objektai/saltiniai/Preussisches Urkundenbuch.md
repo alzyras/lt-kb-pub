@@ -5,6 +5,8 @@ saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1215 m.'
+  - '1216 m.'
+  - '1223 m.'
   - '1969 m.'
 date_start: '1215'
 date_end: '1969'
@@ -20,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-1222 arba 1223 m. Konrado privilegija vyskupui Kristijonui patvirtina Kulmo ir kitų šios žemės pilių sunaikinimą. „Preussisches Urkundenbuch“ nurodomas prie teiginio, kad Kristijonas 1215 m. antroje pusėje arba 1216 m. pradžioje paskelbtas pirmuoju Prūsijos vyskupu.
+PUB = Preussisches Urkundenbuch, t.
 
 ## Teiginiai
 
@@ -28,6 +30,11 @@ amziai:
 - t-001
   global_id: t-67523
   teiginys: '1222 arba 1223 m. Konrado privilegija vyskupui Kristijonui patvirtina Kulmo ir kitų šios žemės pilių sunaikinimą.'
+  sudarymo_pagrindimas: 'Pašalintas išnašos numeris ir OCR triukšmas; faktas remiamas citata.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_place: Kulmas'
+  temporaliniai_duomenys: 'įvykio data: 1223 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas išnašos numeris ir OCR triukšmas; faktas remiamas citata.'
   pagrindžia:
     - c-001
 
@@ -35,6 +42,11 @@ amziai:
 - t-002
   global_id: t-67524
   teiginys: '„Preussisches Urkundenbuch“ nurodomas prie teiginio, kad Kristijonas 1215 m. antroje pusėje arba 1216 m. pradžioje paskelbtas pirmuoju Prūsijos vyskupu.'
+  sudarymo_pagrindimas: 'Teiginį reikia susieti su šaltinio objektu, nes citatoje jis pateiktas kaip bibliografinė nuoroda.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/kryžininkai|kryžininkai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_place: Prūsai; mentioned_place: Prūsija'
+  temporaliniai_duomenys: 'įvykio data: 1215 m.; įvykio data: 1216 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginį reikia susieti su šaltinio objektu, nes citatoje jis pateiktas kaip bibliografinė nuoroda.'
   pagrindžia:
     - c-002
 

@@ -44,6 +44,11 @@ Nenurodyta
 - t-001
   global_id: t-28815
   teiginys: '1386 m. vasario 2 d. Liubline kilmingųjų seimas Jogailą išrinko Lenkijos karaliumi.'
+  sudarymo_pagrindimas: 'Citata palaiko glaustesnį ir aiškesnį teiginį apie išrinkimą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lenkija; mentioned_place: Liublinas; mentioned_place: Sandomiras; mentioned_place: Valkaviskas'
+  temporaliniai_duomenys: 'įvykio data: 1386 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko glaustesnį ir aiškesnį teiginį apie išrinkimą.'
   pagrindžia:
     - c-001
 
@@ -62,8 +67,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
-- [[objektai/zodynas/seimas]]

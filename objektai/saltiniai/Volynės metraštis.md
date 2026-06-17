@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Volynės metraštyje Zlynų vietovardis minimas formomis „Злиньци“ ir „Злина“. Volynės metraštyje teritorija Crasim minima forma Krismence.
+Dusburgietis teigia, kad 501 D.— territorium Sudowie [...] Crasimam, Jer.— Crasim; Volynės metraštis — Krismence (ПСРЛ, 2, стб. Dusburgietis teigia, kad galop atvyko jo šventenybė Pilypas, Fermo vyskupas, apaštališkojo sosto legatas, atsiųstas į Lenkijos žemę, ir brolis Konradas iš Tirbergo, magistras, jam nusiskundė dėl minėtojo Mstivojaus daromų Prūsijos broliams skriaudų šiose trijose minėtosios.
 
 ## Teiginiai
 
@@ -29,6 +29,8 @@ Volynės metraštyje Zlynų vietovardis minimas formomis „Злиньци“ ir
 - t-001
   global_id: t-61014
   teiginys: 'Volynės metraštyje Zlynų vietovardis minimas formomis „Злиньци“ ir „Злина“.'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo nutrūkęs ir ne apie šio užrašo objektą; citata aiškiai paremia tik Volynės metraščio vietovardžio formas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/asmenys/Mstivojus|Mstivojus]]; mentioned_place: Lenkija; mentioned_place: Pomeranija; mentioned_place: Prūsija; mentioned_place: Volynė; mentioned_place: Zilija'
   pagrindžia:
     - c-001
 
@@ -36,6 +38,11 @@ Volynės metraštyje Zlynų vietovardis minimas formomis „Злиньци“ ir
 - t-002
   global_id: t-61015
   teiginys: 'Volynės metraštyje teritorija Crasim minima forma Krismence.'
+  sudarymo_pagrindimas: 'Pradinė formuluotė buvo nutrūkusi; citata pagrindžia pavadinimo formą metraštyje.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Volynė'
+  temporaliniai_duomenys: 'įvykio data: 1259 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinė formuluotė buvo nutrūkusi; citata pagrindžia pavadinimo formą metraštyje.'
   pagrindžia:
     - c-002
 

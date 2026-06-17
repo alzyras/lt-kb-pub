@@ -3,10 +3,19 @@ tipas: autorius
 pavadinimas: 'H. Koeppen'
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+datos:
+  - '1342 m.'
+  - '1345 m.'
+date_start: '1342'
+date_end: '1345'
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 ---
 # H. Koeppen
 
@@ -20,6 +29,11 @@ Dusburgietis teigia, kad koeppen.— Marburg, 1958; [3 Lieferung): Nachträge, R
 - t-001
   global_id: t-60712
   teiginys: 'H. Koeppenas parengė „Preussisches Urkundenbuch“ trečio tomo 1342–1345 m. dalį ir ketvirtą tomą.'
+  sudarymo_pagrindimas: 'Bibliografinė citata aiškiai nurodo Koeppeno parengtas leidinio dalis.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/H. Koeppenas|H. Koeppenas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
+  temporaliniai_duomenys: 'įvykio data: 1342-1345; įvykio data: 1345 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Bibliografinė citata aiškiai nurodo Koeppeno parengtas leidinio dalis.'
   pagrindžia:
     - c-001
 

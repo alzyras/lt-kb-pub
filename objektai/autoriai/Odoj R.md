@@ -28,6 +28,8 @@ Dusburgietis teigia, kad odoj R.
 - t-001
   global_id: t-60763
   teiginys: 'R. Odoj paskelbė darbą apie archeologijos pasiekimus Varmijoje ir Mozūrijoje.'
+  sudarymo_pagrindimas: 'Bibliografinė nuoroda palaiko faktą apie autoriaus paskelbtą darbą.'
+  susije_objektai: 'mentioned_place: Mozūrija'
   pagrindžia:
     - c-001
 

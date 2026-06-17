@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Rusų kronikos Vytautui priskiria susitarimą pasodinti Tochtamyšą caro Kotlogo vietoje ir pačiam valdyti Rusiją iš Maskvos. Vytautas priėmė Tochtamyšą, tikėdamasis per jį sulaužyti totorių galybę ir, pasiremdamas totoriais, atsisėsti Maskvos soste.
+Todėl ir nenuostabu, kad jis nuoširdžiai priėmė atbėgusį pas save Tochtamyšą, tikėdamas jį panaudoti pačių totorių galybei sulaužyti, ir paskui, pasirėmus tais pačiais totoriais, atsisėsti Maskvos soste. Rusų kronikos aiškina, kad su Tochtamyšu jis sutaręs šitaip: „Aš tave pasodinsiu saaro Kotlogo vietoj, o pats tada atsisėsiu Didžioj Maskvos kunigaikš­ tijoje ir valdysiu visą Rusiją^2 ).
 
 ## Teiginiai
 
@@ -20,6 +20,7 @@ Rusų kronikos Vytautui priskiria susitarimą pasodinti Tochtamyšą caro Kotlog
 - t-001
   global_id: t-176270
   teiginys: 'Rusų kronikos Vytautui priskiria susitarimą pasodinti Tochtamyšą caro Kotlogo vietoje ir pačiam valdyti Rusiją iš Maskvos.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_object: [[objektai/zodynas/saar|saar]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Maskva; mentioned_place: Rusija'
   pagrindžia:
     - c-002
 
@@ -27,6 +28,8 @@ Rusų kronikos Vytautui priskiria susitarimą pasodinti Tochtamyšą caro Kotlog
 - t-002
   global_id: t-176271
   teiginys: 'Vytautas priėmė Tochtamyšą, tikėdamasis per jį sulaužyti totorių galybę ir, pasiremdamas totoriais, atsisėsti Maskvos soste.'
+  sudarymo_pagrindimas: 'Reikia aiškiau ir tiksliau susieti Vytauto veiksmą su citatoje nurodytu tikslu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/posakiai/Aš tave pasodinsiu Auksinėj Ordoj...|Aš tave pasodinsiu Auksinėj Ordoj...]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Maskva'
   pagrindžia:
     - c-001
 
@@ -69,15 +72,3 @@ Rusų kronikos Vytautui priskiria susitarimą pasodinti Tochtamyšą caro Kotlog
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/posakiai/Aš tave pasodinsiu Auksinėj Ordoj...]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/chanas]]
-- [[objektai/zodynas/saar]]
-- [[objektai/posakiai/Aš tave pasodinsiu saaro Kotlogo vietoj, o pats tada atsisėsiu Didžioj Maskvos kunigaikštijoje ir valdysiu visą Rusiją]]
-- [[objektai/grupes/Maskvos kunigaikštija]]
-- [[objektai/grupes/Maskvos kunigaikštystė]]

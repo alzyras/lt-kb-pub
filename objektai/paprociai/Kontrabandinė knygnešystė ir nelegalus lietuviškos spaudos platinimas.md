@@ -20,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-Lietuvių spaudos draudimo laikotarpiu Rytprūsiuose išleista daugiau kaip 1 800 lietuviškų knygų pavadinimų. Vyskupas Motiejus Valančius ragino nepriimti valdžios peršamų knygų ir slapta organizavo lietuviškos spaudos spausdinimą Rytprūsiuose bei platinimą Lietuvoje. Lietuviška spauda tradiciniu raidynu buvo spausdinama Rytprūsiuose ir nelegaliai platinama Lietuvoje.
+Paraginęs nepriimti valdžios peršamų knygų, vyskupas slapta suorganizavo lietuviškos spaudos tradiciniu raidynu spausdinimą Rytprūsiuose ir nelegalų jos platinimą Lietuvoje. Zikaro skulptūra (1939 m.) L I E T U V O S I S T O R I J A 118 griežčiau, nei slaptų mokyklų mokytojus, lietuviškos spaudos srauto į Lietuvą nesustabdė.
 
 ## Laikotarpis ir datos
 
@@ -48,6 +48,11 @@ Nenurodyta
 - t-001
   global_id: t-54251
   teiginys: 'Lietuvių spaudos draudimo laikotarpiu Rytprūsiuose išleista daugiau kaip 1 800 lietuviškų knygų pavadinimų.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir paremtas citatoje nurodytu skaičiumi.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Rytprūsiai'
+  temporaliniai_duomenys: 'įvykio data: 1939 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, faktinis ir paremtas citatoje nurodytu skaičiumi.'
   pagrindžia:
     - c-002
 
@@ -55,6 +60,8 @@ Nenurodyta
 - t-002
   global_id: t-54252
   teiginys: 'Vyskupas Motiejus Valančius ragino nepriimti valdžios peršamų knygų ir slapta organizavo lietuviškos spaudos spausdinimą Rytprūsiuose bei platinimą Lietuvoje.'
+  sudarymo_pagrindimas: 'Citata palaiko teiginį, bet dalinį asmens įvardijimą reikia išplėsti pagal kontekstą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]; mentioned_person: [[objektai/autoriai/Motiejus Valančius|Motiejus Valančius]]; mentioned_place: Lietuva; mentioned_place: Rytprūsiai'
   pagrindžia:
     - c-001
 
@@ -62,6 +69,7 @@ Nenurodyta
 - t-003
   global_id: t-54254
   teiginys: 'Lietuviška spauda tradiciniu raidynu buvo spausdinama Rytprūsiuose ir nelegaliai platinama Lietuvoje.'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Rytprūsiai'
   pagrindžia:
     - c-001
 
@@ -69,6 +77,14 @@ Nenurodyta
 - t-004
   global_id: t-183314
   teiginys: 'Nepaisant griežtų bausmių knygnešiams, nelegalus lietuviškos spaudos platinimas palaikė spaudos srautą į Lietuvą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradiniame teiginyje yra antraštės, puslapio ir OCR triukšmo.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Rytprūsiai'
+  temporaliniai_duomenys: 'įvykio data: 1939 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradiniame teiginyje yra antraštės, puslapio ir OCR triukšmo.'
   pagrindžia:
     - c-002
 
@@ -113,13 +129,3 @@ Nenurodyta
   pagrindžia:
     - t-004
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Motiejus]]
-- [[objektai/autoriai/Motiejus Valančius]]
-- [[objektai/daiktai/Spaudos leidiniai kaip kontrabandiniai objektai]]
-- [[objektai/zodynas/knygnešystė]]
-- [[objektai/zodynas/knygnešystė knygnešiai]]

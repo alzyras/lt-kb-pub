@@ -44,6 +44,11 @@ Derybos neįvyko valdovų sąlygomis, todėl buvo grįžta prie karo.
 - t-001
   global_id: t-66816
   teiginys: '1358 m. pasiuntinybėje dėl krikšto Lietuvos valdovai reikalavo, kad Ordinas grąžintų žemes iki Deimės ir Alės upių ir keltųsi kovoti su totoriais.'
+  sudarymo_pagrindimas: 'Teiginys paremtas citata, bet reikia aiškiai susieti su įvykiu ir sutvarkyti formuluotę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Vokiečių ordinas|Vokiečių ordinas]]; mentioned_object: [[objektai/zodynas/ciesorius|ciesorius]]; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Rusija; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1358 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys paremtas citata, bet reikia aiškiai susieti su įvykiu ir sutvarkyti formuluotę.'
   pagrindžia:
     - c-001
 
@@ -51,6 +56,11 @@ Derybos neįvyko valdovų sąlygomis, todėl buvo grįžta prie karo.
 - t-002
   global_id: t-66817
   teiginys: '1358 m. Niurnbergo seimui pateiktas krikšto pasiūlymas buvo politinis manevras, nes jo sąlygos deryboms netiko.'
+  sudarymo_pagrindimas: 'Reikia tiksliau įvardyti Niurnbergo seimą ir pašalinti neaiškų junginį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lietuva; mentioned_place: Niurnbergas; mentioned_place: Prūsai; mentioned_place: Rusija'
+  temporaliniai_duomenys: 'įvykio data: 1358 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia tiksliau įvardyti Niurnbergo seimą ir pašalinti neaiškų junginį.'
   pagrindžia:
     - c-002
 
@@ -93,19 +103,3 @@ Derybos neįvyko valdovų sąlygomis, todėl buvo grįžta prie karo.
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/asmenys/Karolis IV]]
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Kuršiai]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/grupes/Vokiečių ordinas]]
-- [[objektai/zodynas/Adynos|adynos]]
-- [[objektai/zodynas/ciesorius]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/ivykiai/Pasiuntinybė į Nürnbergą dėl krikšto (1358 m.)]]

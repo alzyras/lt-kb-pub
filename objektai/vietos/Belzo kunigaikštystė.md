@@ -18,6 +18,11 @@ Mazovijos valdovas Kazimieras su savo kariais žiauriai nuniokojo Belzo kunigaik
 - t-001
   global_id: t-185258
   teiginys: 'Mazovijos valdovas Kazimieras su savo kariais žiauriai nuniokojo Belzo kunigaikštystę.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Belzo kunigaikštystę.'
+  susije_objektai: 'mentioned_place: Belzas; mentioned_place: Mazovija'
   pagrindžia:
     - c-001
 

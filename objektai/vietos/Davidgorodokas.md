@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Gorodokas veikiausiai tapatinamas su Davidgorodoku. Davidgorodokas lokalizuojamas apie 120 km į pietus nuo Slucko ir apie 12 km į pietus nuo Pripetės. Gorodokas komentare veikiausiai tapatinamas su Davidgorodoku, esančiu apie 120 km į pietus nuo Slucko.
+Gorodokas veikiausiai tapatinamas su Davidgorodoku. Davidgorodokas lokalizuojamas apie 120 km į pietus nuo Slucko ir apie 12 km į pietus nuo Pripetės.
 
 ## Teiginiai
 
@@ -20,6 +20,9 @@ Gorodokas veikiausiai tapatinamas su Davidgorodoku. Davidgorodokas lokalizuojama
 - t-001
   global_id: t-187218
   teiginys: 'Gorodokas veikiausiai tapatinamas su Davidgorodoku.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys aiškiai perteikia komentare pateiktą tapatinimą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Gričino pelkės; mentioned_place: Pripetė'
   pagrindžia:
     - c-001
 
@@ -27,6 +30,9 @@ Gorodokas veikiausiai tapatinamas su Davidgorodoku. Davidgorodokas lokalizuojama
 - t-002
   global_id: t-187219
   teiginys: 'Davidgorodokas lokalizuojamas apie 120 km į pietus nuo Slucko ir apie 12 km į pietus nuo Pripetės.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra konkretus, gramatiškas ir paremtas citatos lokalizacija.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Gričino pelkės; mentioned_place: Pripetė; mentioned_place: Sluckas'
   pagrindžia:
     - c-001
 
@@ -34,6 +40,11 @@ Gorodokas veikiausiai tapatinamas su Davidgorodoku. Davidgorodokas lokalizuojama
 - t-003
   global_id: t-187569
   teiginys: 'Gorodokas komentare veikiausiai tapatinamas su Davidgorodoku, esančiu apie 120 km į pietus nuo Slucko.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys tiksliai sujungia komentaro tapatinimą ir lokalizaciją.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Gričino pelkės; mentioned_place: Pripetė; mentioned_place: Sluckas'
   pagrindžia:
     - c-001
 

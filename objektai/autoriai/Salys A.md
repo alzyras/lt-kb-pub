@@ -3,6 +3,9 @@ tipas: autorius
 pavadinimas: 'Salys A'
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+datos: []
+date_start: ''
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -10,12 +13,14 @@ tags:
   - kraštas
   - ordinas
   - pilis
+amziai: []
+periodo_grupes: []
 ---
 # Salys A
 
 ## Santrauka
 
-Asmenvardžio Ramego (Salys A., Skalva, p. 533), greičiausiai jis lygintinas su lie. A. Salys Ragainės vardo kilmę siejo su Lietuva.
+Dusburgietis teigia, kad didysis..., p. 11; Salys A. Dusburgietis teigia, kad 3, p. 115; Salys A. Dusburgietis teigia, kad manoma, kad vardas atėjęs iš Lietuvos (Salys A., Skalva, p. 537), bet Semboje buvusi Ragayne (GAO, p. 137, plg.
 
 ## Teiginiai
 
@@ -23,6 +28,8 @@ Asmenvardžio Ramego (Salys A., Skalva, p. 533), greičiausiai jis lygintinas su
 - t-001
   global_id: t-64844
   teiginys: 'Asmenvardžio Ramego (Salys A., Skalva, p. 533), greičiausiai jis lygintinas su lie.'
+  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Nemunas; mentioned_place: Šilutė'
   pagrindžia:
     - c-002
 
@@ -30,6 +37,11 @@ Asmenvardžio Ramego (Salys A., Skalva, p. 533), greičiausiai jis lygintinas su
 - t-002
   global_id: t-64846
   teiginys: 'A. Salys Ragainės vardo kilmę siejo su Lietuva.'
+  sudarymo_pagrindimas: 'Citata palaiko aiškią autoriaus poziciją, o pradinė formuluotė yra fragmentiška.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/A. Salys|A. Salys]]; mentioned_person: [[objektai/autoriai/Martynas Mažvydas Vaitkūnas|Martynas Mažvydas Vaitkūnas]]; mentioned_place: Lietuva; mentioned_place: Ragainė; mentioned_place: Semba'
+  temporaliniai_duomenys: 'įvykio data: 1312 m.; įvykio data: 1549 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko aiškią autoriaus poziciją, o pradinė formuluotė yra fragmentiška.'
   pagrindžia:
     - c-001
 
@@ -64,7 +76,3 @@ Asmenvardžio Ramego (Salys A., Skalva, p. 533), greičiausiai jis lygintinas su
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]

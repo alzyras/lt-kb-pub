@@ -9,10 +9,10 @@ date_start: '1831'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XIX'
 tags:
   - grupe
+amziai:
+  - 'XIX'
 ---
 # Chlapovskio kariuomenė
 
@@ -21,18 +21,18 @@ tags:
 Bet Chlapovskis, kurio vadovybėje buvo ir Gelgaudas, užuot kovojęs su rusais, prieš pereidamas Prūsijos sieną, padėjo ginklus.
 
 ## Teiginiai
+
 <a id="claim-t-168145"></a>
 - t-001
   global_id: t-168145
   teiginys: 'Chlapovskio vadovaujama kariuomenė nekovojo su rusais ir, prieš pereidama Prūsijos sieną, padėjo ginklus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_place: Kuršas; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Chlapovskio vadovaujama kariuomenė nekovojo su rusais ir, prieš pereidama Prūsijos sieną, padėjo ginklus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Krašto
@@ -42,15 +42,8 @@ Bet Chlapovskis, kurio vadovybėje buvo ir Gelgaudas, užuot kovojęs su rusais,
     Bet Chlapovskis, kurio vadovybėje buvo ir Gelgaudas, užuot
     kovojęs su rusais, prieš pereidamas Prūsijos sieną, padėjo gink-
     lus.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Ginklai]]
-- [[objektai/grupes/Rusai]]

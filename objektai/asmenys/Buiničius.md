@@ -31,9 +31,13 @@ Jam vadovavo majoras Jacenka ir štabo viršininkas majoras Buiničius.
 - t-001
   global_id: t-40074
   teiginys: 'Majoras Buiničius buvo NKVD kariuomenės 220-ojo Kutuzovo ordino pulko štabo viršininkas Kalniškės miško mūšyje.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/ulonai|ulonai]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas Neifalta-Lakūnas|Jonas Neifalta-Lakūnas]]; mentioned_place: Dainava; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1945 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/grupes/NKVD 220-ojo Kutuzovo ordino pasienio pulkas.md#claim-t-80643|NKVD 220-ojo Kutuzovo ordino pasienio pulkas]]: 1945 m. gegužės 16 d. Kalniškės miške partizanus puolė 1-ojo Pabaltijo fronto NKVD kariuomenės 220-asis Kutuzovo ordino pulkas.
+- susijęs iš Kalniškės miškas: 1945 m. gegužės 16 d. Kalniškės miške apie 90 partizanų puolė NKVD kariuomenės 220-asis Kutuzovo ordino pulkas.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -72,11 +76,3 @@ Jam vadovavo majoras Jacenka ir štabo viršininkas majoras Buiničius.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/NKVD]]
-- [[objektai/zodynas/Adynos|adynos]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/ulonai]]
-- [[objektai/grupes/NKVD 220-ojo Kutuzovo ordino pasienio pulkas]]

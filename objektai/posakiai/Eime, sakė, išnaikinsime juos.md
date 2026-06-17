@@ -22,6 +22,8 @@ Dusburgietis teigia, kad „Eime, sakė, išnaikinsime juos, kad šios tautos ne
 - t-001
   global_id: t-59091
   teiginys: 'Petras Dusburgietis posakį „Eime, sakė, išnaikinsime juos“ sieja su Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsupėjais.'
+  sudarymo_pagrindimas: 'Pradinis teiginys kartoja citatą; citata leidžia suformuluoti kontekstinį faktą apie posakio vartojimą.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/Petras Dusburgietis|Petras Dusburgietis]]; mentioned_place: Bartenšteinas; mentioned_place: Kroicburgas'
   pagrindžia:
     - c-001
 
@@ -43,8 +45,3 @@ Dusburgietis teigia, kad „Eime, sakė, išnaikinsime juos, kad šios tautos ne
   pagrindžia:
     - t-001
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/Petras Dusburgietis]]
-- [[objektai/zodynas/Belialo sūnūs]]

@@ -28,6 +28,11 @@ Dusburgietis teigia, kad matusevičiūtė I.
 - t-001
   global_id: t-60750
   teiginys: 'I. Matusevičiūtė 1939 m. paskelbė straipsnį „Kiek naujos medžiagos prūsų vardynui“.'
+  sudarymo_pagrindimas: 'Bibliografinė citata pagrindžia autorę, straipsnio pavadinimą ir metus.'
+  susije_objektai: 'mentioned_place: Prūsai'
+  temporaliniai_duomenys: 'įvykio data: 1939 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Bibliografinė citata pagrindžia autorę, straipsnio pavadinimą ir metus.'
   pagrindžia:
     - c-001
 

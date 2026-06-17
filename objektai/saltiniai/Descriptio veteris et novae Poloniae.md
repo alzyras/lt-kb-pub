@@ -26,6 +26,7 @@ Kai kurie mūsų senieji autoriai taip pat rašo - Vigilia, užuot rašę Vilija
 - t-001
   global_id: t-88416
   teiginys: 'Sarnickio „Descriptio veteris et novae Poloniae“ pateikiama forma „Vigilia“ vietoje upės vardo „Vilija“.'
+  sudarymo_pagrindimas: 'Citata palaiko konkretų faktą apie veikale vartotą pavadinimo formą.'
   pagrindžia:
     - c-001
 

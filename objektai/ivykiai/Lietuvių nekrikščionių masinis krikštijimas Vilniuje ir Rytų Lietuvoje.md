@@ -1,30 +1,22 @@
 ---
-tipas: 'ivykis'
+tipas: ivykis
 pavadinimas: 'Lietuvių nekrikščionių masinis krikštijimas Vilniuje ir Rytų Lietuvoje'
-sukurta: '2026-06-16'
-variantai:
-  - '1387 m. Lietuvos krikštas Vilniuje ir Rytų Lietuvoje'
-  - 'lietuvių nekrikščionių masinis krikštijimas katalikais'
-aliases: []
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
-bukle: 'juodrastis'
-laikotarpis: '1387 m. pirmoji pusė'
 datos:
-  - '1387 m. pirmoji pusė'
-periodas: ''
-periodo_grupes: []
-amziai:
-  - 'XIV'
+  - '1387 m.'
+  - '1393 m.'
+  - '1410 m.'
+  - '1428 m.'
 date_start: '1387'
-date_end: '1387'
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: ''
-atnaujinta: '2026-06-16'
+date_end: '1428'
+sukurta: ''
+atnaujinta: ''
 tags:
   - krikštas
+amziai:
+  - 'XIV'
+  - 'XV'
 ---
 # Lietuvių nekrikščionių masinis krikštijimas Vilniuje ir Rytų Lietuvoje
 
@@ -43,27 +35,36 @@ Komentare nurodoma, kad kalbama apie lietuvių nekrikščionių masinį krikšti
 - date_end: 1387
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 <a id="claim-t-186717"></a>
 - t-001
   global_id: t-186717
-  teiginys: 'Komentare nurodoma, kad kalbama apie lietuvių nekrikščionių masinį krikštijimą katalikais Vilniuje ir visoje Rytų Lietuvoje 1387 m. pirmojoje pusėje.'
+  teiginys: 'Lietuvių nekrikščionių masinis krikštijimas katalikais vyko Vilniuje ir visoje Rytų Lietuvoje 1387 m. pirmojoje pusėje.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pašalintas komentarą minintis įvadas ir išlaikytas faktinis turinys.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Domininkonų ordinas|Domininkonų ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Dlugošas|Dlugošas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_place: Luckas; mentioned_place: Miro; mentioned_place: Vilnius; mentioned_place: Volynė'
+  temporaliniai_duomenys: 'įvykio data: 1387 m.; įvykio data: 1393 m.; įvykio data: po 1410 m.; įvykio data: 1410 m.; įvykio data: 1428 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas komentarą minintis įvadas ir išlaikytas faktinis turinys.'
   pagrindžia:
     - c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Komentare nurodoma, kad kalbama apie lietuvių nekrikščionių masinį krikštijimą katalikais Vilniuje ir visoje Rytų Lietuvoje 1387 m. pirmojoje pusėje.'
+  santrauka: 'Lietuvių nekrikščionių masinis krikštijimas katalikais vyko Vilniuje ir visoje Rytų Lietuvoje 1387 m. pirmojoje pusėje.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     Čia, veikiausiai, turima galvoje, kad Jogaila ra  Vytautu 1425—
@@ -74,17 +75,8 @@ Nenurodyta
     "  Kalbama apie lietuvių nekrikščionių masin) krikštijim ą ka­
     talikais Vilniuje ir visoje Rytų Lietuvoje 1387 m. pirm ojoje pusėje
     (jį smulkiai aprašė J . Dlugošas).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Dlugošas]]
-- [[objektai/grupes/Domininkonų ordinas]]
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
-- [[objektai/grupes/Lietuviai]]

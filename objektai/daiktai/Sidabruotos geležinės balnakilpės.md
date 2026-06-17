@@ -3,10 +3,6 @@ tipas: daiktas
 pavadinimas: 'Sidabruotos geležinės balnakilpės'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-aliases:
-  - 'objektai/daiktai/Sidabruotos geležinės XI-XII a. balnakilpės'
-variantai:
-  - 'Sidabruotos geležinės XI-XII a. balnakilpės'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -50,9 +46,13 @@ Nenurodyta
 - t-001
   global_id: t-10161
   teiginys: 'Šaltinio fragmentuose balnakilpės datuojamos XI-XIII a., o iliustracijos antraštėje – XI-XII a.'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/autoriai/Hermanas Vartbergė.md#claim-t-171495|Hermanas Vartbergė]]: Hermano Vartbergės „Livonijos kronikoje“ aprašytas 1236 m. Saulės mūšis ir jo pasekmės Kalavijuočių ordinui.
+- susijęs iš [[objektai/daiktai/Dviašmenis kalavijas.md#claim-t-71559|Dviašmenis kalavijas]]: X–XI a. dviašmenių kalavijų randama ir to laikotarpio kapuose Lietuvoje.
+- susijęs iš [[objektai/daiktai/Dviašmenis kalavijas.md#claim-t-71560|Dviašmenis kalavijas]]: X–XI a. Vakarų Europoje paplitusių dviašmenių kalavijų randama ir to laikotarpio kapuose Lietuvoje.
+- susijęs iš [[objektai/daiktai/Dviašmenis kalavijas.md#claim-t-71561|Dviašmenis kalavijas]]: X–XI a. dviašmenis kalavijas buvo paplitęs Vakarų Europoje.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -65,8 +65,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Dviašmenis kalavijas]]
-- [[objektai/autoriai/Hermanas Vartbergė]]

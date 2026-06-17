@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Saksų karininko Sprangerio vadovaujamas dalinys turėjo užimti Šimonių-Kupiškio liniją ir apsaugoti Ukmergės rinktinės kairįjį sparną.
+Sprangerio vadovaujamas dalinys, veikiantis pagal atskirą įsakymą, turėjo užimti ŠimoniųKupiškio liniją ir apsaugoti Ukmergės rinktinės kairįjį sparną.
 
 ## Teiginiai
 
@@ -20,6 +20,8 @@ Saksų karininko Sprangerio vadovaujamas dalinys turėjo užimti Šimonių-Kupi�
 - t-001
   global_id: t-40425
   teiginys: 'Saksų karininko Sprangerio vadovaujamas dalinys turėjo užimti Šimonių-Kupiškio liniją ir apsaugoti Ukmergės rinktinės kairįjį sparną.'
+  sudarymo_pagrindimas: 'Reikia aiškiau įvardyti Sprangerio pareigas, kurias pateikia citata.'
+  susije_objektai: 'mentioned_place: Kupiškis; mentioned_place: Ukmergė'
   pagrindžia:
     - c-001
 

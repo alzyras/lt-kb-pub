@@ -39,6 +39,8 @@ Nenurodyta
 - t-001
   global_id: t-75132
   teiginys: 'Užpuolusi Lenkiją, Vokietija spaudė Lietuvą žygiuoti į Vilnių ir žadėjo paramą aviacija, tankais bei artilerija.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiksliai atitinka citatos informaciją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Jaunieji tautininkai|Jaunieji tautininkai]]; mentioned_group: [[objektai/grupes/Šaulių sąjunga|Šaulių sąjunga]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_place: Vokietija'
   pagrindžia:
     - c-001
 
@@ -46,6 +48,7 @@ Nenurodyta
 - t-002
   global_id: t-75133
   teiginys: 'Sovietai taip pat nepatarė Lietuvai imti Vilniaus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Anglai|Anglai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -53,6 +56,8 @@ Nenurodyta
 - t-003
   global_id: t-75134
   teiginys: 'Vokietijos ir Lenkijos karo metu voldemarininkai, Šaulių sąjunga ir jaunieji tautininkai ragino Lietuvos vyriausybę jėga atsiimti Vilnių.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys ir paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Jaunieji tautininkai|Jaunieji tautininkai]]; mentioned_group: [[objektai/grupes/Šaulių sąjunga|Šaulių sąjunga]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_place: Vokietija'
   pagrindžia:
     - c-001
 
@@ -87,15 +92,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Anglai]]
-- [[objektai/daiktai/Artilerija]]
-- [[objektai/grupes/Jaunieji tautininkai]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/grupes/Šaulių sąjunga]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/grupes/Lietuvos šaulių sąjunga]]
-- [[objektai/grupes/Voldemarininkai]]

@@ -30,6 +30,11 @@ Tęstas 1902 m. Kazimiero Būgos pradėtas lietuvių kalbos žodyno sudarymas (p
 - t-001
   global_id: t-67437
   teiginys: 'Šeštasis „Lietuvių kalbos žodyno“ tomas išleistas 1962 m.'
+  sudarymo_pagrindimas: 'Pradinė formuluotė fragmentiška; citata nurodo tomą ir metus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
+  temporaliniai_duomenys: 'įvykio data: 1962 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinė formuluotė fragmentiška; citata nurodo tomą ir metus.'
   pagrindžia:
     - c-001
 
@@ -37,6 +42,8 @@ Tęstas 1902 m. Kazimiero Būgos pradėtas lietuvių kalbos žodyno sudarymas (p
 - t-002
   global_id: t-67439
   teiginys: 'Lietuvių kalbos žodyne krivūlė aiškinama kaip kreiva lazda, buvusi krivio valdžios ženklu ir žmonių šaukimo į kuopą priemone.'
+  sudarymo_pagrindimas: 'Citata palaiko glaustą teiginį apie žodyne pateiktą krivūlės apibrėžimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Krivis|Krivis]]'
   pagrindžia:
     - c-002
 
@@ -44,6 +51,14 @@ Tęstas 1902 m. Kazimiero Būgos pradėtas lietuvių kalbos žodyno sudarymas (p
 - t-003
   global_id: t-183364
   teiginys: 'Kazimiero Būgos 1902 m. pradėtas „Lietuvių kalbos žodynas“ baigtas 2001 m.; išleista 20 tomų su apie puse milijono žodžių.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai pagrįstas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
+  temporaliniai_duomenys: 'įvykio data: 1902 m.; įvykio data: 2001 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai pagrįstas citata.'
   pagrindžia:
     - c-003
 

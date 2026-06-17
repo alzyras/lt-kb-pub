@@ -10,7 +10,7 @@ atnaujinta: ''
 
 ## Santrauka
 
-Šubravcų draugijai priklausė universiteto elitas, profesoriai ir įtakingi miesto gyventojai. Šubravcų draugijos nariai pasivadino senovės lietuvių dievybių vardais. Šubravcų draugijos kodekse buvo suformuluotos nuo įprastų aukštuomenės normų besiskyrusios narių elgesio ir veiklos normos.
+Šubravcų draugija buvo Vilniuje veikusi švietėjiška kultūrinė draugija, kuriai priklausė universiteto elitas, profesoriai ir įtakingi miesto gyventojai. Jos nariai naudojo senovės lietuvių dievybių vardus, kodekse formulavo savitas elgesio normas, o leidžiamas laikraštis `Wiadomości brukowe` išgarsino draugiją už Lietuvos ribų.
 
 ## Pavadinimai šaltiniuose
 
@@ -42,6 +42,9 @@ Vilniuje veikusi kultūrinė ir švietėjiška draugija.
 - t-001
   global_id: t-55109
   teiginys: 'Šubravcų draugijai priklausė universiteto elitas, profesoriai ir įtakingi miesto gyventojai.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas citata apie Šubravcų draugijos sudėtį.'
+  susije_objektai: 'owner: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; owner: [[objektai/asmenys/Janas Chodzka|Janas Chodzka]]; owner: [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)|Jokūbas (vėliau Urbonas IV)]]; owner: [[objektai/asmenys/Jokūbas Šimkevičius|Jokūbas Šimkevičius]]; owner: [[objektai/asmenys/Juozapas (Konstantinopolio patriarchas)|Juozapas (Konstantinopolio patriarchas)]]; owner: [[objektai/asmenys/Juozapas Zavadskis|Juozapas Zavadskis]]; owner: [[objektai/asmenys/Kazimieras Kontrimas|Kazimieras Kontrimas]]; owner: [[objektai/grupes/Lietuviai|Lietuviai]]; owner: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; owner: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/asmenys/Janas Chodzka|Janas Chodzka]]; mentioned_person: [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)|Jokūbas (vėliau Urbonas IV)]]; mentioned_person: [[objektai/asmenys/Jokūbas Šimkevičius|Jokūbas Šimkevičius]]; mentioned_person: [[objektai/asmenys/Juozapas (Konstantinopolio patriarchas)|Juozapas (Konstantinopolio patriarchas)]]; mentioned_person: [[objektai/asmenys/Juozapas Zavadskis|Juozapas Zavadskis]]; mentioned_person: [[objektai/asmenys/Kazimieras Kontrimas|Kazimieras Kontrimas]]; mentioned_person: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Šubravcų draugija|Šubravcų draugija]] priklausė [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; [[objektai/grupes/Šubravcų draugija|Šubravcų draugija]] priklausė [[objektai/asmenys/Janas Chodzka|Janas Chodzka]]; [[objektai/grupes/Šubravcų draugija|Šubravcų draugija]] priklausė [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)|Jokūbas (vėliau Urbonas IV)]]; [[objektai/grupes/Šubravcų draugija|Šubravcų draugija]] priklausė [[objektai/asmenys/Jokūbas Šimkevičius|Jokūbas Šimkevičius]]; [[objektai/grupes/Šubravcų draugija|Šubravcų draugija]] priklausė [[objektai/asmenys/Juozapas (Konstantinopolio patriarchas)|Juozapas (Konstantinopolio patriarchas)]]; [[objektai/grupes/Šubravcų draugija|Šubravcų draugija]] priklausė [[objektai/asmenys/Juozapas Zavadskis|Juozapas Zavadskis]]; [[objektai/grupes/Šubravcų draugija|Šubravcų draugija]] priklausė [[objektai/asmenys/Kazimieras Kontrimas|Kazimieras Kontrimas]]; [[objektai/grupes/Šubravcų draugija|Šubravcų draugija]] priklausė [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; [[objektai/grupes/Šubravcų draugija|Šubravcų draugija]] priklausė [[objektai/grupes/Lietuviai|Lietuviai]]; [[objektai/grupes/Šubravcų draugija|Šubravcų draugija]] priklausė Vilnius'
   pagrindžia:
     - c-001
 
@@ -49,6 +52,8 @@ Vilniuje veikusi kultūrinė ir švietėjiška draugija.
 - t-002
   global_id: t-55110
   teiginys: 'Šubravcų draugijos nariai pasivadino senovės lietuvių dievybių vardais.'
+  sudarymo_pagrindimas: 'Teiginys yra glaustas, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/asmenys/Janas Chodzka|Janas Chodzka]]; mentioned_person: [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)|Jokūbas (vėliau Urbonas IV)]]; mentioned_person: [[objektai/asmenys/Jokūbas Šimkevičius|Jokūbas Šimkevičius]]; mentioned_person: [[objektai/asmenys/Juozapas (Konstantinopolio patriarchas)|Juozapas (Konstantinopolio patriarchas)]]; mentioned_person: [[objektai/asmenys/Juozapas Zavadskis|Juozapas Zavadskis]]; mentioned_person: [[objektai/asmenys/Kazimieras Kontrimas|Kazimieras Kontrimas]]; mentioned_person: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -56,6 +61,8 @@ Vilniuje veikusi kultūrinė ir švietėjiška draugija.
 - t-003
   global_id: t-55111
   teiginys: 'Šubravcų draugijos kodekse buvo suformuluotos nuo įprastų aukštuomenės normų besiskyrusios narių elgesio ir veiklos normos.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiksliai perteikia citatos informaciją apie draugijos kodeksą.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.)|Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.)]]'
   pagrindžia:
     - c-002
 
@@ -63,6 +70,8 @@ Vilniuje veikusi kultūrinė ir švietėjiška draugija.
 - t-004
   global_id: t-55112
   teiginys: 'Šubravcų draugijos humoristinis laikraštis Wiadomości brukowe išgarsino draugiją net už Lietuvos ribų.'
+  sudarymo_pagrindimas: 'Perrašyta pašalinant netinkamą žymėjimą ir įtraukiant citatoje nurodytą laikraščio pobūdį.'
+  susije_objektai: 'mentioned_place: Anglija; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 
@@ -70,9 +79,30 @@ Vilniuje veikusi kultūrinė ir švietėjiška draugija.
 - t-005
   global_id: t-81752
   teiginys: 'Vilniuje veikusiai Šubravcų draugijai priklausė universiteto elitas, profesoriai ir įtakingi miesto gyventojai.'
+  sudarymo_pagrindimas: 'Teiginys palaikomas, bet reikia pašalinti OCR triukšmą ir sutvarkyti sakinį.'
+  susije_objektai: 'owner: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; owner: [[objektai/asmenys/Janas Chodzka|Janas Chodzka]]; owner: [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)|Jokūbas (vėliau Urbonas IV)]]; owner: [[objektai/asmenys/Jokūbas Šimkevičius|Jokūbas Šimkevičius]]; owner: [[objektai/asmenys/Juozapas (Konstantinopolio patriarchas)|Juozapas (Konstantinopolio patriarchas)]]; owner: [[objektai/asmenys/Juozapas Zavadskis|Juozapas Zavadskis]]; owner: [[objektai/asmenys/Kazimieras Kontrimas|Kazimieras Kontrimas]]; owner: [[objektai/grupes/Lietuviai|Lietuviai]]; owner: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; owner: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/asmenys/Janas Chodzka|Janas Chodzka]]; mentioned_person: [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)|Jokūbas (vėliau Urbonas IV)]]; mentioned_person: [[objektai/asmenys/Jokūbas Šimkevičius|Jokūbas Šimkevičius]]; mentioned_person: [[objektai/asmenys/Juozapas (Konstantinopolio patriarchas)|Juozapas (Konstantinopolio patriarchas)]]; mentioned_person: [[objektai/asmenys/Juozapas Zavadskis|Juozapas Zavadskis]]; mentioned_person: [[objektai/asmenys/Kazimieras Kontrimas|Kazimieras Kontrimas]]; mentioned_person: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Šubravcų draugija|Šubravcų draugija]] priklausė [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; [[objektai/grupes/Šubravcų draugija|Šubravcų draugija]] priklausė [[objektai/asmenys/Janas Chodzka|Janas Chodzka]]; [[objektai/grupes/Šubravcų draugija|Šubravcų draugija]] priklausė [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)|Jokūbas (vėliau Urbonas IV)]]; [[objektai/grupes/Šubravcų draugija|Šubravcų draugija]] priklausė [[objektai/asmenys/Jokūbas Šimkevičius|Jokūbas Šimkevičius]]; [[objektai/grupes/Šubravcų draugija|Šubravcų draugija]] priklausė [[objektai/asmenys/Juozapas (Konstantinopolio patriarchas)|Juozapas (Konstantinopolio patriarchas)]]; [[objektai/grupes/Šubravcų draugija|Šubravcų draugija]] priklausė [[objektai/asmenys/Juozapas Zavadskis|Juozapas Zavadskis]]; [[objektai/grupes/Šubravcų draugija|Šubravcų draugija]] priklausė [[objektai/asmenys/Kazimieras Kontrimas|Kazimieras Kontrimas]]; [[objektai/grupes/Šubravcų draugija|Šubravcų draugija]] priklausė [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; [[objektai/grupes/Šubravcų draugija|Šubravcų draugija]] priklausė [[objektai/grupes/Lietuviai|Lietuviai]]; [[objektai/grupes/Šubravcų draugija|Šubravcų draugija]] priklausė Vilnius'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Janas Chodzka.md#claim-t-87698|Janas Chodzka]]: Janas Chodzka priklausė Vilniaus šubravcų draugijai ir joje pasivadino Vaižgantu.
+- susijęs iš [[objektai/asmenys/Janas Lasickis.md#claim-t-87702|Janas Lasickis]]: Jano Lasickio knygą apie žemaičių ir kitų tautų dievus išstudijavę Vilniaus šubravcai pasivadino senovės lietuvių dievybių vardais.
+- susijęs iš [[objektai/asmenys/Jokūbas Šimkevičius.md#claim-t-87709|Jokūbas Šimkevičius]]: Jokūbas Šimkevičius, Vilniaus šubravcų draugijos narys, pasivadino Perkūnu.
+- susijęs iš [[objektai/asmenys/Juozapas Zavadskis.md#claim-t-87736|Juozapas Zavadskis]]: Šubravcų draugijoje Juozapas Zavadskis buvo pasivadinęs senovės lietuvių dievybės Svaistiko vardu.
+- susijęs iš [[objektai/asmenys/Kazimieras Kontrimas.md#claim-t-87751|Kazimieras Kontrimas]]: Kazimieras Kontrimas, priklausęs Vilniaus šubravcų draugijai, pasirinko senovės lietuvių dievybės Pokliaus vardą.
+- susijęs iš [[objektai/autoriai/Janas Lasickis Joh. Lasicius.md#claim-t-88066|Janas Lasickis Joh. Lasicius]]: Šubravcų draugijos nariai, išstudijavę Jano Lasickio knygą apie žemaičių dievus, pasivadino senovės lietuvių dievybių vardais.
+- susijęs iš [[objektai/paprociai/Visuomenės būklės ir reformų aptarimas draugijose, salonuose ir vakaruose.md#claim-t-55168|Visuomenės būklės ir reformų aptarimas draugijose, salonuose ir vakaruose]]: Filantropinių organizacijų ir susivienijimų nariai aptardavo visuomenės būklę ir tardavosi dėl konkrečių bei numatomų tikslų.
+- susijęs iš [[objektai/paprociai/Visuomenės būklės ir reformų aptarimas draugijose, salonuose ir vakaruose.md#claim-t-81871|Visuomenės būklės ir reformų aptarimas draugijose, salonuose ir vakaruose]]: Vilniuje legalios filantropinės organizacijos ir susivienijimai aptardavo visuomenės būklę ir reformų tikslus.
+- susijęs iš [[objektai/paprociai/Šubravcų elgesio kodekso normos ir saviugdos reikalavimai.md#claim-t-54737|Šubravcų elgesio kodekso normos ir saviugdos reikalavimai]]: Šubravcų kodeksas smerkė girtavimą ir azartinius žaidimus, o XII straipsnis reikalavo, kad narys kauptų nuosavą biblioteką.
+- susijęs iš [[objektai/paprociai/Šubravcų elgesio kodekso normos ir saviugdos reikalavimai.md#claim-t-54738|Šubravcų elgesio kodekso normos ir saviugdos reikalavimai]]: Šubravcų draugijos kodekse narių elgesio ir veiklos normos griežtai skyrėsi nuo įprastų aukštuomenės normų.
+- susijęs iš [[objektai/paprociai/Šubravcų narių pasivadinimas senovės lietuvių dievybių vardais.md#claim-t-55171|Šubravcų narių pasivadinimas senovės lietuvių dievybių vardais]]: Išstudijavę Jano Lasickio knygą, Šubravcų draugijos nariai pasivadino senovės lietuvių dievybių vardais.
+- susijęs iš [[objektai/paprociai/Šubravcų narių pasivadinimas senovės lietuvių dievybių vardais.md#claim-t-81873|Šubravcų narių pasivadinimas senovės lietuvių dievybių vardais]]: Vilniuje veikusi šubravcų draugija išgarsėjo, o jos nariai pasivadino senovės lietuvių dievybių vardais.
+- susijęs iš [[objektai/paprociai/Šubravcų satyrinė spaudos kritika.md#claim-t-54739|Šubravcų satyrinė spaudos kritika]]: Šubravcų laikraštis Wiadomości brukowe satyriškai vaizdavo kilmingųjų kasdienybę, kritikavo baudžiavą, obskurantizmą ir tradicionalizmą.
+- susijęs iš [[objektai/paprociai/Šubravcų satyrinė spaudos kritika.md#claim-t-54740|Šubravcų satyrinė spaudos kritika]]: Šubravcų draugijos nariai leido humoristinį laikraštį Wiadomości brukowe, kuriame aktyviai bendradarbiavo ir M. Balinskis.
+- susijęs iš Apie žemaičių, kitų sarmatų bei netikrų krikščionių dievus: Išstudijavę Jano Lasickio knygą apie dievus, šubravcų draugijos nariai pasivadino senovės lietuvių dievybių vardais.
+- susijęs iš Spectator: Anglijoje leidžiamo žurnalo Spectator tradicijas.
+- susijęs iš Wiadomości brukowe: Humoristinį laikraštį „Wiadomości brukowe“ leido Šubravcų draugijos nariai, o jame aktyviai bendradarbiavo Michałas Balińskis.
+- susijęs iš Šubravcų draugijos kodeksas: Šubravcų draugijos kodekse nustatytos narių elgesio ir veiklos normos griežtai skyrėsi nuo įprastų aukštuomenės normų.
+- susijęs iš Šubravcų draugijos kodeksas: XII Šubravcų kodekso straipsnis reikalavo, kad draugijos narys kauptų biblioteką su visuotinės istorijos ir geografijos veikalais.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -134,21 +164,14 @@ Vilniuje veikusi kultūrinė ir švietėjiška draugija.
     - t-004
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Aleksandras Balinskis]]
-- [[objektai/asmenys/Kazimieras Didysis]]
-- [[objektai/ivykiai/Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.)]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/autoriai/Mykolas Balinskis]]
-- [[objektai/paprociai/Visuomenės būklės ir reformų aptarimas draugijose, salonuose ir vakaruose]]
-- [[objektai/paprociai/Šubravcų elgesio kodekso normos ir saviugdos reikalavimai]]
-- [[objektai/paprociai/Šubravcų narių pasivadinimas senovės lietuvių dievybių vardais]]
-- [[objektai/paprociai/Šubravcų satyrinė spaudos kritika]]
-- [[objektai/asmenys/Janas Chodzka]]
-- [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)]]
-- [[objektai/asmenys/Jokūbas Šimkevičius]]
-- [[objektai/asmenys/Juozapas (Konstantinopolio patriarchas)]]
-- [[objektai/asmenys/Juozapas Zavadskis]]
-- [[objektai/asmenys/Kazimieras Kontrimas]]
-- [[objektai/asmenys/Janas Lasickis]]
-- [[objektai/autoriai/Janas Lasickis Joh. Lasicius]]
+- [[objektai/asmenys/Aleksandras Balinskis]] susije_su Šubravcų draugija
+- Šubravcų draugija priklause [[objektai/asmenys/Aleksandras Balinskis]]
+- Šubravcų draugija priklause [[objektai/asmenys/Janas Chodzka]]
+- Šubravcų draugija priklause [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)]]
+- Šubravcų draugija priklause [[objektai/asmenys/Jokūbas Šimkevičius]]
+- Šubravcų draugija priklause [[objektai/asmenys/Juozapas (Konstantinopolio patriarchas)]]
+- Šubravcų draugija priklause [[objektai/asmenys/Juozapas Zavadskis]]
+- Šubravcų draugija priklause [[objektai/asmenys/Kazimieras Kontrimas]]
+- Šubravcų draugija priklause [[objektai/grupes/Lietuviai]]
+- Šubravcų draugija priklause [[objektai/autoriai/Mykolas Balinskis]]
+- Šubravcų draugija priklause [[objektai/vietos/Vilnius]]

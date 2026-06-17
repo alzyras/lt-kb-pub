@@ -20,6 +20,7 @@ Kariai, laukiantys komandos „ugnis“.
 - t-001
   global_id: t-39072
   teiginys: 'Kariai laukė komandos „ugnis“ ir turėjo iššauti, kai tai padarys kairėje esantis padalinys.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie komandos „ugnis“ vartojimo situaciją.'
   pagrindžia:
     - c-001
 

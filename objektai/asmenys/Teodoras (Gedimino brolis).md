@@ -21,7 +21,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Privengdamas totorių chano Uzbeko, Teodoras negalėjo palaikyti glaudesnių ryšių su Gedimino Lietuva.
+Privengdamas totorių chano Uzbeko, Teodoras tačiau negalėjo palaikyti glaudesnių ryšių su Gedimino Lietuva.
 
 ## Teiginiai
 
@@ -29,6 +29,8 @@ Privengdamas totorių chano Uzbeko, Teodoras negalėjo palaikyti glaudesnių ry�
 - t-001
   global_id: t-30391
   teiginys: 'Privengdamas totorių chano Uzbeko, Teodoras negalėjo palaikyti glaudesnių ryšių su Gedimino Lietuva.'
+  sudarymo_pagrindimas: 'Pašalinta perteklinė ir nepatogi žodžių tvarka.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_object: [[objektai/zodynas/ekspansija|ekspansija]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Teodoras|Teodoras]]; mentioned_place: Kijevas; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -50,12 +52,3 @@ Privengdamas totorių chano Uzbeko, Teodoras negalėjo palaikyti glaudesnių ry�
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Gediminas]]
-- [[objektai/asmenys/Teodoras]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/zodynas/chanas]]
-- [[objektai/zodynas/ekspansija]]
-- [[objektai/asmenys/Uzbeko]]

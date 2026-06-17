@@ -10,7 +10,7 @@ atnaujinta: ''
 
 ## Santrauka
 
-Lietuvos metraštis pasakoja, kad Kazimieras atsiėmė Smolenską. Lietuvos metraštis pasakoja, kad Kazimiero Tarybos ponai su kariuomene tris savaites stovėjo prie Smolensko, bet miesto neįveikė. Lietuvos metraštis teigia, kad Kazimiero siųsti Tarybos ponai su kariuomene prie Smolensko tris savaites neįveikė miesto, sudegino priemiesčius ir vienuolynus bei išsivedė belaisvių.
+Lietuvos metraštis pasakoja, kad Kazimiero Tarybos ponai su kariuomene tris savaites stovėjo prie Smolensko, bet miesto neįveikė. Lietuvos metraštis pasakoja, kad apgulties metu buvo deginami priemiesčiai bei vienuolynai ir vedami belaisviai.
 
 ## Laikotarpis ir datos
 
@@ -35,42 +35,61 @@ Nenurodyta
 <a id="claim-t-186633"></a>
 - t-001
   global_id: t-186633
-  teiginys: 'Lietuvos metraštis pasakoja, kad Kazimieras atsiėmė Smolenską.'
+  teiginys: 'Lietuvos metraščio pasakojime Kazimieras, pats vadovaudamas Lietuvos pajėgoms, atsiėmė Smolenską.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Pridėtas citatoje esantis kontekstas, išlaikant atribuciją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_place: Lietuva; mentioned_place: Naugardas; mentioned_place: Smolenskas'
   pagrindžia:
     - c-002
 
 <a id="claim-t-186634"></a>
 - t-002
   global_id: t-186634
-  teiginys: 'Lietuvos metraštis pasakoja, kad Kazimiero Tarybos ponai su kariuomene tris savaites stovėjo prie Smolensko, bet miesto neįveikė.'
+  teiginys: 'Lietuvos metraščio pasakojime Kazimiero Tarybos ponai su kariuomene tris savaites stovėjo prie Smolensko, bet miesto neįveikė.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Palikta chronikos pasakojimo atribucija ir sakinys sukonkretintas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_place: Lietuva; mentioned_place: Smolenskas'
   pagrindžia:
     - c-001
 
 <a id="claim-t-186635"></a>
 - t-003
   global_id: t-186635
-  teiginys: 'Lietuvos metraštis teigia, kad Kazimiero siųsti Tarybos ponai su kariuomene prie Smolensko tris savaites neįveikė miesto, sudegino priemiesčius ir vienuolynus bei išsivedė belaisvių.'
+  teiginys: 'Lietuvos metraščio pasakojime Kazimiero Tarybos ponai prie Smolensko neįveikė miesto, sudegino priemiesčius bei vienuolynus ir išsivedė belaisvių.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Sakinys patrumpintas, išlaikant citatos palaikomus veiksmus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_place: Lietuva; mentioned_place: Smolenskas'
   pagrindžia:
     - c-001
 
 <a id="claim-t-186636"></a>
 - t-004
   global_id: t-186636
-  teiginys: 'Lietuvos metraštis teigia, kad Kazimieras tą patį rudenį sutelkė Lietuvos pajėgas, pats atėjo prie Smolensko ir jį atsiėmė, o Jurgis Lengvenaitis pabėgo į Didįjį Naugardą.'
+  teiginys: 'Lietuvos metraščio pasakojime Kazimieras tą patį rudenį atsiėmė Smolenską, o Jurgis Lengvenaitis pabėgo į Didįjį Naugardą.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Sakinys sutrumpintas ir pašalinta motyvo interpretacija apie baimę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_person: [[objektai/asmenys/Jurgis Lengvenaitis|Jurgis Lengvenaitis]]; mentioned_place: Lietuva; mentioned_place: Naugardas; mentioned_place: Smolenskas'
   pagrindžia:
     - c-002
 
 <a id="claim-t-186637"></a>
 - t-005
   global_id: t-186637
-  teiginys: 'Lietuvos metraštis pasakoja, kad Smolensko valdymas buvo vėl perduotas Andriui Sakavičiui.'
+  teiginys: 'Lietuvos metraščio pasakojime Kazimieras vėl perdavė Smolensko valdymą Andriui Sakavičiui ir išvyko į Vilnių.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Pasyvi konstrukcija pakeista aiškiu veikėju ir pridėtas citatos rezultatas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_place: Lietuva; mentioned_place: Naugardas; mentioned_place: Smolenskas; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
 <a id="claim-t-186638"></a>
 - t-006
   global_id: t-186638
-  teiginys: 'Lietuvos metraštis pasakoja, kad Kazimieras tą patį rudenį pats atėjo prie Smolensko su visomis Lietuvos pajėgomis.'
+  teiginys: 'Lietuvos metraščio pasakojime Kazimieras tą patį rudenį sutelkė Lietuvos pajėgas, pats vadovavo žygiui prie Smolensko ir miestą atsiėmė.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Sakinys išplėstas citatos palaikoma žygio baigtimi.'
+  susije_objektai: 'event: [[objektai/ivykiai/Kazimiero žygis atsiimti Smolenską|Kazimiero žygis atsiimti Smolenską]]; mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Lietuva; mentioned_place: Naugardas; mentioned_place: Smolenskas'
+  semantiniai_rysiai: '[[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]] dalyvavo mūšyje [[objektai/ivykiai/Kazimiero žygis atsiimti Smolenską|Kazimiero žygis atsiimti Smolenską]]'
   pagrindžia:
     - c-002
 
@@ -124,10 +143,4 @@ Nenurodyta
     - t-005
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bajorai]]
-- [[objektai/grupes/Didžiojo Naugardo respublika]]
-- [[objektai/zodynas/didysis kunigaikštis]]
-- [[objektai/zodynas/ponai]]
-- [[objektai/asmenys/Jurgis Lengvenaitis]]
-- [[objektai/zodynas/metraštis]]
+- [[objektai/grupes/Didžiojo Naugardo respublika]] dalyvavo_musyje Kazimiero žygis atsiimti Smolenską

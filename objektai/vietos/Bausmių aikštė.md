@@ -21,6 +21,8 @@ Aikštė, kur bausti nusikaltėliai.
 - t-001
   global_id: t-86171
   teiginys: 'Bausmių aikštėje buvo baudžiami nusikaltėliai.'
+  sudarymo_pagrindimas: 'Pradinis teiginys yra fragmentiškas, todėl perrašytas į pilną sakinį.'
+  susije_objektai: 'mentioned_place: Ašmena; mentioned_place: Medininkai'
   pagrindžia:
     - c-001
 

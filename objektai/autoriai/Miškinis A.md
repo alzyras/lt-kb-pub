@@ -14,7 +14,7 @@ tags:
 
 ## Santrauka
 
-A. Miškinio nurodyta, kad Batakių dvaras atsirado XV a., o miestelis - XVI a.
+Dusburgietis teigia, kad batakių dvaras atsirado XV a., o miestelis XVI a,— Lietuvos TSR urbanistikos paminklai, 4, p. 5—8 (Miškinis A.).
 
 ## Teiginiai
 
@@ -22,6 +22,8 @@ A. Miškinio nurodyta, kad Batakių dvaras atsirado XV a., o miestelis - XVI a.
 - t-001
   global_id: t-91953
   teiginys: 'A. Miškinio nurodyta, kad Batakių dvaras atsirado XV a., o miestelis - XVI a.'
+  sudarymo_pagrindimas: 'Pradinis teiginys klaidingai priskirtas Dusburgiečiui ir turi OCR fragmentų; citata palaiko glaustą teiginį apie Miškinį.'
+  susije_objektai: 'mentioned_place: Aukaimis; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Judas Makabėjus drąsino savo nedidelį būrį prieš didelę netikėlių kariuomenę. Pasakojama, kad Judas Makabėjus krito kovoje su Bachidu ir Alchimu, o Izraelio kariuomenė turėjo bėgti. Makabėjai, laikydamiesi įstatymo ir tikėjimo, nugalėjo Antiochą Epifaną, apvalė šventas vietas ir sugrąžino žemei ramybę.
+Dusburgietis teigia, kad “ Ne kas kitas, o broliai apšvarino — kaip Judas Makabėjus — šventąją Prūsijos žemę, kurią tenykštės gentys teršė stabmeldyste, ir dabar čia kas dieną aukojama dievui Šlovės ir garbės auka. Dusburgietis teigia, kad nedera, be to, užmiršti ir šlovingų bei dievui malonių kovų Makabėjų, kurie, tyruose maitinęsi žolelėmis, nes nenorėjo susitepti nederamu maistu, uoliai paisydami įstatymo bei įkvėpti tikėjimo, nugalėjo Antiochą Epifaną ir išrovė neteisybės šaknis, tad įveikė. Dusburgietis teigia, kad šitokią narsią širdį yra turėjęs Judas Makabėjus, kuris, stovėdamas kartą su savųjų saujele prieš didžiulę netikėlių kariuomenę, tarė, drąsindamas saviškius (1 Mak 4, 8—11): „Nebijokite jų daugybės ir nenusigąskite jų puolimo.
 
 ## Teiginiai
 
@@ -23,6 +23,8 @@ Judas Makabėjus drąsino savo nedidelį būrį prieš didelę netikėlių kariu
 - t-001
   global_id: t-175237
   teiginys: 'Judas Makabėjus drąsino savo nedidelį būrį prieš didelę netikėlių kariuomenę.'
+  sudarymo_pagrindimas: 'Citata pateikia Judą Makabėjų kaip drąsinusį saviškius prieš gausesnę kariuomenę.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]'
   pagrindžia:
     - c-003
 
@@ -30,6 +32,8 @@ Judas Makabėjus drąsino savo nedidelį būrį prieš didelę netikėlių kariu
 - t-002
   global_id: t-175238
   teiginys: 'Pasakojama, kad Judas Makabėjus krito kovoje su Bachidu ir Alchimu, o Izraelio kariuomenė turėjo bėgti.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nurodo Judą Makabėjų ir tiksliai remiasi citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Bachidas|Bachidas]]'
   pagrindžia:
     - c-002
 
@@ -37,9 +41,15 @@ Judas Makabėjus drąsino savo nedidelį būrį prieš didelę netikėlių kariu
 - t-003
   global_id: t-175239
   teiginys: 'Makabėjai, laikydamiesi įstatymo ir tikėjimo, nugalėjo Antiochą Epifaną, apvalė šventas vietas ir sugrąžino žemei ramybę.'
+  sudarymo_pagrindimas: 'Pirminis teiginys per ilgas ir perteikia šaltinio fragmentą su nereikalinga atribucija.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Dovydas|Dovydas]]; mentioned_place: Šventoji'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Alchimas.md#claim-t-60232|Alchimas]]: Judas Makabėjus kovojo su Bachidu ir Alchimu, o po šių kautynių pats žuvo ir Izraelio kariuomenė turėjo bėgti.
+- susijęs iš [[objektai/asmenys/Antiochas Eupatoras.md#claim-t-60238|Antiochas Eupatoras]]: Judas Makabėjus kovojo su Antiochu Eupatoru, jo nenugalėjo ir pasuko atgal.
+- susijęs iš [[objektai/asmenys/Alchimas.md#claim-t-60232|Alchimas]]: Judas Makabėjus kovojo su Bachidu ir Alchimu, o po šių kautynių pats žuvo ir Izraelio kariuomenė turėjo bėgti.
+- susijęs iš [[objektai/asmenys/Antiochas Eupatoras.md#claim-t-60238|Antiochas Eupatoras]]: Judas Makabėjus kovojo su Antiochu Eupatoru, jo nenugalėjo ir pasuko atgal.
+- susijęs iš [[objektai/autoriai/Jordanas.md#claim-t-62623|Jordanas]]: Jordanas buvo gotų istorikas.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -101,9 +111,5 @@ Judas Makabėjus drąsino savo nedidelį būrį prieš didelę netikėlių kariu
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/ritualas]]
-
-### Susiję objektai
-- [[objektai/zodynas/netikėliai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/asmenys/Alchimas]] kariavo_pries Judas Makabėjus
+- [[objektai/asmenys/Antiochas Eupatoras]] kariavo_pries Judas Makabėjus

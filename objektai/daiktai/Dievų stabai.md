@@ -38,6 +38,8 @@ Nenurodyta
 - t-001
   global_id: t-08287
   teiginys: 'Tris dievų stabai buvo įstatyti ąžuolo uoksuose.'
+  teiginio_tipas: 'faktas'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Kūrėjų kūrėjas|Kūrėjų kūrėjas]]; mentioned_object: [[objektai/zodynas/Žynių titulai ir pareigybės|Žynių titulai ir pareigybės]]'
   pagrindžia:
     - c-001
 
@@ -45,6 +47,9 @@ Nenurodyta
 - t-002
   global_id: t-08288
   teiginys: 'Per metines viešas aukas žmonės meldėsi prie šėtroje stovinčio aukuro ir dievo stabo.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys pagrįstas citata, bet pataisytas į aiškesnį vientisą sakinį.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Aukuras|Aukuras]]; mentioned_object: [[objektai/daiktai/Duona|Duona]]; mentioned_object: [[objektai/daiktai/Taurės|Taurės]]; mentioned_object: [[objektai/zodynas/Aukausenos|Aukausenos]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_object: [[objektai/daiktai/Šėtra|Šėtra]]; mentioned_place: Viena'
   pagrindžia:
     - c-002
 
@@ -83,14 +88,3 @@ Nenurodyta
 ## Pastabos
 
 - tekste stabas minimas tik greta aukuro, be atskiro aprašymo ar formos detalės.
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Aukuras]]
-- [[objektai/daiktai/Duona]]
-- [[objektai/zodynas/Kūrėjų kūrėjas|kūrėjų kūrėjas]]
-- [[objektai/zodynas/Miera|miera]]
-- [[objektai/zodynas/Aukausenos|aukausenos]]
-- [[objektai/daiktai/Šėtra]]
-- [[objektai/paprociai/Išeiginės aukos per metines viešes]]
-- [[objektai/daiktai/Torielius]]

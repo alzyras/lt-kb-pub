@@ -27,6 +27,8 @@ PRADŽIOS PĖSTININKŲ TAKTIKA“, Andžej Geglis, dail.
 - t-001
   global_id: t-39973
   teiginys: '„XX a. pradžios pėstininkų taktika“ yra Andžejaus Geglio iliustracija.'
+  sudarymo_pagrindimas: 'Citata leidžia nustatyti iliustracijos pavadinimą ir autorių.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Nepriklausomybės kovos|Nepriklausomybės kovos]]; mentioned_person: [[objektai/autoriai/Andžej Geglis|Andžej Geglis]]'
   pagrindžia:
     - c-001
 

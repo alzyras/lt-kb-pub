@@ -29,6 +29,11 @@ Kreipėsi į mus Vilniaus miesto burmistrai ir tarybos nariai ir visi miestieči
 - t-001
   global_id: t-88207
   teiginys: '1532 m. raštu Vilniaus vaitui įsakyta neužkrauti miestiečiams prievolių ir gerbti jų Magdeburgo teises.'
+  sudarymo_pagrindimas: 'Pašalintas puslapio triukšmas; citata tiesiogiai palaiko įsakymo esmę.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Magdeburgo teisės|Magdeburgo teisės]]; mentioned_object: [[objektai/zodynas/vaitas|vaitas]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1532 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas puslapio triukšmas; citata tiesiogiai palaiko įsakymo esmę.'
   pagrindžia:
     - c-001
 

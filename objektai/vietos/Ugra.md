@@ -1,25 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Ugra'
-variantai:
-  - 'Ugros'
-  - 'Ugros upės'
-aliases: []
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
 atnaujinta: ''
-laikotarpis: ''
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: ''
 tags:
   - vieta
 ---
@@ -30,18 +15,21 @@ tags:
 Vytautas karo metu niokojo kraštą prie Ugros ir Okos upių. Vytautas ir Maskvos didysis kunigaikštis susitiko prie Ugros upės.
 
 ## Teiginiai
+
 <a id="claim-t-187364"></a>
 - t-001
   global_id: t-187364
-  teiginys: 'Vytautas karo metu niokojo kraštą prie Ugros ir Okos upių.'
+  teiginys: 'Lietuvos metraštis Vytauto žygį prie Ugros ir Okos aiškina kaip kerštą Maskvos didžiajam kunigaikščiui už įžeidimą.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Motyvo ir valdovo titulo kalba turi likti priskirta šaltiniui.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Lietuva; mentioned_place: Maskva'
   pagrindžia:
     - c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Vytautas karo metu niokojo kraštą prie Ugros ir Okos upių.'
+  santrauka: 'Lietuvos metraštis Vytauto žygį prie Ugros ir Okos aiškina kaip kerštą Maskvos didžiajam kunigaikščiui už įžeidimą.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     dausIr  jis nusiuntė pas didjjj kunigaikštį pasiunti­
@@ -52,10 +40,8 @@ Vytautas karo metu niokojo kraštą prie Ugros ir Okos upių. Vytautas ir Maskvo
     patraukė prieš Maskvos didįjį kunigaikštį, keršydamas
     jam už įžeidimą ir kariaudamas išdegino kraštą prie
     Ugros5  ir Okos upių, išsivarė daug belaisvių6 .
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

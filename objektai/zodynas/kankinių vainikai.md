@@ -28,6 +28,8 @@ Dusburgietis teigia, kad sielos „esančios išganytos“ (III, 92), o žuvę g
 - t-001
   global_id: t-58936
   teiginys: 'Petras iš Dusburgo teigė, kad Prūsijoje kritusių krikščionių sielos išganytos, o žuvusieji gauna kankinių vainikus.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas, pilnas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_person: [[objektai/asmenys/Petras iš Dusburgo|Petras iš Dusburgo]]; mentioned_place: Prūsai; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
 
@@ -57,12 +59,3 @@ Dusburgietis teigia, kad sielos „esančios išganytos“ (III, 92), o žuvę g
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/Dusburgas]]
-- [[objektai/daiktai/Kryžius]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Petras iš Dusburgo|Petras iš Dusburgo (kunigas)]]
-- [[objektai/paprociai/Ordino karo religinio įprasminimo praktika]]
-- [[objektai/zodynas/tikybos ir bažnyčios priešai]]

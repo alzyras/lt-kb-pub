@@ -20,9 +20,10 @@ Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv.
 - t-001
   global_id: t-99974
   teiginys: 'Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_place: Friburgas; mentioned_place: Šušvė; mentioned_place: Švedija; mentioned_place: Šveicarija'
   pagrindžia:
     - c-001
-
+- susijęs iš Šventaragio slėnis: Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv.
 ## Reikšmingi paminėjimai
 
 - c-001

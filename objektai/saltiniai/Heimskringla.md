@@ -27,6 +27,11 @@ Jo kū­ rinys, pavadintas Heimskringla, tai yra Pasaulis, arba tiksliau - Žem�
 - t-001
   global_id: t-88306
   teiginys: 'Heimskringla pirmą kartą iš rankraščio išspausdinta 1697 m. Stokholme islandų, švedų ir lotynų kalbomis.'
+  sudarymo_pagrindimas: 'Citata remia leidimo faktą, o pradinis tekstas turi OCR triukšmo.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Europa; mentioned_place: Skandinavija'
+  temporaliniai_duomenys: 'įvykio data: 1697 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata remia leidimo faktą, o pradinis tekstas turi OCR triukšmo.'
   pagrindžia:
     - c-001
 

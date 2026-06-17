@@ -20,6 +20,8 @@ Su Švedijos uostu Birka (= Bjaerko ») jie palaiką santykius, patys savo laiva
 - t-001
   global_id: t-28306
   teiginys: 'Sembai palaikė ryšius su Švedijos uostu Birka ir patys savo laivais ten nuplaukdavo.'
+  sudarymo_pagrindimas: 'Sutvarkytas sakinys pašalina OCR ir citavimo triukšmą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_object: [[objektai/daiktai/Birka|Birka]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/posakiai/homines humanissimi|homines humanissimi]]; mentioned_place: Švedija'
   pagrindžia:
     - c-001
 

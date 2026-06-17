@@ -22,6 +22,8 @@ Per vieną tokių antpuolių baisiausiai nukentėjo Dobry­ nės kunigaikštyst�
 - t-001
   global_id: t-86142
   teiginys: 'Per vieną lietuvių antpuolį smarkiai nukentėjo Dobrynės kunigaikštystė, tuo metu valdoma kunigaikštienės Anastazijos.'
+  sudarymo_pagrindimas: 'Citata pagrindžia faktą apie kunigaikštystės nuniokojimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Anastazija (Dobrynės kunigaikštienė)|Anastazija (Dobrynės kunigaikštienė)]]; mentioned_place: Dobrynė; mentioned_place: Mazovija; mentioned_place: Viena'
   pagrindžia:
     - c-002
 
@@ -29,9 +31,12 @@ Per vieną tokių antpuolių baisiausiai nukentėjo Dobry­ nės kunigaikštyst�
 - t-002
   global_id: t-86143
   teiginys: 'Užimtame Dobrynės mieste žuvo apie du tūkstančius gyventojų, o kunigaikštystėje buvo plėšiami ir deginami kaimai bei bažnyčios.'
+  sudarymo_pagrindimas: 'Pašalintas puslapio triukšmas; citata pagrindžia aiškų faktą apie Dobrynės miestą ir kunigaikštystę.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Dobrynė; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
-
+- susijęs iš Dobrynė: Dusburgiečio aprašyme Dobrynės kunigaikštystė minima tarp Prūsijos žemę ribojusių teritorijų.
+- susijęs iš Prūsija: Prūsijos žemę ribojo Vysla, Sūrioji jūra, Nemunas, Rusios žemė, Mazovijos kunigaikštystė ir Dobrynės kunigaikštystė.
 ## Reikšmingi paminėjimai
 
 - c-001

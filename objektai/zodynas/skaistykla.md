@@ -32,6 +32,11 @@ Dusburgietis teigia, kad laikinąja, būtent tol skaistykloje kentėti, kol tas 
 - t-001
   global_id: t-58924
   teiginys: 'Pasakojime mirusiajam amžinoji bausmė pakeista laikinomis kančiomis skaistykloje, kol giminaitis grąžins neteisėtai pasisavintą lauką.'
+  sudarymo_pagrindimas: 'Nutrūkęs fragmentas perrašytas į aiškų teiginį apie skaistyklą.'
+  susije_objektai: 'mentioned_place: Krokuva; mentioned_place: Prūsija; mentioned_place: Vysla'
+  temporaliniai_duomenys: 'įvykio data: 1244 m.; įvykio data: 1245 m.; įvykio data: 1330 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Nutrūkęs fragmentas perrašytas į aiškų teiginį apie skaistyklą.'
   pagrindžia:
     - c-001
 

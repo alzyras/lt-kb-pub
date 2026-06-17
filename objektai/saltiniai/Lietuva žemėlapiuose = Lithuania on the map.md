@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-„Lietuva žemėlapiuose = Lithuania on the map“ buvo 1999 m. Vilniuje vykusios parodos katalogas. Aldona Bieliūnienė ir kiti parengė 1999 m. Vilniuje išleistą parodos katalogą „Lietuva žemėlapiuose = Lithuania on the map“. „Lietuva žemėlapiuose = Lithuania on the map“ buvo 1999 m. Vilniuje vykusios parodos katalogas.
+Lietuva žemėlapiuose: = Lithuania on the map: paroda, Vilnius, 1999 09 26–1999 12 11: katalogas.
 
 ## Teiginiai
 
@@ -29,6 +29,11 @@ amziai:
 - t-001
   global_id: t-45687
   teiginys: '„Lietuva žemėlapiuose = Lithuania on the map“ buvo 1999 m. Vilniuje vykusios parodos katalogas.'
+  sudarymo_pagrindimas: 'Citata leidžia suformuluoti aiškų faktą apie leidinio pobūdį.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/Aldona Bieliūnienė|Aldona Bieliūnienė]]; mentioned_person: [[objektai/asmenys/Aldona Gediminaitė|Aldona Gediminaitė]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1999 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata leidžia suformuluoti aiškų faktą apie leidinio pobūdį.'
   pagrindžia:
     - c-002
 
@@ -36,6 +41,11 @@ amziai:
 - t-002
   global_id: t-45688
   teiginys: 'Aldona Bieliūnienė ir kiti parengė 1999 m. Vilniuje išleistą parodos katalogą „Lietuva žemėlapiuose = Lithuania on the map“.'
+  sudarymo_pagrindimas: 'Citata leidžia tiksliau įvardyti leidinį kaip parodos katalogą.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/Aldona Bieliūnienė|Aldona Bieliūnienė]]; mentioned_person: [[objektai/asmenys/Aldona Gediminaitė|Aldona Gediminaitė]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1999 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata leidžia tiksliau įvardyti leidinį kaip parodos katalogą.'
   pagrindžia:
     - c-002
 

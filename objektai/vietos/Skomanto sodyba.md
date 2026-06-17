@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Skomanto sodyba rodyklėje siejama su pavadinimu Skomantburg.
+Dusburgietis teigia, kad skomętno) Skomanto kalnas (Skomentberg) Skomanto sodyba, p. (Skomantburg) Skorpiono žvaigždynas Skrando kalnas, kuoras (mons Scrandonis, Schrandinberg, vėliau Šrangenbergas) Skronaitė (Scroneyte, Scroneiten), p.
 
 ## Teiginiai
 
@@ -20,6 +20,8 @@ Skomanto sodyba rodyklėje siejama su pavadinimu Skomantburg.
 - t-001
   global_id: t-58728
   teiginys: 'Skomanto sodyba rodyklėje siejama su pavadinimu Skomantburg.'
+  sudarymo_pagrindimas: 'Citata palaiko tik rodyklėje pateiktą pavadinimo atitikmenį.'
+  susije_objektai: 'mentioned_place: Skomanto kalnas'
   pagrindžia:
     - c-001
 

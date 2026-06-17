@@ -20,6 +20,8 @@ O dabar atspėkime, kas bendra tokiems pasaulinio garso muzikantams kaip Jimi He
 - t-001
   global_id: t-19186
   teiginys: 'Paul McCartney grojo Tony’o Zemaicio sukurta gitara „Zemaitis“.'
+  sudarymo_pagrindimas: 'Teiginys yra konkretus, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/daiktai/Gitara „Zemaitis“|Gitara „Zemaitis“]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_person: [[objektai/asmenys/David Gilmour|David Gilmour]]; mentioned_person: [[objektai/asmenys/Eric Clapton|Eric Clapton]]; mentioned_person: [[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas|Georgas (liet. Jurgis) Zauerveinas]]; mentioned_person: [[objektai/asmenys/George Harrison|George Harrison]]; mentioned_person: [[objektai/asmenys/Keith Richards|Keith Richards]]; mentioned_person: [[objektai/asmenys/Nadine Gordimer|Nadine Gordimer]]; mentioned_place: Afrika; mentioned_place: Lietuva; mentioned_place: Londonas'
   pagrindžia:
     - c-001
 
@@ -41,15 +43,3 @@ O dabar atspėkime, kas bendra tokiems pasaulinio garso muzikantams kaip Jimi He
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/asmenys/David Gilmour]]
-- [[objektai/asmenys/Eric Clapton]]
-- [[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas]]
-- [[objektai/asmenys/George Harrison]]
-- [[objektai/asmenys/Keith Richards]]
-- [[objektai/asmenys/Nadine Gordimer]]
-- [[objektai/zodynas/Adynos|adynos]]
-- [[objektai/daiktai/Gitara „Zemaitis“]]

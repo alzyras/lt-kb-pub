@@ -22,6 +22,8 @@ Esant poreikiui agentai-smogikai apjungiami į kovines-agentūrines grupes.
 - t-001
   global_id: t-42474
   teiginys: 'Prireikus agentai-smogikai būdavo sujungiami į kovines-agentūrines grupes.'
+  sudarymo_pagrindimas: 'Citata palaiko tą pačią mintį, bet teiginys pataisytas į sklandžią enciklopedinę formą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Agentai-smogikai|Agentai-smogikai]]; mentioned_object: [[objektai/zodynas/rezervas|rezervas]]'
   pagrindžia:
     - c-001
 
@@ -41,8 +43,3 @@ Esant poreikiui agentai-smogikai apjungiami į kovines-agentūrines grupes.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Agentai-smogikai]]
-- [[objektai/zodynas/rezervas]]

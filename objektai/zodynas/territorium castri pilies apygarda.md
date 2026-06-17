@@ -21,6 +21,8 @@ Dusburgietis teigia, kad territorium castri (III, 247, 266, 276 ir kt.; Jer.— 
 - t-001
   global_id: t-58927
   teiginys: 'Territorium castri Dusburgiečio kronikoje reiškia pilies apygardą.'
+  sudarymo_pagrindimas: 'Citata tiesiogiai palaiko apibrėžimą, bet sakinį reikia sutvarkyti į glaustą teiginį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]'
   pagrindžia:
     - c-001
 
@@ -40,8 +42,3 @@ Dusburgietis teigia, kad territorium castri (III, 247, 266, 276 ir kt.; Jer.— 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Baltai]]
-- [[objektai/paprociai/Prūsų teritorinis-administracinis skirstymas valsčiais, laukais ir pilies apygardomis|Prūsų teritorinis-administracinis skirstymas valsčiais, laukais ir pilies apygardomis (pilis, XIV a.)]]

@@ -1,29 +1,20 @@
 ---
 tipas: vieta
 pavadinimas: 'Cėsiai'
-variantai:
-  - 'Cėsių'
-aliases: []
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
+datos:
+  - '1433 m.'
+  - '1971 m.'
+date_start: '1433'
+date_end: '1971'
 sukurta: ''
 atnaujinta: ''
-laikotarpis: ''
-datos:
-  - '1433 m. liepa'
-  - '1433.IX.18'
-periodas: ''
-periodo_grupes: []
-amziai:
-  - 'XV'
-date_start: '1433'
-date_end: '1433'
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: ''
 tags:
   - vieta
+amziai:
+  - 'XV'
+  - 'XX'
 ---
 # Cėsiai
 
@@ -32,27 +23,38 @@ tags:
 Livonijos ordino kariuomenė 1433 m. liepos mėn. išžygiavo iš Cėsių niokoti Lietuvos.
 
 ## Teiginiai
+
 <a id="claim-t-187217"></a>
 - t-001
   global_id: t-187217
-  teiginys: 'Livonijos ordino kariuomenė 1433 m. liepos mėn. išžygiavo iš Cėsių niokoti Lietuvos.'
+  teiginys: '1971 m. leidimo komentare Livonijos ordino kariuomenė apibūdinama kaip 1433 m. liepą išžygiavusi iš Cėsių niokoti Lietuvos.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Žodžiui „niokoti“ reikalinga šaltinio ar komentaro atribucija.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Lietuva; mentioned_place: Livonija'
+  temporaliniai_duomenys: 'įvykio data: 1433 m.; įvykio data: 1971 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Žodžiui „niokoti“ reikalinga šaltinio ar komentaro atribucija.'
   pagrindžia:
     - c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  statusas: patvirtinta
-
+- susijęs iš [[objektai/asmenys/Jonas Chodkevičius.md#claim-t-63716|Jonas Chodkevičius]]: XVI a. antrojoje pusėje Jonas Chodkevičius Roneburgo pilies bažnyčioje rado Petro iš Dusburgo kronikos nuorašą ir perdavė jį Augustinui Rotundui.
+- susijęs iš [[objektai/ivykiai/Livonijos ordino Vilniaus apgultis.md#claim-t-186750|Livonijos ordino Vilniaus apgultis]]: 1433 m. liepą iš Cėsių Lietuvos niokoti išžygiavusi Livonijos ordino kariuomenė žygyje užtruko 11 savaičių, o magistras Rutenbergas rugsėjo 18 d. grįžo į Rygą.
+- susijęs iš Roneburgo pilies bažnyčios Dusburgiečio kronikos nuorašas: Petro iš Dusburgo kronikos nuorašas buvo Livonijoje, Roneburgo pilies bažnyčioje, kur jį XVI a. antroje pusėje rado Jonas Chodkevičius.
+- susijęs iš Krokuva: Lietuviai Lenkijoje puolė Sandomiro ir Krokuvos žemes.
+- susijęs iš Livonija: Petro iš Dusburgo kronikos nuorašas buvo Livonijos Roneburgo pilies bažnyčioje.
+- susijęs iš Roneburgas: Petro iš Dusburgo kronikos nuorašas buvo Livonijoje, Roneburgo pilies bažnyčioje.
+- susijęs iš Sandomiras: Lietuviai Lenkijoje puolė Sandomiro ir Krokuvos žemes.
+- susijęs iš Vilnius: XVI a. antrojoje pusėje Jonas Chodkevičius Petro Dusburgiečio kroniką perdavė Vilniaus vaitui Augustinui Rotundui.
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Livonijos ordino kariuomenė 1433 m. liepos mėn. išžygiavo iš Cėsių niokoti Lietuvos.'
+  santrauka: '1971 m. leidimo komentare Livonijos ordino kariuomenė apibūdinama kaip 1433 m. liepą išžygiavusi iš Cėsių niokoti Lietuvos.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     33 Livonijos ordino kariuomenė, išžygiavusi iš Cėsių 1433 m
     liepos mėn. niokoti Lietuvos, užtruko žygyje 11 savaičių. Magistras
     Rutenbergas grįžo | Rygą 1433.1X.18.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

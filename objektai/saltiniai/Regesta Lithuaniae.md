@@ -28,7 +28,7 @@ amziai:
 
 ## Santrauka
 
-Regesta Lithuaniae p. 147 siejama su 1294 m. puolimu, kurį Dusburgietis datavo 1292 m. Regesta Lithuaniae Nr. 393 siejamas su 1262 m. Mindaugo organizuotu žygiu, kuriam vadovavo Treniota. „Regesta Lithuaniae“ puslapis 144 nurodomas prie 1292 m. žygio ir pasakojimo apie nuostabų brolių išsigelbėjimą.
+Dusburgietis, pažymėdamas giminystę, galbūt norėjo pabrėžti Treniotos ryšį su Mindaugu, nes 1262 m. žygį (jis datuojamas ir 1263 m.) organizavo Mindaugas, o tuo metu, kaip atrodo, Žemaitiją valdęs Treniota vadovavo kariuomenei (Regesta Lithuaniae, Nr. 393. Dusburgietis teigia, kad l., Die Eroberung..., 4, p. 247; Regesta Lithuaniae..., p. 117). Dusburgietis teigia, kad apie nuostabų brolių išsigelbėjimą vieno žygio metu 537 1292 m. žygis (SRP, 2, p. 155; Regesta Lithuaniae..., p. 144).
 
 ## Teiginiai
 
@@ -36,6 +36,11 @@ Regesta Lithuaniae p. 147 siejama su 1294 m. puolimu, kurį Dusburgietis datavo 
 - t-001
   global_id: t-60925
   teiginys: 'Regesta Lithuaniae p. 147 siejama su 1294 m. puolimu, kurį Dusburgietis datavo 1292 m.'
+  sudarymo_pagrindimas: 'Citata pagrindžia aiškų datavimo pataisymą ir Regesta Lithuaniae nuorodą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]'
+  temporaliniai_duomenys: 'įvykio data: 1292 m.; įvykio data: 1294 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia aiškų datavimo pataisymą ir Regesta Lithuaniae nuorodą.'
   pagrindžia:
     - c-001
 
@@ -43,6 +48,11 @@ Regesta Lithuaniae p. 147 siejama su 1294 m. puolimu, kurį Dusburgietis datavo 
 - t-002
   global_id: t-60926
   teiginys: 'Regesta Lithuaniae Nr. 393 siejamas su 1262 m. Mindaugo organizuotu žygiu, kuriam vadovavo Treniota.'
+  sudarymo_pagrindimas: 'Teiginys sutvarkytas į aiškų sakinį apie nurodytą šaltinį ir jo siejamą įvykį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_person: [[objektai/asmenys/Treniota|Treniota]]; mentioned_place: Kulmas; mentioned_place: Torunė'
+  temporaliniai_duomenys: 'įvykio data: 1262 m.; įvykio data: 1263 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys sutvarkytas į aiškų sakinį apie nurodytą šaltinį ir jo siejamą įvykį.'
   pagrindžia:
     - c-002
 
@@ -50,6 +60,11 @@ Regesta Lithuaniae p. 147 siejama su 1294 m. puolimu, kurį Dusburgietis datavo 
 - t-003
   global_id: t-60928
   teiginys: '„Regesta Lithuaniae“ puslapis 144 nurodomas prie 1292 m. žygio ir pasakojimo apie nuostabų brolių išsigelbėjimą.'
+  sudarymo_pagrindimas: 'Rewrite failed deterministic gates: heading_or_page_noise'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/žygis|žygis]]'
+  temporaliniai_duomenys: 'įvykio data: 1292 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Rewrite failed deterministic gates: heading_or_page_noise'
   pagrindžia:
     - c-003
 
@@ -57,6 +72,11 @@ Regesta Lithuaniae p. 147 siejama su 1294 m. puolimu, kurį Dusburgietis datavo 
 - t-004
   global_id: t-60929
   teiginys: '„Regesta Lithuaniae“ pirmą tomą parengė H. Paszkiewiczius, jis išleistas Varšuvoje 1930 m.'
+  sudarymo_pagrindimas: 'Citata pagrindžia leidinio tomo, rengėjo ir leidimo vietos bei metų faktus.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Varšuva'
+  temporaliniai_duomenys: 'įvykio data: 1930 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia leidinio tomo, rengėjo ir leidimo vietos bei metų faktus.'
   pagrindžia:
     - c-004
 

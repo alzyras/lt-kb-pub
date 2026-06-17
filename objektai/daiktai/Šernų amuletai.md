@@ -49,6 +49,8 @@ Nenurodyta
 - t-001
   global_id: t-47838
   teiginys: 'Anot Tacito, prie Svebų jūros gyvenę Aestii garbino dievų motiną, nešiojo šernų amuletus, augino javus ir rinko gintarą.'
+  sudarymo_pagrindimas: 'Ilgas teiginys sutrumpintas, paliekant citatos remiamus faktus apie šernų amuletus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_group: [[objektai/grupes/Aušrėnai|Aušrėnai]]; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Svebai|Svebai]]; mentioned_object: [[objektai/daiktai/Gintaras|Gintaras]]; mentioned_object: [[objektai/posakiai/Jie « papročiais ir savo išore yra kaip svebai »|Jie « papročiais ir savo išore yra kaip svebai »]]; mentioned_object: [[objektai/zodynas/glesum|glesum]]'
   pagrindžia:
     - c-001
 
@@ -56,6 +58,7 @@ Nenurodyta
 - t-002
   global_id: t-47839
   teiginys: 'Tacitas rašė, kad prie Baltijos jūros gyvenę Aestii garbino dievų motiną ir nešiojo šernų amuletus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_group: [[objektai/grupes/Aušrėnai|Aušrėnai]]; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Svebai|Svebai]]; mentioned_object: [[objektai/posakiai/Jie « papročiais ir savo išore yra kaip svebai »|Jie « papročiais ir savo išore yra kaip svebai »]]; mentioned_object: [[objektai/zodynas/glesum|glesum]]; mentioned_place: Baltija'
   pagrindžia:
     - c-001
 
@@ -77,17 +80,3 @@ Nenurodyta
   pagrindžia:
     - t-001
     - t-002
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/papuošalas]]
-
-### Susiję objektai
-- [[objektai/grupes/Aisčiai]]
-- [[objektai/grupes/Aušrėnai]]
-- [[objektai/grupes/Baltai]]
-- [[objektai/posakiai/Jie « papročiais ir savo išore yra kaip svebai »]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Svebai]]
-- [[objektai/zodynas/glesum]]
-- [[objektai/daiktai/Gintaras]]

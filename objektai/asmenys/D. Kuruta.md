@@ -21,6 +21,7 @@ Kuruta, bet pastarasis vadovavimą (laikinai) perdavė gabiam generolui leitenan
 - t-001
   global_id: t-40078
   teiginys: 'Mūšiui pasibaigus, generolas leitenantas D. Kuruta įsakė nutraukti sukilėlių persekiojimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_place: Ukmergė; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -28,6 +29,8 @@ Kuruta, bet pastarasis vadovavimą (laikinai) perdavė gabiam generolui leitenan
 - t-002
   global_id: t-40079
   teiginys: 'Generolas leitenantas grafas D. Kuruta laikinai perdavė vadovavimą generolui leitenantui baronui D. Osten-Sakenui.'
+  sudarymo_pagrindimas: 'Teiginys turi aiškų veiksnį ir tarinį, o citata jį pagrindžia.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Parakas|Parakas]]; mentioned_place: Podolė; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -80,8 +83,3 @@ Kuruta, bet pastarasis vadovavimą (laikinai) perdavė gabiam generolui leitenan
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Parakas]]
-- [[objektai/grupes/Rytas]]

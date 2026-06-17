@@ -4,9 +4,12 @@ pavadinimas: 'Valstybės gynimo tarybos kariuomenės perorganizavimo planas (193
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
+  - '1933 m.'
+  - '1934 m.'
   - '1935 m.'
-date_start: '1935'
-date_end: ''
+  - '1938 m.'
+date_start: '1933'
+date_end: '1938'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -28,6 +31,11 @@ Savo dalies kariuomenės modernizacijai reikalavo kariškiai – 1935 m. Valstyb
 - t-001
   global_id: t-21290
   teiginys: 'Valstybės gynimo tarybos priimtas kariuomenės perorganizavimo planas numatė apie 20 proc. biudžeto skirti krašto gynybai.'
+  sudarymo_pagrindimas: 'Pirminis teiginys gramatiškai painus; citata remia aiškesnę formuluotę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Valstybės gynimo taryba|Valstybės gynimo taryba]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_place: Estija; mentioned_place: Vokietija'
+  temporaliniai_duomenys: 'įvykio data: 1933 m.; įvykio data: 1934 m.; įvykio data: 1935 m.; įvykio data: 1938 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pirminis teiginys gramatiškai painus; citata remia aiškesnę formuluotę.'
   pagrindžia:
     - c-001
 

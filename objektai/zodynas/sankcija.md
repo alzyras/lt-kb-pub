@@ -23,6 +23,7 @@ Dabar toji visuomenė davė unijai savo sankciją^2 ).
 - t-001
   global_id: t-36831
   teiginys: 'Sankcija čia reiškė lietuvių bajorijos pritarimą unijai, gavus balsą valstybės reikaluose.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvių bajorija|Lietuvių bajorija]]; mentioned_object: [[objektai/zodynas/luomai|luomai]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -43,11 +44,3 @@ Dabar toji visuomenė davė unijai savo sankciją^2 ).
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Lietuvių bajorija]]
-- [[objektai/zodynas/luomai]]
-- [[objektai/zodynas/unija]]
-- [[objektai/paprociai/Bajorų dalyvavimas svarbiausių aktų sudaryme]]

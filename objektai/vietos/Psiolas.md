@@ -18,9 +18,14 @@ Pulkai, nesutikdami pasipriešinimo, nuniokojo tolesnes žemes ir be mūšio per
 - t-001
   global_id: t-185297
   teiginys: 'Pulkai, nesutikdami pasipriešinimo, nuniokojo tolesnes žemes ir be mūšio persikėlė per Psiolo ir Sulos upes.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie persikėlimą per Psiolo upę.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/skitai|skitai]]; mentioned_place: Skitija; mentioned_place: Vorskla'
   pagrindžia:
     - c-001
-
+- susijęs iš Vorskla: Prie Vorsklos upės pasirodė Tamerlano karvedys Edigejus su didžiuliais skitų būriais.
 ## Reikšmingi paminėjimai
 
 - c-001

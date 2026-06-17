@@ -3,16 +3,24 @@ tipas: asmuo
 pavadinimas: 'Romaldas Juozas Ragaišis'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1978 m.'
+date_start: '1978'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'XX a.'
 ---
 # Romaldas Juozas Ragaišis
 
 ## Santrauka
 
-Romaldas Juozas Ragaišis priklausė Lietuvos laisvės lygai ir buvo tris kartus teistas.
+Organizacijai priklausė būrys prieš sovietų santvarką kovojusių asmenų, kai kurie jų – Romaldas Juozas Ragaišis ir A.
 
 ## Teiginiai
 
@@ -20,9 +28,20 @@ Romaldas Juozas Ragaišis priklausė Lietuvos laisvės lygai ir buvo tris kartus
 - t-001
   global_id: t-19206
   teiginys: 'Romaldas Juozas Ragaišis priklausė Lietuvos laisvės lygai ir buvo tris kartus teistas.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai susieja Ragaišį su organizacija ir teistumu, kaip nurodyta citatoje.'
+  susije_objektai: 'owner: [[objektai/asmenys/Antanas Terleckas|Antanas Terleckas]]; owner: Lietuva; owner: [[objektai/grupes/Lietuvos laisvės lyga|Lietuvos laisvės lyga]]; owner: [[objektai/asmenys/Petras Cidzikas|Petras Cidzikas]]; mentioned_group: [[objektai/grupes/Lietuvos laisvės lyga|Lietuvos laisvės lyga]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_person: [[objektai/asmenys/Antanas Terleckas|Antanas Terleckas]]; mentioned_person: [[objektai/asmenys/Petras Cidzikas|Petras Cidzikas]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'priklausymo laikotarpis: 1978 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Antanas (vaistininkas) susiję su Antanas Terleckas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Antanas (vaistininkas) susiję su Petras Cidzikas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Antanas (vaistininkas) susiję su Lietuvos laisvės lyga“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Antanas (vaistininkas) susiję su Lietuva“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai susieja Ragaišį su organizacija ir teistumu, kaip nurodyta citatoje.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Antanas Terleckas.md#claim-t-18826|Antanas Terleckas]]: Antanas Terleckas priklausė prieš sovietų santvarką kovojusiems asmenims ir buvo teistas tris kartus.
+- susijęs iš [[objektai/asmenys/Nijolė Sadūnaitė.md#claim-t-19173|Nijolė Sadūnaitė]]: Nijolė Sadūnaitė buvo kalinta už kovą prieš sovietų santvarką.
+- susijęs iš [[objektai/asmenys/Petras Cidzikas.md#claim-t-19190|Petras Cidzikas]]: Petras Cidzikas buvo kalintas už kovą prieš sovietų santvarką.
+- susijęs iš [[objektai/grupes/Lietuvos laisvės lyga.md#claim-t-74752|Lietuvos laisvės lyga]]: Lietuvos laisvės lyga nuo 1976 m. pogrindyje leido laikraštį „Laisvės šauklys“, o nuo 1978 m. – žurnalą „Vytis“.
+- susijęs iš Laisvės šauklys: Lietuvos laisvės lyga pogrindyje nuo 1976 m. leido laikraštį „Laisvės šauklys“.
+- susijęs iš Vytis (Lietuvos laisvės lygos žurnalas): Lietuvos laisvės lyga pogrindyje nuo 1978 m. leido žurnalą „Vytis“.
+- susijęs iš [[objektai/zodynas/pogrindis pogrindiniai leidiniai nelegali spauda.md#claim-t-23536|pogrindis pogrindiniai leidiniai nelegali spauda]]: LLL pogrindyje nuo 1976 m. leido laikraštį „Laisvės šauklys“, nuo 1978 m. – žurnalą „Vytis“, kitus pogrindinius leidinius.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -45,6 +64,4 @@ Romaldas Juozas Ragaišis priklausė Lietuvos laisvės lygai ir buvo tris kartus
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuvos laisvės lyga]]
-- [[objektai/zodynas/pogrindis pogrindiniai leidiniai nelegali spauda]]
+- [[objektai/asmenys/Antanas (vaistininkas)]] susije_su Romaldas Juozas Ragaišis

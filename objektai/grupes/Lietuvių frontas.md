@@ -20,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-Krikščionių demokratų sparno politikai ir ateitininkų jaunimas susibūrė į Lietuvių frontą. Krikščionių demokratų sparno politikai ir ateitininkų jaunimas susibūrė į Lietuvių frontą ir Lietuvių vienybės sąjūdį.
+Krikščionių demokratų sparno politikai ir ateitininkų jaunimas susibūrė į Lietuvių frontą (LF) ir Lietuvių vienybės sąjūdį, o liberaliai nusistatę tautininkai – į Lietuvos laisvės kovotojų sąjungą (LLKS), abi kryptys leido pogrindinius leidinius.
 
 ## Teiginiai
 
@@ -28,6 +28,11 @@ Krikščionių demokratų sparno politikai ir ateitininkų jaunimas susibūrė �
 - t-001
   global_id: t-74624
   teiginys: 'Krikščionių demokratų sparno politikai ir ateitininkų jaunimas susibūrė į Lietuvių frontą.'
+  sudarymo_pagrindimas: 'Sakinys yra aiškus, gramatiškas ir pakankamai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Vyriausiasis Lietuvos išlaisvinimo komitetas|Vyriausiasis Lietuvos išlaisvinimo komitetas]]; mentioned_object: [[objektai/zodynas/Aukausenos|Aukausenos]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1943 m.; įvykio data: 1943-1944; įvykio data: 1944 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Sakinys yra aiškus, gramatiškas ir pakankamai paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -35,6 +40,11 @@ Krikščionių demokratų sparno politikai ir ateitininkų jaunimas susibūrė �
 - t-002
   global_id: t-74625
   teiginys: 'Krikščionių demokratų sparno politikai ir ateitininkų jaunimas susibūrė į Lietuvių frontą ir Lietuvių vienybės sąjūdį.'
+  sudarymo_pagrindimas: 'Citata remia susibūrimą į dvi organizacijas, todėl teiginys patikslintas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Vyriausiasis Lietuvos išlaisvinimo komitetas|Vyriausiasis Lietuvos išlaisvinimo komitetas]]; mentioned_object: [[objektai/zodynas/Aukausenos|Aukausenos]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1943 m.; įvykio data: 1943-1944; įvykio data: 1944 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata remia susibūrimą į dvi organizacijas, todėl teiginys patikslintas.'
   pagrindžia:
     - c-001
 
@@ -66,13 +76,3 @@ Krikščionių demokratų sparno politikai ir ateitininkų jaunimas susibūrė �
   pagrindžia:
     - t-001
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/grupes/Vyriausiasis Lietuvos išlaisvinimo komitetas]]
-- [[objektai/zodynas/Aukausenos|aukausenos]]
-- [[objektai/zodynas/kunigas]]
-- [[objektai/grupes/Lietuvių vienybės sąjūdis]]
-- [[objektai/grupes/Lietuvos laisvės kovotojų sąjunga]]

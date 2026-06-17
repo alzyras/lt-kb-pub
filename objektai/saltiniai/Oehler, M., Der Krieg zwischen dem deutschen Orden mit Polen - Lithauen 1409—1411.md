@@ -30,6 +30,9 @@ Oehler, M., Der Krieg zwischen dem deutschen Orden mit Polen - Lithauen 1409—1
 - t-001
   global_id: t-36090
   teiginys: 'M. Oehlerio „Der Krieg zwischen dem deutschen Orden mit Polen-Lithauen 1409–1411“ buvo išleistas Elbinge 1910 m. su žemėlapiais.'
+  susije_objektai: 'mentioned_place: Elbingas'
+  temporaliniai_duomenys: 'įvykio data: 1910 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

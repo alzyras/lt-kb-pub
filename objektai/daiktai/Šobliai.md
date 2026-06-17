@@ -41,6 +41,8 @@ Nenurodyta
 - t-001
   global_id: t-39309
   teiginys: 'Dolegos vedamo pirmojo pulko kareiviai prie šonų turėjo šoblias, ant pečių - muškietus, ant galvų - konfederatkes.'
+  sudarymo_pagrindimas: 'Citata pagrindžia sakinį apie šoblių turėjimą konkrečiame pulke.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Kariauna|Kariauna]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/asmenys/Dolega|Dolega]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -59,10 +61,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Dolega]]
-- [[objektai/zodynas/kunigas]]
-- [[objektai/daiktai/Konfederatka]]
-- [[objektai/asmenys/Peža-Palionis]]

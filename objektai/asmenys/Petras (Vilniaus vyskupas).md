@@ -4,6 +4,10 @@ pavadinimas: 'Petras (Vilniaus vyskupas)'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+datos:
+  - '1418 m.'
+date_start: '1418'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -11,6 +15,10 @@ tags:
   - kunigaikštis
   - mūšis
   - pilis
+amziai:
+  - 'XV'
+periodo_grupes:
+  - 'LDK'
 ---
 # Petras (Vilniaus vyskupas)
 
@@ -24,6 +32,11 @@ Tačiau Vilniaus vyskupas Petras tam prieštaravo, atsisakydamas sutuokti dėl t
 - t-001
   global_id: t-87824
   teiginys: 'Vilniaus vyskupas Petras atsisakė sutuokti Vytautą su Julijona dėl artimos giminystės.'
+  sudarymo_pagrindimas: 'Pradinis tekstas per ilgas ir su OCR triukšmu; citata palaiko aiškų faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Janas Kropidła|Janas Kropidła]]; mentioned_person: [[objektai/asmenys/Julijona|Julijona]]; mentioned_place: Alšėnai; mentioned_place: Dniepras; mentioned_place: Krėva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1418 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis tekstas per ilgas ir su OCR triukšmu; citata palaiko aiškų faktą.'
   pagrindžia:
     - c-001
 
@@ -31,6 +44,11 @@ Tačiau Vilniaus vyskupas Petras tam prieštaravo, atsisakydamas sutuokti dėl t
 - t-002
   global_id: t-184819
   teiginys: 'Kojelavičius vaizduoja Vilniaus vyskupą Petrą kaip atkakliai prieštaravusį Vytauto santuokai, nes ji esą pažeidė Dievo ir žmonių įstatymus.'
+  teiginio_tipas: 'saltinio_teiginys'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Atribucija palikta tik šaltinio vertinimui / formulei; claimas perrašytas be OCR triukšmo.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Julijona|Julijona]]; mentioned_place: Kujavija; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -82,12 +100,3 @@ Tačiau Vilniaus vyskupas Petras tam prieštaravo, atsisakydamas sutuokti dėl t
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Janas Kropidła]]
-- [[objektai/asmenys/Jonas]]
-- [[objektai/asmenys/Julijona]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/zodynas/chanas]]
-- [[objektai/zodynas/didysis kunigaikštis]]

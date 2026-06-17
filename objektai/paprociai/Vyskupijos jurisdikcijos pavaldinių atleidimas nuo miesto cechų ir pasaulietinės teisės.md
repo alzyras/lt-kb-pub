@@ -5,8 +5,9 @@ saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1570 m.'
+  - '1584 m.'
 date_start: '1570'
-date_end: ''
+date_end: '1584'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -49,6 +50,11 @@ Nenurodyta
 - t-001
   global_id: t-87191
   teiginys: '1584 m. Gardine Steponas Batoras paskelbė Vilniaus vyskupijos jurisdikcijos pavaldinius laisvus nuo miesto pasaulietinės jurisdikcijos ir cechų.'
+  sudarymo_pagrindimas: 'Pradinis teiginys yra OCR fragmentas, o citata aiškiai pagrindžia atleidimą nuo miesto jurisdikcijos ir cechų.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus miesto cechai|Vilniaus miesto cechai]]; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_object: [[objektai/daiktai/Gedimino antspaudas|Gedimino antspaudas]]; mentioned_object: [[objektai/zodynas/jurisdikcija|jurisdikcija]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Bełskas; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Nesvyžius; mentioned_place: Olyka; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1584 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys yra OCR fragmentas, o citata aiškiai pagrindžia atleidimą nuo miesto jurisdikcijos ir cechų.'
   pagrindžia:
     - c-001
 
@@ -125,15 +131,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Antspaudas]]
-- [[objektai/daiktai/Gedimino antspaudas]]
-- [[objektai/asmenys/Steponas]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/grupes/Vilniaus miesto cechai]]
-- [[objektai/zodynas/jurisdikcija]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/zodynas/vietininkas]]
-- [[objektai/asmenys/Steponas Batoras]]

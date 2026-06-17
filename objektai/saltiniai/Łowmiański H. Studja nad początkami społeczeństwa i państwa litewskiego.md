@@ -27,6 +27,11 @@ Dusburgietis teigia, kad łowmiański H.
 - t-001
   global_id: t-61393
   teiginys: 'H. Łowmiańskio „Studja nad początkami społeczeństwa i państwa litewskiego“ išleista Vilniuje 1931 ir 1932 m. dviem tomais.'
+  sudarymo_pagrindimas: 'Citata nurodo veikalo pavadinimą, tomus, vietą ir metus.'
+  susije_objektai: 'mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1932 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata nurodo veikalo pavadinimą, tomus, vietą ir metus.'
   pagrindžia:
     - c-001
 

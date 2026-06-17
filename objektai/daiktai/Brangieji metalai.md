@@ -49,6 +49,8 @@ Nenurodyta
 - t-001
   global_id: t-64908
   teiginys: 'XIII a. Lietuvos kunigaikščiai buvo sukaupę nemažus brangiųjų metalų kiekius.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai paremtas citata apie brangiuosius metalus.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -56,6 +58,7 @@ Nenurodyta
 - t-002
   global_id: t-64909
   teiginys: 'Vytautas, padedamas pirklių, sukaupė brangiųjų metalų - aukso ir sidabro - bei kitų brangenybių.'
+  sudarymo_pagrindimas: 'Citata remia glaustesnį teiginį apie brangiuosius metalus.'
   pagrindžia:
     - c-001
 
@@ -90,7 +93,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/kunigaikščiai]]

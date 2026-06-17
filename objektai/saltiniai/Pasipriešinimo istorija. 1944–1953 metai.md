@@ -6,14 +6,16 @@ saltiniai:
 datos:
   - '1944 m.'
   - '1953 m.'
+  - '2006 m.'
 date_start: '1944'
-date_end: '1953'
+date_end: '2006'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
 amziai:
   - 'XX'
+  - 'XXI'
 ---
 # Pasipriešinimo istorija. 1944–1953 metai
 
@@ -27,6 +29,11 @@ Pasipriešinimo istorija.
 - t-001
   global_id: t-18059
   teiginys: 'N. Gaškaitės „Pasipriešinimo istorija. 1944–1953 metai“ išleista Vilniuje 2006 m.'
+  sudarymo_pagrindimas: 'Citata pateikia bibliografinius duomenis, o pradinė frazė nėra pilnas teiginys.'
+  susije_objektai: 'mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 2006 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pateikia bibliografinius duomenis, o pradinė frazė nėra pilnas teiginys.'
   pagrindžia:
     - c-001
 

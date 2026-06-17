@@ -20,6 +20,8 @@ Giruliai šiame fragmente aiškinami kaip istorinis žemaičių ir kalnėnų var
 - t-001
   global_id: t-07834
   teiginys: 'Šeštajame amžiuje giruliais arba girionimis vadinti žemaičiai ir kalnėnai mokėjo auginti linus.'
+  sudarymo_pagrindimas: 'Citata aiškiai sieja vardą su žemaičiais, kalnėnais ir linų auginimu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalnėnai|Kalnėnai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -35,8 +37,3 @@ Giruliai šiame fragmente aiškinami kaip istorinis žemaičių ir kalnėnų var
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kalnėnai]]
-- [[objektai/grupes/Žemaičiai]]

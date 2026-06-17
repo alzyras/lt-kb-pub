@@ -47,6 +47,9 @@ Nenurodyta
 - t-001
   global_id: t-31426
   teiginys: 'Lietuvos kunigaikščiai krikštui kėlė sąlygą, kad kryžiuočių ordinas grąžintų užimtas žemes tarp Alnos, Priegliaus ir Dauguvos.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/pagonys|pagonys]]; mentioned_place: Dauguva; mentioned_place: Lietuva; mentioned_place: Praga; mentioned_place: Prieglius; mentioned_place: Silezija; mentioned_place: Vokietija'
+  temporaliniai_duomenys: 'įvykio data: 1351 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -69,10 +72,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/pagonys]]
-- [[objektai/grupes/Kryžiuočių ordinas]]

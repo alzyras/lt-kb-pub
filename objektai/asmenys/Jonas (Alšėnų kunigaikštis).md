@@ -22,6 +22,9 @@ Atsi­ traukdamas Vytautas prarado nemaža saviškių, tarp jų Alšėnų kuniga
 - t-001
   global_id: t-87710
   teiginys: 'Alšėnų kunigaikštis Jonas pateko į nelaisvę, kai Vytautas atsitraukė po susidūrimo su kryžiuočiais ties Rudamina.'
+  sudarymo_pagrindimas: 'Citata tiesiogiai pagrindžia Jono patekimą į nelaisvę.'
+  susije_objektai: 'territory: Alšėnai; territory: Rudamina; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Alšėnai; mentioned_place: Rudamina'
+  semantiniai_rysiai: '[[objektai/asmenys/Jonas (Alšėnų kunigaikštis)|Jonas (Alšėnų kunigaikštis)]] buvo valdovas Alšėnai; [[objektai/asmenys/Jonas (Alšėnų kunigaikštis)|Jonas (Alšėnų kunigaikštis)]] buvo valdovas Rudamina'
   pagrindžia:
     - c-001
 
@@ -47,8 +50,5 @@ Atsi­ traukdamas Vytautas prarado nemaža saviškių, tarp jų Alšėnų kuniga
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/daiktai/Karinės vėliavos ir ženklai]]
-- [[objektai/daiktai/Kariuomenės ženklai]]
+- Jonas (Alšėnų kunigaikštis) buvo_valdovas [[objektai/vietos/Alšėnai]]
+- Jonas (Alšėnų kunigaikštis) buvo_valdovas [[objektai/vietos/Rudamina]]

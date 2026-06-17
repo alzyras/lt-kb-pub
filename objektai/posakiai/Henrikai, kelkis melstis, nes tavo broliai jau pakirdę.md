@@ -22,6 +22,8 @@ Dusburgietis teigia, kad po to ji kiekvieną naktį girdėjo siaubingą bildesį
 - t-001
   global_id: t-59094
   teiginys: 'Dusburgiečio pasakojime balsas kiekvieną naktį ragino Henriką keltis melstis, nes jo broliai jau buvo pakirdę.'
+  sudarymo_pagrindimas: 'Reikia pašalinti perteklinę pasakojimo dalį ir palikti aiškų faktą apie posakio vartojimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
 
@@ -61,8 +63,3 @@ Dusburgietis teigia, kad po to ji kiekvieną naktį girdėjo siaubingą bildesį
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Teutonai]]
-- [[objektai/grupes/Kryžiuočių ordinas]]

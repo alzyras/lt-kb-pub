@@ -3,10 +3,19 @@ tipas: autorius
 pavadinimas: 'Bełch, St. J'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+datos:
+  - '1956 m.'
+  - '1965 m.'
+date_start: '1956'
+date_end: '1965'
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'XX a.'
 ---
 # Bełch, St. J
 
@@ -20,6 +29,11 @@ Bełch, St.
 - t-001
   global_id: t-29306
   teiginys: 'St. J. Bełchas 1956 m. paskelbė darbą „Falkenberg“ ir 1965 m. Londone išleistą veikalą apie Pauliaus Vladimiri doktriną.'
+  sudarymo_pagrindimas: 'Pradinis tekstas per trumpas, o citata palaiko konkretesnį bibliografinį teiginį.'
+  susije_objektai: 'mentioned_place: Londonas'
+  temporaliniai_duomenys: 'įvykio data: 1956 m.; įvykio data: 1965 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis tekstas per trumpas, o citata palaiko konkretesnį bibliografinį teiginį.'
   pagrindžia:
     - c-001
 

@@ -20,6 +20,7 @@ Tą pavadinimą « Criwe-Kirwaito » pirmasis įvedė labai nepatikimas XVI amž
 - t-001
   global_id: t-30981
   teiginys: 'Simonas Grunau rodyklėje nurodytas kaip kronikininkas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Habsburgai|Habsburgai]]; mentioned_person: [[objektai/asmenys/Gregorijus (Vladimiro vyskupas)|Gregorijus (Vladimiro vyskupas)]]; mentioned_person: [[objektai/asmenys/Grigalius (vicekancleris)|Grigalius (vicekancleris)]]; mentioned_person: [[objektai/autoriai/Guagnini|Guagnini]]; mentioned_person: [[objektai/asmenys/Guillaume de Machaut|Guillaume de Machaut]]; mentioned_person: [[objektai/asmenys/Simonas Grunau|Simonas Grunau]]; mentioned_place: Baltarusija; mentioned_place: Grenoblis; mentioned_place: Gudija; mentioned_place: Gumbinė'
   pagrindžia:
     - c-003
 
@@ -27,6 +28,7 @@ Tą pavadinimą « Criwe-Kirwaito » pirmasis įvedė labai nepatikimas XVI amž
 - t-002
   global_id: t-30982
   teiginys: 'Simonas Grunau paskelbė pagonių rašmenis, kuriuos kiti iki XX a. pradžios nekritiškai kartojo.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_person: [[objektai/asmenys/Simonas Grunau|Simonas Grunau]]'
   pagrindžia:
     - c-002
 
@@ -34,9 +36,25 @@ Tą pavadinimą « Criwe-Kirwaito » pirmasis įvedė labai nepatikimas XVI amž
 - t-003
   global_id: t-30983
   teiginys: 'Simonas Grunau pirmasis įvedė pavadinimą „Criwe-Kirwaito“.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_person: [[objektai/asmenys/Simonas Grunau|Simonas Grunau]]'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/daiktai/Rikojoto prūsų dievų šventykla ir stabai.md#claim-t-75344|Rikojoto prūsų dievų šventykla ir stabai]]: Prūsų dievų trejybei priklausė požemio dievas Pakulas, žaibų ir griausmų dievas Perkūnas bei javų dievas Patrimpas.
+- susijęs iš [[objektai/asmenys/Simonas Grunau.md#claim-t-183568|Simonas Grunau]]: Simono Grunau kronikoje Rikojotas aprašytas kaip prūsų dievų kulto centras su žaliuojančiu ąžuolu, šventykla ir trimis dievų stabais.
+- susijęs iš [[objektai/asmenys/Simonas Grunau.md#claim-t-64053|Simonas Grunau]]: Simonas Grunau kronikoje Rikojotą aprašė kaip prūsų dievų kulto centrą su žaliuojančiu ąžuolu ir trimis dievų stabais.
+- susijęs iš [[objektai/autoriai/Henneberger.md#claim-t-88024|Henneberger]]: Hennebergeris nurodytas tarp vėlesnių kronikininkų, perėmusių pasakojimą iš Simono Grunau kronikos.
+- susijęs iš [[objektai/daiktai/Rikojoto prūsų dievų šventykla ir stabai.md#claim-t-75344|Rikojoto prūsų dievų šventykla ir stabai]]: Prūsų dievų trejybei priklausė požemio dievas Pakulas, žaibų ir griausmų dievas Perkūnas bei javų dievas Patrimpas.
+- susijęs iš [[objektai/daiktai/Rikojoto prūsų dievų šventykla ir stabai.md#claim-t-75345|Rikojoto prūsų dievų šventykla ir stabai]]: Pasak Simono Grunau kronikos, Rikojote po žaliuojančiu ąžuolu buvo prūsų dievų šventykla su trimis stabais.
+- susijęs iš [[objektai/paprociai/Prūsų dievų kultas Rikojote ir kulto tarnų hierarchija.md#claim-t-183332|Prūsų dievų kultas Rikojote ir kulto tarnų hierarchija]]: Pasak Simono Grunau kronikos, Rikojote buvo prūsų dievų kulto centras su žaliuojančiu ąžuolu ir šventykla, papuošta trijų dievų stabais.
+- susijęs iš [[objektai/paprociai/Prūsų dievų kultas Rikojote ir kulto tarnų hierarchija.md#claim-t-54329|Prūsų dievų kultas Rikojote ir kulto tarnų hierarchija]]: Simono Grunau kronikoje Rikojoto šventyklos prūsų dievų trejetą sudarė Pakulas, Perkūnas ir Patrimpas.
+- susijęs iš [[objektai/paprociai/Prūsų dievų kultas Rikojote ir kulto tarnų hierarchija.md#claim-t-54330|Prūsų dievų kultas Rikojote ir kulto tarnų hierarchija]]: Prūsų dievais laikyti požemio dievas Pakulas, žaibų ir griausmų dievas Perkūnas bei javų dievas Patrimpas.
+- susijęs iš Simono Grunau kronika: Simono Grunau kronikoje Rikojoto šventykla aprašoma kaip papuošta trimis stabais, vaizduojančiais tris prūsų dievus.
+- susijęs iš Simono Grunau kronika: Simono Grunau kronikoje Rikojotas apibūdinamas kaip prūsų dievų kulto centras.
+- susijęs iš Simono Grunau kronika: Simono Grunau kronikoje Rikojotas vadinamas prūsų dievų kulto centru su ąžuolu ir po juo įsikūrusia šventykla.
+- susijęs iš Simono Grunau kronika: Romantikai rėmėsi XVI-XVII a. Prūsijos šaltiniais, kuriuose kronikininkai kalbėjo apie prūsų dievus.
+- susijęs iš Marijampolė: Po mūšio prie Berezinos Napoleonas per Vilnių, Kauną, Marijampolę ir Varšuvą parskubėjo į Paryžių.
+- susijęs iš Marijampolė: J. Totoraičio veikalas „Mindaugas, Lietuvos karalius“ buvo išleistas Marijampolėje 1932 m.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -117,9 +135,4 @@ Tą pavadinimą « Criwe-Kirwaito » pirmasis įvedė labai nepatikimas XVI amž
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Habsburgai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/pagonybė]]
-- [[objektai/paprociai/Prūsų dievų kultas Rikojote ir kulto tarnų hierarchija]]
-- [[objektai/daiktai/Rikojoto prūsų dievų šventykla ir stabai]]
+- [[objektai/daiktai/Rikojoto prūsų dievų šventykla ir stabai]] priklause Simono Grunau

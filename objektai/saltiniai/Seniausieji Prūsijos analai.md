@@ -29,6 +29,11 @@ Dusburgietis teigia, kad šių tekstų tyrinėjimai parodė, kad Ordino valstyb�
 - t-001
   global_id: t-61006
   teiginys: 'Seniausieji Prūsijos analai pirmajame raidos etape iš esmės apėmė 1230–1293 m. įvykius.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_place: Prūsija; mentioned_place: Torunė'
+  temporaliniai_duomenys: 'įvykio data: 1230-1293; įvykio data: 1293 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-002
 
@@ -36,6 +41,8 @@ Dusburgietis teigia, kad šių tekstų tyrinėjimai parodė, kad Ordino valstyb�
 - t-002
   global_id: t-61007
   teiginys: 'Seniausiųjų Prūsijos analų pagrindas susidarė XIII a. pabaigoje Ordino valstybėje buvusios oficialios analistikos aplinkoje.'
+  sudarymo_pagrindimas: 'Citata pagrindžia aiškesnį sakinį apie šaltinio kilmės aplinką.'
+  susije_objektai: 'mentioned_place: Prūsija'
   pagrindžia:
     - c-001
 

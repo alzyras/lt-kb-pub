@@ -29,9 +29,14 @@ Caru tapo 1613 m. Zemskinio susirinkimo išrinktas Michailas Fiodorovičius Roma
 - t-001
   global_id: t-40337
   teiginys: 'Michailas Fiodorovičius Romanovas 1613 m. Zemskinio susirinkimo buvo išrinktas caru.'
+  sudarymo_pagrindimas: 'Claimas yra pilnas faktinis sakinys apie asmenį ir atitinka citatą.'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Smolenskas'
+  temporaliniai_duomenys: 'įvykio data: 1611 m.; įvykio data: 1613 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Claimas yra pilnas faktinis sakinys apie asmenį ir atitinka citatą.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/grupes/Zemskinis susirinkimas.md#claim-t-183670|Zemskinis susirinkimas]]: 1613 m. Zemskinis susirinkimas išrinko caru Michailą Fiodorovičių Romanovą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -64,7 +69,3 @@ Caru tapo 1613 m. Zemskinio susirinkimo išrinktas Michailas Fiodorovičius Roma
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Zemskinis susirinkimas]]

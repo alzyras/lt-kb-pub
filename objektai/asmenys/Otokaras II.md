@@ -15,6 +15,7 @@ tags:
   - karalius
   - karvedys
   - kunigaikštis
+  - vyskupas
 amziai:
   - 'XIII'
 periodo_grupes:
@@ -24,7 +25,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Otokaras II atsakė: „Pakanka, eik kur tinkamas ir pasieksi, ko nori“. 1254 m. Čekijos karalius Otokaras II dalyvavo žygyje, kuriuo siekta pavergti sembus.
+Dusburgietis teigia, kad dublino kodekse išlikusio „Pasaulio aprašymo pradžios” autorius, dalyvavęs Čekijos karaliaus Otokaro II (ir kryžiuočių) 1255 m. puolime prieš Sembą, konstatuoja, kad už Prūsijos į šiaurę tęsiasi Semba (Prusciam sequitur Zambia ad aquilonem — Colker M. Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau minėti pagonys [gentes] prie vieningo tikėjimo, paliko sembai, kurių pavergti Kristus savo įsikūnijimo 1254 metais pasiuntė Otokarą, Čekijos karalių318, tikrai pamaldų vyrą ir įgudusį karvedį, Otoną. Dusburgietis teigia, kad otokaras II atsakė: „Pakanka, eik kur tinkamas ir pasieksi, ko nori“.
 
 ## Teiginiai
 
@@ -32,6 +33,8 @@ Otokaras II atsakė: „Pakanka, eik kur tinkamas ir pasieksi, ko nori“. 1254 
 - t-001
   global_id: t-175267
   teiginys: 'Otokaras II atsakė: „Pakanka, eik kur tinkamas ir pasieksi, ko nori“.'
+  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Otokaras|Otokaras]]; mentioned_place: Baiga; mentioned_place: Semba; mentioned_place: Viena; mentioned_place: Čekija'
   pagrindžia:
     - c-003
 
@@ -39,9 +42,17 @@ Otokaras II atsakė: „Pakanka, eik kur tinkamas ir pasieksi, ko nori“. 1254 
 - t-002
   global_id: t-175269
   teiginys: '1254 m. Čekijos karalius Otokaras II dalyvavo žygyje, kuriuo siekta pavergti sembus.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir turi antraštės bei sąrašo triukšmo.'
+  susije_objektai: 'territory: Austrija; territory: Kulmas; territory: Reinas; territory: Varmė; territory: Vokietija; territory: Čekija; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_object: [[objektai/zodynas/maldininkai|maldininkai]]; mentioned_object: [[objektai/zodynas/pagonys|pagonys]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Otokaras|Otokaras]]; mentioned_place: Austrija; mentioned_place: Kulmas; mentioned_place: Reinas; mentioned_place: Varmė; mentioned_place: Vokietija; mentioned_place: Čekija'
+  semantiniai_rysiai: '[[objektai/asmenys/Otokaras II|Otokaras II]] buvo valdovas Austrija; [[objektai/asmenys/Otokaras II|Otokaras II]] buvo valdovas Kulmas; [[objektai/asmenys/Otokaras II|Otokaras II]] buvo valdovas Reinas; [[objektai/asmenys/Otokaras II|Otokaras II]] buvo valdovas Varmė; [[objektai/asmenys/Otokaras II|Otokaras II]] buvo valdovas Vokietija; [[objektai/asmenys/Otokaras II|Otokaras II]] buvo valdovas Čekija'
+  temporaliniai_duomenys: 'valdymo laikotarpis: 1254 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Otokaras II buvo valdovas Austrija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Otokaras II buvo valdovas Kulmas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Otokaras II buvo valdovas Reinas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Otokaras II buvo valdovas Varmė“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Otokaras II buvo valdovas Vokietija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Otokaras II buvo valdovas Čekija“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs ir turi antraštės bei sąrašo triukšmo.'
   pagrindžia:
     - c-004
-
+- susijęs iš [[objektai/asmenys/Pršemyslas Otokaras II.md#claim-t-39630|Pršemyslas Otokaras II]]: Pršemyslas Otokaras II 1255 m. atvyko į pagalbą Ordinui ir inicijavo Karaliaučiaus pilies statybą.
+- susijęs iš [[objektai/ivykiai/Otokaro II ir kryžiuočių puolimas prieš Sembą (1255 m.).md#claim-t-59667|Otokaro II ir kryžiuočių puolimas prieš Sembą (1255 m.)]]: Čekijos karalius Otokaras II ir kryžiuočiai 1255 m. dalyvavo puolime prieš Sembą.
+- susijęs iš [[objektai/ivykiai/Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.).md#claim-t-66805|Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.)]]: Čekijos karalius Otokaras II ir kryžiuočiai 1255 m. dalyvavo puolime prieš Sembą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -139,17 +150,11 @@ Otokaras II atsakė: „Pakanka, eik kur tinkamas ir pasieksi, ko nori“. 1254 
   statusas: verified
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/karvedys]]
-
-### Susiję objektai
-- [[objektai/daiktai/Ginklai]]
-- [[objektai/daiktai/Malūnas]]
-- [[objektai/grupes/Sembai]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/maldininkai]]
-- [[objektai/zodynas/pagonys]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/ivykiai/Otokaro II ir kryžiuočių puolimas prieš Sembą (1255 m.)]]
-- [[objektai/ivykiai/Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.)]]
-- [[objektai/asmenys/Gedūnas]]
+- Otokaras II buvo_valdovas [[objektai/vietos/Austrija]]
+- Otokaras II buvo_valdovas [[objektai/vietos/Kulmas]]
+- Otokaras II buvo_valdovas [[objektai/vietos/Prūsija]]
+- Otokaras II buvo_valdovas [[objektai/vietos/Reinas]]
+- Otokaras II buvo_valdovas [[objektai/vietos/Semba]]
+- Otokaras II buvo_valdovas [[objektai/vietos/Varmė]]
+- Otokaras II buvo_valdovas [[objektai/vietos/Vokietija]]
+- Otokaras II buvo_valdovas [[objektai/vietos/Čekija]]

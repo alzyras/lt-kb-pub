@@ -33,6 +33,11 @@ Nenurodyta
 - t-001
   global_id: t-185901
   teiginys: 'Po valdovo mirties jo garbei pastatyta medinė statula, o jai nugriuvus toje vietoje užaugusi giraitė paskirta Vestai.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata remia pomirtinio kulto faktą; pašalinti neaiškūs įvardžiai.'
+  susije_objektai: 'mentioned_place: Deltuva; mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-001
 

@@ -30,6 +30,11 @@ Dusburgietis teigia, kad [Schroetter-Karte], Karte von Ost-Preussen nebst Preuss
 - t-001
   global_id: t-61289
   teiginys: 'Schroetterio Rytų Prūsijos, Prūsų Lietuvos, Vakarų Prūsijos ir Notecės distrikto žemėlapis sudarytas 1796-1802 m. 1:150000 masteliu.'
+  sudarymo_pagrindimas: 'Citata pateikia bibliografinius žemėlapio duomenis ir mastelį.'
+  susije_objektai: 'mentioned_place: Prūsai; mentioned_place: Prūsija'
+  temporaliniai_duomenys: 'įvykio data: 1796-1802; įvykio data: 1802 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pateikia bibliografinius žemėlapio duomenis ir mastelį.'
   pagrindžia:
     - c-001
 

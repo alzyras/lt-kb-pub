@@ -45,6 +45,8 @@ Nenurodyta
 - t-001
   global_id: t-89386
   teiginys: 'Pelužis su Karaliaučiaus komtūro paskirtais bendrais patraukė keršyti už patirtas skriaudas.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir turi perteklinę atribuciją, bet citata palaiko aiškų faktą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Pelužis|Pelužis]]; mentioned_place: Lietuva; mentioned_place: Semba; mentioned_place: Viena'
   pagrindžia:
     - c-002
 
@@ -52,6 +54,8 @@ Nenurodyta
 - t-002
   global_id: t-89387
   teiginys: 'Pelužio būrys vestuvėse užpuolė kunigaikščio sodybą ir nužudė 70 kunigaikščių su namų šeimininku.'
+  sudarymo_pagrindimas: 'Citata palaiko enciklopedinį teiginį, o pradinė formuluotė per ilga ir priklausoma nuo šaltinio sakinio.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Pelužis|Pelužis]]; mentioned_place: Lietuva; mentioned_place: Semba; mentioned_place: Viena'
   pagrindžia:
     - c-002
 
@@ -59,6 +63,11 @@ Nenurodyta
 - t-003
   global_id: t-89388
   teiginys: 'Pelužis, įžeistas savo viešpaties, atvyko pas Sembos žemės brolius keršyti už patirtas skriaudas.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
+  susije_objektai: 'location: Lietuva; location: Prūsai; location: Ragainė; location: Semba; location: Viena; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Lietuva; mentioned_place: Prūsai; mentioned_place: Ragainė; mentioned_place: Semba; mentioned_place: Viena'
+  temporaliniai_duomenys: 'kelionės data: 1289 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Martynas iš Golino keliavo į Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Martynas iš Golino keliavo į Prūsai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Martynas iš Golino keliavo į Ragainė“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Martynas iš Golino keliavo į Semba“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Martynas iš Golino keliavo į Viena“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -107,13 +116,3 @@ Nenurodyta
   pagrindžia:
     - t-001
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Martynas iš Golino]]
-- [[objektai/zodynas/komtūras]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/asmenys/Pelužis]]
-- [[objektai/asmenys/Konradas, vardu Divelis]]
-- [[objektai/asmenys/Stavimėlas]]
-- [[objektai/paprociai/Vestuvių puotos girtavimas iki užmigimo]]

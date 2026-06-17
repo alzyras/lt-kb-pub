@@ -23,6 +23,8 @@ Martinas Galias pasakoja, kad Poznanė duo­ davo 1 300 šarvuotųjų ir 4 000 g
 - t-001
   global_id: t-85782
   teiginys: 'Gnieznas, sprendžiant iš imperatoriaus Otono III priėmimo šiame mieste, jau anuomet buvo tankiai gyvenama ir turtinga gyvenvietė.'
+  sudarymo_pagrindimas: 'Sakinys sutrumpintas ir išvalytas nuo OCR triukšmo.'
+  susije_objektai: 'mentioned_place: Krušvica; mentioned_place: Lenkija; mentioned_place: Poznanė; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -30,6 +32,8 @@ Martinas Galias pasakoja, kad Poznanė duo­ davo 1 300 šarvuotųjų ir 4 000 g
 - t-002
   global_id: t-85783
   teiginys: 'Testamento vykdytoju Karalystėje buvo pasirinktas Gniezno arkivyskupas kartu su Krokuvos ir Kujavų vyskupais.'
+  sudarymo_pagrindimas: 'Pradinis tekstas nutrūkęs; citata palaiko aiškų faktą apie Gniezno arkivyskupą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Gniezno; mentioned_place: Krokuva; mentioned_place: Liublinas; mentioned_place: Sandomiras'
   pagrindžia:
     - c-002
 
@@ -37,9 +41,14 @@ Martinas Galias pasakoja, kad Poznanė duo­ davo 1 300 šarvuotųjų ir 4 000 g
 - t-003
   global_id: t-85784
   teiginys: 'Martinas Galias pasakojo, kad Gnieznas duodavo 1 500 šarvuotųjų ir 5 000 pėstininkų.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Gniezną ir remiasi citata.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/Martinas Galias|Martinas Galias]]; mentioned_place: Poznanė'
   pagrindžia:
     - c-003
-
+- susijęs iš [[objektai/autoriai/Martinas Galias.md#claim-t-88032|Martinas Galias]]: Martinas Galias rašė, kad Poznanė duodavo 1 300 šarvuotųjų ir 4 000 skydais ginkluotų karių.
+- susijęs iš [[objektai/daiktai/Ginklai, skydai, šarvai ir šaudymo reikmenys.md#claim-t-86983|Ginklai, skydai, šarvai ir šaudymo reikmenys]]: Martinas Galias rašė, kad Poznanė duodavo 1300 šarvuotųjų ir 4000 skydais ginkluotų karių.
+- susijęs iš Poznanė: Martinas Galias pasakoja, kad Poznanė duodavo 1300 šarvuotųjų ir 4000 skydais ginkluotų karių.
+- susijęs iš Poznanė: Martino Galiaus pasakojimu, Poznanė duodavo 1300 šarvuotųjų ir 4000 skydais ginkluotų karių.
 ## Reikšmingi paminėjimai
 
 - c-001

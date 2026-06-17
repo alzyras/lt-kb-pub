@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Majoras V. Zechau buvo 18-ojo vokiečių saksų pėstininkų pulko vadas.
+Zechau. Zechau ir lietuvių 1-ojo pėst.
 
 ## Teiginiai
 
@@ -20,6 +20,8 @@ Majoras V. Zechau buvo 18-ojo vokiečių saksų pėstininkų pulko vadas.
 - t-001
   global_id: t-40494
   teiginys: 'Majoras V. Zechau buvo 18-ojo vokiečių saksų pėstininkų pulko vadas.'
+  sudarymo_pagrindimas: 'Citata palaiko pareigų faktą ir leidžia įtraukti karinį laipsnį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Utena'
   pagrindžia:
     - c-001
 
@@ -42,7 +44,3 @@ Majoras V. Zechau buvo 18-ojo vokiečių saksų pėstininkų pulko vadas.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Vokiečiai]]

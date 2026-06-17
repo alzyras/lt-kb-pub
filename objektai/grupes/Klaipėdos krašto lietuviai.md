@@ -28,6 +28,8 @@ Klaipėdos krašto lietuviai, ilgus amžius gyvenę veikiami vokiečių kultūro
 - t-001
   global_id: t-74189
   teiginys: 'Klaipėdos krašto lietuviai politiškai liko ištikimi Vokietijai ir patys sukilti nesiruošė.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai apibūdina Klaipėdos krašto lietuvių politinę laikyseną.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Rytprūsiai; mentioned_place: Vokietija'
   pagrindžia:
     - c-001
 
@@ -35,6 +37,10 @@ Klaipėdos krašto lietuviai, ilgus amžius gyvenę veikiami vokiečių kultūro
 - t-002
   global_id: t-74190
   teiginys: 'Klaipėdos krašto surašymo duomenimis, krašte gyveno 37 000 lietuvių ir 34 000 lietuviškai namuose kalbėjusių „klaipėdiečių“.'
+  susije_objektai: 'location: Lietuva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/grupes/Klaipėdos krašto lietuviai|Klaipėdos krašto lietuviai]] gyveno Lietuva'
+  temporaliniai_duomenys: 'gyvenimo laikotarpis: 1925 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Klaipėdos krašto lietuviai (kraštas) gyveno Lietuva“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 
@@ -73,6 +79,4 @@ Klaipėdos krašto lietuviai, ilgus amžius gyvenę veikiami vokiečių kultūro
     - t-002
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Vokiečiai]]
+- Klaipėdos krašto lietuviai (kraštas) gyveno [[objektai/vietos/Lietuva]]

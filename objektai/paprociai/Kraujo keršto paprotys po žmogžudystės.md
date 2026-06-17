@@ -40,6 +40,8 @@ Nenurodyta
 - t-001
   global_id: t-67130
   teiginys: 'Žmogžudystės nesantarvė jų žemėje baigdavosi tik tada, kai nužudytojo tėvai nužudydavo patį žudiką arba jo giminaitį.'
+  sudarymo_pagrindimas: 'Teiginys išgrynintas iki kraujo keršto paprotį aprašančio sakinio.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]'
   pagrindžia:
     - c-001
 
@@ -47,6 +49,8 @@ Nenurodyta
 - t-002
   global_id: t-67131
   teiginys: 'Prūsų prigimtinėje teisėje buvęs taliono principas davė pagrindo kalbėti apie kraujo kerštą nusikaltėliui ir jo giminėms.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus ir remiasi šaltinio pastaba apie talioną bei kraujo kerštą.'
+  susije_objektai: 'mentioned_place: Prūsai'
   pagrindžia:
     - c-002
 
@@ -80,10 +84,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/socialinė-praktika]]
-
-### Susiję objektai
-- [[objektai/daiktai/Namas]]

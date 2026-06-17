@@ -30,6 +30,11 @@ Dusburgietis teigia, kad brolių patariamas, jis pasiuntė į priekį žvalgus, 
 - t-001
   global_id: t-60438
   teiginys: 'Stantekas, sunkiai sužeistas susidūręs su sembų sargyba, pranešė maldininkams apie pasalą.'
+  sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir priklausomas nuo konteksto; citata palaiko glaustą sakinį apie Stanteko veiksmą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/zodynas/maldininkai|maldininkai]]'
+  temporaliniai_duomenys: 'įvykio data: 1263 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys per ilgas ir priklausomas nuo konteksto; citata palaiko glaustą sakinį apie Stanteko veiksmą.'
   pagrindžia:
     - c-001
 
@@ -53,9 +58,3 @@ Dusburgietis teigia, kad brolių patariamas, jis pasiuntė į priekį žvalgus, 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Kalavijas]]
-- [[objektai/grupes/Sembai]]
-- [[objektai/zodynas/maldininkai]]

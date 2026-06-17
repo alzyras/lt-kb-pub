@@ -10,11 +10,6 @@ datos:
   - '1216 m.'
   - '1217 m.'
   - '1218 m.'
-  - '1222 m.'
-  - '1223 m.'
-  - '1224 m.'
-  - '1226 m.'
-  - '1228 m.'
   - '1243 m.'
   - '1908 m.'
 date_start: '1141'
@@ -34,7 +29,7 @@ amziai:
 
 ## Santrauka
 
-Prūsų, Prūsijos vardo kilmė nėra aiški. XIII a. pirmojoje pusėje Semba šaltiniuose minima atskirai nuo Prūsijos. Manoma, kad žodžiai *prūsis ir *prūsas iš pradžių galėjo reikšti išprususius, išsilavinusius žmones.
+Dusburgietis teigia, kad 188 D. — terra Prussi[a]e, Jer.— Pruzinlant. IX—X a.— Bruzi, Burūs. Pruzze, Pruze ir pan. (MPKP, 1, p. 13—14). XII—XIII a. istoriniuose aktuose vardas dar nenusistovėjęs: Pruzia (1141 m.—PUB, 1, 1, Nr. 2, p. 1; 1212 m.— Nr. 10, p. 7; 1222 m.— Nr. 41 A, p.. Dusburgietis teigia, kad prūsų kraštą lietuviai vadino žodžiu Prūsai, Prūsa, Prūsų žemė bei (sulotynintu) Prūsija (Būga K. Dusburgietis teigia, kad 1-oje pusėje atskirai nuo Prūsijos minima Semba (Samblandia, PUB, 1, 1, Nr. 52, p. 38 ir kt.).
 
 ## Teiginiai
 
@@ -42,6 +37,8 @@ Prūsų, Prūsijos vardo kilmė nėra aiški. XIII a. pirmojoje pusėje Semba š
 - t-001
   global_id: t-58792
   teiginys: 'Prūsų, Prūsijos vardo kilmė nėra aiški.'
+  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
+  susije_objektai: 'mentioned_place: Prūsija'
   pagrindžia:
     - c-003
 
@@ -49,6 +46,11 @@ Prūsų, Prūsijos vardo kilmė nėra aiški. XIII a. pirmojoje pusėje Semba š
 - t-002
   global_id: t-58793
   teiginys: 'XIII a. pirmojoje pusėje Semba šaltiniuose minima atskirai nuo Prūsijos.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus ir atitinka citatoje pateiktą faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/autoriai/A. Salys|A. Salys]]; mentioned_place: Barta; mentioned_place: Nemunas; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Semba; mentioned_place: Vysla; mentioned_place: Čekija'
+  temporaliniai_duomenys: 'įvykio data: 1255 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus ir atitinka citatoje pateiktą faktą.'
   pagrindžia:
     - c-001
 
@@ -56,6 +58,8 @@ Prūsų, Prūsijos vardo kilmė nėra aiški. XIII a. pirmojoje pusėje Semba š
 - t-003
   global_id: t-58794
   teiginys: 'Manoma, kad žodžiai *prūsis ir *prūsas iš pradžių galėjo reikšti išprususius, išsilavinusius žmones.'
+  sudarymo_pagrindimas: 'Fragmentas perrašytas į vieną aiškų etimologinį teiginį.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/Vydūnas|Vydūnas]]'
   pagrindžia:
     - c-005
 
@@ -63,6 +67,11 @@ Prūsų, Prūsijos vardo kilmė nėra aiški. XIII a. pirmojoje pusėje Semba š
 - t-004
   global_id: t-58795
   teiginys: 'XII–XIII a. istoriniuose aktuose Prūsijos vardas dar nebuvo nusistovėjęs ir rašytas keliomis formomis.'
+  sudarymo_pagrindimas: 'Citata pateikia skirtingas Prūsijos vardo formas, o pradinė pretenzija buvo OCR fragmentas.'
+  susije_objektai: 'mentioned_place: Prūsija'
+  temporaliniai_duomenys: 'įvykio data: 1141 m.; įvykio data: 1210 m.; įvykio data: 1212 m.; įvykio data: 1216 m.; įvykio data: 1217 m.; įvykio data: 1218 m.; įvykio data: 1222 m.; įvykio data: 1223 m.; įvykio data: 1224 m.; įvykio data: 1226 m.; įvykio data: 1228 m.; įvykio data: 1230 m.; įvykio data: 1243 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pateikia skirtingas Prūsijos vardo formas, o pradinė pretenzija buvo OCR fragmentas.'
   pagrindžia:
     - c-002
 
@@ -70,6 +79,11 @@ Prūsų, Prūsijos vardo kilmė nėra aiški. XIII a. pirmojoje pusėje Semba š
 - t-005
   global_id: t-58796
   teiginys: 'Lietuviai prūsų kraštą vadino Prūsais, Prūsa, Prūsų žeme ir sulotynintu vardu Prūsija.'
+  sudarymo_pagrindimas: 'Teiginys yra enciklopedinis ir tiesiogiai pagrįstas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Pagudė; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Prūsų žemė'
+  temporaliniai_duomenys: 'įvykio data: 1589 m.; įvykio data: 1639 m.; įvykio data: 1722 m.; įvykio data: 1739 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra enciklopedinis ir tiesiogiai pagrįstas citata.'
   pagrindžia:
     - c-004
 
@@ -162,12 +176,3 @@ Prūsų, Prūsijos vardo kilmė nėra aiški. XIII a. pirmojoje pusėje Semba š
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/A. Salys]]
-- [[objektai/grupes/Aisčiai]]
-- [[objektai/grupes/Baltai]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/autoriai/Vydūnas]]

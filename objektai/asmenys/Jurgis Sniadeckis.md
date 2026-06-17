@@ -29,6 +29,11 @@ Balinskis vedė Zofiją, universiteto profesoriaus Jurgio Sniadeckio dukrą.
 - t-001
   global_id: t-87744
   teiginys: 'Jurgis Sniadeckis buvo universiteto profesorius, kurio dukrą Zofiją 1820 m. vedė M. Balinskis.'
+  sudarymo_pagrindimas: 'Pradinis teiginys labiau apie Balinskį, todėl perrašyta taip, kad faktas būtų apie Jurgį Sniadeckį.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1819 m.; įvykio data: 1820 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys labiau apie Balinskį, todėl perrašyta taip, kad faktas būtų apie Jurgį Sniadeckį.'
   pagrindžia:
     - c-001
 

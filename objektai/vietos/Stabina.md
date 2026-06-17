@@ -16,18 +16,19 @@ tags:
 Norėdama išvengti susidūrimų kaip tik toj srity, kur sutartis su Maskva paliko sieną nustatyti Lietuvos tiesioginiam susitarimu su Lenkija, mūsų vyriausybė čia pasiūlė laikinę demarkacijos liniją, kuri eitų per Grabovą — Augustavą — Stabiną.
 
 ## Teiginiai
+
 <a id="claim-t-02773"></a>
 - t-001
   global_id: t-02773
   teiginys: 'Lietuvos vyriausybė pasiūlė laikiną demarkacijos liniją, kuri turėjo eiti per Grabovą, Augustavą ir Stabiną.'
+  sudarymo_pagrindimas: 'Teiginys sutrumpintas ir padarytas sklandus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_place: Augustavas; mentioned_place: Gardinas; mentioned_place: Grabova; mentioned_place: Lietuva; mentioned_place: Maskva'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-
+- susijęs iš Grabova: Lietuvos vyriausybės siūlyta laikinoji demarkacijos linija turėjo eiti per Grabovą, Augustavą ir Stabiną.
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Lietuvos vyriausybė pasiūlė laikiną demarkacijos liniją, kuri turėjo eiti per Grabovą, Augustavą ir Stabiną.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo tarpu lenkai, prancūzų padedami, sutvar-
@@ -40,10 +41,8 @@ Norėdama išvengti susidūrimų kaip tik toj srity, kur sutartis su Maskva pali
     rimu su Lenkija, mūsų vyriausybė čia pasiūlė laikinę demar-
 
     kacijos liniją, kuri eitų per Grabovą — Augustavą — Stabiną.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Po privatizacijos įsivyravo požiūris, kad privatizacija iš esmės buvo neteisinga. Privatizacija kėlė abejonių, ar ji buvo efektyviausias valstybės turto išvalstybinimo būdas.
+Vadinamuoju privatizacijos laikotarpiu dauguma valstybinių įmonių tapo privačios, susidarė naujas verslininkų sluoksnis, veikęs pagal Vakarų pasaulio ekonomikos standartus. Įsivyravo požiūris, kad privatizacija buvusi „neteisinga“ iš esmės.
 
 ## Teiginiai
 
@@ -21,6 +21,7 @@ Po privatizacijos įsivyravo požiūris, kad privatizacija iš esmės buvo netei
 - t-001
   global_id: t-22018
   teiginys: 'Po privatizacijos įsivyravo požiūris, kad privatizacija iš esmės buvo neteisinga.'
+  sudarymo_pagrindimas: 'Perrašyta į aiškesnį sakinį apie privatizaciją kaip žodyno objekto temą.'
   pagrindžia:
     - c-001
 
@@ -28,6 +29,10 @@ Po privatizacijos įsivyravo požiūris, kad privatizacija iš esmės buvo netei
 - t-002
   global_id: t-183457
   teiginys: 'Privatizacija kėlė abejonių, ar ji buvo efektyviausias valstybės turto išvalstybinimo būdas.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata palaiko tikslesnį teiginį apie privatizaciją kaip išvalstybinimo būdą.'
   pagrindžia:
     - c-002
 

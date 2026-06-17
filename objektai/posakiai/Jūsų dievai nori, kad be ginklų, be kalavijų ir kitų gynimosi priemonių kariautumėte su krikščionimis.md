@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Krikščionys pavijo ir išžudė neginkluotą kariuomenę, o sūduviai ir kitos kaimyninės gentys įsibrovė į Galindą. Pabėgę belaisviai krikščionims pranešė, kad netikėlių kariuomenė neturėjo ginklų ir kitų gynimosi priemonių.
+Dusburgietis teigia, kad ši, užjausdama savąją lytį, sušaukė pas save visos žemės galingesniuosius ir jiems pasakė: „Jūsų dievai nori, kad be ginklų, be kalavijų ir kitų gynimosi priemonių kariautumėte su krikščionimis“. Dusburgietis teigia, kad šių žodžių padrąsinti krikščionys, dideliais būriais leidęsi iš paskos, užpuolė netikėlius ir išžudė visus, nė nebandžiusius priešintis; sūduviai ir kitos kaimyninės gentys, šitai sužinojusios, įsibrovė į minėtąją Galindos žemę ir išsivarė į amžiną vergovę.
 
 ## Teiginiai
 
@@ -21,6 +21,8 @@ Krikščionys pavijo ir išžudė neginkluotą kariuomenę, o sūduviai ir kitos
 - t-001
   global_id: t-89590
   teiginys: 'Krikščionys pavijo ir išžudė neginkluotą kariuomenę, o sūduviai ir kitos kaimyninės gentys įsibrovė į Galindą.'
+  sudarymo_pagrindimas: 'Citata remia glaustesnį, gramatinį konteksto teiginį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_place: Galinda'
   pagrindžia:
     - c-001
 
@@ -28,6 +30,8 @@ Krikščionys pavijo ir išžudė neginkluotą kariuomenę, o sūduviai ir kitos
 - t-002
   global_id: t-89591
   teiginys: 'Pabėgę belaisviai krikščionims pranešė, kad netikėlių kariuomenė neturėjo ginklų ir kitų gynimosi priemonių.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, bet citata remia aiškią faktinę mintį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_place: Galinda'
   pagrindžia:
     - c-001
 
@@ -50,10 +54,3 @@ Krikščionys pavijo ir išžudė neginkluotą kariuomenę, o sūduviai ir kitos
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Sūduviai]]
-- [[objektai/zodynas/netikėliai]]
-- [[objektai/daiktai/Ginklai]]
-- [[objektai/grupes/Krikščionys]]

@@ -38,6 +38,8 @@ Nenurodyta
 - t-001
   global_id: t-89394
   teiginys: 'Rinavos valsčiaus sembai atkrito nuo tikėjimo, subūrė kariuomenę ir užpuolė Sembos vyskupo Fišhauzeno pilį.'
+  sudarymo_pagrindimas: 'Citata pagrindžia Rinavos sembų atskalūnybę ir Fišhauzeno puolimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_place: Fišhauzenas; mentioned_place: Rinava; mentioned_place: Semba'
   pagrindžia:
     - c-002
 
@@ -45,6 +47,8 @@ Nenurodyta
 - t-002
   global_id: t-89395
   teiginys: 'Rinavos sembai mėgino pulti Fišhauzeno pilį, bet pasitraukė nepasiekę tikslo.'
+  sudarymo_pagrindimas: 'Citata pagrindžia nesėkmingą Fišhauzeno pilies puolimą be hagiografinio fragmentiškumo.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_object: [[objektai/daiktai/Pilies vartai|Pilies vartai]]; mentioned_place: Fišhauzenas; mentioned_place: Rinava'
   pagrindžia:
     - c-001
 
@@ -52,6 +56,8 @@ Nenurodyta
 - t-003
   global_id: t-89396
   teiginys: 'Karaliaučiaus broliai su sembais įsibrovė į Rinavos valsčių, išžudė vyrus, o moteris ir vaikus išsivarė su turtu.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiksliai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_place: Rinava'
   pagrindžia:
     - c-003
 
@@ -59,6 +65,8 @@ Nenurodyta
 - t-004
   global_id: t-89397
   teiginys: 'Rinavos valsčiaus sembai vėl atkrito nuo tikėjimo ir užpuolė Sembos vyskupo pilį Fišhauzeną.'
+  sudarymo_pagrindimas: 'Teiginys perrašytas be kronikos retorikos, paliekant pagrįstą faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_place: Fišhauzenas; mentioned_place: Rinava; mentioned_place: Semba'
   pagrindžia:
     - c-002
 
@@ -115,8 +123,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Pilies vartai|Pilies vartai (pilis, XIV a.)]]
-- [[objektai/grupes/Sembai]]

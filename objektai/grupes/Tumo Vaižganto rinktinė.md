@@ -28,6 +28,11 @@ Margio rinktinės žvalgybos sk. Likę Šarūno ir Kunigaikščio Margio rinktin
 - t-001
   global_id: t-41183
   teiginys: '1950 m. lapkričio 25 d. Šarūno ir Kunigaikščio Margio rinktinių kovotojai buvo sujungti į Tumo Vaižganto rinktinę.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nurodo datą, veikėjus ir sujungimo rezultatą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Algimanto apygarda|Algimanto apygarda]]; mentioned_person: [[objektai/asmenys/Vaižgantas|Vaižgantas]]; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1950 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo datą, veikėjus ir sujungimo rezultatą.'
   pagrindžia:
     - c-001
 
@@ -49,12 +54,3 @@ Margio rinktinės žvalgybos sk. Likę Šarūno ir Kunigaikščio Margio rinktin
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Algimanto apygarda]]
-- [[objektai/asmenys/Vaižgantas]]
-- [[objektai/grupes/Kunigaikščio Margio rinktinė]]
-- [[objektai/grupes/Vytauto apygarda]]
-- [[objektai/grupes/Vyčio apygarda]]
-- [[objektai/grupes/Žalioji rinktinė]]

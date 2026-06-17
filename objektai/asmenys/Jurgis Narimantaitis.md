@@ -26,6 +26,12 @@ Jurgis Narimantaitis, Algirdo brolėnas, valdė Kremenecą Rusioje. Lenkijos kar
 - t-001
   global_id: t-186118
   teiginys: 'Jurgis Narimantaitis, Algirdo brolėnas, valdė Kremenecą Rusioje.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra konkretus faktinis sakinys apie Jurgį Narimantaitį.'
+  susije_objektai: 'territory: Kremenecas; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Liubartas|Liubartas]]; mentioned_place: Kremenecas'
+  semantiniai_rysiai: '[[objektai/asmenys/Jurgis Narimantaitis|Jurgis Narimantaitis]] valdė teritoriją Kremenecas'
   pagrindžia:
     - c-001
 
@@ -33,6 +39,15 @@ Jurgis Narimantaitis, Algirdo brolėnas, valdė Kremenecą Rusioje. Lenkijos kar
 - t-002
   global_id: t-186119
   teiginys: 'Lenkijos karalius Kazimieras paliko visą Belzo kunigaikštystę Jurgiui Narimantaičiui.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nusako Kazimiero sprendimą dėl Jurgio Narimantaičio ir remiasi citata.'
+  susije_objektai: 'territory: Belzas; territory: Lenkija; territory: Mazovija; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]]; mentioned_place: Belzas; mentioned_place: Lenkija; mentioned_place: Mazovija'
+  semantiniai_rysiai: '[[objektai/asmenys/Jurgis Narimantaitis|Jurgis Narimantaitis]] buvo valdovas Belzas; [[objektai/asmenys/Jurgis Narimantaitis|Jurgis Narimantaitis]] buvo valdovas Lenkija; [[objektai/asmenys/Jurgis Narimantaitis|Jurgis Narimantaitis]] buvo valdovas Mazovija'
+  temporaliniai_duomenys: 'valdymo laikotarpis: 1367 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Jurgis Narimantaitis buvo valdovas Belzas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jurgis Narimantaitis buvo valdovas Lenkija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jurgis Narimantaitis buvo valdovas Mazovija“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako Kazimiero sprendimą dėl Jurgio Narimantaičio ir remiasi citata.'
   pagrindžia:
     - c-002
 
@@ -86,7 +101,7 @@ Jurgis Narimantaitis, Algirdo brolėnas, valdė Kremenecą Rusioje. Lenkijos kar
     - t-002
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Rusai]]
+- Jurgis Narimantaitis valde_teritorija [[objektai/vietos/Kremenecas]]
+- Jurgis Narimantaitis buvo_valdovas [[objektai/vietos/Belzas]]
+- Jurgis Narimantaitis buvo_valdovas [[objektai/vietos/Lenkija]]
+- Jurgis Narimantaitis buvo_valdovas [[objektai/vietos/Mazovija]]

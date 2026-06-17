@@ -26,6 +26,11 @@ Dusburgietis teigia, kad lietuviškoji enciklopedija.—T.
 - t-001
   global_id: t-61131
   teiginys: 'Aštuntasis „Lietuviškosios enciklopedijos“ tomas išleistas Kaune 1940 m.'
+  sudarymo_pagrindimas: 'Citata nurodo enciklopedijos tomą, leidimo vietą ir metus.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Kaunas'
+  temporaliniai_duomenys: 'įvykio data: 1940 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata nurodo enciklopedijos tomą, leidimo vietą ir metus.'
   pagrindžia:
     - c-001
 

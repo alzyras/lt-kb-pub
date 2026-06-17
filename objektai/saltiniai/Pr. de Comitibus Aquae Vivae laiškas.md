@@ -20,6 +20,8 @@ de Comitibus Aquae Vivae, laišką.
 - t-001
   global_id: t-36101
   teiginys: 'Pr. de Comitibus Aquae Vivae laiškas gyrė Vytautą ir atkalbinėjo jį nuo sumanymo karūnuotis.'
+  sudarymo_pagrindimas: 'Citata nusako laiško turinį ir paskirtį.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-001
 

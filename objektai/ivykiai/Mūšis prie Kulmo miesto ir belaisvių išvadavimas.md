@@ -39,6 +39,9 @@ Nenurodyta
 - t-001
   global_id: t-62403
   teiginys: 'Prūsų kariuomenei priėjus Kulmo miestą, ginkluoti miestiečiai mūšyje nukovė prūsų vadą ir išvadavo paimtus krikščionių belaisvius.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pradinis teiginys akcentuoja tik įvadą, o citata geriau remia mūšio ir belaisvių išvadavimo faktą.'
+  susije_objektai: 'mentioned_place: Kulmas; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
 
@@ -46,6 +49,11 @@ Nenurodyta
 - t-002
   global_id: t-183948
   teiginys: 'Prūsų kariuomenė įsibrovė į Kulmo žemę, ją nusiaubė degindama ir plėšdama, o daug krikščionių išžudė.'
+  teiginio_tipas: 'saltinio_teiginys'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas faktinis sakinys, paremtas citata.'
+  susije_objektai: 'mentioned_place: Kulmas; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
 

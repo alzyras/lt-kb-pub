@@ -16,6 +16,7 @@ tags:
   - seimas
   - sąvoka
   - tauta
+  - valstybė
 amziai:
   - 'XV'
   - 'XXI'
@@ -24,7 +25,7 @@ amziai:
 
 ## Santrauka
 
-Lietuvos aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus; toks pat scenarijus taikytas Latvijoje ir Estijoje. J. Paleckio vadovaujama delegacija rugpjūčio 3 d. Maskvoje paprašė Lietuvą priimti į SSRS sudėtį, taip įforminant aneksiją. Krėvės unija apibūdinta kaip Lietuvos inkorporacija ir net aneksija.
+Aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus – toks pat scenarijus taikytas Latvijoje ir Estijoje. Taip įforminta Lietuvos aneksija, Rinkimų į Liaudies seimą agitacinis plakatas. Visiems Lietuvos pasiuntiniams užsienio šalyse paskelbus protestus prieš Lietuvos okupaciją ir aneksiją, iš jų atimta pilietybė ir nacionalizuotas jų turtas.
 
 ## Teiginiai
 
@@ -32,6 +33,8 @@ Lietuvos aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus; toks
 - t-001
   global_id: t-70084
   teiginys: 'Lietuvos aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus; toks pat scenarijus taikytas Latvijoje ir Estijoje.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie aneksijos įgyvendinimą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Estija; mentioned_place: Latvija; mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -39,6 +42,7 @@ Lietuvos aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus; toks
 - t-002
   global_id: t-70085
   teiginys: 'J. Paleckio vadovaujama delegacija rugpjūčio 3 d. Maskvoje paprašė Lietuvą priimti į SSRS sudėtį, taip įforminant aneksiją.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: SSRS'
   pagrindžia:
     - c-002
 
@@ -46,6 +50,11 @@ Lietuvos aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus; toks
 - t-003
   global_id: t-70086
   teiginys: 'Krėvės unija apibūdinta kaip Lietuvos inkorporacija ir net aneksija.'
+  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir paliktas aiškus teiginys apie aneksijos vartoseną.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Personalinė unija|Personalinė unija]]; mentioned_object: [[objektai/zodynas/inkorporacija|inkorporacija]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1401 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas OCR triukšmas ir paliktas aiškus teiginys apie aneksijos vartoseną.'
   pagrindžia:
     - c-003
 
@@ -53,9 +62,34 @@ Lietuvos aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus; toks
 - t-004
   global_id: t-70087
   teiginys: 'Lietuvos pasiuntiniams užsienyje pareiškus protestus prieš okupaciją ir aneksiją, iš jų atimta pilietybė ir nacionalizuotas turtas.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Liaudies seimas|Liaudies seimas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-004
-
+- susijęs iš [[objektai/asmenys/Jurgis Šaulys.md#claim-t-19033|Jurgis Šaulys]]: Jurgis Šaulys 1917 m. lapkričio 2–10 d. dalyvavo Berno konferencijoje kaip Lietuvos Tarybos prezidiumo narys.
+- susijęs iš [[objektai/asmenys/Steponas Kairys.md#claim-t-64123|Steponas Kairys]]: Steponas Kairys 1917 m. lapkričio 2–10 d. dalyvavo Berno konferencijoje kaip Lietuvos Tarybos prezidiumo narys.
+- susijęs iš [[objektai/grupes/Europos Sąjunga.md#claim-t-74117|Europos Sąjunga]]: 2004 m. Lietuva tapo Europos Sąjungos ir NATO nare.
+- susijęs iš [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis.md#claim-t-26810|Lietuvos Persitvarkymo Sąjūdis]]: 1988–1990 m. Lietuvos Sąjūdžio kūrėjai prisidėjo prie Sovietų Sąjungos aneksijos įveikimo ir Nepriklausomybės atkūrimo.
+- susijęs iš [[objektai/grupes/Lietuvos Taryba.md#claim-t-182708|Lietuvos Taryba (institucija)]]: Konferencijoje išrinkta 20 asmenų Lietuvos Taryba pradėjo veikti rugsėjo 24 d., o jos pirmininku tapo Antanas Smetona.
+- susijęs iš [[objektai/grupes/Lietuvos komunistų partija.md#claim-t-78355|Lietuvos komunistų partija]]: Per Liaudies seimo rinkimus kandidatus galėjo kelti tik komunistų partija, komjaunimas, MOPR’as ir komunistų vadovaujamos profesinės sąjungos.
+- susijęs iš [[objektai/grupes/Lietuvos komunistų partija.md#claim-t-78367|Lietuvos komunistų partija]]: Per vadinamojo Liaudies seimo rinkimus kandidatus galėjo kelti tik komunistų partija, komjaunimas, MOPR’as ir komunistų vadovaujamos profesinės sąjungos.
+- susijęs iš [[objektai/grupes/NATO.md#claim-t-183173|NATO]]: 2004 m. Lietuva tapo ES ir NATO nare.
+- susijęs iš [[objektai/grupes/NATO.md#claim-t-19950|NATO]]: 2004 m. Lietuva tapo ES ir NATO nare.
+- susijęs iš [[objektai/grupes/Rusijos Federacija.md#claim-t-183178|Rusijos Federacija]]: Vytautas Landsbergis ir Borisas Jelcinas 1991 m. liepos 29 d. pasirašė Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį.
+- susijęs iš [[objektai/ivykiai/Liaudies seimo rinkimai (1940 m. liepos 14-15 d.).md#claim-t-183234|Liaudies seimo rinkimai (1940 m. liepos 14-15 d.)]]: Lietuvos aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus, o toks pat scenarijus taikytas Latvijoje ir Estijoje.
+- susijęs iš [[objektai/ivykiai/Liaudies seimo rinkimai (1940 m. liepos 14-15 d.).md#claim-t-75122|Liaudies seimo rinkimai (1940 m. liepos 14-15 d.)]]: Lietuvos aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus, o toks pat scenarijus taikytas Latvijoje ir Estijoje.
+- susijęs iš [[objektai/ivykiai/Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutarties pasirašymas (1991 m. liepos 29 d.).md#claim-t-183243|Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutarties pasirašymas (1991 m. liepos 29 d.)]]: Vytautas Landsbergis ir Borisas Jelcinas 1991 m. liepos 29 d. pasirašė Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį.
+- susijęs iš [[objektai/ivykiai/Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutarties pasirašymas (1991 m. liepos 29 d.).md#claim-t-75146|Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutarties pasirašymas (1991 m. liepos 29 d.)]]: Lietuva pripažino Rusiją nepriklausoma valstybe.
+- susijęs iš [[objektai/ivykiai/Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutarties pasirašymas (1991 m. liepos 29 d.).md#claim-t-75147|Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutarties pasirašymas (1991 m. liepos 29 d.)]]: Spalio pradžioje Lietuva ir Rusijos Federacija užmezgė diplomatinius santykius.
+- susijęs iš [[objektai/ivykiai/Lietuvos ir Rusijos sutarties dėl valstybinės sienos ir Baltijos jūros zonų pasirašymas (1997 m. spalis).md#claim-t-75149|Lietuvos ir Rusijos sutarties dėl valstybinės sienos ir Baltijos jūros zonų pasirašymas (1997 m. spalis)]]: 1997 m. spalį Lietuva ir Rusija pasirašė sutartį dėl valstybinės sienos, išskirtinės ekonominės zonos ir žemyninio šelfo Baltijos jūroje atskyrimo.
+- susijęs iš [[objektai/ivykiai/Lietuvos ir Rusijos sutarties dėl valstybinės sienos ir Baltijos jūros zonų pasirašymas (1997 m. spalis).md#claim-t-75150|Lietuvos ir Rusijos sutarties dėl valstybinės sienos ir Baltijos jūros zonų pasirašymas (1997 m. spalis)]]: 1997 m. spalį Lietuva ir Rusija pasirašė sutartį dėl valstybinės sienos, išskirtinės ekonominės zonos ir žemyninio šelfo Baltijos jūroje atskyrimo.
+- susijęs iš [[objektai/posakiai/„Lithuania Propria“.md#claim-t-67315|„Lithuania Propria“]]: 1917 m. Berno konferencijoje būsimos Lietuvos teritoriją siūlyta formuoti etnografiniu principu „Lithuania Propria“ ribose.
+- susijęs iš Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartis: Vytautas Landsbergis ir Borisas Jelcinas 1991 m. liepos 29 d. pasirašė Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį.
+- susijęs iš Molotovo–Ribentropo paktas: Svarbiausių datų sąraše 1940 m. birželio 15 d. Sovietų Sąjungos įvykdyta Lietuvos okupacija ir aneksija aiškinama kaip Molotovo–Ribentropo pakto realizavimas.
+- susijęs iš Alūkšta: 1917 m. Berno konferencijoje Alūkštos apskritį Kurše iki Dauguvos upės numatyta įtraukti į būsimos Lietuvos teritoriją.
+- susijęs iš Kanada: Lietuvos diplomatinė tarnyba siekė išlaikyti Lietuvos tarptautinį pripažinimą Kanadoje ir kitose SSRS aneksijos nepripažinusiose šalyse.
+- susijęs iš Liepoja: 1917 m. lapkričio 2–10 d. Berno konferencijoje lietuvių atstovai numatė reikalauti Liepojos uosto.
+- susijęs iš [[objektai/zodynas/etnografinės ribos etnografinis principas.md#claim-t-101582|etnografinės ribos etnografinis principas]]: 1917 m. Berno konferencijoje pasisakyta už Lietuvos teritorijos formavimą etnografiniu principu „Lithuania Propria“ ribose.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -124,28 +158,3 @@ Lietuvos aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus; toks
   pagrindžia:
     - t-005
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Liaudies seimas|Liaudies seimas (seimas)]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/Personalinė unija|Personalinė unija (unija)]]
-- [[objektai/zodynas/inkorporacija]]
-- [[objektai/zodynas/Miera|miera]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/zodynas/unija]]
-- [[objektai/grupes/Europos Sąjunga]]
-- [[objektai/asmenys/Jurgis Šaulys]]
-- [[objektai/ivykiai/Liaudies seimo rinkimai (1940 m. liepos 14-15 d.)]]
-- [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis]]
-- [[objektai/grupes/Lietuvos Taryba|Lietuvos Taryba (institucija)]]
-- [[objektai/ivykiai/Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutarties pasirašymas (1991 m. liepos 29 d.)]]
-- [[objektai/ivykiai/Lietuvos ir Rusijos sutarties dėl valstybinės sienos ir Baltijos jūros zonų pasirašymas (1997 m. spalis)]]
-- [[objektai/grupes/Lietuvos komunistų partija]]
-- [[objektai/grupes/NATO]]
-- [[objektai/grupes/Rusijos Federacija]]
-- [[objektai/asmenys/Steponas Kairys]]
-- [[objektai/zodynas/etnografinės ribos etnografinis principas]]
-- [[objektai/posakiai/„Lithuania Propria“]]
-- [[objektai/ivykiai/Lietuvos delegacijos prašymas Maskvoje įeiti į SSRS sudėtį (1940 m. rugpjūčio 3 d.)]]
-- [[objektai/posakiai/didelis „remontas“ Krėvės unijoj]]

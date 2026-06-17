@@ -22,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-1863 m. sausio pabaigoje paskelbtas naujas rekrutų ėmimas paskatino „raudonuosius“ pradėti dar neparengtą sukilimą. Didžiausia blogybė jiems buvo rekrutų prievolė – 25 metų tarnyba Rusijos kariuomenėje (kasmet į rekrutus imami 5–7 tinkamo amžiaus vyrai iš 1 000, karo atveju ši norma būdavo padvigubinama). 1863 m. sausio pabaigoje paskelbtas naujas rekrutų ėmimas paskatino pradėti dar neparengtą sukilimą.
+Didžiausia blogybė jiems buvo rekrutų prievolė – 25 metų tarnyba Rusijos kariuomenėje (kasmet į rekrutus imami 5–7 tinkamo amžiaus vyrai iš 1 000, karo atveju ši norma būdavo padvigubinama). Lietuvoje sukilimas prasidėjo spontaniškai 1831 m. pavasariop Žemaitijoje dėl valdžios paskelbto rekrutų ėmimo. 1863 m. sausio pabaigoje paskelbtas naujas rekrutų ėmimas.
 
 ## Teiginiai
 
@@ -30,6 +30,11 @@ amziai:
 - t-001
   global_id: t-75579
   teiginys: '1863 m. sausio pabaigoje paskelbtas naujas rekrutų ėmimas paskatino „raudonuosius“ pradėti dar neparengtą sukilimą.'
+  sudarymo_pagrindimas: 'Citata palaiko reikšmingesnį faktą apie rekrutų ėmimo pasekmę.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Krymas; mentioned_place: Rusija'
+  temporaliniai_duomenys: 'įvykio data: 1863 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko reikšmingesnį faktą apie rekrutų ėmimo pasekmę.'
   pagrindžia:
     - c-001
 
@@ -37,6 +42,7 @@ amziai:
 - t-002
   global_id: t-75580
   teiginys: 'Didžiausia blogybė jiems buvo rekrutų prievolė – 25 metų tarnyba Rusijos kariuomenėje (kasmet į rekrutus imami 5–7 tinkamo amžiaus vyrai iš 1 000, karo atveju ši norma būdavo padvigubinama).'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Užnemunė'
   pagrindžia:
     - c-002
 
@@ -44,6 +50,11 @@ amziai:
 - t-003
   global_id: t-75581
   teiginys: '1863 m. sausio pabaigoje paskelbtas naujas rekrutų ėmimas paskatino pradėti dar neparengtą sukilimą.'
+  sudarymo_pagrindimas: 'Pradiniame teiginyje yra antraštės triukšmo, citata leidžia suformuluoti pilną sakinį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Krymas; mentioned_place: Rusija'
+  temporaliniai_duomenys: 'įvykio data: 1863 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradiniame teiginyje yra antraštės triukšmo, citata leidžia suformuluoti pilną sakinį.'
   pagrindžia:
     - c-001
 
@@ -51,6 +62,11 @@ amziai:
 - t-004
   global_id: t-75582
   teiginys: '1831 m. pavasariop Žemaitijoje sukilimas prasidėjo spontaniškai dėl valdžios paskelbto rekrutų ėmimo.'
+  sudarymo_pagrindimas: 'Teiginį verta glaudžiau susieti su rekrutų prievole.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Suverenitetas|Suverenitetas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Rusija'
+  temporaliniai_duomenys: 'įvykio data: 1831 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginį verta glaudžiau susieti su rekrutų prievole.'
   pagrindžia:
     - c-003
 
@@ -58,9 +74,15 @@ amziai:
 - t-005
   global_id: t-183460
   teiginys: 'Valstiečiams rekrutų prievolė reiškė 25 metų tarnybą Rusijos kariuomenėje.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Reikia išskleisti neaiškų įvardį ir sutrumpinti teiginį iki enciklopedinio fakto.'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Užnemunė'
   pagrindžia:
     - c-004
-
+- susijęs iš [[objektai/zodynas/rekrutų prievolė rekrutai.md#claim-t-104194|rekrutų prievolė rekrutai]]: Didžiausia blogybė jiems buvo rekrutų prievolė – 25 metų tarnyba Rusijos kariuomenėje (kasmet į rekrutus imami 5–7 tinkamo amžiaus vyrai iš 1 000, karo atveju ši norma būdavo padvigubinama).
+- susijęs iš [[objektai/zodynas/rekrutų prievolė rekrutai.md#claim-t-183461|rekrutų prievolė rekrutai]]: Valstiečiams rekrutų prievolė reiškė 25 metų tarnybą Rusijos kariuomenėje.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -127,11 +149,3 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-005
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Suverenitetas]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/rekrutų prievolė rekrutai]]
-- [[objektai/paprociai/Rekrutų prievolė Rusijos kariuomenėje]]

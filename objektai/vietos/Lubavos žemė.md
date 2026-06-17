@@ -5,8 +5,10 @@ saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1216 m.'
+  - '1230 m.'
+  - '1234 m.'
 date_start: '1216'
-date_end: ''
+date_end: '1234'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -29,6 +31,11 @@ Dusburgietis teigia, kad tokiomis aplinkybėmis Lubavos žemės nobiliai, vadova
 - t-001
   global_id: t-58664
   teiginys: 'Dėl Lubavos žemės, tapusios vyskupo Kristijono valda, vėliau ginčijosi kryžiuočiai ir Konradas.'
+  sudarymo_pagrindimas: 'Teiginys pilnas ir atitinka citatoje nurodytą ginčą dėl žemės.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/bulė|bulė]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_place: Lenkija; mentioned_place: Lubava; mentioned_place: Prūsija'
+  temporaliniai_duomenys: 'įvykio data: 1234 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys pilnas ir atitinka citatoje nurodytą ginčą dėl žemės.'
   pagrindžia:
     - c-001
 
@@ -36,6 +43,8 @@ Dusburgietis teigia, kad tokiomis aplinkybėmis Lubavos žemės nobiliai, vadova
 - t-002
   global_id: t-58665
   teiginys: 'Lubavos žemės nobiliai, vadovaujami Survabūno, pripažino Kristijono valdžią.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nusako Lubavos žemės nobilių veiksmą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_place: Elbingas; mentioned_place: Lanzanija; mentioned_place: Lubava'
   pagrindžia:
     - c-002
 
@@ -43,6 +52,11 @@ Dusburgietis teigia, kad tokiomis aplinkybėmis Lubavos žemės nobiliai, vadova
 - t-003
   global_id: t-58666
   teiginys: 'Apie 1226 arba 1230 m. Kulmo ir Lubavos žemės buvo atiduotos Teutonų namų ordino broliams.'
+  sudarymo_pagrindimas: 'Teiginys yra tikslus, glaustas ir paremtas dovanojimo aprašymu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Agota|Agota]]; mentioned_person: [[objektai/asmenys/Grigalius (vicekancleris)|Grigalius (vicekancleris)]]; mentioned_place: Kujavija; mentioned_place: Kulmas; mentioned_place: Lubava; mentioned_place: Mazovija; mentioned_place: Prūsija'
+  temporaliniai_duomenys: 'įvykio data: 1230 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra tikslus, glaustas ir paremtas dovanojimo aprašymu.'
   pagrindžia:
     - c-003
 

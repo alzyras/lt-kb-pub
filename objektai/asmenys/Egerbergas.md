@@ -29,9 +29,15 @@ Iš tiesų jau 1323 metų pradžioje atvyko riteriai Zinnenbergas ir Egerbergas 
 - t-001
   global_id: t-87658
   teiginys: '1323 m. pradžioje Egerbergas su Zinnenbergu atvyko su stipriu kilmingų karių ir vasalų pulku iš Čekijos bei Pareinio žemių.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Egerbergą ir atitinka citatą.'
+  susije_objektai: 'location: Vilnius; location: Čekija; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Zinnenbergas|Zinnenbergas]]; mentioned_place: Vilnius; mentioned_place: Čekija'
+  semantiniai_rysiai: '[[objektai/asmenys/Egerbergas|Egerbergas]] keliavo į Vilnius; [[objektai/asmenys/Egerbergas|Egerbergas]] keliavo į Čekija'
+  temporaliniai_duomenys: 'kelionės data: 1323 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Egerbergas keliavo į Vilnius“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Egerbergas keliavo į Čekija“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie Egerbergą ir atitinka citatą.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Zinnenbergas.md#claim-t-87893|Zinnenbergas]]: 1323 metų pradžioje riteriai Zinnenbergas ir Egerbergas atvyko su stipriu kilmingų karių ir vasalų pulku.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -56,7 +62,5 @@ Iš tiesų jau 1323 metų pradžioje atvyko riteriai Zinnenbergas ir Egerbergas 
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/didysis magistras]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- Egerbergas keliavo_i [[objektai/vietos/Vilnius]]
+- Egerbergas keliavo_i [[objektai/vietos/Čekija]]

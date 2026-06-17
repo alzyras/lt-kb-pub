@@ -23,6 +23,8 @@ Dusburgietis teigia, kad — balista, Jer.— armbrost; arbaletas— kilpinis la
 - t-001
   global_id: t-58846
   teiginys: 'Henrikas Tupadelis buvo įgudęs balistininkas, raginęs apsuptuosius gintis ir gesinęs piliai padegti skirtus degalus.'
+  sudarymo_pagrindimas: 'Pradinis teiginys gramatiškai taisytinas, bet citata remia faktą apie balistininką.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Henrikas Tupadelis|Henrikas Tupadelis]]; mentioned_place: Viena'
   pagrindžia:
     - c-002
 
@@ -30,6 +32,8 @@ Dusburgietis teigia, kad — balista, Jer.— armbrost; arbaletas— kilpinis la
 - t-002
   global_id: t-58847
   teiginys: 'Arbaletas aiškinamas kaip kilpinis lankas, kurio templė įtempiama suktuvu.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus apibrėžimas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_object: [[objektai/daiktai/Arbaletas|Arbaletas]]'
   pagrindžia:
     - c-001
 
@@ -71,14 +75,3 @@ Dusburgietis teigia, kad — balista, Jer.— armbrost; arbaletas— kilpinis la
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/Henrikas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Sembai]]
-- [[objektai/grupes/Teutonai]]
-- [[objektai/zodynas/netikėliai]]
-- [[objektai/daiktai/Arbaletas]]
-- [[objektai/asmenys/Henrikas Tupadelis]]
-- [[objektai/ivykiai/Vėluvos pilies apsiaustis ir apgulties nutraukimas|Vėluvos pilies apsiaustis ir apgulties nutraukimas (pilis)]]

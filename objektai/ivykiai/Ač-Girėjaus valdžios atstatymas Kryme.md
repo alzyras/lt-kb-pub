@@ -7,18 +7,20 @@ datos:
   - '1438 m.'
   - '1439 m.'
   - '1449 m.'
+  - '1971 m.'
 date_start: '1438'
-date_end: '1449'
+date_end: '1971'
 sukurta: ''
 atnaujinta: ''
 amziai:
   - 'XV'
+  - 'XX'
 ---
 # Ač-Girėjaus valdžios atstatymas Kryme
 
 ## Santrauka
 
-Redakcinė pastaba nurodo, kad čia kalbama apie antrąjį Ač-Girėjaus valdžios atstatymą Kryme 1449 m. rugpjūčio mėn. Bychovco kronika Radvilos Astikaičio vaidmenį Ač-Girėjaus grįžime į Krymą vaizduoja kitaip negu J. Dlugošas. Redakcinė pastaba nurodo, kad šis pasakojimas apie Ač-Girėjaus grįžimą į Krymą žinomas tik iš BK.
+Redakcinė pastaba nurodo, kad Ač-Girėjaus pabėgimas iš Krymo į Lietuvą buvo susijęs su kova dėl Krymo tarp jo ir Seid-Achmato. Redakcinė pastaba nurodo, kad Žygimantas Kęstutaitis pirmą kartą sugrąžino Ač-Girėjų į Krymą apie 1438–1439 m.
 
 ## Laikotarpis ir datos
 
@@ -47,7 +49,13 @@ Nenurodyta
 <a id="claim-t-186758"></a>
 - t-001
   global_id: t-186758
-  teiginys: 'Redakcinė pastaba nurodo, kad čia kalbama apie antrąjį Ač-Girėjaus valdžios atstatymą Kryme 1449 m. rugpjūčio mėn.'
+  teiginys: '1971 m. leidinio pastaba Ač-Girėjaus valdžios atstatymą Kryme sieja su antruoju jo valdžios atkūrimu 1449 m. rugpjūtį.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Tai redakcinė interpretacija, todėl palikta aiški atribucija.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Dlugošas|Dlugošas]]; mentioned_person: [[objektai/autoriai/J. Dlugošas|J. Dlugošas]]; mentioned_place: Krymas'
+  temporaliniai_duomenys: 'įvykio data: 1449 m.; įvykio data: 1971 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Tai redakcinė interpretacija, todėl palikta aiški atribucija.'
   pagrindžia:
     - c-001
 
@@ -55,13 +63,12 @@ Nenurodyta
 - t-002
   global_id: t-186759
   teiginys: 'Bychovco kronika Radvilos Astikaičio vaidmenį Ač-Girėjaus grįžime į Krymą vaizduoja kitaip negu J. Dlugošas.'
-  pagrindžia:
-    - c-001
-
-<a id="claim-t-186760"></a>
-- t-003
-  global_id: t-186760
-  teiginys: 'Redakcinė pastaba nurodo, kad šis pasakojimas apie Ač-Girėjaus grįžimą į Krymą žinomas tik iš BK.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir atribuuoja Bychovco kronikos vaizdavimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_person: [[objektai/asmenys/Dlugošas|Dlugošas]]; mentioned_person: [[objektai/autoriai/J. Dlugošas|J. Dlugošas]]; mentioned_place: Krymas'
+  temporaliniai_duomenys: 'įvykio data: 1449 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir atribuuoja Bychovco kronikos vaizdavimą.'
   pagrindžia:
     - c-001
 
@@ -79,11 +86,4 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-    - t-003
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Dlugošas]]
-- [[objektai/autoriai/J. Dlugošas]]
-- [[objektai/grupes/Radvilos]]

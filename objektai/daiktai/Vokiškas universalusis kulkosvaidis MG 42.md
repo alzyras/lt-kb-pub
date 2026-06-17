@@ -20,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-Vokiškas universalusis kulkosvaidis MG 42 buvo sukurtas Antrojo pasaulinio karo metu kaip MG 34 pakaitalas. Vokiškas universalusis kulkosvaidis MG 42 naudojo 7,92x57 mm Mauser šovinius, svėrė 11,57 kg be trikojo ir šaudė 900–1500 šūvių per minutę.
+Partizanams vystant puolimą miestelyje juos iš cerkvės pasitiko kulkosvaidžio ugnis, vienam iš partizanų taiklia ugnimi pavyko jį nutildyti, bet tą pačią akimirką iš šalia esančios bažnyčios bokšto kulkosvaidžio ugnimi buvo nukauti ir sužeisti keli 232.
 
 ## Pavadinimai šaltiniuose
 
@@ -48,6 +48,7 @@ Nenurodyta
 - t-001
   global_id: t-39303
   teiginys: 'Vokiškas universalusis kulkosvaidis MG 42 buvo sukurtas Antrojo pasaulinio karo metu kaip MG 34 pakaitalas.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas, konkretus ir paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -55,6 +56,11 @@ Nenurodyta
 - t-002
   global_id: t-183689
   teiginys: 'Vokiškas universalusis kulkosvaidis MG 42 naudojo 7,92x57 mm Mauser šovinius, svėrė 11,57 kg be trikojo ir šaudė 900–1500 šūvių per minutę.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinėje formuluotėje yra OCR triukšmo ir ji nukrypsta nuo objekto; citata palaiko aiškius kulkosvaidžio duomenis.'
+  susije_objektai: 'mentioned_place: Alytus; mentioned_place: Druskininkai; mentioned_place: Merkinė'
   pagrindžia:
     - c-002
 

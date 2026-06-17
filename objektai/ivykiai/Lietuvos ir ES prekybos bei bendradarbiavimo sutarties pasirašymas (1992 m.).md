@@ -44,6 +44,11 @@ Nenurodyta
 - t-001
   global_id: t-20299
   teiginys: '1992 m. Lietuva ir ES pasirašė prekybos, komercinio bei ekonominio bendradarbiavimo sutartį ir priėmė deklaraciją dėl politinio dialogo.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiksliai perteikia sutarties bei deklaracijos faktą.'
+  susije_objektai: 'mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1992 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir tiksliai perteikia sutarties bei deklaracijos faktą.'
   pagrindžia:
     - c-001
 

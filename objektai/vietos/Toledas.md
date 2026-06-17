@@ -27,9 +27,18 @@ Dusburgietis teigia, kad apie tai, kaip Tolede buvo surasta akmenyje [iškalta] 
 - t-001
   global_id: t-58738
   teiginys: '1232 m. Tolede vienas žydas surado akmenyje iškaltą knygą su hebrajiškais, graikiškais ir lotyniškais įrašais.'
+  sudarymo_pagrindimas: 'Citata palaiko glaustą faktą apie Tolede rastą knygą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Adomas (auksakalys)|Adomas (auksakalys)]]'
+  temporaliniai_duomenys: 'įvykio data: 1232 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko glaustą faktą apie Tolede rastą knygą.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/daiktai/Akmeninė knyga.md#claim-t-59676|Akmeninė knyga]]: 1232 m. Tolede vienas žydas surado akmenyje iškaltą knygą su hebrajiškais, graikiškais ir lotyniškais įrašais.
+- susijęs iš [[objektai/ivykiai/Tolede akmeninės knygos suradimas ir žydo krikštas (1232 m.).md#claim-t-91920|Tolede akmeninės knygos suradimas ir žydo krikštas (1232 m.)]]: 1232 m. Tolede žydas rado akmenyje iškaltą knygą su hebrajiškais, graikiškais ir lotyniškais įrašais.
+- susijęs iš Martyno iš Opavos popiežių ir imperatorių istorija: 1232 m. Tolede vienas žydas esą rado akmenyje iškaltą knygą su hebrajiškais, graikiškais ir lotyniškais įrašais.
+- susijęs iš Tolede surasta akmeninė knyga: Pasak Dusburgiečio kronikos, 1232 m. Tolede žydas rado akmenyje iškaltą knygą hebrajų, graikų ir lotynų kalbomis.
+- susijęs iš Ispanija: 1232 m. Ispanijos Tolede vienas žydas rado akmenyje iškaltą knygą, užrašytą hebrajiškai, graikiškai ir lotyniškai.
 ## Reikšmingi paminėjimai
 
 - c-001

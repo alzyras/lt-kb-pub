@@ -38,6 +38,7 @@ Nenurodyta
 - t-001
   global_id: t-08306
   teiginys: 'Po kremacijos numirėlio pelenai buvo supilami į molio indą prieš įdedant jį į kapus.'
+  teiginio_tipas: 'faktas'
   pagrindžia:
     - c-001
 

@@ -12,21 +12,22 @@ tags:
 
 ## Santrauka
 
-Taikos tarpininkai vadovavo reformos vykdymo apylinkėms, į kurias buvo padalintos apskritys.
+Baudžiavos panaikinimo vykdymas buvo pačių dvarininkų rankose, nes visi taikos tarpininkai buvo renkami iš jų tarpo. Viso valstiečių savivaldybių veikimo priežiūra buvo pavesta taikos tarpininkams su taikos teisėjais.
 
 ## Teiginiai
+
 <a id="claim-t-104174"></a>
 - t-001
   global_id: t-104174
   teiginys: 'Taikos tarpininkai vadovavo reformos vykdymo apylinkėms, į kurias buvo padalintos apskritys.'
+  sudarymo_pagrindimas: 'Pradinis teiginys labiau tinka taikos suvažiavimams, todėl perrašyta pagal šio įrašo objektą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Baudžiava|Baudžiava]]'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Taikos tarpininkai vadovavo reformos vykdymo apylinkėms, į kurias buvo padalintos apskritys.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Reformai atlikti buvo sudarytos apskrityse valstiečių ko-
@@ -37,14 +38,8 @@ Taikos tarpininkai vadovavo reformos vykdymo apylinkėms, į kurias buvo padalin
     Baudžiavos panaikinimo vykdymas buvo pačių dvarininkų
     rankose, nes visi taikos tarpininkai buvo renkami iš jų tarpo.
     Dvarininkai, žinoma, tik savimi tesirūpino.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Baudžiava]]

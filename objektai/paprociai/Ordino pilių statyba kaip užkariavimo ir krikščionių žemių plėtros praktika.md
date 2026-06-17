@@ -42,6 +42,9 @@ Nenurodyta
 - t-001
   global_id: t-62703
   teiginys: 'Petras iš Dusburgo Ordino pilių statybą vaizdavo kaip užkariavimų įtvirtinimą iš Dievo malonės ir „viešpaties darbą“.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Citata remia aiškesnį vieno sakinio teiginį be perteklinio įvado.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_person: [[objektai/asmenys/Petras iš Dusburgo|Petras iš Dusburgo]]'
   pagrindžia:
     - c-001
 
@@ -49,6 +52,9 @@ Nenurodyta
 - t-002
   global_id: t-62704
   teiginys: 'Marienverderio ir Kristmemelio pilys Dusburgiečio pasakojime siejamos su keliu į netikėlių žemes ir krikščionių žemių plėtra.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Citata pagrindžia konkretesnį teiginį apie pilių statybos religinį ir ekspansinį aiškinimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_person: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_person: [[objektai/asmenys/Petras iš Dusburgo|Petras iš Dusburgo]]; mentioned_place: Kristmemelis; mentioned_place: Marienverderis; mentioned_place: Prūsai'
   pagrindžia:
     - c-002
 
@@ -100,11 +106,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/Dusburgas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Petras iš Dusburgo|Petras iš Dusburgo (kunigas)]]
-- [[objektai/zodynas/netikėliai]]
-- [[objektai/daiktai/Pilys]]

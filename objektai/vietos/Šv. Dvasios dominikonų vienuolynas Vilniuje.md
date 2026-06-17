@@ -23,6 +23,8 @@ Dominyko ordino brolių pa­ mokslininkų vienuolyno, esančio prie Šv. Dvasios
 - t-001
   global_id: t-86125
   teiginys: 'Prieglaudos namus vargšams ir ligoniams buvo numatyta statyti prie Šv. Dvasios dominikonų vienuolyno Vilniuje.'
+  sudarymo_pagrindimas: 'Citata pagrindžia prieglaudos vietą prie vienuolyno.'
+  susije_objektai: 'mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -30,6 +32,8 @@ Dominyko ordino brolių pa­ mokslininkų vienuolyno, esančio prie Šv. Dvasios
 - t-002
   global_id: t-86126
   teiginys: 'Šv. Dvasios vienuolyno vyresnysis ir broliai buvo įpareigoti prieglaudoje laikyti Mišias, klausyti išpažinčių ir dalyti komuniją.'
+  sudarymo_pagrindimas: 'Citata aiškiai nurodo vienuolyno pareigas.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]'
   pagrindžia:
     - c-001
 

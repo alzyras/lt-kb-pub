@@ -3,11 +3,20 @@ tipas: autorius
 pavadinimas: 'P. Tarasenka'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+datos:
+  - '1929 m.'
+  - '1973 m.'
+date_start: '1929'
+date_end: '1973'
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
   - ritualas
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'modernioji Lietuva'
 ---
 # P. Tarasenka
 
@@ -16,15 +25,22 @@ tags:
 Tarasenka, Lietuvos archeologijos medžiaga (1929); B. Tarasenka, Apeiginiai L.
 
 ## Teiginiai
+
 <a id="claim-t-71551"></a>
 - t-001
   global_id: t-71551
   teiginys: 'P. Tarasenka 1929 m. Kaune išleido veikalą „Lietuvos archeologijos medžiaga“.'
+  sudarymo_pagrindimas: 'Citata palaiko faktą apie Tarasenkos leidinį ir jo išleidimo duomenis.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Baltija; mentioned_place: Kaunas; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1929 m.; įvykio data: 1973 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko faktą apie Tarasenkos leidinį ir jo išleidimo duomenis.'
   pagrindžia:
-    - c-002
     - c-001
-
+    - c-002
+- susijęs iš [[objektai/autoriai/Tarasenka P.md#claim-t-64858|Tarasenka P]]: P. Tarasenka cituojamas kaip šaltinis apie žmonių stebuklingu laikytą akmenį prie Vištyčio miestelio.
 ## Reikšmingi paminėjimai
+
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -45,6 +61,7 @@ Tarasenka, Lietuvos archeologijos medžiaga (1929); B. Tarasenka, Apeiginiai L.
   statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'P. Tarasenka 1929 m. Kaune išleido veikalą „Lietuvos archeologijos medžiaga“.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -61,11 +78,3 @@ Tarasenka, Lietuvos archeologijos medžiaga (1929); B. Tarasenka, Apeiginiai L.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/ritualas]]
-
-### Susiję objektai
-- [[objektai/daiktai/Kalavijas]]
-- [[objektai/zodynas/metraštis]]

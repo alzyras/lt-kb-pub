@@ -3,21 +3,17 @@ tipas: autorius
 pavadinimas: 'Petras Kojelavičius'
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos:
-  - '1417 m.'
-  - '1453 m.'
-date_start: '1417'
-date_end: '1453'
+datos: []
+date_start: ''
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
   - dokumentas
   - vyskupas
-amziai:
-  - 'XV'
-periodo_grupes:
-  - 'LDK'
+amziai: []
+periodo_grupes: []
 ---
 # Petras Kojelavičius
 
@@ -31,6 +27,8 @@ Pirmasis jų: lotyniškas rankraštis, bu­ vęs Vilniaus universiteto bibliotek
 - t-001
   global_id: t-88013
   teiginys: 'Kojelavičius ir Naramovskis klaidingai vadino vyskupą Mikalojų Borkovskiu, nors jis buvo Gožkovskis.'
+  sudarymo_pagrindimas: 'Pradinis teiginys turi OCR triukšmo, bet citata palaiko aiškią klaidos formuluotę.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/Adamas Ign. Naramowski|Adamas Ign. Naramowski]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/autoriai/Soltykovičius|Soltykovičius]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -38,6 +36,11 @@ Pirmasis jų: lotyniškas rankraštis, bu­ vęs Vilniaus universiteto bibliotek
 - t-002
   global_id: t-88014
   teiginys: 'Petras Kojelavičius vyskupui Motiejui priskyrė 1417-1453 m. vyskupavimo laikotarpį.'
+  sudarymo_pagrindimas: 'Citata palaiko teiginį, kad Kojelavičius ir kiti istorikai Motiejui buvo davę 36 metų vyskupavimo tarpsnį.'
+  susije_objektai: 'mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: iki 1453 m.; įvykio data: po 1417 m.; įvykio data: 1417 m.; įvykio data: 1417-1453; įvykio data: 1427 m.; įvykio data: 1453 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko teiginį, kad Kojelavičius ir kiti istorikai Motiejui buvo davę 36 metų vyskupavimo tarpsnį.'
   pagrindžia:
     - c-004
 
@@ -45,6 +48,8 @@ Pirmasis jų: lotyniškas rankraštis, bu­ vęs Vilniaus universiteto bibliotek
 - t-003
   global_id: t-88015
   teiginys: 'Petras Kojelavičius parašė lotyniškas trumpas panegirikas Vilniaus vyskupams.'
+  sudarymo_pagrindimas: 'Citata palaiko aiškesnį sakinį apie Petro Kojelavičiaus autorystę be rankraščio aprašo triukšmo.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/diecezija|diecezija]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 
@@ -52,6 +57,11 @@ Pirmasis jų: lotyniškas rankraštis, bu­ vęs Vilniaus universiteto bibliotek
 - t-004
   global_id: t-88016
   teiginys: 'Petras Kojelavičius 1654 m. Vilniuje išleido „Elogia Episcoporum Vilnensium“.'
+  sudarymo_pagrindimas: 'Citata pagrindžia kūrinio autorystę, pavadinimą, leidimo vietą ir metus.'
+  susije_objektai: 'mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1654 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia kūrinio autorystę, pavadinimą, leidimo vietą ir metus.'
   pagrindžia:
     - c-002
 
@@ -140,7 +150,3 @@ Pirmasis jų: lotyniškas rankraštis, bu­ vęs Vilniaus universiteto bibliotek
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/diecezija]]

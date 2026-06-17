@@ -3,11 +3,9 @@ tipas: autorius
 pavadinimas: 'Michał Baliński Mykolas Balinskis'
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos:
-  - '1825 m.'
-  - '1841 m.'
-date_start: '1825'
-date_end: '1841'
+datos: []
+date_start: ''
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -15,16 +13,14 @@ tags:
   - karalius
   - kunigaikštis
   - vyskupas
-amziai:
-  - 'XIX'
-periodo_grupes:
-  - 'naujieji laikai'
+amziai: []
+periodo_grupes: []
 ---
 # Michał Baliński Mykolas Balinskis
 
 ## Santrauka
 
-M. Balinskio „Laiškai nuo Kražantės upės kranto“ buvo spausdinti laikraštyje „Gazeta Warszawska“. Rodyklė apima įvadą ir M. Balinskio veikalo vertimą. M. Balinskis paliko nemažai istorinių darbų ir apybraižų, dalis jų liko rankraščiuose.
+Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypatinga, padėjusia ateinančioms kartoms formuoti istorinės savimonės pagrindus. Balinskis pa­ liko nemažai istorinių darbų ir apybraižų, dalis jų - rankraš­ čiuose. Balinskis prisipažįsta, kad Vilniaus miesto is­ torijos pirmąjį tomą baigė rašyti 1825 metų pradžioje.
 
 ## Teiginiai
 
@@ -32,6 +28,8 @@ M. Balinskio „Laiškai nuo Kražantės upės kranto“ buvo spausdinti laikra�
 - t-001
   global_id: t-182787
   teiginys: 'M. Balinskio „Laiškai nuo Kražantės upės kranto“ buvo spausdinti laikraštyje „Gazeta Warszawska“.'
+  sudarymo_pagrindimas: 'Citata palaiko konkretesnį faktą, o pradinis teiginys neaiškus.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-010
 
@@ -39,6 +37,8 @@ M. Balinskio „Laiškai nuo Kražantės upės kranto“ buvo spausdinti laikra�
 - t-002
   global_id: t-182788
   teiginys: 'Rodyklė apima įvadą ir M. Balinskio veikalo vertimą.'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo fragmentas, o citata leidžia suformuluoti pilną sakinį.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/asmenys/Andriejus|Andriejus]]; mentioned_person: [[objektai/asmenys/Andrius Algirdaitis|Andrius Algirdaitis]]; mentioned_person: [[objektai/asmenys/Andrius iš Vasilevo|Andrius iš Vasilevo]]; mentioned_person: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_person: [[objektai/asmenys/Vaidotas|Vaidotas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Dobrynė; mentioned_place: Vasilevas; mentioned_place: Vilnius'
   pagrindžia:
     - c-004
 
@@ -46,6 +46,8 @@ M. Balinskio „Laiškai nuo Kražantės upės kranto“ buvo spausdinti laikra�
 - t-003
   global_id: t-182789
   teiginys: 'M. Balinskis paliko nemažai istorinių darbų ir apybraižų, dalis jų liko rankraščiuose.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys ir atitinka citatą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_place: Lenkija; mentioned_place: Vilnius'
   pagrindžia:
     - c-007
 
@@ -53,6 +55,8 @@ M. Balinskio „Laiškai nuo Kražantės upės kranto“ buvo spausdinti laikra�
 - t-004
   global_id: t-182790
   teiginys: 'M. Balinskis buvo Vilniaus universiteto suklestėjimo ir žlugimo liudininkas bei miesto kultūrinio gyvenimo dalyvis.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citata apie Balinskį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_person: [[objektai/asmenys/Tadas Kosciuška|Tadas Kosciuška]]; mentioned_person: [[objektai/asmenys/Teodoras|Teodoras]]; mentioned_place: Viena; mentioned_place: Vilnius'
   pagrindžia:
     - c-011
 
@@ -60,6 +64,11 @@ M. Balinskio „Laiškai nuo Kražantės upės kranto“ buvo spausdinti laikra�
 - t-005
   global_id: t-182791
   teiginys: 'Mykolo Balinskio „Vilniaus miesto istorijos“ 2007 m. leidimą iš lenkų kalbos vertė Ona Slavėnaitė ir Irena Katilienė.'
+  sudarymo_pagrindimas: 'Citata patvirtina leidinio pavadinimą ir vertėjas, pašalinus puslapio bei leidybos triukšmą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/asmenys/Danutė|Danutė]]; mentioned_person: [[objektai/autoriai/Irena Katilienė|Irena Katilienė]]; mentioned_person: [[objektai/autoriai/Jūratė Dalia Baronienė|Jūratė Dalia Baronienė]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_person: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_person: [[objektai/autoriai/Ona Slavėnaitė|Ona Slavėnaitė]]; mentioned_person: [[objektai/autoriai/Romas Dubonis|Romas Dubonis]]; mentioned_person: [[objektai/autoriai/Skirmantė Ramanauskaitė|Skirmantė Ramanauskaitė]]; mentioned_place: Lietuva; mentioned_place: Utena; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 2007 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata patvirtina leidinio pavadinimą ir vertėjas, pašalinus puslapio bei leidybos triukšmą.'
   pagrindžia:
     - c-001
 
@@ -67,6 +76,11 @@ M. Balinskio „Laiškai nuo Kražantės upės kranto“ buvo spausdinti laikra�
 - t-006
   global_id: t-182792
   teiginys: 'Pirmoji M. Balinskio „Vilniaus miesto istorijos“ dalis pasirodė 1836 m.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas citata apie veikalo dalies pasirodymą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_person: [[objektai/autoriai/S. Daukantas|S. Daukantas]]; mentioned_person: [[objektai/asmenys/Simonas Daukantas|Simonas Daukantas]]; mentioned_person: [[objektai/asmenys/Teodoras|Teodoras]]; mentioned_person: [[objektai/asmenys/Teodoras Narbutas|Teodoras Narbutas]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1835 m.; įvykio data: 1836 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir paremtas citata apie veikalo dalies pasirodymą.'
   pagrindžia:
     - c-002
 
@@ -74,6 +88,11 @@ M. Balinskio „Laiškai nuo Kražantės upės kranto“ buvo spausdinti laikra�
 - t-007
   global_id: t-182793
   teiginys: 'Mykolas Balinskis parašė „Vilniaus miesto istoriją“, kurios antras tomas apėmė 1430-1586 m. Vilniaus istoriją.'
+  sudarymo_pagrindimas: 'Citata yra titulinis puslapis, patvirtinantis autorių, kūrinį ir antro tomo chronologines ribas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Jogailaičiai|Jogailaičiai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/Magdeburgo teisės|Magdeburgo teisės]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/paliaubos|paliaubos]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kazimieras Jogailaitis|Kazimieras Jogailaitis]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_person: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Ašmena; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Naugardas; mentioned_place: Pabaiskas; mentioned_place: Prūsija; mentioned_place: Pskovas; mentioned_place: Silezija; mentioned_place: Trakai; mentioned_place: Vilnius; mentioned_place: Voluinė'
+  temporaliniai_duomenys: 'įvykio data: 1430-1586; įvykio data: 1560 m.; įvykio data: 1586 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata yra titulinis puslapis, patvirtinantis autorių, kūrinį ir antro tomo chronologines ribas.'
   pagrindžia:
     - c-006
 
@@ -81,6 +100,8 @@ M. Balinskio „Laiškai nuo Kražantės upės kranto“ buvo spausdinti laikra�
 - t-008
   global_id: t-182794
   teiginys: 'Mykolas Balinskis Vilnių apibūdino kaip Lietuvos mokslo ir vyriausiosios valdžios centrą.'
+  sudarymo_pagrindimas: 'Citata leidžia formuluoti aiškų teiginį apie Balinskio pateiktą Vilniaus apibūdinimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_person: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_person: [[objektai/autoriai/Stasys Šalkauskis|Stasys Šalkauskis]]; mentioned_person: [[objektai/asmenys/Teodoras|Teodoras]]; mentioned_person: [[objektai/asmenys/Teodoras Narbutas|Teodoras Narbutas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/autoriai/Vincas Vyčinas|Vincas Vyčinas]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Vilnius'
   pagrindžia:
     - c-008
 
@@ -88,6 +109,11 @@ M. Balinskio „Laiškai nuo Kražantės upės kranto“ buvo spausdinti laikra�
 - t-009
   global_id: t-182795
   teiginys: 'M. Balinskis dėkojo Ignui Danilavičiui, Ignui Onacevičiui ir Pranciškui Malevskiui už pagalbą istoriniais dokumentais.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas citata apie Balinskio padėkas už dokumentinę pagalbą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/autoriai/Danilavičius|Danilavičius]]; mentioned_person: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_person: [[objektai/autoriai/Pranciškus Malevskis|Pranciškus Malevskis]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1430 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir paremtas citata apie Balinskio padėkas už dokumentinę pagalbą.'
   pagrindžia:
     - c-005
 
@@ -95,6 +121,11 @@ M. Balinskio „Laiškai nuo Kražantės upės kranto“ buvo spausdinti laikra�
 - t-010
   global_id: t-182796
   teiginys: '1841 m. M. Balinskis tapo vienu iš enciklopedinio leidinio Biblioteka Warszawska steigėjų.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas citata apie Biblioteka Warszawska steigimą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_person: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1841 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir paremtas citata apie Biblioteka Warszawska steigimą.'
   pagrindžia:
     - c-009
 
@@ -102,6 +133,8 @@ M. Balinskio „Laiškai nuo Kražantės upės kranto“ buvo spausdinti laikra�
 - t-011
   global_id: t-182797
   teiginys: 'M. Balinskis laiške Joachimui Leleveliui rašė, kad Vilniaus miesto istorijos pirmąjį tomą baigė 1825 metų pradžioje.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiksliai paremtas citata apie laišką Leleveliui.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/asmenys/Joachimas (Pskovo vietininkas)|Joachimas (Pskovo vietininkas)]]; mentioned_person: [[objektai/autoriai/Lelevelis|Lelevelis]]; mentioned_person: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 
@@ -399,33 +432,3 @@ M. Balinskio „Laiškai nuo Kražantės upės kranto“ buvo spausdinti laikra�
   statusas: verified
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/redaktorius]]
-
-### Susiję objektai
-- [[objektai/asmenys/Aleksandras Balinskis]]
-- [[objektai/asmenys/Andriejus]]
-- [[objektai/asmenys/Andrius Algirdaitis]]
-- [[objektai/asmenys/Andrius iš Vasilevo]]
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
-- [[objektai/grupes/Jogailaičiai]]
-- [[objektai/asmenys/Kazimieras Jogailaitis]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Lotynai]]
-- [[objektai/zodynas/Magdeburgo teisės]]
-- [[objektai/asmenys/Mykolas]]
-- [[objektai/autoriai/Mykolas Balinskis]]
-- [[objektai/asmenys/Steponas Batoras]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/asmenys/Vaidotas]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/pagonybė]]
-- [[objektai/zodynas/paliaubos]]
-- [[objektai/asmenys/Švitrigaila]]
-- [[objektai/asmenys/Žygimantas]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]

@@ -20,6 +20,8 @@ Antroje eilėje (stovi) iš kairės: ketvirtas - Vakarų Lietuvos srities štabo
 - t-001
   global_id: t-40001
   teiginys: 'Aleksandras Milaševičius-Ruonis buvo Vakarų Lietuvos srities vadas.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie asmens pareigas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vakarų Lietuvos (Jūros) sritis|Vakarų Lietuvos (Jūros) sritis]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_person: [[objektai/asmenys/Antanas Liesys-Idenas|Antanas Liesys-Idenas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Robertas (Sicilijos karalius)|Robertas (Sicilijos karalius)]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Perloja'
   pagrindžia:
     - c-001
 
@@ -58,10 +60,3 @@ Antroje eilėje (stovi) iš kairės: ketvirtas - Vakarų Lietuvos srities štabo
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Vakarų Lietuvos (Jūros) sritis]]
-- [[objektai/zodynas/Adynos|adynos]]
-- [[objektai/zodynas/įgula]]
-- [[objektai/grupes/Tauro apygarda]]

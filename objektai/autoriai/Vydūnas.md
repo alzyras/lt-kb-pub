@@ -13,13 +13,23 @@ tags:
 
 ## Santrauka
 
-Vydūnas šaltinyje nurodomas kaip Vilius Storasta. Vydūnas nurodytas tarp autorių, palaikiusių aptariamą mintį. Tilžėje gyvenęs rašytojas filosofas Vydūnas vadovavo vietos lietuviams ir dėl to patyrė persekiojimą.
+Ypač daug tenka nukentėti Tilžėje gyvenančiam rašytojui filosofui Vydūnui, kuris vadovauja vietos lietuviams. Vydūnas (Vilius Storasta).
 
 ## Teiginiai
+
+<a id="claim-t-89486"></a>
+- t-001
+  global_id: t-89486
+  teiginys: 'Vydūnas šaltinyje nurodomas kaip Vilius Storasta.'
+  sudarymo_pagrindimas: 'Citata yra tik vardinis įrašas, todėl reikia atsargios formuluotės apie nurodymą.'
+  pagrindžia:
+    - c-001
+
 <a id="claim-t-89487"></a>
 - t-002
   global_id: t-89487
   teiginys: 'Vydūnas nurodytas tarp autorių, palaikiusių aptariamą mintį.'
+  sudarymo_pagrindimas: 'Citata neatskleidžia pačios minties turinio, todėl galima formuluoti tik atsargų teiginį apie Vydūno pozicijos paminėjimą.'
   pagrindžia:
     - c-002
 
@@ -27,18 +37,25 @@ Vydūnas šaltinyje nurodomas kaip Vilius Storasta. Vydūnas nurodytas tarp auto
 - t-003
   global_id: t-89488
   teiginys: 'Tilžėje gyvenęs rašytojas filosofas Vydūnas vadovavo vietos lietuviams ir dėl to patyrė persekiojimą.'
+  sudarymo_pagrindimas: 'Citata paremia aiškesnį sakinį apie Vydūno vaidmenį ir patirtą spaudimą.'
   pagrindžia:
     - c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-004
-  teiginys: 'Vydūnas šaltinyje nurodomas kaip Vilius Storasta.'
-  pagrindžia:
-    - c-004
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-
+- susijęs iš [[objektai/autoriai/Vileišis V.md#claim-t-62662|Vileišis V]]: V. Vileišis yra 1935 m. Kaune išleisto veikalo „Tautiniai santykiai Mažojoje Lietuvoje ligi Didžiojo karo istorijos ir statistikos šviesoje“ autorius.
+- susijęs iš Vileišis V. Tautiniai santykiai Mažojoje Lietuvoje ligi Didžiojo karo istorijos ir statistikos šviesoje: V. Vileišio darbas apie tautinius santykius Mažojoje Lietuvoje ligi Didžiojo karo išleistas Kaune 1935 m.
+- susijęs iš [[objektai/zodynas/prūsas Prūsa Prūsija.md#claim-t-58794|prūsas Prūsa Prūsija]]: Manoma, kad žodžiai *prūsis ir *prūsas iš pradžių galėjo reikšti išprususius, išsilavinusius žmones.
 ## Reikšmingi paminėjimai
+
+- c-001
+  santrauka: 'Vydūnas šaltinyje nurodomas kaip Vilius Storasta.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Vydūnas (Vilius Storasta).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
 - c-002
   santrauka: 'Vydūnas nurodytas tarp autorių, palaikiusių aptariamą mintį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -50,6 +67,7 @@ Vydūnas šaltinyje nurodomas kaip Vilius Storasta. Vydūnas nurodytas tarp auto
   statusas: verified
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'Tilžėje gyvenęs rašytojas filosofas Vydūnas vadovavo vietos lietuviams ir dėl to patyrė persekiojimą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -61,28 +79,8 @@ Vydūnas šaltinyje nurodomas kaip Vilius Storasta. Vydūnas nurodytas tarp auto
     strantai išdaužo jiems langus, o juos pačius sumuša. Ypač daug
     tenka nukentėti Tilžėje gyvenančiam rašytojui filosofui Vydūnui,
     kuris vadovauja vietos lietuviams.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-003
-- c-004
-  santrauka: 'Vydūnas šaltinyje nurodomas kaip Vilius Storasta.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Vydūnas (Vilius Storasta).
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/prūsas Prūsa Prūsija]]

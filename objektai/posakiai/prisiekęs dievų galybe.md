@@ -21,9 +21,14 @@ Dusburgietis teigia, kad neilgai trukus vadas Surminas paliko šią pilį prisie
 - t-001
   global_id: t-59155
   teiginys: 'Vadas Surminas, palikęs pilį, prisiekė dievų galybe ateityje nelaukti brolių antpuolio prieš pilį.'
+  sudarymo_pagrindimas: 'Pradinis teiginys beveik pažodinis ir turi neaiškią nuorodą į „šią pilį“.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Surminas|Surminas]]'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Surminas.md#claim-t-60000|Surminas]]: Surminas paliko pilį ir prisiekė ateityje nelaukti, kol Ordino broliai užpuls kurią nors pilį.
+- susijęs iš [[objektai/ivykiai/Kolainių pilies puolimas (1290 m. balandžio 23 d.).md#claim-t-62830|Kolainių pilies puolimas (1290 m. balandžio 23 d.)]]: Per Kolainių pilies puolimą visi pilėnai, išskyrus 12 žmonių, buvo mirtinai sužeisti.
+- susijęs iš [[objektai/ivykiai/Kolainių pilies puolimas (1290 m.).md#claim-t-70948|Kolainių pilies puolimas (1290 m.)]]: Kolainių apgula nutrūko, kai sargybos raitelių triukšmo išgąsdinti paprasti kariai pabėgo prie laivų.
+- susijęs iš Kolainių pilis (pilis): Surminas paliko Kolainių pilį po to, kai Ordino broliai dėl sąmyšio turėjo nutraukti jos apgulą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -57,9 +62,3 @@ Dusburgietis teigia, kad neilgai trukus vadas Surminas paliko šią pilį prisie
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Surminas]]
-- [[objektai/ivykiai/Kolainių pilies puolimas (1290 m. balandžio 23 d.)]]
-- [[objektai/ivykiai/Kolainių pilies puolimas (1290 m.)]]

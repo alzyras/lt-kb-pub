@@ -45,6 +45,11 @@ Nenurodyta
 - t-001
   global_id: t-86925
   teiginys: '1381 m. Skirgaila su Livonijos magistru 12 savaičių laikė apsupę Polocką, bet apgultį nutraukė dėl pokyčių Lietuvoje.'
+  sudarymo_pagrindimas: 'Fragmentas perrašytas į užbaigtą sakinį apie apgultį.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Polockas'
+  temporaliniai_duomenys: 'įvykio data: 1381 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Fragmentas perrašytas į užbaigtą sakinį apie apgultį.'
   pagrindžia:
     - c-001
 
@@ -78,15 +83,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/paliaubos]]
-
-### Susiję objektai
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- [[objektai/daiktai/Pilys]]
-- [[objektai/asmenys/Skirgaila]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/daiktai/Žirgai]]

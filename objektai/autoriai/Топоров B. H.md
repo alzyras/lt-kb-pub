@@ -23,6 +23,8 @@ Dusburgietis teigia, kad galindai, p. 29; Топоров B. Dusburgietis teigia,
 - t-001
   global_id: t-175153
   teiginys: 'Топоров B. H. siejo mitologinį personažą su šaknimi „vėl-“ vadinamajame pagrindiniame mite.'
+  sudarymo_pagrindimas: 'Citata leidžia suformuluoti aiškų faktą apie autoriaus mitologinį aiškinimą.'
+  susije_objektai: 'mentioned_place: Panemunė; mentioned_place: Rambynas'
   pagrindžia:
     - c-001
 
@@ -30,6 +32,8 @@ Dusburgietis teigia, kad galindai, p. 29; Топоров B. Dusburgietis teigia,
 - t-002
   global_id: t-175154
   teiginys: 'Топоров B. H. veikale apie prūsų kalbą aptarė Krivį.'
+  sudarymo_pagrindimas: 'Citata tiesiogiai nurodo autoriaus darbą apie Krivį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_person: [[objektai/asmenys/Krivis|Krivis]]; mentioned_place: Prūsai'
   pagrindžia:
     - c-002
 
@@ -65,7 +69,3 @@ Dusburgietis teigia, kad galindai, p. 29; Топоров B. Dusburgietis teigia,
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Baltai]]

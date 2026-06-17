@@ -5,6 +5,11 @@ saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1267 m.'
+  - '1271 m.'
+  - '1273 m.'
+  - '1276 m.'
+  - '1279 m.'
+  - '1289 m.'
   - '1418 m.'
 date_start: '1267'
 date_end: '1418'
@@ -47,6 +52,11 @@ Nenurodyta
 - t-001
   global_id: t-66552
   teiginys: 'Glapo valdinys Steinavas išdavė Karaliaučiaus komtūrui Glapo planą pulti pilį Sembos žemėje prie Gėlavandenių marių.'
+  sudarymo_pagrindimas: 'Citata remia konkretesnį faktą apie Steinavo išdavystę; pradinis sakinys tik pradeda pasakojimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_group: [[objektai/grupes/Varmiai|Varmiai]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Glapas|Glapas]]; mentioned_person: [[objektai/asmenys/Herkus Mantas|Herkus Mantas]]; mentioned_person: [[objektai/asmenys/Hermanas|Hermanas]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/asmenys/Mantas|Mantas]]; mentioned_person: [[objektai/asmenys/Steinavas|Steinavas]]; mentioned_place: Aistmarios; mentioned_place: Auksinė; mentioned_place: Kristburgas; mentioned_place: Kulmas; mentioned_place: Norkyčiai; mentioned_place: Prūsija; mentioned_place: Semba; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: iki 1276 m.; įvykio data: 1267 m.; įvykio data: 1271 m.; įvykio data: po 1273 m.; įvykio data: 1273 m.; įvykio data: 1276 m.; įvykio data: 1279 m.; įvykio data: 1289 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data.'
+  temporalinis_llm_pakomentavimas: 'Citata remia konkretesnį faktą apie Steinavo išdavystę; pradinis sakinys tik pradeda pasakojimą.'
   pagrindžia:
     - c-001
 
@@ -54,6 +64,8 @@ Nenurodyta
 - t-002
   global_id: t-66553
   teiginys: 'Išžudžius karo vadus, notangai ir varmiai vėl pasidavė tikėjimui ir Teutonų ordino broliams.'
+  sudarymo_pagrindimas: 'Pradinis teiginys turi perteklinį autorystės įvadą; citata remia tą patį faktą aiškesne forma.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_group: [[objektai/grupes/Varmiai|Varmiai]]; mentioned_person: [[objektai/asmenys/Glapas|Glapas]]'
   pagrindžia:
     - c-002
 
@@ -61,6 +73,8 @@ Nenurodyta
 - t-003
   global_id: t-66554
   teiginys: 'Užkluptas prie apgultos pilies Glapas buvo nuvarytas į Karaliaučių ir pakartas ant kalvos, vadintos Glapo kalva.'
+  sudarymo_pagrindimas: 'Pradinė formuluotė prasideda kontekstiniu jungtuku ir turi dviprasmį veiksnį; citata remia aiškų sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_group: [[objektai/grupes/Varmiai|Varmiai]]; mentioned_person: [[objektai/asmenys/Glapas|Glapas]]; mentioned_place: Glapo kalva'
   pagrindžia:
     - c-002
     - c-003
@@ -136,18 +150,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Glapas]]
-- [[objektai/asmenys/Herkus Mantas]]
-- [[objektai/asmenys/Hermanas]]
-- [[objektai/asmenys/Konradas]]
-- [[objektai/asmenys/Mantas]]
-- [[objektai/grupes/Notangai]]
-- [[objektai/asmenys/Steinavas]]
-- [[objektai/grupes/Varmiai]]
-- [[objektai/zodynas/Adynos|adynos]]
-- [[objektai/zodynas/komtūras]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/grupes/Teutonai]]

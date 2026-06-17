@@ -34,6 +34,8 @@ Prisimena mūšio dalyvis J. Juška:. Prieš kokią valandą iki mūšio, - toli
 - t-001
   global_id: t-67411
   teiginys: 'J. Juška teigė, kad Ažagų-Eimuliškio miško kautynėse okupantų pajėgos žmonių skaičiumi galėjo būti 10 ar 20 kartų pranašesnės už partizanus.'
+  sudarymo_pagrindimas: 'Citata palaiko konkrečią, enciklopedinę formuluotę apie jėgų santykį.'
+  susije_objektai: 'mentioned_object: [[objektai/posakiai/karas po karo|karas po karo]]; mentioned_person: [[objektai/asmenys/J. Juška|J. Juška]]'
   pagrindžia:
     - c-002
 
@@ -41,6 +43,8 @@ Prisimena mūšio dalyvis J. Juška:. Prieš kokią valandą iki mūšio, - toli
 - t-002
   global_id: t-67412
   teiginys: 'J. Juška pasakojo, kad Ažagų-Eimuliškio miško kautynės prasidėjo ankstų rytą ir truko iki pavakario.'
+  sudarymo_pagrindimas: 'Ilga atsiminimų ištrauka sutrumpinta iki aiškaus fakto.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.)|Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.)]]; mentioned_group: [[objektai/grupes/Raudonieji|Raudonieji]]; mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_person: [[objektai/asmenys/J. Juška|J. Juška]]; mentioned_place: Kaimas; mentioned_place: Smilgiai'
   pagrindžia:
     - c-001
 

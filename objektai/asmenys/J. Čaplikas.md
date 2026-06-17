@@ -20,6 +20,7 @@ tags:
 - t-001
   global_id: t-40170
   teiginys: 'J. Čaplikas puolė Jestšembną, sustabdė lenkus ir galėjo atsitraukti į Gruškų-Liepynės liniją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Suvalkai'
   pagrindžia:
     - c-002
 
@@ -27,6 +28,8 @@ tags:
 - t-002
   global_id: t-40171
   teiginys: 'J. Čapliko pagrindinės pajėgos vakare priartėjo prie Augustavo.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas sakinys apie J. Čapliko pajėgų judėjimą ir atitinka citatą.'
+  susije_objektai: 'mentioned_place: Augustavas'
   pagrindžia:
     - c-001
 
@@ -58,7 +61,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]

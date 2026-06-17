@@ -39,6 +39,14 @@ Nenurodyta
 - t-001
   global_id: t-185891
   teiginys: 'Augustas ir Barbora krikščioniškomis apeigomis prisiekė santuokinę ištikimybę Stanislovo Kęsgailos ir dviejų Radvilų akivaizdoje.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys gramatiškas ir tiesiogiai paremtas citata apie Augusto ir Barboros santuoką.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_person: [[objektai/asmenys/Kęsgaila|Kęsgaila]]; mentioned_place: Augsburgas; mentioned_place: Dubingiai; mentioned_place: Nesvyžius; mentioned_place: Olyka'
+  temporaliniai_duomenys: 'įvykio data: 1546 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys gramatiškas ir tiesiogiai paremtas citata apie Augusto ir Barboros santuoką.'
   pagrindžia:
     - c-001
 
@@ -78,11 +86,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Barbora Radvilaitė]]
-- [[objektai/asmenys/Karolis]]
-- [[objektai/asmenys/Kęsgaila]]
-- [[objektai/asmenys/Augustas]]
-- [[objektai/ivykiai/Slapta Augusto ir Barboros Radvilaitės santuoka]]

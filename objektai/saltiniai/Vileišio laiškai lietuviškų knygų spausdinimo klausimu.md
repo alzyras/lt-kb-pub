@@ -26,6 +26,11 @@ amziai:
 - t-001
   global_id: t-31967
   teiginys: '„Vileišio laiškai lietuviškų knygų spausdinimo klausimu“ paskelbti BBK 7 tome 1969 m., p. 201-214.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas bibliografinis sakinys ir citata patvirtina tomą, metus bei puslapius.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1969 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas bibliografinis sakinys ir citata patvirtina tomą, metus bei puslapius.'
   pagrindžia:
     - c-001
 

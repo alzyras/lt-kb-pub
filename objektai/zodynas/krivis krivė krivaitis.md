@@ -22,6 +22,8 @@ Dusburgietis teigia, kad krivis (krivė) arba kirvaitis (Grunau), krivaitis—lu
 - t-001
   global_id: t-58814
   teiginys: 'Krivis arba krivaitis aiškinamas kaip luominis vyriausiojo žynio vardas.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas citatos aiškinimu apie krivio reikšmę.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/asmenys/Krivis|Krivis]]'
   pagrindžia:
     - c-001
 
@@ -29,6 +31,8 @@ Dusburgietis teigia, kad krivis (krivė) arba kirvaitis (Grunau), krivaitis—lu
 - t-002
   global_id: t-58815
   teiginys: 'Krivio pasiuntinys su krivūle ar kitu žinomu ženklu susilaukdavo didžios pagarbos iš kunigaikščių, kilmingųjų ir prastuomenės.'
+  sudarymo_pagrindimas: 'Išplėstas neaiškus įvardis ir pašalintas nutrūkęs sakinio galas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Krivūlė|Krivūlė]]; mentioned_object: [[objektai/posakiai/negęstančiąją ugnį|negęstančiąją ugnį]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_object: [[objektai/zodynas/prastuomenė|prastuomenė]]; mentioned_person: [[objektai/asmenys/Krivis|Krivis]]; mentioned_place: Livonija'
   pagrindžia:
     - c-002
 
@@ -36,6 +40,8 @@ Dusburgietis teigia, kad krivis (krivė) arba kirvaitis (Grunau), krivaitis—lu
 - t-003
   global_id: t-58816
   teiginys: 'A. Mežinskio nuomone, krivis buvo tikrinis paskutinio Nadruvos žynio vardas, o ne pareigybė.'
+  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia A. Mežinskio poziciją ir vėlesnį aiškinimą citatoje.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_person: [[objektai/asmenys/Krivis|Krivis]]; mentioned_place: Nadruva'
   pagrindžia:
     - c-004
 
@@ -43,6 +49,8 @@ Dusburgietis teigia, kad krivis (krivė) arba kirvaitis (Grunau), krivaitis—lu
 - t-004
   global_id: t-58817
   teiginys: 'Vėliau kriviu galėjo būti vadinamas ir bendruomenės seniūnas arba vadas.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, pilnas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_person: [[objektai/asmenys/Krivis|Krivis]]'
   pagrindžia:
     - c-003
 
@@ -106,17 +114,3 @@ Dusburgietis teigia, kad krivis (krivė) arba kirvaitis (Grunau), krivaitis—lu
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Krivis]]
-- [[objektai/zodynas/kunigas]]
-- [[objektai/zodynas/luomas]]
-- [[objektai/posakiai/negęstančiąją ugnį]]
-- [[objektai/zodynas/netikėliai]]
-- [[objektai/zodynas/seniūnas]]
-- [[objektai/zodynas/prastuomenė]]
-- [[objektai/autoriai/Jurginis J]]
-- [[objektai/autoriai/Kosman М]]
-- [[objektai/paprociai/Kreipimasis į dievus per krivį ir pagarba krivūlei]]
-- [[objektai/grupes/Lietuviai]]

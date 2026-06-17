@@ -20,6 +20,7 @@ tags:
 - t-001
   global_id: t-40825
   teiginys: '4-ojo pėstininkų pulko pozicijos gynė Musninkus, o lenkams šioje vietoje nepavyko priversti lietuvių atsitraukti.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/A. Mokšeckio brigada|A. Mokšeckio brigada]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/brigada|brigada]]'
   pagrindžia:
     - c-001
 
@@ -36,10 +37,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/A. Mokšeckio brigada]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/brigada]]

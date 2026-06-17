@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Apsiaustieji iš bado suvalgė 250 arklių ir jų odas. Heilsbergo pilies įgula, pritrūkusi maisto po prūsų apsiausties, paliko pilį ir slapta pasitraukė į Elbingą.
+Dusburgietis teigia, kad apie tai, kaip buvo palikta Heilsbergo pilis Neilgai trukus prūsai su trimis kariuomenėmis ir trimis apgulos pabūklais [machinis] bei kitokiais įtaisais apsupo Varmės vyskupo pilį Heilsbergą. Dusburgietis teigia, kad apsiaustieji iš bado suvalgė 250 arklių ir jų odas.
 
 ## Laikotarpis ir datos
 
@@ -39,6 +39,9 @@ Nenurodyta
 - t-001
   global_id: t-62798
   teiginys: 'Apsiaustieji iš bado suvalgė 250 arklių ir jų odas.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
+  susije_objektai: 'mentioned_place: Elbingas; mentioned_place: Prūsai; mentioned_place: Varmė'
   pagrindžia:
     - c-002
 
@@ -46,6 +49,9 @@ Nenurodyta
 - t-002
   global_id: t-62799
   teiginys: 'Heilsbergo pilies įgula, pritrūkusi maisto po prūsų apsiausties, paliko pilį ir slapta pasitraukė į Elbingą.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pradinis teiginys sujungia antraštę ir citatą; citata pagrindžia aiškų sakinį apie apsiaustį ir įgulos pasitraukimą.'
+  susije_objektai: 'mentioned_place: Elbingas; mentioned_place: Heilsbergas; mentioned_place: Prūsai; mentioned_place: Varmė'
   pagrindžia:
     - c-001
     - c-002

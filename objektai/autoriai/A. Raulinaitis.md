@@ -29,6 +29,10 @@ Raulinaitis (Pedag.
 - t-001
   global_id: t-30535
   teiginys: 'A. Raulinaitis 1964 m. žurnale „Pedagogika ir psichologija“ rašė apie pirmąją katedrinę mokyklą.'
+  sudarymo_pagrindimas: 'Teiginys yra konkretus faktinis sakinys apie Raulinaičio publikaciją.'
+  temporaliniai_duomenys: 'įvykio data: 1964 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus faktinis sakinys apie Raulinaičio publikaciją.'
   pagrindžia:
     - c-001
 

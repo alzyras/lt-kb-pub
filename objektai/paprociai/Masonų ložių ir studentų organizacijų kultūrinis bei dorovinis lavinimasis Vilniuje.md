@@ -47,6 +47,8 @@ Nenurodyta
 - t-001
   global_id: t-54310
   teiginys: 'Masonų ložės ir studentų organizacijos sąmokslų nerezgė, bet kūrė valdžiai nepaklusnią atmosferą.'
+  sudarymo_pagrindimas: 'Įvardytas neaiškaus įvardžio objektas ir išlaikyta citatos prasmė.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/A. Mickevičius|A. Mickevičius]]; mentioned_person: [[objektai/autoriai/Mickevičius|Mickevičius]]; mentioned_place: Europa; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -54,6 +56,9 @@ Nenurodyta
 - t-002
   global_id: t-54311
   teiginys: 'Universitete veikė studentų organizacijos, kurios rūpinosi kultūriniu ir doroviniu tobulėjimu bei ištikimybe tiesai, laisvei ir Tėvynei.'
+  susije_objektai: 'mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: po 1812 m.; įvykio data: 1812 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 
@@ -61,6 +66,14 @@ Nenurodyta
 - t-003
   global_id: t-183325
   teiginys: 'Po 1812 m. Lietuvoje labai išpopuliarėjo masonų judėjimas.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra trumpas, aiškus ir tiesiogiai pagrįstas citata.'
+  susije_objektai: 'mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: po 1812 m.; įvykio data: 1812 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra trumpas, aiškus ir tiesiogiai pagrįstas citata.'
   pagrindžia:
     - c-002
 
@@ -117,9 +130,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/A. Mickevičius]]
-- [[objektai/autoriai/Mickevičius]]
-- [[objektai/asmenys/Adomas Mickevičius|Adomas Mickevičius (poetas)]]

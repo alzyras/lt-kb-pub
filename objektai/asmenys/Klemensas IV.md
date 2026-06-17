@@ -30,6 +30,11 @@ Tačiau praėjus keletui metų po Mindaugo mirties, 1268-aisiais, popiežius Kle
 - t-001
   global_id: t-19064
   teiginys: '1268 m. popiežius Klemensas IV bulėje Mindaugą pavadino „šviesaus atminimo valdovu“.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nusako popiežiaus Klemenso IV veiksmą ir yra pagrįstas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/apostazija|apostazija]]; mentioned_object: [[objektai/posakiai/„šviesaus atminimo valdovu“|„šviesaus atminimo valdovu“]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]'
+  temporaliniai_duomenys: 'įvykio data: 1268 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako popiežiaus Klemenso IV veiksmą ir yra pagrįstas citata.'
   pagrindžia:
     - c-001
 
@@ -37,9 +42,21 @@ Tačiau praėjus keletui metų po Mindaugo mirties, 1268-aisiais, popiežius Kle
 - t-002
   global_id: t-183552
   teiginys: '1268 m. popiežius Klemensas IV bulėje Mindaugą vadino „šviesaus atminimo valdovu“.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir tiesiogiai atitinka citatos turinį.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Mindaugo krikštas|Mindaugo krikštas]]; mentioned_object: [[objektai/zodynas/apostazija|apostazija]]; mentioned_object: [[objektai/posakiai/„šviesaus atminimo valdovu“|„šviesaus atminimo valdovu“]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1268 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, faktinis ir tiesiogiai atitinka citatos turinį.'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/asmenys/Karolis (Provanso grafas ir Sicilijos karalius).md#claim-t-60040|Karolis (Provanso grafas ir Sicilijos karalius)]]: 1265 m. popiežius Klemensas IV apvainikavo Karolį Sicilijos karaliumi.
+- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179384|Livonijos ordinas]]: 1251 m. Mindaugas perleido didelę dalį Žemaitijos Livonijos ordinui mainais į krikštą.
+- susijęs iš [[objektai/posakiai/„šviesaus atminimo valdovu“.md#claim-t-77863|„šviesaus atminimo valdovu“]]: 1268 m. popiežius Klemensas IV bulėje Mindaugą vadino „šviesaus atminimo valdovu“.
+- susijęs iš Klemenso IV bulė apie Mindaugą (1268 m.): 1268 m. popiežius Klemensas IV bulėje Mindaugą pavadino „šviesaus atminimo valdovu“.
+- susijęs iš Žemaitija: Po Mindaugo krikšto Žemaitija buvo prarasta kaip etninės Lietuvos dalis, o ordinų pavojus neišnyko.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -70,12 +87,3 @@ Tačiau praėjus keletui metų po Mindaugo mirties, 1268-aisiais, popiežius Kle
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/Mindaugo krikštas|Mindaugo krikštas (krikštas)]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/apostazija]]
-- [[objektai/posakiai/„šviesaus atminimo valdovu“]]
-- [[objektai/grupes/Livonijos ordinas]]
-- [[objektai/asmenys/Karolis (Provanso grafas ir Sicilijos karalius)]]

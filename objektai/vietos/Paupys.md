@@ -27,6 +27,11 @@ Dejevo, į Paupį.
 - t-001
   global_id: t-38525
   teiginys: '1794 m. liepos 19 d. dalis rusų pajėgų prasiveržė ir užėmė Paupį bei Užupį.'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo per trumpas; citata palaiko konkretų faktą apie Paupį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Patrankos|Patrankos]]; mentioned_place: Užupis; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1794 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys buvo per trumpas; citata palaiko konkretų faktą apie Paupį.'
   pagrindžia:
     - c-001
 

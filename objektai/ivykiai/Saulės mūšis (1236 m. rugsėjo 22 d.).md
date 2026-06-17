@@ -7,14 +7,9 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1236 m.'
+  - '1237 m.'
 date_start: '1236'
-date_end: ''
-aliases:
-  - 'objektai/ivykiai/Mūšis ties Šiauliais ir kalavijuočių susiliejimas su kryžiuočiais'
-  - 'objektai/ivykiai/Saulės-Šiaulių kautynės'
-variantai:
-  - 'Mūšis ties Šiauliais ir kalavijuočių susiliejimas su kryžiuočiais'
-  - 'Saulės-Šiaulių kautynės'
+date_end: '1237'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -28,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-1236 m. rugsėjį į Lietuvą įžengusios Kalavijuočių ordino brolių ir Europos kryžininkų pajėgos pasidalijo į būrius ir ėmė plėšti. Saulės žemėje lietuviai užmušė 50 ordino brolių ir daugybę tikratikių. Saulės mūšis išstūmė vokiečių ekspansiją iki Dauguvos ir paskatino žiemgalių, kuršių bei saremiečių sukilimus.
+1236 m. kalavijuočių ir jų talkininkų žygis į šiaurinę Lietuvą baigėsi Saulės mūšiu prie Šiaulių srities. Lietuvių, Ivinskio interpretacijoje Vykinto vadovaujamų žemaičių būrių, pergalė smarkiai susilpnino kalavijuočius ir paskatino jų susijungimą su kryžiuočiais.
 
 ## Laikotarpis ir datos
 
@@ -52,6 +47,11 @@ Nenurodyta
 - t-001
   global_id: t-10287
   teiginys: '1236 m. rugsėjį į Lietuvą įžengusios Kalavijuočių ordino brolių ir Europos kryžininkų pajėgos pasidalijo į būrius ir ėmė plėšti.'
+  sudarymo_pagrindimas: 'Citata palaiko informatyvesnį sakinį apie kryžininkų veiksmus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_object: [[objektai/zodynas/kryžininkai|kryžininkai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Šiauliai'
+  temporaliniai_duomenys: 'įvykio data: 1236 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko informatyvesnį sakinį apie kryžininkų veiksmus.'
   pagrindžia:
     - c-001
 
@@ -59,6 +59,8 @@ Nenurodyta
 - t-002
   global_id: t-10288
   teiginys: 'Saulės žemėje lietuviai užmušė 50 ordino brolių ir daugybę tikratikių.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys ir pagrįstas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_person: [[objektai/asmenys/Volkvinas|Volkvinas]]'
   pagrindžia:
     - c-002
 
@@ -66,6 +68,8 @@ Nenurodyta
 - t-003
   global_id: t-10289
   teiginys: 'Saulės mūšis išstūmė vokiečių ekspansiją iki Dauguvos ir paskatino žiemgalių, kuršių bei saremiečių sukilimus.'
+  susije_objektai: 'event: [[objektai/ivykiai/Saulės mūšis (1236 m. rugsėjo 22 d.)|Saulės mūšis (1236 m. rugsėjo 22 d.)]]; mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/ekspansija|ekspansija]]; mentioned_place: Dauguva'
+  semantiniai_rysiai: '[[objektai/grupes/Kuršiai|Kuršiai]] dalyvavo mūšyje [[objektai/ivykiai/Saulės mūšis (1236 m. rugsėjo 22 d.)|Saulės mūšis (1236 m. rugsėjo 22 d.)]]; [[objektai/grupes/Vokiečiai|Vokiečiai]] dalyvavo mūšyje [[objektai/ivykiai/Saulės mūšis (1236 m. rugsėjo 22 d.)|Saulės mūšis (1236 m. rugsėjo 22 d.)]]'
   pagrindžia:
     - c-003
 
@@ -73,6 +77,11 @@ Nenurodyta
 - t-004
   global_id: t-10290
   teiginys: '1236 m. pergalė Šiaulių žemėje buvo itin reikšminga Lietuvos, Baltijos regiono ir Rytų Europos istorinei raidai.'
+  sudarymo_pagrindimas: 'Perrašyta tiksliau pagal citatą ir pašalinta perteklinė formuluotė.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Baltija; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Šiauliai'
+  temporaliniai_duomenys: 'įvykio data: 1236 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Perrašyta tiksliau pagal citatą ir pašalinta perteklinė formuluotė.'
   pagrindžia:
     - c-004
 
@@ -80,6 +89,9 @@ Nenurodyta
 - t-005
   global_id: t-66879
   teiginys: 'Ivinskis Saulės mūšį lokalizuoja prie Saulės, Šiaulių srityje, ir datuoja 1236 m. rugsėjo 22 d.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/Saxo Grammaticus|Saxo Grammaticus]]; mentioned_place: Durbė; mentioned_place: Kaimas; mentioned_place: Sandomierius; mentioned_place: Šiauliai'
+  temporaliniai_duomenys: 'įvykio data: 1236 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-006
     - c-007
@@ -88,6 +100,11 @@ Nenurodyta
 - t-006
   global_id: t-66880
   teiginys: 'Prieš Saulės mūšį 1236 m. kalavijuočiai su svečiais įsiveržė į Lietuvą ir žiauriai nusiaubė kraštą.'
+  sudarymo_pagrindimas: 'Perrašyta, kad teiginys būtų aiškiai susietas su pastabos objektu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/kryžiaus karas|kryžiaus karas]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Livonija'
+  temporaliniai_duomenys: 'įvykio data: 1236 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Perrašyta, kad teiginys būtų aiškiai susietas su pastabos objektu.'
   pagrindžia:
     - c-005
 
@@ -95,6 +112,11 @@ Nenurodyta
 - t-007
   global_id: t-66881
   teiginys: 'Po pralaimėto Saulės mūšio likusieji kalavijuočiai paprašė kryžiuočius priimti juos į savo tarpą.'
+  sudarymo_pagrindimas: 'Pradinis teiginys turi neaiškią nuorodą „šitą mūšį“.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]'
+  temporaliniai_duomenys: 'įvykio data: 1237 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys turi neaiškią nuorodą „šitą mūšį“.'
   pagrindžia:
     - c-008
 
@@ -102,9 +124,16 @@ Nenurodyta
 - t-008
   global_id: t-66882
   teiginys: '1236 m. rugsėjo 22 d. prie Saulės Vykinto vadovaujami būriai sumušė grįžtančius riterius; žuvo Volkevinas ir 48 riteriai.'
+  sudarymo_pagrindimas: 'Pašalintas boilerplate ir teiginys aiškiai susietas su Saulės mūšiu.'
+  susije_objektai: 'mentioned_object: [[objektai/posakiai/kein Soule sie karten wider|kein Soule sie karten wider]]; mentioned_object: [[objektai/zodynas/kryžininkai|kryžininkai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Mauricijus|Mauricijus]]; mentioned_place: Vokietija; mentioned_place: Šiauliai'
+  temporaliniai_duomenys: 'įvykio data: 1236 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas boilerplate ir teiginys aiškiai susietas su Saulės mūšiu.'
   pagrindžia:
     - c-007
-
+- susijęs iš [[objektai/autoriai/Hermanas Vartbergė.md#claim-t-171495|Hermanas Vartbergė]]: Hermano Vartbergės „Livonijos kronikoje“ aprašytas 1236 m. Saulės mūšis ir jo pasekmės Kalavijuočių ordinui.
+- susijęs iš [[objektai/autoriai/Hermanas Vartbergė.md#claim-t-171495|Hermanas Vartbergė]]: Hermano Vartbergės „Livonijos kronikoje“ aprašytas 1236 m. Saulės mūšis ir jo pasekmės Kalavijuočių ordinui.
+- susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -255,24 +284,6 @@ Nenurodyta
     - t-007
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kalavijuočių ordinas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/daiktai/Kryžius]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Mauricijus]]
-- [[objektai/daiktai/Namas]]
-- [[objektai/autoriai/Saxo Grammaticus]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/asmenys/Volkvinas]]
-- [[objektai/zodynas/ekspansija]]
-- [[objektai/posakiai/kein Soule sie karten wider]]
-- [[objektai/zodynas/kryžiaus karas]]
-- [[objektai/zodynas/kryžininkai]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/netikėliai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/autoriai/Karolis Zikaras]]
-- [[objektai/grupes/Kuršiai]]
-- [[objektai/autoriai/Hermanas Vartbergė]]
+- [[objektai/grupes/Kuršiai]] dalyvavo_musyje Saulės mūšis (1236 m. rugsėjo 22 d.)
+- [[objektai/grupes/Vokiečiai]] dalyvavo_musyje Saulės mūšis (1236 m. rugsėjo 22 d.)
+- [[objektai/asmenys/Volkvinas]] dalyvavo_musyje Saulės mūšis (1236 m. rugsėjo 22 d.)

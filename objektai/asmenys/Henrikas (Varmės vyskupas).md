@@ -31,6 +31,11 @@ Dusburgietis teigia, kad valdovas Henrikas, Varmės vyskupas, vėliau, 1279 vie�
 - t-001
   global_id: t-60310
   teiginys: '1279 m. Varmės vyskupas Henrikas įkūrė Brunsbergo miestą ir pilį toje vietoje, kur kronikos metu jie tebestovėjo.'
+  sudarymo_pagrindimas: 'Pašalintas šaltinio boilerplate ir puslapio triukšmas, sakinys sutrumpintas.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_object: [[objektai/zodynas/konsekracija|konsekracija]]; mentioned_object: [[objektai/zodynas/vyskupystė|vyskupystė]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Brunsbergas; mentioned_place: Varmė; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įkūrimo data: 1279 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas šaltinio boilerplate ir puslapio triukšmas, sakinys sutrumpintas.'
   pagrindžia:
     - c-001
 
@@ -51,10 +56,3 @@ Dusburgietis teigia, kad valdovas Henrikas, Varmės vyskupas, vėliau, 1279 vie�
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Malūnas]]
-- [[objektai/zodynas/konsekracija]]
-- [[objektai/zodynas/vyskupystė]]
-- [[objektai/ivykiai/Brunsbergo miesto bei pilies atkūrimas (1279 m.)]]

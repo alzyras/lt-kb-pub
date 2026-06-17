@@ -50,6 +50,11 @@ Nenurodyta
 - t-001
   global_id: t-87256
   teiginys: '1375 m. Vinrichas į Lietuvą vedė Prancūzijos ir Vokietijos baronus bei riterius, sutelktus stoti po kryžiaus ženklu.'
+  sudarymo_pagrindimas: 'Teiginys perrašytas į vientisą sakinį be OCR lūžių.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_place: Lietuva; mentioned_place: Prancūzija; mentioned_place: Prūsija; mentioned_place: Vilnius; mentioned_place: Vokietija'
+  temporaliniai_duomenys: 'įvykio data: 1375 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys perrašytas į vientisą sakinį be OCR lūžių.'
   pagrindžia:
     - c-001
 
@@ -76,8 +81,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Kryžius]]
-- [[objektai/asmenys/Vinrichas Kniprodė]]

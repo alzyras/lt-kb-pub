@@ -43,6 +43,11 @@ Nenurodyta
 - t-001
   global_id: t-20432
   teiginys: '1934 m. lapkričio 23 d. Kauno Karo muziejaus sodelyje prie paminklo Žuvusiems už Lietuvos laisvę palaidotas Nežinomas kareivis.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys su aiškia data, vieta ir veiksmu.'
+  susije_objektai: 'location: Kaunas; location: Lietuva; mentioned_place: Kaunas; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'mirties data: 1934 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „mirties data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys su aiškia data, vieta ir veiksmu.'
   pagrindžia:
     - c-001
 
@@ -66,9 +71,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Paminklas Žuvusiems už Lietuvos laisvę]]
-- [[objektai/paprociai/Tautinių atminties vietų kūrimas, žuvusių karių kultas ir kariuomenės dienos minėjimas]]
-- [[objektai/zodynas/Žuvusių karių kultas]]

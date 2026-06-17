@@ -30,6 +30,11 @@ amziai:
 - t-001
   global_id: t-30111
   teiginys: 'S. M. Kuczyńskio veikalas „Wielka wojna z Zakonem Krzyżackim w latach 1409-1411“ išleistas Varšuvoje; pirmas leidimas nurodytas 1955 m., antras - 1966 m.'
+  sudarymo_pagrindimas: 'Citata pateikia autorių, pavadinimą, leidimus ir leidimo vietą, o pradinis tekstas yra fragmentiškas.'
+  susije_objektai: 'mentioned_place: Varšuva'
+  temporaliniai_duomenys: 'įvykio data: 1955 m.; įvykio data: 1966 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pateikia autorių, pavadinimą, leidimus ir leidimo vietą, o pradinis tekstas yra fragmentiškas.'
   pagrindžia:
     - c-001
 

@@ -33,6 +33,11 @@ Nenurodyta
 - t-001
   global_id: t-185885
   teiginys: 'Konstantinas su maždaug 3500 karių patraukė link priešo, išgirdęs belaisvių pasakojimus apie padidėjusias maskvėnų jėgas.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Išvalytas puslapio ir OCR triukšmas, papildytas aiškus kontekstas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_person: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]'
   pagrindžia:
     - c-001
 
@@ -40,6 +45,11 @@ Nenurodyta
 - t-002
   global_id: t-185886
   teiginys: 'Kojelavičius maskvėnų tvirtinimus apie padidėjusias pajėgas laikė įprastu būdu dėtis stipresniems, nei jie buvo iš tikrųjų.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Tai autoriaus interpretacija apie karo apgaulę, todėl palikta šaltinio atribucija.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_person: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]'
   pagrindžia:
     - c-002
 
@@ -89,8 +99,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Konstantinas (Karijotaitis)]]
-- [[objektai/grupes/Maskvėnai]]

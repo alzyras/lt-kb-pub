@@ -18,6 +18,14 @@ Justinianui viešpataujant Belizarijus, nugalėjęs persus, pasinaudojo Getero v
 - t-001
   global_id: t-186183
   teiginys: 'Justinianui viešpataujant Belizarijus, nugalėjęs persus, pasinaudojo Getero vadovaujamų herulų pagalba.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys ir tiesiogiai remiasi citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Herulai|Herulai]]; mentioned_person: [[objektai/asmenys/Justinianas|Justinianas]]; mentioned_place: Isteris; mentioned_place: Italija'
+  temporaliniai_duomenys: 'įvykio data: 493 m'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys ir tiesiogiai remiasi citata.'
   pagrindžia:
     - c-001
 
@@ -42,8 +50,3 @@ Justinianui viešpataujant Belizarijus, nugalėjęs persus, pasinaudojo Getero v
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Herulai]]
-- [[objektai/asmenys/Justinianas]]

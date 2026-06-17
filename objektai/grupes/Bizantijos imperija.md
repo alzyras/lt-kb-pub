@@ -14,21 +14,22 @@ tags:
 
 ## Santrauka
 
-Bizantijos imperiją su skandinavais siejo nuolatinis upių susisiekimas.
+Tuo metu pasauly geriausiai klestėjo Bizantijos imperija: ji turėjo didžiuosius prekybos centrus ir buvo turtingiausia. Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolatinį upių susisiekimą su Bizantija.
 
 ## Teiginiai
+
 <a id="claim-t-01290"></a>
 - t-001
   global_id: t-01290
   teiginys: 'Bizantijos imperiją su skandinavais siejo nuolatinis upių susisiekimas.'
+  sudarymo_pagrindimas: 'Perrašyta taip, kad teiginys būtų tiesiogiai apie Bizantijos imperiją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_group: [[objektai/grupes/Skandinavai|Skandinavai]]; mentioned_place: Bizantija; mentioned_place: Europa'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Bizantijos imperiją su skandinavais siejo nuolatinis upių susisiekimas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo būdu jie pasiekė ir
@@ -38,15 +39,8 @@ Bizantijos imperiją su skandinavais siejo nuolatinis upių susisiekimas.
     ji turėjo didžiuosius prekybos centrus ir buvo turtingiausia.
     Skandinavai, būdami energingiausi iš šiaurės Europos tautų, tu-
     rėjo nuolatinį upių susisiekimą su Bizantija.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Aisčiai]]
-- [[objektai/grupes/Skandinavai]]

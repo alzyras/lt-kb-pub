@@ -21,9 +21,15 @@ Enėjas Silvijus Pikolominis (Enea Silvio Piccolomini) „Knygoje apie vyrus, ga
 - t-001
   global_id: t-26356
   teiginys: 'Enėjas Silvijus Pikolominis „Knygoje apie vyrus, garsius savo gyvenimu“ Vytautui skyrė žodžius: „Koks didelis Tu ir kokia didelė Tavo tėvynė.“'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiksliai nurodo posakio autorystės kontekstą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Enėjas Silvijus Pikolominis.md#claim-t-26440|Enėjas Silvijus Pikolominis]]: Enėjas Silvijus Pikolominis „Knygoje apie vyrus, garsius savo gyvenimu“ Vytautui skyrė pagiriamuosius žodžius.
+- susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštija.md#claim-t-169684|Lietuvos Didžioji Kunigaikštija]]: XVI a. Vytauto kultas Lietuvoje stiprėjo ieškant ideologinės atramos prieš Lenkijos hegemonijos planus.
+- susijęs iš [[objektai/paprociai/Vytauto kulto puoselėjimas kaip visuomenės telkimo praktika.md#claim-t-77954|Vytauto kulto puoselėjimas kaip visuomenės telkimo praktika]]: Vytauto laikų Lietuva labiausiai priartėjo prie valstybės, kuri šiandien kartais vadinama imperija.
+- susijęs iš [[objektai/posakiai/„civilizaciniam šuoliui“.md#claim-t-26351|„civilizaciniam šuoliui“]]: Vytautui valdant buvo padėtas pagrindas Lietuvos visuomenės artėjimui prie Vidurio Europos, vadinamam „civilizaciniu šuoliu“.
+- susijęs iš Knyga apie vyrus, garsius savo gyvenimu: Enėjas Silvijus Pikolominis „Knygoje apie vyrus, garsius savo gyvenimu“ išaukštino Vytautą ir jo tėvynę.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -44,11 +50,3 @@ Enėjas Silvijus Pikolominis (Enea Silvio Piccolomini) „Knygoje apie vyrus, ga
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/asmenys/Enėjas Silvijus Pikolominis]]
-- [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]
-- [[objektai/paprociai/Vytauto kulto puoselėjimas kaip visuomenės telkimo praktika]]
-- [[objektai/posakiai/„civilizaciniam šuoliui“]]

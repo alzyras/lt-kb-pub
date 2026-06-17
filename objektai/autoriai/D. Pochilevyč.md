@@ -20,6 +20,8 @@ Pochilevyč, Lvovo univ.
 - t-001
   global_id: t-29457
   teiginys: 'D. Pochilevyč buvo Lvovo universiteto profesorius ir tyrinėjo Lietuvos, Gudijos bei Ukrainos kaimo ūkinius santykius.'
+  sudarymo_pagrindimas: 'Pirminis teiginys per trumpas, bet citata aiškiai nurodo pareigas ir tyrimų temą.'
+  susije_objektai: 'mentioned_place: Gudija; mentioned_place: Kaimas; mentioned_place: Lvovas; mentioned_place: Ukraina'
   pagrindžia:
     - c-001
 

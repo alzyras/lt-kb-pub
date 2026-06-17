@@ -4,9 +4,11 @@ pavadinimas: 'Edukacinės komisijos įkūrimas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
+  - '1767 m.'
+  - '1769 m.'
   - '1773 m.'
-date_start: '1773'
-date_end: ''
+date_start: '1767'
+date_end: '1773'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -45,6 +47,11 @@ Nenurodyta
 - t-001
   global_id: t-66535
   teiginys: 'Edukacinės komisijos sukūrimas 1773 m. kartais laikomas vienu iš Apšvietos epochos pradžios įvykių.'
+  sudarymo_pagrindimas: 'Pradinis teiginys išvardija kelis įvykius, o pastabai svarbus faktas apie Edukacinės komisijos įkūrimą.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Antano Tyzenhauzo reformos|Antano Tyzenhauzo reformos]]; mentioned_event: [[objektai/ivykiai/Jėzuitų ordino panaikinimas|Jėzuitų ordino panaikinimas]]; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/zodynas/Baroko epocha|Baroko epocha]]; mentioned_object: [[objektai/zodynas/barokas|barokas]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_person: [[objektai/asmenys/Antanas Tyzenhauzas|Antanas Tyzenhauzas]]; mentioned_person: [[objektai/asmenys/Bžostovskis (Vilniaus vyskupas)|Bžostovskis (Vilniaus vyskupas)]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Liublinas; mentioned_place: Paulava'
+  temporaliniai_duomenys: 'įvykio data: 1767 m.; įvykio data: 1769 m.; įvykio data: 1773 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys išvardija kelis įvykius, o pastabai svarbus faktas apie Edukacinės komisijos įkūrimą.'
   pagrindžia:
     - c-001
 
@@ -52,6 +59,11 @@ Nenurodyta
 - t-002
   global_id: t-66536
   teiginys: '1773 m. įkurta Edukacinė komisija buvo pirmoji Europoje švietimo ministerijos tipo įstaiga.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Edukacinė Komisija|Edukacinė Komisija]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1773 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-002
 
@@ -59,6 +71,14 @@ Nenurodyta
 - t-003
   global_id: t-183221
   teiginys: 'Edukacinė komisija turėjo perimti panaikinto jėzuitų ordino švietimo sistemą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nusako Edukacinės komisijos paskirtį ir yra paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Edukacinė Komisija|Edukacinė Komisija]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1773 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako Edukacinės komisijos paskirtį ir yra paremtas citata.'
   pagrindžia:
     - c-002
 
@@ -98,17 +118,3 @@ Nenurodyta
   pagrindžia:
     - t-003
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/asmenys/Antanas (vaistininkas)]]
-- [[objektai/asmenys/Antanas Tyzenhauzas|Antanas Tyzenhauzas (ūkio reformų veikėjas)]]
-- [[objektai/ivykiai/Antano Tyzenhauzo reformos]]
-- [[objektai/zodynas/Baroko epocha]]
-- [[objektai/asmenys/Bžostovskis (Vilniaus vyskupas)]]
-- [[objektai/grupes/Edukacinė Komisija]]
-- [[objektai/ivykiai/Jėzuitų ordino panaikinimas]]
-- [[objektai/zodynas/barokas]]
-- [[objektai/zodynas/unija]]
-- [[objektai/asmenys/Povilas Ksaveras Bžostovskis]]

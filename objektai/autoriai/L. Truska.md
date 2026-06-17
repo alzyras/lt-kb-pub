@@ -4,9 +4,9 @@ pavadinimas: 'L. Truska'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
-  - '1868 m.'
+  - '1848 m.'
   - '1961 m.'
-date_start: '1868'
+date_start: '1848'
 date_end: '1961'
 sukurta: ''
 atnaujinta: ''
@@ -30,9 +30,15 @@ Truska: Emigracija iš Lietuvos 1868-1914 m. (AkMD, t.
 - t-001
   global_id: t-30784
   teiginys: 'L. Truska parašė studiją „Emigracija iš Lietuvos 1868-1914 m.“.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/autoriai/S. Matulaitytė|S. Matulaitytė]]; mentioned_person: [[objektai/autoriai/V. Merkys|V. Merkys]]; mentioned_person: [[objektai/autoriai/V. Milius|V. Milius]]; mentioned_place: Lietuva; mentioned_place: Merkys; mentioned_place: Prūsija; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1848-1914; įvykio data: 1868-1914; įvykio data: 1914 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/autoriai/Blažytė-Baužienė D.md#claim-t-19385|Blažytė-Baužienė D]]: D. Blažytė-Baužienė kartu su M. Tamošaičiu ir L. Truska parašė veikalą „Lietuvos Seimo istorija: XX–XXI a. pradžia“.
+- susijęs iš [[objektai/autoriai/Tamošaitis M.md#claim-t-19482|Tamošaitis M]]: M. Tamošaitis kartu su D. Blažyte-Baužiene ir L. Truska parašė leidinį „Lietuvos Seimo istorija: XX–XXI a. pradžia“.
+- susijęs iš [[objektai/autoriai/Truska L.md#claim-t-19483|Truska L]]: L. Truska parašė knygą „Antanas Smetona ir jo laikai“, išleistą Vilniuje 1996 m.
+- susijęs iš [[objektai/autoriai/Truska L.md#claim-t-19484|Truska L]]: L. Truska kartu su D. Blažyte-Baužiene ir M. Tamošaičiu parašė leidinį „Lietuvos Seimo istorija: XX–XXI a. pradžia“.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -54,7 +60,3 @@ Truska: Emigracija iš Lietuvos 1868-1914 m. (AkMD, t.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]

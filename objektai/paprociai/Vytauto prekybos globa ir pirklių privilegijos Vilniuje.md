@@ -43,6 +43,8 @@ Nenurodyta
 - t-001
   global_id: t-87237
   teiginys: 'Vytautas globojo pirklius, o Vilniaus prekyba išsiplėtė su Prūsijos, Livonijos, Pskovo, Naugardo ir Maskvos miestais.'
+  sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir fragmentiškas, citata remia glaustą faktą apie prekybos globą ir ryšius.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/daiktai/Kardas|Kardas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Naugardas; mentioned_place: Prūsija; mentioned_place: Viena; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -50,6 +52,8 @@ Nenurodyta
 - t-002
   global_id: t-87238
   teiginys: 'Vytauto privilegijos Rygos, vokiečių ir rusų pirkliams liudijo jo pastangas globoti prekybą Vilniuje ir visoje šalyje.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nukreiptas į bendrą politinį kontekstą, o citata geriau pagrindžia pirklių privilegijas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -101,15 +105,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Kardas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/asmenys/Skirgaila]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/asmenys/Vladislovas]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/grupes/Rygos, vokiečių ir rusų pirkliai]]

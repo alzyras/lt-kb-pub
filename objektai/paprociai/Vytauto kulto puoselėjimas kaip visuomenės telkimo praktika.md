@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Vytauto laikų Lietuva labiausiai priartėjo prie valstybės, kuri šiandien kartais vadinama imperija.
+Vytauto laikų Lietuva labiausiai priartėjo prie valstybės, kuri šiandien kartais pavadinama imperija.
 
 ## Laikotarpis ir datos
 
@@ -41,6 +41,8 @@ Nenurodyta
 - t-001
   global_id: t-77954
   teiginys: 'Vytauto laikų Lietuva labiausiai priartėjo prie valstybės, kuri šiandien kartais vadinama imperija.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys, paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/posakiai/„Koks didelis Tu ir kokia didelė Tavo tėvynė.“|„Koks didelis Tu ir kokia didelė Tavo tėvynė.“]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -65,8 +67,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/posakiai/„Koks didelis Tu ir kokia didelė Tavo tėvynė.“]]

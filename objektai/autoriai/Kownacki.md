@@ -22,6 +22,7 @@ Bandtkie Dzieje Królestwa Polskiego, I, p. 211, ir paga­ liau Kownacki Histor.
 - t-001
   global_id: t-88073
   teiginys: 'Kownackis nenorėjo tikėti, kad miestai patys vieni galėjo pristatyti tokią daugybę ginkluotų žmonių.'
+  sudarymo_pagrindimas: 'Citata palaiko faktinį teiginį apie Kownackio poziciją.'
   pagrindžia:
     - c-001
 

@@ -22,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-1414–1416 m. Edygos vadovaujami totoriai dažnai puldinėjo Kijevo ir Podolės kraštus, smarkiai apgriaudami Kijevą ir Lucką.
+Unijos darbui nemažai sutrukdė ir totoriai, kurie, vadovau­ jant Vorsklos nugalėtojui Edygai, 1414—1416 m. laikotarpyje dažnai puldinėjo Kijevo ir Podolės kraštus, smarkiai apgriauda­ mi patį Kijevą ir Lucką.
 
 ## Laikotarpis ir datos
 
@@ -46,6 +46,11 @@ Nenurodyta
 - t-001
   global_id: t-34538
   teiginys: '1414–1416 m. Edygos vadovaujami totoriai dažnai puldinėjo Kijevo ir Podolės kraštus, smarkiai apgriaudami Kijevą ir Lucką.'
+  sudarymo_pagrindimas: 'Reikia pataisyti datos brūkšnį ir palikti sklandžią enciklopedinę formuluotę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Edyga|Edyga]]; mentioned_place: Kijevas; mentioned_place: Luckas; mentioned_place: Podolė; mentioned_place: Vorskla'
+  temporaliniai_duomenys: 'įvykio data: 1414-1416; įvykio data: 1416 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia pataisyti datos brūkšnį ir palikti sklandžią enciklopedinę formuluotę.'
   pagrindžia:
     - c-001
 
@@ -67,11 +72,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/zodynas/unija]]
-- [[objektai/asmenys/Edyga]]
-- [[objektai/asmenys/Gregorijus Cemblakas]]

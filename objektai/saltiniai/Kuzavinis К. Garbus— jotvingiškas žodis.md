@@ -26,6 +26,11 @@ Dusburgietis teigia, kad kuzavinis К.
 - t-001
   global_id: t-61115
   teiginys: 'K. Kuzavinio „Garbus – jotvingiškas žodis“ paskelbta 1968 m. „Baltistica“ 4 tomo 1 numeryje, p. 65–67.'
+  sudarymo_pagrindimas: 'Citata patvirtina publikacijos metus, leidinį, numerį ir puslapius.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
+  temporaliniai_duomenys: 'įvykio data: 1968 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata patvirtina publikacijos metus, leidinį, numerį ir puslapius.'
   pagrindžia:
     - c-001
 

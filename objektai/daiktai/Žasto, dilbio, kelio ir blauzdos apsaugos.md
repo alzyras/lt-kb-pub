@@ -41,9 +41,11 @@ Nenurodyta
 - t-001
   global_id: t-39319
   teiginys: 'Žasto, dilbio, kelio ir blauzdos apsaugos yra XIV a. pabaigos-XV a. rekonstrukcija.'
+  sudarymo_pagrindimas: 'Citatoje pateikta objektą apibūdinanti data ir rekonstrukcijos pobūdis.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/emyras|emyras]]'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/daiktai/Šarvinių pirštinių, žasto, dilbio, kelio ir blauzdos apsaugos.md#claim-t-40805|Šarvinių pirštinių, žasto, dilbio, kelio ir blauzdos apsaugos]]: Žasto, dilbio, kelio ir blauzdos apsaugos datuojamos XIV a. pabaiga ir XV a.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -60,8 +62,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/emyras]]
-- [[objektai/daiktai/Šarvinių pirštinių, žasto, dilbio, kelio ir blauzdos apsaugos]]

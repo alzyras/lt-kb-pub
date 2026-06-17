@@ -50,6 +50,8 @@ Nenurodyta
 - t-001
   global_id: t-87196
   teiginys: 'Gediminas svetimšaliams žadėjo laisvą ir saugų kelią į Lietuvą be muitų ir mokesčių per Mazovijos kunigaikščio Boleslovo žemę.'
+  sudarymo_pagrindimas: 'Citata tiesiogiai remia svetimšaliams suteiktą laisvo ir saugaus atvykimo teisę.'
+  susije_objektai: 'mentioned_object: [[objektai/grupes/Žemgaliai|Žemgaliai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
 
@@ -76,7 +78,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Gediminas]]

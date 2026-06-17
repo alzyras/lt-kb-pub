@@ -27,6 +27,11 @@ amziai:
 - t-001
   global_id: t-86833
   teiginys: 'Žygimanto Senojo laikais Vilniuje buvo daug turtingų auksakalių, kurie buvo vokiečiai arba vokiečių kilmės.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai apibendrina citatoje pateiktą informaciją apie Vilniaus auksakalius.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/autoriai/Volfgangas|Volfgangas]]; mentioned_person: [[objektai/asmenys/Volfgangas Auksakalys|Volfgangas Auksakalys]]; mentioned_person: [[objektai/asmenys/Štagelis|Štagelis]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1522 m.; įvykio data: 1530 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai apibendrina citatoje pateiktą informaciją apie Vilniaus auksakalius.'
   pagrindžia:
     - c-001
 
@@ -49,11 +54,3 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/autoriai/Volfgangas]]
-- [[objektai/asmenys/Volfgangas Auksakalys]]
-- [[objektai/asmenys/Štagelis]]
-- [[objektai/asmenys/Žygimantas]]

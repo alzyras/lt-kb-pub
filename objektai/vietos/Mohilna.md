@@ -27,9 +27,14 @@ Antroji to Metraščio redakcija aprašo, kaip Mindaugo tėvas (Bychovco kroniko
 - t-001
   global_id: t-32373
   teiginys: 'Antroji Lietuvos metraščio redakcija pasakoja, kad 1234 m. Mindaugo tėvas prie Mohilnos kovojo prieš totorius.'
+  sudarymo_pagrindimas: 'Teiginys pertvarkytas kaip aiškus sakinys apie metraščio pasakojimą.'
+  susije_objektai: 'counterparty: [[objektai/grupes/Rusai|Rusai]]; counterparty: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'mūšio data: 1234 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Mindaugas (valdovas, XIII a.) kariavo prieš Rusai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Mindaugas (valdovas, XIII a.) kariavo prieš Totoriai“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys pertvarkytas kaip aiškus sakinys apie metraščio pasakojimą.'
   pagrindžia:
     - c-001
-
+- susijęs iš Gudija: Ivinskis Mohilną, prie kurios Lietuvos metraštis mini 1234 m. kovą su totoriais, lokalizuoja Nemuno aukštupyje dabartinėje Gudijoje.
 ## Reikšmingi paminėjimai
 
 - c-001

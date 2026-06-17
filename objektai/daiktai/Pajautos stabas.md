@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Lietuvos metraštis vaizduoja, kad Kukovaitis motinos Pajautos atminimui padirbo jos išvaizdos stabą, pastatė jį ties Žaslių ežeru, o Pajauta buvo laikoma deive. Lietuvos metraštyje pasakojama, kad lietuvos metraštis pasakoja, kad vėliau Pajautos stabas sunyko; Lietuvos metraštis teigia, kad po stabo sunykimo toje vietoje toliau buvo garbinamos išaugusios liepos.
+Lietuvos metraštyje pasakojama, kad lietuvos metraštis pasakoja, kad Kukovaitis motinos Pajautos atminimui padirbo jos vardo stabą; Lietuvos metraštis vaizduoja, kad tas stabas buvo pastatytas ties Žaslių ežeru; Lietuvos metraštis teigia, kad Pajautos stabas buvo garbinamas, o Pajauta laikyta deive. Lietuvos metraštyje pasakojama, kad lietuvos metraštis pasakoja, kad vėliau Pajautos stabas sunyko; Lietuvos metraštis teigia, kad po stabo sunykimo toje vietoje toliau buvo garbinamos išaugusios liepos.
 
 ## Pavadinimai šaltiniuose
 
@@ -42,13 +42,19 @@ Nenurodyta
 - t-001
   global_id: t-187513
   teiginys: 'Lietuvos metraštis vaizduoja, kad Kukovaitis motinos Pajautos atminimui padirbo jos išvaizdos stabą, pastatė jį ties Žaslių ežeru, o Pajauta buvo laikoma deive.'
+  teiginio_tipas: 'saltinio_vaizdinys'
+  sudarymo_pagrindimas: 'Teiginys aiškus ir šaltiniui priskiria legendinį bei religinį Pajautos stabo vaizdavimą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Kukovaitis|Kukovaitis]]; mentioned_person: [[objektai/asmenys/Pajauta|Pajauta]]; mentioned_place: Lietuva; mentioned_place: Naugardukas'
   pagrindžia:
     - c-001
 
 <a id="claim-t-187514"></a>
 - t-002
   global_id: t-187514
-  teiginys: 'Lietuvos metraštyje pasakojama, kad lietuvos metraštis pasakoja, kad vėliau Pajautos stabas sunyko; Lietuvos metraštis teigia, kad po stabo sunykimo toje vietoje toliau buvo garbinamos išaugusios liepos.'
+  teiginys: 'Lietuvos metraštis pasakoja, kad supuvus Pajautos stabui toje vietoje išaugo liepos, kurios ir toliau buvo garbinamos.'
+  teiginio_tipas: 'saltinio_vaizdinys'
+  sudarymo_pagrindimas: 'Pradinis teiginys kartoja šaltinio įvardijimą ir taisytinas į vieną sklandų sakinį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Pajauta|Pajauta]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -74,6 +80,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Lietuvos metraštis pasakoja, kad supuvus Pajautos stabui toje vietoje išaugo liepos, kurios ir toliau buvo garbinamos.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     O tą jos stabą garbino ir Pa­
@@ -85,12 +92,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Bychovco kronikos rankraštis]]
-- [[objektai/asmenys/Kukovaitis]]
-- [[objektai/asmenys/Pajauta]]
-- [[objektai/zodynas/didysis kunigaikštis]]
-- [[objektai/zodynas/metraštis]]
-- [[objektai/zodynas/nuorašas]]

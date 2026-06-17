@@ -34,6 +34,8 @@ Nenurodyta
 - t-001
   global_id: t-07803
   teiginys: 'Senovės lietuviai patys kalė namų statybos ir dailidystės įrankius, nes manė, kad pamatytą daiktą žmogus turi gebėti pasidirbti.'
+  sudarymo_pagrindimas: 'Citata pagrindžia savarankišką įrankių gaminimą ir požiūrį į gebėjimą juos pasidirbti.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Strūnijo|Strūnijo]]'
   pagrindžia:
     - c-001
 
@@ -52,9 +54,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Strūnijo|strūnijo]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/daiktai/Ūkio įrankiai]]

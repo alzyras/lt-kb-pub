@@ -16,16 +16,18 @@ tags:
 Šiuo metu Latvijos lietuviai turi 16 įvairių organizacijų, Latvijos Lietuvių Sąjungą, 2 laikraščius, 11 pradžios mokyklų (iš jų 4 Rygoje), 7 lietuviškus skyrius prie latviškų mokyklų, 1 gimnaziją ir apie 40 studentų Rygos universitete.
 
 ## Teiginiai
+
 <a id="claim-t-74046"></a>
 - t-001
   global_id: t-74046
   teiginys: 'Latvijos Lietuvių Sąjunga tuo metu buvo viena iš Latvijos lietuvių organizacijų.'
+  sudarymo_pagrindimas: 'Teiginys sutrumpintas ir nukreiptas į pastabos objektą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Latvija; mentioned_place: Ryga; mentioned_place: Viena'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Latvijos Lietuvių Sąjunga tuo metu buvo viena iš Latvijos lietuvių organizacijų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -37,14 +39,8 @@ tags:
     mokyklų, 1 gimnaziją ir apie 40 studentų Rygos universitete.
     Tačiau darbą trukdo ne tik pašaliniai veiksniai, bet ir nesan-
     taika pačių lietuvių tarpe.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]

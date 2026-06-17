@@ -39,6 +39,11 @@ Nenurodyta
 - t-001
   global_id: t-185873
   teiginys: 'Alberto Vijūko-Kojelavičiaus „Lietuvos istorijos“ antra dalis prieš spausdinimą buvo peržiūrėta Jėzaus draugijos teologų ir gavo leidimą spausdinti.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis teiginys akcentavo leidėją, o citata geriau pagrindžia Jėzuitų peržiūrą ir aprobavimą prieš spausdinimą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -86,8 +91,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Antspaudas]]
-- [[objektai/asmenys/Jonas]]

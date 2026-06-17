@@ -43,6 +43,12 @@ Nenurodyta
 - t-001
   global_id: t-62829
   teiginys: '1290 m. balandžio 23 d. magistras Meinhardas su 500 raitelių ir 2000 pėstininkų smarkiai užpuolė Kolainių pilį.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys pilnas, gramatiškas ir tiksliai paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Kolainiai'
+  temporaliniai_duomenys: 'įvykio data: 1290 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys pilnas, gramatiškas ir tiksliai paremtas citata.'
   pagrindžia:
     - c-002
 
@@ -50,6 +56,9 @@ Nenurodyta
 - t-002
   global_id: t-62830
   teiginys: 'Per Kolainių pilies puolimą visi pilėnai, išskyrus 12 žmonių, buvo mirtinai sužeisti.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Teiginys pagrįstas, bet reikėjo pašalinti perteklinį šaltinio stilių ir atribuciją.'
+  susije_objektai: 'mentioned_object: [[objektai/posakiai/prisiekęs dievų galybe|prisiekęs dievų galybe]]; mentioned_person: [[objektai/asmenys/Surminas|Surminas]]; mentioned_place: Kolainiai; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -89,10 +98,3 @@ Nenurodyta
   pagrindžia:
     - t-001
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Surminas]]
-- [[objektai/posakiai/prisiekęs dievų galybe]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/ivykiai/Kolainių pilies puolimas (1290 m.)]]

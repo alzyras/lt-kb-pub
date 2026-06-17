@@ -18,7 +18,7 @@ amziai:
 
 ## Santrauka
 
-Lenkijos kariuomenės 85-ojo Vilniaus šaulių pėstininkų pulko krūtininiame ženkle buvo užrašas „NIE DAMY“ ir Aušros vartų Dievo Motina.
+Lenkijos kariuomenės 85-ojo Vilniaus šaulių pėstininkų pulko krūtininis ženklas.
 
 ## Pavadinimai šaltiniuose
 
@@ -46,6 +46,11 @@ Nenurodyta
 - t-001
   global_id: t-40736
   teiginys: 'Lenkijos kariuomenės 85-ojo Vilniaus šaulių pėstininkų pulko krūtininiame ženkle buvo užrašas „NIE DAMY“ ir Aušros vartų Dievo Motina.'
+  sudarymo_pagrindimas: 'Sutvarkyta citatos rašyba ir paliktos tik tiesiogiai pagrįstos detalės.'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1920 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Sutvarkyta citatos rašyba ir paliktos tik tiesiogiai pagrįstos detalės.'
   pagrindžia:
     - c-001
 

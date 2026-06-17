@@ -28,6 +28,11 @@ Dusburgietis teigia, kad toppen M.
 - t-001
   global_id: t-61320
   teiginys: 'M. Toppeno „Geschichte der preussischen Historiographie von P. v. Dusburg bis auf K. Schütz“ išleista Berlyne 1853 m.'
+  sudarymo_pagrindimas: 'Citata pagrindžia šaltinio pavadinimą, leidimo vietą ir metus.'
+  susije_objektai: 'mentioned_place: Berlynas'
+  temporaliniai_duomenys: 'įvykio data: 1853 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia šaltinio pavadinimą, leidimo vietą ir metus.'
   pagrindžia:
     - c-001
 

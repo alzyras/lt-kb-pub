@@ -21,9 +21,16 @@ Jau jam valdant Krušvica, Poznanė ir kiti b) Martini Gaili, Chronicon, ed. sta
 - t-001
   global_id: t-86081
   teiginys: 'Boleslovo laikais Krušvica ir Poznanė priklausė turtais ir gyventojų gausa garsėjusiems Didžiosios Lenkijos miestams.'
+  sudarymo_pagrindimas: 'Pradinis tekstas sugadintas OCR; citata leidžia atkurti aiškų faktinį teiginį.'
+  susije_objektai: 'owner: Lenkija; owner: Poznanė; mentioned_place: Lenkija; mentioned_place: Poznanė'
+  semantiniai_rysiai: 'Krušvica priklausė Lenkija; Krušvica priklausė Poznanė'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Martynas iš Krušvicos.md#claim-t-60384|Martynas iš Krušvicos]]: Martynas iš Krušvicos buvo riteris ir vėliavininkas, kuris kartu su kunigaikščiu Kazimieru nepabėgo pamatęs Sventopelko raitelius.
+- susijęs iš [[objektai/ivykiai/Kulmo ir Lubavos žemių dovanojimas Teutonų namų ordino broliams.md#claim-t-62844|Kulmo ir Lubavos žemių dovanojimas Teutonų namų ordino broliams]]: Kulmo ir Lubavos žemių dovanojimui patvirtinti buvo išduotas raštas su antspaudu, kad dovanojimo nebūtų galima atšaukti.
+- susijęs iš 1230 m. Krušvicos falsifikatas: M. Perlbachas nurodė, kad Dusburgietis Konrado ir Ordino sutartis nušvietė pagal Ordino 1230 m. Krušvicos falsifikatą.
+- susijęs iš 1230 m. Krušvicos falsifikatas: M. Perlbachas nurodė, kad Dusburgietis Konrado ir Ordino sutartis nušvietė pagal Ordino 1230 m. Krušvicos falsifikatą.
+- susijęs iš Gnieznas: Gnieznas, sprendžiant iš imperatoriaus Otono III priėmimo šiame mieste, jau anuomet buvo tankiai gyvenama ir turtinga gyvenvietė.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -51,3 +58,7 @@ Jau jam valdant Krušvica, Poznanė ir kiti b) Martini Gaili, Chronicon, ed. sta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+- Krušvica priklause [[objektai/vietos/Lenkija]]
+- Krušvica priklause [[objektai/vietos/Poznanė]]

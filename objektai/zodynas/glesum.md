@@ -20,9 +20,14 @@ Anot Tacito, Svebų (Baltijos) jūros dešiniajame krante gyveną Aestii garbin�
 - t-001
   global_id: t-28586
   teiginys: 'Tacitas rašė, kad Aestii Baltijos jūros pakraščiuose ir krante rinko gintarą, kurį vadino glesum.'
+  sudarymo_pagrindimas: 'Pašalintos perteklinės detalės, paliktas faktas apie žodį glesum.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Aušrėnai|Aušrėnai]]; mentioned_group: [[objektai/grupes/Svebai|Svebai]]; mentioned_place: Baltija'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/daiktai/Šernų amuletai.md#claim-t-47838|Šernų amuletai]]: Anot Tacito, prie Svebų jūros gyvenę Aestii garbino dievų motiną, nešiojo šernų amuletus, augino javus ir rinko gintarą.
+- susijęs iš [[objektai/daiktai/Šernų amuletai.md#claim-t-47839|Šernų amuletai]]: Tacitas rašė, kad prie Baltijos jūros gyvenę Aestii garbino dievų motiną ir nešiojo šernų amuletus.
+- susijęs iš [[objektai/grupes/Svebai.md#claim-t-28669|Svebai]]: Tacitas teigė, kad Aestii papročiais ir išore buvo panašūs į svebus.
+- susijęs iš [[objektai/posakiai/Jie « papročiais ir savo išore yra kaip svebai ».md#claim-t-28704|Jie « papročiais ir savo išore yra kaip svebai »]]: Tacitas rašė, kad Aestii papročiais ir išore buvo panašūs į svebus, bet jų kalba esanti artimesnė britų kalbai.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -39,10 +44,3 @@ Anot Tacito, Svebų (Baltijos) jūros dešiniajame krante gyveną Aestii garbin�
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Aušrėnai]]
-- [[objektai/grupes/Svebai]]
-- [[objektai/posakiai/Jie « papročiais ir savo išore yra kaip svebai »]]
-- [[objektai/daiktai/Šernų amuletai]]

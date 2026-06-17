@@ -3,10 +3,16 @@ tipas: zodyno_irasas
 pavadinimas: 'gubernija apskritis (ujezd)'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1801 m.'
+date_start: '1801'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - sąvoka
+amziai:
+  - 'XIX'
 ---
 # gubernija apskritis (ujezd)
 
@@ -20,6 +26,11 @@ Vietinio valdymo grandyje buvo gubernija, kurios galva – caro skiriamas, bet v
 - t-001
   global_id: t-22156
   teiginys: 'Aneksuotoje teritorijoje iš pradžių kurtos dvi gubernijos po metų buvo sujungtos į vieną Lietuvos guberniją.'
+  sudarymo_pagrindimas: 'Sakinys sutrumpintas ir pašalinta gremėzdiška formuluotė.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Baudžiava|Baudžiava]]; mentioned_object: [[objektai/zodynas/generalgubernatorius|generalgubernatorius]]; mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1801 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Sakinys sutrumpintas ir pašalinta gremėzdiška formuluotė.'
   pagrindžia:
     - c-002
 
@@ -27,6 +38,8 @@ Vietinio valdymo grandyje buvo gubernija, kurios galva – caro skiriamas, bet v
 - t-002
   global_id: t-22157
   teiginys: 'Rusijos imperijos vietinio valdymo grandyje gubernijas valdė caro skiriami gubernatoriai, o gubernijos buvo skirstomos į apskritis.'
+  sudarymo_pagrindimas: 'Citata leidžia aiškiau aprėpti abu žodyno įrašo objektus: guberniją ir apskritį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_object: [[objektai/zodynas/kultūrinė autonomija|kultūrinė autonomija]]; mentioned_place: Rusija'
   pagrindžia:
     - c-001
 
@@ -67,11 +80,3 @@ Vietinio valdymo grandyje buvo gubernija, kurios galva – caro skiriamas, bet v
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Baudžiava]]
-- [[objektai/zodynas/generalgubernatorius]]
-- [[objektai/zodynas/gubernija]]
-- [[objektai/zodynas/kultūrinė autonomija]]
-- [[objektai/zodynas/autokratinė monarchinė imperija]]

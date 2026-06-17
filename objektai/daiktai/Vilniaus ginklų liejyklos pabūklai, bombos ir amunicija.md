@@ -49,6 +49,8 @@ Nenurodyta
 - t-001
   global_id: t-87126
   teiginys: 'Vilniaus ginklų liejykloje buvo išlieta daug pabūklų, gamintos bombos ir kiti karo reikmenys.'
+  sudarymo_pagrindimas: 'Teiginys aiškus, factualus ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_object: [[objektai/daiktai/Bomba|Bomba]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Livonija; mentioned_place: Podolė; mentioned_place: Ukraina; mentioned_place: Vengrija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -80,13 +82,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Augustas]]
-- [[objektai/daiktai/Bomba]]
-- [[objektai/daiktai/Ginklai]]
-- [[objektai/grupes/Kalavijuočių ordinas]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/asmenys/Žygimantas]]
-- [[objektai/zodynas/žygis]]

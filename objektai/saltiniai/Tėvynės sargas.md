@@ -3,11 +3,11 @@ tipas: saltinis
 pavadinimas: 'Tėvynės sargas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
+  - '1896 m.'
   - '2013 m.'
   - '2026 m.'
-date_start: '2013'
+date_start: '1896'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
@@ -15,6 +15,7 @@ tags:
   - kunigas
   - saltinis
 amziai:
+  - 'XIX'
   - 'XXI'
 ---
 # Tėvynės sargas
@@ -29,6 +30,9 @@ Populiariausiu tapo nuo 1896 m. leistas „Tėvynės sargas“, kurio spiritus m
 - t-001
   global_id: t-67553
   teiginys: '„Tėvynės sargas“ nuo 1896 m. tapo populiariausiu katalikiškos pakraipos leidiniu, o jo varomoji jėga buvo Juozas Tumas-Vaižgantas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_object: [[objektai/zodynas/rusinimas|rusinimas]]; mentioned_object: [[objektai/zodynas/spiritus movens|spiritus movens]]; mentioned_person: [[objektai/autoriai/Juozas Tumas (Vaižgantas)|Juozas Tumas (Vaižgantas)]]; mentioned_person: [[objektai/asmenys/Juozas Tumas-Vaižgantas|Juozas Tumas-Vaižgantas]]'
+  temporaliniai_duomenys: 'įvykio data: po 1896 m.; įvykio data: 1896 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

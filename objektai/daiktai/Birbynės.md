@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Lietuvos kariuomenei žengiant per upę, buvo sutrimitavę trimitai ir užgrotos birbynės.
+Lietuvos metraštyje pasakojama, kad lietuvos metraštis pasakoja, kad Lietuvos kariuomenė žengdama per upę grojo birbynėmis; Lietuvos metraštis birbynes pateikia kaip karo signalinėje ir garsinėje veikloje dalyvavusį instrumentą.
 
 ## Pavadinimai šaltiniuose
 
@@ -39,14 +39,17 @@ Nenurodyta
 <a id="claim-t-186853"></a>
 - t-001
   global_id: t-186853
-  teiginys: 'Lietuvos kariuomenei žengiant per upę, buvo sutrimitavę trimitai ir užgrotos birbynės.'
+  teiginys: 'Kunigaikščio Mykolo kariuomenei žengiant per upę, buvo sutrimitavę trimitai ir užgrotos birbynės.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Išplėstas neaiškus subjektas pagal citatą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Trimitai|Trimitai]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Lietuvos kariuomenei žengiant per upę, buvo sutrimitavę trimitai ir užgrotos birbynės.'
+  santrauka: 'Kunigaikščio Mykolo kariuomenei žengiant per upę, buvo sutrimitavę trimitai ir užgrotos birbynės.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     Kunigaikš­
@@ -60,8 +63,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Mykolas]]
-- [[objektai/daiktai/Trimitai]]

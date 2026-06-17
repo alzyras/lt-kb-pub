@@ -3,10 +3,16 @@ tipas: saltinis
 pavadinimas: 'LIETUVOS LENGVOJI IR VIDUTINĖ KAVALERIJA'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+datos:
+  - '1991 m.'
+date_start: '1991'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XX'
 ---
 # LIETUVOS LENGVOJI IR VIDUTINĖ KAVALERIJA
 
@@ -20,6 +26,11 @@ tags:
 - t-001
   global_id: t-80764
   teiginys: 'Informacinio bloko „Lietuvos lengvoji ir vidutinė kavalerija“ autore nurodyta Lina Vidauskytė.'
+  sudarymo_pagrindimas: 'Pirminis teiginys yra bibliografinis fragmentas, ne pilnas sakinys.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Lietuvos atsikūrimas|Lietuvos atsikūrimas]]; mentioned_object: [[objektai/autoriai/Lina Vidauskytė|Lina Vidauskytė]]; mentioned_person: [[objektai/asmenys/Albertas|Albertas]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1991 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pirminis teiginys yra bibliografinis fragmentas, ne pilnas sakinys.'
   pagrindžia:
     - c-001
 

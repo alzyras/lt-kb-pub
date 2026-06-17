@@ -3,12 +3,20 @@ tipas: zodyno_irasas
 pavadinimas: 'kahalai sėslumo riba'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1840 m.'
+  - '1920 m.'
+date_start: '1840'
+date_end: '1920'
 sukurta: ''
 atnaujinta: ''
 tags:
   - miestas
   - sąvoka
   - tauta
+amziai:
+  - 'XIX'
+  - 'XX'
 ---
 # kahalai sėslumo riba
 
@@ -22,6 +30,11 @@ tags:
 - t-001
   global_id: t-22176
   teiginys: '1920 m. nacionalinėje demokratiškai išrinktų žydų kahalų (bendruomenių) atstovų konferencijoje sudaryta Lietuvos žydų taryba (Vaad) iš 34 narių, kuri turėjo spręsti visus socialinius ir kultūrinius žydų reikalus.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata apie kahalus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos žydų taryba (Vaad)|Lietuvos žydų taryba (Vaad)]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/Antisemitizmas|Antisemitizmas]]; mentioned_object: [[objektai/zodynas/Kahalai|Kahalai]]; mentioned_place: Lietuva; mentioned_place: Paryžius'
+  temporaliniai_duomenys: 'įvykio data: 1920 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata apie kahalus.'
   pagrindžia:
     - c-002
 
@@ -29,6 +42,11 @@ tags:
 - t-002
   global_id: t-22177
   teiginys: 'Žydams buvo įvesta sėslumo riba, draudusi keltis į abi Rusijos sostines, tačiau ji netaikyta kvalifikuotiems ir išsilavinusiems žydams.'
+  sudarymo_pagrindimas: 'Citata palaiko tikslesnį sakinį su svarbia išimtimi.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Rusija'
+  temporaliniai_duomenys: 'įvykio data: iki 1840 m.; įvykio data: 1840 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko tikslesnį sakinį su svarbia išimtimi.'
   pagrindžia:
     - c-001
 
@@ -65,12 +83,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Antisemitizmas]]
-- [[objektai/zodynas/Kahalai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Lietuvos žydų taryba (Vaad)]]
-- [[objektai/grupes/Žydai]]
-- [[objektai/ivykiai/Lietuvos žydų tarybos (Vaad) sudarymas (1920 m.)]]

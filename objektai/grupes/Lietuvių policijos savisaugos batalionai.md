@@ -20,6 +20,8 @@ tags:
 - t-001
   global_id: t-19813
   teiginys: 'Dalis lietuvių policijos savisaugos batalionų buvo panaudota akcijose prieš civilius Baltarusijoje, Lenkijoje ir Ukrainoje.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nusako batalionų panaudojimą ir yra pagrįstas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kaunas; mentioned_place: Lenkija; mentioned_place: SSRS; mentioned_place: Ukraina; mentioned_place: Čekoslovakija'
   pagrindžia:
     - c-002
 
@@ -27,6 +29,8 @@ tags:
 - t-002
   global_id: t-19814
   teiginys: 'Lietuvių savisaugos policijos grupės, tarp jų policijos batalionai, buvo įtrauktos į žudynių parengimą, aukų konvojavimą ir šaudymą.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai pagrįstas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Jonava; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -64,8 +68,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Žydai]]

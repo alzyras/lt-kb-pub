@@ -20,6 +20,8 @@ Vytautas, žlugus viltims, vėl buvo priverstas ieškoti 19 Visą tą pasakojim�
 - t-001
   global_id: t-88474
   teiginys: 'Slaptojo archyvo aprašyme Vytautui priskirtas ketinimas ištekinti dukterį Sofiją už Mazovijos didžiojo kunigaikščio.'
+  sudarymo_pagrindimas: 'Citata palaiko teiginį apie aprašyme pateiktą Vytauto sumanymą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Ringailė|Ringailė]]; mentioned_place: Mazovija; mentioned_place: Viena'
   pagrindžia:
     - c-001
 

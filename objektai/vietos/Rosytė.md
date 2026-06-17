@@ -22,6 +22,8 @@ Li­ vonijos pilys: Marienhausenas, Lutzenas, Švarcenburgas, Rosytė, Dinaburga
 - t-001
   global_id: t-86308
   teiginys: 'Rosytė minima tarp Livonijos pilių kartu su Marienhausenu, Lutzenu, Švarcenburgu, Dinaburgu ir kitomis pilimis.'
+  sudarymo_pagrindimas: 'Citata palaiko faktą, kad Rosytė įtraukta į Livonijos pilių sąrašą.'
+  susije_objektai: 'mentioned_place: Dinaburgas; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Podolė; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

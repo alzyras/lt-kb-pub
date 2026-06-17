@@ -14,7 +14,7 @@ tags:
 
 ## Santrauka
 
-Apylinkės pirmininkas Blinkevičius gavo Pušaloto valsčiaus valdžios leidimą surinkti miške likusius lavonus.
+Po kelių dienų mūsų apylinkės pirmininkas Blinkevičius nusprendė, kad reikia prašyti Pušaloto valsčiaus valdžios, kad leistų surinkti miške likusius lavonus.
 
 ## Teiginiai
 
@@ -22,9 +22,11 @@ Apylinkės pirmininkas Blinkevičius gavo Pušaloto valsčiaus valdžios leidim�
 - t-001
   global_id: t-80709
   teiginys: 'Apylinkės pirmininkas Blinkevičius gavo Pušaloto valsčiaus valdžios leidimą surinkti miške likusius lavonus.'
+  sudarymo_pagrindimas: 'Citata pagrindžia tikslesnį sakinį, kuriame nurodytas ir sprendimo rezultatas.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/posakiai/karas po karo|karas po karo]]; mentioned_place: Pušalotas; mentioned_place: Radomas'
   pagrindžia:
     - c-001
-
+- susijęs iš Pušalotas: Blinkevičius prašė Pušaloto valsčiaus valdžios leidimo surinkti miške likusius lavonus ir tokį leidimą gavo.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -52,8 +54,3 @@ Apylinkės pirmininkas Blinkevičius gavo Pušaloto valsčiaus valdžios leidim�
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Ginklai]]
-- [[objektai/posakiai/karas po karo]]

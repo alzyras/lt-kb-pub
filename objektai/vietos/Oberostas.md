@@ -14,7 +14,7 @@ tags:
 
 ## Santrauka
 
-Oberosto karinis kolonijinis režimas nusavindavo valstiečių maistą, apkrovė juos mokesčiais bei prievolėmis ir išvežė pramonės įmones į Vokietiją.
+Vokiečiai Lietuvą laikė Rusijos okupuota teritorija, tad, 1915 m. frontui stabilizavusis, sudarė karinę administraciją ir pavadino ją Oberostu (nuo Oberbefehlshaber Ost – Vyriausioji Rytų kariuomenės vadovybė). Nuostabiausia tai, kad žemėlapyje į pietus nutįsusi Oberosto teritorija forma kone sutapo su 1793–1795 m. LDK ribomis, kai, anot A. O Oberosto karinis kolonijinis režimas plėšė valstiečius, – nusavindavo maistą, apkrovė dideliais mokesčiais ir prievolėmis, pramonės įmones išvežė į Vokietiją, o mokyklose pradėjo germanizaciją (lietuviai įsteigė apie tūkstantį mokyklų ir mokytojų kursų.
 
 ## Teiginiai
 
@@ -22,6 +22,8 @@ Oberosto karinis kolonijinis režimas nusavindavo valstiečių maistą, apkrovė
 - t-001
   global_id: t-68832
   teiginys: 'Oberosto karinis kolonijinis režimas nusavindavo valstiečių maistą, apkrovė juos mokesčiais bei prievolėmis ir išvežė pramonės įmones į Vokietiją.'
+  sudarymo_pagrindimas: 'Teiginys paremtas citata, bet pataisyta sakinio sandara ir aiškumas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Liuteronai|Liuteronai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva; mentioned_place: Vokietija'
   pagrindžia:
     - c-001
 

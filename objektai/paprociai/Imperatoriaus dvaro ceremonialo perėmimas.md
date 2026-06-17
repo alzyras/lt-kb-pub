@@ -49,6 +49,8 @@ Nenurodyta
 - t-001
   global_id: t-28918
   teiginys: 'Jonas III, laikydamas save žlugusios Bizantijos paveldėtoju, perėmė jos dvigalvį erelį bei imperatoriaus dvaro ceremonialą ir savinosi caro titulą.'
+  sudarymo_pagrindimas: 'Pradiniame teiginyje yra OCR triukšmo, o sakinį galima aiškiau suformuluoti.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Romai|Romai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/autoriai/Filotiejus|Filotiejus]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Bizantija; mentioned_place: Lietuva; mentioned_place: Maskva'
   pagrindžia:
     - c-001
 
@@ -56,6 +58,11 @@ Nenurodyta
 - t-002
   global_id: t-184347
   teiginys: 'Jonas III, laikydamas save Bizantijos imperijos paveldėtoju, perėmė dvigalvį erelį, imperatoriaus dvaro ceremonialą ir savinosi caro titulą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Romai|Romai]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Bizantija; mentioned_place: Maskva'
   pagrindžia:
     - c-002
 
@@ -96,12 +103,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/Filotiejus]]
-- [[objektai/asmenys/Jonas]]
-- [[objektai/grupes/Romai]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/daiktai/Bizantijos imperatorių herbas]]
-- [[objektai/posakiai/sobiratel’ russkich žemeli]]

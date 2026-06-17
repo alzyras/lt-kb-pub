@@ -20,6 +20,8 @@ Lenkijos (Tynieco). 80 Tyniecas 376 Tyszkiewicz J.
 - t-001
   global_id: t-32617
   teiginys: 'Vytautas įkurdino benediktinus Senuosiuose Trakuose, atkeldamas juos iš Mažosios Lenkijos Tynieco.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir citata pagrindžia Tynieco ryšį su benediktinų atkėlimu.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

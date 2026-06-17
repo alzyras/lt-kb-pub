@@ -22,6 +22,8 @@ Be kitų, Že­ mutinėje pilyje buvo pastatyta Šv.
 - t-001
   global_id: t-86276
   teiginys: 'Žygimantas Augustas Žemutinėje pilyje pastatydino Šv. Barboros bažnyčią mirusios žmonos atminimui.'
+  sudarymo_pagrindimas: 'Citata tiesiogiai pagrindžia statytoją, vietą ir paskirtį.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_person: [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]]'
   pagrindžia:
     - c-001
 

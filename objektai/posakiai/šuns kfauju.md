@@ -3,14 +3,20 @@ tipas: posakis
 pavadinimas: 'šuns kfauju'
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
+datos:
+  - '1440 m.'
+date_start: '1440'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XV'
 ---
 # šuns kfauju
 
 ## Santrauka
 
-Bychovco kronikoje posakis „šuns kraujas“ taikomas mužikams, kuriuos kronikos pasakojimas vaizduoja kaip ketintus iškelti virš bajorų luomo. Lietuvos metraštis valstiečius vaizduoja žeminančiu posakiu „šuns kfauju“.
+„šuns kfauju“ šiame leidinyje cituojamas kaip žeminantis valstiečių apibūdinimas ir luominio priešiškumo formulės dalis.
 
 ## Forma
 
@@ -30,43 +36,30 @@ Posakis pateikiamas kaip Bychovco kronikos socialinio ir luominio vaizdinio pavy
 <a id="claim-t-186885"></a>
 - t-001
   global_id: t-186885
-  teiginys: 'Bychovco kronikoje posakis „šuns kraujas“ taikomas mužikams, kuriuos kronikos pasakojimas vaizduoja kaip ketintus iškelti virš bajorų luomo.'
+  teiginys: 'Bychovco kronikoje Žygimanto Kęstutaičio tariamas siekis iškelti mužikus, vadinamus „šuns krauju“, vaizduojamas kaip viena baisiausių jo nedorybių.'
+  teiginio_tipas: 'saltinio_vaizdinys'
+  sudarymo_pagrindimas: 'Reikia išlaikyti kronikos vertinimo ir priešiško apibūdinimo atribuciją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
-    - c-002
     - c-001
 
 <a id="claim-t-186886"></a>
 - t-002
   global_id: t-186886
-  teiginys: 'Lietuvos metraštis valstiečius vaizduoja žeminančiu posakiu „šuns kfauju“.'
+  teiginys: 'Posakiu „šuns kfauju“, kaip nurodo Lietuvos metraščio komentaras, Bychovco kronikos originaliajame tekste vadinami valstiečiai.'
+  teiginio_tipas: 'saltinio_vaizdinys'
+  sudarymo_pagrindimas: 'Subjektu padarytas pats posakis, o Bychovco kronikos formuluotė palikta su komentarui priskirta atribucija. Nepridėta platesnio vertinimo, nei leidžia citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Smolenskiečiai|Smolenskiečiai]]; mentioned_object: [[objektai/zodynas/sąvadas|sąvadas]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1440 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Subjektu padarytas pats posakis, o Bychovco kronikos formuluotė palikta su komentarui priskirta atribucija. Nepridėta platesnio vertinimo, nei leidžia citata.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Bychovco kronikoje posakis „šuns kraujas“ taikomas mužikams, kuriuos Žygimantas Kęstutaitis esą ketino iškelti virš bajorų luomo.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    kaltindamas dėl visų smurto veiksmų, kuriais Jis spau­
-    dęs visą Didžiosios Kunigaikštystės bajoriją, o dabar
-    dar sumanęs seime visus kunigaikščius, ir ponus, ir vi­
-    są bajorų luomą kruvinai išgalabyti, o mužikus — šuns
-    kraują— iškelti. O po šių žodžių, baigdamas, suriko:
-    „Ką išvirei mums visiems — kunigaikščiams, ir ponams,
-    ir kitiems,— dabar vienas pats išsrėbsi." Ir puolė ant jo,
-    norėdamas jį nužudyti, bet neturėjo rankoje ginklo, ir
-    Skabeika sugriebė šakę, kuria židinyje žarstomos mal­
-    kos, ir ta šake smogė jam. o tuo metu kunigas kaip tik
-    kėlė aukštyn švenčiausiąjį sakramentą.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_vaizdinys
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Bychovco kronikoje posakis „šuns kraujas“ taikomas mužikams, kuriuos Žygimantas Kęstutaitis esą ketino iškelti virš bajorų luomo.'
+  santrauka: 'Bychovco kronikoje Žygimanto Kęstutaičio tariamas siekis iškelti mužikus, vadinamus „šuns krauju“, vaizduojamas kaip viena baisiausių jo nedorybių.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     Smo­
@@ -87,7 +80,8 @@ Posakis pateikiamas kaip Bychovco kronikos socialinio ir luominio vaizdinio pavy
   pagrindžia:
     - t-001
 
-- c-003
+- c-002
+  santrauka: 'Posakiu „šuns kfauju“, kaip nurodo Lietuvos metraščio komentaras, Bychovco kronikos originaliajame tekste vadinami valstiečiai.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     Miestiečiai,
@@ -109,15 +103,3 @@ Posakis pateikiamas kaip Bychovco kronikos socialinio ir luominio vaizdinio pavy
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bajorai]]
-- [[objektai/asmenys/Skabeika]]
-- [[objektai/grupes/Smolenskiečiai]]
-- [[objektai/zodynas/kunigas]]
-- [[objektai/zodynas/luomas]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/zodynas/sąvadas]]
-- [[objektai/asmenys/Žygimantas]]
-- [[objektai/zodynas/metraštis]]

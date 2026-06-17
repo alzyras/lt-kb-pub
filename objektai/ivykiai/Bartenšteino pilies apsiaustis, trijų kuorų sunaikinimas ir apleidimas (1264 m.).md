@@ -22,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-1264 m. Bartenšteino pilyje broliai stokojo maisto, nebegalėjo ilgiau priešintis prūsams ir apgaule priviliojo juos pulti pilį. Bartenšteino pilyje buvo apsupta 400 brolių ir ginklanešių, o prūsai aplink pilį įrengė tris kuorus su 1300 karių. Broliai su 150 vyrų užgrobė prūsų katilą, sugriovė tris kuorus, o iš 1300 jų gynėjų mirties išvengė tik nedaugelis.
+Dusburgietis teigia, kad apie Bartenšteino pilies puolimą Bartenšteino pilyje buvo apsupta 400 [karių] — brolių ir ginklanešių; aplink pilį prūsai įrengė tris kuorus, kuriuose nuolat laikė 1300 įgudusių kariauti vyrų. Dusburgietis teigia, kad apie trijų kuorų sunaikinimą ir daugiau nei tūkstančio prūsų žūtį Po to prasidėjo brolių šeimynos ir pilį supančiųjų prūsų susirėmimas dėl vieno katilo, kurį šiems reikėjo perkelti iš vieno kuoro į kitą ir kuriame prūsai buvo pratę virti savo šventenybes. Dusburgietis teigia, kad apie Bartenšteino pilies apleidimą Prūsams atstačius kuorus, ketvirtaisiais [apsupimo] metais, taigi 1264 viešpaties metais, broliai, trūkdami maisto ir negalėdami ilgiau prūsams priešintis, tris kartus vis dėlto juos apgavo štai kokiu būdu.
 
 ## Laikotarpis ir datos
 
@@ -46,6 +46,11 @@ Nenurodyta
 - t-001
   global_id: t-66478
   teiginys: '1264 m. Bartenšteino pilyje broliai stokojo maisto, nebegalėjo ilgiau priešintis prūsams ir apgaule priviliojo juos pulti pilį.'
+  sudarymo_pagrindimas: 'Pirminis teiginys per abstrakčiai mini tris apgavystes, o citata leidžia suformuluoti konkretesnį veiksmą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_place: Bartenšteinas; mentioned_place: Prūsai'
+  temporaliniai_duomenys: 'įvykio data: 1264 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pirminis teiginys per abstrakčiai mini tris apgavystes, o citata leidžia suformuluoti konkretesnį veiksmą.'
   pagrindžia:
     - c-003
 
@@ -53,6 +58,8 @@ Nenurodyta
 - t-002
   global_id: t-66479
   teiginys: 'Bartenšteino pilyje buvo apsupta 400 brolių ir ginklanešių, o prūsai aplink pilį įrengė tris kuorus su 1300 karių.'
+  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytą apsuptą įgulą ir prūsų kuorus.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kuorai|Kuorai]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_place: Bartenšteinas; mentioned_place: Prūsai; mentioned_place: Vangrapė'
   pagrindžia:
     - c-001
 
@@ -60,6 +67,8 @@ Nenurodyta
 - t-003
   global_id: t-66480
   teiginys: 'Broliai su 150 vyrų užgrobė prūsų katilą, sugriovė tris kuorus, o iš 1300 jų gynėjų mirties išvengė tik nedaugelis.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir atitinka citatos informaciją apie katilą, kuorus ir gynėjus.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Katilas|Katilas]]; mentioned_object: [[objektai/daiktai/Kuorai|Kuorai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Prūsai'
   pagrindžia:
     - c-002
 
@@ -67,6 +76,8 @@ Nenurodyta
 - t-004
   global_id: t-66481
   teiginys: 'Bartenšteino pilį palikę broliai pasitraukė į Karaliaučių ir Elbingą, o priešai vėliau įsibrovė į pilį ir ją panaudojo puldinėjimams.'
+  sudarymo_pagrindimas: 'Citata palaiko pilies apleidimą ir vėlesnį priešų įsibrovimą, pradinį teiginį reikia išvalyti.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_place: Bartenšteinas; mentioned_place: Elbingas; mentioned_place: Viena'
   pagrindžia:
     - c-004
 
@@ -153,16 +164,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/ežeras]]
-
-### Susiję objektai
-- [[objektai/daiktai/Katilas]]
-- [[objektai/daiktai/Kuorai]]
-- [[objektai/grupes/Rytas]]
-- [[objektai/zodynas/maršalas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/įgula]]
-- [[objektai/zodynas/kuoras propugnaculum pilaitė]]

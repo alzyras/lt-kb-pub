@@ -20,9 +20,11 @@ Tiktai Albetrandis apsirinka, sakydamas, kad Asti­ ko dvaras Kavarske buvo nuto
 - t-001
   global_id: t-86196
   teiginys: 'Kavarskas nuo Ukmergės buvo nutolęs per 4 mylias, o nuo Vilniaus - per 15 mylių.'
+  sudarymo_pagrindimas: 'Citata taiso klaidingą atstumą ir leidžia suformuluoti aiškų faktą apie Kavarską.'
+  susije_objektai: 'mentioned_place: Ukmergė; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
-
+- susijęs iš Ukmergė: Kavarskas buvo nutolęs nuo Ukmergės per keturias mylias, o nuo Vilniaus per penkiolika mylių.
 ## Reikšmingi paminėjimai
 
 - c-001

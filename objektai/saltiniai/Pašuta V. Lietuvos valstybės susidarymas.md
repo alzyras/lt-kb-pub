@@ -24,7 +24,7 @@ amziai:
 
 ## Santrauka
 
-Pašutos veikalo puslapis 340 nurodomas prie bandymo lokalizuoti minimą vietovę buvusioje Pagraudės teritorijoje.
+Dusburgietis teigia, kad 538 Jakštas J., Vokiečių ordinas..., p. 130; Pašuta V., Lietuvos..., p. 420—421. Dusburgietis teigia, kad jūros aukštupio krante (Zajączkowski S., Studya..., p. 33—34 ir žemėlapis; SZM, p. 213; Ivinskis Z., Gedimino pilis, p. 1139— 1141; Pašuta V., Lietuvos..., p. 340). Dusburgietis teigia, kad 347; Pašuta V., Lietuvos..., p. 226.
 
 ## Teiginiai
 
@@ -32,6 +32,8 @@ Pašutos veikalo puslapis 340 nurodomas prie bandymo lokalizuoti minimą vietov�
 - t-001
   global_id: t-60924
   teiginys: 'Pašutos veikalo puslapis 340 nurodomas prie bandymo lokalizuoti minimą vietovę buvusioje Pagraudės teritorijoje.'
+  sudarymo_pagrindimas: 'Rewrite failed deterministic gates: heading_or_page_noise'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Pagraudė'
   pagrindžia:
     - c-001
 

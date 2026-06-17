@@ -29,9 +29,15 @@ Garsėjo: Volfgangas Auksakalys - 1522 m., Štagelis - 1530 m.
 - t-001
   global_id: t-87935
   teiginys: 'Štagelis Vilniuje garsėjo kaip auksakalys 1530 m.'
+  sudarymo_pagrindimas: 'Pradinis teiginys yra sąrašo fragmentas, todėl perrašytas į pilną sakinį apie Štagelį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/autoriai/Volfgangas|Volfgangas]]; mentioned_person: [[objektai/asmenys/Volfgangas Auksakalys|Volfgangas Auksakalys]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1522 m.; įvykio data: 1530 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys yra sąrašo fragmentas, todėl perrašytas į pilną sakinį apie Štagelį.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Volfgangas Auksakalys.md#claim-t-87887|Volfgangas Auksakalys]]: Volfgangas Auksakalys garsėjo Vilniuje 1522 m., Žygimanto Senojo laikais.
+- susijęs iš [[objektai/grupes/Vokiečių amatininkai Vilniuje.md#claim-t-86833|Vokiečių amatininkai Vilniuje]]: Žygimanto Senojo laikais Vilniuje buvo daug turtingų auksakalių, kurie buvo vokiečiai arba vokiečių kilmės.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -50,8 +56,3 @@ Garsėjo: Volfgangas Auksakalys - 1522 m., Štagelis - 1530 m.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Vokiečių amatininkai Vilniuje]]

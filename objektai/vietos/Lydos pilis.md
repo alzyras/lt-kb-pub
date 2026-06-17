@@ -30,7 +30,7 @@ Tai pilis, minima tarp ankstyvųjų Vytauto mūro statybų.
 
 - tipas: pilis
 - regionas:
-- susiję žmonės: [[objektai/asmenys/Vytautas|Vytautas]]
+- susiję žmonės: [[objektai/asmenys/Vytautas (Lietuvos valdovas, 1384 m.)|Vytautas]]
 - susiję įvykiai:
 - susijusios grupės:
 
@@ -48,6 +48,8 @@ Nenurodyta
 - t-001
   global_id: t-11049
   teiginys: 'Vytauto valdymo pradžioje turėjo būti pastatyta mūrinė Lydos pilis.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Lydos pilį ir tiesiogiai remiasi citata.'
+  susije_objektai: 'mentioned_place: Medininkai; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

@@ -30,6 +30,10 @@ Nenurodyta
 - t-001
   global_id: t-185703
   teiginys: 'Kojelavičiaus pasakojime ateiviai pasidarė įtvirtinimus ir įkurdino juose įgulas, kad galėtų atremti vietinių gyventojų puolimą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Tai pasakojimo faktas; sutvarkyta kalba ir išplėsti dalyviai.'
   pagrindžia:
     - c-001
 
@@ -37,6 +41,11 @@ Nenurodyta
 - t-002
   global_id: t-185704
   teiginys: 'Kojelavičiaus pasakojime ateiviai ir vietiniai gyventojai susivienijo, panoro bendros valstybės, o lietuviai sutiko pasiduoti ateivių valdžiai.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys paremtas citata, tik pašalintas OCR triukšmas ir priskirtas pasakojimui.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Italija'
   pagrindžia:
     - c-002
 
@@ -94,8 +103,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/grupes/Lietuviai]]

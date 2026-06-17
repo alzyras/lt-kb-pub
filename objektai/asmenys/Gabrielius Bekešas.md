@@ -21,7 +21,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Gabrielius Bekešas Skornatas buvo vengrų pulkų vadas, kurio nuopelnai apibūdinti kaip ištikimi, drąsūs ir pasiaukojami. Gabrielius Bekešas prie Polocko rizikavo gyvybe, o vėliau ties Velikije Lūki buvo paskirtas vadovauti vengrų kariuomenės riteriams. Už nuopelnus Gabrieliui Bekešui tėvonijos teise perduotas Alantos dvaras su Kristupiškių, Kirdeikiškių, Germaniškio ir Gelminiškio priklausiniais.
+Gabrielius Bekešas Skornatas pristatomas kaip vengrų pulkų vadas, apdovanotas už karinius nuopelnus valdovui, Karalystei ir Lietuvos Didžiajai Kunigaikštystei. Privilegijoje jam suteikiamas Alantos dvaras su priklausiniais, paveldėjimo teisėmis, ūkinės plėtros galimybėmis ir karinės tarnybos pareiga.
 
 ## Variantai
 
@@ -53,6 +53,7 @@ Gabrielius Bekešas Skornatas buvo vengrų pulkų vadas, kurio nuopelnai apibūd
 - t-001
   global_id: t-54970
   teiginys: 'Gabrielius Bekešas Skornatas buvo vengrų pulkų vadas, kurio nuopelnai apibūdinti kaip ištikimi, drąsūs ir pasiaukojami.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_person: [[objektai/asmenys/Tame (Baigos brolis)|Tame (Baigos brolis)]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Polockas'
   pagrindžia:
     - c-007
 
@@ -60,6 +61,8 @@ Gabrielius Bekešas Skornatas buvo vengrų pulkų vadas, kurio nuopelnai apibūd
 - t-002
   global_id: t-54971
   teiginys: 'Gabrielius Bekešas prie Polocko rizikavo gyvybe, o vėliau ties Velikije Lūki buvo paskirtas vadovauti vengrų kariuomenės riteriams.'
+  sudarymo_pagrindimas: 'Reikia pilnai įvardyti asmenį ir tiksliau perteikti vadovavimo paskyrimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_person: [[objektai/asmenys/Tame (Baigos brolis)|Tame (Baigos brolis)]]; mentioned_place: Maskva; mentioned_place: Polockas; mentioned_place: Velikije Lūki'
   pagrindžia:
     - c-001
 
@@ -67,6 +70,7 @@ Gabrielius Bekešas Skornatas buvo vengrų pulkų vadas, kurio nuopelnai apibūd
 - t-003
   global_id: t-54972
   teiginys: 'Už nuopelnus Gabrieliui Bekešui tėvonijos teise perduotas Alantos dvaras su Kristupiškių, Kirdeikiškių, Germaniškio ir Gelminiškio priklausiniais.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_object: [[objektai/zodynas/tėvonija|tėvonija]]; mentioned_person: [[objektai/asmenys/Grigalius (vicekancleris)|Grigalius (vicekancleris)]]; mentioned_place: Alanta; mentioned_place: Maskva; mentioned_place: Ukmergė'
   pagrindžia:
     - c-002
 
@@ -74,6 +78,7 @@ Gabrielius Bekešas Skornatas buvo vengrų pulkų vadas, kurio nuopelnai apibūd
 - t-004
   global_id: t-54973
   teiginys: 'Bekešo vaikams, palikuonims, paveldėtojams ir giminaičiams leista paveldimai valdyti suteiktas valdas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_object: [[objektai/zodynas/nuorašas|nuorašas]]; mentioned_person: [[objektai/asmenys/Astikas|Astikas]]; mentioned_person: [[objektai/asmenys/Grigalius (vicekancleris)|Grigalius (vicekancleris)]]; mentioned_person: [[objektai/asmenys/Vaitiekus (Lucko vyskupas)|Vaitiekus (Lucko vyskupas)]]; mentioned_place: Alanta'
   pagrindžia:
     - c-003
 
@@ -81,6 +86,7 @@ Gabrielius Bekešas Skornatas buvo vengrų pulkų vadas, kurio nuopelnai apibūd
 - t-005
   global_id: t-54974
   teiginys: 'Bekešui ir jo palikuonims leista plėtoti dovanotas valdas, bet už jas reikėjo vykdyti krašto karinę tarnybą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/tėvonija|tėvonija]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-004
 
@@ -88,6 +94,8 @@ Gabrielius Bekešas Skornatas buvo vengrų pulkų vadas, kurio nuopelnai apibūd
 - t-006
   global_id: t-82311
   teiginys: 'Gabrieliui Bekešui po Astiko Varšuvos seime pagal paveldėjimo teisę buvo atiduotas Alantos dvaras.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Protestantai|Protestantai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/Astikas|Astikas]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_place: Alanta; mentioned_place: Lietuva; mentioned_place: Varšuva'
   pagrindžia:
     - c-006
 
@@ -95,6 +103,8 @@ Gabrielius Bekešas Skornatas buvo vengrų pulkų vadas, kurio nuopelnai apibūd
 - t-007
   global_id: t-82312
   teiginys: 'Gabrieliui Bekešui ir jo palikuonims buvo leista valdose naudoti derlių, statyti bažnyčias, mokyklas, smukles ir malūnus.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir glaustai perteikia citatoje išvardytas teises.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vaitiekus (Lucko vyskupas)|Vaitiekus (Lucko vyskupas)]]'
   pagrindžia:
     - c-005
 
@@ -102,9 +112,19 @@ Gabrielius Bekešas Skornatas buvo vengrų pulkų vadas, kurio nuopelnai apibūd
 - t-008
   global_id: t-82313
   teiginys: 'Gabrielius Bekešas Skornatas vadovavo karaliaus vengrų pulkams ir buvo įvertintas už ištikimą, drąsią bei pasiaukojamą tarnybą.'
+  sudarymo_pagrindimas: 'Citata palaiko glaustą teiginį apie pareigas ir nuopelnus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_person: [[objektai/asmenys/Tame (Baigos brolis)|Tame (Baigos brolis)]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Polockas'
   pagrindžia:
     - c-007
-
+- susijęs iš [[objektai/asmenys/Steponas Batoras.md#claim-t-113969|Steponas Batoras]]: 1581 m. vasario 13 d. Varšuvos seime Steponas Batoras tituluotas Lenkijos karaliumi ir Lietuvos didžiuoju kunigaikščiu.
+- susijęs iš [[objektai/grupes/Stepono Batoro vengrų kariuomenė.md#claim-t-86827|Stepono Batoro vengrų kariuomenė]]: Žygyje prieš Maskvos kunigaikštį ties Velikije Lūki Gabrielis Bekešas vadovavo Stepono Batoro vengrų kariuomenės riteriams.
+- susijęs iš [[objektai/grupes/Stepono Batoro vengrų kariuomenė.md#claim-t-86828|Stepono Batoro vengrų kariuomenė]]: Gabrielis Bekešas Skornatas buvo Stepono Batoro vengrų pulkų vadas ir ištikimai tarnavo valdovui bei Respublikai.
+- susijęs iš [[objektai/ivykiai/Gabrieliaus Bekešo vadovavimas vengrų kariuomenei žygyje prieš Maskvos kunigaikštį ties Velikije Lūki.md#claim-t-86945|Gabrieliaus Bekešo vadovavimas vengrų kariuomenei žygyje prieš Maskvos kunigaikštį ties Velikije Lūki]]: Žygyje ties Velikije Lūki Gabrielis Bekešas buvo paskirtas vadovauti vengrų kariuomenės riteriams.
+- susijęs iš [[objektai/ivykiai/Stepono Batoro privilegijos dėl Alantos dvaro dovanojimo Gabrieliui Bekešui suteikimas (1581 m. vasario 13 d.).md#claim-t-86889|Stepono Batoro privilegijos dėl Alantos dvaro dovanojimo Gabrieliui Bekešui suteikimas (1581 m. vasario 13 d.)]]: Steponas Batoras privilegijoje pabrėžė Gabrielio Bekešo nuopelnus tarnaujant valdovui, Karalystei ir Lietuvos Didžiajai Kunigaikštystei.
+- susijęs iš Vaitiekaus Slavenckio Alantos valdų sąrašai ir rejestrai: Valdovas davė Gabrieliui Bekešui Vaitiekaus Slavenckio sudarytų Alantos valdų rejestrų nuorašą.
+- susijęs iš Vaitiekaus Slavenckio Alantos valdų sąrašai ir rejestrai: Vaitiekus Slavenckis aprašė Alantos valdas, jų priklausinius ir derlius, o sąrašus su antspaudu ir parašu atidavė iždui.
+- susijęs iš Alanta: Gabrieliui Bekešui leista Alantos dvarą su priklausiniais turėti ir naudoti visiems būsimiems laikams.
+- susijęs iš Velikije Lūkiai: Gabrielius Bekešas žygyje ties Velikije Lūkiais vadovavo vengrų kariuomenės riteriams prieš Maskvos kunigaikštį.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -334,23 +354,3 @@ Gabrielius Bekešas Skornatas buvo vengrų pulkų vadas, kurio nuopelnai apibūd
   pagrindžia:
     - t-008
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/bajoras]]
-- [[temos/karvedys]]
-
-### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/daiktai/Antspaudas]]
-- [[objektai/grupes/Bajorai]]
-- [[objektai/grupes/Vengrai]]
-- [[objektai/zodynas/tėvonija]]
-- [[objektai/grupes/Protestantai]]
-- [[objektai/asmenys/Tame (Baigos brolis)]]
-- [[objektai/zodynas/nuorašas]]
-- [[objektai/zodynas/ponai]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/ivykiai/Stepono Batoro privilegijos dėl Alantos dvaro dovanojimo Gabrieliui Bekešui suteikimas (1581 m. vasario 13 d.)]]
-- [[objektai/grupes/Stepono Batoro vengrų kariuomenė]]
-- [[objektai/ivykiai/Gabrieliaus Bekešo vadovavimas vengrų kariuomenei žygyje prieš Maskvos kunigaikštį ties Velikije Lūki]]

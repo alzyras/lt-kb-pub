@@ -30,6 +30,11 @@ Nenurodyta
 - t-001
   global_id: t-185625
   teiginys: 'Narimantas apgulė Uteną, kur buvo pasislėpęs Daumantas, vengęs atviro mūšio lauko.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Įvardyti veikėjai ir pašalinta neenciklopedinė bei fragmentiška formuluotė.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)|Narimantas (Pinsko kunigaikštis)]]'
   pagrindžia:
     - c-001
 
@@ -58,7 +63,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]]

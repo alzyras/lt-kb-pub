@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Saugumo majoro Aleksejaus Sokolovo suformuotoms specialiosioms grupėms paprastai vadovaudavo operatyvininkas.
+Smogikai veikdavo saugumo majoro Aleksejaus Sokolovo suformuotose vadinamosiose specialiosiose grupėse, kurioms paprastai vadovaudavo koks nors operatyvininkas.
 
 ## Teiginiai
 
@@ -20,6 +20,7 @@ Saugumo majoro Aleksejaus Sokolovo suformuotoms specialiosioms grupėms paprasta
 - t-001
   global_id: t-42509
   teiginys: 'Saugumo majoro Aleksejaus Sokolovo suformuotoms specialiosioms grupėms paprastai vadovaudavo operatyvininkas.'
+  sudarymo_pagrindimas: 'Teiginį verta sutrumpinti ir aiškiau susieti su specialiosiomis grupėmis.'
   pagrindžia:
     - c-001
 
@@ -40,8 +41,3 @@ Saugumo majoro Aleksejaus Sokolovo suformuotoms specialiosioms grupėms paprasta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Aleksejus Sokolovas]]
-- [[objektai/zodynas/agentas-smogikas]]

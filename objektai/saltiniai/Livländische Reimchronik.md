@@ -5,6 +5,7 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1801 m.'
+  - '1861 m.'
   - '1876 m.'
   - '1900 m.'
   - '1963 m.'
@@ -30,6 +31,9 @@ LReim = Livländische Reimchronik, išl.
 - t-001
   global_id: t-31833
   teiginys: '„Livländische Reimchronik“ leidimą parengė Leo Meyeris, o jis buvo išleistas Paderborne 1876 m.'
+  susije_objektai: 'mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: iki 1861 m.; įvykio data: 1861 m.; įvykio data: 1876 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

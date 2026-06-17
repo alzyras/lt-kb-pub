@@ -21,9 +21,12 @@ Tautinio autoramento pagrindu buvo formuojama sunkioji kavalerija - husarai, vid
 - t-001
   global_id: t-42513
   teiginys: 'Tautinio autoramento pagrindu formuota sunkioji kavalerija buvo husarai.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie sunkiąją kavaleriją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/husarai|husarai]]; mentioned_object: [[objektai/zodynas/lengvoji kavalerija|lengvoji kavalerija]]; mentioned_object: [[objektai/zodynas/petihorai|petihorai]]; mentioned_place: Lenkija'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/zodynas/husarai.md#claim-t-49270|husarai]]: Husarai buvo ilgomis ietimis ginkluoti raitininkai, kurių ataka laikyta efektyvesniu kovos būdu už vakarietišką kavalerijos ataką pistoletais.
+- susijęs iš [[objektai/zodynas/husarai.md#claim-t-49273|husarai]]: Lietuvoje ir Lenkijoje husarai buvo ilgomis ietimis ginkluoti sunkieji raiteliai.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -42,11 +45,3 @@ Tautinio autoramento pagrindu buvo formuojama sunkioji kavalerija - husarai, vid
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/grupes/Bajorai]]
-- [[objektai/zodynas/lengvoji kavalerija]]
-- [[objektai/zodynas/petihorai]]
-- [[objektai/zodynas/husarai]]

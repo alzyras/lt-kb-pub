@@ -23,6 +23,8 @@ Bemaž tuo metu Vilniuje gerokai 25 V o i g t, V, 274, pasakodamas pagal Vygand�
 - t-001
   global_id: t-86219
   teiginys: 'Voigtas, remdamasis Vygandu, Rudminne kaimą tapatino su dabartiniu Parudaminiu į pietvakarius nuo Vilniaus.'
+  sudarymo_pagrindimas: 'Pirminiame teiginyje yra OCR ir puslapio išnašos triukšmo, todėl reikia švarios sakinio formos.'
+  susije_objektai: 'mentioned_place: Kaimas; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

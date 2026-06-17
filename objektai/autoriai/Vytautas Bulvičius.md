@@ -3,10 +3,6 @@ tipas: autorius
 pavadinimas: 'Vytautas Bulvičius'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-aliases:
-  - 'objektai/asmenys/Vytautas Bulvičius'
-variantai:
-  - 'Vytautas Bulvičius'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -27,6 +23,8 @@ Padariniai Tarpukario Lietuvos generalinio štabo majoras Vytautas Bulvičius sa
 - t-001
   global_id: t-63358
   teiginys: 'Vytautas Bulvičius knygoje „Karinis valstybės rengimas“ ragino tautą bijoti ne nepriklausomybės netekimo kariaujant, o laisvės praradimo be kovos.'
+  teiginio_tipas: 'faktas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

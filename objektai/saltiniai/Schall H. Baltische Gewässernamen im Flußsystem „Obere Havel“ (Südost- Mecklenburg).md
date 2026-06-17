@@ -26,6 +26,10 @@ Dusburgietis teigia, kad schall H.
 - t-001
   global_id: t-61284
   teiginys: 'H. Schallo straipsnis apie baltiškus vandenvardžius Obere Havel upių sistemoje paskelbtas „Baltistica“ 1966 m. numeryje 2(1).'
+  sudarymo_pagrindimas: 'Citata pagrindžia autorių, temą, leidinį, metus ir numerį.'
+  temporaliniai_duomenys: 'įvykio data: 1966 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia autorių, temą, leidinį, metus ir numerį.'
   pagrindžia:
     - c-001
 

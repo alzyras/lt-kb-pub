@@ -20,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-Butautas 1365 m. liepos 25 d. su draugu Survila pabėgo į Karaliaučių ir apsikrikštijo Henriko vardu.
+25 d. išbėgo Karaliaučiun ir apsikrikštijo Henriko vardu.
 
 ## Laikotarpis ir datos
 
@@ -44,6 +44,11 @@ Nenurodyta
 - t-001
   global_id: t-34537
   teiginys: 'Butautas 1365 m. liepos 25 d. su draugu Survila pabėgo į Karaliaučių ir apsikrikštijo Henriko vardu.'
+  sudarymo_pagrindimas: 'Reikia sklandesnės formuluotės ir aiškesnio Survilos vaidmens pagal citatą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Butautas|Butautas]]; mentioned_person: [[objektai/asmenys/Karolis IV|Karolis IV]]; mentioned_person: [[objektai/asmenys/Survila|Survila]]'
+  temporaliniai_duomenys: 'įvykio data: 1365 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia sklandesnės formuluotės ir aiškesnio Survilos vaidmens pagal citatą.'
   pagrindžia:
     - c-001
 
@@ -65,10 +70,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Karolis IV]]
-- [[objektai/asmenys/Survila]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/asmenys/Butautas]]

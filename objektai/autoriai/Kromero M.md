@@ -20,6 +20,8 @@ tags:
 - t-001
   global_id: t-100117
   teiginys: 'M. Kromero kronika šiame šaltinyje nurodyta 45 puslapyje.'
+  sudarymo_pagrindimas: 'Rodyklės fragmentas perrašytas į minimalų faktinį sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Krokuva; mentioned_place: Prūsai; mentioned_place: Suvalkai'
   pagrindžia:
     - c-001
 
@@ -49,7 +51,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]

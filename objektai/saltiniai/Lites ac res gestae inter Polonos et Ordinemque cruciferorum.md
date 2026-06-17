@@ -28,6 +28,11 @@ Dusburgietis teigia, kad lites ac res gestae inter Polonos et Ordinemque crucife
 - t-001
   global_id: t-61147
   teiginys: '„Lites ac res gestae inter Polonos et Ordinemque cruciferorum“ pirmasis tomas išleistas Poznanėje 1890 m.'
+  sudarymo_pagrindimas: 'Citata pagrindžia tomo numerį, leidimo vietą ir metus.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Polona; mentioned_place: Poznanė'
+  temporaliniai_duomenys: 'įvykio data: 1890 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia tomo numerį, leidimo vietą ir metus.'
   pagrindžia:
     - c-001
 

@@ -30,6 +30,14 @@ Nenurodyta
 - t-001
   global_id: t-185758
   teiginys: 'Teodorikas pasikvietė Otokarą į puotą Ravenoje, pasiuntė žudikus ir atėmė iš jo gyvybę bei sostą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo apie bendrą vertinimą; citata remia konkretesnį faktą apie nužudymą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Herulai|Herulai]]; mentioned_place: Italija'
+  temporaliniai_duomenys: 'įvykio data: 493 m'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys buvo apie bendrą vertinimą; citata remia konkretesnį faktą apie nužudymą.'
   pagrindžia:
     - c-001
 
@@ -60,7 +68,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Herulai]]

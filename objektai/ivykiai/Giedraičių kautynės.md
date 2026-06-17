@@ -46,9 +46,12 @@ Nenurodyta
 - t-001
   global_id: t-41271
   teiginys: 'Prie Giedraičių lietuvių nuostoliai siekė 15 žuvusių karių ir kelis karininkus, apie 60 sužeistųjų ir apie 70 dingusių be žinios.'
+  sudarymo_pagrindimas: 'Teiginys paremtas citata, bet pataisytina sakinio sandara ir aiškumas.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Giedraičių kautynės (1920 m.)|Giedraičių kautynės (1920 m.)]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/brigada|brigada]]; mentioned_place: Giedraičiai; mentioned_place: Labanoras; mentioned_place: Lietuva; mentioned_place: Ukmergė'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/autoriai/Dalius Žygelis.md#claim-t-40613|Dalius Žygelis]]: Dalius Žygelis buvo kelių tekstų apie 1945–1949 m. Lietuvos partizanų kautynes bendraautoris.
+- susijęs iš [[objektai/autoriai/Ričardas Čekutis.md#claim-t-40672|Ričardas Čekutis]]: Ričardas Čekutis kartu su Daliumi Žygeliu parašė tekstus apie 1945 m. Kiauneliškių, Kalniškės ir Merkinės kautynes.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -77,13 +80,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/Giedraičių kautynės (1920 m.)]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/brigada]]
-- [[objektai/autoriai/Dalius Žygelis]]
-- [[objektai/daiktai/Kardas]]
-- [[objektai/autoriai/Ričardas Čekutis]]

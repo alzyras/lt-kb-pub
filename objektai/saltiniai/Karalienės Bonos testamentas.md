@@ -24,6 +24,14 @@ Karalienė Bona prieš mirtį testamente paskyrė sūnų Augustą viso savo turt
 - t-001
   global_id: t-186332
   teiginys: 'Karalienė Bona prieš mirtį testamente paskyrė sūnų Augustą viso savo turto paveldėtoju, bet jos valia nebuvo įvykdyta.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata pagrindžia testamento turinį ir jo neįvykdymą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Bona|Bona]]; mentioned_person: [[objektai/asmenys/Papakoda|Papakoda]]; mentioned_place: Italija; mentioned_place: Lenkija; mentioned_place: Maskva; mentioned_place: Švedija'
+  temporaliniai_duomenys: 'įvykio data: 1557 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia testamento turinį ir jo neįvykdymą.'
   pagrindžia:
     - c-001
 

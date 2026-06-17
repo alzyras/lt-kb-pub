@@ -18,6 +18,11 @@ Maskvėnų pasiuntinius priėmė pataurininkis Mikalojus Kiška, stalininkas Mik
 - t-001
   global_id: t-185389
   teiginys: 'Maskvėnų pasiuntinius priėmė pataurininkis Mikalojus Kiška, stalininkas Mikalojus Dorogostaiskis ir rūmininkai, o derybose dalyvavo iždininkas Mikalojus Naruševičius.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Perrašyta, kad sakinys apimtų visus žodyno įrašo pareigybių pavadinimus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_group: [[objektai/grupes/Valavičiai|Valavičiai]]; mentioned_object: [[objektai/zodynas/Pataurininkis|Pataurininkis]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/kaštelionas|kaštelionas]]; mentioned_object: [[objektai/zodynas/stalininkas|stalininkas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Eustachijus (raštininkas)|Eustachijus (raštininkas)]]; mentioned_person: [[objektai/asmenys/Eustachijus Valavičius|Eustachijus Valavičius]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Mikalojus Naruševičius|Mikalojus Naruševičius]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_place: Maskva; mentioned_place: Trakai; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -53,21 +58,3 @@ Maskvėnų pasiuntinius priėmė pataurininkis Mikalojus Kiška, stalininkas Mik
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Eustachijus (raštininkas)]]
-- [[objektai/asmenys/Eustachijus Valavičius]]
-- [[objektai/asmenys/Jonas]]
-- [[objektai/grupes/Maskvėnai]]
-- [[objektai/asmenys/Mykolas]]
-- [[objektai/zodynas/Pataurininkis]]
-- [[objektai/grupes/Valavičiai]]
-- [[objektai/zodynas/didysis kunigaikštis]]
-- [[objektai/zodynas/kaštelionas]]
-- [[objektai/zodynas/stalininkas]]
-- [[objektai/zodynas/vaivada]]
-- [[objektai/asmenys/Mikalojus Naruševičius]]
-- [[objektai/paprociai/Diplomatinis pasiuntinių sutikimas, priėmimas ir vaišinimas atskiriant derybų pareigas]]
-- [[objektai/ivykiai/Gardino taikos derybos su maskvėnais ir jų žlugimas]]
-- [[objektai/asmenys/Mikalojus Radvila]]

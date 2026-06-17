@@ -29,6 +29,11 @@ Werminghoee, A.
 - t-001
   global_id: t-31987
   teiginys: 'A. Werminghoee „Urkunde Ludwigs d. Bayers für den Hochmeister des Deutschen Ordens“ išspausdintas Archiv für Urkundenforschung 5 tome 1914 m., p. 21-40.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus bibliografinis faktas, paremtas citata.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/autoriai/Zajączkowski, St|Zajączkowski, St]]'
+  temporaliniai_duomenys: 'įvykio data: 1914 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus bibliografinis faktas, paremtas citata.'
   pagrindžia:
     - c-001
 

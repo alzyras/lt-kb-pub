@@ -13,13 +13,15 @@ tags:
 
 ## Santrauka
 
-Povilas Lukšys žuvo nuo ugnies iš Taučiūnų dvaro ir buvo pirmasis Nepriklausomybės kovose žuvęs Lietuvos savanoris. Povilas Lukšys buvo paskirtas sustiprinto 17 žmonių žvalgybos patrulio vyresniojo padėjėju. Povilas Lukšys su V. Vainausku ir 8 kareiviais užėjo bolševikams į užnugarį ir privertė juos trauktis iš Eigulių kaimo.
+Mūsiškiai, pradėję kariauti su bolševikais, pirmą mūšį laimėjo prie Kėdainių, kur žuvo pirmas fronto kareivis Povilas Lukšys (1919 m. vasario 7—9 d.).
 
 ## Teiginiai
+
 <a id="claim-t-49483"></a>
 - t-001
   global_id: t-49483
   teiginys: 'Povilas Lukšys žuvo nuo ugnies iš Taučiūnų dvaro ir buvo pirmasis Nepriklausomybės kovose žuvęs Lietuvos savanoris.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Savanoris|Savanoris]]; mentioned_place: Lietuva; mentioned_place: Taučiūnai'
   pagrindžia:
     - c-002
 
@@ -27,6 +29,7 @@ Povilas Lukšys žuvo nuo ugnies iš Taučiūnų dvaro ir buvo pirmasis Neprikla
 - t-002
   global_id: t-49484
   teiginys: 'Povilas Lukšys buvo paskirtas sustiprinto 17 žmonių žvalgybos patrulio vyresniojo padėjėju.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Kėdainiai'
   pagrindžia:
     - c-003
 
@@ -34,6 +37,7 @@ Povilas Lukšys žuvo nuo ugnies iš Taučiūnų dvaro ir buvo pirmasis Neprikla
 - t-003
   global_id: t-49485
   teiginys: 'Povilas Lukšys su V. Vainausku ir 8 kareiviais užėjo bolševikams į užnugarį ir privertė juos trauktis iš Eigulių kaimo.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/Kariauna|Kariauna]]; mentioned_person: [[objektai/asmenys/J. Šarauskas|J. Šarauskas]]; mentioned_place: Eiguliai; mentioned_place: Kaimas; mentioned_place: Kėdainiai; mentioned_place: Paobeliai'
   pagrindžia:
     - c-001
 
@@ -41,10 +45,13 @@ Povilas Lukšys žuvo nuo ugnies iš Taučiūnų dvaro ir buvo pirmasis Neprikla
 - t-004
   global_id: t-49486
   teiginys: 'Povilas Lukšys su V. Vainausku ir 8 kareiviais užėjo bolševikams į užnugarį ir privertė juos trauktis iš Eigulių į Juodikio mišką.'
+  sudarymo_pagrindimas: 'Vardas išplėstas pagal antraštę, o faktas tiksliai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/Kariauna|Kariauna]]; mentioned_person: [[objektai/asmenys/J. Šarauskas|J. Šarauskas]]; mentioned_place: Eiguliai; mentioned_place: Kaimas; mentioned_place: Kėdainiai; mentioned_place: Paobeliai'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/ivykiai/Vilniaus užėmimas lenkų (1919 m. balandžio 19 d.).md#claim-t-01849|Vilniaus užėmimas lenkų (1919 m. balandžio 19 d.)]]: 1919 m. balandžio 19 d. iš pietų prasiveržę lenkai paėmė Vilnių, nors lietuvių pajėgos buvo nustūmusios rusus iki miesto.
 ## Reikšmingi paminėjimai
+
 - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -69,6 +76,7 @@ Povilas Lukšys žuvo nuo ugnies iš Taučiūnų dvaro ir buvo pirmasis Neprikla
   pagrindžia:
     - t-004
     - t-003
+
 - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -82,6 +90,7 @@ Povilas Lukšys žuvo nuo ugnies iš Taučiūnų dvaro ir buvo pirmasis Neprikla
   statusas: verified
   pagrindžia:
     - t-001
+
 - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -101,12 +110,3 @@ Povilas Lukšys žuvo nuo ugnies iš Taučiūnų dvaro ir buvo pirmasis Neprikla
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Rusai]]
-- [[objektai/grupes/Rytas]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/ivykiai/Vilniaus užėmimas lenkų (1919 m. balandžio 19 d.)]]
-- [[objektai/zodynas/Savanoris]]
-- [[objektai/ivykiai/Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)]]

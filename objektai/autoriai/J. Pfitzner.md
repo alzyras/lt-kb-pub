@@ -29,6 +29,11 @@ Pfitzneris 1930 m. Pragoję išleistame įdomiame veikale «Grossfürst Witold a
 - t-001
   global_id: t-30694
   teiginys: 'J. Pfitzneris 1930 m. Prahoje išleistame veikale „Grossfürst Witold als Staatsmann“ reikalavo į Vytautą žiūrėti lietuvių požiūriu.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir citata leidžia aiškiai suprasti, kad kalbama apie Vytautą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kaunas; mentioned_place: Praha'
+  temporaliniai_duomenys: 'įvykio data: 1930 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir citata leidžia aiškiai suprasti, kad kalbama apie Vytautą.'
   pagrindžia:
     - c-001
 
@@ -46,7 +51,3 @@ Pfitzneris 1930 m. Pragoję išleistame įdomiame veikale «Grossfürst Witold a
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]

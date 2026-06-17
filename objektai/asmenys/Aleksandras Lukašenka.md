@@ -3,10 +3,19 @@ tipas: asmuo
 pavadinimas: 'Aleksandras Lukašenka'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1934 m.'
+  - '1990 m.'
+date_start: '1934'
+date_end: '1990'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'modernioji Lietuva'
 ---
 # Aleksandras Lukašenka
 
@@ -20,6 +29,11 @@ Gerai klostėsi ekonominiai santykiai, o politinius komplikavo Baltarusijos prez
 - t-001
   global_id: t-17438
   teiginys: 'Aleksandro Lukašenkos diktatūrinis valdymas komplikavo politinius santykius su Baltarusija.'
+  sudarymo_pagrindimas: 'Reikia sutvarkyti sakinį ir aiškiai susieti faktą su asmeniu.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Baltarusija; mentioned_place: Estija; mentioned_place: Latvija'
+  temporaliniai_duomenys: 'įvykio data: 1934 m.; įvykio data: 1990 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia sutvarkyti sakinį ir aiškiai susieti faktą su asmeniu.'
   pagrindžia:
     - c-001
 
@@ -37,7 +51,3 @@ Gerai klostėsi ekonominiai santykiai, o politinius komplikavo Baltarusijos prez
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

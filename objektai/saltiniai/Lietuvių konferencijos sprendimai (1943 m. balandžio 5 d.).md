@@ -28,6 +28,11 @@ Patirdama pralaimėjimų Rytų fronte okupacinė valdžia švelnino savo pozicij
 - t-001
   global_id: t-21118
   teiginys: 'Lietuvių konferencijos sprendimai rodė dalyvių ir dalies Lietuvos visuomenės orientaciją į Vokietiją bei reikalavo kolaboruoti jos tarnybose.'
+  sudarymo_pagrindimas: 'Pradinio teiginio citata nepagrindžia, bet palaiko kitą faktą apie sprendimų turinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Vokietija'
+  temporaliniai_duomenys: 'įvykio data: 1943 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinio teiginio citata nepagrindžia, bet palaiko kitą faktą apie sprendimų turinį.'
   pagrindžia:
     - c-001
 

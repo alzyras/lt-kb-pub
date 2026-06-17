@@ -11,13 +11,13 @@ date_start: '1401'
 date_end: '1404'
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XV'
 tags:
   - ivykis
   - ordinas
   - pilis
   - sutartis
+amziai:
+  - 'XV'
 ---
 # Racionžo taika (1404 m.)
 
@@ -42,10 +42,16 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 <a id="claim-t-92939"></a>
 - t-001
   global_id: t-92939
   teiginys: '1404 m. Racionžo taika atgaivino prekybą su Ordinu, kuri buvo suirusi po 1401 m. Žemaičių sukilimo prieš Ordiną.'
+  sudarymo_pagrindimas: 'Citata palaiko faktą, bet pradiniame teiginyje yra OCR triukšmo ir perteklinio konteksto.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Naugardas; mentioned_place: Racionžas'
+  temporaliniai_duomenys: 'įvykio data: po 1401 m.; įvykio data: 1401 m.; įvykio data: 1404 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko faktą, bet pradiniame teiginyje yra OCR triukšmo ir perteklinio konteksto.'
   pagrindžia:
     - c-001
 
@@ -53,12 +59,12 @@ Nenurodyta
 - t-002
   global_id: t-92940
   teiginys: '1404 m. Racionžo taika vėl atidavė Žemaičius Ordinui, bet leido Vytautui pasiimti iš Žemaičių 250 gyventojų.'
+  sudarymo_pagrindimas: 'Šaltinis aiškiai palaiko sutarties vietą, datą ir nuostatą.'
   pagrindžia:
     - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: '1404 m. Racionžo taika atgaivino prekybą su Ordinu, kuri buvo suirusi po 1401 m. Žemaičių sukilimo prieš Ordiną.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -80,6 +86,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: '1404 m. Racionžo taika vėl atidavė Žemaičius Ordinui, bet leido Vytautui pasiimti iš Žemaičių 250 gyventojų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -90,17 +97,8 @@ Nenurodyta
     buvo atiduoti ordinui, bet sutartyje buvo įrašytas vienas Vytau-
     tui labai naudingas nuostatas, — kad jis galėsiąs pasiimti iš Že-
     maičių 250 gyventojų. Tatai jam vėliau labai pravertė.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/grupes/Žemaičiai]]

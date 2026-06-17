@@ -28,9 +28,12 @@ BAU = S 8 S m e-+ > os 2% ## Puslapis 40 SUS os : i Paha “| KARALYS' Mūšio p
 - t-001
   global_id: t-41919
   teiginys: '1355 m. pradžioje Kryžiuočių kariuomenė penkias dienas niokojo centrinę Žemaitijos Medininkų žemę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Ariogala; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Medininkai; mentioned_place: Vaikiai; mentioned_place: Vengrija'
+  temporaliniai_duomenys: 'įvykio data: 1355 m.; įvykio data: po 1356 m.; įvykio data: 1356 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data.'
   pagrindžia:
     - c-001
-
+- susijęs iš Łowmiański H., Studja: Łowmiańskio veikalas nurodomas prie nuomonės, kad Medininkų žemė susiformavo XIV a. sujungus centrinius Žemaitijos valsčius.
 ## Reikšmingi paminėjimai
 
 - c-001

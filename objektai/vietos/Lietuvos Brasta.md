@@ -5,6 +5,9 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1432 m.'
+  - '1435 m.'
+  - '1656 m.'
+  - '1657 m.'
   - '1696 m.'
 date_start: '1432'
 date_end: '1696'
@@ -15,6 +18,7 @@ tags:
   - kunigaikštis
   - miestas
   - ordinas
+  - vieta
 amziai:
   - 'XV'
   - 'XVII'
@@ -31,6 +35,9 @@ amziai:
 - t-001
   global_id: t-79640
   teiginys: '1435 m. gruodžio 31 d. sudaryta Bresto taika tarp Lenkijos, Lietuvos Didžiosios Kunigaikštystės ir Vokiečių ordino atstovų.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Livonija'
+  temporaliniai_duomenys: 'įvykio data: 1435 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-004
 
@@ -38,6 +45,7 @@ amziai:
 - t-002
   global_id: t-79641
   teiginys: 'Remiantis S. Zabielos raportais, Lietuvos kariuomenė per Lietuvos Brastos mūšį neteko apie 300 karių.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Brasta; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 
@@ -45,6 +53,9 @@ amziai:
 - t-003
   global_id: t-79642
   teiginys: '1657 m. švedų apsiausta Lietuvos Brasta galiausiai pasidavė priešui ir buvo gerokai suniokota.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_group: [[objektai/grupes/Švedijos kariuomenė|Švedijos kariuomenė]]; mentioned_object: [[objektai/zodynas/apsiaustis|apsiaustis]]; mentioned_place: Brasta; mentioned_place: Lietuva; mentioned_place: Švedija'
+  temporaliniai_duomenys: 'įvykio data: 1656 m.; įvykio data: 1657 m.; įvykio data: 1696 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -52,6 +63,8 @@ amziai:
 - t-004
   global_id: t-79643
   teiginys: 'Remiantis S. Zabielos raportais, prie Lietuvos Brastos Lietuvos kariuomenė neteko apie 300 karių.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūksta ties inicialu, bet citata pagrindžia nuostolius.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Brasta; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 
@@ -59,6 +72,11 @@ amziai:
 - t-005
   global_id: t-79645
   teiginys: '1432 m. pradžioje Švitrigaila su kryžiuočių atstovais buvo Brastoje, kai strigo lenkų ir lietuvių derybos.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai susieja Brastą su 1432 m. derybų aplinkybėmis.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]'
+  temporaliniai_duomenys: 'įvykio data: 1432 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai susieja Brastą su 1432 m. derybų aplinkybėmis.'
   pagrindžia:
     - c-005
 
@@ -66,9 +84,11 @@ amziai:
 - t-006
   global_id: t-79646
   teiginys: 'Vienas paskutinių svarbių gynybos taškų liko Lietuvos Brastos miestas, prie kurio nutarta pabandyti sustabdyti Rusijos kariuomenės veržimąsi į vakarus.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_place: Brasta; mentioned_place: Lietuva; mentioned_place: Rusija'
   pagrindžia:
     - c-002
-
+- susijęs iš Gardinas: Kęstutis paveldėjo Trakus ir Gardiną su Palenke, arba Lietuvos Brasta.
 ## Reikšmingi paminėjimai
 
 - c-001

@@ -29,6 +29,11 @@ Dusburgietis teigia, kad baryczowa M.
 - t-001
   global_id: t-60674
   teiginys: 'M. Baryczowa 1936 m. paskelbė darbą „Augustyn Rotundus“.'
+  sudarymo_pagrindimas: 'Citata leidžia suformuluoti trumpą bibliografinį faktą apie autorę.'
+  susije_objektai: 'mentioned_place: Prūsai'
+  temporaliniai_duomenys: 'įvykio data: 1936 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata leidžia suformuluoti trumpą bibliografinį faktą apie autorę.'
   pagrindžia:
     - c-001
 

@@ -44,6 +44,11 @@ Nenurodyta
 - t-001
   global_id: t-20167
   teiginys: '1934 m. rugsėjo 12 d. Ženevoje sudaryta Baltijos antantė buvo Baltijos valstybių politinė ir diplomatinė sąjunga.'
+  sudarymo_pagrindimas: 'Teiginys gramatiškas, aiškus ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Antantė|Antantė]]; mentioned_group: [[objektai/grupes/Baltijos antantė|Baltijos antantė]]; mentioned_place: Baltija; mentioned_place: Lietuva; mentioned_place: SSRS; mentioned_place: Ženeva'
+  temporaliniai_duomenys: 'įvykio data: 1934 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys gramatiškas, aiškus ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -66,8 +71,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Antantė]]
-- [[objektai/grupes/Baltijos antantė]]

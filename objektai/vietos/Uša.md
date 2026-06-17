@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Uša išteka apie 20 km į šiaurę nuo Klecko ir teka pro Nesvyžių. Uša yra pietinis kairysis Nemuno aukštupio intakas. Uša išteka apie 20 km į šiaurę nuo Klecko ir teka pro Nesvyžių.
+Uša yra pietinis kairysis Nemuno aukštupio intakas. Uša išteka apie 20 km į šiaurę nuo Klecko ir teka pro Nesvyžių.
 
 ## Teiginiai
 
@@ -20,6 +20,9 @@ Uša išteka apie 20 km į šiaurę nuo Klecko ir teka pro Nesvyžių. Uša yra 
 - t-001
   global_id: t-187370
   teiginys: 'Uša išteka apie 20 km į šiaurę nuo Klecko ir teka pro Nesvyžių.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys glaustai perteikia citatoje pateiktą informaciją apie Ušos ištakas ir tekėjimą. Papildomas krypties aprašymas neįtrauktas, nes esamas sakinys pakankamas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Kaimas; mentioned_place: Nemunas; mentioned_place: Nesvyžius; mentioned_place: Polonka'
   pagrindžia:
     - c-001
 
@@ -27,6 +30,9 @@ Uša išteka apie 20 km į šiaurę nuo Klecko ir teka pro Nesvyžių. Uša yra 
 - t-002
   global_id: t-187371
   teiginys: 'Uša yra pietinis kairysis Nemuno aukštupio intakas.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Ušos geografinę padėtį Nemuno baseine. Formuluotė atitinka citatą ir nereikalauja atribucijos.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Kaimas; mentioned_place: Nemunas; mentioned_place: Nesvyžius; mentioned_place: Polonka'
   pagrindžia:
     - c-001
 
@@ -34,6 +40,9 @@ Uša išteka apie 20 km į šiaurę nuo Klecko ir teka pro Nesvyžių. Uša yra 
 - t-004
   global_id: t-187373
   teiginys: 'Uša yra Nemuno intakas, prie kurio yra Nesvyžius.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra faktinis ir paremtas citatoje pateikta Nesvyžiaus lokalizacija.'
+  susije_objektai: 'mentioned_place: Nemunas; mentioned_place: Nesvyžius; mentioned_place: Sluckas'
   pagrindžia:
     - c-002
 

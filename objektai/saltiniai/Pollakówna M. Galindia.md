@@ -26,6 +26,11 @@ Dusburgietis teigia, kad pollakówna M.
 - t-001
   global_id: t-61230
   teiginys: 'M. Pollakównos straipsnis „Galindia“ paskelbtas SSS 2 tomo 1 dalyje, 1964 m. Vroclave, Varšuvoje ir Krokuvoje, p. 78–79.'
+  sudarymo_pagrindimas: 'Citata palaiko bibliografinį faktą, o pradinis teiginys yra nebaigtas.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Varšuva'
+  temporaliniai_duomenys: 'įvykio data: 1964 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko bibliografinį faktą, o pradinis teiginys yra nebaigtas.'
   pagrindžia:
     - c-001
 

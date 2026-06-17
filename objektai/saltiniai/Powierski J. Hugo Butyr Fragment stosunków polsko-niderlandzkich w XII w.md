@@ -26,6 +26,11 @@ Dusburgietis teigia, kad powierski J.
 - t-001
   global_id: t-61240
   teiginys: 'J. Powierskio straipsnis „Hugo Butyr: Fragment stosunków polsko-niderlandzkich w XII w.“ paskelbtas 1972 m. ZHPB 37 tomo 2 sąsiuvinyje.'
+  sudarymo_pagrindimas: 'Citata palaiko autorių, pavadinimą ir publikavimo duomenis.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
+  temporaliniai_duomenys: 'įvykio data: 1972 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko autorių, pavadinimą ir publikavimo duomenis.'
   pagrindžia:
     - c-001
 

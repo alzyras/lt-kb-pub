@@ -14,7 +14,7 @@ tags:
 
 ## Santrauka
 
-Šiaurės Vakarų krašto generalgubernatorius V. Nazimovas balandžio pabaigoje įsakė I. Ganeckiui žygiuoti į Ukmergės apskritį ir sunaikinti sukilėlius.
+Nazimovas balandžio pabaigoje įsakė gen.
 
 ## Teiginiai
 
@@ -22,9 +22,11 @@ tags:
 - t-001
   global_id: t-40489
   teiginys: 'Šiaurės Vakarų krašto generalgubernatorius V. Nazimovas balandžio pabaigoje įsakė I. Ganeckiui žygiuoti į Ukmergės apskritį ir sunaikinti sukilėlius.'
+  sudarymo_pagrindimas: 'Citata leidžia patikslinti V. Nazimovo pareigas ir veiksmą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/generalgubernatorius|generalgubernatorius]]; mentioned_place: Ukmergė'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Ivanas Ganeckis.md#claim-t-40146|Ivanas Ganeckis]]: V. Nazimovas balandžio pabaigoje įsakė Ivanui Ganeckiui žygiuoti Anykščių kryptimi ir sunaikinti Ukmergės apskrityje susibūrusius sukilėlius.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -45,7 +47,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/generalgubernatorius]]

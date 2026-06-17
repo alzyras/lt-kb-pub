@@ -40,6 +40,8 @@ Nenurodyta
 - t-001
   global_id: t-40745
   teiginys: 'Partizaninio pasipriešinimo pradžios Lietuvos laisvės kovotojų raištis buvo naudotas Pietų Lietuvoje.'
+  sudarymo_pagrindimas: 'Teiginys paverčia kataloginį įrašą pilnu factualiu sakiniu.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Dainava; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -57,7 +59,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Adynos|adynos]]

@@ -29,6 +29,11 @@ Zeschau vadovaujamas 18-tarių skaičius su šių komendantūrų kasis saksų p�
 - t-001
   global_id: t-80745
   teiginys: 'Kovose su bolševikais pasižymėjo majoro V. Zeschau vadovaujamas 18-asis saksų pėstininkų pulkas.'
+  sudarymo_pagrindimas: 'Pradinis teiginys sujungė nesusijusius OCR fragmentus; citata aiškiai remia trumpesnį faktą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1919 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys sujungė nesusijusius OCR fragmentus; citata aiškiai remia trumpesnį faktą.'
   pagrindžia:
     - c-001
 
@@ -56,9 +61,3 @@ Zeschau vadovaujamas 18-tarių skaičius su šių komendantūrų kasis saksų p�
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Artilerija]]
-- [[objektai/zodynas/Adynos|adynos]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

@@ -21,9 +21,12 @@ tags:
 - t-001
   global_id: t-38933
   teiginys: '3-iajai divizijai buvo numatyta gynybinė pozicija nuo Vištyčio ežero per Rūdelę, Smalėnus ir Klevus iki Dimitravo ežero.'
+  sudarymo_pagrindimas: 'Originalas fragmentiškas ir su OCR klaidomis, bet citata pagrindžia gynybinio ruožo aprašymą.'
+  susije_objektai: 'mentioned_place: Augustavas; mentioned_place: Smalėnai'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/I. Musteikis.md#claim-t-40140|I. Musteikis]]: Mjr. I. Musteikio vadovaujama 3-ioji divizija saugojo Lietuvos rytinę ribą su bolševikais ir Latvija.
+- susijęs iš Rykantai: Prie Semeliškių–Rykantų įsitvirtinusi I. Musteikio vadovaujama 3-ioji divizija spalio 14–15 d. sustabdė lenkų veržimąsi.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -39,10 +42,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/I. Musteikis]]
-- [[objektai/grupes/2-oji divizija]]
-- [[objektai/grupes/ioji divizija]]
-- [[objektai/grupes/oji divizija]]

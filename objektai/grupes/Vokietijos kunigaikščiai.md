@@ -3,12 +3,18 @@ tipas: grupe
 pavadinimas: 'Vokietijos kunigaikščiai'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+datos:
+  - '1410 m.'
+date_start: '1410'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
   - kunigaikštis
   - ordinas
+amziai:
+  - 'XV'
 ---
 # Vokietijos kunigaikščiai
 
@@ -22,6 +28,9 @@ Vokietijos kunigaikščiai galėjo paremti ordiną.
 - t-001
   global_id: t-31373
   teiginys: 'Vokietijos kunigaikščiai galėjo paremti ordiną.'
+  susije_objektai: 'mentioned_event: Torno taika (1411 m.); mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Lenkija; mentioned_place: Torno; mentioned_place: Transilvanija; mentioned_place: Vokietija'
+  temporaliniai_duomenys: 'įvykio data: 1410 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -41,10 +50,3 @@ Vokietijos kunigaikščiai galėjo paremti ordiną.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/Torno taika (1411 m.)]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/vaivada]]
-- [[objektai/grupes/Kryžiuočių ordinas]]

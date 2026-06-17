@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Viduriniais amžiais riterių vėliavos netekimas kovoje laikytas didele nelaime. Po Aizkrauklės kautynių riterių vėliava atiteko pagonims.
+Aizkrauklės mūšyje pagonims atiteko riterių vėliava. Vėliavos netekimas laikytas didele nelaime.
 
 ## Pavadinimai šaltiniuose
 
@@ -41,6 +41,8 @@ Nenurodyta
 - t-001
   global_id: t-179491
   teiginys: 'Viduriniais amžiais riterių vėliavos netekimas kovoje laikytas didele nelaime.'
+  sudarymo_pagrindimas: 'Reikia įvardyti, kokios vėliavos netekimas ir kokiame kontekste minimas.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vėliavos|Vėliavos]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]; mentioned_place: Aizkrauklė; mentioned_place: Livonija'
   pagrindžia:
     - c-002
 
@@ -48,6 +50,8 @@ Nenurodyta
 - t-002
   global_id: t-179493
   teiginys: 'Po Aizkrauklės kautynių riterių vėliava atiteko pagonims.'
+  sudarymo_pagrindimas: 'Perrašyta trumpiau ir aiškiau, išlaikant citatos faktą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]; mentioned_place: Aizkrauklė; mentioned_place: Livonija'
   pagrindžia:
     - c-001
 
@@ -86,12 +90,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/simbolis]]
-
-### Susiję objektai
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/vėliava]]
-- [[objektai/daiktai/Vėliavos]]

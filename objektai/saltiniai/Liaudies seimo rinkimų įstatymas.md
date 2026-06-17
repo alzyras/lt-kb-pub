@@ -14,7 +14,7 @@ tags:
 
 ## Santrauka
 
-Liaudies seimo rinkimų įstatymas numatė, kad išrinktais atstovais laikomi balsų daugumą gavę kandidatai.
+Pagal rinkimų įstatymą išrinktais atstovais laikomi tie kandidatai, kurie gavo balsų daugumą.
 
 ## Teiginiai
 
@@ -22,6 +22,11 @@ Liaudies seimo rinkimų įstatymas numatė, kad išrinktais atstovais laikomi ba
 - t-001
   global_id: t-183363
   teiginys: 'Liaudies seimo rinkimų įstatymas numatė, kad išrinktais atstovais laikomi balsų daugumą gavę kandidatai.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Perrašyta glaustai, pašalinant perteklinę formuluotę ir išlaikant citatos patvirtintą nuostatą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]'
   pagrindžia:
     - c-001
 

@@ -1,22 +1,8 @@
 ---
 tipas: daiktas
-pavadinimas: "Platesniojo sąvado nuorašai"
-variantai: ["nuorašai", "Račinskio ir Jevrejinovo nuorašai"]
-aliases: []
+pavadinimas: 'Platesniojo sąvado nuorašai'
 saltiniai:
-  - "objektai/saltiniai/Lietuvos metraštis, Bychovco kronika (1971 m.).md"
-bukle: juodrastis
-laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: ""
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -34,30 +20,37 @@ Komentare nurodoma, kad lietuvos Didžiosios Kunigaikštystės metraštinė lite
 - Račinskio ir Jevrejinovo nuorašai
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Naudojimas
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 <a id="claim-t-186812"></a>
 - t-001
   global_id: t-186812
-  teiginys: 'Komentare nurodoma, kad lietuvos Didžiosios Kunigaikštystės metraštinė literatūra plito rankraštiniais nuorašais; Plačiau žinoma bent 222 tokių nuorašų.'
+  teiginys: 'Komentare nurodoma, kad Platesnysis sąvadas ir kiti Lietuvos metraštinės literatūros paminklai plito rankraštiniais nuorašais.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pradinis teiginys turi rašybos klaidą ir nepagrįstai suabsoliutina skaičių kaip vien Platesniojo sąvado nuorašus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/sąvadas|sąvadas]]; mentioned_place: Lietuva; mentioned_place: Rusija'
   pagrindžia:
     - c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Komentare nurodoma, kad lietuvos Didžiosios Kunigaikštystės metraštinė literatūra plito rankraštiniais nuorašais; Plačiau žinoma bent 222 tokių nuorašų.'
+  santrauka: 'Komentare nurodoma, kad Platesnysis sąvadas ir kiti Lietuvos metraštinės literatūros paminklai plito rankraštiniais nuorašais.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     ВУСНОѴСО KRONIKA IR JOS KILMĖ
@@ -73,16 +66,8 @@ Nenurodyta
     tų nuorašų ir susijusių su jais atskirų fragmentų yra
     paskelbti Rusijos Archeografinės Komisijos leidinyje,
     pavadintame „Pilnuoju rusų metraščių rinkiniu" 3 .
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Rusai]]
-- [[objektai/zodynas/sąvadas]]
-- [[objektai/zodynas/nuorašas]]

@@ -3,11 +3,18 @@ tipas: zodyno_irasas
 pavadinimas: 'kastuvo mokslas'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+datos:
+  - '880 m.'
+  - '890 m.'
+date_start: '880'
+date_end: '890'
 sukurta: ''
 atnaujinta: ''
 tags:
   - mokslininkas
   - sąvoka
+amziai:
+  - 'IX'
 ---
 # kastuvo mokslas
 
@@ -21,6 +28,9 @@ Kadangi anie tolimi nuo rytų Europos autoriai beveik visai nieko nepasako apie 
 - t-001
   global_id: t-32782
   teiginys: 'Baltų gyvenimą menkai aprašius rašytiniams šaltiniams, jų praeičiai tirti reikėjo kastuvo mokslo.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_person: [[objektai/autoriai/Wulfstanas|Wulfstanas]]; mentioned_place: Europa'
+  temporaliniai_duomenys: 'įvykio data: 400 m; įvykio data: 890 m; įvykio data: 880-890'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -42,9 +52,3 @@ Kadangi anie tolimi nuo rytų Europos autoriai beveik visai nieko nepasako apie 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Aisčiai]]
-- [[objektai/grupes/Baltai]]
-- [[objektai/autoriai/Wulfstanas]]

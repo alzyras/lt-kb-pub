@@ -18,7 +18,7 @@ amziai:
 
 ## Santrauka
 
-Bazelio bažnytinis susirinkimas 1431 m. pabaigoje siekė sutaikyti Lietuvos valdovą ir Jogailą.
+Tuo tarpu Bazelio bažnytinis susirinkimas dar 1431 m. pabaigoje siekė sutaikyti abi puses.
 
 ## Teiginiai
 
@@ -26,9 +26,14 @@ Bazelio bažnytinis susirinkimas 1431 m. pabaigoje siekė sutaikyti Lietuvos val
 - t-001
   global_id: t-40864
   teiginys: 'Bazelio bažnytinis susirinkimas 1431 m. pabaigoje siekė sutaikyti Lietuvos valdovą ir Jogailą.'
+  sudarymo_pagrindimas: 'Perrašyta, kad būtų aiškiai įvardytos taikytos pusės.'
+  susije_objektai: 'mentioned_place: Baiga; mentioned_place: Lietuva; mentioned_place: Mozūrija'
+  temporaliniai_duomenys: 'įvykio data: 1431 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Perrašyta, kad būtų aiškiai įvardytos taikytos pusės.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Aleksandra (Mozūrijos kunigaikštienė).md#claim-t-39998|Aleksandra (Mozūrijos kunigaikštienė)]]: Mozūrijos kunigaikštienė Aleksandra, Jogailos ir Švitrigailos sesuo, tarpininkavo Jogailai.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -46,7 +51,3 @@ Bazelio bažnytinis susirinkimas 1431 m. pabaigoje siekė sutaikyti Lietuvos val
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Aleksandra (Mozūrijos kunigaikštienė)]]

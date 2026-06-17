@@ -28,6 +28,8 @@ Semkowicz, Wb.: Hanul, namiestnik wileński i jego ród , AW, t.
 - t-001
   global_id: t-30980
   teiginys: 'Wb. Semkowiczius parašė darbą „Hanul, namiestnik wileński i jego ród“, paskelbtą 1930 m. leidinyje AW.'
+  temporaliniai_duomenys: 'įvykio data: 1930 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

@@ -18,7 +18,7 @@ amziai:
 
 ## Santrauka
 
-Iš daugiau kaip 3 000 aktyvių protestų dalyvių buvo suimta per 400 žmonių (iš jų 50 asmenų patraukti baudžiamojon atsakomybėn, aštuoni nuteisti kalėti nuo vienerių iki trejų metų). 1972 m. gegužės 18 d. Kauno Laisvės alėjoje vykusioje protesto eisenoje KGB numeriais pažymėjo eisenos lyderius. Romo Kalantos susideginimas sukėlė LKP ir sovietų saugumo pareigūnams paniką.
+Kalantos susideginimas sukėlė LKP ir sovietų saugumo pareigūnams paniką. Iš daugiau kaip 3 000 aktyvių protestų dalyvių buvo suimta per 400 žmonių (iš jų 50 asmenų patraukti baudžiamojon atsakomybėn, aštuoni nuteisti kalėti nuo vienerių iki trejų metų). Protesto eisena Kauno Laisvės alėjoje Kaune 1972 m. gegužės 18 d. KGB numeriais pažymėjo eisenos lyderius.
 
 ## Laikotarpis ir datos
 
@@ -42,6 +42,8 @@ Nenurodyta
 - t-001
   global_id: t-75108
   teiginys: 'Iš daugiau kaip 3 000 aktyvių protestų dalyvių buvo suimta per 400 žmonių (iš jų 50 asmenų patraukti baudžiamojon atsakomybėn, aštuoni nuteisti kalėti nuo vienerių iki trejų metų).'
+  sudarymo_pagrindimas: 'Teiginys yra faktinis, gramatiškas ir paremtas citata apie protestų dalyvių suėmimus.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]'
   pagrindžia:
     - c-002
 
@@ -49,6 +51,11 @@ Nenurodyta
 - t-002
   global_id: t-75109
   teiginys: '1972 m. gegužės 18 d. Kauno Laisvės alėjoje vykusioje protesto eisenoje KGB numeriais pažymėjo eisenos lyderius.'
+  sudarymo_pagrindimas: 'Pradinį teiginį verta suredaguoti į sklandesnį sakinį be antraštinio fragmentiškumo.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/posakiai/„Lietuvą padaryti internacionalinę“|„Lietuvą padaryti internacionalinę“]]; mentioned_person: [[objektai/asmenys/Rimgaudas Songaila|Rimgaudas Songaila]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Ukraina'
+  temporaliniai_duomenys: 'įvykio data: 1972 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinį teiginį verta suredaguoti į sklandesnį sakinį be antraštinio fragmentiškumo.'
   pagrindžia:
     - c-003
 
@@ -56,6 +63,7 @@ Nenurodyta
 - t-003
   global_id: t-75110
   teiginys: 'Romo Kalantos susideginimas sukėlė LKP ir sovietų saugumo pareigūnams paniką.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir tiksliai perteikia citatos faktą.'
   pagrindžia:
     - c-001
 
@@ -63,6 +71,11 @@ Nenurodyta
 - t-005
   global_id: t-183227
   teiginys: 'Po Kauno protestų iš daugiau kaip 3 000 aktyvių dalyvių buvo suimta per 400 žmonių, o aštuoni nuteisti kalėti nuo vienerių iki trejų metų.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginį reikia susieti su Kauno protestais ir sutrumpinti išlaikant svarbiausią faktą.'
+  susije_objektai: 'mentioned_place: Kaunas'
   pagrindžia:
     - c-004
 
@@ -144,13 +157,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-005
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/laidotuvės]]
-
-### Susiję objektai
-- [[objektai/asmenys/Rimgaudas Songaila]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/posakiai/„Lietuvą padaryti internacionalinę“]]
-- [[objektai/asmenys/Romas Kalanta]]

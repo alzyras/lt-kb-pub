@@ -26,6 +26,11 @@ Dusburgietis teigia, kad potkowski E.
 - t-001
   global_id: t-61236
   teiginys: 'E. Potkowskio tekstas „Papiestwo a państwa europejskie (XIII—XV w.)“ paskelbtas 1977 m. Varšuvoje leidinyje „Katolicyzm średniowieczny“.'
+  sudarymo_pagrindimas: 'Citata pateikia bibliografinį šaltinio įrašą su leidimo vieta ir metais.'
+  susije_objektai: 'mentioned_place: Varšuva'
+  temporaliniai_duomenys: 'įvykio data: 1977 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pateikia bibliografinį šaltinio įrašą su leidimo vieta ir metais.'
   pagrindžia:
     - c-001
 

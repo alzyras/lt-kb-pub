@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Bajorų respublikoje valdovą rinkę atstovai sudarė įspūdį, kad valstybės santvarka buvo respublika, o ne monarchija. Liberum veto teisė reikalavo Seimo sprendimus priimti vienu balsu ir trukdė stiprinti bei centralizuoti valstybę. Lenkijoje ir Lietuvoje visuomenės agrarinis pobūdis ir miestų silpnumas lėmė Bajorų respublikos susiformavimą.
+Visuomenės agrarinis pobūdis ir miestų silpnumas lėmė, kad Lenkijoje ir Lietuvoje susiformavo originali luominės monarchinės santvarkos atmaina – Bajorų respublika arba net anarchija. Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką.
 
 ## Teiginiai
 
@@ -23,6 +23,8 @@ Bajorų respublikoje valdovą rinkę atstovai sudarė įspūdį, kad valstybės 
 - t-001
   global_id: t-21975
   teiginys: 'Bajorų respublikoje valdovą rinkę atstovai sudarė įspūdį, kad valstybės santvarka buvo respublika, o ne monarchija.'
+  sudarymo_pagrindimas: 'Pradinis teiginys per daug priklausė nuo konteksto, todėl patikslintas objektas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/barokas|barokas]]; mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -30,6 +32,8 @@ Bajorų respublikoje valdovą rinkę atstovai sudarė įspūdį, kad valstybės 
 - t-002
   global_id: t-21976
   teiginys: 'Liberum veto teisė reikalavo Seimo sprendimus priimti vienu balsu ir trukdė stiprinti bei centralizuoti valstybę.'
+  sudarymo_pagrindimas: 'Citata pagrindžia liberum veto veikimą ir padarinį, bet ne agrarinės visuomenės teiginį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/Liberum veto|Liberum veto]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Rusija'
   pagrindžia:
     - c-002
 
@@ -37,6 +41,11 @@ Bajorų respublikoje valdovą rinkę atstovai sudarė įspūdį, kad valstybės 
 - t-003
   global_id: t-183400
   teiginys: 'Lenkijoje ir Lietuvoje visuomenės agrarinis pobūdis ir miestų silpnumas lėmė Bajorų respublikos susiformavimą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Sutrumpinta ir pašalinta vertinamoji perteklinė formuluotė.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/Liberum veto|Liberum veto]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Rusija'
   pagrindžia:
     - c-002
 
@@ -83,16 +92,3 @@ Bajorų respublikoje valdovą rinkę atstovai sudarė įspūdį, kad valstybės 
   pagrindžia:
     - t-003
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/grupes/Bajorai]]
-- [[objektai/zodynas/Liberum veto]]
-- [[objektai/grupes/Stačiatikiai]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/zodynas/barokas]]
-- [[objektai/zodynas/luomas]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/grupes/Žydai]]
-- [[objektai/zodynas/bajoriškoji demokratija luominė monarchija]]

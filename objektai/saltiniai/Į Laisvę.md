@@ -20,6 +20,7 @@ tags:
 - t-001
   global_id: t-100229
   teiginys: '117 Ikškilė (Uexkuel) 165 Į Laisvę 42 Ilmenio ež.'
+  susije_objektai: 'mentioned_place: Imsrė'
   pagrindžia:
     - c-001
 

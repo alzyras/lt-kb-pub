@@ -30,6 +30,11 @@ Persekiojimas, kurio metu įvyko keletas susidūrimų (didžiausias jau už Tere
 - t-001
   global_id: t-115026
   teiginys: 'Terespolis nebuvo Balinskių giminės paveldima nuosavybė.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Terespolį ir tiksliai atitinka citatą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]'
+  temporaliniai_duomenys: 'įvykio data: 1811 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie Terespolį ir tiksliai atitinka citatą.'
   pagrindžia:
     - c-003
 
@@ -37,6 +42,7 @@ Persekiojimas, kurio metu įvyko keletas susidūrimų (didžiausias jau už Tere
 - t-002
   global_id: t-115027
   teiginys: 'Didžiausias persekiojimo susidūrimas įvyko jau už Terespolio, o visas persekiojimas tęsėsi apie 10 kilometrų.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]'
   pagrindžia:
     - c-002
 
@@ -44,6 +50,11 @@ Persekiojimas, kurio metu įvyko keletas susidūrimų (didžiausias jau už Tere
 - t-003
   global_id: t-115028
   teiginys: 'Michałas Balińskis gimė 1794 m. rugpjūčio 12 d. Terespolyje, netoli Vitebsko.'
+  sudarymo_pagrindimas: 'Faktas palaikomas citata, o vardą ir rašybą reikia sutvarkyti.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_place: Vitebskas'
+  temporaliniai_duomenys: 'įvykio data: 1794 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Faktas palaikomas citata, o vardą ir rašybą reikia sutvarkyti.'
   pagrindžia:
     - c-001
 
@@ -51,9 +62,17 @@ Persekiojimas, kurio metu įvyko keletas susidūrimų (didžiausias jau už Tere
 - t-004
   global_id: t-183812
   teiginys: 'Didžiausias susidūrimas per lietuvių kariuomenės persekiojimą įvyko jau už Terespolio.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūksta ties inicialu, bet citata pagrindžia įvykį prie Terespolio.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/asmenys/Dominykas Radvila.md#claim-t-87655|Dominykas Radvila]]: Dominykas Radvila valdė Jašiūnus, kuriuos 1811 m. iš jo perėmė Balinskis.
+- susijęs iš [[objektai/asmenys/Dominykas Radvila.md#claim-t-87655|Dominykas Radvila]]: Dominykas Radvila valdė Jašiūnus, kuriuos 1811 m. iš jo perėmė Balinskis.
+- susijęs iš [[objektai/ivykiai/Antrasis valstybės padalijimas.md#claim-t-86940|Antrasis valstybės padalijimas]]: Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugomame namų arešte Vitebske.
+- susijęs iš Jašiūnai: 1811 m. I. Balinskis perėmė Dominyko Radvilos valdytus Jašiūnus ir vėliau įsigijo juos kaip nuosavybę.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -105,3 +124,6 @@ Persekiojimas, kurio metu įvyko keletas susidūrimų (didžiausias jau už Tere
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+- [[objektai/asmenys/Dominykas Radvila]] valde_teritorija Terespolis

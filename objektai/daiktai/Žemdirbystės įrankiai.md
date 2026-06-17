@@ -48,6 +48,7 @@ Nenurodyta
 - t-001
   global_id: t-179494
   teiginys: 'Žemės darbui naudotas jaučių jungas, vėliau arklai su geležiniu noragu ir kiti geležiniai darbo įrankiai.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Ašvienis|Ašvienis]]'
   pagrindžia:
     - c-001
 
@@ -71,11 +72,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/įrankis]]
-- [[temos/ūkio-įrankis]]
-
-### Susiję objektai
-- [[objektai/zodynas/Ašvienis|ašvienis]]

@@ -10,12 +10,13 @@ tags:
   - karalius
   - kunigaikštis
   - popiežius
+  - valdovas
 ---
 # Kazimieras (Kujavijos kunigaikštis)
 
 ## Santrauka
 
-Kunigaikštis Kazimieras nusprendė kviesti Henriką iš Lichtenšteino į pagalbą, kai lenkai išsigando Sventopelko raitelių. Kazimieras, Lenkijos kunigaikštis, su 1800 vyrų leidosi persekioti iš Lenkijos besitraukiančių lietuvių. Lietuviai, nutraukę paliaubas, nužudė kunigaikštį Kazimierą ir visus jo žmones, išskyrus vieną karį.
+Dusburgietis teigia, kad pasikvietė pas save iš Lenkijos kunigaikštį Kazimierą275 bei Kališo kunigaikštį ir brolius ir patarė jiems traukti su kariuomene prieš Sventopelką. Dusburgietis teigia, kad apie naują Sventopelko karą ir susidūrimą prie Renzeno Kadangi žmogaus pojūčiai visados linkę į bloga ir žmogus, nors ir pasenęs, nelengvai 275 Kujavijos kunigaikštis. Dusburgietis teigia, kad galop, nutaręs slepiamą piktumą atvirai parodyti, surinko stiprią kariuomenę ir įsibrovė į Kujaviją, kunigaikščio Kazimiero žemę, kurią, degindamas ir plėšdamas, baisiai sunaikino, daugybę krikščionių išsivarydamas į nelaisvę bei išžudydamas, galop sugrįžo.
 
 ## Teiginiai
 
@@ -23,6 +24,9 @@ Kunigaikštis Kazimieras nusprendė kviesti Henriką iš Lichtenšteino į pagal
 - t-001
   global_id: t-63803
   teiginys: 'Kunigaikštis Kazimieras nusprendė kviesti Henriką iš Lichtenšteino į pagalbą, kai lenkai išsigando Sventopelko raitelių.'
+  sudarymo_pagrindimas: 'Sakinys išvalytas nuo perteklinių detalių ir turi aiškų veikėją.'
+  susije_objektai: 'territory: Viena; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Henrikas iš Lichtenšteino|Henrikas iš Lichtenšteino]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/asmenys/Kazimieras (Kujavijos kunigaikštis)|Kazimieras (Kujavijos kunigaikštis)]] buvo valdovas Viena'
   pagrindžia:
     - c-002
 
@@ -30,6 +34,8 @@ Kunigaikštis Kazimieras nusprendė kviesti Henriką iš Lichtenšteino į pagal
 - t-002
   global_id: t-63804
   teiginys: 'Kazimieras, Lenkijos kunigaikštis, su 1800 vyrų leidosi persekioti iš Lenkijos besitraukiančių lietuvių.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, turi aiškų veiksmą ir atitinka citatos informaciją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_person: [[objektai/asmenys/Boleslovas|Boleslovas]]; mentioned_place: Lenkija; mentioned_place: Lenčica; mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_place: Viena'
   pagrindžia:
     - c-006
 
@@ -37,6 +43,8 @@ Kunigaikštis Kazimieras nusprendė kviesti Henriką iš Lichtenšteino į pagal
 - t-003
   global_id: t-63805
   teiginys: 'Lietuviai, nutraukę paliaubas, nužudė kunigaikštį Kazimierą ir visus jo žmones, išskyrus vieną karį.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_person: [[objektai/asmenys/Boleslovas|Boleslovas]]; mentioned_place: Lenkija; mentioned_place: Lenčica; mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_place: Viena'
   pagrindžia:
     - c-006
 
@@ -44,6 +52,8 @@ Kunigaikštis Kazimieras nusprendė kviesti Henriką iš Lichtenšteino į pagal
 - t-004
   global_id: t-63806
   teiginys: 'Magistras su Torunės broliais ir kunigaikščiu Kazimieru ketino žygiuoti prieš Sventopelko statomą Sveče pilį.'
+  sudarymo_pagrindimas: 'Išplėstas neaiškus vietos paminėjimas pagal citatos kontekstą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Kulmas; mentioned_place: Santyras; mentioned_place: Torunė; mentioned_place: Vysla'
   pagrindžia:
     - c-003
 
@@ -51,6 +61,9 @@ Kunigaikštis Kazimieras nusprendė kviesti Henriką iš Lichtenšteino į pagal
 - t-005
   global_id: t-63808
   teiginys: 'Lenkijos kunigaikštis Kazimieras buvo pakviestas žygiuoti su kariuomene prieš Sventopelką.'
+  sudarymo_pagrindimas: 'Sakinys sutrumpintas iki aiškaus, citata pagrįsto veiksmo.'
+  susije_objektai: 'territory: Lenkija; territory: Naklas; territory: Pomeranija; mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Lenkija; mentioned_place: Naklas; mentioned_place: Pomeranija'
+  semantiniai_rysiai: '[[objektai/asmenys/Kazimieras (Kujavijos kunigaikštis)|Kazimieras (Kujavijos kunigaikštis)]] buvo valdovas Lenkija; [[objektai/asmenys/Kazimieras (Kujavijos kunigaikštis)|Kazimieras (Kujavijos kunigaikštis)]] buvo valdovas Naklas; [[objektai/asmenys/Kazimieras (Kujavijos kunigaikštis)|Kazimieras (Kujavijos kunigaikštis)]] buvo valdovas Pomeranija'
   pagrindžia:
     - c-004
 
@@ -58,6 +71,8 @@ Kunigaikštis Kazimieras nusprendė kviesti Henriką iš Lichtenšteino į pagal
 - t-006
   global_id: t-63809
   teiginys: 'Sventopelkas įsibrovė į kunigaikščio Kazimiero žemę Kujaviją ir ją nusiaubė degindamas bei plėšdamas.'
+  sudarymo_pagrindimas: 'Teiginys yra išbaigtas ir paremtas citata apie Kazimiero žemės nusiaubimą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Kujavija'
   pagrindžia:
     - c-001
 
@@ -182,13 +197,7 @@ Kunigaikštis Kazimieras nusprendė kviesti Henriką iš Lichtenšteino į pagal
     - t-002
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Boleslovas]]
-- [[objektai/daiktai/Laivai]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/zodynas/ginklanešiai]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/netikėliai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/ivykiai/Sventopelko taikos sulaužymas, Kujavijos nusiaubimas ir Santyro pilies pastatymas|Sventopelko taikos sulaužymas, Kujavijos nusiaubimas ir Santyro pilies pastatymas (pilis)]]
+- Kazimieras (Kujavijos kunigaikštis) buvo_valdovas [[objektai/vietos/Lenkija]]
+- Kazimieras (Kujavijos kunigaikštis) buvo_valdovas [[objektai/vietos/Naklas]]
+- Kazimieras (Kujavijos kunigaikštis) buvo_valdovas [[objektai/vietos/Pomeranija]]
+- Kazimieras (Kujavijos kunigaikštis) buvo_valdovas [[objektai/vietos/Viena]]

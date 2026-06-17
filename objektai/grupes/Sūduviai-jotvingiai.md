@@ -5,6 +5,15 @@ saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1205 m.'
+  - '1209 m.'
+  - '1210 m.'
+  - '1218 m.'
+  - '1219 m.'
+  - '1245 m.'
+  - '1262 m.'
+  - '1263 m.'
+  - '1264 m.'
+  - '1277 m.'
   - '1966 m.'
 date_start: '1205'
 date_end: '1966'
@@ -21,7 +30,7 @@ amziai:
 
 ## Santrauka
 
-Jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje. Skomantas, sūduvių vadas, gavo belaisvį Liudviką iš Libencelės ir pamėgo jį dėl drąsos. Sūduviai sudegino ir iki pamatų sunaikino Vartenbergo pilį, nužudė du brolius su visa šeimyna, o pilis liko apleista.
+Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių baltų gentis, veikianti tiek savarankiškai, tiek drauge su lietuviais ir prūsais. Šiame šaltinyje Sūduvos vardas tiesiogiai siejamas su sūduvių, arba jotvingių, kraštu.
 
 ## Teiginiai
 
@@ -29,6 +38,12 @@ Jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi Sembos rajone, a
 - t-001
   global_id: t-175106
   teiginys: 'Jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
+  susije_objektai: 'object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; object: Kulmas; object: [[objektai/grupes/Lietuviai|Lietuviai]]; object: [[objektai/asmenys/Mindaugas|Mindaugas]]; object: Prieglius; object: Prūsai; object: Semba; object: [[objektai/grupes/Sūduviai|Sūduviai]]; object: Vėluva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Kulmas; mentioned_place: Prieglius; mentioned_place: Prūsai; mentioned_place: Semba; mentioned_place: Vėluva'
+  semantiniai_rysiai: '[[objektai/grupes/Sūduviai-jotvingiai|Sūduviai-jotvingiai]] puolė [[objektai/asmenys/Mindaugas|Mindaugas]]; [[objektai/grupes/Sūduviai-jotvingiai|Sūduviai-jotvingiai]] puolė [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; [[objektai/grupes/Sūduviai-jotvingiai|Sūduviai-jotvingiai]] puolė [[objektai/grupes/Lietuviai|Lietuviai]]; [[objektai/grupes/Sūduviai-jotvingiai|Sūduviai-jotvingiai]] puolė [[objektai/grupes/Sūduviai|Sūduviai]]; [[objektai/grupes/Sūduviai-jotvingiai|Sūduviai-jotvingiai]] puolė Kulmas; [[objektai/grupes/Sūduviai-jotvingiai|Sūduviai-jotvingiai]] puolė Prieglius; [[objektai/grupes/Sūduviai-jotvingiai|Sūduviai-jotvingiai]] puolė Prūsai; [[objektai/grupes/Sūduviai-jotvingiai|Sūduviai-jotvingiai]] puolė Semba; [[objektai/grupes/Sūduviai-jotvingiai|Sūduviai-jotvingiai]] puolė Vėluva'
+  temporaliniai_duomenys: 'mūšio data: 1262 m.; mūšio data: 1263 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Sūduviai-jotvingiai puolė Mindaugas (valdovas, XIII a.)“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Sūduviai-jotvingiai puolė Kryžiuočių ordinas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Sūduviai-jotvingiai puolė Lietuviai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Sūduviai-jotvingiai puolė Sūduviai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Sūduviai-jotvingiai puolė Kulmas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Sūduviai-jotvingiai puolė Prieglius“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Sūduviai-jotvingiai puolė Prūsai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Sūduviai-jotvingiai puolė Semba“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Sūduviai-jotvingiai puolė Vėluva“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
   pagrindžia:
     - c-004
     - c-020
@@ -37,6 +52,8 @@ Jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi Sembos rajone, a
 - t-002
   global_id: t-175107
   teiginys: 'Skomantas, sūduvių vadas, gavo belaisvį Liudviką iš Libencelės ir pamėgo jį dėl drąsos.'
+  sudarymo_pagrindimas: 'Reikia susieti teiginį su sūduviais ir pašalinti neaiškų santykį su note objektu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_person: [[objektai/asmenys/Liudvikas iš Libencelės|Liudvikas iš Libencelės]]; mentioned_place: Sūduva'
   pagrindžia:
     - c-019
 
@@ -44,6 +61,8 @@ Jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi Sembos rajone, a
 - t-003
   global_id: t-175108
   teiginys: 'Sūduviai sudegino ir iki pamatų sunaikino Vartenbergo pilį, nužudė du brolius su visa šeimyna, o pilis liko apleista.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus ir paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_place: Vartenbergas'
   pagrindžia:
     - c-024
 
@@ -51,6 +70,8 @@ Jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi Sembos rajone, a
 - t-004
   global_id: t-175110
   teiginys: 'Iš Sūduvos atėjusi kariuomenė netikėtai užpuolė Kulmo žemės kaimų žmones, juos išžudė, o moteris ir vaikus išsivarė į nelaisvę.'
+  sudarymo_pagrindimas: 'Citata nepagrindžia atskiro teiginio, kad išžudyti tik vyrai.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_place: Kulmas; mentioned_place: Sūduva; mentioned_place: Vartenbergas; mentioned_place: Viena'
   pagrindžia:
     - c-015
 
@@ -58,6 +79,7 @@ Jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi Sembos rajone, a
 - t-005
   global_id: t-175111
   teiginys: 'Komentarinėje pastaboje nurodoma, kad Dusburgietis Sūduvos vardu vadina sūduvių, arba jotvingių, gyvenamą kraštą XIII a.'
+  susije_objektai: 'mentioned_place: Sūduva'
   pagrindžia:
     - c-011
 
@@ -65,6 +87,8 @@ Jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi Sembos rajone, a
 - t-006
   global_id: t-175112
   teiginys: 'Sūduviai su palyginti nedidele kariuomene įsiveržė į Notangą, apiplėšė nedidelę jos dalį ir pasitraukė.'
+  sudarymo_pagrindimas: 'Pradinis teiginys turi antraštės triukšmo ir nereikalingą autorystę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_place: Notanga'
   pagrindžia:
     - c-007
     - c-008
@@ -73,6 +97,8 @@ Jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi Sembos rajone, a
 - t-007
   global_id: t-175113
   teiginys: 'Magistro Mangoldo vadovavimo metais sūduviai pasitelkė lietuvius ir smarkiai užpuolė Sembos žemę.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas tinkama citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_place: Kimenava; mentioned_place: Semba; mentioned_place: Viena'
   pagrindžia:
     - c-018
     - c-021
@@ -82,6 +108,8 @@ Jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi Sembos rajone, a
 - t-008
   global_id: t-175114
   teiginys: 'Kazio Būgos nuomone, jotvingiai kalbėjo prūsų kalbos tarme.'
+  sudarymo_pagrindimas: 'Citata palaiko aiškų teiginį apie jotvingių kalbą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Jotvingiai|Jotvingiai]]; mentioned_person: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_place: Prūsai'
   pagrindžia:
     - c-025
 
@@ -89,6 +117,8 @@ Jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi Sembos rajone, a
 - t-009
   global_id: t-175115
   teiginys: 'Stipri prūsų, sūduvių ir lietuvių kariuomenė aštuonias dienas laikė apsupusi Vėluvos pilį.'
+  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Semba; mentioned_place: Viena; mentioned_place: Vėluva'
   pagrindžia:
     - c-001
 
@@ -96,6 +126,11 @@ Jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi Sembos rajone, a
 - t-010
   global_id: t-175116
   teiginys: 'Prie pamarėnų—prūsų sąjungos prisidėjo jotvingiai ir lietuviai29.'
+  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Jotvingiai|Jotvingiai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]'
+  temporaliniai_duomenys: 'įvykio data: 1245 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'claim_quality_pipeline deterministic repair'
   pagrindžia:
     - c-005
 
@@ -103,6 +138,8 @@ Jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi Sembos rajone, a
 - t-011
   global_id: t-175117
   teiginys: 'Magistras su kariuomene įsiveržė į Sūduvos Kimenavos valsčių ir privertė Kimenavos pilėnus atiduoti pilį.'
+  sudarymo_pagrindimas: 'Reikia pašalinti neaiškų konteksto fragmentą ir sutrumpinti sakinį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Kimenava; mentioned_place: Lietuva; mentioned_place: Pilėnai; mentioned_place: Semba; mentioned_place: Sūduva'
   pagrindžia:
     - c-009
 
@@ -110,6 +147,11 @@ Jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi Sembos rajone, a
 - t-012
   global_id: t-175118
   teiginys: 'Dusburgietis sūduvius vadina paskutine ir galingiausia neužkariauta Prūsijos žemės gentimi.'
+  sudarymo_pagrindimas: 'Tai autoriaus vertinimas, todėl reikia atribucijos ir trumpos formos.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_place: Prūsija; mentioned_place: Semba'
+  temporaliniai_duomenys: 'įvykio data: 1277 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Tai autoriaus vertinimas, todėl reikia atribucijos ir trumpos formos.'
   pagrindžia:
     - c-013
 
@@ -117,6 +159,8 @@ Jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi Sembos rajone, a
 - t-013
   global_id: t-175119
   teiginys: 'Konradas iš Tirbergo su daug brolių ir 1500 raitelių įsiveržė į Sūduvos Kimenavos valsčių, jį nusiaubė ir išsivarė 1000 belaisvių.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Kimenava; mentioned_place: Sūduva'
   pagrindžia:
     - c-026
 
@@ -124,6 +168,8 @@ Jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi Sembos rajone, a
 - t-014
   global_id: t-175120
   teiginys: 'Prie Vinso miško brolių kariuomenę pasivijo 3000 rinktinių sūduvių vyrų, bet broliai juos užpuolė ir privertė trauktis.'
+  sudarymo_pagrindimas: 'Reikia aiškiau įvardyti vietą ir sutrumpinti veiksmą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Kimenava; mentioned_place: Sūduva'
   pagrindžia:
     - c-026
 
@@ -131,6 +177,8 @@ Jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi Sembos rajone, a
 - t-015
   global_id: t-175122
   teiginys: 'Tepliavos komtūras Ulrichas Bajeris su 12 brolių ir 250 raitelių įsiveržė į Sūduvą, degino ir grobė kraštą.'
+  sudarymo_pagrindimas: 'Pradinė formuluotė nutrūkusi ir turi antraštės triukšmo.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_person: [[objektai/asmenys/Ulrichas Bajeris|Ulrichas Bajeris]]; mentioned_place: Semba; mentioned_place: Sūduva; mentioned_place: Tepliava'
   pagrindžia:
     - c-022
 
@@ -138,6 +186,8 @@ Jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi Sembos rajone, a
 - t-016
   global_id: t-175123
   teiginys: 'Sūduviai pranoko kitus kilnumu, turtais ir galybe ir turėjo šešis tūkstančius raitelių bei daug kitokių karių.'
+  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]'
   pagrindžia:
     - c-012
 
@@ -145,6 +195,11 @@ Jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi Sembos rajone, a
 - t-017
   global_id: t-175124
   teiginys: '1277 m. Skomanto vadovaujama sūduvių ir lietuvių kariuomenė siaubė Ordino valdas Pavyslyje iki Kristburgo.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_group: [[objektai/grupes/Žiemgaliai|Žiemgaliai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Nameisis|Nameisis]]; mentioned_person: [[objektai/asmenys/Traidenis|Traidenis]]; mentioned_place: Kristburgas; mentioned_place: Lietuva; mentioned_place: Prūsai; mentioned_place: Semba'
+  temporaliniai_duomenys: 'įvykio data: 1277 m.; įvykio data: 1280 m.; įvykio data: 1282 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir paremtas citata.'
   pagrindžia:
     - c-006
 
@@ -152,6 +207,8 @@ Jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi Sembos rajone, a
 - t-018
   global_id: t-175125
   teiginys: 'Prūsų, sūduvių ir lietuvių kariuomenė aštuonias dienas laikė apsupusi Vėluvos pilį ir kasdien ją puolė.'
+  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatos informaciją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Semba; mentioned_place: Viena; mentioned_place: Vėluva'
   pagrindžia:
     - c-001
 
@@ -159,6 +216,8 @@ Jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi Sembos rajone, a
 - t-019
   global_id: t-175126
   teiginys: 'Dusburgietis sūduvius apibūdina kaip tauriausius, kitus pranokusius papročių kilnumu, turtais ir galybe.'
+  sudarymo_pagrindimas: 'Tai autoriaus vertinimas, todėl reikia aiškios atribucijos.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]'
   pagrindžia:
     - c-017
 
@@ -166,6 +225,8 @@ Jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi Sembos rajone, a
 - t-020
   global_id: t-175128
   teiginys: 'Sūduviai su didele kariuomene apsiautė Bartenšteino pilį, ją sugriovė, o visus gyventojus išžudė arba išsivarė į nelaisvę.'
+  sudarymo_pagrindimas: 'Teiginys atitinka citatos turinį ir yra gramatiškas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_place: Bartenšteinas'
   pagrindžia:
     - c-010
     - c-019
@@ -175,6 +236,8 @@ Jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi Sembos rajone, a
 - t-021
   global_id: t-175129
   teiginys: 'Dusburgietis Sūduva vadina XIII a. sūduvių, arba jotvingių, gyvenamą kraštą.'
+  sudarymo_pagrindimas: 'Teiginys yra apie Dusburgiečio kraštovardžio vartoseną ir paremtas citata.'
+  susije_objektai: 'mentioned_place: Sūduva'
   pagrindžia:
     - c-011
 
@@ -182,6 +245,8 @@ Jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi Sembos rajone, a
 - t-022
   global_id: t-175130
   teiginys: 'Spalio 21 d. Skomantas su 4000 sūduvių ir stipria lietuvių kariuomene įsiveržė į Kulmo žemę keršyti už savųjų žūtį.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_object: [[objektai/zodynas/vasalas|vasalas]]; mentioned_person: [[objektai/asmenys/Skomantas|Skomantas]]; mentioned_place: Kulmas'
   pagrindžia:
     - c-014
 
@@ -189,6 +254,11 @@ Jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi Sembos rajone, a
 - t-023
   global_id: t-175131
   teiginys: 'Skomantas su sūduviais įsibrovė į Kulmo žemę ir padalijo kariuomenę į dvi dalis, nukreiptas prieš Torunę ir Kulmo miestą.'
+  sudarymo_pagrindimas: 'Pašalintas išnašos triukšmas ir paliktas sūduvius liečiantis faktas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_person: [[objektai/asmenys/Skomantas|Skomantas]]; mentioned_place: Brodnica; mentioned_place: Drevanta; mentioned_place: Kulmas; mentioned_place: Liubava; mentioned_place: Prūsai; mentioned_place: Torunė; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1263 m.; įvykio data: 1264 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas išnašos triukšmas ir paliktas sūduvius liečiantis faktas.'
   pagrindžia:
     - c-002
 
@@ -196,6 +266,8 @@ Jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi Sembos rajone, a
 - t-024
   global_id: t-175132
   teiginys: 'Po Karaliaučiaus pastatymo nadruviai, skalviai ir sūduviai įsiveržė į Sembą, plėšė bei degino kraštą ir grįždami pastatė Vėluvos pilį.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir turi antraštės triukšmo.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_place: Nadruva; mentioned_place: Semba; mentioned_place: Vėluva'
   pagrindžia:
     - c-027
 
@@ -203,6 +275,8 @@ Jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi Sembos rajone, a
 - t-025
   global_id: t-175133
   teiginys: 'Skomantas, sūduvių vadas, su didele sūduvių ir rusų kariuomene devynias dienas siaubė Kulmo žemę.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiksliai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_place: Eimsutis; mentioned_place: Kulmas; mentioned_place: Viena'
   pagrindžia:
     - c-028
 
@@ -210,6 +284,11 @@ Jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi Sembos rajone, a
 - t-026
   global_id: t-175134
   teiginys: 'Lietuvos ir jotvingių veiksmai prieš Volynę šaltiniuose siejami su 1205 m., tai yra 1209–1210 m., įvykiais.'
+  sudarymo_pagrindimas: 'Citata palaiko teiginį apie Lietuvos ir jotvingių veiksmus.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Lietuvos ir jotvingių veiksmai prieš Volynę (apie 1205 1209—1210 m.)|Lietuvos ir jotvingių veiksmai prieš Volynę (apie 1205 1209—1210 m.)]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/priešmindauginė Lietuva|priešmindauginė Lietuva]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Popiežius Honorijus II|Popiežius Honorijus II]]; mentioned_place: Lietuva; mentioned_place: Prūsai; mentioned_place: Viena; mentioned_place: Volynė'
+  temporaliniai_duomenys: 'įvykio data: 1205 m.; įvykio data: 1209-1210; įvykio data: 1210 m.; įvykio data: 1218 m.; įvykio data: 1219 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko teiginį apie Lietuvos ir jotvingių veiksmus.'
   pagrindžia:
     - c-016
 
@@ -217,6 +296,8 @@ Jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi Sembos rajone, a
 - t-027
   global_id: t-175135
   teiginys: 'Sūduviai, nadruviai ir skalviai su didele kariuomene apsiautė ir smarkiai užpuolė Bysleidos pilį netoli Bartenšteino.'
+  sudarymo_pagrindimas: 'Teiginys pilnas ir paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Nadruviai|Nadruviai]]; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_place: Bartenšteinas; mentioned_place: Bysleida; mentioned_place: Pilėnai'
   pagrindžia:
     - c-003
 
@@ -224,6 +305,11 @@ Jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi Sembos rajone, a
 - t-028
   global_id: t-175136
   teiginys: 'Kariuomenė iš Sūduvos ir kitų žemių prie Valevonos pilies apiplėšė aplinkinius valsčius ir pasitraukė.'
+  sudarymo_pagrindimas: 'Teiginys yra faktinis, pilnas ir paremtas citata.'
+  susije_objektai: 'mentioned_place: Barta; mentioned_place: Prūsai; mentioned_place: Sūduva; mentioned_place: Vaistotpilis; mentioned_place: Vizenburgas'
+  temporaliniai_duomenys: 'įvykio data: 1325 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra faktinis, pilnas ir paremtas citata.'
   pagrindžia:
     - c-029
 
@@ -231,6 +317,8 @@ Jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi Sembos rajone, a
 - t-029
   global_id: t-175137
   teiginys: 'Sūduviai su didele kariuomene įsiveržė į Lubavos žemę ir visiškai sugriovė Lubavos pilį bei miestą.'
+  sudarymo_pagrindimas: 'Pradinė formuluotė nutrūkusi ir turi antraštės triukšmo.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_place: Kulmas; mentioned_place: Lubava; mentioned_place: Torunė; mentioned_place: Štraisbergas'
   pagrindžia:
     - c-008
 
@@ -238,9 +326,11 @@ Jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi Sembos rajone, a
 - t-030
   global_id: t-175138
   teiginys: 'Brolis Liudvikas iš Libencelės atvedė magistrui Konradui Kantigirdą ir 1600 sūduvių, kuriuos nelaisvėje buvo atvertęs į Kristaus tikėjimą.'
+  sudarymo_pagrindimas: 'Citata palaiko konkretų faktą apie sūduvių atsivertimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Kantigirdas|Kantigirdas]]; mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_person: [[objektai/asmenys/Liudvikas iš Libencelės|Liudvikas iš Libencelės]]; mentioned_place: Kimenava; mentioned_place: Semba; mentioned_place: Viena'
   pagrindžia:
     - c-018
-
+- susijęs iš Dainava: Dviejuose Mindaugo donaciniuose dokumentuose (1253, 1259), dėl kurių pirmojo autentiškumo nėra keliama abejonių, yra minima Dainava (Denowe, Deynowe, Dainowe).
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -780,62 +870,12 @@ Jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi Sembos rajone, a
     - t-028
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/Dusburgas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/zodynas/kunigas]]
-- [[objektai/autoriai/Henrikas]]
-- [[objektai/grupes/Jotvingiai]]
-- [[objektai/autoriai/K. Būga]]
-- [[objektai/asmenys/Konradas]]
-- [[objektai/daiktai/Kryžius]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Liudvikas]]
-- [[objektai/asmenys/Liudvikas iš Libencelės]]
-- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
-- [[objektai/grupes/Nadruviai]]
-- [[objektai/asmenys/Nameisis]]
-- [[objektai/asmenys/Popiežius Honorijus II]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/grupes/Sembai]]
-- [[objektai/grupes/Skalviai]]
-- [[objektai/grupes/Sūduviai]]
-- [[objektai/grupes/Teutonai]]
-- [[objektai/asmenys/Traidenis|Traidenis (valdovas, XIII a.)]]
-- [[objektai/grupes/Varmiai]]
-- [[objektai/zodynas/ginklanešiai]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/Miera|miera]]
-- [[objektai/zodynas/netikėliai]]
-- [[objektai/zodynas/priešmindauginė Lietuva]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/vasalas]]
-- [[objektai/grupes/Žiemgaliai]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/asmenys/Kantigirdas]]
-- [[objektai/ivykiai/Lietuvos ir jotvingių veiksmai prieš Volynę (apie 1205 1209—1210 m.)]]
-- [[objektai/asmenys/Skomantas]]
-- [[objektai/asmenys/Ulrichas Bajeris]]
-- [[objektai/zodynas/komtūras]]
-- [[objektai/ivykiai/Antrasis Bartenšteino pilies sugriovimas|Antrasis Bartenšteino pilies sugriovimas (pilis)]]
-- [[objektai/grupes/Bartai]]
-- [[objektai/ivykiai/Bysleidos pilies apgula ir daugiau kaip dviejų tūkstančių sūduvių žūtis|Bysleidos pilies apgula ir daugiau kaip dviejų tūkstančių sūduvių žūtis (pilis)]]
-- [[objektai/posakiai/Gailiuosi jus pagimdžiusi]]
-- [[objektai/asmenys/Herkus Mantas]]
-- [[objektai/ivykiai/Jotvingių ir lietuvių prisidėjimas prie pamarėnų-prūsų sąjungos (1245 m.)]]
-- [[objektai/ivykiai/Kimenavos pilies paėmimas ir 1600 sūduvių atsivertimas|Kimenavos pilies paėmimas ir 1600 sūduvių atsivertimas (pilis, XVI a.)]]
-- [[objektai/ivykiai/Lietuvos ir jotvingių puolimas Lenkijai (1219 m.)]]
-- [[objektai/asmenys/Mantas]]
-- [[objektai/grupes/Mantiminų giminė]]
-- [[objektai/asmenys/Nameda]]
-- [[objektai/ivykiai/Nameisio vadovaujamas Lietuvos žygis po Ordino užnugarį (1281 m.)]]
-- [[objektai/grupes/Pamarėnai]]
-- [[objektai/asmenys/Pasdrauputis]]
-- [[objektai/paprociai/Sekmadieninis kaimo žmonių linksminimasis ir šokiai]]
-- [[objektai/ivykiai/Sūduvių ir lietuvių antpuolis prieš Sembą]]
-- [[objektai/ivykiai/Sūduvių ir lietuvių žygis į Ordino valdas Semboje (1280 m.)]]
-- [[objektai/ivykiai/Sūduvių žygis į Notangą ir jų išblaškymas]]
-- [[objektai/ivykiai/Treniotos vadovaujamas Mindaugo kariuomenės žygis į Ordino užnugarį (1262 m.)]]
-- [[objektai/ivykiai/Ulricho Bajerio žygis į Sūduvą]]
-- [[objektai/ivykiai/Vėluvos pilies apsiaustis ir apgulties nutraukimas|Vėluvos pilies apsiaustis ir apgulties nutraukimas (pilis)]]
-- [[objektai/zodynas/ginklanešys]]
+- Sūduviai-jotvingiai puole [[objektai/grupes/Kryžiuočių ordinas]]
+- Sūduviai-jotvingiai puole [[objektai/vietos/Kulmas]]
+- Sūduviai-jotvingiai puole [[objektai/grupes/Lietuviai]]
+- Sūduviai-jotvingiai puole [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
+- Sūduviai-jotvingiai puole [[objektai/vietos/Prieglius]]
+- Sūduviai-jotvingiai puole [[objektai/vietos/Prūsai]]
+- Sūduviai-jotvingiai puole [[objektai/vietos/Semba]]
+- Sūduviai-jotvingiai puole [[objektai/grupes/Sūduviai]]
+- Sūduviai-jotvingiai puole [[objektai/vietos/Vėluva]]

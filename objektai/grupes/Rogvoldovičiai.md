@@ -23,9 +23,11 @@ tags:
 - t-001
   global_id: t-86820
   teiginys: 'Mstislavui Vladimirovičiui užėmus Polocką, Rogvoldovičiai pabėgo į Konstantinopolį.'
+  sudarymo_pagrindimas: 'Citata pagrindžia Polocko užėmimą ir Rogvoldovičių pabėgimą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/duoklė|duoklė]]; mentioned_person: [[objektai/asmenys/Daumantas|Daumantas]]; mentioned_person: [[objektai/asmenys/Maukoldas|Maukoldas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Kijevas; mentioned_place: Konstantinopolis; mentioned_place: Lietuva; mentioned_place: Polockas; mentioned_place: Vilnia; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Rostislavas Rogvoldovičius.md#claim-t-87572|Rostislavas Rogvoldovičius]]: 1129 m. didysis kunigaikštis Mstislavas Vladimirovičius išvijo Polocko kunigaikštį Rostislavą Rogvoldovičių su broliais iš Polocko.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -75,11 +77,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Daumantas|Daumantas (kunigaikštis, XV a.)]]
-- [[objektai/asmenys/Maukoldas]]
-- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
-- [[objektai/zodynas/duoklė]]
-- [[objektai/asmenys/Rostislavas Rogvoldovičius]]

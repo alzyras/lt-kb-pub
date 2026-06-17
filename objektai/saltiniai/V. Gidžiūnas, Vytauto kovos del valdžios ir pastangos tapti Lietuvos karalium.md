@@ -27,6 +27,9 @@ Gidžiūnas, V.
 - t-001
   global_id: t-31950
   teiginys: 'V. Gidžiūno „Vytauto kovos dėl valdžios ir pastangos tapti Lietuvos karalium“ 1973 m. spausdinta „Karyje“, p. 221–228 ir 266–273.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/apsikarūnavimas|apsikarūnavimas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1973 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

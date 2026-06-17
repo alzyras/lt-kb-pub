@@ -30,6 +30,8 @@ amziai:
 - t-001
   global_id: t-50552
   teiginys: 'Kęstutis statydino Naująjį Kauną Vyrgalės saloje ir tiltą per Nemuną, siekdamas atkurti Nemuno, Neries ir Nevėžio žiočių gynybą.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Vyrgalės salą ir atitinka citatos informaciją.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Nevėžis'
   pagrindžia:
     - c-001
 
@@ -37,6 +39,8 @@ amziai:
 - t-002
   global_id: t-50553
   teiginys: 'Kęstutis statydino Naujojo Kauno pilį Nevėžio žiočių Vyrgalės saloje, siekdamas atkurti gynybą Nemuno, Neries ir Nevėžio žiočių ruože.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Nevėžis'
   pagrindžia:
     - c-001
 

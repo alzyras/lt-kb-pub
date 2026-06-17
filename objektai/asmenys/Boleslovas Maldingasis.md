@@ -31,6 +31,10 @@ ir lenkų karaliaus Boleslovo Maldingojo 1264 m. privilegijų pavyz­ džiu.
 - t-001
   global_id: t-35039
   teiginys: 'Boleslovo Maldingojo 1264 m. privilegijos buvo vienas iš pavyzdžių privilegijoms, pagal kurias žydai Lietuvoje gyveno ilgus šimtmečius.'
+  susije_objektai: 'location: Brasta; location: Gardinas; location: Lietuva; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Brasta; mentioned_place: Gardinas; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Boleslovas Maldingasis|Boleslovas Maldingasis]] gyveno Brasta; [[objektai/asmenys/Boleslovas Maldingasis|Boleslovas Maldingasis]] gyveno Gardinas; [[objektai/asmenys/Boleslovas Maldingasis|Boleslovas Maldingasis]] gyveno Lietuva'
+  temporaliniai_duomenys: 'gyvenimo laikotarpis: 1264 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Boleslovas Maldingasis gyveno Brasta“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Boleslovas Maldingasis gyveno Gardinas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Boleslovas Maldingasis gyveno Lietuva“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -52,7 +56,6 @@ ir lenkų karaliaus Boleslovo Maldingojo 1264 m. privilegijų pavyz­ džiu.
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Čekai]]
-- [[objektai/grupes/Žydai]]
+- Boleslovas Maldingasis gyveno [[objektai/vietos/Brasta]]
+- Boleslovas Maldingasis gyveno [[objektai/vietos/Gardinas]]
+- Boleslovas Maldingasis gyveno [[objektai/vietos/Lietuva]]

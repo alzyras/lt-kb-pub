@@ -22,6 +22,8 @@ tags:
 - t-001
   global_id: t-88341
   teiginys: 'Kolegijos administravimą siekta išsaugoti pagal Tridento susirinkimo dekretą ir nutarimą.'
+  sudarymo_pagrindimas: 'Citata palaiko faktą, bet pradinis teiginys yra per ilgas ir su OCR triukšmu.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -29,6 +31,8 @@ tags:
 - t-002
   global_id: t-88342
   teiginys: 'Tridento Sinodas nusprendė, kad kiekvienoje krikščioniškojo pasaulio diecezijoje reikia įkurti nuolatinę seminariją.'
+  sudarymo_pagrindimas: 'Teiginys gramatiškas ir atitinka citatoje pateiktą Tridento Sinodo nutarimo turinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Tridento Sinodas|Tridento Sinodas]]; mentioned_group: [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija|Vilniaus vyskupijos klierikų kolegija]]; mentioned_object: [[objektai/zodynas/diecezija|diecezija]]; mentioned_place: Viena'
   pagrindžia:
     - c-001
 

@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Posakiu pabrėžiama, kad pergalės kelia džiaugsmą, o pralaimėjimai skatina kariuomenes mokytis ir keistis. Leidėjai skyrė dėmesio svarbiems pralaimėjimams, nes skaudūs pralaimėjimai skatina kariuomenes reformuotis ir diegti inovacijas. Posakis „Juk pergalės džiugina, o pralaimėjimai moko“ aiškina, kad skaudūs pralaimėjimai skatina kariuomenių reformas ir inovacijas.
+Jausdami pareigą pakelti tautiečių ūpą ir daugiausiai dėmesio skirdami pergalėms, knygos leidėjai nenuėjo lengviausiu keliu ir skyrė dėmesio svarbiems pralaimėjimams, kadangi būtent skaudūs pralaimėjimai paskatina kariuomenes daryti reformas, permąstyti savo. Juk pergalės džiugina, o pralaimėjimai moko.
 
 ## Teiginiai
 
@@ -23,6 +23,8 @@ Posakiu pabrėžiama, kad pergalės kelia džiaugsmą, o pralaimėjimai skatina 
 - t-001
   global_id: t-41450
   teiginys: 'Posakiu pabrėžiama, kad pergalės kelia džiaugsmą, o pralaimėjimai skatina kariuomenes mokytis ir keistis.'
+  sudarymo_pagrindimas: 'Citata leidžia suformuluoti aiškią posakio prasmę.'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -30,6 +32,7 @@ Posakiu pabrėžiama, kad pergalės kelia džiaugsmą, o pralaimėjimai skatina 
 - t-002
   global_id: t-41451
   teiginys: 'Leidėjai skyrė dėmesio svarbiems pralaimėjimams, nes skaudūs pralaimėjimai skatina kariuomenes reformuotis ir diegti inovacijas.'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -37,6 +40,10 @@ Posakiu pabrėžiama, kad pergalės kelia džiaugsmą, o pralaimėjimai skatina 
 - t-003
   global_id: t-183721
   teiginys: 'Posakis „Juk pergalės džiugina, o pralaimėjimai moko“ aiškina, kad skaudūs pralaimėjimai skatina kariuomenių reformas ir inovacijas.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Reikia aiškiau susieti faktą su posakiu ir pašalinti perteklinį leidėjų kontekstą.'
   pagrindžia:
     - c-002
 

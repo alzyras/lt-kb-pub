@@ -47,9 +47,13 @@ Nenurodyta
 - t-001
   global_id: t-97104
   teiginys: 'E. Radzvilovaitė pateikė žinių apie lietuvių genčių skydus II-VIII a.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas, faktinis ir paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Brūkšniuotoji keramika|Brūkšniuotoji keramika]]; mentioned_object: [[objektai/daiktai/Sidabro dirbiniai|Sidabro dirbiniai]]; mentioned_person: [[objektai/autoriai/E. Danilaitė|E. Danilaitė]]; mentioned_person: [[objektai/autoriai/E. Radzvilovaitė|E. Radzvilovaitė]]; mentioned_person: [[objektai/autoriai/J. Stankus|J. Stankus]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/autoriai/E. Radzvilovaitė.md#claim-t-30597|E. Radzvilovaitė]]: E. Radzvilovaitė paskelbė darbą „Lietuvių genčių skydai II–VIII amžiais“.
+- susijęs iš [[objektai/autoriai/J. Stankus.md#claim-t-30701|J. Stankus]]: J. Stankus 1970 m. paskelbė darbą „Geležinių įrankių gamybos technologija Lietuvoje IX-XIII amžiais“.
+- susijęs iš [[objektai/autoriai/V. T. Pašuto.md#claim-t-31046|V. T. Pašuto]]: V. T. Pašuto parašė darbą „Choziajstvo i technika srednevekovoj Litvy“.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -70,14 +74,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Brūkšniuotoji keramika]]
-- [[objektai/autoriai/E. Danilaitė]]
-- [[objektai/autoriai/E. Radzvilovaitė]]
-- [[objektai/autoriai/J. Stankus]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/daiktai/Sidabro dirbiniai]]
-- [[objektai/autoriai/V. T. Pašuto]]
-- [[objektai/daiktai/Geležiniai įrankiai]]

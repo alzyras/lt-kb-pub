@@ -22,6 +22,9 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 - t-001
   global_id: t-20038
   teiginys: 'Tautininkų grupuotė apie Antano Smetonos redaguojamą „Viltį“ kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose.'
+  sudarymo_pagrindimas: 'Pradinis sakinys neaiškus be ankstesnio konteksto, citata leidžia sutelkti faktą į objektą.'
+  susije_objektai: 'counterparty: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; counterparty: [[objektai/grupes/Krikščionys|Krikščionys]]; counterparty: [[objektai/grupes/Lenkai|Lenkai]]; counterparty: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_place: Lenkija; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Tautininkų grupuotė apie „Viltį“|Tautininkų grupuotė apie „Viltį“]] kariavo prieš [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; [[objektai/grupes/Tautininkų grupuotė apie „Viltį“|Tautininkų grupuotė apie „Viltį“]] kariavo prieš [[objektai/grupes/Krikščionys|Krikščionys]]; [[objektai/grupes/Tautininkų grupuotė apie „Viltį“|Tautininkų grupuotė apie „Viltį“]] kariavo prieš [[objektai/grupes/Lenkai|Lenkai]]; [[objektai/grupes/Tautininkų grupuotė apie „Viltį“|Tautininkų grupuotė apie „Viltį“]] kariavo prieš [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-001
 
@@ -48,10 +51,7 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Krikščionys]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Antanas (vaistininkas)]]
-- [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
-- [[objektai/grupes/Lenkų krikščionys demokratai]]
+- Tautininkų grupuotė apie „Viltį“ kariavo_pries [[objektai/asmenys/Antanas (vaistininkas)]]
+- Tautininkų grupuotė apie „Viltį“ kariavo_pries [[objektai/grupes/Krikščionys]]
+- Tautininkų grupuotė apie „Viltį“ kariavo_pries [[objektai/grupes/Lenkai]]
+- Tautininkų grupuotė apie „Viltį“ kariavo_pries [[objektai/grupes/Lietuviai]]

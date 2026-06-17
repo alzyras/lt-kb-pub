@@ -28,9 +28,14 @@ pozicijų signatūras : J. Balys : Lithuania and Lithuanians. A selected bibliog
 - t-001
   global_id: t-30659
   teiginys: 'J. Balys 1961 m. Niujorke paskelbė rinktinę bibliografiją „Lithuania and Lithuanians“.'
+  susije_objektai: 'mentioned_place: Niujorkas'
+  temporaliniai_duomenys: 'įvykio data: 1961 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
-
+- susijęs iš Bibliography of Baltic Bibliographies: J. Balio „Bibliography of Baltic Bibliographies“ pateikė Lietuvą liečiančių lietuviškų bibliografinių rinkinių bibliografiją.
+- susijęs iš Lietuvos TSR istorijos bibliografija 1940-1965: Lietuvos TSR istorijos bibliografiją 1940-1965 sudarė septynių asmenų kolektyvas, ji išleista Vilniuje 1969 m.
+- susijęs iš Lithuania and Lithuanians. A selected bibliography: J. Balio „Lithuania and Lithuanians. A selected bibliography“ išleista Niujorke 1961 m.
 ## Reikšmingi paminėjimai
 
 - c-001

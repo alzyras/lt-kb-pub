@@ -21,9 +21,12 @@ Dusburgietis teigia, kad kai šitai padarė, kai viena šalis parengė visa, kas
 - t-001
   global_id: t-60240
   teiginys: 'Brolis Arnoldas Krofas arbaleto strėle peršovė Divanui kaklą, po to puolėjai pasitraukė nebaigę puolimo.'
+  sudarymo_pagrindimas: 'Citata palaiko konkretų Arnoldo Krofo veiksmą ir jo rezultatą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Arbaletas|Arbaletas]]; mentioned_person: [[objektai/asmenys/Divanas|Divanas]]; mentioned_place: Viena'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/grupes/Bartai.md#claim-t-88530|Bartai]]: Per pilies puolimą brolis Arnoldas Krofas arbaleto strėle peršovė bartų vadui Divanui kaklą, o po Divano žūties kiti pasitraukė.
+- susijęs iš [[objektai/ivykiai/Senenzės pilies apgula ir Divano žūtis.md#claim-t-66894|Senenzės pilies apgula ir Divano žūtis]]: Bartų vadas Divanas su aštuoniais šimtais vyrų apsiautė Senenzės pilį, bet brolis Arnoldas Krofas jį mirtinai peršovė arbaletu.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -42,10 +45,3 @@ Dusburgietis teigia, kad kai šitai padarė, kai viena šalis parengė visa, kas
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Divanas]]
-- [[objektai/daiktai/Arbaletas]]
-- [[objektai/grupes/Bartai]]
-- [[objektai/ivykiai/Senenzės pilies apgula ir Divano žūtis]]

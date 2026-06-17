@@ -9,8 +9,9 @@ datos:
   - '1310 m.'
   - '1312 m.'
   - '1314 m.'
+  - '1324 m.'
 date_start: '1291'
-date_end: '1314'
+date_end: '1324'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -50,6 +51,12 @@ Nenurodyta
 - t-001
   global_id: t-62933
   teiginys: 'Prancūzijoje likviduotas Tamplierių ordinas buvo pavyzdys, pagal kurį susikūrė ir veikė Teutonų ordinas.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pradinis sakinys gramatiškas, bet šaltinio atribucija nereikalinga paprastam faktui.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Tamplierių ordinas|Tamplierių ordinas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/ekskomunikuoti|ekskomunikuoti]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas XXII|Jonas XXII]]; mentioned_place: Prancūzija'
+  temporaliniai_duomenys: 'įvykio data: 1324 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis sakinys gramatiškas, bet šaltinio atribucija nereikalinga paprastam faktui.'
   pagrindžia:
     - c-001
 
@@ -57,6 +64,12 @@ Nenurodyta
 - t-002
   global_id: t-62934
   teiginys: '1307 m. Prancūzijoje prasidėjo tamplierių, po Jeruzalės karalystės žlugimo įsikūrusių šioje žemėje, procesas.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie nurodytą įvykį ir remiasi citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Tamplierių ordinas|Tamplierių ordinas]]; mentioned_object: [[objektai/daiktai/Laužas|Laužas]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/erezija|erezija]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Jeruzalė; mentioned_place: Paryžius; mentioned_place: Prancūzija'
+  temporaliniai_duomenys: 'įvykio data: 1291 m.; įvykio data: 1307 m.; įvykio data: 1310 m.; įvykio data: 1312 m.; įvykio data: 1314 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie nurodytą įvykį ir remiasi citata.'
   pagrindžia:
     - c-002
 
@@ -92,17 +105,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Jonas]]
-- [[objektai/asmenys/Jonas XXII|Jonas XXII (arkivyskupas, XIV a.)]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/daiktai/Laužas]]
-- [[objektai/grupes/Tamplierių ordinas]]
-- [[objektai/grupes/Teutonai]]
-- [[objektai/zodynas/didysis magistras]]
-- [[objektai/zodynas/ekskomunikuoti]]
-- [[objektai/zodynas/erezija]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/ivykiai/Popiežiaus Jono XXII grasinimas ekskomunikuoti Kryžiuočių ordiną (1324 m.)]]

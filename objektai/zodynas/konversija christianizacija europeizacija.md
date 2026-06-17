@@ -3,6 +3,10 @@ tipas: zodyno_irasas
 pavadinimas: 'konversija christianizacija europeizacija'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1009 m.'
+date_start: '1009'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -10,12 +14,14 @@ tags:
   - kunigaikštis
   - sąvoka
   - tauta
+amziai:
+  - 'XI'
 ---
 # konversija christianizacija europeizacija
 
 ## Santrauka
 
-Lietuvos „karaliaus“ Netimero krikštas 1009 m. minimas greta kitų Europos christianizacijos įvykių. Vytauto bažnytinė politika siekė Lietuvos konversijos ir „švento valdovo“ įvaizdžio. Vytauto politika buvo orientuota į bažnytinę politiką ir Lietuvos konversiją, kuri kartais siejama su Žemaičių krikštu.
+Adalberto misija Prūsijoje (997), Norvegijos valdovo Olafo pradėta šalies christianizacija (997), Islandijos Altingo priimtas sprendimas apsikrikštyti (1000), pirmojo tikro krikščionio Vengrijos soste šv. Taigi, visa Vytauto politika buvo orientuota į bažnytinę politiką ir Lietuvos konversiją, kuri kartais perdėm formaliai užbaigiama vadinamuoju Žemaičių krikštu.
 
 ## Teiginiai
 
@@ -23,6 +29,11 @@ Lietuvos „karaliaus“ Netimero krikštas 1009 m. minimas greta kitų Europos 
 - t-001
   global_id: t-22197
   teiginys: 'Lietuvos „karaliaus“ Netimero krikštas 1009 m. minimas greta kitų Europos christianizacijos įvykių.'
+  sudarymo_pagrindimas: 'Pirminis teiginys nutrūkęs, o citata pagrindžia trumpą faktą apie christianizacijos kontekstą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_object: [[objektai/zodynas/apsikarūnavimas|apsikarūnavimas]]; mentioned_object: [[objektai/zodynas/christianizacija|christianizacija]]; mentioned_person: [[objektai/asmenys/Adalbertas|Adalbertas]]; mentioned_person: [[objektai/asmenys/Netimeras|Netimeras]]; mentioned_place: Europa; mentioned_place: Islandija; mentioned_place: Kijevas; mentioned_place: Kijevo Rusia; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Švedija'
+  temporaliniai_duomenys: 'įvykio data: 1009 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pirminis teiginys nutrūkęs, o citata pagrindžia trumpą faktą apie christianizacijos kontekstą.'
   pagrindžia:
     - c-001
 
@@ -30,6 +41,8 @@ Lietuvos „karaliaus“ Netimero krikštas 1009 m. minimas greta kitų Europos 
 - t-002
   global_id: t-22198
   teiginys: 'Vytauto bažnytinė politika siekė Lietuvos konversijos ir „švento valdovo“ įvaizdžio.'
+  sudarymo_pagrindimas: 'Citata palaiko glaustesnį teiginį, artimesnį note objektui.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/autoriai/Grigorijus Camblakas|Grigorijus Camblakas]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Vengrija'
   pagrindžia:
     - c-002
 
@@ -37,6 +50,11 @@ Lietuvos „karaliaus“ Netimero krikštas 1009 m. minimas greta kitų Europos 
 - t-003
   global_id: t-183438
   teiginys: 'Vytauto politika buvo orientuota į bažnytinę politiką ir Lietuvos konversiją, kuri kartais siejama su Žemaičių krikštu.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus sakinys apie Vytauto politikos ryšį su Lietuvos konversija ir Žemaičių krikštu.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/apsikarūnavimas|apsikarūnavimas]]; mentioned_object: [[objektai/zodynas/christianizacija|christianizacija]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Lietuva; mentioned_place: Vengrija'
   pagrindžia:
     - c-003
 
@@ -96,20 +114,3 @@ Lietuvos „karaliaus“ Netimero krikštas 1009 m. minimas greta kitų Europos 
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Adalbertas]]
-- [[objektai/autoriai/Grigorijus Camblakas]]
-- [[objektai/daiktai/Kryžius]]
-- [[objektai/asmenys/Netimeras]]
-- [[objektai/asmenys/Steponas]]
-- [[objektai/zodynas/Adynos|adynos]]
-- [[objektai/zodynas/apsikarūnavimas]]
-- [[objektai/zodynas/christianizacija]]
-- [[objektai/asmenys/Mieška]]
-- [[objektai/asmenys/Olafas (Norvegijos valdovas)]]
-- [[objektai/asmenys/Olafas (pietų Švedijos kunigaikštis)]]
-- [[objektai/asmenys/Steponas (Vengrijos valdovas)]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/posakiai/„švento valdovo“ įvaizdis]]

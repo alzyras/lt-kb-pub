@@ -22,7 +22,7 @@ periodo_grupes:
 
 ## Santrauka
 
-M. E. Andriolli nutapė 1863 m. sukilimo sceną, kurioje jis iš mūšio lauko prie Dubičių išneša žuvusį kovų draugą.
+Andriolli taip nutapė 1863 m. sukilimą – jis pats išneša žuvusį kovų draugą iš mūšio lauko prie Dubičių (gegužės 5 d.) L I E T U V O S I S T O R I J A 110 Kariniu požiūriu 60 tūkst.
 
 ## Teiginiai
 
@@ -30,9 +30,14 @@ M. E. Andriolli nutapė 1863 m. sukilimo sceną, kurioje jis iš mūšio lauko p
 - t-001
   global_id: t-26453
   teiginys: 'M. E. Andriolli nutapė 1863 m. sukilimo sceną, kurioje jis iš mūšio lauko prie Dubičių išneša žuvusį kovų draugą.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir citata tiesiogiai sieja Andriollį su pavaizduota sukilimo scena.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltarusiai|Baltarusiai]]; mentioned_object: [[objektai/zodynas/tautinis atgimimas|tautinis atgimimas]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1863 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir citata tiesiogiai sieja Andriollį su pavaizduota sukilimo scena.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/daiktai/M. E. Andriolli paveikslas „Gediminas stato Vilniaus pilį“.md#claim-t-77930|M. E. Andriolli paveikslas „Gediminas stato Vilniaus pilį“]]: M. E. Andriolli paveikslas „Gediminas stato Vilniaus pilį“ sukurtas 1882 m.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -59,9 +64,3 @@ M. E. Andriolli nutapė 1863 m. sukilimo sceną, kurioje jis iš mūšio lauko p
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Baltarusiai]]
-- [[objektai/zodynas/tautinis atgimimas]]
-- [[objektai/daiktai/M. E. Andriolli paveikslas „Gediminas stato Vilniaus pilį“]]

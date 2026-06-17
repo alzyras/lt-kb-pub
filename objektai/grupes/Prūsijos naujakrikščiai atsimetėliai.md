@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Prūsijos naujakrikščiai dalyvavo kariuomenėje, kuri buvo padalyta į dvi dalis pulti pilį iš priekio ir iš kitos pusės. Po Vokietijos kunigaikščių žygių minėti Prūsijos naujakrikščiai atsimetėliai grįžo į tikėjimą ir iš naujo pasidavė broliams. Magistras Henrikas rengėsi sunaikinti Sventopelką ir Prūsijos naujakrikščius atsimetėlius, kaltintus žala tikėjimui ir tikintiesiems.
+Dusburgietis teigia, kad apie vienos pilies užkariavimą ir apie Kristburgo pilį Brolis Henrikas, magistras, sužinojęs iš brolių, kiek blogybių tikėjimui ir tikintiesiems yra pridarę Sventopelkas bei jo bendrai, Prūsijos žemės naujakrikščiai atsimetėliai, įniko rūpestingai rengtis. Dusburgietis teigia, kad taigi sutelkė visą galybę savo kariuomenės ir Prūsijos naujakrikščių, elgdamasis klastingai kaip ir anksčiau, nes buvo be galo suktas; Padalijo kariuomenę į dvi dalis, viena turėjo pulti pilį iš priekio, kita — iš kitos pusės. Dusburgietis teigia, kad įvyko šitaip todėl, kad pats Kristus, kuris ir plaka, ir gydo, savo dvasios malonėmis sujaudino kai kuriems kunigaikščiams širdis, tad į Prūsijos žemę įsiveržė Brandenburgo markgrafas 1251 viešpaties metais ir Merzeburgo vyskupas310 bei grafas Henrikas iš.
 
 ## Teiginiai
 
@@ -29,6 +29,8 @@ Prūsijos naujakrikščiai dalyvavo kariuomenėje, kuri buvo padalyta į dvi dal
 - t-001
   global_id: t-89176
   teiginys: 'Prūsijos naujakrikščiai dalyvavo kariuomenėje, kuri buvo padalyta į dvi dalis pulti pilį iš priekio ir iš kitos pusės.'
+  sudarymo_pagrindimas: 'Pirminėje formuluotėje trūksta aiškaus veiksnio, todėl teiginys perrašytas apie note objektą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/naujakrikščiai|naujakrikščiai]]; mentioned_place: Prūsija; mentioned_place: Viena'
   pagrindžia:
     - c-002
 
@@ -36,6 +38,8 @@ Prūsijos naujakrikščiai dalyvavo kariuomenėje, kuri buvo padalyta į dvi dal
 - t-002
   global_id: t-89177
   teiginys: 'Po Vokietijos kunigaikščių žygių minėti Prūsijos naujakrikščiai atsimetėliai grįžo į tikėjimą ir iš naujo pasidavė broliams.'
+  sudarymo_pagrindimas: 'Reikia susieti išvardytas grupes su šio įrašo objektu, kaip leidžia citatos kontekstas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/maldininkai|maldininkai]]; mentioned_object: [[objektai/zodynas/naujakrikščiai|naujakrikščiai]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Henrikas iš Svarcburgo|Henrikas iš Svarcburgo]]; mentioned_place: Prūsija; mentioned_place: Vokietija'
   pagrindžia:
     - c-001
 
@@ -43,6 +47,8 @@ Prūsijos naujakrikščiai dalyvavo kariuomenėje, kuri buvo padalyta į dvi dal
 - t-003
   global_id: t-89178
   teiginys: 'Magistras Henrikas rengėsi sunaikinti Sventopelką ir Prūsijos naujakrikščius atsimetėlius, kaltintus žala tikėjimui ir tikintiesiems.'
+  sudarymo_pagrindimas: 'Teiginys turi faktinį predikatą ir yra paremtas citata apie Prūsijos naujakrikščius atsimetėlius.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pamedėnai|Pamedėnai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/naujakrikščiai|naujakrikščiai]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Prūsija'
   pagrindžia:
     - c-003
 
@@ -50,6 +56,11 @@ Prūsijos naujakrikščiai dalyvavo kariuomenėje, kuri buvo padalyta į dvi dal
 - t-004
   global_id: t-89179
   teiginys: '1251 m. Brandenburgo markgrafas, o kitais metais Merzeburgo vyskupas ir grafas Henrikas iš Svarcburgo niokojo atsimetėlių žemes Prūsijoje.'
+  sudarymo_pagrindimas: 'Pašalinta teologinė įžanga, OCR likučiai ir nutrūkusi pabaiga.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/maldininkai|maldininkai]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Henrikas iš Svarcburgo|Henrikas iš Svarcburgo]]; mentioned_place: Prūsija; mentioned_place: Vokietija'
+  temporaliniai_duomenys: 'įvykio data: 1251 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalinta teologinė įžanga, OCR likučiai ir nutrūkusi pabaiga.'
   pagrindžia:
     - c-001
 
@@ -113,16 +124,3 @@ Prūsijos naujakrikščiai dalyvavo kariuomenėje, kuri buvo padalyta į dvi dal
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/Henrikas]]
-- [[objektai/asmenys/Henrikas iš Svarcburgo]]
-- [[objektai/grupes/Notangai]]
-- [[objektai/grupes/Pamedėnai]]
-- [[objektai/asmenys/Sventopelkas]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/maldininkai]]
-- [[objektai/zodynas/naujakrikščiai]]
-- [[objektai/grupes/Kryžiuočių ordinas]]

@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Daugiausia jų įsikūrė už 61 Naruszewicz Taurikoje, 1 .
+Daugiausia jų įsikūrė už 61 Naruszewicz Taurikoje, 1 . Il, 1418- gos 1418 metų rugpjūčio 11 dieną; 1419 m. ir Naruszewicz Taurykū, iš pastarojo aišku, kad kunigaikštiep. 78.
 
 ## Teiginiai
 
@@ -29,6 +29,9 @@ Daugiausia jų įsikūrė už 61 Naruszewicz Taurikoje, 1 .
 - t-001
   global_id: t-88267
   teiginys: 'Daugiausia jų įsikūrė už 61 Naruszewicz Taurikoje, 1 .'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/autoriai/Naruszewicz|Naruszewicz]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1816 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

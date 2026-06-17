@@ -33,6 +33,11 @@ Nenurodyta
 - t-001
   global_id: t-185859
   teiginys: 'Vilniuje, vyskupui Povilui dar gyvam esant, Viklifo pasekėjas gavo leidimą Šv. Onos bažnyčioje kalbėti apie tikėjimą ir laikyti pamaldas.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie cituojamą Vilniaus pamaldų naujovę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]'
   pagrindžia:
     - c-001
 
@@ -56,11 +61,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bajorai]]
-- [[objektai/asmenys/Ona Vytautienė]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/kunigas]]
-- [[objektai/asmenys/Povilas (Vilniaus vyskupas)]]

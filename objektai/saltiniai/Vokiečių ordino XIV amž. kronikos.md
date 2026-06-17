@@ -21,6 +21,8 @@ Kronikos nuolat mini per karus didelius skaičius iš lietuvių sodybų pagrobia
 - t-001
   global_id: t-31969
   teiginys: 'Vokiečių ordino XIV a. kronikos mini per karus iš lietuvių sodybų pagrobtus didelius arklių ir raguočių skaičius.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
   pagrindžia:
     - c-001
 

@@ -20,7 +20,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Henrikas fon Plauenas pasirengė Ordino tvirtovės apsiausčiai ir ją apgynė.
+Naujasis magistras Henrikas fon Plauenas spėjo pasirengti ir apsigynė.
 
 ## Teiginiai
 
@@ -28,9 +28,14 @@ Henrikas fon Plauenas pasirengė Ordino tvirtovės apsiausčiai ir ją apgynė.
 - t-001
   global_id: t-40136
   teiginys: 'Henrikas fon Plauenas pasirengė Ordino tvirtovės apsiausčiai ir ją apgynė.'
+  sudarymo_pagrindimas: 'Pradiniame teiginyje neaišku, kam pasirengta ir nuo ko apsiginta.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/apsiaustis|apsiaustis]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]'
+  temporaliniai_duomenys: 'įvykio data: 1411 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradiniame teiginyje neaišku, kam pasirengta ir nuo ko apsiginta.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/zodynas/apsiaustis.md#claim-t-38742|apsiaustis]]: Pavėluota Marienburgo, Ordino sostinės ir tvirtovės, apsiaustis nedavė rezultatų.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -47,8 +52,3 @@ Henrikas fon Plauenas pasirengė Ordino tvirtovės apsiausčiai ir ją apgynė.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/apsiaustis]]
-- [[objektai/zodynas/magistras]]

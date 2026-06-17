@@ -21,6 +21,8 @@ Po to jų didenybėms: kunigaikščiui Jonui Jurgiui, Brandenburgo grafui, kurfi
 - t-001
   global_id: t-87722
   teiginys: 'Jonui Jurgiui, Brandenburgo kurfiurstui, turėjo būti duoti du geri žirgai ir prašyta globoti paskutinę valią.'
+  sudarymo_pagrindimas: 'Pradinis teiginys fragmentiškas; citata remia dovaną ir prašymą dėl testamento globos.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
 
@@ -53,7 +55,3 @@ Po to jų didenybėms: kunigaikščiui Jonui Jurgiui, Brandenburgo grafui, kurfi
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Žirgai]]

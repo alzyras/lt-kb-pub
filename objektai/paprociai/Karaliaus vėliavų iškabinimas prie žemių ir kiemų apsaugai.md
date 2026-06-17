@@ -42,6 +42,9 @@ Nenurodyta
 - t-001
   global_id: t-62677
   teiginys: 'Karalius įteikė savo vėliavas, kad jos būtų iškabintos prie žemių ir kiemų kaip apsauga nuo skriaudos.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pradinis teiginys turi neaiškų įvardį ir puslapio nuorodos triukšmą; citata palaiko aiškų faktą.'
+  susije_objektai: 'mentioned_place: Semba'
   pagrindžia:
     - c-001
     - c-002
@@ -86,11 +89,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/žygis]]
-- [[objektai/asmenys/Gedūnas]]
-- [[objektai/posakiai/Pakanka, eik kur tinkamas ir pasieksi, ko nori]]
-- [[objektai/asmenys/Ringėlas]]
-- [[objektai/zodynas/kiemai habitaciones curia]]

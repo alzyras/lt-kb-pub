@@ -30,6 +30,8 @@ Iš lenkiškų ir lotyniškų spaustuvių, be aukščiau paminėtos Radvilų, o 
 - t-001
   global_id: t-87750
   teiginys: 'Apie 1580 metus Vilniuje klestėjo Kasparo Vilkovskio spaustuvė, spausdinusi knygas evangelikams ir katalikams.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir paremtas citata apie Vilkovskio spaustuvę.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kaštelionas|kaštelionas]]; mentioned_person: [[objektai/asmenys/Hlebavičius (Vilniaus vaivada ir karaliaus kancleris)|Hlebavičius (Vilniaus vaivada ir karaliaus kancleris)]]; mentioned_place: Minskas; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -56,8 +58,3 @@ Iš lenkiškų ir lotyniškų spaustuvių, be aukščiau paminėtos Radvilų, o 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/kaštelionas]]
-- [[objektai/grupes/Evangelikai reformatai Vilniuje]]

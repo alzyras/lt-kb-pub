@@ -23,6 +23,8 @@ Pagaliau garantavo Vilniui pelną nuo vadinamosios šinkorystės, arba vyno, mid
 - t-001
   global_id: t-86561
   teiginys: 'Žygimantas garantavo Vilniui pajamas iš šinkorystės, apėmusios vyno, midaus ir alaus smukles.'
+  sudarymo_pagrindimas: 'Citata palaiko faktą, bet sakinį reikia sutrumpinti ir išvalyti nuo OCR triukšmo.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vaškas|Vaškas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -49,12 +51,3 @@ Pagaliau garantavo Vilniui pelną nuo vadinamosios šinkorystės, arba vyno, mid
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/socialinė-praktika]]
-
-### Susiję objektai
-- [[objektai/daiktai/Vaškas]]
-- [[objektai/asmenys/Švitrigaila]]
-- [[objektai/asmenys/Žygimantas]]

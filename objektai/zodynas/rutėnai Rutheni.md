@@ -28,6 +28,11 @@ Dusburgietis teigia, kad 466 Rutheni minimi ir kitose D. Dusburgietis teigia, ka
 - t-001
   global_id: t-58831
   teiginys: 'Istorijos šaltiniuose rutėnais dažnai vadinti Baltijos jūros pietinės pakrantės ir Riugeno salos gyventojai.'
+  sudarymo_pagrindimas: 'Teiginys yra taisyklingas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/Sakso Gramatiko|Sakso Gramatiko]]; mentioned_place: Baltija; mentioned_place: Salos'
+  temporaliniai_duomenys: 'įvykio data: 1216 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra taisyklingas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-002
 
@@ -35,6 +40,7 @@ Dusburgietis teigia, kad 466 Rutheni minimi ir kitose D. Dusburgietis teigia, ka
 - t-002
   global_id: t-58833
   teiginys: 'Rutėnai nutraukė pilies apgulą sužinoję, kad apsiaustieji maitinasi žuvimis iš pilyje buvusio tvenkinio.'
+  sudarymo_pagrindimas: 'Fragmentas perrašytas į pilną sakinį su aiškiu veiksmu ir priežastimi.'
   pagrindžia:
     - c-001
 
@@ -72,7 +78,3 @@ Dusburgietis teigia, kad 466 Rutheni minimi ir kitose D. Dusburgietis teigia, ka
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/Sakso Gramatiko]]

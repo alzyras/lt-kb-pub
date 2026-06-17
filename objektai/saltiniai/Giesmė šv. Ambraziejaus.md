@@ -26,6 +26,11 @@ Dusburgietis teigia, kad mažvydas rašė Ragainė (1549 m.— „Giesmė šv.
 - t-001
   global_id: t-61074
   teiginys: 'M. Mažvydas 1549 m. Ragainėje lietuviškai parašė „Giesmę šv. Ambraziejaus“.'
+  sudarymo_pagrindimas: 'Citata palaiko taisyklingą sakinį apie kūrinio autorių, vietą, datą ir kalbą.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/Martynas Mažvydas Vaitkūnas|Martynas Mažvydas Vaitkūnas]]; mentioned_place: Ragainė'
+  temporaliniai_duomenys: 'įvykio data: 1549 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko taisyklingą sakinį apie kūrinio autorių, vietą, datą ir kalbą.'
   pagrindžia:
     - c-001
 

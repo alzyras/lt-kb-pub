@@ -3,10 +3,16 @@ tipas: ivykis
 pavadinimas: 'Stambiųjų Lietuvos bankų griūtis ir moratoriumas dviem komerciniams bankams (1995 m. pabaiga)'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1995 m.'
+date_start: '1995'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
+amziai:
+  - 'XX'
 ---
 # Stambiųjų Lietuvos bankų griūtis ir moratoriumas dviem komerciniams bankams (1995 m. pabaiga)
 
@@ -36,6 +42,11 @@ Nenurodyta
 - t-001
   global_id: t-66908
   teiginys: '1995 m. pabaigos bankų krizė sustiprino Lietuvos bankų sektorių, sumažino blogų paskolų portfelį ir sustiprino bankų priežiūrą.'
+  sudarymo_pagrindimas: 'Pradinė formuluotė yra gramatiškai nebaigta, citata leidžia suformuluoti aiškų sakinį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Moratoriumas|Moratoriumas]]; mentioned_place: Europa; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1995 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinė formuluotė yra gramatiškai nebaigta, citata leidžia suformuluoti aiškų sakinį.'
   pagrindžia:
     - c-001
 
@@ -59,7 +70,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Moratoriumas]]

@@ -27,6 +27,11 @@ Dusburgietis teigia, kad pakarklis P.
 - t-001
   global_id: t-61212
   teiginys: 'P. Pakarklio „Lietuvių kova prieš kalavijuočius“ išleistas Panevėžyje 1945 m.'
+  sudarymo_pagrindimas: 'Citata pateikia aiškų bibliografinį faktą apie leidinio vietą ir metus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
+  temporaliniai_duomenys: 'įvykio data: 1945 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pateikia aiškų bibliografinį faktą apie leidinio vietą ir metus.'
   pagrindžia:
     - c-001
 

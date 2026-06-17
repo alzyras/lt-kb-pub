@@ -22,9 +22,13 @@ Dusburgietis teigia, kad apie Baigos pilies apgulą Kai žinia apie šiuos įvyk
 - t-001
   global_id: t-60409
   teiginys: 'Varmių vadas Pijopas sutelkė kariuomenę ir apsiautė Baigos pilį, bet prie pilies buvo pervertas strėle ir žuvo.'
+  sudarymo_pagrindimas: 'Citata palaiko konkretų veiksmą ir rezultatą; pašalintas antraštės triukšmas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Varmiai|Varmiai]]; mentioned_place: Baiga'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/grupes/Varmiai.md#claim-t-78539|Varmiai]]: Varmių vadas Pijopas su savo kariuomene apsiautė Baigos pilį, bet prie pilies buvo pervertas brolio strėle ir žuvo.
+- susijęs iš [[objektai/ivykiai/Baigos pilies apgula ir Pijopo žūtis.md#claim-t-62202|Baigos pilies apgula ir Pijopo žūtis (pilis)]]: Varmių vadas Pijopas su kariuomene apsiautė Baigos pilį, bet priartėjęs prie jos buvo pervertas brolio strėle ir žuvo.
+- susijęs iš Baiga: Varmių vadas Pijopas apsiautė Baigos pilį, bet žuvo prie jos pervertas vieno brolio strėle.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -48,8 +52,3 @@ Dusburgietis teigia, kad apie Baigos pilies apgulą Kai žinia apie šiuos įvyk
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Varmiai]]
-- [[objektai/ivykiai/Baigos pilies apgula ir Pijopo žūtis|Baigos pilies apgula ir Pijopo žūtis (pilis)]]

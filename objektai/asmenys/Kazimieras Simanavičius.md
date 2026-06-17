@@ -20,6 +20,8 @@ Simanavičius pirmasis aptarė daugiapakopės raketos idėją ir raketinės arti
 - t-001
   global_id: t-39577
   teiginys: 'Kazimieras Simanavičius pirmasis aptarė daugiapakopės raketos ir raketinės artilerijos idėjas.'
+  sudarymo_pagrindimas: 'Išplėstas vardas ir sutvarkyta formuluotė, išlaikant citatos faktą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/daiktai/Daugiapakopės raketos|Daugiapakopės raketos]]; mentioned_place: Europa'
   pagrindžia:
     - c-001
 
@@ -40,8 +42,3 @@ Simanavičius pirmasis aptarė daugiapakopės raketos idėją ir raketinės arti
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Artilerija]]
-- [[objektai/daiktai/Daugiapakopės raketos]]

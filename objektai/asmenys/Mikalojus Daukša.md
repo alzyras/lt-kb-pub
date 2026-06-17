@@ -3,15 +3,9 @@ tipas: asmuo
 pavadinimas: 'Mikalojus Daukša'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-datos:
-  - '1595 m.'
-  - '1599 m.'
-date_start: '1595'
-date_end: '1599'
-aliases:
-  - 'objektai/autoriai/Mikalojus Daukša'
-variantai:
-  - 'Mikalojus Daukša'
+datos: []
+date_start: ''
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -20,9 +14,8 @@ tags:
   - valstybė
   - žemėlapis
 amziai:
-  - 'XVI'
-periodo_grupes:
-  - 'LDK'
+  - 'D'
+periodo_grupes: []
 ---
 # Mikalojus Daukša
 
@@ -36,9 +29,14 @@ periodo_grupes:
 - t-001
   global_id: t-78026
   teiginys: 'Daukšos lietuviakalbė programa nebuvo įgyvendinta.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
+  temporaliniai_duomenys: 'įvykio data: 1646 m.; įvykio data: 1737 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/posakiai/„Kurgi, sakau, pasaulyje yra tauta...“.md#claim-t-26647|„Kurgi, sakau, pasaulyje yra tauta...“]]: Mikalojus Daukša tėvų žemę, papročius ir kalbą vadino trimis tautai savais ir tarsi įgimtais dalykais.
+- susijęs iš [[objektai/posakiai/„Kurgi, sakau, pasaulyje yra tauta...“.md#claim-t-67311|„Kurgi, sakau, pasaulyje yra tauta...“]]: Posakiu „Kurgi, sakau, pasaulyje yra tauta...“ Mikalojus Daukša pabrėžė tėvų žemę, papročius ir kalbą kaip savus tautos dalykus.
+- susijęs iš M. Daukšos Postilė: 1599 m. Mikalojus Daukša išleido „Postilę“, kurios pratarmėje ragino Lietuvos visuomenę kurti raštiją lietuvių kalba.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -54,11 +52,3 @@ periodo_grupes:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/žemėlapis]]
-
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/posakiai/„Kurgi, sakau, pasaulyje yra tauta...“]]

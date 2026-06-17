@@ -10,7 +10,7 @@ atnaujinta: ''
 
 ## Santrauka
 
-Lietuvos metraštis pasakoja, kad jiems buvo įkurtas vienuolynas Smėlynėje prie Vingrių. Lietuvos metraštis šį vienuolyną pateikia kaip pirmą krikščionišką Romos tikėjimo vienuolyną Vilniuje. Petras Goštautas po žudynių, anot šaltinio, atsivedė kitus pranciškonus.
+Petras Goštautas po žudynių, anot šaltinio, atsivedė kitus pranciškonus. Lietuvos metraštis pasakoja, kad jiems buvo įkurtas vienuolynas Smėlynėje prie Vingrių.
 
 ## Laikotarpis ir datos
 
@@ -35,7 +35,10 @@ Nenurodyta
 <a id="claim-t-186571"></a>
 - t-001
   global_id: t-186571
-  teiginys: 'Lietuvos metraštis pasakoja, kad jiems buvo įkurtas vienuolynas Smėlynėje prie Vingrių.'
+  teiginys: 'Lietuvos metraštis pasakoja, kad Petras Goštautas pranciškonams įkūrė vienuolyną Smėlynėje prie Vingrių.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Pašalintas neaiškus įvardis ir įvardytas veikėjas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_person: [[objektai/asmenys/Petras Goštautas|Petras Goštautas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -43,13 +46,19 @@ Nenurodyta
 - t-002
   global_id: t-186572
   teiginys: 'Lietuvos metraštis šį vienuolyną pateikia kaip pirmą krikščionišką Romos tikėjimo vienuolyną Vilniuje.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Sakinys pilnas ir tinkamai atribuuoja religinį bei pirmumo vertinimą šaltiniui.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_person: [[objektai/asmenys/Petras Goštautas|Petras Goštautas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
 <a id="claim-t-186573"></a>
 - t-003
   global_id: t-186573
-  teiginys: 'Petras Goštautas po žudynių, anot šaltinio, atsivedė kitus pranciškonus.'
+  teiginys: 'Lietuvos metraštis pasakoja, kad po pranciškonų nužudymo Petras Goštautas atsivedė į Vilnių kitus pranciškonus.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Išplėsta neaiški nuoroda „po žudynių“ ir įvardytas veiksmo objektas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_person: [[objektai/asmenys/Petras Goštautas|Petras Goštautas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -79,9 +88,3 @@ Nenurodyta
     - t-003
     - t-001
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]]
-- [[objektai/asmenys/Petras Goštautas]]
-- [[objektai/zodynas/metraštis]]

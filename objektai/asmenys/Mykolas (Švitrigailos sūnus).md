@@ -28,6 +28,9 @@ periodo_grupes:
 - t-001
   global_id: t-87798
   teiginys: 'Kunigaikštis Mykolas, Švitrigailos sūnus ir bendrininkas, mirė nunuodytas tremtyje Maskvoje ir buvo palaidotas Vilniaus katedroje.'
+  sudarymo_pagrindimas: 'Pradinis claimas buvo apie Švitrigailą; citata palaiko atskirą faktą apie jo sūnų Mykolą.'
+  susije_objektai: 'location: Maskva; location: Vilnius; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Maskva; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Mykolas (Švitrigailos sūnus)|Mykolas (Švitrigailos sūnus)]] mirė Maskva; [[objektai/asmenys/Mykolas (Švitrigailos sūnus)|Mykolas (Švitrigailos sūnus)]] mirė Vilnius'
   pagrindžia:
     - c-001
 
@@ -53,6 +56,5 @@ periodo_grupes:
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Kūnas]]
-- [[objektai/asmenys/Švitrigaila]]
+- Mykolas (Švitrigailos sūnus) mire [[objektai/vietos/Maskva]]
+- Mykolas (Švitrigailos sūnus) mire [[objektai/vietos/Vilnius]]

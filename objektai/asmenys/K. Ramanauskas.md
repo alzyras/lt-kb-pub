@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Mjr. K. Ramanausko grupė turėjo iš Beržininko žygiuoti per Gibus ir Seinus prie Augustavo esančio Kaleitų ežero link.
+Ramanausko grupė (2-ojo pulko batalionas) iš Beržininko žygiuoti per Gibus ir Seinus prie Augustavo esančio Kaleitų ežero link, mjr.
 
 ## Teiginiai
 
@@ -21,6 +21,8 @@ Mjr. K. Ramanausko grupė turėjo iš Beržininko žygiuoti per Gibus ir Seinus 
 - t-001
   global_id: t-40252
   teiginys: 'Mjr. K. Ramanausko grupė turėjo iš Beržininko žygiuoti per Gibus ir Seinus prie Augustavo esančio Kaleitų ežero link.'
+  sudarymo_pagrindimas: 'Pradinė formuluotė buvo negrabiai sudėta; citata leidžia ją patikslinti.'
+  susije_objektai: 'mentioned_place: Augustavas; mentioned_place: Seinai; mentioned_place: Vokietija'
   pagrindžia:
     - c-001
 
@@ -47,7 +49,3 @@ Mjr. K. Ramanausko grupė turėjo iš Beržininko žygiuoti per Gibus ir Seinus 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/ežeras]]

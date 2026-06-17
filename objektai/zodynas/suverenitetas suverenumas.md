@@ -5,6 +5,7 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1923 m.'
+  - '1988 m.'
   - '1989 m.'
 date_start: '1923'
 date_end: '1989'
@@ -22,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-Pirmuoju sutarties straipsniu Rusija visiems laikams atsisakė teisių į Lietuvą ir pripažino jos nepriklausomybę bei suverenumą. Maskva patvirtino, kad Lietuva turi suverenias teises į Vilnių, kol neatsisakys suverenumo Lenkijos naudai. LPS reikalaujant, 1989 m. gegužės 18 d. priimtos konstitucinės pataisos, skelbiančios Lietuvos įstatymų viršenybę SSRS įstatymų atžvilgiu, ir deklaracija dėl Lietuvos SSR valstybinio suvereniteto.
+Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo nacijos laisvės ir suverenumo simboliu, Lietuvos Nepriklausomybės diena, davė pradžią tikrai Lietuvos nepriklausomybei, pagaliau aiškiai pasakant, kur Taryba veda Lietuvą. Lietuviai atsigriebė 1 sutarties straipsnyje – juo Rusija visiems laikams atsisakė teisių į Lietuvą ir pripažino jos nepriklausomybę ir suverenumą. Pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“.
 
 ## Teiginiai
 
@@ -30,6 +31,8 @@ Pirmuoju sutarties straipsniu Rusija visiems laikams atsisakė teisių į Lietuv
 - t-001
   global_id: t-104204
   teiginys: 'Pirmuoju sutarties straipsniu Rusija visiems laikams atsisakė teisių į Lietuvą ir pripažino jos nepriklausomybę bei suverenumą.'
+  sudarymo_pagrindimas: 'Reikia pašalinti šnekamą vertinamą formuluotę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Rusija'
   pagrindžia:
     - c-001
 
@@ -37,6 +40,11 @@ Pirmuoju sutarties straipsniu Rusija visiems laikams atsisakė teisių į Lietuv
 - t-002
   global_id: t-104205
   teiginys: 'Maskva patvirtino, kad Lietuva turi suverenias teises į Vilnių, kol neatsisakys suverenumo Lenkijos naudai.'
+  sudarymo_pagrindimas: 'Perrašyta taip, kad sakinys aiškiau sietųsi su suverenitetu ir pašalintų perteklinį sutarties kontekstą.'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1923 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Perrašyta taip, kad sakinys aiškiau sietųsi su suverenitetu ir pašalintų perteklinį sutarties kontekstą.'
   pagrindžia:
     - c-002
 
@@ -44,6 +52,11 @@ Pirmuoju sutarties straipsniu Rusija visiems laikams atsisakė teisių į Lietuv
 - t-003
   global_id: t-104206
   teiginys: 'LPS reikalaujant, 1989 m. gegužės 18 d. priimtos konstitucinės pataisos, skelbiančios Lietuvos įstatymų viršenybę SSRS įstatymų atžvilgiu, ir deklaracija dėl Lietuvos SSR valstybinio suvereniteto.'
+  sudarymo_pagrindimas: 'Sakinys aiškus ir tiesiogiai susijęs su valstybiniu suverenitetu.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Suverenitetas|Suverenitetas]]; mentioned_object: [[objektai/zodynas/konstitucijos|konstitucijos]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Aukščiausiosios Tarybos rūmai; mentioned_place: Lietuva; mentioned_place: SSRS'
+  temporaliniai_duomenys: 'įvykio data: po 1988 m.; įvykio data: 1988 m.; įvykio data: 1989 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Sakinys aiškus ir tiesiogiai susijęs su valstybiniu suverenitetu.'
   pagrindžia:
     - c-005
 
@@ -51,6 +64,8 @@ Pirmuoju sutarties straipsniu Rusija visiems laikams atsisakė teisių į Lietuv
 - t-004
   global_id: t-104207
   teiginys: 'Vasario 16 Aktas tapo lietuvių nacijos laisvės ir suverenumo simboliu ir davė pradžią tikrai Lietuvos nepriklausomybei.'
+  sudarymo_pagrindimas: 'Sakinys gramatiškas ir paremtas citata apie suverenumo simbolį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 
@@ -58,6 +73,8 @@ Pirmuoju sutarties straipsniu Rusija visiems laikams atsisakė teisių į Lietuv
 - t-005
   global_id: t-104208
   teiginys: 'Suverenumo sąvoka pamažu keitėsi, tačiau politinės sistemos keitimas dar neminėtas, o tautiniu klausimu pasisakyta atsargiai.'
+  sudarymo_pagrindimas: 'Pradinis teiginys faktinis, bet „kol kas“ paliko kontekstinį neapibrėžtumą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_object: [[objektai/zodynas/savarankiškumas|savarankiškumas]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_person: [[objektai/asmenys/Eduardas Vilkas|Eduardas Vilkas]]; mentioned_place: Lietuva; mentioned_place: SSRS'
   pagrindžia:
     - c-004
 
@@ -65,6 +82,11 @@ Pirmuoju sutarties straipsniu Rusija visiems laikams atsisakė teisių į Lietuv
 - t-007
   global_id: t-183470
   teiginys: 'Pradiniame Sąjūdžio etape pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Sakinys pilnas ir paremtas citata apie suverenumo šūkį Sąjūdžio pradžioje.'
+  susije_objektai: 'mentioned_object: [[objektai/posakiai/„Viešumas, demokratija, suverenumas“|„Viešumas, demokratija, suverenumas“]]; mentioned_place: Lietuva; mentioned_place: Maskva'
   pagrindžia:
     - c-007
 
@@ -216,26 +238,3 @@ Pirmuoju sutarties straipsniu Rusija visiems laikams atsisakė teisių į Lietuv
   statusas: verified
   pagrindžia:
     - t-008
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/asmenys/Antanas (vaistininkas)]]
-- [[objektai/asmenys/Eduardas Vilkas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
-- [[objektai/zodynas/Suverenitetas]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/zodynas/konstitucijos]]
-- [[objektai/zodynas/Miera|miera]]
-- [[objektai/zodynas/savarankiškumas]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/posakiai/„Viešumas, demokratija, suverenumas“]]
-- [[objektai/asmenys/Adolfas Jofė]]
-- [[objektai/asmenys/Antanas Buračas]]
-- [[objektai/asmenys/Kazimiera Prunskienė]]
-- [[objektai/asmenys/Kazimieras Antanavičius]]
-- [[objektai/grupes/Lietuvos SSR Aukščiausioji Taryba]]
-- [[objektai/ivykiai/Lietuvos konstitucinės pataisos ir suvereniteto deklaracija (1989 m. gegužės 18 d.)]]
-- [[objektai/zodynas/suverenumas suverenitetas]]

@@ -26,6 +26,11 @@ Taube, M.
 - t-001
   global_id: t-31934
   teiginys: 'M. Taube ir F. Klymenko darbas „Die Urkunden Mindowes für den livländischen Orden“ paskelbtas AF VI tome 1929 m., p. 201-255.'
+  sudarymo_pagrindimas: 'Citata pateikia autorius ir publikavimo duomenis; pradinė pretenzija per trumpa.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
+  temporaliniai_duomenys: 'įvykio data: 1929 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pateikia autorius ir publikavimo duomenis; pradinė pretenzija per trumpa.'
   pagrindžia:
     - c-001
 

@@ -20,6 +20,8 @@ Be to, Kauno IX forte sušaudyti apie 6–8 tūkst.
 - t-001
   global_id: t-21476
   teiginys: 'Kauno IX forte sušaudyta apie 6–8 tūkst. žydų, atvežtų iš Austrijos, Vokietijos, Čekoslovakijos ir Prancūzijos.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai pagrįstas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Prancūzija; mentioned_place: SSRS; mentioned_place: Vilnius; mentioned_place: Čekoslovakija'
   pagrindžia:
     - c-001
 

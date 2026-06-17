@@ -29,9 +29,12 @@ Jonas III-sis, rusų žemių rinkėjas («sobiratel’ russkich žemeli»), įsi
 - t-001
   global_id: t-30614
   teiginys: 'Eleazaro vienuolyno vienuolis Filotiejus laiške Vosyliui III rašė apie Maskvą kaip trečiąją Romą.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus ir paremtas citatos pastaba apie Filotiejaus laišką.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Romai|Romai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Lietuva; mentioned_place: Maskva'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/paprociai/Imperatoriaus dvaro ceremonialo perėmimas.md#claim-t-28918|Imperatoriaus dvaro ceremonialo perėmimas]]: Jonas III, laikydamas save žlugusios Bizantijos paveldėtoju, perėmė jos dvigalvį erelį bei imperatoriaus dvaro ceremonialą ir savinosi caro titulą.
+- susijęs iš [[objektai/posakiai/sobiratel’ russkich žemeli.md#claim-t-100003|sobiratel’ russkich žemeli]]: Jonas III buvo vadinamas rusų žemių rinkėju, „sobiratel’ russkich žemeli“.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -53,10 +56,3 @@ Jonas III-sis, rusų žemių rinkėjas («sobiratel’ russkich žemeli»), įsi
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Romai]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/paprociai/Imperatoriaus dvaro ceremonialo perėmimas]]
-- [[objektai/posakiai/sobiratel’ russkich žemeli]]

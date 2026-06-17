@@ -30,6 +30,12 @@ Nenurodyta
 - t-001
   global_id: t-185678
   teiginys: 'Lietuvos ir Maskvos paliaubų pasiuntinybei vadovavo Petras Miškovskis, Stanislovas Glebavičius, Vaitiekus Kločka ir Jonas Sapiega.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'event: [[objektai/ivykiai/Šešerių metų paliaubos tarp Lietuvos ir Maskvos|Šešerių metų paliaubos tarp Lietuvos ir Maskvos]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Stanislovas|Stanislovas]]; mentioned_person: [[objektai/asmenys/Vaitiekus (Lucko vyskupas)|Vaitiekus (Lucko vyskupas)]]; mentioned_place: Lenčica; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Maskva'
+  semantiniai_rysiai: '[[objektai/asmenys/Jonas|Jonas]] dalyvavo mūšyje [[objektai/ivykiai/Šešerių metų paliaubos tarp Lietuvos ir Maskvos|Šešerių metų paliaubos tarp Lietuvos ir Maskvos]]; [[objektai/asmenys/Stanislovas|Stanislovas]] dalyvavo mūšyje [[objektai/ivykiai/Šešerių metų paliaubos tarp Lietuvos ir Maskvos|Šešerių metų paliaubos tarp Lietuvos ir Maskvos]]; [[objektai/asmenys/Vaitiekus (Lucko vyskupas)|Vaitiekus (Lucko vyskupas)]] dalyvavo mūšyje [[objektai/ivykiai/Šešerių metų paliaubos tarp Lietuvos ir Maskvos|Šešerių metų paliaubos tarp Lietuvos ir Maskvos]]'
   pagrindžia:
     - c-001
 
@@ -37,6 +43,11 @@ Nenurodyta
 - t-002
   global_id: t-185679
   teiginys: 'Lietuvos pasiuntiniams buvo nurodyta siekti, kad Maskvos valdovas atstatytų pilis, grąžintų belaisvius bei perbėgėlius ir įtrauktų Livonijos magistrą į sutartį.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata remia nurodytas sąlygas, o pradinis teiginys sugadintas puslapio ir antraštės triukšmo.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Viena'
   pagrindžia:
     - c-002
 
@@ -44,6 +55,11 @@ Nenurodyta
 - t-003
   global_id: t-185680
   teiginys: 'Lietuva ir Maskva sutarė paliaubų metu derėtis dėl amžinos taikos.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis teiginys gramatiškas, bet turi boilerplate; citata palaiko aiškesnį sakinį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Krokuva; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Naugardas; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 
@@ -128,8 +144,6 @@ Nenurodyta
     - t-003
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Jonas]]
-- [[objektai/asmenys/Stanislovas]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/asmenys/Vaitiekus (Lucko vyskupas)]]
+- [[objektai/asmenys/Jonas]] dalyvavo_musyje Šešerių metų paliaubos tarp Lietuvos ir Maskvos
+- [[objektai/asmenys/Stanislovas]] dalyvavo_musyje Šešerių metų paliaubos tarp Lietuvos ir Maskvos
+- [[objektai/asmenys/Vaitiekus (Lucko vyskupas)]] dalyvavo_musyje Šešerių metų paliaubos tarp Lietuvos ir Maskvos

@@ -5,7 +5,9 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1794 m.'
+  - '1805 m.'
   - '1806 m.'
+  - '1918 m.'
   - '1922 m.'
 date_start: '1794'
 date_end: '1922'
@@ -24,7 +26,7 @@ amziai:
 
 ## Santrauka
 
-Kultūrinė autonomija krašte apėmė lenkų kalbos vartojimą administracijoje, teismuose, švietimo sistemoje ir Vilniaus universitete. Paryžiaus taikos konferencijoje lietuviai žydams prižadėjo plačiausią kultūrinę autonomiją. Kultūrinė autonomija krašte apėmė Lietuvos Statuto galiojimą ir lenkų kalbos vartojimą savivaldoje, administracijoje, teismuose bei švietime.
+Žodžiu, kraštas įgijo kultūrinę autonomiją. Lietuviai nepuoselėjo antisemitizmo ir žydų asimiliacijos planų, o žydams Paryžiaus taikos konferencijoje prižadėjo viską, ko tie tiktai prašė, visų pirma plačiausią kultūrinę autonomiją. Tačiau Vilniaus praradimas susilpnino lietuvių pažadus, o svarstant 1922 m. konstituciją partijos pritarė tautinių mažumų kultūrinei autonomijai, suteikė mažumoms lygias teises, tačiau privilegijų neteikė, kad.
 
 ## Teiginiai
 
@@ -32,6 +34,8 @@ Kultūrinė autonomija krašte apėmė lenkų kalbos vartojimą administracijoje
 - t-001
   global_id: t-169914
   teiginys: 'Kultūrinė autonomija krašte apėmė lenkų kalbos vartojimą administracijoje, teismuose, švietimo sistemoje ir Vilniaus universitete.'
+  sudarymo_pagrindimas: 'Pradinis sakinys buvo per trumpas ir kontekstinis; citata pagrindžia konkretesnį apibūdinimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -39,6 +43,11 @@ Kultūrinė autonomija krašte apėmė lenkų kalbos vartojimą administracijoje
 - t-002
   global_id: t-169916
   teiginys: 'Paryžiaus taikos konferencijoje lietuviai žydams prižadėjo plačiausią kultūrinę autonomiją.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas, konkretus ir paremtas citatos informacija apie Paryžiaus taikos konferenciją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/Antisemitizmas|Antisemitizmas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)|Jokūbas (vėliau Urbonas IV)]]; mentioned_person: [[objektai/asmenys/S. Rozenbaumas|S. Rozenbaumas]]; mentioned_place: Lietuva; mentioned_place: Paryžius'
+  temporaliniai_duomenys: 'įvykio data: 1918 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas, konkretus ir paremtas citatos informacija apie Paryžiaus taikos konferenciją.'
   pagrindžia:
     - c-001
 
@@ -46,9 +55,22 @@ Kultūrinė autonomija krašte apėmė lenkų kalbos vartojimą administracijoje
 - t-003
   global_id: t-183439
   teiginys: 'Kultūrinė autonomija krašte apėmė Lietuvos Statuto galiojimą ir lenkų kalbos vartojimą savivaldoje, administracijoje, teismuose bei švietime.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis sakinys buvo kontekstinis; citata leidžia išvardyti konkrečius autonomijos požymius.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_object: [[objektai/zodynas/statutas|statutas]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1794 m.; įvykio data: 1805-1806; įvykio data: 1806 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis sakinys buvo kontekstinis; citata leidžia išvardyti konkrečius autonomijos požymius.'
   pagrindžia:
     - c-003
-
+- susijęs iš Abiejų Tautų tarpusavio įžadas: Turinyje „Gegužės trečiosios konstitucija ir Abiejų Tautų tarpusavio įžadas“ nurodytas 91 puslapyje.
+- susijęs iš [[objektai/zodynas/autokratinė monarchinė imperija.md#claim-t-45782|autokratinė monarchinė imperija]]: Vietiniame Rusijos imperijos valdyme gubernijai vadovavo caro skiriamas, vidaus reikalų žinybai pavaldus gubernatorius.
+- susijęs iš [[objektai/zodynas/autokratinė monarchinė imperija.md#claim-t-45783|autokratinė monarchinė imperija]]: Vietiniame Rusijos imperijos valdyme gubernijai vadovavo caro skiriamas, vidaus reikalų žinybai pavaldus gubernatorius.
+- susijęs iš [[objektai/zodynas/autokratinė monarchinė imperija.md#claim-t-45785|autokratinė monarchinė imperija]]: LDK teritorijų prijungimas prie Rusijos reiškė patekimą į autokratinės monarchinės imperijos valdžią.
+- susijęs iš [[objektai/zodynas/gubernija apskritis (ujezd).md#claim-t-22157|gubernija apskritis (ujezd)]]: Rusijos imperijos vietinio valdymo grandyje gubernijas valdė caro skiriami gubernatoriai, o gubernijos buvo skirstomos į apskritis.
+- susijęs iš [[objektai/zodynas/gubernija.md#claim-t-22159|gubernija]]: Vietinio valdymo grandyje buvo gubernija, kurios galva – caro skiriamas, bet vidaus reikalų žinybai pavaldus gubernatorius, atsiunčiamas iš centro arba kitų gubernijų.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -107,20 +129,3 @@ Kultūrinė autonomija krašte apėmė lenkų kalbos vartojimą administracijoje
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Antisemitizmas]]
-- [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Lotynai]]
-- [[objektai/asmenys/Mykolas]]
-- [[objektai/asmenys/S. Rozenbaumas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Žydai]]
-- [[objektai/zodynas/autokratinė monarchinė imperija]]
-- [[objektai/zodynas/gubernija]]
-- [[objektai/zodynas/gubernija apskritis (ujezd)]]
-- [[objektai/zodynas/statutas]]
-- [[objektai/ivykiai/Žydų atstovų įėjimas į Lietuvos vyriausybę (1918 m. gruodis)]]

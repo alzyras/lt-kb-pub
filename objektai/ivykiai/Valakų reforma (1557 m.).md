@@ -43,9 +43,12 @@ Nenurodyta
 - t-001
   global_id: t-31479
   teiginys: '1557 m. pradėta Valakų reforma Lietuvoje įvedė visuotinę trilaukio ūkio sistemą ir skatino lydimosios žemdirbystės nykimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Valakai|Valakai]]; mentioned_object: [[objektai/paprociai/Lydimoji žemdirbystė|Lydimoji žemdirbystė]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1557 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/paprociai/Trilaukio ūkio sistema.md#claim-t-31536|Trilaukio ūkio sistema]]: 1557 m. valakų reforma Lietuvoje įvedė visuotinę trilaukio ūkio sistemą su vieneriems metams paliekamu pūdymu.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -66,9 +69,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/paprociai/Lydimoji žemdirbystė]]
-- [[objektai/grupes/Valakai]]
-- [[objektai/paprociai/Trilaukio ūkio sistema]]

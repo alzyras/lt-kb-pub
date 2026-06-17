@@ -18,6 +18,11 @@ Andriejus Šemiačičius kartu su Jakovu Zachariničiumi ir Andrejumi Možaiskiu
 - t-001
   global_id: t-186177
   teiginys: 'Andriejus Šemiačičius kartu su Jakovu Zachariničiumi ir Andrejumi Možaiskiu vedė priešo pajėgas į Severską.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata palaiko faktą apie Andriejaus Šemiačičiaus vaidmenį žygyje.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Andriejus|Andriejus]]; mentioned_place: Severskas'
   pagrindžia:
     - c-001
 
@@ -47,8 +52,3 @@ Andriejus Šemiačičius kartu su Jakovu Zachariničiumi ir Andrejumi Možaiskiu
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Pilys]]
-- [[objektai/zodynas/žygis]]

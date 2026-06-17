@@ -21,9 +21,11 @@ Brastoje (pirmos žmonos Marijos Praksėdos atminimui), Volkoviske, Visoko Litev
 - t-001
   global_id: t-36429
   teiginys: 'Vytautas pastatė bažnyčią Naugardėlyje.'
+  sudarymo_pagrindimas: 'Teiginys glaustai perteikia citatoje nurodytą faktą apie Naugardėlį.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Brasta; mentioned_place: Veliuona'
   pagrindžia:
     - c-001
-
+- susijęs iš Gardinas: Vytautas dominikonus parėmė donacijomis Gardine, Lucke ir Naugardėlyje.
 ## Reikšmingi paminėjimai
 
 - c-001

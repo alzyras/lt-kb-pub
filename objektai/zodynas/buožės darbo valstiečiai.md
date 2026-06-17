@@ -22,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-1949 m. režimui keliant žemės mokesčius ir pyliavų normas, daugiau kaip pusė Lietuvos valstiečių įsiskolino valstybei už pieną ir mėsą. 1949 m. daugiau kaip pusė Lietuvos valstiečių įsiskolino valstybei už pieną ir mėsą, o tokių ūkių savininkai buvo nuteisti.
+Režimui sąmoningai keliant žemės mokesčius valstiečiams, didinant pyliavų normas, 1949 m. daugiau kaip pusė visų Lietuvos valstiečių įsiskolino valstybei už pieną ir mėsą, tokie ūkiai aprašyti, o jų savininkai nuteisti.
 
 ## Teiginiai
 
@@ -30,6 +30,11 @@ amziai:
 - t-001
   global_id: t-22088
   teiginys: '1949 m. režimui keliant žemės mokesčius ir pyliavų normas, daugiau kaip pusė Lietuvos valstiečių įsiskolino valstybei už pieną ir mėsą.'
+  sudarymo_pagrindimas: 'Patikslinta pagal citatos formuluotę ir pašalintas netikslus veiksnys.'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: SSRS'
+  temporaliniai_duomenys: 'įvykio data: 1949 m.; įvykio data: 1951 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Patikslinta pagal citatos formuluotę ir pašalintas netikslus veiksnys.'
   pagrindžia:
     - c-001
 
@@ -37,6 +42,14 @@ amziai:
 - t-002
   global_id: t-183405
   teiginys: '1949 m. daugiau kaip pusė Lietuvos valstiečių įsiskolino valstybei už pieną ir mėsą, o tokių ūkių savininkai buvo nuteisti.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_place: Lietuva; mentioned_place: SSRS'
+  temporaliniai_duomenys: 'įvykio data: 1949 m.; įvykio data: 1951 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
   pagrindžia:
     - c-002
 
@@ -74,10 +87,3 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/transportas]]
-
-### Susiję objektai
-- [[objektai/daiktai/Namas]]

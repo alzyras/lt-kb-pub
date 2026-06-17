@@ -44,9 +44,14 @@ Nenurodyta
 - t-001
   global_id: t-80676
   teiginys: '1794 m. liepos 19 d. B. Knorringo vadovaujamas Rusijos kariuomenės korpusas, padalytas į tris kolonas, pasiekė Vilnių.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nurodo veikėją, veiksmą, datą ir vietą, citata tai pagrindžia.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/daiktai/Patrankos|Patrankos]]; mentioned_person: [[objektai/asmenys/Vasilijus|Vasilijus]]; mentioned_person: [[objektai/asmenys/Zubovas|Zubovas]]; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1794 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo veikėją, veiksmą, datą ir vietą, citata tai pagrindžia.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Bogdanas Knorringas.md#claim-t-40069|Bogdanas Knorringas]]: 1794 m. liepos 19 d. Bogdano Knorringo vadovaujamas Rusijos kariuomenės korpusas pasiekė Vilnių.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -92,13 +97,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Artilerija]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/daiktai/Patrankos]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/asmenys/Vasilijus]]
-- [[objektai/asmenys/Zubovas]]
-- [[objektai/asmenys/Bogdanas Knorringas]]

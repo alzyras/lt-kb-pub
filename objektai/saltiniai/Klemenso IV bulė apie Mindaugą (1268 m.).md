@@ -29,6 +29,11 @@ Nalšios kunigaikštis Daumantas (iš kurio Mindaugas paveržė žmoną), veikę
 - t-001
   global_id: t-21082
   teiginys: '1268 m. popiežius Klemensas IV bulėje Mindaugą pavadino „šviesaus atminimo valdovu“.'
+  sudarymo_pagrindimas: 'Teiginys tiesiogiai nusako bulės turinį ir yra pagrįstas citata.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Mindaugo krikštas|Mindaugo krikštas]]; mentioned_object: [[objektai/posakiai/„šviesaus atminimo valdovu“|„šviesaus atminimo valdovu“]]; mentioned_person: [[objektai/asmenys/Klemensas IV|Klemensas IV]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1268 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys tiesiogiai nusako bulės turinį ir yra pagrįstas citata.'
   pagrindžia:
     - c-001
 

@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Lietuva, Latvija ir Estija įkūrė Baltijos Valstybių Tarybą bendrai užsienio politikos pozicijai rengti. 1990 m. gegužės 12 d. Lietuva, Latvija ir Estija atnaujino 1934 m. sutartį ir įkūrė Baltijos Valstybių Tarybą.
+1990 m. gegužės 12 d. Lietuva, Latvija ir Estija atnaujino 1934 m. Baltijos valstybių santarvės ir bendradarbiavimo sutartį ir įkūrė Baltijos Valstybių Tarybą, jos posėdžiuose rengiama bendra užsienio politikos pozicija.
 
 ## Laikotarpis ir datos
 
@@ -45,6 +45,11 @@ Nenurodyta
 - t-001
   global_id: t-20391
   teiginys: 'Lietuva, Latvija ir Estija įkūrė Baltijos Valstybių Tarybą bendrai užsienio politikos pozicijai rengti.'
+  sudarymo_pagrindimas: 'Citata nepateikia datos, todėl teiginys sutrumpintas iki joje pagrįstos informacijos.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Baltarusija; mentioned_place: Baltija; mentioned_place: Estija; mentioned_place: Latvija'
+  temporaliniai_duomenys: 'įkūrimo data: 1934 m.; įkūrimo data: 1990 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata nepateikia datos, todėl teiginys sutrumpintas iki joje pagrįstos informacijos.'
   pagrindžia:
     - c-001
 
@@ -52,6 +57,14 @@ Nenurodyta
 - t-002
   global_id: t-183259
   teiginys: '1990 m. gegužės 12 d. Lietuva, Latvija ir Estija atnaujino 1934 m. sutartį ir įkūrė Baltijos Valstybių Tarybą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys tiksliai nusako įvykį, datą ir rezultatą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Baltija; mentioned_place: Estija; mentioned_place: Latvija'
+  temporaliniai_duomenys: 'įkūrimo data: 1934 m.; įkūrimo data: 1990 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys tiksliai nusako įvykį, datą ir rezultatą.'
   pagrindžia:
     - c-002
 
@@ -86,9 +99,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Baltijos Valstybių Taryba|Baltijos Valstybių Taryba (institucija)]]
-- [[objektai/zodynas/Euroatlantinė ir transatlantinė integracija]]

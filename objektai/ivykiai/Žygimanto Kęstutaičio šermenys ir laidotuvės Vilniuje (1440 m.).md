@@ -36,6 +36,11 @@ Nenurodyta
 - t-001
   global_id: t-185846
   teiginys: 'Trakuose susirinkę luomai, Goštautui ir Kęsgailai pasiūlius, nutarė surengti Žygimantui Kęstutaičiui puikias šermenis.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis teiginys remiasi šalutiniu gandu; citata geriau palaiko faktą apie šermenis.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kęsgaila|Kęsgaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Trakai'
   pagrindžia:
     - c-001
 
@@ -61,9 +66,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Žygimantas]]
-- [[objektai/asmenys/Kęsgaila]]
-- [[objektai/paprociai/Prabangūs šermenys ir iškilmingos laidotuvės nužudytam valdovui]]

@@ -14,7 +14,7 @@ tags:
 
 ## Santrauka
 
-Kuršiečiai su Kuršo kunigaikščiu Fridrichu Ketleriu perplaukė Dauguvą ir prisistatė didžiajam etmonui. Rotmistro A. Vainos husarams į pastiprinimą buvo pasiųstos kelios kuršiečių reitarų kuopos.
+Kuršiečiai, kartu su kunigaikščiu, sėkmingai perplaukė upę ir prisistatė didžiajam etmonui. Rotmistro A.Vainos husarams buvo pasiųstas pastiprinimas — kelios kuršiečių reitarų kuopos.
 
 ## Teiginiai
 
@@ -22,6 +22,8 @@ Kuršiečiai su Kuršo kunigaikščiu Fridrichu Ketleriu perplaukė Dauguvą ir 
 - t-001
   global_id: t-40966
   teiginys: 'Kuršiečiai su Kuršo kunigaikščiu Fridrichu Ketleriu perplaukė Dauguvą ir prisistatė didžiajam etmonui.'
+  sudarymo_pagrindimas: 'Teiginys išplėstas aiškiais vardais ir vieta, kuriuos patvirtina citata.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_place: Dauguva; mentioned_place: Kuršas; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -29,9 +31,12 @@ Kuršiečiai su Kuršo kunigaikščiu Fridrichu Ketleriu perplaukė Dauguvą ir 
 - t-002
   global_id: t-40967
   teiginys: 'Rotmistro A. Vainos husarams į pastiprinimą buvo pasiųstos kelios kuršiečių reitarų kuopos.'
+  sudarymo_pagrindimas: 'Pataisytas asmenvardžio rašymas ir sakinys suformuluotas sklandžiau.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/arkebuzieriai|arkebuzieriai]]; mentioned_object: [[objektai/zodynas/husarai|husarai]]; mentioned_object: [[objektai/zodynas/rotmistras|rotmistras]]; mentioned_person: [[objektai/asmenys/Vaina|Vaina]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/asmenys/Vaina.md#claim-t-40499|Vaina]]: Rotmistro A. Vainos husarams buvo pasiųstos kelios kuršiečių reitarų kuopos kaip pastiprinimas.
+- susijęs iš [[objektai/zodynas/arkebuzieriai.md#claim-t-42430|arkebuzieriai]]: Lietuvos arkebuzieriai rėmė ugnimi husarų ataką, o švedų arkibuzieriai savo ugnimi stengėsi husarus sulaikyti.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -69,13 +74,3 @@ Kuršiečiai su Kuršo kunigaikščiu Fridrichu Ketleriu perplaukė Dauguvą ir 
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Fridrichas]]
-- [[objektai/zodynas/arkebuzieriai]]
-- [[objektai/zodynas/husarai]]
-- [[objektai/zodynas/rotmistras]]
-- [[objektai/grupes/Švedai]]
-- [[objektai/asmenys/Vaina]]
-- [[objektai/asmenys/Fridrichas Ketleris]]

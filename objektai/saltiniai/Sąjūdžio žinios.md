@@ -20,6 +20,8 @@ LPS tapo dar populiaresnis, kai nuo rugsėjo 16 dienos, be biuletenio „Sąjūd
 - t-001
   global_id: t-21273
   teiginys: '„Sąjūdžio žinios“ buvo LPS biuletenis, greta kurio nuo rugsėjo 16 d. pradėtas leisti laikraštis „Atgimimas“.'
+  sudarymo_pagrindimas: 'Teiginį reikia nukreipti į patį šaltinio objektą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Romualdas Ozolas|Romualdas Ozolas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

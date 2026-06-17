@@ -20,6 +20,8 @@ Aplink Polianų dvarą prie Ašmenos buvo rasta daug kartų.
 - t-001
   global_id: t-86226
   teiginys: 'Aplink Polianų dvarą prie Ašmenos valstiečiai kelis kartus rado lietuviškų rublių, tai yra sidabrinių lazdelių arba liejinukų.'
+  sudarymo_pagrindimas: 'Pradinis teiginys neaiškus, o citata leidžia įvardyti rastų daiktų rūšį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/sidabrinė duoklė|sidabrinė duoklė]]; mentioned_place: Ašmena'
   pagrindžia:
     - c-001
 

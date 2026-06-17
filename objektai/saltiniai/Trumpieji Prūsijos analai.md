@@ -28,6 +28,11 @@ Dusburgietis teigia, kad panašaus turinio „Trumpieji Prūsijos analai“ (pra
 - t-001
   global_id: t-61327
   teiginys: '„Trumpieji Prūsijos analai“ buvo pratęsti iki 1337 m.'
+  sudarymo_pagrindimas: 'Pirminis teiginys nutrūkęs ir užterštas nuorodų triukšmu, bet citata remia trumpą faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Viena; mentioned_place: Vysla'
+  temporaliniai_duomenys: 'įvykio data: iki 1337 m.; įvykio data: 1337 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pirminis teiginys nutrūkęs ir užterštas nuorodų triukšmu, bet citata remia trumpą faktą.'
   pagrindžia:
     - c-001
 

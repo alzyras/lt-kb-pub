@@ -27,6 +27,11 @@ Sniečkus išleido įsakymą, leidžiantį suimti agituojančiuosius prieš Liau
 - t-001
   global_id: t-26489
   teiginys: '1940 m. liepos 6 d. buvo patvirtintas Lietuvos politinių partijų ir šaulių vadovybės „operatyvinės likvidacijos planas“.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir citata tiesiogiai patvirtina plano patvirtinimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_place: Lietuva; mentioned_place: Sniečkus; mentioned_place: Vokietija'
+  temporaliniai_duomenys: 'įvykio data: 1940 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir citata tiesiogiai patvirtina plano patvirtinimą.'
   pagrindžia:
     - c-001
 

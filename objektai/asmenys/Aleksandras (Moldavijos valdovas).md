@@ -21,6 +21,8 @@ Vytautas rėmė prieš turkus Moldavijos Aleksandrą — savo švo­ gerį ir Ko
 - t-001
   global_id: t-35009
   teiginys: 'Moldavijos valdovas Aleksandras buvo Vytauto remiamas prieš turkus.'
+  susije_objektai: 'territory: Konstancija; territory: Konstantinopolis; territory: Maskva; territory: Moldavija; territory: Smolenskas; territory: Viena; mentioned_event: [[objektai/ivykiai/Konstancijos susirinkimas (1414–1418 m.)|Konstancijos susirinkimas (1414–1418 m.)]]; mentioned_object: [[objektai/zodynas/ciesorius|ciesorius]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Muradas II|Muradas II]]; mentioned_person: [[objektai/asmenys/Paleologas|Paleologas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Konstancija; mentioned_place: Konstantinopolis; mentioned_place: Maskva; mentioned_place: Moldavija; mentioned_place: Smolenskas; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/asmenys/Aleksandras (Moldavijos valdovas)|Aleksandras (Moldavijos valdovas)]] buvo valdovas Konstancija; [[objektai/asmenys/Aleksandras (Moldavijos valdovas)|Aleksandras (Moldavijos valdovas)]] buvo valdovas Konstantinopolis; [[objektai/asmenys/Aleksandras (Moldavijos valdovas)|Aleksandras (Moldavijos valdovas)]] buvo valdovas Maskva; [[objektai/asmenys/Aleksandras (Moldavijos valdovas)|Aleksandras (Moldavijos valdovas)]] buvo valdovas Moldavija; [[objektai/asmenys/Aleksandras (Moldavijos valdovas)|Aleksandras (Moldavijos valdovas)]] buvo valdovas Smolenskas; [[objektai/asmenys/Aleksandras (Moldavijos valdovas)|Aleksandras (Moldavijos valdovas)]] buvo valdovas Viena'
   pagrindžia:
     - c-001
 
@@ -46,12 +48,9 @@ Vytautas rėmė prieš turkus Moldavijos Aleksandrą — savo švo­ gerį ir Ko
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/Konstancijos susirinkimas (1414–1418 m.)]]
-- [[objektai/asmenys/Muradas II]]
-- [[objektai/asmenys/Paleologas]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/ciesorius]]
-- [[objektai/asmenys/Aleksandras]]
-- [[objektai/asmenys/Jonas Paleologas]]
-- [[objektai/asmenys/Manuelis]]
+- Aleksandras (Moldavijos valdovas) buvo_valdovas [[objektai/vietos/Konstancija]]
+- Aleksandras (Moldavijos valdovas) buvo_valdovas [[objektai/vietos/Konstantinopolis]]
+- Aleksandras (Moldavijos valdovas) buvo_valdovas [[objektai/vietos/Maskva]]
+- Aleksandras (Moldavijos valdovas) buvo_valdovas [[objektai/vietos/Moldavija]]
+- Aleksandras (Moldavijos valdovas) buvo_valdovas [[objektai/vietos/Smolenskas]]
+- Aleksandras (Moldavijos valdovas) buvo_valdovas [[objektai/vietos/Viena]]

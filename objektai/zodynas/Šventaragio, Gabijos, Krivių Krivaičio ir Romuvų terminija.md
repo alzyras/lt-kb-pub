@@ -29,6 +29,8 @@ Ties ta puikiąja upe, laikantis senų tradicijų, kronikininkų perduo­ tų, s
 - t-001
   global_id: t-86449
   teiginys: 'Šventaragio slėnyje iki krikščionybės įvedimo degė Perkūno garbei skirta amžinoji ugnis, vadinta Gabija.'
+  sudarymo_pagrindimas: 'Teiginys yra enciklopedinis sakinys, tiesiogiai paremtas citatos informacija.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/gabija|gabija]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 
@@ -36,6 +38,8 @@ Ties ta puikiąja upe, laikantis senų tradicijų, kronikininkų perduo­ tų, s
 - t-002
   global_id: t-86451
   teiginys: 'Šventaragio vardas aiškintas lietuviškais žodžiais „šventas ragas“, siejant juos su aukuru ir kyšuliu tarp Vilijos bei Vilnios.'
+  sudarymo_pagrindimas: 'Citata palaiko etimologinį aiškinimą, bet pradinis tekstas nutrūkęs.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_object: [[objektai/daiktai/Aukuras|Aukuras]]; mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_place: Vilija'
   pagrindžia:
     - c-002
 
@@ -43,6 +47,8 @@ Ties ta puikiąja upe, laikantis senų tradicijų, kronikininkų perduo­ tų, s
 - t-003
   global_id: t-86452
   teiginys: 'Romuvos buvo senovės lietuvių šventvietės šventose giriose, kur garbintas Perkūnas ir gyveno Krivių Krivaitis.'
+  sudarymo_pagrindimas: 'Citata palaiko terminų apibūdinimą, o pradinis tekstas turi puslapio žymę ir OCR triukšmo.'
+  susije_objektai: 'location: Lietuva; location: Nevėžis; location: Romainiai; location: Romuva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Alkos ir romuvos|Alkos ir romuvos]]; mentioned_person: [[objektai/asmenys/Vaidila|Vaidila]]; mentioned_place: Lietuva; mentioned_place: Nevėžis; mentioned_place: Romainiai; mentioned_place: Romuva'
   pagrindžia:
     - c-001
 
@@ -122,16 +128,3 @@ Ties ta puikiąja upe, laikantis senų tradicijų, kronikininkų perduo­ tų, s
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Alkos ir romuvos]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Lotynai]]
-- [[objektai/asmenys/Vaidila]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/pagonybė]]
-- [[objektai/asmenys/Šventaragis]]
-- [[objektai/daiktai/Aukuras]]
-- [[objektai/zodynas/gabija]]
-- [[objektai/paprociai/Romuvų šventos girios ir Perkūno garbinimas]]

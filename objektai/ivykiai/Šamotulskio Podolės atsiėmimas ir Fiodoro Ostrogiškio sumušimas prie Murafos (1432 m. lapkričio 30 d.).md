@@ -36,6 +36,11 @@ Nenurodyta
 - t-001
   global_id: t-185501
   teiginys: 'Fiodoras vengė atviros kovos su Šamotulskiu, o Šamotulskis žygiuodamas pirmyn be vargo atsiėmė kelias pilis ir priartėjo prie Braclavo.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata remia veiksmų eigą, o pradinis teiginys nutrūkęs.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Valachai|Valachai]]; mentioned_object: [[objektai/zodynas/skitai|skitai]]; mentioned_person: [[objektai/asmenys/Fiodoras|Fiodoras]]; mentioned_place: Braclavas; mentioned_place: Lenkija; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -43,6 +48,11 @@ Nenurodyta
 - t-002
   global_id: t-185502
   teiginys: 'Prie Murafos lenkų kariuomenei teko įveikti per tankias girias tarp žemų nendrėtų krantų tekančią Murafos upę.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis teiginys turi puslapio triukšmo, bet citata palaiko geografinę ir taktinę aplinkybę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Fiodoras|Fiodoras]]'
   pagrindžia:
     - c-002
 
@@ -50,6 +60,14 @@ Nenurodyta
 - t-003
   global_id: t-185503
   teiginys: '1432 m. lapkričio 30 d. Šamotulskio ir Fiodoro Ostrogiškio pajėgos kovojo maždaug už keturiasdešimties mylių nuo Lvovo.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinį sakinį reikia patikslinti, nes jame neįvardyti kovoję veikėjai.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Fiodoras|Fiodoras]]; mentioned_place: Lvovas'
+  temporaliniai_duomenys: 'mūšio data: 1432 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinį sakinį reikia patikslinti, nes jame neįvardyti kovoję veikėjai.'
   pagrindžia:
     - c-003
 
@@ -127,10 +145,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Fiodoras]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Valachai]]
-- [[objektai/zodynas/skitai]]

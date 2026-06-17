@@ -10,7 +10,7 @@ atnaujinta: ''
 
 ## Santrauka
 
-Gedimino laikais Vilniaus miesto tvarka turėjo atitikti kitur taikytus leninio valdymo principus. Pilininkai valdė miestą, vykdydami teisminę priežiūrą kartu su bendruomenės parinktu seniūnu. Vilniaus kilimo pradžioje pilininkai valdė miestą ir teisminę priežiūrą vykdė su bendruomenės parinktu seniūnu.
+Ankstyvojo Vilniaus tvarka aprašoma kaip leninio valdymo aplinkoje susiklostęs miesto valdymas. Pilininkai vykdė teisminę priežiūrą kartu su bendruomenės parinktu seniūnu, o senoviniai papročiai atstojo rašytas teisės normas.
 
 ## Laikotarpis ir datos
 
@@ -43,6 +43,8 @@ Nenurodyta
 - t-001
   global_id: t-55161
   teiginys: 'Gedimino laikais Vilniaus miesto tvarka turėjo atitikti kitur taikytus leninio valdymo principus.'
+  sudarymo_pagrindimas: 'Teiginys paremtas citata, bet suformuluotas glaudžiau ir aiškiau.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -50,6 +52,8 @@ Nenurodyta
 - t-002
   global_id: t-55162
   teiginys: 'Pilininkai valdė miestą, vykdydami teisminę priežiūrą kartu su bendruomenės parinktu seniūnu.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'territory: Lenkija; territory: Lietuva; territory: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Pilininkas|Pilininkas]]; mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -57,6 +61,8 @@ Nenurodyta
 - t-003
   global_id: t-55163
   teiginys: 'Vilniaus kilimo pradžioje pilininkai valdė miestą ir teisminę priežiūrą vykdė su bendruomenės parinktu seniūnu.'
+  sudarymo_pagrindimas: 'Pridėtas Vilniaus objektas ir išlaikyta citatos paremta valdymo informacija.'
+  susije_objektai: 'territory: Lenkija; territory: Lietuva; territory: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Pilininkas|Pilininkas]]; mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -64,6 +70,8 @@ Nenurodyta
 - t-004
   global_id: t-81870
   teiginys: 'Gedimino laikais Vilniaus miesto valdymas buvo siejamas su pilininkų ir bendruomenės parinkto seniūno priežiūra.'
+  sudarymo_pagrindimas: 'Pradinis teiginys labiau apie Vilniaus iškilimą, todėl perrašyta pagal pastabos objektą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Pilininkas|Pilininkas]]; mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 
@@ -142,13 +150,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Gediminas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
-- [[objektai/zodynas/Pilininkas]]
-- [[objektai/zodynas/seniūnas]]
-- [[objektai/zodynas/Feodalinis ir leninis valdymas]]
-- [[objektai/zodynas/Pilininkai kaštelionai seniūnas]]

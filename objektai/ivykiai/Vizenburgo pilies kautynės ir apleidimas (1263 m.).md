@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-1263 m. Vizenburgo pilies gynėjai, pristigę maisto, su ginklanešiais paliko pilį ir slapta pasitraukė Mazovijos link. Prūsai beveik trejus metus laikė apsupę Vizenburgo pilį ir trimis apgulos mašinomis kasdien ją puolė.
+Dusburgietis teigia, kad juos sulaikė išdavikas, tikindamas, kad prie Vangrapės391 juos tikriausiai užtiksią. Artėjančius prie tos vietos staiga užgriuvo priešai, kaip iš anksto buvo susitarę. Šitai matydami, broliai sulipo į šalimais buvusį kalnelį ir ten ilgai narsiai gynėsi, o. Dusburgietis teigia, kad apie tai, kaip buvo palikta Vizenburgo pilis Vizenburgo pilis beveik trejus metus buvo apsupta prūsų, kurie pasistatė tris apgulos mašinas, su kuriomis kasdien puolė pilį; galop broliams pavyko po staigaus antpuolio vieną paimti ir nusigabenti į pilį, o su ja. Dusburgietis teigia, kad neilgai trukus broliai, pristigę maisto, paliko su savo ginklanešiais pilį 1263 viešpaties metais ir slapta pasitraukė pasukę link Mazovijos kunigaikštystės. Šitai sužinojęs, Di-vanas, tuometinis bartų vadas, vijosi juos su daugybe karių, bet nestengė.
 
 ## Laikotarpis ir datos
 
@@ -45,6 +45,12 @@ Nenurodyta
 - t-001
   global_id: t-62951
   teiginys: '1263 m. Vizenburgo pilies gynėjai, pristigę maisto, su ginklanešiais paliko pilį ir slapta pasitraukė Mazovijos link.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Perrašyta į aiškesnį sakinį be neapibrėžto žodžio „broliai“.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_place: Mazovija; mentioned_place: Viena; mentioned_place: Vizenburgas'
+  temporaliniai_duomenys: 'įvykio data: 1263 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Perrašyta į aiškesnį sakinį be neapibrėžto žodžio „broliai“.'
   pagrindžia:
     - c-002
     - c-003
@@ -53,6 +59,9 @@ Nenurodyta
 - t-002
   global_id: t-62952
   teiginys: 'Prūsai beveik trejus metus laikė apsupę Vizenburgo pilį ir trimis apgulos mašinomis kasdien ją puolė.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Citata palaiko faktą, bet pradinis teiginys per ilgas, nutrūkęs ir turi antraštės triukšmo.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_place: Mazovija; mentioned_place: Prūsai; mentioned_place: Viena; mentioned_place: Vizenburgas'
   pagrindžia:
     - c-001
     - c-002
@@ -125,9 +134,3 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bartai]]
-- [[objektai/zodynas/ginklanešiai]]
-- [[objektai/asmenys/Divanas]]

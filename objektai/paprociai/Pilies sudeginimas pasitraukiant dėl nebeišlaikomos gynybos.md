@@ -43,6 +43,9 @@ Nenurodyta
 - t-001
   global_id: t-62711
   teiginys: 'Miestiečiai ir pilėnai, manydami nebegalėsią atsilaikyti prieš antpuolį, sudegino pilį bei miestą ir pasitraukė su šeimynomis.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo nutrūkęs, citata remia pilną glaustą sakinį.'
+  susije_objektai: 'mentioned_place: Elbingas'
   pagrindžia:
     - c-001
     - c-002
@@ -51,6 +54,9 @@ Nenurodyta
 - t-002
   global_id: t-62712
   teiginys: 'Antrosios atskalūnybės metais Ordino broliai sudegino Spitenbergo pilį Pamedėje ir pasitraukė, nes nebegalėjo joje priešintis prūsams.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Citatoje yra antraštės ir puslapio triukšmo, bet ji pagrindžia konkretų faktą.'
+  susije_objektai: 'mentioned_place: Pamedė; mentioned_place: Prūsai; mentioned_place: Spitenbergas'
   pagrindžia:
     - c-003
 
@@ -106,8 +112,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Brunsbergo miestiečiai]]
-- [[objektai/ivykiai/Spitenbergo pilies palikimas|Spitenbergo pilies palikimas (pilis)]]

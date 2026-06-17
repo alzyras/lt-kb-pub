@@ -29,6 +29,8 @@ Kan­ trimas, J. (= Jonikas, P.) : Baltų kalbos ir tautos, Aidai, nr. 6, 1947, 
 - t-001
   global_id: t-30682
   teiginys: 'J. Kantrimas, tapatinamas su P. Joniku, 1947 m. „Aiduose“ paskelbė straipsnį „Baltų kalbos ir tautos“.'
+  temporaliniai_duomenys: 'įvykio data: 1947 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

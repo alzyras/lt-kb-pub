@@ -19,7 +19,7 @@ amziai:
 
 ## Santrauka
 
-1919 m. Lietuvos karo aviacijos mokyklos pirmosios laidos lakūnai nusifotografavo prie LVG C.VI lėktuvo.
+180, 1919 m. Lietuvos karo aviacijos mokyklos pirmosios laidos lakūnai prie lėktuvo LVG C.
 
 ## Pavadinimai šaltiniuose
 
@@ -47,6 +47,11 @@ Nenurodyta
 - t-001
   global_id: t-40734
   teiginys: '1919 m. Lietuvos karo aviacijos mokyklos pirmosios laidos lakūnai nusifotografavo prie LVG C.VI lėktuvo.'
+  sudarymo_pagrindimas: 'Žalią iliustracijos užrašą paverčia pilnu faktiniu sakiniu.'
+  susije_objektai: 'mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1919 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Žalią iliustracijos užrašą paverčia pilnu faktiniu sakiniu.'
   pagrindžia:
     - c-001
 

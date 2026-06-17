@@ -3,6 +3,10 @@ tipas: grupe
 pavadinimas: 'Tautų Sąjungos susirinkimas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1920 m.'
+date_start: '1920'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -10,26 +14,30 @@ tags:
   - sutartis
   - tauta
   - valstybė
+amziai:
+  - 'XX'
 ---
 # Tautų Sąjungos susirinkimas
 
 ## Santrauka
 
-Pirmasis visuotinis Tautų Sąjungos susirinkimas 1920 m. svarstė Lietuvos, Latvijos ir Estijos prašymą, bet jo dar nepatenkino.
+Pirmasis visuotinis Tautų S-gos susirinkimas (1920. S-gos susirinkimas, be to, nusprendė būsimąjį Pabaltijo valstybių priėmimą į T. Kitame visuotiniame Tautų Sąjungos susirinkime (1921 m.) visų trijų Pabaltijo valstybių priėmimo klausimas buvo teigiamai išspręstas, tačiau ne be sunkenybių Lietuvai.
 
 ## Teiginiai
+
 <a id="claim-t-66187"></a>
 - t-001
   global_id: t-66187
   teiginys: 'Pirmasis visuotinis Tautų Sąjungos susirinkimas 1920 m. svarstė Lietuvos, Latvijos ir Estijos prašymą, bet jo dar nepatenkino.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_place: Estija; mentioned_place: Latvija; mentioned_place: Lietuva; mentioned_place: Rusija'
+  temporaliniai_duomenys: 'įvykio data: 1920 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Pirmasis visuotinis Tautų Sąjungos susirinkimas 1920 m. svarstė Lietuvos, Latvijos ir Estijos prašymą, bet jo dar nepatenkino.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pirmasis visuotinis Tautų S-gos susirinkimas (1920. XI. 15 —
@@ -40,14 +48,8 @@ Pirmasis visuotinis Tautų Sąjungos susirinkimas 1920 m. svarstė Lietuvos, Lat
     pakto (str. 10) uždedamų prievolių ginti tas naujas valstybes
     prieš kaimynų agresiją ar apskritai vengė čia susirišti kuo nors
     buvusios ar būsimos Rusijos .atžvilgiu.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Latviai]]

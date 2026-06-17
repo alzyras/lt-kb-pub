@@ -29,9 +29,11 @@ Lewicka ir J.
 - t-001
   global_id: t-31019
   teiginys: 'U. Lewicka kartu su J. Pochodowicz redagavo „Bibliografia Regionu Białostockiego“ pirmąjį tomą.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/J. Pochodowicz|J. Pochodowicz]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Balstogė; mentioned_place: Varšuva'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/autoriai/J. Pochodowicz.md#claim-t-30695|J. Pochodowicz]]: J. Pochodowicz buvo vienas „Bibliografia Regionu Białostockiego“ redaktorių.
+- susijęs iš Bibliografia Regionu Białostockiego: „Bibliografia Regionu Białostockiego“ redagavo U. Lewicka ir J. Pochodowiczius; jos pirmasis tomas išėjo Balstogėje 1964 m.
 ## Reikšmingi paminėjimai
 
 - c-001

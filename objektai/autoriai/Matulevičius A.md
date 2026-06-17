@@ -28,6 +28,12 @@ Dusburgietis teigia, kad matulevičius A.
 - t-001
   global_id: t-62645
   teiginys: 'A. Matulevičius 1972 m. paskelbė straipsnį apie lietuvių etninę ribą Prūsijoje XVIII a. pradžioje.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Bibliografinė citata pagrindžia autoriaus straipsnio temą ir publikavimo metus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Prūsai; mentioned_place: Prūsija'
+  temporaliniai_duomenys: 'įvykio data: 1972 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Bibliografinė citata pagrindžia autoriaus straipsnio temą ir publikavimo metus.'
   pagrindžia:
     - c-001
 
@@ -45,7 +51,3 @@ Dusburgietis teigia, kad matulevičius A.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]

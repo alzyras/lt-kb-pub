@@ -23,9 +23,13 @@ Tačiau kai ši jo nelaisvė gana ilgai užsi­ tęsė, apie tai pasklido žinia
 - t-001
   global_id: t-86800
   teiginys: 'Lenkijos bajorai Varkoje nutarė siųsti pasiuntinius pas Švitrigailą reikalauti išlaisvinti karalių.'
+  sudarymo_pagrindimas: 'Pradinė formuluotė nebuvo apie note objektą; citata palaiko konkretų bajorų veiksmą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Kaimas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Varka'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/grupes/Lietuvos bajorija.md#claim-t-96721|Lietuvos bajorija]]: 1401 m. susitarimą atskirais dokumentais patvirtino Vytautas, Jogaila, Lietuvos bajorai ir Lenkijos bajorai.
+- susijęs iš [[objektai/ivykiai/Vilniaus-Radomo susitarimas.md#claim-t-66976|Vilniaus-Radomo susitarimas]]: 1401 m. po ilgų derybų pasiektą Vilniaus-Radomo susitarimą atskirais dokumentais patvirtino Vytautas, Jogaila, Lietuvos ir Lenkijos bajorai.
+- susijęs iš Varka: Lenkijos bajorai Varkoje nusprendė reikalauti paleisti karalių, o nesėkmės atveju rengti žygį į Lietuvą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -47,13 +51,3 @@ Tačiau kai ši jo nelaisvė gana ilgai užsi­ tęsė, apie tai pasklido žinia
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Martynas iš Golino]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/grupes/Bajorai]]
-- [[objektai/asmenys/Švitrigaila]]
-- [[objektai/grupes/Lietuvos bajorija]]
-- [[objektai/ivykiai/Vilniaus-Radomo susitarimas]]
-- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]

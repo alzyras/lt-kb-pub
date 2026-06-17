@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-T. Manteuffelio „Papiestwo“ cituojamas prie teiginio, kad rutėnais dažnai vadinti pietinės Baltijos pakrantės ir Riugeno gyventojai.
+Dusburgietis teigia, kad istorijos šaltiniuose rutėnais (Rutheni) dažnai buvo vadinami Baltijos jūros pietinės pakrantės ir Riugeno (Rugijos) salos gyventojai (Manteuffel T., Papiestwo.., p. 122— 123; Łowmiański H., Początki Polski, t.
 
 ## Teiginiai
 
@@ -20,6 +20,8 @@ T. Manteuffelio „Papiestwo“ cituojamas prie teiginio, kad rutėnais dažnai 
 - t-001
   global_id: t-60846
   teiginys: 'T. Manteuffelio „Papiestwo“ cituojamas prie teiginio, kad rutėnais dažnai vadinti pietinės Baltijos pakrantės ir Riugeno gyventojai.'
+  sudarymo_pagrindimas: 'Citata palaiko trumpą bibliografinį teiginį apie Manteuffelio darbo kontekstą.'
+  susije_objektai: 'mentioned_place: Baltija; mentioned_place: Salos'
   pagrindžia:
     - c-001
 

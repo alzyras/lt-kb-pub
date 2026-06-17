@@ -5,8 +5,10 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1949 m.'
+  - '1951 m.'
+  - '1953 m.'
 date_start: '1949'
-date_end: ''
+date_end: '1953'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -18,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-1949 m. Adolfas Ramanauskas-Vanagas tapo Jono Žemaičio-Vytauto pavaduotoju ir vėliau LLKS gynybos pajėgų vadu. 1949 m. vasarį Jonas Žemaitis-Vytautas buvo išrinktas LLKS tarybos prezidiumo pirmininku ir laikinai ėjo Lietuvos gynybos pajėgų vado pareigas.
+1949 m. dalyvavo kuriant vieningą pasipriešinimo judėjimo vadovybę, tapo Lietuvos laisvės kovos sąjūdžio tarybos prezidiumo pirmininko J. Žemaitis išrinktas LLKS tarybos prezidiumo pirmininku, taip pat laikinai ėjo Lietuvos gynybos pajėgų vado pareigas.
 
 ## Teiginiai
 
@@ -26,6 +28,11 @@ amziai:
 - t-001
   global_id: t-41026
   teiginys: '1949 m. Adolfas Ramanauskas-Vanagas tapo Jono Žemaičio-Vytauto pavaduotoju ir vėliau LLKS gynybos pajėgų vadu.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys ir pagrįstas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos laisvės kovos sąjūdis|Lietuvos laisvės kovos sąjūdis]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_person: [[objektai/asmenys/Adolfas Ramanauskas-Vanagas|Adolfas Ramanauskas-Vanagas]]; mentioned_place: Dainava; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1949 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys ir pagrįstas citata.'
   pagrindžia:
     - c-002
 
@@ -33,6 +40,11 @@ amziai:
 - t-002
   global_id: t-41027
   teiginys: '1949 m. vasarį Jonas Žemaitis-Vytautas buvo išrinktas LLKS tarybos prezidiumo pirmininku ir laikinai ėjo Lietuvos gynybos pajėgų vado pareigas.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatinis ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos laisvės kovos sąjūdis|Lietuvos laisvės kovos sąjūdis]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas Žemaitis-Vytautas|Jonas Žemaitis-Vytautas]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1949 m.; įvykio data: 1951 m.; įvykio data: 1953 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatinis ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -72,14 +84,3 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuvos laisvės kovos sąjūdis]]
-- [[objektai/zodynas/Adynos|adynos]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/asmenys/Adolfas Ramanauskas-Vanagas]]
-- [[objektai/asmenys/Jonas]]
-- [[objektai/asmenys/Jonas Žemaitis-Vytautas]]
-- [[objektai/grupes/Dainavos apygarda]]
-- [[objektai/grupes/LLKS gynybos pajėgos]]

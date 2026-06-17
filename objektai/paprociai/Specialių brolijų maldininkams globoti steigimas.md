@@ -9,9 +9,9 @@ date_start: '1099'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags: []
 amziai:
   - 'XI'
-tags: []
 ---
 # Specialių brolijų maldininkams globoti steigimas
 
@@ -36,22 +36,30 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-003
-  teiginys: 'Po Jeruzalės išvadavimo didesniosios valstybės steigė brolijas maldininkams globoti kelionėse.'
-  pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-004
+
+<a id="claim-t-06864"></a>
+- t-001
+  global_id: t-06864
   teiginys: 'Naujos karinės grėsmės sąlygomis globos brolijos virto kariaujančiais riterių ordinais.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/maldininkai|maldininkai]]; mentioned_place: Jeruzalė'
   pagrindžia:
     - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+
+<a id="claim-t-06865"></a>
+- t-002
+  global_id: t-06865
+  teiginys: 'Po Jeruzalės išvadavimo didesniosios valstybės steigė brolijas maldininkams globoti kelionėse.'
+  sudarymo_pagrindimas: 'Sakinys sutrumpintas ir tiksliau atspindi citatos aplinkybes.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/maldininkai|maldininkai]]; mentioned_place: Jeruzalė'
+  temporaliniai_duomenys: 'įvykio data: 1099 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Sakinys sutrumpintas ir tiksliau atspindi citatos aplinkybes.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Po Jeruzalės išvadavimo didesniosios valstybės steigė brolijas maldininkams globoti kelionėse.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo
@@ -61,15 +69,13 @@ Nenurodyta
     cialias brolijas savo maldininkams globoti. Iš pradžių tokios brolijos
     globojo ligonius ir saugojo, kad maldininkams nieko blogo neatsitiktų
     kelyje.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
+
 - c-002
-  santrauka: 'Naujos karinės grėsmės sąlygomis globos brolijos virto kariaujančiais riterių ordinais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Todėl visos didesniosios valstybės ten ėmė steigti spe-
@@ -78,17 +84,8 @@ Nenurodyta
     kelyje. Bet kai prasidėjo nauji karai, o ypač kai Jeruzalę vėl užėmė
     turkai ir kai buvo pradėta rūpintis vėl ją atgauti, — tokios brolijos
     virto kariaujančiųjų riterių ordinais.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-004
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/religinė-praktika]]
-
-### Susiję objektai
-- [[objektai/zodynas/maldininkai]]
+    - t-001

@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-J. Endzelynas Kuršo vietovardį Semba tapatino su prūsų žemės vardu Semba. J. Endzelynas parašė veikalą „Senprūšu valoda“. Endzelynu ir kt., išsamiai tyrė prūsų kalbą bei jos paminklus.
+Dusburgietis teigia, kad endzelynu ir kt., išsamiai tyrė prūsų kalbą bei jos paminklus. Dusburgietis teigia, kad 6 Bopp F. Über die Sprache...; Nesselmann G. Die Sprache...; to paties, Thesaurus...; Endzelīns J. Senprūšu valoda; Būga K. Rinktiniai raštai, t. 1, 3; Mikalauskaitė E. Priešreformacinių...,.p. 102—106; Matusevičiūtė I. Kiek naujos medžiagos..., p. 10—18. Dusburgietis teigia, kad endzelynas tapatina su šiuo prūsų žemės vardu (Endzelins J.
 
 ## Teiginiai
 
@@ -20,6 +20,8 @@ J. Endzelynas Kuršo vietovardį Semba tapatino su prūsų žemės vardu Semba. 
 - t-001
   global_id: t-60571
   teiginys: 'J. Endzelynas Kuršo vietovardį Semba tapatino su prūsų žemės vardu Semba.'
+  sudarymo_pagrindimas: 'Citata tiesiogiai nurodo J. Endzelyno tapatinimą, todėl teiginį galima sutvarkyti.'
+  susije_objektai: 'mentioned_place: Kuršas; mentioned_place: Prūsai; mentioned_place: Semba'
   pagrindžia:
     - c-003
 
@@ -27,6 +29,8 @@ J. Endzelynas Kuršo vietovardį Semba tapatino su prūsų žemės vardu Semba. 
 - t-002
   global_id: t-60572
   teiginys: 'J. Endzelynas parašė veikalą „Senprūšu valoda“.'
+  sudarymo_pagrindimas: 'Bibliografinė nuoroda leidžia suformuluoti trumpą faktą apie autoriaus darbą.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_place: Lietuva; mentioned_place: Prūsai'
   pagrindžia:
     - c-002
 
@@ -34,6 +38,8 @@ J. Endzelynas Kuršo vietovardį Semba tapatino su prūsų žemės vardu Semba. 
 - t-003
   global_id: t-60573
   teiginys: 'Endzelynu ir kt., išsamiai tyrė prūsų kalbą bei jos paminklus.'
+  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
 
@@ -88,14 +94,3 @@ J. Endzelynas Kuršo vietovardį Semba tapatino su prūsų žemės vardu Semba. 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/bibliografija]]
-
-### Susiję objektai
-- [[objektai/grupes/Baltai]]
-- [[objektai/grupes/Latviai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/autoriai/V. Mažiulis]]
-- [[objektai/zodynas/vakariniai baltai]]

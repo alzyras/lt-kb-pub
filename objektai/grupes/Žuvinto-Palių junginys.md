@@ -19,7 +19,7 @@ amziai:
 
 ## Santrauka
 
-Sergijus Staniškis-Litas suvienijo Žuvinto paliose, Buktos miške ir prie Daukšių veikusius partizanų būrius į Žuvinto-Palių junginį ir jam vadovavo. Prieš Žuvinto-Palių mūšį Žuvinto-Palių partizanų persekiojimas tęsėsi.
+Partizanų pajėgos Tuo metu Žuvinto paliose ir Buktos (Žaliosios) miške jau veikė Gedimino, Klarko, Juozo Pandeikos, Edvardo ir Jurgio Lajų bei Kosto Barkausko būriai. Mūšio išvakarės Žuvinto-Palių partizanų persekiojimas tęsėsi toliau.
 
 ## Teiginiai
 
@@ -27,6 +27,8 @@ Sergijus Staniškis-Litas suvienijo Žuvinto paliose, Buktos miške ir prie Dauk
 - t-001
   global_id: t-41232
   teiginys: 'Sergijus Staniškis-Litas suvienijo Žuvinto paliose, Buktos miške ir prie Daukšių veikusius partizanų būrius į Žuvinto-Palių junginį ir jam vadovavo.'
+  sudarymo_pagrindimas: 'Citata pagrindžia papildomą faktą apie vadovavimą junginiui.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Barkauskas|Barkauskas]]; mentioned_place: Buktos (Žaliosios) miškas; mentioned_place: Daukšiai; mentioned_place: Lietuva; mentioned_place: Žuvintas'
   pagrindžia:
     - c-001
 
@@ -34,6 +36,11 @@ Sergijus Staniškis-Litas suvienijo Žuvinto paliose, Buktos miške ir prie Dauk
 - t-002
   global_id: t-41233
   teiginys: 'Prieš Žuvinto-Palių mūšį Žuvinto-Palių partizanų persekiojimas tęsėsi.'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo pernelyg kontekstinis, todėl patikslintas į savarankišką sakinį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]'
+  temporaliniai_duomenys: 'įvykio data: 1945 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys buvo pernelyg kontekstinis, todėl patikslintas į savarankišką sakinį.'
   pagrindžia:
     - c-002
 
@@ -74,15 +81,3 @@ Sergijus Staniškis-Litas suvienijo Žuvinto paliose, Buktos miške ir prie Dauk
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Barkauskas]]
-- [[objektai/zodynas/Adynos|adynos]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Edvardo Lajaus būrys]]
-- [[objektai/grupes/Gedimino būrys]]
-- [[objektai/grupes/Juozo Pandeikos būrys]]
-- [[objektai/grupes/Jurgio Lajaus būrys]]
-- [[objektai/grupes/Klarko būrys]]
-- [[objektai/grupes/Kosto Barkausko būrys]]

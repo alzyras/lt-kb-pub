@@ -14,7 +14,7 @@ tags:
 
 ## Santrauka
 
-„Likimo keliais“ II dalis išleista kaip Vinco Krėvės raštų VIII tomo dalis su V. Bičiūno pastabomis ir komentarais. „Likimo keliais“ pasakoja apie Vincą Višvilį, kuris ryžtasi prikelti iš miego Žvaigždikį, tapatinamą su Lietuva. V. Bičiūno pastabos ir komentarai prie „Likimo kelių“ aiškino autoriaus intencijas, tikslą ir veikalo idėją.
+Misterijos „LIKIMO KELIAIS” II da­ lis, su priedu — V. 8, — „Likimo kelių” turinį sudaro savotiškai pasakiškas pasakoji­ mas apie Vincą Višvilį — prastą kaimo bernaitį piemenėli, kuris pri­ siklausęs motinos pasakų apie karalių Žvaigždikį ir karalienę Panikę, ryžtasi prikelti iš miego Žvaigždikį, atseit, pačią. Labai reikšmingą priedą prie „Likimo kelių” sudaro V.
 
 ## Teiginiai
 
@@ -22,6 +22,7 @@ tags:
 - t-001
   global_id: t-36078
   teiginys: '„Likimo keliais“ II dalis išleista kaip Vinco Krėvės raštų VIII tomo dalis su V. Bičiūno pastabomis ir komentarais.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/misterija|misterija]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Kaimas; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -29,6 +30,8 @@ tags:
 - t-002
   global_id: t-36079
   teiginys: '„Likimo keliais“ pasakoja apie Vincą Višvilį, kuris ryžtasi prikelti iš miego Žvaigždikį, tapatinamą su Lietuva.'
+  sudarymo_pagrindimas: 'Reikia pataisyti pavadinimo formą ir suformuluoti glaustesnį sakinį.'
+  susije_objektai: 'mentioned_place: Kaimas; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 

@@ -3,11 +3,17 @@ tipas: grupe
 pavadinimas: 'Habsburgų dinastija'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1572 m.'
+date_start: '1572'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - dinastija
   - grupe
+amziai:
+  - 'XVI'
 ---
 # Habsburgų dinastija
 
@@ -21,6 +27,11 @@ Lenkijos ir Lietuvos sostuose sėdėjo lietuviškos kilmės Jogailaičių dinast
 - t-001
   global_id: t-19699
   teiginys: 'XV a. pabaigoje–XVI a. pradžioje Jogailaičių dinastija buvo pagrindinė Habsburgų dinastijos konkurentė.'
+  sudarymo_pagrindimas: 'Pradinė formuluotė nebuvo apie Habsburgų dinastiją ir buvo nebaigta.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Habsburgai|Habsburgai]]; mentioned_group: [[objektai/grupes/Jogailaičiai|Jogailaičiai]]; mentioned_group: [[objektai/grupes/Jogailaičių dinastija|Jogailaičių dinastija]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vengrija; mentioned_place: Čekija'
+  temporaliniai_duomenys: 'įvykio data: iki 1572 m.; įvykio data: 1572 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinė formuluotė nebuvo apie Habsburgų dinastiją ir buvo nebaigta.'
   pagrindžia:
     - c-001
 
@@ -41,13 +52,3 @@ Lenkijos ir Lietuvos sostuose sėdėjo lietuviškos kilmės Jogailaičių dinast
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/dinastija]]
-
-### Susiję objektai
-- [[objektai/grupes/Habsburgai]]
-- [[objektai/grupes/Jogailaičiai]]
-- [[objektai/grupes/Jogailaičių dinastija]]
-- [[objektai/posakiai/„jogailaičių Europa“ „krikščionybės forpostas“]]

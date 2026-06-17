@@ -3,12 +3,17 @@ tipas: autorius
 pavadinimas: 'Eduardas Brusokas'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+datos: []
+date_start: ''
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
   - karas
   - sukilimas
+amziai: []
+periodo_grupes: []
 ---
 # Eduardas Brusokas
 
@@ -22,9 +27,14 @@ Eduardas Brusokas (gimęs 1970 m.), Vilniaus universitete įgijo istorijos bakal
 - t-001
   global_id: t-39843
   teiginys: 'Eduardas Brusokas gimė 1970 m., Vilniaus universitete įgijo istorijos bakalauro, o Vytauto Didžiojo universitete - istorijos magistro laipsnį.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas biografinis sakinys ir tiksliai paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/karyba|karyba]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1794 m.; įvykio data: 1970 m.; įvykio data: po 2000 m.; įvykio data: 2000 m.; įvykio data: po 2006 m.; įvykio data: 2006 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas biografinis sakinys ir tiksliai paremtas citata.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -43,8 +53,3 @@ Eduardas Brusokas (gimęs 1970 m.), Vilniaus universitete įgijo istorijos bakal
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/karyba]]
-- [[objektai/zodynas/magistras]]

@@ -22,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-Sovietai naikino privatinę nuosavybę ekonomikoje, todėl Lietuvos žemės ūkyje turėjo būti steigiami kolektyviniai ūkiai. 1948 m. pavasarį kolektyvinių ūkių organizavimas Lietuvos kaime sukėlė didelį pasipriešinimą. Per kolektyvizaciją Lietuvoje į valstybinį žemės fondą buvo paimta be šeimininkų likusi, pasitraukusiųjų, repatrijavusiųjų, partizanų ir tremtinių žemė.
+Unifikuodami visų sovietinių respublikų gyvenimą, sovietai atkakliai naikino privatinę nuosavybę visose ekonomikos šakose, tad žemės ūkyje turėjo būti steigiami kolektyviniai ūkiai. 1948 m. pavasarį kolektyvinių ūkių organizavimas Lietuvos kaime sukėlė didelį pasipriešinimą, todėl pirmiausia imtasi priemonių prieš pasiturinčius valstiečius – jiems palikta iki 30 ha žemės, jie vadinami „buožėmis“, taip pat tuos, kurie nau.
 
 ## Laikotarpis ir datos
 
@@ -46,6 +46,8 @@ Nenurodyta
 - t-001
   global_id: t-75228
   teiginys: 'Sovietai naikino privatinę nuosavybę ekonomikoje, todėl Lietuvos žemės ūkyje turėjo būti steigiami kolektyviniai ūkiai.'
+  sudarymo_pagrindimas: 'Pašalinta antraštė ir sutrumpintas sakinys, paliekant citatos faktą.'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -53,6 +55,11 @@ Nenurodyta
 - t-002
   global_id: t-75229
   teiginys: '1948 m. pavasarį kolektyvinių ūkių organizavimas Lietuvos kaime sukėlė didelį pasipriešinimą.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie kolektyvizaciją ir paremtas citata.'
+  susije_objektai: 'mentioned_place: Kaimas; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1948 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie kolektyvizaciją ir paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -60,6 +67,11 @@ Nenurodyta
 - t-003
   global_id: t-75230
   teiginys: 'Per kolektyvizaciją Lietuvoje į valstybinį žemės fondą buvo paimta be šeimininkų likusi, pasitraukusiųjų, repatrijavusiųjų, partizanų ir tremtinių žemė.'
+  sudarymo_pagrindimas: 'Reikia aiškiau susieti faktą su Lietuvos kolektyvizacija.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kolektyvizacija|kolektyvizacija]]; mentioned_place: Kaimas; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1948 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia aiškiau susieti faktą su Lietuvos kolektyvizacija.'
   pagrindžia:
     - c-001
 
@@ -106,7 +118,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/kolektyvizacija]]

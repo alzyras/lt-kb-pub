@@ -39,6 +39,9 @@ Nenurodyta
 - t-001
   global_id: t-62194
   teiginys: 'Almimolinas, saracėnų valdovas, su gausia kariuomene atvyko į Ispaniją, paskelbė karą krikščionims, buvo Ispanijos karalių nugalėtas ir pabėgo.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pradinis teiginys yra nebaigtas ir neapima citatoje nurodyto pralaimėjimo rezultato.'
+  susije_objektai: 'location: Ispanija; mentioned_group: [[objektai/grupes/Saracėnai|Saracėnai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Almimolinas|Almimolinas]]; mentioned_place: Ispanija'
   pagrindžia:
     - c-001
 
@@ -59,9 +62,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Almimolinas]]
-- [[objektai/grupes/Saracėnai]]
-- [[objektai/grupes/Totoriai]]

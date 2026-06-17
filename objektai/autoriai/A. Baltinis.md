@@ -28,6 +28,9 @@ Baltinis, Vysk.
 - t-001
   global_id: t-30496
   teiginys: 'A. Baltinis parašė veikalą „Vysk. V. Borisevičiaus gyvenimas ir darbai“, išleistą Romoje 1975 m.'
+  susije_objektai: 'mentioned_place: Roma'
+  temporaliniai_duomenys: 'įvykio data: 1975 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

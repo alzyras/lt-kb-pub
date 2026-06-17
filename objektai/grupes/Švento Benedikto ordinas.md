@@ -22,6 +22,11 @@ Dusburgietis teigia, kad apie vienuolijų kilmę ir pradžią Švento Benedikto 
 - t-001
   global_id: t-59047
   teiginys: 'Švento Benedikto ordinas pradėjo veikti 500 m. popiežiaus Felikso III laikais.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Benediktas|Benediktas]]'
+  temporaliniai_duomenys: 'įvykio data: 500 m'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -40,7 +45,3 @@ Dusburgietis teigia, kad apie vienuolijų kilmę ir pradžią Švento Benedikto 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Benediktas]]

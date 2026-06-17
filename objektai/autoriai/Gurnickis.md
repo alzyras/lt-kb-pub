@@ -14,6 +14,7 @@ tags:
   - karalius
   - kunigaikštis
   - kunigas
+  - vyskupas
 amziai:
   - 'XVI'
 periodo_grupes:
@@ -31,9 +32,15 @@ Joje ir bu­ vo pagamintos anos dirbtinės ugnys, degintos Vilniuje, kurias Gurn
 - t-001
   global_id: t-88091
   teiginys: 'Gurnickis paminėjo, kad 1540 m. Vilniuje džiaugtasi žinia apie karaliaus Jono sūnaus gimimą.'
+  sudarymo_pagrindimas: 'Citata palaiko teiginį apie Gurnickio minimą įvykį Vilniuje.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_object: [[objektai/zodynas/pakancleris|pakancleris]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva; mentioned_place: Plockas; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1540 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko teiginį apie Gurnickio minimą įvykį Vilniuje.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/daiktai/Vilniaus pilies Puškarnia, artilerijos įranga, amunicija ir dirbtinės ugnys.md#claim-t-87101|Vilniaus pilies Puškarnia, artilerijos įranga, amunicija ir dirbtinės ugnys]]: Prie Vilniaus pilies buvo įkurta Puškarnia, kurioje gaminta artilerijos įranga, amunicija ir dirbtinės ugnys.
+- susijęs iš [[objektai/zodynas/Puškarnia.md#claim-t-86613|Puškarnia]]: Puškarnia buvo anuometinės artilerijos įrangos ir amunicijos dirbtuvė.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -75,14 +82,3 @@ Joje ir bu­ vo pagamintos anos dirbtinės ugnys, degintos Vilniuje, kurias Gurn
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Artilerija]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/kunigas]]
-- [[objektai/zodynas/pakancleris]]
-- [[objektai/asmenys/Žygimantas]]
-- [[objektai/zodynas/Puškarnia]]
-- [[objektai/daiktai/Vilniaus pilies Puškarnia, artilerijos įranga, amunicija ir dirbtinės ugnys]]

@@ -45,6 +45,12 @@ Nenurodyta
 - t-001
   global_id: t-62761
   teiginys: '1279 m. Varmės vyskupas Henrikas įkūrė Brunsbergo miestą ir pilį toje vietoje, kur jie tebestovėjo Dusburgiečio laikais.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pradinis teiginys beveik tinkamas, bet reikia pašalinti boilerplate ir išnašos žymą.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Brunsbergas; mentioned_place: Elbingas; mentioned_place: Varmė'
+  temporaliniai_duomenys: 'įkūrimo data: 1279 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys beveik tinkamas, bet reikia pašalinti boilerplate ir išnašos žymą.'
   pagrindžia:
     - c-001
     - c-002
@@ -80,11 +86,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Malūnas]]
-- [[objektai/zodynas/konsekracija]]
-- [[objektai/zodynas/vyskupystė]]
-- [[objektai/autoriai/Henrikas]]
-- [[objektai/asmenys/Henrikas (Varmės vyskupas)]]

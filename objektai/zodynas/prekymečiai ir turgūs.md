@@ -29,6 +29,11 @@ Reikšminga jo privilegija, 1441 metais išleista Bras­ toje, prikėlė Vilniui
 - t-001
   global_id: t-86610
   teiginys: 'Kazimiero 1441 m. Brastoje išleista privilegija nustatė Vilniui du didžiuosius prekymečius ir savaitinius turgus.'
+  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytą 1441 m. privilegijos turinį.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Mūro sienos ir miesto sienos|Mūro sienos ir miesto sienos]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Brasta; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1441 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia citatoje nurodytą 1441 m. privilegijos turinį.'
   pagrindžia:
     - c-001
 
@@ -64,12 +69,3 @@ Reikšminga jo privilegija, 1441 metais išleista Bras­ toje, prikėlė Vilniui
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Mūro sienos ir miesto sienos]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/asmenys/Žygimantas]]
-- [[objektai/asmenys/Kazimieras Jogailaitis]]
-- [[objektai/zodynas/Magdeburgo teisės]]
-- [[objektai/paprociai/Vilniaus miestiečių Magdeburgo teisės, prekybos laisvės ir municipalinių pajamų tvarka]]

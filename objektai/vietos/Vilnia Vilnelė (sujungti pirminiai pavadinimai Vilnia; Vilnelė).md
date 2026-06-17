@@ -23,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-Vietovė prie Vilijos ir Vilnios santakos Islandijos keliautojų pasakojimuose buvo žinoma jau XII amžiuje. Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją. Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją.
+Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojimų žinoma jau XII amžiuje; XIII amžiui įpu­ sėjus ten būta medinių namų gyvenvietės4. 17 ## Puslapis 34 VILNIAUS MIESTO ISTORIJA I TOMAS Vilnele, ilgą laiką ji nebuvo jokio svarbaus Lietuvos regiono sostinė, mat kunigaikščiai, arba tos tautos vadai, rengdami puolimus vis gilyn į Rusią, užgrobtose šio krašto žemėse įkurdavo savo valdžios. Bet labai tikėtina, kad nuo seno, iki Gedimino, kai lietuviams dar stigo drąsos būti už­ kariautojais, toje vietoje, kur dabar stovi Vilnius, ant kalvų, supančių Vilnios srovę, būta medinės tvirtovės6.
 
 ## Teiginiai
 
@@ -31,6 +31,8 @@ Vietovė prie Vilijos ir Vilnios santakos Islandijos keliautojų pasakojimuose b
 - t-001
   global_id: t-174190
   teiginys: 'Vietovė prie Vilijos ir Vilnios santakos Islandijos keliautojų pasakojimuose buvo žinoma jau XII amžiuje.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Islandija; mentioned_place: Lietuva; mentioned_place: Vilija'
   pagrindžia:
     - c-007
 
@@ -38,6 +40,8 @@ Vietovė prie Vilijos ir Vilnios santakos Islandijos keliautojų pasakojimuose b
 - t-002
   global_id: t-174191
   teiginys: 'Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją.'
+  sudarymo_pagrindimas: 'Citata remiasi kitų autorių pasakojimu.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_place: Aukštutinė pilis; mentioned_place: Luckas; mentioned_place: Trakai; mentioned_place: Vengrija; mentioned_place: Vilija; mentioned_place: Vilniaus Aukštutinė pilis; mentioned_place: Vilnius; mentioned_place: Šventaragio slėnis'
   pagrindžia:
     - c-011
 
@@ -45,6 +49,8 @@ Vietovė prie Vilijos ir Vilnios santakos Islandijos keliautojų pasakojimuose b
 - t-004
   global_id: t-174193
   teiginys: 'Balińskis Vilniaus vardą siejo su Vilnia, o ne Vilija, ir iš to sprendė, kad pirmykštė gyvenvietė buvo prie Vilnios.'
+  sudarymo_pagrindimas: 'Ilgas interpretacinis sakinys sutrumpintas ir priskirtas autoriui.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_place: Vilija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -52,6 +58,8 @@ Vietovė prie Vilijos ir Vilnios santakos Islandijos keliautojų pasakojimuose b
 - t-005
   global_id: t-174194
   teiginys: '1522 metais prie Vilnelės iškilo popieriaus malūnas, buvęs aukščiau Vilniaus vaivados malūno ir žemiau Charitonovo palivarko.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, glaustas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_object: [[objektai/zodynas/Pilininkas|Pilininkas]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Albertas|Albertas]]; mentioned_place: Vilija; mentioned_place: Vilnelė; mentioned_place: Vilnius'
   pagrindžia:
     - c-004
 
@@ -59,6 +67,8 @@ Vietovė prie Vilijos ir Vilnios santakos Islandijos keliautojų pasakojimuose b
 - t-008
   global_id: t-174197
   teiginys: 'Didysis kunigaikštis Aleksandras dovanojo Maksimui Vasiljevičiui šienaujamą pievą už Vilnelės prie kelio į Užupį.'
+  sudarymo_pagrindimas: 'Patikslintas Aleksandro vaidmuo ir sakinys sutrumpintas.'
+  susije_objektai: 'territory: Užupis; territory: Vilnelė; territory: Vilnius; mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_person: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]; mentioned_place: Užupis; mentioned_place: Vilnelė; mentioned_place: Vilnius'
   pagrindžia:
     - c-015
 
@@ -66,6 +76,8 @@ Vietovė prie Vilijos ir Vilnios santakos Islandijos keliautojų pasakojimuose b
 - t-009
   global_id: t-174198
   teiginys: 'Vilnia tekėjo kalnų apsupta vaga ir įtekėjo į Viliją ties Gedimino pastatyta mūro tvirtove.'
+  sudarymo_pagrindimas: 'Citata palaiko konkretų teiginį apie Vilnios vagą ir santaką.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Manvydas|Manvydas]]; mentioned_place: Lietuva; mentioned_place: Vilija; mentioned_place: Vilnelė; mentioned_place: Vilnia'
   pagrindžia:
     - c-009
 
@@ -73,6 +85,8 @@ Vietovė prie Vilijos ir Vilnios santakos Islandijos keliautojų pasakojimuose b
 - t-010
   global_id: t-174199
   teiginys: 'Kiščina valdė Markučius ir ant kalno prie Vilnelės turėjo didelius kaimo stiliaus namus.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir paremtas citata.'
+  susije_objektai: 'territory: Kaimas; territory: Lietuva; territory: Vilnelė; territory: Vitebskas; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_object: [[objektai/daiktai/Vamzdžiai|Vamzdžiai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Kiščina (Vitebsko vaivadienė)|Kiščina (Vitebsko vaivadienė)]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Kaimas; mentioned_place: Lietuva; mentioned_place: Vilnelė; mentioned_place: Vitebskas'
   pagrindžia:
     - c-012
 
@@ -80,6 +94,8 @@ Vietovė prie Vilijos ir Vilnios santakos Islandijos keliautojų pasakojimuose b
 - t-012
   global_id: t-174201
   teiginys: 'Balińskis manė, kad iki Gedimino ant Vilnios srovę supančių kalvų, kur dabar stovi Vilnius, tikėtina, buvo medinė tvirtovė.'
+  sudarymo_pagrindimas: 'Citata pateikia autoriaus atsargią interpretaciją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva; mentioned_place: Vilija; mentioned_place: Vilnius'
   pagrindžia:
     - c-006
 
@@ -87,6 +103,8 @@ Vietovė prie Vilijos ir Vilnios santakos Islandijos keliautojų pasakojimuose b
 - t-013
   global_id: t-174202
   teiginys: 'Vilnia, arba Vilnelė, anuomet tekėjo pro Pilies gatvę, palei Pilies vartus ir už dabartinės katedros įtekėjo į Viliją.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_place: Vilija; mentioned_place: Vingrių upokšnis'
   pagrindžia:
     - c-013
 
@@ -94,6 +112,11 @@ Vietovė prie Vilijos ir Vilnios santakos Islandijos keliautojų pasakojimuose b
 - t-014
   global_id: t-174203
   teiginys: '1469 metais bernardinams bažnyčiai ir vienuolynui statyti buvo atiduotas slėnis, nusidriekęs palei Vilnios upę prie Karališkojo malūno.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir pakankamai tiksliai perteikia citatos faktą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_object: [[objektai/zodynas/neofitai|neofitai]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Karališkasis malūnas Vilniuje; mentioned_place: Lietuva; mentioned_place: Pskovas; mentioned_place: Vilniaus monetų kalykla; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 900 m'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir pakankamai tiksliai perteikia citatos faktą.'
   pagrindžia:
     - c-014
 
@@ -101,6 +124,8 @@ Vietovė prie Vilijos ir Vilnios santakos Islandijos keliautojų pasakojimuose b
 - t-015
   global_id: t-174204
   teiginys: 'Gediminas įsakė pastatyti mūrinę pilį Vilnelės ir Vilijos upių santakoje.'
+  sudarymo_pagrindimas: 'Panaudota citatos dalis, kuri aiškiai susijusi su Vilnele.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Romainiai; mentioned_place: Trakai; mentioned_place: Viena; mentioned_place: Vilija; mentioned_place: Vilnelė; mentioned_place: Vilnius; mentioned_place: Voluinė'
   pagrindžia:
     - c-005
 
@@ -108,6 +133,8 @@ Vietovė prie Vilijos ir Vilnios santakos Islandijos keliautojų pasakojimuose b
 - t-017
   global_id: t-174206
   teiginys: '1580 metais ant kalno prie Vilnelės Kasparo Bekešo kapui buvo pastatytas apvalaus bokšto pavidalo paminklas.'
+  sudarymo_pagrindimas: 'Pirminis teiginys ne apie objektą, bet citata remia faktą apie Vilnelę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija|Vilniaus vyskupijos klierikų kolegija]]; mentioned_object: [[objektai/zodynas/fundacija|fundacija]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Astikas|Astikas]]; mentioned_person: [[objektai/asmenys/Jurgis Astikas|Jurgis Astikas]]; mentioned_place: Vilnelė; mentioned_place: Vilnius'
   pagrindžia:
     - c-010
 
@@ -115,6 +142,8 @@ Vietovė prie Vilijos ir Vilnios santakos Islandijos keliautojų pasakojimuose b
 - t-020
   global_id: t-174209
   teiginys: 'Nuo tvirtovės prie Vilnios palei krantą pažemiais trobelės tęsėsi iki Vilijos.'
+  sudarymo_pagrindimas: 'Perrašyta į aiškesnį pilną sakinį be negrabios konstrukcijos.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Vilija'
   pagrindžia:
     - c-008
 
@@ -122,6 +151,8 @@ Vietovė prie Vilijos ir Vilnios santakos Islandijos keliautojų pasakojimuose b
 - t-021
   global_id: t-174210
   teiginys: 'Pasak autoriaus, Gediminas, statydindamas pilį, iškasė Vilnelei kitą vagą.'
+  sudarymo_pagrindimas: 'Citatos išnaša remia faktą apie Vilnelės vagą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnelė; mentioned_place: Vilnius; mentioned_place: Vokietija'
   pagrindžia:
     - c-002
 
@@ -129,6 +160,8 @@ Vietovė prie Vilijos ir Vilnios santakos Islandijos keliautojų pasakojimuose b
 - t-022
   global_id: t-174211
   teiginys: 'Tarp Vilijos ir Vilnelės plytėjo Šventaragio slėnio lanka, nuo seno apaugusi ąžuolais.'
+  sudarymo_pagrindimas: 'Citata remia trumpą faktą apie Vilijos ir Vilnelės tarpupį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_person: [[objektai/asmenys/Manvydas|Manvydas]]; mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_place: Lietuva; mentioned_place: Vilija; mentioned_place: Vilnelė'
   pagrindžia:
     - c-003
 

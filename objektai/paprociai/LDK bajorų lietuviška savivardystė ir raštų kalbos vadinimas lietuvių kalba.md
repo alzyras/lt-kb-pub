@@ -42,6 +42,7 @@ Nenurodyta
 - t-001
   global_id: t-54260
   teiginys: 'LDK bajorai, nepaisant etninės kilmės, laikė save lietuviais.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltarusiai|Baltarusiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Ukrainiečiai|Ukrainiečiai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -49,6 +50,11 @@ Nenurodyta
 - t-002
   global_id: t-183315
   teiginys: 'Visa LDK teritorija, apėmusi dabartinę Lietuvą ir Baltarusiją, ilgainiui pradėta vadinti Lietuva, o šiandien vadinama istorine Lietuva.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginį reikia sutvarkyti į savarankišką sakinį be priklausomybės nuo ankstesnio konteksto.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltarusiai|Baltarusiai]]; mentioned_group: [[objektai/grupes/Ukrainiečiai|Ukrainiečiai]]; mentioned_object: [[objektai/zodynas/istorinė Lietuva|istorinė Lietuva]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -74,9 +80,3 @@ Nenurodyta
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Baltarusiai]]
-- [[objektai/grupes/Ukrainiečiai]]
-- [[objektai/zodynas/istorinė Lietuva]]

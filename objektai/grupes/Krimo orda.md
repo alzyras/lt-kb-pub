@@ -42,9 +42,3 @@ Krimo totoriai pradėjo smarkius puolimus, ypač prieš Kijevo, Podolės ir Gali
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Totoriai]]
-- [[objektai/zodynas/chanas]]
-- [[objektai/grupes/Krimo totoriai]]

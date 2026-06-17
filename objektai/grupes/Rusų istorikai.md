@@ -21,9 +21,12 @@ Daškevič : Političeskije zamyśli Vitovta, Kiivskije UniversitetsLIETUVOS IST
 - t-001
   global_id: t-31346
   teiginys: 'Rusų istorikai Lietuvą vadino „Litovsko-russkoje gosudarstvo“ („Lietuvių ir rusų valstybe“).'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/autoriai/E. I. Leontovičius.md#claim-t-30593|E. I. Leontovičius]]: E. I. Leontovičius buvo žymus teisės istorikas, palikęs studijų apie Lietuvos valstybės teisinius santykius ir institucijas.
+- susijęs iš [[objektai/autoriai/M. F. Vladimirskij-Budanov.md#claim-t-30827|M. F. Vladimirskij-Budanov]]: M. F. Vladimirskij-Budanovas buvo teisės istorikas, palikęs daug studijų ir straipsnių apie Lietuvos valstybės teisinius santykius ir institucijas.
+- susijęs iš [[objektai/autoriai/Rusų ir ukrainiečių istorikai.md#claim-t-47895|Rusų ir ukrainiečių istorikai]]: E. I. Leontovičius ir M. F. Vladimirskis-Budanovas buvo teisės istorikai, tyrę Lietuvos valstybės teisinius santykius ir institucijas.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -42,10 +45,3 @@ Daškevič : Političeskije zamyśli Vitovta, Kiivskije UniversitetsLIETUVOS IST
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Rusai]]
-- [[objektai/autoriai/E. I. Leontovičius]]
-- [[objektai/autoriai/M. F. Vladimirskij-Budanov]]
-- [[objektai/autoriai/Rusų ir ukrainiečių istorikai]]

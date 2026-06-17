@@ -26,6 +26,11 @@ Dusburgietis teigia, kad zajączkowski S.
 - t-001
   global_id: t-61377
   teiginys: 'S. Zajączkowskio straipsnis „Jotvingių problema istoriografijoje“ paskelbtas 1941 m. leidinio „Lietuvos praeitis“ 1 tomo 2 sąsiuvinyje.'
+  sudarymo_pagrindimas: 'Citata pateikia leidinio, metų, tomo, sąsiuvinio ir puslapių duomenis.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1941 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pateikia leidinio, metų, tomo, sąsiuvinio ir puslapių duomenis.'
   pagrindžia:
     - c-001
 

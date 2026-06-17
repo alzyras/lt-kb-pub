@@ -30,6 +30,7 @@ Formulė priešpriešina juridinius aktus ir tikrąją politinio gyvenimo eigą.
 - t-001
   global_id: t-67254
   teiginys: 'Unijos dokumentas liko juridiniu aktu, o politinis gyvenimas savo raida nuėjo kitu keliu.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Tame (Baigos brolis)|Tame (Baigos brolis)]]; mentioned_place: Katra; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
     - c-003
@@ -38,6 +39,8 @@ Formulė priešpriešina juridinius aktus ir tikrąją politinio gyvenimo eigą.
 - t-002
   global_id: t-67255
   teiginys: 'Unijos dokumentas liko dokumentu, o gyvenimas pagal savo logiką pasuko kitu keliu.'
+  sudarymo_pagrindimas: 'Reikia pašalinti neaiškią nuorodą „pastarosios“ ir suformuluoti savarankišką sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Katra; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -45,6 +48,11 @@ Formulė priešpriešina juridinius aktus ir tikrąją politinio gyvenimo eigą.
 - t-003
   global_id: t-184251
   teiginys: 'Posakiu „Aktai sau, gyvenimas nuėjo sau“ apibūdinta padėtis po Liublino unijos, kai Lietuva pasiliko savarankiška.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Vien tik posakis nėra rimtas faktinis teiginys, bet citata leidžia jį paaiškinti.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Horodlė; mentioned_place: Lietuva; mentioned_place: Liublinas'
   pagrindžia:
     - c-003
 
@@ -98,9 +106,3 @@ Formulė priešpriešina juridinius aktus ir tikrąją politinio gyvenimo eigą.
   pagrindžia:
     - t-003
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/asmenys/Tame (Baigos brolis)]]
-- [[objektai/zodynas/unija]]

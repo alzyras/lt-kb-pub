@@ -5,6 +5,8 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1992 m.'
+  - '1993 m.'
+  - '1998 m.'
   - '2000 m.'
 date_start: '1992'
 date_end: '2000'
@@ -29,9 +31,14 @@ Net buvo sakoma, kad Lietuvos visuomenė suskilo į „brazauskininkus“ ir „
 - t-001
   global_id: t-77844
   teiginys: 'Po LDDP ir konservatorių rinkimų sėkmių sakyta, kad Lietuvos visuomenė suskilo į „brazauskininkus“ ir „landsbergininkus“.'
+  sudarymo_pagrindimas: 'Perrašyta, kad teiginys turėtų aiškesnį istorinį kontekstą iš citatos.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lietuva; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1992 m.; įvykio data: 1993 m.; įvykio data: 1998 m.; įvykio data: po 2000 m.; įvykio data: 2000 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data.'
+  temporalinis_llm_pakomentavimas: 'Perrašyta, kad teiginys turėtų aiškesnį istorinį kontekstą iš citatos.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/zodynas/Brazauskininkai ir landsbergininkai.md#claim-t-21986|Brazauskininkai ir landsbergininkai]]: Po 1992 m. ir 1996 m. rinkimų buvo sakoma, kad Lietuvos visuomenė suskilo į „brazauskininkus“ ir „landsbergininkus“.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -59,8 +66,3 @@ Net buvo sakoma, kad Lietuvos visuomenė suskilo į „brazauskininkus“ ir „
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/seimas]]
-- [[objektai/zodynas/Brazauskininkai ir landsbergininkai]]

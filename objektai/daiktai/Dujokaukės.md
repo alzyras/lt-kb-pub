@@ -47,9 +47,12 @@ Nenurodyta
 - t-001
   global_id: t-40705
   teiginys: 'Dujokaukės buvo gautos iš Vilniaus miesto tarybos.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Statybininkų šalmai|Statybininkų šalmai]]; mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1947 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/daiktai/Statybininkų šalmai.md#claim-t-40772|Statybininkų šalmai]]: Statybininkų šalmai ir dujokaukės Lietuvos atsikūrimo metu buvo gautos iš Vilniaus miesto tarybos.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -76,8 +79,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Statybininkų šalmai]]
-- [[objektai/daiktai/Šautuvai]]

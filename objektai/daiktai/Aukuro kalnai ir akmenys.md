@@ -40,6 +40,8 @@ Nenurodyta
 - t-001
   global_id: t-77919
   teiginys: 'Ugnies garbinimas buvo susijęs su Lietuvoje išplitusiais Aukuro kalnais ir akmenimis.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Aukuras|Aukuras]]; mentioned_object: [[objektai/zodynas/amfiktionija|amfiktionija]]; mentioned_place: Lietuva; mentioned_place: Nadruva; mentioned_place: Romuva'
   pagrindžia:
     - c-001
 
@@ -62,8 +64,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Aukuras]]
-- [[objektai/zodynas/amfiktionija]]

@@ -49,6 +49,8 @@ Nenurodyta
 - t-001
   global_id: t-86996
   teiginys: 'Długoszo tekste minima pieva, kurioje buvo sustatytos prūsų bombardos.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Długoszo teksto formuluotę ir paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Bombardos|Bombardos]]; mentioned_place: Prūsai'
   pagrindžia:
     - c-003
 
@@ -56,6 +58,8 @@ Nenurodyta
 - t-002
   global_id: t-86997
   teiginys: 'Patrankų padariniai kartu su anglų lankininkų veiksmais lėmė didelius Lietuvos patirtus smūgius.'
+  sudarymo_pagrindimas: 'Pradinė formuluotė užteršta antraštėmis; citata remia bendrą faktą apie patrankų poveikį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Anglai|Anglai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/Arkikomtūras|Arkikomtūras]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-004
 
@@ -63,6 +67,8 @@ Nenurodyta
 - t-003
   global_id: t-86998
   teiginys: 'Puolant Vilniaus Aukštutinę pilį, artilerijos karo mašinos ir ugniasvaidės bombardos be paliovos šaudė į mūrus.'
+  sudarymo_pagrindimas: 'Pirminiam teiginiui trūko aiškaus konteksto, kur vyko bombardų šaudymas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Anglai|Anglai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/daiktai/Bombardos|Bombardos]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -70,6 +76,11 @@ Nenurodyta
 - t-004
   global_id: t-86999
   teiginys: '1383 m. puolant Trakų pilį, jos mūrai buvo sugriauti bombardomis, o įgula priversta pasiduoti.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nurodo datą, veiksmą ir rezultatą, o citata tai patvirtina.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Trakai; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1383 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo datą, veiksmą ir rezultatą, o citata tai patvirtina.'
   pagrindžia:
     - c-002
 
@@ -156,23 +167,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Anglai]]
-- [[objektai/zodynas/Arkikomtūras]]
-- [[objektai/daiktai/Artilerija]]
-- [[objektai/daiktai/Bombardos]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Skirgaila]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/maršalas]]
-- [[objektai/zodynas/Miera|miera]]
-- [[objektai/zodynas/įgula]]
-- [[objektai/daiktai/Bombardos, patrankos ir artilerijos karo mašinos]]
-- [[objektai/daiktai/Lankai, strėlės ir šaudyklės]]
-- [[objektai/grupes/Livonijos ordinas]]
-- [[objektai/ivykiai/Trakų pilies apgultis ir paėmimas (1383 m. rugsėjo 11 d.)]]
-- [[objektai/grupes/Vytauto šalininkai]]

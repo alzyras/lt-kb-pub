@@ -26,6 +26,10 @@ Dusburgietis teigia, kad krakowski S.
 - t-001
   global_id: t-61105
   teiginys: 'S. Krakowskio darbas „Obrona pogranicza wschodniego Małopolski za Leszka Czarnego“ paskelbtas Lodzėje 1960 m.'
+  sudarymo_pagrindimas: 'Citata pagrindžia autoriaus darbo publikavimo faktą.'
+  temporaliniai_duomenys: 'įvykio data: 1960 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia autoriaus darbo publikavimo faktą.'
   pagrindžia:
     - c-001
 

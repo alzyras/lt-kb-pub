@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Vasilijus Dimitrijevičius Smolenske pagerbė Vytautą auksinėmis grandinėmis ir diržais tarp kitų brangių dovanų.
+Lietuvos metraštyje pasakojama, kad lietuvos metraštis pasakoja, kad Vasilijus Dimitrijevičius pagerbė Vytautą auksinėmis grandinėmis ir diržais; Šiame gabale grandinės ir diržai minimi kaip diplomatinės dovanos tarp valdovų.
 
 ## Pavadinimai šaltiniuose
 
@@ -41,6 +41,9 @@ Nenurodyta
 - t-001
   global_id: t-186841
   teiginys: 'Vasilijus Dimitrijevičius Smolenske pagerbė Vytautą auksinėmis grandinėmis ir diržais tarp kitų brangių dovanų.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Bachmatai|Bachmatai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Lengvenis|Lengvenis]]; mentioned_person: [[objektai/asmenys/Vasilijus|Vasilijus]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Smolenskas'
   pagrindžia:
     - c-001
 
@@ -66,12 +69,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Bachmatai]]
-- [[objektai/asmenys/Lengvenis]]
-- [[objektai/asmenys/Vasilijus]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/didysis kunigaikštis]]
-- [[objektai/ivykiai/Vytauto siųstas žygis į Riazanę]]

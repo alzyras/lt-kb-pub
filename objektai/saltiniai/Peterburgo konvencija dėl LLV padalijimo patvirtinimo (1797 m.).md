@@ -5,8 +5,9 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1797 m.'
+  - '1815 m.'
 date_start: '1797'
-date_end: ''
+date_end: '1815'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -14,6 +15,7 @@ tags:
   - valstybė
 amziai:
   - 'XVIII'
+  - 'XIX'
 ---
 # Peterburgo konvencija dėl LLV padalijimo patvirtinimo (1797 m.)
 
@@ -27,6 +29,11 @@ amziai:
 - t-001
   global_id: t-21224
   teiginys: '1797 m. sausio 26 d. Rusija, Prūsija ir Austrija pasirašė naują Peterburgo konvenciją, kuri patvirtino trečiąjį LLV padalijimą, panaikino jos valstybingumo likučius ir nubrėžė tikslias sienas.'
+  sudarymo_pagrindimas: 'Teiginys yra išsamus faktinis sakinys apie konvenciją ir sutampa su citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/abdikacija|abdikacija]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Austrija; mentioned_place: Lenkija; mentioned_place: Peterburgas; mentioned_place: Prūsija'
+  temporaliniai_duomenys: 'įvykio data: 1797 m.; įvykio data: 1815 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra išsamus faktinis sakinys apie konvenciją ir sutampa su citata.'
   pagrindžia:
     - c-001
 

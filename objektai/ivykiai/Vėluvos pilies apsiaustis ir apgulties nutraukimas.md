@@ -38,6 +38,9 @@ Nenurodyta
 - t-001
   global_id: t-62956
   teiginys: 'Henrikas Tupadelis ragino Vėluvos pilies gynėjus priešintis ir daug kartų padėjo gesinti piliai padegti pakištus degalus.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Pradinis teiginys fragmentiškas ir baigiasi nepilnu sakiniu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Henrikas Tupadelis|Henrikas Tupadelis]]; mentioned_place: Viena; mentioned_place: Vėluva'
   pagrindžia:
     - c-001
 
@@ -45,6 +48,9 @@ Nenurodyta
 - t-002
   global_id: t-62957
   teiginys: 'Prūsų, sūduvių ir lietuvių kariuomenė aštuonias dienas laikė apsupusi Vėluvos pilį ir kasdien ją puolė dviem apgulos mašinomis.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pradinis teiginys turi boilerplate ir nereikalingų šaltinio konstrukcijų.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Semba; mentioned_place: Viena; mentioned_place: Vėluva'
   pagrindžia:
     - c-002
 
@@ -87,14 +93,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/Henrikas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Sūduviai]]
-- [[objektai/grupes/Teutonai]]
-- [[objektai/zodynas/netikėliai]]
-- [[objektai/asmenys/Henrikas Tupadelis]]
-- [[objektai/grupes/Sūduviai-jotvingiai]]
-- [[objektai/zodynas/balista balistininkas arbaletas]]

@@ -34,6 +34,7 @@ Nenurodyta
 - t-001
   global_id: t-07767
   teiginys: 'Ant auko kalnų ir didelių akmenų žmonės meldėsi ir dievams aukavo, degindami įvairias aukas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Aukausenos|Aukausenos]]'
   pagrindžia:
     - c-001
 
@@ -52,8 +53,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Aukausenos|aukausenos]]
-- [[objektai/daiktai/Gintaras]]

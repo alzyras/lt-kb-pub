@@ -3,6 +3,10 @@ tipas: ivykis
 pavadinimas: 'ATR karai su Švedija XVII a'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1605 m.'
+date_start: '1605'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -10,6 +14,8 @@ tags:
   - ivykis
   - karalius
   - karas
+amziai:
+  - 'XVII'
 ---
 # ATR karai su Švedija XVII a
 
@@ -39,6 +45,11 @@ Nenurodyta
 - t-001
   global_id: t-20159
   teiginys: 'Per XVII a. karus su Švedija Lietuvos kariuomenė laimėjo Salaspilio mūšį, bet Švedija atėmė Rygą ir užvaldė Baltijos pakrantes.'
+  sudarymo_pagrindimas: 'Citata nepagrindžia karų datų ar Vazų pretenzijų, bet pagrindžia karo eigą ir padarinius.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Baltija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Švedija'
+  temporaliniai_duomenys: 'įvykio data: 1605 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata nepagrindžia karų datų ar Vazų pretenzijų, bet pagrindžia karo eigą ir padarinius.'
   pagrindžia:
     - c-001
 
@@ -57,11 +68,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/dinastija]]
-
-### Susiję objektai
-- [[objektai/grupes/Lietuvos kariuomenė]]
-- [[objektai/grupes/Švedai]]

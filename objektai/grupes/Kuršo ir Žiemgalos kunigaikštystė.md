@@ -20,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-Mūšyje lietuviams talkino leninės Kuršo ir Žiemgalos kunigaikštystės daliniai, apie 300 Fridricho Ketlerio reitarų. Mūšyje lietuviams talkino leninės Kuršo ir Žiemgalos kunigaikštystės daliniai, apie 300 Fridricho Ketlerio reitarų.
+Be lietuvių, mūšyje dalyvavo į pagalbą prieš mėnesį karaliaus atsiųsti Lenkijos pėstininkų daliniai (trys lenkų pėstininkų kuopos - apie 300 karių, viena jų mūšio metu saugojo lietuvių stovyklą), ir lietuviams talkininkavusių leninės Kuršo ir Žiemgalos.
 
 ## Teiginiai
 
@@ -28,6 +28,8 @@ Mūšyje lietuviams talkino leninės Kuršo ir Žiemgalos kunigaikštystės dali
 - t-001
   global_id: t-38968
   teiginys: 'Mūšyje lietuviams talkino leninės Kuršo ir Žiemgalos kunigaikštystės daliniai, apie 300 Fridricho Ketlerio reitarų.'
+  sudarymo_pagrindimas: 'Dvitaškio konstrukcija pakeista pilnu faktiniu sakiniu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Vėliavos|Vėliavos]]; mentioned_object: [[objektai/zodynas/raitarai|raitarai]]; mentioned_object: [[objektai/zodynas/rezervas|rezervas]]; mentioned_place: Kuršas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Žiemgala'
   pagrindžia:
     - c-001
 
@@ -82,13 +84,3 @@ Mūšyje lietuviams talkino leninės Kuršo ir Žiemgalos kunigaikštystės dali
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Karolis]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/daiktai/Vėliavos]]
-- [[objektai/zodynas/raitarai]]
-- [[objektai/zodynas/rezervas]]
-- [[objektai/grupes/Lietuvos kariuomenė]]

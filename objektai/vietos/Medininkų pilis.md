@@ -18,7 +18,7 @@ amziai:
 
 ## Santrauka
 
-Valdant Gediminui ar Algirdui Medininkų pilis priklausė mūro pilių sistemai aplink Lietuvos valstybės branduolį ir sostinę. Tikėtina, kad Vytauto laikais Medininkų pilis buvo sustiprinta mūrais. Medininkų pilį sudarė keli mediniai pastatai, apjuosti aukšta siena ir grioviu.
+Medininkų pilis šiame šaltinyje minima kaip mūrais sustiprinta Vytauto laikais.
 
 ## Pavadinimai šaltiniuose
 
@@ -56,6 +56,9 @@ Nenurodyta
 - t-001
   global_id: t-109758
   teiginys: 'Valdant Gediminui ar Algirdui Medininkų pilis priklausė mūro pilių sistemai aplink Lietuvos valstybės branduolį ir sostinę.'
+  sudarymo_pagrindimas: 'Perrašyta, kad sakinys tiesiogiai apibūdintų Medininkų pilį.'
+  susije_objektai: 'owner: [[objektai/asmenys/Algirdas|Algirdas]]; owner: Gardinas; owner: [[objektai/asmenys/Gediminas|Gediminas]]; owner: Kaunas; owner: Lietuva; owner: Medininkai; owner: [[objektai/asmenys/Mindaugas|Mindaugas]]; owner: Polockas; owner: Pskovas; owner: Voluinė; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Gardinas; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Medininkai; mentioned_place: Polockas; mentioned_place: Pskovas; mentioned_place: Voluinė'
+  semantiniai_rysiai: 'Medininkų pilis priklausė [[objektai/asmenys/Algirdas|Algirdas]]; Medininkų pilis priklausė [[objektai/asmenys/Gediminas|Gediminas]]; Medininkų pilis priklausė [[objektai/asmenys/Mindaugas|Mindaugas]]; Medininkų pilis priklausė Gardinas; Medininkų pilis priklausė Kaunas; Medininkų pilis priklausė Lietuva; Medininkų pilis priklausė Medininkai; Medininkų pilis priklausė Polockas; Medininkų pilis priklausė Pskovas; Medininkų pilis priklausė Voluinė'
   pagrindžia:
     - c-002
 
@@ -63,6 +66,8 @@ Nenurodyta
 - t-002
   global_id: t-109759
   teiginys: 'Tikėtina, kad Vytauto laikais Medininkų pilis buvo sustiprinta mūrais.'
+  sudarymo_pagrindimas: 'Citatoje faktas pateiktas su abejonės žyma, todėl ją reikia išlaikyti.'
+  susije_objektai: 'mentioned_place: Medininkai; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -70,6 +75,7 @@ Nenurodyta
 - t-003
   global_id: t-109760
   teiginys: 'Medininkų pilį sudarė keli mediniai pastatai, apjuosti aukšta siena ir grioviu.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/uolektis|uolektis]]; mentioned_place: Medininkai'
   pagrindžia:
     - c-005
 
@@ -77,6 +83,8 @@ Nenurodyta
 - t-004
   global_id: t-109761
   teiginys: 'Šventasis Kazimieras dažnai viešėdavo Medininkų pilyje, stovėjusioje prie Ašmenos kelio per keturias mylias nuo Vilniaus.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nusako Medininkų pilies vietą ir Kazimiero viešėjimą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Šventasis Kazimieras|Šventasis Kazimieras]]; mentioned_place: Ašmena; mentioned_place: Medininkai; mentioned_place: Vengrija; mentioned_place: Vilnius'
   pagrindžia:
     - c-004
 
@@ -84,6 +92,8 @@ Nenurodyta
 - t-005
   global_id: t-109762
   teiginys: 'Šventasis Kazimieras dažnai viešėdavęs Medininkų pilyje, buvusioje per keturias mylias nuo Vilniaus prie Ašmenos kelio.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Šventasis Kazimieras|Šventasis Kazimieras]]; mentioned_place: Ašmena; mentioned_place: Medininkai; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 
@@ -183,3 +193,15 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
+
+## Ryšiai
+- Medininkų pilis (pilis) priklause [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- Medininkų pilis (pilis) priklause [[objektai/vietos/Gardinas]]
+- Medininkų pilis (pilis) priklause [[objektai/asmenys/Gediminas]]
+- Medininkų pilis (pilis) priklause [[objektai/vietos/Kaunas]]
+- Medininkų pilis (pilis) priklause [[objektai/vietos/Lietuva]]
+- Medininkų pilis (pilis) priklause [[objektai/vietos/Medininkai]]
+- Medininkų pilis (pilis) priklause [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
+- Medininkų pilis (pilis) priklause [[objektai/vietos/Polockas]]
+- Medininkų pilis (pilis) priklause [[objektai/vietos/Pskovas]]
+- Medininkų pilis (pilis) priklause [[objektai/vietos/Voluinė]]

@@ -21,6 +21,8 @@ Dusburgietis teigia, kad grunau rašė, jog Romovėje resp. Romuvoje augęs mil�
 - t-001
   global_id: t-61004
   teiginys: 'S. Grunau Krivį vadino Krivių Krivaičiu ir siejo šį vardą su Brutenio ir Videvučio tradicija.'
+  sudarymo_pagrindimas: 'Iš fragmento pašalintas OCR triukšmas ir paliktas citatos palaikomas teiginys apie Grunau vartotą vardą.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_person: [[objektai/asmenys/Krivis|Krivis]]; mentioned_person: [[objektai/autoriai/S. Grunau|S. Grunau]]; mentioned_place: Livonija; mentioned_place: Prūsai'
   pagrindžia:
     - c-002
 
@@ -28,6 +30,8 @@ Dusburgietis teigia, kad grunau rašė, jog Romovėje resp. Romuvoje augęs mil�
 - t-002
   global_id: t-61005
   teiginys: 'S. Grunau rašė, kad Romuvoje augusiame milžiniškame ąžuole stovėjo Perkūno, Patulo ir Patrimpo stabai.'
+  sudarymo_pagrindimas: 'Teiginys sutrumpintas ir priskirtas Grunau, nes citata perteikia jo aprašymą.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/S. Grunau|S. Grunau]]; mentioned_place: Prūsai; mentioned_place: Romuva'
   pagrindžia:
     - c-001
 

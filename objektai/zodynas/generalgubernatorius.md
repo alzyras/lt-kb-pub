@@ -12,11 +12,11 @@ date_start: '1801'
 date_end: '1900'
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XIX'
 tags:
   - kraštas
   - sąvoka
+amziai:
+  - 'XIX'
 ---
 # generalgubernatorius
 
@@ -25,10 +25,16 @@ tags:
 Jį valdė Vilniaus generalgubernatorius.
 
 ## Teiginiai
+
 <a id="claim-t-45820"></a>
 - t-001
   global_id: t-45820
   teiginys: 'Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstesnio sukilimo slopinimo patirties, gavęs caro įgaliojimus, ėmėsi demonstratyvaus žiaurumo ir teroro priemonių.'
+  sudarymo_pagrindimas: 'Teiginys turi aiškų subjektą, veiksmą ir yra tiesiogiai pagrįstas citata.'
+  susije_objektai: 'mentioned_place: Anglija; mentioned_place: Lietuva; mentioned_place: Prancūzija; mentioned_place: Rusija; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1861 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys turi aiškų subjektą, veiksmą ir yra tiesiogiai pagrįstas citata.'
   pagrindžia:
     - c-003
 
@@ -36,6 +42,7 @@ Jį valdė Vilniaus generalgubernatorius.
 - t-002
   global_id: t-45822
   teiginys: 'Imperijos sostinių ir pakraščių regionuose tarp centro valdžios ir gubernijų dar veikė tarpinė grandis – generalgubernatoriaus institucija.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai apibūdina generalgubernatoriaus instituciją ir yra paremtas citata.'
   pagrindžia:
     - c-002
 
@@ -43,12 +50,55 @@ Jį valdė Vilniaus generalgubernatorius.
 - t-003
   global_id: t-182947
   teiginys: 'Rusijos šiaurės vakarų kraštą valdė Vilniaus generalgubernatorius.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinė formuluotė turi neaiškų įvardį; citata leidžia aiškiai įvardyti valdomą kraštą.'
+  susije_objektai: 'mentioned_place: Anglija; mentioned_place: Prancūzija; mentioned_place: Rusija; mentioned_place: Vilnius'
   pagrindžia:
-    - c-005
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-
+    - c-001
+- susijęs iš [[objektai/asmenys/Ivanas Kornilovas.md#claim-t-18931|Ivanas Kornilovas]]: Ivanas Kornilovas Muravjovo kvietimu prisidėjo prie rusinimo politikos ir buvo paskirtas Vilniaus švietimo apygardos globėju.
+- susijęs iš [[objektai/asmenys/Konstantinas Kalinauskas.md#claim-t-63838|Konstantinas Kalinauskas]]: Michailo Muravjovo įsakymu Konstantinas Kalinauskas buvo pakartas kartu su kitais sukilėliais.
+- susijęs iš [[objektai/asmenys/M. Muravjovas.md#claim-t-78023|M. Muravjovas]]: Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas gavo caro įgaliojimus ir ėmėsi demonstratyvaus žiaurumo bei teroro priemonių.
+- susijęs iš [[objektai/asmenys/M. Muravjovas.md#claim-t-78025|M. Muravjovas]]: Vilniaus generalgubernatorius M. Muravjovas rusinimo politikai vykdyti pasikvietė Ivaną Kornilovą.
+- susijęs iš [[objektai/asmenys/Michailas Muravjovas-Korikas.md#claim-t-87779|Michailas Muravjovas-Korikas]]: Michailas Muravjovas-Korikas po 1863 m. sukilimo buvo naujai paskirtas Vilniaus generalgubernatorius ir vykdė represijas krašte.
+- susijęs iš [[objektai/asmenys/Michailas Muravjovas.md#claim-t-71339|Michailas Muravjovas]]: Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstesnio sukilimo slopinimo patirties, gavęs caro įgaliojimus, ėmėsi demonstratyvaus žiaurumo ir teroro priemonių.
+- susijęs iš [[objektai/asmenys/Michailas Muravjovas.md#claim-t-71340|Michailas Muravjovas]]: Naujasis generalgubernatorius Michailas Muravjovas, pramintas „Koriku“, siekdamas įbauginti Lietuvos gyventojus, įsakė karti sukilėlius.
+- susijęs iš [[objektai/asmenys/T. Dalevskis.md#claim-t-40451|T. Dalevskis]]: T. Dalevskiui buvo įvykdyta egzekucija kartu su B. Kolyška, Z. Sierakausku, K. Kalinausku, A. Mackevičiumi ir kitais.
+- susijęs iš [[objektai/asmenys/V. Nazimovas.md#claim-t-40489|V. Nazimovas]]: Šiaurės Vakarų krašto generalgubernatorius V. Nazimovas balandžio pabaigoje įsakė I. Ganeckiui žygiuoti į Ukmergės apskritį ir sunaikinti sukilėlius.
+- susijęs iš [[objektai/ivykiai/1863 m. sukilimas.md#claim-t-86938|1863 m. sukilimas]]: Prasidėjo neramumai Lenkijoje, 1863 m. sukilimas.
+- susijęs iš [[objektai/ivykiai/Blaivybės brolijų ir susibūrimų uždraudimas (1863 m.).md#claim-t-01595|Blaivybės brolijų ir susibūrimų uždraudimas (1863 m.)]]: Vilniaus generalgubernatorius ir Kauno gubernatorius draudė blaivybės brolijas, nes tuo metu buvo uždraustos visos draugijos.
+- susijęs iš [[objektai/ivykiai/M. Balinskio mirtis ir palaidojimas.md#claim-t-86956|M. Balinskio mirtis ir palaidojimas]]: 1864 m. sausio 1 d. Mykolas Balinskis mirė Vilniuje ir buvo palaidotas Jašiūnų dvare.
+- susijęs iš [[objektai/paprociai/Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m.md#claim-t-54215|Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m]]: Rusinimo politikos 1864–1904 m. ėmėsi Vilniaus generalgubernatorius M. Muravjovas, pasitelkęs Ivaną Kornilovą.
+- susijęs iš [[objektai/paprociai/Carinės sukilimo slopinimo teroro ir viešų bausmių praktika.md#claim-t-183305|Carinės sukilimo slopinimo teroro ir viešų bausmių praktika (sukilimas)]]: Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstesnio sukilimo slopinimo patirties, gavęs caro įgaliojimus, ėmėsi demonstratyvaus žiaurumo ir teroro priemonių.
+- susijęs iš Baltvyžių girios: Baltvyžių giriose Sviatopolkas Mirskis ir Veriovkinas per medžioklę sutarė prikalbėti carą atšaukti spaudos draudimą.
+- susijęs iš Gardinas: 1801 m. Lietuvos gubernija padalyta į Lietuvos Vilniaus ir Lietuvos Gardino gubernijas.
+- susijęs iš Gardino gubernija: Gardino gubernijos šiaurinis pakraštys istoriniu etnografiniu požiūriu buvo laikomas lietuvišku.
+- susijęs iš Gardino gubernija: 1801 m. buvo sudaryta Lietuvos Gardino gubernija, pavaldi Vilniuje veikusiai generalgubernatoriaus institucijai.
+- susijęs iš Jašiūnai: 1864 m. sausio 1 d. Michałas Balinskis mirė Vilniuje ir buvo palaidotas Jašiūnų dvare.
+- susijęs iš Vilnius: 1801 m. Vilniuje pradėjusi veikti generalgubernatoriaus institucija valdė Lietuvos Vilniaus ir Lietuvos Gardino gubernijas.
+- susijęs iš Vilnius: 1864 m. sausio 1 d. Michałas Balińskis mirė Vilniuje ir buvo palaidotas Jašiūnų dvare.
+- susijęs iš [[objektai/zodynas/gubernija apskritis (ujezd).md#claim-t-22156|gubernija apskritis (ujezd)]]: Aneksuotoje teritorijoje iš pradžių kurtos dvi gubernijos po metų buvo sujungtos į vieną Lietuvos guberniją.
+- susijęs iš [[objektai/zodynas/gubernija.md#claim-t-22158|gubernija]]: Aneksuotoje teritorijoje iš pradžių kurtos dvi gubernijos po metų buvo sujungtos į vieną Lietuvos guberniją.
+- susijęs iš [[objektai/zodynas/rusinimas rusinimo politika.md#claim-t-22286|rusinimas rusinimo politika]]: Rusinimo politikos programa siekė silpninti vietos dvarininkiją ir viešajame gyvenime įtvirtinti rusų kalbą.
+- susijęs iš [[objektai/zodynas/rusinimas.md#claim-t-22289|rusinimas]]: Rusinimo politikos programa siekė silpninti vietos dvarininkiją ir viešajame gyvenime įtvirtinti rusų kalbą.
 ## Reikšmingi paminėjimai
+
+- c-001
+  santrauka: 'Rusijos šiaurės vakarų kraštą valdė Vilniaus generalgubernatorius.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Visos tos trys gubernijos iš pradžių ir Rusų valdžios buvo
+    vadinamos Lietuvos gubernijomis. Tačiau, kai pra-
+    sidėjo rusinimo pastangos, rusai jas ėmė vadinti Rusijos
+    šiaurės vakarų kraštu. Jį valdė Vilniaus generalgu-
+    bernatorius.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
+
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -62,6 +112,7 @@ Jį valdė Vilniaus generalgubernatorius.
   statusas: verified
   pagrindžia:
     - t-002
+
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -79,6 +130,7 @@ Jį valdė Vilniaus generalgubernatorius.
   statusas: verified
   pagrindžia:
     - t-001
+
 - c-004
   santrauka: 'Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstesnio sukilimo slopinimo patirties, gavęs caro įgaliojimus, ėmėsi demonstratyvaus žiaurumo ir teroro priemonių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -95,39 +147,3 @@ Jį valdė Vilniaus generalgubernatorius.
   statusas: verified
   pagrindžia:
     - t-004
-- c-005
-  santrauka: 'Rusijos šiaurės vakarų kraštą valdė Vilniaus generalgubernatorius.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Visos tos trys gubernijos iš pradžių ir Rusų valdžios buvo
-    vadinamos Lietuvos gubernijomis. Tačiau, kai pra-
-    sidėjo rusinimo pastangos, rusai jas ėmė vadinti Rusijos
-    šiaurės vakarų kraštu. Jį valdė Vilniaus generalgu-
-    bernatorius.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Rusai]]
-- [[objektai/zodynas/gubernija]]
-- [[objektai/zodynas/rusinimas]]
-- [[objektai/ivykiai/1863 m. sukilimas]]
-- [[objektai/ivykiai/Blaivybės brolijų ir susibūrimų uždraudimas (1863 m.)]]
-- [[objektai/paprociai/Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m]]
-- [[objektai/paprociai/Carinės sukilimo slopinimo teroro ir viešų bausmių praktika|Carinės sukilimo slopinimo teroro ir viešų bausmių praktika (sukilimas)]]
-- [[objektai/asmenys/Ivanas Kornilovas]]
-- [[objektai/asmenys/Konstantinas Kalinauskas]]
-- [[objektai/ivykiai/M. Balinskio mirtis ir palaidojimas]]
-- [[objektai/asmenys/M. Muravjovas]]
-- [[objektai/asmenys/Michailas Muravjovas]]
-- [[objektai/asmenys/Michailas Muravjovas-Korikas]]
-- [[objektai/asmenys/T. Dalevskis]]
-- [[objektai/zodynas/gubernija apskritis (ujezd)]]
-- [[objektai/zodynas/rusinimas rusinimo politika]]
-- [[objektai/asmenys/V. Nazimovas]]

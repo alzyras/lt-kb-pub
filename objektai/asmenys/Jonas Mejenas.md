@@ -3,12 +3,17 @@ tipas: asmuo
 pavadinimas: 'Jonas Mejenas'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+datos: []
+date_start: ''
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - sukilimas
   - tauta
+amziai: []
+periodo_grupes: []
 ---
 # Jonas Mejenas
 
@@ -22,6 +27,11 @@ Jono Mejeno divizija, kurią sudarė 2-0ji ir 3-ioji Tautinės kavalerijos briga
 - t-001
   global_id: t-40223
   teiginys: 'Gen. mjr. Jono Mejeno divizija gynė Vilnių nuo rusų puolimo.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir paremtas citatoje pateikta informacija apie Jono Mejeno diviziją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Jono Mejeno divizija|Jono Mejeno divizija]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1794 m.; įvykio data: 2004 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir paremtas citatoje pateikta informacija apie Jono Mejeno diviziją.'
   pagrindžia:
     - c-001
 
@@ -29,6 +39,8 @@ Jono Mejeno divizija, kurią sudarė 2-0ji ir 3-ioji Tautinės kavalerijos briga
 - t-002
   global_id: t-40224
   teiginys: 'Liepos ir rugpjūčio mėnesiais Vilniaus gynybai tiesiogiai vadovavo generolas majoras Jonas Mejenas.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nurodo laiką, veiksmą ir asmenį, o citata jį tiesiogiai patvirtina.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -89,9 +101,3 @@ Jono Mejeno divizija, kurią sudarė 2-0ji ir 3-ioji Tautinės kavalerijos briga
   pagrindžia:
     - t-003
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Rusai]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/grupes/Jono Mejeno divizija]]

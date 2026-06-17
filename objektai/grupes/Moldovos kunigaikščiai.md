@@ -10,6 +10,7 @@ tags:
   - karalius
   - karas
   - kunigaikštis
+  - paliaubos
 ---
 # Moldovos kunigaikščiai
 
@@ -23,9 +24,13 @@ Tuo pat metu Lenki­ joje Jogaila beveik nesiliovė kovojęs su kryžiuočiais, 
 - t-001
   global_id: t-86812
   teiginys: 'Moldovos kunigaikščiai rėmė Švitrigailos šalininkus Podolėje, su kuriais tuo metu kovojo Jogaila.'
+  sudarymo_pagrindimas: 'Teiginys perrašytas be kontekstinės pradžios ir OCR triukšmo.'
+  susije_objektai: 'counterparty: [[objektai/asmenys/Jogaila|Jogaila]]; counterparty: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; counterparty: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Livonija; mentioned_place: Moldova; mentioned_place: Prūsija'
+  semantiniai_rysiai: '[[objektai/grupes/Moldovos kunigaikščiai|Moldovos kunigaikščiai]] kariavo prieš [[objektai/asmenys/Jogaila|Jogaila]]; [[objektai/grupes/Moldovos kunigaikščiai|Moldovos kunigaikščiai]] kariavo prieš [[objektai/asmenys/Švitrigaila|Švitrigaila]]; [[objektai/grupes/Moldovos kunigaikščiai|Moldovos kunigaikščiai]] kariavo prieš [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-001
-
+- susijęs iš Moldova: Moldovos kunigaikščiai rėmė Švitrigailos šalininkus Podolėje, su kuriais kovojo Jogaila.
+- susijęs iš Moldova: Moldovos kunigaikščiai rėmė Švitrigailos šalininkus Podolėje, su kuriais kovojo Jogaila.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -47,13 +52,7 @@ Tuo pat metu Lenki­ joje Jogaila beveik nesiliovė kovojęs su kryžiuočiais, 
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/paliaubos]]
-
-### Susiję objektai
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/asmenys/Švitrigaila]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/grupes/Švitrigailos šalininkai]]
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] kariavo_pries Moldovos kunigaikščiai
+- Moldovos kunigaikščiai kariavo_pries [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
+- Moldovos kunigaikščiai kariavo_pries [[objektai/grupes/Kryžiuočių ordinas]]
+- Moldovos kunigaikščiai kariavo_pries [[objektai/asmenys/Švitrigaila]]

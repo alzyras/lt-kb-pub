@@ -3,10 +3,18 @@ tipas: daiktas
 pavadinimas: 'Akmeniniai kovos kirviai'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+datos:
+  - '1800 m.'
+  - '2000 m.'
+date_start: '1800'
+date_end: '2000'
 sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
+amziai:
+  - 'XVIII'
+  - 'XX'
 ---
 # Akmeniniai kovos kirviai
 
@@ -40,6 +48,11 @@ Nenurodyta
 - t-001
   global_id: t-71553
   teiginys: 'Indoeuropiečiai, pasiekę Nemuno baseiną ir Baltijos jūrą, buvo ginkluoti akmeniniais kovos kirviais.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie akmeninius kovos kirvius ir remiasi citata.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vilniaus gaisro gesinimo įrankiai|Vilniaus gaisro gesinimo įrankiai]]; mentioned_place: Baltija; mentioned_place: Dniepras; mentioned_place: Europa; mentioned_place: Nemunas; mentioned_place: Rusija'
+  temporaliniai_duomenys: 'įvykio data: 1800 m.; įvykio data: 2000-1800'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie akmeninius kovos kirvius ir remiasi citata.'
   pagrindžia:
     - c-001
 
@@ -61,7 +74,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Vilniaus gaisro gesinimo įrankiai]]

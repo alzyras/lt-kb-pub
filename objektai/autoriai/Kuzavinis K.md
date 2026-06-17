@@ -22,6 +22,8 @@ Dusburgietis teigia, kad savukyno nuomone, prūsų vardas kilęs iš vandenvard�
 - t-001
   global_id: t-60737
   teiginys: 'K. Kuzavinis siejo prūsų vardo kilmės aiškinimą su Prūsos vandenvardžiu.'
+  sudarymo_pagrindimas: 'Citata leidžia glaustai perteikti autoriaus minimą aiškinimą be nutrūkusio fragmento.'
+  susije_objektai: 'mentioned_place: Prūsai'
   pagrindžia:
     - c-001
 

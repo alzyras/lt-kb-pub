@@ -1,30 +1,22 @@
 ---
-tipas: 'ivykis'
+tipas: ivykis
 pavadinimas: 'LDK ir Maskvos Didžiosios Kunigaikštystės karai (1406—1408 m.)'
-sukurta: '2026-06-16'
-variantai:
-  - 'LDK ir Maskvos karai 1406—1408 m.'
-  - 'Vytauto karo su Maskva kampanijos 1406—1408 m.'
-aliases: []
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
-bukle: 'juodrastis'
-laikotarpis: '1406—1408 m.; ypač minimas 1408 m. rudens žygis'
 datos:
-  - '1406—1408 m.; ypač minimas 1408 m. rudens žygis'
-periodas: ''
-periodo_grupes: []
-amziai:
-  - 'XV'
-date_start: '1406'
+  - '1398 m.'
+  - '1406 m.'
+  - '1407 m.'
+  - '1408 m.'
+date_start: '1398'
 date_end: '1408'
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: ''
-atnaujinta: '2026-06-16'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karas
+amziai:
+  - 'XIV'
+  - 'XV'
 ---
 # LDK ir Maskvos Didžiosios Kunigaikštystės karai (1406—1408 m.)
 
@@ -43,51 +35,75 @@ Redakcinė pastaba teigia, kad čia apibendrintai kalbama apie 1406—1408 m. LD
 - date_end: 1408
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 <a id="claim-t-186731"></a>
 - t-001
   global_id: t-186731
-  teiginys: 'Redakcinė pastaba teigia, kad čia apibendrintai kalbama apie 1406—1408 m. LDK ir Maskvos Didžiosios Kunigaikštystės karus.'
+  teiginys: 'Bychovco kronikos epizodas 1971 m. komentare aiškinamas kaip glaustas pasakojimas apie 1406–1408 m. LDK ir Maskvos Didžiosios Kunigaikštystės karus.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Subjektas išskleistas kaip Bychovco kronikos epizodas, o interpretacija palikta su komentaro atribucija. Nepridėta karų priežasčių ar veiksmų detalių.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_object: [[objektai/daiktai/Statinės|Statinės]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Kaluga; mentioned_place: Maskva; mentioned_place: Naugardas; mentioned_place: Pskovas'
+  temporaliniai_duomenys: 'įvykio data: 1398 m.; įvykio data: 1406 m.; įvykio data: 1406-1408; įvykio data: 1407 m.; įvykio data: 1408 m.; įvykio data: 1971 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Subjektas išskleistas kaip Bychovco kronikos epizodas, o interpretacija palikta su komentaro atribucija. Nepridėta karų priežasčių ar veiksmų detalių.'
   pagrindžia:
     - c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  statusas: patvirtinta
+
 <a id="claim-t-186732"></a>
 - t-002
   global_id: t-186732
-  teiginys: 'Redakcinė pastaba teigia, kad karo priežastis buvo Vytauto programa plėsti įtaką Pskove ir Didžiajame Naugarde.'
+  teiginys: 'Komentaro autoriaus manymu, Bychovco kronikoje turimas galvoje Vytauto vadovaujamos LDK kariuomenės žygis 1408 m. rudenį.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Šaltinyje yra abejonė „matyt“, todėl teiginys atribuuotas.'
+  susije_objektai: 'event: [[objektai/ivykiai/LDK ir Maskvos Didžiosios Kunigaikštystės karai (1406—1408 m.)|LDK ir Maskvos Didžiosios Kunigaikštystės karai (1406—1408 m.)]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_object: [[objektai/daiktai/Statinės|Statinės]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Kaluga; mentioned_place: Maskva; mentioned_place: Naugardas; mentioned_place: Pskovas'
+  semantiniai_rysiai: '[[objektai/grupes/Bajorai|Bajorai]] dalyvavo mūšyje [[objektai/ivykiai/LDK ir Maskvos Didžiosios Kunigaikštystės karai (1406—1408 m.)|LDK ir Maskvos Didžiosios Kunigaikštystės karai (1406—1408 m.)]]; [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]] dalyvavo mūšyje [[objektai/ivykiai/LDK ir Maskvos Didžiosios Kunigaikštystės karai (1406—1408 m.)|LDK ir Maskvos Didžiosios Kunigaikštystės karai (1406—1408 m.)]]; [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]] dalyvavo mūšyje [[objektai/ivykiai/LDK ir Maskvos Didžiosios Kunigaikštystės karai (1406—1408 m.)|LDK ir Maskvos Didžiosios Kunigaikštystės karai (1406—1408 m.)]]; [[objektai/grupes/Maskvėnai|Maskvėnai]] dalyvavo mūšyje [[objektai/ivykiai/LDK ir Maskvos Didžiosios Kunigaikštystės karai (1406—1408 m.)|LDK ir Maskvos Didžiosios Kunigaikštystės karai (1406—1408 m.)]]'
+  temporaliniai_duomenys: 'mūšio data: 1398 m.; mūšio data: 1406 m.; mūšio data: 1407 m.; mūšio data: 1408 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Bajorai dalyvavo mūšyje LDK ir Maskvos Didžiosios Kunigaikštystės karai (1406—1408 m.)“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Didžiojo Naugardo respublika dalyvavo mūšyje LDK ir Maskvos Didžiosios Kunigaikštystės karai (1406—1408 m.)“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Lietuvos kariuomenė dalyvavo mūšyje LDK ir Maskvos Didžiosios Kunigaikštystės karai (1406—1408 m.)“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Maskvėnai dalyvavo mūšyje LDK ir Maskvos Didžiosios Kunigaikštystės karai (1406—1408 m.)“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Šaltinyje yra abejonė „matyt“, todėl teiginys atribuuotas.'
   pagrindžia:
     - c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  statusas: patvirtinta
+
 <a id="claim-t-186733"></a>
 - t-003
   global_id: t-186733
-  teiginys: 'Redakcinė pastaba teigia, kad karo veiksmai vyko LDK rytų pasienyje, Ugros ir Okos ruože.'
+  teiginys: 'Komentaras karo priežastimi laiko Vytauto siekį plėsti įtaką Pskove ir Didžiajame Naugarde bei ten pasodinti savo vietininkus.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Karo motyvų aiškinimas reikalauja atribucijos.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_object: [[objektai/daiktai/Statinės|Statinės]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Kaluga; mentioned_place: Maskva; mentioned_place: Naugardas; mentioned_place: Pskovas'
+  temporaliniai_duomenys: 'įvykio data: 1398 m.; įvykio data: 1406 m.; įvykio data: 1407 m.; įvykio data: 1408 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Karo motyvų aiškinimas reikalauja atribucijos.'
   pagrindžia:
     - c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  statusas: patvirtinta
+
 <a id="claim-t-186734"></a>
 - t-004
   global_id: t-186734
-  teiginys: 'Redakcinė pastaba teigia, kad BK, matyt, turimas galvoje Vytauto vadovaujamos LDK kariuomenės žygis 1408 m. rudenį.'
+  teiginys: '1406–1408 m. LDK ir Maskvos karų veiksmai vyko LDK rytų pasienyje, Ugros ir Okos upių ruože.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys su aiškiu subjektu, vieta ir laikotarpiu. Jame pateikiama faktinė karo veiksmų geografija be vertinamosios ar poleminės interpretacijos.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_object: [[objektai/daiktai/Statinės|Statinės]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Kaluga; mentioned_place: Maskva; mentioned_place: Naugardas; mentioned_place: Pskovas'
+  temporaliniai_duomenys: 'įvykio data: 1398 m.; įvykio data: 1406 m.; įvykio data: 1406-1408; įvykio data: 1407 m.; įvykio data: 1408 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys su aiškiu subjektu, vieta ir laikotarpiu. Jame pateikiama faktinė karo veiksmų geografija be vertinamosios ar poleminės interpretacijos.'
   pagrindžia:
     - c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Redakcinė pastaba teigia, kad čia apibendrintai kalbama apie 1406—1408 m. LDK ir Maskvos Didžiosios Kunigaikštystės karus.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     * Čia labai apibendrintai Ir glaustai kalbama apie LDK ir
@@ -102,21 +118,17 @@ Nenurodyta
     Vytauto vadovaujamos LDK kariuomenes žygis 1408 m. rudeni-
     1  A ndrius Nemyra kituose šaltiniuose nepaliudytas, bet vienas
     Nemyra (be vardo) jau  figūruoja 1398 m.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   pagrindžia:
     - t-001
-    - t-002
     - t-003
     - t-004
+    - t-002
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bajorai]]
-- [[objektai/grupes/Didžiojo Naugardo respublika]]
-- [[objektai/grupes/Lietuvos kariuomenė]]
-- [[objektai/grupes/Maskvėnai]]
-- [[objektai/zodynas/žygis]]
+- [[objektai/grupes/Bajorai]] dalyvavo_musyje LDK ir Maskvos Didžiosios Kunigaikštystės karai (1406—1408 m.)
+- [[objektai/grupes/Didžiojo Naugardo respublika]] dalyvavo_musyje LDK ir Maskvos Didžiosios Kunigaikštystės karai (1406—1408 m.)
+- [[objektai/grupes/Lietuvos kariuomenė]] dalyvavo_musyje LDK ir Maskvos Didžiosios Kunigaikštystės karai (1406—1408 m.)
+- [[objektai/grupes/Maskvėnai]] dalyvavo_musyje LDK ir Maskvos Didžiosios Kunigaikštystės karai (1406—1408 m.)

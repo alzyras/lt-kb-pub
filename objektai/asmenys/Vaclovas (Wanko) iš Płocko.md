@@ -28,6 +28,11 @@ Išleidęs savo dukterį už Płocko «Vankos », Gediminas ir savo laiškuose k
 - t-001
   global_id: t-100079
   teiginys: 'Vaclovas (Wanko) iš Płocko vedė Gedimino dukterį.'
+  sudarymo_pagrindimas: 'Pradinis teiginys daugiausia apie Gediminą, todėl perrašyta į faktą apie Vaclovą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Vaclovas|Vaclovas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Liublinas; mentioned_place: Płockas'
+  temporaliniai_duomenys: 'įvykio data: 1325 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys daugiausia apie Gediminą, todėl perrašyta į faktą apie Vaclovą.'
   pagrindžia:
     - c-001
 
@@ -49,9 +54,3 @@ Išleidęs savo dukterį už Płocko «Vankos », Gediminas ir savo laiškuose k
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/unija]]
-- [[objektai/ivykiai/Gedimino sąjunga su Lenkija]]
-- [[objektai/ivykiai/Gedimino taika su Lenkija ir Aldonos vedybos (1325 m.)]]

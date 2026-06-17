@@ -31,6 +31,7 @@ Vladimirskį-Budanovą 187. Vladimirskij-Budanov : Očerki iz istorii Litovsko-r
 - t-001
   global_id: t-30827
   teiginys: 'M. F. Vladimirskij-Budanovas buvo teisės istorikas, palikęs daug studijų ir straipsnių apie Lietuvos valstybės teisinius santykius ir institucijas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Rusų istorikai|Rusų istorikai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -38,6 +39,7 @@ Vladimirskį-Budanovą 187. Vladimirskij-Budanov : Očerki iz istorii Litovsko-r
 - t-002
   global_id: t-30828
   teiginys: 'M. F. Vladimirskij-Budanovas parašė „Očerki iz istorii Litovsko-russkago prava“ ir kitus darbus apie Lietuvos teisę.'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -78,8 +80,3 @@ Vladimirskį-Budanovą 187. Vladimirskij-Budanov : Očerki iz istorii Litovsko-r
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Rusai]]
-- [[objektai/grupes/Rusų istorikai]]

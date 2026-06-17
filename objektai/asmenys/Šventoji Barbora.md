@@ -23,6 +23,8 @@ Dusburgietis teigia, kad šitai padarę, aptiko viename rūsyje dėžę, arba sk
 - t-001
   global_id: t-60079
   teiginys: 'Broliai rūsyje rado dėžutę su šventosios Barboros galva ir pasiėmė ją kaip šventą relikviją.'
+  sudarymo_pagrindimas: 'Citata pagrindžia faktą apie relikvijos radimą; pradiniame teiginyje per daug pasakojimo ir boilerplate.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Pančiai|Pančiai]]; mentioned_person: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]'
   pagrindžia:
     - c-003
 
@@ -30,6 +32,8 @@ Dusburgietis teigia, kad šitai padarę, aptiko viename rūsyje dėžę, arba sk
 - t-002
   global_id: t-60080
   teiginys: 'Dusburgiečio pasakojime sena moteris broliams sakė, kad šventosios Barboros palankumas padėjo jiems laimėti.'
+  sudarymo_pagrindimas: 'Teiginys yra apie pasakojime perteiktą aiškinimą, todėl reikalinga autoriaus pasakojimo atribucija.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -37,6 +41,8 @@ Dusburgietis teigia, kad šitai padarę, aptiko viename rūsyje dėžę, arba sk
 - t-003
   global_id: t-60081
   teiginys: 'Šventoji Barbora moteriai tris kartus pasirodė naktį ir sakė ketinanti eiti į Kulmo miestą klausyti mišių.'
+  sudarymo_pagrindimas: 'Citata remia pasirodymo epizodą, bet pradinis tekstas yra per ilgas dialogo fragmentas.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_place: Kulmas; mentioned_place: Šventoji'
   pagrindžia:
     - c-002
 
@@ -91,9 +97,3 @@ Dusburgietis teigia, kad šitai padarę, aptiko viename rūsyje dėžę, arba sk
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Namas]]
-- [[objektai/daiktai/Pančiai]]
-- [[objektai/ivykiai/Sartovicų pilies užėmimas ir šv. Barboros relikvijos išgabenimas į Kulmą (1242 m. gruodžio 3 d.)]]

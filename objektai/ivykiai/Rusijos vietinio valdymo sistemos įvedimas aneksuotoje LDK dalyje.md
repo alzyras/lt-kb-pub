@@ -47,6 +47,11 @@ Nenurodyta
 - t-001
   global_id: t-25115
   teiginys: '1795 m. Rusijos aneksuotoje LDK dalyje buvo įvesta vietinio valdymo sistema, kurioje veikė vietos administracijos prižiūrimos institucijos.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie vietinio valdymo sistemos įvedimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/luomai|luomai]]; mentioned_place: Lietuva; mentioned_place: Rusija'
+  temporaliniai_duomenys: 'įvykio data: 1795 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie vietinio valdymo sistemos įvedimą.'
   pagrindžia:
     - c-001
 
@@ -72,9 +77,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bajorai]]
-- [[objektai/zodynas/luomai]]
-- [[objektai/paprociai/Rusijos imperijos vietinė luominė savivalda ir bajorų seimeliai]]

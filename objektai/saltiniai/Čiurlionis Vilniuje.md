@@ -29,6 +29,11 @@ amziai:
 - t-001
   global_id: t-25321
   teiginys: '„Čiurlionis Vilniuje“ 2010 m. išleistas Vilniuje, o leidinį sudarė S. Urbonas.'
+  sudarymo_pagrindimas: 'Bibliografinį fragmentą reikia paversti pilnu sakiniu.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/S. Urbonas|S. Urbonas]]'
+  temporaliniai_duomenys: 'įvykio data: 2010 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Bibliografinį fragmentą reikia paversti pilnu sakiniu.'
   pagrindžia:
     - c-001
 

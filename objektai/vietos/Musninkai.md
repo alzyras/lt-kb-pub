@@ -20,6 +20,8 @@ Frontas nusistovėjo KernavėsMusninkų-ŠirvintųGiedraičių Dubingių-Švenč
 - t-001
   global_id: t-41949
   teiginys: 'Frontas nusistovėjo Kernavės-Musninkų-Širvintų-Giedraičių-Dubingių-Švenčionėlių linijoje.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas faktinis sakinys, kuriame Musninkai aiškiai įtraukti į fronto liniją.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_place: Giedraičiai'
   pagrindžia:
     - c-001
 

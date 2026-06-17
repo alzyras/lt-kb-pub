@@ -26,6 +26,8 @@ p. 83, „LEMTINGA AROGANCIJA“, Rerum Moscoviticarum Commentarii Sigismundi Li
 - t-001
   global_id: t-41576
   teiginys: 'Rerum Moscoviticarum Commentarii 1556 m. Bazelyje išleido Ioannes Oporinus.'
+  temporaliniai_duomenys: 'įvykio data: 1556 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

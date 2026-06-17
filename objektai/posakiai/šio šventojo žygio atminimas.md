@@ -28,9 +28,12 @@ Dusburgietis teigia, kad sekiau jų pėdomis, nenorėdamas būti nublokštas į 
 - t-001
   global_id: t-59173
   teiginys: 'Petras Dusburgietis teigė surašęs Ordino brolių karus, kad būsimoms kartoms liktų šio šventojo žygio atminimas.'
+  sudarymo_pagrindimas: 'Citata aiškiai pagrindžia autoriaus tikslą ir posakio prasmę.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/autoriai/Petras Dusburgietis|Petras Dusburgietis]]'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/posakiai/apreikšti dievo darbus yra šlovinga.md#claim-t-59074|apreikšti dievo darbus yra šlovinga]]: Petras Dusburgietis dedikacijoje rėmėsi Tobijo žodžiais, kad apreikšti Dievo darbus yra šlovinga.
+- susijęs iš Tobijo knyga: Petras Dusburgietis dedikacijoje remiasi Tobijo knygos žodžiais, kad apreikšti Dievo darbus yra šlovinga.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -56,11 +59,3 @@ Dusburgietis teigia, kad sekiau jų pėdomis, nenorėdamas būti nublokštas į 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/žygis]]
-- [[objektai/posakiai/apreikšti dievo darbus yra šlovinga]]
-- [[objektai/autoriai/Petras Dusburgietis]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/zodynas/šventasis žygis]]

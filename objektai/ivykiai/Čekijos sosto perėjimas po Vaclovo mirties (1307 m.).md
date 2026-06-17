@@ -45,6 +45,12 @@ Nenurodyta
 - t-001
   global_id: t-62540
   teiginys: '1307 m. mirus Čekijos karaliui Vaclovui ir nužudžius jo sūnų, Čekijos sostas atiteko svetimiesiems.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, su bibliografiniu triukšmu ir boilerplate.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Romos karalius|Romos karalius]]; mentioned_person: [[objektai/asmenys/Albrechtas|Albrechtas]]; mentioned_place: Čekija'
+  temporaliniai_duomenys: 'įvykio data: 1307 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs, su bibliografiniu triukšmu ir boilerplate.'
   pagrindžia:
     - c-001
 
@@ -65,10 +71,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Albrechtas]]
-- [[objektai/zodynas/Romos karalius]]
-- [[objektai/asmenys/Albrechtas (Romos karalius)]]
-- [[objektai/asmenys/Vaclovas (Čekijos karalius)]]

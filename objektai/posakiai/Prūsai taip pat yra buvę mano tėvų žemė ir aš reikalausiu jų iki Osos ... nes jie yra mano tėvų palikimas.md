@@ -28,6 +28,11 @@ Dusburgietis teigia, kad 1413 m., Salyno derybų metu, Vytautas griežtai parei�
 - t-001
   global_id: t-59157
   teiginys: '1413 m. Salyno derybose Vytautas pareiškė, kad Prūsai buvę jo tėvų žemė ir kad jis reikalausiąs jų iki Osos.'
+  sudarymo_pagrindimas: 'Teiginys yra tikslus, pilnas ir paremtas citata apie Vytauto pareiškimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Karaliaučius; mentioned_place: Lietuva; mentioned_place: Prūsai; mentioned_place: Ragainė; mentioned_place: Salynas; mentioned_place: Vysla'
+  temporaliniai_duomenys: 'įvykio data: 1412 m.; įvykio data: 1413 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra tikslus, pilnas ir paremtas citata apie Vytauto pareiškimą.'
   pagrindžia:
     - c-001
 
@@ -47,9 +52,3 @@ Dusburgietis teigia, kad 1413 m., Salyno derybų metu, Vytautas griežtai parei�
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bajorai]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

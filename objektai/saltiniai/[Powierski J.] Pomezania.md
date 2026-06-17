@@ -20,6 +20,8 @@ Dusburgietis teigia, kad [Powierski J.] Pomezania.— SSS, t.
 - t-001
   global_id: t-61252
   teiginys: 'J. Powierskio „Pomezania“ nurodyta SSS 4 tomo 1 dalies 220 puslapyje.'
+  sudarymo_pagrindimas: 'Citata pagrindžia bibliografinę nuorodą, o pradinis teiginys neturi fakto.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
   pagrindžia:
     - c-001
 

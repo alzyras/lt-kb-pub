@@ -3,8 +3,18 @@ tipas: saltinis
 pavadinimas: 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+datos:
+  - '1492 m.'
+  - '1970 m.'
+  - '1971 m.'
+  - '1975 m.'
+date_start: '1492'
+date_end: '1975'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XV'
+  - 'XX'
 ---
 # Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
 
@@ -40,6 +50,7 @@ atnaujinta: ''
 - t-001
   global_id: t-05395
   teiginys: 'Visas veikalo dėstymas sutelkiamas apie lietuvių tautos valstybingumo idėją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/valstybingumo idėja|valstybingumo idėja]]'
   pagrindžia:
     - c-004
 
@@ -47,6 +58,8 @@ atnaujinta: ''
 - t-002
   global_id: t-05396
   teiginys: 'Zenono Ivinskio veikale Lietuvos istorija pradedama XII a. pabaiga, kai lietuvių žygiai jau grindžiami rašytiniais šaltiniais.'
+  sudarymo_pagrindimas: 'Perrašyta į savarankišką sakinį be nuorodos „šiame veikale“.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Zenonas|Zenonas]]; mentioned_place: Europa; mentioned_place: Lietuva'
   pagrindžia:
     - c-005
 
@@ -54,6 +67,11 @@ atnaujinta: ''
 - t-003
   global_id: t-05397
   teiginys: 'Zenonas Ivinskis mirė 1971 m. gruodžio 24 d., nebaigęs numatyto plano, o tomą redagavo ir spragas užpildė Paulius Jatulis.'
+  sudarymo_pagrindimas: 'Citata palaiko aiškų sakinį apie autorių, tomo būklę ir redaktorių.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Zenonas|Zenonas]]; mentioned_person: [[objektai/autoriai/Z. Ivinskis|Z. Ivinskis]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: iki 1492 m.; įvykio data: 1492 m.; įvykio data: 1970 m.; įvykio data: 1971 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko aiškų sakinį apie autorių, tomo būklę ir redaktorių.'
   pagrindžia:
     - c-001
 
@@ -61,6 +79,8 @@ atnaujinta: ''
 - t-004
   global_id: t-05398
   teiginys: 'Redakcinė pastaba pasirašyta Romoje 1975 m. spalio 15 d.'
+  temporaliniai_duomenys: 'įvykio data: 1975 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-006
 
@@ -68,6 +88,9 @@ atnaujinta: ''
 - t-005
   global_id: t-05399
   teiginys: 'Autoriaus pratarmė pasirašyta Bonoje 1970 m. spalio 15 d.'
+  susije_objektai: 'mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1970 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 
@@ -82,6 +105,9 @@ atnaujinta: ''
 - t-007
   global_id: t-05401
   teiginys: 'Redakcinėje pastaboje nurodoma, kad iš trijų sumanytų Lietuvos istorijos tomų pirmasis tesiekia Vytauto Didžiojo laikus, nors buvo planuotas iki 1492 m., o įvadas liko nebaigtas.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: iki 1492 m.; įvykio data: 1492 m.; įvykio data: 1970 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

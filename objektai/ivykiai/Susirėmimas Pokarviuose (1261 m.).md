@@ -45,6 +45,8 @@ Nenurodyta
 - t-001
   global_id: t-59249
   teiginys: 'Sausio 22 d. notangai sutelkė jėgas ir Pokarviuose užpuolė ten likusią brolių bei maldininkų kariuomenės dalį.'
+  sudarymo_pagrindimas: 'Citata palaiko įvykio faktą, bet pradinis teiginys yra nutrūkęs fragmentas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_object: [[objektai/zodynas/maldininkai|maldininkai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Viena'
   pagrindžia:
     - c-003
 
@@ -52,6 +54,8 @@ Nenurodyta
 - t-002
   global_id: t-59251
   teiginys: 'Po susirėmimo Pokarviuose notangai belaisvį Hirtshalsą burtų keliu paskyrė aukai ir sudegino pririštą ant jo žirgo.'
+  sudarymo_pagrindimas: 'Citata palaiko konkretų faktą apie pasekmes, o pradinis teiginys nutrūkęs.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Herkus Mantas|Herkus Mantas]]; mentioned_person: [[objektai/asmenys/Hirtshalsas|Hirtshalsas]]'
   pagrindžia:
     - c-002
 
@@ -131,14 +135,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Herkus Mantas]]
-- [[objektai/grupes/Teutonai]]
-- [[objektai/zodynas/ginklanešiai]]
-- [[objektai/zodynas/maldininkai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/asmenys/Hirtshalsas]]
-- [[objektai/grupes/Notangai]]
-- [[objektai/asmenys/Štenkelis iš Bentheimo]]

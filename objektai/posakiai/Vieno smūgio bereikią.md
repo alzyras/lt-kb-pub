@@ -18,6 +18,11 @@ Kalbėtojas drąsino karius, kad prieš rusų kariauną bereikia vieno smūgio i
 - t-001
   global_id: t-185487
   teiginys: 'Kalbėtojas drąsino karius, kad prieš rusų kariauną bereikia vieno smūgio ir ji savaime subyrės.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata palaiko posakio turinį, bet pradinis tekstas buvo fragmentiškas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]'
   pagrindžia:
     - c-001
 
@@ -41,9 +46,3 @@ Kalbėtojas drąsino karius, kad prieš rusų kariauną bereikia vieno smūgio i
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Ginklai]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Rusai]]

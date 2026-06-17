@@ -24,7 +24,7 @@ amziai:
 
 ## Santrauka
 
-Po mūšio tarp Verkių ir Šeškinės visa lenkų įgula ir dalis lietuvių pajėgų užsidarė Vilniaus tvirtovių mūruose bei aptvaruose. Lenkų įgulai Aukštutinėje pilyje penkios Vilniaus apsupties savaitės praėjo sunkiomis kautynėmis ir ginčais. Aukštutinėje tvirtovėje užsidarė lenkai, vadovaujami Karūnos pakanclerio Mikalojaus Moskoževskio.
+Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su lenkų įgula17 tuomet valdydavo ir kitus gyventojus, bet ir 16 Skirgaila ne anksčiau kaip 1388 me­ tais tapo didžiuoju kunigaikščiu, nes 1387 metais visuose dokumentuose visur vadinamas Skargalo Dux. Dar tarp Verkių ir Šeškinės kalno įsiplieskė kitas įnir­ tingas mūšis, tačiau pajėgesni kryžiuočiai neleido lietuviųlenkų kariuomenei ilgai priešintis, o miestui reikėjo stip­ rios ir platų frontą rėpiančios gynybos. Aukštutinėje tvirtovėje užsidarė lenkai, vadovaujami Ka­ rūnos pakanclerio Mikalojaus Moskoževskio, o Kreivojoje pibuvo prisistatęs Vytautui stovyklo­ je prie Smolensko su bajorais ir, Vy­ tautui tą miestą užėmus, priėmė iš šio monarcho jam skirtą valdą -.
 
 ## Teiginiai
 
@@ -32,6 +32,8 @@ Po mūšio tarp Verkių ir Šeškinės visa lenkų įgula ir dalis lietuvių paj
 - t-001
   global_id: t-86717
   teiginys: 'Po mūšio tarp Verkių ir Šeškinės visa lenkų įgula ir dalis lietuvių pajėgų užsidarė Vilniaus tvirtovių mūruose bei aptvaruose.'
+  sudarymo_pagrindimas: 'Citata mini ir dalį lietuvių pajėgų, todėl teiginį verta patikslinti.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_place: Verkiai; mentioned_place: Vilnius'
   pagrindžia:
     - c-004
 
@@ -39,6 +41,8 @@ Po mūšio tarp Verkių ir Šeškinės visa lenkų įgula ir dalis lietuvių paj
 - t-002
   global_id: t-86718
   teiginys: 'Lenkų įgulai Aukštutinėje pilyje penkios Vilniaus apsupties savaitės praėjo sunkiomis kautynėmis ir ginčais.'
+  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir išnašos žymė.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_place: Praha; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 
@@ -46,6 +50,8 @@ Po mūšio tarp Verkių ir Šeškinės visa lenkų įgula ir dalis lietuvių paj
 - t-003
   global_id: t-86719
   teiginys: 'Aukštutinėje tvirtovėje užsidarė lenkai, vadovaujami Karūnos pakanclerio Mikalojaus Moskoževskio.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nurodo, kas užsidarė Aukštutinėje tvirtovėje ir kam vadovavo.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/pakancleris|pakancleris]]; mentioned_person: [[objektai/asmenys/Glebas (Smolensko kunigaikštis)|Glebas (Smolensko kunigaikštis)]]; mentioned_person: [[objektai/asmenys/Karigaila|Karigaila]]; mentioned_person: [[objektai/asmenys/Kazimieras Karigaila|Kazimieras Karigaila]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Smolenskas; mentioned_place: Viena; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -53,6 +59,8 @@ Po mūšio tarp Verkių ir Šeškinės visa lenkų įgula ir dalis lietuvių paj
 - t-004
   global_id: t-86720
   teiginys: 'Nuolatinės atakos smarkiai kamavo įsitvirtinusią įgulą, bet nepalaužė lenkų narsos Moskoževskio gynybos linijose.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir pagrįstas citatoje aprašyta gynyba.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]'
   pagrindžia:
     - c-005
 
@@ -60,6 +68,8 @@ Po mūšio tarp Verkių ir Šeškinės visa lenkų įgula ir dalis lietuvių paj
 - t-005
   global_id: t-86721
   teiginys: 'Jogailos paliktas vadas su lenkų įgula Vilniaus Aukštutinėje pilyje tuo metu valdydavo ir kitus gyventojus.'
+  sudarymo_pagrindimas: 'Pašalintas išnašos triukšmas ir paliktas faktas apie įgulą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Polockas; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -221,22 +231,3 @@ Po mūšio tarp Verkių ir Šeškinės visa lenkų įgula ir dalis lietuvių paj
   statusas: verified
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bajorai]]
-- [[objektai/asmenys/Glebas (Smolensko kunigaikštis)]]
-- [[objektai/asmenys/Karigaila]]
-- [[objektai/asmenys/Kazimieras Karigaila]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Skirgaila]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/maršalas]]
-- [[objektai/zodynas/pakancleris]]
-- [[objektai/zodynas/įgula]]
-- [[objektai/daiktai/Karūna]]
-- [[objektai/zodynas/Magdeburgo teisės]]
-- [[objektai/grupes/Vytauto šalininkai]]

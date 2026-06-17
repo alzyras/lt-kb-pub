@@ -10,11 +10,11 @@ date_start: '1917'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - vieta
 amziai:
   - 'XX'
   - 'XXI'
-tags:
-  - vieta
 ---
 # Voronežas
 
@@ -23,16 +23,25 @@ tags:
 menės mokymą (ypačiai Voroneže įsteigtose lietuviškose gimnazijose).
 
 ## Teiginiai
+
 <a id="claim-t-181304"></a>
 - t-001
   global_id: t-181304
   teiginys: 'Lietuvių Komitetas Voroneže įsteigtose lietuviškose gimnazijose organizavo jaunuomenės mokymą.'
+  sudarymo_pagrindimas: 'Pašalintas antraštės fragmentas ir sutrumpintas sakinys apie Voronežą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti|Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Petrapilis; mentioned_place: Rusija'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-
+- susijęs iš Pensilvanija: Pensilvanija buvo viena iš JAV vietų, kuriose gyveno daugiau kaip 300 000 lietuvių imigrantų.
+- susijęs iš [[objektai/asmenys/Steponas Batoras.md#claim-t-113996|Steponas Batoras]]: Po Stepono Batoro kampanijų Didieji Lukai, Zavoločė, Sebežas, Nevelis ir Voronežas buvo sugrąžinti Rusijai.
+- susijęs iš [[objektai/grupes/JAV lietuviai.md#claim-t-74138|JAV lietuviai]]: JAV lietuvius 1917 m. suaktyvino JAV įstojimas į karą prieš Vokietiją ir Woodrow Wilsono paskelbti „14 punktų“.
+- susijęs iš Vudro Vilsono 14 punktų: Vudro Vilsono paskelbti „14 punktų“ suteikė JAV lietuvių imigrantams progą kelti Lietuvos klausimą.
+- susijęs iš Niujorkas: 1917 m. JAV įstojimas į karą suaktyvino daugiau kaip 300 000 lietuvių imigrantų, gyvenusių daugiausia Čikagoje, Niujorke ir Pensilvanijoje.
+- susijęs iš Pensilvanija: Pensilvanija buvo viena iš JAV vietų, kuriose gyveno daugiau kaip 300 000 lietuvių imigrantų.
+- susijęs iš Peterburgas: Pirmojo pasaulinio karo metais Peterburge ir Voroneže susiformavo lietuvių centrai su laikraščių redakcijomis ir gimnazijomis.
+- susijęs iš Čikaga: 1917 m. JAV lietuvių imigrantus, gyvenusius daugiausia Čikagoje, Niujorke ir Pensilvanijoje, suaktyvino JAV įstojimas į karą.
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Lietuvių Komitetas Voroneže įsteigtose lietuviškose gimnazijose organizavo jaunuomenės mokymą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -44,10 +53,8 @@ menės mokymą (ypačiai Voroneže įsteigtose lietuviškose gimnazijose).
     menės mokymą (ypačiai Voroneže įsteigtose lietuviškose gimna-
     zijose). Studentams buvo duodamos pašalpos universitetuose ir
     steigiami bendrabučiai.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

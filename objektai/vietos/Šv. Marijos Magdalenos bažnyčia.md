@@ -29,6 +29,11 @@ Marijos Magdalenos baž­ nyčios, po dešine ranka Skapo gatvėje ant paties ka
 - t-001
   global_id: t-86285
   teiginys: '1573 m. kunigaikštis Kristupas kapitulai perdavė Skapo vardu vadintą sklypą prie Šv. Marijos Magdalenos bažnyčios.'
+  sudarymo_pagrindimas: 'Citata pagrindžia konkretų sandorio ir vietos faktą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]'
+  temporaliniai_duomenys: 'įvykio data: 1573 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia konkretų sandorio ir vietos faktą.'
   pagrindžia:
     - c-001
 

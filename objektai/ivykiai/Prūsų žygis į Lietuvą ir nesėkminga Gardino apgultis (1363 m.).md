@@ -36,6 +36,11 @@ Nenurodyta
 - t-001
   global_id: t-185764
   teiginys: 'Priešams grįžus į Prūsiją, visą Lietuvą užgulė badas, siejamas su prastu oru ir nuolatiniais priešų antpuoliais.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pašalintas antraštės triukšmas ir perteklinės nutrūkusios detalės.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_person: [[objektai/autoriai/Volfgangas|Volfgangas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Pernarava; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
 
@@ -64,10 +69,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Kalavijas]]
-- [[objektai/autoriai/Volfgangas]]
-- [[objektai/zodynas/Miera|miera]]
-- [[objektai/grupes/Kryžiuočių ordinas]]

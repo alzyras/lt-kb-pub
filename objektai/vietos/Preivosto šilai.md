@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Per dykrą einanti siena tiesėsi į Preivosto šilus, o iš ten - tiesia linija į Merūniškius ir Vystyčio ežerą.
+Iš čia ji tęsėsi vėl per dykrą tiesiai į Preivosto (Prawdzisken) šilus, o iš ten tiesia linija į Merūniškius ir Vystyčio ežerą, kuris liko ordino pusėje.
 
 ## Teiginiai
 
@@ -23,6 +23,8 @@ Per dykrą einanti siena tiesėsi į Preivosto šilus, o iš ten - tiesia linija
 - t-001
   global_id: t-32475
   teiginys: 'Per dykrą einanti siena tiesėsi į Preivosto šilus, o iš ten - tiesia linija į Merūniškius ir Vystyčio ežerą.'
+  sudarymo_pagrindimas: 'Pradiniame teiginyje neaiškus įvardijimas, todėl sakinys perrašytas savarankiškiau.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/dykra|dykra]]; mentioned_place: Liepona; mentioned_place: Merūniškiai; mentioned_place: Sūduva; mentioned_place: Širvinta'
   pagrindžia:
     - c-001
 

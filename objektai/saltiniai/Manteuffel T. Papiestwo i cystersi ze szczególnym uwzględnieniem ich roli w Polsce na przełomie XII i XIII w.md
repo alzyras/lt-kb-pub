@@ -26,6 +26,11 @@ Dusburgietis teigia, kad manteuffel T.
 - t-001
   global_id: t-61156
   teiginys: 'T. Manteuffelio „Papiestwo i cystersi“ išleista Varšuvoje 1955 m.'
+  sudarymo_pagrindimas: 'Citata pagrindžia autorių, sutrumpintą pavadinimą, leidimo vietą ir metus.'
+  susije_objektai: 'mentioned_place: Varšuva'
+  temporaliniai_duomenys: 'įvykio data: 1955 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia autorių, sutrumpintą pavadinimą, leidimo vietą ir metus.'
   pagrindžia:
     - c-001
 

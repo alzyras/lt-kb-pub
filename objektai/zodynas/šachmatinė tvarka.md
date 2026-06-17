@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Šachmatine tvarka šaudant vienu metu šaudydavo kas antras karys. Šachmatine tvarka šaudant vienu metu šaudydavo kas antras karys arba padalinys.
+Kartais buvo šaudoma „šachmatine“ tvarka (vienu metu - kas antras).
 
 ## Teiginiai
 
@@ -21,6 +21,8 @@ tags:
 - t-001
   global_id: t-38786
   teiginys: 'Šachmatine tvarka šaudant vienu metu šaudydavo kas antras karys.'
+  sudarymo_pagrindimas: 'Reikia paversti fragmentą aiškiu enciklopediniu sakiniu.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]'
   pagrindžia:
     - c-001
 
@@ -28,6 +30,11 @@ tags:
 - t-002
   global_id: t-183720
   teiginys: 'Šachmatine tvarka šaudant vienu metu šaudydavo kas antras karys arba padalinys.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Perrašyta į aiškų enciklopedinį sakinį be kabučių ir skliaustinio fragmento.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/flangas|flangas]]'
   pagrindžia:
     - c-002
 
@@ -81,8 +88,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/flangas]]
-- [[objektai/daiktai/Šautuvai]]

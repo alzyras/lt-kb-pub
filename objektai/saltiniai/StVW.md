@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Vytautas prieš Ordiną pareiškė, kad kryžiuočiai yra svetimšaliai ir ateiviai.
+Savo įprastu temperamentingumu Vytautas kreipėsi prieš ordi­ ną tokiais žodžiais : «Kryžiuočiai yra svetimšaliai ir ateiviai iš (^12) StVW, I, 140-144 p.; DlugO, XIII, 240-244 p.
 
 ## Teiginiai
 
@@ -20,6 +20,8 @@ Vytautas prieš Ordiną pareiškė, kad kryžiuočiai yra svetimšaliai ir ateiv
 - t-001
   global_id: t-31931
   teiginys: 'Vytautas prieš Ordiną pareiškė, kad kryžiuočiai yra svetimšaliai ir ateiviai.'
+  sudarymo_pagrindimas: 'Citata palaiko faktą apie Vytauto žodžius, bet pradinė formuluotė netiksliai apibūdina kreipimosi adresatą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/dykra|dykra]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-001
 

@@ -23,6 +23,9 @@ Prieš mūšį Vytauto dukters Sofijos Vytautaitės, Maskvos didžiosios kunigai
 - t-001
   global_id: t-39538
   teiginys: 'Tverės didysis kunigaikštis Ivanas prieš mūšį lankėsi pas Vytautą ir buvo garbingai išlydėtas su daugybe dovanų.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie asmenį.'
+  susije_objektai: 'territory: Maskva; territory: Smolenskas; territory: Tverė; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Ivanas|Ivanas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Sofija (Vytauto duktė)|Sofija (Vytauto duktė)]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Maskva; mentioned_place: Smolenskas; mentioned_place: Tverė'
+  semantiniai_rysiai: '[[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)|Ivanas (Tverės didysis kunigaikštis)]] buvo valdovas Maskva; [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)|Ivanas (Tverės didysis kunigaikštis)]] buvo valdovas Smolenskas; [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)|Ivanas (Tverės didysis kunigaikštis)]] buvo valdovas Tverė'
   pagrindžia:
     - c-001
 
@@ -30,6 +33,12 @@ Prieš mūšį Vytauto dukters Sofijos Vytautaitės, Maskvos didžiosios kunigai
 - t-002
   global_id: t-183741
   teiginys: 'Tverės didysis kunigaikštis Ivanas prieš mūšį lankėsi pas Vytautą su šeima ir bajorais, o vėliau buvo garbingai išlydėtas su dovanomis.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis teiginys nėra apie šio įrašo objektą, bet citata palaiko tinkamą teiginį apie Ivaną.'
+  susije_objektai: 'territory: Lietuva; territory: Maskva; territory: Smolenskas; territory: Tverė; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Ivanas|Ivanas]]; mentioned_person: [[objektai/asmenys/Sofija (Vytauto duktė)|Sofija (Vytauto duktė)]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Smolenskas; mentioned_place: Tverė'
+  semantiniai_rysiai: '[[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)|Ivanas (Tverės didysis kunigaikštis)]] buvo valdovas Lietuva; [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)|Ivanas (Tverės didysis kunigaikštis)]] buvo valdovas Maskva; [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)|Ivanas (Tverės didysis kunigaikštis)]] buvo valdovas Smolenskas; [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)|Ivanas (Tverės didysis kunigaikštis)]] buvo valdovas Tverė'
   pagrindžia:
     - c-002
 
@@ -86,12 +95,7 @@ Prieš mūšį Vytauto dukters Sofijos Vytautaitės, Maskvos didžiosios kunigai
     - t-002
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Ivanas]]
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
-- [[objektai/asmenys/Sofija (Vytauto duktė)]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/asmenys/Švitrigaila]]
-- [[objektai/zodynas/didysis kunigaikštis]]
-- [[objektai/asmenys/Sofija Vytautaitė]]
-- [[objektai/asmenys/Vasilijus (Maskvos didysis kunigaikštis)]]
+- Ivanas (Tverės didysis kunigaikštis) buvo_valdovas [[objektai/vietos/Lietuva]]
+- Ivanas (Tverės didysis kunigaikštis) buvo_valdovas [[objektai/vietos/Maskva]]
+- Ivanas (Tverės didysis kunigaikštis) buvo_valdovas [[objektai/vietos/Smolenskas]]
+- Ivanas (Tverės didysis kunigaikštis) buvo_valdovas [[objektai/vietos/Tverė]]

@@ -6,14 +6,16 @@ saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1966 m.'
+  - '2010 m.'
 date_start: '1966'
-date_end: ''
+date_end: '2010'
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
 amziai:
   - 'XX'
+  - 'XXI'
 periodo_grupes:
   - 'XX a.'
 ---
@@ -29,6 +31,9 @@ M. Jučas. Vytautas Didysis. Chicago, 2010;.
 - t-001
   global_id: t-179549
   teiginys: 'M. Jučas parašė veikalą „Vytautas Didysis“, išleistą Čikagoje 2010 m.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Čikaga'
+  temporaliniai_duomenys: 'įvykio data: 2010 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -36,9 +41,16 @@ M. Jučas. Vytautas Didysis. Chicago, 2010;.
 - t-002
   global_id: t-179550
   teiginys: 'M. Jučas Petro Dusburgiečio kronikos faktais rėmė koncepcijų apie prūsus kritiką.'
+  sudarymo_pagrindimas: 'Citata triukšminga, bet palaiko bendrą teiginį apie autoriaus poziciją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_place: Prūsai'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/autoriai/Jučas, M.md#claim-t-30718|Jučas, M]]: M. Jučas parašė 1959 m. Vilniuje išleistą darbą „Žalgirio mūšis“.
+- susijęs iš [[objektai/autoriai/Lietuvos istorikai ir socialinės istorijos tyrėjai.md#claim-t-179536|Lietuvos istorikai ir socialinės istorijos tyrėjai]]: R. Jasas ir M. Jučas buvo tarp istorikų, aprašiusių lietuvių kovas su kryžiuočiais ir kalavijuočiais.
+- susijęs iš Jadwyga d’Anjou: „Jadwyga d’Anjou“ nurodyta kaip Lietuvos enciklopedijos 9 tomo straipsnis, apimantis 244-249 puslapius.
+- susijęs iš Krikščionybės kelias Lietuvon: Z. Ivinskio „Krikščionybės kelias Lietuvon“ paskelbtas 1938 m. TK 5-ajame numeryje, p. 273–311.
+- susijęs iš Krikščionybės įvedimas Lietuvoje: Stasio Ylos „Krikščionybės įvedimas Lietuvoje“ išleistas Kaune 1938 m.
+- susijęs iš Laiškai Lietuviams: „Laiškai Lietuviams“ 1958 m. Čikagoje buvo nurodyti kaip 5–9 numerių leidinys.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -69,7 +81,3 @@ M. Jučas. Vytautas Didysis. Chicago, 2010;.
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]

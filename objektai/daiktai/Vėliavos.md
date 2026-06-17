@@ -4,17 +4,16 @@ pavadinimas: 'Vėliavos'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
+  - '1368 m.'
   - '1399 m.'
-date_start: '1399'
-date_end: ''
-aliases:
-  - 'objektai/daiktai/Karinės vėliavos'
-variantai:
-  - 'Karinės vėliavos'
+  - '1410 m.'
+date_start: '1368'
+date_end: '1410'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -22,12 +21,13 @@ tags:
   - simbolis
 amziai:
   - 'XIV'
+  - 'XV'
 ---
 # Vėliavos
 
 ## Santrauka
 
-Kareiviams būdavo paduodama raudona vėliava kaip karo ženklas ir laiminimo dalis. Prie karūžojo buvo laikoma karės vėliava tos apykartos. Kariauna stodama į kovą turėjo didelę baltą vėliavą su ženklu ir įrašu.
+Vyriausioji Lenkijos vėliava pateko į priešų rankas. Lietuvos pulkai paskui save buvo patraukę eilę priešo vėliavų. Kareiviams būdavo paduodama raudona vėliava kaip karo ženklas ir laiminimo dalis. Prie karūžojo buvo laikoma karės vėliava tos apykartos. Šiame šaltinyje papildomai matyti, kad Algirdas prie Maskvos pasirodė išskleidęs vėliavas, o Žalgirio mūšyje Smolensko vėliavos dengė lenkų kraštines pozicijas ir krito didžioji Krokuvos vėliava.
 
 ## Pavadinimai šaltiniuose
 
@@ -55,6 +55,7 @@ Nenurodyta
 - t-001
   global_id: t-08355
   teiginys: 'Kareiviams būdavo paduodama raudona vėliava kaip karo ženklas ir laiminimo dalis.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Druska|Druska]]; mentioned_object: [[objektai/zodynas/Kariauna|Kariauna]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]; mentioned_object: [[objektai/zodynas/Žynių titulai ir pareigybės|Žynių titulai ir pareigybės]]'
   pagrindžia:
     - c-001
 
@@ -62,6 +63,7 @@ Nenurodyta
 - t-002
   global_id: t-08356
   teiginys: 'Prie karūžojo buvo laikoma karės vėliava tos apykartos.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žemlionys|Žemlionys]]; mentioned_object: [[objektai/zodynas/duoklė|duoklė]]; mentioned_object: [[objektai/zodynas/Perveiza|Perveiza]]; mentioned_object: [[objektai/zodynas/Tėvūnija|Tėvūnija]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -69,6 +71,7 @@ Nenurodyta
 - t-003
   global_id: t-08357
   teiginys: 'Kariauna stodama į kovą turėjo didelę baltą vėliavą su ženklu ir įrašu.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_object: [[objektai/daiktai/Skydas|Skydas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]'
   pagrindžia:
     - c-003
 
@@ -76,6 +79,11 @@ Nenurodyta
 - t-004
   global_id: t-10166
   teiginys: '1368 m. Algirdas su savo pajėgomis ir išskleistomis vėliavomis pasirodė ant Pasveikinimo kalno prie Maskvos.'
+  sudarymo_pagrindimas: 'Patikslinta vieta ir data, pašalintas neaiškumas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Kremlius; mentioned_place: Maskva'
+  temporaliniai_duomenys: 'įvykio data: 1368 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Patikslinta vieta ir data, pašalintas neaiškumas.'
   pagrindžia:
     - c-013
 
@@ -83,6 +91,7 @@ Nenurodyta
 - t-005
   global_id: t-10167
   teiginys: 'Žalgirio mūšyje lietuviai, pridengę lenkų kraštines pozicijas trimis Smolensko vėliavomis, pradėjo atsitraukimo manevrą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Smolenskas'
   pagrindžia:
     - c-007
 
@@ -90,6 +99,7 @@ Nenurodyta
 - t-006
   global_id: t-10168
   teiginys: 'Žalgirio mūšyje neatlaikiusi spaudimo krito didžioji Krokuvos vėliava.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]; mentioned_object: [[objektai/posakiai/„Kristus prisikėlė“|„Kristus prisikėlė“]]; mentioned_place: Krokuva'
   pagrindžia:
     - c-008
 
@@ -97,6 +107,7 @@ Nenurodyta
 - t-007
   global_id: t-12340
   teiginys: 'Riterių būrys buvo vadinamas vėliava ir telkėsi apie savo ženklą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/vėliava|vėliava]]'
   pagrindžia:
     - c-004
 
@@ -104,6 +115,7 @@ Nenurodyta
 - t-008
   global_id: t-12341
   teiginys: 'Riteris neturėjo teisės palikęs savo vėliavą bėgti iš mūšio.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]; mentioned_place: Drevenca; mentioned_place: Krokuva'
   pagrindžia:
     - c-006
 
@@ -111,6 +123,8 @@ Nenurodyta
 - t-009
   global_id: t-12343
   teiginys: 'Jogailą saugojo kunigaikščio Kaributo vėliava, kurią Vytautas buvo nusiuntęs dar prieš karą.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys ir atitinka citatos informaciją.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kaributas|Kaributas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-011
 
@@ -118,6 +132,7 @@ Nenurodyta
 - t-010
   global_id: t-12344
   teiginys: 'Tarp pabėgusių lenkų vėliavų buvo ir šv. Jurgio vėliava.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]; mentioned_object: [[objektai/daiktai/Šv. Jurgio vėliava|Šv. Jurgio vėliava]]'
   pagrindžia:
     - c-005
 
@@ -125,6 +140,8 @@ Nenurodyta
 - t-011
   global_id: t-176206
   teiginys: 'Vytauto vadovaujami Lietuvos pulkai, kurie paskui save buvo patraukę eilę priešo vėliavų, sugrįžo į kovos lauką.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-015
 
@@ -132,6 +149,8 @@ Nenurodyta
 - t-012
   global_id: t-176207
   teiginys: 'Vytauto vadovaujami Lietuvos pulkai buvo patraukę paskui save kelias priešo vėliavas ir sugrįžo į kovos lauką.'
+  sudarymo_pagrindimas: 'Perrašyta į pilnesnį sakinį su citatoje nurodytu veiksmu ir rezultatu.'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-016
 
@@ -139,6 +158,8 @@ Nenurodyta
 - t-013
   global_id: t-176209
   teiginys: 'Kiekvienas riteris kaudavosi po savo vėliava ir neturėjo teisės ją palikęs bėgti.'
+  sudarymo_pagrindimas: 'Reikia pašalinti OCR triukšmą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/vėliava|vėliava]]'
   pagrindžia:
     - c-017
 
@@ -146,6 +167,8 @@ Nenurodyta
 - t-014
   global_id: t-176210
   teiginys: 'Vyriausioji Lenkijos vėliava pateko į priešų rankas.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/rezervas|rezervas]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]; mentioned_person: [[objektai/asmenys/Ulrichas von Jungingenas|Ulrichas von Jungingenas]]; mentioned_place: Lenkija'
   pagrindžia:
     - c-009
 
@@ -153,6 +176,8 @@ Nenurodyta
 - t-015
   global_id: t-176211
   teiginys: 'Lenkams patiriant didelį spaudimą centre ir dešinėje, Žalgirio mūšyje krito didžioji Krokuvos vėliava.'
+  sudarymo_pagrindimas: 'Teiginys sutrumpintas ir susietas su vėliavomis.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]; mentioned_object: [[objektai/posakiai/„Kristus prisikėlė“|„Kristus prisikėlė“]]; mentioned_place: Krokuva'
   pagrindžia:
     - c-008
 
@@ -160,6 +185,8 @@ Nenurodyta
 - t-016
   global_id: t-176212
   teiginys: 'Zyndramas iš Moškovicų kovojo prie vyriausios vėliavos, o visos sąjunginės kariuomenės vadovybė atiteko Vytautui.'
+  sudarymo_pagrindimas: 'Reikia sklandesnės, enciklopedinės formuluotės be neaiškaus žodžio „vedimui“.'
+  susije_objektai: 'counterparty: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Zyndramas iš Moškovicų|Zyndramas iš Moškovicų]]; mentioned_place: Drevenca; mentioned_place: Krokuva'
   pagrindžia:
     - c-006
 
@@ -167,6 +194,11 @@ Nenurodyta
 - t-017
   global_id: t-176213
   teiginys: '1410 m. rudenį Transilvanijos vaivada puolė Lenkiją su 10 vėliavų.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Lenkija; mentioned_place: Transilvanija; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1410 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, faktinis ir paremtas citata.'
   pagrindžia:
     - c-010
 
@@ -174,6 +206,8 @@ Nenurodyta
 - t-018
   global_id: t-176214
   teiginys: 'Jogailą saugojo kunigaikščio Kaributo vėliava, kurią Vytautas buvo nusiuntęs Jogailai dar prieš karą.'
+  sudarymo_pagrindimas: 'Pradiniame teiginyje yra neaiškus įvardis, kurį citata leidžia išplėsti.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kaributas|Kaributas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lenkija'
   pagrindžia:
     - c-012
 
@@ -181,6 +215,11 @@ Nenurodyta
 - t-019
   global_id: t-176215
   teiginys: 'XIV a. antrosios pusės lietuvių kario rekonstrukcijoje karys vaizduojamas tarnaujantis Lietuvos valdovo asmeninėje vėliavoje.'
+  sudarymo_pagrindimas: 'Reikia pašalinti neaiškų konstrukcijos pobūdį ir padaryti sakinį tikslesnį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Gediminaičių stulpai|Gediminaičių stulpai]]; mentioned_object: [[objektai/daiktai/Stulpai|Stulpai]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Vorskla'
+  temporaliniai_duomenys: 'įvykio data: 1399 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia pašalinti neaiškų konstrukcijos pobūdį ir padaryti sakinį tikslesnį.'
   pagrindžia:
     - c-018
 
@@ -188,6 +227,8 @@ Nenurodyta
 - t-020
   global_id: t-176216
   teiginys: 'Lietuviai, pridengę lenkų kraštines pozicijas trimis Smolensko vėliavomis, pradėjo atsitraukimo manevrą.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Smolenskas'
   pagrindžia:
     - c-014
 
@@ -195,6 +236,11 @@ Nenurodyta
 - t-021
   global_id: t-176217
   teiginys: 'Algirdas su visomis savo pajėgomis ir išskleistomis vėliavomis pasirodė ant Pasveikinimo kalno prie Maskvos.'
+  sudarymo_pagrindimas: 'Citatos fragmentas perrašytas į vientisą enciklopedinį sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Kremlius; mentioned_place: Maskva'
+  temporaliniai_duomenys: 'įvykio data: 1368 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citatos fragmentas perrašytas į vientisą enciklopedinį sakinį.'
   pagrindžia:
     - c-013
 
@@ -202,9 +248,65 @@ Nenurodyta
 - t-023
   global_id: t-184602
   teiginys: 'Herulai, tapę Romos sąjungininkais ir pagalbine kariuomene, daugelį amžių karo tarnyboje gynė romėnų vėliavas.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata pagrindžia faktą apie romėnų vėliavas, o pirminis teiginys yra sulipęs su pašaliniu tekstu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Herulai|Herulai]]; mentioned_group: [[objektai/grupes/Romėnai|Romėnai]]; mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-020
-
+- susijęs iš [[objektai/asmenys/B. P. Sapiega.md#claim-t-40057|B. P. Sapiega]]: Iždininkas B. P. Sapiega pasitraukė kartu su maršalu A. P. Sapiega ir totorių vėliavomis.
+- susijęs iš [[objektai/asmenys/H. Brantas.md#claim-t-40129|H. Brantas]]: H. Brantas buvo generolas, kurio kavaleriją sumušė J. P. Sapiegos, M. Vielamovskio ir M. Giedraičio vėliavos, priversdamos ją trauktis.
+- susijęs iš [[objektai/asmenys/J. P. Sapiega.md#claim-t-53890|J. P. Sapiega]]: Maršalas A. P. Sapiega pasitraukė kartu su B. P. Sapiega ir totorių vėliavomis.
+- susijęs iš [[objektai/asmenys/J. P. Sapiega.md#claim-t-53892|J. P. Sapiega]]: J. P. Sapiegos vėliavos kartu su M. Vielamovskio ir M. Giedraičio vėliavomis sumušė generolo H. Branto kavaleriją.
+- susijęs iš [[objektai/asmenys/Jeronimas.md#claim-t-60150|Jeronimas]]: Jeronimas ragino dėl kryžiaus karo atsisakyti net šeimos kliūčių ir pulti prie kryžiaus karo vėliavos.
+- susijęs iš [[objektai/asmenys/Jonas Lonei.md#claim-t-80718|Jonas Lonei]]: Sembos vyskupo teisėjas Jonas Lonei žuvo Strėvos mūšyje kartu su penkiomis dešimtimis karių prie vėliavos.
+- susijęs iš [[objektai/asmenys/Mykolas Kiełbasa.md#claim-t-34820|Mykolas Kiełbasa]]: Mykolas Kiełbasa, artimiausios vėliavos vadas, atsakė, kad tuo metu ne laikas gelbėti karalių.
+- susijęs iš [[objektai/asmenys/T. Dambrava.md#claim-t-40452|T. Dambrava]]: T. Dambravos vadovaujama reitarų vėliava prajojo Dauguvos pakrante ir atsidūrė E. J. Mansfeldo kavalerijos dešiniajame sparne.
+- susijęs iš [[objektai/asmenys/Ulrichas von Jungingenas.md#claim-t-184285|Ulrichas von Jungingenas]]: Didysis magistras Ulrichas von Jungingenas jojo šešiolikos į kovos lauką slenkančių kryžiuočių vėliavų priešakyje.
+- susijęs iš [[objektai/asmenys/Zbignievas Olesnickis.md#claim-t-176863|Zbignievas Olesnickis]]: Zbignievas Olesnickis buvo pasiųstas į mūšio lauką parūpinti kelias vėliavas Jogailos apsaugai.
+- susijęs iš [[objektai/autoriai/Mykolas Lietuvis.md#claim-t-172961|Mykolas Lietuvis]]: Mykolas Lietuvis liudijo, kad Vilniaus katedroje saugotos trofėjinės vėliavos sudegė per 1530 m. gaisrą.
+- susijęs iš [[objektai/daiktai/Kryžiuočių kariuomenės dalių vėliavos.md#claim-t-186825|Kryžiuočių kariuomenės dalių vėliavos]]: Jogaila paimtas vėliavas nugabeno į Krokuvą, į Vavelio pilį.
+- susijęs iš [[objektai/daiktai/Kryžiuočių kariuomenės dalių vėliavos.md#claim-t-186826|Kryžiuočių kariuomenės dalių vėliavos]]: Prie šio rinkinio vėliau buvo pridėtos dar penkios kituose mūšiuose paimtos vėliavos.
+- susijęs iš [[objektai/daiktai/Lietuvos herbas Vytis.md#claim-t-77927|Lietuvos herbas Vytis]]: 1922 m. Lietuvos Valstybės Konstitucijoje herbu liko baltas Vytis raudoname fone.
+- susijęs iš [[objektai/daiktai/Lietuvos valstybės vėliava.md#claim-t-77928|Lietuvos valstybės vėliava]]: 1922 m. Lietuvos Valstybės Konstitucijoje valstybės vėliavos spalvos buvo geltona, žalia ir raudona.
+- susijęs iš [[objektai/daiktai/Ordino magistro valdžios žymenys.md#claim-t-183980|Ordino magistro valdžios žymenys]]: Popiežius Honorijus III žiedą, o imperatorius Fridrichas II vėliavos insignijas suteikė kaip Ordino magistro valdžios žymenis.
+- susijęs iš [[objektai/daiktai/Ordino magistro valdžios žymenys.md#claim-t-59696|Ordino magistro valdžios žymenys]]: Popiežius Honorijus III žiedą, o imperatorius Fridrichas II vėliavos insignijas suteikė kaip Ordino magistro valdžios žymenis.
+- susijęs iš [[objektai/daiktai/Panevėžio bataliono vėliava.md#claim-t-80694|Panevėžio bataliono vėliava]]: Panevėžio batalionui 1919 m. kovo 25 d. Panevėžio lietuvių katalikių moterų draugija įteikė vėliavą.
+- susijęs iš [[objektai/daiktai/Riterių vėliava.md#claim-t-179491|Riterių vėliava]]: Viduriniais amžiais riterių vėliavos netekimas kovoje laikytas didele nelaime.
+- susijęs iš [[objektai/daiktai/Skydas.md#claim-t-08330|Skydas]]: Baltos vėliavos skyde buvo vaizduojami ženklai ir žmogus su meškos galva.
+- susijęs iš [[objektai/daiktai/Skydas.md#claim-t-111287|Skydas]]: Baltos vėliavos skyde buvo vaizduojami ženklai ir žmogus su meškos galva.
+- susijęs iš [[objektai/daiktai/Valstybiniai ženklai ir vėliava.md#claim-t-26413|Valstybiniai ženklai ir vėliava]]: 1934 m. vasario 8 d. Tautai ir valstybei saugoti įstatymas numatė bausti už valstybinių ženklų ir vėliavos niekinimą ar įžeidinėjimą.
+- susijęs iš [[objektai/grupes/7-ojo fuzilierių regimento.md#claim-t-40828|7-ojo fuzilierių regimento]]: Balandžio 23 d. Vilniaus puolime dalyvavo dvi sumažintos 7-ojo fuzilierių regimento kuopos.
+- susijęs iš [[objektai/grupes/Kuršo ir Žiemgalos kunigaikštystė.md#claim-t-38968|Kuršo ir Žiemgalos kunigaikštystė]]: Mūšyje lietuviams talkino leninės Kuršo ir Žiemgalos kunigaikštystės daliniai, apie 300 Fridricho Ketlerio reitarų.
+- susijęs iš [[objektai/grupes/LDK 4-ojo pėstininkų regimento.md#claim-t-40976|LDK 4-ojo pėstininkų regimento]]: Vilniaus puolime balandžio 23 d. dalyvavo dvi sumažintos LDK 4-ojo pėstininkų regimento kuopos.
+- susijęs iš [[objektai/grupes/LDK tribunolo vengrų vėliavos dalinys.md#claim-t-40977|LDK tribunolo vengrų vėliavos dalinys]]: Vilniaus puolime balandžio 23 d. dalyvavo 50 LDK tribunolo vengrų vėliavos dalinio karių.
+- susijęs iš [[objektai/grupes/Lietuvos totoriai.md#claim-t-78380|Lietuvos totoriai]]: Lietuvos totorių vėliavų įvedimas į mūšį dar labiau padidino švedų kavalerijoje kilusią paniką.
+- susijęs iš [[objektai/grupes/Panevėžio batalionas.md#claim-t-80657|Panevėžio batalionas]]: 1919 m. kovo 25 d. Panevėžio batalionui buvo įteikta Panevėžio ir jo apylinkių gyventojų vėliava.
+- susijęs iš [[objektai/grupes/Panevėžio lietuvių katalikių moterų draugija.md#claim-t-80658|Panevėžio lietuvių katalikių moterų draugija]]: Panevėžio lietuvių katalikių moterų draugija 1919 m. kovo 25 d. įteikė vėliavą Panevėžio batalionui.
+- susijęs iš [[objektai/grupes/Smolenskiečiai.md#claim-t-34366|Smolenskiečiai]]: Smolenskiečių vėliavos Žalgirio mūšyje liko kairiajame sparne arčiau lenkų ir narsiai kovėsi.
+- susijęs iš [[objektai/grupes/ojo fuzilierių regimento.md#claim-t-80650|ojo fuzilierių regimento]]: Vilniaus puolime balandžio 23 d. dalyvavo dvi sumažintos 7-ojo fuzilierių regimento kuopos.
+- susijęs iš [[objektai/ivykiai/1941 m. Birželio sukilimas.md#claim-t-45329|1941 m. Birželio sukilimas (sukilimas)]]: Per 1941 m. Birželio sukilimą provincijos sukilėliai užimdavo vietos valdžios įstaigas ir suimdavo sovietų valdžios aktyvistus.
+- susijęs iš [[objektai/ivykiai/Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos.md#claim-t-186606|Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos (mūšis, XV a.)]]: Lietuvos metraštis pasakoja, kad po pergalės buvo paimta daug vokiečių miestų ir žemių.
+- susijęs iš [[objektai/ivykiai/Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos.md#claim-t-186607|Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos (mūšis, XV a.)]]: Lietuvos metraštis pasakoja, kad po pergalės prie Dubrovnos vokiečių vėliavos ir nuo magistro bei komtūrų nuplėštos barzdos padalytos Lenkijai ir Lietuvai.
+- susijęs iš [[objektai/ivykiai/Lojevo mūšis (1649 m. liepos 31 d.).md#claim-t-49173|Lojevo mūšis (1649 m. liepos 31 d.)]]: Lojevo mūšyje kazokų kariuomenė buvo perskelta į dvi dalis, jos kairysis sparnas sumuštas, o M. Kričevskio kariai atsitraukė į mišką.
+- susijęs iš [[objektai/ivykiai/Oršos mūšis (1514 m.).md#claim-t-54179|Oršos mūšis (1514 m.)]]: Po Oršos mūšio Vilniuje buvo surengtos triumfo iškilmės, vedami belaisviai ir pakabintos trofėjinės vėliavos.
+- susijęs iš [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.).md#claim-t-10285|Salaspilio (Kircholmo) mūšis (1605 m.)]]: Salaspilio mūšyje T. Dambravos vadovaujama reitarų vėliava prajojo Dauguvos pakrante ir smogė švedų kavalerijai iš flango.
+- susijęs iš [[objektai/paprociai/Bajorų pašauktinės kariuomenės mobilizacija.md#claim-t-09545|Bajorų pašauktinės kariuomenės mobilizacija]]: Po totorių plėšimų buvo paskelbta bajorų mobilizacija.
+- susijęs iš [[objektai/paprociai/Husarų vėliavų „draugų“ ir palydos sistema.md#claim-t-71802|Husarų vėliavų „draugų“ ir palydos sistema]]: Husarų vėliavų branduolį sudarė turtingi bajorai - draugai.
+- susijęs iš [[objektai/paprociai/Triumfo iškilmės su belaisvių eisena ir trofėjinėmis vėliavomis Vilniuje.md#claim-t-183695|Triumfo iškilmės su belaisvių eisena ir trofėjinėmis vėliavomis Vilniuje]]: Kilmingi žuvusieji buvo atvežti ir palaidoti Vilniuje.
+- susijęs iš [[objektai/paprociai/Triumfo iškilmės su belaisvių eisena ir trofėjinėmis vėliavomis Vilniuje.md#claim-t-78729|Triumfo iškilmės su belaisvių eisena ir trofėjinėmis vėliavomis Vilniuje]]: Vilniuje per triumfo iškilmes eisenoje buvo vedami Maskvos belaisviai karvedžiai ir kariai, o katedroje pakabintos trofėjinės vėliavos.
+- susijęs iš Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus: „Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus“ pasakoja, kad 1649 m. priešai staiga užpuolė prie stovyklos buvusius pašarininkus.
+- susijęs iš Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus: „Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus“ šiame veikale cituojamas kaip atskiras šaltinis.
+- susijęs iš Chotinas: 1673 m. Chotino mūšio iliustracijoje priešais Chotino pilį pavaizduoti M. K. Radvilos kariai.
+- susijęs iš Vilnius: Sapiegų etmonas, pamatęs supamą kariuomenę ir respublikonų užimtą gurguolę, nusprendė trauktis į Vilnių.
+- susijęs iš Vilnius: Septynios paimtos livoniečių vėliavos buvo nugabentos į Vilniaus Šv. Stanislovo katedrą kaip pergalės simbolis.
+- susijęs iš Vilnius: Septynios paimtos livoniečių vėliavos buvo nugabentos į Vilniaus Šv. Stanislovo katedrą kaip pergalės simbolis.
+- susijęs iš Vilnius: 1794 m. balandžio 23 d. Vilniaus puolime dalyvavo apie 580 Lietuvos karių ir 20 artilerijos pabūklų.
+- susijęs iš Vilnius: Kilmingi žuvusieji buvo atvežti ir palaidoti Vilniuje.
+- susijęs iš [[objektai/zodynas/petihorai.md#claim-t-49286|petihorai]]: J. P. Sapiegos husarų ir petihorų vėliavos atlaikė pagrindinį Švedijos kariuomenės smūgį prie lietuvių dešiniojo sparno.
+- susijęs iš [[objektai/zodynas/vyskupo teisėjas.md#claim-t-42524|vyskupo teisėjas]]: Sembos vyskupo teisėjui Jonui Lonei buvo atimta gyvybė kartu su Gdansko komtūru ir penkiomis dešimtimis prie vėliavos nukautųjų.
+- susijęs iš [[objektai/zodynas/vėliava.md#claim-t-78912|vėliava]]: Riteris kaudavosi po savo vėliava, o jai patekus į priešo rankas galėjo trauktis arba kautis prie kitos vėliavos.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -543,74 +645,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-023
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/simbolis]]
-
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Lietuvos kariuomenė]]
-- [[objektai/daiktai/Skydas]]
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/grupes/Bajorai]]
-- [[objektai/posakiai/Christ ist erstanden]]
-- [[objektai/daiktai/Druska]]
-- [[objektai/daiktai/Gediminaičių stulpai]]
-- [[objektai/grupes/Herulai]]
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
-- [[objektai/asmenys/Kaributas]]
-- [[objektai/daiktai/Karūna]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Romėnai]]
-- [[objektai/grupes/Rytas]]
-- [[objektai/daiktai/Stulpai]]
-- [[objektai/asmenys/Ulrichas von Jungingenas]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/duoklė]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/Perveiza|perveiza]]
-- [[objektai/zodynas/rezervas]]
-- [[objektai/zodynas/Tėvūnija|tėvūnija]]
-- [[objektai/zodynas/vaivada]]
-- [[objektai/zodynas/vėliava]]
-- [[objektai/daiktai/Šv. Jurgio vėliava]]
-- [[objektai/grupes/Žemlionys]]
-- [[objektai/posakiai/„Kristus prisikėlė“]]
-- [[objektai/ivykiai/1941 m. Birželio sukilimas|1941 m. Birželio sukilimas (sukilimas)]]
-- [[objektai/grupes/7-ojo fuzilierių regimento]]
-- [[objektai/asmenys/B. P. Sapiega]]
-- [[objektai/paprociai/Bajorų pašauktinės kariuomenės mobilizacija]]
-- [[objektai/asmenys/H. Brantas]]
-- [[objektai/paprociai/Husarų vėliavų „draugų“ ir palydos sistema]]
-- [[objektai/asmenys/J. P. Sapiega]]
-- [[objektai/ivykiai/Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos|Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos (mūšis, XV a.)]]
-- [[objektai/daiktai/Kryžiuočių kariuomenės dalių vėliavos]]
-- [[objektai/grupes/Kuršo ir Žiemgalos kunigaikštystė]]
-- [[objektai/grupes/LDK 4-ojo pėstininkų regimento]]
-- [[objektai/grupes/LDK tribunolo vengrų vėliavos dalinys]]
-- [[objektai/daiktai/Lietuvos herbas Vytis]]
-- [[objektai/grupes/Lietuvos totoriai]]
-- [[objektai/daiktai/Lietuvos valstybės vėliava]]
-- [[objektai/ivykiai/Lojevo mūšis (1649 m. liepos 31 d.)]]
-- [[objektai/asmenys/Mykolas Kiełbasa]]
-- [[objektai/grupes/Panevėžio batalionas]]
-- [[objektai/daiktai/Panevėžio bataliono vėliava]]
-- [[objektai/grupes/Panevėžio lietuvių katalikių moterų draugija]]
-- [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.)]]
-- [[objektai/asmenys/T. Dambrava]]
-- [[objektai/paprociai/Triumfo iškilmės su belaisvių eisena ir trofėjinėmis vėliavomis Vilniuje]]
-- [[objektai/asmenys/Zbignievas Olesnickis]]
-- [[objektai/grupes/ojo fuzilierių regimento]]
-- [[objektai/zodynas/petihorai]]
-- [[objektai/asmenys/Zyndramas iš Moškovicų]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/asmenys/Jeronimas]]
-- [[objektai/asmenys/Jonas Lonei]]
-- [[objektai/autoriai/Mykolas Lietuvis]]
-- [[objektai/daiktai/Ordino magistro valdžios žymenys]]
-- [[objektai/daiktai/Riterių vėliava]]
-- [[objektai/grupes/Smolenskiečiai]]
-- [[objektai/daiktai/Valstybiniai ženklai ir vėliava]]
-- [[objektai/zodynas/vyskupo teisėjas]]

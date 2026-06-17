@@ -10,14 +10,14 @@ date_start: '1387'
 date_end: '1413'
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XIV'
-  - 'XV'
 tags:
   - bajorija
   - kunigas
   - privilegija
   - saltinis
+amziai:
+  - 'XIV'
+  - 'XV'
 ---
 # Horodlės aktai (1413 m.)
 
@@ -26,14 +26,21 @@ tags:
 Kai kurie stačiatikiai, ypač jų di­ duomenė, buvo nepatenkinti ir tuo, kad nei 1387 m. privilegija nei 1413 m. Horodlės unija nesuteikia jiems jokių privilegijų, kai tuo tarpu bajorai katalikai buvo gavę plačių laisvių į nuosavybę ir buvo atleisti nuo. Horodlės unijos (1413) aktu užtvirtintos visoms bažnyčioms, parapijoms, kole­ gijoms, vienuolynams ir kitoms dvasinėms įstaigoms visokios laisvės, privilegijos, imunitetai, kurie tik buvo iki tol išduoti.
 
 ## Teiginiai
+
 <a id="claim-t-12451"></a>
 - t-001
   global_id: t-12451
   teiginys: '1413 m. Horodlės unija nesuteikė privilegijų stačiatikiams, ypač jų diduomenei.'
+  sudarymo_pagrindimas: 'Pašalintas nutrūkimas ir paliktas citatos tiesiogiai remiamas faktas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Gregorijus (Vladimiro vyskupas)|Gregorijus (Vladimiro vyskupas)]]; mentioned_place: Horodlė'
+  temporaliniai_duomenys: 'įvykio data: 1387 m.; įvykio data: 1413 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas nutrūkimas ir paliktas citatos tiesiogiai remiamas faktas.'
   pagrindžia:
     - c-001
 
-## Bibliografiniai įrodymai
+## Reikšmingi paminėjimai
+
 - c-001
   santrauka: '1413 m. Horodlės unija nesuteikė privilegijų stačiatikiams, ypač jų diduomenei.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)

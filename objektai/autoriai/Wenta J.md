@@ -28,6 +28,11 @@ Dusburgietis teigia, kad wenta J.
 - t-001
   global_id: t-60851
   teiginys: 'J. Wenta 1980 m. paskelbė straipsnį apie Petro Dusburgiečio kroniką ir Kryžiuočių ordino istoriją Oliwos kronikoje.'
+  sudarymo_pagrindimas: 'Citata pateikia J. Wentos straipsnio pavadinimą ir publikavimo metus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/autoriai/Dusburgas|Dusburgas]]'
+  temporaliniai_duomenys: 'įvykio data: 1980 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pateikia J. Wentos straipsnio pavadinimą ir publikavimo metus.'
   pagrindžia:
     - c-001
 
@@ -44,7 +49,3 @@ Dusburgietis teigia, kad wenta J.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]

@@ -29,9 +29,14 @@ Bet Olivos metraš­ čiai (Annales Oliv., p. 48) rašo, kad tuo tarpu, kai Gedi
 - t-001
   global_id: t-86584
   teiginys: 'Bombarda buvo Vokietijoje neseniai išrastas ir Lietuvoje dar nežinomas šaunamasis ginklas.'
+  sudarymo_pagrindimas: 'Pradinis tekstas triukšmingas ir kontekstinis; citata remia glaustą apibrėžiamąjį teiginį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Anglai|Anglai]]; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Oliva; mentioned_place: Vokietija'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Hermanas.md#claim-t-183740|Hermanas]]: Po keturių savaičių apgulties lietuviai pabūklu nukovė meistrą Hermaną, kai jis pilies angoje pastatė bombardą prieš lietuvius.
+- susijęs iš [[objektai/asmenys/Hermanas.md#claim-t-40139|Hermanas]]: Meistras Hermanas po keturių savaičių apgulties pastatė bombardą prieš lietuvius, tačiau buvo jų užmuštas tokiu pat pabūklu.
+- susijęs iš [[objektai/daiktai/Bombardos.md#claim-t-113454|Bombardos]]: Per apgultį meistras Hermanas pilies angoje pastatė bombardą prieš lietuvius, bet lietuviai tokiu pat pabūklu jį užmušė.
+- susijęs iš [[objektai/daiktai/Bombardos.md#claim-t-113457|Bombardos]]: Po keturių savaičių apgulties meistras Hermanas pilies angoje pastatė bombardą prieš lietuvius, bet lietuviai priešais įtaisė tokį pat pabūklą ir užmušė Hermaną.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -63,16 +68,3 @@ Bet Olivos metraš­ čiai (Annales Oliv., p. 48) rašo, kad tuo tarpu, kai Gedi
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/metraštis]]
-
-### Susiję objektai
-- [[objektai/grupes/Anglai]]
-- [[objektai/asmenys/Gediminas]]
-- [[objektai/daiktai/Ginklai]]
-- [[objektai/grupes/Prancūzai]]
-- [[objektai/daiktai/Žirgai]]
-- [[objektai/daiktai/Bombardos]]
-- [[objektai/asmenys/Hermanas]]

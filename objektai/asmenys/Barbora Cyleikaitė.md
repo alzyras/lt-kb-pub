@@ -22,6 +22,8 @@ Atvyko Jogaila su savo šimtais palydovų, Romos ciesorius Zigmantas su savo žm
 - t-001
   global_id: t-35031
   teiginys: 'Barbora Cyleikaitė atvyko su savo vyru Romos ciesoriumi Zigmantu ir buvo Jogailos antrosios žmonos giminaitė.'
+  susije_objektai: 'location: Silezija; location: Vokietija; mentioned_group: [[objektai/grupes/Hanza|Hanza]]; mentioned_object: [[objektai/zodynas/ciesorius|ciesorius]]; mentioned_object: [[objektai/zodynas/lėnininkai|lėnininkai]]; mentioned_person: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Silezija; mentioned_place: Vokietija'
+  semantiniai_rysiai: '[[objektai/asmenys/Barbora Cyleikaitė|Barbora Cyleikaitė]] keliavo į Silezija; [[objektai/asmenys/Barbora Cyleikaitė|Barbora Cyleikaitė]] keliavo į Vokietija'
   pagrindžia:
     - c-001
 
@@ -45,11 +47,5 @@ Atvyko Jogaila su savo šimtais palydovų, Romos ciesorius Zigmantas su savo žm
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Barbora Radvilaitė]]
-- [[objektai/grupes/Hanza]]
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
-- [[objektai/zodynas/ciesorius]]
-- [[objektai/zodynas/lėnininkai]]
+- Barbora Cyleikaitė keliavo_i [[objektai/vietos/Silezija]]
+- Barbora Cyleikaitė keliavo_i [[objektai/vietos/Vokietija]]

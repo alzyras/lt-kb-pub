@@ -20,6 +20,8 @@ Dusburgietis teigia, kad vienos bibliotekos rankraštis (XVII a., gal net vėlia
 - t-001
   global_id: t-91966
   teiginys: 'Vienos bibliotekos Dusburgiečio kronikos rankraštis XVII a. ar vėliau nurašytas nuo Berlyno teksto.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_place: Berlynas; mentioned_place: Viena'
   pagrindžia:
     - c-001
 

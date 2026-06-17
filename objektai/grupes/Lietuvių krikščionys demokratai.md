@@ -18,7 +18,7 @@ amziai:
 
 ## Santrauka
 
-Krikščionims demokratams padėjo demonstruotas lojalumas caro valdžiai, todėl caro administracija jų veiklai didesnių kliūčių nekėlė.
+Krikščionims demokratams padėjo tai, kad jie demonstravo lojalumą caro valdžiai, ir jų veiklai caro administracija didesnių kliūčių nestatė.
 
 ## Teiginiai
 
@@ -26,6 +26,8 @@ Krikščionims demokratams padėjo demonstruotas lojalumas caro valdžiai, todė
 - t-001
   global_id: t-74627
   teiginys: 'Krikščionims demokratams padėjo demonstruotas lojalumas caro valdžiai, todėl caro administracija jų veiklai didesnių kliūčių nekėlė.'
+  sudarymo_pagrindimas: 'Citata palaiko bendrą teiginį apie krikščionis demokratus, bet nepakankamai aiškiai pagrindžia žodį „Lietuvių“.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lenkija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -49,10 +51,3 @@ Krikščionims demokratams padėjo demonstruotas lojalumas caro valdžiai, todė
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Krikščionys]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Lenkų krikščionys demokratai]]

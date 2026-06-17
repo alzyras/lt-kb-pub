@@ -26,6 +26,7 @@ Su jo kaip redaktoriaus vardu labiausiai lietuvių visuo­ menėje yra surišta 
 - t-001
   global_id: t-31819
   teiginys: '„Lietuvos istoriją“ (1936) rašė penki autoriai, o redaktoriaus indėlis buvo didžiausias.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/autoriai/A. Šapoka|A. Šapoka]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

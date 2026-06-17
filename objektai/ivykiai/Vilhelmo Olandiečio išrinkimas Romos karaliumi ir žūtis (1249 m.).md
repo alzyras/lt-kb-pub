@@ -43,6 +43,12 @@ Nenurodyta
 - t-001
   global_id: t-62528
   teiginys: '1249 m., mirus landgrafui, Olandijos grafas Vilhelmas buvo išrinktas Romos karaliumi, tačiau netrukus jį nužudė frizai.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Citata palaiko faktą, bet reikia sutrumpinti ir pašalinti perteklinę įžangą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vilhelmas|Vilhelmas]]; mentioned_place: Olandija'
+  temporaliniai_duomenys: 'įvykio data: 1249 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko faktą, bet reikia sutrumpinti ir pašalinti perteklinę įžangą.'
   pagrindžia:
     - c-001
 
@@ -67,8 +73,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Vilhelmas]]
-- [[objektai/asmenys/Vilhelmas (Olandijos grafas)]]

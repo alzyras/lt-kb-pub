@@ -28,6 +28,9 @@ Papée). Papée, Pr. i Papée, Fr.
 - t-001
   global_id: t-30928
   teiginys: 'Pr. Papée 1904 m. Krokuvoje paskelbė darbą Polska i Litwa na przełomie wieków średnich.'
+  susije_objektai: 'mentioned_place: Krokuva; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1904 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -35,6 +38,7 @@ Papée). Papée, Pr. i Papée, Fr.
 - t-002
   global_id: t-30929
   teiginys: 'Fr. Papée priklausė senajai istorikų kartai, vaizdavusiai lietuvius vargšais ir skurdžiais.'
+  susije_objektai: 'owner: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/autoriai/Fr. Papée|Fr. Papée]]'
   pagrindžia:
     - c-003
 
@@ -42,9 +46,10 @@ Papée). Papée, Pr. i Papée, Fr.
 - t-003
   global_id: t-30930
   teiginys: 'Fr. Papée kartu su St. Smolka parengė darbą Władysław Jagiełło Encyklopedja Polska leidiniui.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/Fr. Papée|Fr. Papée]]; mentioned_person: [[objektai/autoriai/St. Smolka|St. Smolka]]'
   pagrindžia:
     - c-002
-
+- susijęs iš Polska i Litwa na przełomie wieków średnich: Pr. Papée veikalo „Polska i Litwa na przełomie wieków średnich“ pirmoji dalis išleista Krokuvoje 1904 m.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -92,7 +97,3 @@ Papée). Papée, Pr. i Papée, Fr.
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]

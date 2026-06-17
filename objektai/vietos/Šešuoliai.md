@@ -5,6 +5,7 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1200 m.'
+  - '1333 m.'
   - '1334 m.'
 date_start: '1200'
 date_end: '1334'
@@ -28,9 +29,17 @@ amziai:
 - t-001
   global_id: t-28509
   teiginys: '1334 m. kryžiuočiai nusiaubė Dubingius ir Šešuolius, priartėdami per 4 mylias prie Vilniaus.'
+  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir suformuluotas aiškus sakinys.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Dubingiai; mentioned_place: Ukmergė; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1333 m.; įvykio data: 1334 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas OCR triukšmas ir suformuluotas aiškus sakinys.'
   pagrindžia:
     - c-001
-
+- susijęs iš Pumos: Aleksandrui Jurjevičiui Lietuvoje priklausė Pumos.
+- susijęs iš Lebedevas: Aleksandras Jurjevičius Alšėniškis Lietuvoje turėjo Lebedevą kartu su Alšėnais, Pumais, Svyruotais ir Šešuoliais.
+- susijęs iš Pumos: Aleksandrui Jurjevičiui Lietuvoje priklausė Pumos.
+- susijęs iš Svyruotai: Aleksandras Jurjevičius Alšėniškis Lietuvoje turėjo Svyruotus kartu su kitomis valdomis.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -44,3 +53,6 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+- [[objektai/vietos/Pumos]] priklause Šešuoliai

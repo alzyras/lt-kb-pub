@@ -23,6 +23,8 @@ Taip pat šį perrašytą testamentą mes kartą ir antrą, ir dar keliolika kar
 - t-001
   global_id: t-86641
   teiginys: 'Testamentas buvo užantspauduotas signetu, kuriuo paprastai antspauduoti slapti raštai, ir pasirašytas ranka.'
+  sudarymo_pagrindimas: 'Citata palaiko faktą apie signetą, o pradinis tekstas yra nutrūkęs.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_place: Tikocinas'
   pagrindžia:
     - c-001
 
@@ -56,7 +58,3 @@ Taip pat šį perrašytą testamentą mes kartą ir antrą, ir dar keliolika kar
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/ponai]]

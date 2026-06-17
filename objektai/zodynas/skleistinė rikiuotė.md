@@ -20,6 +20,7 @@ Pėstininkams judant skleistinėse rikiuotėse miškinga arba raižyta vietove n
 - t-001
   global_id: t-38776
   teiginys: 'Pėstininkams judant skleistinėse rikiuotėse miškinga arba raižyta vietove neįmanoma išlaikyti reikiamo lygiavimo.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie skleistinę rikiuotę.'
   pagrindžia:
     - c-001
 

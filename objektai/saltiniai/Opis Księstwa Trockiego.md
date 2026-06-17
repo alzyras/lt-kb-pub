@@ -29,6 +29,9 @@ Jakubowski, Opis Księstwa Trockiego (Kwartalnink hist.
 - t-001
   global_id: t-36091
   teiginys: 'J. Jakubowskio „Opis Księstwa Trockiego“ cituojamas kaip 1907 m. „Kwartalnink hist.“ publikacija.'
+  susije_objektai: 'mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1907 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

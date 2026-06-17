@@ -14,7 +14,7 @@ tags:
 
 ## Santrauka
 
-Sirenas buvo pamedėnas, Kristburgo pilyje laikytas surakintas grandinėmis, nes buvo prasikaltęs. Sirenas nutraukė grandines ir gynė Kristburgo pilies tiltą, kol buvo uždaryti pilies vartai.
+Dusburgietis teigia, kad tuo metu Kristburgo pilyje tebuvo likę trys broliai, trys jų tarnai ir vienas pamedėnas, vardu Sirenas, kurį laikė grandinėmis surakintą, nes buvo kažkuo prasikaltęs.
 
 ## Teiginiai
 
@@ -22,6 +22,8 @@ Sirenas buvo pamedėnas, Kristburgo pilyje laikytas surakintas grandinėmis, nes
 - t-001
   global_id: t-60433
   teiginys: 'Sirenas buvo pamedėnas, Kristburgo pilyje laikytas surakintas grandinėmis, nes buvo prasikaltęs.'
+  sudarymo_pagrindimas: 'Teiginys pagrįstas, bet perrašytas enciklopediškiau ir be šnekamojo „kažkokio“.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_place: Kristburgas; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -29,9 +31,14 @@ Sirenas buvo pamedėnas, Kristburgo pilyje laikytas surakintas grandinėmis, nes
 - t-002
   global_id: t-184125
   teiginys: 'Sirenas nutraukė grandines ir gynė Kristburgo pilies tiltą, kol buvo uždaryti pilies vartai.'
+  teiginio_tipas: 'saltinio_teiginys'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Geriau išnaudotas citatos tęsinys apie Sireno veiksmą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pamedėnai|Pamedėnai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/daiktai/Pilies vartai|Pilies vartai]]; mentioned_place: Kristburgas'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/ivykiai/Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas.md#claim-t-66521|Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas]]: Per Divano ir Linko puolimą Kristburgo pilyje buvo likę trys broliai, trys jų tarnai ir grandinėmis surakintas pamedėnas Sirenas.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -67,10 +74,3 @@ Sirenas buvo pamedėnas, Kristburgo pilyje laikytas surakintas grandinėmis, nes
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Kalavijas]]
-- [[objektai/grupes/Pamedėnai]]
-- [[objektai/daiktai/Pilies vartai|Pilies vartai (pilis, XIV a.)]]
-- [[objektai/ivykiai/Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas]]

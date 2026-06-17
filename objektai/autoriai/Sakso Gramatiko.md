@@ -28,9 +28,15 @@ Dusburgietis teigia, kad manoma, kad Sakso Gramatiko (mir.
 - t-001
   global_id: t-91954
   teiginys: 'Manoma, kad Sakso Gramatiko Danijos istorijoje minimi Rutheni greičiausiai buvo venedai.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Venedai|Venedai]]; mentioned_place: Baltija'
+  temporaliniai_duomenys: 'įvykio data: 1216 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
-
+- susijęs iš Sakso Gramatiko Danijos istorija: Sakso Gramatiko Danijos istorijoje minimi Rutheni greičiausiai buvo venedai, apie kuriuos rašė Dusburgietis.
+- susijęs iš [[objektai/zodynas/rutėnai Rutheni.md#claim-t-58831|rutėnai Rutheni]]: Istorijos šaltiniuose rutėnais dažnai vadinti Baltijos jūros pietinės pakrantės ir Riugeno salos gyventojai.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -46,8 +52,3 @@ Dusburgietis teigia, kad manoma, kad Sakso Gramatiko (mir.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/rutėnai Rutheni]]
-- [[objektai/grupes/Venedai]]

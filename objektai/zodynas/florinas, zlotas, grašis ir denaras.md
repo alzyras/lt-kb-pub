@@ -26,6 +26,11 @@ Vilniaus universiteto bibliotekoje) Pirmiausia už 3&1 talerį, už kurį Lenkij
 - t-001
   global_id: t-86469
   teiginys: '1571 m. rugpjūčio 18 d. Vilniuje 666 kapoms lietuviškomis monetomis išleista 91 florinas, 19 grašių ir 6 lietuviški denarai.'
+  sudarymo_pagrindimas: 'Reikia pašalinti lotyniškus datos fragmentus ir sutvarkyti sakinį.'
+  susije_objektai: 'mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1571 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia pašalinti lotyniškus datos fragmentus ir sutvarkyti sakinį.'
   pagrindžia:
     - c-002
 
@@ -33,6 +38,8 @@ Vilniaus universiteto bibliotekoje) Pirmiausia už 3&1 talerį, už kurį Lenkij
 - t-002
   global_id: t-86470
   teiginys: 'Motiejus Kaviečnijskis į Varšuvą atsiuntė talerius, už kuriuos Lietuvoje mokėta po 25 lietuviškus grašius.'
+  sudarymo_pagrindimas: 'Pradiniame teiginyje yra OCR ir konteksto triukšmo.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/florinai|florinai]]; mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]; mentioned_person: [[objektai/asmenys/Motiejus Kaviečnijskis|Motiejus Kaviečnijskis]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Varšuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -71,10 +78,3 @@ Vilniaus universiteto bibliotekoje) Pirmiausia už 3&1 talerį, už kurį Lenkij
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Motiejus]]
-- [[objektai/asmenys/Motiejus Kaviečnijskis]]
-- [[objektai/zodynas/florinai]]
-- [[objektai/zodynas/raudonasis auksinas, taleris ir dukatas]]

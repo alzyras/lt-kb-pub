@@ -29,6 +29,11 @@ amziai:
 - t-001
   global_id: t-31889
   teiginys: 'St. Zajączkowskio „Polska a Zakon Krzyżacki w ostatnich latach Władysława Łokietka“ išleista Lvove 1929 m.'
+  sudarymo_pagrindimas: 'Citata remia leidimo vietą ir metus, bet pastaba apie 1325 m. sutartį yra bibliografinis komentaras.'
+  susije_objektai: 'mentioned_place: Lvovas'
+  temporaliniai_duomenys: 'įvykio data: 1325 m.; įvykio data: apie 1325 m.; įvykio data: 1929 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
+  temporalinis_llm_pakomentavimas: 'Citata remia leidimo vietą ir metus, bet pastaba apie 1325 m. sutartį yra bibliografinis komentaras.'
   pagrindžia:
     - c-001
 

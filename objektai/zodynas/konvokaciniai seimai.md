@@ -15,21 +15,22 @@ tags:
 
 ## Santrauka
 
-Konvokaciniai seimai būdavo šaukiami mirus karaliui, o juos šaukdavo Gniezno arkivyskupas, laikytas valstybės galva tarpuvaldžiu.
+Seimų rūšys. Po konvokacinio seimo, jo nustatytu laiku, taip pat primas šaukdavo e1ekcinį seimą, kuriame būdavo sprendžiami visi karaliaus rinkimo formalumai ir surašomos jam pateikiamos sąlygos.
 
 ## Teiginiai
+
 <a id="claim-t-03052"></a>
 - t-001
   global_id: t-03052
   teiginys: 'Konvokaciniai seimai būdavo šaukiami mirus karaliui, o juos šaukdavo Gniezno arkivyskupas, laikytas valstybės galva tarpuvaldžiu.'
+  sudarymo_pagrindimas: 'Pradinė formuluotė neturi faktinio predikato.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Gniezno'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Konvokaciniai seimai būdavo šaukiami mirus karaliui, o juos šaukdavo Gniezno arkivyskupas, laikytas valstybės galva tarpuvaldžiu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Seimų rūšys.** Be ordinarinių seimų, kas dveji metai šaukiamų,
@@ -40,17 +41,8 @@ Konvokaciniai seimai būdavo šaukiami mirus karaliui, o juos šaukdavo Gniezno 
     kurs tarpuvaldyje būdavo laikomas valstybės galva — _interrex._
     Tas seimas turėjo susitarti dėl karaliaus rinkimo datos ir dėl kitų
     su elekcija susijusių klausimų.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/karūnacija]]
-
-### Susiję objektai
-- [[objektai/zodynas/seimas]]

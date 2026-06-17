@@ -39,6 +39,9 @@ Nenurodyta
 - t-001
   global_id: t-62387
   teiginys: 'Baigos komtūras Ditrichas iš Altenburgo pastatė Lunenburgo pilį Bartos žemėje, Gubros ir Sainos upių santakoje.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Citata remia aiškų faktą, reikia pašalinti boilerplate, pastabas ir perteklinį tekstą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Ditrichas iš Altenburgo|Ditrichas iš Altenburgo]]; mentioned_place: Baiga; mentioned_place: Barta; mentioned_place: Bartenšteinas; mentioned_place: Ilienburgas; mentioned_place: Kristburgas; mentioned_place: Lunenburgas; mentioned_place: Saina'
   pagrindžia:
     - c-001
 
@@ -67,9 +70,3 @@ Nenurodyta
   pagrindžia:
     - t-001
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/komtūras]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/asmenys/Ditrichas iš Altenburgo]]

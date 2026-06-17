@@ -1,27 +1,10 @@
 ---
-tipas: 'ivykis'
+tipas: ivykis
 pavadinimas: 'Algirdo palaikų sudeginimas Kukovaičio miške'
-sukurta: '2026-06-16'
-variantai:
-  - 'Algirdo palaikų sudeginimas ant laužo Kukovaičio miške'
-  - 'Algirdo laidotuvių laužas Kukovaičio miške'
-aliases: []
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
-bukle: 'juodrastis'
-laikotarpis: ''
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: ''
-atnaujinta: '2026-06-16'
-tags: []
+sukurta: ''
+atnaujinta: ''
 ---
 # Algirdo palaikų sudeginimas Kukovaičio miške
 
@@ -34,27 +17,31 @@ Redakcinė pastaba teigia, kad pagal J. Dlugošą Kukovaičio miške prie Maiši
 - laikotarpis:
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 <a id="claim-t-186691"></a>
 - t-001
   global_id: t-186691
   teiginys: 'Redakcinė pastaba teigia, kad pagal J. Dlugošą Kukovaičio miške prie Maišiagalos ant laužo buvo sudeginti mirusio Algirdo palaikai.'
+  teiginio_tipas: 'saltinio_teiginys'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Laužas|Laužas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Deltuva; mentioned_place: Lietuva; mentioned_place: Maišiagala; mentioned_place: Trakai'
   pagrindžia:
     - c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Redakcinė pastaba teigia, kad pagal J. Dlugošą Kukovaičio miške prie Maišiagalos ant laužo buvo sudeginti mirusio Algirdo palaikai.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     ’*  Legenda apie Kukovaičio mišką, tapatinamą su Ročkalniu
@@ -65,15 +52,8 @@ Nenurodyta
     Maišiagalos buvę sudeginti an t laužo mirusio Algirdo palaikai
     (Jana Dlugosza, kanonika krakowsklcgo. dzlejów polsklch kslęg
     dwanascie (toliau — Dzieje), t. HI, Kraków. 1868, p. 444).
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/daiktai/Laužas]]

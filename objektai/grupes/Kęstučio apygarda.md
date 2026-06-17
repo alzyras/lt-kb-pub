@@ -29,9 +29,18 @@ amziai:
 - t-001
   global_id: t-40972
   teiginys: '1948 m. Jungtinė Kęstučio apygarda buvo padalinta į Kęstučio ir Prisikėlimo apygardas.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Kęstučio apygardos sudarymą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]'
+  temporaliniai_duomenys: 'įvykio data: 1948 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie Kęstučio apygardos sudarymą.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/grupes/Maironio rinktinė.md#claim-t-41084|Maironio rinktinė]]: Prisikėlimo apygardoje atkurta P. Lukšio rinktinė netrukus buvo pervadinta Maironio rinktine.
+- susijęs iš [[objektai/grupes/P. Lukšio rinktinė.md#claim-t-41107|P. Lukšio rinktinė]]: Prisikėlimo apygardoje buvo atkurta P. Lukšio rinktinė, netrukus pervadinta į Maironio rinktinę.
+- susijęs iš [[objektai/grupes/Prisikėlimo apygarda.md#claim-t-41116|Prisikėlimo apygarda]]: 1948 m. Jungtinė Kęstučio apygarda buvo padalinta į Kęstučio ir Prisikėlimo apygardas.
+- susijęs iš [[objektai/grupes/Prisikėlimo apygarda.md#claim-t-41117|Prisikėlimo apygarda]]: Prisikėlimo apygardoje buvo atkurta P. Lukšio rinktinė, netrukus pervadinta Maironio rinktine.
+- susijęs iš [[objektai/grupes/Savanorio rinktinė.md#claim-t-39004|Savanorio rinktinė]]: Po rinktinės vado suėmimo J. Paliūnas pakrikusius partizanus suorganizavo į Savanorio rinktinę.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -47,11 +56,3 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- [[objektai/grupes/Maironio rinktinė]]
-- [[objektai/grupes/P. Lukšio rinktinė]]
-- [[objektai/grupes/Prisikėlimo apygarda]]
-- [[objektai/grupes/Savanorio rinktinė]]

@@ -27,6 +27,11 @@ Dusburgietis teigia, kad die žemaitischen Mundarten.— Teil 1: Geschichte des 
 - t-001
   global_id: t-61279
   teiginys: 'A. Salio „Die žemaitischen Mundarten“ 1 dalis paskelbta „Tauta ir žodis“ 6 knygoje 1930 m., p. 173–314.'
+  sudarymo_pagrindimas: 'Citata pagrindžia pavadinimą, publikavimo leidinį, metus ir puslapius.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/A. Salys|A. Salys]]'
+  temporaliniai_duomenys: 'įvykio data: 1930 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia pavadinimą, publikavimo leidinį, metus ir puslapius.'
   pagrindžia:
     - c-001
 

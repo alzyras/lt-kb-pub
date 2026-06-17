@@ -30,6 +30,11 @@ Dusburgietis teigia, kad apie Neapolio miesto sugriovimą ir Konrado, imperatori
 - t-001
   global_id: t-60359
   teiginys: '1251 m. Konradas, imperatoriaus Fridricho II sūnus, užpuolė Apulijos karalystę ir Neapolį, sugriovė sienas, o kitais metais mirė nunuodytas.'
+  sudarymo_pagrindimas: 'Teiginys yra faktinis, aiškus ir atitinka citatos informaciją.'
+  susije_objektai: 'mentioned_place: Apulija; mentioned_place: Jeruzalė; mentioned_place: Neapolis'
+  temporaliniai_duomenys: 'įvykio data: 1251 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra faktinis, aiškus ir atitinka citatos informaciją.'
   pagrindžia:
     - c-001
 
@@ -50,8 +55,3 @@ Dusburgietis teigia, kad apie Neapolio miesto sugriovimą ir Konrado, imperatori
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Fridrichas II]]
-- [[objektai/ivykiai/Neapolio sugriovimas ir Konrado mirtis (1251-1252 m.)]]

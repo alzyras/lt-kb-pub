@@ -29,6 +29,11 @@ Il priede išsamią žinią apie Lieje, kur aiškiai pasakyta: ius Teutonituvos 
 - t-001
   global_id: t-86859
   teiginys: '1441 m. Kazimiero privilegijoje Vilniui iš naujo suteikta teutoniškoji, Magdeburgo vardu vadinama teisė.'
+  sudarymo_pagrindimas: 'Teiginys yra užbaigtas ir pagrįstas citatoje aprašyta 1441 m. Kazimiero privilegija.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Mūro sienos ir miesto sienos|Mūro sienos ir miesto sienos]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1441 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra užbaigtas ir pagrįstas citatoje aprašyta 1441 m. Kazimiero privilegija.'
   pagrindžia:
     - c-001
 
@@ -72,9 +77,3 @@ Il priede išsamią žinią apie Lieje, kur aiškiai pasakyta: ius Teutonituvos 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Mūro sienos ir miesto sienos]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/asmenys/Žygimantas]]

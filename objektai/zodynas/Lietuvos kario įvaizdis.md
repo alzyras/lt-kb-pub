@@ -23,6 +23,8 @@ tags:
 - t-001
   global_id: t-80628
   teiginys: 'Leidinyje gausios iliustracijos turėjo padėti skaitytojui susikurti įvairių laikotarpių Lietuvos kario įvaizdį.'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo apie leidinio tikslą, o ne tiesiogiai apie Lietuvos kario įvaizdį.'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -44,7 +46,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/karų kulminaciniai momentai]]

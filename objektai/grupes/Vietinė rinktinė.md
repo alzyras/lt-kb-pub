@@ -22,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-1944 m. kovo mėn. Vietinėje rinktinėje buvo paskirtas 310-ojo bataliono vadas. Vietinės rinktinės daliniai Vilnijoje susidūrė su ginkluotais lenkų Armijos Krajovos daliniais. Vietinės rinktinės kariai neketino kariauti Vokietijos pusėje ir ėmė skirstytis su ginklais bei amunicija.
+Vokiečių valdžia, verčiama nesėkmių Rytų fronte, kitų metų pradžioje pritarė lietuvių siūlymui sukurti lietuviškus karinius dalinius – Vietinę rinktinę, kuriai vadovautų lietuviai karininkai ir kuri veiktų tik Lietuvos teritorijoje. Vokiečiai pareikalavo, kad rinktinė taptų jiems pavaldi. Kovai su vietos lenkų pasipriešinimu civilinė administracija pasiuntė į Vilniją lietuvių Vietinės rinktinės dalinius, kurie susidūrė su ginkluotais lenkų Armija Krajova daliniais.
 
 ## Teiginiai
 
@@ -30,6 +30,11 @@ amziai:
 - t-001
   global_id: t-66256
   teiginys: '1944 m. kovo mėn. Vietinėje rinktinėje buvo paskirtas 310-ojo bataliono vadas.'
+  sudarymo_pagrindimas: 'Pradinis teiginys neturi aiškaus veiksnio ir nėra užbaigtas sakinys.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]'
+  temporaliniai_duomenys: 'įvykio data: 1944 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys neturi aiškaus veiksnio ir nėra užbaigtas sakinys.'
   pagrindžia:
     - c-005
 
@@ -37,6 +42,7 @@ amziai:
 - t-002
   global_id: t-66257
   teiginys: 'Vietinės rinktinės daliniai Vilnijoje susidūrė su ginkluotais lenkų Armijos Krajovos daliniais.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Armija Krajova|Armija Krajova]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Vilnija; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 
@@ -44,6 +50,7 @@ amziai:
 - t-003
   global_id: t-66258
   teiginys: 'Vietinės rinktinės kariai neketino kariauti Vokietijos pusėje ir ėmė skirstytis su ginklais bei amunicija.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_place: Vokietija'
   pagrindžia:
     - c-002
 
@@ -51,6 +58,7 @@ amziai:
 - t-004
   global_id: t-66259
   teiginys: 'Vokiečių valdžia pritarė lietuvių siūlymui sukurti Vietinę rinktinę, vadovaujamą lietuvių karininkų ir veikiančią tik Lietuvoje.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -58,6 +66,8 @@ amziai:
 - t-005
   global_id: t-66260
   teiginys: 'Vokiečiams pamėginus priversti Vietinės rinktinės karius vykti į Rytų frontą, šie ginkluoti skirstėsi namo.'
+  sudarymo_pagrindimas: 'Sakinys paremtas citata, bet reikėjo sklandesnės formos be OCR fragmentų.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-004
 
@@ -65,6 +75,11 @@ amziai:
 - t-006
   global_id: t-183193
   teiginys: 'Vokiečiai pareikalavo, kad Vietinė rinktinė taptų jiems pavaldi.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Perrašyta išplečiant neaiškią nuorodą į konkretų objektą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_place: Vokietija'
   pagrindžia:
     - c-006
 
@@ -162,15 +177,3 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-006
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Armija Krajova]]
-- [[objektai/daiktai/Ginklai]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/daiktai/Namas]]
-- [[objektai/ivykiai/Vietinės rinktinės ir Armijos Krajovos susidūrimai Vilniaus krašte|Vietinės rinktinės ir Armijos Krajovos susidūrimai Vilniaus krašte (kraštas)]]
-- [[objektai/ivykiai/Vietinės rinktinės organizavimas ir nacių represinis jos likvidavimas (1944 m. pradžia)]]

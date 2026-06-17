@@ -20,6 +20,8 @@ Kubiliaus vadovaujama kolona (Ukmergės atskirasis batalionas, pusė husarų esk
 - t-001
   global_id: t-40157
   teiginys: 'J. Kubiliaus vadovaujamas Ukmergės batalionas išmušė bolševikus iš apkasų ir užėmė keletą kaimų.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie J. Kubiliaus vadovaujamą dalinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Ukmergės batalionas|Ukmergės batalionas]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_place: Ukmergė'
   pagrindžia:
     - c-001
 
@@ -42,9 +44,3 @@ Kubiliaus vadovaujama kolona (Ukmergės atskirasis batalionas, pusė husarų esk
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Artilerija]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/grupes/Ukmergės batalionas]]

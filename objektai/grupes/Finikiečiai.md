@@ -20,9 +20,12 @@ Finikiečiai pateikiami kaip viena iš tautų, su kuriomis lietuviai turėjo ry�
 - t-001
   global_id: t-07833
   teiginys: 'Finikiečiai buvo viena tautų, su kuriomis gilioje senovėje Lietuvos tauta turėjo pažinčių ir prekiavo.'
+  sudarymo_pagrindimas: 'Teiginį galima sukonkretinti pagal citatoje minimą prekybą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Prekėjai|Prekėjai]]; mentioned_object: [[objektai/zodynas/Pažinės|Pažinės]]; mentioned_object: [[objektai/zodynas/Įšleitė|Įšleitė]]; mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/grupes/Egiptiečiai.md#claim-t-07832|Egiptiečiai]]: Egiptiečiai buvo viena tautų, su kuriomis gilioje senovėje Lietuvos tauta turėjo pažinčių ir prekiavo.
+- susijęs iš [[objektai/grupes/Egiptiečiai.md#claim-t-07832|Egiptiečiai]]: Egiptiečiai buvo viena tautų, su kuriomis gilioje senovėje Lietuvos tauta turėjo pažinčių ir prekiavo.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -39,7 +42,4 @@ Finikiečiai pateikiami kaip viena iš tautų, su kuriomis lietuviai turėjo ry�
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Pažinės|pažinės]]
-- [[objektai/zodynas/Įšleitė|įšleitė]]
-- [[objektai/grupes/Egiptiečiai]]
+- [[objektai/grupes/Egiptiečiai]] prekiavo_su Finikiečiai

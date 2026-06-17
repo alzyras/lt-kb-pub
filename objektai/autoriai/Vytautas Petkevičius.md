@@ -3,10 +3,6 @@ tipas: autorius
 pavadinimas: 'Vytautas Petkevičius'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-aliases:
-  - 'objektai/asmenys/Vytautas Petkevičius'
-variantai:
-  - 'Vytautas Petkevičius'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -25,6 +21,9 @@ Kadangi iniciatyvinę grupę sudarė visoje šalyje žinomi inteligentai ir jų 
 - t-001
   global_id: t-63359
   teiginys: 'Vytautas Petkevičius buvo tarp garsių visuomenės veikėjų, parėmusių LPS tautinio atgimimo idėjas.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Sakinys aiškus, gramatiškas ir paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/tautinis atgimimas|tautinis atgimimas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -50,7 +49,3 @@ Kadangi iniciatyvinę grupę sudarė visoje šalyje žinomi inteligentai ir jų 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/tautinis atgimimas]]

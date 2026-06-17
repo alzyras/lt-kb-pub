@@ -28,6 +28,11 @@ periodo_grupes:
 - t-001
   global_id: t-19223
   teiginys: 'Silvestras Valiūnas buvo vienas Žemaitijoje gyvenusių inteligentų, pradėjusių rašyti poeziją žemaitiškai arba lietuviškai.'
+  sudarymo_pagrindimas: 'Teiginys pataisytas, kad būtų tiesiogiai apie asmenį ir gramatiškai savarankiškas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/autoriai/Ksaveras Bogušas|Ksaveras Bogušas]]; mentioned_place: Lietuva; mentioned_place: Varšuva'
+  temporaliniai_duomenys: 'įvykio data: 1818 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys pataisytas, kad būtų tiesiogiai apie asmenį ir gramatiškai savarankiškas.'
   pagrindžia:
     - c-001
 
@@ -35,9 +40,19 @@ periodo_grupes:
 - t-002
   global_id: t-183566
   teiginys: 'Silvestras Valiūnas buvo tarp Žemaitijoje gyvenusių inteligentų, kuriuos Ksavero Bogušo mintis paskatino rašyti poeziją žemaitiškai arba lietuviškai.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nusako Silvestro Valiūno ryšį su citatoje aprašyta aplinka.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/autoriai/Ksaveras Bogušas|Ksaveras Bogušas]]; mentioned_place: Lietuva; mentioned_place: Varšuva'
+  temporaliniai_duomenys: 'įvykio data: 1818 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako Silvestro Valiūno ryšį su citatoje aprašyta aplinka.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/grupes/Mokslo bičiulių draugija.md#claim-t-45131|Mokslo bičiulių draugija]]: 1808 m. Varšuvoje Mokslo bičiulių draugija išleido Ksavero Bogušo knygelę „Apie lietuvių tautos ir kalbos kilmę“.
+- susijęs iš [[objektai/grupes/Mokslo bičiulių draugija.md#claim-t-45132|Mokslo bičiulių draugija]]: 1808 m. Varšuvoje Mokslo bičiulių draugija išleido Ksavero Bogušo knygelę „Apie lietuvių tautos ir kalbos kilmę“.
+- susijęs iš [[objektai/grupes/Mokslo bičiulių draugija.md#claim-t-45133|Mokslo bičiulių draugija]]: Mokslo bičiulių draugijos išleistoje Ksavero Bogušo knygelėje teigta, kad lietuvių kalba tinkama aukštajai kultūrai.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -60,9 +75,3 @@ periodo_grupes:
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/kunigas]]
-- [[objektai/grupes/Mokslo bičiulių draugija]]

@@ -27,6 +27,11 @@ Antrame plane matyti Trakų salos pilis.
 - t-001
   global_id: t-38656
   teiginys: 'Trakų salos pilis buvo baigta statyti 1409 m.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatinis ir paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_place: Salos; mentioned_place: Trakai'
+  temporaliniai_duomenys: 'įvykio data: 1409 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatinis ir paremtas citata.'
   pagrindžia:
     - c-001
 

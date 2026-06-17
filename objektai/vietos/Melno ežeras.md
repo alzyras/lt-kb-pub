@@ -32,6 +32,7 @@ Tai reiškė projektą naujos sienos, kuri už dvejų metų buvo priimta prie Me
 - t-001
   global_id: t-68690
   teiginys: 'Prie Melno ežero buvo priimtas naujos sienos projektas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/posakiai/Taikos labui|Taikos labui]]; mentioned_place: Veliuona'
   pagrindžia:
     - c-002
 
@@ -39,6 +40,11 @@ Tai reiškė projektą naujos sienos, kuri už dvejų metų buvo priimta prie Me
 - t-002
   global_id: t-68691
   teiginys: '1422 m. rugsėjo 27 d. taika buvo sudaryta prie Melno ežero netoli Vislos.'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo fragmentas be veiksnio ir tarinio.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Prūsija; mentioned_place: Visla'
+  temporaliniai_duomenys: 'įvykio data: 1422 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys buvo fragmentas be veiksnio ir tarinio.'
   pagrindžia:
     - c-001
 

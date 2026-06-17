@@ -45,6 +45,11 @@ Nenurodyta
 - t-001
   global_id: t-66632
   teiginys: 'Apie 1292 m. liepos 25 d. Ragainės komtūras Konradas Štangė su broliais ir ginklanešiais patraukė link Junigedos pilies.'
+  sudarymo_pagrindimas: 'Teiginys pilnas, aiškus ir paremtas citatos informacija.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)|Jokūbas (vėliau Urbonas IV)]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/asmenys/Konradas Štangė|Konradas Štangė]]; mentioned_place: Junigeda; mentioned_place: Ragainė'
+  temporaliniai_duomenys: 'įvykio data: 1292 m.; įvykio data: apie 1292 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
+  temporalinis_llm_pakomentavimas: 'Teiginys pilnas, aiškus ir paremtas citatos informacija.'
   pagrindžia:
     - c-002
 
@@ -52,6 +57,8 @@ Nenurodyta
 - t-002
   global_id: t-66633
   teiginys: 'Konradas Štangė padrąsino savo būrį ir prasiveržė pro lietuvių kariuomenę prie Junigedos.'
+  sudarymo_pagrindimas: 'Citata palaiko faktą apie padrąsinimą ir prasiveržimą; nereikia kartoti ilgos kalbos.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/asmenys/Konradas Štangė|Konradas Štangė]]; mentioned_place: Junigeda'
   pagrindžia:
     - c-001
 
@@ -91,15 +98,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)]]
-- [[objektai/asmenys/Konradas]]
-- [[objektai/daiktai/Kryžius]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/daiktai/Namas]]
-- [[objektai/zodynas/ginklanešiai]]
-- [[objektai/asmenys/Konradas Štangė]]
-- [[objektai/zodynas/komtūras]]
-- [[objektai/zodynas/papilys]]

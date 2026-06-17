@@ -5,6 +5,9 @@ saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1319 m.'
+  - '1326 m.'
+  - '1340 m.'
+  - '1350 m.'
   - '1351 m.'
 date_start: '1319'
 date_end: '1351'
@@ -15,6 +18,7 @@ tags:
   - miestas
   - ordinas
   - pilis
+  - vieta
 amziai:
   - 'XIV'
 ---
@@ -30,6 +34,11 @@ Dusburgietis teigia, kad be to, tas pats komtūras pastatė miestą prie Barten�
 - t-001
   global_id: t-58558
   teiginys: 'Ilienburgas buvo vėlesnis Gilgenburgas, dabartinis Dąbrównas, sąsmaukoje tarp dviejų ežerų senoje Sasnos žemėje.'
+  sudarymo_pagrindimas: 'Citata palaiko tapatinimą ir geografinį apibūdinimą.'
+  susije_objektai: 'mentioned_place: Gilgenburgas'
+  temporaliniai_duomenys: 'įvykio data: 1319 m.; įvykio data: 1326 m.; įvykio data: 1340 m.; įvykio data: 1350 m.; įvykio data: 1351 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko tapatinimą ir geografinį apibūdinimą.'
   pagrindžia:
     - c-001
 
@@ -37,9 +46,16 @@ Dusburgietis teigia, kad be to, tas pats komtūras pastatė miestą prie Barten�
 - t-002
   global_id: t-58559
   teiginys: 'Kristburgo komtūras Luterbergas pastatė miestą prie Ilienburgo pilies.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir citata tiesiogiai patvirtina miesto pastatymą prie Ilienburgo pilies.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Luterbergas|Luterbergas]]; mentioned_place: Baiga; mentioned_place: Barta; mentioned_place: Bartenšteinas; mentioned_place: Kristburgas; mentioned_place: Lunenburgas'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/asmenys/Ditrichas iš Altenburgo.md#claim-t-59949|Ditrichas iš Altenburgo]]: Ditrichas iš Altenburgo, Baigos komtūras, gavęs didžiojo magistro leidimą pastatė Lunenburgo pilį Bartos žemėje.
+- susijęs iš [[objektai/asmenys/Luterbergas.md#claim-t-60168|Luterbergas]]: Luterbergas, Braunšveigo kunigaikščio sūnus ir Kristburgo komtūras, pastatė miestą prie Ilienburgo pilies.
+- susijęs iš [[objektai/ivykiai/Lunenburgo pilies ir dviejų miestų pastatymas.md#claim-t-183941|Lunenburgo pilies ir dviejų miestų pastatymas (pilis)]]: Baigos komtūras Ditrichas iš Altenburgo pastatė Lunenburgo pilį Bartos žemėje, Gubros ir Sainos upių santakoje.
+- susijęs iš [[objektai/ivykiai/Lunenburgo pilies ir dviejų miestų pastatymas.md#claim-t-62387|Lunenburgo pilies ir dviejų miestų pastatymas (pilis)]]: Baigos komtūras Ditrichas iš Altenburgo pastatė Lunenburgo pilį Bartos žemėje, Gubros ir Sainos upių santakoje.
+- susijęs iš Lunenburgas: Baigos komtūras Ditrichas iš Altenburgo pastatė Lunenburgo pilį Bartos žemėje, Gubros ir Sainos santakoje.
+- susijęs iš Saina: Ditrichas iš Altenburgo Lunenburgo pilį pastatė Bartos žemėje, Gubros ir Sainos santakoje.
 ## Reikšmingi paminėjimai
 
 - c-001

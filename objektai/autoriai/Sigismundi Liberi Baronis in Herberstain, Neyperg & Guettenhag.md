@@ -28,6 +28,7 @@ p. 83, „LEMTINGA AROGANCIJA“, Rerum Moscoviticarum Commentarii Sigismundi Li
 - t-001
   global_id: t-39871
   teiginys: 'Sigismundo Herbersteino „Rerum Moscoviticarum Commentarii“ cituojamas leidinio skyriuje „Lemtinga arogancija“.'
+  sudarymo_pagrindimas: 'Citata yra bibliografinė nuoroda, tinkama tik šaltinio panaudojimo faktui.'
   pagrindžia:
     - c-001
 

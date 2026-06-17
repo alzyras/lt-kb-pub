@@ -22,6 +22,8 @@ Trubeckojaus kariuomenė (apie 15000 karių) užėmė Mstislavlį (liepos 22 d. 
 - t-001
   global_id: t-39979
   teiginys: 'A. N. Trubeckojaus kariuomenė, turėjusi apie 15000 karių, užėmė Mstislavlį ir žygiavo Lietuvos gilumon Minsko link.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie A. N. Trubeckojaus kariuomenės veiksmus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/V. B. Seremetjevas|V. B. Seremetjevas]]; mentioned_place: Gomelis; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Minskas; mentioned_place: Mstislavlis; mentioned_place: Polockas; mentioned_place: Švedija'
   pagrindžia:
     - c-001
 
@@ -56,10 +58,3 @@ Trubeckojaus kariuomenė (apie 15000 karių) užėmė Mstislavlį (liepos 22 d. 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/karvedys]]
-
-### Susiję objektai
-- [[objektai/grupes/Rusai]]

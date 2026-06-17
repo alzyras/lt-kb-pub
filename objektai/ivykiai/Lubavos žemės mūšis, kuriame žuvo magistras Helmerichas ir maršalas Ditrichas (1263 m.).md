@@ -44,6 +44,9 @@ Nenurodyta
 - t-001
   global_id: t-62869
   teiginys: 'Dusburgiečio pasakojime Lubavos mūšio vietoje gyvenęs atsiskyrėlis naktimis matydavo degančias žvakes, liudijusias žuvusiųjų kankinystę.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Tai legendinis autoriaus pasakojimas, todėl reikalinga šaltinio atribucija ir pašalinta OCR pastaba.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Lubava; mentioned_place: Prūsija'
   pagrindžia:
     - c-003
 
@@ -51,6 +54,9 @@ Nenurodyta
 - t-002
   global_id: t-62870
   teiginys: 'Lubavos žemės mūšyje prūsai nukovė magistrą Helmerichą, maršalą Ditrichą, keturiasdešimt brolių ir išžudė krikščionių kariuomenę.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, bet citata aiškiai remia mūšio rezultatą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Herkus Mantas|Herkus Mantas]]; mentioned_place: Kulmas; mentioned_place: Lubava; mentioned_place: Prūsai; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
     - c-002
@@ -122,11 +128,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Herkus Mantas]]
-- [[objektai/grupes/Notangai]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/maršalas]]
-- [[objektai/asmenys/Ditrichas (Prūsijos žemės maršalas)]]

@@ -17,7 +17,7 @@ amziai:
 
 ## Santrauka
 
-Vadystė šiame kontekste atitinka chiefdom stadiją. Netimero valdžios paveldimumas šaltinyje laikomas požymiu, kad Lietuva buvo pasiekusi bent vadystės stadiją. Netimero valdžios paveldimumo principas rodytų, kad Lietuva buvo pasiekusi bent vadystės, arba chiefdom'o, stadiją.
+Vadystė pateikiama kaip lietuviškas `chiefdom` atitikmuo ir žymi priešvalstybinės politinės raidos stadiją.
 
 ## Žodis ir formos
 
@@ -43,6 +43,8 @@ Vartojama ankstyvosios Lietuvos politinės organizacijos aptarime.
 - t-001
   global_id: t-13543
   teiginys: 'Vadystė šiame kontekste atitinka chiefdom stadiją.'
+  sudarymo_pagrindimas: 'Reikia pašalinti žymėjimo ženklus ir suformuluoti sklandų lietuvišką sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Brunonas|Brunonas]]; mentioned_person: [[objektai/asmenys/Brunonas Bonifacijus|Brunonas Bonifacijus]]; mentioned_person: [[objektai/asmenys/Netimeras|Netimeras]]; mentioned_place: Lietuva; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
 
@@ -50,6 +52,7 @@ Vartojama ankstyvosios Lietuvos politinės organizacijos aptarime.
 - t-002
   global_id: t-13544
   teiginys: 'Netimero valdžios paveldimumas šaltinyje laikomas požymiu, kad Lietuva buvo pasiekusi bent vadystės stadiją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Brunonas|Brunonas]]; mentioned_person: [[objektai/asmenys/Brunonas Bonifacijus|Brunonas Bonifacijus]]; mentioned_person: [[objektai/asmenys/Netimeras|Netimeras]]; mentioned_place: Lietuva; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
 
@@ -57,9 +60,12 @@ Vartojama ankstyvosios Lietuvos politinės organizacijos aptarime.
 - t-003
   global_id: t-26668
   teiginys: 'Netimero valdžios paveldimumo principas rodytų, kad Lietuva buvo pasiekusi bent vadystės, arba chiefdom''o, stadiją.'
+  sudarymo_pagrindimas: 'Sakinys padarytas sklandesnis ir aiškesnis, nekeičiant citatos paremto fakto.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Vidurio Europa|Vidurio Europa]]; mentioned_person: [[objektai/asmenys/Netimeras|Netimeras]]; mentioned_place: Europa; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/asmenys/Netimeras.md#claim-t-183561|Netimeras]]: Brunonas Bonifacijus Lietuvoje apkrikštijo lietuvių vadą Netimerą, bet vėliau žuvo nuo Netimero brolio rankos.
+- susijęs iš [[objektai/asmenys/Netimeras.md#claim-t-19171|Netimeras]]: Brunonas Bonifacijus Lietuvoje apkrikštijo lietuvių vadą Netimerą, o vėliau žuvo nuo Netimero brolio rankos.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -93,13 +99,3 @@ Vartojama ankstyvosios Lietuvos politinės organizacijos aptarime.
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/istorinė-sąvoka]]
-
-### Susiję objektai
-- [[objektai/asmenys/Brunonas]]
-- [[objektai/asmenys/Brunonas Bonifacijus]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Netimeras]]

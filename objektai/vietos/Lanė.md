@@ -3,16 +3,22 @@ tipas: vieta
 pavadinimas: 'Lanė'
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
+datos:
+  - '600 m.'
+date_start: '600'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
+amziai:
+  - 'VI'
 ---
 # Lanė
 
 ## Santrauka
 
-Lanė prasideda apie 15 km į šiaurės rytus nuo Klecko. Ties Klecku pelkėtas Lanės slėnis siekia apie 600 m pločio. Lanė teka pro Klecką iš vakarų pusės.
+Lanė prasideda apie 15 km į šiaurės rytus nuo Klecko. Lanė teka pro Klecką iš vakarų pusės.
 
 ## Teiginiai
 
@@ -20,6 +26,11 @@ Lanė prasideda apie 15 km į šiaurės rytus nuo Klecko. Ties Klecku pelkėtas 
 - t-001
   global_id: t-187248
   teiginys: 'Lanė prasideda apie 15 km į šiaurės rytus nuo Klecko.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas citatos geografine informacija.'
+  temporaliniai_duomenys: 'įvykio data: 600 m'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir paremtas citatos geografine informacija.'
   pagrindžia:
     - c-001
 
@@ -27,6 +38,11 @@ Lanė prasideda apie 15 km į šiaurės rytus nuo Klecko. Ties Klecku pelkėtas 
 - t-002
   global_id: t-187249
   teiginys: 'Ties Klecku pelkėtas Lanės slėnis siekia apie 600 m pločio.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys aiškiai perteikia citatoje nurodytą Lanės slėnio plotį ties Klecku. Papildomos geografinės informacijos nepridėta.'
+  temporaliniai_duomenys: 'įvykio data: 600 m; įvykio data: apie 600 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai perteikia citatoje nurodytą Lanės slėnio plotį ties Klecku. Papildomos geografinės informacijos nepridėta.'
   pagrindžia:
     - c-001
 
@@ -34,9 +50,15 @@ Lanė prasideda apie 15 km į šiaurės rytus nuo Klecko. Ties Klecku pelkėtas 
 - t-003
   global_id: t-187250
   teiginys: 'Lanė teka pro Klecką iš vakarų pusės.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Lanės tekėjimo kryptį ties Klecku. Citata tiesiogiai nurodo šią vietos ypatybę.'
+  temporaliniai_duomenys: 'įvykio data: 600 m'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie Lanės tekėjimo kryptį ties Klecku. Citata tiesiogiai nurodo šią vietos ypatybę.'
   pagrindžia:
     - c-001
-
+- susijęs iš Cepra: Cepra įteka į Lanės upę iš kairės apie 10 km į pietryčius nuo Klecko.
+- susijęs iš Cepra: Cepra teka maždaug už 8 km į rytus nuo Klecko.
 ## Reikšmingi paminėjimai
 
 - c-001

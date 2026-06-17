@@ -3,6 +3,10 @@ tipas: asmuo
 pavadinimas: 'Henrikas iš Lichtenšteino'
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+datos:
+  - '1246 m.'
+date_start: '1246'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -10,6 +14,11 @@ tags:
   - karas
   - kunigaikštis
   - mūšis
+  - valdovas
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'viduramžiai'
 ---
 # Henrikas iš Lichtenšteino
 
@@ -23,6 +32,12 @@ Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl
 - t-001
   global_id: t-60025
   teiginys: 'Henrikas iš Lichtenšteino 1246 m. atvyko į Prūsiją su daugeliu maldininkų ir dalyvavo žygyje į Pomeraniją.'
+  sudarymo_pagrindimas: 'Citata pagrindžia Henriko atvykimą ir dalyvavimą žygyje.'
+  susije_objektai: 'location: Austrija; location: Pomeranija; location: Prūsija; location: Vokietija; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/maldininkai|maldininkai]]; mentioned_object: [[objektai/zodynas/stalininkas|stalininkas]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Druzigeris|Druzigeris]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Austrija; mentioned_place: Pomeranija; mentioned_place: Prūsija; mentioned_place: Vokietija'
+  semantiniai_rysiai: '[[objektai/asmenys/Henrikas iš Lichtenšteino|Henrikas iš Lichtenšteino]] keliavo į Austrija; [[objektai/asmenys/Henrikas iš Lichtenšteino|Henrikas iš Lichtenšteino]] keliavo į Pomeranija; [[objektai/asmenys/Henrikas iš Lichtenšteino|Henrikas iš Lichtenšteino]] keliavo į Prūsija; [[objektai/asmenys/Henrikas iš Lichtenšteino|Henrikas iš Lichtenšteino]] keliavo į Vokietija'
+  temporaliniai_duomenys: 'kelionės data: 1246 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Henrikas iš Lichtenšteino keliavo į Austrija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Henrikas iš Lichtenšteino keliavo į Pomeranija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Henrikas iš Lichtenšteino keliavo į Prūsija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Henrikas iš Lichtenšteino keliavo į Vokietija“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia Henriko atvykimą ir dalyvavimą žygyje.'
   pagrindžia:
     - c-003
 
@@ -30,6 +45,8 @@ Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl
 - t-002
   global_id: t-60026
   teiginys: 'Sventopelkas paprašė atsiųsti Henriką iš Lichtenšteino ir jam išdėstė nusiskundimus broliais dėl įkaitu laikomo sūnaus.'
+  sudarymo_pagrindimas: 'Citata pagrindžia Henriko dalyvavimą Sventopelko derybose.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]'
   pagrindžia:
     - c-001
 
@@ -37,6 +54,8 @@ Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl
 - t-003
   global_id: t-60027
   teiginys: 'Henrikas iš Lichtenšteino užgriuvo priešus ir susigrąžino jų atimtą grobį.'
+  sudarymo_pagrindimas: 'Teiginys gramatiškai perteikia citatoje aprašytą veiksmą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]'
   pagrindžia:
     - c-002
 
@@ -44,9 +63,20 @@ Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl
 - t-004
   global_id: t-184081
   teiginys: 'Henrikas iš Lichtenšteino užgriuvo Sventopelko karius ir susigrąžino jų atimtą grobį.'
+  teiginio_tipas: 'saltinio_teiginys'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata leidžia patikslinti priešininkus ir pašalinti kontekstinį fragmentą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/gurguolė|gurguolė]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]'
   pagrindžia:
     - c-004
-
+- susijęs iš [[objektai/asmenys/Druzigeris.md#claim-t-60010|Druzigeris]]: Magistro siųstas Druzigeris pabėgo, kai pamatė daugybę nukautųjų prie grobio gurguolės.
+- susijęs iš [[objektai/asmenys/Kazimieras (Kujavijos kunigaikštis).md#claim-t-63803|Kazimieras (Kujavijos kunigaikštis)]]: Kunigaikštis Kazimieras nusprendė kviesti Henriką iš Lichtenšteino į pagalbą, kai lenkai išsigando Sventopelko raitelių.
+- susijęs iš [[objektai/asmenys/Martynas iš Krušvicos.md#claim-t-60384|Martynas iš Krušvicos]]: Martynas iš Krušvicos buvo riteris ir vėliavininkas, kuris kartu su kunigaikščiu Kazimieru nepabėgo pamatęs Sventopelko raitelius.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179039|Kryžiuočių ordinas]]: 1246 m. mūšyje Sventopelkas įsakė tūkstančiui rinktinių karių pulti Kryžiuočių ordino brolius pėsčiomis ir ietimis galabyti jų arklius.
+- susijęs iš [[objektai/ivykiai/Brolių ir kryžininkų žygis į Pomeraniją bei didysis mūšis su Sventopelku (1246 m.).md#claim-t-66511|Brolių ir kryžininkų žygis į Pomeraniją bei didysis mūšis su Sventopelku (1246 m.)]]: 1246 m. Sventopelkas su didesne kariuomene persekiojo atsitraukiančius brolius, bet mūšyje prarado 1500 vyrų.
+- susijęs iš [[objektai/posakiai/ne teisingumo ieškoki, bet pasigailėjimo.md#claim-t-89597|ne teisingumo ieškoki, bet pasigailėjimo]]: Henrikas iš Lichtenšteino Sventopelkui pareiškė, kad šis turįs ieškoti ne teisingumo, bet pasigailėjimo.
+- susijęs iš [[objektai/posakiai/ne teisingumo ieškoki, bet pasigailėjimo.md#claim-t-89598|ne teisingumo ieškoki, bet pasigailėjimo]]: Sventopelkui prašant grąžinti įkaitu duotą sūnų, Henrikas iš Lichtenšteino atsakė: „ne teisingumo ieškoki, bet pasigailėjimo“.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -124,15 +154,7 @@ Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl
     - t-004
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Krikščionys]]
-- [[objektai/daiktai/Kryžius]]
-- [[objektai/zodynas/gurguolė]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/stalininkas]]
-- [[objektai/ivykiai/Brolių ir kryžininkų žygis į Pomeraniją bei didysis mūšis su Sventopelku (1246 m.)]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/zodynas/maldininkai]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/posakiai/ne teisingumo ieškoki, bet pasigailėjimo]]
+- Henrikas iš Lichtenšteino keliavo_i [[objektai/vietos/Austrija]]
+- Henrikas iš Lichtenšteino keliavo_i [[objektai/vietos/Pomeranija]]
+- Henrikas iš Lichtenšteino keliavo_i [[objektai/vietos/Prūsija]]
+- Henrikas iš Lichtenšteino keliavo_i [[objektai/vietos/Vokietija]]

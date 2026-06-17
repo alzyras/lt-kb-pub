@@ -21,7 +21,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Arvydas Anušauskas kartu su Karoliu Zikaru ir Loreta Uzdraite buvo teksto apie Lietuvos partizanų mūšius bendraautoris. Arvydas Anušauskas yra teksto „Žymiausi Lietuvos partizanų mūšiai prieš sovietų pajėgas“ autorius. Arvydas Anušauskas yra Lietuvos naujausių laikų istorijos specialistas ir pripažintas rezistencinių kovų istorijos žinovas.
+Arvydas Anušauskas šiame leidinyje minimas kaip straipsnio apie žymiausius Lietuvos partizanų susirėmimus autorius. Autorių sąraše jis apibūdinamas kaip Lietuvos naujausių laikų istorikas ir rezistencinių kovų tyrėjas.
 
 ## Darbai
 
@@ -34,6 +34,7 @@ Arvydas Anušauskas kartu su Karoliu Zikaru ir Loreta Uzdraite buvo teksto apie 
 - t-001
   global_id: t-78742
   teiginys: 'Arvydas Anušauskas kartu su Karoliu Zikaru ir Loreta Uzdraite buvo teksto apie Lietuvos partizanų mūšius bendraautoris.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_person: [[objektai/autoriai/Loreta Uzdraitė|Loreta Uzdraitė]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 
@@ -41,6 +42,8 @@ Arvydas Anušauskas kartu su Karoliu Zikaru ir Loreta Uzdraite buvo teksto apie 
 - t-002
   global_id: t-78743
   teiginys: 'Arvydas Anušauskas yra teksto „Žymiausi Lietuvos partizanų mūšiai prieš sovietų pajėgas“ autorius.'
+  sudarymo_pagrindimas: 'Citata pateikia autoriaus vardą prie teksto pavadinimo.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_person: [[objektai/autoriai/Karolis Zikaras|Karolis Zikaras]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -48,6 +51,11 @@ Arvydas Anušauskas kartu su Karoliu Zikaru ir Loreta Uzdraite buvo teksto apie 
 - t-003
   global_id: t-78744
   teiginys: 'Arvydas Anušauskas yra Lietuvos naujausių laikų istorijos specialistas ir pripažintas rezistencinių kovų istorijos žinovas.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie autoriaus specializaciją.'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1963 m.; įvykio data: 1984 m.; įvykio data: 1989 m.; įvykio data: 1998 m.; įvykio data: 2000 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie autoriaus specializaciją.'
   pagrindžia:
     - c-001
 
@@ -55,6 +63,8 @@ Arvydas Anušauskas kartu su Karoliu Zikaru ir Loreta Uzdraite buvo teksto apie 
 - t-004
   global_id: t-78745
   teiginys: 'Arvydas Anušauskas kartu su Karoliu Zikaru ir Loreta Uzdraite parengė tekstą „Žymiausi Lietuvos partizanų mūšiai prieš sovietų pajėgas“.'
+  sudarymo_pagrindimas: 'Sąrašo įrašas perrašytas į pilną faktinį sakinį apie autorių.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_person: [[objektai/autoriai/Loreta Uzdraitė|Loreta Uzdraitė]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 
@@ -62,9 +72,16 @@ Arvydas Anušauskas kartu su Karoliu Zikaru ir Loreta Uzdraite buvo teksto apie 
 - t-005
   global_id: t-78746
   teiginys: 'Arvydas Anušauskas gimė 1963 m. ir 1989 m. baigė Vilniaus universitetą.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas biografinis sakinys, paremtas citata.'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1963 m.; įvykio data: 1984 m.; įvykio data: 1989 m.; įvykio data: 1998 m.; įvykio data: 2000 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas biografinis sakinys, paremtas citata.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/autoriai/Dalius Žygelis.md#claim-t-40613|Dalius Žygelis]]: Dalius Žygelis buvo kelių tekstų apie 1945–1949 m. Lietuvos partizanų kautynes bendraautoris.
+- susijęs iš [[objektai/autoriai/Loreta Uzdraitė.md#claim-t-78782|Loreta Uzdraitė]]: Loreta Uzdraitė, Arvydas Anušauskas ir Karolis Zikaras yra teksto „Žymiausi Lietuvos partizanų mūšiai prieš sovietų pajėgas“ autoriai.
+- susijęs iš [[objektai/autoriai/Ričardas Čekutis.md#claim-t-40672|Ričardas Čekutis]]: Ričardas Čekutis kartu su Daliumi Žygeliu parašė tekstus apie 1945 m. Kiauneliškių, Kalniškės ir Merkinės kautynes.
 ## Reikšmingi paminėjimai
 
 - c-001

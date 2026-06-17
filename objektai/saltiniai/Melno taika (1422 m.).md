@@ -9,13 +9,13 @@ date_start: '1429'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XV'
 tags:
   - ežeras
   - karas
   - kraštas
   - ordinas
+amziai:
+  - 'XV'
 ---
 # Melno taika (1422 m.)
 
@@ -24,10 +24,16 @@ tags:
 Pagaliau magistras paprašė taikos; ji buvo padaryta netoli Melno ežero, kariuomenės stovykloje, 1422 m. rugsėjo 27 d. Šia taika buvo galutinai išspręstas ginčijamų teritorijų klausimas. Melno taika buvo baigtos ilgai ėjusios Lietuvos kovos su vokiečių ordinu.
 
 ## Teiginiai
+
 <a id="claim-t-75504"></a>
 - t-001
   global_id: t-75504
   teiginys: 'Po Melno taikos santykiai su Lenkija tapo svarbiausia politine Lietuvos problema, todėl Vytauto vainikavimo projektas įgijo tarptautinę reikšmę.'
+  sudarymo_pagrindimas: 'Reikia pašalinti puslapio antraštes ir OCR triukšmą, išlaikant citatos faktus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/hegemonija|hegemonija]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Bizantija; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Luckas; mentioned_place: Maskva; mentioned_place: Pskovas; mentioned_place: Tverė; mentioned_place: Vengrija'
+  temporaliniai_duomenys: 'įvykio data: 1429 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia pašalinti puslapio antraštes ir OCR triukšmą, išlaikant citatos faktus.'
   pagrindžia:
     - c-001
 
@@ -35,10 +41,14 @@ Pagaliau magistras paprašė taikos; ji buvo padaryta netoli Melno ežero, kariu
 - t-002
   global_id: t-75505
   teiginys: 'Po Melno taikos santykiai su Lenkija tapo svarbiausia politine problema, todėl Vytauto vainikavimo projektas įgijo tarptautinę reikšmę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/hegemonija|hegemonija]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Bizantija; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Luckas; mentioned_place: Maskva; mentioned_place: Pskovas; mentioned_place: Tverė; mentioned_place: Vengrija'
+  temporaliniai_duomenys: 'įvykio data: 1429 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
-## Bibliografiniai įrodymai
+## Reikšmingi paminėjimai
+
 - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |

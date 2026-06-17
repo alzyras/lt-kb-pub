@@ -22,6 +22,8 @@ Dusburgietis teigia, kad apie 6 brolių ir daugybės krikščionių žūtį Vais
 - t-001
   global_id: t-58484
   teiginys: 'Vaistotpilis buvo sena prūsų pilis, kurioje įsitvirtino Ordinas.'
+  sudarymo_pagrindimas: 'Citata palaiko aiškų faktą apie Vaistotpilį, pašalinus OCR ir bibliografinį triukšmą.'
+  susije_objektai: 'mentioned_place: Prūsai'
   pagrindžia:
     - c-001
 
@@ -29,6 +31,8 @@ Dusburgietis teigia, kad apie 6 brolių ir daugybės krikščionių žūtį Vais
 - t-002
   global_id: t-58485
   teiginys: 'Vaistotpilis buvo Bartos žemėje, Gubros pakrantėje stovėjusi brolių pilis.'
+  sudarymo_pagrindimas: 'Citata pagrindžia pilies vietą ir priklausymą broliams, o pradinis teiginys sulipdytas iš antraštės ir teksto.'
+  susije_objektai: 'mentioned_place: Barta; mentioned_place: Prūsai; mentioned_place: Viena'
   pagrindžia:
     - c-003
 
@@ -36,9 +40,15 @@ Dusburgietis teigia, kad apie 6 brolių ir daugybės krikščionių žūtį Vais
 - t-003
   global_id: t-58486
   teiginys: 'Prūsams apsupus Vaistotpilio pilį, broliai ją gynė nuo aušros iki sutemų, o vėliau sudegino ir slapta pasitraukė.'
+  sudarymo_pagrindimas: 'Citata aiškiai pagrindžia puolimą, gynybą ir pilies palikimą; pradinis teiginys netvarkingas.'
+  susije_objektai: 'mentioned_place: Prūsai'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175136|Sūduviai-jotvingiai]]: Kariuomenė iš Sūduvos ir kitų žemių prie Valevonos pilies apiplėšė aplinkinius valsčius ir pasitraukė.
+- susijęs iš [[objektai/ivykiai/Vaistotpilio kovos ir pilies apleidimas.md#claim-t-183972|Vaistotpilio kovos ir pilies apleidimas (pilis)]]: Kai prūsai pasitraukė, broliai sudegino nepakankamai sutvirtintą Vaistotpilio pilį ir slapta pasitraukė.
+- susijęs iš [[objektai/ivykiai/Vaistotpilio kovos ir pilies apleidimas.md#claim-t-89412|Vaistotpilio kovos ir pilies apleidimas (pilis)]]: Bartos žemėje, Gubros pakrantėje, broliai turėjo pilį, vadintą Vaistotpiliu.
+- susijęs iš [[objektai/ivykiai/Vaistotpilio kovos ir pilies apleidimas.md#claim-t-89413|Vaistotpilio kovos ir pilies apleidimas (pilis)]]: Vaistotpilio pilies broliai persekiojo prūsų kariuomenę, apiplėšusią du kaimus prie pilies.
+- susijęs iš [[objektai/ivykiai/Vaistotpilio kovos ir pilies apleidimas.md#claim-t-89414|Vaistotpilio kovos ir pilies apleidimas (pilis)]]: Prūsai apsupo Vaistotpilio pilį ir puolė ją nuo aušros iki sutemų, o broliai narsiai gynėsi.
 ## Reikšmingi paminėjimai
 
 - c-001

@@ -42,6 +42,12 @@ Nenurodyta
 - t-001
   global_id: t-62236
   teiginys: '1304 m. apie Kalėdas didelis potvynis sugriovė abu Paryžiaus tiltus, o kitos provincijos patyrė didelių nuostolių.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pradinis teiginys neapima svarbiausio įvykio objekto ir turi boilerplate.'
+  susije_objektai: 'mentioned_place: Paryžius'
+  temporaliniai_duomenys: 'įvykio data: 1304 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys neapima svarbiausio įvykio objekto ir turi boilerplate.'
   pagrindžia:
     - c-001
 

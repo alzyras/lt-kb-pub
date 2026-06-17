@@ -22,6 +22,9 @@ Dovanojame Vilniaus miestiečiui Maksimui Vasiljevičiui šienaujamą pievą pal
 - t-001
   global_id: t-87769
   teiginys: 'Didysis kunigaikštis Aleksandras dovanojo Vilniaus miestiečiui Maksimui Vasiljevičiui šienaujamą pievą už Vilnelės.'
+  sudarymo_pagrindimas: 'Teiginys gramatiškas ir tiesiogiai paremtas dovanojimo akto tekstu.'
+  susije_objektai: 'territory: Vilnelė; territory: Vilnius; mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/indiktas|indiktas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_person: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]; mentioned_place: Vilnelė; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Maksimas Vasiljevičius|Maksimas Vasiljevičius]] buvo valdovas Vilnelė; [[objektai/asmenys/Maksimas Vasiljevičius|Maksimas Vasiljevičius]] buvo valdovas Vilnius'
   pagrindžia:
     - c-001
 
@@ -48,9 +51,5 @@ Dovanojame Vilniaus miestiečiui Maksimui Vasiljevičiui šienaujamą pievą pal
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Malūnas]]
-- [[objektai/zodynas/indiktas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/vaivada]]
-- [[objektai/zodynas/didysis kunigaikštis]]
+- Maksimas Vasiljevičius buvo_valdovas [[objektai/vietos/Vilnelė]]
+- Maksimas Vasiljevičius buvo_valdovas [[objektai/vietos/Vilnius]]

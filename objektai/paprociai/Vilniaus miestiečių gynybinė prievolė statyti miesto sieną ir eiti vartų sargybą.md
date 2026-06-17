@@ -50,6 +50,11 @@ Nenurodyta
 - t-001
   global_id: t-87233
   teiginys: '1505 m. karalius metams atleido Vilniaus gyventojus nuo karo tarnybos su sąlyga, kad jie apjuos miestą mūro siena.'
+  sudarymo_pagrindimas: 'Teiginys yra konkretus, faktinis ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Mūro sienos ir miesto sienos|Mūro sienos ir miesto sienos]]; mentioned_object: [[objektai/daiktai/Statinės|Statinės]]; mentioned_object: [[objektai/zodynas/barbarai|barbarai]]; mentioned_place: Išganytojo (Spaso) bažnyčia Vilniuje; mentioned_place: Viena; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'valdymo laikotarpis: 1505 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „valdymo laikotarpis“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus, faktinis ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-002
 
@@ -57,6 +62,8 @@ Nenurodyta
 - t-002
   global_id: t-87234
   teiginys: 'Vilniaus miestiečiai turėjo dieną ir naktį eiti sargybą prie miesto vartų.'
+  sudarymo_pagrindimas: 'Teiginys sutrumpintas ir išvalytas nuo OCR lūžių.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus miestiečių luomas|Vilniaus miestiečių luomas]]; mentioned_person: [[objektai/asmenys/Vaitiekus (Lucko vyskupas)|Vaitiekus (Lucko vyskupas)]]; mentioned_place: Minskas; mentioned_place: Sluckas; mentioned_place: Viena; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -106,11 +113,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Vaitiekus (Lucko vyskupas)]]
-- [[objektai/zodynas/barbarai]]
-- [[objektai/daiktai/Mūro sienos ir miesto sienos]]
-- [[objektai/grupes/Vilniaus miestiečių luomas]]
-- [[objektai/asmenys/Vaitiekus Taboras|Vaitiekus Taboras (vyskupas, XV–XVI a.)]]

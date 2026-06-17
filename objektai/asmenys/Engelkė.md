@@ -21,6 +21,9 @@ Dusburgietis teigia, kad apie pagirtiną brolio Engelkės gyvenimą Kristburgo p
 - t-001
   global_id: t-60273
   teiginys: 'Engelkė gyveno Kristburgo pilyje, buvo gimęs Vestfalijoje ir garsėjo pamaldumu bei savitvarda.'
+  sudarymo_pagrindimas: 'Pradinis teiginys sujungia antraštę ir citatą, todėl reikia gramatiško sakinio.'
+  susije_objektai: 'location: Kristburgas; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_place: Kristburgas'
+  semantiniai_rysiai: '[[objektai/asmenys/Engelkė|Engelkė]] gyveno Kristburgas'
   pagrindžia:
     - c-001
 
@@ -49,5 +52,4 @@ Dusburgietis teigia, kad apie pagirtiną brolio Engelkės gyvenimą Kristburgo p
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Kūnas]]
+- Engelkė gyveno [[objektai/vietos/Kristburgas]]

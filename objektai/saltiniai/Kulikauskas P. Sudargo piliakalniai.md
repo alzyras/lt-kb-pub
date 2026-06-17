@@ -27,6 +27,11 @@ Dusburgietis teigia, kad kulikauskas P.
 - t-001
   global_id: t-61109
   teiginys: 'P. Kulikausko straipsnis „Sudargo piliakalniai“ paskelbtas leidinyje „Istorija“ Vilniuje 1975 m.'
+  sudarymo_pagrindimas: 'Citata leidžia pateikti aiškų bibliografinį faktą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Sudargas|Sudargas]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1975 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata leidžia pateikti aiškų bibliografinį faktą.'
   pagrindžia:
     - c-001
 

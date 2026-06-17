@@ -5,6 +5,7 @@ saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1539 m.'
+  - '1573 m.'
   - '1646 m.'
 date_start: '1539'
 date_end: '1646'
@@ -36,6 +37,11 @@ Religinė brolija ir Vilniaus arkikonfratrija.
 - t-001
   global_id: t-54837
   teiginys: 'Dievo Kūno arkibrolija Vilniuje buvo įsteigta 1539 m. kardinolo Komendonio atsiųsta bule.'
+  sudarymo_pagrindimas: 'Pradinis teiginys neįvardijo objekto, o citata tiesiogiai remia aiškesnį faktą apie arkibroliją.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Grigalius (vicekancleris)|Grigalius (vicekancleris)]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1539 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys neįvardijo objekto, o citata tiesiogiai remia aiškesnį faktą apie arkibroliją.'
   pagrindžia:
     - c-001
 
@@ -43,6 +49,11 @@ Religinė brolija ir Vilniaus arkikonfratrija.
 - t-002
   global_id: t-54838
   teiginys: '1539 m. kardinolas Komendoni atsiuntė bulę, kuria buvo steigiama Dievo Kūno arkibrolija.'
+  sudarymo_pagrindimas: 'Teiginys išbaigtas ir tiesiogiai atitinka citatos duomenis apie bulę.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Grigalius (vicekancleris)|Grigalius (vicekancleris)]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1539 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys išbaigtas ir tiesiogiai atitinka citatos duomenis apie bulę.'
   pagrindžia:
     - c-001
 
@@ -50,9 +61,18 @@ Religinė brolija ir Vilniaus arkikonfratrija.
 - t-003
   global_id: t-54839
   teiginys: 'Dievo Kūno arkibrolijos arkikonfratrija buvo funduota 1573 m. vasario 3 d., o tų pačių metų lapkričio 27 d. iškilmingai įvesdinta.'
+  sudarymo_pagrindimas: 'Į sakinį įtrauktas note objektas.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Grigalius (vicekancleris)|Grigalius (vicekancleris)]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1573 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Į sakinį įtrauktas note objektas.'
   pagrindžia:
     - c-001
-
+- susijęs iš Dievo Kūno arkibrolijos steigimo bulė: 1539 m. kardinolas Komendoni Vilniaus vyskupui Valerijonui Protasevičiui atsiuntė bulę, kuria įsteigta Dievo Kūno arkibrolija.
+- susijęs iš Grigaliaus XIII bulė dėl Vilniaus arkikonfratrijos: 1573 m. vasario 3 d., valdant Žygimantui Augustui, buvo funduota Vilniaus arkikonfratrija.
+- susijęs iš Inocento X patvirtinimas dėl Vilniaus arkikonfratrijos: Popiežius Inocentas X 1646 m. patvirtino Vilniaus arkikonfratrijos agregavimą prie Romos.
+- susijęs iš Vilniaus arkikonfratrijos fundavimo ir įvesdinimo dokumentai: Vilniaus arkikonfratrija buvo funduota 1573 m. vasario 3 d., o iškilmingai įvesdinta tų pačių metų lapkričio 27 d.
+- susijęs iš [[objektai/zodynas/arkibrolija arkikonfratrija.md#claim-t-86582|arkibrolija arkikonfratrija]]: 1539 m. kardinolas Komendoni Vilniaus vyskupui Valerijonui Protasevičiui atsiuntė bulę dėl Dievo Kūno arkibrolijos steigimo.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -76,10 +96,3 @@ Religinė brolija ir Vilniaus arkikonfratrija.
     - t-002
     - t-003
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Grigalius (vicekancleris)]]
-- [[objektai/asmenys/Kūnas]]
-- [[objektai/asmenys/Žygimantas]]
-- [[objektai/zodynas/arkibrolija arkikonfratrija]]

@@ -41,6 +41,8 @@ Nenurodyta
 - t-001
   global_id: t-46891
   teiginys: 'Lietaukos upelis, dešinysis Neries intakas, tekėjo Lietuvos žemės link, nebūtinai pačioje Lietuvoje.'
+  sudarymo_pagrindimas: 'Teiginys pilnas ir paremtas citata apie Lietaukos tekėjimo kryptį.'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Nemunas'
   pagrindžia:
     - c-002
 
@@ -48,6 +50,8 @@ Nenurodyta
 - t-002
   global_id: t-46892
   teiginys: 'Labiausiai paplitusi versija Lietuvos vardą kildino iš Lietaukos upelio, įtekančio į Nerį netoli Kernavės.'
+  sudarymo_pagrindimas: 'Teiginys pilnas ir tiesiogiai susijęs su Lietaukos upeliu.'
+  susije_objektai: 'mentioned_place: Kernavė; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Neris'
   pagrindžia:
     - c-003
 
@@ -55,6 +59,8 @@ Nenurodyta
 - t-003
   global_id: t-46893
   teiginys: 'Labiausiai paplitusi versija Lietuvos vardą kildino iš nedidelio Lietaukos upelio, įtekančio į Nerį netoli Kernavės.'
+  sudarymo_pagrindimas: 'Teiginys pilnas ir tiesiogiai apibūdina Lietaukos upelio vaidmenį etimologinėje versijoje.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kernavė; mentioned_place: Lietuva; mentioned_place: Neris'
   pagrindžia:
     - c-001
 
@@ -62,9 +68,13 @@ Nenurodyta
 - t-004
   global_id: t-46894
   teiginys: 'Paplitusi versija Lietuvos vardą kildino iš Lietaukos upelio, įtekančio į Nerį netoli Kernavės.'
+  sudarymo_pagrindimas: 'Suvienodinta glaustesnė ir aiški formuluotė.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kernavė; mentioned_place: Lietuva; mentioned_place: Neris'
   pagrindžia:
     - c-001
-
+- susijęs iš Kernavė: Paplitusi versija Lietuvos vardą kildina iš Lietaukos upelio, įtekančio į Nerį netoli Kernavės.
+- susijęs iš Lietuva: Paplitusi versija Lietuvos vardą kildina iš Lietaukos upelio, įtekančio į Nerį netoli Kernavės, vardo.
+- susijęs iš Nemunas: Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siaurąja prasme ankstyvaisiais istoriniais laikais buvo tarp Nemuno ir Neries upių.
 ## Reikšmingi paminėjimai
 
 - c-001

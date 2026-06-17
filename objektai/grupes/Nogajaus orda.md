@@ -29,6 +29,8 @@ Jo reikalu ne kartą į Vilnių buvo atvažia­ vę Nogajaus ordos pasiuntiniai 
 - t-001
   global_id: t-86765
   teiginys: 'Krymo ir Nogajaus ordos pasiuntiniai už Vilniaus sienų laukė karaliaus, kai jis tvarkė totorių reikalus.'
+  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir paliktas aiškus faktas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Krymas; mentioned_place: Liublinas; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -58,10 +60,3 @@ Jo reikalu ne kartą į Vilnių buvo atvažia­ vę Nogajaus ordos pasiuntiniai 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/grupes/Krymo orda]]
-- [[objektai/daiktai/Šach Achmedo palapinės prie Vilniaus]]

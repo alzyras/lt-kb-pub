@@ -18,7 +18,7 @@ amziai:
 
 ## Santrauka
 
-1990 m. gruodžio 14 d. Baltijos šalių vyriausybių vadovai pirmą kartą kreipėsi į EEB, prašydami paramą teikti tiesiogiai, o ne per Sovietų Sąjungą.
+1990 m. gruodžio 14 d. Baltijos šalių vyriausybių vadovai pirmą kartą kreipėsi į tuometinę Europos ekonominę bendriją (EEB), prašydami Baltijos šalims politinę, ekonominę ir kultūrinę paramą teikti ne per Sovietų Sąjungą, o tiesiogiai.
 
 ## Laikotarpis ir datos
 
@@ -42,6 +42,11 @@ Nenurodyta
 - t-001
   global_id: t-20170
   teiginys: '1990 m. gruodžio 14 d. Baltijos šalių vyriausybių vadovai pirmą kartą kreipėsi į EEB, prašydami paramą teikti tiesiogiai, o ne per Sovietų Sąjungą.'
+  sudarymo_pagrindimas: 'Perrašyta sklandžiau ir tiksliau su aiškiu prašymo objektu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/Antisemitizmas|Antisemitizmas]]; mentioned_place: Baltija; mentioned_place: Europa; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1990 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Perrašyta sklandžiau ir tiksliau su aiškiu prašymo objektu.'
   pagrindžia:
     - c-001
 
@@ -68,9 +73,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Antisemitizmas]]
-- [[objektai/grupes/Žydai]]
-- [[objektai/grupes/Europos Sąjunga]]

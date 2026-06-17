@@ -21,9 +21,10 @@ Leontovičių ir M.
 - t-001
   global_id: t-30593
   teiginys: 'E. I. Leontovičius buvo žymus teisės istorikas, palikęs studijų apie Lietuvos valstybės teisinius santykius ir institucijas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Rusų istorikai|Rusų istorikai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/autoriai/Rusų ir ukrainiečių istorikai.md#claim-t-47895|Rusų ir ukrainiečių istorikai]]: E. I. Leontovičius ir M. F. Vladimirskis-Budanovas buvo teisės istorikai, tyrę Lietuvos valstybės teisinius santykius ir institucijas.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -42,8 +43,3 @@ Leontovičių ir M.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Rusai]]
-- [[objektai/grupes/Rusų istorikai]]

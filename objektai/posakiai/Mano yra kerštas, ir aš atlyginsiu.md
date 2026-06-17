@@ -21,6 +21,8 @@ Dusburgietis teigia, kad apie Višogrudo pilies sugriovimą Nors viešpats Pakar
 - t-001
   global_id: t-59128
   teiginys: 'Posakis „Mano yra kerštas, ir aš atlyginsiu“ priskiriamas Pakartoto įstatymo knygai.'
+  sudarymo_pagrindimas: 'Citata palaiko aiškų faktą apie posakio šaltinį.'
+  susije_objektai: 'mentioned_place: Višogrudas'
   pagrindžia:
     - c-001
 
@@ -41,7 +43,3 @@ Dusburgietis teigia, kad apie Višogrudo pilies sugriovimą Nors viešpats Pakar
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/posakiai/Atsiminkite jūsų tėvų darbus, kuriuos jie yra padarę savo kartose, ir jūs laimėsite didelę garbę ir amžiną vardą]]

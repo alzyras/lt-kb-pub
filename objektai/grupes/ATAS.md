@@ -19,7 +19,7 @@ amziai:
 
 ## Santrauka
 
-1991 m. sausio 13 d. Vytautą Landsbergį saugojo ATAS pareigūnai. Sausio įvykių metu ATAS darbuotojas Aukščiausiosios Tarybos rūmuose saugojo objektą ginkluotas TT pistoletu.
+Už parlamento apsaugą ir gynybą tai išdavystė, visi bėga, jūs per naktį tik lavonais liksite, tai tuščias pastatas, ne pastate "2 2 atsakingos KAD, savanorių ir ATAS pajėgos juk Lietuvos simbolis“. “ Aukščiausiosios Tarybos pirmininkas ir šalies vadovas Vytautas Lansbergis 1991 m. sausio 13 d., saugomas ATAS (Aukščiausiosios Tarybos Apsaligos skyriaus) pareigūnų prieigose Žvėryno tiltas užtvertas „Kraz“ sunkvežimiu ir dviem „Kirovec“ traktoriais. Sausio įvykių metu iš medžiotojų būrelių bei specializuotų medžiotojų parduotuvių pavyko gauti medžioklinių šautuvų, šiek tiek kovinių ginklų gauta iš inkasatorių, vėliau jų suteikė kai kurios vidaus reikalų struktūros (Dešiniojoje nuotraukoje — ATAS.
 
 ## Teiginiai
 
@@ -27,6 +27,9 @@ amziai:
 - t-001
   global_id: t-40832
   teiginys: '1991 m. sausio 13 d. Vytautą Landsbergį saugojo ATAS pareigūnai.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Aukščiausiosios Tarybos rūmai; mentioned_place: Viena; mentioned_place: Žvėryno tiltas'
+  temporaliniai_duomenys: 'įvykio data: 1991 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 
@@ -34,9 +37,17 @@ amziai:
 - t-002
   global_id: t-40833
   teiginys: 'Sausio įvykių metu ATAS darbuotojas Aukščiausiosios Tarybos rūmuose saugojo objektą ginkluotas TT pistoletu.'
+  sudarymo_pagrindimas: 'Reikia pašalinti puslapio ir OCR triukšmą bei aiškiau nusakyti citatoje minimą veiksmą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Pistoletas|Pistoletas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Aukščiausiosios Tarybos rūmai'
+  temporaliniai_duomenys: 'įvykio data: 1991 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia pašalinti puslapio ir OCR triukšmą bei aiškiau nusakyti citatoje minimą veiksmą.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Vytautas Landsbergis.md#claim-t-170253|Vytautas Landsbergis]]: 1991 m. sausio 13 d. Vytautas Landsbergis buvo Aukščiausiosios Tarybos pirmininkas ir šalies vadovas.
+- susijęs iš [[objektai/daiktai/AKSU automatinis šautuvas.md#claim-t-40686|AKSU automatinis šautuvas]]: 1991 m. rugpjūčio pučo metu AT gynyboje vienas Mokomojo junginio karys buvo ginkluotas AKSU automatiniu šautuvu.
+- susijęs iš [[objektai/daiktai/TT pistoletas.md#claim-t-40773|TT pistoletas]]: Sausio įvykių metu TT pistoletu ginkluotas ATAS darbuotojas saugojo Aukščiausiosios Tarybos rūmus.
+- susijęs iš Žvėryno tiltas: Žvėryno tiltas buvo užtvertas „Kraz“ sunkvežimiu ir dviem „Kirovec“ traktoriais, o Goštauto gatvė blokuota sunkiąja technika.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -104,14 +115,3 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Ginklai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/Miera|miera]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/daiktai/AKSU automatinis šautuvas]]
-- [[objektai/daiktai/TT pistoletas]]
-- [[objektai/asmenys/Vytautas Landsbergis]]
-- [[objektai/daiktai/Pistoletas]]

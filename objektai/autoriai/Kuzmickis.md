@@ -20,9 +20,12 @@ Salio, ir kalbininkų Talmanto, Laurynaičio ir Kuzmickio straipsniai.
 - t-001
   global_id: t-96055
   teiginys: 'Bendrinės kalbos žurnalo „Kalba“ pirmajame sąsiuvinyje buvo įdėtas kalbininko Kuzmickio straipsnis.'
+  sudarymo_pagrindimas: 'Citata palaiko faktą apie Kuzmickio straipsnį žurnale.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/autoriai/A. Salys.md#claim-t-12236|A. Salys]]: Dr. A. Salio straipsnis buvo įdėtas žurnalo „Kalba“ numeryje kartu su kitų autorių straipsniais.
+- susijęs iš [[objektai/autoriai/J. Talmantas.md#claim-t-64646|J. Talmantas]]: Bendrinės kalbos žurnalo „Kalba“ pirmajame sąsiuvinyje buvo įdėtas kalbininko Talmanto straipsnis.
+- susijęs iš Kalba: „Kalbos“ numeryje buvo įdėtas paskutinis prof. Jablonskio-Rygiškių Jono straipsnis.
 ## Reikšmingi paminėjimai
 
 - c-001

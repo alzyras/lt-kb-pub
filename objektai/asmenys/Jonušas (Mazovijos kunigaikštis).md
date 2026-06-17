@@ -18,6 +18,11 @@ Jonušas atsisakė suteikti pagalbą, sulaužė sutartį ir, įsiveržęs į Pol
 - t-001
   global_id: t-185986
   teiginys: 'Jonušas atsisakė suteikti pagalbą, sulaužė sutartį ir, įsiveržęs į Poleksiją, užėmė Drohičiną, Melniką, Suražą bei Kamenecą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata palaiko faktą, bet pradinį tekstą reikia išvalyti ir sutrumpinti.'
+  susije_objektai: 'mentioned_place: Kamenecas; mentioned_place: Livonija; mentioned_place: Poleksija; mentioned_place: Suražas; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -25,6 +30,11 @@ Jonušas atsisakė suteikti pagalbą, sulaužė sutartį ir, įsiveržęs į Pol
 - t-002
   global_id: t-185987
   teiginys: 'Jonušas ir Zemovitas priėmė į Mazoviją pasitraukusį Vytautą, bet nesistengė suteikti jam deramos pagalbos.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis teiginys daugiausia apie Vytautą ir turi OCR triukšmo; citata palaiko aiškų faktą apie Jonušą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Zemovitas|Zemovitas]]; mentioned_place: Kamenecas; mentioned_place: Lenkija; mentioned_place: Mazovija; mentioned_place: Palenkė'
   pagrindžia:
     - c-002
 
@@ -32,6 +42,12 @@ Jonušas atsisakė suteikti pagalbą, sulaužė sutartį ir, įsiveržęs į Pol
 - t-003
   global_id: t-185988
   teiginys: 'Mazovijos kunigaikštis Jonušas, siekdamas sosto, atvyko į Piotrkovą su tūkstantine raitelių palyda.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata palaiko aiškesnį, enciklopedinį teiginį apie Jonušo veiksmą.'
+  susije_objektai: 'location: Mazovija; location: Piotrkovas; mentioned_group: [[objektai/grupes/Jogailaičiai|Jogailaičiai]]; mentioned_object: [[objektai/zodynas/piastas|piastas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Mazovija; mentioned_place: Piotrkovas'
+  semantiniai_rysiai: '[[objektai/asmenys/Jonušas (Mazovijos kunigaikštis)|Jonušas (Mazovijos kunigaikštis)]] keliavo į Mazovija; [[objektai/asmenys/Jonušas (Mazovijos kunigaikštis)|Jonušas (Mazovijos kunigaikštis)]] keliavo į Piotrkovas'
   pagrindžia:
     - c-003
 
@@ -107,12 +123,5 @@ Jonušas atsisakė suteikti pagalbą, sulaužė sutartį ir, įsiveržęs į Pol
     - t-003
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Jogailaičiai]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/piastas]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/asmenys/Zemovitas]]
-- [[objektai/ivykiai/Jonušo antpuolis į Poleksiją ir pasienio pilių užėmimas]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/ivykiai/Vytauto pasitraukimas į Mazoviją, perėjimas pas kryžiuočius ir karo su kryžiuočiais pradžia]]
+- Jonušas (Mazovijos kunigaikštis) keliavo_i [[objektai/vietos/Mazovija]]
+- Jonušas (Mazovijos kunigaikštis) keliavo_i [[objektai/vietos/Piotrkovas]]

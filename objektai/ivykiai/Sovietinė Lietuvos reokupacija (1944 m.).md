@@ -4,10 +4,11 @@ pavadinimas: 'Sovietinė Lietuvos reokupacija (1944 m.)'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
+  - '1939 m.'
   - '1940 m.'
   - '1944 m.'
   - '1945 m.'
-date_start: '1940'
+date_start: '1939'
 date_end: '1945'
 sukurta: ''
 atnaujinta: ''
@@ -45,6 +46,11 @@ Nenurodyta
 - t-001
   global_id: t-75280
   teiginys: '1944 m. vasarą sovietų kariuomenė antrą kartą okupavo Lietuvą ir grąžino stalininį režimą.'
+  sudarymo_pagrindimas: 'Pašalintas OCR tipo antraštės triukšmas ir suformuluotas pilnas sakinys.'
+  susije_objektai: 'mentioned_place: Estija; mentioned_place: Latvija; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: iki 1945 m.; įvykio data: 1944 m.; įvykio data: 1945 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas OCR tipo antraštės triukšmas ir suformuluotas pilnas sakinys.'
   pagrindžia:
     - c-002
 
@@ -52,6 +58,9 @@ Nenurodyta
 - t-002
   global_id: t-75281
   teiginys: 'Būtent šias vertybes ar prisiminimus nubraukė Sovietų Sąjunga, 1940 m. Lietuvą okupavusi, o 1944 m. – reokupavusi.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/daiktai/Lėktuvai|Lėktuvai]]; mentioned_place: Europa; mentioned_place: Kaunas; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1939 m.; įvykio data: 1940 m.; įvykio data: 1944 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -95,11 +104,3 @@ Nenurodyta
     - t-004
     - t-001
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/daiktai/Lėktuvai]]
-- [[objektai/ivykiai/Sovietinė Lietuvos reokupacija (1944 m. vasara)]]
-- [[objektai/grupes/Sovietų Sąjunga]]
-- [[objektai/ivykiai/Sovietų Sąjungos Lietuvos okupacija ir aneksija (1940 m.)]]

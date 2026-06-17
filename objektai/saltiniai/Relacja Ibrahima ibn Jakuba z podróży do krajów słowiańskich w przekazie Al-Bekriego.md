@@ -26,6 +26,11 @@ Dusburgietis teigia, kad [Ibrahim ibn Jákūb].
 - t-001
   global_id: t-61269
   teiginys: 'T. Kowalskis parengė „Relacja Ibrahima ibn Jakuba z podróży do krajów słowiańskich w przekazie Al-Bekriego“, išleistą Krokuvoje 1946 m.'
+  sudarymo_pagrindimas: 'Citata pagrindžia rengėją, pavadinimą, leidimo vietą ir metus.'
+  susije_objektai: 'mentioned_place: Krokuva'
+  temporaliniai_duomenys: 'įvykio data: 1946 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia rengėją, pavadinimą, leidimo vietą ir metus.'
   pagrindžia:
     - c-001
 

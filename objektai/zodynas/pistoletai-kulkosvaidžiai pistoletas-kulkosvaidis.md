@@ -22,6 +22,11 @@ Jis pradėtas kurti siekiant apginkluoti Raudonąją armiją dar paprastesniu, p
 - t-001
   global_id: t-38696
   teiginys: 'Pistoletas-kulkosvaidis PPS Antrojo pasaulinio karo metu rusų pradėtas kurti ir gaminti kaip paprastesnė PPS-41 alternatyva.'
+  sudarymo_pagrindimas: 'Pradinis teiginys turi įvardį ir OCR klaidų, bet citata pagrindžia aiškesnį sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/PPS 41 (Pistolet-Pulemiot Špagina)|PPS 41 (Pistolet-Pulemiot Špagina)]]'
+  temporaliniai_duomenys: 'įvykio data: 200 m'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys turi įvardį ir OCR klaidų, bet citata pagrindžia aiškesnį sakinį.'
   pagrindžia:
     - c-001
 
@@ -68,8 +73,3 @@ Jis pradėtas kurti siekiant apginkluoti Raudonąją armiją dar paprastesniu, p
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/PPS 41 (Pistolet-Pulemiot Špagina)]]
-- [[objektai/grupes/Rusai]]

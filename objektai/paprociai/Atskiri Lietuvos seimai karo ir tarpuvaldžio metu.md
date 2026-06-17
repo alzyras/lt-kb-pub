@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-XVII amžiuje, nuo Vladislovo Vazos laikų lietuviams ėmus karalius rinkti bendrai su lenkais, atskiri Lietuvos seimai ėmė nykti. Karalius ne kartą, nepaisydamas unijos akto nuostatų, sušaukdavo atskirus Lietuvos seimus, ypač karo su Maskva metu.
+Todėl buvo nemaža atsitikimų, kad, neatsižvelgdamas į unijos akto nuostatus, net pats karalius sušaukdavo atskirus seimus. Bet dar dažniau atskirus Lietuvos seimus šaukdavo patys Lietuvos ponai tarpuvaldžiuose (karalių nebuvimo metu). Bet XVII amžiuje, kai, pradedant Vladislovu Vaza, lietuviai ėmė rinkti karalius bendrai su lenkais, tie atskiri Lietuvos seimai ėmė nykti.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,43 +33,28 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 <a id="claim-t-01908"></a>
 - t-001
   global_id: t-01908
-  teiginys: 'Karalius ne kartą, nepaisydamas unijos akto nuostatų, sušaukdavo atskirus Lietuvos seimus, ypač karo su Maskva metu.'
+  teiginys: 'XVII amžiuje, nuo Vladislovo Vazos laikų lietuviams ėmus karalius rinkti bendrai su lenkais, atskiri Lietuvos seimai ėmė nykti.'
+  sudarymo_pagrindimas: 'Pašalintas jungtukas ir sakinys paverstas savarankišku faktu.'
+  susije_objektai: 'territory: Lietuva; mentioned_group: [[objektai/grupes/Atskiri Lietuvos seimai|Atskiri Lietuvos seimai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+
 <a id="claim-t-01910"></a>
 - t-002
   global_id: t-01910
-  teiginys: 'XVII amžiuje, nuo Vladislovo Vazos laikų lietuviams ėmus karalius rinkti bendrai su lenkais, atskiri Lietuvos seimai ėmė nykti.'
+  teiginys: 'Karalius ne kartą, nepaisydamas unijos akto nuostatų, sušaukdavo atskirus Lietuvos seimus, ypač karo su Maskva metu.'
+  sudarymo_pagrindimas: 'Teiginys sukonkretintas pagal citatoje minimus Lietuvos seimus.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Liublinas; mentioned_place: Maskva'
   pagrindžia:
     - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Karalius ne kartą, nepaisydamas unijos akto nuostatų, sušaukdavo atskirus Lietuvos seimus, ypač karo su Maskva metu.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tuojau po Liublino unijos abi valstybės turėjo labai daug skir-
-    tingų reikalų, kurie kartais visai neliesdavo antrosios valstybės.
-    Todėl buvo nemaža atsitikimų, kad, neatsižvelgdamas į unijos
-    akto nuostatus, net pats karalius sušaukdavo atskirus seimus.
-    Ypač dažnai būdavo šaukiami atskiri Lietuvos seimai, einant
-    karui su Maskva (mat, jis nelietė Lenkijos).
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'XVII amžiuje, nuo Vladislovo Vazos laikų lietuviams ėmus karalius rinkti bendrai su lenkais, atskiri Lietuvos seimai ėmė nykti.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Taip antai, po Zigmanto
@@ -79,20 +64,23 @@ Nenurodyta
     jais tik per delegatus. Bet XVII amžiuje, kai, pradedant Vladis-
     lovu Vaza, lietuviai ėmė rinkti karalius bendrai su lenkais, tie
     atskiri Lietuvos seimai ėmė nykti.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tuojau po Liublino unijos abi valstybės turėjo labai daug skir-
+    tingų reikalų, kurie kartais visai neliesdavo antrosios valstybės.
+    Todėl buvo nemaža atsitikimų, kad, neatsižvelgdamas į unijos
+    akto nuostatus, net pats karalius sušaukdavo atskirus seimus.
+    Ypač dažnai būdavo šaukiami atskiri Lietuvos seimai, einant
+    karui su Maskva (mat, jis nelietė Lenkijos).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Atskiri Lietuvos seimai]]
-- [[objektai/asmenys/Augustas]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
-- [[objektai/zodynas/unija]]
-- [[objektai/asmenys/Vladislovas Vaza]]

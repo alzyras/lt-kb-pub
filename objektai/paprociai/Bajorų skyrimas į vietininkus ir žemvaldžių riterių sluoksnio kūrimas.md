@@ -3,12 +3,19 @@ tipas: paprotys
 pavadinimas: 'Bajorų skyrimas į vietininkus ir žemvaldžių riterių sluoksnio kūrimas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1394 m.'
+  - '1395 m.'
+date_start: '1394'
+date_end: '1395'
 sukurta: ''
 atnaujinta: ''
 tags:
   - bajorija
   - kunigaikštis
   - paprotys
+amziai:
+  - 'XIV'
 ---
 # Bajorų skyrimas į vietininkus ir žemvaldžių riterių sluoksnio kūrimas
 
@@ -42,6 +49,9 @@ Nenurodyta
 - t-001
   global_id: t-54210
   teiginys: 'Vytauto politikoje svarbia socialine permaina tapo žemvaldžių riterių sluoksnio kūrimas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_place: Kijevas; mentioned_place: Luckas'
+  temporaliniai_duomenys: 'įvykio data: 1394 m.; įvykio data: 1395 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -49,6 +59,9 @@ Nenurodyta
 - t-002
   global_id: t-54211
   teiginys: 'Vytauto politikoje svarbios buvo socialinės permainos, kuriomis kurtas žemvaldžių riterių sluoksnis.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_place: Kijevas; mentioned_place: Luckas'
+  temporaliniai_duomenys: 'įvykio data: 1394 m.; įvykio data: 1395 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -67,7 +80,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/vietininkas]]

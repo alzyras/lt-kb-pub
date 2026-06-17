@@ -41,6 +41,11 @@ Nenurodyta
 - t-001
   global_id: t-39286
   teiginys: 'Sovietų lengvasis kulkosvaidis DP naudojo 7,62x54 mm R šovinius, 47 šovinių diską ir svėrė 9,12 kg.'
+  sudarymo_pagrindimas: 'Pradinis tekstas supainiojo kelis fragmentus; citata pagrindžia technines DP savybes.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
+  temporaliniai_duomenys: 'įvykio data: 800 m'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis tekstas supainiojo kelis fragmentus; citata pagrindžia technines DP savybes.'
   pagrindžia:
     - c-001
 
@@ -72,7 +77,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Vokiečiai]]

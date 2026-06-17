@@ -5,6 +5,10 @@ saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1216 m.'
+  - '1217 m.'
+  - '1220 m.'
+  - '1226 m.'
+  - '1230 m.'
   - '1231 m.'
 date_start: '1216'
 date_end: '1231'
@@ -46,6 +50,8 @@ Nenurodyta
 - t-001
   global_id: t-66652
   teiginys: 'Prūsai po kelerių metų nusiaubė Kulmo žemę, pavertė ją dykra, o krikščionis išžudė arba išsivarė į nelaisvę.'
+  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytą Kulmo žemės nusiaubimą.'
+  susije_objektai: 'mentioned_place: Kulmas; mentioned_place: Prūsai'
   pagrindžia:
     - c-002
 
@@ -53,6 +59,11 @@ Nenurodyta
 - t-002
   global_id: t-66653
   teiginys: 'Istoriografijoje laikomasi nuomonės, kad Dusburgietis perdėjo Kulmo žemės nusiaubimo mastą.'
+  sudarymo_pagrindimas: 'Citata remia interpretacinį teiginį, ne pradinį fragmentą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_place: Kulmas; mentioned_place: Kulmo žemė; mentioned_place: Mazovija; mentioned_place: Prūsai'
+  temporaliniai_duomenys: 'įvykio data: 1216 m.; įvykio data: 1217 m.; įvykio data: 1220 m.; įvykio data: 1226 m.; įvykio data: 1230 m.; įvykio data: 1231 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata remia interpretacinį teiginį, ne pradinį fragmentą.'
   pagrindžia:
     - c-001
 
@@ -94,12 +105,3 @@ Nenurodyta
   pagrindžia:
     - t-003
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Kristijonas]]
-- [[objektai/zodynas/vaivada]]
-- [[objektai/zodynas/įgula]]
-- [[objektai/zodynas/Miera|miera]]
-- [[objektai/zodynas/amžina vergovė]]
-- [[objektai/zodynas/amžina vergovė amžini vergai]]

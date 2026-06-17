@@ -21,6 +21,8 @@ Dusburgietis teigia, kad mirties patale gulėdamas, jis, paklaustas brolio Konra
 - t-001
   global_id: t-60358
   teiginys: 'Baigos kunigas Konradas mirties patale paklausė Skomanto, kodėl šis gavęs malonę įtikėti Kristumi.'
+  sudarymo_pagrindimas: 'Pirminis teiginys nutrūkęs; citata leidžia suformuluoti aiškų faktą apie Konrado veiksmą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Baiga; mentioned_place: Lenkija; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -43,14 +45,3 @@ Dusburgietis teigia, kad mirties patale gulėdamas, jis, paklaustas brolio Konra
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/drabužis]]
-
-### Susiję objektai
-- [[objektai/daiktai/Drabužiai]]
-- [[objektai/zodynas/Miera|miera]]
-- [[objektai/zodynas/netikėliai]]
-- [[objektai/zodynas/kunigas]]
-- [[objektai/ivykiai/Skomanto mirtis]]

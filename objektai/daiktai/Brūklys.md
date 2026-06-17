@@ -3,10 +3,6 @@ tipas: daiktas
 pavadinimas: 'Brūklys'
 saltiniai:
   - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
-aliases:
-  - 'objektai/daiktai/Brūkliai'
-variantai:
-  - 'Brūkliai'
 sukurta: ''
 atnaujinta: ''
 ---
@@ -42,6 +38,8 @@ Nenurodyta
 - t-001
   global_id: t-08285
   teiginys: 'Giliojoje senovėje pėsčiųjų ginklas buvo brūklys.'
+  teiginio_tipas: 'faktas'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]'
   pagrindžia:
     - c-001
 
@@ -49,9 +47,10 @@ Nenurodyta
 - t-002
   global_id: t-08286
   teiginys: 'Brūklių drūktieji galai vėliau buvo pripilami švino, o trumpesni jų variantai vadinti strypais.'
+  teiginio_tipas: 'faktas'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/daiktai/Akstys.md#claim-t-08278|Akstys]]: Akstys buvo ginklai, kurių galuose vietoj ietigalių buvo įtaisyti aštrūs akmenys.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -81,8 +80,3 @@ Nenurodyta
 ## Pastabos
 
 - šalia brūklių toje pačioje vietoje minimi ir strypai, bet kandidato ašį palieku pagal senovinį ginklą brūklius.
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Ginklai]]
-- [[objektai/daiktai/Akstys]]

@@ -43,6 +43,12 @@ Nenurodyta
 - t-001
   global_id: t-62238
   teiginys: '1295 m. Teutonų ordino didysis magistras Konradas iš Foichtvangeno atvyko į Prūsiją ir parėmė brolius dovanomis bei pamokymais.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nusako asmenį, datą, veiksmą ir yra paremtas citata.'
+  susije_objektai: 'location: Kimelis; location: Prūsai; location: Prūsija; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/asmenys/Konradas iš Foichtvangeno|Konradas iš Foichtvangeno]]; mentioned_place: Kimelis; mentioned_place: Prūsai; mentioned_place: Prūsija'
+  temporaliniai_duomenys: 'kelionės data: 1295 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) keliavo į Kimelis“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) keliavo į Prūsai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) keliavo į Prūsija“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako asmenį, datą, veiksmą ir yra paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -66,12 +72,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Konradas]]
-- [[objektai/grupes/Teutonai]]
-- [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]
-- [[objektai/asmenys/Konradas iš Foichtvangeno]]
-- [[objektai/zodynas/didysis magistras]]
-- [[objektai/zodynas/magistras]]

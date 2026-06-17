@@ -15,6 +15,7 @@ tags:
   - kunigaikštis
   - miestas
   - mokslininkas
+  - vyskupas
 amziai:
   - 'XVI'
 periodo_grupes:
@@ -32,9 +33,17 @@ periodo_grupes:
 - t-001
   global_id: t-87707
   teiginys: 'Jokūbas Babičius 1525 m. Vilniuje veikusioje spaustuvėje spausdino slaviškas knygas.'
+  sudarymo_pagrindimas: 'Citata tiesiogiai pagrindžia asmens veiklą Vilniaus spaustuvėje.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/diecezija|diecezija]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)|Jokūbas (vėliau Urbonas IV)]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1525 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata tiesiogiai pagrindžia asmens veiklą Vilniaus spaustuvėje.'
   pagrindžia:
     - c-001
-
+- susijęs iš Vilniaus katedra (sujungti pirminiai pavadinimai Vilniaus katedra; Vilniaus Šv. Stanislovo katedra; Šv. Stanislovo katedra; Šv. Stanislovo b: 1522 m. Vilniaus vyskupas Jonas prie Vilniaus katedros įkūrė penktąją scholastiko prelatūrą Katedros mokyklai išlaikyti.
+- susijęs iš Vilniaus katedra: 1522 m. Vilniaus vyskupas Jonas prie Vilniaus katedros įkūrė penktąją scholastiko prelatūrą Katedros mokyklai išlaikyti.
+- susijęs iš Vilniaus katedra: 1522 m. prie Vilniaus katedros įkurta scholastiko prelatūra, kurios pareiga buvo išlaikyti Katedros mokyklą.
+- susijęs iš [[objektai/zodynas/scholastiko prelatūra scholastikas.md#claim-t-86617|scholastiko prelatūra scholastikas]]: 1522 m. Vilniaus vyskupas Jonas prie katedros įkūrė penktąją scholastiko prelatūrą, nes scholastikas turėjo išlaikyti Katedros mokyklą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -73,9 +82,3 @@ periodo_grupes:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/diecezija]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/scholastiko prelatūra scholastikas]]

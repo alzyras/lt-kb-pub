@@ -30,6 +30,11 @@ Nenurodyta
 - t-001
   global_id: t-185691
   teiginys: 'Augustas Lenkijoje susitiko su tėvu Žygimantu ir paprašė pritarti santuokai su Barbora Radvilaite.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Reikia aiškiai įvardyti tėvą ir santuokos objektą pagal įvykio pavadinimą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lenkija'
   pagrindžia:
     - c-001
 
@@ -58,9 +63,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Augustas]]
-- [[objektai/asmenys/Barbora Radvilaitė]]
-- [[objektai/asmenys/Žygimantas]]

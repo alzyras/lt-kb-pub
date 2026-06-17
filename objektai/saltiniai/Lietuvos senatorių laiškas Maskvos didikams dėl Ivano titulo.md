@@ -18,6 +18,11 @@ Lietuvos senatoriai laišku ragino Maskvos didikus neleisti Ivanui Vasiljevičiu
 - t-001
   global_id: t-186339
   teiginys: 'Lietuvos senatoriai laišku ragino Maskvos didikus neleisti Ivanui Vasiljevičiui prisiimti naujo titulo, bet atsakymo nesulaukė.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Reikia aiškiai įvardyti kunigaikštį, kurio titulo klausimas minimas citatoje ir pavadinime.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos senatoriai|Lietuvos senatoriai]]; mentioned_person: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]; mentioned_place: Lietuva; mentioned_place: Maskva'
   pagrindžia:
     - c-001
 

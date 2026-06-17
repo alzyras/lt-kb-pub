@@ -3,11 +3,17 @@ tipas: ivykis
 pavadinimas: 'Pipino nukankinimas ir mirtis'
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+datos:
+  - '1223 m.'
+date_start: '1223'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
   - ordinas
+amziai:
+  - 'XIII'
 ---
 # Pipino nukankinimas ir mirtis
 
@@ -37,6 +43,12 @@ Nenurodyta
 - t-001
   global_id: t-62897
   teiginys: 'Dusburgietis Pipino mirtį vaizdavo kaip pakorimą po to, kai Pipinas buvo pririštas prie arklio ir atvilktas iki Torunės.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra apie autoriaus vaizdavimą, todėl atribucija tinkama; pradinė forma per ilga.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/ekspansija|ekspansija]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Pipinas|Pipinas]]; mentioned_place: Kulmas; mentioned_place: Oliva; mentioned_place: Pamedė; mentioned_place: Prūsai; mentioned_place: Torunė'
+  temporaliniai_duomenys: 'įvykio data: iki 1223 m.; įvykio data: 1223 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra apie autoriaus vaizdavimą, todėl atribucija tinkama; pradinė forma per ilga.'
   pagrindžia:
     - c-001
 
@@ -61,13 +73,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/daiktai/Kryžius]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Pipinas]]
-- [[objektai/zodynas/ekspansija]]
-- [[objektai/zodynas/žygis]]

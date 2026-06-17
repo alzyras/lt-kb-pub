@@ -41,6 +41,8 @@ Nenurodyta
 - t-001
   global_id: t-59705
   teiginys: 'Martynas iš Golino su bendrais po žygio Sūduvoje sėdo už skobnies papietauti, bet juos užpuolė priešai.'
+  sudarymo_pagrindimas: 'Pradinė formuluotė per ilga, su neaiškiais įvardžiais ir nutrūkusia pabaiga.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Kalavijai|Kalavijai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Kaimas; mentioned_place: Prūsai; mentioned_place: Sūduva; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -85,19 +87,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Ginklai]]
-- [[objektai/daiktai/Kalavijai]]
-- [[objektai/asmenys/Martynas iš Golino]]
-- [[objektai/daiktai/Namas]]
-- [[objektai/grupes/Sūduviai]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/netikėliai]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/asmenys/Konradas, vardu Divelis]]
-- [[objektai/asmenys/Kudaras iš Sūduvos]]
-- [[objektai/ivykiai/Martyno iš Golino žygis į Sūduvos kaimą, bendražygių žūtis ir kerštas]]
-- [[objektai/asmenys/Nakaimas iš Pagudės]]
-- [[objektai/asmenys/Štaubemelis]]

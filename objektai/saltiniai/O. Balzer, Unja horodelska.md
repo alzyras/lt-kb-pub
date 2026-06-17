@@ -29,6 +29,10 @@ amziai:
 - t-001
   global_id: t-29998
   teiginys: 'O. Balzerio „Unja horodelska“ buvo išleista 1913 m.'
+  sudarymo_pagrindimas: 'Citata pateikia bibliografinį faktą apie leidinio metus.'
+  temporaliniai_duomenys: 'įvykio data: 1913 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pateikia bibliografinį faktą apie leidinio metus.'
   pagrindžia:
     - c-001
 

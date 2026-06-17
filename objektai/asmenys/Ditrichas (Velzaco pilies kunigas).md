@@ -30,6 +30,11 @@ Dusburgietis teigia, kad apie vieną brolį Tais 1295 metais vienas negalės nuk
 - t-001
   global_id: t-60264
   teiginys: '1295 m. negalės kamuojamas Velzaco pilies brolis mirties akivaizdoje puolė kunigui Ditrichui ant krūtinės.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai susijęs su kunigu Ditrichu.'
+  susije_objektai: 'mentioned_object: [[objektai/posakiai/MIRTIES AKIVAIZDOJE|MIRTIES AKIVAIZDOJE]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1295 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir tiesiogiai susijęs su kunigu Ditrichu.'
   pagrindžia:
     - c-001
 
@@ -50,8 +55,3 @@ Dusburgietis teigia, kad apie vieną brolį Tais 1295 metais vienas negalės nuk
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/posakiai/MIRTIES AKIVAIZDOJE]]
-- [[objektai/zodynas/kunigas]]

@@ -21,6 +21,8 @@ tags:
 - t-001
   global_id: t-87888
   teiginys: 'Zanka Ivanovičius dokumente nurodytas kaip Vilniaus horodničius ir vienas iš liudytojų.'
+  sudarymo_pagrindimas: 'Citata pateikia Zanką Ivanovičių tarp liudytojų ir nurodo jo pareigas.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -47,7 +49,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Namas]]

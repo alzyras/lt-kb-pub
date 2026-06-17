@@ -42,6 +42,8 @@ Nenurodyta
 - t-001
   global_id: t-20212
   teiginys: 'Jono Černiaus „vieningo darbo“ vyriausybėje krikščionys demokratai ir liaudininkai gavo po dvi ministrų vietas.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiksliai perteikia citatoje nurodytą faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -62,13 +64,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Krikščionys]]
-- [[objektai/asmenys/Jonas Černius]]
-- [[objektai/grupes/Lietuvos krikščionių demokratų partija]]
-- [[objektai/grupes/Lietuvos valstiečių liaudininkų sąjunga]]
-- [[objektai/asmenys/V. Mironas]]
-- [[objektai/zodynas/Vieningo darbo vyriausybė]]
-- [[objektai/asmenys/Vladas Mironas]]

@@ -26,6 +26,11 @@ Dusburgietis teigia, kad lietuviškoji tarybinė enciklopedija.— T.
 - t-001
   global_id: t-61132
   teiginys: 'Trečiasis „Lietuviškosios tarybinės enciklopedijos“ tomas išleistas 1978 m.'
+  sudarymo_pagrindimas: 'Pradinė formuluotė fragmentiška; citata nurodo tomą ir metus.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
+  temporaliniai_duomenys: 'įvykio data: 1978 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinė formuluotė fragmentiška; citata nurodo tomą ir metus.'
   pagrindžia:
     - c-001
 

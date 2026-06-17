@@ -29,6 +29,11 @@ amziai:
 - t-001
   global_id: t-88354
   teiginys: 'Vytauto 1420 m. laiškas Romos imperatoriui Zigmantui minimas kaip patikimas šaltinis apie Lietuvos ir Žemaitijos tapatumą.'
+  sudarymo_pagrindimas: 'Citata leidžia suformuluoti faktą apie laiško naudojimą kaip šaltinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Gotai|Gotai]]; mentioned_group: [[objektai/grupes/Vidivarii|Vidivarii]]; mentioned_object: [[objektai/daiktai/Medžioklių trobelės|Medžioklių trobelės]]; mentioned_object: [[objektai/zodynas/Vidivarijai|Vidivarijai]]; mentioned_person: [[objektai/autoriai/Jornandesas|Jornandesas]]; mentioned_person: [[objektai/asmenys/Tame (Baigos brolis)|Tame (Baigos brolis)]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Lietuva; mentioned_place: Vysla'
+  temporaliniai_duomenys: 'įvykio data: 1420 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata leidžia suformuluoti faktą apie laiško naudojimą kaip šaltinį.'
   pagrindžia:
     - c-001
 

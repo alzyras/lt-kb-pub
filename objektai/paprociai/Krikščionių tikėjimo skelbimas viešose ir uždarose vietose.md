@@ -33,6 +33,11 @@ Nenurodyta
 - t-001
   global_id: t-185876
   teiginys: 'Algirdas paskelbė įstatymą, leidusį krikščionims netrukdomai skelbti tikėjimo tiesas viešose ir uždarose vietose.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis teiginys turi OCR skiemenavimo liekanų ir nereikalingą autorinę formulę.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Maskva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -66,7 +71,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]

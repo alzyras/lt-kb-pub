@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Vojakas [Vojachas] davė broliams raštą, savo antspaudu patvirtintą277.
+Dusburgietis teigia, kad vojakas [Vojachas] davė broliams raštą, savo antspaudu patvirtintą277.
 
 ## Teiginiai
 
@@ -23,6 +23,8 @@ Vojakas [Vojachas] davė broliams raštą, savo antspaudu patvirtintą277.
 - t-001
   global_id: t-60467
   teiginys: 'Vojakas [Vojachas] davė broliams raštą, savo antspaudu patvirtintą277.'
+  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_object: [[objektai/daiktai/Užstato daiktai Trakų žydų privilegijoje|Užstato daiktai Trakų žydų privilegijoje]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/įkaitai|įkaitai]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]'
   pagrindžia:
     - c-001
 
@@ -51,11 +53,3 @@ Vojakas [Vojachas] davė broliams raštą, savo antspaudu patvirtintą277.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Antspaudas]]
-- [[objektai/daiktai/Užstato daiktai Trakų žydų privilegijoje]]
-- [[objektai/zodynas/netikėliai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/įkaitai]]

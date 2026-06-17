@@ -23,9 +23,11 @@ Vartojamos formos: `šliuižiu`.
 - t-001
   global_id: t-07640
   teiginys: 'Šliuižiai buvo pirmieji kalnėnų ir žemaičių ratai ant dviejų tekinių.'
+  sudarymo_pagrindimas: 'Sakinys yra pilnas ir tiesiogiai paremtas citatos duomenimis apie šliuižius.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalnėnai|Kalnėnai]]; mentioned_object: [[objektai/daiktai/Ratai ant dviejų tekinių|Ratai ant dviejų tekinių]]'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/daiktai/Ratai ant dviejų tekinių.md#claim-t-08319|Ratai ant dviejų tekinių]]: Pirmieji kalnėnų ir žemaičių ratai buvo ant dviejų tekinių, vadinamų šliuižiu.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -39,8 +41,3 @@ Vartojamos formos: `šliuižiu`.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kalnėnai]]
-- [[objektai/daiktai/Ratai ant dviejų tekinių]]

@@ -4,10 +4,10 @@ pavadinimas: 'Josifas Stalinas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
-  - '1950 m.'
-  - '1953 m.'
-date_start: '1950'
-date_end: '1953'
+  - '1939 m.'
+  - '1972 m.'
+date_start: '1939'
+date_end: '1972'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -15,16 +15,17 @@ tags:
   - kraštas
   - kunigas
   - miestas
+  - tauta
 amziai:
   - 'XX'
 periodo_grupes:
-  - 'XX a.'
+  - 'modernioji Lietuva'
 ---
 # Josifas Stalinas
 
 ## Santrauka
 
-1939 m. spalio 3 d. Maskvoje Josifas Stalinas spaudė J. Urbšį pasirašyti sutartis dėl savitarpio pagalbos, Vilniaus krašto ir pietvakarių Lietuvos. Stalino statulų, prikabinėta komunistinių šūkių. Sovietmečiu mokytojai buvo verčiami studijuoti J. Stalino, V. Lenino ir Karlo Markso veikalus bei komunistų partijos dokumentus.
+Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Stalinui ir V. Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J.
 
 ## Teiginiai
 
@@ -32,6 +33,11 @@ periodo_grupes:
 - t-001
   global_id: t-101653
   teiginys: '1939 m. spalio 3 d. Maskvoje Josifas Stalinas spaudė J. Urbšį pasirašyti sutartis dėl savitarpio pagalbos, Vilniaus krašto ir pietvakarių Lietuvos.'
+  sudarymo_pagrindimas: 'Teiginys paremtas citata, bet perrašytas sklandžiau ir tiksliau su data bei sutarčių objektais.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/demobilizacija|demobilizacija]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Vilnius; mentioned_place: Vokietija'
+  temporaliniai_duomenys: 'sutarties data: 1939 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys paremtas citata, bet perrašytas sklandžiau ir tiksliau su data bei sutarčių objektais.'
   pagrindžia:
     - c-001
 
@@ -39,6 +45,9 @@ periodo_grupes:
 - t-002
   global_id: t-101654
   teiginys: 'Stalino statulų, prikabinėta komunistinių šūkių.'
+  susije_objektai: 'mentioned_object: [[objektai/autoriai/Vincas Kudirka|Vincas Kudirka]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1950 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-005
 
@@ -46,6 +55,7 @@ periodo_grupes:
 - t-003
   global_id: t-101655
   teiginys: 'Sovietmečiu mokytojai buvo verčiami studijuoti J. Stalino, V. Lenino ir Karlo Markso veikalus bei komunistų partijos dokumentus.'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: SSRS'
   pagrindžia:
     - c-006
 
@@ -53,6 +63,7 @@ periodo_grupes:
 - t-004
   global_id: t-101656
   teiginys: 'Josifo Stalino valdymo metais komunistų partija kontroliavo ir cenzūravo lietuvių kultūrą, siekdama išrauti tautiškumą ir skleisti komunistinę ideologiją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-004
 
@@ -60,6 +71,11 @@ periodo_grupes:
 - t-005
   global_id: t-101657
   teiginys: 'Po Josifo Stalino mirties 1953 m. SSRS ėmė silpnėti rusinimas, valdžia labiau pasitikėjo vietiniais lietuviais, o kaliniai ir tremtiniai buvo leidžiami į laisvę.'
+  sudarymo_pagrindimas: 'Perrašyta tiksliau, nes citata nurodo pokyčių pradžią po Stalino mirties.'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: SSRS'
+  temporaliniai_duomenys: 'įvykio data: 1953 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Perrašyta tiksliau, nes citata nurodo pokyčių pradžią po Stalino mirties.'
   pagrindžia:
     - c-003
 
@@ -67,6 +83,11 @@ periodo_grupes:
 - t-006
   global_id: t-101658
   teiginys: 'Josifo Stalino laikais okupacinė valdžia siekė fiziškai naikinti ir tremti dvasininkiją, o bažnyčias versti sandėliais.'
+  sudarymo_pagrindimas: 'Teiginys buvo nutrūkęs ties Chruščiovu; citata palaiko savarankišką faktą apie Stalino laikus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija|Vilniaus vyskupijos klierikų kolegija]]; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1962 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys buvo nutrūkęs ties Chruščiovu; citata palaiko savarankišką faktą apie Stalino laikus.'
   pagrindžia:
     - c-007
 
@@ -74,6 +95,7 @@ periodo_grupes:
 - t-007
   global_id: t-101659
   teiginys: 'Josifas Stalinas ir V. Molotovas agresyviai spaudė Lietuvą prieš spalio 10 d. pasirašant Vilniaus perdavimo ir savitarpio pagalbos su SSRS sutartis.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: SSRS; mentioned_place: Vilnius; mentioned_place: Vokietija'
   pagrindžia:
     - c-002
 
@@ -81,6 +103,8 @@ periodo_grupes:
 - t-008
   global_id: t-101660
   teiginys: 'Sovietinėje Lietuvoje mokytojai buvo verčiami studijuoti J. Stalino, V. Lenino ir Karlo Markso veikalus.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys ir citata tiesiogiai mini J. Stalino veikalų studijavimą.'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: SSRS'
   pagrindžia:
     - c-006
 
@@ -88,6 +112,9 @@ periodo_grupes:
 - t-009
   global_id: t-101661
   teiginys: 'Sovietų valdžia Lietuvos valstybingumo paminklų vietose statė J. Stalino, V. Lenino ir sovietinio kario nugalėtojo statulas.'
+  susije_objektai: 'mentioned_object: [[objektai/autoriai/Vincas Kudirka|Vincas Kudirka]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1950 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-005
 
@@ -95,6 +122,11 @@ periodo_grupes:
 - t-010
   global_id: t-101662
   teiginys: 'J. Stalino valdymo metais komunistų partija kontroliavo lietuvių kultūrą, cenzūravo tekstus ir primetė marksistinę-lenininę filosofiją.'
+  sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir baigiasi nutrūkusiu fragmentu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1972 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys per ilgas ir baigiasi nutrūkusiu fragmentu.'
   pagrindžia:
     - c-008
 
@@ -102,6 +134,9 @@ periodo_grupes:
 - t-011
   global_id: t-101663
   teiginys: 'Josifo Stalino laikais okupacinė valdžia siekė fiziškai naikinti ir tremti dvasininkiją, o bažnyčias paversti sandėliais.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija|Vilniaus vyskupijos klierikų kolegija]]; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1962 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-007
 
@@ -109,9 +144,17 @@ periodo_grupes:
 - t-012
   global_id: t-101664
   teiginys: 'J. Stalino SSRS buvo laikoma jėga, prieš kurią Baltijos šalių pasipriešinimo dalyviai tikėjosi Vakarų žygio.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/posakiai/karas po karo|karas po karo]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Baltija; mentioned_place: Didžioji Britanija; mentioned_place: Lietuva; mentioned_place: SSRS'
+  temporaliniai_duomenys: 'įvykio data: po 1944 m.; įvykio data: 1944 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-009
-
+- susijęs iš [[objektai/asmenys/Juozas Urbšys.md#claim-t-19026|Juozas Urbšys]]: Juozui Urbšiui prireikė skristi į Kauną konsultuotis, nes sovietai reikalavo įsileisti į Lietuvą savo karines bazes.
+- susijęs iš [[objektai/asmenys/Juozas Urbšys.md#claim-t-19028|Juozas Urbšys]]: 1939 m. spalio 3 d. Maskvoje Josifas Stalinas spaudė Juozą Urbšį pasirašyti savitarpio pagalbos, Vilniaus perdavimo ir teritorijos perdavimo Vokietijai sutartis.
+- susijęs iš [[objektai/ivykiai/Vilniaus perdavimo sutarties ir SSRS-Lietuvos savitarpio pagalbos sutarties pasirašymas (1939 m. spalio 10 d.).md#claim-t-75296|Vilniaus perdavimo sutarties ir SSRS-Lietuvos savitarpio pagalbos sutarties pasirašymas (1939 m. spalio 10 d.)]]: Prieš J. Urbšio kelionę į Maskvą pradėta dalinė Lietuvos kariuomenės demobilizacija.
+- susijęs iš [[objektai/ivykiai/Vilniaus perdavimo sutarties ir SSRS-Lietuvos savitarpio pagalbos sutarties pasirašymas (1939 m. spalio 10 d.).md#claim-t-75300|Vilniaus perdavimo sutarties ir SSRS-Lietuvos savitarpio pagalbos sutarties pasirašymas (1939 m. spalio 10 d.)]]: 1939 m. spalio 3 d. Maskvoje Josifas Stalinas spaudė Juozą Urbšį pasirašyti savitarpio pagalbos, Vilniaus perdavimo ir dalies Lietuvos teritorijos perdavimo Vokietijai sutartis.
+- susijęs iš SSRS siūlyta sutartis dėl dalies pietvakarių Lietuvos teritorijos perdavimo Vokietijai: Spalio 3 d. Maskvoje Josifas Stalinas spaudė J. Urbšį pasirašyti sutartį dėl dalies pietvakarių Lietuvos teritorijos perdavimo Vokietijai.
+- susijęs iš Maskva: 1939 m. spalio 3 d. Maskvoje Josifas Stalinas spaudė Juozą Urbšį pasirašyti sutartis dėl savitarpio pagalbos, Vilniaus krašto ir pietvakarių Lietuvos.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -276,19 +319,3 @@ periodo_grupes:
   statusas: verified
   pagrindžia:
     - t-012
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija]]
-- [[objektai/zodynas/demobilizacija]]
-- [[objektai/posakiai/karas po karo]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/ivykiai/Vilniaus perdavimo sutarties ir SSRS-Lietuvos savitarpio pagalbos sutarties pasirašymas (1939 m. spalio 10 d.)]]
-- [[objektai/asmenys/J. Stalinas]]
-- [[objektai/asmenys/Karlas Marksas]]
-- [[objektai/ivykiai/Lietuvos himno „Tautiška giesmė“ uždraudimas (1950 m.)]]
-- [[objektai/grupes/Lietuvos komunistų partija]]
-- [[objektai/grupes/Sovietų Sąjungos komunistų partija]]
-- [[objektai/zodynas/rusinimas]]
-- [[objektai/zodynas/rusinimas dvikalbystė]]

@@ -30,6 +30,8 @@ Vartojama šaltiniotyros ir istoriografijos klasifikavimo kalboje.
 - t-001
   global_id: t-56938
   teiginys: 'Viduramžių rašytiniai istoriniai šaltiniai skirstomi į dokumentus, juridinius ir pasakojamuosius, arba naratyvinius, šaltinius.'
+  sudarymo_pagrindimas: 'Teiginys apibrėžia naratyvinius šaltinius ir yra paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_person: [[objektai/asmenys/Vygandas|Vygandas]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Livonija'
   pagrindžia:
     - c-001
 
@@ -62,9 +64,3 @@ Vartojama šaltiniotyros ir istoriografijos klasifikavimo kalboje.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/Dusburgas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Vygandas]]

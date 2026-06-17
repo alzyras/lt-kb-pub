@@ -21,9 +21,10 @@ Selma Lagerlöf KRISTAUS ROŽES LEGENDA IR KITI PASAKO­ JIMAI.
 - t-001
   global_id: t-34758
   teiginys: 'Selma Lagerlöf už savo literatūros kūrinius buvo gavusi Nobelio premiją.'
+  sudarymo_pagrindimas: 'Pradinis tekstas buvo bibliografinis fragmentas, o citata palaiko faktą apie Nobelio premiją.'
   pagrindžia:
     - c-001
-
+- susijęs iš Kristaus rožės legenda ir kiti pasakojimai: „Kristaus rožės legenda ir kiti pasakojimai“ buvo Selmos Lagerlöf pasakojimų leidinys.
 ## Reikšmingi paminėjimai
 
 - c-001

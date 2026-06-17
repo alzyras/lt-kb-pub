@@ -29,6 +29,11 @@ amziai:
 - t-001
   global_id: t-31986
   teiginys: 'H. Łowmiańskio „Wcielenie Litwy do Polski w 1386“ išspausdintas AW 12 tome 1937 m., p. 36-145.'
+  sudarymo_pagrindimas: 'Fragmentas nepilnas, bet citata pateikia autorių, leidinį, tomą, metus ir puslapius.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Krokuva'
+  temporaliniai_duomenys: 'įvykio data: 1937 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Fragmentas nepilnas, bet citata pateikia autorių, leidinį, tomą, metus ir puslapius.'
   pagrindžia:
     - c-001
 

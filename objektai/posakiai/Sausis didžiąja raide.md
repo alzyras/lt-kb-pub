@@ -38,6 +38,9 @@ amziai:
 - t-001
   global_id: t-41464
   teiginys: 'Posakis „Sausis didžiąja raide“ siejamas su Sausio 13-ąja ir 1991 metų naktimi, kai Lietuva laimėjo ištvermės mūšį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/didvalstybė|didvalstybė]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1990 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -45,6 +48,9 @@ amziai:
 - t-002
   global_id: t-41465
   teiginys: 'Formuluotė „Sausis didžiąja raide“ Lietuvoje siejama su Sausio 13-ąja ir 1991 metų nakties atmintimi.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/didvalstybė|didvalstybė]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1990 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -91,8 +97,3 @@ amziai:
   pagrindžia:
     - t-001
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/didvalstybė]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

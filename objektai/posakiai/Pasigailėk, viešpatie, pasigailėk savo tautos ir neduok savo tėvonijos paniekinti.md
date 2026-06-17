@@ -23,6 +23,8 @@ Dusburgietis teigia, kad tuo metu, kai šitai vyko, Kulmo broliai, susirinkę dr
 - t-001
   global_id: t-59147
   teiginys: 'Kulmo broliai, kilmingieji ir miestiečiai meldėsi žodžiais „Pasigailėk, viešpatie, pasigailėk savo tautos ir neduok savo tėvonijos paniekinti“.'
+  sudarymo_pagrindimas: 'Citata palaiko faktą apie maldos žodžius ir jų sakytojus.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/tėvonija|tėvonija]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Kulmas; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
 
@@ -44,8 +46,3 @@ Dusburgietis teigia, kad tuo metu, kai šitai vyko, Kulmo broliai, susirinkę dr
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Sventopelkas]]
-- [[objektai/zodynas/tėvonija]]

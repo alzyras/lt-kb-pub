@@ -30,6 +30,11 @@ Dusburgietis teigia, kad apie brolio Fridricho Holės ir 30 vyrų žūtį Tais p
 - t-001
   global_id: t-60280
   teiginys: 'Fridrichas, vadinamas Hole, su 100 raitelių iš Brandenburgo pilies patraukė į Sūduvą, o grįždamas iš Kirsnavos valsčiaus buvo nukautas su 30 vyrų.'
+  sudarymo_pagrindimas: 'Pradinis teiginys užterštas paaiškinimų ir puslapio triukšmu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_person: [[objektai/asmenys/Markvardas (Ragainės komtūras)|Markvardas (Ragainės komtūras)]]; mentioned_place: Baltija; mentioned_place: Kirsnava; mentioned_place: Semba; mentioned_place: Zelionogradskas'
+  temporaliniai_duomenys: 'įvykio data: po 1372 m.; įvykio data: 1372 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys užterštas paaiškinimų ir puslapio triukšmu.'
   pagrindžia:
     - c-001
 
@@ -61,10 +66,3 @@ Dusburgietis teigia, kad apie brolio Fridricho Holės ir 30 vyrų žūtį Tais p
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kuršiai]]
-- [[objektai/asmenys/Markvardas (Ragainės komtūras)]]
-- [[objektai/grupes/Sūduviai]]
-- [[objektai/ivykiai/Brolio Fridricho Holės ir 30 vyrų žūtis Kirsnavos žygyje]]

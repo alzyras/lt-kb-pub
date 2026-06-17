@@ -44,6 +44,11 @@ Nenurodyta
 - t-001
   global_id: t-75284
   teiginys: '1944 m. vasarą sovietų kariuomenė antrą kartą okupavo Lietuvą ir grąžino stalininį režimą.'
+  sudarymo_pagrindimas: 'Citata leidžia pateikti tikslesnį teiginį apie reokupaciją, neapsiribojant išvadavimo formuluote.'
+  susije_objektai: 'mentioned_place: Estija; mentioned_place: Latvija; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: iki 1945 m.; įvykio data: 1944 m.; įvykio data: 1945 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata leidžia pateikti tikslesnį teiginį apie reokupaciją, neapsiribojant išvadavimo formuluote.'
   pagrindžia:
     - c-001
 
@@ -72,7 +77,3 @@ Nenurodyta
     - t-003
     - t-002
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/Sovietinė Lietuvos reokupacija (1944 m.)]]

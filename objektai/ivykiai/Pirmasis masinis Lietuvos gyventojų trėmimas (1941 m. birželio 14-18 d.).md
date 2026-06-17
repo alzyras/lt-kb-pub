@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Pirmasis masinis Lietuvos gyventojų trėmimas buvo nukreiptas į fizinį šeimų naikinimą. 1941 m. birželio 14–18 d. okupacinė valdžia įvykdė pirmąjį masinį Lietuvos gyventojų trėmimą ir deportavo 17,5 tūkst. žmonių.
+1941 m. birželio 14–18 d. okupacinė valdžia įvykdė pirmąjį masinį Lietuvos gyventojų trėmimą – deportuota 17,5 tūkst. Nematyta masinė deportacija sukrėtė Lietuvą, nes trėmimas buvo nukreiptas į fizinį šeimų naikinimą.
 
 ## Laikotarpis ir datos
 
@@ -45,6 +45,8 @@ Nenurodyta
 - t-001
   global_id: t-110636
   teiginys: 'Pirmasis masinis Lietuvos gyventojų trėmimas buvo nukreiptas į fizinį šeimų naikinimą.'
+  sudarymo_pagrindimas: 'Pradinis teiginys turi vertinamąjį žodį; citata remia tikslesnį glaustą sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -52,6 +54,11 @@ Nenurodyta
 - t-002
   global_id: t-110637
   teiginys: '1941 m. birželio 14–18 d. okupacinė valdžia įvykdė pirmąjį masinį Lietuvos gyventojų trėmimą ir deportavo 17,5 tūkst. žmonių.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie įvykį ir sutampa su citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1941 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie įvykį ir sutampa su citata.'
   pagrindžia:
     - c-002
 
@@ -92,9 +99,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Žydai]]

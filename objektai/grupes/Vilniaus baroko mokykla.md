@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Vilniaus baroko mokykla buvo analogų neturinti baroko architektūrinio stiliaus atmaina. J. K. Glaubicas suformavo analogų neturinčią baroko architektūros atmainą – Vilniaus baroko mokyklą.
+Glaubicas suformavo baroko architektūrinio stiliaus atmainą, neturinčią analogo – Vilniaus baroko mokyklą.
 
 ## Teiginiai
 
@@ -20,6 +20,8 @@ Vilniaus baroko mokykla buvo analogų neturinti baroko architektūrinio stiliaus
 - t-001
   global_id: t-20069
   teiginys: 'Vilniaus baroko mokykla buvo analogų neturinti baroko architektūrinio stiliaus atmaina.'
+  sudarymo_pagrindimas: 'Reikia pašalinti inicialais įvardytą asmenį ir suformuluoti teiginį tiesiogiai apie objektą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/barokas|barokas]]; mentioned_place: Bokštai; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -27,6 +29,11 @@ Vilniaus baroko mokykla buvo analogų neturinti baroko architektūrinio stiliaus
 - t-002
   global_id: t-183195
   teiginys: 'J. K. Glaubicas suformavo analogų neturinčią baroko architektūros atmainą – Vilniaus baroko mokyklą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Reikia išplėsti pavardės inicialus ir pašalinti OCR laužymą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/barokas|barokas]]; mentioned_person: [[objektai/asmenys/Jonas Kristupas Glaubicas|Jonas Kristupas Glaubicas]]; mentioned_place: Bokštai; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -47,8 +54,3 @@ Vilniaus baroko mokykla buvo analogų neturinti baroko architektūrinio stiliaus
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/barokas]]
-- [[objektai/asmenys/Jonas Kristupas Glaubicas]]

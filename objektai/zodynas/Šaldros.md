@@ -27,6 +27,7 @@ Vartojamos formos: `šaldrų`, `prašaleičių`, `prašaleičiai`.
 - t-001
   global_id: t-70422
   teiginys: 'Šaldros buvo į kraštą atklydę prašalaičiai, mėginę įbrukti savo nuomonę apie dievą ir įkurti naują tikybą.'
+  sudarymo_pagrindimas: 'Citata leidžia apibūdinti šaldras kaip atklydusius prašalaičius, siekusius skleisti naują tikybą.'
   pagrindžia:
     - c-001
     - c-002
@@ -37,7 +38,10 @@ Vartojamos formos: `šaldrų`, `prašaleičių`, `prašaleičiai`.
   teiginys: '`Šaldrų / prašaleičių` šiame tekste reiškia svetimus atvykėlius ar prašalaičius.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/daiktai/Namas.md#claim-t-08307|Namas]]: Pirmasis giriose gyvenusių žmonių trobesys vadintas nams, namas arba namaitis.
+- susijęs iš [[objektai/daiktai/Ūkės lazda.md#claim-t-08362|Ūkės lazda]]: Lazda siejama su krive krivaičiu ir kreiva lazda.
+- susijęs iš [[objektai/zodynas/Nomadžiai.md#claim-t-07634|nomadžiai]]: Nomadžiais prašaliečiai vadino visą tautą, nes šis vardas aiškintas kaip žmonės, gyvenantys namuose.
+- susijęs iš [[objektai/zodynas/Žiuponai.md#claim-t-07692|žiuponai]]: Prašaleičiai lietuvių sau ponus vadino žiuponais, o tokie valdžionai IX amžiuje minimi Žemaičių krašte.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -65,10 +69,3 @@ Vartojamos formos: `šaldrų`, `prašaleičių`, `prašaleičiai`.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Namas]]
-- [[objektai/zodynas/Nomadžiai|nomadžiai]]
-- [[objektai/daiktai/Ūkės lazda]]
-- [[objektai/zodynas/Žiuponai|žiuponai]]

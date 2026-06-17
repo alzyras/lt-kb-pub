@@ -3,6 +3,12 @@ tipas: saltinis
 pavadinimas: 'Laiškai nuo Kražantės upės kranto'
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+datos:
+  - '1830 m.'
+  - '1831 m.'
+  - '1855 m.'
+date_start: '1830'
+date_end: '1855'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -10,6 +16,8 @@ tags:
   - saltinis
   - sukilimas
   - upė
+amziai:
+  - 'XIX'
 ---
 # Laiškai nuo Kražantės upės kranto
 
@@ -23,6 +31,11 @@ Jos puslapiuose spausdinti straipsniai, pavadinti Laiškais nuo Kražantės upė
 - t-001
   global_id: t-88195
   teiginys: 'Michałas Balińskis Varšuvos laikraštyje pradėjo spausdinti „Laiškus nuo Kražantės upės kranto“ apie Lietuvos kultūrinio gyvenimo problemas.'
+  sudarymo_pagrindimas: 'Citata pagrindžia, kas skelbė laiškus ir kokias problemas juose nagrinėjo.'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Varšuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1830-1831; įvykio data: 1831 m.; įvykio data: 1855 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia, kas skelbė laiškus ir kokias problemas juose nagrinėjo.'
   pagrindžia:
     - c-002
 
@@ -30,6 +43,8 @@ Jos puslapiuose spausdinti straipsniai, pavadinti Laiškais nuo Kražantės upė
 - t-002
   global_id: t-88196
   teiginys: '„Laiškuose nuo Kražantės upės kranto“ minima ano meto žemaičių ir lietuvių kultūrinio gyvenimo realijų.'
+  sudarymo_pagrindimas: 'Pradinis teiginys per šnekamasis; citata leidžia suformuluoti aiškų faktą apie šaltinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]'
   pagrindžia:
     - c-001
 
@@ -37,6 +52,8 @@ Jos puslapiuose spausdinti straipsniai, pavadinti Laiškais nuo Kražantės upė
 - t-003
   global_id: t-88197
   teiginys: '„Laiškai nuo Kražantės upės kranto“ padeda suprasti XIX a. penktojo ir šeštojo dešimtmečių visuomeninį ir kultūrinį pagyvėjimą Lenkijoje bei Lietuvoje.'
+  sudarymo_pagrindimas: 'Teiginys faktiškai pagrįstas, bet reikia pašalinti OCR skiemenavimą ir suformuluoti tvarkingą sakinį.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 

@@ -20,6 +20,8 @@ tags:
 - t-001
   global_id: t-22357
   teiginys: 'Žyniai, vaidilos ir raganos turėjo sergėti „pirmines“ šventvietes.'
+  sudarymo_pagrindimas: 'Teiginys yra trumpas, gramatiškas ir tiksliai paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/laumės|laumės]]; mentioned_person: [[objektai/asmenys/Vaidila|Vaidila]]'
   pagrindžia:
     - c-001
 
@@ -27,6 +29,11 @@ tags:
 - t-002
   global_id: t-183487
   teiginys: '„Pirmines“ šventvietes turėjo sergėti žyniai, vaidilos arba raganos.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra išbaigta faktinė sentence apie žynius, vaidilas ir raganas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/laumės|laumės]]; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_person: [[objektai/asmenys/Vaidila|Vaidila]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -63,9 +70,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Vaidila]]
-- [[objektai/zodynas/laumės]]
-- [[objektai/zodynas/pagonybė]]

@@ -21,6 +21,7 @@ Dominikonų ordino namas.
 - t-001
   global_id: t-86178
   teiginys: 'Dominikonų ordino namas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]'
   pagrindžia:
     - c-001
 

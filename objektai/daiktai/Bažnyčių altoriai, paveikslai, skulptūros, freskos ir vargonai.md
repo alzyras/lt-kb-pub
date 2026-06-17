@@ -41,6 +41,8 @@ Nenurodyta
 - t-001
   global_id: t-77921
   teiginys: 'Iki XVI a. vidurio vienuolynų bažnyčiose buvo prabangūs altoriai, daug paveikslų, skulptūrų ir freskų, o nuo XV a. pabaigos ir vargonai.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, todėl reikia užbaigti sakinį pagal citatą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_place: Kaunas; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -62,7 +64,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Pranciškonų ordinas]]

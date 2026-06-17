@@ -21,9 +21,13 @@ Tačiau amžininkas rašytojas Sulikovskis pasakoja tiktai, kad, užsienio papro
 - t-001
   global_id: t-88099
   teiginys: 'Sulikovskis pasakojo, kad Kasparo Bekešo palaikai užsienietišku papročiu buvo palaidoti po apvaliu bokštu prie Vilniaus.'
+  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytą Sulikovskio pasakojimą.'
+  susije_objektai: 'mentioned_place: Vilnius'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Kasparas Bekešas.md#claim-t-87532|Kasparas Bekešas]]: Sulikovskis pasakojo, kad Kasparo Bekešo palaikai užsienio papročiu buvo palaidoti po apvaliu bokštu.
+- susijęs iš [[objektai/paprociai/Arijonų ir svetimšališkas laidojimas už miesto ant kalno.md#claim-t-87261|Arijonų ir svetimšališkas laidojimas už miesto ant kalno]]: Pagal vietinį Vilniaus paprotį Kasparas Bekešas dėl arijonų tikėjimo turėjęs būti palaidotas ant kalno už miesto.
+- susijęs iš Kalnas prie Vilnelės: Kasparas Bekešas buvo palaidotas ant kalno už Vilniaus miesto, po apvaliu bokštu.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -54,7 +58,3 @@ Tačiau amžininkas rašytojas Sulikovskis pasakoja tiktai, kad, užsienio papro
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/paprociai/Arijonų ir svetimšališkas laidojimas už miesto ant kalno]]

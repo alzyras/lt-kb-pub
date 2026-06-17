@@ -18,6 +18,11 @@ Grafas Rupertas atsisakė Romos imperijos sosto, į kurį buvo kviečiamas.
 - t-001
   global_id: t-186250
   teiginys: 'Grafas Rupertas atsisakė Romos imperijos sosto, į kurį buvo kviečiamas.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatinis ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]'
   pagrindžia:
     - c-001
 
@@ -39,8 +44,3 @@ Grafas Rupertas atsisakė Romos imperijos sosto, į kurį buvo kviečiamas.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Teutonai]]

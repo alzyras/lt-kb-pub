@@ -45,6 +45,11 @@ Nenurodyta
 - t-001
   global_id: t-34562
   teiginys: '1383 m. spalio 21 d. Kryžiuočių Ordinas Tapiau miestelyje be iškilmių pakrikštijo Vytautą.'
+  sudarymo_pagrindimas: 'Teiginys yra konkretus faktinis sakinys ir tiksliai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/asmenys/Vytautas (Lietuvos valdovas, 1384 m.)|Vytautas (Lietuvos valdovas, 1384 m.)]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_place: Ragainė; mentioned_place: Trakai'
+  temporaliniai_duomenys: 'įvykio data: 1383 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus faktinis sakinys ir tiksliai paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -64,9 +69,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/zodynas/komtūras]]
-- [[objektai/zodynas/įgula]]

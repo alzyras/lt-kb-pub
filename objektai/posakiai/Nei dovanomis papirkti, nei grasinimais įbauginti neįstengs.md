@@ -23,6 +23,8 @@ Vytautas, vėl su įkarščiu išsakęs savo didelį norą stojęs prieš karali
 - t-001
   global_id: t-86865
   teiginys: 'Krokuvos vyskupas Olesnickis Vytautui atsakė, kad jo nei dovanomis papirkti, nei grasinimais įbauginti neįstengs.'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo nutrūkęs OCR fragmentas, o citata aiškiai palaiko perrašytą sakinį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Mantas|Mantas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -59,9 +61,3 @@ Vytautas, vėl su įkarščiu išsakęs savo didelį norą stojęs prieš karali
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Mantas]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/vaivada]]

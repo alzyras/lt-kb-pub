@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Miechovita savo metraščiuose piktinosi Aleksandro Balinskio gydymu Vilniuje, per kurį karalius Aleksandras vos neužduso garo vonioje.
+Miechovita, Bielskis, o ypač Strijkovskis savo metraščiuose, su­ pykę už karaliaus Aleksandro gydy­ mą Vilniuje, kuris vos neužduso per ilgai laikomas stiprių žolių garo vo­ nioje, savo metraščiuose vadino jį 233 ## Puslapis 250 VILNIAUS MIESTO ISTORIJA II.
 
 ## Teiginiai
 
@@ -23,6 +23,8 @@ Miechovita savo metraščiuose piktinosi Aleksandro Balinskio gydymu Vilniuje, p
 - t-001
   global_id: t-88452
   teiginys: 'Miechovita savo metraščiuose piktinosi Aleksandro Balinskio gydymu Vilniuje, per kurį karalius Aleksandras vos neužduso garo vonioje.'
+  sudarymo_pagrindimas: 'Teiginį galima padaryti aiškesnį, išlaikant citatoje pateiktą faktinį pagrindą.'
+  susije_objektai: 'territory: Krokuva; territory: Vilnius; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_person: [[objektai/autoriai/Miechovita|Miechovita]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Krokuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

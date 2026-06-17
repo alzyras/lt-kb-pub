@@ -3,6 +3,9 @@ tipas: asmuo
 pavadinimas: 'Jonas Mačiulis-Maironis'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos: []
+date_start: ''
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -10,12 +13,15 @@ tags:
   - karas
   - kunigas
   - tauta
+amziai:
+  - 'M'
+periodo_grupes: []
 ---
 # Jonas Mačiulis-Maironis
 
 ## Santrauka
 
-J. Stalino valdymo metais iš bibliotekų buvo pašalintos Maironio, Vinco Kudirkos, Vinco Krėvės-Mickevičiaus ir kitų autorių knygos. Jonas Mačiulis-Maironis tarpukariu minėtas kaip vienas lietuvių literatūros klasikų, dar vaikščiojusių Kauno gatvėmis. Jono Mačiulio-Maironio lietuviškai rašyta poezija knygoje apibūdinta kaip romantiška, daininga, lyriška ir savotiškai kovinga.
+Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Joną Mačiulį-Maironį ir kt.) įamžinti savo šalies praeitį raštu. Čiurlionis, ir tautos Atgimimo dainius poetas Maironis, tautos patriarchas J. Kraševskio) kūryba, o romantiškiausia, dainingiausia, lyriškiausia, savotiškai kovinga buvo kunigo Jono Mačiulio-Maironio lietuvių kalba rašyta poezija.
 
 ## Teiginiai
 
@@ -23,6 +29,8 @@ J. Stalino valdymo metais iš bibliotekų buvo pašalintos Maironio, Vinco Kudir
 - t-001
   global_id: t-63722
   teiginys: 'J. Stalino valdymo metais iš bibliotekų buvo pašalintos Maironio, Vinco Kudirkos, Vinco Krėvės-Mickevičiaus ir kitų autorių knygos.'
+  sudarymo_pagrindimas: 'Teiginys paremtas citata, bet suvienodintas vardų pateikimas ir palikta aiški faktinė forma.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-005
 
@@ -30,6 +38,8 @@ J. Stalino valdymo metais iš bibliotekų buvo pašalintos Maironio, Vinco Kudir
 - t-002
   global_id: t-63723
   teiginys: 'Jonas Mačiulis-Maironis tarpukariu minėtas kaip vienas lietuvių literatūros klasikų, dar vaikščiojusių Kauno gatvėmis.'
+  sudarymo_pagrindimas: 'Citata palaiko faktą apie Maironio priskyrimą literatūros klasikams, o fragmentas buvo nutrūkęs.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/Jidiš|Jidiš]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/V. Krėvė-Mickevičius|V. Krėvė-Mickevičius]]; mentioned_place: Kaunas; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -37,6 +47,11 @@ J. Stalino valdymo metais iš bibliotekų buvo pašalintos Maironio, Vinco Kudir
 - t-003
   global_id: t-63724
   teiginys: 'Jono Mačiulio-Maironio lietuviškai rašyta poezija knygoje apibūdinta kaip romantiška, daininga, lyriška ir savotiškai kovinga.'
+  sudarymo_pagrindimas: 'Pradinis tekstas yra fragmentiškas ir turi OCR triukšmo.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/autoriai/Vincas Kudirka|Vincas Kudirka]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/autoriai/Maironis|Maironis]]; mentioned_place: Kaimas'
+  temporaliniai_duomenys: 'įvykio data: 1895 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis tekstas yra fragmentiškas ir turi OCR triukšmo.'
   pagrindžia:
     - c-002
 
@@ -44,6 +59,11 @@ J. Stalino valdymo metais iš bibliotekų buvo pašalintos Maironio, Vinco Kudir
 - t-004
   global_id: t-63725
   teiginys: 'Poetas Maironis laikomas tautos Atgimimo dainiumi Lietuvos Respublikos ištakų kontekste.'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo nutrūkęs fragmentas, o citata palaiko pilną sakinį apie Maironį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_person: [[objektai/autoriai/Maironis|Maironis]]; mentioned_place: Lietuva; mentioned_place: Rusija'
+  temporaliniai_duomenys: 'įvykio data: po 1795 m.; įvykio data: 1795 m.; įvykio data: 1918-1919; įvykio data: 1919 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys buvo nutrūkęs fragmentas, o citata palaiko pilną sakinį apie Maironį.'
   pagrindžia:
     - c-003
 
@@ -51,6 +71,8 @@ J. Stalino valdymo metais iš bibliotekų buvo pašalintos Maironio, Vinco Kudir
 - t-005
   global_id: t-63726
   teiginys: 'Po J. Stalino mirties atšilimo laikotarpiu buvo išspausdinta Maironio, Vinco Mykolaičio-Putino ir kitų lietuvių autorių kūrinių.'
+  sudarymo_pagrindimas: 'Citata leidžia patikslinti, kad kalbama apie Maironio kūrinių publikavimą kartu su kitų autorių kūriniais.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/atšilimas|atšilimas]]; mentioned_person: [[objektai/asmenys/Mikalojus Konstantinas Čiurlionis|Mikalojus Konstantinas Čiurlionis]]'
   pagrindžia:
     - c-004
 
@@ -58,6 +80,11 @@ J. Stalino valdymo metais iš bibliotekų buvo pašalintos Maironio, Vinco Kudir
 - t-006
   global_id: t-63727
   teiginys: 'Suvokimas, kad tautos ateitis priklauso nuo atminties, įkvėpė Joną Mačiulį-Maironį raštu įamžinti Lietuvos praeitį.'
+  sudarymo_pagrindimas: 'Teiginys išbaigtai perteikia citatoje nurodytą Maironio ryšį su Lietuvos praeities įamžinimu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/asmenys/Mikalojus Akelaitis|Mikalojus Akelaitis]]; mentioned_object: [[objektai/posakiai/„Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.“|„Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.“]]; mentioned_person: [[objektai/autoriai/Kraševskis|Kraševskis]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1859 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys išbaigtai perteikia citatoje nurodytą Maironio ryšį su Lietuvos praeities įamžinimu.'
   pagrindžia:
     - c-006
 
@@ -184,20 +211,3 @@ J. Stalino valdymo metais iš bibliotekų buvo pašalintos Maironio, Vinco Kudir
   statusas: verified
   pagrindžia:
     - t-006
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bajorai]]
-- [[objektai/zodynas/Jidiš]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/zodynas/kunigas]]
-- [[objektai/grupes/Žydai]]
-- [[objektai/posakiai/„Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.“]]
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/zodynas/atšilimas]]
-- [[objektai/posakiai/Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga|Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.]]
-- [[objektai/zodynas/destalinizacija atšilimo laikotarpis]]
-- [[objektai/zodynas/destalinizacija postalininis metas atšilimo laikotarpis]]
-- [[objektai/paprociai/Žydų atskiras bendruomeninis gyvenimas ir hebrajų bei jidiš mokyklos]]

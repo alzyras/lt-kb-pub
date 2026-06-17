@@ -23,6 +23,8 @@ Vilniaus praeities žinovas Mikalojus Malinovskis padėjo istorikui pasinaudoti 
 - t-001
   global_id: t-87553
   teiginys: 'Mikalojus Malinovskis sutvarkė Radvilų archyvą Kardinalijoje pagal gerai parengtą schemą ir tuo metu buvo Radvilų reikalų prokuratorius.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai apibūdina Malinovskio veiklą ir pareigas, remiamas citata.'
+  susije_objektai: 'mentioned_place: Kardinalija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -30,9 +32,13 @@ Vilniaus praeities žinovas Mikalojus Malinovskis padėjo istorikui pasinaudoti 
 - t-002
   global_id: t-87554
   teiginys: 'Vilniaus praeities žinovas Mikalojus Malinovskis padėjo istorikui pasinaudoti Radvilų Nesvyžiaus archyvu.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys ir sutampa su citatos informacija.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/senatas|senatas]]; mentioned_person: [[objektai/autoriai/S. Daukantas|S. Daukantas]]; mentioned_place: Lietuva; mentioned_place: Nesvyžius; mentioned_place: Vilnius; mentioned_place: Ščorsai'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/asmenys/Adomas Chreptavičius.md#claim-t-87606|Adomas Chreptavičius]]: Grafas Adomas Chreptavičius tyrinėtojui plačiai atvėrė savo Ščorsų bibliotekos turtus.
+- susijęs iš Radvilų archyvas Kardinalijoje: Radvilų archyve Kardinalijoje buvo saugomi vertingi istorijos šaltiniai, prie kurių prieigą palengvino Mikalojus Malinovskis.
+- susijęs iš Ščorsai: Grafas Adomas Chreptavičius tyrinėtojui atvėrė Ščorsų bibliotekos turtus.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -81,10 +87,3 @@ Vilniaus praeities žinovas Mikalojus Malinovskis padėjo istorikui pasinaudoti 
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/schema]]
-
-### Susiję objektai
-- [[objektai/zodynas/senatas]]

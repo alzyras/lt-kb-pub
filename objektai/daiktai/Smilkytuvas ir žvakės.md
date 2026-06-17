@@ -42,6 +42,8 @@ Nenurodyta
 - t-001
   global_id: t-59706
   teiginys: 'Pasak mirštančio Kulmo pilėno, Marija ėjo paskui dvi mergeles su degančiomis žvakėmis ir smilkė žuvusiuosius smilkytuvu.'
+  sudarymo_pagrindimas: 'Citata leidžia aiškiai susieti smilkytuvą ir žvakes su stebuklo pasakojimu.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Marija|Marija]]; mentioned_place: Kulmas; mentioned_place: Pilėnai; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -71,12 +73,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/laidotuvės]]
-
-### Susiję objektai
-- [[objektai/asmenys/Marija]]
-- [[objektai/asmenys/Mergelė Marija]]
-- [[objektai/posakiai/Trečią dieną mirsi ir džiaukis, kad tavo siela kaip ir kitos žuvusiųjų sielos nuskris į amžinas linksmybes]]

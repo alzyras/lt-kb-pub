@@ -21,6 +21,7 @@ Sapiegos. Sapiega, gavęs iš Višnioveckių saugumo garantijas, pasidavė kartu
 - t-001
   global_id: t-40316
   teiginys: 'LDK arklidininkas M. P. Sapiega vadovavo mūšio lauke likusiems pėstininkams, dragūnams ir raitarams.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Respublikonai|Respublikonai]]; mentioned_group: [[objektai/grupes/Sapiegos|Sapiegos]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/dragūnai|dragūnai]]; mentioned_object: [[objektai/zodynas/raitarai|raitarai]]; mentioned_person: [[objektai/asmenys/B. P. Sapiega|B. P. Sapiega]]'
   pagrindžia:
     - c-001
 
@@ -28,9 +29,12 @@ Sapiegos. Sapiega, gavęs iš Višnioveckių saugumo garantijas, pasidavė kartu
 - t-002
   global_id: t-40317
   teiginys: 'LDK arklidininkas M. P. Sapiega, gavęs Višnioveckių saugumo garantijas, pasidavė respublikonams su likusia kariuomene.'
+  sudarymo_pagrindimas: 'Sakinys aiškiai nurodo M. P. Sapiegos veiksmą ir yra paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Respublikonai|Respublikonai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/B. P. Sapiega|B. P. Sapiega]]'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/asmenys/M. Vaina.md#claim-t-39781|M. Vaina]]: Breslaujos seniūnas M. Vaina buvo nužudytas kartu su M. P. Sapiega ir rotmistru Kurovičiumi.
+- susijęs iš [[objektai/grupes/Sapiegų kariuomenė.md#claim-t-78447|Sapiegų kariuomenė]]: M. P. Sapiega pasidavė respublikonams kartu su visa likusia Sapiegų kariuomene.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -71,12 +75,3 @@ Sapiegos. Sapiega, gavęs iš Višnioveckių saugumo garantijas, pasidavė kartu
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Respublikonai]]
-- [[objektai/grupes/Sapiegos]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/zodynas/dragūnai]]
-- [[objektai/zodynas/raitarai]]
-- [[objektai/grupes/Sapiegų kariuomenė]]

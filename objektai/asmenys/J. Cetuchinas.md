@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-J. Cetuchinas per pirmąjį Jiezno puolimą nuvedė savo grupę pas bolševikus ir įsakė jai pasiduoti.
+Cetuchinas savo vadovaujamą grupę nuvedė pas bolševikus, liepęs nešaudyti, o vėliau tiesiog įsakydamas jiems pasiduoti.
 
 ## Teiginiai
 
@@ -20,9 +20,11 @@ J. Cetuchinas per pirmąjį Jiezno puolimą nuvedė savo grupę pas bolševikus 
 - t-001
   global_id: t-40154
   teiginys: 'J. Cetuchinas per pirmąjį Jiezno puolimą nuvedė savo grupę pas bolševikus ir įsakė jai pasiduoti.'
+  sudarymo_pagrindimas: 'Perrašyta į aiškesnį sakinį su įvardytu asmeniu, veiksmu ir kontekstu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Jieznas; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/S. Zaskevičius.md#claim-t-40414|S. Zaskevičius]]: Vasario 10 d. rytą S. Zaskevičiaus vadovaujama sustiprintos kuopos dydžio rinktinė artėjo prie Jiezno.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -42,7 +44,3 @@ J. Cetuchinas per pirmąjį Jiezno puolimą nuvedė savo grupę pas bolševikus 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Rusai]]

@@ -20,6 +20,8 @@ Pasirodė istorinių romanų, dramų, filmų, augo nauja menininkų karta, nepal
 - t-001
   global_id: t-20866
   teiginys: 'Sovietmečiu nepavyko visiškai parklupdyti Lietuvos kultūros ir sugrūsti jos į „Prokrusto komunistinę lovą“.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir tiksliai perteikia citatos mintį.'
+  susije_objektai: 'mentioned_object: [[objektai/posakiai/„visi lygūs“|„visi lygūs“]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -27,6 +29,11 @@ Pasirodė istorinių romanų, dramų, filmų, augo nauja menininkų karta, nepal
 - t-002
   global_id: t-183502
   teiginys: 'Sovietmečiu menininkams tolstant nuo socialistinio realizmo nepavyko Lietuvos kultūros sugrūsti į „Prokrusto komunistinę lovą“.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir jungia kelias detales, o citata palaiko glaustesnį faktą apie posakį.'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: SSRS'
   pagrindžia:
     - c-002
 
@@ -70,7 +77,3 @@ Pasirodė istorinių romanų, dramų, filmų, augo nauja menininkų karta, nepal
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/posakiai/„visi lygūs“]]

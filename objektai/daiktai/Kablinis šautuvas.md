@@ -43,6 +43,7 @@ Nenurodyta
 - t-001
   global_id: t-78652
   teiginys: 'Kablinis šautuvas buvo 22 mm kalibro ginklas, datuojamas XV a. pabaiga-XVI a. pradžia.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]'
   pagrindžia:
     - c-001
 
@@ -50,6 +51,8 @@ Nenurodyta
 - t-002
   global_id: t-78653
   teiginys: 'Kablinio šautuvo parako užtaisas per specialią angą būdavo uždegamas smilkstančiu virbu arba dagtimi.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie kablinio šautuvo veikimą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Parakas|Parakas]]; mentioned_object: [[objektai/zodynas/gurguolė|gurguolė]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]'
   pagrindžia:
     - c-002
 
@@ -57,9 +60,11 @@ Nenurodyta
 - t-003
   global_id: t-78654
   teiginys: 'Kablinio šautuvo apačioje pritvirtintas žemyn nukreiptas kablys buvo skirtas stipriai šūvio atatrankai sušvelninti.'
+  sudarymo_pagrindimas: 'Pradinis teiginys per ilgas, bet citata palaiko glaustesnį faktą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Parakas|Parakas]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]'
   pagrindžia:
     - c-003
-
+- susijęs iš [[objektai/asmenys/Zaberezinskis.md#claim-t-40543|Zaberezinskis]]: Dalis maršalkos Zaberezinskio karių išsiveržė į priekį, bet totoriai juos atmušė.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -118,16 +123,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/transportas]]
-
-### Susiję objektai
-- [[objektai/asmenys/Kopčius]]
-- [[objektai/daiktai/Mietas]]
-- [[objektai/daiktai/Parakas]]
-- [[objektai/zodynas/gurguolė]]
-- [[objektai/zodynas/Miera|miera]]
-- [[objektai/daiktai/Šautuvai]]
-- [[objektai/asmenys/Zaberezinskis]]

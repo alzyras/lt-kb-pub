@@ -48,6 +48,8 @@ Nenurodyta
 - t-001
   global_id: t-19594
   teiginys: 'Rytprūsiuose slapta spausdinta tradicinio raidyno lietuviška spauda buvo nelegaliai platinama Lietuvoje.'
+  sudarymo_pagrindimas: 'Pradinis teiginys turi neįvardytą veikėją, o citata leidžia aiškiau suformuluoti faktą apie spaudą.'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Rytprūsiai'
   pagrindžia:
     - c-001
 
@@ -55,6 +57,11 @@ Nenurodyta
 - t-002
   global_id: t-19595
   teiginys: 'Spaudos draudimo laikotarpiu Rytprūsiuose išleista daugiau kaip 1 800 lietuviškų knygų pavadinimų Didžiajai Lietuvai.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir pagrįstas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Rytprūsiai'
+  temporaliniai_duomenys: 'įvykio data: 1939 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, faktinis ir pagrįstas citata.'
   pagrindžia:
     - c-002
 
@@ -62,6 +69,14 @@ Nenurodyta
 - t-003
   global_id: t-183300
   teiginys: 'Valdžios ir žandarų bausmės knygnešiams nesustabdė lietuviškos spaudos srauto į Lietuvą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata pagrindžia faktą apie lietuviškos spaudos srautą, o įvestyje yra skulptūros antraštės ir puslapio triukšmo.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Rytprūsiai'
+  temporaliniai_duomenys: 'įvykio data: 1939 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia faktą apie lietuviškos spaudos srautą, o įvestyje yra skulptūros antraštės ir puslapio triukšmo.'
   pagrindžia:
     - c-002
 
@@ -104,10 +119,3 @@ Nenurodyta
   pagrindžia:
     - t-003
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/paprociai/Kontrabandinė knygnešystė ir nelegalus lietuviškos spaudos platinimas]]
-- [[objektai/zodynas/knygnešystė]]
-- [[objektai/zodynas/knygnešystė knygnešiai]]

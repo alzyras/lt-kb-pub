@@ -19,7 +19,7 @@ amziai:
 
 ## Santrauka
 
-Knygos autorius 1401 m. aktą vertino kaip didelį Lietuvos atsipalaidavimo nuo Lenkijos žingsnį ir Krėvės unijos „remontą“.
+Turime atvirai pasisa­ kyti, kad 1401 m. aktas yra didelis žingsnis pirmyn Lietuvos nuo Lenkijos atsipalaidavimo kely, ir didelis „remontas“ Krė­ vės unijoj, vadinamoj Lietuvos inkorporacija ir net aneksija.
 
 ## Teiginiai
 
@@ -27,6 +27,11 @@ Knygos autorius 1401 m. aktą vertino kaip didelį Lietuvos atsipalaidavimo nuo 
 - t-001
   global_id: t-35997
   teiginys: 'Knygos autorius 1401 m. aktą vertino kaip didelį Lietuvos atsipalaidavimo nuo Lenkijos žingsnį ir Krėvės unijos „remontą“.'
+  sudarymo_pagrindimas: 'Teiginys perteikia šaltinio vertinimą, todėl reikia aiškesnės atribucijos.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Personalinė unija|Personalinė unija]]; mentioned_object: [[objektai/zodynas/inkorporacija|inkorporacija]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1401 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys perteikia šaltinio vertinimą, todėl reikia aiškesnės atribucijos.'
   pagrindžia:
     - c-001
 
@@ -47,11 +52,3 @@ Knygos autorius 1401 m. aktą vertino kaip didelį Lietuvos atsipalaidavimo nuo 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Personalinė unija|Personalinė unija (unija)]]
-- [[objektai/zodynas/inkorporacija]]
-- [[objektai/zodynas/Miera|miera]]
-- [[objektai/zodynas/unija]]
-- [[objektai/zodynas/aneksija]]

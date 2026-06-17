@@ -21,6 +21,8 @@ Spinta XI, Nr. 18 sakoma: terra Dobrynensis et con­ finia Culmensia [Dobrynės 
 - t-001
   global_id: t-88274
   teiginys: 'Slaptojo archyvo dokumentai mini daugelio dvasininkų nužudymą per Dobrynės žemės nusiaubimą.'
+  sudarymo_pagrindimas: 'Citata leidžia suformuluoti faktą apie dokumentų turinį, pašalinant OCR nuotrupas.'
+  susije_objektai: 'mentioned_place: Dobrynė'
   pagrindžia:
     - c-001
 
@@ -28,6 +30,8 @@ Spinta XI, Nr. 18 sakoma: terra Dobrynensis et con­ finia Culmensia [Dobrynės 
 - t-002
   global_id: t-88275
   teiginys: 'Slaptojo archyvo dokumente nurodyta, kad per antpuolį kentėjo Dobrynės žemė ir kaimyninės Kulmo žemės.'
+  sudarymo_pagrindimas: 'Citata palaiko konkretų dokumente užfiksuotą faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Grigalius (vicekancleris)|Grigalius (vicekancleris)]]; mentioned_place: Dobrynė; mentioned_place: Dobrynės žemė; mentioned_place: Kulmas'
   pagrindžia:
     - c-002
 

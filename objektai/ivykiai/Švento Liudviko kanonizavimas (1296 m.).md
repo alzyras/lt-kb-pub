@@ -45,6 +45,12 @@ Nenurodyta
 - t-001
   global_id: t-62544
   teiginys: '1296 m. popiežius Bonifacas VIII kanonizavo Liudviką, Prancūzijos karalių.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytą kanonizavimo faktą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Bonifacas VIII|Bonifacas VIII]]; mentioned_place: Prancūzija'
+  temporaliniai_duomenys: 'įvykio data: 1296 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia citatoje nurodytą kanonizavimo faktą.'
   pagrindžia:
     - c-001
 
@@ -64,8 +70,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Bonifacas VIII|Bonifacas VIII (arkivyskupas, XIII–XIV a.)]]
-- [[objektai/asmenys/Liudvikas (Prancūzijos karalius)]]

@@ -26,6 +26,11 @@ Dusburgietis teigia, kad stankiewicz J.
 - t-001
   global_id: t-61297
   teiginys: 'J. Stankiewicziaus „Twierdza Toruń“ publikuota 1972 m. ZHPB 37 tomo 4 sąsiuvinyje.'
+  sudarymo_pagrindimas: 'Citata pagrindžia autorių, pavadinimą ir publikavimo duomenis.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
+  temporaliniai_duomenys: 'įvykio data: 1972 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia autorių, pavadinimą ir publikavimo duomenis.'
   pagrindžia:
     - c-001
 

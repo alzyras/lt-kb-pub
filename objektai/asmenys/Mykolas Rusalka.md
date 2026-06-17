@@ -4,9 +4,10 @@ pavadinimas: 'Mykolas Rusalka'
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
-  - '1495 m.'
-date_start: '1495'
-date_end: ''
+  - '1494 m.'
+  - '1496 m.'
+date_start: '1494'
+date_end: '1496'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -31,6 +32,12 @@ O tada, carui sutikus, kad Lietuvos valdovas vestų jo duk­ terį (1495 m.), su
 - t-001
   global_id: t-87801
   teiginys: 'Mykolas Rusalka lydėjo didžiąją kunigaikštytę Eleną, kai ji 1496 m. vasarį atvyko iš Maskvos į Vilnių.'
+  sudarymo_pagrindimas: 'Citata aiškiai nurodo Mykolo Rusalkos vaidmenį Elenos palydoje.'
+  susije_objektai: 'location: Lietuva; location: Maskva; location: Trakai; location: Vilnius; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_person: [[objektai/asmenys/Prokopas|Prokopas]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Trakai; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Mykolas Rusalka|Mykolas Rusalka]] keliavo į Lietuva; [[objektai/asmenys/Mykolas Rusalka|Mykolas Rusalka]] keliavo į Maskva; [[objektai/asmenys/Mykolas Rusalka|Mykolas Rusalka]] keliavo į Trakai; [[objektai/asmenys/Mykolas Rusalka|Mykolas Rusalka]] keliavo į Vilnius'
+  temporaliniai_duomenys: 'kelionės data: 1494 m.; kelionės data: 1495 m.; kelionės data: 1496 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Mykolas Rusalka keliavo į Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Mykolas Rusalka keliavo į Maskva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Mykolas Rusalka keliavo į Trakai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Mykolas Rusalka keliavo į Vilnius“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata aiškiai nurodo Mykolo Rusalkos vaidmenį Elenos palydoje.'
   pagrindžia:
     - c-001
 
@@ -63,7 +70,7 @@ O tada, carui sutikus, kad Lietuvos valdovas vestų jo duk­ terį (1495 m.), su
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/vaivada]]
-- [[objektai/paprociai/Aleksandro ir Elenos sutikimo, mišrių apeigų santuokos ir vestuvių vaišių ritualas]]
+- Mykolas Rusalka keliavo_i [[objektai/vietos/Lietuva]]
+- Mykolas Rusalka keliavo_i [[objektai/vietos/Maskva]]
+- Mykolas Rusalka keliavo_i [[objektai/vietos/Trakai]]
+- Mykolas Rusalka keliavo_i [[objektai/vietos/Vilnius]]

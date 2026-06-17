@@ -21,6 +21,8 @@ Tad ir Rusija prisijungė prie „suverenitetų parado“, ir kitos sovietinės 
 - t-001
   global_id: t-20947
   teiginys: 'Rusija prisijungė prie „suverenitetų parado“, o kitos sovietinės respublikos taip pat skelbė suverenitetą.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir tiesiogiai atitinka citatos informaciją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/Suverenitetas|Suverenitetas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: SSRS'
   pagrindžia:
     - c-001
 
@@ -46,12 +48,3 @@ Tad ir Rusija prisijungė prie „suverenitetų parado“, ir kitos sovietinės 
   pagrindžia:
     - t-001
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/vėliava]]
-- [[objektai/zodynas/Suverenitetas]]

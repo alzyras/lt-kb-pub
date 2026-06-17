@@ -3,6 +3,10 @@ tipas: paprotys
 pavadinimas: 'Žemių kunigaikščių veiksmų derinimas konfederacijoje'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1219 m.'
+date_start: '1219'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -10,6 +14,8 @@ tags:
   - paprotys
   - sutartis
   - valdovas
+amziai:
+  - 'XIII'
 ---
 # Žemių kunigaikščių veiksmų derinimas konfederacijoje
 
@@ -43,6 +49,11 @@ Nenurodyta
 - t-001
   global_id: t-54375
   teiginys: 'Voluinės ir Lietuvos kunigaikščių sutartyje Mindaugas buvo paminėtas ketvirtuoju tarp penkių vyresniųjų kunigaikščių.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir tiksliai atitinka citatą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva; mentioned_place: Voluinė'
+  temporaliniai_duomenys: 'įvykio data: 1219 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys ir tiksliai atitinka citatą.'
   pagrindžia:
     - c-001
 
@@ -50,6 +61,11 @@ Nenurodyta
 - t-002
   global_id: t-54376
   teiginys: '1219 m. Voluinės ir Lietuvos kunigaikščių sutartis buvo sudaryta ir dėl plėšiamųjų žygių į Lenkiją.'
+  sudarymo_pagrindimas: 'Sakinys sutelktas į kunigaikščių sutartį ir pašalinta perteklinė detalė apie Mindaugą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Voluinė'
+  temporaliniai_duomenys: 'sutarties data: 1219 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Sakinys sutelktas į kunigaikščių sutartį ir pašalinta perteklinė detalė apie Mindaugą.'
   pagrindžia:
     - c-001
 
@@ -68,9 +84,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
-- [[objektai/zodynas/kunigaikščiai]]

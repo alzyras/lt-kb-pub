@@ -18,9 +18,15 @@ Ulanas buvo feodalinis titulas, kuriuo vadinosi žymiausi chanų giminės totori
 - t-001
   global_id: t-187552
   teiginys: 'Ulanas buvo feodalinis titulas, kuriuo vadinosi žymiausi chanų giminės totorių feodalai, turėję ulusus ir teisę dalyvauti chanų rinkimuose.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra enciklopedinis apibrėžimas apie ulano titulą ir jo turėtojų teises. Sąmoningai nepridėta papildoma pastaba apie Aukso ordos linijas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_group: [[objektai/grupes/Krymo chanatas|Krymo chanatas]]; mentioned_group: [[objektai/grupes/Perekopo orda|Perekopo orda]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_place: Isteris; mentioned_place: Krymas; mentioned_place: Perekopas'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/grupes/Auksinė Orda.md#claim-t-187704|Auksinė Orda]]: Aukso ordoje ulanais vadinosi chano giminės nariai iš tų linijų, kurių atstovams neteko sėdėti chanų soste.
+- susijęs iš [[objektai/zodynas/ulusas.md#claim-t-187531|ulusas]]: Ulusai buvo savos žemės valdos, kurias turėjo žymiausi chanų giminės totorių feodalai, vadinti ulanais.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -43,12 +49,3 @@ Ulanas buvo feodalinis titulas, kuriuo vadinosi žymiausi chanų giminės totori
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Auksinė Orda]]
-- [[objektai/grupes/Krymo chanatas]]
-- [[objektai/grupes/Perekopo orda]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/zodynas/chanas]]
-- [[objektai/zodynas/ulusas]]

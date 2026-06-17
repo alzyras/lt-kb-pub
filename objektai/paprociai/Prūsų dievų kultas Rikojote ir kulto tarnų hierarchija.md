@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Simono Grunau kronikoje Rikojoto šventyklos prūsų dievų trejetą sudarė Pakulas, Perkūnas ir Patrimpas. Prūsų dievais laikyti požemio dievas Pakulas, žaibų ir griausmų dievas Perkūnas bei javų dievas Patrimpas. Pasak Simono Grunau kronikos, Rikojote buvo prūsų dievų kulto centras su žaliuojančiu ąžuolu ir šventykla, papuošta trijų dievų stabais.
+Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė, kur auga žiemą vasarą žaliuojantis ąžuolas, o po juo įsikūrusi prūsų dievų šventykla, papuošta trimis stabais, vaizduojančiais tris prūsų dievus.
 
 ## Laikotarpis ir datos
 
@@ -41,6 +41,8 @@ Nenurodyta
 - t-001
   global_id: t-54329
   teiginys: 'Simono Grunau kronikoje Rikojoto šventyklos prūsų dievų trejetą sudarė Pakulas, Perkūnas ir Patrimpas.'
+  sudarymo_pagrindimas: 'Reikia šaltinio atribucijos, nes citata remiasi Simono Grunau kronikos pasakojimu.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/Simono Grunau|Simono Grunau]]; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
 
@@ -48,6 +50,7 @@ Nenurodyta
 - t-002
   global_id: t-54330
   teiginys: 'Prūsų dievais laikyti požemio dievas Pakulas, žaibų ir griausmų dievas Perkūnas bei javų dievas Patrimpas.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/Simono Grunau|Simono Grunau]]; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
 
@@ -55,6 +58,11 @@ Nenurodyta
 - t-003
   global_id: t-183332
   teiginys: 'Pasak Simono Grunau kronikos, Rikojote buvo prūsų dievų kulto centras su žaliuojančiu ąžuolu ir šventykla, papuošta trijų dievų stabais.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Ilgas teiginys sutrumpintas, išlaikant citatos paremtą šaltinio atributiką.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/vaidilutė|vaidilutė]]; mentioned_person: [[objektai/autoriai/Simono Grunau|Simono Grunau]]; mentioned_place: Prūsai'
   pagrindžia:
     - c-002
 
@@ -93,13 +101,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/papuošalas]]
-
-### Susiję objektai
-- [[objektai/autoriai/Simono Grunau]]
-- [[objektai/zodynas/vaidilutė]]
-- [[objektai/daiktai/Rikojoto prūsų dievų šventykla ir stabai]]
-- [[objektai/asmenys/Simonas Grunau]]

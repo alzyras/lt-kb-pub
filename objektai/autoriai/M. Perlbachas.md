@@ -15,6 +15,7 @@ tags:
   - miestas
   - ordinas
   - pilis
+  - popiežius
 amziai:
   - 'XIII'
 periodo_grupes:
@@ -32,6 +33,12 @@ Dusburgietis teigia, kad perlbachas), jog nuo tada Dusburgietis jau gyvenęs Pr�
 - t-001
   global_id: t-175145
   teiginys: 'M. Perlbachas teigė, kad nuo 1289 metų Petras Dusburgietis jau gyveno Prūsijoje.'
+  sudarymo_pagrindimas: 'Citata tiesiogiai sieja šią nuomonę su M. Perlbachu.'
+  susije_objektai: 'location: Prūsija; mentioned_person: [[objektai/autoriai/Petras Dusburgietis|Petras Dusburgietis]]; mentioned_place: Prūsija'
+  semantiniai_rysiai: '[[objektai/autoriai/M. Perlbachas|M. Perlbachas]] gyveno Prūsija'
+  temporaliniai_duomenys: 'gyvenimo laikotarpis: po 1289 m.; gyvenimo laikotarpis: 1289 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „M. Perlbachas gyveno Prūsija“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata tiesiogiai sieja šią nuomonę su M. Perlbachu.'
   pagrindžia:
     - c-002
 
@@ -39,6 +46,8 @@ Dusburgietis teigia, kad perlbachas), jog nuo tada Dusburgietis jau gyvenęs Pr�
 - t-002
   global_id: t-175146
   teiginys: 'M. Perlbachas nagrinėtas aiškinant Dusburgiečio pasakojimo ryšį su 1230 ir 1232 metų popiežiaus bulėmis.'
+  sudarymo_pagrindimas: 'Citata palaiko autoriaus darbo naudojimą šiame aiškinime.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/kryžininkai|kryžininkai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Hermanas|Hermanas]]; mentioned_person: [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos]]; mentioned_place: Kulmas; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Torunė; mentioned_place: Viena; mentioned_place: Vysla'
   pagrindžia:
     - c-001
 
@@ -46,9 +55,16 @@ Dusburgietis teigia, kad perlbachas), jog nuo tada Dusburgietis jau gyvenęs Pr�
 - t-003
   global_id: t-175148
   teiginys: 'M. Perlbachas rašė apie senesniąją Olivos kroniką.'
+  sudarymo_pagrindimas: 'Citatoje pateikta bibliografinė nuoroda į Perlbacho darbą apie Olivos kroniką.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_person: [[objektai/asmenys/Petras iš Dusburgo|Petras iš Dusburgo]]; mentioned_place: Oliva; mentioned_place: Prūsai; mentioned_place: Prūsija'
   pagrindžia:
     - c-003
-
+- susijęs iš [[objektai/asmenys/Fridrichas II.md#claim-t-59858|Fridrichas II]]: M. Perlbachas nurodė, kad Dusburgietis, rašydamas apie Ordino teises, panaudojo imperatoriaus Fridricho II 1226 m. aukso bulę.
+- susijęs iš 1230 m. Krušvicos falsifikatas: M. Perlbachas nurodė, kad Dusburgietis Konrado ir Ordino sutartis nušvietė pagal Ordino 1230 m. Krušvicos falsifikatą.
+- susijęs iš 1230 m. Krušvicos falsifikatas: M. Perlbachas nurodė, kad Dusburgietis Konrado ir Ordino sutartis nušvietė pagal Ordino 1230 m. Krušvicos falsifikatą.
+- susijęs iš 1230 m. rugsėjo 12 d. popiežiaus bulė: M. Perlbachas nurodė, kad Dusburgietis panaudojo 1230 m. rugsėjo 12 d. popiežiaus bulę, patvirtinusią Konrado ir Ordino sutartį.
+- susijęs iš 1232 m. sausio 23 d. popiežiaus bulė: M. Perlbachas nurodė, kad Dusburgietis panaudojo 1232 m. sausio 23 d. popiežiaus bulę, patvirtinusią Konrado ir Ordino sutartį.
+- susijęs iš Fridricho II 1226 m. aukso bulė: M. Perlbachas nurodė, kad Dusburgietis, rašydamas apie Ordino teises, panaudojo imperatoriaus Fridricho II 1226 m. aukso bulę.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -116,12 +132,4 @@ Dusburgietis teigia, kad perlbachas), jog nuo tada Dusburgietis jau gyvenęs Pr�
     - t-003
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Hermanas]]
-- [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]
-- [[objektai/daiktai/Kryžius]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Teutonai]]
-- [[objektai/zodynas/kryžininkai]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/žygis]]
+- M. Perlbachas gyveno [[objektai/vietos/Prūsija]]

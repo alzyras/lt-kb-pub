@@ -29,6 +29,12 @@ Vaito, burmistrų, miesto tarybos narių, šuolininkų ir Vilniaus ma­ gistrato
 - t-001
   global_id: t-86840
   teiginys: '1560 m. Vilniuje vykusiame Lietuvos Didžiosios Kunigaikštystės Ponų Tarybos seime karalius leido bajorams rinkti delegatus.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'territory: Lietuva; territory: Vilnius; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuvos Didžiosios Kunigaikštystės Ponų Taryba|Lietuvos Didžiosios Kunigaikštystės Ponų Taryba]] susiję su Lietuva; [[objektai/grupes/Lietuvos Didžiosios Kunigaikštystės Ponų Taryba|Lietuvos Didžiosios Kunigaikštystės Ponų Taryba]] susiję su Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1560 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Lietuvos Didžiosios Kunigaikštystės Ponų Taryba susiję su Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Lietuvos Didžiosios Kunigaikštystės Ponų Taryba susiję su Vilnius“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -56,10 +62,5 @@ Vaito, burmistrų, miesto tarybos narių, šuolininkų ir Vilniaus ma­ gistrato
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bajorai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/ponai]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/grupes/Lietuvos bajorija]]
-- [[objektai/grupes/Lietuvos ponų taryba]]
+- Lietuvos Didžiosios Kunigaikštystės Ponų Taryba susije_su [[objektai/vietos/Lietuva]]
+- Lietuvos Didžiosios Kunigaikštystės Ponų Taryba susije_su [[objektai/vietos/Vilnius]]

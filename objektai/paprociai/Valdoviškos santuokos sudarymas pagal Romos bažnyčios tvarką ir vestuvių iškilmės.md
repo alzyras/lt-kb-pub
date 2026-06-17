@@ -33,6 +33,11 @@ Nenurodyta
 - t-001
   global_id: t-185862
   teiginys: 'Vytautui tylint, Jogaila Sanoke susituokė su Elžbieta ir surengė vestuvių puotą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Perrašyta į aiškų faktą apie valdovišką santuoką ir iškilmes.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_person: [[objektai/asmenys/Edigejus|Edigejus]]; mentioned_person: [[objektai/asmenys/Elžbieta|Elžbieta]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Austrija; mentioned_place: Sanokas'
   pagrindžia:
     - c-001
 
@@ -40,6 +45,11 @@ Nenurodyta
 - t-002
   global_id: t-185863
   teiginys: 'Kujavijos vyskupas Jonas Kropidlas pareiškė, kad Vytauto santuoka bus teisėta, ir surišo sutuoktinius pagal Romos bažnyčios tvarką.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata remia vyskupo vaidmenį ir Romos bažnyčios tvarką.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas Kropidlas|Jonas Kropidlas]]; mentioned_place: Kujavija'
   pagrindžia:
     - c-002
 
@@ -89,14 +99,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Edigejus]]
-- [[objektai/asmenys/Elžbieta]]
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
-- [[objektai/asmenys/Jonas]]
-- [[objektai/daiktai/Kalavijas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Jonas Kropidlas|Jonas Kropidlas (vyskupas)]]
-- [[objektai/asmenys/Leopoldas (Austrijos erchercogas)]]

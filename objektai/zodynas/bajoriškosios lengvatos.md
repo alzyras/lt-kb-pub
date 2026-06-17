@@ -18,6 +18,11 @@ Aleksandras ir Šich Achmetas bajoriškųjų lengvatų suteikė karo žygiais i�
 - t-001
   global_id: t-185399
   teiginys: 'Aleksandras ir Šich Achmetas bajoriškųjų lengvatų suteikė karo žygiais išgarsėjusiems lenkams, lietuviams ir skitams.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie sąvoką ir atitinka citatą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/skitai|skitai]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Šich Achmetas|Šich Achmetas]]'
   pagrindžia:
     - c-001
 
@@ -49,13 +54,3 @@ Aleksandras ir Šich Achmetas bajoriškųjų lengvatų suteikė karo žygiais i�
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Aleksandras]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/zodynas/skitai]]
-- [[objektai/asmenys/Šich Achmetas]]
-- [[objektai/paprociai/Bajoriškųjų lengvatų suteikimas paliečiant petį kardu]]
-- [[objektai/grupes/Lenkai]]

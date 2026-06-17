@@ -14,7 +14,7 @@ tags:
 
 ## Santrauka
 
-Unzatrapio žemės vyrai kartu su komtūro kariuomene įsiveržė į Notangos pakraštį ir jį nuniokojo plėšdami bei degindami.
+Dusburgietis teigia, kad su sembų kariuomene, vedamas Tirsko, netikėtai įsibrovė į Vonsdorfo žemę332; pristatę prie sienų kopėčias bei padarę visa kita, kas reikalinga pilims pulti, užkariavo Kapstetos pilį333 ir ją pavertė pelenais, pilyje bei jos apygardoje paėmė į nelaisvę daugybę. Dusburgietis teigia, kad apie vienos Notangos dalies nuniokojimą Tas pats komtūras sutelkė kariuomenę su Vonsdorfo vyrais ir kai kuriais kitais [prūsais], kurie jam buvo paklusnūs, ir įsibrovė į vieną Notangos žemės pakraštį [confinium], nenorėjusį pritarti taikos sutartims.
 
 ## Teiginiai
 
@@ -22,6 +22,9 @@ Unzatrapio žemės vyrai kartu su komtūro kariuomene įsiveržė į Notangos pa
 - t-001
   global_id: t-63281
   teiginys: 'Unzatrapio žemės vyrai kartu su komtūro kariuomene įsiveržė į Notangos pakraštį ir jį nuniokojo plėšdami bei degindami.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Citata pagrindžia Vonsdorfo, siejamo su Unzatrapiu, vyrų dalyvavimą Notangos pakraščio nuniokojime.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Notanga; mentioned_place: Viena; mentioned_place: Vonsdorfas'
   pagrindžia:
     - c-001
 
@@ -44,7 +47,3 @@ Unzatrapio žemės vyrai kartu su komtūro kariuomene įsiveržė į Notangos pa
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/komtūras]]

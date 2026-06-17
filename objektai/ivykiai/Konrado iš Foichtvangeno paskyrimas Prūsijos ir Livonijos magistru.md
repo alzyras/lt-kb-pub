@@ -44,6 +44,11 @@ Nenurodyta
 - t-001
   global_id: t-66630
   teiginys: 'Didysis magistras 1279 m. paskyrė Konradą iš Foichtvangeno Prūsijos ir Livonijos brolių magistru.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nusako paskyrimą ir yra paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Livonija; mentioned_place: Prūsija'
+  temporaliniai_duomenys: 'įvykio data: 1279 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako paskyrimą ir yra paremtas citata.'
   pagrindžia:
     - c-002
 
@@ -51,6 +56,8 @@ Nenurodyta
 - t-002
   global_id: t-66631
   teiginys: 'Po metų Konradas iš Foichtvangeno atsisakė pareigų Prūsijoje ir liko tik Livonijos žemės magistru.'
+  sudarymo_pagrindimas: 'Citata palaiko faktą apie Konrado pareigų atsisakymą; pradinį tekstą užgožė išnašos triukšmas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/asmenys/Konradas iš Foichtvangeno|Konradas iš Foichtvangeno]]; mentioned_place: Aizkrauklė; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Revelis; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -91,12 +98,3 @@ Nenurodyta
   pagrindžia:
     - t-001
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Konradas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Lietuvos kariuomenė]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/asmenys/Konradas iš Foichtvangeno]]
-- [[objektai/zodynas/didysis magistras]]

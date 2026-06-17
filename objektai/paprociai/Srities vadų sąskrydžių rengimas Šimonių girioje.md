@@ -5,6 +5,7 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1947 m.'
+  - '1948 m.'
   - '1949 m.'
 date_start: '1947'
 date_end: '1949'
@@ -17,7 +18,7 @@ amziai:
 
 ## Santrauka
 
-Šimonių girioje būdavo rengiami srities vadų sąskrydžiai. Šimonių girioje bazavosi srities vadovybė ir būdavo rengiami srities vadų sąskrydžiai.
+Šimonių girioje bazavosi srities vadovybė. Šimonių girioje būdavo rengiami srities vadų sąskrydžiai.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -41,6 +42,11 @@ Nenurodyta
 - t-001
   global_id: t-09606
   teiginys: 'Šimonių girioje būdavo rengiami srities vadų sąskrydžiai.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]'
+  temporaliniai_duomenys: 'įvykio data: 1947 m.; įvykio data: 1948 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -48,6 +54,11 @@ Nenurodyta
 - t-002
   global_id: t-09607
   teiginys: 'Šimonių girioje bazavosi srities vadovybė ir būdavo rengiami srities vadų sąskrydžiai.'
+  sudarymo_pagrindimas: 'Citata palaiko tikslesnį teiginį apie sąskrydžių rengimą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]'
+  temporaliniai_duomenys: 'įvykio data: 1947 m.; įvykio data: 1948 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko tikslesnį teiginį apie sąskrydžių rengimą.'
   pagrindžia:
     - c-001
 
@@ -68,8 +79,3 @@ Nenurodyta
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Antanas (vaistininkas)]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

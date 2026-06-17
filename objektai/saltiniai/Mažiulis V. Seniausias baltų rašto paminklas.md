@@ -26,6 +26,11 @@ Dusburgietis teigia, kad mažiulis V.
 - t-001
   global_id: t-61173
   teiginys: 'V. Mažiulio „Seniausias baltų rašto paminklas“ paskelbtas „Baltistica“ 1975 m. 11 tomo 2 numeryje.'
+  sudarymo_pagrindimas: 'Citata patvirtina publikavimo žurnalą, metus ir numerį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Prūsai'
+  temporaliniai_duomenys: 'įvykio data: 1975 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata patvirtina publikavimo žurnalą, metus ir numerį.'
   pagrindžia:
     - c-001
 

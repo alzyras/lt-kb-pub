@@ -19,7 +19,7 @@ amziai:
 
 ## Santrauka
 
-Prisikėlimo apygardos partizanų antsiuvas nuo 1949 m. buvo patvirtintas bendru LLKS antsiuvu. Prisikėlimo apygardos partizanų antsiuvas nuo 1949 m. buvo patvirtintas bendru LLKS antsiuvu.
+Partizanai pratybose sass | Prisikėlimo apygardos partizanų antsiuvas, nuo 1949 m. patvirtintas bendru LLKS antsiuvu Mūšis Išaušo gražus rugpjūčio 13-osios rytas.
 
 ## Pavadinimai šaltiniuose
 
@@ -47,6 +47,11 @@ Nenurodyta
 - t-001
   global_id: t-78675
   teiginys: 'Prisikėlimo apygardos partizanų antsiuvas nuo 1949 m. buvo patvirtintas bendru LLKS antsiuvu.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie antsiuvą ir remiasi citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos laisvės kovos sąjūdis|Lietuvos laisvės kovos sąjūdis]]; mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Leonas|Leonas]]; mentioned_place: Užpelkiai'
+  temporaliniai_duomenys: 'įvykio data: po 1949 m.; įvykio data: 1949 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie antsiuvą ir remiasi citata.'
   pagrindžia:
     - c-001
 
@@ -78,11 +83,3 @@ Nenurodyta
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Leonas]]
-- [[objektai/grupes/Lietuvos laisvės kovos sąjūdis]]
-- [[objektai/grupes/Rytas]]
-- [[objektai/zodynas/Adynos|adynos]]
-- [[objektai/zodynas/žygis]]

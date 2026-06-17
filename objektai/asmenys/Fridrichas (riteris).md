@@ -18,6 +18,11 @@ Riteris Fridrichas vykdė reikalavimus, pateiktus šv. Grigaliaus vardu.
 - t-001
   global_id: t-186203
   teiginys: 'Riteris Fridrichas vykdė reikalavimus, pateiktus šv. Grigaliaus vardu.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo per daug abstraktus; perrašyta į aiškesnį faktinį sakinį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/vėliavininkas|vėliavininkas]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_person: [[objektai/asmenys/Grigalius (vicekancleris)|Grigalius (vicekancleris)]]'
   pagrindžia:
     - c-001
 
@@ -36,9 +41,3 @@ Riteris Fridrichas vykdė reikalavimus, pateiktus šv. Grigaliaus vardu.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Grigalius (vicekancleris)]]
-- [[objektai/zodynas/vėliavininkas]]
-- [[objektai/asmenys/Fridrichas]]

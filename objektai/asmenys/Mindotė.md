@@ -29,6 +29,8 @@ Dusburgietis teigia, kad dar apie tą patį Tais pačiais 1314 metais, apie grab
 - t-001
   global_id: t-60388
   teiginys: 'Mindotė žuvo Ordino kariuomenei 1314 metais puolant Sizditės pilį Medininkų valsčiuje.'
+  sudarymo_pagrindimas: 'Citata nurodo Mindotę tarp žuvusių prityrusių karių per Sizditės pilies puolimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Medininkai; mentioned_place: Pilėnai; mentioned_place: Sizditė'
   pagrindžia:
     - c-001
 
@@ -53,13 +55,3 @@ Dusburgietis teigia, kad dar apie tą patį Tais pačiais 1314 metais, apie grab
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Henrikas Rutėnas]]
-- [[objektai/asmenys/Henrikas iš Plockės]]
-- [[objektai/asmenys/Kviramas iš Valdavos]]
-- [[objektai/asmenys/Rebodas iš Izenburgo]]
-- [[objektai/asmenys/Spagerotė]]
-- [[objektai/asmenys/Ulrichas iš Tetingeno]]

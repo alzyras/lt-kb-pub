@@ -3,10 +3,6 @@ tipas: autorius
 pavadinimas: 'A. Vanagas'
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-aliases:
-  - 'objektai/autoriai/Vanagas A'
-variantai:
-  - 'Vanagas A'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -25,6 +21,7 @@ Dusburgietis teigia, kad laba, Labažė, Labažis, Labė ir lobas ‘dauba, ragu
 - t-001
   global_id: t-184447
   teiginys: 'Filologijos mokslų daktaras A. Vanagas sulaukė padėkos už dalykinius patarimus rengiant knygą spaudai.'
+  teiginio_tipas: 'faktas'
   pagrindžia:
     - c-001
 
@@ -32,6 +29,9 @@ Dusburgietis teigia, kad laba, Labažė, Labažis, Labė ir lobas ‘dauba, ragu
 - t-002
   global_id: t-184448
   teiginys: 'A. Vanagas siejo Labguvos vardą su baltiškais hidronimais ir žodžiu lobas, reiškiančiu daubą, raguvą ar slėnį.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Citata remiasi Vanago darbu aiškinant vietovardį; pradinis teiginys yra fragmentiškas ir netinkamai atribuuotas Dusburgiečiui.'
+  susije_objektai: 'mentioned_place: Labguva'
   pagrindžia:
     - c-002
 

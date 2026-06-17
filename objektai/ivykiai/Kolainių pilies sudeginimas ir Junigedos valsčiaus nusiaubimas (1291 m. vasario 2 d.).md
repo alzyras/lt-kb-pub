@@ -43,6 +43,12 @@ Nenurodyta
 - t-001
   global_id: t-62325
   teiginys: '1291 m. apie vasario 2 d. Bertoldas Bruhavenas su broliais ir 1500 vyrų rado Kolainių pilį tuščią ir ją sudegino.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo nutrūkęs; citata pagrindžia Kolainių pilies sudeginimą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Bertoldas|Bertoldas]]; mentioned_place: Junigeda; mentioned_place: Kolainiai'
+  temporaliniai_duomenys: 'įvykio data: 1291 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys buvo nutrūkęs; citata pagrindžia Kolainių pilies sudeginimą.'
   pagrindžia:
     - c-001
 
@@ -50,6 +56,11 @@ Nenurodyta
 - t-002
   global_id: t-183933
   teiginys: 'Sudeginę Kolainių pilį, broliai nusiaubė Junigedos valsčių, grobdami bei degindami ir paimdami į nelaisvę ar nužudydami 700 žmonių.'
+  teiginio_tipas: 'saltinio_teiginys'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo nutrūkęs; citata pagrindžia Junigedos valsčiaus nusiaubimą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Bertoldas|Bertoldas]]; mentioned_place: Junigeda; mentioned_place: Kolainiai'
   pagrindžia:
     - c-001
 
@@ -76,7 +87,3 @@ Nenurodyta
   pagrindžia:
     - t-001
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Bertoldas]]

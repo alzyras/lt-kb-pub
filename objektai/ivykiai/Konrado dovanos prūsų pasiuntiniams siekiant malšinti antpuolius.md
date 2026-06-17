@@ -47,6 +47,9 @@ Nenurodyta
 - t-001
   global_id: t-62328
   teiginys: 'Kunigaikštis Konradas prūsų pasiuntiniams davė žirgų ir ryškiaspalvių drabužių, tačiau dovanos jų antpuolių nesušvelnino.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys buvo triukšmingas ir nutrūkęs, bet citata palaiko aiškų faktą.'
+  susije_objektai: 'territory: Lenkija; territory: Prūsai; mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Lenkija; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
 
@@ -82,13 +85,3 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/drabužis]]
-
-### Susiję objektai
-- [[objektai/daiktai/Drabužiai]]
-- [[objektai/asmenys/Konradas]]
-- [[objektai/zodynas/netikėliai]]
-- [[objektai/daiktai/Žirgai]]

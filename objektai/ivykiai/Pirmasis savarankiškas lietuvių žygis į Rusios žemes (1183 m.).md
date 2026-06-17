@@ -19,7 +19,7 @@ amziai:
 
 ## Santrauka
 
-Lietuvių plėšiamieji žygiai rodė didėjančią lietuvių jėgą ir prisidėjo prie būsimos Lietuvos valstybės pagrindų.
+Plėšiamieji žygiai rodė didėjant lietuvių jėgą, jie tokių žygių skaičiumi pralenkė turtingus prūsus ar karingus kuršius.
 
 ## Laikotarpis ir datos
 
@@ -43,6 +43,8 @@ Nenurodyta
 - t-001
   global_id: t-20452
   teiginys: 'Lietuvių plėšiamieji žygiai rodė didėjančią lietuvių jėgą ir prisidėjo prie būsimos Lietuvos valstybės pagrindų.'
+  sudarymo_pagrindimas: 'Esamas teiginys taisyklingas, bet perrašytas glaudžiau ir aiškiau pagal citatą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
 
@@ -62,9 +64,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/ivykiai/Lietuvos valstybės sukūrimas XIII a. viduryje]]
-- [[objektai/paprociai/Reguliarūs lietuvių plėšiamieji žygiai į Rusios, Lenkijos ir Livonijos žemes]]

@@ -3,11 +3,19 @@ tipas: saltinis
 pavadinimas: 'LLV padalijimų aktai'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1797 m.'
+  - '1918 m.'
+date_start: '1797'
+date_end: '1918'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
   - valstybė
+amziai:
+  - 'XVIII'
+  - 'XX'
 ---
 # LLV padalijimų aktai
 
@@ -21,6 +29,11 @@ Nors LLV padalijimų aktus 1918 m. rugpjūčio 29 d. panaikino Rusijos imperijos
 - t-001
   global_id: t-21100
   teiginys: 'Nors LLV padalijimų aktus 1918 m. rugpjūčio 29 d. panaikino Rusijos imperijos teisių perėmėja Sovietų Rusija, buvusi valstybė nebeatsikūrė.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas, aiškus ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/abdikacija|abdikacija]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Austrija; mentioned_place: Prūsija; mentioned_place: Rusija'
+  temporaliniai_duomenys: 'įvykio data: 1797 m.; įvykio data: 1918 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas, aiškus ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
 

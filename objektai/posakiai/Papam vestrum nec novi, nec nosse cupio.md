@@ -40,6 +40,7 @@ Formulė reiškia atsiribojimą nuo popiežiaus arba nenorą jį pripažinti.
 - t-001
   global_id: t-55187
   teiginys: 'Krantzas Gediminui priskyrė lotynišką pareiškimą „Papam vestrum nec novi, nec nosse cupio“.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/autoriai/Albertas Krantzas|Albertas Krantzas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Maskva; mentioned_place: Vokietija'
   pagrindžia:
     - c-001
 
@@ -47,6 +48,8 @@ Formulė reiškia atsiribojimą nuo popiežiaus arba nenorą jį pripažinti.
 - t-002
   global_id: t-55188
   teiginys: 'Formulė „Papam vestrum nec novi, nec nosse cupio“ lietuviškai aiškinama kaip „Jūsų Tėvo nei pažinojau, nei trokštu pažinti“.'
+  sudarymo_pagrindimas: 'Teiginys yra užbaigtas ir tiksliai perteikia citatoje pateiktą lotyniškos formulės aiškinimą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Maskva; mentioned_place: Vokietija'
   pagrindžia:
     - c-001
     - c-002
@@ -55,6 +58,7 @@ Formulė reiškia atsiribojimą nuo popiežiaus arba nenorą jį pripažinti.
 - t-003
   global_id: t-55189
   teiginys: '„Papam vestrum nec novi, nec nosse cupio“ reiškė pareiškimą, kad popiežiaus nei pažinojo, nei troško pažinti.'
+  sudarymo_pagrindimas: 'Citata palaiko frazės reikšmę, o pradinė formuluotė buvo pernelyg netiesioginė.'
   pagrindžia:
     - c-002
 
@@ -62,9 +66,11 @@ Formulė reiškia atsiribojimą nuo popiežiaus arba nenorą jį pripažinti.
 - t-004
   global_id: t-82143
   teiginys: 'Posakis „Papam vestrum nec novi, nec nosse cupio“ buvo pateiktas kaip atsakymas popiežiaus pasiuntiniams.'
+  sudarymo_pagrindimas: 'Citata pagrindžia posakio paskirtį, o pradinis teiginys yra gremėzdiškas ir prasideda fragmentu.'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176386|Gediminas]]: Gediminas esą prisipažino nerašęs laiškų nei popiežiui, nei Vokietijos miestams ir nepareiškęs noro krikštytis.
+- susijęs iš [[objektai/autoriai/Albertas Krantzas.md#claim-t-54998|Albertas Krantzas]]: Pasak Alberto Krantzo, Gediminas pareiškė, kad popiežiaus nei pažinojo, nei troško pažinti.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -110,10 +116,3 @@ Formulė reiškia atsiribojimą nuo popiežiaus arba nenorą jį pripažinti.
     - t-002
     - t-003
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/Albertas Krantzas]]
-- [[objektai/asmenys/Gediminas]]
-- [[objektai/zodynas/supremus dux ir magnus dux]]
-- [[objektai/zodynas/didysis kunigaikštis]]

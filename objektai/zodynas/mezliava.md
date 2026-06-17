@@ -13,17 +13,19 @@ tags:
 
 ## Santrauka
 
-`Mezliava` šiame tekste reiškia prievolinę duoklę vyresniesiems. Mezliavą svietas skirdavo ūkės reikalų nuo namų darbo atitrauktiems vyresniesiems išlaikyti.
+Vėlesniais laikais ir vietoj galvijų buvo mokami mokesčiai, vadinami mezliavomis; visa, kas į dvarą buvo sunešama produktais, vadinosi duoklėmis.
 
 ## Pastabos
 
 - Konkretus mokėjimo turinys kinta pagal vietą ir laiką, bet prievolinės duoklės reikšmė aiški.
 
 ## Teiginiai
+
 <a id="claim-t-08676"></a>
 - t-001
   global_id: t-08676
   teiginys: '`Mezliava` šiame tekste reiškia prievolinę duoklę vyresniesiems.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Duona|Duona]]; mentioned_object: [[objektai/zodynas/duoklė|duoklė]]'
   pagrindžia:
     - c-001
 
@@ -31,10 +33,13 @@ tags:
 - t-002
   global_id: t-08677
   teiginys: 'Mezliavą svietas skirdavo ūkės reikalų nuo namų darbo atitrauktiems vyresniesiems išlaikyti.'
+  sudarymo_pagrindimas: 'Įvardis pakeistas aiškiu objektu, o sakinys sutraukia citatoje pagrįstą mezliavos paskirtį.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Duona|Duona]]'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
@@ -45,8 +50,3 @@ tags:
   pagrindžia:
     - t-001
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Duona]]
-- [[objektai/zodynas/duoklė]]

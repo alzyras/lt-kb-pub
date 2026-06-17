@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Šventas Jodokas ėmė daryti stebuklus Prūsijoje, Pamedės vyskupystėje.
+Dusburgietis teigia, kad apie švento Jodoko stebuklus Prūsijos Pamedėje Tais pačiais metais šventas Jodokas ėmė daryti stebuklus Prūsijoje, Pamedės vyskupystėje.
 
 ## Teiginiai
 
@@ -21,6 +21,8 @@ tags:
 - t-001
   global_id: t-60336
   teiginys: 'Šventas Jodokas ėmė daryti stebuklus Prūsijoje, Pamedės vyskupystėje.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/vyskupystė|vyskupystė]]; mentioned_place: Pamedė; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
 
@@ -43,7 +45,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/vyskupystė]]

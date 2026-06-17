@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Kai kurie prūsai iš pagarbos savo dievams kasdien maudėsi pirtyse, o kiti pirties kęste nekentė. Kai kurie iš pagarbos savo dievams kasdien maudydavosi pirtyse, o kiti pirties labai nemėgo.
+Dusburgietis teigia, kad iš pagarbos savo dievams kurie ne kurie kasdien maudosi pirtyse, kiti pirties tiesiog kęste nekenčia.
 
 ## Laikotarpis ir datos
 
@@ -41,6 +41,8 @@ Nenurodyta
 - t-001
   global_id: t-89446
   teiginys: 'Kai kurie prūsai iš pagarbos savo dievams kasdien maudėsi pirtyse, o kiti pirties kęste nekentė.'
+  sudarymo_pagrindimas: 'Pradinis teiginys remiasi gretimu fragmentu, o citata palaiko maudymosi paprotį.'
+  susije_objektai: 'mentioned_place: Prūsai; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -48,6 +50,8 @@ Nenurodyta
 - t-002
   global_id: t-89447
   teiginys: 'Kai kurie iš pagarbos savo dievams kasdien maudydavosi pirtyse, o kiti pirties labai nemėgo.'
+  sudarymo_pagrindimas: 'Pašalinta perteklinė atribucija ir sutvarkyta sakinio forma.'
+  susije_objektai: 'mentioned_place: Viena'
   pagrindžia:
     - c-001
     - c-002
@@ -86,11 +90,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/socialinė-praktika]]
-
-### Susiję objektai
-- [[objektai/daiktai/Juosta ir apyvaras su mazgais]]
-- [[objektai/paprociai/Terminų skaičiavimas įkirtimais ir mazgais]]

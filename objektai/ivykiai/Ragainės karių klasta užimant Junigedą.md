@@ -30,6 +30,11 @@ Nenurodyta
 - t-001
   global_id: t-185826
   teiginys: 'Junigedos puolime dalis karių buvo paslėpta abipus kelio, o Ragainės būriui įsakyta traukti prie pilies vartų.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis teiginys turi neaiškų veikėją „užpuolikas“, todėl reikia aiškesnės formuluotės.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ietys|Ietys]]; mentioned_place: Junigeda; mentioned_place: Ragainė'
   pagrindžia:
     - c-001
 
@@ -54,7 +59,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Ietys]]

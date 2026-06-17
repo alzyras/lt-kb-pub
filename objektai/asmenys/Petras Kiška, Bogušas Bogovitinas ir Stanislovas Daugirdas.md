@@ -18,6 +18,12 @@ Karalius pavedė Petrui Kiškai, Bogušui Bogovitinui ir Jonui Gornostajui vykti
 - t-001
   global_id: t-186156
   teiginys: 'Karalius pavedė Petrui Kiškai, Bogušui Bogovitinui ir Jonui Gornostajui vykti į Maskvą kaip pasiuntiniams pas Vasilijų.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata remia pasiuntinybės pavedimą, bet nemini Stanislovo Daugirdo.'
+  susije_objektai: 'territory: Lietuva; territory: Maskva; territory: Trakai; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_person: [[objektai/asmenys/Ivanas|Ivanas]]; mentioned_person: [[objektai/asmenys/Ivanas Vasiljevičius|Ivanas Vasiljevičius]]; mentioned_person: [[objektai/asmenys/Vasilijus|Vasilijus]]; mentioned_person: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Trakai'
+  semantiniai_rysiai: '[[objektai/asmenys/Petras Kiška, Bogušas Bogovitinas ir Stanislovas Daugirdas|Petras Kiška, Bogušas Bogovitinas ir Stanislovas Daugirdas]] buvo valdovas Lietuva; [[objektai/asmenys/Petras Kiška, Bogušas Bogovitinas ir Stanislovas Daugirdas|Petras Kiška, Bogušas Bogovitinas ir Stanislovas Daugirdas]] buvo valdovas Maskva; [[objektai/asmenys/Petras Kiška, Bogušas Bogovitinas ir Stanislovas Daugirdas|Petras Kiška, Bogušas Bogovitinas ir Stanislovas Daugirdas]] buvo valdovas Trakai'
   pagrindžia:
     - c-001
 
@@ -51,12 +57,6 @@ Karalius pavedė Petrui Kiškai, Bogušui Bogovitinui ir Jonui Gornostajui vykti
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Aleksandras]]
-- [[objektai/asmenys/Aleksandras Jogailaitis]]
-- [[objektai/asmenys/Ivanas]]
-- [[objektai/asmenys/Ivanas Vasiljevičius]]
-- [[objektai/asmenys/Vasilijus]]
-- [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)]]
-- [[objektai/zodynas/Miera|miera]]
-- [[objektai/asmenys/Jonas Gornostajus]]
+- Petras Kiška, Bogušas Bogovitinas ir Stanislovas Daugirdas buvo_valdovas [[objektai/vietos/Lietuva]]
+- Petras Kiška, Bogušas Bogovitinas ir Stanislovas Daugirdas buvo_valdovas [[objektai/vietos/Maskva]]
+- Petras Kiška, Bogušas Bogovitinas ir Stanislovas Daugirdas buvo_valdovas [[objektai/vietos/Trakai]]

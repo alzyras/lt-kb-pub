@@ -41,6 +41,8 @@ Nenurodyta
 - t-001
   global_id: t-87270
   teiginys: 'Jėzuitai buvo įpareigoti kiekvieną sekmadienį ir per šventes siųsti pamokslininką į Šv. Onos bažnyčią mokyti tikėjimo.'
+  sudarymo_pagrindimas: 'Pradinis teiginys kalba apie knygas ir neatskleidžia note objekto, bet citata remia pamokslininko siuntimą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -62,8 +64,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Ona Vytautienė]]
-- [[objektai/grupes/Vilniaus jėzuitų kolegija]]

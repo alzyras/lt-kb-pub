@@ -10,14 +10,19 @@ atnaujinta: ''
 
 ## Santrauka
 
-Skirgaila Jogailos ir savo vardu davė pasakotojo tėvui žodį ir ranką. Ir mūsų tėvas pati kėjo jais, ir aš, ir nujojome sykiu su kunigaikščiu Jo gaila, pasitikėdami jų duotu žodžiu ir ranka. Jogaila prie pasakotojo buvo davęs Algimanto sūnui Jonui ranką, kad niekada neatims jo tėviškės.
+Lietuvos metraščio pasakotojas teigia, kad Skirgaila Jogailos ir savo vardu davė jo tėvui žodį ir ranką. Ir mūsų tėvas pati kėjo jais, ir aš, ir nujojome sykiu su kunigaikščiu Jo gaila, pasitikėdami jų duotu žodžiu ir ranka. Lietuvos metraščio pasakotojas teigia, kad Jogaila buvo davęs Algimanto sūnui Jonui ranką, jog neatims jo tėviškės.
 
 ## Teiginiai
 
 <a id="claim-t-187538"></a>
 - t-001
   global_id: t-187538
-  teiginys: 'Skirgaila Jogailos ir savo vardu davė pasakotojo tėvui žodį ir ranką.'
+  teiginys: 'Lietuvos metraščio pasakotojas teigia, kad Skirgaila Jogailos ir savo vardu davė jo tėvui žodį ir ranką.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pasakotojo perspektyva turi būti aiškiai priskirta šaltiniui.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -25,20 +30,28 @@ Skirgaila Jogailos ir savo vardu davė pasakotojo tėvui žodį ir ranką. Ir m�
 - t-002
   global_id: t-187539
   teiginys: 'Ir mūsų tėvas pati kėjo jais, ir aš, ir nujojome sykiu su kunigaikščiu Jo gaila, pasitikėdami jų duotu žodžiu ir ranka.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
   pagrindžia:
     - c-002
 
 <a id="claim-t-187540"></a>
 - t-003
   global_id: t-187540
-  teiginys: 'Jogaila prie pasakotojo buvo davęs Algimanto sūnui Jonui ranką, kad niekada neatims jo tėviškės.'
+  teiginys: 'Lietuvos metraščio pasakotojas teigia, kad Jogaila buvo davęs Algimanto sūnui Jonui ranką, jog neatims jo tėviškės.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys apie pažadą perteikia pasakotojo liudijimą, todėl reikia atribucijos.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/tėviškė|tėviškė]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Skirgaila Jogailos ir savo vardu davė pasakotojo tėvui žodį ir ranką.'
+  santrauka: 'Lietuvos metraščio pasakotojas teigia, kad Skirgaila Jogailos ir savo vardu davė jo tėvui žodį ir ranką.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     Ir mes su mūsų tėvu stovėjome ant vieno kalno,
@@ -71,7 +84,7 @@ Skirgaila Jogailos ir savo vardu davė pasakotojo tėvui žodį ir ranką. Ir m�
     - t-002
 
 - c-003
-  santrauka: 'Jogaila prie pasakotojo buvo davęs Algimanto sūnui Jonui ranką, kad niekada neatims jo tėviškės.'
+  santrauka: 'Lietuvos metraščio pasakotojas teigia, kad Jogaila buvo davęs Algimanto sūnui Jonui ranką, jog neatims jo tėviškės.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     Ir iš mano žmonos bro­
@@ -86,11 +99,3 @@ Skirgaila Jogailos ir savo vardu davė pasakotojo tėvui žodį ir ranką. Ir m�
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Auksinis diržas]]
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
-- [[objektai/asmenys/Jonas]]
-- [[objektai/asmenys/Skirgaila]]
-- [[objektai/zodynas/tėviškė]]

@@ -23,7 +23,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Karolis, Prancūzijos karaliaus brolis, buvo smarkiai sužeistas, o per tą patį įvykį nukentėjo ir popiežius.
+Dusburgietis teigia, kad karolis, Prancūzijos karaliaus brolis, buvo smarkiai sužeistas, nukentėjo ir pats popiežius.
 
 ## Teiginiai
 
@@ -31,6 +31,8 @@ Karolis, Prancūzijos karaliaus brolis, buvo smarkiai sužeistas, o per tą pat�
 - t-001
   global_id: t-60353
   teiginys: 'Karolis, Prancūzijos karaliaus brolis, buvo smarkiai sužeistas, o per tą patį įvykį nukentėjo ir popiežius.'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo kiek neapibrėžtas; perrašyta aiškiau, nepridedant naujų faktų.'
+  susije_objektai: 'mentioned_place: Prancūzija'
   pagrindžia:
     - c-001
 
@@ -49,7 +51,3 @@ Karolis, Prancūzijos karaliaus brolis, buvo smarkiai sužeistas, o per tą pat�
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Popiežiaus vainikas]]

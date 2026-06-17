@@ -3,6 +3,7 @@ tipas: ivykis
 pavadinimas: 'Treniotos nužudymas'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
 atnaujinta: ''
 ---
@@ -30,6 +31,11 @@ Nenurodyta
 - t-001
   global_id: t-185776
   teiginys: 'Keturi Mindaugą rėmę asmeninės sargybos kariai užpuolė į pirtį einantį Treniotą ir jį nužudė.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys su aiškiu subjektu ir predikatu.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_person: [[objektai/asmenys/Treniota|Treniota]]; mentioned_place: Pinskas'
   pagrindžia:
     - c-001
 
@@ -53,8 +59,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Treniota]]
-- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]

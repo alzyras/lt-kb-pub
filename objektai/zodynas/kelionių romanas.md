@@ -23,6 +23,7 @@ Sensacingiausias kelionių romanas. Prie romano pridėta: 1.
 - t-001
   global_id: t-36792
   teiginys: 'Prie kelionių romano buvo pridėtas geografinis ir istorinis paaiškinimas, žodynėlis ir kelionės žemėlapis.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Romanas (Briansko kunigaikštis)|Romanas (Briansko kunigaikštis)]]; mentioned_place: Arabija'
   pagrindžia:
     - c-001
 
@@ -44,8 +45,3 @@ Sensacingiausias kelionių romanas. Prie romano pridėta: 1.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Romanas (Briansko kunigaikštis)]]
-- [[objektai/grupes/Arabai]]

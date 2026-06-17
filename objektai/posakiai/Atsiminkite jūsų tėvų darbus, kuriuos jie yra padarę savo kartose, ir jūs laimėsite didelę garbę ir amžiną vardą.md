@@ -21,6 +21,8 @@ Dusburgietis teigia, kad apie Višogrudo pilies sugriovimą Nors viešpats Pakar
 - t-001
   global_id: t-59079
   teiginys: 'Pasakojime apie Višogrudo pilies sugriovimą cituojamas Matatijo raginimas sūnums atsiminti tėvų darbus ir laimėti garbę.'
+  sudarymo_pagrindimas: 'Citata palaiko posakio kilmės ir vartojimo kontekstą.'
+  susije_objektai: 'mentioned_place: Višogrudas'
   pagrindžia:
     - c-001
 
@@ -41,7 +43,3 @@ Dusburgietis teigia, kad apie Višogrudo pilies sugriovimą Nors viešpats Pakar
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/posakiai/Mano yra kerštas, ir aš atlyginsiu]]

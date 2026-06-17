@@ -28,6 +28,11 @@ Dusburgietis teigia, kad wattenbach W.
 - t-001
   global_id: t-61363
   teiginys: 'W. Wattenbacho „Deutschlands Geschichtsquellen im Mittelalter bis zur Mitte des dreizehnten Jahrhunderts“ antras tomas išleistas Berlyne 1886 m.'
+  sudarymo_pagrindimas: 'Citata pateikia autorių, pavadinimą, tomą, leidimo vietą ir metus.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Berlynas'
+  temporaliniai_duomenys: 'įvykio data: 1886 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pateikia autorių, pavadinimą, tomą, leidimo vietą ir metus.'
   pagrindžia:
     - c-001
 

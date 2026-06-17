@@ -18,6 +18,12 @@ atnaujinta: ''
 - t-001
   global_id: t-186142
   teiginys: 'Žiemos pabaigoje į Lietuvą pas karalių atvyko Liudvikas, Antiochijos patriarchas ir popiežiaus pasiuntinys.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Liudviko atvykimą ir statusą.'
+  susije_objektai: 'location: Gardinas; location: Lietuva; mentioned_place: Gardinas; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Liudvikas (Antiochijos patriarchas)|Liudvikas (Antiochijos patriarchas)]] keliavo į Gardinas; [[objektai/asmenys/Liudvikas (Antiochijos patriarchas)|Liudvikas (Antiochijos patriarchas)]] keliavo į Lietuva'
   pagrindžia:
     - c-001
 
@@ -25,6 +31,11 @@ atnaujinta: ''
 - t-002
   global_id: t-186143
   teiginys: 'Pasak Liudviko, Mechmedas rengėsi kariauti prieš krikščionių pasaulį.'
+  teiginio_tipas: 'saltinio_teiginys'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys pagrįstai priskiria Liudvikui vertinimą ir aiškiai remiasi citata.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mechmedas|Mechmedas]]; mentioned_place: Europa'
   pagrindžia:
     - c-002
 
@@ -74,5 +85,5 @@ atnaujinta: ''
     - t-002
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/Popiežiaus ir imperatoriaus mėginimas per Liudviką įtraukti skitus į karą su turkais (1465 m.)]]
+- Liudvikas (Antiochijos patriarchas) keliavo_i [[objektai/vietos/Gardinas]]
+- Liudvikas (Antiochijos patriarchas) keliavo_i [[objektai/vietos/Lietuva]]

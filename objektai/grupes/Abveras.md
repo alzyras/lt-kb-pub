@@ -20,9 +20,11 @@ Kadangi karinė LAF dalis bendradarbiavo su Abveru, nurodyta pirmiausia užimti 
 - t-001
   global_id: t-19624
   teiginys: 'Karinė LAF dalis bendradarbiavo su Abveru ir turėjo pirmiausia užimti tiltus, geležinkelio mazgus, oro uostus bei fabrikus.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie LAF bendradarbiavimą su Abveru.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Nacių Vokietija|Nacių Vokietija]]; mentioned_person: [[objektai/asmenys/K. Škirpa|K. Škirpa]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Vokietija'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/grupes/Lietuvių aktyvistų frontas.md#claim-t-13466|Lietuvių aktyvistų frontas]]: LAF aktyvistai rinko žinias iš sovietų valdomos Lietuvos ir siuntė instrukcijas, o karinė LAF dalis bendradarbiavo su Abveru.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -43,10 +45,3 @@ Kadangi karinė LAF dalis bendradarbiavo su Abveru, nurodyta pirmiausia užimti 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/K. Škirpa]]
-- [[objektai/grupes/Nacių Vokietija]]
-- [[objektai/grupes/Lietuvių aktyvistų frontas]]
-- [[objektai/posakiai/„Vokietijos vadovaujamoje Naujoje Europoje...“]]

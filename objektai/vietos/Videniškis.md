@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-9-ojo pulko batalionas turėjo iš Videniškio pulti Giedraičių kryptimi ir paremti 2-ojo pulko puolimą.
+Lenkų pajėgos priartėjo prie Videniškio, Gelogalių ir judėjo Balnininkų link. 2-asis pulkas turėjo pulti Giedraičius iš Želvos, jų puolimą turėjo paremti 9-ojo pulko vienas batalionas, puldamas Giedraičių kryptimi iš Videniškio.
 
 ## Teiginiai
 
@@ -20,9 +20,13 @@ tags:
 - t-001
   global_id: t-42264
   teiginys: '9-ojo pulko batalionas turėjo iš Videniškio pulti Giedraičių kryptimi ir paremti 2-ojo pulko puolimą.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nurodo veikėją, veiksmą ir Videniškio vaidmenį puolimo plane.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Tautų Sąjungos kontrolės komisija|Tautų Sąjungos kontrolės komisija]]; mentioned_place: Giedraičiai; mentioned_place: Ukmergė; mentioned_place: Želva'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/grupes/J. Baranovskio brigada.md#claim-t-40892|J. Baranovskio brigada]]: Lapkričio 17 d. gen. J. Baranovskio brigada atakavo 2-ojo pėstininkų pulko pozicijas ir privertė lietuvius pasitraukti iš Giedraičių.
+- susijęs iš [[objektai/grupes/M. Butkievičiaus kavalerijos brigada.md#claim-t-41078|M. Butkievičiaus kavalerijos brigada]]: Plk. M. Butkievičiaus kavalerijos brigada prasiveržė į lietuvių užnugarį ir iki dienos pabaigos pasiekė Videniškio rajoną.
+- susijęs iš Balnininkai: Lenkų pajėgos per puolimą priartėjo prie Videniškio ir Gelogalių, o paskui judėjo Balnininkų link.
 ## Reikšmingi paminėjimai
 
 - c-001

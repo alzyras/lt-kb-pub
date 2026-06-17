@@ -3,10 +3,16 @@ tipas: posakis
 pavadinimas: '„buvo baisu šaudyti, bet maniau, kad tai reikalinga Lietuvos nepriklausomybei“'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1941 m.'
+date_start: '1941'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - posakis
+amziai:
+  - 'XX'
 ---
 # „buvo baisu šaudyti, bet maniau, kad tai reikalinga Lietuvos nepriklausomybei“
 
@@ -20,6 +26,11 @@ Anot vieno budelio – „buvo baisu šaudyti, bet maniau, kad tai reikalinga Li
 - t-001
   global_id: t-20887
   teiginys: 'Vienas budelis sakė manęs, kad šaudymas buvo reikalingas Lietuvos nepriklausomybei, nes okupantai tai įsakė ir skatino.'
+  sudarymo_pagrindimas: 'Pradinis teiginys stilistiškai silpnas ir prasideda ne enciklopedine forma.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1941 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys stilistiškai silpnas ir prasideda ne enciklopedine forma.'
   pagrindžia:
     - c-001
 
@@ -39,7 +50,3 @@ Anot vieno budelio – „buvo baisu šaudyti, bet maniau, kad tai reikalinga Li
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Žydai]]

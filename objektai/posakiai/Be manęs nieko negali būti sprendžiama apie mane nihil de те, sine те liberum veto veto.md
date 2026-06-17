@@ -164,15 +164,3 @@ Posakis „Be manęs nieko negali būti sprendžiama apie mane“ buvo laikomas 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-005
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/posakiai/Be manęs nieko negali būti sprendžiama apie mane]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/posakiai/kardinalinės teisės]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/zodynas/statutas]]
-- [[objektai/grupes/Čartoriskiai]]
-- [[objektai/zodynas/Liberum veto]]
-- [[objektai/zodynas/pacta conventa]]

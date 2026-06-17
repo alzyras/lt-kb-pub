@@ -26,6 +26,11 @@ Dusburgietis teigia, kad manoma, kad Sakso Gramatiko (mir.
 - t-001
   global_id: t-61278
   teiginys: 'Sakso Gramatiko Danijos istorijoje minimi Rutheni greičiausiai buvo venedai, apie kuriuos rašė Dusburgietis.'
+  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytą interpretaciją apie Rutheni.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/Sakso Gramatiko|Sakso Gramatiko]]'
+  temporaliniai_duomenys: 'įvykio data: 1216 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia citatoje nurodytą interpretaciją apie Rutheni.'
   pagrindžia:
     - c-001
 

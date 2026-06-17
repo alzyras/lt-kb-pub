@@ -27,6 +27,11 @@ Politinis atšilimas ir liberalizacijos ženklai kultūriniame gyvenime nereišk
 - t-001
   global_id: t-70328
   teiginys: 'Politinio atšilimo metais dauguma užsienio ar ikikarinių leidinių tebebuvo laikomi vadinamuosiuose specfonduose.'
+  sudarymo_pagrindimas: 'Pašalintas puslapio ir antraštės triukšmas, paliktas citata pagrįstas faktas apie specfondus.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/atšilimas|atšilimas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Poznanė; mentioned_place: Vengrija'
+  temporaliniai_duomenys: 'įvykio data: po 1956 m.; įvykio data: 1956 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas puslapio ir antraštės triukšmas, paliktas citata pagrįstas faktas apie specfondus.'
   pagrindžia:
     - c-001
 
@@ -50,7 +55,3 @@ Politinis atšilimas ir liberalizacijos ženklai kultūriniame gyvenime nereišk
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/atšilimas]]

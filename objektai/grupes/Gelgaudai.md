@@ -21,9 +21,13 @@ Se­ niau ji priklausė Eperješams, vėliau - Gelgaudams; kadangi išvengė gai
 - t-001
   global_id: t-86792
   teiginys: 'Fridbergo pilis anksčiau priklausė Eperješams, o vėliau perėjo Gelgaudams.'
+  sudarymo_pagrindimas: 'Teiginys sutrumpintas iki fakto apie Gelgaudus.'
+  susije_objektai: 'owner: Bajerburgas; owner: Bokštai; owner: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; owner: Nemunas; owner: Veliuona; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Bajerburgas; mentioned_place: Bokštai; mentioned_place: Nemunas; mentioned_place: Veliuona'
+  semantiniai_rysiai: '[[objektai/grupes/Gelgaudai|Gelgaudai]] priklausė [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; [[objektai/grupes/Gelgaudai|Gelgaudai]] priklausė Bajerburgas; [[objektai/grupes/Gelgaudai|Gelgaudai]] priklausė Bokštai; [[objektai/grupes/Gelgaudai|Gelgaudai]] priklausė Nemunas; [[objektai/grupes/Gelgaudai|Gelgaudai]] priklausė Veliuona'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/grupes/Eperješai.md#claim-t-86790|Eperješai]]: Fridbergo pilis anksčiau priklausė Eperješams, o vėliau perėjo Gelgaudams.
+- susijęs iš [[objektai/grupes/Eperješai.md#claim-t-86790|Eperješai]]: Fridbergo pilis anksčiau priklausė Eperješams, o vėliau perėjo Gelgaudams.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -47,6 +51,9 @@ Se­ niau ji priklausė Eperješams, vėliau - Gelgaudams; kadangi išvengė gai
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Eperješai]]
+- [[objektai/grupes/Eperješai]] priklause Gelgaudai
+- Gelgaudai priklause [[objektai/vietos/Bajerburgas]]
+- Gelgaudai priklause [[objektai/vietos/Bokštai]]
+- Gelgaudai priklause [[objektai/grupes/Kryžiuočių ordinas]]
+- Gelgaudai priklause [[objektai/vietos/Nemunas]]
+- Gelgaudai priklause [[objektai/vietos/Veliuona]]

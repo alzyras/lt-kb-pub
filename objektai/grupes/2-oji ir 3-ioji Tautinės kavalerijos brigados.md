@@ -4,9 +4,10 @@ pavadinimas: '2-oji ir 3-ioji Tautinės kavalerijos brigados'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
+  - '1794 m.'
   - '2004 m.'
-date_start: '2004'
-date_end: ''
+date_start: '1794'
+date_end: '2004'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -14,6 +15,7 @@ tags:
   - sukilimas
   - tauta
 amziai:
+  - 'XVIII'
   - 'XXI'
 ---
 # 2-oji ir 3-ioji Tautinės kavalerijos brigados
@@ -28,9 +30,13 @@ Jono Mejeno divizija, kurią sudarė 2-0ji ir 3-ioji Tautinės kavalerijos briga
 - t-001
   global_id: t-40822
   teiginys: '2-oji ir 3-ioji Tautinės kavalerijos brigados buvo gen. mjr. Jono Mejeno divizijos, gynusios Vilnių nuo rusų puolimo, sudėtyje.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/brigada|brigada]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1794 m.; įvykio data: 2004 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/grupes/oji ir 3-ioji Tautinės kavalerijos brigados.md#claim-t-80647|oji ir 3-ioji Tautinės kavalerijos brigados]]: 2-oji ir 3-ioji Tautinės kavalerijos brigados priklausė gen. mjr. Jono Mejeno divizijai, gynusiai Vilnių nuo rusų puolimo.
+- susijęs iš [[objektai/grupes/oji ir 3-ioji Tautinės kavalerijos brigados.md#claim-t-80647|oji ir 3-ioji Tautinės kavalerijos brigados]]: 2-oji ir 3-ioji Tautinės kavalerijos brigados priklausė gen. mjr. Jono Mejeno divizijai, gynusiai Vilnių nuo rusų puolimo.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -54,9 +60,4 @@ Jono Mejeno divizija, kurią sudarė 2-0ji ir 3-ioji Tautinės kavalerijos briga
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Rusai]]
-- [[objektai/grupes/brigada]]
-- [[objektai/grupes/oji ir 3-ioji Tautinės kavalerijos brigados]]
-- [[objektai/grupes/Jono Mejeno divizija]]
-- [[objektai/grupes/Jozefo Grabinskio Jėgerių batalionas]]
+- [[objektai/grupes/oji ir 3-ioji Tautinės kavalerijos brigados]] priklause 2-oji ir 3-ioji Tautinės kavalerijos brigados

@@ -23,6 +23,8 @@ tags:
 - t-001
   global_id: t-86092
   teiginys: 'Kitoje Vilijos pusėje, prie Visevaldės pilies netoli senojo Kauno, buvo Skirgailos stovykla.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir paremtas citata apie Vilijos pusėje buvusią stovyklą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_object: [[objektai/zodynas/didysis maršalas|didysis maršalas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Livonija; mentioned_place: Vilija'
   pagrindžia:
     - c-001
 
@@ -30,6 +32,8 @@ tags:
 - t-002
   global_id: t-86093
   teiginys: 'Latopisiec Litewski nurodo, kad mūšis vyko prie Vilijos upės, ties Horodoku, vietovėje, vadinamoje Weyiszczuszki.'
+  sudarymo_pagrindimas: 'Teiginys tinkamai priskiria mūšio vietos informaciją Latopisiec Litewski pasakojimui.'
+  susije_objektai: 'mentioned_place: Prūsai; mentioned_place: Vilija'
   pagrindžia:
     - c-002
 
@@ -37,6 +41,8 @@ tags:
 - t-003
   global_id: t-86094
   teiginys: 'Artėjanti žiema grėsė Vilijos upėje stovėjusiems kryžiuočių laivams užkirsti kelią grįžti į Prūsiją.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir atitinka citatos informaciją apie laivus Vilijos upėje.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Prūsija; mentioned_place: Vilija'
   pagrindžia:
     - c-003
 

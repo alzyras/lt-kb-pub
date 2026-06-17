@@ -29,6 +29,11 @@ Dviejų karaliaus Stepono Batoro laiškų, rašytų Radviloms, turinys: apie mui
 - t-001
   global_id: t-88479
   teiginys: 'Stepono Batoro laiškų Radviloms rinkinyje buvo du laiškai apie muitus ir mokesčius Vilniaus pirkliams ir miestiečiams.'
+  sudarymo_pagrindimas: 'Teiginys tiksliai nusako citatoje minimą dviejų laiškų turinį.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Augsburgas; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1559 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys tiksliai nusako citatoje minimą dviejų laiškų turinį.'
   pagrindžia:
     - c-001
 

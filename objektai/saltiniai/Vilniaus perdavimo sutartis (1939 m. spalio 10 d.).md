@@ -22,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-Vilniaus perdavimo sutarties straipsniai potencialiai grėsė Lietuvos nepriklausomybei. 1939 m. spalio 10 d., spaudžiant J. Stalinui ir V. Molotovui, buvo pasirašytos Vilniaus perdavimo bei SSRS ir Lietuvos savitarpio pagalbos sutartys.
+Molotovui, spalio 10 dieną pasirašyta Vilniaus perdavimo sutartis ir SSRS ir Lietuvos savitarpio pagalbos sutartis.
 
 ## Teiginiai
 
@@ -30,6 +30,11 @@ Vilniaus perdavimo sutarties straipsniai potencialiai grėsė Lietuvos nepriklau
 - t-001
   global_id: t-21312
   teiginys: 'Vilniaus perdavimo sutarties straipsniai potencialiai grėsė Lietuvos nepriklausomybei.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir tiesiogiai remiasi citata.'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: SSRS; mentioned_place: Vilnius; mentioned_place: Vokietija'
+  temporaliniai_duomenys: 'įvykio data: 1920 m.; įvykio data: 1926 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, faktinis ir tiesiogiai remiasi citata.'
   pagrindžia:
     - c-001
 
@@ -37,6 +42,14 @@ Vilniaus perdavimo sutarties straipsniai potencialiai grėsė Lietuvos nepriklau
 - t-002
   global_id: t-183387
   teiginys: '1939 m. spalio 10 d., spaudžiant J. Stalinui ir V. Molotovui, buvo pasirašytos Vilniaus perdavimo bei SSRS ir Lietuvos savitarpio pagalbos sutartys.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Reikia tiksliau įvardyti, kad pasirašytos dvi sutartys.'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: SSRS; mentioned_place: Vilnius; mentioned_place: Vokietija'
+  temporaliniai_duomenys: 'įvykio data: 1920 m.; įvykio data: 1926 m.; įvykio data: 1939 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia tiksliau įvardyti, kad pasirašytos dvi sutartys.'
   pagrindžia:
     - c-002
 

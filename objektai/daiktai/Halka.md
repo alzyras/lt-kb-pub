@@ -51,6 +51,7 @@ Nenurodyta
 - t-001
   global_id: t-35504
   teiginys: 'Halka buvo didelė patranka, kurią vos patraukdavo 20 porų arklių.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Lenkija; mentioned_place: Naugardas; mentioned_place: Viena'
   pagrindžia:
     - c-002
 
@@ -58,6 +59,8 @@ Nenurodyta
 - t-002
   global_id: t-35505
   teiginys: 'Halka buvo didelė kanuolė, kurią vos patraukdavo 20 porų arklių.'
+  sudarymo_pagrindimas: 'Citata tiesiogiai apibūdina Halką ir jos sunkumą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Lenkija; mentioned_place: Naugardas; mentioned_place: Viena'
   pagrindžia:
     - c-002
 
@@ -94,8 +97,3 @@ Nenurodyta
   pagrindžia:
     - t-001
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/kunigaikščiai]]

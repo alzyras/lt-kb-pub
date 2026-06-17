@@ -26,9 +26,18 @@ Dusburgietis teigia, kad apie gibelinus ir gvelfus 1228 viešpaties metais Itali
 - t-001
   global_id: t-58902
   teiginys: '1228 m. Italijoje radosi gibelinų ir gvelfų partijos; Gibelinas rėmė imperatorių, o Gveltas - bažnyčią.'
+  sudarymo_pagrindimas: 'Citata pagrindžia glaustą faktą, o pradiniame teiginyje yra nereikalinga įžanga.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/gvelfai|gvelfai]]; mentioned_place: Italija'
+  temporaliniai_duomenys: 'įvykio data: 1228 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia glaustą faktą, o pradiniame teiginyje yra nereikalinga įžanga.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/ivykiai/Daugelio tūkstančių gvelfų žūtis Italijoje.md#claim-t-183915|Daugelio tūkstančių gvelfų žūtis Italijoje]]: 1325 m. Italijoje gibelinai nužudė daug tūkstančių gvelfų.
+- susijęs iš [[objektai/ivykiai/Daugelio tūkstančių gvelfų žūtis Italijoje.md#claim-t-62765|Daugelio tūkstančių gvelfų žūtis Italijoje]]: 1325 m. Italijoje gibelinai nužudė daug tūkstančių gvelfų.
+- susijęs iš [[objektai/ivykiai/Gibelinų ir gvelfų partijų atsiradimas (1228 m.).md#claim-t-62268|Gibelinų ir gvelfų partijų atsiradimas (1228 m.)]]: 1228 m. Italijoje atsirado gibelinų ir gvelfų partijos; Gibelinas rėmė imperatorių, o Gveltas – bažnyčią.
+- susijęs iš Ptolomėjaus iš Lukos Analai: 1228 m. Italijoje radosi gibelinų ir gvelfų partijos: Gibelinas rėmė imperatorių, o Gveltas bažnyčią.
+- susijęs iš [[objektai/zodynas/gvelfai.md#claim-t-58904|gvelfai]]: 1228 m. Italijoje atsirado gibelinų ir gvelfų partijos; Gveltas rėmė bažnyčią, o Gibelinas - imperatorių.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -45,9 +54,3 @@ Dusburgietis teigia, kad apie gibelinus ir gvelfus 1228 viešpaties metais Itali
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/gvelfai]]
-- [[objektai/ivykiai/Daugelio tūkstančių gvelfų žūtis Italijoje]]
-- [[objektai/ivykiai/Gibelinų ir gvelfų partijų atsiradimas (1228 m.)]]

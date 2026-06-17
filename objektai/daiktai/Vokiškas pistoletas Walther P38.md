@@ -46,6 +46,8 @@ Nenurodyta
 - t-001
   global_id: t-80696
   teiginys: 'Vokiškas pistoletas Walther P38 buvo nurodytas kaip 220 puslapio iliustracija iš VDKM, fotografuota Artūro Užgalio.'
+  sudarymo_pagrindimas: 'Pradinis teiginys yra kito objekto sąrašo fragmentas; citata leidžia tik bibliografinį iliustracijos faktą apie Walther P38.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Pistoletas|Pistoletas]]; mentioned_object: [[objektai/daiktai/Čekoslovakiškas lengvasis kulkosvaidis zB vz. 26|Čekoslovakiškas lengvasis kulkosvaidis zB vz. 26]]'
   pagrindžia:
     - c-001
 
@@ -64,8 +66,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Pistoletas]]
-- [[objektai/daiktai/Čekoslovakiškas lengvasis kulkosvaidis zB vz. 26]]

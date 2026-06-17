@@ -5,15 +5,16 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 datos:
   - '1932 m.'
+  - '1935 m.'
 date_start: '1932'
-date_end: ''
+date_end: '1935'
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XX'
 tags:
   - ivykis
   - kraštas
+amziai:
+  - 'XX'
 ---
 # Draugijos Užsienio Lietuviams Remti įsikūrimas ir veikla (1932 m.)
 
@@ -34,26 +35,49 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 <a id="claim-t-01610"></a>
 - t-001
   global_id: t-01610
   teiginys: '1932 m. įsikūrusi Draugija Užsienio Lietuviams Remti siekė kultūriškai ir, kiek įmanoma, materialiai remti užsienyje gyvenančius lietuvius.'
+  sudarymo_pagrindimas: 'Citata leidžia aiškiau suformuluoti draugijos įsikūrimą ir tikslą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Draugija užsienio lietuviams remti|Draugija užsienio lietuviams remti]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1932 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata leidžia aiškiau suformuluoti draugijos įsikūrimą ir tikslą.'
   pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+    - c-002
+
 <a id="claim-t-01611"></a>
 - t-002
   global_id: t-01611
   teiginys: 'Draugija Užsienio Lietuviams Remti rūpinosi lietuviškomis mokyklomis, mokytojais ir knygomis išeivių bibliotekoms.'
+  sudarymo_pagrindimas: 'Citata leidžia pakeisti santrumpą aiškiu organizacijos pavadinimu ir sutrumpinti sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Draugija užsienio lietuviams remti|Draugija užsienio lietuviams remti]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
+  temporaliniai_duomenys: 'įvykio data: 1935 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata leidžia pakeisti santrumpą aiškiu organizacijos pavadinimu ir sutrumpinti sakinį.'
   pagrindžia:
-    - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1932 m. įsikūrusi Draugija Užsienio Lietuviams Remti siekė kultūriškai ir, kiek įmanoma, materialiai remti užsienyje gyvenančius lietuvius.'
+  santrauka: 'Draugija Užsienio Lietuviams Remti rūpinosi lietuviškomis mokyklomis, mokytojais ir knygomis išeivių bibliotekoms.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    (Kongresas įvyko 1935 m. rugpiūčio 11—17 d. Kaune. Tarp kitko jis
+    nutarė įkurti Pasaulio Lietuvių Sąjungą).
+    Stengdamasi pakelti užsienio lietuvių švietimą, DULR rūpinasi
+    lietuviškų mokyklų steigimu, parūpina išeivių mokykloms mokytojų,
+    siunčia išeivių bibliotekoms knygų ir vadovėlių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tam tikslui 1932 m. įsikūrė Draugija
@@ -63,32 +87,8 @@ Nenurodyta
     artimiausią ryšį, draugija padeda į Lietuvą atvykstančioms išeivių
     ekskursijoms, suartina panašias užsienio lietuvių ir Lietuvos orga-
     nizacijas, padeda susitikti sportininkams ir pasirodyti menininkams.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Draugija Užsienio Lietuviams Remti rūpinosi lietuviškomis mokyklomis, mokytojais ir knygomis išeivių bibliotekoms.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    (Kongresas įvyko 1935 m. rugpiūčio 11—17 d. Kaune. Tarp kitko jis
-    nutarė įkurti Pasaulio Lietuvių Sąjungą).
-    Stengdamasi pakelti užsienio lietuvių švietimą, DULR rūpinasi
-    lietuviškų mokyklų steigimu, parūpina išeivių mokykloms mokytojų,
-    siunčia išeivių bibliotekoms knygų ir vadovėlių.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Draugija užsienio lietuviams remti]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Draugija Užsienio Lietuviams Remti (DULR)]]

@@ -21,6 +21,7 @@ Ziesemer, Karaliau­ čiaus ir Dancigo archyvų žinovas, ypač atsidėjęs voki
 - t-001
   global_id: t-31075
   teiginys: 'W. Ziesemeris buvo Karaliaučiaus ir Dancigo archyvų žinovas, ypač atsidėjęs Vokiečių ordino istorijos šaltinių tyrimui.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Dancigas'
   pagrindžia:
     - c-001
 
@@ -43,8 +44,3 @@ Ziesemer, Karaliau­ čiaus ir Dancigo archyvų žinovas, ypač atsidėjęs voki
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Vokiečiai]]

@@ -27,6 +27,9 @@ Szameitat : Bibliographie des Memellandes (Ostdeutsche Beiträge aus dem Göttin
 - t-001
   global_id: t-31635
   teiginys: '„Bibliographie des Memellandes“ buvo atskira Klaipėdos krašto bibliografija, išleista 1957 m. Würzburge.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/M. Szameitat|M. Szameitat]]; mentioned_person: [[objektai/autoriai/P. Rėklaitis|P. Rėklaitis]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1957 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

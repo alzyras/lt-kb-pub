@@ -20,9 +20,11 @@ Nors ir smarkiai kryžiuočiai buvo perse­ kiojami, vis dėlto jie nuėjo ligi 
 - t-001
   global_id: t-36476
   teiginys: 'Persekiojami kryžiuočiai vis dėlto nuėjo iki Papartėnų netoli Kernavės.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Kernavė'
   pagrindžia:
     - c-001
-
+- susijęs iš Kernavė: Persekiojami kryžiuočiai pasiekė Papartėnus, buvusius netoli Kernavės.
 ## Reikšmingi paminėjimai
 
 - c-001

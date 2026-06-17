@@ -28,9 +28,23 @@ Gimstanti Pirmoji Lietuvos Respublika 1919-1920 m. turėjo kariauti Nepriklausom
 - t-001
   global_id: t-42425
   teiginys: '1919-1920 m. Nepriklausomybės kovose Pirmoji Lietuvos Respublika kariavo prieš bolševikus, stabdė juos prie Jiezno ir Kėdainių ir vijosi iki Daugpilio.'
+  sudarymo_pagrindimas: 'Teiginys yra faktinis sakinys apie Nepriklausomybės kovas ir atitinka citatą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Bermontininkai|Bermontininkai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuvos Respublika|Lietuvos Respublika]]; mentioned_object: [[objektai/zodynas/ekspansija|ekspansija]]; mentioned_place: Daugpilis; mentioned_place: Jieznas; mentioned_place: Kėdainiai; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Vokietija'
+  temporaliniai_duomenys: 'mūšio data: 1919-1920; mūšio data: 1920 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra faktinis sakinys apie Nepriklausomybės kovas ir atitinka citatą.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/autoriai/Andžej Geglis.md#claim-t-71499|Andžej Geglis]]: Andžej Geglis buvo teksto „XX a. pradžios pėstininkų taktika“ autorius ir dailininkas.
+- susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171498|Karolis Zikaras]]: Karolis Zikaras nurodytas prie teksto „Valstybės smukimas“.
+- susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
+- susijęs iš [[objektai/daiktai/1916 m. modelio 77 mm vokiška patranka.md#claim-t-183681|1916 m. modelio 77 mm vokiška patranka]]: Lietuvos kariuomenės artileristai buvo prie 1916 m. modelio 77 mm vokiškos patrankos.
+- susijęs iš [[objektai/daiktai/1916 m. modelio 77 mm vokiška patranka.md#claim-t-39233|1916 m. modelio 77 mm vokiška patranka]]: Lietuvos kariuomenės artileristai buvo užfiksuoti prie 1916 m. modelio 77 mm vokiškos patrankos.
+- susijęs iš Antano Šukio prisiminimai Du mediniai ir trys geležiniai kryžiai: Antano Šukio „Du mediniai ir trys geležiniai kryžiai“ yra atsiminimai apie Lietuvos nepriklausomybės kovas 1919-1921 metais.
+- susijęs iš Atskirojo Marijampolės bataliono viršilos Antano Šukio pasvarstymai: 6-ojo pėstininkų pulko 1-ojo bataliono viršila Antanas Šukys pasakojo apie savo kuopos kontrataką prieš lenkų pajėgas tarp Seinų ir Gibų.
+- susijęs iš XX A. PRADŽIOS PĖSTININKŲ TAKTIKA: „XX a. pradžios pėstininkų taktika“ yra Andžejaus Geglio iliustracija.
+- susijęs iš Daugpilis: 1919-1920 m. Pirmoji Lietuvos Respublika Nepriklausomybės kovose vijo bolševikus iki Daugpilio.
+- susijęs iš Jieznas: Gimstanti Pirmoji Lietuvos Respublika 1919-1920 m. turėjo kariauti Nepriklausomybės kovose prieš bolševikus, atremdama jų ekspansiją prie Jiezno ir Kėdainių, po to vydama juos iki pat Daugpilio.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -53,14 +67,3 @@ Gimstanti Pirmoji Lietuvos Respublika 1919-1920 m. turėjo kariauti Nepriklausom
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/grupes/Bermontininkai]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuvos Respublika]]
-- [[objektai/zodynas/ekspansija]]
-- [[objektai/daiktai/1916 m. modelio 77 mm vokiška patranka]]
-- [[objektai/autoriai/Andžej Geglis]]
-- [[objektai/autoriai/Karolis Zikaras]]

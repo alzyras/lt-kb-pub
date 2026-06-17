@@ -20,9 +20,11 @@ Landsbergis atkakliai ir tvirtai paisė tik moralios politikos principų – „
 - t-001
   global_id: t-77847
   teiginys: 'V. Landsbergis Kovo 11 Akto atšaukimo reikalavimą atmetė remdamasis principu, kad „kas buvo pavogta, turi būti grąžinta“.'
+  sudarymo_pagrindimas: 'Pradinis teiginys per daug vertinamasis; perrašyta į konkretesnį faktą iš citatos.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva; mentioned_place: SSRS'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Michailas Gorbačiovas.md#claim-t-101682|Michailas Gorbačiovas]]: SSRS vadovybė su Michailu Gorbačiovu priešakyje reikalavo atšaukti Kovo 11 Aktą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -42,8 +44,3 @@ Landsbergis atkakliai ir tvirtai paisė tik moralios politikos principų – „
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/asmenys/Michailas Gorbačiovas]]

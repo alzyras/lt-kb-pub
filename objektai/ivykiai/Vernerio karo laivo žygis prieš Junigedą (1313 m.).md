@@ -45,6 +45,11 @@ Nenurodyta
 - t-001
   global_id: t-59449
   teiginys: '1313 m. Ragainės komtūras Verneris pasistatydino sienomis sustiprintą karo laivą ir su kitais laivais išplaukė pulti Junigedos pilies.'
+  sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir turi šaltinio antraštės triukšmo, bet citata pagrindžia faktą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Junigeda; mentioned_place: Ragainė; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1313 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys per ilgas ir turi šaltinio antraštės triukšmo, bet citata pagrindžia faktą.'
   pagrindžia:
     - c-002
 
@@ -52,6 +57,8 @@ Nenurodyta
 - t-002
   global_id: t-59450
   teiginys: 'Junigedos pilėnai užpuolė prie kranto nublokštą Ordino laivą, bet broliai ir ginklanešiai apsigynė ir išsigelbėjo.'
+  sudarymo_pagrindimas: 'Pradinis teiginys sudarytas iš citatos fragmentų, todėl perrašytas į vieną aiškų sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_place: Junigeda; mentioned_place: Pilėnai'
   pagrindžia:
     - c-001
 
@@ -85,11 +92,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/daiktai/Laivai]]
-- [[objektai/zodynas/ginklanešiai]]
-- [[objektai/zodynas/komtūras]]
-- [[objektai/ivykiai/Junigedos puolimas laivu ir Surmino kontrataka (1313 m.)]]

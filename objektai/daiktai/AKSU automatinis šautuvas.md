@@ -47,6 +47,11 @@ Nenurodyta
 - t-001
   global_id: t-40686
   teiginys: '1991 m. rugpjūčio pučo metu AT gynyboje vienas Mokomojo junginio karys buvo ginkluotas AKSU automatiniu šautuvu.'
+  sudarymo_pagrindimas: 'Teiginys aiškus, gramatinis ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/ATAS|ATAS]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva; mentioned_place: Pilėnai'
+  temporaliniai_duomenys: 'įvykio data: 1991 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškus, gramatinis ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -82,9 +87,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/ATAS]]
-- [[objektai/daiktai/Ginklai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

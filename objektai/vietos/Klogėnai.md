@@ -24,9 +24,20 @@ Iš Prūsijos patraukęs priešas Žemaitijoje sulygino su žeme Vaikių, Rasein
 - t-001
   global_id: t-185288
   teiginys: 'Iš Prūsijos patraukęs priešas Žemaitijoje sulygino su žeme Vaikių, Raseinių, Ariogalos ir Klogėnų valsčius.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Klogėnų valsčiaus nusiaubimą ir tiksliai remiasi citata.'
+  susije_objektai: 'mentioned_place: Ariogala; mentioned_place: Prūsija'
+  temporaliniai_duomenys: 'įvykio data: 1322 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie Klogėnų valsčiaus nusiaubimą ir tiksliai remiasi citata.'
   pagrindžia:
     - c-001
-
+- susijęs iš Ariogala: Žemaitiją nusiaubęs priešas sulygino su žeme Ariogalos, Vaikių, Raseinių ir Klogėnų valsčius.
+- susijęs iš Raseiniai: Žemaitijos nusiaubimo metu Raseinių valsčius buvo sulygintas su žeme kartu su Vaikių, Ariogalos ir Klogėnų valsčiais.
+- susijęs iš Vaikiai: Iš Prūsijos atžygiavęs priešas Žemaitijoje sulygino su žeme Vaikių, Raseinių, Ariogalos ir Klogėnų valsčius.
+- susijęs iš Žemaitija: Iš Prūsijos patraukęs priešas nusiaubė Žemaitiją ir sulygino su žeme Vaikių, Raseinių, Ariogalos bei Klogėnų valsčius.
 ## Reikšmingi paminėjimai
 
 - c-001

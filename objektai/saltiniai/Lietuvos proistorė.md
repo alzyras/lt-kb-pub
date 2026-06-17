@@ -26,6 +26,7 @@ Gimbutienė (Gimbutas), Marija : Lietuvos proistorė, LE, t.
 - t-001
   global_id: t-31821
   teiginys: 'Marijos Gimbutienės „Lietuvos proistorė“ paskelbta „Lietuvių enciklopedijos“ 15 tome, 269-291 puslapiuose.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_person: [[objektai/asmenys/Marija|Marija]]; mentioned_place: Maskva; mentioned_place: Milanas; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

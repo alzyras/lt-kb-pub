@@ -3,17 +3,23 @@ tipas: paprotys
 pavadinimas: 'Valsčių savivaldybių priežiūra per taikos tarpininkus ir taikos teisėjus'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1861 m.'
+date_start: '1861'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - elekcija
   - paprotys
+amziai:
+  - 'XIX'
 ---
 # Valsčių savivaldybių priežiūra per taikos tarpininkus ir taikos teisėjus
 
 ## Santrauka
 
-1861 m. įkurtų valsčių viršaičiai ir raštininkai, kurių daugumą buvo paskyrę dvarininkai, buvo atstatydinti.
+1861 m. įkurtų valsčių viršaičiai (staršinos) ir raštininkai, kurių daugumas buvo dvarininkų pastatyti, buvo atstatyti. Viso valstiečių savivaldybių veikimo priežiūra buvo pavesta taikos tarpininkams su taikos teisėjais.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -31,16 +37,21 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 <a id="claim-t-02044"></a>
 - t-001
   global_id: t-02044
   teiginys: '1861 m. įkurtų valsčių viršaičiai ir raštininkai, kurių daugumą buvo paskyrę dvarininkai, buvo atstatydinti.'
+  sudarymo_pagrindimas: 'Žodis „atstatyti“ čia taisytinas į aiškesnį faktinį veiksmą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Žynių titulai ir pareigybės|Žynių titulai ir pareigybės]]'
+  temporaliniai_duomenys: 'įvykio data: 1861 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Žodis „atstatyti“ čia taisytinas į aiškesnį faktinį veiksmą.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: '1861 m. įkurtų valsčių viršaičiai ir raštininkai, kurių daugumą buvo paskyrę dvarininkai, buvo atstatydinti.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -52,10 +63,8 @@ Nenurodyta
     vo įsakyta stropiai žiūrėti, kad dvarininkai ir dvarų administra-
     cijos tarnautojai nedalyvautų valsčių sueigose ir nesikištų į jų
     nutarimus.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

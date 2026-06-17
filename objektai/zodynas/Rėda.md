@@ -3,10 +3,6 @@ tipas: zodyno_irasas
 pavadinimas: 'rėda'
 saltiniai:
   - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
-aliases:
-  - 'objektai/zodynas/ūkės rėda'
-variantai:
-  - 'ūkės rėda'
 sukurta: ''
 atnaujinta: ''
 ---
@@ -31,6 +27,8 @@ Vartojamos formos: `ūkės rėdą`, `rėdą`.
 - t-001
   global_id: t-70045
   teiginys: 'Rėda citatoje siejama su tautos tvarka, kuri, pasak Daukanto, kilo nuo kunigų kaip Dievo ir pasaulio tarpininkų.'
+  sudarymo_pagrindimas: 'Citata aiškina rėdą kaip tautos tvarką ir nurodo jos kilmę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-001
     - c-002
@@ -39,9 +37,13 @@ Vartojamos formos: `ūkės rėdą`, `rėdą`.
 - t-002
   global_id: t-70048
   teiginys: 'Senovės lietuvių ūkės rėdą, pasak Daukanto, sunku aiškiai aprašyti dėl karų, priešų ir žmonių skaugės padaryto naikinimo.'
+  sudarymo_pagrindimas: 'Citata kalba apie senovės lietuvių ūkės rėdą ir jos pažinimo sunkumą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/paprociai/Kuopose renkami kunigai ir karo vadai.md#claim-t-07788|Kuopose renkami kunigai ir karo vadai]]: Į kuopas suėjęs svietas rinkdavo žynius arba kunigus iš dorų, išmintingų ir patyrusių vyrų.
+- susijęs iš [[objektai/zodynas/Žemlionis.md#claim-t-70424|žemlionis]]: Žemlionys karo metu išsirinkdavo narsų ir kantrų vyrą, kuris tapdavo karvedžiu arba atmonu.
+- susijęs iš [[objektai/zodynas/Žemlionis.md#claim-t-70426|žemlionis]]: `Žemlionys` šiame tekste reiškia kareivius ar karo sluoksnį.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -66,11 +68,3 @@ Vartojamos formos: `ūkės rėdą`, `rėdą`.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Dabą|dabą]]
-- [[objektai/zodynas/Ermyderiai|ermyderiai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/paprociai/Kuopose renkami kunigai ir karo vadai]]
-- [[objektai/zodynas/Žemlionis|žemlionis]]

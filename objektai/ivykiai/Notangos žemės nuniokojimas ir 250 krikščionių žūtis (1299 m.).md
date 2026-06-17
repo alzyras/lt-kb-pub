@@ -43,6 +43,11 @@ Nenurodyta
 - t-001
   global_id: t-91916
   teiginys: '1299 m. šeši šimtai Lietuvos vyrų įsibrovė į Notangą, nusiaubė didžiąją jos dalį ir nužudė arba paėmė į nelaisvę 250 krikščionių.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir turi puslapio išnašos triukšmo.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_place: Lietuva; mentioned_place: Notanga; mentioned_place: Ryga'
+  temporaliniai_duomenys: 'įvykio data: 1299 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs ir turi puslapio išnašos triukšmo.'
   pagrindžia:
     - c-001
 
@@ -67,10 +72,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/netikėliai]]
-- [[objektai/asmenys/Kunonas (Brandenburgo komtūras)]]
-- [[objektai/grupes/Lietuviai]]

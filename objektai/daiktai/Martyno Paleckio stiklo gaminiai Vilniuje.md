@@ -16,7 +16,7 @@ amziai:
 
 ## Santrauka
 
-Paleckio privilegija steigti stiklo liejyklą buvo duota 1547 m. gegužės 22 d. ir turėjo prikabintą Lietuvos Didžiosios Kunigaikštystės antspaudą. Martynui Paleckiui ir jo palikuonims suteikta teisė supirkti į Vilnių iš Lenkijos vežamą stiklą, išskyrus Venecijos stiklą. Privilegijoje nustatytos didelių ir mažų Kurovo stiklinių kainos ir nurodyta langų stiklą pardavinėti žmonių neapsunkinant.
+Martyno Paleckio privilegijos kontekste minimi į Vilnių iš Lenkijos vežami stiklo gaminiai: didelės ir mažos Kurovo stiklinės bei langų stiklas. Šaltinis nurodo jų kainas, pardavimo ribojimus ir kasmetinę stiklinių prievolę karališkiesiems Vilniaus rūmams.
 
 ## Pavadinimai šaltiniuose
 
@@ -47,6 +47,9 @@ Nenurodyta
 - t-001
   global_id: t-55041
   teiginys: 'Paleckio privilegija steigti stiklo liejyklą buvo duota 1547 m. gegužės 22 d. ir turėjo prikabintą Lietuvos Didžiosios Kunigaikštystės antspaudą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]; mentioned_place: Lietuva; mentioned_place: Vilija; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1547 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -54,6 +57,8 @@ Nenurodyta
 - t-002
   global_id: t-55042
   teiginys: 'Martynui Paleckiui ir jo palikuonims suteikta teisė supirkti į Vilnių iš Lenkijos vežamą stiklą, išskyrus Venecijos stiklą.'
+  sudarymo_pagrindimas: 'Reikia išplėsti asmens vardą ir pašalinti netikslų dalinį įvardijimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Skyrai|Skyrai]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Lenkija; mentioned_place: Venecija; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -61,6 +66,7 @@ Nenurodyta
 - t-003
   global_id: t-55043
   teiginys: 'Privilegijoje nustatytos didelių ir mažų Kurovo stiklinių kainos ir nurodyta langų stiklą pardavinėti žmonių neapsunkinant.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Skyrai|Skyrai]]; mentioned_place: Lenkija; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -68,6 +74,8 @@ Nenurodyta
 - t-004
   global_id: t-55044
   teiginys: 'Už karaliaus dovanotą žemę Martynas Paleckis kasmet turėjo pristatyti į karališkuosius Vilniaus rūmus po 200 didžiųjų ir mažesniųjų Kurovo stiklinių.'
+  sudarymo_pagrindimas: 'Citata patikslina, kad turėta pristatyti po 200 abiejų rūšių stiklinių.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Skyrai|Skyrai]]; mentioned_person: [[objektai/asmenys/Martynas Paleckis|Martynas Paleckis]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Lenkija; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -75,6 +83,8 @@ Nenurodyta
 - t-005
   global_id: t-81855
   teiginys: 'Martynas Paleckis Vilniuje gavo žemės sklypą, leidimą steigti stiklo liejyklą ir privilegiją pardavinėti lenkišką stiklą.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_person: [[objektai/asmenys/Martynas Paleckis|Martynas Paleckis]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 
@@ -158,15 +168,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-005
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Antspaudas]]
-- [[objektai/grupes/Slavai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/asmenys/Martynas iš Golino]]
-- [[objektai/grupes/Radvilos]]
-- [[objektai/grupes/Skyrai]]
-- [[objektai/asmenys/Valerijonas (raštininkas)]]
-- [[objektai/asmenys/Martynas Paleckis]]
-- [[objektai/ivykiai/Martyno Paleckio stiklo liejyklos privilegijos suteikimas Vilniuje (1547 m. gegužės 22 d.)]]

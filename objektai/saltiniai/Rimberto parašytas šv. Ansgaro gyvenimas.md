@@ -3,10 +3,16 @@ tipas: saltinis
 pavadinimas: 'Rimberto parašytas šv. Ansgaro gyvenimas'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+datos:
+  - '875 m.'
+date_start: '875'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'IX'
 ---
 # Rimberto parašytas šv. Ansgaro gyvenimas
 
@@ -20,6 +26,11 @@ Kai « barzdoti vyrai» iš užjūrio puldinėjo Baltijos pajūrį, į tuos kari
 - t-001
   global_id: t-29654
   teiginys: 'Rimbertas apie 875 m. parašė šv. Ansgaro gyvenimą, kuriame minima, kad šis misijų reikalu buvo sustojęs Kurše.'
+  sudarymo_pagrindimas: 'Citata pagrindžia autorių, laiką, kūrinį ir su Kuršu susijusią aplinkybę.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/Rimbertas|Rimbertas]]; mentioned_place: Baltija; mentioned_place: Kuršas'
+  temporaliniai_duomenys: 'įvykio data: 875 m; įvykio data: apie 875 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia autorių, laiką, kūrinį ir su Kuršu susijusią aplinkybę.'
   pagrindžia:
     - c-001
 

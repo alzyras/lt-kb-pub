@@ -4,9 +4,10 @@ pavadinimas: 'Wiadomości literackie'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
+  - '1759 m.'
   - '1760 m.'
-date_start: '1760'
-date_end: ''
+date_start: '1759'
+date_end: '1760'
 sukurta: ''
 atnaujinta: ''
 amziai:
@@ -16,7 +17,7 @@ amziai:
 
 ## Santrauka
 
-„Wiadomości literackie“ 1760 m. pradėjo eiti kaip vienas pirmųjų Lietuvos laikraščių. „Wiadomości literackie“ 1760 m. pradėjo eiti kaip vienas pirmųjų Lietuvos laikraščių. „Wiadomości literackie“ 1760 m. pradėjo eiti kaip vienas pirmųjų Lietuvos laikraščių kartu su „Kurier Litewski“.
+„Wiadomości literackie“ minimas kaip vienas pirmųjų Lietuvos laikraščių, pradėjusių eiti 1760 m.
 
 ## Bibliografiniai duomenys
 
@@ -29,6 +30,11 @@ amziai:
 - t-001
   global_id: t-23418
   teiginys: '„Wiadomości literackie“ 1760 m. pradėjo eiti kaip vienas pirmųjų Lietuvos laikraščių.'
+  sudarymo_pagrindimas: 'Citata leidžia tiksliau nurodyti leidinio reikšmę tarp pirmųjų Lietuvos laikraščių.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/barokas|barokas]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1759 m.; įvykio data: 1760 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata leidžia tiksliau nurodyti leidinio reikšmę tarp pirmųjų Lietuvos laikraščių.'
   pagrindžia:
     - c-001
 
@@ -36,6 +42,11 @@ amziai:
 - t-003
   global_id: t-23420
   teiginys: '„Wiadomości literackie“ 1760 m. pradėjo eiti kaip vienas pirmųjų Lietuvos laikraščių kartu su „Kurier Litewski“.'
+  sudarymo_pagrindimas: 'Pradinis teiginys per platus ir apima kitą reiškinį, todėl sutelktas į šaltinio objektą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/barokas|barokas]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1759 m.; įvykio data: 1760 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys per platus ir apima kitą reiškinį, todėl sutelktas į šaltinio objektą.'
   pagrindžia:
     - c-001
 

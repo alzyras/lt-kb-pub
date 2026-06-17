@@ -22,6 +22,8 @@ Visas kalnas parko dalyje nusėtas nuolaužomis, bet kilp pėdsakų, kad čia st
 - t-001
   global_id: t-86069
   teiginys: 'Į rytus nuo Veliuonos Pilies kalno dunkso Gedimino kalnu vadinamas kalnas su pilkapiu vakarinėje viršūnės pusėje.'
+  sudarymo_pagrindimas: 'Pradiniame teiginyje yra OCR klaida ir jis labiau kalba apie kitą kalną.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Veliuona; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -29,6 +31,8 @@ Visas kalnas parko dalyje nusėtas nuolaužomis, bet kilp pėdsakų, kad čia st
 - t-002
   global_id: t-86070
   teiginys: 'Veliuonėlė įteka į Nemuną ir iš šiaurės skalauja Pilies bei Gedimino kalno Veliuonoje šlaitus.'
+  sudarymo_pagrindimas: 'OCR triukšmas pašalintas, teiginys aiškiai siejamas su vieta.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Bajerburgas; mentioned_place: Nemunas; mentioned_place: Veliuona; mentioned_place: Veliuonėlė'
   pagrindžia:
     - c-001
 

@@ -43,6 +43,8 @@ Nenurodyta
 - t-001
   global_id: t-87258
   teiginys: 'Akademija neturėjo atskiro turto, bet dalis kolegijai užrašytų pajamų buvo skirta teisės profesoriams, studentams ir varguoliams.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus ir tiesiogiai remiasi citata apie Akademijos turtą bei pajamas.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Duona|Duona]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -73,9 +75,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Duona]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/zodynas/Juris Civilis et Canonici civilinė ir kanonų teisė]]

@@ -23,6 +23,8 @@ Saremas brolis Otto (Blanehom).
 - t-001
   global_id: t-87815
   teiginys: 'Otto Blanehomas buvo Eželio, dabartinio Saremos, brolis.'
+  sudarymo_pagrindimas: 'Pradinis teiginys yra fragmentiškas ir su OCR triukšmu, bet citata leidžia suformuluoti pilną sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Dorpatas; mentioned_place: Livonija; mentioned_place: Mintauja; mentioned_place: Ryga; mentioned_place: Saremas'
   pagrindžia:
     - c-001
 
@@ -51,10 +53,3 @@ Saremas brolis Otto (Blanehom).
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lotynai]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/komtūras]]

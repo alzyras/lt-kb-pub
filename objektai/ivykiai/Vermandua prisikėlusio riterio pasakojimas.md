@@ -36,6 +36,8 @@ Nenurodyta
 - t-001
   global_id: t-62524
   teiginys: 'Vermandua grafystėje, pasak kronikos, atgijęs miręs riteris pranašavo daugeliui žmonių ir ilgai gyveno nevalgydamas bei negerdamas.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra apie pasakojimą, todėl reikia atribucijos ir pašalinti nutrūkusį šaltinio fragmentą.'
   pagrindžia:
     - c-001
 

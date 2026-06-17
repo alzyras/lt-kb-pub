@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Trečiojoje kovų fazėje Rusijos kariuomenės korpusą papildė Pavelo Cicijanovo ir Ivano Hermano daliniai. Liepos 19-20 d. Vilnių puolė Bogdano Knorringo Rusijos kariuomenės korpusas, turėjęs 8 tūkst. pėstininkų, 4 tūkst. raitelių ir 46 pabūklus.
+Bogdano Knorringo Rusijos kariuomenės korpusas kuriame buvo 8 tūkst. Trečiojoje kovų fazėje Rusijos kariuomenės korpusas, papildytas gen.
 
 ## Teiginiai
 
@@ -20,6 +20,8 @@ Trečiojoje kovų fazėje Rusijos kariuomenės korpusą papildė Pavelo Cicijano
 - t-001
   global_id: t-41132
   teiginys: 'Trečiojoje kovų fazėje Rusijos kariuomenės korpusą papildė Pavelo Cicijanovo ir Ivano Hermano daliniai.'
+  sudarymo_pagrindimas: 'Perrašyta į sklandesnį pilną sakinį su aiškiu veiksniu ir tariniu.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_place: Rusija'
   pagrindžia:
     - c-001
 
@@ -27,9 +29,10 @@ Trečiojoje kovų fazėje Rusijos kariuomenės korpusą papildė Pavelo Cicijano
 - t-002
   global_id: t-41133
   teiginys: 'Liepos 19-20 d. Vilnių puolė Bogdano Knorringo Rusijos kariuomenės korpusas, turėjęs 8 tūkst. pėstininkų, 4 tūkst. raitelių ir 46 pabūklus.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_place: Rusija; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/asmenys/Bogdanas Knorringas.md#claim-t-40069|Bogdanas Knorringas]]: 1794 m. liepos 19 d. Bogdano Knorringo vadovaujamas Rusijos kariuomenės korpusas pasiekė Vilnių.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -67,8 +70,3 @@ Trečiojoje kovų fazėje Rusijos kariuomenės korpusą papildė Pavelo Cicijano
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Artilerija]]
-- [[objektai/asmenys/Bogdanas Knorringas]]

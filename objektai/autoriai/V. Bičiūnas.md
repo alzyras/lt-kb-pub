@@ -29,6 +29,10 @@ Bičiūno tos misterijos pastabos ir komentarai. Bičiūno pastabos ir komentara
 - t-001
   global_id: t-34854
   teiginys: 'V. Bičiūno pastabos ir komentarai padėjo skaitytojams suprasti „Likimo kelių“ autoriaus intencijas, tikslą ir veikalo idėją.'
+  sudarymo_pagrindimas: 'Pradinis teiginys per silpnas, citata pagrindžia komentarų reikšmę.'
+  temporaliniai_duomenys: 'įvykio data: 1930 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys per silpnas, citata pagrindžia komentarų reikšmę.'
   pagrindžia:
     - c-001
 
@@ -36,6 +40,8 @@ Bičiūno tos misterijos pastabos ir komentarai. Bičiūno pastabos ir komentara
 - t-002
   global_id: t-34855
   teiginys: 'V. Bičiūnas parengė Vinco Krėvės misterijos „Likimo keliais“ pastabas ir komentarus.'
+  sudarymo_pagrindimas: 'Pradinis teiginys negramatiškas, citata patvirtina priedo autorystę.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/misterija|misterija]]; mentioned_place: Kaimas; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -70,7 +76,3 @@ Bičiūno tos misterijos pastabos ir komentarai. Bičiūno pastabos ir komentara
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/misterija]]

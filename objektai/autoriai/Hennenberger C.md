@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-C. Hennenbergerio „Erclerung“ cituojamas prie pasakojimo apie Galtgarbių kalne buvusią Samo pilį ir prūsų uždegamus pavojų skelbiančius laužus. C. Hennenbergeris rašė apie Brandenburgo pilies vietą Pokarviuose prie Aismarių.
+Dusburgietis teigia, kad galtgarbių kalne esą buvusi legendinio Vaidevučio (Videvučio) sūnaus Samo pilis, čia prūsai uždegdavę pavojų skelbiančius laužus (SU, 1, Nr. 58, 182; 2, Nr. 304; PUB, 2, 2, Nr. 663; 3, 2, Nr. 644; 4, Nr. 26; Hennenberger C, Erclerung.., p. 136; Sch-K; Faber. Dusburgietis teigia, kad iII, 91, 3; be to, Hennenberger C, Erclerung.., p. 33) prie Aismarių, deš.
 
 ## Teiginiai
 
@@ -23,6 +23,11 @@ C. Hennenbergerio „Erclerung“ cituojamas prie pasakojimo apie Galtgarbių ka
 - t-001
   global_id: t-64603
   teiginys: 'C. Hennenbergerio „Erclerung“ cituojamas prie pasakojimo apie Galtgarbių kalne buvusią Samo pilį ir prūsų uždegamus pavojų skelbiančius laužus.'
+  sudarymo_pagrindimas: 'Pirminis teiginys klaidingai priskiria pasakojimą Dusburgiečiui ir turi bibliografinio triukšmo.'
+  susije_objektai: 'mentioned_place: Baltija; mentioned_place: Prūsai; mentioned_place: Rinava; mentioned_place: Semba'
+  temporaliniai_duomenys: 'įvykio data: 117 m'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pirminis teiginys klaidingai priskiria pasakojimą Dusburgiečiui ir turi bibliografinio triukšmo.'
   pagrindžia:
     - c-002
 
@@ -30,6 +35,8 @@ C. Hennenbergerio „Erclerung“ cituojamas prie pasakojimo apie Galtgarbių ka
 - t-002
   global_id: t-64604
   teiginys: 'C. Hennenbergeris rašė apie Brandenburgo pilies vietą Pokarviuose prie Aismarių.'
+  sudarymo_pagrindimas: 'Citata pateikia Hennenbergerį kaip šaltinį Brandenburgo pilies vietos paaiškinimui.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Aistmarios; mentioned_place: Brandenburgo pilis; mentioned_place: Pomeranija'
   pagrindžia:
     - c-001
 
@@ -74,7 +81,3 @@ C. Hennenbergerio „Erclerung“ cituojamas prie pasakojimo apie Galtgarbių ka
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/magistras]]

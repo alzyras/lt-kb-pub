@@ -4,39 +4,46 @@ pavadinimas: 'Piltenė'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 datos:
+  - '1582 m.'
   - '1936 m.'
   - '2026 m.'
-date_start: '1936'
+date_start: '1582'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XX'
-  - 'XXI'
 tags:
   - pilis
   - vieta
   - vyskupas
+amziai:
+  - 'XVI'
+  - 'XXI'
 ---
 # Piltenė
 
 ## Santrauka
 
-Piltene vadintos buvusios Kuršo vyskupystės žemės.
+Danai — buvusias Kuršo vyskupystės žemes, vadinamąją Piltenę, ir Saremos (Eželio) vyskupystę.
 
 ## Teiginiai
+
 <a id="claim-t-43827"></a>
 - t-001
   global_id: t-43827
   teiginys: 'Piltene vadintos buvusios Kuršo vyskupystės žemės.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/vasalas|vasalas]]; mentioned_object: [[objektai/zodynas/vyskupystė|vyskupystė]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Jelgava; mentioned_place: Kuršas; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Ryga; mentioned_place: Saremos; mentioned_place: Talinas; mentioned_place: Tartai; mentioned_place: Žiemgala'
+  temporaliniai_duomenys: 'įvykio data: iki 1582 m.; įvykio data: 1582 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-
+- susijęs iš [[objektai/asmenys/Vytenis (Lietuvos karalius).md#claim-t-39419|Vytenis (Lietuvos karalius)]]: 1311 m. per Užgavėnes Vytenis su didele kariuomene nusiaubė Sembą ir Notangą.
+- susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-181470|Petras Dusburgietis]]: Petras Dusburgietis „Prūsijos žemės kronikoje“ aprašė Vytenio įsiveržimą į Ordino žemes.
+- susijęs iš Hermano Vartbergės Livonijos kronika: Cituojama „Hermano Vartbergės Livonijos kronika“ ištrauka, kurioje rodoma, kaip lietuviai su apgulimo mašinomis sunaikina Piltenės pilį.
+- susijęs iš Hermano Vartbergės Livonijos kronika: „Hermano Vartbergės Livonijos kronika“ šiame veikale cituojamas chunk_0003: piltenės pilies puolimas ir lietuvių apgulimo mašinos.
+- susijęs iš Prūsijos žemės kronika: 1311 m. Vytenis su didele kariuomene degindamas ir plėšdamas nusiaubė Sembą ir Notangą.
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Piltene vadintos buvusios Kuršo vyskupystės žemės.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Visai Livonijai bu-
@@ -50,10 +57,8 @@ Piltene vadintos buvusios Kuršo vyskupystės žemės.
     kupystę, Švedai — Talino (Revelio) miestą su apylinkėmis, o
     Danai — buvusias Kuršo vyskupystės žemes, vadinamąją Pil-
     tenę, ir Saremos (Eželio) vyskupystę.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

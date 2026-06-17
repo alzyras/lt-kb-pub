@@ -20,6 +20,8 @@ LPS tapo dar populiaresnis, kai nuo rugsėjo 16 dienos, be biuletenio „Sąjūd
 - t-001
   global_id: t-21014
   teiginys: 'Laikraštis „Atgimimas“, redaguotas Romualdo Ozolo, pradėtas leisti rugsėjo 16 dieną.'
+  sudarymo_pagrindimas: 'Sakinys sutrumpintas ir nukreiptas į šaltinio objektą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Romualdas Ozolas|Romualdas Ozolas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

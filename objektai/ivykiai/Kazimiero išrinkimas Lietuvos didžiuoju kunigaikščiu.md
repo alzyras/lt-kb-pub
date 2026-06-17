@@ -1,26 +1,10 @@
 ---
-tipas: 'ivykis'
+tipas: ivykis
 pavadinimas: 'Kazimiero išrinkimas Lietuvos didžiuoju kunigaikščiu'
-sukurta: '2026-06-16'
-variantai:
-  - 'Jogailos sūnaus Kazimiero išrinkimas Lietuvos didžiuoju kunigaikščiu'
-  - 'karalaičio Kazimiero pakėlimas Lietuvos didžiuoju kunigaikščiu Brastoje'
-aliases: []
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
-bukle: 'juodrastis'
-laikotarpis: ''
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: ''
-atnaujinta: '2026-06-16'
+sukurta: ''
+atnaujinta: ''
 tags:
   - elekcija
 ---
@@ -35,35 +19,42 @@ Lietuvos metraštis pasakoja, kad Alšėnuose susirinkę didikai vienbalsiai nut
 - laikotarpis:
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 <a id="claim-t-186622"></a>
 - t-001
   global_id: t-186622
-  teiginys: 'Lietuvos metraštis pasakoja, kad Alšėnuose susirinkę didikai vienbalsiai nutarė rinkti Kazimierą Lietuvos valdovu.'
+  teiginys: 'Lietuvos metraščio pasakojime pas Kazimierą į Sandomirą pasiuntiniais buvo išsiųsti Mykolas ir Jonas Kęsgailos.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Sakinys sutrumpintas ir aiškiau susietas su metraščio pasakojimu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Kęsgaila|Kęsgaila]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_place: Alšėnai; mentioned_place: Lietuva; mentioned_place: Sandomiras; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  statusas: patvirtinta
+
 <a id="claim-t-186623"></a>
 - t-002
   global_id: t-186623
-  teiginys: 'Lietuvos metraštis pasakoja, kad pas Kazimierą į Sandomirą buvo išsiųsti Mykolas ir Jonas Kęsgailos.'
+  teiginys: 'Lietuvos metraščio pasakojime Alšėnuose susirinkę didikai vienbalsiai nutarė rinkti Kazimierą Didžiosios Kunigaikštystės šeimininku.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Palikta būtina atribucija valdovo titulo ir metraščio formuluotės vartosenai.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_place: Alšėnai; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Lietuvos metraštis pasakoja, kad Alšėnuose susirinkę didikai vienbalsiai nutarė rinkti Kazimierą Lietuvos valdovu.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     Ir ten suvažiavę skubiai praneša
@@ -75,22 +66,9 @@ Nenurodyta
     Lietuvos žemės tėvonį. Ir siunčia pas karalaitį į Lenkų
     žemę. į Sandomirą. pasiuntinius, ir išleido pas jį pa­
     siuntiniais ponus Mykolą ir Joną Kęsgailas1 1 .
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   pagrindžia:
-    - t-001
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/zodynas/maršalas]]
-- [[objektai/zodynas/ponai]]
-- [[objektai/zodynas/seniūnas]]
-- [[objektai/asmenys/Jonas]]
-- [[objektai/asmenys/Kęsgaila]]
-- [[objektai/asmenys/Mykolas]]
-- [[objektai/zodynas/metraštis]]
+    - t-001

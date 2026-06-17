@@ -29,9 +29,14 @@ Dusburgietis teigia, kad 158 Didysis magistras Hermanas iš Zalcos (1209 ar 1210
 - t-001
   global_id: t-58767
   teiginys: 'Didysis magistras Hermanas iš Zalcos mirė Salerne, o palaidotas Ordino koplyčioje Barletoje.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus ir citata jį tiesiogiai patvirtina.'
+  susije_objektai: 'location: Salernas; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Hermanas|Hermanas]]; mentioned_person: [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos]]; mentioned_place: Barleta'
+  semantiniai_rysiai: '[[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos]] mirė Salernas'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Karolis (Salerno, vėliau Sicilijos karalius).md#claim-t-184098|Karolis (Salerno, vėliau Sicilijos karalius)]]: 1280 m. Karolis, Salerno ir vėlesnis Sicilijos karalius, atidengė Marijos Magdalietės palaikus.
+- susijęs iš [[objektai/asmenys/Karolis (Salerno, vėliau Sicilijos karalius).md#claim-t-60354|Karolis (Salerno, vėliau Sicilijos karalius)]]: 1280 m. Karolis, Salerno ir vėlesnis Sicilijos karalius, atidengė Marijos Magdalietės palaikus.
+- susijęs iš Barleta: Didysis magistras Hermanas iš Zalcos mirė Salerne, o buvo palaidotas Ordino koplyčioje Barletos mieste.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -48,3 +53,6 @@ Dusburgietis teigia, kad 158 Didysis magistras Hermanas iš Zalcos (1209 ar 1210
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+- [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]] mire Salernas

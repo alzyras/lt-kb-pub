@@ -22,9 +22,12 @@ Goslickio gyvenimą ap­ rašė mokslininkas Ossoliński.
 - t-001
   global_id: t-88048
   teiginys: 'Mokslininkas Ossolińskis aprašė Lauryno Goslickio gyvenimą.'
+  sudarymo_pagrindimas: 'Pradinis sakinys pagrįstas, bet reikėjo pašalinti OCR triukšmą ir sutvarkyti asmenvardį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Anglai|Anglai]]; mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_place: Poznanė'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Laurynas Goslickis.md#claim-t-87539|Laurynas Goslickis]]: Laurynas Goslickis buvo karaliaus Stepono sekretorius, vėliau Poznanės vyskupas ir lotyniškos knygos „De optimo Senatore“ autorius.
+- susijęs iš De optimo Senatore: Laurynas Goślickis labiausiai išgarsėjo lotyniškai parašyta knyga „De optimo Senatore“, kuri buvo išversta į anglų kalbą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -48,8 +51,3 @@ Goslickio gyvenimą ap­ rašė mokslininkas Ossoliński.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Anglai]]
-- [[objektai/grupes/Lotynai]]

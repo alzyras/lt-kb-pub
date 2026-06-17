@@ -16,7 +16,7 @@ amziai:
 
 ## Santrauka
 
-Motriškosios ilgai dėvėjo senovinius nuometus ir nenorėjo jų mesti nuo galvos. Išeigai moterys dėvėjo kitokį drabužį, o nuotakos vestuvių metu segėjo rūtų vainikus.
+Išeigai moterys dėvėjo kitokį drabužį, o nuotakos vestuvių metu segėjo rūtų vainikus. Motriškosios ilgai dėvėjo senovinius nuometus ir nenorėjo jų mesti nuo galvos.
 
 ## Laikotarpis ir datos
 
@@ -44,6 +44,7 @@ Nenurodyta
 - t-001
   global_id: t-67168
   teiginys: 'Motriškosios ilgai dėvėjo senovinius nuometus ir nenorėjo jų mesti nuo galvos.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Nuometai|Nuometai]]'
   pagrindžia:
     - c-002
 
@@ -51,6 +52,7 @@ Nenurodyta
 - t-002
   global_id: t-67170
   teiginys: 'Išeigai moterys dėvėjo kitokį drabužį, o nuotakos vestuvių metu segėjo rūtų vainikus.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Balti vilnoniai marškiniai|Balti vilnoniai marškiniai]]'
   pagrindžia:
     - c-001
 
@@ -87,12 +89,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Baltai]]
-- [[objektai/daiktai/Balti vilnoniai marškiniai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/daiktai/Nuometai]]
-- [[objektai/zodynas/Kilimas|kilimas]]
-- [[objektai/daiktai/Kilimas]]

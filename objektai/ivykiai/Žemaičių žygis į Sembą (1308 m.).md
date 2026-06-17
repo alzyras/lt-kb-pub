@@ -37,6 +37,14 @@ Nenurodyta
 - t-001
   global_id: t-185843
   teiginys: '1308 m. žemaičiai smarkiai nusiaubė Sembos žemę, žygiuodami į Prūsiją su penkių tūkstančių vyrų kariuomene, vadovaujama Mansto ir Sudargo.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis teiginys turi OCR triukšmo; citata palaiko aiškų faktą apie žygį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_person: [[objektai/asmenys/Sudargas|Sudargas]]; mentioned_place: Prūsija; mentioned_place: Semba'
+  temporaliniai_duomenys: 'įvykio data: 1308 m.; įvykio data: 1309 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys turi OCR triukšmo; citata palaiko aiškų faktą apie žygį.'
   pagrindžia:
     - c-001
 
@@ -75,8 +83,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Sudargas]]
-- [[objektai/grupes/Žemaičiai]]

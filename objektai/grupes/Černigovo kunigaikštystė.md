@@ -18,6 +18,11 @@ atnaujinta: ''
 - t-001
   global_id: t-187777
   teiginys: 'Černigovas, Starodubas ir Karačevas buvo suskilusios Černigovo kunigaikštystės smulkesnių valdų sostinės.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys jau yra pilnas sakinys apie Černigovo kunigaikštystę ir tiksliai perteikia komentaro informaciją. Papildomos atribucijos nereikia, nes čia pateikta redakcinė-geografinė pastaba.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Skyrai|Skyrai]]; mentioned_place: Karačevas; mentioned_place: Starodubas; mentioned_place: Černigovas'
   pagrindžia:
     - c-001
 
@@ -37,8 +42,3 @@ atnaujinta: ''
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Rusai]]
-- [[objektai/grupes/Skyrai]]

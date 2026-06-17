@@ -3,12 +3,18 @@ tipas: grupe
 pavadinimas: 'Vilniaus konfederacija'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1792 m.'
+date_start: '1792'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
   - tauta
   - vyskupas
+amziai:
+  - 'XVIII'
 ---
 # Vilniaus konfederacija
 
@@ -22,6 +28,11 @@ Targovicos konfederacijai 1792 m. birželio 25 d. pritarė Vilniaus (t.
 - t-001
   global_id: t-20071
   teiginys: 'Vilniaus konfederacija 1792 m. birželio 25 d. pritarė Targovicos konfederacijai.'
+  sudarymo_pagrindimas: 'Teiginys yra trumpas, aiškus ir tiesiogiai pagrįstas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_object: [[objektai/zodynas/hetmonas|hetmonas]]; mentioned_object: [[objektai/zodynas/konfederacija|konfederacija]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Juozapas (Konstantinopolio patriarchas)|Juozapas (Konstantinopolio patriarchas)]]; mentioned_person: [[objektai/asmenys/Juozapas Kosakovskis|Juozapas Kosakovskis]]; mentioned_place: Brasta; mentioned_place: Gardinas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Targovica; mentioned_place: Viena; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1792 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra trumpas, aiškus ir tiesiogiai pagrįstas citata.'
   pagrindžia:
     - c-001
 
@@ -43,14 +54,3 @@ Targovicos konfederacijai 1792 m. birželio 25 d. pritarė Vilniaus (t.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Juozapas (Konstantinopolio patriarchas)]]
-- [[objektai/asmenys/Juozapas Kosakovskis|Juozapas Kosakovskis (vyskupas)]]
-- [[objektai/zodynas/etmonas]]
-- [[objektai/zodynas/konfederacija]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Abiejų Tautų konfederacija]]
-- [[objektai/ivykiai/Targovicos ir Vilniaus konfederacijų susijungimas Brastoje]]
-- [[objektai/grupes/Targovicos konfederacija]]

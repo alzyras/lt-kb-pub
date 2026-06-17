@@ -42,6 +42,9 @@ Nenurodyta
 - t-001
   global_id: t-62672
   teiginys: 'Lietuviai prieš išpuolį prieš Ragainės brolius metė burtus, kurie nežadėjo sėkmės.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Išskleistas neaiškus veiksnys ir pašalinta fragmentiška formuluotė.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Aukaimis; mentioned_place: Ragainė'
   pagrindžia:
     - c-001
 
@@ -49,6 +52,9 @@ Nenurodyta
 - t-002
   global_id: t-62673
   teiginys: 'Prūsai prieš svarbesnius darbus traukdavo burtus, klausdami savo dievų, ar darbas pavyks gerai, ar blogai.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pašalinta boilerplate autorinė įžanga, sakinys glaustas ir enciklopedinis.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Aukaimis; mentioned_place: Prūsai; mentioned_place: Ragainė'
   pagrindžia:
     - c-001
     - c-002
@@ -105,15 +111,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/drabužis]]
-
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/Aukausenos|aukausenos]]
-- [[objektai/zodynas/netikėliai]]
-- [[objektai/paprociai/Burtų metimas prieš karo išpuolį]]
-- [[objektai/paprociai/Pergalės grobio aukojimas dievams ir trečdalio skyrimas kriviui]]
-- [[objektai/ivykiai/Ragainės brolių išpuolis prieš 36 lietuvius (1290 m. birželio 25 d.)]]

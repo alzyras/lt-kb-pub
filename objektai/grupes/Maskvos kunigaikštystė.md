@@ -9,28 +9,33 @@ saltiniai:
 datos:
   - '1349 m.'
   - '1425 m.'
+  - '1430 m.'
   - '2026 m.'
 date_start: '1349'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - grupe
 amziai:
   - 'XIV'
   - 'XXI'
-tags:
-  - grupe
 ---
 # Maskvos kunigaikštystė
 
 ## Santrauka
 
-Algirdas ir Maskvos kunigaikščiai tapo nesutaikomais priešais. Didžioji Maskvos kunigaikštija nerodė atsparumo Vytautui, nes nuo 1425 m. joje viešpatavo Vytauto globojamas anūkas Vosylius. 1430 m. į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius, vadintas Akluoju.
+Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
 
 ## Teiginiai
+
 <a id="claim-t-92733"></a>
 - t-001
   global_id: t-92733
   teiginys: 'Algirdas ir Maskvos kunigaikščiai tapo nesutaikomais priešais.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Maskva; mentioned_place: Rusia; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1349 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-008
 
@@ -38,6 +43,11 @@ Algirdas ir Maskvos kunigaikščiai tapo nesutaikomais priešais. Didžioji Mask
 - t-002
   global_id: t-92734
   teiginys: 'Didžioji Maskvos kunigaikštija nerodė atsparumo Vytautui, nes nuo 1425 m. joje viešpatavo Vytauto globojamas anūkas Vosylius.'
+  sudarymo_pagrindimas: 'Reikia aiškesnės, enciklopediškos formuluotės.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvos kunigaikštija|Maskvos kunigaikštija]]; mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_person: [[objektai/asmenys/Vosylius|Vosylius]]; mentioned_place: Maskva; mentioned_place: Pskovas'
+  temporaliniai_duomenys: 'įvykio data: po 1425 m.; įvykio data: 1425 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia aiškesnės, enciklopediškos formuluotės.'
   pagrindžia:
     - c-001
 
@@ -45,6 +55,12 @@ Algirdas ir Maskvos kunigaikščiai tapo nesutaikomais priešais. Didžioji Mask
 - t-003
   global_id: t-92735
   teiginys: '1430 m. į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius, vadintas Akluoju.'
+  sudarymo_pagrindimas: 'Ilgas sąrašinis fragmentas sutrumpintas į pilną faktą apie Maskvos kunigaikštystės valdovą.'
+  susije_objektai: 'location: Lietuva; location: Livonija; location: Maskva; location: Mazovija; location: Prūsija; location: Riazanė; location: Trakai; location: Tverė; location: Valakija; location: Vilnius; mentioned_group: [[objektai/grupes/Mazovijos kunigaikščiai|Mazovijos kunigaikščiai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Tverės ir Riazanės kunigaikščiai|Tverės ir Riazanės kunigaikščiai]]; mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Vasilijus|Vasilijus]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Mazovija; mentioned_place: Prūsija; mentioned_place: Riazanė; mentioned_place: Trakai; mentioned_place: Tverė; mentioned_place: Valakija; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Maskvos kunigaikštystė|Maskvos kunigaikštystė]] keliavo į Lietuva; [[objektai/grupes/Maskvos kunigaikštystė|Maskvos kunigaikštystė]] keliavo į Livonija; [[objektai/grupes/Maskvos kunigaikštystė|Maskvos kunigaikštystė]] keliavo į Maskva; [[objektai/grupes/Maskvos kunigaikštystė|Maskvos kunigaikštystė]] keliavo į Mazovija; [[objektai/grupes/Maskvos kunigaikštystė|Maskvos kunigaikštystė]] keliavo į Prūsija; [[objektai/grupes/Maskvos kunigaikštystė|Maskvos kunigaikštystė]] keliavo į Riazanė; [[objektai/grupes/Maskvos kunigaikštystė|Maskvos kunigaikštystė]] keliavo į Trakai; [[objektai/grupes/Maskvos kunigaikštystė|Maskvos kunigaikštystė]] keliavo į Tverė; [[objektai/grupes/Maskvos kunigaikštystė|Maskvos kunigaikštystė]] keliavo į Valakija; [[objektai/grupes/Maskvos kunigaikštystė|Maskvos kunigaikštystė]] keliavo į Vilnius'
+  temporaliniai_duomenys: 'kelionės data: 1430 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Maskvos kunigaikštystė keliavo į Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Maskvos kunigaikštystė keliavo į Livonija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Maskvos kunigaikštystė keliavo į Maskva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Maskvos kunigaikštystė keliavo į Mazovija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Maskvos kunigaikštystė keliavo į Prūsija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Maskvos kunigaikštystė keliavo į Riazanė“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Maskvos kunigaikštystė keliavo į Trakai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Maskvos kunigaikštystė keliavo į Tverė“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Maskvos kunigaikštystė keliavo į Valakija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Maskvos kunigaikštystė keliavo į Vilnius“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Ilgas sąrašinis fragmentas sutrumpintas į pilną faktą apie Maskvos kunigaikštystės valdovą.'
   pagrindžia:
     - c-006
 
@@ -52,6 +68,7 @@ Algirdas ir Maskvos kunigaikščiai tapo nesutaikomais priešais. Didžioji Mask
 - t-004
   global_id: t-92736
   teiginys: 'Maskvos kunigaikščiams stiprėjant, politinė padėtis pamažu keitėsi Lietuvos nenaudai.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Rusia'
   pagrindžia:
     - c-003
     - c-004
@@ -60,6 +77,7 @@ Algirdas ir Maskvos kunigaikščiai tapo nesutaikomais priešais. Didžioji Mask
 - t-005
   global_id: t-92737
   teiginys: 'Rusų kronikos teigė, kad Vytautas su Tochtamyšu sutarė užimti Didžiąją Maskvos kunigaikštiją ir valdyti visą Rusią.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_object: [[objektai/zodynas/saar|saar]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Maskva; mentioned_place: Vorskla'
   pagrindžia:
     - c-002
 
@@ -67,10 +85,13 @@ Algirdas ir Maskvos kunigaikščiai tapo nesutaikomais priešais. Didžioji Mask
 - t-006
   global_id: t-92738
   teiginys: 'Rusų kronikos Vytautui priskyrė siekį, padėjus Tochtamyšui tapti chanu, pačiam įsitvirtinti Didžiojoje Maskvos kunigaikštystėje.'
+  sudarymo_pagrindimas: 'Netvarkinga citata perrašyta į vieną faktinį sakinį be laužytos tiesioginės kalbos.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_object: [[objektai/zodynas/saar|saar]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Maskva'
   pagrindžia:
     - c-005
 
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Didžioji Maskvos kunigaikštija nerodė atsparumo Vytautui, nes nuo 1425 m. joje viešpatavo Vytauto globojamas anūkas Vosylius.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -89,6 +110,7 @@ Algirdas ir Maskvos kunigaikščiai tapo nesutaikomais priešais. Didžioji Mask
   statusas: verified
   pagrindžia:
     - t-002
+
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -107,6 +129,7 @@ Algirdas ir Maskvos kunigaikščiai tapo nesutaikomais priešais. Didžioji Mask
   statusas: verified
   pagrindžia:
     - t-005
+
 - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -123,6 +146,7 @@ Algirdas ir Maskvos kunigaikščiai tapo nesutaikomais priešais. Didžioji Mask
   statusas: verified
   pagrindžia:
     - t-004
+
 - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -140,6 +164,7 @@ Algirdas ir Maskvos kunigaikščiai tapo nesutaikomais priešais. Didžioji Mask
   statusas: verified
   pagrindžia:
     - t-004
+
 - c-005
   santrauka: 'Rusų kronikos Vytautui priskyrė siekį, padėjus Tochtamyšui tapti chanu, pačiam įsitvirtinti Didžiojoje Maskvos kunigaikštystėje.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -158,6 +183,7 @@ Algirdas ir Maskvos kunigaikščiai tapo nesutaikomais priešais. Didžioji Mask
   statusas: verified
   pagrindžia:
     - t-006
+
 - c-006
   santrauka: '1430 m. į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius, vadintas Akluoju.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -186,6 +212,7 @@ Algirdas ir Maskvos kunigaikščiai tapo nesutaikomais priešais. Didžioji Mask
   pagrindžia:
     - t-003
     - t-007
+
 - c-007
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -202,6 +229,7 @@ Algirdas ir Maskvos kunigaikščiai tapo nesutaikomais priešais. Didžioji Mask
   pagrindžia:
     - t-001
     - t-008
+
 - c-008
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -219,31 +247,13 @@ Algirdas ir Maskvos kunigaikščiai tapo nesutaikomais priešais. Didžioji Mask
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/asmenys/Jonas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Mazovijos kunigaikščiai]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/grupes/Slavai]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/grupes/Tverės ir Riazanės kunigaikščiai]]
-- [[objektai/asmenys/Vasilijus]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
-- [[objektai/zodynas/chanas]]
-- [[objektai/zodynas/didysis kunigaikštis]]
-- [[objektai/zodynas/didysis magistras]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/metropolitas]]
-- [[objektai/zodynas/pagonybė]]
-- [[objektai/zodynas/saar]]
-- [[objektai/zodynas/vaivada]]
-- [[objektai/grupes/Čekai]]
-- [[objektai/grupes/Maskvos kunigaikštija]]
-- [[objektai/asmenys/Vosylius]]
-- [[objektai/zodynas/kunigaikštija]]
-- [[objektai/posakiai/Aš tave pasodinsiu saaro Kotlogo vietoj, o pats tada atsisėsiu Didžioj Maskvos kunigaikštijoje ir valdysiu visą Rusiją]]
-- [[objektai/grupes/Didžiojo Naugardo respublika]]
-- [[objektai/posakiai/aš tave pasodinsiu Auksinėj Ordoj, o tu mane — Maskvos soste]]
+- Maskvos kunigaikštystė keliavo_i [[objektai/vietos/Lietuva]]
+- Maskvos kunigaikštystė keliavo_i [[objektai/vietos/Livonija]]
+- Maskvos kunigaikštystė keliavo_i [[objektai/vietos/Maskva]]
+- Maskvos kunigaikštystė keliavo_i [[objektai/vietos/Mazovija]]
+- Maskvos kunigaikštystė keliavo_i [[objektai/vietos/Prūsija]]
+- Maskvos kunigaikštystė keliavo_i [[objektai/vietos/Riazanė]]
+- Maskvos kunigaikštystė keliavo_i [[objektai/vietos/Trakai]]
+- Maskvos kunigaikštystė keliavo_i [[objektai/vietos/Tverė]]
+- Maskvos kunigaikštystė keliavo_i [[objektai/vietos/Valakija]]
+- Maskvos kunigaikštystė keliavo_i [[objektai/vietos/Vilnius]]

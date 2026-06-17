@@ -4,9 +4,12 @@ pavadinimas: 'Europos Sąjunga'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
+  - '1990 m.'
+  - '1991 m.'
+  - '1993 m.'
   - '2003 m.'
   - '2004 m.'
-date_start: '2003'
+date_start: '1990'
 date_end: '2004'
 sukurta: ''
 atnaujinta: ''
@@ -16,13 +19,14 @@ tags:
   - mokslininkas
   - tauta
 amziai:
+  - 'XX'
   - 'XXI'
 ---
 # Europos Sąjunga
 
 ## Santrauka
 
-Įstojusi į ES Lietuva galėjo Briuselyje reikšti savo poziciją ir turėjo savo komisarą bei 12 europarlamentarų. Lietuva, Latvija ir Estija pasirašė Europos asociacijos sutartis su ES, kuriose pripažintas Baltijos valstybių tikslas tapti ES narėmis. 2004 m. Lietuva buvo priimta į Europos Sąjungą ir Šiaurės Atlanto sutarties organizaciją.
+1990 m. kovo 11 d. atkūrusi nepriklausomybę, 2004 m. tapusi visateise demokratinių NATO ir ES valstybių šeimos nare, 2013-aisiais Lietuva imsis istorinės pareigos pirmininkauti Europos Sąjungai – laisvų ir demokratinių Europos valstybių susivienijimui. Lietuvos aukštosios moky- 6 skyrius • D A I N U O J A N T I R E V O L I U C I J A 255 klos ėmė dalyvauti Europos Sąjungos finansuojamose mokslo ir studijų programose. 1991 m. rugsėjo 17 d. Lietuva priimta į Jungtinių Tautų (JT) organizaciją, 1991 m. pabaigoje – į JT specializuotas įstaigas (UNESCO (Švietimo, mokslo ir kultūros organizacija), TDO (Tarptautinė darbo organizacija) ir kt.), 1993 m. priimta į Europos Tarybą.
 
 ## Teiginiai
 
@@ -30,6 +34,8 @@ amziai:
 - t-001
   global_id: t-74109
   teiginys: 'Įstojusi į ES Lietuva galėjo Briuselyje reikšti savo poziciją ir turėjo savo komisarą bei 12 europarlamentarų.'
+  sudarymo_pagrindimas: 'Teiginys yra faktinis, aiškus ir paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/asmenys/Pavyzdys|Pavyzdys]]; mentioned_place: Briuselis; mentioned_place: Europa; mentioned_place: Lietuva'
   pagrindžia:
     - c-007
 
@@ -37,6 +43,8 @@ amziai:
 - t-002
   global_id: t-74110
   teiginys: 'Lietuva, Latvija ir Estija pasirašė Europos asociacijos sutartis su ES, kuriose pripažintas Baltijos valstybių tikslas tapti ES narėmis.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai perteikia citatoje nurodytą sutarčių reikšmę.'
+  susije_objektai: 'mentioned_place: Baltija; mentioned_place: Estija; mentioned_place: Europa; mentioned_place: Latvija; mentioned_place: Lietuva'
   pagrindžia:
     - c-005
 
@@ -44,6 +52,11 @@ amziai:
 - t-003
   global_id: t-74111
   teiginys: '2004 m. Lietuva buvo priimta į Europos Sąjungą ir Šiaurės Atlanto sutarties organizaciją.'
+  sudarymo_pagrindimas: 'Paliktas šaltinio paremtas faktas, išlaikant aiškią formą apie ES.'
+  susije_objektai: 'mentioned_place: Baltija; mentioned_place: Europa; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1991 m.; įvykio data: 1993 m.; įvykio data: 2004 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Paliktas šaltinio paremtas faktas, išlaikant aiškią formą apie ES.'
   pagrindžia:
     - c-003
 
@@ -51,6 +64,8 @@ amziai:
 - t-004
   global_id: t-74112
   teiginys: 'Lietuvos aukštosios mokyklos ėmė dalyvauti Europos Sąjungos finansuojamose mokslo ir studijų programose.'
+  sudarymo_pagrindimas: 'Reikia pašalinti puslapio antraštės ir OCR triukšmą.'
+  susije_objektai: 'mentioned_place: Europa; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -58,6 +73,11 @@ amziai:
 - t-005
   global_id: t-74113
   teiginys: 'Integracija į Europos Sąjungą – antras svarbiausias strateginis atsikūrusios Lietuvos užsienio politikos tikslas.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/Antisemitizmas|Antisemitizmas]]; mentioned_place: Baltija; mentioned_place: Europa; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1990 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-004
 
@@ -65,6 +85,11 @@ amziai:
 - t-006
   global_id: t-74114
   teiginys: '2013 m. Lietuva turėjo pirmininkauti Europos Sąjungai, apibūdintai kaip laisvų ir demokratinių Europos valstybių susivienijimas.'
+  sudarymo_pagrindimas: 'Citata palaiko konkretų faktą apie pirmininkavimą Europos Sąjungai.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/NATO|NATO]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Europa; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1990 m.; įvykio data: 2004 m.; įvykio data: 2013 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko konkretų faktą apie pirmininkavimą Europos Sąjungai.'
   pagrindžia:
     - c-001
 
@@ -72,6 +97,8 @@ amziai:
 - t-007
   global_id: t-74115
   teiginys: 'Lietuvai tapus ES nare, Lietuvoje įsigaliojo Europos Sąjungos nuostatos šalių narių gyventojams.'
+  sudarymo_pagrindimas: 'Perrašyta aiškiau, išskleidžiant santrumpą ir pašalinant dviprasmę įvardžio nuorodą.'
+  susije_objektai: 'mentioned_place: Europa; mentioned_place: Lietuva'
   pagrindžia:
     - c-006
 
@@ -79,6 +106,11 @@ amziai:
 - t-008
   global_id: t-74116
   teiginys: '2003 m. Atėnuose Algirdas Brazauskas ir Antanas Valionis pasirašė Lietuvos stojimo į Europos Sąjungą sutartį.'
+  sudarymo_pagrindimas: 'Pašalintas antraštinis fragmentiškumas, paliktas aiškus faktas.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Algirdas Brazauskas|Algirdas Brazauskas]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_person: [[objektai/asmenys/Antanas Valionis|Antanas Valionis]]; mentioned_place: Atėnai; mentioned_place: Briuselis; mentioned_place: Europa; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 2003 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas antraštinis fragmentiškumas, paliktas aiškus faktas.'
   pagrindžia:
     - c-009
 
@@ -86,6 +118,11 @@ amziai:
 - t-009
   global_id: t-74117
   teiginys: '2004 m. Lietuva tapo Europos Sąjungos ir NATO nare.'
+  sudarymo_pagrindimas: 'Išskleista santrumpa, kad teiginys būtų enciklopediškai aiškesnis.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/NATO|NATO]]; mentioned_object: [[objektai/zodynas/aneksija|aneksija]]; mentioned_place: Europa; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 2004 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Išskleista santrumpa, kad teiginys būtų enciklopediškai aiškesnis.'
   pagrindžia:
     - c-008
 
@@ -93,6 +130,14 @@ amziai:
 - t-010
   global_id: t-183127
   teiginys: '2004 m. gegužės 1 d. Lietuva įstojo į Europos Sąjungą ir įgijo teisę kurti savo bei žemyno ateitį su kitomis demokratinėmis valstybėmis.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Baltija; mentioned_place: Estija; mentioned_place: Europa; mentioned_place: Latvija; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 2004 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, aiškus ir paremtas citata.'
   pagrindžia:
     - c-010
 
@@ -272,27 +317,3 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-010
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/asmenys/Algirdas Brazauskas]]
-- [[objektai/asmenys/Antanas (vaistininkas)]]
-- [[objektai/asmenys/Antanas Valionis]]
-- [[objektai/zodynas/Antisemitizmas]]
-- [[objektai/grupes/NATO]]
-- [[objektai/zodynas/aneksija]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Žydai]]
-- [[objektai/ivykiai/Baltijos šalių vyriausybių vadovų kreipimasis į Europos ekonominę bendriją (1990 m. gruodžio 14 d.)]]
-- [[objektai/grupes/Europos Parlamentas]]
-- [[objektai/grupes/Europos Taryba|Europos Taryba (institucija)]]
-- [[objektai/ivykiai/Europos asociacijos sutarčių pasirašymas su Baltijos valstybėmis]]
-- [[objektai/grupes/Jungtinių Tautų organizacija]]
-- [[objektai/ivykiai/Lietuvos nepriklausomybės atkūrimas (1990 III 11)]]
-- [[objektai/ivykiai/Lietuvos priėmimas į Jungtines Tautas ir Europos Tarybą (1991–1993 m.)]]
-- [[objektai/ivykiai/Lietuvos įstojimas į ES ir NATO (2004 m.)]]
-- [[objektai/grupes/Tarptautinė darbo organizacija]]
-- [[objektai/grupes/UNESCO]]
-- [[objektai/paprociai/Valstybinių institucijų inicijuojami Lietuvos istorijos veikalai ir pristatymai|Valstybinių institucijų inicijuojami Lietuvos istorijos veikalai ir pristatymai (institucija)]]
-- [[objektai/grupes/Šiaurės Atlanto sutarties organizacija (NATO)]]

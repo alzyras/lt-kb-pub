@@ -5,17 +5,23 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+datos:
+  - '1401 m.'
+date_start: '1401'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - paprotys
   - valdovas
+amziai:
+  - 'XV'
 ---
 # Bajorų dalyvavimas svarbiausių aktų sudaryme
 
 ## Santrauka
 
-1401 m. Vilniaus susitarimuose išvardyti bajorai ir pareigūnai turėjo būti ne tik liudininkai, bet ir garantai. Horodlės suvažiavimo nutarimai buvo surašyti valdovų ir abiejų valstybių bajorų dokumentuose. Visa tai buvo sutarta bendrame Lietuvos ir Lenkijos valdovų ir bajorų suvažiavime Horodlėje.
+Lietuvos bajorai svarbiausių valstybės aktų sudaryme dalyvaudavo ne tik kaip sutarties patvirtintojai, bet ir kaip liudininkai bei garantai. Vytauto politiniuose žygiuose ir sutartyse daugiausia veikė tikrosios Lietuvos kilmingieji ir pareigūnai.
 
 ## Laikotarpis ir datos
 
@@ -38,17 +44,31 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 <a id="claim-t-05337"></a>
 - t-001
   global_id: t-05337
   teiginys: '1401 m. Vilniaus susitarimuose išvardyti bajorai ir pareigūnai turėjo būti ne tik liudininkai, bet ir garantai.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)|Jokūbas (vėliau Urbonas IV)]]; mentioned_place: Ašmena; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1401 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
+
+<a id="claim-t-71791"></a>
+- t-002
+  global_id: t-71791
+  teiginys: 'Horodlės suvažiavimo nutarimai buvo surašyti valdovų ir abiejų valstybių bajorų dokumentuose.'
+  sudarymo_pagrindimas: 'Citata nepagrindžia 1401 m. garantų teiginio, bet pagrindžia bajorų dalyvavimą Horodlės aktuose.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Horodlė; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Viena'
+  pagrindžia:
+    - c-005
 
 <a id="claim-t-71795"></a>
 - t-003
   global_id: t-71795
   teiginys: 'Visa tai buvo sutarta bendrame Lietuvos ir Lenkijos valdovų ir bajorų suvažiavime Horodlėje.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lenkų bajorija|Lenkų bajorija]]; mentioned_group: [[objektai/grupes/Lenkų ponų taryba|Lenkų ponų taryba]]; mentioned_group: [[objektai/grupes/Ponų taryba|Ponų taryba]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_place: Horodlė; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Radomas; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
     - c-003
@@ -58,16 +78,16 @@ Nenurodyta
 - t-004
   global_id: t-71796
   teiginys: '1401 m. Vilniaus susitarimuose Lietuvos bajorai pirmą kartą unijų istorijoje surašė atskirą aktą.'
+  sudarymo_pagrindimas: 'Pirminio teiginio citata nepalaiko, bet joje yra tinkamas faktas apie Lietuvos bajorų aktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)|Jokūbas (vėliau Urbonas IV)]]; mentioned_place: Ašmena; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1401 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pirminio teiginio citata nepalaiko, bet joje yra tinkamas faktas apie Lietuvos bajorų aktą.'
   pagrindžia:
     - c-001
-- t-005
-  teiginys: 'Horodlės suvažiavimo nutarimai buvo surašyti valdovų ir abiejų valstybių bajorų dokumentuose.'
-  pagrindžia:
-    - c-005
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -83,6 +103,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -98,6 +119,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
+
 - c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -113,6 +135,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
+
 - c-004
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -128,8 +151,8 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
+
 - c-005
-  santrauka: 'Horodlės suvažiavimo nutarimai buvo surašyti valdovų ir abiejų valstybių bajorų dokumentuose.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tam tikslui Lietuvos valstybė turėjo
@@ -139,29 +162,8 @@ Nenurodyta
     Horodlėje. Suvažiavimo nutarimai buvo surašyti trijuose do-
     kumentuose: vienas bendras dokumentas buvo Jogailos ir Vy-
     tauto ir po vieną dokumentą abiejų valstybių bajorų.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-005
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bajorai]]
-- [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lenkų bajorija]]
-- [[objektai/grupes/Lenkų ponų taryba|Lenkų ponų taryba (institucija)]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Lietuvių bajorija]]
-- [[objektai/grupes/Ponų taryba|Ponų taryba (institucija)]]
-- [[objektai/zodynas/kunigaikštija]]
-- [[objektai/zodynas/luomai]]
-- [[objektai/zodynas/maršalas]]
-- [[objektai/zodynas/ponai]]
-- [[objektai/zodynas/unija]]
-- [[objektai/paprociai/Bendras Lietuvos ir Lenkijos valdovo rinkimas]]
-- [[objektai/zodynas/perdėtinis]]
-- [[objektai/zodynas/sankcija]]
+    - t-002

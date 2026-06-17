@@ -17,7 +17,7 @@ amziai:
 
 ## Santrauka
 
-Merkinėje rašytu iškilmingu aktu Vilniui buvo suteiktos Magdeburgo teisės. Magdeburgo teisių suteikimu Jogaila siekė vilioti svetimtaučius kurtis Vilniuje, bet privilegiją ribojo miestiečių pavaldumas Vilniaus seniūnui.
+1387 m. Jogaila Merkinėje rašytu iškilmingu aktu suteikė Vilniui Magdeburgo teises. Šaltinis šį sprendimą sieja su Vilniaus gyventojų ištikimybe, siekiu stabilizuoti miesto valdžią ir noru pritraukti svetimtaučius kurtis Vilniuje.
 
 ## Laikotarpis ir datos
 
@@ -47,6 +47,8 @@ Nenurodyta
 - t-001
   global_id: t-54696
   teiginys: 'Merkinėje rašytu iškilmingu aktu Vilniui buvo suteiktos Magdeburgo teisės.'
+  sudarymo_pagrindimas: 'Perrašyta vengiant neįvardyto veikėjo ir paliekant citatos paremtą faktą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Magdeburgo teisės|Magdeburgo teisės]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Merkinė; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -54,6 +56,7 @@ Nenurodyta
 - t-002
   global_id: t-54697
   teiginys: 'Magdeburgo teisių suteikimu Jogaila siekė vilioti svetimtaučius kurtis Vilniuje, bet privilegiją ribojo miestiečių pavaldumas Vilniaus seniūnui.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_person: [[objektai/asmenys/Vladislovas Jogaila|Vladislovas Jogaila]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -99,15 +102,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/politinis-sprendimas]]
-
-### Susiję objektai
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/asmenys/Vladislovas]]
-- [[objektai/asmenys/Vladislovas Jogaila]]
-- [[objektai/zodynas/Magdeburgo teisės]]
-- [[objektai/zodynas/seniūnas]]

@@ -21,6 +21,8 @@ tą patį darė čia valdas įgiję didikai Radvilos (Olyka) ir Chodkevičiai (M
 - t-001
   global_id: t-21628
   teiginys: 'Voluinėje valdas įgiję Chodkevičiai turėjo valdų Mlynive.'
+  sudarymo_pagrindimas: 'Citata leidžia suformuluoti tikslesnį faktą apie Chodkevičių ryšį su Mlynivu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_group: [[objektai/grupes/Vyšnioveckiai|Vyšnioveckiai]]; mentioned_group: [[objektai/grupes/Čartoriskiai|Čartoriskiai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/tėvonija|tėvonija]]; mentioned_place: Ostrohas; mentioned_place: Voluinė'
   pagrindžia:
     - c-001
 

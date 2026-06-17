@@ -5,26 +5,27 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
+  - '1791 m.'
   - '1792 m.'
   - '2026 m.'
-date_start: '1792'
+date_start: '1791'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XVIII'
-  - 'XXI'
 tags:
   - ivykis
   - kraštas
   - miestas
   - reforma
+amziai:
+  - 'XVIII'
+  - 'XXI'
 ---
 # Targovicos konfederacija (1792—1793 m.)
 
 ## Santrauka
 
-Targovicos konfederacija lietė tik Lenkiją, o Vilniuje buvo suorganizuota prie jos prisidėjusi Lietuvos konfederacija. Jakaterina II globojo Lenkijos ir Lietuvos reformų priešininkus, o su Rusijos pagalba buvo suorganizuota Targovicos konfederacija. Rusija suorganizavo reformų priešininkų Targovicos konfederaciją ir parėmė ją savo kariuomene.
+Bet reformuojamasis seimas dar nespėjo baigti savo darbo, kai Rusija suorganizavo reformų priešų konfederaciją ir, davusi jai savo kariuomenės, viską sugriovė. Opozicionieriai, atvykę į Targovicos miestelį (Ukrainoje, prie Sieniuchos), paskelbė konfederacijos aktą. Ši konfederacija lietė tiktai Lenkiją.
 
 ## Laikotarpis ir datos
 
@@ -43,21 +44,29 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-<a id="claim-t-66931"></a>
-- t-002
-  global_id: t-66931
+
+<a id="claim-t-66929"></a>
+- t-001
+  global_id: t-66929
   teiginys: 'Jakaterina II globojo Lenkijos ir Lietuvos reformų priešininkus, o su Rusijos pagalba buvo suorganizuota Targovicos konfederacija.'
+  sudarymo_pagrindimas: 'Originalas nutrūkęs ir per ilgas, todėl perrašytas į vientisą sakinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Targovicos konfederacija|Targovicos konfederacija]]; mentioned_object: [[objektai/zodynas/konfederacija|konfederacija]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Targovica'
+  temporaliniai_duomenys: 'įvykio data: 1791 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Originalas nutrūkęs ir per ilgas, todėl perrašytas į vientisą sakinį.'
   pagrindžia:
     - c-001
 
-- t-003
+<a id="claim-t-66931"></a>
+- t-002
+  global_id: t-66931
   teiginys: 'Rusija suorganizavo reformų priešininkų Targovicos konfederaciją ir parėmė ją savo kariuomene.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Targovicos konfederacija|Targovicos konfederacija]]; mentioned_object: [[objektai/zodynas/konfederacija|konfederacija]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Rusija; mentioned_place: Targovica'
   pagrindžia:
     - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Jakaterina II globojo Lenkijos ir Lietuvos reformų priešininkus, o su Rusijos pagalba buvo suorganizuota Targovicos konfederacija.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -77,9 +86,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
+
 - c-002
-  santrauka: 'Rusija suorganizavo reformų priešininkų Targovicos konfederaciją ir parėmė ją savo kariuomene.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Priimtoje konsti-
@@ -89,18 +98,8 @@ Nenurodyta
     ganizavo reformų priešų konfederaciją ir, davusi jai savo ka-
     riuomenės, viską sugriovė. Ta konfederacija dėl jos akto pa-
     skelbimo vietos yra vadinama Targovicos konfederacija.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Targovicos konfederacija]]
-- [[objektai/zodynas/konfederacija]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Ketverių metų seimas]]
+    - t-002

@@ -29,6 +29,9 @@ Smolenske caras Aleksejus Michailovičius jį paskelbė vyriausiuoju vadu.
 - t-001
   global_id: t-78940
   teiginys: '1655 m. Smolenske caras Aleksejus Michailovičius jį paskelbė vyriausiuoju vadu.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jurijus|Jurijus]]; mentioned_place: Smolenskas; mentioned_place: Šklovas'
+  temporaliniai_duomenys: 'įvykio data: 1655 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -36,9 +39,12 @@ Smolenske caras Aleksejus Michailovičius jį paskelbė vyriausiuoju vadu.
 - t-002
   global_id: t-78941
   teiginys: 'Smolenske caras Aleksejus Michailovičius paskelbė vyriausiąjį vadą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jurijus|Jurijus]]; mentioned_place: Smolenskas; mentioned_place: Šklovas'
+  temporaliniai_duomenys: 'įvykio data: 1655 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Jokūbas Kudenekovičius Čerkaskis.md#claim-t-183743|Jokūbas Kudenekovičius Čerkaskis]]: Kunigaikštis Jokūbas Kudenekovičius Čerkaskis faktiškai vadovavo Rusijos kariuomenei, nors oficialiu vadu buvo caras Aleksejus Michailovičius.
 ## Reikšmingi paminėjimai
 
 - c-001

@@ -20,6 +20,8 @@ Miulerio vadovaujama kolona įsiveržė į centrinę Aušros vartų gatvę.
 - t-001
   global_id: t-39787
   teiginys: 'Pulkininko Miulerio vadovaujama kolona įsiveržė į centrinę Aušros vartų gatvę.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir susietas su Miulerio vadovavimu.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]'
   pagrindžia:
     - c-001
 
@@ -38,7 +40,3 @@ Miulerio vadovaujama kolona įsiveržė į centrinę Aušros vartų gatvę.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Šautuvai]]

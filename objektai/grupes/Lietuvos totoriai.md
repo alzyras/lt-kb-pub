@@ -3,12 +3,18 @@ tipas: grupe
 pavadinimas: 'Lietuvos totoriai'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+datos:
+  - '1572 m.'
+date_start: '1572'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - ginklas
   - grupe
   - mūšis
+amziai:
+  - 'XVI'
 ---
 # Lietuvos totoriai
 
@@ -22,6 +28,7 @@ tags:
 - t-001
   global_id: t-78379
   teiginys: 'Lietuvos totoriai naudodavo rytietiškas strėlines ir buvo ginkluoti lanku, kardu bei skydu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/daiktai/Ietis|Ietis]]; mentioned_object: [[objektai/daiktai/Kardas|Kardas]]; mentioned_object: [[objektai/daiktai/Skydas|Skydas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 
@@ -29,6 +36,8 @@ tags:
 - t-002
   global_id: t-78380
   teiginys: 'Lietuvos totorių vėliavų įvedimas į mūšį dar labiau padidino švedų kavalerijoje kilusią paniką.'
+  sudarymo_pagrindimas: 'Teiginys palaikomas, bet reikia aiškiau nurodyti, kieno panika padidėjo.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/daiktai/Vėliavos|Vėliavos]]; mentioned_object: [[objektai/zodynas/husarai|husarai]]; mentioned_person: [[objektai/asmenys/Machmetas|Machmetas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-004
 
@@ -36,6 +45,11 @@ tags:
 - t-003
   global_id: t-78381
   teiginys: 'Lietuvos totoriai naudodavo rytietiškas strėlines, kaip ir kita Lietuvos lengvoji kariuomenė.'
+  sudarymo_pagrindimas: 'Pradinis teiginys apie kazokus netinka objektui, bet citata palaiko faktą apie Lietuvos totorius.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/daiktai/Kardas|Kardas]]; mentioned_object: [[objektai/daiktai/Skydas|Skydas]]; mentioned_person: [[objektai/asmenys/Fulvio Ruggieri|Fulvio Ruggieri]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1572 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys apie kazokus netinka objektui, bet citata palaiko faktą apie Lietuvos totorius.'
   pagrindžia:
     - c-001
 
@@ -43,9 +57,18 @@ tags:
 - t-004
   global_id: t-78382
   teiginys: 'Lietuvos totoriai šiame sparne buvo vertinami dėl manevringumo persekiojant bėgantį priešą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/husarai|husarai]]; mentioned_place: Dauguva; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/asmenys/Kurovičius.md#claim-t-39772|Kurovičius]]: Kurovičius buvo „vengrų“ pėstininkų rotmistras, kurį paryčiais girti bajorai nužudė kartu su kitais žymesniais belaisviais.
+- susijęs iš [[objektai/asmenys/M. Vaina.md#claim-t-39781|M. Vaina]]: Breslaujos seniūnas M. Vaina buvo nužudytas kartu su M. P. Sapiega ir rotmistru Kurovičiumi.
+- susijęs iš [[objektai/grupes/Kazokai.md#claim-t-65305|Kazokai]]: Lietuvos totoriai ir kazokai buvo vertinami dėl manevringumo persekiojant bėgantį priešą.
+- susijęs iš [[objektai/ivykiai/Vytauto žygiai prie Juodosios jūros ir Krymo (1397–1398 m.).md#claim-t-31501|Vytauto žygiai prie Juodosios jūros ir Krymo (1397–1398 m.)]]: 1397 m. Vytautas, veikiausiai pritariant Jogailai, surengė didelį žygį prie Juodosios jūros ir į Krymą.
+- susijęs iš [[objektai/paprociai/Totorių raitoji karyba be vežimų ir tarnyba kariuomenėje.md#claim-t-87227|Totorių raitoji karyba be vežimų ir tarnyba kariuomenėje]]: Anksčiau Lietuvos totoriai vertėsi audinių ir siūlų prekyba, o vėliau daugelis jų tarnavo totorių ulonų pulkuose.
+- susijęs iš Dniepro žiotys: 1398 m. antrajame žygyje Vytautas Dniepro žiotyse pastatė Tavanės, arba Šv. Jono, pilį.
+- susijęs iš Trakai: Po 1397 m. žygio Vytautas totorių belaisvius ir pabėgėlius įkurdino Trakų kunigaikštijoje.
+- susijęs iš [[objektai/zodynas/Mahometoniškas tikėjimas.md#claim-t-32754|Mahometoniškas tikėjimas]]: Vytauto privilegijas gavę Lietuvos totoriai išlaikė mahometonišką tikėjimą ir papročius.
+- susijęs iš [[objektai/zodynas/ulonai.md#claim-t-86620|ulonai]]: Lietuvos totoriai tarnavo specialiuose raitininkų pulkuose, vadinamuose totorių ulonų pulkais.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -125,22 +148,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Fulvio Ruggieri]]
-- [[objektai/daiktai/Ietis]]
-- [[objektai/daiktai/Kardas]]
-- [[objektai/grupes/Kazokai]]
-- [[objektai/asmenys/Machmetas]]
-- [[objektai/daiktai/Skydas]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/daiktai/Vėliavos]]
-- [[objektai/zodynas/husarai]]
-- [[objektai/grupes/Švedai]]
-- [[objektai/asmenys/Kurovičius]]
-- [[objektai/asmenys/M. Vaina]]
-- [[objektai/zodynas/Mahometoniškas tikėjimas]]
-- [[objektai/ivykiai/Vytauto žygiai prie Juodosios jūros ir Krymo (1397–1398 m.)]]
-- [[objektai/paprociai/Totorių raitoji karyba be vežimų ir tarnyba kariuomenėje]]
-- [[objektai/zodynas/ulonai]]

@@ -5,6 +5,7 @@ saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1245 m.'
+  - '1246 m.'
   - '1500 m.'
 date_start: '1245'
 date_end: '1500'
@@ -47,6 +48,11 @@ Nenurodyta
 - t-001
   global_id: t-66509
   teiginys: 'Po pergalės broliai ir maldininkai grįžo namo su 1600 priešo žirgų ir kitu grobiu.'
+  sudarymo_pagrindimas: 'Pradinis teiginys sugadintas puslapio išnašų triukšmo.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/maldininkai|maldininkai]]; mentioned_object: [[objektai/zodynas/stalininkas|stalininkas]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_place: Kulmas; mentioned_place: Lenkija; mentioned_place: Prūsija; mentioned_place: Torunė'
+  temporaliniai_duomenys: 'įvykio data: 1245 m.; įvykio data: 1246 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys sugadintas puslapio išnašų triukšmo.'
   pagrindžia:
     - c-001
 
@@ -54,6 +60,11 @@ Nenurodyta
 - t-002
   global_id: t-66511
   teiginys: '1246 m. Sventopelkas su didesne kariuomene persekiojo atsitraukiančius brolius, bet mūšyje prarado 1500 vyrų.'
+  sudarymo_pagrindimas: 'Citata remia glaustesnį sakinį be perteklinių detalių ir fragmentų.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Pomeranai|Pomeranai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/gurguolė|gurguolė]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Henrikas iš Lichtenšteino|Henrikas iš Lichtenšteino]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1246 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata remia glaustesnį sakinį be perteklinių detalių ir fragmentų.'
   pagrindžia:
     - c-002
 
@@ -136,22 +147,3 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Druzigeris]]
-- [[objektai/autoriai/Henrikas]]
-- [[objektai/asmenys/Henrikas iš Lichtenšteino]]
-- [[objektai/daiktai/Kryžius]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/asmenys/Martynas iš Golino]]
-- [[objektai/grupes/Pomeranai]]
-- [[objektai/asmenys/Sventopelkas]]
-- [[objektai/grupes/Teutonai]]
-- [[objektai/zodynas/gurguolė]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/maldininkai]]
-- [[objektai/zodynas/stalininkas]]
-- [[objektai/daiktai/Žirgai]]
-- [[objektai/daiktai/Namas]]

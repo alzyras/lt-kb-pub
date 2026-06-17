@@ -26,6 +26,11 @@ Dusburgietis teigia, kad rymut K., Nazwy miast Polski.— Wrocław—Warszawa—
 - t-001
   global_id: t-61277
   teiginys: 'K. Rymuto „Nazwy miast Polski“ buvo išleista 1980 m., leidimo vietomis nurodant Wrocławą, Varšuvą, Krokuvą ir Gdanską.'
+  sudarymo_pagrindimas: 'Citata pateikia visą bibliografinį įrašą su leidimo vietomis ir metais.'
+  susije_objektai: 'mentioned_place: Krokuva'
+  temporaliniai_duomenys: 'įvykio data: 1980 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pateikia visą bibliografinį įrašą su leidimo vietomis ir metais.'
   pagrindžia:
     - c-001
 

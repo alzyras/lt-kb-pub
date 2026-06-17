@@ -20,6 +20,7 @@ tags:
 - t-001
   global_id: t-30633
   teiginys: 'H. Łowmiańskis bandė seniausias lietuvių sienas nukelti iki Merkinės, Eišiškių ir Šalčininkų linijos.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Gardinas; mentioned_place: Lazūnai; mentioned_place: Merkinė; mentioned_place: Nemunas; mentioned_place: Šalčininkai'
   pagrindžia:
     - c-001
 
@@ -40,7 +41,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]

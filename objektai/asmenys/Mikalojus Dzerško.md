@@ -30,9 +30,14 @@ Mikalojus Dzerško arba Dzerškavičius, lietuvis, laisvųjų menų magistras, b
 - t-001
   global_id: t-87784
   teiginys: 'Mikalojus Dzerško, dar vadintas Dzerškavičiumi, buvo lietuvis, laisvųjų menų magistras ir vyskupas 1453-1462 m.'
+  sudarymo_pagrindimas: 'Sakinys pataisytas pašalinant OCR defektus ir išlaikant faktus.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas Pliekta|Jonas Pliekta]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: iki 1462 m.; įvykio data: po 1453 m.; įvykio data: 1453 m.; įvykio data: 1453-1462; įvykio data: 1462 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Sakinys pataisytas pašalinant OCR defektus ir išlaikant faktus.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/daiktai/Vilniaus vyskupų antspaudų ženklai.md#claim-t-87102|Vilniaus vyskupų antspaudų ženklai]]: Vilniaus vyskupas Mikalojus Dzerško arba Dzerškavičius savo antspaude turėjo Stumbro ženklą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -51,8 +56,3 @@ Mikalojus Dzerško arba Dzerškavičius, lietuvis, laisvųjų menų magistras, b
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Vilniaus vyskupų antspaudų ženklai]]
-- [[objektai/zodynas/magistras]]

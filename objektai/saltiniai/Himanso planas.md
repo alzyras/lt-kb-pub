@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Lietuvos diplomatai pritarė deryboms dėl Himanso plano, bet jam priešinosi politinės partijos, karinė vadovybė ir Šaulių sąjunga. Lenkijos ir Lietuvos federacijos planas suiro, o Maskva tai vertino kaip didžiausią savo diplomatijos laimėjimą. Pagal Himanso planą Lietuva ir Lenkija turėjo koordinuoti užsienio politiką ir sudaryti karines bei ekonomines konvencijas.
+Abi šalys sutarė priimti tą planą kaip „bazę diskusijom“. 1921 m. vasarą Tautų Sąjungos Taryba priėmė rezoliuciją, pritariančią Himanso planui. Lietuvos viduje deryboms dėl Himanso plano pritarė Lietuvos diplomatai, tačiau priešinosi visos politinės partijos, karinė vadovybė, Lietuvos šaulių sąjunga, grasinta net perversmu – planas vertintas kaip lenkų Trojos arklys.
 
 ## Teiginiai
 
@@ -23,6 +23,8 @@ Lietuvos diplomatai pritarė deryboms dėl Himanso plano, bet jam priešinosi po
 - t-001
   global_id: t-45674
   teiginys: 'Lietuvos diplomatai pritarė deryboms dėl Himanso plano, bet jam priešinosi politinės partijos, karinė vadovybė ir Šaulių sąjunga.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai perteikia citatoje nurodytas pozicijas dėl plano.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Šaulių sąjunga|Šaulių sąjunga]]; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Vokietija'
   pagrindžia:
     - c-001
 
@@ -30,6 +32,8 @@ Lietuvos diplomatai pritarė deryboms dėl Himanso plano, bet jam priešinosi po
 - t-002
   global_id: t-45675
   teiginys: 'Lenkijos ir Lietuvos federacijos planas suiro, o Maskva tai vertino kaip didžiausią savo diplomatijos laimėjimą.'
+  sudarymo_pagrindimas: 'Sakinys pilnas ir paremtas citatoje pateiktu vertinimu.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/diplomatija|diplomatija]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Maskva'
   pagrindžia:
     - c-002
 
@@ -37,6 +41,7 @@ Lietuvos diplomatai pritarė deryboms dėl Himanso plano, bet jam priešinosi po
 - t-003
   global_id: t-45676
   teiginys: 'Pagal Himanso planą Lietuva ir Lenkija turėjo koordinuoti užsienio politiką ir sudaryti karines bei ekonomines konvencijas.'
+  susije_objektai: 'mentioned_object: [[objektai/posakiai/„bazę diskusijom“|„bazę diskusijom“]]; mentioned_place: Kaunas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_place: Šveicarija'
   pagrindžia:
     - c-003
 
@@ -44,6 +49,11 @@ Lietuvos diplomatai pritarė deryboms dėl Himanso plano, bet jam priešinosi po
 - t-004
   global_id: t-183360
   teiginys: 'Lietuva ir Lenkija sutarė priimti Himanso planą kaip derybų pagrindą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradiniame teiginyje neaišku, kas yra abi šalys, todėl subjektai išplėsti pagal citatą.'
+  susije_objektai: 'mentioned_object: [[objektai/posakiai/„bazę diskusijom“|„bazę diskusijom“]]; mentioned_place: Kaunas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_place: Šveicarija'
   pagrindžia:
     - c-003
 

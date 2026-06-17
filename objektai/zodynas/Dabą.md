@@ -27,9 +27,11 @@ Vartojamos formos: `dabos`.
 - t-001
   global_id: t-69994
   teiginys: 'Daba minima greta būdo ir tikybos kaip bruožas, kuriuo lietuviai esą buvo panašūs į indijonis.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas citatoje esančiu dabos, būdo ir tikybos sugretinimu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-001
-
+- susijęs iš Žalioji giria: Lietuviais vadinta getų tautos dalis po kruvinų karų įsitraukė į Žaliąją ir Juodąją girias.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -42,9 +44,3 @@ Vartojamos formos: `dabos`.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Rėda|rėda]]
-- [[objektai/zodynas/Stigavoja|stigavoja]]
-- [[objektai/grupes/Lietuviai]]

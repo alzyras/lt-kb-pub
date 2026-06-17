@@ -5,9 +5,9 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
-  - '1990 m.'
+  - '1972 m.'
   - '1991 m.'
-date_start: '1990'
+date_start: '1972'
 date_end: '1991'
 sukurta: ''
 atnaujinta: ''
@@ -18,13 +18,13 @@ tags:
 amziai:
   - 'XX'
 periodo_grupes:
-  - 'šiuolaikinė Lietuva'
+  - 'XX a.'
 ---
 # Michailas Gorbačiovas
 
 ## Santrauka
 
-Prasidėjus perversmui Maskvoje, Michailas Gorbačiovas buvo izoliuotas Kryme. 1991 m. sausio 10 d. Michailas Gorbačiovas pareikalavo, kad Lietuvos AT-AS atkurtų SSRS konstitucijos galiojimą. 1991 m. kovą Maskvos demonstracijoje daugiau nei 200 tūkst. dalyvių skandavo šūkius prieš Gorbačiovą ir už Lietuvą.
+S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, kitaip nei Maskvoje, Ukrainoje ar Gruzijoje, spengė tyla – pilki LKP CK pirmieji sekretoriai Petras Griškevičius ir jį pakeitęs Rimgaudas Songaila laikėsi pasyviai, valdžios vadžias. Pradiniame etape Sąjūdis iš esmės buvo gorbačiovinės perestroikos kūdikis, kurį su ankstesniais kovų etapais siejo tik laisvos Lietuvos siekis. Gorbačiovo vizitas į Lietuvą neatbaidė LPS nuo šių planų.
 
 ## Teiginiai
 
@@ -32,6 +32,8 @@ Prasidėjus perversmui Maskvoje, Michailas Gorbačiovas buvo izoliuotas Kryme. 1
 - t-001
   global_id: t-101677
   teiginys: 'Prasidėjus perversmui Maskvoje, Michailas Gorbačiovas buvo izoliuotas Kryme.'
+  sudarymo_pagrindimas: 'Claimas yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_person: [[objektai/asmenys/Borisas (Tverės kunigaikštis)|Borisas (Tverės kunigaikštis)]]; mentioned_place: Krymas; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Rusija'
   pagrindžia:
     - c-005
 
@@ -39,6 +41,11 @@ Prasidėjus perversmui Maskvoje, Michailas Gorbačiovas buvo izoliuotas Kryme. 1
 - t-002
   global_id: t-101678
   teiginys: '1991 m. sausio 10 d. Michailas Gorbačiovas pareikalavo, kad Lietuvos AT-AS atkurtų SSRS konstitucijos galiojimą.'
+  sudarymo_pagrindimas: 'Sakinys sutrumpintas ir išlaikytas citatos faktas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/konstitucijos|konstitucijos]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva; mentioned_place: Mažeikiai; mentioned_place: SSRS'
+  temporaliniai_duomenys: 'įvykio data: 1990 m.; įvykio data: 1991 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Sakinys sutrumpintas ir išlaikytas citatos faktas.'
   pagrindžia:
     - c-001
 
@@ -46,6 +53,11 @@ Prasidėjus perversmui Maskvoje, Michailas Gorbačiovas buvo izoliuotas Kryme. 1
 - t-003
   global_id: t-101679
   teiginys: '1991 m. kovą Maskvos demonstracijoje daugiau nei 200 tūkst. dalyvių skandavo šūkius prieš Gorbačiovą ir už Lietuvą.'
+  sudarymo_pagrindimas: 'Pradinis tekstas prasideda fragmentu ir tęsiasi kita tema, citata palaiko konkretų demonstracijos faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Rusija; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: po 1991 m.; įvykio data: 1991 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis tekstas prasideda fragmentu ir tęsiasi kita tema, citata palaiko konkretų demonstracijos faktą.'
   pagrindžia:
     - c-002
 
@@ -53,6 +65,11 @@ Prasidėjus perversmui Maskvoje, Michailas Gorbačiovas buvo izoliuotas Kryme. 1
 - t-004
   global_id: t-101680
   teiginys: 'Michailo Gorbačiovo pertvarkos politikos pradžioje Lietuvos visuomenės nepasitenkinimas didėjo.'
+  sudarymo_pagrindimas: 'Reikėjo aiškesnės sakinio sandaros apie asmenį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Rimgaudas Songaila|Rimgaudas Songaila]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Ukraina'
+  temporaliniai_duomenys: 'įvykio data: 1972 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikėjo aiškesnės sakinio sandaros apie asmenį.'
   pagrindžia:
     - c-007
 
@@ -60,6 +77,7 @@ Prasidėjus perversmui Maskvoje, Michailas Gorbačiovas buvo izoliuotas Kryme. 1
 - t-005
   global_id: t-101681
   teiginys: 'Gorbačiovo reformoms, o jį patį nuvers „vanagai“.'
+  susije_objektai: 'mentioned_object: [[objektai/posakiai/Gorbis ar Lietuva|Gorbis ar Lietuva]]; mentioned_place: Baltija; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 
@@ -67,6 +85,8 @@ Prasidėjus perversmui Maskvoje, Michailas Gorbačiovas buvo izoliuotas Kryme. 1
 - t-006
   global_id: t-101682
   teiginys: 'SSRS vadovybė su Michailu Gorbačiovu priešakyje reikalavo atšaukti Kovo 11 Aktą.'
+  sudarymo_pagrindimas: 'Išplėsta vardo forma ir pašalinta santrumpa.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/posakiai/„kas buvo pavogta, turi būti grąžinta“|„kas buvo pavogta, turi būti grąžinta“]]; mentioned_place: Lietuva; mentioned_place: SSRS'
   pagrindžia:
     - c-006
 
@@ -74,6 +94,11 @@ Prasidėjus perversmui Maskvoje, Michailas Gorbačiovas buvo izoliuotas Kryme. 1
 - t-007
   global_id: t-101683
   teiginys: '1991 m. sausio 10 d. Michailas Gorbačiovas ultimatyviai pareikalavo nedelsiant visiškai atkurti SSRS ir Lietuvos SSR konstitucijų galiojimą.'
+  sudarymo_pagrindimas: 'Perrašyta į tikslesnį sakinį su metais ir citatoje esančiu reikalavimo turiniu.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Danutė|Danutė]]; mentioned_place: Lietuva; mentioned_place: SSRS'
+  temporaliniai_duomenys: 'įvykio data: 1991 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Perrašyta į tikslesnį sakinį su metais ir citatoje esančiu reikalavimo turiniu.'
   pagrindžia:
     - c-004
 
@@ -81,6 +106,9 @@ Prasidėjus perversmui Maskvoje, Michailas Gorbačiovas buvo izoliuotas Kryme. 1
 - t-008
   global_id: t-101684
   teiginys: '1991 m. kovą Michailas Gorbačiovas Maskvos demonstracijoje sulaukė daugiau nei 200 tūkst. dalyvių raginimo atsistatydinti.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Rusija; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: po 1991 m.; įvykio data: 1991 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 
@@ -88,6 +116,11 @@ Prasidėjus perversmui Maskvoje, Michailas Gorbačiovas buvo izoliuotas Kryme. 1
 - t-009
   global_id: t-101685
   teiginys: 'Michailo Gorbačiovo pertvarkos politikos pradžioje Lietuvoje LKP vadovybė laikėsi pasyviai.'
+  sudarymo_pagrindimas: 'Pradiniame teiginyje daug antraštės ir puslapio triukšmo, citata palaiko faktą apie pertvarkos pradžios kontekstą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Rimgaudas Songaila|Rimgaudas Songaila]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Ukraina'
+  temporaliniai_duomenys: 'įvykio data: 1972 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradiniame teiginyje daug antraštės ir puslapio triukšmo, citata palaiko faktą apie pertvarkos pradžios kontekstą.'
   pagrindžia:
     - c-007
 
@@ -95,6 +128,11 @@ Prasidėjus perversmui Maskvoje, Michailas Gorbačiovas buvo izoliuotas Kryme. 1
 - t-010
   global_id: t-101686
   teiginys: 'Michailo Gorbačiovo pertvarkos politikos pradžioje Lietuvos visuomenės nepasitenkinimas didėjo, kol ji pati ėmėsi iniciatyvos.'
+  sudarymo_pagrindimas: 'Reikėjo aiškiau susieti faktą su Michailu Gorbačiovu.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Rimgaudas Songaila|Rimgaudas Songaila]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Ukraina'
+  temporaliniai_duomenys: 'įvykio data: 1972 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikėjo aiškiau susieti faktą su Michailu Gorbačiovu.'
   pagrindžia:
     - c-007
 
@@ -102,9 +140,13 @@ Prasidėjus perversmui Maskvoje, Michailas Gorbačiovas buvo izoliuotas Kryme. 1
 - t-011
   global_id: t-101687
   teiginys: 'Gorbačiovo įvaizdis, subliuško „gorbimanija“.'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: SSRS'
   pagrindžia:
     - c-008
-
+- susijęs iš [[objektai/grupes/Jedinstvo.md#claim-t-65205|Jedinstvo]]: 1991 m. sausio 8 d. „Jedinstvo“ ir prosovietinės Lietuvos komunistų partijos vadovaujama „penktoji kolona“ mėgino užimti AT rūmus.
+- susijęs iš [[objektai/grupes/Lietuvos komunistų partija.md#claim-t-78365|Lietuvos komunistų partija]]: TSKP platformos Lietuvos komunistų partija įkūrė slaptą Nacionalinio gelbėjimo komitetą, parengusį prezidentinio valdymo įvedimo Lietuvoje planą.
+- susijęs iš [[objektai/grupes/Nacionalinio gelbėjimo komitetas.md#claim-t-41101|Nacionalinio gelbėjimo komitetas (institucija)]]: Lietuvos komunistų partija TSKP platformos pagrindu įkūrė slaptą Nacionalinio gelbėjimo komitetą, parengusį prezidentinio valdymo įvedimo Lietuvoje planą.
+- susijęs iš SSRS konstitucija: 1991 m. sausio 10 d. Michailas Gorbačiovas ultimatyviai pareikalavo, kad Lietuvos AT-AS atkurtų SSRS konstitucijos galiojimą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -276,19 +318,3 @@ Prasidėjus perversmui Maskvoje, Michailas Gorbačiovas buvo izoliuotas Kryme. 1
   statusas: verified
   pagrindžia:
     - t-011
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/posakiai/Gorbis ar Lietuva]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/konstitucijos]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/posakiai/„kas buvo pavogta, turi būti grąžinta“]]
-- [[objektai/grupes/Jedinstvo]]
-- [[objektai/grupes/Lietuvos komunistų partija]]
-- [[objektai/grupes/Nacionalinio gelbėjimo komitetas|Nacionalinio gelbėjimo komitetas (institucija)]]
-- [[objektai/ivykiai/Lietuvos nepriklausomybės tarptautinis pripažinimas (1991 m. vasario 11 d. – rugsėjo 6 d.)]]
-- [[objektai/posakiai/Šalin rankas nuo Lietuvos]]
-- [[objektai/posakiai/„Lietuvą padaryti internacionalinę“]]
-- [[objektai/posakiai/„Šalin rankas nuo Lietuvos“ „Gorbačiovai, atsistatydink!“]]

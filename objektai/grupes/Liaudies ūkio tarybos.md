@@ -3,10 +3,17 @@ tipas: grupe
 pavadinimas: 'Liaudies ūkio tarybos (institucija)'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1953 m.'
+  - '1957 m.'
+date_start: '1953'
+date_end: '1957'
 sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+amziai:
+  - 'XX'
 ---
 # Liaudies ūkio tarybos (institucija)
 
@@ -20,9 +27,14 @@ Naujoji tvarka daugiau teisių suteikė sąjunginėms respublikoms: jos tvirtino
 - t-001
   global_id: t-19799
   teiginys: '1957 m. vietoje pramonės ir statybos ministerijų įsteigtos regioninės Liaudies ūkio tarybos turėjo pertvarkyti pramonės valdymą.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nebaigtas, o citata pagrindžia aiškesnį sakinį apie tarybas.'
+  susije_objektai: 'mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1953 m.; įvykio data: 1957 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys nebaigtas, o citata pagrindžia aiškesnį sakinį apie tarybas.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/ivykiai/Regioninių Liaudies ūkio tarybų įsteigimas (1957 m.).md#claim-t-20462|Regioninių Liaudies ūkio tarybų įsteigimas (1957 m.)]]: 1957 m. vietoje pramonės ir statybos ministerijų įsteigtos regioninės Liaudies ūkio tarybos turėjo pertvarkyti pramonės valdymą iš šakinio į teritorinį.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -41,7 +53,3 @@ Naujoji tvarka daugiau teisių suteikė sąjunginėms respublikoms: jos tvirtino
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/Regioninių Liaudies ūkio tarybų įsteigimas (1957 m.)]]

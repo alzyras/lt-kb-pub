@@ -21,6 +21,8 @@ Dusburgietis teigia, kad dar apie tą patį Neilgai trukus po to, kai tas pats b
 - t-001
   global_id: t-59167
   teiginys: 'Brolis Albertas žygyje atsiskyrė nuo kitų brolių ir meldėsi, kad namie būtų galėjęs priimti Kristaus kūną.'
+  sudarymo_pagrindimas: 'Pirminis teiginys nutrūkęs ir turi antraštės triukšmo; citata remia glaustą faktinį sakinį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Albertas|Albertas]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]'
   pagrindžia:
     - c-001
 
@@ -28,6 +30,8 @@ Dusburgietis teigia, kad dar apie tą patį Neilgai trukus po to, kai tas pats b
 - t-002
   global_id: t-59168
   teiginys: 'Brolis Albertas paprašė, kad paplotėlis įeitų į jį, jei tai tikras Kristaus kūnas, ir priėmė ore pasirodžiusį paplotėlį.'
+  sudarymo_pagrindimas: 'Teiginį reikia sutrumpinti ir pašalinti neaiškų įvardį; citata remia šį sakinį.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Paplotėlis|Paplotėlis]]; mentioned_person: [[objektai/asmenys/Albertas|Albertas]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]'
   pagrindžia:
     - c-002
 
@@ -71,10 +75,3 @@ Dusburgietis teigia, kad dar apie tą patį Neilgai trukus po to, kai tas pats b
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Albertas]]
-- [[objektai/asmenys/Kūnas]]
-- [[objektai/daiktai/Paplotėlis]]
-- [[objektai/zodynas/žygis]]

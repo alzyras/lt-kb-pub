@@ -33,6 +33,11 @@ Nenurodyta
 - t-001
   global_id: t-185896
   teiginys: 'Vasiljevičius pasiūlė ginčą dėl žemių patikėti spręsti abiejų šalių atstovams.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nusako veikėją, veiksmą ir ginčo perdavimą abiejų šalių atstovams.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]; mentioned_place: Maskva'
   pagrindžia:
     - c-001
 
@@ -58,7 +63,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)]]

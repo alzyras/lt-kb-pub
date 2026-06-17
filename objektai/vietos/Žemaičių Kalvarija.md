@@ -3,6 +3,11 @@ tipas: vieta
 pavadinimas: 'Žemaičių Kalvarija'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1958 m.'
+  - '1962 m.'
+date_start: '1958'
+date_end: '1962'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -10,6 +15,8 @@ tags:
   - miestas
   - mokslininkas
   - vieta
+amziai:
+  - 'XX'
 ---
 # Žemaičių Kalvarija
 
@@ -23,6 +30,11 @@ tags:
 - t-001
   global_id: t-21969
   teiginys: 'Po 1958 m. valdžia ribojo atlaidų lankymą Žemaičių Kalvarijoje ir Šiluvoje.'
+  sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir nutrūkęs, todėl reikia glaustos formuluotės.'
+  susije_objektai: 'mentioned_place: Kalvarija; mentioned_place: Šiluva'
+  temporaliniai_duomenys: 'įvykio data: po 1958 m.; įvykio data: 1958 m.; įvykio data: 1962 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys per ilgas ir nutrūkęs, todėl reikia glaustos formuluotės.'
   pagrindžia:
     - c-001
 

@@ -29,6 +29,11 @@ Pergalė jam buvo lemta ir tąsyk: du­ syk pakartotas žygis, nepaisant dideli�
 - t-001
   global_id: t-86609
   teiginys: '1429 metais pas Vytautą buvo atsiųsti Pskovo posadnikas Silvestras Levontjevičius ir vietininkas Parfėjus.'
+  sudarymo_pagrindimas: 'Citata pagrindžia pareigūnų atsiuntimą, o pradinis teiginys nutrūkęs.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/bojarinai|bojarinai]]; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_person: [[objektai/asmenys/Joachimas (Pskovo vietininkas)|Joachimas (Pskovo vietininkas)]]; mentioned_person: [[objektai/asmenys/Parfėjus|Parfėjus]]; mentioned_person: [[objektai/asmenys/Silvestras Levontjevičius|Silvestras Levontjevičius]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Pskovas; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1429 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia pareigūnų atsiuntimą, o pradinis teiginys nutrūkęs.'
   pagrindžia:
     - c-001
 
@@ -57,16 +62,3 @@ Pergalė jam buvo lemta ir tąsyk: du­ syk pakartotas žygis, nepaisant dideli�
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Joachimas (Pskovo vietininkas)]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/bojarinai]]
-- [[objektai/zodynas/vietininkas]]
-- [[objektai/asmenys/Parfėjus]]
-- [[objektai/asmenys/Silvestras Levontjevičius]]
-- [[objektai/asmenys/Ivanas Sidorovičius]]
-- [[objektai/asmenys/Joachimas Pavlovičius]]
-- [[objektai/grupes/Pskovo respublika]]

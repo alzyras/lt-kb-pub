@@ -46,6 +46,11 @@ Nenurodyta
 - t-001
   global_id: t-28871
   teiginys: 'Vaišvilkas apie 1268 m. vyriausią valdžią Lietuvoje perdavė savo svainiui Švarnui, vedusiam jo seserį.'
+  sudarymo_pagrindimas: 'Citata palaiko faktą, bet teiginį reikia sutvarkyti nuo OCR klaidų.'
+  susije_objektai: 'mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1268 m.; įvykio data: apie 1268 m.; įvykio data: 1268-1269; įvykio data: 1269 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko faktą, bet teiginį reikia sutvarkyti nuo OCR klaidų.'
   pagrindžia:
     - c-001
 

@@ -4,9 +4,11 @@ pavadinimas: 'Jėzuitiškas mokymas ir katalikybės sklaida per Vilniaus univers
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
+  - '1618 m.'
+  - '1646 m.'
   - '1650 m.'
   - '1832 m.'
-date_start: '1650'
+date_start: '1618'
 date_end: '1832'
 sukurta: ''
 atnaujinta: ''
@@ -23,7 +25,7 @@ amziai:
 
 ## Santrauka
 
-Jėzuitai Baroko epochos idėjas skleidė per Vilniaus universitetą. Vilniaus universitetas – vienas iš seniausių universitetų Vidurio Europoje – už jį senesni tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus universitetai. Jėzuitai Baroko epochos idėjas skleidė per Vilniaus universitetą.
+Tačiau Steponas Batoras Livonijos karo metu rūpinosi mūzų prieglobsčio – Vilniaus universiteto – kūrimu. Vilniaus universitetas iki pat uždarymo 1832 m. buvo ne tik pagrindinė Lietuvos mokykla, bet ir svarbiausias kultūros centras. Vilniaus universitetas – vienas iš seniausių universitetų Vidurio Europoje – už jį senesni tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus universitetai.
 
 ## Laikotarpis ir datos
 
@@ -51,6 +53,11 @@ Nenurodyta
 - t-001
   global_id: t-54244
   teiginys: 'Jėzuitai Baroko epochos idėjas skleidė per Vilniaus universitetą.'
+  sudarymo_pagrindimas: 'Teiginys yra glaustas, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus universitetas|Vilniaus universitetas]]; mentioned_object: [[objektai/zodynas/barokas|barokas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1832 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra glaustas, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-002
 
@@ -58,6 +65,11 @@ Nenurodyta
 - t-002
   global_id: t-54245
   teiginys: 'Vilniaus universitetas – vienas iš seniausių universitetų Vidurio Europoje – už jį senesni tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus universitetai.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Vilniaus universitetą ir pagrįstas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Anglai|Anglai]]; mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_person: [[objektai/autoriai/Martynas Smigleckis|Martynas Smigleckis]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Anglija; mentioned_place: Europa; mentioned_place: Oksfordas; mentioned_place: Vilnius; mentioned_place: Čekija'
+  temporaliniai_duomenys: 'įvykio data: 1618 m.; įvykio data: 1646 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie Vilniaus universitetą ir pagrįstas citata.'
   pagrindžia:
     - c-001
 
@@ -65,6 +77,14 @@ Nenurodyta
 - t-004
   global_id: t-183311
   teiginys: 'Vilniaus universitetas iki pat uždarymo 1832 m. buvo ne tik pagrindinė Lietuvos mokykla, bet ir svarbiausias kultūros centras.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas, turi aiškų subjektą ir predikatą, citata jį palaiko.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Vidurio Europa|Vidurio Europa]]; mentioned_object: [[objektai/zodynas/barokas|barokas]]; mentioned_person: [[objektai/autoriai/Kazimieras Semenavičius|Kazimieras Semenavičius]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1650 m.; įvykio data: 1832 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas, turi aiškų subjektą ir predikatą, citata jį palaiko.'
   pagrindžia:
     - c-003
 
@@ -140,15 +160,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-005
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Anglai]]
-- [[objektai/autoriai/Kazimieras Semenavičius]]
-- [[objektai/grupes/Lotynai]]
-- [[objektai/autoriai/Martynas Smigleckis]]
-- [[objektai/asmenys/Martynas iš Golino]]
-- [[objektai/grupes/Vilniaus universitetas]]
-- [[objektai/zodynas/barokas]]
-- [[objektai/ivykiai/Vilniaus universiteto įkūrimas]]
-- [[objektai/ivykiai/Vilniaus universiteto įkūrimas (1579 m.)]]

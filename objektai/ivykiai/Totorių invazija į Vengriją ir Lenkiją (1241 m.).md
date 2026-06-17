@@ -45,6 +45,11 @@ Nenurodyta
 - t-001
   global_id: t-59435
   teiginys: '1241 m. totoriai nuniokojo Vengriją ir Lenkiją.'
+  sudarymo_pagrindimas: 'Pradinis teiginys turi antraštės, nuorodos ir OCR triukšmo; citata remia trumpą faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Lenkija; mentioned_place: Vengrija'
+  temporaliniai_duomenys: 'įvykio data: 1241 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys turi antraštės, nuorodos ir OCR triukšmo; citata remia trumpą faktą.'
   pagrindžia:
     - c-002
 
@@ -52,6 +57,11 @@ Nenurodyta
 - t-002
   global_id: t-59436
   teiginys: '1241 m. totoriai įsiveržė į Vengriją ir Lenkiją, mūšyje nukovė Kolomaną, Henriką ir nuniokojo tas šalis.'
+  sudarymo_pagrindimas: 'Citata palaiko invaziją, žūtis ir nuniokojimą, o pradinis teiginys turi OCR bei antraštės triukšmo.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Lenkija; mentioned_place: Vengrija; mentioned_place: Vroclavas'
+  temporaliniai_duomenys: 'įvykio data: 1241 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko invaziją, žūtis ir nuniokojimą, o pradinis teiginys turi OCR bei antraštės triukšmo.'
   pagrindžia:
     - c-001
 
@@ -90,9 +100,3 @@ Nenurodyta
   pagrindžia:
     - t-001
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Totoriai]]
-- [[objektai/asmenys/Henrikas (Vroclavo kunigaikštis)]]
-- [[objektai/asmenys/Kolomanas]]

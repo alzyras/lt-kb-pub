@@ -9,13 +9,13 @@ date_start: '1835'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XIX'
 tags:
   - kraštas
   - miestas
   - saltinis
   - tauta
+amziai:
+  - 'XIX'
 ---
 # Lietuvių tautos istorija
 
@@ -24,10 +24,16 @@ tags:
 Iš tiesų, nors susidomėjimas Lietuvos praeitimi buvo didelis, bet veikalų, atspindinčių krašto istoriją nuo seniausių laikų, nebu­ vo. Narbuto istorijos pirmasis tomas, kitais metais - pirmoji M. Narbuto istorijos atžvilgiu, kurią galima vertinti kaip romantinės istori­ jos rašymo kritiką: „<..
 
 ## Teiginiai
+
 <a id="claim-t-88258"></a>
 - t-001
   global_id: t-88258
   teiginys: '1835 m. pasirodė pirmasis Teodoro Narbuto „Lietuvių tautos istorijos“ tomas.'
+  sudarymo_pagrindimas: 'Teiginys yra konkretus, pilnas ir tiesiogiai pagrįstas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_person: [[objektai/autoriai/S. Daukantas|S. Daukantas]]; mentioned_person: [[objektai/asmenys/Simonas Daukantas|Simonas Daukantas]]; mentioned_person: [[objektai/asmenys/Teodoras|Teodoras]]; mentioned_person: [[objektai/asmenys/Teodoras Narbutas|Teodoras Narbutas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1835 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus, pilnas ir tiesiogiai pagrįstas citata.'
   pagrindžia:
     - c-001
 
@@ -35,6 +41,8 @@ Iš tiesų, nors susidomėjimas Lietuvos praeitimi buvo didelis, bet veikalų, a
 - t-002
   global_id: t-88259
   teiginys: 'Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvoje stigo veikalų apie krašto istoriją nuo seniausių laikų.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citatos kontekstu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/autoriai/S. Daukantas|S. Daukantas]]; mentioned_person: [[objektai/asmenys/Simonas Daukantas|Simonas Daukantas]]; mentioned_person: [[objektai/asmenys/Teodoras|Teodoras]]; mentioned_person: [[objektai/asmenys/Teodoras Narbutas|Teodoras Narbutas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 
@@ -42,10 +50,13 @@ Iš tiesų, nors susidomėjimas Lietuvos praeitimi buvo didelis, bet veikalų, a
 - t-003
   global_id: t-88260
   teiginys: 'Balinskio rašiniuose T. Narbuto „Lietuvių tautos istorija“ pateikiama kaip pavyzdys, kaip nereikia rašyti istorijos.'
+  sudarymo_pagrindimas: 'Citata palaiko aiškų teiginį apie Narbuto veikalo vertinimą Balinskio rašiniuose.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]'
   pagrindžia:
     - c-002
 
-## Bibliografiniai įrodymai
+## Reikšmingi paminėjimai
+
 - c-001
   santrauka: '1835 m. pasirodė pirmasis Teodoro Narbuto „Lietuvių tautos istorijos“ tomas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -62,6 +73,7 @@ Iš tiesų, nors susidomėjimas Lietuvos praeitimi buvo didelis, bet veikalų, a
   statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Balinskio rašiniuose T. Narbuto „Lietuvių tautos istorija“ pateikiama kaip pavyzdys, kaip nereikia rašyti istorijos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -76,6 +88,7 @@ Iš tiesų, nors susidomėjimas Lietuvos praeitimi buvo didelis, bet veikalų, a
   statusas: verified
   pagrindžia:
     - t-003
+
 - c-003
   santrauka: 'Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvoje stigo veikalų apie krašto istoriją nuo seniausių laikų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

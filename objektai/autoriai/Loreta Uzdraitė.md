@@ -4,23 +4,25 @@ pavadinimas: 'Loreta Uzdraitė'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
-  - '1263 m.'
-date_start: '1263'
-date_end: ''
+  - '1236 m.'
+  - '1325 m.'
+date_start: '1236'
+date_end: '1325'
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
 amziai:
   - 'XIII'
+  - 'XIV'
 periodo_grupes:
-  - 'LDK'
+  - 'viduramžiai'
 ---
 # Loreta Uzdraitė
 
 ## Santrauka
 
-Loreta Uzdraitė kartu su Romu Batūra ir Karoliu Zikaru parengė kartoschemą apie Kalavijuočių ordino ir kryžininkų įsiveržimą į Šiaulių žemę. Loreta Uzdraitė kartu su Albertu Daugirdu ir Karoliu Zikaru parengė kartoschemą apie AT rūmų gynybos ruožus 1991 m. sausio-rugpjūčio mėnesiais. Loreta Uzdraitė kartu su Karoliu Zikaru parengė kartoschemą „Mindaugo valdoma Lietuva iki 1263 m.“.
+Loreta Uzdraitė šiame leidinyje minima kaip kelių žemėlapių, schemų ir informacinių blokų bendraautorė. Jos bendraautorystė matoma tiek viduramžių, tiek partizaninio karo ir 1991 m. medžiagoje.
 
 ## Darbai
 
@@ -37,6 +39,9 @@ Loreta Uzdraitė kartu su Romu Batūra ir Karoliu Zikaru parengė kartoschemą a
 - t-001
   global_id: t-78777
   teiginys: 'Loreta Uzdraitė kartu su Romu Batūra ir Karoliu Zikaru parengė kartoschemą apie Kalavijuočių ordino ir kryžininkų įsiveržimą į Šiaulių žemę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_object: [[objektai/zodynas/kryžininkai|kryžininkai]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva; mentioned_place: Šiauliai'
+  temporaliniai_duomenys: 'įvykio data: iki 1263 m.; įvykio data: 1263 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-003
 
@@ -44,6 +49,9 @@ Loreta Uzdraitė kartu su Romu Batūra ir Karoliu Zikaru parengė kartoschemą a
 - t-002
   global_id: t-78778
   teiginys: 'Loreta Uzdraitė kartu su Albertu Daugirdu ir Karoliu Zikaru parengė kartoschemą apie AT rūmų gynybos ruožus 1991 m. sausio-rugpjūčio mėnesiais.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Lietuvos atsikūrimas|Lietuvos atsikūrimas]]; mentioned_person: [[objektai/asmenys/Albertas|Albertas]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1991 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-007
 
@@ -51,6 +59,9 @@ Loreta Uzdraitė kartu su Romu Batūra ir Karoliu Zikaru parengė kartoschemą a
 - t-003
   global_id: t-78779
   teiginys: 'Loreta Uzdraitė kartu su Karoliu Zikaru parengė kartoschemą „Mindaugo valdoma Lietuva iki 1263 m.“.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Kijevas; mentioned_place: Kijevo žemės; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: iki 1263 m.; įvykio data: iki 1341 m.; įvykio data: 1263 m.; įvykio data: 1325 m.; įvykio data: apie 1325 m.; įvykio data: 1341 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   pagrindžia:
     - c-004
 
@@ -58,6 +69,8 @@ Loreta Uzdraitė kartu su Romu Batūra ir Karoliu Zikaru parengė kartoschemą a
 - t-004
   global_id: t-78780
   teiginys: 'Loreta Uzdraitė, Karolis Zikaras ir Dalius Žygelis nurodyti kaip teksto apie Lietuvos partizanų apygardas autoriai.'
+  sudarymo_pagrindimas: 'Reikia pašalinti galimą OCR klaidą pavadinime ir pateikti sklandų enciklopedinį sakinį.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/Dalius Žygelis|Dalius Žygelis]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_person: [[objektai/autoriai/Karolis Zikaras|Karolis Zikaras]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-008
 
@@ -65,6 +78,7 @@ Loreta Uzdraitė kartu su Romu Batūra ir Karoliu Zikaru parengė kartoschemą a
 - t-005
   global_id: t-78781
   teiginys: 'Loreta Uzdraitė kartu su Karoliu Zikaru ir Romu Batūra parengė kartoschemą apie Algirdo žygius į Maskvą ir Maskvos valstybės augimą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_place: Maskva'
   pagrindžia:
     - c-006
 
@@ -72,6 +86,11 @@ Loreta Uzdraitė kartu su Romu Batūra ir Karoliu Zikaru parengė kartoschemą a
 - t-006
   global_id: t-78782
   teiginys: 'Loreta Uzdraitė, Arvydas Anušauskas ir Karolis Zikaras yra teksto „Žymiausi Lietuvos partizanų mūšiai prieš sovietų pajėgas“ autoriai.'
+  sudarymo_pagrindimas: 'Teiginys iš sąrašo paverstas aiškiu faktiniu sakiniu apie autorę.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Lietuvos atsikūrimas|Lietuvos atsikūrimas]]; mentioned_person: [[objektai/asmenys/Albertas|Albertas]]; mentioned_person: [[objektai/autoriai/Arvydas Anušauskas|Arvydas Anušauskas]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_person: [[objektai/autoriai/Karolis Zikaras|Karolis Zikaras]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1991 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys iš sąrašo paverstas aiškiu faktiniu sakiniu apie autorę.'
   pagrindžia:
     - c-007
 
@@ -79,6 +98,11 @@ Loreta Uzdraitė kartu su Romu Batūra ir Karoliu Zikaru parengė kartoschemą a
 - t-007
   global_id: t-78783
   teiginys: 'Loreta Uzdraitė, Romas Batūra ir Karolis Zikaras yra teksto „Kryžininkų pajėgų telkimas prieš Lietuvą 1236 m.“ autoriai.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie autorės bendraautorystę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_object: [[objektai/zodynas/kryžininkai|kryžininkai]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_person: [[objektai/autoriai/Karolis Zikaras|Karolis Zikaras]]; mentioned_person: [[objektai/autoriai/R. Batūra|R. Batūra]]; mentioned_place: Lietuva; mentioned_place: Šiauliai'
+  temporaliniai_duomenys: 'įvykio data: 1236 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie autorės bendraautorystę.'
   pagrindžia:
     - c-001
 
@@ -86,6 +110,11 @@ Loreta Uzdraitė kartu su Romu Batūra ir Karoliu Zikaru parengė kartoschemą a
 - t-008
   global_id: t-78784
   teiginys: 'Loreta Uzdraitė, Romas Batūra ir Karolis Zikaras yra teksto „Kalavijuočių ordino ir kryžininkų įsiveržimas į Šiaulių žemę“ autoriai.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir pagrįstas pateiktu bibliografiniu įrašu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_object: [[objektai/zodynas/kryžininkai|kryžininkai]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_person: [[objektai/autoriai/Karolis Zikaras|Karolis Zikaras]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_person: [[objektai/autoriai/R. Batūra|R. Batūra]]; mentioned_place: Lietuva; mentioned_place: Šiauliai'
+  temporaliniai_duomenys: 'įvykio data: iki 1263 m.; įvykio data: 1263 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir pagrįstas pateiktu bibliografiniu įrašu.'
   pagrindžia:
     - c-003
 
@@ -93,6 +122,9 @@ Loreta Uzdraitė kartu su Romu Batūra ir Karoliu Zikaru parengė kartoschemą a
 - t-009
   global_id: t-78785
   teiginys: 'Loreta Uzdraitė kartu su Romu Batūra ir Karoliu Zikaru parengė kartoschemą apie kryžininkų pajėgų telkimą prieš Lietuvą 1236 m.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kryžininkai|kryžininkai]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1236 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 
@@ -100,6 +132,9 @@ Loreta Uzdraitė kartu su Romu Batūra ir Karoliu Zikaru parengė kartoschemą a
 - t-010
   global_id: t-78786
   teiginys: 'Loreta Uzdraitė kartu su Arvydu Anušausku ir Karoliu Zikaru parengė kartoschemą apie žymiausius Lietuvos partizanų mūšius prieš sovietų pajėgas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Lietuvos atsikūrimas|Lietuvos atsikūrimas]]; mentioned_person: [[objektai/asmenys/Albertas|Albertas]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1991 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-007
 
@@ -107,6 +142,9 @@ Loreta Uzdraitė kartu su Romu Batūra ir Karoliu Zikaru parengė kartoschemą a
 - t-011
   global_id: t-78787
   teiginys: 'Loreta Uzdraitė kartu su Karoliu Zikaru ir Romu Batūra parengė kartoschemą „Lietuvos gynybinė sistema iki 1362 m.“.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Aukso orda|Aukso orda]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: iki 1362 m.; įvykio data: 1362 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-005
 
@@ -114,6 +152,9 @@ Loreta Uzdraitė kartu su Romu Batūra ir Karoliu Zikaru parengė kartoschemą a
 - t-012
   global_id: t-78788
   teiginys: 'Loreta Uzdraitė kartu su Romu Batūra ir Karoliu Zikaru rengė ankstyvųjų leidinio skyrių kartoschemas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_object: [[objektai/zodynas/kryžininkai|kryžininkai]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_place: Lietuva; mentioned_place: Šiauliai'
+  temporaliniai_duomenys: 'įvykio data: 1236 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -121,9 +162,21 @@ Loreta Uzdraitė kartu su Romu Batūra ir Karoliu Zikaru parengė kartoschemą a
 - t-013
   global_id: t-78789
   teiginys: 'Loreta Uzdraitė kartu su Karoliu Zikaru ir Romu Batūra parengė kartoschemą apie Lietuvos teritoriją iki 1341 m.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Kijevas; mentioned_place: Kijevo žemės; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: iki 1263 m.; įvykio data: iki 1341 m.; įvykio data: 1263 m.; įvykio data: 1325 m.; įvykio data: apie 1325 m.; įvykio data: 1341 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   pagrindžia:
     - c-004
-
+- susijęs iš [[objektai/autoriai/Albertas Daugirdas.md#claim-t-40588|Albertas Daugirdas]]: Albertas Daugirdas kartu su Karoliu Zikaru ir Loreta Uzdraite buvo teksto apie AT rūmų gynybos ruožus bendraautoris.
+- susijęs iš [[objektai/autoriai/Arvydas Anušauskas.md#claim-t-78742|Arvydas Anušauskas]]: Arvydas Anušauskas kartu su Karoliu Zikaru ir Loreta Uzdraite buvo teksto apie Lietuvos partizanų mūšius bendraautoris.
+- susijęs iš [[objektai/autoriai/Arvydas Anušauskas.md#claim-t-78745|Arvydas Anušauskas]]: Arvydas Anušauskas kartu su Karoliu Zikaru ir Loreta Uzdraite parengė tekstą „Žymiausi Lietuvos partizanų mūšiai prieš sovietų pajėgas“.
+- susijęs iš [[objektai/autoriai/Jonas Arvasevičius.md#claim-t-40631|Jonas Arvasevičius]]: Jonas Arvasevičius buvo leidinio kalbos redaktorius.
+- susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171496|Karolis Zikaras]]: Karolis Zikaras buvo vienas iš šio leidinio iliustracijų rinkėjų.
+- susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171507|Karolis Zikaras]]: Karolis Zikaras ir Loreta Uzdraitė yra teksto apie 1923 m. sausio 9-15 d. sukilėlių žygį į Klaipėdos kraštą autoriai.
+- susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171508|Karolis Zikaras]]: Karolis Zikaras, Dalius Žygelis ir Loreta Uzdraitė nurodyti kaip teksto apie Lietuvos partizanų apygardas autoriai.
+- susijęs iš LIETUVOS PARTIZANŲ APYGARDOS IR JŲ ŽYMESNI ATSTOVAI: Informacinio bloko „Lietuvos partizanų apygardos ir jų žymesni atstovai“ autoriai nurodyti Karolis Zikaras, Dalius Žygelis ir Loreta Uzdraitė.
+- susijęs iš ŽYMIAUSI LIETUVOS PARTIZANŲ MŪŠIAI PRIEŠ SOVIETŲ PAJĖGAS: Straipsnio „Žymiausi Lietuvos partizanų mūšiai prieš sovietų pajėgas“ autoriai yra Arvydas Anušauskas, Karolis Zikaras ir Loreta Uzdraitė.
+- susijęs iš Maskvos-Lietuvos pasienis: Po Polocko praradimo ir Ulos mūšio karo veiksmai persikėlė į Maskvos-Lietuvos pasienį.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -238,10 +291,3 @@ Loreta Uzdraitė kartu su Romu Batūra ir Karoliu Zikaru parengė kartoschemą a
   statusas: verified
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Aukso orda]]
-- [[objektai/grupes/Kalavijuočių ordinas]]
-- [[objektai/zodynas/Lietuvos atsikūrimas]]
-- [[objektai/zodynas/kryžininkai]]

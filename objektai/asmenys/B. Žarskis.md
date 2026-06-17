@@ -20,6 +20,7 @@ tags:
 - t-001
   global_id: t-40060
   teiginys: 'Bataliono vadas majoras B. Žarskis žuvo per sukilėlių kovą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]'
   pagrindžia:
     - c-001
 
@@ -27,6 +28,7 @@ tags:
 - t-002
   global_id: t-40061
   teiginys: 'B. Žarskis buvo paskirtas vienu iš batalionų vadų.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/M. Stanišauskas|M. Stanišauskas]]'
   pagrindžia:
     - c-002
 
@@ -69,8 +71,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Rusai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

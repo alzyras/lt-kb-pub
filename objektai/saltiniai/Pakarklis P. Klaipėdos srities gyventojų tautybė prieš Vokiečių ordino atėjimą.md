@@ -28,6 +28,11 @@ Dusburgietis teigia, kad pakarklis P.
 - t-001
   global_id: t-61210
   teiginys: 'P. Pakarklio „Klaipėdos srities gyventojų tautybė prieš Vokiečių ordino atėjimą“ 1933 m. publikuotas „Mūsų žinyne“.'
+  sudarymo_pagrindimas: 'Citata pateikia pakankamą bibliografinį faktą apie publikavimo vietą ir metus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
+  temporaliniai_duomenys: 'įvykio data: 1933 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pateikia pakankamą bibliografinį faktą apie publikavimo vietą ir metus.'
   pagrindžia:
     - c-001
 

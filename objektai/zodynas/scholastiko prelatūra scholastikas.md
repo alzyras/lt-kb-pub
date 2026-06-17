@@ -30,6 +30,11 @@ amziai:
 - t-001
   global_id: t-86617
   teiginys: '1522 m. Vilniaus vyskupas Jonas prie katedros įkūrė penktąją scholastiko prelatūrą, nes scholastikas turėjo išlaikyti Katedros mokyklą.'
+  sudarymo_pagrindimas: 'Citata palaiko aiškų teiginį apie scholastiko prelatūrą ir pareigą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)|Jokūbas (vėliau Urbonas IV)]]; mentioned_person: [[objektai/asmenys/Jokūbas Babičius|Jokūbas Babičius]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įkūrimo data: 1522 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko aiškų teiginį apie scholastiko prelatūrą ir pareigą.'
   pagrindžia:
     - c-001
 
@@ -60,10 +65,3 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)]]
-- [[objektai/asmenys/Jokūbas Babičius]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/asmenys/Jonas]]

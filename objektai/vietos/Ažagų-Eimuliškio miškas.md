@@ -28,6 +28,8 @@ Mūsiškiai į juos šaudė iš už medžių, iš už krūmų ir visą laiką st
 - t-001
   global_id: t-41609
   teiginys: 'Mūšio metu Ažagų-Eimuliškio miškas buvo apsuptas nuo Ažagų kaimo ir Smilgių miestelio pusės.'
+  sudarymo_pagrindimas: 'Citata pagrindžia aiškesnį sakinį apie miško apsuptį.'
+  susije_objektai: 'mentioned_place: Kaimas; mentioned_place: Smilgiai'
   pagrindžia:
     - c-001
 

@@ -28,6 +28,7 @@ Gruševskij : Očerki istorii Kievskoj zemli (Kijevas 1891) ; Istorija Ukraini-R
 - t-001
   global_id: t-31711
   teiginys: 'Mychailo Gruševskis parašė „Istorija Ukraini-Rusi“.'
+  susije_objektai: 'mentioned_place: Maskva'
   pagrindžia:
     - c-001
 

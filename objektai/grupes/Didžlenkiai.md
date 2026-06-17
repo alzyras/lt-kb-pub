@@ -22,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-Jogailai vedus trečią žmoną, kai kurie didikai, ypač didžlenkiai, pasipriešino jos karūnacijai, remdamiesi priesaika Jadvygai. Didžlenkiai priešinosi Vytauto norui grįžti į Lietuvą, nes buvo ypač suinteresuoti žygio pasisekimu. Jogailai vedus trečią žmoną, kai kurie didikai, ypač didžlenkiai, pasipriešino jos karūnacijai, remdamiesi priesaika Jadvygai.
+Bet Vytautas ir dabar, kaip ir 1410 m., ėmė greit rodyti norą grįžti į Lietuvą, visiškai neatsižvelgdamas nei į lenkų bajorų, ypač didžlenkių, pasipriešinimą, kurie ypa­ tingai buvo žygio pasisekimu suinteresuoti. Dėl to iškilo konfliktas, nes kai kurie didikai, ypač didžlenkiai, pasipriešino jo paskutiniosios žmonos karūnacijai, remdamiesi padaryta priesaika Jadvygai.
 
 ## Teiginiai
 
@@ -30,6 +30,8 @@ Jogailai vedus trečią žmoną, kai kurie didikai, ypač didžlenkiai, pasiprie
 - t-001
   global_id: t-34342
   teiginys: 'Jogailai vedus trečią žmoną, kai kurie didikai, ypač didžlenkiai, pasipriešino jos karūnacijai, remdamiesi priesaika Jadvygai.'
+  sudarymo_pagrindimas: 'Perrašyta į glaustesnį ir aiškesnį enciklopedinį sakinį.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lenkija'
   pagrindžia:
     - c-002
 
@@ -37,6 +39,11 @@ Jogailai vedus trečią žmoną, kai kurie didikai, ypač didžlenkiai, pasiprie
 - t-002
   global_id: t-34343
   teiginys: 'Didžlenkiai priešinosi Vytauto norui grįžti į Lietuvą, nes buvo ypač suinteresuoti žygio pasisekimu.'
+  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir teiginys sutelktas į didžlenkius.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Brodnica'
+  temporaliniai_duomenys: 'įvykio data: 1410 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas OCR triukšmas ir teiginys sutelktas į didžlenkius.'
   pagrindžia:
     - c-001
 
@@ -75,10 +82,3 @@ Jogailai vedus trečią žmoną, kai kurie didikai, ypač didžlenkiai, pasiprie
   pagrindžia:
     - t-001
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/žygis]]

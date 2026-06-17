@@ -30,6 +30,7 @@ amziai:
 - t-001
   global_id: t-31871
   teiginys: 'O. Urbono „1410 metų karas su kryžiuočiais ir Žalgirio mūšis“ išleido „Kario“ leidykla Brukline.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Dancigas'
   pagrindžia:
     - c-001
 

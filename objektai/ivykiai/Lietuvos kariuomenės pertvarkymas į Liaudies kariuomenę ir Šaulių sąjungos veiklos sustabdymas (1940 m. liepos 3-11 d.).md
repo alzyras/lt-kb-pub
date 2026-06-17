@@ -18,7 +18,7 @@ amziai:
 
 ## Santrauka
 
-1940 m. liepos 3 d. priimtas Lietuvos kariuomenės pertvarkymo įstatymas, po kurio Lietuvos kariuomenė tapo Liaudies kariuomene. 1940 m. liepą Maskva diegė SSRS valdymo modelį Lietuvos administracijoje, policijoje ir teismuose, pradėta kurti liaudies milicija.
+Maskva diegė SSRS valdymo modelį administracijoje, policijoje, teismuose, pradėta kurti liaudies milicija.
 
 ## Laikotarpis ir datos
 
@@ -42,6 +42,11 @@ Nenurodyta
 - t-001
   global_id: t-20313
   teiginys: '1940 m. liepos 3 d. priimtas Lietuvos kariuomenės pertvarkymo įstatymas, po kurio Lietuvos kariuomenė tapo Liaudies kariuomene.'
+  sudarymo_pagrindimas: 'Reikia aiškiai įvardyti metus iš įvykio pavadinimo.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: SSRS; mentioned_place: Švedija; mentioned_place: Šveicarija'
+  temporaliniai_duomenys: 'įvykio data: 1940 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia aiškiai įvardyti metus iš įvykio pavadinimo.'
   pagrindžia:
     - c-001
 
@@ -49,6 +54,14 @@ Nenurodyta
 - t-002
   global_id: t-183245
   teiginys: '1940 m. liepą Maskva diegė SSRS valdymo modelį Lietuvos administracijoje, policijoje ir teismuose, pradėta kurti liaudies milicija.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Patikslintas laikas ir ryšys su Lietuvos pertvarkomis.'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: SSRS'
+  temporaliniai_duomenys: 'įvykio data: 1940 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Patikslintas laikas ir ryšys su Lietuvos pertvarkomis.'
   pagrindžia:
     - c-002
 
@@ -83,9 +96,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuvos kariuomenė]]
-- [[objektai/grupes/Lietuvos šaulių sąjunga]]
-- [[objektai/grupes/Raudonoji armija]]

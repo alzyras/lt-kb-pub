@@ -27,6 +27,8 @@ Vartojamos formos: `medės`, `medėse`, `mėžė`.
 - t-001
   global_id: t-70027
   teiginys: 'Medininkais vadinti gyventojai tarp Nemuno, Ventos ir Nevėžio, nes jie gyveno didžiose medėse.'
+  sudarymo_pagrindimas: 'Citata pagrindžia medžių ryšį su medininkų pavadinimu, bet ne platesnį etnonimų kilmių aiškinimą.'
+  susije_objektai: 'location: Medininkai; location: Nevėžis; location: Venta; mentioned_place: Medininkai; mentioned_place: Nevėžis; mentioned_place: Venta'
   pagrindžia:
     - c-002
 
@@ -34,6 +36,8 @@ Vartojamos formos: `medės`, `medėse`, `mėžė`.
 - t-002
   global_id: t-70028
   teiginys: 'Medės Daukanto tekste vadinamos giriomis, buvusiomis į šiaurę nuo tyrų prie Tyrulės upės.'
+  sudarymo_pagrindimas: 'Citata tiesiogiai paaiškina žodį „medės“ kaip girias ir nurodo jų vietą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalnėnai|Kalnėnai]]; mentioned_person: [[objektai/autoriai/S. Daukantas|S. Daukantas]]; mentioned_person: [[objektai/asmenys/Tame (Baigos brolis)|Tame (Baigos brolis)]]; mentioned_place: Juodoji jūra; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -71,10 +75,3 @@ Vartojamos formos: `medės`, `medėse`, `mėžė`.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Įšleitė|įšleitė]]
-- [[objektai/grupes/Kalnėnai]]
-- [[objektai/asmenys/Tame (Baigos brolis)]]
-- [[objektai/autoriai/S. Daukantas]]

@@ -22,6 +22,9 @@ Pagaliau kunigaikštis Zubovas, ku­ rio ainiai dabar yra Raudonės savininkai, 
 - t-001
   global_id: t-86837
   teiginys: 'Kunigaikštis Zubovas pradėjo tvarkyti Raudonę, norėdamas grąžinti jai senovinį gotikinį vaizdą, bet mirė darbų nebaigęs.'
+  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir įvardyta pilis iš citatos konteksto.'
+  susije_objektai: 'territory: Raudonė; mentioned_person: [[objektai/asmenys/Zubovas|Zubovas]]; mentioned_place: Raudonė'
+  semantiniai_rysiai: '[[objektai/grupes/Zubovai|Zubovai]] susiję su Raudonė'
   pagrindžia:
     - c-001
 
@@ -44,5 +47,4 @@ Pagaliau kunigaikštis Zubovas, ku­ rio ainiai dabar yra Raudonės savininkai, 
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Zubovas]]
+- Zubovai susije_su [[objektai/vietos/Raudonė]]

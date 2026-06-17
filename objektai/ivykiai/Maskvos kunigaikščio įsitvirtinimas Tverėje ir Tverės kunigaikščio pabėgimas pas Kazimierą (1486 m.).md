@@ -36,6 +36,11 @@ Nenurodyta
 - t-001
   global_id: t-185615
   teiginys: 'Karalius Kazimieras Vilniuje priėmė Tverės didįjį kunigaikštį, pabėgusį pas jį po maišto Tverėje.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pašalintas klaidingas autorystės subjektas ir OCR triukšmas; sakinys tiesiogiai remiasi citata.'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Maskva; mentioned_place: Tverė; mentioned_place: Valachija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -43,6 +48,14 @@ Nenurodyta
 - t-002
   global_id: t-185616
   teiginys: 'Tverėje kilus maištui, teisėtas kunigaikštis buvo išvytas, o Tverė susivienijo su maskvėnais.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata palaiko aiškų faktą apie Tverės kunigaikščio išvijimą ir miesto sąjungą su maskvėnais.'
+  susije_objektai: 'territory: Maskva; territory: Tverė; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_person: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]; mentioned_place: Maskva; mentioned_place: Tverė'
+  temporaliniai_duomenys: 'valdymo laikotarpis: 1486 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Vasiljevičius (Maskvos valdovas) buvo valdovas Maskva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Vasiljevičius (Maskvos valdovas) buvo valdovas Tverė“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko aiškų faktą apie Tverės kunigaikščio išvijimą ir miesto sąjungą su maskvėnais.'
   pagrindžia:
     - c-002
 
@@ -50,6 +63,11 @@ Nenurodyta
 - t-003
   global_id: t-185617
   teiginys: 'Kojelavičiaus vertinimu, maskvėnų stiprėjimas kėlė pavojų lietuviams, tačiau karalius Kazimieras vengė karo.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra autoriaus vertinimas, todėl palikta aiški atribucija ir pašalintas perteklinis tekstas.'
+  susije_objektai: 'territory: Tverė; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_person: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]; mentioned_place: Tverė'
   pagrindžia:
     - c-003
 
@@ -133,10 +151,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Maskvėnai]]
-- [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)]]
-- [[objektai/asmenys/Kazimieras Jogailaitis]]

@@ -3,6 +3,12 @@ tipas: ivykis
 pavadinimas: 'Okupacinės valdžios rinkimai į aukščiausias institucijas po karo (1946-1947 m.)'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1945 m.'
+  - '1946 m.'
+  - '1947 m.'
+date_start: '1945'
+date_end: '1947'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -10,12 +16,14 @@ tags:
   - ivykis
   - karas
   - valstybė
+amziai:
+  - 'XX'
 ---
 # Okupacinės valdžios rinkimai į aukščiausias institucijas po karo (1946-1947 m.)
 
 ## Santrauka
 
-1946 ir 1947 m. Lietuvoje pirmą kartą po karo vyko nedemokratiniai rinkimai į aukščiausias okupacinės valdžios institucijas. Pokario okupacinės valdžios rinkimuose kandidatus galėjo siūlyti tik komunistų partija, o rezultatai buvo klastojami skelbiant per 90 proc. dalyvavimą.
+Sugrąžindamas Lietuvoje sovietų valdžią J. Visuose rinkimuose kandidatus tegalėjo siūlyti vienintelė komunistų partija, rinkimų rezultatai klastojami, oficialiai pranešant, jog rinkimuose dalyvavo per 90 proc.
 
 ## Laikotarpis ir datos
 
@@ -39,6 +47,11 @@ Nenurodyta
 - t-001
   global_id: t-66803
   teiginys: '1946 ir 1947 m. Lietuvoje pirmą kartą po karo vyko nedemokratiniai rinkimai į aukščiausias okupacinės valdžios institucijas.'
+  sudarymo_pagrindimas: 'Perrašyta, kad būtų išlaikyta citatoje nurodyta aplinkybė apie pirmuosius pokario rinkimus.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/J. Stalinas|J. Stalinas]]; mentioned_place: Baltija; mentioned_place: Lietuva; mentioned_place: SSRS'
+  temporaliniai_duomenys: 'įvykio data: iki 1945 m.; įvykio data: 1945 m.; įvykio data: 1946 m.; įvykio data: 1947 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Perrašyta, kad būtų išlaikyta citatoje nurodyta aplinkybė apie pirmuosius pokario rinkimus.'
   pagrindžia:
     - c-002
 
@@ -46,6 +59,11 @@ Nenurodyta
 - t-002
   global_id: t-66804
   teiginys: 'Pokario okupacinės valdžios rinkimuose kandidatus galėjo siūlyti tik komunistų partija, o rezultatai buvo klastojami skelbiant per 90 proc. dalyvavimą.'
+  sudarymo_pagrindimas: 'Reikia aiškiau susieti teiginį su pokario okupacinės valdžios rinkimais ir užbaigti mintį.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/J. Stalinas|J. Stalinas]]; mentioned_place: Baltija; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: SSRS'
+  temporaliniai_duomenys: 'įvykio data: 1946 m.; įvykio data: 1947 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia aiškiau susieti teiginį su pokario okupacinės valdžios rinkimais ir užbaigti mintį.'
   pagrindžia:
     - c-001
 
@@ -94,8 +112,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/J. Stalinas]]
-- [[objektai/grupes/Lietuvos SSR Aukščiausioji Taryba]]

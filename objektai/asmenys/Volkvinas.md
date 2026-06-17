@@ -10,6 +10,7 @@ tags:
   - kraštas
   - ordinas
   - tauta
+  - vyskupas
 ---
 # Volkvinas
 
@@ -23,6 +24,8 @@ tags:
 - t-001
   global_id: t-39676
   teiginys: 'Magistras Volkvinas su kariuomene žygiavo į lietuvių kraštą ir Saulės žemėje buvo lietuvių užmuštas.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Volkvino žygį ir žūtį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_person: [[objektai/asmenys/Engelbertas|Engelbertas]]; mentioned_place: Kuršas'
   pagrindžia:
     - c-001
 
@@ -30,9 +33,15 @@ tags:
 - t-002
   global_id: t-183770
   teiginys: 'Magistras Volkvinas su kariuomene žygiavo į lietuvių kraštą ir pasiekė Saulės žemę.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata palaiko Volkvino žygį į lietuvių kraštą, o pradinis tekstas yra neužbaigtas fragmentas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/autoriai/Hermanas Vartbergė.md#claim-t-171495|Hermanas Vartbergė]]: Hermano Vartbergės „Livonijos kronikoje“ aprašytas 1236 m. Saulės mūšis ir jo pasekmės Kalavijuočių ordinui.
+- susijęs iš [[objektai/ivykiai/Saulės mūšis (1236 m. rugsėjo 22 d.).md#claim-t-10288|Saulės mūšis (1236 m. rugsėjo 22 d.)]]: Saulės žemėje lietuviai užmušė 50 ordino brolių ir daugybę tikratikių.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -69,10 +78,4 @@ tags:
     - t-002
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kalavijuočių ordinas]]
-- [[objektai/grupes/Kuršiai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/netikėliai]]
-- [[objektai/ivykiai/Saulės mūšis (1236 m. rugsėjo 22 d.)]]
+- Volkvinas dalyvavo_musyje [[objektai/ivykiai/Saulės mūšis (1236 m. rugsėjo 22 d.)]]

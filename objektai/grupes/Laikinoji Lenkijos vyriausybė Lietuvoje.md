@@ -3,11 +3,17 @@ tipas: grupe
 pavadinimas: 'Laikinoji Lenkijos vyriausybė Lietuvoje'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1831 m.'
+date_start: '1831'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
   - karalius
+amziai:
+  - 'XIX'
 ---
 # Laikinoji Lenkijos vyriausybė Lietuvoje
 
@@ -21,6 +27,11 @@ tags:
 - t-001
   global_id: t-23481
   teiginys: '1831 m. birželį Antano Gelgaudo vadovaujama Lenkijos karalystės kariuomenė Lietuvoje kūrė Laikinąją Lenkijos vyriausybę.'
+  sudarymo_pagrindimas: 'Perrašyta glaudžiau ir aiškiau susiejant kariuomenės veiksmą su objektu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkijos karalystės kariuomenė|Lenkijos karalystės kariuomenė]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1831 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Perrašyta glaudžiau ir aiškiau susiejant kariuomenės veiksmą su objektu.'
   pagrindžia:
     - c-001
 
@@ -40,9 +51,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Antanas (vaistininkas)]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Lenkijos karalystės kariuomenė]]

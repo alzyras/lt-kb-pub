@@ -13,28 +13,45 @@ tags:
 
 ## Santrauka
 
-Vyriausiojoje Lietuvos Mokykloje buvo dėstomi visi to meto universitetiniai mokslai. Vyriausiajai Lietuvos Mokyklai priklausė visų kitų Lietuvos krašto mokyklų priežiūra.
+Tokia Vyriausiąja Lietuvos Mokykla buvo pavadinta buvusi jėzuitų Vilniaus akademija. Mokykloje buvo dėstomi visi to meto universitetiniai mokslai.
 
 ## Teiginiai
+
 <a id="claim-t-72656"></a>
 - t-001
   global_id: t-72656
   teiginys: 'Vyriausiojoje Lietuvos Mokykloje buvo dėstomi visi to meto universitetiniai mokslai.'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
-    - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+    - c-001
+
 <a id="claim-t-72658"></a>
 - t-002
   global_id: t-72658
   teiginys: 'Vyriausiajai Lietuvos Mokyklai priklausė visų kitų Lietuvos krašto mokyklų priežiūra.'
+  sudarymo_pagrindimas: 'Reikia aiškiai susieti faktą su Vyriausiąja Lietuvos Mokykla.'
+  susije_objektai: 'owner: Lenkija; owner: Lietuva; owner: Viena; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/grupes/Vyriausioji Lietuvos Mokykla|Vyriausioji Lietuvos Mokykla]] priklausė Lenkija; [[objektai/grupes/Vyriausioji Lietuvos Mokykla|Vyriausioji Lietuvos Mokykla]] priklausė Lietuva; [[objektai/grupes/Vyriausioji Lietuvos Mokykla|Vyriausioji Lietuvos Mokykla]] priklausė Viena'
   pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Va-
+    dinamoje moralinių mokslų kolegijoje buvo mokoma
+    filosofijos, teologijos ir teisės mokslų. Fizinėje kolegijoje
+    buvo mokoma gamtos mokslų, matematikos ir medicinos. Tuo būdu
+    V. Mokykloje buvo dėstomi visi to meto universitetiniai mokslai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-002
   santrauka: 'Vyriausiajai Lietuvos Mokyklai priklausė visų kitų Lietuvos krašto mokyklų priežiūra.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -44,30 +61,13 @@ Vyriausiojoje Lietuvos Mokykloje buvo dėstomi visi to meto universitetiniai mok
     Lietuvos Mokykla buvo pavadinta buvusi jėzuitų Vil-
     niaus akademija. Toliau visas kraštas buvo padalintas apygar-
     domis, o šios apygardėlėmis.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002
-- c-002
-  santrauka: 'Vyriausiojoje Lietuvos Mokykloje buvo dėstomi visi to meto universitetiniai mokslai.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Va-
-    dinamoje moralinių mokslų kolegijoje buvo mokoma
-    filosofijos, teologijos ir teisės mokslų. Fizinėje kolegijoje
-    buvo mokoma gamtos mokslų, matematikos ir medicinos. Tuo būdu
-    V. Mokykloje buvo dėstomi visi to meto universitetiniai mokslai.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/paprociai/Mokymas lotyniškai, iš dalies lenkiškai, Vyriausiojoje Lietuvos Mokykloje]]
+- Vyriausioji Lietuvos Mokykla priklause [[objektai/vietos/Lenkija]]
+- Vyriausioji Lietuvos Mokykla priklause [[objektai/vietos/Lietuva]]
+- Vyriausioji Lietuvos Mokykla priklause [[objektai/vietos/Viena]]

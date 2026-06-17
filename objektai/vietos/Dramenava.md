@@ -20,6 +20,8 @@ Dusburgietis teigia, kad štai todėl, palaužę ir išvaikę tuos, kurie gyveno
 - t-001
   global_id: t-90339
   teiginys: 'Teutonų ordino broliai nusiaubė Pabečių valsčiaus Dramenavos kaimą, paėmė belaisvių ir išžudė daug žmonių.'
+  sudarymo_pagrindimas: 'Pašalinti pertekliniai kontekstai, išnašų numeriai ir neaiškūs įvardžiai.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Kvedenava; mentioned_place: Pabečiai; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -27,6 +29,8 @@ Dusburgietis teigia, kad štai todėl, palaužę ir išvaikę tuos, kurie gyveno
 - t-002
   global_id: t-90340
   teiginys: 'Teutonų ordino broliai nusiaubė Pabečių valsčiaus Dramenavos kaimą ir grįžo su dideliu grobiu.'
+  sudarymo_pagrindimas: 'Pradinis teiginys perima antraštę ir retorinį fragmentą; citata palaiko konkretesnį faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Kaimas; mentioned_place: Kvedenava; mentioned_place: Pabečiai; mentioned_place: Viena'
   pagrindžia:
     - c-003
 
@@ -34,9 +38,13 @@ Dusburgietis teigia, kad štai todėl, palaužę ir išvaikę tuos, kurie gyveno
 - t-003
   global_id: t-90341
   teiginys: 'Dramenava, vėliau vadinta Drebnau, buvo kaimas į pietus nuo Pabečių.'
+  sudarymo_pagrindimas: 'Teiginys gramatiškas ir tiksliai perteikia citatos informaciją.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Kaimas; mentioned_place: Pabečiai'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/ivykiai/Dramenavos kaimo nusiaubimas ir sembų kontrpuolimas.md#claim-t-89359|Dramenavos kaimo nusiaubimas ir sembų kontrpuolimas]]: Broliai puldinėjo sembus, siekdami juos vėl pajungti krikščionių tikėjimui.
+- susijęs iš [[objektai/ivykiai/Dramenavos kaimo nusiaubimas ir sembų kontrpuolimas.md#claim-t-89360|Dramenavos kaimo nusiaubimas ir sembų kontrpuolimas]]: Broliai nusiaubė Pabečių valsčiaus Dramenavos kaimą, paėmė į nelaisvę ir išžudė daug žmonių, bet grįžtančius juos užpuolė sembai.
+- susijęs iš Pabečiai: Broliai su kariuomene patraukė prieš Pabečių valsčių, nusiaubė Dramenavos kaimą, paėmė į nelaisvę ir išžudė daug žmonių.
 ## Reikšmingi paminėjimai
 
 - c-001

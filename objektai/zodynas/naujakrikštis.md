@@ -30,9 +30,10 @@ Vartojama religinės-socialinės priklausomybės ir statuso kalboje.
 - t-001
   global_id: t-70237
   teiginys: 'Naujakrikščiai šiame šaltinyje vaizduojami kaip atskiras Ordino tvarkomas statusas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_object: [[objektai/zodynas/naujakrikščiai|naujakrikščiai]]; mentioned_place: Prūsija'
   pagrindžia:
-    - c-002
     - c-001
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -73,9 +74,3 @@ Vartojama religinės-socialinės priklausomybės ir statuso kalboje.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/luomas]]
-- [[objektai/zodynas/naujakrikščiai]]
-- [[objektai/paprociai/Naujakrikščių žemės, tarnybos ir laisvės skyrimas pagal kilmę bei nuopelnus]]

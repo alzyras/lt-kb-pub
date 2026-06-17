@@ -44,6 +44,11 @@ Nenurodyta
 - t-001
   global_id: t-20199
   teiginys: '1927 m. balandžio 12 d. prezidento aktu III Seimas buvo paleistas, o nauji rinkimai nepaskelbti.'
+  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytą Seimo paleidimą ir rinkimų nepaskelbimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/III Seimas|III Seimas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]'
+  temporaliniai_duomenys: 'įvykio data: 1927 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia citatoje nurodytą Seimo paleidimą ir rinkimų nepaskelbimą.'
   pagrindžia:
     - c-001
 
@@ -67,10 +72,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/A. Smetona]]
-- [[objektai/grupes/III Seimas]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]

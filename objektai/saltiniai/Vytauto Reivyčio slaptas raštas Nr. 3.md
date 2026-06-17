@@ -3,16 +3,22 @@ tipas: saltinis
 pavadinimas: 'Vytauto Reivyčio slaptas raštas Nr. 3'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1941 m.'
+date_start: '1941'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XX'
 ---
 # Vytauto Reivyčio slaptas raštas Nr. 3
 
 ## Santrauka
 
-1941 m. rugpjūčio 16 d. Vytautas Reivytis slaptu raštu Nr. 3 įsakė sulaikyti visus žydus ir sutelkti juos tam numatytose vietose.
+Masinėms žudynėms vykdyti sukonstruotas mechanizmas – rugpjūčio 16-ąją lietuvių policijos departamento direktorius Vytautas Reivytis slaptu raštu Nr. 3 įsakė sulaikyti visus žydus ir juos sutelkti tam numatytose vietose.
 
 ## Teiginiai
 
@@ -20,6 +26,11 @@ tags:
 - t-001
   global_id: t-21320
   teiginys: '1941 m. rugpjūčio 16 d. Vytautas Reivytis slaptu raštu Nr. 3 įsakė sulaikyti visus žydus ir sutelkti juos tam numatytose vietose.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie slaptą raštą ir atitinka citatos turinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: SSRS'
+  temporaliniai_duomenys: 'įvykio data: 1941 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie slaptą raštą ir atitinka citatos turinį.'
   pagrindžia:
     - c-001
 

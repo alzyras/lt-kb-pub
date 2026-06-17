@@ -22,6 +22,9 @@ Dusburgietis teigia, kad šitai matydama, Nameda, Pasdraupučio motina, kilusi i
 - t-001
   global_id: t-63147
   teiginys: 'Nameda, Pasdraupučio motina iš Mantiminų giminės, paragino sūnus ginti savo gyvybę ir gentį nuo priešų.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Citata palaiko faktą apie Mantiminų giminės atstovę Namedą.'
+  susije_objektai: 'mentioned_place: Bartenšteinas; mentioned_place: Pilėnai'
   pagrindžia:
     - c-001
     - c-002
@@ -58,13 +61,3 @@ Dusburgietis teigia, kad šitai matydama, Nameda, Pasdraupučio motina, kilusi i
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Nadruviai]]
-- [[objektai/ivykiai/Bysleidos pilies apgula ir daugiau kaip dviejų tūkstančių sūduvių žūtis|Bysleidos pilies apgula ir daugiau kaip dviejų tūkstančių sūduvių žūtis (pilis)]]
-- [[objektai/posakiai/Gailiuosi jus pagimdžiusi]]
-- [[objektai/asmenys/Nameda]]
-- [[objektai/asmenys/Pasdrauputis]]
-- [[objektai/grupes/Sūduviai]]
-- [[objektai/grupes/Sūduviai-jotvingiai]]

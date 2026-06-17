@@ -3,32 +3,40 @@ tipas: grupe
 pavadinimas: 'Susivienijimas Lietuvių Amerikoje'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1890 m.'
+date_start: '1890'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
   - kunigas
   - tauta
+amziai:
+  - 'XIX'
 ---
 # Susivienijimas Lietuvių Amerikoje
 
 ## Santrauka
 
-Susivienijimas Lietuvių Amerikoje iš pradžių mažai rūpinosi tautinės sąmonės žadinimu. Susivienijimą Lietuvių Amerikoje sukūrė veikėjai, susigrupavę apie dr. Joną Šliūpą ir nepatenkinti pirmojo Susivienijimo katalikiška vadovybe.
+Šitas Susivienijimas, kaip matyti ir iš jo tikslo, iš pradžių mažai tesirūpino tautiškosios sąmonės žadinimu. Susivienijimas Visų Draugysčių Katalikiškų Lietuviškų Amerikoje vėliau buvo pavadintas Susivienijimu Lietuvių Amerikoje, tačiau jo vadovybė pasiliko katalikiškose rankose. Šliūpą ir buvo nepatenkinti pirmojo Susivienijimo katalikiškąja vadovybe.
 
 ## Teiginiai
+
 <a id="claim-t-66149"></a>
 - t-001
   global_id: t-66149
   teiginys: 'Susivienijimas Lietuvių Amerikoje iš pradžių mažai rūpinosi tautinės sąmonės žadinimu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1890 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Susivienijimas Lietuvių Amerikoje iš pradžių mažai rūpinosi tautinės sąmonės žadinimu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Šitas Susivienijimas, kaip matyti ir iš jo tikslo, iš pradžių
@@ -38,16 +46,8 @@ Susivienijimas Lietuvių Amerikoje iš pradžių mažai rūpinosi tautinės sąm
     geruoju su lenkais. Bet, kai Susivienijimo vadovybę 1890 m.
     paėmė kunigas Burba, jis pasidarė grynai tautiška organizacija,
     tolima nuo lenkų.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/kunigas]]

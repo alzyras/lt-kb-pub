@@ -43,6 +43,12 @@ Nenurodyta
 - t-001
   global_id: t-62250
   teiginys: '1324 m. Kristburgo pilyje račiaus Andriaus aluje mirkoma duona, pasak Dusburgiečio, ėmė lašinti kraujo lašus.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Sakinys sutvarkytas, pašalinant nutrūkusią frazę ir paliekant pasakojamo stebuklo faktą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Duona|Duona]]; mentioned_place: Kristburgas; mentioned_place: Prūsija'
+  temporaliniai_duomenys: 'įvykio data: 1324 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Sakinys sutvarkytas, pašalinant nutrūkusią frazę ir paliekant pasakojamo stebuklo faktą.'
   pagrindžia:
     - c-001
 
@@ -67,8 +73,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Duona]]
-- [[objektai/asmenys/Andrius (račius)]]

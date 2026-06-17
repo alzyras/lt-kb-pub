@@ -5,6 +5,7 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1948 m.'
+  - '1960 m.'
   - '1978 m.'
 date_start: '1948'
 date_end: '1978'
@@ -20,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Lietuvos disidentai, skirtingai nei katalikų opozicija, kėlė Lietuvos laisvės klausimus. Lietuvos disidentai siekė išsaugoti tautos savastį, iš dalies neutralizuoti priešiškų jėgų veiklą ir ginti žmogaus teises. Lietuvos disidentai siekė priversti okupacinę valdžią gerbti žmogaus teises ir 1948 m. Visuotinę žmogaus teisių deklaraciją.
+Disidentinis judėjimas stengėsi priversti okupacinę valdžią bent neignoruoti visuotinai pripažintų žmogaus teisių ir laisvių, laikytis JT Generalinės Asamblėjos 1948 m. patvirtintos Visuotinės žmogaus teisių deklaracijos, nes SSRS faktiškai jos nepaisė. Lietuvos disidentų siekis buvo tautos savasties išsaugojimas, priešiškų jėgų veiklos dalinis neutralizavimas, žmogaus teisių gynimas. Disidentinio judėjimo pradžia Lietuvoje laikomi 1960 m., kai pirmieji lietuviai disidentai Aleksandras Štromas, Tomas Venclova, Pranas Morkus užmezgė santykius su Maskvos disidentais, pagelbėjo jiems Maskvoje leisti žurnalą „Sintaksis“, teikė informaciją iš.
 
 ## Teiginiai
 
@@ -28,6 +29,8 @@ Lietuvos disidentai, skirtingai nei katalikų opozicija, kėlė Lietuvos laisvė
 - t-001
   global_id: t-74667
   teiginys: 'Lietuvos disidentai, skirtingai nei katalikų opozicija, kėlė Lietuvos laisvės klausimus.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus ir paremtas citata.'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-004
 
@@ -35,6 +38,9 @@ Lietuvos disidentai, skirtingai nei katalikų opozicija, kėlė Lietuvos laisvė
 - t-002
   global_id: t-74668
   teiginys: 'Lietuvos disidentai siekė išsaugoti tautos savastį, iš dalies neutralizuoti priešiškų jėgų veiklą ir ginti žmogaus teises.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva; mentioned_place: SSRS'
+  temporaliniai_duomenys: 'įvykio data: 1948 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 
@@ -42,6 +48,9 @@ Lietuvos disidentai, skirtingai nei katalikų opozicija, kėlė Lietuvos laisvė
 - t-003
   global_id: t-74669
   teiginys: 'Lietuvos disidentai siekė priversti okupacinę valdžią gerbti žmogaus teises ir 1948 m. Visuotinę žmogaus teisių deklaraciją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: SSRS'
+  temporaliniai_duomenys: 'įvykio data: 1948 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -49,6 +58,11 @@ Lietuvos disidentai, skirtingai nei katalikų opozicija, kėlė Lietuvos laisvė
 - t-004
   global_id: t-74670
   teiginys: 'Sovietinė valdžia žinomus Lietuvos disidentus išsiųsdavo iš Sovietų Sąjungos, o kitus suimdavo ir nuteisdavo.'
+  sudarymo_pagrindimas: 'Teiginys yra faktinis ir susijęs su Lietuvos disidentais.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos laisvės lyga|Lietuvos laisvės lyga]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1978 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra faktinis ir susijęs su Lietuvos disidentais.'
   pagrindžia:
     - c-005
 
@@ -56,9 +70,14 @@ Lietuvos disidentai, skirtingai nei katalikų opozicija, kėlė Lietuvos laisvė
 - t-005
   global_id: t-74671
   teiginys: 'Lietuvos disidentinio judėjimo pradžia laikoma 1960 m., kai Aleksandras Štromas, Tomas Venclova ir Pranas Morkus užmezgė ryšius su Maskvos disidentais.'
+  sudarymo_pagrindimas: 'Teiginys yra konkretus sakinys apie Lietuvos disidentinį judėjimą.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Disidentinio judėjimo pradžia Lietuvoje (1960 m.)|Disidentinio judėjimo pradžia Lietuvoje (1960 m.)]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Pranas Morkus|Pranas Morkus]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Tomas Venclova|Tomas Venclova]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: SSRS'
+  temporaliniai_duomenys: 'įvykio data: 1948 m.; įvykio data: 1960 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus sakinys apie Lietuvos disidentinį judėjimą.'
   pagrindžia:
     - c-003
-
+- susijęs iš [[objektai/zodynas/disidentai reformatai reformatoriai.md#claim-t-86464|disidentai reformatai reformatoriai]]: Lietuvos disidentai reformatai nepajėgė sutelkti tokių stiprių pajėgų kovai su Vilniaus jėzuitais.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -151,19 +170,3 @@ Lietuvos disidentai, skirtingai nei katalikų opozicija, kėlė Lietuvos laisvė
   pagrindžia:
     - t-006
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Aleksandras]]
-- [[objektai/ivykiai/Disidentinio judėjimo pradžia Lietuvoje (1960 m.)]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Lietuvos laisvės lyga]]
-- [[objektai/asmenys/Pranas Morkus]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/asmenys/Tomas Venclova]]
-- [[objektai/zodynas/disidentai reformatai reformatoriai]]
-- [[objektai/asmenys/Aleksandras Štromas]]
-- [[objektai/asmenys/Balys Gajauskas]]
-- [[objektai/ivykiai/Lietuvos laisvės lygos įkūrimas (1978 m.)]]
-- [[objektai/asmenys/Viktoras Petkus]]

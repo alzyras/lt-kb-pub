@@ -6,19 +6,20 @@ saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1387 m.'
+  - '1408 m.'
   - '2026 m.'
 date_start: '1387'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XIV'
-  - 'XXI'
 tags:
   - ivykis
   - karas
   - kraštas
   - miestas
+amziai:
+  - 'XIV'
+  - 'XXI'
 ---
 # Magdeburgo teisių suteikimas Lietuvos miestams
 
@@ -43,19 +44,30 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-<a id="claim-t-66767"></a>
-- t-002
-  global_id: t-66767
+
+<a id="claim-t-66766"></a>
+- t-001
+  global_id: t-66766
   teiginys: 'Kaune Vytautas suteikė Magdeburgo teises (1408 m.) vokiečių pirkliams.'
+  sudarymo_pagrindimas: 'Teiginys yra konkretus, gramatiškas ir paremtas citatos sakiniu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/Magdeburgo teisės|Magdeburgo teisės]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Kaunas; mentioned_place: Nemunas; mentioned_place: Racionžas'
+  temporaliniai_duomenys: 'įvykio data: 1408 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus, gramatiškas ir paremtas citatos sakiniu.'
   pagrindžia:
     - c-001
 
-- t-003
+<a id="claim-t-66767"></a>
+- t-002
+  global_id: t-66767
   teiginys: 'Vytautas palaikė Lietuvos miestus ir suteikė jiems daugiau laisvės Magdeburgo miesto pavyzdžiu.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie objektą ir remiasi citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Magdeburgo teisės|Magdeburgo teisės]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -69,7 +81,8 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
+
 - c-002
   santrauka: 'Vytautas palaikė Lietuvos miestus ir suteikė jiems daugiau laisvės Magdeburgo miesto pavyzdžiu.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -83,10 +96,4 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Magdeburgo teisės]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+    - t-002

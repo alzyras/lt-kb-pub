@@ -20,6 +20,8 @@ Dusburgietis teigia, kad [Powierski J.] Sasinowie.— SSS, t.
 - t-001
   global_id: t-61254
   teiginys: 'J. Powierskio „Sasinowie“ nurodyta SSS 5 tomo 74-75 puslapiuose.'
+  sudarymo_pagrindimas: 'Citata pagrindžia bibliografinę nuorodą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
   pagrindžia:
     - c-001
 

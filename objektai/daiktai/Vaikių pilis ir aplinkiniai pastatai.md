@@ -43,6 +43,8 @@ Nenurodyta
 - t-001
   global_id: t-87095
   teiginys: 'Vaikių krašte šventoji giria, netoliese stovėjusi pilis ir aplinkiniai pastatai per vieną naktį buvo sudeginti iki pamatų.'
+  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir suformuotas pilnas sakinys apie pilį bei pastatus.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Ariogala; mentioned_place: Raseiniai; mentioned_place: Vaikiai; mentioned_place: Viena; mentioned_place: Šventoji'
   pagrindžia:
     - c-001
 
@@ -64,7 +66,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/žygis]]

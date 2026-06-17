@@ -4,9 +4,11 @@ pavadinimas: 'Lietuvių laisvinimo darbo konferencijos nuostata dėl nepriklauso
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
+  - '1940 m.'
+  - '1951 m.'
   - '1974 m.'
-date_start: '1974'
-date_end: ''
+date_start: '1940'
+date_end: '1974'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -27,6 +29,11 @@ Jos siekė veikti išvien ir pasitarnauti Lietuvos laisvės bylai tarptautiniu m
 - t-001
   global_id: t-23497
   teiginys: '1974 m. lietuvių laisvinimo darbo konferencija patvirtino nuostatą siekti nepriklausomos Lietuvos atstatymo, remiantis lietuvių tautos valia.'
+  sudarymo_pagrindimas: 'Teiginys sukonkretintas pagal citatoje nurodytą konferencijos nuostatą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Amerikos lietuvių taryba|Amerikos lietuvių taryba]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Niujorkas'
+  temporaliniai_duomenys: 'įvykio data: 1940 m.; įvykio data: 1951 m.; įvykio data: 1974 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys sukonkretintas pagal citatoje nurodytą konferencijos nuostatą.'
   pagrindžia:
     - c-001
 

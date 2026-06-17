@@ -4,21 +4,23 @@ pavadinimas: 'Lietuvos TSR Istorijos Šaltiniai'
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
+  - '1324 m.'
   - '1955 m.'
-date_start: '1955'
-date_end: ''
+date_start: '1324'
+date_end: '1955'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
 amziai:
+  - 'XIV'
   - 'XX'
 ---
 # Lietuvos TSR Istorijos Šaltiniai
 
 ## Santrauka
 
-Pirmasis „Lietuvos TSR istorijos šaltinių“ tomas išleistas Vilniuje 1955 m. Kai kurios Dusburgiečio kronikos vietos lietuvių kalba publikuotos „Lietuvos TSR istorijos šaltiniuose“. Užpurvio parengtuose „Lietuvių tautos istorijos šaltiniuose“95.
+LIŠ = Lietuvos TSR Istorijos Šaltiniai, t.
 
 ## Teiginiai
 
@@ -26,6 +28,11 @@ Pirmasis „Lietuvos TSR istorijos šaltinių“ tomas išleistas Vilniuje 1955 
 - t-001
   global_id: t-89528
   teiginys: 'Pirmasis „Lietuvos TSR istorijos šaltinių“ tomas išleistas Vilniuje 1955 m.'
+  sudarymo_pagrindimas: 'Citata pagrindžia bibliografinį faktą, o pradinė formuluotė nutrūkusi.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1955 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia bibliografinį faktą, o pradinė formuluotė nutrūkusi.'
   pagrindžia:
     - c-002
 
@@ -33,6 +40,11 @@ Pirmasis „Lietuvos TSR istorijos šaltinių“ tomas išleistas Vilniuje 1955 
 - t-002
   global_id: t-89530
   teiginys: 'Kai kurios Dusburgiečio kronikos vietos lietuvių kalba publikuotos „Lietuvos TSR istorijos šaltiniuose“.'
+  sudarymo_pagrindimas: 'Teiginys iš esmės palaikomas, bet reikėjo pašalinti boilerplate ir išnašos numerį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Prūsai'
+  temporaliniai_duomenys: 'įvykio data: iki 1324 m.; įvykio data: 1324 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys iš esmės palaikomas, bet reikėjo pašalinti boilerplate ir išnašos numerį.'
   pagrindžia:
     - c-001
 
@@ -40,6 +52,11 @@ Pirmasis „Lietuvos TSR istorijos šaltinių“ tomas išleistas Vilniuje 1955 
 - t-003
   global_id: t-89531
   teiginys: 'Užpurvio parengtuose „Lietuvių tautos istorijos šaltiniuose“95.'
+  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Prūsai'
+  temporaliniai_duomenys: 'įvykio data: iki 1324 m.; įvykio data: 1324 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'claim_quality_pipeline deterministic repair'
   pagrindžia:
     - c-001
 

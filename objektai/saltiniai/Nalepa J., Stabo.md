@@ -26,6 +26,11 @@ Dusburgietis teigia, kad stabo — dab.
 - t-001
   global_id: t-61192
   teiginys: 'J. Nalepos tyrime Stabo ežeras tapatinamas su dabartiniu Kamienne ežeru Suvalkų krašte.'
+  sudarymo_pagrindimas: 'Citata pagrindžia teiginį apie Stabo ir Kamienne vietovardžių tapatinimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Jotvingiai|Jotvingiai]]; mentioned_place: Stabo ežeras; mentioned_place: Suvalkai'
+  temporaliniai_duomenys: 'įvykio data: po 1283 m.; įvykio data: 1283 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia teiginį apie Stabo ir Kamienne vietovardžių tapatinimą.'
   pagrindžia:
     - c-001
 

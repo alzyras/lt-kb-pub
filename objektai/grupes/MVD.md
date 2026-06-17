@@ -4,11 +4,12 @@ pavadinimas: 'MVD'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
+  - '1945 m.'
   - '1946 m.'
   - '1947 m.'
   - '1948 m.'
   - '1949 m.'
-date_start: '1946'
+date_start: '1945'
 date_end: '1949'
 sukurta: ''
 atnaujinta: ''
@@ -29,6 +30,9 @@ amziai:
 - t-001
   global_id: t-41082
   teiginys: '1946 m. buvo visiškai sunaikinta Daugų MVD įgula.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_place: Daugai; mentioned_place: Kaimas'
+  temporaliniai_duomenys: 'įvykio data: 1946 m.; įvykio data: 1948 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -36,6 +40,9 @@ amziai:
 - t-002
   global_id: t-41083
   teiginys: 'Troškūnų ir Kauno MVD bei MGB įstaigose kai kurie pareigūnai buvo užverbuoti partizanų informatoriais.'
+  susije_objektai: 'mentioned_place: Kaunas; mentioned_place: Troškūnai'
+  temporaliniai_duomenys: 'įvykio data: iki 1949 m.; įvykio data: 1945 m.; įvykio data: 1947 m.; įvykio data: 1948 m.; įvykio data: 1949 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 
@@ -72,7 +79,3 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/įgula]]

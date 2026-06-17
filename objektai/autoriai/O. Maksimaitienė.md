@@ -3,20 +3,16 @@ tipas: autorius
 pavadinimas: 'O. Maksimaitienė'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-datos:
-  - '1863 m.'
-  - '1966 m.'
-date_start: '1863'
-date_end: '1966'
+datos: []
+date_start: ''
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
 amziai:
-  - 'XIX'
-  - 'XX'
-periodo_grupes:
-  - 'naujieji laikai'
+  - 'M'
+periodo_grupes: []
 ---
 # O. Maksimaitienė
 
@@ -30,9 +26,18 @@ Maksimaitienė pateikė duomenų apie sukilėlių kovinius veiksmus 1863 m. Augu
 - t-001
   global_id: t-30883
   teiginys: 'O. Maksimaitienė pateikė duomenų apie 1863 m. sukilėlių kovinius veiksmus Augustavo gubernijoje ir jų antspaudus.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus ir paremtas citatoje pateiktais duomenimis.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Antspaudai|Antspaudai]]; mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_person: [[objektai/autoriai/L. Mulevičius|L. Mulevičius]]; mentioned_person: [[objektai/autoriai/V. Černeckis|V. Černeckis]]; mentioned_place: Augustavas; mentioned_place: Baltarusija; mentioned_place: Kaunas; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1831 m.; įvykio data: 1861-1913; įvykio data: 1863 m.; įvykio data: apie 1863 m.; įvykio data: 1913 m.; įvykio data: 1965 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus ir paremtas citatoje pateiktais duomenimis.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/autoriai/E. Griškūnaitė.md#claim-t-30592|E. Griškūnaitė]]: E. Griškūnaitė rašė apie 1905 m. sukilimą Lietuvoje.
+- susijęs iš [[objektai/autoriai/L. Mulevičius.md#claim-t-30781|L. Mulevičius]]: L. Mulevičius rašė apie to laiko žemėvaldos klausimus.
+- susijęs iš [[objektai/autoriai/Lietuvos istorikai ir socialinės istorijos tyrėjai.md#claim-t-179545|Lietuvos istorikai ir socialinės istorijos tyrėjai]]: L. Bičkauskas-Gentvila 1958 m. rašė apie 1863 m. sukilimą Lietuvoje ir Baltarusijoje.
+- susijęs iš [[objektai/autoriai/P. Girdzijauskienė.md#claim-t-30898|P. Girdzijauskienė]]: P. Girdzijauskienė 1955 m. paskelbė darbą „1905-1907 metų revoliucija Lietuvoje“.
+- susijęs iš [[objektai/autoriai/V. Černeckis.md#claim-t-31055|V. Černeckis]]: V. Černeckis rašė apie kapitalistinės pramonės formavimąsi Kaune 1861–1913 m.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -54,8 +59,3 @@ Maksimaitienė pateikė duomenų apie sukilėlių kovinius veiksmus 1863 m. Augu
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Antspaudai]]
-- [[objektai/zodynas/gubernija]]

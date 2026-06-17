@@ -3,10 +3,6 @@ tipas: zodyno_irasas
 pavadinimas: 'valdymieras'
 saltiniai:
   - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
-aliases:
-  - 'objektai/zodynas/valdymierai'
-variantai:
-  - 'valdymierai'
 sukurta: ''
 atnaujinta: ''
 ---
@@ -45,9 +41,11 @@ Vartojamos formos: `valdymierais`, `valdymierai`.
 - t-003
   global_id: t-70061
   teiginys: 'Valdymierai kartais įvesdavo svetimus parėdymus į savo ūkę, kad padidintų valdžią ir pavergtų žmones.'
+  sudarymo_pagrindimas: 'Citata tiesiogiai priskiria valdymierams svetimų parėdymų įvedimo tikslą.'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/zodynas/Kūrėjų kūrėjas.md#claim-t-70012|kūrėjų kūrėjas]]: `Kūrėjų kūrėjas` šiame tekste yra visų vyriausias žynys.
+- susijęs iš [[objektai/zodynas/Kūrėjų kūrėjas.md#claim-t-70013|kūrėjų kūrėjas]]: Kūrėjų kūrėjas vienas valdė žynius, davė jiems įsakymus ir per tarnus skelbė iš dievų gautą pamokslą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -70,7 +68,3 @@ Vartojamos formos: `valdymierais`, `valdymierai`.
   pagrindžia:
     - t-001
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Kūrėjų kūrėjas|kūrėjų kūrėjas]]

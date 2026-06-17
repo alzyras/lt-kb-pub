@@ -3,9 +3,8 @@ tipas: asmuo
 pavadinimas: 'Gotszalk Schutte'
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
-datos:
-  - '1251 m.'
-date_start: '1251'
+datos: []
+date_start: ''
 date_end: ''
 sukurta: ''
 atnaujinta: ''
@@ -13,10 +12,8 @@ tags:
   - asmuo
   - popiežius
   - vyskupas
-amziai:
-  - 'XIII'
-periodo_grupes:
-  - 'LDK'
+amziai: []
+periodo_grupes: []
 ---
 # Gotszalk Schutte
 
@@ -30,6 +27,9 @@ Be to, į Žemaičių vyskupiją pareiškė pretenzijų Rygos arkivyskupai (Gots
 - t-001
   global_id: t-35080
   teiginys: 'Rygos arkivyskupas Gotszalk Schutte reiškė pretenzijas į Žemaičių vyskupiją.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Ryga'
+  temporaliniai_duomenys: 'įvykio data: 1422 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

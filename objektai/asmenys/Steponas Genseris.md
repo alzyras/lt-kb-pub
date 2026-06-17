@@ -23,6 +23,8 @@ tags:
 - t-001
   global_id: t-87460
   teiginys: 'Steponas Genseris buvo auksakalys, kurį karaliaus dekretas atleido nuo Vilniaus miesto jurisdikcijos ir cechų valdžios.'
+  sudarymo_pagrindimas: 'Citata aiškiai įvardija Genserį auksakaliu ir nurodo dekreto sprendimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus miesto cechai|Vilniaus miesto cechai]]; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_object: [[objektai/zodynas/jurisdikcija|jurisdikcija]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Bełskas; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -30,9 +32,17 @@ tags:
 - t-002
   global_id: t-87461
   teiginys: 'Auksakalys Steponas Genseris buvo pašauktas į teismą Vilniaus miesto auksakalių cecho reikalavimu.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Cechas|Cechas]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Transilvanija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
-
+- susijęs iš Aleksandro privilegija Vilniaus auksakalių cechui: Vilniaus auksakalių cecho prašymu auksakalys Steponas Genseris buvo pašauktas į teismą dėl nepaklusimo Aleksandro privilegijai.
+- susijęs iš Aleksandro privilegija Vilniaus auksakalių cechui: Steponas Genseris kaltintas nepaklusęs Aleksandro suteiktai ir vėliau patvirtintai Vilniaus auksakalių cecho privilegijai.
+- susijęs iš Stepono Batoro teismo šaukimas Steponui Genseriui dėl Vilniaus auksakalių cecho skundo: Steponas Genseris Vilniaus auksakalių cecho reikalavimu buvo raštiškai pakviestas į valdovo teismą.
+- susijęs iš Stepono Batoro teismo šaukimas Steponui Genseriui dėl Vilniaus auksakalių cecho skundo: Steponas Genseris kaltintas atskirai nuo Vilniaus auksakalių cecho gaminęs ir pardavinėjęs auksakalystės dirbinius.
+- susijęs iš Vladislovo privilegija Vilniaus katedros bažnyčiai ir Vilniaus vyskupui dėl vyskupijos jurisdikcijos: Auksakalys Steponas Genseris buvo paskelbtas laisvu nuo Vilniaus miesto pasaulietinės jurisdikcijos ir cechų valdžios.
+- susijęs iš [[objektai/zodynas/cechas contubernium.md#claim-t-86462|cechas contubernium]]: Vilniaus auksakalių cecho reikalavimu auksakalys Steponas Genseris buvo pašauktas į teismą dėl nepaklusimo cecho privilegijai.
+- susijęs iš [[objektai/zodynas/civilinė teisė ir pasaulietinė civilinė teisė.md#claim-t-86519|civilinė teisė ir pasaulietinė civilinė teisė]]: Auksakalys Steponas Genseris buvo kaltintas vertęsis amatu nesilaikydamas civilinės teisės ir Vilniaus auksakalių cecho tvarkos.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -81,12 +91,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Antspaudas]]
-- [[objektai/zodynas/Cechas]]
-- [[objektai/grupes/Vilniaus miesto cechai]]
-- [[objektai/zodynas/jurisdikcija]]
-- [[objektai/zodynas/cechas contubernium]]
-- [[objektai/zodynas/civilinė teisė ir pasaulietinė civilinė teisė]]

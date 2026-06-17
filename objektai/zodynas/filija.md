@@ -20,9 +20,13 @@ Item Decima in Wieprze om­ nis Grani praeter Avenam et Strenam, Sive Columbatio
 - t-001
   global_id: t-86587
   teiginys: 'Bažnyčia galėjo būti nukelta arba tapti Pabaisko bažnyčiai priklausančia filija.'
+  sudarymo_pagrindimas: 'Citata palaiko glaustą teiginį apie filijos priklausomybę; pašalintas OCR ir antraščių triukšmas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/fundacija|fundacija]]'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/paprociai/Pabaisko bažnyčios karčemų monopolis ir gėrimų pilstymo tvarka.md#claim-t-87279|Pabaisko bažnyčios karčemų monopolis ir gėrimų pilstymo tvarka]]: Pabaisko bažnyčios fundacija nustatė, kad jos ribose negali būti kitų karčemų, išskyrus priklausančias Pabaisko bažnyčiai.
+- susijęs iš Pabaisko bažnyčia ir parapija: Pagal fundaciją nustatytose ribose karčemos turėjo priklausyti Pabaisko bažnyčiai.
+- susijęs iš [[objektai/zodynas/karčema smuklininkas gėrimų pilstymas.md#claim-t-86531|karčema smuklininkas gėrimų pilstymas]]: Pabaisko bažnyčios valdose leista laikyti tik jai priklausančias karčemas, kuriose buvo galima pilstyti midų, alų ir degtinę.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -49,9 +53,3 @@ Item Decima in Wieprze om­ nis Grani praeter Avenam et Strenam, Sive Columbatio
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/fundacija]]
-- [[objektai/paprociai/Pabaisko bažnyčios karčemų monopolis ir gėrimų pilstymo tvarka]]
-- [[objektai/zodynas/karčema smuklininkas gėrimų pilstymas]]

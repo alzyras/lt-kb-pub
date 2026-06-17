@@ -5,8 +5,9 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1926 m.'
+  - '1927 m.'
 date_start: '1926'
-date_end: ''
+date_end: '1927'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -48,6 +49,9 @@ Nenurodyta
 - t-001
   global_id: t-23318
   teiginys: '1926 m. birželio 17 d. panaikinta karo padėtis.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/karo padėtis|karo padėtis]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]'
+  temporaliniai_duomenys: 'įvykio data: 1926 m.; įvykio data: po 1927 m.; įvykio data: 1927 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data.'
   pagrindžia:
     - c-001
 
@@ -55,6 +59,9 @@ Nenurodyta
 - t-002
   global_id: t-23319
   teiginys: 'Tą pačią reformų bangą lydėjo politinių kalinių amnestija, spaudos apribojimų panaikinimas ir susirinkimų laisvės suteikimas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]'
+  temporaliniai_duomenys: 'įvykio data: po 1927 m.; įvykio data: 1927 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -62,6 +69,11 @@ Nenurodyta
 - t-003
   global_id: t-23320
   teiginys: 'III Seimo naujoji valdančioji dauguma skubėjo Lietuvoje įdiegti visateisę demokratinę santvarką.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatinis ir atitinka citatos turinį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: po 1927 m.; įvykio data: 1927 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatinis ir atitinka citatos turinį.'
   pagrindžia:
     - c-001
 
@@ -89,13 +101,3 @@ Nenurodyta
     - t-001
     - t-002
     - t-003
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/politinis-sprendimas]]
-
-### Susiję objektai
-- [[objektai/zodynas/seimas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/III Seimas]]
-- [[objektai/zodynas/civilinė metrikacija]]

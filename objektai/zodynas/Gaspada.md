@@ -34,6 +34,7 @@ Papildomos aiškios formos neišskirtos.
 - t-002
   global_id: t-70003
   teiginys: 'Gaspada buvo po kairės angos pusės ir skirta keleiviams, atėjusiems dievų maldyti.'
+  sudarymo_pagrindimas: 'Citata pagrindžia gaspados vietą ir paskirtį, bet ne kunigaikščio rūmų aplinką.'
   pagrindžia:
     - c-001
 

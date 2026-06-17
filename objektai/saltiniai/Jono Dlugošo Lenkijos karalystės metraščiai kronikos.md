@@ -28,7 +28,7 @@ amziai:
 
 ## Santrauka
 
-Jono Dlugošo „Annales seu cronicae incliti regni Poloniae“ tomai Varšuvoje leisti 1964, 1973, 1975 ir 1978 m. Roczniki czyli kroniki sławnego królestwa Polskiego.— Warszawa, ks.
+Dusburgietis teigia, kad dlugossii I. Annales seu cronicae incliti regni Poloniae.— Varsaviae, lib. I—II, 1964; lib. V et VI, 1973; lib. VII et VIII, 1975; lib. IX, 1978; Opera omnia, t. 13, 1877. Dusburgietis teigia, kad roczniki czyli kroniki sławnego królestwa Polskiego.— Warszawa, ks.
 
 ## Teiginiai
 
@@ -36,6 +36,11 @@ Jono Dlugošo „Annales seu cronicae incliti regni Poloniae“ tomai Varšuvoje
 - t-001
   global_id: t-60985
   teiginys: 'Jono Dlugošo „Annales seu cronicae incliti regni Poloniae“ tomai Varšuvoje leisti 1964, 1973, 1975 ir 1978 m.'
+  sudarymo_pagrindimas: 'Citata pagrindžia veikalo leidimo vietą ir atskirų tomų leidimo metus.'
+  susije_objektai: 'mentioned_place: Varšuva'
+  temporaliniai_duomenys: 'įvykio data: 1978 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia veikalo leidimo vietą ir atskirų tomų leidimo metus.'
   pagrindžia:
     - c-001
 
@@ -43,6 +48,7 @@ Jono Dlugošo „Annales seu cronicae incliti regni Poloniae“ tomai Varšuvoje
 - t-002
   global_id: t-60986
   teiginys: 'Roczniki czyli kroniki sławnego królestwa Polskiego.— Warszawa, ks.'
+  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
   pagrindžia:
     - c-002
 

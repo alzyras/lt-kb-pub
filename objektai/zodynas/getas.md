@@ -3,11 +3,17 @@ tipas: zodyno_irasas
 pavadinimas: 'getas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1943 m.'
+date_start: '1943'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - miestas
   - sąvoka
+amziai:
+  - 'XX'
 ---
 # getas
 
@@ -21,9 +27,16 @@ is, 1943 m., naciai naikino miestų getus, iškasė ir degino nužudytųjų kūn
 - t-001
   global_id: t-22151
   teiginys: '1943 m. naciai naikino miestų getus, degino nužudytųjų kūnus ir išvežė apie 14,5 tūkst. Lietuvos žydų į konclagerius bei stovyklas.'
+  sudarymo_pagrindimas: 'Teiginys yra faktinis, aiškus ir atitinka citatoje nurodytus duomenis.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Estija; mentioned_place: Latvija; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1943 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra faktinis, aiškus ir atitinka citatoje nurodytus duomenis.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/grupes/MOPR.md#claim-t-19938|MOPR]]: MOPR buvo iš Maskvos diriguojama tarptautinė organizacija revoliucionieriams remti, kurioje daugumą sudarė žydai.
+- susijęs iš [[objektai/grupes/Žydai.md#claim-t-117388|Žydai]]: Tarpukario Lietuvos žydai buvo daugiapolė, pliuralistinė ir politiškai susiskaidžiusi bendruomenė, turėjusi daug partijų ir organizacijų.
+- susijęs iš Kauno getas: Kauno getas buvo tarp getų, kuriuose apie 50 tūkst. žydų laikinai palikti ir išnaudoti kaip pigi darbo jėga.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -39,9 +52,3 @@ is, 1943 m., naciai naikino miestų getus, iškasė ir degino nužudytųjų kūn
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Žydai]]
-- [[objektai/grupes/MOPR]]
-- [[objektai/ivykiai/Lietuvos žydų sunaikinimas - Holokaustas]]

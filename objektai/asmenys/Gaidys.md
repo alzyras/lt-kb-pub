@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Partizanas Gaidys buvo ginkluotas tik pistoletu.
+Gaidys ir Viesulas turėjo tik pistalietus. [...].Gaidys apsiginklavo automatu, paimtu iš nukautojo Kruglovo.
 
 ## Teiginiai
 
@@ -21,9 +21,12 @@ Partizanas Gaidys buvo ginkluotas tik pistoletu.
 - t-001
   global_id: t-40115
   teiginys: 'Partizanas Gaidys buvo ginkluotas tik pistoletu.'
+  sudarymo_pagrindimas: 'Citata palaiko taisyklingesnę ir enciklopediškesnę formuluotę.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Pistoletas|Pistoletas]]; mentioned_person: [[objektai/asmenys/Viesulas|Viesulas]]'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Tigras.md#claim-t-40464|Tigras]]: Tigras buvo ginkluotas vokišku MG 36 kulkosvaidžiu.
+- susijęs iš [[objektai/asmenys/Viesulas.md#claim-t-39666|Viesulas]]: Viesulas ir Gaidys turėjo tik pistoletus.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -38,7 +41,3 @@ Partizanas Gaidys buvo ginkluotas tik pistoletu.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Pistoletas]]

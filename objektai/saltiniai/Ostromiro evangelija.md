@@ -21,6 +21,8 @@ surašytas Ostromiro ir Turovo evangelijas.
 - t-001
   global_id: t-21216
   teiginys: 'Ostromiro evangelija buvo viena iš XI a. surašytų evangelijų, kurias turėjo Lietuvos valdiniai.'
+  sudarymo_pagrindimas: 'Perrašyta taip, kad sakinys aiškiau būtų apie užrašo objektą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Miro; mentioned_place: Turovas; mentioned_place: Viena'
   pagrindžia:
     - c-001
 

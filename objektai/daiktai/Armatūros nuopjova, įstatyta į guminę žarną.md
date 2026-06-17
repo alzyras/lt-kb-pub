@@ -46,6 +46,10 @@ Nenurodyta
 - t-001
   global_id: t-40693
   teiginys: 'Armatūros nuopjova, įstatyta į guminę žarną, datuojama 1991 m.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys, paremtas katalogine antrašte.'
+  temporaliniai_duomenys: 'įvykio data: 1991 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys, paremtas katalogine antrašte.'
   pagrindžia:
     - c-001
 

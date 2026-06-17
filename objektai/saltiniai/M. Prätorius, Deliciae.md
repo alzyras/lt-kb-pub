@@ -33,6 +33,11 @@ Dusburgietis teigia, kad pretorijus (1664— 1684 m. gyvenęs Nibudžiuose, į �
 - t-001
   global_id: t-60953
   teiginys: 'M. Prätorius manė, kad baltų Romovė galėjusi būti prie Biserkiemio ant Sidabro kalnu vadintos kalvos.'
+  sudarymo_pagrindimas: 'Teiginys yra enciklopedinis ir paremtas citatoje nurodyta M. Pretorijaus nuomone.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_place: Romuva'
+  temporaliniai_duomenys: 'įvykio data: 1684 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra enciklopedinis ir paremtas citatoje nurodyta M. Pretorijaus nuomone.'
   pagrindžia:
     - c-001
 
@@ -40,6 +45,8 @@ Dusburgietis teigia, kad pretorijus (1664— 1684 m. gyvenęs Nibudžiuose, į �
 - t-002
   global_id: t-60954
   teiginys: 'M. Prätoriaus „Deliciae“ siejama su pasakojimu, kad vieta prie Auksinės netoli Norkyčių kadaise buvo vaidilos globoje.'
+  sudarymo_pagrindimas: 'Citata patvirtina pasakojimo turinį ir nuorodą į M. Prätoriaus veikalą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vaidila|Vaidila]]; mentioned_place: Auksinė; mentioned_place: Norkyčiai'
   pagrindžia:
     - c-003
 
@@ -47,6 +54,11 @@ Dusburgietis teigia, kad pretorijus (1664— 1684 m. gyvenęs Nibudžiuose, į �
 - t-003
   global_id: t-60955
   teiginys: 'M. Prätoriaus „Deliciae“ nurodoma, kad Pisos dešinysis intakas Golba prie Narpiškių kaimo buvęs šventas.'
+  sudarymo_pagrindimas: 'Citata pagrindžia faktą, o pradinis teiginys nutrūkęs.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Nadruviai|Nadruviai]]; mentioned_place: Gumbinė; mentioned_place: Kaimas; mentioned_place: Stalupėnai'
+  temporaliniai_duomenys: 'įvykio data: 1595 m.; įvykio data: 1915 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia faktą, o pradinis teiginys nutrūkęs.'
   pagrindžia:
     - c-002
 

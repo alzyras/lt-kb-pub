@@ -26,6 +26,8 @@ Dusburgietis teigia, kad zajączkowski S.
 - t-001
   global_id: t-61379
   teiginys: 'S. Zajączkowskio veikalas „Polska a Zakon Krzyżacki w ostatnich latach Władysława Łokietka“ išleistas Lvove 1929 metais.'
+  sudarymo_pagrindimas: 'Citata patvirtina veikalo pavadinimą, leidimo vietą ir metus.'
+  susije_objektai: 'mentioned_place: Lvovas'
   pagrindžia:
     - c-001
 

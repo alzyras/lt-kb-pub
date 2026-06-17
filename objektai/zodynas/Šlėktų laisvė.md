@@ -31,6 +31,7 @@ Vartojama aiškinant feodalinio valdymo formas Lenkijoje ir Lietuvos kaimynystė
 - t-001
   global_id: t-55277
   teiginys: 'Vladislovo Lokietkos laikais Lenkijos aristokratai ir dvasininkija šaukė suvažiavimus ir taip klojo būsimosios šlėktų laisvės pamatus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lenkija; mentioned_place: Livonija'
   pagrindžia:
     - c-001
 
@@ -38,9 +39,14 @@ Vartojama aiškinant feodalinio valdymo formas Lenkijoje ir Lietuvos kaimynystė
 - t-002
   global_id: t-82138
   teiginys: 'Vladislovo Lokietkos laikais Lenkijos aristokratai ir dvasininkija suvažiavimais klojo būsimos šlėktų laisvės pamatus.'
+  sudarymo_pagrindimas: 'Citata palaiko faktą, bet pradinis sakinys per ilgas ir triukšmingas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lenkija; mentioned_place: Livonija'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Vladislovas Lokietka.md#claim-t-90075|Vladislovas Lokietka]]: Vladislovo Lokietkos laikais Lenkijos aristokratai ir dvasininkija pradėjo šaukti suvažiavimus ir tautos pasitarimus.
+- susijęs iš Kijevo Rusia: Lietuvai priklausančioje Rusioje nuo seno buvo įsitvirtinęs feodalinis valdymas.
+- susijęs iš Livonija: Livonijos vokiečių žemėse, kaip ir Lietuvoje bei jai priklausiusioje Rusioje, nuo seno buvo įsitvirtinęs feodalinis valdymas.
+- susijęs iš [[objektai/zodynas/Feodalinis ir leninis valdymas.md#claim-t-86456|Feodalinis ir leninis valdymas]]: Feodalinis valdymas nuo seno buvo įsitvirtinęs Lietuvoje, jai priklausiusioje Rusioje ir Livonijos vokiečių žemėse.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -63,10 +69,3 @@ Vartojama aiškinant feodalinio valdymo formas Lenkijoje ir Lietuvos kaimynystė
   pagrindžia:
     - t-001
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Lokietka]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/Feodalinis ir leninis valdymas]]
-- [[objektai/asmenys/Vladislovas Lokietka]]

@@ -14,7 +14,7 @@ tags:
 
 ## Santrauka
 
-Kassiodoras, ostgotų karaliaus Teodoriko aukštas valdininkas, savo raštuose pateikė Teodoriko padėkos laišką aisčiams už gintaro dovanas. Kassiodoro vėliau dingusi gotų istorija buvo Jordaneso 551 m. parengtos santraukos pagrindas.
+Ostgotų karaliaus Teodoriko aukštas valdininkas Kassiodoras (Cassiodorus, a. Padarydamas santrauką vėliau dingusios Kassiodoro rašytos gotų istorijos, rašytojas Jordanes (« De origine actibusque Getharum ») 551 m. minėjo Aesti kaip visiškai taikingą tautą («pacatum hominum genus omnino »), užėmusią labai ilgą pajūrio krantą į rytus.
 
 ## Teiginiai
 
@@ -22,6 +22,8 @@ Kassiodoras, ostgotų karaliaus Teodoriko aukštas valdininkas, savo raštuose p
 - t-001
   global_id: t-30755
   teiginys: 'Kassiodoras, ostgotų karaliaus Teodoriko aukštas valdininkas, savo raštuose pateikė Teodoriko padėkos laišką aisčiams už gintaro dovanas.'
+  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytą Kassiodoro pareigybę ir tekstą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_object: [[objektai/daiktai/Gintaras|Gintaras]]'
   pagrindžia:
     - c-002
 
@@ -29,9 +31,18 @@ Kassiodoras, ostgotų karaliaus Teodoriko aukštas valdininkas, savo raštuose p
 - t-002
   global_id: t-30756
   teiginys: 'Kassiodoro vėliau dingusi gotų istorija buvo Jordaneso 551 m. parengtos santraukos pagrindas.'
+  sudarymo_pagrindimas: 'Pradinis teiginys daugiausia kalba apie Jordanesą, todėl perrašyta sutelkiant faktą į Kassiodorą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_group: [[objektai/grupes/Gotai|Gotai]]; mentioned_person: [[objektai/autoriai/Jordanes|Jordanes]]; mentioned_place: Vysla'
+  temporaliniai_duomenys: 'įvykio data: 375 m; įvykio data: 551 m'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys daugiausia kalba apie Jordanesą, todėl perrašyta sutelkiant faktą į Kassiodorą.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/autoriai/Jordanes.md#claim-t-30717|Jordanes]]: Jordanes 551 m. veikale „De origine actibusque Getharum“ Aesti minėjo kaip taikingą tautą, gyvenusią ilgame pajūrio ruože į rytus.
+- susijęs iš [[objektai/grupes/Vidivarii.md#claim-t-31369|Vidivarii]]: Vidivarii gyveno prie Vyslos, o Jordanes Aesti lokalizavo į rytus nuo jų.
+- susijęs iš [[objektai/posakiai/pacatum hominum genus omnino.md#claim-t-31565|pacatum hominum genus omnino]]: Jordanes 551 m. Aesti apibūdino kaip visiškai taikingą tautą („pacatum hominum genus omnino“), gyvenusią ilgame rytiniame pajūrio ruože.
+- susijęs iš De origine actibusque Getharum: Jordanes 551 m. veikale „De origine actibusque Getharum“ aisčius apibūdino kaip visiškai taikingą tautą prie ilgo pajūrio kranto į rytus nuo Vidivarii.
+- susijęs iš Variae: Kassiodoro „Variae“ V, 12 pateiktas Teodoriko padėkos laiško aisčiams už gintaro dovanas tekstas.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -66,11 +77,3 @@ Kassiodoras, ostgotų karaliaus Teodoriko aukštas valdininkas, savo raštuose p
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Aisčiai]]
-- [[objektai/daiktai/Gintaras]]
-- [[objektai/grupes/Gotai]]
-- [[objektai/grupes/Vidivarii]]
-- [[objektai/posakiai/pacatum hominum genus omnino]]

@@ -45,6 +45,8 @@ Nenurodyta
 - t-001
   global_id: t-66800
   teiginys: 'Karaliaučiaus komtūras su kariuomene grįžo iš Vonsdorfo valsčiaus sutramdyti Notangos maišto.'
+  sudarymo_pagrindimas: 'Pakanka pašalinti nebūtiną autorinę atribuciją ir perteklinį įvadą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/piktadarystė|piktadarystė]]; mentioned_place: Notanga; mentioned_place: Sklunija; mentioned_place: Vonsdorfas'
   pagrindžia:
     - c-001
 
@@ -52,6 +54,11 @@ Nenurodyta
 - t-002
   global_id: t-66801
   teiginys: '1295 m. notangai vėl sukilo, savo kariuomenės vadu išsirinko Sabiną ir Bartenšteino pilyje paėmė į nelaisvę du brolius su jų šeimyna.'
+  sudarymo_pagrindimas: 'Pašalintas įterptas komentaras ir OCR triukšmas; sakinys remiasi citatos pasakojimu apie atskalūnybę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Germanai|Germanai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Misinas|Misinas]]; mentioned_person: [[objektai/asmenys/Sabinas|Sabinas]]; mentioned_person: [[objektai/asmenys/Stanta|Stanta]]; mentioned_place: Bartenšteinas; mentioned_place: Lamata; mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_place: Sklunija; mentioned_place: Vizna'
+  temporaliniai_duomenys: 'įvykio data: 1295 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas įterptas komentaras ir OCR triukšmas; sakinys remiasi citatos pasakojimu apie atskalūnybę.'
   pagrindžia:
     - c-003
 
@@ -59,6 +66,8 @@ Nenurodyta
 - t-003
   global_id: t-66802
   teiginys: 'Sembos valstiečiai susimokė išžudyti savo kilminguosius ir karvedžiu išsirinko Naudžiotą, Juodučio sūnų.'
+  sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir turi perteklinį kontekstą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Semba; mentioned_place: Viena'
   pagrindžia:
     - c-002
 
@@ -134,20 +143,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/karvedys]]
-
-### Susiję objektai
-- [[objektai/grupes/Germanai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Misinas]]
-- [[objektai/asmenys/Stanta]]
-- [[objektai/zodynas/komtūras]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/piktadarystė]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/grupes/Notangai]]
-- [[objektai/asmenys/Sabinas]]
-- [[objektai/asmenys/Naudžiotas|Naudžiotas (karvedys)]]

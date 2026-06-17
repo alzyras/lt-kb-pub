@@ -27,6 +27,10 @@ Dusburgietis teigia, kad mažiulis V.
 - t-001
   global_id: t-61168
   teiginys: 'V. Mažiulio „Pasaulio tautų kalbos“ išleista 1979 m.'
+  sudarymo_pagrindimas: 'Citata patvirtina leidinio pavadinimą ir metus.'
+  temporaliniai_duomenys: 'įvykio data: 1979 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata patvirtina leidinio pavadinimą ir metus.'
   pagrindžia:
     - c-001
 

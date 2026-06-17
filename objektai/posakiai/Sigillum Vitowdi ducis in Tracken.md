@@ -21,6 +21,8 @@ Kiek vėliau padary­ tas jo nuorašas aprašo keturias antspaudas, tarp kurių 
 - t-001
   global_id: t-35981
   teiginys: 'Vėlesniame akto nuoraše įrašas „Sigillum Vitowdi ducis in Tracken“ nurodė Vytauto, Trakų kunigaikščio, antspaudą.'
+  sudarymo_pagrindimas: 'Citata palaiko tikslesnį sakinį apie patį įrašą ir jo reikšmę.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_object: [[objektai/zodynas/nuorašas|nuorašas]]; mentioned_place: Trakai'
   pagrindžia:
     - c-001
 
@@ -39,8 +41,3 @@ Kiek vėliau padary­ tas jo nuorašas aprašo keturias antspaudas, tarp kurių 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/nuorašas]]
-- [[objektai/daiktai/Antspaudas]]

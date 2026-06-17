@@ -10,12 +10,13 @@ tags:
   - kraštas
   - kunigaikštis
   - miestas
+  - tauta
 ---
 # Medžioklių trobelės
 
 ## Santrauka
 
-Prie Vilnios buvusios pirmykštės gyvenvietės trobelės palei krantą tęsėsi iki Vilijos.
+Čia buvo pirmykštė gyvenvietė, kurios vardas paskui buvo duotas ten išaugusiam miestui, pagaliau nuo tos tvirtovės prie Vilnios palei krantą pažemiais tęsėsi trobelės iki pat Vilijos.
 
 ## Pavadinimai šaltiniuose
 
@@ -43,9 +44,13 @@ Nenurodyta
 - t-001
   global_id: t-87086
   teiginys: 'Prie Vilnios buvusios pirmykštės gyvenvietės trobelės palei krantą tęsėsi iki Vilijos.'
+  sudarymo_pagrindimas: 'Reikia pašalinti neaiškią nuorodą į tvirtovę ir suformuluoti sakinį pagal citatą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva; mentioned_place: Vilija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176683|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1420 m. Vytautas laiške Romos imperatoriui Zigmantui rašė apie Lietuvos ir Žemaitijos tapatumą.
+- susijęs iš [[objektai/asmenys/Zigmantas (Romos imperatorius).md#claim-t-87383|Zigmantas (Romos imperatorius)]]: 1420 m. Vytautas laiške Romos imperatoriui Zigmantui rašė apie Lietuvos ir Žemaitijos santykį.
+- susijęs iš Vytauto 1420 m. laiškas Romos imperatoriui Zigmantui: Vytauto 1420 m. laiškas Romos imperatoriui Zigmantui minimas kaip patikimas šaltinis apie Lietuvos ir Žemaitijos tapatumą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -72,11 +77,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
-- [[objektai/daiktai/Mediniai namai, trobos ir trobelės]]

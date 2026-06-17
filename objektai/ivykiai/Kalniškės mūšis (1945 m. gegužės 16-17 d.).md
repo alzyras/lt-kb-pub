@@ -5,6 +5,7 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1945 m.'
+  - '1946 m.'
   - '2026 m.'
 date_start: '1945'
 date_end: '2026'
@@ -51,6 +52,11 @@ Nenurodyta
 - t-002
   global_id: t-71747
   teiginys: 'Kalniškės mūšyje žuvo Neifalto-Lakūno žmona, partizanė slapyvardžiu Pušelė.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai sieja faktą su Kalniškės mūšiu ir yra paremtas citata.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]'
+  temporaliniai_duomenys: 'įvykio data: 1946 m.; įvykio data: apie 1946 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai sieja faktą su Kalniškės mūšiu ir yra paremtas citata.'
   pagrindžia:
     - c-002
 
@@ -58,6 +64,11 @@ Nenurodyta
 - t-003
   global_id: t-71748
   teiginys: 'Neifalta-Lakūnas per Kalniškės mūšį nežuvo; citatoje nurodoma, kad jis žuvo apie 1946 m.'
+  sudarymo_pagrindimas: 'Citatoje mirties data pateikiama kaip liudijimo teiginys, todėl reikia atsargesnės formuluotės.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]'
+  temporaliniai_duomenys: 'įvykio data: 1946 m.; įvykio data: apie 1946 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
+  temporalinis_llm_pakomentavimas: 'Citatoje mirties data pateikiama kaip liudijimo teiginys, todėl reikia atsargesnės formuluotės.'
   pagrindžia:
     - c-002
 
@@ -65,9 +76,17 @@ Nenurodyta
 - t-004
   global_id: t-71749
   teiginys: 'Liudytojas teigė Neifaltą-Lakūną po Kalniškės mūšio matęs ne kartą.'
+  sudarymo_pagrindimas: 'Pradinis teiginys yra pirmojo asmens citatos fragmentas, todėl reikia enciklopedinės formuluotės.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]'
+  temporaliniai_duomenys: 'įvykio data: 1946 m.; įvykio data: apie 1946 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys yra pirmojo asmens citatos fragmentas, todėl reikia enciklopedinės formuluotės.'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/autoriai/Dalius Žygelis.md#claim-t-40613|Dalius Žygelis]]: Dalius Žygelis buvo kelių tekstų apie 1945–1949 m. Lietuvos partizanų kautynes bendraautoris.
+- susijęs iš [[objektai/autoriai/Ričardas Čekutis.md#claim-t-40672|Ričardas Čekutis]]: Ričardas Čekutis kartu su Daliumi Žygeliu parašė tekstus apie 1945 m. Kiauneliškių, Kalniškės ir Merkinės kautynes.
+- susijęs iš Kalniškės miškas: Kalniškės miškas yra apie 3–4 km pločio ir 8 km ilgio mišrus miškas, kuriame 1945 m. įvyko Kalniškės mūšis.
+- susijęs iš Krosna: Apie kilometrą už Krosnos Lazdijų link buvo Kalniškės miškas, kuriame 1945 m. įvyko Kalniškės mūšis.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -105,9 +124,3 @@ Nenurodyta
     - t-004
     - t-003
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Kūnas]]
-- [[objektai/autoriai/Dalius Žygelis]]
-- [[objektai/autoriai/Ričardas Čekutis]]

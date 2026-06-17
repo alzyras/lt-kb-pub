@@ -27,6 +27,11 @@ Dusburgietis teigia, kad tautavičius A.
 - t-001
   global_id: t-61312
   teiginys: 'A. Tautavičiaus straipsnis „Lietuvių tautos protėviai“ paskelbtas žurnalo „MG“ 1968 m. 8 numeryje.'
+  sudarymo_pagrindimas: 'Citata patvirtina autorių, pavadinimą, leidinį, metus ir numerį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
+  temporaliniai_duomenys: 'įvykio data: 1968 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata patvirtina autorių, pavadinimą, leidinį, metus ir numerį.'
   pagrindžia:
     - c-001
 

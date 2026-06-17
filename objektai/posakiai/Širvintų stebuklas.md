@@ -31,6 +31,7 @@ amziai:
 - t-001
   global_id: t-41478
   teiginys: 'Širvintų pergalė visuomenėje buvo praminta „Širvintų stebuklu“.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Balnas|Balnas]]; mentioned_place: Gardinas; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -38,6 +39,7 @@ amziai:
 - t-002
   global_id: t-41479
   teiginys: 'Balno reidas į Gardino pulko užnugarį visuomenėje buvo pramintas „Širvintų stebuklu“.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Balnas|Balnas]]; mentioned_place: Gardinas; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -60,9 +62,3 @@ amziai:
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Balnas]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]

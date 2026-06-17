@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Krasnyj Gorod tapatinamas su Krasnogorodskoje, esančiu 30 km į šiaurės vakarus nuo Opočkos. Komentare Krasnyj gorod tapatinamas su Krasnogorodskoje. Vytautas per žygį prieš Pskovą paėmė Pskovo miestus Veližą ir Krasnyj Gorod.
+Vytautas paėmė Pskovo miestą Krasnyj Gorod. Komentare Krasnyj gorod tapatinamas su Krasnogorodskoje.
 
 ## Teiginiai
 
@@ -20,6 +20,9 @@ Krasnyj Gorod tapatinamas su Krasnogorodskoje, esančiu 30 km į šiaurės vakar
 - t-001
   global_id: t-187241
   teiginys: 'Krasnyj Gorod tapatinamas su Krasnogorodskoje, esančiu 30 km į šiaurės vakarus nuo Opočkos.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys pilnas, gramatiškas ir paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Opočka; mentioned_place: Pskovas'
   pagrindžia:
     - c-001
 
@@ -27,6 +30,9 @@ Krasnyj Gorod tapatinamas su Krasnogorodskoje, esančiu 30 km į šiaurės vakar
 - t-002
   global_id: t-187242
   teiginys: 'Komentare Krasnyj gorod tapatinamas su Krasnogorodskoje.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys aiškiai perteikia komentaro tapatinimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Krasnogorodskoje; mentioned_place: Opočka; mentioned_place: Pskovas'
   pagrindžia:
     - c-001
 
@@ -34,9 +40,18 @@ Krasnyj Gorod tapatinamas su Krasnogorodskoje, esančiu 30 km į šiaurės vakar
 - t-003
   global_id: t-187587
   teiginys: 'Vytautas per žygį prieš Pskovą paėmė Pskovo miestus Veližą ir Krasnyj Gorod.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys aiškus, faktinis ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Naugardas; mentioned_place: Pinskas; mentioned_place: Porchovas; mentioned_place: Pskovas; mentioned_place: Veližas'
   pagrindžia:
     - c-002
-
+- susijęs iš Krasnogorodskoje: Krasnogorodskoje lokalizuojamas 30 km į šiaurės vakarus nuo Opočkos.
+- susijęs iš Krasnogorodskoje: Krasnyj gorod komentare tapatinamas su Krasnogorodskoje.
+- susijęs iš Opočka: Krasnogorodskoje lokalizuojama 30 km į šiaurės vakarus nuo Opočkos.
+- susijęs iš Opočka: Krasnogorodskoje lokalizuojama į šiaurės vakarus nuo Opočkos.
+- susijęs iš Veližas: Vytautas išsirengė prieš Pskovą ir paėmė Pskovo miestus Veližą bei Krasnyj Gorod.
 ## Reikšmingi paminėjimai
 
 - c-001

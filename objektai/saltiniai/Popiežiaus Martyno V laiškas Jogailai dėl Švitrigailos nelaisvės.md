@@ -27,6 +27,11 @@ amziai:
 - t-001
   global_id: t-88466
   teiginys: 'Popiežiaus Martyno V laiškas Vladislovui Jogailai dėl jo nelaisvės pas Švitrigailą buvo datuotas 1430 m. vasario 27 d.'
+  sudarymo_pagrindimas: 'Citata palaiko laiško adresatą, temą ir datą, o pradiniame teiginyje yra OCR triukšmo.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]'
+  temporaliniai_duomenys: 'įvykio data: 1430 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko laiško adresatą, temą ir datą, o pradiniame teiginyje yra OCR triukšmo.'
   pagrindžia:
     - c-001
 

@@ -40,6 +40,8 @@ Nenurodyta
 - t-001
   global_id: t-09608
   teiginys: 'Benziną padegamiesiems mišiniams, maistą ir statybines medžiagas gynybai tiekė gyventojai, maitinimo įmonės ir statybinės organizacijos.'
+  sudarymo_pagrindimas: 'Sakinys tiksliai apibendrina citatoje išvardytus tiekėjus ir priemones.'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -47,6 +49,8 @@ Nenurodyta
 - t-002
   global_id: t-09609
   teiginys: 'Aukščiausiosios Tarybos gynybos metu Nacionalinėje M. Mažvydo bibliotekoje Raudonasis Kryžius įkūrė pirmosios pagalbos ir medicininio vadovavimo punktą.'
+  sudarymo_pagrindimas: 'Teiginys susietas su gynybos praktika ir išvalytas nuo perteklinių detalių.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Raudonasis Kryžius|Raudonasis Kryžius]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/daiktai/Vaistinės prekės, vaistai ir gydomieji gėrimai|Vaistinės prekės, vaistai ir gydomieji gėrimai]]; mentioned_person: [[objektai/autoriai/Martynas Mažvydas Vaitkūnas|Martynas Mažvydas Vaitkūnas]]; mentioned_place: Aukščiausiosios Tarybos rūmai'
   pagrindžia:
     - c-003
 
@@ -54,6 +58,8 @@ Nenurodyta
 - t-003
   global_id: t-09610
   teiginys: 'Rengiantis Aukščiausiosios Tarybos gynybai jos rūsyje įrengtos ginklų remonto, šovinių ir sprogmenų gamybos dirbtuvės bei šaudykla.'
+  sudarymo_pagrindimas: 'Sakinys aiškiai apibūdina gynybos aprūpinimo praktiką ir yra paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_place: Aukščiausiosios Tarybos rūmai'
   pagrindžia:
     - c-002
 
@@ -107,11 +113,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Ginklai]]
-- [[objektai/daiktai/Kryžius]]
-- [[objektai/autoriai/Martynas Mažvydas Vaitkūnas]]
-- [[objektai/daiktai/Vaistinės prekės, vaistai ir gydomieji gėrimai]]
-- [[objektai/grupes/Raudonasis Kryžius]]

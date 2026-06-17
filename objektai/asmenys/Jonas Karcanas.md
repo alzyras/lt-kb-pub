@@ -30,6 +30,8 @@ Iš lenkiškų ir lotyniškų spaustuvių, be aukščiau paminėtos Radvilų, o 
 - t-001
   global_id: t-87723
   teiginys: 'Apie 1580 metus Jonas Karcanas globojo Vilniuje klestėjusią evangelikų reformatų Danieliaus iš Lenčicos spaustuvę.'
+  sudarymo_pagrindimas: 'Citata remia Jono Karcano ryšį su spaustuvės globa, o pradinis tekstas turi OCR triukšmo.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kaštelionas|kaštelionas]]; mentioned_person: [[objektai/asmenys/Hlebavičius (Vilniaus vaivada ir karaliaus kancleris)|Hlebavičius (Vilniaus vaivada ir karaliaus kancleris)]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Lenčica; mentioned_place: Minskas; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -56,8 +58,3 @@ Iš lenkiškų ir lotyniškų spaustuvių, be aukščiau paminėtos Radvilų, o 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/kaštelionas]]
-- [[objektai/grupes/Evangelikai reformatai Vilniuje]]

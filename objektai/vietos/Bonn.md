@@ -26,9 +26,12 @@ Didelę dalį knygų teko vis pasiskolinti paštu (« Fernleihe ») per Rytų Eu
 - t-001
   global_id: t-32088
   teiginys: 'Bonnos universiteto Rytų Europos istorijos seminaras padėjo autoriui paštu pasiskolinti didelę dalį knygų.'
+  sudarymo_pagrindimas: 'Pradinis tekstas yra padėkos fragmentas su pirmuoju asmeniu; galima suformuluoti aiškų faktą apie Bonną.'
+  susije_objektai: 'mentioned_place: Europa'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/autoriai/H. Useser.md#claim-t-30632|H. Useser]]: H. Useseris nurodytas kaip veikalo „Götternamen“ autorius.
+- susijęs iš Codex Diplomaticus Prussicus: „Codex Diplomaticus Prussicus“ 3-6 tomus, apimančius 1299-1404 m., J. Voigtas išleido Karaliaučiuje 1848-1861 m.
 ## Reikšmingi paminėjimai
 
 - c-001

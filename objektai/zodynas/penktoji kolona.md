@@ -20,6 +20,8 @@ Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia
 - t-001
   global_id: t-22241
   teiginys: 'Prosovietinė organizacija „Jedinstvo“ veikė kaip sovietų penktoji kolona Lietuvoje ir priešinosi nepriklausomybės atkūrimui.'
+  sudarymo_pagrindimas: 'Ilgas sakinys sutrumpintas iki pagrindinio fakto apie sąvoką.'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Maskva'
   pagrindžia:
     - c-001
 
@@ -27,9 +29,15 @@ Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia
 - t-002
   global_id: t-183450
   teiginys: '„Jedinstvo“ veikė kaip sovietų penktoji kolona Lietuvoje, Maskvos nurodymu priešinusis Lietuvos nepriklausomybės atkūrimui.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinį sakinį verta sutrumpinti ir sutelkti į žodyno objekto faktą.'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: SSRS; mentioned_place: Viena'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/grupes/Jedinstvo.md#claim-t-183135|Jedinstvo]]: Prosovietinė organizacija „Jedinstvo“ Maskvos nurodymu priešinosi Lietuvos nepriklausomybės atkūrimui, bet rimtesnės įtakos neturėjo.
+- susijęs iš [[objektai/grupes/Jedinstvo.md#claim-t-65206|Jedinstvo]]: Jedinstvo buvo prosovietinė organizacija, veikusi kaip sovietų penktoji kolona ir Maskvos nurodymu priešinusis Lietuvos nepriklausomybės atkūrimui.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -64,7 +72,3 @@ Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Jedinstvo]]

@@ -28,6 +28,11 @@ amziai:
 - t-001
   global_id: t-88303
   teiginys: 'Dogielio „Codex Diplomaticus“ pateikia 1413 m. vasario 6 d. Vilniuje Jogailos ir Vytauto duotą įgaliojimą deryboms su kryžiuočiais.'
+  sudarymo_pagrindimas: 'OCR triukšmas pašalintas, paliktas šaltinio palaikomas dokumento apibūdinimas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Gniezno; mentioned_place: Lenčica; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1413 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'OCR triukšmas pašalintas, paliktas šaltinio palaikomas dokumento apibūdinimas.'
   pagrindžia:
     - c-001
 

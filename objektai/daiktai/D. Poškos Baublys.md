@@ -9,16 +9,16 @@ date_start: '1812'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XIX'
 tags:
   - daiktas
+amziai:
+  - 'XIX'
 ---
 # D. Poškos Baublys
 
 ## Santrauka
 
-D. Poška savo Baublyje įtaisė senienų muziejų. D. Poškos iš tuščiavidurio ąžuolo padarytos trobelės tebestovėjo Bijotuose prie Skaudvilės.
+D. Poškos Baublys šaltinyje pristatomas kaip senienų muziejui pritaikytas objektas. Papildomai nurodoma, kad 1812 m. iš tuščiavidurio ąžuolo buvo padarytos trys trobelės su muziejėliais, tebestovėjusios Bijotuose.
 
 ## Pavadinimai šaltiniuose
 Nenurodyta
@@ -41,22 +41,30 @@ Jame buvo įtaisytas senienų muziejus.
 Nenurodyta
 
 ## Teiginiai
-- t-004
+
+<a id="claim-t-07520"></a>
+- t-001
+  global_id: t-07520
   teiginys: 'D. Poška savo Baublyje įtaisė senienų muziejų.'
+  sudarymo_pagrindimas: 'Reikia pataisyti vietininką ir pašalinti archajišką formą, faktas citatoje aiškiai pagrįstas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_person: [[objektai/autoriai/D. Poška|D. Poška]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-005
+
+<a id="claim-t-07521"></a>
+- t-002
+  global_id: t-07521
   teiginys: 'D. Poškos iš tuščiavidurio ąžuolo padarytos trobelės tebestovėjo Bijotuose prie Skaudvilės.'
+  sudarymo_pagrindimas: 'Sakinį verta sušiuolaikinti ir pašalinti archajišką formą.'
+  temporaliniai_duomenys: 'įvykio data: 1812 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Sakinį verta sušiuolaikinti ir pašalinti archajišką formą.'
   pagrindžia:
     - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'D. Poška savo Baublyje įtaisė senienų muziejų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kad nebūtų darkoma
@@ -70,15 +78,13 @@ Nenurodyta
     Baubly įtaisė net senienų mu-
     ziejų. Jis taip pat bandė rašyti
     ir Lietuvos istoriją.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-004
+    - t-001
+
 - c-002
-  santrauka: 'D. Poškos iš tuščiavidurio ąžuolo padarytos trobelės tebestovėjo Bijotuose prie Skaudvilės.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Visi to sąjūdžio bajorai, kad ir mylėjo savo kraštą, kad ir
@@ -91,15 +97,8 @@ Nenurodyta
     nei socialinių nei tautinių — idėjų, nes lietuviškasis elementas dar
     nebuvo tiek susipratęs, kad galėtų veržtis iš nusistojusios
     santvarkos formų.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-005
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bajorai]]
-- [[objektai/autoriai/D. Poška]]
+    - t-002

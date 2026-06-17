@@ -29,6 +29,8 @@ Jurgio vėliava puolė į mūšį Ordino riteriai, bet, narsiai lietuvių atremt
 - t-001
   global_id: t-86782
   teiginys: 'Lietuviai narsiai atrėmė Ordino riterių puolimą su šv. Jurgio vėliava ir privertė juos grįžti prie likusių karių.'
+  sudarymo_pagrindimas: 'Nutrūkęs pradžios fragmentas perrašytas į pilną sakinį apie lietuvių kariuomenę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Deglas|Deglas]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]; mentioned_object: [[objektai/daiktai/Šv. Jurgio vėliava|Šv. Jurgio vėliava]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -49,12 +51,3 @@ Jurgio vėliava puolė į mūšį Ordino riteriai, bet, narsiai lietuvių atremt
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Deglas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/vėliava]]
-- [[objektai/daiktai/Šv. Jurgio vėliava]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/ivykiai/Vilniaus mūšis prie Vingrių tilto ir miesto gaisras (1383 m.)]]

@@ -21,6 +21,8 @@ Virgoličiaus pajėgos turėjo užimti Lietuvą.
 - t-001
   global_id: t-80741
   teiginys: 'Pulkininko P. Virgoličiaus pajėgos turėjo užimti Lietuvą.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nurodo P. Virgoličiaus pajėgų tikslą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Virgoličius|Virgoličius]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -44,8 +46,3 @@ Virgoličiaus pajėgos turėjo užimti Lietuvą.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Rusai]]
-- [[objektai/asmenys/Virgoličius]]

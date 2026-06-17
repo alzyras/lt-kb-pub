@@ -46,6 +46,12 @@ Nenurodyta
 - t-001
   global_id: t-62211
   teiginys: '1302 m. prasidėjo popiežiaus Bonifaco VIII ir Prancūzijos karaliaus Pilypo IV nesantarvė dėl Prancūzijos pavaldumo apaštališkajam sostui.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pašalinta šaltinio įžanga ir suformuluotas aiškus konflikto pagrindas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/reskriptas|reskriptas]]; mentioned_place: Prancūzija'
+  temporaliniai_duomenys: 'įvykio data: 1302 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalinta šaltinio įžanga ir suformuluotas aiškus konflikto pagrindas.'
   pagrindžia:
     - c-001
 
@@ -70,9 +76,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/reskriptas]]
-- [[objektai/asmenys/Bonifacas VIII|Bonifacas VIII (arkivyskupas, XIII–XIV a.)]]
-- [[objektai/zodynas/bulė]]

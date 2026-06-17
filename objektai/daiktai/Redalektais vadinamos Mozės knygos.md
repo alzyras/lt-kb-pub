@@ -40,6 +40,8 @@ Nenurodyta
 - t-001
   global_id: t-87117
   teiginys: 'Žydams buvo leidžiama prisiekti redalektais vadinamomis Mozės knygomis tik didelėse arba valdovo asmens iškeltose bylose.'
+  sudarymo_pagrindimas: 'Citata palaiko taisyklę, bet pradinė formuluotė per ilga ir turi OCR triukšmo.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]'
   pagrindžia:
     - c-001
 
@@ -66,10 +68,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/socialinė-praktika]]
-
-### Susiję objektai
-- [[objektai/grupes/Žydai]]

@@ -20,6 +20,7 @@ p. 251, Sausio 13-osios dienos brolijos (organizacijos, vienijančios Sausio įv
 - t-001
   global_id: t-41145
   teiginys: 'Sausio 13-osios dienos brolija vienijo Sausio įvykių dalyvius.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/autoriai/Karolis Zikaras|Karolis Zikaras]]'
   pagrindžia:
     - c-001
 
@@ -35,9 +36,3 @@ p. 251, Sausio 13-osios dienos brolijos (organizacijos, vienijančios Sausio įv
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/Karolis Zikaras]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/daiktai/Sausio 13-osios dienos brolijos ženklelis]]

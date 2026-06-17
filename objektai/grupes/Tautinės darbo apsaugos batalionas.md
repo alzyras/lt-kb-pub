@@ -3,6 +3,10 @@ tipas: grupe
 pavadinimas: 'Tautinės darbo apsaugos batalionas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1941 m.'
+date_start: '1941'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -10,12 +14,14 @@ tags:
   - grupe
   - karas
   - tauta
+amziai:
+  - 'XX'
 ---
 # Tautinės darbo apsaugos batalionas
 
 ## Santrauka
 
-1941 m. birželio 28 d. paleidus sukilėlių būrius, iš savanorių prie Kauno karo komendantūros suformuotas TDA batalionas. Birželio 28 d. prie Kauno karo komendantūros iš savanorių buvo suformuotas Tautinės darbo apsaugos batalionas.
+Ginkluoti partizanai nekėlė pasitikėjimo vokiečiams, todėl birželio 28-ąją sukilėlių būriai paleisti, o iš savanorių suformuotas Tautinės darbo apsaugos (TDA) batalionas prie Kauno karo komendantūros.
 
 ## Teiginiai
 
@@ -23,6 +29,11 @@ tags:
 - t-001
   global_id: t-20039
   teiginys: '1941 m. birželio 28 d. paleidus sukilėlių būrius, iš savanorių prie Kauno karo komendantūros suformuotas TDA batalionas.'
+  sudarymo_pagrindimas: 'Perrašyta glaustai ir tiesiogiai apie Tautinės darbo apsaugos batalioną.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/komendantūra|komendantūra]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Kaunas'
+  temporaliniai_duomenys: 'įvykio data: 1941 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Perrašyta glaustai ir tiesiogiai apie Tautinės darbo apsaugos batalioną.'
   pagrindžia:
     - c-001
 
@@ -30,6 +41,11 @@ tags:
 - t-002
   global_id: t-183187
   teiginys: 'Birželio 28 d. prie Kauno karo komendantūros iš savanorių buvo suformuotas Tautinės darbo apsaugos batalionas.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata nepateikia metų, todėl teiginys perrašytas nepridedant nepagrįstos datos dalies.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/komendantūra|komendantūra]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/zonderkomanda|zonderkomanda]]; mentioned_place: Kaunas; mentioned_place: Viena'
   pagrindžia:
     - c-002
 
@@ -75,12 +91,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/komendantūra]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/zonderkomanda]]
-- [[objektai/grupes/Žydai]]
-- [[objektai/ivykiai/Žydų žudynės Kauno VII forte (1941 m. liepos 4 ir 6 d.)]]

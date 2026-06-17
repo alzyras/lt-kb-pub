@@ -22,6 +22,7 @@ S. Podobaila išsirinko vietą tarp Dniepro ir Sožos žiočių, apsuptą neprae
 - t-001
   global_id: t-42163
   teiginys: 'S. Podobaila pasirinko gynybinę vietą tarp Dniepro ir Sožos žiočių, apsuptą pelkių, griovių ir pylimų.'
+  susije_objektai: 'mentioned_place: Dniepras; mentioned_place: Lojevas'
   pagrindžia:
     - c-001
 

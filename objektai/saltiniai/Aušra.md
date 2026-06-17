@@ -8,17 +8,19 @@ datos:
   - '1851 m.'
   - '1858 m.'
   - '1883 m.'
+  - '1889 m.'
+  - '1890 m.'
   - '1899 m.'
   - '2026 m.'
 date_start: '1851'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - saltinis
 amziai:
   - 'XIX'
   - 'XXI'
-tags:
-  - saltinis
 ---
 # Aušra
 
@@ -27,10 +29,16 @@ tags:
 1883 m. pirmajame „Aušros“ numeryje J. Basanavičius pradėjo savo žinomą istorinę prakalbą.
 
 ## Teiginiai
+
 <a id="claim-t-179569"></a>
 - t-001
   global_id: t-179569
   teiginys: 'Pirmajame „Aušros“ numeryje 1883 m. Jonas Basanavičius pradėjo istorinę prakalbą išverstu lotynišku humanistų posakiu.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nepagrįstas citata, tačiau citata leidžia suformuluoti siauresnį faktą.'
+  susije_objektai: 'mentioned_object: [[objektai/autoriai/Jonas Basanavičius|Jonas Basanavičius]]; mentioned_object: [[objektai/zodynas/tautinis atgimimas|tautinis atgimimas]]; mentioned_object: [[objektai/posakiai/Žmonės nusidavimų (istorijos) nepažįstantieji vis yra vaikai|Žmonės nusidavimų (istorijos) nepažįstantieji vis yra vaikai]]; mentioned_person: [[objektai/asmenys/J. Basanavičius|J. Basanavičius]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/autoriai/Kantas|Kantas]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1883 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys nepagrįstas citata, tačiau citata leidžia suformuluoti siauresnį faktą.'
   pagrindžia:
     - c-001
 
@@ -38,6 +46,9 @@ tags:
 - t-002
   global_id: t-179570
   teiginys: 'Grupė inteligentų 1883 m. Rytprūsiuose pradėjo leisti pirmąjį Didžiajai Lietuvai skirtą periodinį leidinį lietuvių kalba ir tradiciniu raidynu – mėnraštį „Aušra“ („Auszra“).'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/autoriai/Jonas Basanavičius|Jonas Basanavičius]]; mentioned_object: [[objektai/zodynas/tautinis atgimimas|tautinis atgimimas]]; mentioned_object: [[objektai/posakiai/Žmonės nusidavimų (istorijos) nepažįstantieji vis yra vaikai|Žmonės nusidavimų (istorijos) nepažįstantieji vis yra vaikai]]; mentioned_person: [[objektai/asmenys/J. Basanavičius|J. Basanavičius]]; mentioned_person: [[objektai/autoriai/Kantas|Kantas]]; mentioned_place: Lietuva; mentioned_place: Rytprūsiai'
+  temporaliniai_duomenys: 'įvykio data: 1883 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -45,10 +56,19 @@ tags:
 - t-003
   global_id: t-183357
   teiginys: 'Po trejų metų „Aušra“ dėl idėjinių nesutarimų ir finansinių sunkumų sustojo ėjusi, bet paskatino naujus lietuviškus periodinius leidinius.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir gremėzdiškas, todėl sutrumpintas išlaikant citatos faktus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/autoriai/Vincas Kudirka|Vincas Kudirka]]; mentioned_place: Varšuva'
+  temporaliniai_duomenys: 'įvykio data: 1889 m.; įvykio data: 1889-1890; įvykio data: 1890 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys per ilgas ir gremėzdiškas, todėl sutrumpintas išlaikant citatos faktus.'
   pagrindžia:
     - c-002
 
-## Bibliografiniai įrodymai
+## Reikšmingi paminėjimai
+
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -66,6 +86,7 @@ tags:
   pagrindžia:
     - t-001
     - t-002
+
 - c-002
   santrauka: 'Po trejų metų „Aušra“ dėl idėjinių nesutarimų ir finansinių sunkumų sustojo ėjusi, bet paskatino naujus lietuviškus periodinius leidinius.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

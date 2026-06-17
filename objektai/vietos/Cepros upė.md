@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Cepros upė'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
 atnaujinta: ''
 ---
@@ -18,6 +19,11 @@ Bėgdami iš mūšio lauko, daug skitų įklimpo į Cepros upės dumblą ir ten 
 - t-001
   global_id: t-185283
   teiginys: 'Bėgdami iš mūšio lauko, daug skitų įklimpo į Cepros upės dumblą ir ten žuvo.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pašalinta vaizdinga perteklinė formuluotė, paliktas citata paremtas faktas apie Cepros upę.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/skitai|skitai]]; mentioned_place: Cepra'
   pagrindžia:
     - c-001
 

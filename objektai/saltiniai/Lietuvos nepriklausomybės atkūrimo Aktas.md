@@ -3,18 +3,25 @@ tipas: saltinis
 pavadinimas: 'Lietuvos nepriklausomybės atkūrimo Aktas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1918 m.'
+  - '1940 m.'
+date_start: '1918'
+date_end: '1940'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
   - tauta
   - valstybė
+amziai:
+  - 'XX'
 ---
 # Lietuvos nepriklausomybės atkūrimo Aktas
 
 ## Santrauka
 
-SSRS vadovybė su Michailu Gorbačiovu priešakyje reikalavo atšaukti Kovo 11 Aktą. Kovo 11 Aktu buvo atkurtas 1940 m. panaikintas Lietuvos valstybės suverenių galių vykdymas, ir Lietuva vėl paskelbta nepriklausoma valstybe. SSRS vadovybė su Michailu Gorbačiovu priešakyje reikalavo atšaukti Kovo 11 Aktą.
+Kovo 11 Aktas savo dvasia artimas Lietuvos Tarybos 1918 m. paskelbtam Vasario 16 Aktui, tačiau nebesirėmė visuotinai pripažinta tautų apsisprendimo teise (politiniu požiūriu tautų apsisprendimo teisės deklaravimas buvo pavojingas dėl Maskvos užmačių. Apie Lietuvos nepriklausomybę nieko nenorėjo girdėti SSRS vadovybė su M.
 
 ## Teiginiai
 
@@ -22,6 +29,8 @@ SSRS vadovybė su Michailu Gorbačiovu priešakyje reikalavo atšaukti Kovo 11 A
 - t-001
   global_id: t-75482
   teiginys: 'SSRS vadovybė su Michailu Gorbačiovu priešakyje reikalavo atšaukti Kovo 11 Aktą.'
+  sudarymo_pagrindimas: 'Teiginys yra savarankiškas faktinis sakinys ir atitinka citatą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: SSRS'
   pagrindžia:
     - c-002
 
@@ -29,6 +38,11 @@ SSRS vadovybė su Michailu Gorbačiovu priešakyje reikalavo atšaukti Kovo 11 A
 - t-002
   global_id: t-75483
   teiginys: 'Kovo 11 Aktu buvo atkurtas 1940 m. panaikintas Lietuvos valstybės suverenių galių vykdymas, ir Lietuva vėl paskelbta nepriklausoma valstybe.'
+  sudarymo_pagrindimas: 'Citata leidžia suformuluoti tikslesnį ir aiškesnį sakinį apie Akto turinį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: SSRS'
+  temporaliniai_duomenys: 'įvykio data: 1918 m.; įvykio data: 1940 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata leidžia suformuluoti tikslesnį ir aiškesnį sakinį apie Akto turinį.'
   pagrindžia:
     - c-001
 

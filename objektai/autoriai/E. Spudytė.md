@@ -30,6 +30,11 @@ Spudytė.
 - t-001
   global_id: t-78082
   teiginys: 'E. Spudytė sudarė 2007 m. Vilniuje išleistą leidinį „Žemaičių muziejus Alka“.'
+  sudarymo_pagrindimas: 'Citata leidžia suformuluoti faktą apie E. Spudytės sudarytą leidinį.'
+  susije_objektai: 'mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 2007 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata leidžia suformuluoti faktą apie E. Spudytės sudarytą leidinį.'
   pagrindžia:
     - c-001
 

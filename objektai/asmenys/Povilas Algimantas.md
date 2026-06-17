@@ -32,6 +32,11 @@ Povilas Algimantas, Alšėnų kunigaikštis, paskutinysis iš savo giminės, pir
 - t-001
   global_id: t-87835
   teiginys: 'Povilas Algimantas buvo Alšėnų kunigaikštis, nuo 1536 m. Vilniaus vyskupas ir mirė 1553 metais.'
+  sudarymo_pagrindimas: 'Teiginys gramatiškai ir tiksliai perteikia citatoje nurodytą asmens titulą, pareigas ir mirties metus.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Alšėnai; mentioned_place: Lietuva; mentioned_place: Poznanė; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'valdymo laikotarpis: po 1536 m.; valdymo laikotarpis: 1536 m.; valdymo laikotarpis: 1538 m.; valdymo laikotarpis: 1553 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip valdymo laikotarpis su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „valdymo laikotarpis“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys gramatiškai ir tiksliai perteikia citatoje nurodytą asmens titulą, pareigas ir mirties metus.'
   pagrindžia:
     - c-001
 
@@ -54,8 +59,3 @@ Povilas Algimantas, Alšėnų kunigaikštis, paskutinysis iš savo giminės, pir
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Jonas]]
-- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]

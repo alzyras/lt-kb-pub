@@ -11,6 +11,9 @@ const markdown = `# Objektas
   sudarymo_pagrindimas: Teiginys performuluotas taip, kad aiškiai įvardytų subjektą ir kontekstą.
   susije_objektai: subject: [[objektai/asmenys/Vytautas|Vytautas]]; location: [[objektai/vietos/Trakai|Trakai]]
   semantiniai_rysiai: [[objektai/asmenys/Vytautas|Vytautas]] valdė teritoriją [[objektai/vietos/Trakai|Trakai]]
+  temporaliniai_duomenys: valdymo laikotarpis: 1392-1430
+  temporalinis_paaiskinimas: Ši data taikoma Vytauto valdymui, o ne visam jo gyvenimui.
+  temporalinis_llm_pakomentavimas: LLM pažymėjo, kad citata aiškiai nurodo valdymo laikotarpį.
   pagrindžia:
     - c-001
 
@@ -37,6 +40,9 @@ describe("AdvancedEvidence transformer", () => {
     assert.match(transformed, /sudarymo_pagrindimas/)
     assert.match(transformed, /susije_objektai/)
     assert.match(transformed, /semantiniai_rysiai/)
+    assert.match(transformed, /temporaliniai_duomenys/)
+    assert.match(transformed, /temporalinis_paaiskinimas/)
+    assert.match(transformed, /temporalinis_llm_pakomentavimas/)
     assert.match(transformed, /aiškiai įvardytų subjektą ir kontekstą/)
     assert.doesNotMatch(transformed, /global_id: t-00042/)
     assert.match(transformed, /data-citation-entry="true"/)

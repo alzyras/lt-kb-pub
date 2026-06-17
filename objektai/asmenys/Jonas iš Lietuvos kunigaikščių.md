@@ -23,6 +23,8 @@ Be to, sinodas kuo įsakmiausiai įsako vi­ siems klebonams miestuose ir kai­ 
 - t-001
   global_id: t-87431
   teiginys: 'Jonas iš Lietuvos kunigaikščių, Vilniaus vyskupas, patvirtino Vilniaus diecezijos nuostatus.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nepakankamai susietas su asmeniu; citata remia jo vaidmenį patvirtinant nuostatus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/diecezija|diecezija]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -59,8 +61,3 @@ Be to, sinodas kuo įsakmiausiai įsako vi­ siems klebonams miestuose ir kai­ 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/diecezija]]

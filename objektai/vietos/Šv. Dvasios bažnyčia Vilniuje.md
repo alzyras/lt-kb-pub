@@ -14,7 +14,7 @@ tags:
 
 ## Santrauka
 
-Šv. Dvasios bažnyčios kapinių vartai buvo priešais įėjimą į prieglaudos namus. Šventosios Trejybės prieglaudai plėsti ketinta supirkti Šv. Dvasios bažnyčios namelius ir du namelius priešais bažnyčią. Hozijus buvo įpareigotas prie dominikonų Šv. Dvasios bažnyčios pastatyti ir išlaikyti viešą špitolę.
+Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją išlaikyti, priežiūrai vado­ vaujant Vilniaus vyskupui18. Dva­ sios [bažnyčios] namelius, stovinčius žemiau Šventosios Trejybės bažnyčios, ties Merkelio Savickio namu nuo to, ku­ ris tik tuo metu turės, taip pat ir du kitus namelius viršuje už prieglaudos, ten pat, priešais Šv. Dvasios vienuolyno tėvais reikalai taip susi­ klostė, kad apžiūrėjo tinkamą vietą, kurioje prieglaudą ir ki­ tus pagalbinius jos pastatus būtų galima patogiai pastatyti.
 
 ## Teiginiai
 
@@ -22,6 +22,8 @@ tags:
 - t-001
   global_id: t-86054
   teiginys: 'Šv. Dvasios bažnyčios kapinių vartai buvo priešais įėjimą į prieglaudos namus.'
+  sudarymo_pagrindimas: 'Pirminis teiginys daugiausia apie prieglaudos sklypą, todėl suformuluotas faktas apie bažnyčios aplinką.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -29,6 +31,8 @@ tags:
 - t-002
   global_id: t-86055
   teiginys: 'Šventosios Trejybės prieglaudai plėsti ketinta supirkti Šv. Dvasios bažnyčios namelius ir du namelius priešais bažnyčią.'
+  sudarymo_pagrindimas: 'Fragmentas perrašytas į pilną sakinį, remiantis citata.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]'
   pagrindžia:
     - c-003
 
@@ -36,6 +40,8 @@ tags:
 - t-003
   global_id: t-86056
   teiginys: 'Hozijus buvo įpareigotas prie dominikonų Šv. Dvasios bažnyčios pastatyti ir išlaikyti viešą špitolę.'
+  sudarymo_pagrindimas: 'Vardas Ulrikas citatoje nepateiktas, todėl pašalintas nepagrįstas patikslinimas.'
+  susije_objektai: 'mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 

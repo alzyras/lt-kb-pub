@@ -28,6 +28,11 @@ Dusburgietis teigia, kad kołzebue A.
 - t-001
   global_id: t-60845
   teiginys: 'Kołzebue A. 1808 m. Rygoje išleido antrąjį veikalo „Preußens ältere Geschichte“ tomą.'
+  sudarymo_pagrindimas: 'Citata nurodo autorių, veikalo tomą, leidimo vietą ir metus.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
+  temporaliniai_duomenys: 'įvykio data: 1808 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata nurodo autorių, veikalo tomą, leidimo vietą ir metus.'
   pagrindžia:
     - c-001
 

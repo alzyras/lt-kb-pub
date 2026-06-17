@@ -38,6 +38,8 @@ Nenurodyta
 - t-001
   global_id: t-08342
   teiginys: 'Ubladėje buvo duonkepis kakalys, kuriame kepdavo duoną, pyragus, žuvis ir mėsas.'
+  teiginio_tipas: 'faktas'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Duona|Duona]]'
   pagrindžia:
     - c-001
 
@@ -45,6 +47,7 @@ Nenurodyta
 - t-002
   global_id: t-08343
   teiginys: 'Šalip ubladės buvo kamarėlė, kurioje laikydavo miltų ruošimo įrankius ir pačius miltus.'
+  teiginio_tipas: 'faktas'
   pagrindžia:
     - c-002
 
@@ -75,7 +78,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Duona]]

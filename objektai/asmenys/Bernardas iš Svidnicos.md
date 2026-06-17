@@ -30,6 +30,12 @@ Atskirus pulkus vedė: Silezijos kunigaikštis Bernardas iš Svidnicos, grafas G
 - t-001
   global_id: t-87633
   teiginys: '1322 m. žiemą Silezijos kunigaikštis Bernardas iš Svidnicos vedė atskirą kryžiuočių ekspedicijos į Prūsiją pulką.'
+  sudarymo_pagrindimas: 'Pradinis tekstas yra sąrašo fragmentas; perrašyta į sakinį apie Bernardą.'
+  susije_objektai: 'territory: Prūsija; territory: Reinas; territory: Silezija; territory: Čekija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Bernardas|Bernardas]]; mentioned_person: [[objektai/asmenys/Plihta|Plihta]]; mentioned_place: Prūsija; mentioned_place: Reinas; mentioned_place: Silezija; mentioned_place: Čekija'
+  semantiniai_rysiai: '[[objektai/asmenys/Bernardas iš Svidnicos|Bernardas iš Svidnicos]] buvo valdovas Prūsija; [[objektai/asmenys/Bernardas iš Svidnicos|Bernardas iš Svidnicos]] buvo valdovas Reinas; [[objektai/asmenys/Bernardas iš Svidnicos|Bernardas iš Svidnicos]] buvo valdovas Silezija; [[objektai/asmenys/Bernardas iš Svidnicos|Bernardas iš Svidnicos]] buvo valdovas Čekija'
+  temporaliniai_duomenys: 'valdymo laikotarpis: 1322 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Bernardas iš Svidnicos buvo valdovas Prūsija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Bernardas iš Svidnicos buvo valdovas Reinas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Bernardas iš Svidnicos buvo valdovas Silezija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Bernardas iš Svidnicos buvo valdovas Čekija“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis tekstas yra sąrašo fragmentas; perrašyta į sakinį apie Bernardą.'
   pagrindžia:
     - c-001
 
@@ -54,5 +60,7 @@ Atskirus pulkus vedė: Silezijos kunigaikštis Bernardas iš Svidnicos, grafas G
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
+- Bernardas iš Svidnicos buvo_valdovas [[objektai/vietos/Prūsija]]
+- Bernardas iš Svidnicos buvo_valdovas [[objektai/vietos/Reinas]]
+- Bernardas iš Svidnicos buvo_valdovas [[objektai/vietos/Silezija]]
+- Bernardas iš Svidnicos buvo_valdovas [[objektai/vietos/Čekija]]

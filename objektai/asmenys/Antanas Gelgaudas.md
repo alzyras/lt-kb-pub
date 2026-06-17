@@ -4,11 +4,19 @@ pavadinimas: 'Antanas Gelgaudas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+datos:
+  - '1831 m.'
+date_start: '1831'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - karalius
+amziai:
+  - 'XIX'
+periodo_grupes:
+  - 'naujieji laikai'
 ---
 # Antanas Gelgaudas
 
@@ -22,6 +30,9 @@ karių, kuriai vadovavo generolas Antanas Gelgaudas.
 - t-001
   global_id: t-63475
   teiginys: 'Antanas Gelgaudas vadovavo 1831 m. birželį į Lietuvą pasiųstai reguliariajai Lenkijos karalystės kariuomenei.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1831 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -29,6 +40,8 @@ karių, kuriai vadovavo generolas Antanas Gelgaudas.
 - t-002
   global_id: t-63476
   teiginys: 'Antanas Gelgaudas, palikęs štabą, pats dalyvavo mūšyje.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nurodo Antano Gelgaudo veiksmą mūšyje.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]'
   pagrindžia:
     - c-003
 
@@ -36,6 +49,8 @@ karių, kuriai vadovavo generolas Antanas Gelgaudas.
 - t-003
   global_id: t-63477
   teiginys: 'Jungtinei sukilėlių kariuomenei vadovavo generolas Antanas Gelgaudas.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Antano Gelgaudo vadovavimą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -94,8 +109,3 @@ karių, kuriai vadovavo generolas Antanas Gelgaudas.
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Artilerija]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

@@ -3,16 +3,22 @@ tipas: daiktas
 pavadinimas: 'Marmurinė antkapinė lenta'
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
+datos:
+  - '1263 m.'
+date_start: '1263'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
+amziai:
+  - 'XIII'
 ---
 # Marmurinė antkapinė lenta
 
 ## Santrauka
 
-Iki XVII a. pradžios Agluonos vienuolyne buvo marmurinė antkapinė lenta su užrašu apie Mindaugo nužudymo vietos tradiciją.
+Komentare nurodoma, kad komentare teigiama, kad iki XVII a. pradžios Agluonos vienuolyne buvusi marmurinė antkapinė lenta su atitinkamu užrašu; Marmurinė antkapinė lenta minima kaip materialus Mindaugo nužudymo vietos tradicijos ženklas.
 
 ## Pavadinimai šaltiniuose
 
@@ -40,6 +46,12 @@ Nenurodyta
 - t-001
   global_id: t-186857
   teiginys: 'Iki XVII a. pradžios Agluonos vienuolyne buvo marmurinė antkapinė lenta su užrašu apie Mindaugo nužudymo vietos tradiciją.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas, glaustas ir tiksliai paremtas komentaro informacija.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]'
+  temporaliniai_duomenys: 'įvykio data: 1263 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas, glaustas ir tiksliai paremtas komentaro informacija.'
   pagrindžia:
     - c-001
 
@@ -59,7 +71,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]

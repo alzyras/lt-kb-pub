@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Didžiųjų magistrų jaunesniojoje kronikoje rašoma, kad pagonys pasiuntė lietuvius Prerochą ir Corantą. Vėlesnėje didžiojo magistro kronikoje Skomantas vadinamas lietuvių vadu. Naujojoje didžiojo magistro kronikoje minima pilis patikslinama kaip Cenauwe.
+Dusburgietis teigia, kad didžiųjų magistrų jaunesniojoje kronikoje rašoma, kad pagonys pasiuntė lietuvius Preroch ir Corant (Lettouwen Preroch ende Corant — SRP, 5, p. 67) arba tris pasiuntinius, kurių vardai: Lettouwe, Preroch, Corant. Dusburgietis teigia, kad 412 Naujoji didžiojo magistro kronika patikslina: tai pilis Cenauwe (SRP, 5, p. 100), kitur — Connuvedit (GAO, p. 70; Hennenberger C., Erclerung.., p. 43; VBK; Ewald A. Dusburgietis teigia, kad vėlesnėje didžiojo magistro kronikoje Skomantas vadinamas lietuvių vadu (der Letouwen hoiftman — SRP, 5, p. 110).
 
 ## Teiginiai
 
@@ -29,6 +29,11 @@ Didžiųjų magistrų jaunesniojoje kronikoje rašoma, kad pagonys pasiuntė lie
 - t-001
   global_id: t-60950
   teiginys: 'Didžiųjų magistrų jaunesniojoje kronikoje rašoma, kad pagonys pasiuntė lietuvius Prerochą ir Corantą.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie šaltinį ir atitinka citatos turinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/pagonys|pagonys]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Mazovija; mentioned_place: Prūsai'
+  temporaliniai_duomenys: 'įvykio data: 1217 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie šaltinį ir atitinka citatos turinį.'
   pagrindžia:
     - c-002
 
@@ -36,6 +41,8 @@ Didžiųjų magistrų jaunesniojoje kronikoje rašoma, kad pagonys pasiuntė lie
 - t-002
   global_id: t-60951
   teiginys: 'Vėlesnėje didžiojo magistro kronikoje Skomantas vadinamas lietuvių vadu.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Skomantas|Skomantas]]; mentioned_place: Gardinas; mentioned_place: Naugardukas'
   pagrindžia:
     - c-003
 
@@ -43,6 +50,8 @@ Didžiųjų magistrų jaunesniojoje kronikoje rašoma, kad pagonys pasiuntė lie
 - t-003
   global_id: t-60952
   teiginys: 'Naujojoje didžiojo magistro kronikoje minima pilis patikslinama kaip Cenauwe.'
+  sudarymo_pagrindimas: 'Pašalintas puslapio numeris ir glaudžiau suformuluota citatos paremta mintis.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]'
   pagrindžia:
     - c-001
 

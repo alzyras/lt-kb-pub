@@ -46,6 +46,11 @@ Nenurodyta
 - t-001
   global_id: t-39285
   teiginys: 'AVS-36 buvo 1936 m. pavyzdžio Simonovo automatinis šautuvas, naudojęs 7,62x54 mm R šovinius ir 15 šovinių dėtuvę.'
+  sudarymo_pagrindimas: 'Pradinis sakinys daugiausia kartoja pavadinimą; citata pagrindžia informatyvesnį faktinį teiginį.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Sovietų automatinis (pusiau automatinis) šautuvas SVT-40|Sovietų automatinis (pusiau automatinis) šautuvas SVT-40]]'
+  temporaliniai_duomenys: 'įvykio data: 1936 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis sakinys daugiausia kartoja pavadinimą; citata pagrindžia informatyvesnį faktinį teiginį.'
   pagrindžia:
     - c-001
 
@@ -62,7 +67,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Sovietų automatinis (pusiau automatinis) šautuvas SVT-40]]

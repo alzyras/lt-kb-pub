@@ -20,6 +20,8 @@ Liepos 3 dieną priimtas Lietuvos kariuomenės pertvarkymo įstatymas, ji tapo L
 - t-001
   global_id: t-21170
   teiginys: 'Liepos 3 d. priimtu Lietuvos kariuomenės pertvarkymo įstatymu kariuomenė tapo Liaudies kariuomene.'
+  sudarymo_pagrindimas: 'Teiginys pagrįstas, bet sutrumpintas ir pataisyta gramatika.'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: SSRS; mentioned_place: Švedija; mentioned_place: Šveicarija'
   pagrindžia:
     - c-001
 
@@ -27,6 +29,11 @@ Liepos 3 dieną priimtas Lietuvos kariuomenės pertvarkymo įstatymas, ji tapo L
 - t-002
   global_id: t-183371
   teiginys: 'Liepos 3 d. priimtu Lietuvos kariuomenės pertvarkymo įstatymu Lietuvos kariuomenė tapo Liaudies kariuomene.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Perrašyta pašalinant dviprasmį įvardį ir paliekant aiškų faktą apie įstatymo rezultatą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: SSRS'
   pagrindžia:
     - c-002
 

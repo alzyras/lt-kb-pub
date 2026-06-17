@@ -20,6 +20,7 @@ Vžesnievskis, S.
 - t-001
   global_id: t-40094
   teiginys: 'E. Vžesnievskis buvo paskirtas bataliono vadu.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/M. Stanišauskas|M. Stanišauskas]]'
   pagrindžia:
     - c-001
 

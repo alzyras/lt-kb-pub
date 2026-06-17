@@ -29,6 +29,7 @@ Vartojamos formos: `vyrgalve`, `vyrgulda`, `vyrišką galvą`.
 - t-001
   global_id: t-07711
   teiginys: 'Vyrgalvė buvo mokesnis už vyrišką galvą, nes senovėje vyro galva laikyta vertesne už moters.'
+  sudarymo_pagrindimas: 'Teiginys sustiprintas aiškiu citatos paremtu predikatu.'
   pagrindžia:
     - c-001
 

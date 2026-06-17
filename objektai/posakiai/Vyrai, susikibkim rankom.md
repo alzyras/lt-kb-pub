@@ -3,10 +3,6 @@ tipas: posakis
 pavadinimas: 'Vyrai, susikibkim rankom'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-aliases:
-  - 'objektai/posakiai/Vyrai, susikibkim rankom ir sudarykim grandinę, kad ir šaudys, visų neiššaudys!'
-variantai:
-  - 'Vyrai, susikibkim rankom ir sudarykim grandinę, kad ir šaudys, visų neiššaudys!'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -16,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Kai bokšto gynėjų buvo gerokai mažiau, žmonės sušuko: „Vyrai, susikibkim rankom ir sudarykim grandinę, kad ir šaudys, visų neiššaudys!“.
+Ši formuluotė yra Sausio 13-osios gynėjų mobilizuojantis šūksnis, raginantis kūnais užtverti kelią tankams.
 
 ## Forma
 
@@ -32,6 +28,7 @@ Kai bokšto gynėjų buvo gerokai mažiau, žmonės sušuko: „Vyrai, susikibki
 - t-001
   global_id: t-09681
   teiginys: 'Kai bokšto gynėjų buvo gerokai mažiau, žmonės sušuko: „Vyrai, susikibkim rankom ir sudarykim grandinę, kad ir šaudys, visų neiššaudys!“.'
+  sudarymo_pagrindimas: 'Reikia pilno sakinio su aiškesne atrama citatai ir baigiamuoju skyrybos ženklu.'
   pagrindžia:
     - c-001
 

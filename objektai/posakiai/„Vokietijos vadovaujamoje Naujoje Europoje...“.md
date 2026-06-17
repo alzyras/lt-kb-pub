@@ -3,17 +3,24 @@ tipas: posakis
 pavadinimas: '„Vokietijos vadovaujamoje Naujoje Europoje...“'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1940 m.'
+  - '1941 m.'
+date_start: '1940'
+date_end: '1941'
 sukurta: ''
 atnaujinta: ''
 tags:
   - posakis
   - tauta
+amziai:
+  - 'XX'
 ---
 # „Vokietijos vadovaujamoje Naujoje Europoje...“
 
 ## Santrauka
 
-LAF vadovybė manė, kad Vokietijos vadovaujamoje Naujoje Europoje tautoms bus suteikta teisė tvarkytis savo nuožiūra. LAF vadovybė tikėjo, kad Vokietijos vadovaujamoje Naujoje Europoje tautoms bus leista tvarkytis pačioms.
+LAF vadovybė pernelyg pasitikėjo nacių Vokietija – manyta, jog „Vokietijos vadovaujamoje Naujoje Europoje bus suteikta visoms tautoms teisė tvarkytis pas save, kaip nori“.
 
 ## Teiginiai
 
@@ -21,6 +28,8 @@ LAF vadovybė manė, kad Vokietijos vadovaujamoje Naujoje Europoje tautoms bus s
 - t-001
   global_id: t-75624
   teiginys: 'LAF vadovybė manė, kad Vokietijos vadovaujamoje Naujoje Europoje tautoms bus suteikta teisė tvarkytis savo nuožiūra.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Nacių Vokietija|Nacių Vokietija]]; mentioned_person: [[objektai/asmenys/K. Škirpa|K. Škirpa]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Vokietija'
   pagrindžia:
     - c-001
 
@@ -28,6 +37,11 @@ LAF vadovybė manė, kad Vokietijos vadovaujamoje Naujoje Europoje tautoms bus s
 - t-002
   global_id: t-75625
   teiginys: 'LAF vadovybė tikėjo, kad Vokietijos vadovaujamoje Naujoje Europoje tautoms bus leista tvarkytis pačioms.'
+  sudarymo_pagrindimas: 'Pašalintas OCR ir puslapio triukšmas, paliktas citatos palaikomas faktas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvių aktyvistų frontas|Lietuvių aktyvistų frontas]]; mentioned_group: [[objektai/grupes/Nacių Vokietija|Nacių Vokietija]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Berlynas; mentioned_place: Europa; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: SSRS; mentioned_place: Vokietija'
+  temporaliniai_duomenys: 'įvykio data: 1940 m.; įvykio data: 1941 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas OCR ir puslapio triukšmas, paliktas citatos palaikomas faktas.'
   pagrindžia:
     - c-002
 
@@ -82,12 +96,3 @@ LAF vadovybė manė, kad Vokietijos vadovaujamoje Naujoje Europoje tautoms bus s
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/K. Škirpa]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Lietuvių aktyvistų frontas]]
-- [[objektai/grupes/Nacių Vokietija]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Abveras]]

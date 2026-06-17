@@ -37,6 +37,9 @@ Nenurodyta
 - t-001
   global_id: t-62899
   teiginys: 'Pobravas su notangais ir variniais puolė Balgos lauką, pagrobė brolių gyvulius ir buvo nužudytas Gerhardo iš Reino būrio.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, o citata pagrindžia visą įvykio eigą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_person: [[objektai/asmenys/Gerhardas|Gerhardas]]; mentioned_person: [[objektai/asmenys/Gerhardas iš Reino|Gerhardas iš Reino]]; mentioned_person: [[objektai/asmenys/Pobravas|Pobravas]]; mentioned_place: Baiga; mentioned_place: Prūsai; mentioned_place: Reinas'
   pagrindžia:
     - c-001
 
@@ -65,12 +68,3 @@ Nenurodyta
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Gerhardas|Gerhardas (valdovas)]]
-- [[objektai/asmenys/Gerhardas iš Reino]]
-- [[objektai/grupes/Notangai]]
-- [[objektai/asmenys/Pobravas]]
-- [[objektai/grupes/Rytas]]
-- [[objektai/zodynas/ginklanešiai]]

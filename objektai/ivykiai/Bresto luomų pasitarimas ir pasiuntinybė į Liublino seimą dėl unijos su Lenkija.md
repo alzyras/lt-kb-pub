@@ -36,6 +36,11 @@ Nenurodyta
 - t-001
   global_id: t-185518
   teiginys: 'Lietuviai sušaukė luomus Breste ir nusiuntė atstovus į Liubliną, kur liepos 8 d. rinkosi lenkų seimas.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Sutaisyti OCR iškraipymai ir paliktas citatos remiamas faktas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/luomai|luomai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]'
   pagrindžia:
     - c-001
 
@@ -43,6 +48,11 @@ Nenurodyta
 - t-002
   global_id: t-185519
   teiginys: 'Kojelavičiaus teigimu, pasiuntiniams buvo uždrausta ką nors spręsti, todėl jie turėjo apie viską pranešti Bresto seimo luomams.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Čia perteikiama autoriaus interpretacija, todėl priskyrimas pagrįstas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/luomai|luomai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]'
   pagrindžia:
     - c-002
 
@@ -84,11 +94,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/luomai]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/zodynas/luomas]]

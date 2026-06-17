@@ -21,6 +21,8 @@ Ją Dlugošas vėl kritikavo, kad « visai klaidingu būdu ir beveik pajuokai bu
 - t-001
   global_id: t-28699
   teiginys: 'Dlugošas kritikavo Grünwaldo pergalės atsisakymą, teigdamas, kad jis nedavė naudos Lenkijai, bet buvo labai naudingas Lietuvai.'
+  sudarymo_pagrindimas: 'Citata palaiko Dlugošo vertinimą, o pradinė formuluotė buvo nutrūkusi ir negramatiška.'
+  susije_objektai: 'mentioned_event: Torno taika (1411 m.); mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_person: [[objektai/asmenys/Dlugošas|Dlugošas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Torno'
   pagrindžia:
     - c-001
 
@@ -41,9 +43,3 @@ Ją Dlugošas vėl kritikavo, kad « visai klaidingu būdu ir beveik pajuokai bu
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Dlugošas]]
-- [[objektai/ivykiai/Torno taika (1411 m.)]]
-- [[objektai/zodynas/kunigaikštija]]

@@ -16,7 +16,7 @@ amziai:
 
 ## Santrauka
 
-Lietuvos metraštis pasakoja, kad Vytautas pasiuntė Simoną Lengvenį su didele kariuomene ir Smolensko pajėgomis prieš Riazanės kunigaikštį Olegą. Lietuvos metraštis teigia, kad 1396 m. Vytautas prieš Riazanės kunigaikštį Olegą pasiuntė Simoną Lengvenį su didele kariuomene ir Smolensko pajėgomis. Lietuvos metraštis pasakoja, kad žygio metu buvo parsivaryta daug belaisvių riazaniečių ir grobio.
+Lietuvos metraštis pasakoja, kad Vytautas pasiuntė Simoną Lengvenį su didele kariuomene ir Smolensko pajėgomis prieš Riazanės kunigaikštį Olegą. Lietuvos metraštis pasakoja, kad žygio metu buvo parsivaryta daug belaisvių riazaniečių ir grobio.
 
 ## Laikotarpis ir datos
 
@@ -46,20 +46,33 @@ Nenurodyta
 - t-001
   global_id: t-186577
   teiginys: 'Lietuvos metraštis pasakoja, kad Vytautas pasiuntė Simoną Lengvenį su didele kariuomene ir Smolensko pajėgomis prieš Riazanės kunigaikštį Olegą.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Teiginys tinkamas, bet palikta atribucija dėl kronikos titulų ir pasakojimo.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Bachmatai|Bachmatai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Lengvenis|Lengvenis]]; mentioned_person: [[objektai/asmenys/Vasilijus|Vasilijus]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Riazanė; mentioned_place: Smolenskas'
   pagrindžia:
     - c-001
 
 <a id="claim-t-186578"></a>
 - t-002
   global_id: t-186578
-  teiginys: 'Lietuvos metraštis teigia, kad 1396 m. Vytautas prieš Riazanės kunigaikštį Olegą pasiuntė Simoną Lengvenį su didele kariuomene ir Smolensko pajėgomis.'
+  teiginys: 'Lietuvos metraštis pasakoja, kad 1396 m. Vytautas prieš Riazanės kunigaikštį Olegą pasiuntė Simoną Lengvenį su Smolensko pajėgomis.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Sakinys sutrumpintas ir išlaikyta šaltinio atribucija.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Bachmatai|Bachmatai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Lengvenis|Lengvenis]]; mentioned_person: [[objektai/asmenys/Vasilijus|Vasilijus]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Riazanė; mentioned_place: Smolenskas'
+  temporaliniai_duomenys: 'įvykio data: 1396 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Sakinys sutrumpintas ir išlaikyta šaltinio atribucija.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-186579"></a>
 - t-003
   global_id: t-186579
-  teiginys: 'Lietuvos metraštis pasakoja, kad žygio metu buvo parsivaryta daug belaisvių riazaniečių ir grobio.'
+  teiginys: 'Lietuvos metraštis pasakoja, kad Vytauto siųstas žygis į Riazanę parsivarė daug riazaniečių belaisvių ir su dideliu grobiu grįžo pas Vytautą.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Neaiškus „žygio metu“ pakeistas į sakinį su aiškiu objektu ir rezultatu.'
+  susije_objektai: 'event: [[objektai/ivykiai/Vytauto siųstas žygis į Riazanę|Vytauto siųstas žygis į Riazanę]]; mentioned_object: [[objektai/daiktai/Bachmatai|Bachmatai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Lengvenis|Lengvenis]]; mentioned_person: [[objektai/asmenys/Vasilijus|Vasilijus]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Riazanė; mentioned_place: Smolenskas'
+  semantiniai_rysiai: '[[objektai/asmenys/Lengvenis|Lengvenis]] dalyvavo mūšyje [[objektai/ivykiai/Vytauto siųstas žygis į Riazanę|Vytauto siųstas žygis į Riazanę]]; [[objektai/asmenys/Vasilijus|Vasilijus]] dalyvavo mūšyje [[objektai/ivykiai/Vytauto siųstas žygis į Riazanę|Vytauto siųstas žygis į Riazanę]]; [[objektai/asmenys/Vytautas|Vytautas]] dalyvavo mūšyje [[objektai/ivykiai/Vytauto siųstas žygis į Riazanę|Vytauto siųstas žygis į Riazanę]]'
   pagrindžia:
     - c-001
 
@@ -88,12 +101,6 @@ Nenurodyta
     - t-002
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Bachmatai]]
-- [[objektai/asmenys/Lengvenis]]
-- [[objektai/asmenys/Vasilijus]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/didysis kunigaikštis]]
-- [[objektai/zodynas/metraštis]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/daiktai/Auksinės grandinės ir diržai]]
+- [[objektai/asmenys/Lengvenis]] dalyvavo_musyje Vytauto siųstas žygis į Riazanę
+- [[objektai/asmenys/Vasilijus]] dalyvavo_musyje Vytauto siųstas žygis į Riazanę
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] dalyvavo_musyje Vytauto siųstas žygis į Riazanę

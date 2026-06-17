@@ -23,6 +23,8 @@ Krikščioniškasis mentalitetas įsigali bent jau tarp visuomenės elito (antem
 - t-001
   global_id: t-101565
   teiginys: 'LDK visuomenei europėjant susiformavo bajorų tauta, turinti istorinę savimonę ir kilmės kroniką.'
+  sudarymo_pagrindimas: 'Pirminis teiginys per platus žodyno objektui; citata leidžia glaustai teigti apie bajorų tautos susiformavimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/lenas|lenas]]; mentioned_object: [[objektai/zodynas/luomas|luomas]]'
   pagrindžia:
     - c-001
 
@@ -30,6 +32,7 @@ Krikščioniškasis mentalitetas įsigali bent jau tarp visuomenės elito (antem
 - t-002
   global_id: t-101566
   teiginys: 'Susiformavusi bajorų tauta turėjo istorinę savimonę ir kilmės kroniką.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/lenas|lenas]]; mentioned_object: [[objektai/zodynas/luomas|luomas]]'
   pagrindžia:
     - c-001
 
@@ -37,6 +40,8 @@ Krikščioniškasis mentalitetas įsigali bent jau tarp visuomenės elito (antem
 - t-003
   global_id: t-101567
   teiginys: 'Politinės lietuvių tautos pagrindinis požymis buvo priklausymas kilmingųjų LDK gyventojų sluoksniui.'
+  sudarymo_pagrindimas: 'Pataisyta sakinio raiška, nekeičiant citatos remiamo turinio.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -76,11 +81,3 @@ Krikščioniškasis mentalitetas įsigali bent jau tarp visuomenės elito (antem
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bajorai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/luomas]]
-- [[objektai/zodynas/bajorų tauta politinė tauta lietuvių nacija]]
-- [[objektai/posakiai/„jogailaičių Europa“ „krikščionybės forpostas“]]

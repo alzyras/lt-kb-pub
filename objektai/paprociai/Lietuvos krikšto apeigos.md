@@ -13,17 +13,17 @@ date_start: '1387'
 date_end: '1403'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - ritualas
 amziai:
   - 'XIV'
   - 'XV'
-tags:
-  - ritualas
 ---
 # Lietuvos krikšto apeigos
 
 ## Santrauka
 
-Per 1387 m. Lietuvos krikšto apeigas Vilniuje pirmiausia turėjo būti krikštijami bajorai. Per Lietuvos krikšto apeigas Jogailos įsakymu naikinti aukų židiniai, šventi medžiai, giraitės ir namuose gerbiami žalčiai. Per Lietuvos krikšto apeigas kiekvienas pakrikštytasis gaudavo baltą rūbą kaip atgautos nekaltybės ženklą.
+Lietuvos krikštas buvo vykdomas kaip aiškiai suorganizuota apeiginė ir politinė praktika: pirmiausia krikštyti bajorai, naikintos pagoniškos šventvietės, gyventojai skirstyti į būrius, duoti nauji vardai ir balti rūbai. Krikšto teikimas neapsiribojo Vilniumi, bet buvo tęsiamas ir kitose vietose, steigiamose parapijose.
 
 ## Laikotarpis ir datos
 
@@ -46,10 +46,16 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 <a id="claim-t-05349"></a>
 - t-001
   global_id: t-05349
   teiginys: 'Per 1387 m. Lietuvos krikšto apeigas Vilniuje pirmiausia turėjo būti krikštijami bajorai.'
+  sudarymo_pagrindimas: 'Teiginys palaikomas citata, bet reikėjo aiškiai įvardyti Lietuvos krikšto apeigas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1387 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys palaikomas citata, bet reikėjo aiškiai įvardyti Lietuvos krikšto apeigas.'
   pagrindžia:
     - c-005
 
@@ -57,6 +63,8 @@ Nenurodyta
 - t-002
   global_id: t-05350
   teiginys: 'Per Lietuvos krikšto apeigas Jogailos įsakymu naikinti aukų židiniai, šventi medžiai, giraitės ir namuose gerbiami žalčiai.'
+  sudarymo_pagrindimas: 'Teiginys faktinis, bet reikėjo susieti su note objektu ir sutrumpinti.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-006
 
@@ -64,27 +72,38 @@ Nenurodyta
 - t-003
   global_id: t-05352
   teiginys: 'Per Lietuvos krikšto apeigas kiekvienas pakrikštytasis gaudavo baltą rūbą kaip atgautos nekaltybės ženklą.'
+  sudarymo_pagrindimas: 'Citata palaiko faktą, bet reikėjo pridėti apeigų kontekstą iš note objekto.'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
-    - c-012
+    - c-011
 
 <a id="claim-t-93035"></a>
 - t-004
   global_id: t-93035
   teiginys: '1387 m. vasario 17 d. Jogailos privilegija Vilniaus vyskupui laikoma svarbiausiu krikščionybės įvedimo Lietuvoje aktu.'
+  sudarymo_pagrindimas: 'Pradiniame teiginyje neaiškus įvardis „ši“; citata leidžia įvardyti privilegiją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1387 m.; įvykio data: 1403 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradiniame teiginyje neaiškus įvardis „ši“; citata leidžia įvardyti privilegiją.'
   pagrindžia:
-    - c-009
+    - c-008
 
 <a id="claim-t-93036"></a>
 - t-005
   global_id: t-93036
   teiginys: 'Per Lietuvos krikšto apeigas žmonės buvo krikštijami būriais, atskirai vyrai ir moterys, kiekvienam būriui suteikiant vardą.'
+  sudarymo_pagrindimas: 'Sakinys aiškiai susietas su Lietuvos krikšto apeigomis.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lietuva'
   pagrindžia:
-    - c-008
+    - c-007
 
 <a id="claim-t-93037"></a>
 - t-006
   global_id: t-93037
   teiginys: 'Po Lietuvos krikšto bažnyčios pradėtos statyti Ukmergėje, Maišiagaloje, Medininkuose, Nemenčinėje ir kitose rytinės Lietuvos vietose.'
+  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir suformuotas aiškus faktinis sakinys.'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Medininkai; mentioned_place: Nemenčinė'
   pagrindžia:
     - c-001
 
@@ -92,13 +111,15 @@ Nenurodyta
 - t-007
   global_id: t-93038
   teiginys: 'Krikšto apeigos pirmiausia buvo atliktos Vilniuje, o paskui Jogaila važinėdamas krikštijo visas kitas žymesnes Lietuvos vietas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lietuva; mentioned_place: Valachija'
   pagrindžia:
-    - c-013
+    - c-012
 
 <a id="claim-t-93040"></a>
 - t-008
   global_id: t-93040
   teiginys: '1387 metais krikšto teikimas neapsiribojo vien Vilniumi, o buvo tęsiamas ir kitose Lietuvos vietose.'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Medininkai'
   pagrindžia:
     - c-001
 
@@ -106,6 +127,11 @@ Nenurodyta
 - t-009
   global_id: t-93041
   teiginys: '1387 m. Jogaila atvyko į Vilnių krikštyti lietuvių.'
+  sudarymo_pagrindimas: 'Teiginys yra trumpas, pilnas faktinis sakinys ir tiesiogiai pagrįstas citata.'
+  susije_objektai: 'location: Krokuva; location: Viena; location: Vilnius; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Germanai|Germanai]]; mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Altorius|Altorius]]; mentioned_object: [[objektai/daiktai/Balti vilnoniai marškiniai|Balti vilnoniai marškiniai]]; mentioned_object: [[objektai/zodynas/globėjas|globėjas]]; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Krokuva; mentioned_place: Viena; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'kelionės data: 1387 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Jogaila (kunigaikštis, XIV–XV a.) keliavo į Krokuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jogaila (kunigaikštis, XIV–XV a.) keliavo į Viena“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jogaila (kunigaikštis, XIV–XV a.) keliavo į Vilnius“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra trumpas, pilnas faktinis sakinys ir tiesiogiai pagrįstas citata.'
   pagrindžia:
     - c-003
 
@@ -113,6 +139,8 @@ Nenurodyta
 - t-010
   global_id: t-93042
   teiginys: 'Per Lietuvos krikštą Jogaila krikštijamiesiems duodavo baltų vilnonių rūbų, kad būtų įvykdytas liturginis reikalavimas.'
+  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir išlaikytas citatos palaikomas faktas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -120,10 +148,13 @@ Nenurodyta
 - t-011
   global_id: t-93043
   teiginys: 'Lietuvos krikšto metu žmonės klausė kunigų, aiškinusių katalikybės kilnumą ir jos būsimą vietą vietoj senojo lietuvių tikėjimo.'
+  sudarymo_pagrindimas: 'Sakinys sutvarkytas gramatiškai ir susietas su apeigų kontekstu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
-    - c-011
+    - c-010
 
 ## Reikšmingi paminėjimai
+
 - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -138,6 +169,7 @@ Nenurodyta
   pagrindžia:
     - t-008
     - t-006
+
 - c-002
   santrauka: 'Per Lietuvos krikštą Jogaila krikštijamiesiems duodavo baltų vilnonių rūbų, kad būtų įvykdytas liturginis reikalavimas.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -154,6 +186,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-010
+
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -173,6 +206,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-009
+
 - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -186,6 +220,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-005
+
 - c-005
   santrauka: 'Per 1387 m. Lietuvos krikšto apeigas Vilniuje pirmiausia turėjo būti krikštijami bajorai.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -203,6 +238,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
 - c-006
   santrauka: 'Per Lietuvos krikšto apeigas Jogailos įsakymu naikinti aukų židiniai, šventi medžiai, giraitės ir namuose gerbiami žalčiai.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -218,7 +254,8 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-- c-008
+
+- c-007
   santrauka: 'Per Lietuvos krikšto apeigas žmonės buvo krikštijami būriais, atskirai vyrai ir moterys, kiekvienam būriui suteikiant vardą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -235,7 +272,8 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-005
-- c-009
+
+- c-008
   santrauka: '1387 m. vasario 17 d. Jogailos privilegija Vilniaus vyskupui laikoma svarbiausiu krikščionybės įvedimo Lietuvoje aktu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -253,7 +291,8 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-004
-- c-010
+
+- c-009
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Vėlesnėmis žiniomis 1387 m. buvę pakrikštyta apie 30.000, nes
@@ -266,7 +305,8 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-007
-- c-011
+
+- c-010
   santrauka: 'Lietuvos krikšto metu žmonės klausė kunigų, aiškinusių katalikybės kilnumą ir jos būsimą vietą vietoj senojo lietuvių tikėjimo.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -281,7 +321,8 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-011
-- c-012
+
+- c-011
   santrauka: 'Per Lietuvos krikšto apeigas kiekvienas pakrikštytasis gaudavo baltą rūbą kaip atgautos nekaltybės ženklą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -295,7 +336,8 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
-- c-013
+
+- c-012
   santrauka: 'Per Lietuvos krikštą Jogaila krikštijamiesiems duodavo baltų vilnonių rūbų, kad būtų įvykdytas liturginis reikalavimas.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -314,26 +356,3 @@ Nenurodyta
   pagrindžia:
     - t-012
     - t-007
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/religinė-praktika]]
-- [[temos/ritualas]]
-
-### Susiję objektai
-- [[objektai/ivykiai/Lietuvos krikštas (1387 m.)]]
-- [[objektai/daiktai/Altorius]]
-- [[objektai/grupes/Bajorai]]
-- [[objektai/grupes/Baltai]]
-- [[objektai/daiktai/Balti vilnoniai marškiniai]]
-- [[objektai/asmenys/Gediminas]]
-- [[objektai/grupes/Germanai]]
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
-- [[objektai/grupes/Krikščionys]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/globėjas]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/pagonybė]]

@@ -22,6 +22,8 @@ Vilniaus Gaono autoritetas, atrodo, lėmė, kad Lietuvos žydai – litvakai –
 - t-001
   global_id: t-22223
   teiginys: 'Litviš buvo Lietuvoje susiformavusi jidiš kalbos tarmė, ilgainiui tapusi norminės jidiš kalbos pagrindu.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie litviš ir paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Jidiš|Jidiš]]; mentioned_object: [[objektai/zodynas/litvakai Lite litviš|litvakai Lite litviš]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -39,8 +41,3 @@ Vilniaus Gaono autoritetas, atrodo, lėmė, kad Lietuvos žydai – litvakai –
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Jidiš]]
-- [[objektai/zodynas/litvakai Lite litviš]]

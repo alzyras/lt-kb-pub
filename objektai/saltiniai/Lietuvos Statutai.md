@@ -5,9 +5,15 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1529 m.'
+  - '1563 m.'
+  - '1573 m.'
+  - '1794 m.'
+  - '1805 m.'
+  - '1806 m.'
   - '1840 m.'
+  - '1992 m.'
 date_start: '1529'
-date_end: '1840'
+date_end: '1992'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -17,13 +23,13 @@ tags:
   - saltinis
 amziai:
   - 'XVI'
-  - 'XIX'
+  - 'XX'
 ---
 # Lietuvos Statutai
 
 ## Santrauka
 
-Lietuvos Statutai kartu su Lietuvos Metrika ir Lietuvos metraščiais laikomi reikšmingiausiais to meto raštijos paminklais. Lietuvos Statutai sistemingumu pralenkė Vidurio Europos šalių teisines sistemas. Lietuvos Statutai sistemingumo lygiu pralenkė Vidurio Europos šalių teisines sistemas.
+Net oficialioji valstybės raštų kalba (ja parašyti Lietuvos Statutai ir kt.), savo ištakomis siekianti dabartinių ukrainiečių ir baltarusių protėvių kalbą, vadinta lieĮvadas • L I E T U VA – V I D U R I O E U R O P O S D A L I S 15 tuvių kalba. Šia kalba, LDK raštinėje susiformavusia alternatyva „bulgariškai“ raštijos tradicijai, ir surašyti reikšmingiausi to meto raštijos paminklai – Lietuvos Metrika, Lietuvos metraščiai ir Lietuvos Statutai. Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką.
 
 ## Teiginiai
 
@@ -31,6 +37,7 @@ Lietuvos Statutai kartu su Lietuvos Metrika ir Lietuvos metraščiais laikomi re
 - t-001
   global_id: t-101550
   teiginys: 'Lietuvos Statutai kartu su Lietuvos Metrika ir Lietuvos metraščiais laikomi reikšmingiausiais to meto raštijos paminklais.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -38,6 +45,7 @@ Lietuvos Statutai kartu su Lietuvos Metrika ir Lietuvos metraščiais laikomi re
 - t-002
   global_id: t-101551
   teiginys: 'Lietuvos Statutai sistemingumu pralenkė Vidurio Europos šalių teisines sistemas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/Vidurio Europa|Vidurio Europa]]; mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -45,6 +53,8 @@ Lietuvos Statutai kartu su Lietuvos Metrika ir Lietuvos metraščiais laikomi re
 - t-003
   global_id: t-101552
   teiginys: 'Lietuvos Statutai sistemingumo lygiu pralenkė Vidurio Europos šalių teisines sistemas.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir paremtas citatos vertinimu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/Vidurio Europa|Vidurio Europa]]; mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -52,6 +62,7 @@ Lietuvos Statutai kartu su Lietuvos Metrika ir Lietuvos metraščiais laikomi re
 - t-004
   global_id: t-101553
   teiginys: 'Lietuvos Statutai buvo trys LDK teisynai, išleisti 1529, 1566 ir 1588 metais.'
+  susije_objektai: 'mentioned_object: [[objektai/posakiai/Kad būtų viena tauta, viena visuomenė, viena brolija (fraternitas) ir bendri seimai|Kad būtų viena tauta, viena visuomenė, viena brolija (fraternitas) ir bendri seimai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-004
 
@@ -59,6 +70,8 @@ Lietuvos Statutai kartu su Lietuvos Metrika ir Lietuvos metraščiais laikomi re
 - t-005
   global_id: t-101555
   teiginys: 'Lietuvos Statutai buvo trys LDK teisynai, priimti 1529, 1566 ir 1588 metais.'
+  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, bet citata aiškiai pagrindžia glaustą faktą apie Statutus.'
+  susije_objektai: 'mentioned_object: [[objektai/posakiai/Kad būtų viena tauta, viena visuomenė, viena brolija (fraternitas) ir bendri seimai|Kad būtų viena tauta, viena visuomenė, viena brolija (fraternitas) ir bendri seimai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-008
 
@@ -66,6 +79,8 @@ Lietuvos Statutai kartu su Lietuvos Metrika ir Lietuvos metraščiais laikomi re
 - t-006
   global_id: t-101556
   teiginys: 'Lietuvos Statutai buvo parašyti oficialiąja LDK raštų kalba, kuri XVI–XVIII a. vadinta lietuvių kalba.'
+  sudarymo_pagrindimas: 'Pradinis teiginys silpnai susietas su Lietuvos Statutais, o citata leidžia suformuluoti tikslesnį faktą apie juos.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltarusiai|Baltarusiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Ukrainiečiai|Ukrainiečiai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-006
 
@@ -73,6 +88,11 @@ Lietuvos Statutai kartu su Lietuvos Metrika ir Lietuvos metraščiais laikomi re
 - t-007
   global_id: t-101557
   teiginys: 'Po prijungimo prie Rusijos Lietuvos Statutas liko galioti, o kraštas įgijo kultūrinę autonomiją.'
+  sudarymo_pagrindimas: 'Pradinis teiginys turi antraštės ir iliustracijos triukšmo, todėl reikia pašalinti nesusijusius fragmentus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_object: [[objektai/zodynas/statutas|statutas]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1794 m.; įvykio data: 1805-1806; įvykio data: 1806 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys turi antraštės ir iliustracijos triukšmo, todėl reikia pašalinti nesusijusius fragmentus.'
   pagrindžia:
     - c-007
 
@@ -80,6 +100,11 @@ Lietuvos Statutai kartu su Lietuvos Metrika ir Lietuvos metraščiais laikomi re
 - t-008
   global_id: t-101558
   teiginys: '1992 m. Konstitucijos preambulė Lietuvos valstybės teisės pamatus siejo su LDK laikotarpiu priimtais Lietuvos Statutais ir Lietuvos Respublikos konstitucijomis.'
+  sudarymo_pagrindimas: 'Reikia aiškiai susieti teiginį su Lietuvos Statutais ir pašalinti dviprasmį „Konstitucijos“ įvardijimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Suverenitetas|Suverenitetas]]; mentioned_object: [[objektai/zodynas/konstitucijos|konstitucijos]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1992 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia aiškiai susieti teiginį su Lietuvos Statutais ir pašalinti dviprasmį „Konstitucijos“ įvardijimą.'
   pagrindžia:
     - c-009
 
@@ -87,6 +112,11 @@ Lietuvos Statutai kartu su Lietuvos Metrika ir Lietuvos metraščiais laikomi re
 - t-009
   global_id: t-101559
   teiginys: 'Antrajame ir Trečiajame Lietuvos Statutuose teisine norma tapo Žygimanto Augusto privilegija, sulyginusi visų krikščioniškų konfesijų teises.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Lietuvos Statutus ir atitinka citatos turinį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Liublinas; mentioned_place: Varšuva'
+  temporaliniai_duomenys: 'įvykio data: 1563 m.; įvykio data: 1573 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie Lietuvos Statutus ir atitinka citatos turinį.'
   pagrindžia:
     - c-003
 
@@ -94,6 +124,11 @@ Lietuvos Statutai kartu su Lietuvos Metrika ir Lietuvos metraščiais laikomi re
 - t-010
   global_id: t-101560
   teiginys: '1563 m. Žygimanto Augusto privilegija sulygino visų krikščioniškų konfesijų teises ir tapo Antrojo bei Trečiojo Lietuvos Statutų norma.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir tiksliai perteikia citatoje nurodytą faktą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/statutas|statutas]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1563 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys ir tiksliai perteikia citatoje nurodytą faktą.'
   pagrindžia:
     - c-005
 

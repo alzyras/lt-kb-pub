@@ -31,6 +31,11 @@ Dusburgietis teigia, kad liz- ‘pailsėti’ — MPKP, 2, p. 31), kurios ieško
 - t-001
   global_id: t-60719
   teiginys: 'T. Jasińskis Lisske lokalizavo saloje prie Senosios Torunės.'
+  sudarymo_pagrindimas: 'Citata tiesiogiai sieja Lisske lokalizaciją su T. Jasińskio darbu.'
+  susije_objektai: 'mentioned_place: Lisske; mentioned_place: Torunė'
+  temporaliniai_duomenys: 'įvykio data: 1233 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata tiesiogiai sieja Lisske lokalizaciją su T. Jasińskio darbu.'
   pagrindžia:
     - c-001
 

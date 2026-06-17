@@ -28,9 +28,9 @@ Vartojamos formos: `vėdliais`, `vėdlių`.
   global_id: t-07657
   teiginys: '`Vėdliai` šiame tekste reiškia jaunojo vestuvių palydą.'
   pagrindžia:
-    - c-002
     - c-001
-
+    - c-002
+- susijęs iš [[objektai/zodynas/Gaspadinė.md#claim-t-70005|gaspadinė]]: `Gaspadinė` šiame tekste reiškia vestuvių šeimininkę ar vaišių tvarkytoją.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -52,7 +52,3 @@ Vartojamos formos: `vėdliais`, `vėdlių`.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Gaspadinė|gaspadinė]]

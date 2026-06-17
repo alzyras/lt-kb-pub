@@ -1,23 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Cartoryskas'
-variantai: []
-aliases: []
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
 atnaujinta: ''
-laikotarpis: ''
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: ''
 tags:
   - vieta
 ---
@@ -28,18 +15,21 @@ tags:
 Konstantino dalis buvo Černigovas ir Cartoryskas.
 
 ## Teiginiai
+
 <a id="claim-t-187210"></a>
 - t-001
   global_id: t-187210
-  teiginys: 'Konstantino dalis buvo Černigovas ir Cartoryskas.'
+  teiginys: 'Lietuvos metraštyje Konstantino dalimi įvardijami Černigovas ir Cartoryskas.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Šaltinis pateikia dinastinio padalijimo formuluotę, todėl ji priskirta metraščiui.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]; mentioned_place: Lietuva; mentioned_place: Liubomlis; mentioned_place: Černigovas'
   pagrindžia:
     - c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  statusas: patvirtinta
-
+- susijęs iš Liubomlis: Liubomlis buvo kunigaikščio Teodoro Sanguškos dalis.
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Konstantino dalis buvo Černigovas ir Cartoryskas.'
+  santrauka: 'Lietuvos metraštyje Konstantino dalimi įvardijami Černigovas ir Cartoryskas.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     Trečias — kunigaikštis Simonas Lengvenis6 , jo da­
@@ -47,10 +37,8 @@ Konstantino dalis buvo Černigovas ir Cartoryskas.
     dalis — Triubčevskas9 . Penktas— Konstantinas l0 , jo da­
     lis— Černigovas ir Cartoryskas Šeštas—Teodoras 1 2
     Sanguška l3 , jo dalis — Liubomlis M .
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

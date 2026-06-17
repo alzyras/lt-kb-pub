@@ -35,6 +35,11 @@ viena iš Europos stipriausių valstybių tapusi Rusija (1721 m. pasirašius Ši
 - t-001
   global_id: t-41571
   teiginys: '1721 m. pasirašius Šiaurės karą užbaigusią Ništato sutartį, Rusija buvo iškilmingai paskelbta imperija.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas, konkretus ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Rusija; mentioned_place: Viena; mentioned_place: Švedija'
+  temporaliniai_duomenys: 'įvykio data: 1721 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas, konkretus ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -42,6 +47,11 @@ viena iš Europos stipriausių valstybių tapusi Rusija (1721 m. pasirašius Ši
 - t-002
   global_id: t-41572
   teiginys: 'Po 1721 m. Ništato sutarties Rusija buvo paskelbta imperija, o Prūsijos ir Brandenburgo unija pakėlė valstybės statusą iki karalystės.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie sutarties padarinius ir remiasi citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Rusija; mentioned_place: Viena; mentioned_place: Švedija'
+  temporaliniai_duomenys: 'įvykio data: po 1721 m.; įvykio data: 1721 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie sutarties padarinius ir remiasi citata.'
   pagrindžia:
     - c-001
 

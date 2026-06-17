@@ -40,6 +40,7 @@ Nenurodyta
 - t-001
   global_id: t-09545
   teiginys: 'Po totorių plėšimų buvo paskelbta bajorų mobilizacija.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/daiktai/Vėliavos|Vėliavos]]; mentioned_object: [[objektai/zodynas/husarai|husarai]]; mentioned_object: [[objektai/zodynas/Tėvūnija|Tėvūnija]]'
   pagrindžia:
     - c-001
 
@@ -47,9 +48,12 @@ Nenurodyta
 - t-002
   global_id: t-09547
   teiginys: 'Bajorų pašauktinės kariuomenės mobilizacija galėdavo užtrukti taip ilgai, kad jos jau nebereikėdavo.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171410|Totoriai]]: Po apiplėšimų totoriai stengdavosi greitai pasitraukti, todėl bajorų pašauktinės kariuomenės mobilizacija dažnai vėluodavo.
+- susijęs iš [[objektai/zodynas/pašauktinė kariuomenė.md#claim-t-78906|pašauktinė kariuomenė]]: Bajorų pašauktinės kariuomenės mobilizacija galėdavo užtrukti taip ilgai, kad po apiplėšimo totoriai spėdavo pasitraukti.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -85,12 +89,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bajorai]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/daiktai/Vėliavos]]
-- [[objektai/zodynas/husarai]]
-- [[objektai/zodynas/Tėvūnija|tėvūnija]]
-- [[objektai/zodynas/pašauktinė kariuomenė]]

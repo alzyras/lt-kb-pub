@@ -9,53 +9,41 @@ date_start: '1919'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XX'
 tags:
   - sąvoka
+amziai:
+  - 'XX'
 ---
 # parapijinės mokyklos
 
 ## Santrauka
 
-Lietuvių kunigų sąjungai Amerikoje svarbus rūpestis buvo mokyklų steigimas. Amerikoje lietuvių mokyklų skaičius nuo apie 30 mokyklų 1919 m. išaugo iki 72, o daugumą jų išlaikė parapijos.
+Mat, lig šiol savų parapijinių mokyklų teturi vos pusė lietuviškųjų parapijų. Lietuvių mokyklų 1919 m. Amerikoje buvo apie 30, o dabar jų yra 72; jų daugumą išlaiko parapijos (iš viso čia lietuvių mokyklose mokosi apie 12.000 mokinių).
 
 ## Teiginiai
+
 <a id="claim-t-72712"></a>
 - t-001
   global_id: t-72712
-  teiginys: 'Amerikoje lietuvių mokyklų skaičius nuo apie 30 mokyklų 1919 m. išaugo iki 72, o daugumą jų išlaikė parapijos.'
+  teiginys: 'Lietuvių kunigų sąjungai Amerikoje svarbus rūpestis buvo mokyklų steigimas.'
+  sudarymo_pagrindimas: 'Pirminiame teiginyje buvo neaiškus įvardis ir silpnas ryšys su objektu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+
 <a id="claim-t-72713"></a>
 - t-002
   global_id: t-72713
-  teiginys: 'Lietuvių kunigų sąjungai Amerikoje svarbus rūpestis buvo mokyklų steigimas.'
+  teiginys: 'Amerikoje lietuvių mokyklų skaičius nuo apie 30 mokyklų 1919 m. išaugo iki 72, o daugumą jų išlaikė parapijos.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
+  temporaliniai_duomenys: 'įvykio data: 1919 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Lietuvių kunigų sąjungai Amerikoje svarbus rūpestis buvo mokyklų steigimas.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Kitas, pats svar-
-    busis jos rūpestis yra mokyklų steigimas. Mat, lig šiol savų
-    parapijinių mokyklų teturi vos pusė lietuviškųjų parapijų. Tuo
-    pačiu reikalu ypatingai rūpinasi ir Katalikų Federacija.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
-- c-002
-  santrauka: 'Amerikoje lietuvių mokyklų skaičius nuo apie 30 mokyklų 1919 m. išaugo iki 72, o daugumą jų išlaikė parapijos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bet ne visos vienuolės dirba
@@ -64,14 +52,22 @@ Lietuvių kunigų sąjungai Amerikoje svarbus rūpestis buvo mokyklų steigimas.
     Lietuvių mokyklų 1919 m. Amerikoje buvo apie 30, o dabar
     jų yra 72; jų daugumą išlaiko parapijos (iš viso čia lietuvių
     mokyklose mokosi apie 12.000 mokinių).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-002
+  santrauka: 'Lietuvių kunigų sąjungai Amerikoje svarbus rūpestis buvo mokyklų steigimas.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Kitas, pats svar-
+    busis jos rūpestis yra mokyklų steigimas. Mat, lig šiol savų
+    parapijinių mokyklų teturi vos pusė lietuviškųjų parapijų. Tuo
+    pačiu reikalu ypatingai rūpinasi ir Katalikų Federacija.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]

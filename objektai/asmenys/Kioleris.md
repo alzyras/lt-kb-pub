@@ -20,6 +20,8 @@ Kiolerio vadovaujama kolona turėjo pulti bolševikus palei plentą Leliūnai-Ut
 - t-001
   global_id: t-39767
   teiginys: 'Kiolerio vadovaujama kolona turėjo pulti bolševikus palei plentą Leliūnai-Utena.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Kiolerio vadovaujamą koloną.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -41,8 +43,3 @@ Kiolerio vadovaujama kolona turėjo pulti bolševikus palei plentą Leliūnai-Ut
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Artilerija]]
-- [[objektai/grupes/Lietuviai]]

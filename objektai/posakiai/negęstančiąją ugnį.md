@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Be to, jie garbino, kaip buvo įprasta senovėje, negęstančiąją ugnį.
+Dusburgietis teigia, kad be to, jie garbino, kaip buvo įprasta senovėje, negęstančiąją ugnį.
 
 ## Teiginiai
 
@@ -21,9 +21,16 @@ Be to, jie garbino, kaip buvo įprasta senovėje, negęstančiąją ugnį.
 - t-001
   global_id: t-59137
   teiginys: 'Be to, jie garbino, kaip buvo įprasta senovėje, negęstančiąją ugnį.'
+  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Krivis.md#claim-t-60047|Krivis]]: Krivis turėjo tokį autoritetą, kad jo pasiuntinys su krivūle sulaukdavo pagarbos iš kunigaikščių, kilmingųjų ir prastuomenės.
+- susijęs iš [[objektai/daiktai/Negęstančioji ugnis.md#claim-t-59695|Negęstančioji ugnis]]: Prūsai pagal senovinį paprotį garbino negęstančiąją ugnį.
+- susijęs iš [[objektai/grupes/Baltų žyniai.md#claim-t-58994|Baltų žyniai]]: Žynio pasiuntinys su krivūle ar kitu ženklu susilaukdavo pagarbos iš kunigaikščių, kilmingųjų ir prastuomenės.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-10785|Lietuviai]]: Lietuviai siūlė bendrą gynimąsi ir bendrus seimus, bet saviems reikalams norėjo atskirų seimų ir urėdų Lietuvoje tik lietuviams.
+- susijęs iš [[objektai/paprociai/Kreipimasis į dievus per krivį ir pagarba krivūlei.md#claim-t-62686|Kreipimasis į dievus per krivį ir pagarba krivūlei]]: Krivio pasiuntinys, keliaudamas su krivūle ar kitu žinomu ženklu, sulaukdavo didžios pagarbos iš kunigaikščių, kilmingųjų ir prastuomenės.
+- susijęs iš [[objektai/zodynas/krivis krivė krivaitis.md#claim-t-58815|krivis krivė krivaitis]]: Krivio pasiuntinys su krivūle ar kitu žinomu ženklu susilaukdavo didžios pagarbos iš kunigaikščių, kilmingųjų ir prastuomenės.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -41,14 +48,3 @@ Be to, jie garbino, kaip buvo įprasta senovėje, negęstančiąją ugnį.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Kūnas]]
-- [[objektai/zodynas/netikėliai]]
-- [[objektai/grupes/Baltų žyniai]]
-- [[objektai/paprociai/Kreipimasis į dievus per krivį ir pagarba krivūlei]]
-- [[objektai/asmenys/Krivis]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/krivis krivė krivaitis]]
-- [[objektai/daiktai/Negęstančioji ugnis]]

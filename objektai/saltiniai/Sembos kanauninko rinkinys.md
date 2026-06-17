@@ -20,6 +20,8 @@ Dusburgietis teigia, kad sembos kanauninko rinkinio105, turinčio ryšio su Dusb
 - t-001
   global_id: t-61293
   teiginys: 'Sembos kanauninko rinkinio tyrinėjimai rodo, kad jame yra žinių iš neišlikusio Seniausio Prūsijos metraščio.'
+  sudarymo_pagrindimas: 'Pradinis teiginys gremėzdiškas ir turi OCR nuorodų triukšmo.'
+  susije_objektai: 'mentioned_place: Diunamiundė; mentioned_place: Prūsija; mentioned_place: Semba'
   pagrindžia:
     - c-001
 

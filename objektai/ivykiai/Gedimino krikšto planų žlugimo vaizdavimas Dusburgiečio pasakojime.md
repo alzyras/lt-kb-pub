@@ -3,6 +3,10 @@ tipas: ivykis
 pavadinimas: 'Gedimino krikšto planų žlugimo vaizdavimas Dusburgiečio pasakojime (krikštas)'
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+datos:
+  - '1328 m.'
+date_start: '1328'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -10,6 +14,8 @@ tags:
   - ivykis
   - krikštas
   - ordinas
+amziai:
+  - 'XIV'
 ---
 # Gedimino krikšto planų žlugimo vaizdavimas Dusburgiečio pasakojime (krikštas)
 
@@ -39,6 +45,12 @@ Nenurodyta
 - t-001
   global_id: t-62788
   teiginys: 'Dusburgiečio pasakojimas apie Gedimino krikštą faktus pateikia Ordino interesų dvasia ir skiriasi nuo to meto dokumentų.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Pradinis teiginys negramatiškas ir perteklinis; citata remia glaustesnį teiginį apie pasakojimo tendencingumą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Kristmemelis'
+  temporaliniai_duomenys: 'įvykio data: 1328 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys negramatiškas ir perteklinis; citata remia glaustesnį teiginį apie pasakojimo tendencingumą.'
   pagrindžia:
     - c-002
     - c-003
@@ -47,6 +59,9 @@ Nenurodyta
 - t-002
   global_id: t-62789
   teiginys: 'Dusburgiečio duomenų lyginimas leidžia manyti, kad Ordinas stengėsi pakenkti Gedimino krikšto planams.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys aiškiai perteikia citatoje nurodytą interpretaciją apie Ordino veiksmus.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]'
   pagrindžia:
     - c-001
 
@@ -114,12 +129,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/Dusburgas]]
-- [[objektai/asmenys/Gediminas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Petras iš Dusburgo|Petras iš Dusburgo (kunigas)]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/ivykiai/Kristmemelio pilies sunaikinimas ir kryžiuočių pasitraukimas (1328 m. vasara)]]

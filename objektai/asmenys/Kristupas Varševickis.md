@@ -29,6 +29,11 @@ periodo_grupes:
 - t-001
   global_id: t-87760
   teiginys: 'Kristupas Varševickis, jėzuitų rektorius, 1572 m. žiemą dalyvavo kapitulos susirinkime vyskupo rūmuose.'
+  sudarymo_pagrindimas: 'Citata pagrindžia dalyvavimą ir pareigas, pradinis tekstas turi OCR triukšmo.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_person: [[objektai/autoriai/Janockis|Janockis]]'
+  temporaliniai_duomenys: 'įvykio data: 1572 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia dalyvavimą ir pareigas, pradinis tekstas turi OCR triukšmo.'
   pagrindžia:
     - c-001
 
@@ -54,7 +59,3 @@ periodo_grupes:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/kapitula]]

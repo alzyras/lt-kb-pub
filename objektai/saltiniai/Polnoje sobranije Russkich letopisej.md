@@ -29,6 +29,11 @@ amziai:
 - t-001
   global_id: t-34925
   teiginys: '„Polnoje sobranije Russkich letopisej“ XVII tomą 1907 m. Sankt Peterburge išleido Imperatoriškoji archeologijos komisija.'
+  sudarymo_pagrindimas: 'Pradinis teiginys buvo santrumpos fragmentas be predikato; citata pagrindžia leidimo duomenis.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus archeologijos komisija|Vilniaus archeologijos komisija]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Peterburgas'
+  temporaliniai_duomenys: 'įvykio data: 1907 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys buvo santrumpos fragmentas be predikato; citata pagrindžia leidimo duomenis.'
   pagrindžia:
     - c-001
 

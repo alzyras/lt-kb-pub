@@ -3,11 +3,17 @@ tipas: saltinis
 pavadinimas: 'Lietuvos katalikų bažnyčios kronika'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1972 m.'
+date_start: '1972'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - kunigas
   - saltinis
+amziai:
+  - 'XX'
 ---
 # Lietuvos katalikų bažnyčios kronika
 
@@ -21,6 +27,11 @@ Aštuntajame dešimtmetyje kai kurie kunigai ėmė priešintis brutaliai valdži
 - t-001
   global_id: t-21171
   teiginys: 'Pirmasis „Lietuvos katalikų bažnyčios kronikos“ redaktorius buvo Simne dirbęs kunigas Sigitas Tamkevičius.'
+  sudarymo_pagrindimas: 'Pradinis teiginys citata nepagrįstas, bet citata remia faktą apie leidinio redaktorių.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/autoriai/Sigitas Tamkevičius|Sigitas Tamkevičius]]; mentioned_place: Simnas'
+  temporaliniai_duomenys: 'įvykio data: 1972 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys citata nepagrįstas, bet citata remia faktą apie leidinio redaktorių.'
   pagrindžia:
     - c-001
 

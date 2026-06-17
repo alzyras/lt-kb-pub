@@ -24,7 +24,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Batūros darbas cituojamas aiškinant, kad 1262 m. žygį organizavo Mindaugas, o kariuomenei vadovavo Treniota. 191—192; Batūra R., Karinė..., р.
+Dusburgietis teigia, kad batūra R datuojamas ir 1263 m.) organizavo Mindaugas, o tuo metu, kaip atrodo, Žemaitiją valdęs Treniota vadovavo kariuomenei (Regesta Lithuaniae, Nr. 393; Paszkiewicz H, Jagiellonowie..., p. 103; Lietuvių karas..., p. 159, 165; Batūra R., Lietuva..., p. 153). Dusburgietis teigia, kad 191—192; Batūra R., Karinė..., р.
 
 ## Teiginiai
 
@@ -32,6 +32,11 @@ Batūros darbas cituojamas aiškinant, kad 1262 m. žygį organizavo Mindaugas, 
 - t-001
   global_id: t-91940
   teiginys: 'Batūros darbas cituojamas aiškinant, kad 1262 m. žygį organizavo Mindaugas, o kariuomenei vadovavo Treniota.'
+  sudarymo_pagrindimas: 'Citata pateikia Batūrą kaip vieną šios interpretacijos šaltinių, bet pradinė formuluotė turi OCR triukšmo.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Treniota|Treniota]]; mentioned_place: Kulmas; mentioned_place: Torunė'
+  temporaliniai_duomenys: 'įvykio data: 1262 m.; įvykio data: 1263 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pateikia Batūrą kaip vieną šios interpretacijos šaltinių, bet pradinė formuluotė turi OCR triukšmo.'
   pagrindžia:
     - c-002
 
@@ -39,6 +44,8 @@ Batūros darbas cituojamas aiškinant, kad 1262 m. žygį organizavo Mindaugas, 
 - t-002
   global_id: t-91941
   teiginys: '191—192; Batūra R., Karinė..., р.'
+  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Numa|Numa]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -83,11 +90,3 @@ Batūros darbas cituojamas aiškinant, kad 1262 m. žygį organizavo Mindaugas, 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Treniota]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/autoriai/Paszkiewicz H]]
-- [[objektai/autoriai/R. Batūra|Romas Batūra]]

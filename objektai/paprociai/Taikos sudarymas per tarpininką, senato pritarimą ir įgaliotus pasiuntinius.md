@@ -33,6 +33,11 @@ Nenurodyta
 - t-001
   global_id: t-185854
   teiginys: 'Maskvos kunigaikštis Vasilijus per tarpininką siūlė taiką, žadėjo siųsti įgaliotus legatus, o didikai paragino karalių taikai pritarti.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata leidžia aiškiau susieti tarpininką, įgaliotus pasiuntinius ir didikų pritarimą.'
+  susije_objektai: 'territory: Maskva; territory: Riazanė; territory: Rževas; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_person: [[objektai/asmenys/Vasilijus|Vasilijus]]; mentioned_place: Maskva; mentioned_place: Riazanė; mentioned_place: Rževas'
   pagrindžia:
     - c-001
 
@@ -40,6 +45,11 @@ Nenurodyta
 - t-002
   global_id: t-185855
   teiginys: 'Jonui Sapiegai, karaliaus vardu valdžiusiam Vitebską, buvo pavesta tartis su Vasilijaus pasiuntiniais dėl taikos sąlygų.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata palaiko pavedimą Jonui Sapiegai; pašalintas puslapio antraštės OCR triukšmas.'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Viena'
   pagrindžia:
     - c-002
 
@@ -105,9 +115,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Maskvėnai]]
-- [[objektai/asmenys/Vasilijus]]
-- [[objektai/zodynas/legatai]]

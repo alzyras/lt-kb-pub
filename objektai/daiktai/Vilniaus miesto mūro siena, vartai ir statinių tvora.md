@@ -50,6 +50,8 @@ Nenurodyta
 - t-001
   global_id: t-87063
   teiginys: '1505 metais karalius nurodė Vilniaus miestą apjuosti mūro siena, o negalintiems jos statyti leido tverti statinių tvorą.'
+  sudarymo_pagrindimas: 'Teiginys pagrįstas, bet pradinė formuluotė nutrūkusi.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Statinės|Statinės]]; mentioned_object: [[objektai/zodynas/barbarai|barbarai]]; mentioned_place: Išganytojo (Spaso) bažnyčia Vilniuje; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -57,6 +59,8 @@ Nenurodyta
 - t-002
   global_id: t-87064
   teiginys: 'Vilniaus miestiečiai prie miesto vartų turėjo dieną ir naktį eiti sargybą.'
+  sudarymo_pagrindimas: 'Pirminis teiginys yra fragmentas, o citata palaiko aiškų faktą apie vartų sargybą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus miestiečių luomas|Vilniaus miestiečių luomas]]; mentioned_place: Išganytojo (Spaso) bažnyčia Vilniuje; mentioned_place: Minskas; mentioned_place: Sluckas; mentioned_place: Viena; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 
@@ -64,6 +68,8 @@ Nenurodyta
 - t-003
   global_id: t-87065
   teiginys: '1506 metais Vilniaus miestiečiai, remiami vyskupo Vaitiekaus Taboro, apjuosė miestą mūro pylimu vietoj medinių statinių.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Statinės|Statinės]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_person: [[objektai/asmenys/Vaitiekus (Lucko vyskupas)|Vaitiekus (Lucko vyskupas)]]; mentioned_place: Minskas; mentioned_place: Sluckas; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -134,12 +140,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]
-- [[objektai/asmenys/Vaitiekus (Lucko vyskupas)]]
-- [[objektai/zodynas/barbarai]]
-- [[objektai/grupes/Vilniaus miestiečių luomas]]
-- [[objektai/daiktai/Mūro sienos ir miesto sienos]]
-- [[objektai/daiktai/Žemutinės pilies sienos ir mediniai rūmai]]

@@ -1,26 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Prūsų kraštas (kraštas)'
-variantai:
-  - 'Prūsų kraštu'
-  - 'Prūsų kraštas'
-aliases:
-  - 'Prūsų kraštas'
 saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
 atnaujinta: ''
-laikotarpis: ''
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: ''
 tags:
   - vieta
 ---
@@ -31,18 +15,21 @@ tags:
 Jogaila sudarė taiką su Prūsų kraštu be Kęstučio žinios.
 
 ## Teiginiai
+
 <a id="claim-t-187297"></a>
 - t-001
   global_id: t-187297
-  teiginys: 'Jogaila sudarė taiką su Prūsų kraštu be Kęstučio žinios.'
+  teiginys: 'Lietuvos metraštyje Kęstučio pusės pasakojime Jogaila kaltinamas be Kęstučio žinios sudaręs taiką su Prūsų kraštu.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Išdavystės ir kaltinimo motyvas yra šališkas, todėl būtina atribucija.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Prūsai; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Jogaila sudarė taiką su Prūsų kraštu be Kęstučio žinios.'
+  santrauka: 'Lietuvos metraštyje Kęstučio pusės pasakojime Jogaila kaltinamas be Kęstučio žinios sudaręs taiką su Prūsų kraštu.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     tėvas kunigaikštis Kęstutis (tada jis buvo galingas),
@@ -62,10 +49,8 @@ Jogaila sudarė taiką su Prūsų kraštu be Kęstučio žinios.
     dėti ir nuolatos galvojo tik, kaip mano tėvą ir mane
     patį sugauti ir kaip mano tėvą ir mane nužudyti ir mū­
     sų žemę pasiglemžti.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

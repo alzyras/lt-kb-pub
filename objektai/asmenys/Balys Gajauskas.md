@@ -20,6 +20,8 @@ Sovietinė valdžia represijas prieš disidentus derino su dalinių nuolaidų ki
 - t-001
   global_id: t-18846
   teiginys: 'Sovietinė valdžia Balį Gajauską teisė kaip vieną iš disidentų, prieš kuriuos taikė represijas.'
+  sudarymo_pagrindimas: 'Pirminis sakinys per stipriai teigia apie priskyrimą ir suėmimą; citata aiškiai pagrindžia teisimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos Helsinkio grupė|Lietuvos Helsinkio grupė]]; mentioned_person: [[objektai/asmenys/Viktoras Petkus|Viktoras Petkus]]; mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -27,6 +29,11 @@ Sovietinė valdžia represijas prieš disidentus derino su dalinių nuolaidų ki
 - t-002
   global_id: t-183526
   teiginys: 'Sovietinė valdžia suėmė ir nuteisė disidentus Balį Gajauską ir Viktorą Petkų.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pašalintas nutrūkęs sąrašas ir paliktas citata pagrįstas faktas.'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -65,9 +72,3 @@ Sovietinė valdžia represijas prieš disidentus derino su dalinių nuolaidų ki
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuvos Helsinkio grupė]]
-- [[objektai/asmenys/Viktoras Petkus]]
-- [[objektai/grupes/Lietuvos disidentai]]

@@ -18,18 +18,19 @@ tags:
 Užsitęsusio karo metu mirė vyskupas ir daugy bė pralotų; drauge su jais žuvo ir valdovų kapų vietos paslaptis jie neatrasti nė XVIII a.
 
 ## Teiginiai
+
 <a id="claim-t-03124"></a>
 - t-001
   global_id: t-03124
   teiginys: 'Užsitęsusio karo metu mirus vyskupui ir daugeliui pralotų, buvo prarasta valdovų kapų vietos paslaptis.'
+  sudarymo_pagrindimas: 'Reikia išvalyti OCR triukšmą ir sklandžiau suformuluoti faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-
+- susijęs iš Vigrai: 1798 m. Prūsijos valdžia Vigriuose įsteigė atskirą, tiesiog popiežiui pavaldžią vyskupiją, 1818 m. perkeltą į Seinus.
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Užsitęsusio karo metu mirus vyskupui ir daugeliui pralotų, buvo prarasta valdovų kapų vietos paslaptis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Iš tikrųjų rusai visus likusius kapus išdraskė,
@@ -44,14 +45,8 @@ Užsitęsusio karo metu mirė vyskupas ir daugy bė pralotų; drauge su jais žu
     jie neatrasti nė XVIII
     a. pabaigoj, perstatant
     katedrą.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Rusai]]

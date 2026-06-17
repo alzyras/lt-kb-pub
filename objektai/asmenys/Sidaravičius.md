@@ -28,6 +28,8 @@ Prie kulkosvaidžio pritvirtintas užrašas: „Kulkosvydis, iš kurio šaudydam
 - t-001
   global_id: t-39809
   teiginys: 'Karužas Sidaravičius žuvo šaudydamas iš kulkosvaidžio, kuris du kartus buvo patekęs rusams ir vėl atimtas.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir remiasi užraše pateiktu faktu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]'
   pagrindžia:
     - c-001
 
@@ -50,7 +52,3 @@ Prie kulkosvaidžio pritvirtintas užrašas: „Kulkosvydis, iš kurio šaudydam
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Rusai]]

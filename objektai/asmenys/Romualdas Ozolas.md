@@ -3,10 +3,18 @@ tipas: asmuo
 pavadinimas: 'Romualdas Ozolas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1988 m.'
+date_start: '1988'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'XX a.'
 ---
 # Romualdas Ozolas
 
@@ -20,9 +28,18 @@ LPS tapo dar populiaresnis, kai nuo rugsėjo 16 dienos, be biuletenio „Sąjūd
 - t-001
   global_id: t-19214
   teiginys: 'Romualdas Ozolas buvo 1988 m. rugsėjo 16 d. pradėto leisti laikraščio „Atgimimas“ redaktorius.'
+  sudarymo_pagrindimas: 'Teiginys perrašytas kaip konkretus faktas apie asmenį.'
+  susije_objektai: 'mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1988 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys perrašytas kaip konkretus faktas apie asmenį.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/daiktai/Lietuvos trispalvė.md#claim-t-75336|Lietuvos trispalvė]]: Po Aleksandro Jakovlevo apsilankymo Lietuvoje LKP vadovybė oficialiai pripažino trispalvę ir „Tautišką giesmę“.
+- susijęs iš [[objektai/daiktai/Lietuvos trispalvė.md#claim-t-75338|Lietuvos trispalvė]]: Po Aleksandro Jakovlevo apsilankymo Lietuvoje LKP oficialiai pripažino trispalvę ir „Tautišką giesmę“.
+- susijęs iš [[objektai/ivykiai/Laikraščio „Atgimimas“ leidimo pradžia (1988 m. rugsėjo 16 d.).md#claim-t-26395|Laikraščio „Atgimimas“ leidimo pradžia (1988 m. rugsėjo 16 d.)]]: Rugsėjo 16 d. pradėtas leisti laikraštis „Atgimimas“, kurį redagavo Romualdas Ozolas.
+- susijęs iš Atgimimas: Laikraštis „Atgimimas“, redaguotas Romualdo Ozolo, pradėtas leisti rugsėjo 16 dieną.
+- susijęs iš Sąjūdžio žinios: „Sąjūdžio žinios“ buvo LPS biuletenis, greta kurio nuo rugsėjo 16 d. pradėtas leisti laikraštis „Atgimimas“.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -42,8 +59,3 @@ LPS tapo dar populiaresnis, kai nuo rugsėjo 16 dienos, be biuletenio „Sąjūd
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Lietuvos trispalvė]]
-- [[objektai/ivykiai/Laikraščio „Atgimimas“ leidimo pradžia (1988 m. rugsėjo 16 d.)]]

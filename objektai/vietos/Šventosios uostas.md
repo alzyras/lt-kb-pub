@@ -4,18 +4,20 @@ pavadinimas: 'Šventosios uostas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 datos:
+  - '1629 m.'
+  - '1635 m.'
   - '1660 m.'
-date_start: '1660'
-date_end: ''
+date_start: '1629'
+date_end: '1660'
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XVII'
 tags:
   - karas
   - kunigaikštis
   - miestas
   - vieta
+amziai:
+  - 'XVII'
 ---
 # Šventosios uostas
 
@@ -24,16 +26,21 @@ tags:
 Tada net buvo kilusi mintis įkurti Šventosios uostą.
 
 ## Teiginiai
+
 <a id="claim-t-74019"></a>
 - t-001
   global_id: t-74019
   teiginys: '1629–1635 m. suvaržius prekybą Klaipėdoje, buvo kilusi mintis įkurti Šventosios uostą.'
+  sudarymo_pagrindimas: 'Citata palaiko pilnesnį teiginį apie Šventosios uosto sumanymą.'
+  susije_objektai: 'mentioned_place: Nemunas; mentioned_place: Prūsai'
+  temporaliniai_duomenys: 'įvykio data: 1629-1635; įvykio data: 1635 m.; įvykio data: 1660 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko pilnesnį teiginį apie Šventosios uosto sumanymą.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: '1629–1635 m. suvaržius prekybą Klaipėdoje, buvo kilusi mintis įkurti Šventosios uostą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -45,10 +52,8 @@ Tada net buvo kilusi mintis įkurti Šventosios uostą.
     Nemunu dar labiau pasunkėjo, nes Prūsų kunigaikštis, atsipa-
     laidavęs nuo leninės priklausomybės (1660 m.), muitų tvarkyme
     jau nebepriklausė karaliaus.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

@@ -44,6 +44,12 @@ Nenurodyta
 - t-001
   global_id: t-62381
   teiginys: '1204 m. Livonija, Rygos provincijos žemė, popiežiaus Inocento rūpesčiu buvo atversta į Kristaus tikėjimą.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pradinis teiginys turi boilerplate ir nutrūkusią nuorodą, bet citata aiškiai remia faktą.'
+  susije_objektai: 'mentioned_place: Livonija; mentioned_place: Ryga'
+  temporaliniai_duomenys: 'įvykio data: 1204 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys turi boilerplate ir nutrūkusią nuorodą, bet citata aiškiai remia faktą.'
   pagrindžia:
     - c-001
 
@@ -62,7 +68,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Inocentas III]]

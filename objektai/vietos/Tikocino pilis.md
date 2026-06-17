@@ -3,11 +3,17 @@ tipas: vieta
 pavadinimas: 'Tikocino pilis'
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+datos:
+  - '1571 m.'
+date_start: '1571'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - pilis
   - vieta
+amziai:
+  - 'XVI'
 ---
 # Tikocino pilis
 
@@ -21,6 +27,11 @@ Norėdami, kad šis mūsų valios pareiški­ mas greičiau pasiektų žmones, �
 - t-001
   global_id: t-86244
   teiginys: '1571 m. gegužės 6 d. valdovas įsakė vieną savo testamento nuorašą laikyti Tikocino pilyje.'
+  sudarymo_pagrindimas: 'Citata palaiko faktą, bet pradinė formuluotė per ilga ir su OCR triukšmu.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/nuorašas|nuorašas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Tikocinas; mentioned_place: Varšuva; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1571 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko faktą, bet pradinė formuluotė per ilga ir su OCR triukšmu.'
   pagrindžia:
     - c-001
 

@@ -16,7 +16,7 @@ amziai:
 
 ## Santrauka
 
-Slucko kunigaikštis Simonas Mykolaitis Olelkaitis valdė Slucką ir Kopylių, o mirė 1505 m. rugsėjo 14 d. Fedoras Jaroslavičius susigiminiavo su Slucko kunigaikščiais Olelkaičiais, vesdamas Simono Olelkaičio dukterį Oleną Aleksandrą.
+Slucko kunigaikštis Simonas Mykolaitis Olelkaitis valdė Slucką ir Kopylių, o mirė 1505 m. rugsėjo 14 d. Fedoras Jaroslavičius susigiminiavo su Slucko kunigaikščiais Olelkaičiais ir, vedęs Oleną Aleksandrą, gavo Pinską.
 
 ## Teiginiai
 
@@ -24,13 +24,27 @@ Slucko kunigaikštis Simonas Mykolaitis Olelkaitis valdė Slucką ir Kopylių, o
 - t-001
   global_id: t-187761
   teiginys: 'Slucko kunigaikštis Simonas Mykolaitis Olelkaitis valdė Slucką ir Kopylių, o mirė 1505 m. rugsėjo 14 d.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys turi konkretų asmenį, valdas ir mirties datą, todėl yra tinkamas faktinis sakinys. Nepridėta genealoginė informacija apie Vladimiro palikuonis.'
+  susije_objektai: 'territory: Sluckas; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Sluckas'
+  semantiniai_rysiai: '[[objektai/grupes/Slucko kunigaikščiai Olelkaičiai|Slucko kunigaikščiai Olelkaičiai]] valdė teritoriją Sluckas'
+  temporaliniai_duomenys: 'valdymo laikotarpis: 1505 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Slucko kunigaikščiai Olelkaičiai valdė teritoriją Sluckas“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys turi konkretų asmenį, valdas ir mirties datą, todėl yra tinkamas faktinis sakinys. Nepridėta genealoginė informacija apie Vladimiro palikuonis.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-187762"></a>
 - t-002
   global_id: t-187762
-  teiginys: 'Fedoras Jaroslavičius susigiminiavo su Slucko kunigaikščiais Olelkaičiais, vesdamas Simono Olelkaičio dukterį Oleną Aleksandrą.'
+  teiginys: 'Fedoras Jaroslavičius susigiminiavo su Slucko kunigaikščiais Olelkaičiais ir, vedęs Oleną Aleksandrą, gavo Pinską.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys aiškiai sieja Fedorą Jaroslavičių su Olelkaičiais per santuoką ir Pinsko gavimą. Nepridėtos kitos jo valdos bei giminystės ryšiai.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Goštautai|Goštautai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Pinskas; mentioned_place: Sluckas'
   pagrindžia:
     - c-002
 
@@ -54,7 +68,7 @@ Slucko kunigaikštis Simonas Mykolaitis Olelkaitis valdė Slucką ir Kopylių, o
     - t-001
 
 - c-002
-  santrauka: 'Fedoras Jaroslavičius susigiminiavo su Slucko kunigaikščiais Olelkaičiais, vesdamas Simono Olelkaičio dukterį Oleną Aleksandrą.'
+  santrauka: 'Fedoras Jaroslavičius susigiminiavo su Slucko kunigaikščiais Olelkaičiais ir, vedęs Oleną Aleksandrą, gavo Pinską.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     5 Fedoras Ivanovičius Jaroslavičius — Maskvos emigranto, Ser-
@@ -72,9 +86,4 @@ Slucko kunigaikštis Simonas Mykolaitis Olelkaitis valdė Slucką ir Kopylių, o
     - t-002
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/grupes/Goštautai]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/grupes/Alšėniškių giminė]]
-- [[objektai/grupes/Goštautų giminė]]
+- Slucko kunigaikščiai Olelkaičiai valde_teritorija [[objektai/vietos/Sluckas]]

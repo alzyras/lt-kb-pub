@@ -41,6 +41,8 @@ Nenurodyta
 - t-001
   global_id: t-71563
   teiginys: 'Buvo mėgiami gintaro ir stiklo karoliai.'
+  sudarymo_pagrindimas: 'Teiginys yra trumpas, faktinis ir paremtas citatos sakiniu apie karolius.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Gintaras|Gintaras]]; mentioned_object: [[objektai/daiktai/Papuošalai|Papuošalai]]; mentioned_place: Kaimas'
   pagrindžia:
     - c-001
 
@@ -59,12 +61,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/papuošalas]]
-
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/daiktai/Papuošalai]]
-- [[objektai/daiktai/Gintaras]]

@@ -40,6 +40,8 @@ Nenurodyta
 - t-001
   global_id: t-59710
   teiginys: 'Įtvirtintas malūnas prie Baigos greičiausiai stovėjo apie 4 km į pietryčius nuo Baigos, prie upelio ties vėlesniu Hoppenbrucho kaimu.'
+  sudarymo_pagrindimas: 'Pradinis teiginys kalba apie kitą objektą ir turi nuorodų triukšmo, bet citata palaiko atsargų vietos teiginį.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_place: Baiga; mentioned_place: Kaimas'
   pagrindžia:
     - c-001
 
@@ -59,7 +61,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Malūnas]]

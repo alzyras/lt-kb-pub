@@ -31,6 +31,11 @@ Paulius Bochenas, neturė­ damas už ką minėtų mūrų remontuoti, mūrinį n
 - t-001
   global_id: t-87663
   teiginys: 'Vilniaus kanauninkas Eustachijus Kotovičius 1677 m. už 750 auksinų nusipirko mūrinį namą Bernardinų gatvėje.'
+  sudarymo_pagrindimas: 'Citata pagrindžia pirkimą, kainą ir vietą; pradiniame teiginyje yra OCR triukšmo.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/bursa|bursa]]; mentioned_person: [[objektai/asmenys/Eustachijus (raštininkas)|Eustachijus (raštininkas)]]; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1677 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia pirkimą, kainą ir vietą; pradiniame teiginyje yra OCR triukšmo.'
   pagrindžia:
     - c-001
 
@@ -62,9 +67,3 @@ Paulius Bochenas, neturė­ damas už ką minėtų mūrų remontuoti, mūrinį n
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Namas]]
-- [[objektai/zodynas/bursa]]
-- [[objektai/grupes/Žydai]]

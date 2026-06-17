@@ -22,9 +22,12 @@ Vireliūno, KRAŠTO MOKSLO VADOVĖLIS.
 - t-001
   global_id: t-12238
   teiginys: 'A. Vireliūno „Krašto mokslo vadovėlis“ buvo skirtas III pradžios mokyklos skyriui.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir paremtas bibliografine citata.'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-
+- susijęs iš Krašto mokslo vadovėlis: A. Vireliūno „Krašto mokslo vadovėlis“ buvo skirtas III pradžios mokyklos skyriui.
+- susijęs iš Vandens ir vėjo galybė: „Vandens ir vėjo galybę“ sudarė A. Vireliūnas ir P. Šinkūnas, o leidinys buvo iliustruotas daugybe paveikslėlių.
 ## Reikšmingi paminėjimai
 
 - c-001

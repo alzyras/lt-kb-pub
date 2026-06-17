@@ -15,6 +15,7 @@ tags:
   - karalius
   - miestas
   - seimas
+  - valstybė
 amziai:
   - 'XVI'
 periodo_grupes:
@@ -32,6 +33,11 @@ periodo_grupes:
 - t-001
   global_id: t-173147
   teiginys: '1545 m. liepos 17 d. karalienės Elžbietos mirtis nuliūdino rūmus ir Vilniaus miesto gyventojus.'
+  sudarymo_pagrindimas: 'Teiginys turi būti apie Elžbietą, o ne daugiausia apie Žygimanto Augusto atvykimą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/Elžbieta|Elžbieta]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Brasta; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1545 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys turi būti apie Elžbietą, o ne daugiausia apie Žygimanto Augusto atvykimą.'
   pagrindžia:
     - c-002
 
@@ -39,6 +45,12 @@ periodo_grupes:
 - t-002
   global_id: t-173148
   teiginys: 'Elžbieta, Ferdinando duktė, 1543 m. ištekėjo už Žygimanto Augusto, 1545 m. mirė Vilniuje ir buvo palaidota katedroje.'
+  sudarymo_pagrindimas: 'Pašalintas puslapio ir OCR triukšmas, palikti citatos pagrįsti faktai.'
+  susije_objektai: 'location: Trakai; location: Vengrija; location: Vilnius; location: Čekija; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Trakai; mentioned_place: Vengrija; mentioned_place: Vilnius; mentioned_place: Čekija'
+  semantiniai_rysiai: '[[objektai/asmenys/Elžbieta (Žygimanto Augusto žmona)|Elžbieta (Žygimanto Augusto žmona)]] mirė Trakai; [[objektai/asmenys/Elžbieta (Žygimanto Augusto žmona)|Elžbieta (Žygimanto Augusto žmona)]] mirė Vengrija; [[objektai/asmenys/Elžbieta (Žygimanto Augusto žmona)|Elžbieta (Žygimanto Augusto žmona)]] mirė Vilnius; [[objektai/asmenys/Elžbieta (Žygimanto Augusto žmona)|Elžbieta (Žygimanto Augusto žmona)]] mirė Čekija'
+  temporaliniai_duomenys: 'mirties data: 1543 m.; mirties data: 1545 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Elžbieta (Žygimanto Augusto žmona) mirė Trakai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Elžbieta (Žygimanto Augusto žmona) mirė Vengrija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Elžbieta (Žygimanto Augusto žmona) mirė Vilnius“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Elžbieta (Žygimanto Augusto žmona) mirė Čekija“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas puslapio ir OCR triukšmas, palikti citatos pagrįsti faktai.'
   pagrindžia:
     - c-001
 
@@ -46,6 +58,8 @@ periodo_grupes:
 - t-003
   global_id: t-173150
   teiginys: 'Italų meistrai Šv. Stanislovo bažnyčioje pastatė marmurinį antkapį karaliaus žmonai Elžbietai.'
+  sudarymo_pagrindimas: 'Teiginys turi OCR triukšmo; citata pagrindžia sutvarkytą faktą apie Elžbietos antkapį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_person: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Italija; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 
@@ -120,11 +134,7 @@ periodo_grupes:
     - t-003
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Augustas]]
-- [[objektai/asmenys/Barbora Radvilaitė]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/zodynas/kapitula]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/asmenys/Žygimantas]]
-- [[objektai/daiktai/Elžbietos ir Barboros marmuro antkapiai Šv. Stanislovo bažnyčioje]]
+- Elžbieta (Žygimanto Augusto žmona) mire [[objektai/vietos/Trakai]]
+- Elžbieta (Žygimanto Augusto žmona) mire [[objektai/vietos/Vengrija]]
+- Elžbieta (Žygimanto Augusto žmona) mire [[objektai/vietos/Vilnius]]
+- Elžbieta (Žygimanto Augusto žmona) mire [[objektai/vietos/Čekija]]

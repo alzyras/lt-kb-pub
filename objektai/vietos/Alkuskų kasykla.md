@@ -21,6 +21,8 @@ Alavas ir varis iš Vengrijos buvo gabenamas į Krokuvą, o ten superkamas į Vi
 - t-001
   global_id: t-86167
   teiginys: 'Iš Alkuskų kasyklos buvo vežami plienas ir geležis.'
+  sudarymo_pagrindimas: 'Pašalintas išnašos numeris ir perteiktas aiškus faktas apie kasyklą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Bomba|Bomba]]; mentioned_place: Vengrija'
   pagrindžia:
     - c-001
 

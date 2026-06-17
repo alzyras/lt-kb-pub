@@ -7,10 +7,6 @@ datos:
   - '1794 m.'
 date_start: '1794'
 date_end: ''
-aliases:
-  - 'objektai/asmenys/Antanas Klementas'
-variantai:
-  - 'Antanas Klementas'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -32,9 +28,14 @@ Vokiečių ŽEMAITIŠKA DAINELĖ Antanas Klementas.
 - t-001
   global_id: t-63302
   teiginys: 'Antanas Klementas 1794 m. revoliucijos laikais parašė „Žemaitišką dainelę“.'
+  teiginio_tipas: 'faktas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]'
+  temporaliniai_duomenys: 'įvykio data: 1794 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
-
+- susijęs iš Žemaitiška dainelė Žemaitiška giesmelė: Antanas Klementas „Žemaitišką dainelę“ parašė revoliucijos laikais, 1794 m.
+- susijęs iš Žemaitiška dainelė: Vokiečių ŽEMAITIŠKA DAINELĖ Antanas Klementas.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -52,7 +53,3 @@ Vokiečių ŽEMAITIŠKA DAINELĖ Antanas Klementas.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Vokiečiai]]

@@ -4,9 +4,12 @@ pavadinimas: 'Visos Lietuvos partizanų vadų suvažiavimas (1949 m. vasario 2�
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
+  - '1929 m.'
+  - '1936 m.'
+  - '1938 m.'
   - '1949 m.'
-date_start: '1949'
-date_end: ''
+date_start: '1929'
+date_end: '1949'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -20,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-Visos Lietuvos partizanų vadų suvažiavime Jonas Žemaitis-Vytautas buvo išrinktas LLKS Tarybos prezidiumo pirmininku ir gavo partizanų generolo laipsnį.
+Suvažiavime aptarti svarbiausi partizanų veiklą reglamentuojantys dokumentai, numatyta bendra kovos strategija ir taktikos kryptys, suformuota aukščiausioji partizanų vadovybė.
 
 ## Laikotarpis ir datos
 
@@ -44,9 +47,15 @@ Nenurodyta
 - t-001
   global_id: t-20551
   teiginys: 'Visos Lietuvos partizanų vadų suvažiavime Jonas Žemaitis-Vytautas buvo išrinktas LLKS Tarybos prezidiumo pirmininku ir gavo partizanų generolo laipsnį.'
+  sudarymo_pagrindimas: 'Teiginį verta susieti su pačiu suvažiavimu kaip note objektu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos laisvės kovos sąjūdis|Lietuvos laisvės kovos sąjūdis]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas Žemaitis-Vytautas|Jonas Žemaitis-Vytautas]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Prancūzija'
+  temporaliniai_duomenys: 'įvykio data: 1929 m.; įvykio data: 1936-1938; įvykio data: 1938 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginį verta susieti su pačiu suvažiavimu kaip note objektu.'
   pagrindžia:
     - c-001
-
+- susijęs iš Baisogala: 1949 m. vasario 2–22 d. bunkeryje tarp Radviliškio ir Baisogalos įvyko pirmasis ir paskutinis visos Lietuvos partizanų vadų suvažiavimas.
+- susijęs iš Baisogala: 1949 m. vasario 2–22 d. bunkeryje tarp Radviliškio ir Baisogalos įvyko pirmasis ir paskutinis visos Lietuvos partizanų vadų suvažiavimas.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -69,10 +78,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Artilerija]]
-- [[objektai/asmenys/Jonas]]
-- [[objektai/asmenys/Jonas Žemaitis-Vytautas]]
-- [[objektai/grupes/Lietuvos laisvės kovos sąjūdis]]

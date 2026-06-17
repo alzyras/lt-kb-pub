@@ -3,28 +3,39 @@ tipas: vieta
 pavadinimas: 'Chocimas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1621 m.'
+date_start: '1621'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
+amziai:
+  - 'XVII'
 ---
 # Chocimas
 
 ## Santrauka
 
-1621 m. ties Chocimu lenkų ir lietuvių kariuomenės stovykla atsilaikė prieš turkus, ir turkai pasitraukė.
+Jis pastojo turkams kelią Dniestro paupy, ties Chocimu.
 
 ## Teiginiai
+
 <a id="claim-t-02393"></a>
 - t-001
   global_id: t-02393
   teiginys: '1621 m. ties Chocimu lenkų ir lietuvių kariuomenės stovykla atsilaikė prieš turkus, ir turkai pasitraukė.'
+  sudarymo_pagrindimas: 'Patikslintas veiksnys pagal citatos kontekstą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Dniestras; mentioned_place: Lenkija'
+  temporaliniai_duomenys: 'įvykio data: 1621 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Patikslintas veiksnys pagal citatos kontekstą.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-
+- susijęs iš [[objektai/grupes/Turkijos kariuomenė.md#claim-t-41184|Turkijos kariuomenė]]: Chotino link artėjusią Turkijos kariuomenę sudarė apie 100000 karių, įskaitant spahius, janičarus, totorius, moldavus ir valakus.
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: '1621 m. ties Chocimu lenkų ir lietuvių kariuomenės stovykla atsilaikė prieš turkus, ir turkai pasitraukė.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -33,10 +44,8 @@ tags:
     menė, surinkus 40.000 lenkų ir lietuvių, buvo jam pavesta vado-
     vybė. Jis pastojo turkams kelią Dniestro paupy, ties Chocimu.
     Gerai sutvarkyta stovykla atsilaikė, ir turkai pasitraukė.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

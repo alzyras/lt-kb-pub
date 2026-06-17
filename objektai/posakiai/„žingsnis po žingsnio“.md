@@ -3,12 +3,18 @@ tipas: posakis
 pavadinimas: '„žingsnis po žingsnio“'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1990 m.'
+date_start: '1990'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - dokumentas
   - posakis
   - valstybė
+amziai:
+  - 'XX'
 ---
 # „žingsnis po žingsnio“
 
@@ -22,6 +28,11 @@ Tačiau LKP pertvarkos taktika („žingsnis po žingsnio“) neparuošė valsty
 - t-001
   global_id: t-20973
   teiginys: 'LKP pertvarkos taktika „žingsnis po žingsnio“ neturėjo valstybės atkūrimo programos ir neparengė tęstinumą įtvirtinančių dokumentų.'
+  sudarymo_pagrindimas: 'Pašalinta įžanginė jungtis ir OCR skaidymas, palikta citatos paremta esmė.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Suverenitetas|Suverenitetas]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1990 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalinta įžanginė jungtis ir OCR skaidymas, palikta citatos paremta esmė.'
   pagrindžia:
     - c-001
 
@@ -46,7 +57,3 @@ Tačiau LKP pertvarkos taktika („žingsnis po žingsnio“) neparuošė valsty
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Suverenitetas]]

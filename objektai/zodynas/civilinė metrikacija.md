@@ -29,6 +29,11 @@ Naujoji valdžia, taupydama lėšas, mažino atlyginimus, planavo įvesti civili
 - t-001
   global_id: t-77790
   teiginys: 'III Seimo naujoji valdžia planavo įvesti civilinę metrikaciją, kuri būtų finansiškai paveikusi katalikų kunigus.'
+  sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir apkrautas kitais su civiline metrikacija nesusijusiais faktais.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]'
+  temporaliniai_duomenys: 'įvykio data: po 1927 m.; įvykio data: 1927 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys per ilgas ir apkrautas kitais su civiline metrikacija nesusijusiais faktais.'
   pagrindžia:
     - c-001
 
@@ -53,10 +58,3 @@ Naujoji valdžia, taupydama lėšas, mažino atlyginimus, planavo įvesti civili
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/seimas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/III Seimas]]
-- [[objektai/ivykiai/III Seimo daugumos demokratinės reformos (1926 m. birželio 17 d.)]]

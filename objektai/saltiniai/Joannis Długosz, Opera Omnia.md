@@ -29,6 +29,9 @@ DlugO = Joannis Długosz, Opera Omnia, t.
 - t-001
   global_id: t-31739
   teiginys: '„Joannis Długosz, Opera Omnia“ 11–14 tomai buvo išleisti Krokuvoje 1873–1878 m.'
+  susije_objektai: 'mentioned_place: Kijevas; mentioned_place: Krokuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1873-1878; įvykio data: 1878 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

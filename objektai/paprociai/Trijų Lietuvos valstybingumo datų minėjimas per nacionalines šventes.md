@@ -5,7 +5,9 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1253 m.'
+  - '1795 m.'
   - '1918 m.'
+  - '1990 m.'
   - '2026 m.'
 date_start: '1253'
 date_end: '2026'
@@ -19,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Per nacionalines šventes minimos Liepos 6-osios, Vasario 16-osios ir 1990 m. Kovo 11-osios Lietuvos valstybingumo datos. Nacionalinėse šventėse minimi trys Lietuvos valstybės kūrimosi ar atkūrimo momentai po istorinių valstybingumo praradimų. Per nacionalines šventes minimos Liepos 6-osios, Vasario 16-osios ir 1990 m. Kovo 11-osios Lietuvos valstybingumo datos.
+Lietuviai per nacionalines šventes mini tris Lietuvos valstybingumo datas. Minimos Liepos 6-osios, Vasario 16-osios ir Kovo 11-osios Lietuva.
 
 ## Laikotarpis ir datos
 
@@ -47,6 +49,11 @@ Nenurodyta
 - t-001
   global_id: t-78722
   teiginys: 'Per nacionalines šventes minimos Liepos 6-osios, Vasario 16-osios ir 1990 m. Kovo 11-osios Lietuvos valstybingumo datos.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1795 m.; įvykio data: 1990 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, aiškus ir paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -54,6 +61,11 @@ Nenurodyta
 - t-002
   global_id: t-78723
   teiginys: 'Nacionalinėse šventėse minimi trys Lietuvos valstybės kūrimosi ar atkūrimo momentai po istorinių valstybingumo praradimų.'
+  sudarymo_pagrindimas: 'Pirminis sakinys yra kontekstinis ir prasideda jungtuku, todėl perrašytas kaip savarankiškas faktas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_place: Lietuva; mentioned_place: Švedija'
+  temporaliniai_duomenys: 'įvykio data: 1795 m.; įvykio data: 1990 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pirminis sakinys yra kontekstinis ir prasideda jungtuku, todėl perrašytas kaip savarankiškas faktas.'
   pagrindžia:
     - c-002
 
@@ -61,6 +73,11 @@ Nenurodyta
 - t-004
   global_id: t-78725
   teiginys: 'Lietuva tris valstybingumo atkūrimo ar kūrimo kartus mini per nacionalines šventes.'
+  sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir nutolęs nuo objekto; citata palaiko glaustesnę formuluotę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_place: Lietuva; mentioned_place: Švedija'
+  temporaliniai_duomenys: 'įvykio data: 1795 m.; įvykio data: 1990 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys per ilgas ir nutolęs nuo objekto; citata palaiko glaustesnę formuluotę.'
   pagrindžia:
     - c-002
 
@@ -68,6 +85,11 @@ Nenurodyta
 - t-005
   global_id: t-78726
   teiginys: 'Trijų Lietuvos valstybingumo datų minėjimas siejamas su Mindaugo karūnavimu, valstybingumo atkūrimu ir atsiskyrimu nuo sovietų imperijos.'
+  sudarymo_pagrindimas: 'Reikia pakeisti neaiškų įvardį ir tiksliau įvardyti minėjimo turinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1795 m.; įvykio data: 1990 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia pakeisti neaiškų įvardį ir tiksliau įvardyti minėjimo turinį.'
   pagrindžia:
     - c-001
 
@@ -114,9 +136,3 @@ Nenurodyta
   pagrindžia:
     - t-002
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]

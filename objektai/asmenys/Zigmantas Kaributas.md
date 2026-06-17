@@ -5,8 +5,9 @@ saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1421 m.'
+  - '1423 m.'
 date_start: '1421'
-date_end: ''
+date_end: '1423'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -14,6 +15,7 @@ tags:
   - bajorija
   - karas
   - popiežius
+  - tauta
 amziai:
   - 'XV'
 periodo_grupes:
@@ -23,7 +25,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Vytautas, nepaisydamas lenkų pasipriešinimo, pasiuntė Zigmantą Kaributą į Prahą savo vietininku. Zigmantas Kaributas vadovavo kai kurioms lenkų kariuomenės dalims per karą, kuriame buvo nuniokoti Prūsai. Vytautas pasiuntė savo sūnėną Zigmantą Kaributą į Čekiją vietininku su keliolika tūkstančių kareivių.
+Tada čekai Kutnos Hožos seime (1421) ir išrinko Vytautą savo karalium, kuris pasiuntė jiems savo vietininku sūnėną Zigmantą Kaributą su keliolika tūkstančių kareivių. Kaributas savo valia buvo dar kartą išvykęs į Čekiją ir, susidėjęs su čekų vadu Prokopu, ka­ riavo su Zigmantu, bet husitų eilėms retėjant, pradėjo derybas su popiežium ir už tą buvo išvytas iš Čekijos. Vytauto bajorai irgi dalyvavo kovose, kaip antai, kun. Zigmantas Kaributas vadovavo kai kurioms lenkų kariuomenės dalims.
 
 ## Teiginiai
 
@@ -31,6 +33,11 @@ Vytautas, nepaisydamas lenkų pasipriešinimo, pasiuntė Zigmantą Kaributą į 
 - t-001
   global_id: t-176865
   teiginys: 'Vytautas, nepaisydamas lenkų pasipriešinimo, pasiuntė Zigmantą Kaributą į Prahą savo vietininku.'
+  sudarymo_pagrindimas: 'Teiginys yra užbaigtas sakinys ir tiksliai remiasi citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_person: [[objektai/asmenys/Kaributas|Kaributas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Praga; mentioned_place: Praha'
+  temporaliniai_duomenys: 'įvykio data: 1423 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra užbaigtas sakinys ir tiksliai remiasi citata.'
   pagrindžia:
     - c-003
 
@@ -38,6 +45,8 @@ Vytautas, nepaisydamas lenkų pasipriešinimo, pasiuntė Zigmantą Kaributą į 
 - t-002
   global_id: t-176866
   teiginys: 'Zigmantas Kaributas vadovavo kai kurioms lenkų kariuomenės dalims per karą, kuriame buvo nuniokoti Prūsai.'
+  sudarymo_pagrindimas: 'Citata tiesiogiai nesako „kare prieš Prūsus“, todėl formuluotę reikia priderinti prie šaltinio.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Kaributas|Kaributas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Prūsai; mentioned_place: Zakračimas'
   pagrindžia:
     - c-001
 
@@ -45,6 +54,8 @@ Vytautas, nepaisydamas lenkų pasipriešinimo, pasiuntė Zigmantą Kaributą į 
 - t-003
   global_id: t-176867
   teiginys: 'Vytautas pasiuntė savo sūnėną Zigmantą Kaributą į Čekiją vietininku su keliolika tūkstančių kareivių.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus ir paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_object: [[objektai/zodynas/Kariauna|Kariauna]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kaributas|Kaributas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Praga; mentioned_place: Čekija'
   pagrindžia:
     - c-002
 
@@ -52,9 +63,11 @@ Vytautas, nepaisydamas lenkų pasipriešinimo, pasiuntė Zigmantą Kaributą į 
 - t-005
   global_id: t-176869
   teiginys: 'Zigmantas Kaributas savo valia vėl išvyko į Čekiją, kariavo su Zigmantu ir pradėjęs derybas su popiežiumi buvo išvytas.'
+  susije_objektai: 'counterparty: [[objektai/grupes/Husitai|Husitai]]; counterparty: [[objektai/asmenys/Kaributas|Kaributas]]; counterparty: [[objektai/grupes/Lietuviai|Lietuviai]]; counterparty: [[objektai/asmenys/Vytautas|Vytautas]]; counterparty: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; counterparty: [[objektai/grupes/Čekai|Čekai]]; mentioned_group: [[objektai/grupes/Husitai|Husitai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_person: [[objektai/asmenys/Kaributas|Kaributas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Lietuva; mentioned_place: Čekija'
+  semantiniai_rysiai: '[[objektai/asmenys/Zigmantas Kaributas|Zigmantas Kaributas]] kariavo prieš [[objektai/asmenys/Kaributas|Kaributas]]; [[objektai/asmenys/Zigmantas Kaributas|Zigmantas Kaributas]] kariavo prieš [[objektai/asmenys/Vytautas|Vytautas]]; [[objektai/asmenys/Zigmantas Kaributas|Zigmantas Kaributas]] kariavo prieš [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; [[objektai/asmenys/Zigmantas Kaributas|Zigmantas Kaributas]] kariavo prieš [[objektai/grupes/Husitai|Husitai]]; [[objektai/asmenys/Zigmantas Kaributas|Zigmantas Kaributas]] kariavo prieš [[objektai/grupes/Lietuviai|Lietuviai]]; [[objektai/asmenys/Zigmantas Kaributas|Zigmantas Kaributas]] kariavo prieš [[objektai/grupes/Čekai|Čekai]]'
   pagrindžia:
     - c-004
-
+- susijęs iš Zakračimas: Prie Zakračimo prie Vislos susijungusios lietuvių, rusų, totorių ir lenkų jėgos padėjo nuniokoti Prūsus.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -142,16 +155,9 @@ Vytautas, nepaisydamas lenkų pasipriešinimo, pasiuntė Zigmantą Kaributą į 
     - t-006
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bajorai]]
-- [[objektai/grupes/Husitai]]
-- [[objektai/daiktai/Karūna]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/zodynas/vietininkas]]
-- [[objektai/grupes/Čekai]]
-- [[objektai/daiktai/Iždo ir pilių raktai]]
-- [[objektai/daiktai/Šv. Vaclovo karūna]]
-- [[objektai/ivykiai/Šv. Vaclovo karūnos pasiūlymas Jogailai ir Vytauto sutikimas priimti čekų karūną (1420–1421 m.)]]
+- Zigmantas Kaributas kariavo_pries [[objektai/grupes/Husitai]]
+- Zigmantas Kaributas kariavo_pries [[objektai/asmenys/Kaributas]]
+- Zigmantas Kaributas kariavo_pries [[objektai/grupes/Lietuviai]]
+- Zigmantas Kaributas kariavo_pries [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Zigmantas Kaributas kariavo_pries [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
+- Zigmantas Kaributas kariavo_pries [[objektai/grupes/Čekai]]

@@ -21,6 +21,8 @@ Karijotaičiai Podolėje pastatė Smotričo, Bakotos, Kameneco pilis, užage —
 - t-001
   global_id: t-42157
   teiginys: 'Karijotaičiai Podolėje pastatė Smotričo, Bakotos ir Kameneco pilis ir valdė visą šią žemę.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Smotričo pilį ir yra paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Karijotaičiai|Karijotaičiai]]; mentioned_place: Bakota; mentioned_place: Kamenecas; mentioned_place: Kameneco pilis; mentioned_place: Podolė'
   pagrindžia:
     - c-001
 

@@ -21,9 +21,12 @@ Taip atsirado nacionalinė eurokomunistinio tipo partija, turinti reformuotą pr
 - t-001
   global_id: t-22138
   teiginys: 'Savarankiška LKP tapo nacionaline eurokomunistinio tipo partija su reformuota programa ir nauju statutu.'
+  sudarymo_pagrindimas: 'Citata leidžia patikslinti, apie kokią partiją kalbama.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/statutas|statutas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/grupes/Lietuvos komunistų partija.md#claim-t-78357|Lietuvos komunistų partija]]: LKP atsiskyrus nuo SSKP, atsirado nacionalinė eurokomunistinio tipo partija su reformuota programa ir nauju statutu.
+- susijęs iš [[objektai/grupes/Sovietų Sąjungos komunistų partija.md#claim-t-74929|Sovietų Sąjungos komunistų partija]]: 1989 m. gruodį LKP XX suvažiavime atsiskyrus nuo SSKP atsirado nacionalinė eurokomunistinio tipo partija.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -40,10 +43,3 @@ Taip atsirado nacionalinė eurokomunistinio tipo partija, turinti reformuotą pr
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/statutas]]
-- [[objektai/grupes/Lietuvos komunistų partija]]
-- [[objektai/grupes/Sovietų Sąjungos komunistų partija]]
-- [[objektai/grupes/Lietuvos demokratinė darbo partija]]

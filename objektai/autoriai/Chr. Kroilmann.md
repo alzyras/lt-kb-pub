@@ -28,6 +28,9 @@ Kroilmann : Politische Geschichte des Deutschen Ornens in Preussen, Königsberg 
 - t-001
   global_id: t-30581
   teiginys: 'Chr. Kroilmann 1932 m. Karaliaučiuje paskelbė veikalą „Politische Geschichte des Deutschen Ordens in Preussen“.'
+  susije_objektai: 'mentioned_person: [[objektai/autoriai/Z. Ivinskis|Z. Ivinskis]]'
+  temporaliniai_duomenys: 'įvykio data: 1932 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

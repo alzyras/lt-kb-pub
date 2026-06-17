@@ -28,9 +28,10 @@ Kulikauskas, pateikęs duomenų apie seniausiai Lietuvoje augintus javus (AkMD, 
 - t-001
   global_id: t-30905
   teiginys: 'P. Kulikauskas parašė darbą „Kurmaičių (Kretingos raj.) plokštinio kapinyno tyrinėjimai“.'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/autoriai/Kulikauskas P.md#claim-t-60735|Kulikauskas P]]: P. Kulikauskas kapinynų ir kai kurių piliakalnių tyrimais grindė teiginį, kad Užnemunė, ypač jos šiaurė, nebuvo negyvenama.
 ## Reikšmingi paminėjimai
 
 - c-001

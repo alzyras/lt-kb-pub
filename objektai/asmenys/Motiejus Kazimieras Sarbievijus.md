@@ -3,10 +3,19 @@ tipas: asmuo
 pavadinimas: 'Motiejus Kazimieras Sarbievijus'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1618 m.'
+  - '1646 m.'
+date_start: '1618'
+date_end: '1646'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+amziai:
+  - 'XVII'
+periodo_grupes:
+  - 'LDK'
 ---
 # Motiejus Kazimieras Sarbievijus
 
@@ -20,6 +29,11 @@ Vilniaus universiteto profesorių veikalai pasiekė net protestantiškąją Angl
 - t-001
   global_id: t-19157
   teiginys: 'Motiejaus Kazimiero Sarbievijaus poezija 1646 m. buvo išversta iš lotynų į anglų kalbą ir skaitoma Europos universitetuose.'
+  sudarymo_pagrindimas: 'Sakinys aiškiai sieja Sarbievijaus poeziją su vertimu ir skaitymu universitetuose.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Anglai|Anglai]]; mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_person: [[objektai/asmenys/Horacijus|Horacijus]]; mentioned_person: [[objektai/autoriai/Martynas Smigleckis|Martynas Smigleckis]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Anglija; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Oksfordas; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1618 m.; įvykio data: 1646 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Sakinys aiškiai sieja Sarbievijaus poeziją su vertimu ir skaitymu universitetuose.'
   pagrindžia:
     - c-001
 
@@ -45,8 +59,3 @@ Vilniaus universiteto profesorių veikalai pasiekė net protestantiškąją Angl
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Anglai]]
-- [[objektai/grupes/Lotynai]]

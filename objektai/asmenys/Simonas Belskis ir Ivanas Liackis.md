@@ -18,6 +18,11 @@ Ivanui Liackiui atiteko Želudokas ir Aukštadvaris, o jo giminė išgarsėjo ta
 - t-001
   global_id: t-186075
   teiginys: 'Ivanui Liackiui atiteko Želudokas ir Aukštadvaris, o jo giminė išgarsėjo taikos darbais, karo žygiais ir aukštomis pareigybėmis.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata palaiko faktą apie Liackio valdas ir giminę.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/jurisdikcija|jurisdikcija]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -41,7 +46,3 @@ Ivanui Liackiui atiteko Želudokas ir Aukštadvaris, o jo giminė išgarsėjo ta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/jurisdikcija]]

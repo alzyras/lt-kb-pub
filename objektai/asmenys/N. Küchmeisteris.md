@@ -20,6 +20,8 @@ Küchmeisteris.
 - t-001
   global_id: t-30366
   teiginys: 'Žemaičių seniūnas N. Küchmeisteris buvo tarp žymiųjų belaisvių.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-001
 
@@ -38,7 +40,3 @@ Küchmeisteris.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/seniūnas]]

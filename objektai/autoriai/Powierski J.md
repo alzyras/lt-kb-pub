@@ -20,7 +20,7 @@ periodo_grupes: []
 
 ## Santrauka
 
-J. Powierski cituojamas aiškinant Ordino konvento ir krašto magistro Hermano Balko įsikūrimą Nesavos pilyje. J. Powierski sukilimo pradžią siejo su 1243 m. paskutiniu ketvirčiu. J. Powierski teigė, kad dalis Galindos gyventojų galėjo išlikti iki XIII a.
+Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J. Dusburgietis teigia, kad pierwsi protektorzy...; HP, 1, 1, p. 425—427; Powierski J. Dusburgietis teigia, kad kariavo su prūsais, turėjo bazę greičiausiai Kulme (Kalduse); vėliau čia buvo žinomas vietovardis Potterberg—Mons Butyri (Powierski J.
 
 ## Teiginiai
 
@@ -28,6 +28,8 @@ J. Powierski cituojamas aiškinant Ordino konvento ir krašto magistro Hermano B
 - t-001
   global_id: t-60506
   teiginys: 'J. Powierski cituojamas aiškinant Ordino konvento ir krašto magistro Hermano Balko įsikūrimą Nesavos pilyje.'
+  sudarymo_pagrindimas: 'Citata palaiko autoriaus ryšį su Nesavos pilies epizodo aiškinimu.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Hermanas|Hermanas]]; mentioned_person: [[objektai/asmenys/Hermanas Balkas|Hermanas Balkas]]; mentioned_person: [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos]]'
   pagrindžia:
     - c-005
 
@@ -35,6 +37,11 @@ J. Powierski cituojamas aiškinant Ordino konvento ir krašto magistro Hermano B
 - t-002
   global_id: t-60507
   teiginys: 'J. Powierski sukilimo pradžią siejo su 1243 m. paskutiniu ketvirčiu.'
+  sudarymo_pagrindimas: 'Citata nurodo Powierskio poziciją, bet pradinį teiginį reikia sutvarkyti.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
+  temporaliniai_duomenys: 'įvykio data: 1242 m.; įvykio data: 1243 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata nurodo Powierskio poziciją, bet pradinį teiginį reikia sutvarkyti.'
   pagrindžia:
     - c-003
 
@@ -42,6 +49,8 @@ J. Powierski cituojamas aiškinant Ordino konvento ir krašto magistro Hermano B
 - t-003
   global_id: t-60508
   teiginys: 'J. Powierski teigė, kad dalis Galindos gyventojų galėjo išlikti iki XIII a.'
+  sudarymo_pagrindimas: 'Citata tiesiogiai sieja Powierskį su šiuo teiginiu.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/dykra|dykra]]; mentioned_place: Galinda'
   pagrindžia:
     - c-006
 
@@ -49,6 +58,8 @@ J. Powierski cituojamas aiškinant Ordino konvento ir krašto magistro Hermano B
 - t-004
   global_id: t-60509
   teiginys: 'J. Powierski cituojamas aiškinant Romovės šventojo ąžuolo ryšį su indoeuropiečių mitologiniais vaizdiniais.'
+  sudarymo_pagrindimas: 'Citata palaiko autoriaus ryšį su mitologinio aiškinimo tema.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Šventasis ąžuolas|Šventasis ąžuolas]]; mentioned_person: [[objektai/autoriai/S. Grunau|S. Grunau]]; mentioned_place: Romuva'
   pagrindžia:
     - c-001
 
@@ -56,6 +67,11 @@ J. Powierski cituojamas aiškinant Ordino konvento ir krašto magistro Hermano B
 - t-005
   global_id: t-60511
   teiginys: 'J. Powierski cituojamas aiškinant 1218 m. Kristijono žygį ir jo sutartį su Mazovijos kunigaikščiu Konradu.'
+  sudarymo_pagrindimas: 'Citata palaiko autoriaus ryšį su konkretaus įvykio aiškinimu.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_place: Mazovija'
+  temporaliniai_duomenys: 'įvykio data: 1218 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko autoriaus ryšį su konkretaus įvykio aiškinimu.'
   pagrindžia:
     - c-004
 
@@ -63,6 +79,8 @@ J. Powierski cituojamas aiškinant Ordino konvento ir krašto magistro Hermano B
 - t-006
   global_id: t-60512
   teiginys: 'J. Powierskio darbai nurodyti tarp literatūros apie Romovę arba Romuvą.'
+  sudarymo_pagrindimas: 'Citata pagrindžia tik tai, kad Powierskio darbai įtraukti į literatūros sąrašą apie Romovę.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_place: Romuva'
   pagrindžia:
     - c-002
 
@@ -70,6 +88,11 @@ J. Powierski cituojamas aiškinant Ordino konvento ir krašto magistro Hermano B
 - t-007
   global_id: t-60513
   teiginys: 'J. Powierski cituojamas aiškinant Hugono Butyro kovas su prūsais ir galimą jo bazę Kulme.'
+  sudarymo_pagrindimas: 'Citata palaiko autoriaus ryšį su Hugono Butyro veiklos aiškinimu.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Hugonas|Hugonas]]; mentioned_place: Krokuva; mentioned_place: Kulmas; mentioned_place: Mazovija; mentioned_place: Olandija'
+  temporaliniai_duomenys: 'įvykio data: po 1146 m.; įvykio data: 1146 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko autoriaus ryšį su Hugono Butyro veiklos aiškinimu.'
   pagrindžia:
     - c-007
 
@@ -77,6 +100,10 @@ J. Powierski cituojamas aiškinant Ordino konvento ir krašto magistro Hermano B
 - t-008
   global_id: t-60514
   teiginys: 'J. Powierski siūlė vėlesnę pilies statybos, konvento perkėlimo ir miesto lokacinės privilegijos chronologiją.'
+  sudarymo_pagrindimas: 'Citata palaiko teiginį apie Powierskio siūlytą chronologiją.'
+  temporaliniai_duomenys: 'įvykio data: 1279 m.; įvykio data: 1281 m.; įvykio data: 1286 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata palaiko teiginį apie Powierskio siūlytą chronologiją.'
   pagrindžia:
     - c-008
 
@@ -197,14 +224,3 @@ J. Powierski cituojamas aiškinant Ordino konvento ir krašto magistro Hermano B
   statusas: verified
   pagrindžia:
     - t-008
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/dykra]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/daiktai/Šventasis ąžuolas]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/ivykiai/Kristijono kryžiaus žygio įteisinimas ir įvykdymas]]
-- [[objektai/ivykiai/Pirmasis prūsų atsimetimas ir Sventopelko sukeltas Prūsijos žemių nusiaubimas (1242 m.)]]

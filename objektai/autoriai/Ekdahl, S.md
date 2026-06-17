@@ -3,20 +3,15 @@ tipas: autorius
 pavadinimas: 'Ekdahl, S'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-datos:
-  - '1888 m.'
-  - '1963 m.'
-date_start: '1888'
-date_end: '1963'
+datos: []
+date_start: ''
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
-amziai:
-  - 'XIX'
-  - 'XX'
-periodo_grupes:
-  - 'naujieji laikai'
+amziai: []
+periodo_grupes: []
 ---
 # Ekdahl, S
 
@@ -30,6 +25,9 @@ Ekdahl, S.: Die Flucht der Litauer in der Schlacht bei Tannenberg, ZfO, 12, 1, 1
 - t-001
   global_id: t-54114
   teiginys: 'S. Ekdahlas 1963 m. paskelbė straipsnį apie lietuvių pasitraukimą Tanenbergo mūšyje.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Tanenbergas'
+  temporaliniai_duomenys: 'įvykio data: 1409 m.; įvykio data: 1963 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -37,6 +35,9 @@ Ekdahl, S.: Die Flucht der Litauer in der Schlacht bei Tannenberg, ZfO, 12, 1, 1
 - t-002
   global_id: t-54115
   teiginys: 'S. Ekdahl 1963 m. paskelbė straipsnį apie lietuvių pasitraukimą Tanenbergo mūšyje.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Tanenbergas'
+  temporaliniai_duomenys: 'įvykio data: 1409 m.; įvykio data: 1963 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -55,7 +56,3 @@ Ekdahl, S.: Die Flucht der Litauer in der Schlacht bei Tannenberg, ZfO, 12, 1, 1
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]

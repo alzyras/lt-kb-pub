@@ -42,6 +42,8 @@ Nenurodyta
 - t-001
   global_id: t-26395
   teiginys: 'Rugsėjo 16 d. pradėtas leisti laikraštis „Atgimimas“, kurį redagavo Romualdas Ozolas.'
+  sudarymo_pagrindimas: 'Perrašyta glaudžiau ir pašalinta perteklinė formuluotė apie biuletenį.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Romualdas Ozolas|Romualdas Ozolas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -66,7 +68,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Romualdas Ozolas]]

@@ -21,9 +21,12 @@ Or­ dino kariuomenė užtraukė pergalės giesmę „Christ ist erstan­ den“
 - t-001
   global_id: t-35966
   teiginys: 'Ordino kariuomenė užtraukė pergalės giesmę „Christ ist erstanden“ ir pakilusia nuotaika kovojo toliau.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai paremtas citata apie giesmės vartojimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Vytis|Vytis]]'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/daiktai/Vėliavos.md#claim-t-184344|Vėliavos]]: Vyriausioji Lenkijos vėliava pateko į priešų rankas.
+- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-184330|Lenkai]]: Vyriausioji Lenkijos vėliava pateko į priešų rankas.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -40,10 +43,3 @@ Or­ dino kariuomenė užtraukė pergalės giesmę „Christ ist erstan­ den“
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/daiktai/Vytis]]
-- [[objektai/daiktai/Vėliavos]]

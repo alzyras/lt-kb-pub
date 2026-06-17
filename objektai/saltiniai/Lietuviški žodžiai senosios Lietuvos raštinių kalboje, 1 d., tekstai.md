@@ -27,6 +27,11 @@ Su gausiomis originalių šaltinių ištraukomis jis išrinko gausius lietuvišk
 - t-001
   global_id: t-31789
   teiginys: '1941 m. rinkinyje „Lietuviški žodžiai senosios Lietuvos raštinių kalboje, 1 d., tekstai“ pateikti 299 lietuviški žodžiai.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1941 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
   pagrindžia:
     - c-001
 

@@ -33,6 +33,11 @@ Nenurodyta
 - t-001
   global_id: t-185861
   teiginys: 'Skitų bajorijos kilmę sau priskyrę žmonės valdė kunigaikščių padovanotus laukus ir savo lėšomis turėjo eiti karinę tarnybą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys sutrumpintas, pašalintos laužytos eilutės ir palikta citata paremta tarnybos praktika.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/skitai|skitai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -61,8 +66,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/skitai]]
-- [[objektai/zodynas/kunigaikščiai]]

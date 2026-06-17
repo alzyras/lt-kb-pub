@@ -20,6 +20,8 @@ tags:
 - t-001
   global_id: t-38977
   teiginys: 'Neseniai suformuota lietuvių aviacijos eskadrilė buvo panaudota operacijoje.'
+  sudarymo_pagrindimas: 'Pataisyta rašyba ir pašalintas neaiškus įvardis.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Lėktuvai|Lėktuvai]]'
   pagrindžia:
     - c-001
 
@@ -41,9 +43,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/daiktai/Lėktuvai]]
-- [[objektai/ivykiai/Antrasis Panevėžio puolimas]]

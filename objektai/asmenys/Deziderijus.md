@@ -18,6 +18,15 @@ Karalius Deziderijus, tikėdamasis Galijos maištų suteiktos progos, vėl prad�
 - t-001
   global_id: t-186195
   teiginys: 'Karalius Deziderijus, tikėdamasis Galijos maištų suteiktos progos, vėl pradėjo niokoti Romos ir popiežiaus valdas.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pašalintas retorinis intarpas ir puslapio triukšmas.'
+  susije_objektai: 'territory: Italija; mentioned_place: Italija'
+  semantiniai_rysiai: '[[objektai/asmenys/Deziderijus|Deziderijus]] buvo valdovas Italija'
+  temporaliniai_duomenys: 'valdymo pradžia: 754 m'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Deziderijus buvo valdovas Italija“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas retorinis intarpas ir puslapio triukšmas.'
   pagrindžia:
     - c-001
 
@@ -43,3 +52,6 @@ Karalius Deziderijus, tikėdamasis Galijos maištų suteiktos progos, vėl prad�
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+- Deziderijus buvo_valdovas [[objektai/vietos/Italija]]

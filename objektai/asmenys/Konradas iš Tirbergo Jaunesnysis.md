@@ -14,6 +14,7 @@ tags:
   - ežeras
   - karas
   - pilis
+  - tikėjimas
 amziai:
   - 'XIII'
 periodo_grupes:
@@ -31,6 +32,8 @@ Dusburgietis teigia, kad apie Pakimos valsčiaus Sūduvos žemėje nusiaubimą T
 - t-001
   global_id: t-175240
   teiginys: 'Magistras Konradas iš Tirbergo Jaunesnysis subūrė brolius ir karius žygiui į Sūduvą.'
+  sudarymo_pagrindimas: 'Pašalintas antraštės ir OCR triukšmas, paliktas aiškus veiksmas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_place: Kimenava; mentioned_place: Sūduva; mentioned_place: Viena'
   pagrindžia:
     - c-004
 
@@ -38,6 +41,8 @@ Dusburgietis teigia, kad apie Pakimos valsčiaus Sūduvos žemėje nusiaubimą T
 - t-002
   global_id: t-175241
   teiginys: 'Konradas iš Tirbergo Jaunesnysis buvo dvyliktas Prūsijos magistras ir vadovavo pusšeštų metų.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatinis ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
 
@@ -45,6 +50,8 @@ Dusburgietis teigia, kad apie Pakimos valsčiaus Sūduvos žemėje nusiaubimą T
 - t-003
   global_id: t-175242
   teiginys: 'Konradas iš Tirbergo Jaunesnysis, būdamas Prūsijos žemės maršalas, įsiveržė į Pakimos valsčių Sūduvoje ir jį smarkiai nusiaubė.'
+  sudarymo_pagrindimas: 'Pradinis teiginys negramatiškas ir su OCR triukšmu, bet citata remia aiškų faktą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Prūsija; mentioned_place: Sūduva'
   pagrindžia:
     - c-002
 
@@ -52,9 +59,12 @@ Dusburgietis teigia, kad apie Pakimos valsčiaus Sūduvos žemėje nusiaubimą T
 - t-004
   global_id: t-175243
   teiginys: 'Konradas iš Tirbergo Jaunesnysis su didele kariuomene puolė Bisenės pilį, ją užėmė ir pavertė pelenais.'
+  sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir fragmentiškas, citata remia glaustą veiksmą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Bisenė; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Pilėnai; mentioned_place: Prūsija'
   pagrindžia:
     - c-003
-
+- susijęs iš [[objektai/ivykiai/Pakimos valsčiaus nusiaubimas.md#claim-t-183952|Pakimos valsčiaus nusiaubimas]]: Konradas iš Tirbergo Jaunesnysis po Pakimos nusiaubimo su kariuomene vakare perėjo užšalusį Nagutino ežerą.
+- susijęs iš [[objektai/ivykiai/Pakimos valsčiaus nusiaubimas.md#claim-t-62425|Pakimos valsčiaus nusiaubimas]]: Konradas iš Tirbergo Jaunesnysis įsiveržė į Sūduvos žemės Pakimos valsčių, jį nusiaubė, sudegino ir apiplėšė.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -128,19 +138,3 @@ Dusburgietis teigia, kad apie Pakimos valsčiaus Sūduvos žemėje nusiaubimą T
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/ežeras]]
-
-### Susiję objektai
-- [[objektai/asmenys/Konradas]]
-- [[objektai/asmenys/Liudvikas]]
-- [[objektai/grupes/Rytas]]
-- [[objektai/grupes/Sūduviai]]
-- [[objektai/zodynas/Adynos|adynos]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/ivykiai/Pakimos valsčiaus nusiaubimas]]
-- [[objektai/ivykiai/Bisenės pilies užkariavimas]]
-- [[objektai/asmenys/Konradas iš Tirbergo Vyresnysis]]

@@ -21,9 +21,13 @@ Be tö, ir ba­ jorė Sofija Simonovna iš Alberto Tžasibrodos žemės dešim­
 - t-001
   global_id: t-87812
   teiginys: 'Bajorė Ona Tarnavska privalėjo mokėti įprastą dešimtinę iš savo dvaro javų ir iš Stanislovo Vaitkavičiaus kviečių.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nusako citatoje nurodytą prievolę.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Sofija|Sofija]]; mentioned_place: Gelvonai'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Albertas Tžasibroda.md#claim-t-87610|Albertas Tžasibroda]]: Albertas Tžasibroda turėjo žemę, iš kurios Sofija Simonovna privalėjo mokėti kviečių dešimtinę nuo visų laukų.
+- susijęs iš [[objektai/asmenys/Sofija Šimonova.md#claim-t-87578|Sofija Šimonova]]: Bajorė Sofija Šimonova iš Alberto Tžasibrodos žemės turėjo mokėti kviečių dešimtinę nuo visų laukų.
+- susijęs iš [[objektai/asmenys/Stanislovas Vaitkavičius.md#claim-t-87863|Stanislovas Vaitkavičius]]: Stanislovas Vaitkavičius turėjo žemę, iš kurios buvo mokama kviečių dešimtinė.
 ## Reikšmingi paminėjimai
 
 - c-001

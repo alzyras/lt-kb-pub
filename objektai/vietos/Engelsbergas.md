@@ -5,6 +5,7 @@ saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1222 m.'
+  - '1237 m.'
   - '1339 m.'
 date_start: '1222'
 date_end: '1339'
@@ -31,6 +32,7 @@ Dusburgietis teigia, kad kai kurie vienuoliai, atėję į Engelsbergo pilį248 i
 - t-001
   global_id: t-58546
   teiginys: 'Kai kurie vienuoliai Engelsbergo pilį siejo su Angelų kalnu, nes, jų teigimu, jos gyventojai gyveno tarsi angelai.'
+  sudarymo_pagrindimas: 'Citata remia ne paprastą įvykį, o vardo interpretaciją.'
   pagrindžia:
     - c-002
 
@@ -38,9 +40,24 @@ Dusburgietis teigia, kad kai kurie vienuoliai, atėję į Engelsbergo pilį248 i
 - t-002
   global_id: t-58547
   teiginys: 'Engelsbergas tapatinamas su dabartiniu Pokživnu, esančiu daugiau kaip 8 km į pietryčius nuo Grudziondzo.'
+  sudarymo_pagrindimas: 'Pašalintas išnašos numeris ir suformuluotas pilnas faktinis sakinys.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Mazovija'
+  temporaliniai_duomenys: 'įvykio data: 1222 m.; įvykio data: po 1237 m.; įvykio data: 1237 m.; įvykio data: 1339 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas išnašos numeris ir suformuluotas pilnas faktinis sakinys.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/paprociai/Baigos ir kitų Ordino pilių brolių asketinė vienuolinė praktika.md#claim-t-183983|Baigos ir kitų Ordino pilių brolių asketinė vienuolinė praktika]]: Baigos ir kitų minėtų pilių broliai gyveno skaisčiai, laikėsi dorovingo santūrumo ir griežtų vienuoliškų regulų.
+- susijęs iš [[objektai/paprociai/Baigos ir kitų Ordino pilių brolių asketinė vienuolinė praktika.md#claim-t-89443|Baigos ir kitų Ordino pilių brolių asketinė vienuolinė praktika]]: Baigos ir kitų minėtų pilių broliai gyveno skaisčiai, laikėsi dorovingo santūrumo ir griežtų vienuoliškų regulų.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179122|Kryžiuočių ordinas]]: Baigos ir kitų pilių Ordino broliai laikėsi griežtų vienuoliškų regulų ir dažnai atlikdavo atgailos praktikas.
+- susijęs iš [[objektai/paprociai/Baigos ir kitų Ordino pilių brolių asketinė vienuolinė praktika.md#claim-t-183983|Baigos ir kitų Ordino pilių brolių asketinė vienuolinė praktika]]: Baigos ir kitų minėtų pilių broliai gyveno skaisčiai, laikėsi dorovingo santūrumo ir griežtų vienuoliškų regulų.
+- susijęs iš [[objektai/paprociai/Baigos ir kitų Ordino pilių brolių asketinė vienuolinė praktika.md#claim-t-89443|Baigos ir kitų Ordino pilių brolių asketinė vienuolinė praktika]]: Baigos ir kitų minėtų pilių broliai gyveno skaisčiai, laikėsi dorovingo santūrumo ir griežtų vienuoliškų regulų.
+- susijęs iš [[objektai/paprociai/Baigos ir kitų Ordino pilių brolių asketinė vienuolinė praktika.md#claim-t-89444|Baigos ir kitų Ordino pilių brolių asketinė vienuolinė praktika]]: Engelsbergo pilį aplankę vienuoliai jos gyventojų gyvenimą prilygino angelų gyvenimui.
+- susijęs iš [[objektai/paprociai/Baigos ir kitų Ordino pilių brolių asketinė vienuolinė praktika.md#claim-t-89445|Baigos ir kitų Ordino pilių brolių asketinė vienuolinė praktika]]: Baigos ir kitose minėtose pilyse broliai po vakarinių ar rytmetinių pamaldų plakdavo savo kūną rykštėmis.
+- susijęs iš [[objektai/posakiai/Tikrai geru vardu pavadinta pilis, nes jos imbuviai gyvena nelyginant angelai.md#claim-t-184041|Tikrai geru vardu pavadinta pilis, nes jos imbuviai gyvena nelyginant angelai (pilis)]]: Vienuoliai Engelsbergo pilies vardą aiškino tuo, kad pilies gyventojai gyvena nelyginant angelai.
+- susijęs iš [[objektai/posakiai/Tikrai geru vardu pavadinta pilis, nes jos imbuviai gyvena nelyginant angelai.md#claim-t-59162|Tikrai geru vardu pavadinta pilis, nes jos imbuviai gyvena nelyginant angelai (pilis)]]: Vienuoliai Engelsbergo pilies vardą aiškino tuo, kad pilies gyventojai gyvena nelyginant angelai.
+- susijęs iš Baiga: Dusburgietis pabrėžė Baigos ir kitų pilių brolių skaistumą, santūrumą ir griežtų vienuoliškų regulų laikymąsi.
+- susijęs iš Baiga: Dusburgietis pabrėžė Baigos ir kitų pilių brolių skaistumą, santūrumą ir griežtų vienuoliškų regulų laikymąsi.
 ## Reikšmingi paminėjimai
 
 - c-001

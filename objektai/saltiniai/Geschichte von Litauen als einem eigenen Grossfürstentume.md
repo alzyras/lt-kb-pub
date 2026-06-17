@@ -20,6 +20,8 @@ Ten teveikė viena istorijos katedra su (^32) Geschichte von Litauen als einem e
 - t-001
   global_id: t-29835
   teiginys: '„Geschichte von Litauen als einem eigenen Grossfürstentume“ buvo paskelbta „Fortsetzung der Allgemeinen Welthistorie“ 50-ajame tome.'
+  sudarymo_pagrindimas: 'Pradinė formuluotė turi OCR triukšmo, bet citata leidžia suformuluoti bibliografinį faktą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Viena'
   pagrindžia:
     - c-001
 

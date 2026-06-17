@@ -12,7 +12,7 @@ atnaujinta: ''
 
 ## Santrauka
 
-Tačiau ir čia jis veikė ne tiek kardu, kiek gudria politika ir daugybės savo sūnų bei dukterų vedybomis. Keli Gedimino sūnūs priėmė stačiatikių tikėjimą arba vedė rusų kunigaikštytes. Gediminaičių vedybos ir rusų papročių perėmimas davė pradžią vėlesnėms kunigaikščių giminėms.
+Gediminas valstybę stiprino ne tik karu ir diplomatija, bet ir dinastinėmis vaikų vedybomis. Ši politika tęsėsi jo sūnų ir palikuonių santuokomis su rusų kunigaikštytėmis bei rusų papročių perėmimu rytinėse valdose.
 
 ## Laikotarpis ir datos
 
@@ -35,10 +35,12 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 <a id="claim-t-05339"></a>
 - t-001
   global_id: t-05339
   teiginys: 'Tačiau ir čia jis veikė ne tiek kardu, kiek gudria politika ir daugybės savo sūnų bei dukterų vedybomis.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/diplomatija|diplomatija]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Ryga'
   pagrindžia:
     - c-002
 
@@ -46,24 +48,29 @@ Nenurodyta
 - t-002
   global_id: t-05340
   teiginys: 'Keli Gedimino sūnūs priėmė stačiatikių tikėjimą arba vedė rusų kunigaikštytes.'
+  sudarymo_pagrindimas: 'Citata kalba tik apie kelis Gedimino sūnus, todėl teiginys patikslintas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Europa; mentioned_place: Lietuva'
   pagrindžia:
-    - c-004
+    - c-003
 
 <a id="claim-t-05341"></a>
 - t-003
   global_id: t-05341
   teiginys: 'Gediminaičių vedybos ir rusų papročių perėmimas davė pradžią vėlesnėms kunigaikščių giminėms.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Sluckiai|Sluckiai]]; mentioned_group: [[objektai/grupes/Čartoriskiai|Čartoriskiai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]'
   pagrindžia:
-    - c-005
+    - c-004
 
 <a id="claim-t-12427"></a>
 - t-004
   global_id: t-12427
   teiginys: 'Dinastinėse vedybose valdovai vesdavo svetimų kraštų kunigaikštytes, vengdami giminystės ryšių su savo pavaldiniais.'
+  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir sakinys susietas su papročiu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Dinastinėse vedybose valdovai vesdavo svetimų kraštų kunigaikštytes, vengdami giminystės ryšių su savo pavaldiniais.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -78,6 +85,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-004
+
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -95,7 +103,8 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-- c-004
+
+- c-003
   santrauka: 'Keli Gedimino sūnūs priėmė stačiatikių tikėjimą arba vedė rusų kunigaikštytes.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -111,7 +120,8 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-- c-005
+
+- c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     tėvą. Pirmosios žmonos Marijos Vitebskietės penki sūnūs, augę
@@ -126,17 +136,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/asmenys/Gediminas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lotynai]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/grupes/Slavai]]
-- [[objektai/grupes/Sluckiai]]
-- [[objektai/grupes/Stačiatikiai]]
-- [[objektai/zodynas/diplomatija]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/grupes/Čartoriskiai]]

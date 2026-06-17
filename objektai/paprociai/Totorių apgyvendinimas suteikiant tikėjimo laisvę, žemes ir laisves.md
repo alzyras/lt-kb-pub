@@ -3,6 +3,10 @@ tipas: paprotys
 pavadinimas: 'Totorių apgyvendinimas suteikiant tikėjimo laisvę, žemes ir laisves'
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+datos:
+  - '1398 m.'
+date_start: '1398'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -10,6 +14,8 @@ tags:
   - paprotys
   - tauta
   - vyskupas
+amziai:
+  - 'XIV'
 ---
 # Totorių apgyvendinimas suteikiant tikėjimo laisvę, žemes ir laisves
 
@@ -43,6 +49,11 @@ Nenurodyta
 - t-001
   global_id: t-87166
   teiginys: 'Vytauto įkurdinti totoriai gyveno prie Vokės, Vilniuje, Nemėžyje ir Lydos, Ašmenos bei Naugarduko pavietuose.'
+  sudarymo_pagrindimas: 'Citata pagrindžia totorių įkurdinimo vietas; pašalintas vertinamasis ir fragmentiškas tekstas.'
+  susije_objektai: 'location: Ašmena; location: Lietuva; location: Naugardukas; location: Nemėžis; location: Trakai; location: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Jadvyga|Jadvyga]]; mentioned_person: [[objektai/asmenys/Jadvyga Jogailienė|Jadvyga Jogailienė]]; mentioned_place: Ašmena; mentioned_place: Lietuva; mentioned_place: Naugardukas; mentioned_place: Nemėžis; mentioned_place: Trakai; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'gyvenimo laikotarpis: 1398 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Jadvyga Jogailienė gyveno Ašmena“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jadvyga Jogailienė gyveno Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jadvyga Jogailienė gyveno Naugardukas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jadvyga Jogailienė gyveno Nemėžis“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jadvyga Jogailienė gyveno Trakai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jadvyga Jogailienė gyveno Vilnius“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia totorių įkurdinimo vietas; pašalintas vertinamasis ir fragmentiškas tekstas.'
   pagrindžia:
     - c-002
 
@@ -50,6 +61,8 @@ Nenurodyta
 - t-002
   global_id: t-87168
   teiginys: 'Vytautas prie Vilniaus apgyvendino iš Azovo atsivežtus totorius, paliko jiems senąjį tikėjimą ir suteikė žemės valdų bei laisvių.'
+  sudarymo_pagrindimas: 'Citata pagrindžia apgyvendinimą, tikėjimo laisvę, žemes ir laisves; pašalintas puslapio triukšmas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/posakiai/Iki gyvos galvos|Iki gyvos galvos]]; mentioned_object: [[objektai/zodynas/naujakrikščiai|naujakrikščiai]]; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_person: [[objektai/asmenys/Bona|Bona]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Azovas; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -185,17 +198,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Bona]]
-- [[objektai/asmenys/Gediminas]]
-- [[objektai/posakiai/Iki gyvos galvos]]
-- [[objektai/asmenys/Jadvyga]]
-- [[objektai/asmenys/Jadvyga Jogailienė]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/naujakrikščiai]]
-- [[objektai/zodynas/pagonybė]]

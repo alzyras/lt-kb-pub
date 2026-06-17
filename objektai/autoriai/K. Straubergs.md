@@ -29,6 +29,8 @@ Straubergs, K.
 - t-001
   global_id: t-30752
   teiginys: 'K. Straubergs 1948 m. paskelbė darbą „Latvju sakrālā pasaule“.'
+  temporaliniai_duomenys: 'įvykio data: 1948 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

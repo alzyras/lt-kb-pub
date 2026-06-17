@@ -27,9 +27,12 @@ amziai:
 - t-001
   global_id: t-42074
   teiginys: 'Blinkevičius prašė Pušaloto valsčiaus valdžios leidimo surinkti miške likusius lavonus ir tokį leidimą gavo.'
+  sudarymo_pagrindimas: 'Teiginys pagrįstas, bet reikia pašalinti pasakojimo kontekstą ir sukonkretinti rezultatą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Blinkevičius|Blinkevičius]]'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/A. Šulskis-Šulas.md#claim-t-39987|A. Šulskis-Šulas]]: A. Šulskis-Šulas vadovavo Žaliosios girios Panevėžio rinktinės grupei pietrytinėje girios dalyje Subačiaus valsčiuje.
+- susijęs iš [[objektai/asmenys/Blinkevičius.md#claim-t-80709|Blinkevičius]]: Apylinkės pirmininkas Blinkevičius gavo Pušaloto valsčiaus valdžios leidimą surinkti miške likusius lavonus.
 ## Reikšmingi paminėjimai
 
 - c-001

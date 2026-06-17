@@ -38,6 +38,8 @@ Nenurodyta
 - t-001
   global_id: t-08348
   teiginys: 'Vienas aprašytas stabas rankoje turėjo vylyčias.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Citata nemini Perūno, todėl reikia pašalinti nepagrįstą identifikaciją.'
   pagrindžia:
     - c-001
 
@@ -45,6 +47,8 @@ Nenurodyta
 - t-002
   global_id: t-08349
   teiginys: 'Kareiviui į kapą dėjo vylyčias kartu su kitais ginklais ir įrankiais.'
+  teiginio_tipas: 'faktas'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]'
   pagrindžia:
     - c-002
 
@@ -74,9 +78,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Ginklai]]
-- [[objektai/daiktai/Seidokas]]
-- [[objektai/daiktai/Verpimo įrankiai]]

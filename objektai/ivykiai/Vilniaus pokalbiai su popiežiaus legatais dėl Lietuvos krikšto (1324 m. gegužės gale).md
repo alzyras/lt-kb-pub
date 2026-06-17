@@ -5,6 +5,7 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1324 m.'
+  - '1325 m.'
   - '1328 m.'
   - '2026 m.'
 date_start: '1324'
@@ -21,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-1324 m. gegužės gale popiežiaus delegato pasiuntiniai platų pranešimą apie Vilniaus pokalbius baigė desperatišku prierašu. Popiežiaus legatai įsakė ketverius metus nekariauti su Gediminu, nes tikėtasi, kad per tą laiką Gediminas pasikrikštys. Per Vilniaus pokalbius pranešta, kad Prūsijos kryžiuočiai dovanomis skatino Žemaičių galinguosius sukilti prieš Gediminą.
+1324 m. gegužės gale Vilniuje vyko popiežiaus legatų pokalbiai su Gediminu dėl Lietuvos krikšto. Legatų pranešime fiksuojami kryžiuočių ir Gedimino vidaus priešininkų grasinimai, o išvykdami legatai įsakė ketverius metus su Gediminu nekariauti, tikėdamiesi jo krikšto.
 
 ## Laikotarpis ir datos
 
@@ -45,6 +46,11 @@ Nenurodyta
 - t-001
   global_id: t-97040
   teiginys: '1324 m. gegužės gale popiežiaus delegato pasiuntiniai platų pranešimą apie Vilniaus pokalbius baigė desperatišku prierašu.'
+  sudarymo_pagrindimas: 'Pradinis teiginys yra nutrūkęs citatos fragmentas, todėl jį reikia paversti pilnu sakiniu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1324 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys yra nutrūkęs citatos fragmentas, todėl jį reikia paversti pilnu sakiniu.'
   pagrindžia:
     - c-001
 
@@ -52,6 +58,11 @@ Nenurodyta
 - t-002
   global_id: t-97041
   teiginys: 'Popiežiaus legatai įsakė ketverius metus nekariauti su Gediminu, nes tikėtasi, kad per tą laiką Gediminas pasikrikštys.'
+  sudarymo_pagrindimas: 'Pirminis teiginys per ilgas ir beveik pažodžiui kartoja citatą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/legatai|legatai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]'
+  temporaliniai_duomenys: 'įvykio data: 1328 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pirminis teiginys per ilgas ir beveik pažodžiui kartoja citatą.'
   pagrindžia:
     - c-003
 
@@ -59,6 +70,8 @@ Nenurodyta
 - t-003
   global_id: t-97042
   teiginys: 'Per Vilniaus pokalbius pranešta, kad Prūsijos kryžiuočiai dovanomis skatino Žemaičių galinguosius sukilti prieš Gediminą.'
+  sudarymo_pagrindimas: 'Teiginys susietas su note objektu ir sutrumpintas iki citatos remiamo fakto.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Prūsija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -66,6 +79,11 @@ Nenurodyta
 - t-004
   global_id: t-97043
   teiginys: '1324 m. gegužės gale popiežiaus delegato pasiuntiniai parengė pranešimą apie pokalbius Vilniuje.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie citatoje minimą pranešimą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1324 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie citatoje minimą pranešimą.'
   pagrindžia:
     - c-001
 
@@ -73,6 +91,11 @@ Nenurodyta
 - t-005
   global_id: t-97044
   teiginys: 'Išvykdami iš Livonijos popiežiaus legatai įsakė ketverius metus nekariauti su Gediminu, tikėdamiesi jo krikšto.'
+  sudarymo_pagrindimas: 'Sakinys sutrumpintas ir padarytas sklandesnis, išlaikant citatos faktus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/legatai|legatai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Ryga'
+  temporaliniai_duomenys: 'įvykio data: 1325 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Sakinys sutrumpintas ir padarytas sklandesnis, išlaikant citatos faktus.'
   pagrindžia:
     - c-002
 
@@ -80,6 +103,11 @@ Nenurodyta
 - t-006
   global_id: t-97045
   teiginys: 'Atidėjus krikšto klausimą, Gediminui svarbiausia liko naujai sudaryta taika.'
+  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas, teiginys paremtas citata.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/legatai|legatai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]'
+  temporaliniai_duomenys: 'įvykio data: 1328 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalintas OCR triukšmas, teiginys paremtas citata.'
   pagrindžia:
     - c-003
 
@@ -137,14 +165,3 @@ Nenurodyta
   pagrindžia:
     - t-002
     - t-006
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Gediminas]]
-- [[objektai/daiktai/Drabužiai]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/grupes/Teutonai]]
-- [[objektai/zodynas/legatai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/ivykiai/Rygos arkivyskupo interdiktas ordinui už Lietuvos krikšto sutrukdymą (1325 m.)]]

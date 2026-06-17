@@ -18,6 +18,11 @@ Maskvos valdovas Ivanas, prisiekdamas visomis šventenybėmis, žadėjo išdavik
 - t-001
   global_id: t-185481
   teiginys: 'Maskvos valdovas Ivanas, prisiekdamas visomis šventenybėmis, žadėjo išdavikams nuo Lietuvos atplėštus miestus ir kraštus.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata palaiko aiškesnį sakinį be OCR triukšmo ir neaiškių įvardžių.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_place: Lietuva; mentioned_place: Maskva'
   pagrindžia:
     - c-001
 
@@ -48,8 +53,3 @@ Maskvos valdovas Ivanas, prisiekdamas visomis šventenybėmis, žadėjo išdavik
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Miera|miera]]
-- [[objektai/zodynas/graikų apeigos]]

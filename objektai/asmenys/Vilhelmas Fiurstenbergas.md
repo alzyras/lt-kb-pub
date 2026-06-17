@@ -18,9 +18,14 @@ Viljandyje magistras Vilhelmas Fiurstenbergas pateko į priešų rankas.
 - t-001
   global_id: t-186087
   teiginys: 'Viljandyje magistras Vilhelmas Fiurstenbergas pateko į priešų rankas.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pašalinta autorinė abejonė, paliktas aiškiai paremtas faktas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Vilhelmas|Vilhelmas]]; mentioned_place: Dorpatas; mentioned_place: Livonija; mentioned_place: Viljandis'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-184568|Kalavijuočių ordinas]]: Livonijos riterių magistras Vilhelmas Fiurstenbergas su beveik visu ordinu atsižadėjo Romos tikėjimo ir perėjo į Liuterio sektą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -40,11 +45,3 @@ Viljandyje magistras Vilhelmas Fiurstenbergas pateko į priešų rankas.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/grupes/Kalavijuočių ordinas]]
-- [[objektai/ivykiai/Maskvos valdovo įsiveržimas į Livoniją ir Viljandžio bei Dorpato užėmimas]]
-- [[objektai/grupes/Maskvėnai]]

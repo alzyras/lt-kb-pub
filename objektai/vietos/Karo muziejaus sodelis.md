@@ -3,11 +3,17 @@ tipas: vieta
 pavadinimas: 'Karo muziejaus sodelis'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1934 m.'
+date_start: '1934'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - karas
   - vieta
+amziai:
+  - 'XX'
 ---
 # Karo muziejaus sodelis
 
@@ -21,6 +27,11 @@ tags:
 - t-001
   global_id: t-21466
   teiginys: '1934 m. lapkričio 23 d. Kauno Karo muziejaus sodelyje palaidotas Nežinomas kareivis.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Karo muziejaus sodelį.'
+  susije_objektai: 'location: Kaunas; location: Lietuva; mentioned_place: Kaunas; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'mirties data: 1934 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „mirties data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie Karo muziejaus sodelį.'
   pagrindžia:
     - c-001
 

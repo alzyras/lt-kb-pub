@@ -23,6 +23,8 @@ Tačiau bajorai – dvarininkai sudarė tik ¼ dalį vietos bajorų luomo, daugu
 - t-001
   global_id: t-169924
   teiginys: 'Bajorai dvarininkai sudarė tik ketvirtadalį vietos bajorų luomo, o dauguma bajorų buvo mažažemiai ir bežemiai.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, faktinis ir atitinka citatoje nurodytą bajorų luomo struktūrą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lenkija'
   pagrindžia:
     - c-001
 
@@ -30,6 +32,7 @@ Tačiau bajorai – dvarininkai sudarė tik ¼ dalį vietos bajorų luomo, daugu
 - t-002
   global_id: t-169925
   teiginys: 'Nuo Jekaterinos II laikų vietiniame valdyme veikė luomų institucijos: bajorų dvarininkų susirinkimai ir miestiečių subluomų savivalda.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/luomai|luomai]]'
   pagrindžia:
     - c-002
 
@@ -65,9 +68,3 @@ Tačiau bajorai – dvarininkai sudarė tik ¼ dalį vietos bajorų luomo, daugu
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bajorai]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/zodynas/luomai]]

@@ -29,6 +29,9 @@ Originali yra nebaigta studija : « Jogaila, didysis Lietuvos kunigaikštis ir L
 - t-001
   global_id: t-97253
   teiginys: 'Studija „Jogaila, didysis Lietuvos kunigaikštis ir Lenkijos karalius“ liko nebaigta ir buvo skelbta „Židinyje“ 1935–1936 m.'
+  susije_objektai: 'territory: Lenkija; territory: Lietuva; mentioned_person: [[objektai/asmenys/Jadvyga|Jadvyga]]; mentioned_person: [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'valdymo laikotarpis: 1935-1936; valdymo laikotarpis: 1936 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Jadvyga buvo valdovas Lenkija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jadvyga buvo valdovas Lietuva“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -36,6 +39,8 @@ Originali yra nebaigta studija : « Jogaila, didysis Lietuvos kunigaikštis ir L
 - t-002
   global_id: t-97254
   teiginys: 'Studija „Jogaila, didysis Lietuvos kunigaikštis ir Lenkijos karalius“ buvo originali, bet nebaigta.'
+  sudarymo_pagrindimas: 'Citata tiesiogiai palaiko teiginį apie studijos pobūdį.'
+  susije_objektai: 'territory: Lenkija; territory: Lietuva; mentioned_person: [[objektai/asmenys/Jadvyga|Jadvyga]]; mentioned_person: [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

@@ -21,6 +21,8 @@ Tremtinių išvežimas į atšiauraus klimato prie Ledynuotojo vandenyno, Altaja
 - t-001
   global_id: t-21339
   teiginys: 'Tremtinių išvežimas į Altajaus krašto vietoves, kur dalis jų mirė arba žuvo, vertinamas kaip nusikaltimas žmoniškumui.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie tremtinių išvežimą į Altajaus kraštą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]'
   pagrindžia:
     - c-001
 

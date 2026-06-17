@@ -5,8 +5,9 @@ saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1348 m.'
+  - '1365 m.'
 date_start: '1348'
-date_end: ''
+date_end: '1365'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -29,9 +30,14 @@ Is­ torija yra nustačiusi tokią Kęstučio vaikų eilę; sūnūs: Patirgas, B
 - t-001
   global_id: t-96040
   teiginys: 'Patirgas buvo vyriausias Kęstučio sūnus ir 1348-1365 m. laikotarpiu lydėjo Algirdo bei Kęstučio žygius.'
+  sudarymo_pagrindimas: 'Vietoje triukšmingo sąrašo parinktas aiškus citata paremtas faktas apie Patirgą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Birutė|Birutė]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Ringailė|Ringailė]]; mentioned_person: [[objektai/asmenys/Tautvila|Tautvila]]; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1348-1365; įvykio data: 1365 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Vietoje triukšmingo sąrašo parinktas aiškus citata paremtas faktas apie Patirgą.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/autoriai/Józef Wolff.md#claim-t-11263|Józef Wolff]]: Istorikas Józef Wolff teigė, kad sunku Patirgą ir Ringailę laikyti vienos motinos vaikais.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -54,12 +60,3 @@ Is­ torija yra nustačiusi tokią Kęstučio vaikų eilę; sūnūs: Patirgas, B
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/asmenys/Birutė]]
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- [[objektai/asmenys/Ringailė]]
-- [[objektai/asmenys/Tautvila]]
-- [[objektai/autoriai/Józef Wolff]]

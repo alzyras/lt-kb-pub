@@ -20,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-1289 m. Budikidas ir jo brolis Budivydas taikai palaikyti perdavė Valkaviską Haličo-Volinijos kunigaikščiams.
+Taikai palaikyti, « Budikidas » ir jo brolis « Budivydas » jiems 1289 per­ leido Valkaviską^19. Vargu tos nuolaidos turėjo kokį ryšį su Prūsų ordino agresija, nes tuo pat laiku lietuviai puldinėjo kitų kaimynų žemes, ypač Lenkiją.
 
 ## Laikotarpis ir datos
 
@@ -44,6 +44,11 @@ Nenurodyta
 - t-001
   global_id: t-31480
   teiginys: '1289 m. Budikidas ir jo brolis Budivydas taikai palaikyti perdavė Valkaviską Haličo-Volinijos kunigaikščiams.'
+  sudarymo_pagrindimas: 'Reikia aiškiai įvardyti, kam buvo perduotas Valkaviskas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Haličas; mentioned_place: Lenkija; mentioned_place: Prūsai; mentioned_place: Slanimas; mentioned_place: Valkaviskas; mentioned_place: Volinija'
+  temporaliniai_duomenys: 'įvykio data: 1289 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Reikia aiškiai įvardyti, kam buvo perduotas Valkaviskas.'
   pagrindžia:
     - c-001
 
@@ -64,8 +69,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/kunigaikščiai]]

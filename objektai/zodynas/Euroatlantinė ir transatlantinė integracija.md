@@ -3,11 +3,19 @@ tipas: zodyno_irasas
 pavadinimas: 'Euroatlantinė ir transatlantinė integracija'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1934 m.'
+  - '1990 m.'
+  - '1992 m.'
+date_start: '1934'
+date_end: '1992'
 sukurta: ''
 atnaujinta: ''
 tags:
   - sąvoka
   - valstybė
+amziai:
+  - 'XX'
 ---
 # Euroatlantinė ir transatlantinė integracija
 
@@ -21,6 +29,11 @@ Santykiai su kaimynėmis ir transatlantinė integracija. Lietuva pasirinko euroa
 - t-001
   global_id: t-69999
   teiginys: 'Glaudus trijų Baltijos valstybių bendradarbiavimas padėjo visoms sėkmingai integruotis į transatlantines organizacijas.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie transatlantinę integraciją.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Baltija; mentioned_place: Estija; mentioned_place: Latvija'
+  temporaliniai_duomenys: 'įvykio data: 1934 m.; įvykio data: 1990 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie transatlantinę integraciją.'
   pagrindžia:
     - c-001
 
@@ -28,6 +41,11 @@ Santykiai su kaimynėmis ir transatlantinė integracija. Lietuva pasirinko euroa
 - t-002
   global_id: t-70000
   teiginys: 'Lietuva pasirinko euroatlantinės integracijos kelią, todėl 1992 m. birželio 8 d. priėmė konstitucinį aktą „Dėl Lietuvos Respublikos nesijungimo į postsovietines Rytų sąjungas“ (panašiai pasielgė Latvija ir Estija).'
+  sudarymo_pagrindimas: 'Teiginys aiškiai sieja Lietuvos pasirinkimą su euroatlantine integracija ir citata tai pagrindžia.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/posakiai/„valdomos demokratijos“|„valdomos demokratijos“]]; mentioned_place: Estija; mentioned_place: Latvija; mentioned_place: Lietuva; mentioned_place: SSRS'
+  temporaliniai_duomenys: 'įvykio data: 1992 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai sieja Lietuvos pasirinkimą su euroatlantine integracija ir citata tai pagrindžia.'
   pagrindžia:
     - c-002
 
@@ -81,11 +99,3 @@ Santykiai su kaimynėmis ir transatlantinė integracija. Lietuva pasirinko euroa
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/posakiai/„valdomos demokratijos“]]
-- [[objektai/ivykiai/Konstitucinio akto dėl nesijungimo į postsovietines Rytų sąjungas priėmimas (1992 m. birželio 8 d.)]]
-- [[objektai/ivykiai/Lietuvos, Latvijos ir Estijos Baltijos Valstybių Tarybos įkūrimas (1990 m. gegužės 12 d.)]]

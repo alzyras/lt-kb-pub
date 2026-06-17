@@ -10,11 +10,11 @@ date_start: '1919'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - vieta
 amziai:
   - 'XX'
   - 'XXI'
-tags:
-  - vieta
 ---
 # Taučiūnai
 
@@ -23,10 +23,13 @@ tags:
 Povilo Lukšio paminklas Taučiūnų kaimo lauke (netoli Kėdainių).
 
 ## Teiginiai
+
 <a id="claim-t-172013"></a>
 - t-001
   global_id: t-172013
   teiginys: 'Važiuojant pro Taučiūnų kaimą, žvalgus netikėtai pasitiko smarki bolševikų kuopos ugnis.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatinis ir paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
   pagrindžia:
     - c-001
 
@@ -34,10 +37,16 @@ Povilo Lukšio paminklas Taučiūnų kaimo lauke (netoli Kėdainių).
 - t-002
   global_id: t-172014
   teiginys: 'Iš Taučiūnų dvaro į žvalgus buvo paleista ugnis; per šį susidūrimą žuvo P. Lukšys.'
+  sudarymo_pagrindimas: 'Pašalintas kontekstinis fragmentas ir suformuluotas pilnas sakinys.'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-002
-
+- susijęs iš [[objektai/asmenys/Povilas Lukšys.md#claim-t-49483|Povilas Lukšys]]: Povilas Lukšys žuvo nuo ugnies iš Taučiūnų dvaro ir buvo pirmasis Nepriklausomybės kovose žuvęs Lietuvos savanoris.
+- susijęs iš [[objektai/ivykiai/Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.).md#claim-t-09853|Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)]]: Kėdainių-Šėtos kautynėse prie Taučiūnų kaimo Lukšio padrąsinti lietuviai išsiskleidė į grandį ir atidengė atsakomąją ugnį.
+- susijęs iš [[objektai/ivykiai/Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.).md#claim-t-09854|Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)]]: Kėdainių-Šėtos kautynėse P. Lukšys žuvo, kai į žvalgus pasipylė ugnis iš Taučiūnų dvaro.
+- susijęs iš [[objektai/ivykiai/Kėdainių-Šėtos kautynės.md#claim-t-41298|Kėdainių-Šėtos kautynės]]: Kėdainių-Šėtos kautynėse prie Taučiūnų kaimo Lukšio padrąsinti lietuviai išsiskleidė į grandį ir atidengė atsakomąją ugnį.
 ## Reikšmingi paminėjimai
+
 - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -53,6 +62,7 @@ Povilo Lukšio paminklas Taučiūnų kaimo lauke (netoli Kėdainių).
   statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Iš Taučiūnų dvaro į žvalgus buvo paleista ugnis; per šį susidūrimą žuvo P. Lukšys.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)

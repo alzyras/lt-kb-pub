@@ -10,6 +10,7 @@ tags:
   - mūšis
   - ordinas
   - popiežius
+  - tikėjimas
 ---
 # Hartmanas iš Grumbacho
 
@@ -23,9 +24,11 @@ Dusburgietis teigia, kad apie brolį Harimaną, Prūsijos magistrą Brolis Hartm
 - t-001
   global_id: t-60300
   teiginys: 'Hartmanas iš Grumbacho buvo penktasis Prūsijos žemės magistras ir vadovavo trejus metus.'
+  sudarymo_pagrindimas: 'Pašalinta antraštės nuotrupa ir perteiktas aiškus, citata paremtas faktas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Hartmanas|Hartmanas]]; mentioned_place: Elbingas; mentioned_place: Kuršas; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/zodynas/Watmal Vatmalis.md#claim-t-58930|Watmal Vatmalis]]: Hartmanas iš Grumbacho buvo pramintas Vatmaliu dėl vilnonių drabužių, vadintų Watmal, kuriuos įsakė išduoti broliams.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -47,9 +50,3 @@ Dusburgietis teigia, kad apie brolį Harimaną, Prūsijos magistrą Brolis Hartm
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Hartmanas]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/Watmal Vatmalis]]

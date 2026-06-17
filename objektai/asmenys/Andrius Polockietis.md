@@ -31,6 +31,11 @@ Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą. Andrius Polo
 - t-001
   global_id: t-30206
   teiginys: '1385 m. rudenį Andrius Polockietis su Livonijos magistru sudarė vasalinę sutartį.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai išplečia citatos įvardį ir yra paremtas šaltiniu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Livonija; mentioned_place: Polockas'
+  temporaliniai_duomenys: 'įvykio data: 1385 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai išplečia citatos įvardį ir yra paremtas šaltiniu.'
   pagrindžia:
     - c-001
 
@@ -38,6 +43,9 @@ Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą. Andrius Polo
 - t-002
   global_id: t-30207
   teiginys: 'Skirgaila, sėkmingai apgulęs Polocką, paėmė Andrių Polockietį į nelaisvę ir išsiuntė į Lenkiją.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Sviatoslavas|Sviatoslavas]]; mentioned_place: Lenkija; mentioned_place: Mstislavlis; mentioned_place: Vechra; mentioned_place: Vorskla'
+  temporaliniai_duomenys: 'įvykio data: 1399 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 
@@ -45,9 +53,15 @@ Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą. Andrius Polo
 - t-003
   global_id: t-30208
   teiginys: 'Užėmęs Lukomlį, Andrius Polockietis ir toliau kėlė neramumus.'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir aiškiai susijęs su Andriumi Polockiečiu.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Livonija'
+  temporaliniai_duomenys: 'įvykio data: 1385 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir aiškiai susijęs su Andriumi Polockiečiu.'
   pagrindžia:
     - c-003
-
+- susijęs iš Lukomlis: Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą.
+- susijęs iš Polockas: Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -93,11 +107,3 @@ Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą. Andrius Polo
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Sviatoslavas]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/asmenys/Skirgaila]]

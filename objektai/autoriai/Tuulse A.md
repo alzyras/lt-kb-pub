@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Viljandžio (Tuulse A., Die Burgen..., p. 79).
+Dusburgietis teigia, kad viljandžio (Tuulse A., Die Burgen..., p. 79).
 
 ## Teiginiai
 
@@ -21,6 +21,8 @@ Viljandžio (Tuulse A., Die Burgen..., p. 79).
 - t-001
   global_id: t-91935
   teiginys: 'Viljandžio (Tuulse A., Die Burgen..., p. 79).'
+  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Livonija'
   pagrindžia:
     - c-001
 
@@ -38,7 +40,3 @@ Viljandžio (Tuulse A., Die Burgen..., p. 79).
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Adynos|adynos]]

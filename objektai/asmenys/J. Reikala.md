@@ -20,9 +20,11 @@ Reikala.
 - t-001
   global_id: t-39745
   teiginys: 'J. Reikala perėmė vadovavimą kolonai, kurią parėmė rezervas.'
+  sudarymo_pagrindimas: 'Pirminė formuluotė tik pamini asmenį, o citata pagrindžia jo veiksmą.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/rezervas|rezervas]]'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/zodynas/bendrasis rezervas.md#claim-t-38707|bendrasis rezervas]]: Rezervas parėmė J. Nastopkos koloną, o vadovavimą perėmė karininkas J. Reikala.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -35,8 +37,3 @@ Reikala.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/rezervas]]
-- [[objektai/zodynas/bendrasis rezervas]]

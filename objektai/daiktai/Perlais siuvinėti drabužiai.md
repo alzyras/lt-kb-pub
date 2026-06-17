@@ -1,22 +1,8 @@
 ---
 tipas: daiktas
-pavadinimas: "Perlais siuvinėti drabužiai"
-variantai: ["perlais siuvinėtų drabužių"]
-aliases: []
+pavadinimas: 'Perlais siuvinėti drabužiai'
 saltiniai:
-  - "objektai/saltiniai/Lietuvos metraštis, Bychovco kronika (1971 m.).md"
-bukle: juodrastis
-laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: ""
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -33,30 +19,37 @@ Lietuvos metraštyje pasakojama, kad lietuvos metraštis pasakoja, kad Vytautas 
 - perlais siuvinėtų drabužių
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Naudojimas
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 <a id="claim-t-186843"></a>
 - t-001
   global_id: t-186843
-  teiginys: 'Lietuvos metraštyje pasakojama, kad lietuvos metraštis pasakoja, kad Vytautas dovanojo Vasilijui Dimitrijevičiui perlais siuvinėtų drabužių; Šiame gabale perlais siuvinėti drabužiai minimi kaip valdoviškos dovanos forma.'
+  teiginys: 'Lietuvos metraštis pasakoja, kad Vytautas Vasilijui Dimitrijevičiui padovanojo perlais siuvinėtų drabužių ir kitų brangių dovanų.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pradinis teiginys turi pasikartojimų ir antrą perteklinį sakinį.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Bachmatai|Bachmatai]]; mentioned_object: [[objektai/daiktai/Balnas|Balnas]]; mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/asmenys/Lengvenis|Lengvenis]]; mentioned_person: [[objektai/asmenys/Vasilijus|Vasilijus]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Smolenskas'
   pagrindžia:
     - c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Lietuvos metraštyje pasakojama, kad lietuvos metraštis pasakoja, kad Vytautas dovanojo Vasilijui Dimitrijevičiui perlais siuvinėtų drabužių; Šiame gabale perlais siuvinėti drabužiai minimi kaip valdoviškos dovanos forma.'
+  santrauka: 'Lietuvos metraštis pasakoja, kad Vytautas Vasilijui Dimitrijevičiui padovanojo perlais siuvinėtų drabužių ir kitų brangių dovanų.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     Didysis kunigaikštis Vytautas prieš Ria-
@@ -76,25 +69,8 @@ Nenurodyta
     žirgų su aukso balnais ir daug kitų nuostabių daiktų ir,
     išlydėjęs jį su didele pagarba į Maskvą, pats išvyko
     j Lietuvą l6 .
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Aukso balnai]]
-- [[objektai/daiktai/Bachmatai]]
-- [[objektai/daiktai/Balnas]]
-- [[objektai/asmenys/Lengvenis]]
-- [[objektai/asmenys/Vasilijus]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/didysis kunigaikštis]]
-- [[objektai/daiktai/Žirgai]]
-- [[objektai/daiktai/Drabužiai]]
-- [[objektai/zodynas/metraštis]]
-- [[objektai/daiktai/Brangūs aksomai]]
-- [[objektai/ivykiai/Vytauto ir Maskvos didžiojo kunigaikščio Vasilijaus susitikimas Smolenske]]

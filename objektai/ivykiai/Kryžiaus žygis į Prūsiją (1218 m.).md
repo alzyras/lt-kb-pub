@@ -4,9 +4,11 @@ pavadinimas: 'Kryžiaus žygis į Prūsiją (1218 m.)'
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
+  - '1205 m.'
+  - '1210 m.'
   - '1218 m.'
   - '1219 m.'
-date_start: '1218'
+date_start: '1205'
 date_end: '1219'
 sukurta: ''
 atnaujinta: ''
@@ -46,6 +48,12 @@ Nenurodyta
 - t-001
   global_id: t-62842
   teiginys: '1218 m. popiežius Honorijus II organizavo didelį kryžiaus žygį į Prūsiją, kuriame dalyvavo vokiečiai, čekai, moravai, danai, lenkai ir pamarėnai.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys ir citata tiesiogiai nurodo žygio organizavimą bei dalyvius.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Pamarėnai|Pamarėnai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/baltų sąjunga|baltų sąjunga]]; mentioned_object: [[objektai/zodynas/priešmindauginė Lietuva|priešmindauginė Lietuva]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Popiežius Honorijus II|Popiežius Honorijus II]]; mentioned_place: Lietuva; mentioned_place: Prūsai; mentioned_place: Volynė'
+  temporaliniai_duomenys: 'įvykio data: 1205 m.; įvykio data: 1210 m.; įvykio data: 1218 m.; įvykio data: 1219 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys ir citata tiesiogiai nurodo žygio organizavimą bei dalyvius.'
   pagrindžia:
     - c-001
 
@@ -69,17 +77,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Baltai]]
-- [[objektai/daiktai/Kryžius]]
-- [[objektai/asmenys/Popiežius Honorijus II]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/baltų sąjunga]]
-- [[objektai/zodynas/priešmindauginė Lietuva]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Pamarėnai]]
-- [[objektai/ivykiai/Lietuvos sutartis su Volyne (1219 m.)]]
-- [[objektai/asmenys/Živinbudas]]

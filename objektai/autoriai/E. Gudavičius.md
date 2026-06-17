@@ -20,6 +20,8 @@ Gudavičius.
 - t-001
   global_id: t-19388
   teiginys: 'E. Gudavičius kartu su S. Lazutka parengė Pirmojo Lietuvos Statuto Dzialinskio, Lauryno ir Ališavos nuorašų faksimiles.'
+  sudarymo_pagrindimas: 'Citata tiesiogiai nurodo E. Gudavičių kaip leidinio rengėją.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/statutas|statutas]]; mentioned_person: [[objektai/autoriai/S. Lazutka|S. Lazutka]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -35,7 +37,3 @@ Gudavičius.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/statutas]]

@@ -27,6 +27,7 @@ Papildomos aiškios formos neišskirtos.
 - t-001
   global_id: t-07723
   teiginys: 'Gaspadorius vaizduojamas kaip ūkio šeimininkas, raginantis pjovėjus baigti pievos kertę.'
+  sudarymo_pagrindimas: 'Citata rodo šeimininko vaidmenį ir konkretų darbų organizavimą.'
   pagrindžia:
     - c-001
 
@@ -36,7 +37,16 @@ Papildomos aiškios formos neišskirtos.
   teiginys: 'Gaspadorius gali raginti ir organizuoti ūkio darbus.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/asmenys/Dželad-Eddinas.md#claim-t-184256|Dželad-Eddinas]]: Nuo 1411 m., įsiviešpatavus Dželad-Eddinui, totorių valdovai nebedrįso priešintis Vytautui.
+- susijęs iš [[objektai/asmenys/Dželad-Eddinas.md#claim-t-34723|Dželad-Eddinas]]: Dželad-Eddinas įsiviešpatavo 1411 m., o po to Vytautui paklusę totoriai nedrįso jam priešintis.
+- susijęs iš [[objektai/paprociai/Kieminė auka Perūnui per audrą.md#claim-t-07784|Kieminė auka Perūnui per audrą]]: Po audros gaspadorius linksmindamasis keldavo namiškiams puotą ar gėrynę.
+- susijęs iš [[objektai/paprociai/Kieminė auka Perūnui per audrą.md#claim-t-07785|Kieminė auka Perūnui per audrą]]: Kilus audrai arba grasinant krušai šeimininkas tris kartus apeidavo savo rugius ar varstą su lašinių paltimi ir melsdavo Perūną.
+- susijęs iš [[objektai/paprociai/Raitas keliavimas į bažnyčią, mugę ir kitas vietas.md#claim-t-07800|Raitas keliavimas į bažnyčią, mugę ir kitas vietas]]: Jaunas žemaitis į bažnyčią ar į mugę mieliau joja, negu važiuoja vežimu.
+- susijęs iš Vytauto panegirika: „Vytauto panegirika“ teigia, kad nuo 1411 m. nė vienas totorių valdovas nedrįso pasipriešinti Vytautui.
+- susijęs iš Vytauto panegirika: „Vytauto panegirikoje“ teigiama, kad nuo 1411 m. įsiviešpatavus Dželad-Eddinui totoriai nedrįso priešintis Vytautui.
+- susijęs iš Ragainė: Ragainės komtūras Markvardas Salzbachas su 1600 raitelių prisidėjo prie Vytauto kariuomenės Kijeve.
+- susijęs iš [[objektai/zodynas/saar.md#claim-t-70315|saar]]: 1427 m. pradžioje buvo penki saarai, bet metų pabaigoje galutinai įsigalėjo Vytauto palaikomas Machmetas.
+- susijęs iš [[objektai/zodynas/saar.md#claim-t-70318|saar]]: Vytautas apie 30 metų rėmė saarus ir sulaukė totorių tarpe sau visiškai paklusnių valdovų.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -49,10 +59,3 @@ Papildomos aiškios formos neišskirtos.
   pagrindžia:
     - t-001
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Dželad-Eddinas]]
-- [[objektai/paprociai/Kieminė auka Perūnui per audrą]]
-- [[objektai/paprociai/Raitas keliavimas į bažnyčią, mugę ir kitas vietas]]
-- [[objektai/zodynas/saar]]

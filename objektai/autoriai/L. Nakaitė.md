@@ -29,9 +29,10 @@ Nakaitė, L.
 - t-001
   global_id: t-30782
   teiginys: 'L. Nakaitė tyrė sidabro naudojimą Lietuvoje II-XIII a. ir auksakalystę iki XIII a.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kailiai|Kailiai]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/daiktai/Sidabro dirbiniai.md#claim-t-05235|Sidabro dirbiniai]]: L. Nakaitė rašė apie sidabro naudojimą II-XIII a. Lietuvoje, sidabrą kaip vertės matą, sidabro dirbinius ir auksakalystę iki XIII a.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -57,7 +58,3 @@ Nakaitė, L.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Sidabro dirbiniai]]

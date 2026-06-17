@@ -18,6 +18,11 @@ Goštautas pakvietė vienuolių būrį į Vilnių, paskyrė jiems vietą netoli 
 - t-001
   global_id: t-185318
   teiginys: 'Goštautas pakvietė vienuolių būrį į Vilnių, paskyrė jiems vietą netoli Vingrių pelkės ir žadėjo ten pastatyti Švč. Mergelės Marijos bažnyčią.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys aiškiai sieja Goštauto veiksmą su vieta netoli Vingrių pelkės.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]'
   pagrindžia:
     - c-001
 

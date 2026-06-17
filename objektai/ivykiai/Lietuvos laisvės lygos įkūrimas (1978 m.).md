@@ -44,6 +44,11 @@ Nenurodyta
 - t-001
   global_id: t-20327
   teiginys: '1978 m. įkurta Lietuvos laisvės lyga siekė atkurti nepriklausomą Lietuvą, ugdyti religinę, tautinę ir politinę sąmonę bei kelti Lietuvos laisvės klausimą tarptautiniuose forumuose.'
+  sudarymo_pagrindimas: 'Teiginys pagrįstas, bet jį reikia sutrumpinti ir sutvarkyti enciklopediniu sakiniu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos laisvės lyga|Lietuvos laisvės lyga]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1978 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys pagrįstas, bet jį reikia sutrumpinti ir sutvarkyti enciklopediniu sakiniu.'
   pagrindžia:
     - c-001
 
@@ -66,8 +71,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuvos laisvės lyga]]
-- [[objektai/grupes/Lietuvos disidentai]]

@@ -11,7 +11,6 @@ datos:
   - '1236 m.'
   - '1241 m.'
   - '1312 m.'
-  - '1314 m.'
   - '1327 m.'
 date_start: '1112'
 date_end: '1327'
@@ -30,7 +29,7 @@ amziai:
 
 ## Santrauka
 
-Ptolomėjaus analuose pasakojama, kad netoli Rozėjos Briksijoje prie altoriaus vynas pavirto krauju, o duona kūnu. Brolių pamokslininkų ordinas minimas 1216 m., kai valdė popiežius Honorijus III. Tarp popiežiaus Bonifaco ir Prancūzijos karaliaus Pilypo prasidėjo nesantarvė dėl Prancūzijos karalystės pavaldumo apaštališkajam sostui.
+Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“, Bartolomiejus) iš Lukos, popiežiaus bibliotekininkas (miręs 1327 m.), parašė „Analus“ — bažnyčios istoriją, baigiamą XIV a. Dusburgietis teigia, kad apie Inocentą III, popiežių, ir Otoną IV bei Fridrichą II, imperatorius Po to viešpatavo Inocentas III, popiežius, ir Otonas IV bei Fridrichas II, imperatoriai (Ptol. 21,1 ir 2; Mart. p. 385). Dusburgietis teigia, kad apie lai, kaip prie šventojo altoriaus vynas pavirto krauju, o duona — kūnu Tuo metu netoli Rozėjos Briksijoje vynas žmonių akyse pavirto krauju, o duona kūnu prie šventojo altoriaus (Ptol. 21,4; Mart. p. 395).
 
 ## Teiginiai
 
@@ -38,6 +37,8 @@ Ptolomėjaus analuose pasakojama, kad netoli Rozėjos Briksijoje prie altoriaus 
 - t-001
   global_id: t-60888
   teiginys: 'Ptolomėjaus analuose pasakojama, kad netoli Rozėjos Briksijoje prie altoriaus vynas pavirto krauju, o duona kūnu.'
+  sudarymo_pagrindimas: 'Tai legendinis ar religinis pasakojimas, todėl reikia šaltinio atribucijos.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Altorius|Altorius]]; mentioned_object: [[objektai/daiktai/Duona|Duona]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]'
   pagrindžia:
     - c-002
 
@@ -45,6 +46,11 @@ Ptolomėjaus analuose pasakojama, kad netoli Rozėjos Briksijoje prie altoriaus 
 - t-002
   global_id: t-60889
   teiginys: 'Brolių pamokslininkų ordinas minimas 1216 m., kai valdė popiežius Honorijus III.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir paremtas citatoje nurodyta data bei popiežiumi.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Popiežius Honorijus III|Popiežius Honorijus III]]'
+  temporaliniai_duomenys: 'įvykio data: 1216 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, aiškus ir paremtas citatoje nurodyta data bei popiežiumi.'
   pagrindžia:
     - c-006
 
@@ -52,6 +58,8 @@ Ptolomėjaus analuose pasakojama, kad netoli Rozėjos Briksijoje prie altoriaus 
 - t-003
   global_id: t-60890
   teiginys: 'Tarp popiežiaus Bonifaco ir Prancūzijos karaliaus Pilypo prasidėjo nesantarvė dėl Prancūzijos karalystės pavaldumo apaštališkajam sostui.'
+  sudarymo_pagrindimas: 'Pradiniame teiginyje liko neaiškus „tais pačiais metais“, o citata leidžia patikslinti nesantarvės priežastį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/reskriptas|reskriptas]]; mentioned_place: Prancūzija'
   pagrindžia:
     - c-003
 
@@ -59,6 +67,11 @@ Ptolomėjaus analuose pasakojama, kad netoli Rozėjos Briksijoje prie altoriaus 
 - t-004
   global_id: t-60891
   teiginys: 'Ptolomėjus iš Lukos, Tomo Akviniečio mokinys ir popiežiaus bibliotekininkas, parašė „Analus“ apie bažnyčios istoriją.'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nusako Ptolomėjaus iš Lukos vaidmenį ir jo „Analų“ pobūdį.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
+  temporaliniai_duomenys: 'įvykio data: 1327 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako Ptolomėjaus iš Lukos vaidmenį ir jo „Analų“ pobūdį.'
   pagrindžia:
     - c-004
 
@@ -66,6 +79,11 @@ Ptolomėjaus analuose pasakojama, kad netoli Rozėjos Briksijoje prie altoriaus 
 - t-005
   global_id: t-60892
   teiginys: '1312 m. kovo 22 d. popiežius Klemensas V Vieno sinode pasmerkė tamplierių ordiną.'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, glaustas ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Klemensas V|Klemensas V]]'
+  temporaliniai_duomenys: 'įvykio data: 1312 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, glaustas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -73,6 +91,11 @@ Ptolomėjaus analuose pasakojama, kad netoli Rozėjos Briksijoje prie altoriaus 
 - t-006
   global_id: t-60893
   teiginys: '1314 m. kovo 1 d. prie Karpantra, kur buvo Romos kurija, pasirodė trys saulės.'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys ir tiksliai perteikia citatos įvykį.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/senatas|senatas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1314 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys ir tiksliai perteikia citatos įvykį.'
   pagrindžia:
     - c-005
 
@@ -80,6 +103,11 @@ Ptolomėjaus analuose pasakojama, kad netoli Rozėjos Briksijoje prie altoriaus 
 - t-007
   global_id: t-60894
   teiginys: '1228 m. Italijoje radosi gibelinų ir gvelfų partijos: Gibelinas rėmė imperatorių, o Gveltas bažnyčią.'
+  sudarymo_pagrindimas: 'Teiginys glaustai ir gramatiškai perteikia citatos informaciją apie gibelinus ir gvelfus.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/gibelinai|gibelinai]]; mentioned_object: [[objektai/zodynas/gvelfai|gvelfai]]; mentioned_place: Italija'
+  temporaliniai_duomenys: 'įvykio data: 1228 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys glaustai ir gramatiškai perteikia citatos informaciją apie gibelinus ir gvelfus.'
   pagrindžia:
     - c-009
 
@@ -87,6 +115,8 @@ Ptolomėjaus analuose pasakojama, kad netoli Rozėjos Briksijoje prie altoriaus 
 - t-008
   global_id: t-60895
   teiginys: 'Birželio 3 d. per pietus įvyko toks smarkus saulės užtemimas, kad buvo matyti žvaigždės.'
+  sudarymo_pagrindimas: 'Pradinis teiginys turi OCR triukšmo, perteklinę atribuciją ir nėra suformuluotas kaip tvarkingas sakinys.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]'
   pagrindžia:
     - c-008
 
@@ -94,6 +124,8 @@ Ptolomėjaus analuose pasakojama, kad netoli Rozėjos Briksijoje prie altoriaus 
 - t-009
   global_id: t-60896
   teiginys: 'Popiežius Inocentas III viešpatavo kartu su imperatoriais Otonu IV ir Fridrichu II.'
+  sudarymo_pagrindimas: 'Pradinis teiginys turi neaiškų kontekstinį posakį „po ankstesnio laikotarpio“.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_person: [[objektai/asmenys/Inocentas III|Inocentas III]]; mentioned_person: [[objektai/asmenys/Otonas|Otonas]]'
   pagrindžia:
     - c-007
 

@@ -14,6 +14,7 @@ tags:
   - kunigaikštis
   - paliaubos
   - pilis
+  - tikėjimas
 amziai:
   - 'M'
 periodo_grupes: []
@@ -22,7 +23,7 @@ periodo_grupes: []
 
 ## Santrauka
 
-Mazovijos kunigaikštis Boleslovas sudarė laikinas paliaubas tarp krikščionių ir lietuvių. Mazovijos kunigaikštis Boleslovas po Vytenio įsiveržimo į Lenkiją sudarė laikinas paliaubas tarp krikščionių ir lietuvių. Boleslovas, Mazovijos kunigaikštis, vedė Lauro seserį, tikėdamasis per giminystę su valdovais sumažinti lietuvių užpuldinėjimus.
+Dusburgietis teigia, kad šitai sužinojęs, Mazovijos kunigaikštis Boleslovas man nesuprantamais sumetimais sudarė kuriam laikui tarp krikščionių ir netikėlių paliaubas, jų metu lenkai, nesitikėdami jokių pavojų, ramiai sau dirbo visokius darbus, tuo tarpu lietuviai, nutraukę šį. Dusburgietis teigia, kad apie tai, kaip buvo sugriauta Mazovijos kunigaikščio pilis, kurią vadina Viz­ na Tais pačiais 1294 metais, užmiršęs dievo baimę, Boleslovas, Mazovijos kunigaikštis, ieškodamas dingsties suniekinti dievą bei užkrauti krikščionims sunkią ir skaudžią naštą, ne.
 
 ## Teiginiai
 
@@ -30,6 +31,9 @@ Mazovijos kunigaikštis Boleslovas sudarė laikinas paliaubas tarp krikščioni�
 - t-001
   global_id: t-89678
   teiginys: 'Mazovijos kunigaikštis Boleslovas sudarė laikinas paliaubas tarp krikščionių ir lietuvių.'
+  sudarymo_pagrindimas: 'Citata pagrindžia Boleslovo veiksmą, o pradinis teiginys nutrūkęs.'
+  susije_objektai: 'territory: Lenkija; territory: Lenčica; territory: Lietuva; territory: Mazovija; territory: Viena; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_person: [[objektai/asmenys/Boleslovas|Boleslovas]]; mentioned_place: Lenkija; mentioned_place: Lenčica; mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis)|Boleslovas (Mazovijos kunigaikštis)]] buvo valdovas Lenkija; [[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis)|Boleslovas (Mazovijos kunigaikštis)]] buvo valdovas Lenčica; [[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis)|Boleslovas (Mazovijos kunigaikštis)]] buvo valdovas Lietuva; [[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis)|Boleslovas (Mazovijos kunigaikštis)]] buvo valdovas Mazovija; [[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis)|Boleslovas (Mazovijos kunigaikštis)]] buvo valdovas Viena'
   pagrindžia:
     - c-002
 
@@ -37,6 +41,9 @@ Mazovijos kunigaikštis Boleslovas sudarė laikinas paliaubas tarp krikščioni�
 - t-002
   global_id: t-89680
   teiginys: 'Mazovijos kunigaikštis Boleslovas po Vytenio įsiveržimo į Lenkiją sudarė laikinas paliaubas tarp krikščionių ir lietuvių.'
+  sudarymo_pagrindimas: 'Pradinis teiginys daugiausia apie Kazimierą ir turi neaiškų įvardį.'
+  susije_objektai: 'territory: Lenkija; territory: Lenčica; territory: Lietuva; territory: Mazovija; territory: Viena; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_person: [[objektai/asmenys/Boleslovas|Boleslovas]]; mentioned_place: Lenkija; mentioned_place: Lenčica; mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis)|Boleslovas (Mazovijos kunigaikštis)]] buvo valdovas Lenkija; [[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis)|Boleslovas (Mazovijos kunigaikštis)]] buvo valdovas Lenčica; [[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis)|Boleslovas (Mazovijos kunigaikštis)]] buvo valdovas Lietuva; [[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis)|Boleslovas (Mazovijos kunigaikštis)]] buvo valdovas Mazovija; [[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis)|Boleslovas (Mazovijos kunigaikštis)]] buvo valdovas Viena'
   pagrindžia:
     - c-002
 
@@ -44,6 +51,11 @@ Mazovijos kunigaikštis Boleslovas sudarė laikinas paliaubas tarp krikščioni�
 - t-003
   global_id: t-184678
   teiginys: 'Boleslovas, Mazovijos kunigaikštis, vedė Lauro seserį, tikėdamasis per giminystę su valdovais sumažinti lietuvių užpuldinėjimus.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata pagrindžia santuoką ir Boleslovo motyvą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Lauras|Lauras]]; mentioned_place: Mazovija; mentioned_place: Naugardukas; mentioned_place: Nemunas'
   pagrindžia:
     - c-003
 
@@ -51,6 +63,15 @@ Mazovijos kunigaikštis Boleslovas sudarė laikinas paliaubas tarp krikščioni�
 - t-004
   global_id: t-184679
   teiginys: 'Mazovijos kunigaikštis Boleslovas Viznoje laikė lietuvių įgulą, nors mozūrai ir kryžiuočiai tuo metu buvo sudarę sąjungą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata pagrindžia konkretų Boleslovo veiksmą Viznoje.'
+  susije_objektai: 'territory: Gaižuva; territory: Mazovija; territory: Prūsai; territory: Viena; territory: Vizna; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Boleslovas|Boleslovas]]; mentioned_place: Gaižuva; mentioned_place: Mazovija; mentioned_place: Prūsai; mentioned_place: Viena; mentioned_place: Vizna'
+  semantiniai_rysiai: '[[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis)|Boleslovas (Mazovijos kunigaikštis)]] buvo valdovas Gaižuva; [[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis)|Boleslovas (Mazovijos kunigaikštis)]] buvo valdovas Mazovija; [[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis)|Boleslovas (Mazovijos kunigaikštis)]] buvo valdovas Prūsai; [[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis)|Boleslovas (Mazovijos kunigaikštis)]] buvo valdovas Viena; [[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis)|Boleslovas (Mazovijos kunigaikštis)]] buvo valdovas Vizna'
+  temporaliniai_duomenys: 'valdymo laikotarpis: 1295 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Boleslovas (Mazovijos kunigaikštis) buvo valdovas Gaižuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Boleslovas (Mazovijos kunigaikštis) buvo valdovas Mazovija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Boleslovas (Mazovijos kunigaikštis) buvo valdovas Prūsai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Boleslovas (Mazovijos kunigaikštis) buvo valdovas Viena“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Boleslovas (Mazovijos kunigaikštis) buvo valdovas Vizna“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Citata pagrindžia konkretų Boleslovo veiksmą Viznoje.'
   pagrindžia:
     - c-004
 
@@ -58,6 +79,14 @@ Mazovijos kunigaikštis Boleslovas sudarė laikinas paliaubas tarp krikščioni�
 - t-005
   global_id: t-184680
   teiginys: 'Boleslovas, Mazovijos kunigaikštis, užpuolė Palenkę ir užėmė Melniką, Belską bei Drohičiną.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pradinis teiginys iš esmės pagrįstas, bet reikia sutvarkyti formą ir skyrybą.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Belskas; mentioned_place: Drohičinas; mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_place: Palenkė'
+  temporaliniai_duomenys: 'įvykio data: 1440 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys iš esmės pagrįstas, bet reikia sutvarkyti formą ir skyrybą.'
   pagrindžia:
     - c-005
 
@@ -65,6 +94,11 @@ Mazovijos kunigaikštis Boleslovas sudarė laikinas paliaubas tarp krikščioni�
 - t-006
   global_id: t-184681
   teiginys: 'Renkant karalių Piotrkovo seime, Plocko vyskupo patarti rinkėjai kėlė Mazovijos kunigaikštį Boleslovą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citata pagrindžia Boleslovo kandidatūros kėlimą; pašalintos perteklinės detalės.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Mazovija; mentioned_place: Piotrkovas; mentioned_place: Plockas'
   pagrindžia:
     - c-006
 
@@ -233,13 +267,11 @@ Mazovijos kunigaikštis Boleslovas sudarė laikinas paliaubas tarp krikščioni�
     - t-006
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/paliaubos]]
-
-### Susiję objektai
-- [[objektai/asmenys/Boleslovas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/netikėliai]]
-- [[objektai/zodynas/seimas]]
+- Boleslovas (Mazovijos kunigaikštis) buvo_valdovas [[objektai/vietos/Gaižuva]]
+- Boleslovas (Mazovijos kunigaikštis) buvo_valdovas [[objektai/vietos/Lenkija]]
+- Boleslovas (Mazovijos kunigaikštis) buvo_valdovas [[objektai/vietos/Lenčica]]
+- Boleslovas (Mazovijos kunigaikštis) buvo_valdovas [[objektai/vietos/Lietuva]]
+- Boleslovas (Mazovijos kunigaikštis) buvo_valdovas [[objektai/vietos/Mazovija]]
+- Boleslovas (Mazovijos kunigaikštis) buvo_valdovas [[objektai/vietos/Prūsai]]
+- Boleslovas (Mazovijos kunigaikštis) buvo_valdovas [[objektai/vietos/Viena]]
+- Boleslovas (Mazovijos kunigaikštis) buvo_valdovas [[objektai/vietos/Vizna]]

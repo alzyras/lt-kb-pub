@@ -20,6 +20,8 @@ Dusburgietis teigia, kad neilgai trukus, kai komtūras, sutvarkęs visus savo re
 - t-001
   global_id: t-59098
   teiginys: 'Nodamas, apsimetęs moterimi, prašė brolį Ernekę priimti jį į laivą ir išvaduoti jo sielą iš velnio vergovės.'
+  sudarymo_pagrindimas: 'Citata leidžia įvardyti veikėjus ir sutrumpinti ilgą, neaiškų pradinį sakinį.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Ernekė|Ernekė]]'
   pagrindžia:
     - c-001
 
@@ -44,7 +46,3 @@ Dusburgietis teigia, kad neilgai trukus, kai komtūras, sutvarkęs visus savo re
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Ernekė]]

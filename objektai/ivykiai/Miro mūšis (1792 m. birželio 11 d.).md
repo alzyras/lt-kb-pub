@@ -43,6 +43,11 @@ Nenurodyta
 - t-001
   global_id: t-41325
   teiginys: '1792 m. birželio 11 d. prie Miro įvyko pirmasis didelis mūšis, kuriame Lietuvos kariuomenė patyrė pirmąją nesėkmę.'
+  sudarymo_pagrindimas: 'Įrašyti metai, kad sakinys būtų savarankiškas ir aiškus.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Miro; mentioned_place: Zelencai; mentioned_place: Zelva'
+  temporaliniai_duomenys: 'mūšio data: 1792 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Įrašyti metai, kad sakinys būtų savarankiškas ir aiškus.'
   pagrindžia:
     - c-001
 
@@ -67,10 +72,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuvos kariuomenė]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/ivykiai/Zelencų mūšis (1792 m. birželio 18 d.)]]
-- [[objektai/ivykiai/Zelvos mūšis (1792 m. liepos 4 d.)]]
